@@ -1,0 +1,75 @@
+65091138,Joining ranked inputs in practice,2002,21,83,2,0.0,220758600,Walid G. Aref,0,-0.0041099411153885,0.0447066884760059
+16838906,A Video Database Management System for Advancing Video Database Research,2002,28,19,3,0.0,220758600,Walid G. Aref,0,-0.34857978327751216,-0.2513987233039086
+1496672428,Trends in rank join,2011,8,0,4,0.0,303637227,Davide Martinenghi,0,-0.0041099411153885,0.0447066884760059
+1535035109,CORDS automatic generation of correlation statistics in DB2,2004,1,13,2,0.206315,1963964406,Volker Markl,0,0.7091925579491484,0.0961205803614717
+1841643733,A distributed database server for continuous media,2002,0,9,3,0.0,220758600,Walid G. Aref,0,0.1949432610054743,0.08735260591309034
+1608132282,SMAS A smart meter data analytics system,2015,5,21,1,1.0,1982738670,Ihab F. Ilyas,0,0.8683806953842131,0.03437259344967456
+1976732638,BigDansing A System for Big Data Cleansing,2015,38,80,3,0.0,1671481,Mourad Ouzzani,0,0.09777391578903583,-0.3563971278136846
+1969092646,DataXFormer An Interactive Data Transformation Tool,2015,9,15,4,0.0,1671481,Mourad Ouzzani,0,-1.2105481183936178,-1.3000623501830535
+1972924401,Building ranked mashups of unstructured sources with uncertain information,2010,22,8,2,1.0,1966456644,Mohamed A. Soliman,0,-1.346413616608411,-1.311988979248131
+2008641248,ProbClean A probabilistic duplicate detection system,2010,3,6,3,1.0,974729037,George Beskales,0,0.015458021088710194,-0.03583103258920619
+1998792254,URank formulation and efficient evaluation of top-k queries in uncertain databases,2007,5,18,2,1.0,1966456644,Mohamed A. Soliman,0,-0.0041099411153885,0.0447066884760059
+1992479406,KATARA A Data Cleaning System Powered by Knowledge Bases and Crowdsourcing,2015,46,129,3,0.0,1671481,Mourad Ouzzani,0,-0.2532945890382667,-0.27291019846201575
+1992517783,Finding Skyline and Top-k Bargaining Solutions,2007,5,6,3,0.0,335443309,Nick Koudas,0,0.9759037201417633,0.22794295489116023
+2008271340,NADEEF a generalized data cleaning system,2013,8,22,2,0.0,1671481,Mourad Ouzzani,0,-0.6929326960895579,-0.24152227109692376
+2028295384,MashRank Towards uncertainty-aware and rank-aware mashups,2010,8,3,2,1.0,1966456644,Mohamed A. Soliman,0,-1.346413616608411,-1.311988979248131
+2012848182,Supporting ranking queries on uncertain and incomplete data,2010,40,52,2,1.0,1966456644,Mohamed A. Soliman,0,0.3565816221029829,-0.16578994678723874
+2027259333,Estimating compilation time of a query optimizer,2003,45,77,2,0.0,401236404,Guy M. Lohman,0,-0.14977504274581976,-0.11222814673782604
+2029052075,RuleMiner Data quality rules discovery,2014,8,16,2,0.375065,1254989700,Paolo Papotti,0,-0.27153134656949884,-0.2057266264173673
+2041882671,Supporting ad-hoc ranking aggregates,2006,38,63,1,1.0,1982738670,Ihab F. Ilyas,0,0.0908845357243609,0.31128747720343375
+2044469685,Holistic data cleaning Putting violations into context,2013,19,152,2,0.375065,1254989700,Paolo Papotti,0,0.5327897813679705,0.00021541180788252692
+2046298800,NADEEF a commodity data cleaning system,2013,30,177,4,0.0,1671481,Mourad Ouzzani,0,0.4117538642040118,0.11423270492768749
+2042832124,Report on the First International Workshop on Ranking in Databases (DBRank07),2007,10,1,1,1.0,1982738670,Ihab F. Ilyas,0,-0.7090657143755633,-0.9393593573412935
+2039548475,Descriptive and prescriptive data cleaning,2014,21,32,4,0.0,1671481,Mourad Ouzzani,0,0.05172999583332301,-0.22149152316147996
+2041442195,On the relative trust between inconsistent data and inaccurate constraints,2013,15,56,3,1.0,974729037,George Beskales,0,0.8049356754437537,-0.2577837654412189
+2063103859,Guided data repair,2011,24,137,2,0.0,1671481,Mourad Ouzzani,0,-0.029783446868745178,-0.056926274625056374
+2102489964,CORDS automatic discovery of correlations and soft functional dependencies,2004,21,248,2,0.206315,1963964406,Volker Markl,0,0.8849488502274716,0.02837874106067673
+2084538728,RankSQL query algebra and optimization for relational top-k queries,2005,32,253,1,1.0,1982738670,Ihab F. Ilyas,0,2.1400838840966308,0.3307109469395447
+2088403135,Expressive and flexible access to web-extracted data a keyword-based structured query language,2010,26,52,2,0.0,24267532,Grant E. Weddell,0,0.0908845357243609,0.31128747720343375
+2079908845,We are drowning in a sea of least publishable units (LPUs),2013,0,0,2,0.0,1979791317,David J. DeWitt,0,-0.0041099411153885,0.0447066884760059
+2138271690,Top-k Query Processing in Uncertain Databases,2007,25,379,2,1.0,1966456644,Mohamed A. Soliman,0,0.43739842239757626,0.009947045888208002
+2112144328,VDBMS A testbed facility for research in video database benchmarking,2004,38,9,3,0.0385604,220758600,Walid G. Aref,0,-0.00492109496191035,-0.1728987636093571
+2126982545,Nile a query processing engine for data streams,2004,4,128,4,0.0385604,220758600,Walid G. Aref,0,0.7215975991611812,0.3052417628859806
+2118265701,Adaptive rank-aware query optimization in relational databases,2006,37,57,3,0.0,118037170,Jeffrey Scott Vitter,0,0.36610311895500325,0.07045586025680924
+2121433213,Probabilistic top- k and ranking-aggregate queries,2008,34,73,2,1.0,1966456644,Mohamed A. Soliman,0,1.5606135106528942,0.36654066418524994
+2133246278,Efficient search for the top-k probable nearest neighbors in uncertain databases,2008,29,138,3,1.0,974729037,George Beskales,0,0.13506710143890385,0.005162817422601401
+2133343243,QUICK expressive and flexible search over knowledge bases and text collections,2010,5,3,2,0.0,24267532,Grant E. Weddell,0,-0.0041099411153885,0.0447066884760059
+2142560248,FIX feature-based indexing technique for XML documents,2006,32,44,2,0.0,360895095,M. Tamer Ã–zsu,0,2.5198917302132386,-0.9402814900972305
+2112840274,Sampling the repairs of functional dependency violations under hard constraints,2010,15,85,2,1.0,974729037,George Beskales,0,0.7080974213803264,-0.11418989663088869
+2133623058,Creating competitive products,2009,21,55,2,0.0,360895095,M. Tamer Ã–zsu,0,0.25245882146783893,0.09919480006319664
+2107194065,Message from the DBRANK08 program co-chairs,2008,0,0,2,0.0,238786035,Vagelis Hristidis,0,0.03565810966282755,0.09825506972366725
+2113415503,Modeling and querying possible repairs in duplicate detection,2009,25,43,3,1.0,974729037,George Beskales,0,-0.27655308516570715,-0.408330925399035
+2143682328,Supporting top- k join queries in relational databases,2004,22,355,2,0.0385604,220758600,Walid G. Aref,0,0.9798093359609279,0.12182656400208815
+2111128099,Rank-aware query processsing and optimization,2005,30,9,2,0.0,220758600,Walid G. Aref,0,0.633627175335418,0.959163107129848
+2168592511,PSALM Cardinality Estimation in the Presence of Fine-Grained Access Controls,2009,25,5,1,1.0,1982738670,Ihab F. Ilyas,0,0.3878973337708522,-0.01152252985257233
+2166443874,XSEED Accurate and Fast Cardinality Estimation for XPath Queries,2006,16,57,2,0.0,431919906,M.T. Ozsu,0,1.5436622841552579,-0.4324902194842151
+2163438246,StatAdvisor recommending statistical views,2009,23,11,1,1.0,1982738670,Ihab F. Ilyas,0,0.044859856903840555,0.012551371775477651
+2151873965,Collecting and Maintaining Just-in-Time Statistics,2007,16,18,2,0.206315,1963964406,Volker Markl,0,0.014532710543751099,0.030944858938630852
+2166855749,Rank-aware query optimization,2004,31,129,3,0.0,118037170,Jeffrey Scott Vitter,0,0.0908845357243609,0.31128747720343375
+2166983497,An extensible index for spatial databases,2001,42,20,2,0.0,220758600,Walid G. Aref,0,-0.19685964738756892,-0.12295391956764319
+2146021203,InterJoin Exploiting Indexes and Materialized Views in XPath Evaluation,2006,18,10,1,1.0,1982738670,Ihab F. Ilyas,0,2.1187678283957943,-0.5735452440783901
+2170712852,Discovering denial constraints,2013,19,88,2,0.375065,1254989700,Paolo Papotti,0,0.755586531810391,-0.08755315766531213
+2146776490,RankSQL supporting ranking queries in relational database management systems,2005,3,25,2,1.0,1966456644,Mohamed A. Soliman,0,1.1129960210654057,0.33192207795916806
+2170896764,Ranking with Uncertain Scores,2009,29,75,2,1.0,1966456644,Mohamed A. Soliman,0,0.2123154364719291,0.000803341973238734
+2168172602,Automatic relationship discovery in self-managing database systems,2004,2,9,2,0.206315,1963964406,Volker Markl,0,1.9192975376230113,0.061856247136532407
+2262592273,KATARA reliable data cleaning with knowledge bases and crowdsourcing,2015,11,13,3,0.0,1671481,Mourad Ouzzani,0,0.43739842239757626,0.009947045888208002
+2288244345,Data Curation at Scale The Data Tamer System,2013,10,122,3,0.0,431165649,Stanley B. Zdonik,0,0.18542519363614984,0.0007817382733590617
+2294876144,Benchmarking Smart Meter Data Analytics,2015,26,24,1,1.0,1982738670,Ihab F. Ilyas,0,1.204501787921431,0.29860165833699415
+2295659583,DataXFormer Leveraging the Web for Semantic Transformations,2015,22,16,3,0.0,208931610,Michael N. Gubanov,0,-1.4629657598051644,-1.733673475455998
+2406661182,DATA CURATION SYSTEM WITH VERSION CONTROL FOR WORKFLOW STATES AND PROVENANCE,2015,8,5,2,1.0,974729037,George Beskales,0,-0.03456895769415114,0.08598316155083514
+2425316268,CLAMS Bringing Quality to Data Lakes,2016,5,26,1,1.0,1982738670,Ihab F. Ilyas,0,-0.0662187669309753,0.07535440124231704
+2427822648,DataXFormer A robust transformation discovery system,2016,31,21,4,0.0,1671481,Mourad Ouzzani,0,-0.2713454487944406,-0.6915648836487556
+2492590231,Distributed data deduplication,2016,25,27,2,0.0,36008294,Paraschos Koutris,0,0.22509212769040984,0.2855808040636949
+2438459259,Dark Data Are we solving the right problems ,2016,0,4,2,0.0,2893888,Michael Cafarella,0,0.15931092164676272,0.8038216531517461
+2553567329,Smart Meter Data Analytics Systems Algorithms and Benchmarking,2017,36,25,1,1.0,1982738670,Ihab F. Ilyas,0,1.204501787921431,0.29860165833699415
+2585438896,The Data Civilizer System,2017,18,43,3,0.0,1671481,Mourad Ouzzani,0,-0.0041099411153885,0.0447066884760059
+2613536717,A Demo of the Data Civilizer System,2017,5,16,3,0.0,1671481,Mourad Ouzzani,0,-0.11982675687125922,-0.2490051613940225
+2757562428,Entity Consolidation The Golden Record Problem,2017,46,4,3,0.0,1671481,Mourad Ouzzani,0,-0.27529732947590096,0.6088417614542732
+2779603296,Private Exploration Primitives for Data Cleaning,2017,33,1,1,1.0,1982738670,Ihab F. Ilyas,0,0.2946713761785912,0.4027268098681643
+2785137542,A Formal Framework For Probabilistic Unclean Databases,2018,38,0,2,0.0,1113585828,Benny Kimelfeld,0,1.9222082215683542,0.15410590102215166
+2898269683,Building Data Civilizer Pipelines with an Advanced Workflow Engine,2018,8,3,3,0.0,1671481,Mourad Ouzzani,0,0.12612142656726757,0.6503260228414357
+2924482967,SIGMOD officers committees and awardees,2018,1103,0,1,1.0,1982738670,Ihab F. Ilyas,0,-0.0041099411153885,0.0447066884760059
+2913282654,Session details Research session 21 entity matching,2014,0,0,1,1.0,1982738670,Ihab F. Ilyas,0,-0.0041099411153885,0.0447066884760059
+2939394909,Principles of Progress Indicators for Database Repairing,2019,36,1,2,0.0,1113585828,Benny Kimelfeld,0,0.23472677909894588,-0.0632064843892685
+2962752375,A Formal Framework for Probabilistic Unclean Databases,2019,0,8,2,0.0,1113585828,Benny Kimelfeld,0,1.582253848769094,0.1276476190304639
+2985898855,ExplIQuE Interactive Databases Exploration with SQL,2019,2,0,2,0.0,222118968,Vasile Marian Scuturici,0,-0.24790399544748556,-0.16302693323079195

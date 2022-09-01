@@ -1,0 +1,115 @@
+1439921,Proving reachability using FSHELL,2012,9,5,4,0.0,145171561,Christian Schallhart,0,0.5671633392126908,0.3210974607757858
+139090961,Interpolation-based software verification with WOLVERINE,2011,22,39,2,1.0,1246142335,Georg Weissenbacher,0,1.5747041616554045,0.47755057326375544
+190508917,Verification of SpecC and Verilog using Predicate Abstraction,2004,0,8,1,1.0,2132595810,Daniel Kroening,0,0.37510945650772876,0.8363379379672989
+73637996,Incremental Bounded Model Checking for Embedded Software (extended version),2014,27,7,5,0.0,1208159106,Tom BienmÃ¼ller,0,1.0591658539947841,-0.4767605294731573
+92273908,Automating Software Analysis at Large Scale,2014,21,6,2,0.824954,281512770,Michael Tautschnig,0,0.8662539470110363,-0.5359141964811058
+144189431,Decision Procedures for Propositional Logic,2008,0,3,2,0.0,104420321,Ofer Strichman,0,-0.32155283791165873,-0.00617879636589495
+130494134,Automated Verification of Concurrent Software,2013,6,3,1,1.0,2132595810,Daniel Kroening,0,-0.0002650316268345713,0.10721238213389918
+113529588,Predicate abstraction and refinement techniques for verifying Verilog,2004,23,14,2,0.0,2129477832,Edmund M. Clarke,0,0.06038571444660579,-0.20458577700860178
+80882812,SatAbs a bit-precise verifier for C programs,2012,14,9,3,0.915498,281512770,Michael Tautschnig,0,0.8563579077236758,-0.4476326940327349
+186123808,Precise Predictive Analysis for Discovering Communication Deadlocks in MPI Programs,2014,25,24,1,1.0,2132595810,Daniel Kroening,0,-0.15077940602074036,-0.1367744948973331
+50590539,SAT-based summarization for Boolean programs,2007,34,11,2,1.0,1246142335,Georg Weissenbacher,0,0.0344016535590069,0.008034984293224107
+906765786,Synthesising Interprocedural Bit-Precise Termination Proofs (extended version),2015,5,1,2,1.0,1921156845,Peter Schrammel,0,-0.39757895443690866,0.01606659199572476
+1488004637,VCEGAR Verilog counterexample guided abstraction refinement,2007,9,11,3,0.874223,1365520453,Natasha Sharygina,0,1.4405766568991802,0.13555229332699886
+1488440277,Abstraction of Syntax,2013,26,3,2,1.0,11773849,Vijay DSilva,0,-0.2889432826686928,0.22052122636285354
+1505597832,Symbolic model checking for asynchronous boolean programs,2005,36,55,2,1.0,1365520453,Natasha Sharygina,0,0.14991278218738677,0.03028064210096202
+1481101394,Propositional Reasoning about Safety and Termination of Heap-Manipulating Programs,2015,16,1,1,1.0,2132595810,Daniel Kroening,0,1.406388012294163,-0.25944300281357663
+1553234331,Safety Verification and Refutation by k-invariants and k-induction (extended version),2015,26,1,3,1.0,1921156845,Peter Schrammel,0,0.6236991187351263,-0.6824146908116302
+1535438831,Partial Orders for Efficient BMC of Concurrent Software,2013,50,4,3,0.408327,76926217,Jade Alglave,0,0.7974555655767194,-0.0534708727372595
+1562679818,SATABS SAT-Based predicate abstraction for ANSI-C,2005,22,252,3,1.0,1365520453,Natasha Sharygina,0,0.8017701501055938,0.199810580195126
+1036355022,METHOD AND SYSTEM TO VERIFY A CIRCUIT DESIGN,2004,5,3,2,0.0,2129477832,Edmund M. Clarke,0,-0.3193362091780844,-0.14362041755978985
+1527493026,Checking consistency of C and Verilog using predicate abstraction and induction,2004,26,18,2,0.0,2129477832,Edmund M. Clarke,0,0.00871228690223913,0.28170850347788434
+1414262331,Second-Order SAT Solving using Program Synthesis,2014,0,1,1,1.0,2132595810,Daniel Kroening,0,-0.3004325884246362,-0.14438807869429146
+1556078275,Scoot a tool for the analysis of SystemC models,2008,11,39,2,0.786112,1365520453,Natasha Sharygina,0,0.35450583253402035,-0.35462607183441974
+1485572331,Dynamic cutoff detection in parameterized concurrent programs,2010,25,83,2,1.0,2011487694,Alexander Kaiser,0,0.8426364375336078,0.4421898937017466
+1556652046,BOOM taking boolean program model checking one step further,2010,12,16,2,0.0,2050023610,Matthew Hague,0,-0.14654395358230857,0.6787855695483623
+1539795027,Symmetry-aware predicate abstraction for shared-variable concurrent programs,2011,28,39,2,1.0,2011487694,Alexander Kaiser,0,0.4400990116759324,0.5419292767800432
+1836035163,Cogent accurate theorem proving for program verification,2005,14,49,2,1.0,1365520453,Natasha Sharygina,0,0.38800891296802315,-0.28432737029080335
+1586035363,Symbolic Counter Abstraction for Concurrent Software,2009,31,39,2,0.0,2094803461,Michele Mazzucchi,0,0.3309383705359976,0.2697174720342478
+1794903062,Decision Procedures for the Grand Challenge,2005,55,0,1,1.0,2132595810,Daniel Kroening,0,-0.0183024870971178,0.0680118484996777
+1903607296,Second-Order Propositional Satisfiability,2014,15,2,1,1.0,2132595810,Daniel Kroening,0,-0.15302908312844635,-0.03518749026673882
+1669545146,Symmetry-Aware Predicate Abstraction for Shared-Variable Concurrent Programs (Extended Technical Report),2011,22,2,2,1.0,2011487694,Alexander Kaiser,0,0.4400990116759324,0.5419292767800432
+1906082689,AbPress Flexing Partial-Order Reduction and Abstraction,2014,12,0,1,1.0,2132595810,Daniel Kroening,0,-0.0019198529575080946,0.13313330530431206
+1877513498,Software verification for weak memory via program transformation,2013,28,76,4,0.408327,76926217,Jade Alglave,0,1.0147979037713508,0.18600851208667396
+1935464460,Using Program Synthesis for Program Analysis,2015,22,6,1,1.0,2132595810,Daniel Kroening,0,-0.15114670644948727,0.004377929370208464
+1588615233,Donâ€™t Sit on the Fence A Static Analysis Approach to Automatic Fence Insertion,2017,47,6,4,0.408327,76926217,Jade Alglave,0,-0.15341733658845857,-0.02364727839734787
+1851512747,Accurate theorem proving for program verification,2004,44,2,2,1.0,1365520453,Natasha Sharygina,0,0.5130841802859772,-0.4788320414322355
+1690475404,Speeding Up Simulation of SystemC Using Model Checking,2009,31,2,1,1.0,2132595810,Daniel Kroening,0,0.2197935451565108,0.04102558716932551
+1818932744,On Partial Order Semantics for SAT/SMT-Based Symbolic Encodings of Weak Memory Concurrency,2015,24,5,2,0.0,2097752094,Alex Horn,0,-0.07802407386845497,0.28769467595199305
+1889756448,Software verification using k-induction,2011,26,59,3,0.0,328248823,Philipp RÃ¼mmer,0,0.605639254829739,-0.3040834113033718
+1917325995,Hardware Verification Using Software Analyzers,2015,21,13,1,1.0,2132595810,Daniel Kroening,0,2.5029894727213544,-0.95199000832962
+1613817315,Synthesising Interprocedural Bit-Precise Termination Proofs (T),2015,54,13,2,1.0,1921156845,Peter Schrammel,0,0.22686599237432215,0.02952739398162447
+1826991911,Model and Proof Generation for Heap-Manipulating Programs,2014,26,4,3,1.0,1921156845,Peter Schrammel,0,-0.3186577299192785,0.3362905776531775
+1602156367,Partial Orders for Efficient Bounded Model Checking ofÅºConcurrentÅºSoftware,2013,43,113,3,0.408327,76926217,Jade Alglave,0,0.26390917382076207,-0.3239950149085291
+1602446192,Tutorial Software Model Checking,2004,14,1,2,0.0,2129477832,Edmund M. Clarke,0,-0.5018479958005795,0.3421683412973272
+1997960810,Hardware verification using ANSI-C programs as a reference,2003,5,71,2,0.0,2129477832,Edmund M. Clarke,0,1.323275390389181,-0.20531991754971518
+1991405126,Counterexample-guided abstraction refinement for symmetric concurrent programs,2012,33,18,3,0.915498,281512770,Michael Tautschnig,0,0.3309383705359976,0.2697174720342478
+1988475842,Interactive presentation Image computation and predicate refinement for RTL verilog using word level proofs,2007,18,5,2,0.874223,1365520453,Natasha Sharygina,0,-0.3492351882198559,-0.11254858160367037
+2002727082,Embedded software verification challenges and solutions,2008,0,0,2,0.0,2117247149,Malay K. Ganai,0,3.5004511080617076,-0.8724555171553334
+2020850585,Verifying C++ with STL containers via predicate abstraction,2007,22,19,2,0.571429,1965603299,Alex Groce,0,-0.05476082950374117,0.47289237449732147
+2031525781,A Survey of Automated Techniques for Formal Software Verification,2008,110,226,3,1.0,11773849,Vijay DSilva,0,1.1560065005177578,-0.16228543371969828
+2024978854,Verification and falsification of programs with loops using predicate abstraction,2010,59,11,2,1.0,1246142335,Georg Weissenbacher,0,0.615317740015675,0.4617877463740156
+2027179699,Model checking concurrent linux device drivers,2007,23,92,2,1.0,1246142335,Georg Weissenbacher,0,0.3309383705359976,0.2697174720342478
+2043876870,Predicate Abstraction of ANSI-C Programs Using SAT,2004,32,166,4,1.0,1365520453,Natasha Sharygina,0,0.35951388951421526,0.09705406966301192
+2043953097,A visual studio plug-in for CProver,2013,17,0,1,1.0,2132595810,Daniel Kroening,0,3.12274809830077,-1.1909135267458133
+2039559802,Verifying multi-threaded software with impact,2013,26,37,2,0.0,705764827,JoÃ«l Ouaknine,0,0.15737041402577337,0.1603385624675026
+2036194677,Effective verification of low-level software with nested interrupts,2015,16,9,3,0.806237,281512770,Michael Tautschnig,0,1.6020256194051323,-0.314552708583523
+2078846861,A Widening Approach to Multithreaded Program Verification,2014,46,27,2,1.0,2011487694,Alexander Kaiser,0,-0.32538004294576617,0.07230443108244058
+2084515345,Race analysis for SystemC using model checking,2008,39,27,1,1.0,2132595810,Daniel Kroening,0,0.06702988930420503,-0.2026628763498984
+2098595405,Formal verification at higher levels of abstraction,2007,35,15,2,0.0,260128524,Sanjit A. Seshia,0,1.4272185154827508,-0.3979319977081568
+2120162396,Automatic analysis of DMA races using model checking and k-induction,2011,47,19,2,0.0,328248823,Philipp RÃ¼mmer,0,1.3163887556302782,-0.46862401028245887
+2105468483,Interpolationâˆ’based verification of floatingâˆ’point programs with abstract CDCL,2013,30,16,5,1.0,11773849,Vijay DSilva,0,0.02325127225987582,0.6058743715586852
+2129538349,A Tool for Checking ANSI-C Programs,2004,6,1044,3,0.0,2088884206,Flavio Lerda,0,-0.029926750583040163,-0.4835840063588712
+2106199032,Verification of SpecC using predicate abstraction,2004,49,34,2,0.0,2129477832,Edmund M. Clarke,0,1.0603214678369333,0.026820300331627356
+2106474359,SAT-Based Predicate Abstraction of Programs,2005,40,0,3,1.0,1365520453,Natasha Sharygina,0,0.18581604153979045,0.14378102610824356
+2136867104,Context-aware counter abstraction,2010,36,11,2,0.0,2094803461,Michele Mazzucchi,0,0.15235396289179948,-0.19151782397737696
+2107840120,Strengthening properties using abstraction refinement,2009,18,7,2,1.0,1900497582,Mitra Purandare,0,-0.2646328705996496,0.07913897123942817
+2143645083,Image Computation and Predicate Refinement for RTL Verilog using Word Level Proofs,2007,20,5,2,0.874223,1365520453,Natasha Sharygina,0,-0.35832280546489237,-0.16203181680209097
+2171341087,Word-Level Predicate-Abstraction and Refinement Techniques for Verifying RTL Verilog,2008,35,21,3,0.786112,1365520453,Natasha Sharygina,0,0.9091910608188531,-0.0750771412782448
+2179793366,Word Level Predicate Abstraction and Refinement for Verifying RTL Verilog,2008,0,3,1,1.0,2132595810,Daniel Kroening,0,0.37510945650772876,0.8363379379672989
+2171999426,Behavioral consistency of C and Verilog programs using bounded model checking,2003,20,248,2,0.0,2129477832,Edmund M. Clarke,0,-1.0111405513472866,-0.10475454146478348
+2154199591,ExpliSAT Guiding SAT-based software verification with explicit states,2006,27,10,5,0.0,279322612,Ziv Glazberg,0,1.557459313779046,-0.28166494395107505
+2154206750,Formal verification of SystemC by automatic hardware/software partitioning,2005,36,106,2,1.0,1365520453,Natasha Sharygina,0,2.4750854010798995,-0.7794399944816347
+2148315256,Counterexample-Guided precondition inference,2013,30,14,1,1.0,2132595810,Daniel Kroening,0,-0.6346734402260189,-0.4888110674003407
+2154673500,Specifying and verifying systems with multiple clocks,2003,10,17,2,0.0,2129477832,Edmund M. Clarke,0,0.6999301134519552,-0.2351949060016883
+2155394073,Verification of Boolean programs with unbounded thread creation,2007,40,12,2,0.874223,1365520453,Natasha Sharygina,0,-0.3193758975985132,0.10648419132848257
+2164829820,Word level predicate abstraction and refinement for verifying RTL verilog,2005,23,66,3,1.0,1365520453,Natasha Sharygina,0,0.9277804526032704,0.22555592937725474
+2236080789,Formalizing and Checking Thread Refinement for Data-Race-Free Execution Models (Extended Version),2015,14,1,2,1.0,325343416,Daniel Poetzl,0,-0.31177332810154873,0.07375464760957036
+2272703252,The virtues of conflict analysing modern concurrency,2016,39,0,1,1.0,2132595810,Daniel Kroening,0,-0.35970974932850597,-0.18307413186002938
+2244358815,Proving Reachability Using FShell (Competition Contribution),2012,6,2,4,0.0,145171561,Christian Schallhart,0,0.5671633392126908,0.3210974607757858
+2269192767,Method and system to verify a circuit design by verifying consistency between two different language representations of a circuit design,2004,24,2,2,0.0,2129477832,Edmund M. Clarke,0,-0.3193362091780844,-0.14362041755978985
+2261603022,SatAbs A Bit-Precise Verifier for C Programs (Competition Contribution),2012,13,1,3,0.915498,281512770,Michael Tautschnig,0,0.8563579077236758,-0.4476326940327349
+2293030156,Abstract satisfaction,2014,119,16,3,1.0,11773849,Vijay DSilva,0,-0.2644397048595237,-0.000993231524657981
+2308882098,Evaluation of Measures for Statistical Fault Localisation and an Optimising Scheme,2015,45,15,2,0.0,56271286,Hana Chockler,0,0.9990539990863624,-0.03788534700733923
+2321074481,Formalizing and Checking Thread Refinement for Data-Race-Free Execution Models,2016,19,3,2,1.0,325343416,Daniel Poetzl,0,-0.31177332810154873,0.07375464760957036
+2348183150,2LS for Program Analysis,2016,4,22,2,1.0,1921156845,Peter Schrammel,0,-0.1777665937967365,-0.13249564950908296
+2407368255,Lost in Abstraction Monotonicity in Multi-Threaded Programs (Extended Technical Report),2014,12,1,2,1.0,2011487694,Alexander Kaiser,0,-0.1874033852786329,0.5099663857305108
+2477858827,v2c --- A Verilog to C Translator,2016,6,5,2,0.781419,281512770,Michael Tautschnig,0,0.4304139912220827,-0.4609230664606908
+2503169727,Accurate theorem proving for program verification,2006,0,5,2,1.0,1365520453,Natasha Sharygina,0,0.5130841802859772,-0.4788320414322355
+2572609327,Towards Automated Bounded Model Checking of API Implementations,2016,3,2,2,0.0,2018633473,Martin Brain,0,-0.6509978796067805,0.1125520338262514
+2510120489,Equivalence Checking a Floating-point Unit against a High-level C Model (Extended Version),2016,0,1,2,0.0,1633365979,Andreas Griesmayer,0,-0.12222233264076218,0.05766876900901738
+2510207151,Sound static deadlock analysis for C/Pthreads,2016,43,6,3,1.0,325343416,Daniel Poetzl,0,0.2805073314520273,0.23749011949867246
+2584035095,Satabs SAT-based predicate abstraction for ANSI-C,2005,0,3,3,1.0,1365520453,Natasha Sharygina,0,0.8017701501055938,0.199810580195126
+2512196156,Understanding counterexamples with explain,2004,0,0,3,0.571429,1965603299,Alex Groce,0,0.31997804567842264,-0.41674074470099914
+2579833695,Verification of Concurrent Software,2016,18,0,1,1.0,2132595810,Daniel Kroening,0,3.040641406050576,-0.842184079492942
+2554196028,Equivalence Checking of a Floating-Point Unit Against a High-Level C Model,2016,19,3,2,0.0,1633365979,Andreas Griesmayer,0,-0.12222233264076218,0.05766876900901738
+2514134619,Sound Static Deadlock Analysis for C/Pthreads (Extended Version),2016,25,1,3,1.0,325343416,Daniel Poetzl,0,-0.3641491857447135,-1.209520930443321
+2623612387,Race analysis for systemc using model checking,2010,40,30,1,1.0,2132595810,Daniel Kroening,0,-0.23090180696486082,-0.1683835016706873
+2625396024,Formal Techniques for Effective Co-verification of Hardware/Software Co-designs,2017,16,10,3,0.0,60025348,Raphael Polig,0,2.282207619825511,-0.6779501706228213
+2588551419,Incremental bounded model checking for embedded software,2017,55,8,8,0.0,1208159106,Tom BienmÃ¼ller,0,1.5153060189544127,-0.4355865828060531
+2592841766,Verifying digital systems with MATLAB,2017,11,5,2,0.0961579,2117275544,Lucas C. Cordeiro,0,0.5442311527026037,-0.7762838881481635
+2749582297,Precise Predictive Analysis for Discovering Communication Deadlocks in MPI Programs,2017,43,8,1,1.0,2132595810,Daniel Kroening,0,0.014833168183964998,0.57936965494835
+2737987676,Over-Approximating Boolean Programs with Unbounded Thread Creation,2006,0,0,2,1.0,1365520453,Natasha Sharygina,0,-0.1164726804531344,0.019252515865476
+2752631201,Bit-Precise Procedure-Modular Termination Analysis,2017,80,4,2,1.0,1921156845,Peter Schrammel,0,-0.39757895443690866,0.01606659199572476
+2776836103,Kayak Safe Semantic Refactoring to Java Streams,2017,25,2,1,1.0,2132595810,Daniel Kroening,0,0.16034128951226914,-0.27567516925309526
+2798316023,Automatic Heap Layout Manipulation for Exploitation,2018,10,1,1,1.0,2132595810,Daniel Kroening,0,0.7401205226600537,-0.24172533725633094
+2784646433,Program Synthesis for Program Analysis,2018,74,0,1,1.0,2132595810,Daniel Kroening,0,0.2611018400204897,-0.129922105366636
+2803369237,JBMC A Bounded Model Checking Tool for Verifying Java Bytecode,2018,13,7,3,1.0,1921156845,Peter Schrammel,0,-0.14155405930033046,-0.5019925608199357
+2796090869,DSValidator An Automated Counterexample Reproducibility Tool for Digital Systems,2018,18,3,2,0.0961579,2117275544,Lucas C. Cordeiro,0,-0.28779849629309523,-0.05971980633353565
+2796430303,Optimising Spectrum Based Fault Localisation for Single Fault Programs Using Specifications,2018,46,4,2,0.0,2110070363,Youcheng Sun,0,1.7810383028199706,-0.17891225942720843
+2883971886,Model Checking Boot Code from AWS Data Centers,2018,41,6,4,0.0,80569443,Serdar Tasiran,0,0.9040055655144826,-0.2789436343607467
+2950252692,Dont sit on the fence A static analysis approach to automatic fence insertion,2013,31,2,4,0.408327,76926217,Jade Alglave,0,-0.06810943243580701,0.2045614714023912
+2950271872,Propositional Reasoning about Safety and Termination of Heap-Manipulating Programs,2014,8,0,1,1.0,2132595810,Daniel Kroening,0,1.406388012294163,-0.25944300281357663
+2999222891,Learning Concise Models from Long Execution Traces,2020,22,1,1,1.0,2132595810,Daniel Kroening,0,0.5955870678312447,-0.3363698769194165
+2964866913,CREST Hardware Formal Verification with ANSI-C Reference Specifications,2019,0,0,1,1.0,2132595810,Daniel Kroening,0,0.7691149652284024,-0.5372048139093072
+3017202341,Model checking boot code from AWS data centers,2020,38,0,3,0.0,80569443,Serdar Tasiran,0,-0.3193362091780844,-0.14362041755978985

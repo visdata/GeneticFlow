@@ -1,0 +1,90 @@
+299309497,Database insertions in a stream database environment,2010,12,19,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+305477708,ENERGY USAGE AND PERFORMANCE QUERY GOVERNOR,2011,9,6,1,1,2063751690,Eric L. Barsness,0,0.014532710543751099,0.030944858938630852
+1505016015,ESTIMATING AND MONITORING QUERY PROCESSING TIME,2010,17,15,1,1,2063751690,Eric L. Barsness,0,0.014532710543751099,0.030944858938630852
+1488039095,Estimating and managing energy consumption for query processing,2010,5,14,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1523522449,Utilizing virtual private networks to provide object level security on a multi-node computer system,2012,6,7,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1541593627,Request type grid computing,2008,15,31,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1561594899,Consolidation of computer documentation,2002,3,18,1,1,2063751690,Eric L. Barsness,0,-0.42436748306339156,1.2656547619763021
+1491163213,Dynamically Selecting Alternative Query Access Plans,2007,8,38,1,1,2063751690,Eric L. Barsness,0,0.8809340701863815,0.11633144593696097
+1482464484,Database optimization apparatus and method,2002,14,52,1,1,2063751690,Eric L. Barsness,0,2.5612961170845914,0.7273369822602332
+1032022238,Evaluating a current partitioning of a database,2006,26,12,1,1,2063751690,Eric L. Barsness,0,2.942489919961268,0.8295014015565443
+1500241265,REDUCING STORAGE COSTS ASSOCIATED WITH BACKING UP A DATABASE,2010,7,1,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1508756035,Caching pages via host variable correlation,2003,2,7,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1034686188,Generating Statistics for Optimizing Database Queries Containing User-Defined Functions,2007,3,8,3,0,1886349446,Brian R. Muras,0,-0.15920861304977532,0.009184461394527233
+1037590956,Managing attributes in stream processing using a cache,2013,20,4,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1038918446,Using database knowledge to optimize a computer program,2007,16,0,1,1,2063751690,Eric L. Barsness,0,0.9340319160461951,-0.01259918946026184
+1484116953,Data ordering for derived columns in a database system,2008,11,3,1,1,2063751690,Eric L. Barsness,0,0.48743814627987714,-0.04962744931823505
+1546121448,Normalizing data on database restore,2010,1,2,1,1,2063751690,Eric L. Barsness,0,-0.22771620305198464,-0.14703622806478475
+1546799857,String searches in a computer database,2013,15,0,1,1,2063751690,Eric L. Barsness,0,0.24531364908487144,0.22987875903283075
+1043947286,MANAGING ATTRIBUTES IN STREAM PROCESSING,2013,20,13,1,1,2063751690,Eric L. Barsness,0,0.43739842239757626,0.009947045888208002
+1502393749,MATERIALIZED QUERY TABLE JOURNALING IN A COMPUTER DATABASE SYSTEM,2008,8,2,1,1,2063751690,Eric L. Barsness,0,0.5523681935748129,0.9796294239046891
+1556122455,Application monitoring in a stream database environment,2011,37,58,3,0,1991456018,Michael Donald Pfeifer,0,0.43739842239757626,0.009947045888208002
+1538504349,Query governor with network monitoring in a parallel computer system,2007,4,2,1,1,2063751690,Eric L. Barsness,0,0.0908845357243609,0.31128747720343375
+1556780406,Coverage analysis of program code that accesses a database,2002,6,41,1,1,2063751690,Eric L. Barsness,0,0.5360834657488059,0.21632726725450613
+1485885575,Database range constraint that is dynamically limited by data in the database,2003,7,5,1,1,2063751690,Eric L. Barsness,0,0.12424614129589735,0.2013339979237733
+1486423810,Active memory expansion in a database environment to query needed/uneeded results,2012,4,17,2,1,1974230730,Paul S. Nelsestuen,0,-0.0041099411153885,0.0447066884760059
+1539595482,Dynamically managing computer resources based on valuations of work items being processed,2004,27,27,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1512604642,Database relationship constraint,2004,7,6,1,1,2063751690,Eric L. Barsness,0,0.32484797511438906,0.013789265286240434
+1604450049,Data query system load optimization,2003,3,33,1,1,2063751690,Eric L. Barsness,0,0.8809340701863815,0.11633144593696097
+1905222178,Multi-partition query governor in a computer database system,2006,18,16,1,1,2063751690,Eric L. Barsness,0,0.4882149986003955,0.14047654882525096
+1800026830,Optimization of database network traffic based upon data-use analysis,2006,59,54,1,1,2063751690,Eric L. Barsness,0,1.8433749970232927,0.4151022869037474
+1751683966,Accurately determining an objects lifetime,2000,15,43,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1907798214,Dynamic optimization of prepared statements in a statement pool,2007,60,40,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1597295762,Dynamic partial uncompression of a database table,2013,33,16,1,1,2063751690,Eric L. Barsness,0,0.12705632182350438,-0.32378708029752246
+1961840298,Monitoring performance of a data processing system,2008,31,28,1,1,2063751690,Eric L. Barsness,0,-0.1976024537541182,-0.2457563338805846
+1580787143,Apparatus and method for using database knowledge to optimize a computer program,2002,15,47,1,1,2063751690,Eric L. Barsness,0,1.7414432482213413,0.41402770866845734
+1856611549,Inserting data into an in-memory distributed nodal database,2013,49,17,1,1,2063751690,Eric L. Barsness,0,2.362164828239962,0.6078045678241282
+1602547276,Optimization of portable operations in a client-server environment,2002,6,25,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1926770015,ACTIVE MEMORY EXPANSION AND RDBMS META DATA AND TOOLING,2010,35,6,2,1,1974230730,Paul S. Nelsestuen,0,0.5719846501344087,0.01656639386338839
+2162228302,Computer apparatus and method for caching results of a database query,2002,4,77,1,1,2063751690,Eric L. Barsness,0,0.0638002336161955,-0.143865751680776
+2159013845,Dynamic query optimization,2007,44,51,1,1,2063751690,Eric L. Barsness,0,0.014532710543751099,0.030944858938630852
+2218738331,Database Statistics for Optimization of Database Queries Containing User-Defined Functions,2007,6,13,3,0,1886349446,Brian R. Muras,0,-0.15920861304977532,0.009184461394527233
+2209562891,AUTONOMIC LOCK ESCALATION IN AN SQL ENVIRONMENT,2006,5,13,1,1,2063751690,Eric L. Barsness,0,1.308735110529149,0.28182365873303317
+2266484959,Apparatus and method for inhibiting non-critical access based on measured performance in a database system,2004,7,6,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2211459529,Managing database resources used for optimizing query execution on a parallel computer system,2007,23,23,1,1,2063751690,Eric L. Barsness,0,0.7215975991611812,0.3052417628859806
+2267384047,Timestamp Synchronization for Queries to Database Portions in Nodes That Have Independent Clocks in a Parallel Computer System,2009,8,6,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2221228595,APPARATUS AND METHOD FOR DATABASE PARTITION ELIMINATION FOR SAMPLING QUERIES,2006,11,1,1,1,2063751690,Eric L. Barsness,0,0.8422134633276293,-0.003076465544485596
+2262876963,SQL distinct optimization in a computer database system,2005,8,1,1,1,2063751690,Eric L. Barsness,0,0.6841579663705535,0.08234759822145807
+2263050342,Method and system for managing execution of a query against a partitioned database,2006,28,6,1,1,2063751690,Eric L. Barsness,0,0.5610597105428037,-0.019481989319703075
+2258786567,Methods and Apparatus for IDE Integration of Database Changes,2007,6,2,2,1,1974230730,Paul S. Nelsestuen,0,-0.0041099411153885,0.0447066884760059
+2254461122,Database Journaling in a Multi-Node Environment,2008,7,40,1,1,2063751690,Eric L. Barsness,0,-0.041068475870823594,1.1506093675611193
+2272950838,DATABASE OPTIMIZATION THROUGH SCHEMA MODIFICATION,2008,8,3,1,1,2063751690,Eric L. Barsness,0,2.3520624002191926,0.458101805662832
+2248507124,Partial Indexes for Multi-Node Database,2008,4,10,1,1,2063751690,Eric L. Barsness,0,0.36097085081799196,-0.1582967557564097
+2259364717,Estimating load shed data in streaming database applications,2012,5,19,1,1,2063751690,Eric L. Barsness,0,0.007334245363849856,0.0884093997571545
+2248846846,Methods apparatus and computer programs for dynamic query optimization,2005,5,0,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2255310819,Memory usage query governor,2010,5,10,2,1,1974230730,Paul S. Nelsestuen,0,0.8809340701863815,0.11633144593696097
+2240836806,Index Maintenance in a Multi-Node Database,2008,3,19,1,1,2063751690,Eric L. Barsness,0,0.36097085081799196,-0.1582967557564097
+2245078341,Apparatus and method for materialized query table journaling in a computer database system,2005,8,7,1,1,2063751690,Eric L. Barsness,0,0.5523681935748129,0.9796294239046891
+2255743348,Query optimization via a partitioned environment,2003,2,27,1,1,2063751690,Eric L. Barsness,0,0.014532710543751099,0.030944858938630852
+2217230684,Re-allocation of resources for query execution in partitions,2006,4,33,1,1,2063751690,Eric L. Barsness,0,0.8809340701863815,0.11633144593696097
+2225578545,Journaling database queries for database replication,2005,27,3,1,1,2063751690,Eric L. Barsness,0,1.760187538748708,0.3991931435746226
+2256356987,Apparatus and method for monitoring performance of a storage area network,2005,11,3,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2217570945,WEB ACTIVITY HIGHLIGHTED IN AN IDE ENVIRONMENT,2006,8,0,1,1,2063751690,Eric L. Barsness,0,-2.0972444828031533,-1.4440068337629972
+2217604128,System and method for migrating databases,2005,5,49,1,1,2063751690,Eric L. Barsness,0,2.6895102855526156,0.8846997466394608
+2208285625,Method system and article of manufacturing for converting data values quantified using a first measurement unit into equivalent data values when quantified using a second measurement unit in order to receive query results including data values measured using at least one of the first and second measurement units,2004,29,18,1,1,2063751690,Eric L. Barsness,0,0.10431153200851613,-0.20704851602979435
+2199424180,Database breakpoint apparatus and method,2002,14,22,1,1,2063751690,Eric L. Barsness,0,1.8177968211366533,0.37065122750823165
+2246294106,PROCESSING DATABASE QUERIES BY RETURNING RESULTS OF A FIRST QUERY TO SUBSEQUENT QUERIES,2009,11,11,1,1,2063751690,Eric L. Barsness,0,0.0908845357243609,0.31128747720343375
+2270878342,Apparatus and method for journaling database queries,2005,26,3,1,1,2063751690,Eric L. Barsness,0,1.987195212787255,0.44788450853635997
+2284057605,Managing execution of a query against a partitioned database,2006,29,11,1,1,2063751690,Eric L. Barsness,0,0.5610597105428037,-0.019481989319703075
+2298831842,Apparatus and method for monitoring performance of a data processing system,2005,22,5,1,1,2063751690,Eric L. Barsness,0,-0.1976024537541182,-0.2457563338805846
+2288934824,Database enabled messaging facility,2002,4,38,1,1,2063751690,Eric L. Barsness,0,2.186789402874493,0.532736365257446
+2306222360,Apparatus and method for processing database queries,2003,11,6,1,1,2063751690,Eric L. Barsness,0,0.0908845357243609,0.31128747720343375
+2306423509,Techniques for providing measurement units metadata,2004,23,5,1,1,2063751690,Eric L. Barsness,0,0.057245222927715556,0.4190040161451103
+2285678250,Apparatus and method for data ordering for derived columns in a database system,2004,11,0,1,1,2063751690,Eric L. Barsness,0,0.48743814627987714,-0.04962744931823505
+2277908128,METHOD AND SYSTEM FOR MANAGING OPERATION OF A USER-DEFINED FUNCTION ON A PARTITIONED DATABASE,2006,9,3,1,1,2063751690,Eric L. Barsness,0,-0.20133665475165913,-0.19110780330684465
+2278366624,Converting union commands to union all commands,2008,10,1,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2282961742,Partial Compression of a Database Table Based on Historical Information,2007,18,40,1,1,2063751690,Eric L. Barsness,0,0.36097085081799196,-0.1582967557564097
+2395659192,Pre-loading of an in memory database,2007,16,4,1,1,2063751690,Eric L. Barsness,0,1.7215872955351785,0.3042530323417107
+2401310631,Methods and Apparatus for Converting Union Commands to Union All Commands,2008,10,0,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2401366474,Monitoring performance of a storage area network,2008,13,1,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2396272793,System and method of implementing system-maintained index maintanence,2006,3,1,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2404972318,Managing execution of a query against selected data partitions of a partitioned database,2006,33,19,1,1,2063751690,Eric L. Barsness,0,0.21096394505393343,-0.21681990081017227
+2408105883,Method and system for creating database profiling indices,2007,15,1,2,0,1886349446,Brian R. Muras,0,0.02550193511140486,0.06778323830410855
+2405703597,Apparatus and method for dynamically determining index split options from monitored database activity,2005,10,3,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2403393991,Apparatus and method for SQL distinct optimization in a computer database system,2005,8,5,1,1,2063751690,Eric L. Barsness,0,0.40933792986493034,0.10846045007519063
+2415526537,Inhibiting non-critical access based on measured performance in a database system,2004,7,1,1,1,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2594237896,Query execution and optimization,2008,7,4,1,1,2063751690,Eric L. Barsness,0,0.5340277375805791,0.07866450102930073
+2610943359,Query plan based on a data storage relationship,2017,12,2,2,0,1886349446,Brian R. Muras,0,2.4748262399427245,0.7039968806878661
+2766037230,Warning data management with respect to a compilation phase,2016,35,2,1,1,2063751690,Eric L. Barsness,0,0.18601297105691045,-0.0008472885667257998
+2819568343,QUERY GOVERNOR RULES FOR DATA REPLICATION,2018,4,0,2,0,1886349446,Brian R. Muras,0,0.36136228813678184,-0.19873603871814904
+2968175528,Managing the Processing of Streamed Data in a Data Streaming Application Using Query Information from a Relational Database,2019,0,0,1,1,2063751690,Eric L. Barsness,0,0.5918810125050614,0.18125791683442544

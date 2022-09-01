@@ -1,0 +1,183 @@
+121159850,The State Of The Art In Language Workbenches Conclusions From The Language Workbench Challenge,2013,60,90,15,0.0,210794291,Kevin van der Vlist,0,1.671406617345447,-0.612316763901665
+37801532,An algorithm for layout preservation in refactoring transformations,2011,22,15,2,1.0,1985008888,Maartje de Jonge,0,0.6396319185032228,-0.32954279996146385
+6809747,Proceedings of the ninth international conference on Generative programming and component engineering,2010,0,0,2,0.0,2035089236,Jaakko JÃ¤rvi,0,1.5905195499960103,-0.7382081879180618
+76944499,Understanding software through linguistic abstraction,2013,16,0,1,1.0,2131973199,Eelco Visser,0,0.03642415881006038,-0.14770299404370887
+170210349,Parse Table Composition Separate Compilation and Binary Extensibility of Grammars,2008,44,10,1,1.0,2131973199,Eelco Visser,0,-0.49755655570344676,-0.21882210795470608
+238188421,Reduction-Based Optimizer - Initial Version,1998,0,0,3,0.0,2027002858,Andrew Tolmach,0,-0.37856275226873304,0.1528020174511553
+639235308,Preventing Injection Attacks with Syntax Embeddings A Host and Guest Language Independent Approach,2007,27,12,3,1.0,301408853,Eelco Dolstra,0,-0.5027195370518132,-0.16992755183565567
+644330429,Implementing Refactorings in the Spoofax Language Workbench,2013,15,1,1,1.0,2131973199,Eelco Visser,0,-0.1164726804531344,0.019252515865476
+781995223,A Theory of Name Resolution,2015,24,33,4,1.0,1968019377,Pierre Neron,0,0.3145140406703628,-0.4501211092470538
+360321112,Generating Editors for Embedded Languages Integrating SGLR into IMP,2008,0,8,3,1.0,726648684,Karl Trygve Kalleberg,0,-1.4512862672335916,-0.7177965412383993
+1488037029,Grammar Engineering Support for Precedence Rule Recovery and Compatibility Checking,2007,0,1,2,1.0,1901558301,Martin Bravenboer,0,-1.1695476668796734,0.5480383037146143
+1488266104,Fusing a Transformation Language with an Open Compiler,2007,0,0,2,1.0,726648684,Karl Trygve Kalleberg,0,-1.5496748418548272,0.09444125377829206
+1541411438,The Asf+Sdf Meta-Environment A Component-Based Language Development Environment,2001,12,33,7,0.0,1983299346,Paul Klint,0,0.1854298587365653,0.03662411758075063
+1543130122,WebDSL A Domain-Specific Language for Dynamic Web Applications,2008,0,3,3,1.0,17780856,Zef Hemel,0,-0.41133779576291585,-0.07022179981677015
+1543251966,Designing Syntax Embeddings and Assimilations for Language Libraries,2009,0,1,2,1.0,1901558301,Martin Bravenboer,0,0.3927432021308454,-0.7942228640675645
+1481474677,Stratego/XT 017 A Language and Toolset for Program Transformation,2008,0,3,3,1.0,726648684,Karl Trygve Kalleberg,0,0.2692999457830097,-0.9962481548569505
+1490408768,XT A bundle of program transformation tools system description,2001,0,0,2,0.287356,2115720218,Joost Visser,0,0.4775920775291687,-0.1076902179644067
+1490542548,PIL a platform independent language for retargetable DSLs,2009,29,9,2,1.0,17780856,Zef Hemel,0,0.30476136677896143,0.05831421022715035
+1499236983,Adding Concrete Syntax to a Prolog-Based Program Synthesis System,2003,18,0,1,1.0,2131973199,Eelco Visser,0,0.2172141794194544,-0.20617648329553293
+1481845761,Adaptive Code Reuse by Aspects Cloning and Renaming,2005,33,3,4,1.0,726648684,Karl Trygve Kalleberg,0,1.4778138929911493,0.7066695876972304
+1526763962,Proceedings of the 2002 ACM SIGPLAN workshop on Rule-based programming,2002,0,3,1,1.0,2131973199,Eelco Visser,0,2.0201176949924107,0.4769471729268967
+1517760837,Stratego A Language for Program Transformation Based on Rewriting Strategies System Description of Stratego 05,2001,9,195,1,1.0,2131973199,Eelco Visser,0,-0.039787678956958956,-1.056924181129063
+1483136951,Static Consistency Checking of Web Applications with WebDSL,2010,0,0,3,1.0,17780856,Zef Hemel,0,-0.7794216599010408,0.3702059708718845
+1517920068,Fusing Logic And Control With Local Transformations An Example Optimization,2001,18,12,1,1.0,2131973199,Eelco Visser,0,0.6389889916933221,-0.20031204804269045
+1528098570,Stratego A Language for Program Transformation Based on Rewriting Strategies,2001,9,226,1,1.0,2131973199,Eelco Visser,0,0.007422698865412025,-0.8023402004325889
+1564008950,The Spoofax language workbench rules for declarative specification of languages and IDEs,2010,0,0,2,1.0,2061355173,Lennart C. L. Kats,0,0.18028628006319267,0.3991948697156753
+1555161679,Integrated Language Definition Testing Enabling Test-Driven Language Development,2011,0,0,2,1.0,2061355173,Lennart C. L. Kats,0,2.354195028224158,-0.8141146035145042
+1573418128,A language independent task engine for incremental name and type analysis,2013,32,17,5,1.0,1941085475,Vlad Vergu,0,-0.10177397901556458,-0.9593636645763873
+1519133120,WebWorkFlow An Object-Oriented Workflow Modeling Language for Web Applications,2008,0,3,3,1.0,17780856,Zef Hemel,0,1.588013707485166,-0.5200777715603112
+1519351647,Encapsulating Software Platform Logic by Aspect-Oriented Programming A Case Study in Using Aspects for Language Portability,2010,0,0,2,1.0,2061355173,Lennart C. L. Kats,0,1.914713833988492,-1.1884933831013578
+1564681607,Natural and Flexible Error Recovery for Generated Modular Language Environments,2012,0,1,2,1.0,2061355173,Lennart C. L. Kats,0,-1.442865642264497,-2.0886006792868033
+1485665416,WebDSL A Case Study in Domain-Specific Language Engineering,2007,97,70,1,1.0,2131973199,Eelco Visser,0,0.5258395487586196,-0.21485322002237606
+1511793964,Parse Table Composition,2009,48,19,2,1.0,1901558301,Martin Bravenboer,0,-0.3584755078556309,-0.12083699783232235
+1576065148,Decorated Attribute Grammars Attribute Evaluation Meets Strategic Programming,2009,39,28,3,0.0,247712896,Anthony M. Sloane,0,-1.05548756670544,-0.6909552151306876
+1531128119,The Spoofax language workbench,2010,0,38,2,1.0,2061355173,Lennart C. L. Kats,0,-0.45246786651238285,-0.24863233864491632
+1496084514,Warm fusion in Stratego A case study in generation of program transformation systems,2001,29,20,1,1.0,2131973199,Eelco Visser,0,-0.16450092956638246,-0.35099951055382433
+1594773397,Unifying and Generalizing Relations in Role-Based Data Modeling and Navigation,2014,24,6,1,1.0,2131973199,Eelco Visser,0,-0.1164726804531344,0.019252515865476
+1872365633,Interactive disambiguation of meta programs with concrete object syntax,2010,15,2,3,1.0,726648684,Karl Trygve Kalleberg,0,-0.7541673259398047,-2.6826623910612404
+1586396223,When Frameworks Let You Down Platform-Imposed Constraints on the Design and Evolution of Domain-Specific Languages,2008,9,3,3,1.0,17780856,Zef Hemel,0,-0.1164726804531344,0.019252515865476
+1749568426,Disambiguation Filters for Scannerless Generalized LR Parsers,2002,26,133,3,1.0,2076191171,Jurgen Vinju,0,-2.372957516050287,-0.9072709554354071
+1908013816,A Case Study in Optimizing Parsing Schemata by Disambiguation Filters,1995,0,12,1,1.0,2131973199,Eelco Visser,0,-1.1474016184436384,-1.4106101234218063
+1847450427,Code Generation by Model Transformation,2008,28,32,3,1.0,17780856,Zef Hemel,0,-0.004021230613816512,0.31965629029302217
+1589992826,Guiding visitors separating navigation from computation,2001,9,10,2,1.0,1901558301,Martin Bravenboer,0,-0.3557132171471564,0.02051609289891355
+1891974962,The Asf+Sdf Meta-Environment Documentation Tools for Free ,1995,3,1,2,0.0,2105034400,Mark van den Brand,0,0.7276255483756902,-0.7953429472874773
+1946588374,Evaluating and comparing language workbenches,2015,64,53,14,0.0,210794291,Kevin van der Vlist,0,0.4314185860309174,-0.33136832246209524
+1625533892,Meta-programming with Concrete Object Syntax,2002,25,134,1,1.0,2131973199,Eelco Visser,0,-0.8659985970908941,-0.8892496068411819
+1971755550,Integrated language definition testing enabling test-driven language development,2011,37,16,2,1.0,2061355173,Lennart C. L. Kats,0,1.452793178580025,-1.2888548409488505
+1968275544,Language Design with the Spoofax Language Workbench,2014,18,11,3,1.0,1998669143,Guido Wachsmuth,0,2.9960580116412827,-0.03027209914130255
+1978948468,Building program optimizers with rewriting strategies,1998,26,211,3,0.0,2027002858,Andrew Tolmach,0,-0.12458550902309803,0.007390361392446072
+1983170604,Declarative specification of template-based textual editors,2012,18,19,2,1.0,2061355173,Lennart C. L. Kats,0,-0.03355622852936779,-2.4188983187022086
+1971138166,Declarative formal and extensible syntax definition for aspectJ,2006,32,42,3,0.0,256576233,Ã‰ric Tanter,0,-0.32763503897178753,0.30253350189424294
+1967825172,Scoped Dynamic Rewrite Rules,2001,18,37,1,1.0,2131973199,Eelco Visser,0,-0.2631081471710752,0.011425022823841727
+1983628470,Generating database migrations for evolving web applications,2011,14,9,3,0.833333,1965326662,Sander D. Vermolen,0,-0.1164726804531344,0.019252515865476
+1991227409,Generalized type-based disambiguation of meta programs with concrete object syntax,2005,23,40,3,1.0,1901558301,Martin Bravenboer,0,0.18407804001743422,-0.7889685402347091
+1991258354,The spoofax name binding language,2012,6,2,5,1.0,1941085475,Vlad Vergu,0,0.13633301746779775,-0.08160141016679343
+2002045519,Polymorphic syntax definition,1998,24,4,1,1.0,2131973199,Eelco Visser,0,-2.497242282559273,-0.6434929434447813
+1988095811,Testing domain-specific languages,2011,2,3,2,1.0,2061355173,Lennart C. L. Kats,0,2.137553672265678,-1.3438879062029343
+2004176798,A survey of strategies in rule-based program transformation systems,2005,133,91,1,1.0,2131973199,Eelco Visser,0,-0.305790973114328,-0.09362665334634468
+1990529626,WebDSL a domain-specific language for dynamic web applications,2008,6,31,3,1.0,17780856,Zef Hemel,0,0.8232748346325449,-0.39995055287321285
+2022744394,The spoofax language workbench rules for declarative specification of languages and IDEs,2010,48,280,2,1.0,2061355173,Lennart C. L. Kats,0,0.29417308377747076,-0.23037824264374507
+2011166386,Pure and declarative syntax definition paradise lost and regained,2010,49,57,3,1.0,1998669143,Guido Wachsmuth,0,-0.519647252251228,-0.12102482207146774
+2032315697,Editorial Special Issue on Generative Programming and Component Engineering (Selected Papers from GPCE 2004/2005),2011,0,2,2,0.0,1985140975,Robert GlÃ¼ck,0,0.8300631157823976,-0.320735711302382
+2025449020,Mobl the new language of the mobile web,2011,1,10,2,1.0,17780856,Zef Hemel,0,1.1081187461191584,-0.27913347774469777
+2022333719,Library-based model-driven software development with SugarJ,2011,3,9,5,0.272641,1576900243,Sebastian Erdweg,0,-0.9440700356815518,-0.9353197030320817
+2042791203,Weaving web applications with WebDSL (demonstration),2009,3,0,1,1.0,2131973199,Eelco Visser,0,-0.43764232410885723,-0.17612699662051842
+2049869598,A Pure Object-Oriented Embedding of Attribute Grammars,2010,26,26,3,0.0,247712896,Anthony M. Sloane,0,0.36685514295697214,-0.057114350615171686
+2034484223,A Core Language for Rewriting,1998,13,59,2,0.0,2051360977,Zine el Abidine Benaissa,0,0.05360851999321499,0.980913761732722
+2041587952,Integration of data validation and user interface concerns in a DSL for web applications,2013,28,18,1,1.0,2131973199,Eelco Visser,0,0.1935744475454536,0.8015795007621671
+2061378450,Separation of concerns in language definition,2014,12,2,1,1.0,2131973199,Eelco Visser,0,1.0799682815894043,-1.0783002559548474
+2077335003,Finding bugs in program generators by dynamic analysis of syntactic language constraints,2014,10,1,4,0.0,93690356,Mira Mezini,0,-0.23366650393727753,0.023824447240758568
+2056407501,Grammar Engineering Support for Precedence Rule Recovery and Compatibility Checking,2008,18,19,2,1.0,1901558301,Martin Bravenboer,0,-0.7279920774193871,1.2078643804539222
+2061758027,Combining Aspect-Oriented and Strategic Programming,2006,25,22,2,1.0,726648684,Karl Trygve Kalleberg,0,2.90231613919574,0.5797298185966192
+2076441445,Modular specification and dynamic enforcement of syntactic language constraints when generating code,2014,24,6,4,0.0,93690356,Mira Mezini,0,-0.20402784195659487,0.1539350108239953
+2067776455,A Survey of Rewriting Strategies in Program Transformation Systems,2001,61,108,1,1.0,2131973199,Eelco Visser,0,-0.15795895874683147,0.18300125046066573
+2099617395,Turning Dynamic Typing into Static Typing by Program Specialization,2003,12,6,1,1.0,2131973199,Eelco Visser,0,-0.44380568470980797,0.23814250713172852
+2084168235,Preventing injection attacks with syntax embeddings,2010,40,17,2,1.0,1901558301,Martin Bravenboer,0,-0.13187263482949188,-0.10063206164875453
+2100165879,Program Transformation with Stratego/XT Rules Strategies Tools and Systems in Stratego/XT 09,2004,31,232,1,1.0,2131973199,Eelco Visser,0,-0.1337243125841129,0.03240685539225415
+2103197980,Integration of data validation and user interface concerns in a DSL for web applications,2009,32,4,1,1.0,2131973199,Eelco Visser,0,0.1935744475454536,0.8015795007621671
+2095081532,Editorial Special issue on Partial Evaluation and Program Manipulation (selected papers from PEPM 2007),2011,0,0,1,1.0,2131973199,Eelco Visser,0,-0.8518726181835219,0.21131683156376435
+2103705372,Design of the CodeBoost transformation system for domain-specific optimisation of C++ programs,2003,24,50,4,0.0,309984635,Magne Haveraaen,0,-0.33824512073683244,0.3392751481008381
+2100895292,Generation of formatters for context-free languages,1996,35,97,2,1.0,2105034400,Mark van den Brand,0,-0.22432852799229397,0.016782023836637076
+2081723875,A language generic solution for name binding preservation in refactorings,2012,24,8,2,1.0,1985008888,Maartje de Jonge,0,0.3073640744252695,-0.03947105106261701
+2111554490,Fusing a Transformation Language with an Open Compiler,2008,22,16,2,1.0,726648684,Karl Trygve Kalleberg,0,-1.4517704195474743,0.16627605712525811
+2123646555,Transformations for abstractions,2005,26,4,1,1.0,2131973199,Eelco Visser,0,2.0823605940357783,0.3696266891191611
+2120744293,Designing Syntax Embeddings and Assimilations for Language Libraries,2008,30,16,2,1.0,1901558301,Martin Bravenboer,0,0.3927432021308454,-0.7942228640675645
+2123915394,A pure embedding of attribute grammars,2013,33,21,3,0.0,247712896,Anthony M. Sloane,0,-1.360723791306423,-0.7327729479701159
+2127340092,The ASF+SDF Meta-environment A Component-Based Language Development Environment,2001,16,294,8,0.0,1967646380,Merijn de Jonge,0,0.13033007197170068,-0.01540422078238001
+2121410918,The Spoofax language workbench,2010,5,15,2,1.0,2061355173,Lennart C. L. Kats,0,-0.45246786651238285,-0.24863233864491632
+2133308153,Rewriting Strategies for Instruction Selection,2002,12,17,2,1.0,1901558301,Martin Bravenboer,0,-0.4291844502715871,0.266697381263853
+2124609872,Declaratively defining domain-specific language debuggers,2011,46,23,2,1.0,2061355173,Lennart C. L. Kats,0,1.4317367983651292,-0.5794560219272801
+2121805852,Providing rapid feedback in generated modular language environments adding error recovery to scannerless generalized-LR parsing,2009,40,25,4,0.0,200559227,Emma Nilsson Nyman,0,-1.6393648923405753,-1.986288374387609
+2121812441,Understanding software through linguistic abstraction,2015,17,3,1,1.0,2131973199,Eelco Visser,0,0.06678685894728394,-0.24401046417173253
+2139690029,Turning dynamic typing into static typing by program specialization in a compiler front-end for Octave,2003,11,9,1,1.0,2131973199,Eelco Visser,0,-0.7758820765993322,0.22429727264496427
+2113112210,Natural and Flexible Error Recovery for Generated Modular Language Environments,2012,66,15,3,1.0,1985008888,Maartje de Jonge,0,-1.442865642264497,-2.0886006792868033
+2130741346,Declaratively programming the mobile web with Mobl,2011,20,50,2,1.0,17780856,Zef Hemel,0,-0.1164726804531344,0.019252515865476
+2142922207,First-class rules and generic traversal,2001,25,9,2,1.0,301408853,Eelco Dolstra,0,0.6503213509673212,-0.018465542353648463
+2119114955,A Language Designers Workbench A One-Stop-Shop for Implementation and Verification of Language Designs,2014,50,26,5,1.0,1941085475,Vlad Vergu,0,1.8786769469545963,-0.7908938618996562
+2133743839,Retrofitting the AutoBayes Program Synthesis System with Concrete Syntax,2004,21,8,1,1.0,2131973199,Eelco Visser,0,-0.3257629047639012,-0.0004356159817343164
+2128182770,Domain-Specific Languages for Composable Editor Plugins,2010,29,15,3,1.0,726648684,Karl Trygve Kalleberg,0,-0.38901598959897904,-0.1717544847772182
+2116542051,SugarJ library-based language extensibility,2011,5,10,5,0.272641,1576900243,Sebastian Erdweg,0,0.05154318104576171,-0.8110226956162027
+2134078429,A Theory of Name Resolution with extended Coverage and Proofs,2015,23,1,4,1.0,1968019377,Pierre Neron,0,0.6701220250856013,-0.04610623586350041
+2119542776,Generating Version Convertors for Domain-Specific Languages,2008,13,4,3,0.833333,1965326662,Sander D. Vermolen,0,1.9142776355800135,-0.5571856194828361
+2137196294,Static consistency checking of web applications with WebDSL,2011,40,22,3,1.0,17780856,Zef Hemel,0,-0.7794216599010408,0.3702059708718845
+2107692342,Separation of Concerns and Linguistic Integration in WebDSL,2010,3,12,2,1.0,17780856,Zef Hemel,0,1.4916148567886032,-0.42648939311623874
+2116721607,Strategic programming meets adaptive programming,2003,21,49,3,0.0,1921302331,Ralf LÃ¤mmel,0,2.6389452563689795,0.08650067963258164
+2125802230,Code generation by model transformation a case study in transformation modularity,2010,62,73,3,1.0,17780856,Zef Hemel,0,0.37144529849778346,-0.1407688050268025
+2125872407,Stratego/XT 017 A language and toolset for program transformation,2008,61,250,3,1.0,726648684,Karl Trygve Kalleberg,0,0.33409272325993367,-1.223741669096413
+2108230680,Growing a language environment with editor libraries,2011,24,26,5,0.272641,1576900243,Sebastian Erdweg,0,-0.3508662429502517,-1.4121517370349799
+2159400269,Concrete syntax for objects domain-specific language embedding and assimilation without restrictions,2004,38,192,2,1.0,1901558301,Martin Bravenboer,0,-0.15263369085733888,0.21525507876846603
+2162354621,Mixing source and bytecode a case for compilation by normalization,2008,45,17,3,1.0,1901558301,Martin Bravenboer,0,-0.6794990937642162,-0.7682238057726836
+2144513252,A Family of Syntax Definition Formalisms,1995,0,20,1,1.0,2131973199,Eelco Visser,0,-0.5348617878494958,-0.6435846365420707
+2148037049,Natural and flexible error recovery for generated parsers,2009,28,18,4,0.0,200559227,Emma Nilsson Nyman,0,-1.1607633033178555,-0.08338079075063409
+2154111312,Language extension and composition with language workbenches,2010,5,27,1,1.0,2131973199,Eelco Visser,0,0.1288330486963184,-1.0994259382999194
+2166117762,Stratego/XT 016 components for transformation systems,2006,22,55,3,1.0,726648684,Karl Trygve Kalleberg,0,-0.41815064889702264,-0.4949372393736702
+2157036282,Program Transformation with Scoped Dynamic Rewrite Rules,2006,43,75,2,1.0,1901558301,Martin Bravenboer,0,-0.9999753614892061,-1.0427147313300869
+2172118537,Preventing injection attacks with syntax embeddings,2007,36,40,2,1.0,1901558301,Martin Bravenboer,0,-0.10310607603096804,-0.19927382307987956
+2187253371,Extensible Languages for Flexible and Principled Domain Abstraction,2013,135,0,2,0.0,1803786443,Klaus Ostermann,0,-0.27387857325661863,-0.24648072486947256
+2166963150,WebWorkFlow An Object-Oriented Workflow Modeling Language for Web Applications,2008,19,24,3,1.0,17780856,Zef Hemel,0,0.8857722295543361,1.1109937026191714
+2170094905,MetaBorg in action examples of domain-specific language embedding and assimilation using Stratego/XT,2005,20,39,2,1.0,1901558301,Martin Bravenboer,0,-1.5854027013315737,-0.02112162113916102
+2155281402,Disambiguation filters for scannerless generalized LR parsers,2002,0,84,2,1.0,2076191171,Jurgen Vinju,0,-2.372957516050287,-0.9072709554354071
+2152563499,Specification of rewriting strategies,1997,11,23,1,1.0,2131973199,Eelco Visser,0,-0.5858638073157908,0.12014550904149347
+2164522131,Building Interpreters with Rewriting Strategies,2002,18,17,2,1.0,301408853,Eelco Dolstra,0,-0.21715221224233971,-0.05797709753554562
+2146774006,Encapsulating Software Platform Logic by Aspect-Oriented Programming A Case Study in Using Aspects for Language Portability,2010,21,2,2,1.0,2061355173,Lennart C. L. Kats,0,1.355094788162793,-1.3110088322980473
+2155919214,Composing source-to-source data-flow transformations with rewriting strategies and dependent dynamic rewrite rules,2005,30,30,1,1.0,2131973199,Eelco Visser,0,-0.1431463609660918,0.054239062162000015
+2155977914,Product Line Engineering Using Domain-Specific Languages,2011,18,40,2,0.0,118556412,Markus Voelter,0,0.8127406549533961,-0.42539325934110245
+2150010935,The third rewrite engines competition,2010,25,7,9,0.0,720219592,James R. Cordy,0,-0.12076228459021272,0.023373071041122035
+2171029229,Declarative Access Control for WebDSL Combining Language Integration and Separation of Concerns,2008,25,41,1,1.0,2131973199,Eelco Visser,0,0.8098519915046879,-0.46097012097068946
+2159080455,Strategies for Source-to-Source Constant Propagation,2002,20,20,1,1.0,2131973199,Eelco Visser,0,-0.2004511273175649,-0.7898715882440489
+2189145845,Dynsem A DSL for dynamic semantics specification,2015,21,14,3,1.0,1941085475,Vlad Vergu,0,1.7269272761376557,0.5546327366551357
+2238262809,A constraint language for static semantic analysis based on scope graphs,2016,23,21,4,1.0,1968019377,Pierre Neron,0,0.5541852330764445,-0.7473172605463774
+2193084514,Declarative Name Binding and Scope Rules,2012,27,46,4,1.0,1998669143,Guido Wachsmuth,0,-0.2930983463674257,-0.23629659818276325
+2223046624,Program Transformation with Stratego/XT,2004,38,106,1,1.0,2131973199,Eelco Visser,0,-0.7917634269874636,-0.1709651876399072
+2280114176,DynSem A DSL for Dynamic Semantics Specification,2015,0,4,3,1.0,1941085475,Vlad Vergu,0,1.7269272761376557,0.5546327366551357
+2320887451,ICMT 2012 Special Section,2012,0,0,2,0.0,2128366029,Jordi Cabot,0,-0.1164726804531344,0.019252515865476
+2399656872,ICMT 2011 Special Section,2012,0,0,2,0.0,2128366029,Jordi Cabot,0,-0.1164726804531344,0.019252515865476
+2470615404,Disambiguation filters for scannerless generalized LR parsers,2001,0,0,2,1.0,2076191171,Jurgen Vinju,0,-2.422745056877458,-1.4417851019055403
+2463317633,Grammars as contracts,2001,0,0,2,0.287356,2115720218,Joost Visser,0,0.9492260514974324,-0.2532008360404724
+2555714974,IceDust Incremental and eventual computation of derived values in persistent object graphs,2016,0,6,1,1.0,2131973199,Eelco Visser,0,-0.25894719009815287,0.25504910484914073
+2562280224,Generation of formatters for context-free languages,1995,0,2,2,0.0,2026665269,M.G.J. van den Brand,0,-0.1164726804531344,0.019252515865476
+2531246479,Adding concrete syntax to a prolog-based program synthesis system,2004,0,0,1,1.0,2131973199,Eelco Visser,0,0.23541024858862558,-0.16183092281999828
+2543231326,Scopes Describe Frames A Uniform Model for Memory Layout in Dynamic Semantics (Artifact),2016,0,0,3,1.0,1968019377,Pierre Neron,0,-0.19537854269507235,0.0154707632042657
+2552830769,Scopes describe frames A uniform model for memory layout in dynamic semantics,2016,17,4,3,1.0,1968019377,Pierre Neron,0,-0.19537854269507235,0.0154707632042657
+2532824920,Principled syntactic code completion using placeholders,2016,23,3,3,0.180011,1576900243,Sebastian Erdweg,0,-0.49356688688918976,-0.3819932905582495
+2534058833,A scalable infrastructure for teaching concepts of programming languages in Scala with WebLab an experience report,2016,14,1,1,1.0,2131973199,Eelco Visser,0,-0.3002237790741786,-0.06710307689153151
+2585665955,Rewriting strategies for instruction selection,2002,0,0,2,1.0,1901558301,Martin Bravenboer,0,-0.4291844502715871,0.266697381263853
+2580504798,Strategic programming meets adaptive programming,2003,0,0,3,0.0,1921302331,Ralf LÃ¤mmel,0,2.6389452563689795,0.08650067963258164
+2536264340,Bootstrapping domain-specific meta-languages in language workbenches,2016,27,1,3,0.180011,1576900243,Sebastian Erdweg,0,0.8722220679758992,0.006219712469355043
+2733341201,IceDust 2 Derived Bidirectional Relations and Calculation Strategy Composition,2017,0,6,1,1.0,2131973199,Eelco Visser,0,0.07565650960935333,0.252474103226054
+2586625348,A Family of Syntax Definition Formalisms,1995,0,3,2,0.0,2026665269,M.G.J. van den Brand,0,-0.5348617878494958,-0.6435846365420707
+2725468445,IceDust 2 Derived Bidirectional Relations and Calculation Strategy Composition (Artifact),2017,0,0,1,1.0,2131973199,Eelco Visser,0,-0.44164275131195646,0.05390860783910945
+2594848956,Polymorphic Syntax Definition,1997,0,0,1,1.0,2131973199,Eelco Visser,0,-0.8648125444398238,-0.9052401922556629
+2588660268,Deep Integration of Domain-Specific Languages,2012,0,0,2,1.0,2004777678,GabriÃ«l D. P. Konat,0,-0.1164726804531344,0.019252515865476
+2765376419,FlowSpec declarative dataflow analysis specification,2017,29,2,1,1.0,2131973199,Eelco Visser,0,0.7102442429166298,-0.9619591184910412
+2777364118,Intrinsically-typed definitional interpreters for imperative languages,2017,68,3,2,0.0,2027002858,Andrew Tolmach,0,-0.4391375244053412,-1.414899352104207
+2762774862,The semantics of name resolution in grace,2017,33,0,2,1.0,1941085475,Vlad Vergu,0,-0.000923896929661497,0.03807312820624842
+2766692283,Deep priority conflicts in the wild a pilot study,2017,21,0,2,1.0,2054472129,Michael J. Steindorfer,0,-0.3069548767126872,0.29438069128498134
+2798834925,PixieDust Declarative Incremental User Interface Rendering Through Static Dependency Tracking,2018,10,0,1,1.0,2131973199,Eelco Visser,0,-0.20091572073994413,-0.04889315818581186
+2795073756,Towards Zero-Overhead Disambiguation of Deep Priority Conflicts,2018,0,1,2,1.0,2054472129,Michael J. Steindorfer,0,-0.10427202017299901,-0.3276234341336434
+2795296662,PIE A Domain-Specific Language for Interactive Software Development Pipelines,2018,0,5,4,0.138938,1576900243,Sebastian Erdweg,0,0.3916225227995172,0.02102009628654328
+2888590305,Scalable incremental building with dynamic task dependencies,2018,19,3,3,0.138938,1576900243,Sebastian Erdweg,0,0.058023234952292925,-0.22111524886027506
+2889130485,Specializing a meta-interpreter JIT compilation of dynsem specifications on the graal VM,2018,36,1,2,1.0,1941085475,Vlad Vergu,0,-0.2184976640779385,-0.6710849247695491
+2898299813,Migrating business logic to an incremental computing DSL a case study,2018,38,0,1,1.0,2131973199,Eelco Visser,0,-1.0946181607639545,-0.5239917800543347
+2898348043,Declarative specification of indentation rules a tooling perspective on parsing and pretty-printing layout-sensitive languages,2018,17,0,3,0.138938,1576900243,Sebastian Erdweg,0,0.4032401363058211,-0.748178973193777
+2898474115,Migrating custom DSL implementations to a language workbench (tool demo),2018,6,2,1,1.0,2131973199,Eelco Visser,0,-0.4094324131895549,-0.20184152891813456
+2898547734,Scopes as Types,2018,38,4,1,1.0,2131973199,Eelco Visser,0,-0.8102970973404068,-0.5553035603766533
+2898868394,Intrinsically-Typed Definitional Interpreters for Imperative Languages,2018,0,7,2,0.0,2027002858,Andrew Tolmach,0,-0.4132769659018103,-1.8253797640199645
+2913277664,Proceedings of the 2016 ACM SIGPLAN International Conference on Object-Oriented Programming Systems Languages and Applications,2016,0,0,2,0.0,197016611,Yannis Smaragdakis,0,0.004880576560232004,-0.20432588490386505
+2913348136,Proceedings of the 2016 ACM SIGPLAN International Conference on Object-Oriented Programming Systems Languages and Applications,2016,0,0,2,0.0,197016611,Yannis Smaragdakis,0,0.004880576560232004,-0.20432588490386505
+2913370901,Companion Proceedings of the 2016 ACM SIGPLAN International Conference on Systems Programming Languages and Applications Software for Humanity,2016,0,0,1,1.0,2131973199,Eelco Visser,0,1.765650432416857,-0.8237610433843993
+2913403139,Proceedings of the 10th SIGPLAN symposium on New ideas new paradigms and reflections on programming and software,2011,0,2,1,1.0,2131973199,Eelco Visser,0,1.898252315573948,-0.4642213031753899
+2914550968,Proceedings of the 2016 ACM International Symposium on New Ideas New Paradigms and Reflections on Programming and Software,2016,0,0,1,1.0,2131973199,Eelco Visser,0,0.4896308132892164,-0.1340300604735376
+2892854778,Providing Rapid Feedback in Generated Modular Language Environments,2009,36,16,3,0.0,200559227,Emma Nilsson Nyman,0,-0.326651478693947,0.0868417063404693
+2972224115,Scopes and Frames Improve Meta-Interpreter Specialization,2019,0,0,3,1.0,1941085475,Vlad Vergu,0,-1.0026405791999902,0.008623864573787172
+2964378264,Scopes and Frames Improve Meta-Interpreter Specialization,2019,0,0,3,1.0,1941085475,Vlad Vergu,0,-1.0026405791999902,0.008623864573787172
+2979438522,Towards language-parametric semantic editor services based on declarative type system specifications,2019,8,0,1,1.0,2131973199,Eelco Visser,0,-0.2896092576116395,-0.12803277548097738
+2990821992,FlowSpec A declarative specification language for intra-procedural flow-Sensitive data-flow analysis,2020,42,0,2,0.0,1998669143,Guido Wachsmuth,0,-0.18303054375907427,0.21355730514806412
+2964933685,Towards Language-Parametric Semantic Editor Services Based on Declarative Type System Specifications (Brave New Idea Paper),2019,0,1,1,1.0,2131973199,Eelco Visser,0,0.4410837834879324,-0.1982330337082409
+2980312990,From definitional interpreter to symbolic executor,2019,0,0,1,1.0,2131973199,Eelco Visser,0,0.060301188524122154,0.10762496488691194
+2992034907,Scopes Describe Frames A Uniform Model for Memory Layout in Dynamic Semantics (Artifact),2016,0,0,3,1.0,1968019377,Pierre Neron,0,-0.19537854269507235,0.0154707632042657
+3005911118,Constructing Hybrid Incremental Compilers for Cross-Module Extensibility with an Internal Build System,2020,26,0,2,1.0,2004777678,GabriÃ«l D. P. Konat,0,-0.4305170663508852,0.1682008430999817
+3023889707,Robust Real-Time Synchronization between Textual and Graphical Editors,2013,24,13,4,0.0,1997631674,JÃ¶rn Guy SÃ¼ÃŸ,0,-0.38901598959897904,-0.1717544847772182
+3021663290,Robust Real-Time Synchronization between Textual and Graphical Editors,2013,0,0,3,1.0,1998669143,Guido Wachsmuth,0,-0.38901598959897904,-0.1717544847772182
+3014605557,Session details Extensible and domain-specific languages,2014,0,0,1,1.0,2131973199,Eelco Visser,0,-0.27387857325661863,-0.24648072486947256

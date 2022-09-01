@@ -1,0 +1,101 @@
+154014553,Monadic I/O in Haskell 13,1995,0,5,2,0.0,2101841271,Andrew D. Gordon,0,-0.34472921118575917,0.10908051895833155
+142612778,Resource-Safe systems programming with embedded domain specific languages,2012,21,9,2,1.0,2040330261,Edwin Brady,0,2.682302806852568,-0.11403359092121979
+92412884,Why parallel functional programming matters panel statement,2011,8,6,1,1.0,2133455440,Kevin Hammond,0,2.6389452563689795,0.08650067963258164
+160501638,Dependently Typed Meta-programming,2006,17,2,2,1.0,2040330261,Edwin Brady,0,1.6462076444729068,-0.18318676913940982
+127952440,An Algorithmic and Semantic Approach to Debugging,1991,10,5,2,0.952381,2112998414,Cordelia V. Hall,0,-0.4092206616038536,-0.0401083610130616
+129408374,Glasgow Parallel Haskell (GpH),2011,14,1,1,1.0,2133455440,Kevin Hammond,0,-0.36807023623907253,0.004701123986896351
+78774630,Trends in functional programming,2002,0,0,1,1.0,2133455440,Kevin Hammond,0,-0.4092206616038536,-0.0401083610130616
+148687234,Parallel Functional Programming An Introduction,2008,32,20,1,1.0,2133455440,Kevin Hammond,0,2.6389452563689795,0.08650067963258164
+81387066,Is it time for real-time functional programming ,2003,58,12,1,1.0,2133455440,Kevin Hammond,0,2.625406669430416,-0.48582351651697603
+48924297,FSM-Hume is finite state,2003,5,6,3,0.585953,2031028931,Greg Michaelson,0,1.8053514717322405,0.593615322910122
+151681725,The Embounded project (project start paper),2005,0,4,10,1.0,98811345,Roy Dyckhoff,0,2.2715574441204147,-0.6862085035963242
+618535955,Functional programming Glasgow 1994 proceedings of the 1994 Glasgow Workshop on Functional Programming Ayr Scotland 12-14 September 1994,1995,0,0,1,1.0,2133455440,Kevin Hammond,0,-0.2464675322494016,0.20147375322244487
+360354062,Functional Programming Glasgow 1993 Proceedings of the 1993 Glasgow Workshop on Functional Programming Ayr Scotland 5-7 July 1993,1994,0,0,1,1.0,2133455440,Kevin Hammond,0,-0.8943656666060154,-0.8575930399368128
+1496304956,Worst-case execution times for a purely functional language,2006,29,13,2,0.469597,1971317241,Reinhold Heckmann,0,0.5316363994930057,-0.86786091393307
+1531909611,GpH An Architecture-independent Functional Language,1998,33,14,3,1.0,2016028299,Hans Wolfgang Loidl,0,-0.251770514036622,0.8518061743736413
+1542383916,The Dynamic Properties of Hume A Functionally-Based Concurrent Language with Bounded Time and Space Behaviour,2000,16,6,1,1.0,2133455440,Kevin Hammond,0,-0.5965023864613556,0.029022158457952554
+1506492451,Report on the Programming Language Haskell A Non-strict Purely Functional Language,1992,0,237,7,1.0,285480461,Brian Boutel,0,2.3358963089327034,-1.1129744172770426
+1560887622,Cost analysis using automatic size and time inference,2002,16,7,2,0.758277,2016028299,Hans Wolfgang Loidl,0,-0.4088644938456329,-0.17367194241451256
+1525901076,Hume a domain-specific language for real-time embedded systems,2003,34,95,2,0.585953,2031028931,Greg Michaelson,0,-0.11892833875159897,-0.13108926590910183
+1508158886,Implementing Haskell Type Classes,1989,7,8,1,1.0,2133455440,Kevin Hammond,0,-0.39414762081948,0.4216525699500243
+1499756277,Low-level programming in Hume an exploration of the HW-Hume level,2006,40,9,4,1.0,93310743,Gudmund Grov,0,1.7359878772224395,-1.67252096705818
+1491256615,Automatic Spark Strategies and Granularity for a Parallel Functional Language Reducer,1994,14,6,1,1.0,2133455440,Kevin Hammond,0,-0.37551401291988123,-0.11736821636213063
+1517540144,Implementation of Functional Languages 10th International Workshop IFL98 London UK September 9-11 1998 Selected Papers,1999,0,1,2,1.0,1535070121,Antony J. T. Davie,0,-0.3830643382654773,0.019912082455184187
+1526824128,A dependently typed framework for static analysis of program execution costs,2005,31,22,2,1.0,2040330261,Edwin Brady,0,-0.270348767101452,-0.10664717653258061
+1491749365,Research Directions in Parallel Functional Programming,1999,0,65,1,1.0,2133455440,Kevin Hammond,0,1.631912557452193,-0.5073590387731525
+1554222327,Type Classes in Haskell,1994,20,68,3,0.0,2060729710,Philip Wadler,0,-1.1364297841829103,-1.3438003444114162
+1492541569,Repeating History Execution Replay for Parallel Haskell Programs,2012,14,0,4,1.0,1843093895,Henrique Ferreiro,0,0.06603502253401076,0.7558260356288843
+1527827408,Parallel SML A functional language and its implementation in Dactl,1991,0,20,1,1.0,2133455440,Kevin Hammond,0,-0.4092206616038536,-0.0401083610130616
+1410381464,Improving your cash flow the computer algebra shell,2010,18,1,3,0.655343,2007630652,Jost Berthold,0,0.1320680868176748,-0.08143813687950316
+1528500212,The Glasgow Haskell Compiler A Retrospective,1992,9,25,4,0.110734,2060729710,Philip Wadler,0,-0.374413032509832,0.17717321614738915
+1418252439,Parallel functional languages,2011,0,0,2,0.0,2016028299,Hans Wolfgang Loidl,0,1.9661042494669636,0.7368806251961576
+1434784935,Paraphrasing Generating parallel programs using refactoring,2011,30,3,3,0.0,2107789154,Marco Danelutto,0,0.1892261368160865,-0.04464598053747368
+1512075286,The Design of Hume A High-Level Language for the Real-Time Embedded Systems Domain,2004,23,2,2,0.585953,2031028931,Greg Michaelson,0,-0.6683980520078787,-0.2053963490419625
+1558109178,The Glasgow Haskell Compiler a technical overview,1993,1,176,3,0.110734,2060729710,Philip Wadler,0,-0.5850443607722282,-0.05386572041535792
+1577157553,ParaForming forming parallel haskell programs using novel refactoring techniques,2011,19,21,2,0.0,2016028299,Hans Wolfgang Loidl,0,0.3913185178074175,-0.21923999878007375
+1578216787,A Parallel Functional Database on GRIP,1991,25,2,2,0.0,284693059,Gert Akerholt,0,-0.26427881783517926,0.04803325430465499
+1757338326,HaskSkel Algorithmic Skeletons in Haskell,1999,17,11,1,1.0,2133455440,Kevin Hammond,0,-0.6687191093218446,0.15060666846329065
+1597637718,The Multi-architecture Performance of the Parallel Functional Language GP H (Research Note),2000,5,0,4,0.0,249251696,Ulrike Klusik,0,-0.533117033587811,-0.033260739562029996
+1590035422,Implementation of functional languages 9th International Workshop IFL 97 St Andrews Scotland UK September 10-12 1997 selected papers,1998,0,0,2,1.0,1535070121,Antony J. T. Davie,0,-0.37234763594586984,-0.25146984108621795
+1770376203,Improving Persistent Data Manipulation for Functional Languages,1992,10,3,1,1.0,2133455440,Kevin Hammond,0,-0.19353467986115316,0.5300720924955081
+1591780766,Correct-by-Construction Concurrency Using Dependent Types to Verify Implementations of Effectful Resource Usage Protocols,2010,47,11,2,1.0,2040330261,Edwin Brady,0,-0.19513898743139624,0.040848743022553376
+1921428412,Hume a bounded time concurrent language,2000,1,4,1,1.0,2133455440,Kevin Hammond,0,1.123346683466839,-1.9358161742154691
+1830660052,Parallel Programming Models Methods and Programming Languages,2002,0,0,1,1.0,2133455440,Kevin Hammond,0,-0.2415986158820637,-0.02572050565696271
+1786205370,Database manipulation in Haskell 13,1995,10,0,2,0.0,2044799559,Phil Trinder,0,-0.47936970507757265,-0.030022329972602166
+1978556804,FSM-Hume programming resource-limited systems using bounded automata,2004,16,7,3,0.585953,2031028931,Greg Michaelson,0,-1.0614348702827123,-0.7990953391692455
+1968024460,A verified staged interpreter is a verified compiler,2006,27,21,2,1.0,2040330261,Edwin Brady,0,0.7478693697421486,-0.3309333360052736
+1965041749,Low-pain high-gain multicore programming in Haskell coordinating irregular symbolic computations on multicore architectures (abstract only),2009,0,2,5,0.0,1974004211,Mustafa Aswad,0,-0.7109410852560578,0.28145771825979304
+1975535524,Cost-Directed Refactoring for Parallel Erlang Programs,2014,33,23,3,0.0,2107789154,Marco Danelutto,0,1.1621441481944732,-0.2751356494221811
+1981349772,A language-independent parallel refactoring framework,2012,12,12,3,0.0,2107789154,Marco Danelutto,0,0.3735678007948725,0.08293420867570969
+1983587116,GUM a portable parallel implementation of Haskell,1996,21,137,1,1.0,2133455440,Kevin Hammond,0,-0.5547547231971109,-0.027408121644443326
+1990195720,Algorithm + strategy = parallelism,1998,39,225,2,1.0,2016028299,Hans Wolfgang Loidl,0,-0.38947436061728313,0.06162076723921626
+2011324058,Engineering parallel symbolic programs in GPH,1999,48,35,3,1.0,2016028299,Hans Wolfgang Loidl,0,-0.2557603927292976,0.4330876398754016
+2035339684,Functional programming and the &quot;megacore&quot; era,2014,0,0,1,1.0,2133455440,Kevin Hammond,0,0.5547419849902332,0.1599824676312655
+2050436001,The Peter Landin prize,2009,24,0,2,0.0,2031028931,Greg Michaelson,0,-0.015323380055485447,0.35702992400494726
+2062950667,Report on the programming language Haskell a non-strict purely functional language version 12,1992,16,714,7,1.0,285480461,Brian Boutel,0,0.8793904707777779,-0.10510606696908327
+2069537487,Naira A parallel 2Haskell compiler,1997,12,1,2,1.0,1535070121,Antony J. T. Davie,0,-0.41646660682700304,0.04424801340060166
+2100033040,Ensuring Correct-by-Construction Resource Usage by using Full-Spectrum Dependent Types,2009,28,1,2,1.0,2040330261,Edwin Brady,0,0.9375076233475248,-0.08413837910099327
+2095136535,Type classes in Haskell,1996,31,174,3,0.0,2060729710,Philip Wadler,0,-1.1816975587965965,-1.3085822371142022
+2096189519,Scrapping your inefficient engine using partial evaluation to improve domain-specific language implementation,2010,41,16,2,1.0,2040330261,Edwin Brady,0,-0.42452748324384026,-0.019436891903638582
+2090759054,Automatic amortised analysis of dynamic memory allocation for lazy functional programs,2012,43,22,2,1.0,2101085026,Steffen Jost,0,-0.17363192552684467,0.08272875717092103
+2138198181,A Verified Staged Interpreter is a Verified Compiler Multi-stage Programming with Dependent Types,2006,27,2,2,1.0,2040330261,Edwin Brady,0,0.8964685448168133,-0.05785950491287384
+2126923341,SymGrid A Framework for Symbolic Computations on the Grid,2007,21,2,1,1.0,2133455440,Kevin Hammond,0,-0.7419643221017904,-0.3957665902934546
+2132741299,Towards Hume SIMD vectorisation,2009,5,0,4,0.0,2016028299,Hans Wolfgang Loidl,0,0.8074337337011676,0.45842555643582855
+2128075089,Automatic skeletons in Template Haskell,2003,8,25,3,0.0,67920613,Rita Loogen,0,-0.63813144294671,-0.0907919953160887
+2114141978,Exception handling in a parallel functional language PSML,1989,5,12,1,1.0,2133455440,Kevin Hammond,0,-0.19002520645379842,-0.02585083785665004
+2156364723,Comparing and Optimising Parallel Haskell Implementations for Multicore Machines,2009,29,5,3,0.655343,2007630652,Jost Berthold,0,-0.4791399492371368,-0.0372544389145269
+2153979749,Discovering parallel pattern candidates in Erlang,2014,29,16,6,0.0,177349581,TamÃ¡s Kozsik,0,0.2024161397100726,-0.19486886128732744
+2160171587,Correct-by-Construction Concurrency,2008,30,1,2,1.0,2040330261,Edwin Brady,0,1.7061403582739991,0.5943055295382393
+2145249188,Improving Granularity in Parallel Functional Programs A Graphical Winnowing System for Haskell,1995,12,3,2,0.980392,2016028299,Hans Wolfgang Loidl,0,-0.4925593455045762,-0.4137031639968529
+2148478034,Report on the Programming Language Haskell 98,1999,0,203,8,1.0,285480461,Brian Boutel,0,2.420362979811433,0.18174292001571568
+2152104548,The ParaPhrase Project Parallel patterns for adaptive heterogeneous multicore systems,2013,67,34,5,0.0,214546978,Gilad Shainer,0,0.6846796196837621,-0.06059821850059718
+2182361133,A Verified Resource-Bounded Functional Programming Language,2006,21,0,3,1.0,2040330261,Edwin Brady,0,-0.5020893814662829,0.02777677697379603
+2158392227,Towards formally verifiable WCET analysis for a functional programming language,2006,22,7,10,1.0,98811345,Roy Dyckhoff,0,2.133216540811876,-0.748617563892517
+2170788827,Embedding a Language with Certified Size Constraints in a Dependently Typed Metalanguage,2006,34,0,3,1.0,2040330261,Edwin Brady,0,-0.2795731704789471,0.0877695186882741
+2171046571,On the granularity of divide-and-conquer parallelism,1995,9,27,2,0.980392,2016028299,Hans Wolfgang Loidl,0,-0.4153223273477738,-0.2308984672812404
+2311942676,RPL A Domain-Specific Language for Designing and Implementing Parallel C++ Applications,2016,24,12,3,0.0,1997128494,Vladimir Janjic,0,0.5540280305503767,-0.0970776937353922
+2294370068,Type-Based Allocation Analysis for Co-recursion in Lazy Functional Languages,2015,30,14,2,1.0,2101085026,Steffen Jost,0,-0.72246377287565,-0.3322881756148669
+2300883860,Kindergarten cop dynamic nursery resizing for GHC,2016,15,0,4,1.0,1843093895,Henrique Ferreiro,0,-0.3351930566649869,-0.44187476269653236
+2396155002,Lightweight Invariants with Full Dependent Types,2008,18,3,2,1.0,2040330261,Edwin Brady,0,-0.30185153657687,-0.45864520887516136
+2402903221,Constructing Correct Circuits Verification of Functional Aspects of Hardware Specifications with Dependent Types,2007,27,5,3,1.0,2040330261,Edwin Brady,0,2.2094278129867453,-1.1569782478438773
+2475893776,&quot;Functional Programming Glasgow 1993&quot;,1994,0,0,1,1.0,2133455440,Kevin Hammond,0,-0.4092206616038536,-0.0401083610130616
+2460371057,PAEAN portable and scalable runtime support for parallel Haskell dialects,2016,37,1,2,0.0,2016028299,Hans Wolfgang Loidl,0,-0.36807023623907253,0.004701123986896351
+2494565114,HaskSkel Algorithmic skeletons in Haskell,2000,0,4,1,1.0,2133455440,Kevin Hammond,0,-0.7763257924890188,0.09697000088156735
+2519753000,Naira A parallel2 Haskell compiler,1998,0,2,2,1.0,1535070121,Antony J. T. Davie,0,-0.6209004369038997,-0.015536590763045683
+2516191916,Towards semi-automatic data-type translation for parallelism in Erlang,2016,7,3,1,1.0,2133455440,Kevin Hammond,0,-0.01200299895928092,0.22630449344830877
+2575382966,Verifying Temporal Properties in HW-Hume,2005,22,1,4,1.0,93310743,Gudmund Grov,0,0.6003922670201697,0.5044751876520615
+2583007410,FD-COMA 2013 2nd HiPEAC Workshop on Feedback-Directed Compiler Optimization for Multi-Core Architectures 8th International Conference on High-Performance and Embedded Architectures and Compilers HIPEAC 2013 Berlin Germany January 21-23 2013,2013,0,0,3,0.0,1974525757,Clemens Grelck,0,-0.917310137998317,0.0072185443834489665
+2521529770,Timing Properties and Correctness for Structured Parallel Programs on x86-64 Multicores,2015,20,1,2,0.448425,2130034569,Susmit Sarkar,0,0.02161261567275665,0.049047509710053915
+2517303054,Coinductive soundness of corecursive type class resolution,2016,15,2,1,1.0,2133455440,Kevin Hammond,0,-0.39611331730356636,-0.503720008060249
+2507299602,Farms pipes streams and reforestation reasoning about structured parallel processes using types and hylomorphisms,2016,36,10,2,0.448425,2130034569,Susmit Sarkar,0,-0.05033445484878335,0.2835135771650693
+2569392808,Type-Based Cost Analysis for Lazy Functional Languages,2017,33,4,2,1.0,2101085026,Steffen Jost,0,-1.1794172756115457,-0.16038547041076043
+2604608020,Using Program Shaping and Algorithmic Skeletons to Parallelise an Evolutionary Multi-Agent System in Erlang,2016,0,7,2,0.0,69202314,Aleksander Byrski,0,-0.04542276862760086,0.22990138147143196
+2741647731,Finding parallel functional pearls Automatic parallel recursion scheme detection in Haskell functions via anti-unification,2018,37,5,1,1.0,2133455440,Kevin Hammond,0,-1.0994098878335476,0.1894881037520243
+2775799464,Naira A ParallelÂ² Haskell Compiler,1997,7,3,2,1.0,1535070121,Antony J. T. Davie,0,-0.505683416677957,-0.003387749562058033
+2788264737,Paraphrasing Generating parallel programs using refactoring,2013,0,9,3,0.0,2107789154,Marco Danelutto,0,0.8968116727236316,-0.323934864224269
+2798999509,Proof-relevant Horn Clauses for Dependent Type Inference and Term Synthesis,2018,3,0,1,1.0,2133455440,Kevin Hammond,0,-0.35459524319507835,-0.21380818210809857
+2904694895,Proof-carrying plans,2019,18,0,2,0.0,164796781,Ronald P. A. Petrick,0,0.09759668988581183,-0.809986500028821
+2916740157,Functional Programming Glasgow 1994,1995,0,0,1,1.0,2133455440,Kevin Hammond,0,-0.4092206616038536,-0.0401083610130616
+2950784362,Coinductive Soundness of Corecursive Type Class Resolution,2016,14,0,1,1.0,2133455440,Kevin Hammond,0,-0.39611331730356636,-0.503720008060249
+2986261917,The Peter Landin prize,2010,0,0,2,0.0,2031028931,Greg Michaelson,0,-0.015323380055485447,0.35702992400494726
+3015030139,Session details Concurrency and distribution,2007,0,0,1,1.0,2133455440,Kevin Hammond,0,-0.2268142716231431,-0.1590203910320284

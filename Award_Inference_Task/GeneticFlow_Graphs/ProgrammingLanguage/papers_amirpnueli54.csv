@@ -1,0 +1,116 @@
+121172116,Keys in Formal Verification,2005,9,0,1,1.0,2171343426,Amir Pnueli,0,0.13223356176407774,0.3413352173924516
+106526842,Validating the Translation of an Industrial Optimizing Compiler,2004,25,1,1,1.0,2171343426,Amir Pnueli,0,-0.3229813413737613,0.555854936785283
+41346899,Deductive vs Model-Theoretic Approaches to Formal Verification (Abstract of Invited Talk),1998,0,0,1,1.0,2171343426,Amir Pnueli,0,-0.03028895701470967,0.09972962201137814
+196640945,On the Formal Semantics of Statecharts (Extended Abstract),1987,0,206,3,0.0,427806604,David Harel,0,-0.02200225466595789,-0.0685401157200662
+96703786,Ranking abstraction as a companion to predicate abstraction,2005,9,4,1,1.0,2171343426,Amir Pnueli,0,-0.020181976138822038,-0.6037996312869912
+15108540,A Compositional Approach to a CSP-like Language,1985,0,4,3,0.666667,2155306770,Howard Barringer,0,-0.1164726804531344,0.019252515865476
+84548777,Verification of parameterized programs,1995,0,11,2,0.0,2146370811,Zohar Manna,0,-0.1164726804531344,0.019252515865476
+234052250,Formal Methods and Tools for the Development of Distributed and Real Time Systems SPEC -- Esprit Project 3096 (Extended Abstract),1990,0,1,7,0.0,349100197,Costas Courcoubetis,0,-0.12173329024596656,0.39350213544966967
+967484115,Ensuring correctness of compiled code,2009,60,2,1,1.0,2171343426,Amir Pnueli,0,-1.4673662978746786,-0.6507893385814861
+337454302,Transformational Development of Reactive Systems,2002,0,0,3,1.0,2048787978,Lenore D. Zuck,0,1.766871828330462,-0.46747626861961855
+279484374,Compositionality the significant difference international symposium COMPOS 97 Bad Malente Germany September 8-12 1997 revised lectures,1998,0,8,3,0.0,1246675935,Compos,0,-0.25357932986233284,0.07922684119852226
+1568594638,Temporal Verification of Simulation and Refinement,1993,17,51,3,1.0,41634159,Yonit Kesten,0,0.1195295378623376,0.4529549389411107
+1550685300,Modularization and Abstraction The Keys to Practical Formal Verification,1998,26,35,1,1.0,2171343426,Amir Pnueli,0,0.551504018680788,0.11467061127648334
+1523814254,System Specification and Refinement in Temporal Logic,1992,26,30,1,1.0,2171343426,Amir Pnueli,0,-0.0936051078297919,0.41946810470535745
+1569068921,Applications of temporal logic to the specification and verification of reactive systems a survey of current trends,1986,45,386,1,1.0,2171343426,Amir Pnueli,0,-0.1164726804531344,0.019252515865476
+1551331198,What is in a Step On the Semantics of Statecharts,1991,8,189,1,1.0,2171343426,Amir Pnueli,0,-0.11623943331008266,-0.2589736460159638
+1533857661,TimeC A Time Constraint Language for ILP Processor Compilation,2002,30,15,2,0.0,2047392434,Krishna V. Palem,0,-0.23527786946996265,-0.0006682129589907618
+1552938934,Proving Termination of Prolog Programs,1985,4,24,4,0.235823,20141768,Nissim Francez,0,-0.37268187883381076,-0.09142072194762507
+1508187353,Verification of Clocked and Hybrid Systems,1996,31,11,2,0.0,2146370811,Zohar Manna,0,1.482217983918337,-0.7193348457651055
+1526808427,Synthesis revisited generating statechart models from scenario-based requirements,2005,30,113,3,0.0,427806604,David Harel,0,2.265660094501064,-0.8612296076500585
+1553935576,A Hardware Implementation of the CSP Primitives and its Verification,1984,3,2,2,0.0,2120962308,Dorit Ron,0,2.209512125932069,-0.5419550004597314
+1517771483,JTLV a framework for developing verification algorithms,2010,18,71,3,0.0,2048787978,Lenore D. Zuck,0,0.443700617165029,-0.11390131578412149
+1554690752,Translation Validation for Synchronous Languages,1998,8,48,2,1.0,1521612420,Ofer Shtrichman,0,-0.43488825114761587,0.2709158933687791
+1484944745,Deductive vs model-theoretic approaches to formal verification,1998,0,0,1,1.0,2171343426,Amir Pnueli,0,0.18273563375350033,0.024282550805157732
+1529045198,On Recognizable Timed Languages,2004,21,24,2,1.0,694493417,Oded Maler,0,2.7552681441504525,-0.7182368018432141
+1556087793,Translation Validation From DC+ to C*,1998,9,6,2,1.0,1521612420,Ofer Shtrichman,0,-1.0808017319179573,-0.38760984380024954
+1485824411,Smart play-out extended time and forbidden elements,2004,23,16,2,1.0,2106747418,Hillel Kugler,0,1.1370764672712996,0.1674724502373408
+1575176197,The Code Validation Tool (CVT),1998,5,83,2,1.0,1521612420,Ofer Shtrichman,0,-0.1164726804531344,0.019252515865476
+1486506455,A Perfect Verification Combining Model Checking with Deductive Analysis to Verify Real-Life Software,1999,25,8,3,0.0,1580431128,Gil Raanan,0,3.0469783220078916,-1.0916465391764494
+1444202976,There exist decidable context free propositonal dynamic logics,1983,3,4,2,0.0,2132638649,Tmima Koren,0,-0.13170788135222752,0.36187028567290463
+1557825843,Specification and implementation of concurrently accessed data structures An abstract data type approach,1987,20,13,1,1.0,2171343426,Amir Pnueli,0,0.26242803765744455,-0.3761094099851359
+1487199072,Linear and Branching Structures in the Semantics and Logics of Reactive Systems,1985,34,190,1,1.0,2171343426,Amir Pnueli,0,-0.35605923115634824,0.2712111122859095
+1577235157,Beyond Regular Model Checking,2001,31,21,2,0.0,2166387966,Dana Fisman,0,-0.27421915564927263,0.3737454249131229
+1586491492,The Modal Logic of Programs,1979,6,65,2,0.0,2146370811,Zohar Manna,0,-0.38621261525386014,0.1547592870371494
+1605121006,Verifying clocked transition systems,1996,23,38,3,1.0,41634159,Yonit Kesten,0,-0.25564150244102607,0.02207627243718761
+1605381479,Temporal Verification Diagrams,1994,13,61,2,0.0,2146370811,Zohar Manna,0,-0.3601661559371569,0.2892207415577581
+1587844310,CoVaC Compiler Validation by Program Analysis of the Cross-Product,2008,25,72,2,1.0,2147442677,Anna Zaks,0,-1.8832918693638128,-0.17557088176429272
+1596995840,VOC A translation validator for optimizing compilers,2002,4,46,3,1.0,2048787978,Lenore D. Zuck,0,-0.8685365598014942,-0.04040677733137146
+1606403830,Temporal verification of reactive systems response,2010,1,7,2,0.0,2146370811,Zohar Manna,0,-0.27632276176539083,0.1684989415072452
+1882179541,A Comparison of Two Verification Methods for Speculative Instruction Execution,2000,14,23,2,0.0,2081863030,Tamarah Arons,0,0.5257337927484372,-0.1702110713483803
+1589034549,Timed and Hybrid Statecharts and Their Textual Representation,1992,16,113,2,1.0,41634159,Yonit Kesten,0,0.08970743604736764,-1.0583754919948998
+1823037702,From Timed to Hybrid Systems,1991,29,325,3,0.0,2146370811,Zohar Manna,0,0.1034842473198584,0.19483575977971634
+1823360320,Mechanical Verification of Transactional Memories with Non-transactional Memory Accesses,2008,14,22,2,0.785229,2048787978,Lenore D. Zuck,0,-0.7962639069266217,0.3269569502437807
+1774384314,Validation of Optimizing Compilers,2001,8,18,3,0.0,296832225,R. Leviathan,0,-2.12629782841357,-0.7726763091929246
+1592267339,Understanding UML A Formal Semantics of Concurrency and Communication in Real-Time UML,2002,30,59,2,0.0,1983222002,Angelika Votintseva,0,1.7369664293466156,-1.0278383670877005
+1615716068,Applications of temporal logic to the specification of real time systems (extended abstract),1988,0,30,2,0.0,2034181216,Eyal Harel,0,-0.27632276176539083,0.1684989415072452
+1827056974,Herbrand Automata for Hardware Verification,1998,15,10,1,1.0,2171343426,Amir Pnueli,0,-1.0312111654253617,0.5441119242221178
+1780369767,Ranking abstraction as companion to predicate abstraction,2005,10,7,3,1.0,2048787978,Lenore D. Zuck,0,-0.10842835788790786,-0.3986817176575467
+1926085771,Symbolic Model Checking with Rich ssertional Languages,1997,32,134,3,1.0,694493417,Oded Maler,0,-0.5822216206569601,0.21276114118837952
+1585611794,On the faithfulness of formal models,1991,7,10,3,0.0,2146370811,Zohar Manna,0,-0.024772062632385062,-0.33828348847520484
+1901800694,Learning omega-Regular Languages from Queries and Counter-Examples (A Preliminary Report),1989,27,0,1,1.0,2171343426,Amir Pnueli,0,1.8908667897458984,0.9512312710160951
+1967917857,Model checking and abstraction to the aid of parameterized systems (a survey),2004,58,48,2,1.0,2048787978,Lenore D. Zuck,0,-0.13003621345239846,0.2624461307086671
+1985592284,Verification of multi-linked heaps,2012,32,2,4,0.0,2048787978,Lenore D. Zuck,0,-0.1164726804531344,0.019252515865476
+1982161448,A linear history semantics for distributed languages extended abstract,1980,5,10,3,0.47619,20141768,Nissim Francez,0,-0.7992842681464133,-0.0950223519290978
+1965113725,Communication with directed logic variables,1991,25,12,1,1.0,2171343426,Amir Pnueli,0,0.19994088323104947,-0.4229172518059195
+1970603830,The temporal semantics of concurrent programs,1981,15,612,1,1.0,2171343426,Amir Pnueli,0,-0.35605923115634824,0.2712111122859095
+2006838224,Validating More Loop Optimizations,2005,15,7,4,1.0,2108332365,Ying Hu,0,-0.7460511759894533,0.24773274069520085
+1998175705,Smart play-out,2003,7,8,3,0.0,427806604,David Harel,0,2.101436392769759,-0.6201295388385627
+2001821286,On the scope of static checking in definitional languages,1984,19,6,4,0.0,258366765,Noah S. Prywes,0,0.10000486422958076,-0.07858858507393826
+2003773532,A really abstract concurrent model and its temporal logic,1986,22,148,3,0.666667,2155306770,Howard Barringer,0,0.4181359681615408,-0.7100751334380961
+1990228414,Translation Validation From SIGNAL to C,1999,20,33,2,1.0,1521612420,Ofer Shtrichman,0,-1.0768072832427817,-0.6486832923189672
+2030091897,MODULAR RANKING ABSTRACTION,2007,24,13,3,0.903802,2048787978,Lenore D. Zuck,0,0.04563565562955815,-0.1818192300616326
+2010795160,Statemate a working environment for the development of complex reactive systems,1988,9,179,6,1.0,405956978,A. Naamad,0,0.13921505104662707,-0.05883175136046185
+2023808162,The temporal logic of programs,1977,16,4087,1,1.0,2171343426,Amir Pnueli,0,-0.27695291254378535,0.6241357727361201
+2011735245,Interactive presentation Automatic hardware synthesis from specifications a case study,2007,12,60,5,0.0,171279138,Barbara Jobstmann,0,-0.23250550456125238,-0.7501594941393068
+2040142115,Synthesizing reactive systems from LSC requirements using the play-engine,2007,6,1,2,1.0,2106747418,Hillel Kugler,0,0.7901793721149601,0.14946327935937928
+2049134225,Program analysis for compiler validation,2008,15,4,2,1.0,2147442677,Anna Zaks,0,-1.2006197456447993,0.1560703656679883
+2050948770,Translation and Run-Time Validation of Loop Transformations,2005,20,39,5,1.0,2048787978,Lenore D. Zuck,0,-0.7598874386320289,1.0829874423700725
+2055022721,Monitoring Interfaces for Faults,2006,16,14,3,0.976209,2048787978,Lenore D. Zuck,0,0.3331193341941054,0.15563892914719143
+2055394579,Validating software pipelining optimizations,2002,15,11,1,1.0,2171343426,Amir Pnueli,0,0.798354969556952,0.09333278382221318
+2034410903,Proving partial order properties,1994,46,38,2,1.0,127429266,Doron Peled,0,0.7186027628236221,1.4029207156095789
+2071659383,Verification of multiprocess probabilistic protocols,1986,13,116,2,1.0,2048787978,Lenore D. Zuck,0,0.9870063765738062,-0.9112289535037877
+2066680644,Control and data abstraction the cornerstones of practical formal verification,2000,25,77,1,1.0,2171343426,Amir Pnueli,0,0.7056600308687914,-0.08106998661373384
+2073689993,How to cook a temporal proof system for your pet language,1983,8,204,2,0.0,2146370811,Zohar Manna,0,-0.19327081208555658,0.05021680511669867
+2073981447,A linear-history semantics for languages for distributed programming,1984,12,54,3,0.277778,20141768,Nissim Francez,0,-0.1164726804531344,0.019252515865476
+2061841985,Now you may compose temporal logic specifications,1984,15,207,3,0.666667,2155306770,Howard Barringer,0,0.2627634854494956,-0.900668374097495
+2067882404,A proof method for cyclic programs,1978,11,52,2,0.47619,20141768,Nissim Francez,0,-0.20645340726087505,-0.15403501218217835
+2093045165,Temporal proof methodologies for real-time systems,1991,27,136,2,0.0,2146370811,Zohar Manna,0,-0.26605127944779466,0.48675264818259506
+2084880396,Temporal Proof Methodologies for Timed Transition-Systems,1994,33,87,2,0.0,2146370811,Zohar Manna,0,-0.26605127944779466,0.48675264818259506
+2098293014,VOC A Methodology for the Translation Validation of Optimizing Compilers,2003,19,83,3,1.0,2048787978,Lenore D. Zuck,0,-0.8976702864172915,0.3330121640329865
+2084998880,A discrete-time UML semantics for concurrency and communication in safety-critical applications,2005,24,46,2,0.0,1983222002,Angelika Votintseva,0,0.6115360692809811,-0.4039439303484098
+2093916942,The Temporal Logic of Reactive and Concurrent Systems Specification,1991,0,1220,2,0.0,2146370811,Zohar Manna,0,0.24344421281576037,-0.6443206773877496
+2090398333,Checking that finite state concurrent programs satisfy their linear specification,1985,15,587,2,0.0,2156895547,Orna Lichtenstein,0,-0.27990962379519524,0.030143030833117968
+2096039823,STATEMATE a working environment for the development of complex reactive systems,1990,15,1049,7,0.0,229324411,Aharon Shtull Trauring,0,0.6548264869311239,0.028413752633049138
+2105157994,Translation and run-time validation of optimized code,2002,10,17,4,1.0,2048787978,Lenore D. Zuck,0,-0.7404096895343827,1.2584104713100492
+2081995564,Verification of clocked and hybrid systems,2000,27,23,2,0.0,2146370811,Zohar Manna,0,1.8984994198299678,-0.8927343926943251
+2141706812,A Compositional Real-Time Semantics of STATEMATE Designs,1997,25,23,4,1.0,147005284,Hardi Hungar,0,-0.16537583212271545,-0.1257582749187258
+2129653161,Deductive Verification of UML Models in TLPVS,2004,24,16,5,0.0,689032613,Mark B. van der Zwaag,0,0.870948960669474,-0.39207265728231144
+2135868730,Abstraction for liveness,2005,0,2,1,1.0,2171343426,Amir Pnueli,0,-0.05024096728026895,-0.1888709991265467
+2130025446,In transition from global to modular temporal reasoning about programs,1989,20,361,1,1.0,2171343426,Amir Pnueli,0,-0.41961614486782634,0.0591005891718247
+2115965729,PSL model checking and run-time verification via testers,2006,16,7,2,1.0,2147442677,Anna Zaks,0,-0.2688713371094729,0.209100274398366
+2110345230,A Sound and Complete Deductive System for ctl* Verification,2008,21,12,1,1.0,2171343426,Amir Pnueli,0,-0.1164726804531344,0.019252515865476
+2113511408,Specify Compile Run Hardware from PSL,2007,19,112,5,0.0,171279138,Barbara Jobstmann,0,-0.3108489721318914,-0.6457889230708297
+2116759677,Modeling Real Concurrency,1992,0,0,3,0.0,2146370811,Zohar Manna,0,-0.42538145033927943,-0.34469923971408106
+2122620434,Automatic Hardware Synthesis from Specifications A Case Study,2007,11,72,5,0.0,171279138,Barbara Jobstmann,0,-0.043770490111352096,-0.09056587250497906
+2111134484,Verifying Correctness of Transactional Memories,2007,18,46,3,0.903802,2048787978,Lenore D. Zuck,0,-0.23255895482236974,-0.2336661640886504
+2180713429,The Temporal Semantics of Concurrent Programs,1979,14,83,1,1.0,2171343426,Amir Pnueli,0,-0.29660046210797786,-9.847163834745636e-05
+2163023948,Synthesis of programs from temporal property specifications,2009,15,11,2,0.0,2153812614,Uri Klein,0,-0.1164726804531344,0.019252515865476
+2151805884,Controller Synthesis from LSC Requirements,2009,38,23,3,0.0,1972339887,Cory Plock,0,0.713556989484968,0.037889375549251314
+2149282043,Verification of Transactional Memories that Support Non-Transactional Memory Accesses,2008,14,5,2,0.785229,2048787978,Lenore D. Zuck,0,-0.7962639069266217,0.3269569502437807
+2167557276,Specifying and proving serializability in temporal logic,1991,25,19,3,1.0,127429266,Doron Peled,0,-2.4485259285545546,-1.749094826186267
+2189250295,Validation of Interprocedural Optimizations,2008,20,7,2,1.0,2147442677,Anna Zaks,0,-1.962527638630661,-0.7559559067464043
+2273342324,Shape analysis by augmentation abstraction and transformation,2007,61,2,3,0.903802,2048787978,Lenore D. Zuck,0,-0.014896098663300128,-0.07472658573371004
+2260769207,Temporal Logic in Specification,1987,0,59,3,1.0,301730084,Behnam Banieqbal,0,0.022999017105727326,0.6074948860313636
+2280227464,Verification of transactional memories and recursive programs,2008,0,0,2,0.785229,2048787978,Lenore D. Zuck,0,-0.04548144193942528,-0.245319553890258
+2462980980,A compositional real-time semantics of STATEMATE designs,1998,0,56,4,1.0,147005284,Hardi Hungar,0,0.33509980242529913,-0.2979493766530589
+2476162387,Translation validation of optimizing compilers,2006,18,7,1,1.0,2171343426,Amir Pnueli,0,-0.6765650581802491,0.3259158864385885
+2473240689,Beyond Regular Model Checking (Extended Abstract),2001,21,1,2,0.0,2166387966,Dana Fisman,0,0.07935638595983423,0.44784522021454826
+2519880493,Real time temporal logic Past present future,2005,0,0,3,0.0,160433957,Dejan Nickovic,0,-0.2025981958639156,0.31384557274006725
+2585433007,Herbrand automata for hardware verification,1998,0,0,1,1.0,2171343426,Amir Pnueli,0,-0.10749900315582707,0.07596538742516913
+2610200970,Specification and Verification of Concurrent Programs by forall-Automata,1987,0,12,2,0.0,2146370811,Zohar Manna,0,3.477258202810133,-0.9893393316898704
+2727953012,Translation validation From DC+ to C,1999,0,0,2,1.0,1521612420,Ofer Shtrichman,0,-0.4596199003582335,0.45059317090653517
+2615062305,Model-checking and abstraction to the aid of parameterized systems,2003,0,3,2,1.0,2048787978,Lenore D. Zuck,0,-0.3193362091780844,-0.14362041755978985
+2802092208,Compositionality and modularity in process specification and design a trace-state based approach,1989,0,3,3,1.0,301730084,Behnam Banieqbal,0,0.4257314177553187,-0.91305146106977
+2911874548,Proceedings on Temporal logic in specification,1987,0,0,3,1.0,301730084,Behnam Banieqbal,0,-0.27632276176539083,0.1684989415072452
+3023202910,Herbrand automata for hardware verification,1998,0,0,1,1.0,2171343426,Amir Pnueli,0,-0.10749900315582707,0.07596538742516913

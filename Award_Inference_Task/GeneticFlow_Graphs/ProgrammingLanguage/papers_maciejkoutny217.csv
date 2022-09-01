@@ -1,0 +1,75 @@
+137260420,A timed mobility semantics based on rewriting strategies,2012,28,1,2,0.388086,1254815390,Gabriel Ciobanu,0,-0.2115284035507442,-0.6873826753902602
+18687568,Compositional Development in the Event of Interface Difference,2002,15,1,2,1.0,318080821,Marta Pietkiewicz Koutny,0,-0.25799111368390537,-0.05980099555322875
+36399861,Modelling Reaction Systems with Petri Nets,2011,0,17,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+191419287,On compositionality and Petri nets in protocol engineering,1995,19,8,1,1.0,2049275856,Maciej Koutny,0,-0.14808979151130028,-0.756805673375296
+22766579,The Petri Box Calculus,2001,0,0,1,1.0,2049275856,Maciej Koutny,0,0.05203883342180382,0.37401580325051764
+134149306,A Concurrent Programming Language,2001,0,0,1,1.0,2049275856,Maciej Koutny,0,2.772366911435444,-1.022574675586361
+614833686,Concur 2012 - concurrency theory 23rd International Conference CONCUR 2012 Newcastle Upon Tyne UK September 4-7 2012 proceedings,2012,0,0,1,1.0,2049275856,Maciej Koutny,0,-0.29581274883310593,-0.001342597051599434
+657163394,Transactions on Petri Nets and Other Models of Concurrency VIII,2013,0,3,1,1.0,2049275856,Maciej Koutny,0,-0.3464988646990219,-0.2296392870741202
+1515896950,On equivalent execution semantics of concurrent systems,1986,13,2,2,0.0,1462185583,Ryszard Janicki,0,1.1138677301069937,-1.2619620888766663
+1534426552,Modelling and verification of timed interaction and migration,2008,30,17,2,0.39203,1254815390,Gabriel Ciobanu,0,-0.5066954692116123,-0.39679457329448947
+1507554808,Operational Semantics for the Petri Box Calculus,1994,18,27,1,1.0,2049275856,Maciej Koutny,0,-0.42855388762963714,-0.20210523905045133
+1552665484,Partial Order Semantics of Box Expressions,1994,13,9,1,1.0,2049275856,Maciej Koutny,0,-0.406582269311265,-0.11746486432206323
+1562133699,Process algebra A Petri-net-oriented tutorial,2003,23,5,1,1.0,2049275856,Maciej Koutny,0,-0.2571333634500611,-0.21822881207026212
+1491356764,Modelling systems with dynamic priorities,1992,18,8,1,1.0,2049275856,Maciej Koutny,0,-0.28793190696435106,-0.20402126577047505
+1573828358,Towards Modelling and Verification of Concurrent Ada Programs Using Petri Nets,2000,0,8,3,0.0147143,189665783,Alexander Romanovsky,0,-0.26331992904995066,-0.13738524969094615
+1529563803,Towards a petri net semantics for membrane systems,2005,24,11,1,1.0,2049275856,Maciej Koutny,0,-0.19911091737722517,-0.08477651588279352
+1566249614,Applications and theory of Petri nets 2001 22nd International Conference ICATPN 2001 Newcastle upon Tyne UK June 25-29 2001 proceedings,2001,0,4,1,1.0,2049275856,Maciej Koutny,0,-0.3741287662018038,-0.058302626523121605
+1512386609,Persistent and Nonviolent Steps and the Design of GALS Systems,2015,21,5,3,1.0,318080821,Marta Pietkiewicz Koutny,0,-0.3087164683381926,-0.13787500211794193
+1595611771,The mutex paradigm of concurrency,2011,19,6,1,1.0,2049275856,Maciej Koutny,0,-0.36033258059544576,-0.21392076554492334
+1718586399,Relating communicating processes with different interfaces,2003,22,9,1,1.0,2049275856,Maciej Koutny,0,0.7786400556096154,-0.0990003920586214
+1987340323,A framed temporal logic programming language,2004,17,47,1,1.0,2049275856,Maciej Koutny,0,0.13304754288486917,-0.6711177361073727
+2007107553,Two Implementation Relations and the Correctness of Communicating Replicated Processes,1997,23,9,1,1.0,2049275856,Maciej Koutny,0,-0.145371507036304,-0.000943603324192697
+2005825472,Step coverability algorithms for communicating systems,2012,21,0,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+2031373909,A compositional Petri net translation of general Ï€ -calculus terms,2008,28,21,2,0.5979,2032034011,Hanna Klaudel,0,-0.5039634763147857,-0.4042445644509773
+2094407641,On developing and verifying design abstractions for reliable concurrent programming in Ada,2001,15,1,3,0.0147143,189665783,Alexander Romanovsky,0,-0.09116589327893761,0.1736168934548064
+2096541857,Formal Languages and Concurrent Behaviours,2008,23,15,1,1.0,2049275856,Maciej Koutny,0,0.1262181495747184,0.5386605918845432
+2082365817,Formal specification of N-modular redundancy,1986,7,7,1,1.0,2049275856,Maciej Koutny,0,1.6331331845323753,-1.242010329471067
+2100845868,Formalising replicated distributed processing,1991,12,9,1,1.0,2049275856,Maciej Koutny,0,-0.0183024870971178,0.0680118484996777
+2093832730,Framed temporal logic programming,2008,24,79,1,1.0,2049275856,Maciej Koutny,0,0.24689162007737245,-0.8688903567586502
+2141381202,Petri Nets Process Algebras and Concurrent Programming Languages,1996,40,19,1,1.0,2049275856,Maciej Koutny,0,-0.28094617278935385,-0.1946447915601549
+2136591386,Towards an Algebra of Abstractions for Communicating Processes,2006,16,1,1,1.0,2049275856,Maciej Koutny,0,0.0929636071488615,0.22772605249450273
+2159473156,Implementing communicating processes in the event of interface difference,2001,23,6,1,1.0,2049275856,Maciej Koutny,0,0.8346619852899474,-0.04422791399590358
+2148963811,Invariants and paradigms of concurrency theory,1991,19,25,2,0.188782,1462185583,Ryszard Janicki,0,-0.28793190696435106,-0.20402126577047505
+2203025157,Structured Operational Semantics of Asynchronous Links in PBC,2002,0,1,3,0.0,1970854287,Franck Pommereau,0,-0.1164726804531344,0.019252515865476
+2205330471,Syntax and Operational Semantics,2001,0,0,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+2338628758,From Petri Nets with Shared Variables to ITL,2016,27,0,2,0.0,2032034011,Hanna Klaudel,0,-0.060684321113714544,-0.28025180977581804
+2489195661,Applications and Theory of Petri Nets 2001,2001,0,1,1,1.0,2049275856,Maciej Koutny,0,-0.6145641800565601,-0.41588955125212745
+2482872835,Transactions on petri nets and other models of concurrency IX,2014,0,0,1,1.0,2049275856,Maciej Koutny,0,-0.28793190696435106,-0.20402126577047505
+2485895672,CONCUR 2012 â€“ Concurrency Theory,2012,0,4,2,0.0,184807446,Irek Ulidowski,0,-0.2268142716231431,-0.1590203910320284
+2502700782,Transactions on Petri Nets and Other Models of Concurrency X,2015,0,1,1,1.0,2049275856,Maciej Koutny,0,-0.19535630933176315,-0.6519275795138553
+2529343350,Applying Petri Net Unfoldings for Verification of Mobile Systems,2006,15,12,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+2530025061,Petri Nets and Membrane Computing,2008,4,2,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+2530045213,Application of Concurrency to System Design Preface to the Seventh Special Issue,2009,0,0,2,0.0,1462185583,Ryszard Janicki,0,-0.2268142716231431,-0.1590203910320284
+2583258763,A model of behaviour abstraction for communicating processes,1999,0,3,1,1.0,2049275856,Maciej Koutny,0,-0.23638408495709248,-0.1196501673814875
+2527678119,Steps and Coverability in Inhibitor Nets,2008,21,3,1,1.0,2049275856,Maciej Koutny,0,0.30664836046210475,1.3471258708368716
+2631045525,Structure of Concurrency,1991,0,0,2,0.188782,1462185583,Ryszard Janicki,0,-0.2268142716231431,-0.1590203910320284
+2912402033,Proceedings of the 23rd international conference on Concurrency Theory,2012,0,0,2,0.0,184807446,Irek Ulidowski,0,-0.2268142716231431,-0.1590203910320284
+2899352947,Towards a Petri net semantics for membrane systems,2005,0,26,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+2913602175,Proceedings of the 22nd International Conference on Application and Theory of Petri Nets,2001,0,1,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+2917772881,Process Semantics of General Inhibitor Nets,2002,0,1,1,1.0,2049275856,Maciej Koutny,0,-0.1164726804531344,0.019252515865476
+2901228190,SONCraft A Tool for Construction Simulation and Analysis of Structured Occurrence Nets,2018,17,0,2,0.0,2029293694,Brian Randell,0,-0.5058348283509554,-0.09024667619559323
+2938398742,Compositional Abstractions for Interacting Processes,2007,13,0,2,1.0,318080821,Marta Pietkiewicz Koutny,0,-0.1164726804531344,0.019252515865476
+2949582523,ITL Semantics of Composite Petri Nets,2011,0,0,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+2938892545,On Equivalent Execution Semantics of Concurrent Systems,1987,0,0,2,1.0,1462185583,Ryszard Janicki,0,-0.1164726804531344,0.019252515865476
+2939009182,Infinite Process Semantics of Inhibitor Nets,2005,0,2,1,1.0,2049275856,Maciej Koutny,0,-0.1164726804531344,0.019252515865476
+2943433113,Merged Processes - a New Condensed Representation of Petri Net Behaviour,2005,0,1,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+2943731378,Structure of Concurrency,1991,0,1,2,0.188782,1462185583,Ryszard Janicki,0,-0.2268142716231431,-0.1590203910320284
+2939708983,Two Implementation Relations and the Correctness of Communicating Replicated Processes,1994,0,0,1,1.0,2049275856,Maciej Koutny,0,-0.0183024870971178,0.0680118484996777
+2947197787,The Mutex Paradigm of Concurrency,2011,0,0,1,1.0,2049275856,Maciej Koutny,0,-0.2268142716231431,-0.1590203910320284
+2944010000,Towards a petri net semantics for membrane systems,2006,0,42,1,1.0,2049275856,Maciej Koutny,0,-0.2830161866490556,0.2468941286800991
+2947773684,A Petri Net Semantics of a Simple Process Algebra for Mobility,2005,0,1,2,0.5979,2032034011,Hanna Klaudel,0,-0.2571333634500611,-0.21822881207026212
+2950455283,Proceedings Fourth Workshop on Membrane Computing and Biologically Inspired Process Calculi 2010 Preface,2010,0,0,2,0.39203,1254815390,Gabriel Ciobanu,0,-0.1806164563517082,-0.18033171048170904
+2932414376,Compositional Petri Nets in Protocol Engineering,1997,0,0,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+2941242760,Step Semantics of Boolean Nets,2011,0,0,2,1.0,318080821,Marta Pietkiewicz Koutny,0,-0.1164726804531344,0.019252515865476
+2941571056,Verifying Correctness of Communicating Replicated Processes,1991,0,0,1,1.0,2049275856,Maciej Koutny,0,-0.0183024870971178,0.0680118484996777
+2941927777,On Equivalent Execution Semantics of Concurrent Systems,1987,0,0,2,1.0,1462185583,Ryszard Janicki,0,-0.1164726804531344,0.019252515865476
+2945700340,Transactions on Petri Nets and Other Models of Concurrency XIII,2018,0,0,2,0.0,2030422577,Wojciech Penczek,0,-0.28793190696435106,-0.20402126577047505
+2937810198,Invariants and Paradigms of Concurrency Theory,1991,0,0,2,0.188782,1462185583,Ryszard Janicki,0,-0.2268142716231431,-0.1590203910320284
+2951300572,Reversing Steps in Petri Nets,2019,21,4,2,1.0,2007847443,Åukasz Mikulski,0,-0.1443648158329367,0.03477222348061754
+2942402190,Projection in Temporal Logic Programming,1993,0,0,1,1.0,2049275856,Maciej Koutny,0,1.6947242002058933,-1.9995992331885575
+2938357080,Synthesis Problem for Petri Nets with Localities,2011,0,0,2,1.0,318080821,Marta Pietkiewicz Koutny,0,-0.26331992904995066,-0.13738524969094615
+2972089633,On Developing and Verifying Design Abstractions for Reliable Concurrent Programming in Ada,2000,0,0,2,1.0,1983229826,Albert Koelmans,0,0.0176274387439286,0.3343512547355889
+2993657370,Reversible computation vs reversibility in Petri nets,2018,37,8,2,1.0,2007847443,Åukasz Mikulski,0,-0.2758697458924875,0.3086665350870455
+3022536055,Modelling dynamic opacity using petri nets with silent actions,2004,0,1,1,1.0,2049275856,Maciej Koutny,0,-0.26331992904995066,-0.13738524969094615
+3023104452,Process algebra A Petri-net-oriented tutorial,2004,0,3,1,1.0,2049275856,Maciej Koutny,0,-0.2771389882858338,-0.2479949335350798

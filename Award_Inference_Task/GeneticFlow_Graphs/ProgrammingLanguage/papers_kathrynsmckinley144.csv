@@ -1,0 +1,87 @@
+35991085,Automating and Validating Semantic Annotations,2006,24,0,2,0.666667,2048808281,Mark Grechanik,0,0.043808409330766546,-0.14300688699909708
+71540327,Proceedings of the 2007 ACM SIGPLAN conference on Programming language design and implementation,2007,0,0,1,1.0,2115847858,Kathryn S. McKinley,0,-0.1164726804531344,0.019252515865476
+6188780,History-Aware data structure repair using SAT,2012,26,12,3,0.0,1542492240,Razieh Nokhbeh Zaeem,0,0.15519638347285092,0.41059112714366597
+1569348226,Proceedings of the 11th international conference on Architectural support for programming languages and operating systems,2004,0,2,1,1.0,2115847858,Kathryn S. McKinley,0,0.8349452198362579,-0.34924467634176326
+1536823217,20 years of the ACM SIGPLAN Conference on Programming Language Design and Implementation 1979-1999 a selection,2004,0,0,1,1.0,2115847858,Kathryn S. McKinley,0,2.039841455907956,-0.003598507831610001
+1873513440,Correcting the dynamic call graph using control-flow constraints,2007,26,14,4,0.0,2075407798,Kevin Resnick,0,-0.6770135567948646,0.1173676459490005
+1863983999,Discovering heap anomalies in the wild,2009,0,0,2,0.0,2050685287,Maria Jump,0,-3.0899784816440286,-1.1306577503934572
+1901897140,Debugging mixed-environment programs with Blink,2015,23,3,3,0.458073,2066138831,Martin Hirzel,0,-0.8750278803616511,0.6221124108671446
+1977804871,La dolce vita at TOPLAS,2010,0,0,2,0.0,651843436,Keshav Pingali,0,-0.1164726804531344,0.019252515865476
+1986917522,Profile-driven pretenuring for Java (poster session),2000,4,3,3,0.0,1864130816,Sharad Singhai,0,-2.6055960145851214,-0.01245997716975055
+1994646817,Author retrospective for optimizing for parallelism and data locality,2014,27,1,1,1.0,2115847858,Kathryn S. McKinley,0,-0.1164726804531344,0.019252515865476
+1998141415,Composing high-performance memory allocators,2001,19,131,1,1.0,2115847858,Kathryn S. McKinley,0,-3.143308411655289,-1.005563537323938
+1993728226,Polar opposites next generation languages and architectures,2004,0,1,1,1.0,2115847858,Kathryn S. McKinley,0,2.3217694745153663,-0.08249040483050521
+2031185609,Interprocedural transformations for parallel code generation,1991,32,45,1,1.0,2115847858,Kathryn S. McKinley,0,-0.15919756866850865,0.31164330222066017
+2012181719,Looking back and looking forward power performance and upheaval,2012,18,26,1,1.0,2115847858,Kathryn S. McKinley,0,0.6289810610713726,-0.1496880954550786
+2032477945,Remembrances of things past,2009,0,0,2,0.0,651843436,Keshav Pingali,0,-0.1164726804531344,0.019252515865476
+2018454565,La prossima vita at TOPLAS,2010,0,0,2,0.0,651843436,Keshav Pingali,0,-0.1164726804531344,0.019252515865476
+2054096256,Editorial Remembrances of things past,2009,0,0,2,0.0,651843436,Keshav Pingali,0,-0.1164726804531344,0.019252515865476
+2048954027,Sydit creating and applying a program transformation from an example,2011,10,23,1,1.0,2115847858,Kathryn S. McKinley,0,1.4028736330168154,-0.458443998492678
+2050801173,Immix a mark-region garbage collector with space efficiency fast collection and mutator performance,2008,29,112,1,1.0,2115847858,Kathryn S. McKinley,0,-1.0383325724524017,-0.6679217113316731
+2044080377,The pros and cons of the PACM proposal point,2015,0,1,1,1.0,2115847858,Kathryn S. McKinley,0,-0.2736330652231904,0.23194828520784125
+2045903735,Using types to analyze and optimize object-oriented programs,2001,69,36,1,1.0,2115847858,Kathryn S. McKinley,0,-0.09607781102236905,0.5544584788983961
+2038897371,Reconsidering custom memory allocation,2002,32,157,1,1.0,2115847858,Kathryn S. McKinley,0,-1.0471997749084416,-0.2760626988224531
+2049657666,Improving publication quality by reducing bias with double-blind reviewing and author response,2008,7,6,1,1.0,2115847858,Kathryn S. McKinley,0,-0.1164726804531344,0.019252515865476
+2035945354,Dynamic shape analysis via degree metrics,2009,30,24,2,0.0,2050685287,Maria Jump,0,0.07437039500824986,0.8070760314915802
+2061005179,Free-Me a static analysis for automatic individual object reclamation,2006,34,64,2,1.0,2084000320,Samuel Z. Guyer,0,-1.6834741441951284,-0.2518754781495392
+2073398506,Does automated refactoring obviate systematic editing,2015,35,35,1,1.0,2115847858,Kathryn S. McKinley,0,0.835118393643597,-0.26390178876720904
+2068583978,Age-based garbage collection,1999,46,77,1,1.0,2115847858,Kathryn S. McKinley,0,-0.3585292758924445,0.22119645691576983
+2056458773,Analysis and transformation in the ParaScope editor,1991,49,30,2,0.547945,2105068653,Chau Wen Tseng,0,-0.16795569340420236,0.051188248988237955
+2077997855,Recovering and using use-case-diagram-to-source-code traceability links,2007,20,49,2,0.666667,2048808281,Mark Grechanik,0,1.0261476977401518,-0.10613983380549112
+2072964972,Simple and effective analysis of statically-typed object-oriented programs,1996,20,83,1,1.0,2115847858,Kathryn S. McKinley,0,-0.25704954147842063,-0.14273908882256564
+2064407505,The parascope editor an interactive parallel programming tool,1989,22,44,3,0.0,1984066730,Jaspal Subhlok,0,0.5343310296995402,-0.11958092134028957
+2102430469,Interactive parallel programming using the ParaScope Editor,1991,48,100,2,0.547945,2105068653,Chau Wen Tseng,0,0.30108855385147376,-0.03484894914840311
+2078973953,Profile-based pretenuring,2007,35,26,1,1.0,2115847858,Kathryn S. McKinley,0,-0.44084977524894847,0.004252148618130395
+2086042629,RoleCast finding missing security checks when you do not know what checks are,2011,22,51,2,0.0,8790322,Vitaly Shmatikov,0,-0.1164726804531344,0.019252515865476
+2093215549,A shape analysis for optimizing parallel graph programs,2011,33,18,4,0.0,274160387,Dimitrios Prountzos,0,-0.559097746776518,0.5454156640620816
+2079366392,Finding your cronies static analysis for dynamic object colocation,2004,35,47,2,1.0,2084000320,Samuel Z. Guyer,0,-0.7703778653725103,0.0884440184445091
+2090111344,LASE locating and applying systematic edits by learning from examples,2013,31,123,1,1.0,2115847858,Kathryn S. McKinley,0,0.5612186468275916,0.04889952673166994
+2101723202,Systematic editing generating program transformations from an example,2011,31,82,1,1.0,2115847858,Kathryn S. McKinley,0,0.6810615079904103,-0.13039572618948708
+2101757223,Editorial A changing of the guard,2007,0,0,2,0.0,651843436,Keshav Pingali,0,-0.1164726804531344,0.019252515865476
+2085551634,OOPSLA 2002 Reconsidering custom memory allocation,2013,28,8,1,1.0,2115847858,Kathryn S. McKinley,0,0.07502197337676664,-0.3846453676348795
+2134907441,Analysis and transformation in an interactive parallel programming tool,1993,35,17,2,0.588235,2105068653,Chau Wen Tseng,0,-0.16795569340420236,0.051188248988237955
+2129181700,Tolerating memory leaks,2008,44,68,2,1.0,2110909196,Michael D. Bond,0,-0.39542233629106377,0.004629774738361542
+2126415451,Data Flow Analysis for Software Prefetching Linked Data Structures in Java,2001,28,132,2,0.0,2115844724,Brendon Cahoon,0,0.19597171552142242,-0.2792542249511751
+2132286480,Z-rays divide arrays and conquer speed and flexibility,2010,26,21,3,0.0,2040963336,Jennifer B. Sartor,0,-0.36659094012218313,0.05674161769821379
+2132523160,A security policy oracle detecting security holes using multiple API implementations,2011,36,34,3,0.0,8790322,Vitaly Shmatikov,0,-0.5536686537030495,0.011641493330294302
+2138705002,A garbage collection design and bakeoff in JMTk An efficient extensible Java memory management toolkit,2003,0,8,1,1.0,2115847858,Kathryn S. McKinley,0,-1.2949411261447694,-0.26427769414310465
+2118005163,Dynamic software updates a VM-centric approach,2009,63,157,1,1.0,2115847858,Kathryn S. McKinley,0,-0.5118716404329188,-0.22133761782970732
+2138889007,Automating object transformations for dynamic software updating,2012,16,24,2,0.0,2081287005,Stephen Magill,0,0.6878435414938364,-0.3071030748417018
+2124159086,Debug all your code portable mixed-environment debugging,2009,23,34,3,0.785329,2066138831,Martin Hirzel,0,-0.5379646014191519,0.6260392676428229
+2127154544,In or out putting write barriers in their place,2002,32,59,1,1.0,2115847858,Kathryn S. McKinley,0,-0.6222082390733948,0.10671447199167138
+2133608633,Type-based alias analysis,1998,35,142,1,1.0,2115847858,Kathryn S. McKinley,0,-0.7994920471348093,1.1278961343031815
+2107399212,Expressing and verifying probabilistic assertions,2014,36,57,3,0.0,838603720,Pavel Panchekha,0,0.6623051410582647,0.06111997053713636
+2128284389,Beltway getting around garbage collection gridlock,2002,36,90,1,1.0,2115847858,Kathryn S. McKinley,0,-0.25894185385852775,-0.06585047066806385
+2125528832,Hows the parallel computing revolution going ,2011,0,0,1,1.0,2115847858,Kathryn S. McKinley,0,0.4896308132892164,-0.1340300604735376
+2140709543,Fast conservative garbage collection,2014,31,9,2,1.0,26972591,Rifat Shahriyar,0,-1.0352577151662377,-0.12683654515795473
+2111301724,Marco safe expressive macros for any language,2012,27,11,3,0.645395,2066138831,Martin Hirzel,0,-0.3764048424010349,-0.148164024611883
+2108315152,Improving data locality with loop transformations,1996,30,441,2,0.478723,2105068653,Chau Wen Tseng,0,-0.9828232904441626,0.719032176479553
+2168245916,Practical Fine-Grained Information Flow Control Using Laminar,2015,60,11,2,0.503876,2110909196,Michael D. Bond,0,0.03713648315822745,0.3203749113203159
+2150334562,The ParaScope parallel programming environment,1993,54,83,3,0.0,2090753356,Linda Torczon,0,0.17901595331781367,0.3379161399899958
+2165497190,Generating object lifetime traces with Merlin,2006,43,42,1,1.0,2115847858,Kathryn S. McKinley,0,-0.3270344912775002,-0.13487376633753917
+2162435060,Ulterior reference counting fast garbage collection without a long wait,2003,26,79,1,1.0,2115847858,Kathryn S. McKinley,0,-1.2747901811901157,-0.4672585246964976
+2144551802,Tracking bad apples reporting the origin of null and undefined value errors,2007,23,57,3,1.0,2084000320,Samuel Z. Guyer,0,-0.5647477515678063,-0.0035897852981765324
+2168874123,A concurrent dynamic analysis framework for multicore hardware,2009,30,39,1,1.0,2115847858,Kathryn S. McKinley,0,0.2802463478444664,0.1255814544361402
+2159928435,Wake up and smell the coffee evaluation methodology for the 21st century,2008,13,86,8,0.0,235189729,Rotem Bentzur,0,-0.35687262904611444,0.16606002597952155
+2156929189,Taking off the gloves with reference counting Immix,2013,29,15,2,1.0,26972591,Rifat Shahriyar,0,-0.008961843187062633,-0.5675082601151943
+2166034429,The garbage collection advantage improving program locality,2004,16,120,1,1.0,2115847858,Kathryn S. McKinley,0,-0.21231903520786677,0.10184112111099124
+2166091242,The DaCapo benchmarks java benchmarking development and analysis,2006,32,1118,8,0.0,235189729,Rotem Bentzur,0,-0.9095443329176264,0.0634783427289368
+2160174747,Deferred gratification engineering for high performance garbage collection from the get go,2011,15,7,3,0.0,199801325,Ivan Jibaja,0,0.7535291437955228,0.32035397333356574
+2145329032,Older-first garbage collection in practice evaluation in a Java Virtual Machine,2003,12,34,1,1.0,2115847858,Kathryn S. McKinley,0,-0.3270344912775002,-0.13487376633753917
+2163738369,Jinn synthesizing dynamic bug detectors for foreign language interfaces,2010,28,32,3,0.785329,2066138831,Martin Hirzel,0,-1.1205084725837964,0.19746302794609563
+2152814480,Oil and water High performance garbage collection in Java with MMTk,2004,40,160,1,1.0,2115847858,Kathryn S. McKinley,0,-0.16012788638577827,-0.3483581359637588
+2244841219,Compiler optimizations for improving data locality,1994,24,239,2,0.588235,2105068653,Chau Wen Tseng,0,-0.8424718401226722,0.9405944709528589
+2261536765,Work stealing for interactive services to meet target latency,2016,46,20,4,0.0,2017883357,Sameh Elnikety,0,-1.0207402258664795,-0.7521916942006099
+2293617243,Programming the world of uncertain things (keynote),2016,6,2,1,1.0,2115847858,Kathryn S. McKinley,0,1.0167009799368945,0.15943675279820346
+2295444268,Vector Parallelism in JavaScript Language and Compiler Support for SIMD,2015,11,10,3,0.0,199801325,Ivan Jibaja,0,-0.03512473553778241,0.28189135725919406
+2295946175,Dataflow Predication,2006,27,37,5,0.0,1209998147,Karthikeyan Sankaralingam,0,-0.3947414316017692,-0.5219370020953253
+2321048921,Programming Uncertain hings,2016,3,0,1,1.0,2115847858,Kathryn S. McKinley,0,2.1452400184394103,-0.7412037988196618
+2472188794,Jinn Synthesizing a Dynamic Bug Detector for Foreign Language Interfaces,2010,22,12,3,0.785329,2066138831,Martin Hirzel,0,-1.6766509535533656,0.06683454847248413
+2465917427,Practical Fine-Grained Decentralized Information Flow Control Using Laminar,2014,0,0,2,0.595238,2110909196,Michael D. Bond,0,0.03713648315822745,0.3203749113203159
+2619922189,Blink User Guide,2008,0,0,3,0.769231,2066138831,Martin Hirzel,0,-2.224007870000412,-0.1586980951471652
+2761451340,Static stages for heterogeneous programming,2017,58,1,2,0.609756,1607732079,Todd Mytkowicz,0,0.3224815084817758,-0.3613209080964188
+2764693949,The ParaScope parallel programming environment Languages and compilers,1993,0,0,3,0.0,2090753356,Linda Torczon,0,-0.9545552563469386,0.06706658388086215
+2912456980,Proceedings of the 28th ACM SIGPLAN Conference on Programming Language Design and Implementation,2007,0,1,1,1.0,2115847858,Kathryn S. McKinley,0,-0.23680382996095975,0.883709167173769
+2899159195,Static Stages for Heterogeneous Programming,2017,0,1,2,0.609756,1607732079,Todd Mytkowicz,0,-0.12545102139387324,0.36501834826937074
+2911328009,Session details Caches and TLBs,2014,0,0,1,1.0,2115847858,Kathryn S. McKinley,0,-0.1164726804531344,0.019252515865476
+2963525873,GOTO rankings considered helpful,2019,4,6,4,0.0,360112113,Hosagrahar V. Jagadish,0,-0.11281429910378335,-0.12129053582641455

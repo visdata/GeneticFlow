@@ -1,0 +1,111 @@
+172208803,On updating inheritance relationship in XML documents,2004,10,1,3,1.0,1996913175,Eric Pardede,0,2.383330673966443,-0.8959962555659011
+190006562,Composition in Object-Relational Database,2005,0,2,3,1.0,1996913175,Eric Pardede,0,1.822069425289985,0.2375071062940137
+88661157,On Data Cleaning In Building XML Data Warehouses,2004,6,4,3,1.0,2096641372,Laura Irina Rusu,0,2.3393379960141245,-0.9606174023935021
+54681447,Optimal Broadcast Channel for Data Dissemination in Mobile Database Environment,2003,9,41,3,0.708557,2139762218,Bala Srinivasan,0,-0.0041099411153885,0.0447066884760059
+4017364,A taxonomy of database operations on mobile devices,2009,42,1,3,0.0,2133649055,Say Ying Lim,0,-0.0041099411153885,0.0447066884760059
+158296258,Database-Driven Product Catalog System,2003,0,0,3,1.0,288944613,Andrew Flahive,0,0.895211956238042,0.6011088155937171
+176304902,Mining hybrid association rules in data warehouses,2004,0,0,2,0.0,7681629,Haorianto Cokrowijoyo Tjioe,0,0.11627582886789564,0.3621724021946999
+161347382,Implementation of classification rules using Oracle PL/SQL,2002,0,3,2,1.0,2096900180,Wenny Rahayu,0,-0.0041099411153885,0.0447066884760059
+113192911,Web Data Warehousing Convergence,2009,0,0,3,0.440177,2096900180,Wenny Rahayu,0,0.11627582886789564,0.3621724021946999
+46159531,Location Dependent Queries in Mobile Databases,2004,0,0,3,1.0,2129712182,Balasubramaniam Srinivasan,0,-0.0041099411153885,0.0447066884760059
+114194269,Parallel group-by query processing in a cluster architecture,2002,0,7,2,1.0,2096900180,Wenny Rahayu,0,0.0908845357243609,0.31128747720343375
+63817626,High performance distributed parallel query processing,2001,0,0,2,0.0,2236643195,Yi Jiang,0,0.014532710543751099,0.030944858938630852
+131970983,Research on location-dependent queries in mobile databases,2005,0,42,3,1.0,2129712182,Balasubramaniam Srinivasan,0,-0.0041099411153885,0.0447066884760059
+132311142,The New Object-Relational Generation and its Application in Web Databases,2006,0,0,3,1.0,1996913175,Eric Pardede,0,-1.7186410841383957,-1.8602385662385552
+47393961,The use of hints in object-relational query optimization,2004,12,4,2,1.0,2168289796,Johanna Wenny Rahayu,0,0.4786862977682366,0.09812339249318168
+13063045,A benchmark for parallel object-oriented database systems,1998,0,0,1,1.0,2250317084,David Taniar,0,2.183010862791771,0.4164830196989482
+117677729,Database design for web-based product catalog,2004,0,1,3,1.0,288944613,Andrew Flahive,0,1.0726280945224487,0.3995949903930372
+33342227,Multidimensional Partitioning of a Data Warehouse Star Schema,2002,0,0,2,1.0,1610584434,Hema Sharda,0,0.9640986292178969,0.1330717232729175
+1532129485,A Right-Time Refresh for XML Data Warehouses,2009,12,2,3,1.0,2096641372,Laura Irina Rusu,0,0.8965272179824061,-0.15737115780888372
+1559670916,Web-Powered Databases,2002,13,2,2,1.0,2168289796,Johanna Wenny Rahayu,0,-1.822468042195986,-1.7788215837745456
+1533235235,Preserving Data Consistency in Grid Databases with Multiple Transactions,2003,13,17,3,1.0,1610584434,Hema Sharda,0,1.2004840930336278,1.3462581145347472
+1524543221,A Data Mining Architecture for Distributed Environments,2002,9,11,3,0.0,2115649788,Mafruz Zaman Ashrafi,0,0.15531463589807865,0.10789405405299975
+1515665619,Performance analysis of unified data broadcast model for multi-channel wireless databases,2006,11,0,5,0.0,257747113,Bernady O. Apduhan,0,0.03565810966282755,0.09825506972366725
+1515763004,Performance Evaluation of Parallel GroupBy-Before-Join Query Processing in High Performance Database Systems,2001,9,1,2,1.0,2096900180,Wenny Rahayu,0,0.1241769567768575,0.1324243180051548
+1490216362,Maintaining versions of dynamic XML documents,2005,9,17,3,1.0,2096641372,Laura Irina Rusu,0,2.2264543832113666,-0.864750789273662
+1570854133,Public Genomic Databases Data Representation Storage and Access,2007,0,0,2,0.616836,2096900180,Wenny Rahayu,0,0.28354223158578945,0.12107937549511096
+1481853140,Semantic transformation approach with schema constraints for XPath query axes,2010,17,1,5,0.682839,1996913175,Eric Pardede,0,2.392017197429201,-0.8186917759523631
+1491042988,Preserving Aggregation in an Object-Relational DBMS,2002,4,7,2,1.0,2096900180,Wenny Rahayu,0,2.1373952621775514,0.598976616340487
+1535843253,XML Databases Trends Issues and Future Research,2007,0,1,3,1.0,1996913175,Eric Pardede,0,3.01483535003002,-1.194238283294845
+1518311009,Parallel Online Analytic Processing (OLAP) and Business Intelligence,2008,0,0,3,0.529038,2096900180,Wenny Rahayu,0,-0.3632509700454942,1.1437180412081445
+1574170607,Parallel Query Processing in Object-Oriented Database Systems,1995,0,13,1,1.0,2250317084,David Taniar,0,2.1069601596544043,0.3992964881492029
+1556640847,High-Performance Parallel Database Processing and Grid Databases,2008,0,85,3,0.529038,2096900180,Wenny Rahayu,0,0.253202750105207,0.12815134630264885
+1485738204,A utilization of schema constraints to transform predicates in XPath query,2010,21,3,5,0.682839,1996913175,Eric Pardede,0,1.226942116130647,-0.2538049034033346
+1503854642,Transactions in Distributed and Grid Databases,2008,0,0,3,0.529038,2096900180,Wenny Rahayu,0,2.0098861198643645,1.2835163683468627
+1548726752,On maintaining XML linking integrity during update,2005,8,4,3,1.0,1996913175,Eric Pardede,0,2.3789279743469365,-0.8831179424338707
+1531088572,Preserving Aggregation Semantic Constraints in XML Document Update,2004,6,3,3,1.0,1996913175,Eric Pardede,0,2.9216096411837666,-1.0780853916569848
+1558130923,ODMG extension of composite objects in OODBMS a proposal,2002,9,2,2,1.0,2096900180,Wenny Rahayu,0,0.18601297105691045,-0.0008472885667257998
+1540709884,Transaction Management in Distributed Scheduling Environment for High Performance Database Applications,2003,13,3,3,1.0,1610584434,Hema Sharda,0,1.0213780426620966,0.8332217349661183
+1586284221,Messaging in distributed systems,2003,0,5,3,1.0,1610584434,Hema Sharda,0,-0.41933491314380333,0.17653550349088812
+1604501984,New SQL standard for object-relational database applications,2003,20,21,3,1.0,1996913175,Eric Pardede,0,1.789715037504458,0.2773564132873263
+1958678540,Semantic XPath query transformation opportunities and performance,2007,17,12,4,0.616836,2096900180,Wenny Rahayu,0,3.0226631112328572,-1.1080320465216151
+1579218875,New SQL Standard in Database Modeling,2005,0,2,3,1.0,1996913175,Eric Pardede,0,1.2667976903204332,0.16416219610286772
+1579477096,On Building XML Data Warehouses,2004,8,21,3,1.0,2096641372,Laura Irina Rusu,0,2.5994105790054167,-1.0833024884991482
+1606762416,Storage techniques for multi-versioned XML documents,2008,18,12,3,1.0,2096641372,Laura Irina Rusu,0,2.865603393646373,-1.2097383797643657
+1961068328,SQL/XML Performance Analysis of Parent/Ancestor Queries,2008,18,1,3,0.901785,1996913175,Eric Pardede,0,2.580133340668294,-1.1210087128330553
+1938237911,Performance analysis of child/descendant queries in an XML-enabled database,2007,8,2,3,1.0,1996913175,Eric Pardede,0,2.4722922238545815,-1.027908019959109
+1590092727,Parallel Sub-Collection Join Algorithm for High Performance Object-Oriented Databases,1998,5,0,2,1.0,2096900180,Wenny Rahayu,0,0.5951343047747607,-0.2336204613409437
+1608702866,Atomic Commitment in Grid Database Systems,2004,13,5,3,1.0,1610584434,Hema Sharda,0,1.7156457680840922,1.6912641936763695
+1582195014,Failure recovery in grid database systems,2004,12,4,3,1.0,1610584434,Hema Sharda,0,1.2752316915572643,1.571203151435731
+1600649105,Warehousing dynamic XML documents,2006,8,8,3,1.0,2096641372,Laura Irina Rusu,0,2.508481066206951,-0.9517482952960535
+1925122682,Mining changes from versions of dynamic XML documents,2006,10,18,3,1.0,2096641372,Laura Irina Rusu,0,2.508481066206951,-0.9517482952960535
+1975337935,A Methodology for Building XML Data Warehouses,2005,14,67,3,1.0,2096641372,Laura Irina Rusu,0,2.4865269662026583,-0.9874358753793082
+1976170358,Performance evaluation of the object-relational transformation methodology,2001,20,21,4,0.0,2099883334,Elizabeth Chang,0,0.591553925487909,0.2623659544869038
+1973002078,A taxonomy for region queries in spatial databases,2015,34,11,2,0.0,2096900180,Wenny Rahayu,0,1.0328918440930224,0.28147573342902593
+1987126356,Replica synchronisation in grid databases,2005,19,38,3,1.0,1610584434,Hema Sharda,0,0.18601297105691045,-0.0008472885667257998
+1994306208,Ontology as a Service (OaaS) extracting and replacing sub-ontologies on the cloud,2013,26,14,3,1.0,288944613,Andrew Flahive,0,-0.7845364824666224,-0.5753809678996262
+2001297439,The new era of web data warehousing XML warehousing issues and challenges,2008,0,3,3,0.901785,1996913175,Eric Pardede,0,2.443474814520628,-1.0833035822445196
+1989096284,Towards Near Real-Time Data Warehousing,2010,17,13,2,0.378334,2096900180,Wenny Rahayu,0,-0.12056405583663592,0.9021332481761046
+1994802503,Advances in high performance database technology,2009,0,4,3,0.440177,2096900180,Wenny Rahayu,0,0.253202750105207,0.12815134630264885
+2004161795,Global parallel index for multi-processors database systems,2004,13,43,2,1.0,2096900180,Wenny Rahayu,0,0.253202750105207,0.12815134630264885
+2017278493,A taxonomy for moving object queries in spatial databases,2014,57,23,3,0.0,1984546891,Maytham Safar,0,-0.0041099411153885,0.0447066884760059
+2014719625,Mobile query services in a participatory embedded sensing environment,2013,31,10,4,0.0,2096900180,Wenny Rahayu,0,0.221423897897152,-0.21080654779612165
+2018418924,High Performance Database Processing,2012,23,4,1,1.0,2250317084,David Taniar,0,0.6290820841393293,0.5665854926082657
+2029189313,A taxonomy for nearest neighbour queries in spatial databases,2013,29,44,2,0.0,2096900180,Wenny Rahayu,0,-0.0041099411153885,0.0447066884760059
+2029250330,Ontology as a Service (OaaS) a case for sub-ontology merging on the cloud,2013,37,24,3,1.0,288944613,Andrew Flahive,0,-0.15344373347936774,-0.1817010960536725
+2027546356,Atomic commitment and resilience in grid database systems,2005,15,12,3,1.0,1610584434,Hema Sharda,0,0.9907275564481988,0.8943820822685038
+2041375084,Web Data Warehousing Convergence From Schematic to Systematic,2006,27,0,3,0.743803,2096900180,Wenny Rahayu,0,-0.44490550228314774,0.5506885467597793
+2041398694,A high performance integrated web data warehousing,2007,38,7,2,0.616836,2096900180,Wenny Rahayu,0,-1.643631224192022,-1.6318738507556794
+2080411254,On using collection for aggregation and association relationships in XML object-relational storage,2004,12,14,3,1.0,1996913175,Eric Pardede,0,2.2264543832113666,-0.864750789273662
+2092720629,Partitioning methods for multi-version XML data warehouses,2009,24,12,3,1.0,2096641372,Laura Irina Rusu,0,2.2264543832113666,-0.864750789273662
+2080815159,Concurrency control issues in grid databases,2007,25,30,2,1.0,2163501611,Sushant Goel,0,2.375950029170244,3.2377136707726657
+2091679483,Preserving conceptual constraints during XML updates,2005,15,20,2,1.0,1996913175,Eric Pardede,0,2.508481066206951,-0.9517482952960535
+2103912919,XML data update management in XML-enabled database,2008,38,21,3,0.901785,1996913175,Eric Pardede,0,2.2264543832113666,-0.864750789273662
+2093720113,Large scale ontology tailoring and simulation in the Semantic Grid Environment,2006,31,16,4,0.0,257747113,Bernady O. Apduhan,0,-1.4593627759104668,-1.3737003510435504
+2109229478,Parallel processing of multi-join expansion-aggregate data cube query in high performance database systems,2002,11,6,2,0.0,2226189466,R. Boon Noi Tan,0,1.304335281574592,-0.764538857440786
+2106424628,Multiple Entity Types Wireless Broadcast Database System,2007,14,2,4,0.616836,2096900180,Wenny Rahayu,0,-0.0041099411153885,0.0447066884760059
+2136277825,Parallel collection-equi join algorithms for object-oriented databases,1998,9,5,1,1.0,2250317084,David Taniar,0,1.1941091794462926,0.14107462292952677
+2142507905,SQL/XML hierarchical query performance analysis in an XML-enabled database system,2009,17,3,3,0.805385,1996913175,Eric Pardede,0,2.580133340668294,-1.1210087128330553
+2140329953,MUDSOM Mobile User Database Static Object Mining,2006,14,2,1,1.0,2250317084,David Taniar,0,-0.0041099411153885,0.0447066884760059
+2107684854,Classification of Fuzzy Data in Database Management System,2004,8,4,2,1.0,1610584434,Hema Sharda,0,1.3504359350014938,0.3268264605335138
+2140537693,XML-Enabled Relational Database for XML Document Update,2006,13,2,3,1.0,1996913175,Eric Pardede,0,2.2264543832113666,-0.864750789273662
+2108293058,Preserving composition in XML object relational storage,2005,9,2,3,1.0,1996913175,Eric Pardede,0,1.8857809796140985,-0.6464894009753731
+2168935341,Object-relational complex structures for XML storage,2006,26,26,3,1.0,1996913175,Eric Pardede,0,2.2264543832113666,-0.864750789273662
+2166722054,Parallelization and object-orientation a database processing point of view,1997,14,5,1,1.0,2250317084,David Taniar,0,1.146047087280555,-0.33326252516457555
+2229332794,k-nearest neighbors on road networks a journey in experimentation and in-memory implementation,2016,21,31,2,0.0555254,2117039633,Muhammad Aamir Cheema,0,-0.0041099411153885,0.0447066884760059
+2251443406,Proceedings of the 10th International Conference on Information Integration and Web-based Applications &amp; Services,2008,0,33,4,0.901785,1996913175,Eric Pardede,0,-0.253512142621949,-0.7225208059985921
+2398383058,Mining Hierarchical Negative Association Rules,2010,0,0,4,0.0,1990859856,Olena Daly,0,-0.0041099411153885,0.0447066884760059
+2497912474,Transformation of XML Schema to Object Relational Database,2004,0,4,3,0.0,2094797276,Nathalia Devina Widjaya,0,2.342547355339659,-0.9541174378180458
+2468720784,Atomic Commitment in Grid database systems,2004,0,1,3,1.0,1610584434,Hema Sharda,0,0.9449644665061593,1.53357888323893
+2492914329,Data caching in a mobile database environment,2007,0,0,3,0.0,2133649055,Say Ying Lim,0,-0.0041099411153885,0.0447066884760059
+2524410932,Performance analysis of unified data broadcast model for multi-channel wireless databases,2006,0,0,5,0.0,257747113,Bernady O. Apduhan,0,0.03565810966282755,0.09825506972366725
+2526523086,Maintaining versions of dynamic XML documents,2005,0,0,3,1.0,2096641372,Laura Irina Rusu,0,2.2264543832113666,-0.864750789273662
+2523656529,Retrieving Top-k Famous Places in Location-Based Social Networks,2016,23,3,1,1.0,2250317084,David Taniar,0,-0.0041099411153885,0.0447066884760059
+2623388537,On building XML data warehouses,2004,0,0,3,1.0,2096641372,Laura Irina Rusu,0,2.4865269662026583,-0.9874358753793082
+2613632964,Query Processing in Location-Based Social Networks,2017,6,1,1,1.0,2250317084,David Taniar,0,0.119739122485096,0.4583397011045227
+2591795766,On maintaining XML linking integrity during update,2005,0,0,3,1.0,1996913175,Eric Pardede,0,2.3789279743469365,-0.8831179424338707
+2732764772,Intelligent Database Searching for E-Commerce Applications Using Fuzzy Logic and Natural Language,2003,0,0,3,1.0,2168289796,Johanna Wenny Rahayu,0,2.4406885265314853,0.9487864388168882
+2766914983,Sensor data management in the cloud Data storage data ingestion and data retrieval,2018,22,11,2,1.0,29330244,Maria Indrawan Santiago,0,0.45226440450546146,-0.17443628814514606
+2756105265,Surrounding Join Query Processing in Spatial Databases,2017,19,2,2,1.0,29330244,Maria Indrawan Santiago,0,0.5077465445086363,-0.11245133864048584
+2803365623,Visualising Top- k Alternative Routes,2018,4,0,3,1.0,29330244,Maria Indrawan Santiago,0,-0.0041099411153885,0.0447066884760059
+2804473994,Location-aware group preference queries in social-networks,2018,23,2,2,0.0555254,2117039633,Muhammad Aamir Cheema,0,-0.0041099411153885,0.0447066884760059
+2886397929,Implementation of data mining techniques using Oracle 8i PL/SQL,2002,0,0,1,1.0,2250317084,David Taniar,0,0.05640315281478835,-0.022715007301229845
+2886935317,Association relationship transformation of XML schemas to Object-Relational Databases,2002,4,11,4,1.0,1996913175,Eric Pardede,0,1.172300500283636,-0.16139038022439797
+2885657322,Database design language incorporating collection types for web database applications,2002,1,0,3,1.0,1996913175,Eric Pardede,0,0.541048792242954,0.14109191976847427
+2899434313,Density-based reverse nearest neighbourhood search in spatial databases,2018,32,2,2,0.0555254,2117039633,Muhammad Aamir Cheema,0,-0.26111576430640643,-0.19302535071852145
+2931144819,Retrieving text-based surrounding objects in spatial databases,2019,24,0,2,0.0,2115281420,Junhu Wang,0,0.23341021847298704,0.280457788400498
+2931781398,Information integration and web-based applications and services,2010,0,0,2,0.682839,1996913175,Eric Pardede,0,0.10511520531130432,-0.30515425691242276
+2991036278,Proceedings of the 10th International Conference on Information Integration and Web-based Applications and Services iiWAS 2008 Preface,2008,0,0,4,0.0,281581778,Gabriele Anderst Kotsis,0,0.10511520531130432,-0.30515425691242276
+3002968012,Geo-Social Temporal Top-k Queries in Location-Based Social Networks,2020,17,0,2,0.0,2117039633,Muhammad Aamir Cheema,0,-0.0041099411153885,0.0447066884760059
+3016374013,Efficient processing of reverse nearest neighborhood queries in spatial databases,2020,25,0,2,0.0,2115281420,Junhu Wang,0,-0.0041099411153885,0.0447066884760059
+3017319802,Mobile data management Models methodologies and services,2010,0,0,10,0.0,172422796,Riad Mokadem,0,-0.0041099411153885,0.0447066884760059

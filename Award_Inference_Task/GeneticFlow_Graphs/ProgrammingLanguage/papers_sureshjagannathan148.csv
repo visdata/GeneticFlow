@@ -1,0 +1,86 @@
+171265058,Optimizing Analysis for First-Class Tuple-Spaces,2007,1,0,1,1.0,2141982898,Suresh Jagannathan,0,-0.1164726804531344,0.019252515865476
+125617890,Formal Specification of the ML Basis system,2005,1,6,2,1.0,2139975562,Henry Cejtin,0,0.6127723646485955,-0.41768221872779915
+67718509,Compositional and Lightweight Dependent Type Inference for ML,2013,31,23,1,1.0,2141982898,Suresh Jagannathan,0,0.5295673089425343,1.1118287811870207
+1532134109,First ACM SIGPLAN Workshop on Languages compilers and Hardware Support for Transactional Computing,2006,74,3,1,1.0,2141982898,Suresh Jagannathan,0,-0.44869122900443015,-0.00015649039724540022
+1505769189,Concurrency Analysis for Java,2000,24,5,1,1.0,2141982898,Suresh Jagannathan,0,-0.7838869869476663,0.12509076998453147
+1525787832,Isolating determinism in multi-threaded programs,2011,28,0,2,1.0,210727077,Lukasz Ziarek,0,-0.0425823659469101,0.09372585712204874
+1482322100,Communication-Passing Style for Coordination Languages,1997,22,10,1,1.0,2141982898,Suresh Jagannathan,0,-0.26237779154946433,0.029327492117499427
+1548093223,Compiling Java to a Typed Lambda-Calculus A Preliminary Report,1998,21,14,2,0.0,1965004193,Aaron Hertzmann,0,-0.4656271968580613,0.218463388635277
+1575730831,Exceptionally Safe Futures,2009,14,10,1,1.0,2141982898,Suresh Jagannathan,0,-0.2466767046712362,0.03344463334001029
+1531657888,High-Level Abstractions for Efficient Concurrent Systems,1994,28,2,2,0.0,1537561718,James Philbin,0,-0.059628662220419314,-0.03727608425516776
+1757559472,Optimistic Concurrency Semantics for Transactions in Coordination Languages,2004,31,16,2,0.0,2115991807,Jan Vitek,0,-0.44319278079208385,-1.1073073228218537
+1588767852,TS/Scheme Distributed Data Structures in Lisp,1992,11,5,1,1.0,2141982898,Suresh Jagannathan,0,-0.2366002606599715,0.0668458755185094
+1850380174,A Uniform Transactional Execution Environment for Java,2008,34,37,6,0.0,46628356,Tatiana Shpeisman,0,0.07364166056924058,-1.0924339433933046
+1765301294,A Reflective Model of Inheritance,1992,32,6,1,1.0,2141982898,Suresh Jagannathan,0,0.5912889338022219,0.8438623336934025
+1651122320,Flow-Directed Closure Conversion for Typed Languages,2000,25,48,2,1.0,2139975562,Henry Cejtin,0,-0.23596741353835593,-0.0936182035103379
+1824412646,Coercion as a metaphor for computation,1990,17,1,1,1.0,2141982898,Suresh Jagannathan,0,2.6026322909949697,-0.4115885825626447
+1712328939,Mobile and distributed agents in Mobidget,1999,3,3,4,0.0,1852682516,Toru Yamanouchi,0,-0.3932806090443985,-0.07457308652174538
+1974939942,A unified treatment of flow analysis in higher-order languages,1995,21,84,1,1.0,2141982898,Suresh Jagannathan,0,1.1470432268012012,-1.277261659520539
+1971810486,Higher-order distributed objects,1995,31,68,2,1.0,2139975562,Henry Cejtin,0,-0.12636802145495785,0.06698367711608424
+1984106647,Partial memoization of concurrency and communication,2009,27,20,3,1.0,210727077,Lukasz Ziarek,0,-0.6219206423072765,-1.0040287430071875
+1972174903,MultiMLton A multicore-aware runtime for standard ML,2014,47,16,3,1.0,210727077,Lukasz Ziarek,0,-0.49341480205557103,0.5121165243150014
+1967792992,Continuation-based transformation for coordination languages,2000,32,8,1,1.0,2141982898,Suresh Jagannathan,0,-0.26237779154946433,0.029327492117499427
+1996186284,POPL 2014 Preview,2013,0,0,2,0.0,2083541332,Peter Sewell,0,-0.328408053159635,-0.9112530489038045
+2001515918,Dependence analysis for safe futures,2012,32,2,1,1.0,2141982898,Suresh Jagannathan,0,-0.06951343849671822,0.1886449578069161
+1998104598,Lightweight checkpointing for concurrent ml,2010,37,13,2,1.0,210727077,Lukasz Ziarek,0,0.1962398031523487,0.5776262911626471
+1991205050,Parallelism persistence and meta-cleanliness in the symmetric Lisp interpreter,1987,17,6,1,1.0,2141982898,Suresh Jagannathan,0,-0.060158900027459355,-1.3925052933775635
+1994845989,Eliminating read barriers through procrastination and cleanliness,2012,19,10,3,1.0,210727077,Lukasz Ziarek,0,-0.3311949613288804,0.06381871847986853
+2005335403,Synthesizing racy tests,2015,30,23,1,1.0,2141982898,Suresh Jagannathan,0,-0.4814977233997502,-0.10467010375631473
+2003786919,Polymorphic splitting an effective polyvariant flow analysis,1998,47,49,1,1.0,2141982898,Suresh Jagannathan,0,-0.1448703963116631,0.11648908184939195
+1997532030,Environments as first class objects,1987,23,29,1,1.0,2141982898,Suresh Jagannathan,0,0.640680222835392,-0.6767145019591436
+2011828447,A customizable substrate for concurrent languages,1992,30,29,1,1.0,2141982898,Suresh Jagannathan,0,-0.24130475483589522,-0.7853673436876809
+2021018584,Dynamic state restoration using versioning exceptions,2006,53,4,2,0.0,353300815,V. Krishna Nandivada,0,0.3071397056243917,-0.20063462877794236
+2012418934,Speculative N-Way barriers (abstract only),2009,0,0,3,1.0,210727077,Lukasz Ziarek,0,-0.16385535651402403,-0.03215461948028497
+2016012949,Plan B a buffered memory model for Java,2013,37,24,3,0.0198413,245784412,David Pichardie,0,-2.8697223085963017,0.40197907283084633
+2024858144,A concurrent abstract interpreter,1994,27,5,2,0.0,1537561718,James Philbin,0,0.14585469763921793,-0.2240744940766606
+2014359737,TS/Scheme distributed data structures in Lisp,1994,34,2,1,1.0,2141982898,Suresh Jagannathan,0,-0.12948062605434815,-0.0313217482575488
+2025165387,Metalevel building blocks for modular systems,1994,38,17,1,1.0,2141982898,Suresh Jagannathan,0,0.6445687791187312,-0.9277526543822759
+2023785576,Atomicity Refinement for Verified Compilation,2014,27,7,3,0.0198413,245784412,David Pichardie,0,-1.0030501578180853,-0.20708024780767684
+2033721332,Flow-directed inlining,1996,25,44,1,1.0,2141982898,Suresh Jagannathan,0,-0.2945331546543341,-0.21220853110336482
+2039018296,Speculative N-Way barriers,2009,24,4,3,1.0,210727077,Lukasz Ziarek,0,-0.16385535651402403,-0.03215461948028497
+2068531859,Flexible access control for javascript,2013,35,11,4,0.406603,689480282,Francesco Zappa Nardelli,0,-1.0108867165135578,-1.1452907340068972
+2058131388,Principles of POPL,2013,0,0,5,0.0,231645210,Roberto Giacobazzi,0,-0.1164726804531344,0.019252515865476
+2074144668,Proof-Directed Parallelization Synthesis by Separation Logic,2013,46,7,3,1.0,357221929,Matko BotinÄan,0,-0.24727965243679215,0.2935408980496507
+2063705198,A foundation for an efficient multi-threaded scheme system,1992,26,31,1,1.0,2141982898,Suresh Jagannathan,0,-0.9815127700499799,0.1323679997438081
+2074644416,Static specification inference using predicate mining,2007,42,79,2,1.0,245679212,Ananth Grama,0,0.6119389164133342,-0.07536060607560895
+2076620974,Semantics-aware trace analysis,2009,25,36,3,0.0,1484840246,Patrick Eugster,0,0.2481321832709437,0.5913344821872392
+2064390891,CompCertTSO A Verified Compiler for Relaxed-Memory Concurrency,2013,59,103,4,0.13896,138450541,Viktor Vafeiadis,0,-0.10185716858030475,-0.4744194382230432
+2083878525,Single and loving it must-alias analysis for higher-order languages,1998,16,45,2,0.0,2087891828,Peter Thiemann,0,-0.14263141622109984,0.4512394623657259
+2100040146,Dynamic modules in higher-order languages,1994,23,7,1,1.0,2141982898,Suresh Jagannathan,0,-0.3069822003852947,0.27893843741317176
+2089805963,Learning refinement types,2015,41,11,2,0.0,2049248193,Aditya V. Nori,0,-0.012012539258140303,0.0986841201904317
+2104045047,Analyzing stores and references in a parallel symbolic language,1994,33,25,1,1.0,2141982898,Suresh Jagannathan,0,-0.1343964082117978,0.5921346425487884
+2104824528,Quasi-static scheduling for safe futures,2008,29,26,1,1.0,2141982898,Suresh Jagannathan,0,-1.0083309908132336,0.15306774252384944
+2096401004,Atomicity refinement for verified compilation,2014,31,1,3,0.0198413,245784412,David Pichardie,0,-1.1560119197054946,-0.22318606357035778
+2108471047,A relational framework for higher-order shape analysis,2014,24,10,1,1.0,2141982898,Suresh Jagannathan,0,0.08970406267697653,0.9198646765152926
+2117510436,Sieve A Tool for Automatically Detecting Variations Across Program Versions,2006,22,33,2,1.0,245679212,Ananth Grama,0,0.8303779644234112,-0.24681720279868835
+2111946621,Safe futures for Java,2005,43,155,3,0.0,732573042,Antony L. Hosking,0,0.15563661525278258,-0.2246263339872984
+2106016907,Resource-sensitive synchronization inference by abduction,2012,32,6,3,1.0,357221929,Matko BotinÄan,0,-0.24727965243679215,0.2935408980496507
+2142263709,Modular reasoning for deterministic parallelism,2011,24,26,2,1.0,2139994915,Mike Dodds,0,-0.12848750086648034,0.29432597407285854
+2127428602,Declarative programming over eventually consistent data stores,2015,31,51,2,1.0,2063172183,KC Sivaramakrishnan,0,0.2800405643419524,-0.6260720320650214
+2122139510,A transactional object calculus,2005,26,48,4,0.0,732573042,Antony L. Hosking,0,-1.285557424908599,-1.1364747311742485
+2171471938,Path-Sensitive Inference of Function Precedence Protocols,2007,27,86,2,1.0,245679212,Ananth Grama,0,0.8442479872183531,-0.3086239820959366
+2162627428,Relaxed-memory concurrency and verified compilation,2011,30,58,4,0.13896,138450541,Viktor Vafeiadis,0,-1.021591522462259,-0.7794123458607276
+2165825461,Transactional Monitors for Concurrent Objects,2004,35,91,3,0.0,732573042,Antony L. Hosking,0,0.37833034593657583,-0.6861937531364006
+2148481016,Composable asynchronous events,2011,22,15,3,1.0,210727077,Lukasz Ziarek,0,0.4257314177553187,-0.91305146106977
+2154606502,A Semantic Framework for Designer Transactions,2004,15,40,4,0.0,732573042,Antony L. Hosking,0,-0.5755826616494937,-1.0295649311651003
+2167710134,Transparently reconciling transactions with locking for java synchronization,2006,33,36,3,0.0,732573042,Antony L. Hosking,0,-0.8559119320585981,0.5286652018386686
+2149979262,Customization of First Class Tuple-Spaces in a Higher-Order Language,1991,25,14,1,1.0,2141982898,Suresh Jagannathan,0,0.1371081297286643,-0.9712414104279681
+2231621909,Verifying Custom Synchronization Constructs Using Higher-Order Separation Logic,2016,34,8,2,0.8265,2139994915,Mike Dodds,0,-0.20712544566097654,-0.30923992185116317
+2256363745,Cooking the Books Formalizing JMM Implementation Recipes,2015,23,4,2,0.0,2115991807,Jan Vitek,0,-1.4005670120272935,-0.1985829612982926
+2250656952,â„žCML A Prescription for Safely Relaxing Synchrony,2014,27,0,3,1.0,210727077,Lukasz Ziarek,0,-0.21760866970120313,-0.060621388629376854
+2414616261,Automatically learning shape specifications,2016,71,14,1,1.0,2141982898,Suresh Jagannathan,0,-0.11133361452133661,0.1982829413465835
+2520893966,Mobidget A programming language for mobile agents Special Issue on Software Agents,1999,0,0,4,0.0,1852682516,Toru Yamanouchi,0,-0.2563799655387057,-0.29087434712528415
+2761236751,[InlineEquation not available see fulltext]CML A Prescription for Safely Relaxing Synchrony,2014,22,0,3,1.0,210727077,Lukasz Ziarek,0,-0.21760866970120313,-0.060621388629376854
+2765382207,Alone together compositional reasoning and inference for weak isolation,2017,44,5,2,1.0,2102487429,Mahsa Najafzadeh,0,-0.012746326729655607,0.32939014632985014
+2747080245,Verifying a Concurrent Garbage Collector Using a Rely-Guarantee Methodology,2017,24,4,2,0.0,245784412,David Pichardie,0,-0.275577307131294,0.011671682654978862
+2912846696,Proceedings of ACM SIGPLAN on Program Protection and Reverse Engineering Workshop 2014,2014,0,0,2,0.0,2083541332,Peter Sewell,0,-0.1164726804531344,0.019252515865476
+2898836676,Alone Together Compositional Reasoning and Inference for Weak Isolation,2018,0,2,2,1.0,2102487429,Mahsa Najafzadeh,0,-0.012746326729655607,0.32939014632985014
+2899108093,Verifying a Concurrent Garbage Collector with a Rely-Guarantee Methodology,2019,41,0,3,0.0,245784412,David Pichardie,0,-0.5749175882327738,-0.03850629149083378
+2914135639,Proceedings of the 41st ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,2014,0,0,2,0.0,2083541332,Peter Sewell,0,-0.28281102389454726,-0.2383394623083164
+2896654912,Verified compilation of Concurrent Managed Languages,2017,0,0,1,1.0,2141982898,Suresh Jagannathan,0,-0.1164726804531344,0.019252515865476
+2963527490,Automated Detection of Serializability Violations under Weak Consistency,2018,0,1,1,1.0,2141982898,Suresh Jagannathan,0,-0.24682749236236706,0.09435514482240545
+2968771279,CLOTHO Directed Test Generation for Weakly Consistent Database Systems,2019,13,0,1,1.0,2141982898,Suresh Jagannathan,0,0.14927189733755655,0.5053183092910988
+2964545880,Version Control Is for Your Data Too,2019,0,0,2,0.882353,2063172183,KC Sivaramakrishnan,0,-0.1164726804531344,0.019252515865476
+3015075332,Session details Session 2,2006,0,0,1,1.0,2141982898,Suresh Jagannathan,0,-0.1164726804531344,0.019252515865476
+3017394600,Semantics Specification and Bounded Verification of Concurrent Libraries in Replicated Systems,2020,36,0,1,1.0,2141982898,Suresh Jagannathan,0,-0.07080196054471702,0.07638573731064066
+3014473420,Session details 4A medley,2012,0,0,1,1.0,2141982898,Suresh Jagannathan,0,-0.1164726804531344,0.019252515865476

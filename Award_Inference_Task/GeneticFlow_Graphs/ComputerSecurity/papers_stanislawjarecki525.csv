@@ -1,0 +1,65 @@
+154766510,Public Key Cryptography - PKC 2009,2009,0,136,2,0,465425324,Gene Tsudik,0,-0.23600969876449543,-2.8610227671291284
+107359364,Practical Covert Authentication,2014,28,4,1,0,1760644356,Stanislaw Jarecki,0,-0.8898864924680818,-1.243063915862026
+56418595,Handcuffing Big Brother an Abuse-Resilient Transaction Escrow Scheme,2004,40,35,2,0,8790322,Vitaly Shmatikov,0,0.4055864111177861,-0.7630771008547867
+78364600,Decentralized security services,2006,0,1,2,0,465425324,Gene Tsudik,0,-0.2787786970988913,-1.0154965515617924
+27238938,Round-Optimal Password-Protected Secret Sharing and T-PAKE in the Password-Only Model,2014,40,37,2,0,81359666,Aggelos Kiayias,0,0.45670162043614654,-1.1494788630782848
+49514648,Efficient multi-signature schemes and threshold password authentication,2011,0,0,2,0,151276145,Ali Bagherzandi,0,-0.2879307917957652,-1.3286956313270262
+1531952425,Efficient micropayment system,1997,15,62,1,0,1760644356,Stanislaw Jarecki,0,0.0040557659796233,0.2757546058061082
+1559679845,Authenticated key agreement with key re-use in the short authenticated strings model,2010,21,4,1,0,1760644356,Stanislaw Jarecki,0,-0.4936994235232266,-2.0393765738545135
+1480828364,Probabilistic escrow of financial transactions with cumulative threshold disclosure,2005,18,4,2,0,8790322,Vitaly Shmatikov,0,0.402241174288445,-0.21604314429931804
+1498352069,Affiliation-Hiding Envelope and Authentication Schemes with Efficient Support for Multiple Credentials,2008,29,7,1,0,1760644356,Stanislaw Jarecki,0,-1.097101353532941,-1.7265609931034958
+1481203524,Proactive RSA with Non-interactive Signing,2008,39,3,1,0,1760644356,Stanislaw Jarecki,0,0.33620840994532863,-1.9832756113150574
+1518949160,Secure applications of Pedersens distributed key generation protocol,2003,58,31,1,0,1760644356,Stanislaw Jarecki,0,0.09596086992598328,-1.5454274601122402
+1546996295,Adaptive Security for Threshold Cryptosystems,1999,30,97,2,0,687553606,Ran Canetti,0,0.15101004970200183,-1.7263409401456105
+1511771844,Beyond secret handshakes affiliation-hiding authenticated key exchange,2008,21,44,2,0,465425324,Gene Tsudik,0,-0.683224529216452,-2.398943269222666
+1557233327,Public key cryptography -- PKC 2009 12th International Conference on Practice and Theory in Public Key Cryptography Irvine CA USA March 18-20 2009 proceedings,2009,0,1,2,0,465425324,Gene Tsudik,0,0.31879725249763813,-1.4770547514225247
+1549496011,Privacy-Preserving Policy-Based Information Transfer,2009,21,36,3,0,221486981,Emiliano De Cristofaro,0,-0.22023835586948956,-0.9847756699017713
+1513478504,Unlinkable Secret Handshakes and Key-Private Group Key Management Schemes,2007,31,44,1,0,1760644356,Stanislaw Jarecki,0,-0.7425888138599981,-1.7945305522451822
+1603832532,An Efficient Micropayment System Based on Probabilistic Polling,1997,9,54,1,0,1760644356,Stanislaw Jarecki,0,-0.5530861437885858,-0.004176666300269333
+1587927411,Authentication for paranoids multi-party secret handshakes,2006,15,19,2,0,465425324,Gene Tsudik,0,0.029817348790446507,-1.2318177693874766
+1961739848,Method and system for a public key cryptosystem having proactive robust and recoverable distributed threshold secret sharing,1995,14,81,1,0,1760644356,Stanislaw Jarecki,0,1.2702472544569265,-0.7872072254995789
+1998473519,Multisignatures secure under the discrete logarithm assumption and a generalized forking lemma,2008,18,30,2,0,151276145,Ali Bagherzandi,0,0.22190224443053147,-1.9994782011581487
+1990556702,Two-Factor Authentication Resilient to Server Compromise Using Mix-Bandwidth Devices,2014,10,25,1,0,1760644356,Stanislaw Jarecki,0,-0.9605254722587789,-0.6254469491588635
+2001154722,Outsourced symmetric private information retrieval,2013,28,121,1,0,1760644356,Stanislaw Jarecki,0,0.23294422675505025,-0.8828596439295332
+2034862017,An attack on the proactive RSA signature scheme in the URSA ad hoc network access control protocol,2004,22,43,1,0,1760644356,Stanislaw Jarecki,0,-0.16596838809877065,-0.06785624055588484
+2064958915,Brief announcement secret handshakes from CA-oblivious encryption,2004,1,10,3,0,227365023,Claude Castelluccia,0,-0.06161405476553258,-2.2268005223828413
+2072554986,Password-protected secret sharing,2011,34,57,2,0,151276145,Ali Bagherzandi,0,-0.6072594170834239,-1.8765381914248485
+2060411097,Versatile padding schemes for joint signature and encryption,2004,29,29,2,0,1259442811,Yevgeniy Dodis,0,0.5242760016185434,-1.798277429668369
+2096024255,Proactive Secret Sharing Or How to Cope With Perpetual Leakage,1995,17,589,1,0,1760644356,Stanislaw Jarecki,0,0.9200474065883341,-0.8281048971338982
+2101961786,On the Insecurity of Proactive RSA in the URSA Mobile Ad Hoc Network Access Control Protocol,2010,41,8,1,0,1760644356,Stanislaw Jarecki,0,-0.3409878156720988,-0.029708659741642742
+2102091280,Secret Handshakes from CA-Oblivious Encryption,2004,18,113,4,0,227365023,Claude Castelluccia,0,-0.14313983763474739,-1.1411576086992603
+2120245226,Robust group key agreement using short broadcasts,2007,9,11,2,0,465425324,Gene Tsudik,0,-0.1928800142030902,-0.9878670191250457
+2106747585,Cryptographic primitives enforcing communication and storage complexity,2002,40,75,1,0,1760644356,Stanislaw Jarecki,0,1.053203114748047,-0.32354437425804305
+2122686225,Dandelion cooperative content distribution with robust incentives,2007,58,108,1,0,1760644356,Stanislaw Jarecki,0,0.0040557659796233,0.2757546058061082
+2113929724,Secure distributed key generation for discrete-log based cryptosystems,1999,18,310,1,0,1760644356,Stanislaw Jarecki,0,0.024858736274085205,-1.8893461319180977
+2165265664,Group secret handshakes or affiliation-hiding authenticated group key agreement,2007,21,27,2,0,465425324,Gene Tsudik,0,-0.6679707814951915,-1.9690794845531825
+2184900754,Handcuffing Big Brother an Abuse-Resilient Transaction Escrow Scheme (Extended Abstract),2004,25,2,2,0,8790322,Vitaly Shmatikov,0,0.16323548671984472,-0.8671114192608151
+2150117343,A robust multisignature scheme with applications to acknowledgement aggregation,2004,18,8,3,0,227365023,Claude Castelluccia,0,-0.19422812915568127,-1.775607670857024
+2406790903,Device-Enhanced Password Protocols with Optimal Online-Offline Protection,2016,22,13,1,0,1760644356,Stanislaw Jarecki,0,-0.6515066717885694,-1.2439051710377986
+2584697366,Group secret handshakes or affiliation-hiding authenticated group key agreement,2006,0,0,2,0,465425324,Gene Tsudik,0,-0.6679707814951915,-1.9690794845531825
+2585564848,Handcuffing big brother an abuse-resilient transaction escrow scheme (Extended abstract),2004,0,2,2,0,8790322,Vitaly Shmatikov,0,0.16323548671984472,-0.8671114192608151
+2610289900,Authentication for paranoids Multi-party secret -handshakes,2006,0,9,2,0,465425324,Gene Tsudik,0,0.25052731768614284,-0.9078272893054489
+2592507573,Secret handshakes from CA-oblivious encryption,2004,0,1,4,0,227365023,Claude Castelluccia,0,-0.06326389958523823,-2.161172857593301
+2621151780,TOPPSS Cost-Minimal Password-Protected Secret Sharing Based on Threshold OPRF,2017,29,7,2,0,81359666,Aggelos Kiayias,0,-0.45572091873010184,-0.4092083119647866
+2612466437,Adaptive security for threshold cryptosystems,1999,0,30,2,0,687553606,Ran Canetti,0,0.15101004970200183,-1.7263409401456105
+2737763434,Robust privacy-preserving group key agreement protocols,2008,0,0,2,0,465425324,Gene Tsudik,0,-0.2852390034822664,-2.006394438208997
+2795336163,OPAQUE An Asymmetric PAKE Protocol Secure Against Pre-computation Attacks,2018,32,14,1,0,1760644356,Stanislaw Jarecki,0,-0.5095196049195422,-1.237934181793652
+2885492309,Round-reduced modular construction of asymmetric password-authenticated key exchange,2018,25,1,1,0,1760644356,Stanislaw Jarecki,0,-0.30909474950637733,-1.6446353905868685
+2921685785,Building and Studying a Password Store that Perfectly Hides Passwords from Itself,2019,0,0,1,0,1760644356,Stanislaw Jarecki,0,-0.6572834079608942,-0.5782850294209244
+2900137741,Threshold Partially-Oblivious PRFs with Applications to Key Management,2018,0,3,1,0,1760644356,Stanislaw Jarecki,0,0.5377943876296638,-0.605901515741278
+2911434950,Negotiated privacy,2002,31,6,2,0,8790322,Vitaly Shmatikov,0,0.3915074423978659,-0.4402341955890125
+2914709412,Proceedings of the 12th International Conference on Practice and Theory in Public Key Cryptography PKC 09,2009,0,0,2,0,465425324,Gene Tsudik,0,0.03910652856792115,-0.9542749174440527
+2951942742,TOPPSS Cost-minimal Password-Protected Secret Sharing based on Threshold OPRF,2017,0,0,2,0,81359666,Aggelos Kiayias,0,0.4119786469809368,-0.1630540246402619
+2951951206,Secret Handshakes from CA-Oblivious Encryption,2004,0,0,4,0,227365023,Claude Castelluccia,0,0.155870422438688,-0.3611899258997246
+2952180762,Highly-Efficient and Composable Password-Protected Secret Sharing (Or How to Protect Your Bitcoin Wallet Online),2016,0,0,2,0,81359666,Aggelos Kiayias,0,0.4119786469809368,-0.1630540246402619
+2935634454,Password-Authenticated Public-Key Encryption,2019,21,1,1,0,1760644356,Stanislaw Jarecki,0,-0.5059190431925249,-0.7756497339469047
+2950624676,SPHINX A Password Store that Perfectly Hides Passwords from Itself,2018,0,0,1,0,1760644356,Stanislaw Jarecki,0,-0.3912276319926795,0.07353894049935202
+2952830884,Efficient Covert Two-Party Computation,2016,0,0,1,0,1760644356,Stanislaw Jarecki,0,0.0040557659796233,0.2757546058061082
+2951005755,Two-Factor Authentication with End-to-End Password Security,2018,0,0,1,0,1760644356,Stanislaw Jarecki,0,-1.7169460906996985,-1.3297085980792474
+2951012145,Password-Protected Secret Sharing,2010,0,0,2,0,151276145,Ali Bagherzandi,0,0.4119786469809368,-0.1630540246402619
+2953057401,Round-Optimal Password-Protected Secret Sharing and T-PAKE in the Password-Only Model,2014,0,0,2,0,81359666,Aggelos Kiayias,0,0.4119786469809368,-0.1630540246402619
+2951036987,Password-Authenticated Public-Key Encryption,2019,0,0,1,0,1760644356,Stanislaw Jarecki,0,-0.45463150659648377,-0.5803336245255392
+2980214038,Handcuffing big brother An abuse-resilient transaction escrow scheme (extended abstract),2004,0,0,2,0,8790322,Vitaly Shmatikov,0,-0.1052070440980577,0.26181385327213397
+2983813777,Updatable Oblivious Key Management for Storage Systems,2019,36,0,1,0,1760644356,Stanislaw Jarecki,0,0.36435778632832483,-1.0985604824455817
+2989637598,Updatable Oblivious Key Management for Storage Systems,2019,0,0,1,0,1760644356,Stanislaw Jarecki,0,0.5377943876296638,-0.605901515741278
+3014017565,Universally Composable Relaxed Password Authenticated Key Exchange,2020,0,0,1,0,1760644356,Stanislaw Jarecki,0,-0.7551224147811132,-1.3649166616286006

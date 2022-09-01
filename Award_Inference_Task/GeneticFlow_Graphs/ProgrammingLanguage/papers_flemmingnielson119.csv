@@ -1,0 +1,94 @@
+71628360,The CaPiTo approach to protocol validation,2010,0,0,1,1.0,2057873166,Flemming Nielson,0,0.7689119204557606,-0.8847023587474635
+6677966,2-level lambda-lifting,1988,0,0,1,1.0,2057873166,Flemming Nielson,0,-1.3168523636044516,-2.5246425426122783
+109517782,Recursive advice for coordination,2012,17,3,1,1.0,2057873166,Flemming Nielson,0,1.224080405481581,-0.441393028579932
+45829939,Semantics with Applications An Appetizer,2007,0,44,1,1.0,2057873166,Flemming Nielson,0,2.337246305628937,-0.39688151443878444
+167771324,The typed Î»-calculus with first-class processes,1989,13,32,1,1.0,2057873166,Flemming Nielson,0,-0.4092206616038536,-0.0401083610130616
+117756569,Model checking as static analysis revisited,2012,31,2,1,1.0,2057873166,Flemming Nielson,0,-0.34167011068800673,0.08049757961549853
+569552489,Data Flow Analysis,1999,0,1,1,1.0,2057873166,Flemming Nielson,0,-0.2810498129235791,-0.014282401330515596
+248572317,Klaim-DB A Modeling Language for Distributed Database Applications,2015,13,1,1,1.0,2057873166,Flemming Nielson,0,1.0491036961488125,-1.0124560130912887
+596943730,ML with Concurrency Design Analysis Implementation and Application,1996,0,6,1,1.0,2057873166,Flemming Nielson,0,-0.2268142716231431,-0.1590203910320284
+874095766,Validating Programs in Concurrent ML,1999,0,1,1,1.0,2057873166,Flemming Nielson,0,-0.3500893545627852,-0.19935648919613752
+1558848517,Type and Effect Systems,1999,49,95,1,1.0,2057873166,Flemming Nielson,0,-0.16975249359703454,0.13217339902100045
+1479857408,Higher-Order Concurrent Programs with Finite Communication Topology,1994,10,93,1,1.0,2057873166,Flemming Nielson,0,-0.19052256590072253,-0.16198820683420959
+1568982134,Static and Dynamic Processor Allocation for Higher-Order Concurrent Languages,1995,17,13,1,1.0,2057873166,Flemming Nielson,0,-0.21183910588014224,-0.11632480347345424
+1505891402,Model checking I s static analysis of modal logic,2010,29,12,1,1.0,2057873166,Flemming Nielson,0,-0.10706972594259972,0.22475726724909514
+1533623188,Communication Analysis for Concurrent ML,1997,0,11,1,1.0,2057873166,Flemming Nielson,0,-0.2581201339406278,-0.23167805382623183
+1498792107,A Kleene Analysis of Mobile Ambients,2000,18,24,1,1.0,2057873166,Flemming Nielson,0,-0.5596704814999159,-0.2571701642332019
+1564003788,Correctness of code generation from a two-level meta-language,1986,15,10,1,1.0,2057873166,Flemming Nielson,0,-0.14687226515098706,0.24847134193745318
+1486211078,Flow Logic for Imperative Objects,1998,4,6,1,1.0,2057873166,Flemming Nielson,0,0.9546758771095943,-0.9386370222814164
+1566176171,Eureka Definitions for Free or Disagreement Points for Fold/Unford Transformations,1990,11,10,1,1.0,2057873166,Flemming Nielson,0,-0.39736753920862145,-0.12948157479584851
+1530748823,Iterative specialisation of horn clauses,2008,14,1,1,1.0,2057873166,Flemming Nielson,0,-0.31470658918076894,-0.7872361744974568
+1487472891,Semantics With Applications A Formal Introduction,1992,0,302,1,1.0,2057873166,Flemming Nielson,0,-0.1164726804531344,0.019252515865476
+1576896531,Flow Logics for Constraint Based Analysis,1998,23,21,1,1.0,2057873166,Flemming Nielson,0,-0.012584511527588127,-0.9461251212400192
+1577579001,Pragmatic Aspects of Two-Level Denotational Meta-Languages,1986,21,15,1,1.0,2057873166,Flemming Nielson,0,-0.682801114351115,-0.08772081724039216
+1586636845,Flow logic a multi-paradigmatic approach to static analysis,2002,25,77,1,1.0,2057873166,Flemming Nielson,0,0.44135959777920847,-0.5485999631793609
+1875352504,Polymorphic Subtyping for Effect Analysis The Semantics,1996,0,1,2,1.0,69801872,Torben Amtoft,0,-0.10662732824139876,-0.23298347541024805
+1753832216,Code generation from two-level denotational meta-languages,1985,16,14,1,1.0,2057873166,Flemming Nielson,0,0.6081939017475572,-0.3938144695020687
+1679306079,Semantics-Directed Program Analysis A Tool-Makers Perspective,1996,25,8,1,1.0,2057873166,Flemming Nielson,0,-0.12673348454099798,0.10282633164246821
+1608933122,Two-Level Functional Languages,1992,0,130,1,1.0,2057873166,Flemming Nielson,0,0.38161528780233733,0.3618045565048181
+1855891339,Polymorphic Subtyping for Effect Analysis the Algroithm,1996,0,0,2,1.0,69801872,Torben Amtoft,0,-0.10662732824139876,-0.23298347541024805
+1891867366,Operational semantics of termination types,1996,25,8,1,1.0,2057873166,Flemming Nielson,0,-0.15334160799510654,-0.4128544626843742
+1600244485,Interprocedural Control Flow Analysis,1999,28,17,1,1.0,2057873166,Flemming Nielson,0,0.40222054383871697,-0.6621678880815988
+1824165548,Information flow analysis for VHDL,2005,15,17,2,1.0,2048805782,Terkel K. Tolstrup,0,0.03713648315822745,0.3203749113203159
+1895615865,Behaviour analysis and safety conditions A case study in CML,1998,10,10,2,1.0,69801872,Torben Amtoft,0,-0.16401868762230248,-0.1969165555522658
+1779281230,Behaviour Analysis and Safety Conditions a Case Study in CML,1997,0,2,2,1.0,69801872,Torben Amtoft,0,-0.08816056294178004,-0.23903225026426486
+1731357855,Polymorphic Subtyping for Effect Analysis The Dynamic Semantics,1996,24,18,2,1.0,69801872,Torben Amtoft,0,-0.21225526731020392,-0.008502035910042338
+1978940055,Comments on Georgeffs â€œtransformations and reduction strategies for typed lambda expressionsâ€,1986,1,2,1,1.0,2057873166,Flemming Nielson,0,-0.3029492629702895,0.24308486994806713
+1986053257,Annotated type and effect systems,1996,8,17,1,1.0,2057873166,Flemming Nielson,0,0.15597269585278634,-0.4813444537528945
+1967226206,Context information for lazy code generation,1990,11,5,1,1.0,2057873166,Flemming Nielson,0,-0.6237239830676322,0.1920820952808696
+1981580304,Two-level semantics and abstract interpretation,1989,54,68,1,1.0,2057873166,Flemming Nielson,0,-0.16835911788969754,-0.009672784006038307
+1967869650,Transformations on higher-order functions,1989,20,10,1,1.0,2057873166,Flemming Nielson,0,-0.1164726804531344,0.019252515865476
+1987596453,Predictive access control for distributed computation,2013,65,2,1,1.0,2057873166,Flemming Nielson,0,0.3060110445574574,-0.19036568206975502
+1989635597,Flow Logic and Operational Semantics,1998,15,20,1,1.0,2057873166,Flemming Nielson,0,-0.1164726804531344,0.019252515865476
+2031232189,From generic to specific off-line optimization for a general constraint solver,2008,21,0,2,0.0,69801872,Torben Amtoft,0,-0.5870892650314783,0.280408167013234
+2024677950,Flow Logic for Process Calculi,2012,57,11,1,1.0,2057873166,Flemming Nielson,0,0.42398505953789,-0.5484960263333997
+2024851363,Strictness analysis and denotational abstract interpretation,1987,11,11,1,1.0,2057873166,Flemming Nielson,0,-0.6999027278433325,0.25631137055807934
+2032137108,Infinitary control flow analysis a collecting semantics for closure analysis,1997,16,98,1,1.0,2057873166,Flemming Nielson,0,0.7244412188480644,-0.8318985523621474
+2032277118,Program transformations in a denotational setting,1985,12,46,1,1.0,2057873166,Flemming Nielson,0,-0.14479066209832847,0.052077729273683614
+2039219985,From CML to its process algebra,1996,29,21,1,1.0,2057873166,Flemming Nielson,0,-0.05511326221932202,-0.1326024900987197
+2055341574,Higher-order concurrent programs with finite communication topology (extended abstract),1994,9,80,1,1.0,2057873166,Flemming Nielson,0,-0.19052256590072253,-0.16198820683420959
+2052075892,Systematic realisation of control flow analyses for CML,1997,20,29,1,1.0,2057873166,Flemming Nielson,0,-0.42362787391910445,-0.0006670854598381792
+2062192948,The logic of XACML,2014,20,20,2,1.0,1786320191,Carroline Dewi Puspa Kencana Ramli,0,-0.17196515730286913,0.8168549284149167
+2069293912,Strictness analysis and denotational abstract interpretation,1988,16,31,1,1.0,2057873166,Flemming Nielson,0,-0.5660344861936574,0.13592168848884148
+2064264121,Type and behaviour reconstruction for higher-order concurrent programs,1997,22,20,2,1.0,69801872,Torben Amtoft,0,-0.18839043214762013,-0.23056945295996106
+2059019165,Two-level semantics and code generation,1988,43,67,1,1.0,2057873166,Flemming Nielson,0,-0.28868660273175306,0.08713093511831582
+2066150275,Shape analysis for mobile ambients,2000,18,43,1,1.0,2057873166,Flemming Nielson,0,-0.4445413080103124,-0.33864541079043436
+2085809004,A monotone framework for CCS,2009,25,12,1,1.0,2057873166,Flemming Nielson,0,0.13999244718264808,0.022426967640956263
+2098317240,Using transformations in the implementation of higher-order functions,1991,27,4,1,1.0,2057873166,Flemming Nielson,0,-0.1164726804531344,0.019252515865476
+2098830096,A succinct solver for ALFP,2002,26,60,2,0.0,2043679408,Helmut Seidl,0,-0.2754490140364291,-0.8042771760002596
+2105114074,Interprocedural Control Flow Analysis (Extended version),1998,0,0,1,1.0,2057873166,Flemming Nielson,0,0.36370436689552227,-0.761408679193751
+2135273171,XACML 30 in Answer Set Programming,2012,10,10,2,1.0,1786320191,Carroline Dewi Puspa Kencana Ramli,0,0.0632069160032426,1.3029945224252462
+2114953130,Prescriptive Frameworks for Multi-Level Lambda-Calculi,1997,11,6,1,1.0,2057873166,Flemming Nielson,0,-0.3072395973893072,0.13728627520486064
+2115385239,Combining static analysis and runtime checking in security aspects for distributed tuple spaces,2011,38,8,2,0.0,665847483,Tomoyuki Aotani,0,-0.22527602673938424,0.0764937235187315
+2110183833,Automatic binding time analysis for a typed Î»-calculus,1988,12,27,1,1.0,2057873166,Flemming Nielson,0,-0.4279891260509209,-0.9741883513574072
+2137065168,2-Level Î»-lifting,1988,12,5,1,1.0,2057873166,Flemming Nielson,0,-0.435347809169381,-0.06101820829764578
+2157120426,Theoretical Aspects of Semantics-Based Language Implementation,1990,0,0,1,1.0,2057873166,Flemming Nielson,0,-0.0788154332137352,0.21058642506392963
+2169611723,Automatic binding time analysis for a typed l-calculus,1988,19,59,1,1.0,2057873166,Flemming Nielson,0,-0.5372959866461365,-0.31737210382368636
+2173869701,The Logic of XACML,2011,8,15,2,1.0,1786320191,Carroline Dewi Puspa Kencana Ramli,0,0.33579345392037446,1.1255735553431525
+2174627168,Abstract interpretation a semantics-based tool for program analysis,1995,52,135,1,1.0,2057873166,Flemming Nielson,0,-0.1575046427904754,0.11026544643934595
+2155535105,Perspectives on program analysis,1997,7,0,1,1.0,2057873166,Flemming Nielson,0,-0.005550021743587548,-0.045496798771096594
+2189180081,From flow logic to static type systems for coordination languages,2008,37,5,3,0.833333,1225694256,Christian W. Probst,0,-0.04856642003629053,0.1841858950921471
+2222975320,ML with Concurrency,1997,0,9,1,1.0,2057873166,Flemming Nielson,0,2.8552280194187443,0.07332368728779572
+2265652392,Disjunctive Information Flow for Communicating Processes,2015,28,6,1,1.0,2057873166,Flemming Nielson,0,-0.08762763215889897,0.10115217490369967
+2283364907,Two-Level Functional Languages Parameterized Semantics,1992,0,0,1,1.0,2057873166,Flemming Nielson,0,1.3820393665234736,0.6146109958232383
+2295217343,Hoare Logic for Disjunctive Information Flow,2015,24,6,1,1.0,2057873166,Flemming Nielson,0,-0.39083137677912944,-0.16455807580430956
+2349875843,Language-based Security for VHDL,2006,79,8,2,1.0,2048805782,Terkel K. Tolstrup,0,0.5084823029917852,1.0664157622303403
+2475901021,More on Denotational Semantics,2007,0,0,1,1.0,2057873166,Flemming Nielson,0,-0.1164726804531344,0.019252515865476
+2476133263,Axiomatic Program Verification,2007,0,0,1,1.0,2057873166,Flemming Nielson,0,-0.1164726804531344,0.019252515865476
+2493565762,More on Operational Semantics,2007,0,0,1,1.0,2057873166,Flemming Nielson,0,-0.1164726804531344,0.019252515865476
+2503679308,More on Axiomatic Program Verification,2007,0,0,1,1.0,2057873166,Flemming Nielson,0,-0.1164726804531344,0.019252515865476
+2556406350,A Theory of Available-by-Design Communicating Systems,2016,31,1,1,1.0,2057873166,Flemming Nielson,0,-0.28274089845582284,0.2641006960704922
+2530835540,A coordination language for databases,2017,0,0,1,1.0,2057873166,Flemming Nielson,0,0.6422760848862646,-1.7411428939073998
+2559006642,Flow logic for language-based safety and security,2005,92,2,1,1.0,2057873166,Flemming Nielson,0,-0.1164726804531344,0.019252515865476
+2567856081,Data Flow Analysis for CCS,2006,14,2,1,1.0,2057873166,Flemming Nielson,0,1.8167315826067598,-1.880536578425938
+2512732614,Two-Level Functional Languages Conclusion,1992,0,0,1,1.0,2057873166,Flemming Nielson,0,-0.2461912056496028,0.0121848197025854
+2522646173,Content dependent information flow control,2017,27,9,1,1.0,2057873166,Flemming Nielson,0,-0.3940175648687993,-0.3476549148138433
+2650694610,Abstract interpretation of mobile ambients,2003,17,34,1,1.0,2057873166,Flemming Nielson,0,1.0573497601097561,-1.1130944066638817
+2658567200,Atomistic Galois insertions for flow sensitive integrity,2017,31,2,1,1.0,2057873166,Flemming Nielson,0,0.11989982050982699,0.23835222219307953
+2737414294,Verification of Stateful Protocols - Set-Based Abstractions in the Applied Pi-Calculus,2014,0,0,2,0.0,2025806722,Sebastian MÃ¶dersheim,0,-0.1164726804531344,0.019252515865476
+2753617992,Effect-driven QuickChecking of compilers,2017,22,10,2,0.0,1963191177,Jan Midtgaard,0,-0.3313881446795078,-0.1618441491601543
+2743712073,Analyzing for Absence of Timing Leaks in VHDL,2006,0,5,2,1.0,2048805782,Terkel K. Tolstrup,0,-0.1164726804531344,0.019252515865476
+2911688229,Layered Predicates,1992,7,6,1,1.0,2057873166,Flemming Nielson,0,-0.1164726804531344,0.019252515865476
+2951530598,XACML 30 in Answer Set Programming,2012,7,0,2,1.0,1786320191,Carroline Dewi Puspa Kencana Ramli,0,0.0632069160032426,1.3029945224252462
+2961320833,Formal Methods An Appetizer,2019,0,0,1,1.0,2057873166,Flemming Nielson,0,0.034638763032063084,0.3305562662240224
+3022156586,From Flow Logic to static type systems for coordination languages,2010,36,17,3,0.833333,1225694256,Christian W. Probst,0,-0.050212081042459146,0.28927413012053815

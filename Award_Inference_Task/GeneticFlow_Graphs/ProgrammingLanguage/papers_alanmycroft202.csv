@@ -1,0 +1,75 @@
+102910797,Logic Programming and Functional Nets,2000,0,0,1,1,163000670,Alan Mycroft,0,1.220478746046223,-0.546797634714075
+158887749,Stepwise Development of Operational and Denotational Semantics for Prolog,1984,0,91,1,1,163000670,Alan Mycroft,0,-0.25411112919949164,0.03811391913813797
+162634494,A Notation for Comonads,2012,16,5,1,1,163000670,Alan Mycroft,0,-0.3545431399486074,0.2006773011050044
+197739472,Control flow analysis for the join calculus,2012,22,3,1,1,163000670,Alan Mycroft,0,0.36255881727877143,-1.1189286412788986
+183731308,Dynamic Alias Protection with Aliasing Contracts,2013,22,0,1,1,163000670,Alan Mycroft,0,-0.4872823547468115,0.5664932577636946
+82012725,Liveness-based garbage collection,2014,19,3,1,1,163000670,Alan Mycroft,0,-0.0722936594544072,-0.024366989730655247
+1481365258,Haskell is not not ML,2006,8,4,1,1,163000670,Alan Mycroft,0,-0.26660308430137675,0.2943061009954211
+1561851616,Complexity as a Basis for Comparing Semantic Models of Concurrency,1995,27,2,1,1,163000670,Alan Mycroft,0,-0.2268142716231431,-0.1590203910320284
+1491405159,Logic Programs and Many-Valued Logic,1984,9,31,1,1,163000670,Alan Mycroft,0,-0.36599514594512506,-0.3389285796915019
+1526598597,Delayed side-effects ease multi-core programming,2007,4,10,1,1,163000670,Alan Mycroft,0,-0.14847805705615066,-0.030223283520489298
+1562824671,Abstract interpretation and optimising transformations for applicative programs,1982,0,196,1,1,163000670,Alan Mycroft,0,-0.9217303005269214,0.3149121649934941
+1554123701,Programming language design and analysis motivated by hardware evolution,2007,25,8,1,1,163000670,Alan Mycroft,0,-0.20121786359607344,0.3345385947921291
+1519457258,Compiler Construction 15th International Conference CC 2006 Held as Part of the Joint European Conferences on Theory and Practice of Software ETAPS 2006 Vienna Austria March 30-31 2006 Proceedings,2006,0,0,1,1,163000670,Alan Mycroft,0,-0.9290786323674742,0.21740307012162463
+1512248102,The Theory and Practice of Transforming Call-by-need into Call-by-value,1980,7,172,1,1,163000670,Alan Mycroft,0,-0.6496007744595464,0.05080449368388655
+1512297197,Combined code motion and register allocation using the value state dependence graph,2003,18,21,1,1,163000670,Alan Mycroft,0,-1.0399366878039584,-0.3432535827694346
+1512540468,Language-based optimisation of sensor-driven distributed computing applications,2008,21,2,1,1,163000670,Alan Mycroft,0,-0.44869122900443015,-0.00015649039724540022
+1603941001,Redux A Dynamic Dataflow Tracer,2003,10,48,1,1,163000670,Alan Mycroft,0,-0.20495602919234532,-0.021148903819106016
+1626905711,Proceedings Third Workshop on Programming Language Approaches to Concurrency and communication-cEntric Software,2011,0,1,1,1,163000670,Alan Mycroft,0,0.21403525459509368,-0.20178447295886934
+1595601404,A Statically Allocated Parallel Functional Language,2000,13,39,1,1,163000670,Alan Mycroft,0,-0.8643866727744127,-1.012242827229354
+1587207268,Task partitioning for multi-core network processors,2005,19,51,1,1,163000670,Alan Mycroft,0,-0.28483515347642424,-0.0717508467124003
+1578878051,Type-Based Decompilation (or Program Reconstruction via Type Reconstruction),1999,9,44,1,1,163000670,Alan Mycroft,0,0.13025578316802844,0.015061369498061585
+1908424597,On the Relationship of CCS and Petri Nets,1984,10,67,2,0,20849977,Ursula Goltz,0,-0.6145641800565601,-0.41588955125212745
+1815928176,The semantic marriage of monads and effects,2014,10,9,1,1,163000670,Alan Mycroft,0,-0.22960141548975907,0.11626027843657778
+1853445766,Hardware/Software Co-Design Using Functional Languages,2001,20,29,1,1,163000670,Alan Mycroft,0,-0.014282794143724575,-0.12966758870812184
+1608643563,A Higher-Level Language for Hardware Synthesis,2001,15,23,1,1,163000670,Alan Mycroft,0,-1.1219513930572766,-0.2781275481385447
+1581908531,Kilim Isolation-Typed Actors for Java,2008,39,181,1,1,163000670,Alan Mycroft,0,-1.4519544465164969,0.09765378082249082
+1830196027,Coeffects unified static analysis of context-dependence,2013,16,21,1,1,163000670,Alan Mycroft,0,-0.10555206867816447,0.0016252369950115197
+1964291953,Ypnos declarative parallel structured grid programming,2010,23,28,1,1,163000670,Alan Mycroft,0,-0.522503190487743,0.21974736671172632
+1593749420,Strictness meets data flow,2010,11,2,1,1,163000670,Alan Mycroft,0,-0.5267919071737427,-0.19877784897907835
+1978537577,Higher-level techniques for hardware description and synthesis,2003,30,13,1,1,163000670,Alan Mycroft,0,-0.19131442881613736,-0.1509775498832448
+1966847822,Its Only Illegal If You Get Caught Breaking Invariants and Getting Away with It,2014,4,0,1,1,163000670,Alan Mycroft,0,-0.1557565786194476,0.4827664620792295
+1986485435,Bit-level partial evaluation of synchronous circuits,2006,21,5,1,1,163000670,Alan Mycroft,0,-0.20345791664361085,0.23863084711251153
+2008710384,Programming language evolution via source code query languages,2012,9,13,1,1,163000670,Alan Mycroft,0,2.179200144934444,-0.42307385930907426
+1997249992,Untyped strictness analysis,1995,6,1,1,1,163000670,Alan Mycroft,0,-1.1518885083482564,0.2614732790601257
+2000759575,Efficient and Correct Stencil Computation via Pattern Matching and Static Typing,2011,15,2,1,1,163000670,Alan Mycroft,0,-1.0819810648245198,-0.01658569048154322
+2006068052,Programming language evolution workshop report,2014,7,5,1,1,163000670,Alan Mycroft,0,1.532008054337113,0.38743609037326676
+2018141726,Source-code queries with graph databases-with application to programming language usage and evolution,2015,18,23,1,1,163000670,Alan Mycroft,0,0.5060670981189069,-0.2747186283230152
+2054934207,On integration of programming paradigms,1996,5,4,1,1,163000670,Alan Mycroft,0,0.7089453909997255,-0.30214225734797645
+2042714874,Abstract interpretation of combinational asynchronous circuits,2007,16,8,1,1,163000670,Alan Mycroft,0,-0.36669543441347335,0.044849700580217124
+2038024268,Exstatic a generic static checker applied to documentation systems,2004,11,7,1,1,163000670,Alan Mycroft,0,0.08965240164632803,0.033436051254007455
+2038037493,A polymorphic type system for PROLOG,1984,5,247,1,1,163000670,Alan Mycroft,0,-0.47354616579967335,0.06733205332760923
+2048693719,Rendezvous A search engine for binary code,2013,25,61,1,1,163000670,Alan Mycroft,0,0.4739482572895438,-0.3108216608797633
+2095180577,Jones optimality and hardware virtualization a report on work in progress,2008,24,6,1,1,163000670,Alan Mycroft,0,-0.3217105315679236,-0.2051778105295221
+2139156407,The cache behaviour of large lazy functional programs on stock hardware,2003,11,18,1,1,163000670,Alan Mycroft,0,-0.505683416677957,-0.003387749562058033
+2106812520,Critical-Path-Guided Interactive Parallelisation,2011,26,1,1,1,163000670,Alan Mycroft,0,-0.018398184408746854,-0.2800527709030387
+2137282578,Coeffects a calculus of context-dependent computation,2014,20,19,1,1,163000670,Alan Mycroft,0,-0.30660188189262294,-0.08681175288112893
+2111049501,Comparing type-based and proof-directed decompilation,2001,8,11,1,1,163000670,Alan Mycroft,0,-0.2109377291287974,-0.3094835961039672
+2131767818,Stream processing hardware from functional language specifications,2003,20,15,1,1,163000670,Alan Mycroft,0,0.7642219149736845,0.33139151526818167
+2150423684,Extending monads with pattern matching,2012,29,9,1,1,163000670,Alan Mycroft,0,-0.2441780329101731,0.017883871851878973
+2161518990,Aliasing visions ownership and location,2013,4,0,1,1,163000670,Alan Mycroft,0,0.0176274387439286,0.3343512547355889
+2158639002,Schedulability Analysis Abstractions for Safety Critical Java,2012,39,3,1,1,163000670,Alan Mycroft,0,0.05499029879224771,-0.0789893331788157
+2152960795,Estimating and exploiting potential parallelism by source-level dependence profiling,2010,27,17,1,1,163000670,Alan Mycroft,0,-0.4660501668405711,-0.29965458806462514
+2329854964,Proceedings Third Workshop on Programming Language Approaches to Concurrency and communication-cEntric Software Preface,2011,0,1,1,1,163000670,Alan Mycroft,0,0.21403525459509368,-0.20178447295886934
+2333548922,Hardware Synthesis Using SAFL and Application to Processor Design (Invited Talk),2001,22,1,1,1,163000670,Alan Mycroft,0,-0.42253023018122243,-0.192049387502744
+2407339837,Minimal Function Graphs are not Instrumented,1992,6,6,1,1,163000670,Alan Mycroft,0,-0.0183024870971178,0.0680118484996777
+2403803386,Liveness-Based pointer analysis,2012,31,17,1,1,163000670,Alan Mycroft,0,-0.6843708103060824,0.3468361443922824
+2496594956,System tests from unit tests,2010,15,0,1,1,163000670,Alan Mycroft,0,1.3222652645255397,-0.46910399655355667
+2496978023,Aliasing contracts a dynamic approach to alias protection,2013,19,1,1,1,163000670,Alan Mycroft,0,-0.04543537125647495,-0.20680990302609645
+2491187173,Java 8 in Action Lambdas Streams and Functional-Style Programming,2014,0,8,1,1,163000670,Alan Mycroft,0,-2.991830041831432,0.33331948865757355
+2520402741,Haskell is not not ML,2006,0,0,1,1,163000670,Alan Mycroft,0,-0.26660308430137675,0.2943061009954211
+2563592207,Polymorphism subtyping and type inference in MLsub,2017,22,13,1,1,163000670,Alan Mycroft,0,-0.37017763408062754,0.10030688866403092
+2587513425,PLACES10 The 3rd Workshop on Programmng Language Approaches to concurrency and Communication-Centric Software,2013,2,0,1,1,163000670,Alan Mycroft,0,0.21403525459509368,-0.20178447295886934
+2927060693,Extended Call-by-Push-Value Reasoning About Effectful Programs and Evaluation Order,2019,33,2,1,1,163000670,Alan Mycroft,0,1.0595373371884833,-1.3430158311630482
+2913633626,Logical Testing,2009,13,4,1,1,163000670,Alan Mycroft,0,0.3684183490187706,-0.868627566814684
+2911485256,Proceedings of the 15th international conference on Compiler Construction,2006,0,0,1,1,163000670,Alan Mycroft,0,-0.23680382996095975,0.883709167173769
+2950070360,Mapping the Join Calculus to Heterogeneous Hardware,2013,7,0,1,1,163000670,Alan Mycroft,0,-0.5490197419582756,-1.0528954133949715
+2944061328,Modern Java in action Lambdas streams reactive and functional programming,2019,0,0,1,1,163000670,Alan Mycroft,0,-0.6031019833868906,-0.025395417077003532
+2962860872,Mapping the Join Calculus to Heterogeneous Hardware,2012,8,2,1,1,163000670,Alan Mycroft,0,-0.4713745383918727,-0.9312915795313266
+2950803215,Flow- and Context-Sensitive Points-to Analysis using Generalized Points-to Graphs,2016,27,0,1,1,163000670,Alan Mycroft,0,-0.307277553824844,0.05874334367677018
+2963752158,Efficient and Correct Stencil Computation via Pattern Matching and Static Typing,2011,0,0,1,1,163000670,Alan Mycroft,0,-1.027989430347936,-0.25861795167925855
+2986480712,A study on abstract interpretation and â€œvalidating microcode algebraicallyâ€,1986,0,3,1,1,163000670,Alan Mycroft,0,-0.2889432826686928,0.22052122636285354
+2977505753,The Next 7000 Programming Languages,2019,41,4,1,1,163000670,Alan Mycroft,0,-0.1164726804531344,0.019252515865476
+2992321165,Modern Java in Action Lambdas streams functional and reactive programming,2018,0,0,1,1,163000670,Alan Mycroft,0,0.8867911422114716,0.3514583171158134
+2989886155,A Polymorphic Type System for Prolog,1983,0,9,1,1,163000670,Alan Mycroft,0,-0.39647125653309206,-0.0677617054234385
+3016643650,An Efficient and Scalable Platform for Java Source Code Analysis Using Overlaid Graph Representations,2020,0,0,1,1,163000670,Alan Mycroft,0,0.7923082137747638,-0.597395041645451

@@ -1,0 +1,84 @@
+141226124,Digging into ip flow records with a visual kernel method,2011,13,1,1,0,2000619065,Radu State,0,0.02080662431885795,0.3505429208334274
+83428783,Proactive discovery of phishing related domain names,2012,27,29,1,0,2000619065,Radu State,0,-0.0922726167567914,0.3939686701371476
+334668456,Comparison of low-latency anonymous communication systems practical usage and performance,2011,23,7,1,0,2000619065,Radu State,0,0.05217931828688649,-0.34164062428597397
+782548331,Exploring IoT Protocols Through the Information-Centric Networkingâ€™s Lens,2015,15,1,2,0,715896484,Olivier Festor,0,0.1822731046919942,0.706777145399998
+1525658994,Securing application-level topology estimation networks facing the frog-boiling attack,2011,37,6,2,0,316622382,Cristina Nita Rotaru,0,-0.00148651748823464,0.03171570731677207
+1544800457,Malware Models for Network and Service Management,2007,8,1,2,0,715896484,Olivier Festor,0,0.12944494320330083,0.8222090776109727
+1508823302,Self Adaptive High Interaction Honeypots Driven by Game Theory,2009,20,37,2,0,154210903,Alexandre Dulaunoy,0,0.7439262335644424,0.6865514109036815
+1553880148,Mitigating Mimicry Attacks Against the Session Initiation Protocol,2015,44,3,1,0,2000619065,Radu State,0,0.13679434731489165,0.6751406926737795
+1555085660,Automated Behavioral Fingerprinting,2009,36,14,3,0,715896484,Olivier Festor,0,0.6225675638185036,-0.5738813886047684
+1528220385,ASMATRA Ranking ASs providing transit service to malware hosters,2013,17,11,2,0,154210903,Alexandre Dulaunoy,0,0.3208819046896331,1.108022652380699
+1519361431,Monitoring SIP Traffic Using Support Vector Machines,2008,23,50,2,0,715896484,Olivier Festor,0,0.13679434731489165,0.6751406926737795
+1511114457,A SMIng based policy access control for SNMPv3,2003,13,0,3,0,75260623,Emmanuel Nataf,0,-0.023550276898621297,0.7099097923564667
+1565387549,Role-Based Access Control for XML Enabled Management Gateways,2004,17,4,3,0,238778836,Vincent Cridlig,0,0.028296064741678534,1.2100048849706113
+1548163515,Advanced Network Fingerprinting,2008,22,18,3,0,715896484,Olivier Festor,0,0.13679434731489165,0.6751406926737795
+1504192099,Labeled VoIP data-set for intrusion detection evaluation,2010,15,12,2,0,715896484,Olivier Festor,0,-0.049150174712091356,0.7610252251326983
+1667169454,Intrusion detection mechanisms for VoIP applications,2006,8,24,2,0,715896484,Olivier Festor,0,1.377127683293071,1.0900095934062042
+1830262038,Instant degradation of anonymity in low-latency anonymisation systems,2012,20,0,1,0,2000619065,Radu State,0,-0.16420021596708323,0.32292378428885316
+1969185196,Using game theory to configure P2P SIP,2009,26,5,1,0,2000619065,Radu State,0,0.0040557659796233,0.2757546058061082
+1990985473,PeekKernelFlows peeking into IP flows,2010,11,6,2,0,154210903,Alexandre Dulaunoy,0,0.02080662431885795,0.3505429208334274
+1991067654,Assessing the security of VoIP Services,2007,9,20,1,0,2000619065,Radu State,0,0.0040557659796233,0.2757546058061082
+1991226808,Analysis of large call data records with big data,2014,11,2,2,0,232992730,Veena B. Mendiratta,0,0.0040557659796233,0.2757546058061082
+1998965451,KiF a stateful SIP fuzzer,2007,10,60,3,0,715896484,Olivier Festor,0,-0.219890290551219,1.9533529245099972
+1999075495,Defensive configuration with game theory,2009,11,1,1,0,2000619065,Radu State,0,0.0040557659796233,0.2757546058061082
+2004697562,Classification of Log Files with Limited Labeled Data,2013,13,2,1,0,2000619065,Radu State,0,-0.1112880672739179,0.3275403405410478
+2031922305,Breaking Tor Anonymity with Game Theory and Data Mining,2010,20,2,2,0,154210903,Alexandre Dulaunoy,0,-0.16420021596708323,0.32292378428885316
+2026973889,A Forensic Analysis of Android Malware -- How is Malware Written and How it Could Be Detected ,2014,25,28,4,0,314075480,Kevin Allix,0,0.37699566112301836,1.5361585198539813
+2032858323,Aggregated representations and metrics for scalable flow analysis,2013,28,1,1,0,2000619065,Radu State,0,0.941872630663631,-0.162814781267628
+2045759747,Improving Fuzz Testing Using Game Theory,2010,11,5,3,0,715896484,Olivier Festor,0,0.0040557659796233,0.2757546058061082
+2060106139,Adaptive and self-configurable honeypots,2011,20,12,2,0,154210903,Alexandre Dulaunoy,0,0.7439262335644424,0.6865514109036815
+2067210372,Spatial and temporal analysis of Twitter a tale of two countries,2014,15,1,1,0,2000619065,Radu State,0,0.0040557659796233,0.2757546058061082
+2076444536,A model for checking consistency in access control policies for network management,2007,12,1,2,0,238778836,Vincent Cridlig,0,-0.3861091850755122,0.9314109198821364
+2071286281,Botnets IRC et P2P pour une supervision Ã  large Ã©chelle,2009,21,0,2,0,715896484,Olivier Festor,0,0.0040557659796233,0.2757546058061082
+2099425933,Malware behaviour analysis,2008,17,84,2,0,154210903,Alexandre Dulaunoy,0,-0.334333390620263,1.1326084744453335
+2090997269,A Framework for Monitoring SIP Enterprise Networks,2010,15,5,2,0,715896484,Olivier Festor,0,0.3259332239481683,0.5745734317069635
+2082495330,Securing Virtual Coordinates by Enforcing Physical Laws,2012,33,5,2,0,316622382,Cristina Nita Rotaru,0,0.0040557659796233,0.2757546058061082
+2097925524,VoIP Malware Attack Tool &amp; Attack Scenarios,2009,22,19,2,0,715896484,Olivier Festor,0,-0.08303513098275792,0.37599810503631864
+2141198770,Using opcode-sequences to detect malicious Android applications,2014,24,22,2,0,314075480,Kevin Allix,0,0.10713715795680093,0.90873796467242
+2112675663,Heliza talking dirty to the attackers,2011,33,6,2,0,154210903,Alexandre Dulaunoy,0,0.02080662431885795,0.3505429208334274
+2136863432,Monitoring Architecture for Lawful Interception in VoIP Networks,2007,11,30,3,0,219021045,B. Karpagavinayagam,0,0.3762977653650511,1.3795224063933595
+2107392189,Breaking Tor anonymity with game theory and data mining,2012,21,6,2,0,154210903,Alexandre Dulaunoy,0,-0.16420021596708323,0.32292378428885316
+2119366321,Malware a future framework for device network and service management,2007,22,4,2,0,715896484,Olivier Festor,0,0.05940095047987125,0.6960502266457337
+2137026139,VoIP Honeypot Architecture,2007,11,33,2,0,715896484,Olivier Festor,0,0.10371539242929195,0.5918708737361019
+2119382651,An integrated security framework for XML based management,2005,21,12,2,0,238778836,Vincent Cridlig,0,0.5272885130629866,1.7597418935226479
+2110675786,BotTrack tracking botnets using NetFlow and PageRank,2011,41,97,1,0,2000619065,Radu State,0,-0.02012164287757069,0.6074328322815905
+2125514077,Holistic VoIP intrusion detection and prevention system,2007,8,53,2,0,255116046,Saverio Niccolini,0,0.02080662431885795,0.3505429208334274
+2110896591,DANAK Finding the odd ,2011,20,7,1,0,2000619065,Radu State,0,0.3259332239481683,0.5745734317069635
+2137644153,Large-scale machine learning-based malware detection confronting the &quot;10-fold cross validation&quot; scheme with reality,2014,9,14,4,0,314075480,Kevin Allix,0,0.05940095047987125,0.6960502266457337
+2171375599,VoIP security assessment methods and tools,2006,7,16,3,0,238778836,Vincent Cridlig,0,-0.4955545753673323,1.8833009271676855
+2154120977,Role-Based Access Control for XML enabled multi-protocol management gateways,2006,28,4,2,0,238778836,Vincent Cridlig,0,-0.3357255764570429,1.619038235796242
+2148314989,Advanced Detection Tool for PDF Threats,2013,25,0,1,0,2000619065,Radu State,0,-0.062381790079658626,0.6663522020135398
+2166616122,A Management Platform for Tracking Cyber Predators in Peer-to-Peer Networks,2007,16,7,2,0,211014461,RÃ©mi Badonnel,0,0.02080662431885795,0.3505429208334274
+2157607844,Advanced fuzzing in the VoIP space,2010,8,7,3,0,715896484,Olivier Festor,0,-1.4906487443016354,2.505157669622591
+2160862335,Abusing SIP Authentication,2008,14,24,2,0,1277437070,Humberto Abdelnur,0,-0.7952488257210746,-0.40404386219511695
+2229899994,A policy-based per-flow mobility management system design,2015,15,5,1,0,2000619065,Radu State,0,0.0040557659796233,0.2757546058061082
+2276716805,A characterization of short-video and distributed hot-spot activity in Instagram,2015,12,0,2,0,728967368,Bruce Cilli,0,0.0040557659796233,0.2757546058061082
+2399124541,Torinj Automated Exploitation Malware Targeting Tor Users,2012,4,0,2,0,154210903,Alexandre Dulaunoy,0,0.05940095047987125,0.6960502266457337
+2396782258,Newton Meets Vivaldi Using Physical Laws to Secure Virtual Coordinate Systems,2012,3,0,2,0,316622382,Cristina Nita Rotaru,0,0.0040557659796233,0.2757546058061082
+2400257698,RAMSES Revealing Android Malware Through String Extraction and Selection,2014,11,2,2,0,1994857115,Lautaro Dolberg,0,-0.28071484656264584,1.2804470890791197
+2488160148,Newton meets Vivaldi securing virtual coordinates by enforcing physical laws,2012,0,0,2,0,316622382,Cristina Nita Rotaru,0,0.0040557659796233,0.2757546058061082
+2530711352,Fuzzing for vulnerabilities in the VoIP space,2009,0,0,3,0,715896484,Olivier Festor,0,0.0040557659796233,0.2757546058061082
+2626867662,Automated Labeling of Unknown Contracts in Ethereum,2017,9,15,1,0,2000619065,Radu State,0,0.09652297960704104,0.6861533821963598
+2773752798,Finding Suspicious Activities in Financial Transactions and Distributed Ledgers,2017,17,5,1,0,2000619065,Radu State,0,0.0040557659796233,0.2757546058061082
+2744387473,Fuzzing for vulnerabilities in the VoIP space,2008,0,2,3,0,715896484,Olivier Festor,0,-1.4906487443016354,2.505157669622591
+2765918028,Advanced interest flooding attacks in named-data networking,2017,22,7,2,0,715896484,Olivier Festor,0,0.0276768635562398,0.43821742870159186
+2768896713,BotGM Unsupervised graph mining to detect botnets in traffic flows,2017,28,4,2,0,119228125,Abdelkader Lahmadi,0,0.3259332239481683,0.5745734317069635
+2771922044,ChainGuard â€” A firewall for blockchain applications using SDN with OpenFlow,2017,10,11,1,0,2000619065,Radu State,0,-0.05015762903067843,0.7151429680959767
+2780573978,VSOC - A Virtual Security Operating Center,2017,14,1,2,0,1173086878,Raimondas Sasnauskas,0,0.0040557659796233,0.2757546058061082
+2844600357,Towards a management plane for smart contracts Ethereum case study,2018,5,0,2,0,119228125,Abdelkader Lahmadi,0,0.8387969274355495,0.7087710036638809
+2886651822,Research topics related to real-time communications over 5G networks,2018,7,0,1,0,2000619065,Radu State,0,0.03857885209080565,0.668590409100547
+2915482584,The Art of The Scam Demystifying Honeypots in Ethereum Smart Contracts,2019,30,1,1,0,2000619065,Radu State,0,0.03823839561323463,0.5875040180206136
+2905642554,A Tale of Location-Based User Authentication,2019,8,1,1,0,2000619065,Radu State,0,-0.630894439180718,-0.04567668580264762
+2907108452,BlockPGP A Blockchain-Based Framework for PGP Key Servers,2018,13,1,1,0,2000619065,Radu State,0,0.1736262209132603,-1.7736977289724358
+2908007588,Osiris Hunting for Integer Bugs in Ethereum Smart Contracts,2018,16,32,1,0,2000619065,Radu State,0,0.0040557659796233,0.2757546058061082
+2935116278,ROSploit Cybersecurity Tool for ROS,2019,4,2,1,0,2000619065,Radu State,0,-0.09599616327697101,0.06312598316488381
+2955802910,Lightning Network A Comparative Review of Transaction Fees and Data Analysis,2019,6,3,1,0,2000619065,Radu State,0,0.0040557659796233,0.2757546058061082
+2953038708,Demo Blockchain for the Simplification and Automation of KYC Result Sharing,2019,2,0,1,0,2000619065,Radu State,0,0.008667128134915136,0.8270819323693064
+2979190595,A Data Science Approach for Honeypot Detection in Ethereum,2019,18,2,1,0,2000619065,Radu State,0,0.02080662431885795,0.3505429208334274
+2964631013,The Art of The Scam Demystifying Honeypots in Ethereum Smart Contracts,2019,0,8,1,0,2000619065,Radu State,0,0.02080662431885795,0.3505429208334274
+2983070687,Feasibility of Stellar as a Blockchain-Based Micropayment System,2019,13,0,1,0,2000619065,Radu State,0,-0.6921874003673086,0.7769180553978389
+2974509235,ROS-Defender SDN-Based Security Policy Enforcement for Robotic Applications,2019,13,2,2,0,316622382,Cristina Nita Rotaru,0,-0.1112880672739179,0.3275403405410478
+2966046630,Whispering Botnet Command and Control Instructions,2019,13,2,1,0,2000619065,Radu State,0,0.31862158801175877,-0.1313990371498923
+3011131860,Sluggish Mining Profiting from the Verifiers Dilemma,2019,12,0,1,0,2000619065,Radu State,0,-1.0748320696519569,0.6346639768992652
+3026461960,Towards Smart Hybrid Fuzzing for Smart Contracts,2020,26,0,1,0,2000619065,Radu State,0,0.7100519011056311,0.7891553277891176
+3006088590,Mobile App to SGX Enclave Secure Channel,2019,12,0,2,0,263168671,Cyril Cassagnes,0,0.08865466870199727,-0.19876351658744648

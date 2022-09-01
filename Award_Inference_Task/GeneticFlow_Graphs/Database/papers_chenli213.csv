@@ -1,0 +1,70 @@
+71244820,Record Linkage A 10-Year Retrospective,2013,31,1,3,0.0,2201039448,Sharad Mehrotra,0,-0.0041099411153885,0.0447066884760059
+126802472,Search-As-You-Type Opportunities and Challenges,2010,11,1,2,0.752688,2171804313,Guoliang Li,0,-0.0041099411153885,0.0447066884760059
+9222357,Query processing and optimization in information-integration systems,2001,0,4,2,0.0,2277461350,Jeffrey D. Ullmann,0,0.1465802976564385,0.04767506091664211
+181950591,Communication-Efficient Query Answering with Quality Guarantees in Client-Server Applications,2007,11,0,2,0.0,2116861371,Avigdor Gal,0,-0.021708025875398877,0.1882374103666417
+1551780044,The flamingo software package on approximate string queries,2011,0,0,1,1.0,2589970869,Chen Li,0,-0.0041099411153885,0.0447066884760059
+1511116334,Supporting keyword queries on structured databases with limited search interfaces,2008,16,0,3,0.0,1982100442,Nurcan Yuruk,0,0.12628174114238816,0.0039009070058818006
+1556891773,Minimizing Data-Communication Costs by Decomposing Query Results in Client-Server Environments,2003,22,1,3,0.322581,1983031712,Rada Chirkova,0,-0.0041099411153885,0.0447066884760059
+1495553750,Secure XML publishing without information leakage in the presence of data inference,2004,24,58,2,1.0,2109336725,Xiaochun Yang,0,2.7496724766253076,-0.9630850089992686
+1587882401,Fuzzy keyword search on spatial data,2010,4,7,2,1.0,1273370749,Sattam Alsubaiee,0,-0.331157261929354,-0.16512333473426355
+1589259707,Protecting individual information against inference attacks in data publishing,2007,15,13,3,1.0,2109336725,Xiaochun Yang,0,-0.0041099411153885,0.0447066884760059
+1584916681,On Containment of Conjunctive Queries with Arithmetic Comparisons,2004,22,26,3,1.0,2022488008,Foto N. Afrati,0,1.1651919570274625,0.23282016599569924
+1603729374,Location-based instant search,2011,27,6,2,1.0,2119737658,Shengyue Ji,0,-0.331157261929354,-0.16512333473426355
+1970660119,LSM-Based Storage and Indexing An Old Idea with Timely Benefits,2015,8,8,2,0.0,2157114695,Michael J. Carey,0,0.3891290359989206,0.1028313651677337
+1984979859,ASTERIX an open source system for Big Data management and analysis (demo),2012,7,21,14,1.0,290709374,Zachary Heilbron,0,0.4965089132251304,0.46477134330964087
+2027763082,Generating efficient plans for queries using views,2001,30,60,3,1.0,2022488008,Foto N. Afrati,0,0.0621125926555395,-0.23820600003150616
+2024651132,Boosting the Quality of Approximate String Matching by Synonyms,2015,36,7,5,0.0893329,2108677686,Jiaheng Lu,0,-0.0041099411153885,0.0447066884760059
+2018312189,Supporting Search-As-You-Type Using SQL in Databases,2013,51,23,3,0.0493668,1995232797,Jianhua Feng,0,0.8872972557081974,0.17935563450451925
+2013112375,Computing complete answers to queries in the presence of limited access patterns,2003,52,67,1,1.0,2589970869,Chen Li,0,0.8316634669267691,0.23759495441992062
+2015159801,Quality-Aware Retrieval of Data Objects from Autonomous Sources for Web-Based Repositories,2008,6,3,3,0.0,2115267903,Houtan Shirani Mehr,0,0.0008113036943304952,0.025165803215978794
+2043508455,Executing SQL over encrypted data in the database-service-provider model,2002,12,1066,4,0.249125,2182302550,Hakan Hacigumus,0,0.044859856903840555,0.012551371775477651
+2049236082,Adaptive-sampling algorithms for answering aggregation queries on Web sites,2008,18,9,3,0.81809,2022488008,Foto N. Afrati,0,-0.0041099411153885,0.0447066884760059
+2052720399,Efficient instant-fuzzy search with proximity ranking,2014,33,13,3,1.0,1577997,Inci Cetindil,0,0.0908845357243609,0.31128747720343375
+2044163187,String similarity measures and joins with synonyms,2013,37,39,5,0.0922085,2108677686,Jiaheng Lu,0,-0.0041099411153885,0.0447066884760059
+2051228475,Capability based mediation in TSIMMIS,1998,12,105,7,0.0,58344957,Yannis Papakonstantinou,0,-0.0041099411153885,0.0447066884760059
+2040818482,Efficient direct search on compressed genomic data,2013,19,23,4,0.0,2107390275,Xiaohui Xie,0,-0.0041099411153885,0.0447066884760059
+2039532968,Answering queries using materialized views with minimum size,2006,45,21,3,0.322581,1983031712,Rada Chirkova,0,1.2301882683569065,0.28577846760676545
+2073540046,Efficient type-ahead search on relational data a TASTIER approach,2009,36,99,4,0.125,1995232797,Jianhua Feng,0,0.8809340701863815,0.11633144593696097
+2060579849,Computing capabilities of mediators,1999,10,66,4,0.0,237419955,Hector Garcia Molina,0,-0.0041099411153885,0.0447066884760059
+2078752758,Answering queries with useful bindings,2001,45,43,2,1.0,2108840372,Edward Y. Chang,0,0.0908845357243609,0.31128747720343375
+2089326542,Efficient approximate search on string collections,2009,29,39,2,0.0,50097054,Marios Hadjieleftheriou,0,-0.0041099411153885,0.0447066884760059
+2100235843,Relaxing join and selection queries,2006,31,97,3,0.36622,121171588,Anthony K. H. Tung,0,0.014532710543751099,0.030944858938630852
+2097745829,Inside &quot;Big Data management&quot; ogres onions or parfaits ,2012,36,116,3,0.0,1900516000,Vinayak Borkar,0,-0.1364661768638118,1.0230455089978232
+2097880962,Selectivity estimation for fuzzy string predicates in large data sets,2005,35,46,2,1.0,2437892641,Liang Jin,0,0.04400201932631986,-0.23664984511903772
+2120436863,Data exchange in the presence of arithmetic comparisons,2008,40,21,3,0.0,1963795488,Vassia Pavlaki,0,0.6566459209634038,0.17320615426912206
+2135503940,Processing Spatial-Keyword (SK) Queries in Geographic Information Retrieval (GIR) Systems,2007,13,165,3,1.0,2133343013,Ramaswamy Hariharan,0,-0.4197151661071337,-0.42589767901227754
+2112064847,Indexing mixed types for approximate retrieval,2005,22,23,4,0.36622,121171588,Anthony K. H. Tung,0,0.26489219032540695,-0.8669751961591046
+2106112436,Test Of Time Award Talk Executing SQL over Encrypted Data in the Database-Service-Provider Model,2012,0,0,4,0.249125,2182302550,Hakan Hacigumus,0,0.044859856903840555,0.012551371775477651
+2129750215,Efficient fuzzy full-text type-ahead search,2011,67,41,4,0.0767544,1995232797,Jianhua Feng,0,-0.06857588116688601,0.2985486159379606
+2115405571,Efficient fuzzy type-ahead search in TASTIER,2010,8,10,5,0.125,1995232797,Jianhua Feng,0,-0.3931676839508122,0.1627112286344968
+2112912553,Efficient record linkage in large data sets,2003,28,167,3,0.311155,2201039448,Sharad Mehrotra,0,0.3046695554035933,-1.086310492521508
+2136716899,SEPIA estimating selectivities of approximate string predicates in large Databases,2008,43,11,2,1.0,2437892641,Liang Jin,0,0.04400201932631986,-0.23664984511903772
+2130825214,Answering approximate string queries on large data sets using external memory,2011,20,21,3,1.0,1993931556,Alexander Behm,0,0.04941534788803445,-0.3635662823791845
+2107293766,Space-Constrained Gram-Based Indexing for Efficient Approximate String Search,2009,31,78,4,1.0,1993931556,Alexander Behm,0,0.0908845357243609,0.31128747720343375
+2123020735,Cost-based variable-length-gram selection for string collections to support approximate queries efficiently,2008,22,81,2,1.0,2109336725,Xiaochun Yang,0,-0.0041099411153885,0.0447066884760059
+2147320921,Quality-driven approximate methods for integrating GIS data,2005,14,9,3,1.0,2133343013,Ramaswamy Hariharan,0,-0.0041099411153885,0.0447066884760059
+2169151914,XGuard a system for publishing XML documents without information leakage in the presence of data inference,2005,5,4,3,1.0,2109336725,Xiaochun Yang,0,2.0554189412223662,-0.8265362737179773
+2157103624,Seaform search-as-you-type in forms,2010,6,10,3,0.752688,2171804313,Guoliang Li,0,0.0908845357243609,0.31128747720343375
+2160305607,Best-Effort Top-k Query Processing Under Budgetary Constraints,2009,20,27,5,0.0,514836396,Gerhard Weikum,0,-0.0041099411153885,0.0447066884760059
+2154449382,Supporting Approximate Similarity Queries with Quality Guarantees in P2P Systems,2006,21,0,5,0.0,2027320564,Iosif Lazaridis,0,-0.0041099411153885,0.0447066884760059
+2151930506,Efficient parallel set-similarity joins using MapReduce,2010,23,382,2,0.0,2157114695,Michael J. Carey,0,-0.0041099411153885,0.0447066884760059
+2158051918,Hybrid indexing and seamless ranking of spatial and textual features of web documents,2010,17,40,3,0.0,240820708,Cyrus Shahabi,0,-1.6621131535149365,-1.2809551560155517
+2161166910,Report on the First International VLDB Workshop on Clean Databases (CleanDB 2006),2007,10,0,2,0.0,2141172858,Dongwon Lee,0,-0.25609130579317646,0.2785941556746898
+2170798490,Improving regular-expression matching on strings using negative factors,2013,14,8,4,0.727197,2109336725,Xiaochun Yang,0,-0.0041099411153885,0.0447066884760059
+2170840886,RACCOON a peer-based system for data integration and sharing,2004,5,7,3,0.0,2102964831,Jia Li,0,0.20188350354841872,0.1596231813850286
+2161787409,Query planning with limited source capabilities,2000,25,49,2,1.0,2108840372,Edward Y. Chang,0,0.0908845357243609,0.31128747720343375
+2210479044,Storage management in AsterixDB,2014,20,32,7,0.0,96541041,Markus Dreseler,0,-0.14478621392695415,0.5632520479219368
+2265297126,AsterixDB a scalable open source BDMS,2014,13,108,20,1.0,1577997,Inci Cetindil,0,0.6486945947895747,0.2465033166861307
+2302109632,Negative Factor Improving Regular-Expression Matching in Strings,2016,29,9,5,0.621139,2109336725,Xiaochun Yang,0,-0.0041099411153885,0.0447066884760059
+2404900000,Analysis of Instant Search Query Logs,2012,11,9,4,1.0,1577997,Inci Cetindil,0,-0.26064923455455846,0.4315435219240117
+2433194246,Hobbes3 Dynamic generation of variable-length signatures for efficient approximate subsequence mappings,2016,31,7,3,0.0,2107390275,Xiaohui Xie,0,-0.0041099411153885,0.0447066884760059
+2566901168,Special issue on best papers of VLDB 2015,2017,0,3,2,0.0,1963964406,Volker Markl,0,-0.25609130579317646,0.2785941556746898
+2586950140,Erratum to Special issue on best papers of VLDB 2015,2017,0,0,2,0.0,1963964406,Volker Markl,0,-0.25609130579317646,0.2785941556746898
+2615528297,A Comparative Study of Log-Structured Merge-Tree-Based Spatial Indexes for Big Data,2017,13,3,3,0.0,2100575058,Young Seok Kim,0,-0.06047232404221292,0.6176391458890252
+2616708197,A Demonstration of TextDB Declarative and Scalable Text Analytics on Large Data Sets,2017,1,1,1,1.0,2589970869,Chen Li,0,1.204501787921431,0.29860165833699415
+2791181585,Supporting Similarity Queries in Apache AsterixDB,2018,0,1,5,1.0,1577997,Inci Cetindil,0,-0.0041099411153885,0.0447066884760059
+2911282291,Session details Industrial session 4 information integration collaboration &amp; visualization,2010,0,0,1,1.0,2589970869,Chen Li,0,0.17909671280723563,-0.09536223247761404
+2952834697,AsterixDB A Scalable Open Source BDMS,2014,16,0,20,1.0,1577997,Inci Cetindil,0,0.6486945947895747,0.2465033166861307
+2986888662,Synergy of Database Techniques and Machine Learning Models for String Similarity Search and Join,2019,14,2,2,0.0,2108677686,Jiaheng Lu,0,0.206001555170857,0.03474850732420785
+2980277947,RILCA Collecting and Analyzing User-Behavior Information in Instant Search Using Relational DBMS,2015,9,0,1,1.0,2589970869,Chen Li,0,1.204501787921431,0.29860165833699415
+3008676651,Robust and efficient memory management in Apache AsterixDB,2020,21,3,8,0.0,1900516000,Vinayak Borkar,0,-0.23024233734304553,1.145538233903514

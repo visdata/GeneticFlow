@@ -1,0 +1,118 @@
+88210245,Prospects for Scientific Computing in Polymorphic Object-Oriented Style,1999,14,10,2,1.0,270422400,Zoran Budimlic,0,0.9290057178395047,-1.0600710184177544
+22790051,Compilers languages and libraries,1998,0,9,1,1.0,2136496678,Ken Kennedy,0,-0.44869122900443015,-0.00015649039724540022
+143861075,Improving register allocation for subscripted variables (with retrospective),1990,14,3,2,1.0,2058669971,David Callahan,0,-0.9746484215062777,-0.25121667621969446
+198905876,Compiling almost-whole Java programs Research Articles,2005,0,0,2,1.0,270422400,Zoran Budimlic,0,-2.4357207340973215,0.3635180904910218
+132683325,Type-Based Speculative Specialization in a Telescoping Compiler for Matlab,2009,26,0,3,1.0,2013932858,Cheryl McCosh,0,-0.3850830774529862,0.13081796110171956
+1496901196,Scheduling Tasks to Maximize Usage of Aggregate Variables in Place,2009,14,8,8,1.0,270422400,Zoran Budimlic,0,-0.32804496643706044,-0.09229088203902423
+1526172497,Reducing and Vectorizing Procedures for Telescoping Languages,2002,21,13,2,1.0,2134167023,Arun Chauhan,0,-0.1671222150989398,-0.0038527498650238502
+1482871345,Dependence Analysis of Fortran90 Array Syntax,1996,0,13,2,1.0,2096417752,Gerald JÃ¼rgen Roth,0,0.06716661020164039,0.252763244358249
+1527927888,High performance Fortran 20,2001,20,3,1,1.0,2136496678,Ken Kennedy,0,-0.6659977700548785,-0.3116814639438284
+1494930385,Optimizing Compilers for Modern Architectures A Dependence-based Approach,2001,0,846,2,1.0,2100615644,John R. Allen,0,-0.6101831758642337,0.9047252877521789
+1486523481,Automatic Decomposition of Fortran Programs for Execution on Multiprocessors-Abstract,1987,0,1,1,1.0,2136496678,Ken Kennedy,0,-0.16795569340420236,0.051188248988237955
+1540063280,Automatic Data Layout for Distributed-Memory Machines in the D Programming Environment,1994,35,30,2,0.0,2118176015,Alan Carle,0,1.6380945782240457,0.6558314530147378
+1549417754,JaMake A Java Compiler Environment,2001,16,12,2,1.0,270422400,Zoran Budimlic,0,-3.1582227796572977,0.31136396768127084
+1540418512,Automatic Data Layout Using 0-1 Integer Programming,1994,23,89,1,1.0,2136496678,Ken Kennedy,0,0.5830595112846754,1.3091544208597161
+1576974478,An Overview of the Fortran D Programming System,1991,28,87,3,1.0,2047566528,Seema Hiranandani,0,0.30362196773510286,0.4322803534174147
+1841095583,Compiler Analysis for Irregular Problems in Fortran D,1992,13,74,2,0.0,2111158966,Joel H. Saltz,0,-1.012886075265394,-0.1873989187648043
+1814185998,Computer support for machine-independent parallel programming in Fortran D,1992,49,74,3,1.0,2047566528,Seema Hiranandani,0,0.2800417321048751,0.3591255591445826
+1963585620,SIGACT (Tutorial Session),1976,0,0,2,0.0,2123677036,Michael R. Harrison,0,-1.1464570139553047,0.010617111398702996
+1581280345,Optimizing Fortran 90 Shift Operations on Distributed-Memory Multicomputers,1995,17,6,2,1.0,2096417752,Gerald JÃ¼rgen Roth,0,-0.3722737214547102,0.027603667105503035
+1964145938,Relaxing SIMD control flow constraints using loop transformations,1992,0,25,1,1.0,2136496678,Ken Kennedy,0,-1.0957044719677416,0.35270055651707694
+1584317759,Interactive parallelization of numerical scientific programs,1989,0,14,2,1.0,2007412113,Vasanth Balasundaram,0,-0.4621240101177543,0.16706305821677725
+1593452414,PTOOL A SEMI-AUTOMATIC PARALLEL PROGRAMMING ASSISTANT,1986,0,53,2,1.0,2120751869,Randy Allen,0,-0.5015810934276894,0.4095359012177431
+1602625035,A Programming Environment for Fortran,1983,0,18,1,1.0,2136496678,Ken Kennedy,0,1.3567973053539433,0.09885051959259888
+1732462889,Keynote Address The Prospects For Architecture-independent Parallel Programming,1994,0,0,1,1.0,2136496678,Ken Kennedy,0,-0.1164726804531344,0.019252515865476
+1970470712,Parascope a Parallel Programming Environment,1988,25,64,2,1.0,2090753356,Linda Torczon,0,-0.3722737214547102,0.027603667105503035
+1972526164,Efficient computation of flow-insensitive interprocedural summary informationâ€”a correction,1988,7,23,1,1.0,2136496678,Ken Kennedy,0,-0.4476868650948577,-0.22235937785132315
+1967337968,Telescoping Languages,2001,42,65,4,0.0,288512535,Jack Dongarra,0,1.027198956227138,-0.11346790331214847
+1977955110,Editing and compiling whole programs,1987,0,13,2,1.0,2090753356,Linda Torczon,0,-0.1164726804531344,0.019252515865476
+1974470587,Compiling Fortran D for MIMD distributed-memory machines,1992,24,416,3,1.0,2047566528,Seema Hiranandani,0,-0.7584349965464787,-0.24093431287047112
+1981577498,Efficient computation of flow insensitive interprocedural summary information,1984,15,95,1,1.0,2136496678,Ken Kennedy,0,-0.839904277082263,-0.9630009039023969
+1989935593,Optimizing strategies for telescoping languages procedure strength reduction and procedure vectorization,2001,19,18,2,1.0,2134167023,Arun Chauhan,0,-0.23047909514471834,0.0352918860108348
+2004666386,Compiling almostâ€whole Java programs,2005,18,0,2,1.0,270422400,Zoran Budimlic,0,-2.797219967537455,0.3385198437133537
+2008117760,Automatic data layout for distributed-memory machines,1998,58,117,1,1.0,2136496678,Ken Kennedy,0,-0.44276832802769556,0.18004287026012175
+2015301146,Efficient recompilation of module interfaces in a software development environment,1987,12,24,1,1.0,2136496678,Ken Kennedy,0,-0.10726057843627183,-0.2889432012713005
+2031185609,Interprocedural transformations for parallel code generation,1991,32,45,3,1.0,2115847858,Kathryn S. McKinley,0,-0.15919756866850865,0.31164330222066017
+2010418442,Automatic loop interchange,1984,13,166,2,1.0,2100615644,John R. Allen,0,-0.556422015785494,0.08596522602871004
+2031804500,Experiences in data-parallel programming,1997,0,2,1,1.0,2136496678,Ken Kennedy,0,-0.3876011358308695,-0.25020997765888714
+2031880149,A balanced code placement framework,2000,48,4,1,1.0,2136496678,Ken Kennedy,0,-0.46275965878866365,0.5819046692391755
+2014311072,Use-definition chains with applications,1978,14,12,1,1.0,2136496678,Ken Kennedy,0,-0.6828552423360422,-0.7564030736593589
+2025168586,Automatic decomposition of scientific programs for parallel execution,1987,15,130,3,1.0,2058669971,David Callahan,0,-0.9857414213471106,0.0599585321808921
+2028809124,The impact of interprocedural analysis and optimization on the design of a software development environment,1985,20,12,2,1.0,2090753356,Linda Torczon,0,-1.9143568430812654,-1.0350636680716323
+2028998275,Theoretical results in compiler design and implementation (Tutorial Session),1976,0,0,2,0.0,2123677036,Michael R. Harrison,0,-0.9340870556724714,0.23797879644282696
+2032589851,1988 Gordon Bell Prize,1989,0,4,3,0.0,288512535,Jack Dongarra,0,-0.44869122900443015,-0.00015649039724540022
+2032926330,Applications of a graph grammar for program control flow analysis,1977,40,25,1,1.0,2136496678,Ken Kennedy,0,0.5620842537940636,-1.5474493689124216
+2036520154,Analysis of event synchronization in a parallel programming tool,1990,15,83,3,1.0,1984066730,Jaspal Subhlok,0,-0.5039779988114155,0.015332526576914418
+2038974895,Requirements for DataParallel Programming Environments,1994,32,29,6,1.0,1990061224,Vikram Adve,0,-0.23847978919910565,0.06844761036244014
+2047880614,Software for Supercomputers of the future,1992,19,8,1,1.0,2136496678,Ken Kennedy,0,-0.08901931690892413,-0.3244218719986673
+2051533028,An Integrated Compilation and Performance Analysis Environment for Data Parallel Programs,1995,9,96,3,1.0,1990061224,Vikram Adve,0,-0.5744828233912529,0.1910136212989675
+2043111441,Integrated Support for Task and Data Parallelism,1994,34,35,2,1.0,2105068653,Chau Wen Tseng,0,-0.7584349965464787,-0.24093431287047112
+2043347437,High Performance Fortran And Its Role In Architecture - Independent Parallel Programing,1994,0,0,1,1.0,2136496678,Ken Kennedy,0,-1.0166957511374592,-0.5136478684664588
+2069979189,A linear-time algorithm for computing the memory access sequence in data-parallel programs,1995,14,54,2,0.0,2097585265,Nenad Nedeljkovic,0,-1.3402790529370907,-0.6266997055519056
+2068274771,Analysis of interprocedural side effects in a parallel programming environment,2014,28,125,2,0.668389,2058669971,David Callahan,0,-0.9552387066803874,-0.11165418620445637
+2066757681,Interprocedural Compilation of Fortran D,1996,27,7,4,1.0,2047566528,Seema Hiranandani,0,-1.287661198011309,0.30880773759268326
+2073788202,Automatic generation of efficient evaluators for attribute grammars,1976,12,149,2,0.0,2101168351,Scott K. Warren,0,-2.8745433903687094,-1.128094429431706
+2056458773,Analysis and transformation in the ParaScope editor,1991,49,30,3,1.0,2105068653,Chau Wen Tseng,0,-0.16795569340420236,0.051188248988237955
+2072213119,The rise and fall of High Performance Fortran an historical object lesson,2007,68,87,1,1.0,2136496678,Ken Kennedy,0,-0.23492904655416189,-0.17208055125953559
+2072355121,A Parallel Programming Environment,1985,5,41,2,1.0,2100615644,John R. Allen,0,-0.3542458213991138,0.062790734395556
+2078113878,Practical dependence testing,1991,44,211,2,1.0,2105068653,Chau Wen Tseng,0,-0.7763631372560946,-1.2770436300289283
+2060630116,The impact of interprocedural analysis and optimization in the R n programming environment,1986,40,91,2,1.0,2090753356,Linda Torczon,0,-0.9244363022909851,-0.4986654492903219
+2057303472,Compiler optimizations for Fortran D on MIMD distributed-memory machines,1991,29,139,3,1.0,2047566528,Seema Hiranandani,0,-0.7500540340173604,-0.07183833126135511
+2076612761,Optimizing Java theory and practice,1997,0,47,2,1.0,270422400,Zoran Budimlic,0,-2.829782686082407,0.36910846205289305
+2064407505,The parascope editor an interactive parallel programming tool,1989,22,44,4,1.0,1984066730,Jaspal Subhlok,0,0.5343310296995402,-0.11958092134028957
+2078545092,Interprocedural optimization eliminating unnecessary recompilation,1986,21,39,2,1.0,2090753356,Linda Torczon,0,-2.14046282479125,0.22450369329918482
+2102430469,Interactive parallel programming using the ParaScope Editor,1991,48,100,3,1.0,2105068653,Chau Wen Tseng,0,0.30108855385147376,-0.03484894914840311
+2102582914,Improving register allocation for subscripted variables,1990,29,282,2,1.0,2058669971,David Callahan,0,-1.1461886441385931,-0.1250075587886295
+2078911294,Compilation techniques for block-cyclic distributions,1994,18,50,2,1.0,2047566528,Seema Hiranandani,0,-0.7584349965464787,-0.24093431287047112
+2097232815,Compiler technology for machine-independent parallel programming,1994,31,10,1,1.0,2136496678,Ken Kennedy,0,-1.5071547141267907,-0.05914186939249223
+2087852575,A Deterministic Attribute Grammar Evaluator Based on Dynamic Scheduling,1979,25,28,1,1.0,2136496678,Ken Kennedy,0,-1.9311916025536615,-0.7407039867868348
+2080906191,Software support for irregular and loosely synchronous problems,1992,32,38,3,1.0,2047566528,Seema Hiranandani,0,0.17628974465538808,-0.010929180623928302
+2088069604,The rise and fall of high performance Fortran,2011,16,15,1,1.0,2136496678,Ken Kennedy,0,-1.0166957511374592,-0.5136478684664588
+2103740741,Static Interprocedural Optimizations in Java,1998,16,5,2,1.0,270422400,Zoran Budimlic,0,-0.45918334016904866,-0.008067358830471648
+2103864764,Interprocedural compilation of Fortran D for MIMD distributed-memory machines,1992,28,66,4,1.0,2047566528,Seema Hiranandani,0,-1.3681481819587515,0.18325267513524862
+2093582488,Transforming loops to recursion for multi-level memory hierarchies,2000,28,52,2,0.857143,1990061224,Vikram Adve,0,-0.022175170104114524,0.7559302567225649
+2092309910,Compiling programs for distributed-memory multiprocessors,1988,19,289,2,1.0,2058669971,David Callahan,0,0.0010582363320797983,2.023586781537887
+2081823687,Almost-whole-program compilation,2002,9,2,2,1.0,270422400,Zoran Budimlic,0,-1.4109330139121004,-0.48203511828137807
+2134907441,Analysis and transformation in an interactive parallel programming tool,1993,35,17,3,1.0,2105068653,Chau Wen Tseng,0,-0.16795569340420236,0.051188248988237955
+2138007781,Improving the ratio of memory operations to floating-point operations in loops,1994,24,124,1,1.0,2136496678,Ken Kennedy,0,-1.4021733450740765,-0.38393282849594507
+2135144788,Telescoping Languages A System for Automatic Generation of Domain Languages,2005,62,59,3,1.0,2013932858,Cheryl McCosh,0,1.4171788642535963,-0.08632061355692645
+2141444698,Compiling Fortran 77D and 90D for MIMD distributed-memory machines,1992,32,30,2,1.0,2105068653,Chau Wen Tseng,0,-0.245491505807744,0.7256231686480811
+2120669594,An Interactive Environment for Data Partitioning and Distribution,1990,13,64,2,1.0,2007412113,Vasanth Balasundaram,0,0.4205691156978053,0.10784253293626556
+2123663453,Telescoping matlab for dsp applications,2004,50,5,2,1.0,2134167023,Arun Chauhan,0,-0.6789760531596071,0.1090480916703432
+2135736783,Automatic translation of FORTRAN programs to vector form,1987,16,612,2,1.0,2120751869,Randy Allen,0,-0.6397134983039321,-1.0319327400448295
+2132821322,Evaluating parallel languages for molecular dynamics computations,1992,15,13,2,0.0,2104210257,Terry W. Clark,0,-0.89551056996323,-0.29835944550272536
+2142032243,GIVE-N-TAKEâ€”a balanced code placement framework,1994,30,65,1,1.0,2136496678,Ken Kennedy,0,-0.1048018022375977,0.5823433999739426
+2135992106,A methodology for procedure cloning,1993,17,98,2,1.0,2125314167,Mary Hall,0,-2.062592598640882,-0.3439867586366763
+2133145482,The cost of being object-orientedc A preliminary study,1999,13,13,2,1.0,270422400,Zoran Budimlic,0,-3.159401882538461,0.33044521429751117
+2109807142,Experience with interprocedural analysis of array side effects,1990,23,24,2,0.0,405057033,Paul Havlak,0,-1.1966215188762939,0.07478515547068203
+2109852045,Unified compilation of Fortran 77D and 90D,1993,37,9,3,1.0,2047566528,Seema Hiranandani,0,-0.3493302123982507,0.4696336407173853
+2107072426,Automatic Type-Driven Library Generation for Telescoping Languages,2003,18,19,3,1.0,2013932858,Cheryl McCosh,0,-0.16795569340420236,0.051188248988237955
+2110131517,The D Editor a new interactive parallel programming tool,1994,22,26,4,1.0,2047566528,Seema Hiranandani,0,-1.1213027806455218,-0.17599792721337526
+2140311411,Conversion of control dependence to data dependence,1983,7,494,2,1.0,2100615644,John R. Allen,0,-0.02951799680779072,0.09759623767638548
+2137300667,Coloring heuristics for register allocation,1989,19,199,3,0.0,2019419233,Preston Briggs,0,-0.733032269363041,0.020508809869122124
+2143659699,Interprocedural constant propagation,1986,30,141,3,1.0,2058669971,David Callahan,0,-0.16426919738832185,-0.04200367349798573
+2134499382,Compiling Parallel MATLAB for General Distributions using Telescoping Languages,2007,14,3,2,1.0,2013932858,Cheryl McCosh,0,0.11219625494746854,0.08719496483947925
+2122839663,Compiling scientific code for complex memory hierarchies,1991,13,4,1,1.0,2136496678,Ken Kennedy,0,-2.558992008475882,-0.857047515935529
+2147218728,Automatic Data Layout for High Performance Fortran,1995,28,95,1,1.0,2136496678,Ken Kennedy,0,-0.07649998437766056,0.23225822345555427
+2150334562,The ParaScope parallel programming environment,1993,54,83,5,1.0,2090753356,Linda Torczon,0,0.17901595331781367,0.3379161399899958
+2162295840,Array optimizations for high productivity programming languages,2009,81,5,3,1.0,270422400,Zoran Budimlic,0,-1.106325555371758,-0.7353087817763331
+2150905110,Compiling java for high performance and the internet,2001,0,10,2,1.0,270422400,Zoran Budimlic,0,-2.797219967537455,0.3385198437133537
+2169282672,Compiler blockability of numerical algorithms,1992,19,101,1,1.0,2136496678,Ken Kennedy,0,-1.857476270819629,-0.7003182650110767
+2160650521,An implementation of interprocedural bounded regular section analysis,1991,31,208,2,0.0,405057033,Paul Havlak,0,-1.350908748765537,-0.3451222360106417
+2152018352,Compiler support for out-of-core arrays on parallel machines,1995,9,55,2,0.0,393622849,Michael Paleczny,0,-1.4695494588717637,0.15577027123806528
+2161044171,Efficient call graph analysis,1992,22,61,2,1.0,2125314167,Mary Hall,0,-1.5154599650142941,0.34505866181109135
+2149334594,Improving Compilation of Java Scientific Applications,2007,32,3,3,1.0,270422400,Zoran Budimlic,0,-2.678256972180283,0.15014871796213294
+2164360688,Experiences using the ParaScope Editor an interactive parallel programming tool,1993,28,38,6,0.0,393622849,Michael Paleczny,0,-1.2668764381015531,0.21438494477429493
+2170659171,Preliminary experiences with the Fortran D compiler,1993,21,61,3,1.0,2047566528,Seema Hiranandani,0,-0.729640283103855,0.09172824921127316
+2164564100,Telescoping languages a compiler strategy for implementation of high-level domain-specific programming systems,2000,15,26,1,1.0,2136496678,Ken Kennedy,0,0.7910599503806879,0.21088457737197547
+2155986973,Defining and Measuring the Productivity of Programming Languages,2004,9,33,2,0.0,2131448496,Robert Schreiber,0,2.220435628370825,-0.816755213941383
+2171048544,A technique for summarizing data access and its use in parallelism enhancing transformations,1989,8,123,2,1.0,2007412113,Vasanth Balasundaram,0,-0.1164726804531344,0.019252515865476
+2164972305,KelpIO a telescope-ready domain-specific I/O library for irregular block-structured applications,2001,14,7,1,1.0,2136496678,Ken Kennedy,0,-0.4819949562017674,-0.5689688916147567
+2246732823,Tailoring traditional optimizations for runtime compilation,2007,0,0,1,1.0,2136496678,Ken Kennedy,0,-1.321152745485243,-0.20173978080298854
+2274995094,Compiling Fortran D for MIMD distributed-memory machines,1995,0,0,3,1.0,2047566528,Seema Hiranandani,0,-0.16795569340420236,0.051188248988237955
+2304448454,Languages and compilers,2003,0,0,1,1.0,2136496678,Ken Kennedy,0,-0.44869122900443015,-0.00015649039724540022
+2293286976,Procedure cloning,1992,14,74,2,1.0,2125314167,Mary Hall,0,-0.9899476677030427,0.04566178780617347
+2753279003,Object-Oriented Type Inference for Telescoping Languages,2004,0,0,2,1.0,2013932858,Cheryl McCosh,0,-0.13791666410911674,0.010603024427546329
+2763377263,Static Type Inference for Specialization in a Telescoping Compiler,2004,0,1,2,1.0,2013932858,Cheryl McCosh,0,-0.4402978678188915,0.1467159540986261
+2764693949,The ParaScope parallel programming environment Languages and compilers,1993,0,0,5,1.0,2090753356,Linda Torczon,0,-0.9545552563469386,0.06706658388086215
+2922103013,Programming Language Support for Supercomputers,1983,0,3,1,1.0,2136496678,Ken Kennedy,0,-0.1164726804531344,0.019252515865476

@@ -1,0 +1,435 @@
+86266590,Multi-criteria Utility Mining Using Minimum Constraints,2014,9,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+87249735,Memory-Aware Mining of Indirect Associations Over Data Streams,2013,13,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.30497288708886067,0.12095343664968461
+57250427,MSGPs a novel algorithm for mining sequential generator patterns,2012,20,12,2,0.465873,2057932303,Bay Vo,0,0.003708468606338,0.082832279151172
+57253943,Hiding Sensitive Itemsets with Minimal Side Effects in Privacy Preserving Data Mining,2014,24,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.08219684055276005,0.4370923699984199
+177056882,Maintenance of IT-Tree for Transactions Deletion,2013,15,0,5,0.344873,2057932303,Bay Vo,0,-0.0769353016057025,-0.2600287055078183
+92355514,Interestingness measures for classification based on association rules,2012,26,3,3,0.465873,2057932303,Bay Vo,0,-0.08174319516478164,0.1765814596713159
+109480059,A Projection-Based Approach for Mining Highly Coherent Association Rules,2014,11,0,2,1.0,2119487119,Yui Kai Lin,0,-0.3220127625635745,-0.14298125434349998
+195418770,Mining High Utility Itemsets Based on Transaction Deletion,2014,16,4,1,1.0,2123991549,Tzung Pei Hong,0,0.30378581844541885,-0.1136145395680742
+196065500,Mining Fuzzy Association Rules with Multiple Minimum Supports Using Maximum Constraints,2004,11,71,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+9900898,Integration of multiple fuzzy FP-trees,2012,19,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+10692407,A space-time trade off for FUFP-trees maintenance,2013,15,1,4,0.344873,2057932303,Bay Vo,0,-1.55437708548504,1.324533474608446
+151066525,A Fuzzy AprioriTid Algorithm With Reduced Computational Time,2001,11,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+32362338,Evaluating Side Effects to Hide Sensitive Itemsets Through Transaction Deletion,2014,23,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+186603837,A new incremental data mining algorithm using pre-large itemsets,2001,17,111,2,1.0,2105596649,Ching Yao Wang,0,-0.5969291467839604,0.48085209076405516
+271619161,A Modified Maintenance Algorithm for Updating FUSP Tree in Dynamic Database,2014,21,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.06891442547451221,0.22660284704880015
+639437439,A Decremental Utility Mining Algorithm Based on the Pre-large Concepts,2013,0,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+274190536,Applying data mining to wireless networks,2006,11,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+341758295,An Algorithm of granulation on numeric attributes for association rules mining,2002,0,0,2,1.0,2025972543,Been Chian Chien,0,-0.3797386873779833,0.3085635433321177
+768765635,Robust fuzzy clustering algorithms in analyzing high-dimensional cancer databases,2015,45,7,2,0.0,1254523449,S. Ramathilagam,0,-0.6907802127653507,2.366204062344257
+569584832,Maintenance of Discovered Functional Dependencies Incremental Deletion,2003,8,3,1,1.0,2123991549,Tzung Pei Hong,0,-0.6339306283218533,0.24648931708680005
+311301339,A novel method for constrained class association rule mining,2015,43,15,2,0.17546,2057932303,Bay Vo,0,0.15357861152378927,0.212706205124424
+940365785,Multi-Level Genetic-Fuzzy Mining with a Tuning Mechanism,2014,14,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+645684473,Intelligent Soft Computation and Evolving Data Mining Integrating Advanced Technologies,2010,0,3,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+574700202,Robust fuzzy clustering techniques for analyzing complicated colon cancer database,2014,31,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.4866663669711375,1.083243056445934
+848333917,Multi-criteria Utility Mining Using Maximum Constraints,2014,7,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+289053503,Utility Knowledge Fusion in a Multi-site Environment,2014,9,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.2909428398294992,0.04926704743332565
+1003073390,Maintaining the discovered high-utility itemsets with transaction modification,2016,30,3,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+798265097,RWFIM Recent weighted-frequent itemsets mining,2015,24,22,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+961647082,Incrementally Updating High-Utility Itemsets with Transaction Insertion,2014,19,15,1,1.0,2123991549,Tzung Pei Hong,0,0.30378581844541885,-0.1136145395680742
+656219328,A fast updated algorithm to maintain the discovered high-utility itemsets for transaction modification,2015,23,27,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+1558935810,Incremental Mining with Prelarge Trees,2008,12,8,2,0.790163,2025972543,Been Chian Chien,0,-0.34841194659538965,-0.10142585373365
+1514236140,Efficiently mining high average utility itemsets with a tree structure,2010,10,28,1,1.0,2123991549,Tzung Pei Hong,0,-0.041993233930197015,0.1832319574509699
+1505528386,An improved ant algorithm for fuzzy data mining,2010,19,4,2,1.0,2116844336,Min Thai Wu,0,0.003708468606338,0.082832279151172
+1505569824,Hiding collaborative recommendation association rules on horizontally partitioned data,2010,30,6,1,1.0,2123991549,Tzung Pei Hong,0,-0.11948722529215032,-0.07358119607980244
+1568859527,Evolutionary privacy-preserving data mining,2010,13,6,1,1.0,2123991549,Tzung Pei Hong,0,0.07022756293005476,0.09834241765231812
+1542997766,Tightening upper bounds for mining weighted frequent itemsets,2015,19,5,2,1.0,2111178138,Hong Yu Lee,0,0.003708468606338,0.082832279151172
+1481151926,Improved negative-border online mining approaches,2006,15,0,2,0.651042,2121349964,Shian Shyong Tseng,0,0.012899981658850942,-0.0650935128279995
+1570372311,Efficient data preprocessing for genetic-fuzzy mining with MapReduce,2015,12,1,2,1.0,2116844336,Min Thai Wu,0,-0.46635576697786724,-0.11205566218586882
+1570375802,Mining generalized association rules with quantitative data under multiple support constraints,2010,19,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.2848009883361741,-0.2685804658780362
+1552502114,Mining Fuzzy Multiple-Level Association Rules from Quantitative Data,2003,31,48,2,1.0,2025972543,Been Chian Chien,0,-0.34841194659538965,-0.10142585373365
+1490827151,A cluster-based genetic-fuzzy mining approach for items with multiple minimum supports `,2008,12,4,2,0.164483,2023431847,Vincent S. Tseng,0,-0.4360259069610095,1.240360158421115
+1203759442,Weighted frequent itemset mining over uncertain databases,2016,29,26,2,0.0,2023431847,Vincent S. Tseng,0,-0.2887870047435127,-0.09145010706416894
+1482342708,Mining multiple-level association rules under the maximum constraint of multiple minimum supports,2006,14,8,1,1.0,2123991549,Tzung Pei Hong,0,0.18862495365669857,0.16894703826638707
+1508469132,Mining Multiple-level Association Rules Based on Pre-large Concepts,2009,20,5,1,1.0,2123991549,Tzung Pei Hong,0,0.7082537963639807,-0.40561631697726
+1526838158,A two-phased ontology selection approach for semantic web,2005,7,3,1,1.0,2123991549,Tzung Pei Hong,0,2.5741703416077115,-2.6981224499342167
+1536990028,Hiding Predictive Association Rules on Horizontally Distributed Data,2009,12,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.10996426366075213,0.05874592744194908
+1538351896,Efficient Maintenance of multiple-level Association Rules for Deletion of Records,2008,18,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.2848009883361741,-0.2685804658780362
+1520569568,Maintenance of discovered informative rule sets incremental insertion,2003,14,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.23808100831116943,-0.25991781727265156
+1495267192,Anonymizing shortest paths on social network graphs,2011,15,18,2,0.638701,2031903716,I Hsien Ting,0,0.003708468606338,0.082832279151172
+1521720839,Maintenance of Fast Updated Frequent Pattern Trees for Record Modification,2006,4,6,1,1.0,2123991549,Tzung Pei Hong,0,0.3766803489635418,1.8529060063221634
+1567108690,Fining Active Membership Functions in Fuzzy Data Mining,2008,9,5,2,0.164483,2023431847,Vincent S. Tseng,0,-0.34841194659538965,-0.10142585373365
+1953614186,Using the compressed data model in object-oriented data warehousing,1999,22,3,1,1.0,2123991549,Tzung Pei Hong,0,-0.019279583207431856,0.06118340202651481
+1795990264,Data structure for a fuzzy machine learning algorithm,1997,5,3,1,1.0,2123991549,Tzung Pei Hong,0,0.9453970376606649,3.013005841476356
+1586502543,Maintenance of informative ruler sets for predictions,2007,14,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+1595626366,Mining Linguistic Trends from Time Series,2008,12,1,2,0.164483,2023431847,Vincent S. Tseng,0,-0.0769353016057025,-0.2600287055078183
+1956439169,A fast Algorithm for mining fuzzy frequent itemsets,2015,15,15,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+1578091863,Efficient updating of sequential patterns with transaction insertion,2014,20,3,1,1.0,2123991549,Tzung Pei Hong,0,-1.55437708548504,1.324533474608446
+1596272016,A GA-based approach for mining membership functions and concept-drift patterns,2015,23,0,2,0.0,2005838078,Eric Hsueh Chan Lu,0,0.35101456908938383,-0.3411345128624907
+1907232082,Incremental discovery of functional dependencies using partitions,2001,7,4,1,1.0,2123991549,Tzung Pei Hong,0,-2.2781867295467526,0.7655274190886292
+1587826356,Using the master-slave parallel architecture for genetic-fuzzy data mining,2005,25,12,2,1.0,2116844336,Min Thai Wu,0,-0.34841194659538965,-0.10142585373365
+1597057117,Maintenance of fast updated frequent trees for record deletion based on prelarge concepts,2007,26,4,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+1807586138,K-anonymous path privacy on social graphs,2014,18,0,2,0.786724,2031903716,I Hsien Ting,0,0.003708468606338,0.082832279151172
+1606616845,Maintenance of discovered sequential patterns for record deletion,2002,9,8,2,1.0,2105596649,Ching Yao Wang,0,-0.27197221864590465,-0.21855907850055192
+1910355601,Improving Efficiency of Incremental Mining by Trie Structure and Pre-Large Itemsets,2015,32,3,5,0.17546,2057932303,Bay Vo,0,-0.0769353016057025,-0.2600287055078183
+1606838891,A Three-phased Online Association Rule Mining Approach for Diverse Mining Requests,2004,25,0,2,1.0,2105596649,Ching Yao Wang,0,0.8151086253769773,-0.1369470572870934
+1680032417,Incrementally updating the discovered sequential patterns based on pre-large concept,2015,38,4,1,1.0,2123991549,Tzung Pei Hong,0,-0.13294273958683295,0.2899827369353255
+1911446530,Mining fuzzy sequential patterns from multiple-item transactions,2001,9,22,1,1.0,2123991549,Tzung Pei Hong,0,-0.3607170973848219,0.17835719863893465
+1911575097,Finding Active Membership Functions for Genetic-Fuzzy Data Mining,2015,33,3,2,0.0,2023431847,Vincent S. Tseng,0,-0.34841194659538965,-0.10142585373365
+1598177593,Mining fuzzy similar sequential patterns from quantitative data,2002,8,2,1,1.0,2123991549,Tzung Pei Hong,0,0.5713688701963747,-0.5986896796443049
+1684578958,Multidimensional on-line mining,2006,27,0,2,1.0,2105596649,Ching Yao Wang,0,0.9757077651572301,0.19312264150015052
+1963525473,Reducing Side Effects of Hiding Sensitive Itemsets in Privacy Preserving Data Mining,2014,33,14,1,1.0,2123991549,Tzung Pei Hong,0,-0.08219684055276005,0.4370923699984199
+1687418802,Mining fuzzy frequent itemsets based on UBFFP trees,2014,34,14,1,1.0,2123991549,Tzung Pei Hong,0,0.3409182985352429,0.5028184824284011
+1963619261,An incremental mining algorithm for high utility itemsets,2012,20,71,1,1.0,2123991549,Tzung Pei Hong,0,-1.0155232676433934,0.2446873982457168
+1610274016,Discovering functional dependencies from similarity-based fuzzy relational databases,2001,27,3,1,1.0,2123991549,Tzung Pei Hong,0,-1.3383694273267757,0.8519446362070315
+1943988018,An approach for mining non-redundant sequential rules efficiently,2015,20,1,3,0.17546,2057932303,Bay Vo,0,0.003708468606338,0.082832279151172
+1863338380,An efficient clustering algorithm for mining fuzzy quantitative association rules,2001,18,24,2,1.0,2025972543,Been Chian Chien,0,-0.9211991615469002,3.298294457080068
+1602215006,Mining high utility itemsets for transaction deletion in a dynamic database,2015,21,11,1,1.0,2123991549,Tzung Pei Hong,0,-1.3934363246377988,0.3826560133263476
+1728588243,A New Probabilistic Induction Method,1997,17,14,2,0.0,2104299771,Sy Yen Kuo,0,0.014279555911644834,0.17578230845316303
+1585191925,Efficient generation of Adaptive-Support Association Rules,2003,8,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.22603288840601743,0.033084888854947495
+1834963146,Mining fuzzy sequential patterns from quantitative data,1999,9,21,1,1.0,2123991549,Tzung Pei Hong,0,-0.8436180273883055,0.5169282846463427
+1973320201,Anonymous Spatial Query on Non-Uniform Data,2013,27,2,2,0.786724,2031903716,I Hsien Ting,0,0.003708468606338,0.082832279151172
+1978733175,An incremental high-utility mining algorithm with transaction insertion,2015,20,16,1,1.0,2123991549,Tzung Pei Hong,0,-0.7587554423176759,0.6900540472743119
+1985781194,A two-phase approach for mining weighted partial periodic patterns,2014,25,7,2,1.0,2100575426,Kung Jiuan Yang,0,-0.12334662675320344,-0.3959329883933573
+1968230624,Updating high-utility pattern trees with transaction modification,2016,28,2,2,1.0,2104650144,Bo Wei Chen,0,-0.899618303124234,-0.4499953961371552
+1966684457,PROVIDING TIMELY UPDATED SEQUENTIAL PATTERNS IN DECISION MAKING,2010,24,8,2,1.0,2105596649,Ching Yao Wang,0,0.003708468606338,0.082832279151172
+1977283334,CAR-Miner,2013,32,37,3,0.344873,2057932303,Bay Vo,0,0.15357861152378927,0.212706205124424
+1977326780,Learning discriminant functions with fuzzy attributes for classification using genetic programming,2002,13,43,2,1.0,2025972543,Been Chian Chien,0,-0.27027310377050867,1.5199532656606127
+1986167697,An efficient method for mining non-redundant sequential rules using attributed prefix-trees,2014,39,20,2,0.235251,2057932303,Bay Vo,0,-0.313250122242983,0.3019422694332269
+1973865630,Finding relevant attributes and membership functions,1999,22,141,1,1.0,2123991549,Tzung Pei Hong,0,-0.7241841618225016,-0.6604284397687038
+1970456961,A lattice-based data sanitization approach,2011,13,5,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+1970463426,Mining from incomplete quantitative data by fuzzy rough sets,2010,21,31,2,0.0,2025972543,Been Chian Chien,0,0.1774502470123982,0.09880755466552708
+1965348137,Hiding sensitive itemsets by inserting dummy transactions,2011,16,8,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+1965399213,Linguistic data mining with fuzzy FP-trees,2010,24,39,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+1972365455,Analyzing time-series data by fuzzy data-mining technique,2005,28,4,2,0.294742,2023431847,Vincent S. Tseng,0,-0.4367939423668805,0.030536103247662937
+1972393429,Efficiently hiding sensitive itemsets with transaction deletion based on genetic algorithms,2014,46,28,1,1.0,2123991549,Tzung Pei Hong,0,-0.3394380530009998,-0.0716407767871401
+1984625467,Maintaining high-utility itemsets in dynamic databases,2014,19,0,1,1.0,2123991549,Tzung Pei Hong,0,-1.8084073178885103,1.1837691688627983
+1974121131,Peer-to-peer usage analysis in dynamic databases,2015,22,1,2,1.0,2104650144,Bo Wei Chen,0,-0.35668095131894545,0.139149555811819
+1975905674,Temporal data mining with up-to-date pattern trees,2011,20,5,1,1.0,2123991549,Tzung Pei Hong,0,-0.10359187073615289,0.0035735526748056357
+1979535605,A new mining approach for uncertain databases using CUFP trees,2012,25,36,1,1.0,2123991549,Tzung Pei Hong,0,0.18721476511244076,1.729149387249011
+1977760660,Self-integrating knowledge-based brain tumor diagnostic system,1996,16,9,2,1.0,2121349964,Shian Shyong Tseng,0,0.00023651216156680976,0.3751093489622426
+1974203200,Finding Pareto-front Membership Functions in Fuzzy Data Mining,2012,35,8,2,0.0649789,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+1970935634,Mining complete fuzzy frequent itemsets by tree structures,2010,14,5,1,1.0,2123991549,Tzung Pei Hong,0,0.0479968788876851,0.3192013326448916
+1967457756,Reducing Database Scans for On-shelf Utility Mining,2011,16,1,2,0.0769201,2023431847,Vincent S. Tseng,0,-0.1071931497347323,0.3242721482837629
+1969232315,An evolutionary attribute clustering and selection method based on feature similarity,2010,18,5,2,0.833333,2123235266,Chuan Kang Ting,0,-0.5887019519946695,1.2103026998536384
+1985020755,Processing individual fuzzy attributes for fuzzy rule induction,2000,17,94,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+1981608731,Learning fuzzy knowledge from training examples,1998,21,13,1,1.0,2123991549,Tzung Pei Hong,0,2.4186807373669996,1.4086874477165707
+1978271307,Simultaneously Mining Fuzzy Inter- and Intra-Object Association Rules,2006,17,0,1,1.0,2123991549,Tzung Pei Hong,0,0.012899981658850942,-0.0650935128279995
+1966121832,Efficient updating of discovered high-utility itemsets for transaction deletion in dynamic databases,2015,34,26,1,1.0,2123991549,Tzung Pei Hong,0,-0.45295664863902946,-0.11282384398443973
+1966125148,EFFICIENTLY MINING HIGH AVERAGE-UTILITY ITEMSETS WITH AN IMPROVED UPPER-BOUND STRATEGY,2012,22,31,2,0.0649789,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2003018564,Discovery of high utility itemsets from on-shelf time periods of products,2011,18,65,2,0.0769201,2023431847,Vincent S. Tseng,0,-0.0769353016057025,-0.2600287055078183
+1990794447,Enhancing the Efficiency in Mining Weighted Frequent Itemsets,2013,5,6,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2003073717,Mining Fuzzy Multiple-level Association Rules under Multiple Minimum Supports,2006,9,11,1,1.0,2123991549,Tzung Pei Hong,0,0.1866403628437572,0.07391988188730006
+1996332242,Edge types vs privacy in K-anonymization of shortest paths,2015,36,4,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+1998193549,Privacy preserving high utility mining based on genetic algorithms,2013,23,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.6557795853201087,-0.03621277714288088
+2000082280,Multi-table association rules hiding,2010,30,4,1,1.0,2123991549,Tzung Pei Hong,0,-0.4315055087045612,-0.24508329353761998
+2003632541,Fuzzy rough sets with hierarchical quantitative attributes,2009,20,25,2,0.0,2101164487,Yan Liang Liou,0,-0.0047189855972187,0.12579694134780778
+2002003122,Mining fuzzy coherent rules from quantitative transactions without minimum support threshold,2012,27,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+1996825547,A Summary of Genetic-Fuzzy Data Mining Techniques,2010,9,3,2,0.0961422,2023431847,Vincent S. Tseng,0,0.9968647524245552,-0.33985852591407717
+2007301032,Mining functional dependencies from fuzzy relational databases,2000,21,7,1,1.0,2123991549,Tzung Pei Hong,0,-1.8089633012475101,0.48872609636126724
+1991725500,Fuzzy data mining for time-series data,2012,31,34,2,0.0649789,2023431847,Vincent S. Tseng,0,-0.30497288708886067,0.12095343664968461
+1996994305,A two-stage multi-objective genetic-fuzzy mining algorithm,2013,21,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.21934185016841626,0.6056873083074126
+1995315754,Projection-based partial periodic pattern mining for event sequences,2013,22,16,2,1.0,2100575426,Kung Jiuan Yang,0,-0.10623040422093365,-0.29245463750663153
+1998801147,Fuzzy data mining for interesting generalized association rules,2003,23,126,1,1.0,2123991549,Tzung Pei Hong,0,-0.07788329232740024,0.2304418911713549
+1998809230,Mining with Prelarge Trees for Record Modification,2008,7,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.08653559738189799,0.18140308136610628
+1988581191,Mining fuzzy frequent itemsets by projection techniques,2013,9,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.13275296294680305,-0.071629888206014
+1990388811,Some techniques and applications in data mining,2008,0,0,1,1.0,2123991549,Tzung Pei Hong,0,0.7522750965400807,-0.6938392714678171
+1990389531,A Hybrid Approach for Mining Frequent Itemsets,2013,12,14,3,0.0,1934644436,Frans Coenen,0,-1.1239876837318568,0.8105724872580904
+1999338579,A heuristic data-sanitization approach based on TF-IDF,2011,12,11,1,1.0,2123991549,Tzung Pei Hong,0,0.686128518242922,-0.025068664180343703
+1994144215,Hiding Sensitive Association Rules on Stars,2010,12,4,1,1.0,2123991549,Tzung Pei Hong,0,-0.1161244740679411,0.5985965655397195
+2008176559,An effective approach for maintenance of pre-large-based frequent-itemset lattice in incremental mining,2014,31,18,3,0.235251,2057932303,Bay Vo,0,-0.34841194659538965,-0.10142585373365
+2025860255,Center-based group genetic algorithm for attribute clustering,2014,14,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.7093121529709437,2.3435618675746817
+2020775524,An improved data mining approach using predictive itemsets,2009,22,9,1,1.0,2123991549,Tzung Pei Hong,0,-0.2848009883361741,-0.2685804658780362
+2031324919,Mining association rules from quantitative data,1999,36,232,1,1.0,2123991549,Tzung Pei Hong,0,-1.2697621775890657,0.7877943208661399
+2019041558,An Enhanced FUFP-Tree Maintenance Approach for Transaction Deletion,2012,10,1,4,0.465873,2057932303,Bay Vo,0,-0.08653559738189799,0.18140308136610628
+2026093368,Using TF-IDF to hide sensitive itemsets,2013,28,65,1,1.0,2123991549,Tzung Pei Hong,0,0.16186193176722236,0.025149966944128896
+2019113023,An efficient approach for finding weighted sequential patterns from sequence databases,2014,22,21,2,1.0,2111178138,Hong Yu Lee,0,-0.313250122242983,0.3019422694332269
+2031420891,A load-balanced distributed parallel mining algorithm,2010,16,32,1,1.0,2123991549,Tzung Pei Hong,0,0.30402629548151244,0.426225947744119
+2028087213,Effective utility mining with the measure of average utility,2011,27,58,2,1.0,2115711780,Cho Han Lee,0,-0.24505102710158946,-0.26192996809838215
+2010528952,Incrementally mining high utility patterns based on pre-large concept,2014,30,29,1,1.0,2123991549,Tzung Pei Hong,0,-0.7969763135113677,0.4866017257447005
+2029833253,Anonymous spatial query on non-uniform data,2012,17,0,2,0.786724,2031903716,I Hsien Ting,0,0.003708468606338,0.082832279151172
+2024632033,Mining Potential High-Utility Itemsets over Uncertain Databases,2015,19,4,2,0.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2012392778,Time series pattern discovery by a PIP-based evolutionary approach,2013,39,8,2,0.0576128,2023431847,Vincent S. Tseng,0,-0.21934185016841626,0.6056873083074126
+2030122887,Incrementally Mining High Utility Itemsets in Dynamic Databases,2010,9,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.2848009883361741,-0.2685804658780362
+2017898061,MOGA for multi-level fuzzy data mining,2012,23,2,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2021498601,AN EFFECTIVE ATTRIBUTE CLUSTERING APPROACH FOR FEATURE SELECTION AND REPLACEMENT,2009,23,9,1,1.0,2123991549,Tzung Pei Hong,0,-0.7740067929328383,2.4280027893712495
+2026796553,A practical extension of web usage mining with intentional browsing data toward usage,2009,20,12,1,1.0,2123991549,Tzung Pei Hong,0,-0.17624992391969588,-0.20538170269154077
+2028720861,A GA-based approach to hide sensitive high utility itemsets,2014,29,15,1,1.0,2123991549,Tzung Pei Hong,0,-0.45480894578316866,0.16374181465685284
+2012910586,Linguistic Object-Oriented Web Mining,2006,22,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.3586962585410468,-0.7292686703148269
+2027067281,Maintenance of Pre-large FUSP Trees in Dynamic Databases,2011,10,1,2,1.0,2111178138,Hong Yu Lee,0,0.2276513881513862,0.4077141828162098
+2012991716,A coverage-based genetic knowledge-integration strategy,2000,28,7,2,1.0,2121349964,Shian Shyong Tseng,0,0.18626953451291692,0.015527257143967984
+2025409935,K-anonymity on sensitive transaction items,2011,18,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.44817938192529644,0.5418251857459617
+2027210825,Mining high coherent association rules with consideration of support measure,2013,29,13,2,1.0,2119487119,Yui Kai Lin,0,0.30402629548151244,0.426225947744119
+2023774365,An improved approach for sequential utility pattern mining,2012,7,4,2,0.0649789,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2027447481,DBV-Miner A Dynamic Bit-Vector approach for fast mining frequent closed itemsets,2012,29,67,3,0.465873,2057932303,Bay Vo,0,0.003708468606338,0.082832279151172
+2031031300,Web usage mining with intentional browsing data,2008,27,35,1,1.0,2123991549,Tzung Pei Hong,0,-0.07478998427675994,-0.4634047420821089
+2018823235,Mining fuzzy frequent trends from time series,2009,31,7,2,0.124686,2023431847,Vincent S. Tseng,0,-0.0632253446896156,-0.4113309839681853
+2045422607,A CMFFP-tree algorithm to mine complete multiple fuzzy frequent itemsets,2015,34,13,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2040155776,Mining association rules with multiple minimum supports using maximum constraints,2005,21,90,1,1.0,2123991549,Tzung Pei Hong,0,0.56963262932196,-0.13144565890261387
+2054213387,Multi-level fuzzy mining with multiple minimum supports,2008,31,62,1,1.0,2123991549,Tzung Pei Hong,0,0.18862495365669857,0.16894703826638707
+2043748122,Feature selection and replacement by clustering attributes,2014,23,15,3,0.235251,2057932303,Bay Vo,0,-0.40370321991405944,2.7221885054806534
+2038534861,Effect of merging order on performance of fuzzy induction,1999,18,22,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2047457379,An efficient and effective association-rule maintenance algorithm for record modification,2010,14,20,2,1.0,2105596649,Ching Yao Wang,0,-0.2848009883361741,-0.2685804658780362
+2035100685,Mining hierarchical temporal association rules in a publication database,2013,8,4,3,0.0,122205434,Shusaku Tsumoto,0,0.07463023813366876,0.3932844651106614
+2051111591,Using group genetic algorithm to improve performance of attribute clustering,2015,23,15,1,1.0,2123991549,Tzung Pei Hong,0,-0.9211991615469002,3.298294457080068
+2036956023,Evolutionary Composite Attribute Clustering,2011,13,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.903204606608462,2.974440124272174
+2033673837,An improved approach to find membership functions and multiple minimum supports in fuzzy data mining,2009,30,23,2,0.124686,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2042490523,A Decomposition Approach for Mining Frequent Itemsets,2007,12,3,1,1.0,2123991549,Tzung Pei Hong,0,-0.2848009883361741,-0.2685804658780362
+2042673226,Automatic attribute clustering based on genetic algorithms,2009,10,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.7534819911695146,2.4031917088568115
+2053309697,An efficient projection-based indexing approach for mining high utility itemsets,2014,30,76,2,0.0,2023431847,Vincent S. Tseng,0,-0.7228028456951604,-0.37485068941286387
+2035917408,On anonymizing transactions with sensitive items,2014,32,13,1,1.0,2123991549,Tzung Pei Hong,0,-0.3204107464249196,0.2091689361803723
+2034360529,Efficient sanitization of informative association rules,2008,29,24,2,1.0,2101816006,Ayat Jafari,0,0.41190068115296735,0.3215622530539146
+2053729424,A Comparison of Different Fitness Functions for Extracting Membership Functions Used in Fuzzy Data Mining,2007,12,7,2,0.254497,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2043229934,A multi-objective genetic-fuzzy mining algorithm,2008,15,9,2,0.164483,2023431847,Vincent S. Tseng,0,-0.2848009883361741,-0.2685804658780362
+2036183796,Developing a GP-based Framework for Knowledge Integration,2012,27,0,3,0.0,339378501,é™³æ˜¥é¾,0,0.7918151123003597,0.713436926737783
+2052082799,Case-Based Reasoning with feature clustering,2008,27,4,1,1.0,2123991549,Tzung Pei Hong,0,-0.4213409300126071,0.6440860668543056
+2046858420,Incremental multiple fuzzy frequent pattern tree,2012,20,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.18875169440814715,-0.16213322256015988
+2053986355,Using the Structure of Prelarge Trees to Incrementally Mine Frequent Itemsets,2010,24,10,1,1.0,2123991549,Tzung Pei Hong,0,0.7460600515256499,0.7929986264981547
+2043472948,Maintenance of prelarge trees for data mining with modified records,2014,29,7,1,1.0,2123991549,Tzung Pei Hong,0,0.4510478135625812,1.7066095400862036
+2055763394,Mining rules from an incomplete dataset with a high missing rate,2011,15,13,1,1.0,2123991549,Tzung Pei Hong,0,-0.31158073593153846,-0.3185334668648042
+2062866563,Maintenance of high average-utility itemsets for record deletion,2010,9,1,2,1.0,2115711780,Cho Han Lee,0,0.003708468606338,0.082832279151172
+2071666497,Mining frequent itemsets using the N-list and subsume concepts,2016,39,44,3,0.0,1934644436,Frans Coenen,0,0.003708468606338,0.082832279151172
+2059464296,An effective tree structure for mining high utility itemsets,2011,15,129,1,1.0,2123991549,Tzung Pei Hong,0,-0.4090971851698076,0.8583347041775377
+2070013439,Incremental mining frequent itemsets based on the trie structure and the pre-large itemsets,2011,10,6,4,0.465873,2057932303,Bay Vo,0,0.22046278482571166,0.4149466153583954
+2068346543,Fast updated frequent-itemset lattice for transaction deletion,2015,26,8,3,0.17546,2057932303,Bay Vo,0,-0.34841194659538965,-0.10142585373365
+2068381310,Mining knowledge from object-oriented instances,2007,13,0,1,1.0,2123991549,Tzung Pei Hong,0,0.09903330766262146,0.2713098639342718
+2064885875,Fuzzy Clustering Systems in Analyzing High Dimensional Database,2015,20,1,2,0.0,1254523449,S. Ramathilagam,0,-0.4345646995404735,1.2339602448627665
+2063192980,Integrating Multiple Knowledge Sources by Genetic Programming,2007,8,0,2,1.0,2102065984,Chuen Lung Chen,0,0.3235831104265207,0.013538235103801352
+2071992825,Updating the Built Prelarge Fast Updated Sequential Pattern Trees with Sequence Modification,2015,30,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.07576059943518838,0.19643817763565577
+2073807978,An incremental mining algorithm for maintaining sequential patterns using pre-large sequences,2011,19,28,1,1.0,2123991549,Tzung Pei Hong,0,-0.0769353016057025,-0.2600287055078183
+2056407257,An effective mining approach for up-to-date patterns,2009,18,22,2,0.0,2109892787,Yi Ying Wu,0,0.08222084096689246,-0.12440335955206828
+2058141868,Efficiently Maintaining the Fast Updated Sequential Pattern Trees With Sequence Deletion,2014,29,8,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2063427231,Incrementally fast updated sequential pattern trees,2008,13,5,1,1.0,2123991549,Tzung Pei Hong,0,-0.08653559738189799,0.18140308136610628
+2074058268,Mining high fuzzy utility sequential patterns,2013,13,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.313250122242983,0.3019422694332269
+2061859211,An efficient bit-based feature selection method,2008,25,20,1,1.0,2123991549,Tzung Pei Hong,0,-0.28602042461496596,0.07619797155251432
+2063736421,Classification based on association rules A lattice-based approach,2012,38,46,3,0.465873,2057932303,Bay Vo,0,-0.008814776158504022,0.09487640346684383
+2065497562,Genetic-fuzzy mining with multiple minimum supports based on fuzzy clustering,2011,38,7,2,0.0769201,2023431847,Vincent S. Tseng,0,-0.430650964839125,1.286669198562323
+2072532392,A multi-level ant-colony mining algorithm for membership functions,2012,24,17,2,1.0,2116844336,Min Thai Wu,0,0.003708468606338,0.082832279151172
+2074282863,Learning cross-level certain and possible rules by rough sets,2008,16,30,1,1.0,2123991549,Tzung Pei Hong,0,0.014534117122536837,1.1852943538370337
+2065571631,Fuzzy utility mining with upper-bound measure,2015,23,12,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2074338163,An Efficient Incremental Mining Approach Based on IT-Tree,2012,12,14,3,0.465873,2057932303,Bay Vo,0,-0.34841194659538965,-0.10142585373365
+2069133019,A modified approach to speed up genetic-fuzzy data mining with divide-and-conquer strategy,2007,17,5,2,0.254497,2023431847,Vincent S. Tseng,0,-0.3797386873779833,0.3085635433321177
+2067403986,Applying the maximum utility measure in high utility sequential pattern mining,2014,21,57,2,0.0,2023431847,Vincent S. Tseng,0,-0.2985715463286367,0.12593082776775125
+2071044956,Integrating membership functions and fuzzy rule sets from multiple knowledge sources,2000,27,56,2,1.0,2121349964,Shian Shyong Tseng,0,0.003708468606338,0.082832279151172
+2065841782,Mining up-to-date knowledge from log data,2008,25,0,2,0.0,2109892787,Yi Ying Wu,0,0.36115010965784194,-0.2834022929132039
+2074611291,On Genetic-Fuzzy Data Mining Techniques,2007,40,3,2,0.254497,2023431847,Vincent S. Tseng,0,-0.32506151505756703,0.27519590333328947
+2064137254,Mining fuzzy Î²-certain and Î²-possible rules from quantitative data based on the variable precision rough-set model,2007,16,38,1,1.0,2123991549,Tzung Pei Hong,0,0.1605254571323571,-0.042517357350388446
+2062520116,The GA-based algorithms for optimizing hiding sensitive itemsets through transaction deletion,2015,41,25,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2062585609,A fuzzy approach for mining general temporal association rules in a publication database,2011,13,4,1,1.0,2123991549,Tzung Pei Hong,0,-0.4367939423668805,0.030536103247662937
+2062692656,AN IMPROVED KNOWLEDGE-ACQUISITION STRATEGY BASED ON GENETIC PROGRAMMING,2008,16,5,2,1.0,2102065984,Chuen Lung Chen,0,0.4695561512675795,0.26072374099122936
+2094364718,Discovering fuzzy inter- and intra-object associations,2011,39,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2080337565,TRADE-OFF BETWEEN COMPUTATION TIME AND NUMBER OF RULES FOR FUZZY MINING FROM QUANTITATIVE DATA,2001,14,165,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2096523845,Dynamic bit vectors An efficient approach for mining frequent itemsets,2011,16,7,2,0.465873,2057932303,Bay Vo,0,0.8063056241208273,0.7821809149254144
+2087418477,Flexible online association rule mining based on multidimensional pattern relations,2006,43,33,3,1.0,2105596649,Ching Yao Wang,0,0.7072474389302883,0.1513749792224938
+2085729425,An effective parallel approach for genetic-fuzzy data mining,2014,40,28,2,1.0,2116844336,Min Thai Wu,0,-0.34841194659538965,-0.10142585373365
+2084039681,Mining High-Utility Itemsets with Multiple Minimum Utility Thresholds,2015,21,17,1,1.0,2123991549,Tzung Pei Hong,0,-0.2887870047435127,-0.09145010706416894
+2091047274,On-shelf utility mining with negative item values,2014,23,26,2,0.0,2023431847,Vincent S. Tseng,0,-0.3049247326517621,0.1886461481807304
+2084178179,Hiding collaborative recommendation association rules,2007,29,32,2,1.0,2101816006,Ayat Jafari,0,-0.2848009883361741,-0.2685804658780362
+2080756653,Efficient Sanitization of Informative Association Rules with Updates,2006,29,1,2,1.0,2101816006,Ayat Jafari,0,0.26946431732191806,0.17822201017009928
+2082704463,An ACS-based framework for fuzzy data mining,2009,32,19,2,1.0,2116844336,Min Thai Wu,0,0.003708468606338,0.082832279151172
+2086283643,MOGA-based fuzzy data mining with taxonomy,2013,38,15,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2082838573,GA-based item partition for data mining,2011,11,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2100942352,Mining coverage-based fuzzy rules by evolutional computation,2001,16,7,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2086528962,A survey of fuzzy web mining,2013,60,32,1,1.0,2123991549,Tzung Pei Hong,0,0.5698433112055975,-1.9222791760759
+2091903577,Discovering mobile users moving behaviors in wireless networks,2009,12,5,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2095438104,Maintaining the discovered sequential patterns for sequence insertion in dynamic databases,2014,32,8,1,1.0,2123991549,Tzung Pei Hong,0,-0.06204939739067371,0.29269434631810076
+2101204485,Cluster-Based Evaluation in Fuzzy-Genetic Data Mining,2008,26,43,2,0.164483,2023431847,Vincent S. Tseng,0,-0.5037440861655766,0.8308946669218528
+2104190832,Integrating fuzzy knowledge by genetic algorithms,1998,32,150,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2083172146,A fast algorithm for classification based on association rules,2012,16,0,3,0.465873,2057932303,Bay Vo,0,0.4119890890341581,0.569943478817792
+2081464336,Mining fuzzy sequential patterns from quantitative transactions,2006,32,23,1,1.0,2123991549,Tzung Pei Hong,0,-0.32506151505756703,0.27519590333328947
+2098472825,An Effective Gradual Data-Reduction Strategy for Fuzzy Itemset Mining,2013,17,11,1,1.0,2123991549,Tzung Pei Hong,0,-0.33609952184070413,0.18771325731742527
+2079765316,A parallelized indexing method for large-scale case-based reasoning,2002,16,13,2,0.0,2106575660,Mon Fong Jiang,0,-0.04130004557901163,0.2138700712981765
+2101497722,Splitting and merging version spaces to beam disjunctive concepts,1999,6,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2098669174,A Genetics-Based Approach to Knowledge Integration and Refinement,2001,8,10,2,0.925926,2121349964,Shian Shyong Tseng,0,0.07282652208962567,0.44393933582209694
+2095737042,Mining from quantitative data with linguistic minimum supports and confidences,2002,32,14,1,1.0,2123991549,Tzung Pei Hong,0,-0.11372046304291193,0.1884230844174103
+2098690727,Mining high average-utility itemsets,2009,11,24,2,1.0,2115711780,Cho Han Lee,0,-0.24505102710158946,-0.26192996809838215
+2092175184,Special issue on data mining for decision making and risk management,2011,0,5,2,0.0,122205434,Shusaku Tsumoto,0,-0.24631475925461466,0.01662727508514165
+2101852491,Genetic-Fuzzy Data Mining With Divide-and-Conquer Strategy,2008,29,55,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2099133480,Mining fuzzy rules from quantitative data based on the AprioriTid algorithm,2000,18,12,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2105038775,A multiple-level genetic-fuzzy mining algorithm,2011,25,5,1,1.0,2123991549,Tzung Pei Hong,0,-0.2848009883361741,-0.2685804658780362
+2081921608,An Efficient Pruning and Filtering Strategy to Mine Partial Periodic Patterns from a Sequence of Event Sets,2014,17,1,2,1.0,2100575426,Kung Jiuan Yang,0,0.003708468606338,0.082832279151172
+2088997887,Learning rules from incomplete training examples by rough sets,2002,16,86,1,1.0,2123991549,Tzung Pei Hong,0,0.09825831679304564,0.7220361626327564
+2089005573,Maintaining High Utility Pattern Trees in Dynamic Databases,2010,10,5,1,1.0,2123991549,Tzung Pei Hong,0,0.0479968788876851,0.3192013326448916
+2094292328,Discovering fuzzy personal moving profiles in wireless networks,2009,28,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2123111851,An integrated OWL data mining and query system,2008,16,2,1,1.0,2123991549,Tzung Pei Hong,0,0.8296306485503143,-1.1947661833438425
+2111335952,Mining fuzzy temporal knowledge from quantitative transactions,2011,13,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2123150372,A two-phase fuzzy mining approach,2010,15,3,1,1.0,2123991549,Tzung Pei Hong,0,0.0479968788876851,0.3192013326448916
+2131960655,Mining fuzzy similar association rules from quantitative data,2002,12,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.5206114304917892,0.7625514701687246
+2135130054,THE MFFP-TREE FUZZY MINING ALGORITHM TO DISCOVER COMPLETE LINGUISTIC FREQUENT ITEMSETS,2014,35,15,1,1.0,2123991549,Tzung Pei Hong,0,0.2276513881513862,0.4077141828162098
+2135171291,Mining fuzzy functional dependencies from quantitative data,2000,11,5,1,1.0,2123991549,Tzung Pei Hong,0,-1.6711781599349789,0.4848935345010127
+2117682379,Fuzzy data mining based on the compressed fuzzy FP-trees,2009,14,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2123558026,An Incremental Mining Algorithm for High Average-Utility Itemsets,2009,13,9,2,1.0,2115711780,Cho Han Lee,0,-0.991716401146235,0.44012331810790284
+2135382938,Efficient Hiding of Collaborative Recommendation Association Rules with Updates,2008,16,0,1,1.0,2123991549,Tzung Pei Hong,0,0.26946431732191806,0.17822201017009928
+2135400132,Linguistic object-oriented web-usage mining,2008,24,7,1,1.0,2123991549,Tzung Pei Hong,0,-0.11555653523376408,-0.5741010382675926
+2120697115,An FUSP-Tree Maintenance Algorithm for Record Modification,2008,9,3,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2111914075,An Incremental FUSP-Tree Maintenance Algorithm,2008,8,21,1,1.0,2123991549,Tzung Pei Hong,0,0.46793085727178935,0.7415023261584544
+2109026104,Projection-Based Utility Mining with an Efficient Indexing Mechanism,2010,12,2,2,0.0961422,2023431847,Vincent S. Tseng,0,-0.13275296294680305,-0.071629888206014
+2123995137,Maintenance of multiple-level association rules for record modification,2004,18,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2118150351,A divide-and-conquer genetic-fuzzy mining approach for items with multiple minimum supports,2008,18,2,2,0.164483,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2129896948,Maintenance of the prelarge trees for record deletion,2007,7,4,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2124119229,Adjustable discovery of adaptive-support association rules for collaborative recommendation systems,2004,9,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.027220272408214424,0.004665635633566978
+2142101169,Mining Generalized Association Rules from a Different Perspective,2007,12,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.4898742171738311,0.49604838830862635
+2121722193,A multi-level ant-based algorithm for fuzzy data mining,2009,15,3,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2124757863,Mining Up-to-Date Knowledge Based on Tree Structures,2009,11,0,1,1.0,2123991549,Tzung Pei Hong,0,0.06260876995462272,1.3065204414894638
+2139670071,Using divide-and-conquer GA strategy in fuzzy data mining,2004,8,21,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2133620064,A Cluster-Based Fuzzy-Genetic Mining Approach for Association Rules and Membership Functions,2006,24,14,2,0.294742,2023431847,Vincent S. Tseng,0,-0.381135865274409,0.4159034833451143
+2110136568,Integrating multiple rule sets by genetic algorithms,1998,11,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.3641867457718182,0.39778473081122456
+2139881867,Learning fuzzy rules from incomplete quantitative data by rough sets,2002,23,10,2,1.0,2025972543,Been Chian Chien,0,0.15705002033058793,0.0011925775793937498
+2128085603,A continuous ant colony system framework for fuzzy data mining,2012,32,8,2,1.0,2116844336,Min Thai Wu,0,0.003708468606338,0.082832279151172
+2139996066,FUZZY C-MEANS IN FINDING SUBTYPES OF CANCERS IN CANCER DATABASE,2014,35,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.3920803591427749,0.7314272910640492
+2125175679,Upper-bound multiple fuzzy frequent-pattern trees,2011,19,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2128198483,Extracting membership functions in fuzzy data mining by Ant Colony Systems,2008,14,8,2,1.0,2116844336,Min Thai Wu,0,-0.34841194659538965,-0.10142585373365
+2140132029,Mining High Transaction-Weighted Utility Itemsets,2010,17,5,2,0.0961422,2023431847,Vincent S. Tseng,0,-0.2848009883361741,-0.2685804658780362
+2116553591,Maintenance algorithm for updating the discovered multiple fuzzy frequent itemsets for transaction deletion,2014,24,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2116604339,Knowledge acquisition from quantitative data using the rough-set theory,2000,17,25,1,1.0,2123991549,Tzung Pei Hong,0,0.5907587924883194,-0.1276003510684417
+2131292638,Speeding up genetic-fuzzy mining by fuzzy clustering,2009,18,6,2,0.124686,2023431847,Vincent S. Tseng,0,-0.430650964839125,1.286669198562323
+2107877567,Building a concise decision table for fuzzy rule induction,1998,18,3,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2119996932,Mining approximate dependency to answer null queries on similarity-based fuzzy relational databases,2000,9,3,1,1.0,2123991549,Tzung Pei Hong,0,-1.6079497345086526,0.47894477653365225
+2111181036,Maintenance of sequential patterns for record deletion,2001,9,19,2,1.0,2105596649,Ching Yao Wang,0,-0.0769353016057025,-0.2600287055078183
+2114191995,Genetic-fuzzy knowledge-integration strategies,1998,12,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2183367390,Mining high-utility itemsets with various discount strategies,2015,21,2,2,0.0,2023431847,Vincent S. Tseng,0,-0.8332563226818618,-0.39522492629759415
+2162112615,Using the Pre-FUFP Algorithm for Handling New Transactions in Incremental Mining,2007,15,0,1,1.0,2123991549,Tzung Pei Hong,0,0.0585584120941709,1.9430920240081477
+2162311567,Attribute Clustering in High Dimensional Feature Spaces,2007,7,13,1,1.0,2123991549,Tzung Pei Hong,0,-0.9971337328101961,3.428384963026684
+2171513952,A lattice-based approach for mining most generalization association rules,2013,32,58,3,0.344873,2057932303,Bay Vo,0,-0.34841194659538965,-0.10142585373365
+2156505408,Maintenance of generalized association rules for record deletion based on the pre-large concept,2007,22,6,1,1.0,2123991549,Tzung Pei Hong,0,-0.2848009883361741,-0.2685804658780362
+2153633394,A GA-based Fuzzy Mining Approach to Achieve a Trade-off Between Number of Rules and Suitability of Membership Functions,2006,24,92,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2168664605,A SPEA2-based genetic-fuzzy mining algorithm,2010,25,8,2,0.0961422,2023431847,Vincent S. Tseng,0,-0.34841194659538965,-0.10142585373365
+2147669889,A Genetic-Fuzzy Mining Approach for Items with Multiple Minimum Supports,2007,28,5,2,0.254497,2023431847,Vincent S. Tseng,0,-0.575997348589379,1.162816957132177
+2150713434,Maintaining Pre-large FUSP Trees for Record Deletion,2009,9,1,1,1.0,2123991549,Tzung Pei Hong,0,0.22046278482571166,0.4149466153583954
+2159597592,Using the group genetic algorithm for attribute clustering,2012,17,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.5392923623177477,1.6577557452867429
+2168714980,Online generation of association rules under multi-dimensional consideration based on negative-border,2007,19,6,2,1.0,2105596649,Ching Yao Wang,0,0.6808452198344846,0.4840784447394115
+2165788291,A three-scan algorithm to mine high on-shelf utility itemsets,2010,13,4,2,0.0961422,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2153798286,Effective kernel FCM Finding appropriate structure in cancer database,2016,17,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.771191413440913,2.561558676659101
+2162713870,Mining weighted browsing patterns with linguistic minimum supports,2002,38,9,1,1.0,2123991549,Tzung Pei Hong,0,0.3726121256935769,-2.9469581145598784
+2171870989,Simultaneously mining inter- and intra-object association rules,2006,12,0,1,1.0,2123991549,Tzung Pei Hong,0,0.30402629548151244,0.426225947744119
+2144891062,GENETIC-FUZZY MINING WITH TAXONOMY,2012,13,7,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2153939249,Maintenance of sequential patterns for record modification using pre-large sequences,2002,11,4,2,1.0,2105596649,Ching Yao Wang,0,0.003708468606338,0.082832279151172
+2156833871,Maintenance of fast updated frequent pattern trees for record deletion,2009,17,26,1,1.0,2123991549,Tzung Pei Hong,0,-0.1555502469937143,-0.07182340977998444
+2148040937,Applying genetic programming technique in classification trees,2007,23,19,2,1.0,2102065984,Chuen Lung Chen,0,1.852498303721695,1.4682972842639317
+2169082836,A fuzzy AprioriTid mining algorithm with reduced computational time,2004,21,60,1,1.0,2123991549,Tzung Pei Hong,0,-0.6847991617772038,0.6976004469502278
+2166113419,A fuzzy AprioriTid mining algorithm with reduced computational time,2001,12,3,1,1.0,2123991549,Tzung Pei Hong,0,-1.2697621775890657,0.7877943208661399
+2157160476,Learning concepts in parallel based upon the strategy of version space,1994,24,6,1,1.0,2123991549,Tzung Pei Hong,0,-0.13621000564345706,3.724771127333082
+2169389908,Using pruning and filtering strategies to speed-up projection-based utility mining,2011,11,1,2,0.0769201,2023431847,Vincent S. Tseng,0,-0.0769353016057025,-0.2600287055078183
+2160311168,Incrementally fast updated frequent pattern trees,2008,22,149,1,1.0,2123991549,Tzung Pei Hong,0,-0.3909728599783831,1.4864796170003578
+2145436999,Automatically integrating multiple rule sets in a distributed-knowledge environment,1998,17,35,2,1.0,2121349964,Shian Shyong Tseng,0,-0.2522125408763295,-0.1449707247213614
+2154484565,A Less Domain-dependent Fuzzy Mining Algorithm for Frequent Trends,2006,29,1,2,0.294742,2023431847,Vincent S. Tseng,0,-0.0632253446896156,-0.4113309839681853
+2148486784,A genetic fuzzy-knowledge integration framework,1998,20,6,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2148573723,Attribute clustering with unknown cluster numbers,2008,20,0,2,1.0,2115711780,Cho Han Lee,0,-0.25582679640077255,2.4565093101790794
+2154633254,Risk-neutral evaluation of information security investment on data centers,2011,29,10,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2145801176,Incremental data mining based on two support thresholds,2000,12,14,2,1.0,2105596649,Ching Yao Wang,0,-0.7927176869259934,0.024124789934348467
+2149108106,Updating high average-utility itemsets in dynamic databases,2011,13,4,2,0.0769201,2023431847,Vincent S. Tseng,0,-0.3291687920599855,-0.0263937726674236
+2164030206,A Cluster-Based Divide-and-Conquer Genetic-Fuzzy Mining Approach for Items with Multiple Minimum Supports,2010,12,0,2,0.0961422,2023431847,Vincent S. Tseng,0,-0.3797386873779833,0.3085635433321177
+2149227837,A fuzzy data mining algorithm for quantitative values,1999,7,37,1,1.0,2123991549,Tzung Pei Hong,0,-1.2697621775890657,0.7877943208661399
+2188017608,Mining Approximate Coverage Rules,2001,11,4,2,1.0,2025972543,Been Chian Chien,0,0.01491558475721765,0.09513278324518974
+2188078393,Hewin High expected weighted itemset mining in uncertain databases,2015,13,1,2,0.0,2023431847,Vincent S. Tseng,0,-0.899618303124234,-0.4499953961371552
+2188120585,Mining a Complete Set of Fuzzy Multiple-Level Rules,2011,37,4,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2155471048,Learning approximate fuzzy rules from training examples,2001,15,7,2,1.0,2025972543,Been Chian Chien,0,0.003708468606338,0.082832279151172
+2161414465,A composite data model in object-oriented data warehousing,1999,7,6,1,1.0,2123991549,Tzung Pei Hong,0,0.20004712147056616,0.09289683872096129
+2155769706,Mining High Utility Itemsets Based on the Pre-large Concept,2013,12,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.0769353016057025,-0.2600287055078183
+2158755163,Learning a coverage set of maximally general fuzzy rules by rough sets,2000,19,47,2,1.0,2025972543,Been Chian Chien,0,0.003708468606338,0.082832279151172
+2161798822,Maintaining the Fast Updated FP-tree from Modified Records Based on Pre-large Itemsets,2007,7,1,1,1.0,2123991549,Tzung Pei Hong,0,1.945944252160583,1.5795882602845985
+2164780534,An Efficient FUSP-Tree Update Algorithm for Deleted Data in Customer Sequences,2009,8,8,1,1.0,2123991549,Tzung Pei Hong,0,0.12902929917442663,1.2121479184679167
+2164866344,The Pre-FUFP algorithm for incremental mining,2009,25,79,1,1.0,2123991549,Tzung Pei Hong,0,1.2282575226332388,1.1525594975370301
+2188697913,A New Method for Mining High Average Utility Itemsets,2014,11,28,3,0.0,2054470180,Hien T. Nguyen,0,0.003708468606338,0.082832279151172
+2246700757,A Fast Algorithm to Maintain the Discovered High-Utility Itemsets with Modified Records,2015,13,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2189011672,A Mining Algorithm under Fuzzy Taxonomic Structures,2002,31,0,2,1.0,2025972543,Been Chian Chien,0,0.003708468606338,0.082832279151172
+2227684440,An Efficient FUFP-tree Maintenance Algorithm for Record Modification,2008,17,8,1,1.0,2123991549,Tzung Pei Hong,0,0.2276513881513862,0.4077141828162098
+2266953847,Fuzzy Association Rule Mining with Type-2 Membership Functions,2015,25,3,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2220876185,Mining Weighted Partial Periodic Patterns,2013,10,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.2500621483379786,-0.1666866763661975
+2229420030,Efficient algorithms for mining high-utility itemsets in uncertain databases,2016,39,55,2,0.0,2023431847,Vincent S. Tseng,0,0.057874946134340265,0.06603081127532384
+2239851290,Mining fuzzy temporal association rules by item lifespans,2016,30,18,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2255439579,Updating the Built FUSP Trees with Sequence Deletion Based on Prelarge Concept,2014,24,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2216302515,An UBMFFP Tree for Mining Multiple Fuzzy Frequent Itemsets,2015,23,5,1,1.0,2123991549,Tzung Pei Hong,0,0.2276513881513862,0.4077141828162098
+2241696287,An Improved Algorithm for Mining Frequent Weighted Itemsets,2015,14,2,2,0.17546,2057932303,Bay Vo,0,-0.34841194659538965,-0.10142585373365
+2245857908,A Modified Three-Phased Object-Oriented Mining Approach for Association Rules,2008,0,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.2985471577488022,-0.2302307494815505
+2270194200,A Sanitization Approach of Privacy Preserving Utility Mining,2015,26,3,1,1.0,2123991549,Tzung Pei Hong,0,-0.08219684055276005,0.4370923699984199
+2251030740,Efficient algorithms for mining up-to-date high-utility patterns,2015,29,46,2,0.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2256859129,An Efficient Tree-based Fuzzy Data Mining Approach,2010,24,22,1,1.0,2123991549,Tzung Pei Hong,0,0.5846758976186691,1.9961872327066779
+2292130485,A Brief Survey of Genetic-Fuzzy Data Mining Techniques,2008,25,1,2,0.164483,2023431847,Vincent S. Tseng,0,-0.1071931497347323,0.3242721482837629
+2292594600,Type-2 genetic-fuzzy mining with tuning mechanism,2015,22,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2279739458,A Projection-Based Approach for Discovering High Average-Utility Itemsets,2012,17,27,2,0.0649789,2023431847,Vincent S. Tseng,0,-0.2683424255168538,-0.09322428715619095
+2293020196,CARIM An Efficient Algorithm for Mining Class- Association Rules with Interestingness Measures,2015,35,1,2,0.17546,2057932303,Bay Vo,0,-0.08174319516478164,0.1765814596713159
+2288772698,Fast algorithms for mining high-utility itemsets with various discount strategies,2016,28,23,2,0.0,2023431847,Vincent S. Tseng,0,-0.899618303124234,-0.4499953961371552
+2289857376,A Greedy-based Approach for Hiding Sensitive Itemsets by Transaction Insertion,2013,21,27,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2300124069,AN EFFICIENT GRADUAL PRUNING TECHNIQUE FOR UTILITY MINING,2012,12,5,2,0.0649789,2023431847,Vincent S. Tseng,0,0.36961615338683507,0.04520172406723675
+2307888838,Discovery of temporal association rules with hierarchical granular framework,2016,29,7,2,1.0,2104956251,Pei Shan Wu,0,0.04999692475372408,0.2701083446164921
+2281958923,Learning from Hierarchical Attribute Values by Rough Sets,2003,15,2,1,1.0,2123991549,Tzung Pei Hong,0,0.8762289113081586,-0.10365874789888514
+2290523965,A Swarm-Based Sanitization Approach for Hiding Confidential Itemsets,2015,21,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2296164026,A binary PSO approach to mine high-utility itemsets,2017,39,31,2,1.0,2003999242,Miroslav Voznak,0,0.003708468606338,0.082832279151172
+2296674849,Updating the Sequential Patterns in Dynamic Databases for Customer Sequences Deletion,2015,0,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2291820929,Mining non-redundant sequential rules with dynamic bit vectors and pruning techniques,2016,23,7,3,0.1449,2057932303,Bay Vo,0,-0.2815316708539229,0.3898655187609359
+2340848227,An efficient algorithm to mine high average-utility itemsets,2016,21,42,2,1.0,2003999242,Miroslav Voznak,0,0.003708468606338,0.082832279151172
+2347204429,Efficiently mining uncertain high-utility itemsets,2017,43,20,2,0.0,2023431847,Vincent S. Tseng,0,0.1821228022142213,0.22120613202096825
+2335044055,A sanitization approach for hiding sensitive itemsets based on particle swarm optimization,2016,46,24,2,1.0,2003999242,Miroslav Voznak,0,0.003708468606338,0.082832279151172
+2344630349,An efficient algorithm to maintain the discovered frequent sequences with record deletion,2016,24,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2398751460,Reference itemsets useful itemsets to approximate the representation of frequent itemsets,2017,27,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2404358706,An Integrated MFFP-tree Algorithm for Mining Global Fuzzy Rules from Distributed Databases,2013,41,6,1,1.0,2123991549,Tzung Pei Hong,0,-1.2697621775890657,0.7877943208661399
+2398852778,Genetic-Fuzzy Data Mining Techniques,2009,0,2,2,0.124686,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2411479617,Efficient Mining of Fuzzy Frequent Itemsets with Type-2 Membership Functions,2016,15,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.0769353016057025,-0.2600287055078183
+2399842751,Effective fuzzy possibilistic c-means an analyzing cancer medical database,2017,19,6,1,1.0,2123991549,Tzung Pei Hong,0,-0.13793882823340797,0.25689975209751925
+2394992414,K P)-Shortest Path Algorithm in the Cloud Maintaining Neighborhood Privacy,2016,0,0,3,0.786724,2031903716,I Hsien Ting,0,0.003708468606338,0.082832279151172
+2405816497,An Efficient Method for Hiding High Utility Itemsets,2013,0,4,3,0.344873,2057932303,Bay Vo,0,0.003708468606338,0.082832279151172
+2398022664,Mining Weighted Frequent Itemsets with the Recency Constraint,2015,12,3,1,1.0,2123991549,Tzung Pei Hong,0,-0.899618303124234,-0.4499953961371552
+2482091691,Efficient mining of uncertain data for high-utility itemsets,2016,20,1,2,0.0,2023431847,Vincent S. Tseng,0,0.1821228022142213,0.22120613202096825
+2418587905,A Fast Updated High Utility Pattern Trees for Transaction Deletion,2015,0,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.3291687920599855,-0.0263937726674236
+2489331610,An Efficient Anonymous System for Transaction Data,2016,25,0,2,1.0,2003999242,Miroslav Voznak,0,-0.2513476680016891,0.420179603276762
+2416948613,Mining Drift of Fuzzy Membership Functions,2016,21,0,2,1.0,2116844336,Min Thai Wu,0,0.4370613000406995,0.13027426183155102
+2490948254,Efficient algorithms for mining recent weighted frequent itemsets in temporal transactional databases,2016,11,3,1,1.0,2123991549,Tzung Pei Hong,0,-0.8042648467194434,-0.20184359168800722
+2498297201,Genetic algorithm with a structure-based representation for genetic-fuzzy data mining,2017,31,4,4,1.0,2055435565,Rung Tzuo Liaw,0,-0.1502284818739346,0.060865960275425963
+2487638867,Efficient Mining of High Average-Utility Itemsets with Multiple Minimum Thresholds,2016,25,9,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2501520615,A Survey of Fuzzy Data Mining Techniques,2016,80,2,1,1.0,2123991549,Tzung Pei Hong,0,0.28955433350337817,0.41603185788148367
+2461686391,A fast maintenance algorithm of the discovered high-utility itemsets with transaction deletion,2016,30,13,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2466358669,Mining Discriminative High Utility Patterns,2016,16,5,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2572004667,An Efficient Approach for Mining Frequent Item sets with Transaction Deletion Operation,2016,22,1,5,0.1449,2057932303,Bay Vo,0,-0.4143576157881266,0.8819267024374351
+2509363971,Mining high-utility itemsets based on particle swarm optimization,2016,28,22,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2509567864,Three maintenance algorithms for compressed object-oriented data warehousing,2001,22,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.7108737085267626,-0.09982450005427719
+2503449131,Data Mining with Linguistic Thresholds,2012,31,3,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2520242690,Efficient Mining of Multiple Fuzzy Frequent Itemsets,2017,25,4,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2515427177,PTA An Efficient System for Transaction Database Anonymization,2016,34,5,1,1.0,2123991549,Tzung Pei Hong,0,-0.4510729884163594,0.24846660988711605
+2520543032,A GA-based approach for finding appropriate granularity levels of patterns from time series,2016,38,0,2,0.0,2023431847,Vincent S. Tseng,0,-0.6575050269531357,1.4388179003466932
+2556768542,Fast algorithms for mining multiple fuzzy frequent itemsets,2016,15,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2539888708,Data mining with time granules,2012,8,0,2,1.0,2104956251,Pei Shan Wu,0,-0.34841194659538965,-0.10142585373365
+2541201445,Efficiently Updating the Discovered Sequential Patterns for Sequence Modification,2016,13,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.4295154324040917,0.15608823812681152
+2575084840,Using Soft Set Theory for Mining Maximal Association Rules in Text Data,2016,21,3,2,0.1449,2057932303,Bay Vo,0,-0.34841194659538965,-0.10142585373365
+2505330814,Maintenance of Association Rules Using Pre-Large Itemsets,2007,0,12,2,1.0,2105596649,Ching Yao Wang,0,-0.34841194659538965,-0.10142585373365
+2562802841,Improved negative-border online mining approaches,2006,0,0,2,0.651042,2121349964,Shian Shyong Tseng,0,0.05396712998225347,-0.049104309689091796
+2552200572,A Swarm-Based Approach to Mine High-Utility Itemsets,2015,16,6,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2563404506,Fuzzy Weighted Data Mining from Quantitative Transactions with Linguistic Minimum Supports and Confidences,2006,11,6,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2522192076,Efficient mining of high-utility itemsets using multiple minimum utility thresholds,2016,39,20,1,1.0,2123991549,Tzung Pei Hong,0,-0.2887870047435127,-0.09145010706416894
+2522335225,FDHUP Fast algorithm for mining discriminative high utility patterns,2017,35,25,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2545904128,A High Coherent Association Rule Mining Algorithm,2012,23,1,2,1.0,2119487119,Yui Kai Lin,0,0.3342869686760416,0.23129019990544636
+2535350914,Maintenance of DBV-Trees for Transaction Insertion,2012,13,0,4,0.465873,2057932303,Bay Vo,0,-1.088777747595941,0.6820590863500278
+2570623848,Mining fuzzy association rules using a memetic algorithm based on structure representation,2018,33,7,4,1.0,2055435565,Rung Tzuo Liaw,0,-0.34841194659538965,-0.10142585373365
+2536303592,Speed up the execution efficiency of finding fuzzy frequent itemsets,2012,12,2,1,1.0,2123991549,Tzung Pei Hong,0,-0.0769353016057025,-0.2600287055078183
+2605387833,Efficiently mining frequent itemsets with weight and recency constraints,2017,33,6,1,1.0,2123991549,Tzung Pei Hong,0,-0.8042648467194434,-0.20184359168800722
+2586773853,Genetic-fuzzy mining with MapReduce,2016,11,0,2,1.0,2116844336,Min Thai Wu,0,0.003708468606338,0.082832279151172
+2586811226,Efficient mining of short periodic high-utility itemsets,2016,21,2,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2613489032,Optimizing Diverse Group Stock Portfolio without Setting a Number of Groups,2017,10,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.21934185016841626,0.6056873083074126
+2590962158,A High-Performance Algorithm for Mining Repeating Patterns,2017,11,0,1,1.0,2123991549,Tzung Pei Hong,0,0.36961615338683507,0.04520172406723675
+2594388115,A fast algorithm for mining high average-utility itemsets,2017,27,20,3,0.116586,2057932303,Bay Vo,0,0.003708468606338,0.082832279151172
+2614083095,A two-phase approach to mine short-period high-utility itemsets in transactional databases,2017,38,16,2,0.0,2109058337,Ji Zhang,0,-0.0769353016057025,-0.2600287055078183
+2707730299,EHAUPM Efficient High Average-Utility Pattern Mining With Tighter Upper Bounds,2017,33,22,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2589113983,Merging Two Sets of Erasable Itemsets,2016,12,0,2,0.1449,2057932303,Bay Vo,0,0.003708468606338,0.082832279151172
+2616819483,Efficient Hiding of Confidential High-utility Itemsets with Minimal Side Effects,2017,37,10,1,1.0,2123991549,Tzung Pei Hong,0,-0.2848009883361741,-0.2685804658780362
+2596553710,Efficient Algorithms for Mining Erasable Closed Patterns From Product Datasets,2017,36,10,2,0.116586,2057932303,Bay Vo,0,0.33343093076163816,0.18775242482854657
+2765519831,A weighted N-list-based method for mining frequent weighted itemsets,2018,35,9,3,0.108008,2057932303,Bay Vo,0,0.003708468606338,0.082832279151172
+2744350898,Mining of High Average-Utility Itemsets with a Tighter Upper-Bound Model,2017,17,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2744824353,An incremental mining algorithm for erasable itemsets,2017,14,6,2,0.116586,2057932303,Bay Vo,0,-0.5823529768549155,-0.6361698987511631
+2766044254,Updating the Discovered High Average-Utility Patterns with Transaction Insertion,2017,16,1,1,1.0,2123991549,Tzung Pei Hong,0,-0.3291687920599855,-0.0263937726674236
+2766590004,Mining Erasable Itemsets Using Bitmap Representation,2017,15,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.0769353016057025,-0.2600287055078183
+2770979795,Temporal-Based Fuzzy Utility Mining,2017,32,2,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2756111171,Mining Weighted Frequent Itemsets without Candidate Generation in Uncertain Databases,2017,38,5,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2781243672,Effective Quality-Aware Sensor Data Management,2018,42,9,1,1.0,2123991549,Tzung Pei Hong,0,0.09360964965090608,-0.882345416065622
+2791571700,An Approach for Diverse Group Stock Portfolio Optimization Using the Fuzzy Grouping Genetic Algorithm,2018,16,1,1,1.0,2123991549,Tzung Pei Hong,0,0.2411296976350509,0.19514062197806442
+2784920477,Efficient modification of fast updated FP-trees based on pre-large concepts,2010,0,3,1,1.0,2123991549,Tzung Pei Hong,0,0.2276513881513862,0.4077141828162098
+2783237610,Quasi-erasable itemset mining,2017,9,2,2,0.116586,2057932303,Bay Vo,0,0.003708468606338,0.082832279151172
+2783483776,A survey of incremental high-utility itemset mining,2018,58,48,1,1.0,2123991549,Tzung Pei Hong,0,-0.7417304193464647,-0.42814465593528334
+2797763516,Efficiently updating the discovered high average-utility itemsets with transaction insertion,2018,42,6,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2887364681,Maintenance of Erasable Itemsets for Product Deletion,2018,12,1,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2884350680,Efficiently Updating the Discovered Multiple Fuzzy Frequent Itemsets with Transaction Insertion,2018,40,3,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+2902447356,Mining Fuzzy Concept-drift Patterns from Quantitative Database Change,2015,0,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2906840454,A Multiple Objective PSO-Based Approach for Data Sanitization,2018,26,0,2,0.0,2111630871,Chien Ming Chen,0,0.003708468606338,0.082832279151172
+2914341452,CoUPM Correlated Utility-based Pattern Mining,2018,40,3,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2911682984,Reducing Database Scan in Maintaining Erasable Itemsets from Product Deletion,2018,11,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+3000083392,Fuzzy Utility Mining Under Minimum Weight Constraint of Multiple Item Weights,2019,15,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.18290697345437593,0.18691796086291798
+2991476255,Mining Clickstream Patterns Using IDLists,2019,22,0,3,0.9965,2007105944,Zuzana Kominkova Oplatkova,0,-0.3651490692927568,-1.4673546476895372
+3000499931,Erasable Pattern Mining with Quantitative Information,2019,14,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2966061762,Post-Analysis Framework for Mining Actionable Patterns Using Clustering and Genetic Algorithms,2019,0,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.21934185016841626,0.6056873083074126
+3001340981,Efficient algorithms for mining clickstream patterns using pseudo-IDLists,2020,31,1,4,0.9965,2007105944,Zuzana Kominkova Oplatkova,0,-0.3651490692927568,-1.4673546476895372
+3025375181,Mining Correlated High Utility Itemsets in One Phase,2020,0,0,2,0.0,2057932303,Bay Vo,0,0.003708468606338,0.082832279151172
+3009620309,Automatic Parameter Setting in Hough Circle Transform,2020,12,0,1,1.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+3006136924,Efficient Algorithm for Mining Non-Redundant High-Utility Association Rules,2020,31,0,3,0.0,2025687059,Unil Yun,0,-0.34841194659538965,-0.10142585373365
+3006650279,An Efficient Method for Mining Closed Potential High-Utility Itemsets,2020,0,0,2,0.0,2057932303,Bay Vo,0,-0.899618303124234,-0.4499953961371552
+3007083962,Mining Temporal Fuzzy Utility Itemsets by Tree Structure,2019,20,0,1,1.0,2123991549,Tzung Pei Hong,0,0.09924123482834313,0.07084622515520367
+3028426276,Discovering Fuzzy Inter- and Intra-Object,2011,0,0,1,1.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+3014659696,Flexible sensitive K-anonymization on transactions,2020,36,0,2,0.0,2031903716,I Hsien Ting,0,0.003708468606338,0.082832279151172

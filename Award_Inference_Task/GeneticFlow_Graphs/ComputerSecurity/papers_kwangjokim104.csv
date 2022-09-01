@@ -1,0 +1,132 @@
+70239856,Efficient ID-based blind signature and proxy signature from bilinear pairings,2003,34,235,2,0.862069,2129307903,Fangguo Zhang,0,-0.7456025324584563,-2.8636549649312073
+173388168,Fair Exchange of Digital Signatures Using Conditional Signature,2002,7,18,2,1.0,2166319967,Byoungcheon Lee,0,-0.7684019128941872,-1.511144007805696
+191543054,Multi-Certification Signatures and Their Applications to Public Key Infrastructure,2002,3,0,2,1.0,2166319967,Byoungcheon Lee,0,0.18807722130587892,-2.8201457685994415
+157905802,Receipt-free Electronic Voting through Collaboration of Voter and Honest Verifier,2000,0,73,2,1.0,2166319967,Byoungcheon Lee,0,-0.49900057207809684,-1.2222253648816706
+159700855,Mutual Authentication Protocol for Low-cost RFID,2005,12,142,2,0.212703,2104316971,Jaemin Park,0,-2.5801777233166954,-1.9953699804719607
+126938519,A Secure Testament Revealing Protocol,2003,11,1,2,0.0,2150144027,Jongseong Kim,0,-1.1671563268610314,-1.4593391764313033
+143688472,RFID mutual Authentication Scheme based on Synchronized Secret Information,2006,8,95,1,1.0,2421077175,Kwangjo Kim,0,-0.8518960151383574,0.14242990378739828
+178529559,Self-Certificate PKI using Self-Certified Key,2000,4,14,2,1.0,2166319967,Byoungcheon Lee,0,-0.028285275790700348,-0.8573561199776326
+43128621,Mobile RFID applications and security challenges,2006,3,2,1,1.0,2421077175,Kwangjo Kim,0,0.0040557659796233,0.2757546058061082
+146675771,Ring Authenticated Encryption A New Type of Authenticated Encryption,2004,15,10,3,1.0,2099131168,Xiaofeng Chen,0,-0.6278822566289277,-1.7897757564000307
+95939794,Limited Verifier Signature from Bilinear Pairings,2004,52,12,3,1.0,2099131168,Xiaofeng Chen,0,-1.0057055712132306,-1.9737720817062925
+183320387,Visible Watermarking using Verifiable Digital Seal Image,2001,10,8,1,1.0,2421077175,Kwangjo Kim,0,-0.293486955635006,-0.3972521367979378
+230587281,Cryptanalysis of ID-Based Remote Authentication with Smart Cards on Open Distributed System from Elliptic Curve Cryptography,2007,9,1,1,1.0,2421077175,Kwangjo Kim,0,-1.4659619779306723,-1.2974834995278561
+33360777,Enhancing Security of Class I Generation 2 RFID against Traceability and Cloning,2008,7,2,3,1.0,2112575917,Hyunrok Lee,0,-1.0875194795829854,-1.1732265776037643
+809017710,On recursively extended Boolean functions,1995,0,0,3,1.0,2119796974,Seongtaek Chee,0,0.0040557659796233,0.2757546058061082
+827442532,Generallization of Semi-bent functions and their Construction Method,1996,0,0,3,1.0,2119796974,Seongtaek Chee,0,-1.076221752680672,-1.4156069685742139
+1559222974,Identity-based chameleon hash scheme without key exposure,2010,39,27,6,0.277096,2099131168,Xiaofeng Chen,0,-0.48150218743355466,-0.7479535242651124
+1559385478,A Micro-payment System for Multiple-Shopping,2002,13,10,1,1.0,2421077175,Kwangjo Kim,0,-0.6983154904368457,-0.40498180379122817
+1552263502,Preliminary Design of a Novel Lightweight Authenticated Encryption Scheme Based on the Sponge Function,2015,7,0,2,0.0,2139023916,HakJu Kim,0,0.33434638602989303,-2.113817410293926
+1025042750,Public-key encryption scheme for providng provable security based on computational Diffie-Hellman assumption,2001,1,5,3,1.0,2157523914,Joonsang Baek,0,0.5699372349584553,-2.2915007348906204
+1561204506,Secure Matchmaking Protocol,2000,14,5,2,1.0,2166319967,Byoungcheon Lee,0,0.375085750010936,-1.1212523108175967
+1499347575,Three-round abuse-free optimistic contract signing with everlasting secrecy,2010,9,6,4,0.0,2050318273,Yi Mu,0,-0.13192672175727777,-1.0160022576051424
+1508188242,Secret Computation with Secrets for Mobile Agent using One-time Proxy Signature,2001,10,62,4,1.0,2157523914,Joonsang Baek,0,0.18292774136084372,-1.178368653128841
+1526245436,Experimental Design of Worldwide Internet Voting System using PKI,2001,0,18,3,1.0,2166319967,Byoungcheon Lee,0,-0.08650044772053431,-1.449101006869995
+1526712842,Reconsidering Ryu-Takagi RFID authentication protocol,2010,11,1,3,0.37515,558499169,Chan Yeob Yeun,0,-0.9390735042048075,-1.5062063039901723
+1517662352,ID-Based Distributed â€œMagic Inkâ€ Signature from Pairings,2003,30,1,3,1.0,2099131168,Xiaofeng Chen,0,0.05690310147699451,-1.5708574674583313
+1535947103,Improved ID-based Authenticated Group Key Agreement Secure Against Impersonation Attack by Insider,2009,15,5,2,0.0,2129284175,Hye won Park,0,-0.7561651855852859,-1.6374362273333734
+1509243031,Generic security-amplifying methods of ordinary digital signatures,2008,38,3,4,0.0,2046505287,Duncan S. Wong,0,-1.178201214907827,-2.743956063641703
+1572559454,Secure Mobile Agent Using Strong Non-designated Proxy Signature,2001,14,198,3,1.0,2166319967,Byoungcheon Lee,0,0.014748361841905658,-1.347614191199343
+1554895559,Secure key issuing in ID-based cryptography,2004,10,108,5,0.0,2121914413,Jeong Mo Yang,0,-0.5001302058741899,-2.7286931552561073
+1573178676,A scalable and untraceable authentication protocol for RFID,2006,24,23,2,0.0,2411847545,Youngjoon Seo,0,-0.9903006182795554,-0.8001932170846981
+1528122501,A secure and privacy enhanced location-based service transaction protocol in ubiquitous computing environment,2004,10,3,3,0.0,2062283694,Robert H. Deng,0,-0.34581392667459365,-0.11176945236799227
+1501725425,A lightweight privacy preserving authentication and access control scheme for ubiquitous computing environment,2007,18,12,2,1.0,2303698196,Zeen Kim,0,-0.8010783909478871,-0.29379842387456856
+1574591520,An Adaptive Authentication Protocol based on Reputation for Peer-to-Peer System,2003,9,15,1,1.0,2421077175,Kwangjo Kim,0,-0.8404190164590305,-0.4129458400544529
+1556971503,On the Correlation Immune Functions and their Nonlinearity,1996,0,0,3,1.0,2119796974,Seongtaek Chee,0,1.3671623630234992,-0.8162433148485256
+1486506204,A privacy-preserving secure service discovery protocol for ubiquitous computing environments,2010,17,6,4,1.0,2114893577,Jangseong Kim,0,-0.09732729226271908,3.0421539154598163
+1495940897,Practical Solution for Location Privacy in Mobile IPv6,2003,12,14,2,0.0,2117716699,ByeongGon Kim,0,-0.8804549105876804,0.21119673950107648
+1531296734,Threshold Password-Based Authentication Using Bilinear Pairings,2004,29,9,3,1.0,2111397823,Kyusuk Han,0,0.07861837096733781,-0.6412733637193323
+1585638454,Receipt-Free Electronic Auction Schemes Using Homomorphic Encryption,2003,35,34,3,1.0,2099131168,Xiaofeng Chen,0,0.42206223790253167,-0.7409547711365306
+1842409348,Receipt-free electronic voting scheme with a tamper-resistant randomizer,2002,25,69,2,1.0,2166319967,Byoungcheon Lee,0,0.22677857137652246,-0.4043756690420624
+1579466624,A Forward-Secure Blind Signature Scheme Based on the Strong RSA Assumption,2003,25,12,3,0.0,1817788928,Jung Hee Cheon,0,-0.6380105806379525,-2.853818330674437
+1849489685,Efficient authenticated key agreement protocol for dynamic groups,2004,37,9,3,1.0,2137211123,Kui Ren,0,-1.17650862421023,-2.6066070631792
+1598262674,Efficient Public Auction with One-Time Registration and Public Verifiability,2001,10,35,3,1.0,2166319967,Byoungcheon Lee,0,0.0040557659796233,0.2757546058061082
+1589787289,Reconstruction of s2DES S-boxes and their Immunity to Differential Cryptanalysis,1993,0,9,1,1.0,2421077175,Kwangjo Kim,0,1.1985845723746162,-1.00492738874941
+1590407729,A Universal Forgery on Araki et als Convertible Limited Verifier Signature Scheme,2003,3,21,2,0.862069,2129307903,Fangguo Zhang,0,0.0040557659796233,0.2757546058061082
+1835258272,Improving fairness and privacy of Zhou-Gollmanns fair non-repudiation protocol,1999,14,25,3,0.0,2114882932,Sangjoon Park,0,-0.7292875261769165,-0.9618451828847836
+1985501559,Resuscitating privacy-preserving mobile payment with customer in complete control,2012,14,14,6,0.0,2153062325,Soontae Kim,0,0.0040557659796233,0.2757546058061082
+1975441856,Defending RFID authentication protocols against DoS attacks,2011,8,41,2,1.0,2165041079,Dang Nguyen Duc,0,-1.8564506992164405,-1.8751029195401607
+1974177380,Secure authenticated group key agreement protocol in the MANET environment,2008,19,16,3,0.664334,558499169,Chan Yeob Yeun,0,-0.17674252219061112,-1.0908680605214287
+2003452474,Location-Aware and Privacy-Preserving Approach for Child Safety in Ubiquitous Computing Environment,2011,6,0,3,0.964912,2092121144,Taeshik Shon,0,-1.1479372177912124,-0.0781126381193695
+2003595048,Enhancing Credibility of Location Based Service Using Multiple Sensing Technologies,2011,8,1,3,0.964912,2092121144,Taeshik Shon,0,-0.5530861437885858,-0.004176666300269333
+1990298693,A scalable and privacy-preserving child-care and safety service in a ubiquitous computing environment,2012,7,5,4,0.512561,2092121144,Taeshik Shon,0,0.2018268678365599,0.1425886522275585
+2020996576,Security of a multisignature scheme for specified group of verifiers,2005,7,5,2,1.0,2125414272,Jiqiang Lv,0,-0.2826238574319974,-1.3558583457377433
+2029093046,Design and Implementation of One-Way Key Agreement Model for Enhancing VoIP Internet Phone Security,2011,10,0,3,0.964912,2092121144,Taeshik Shon,0,-0.4626313516993502,-0.19732044656179426
+2048406491,Preventing Abuse of Cookies Stolen by XSS,2013,6,3,4,0.0,1530778554,Heung Youl Youm,0,-0.7862928131582527,0.2720744669560458
+2063720898,Security Analysis of an ID-Based Key Agreement for Peer Group Communication,2007,3,2,2,0.0,2343405538,Duc Liem Vo,0,0.14364328620091082,-0.7939031445402545
+2103408102,Practical convertible authenticated encryption schemes using self-certified public keys,2005,23,27,2,1.0,2125414272,Jiqiang Lv,0,0.031017432679859597,-1.3822588302646834
+2101048497,A New Receipt-Free Voting Scheme Based on Linkable Ring Signature for Designated Verifiers,2008,21,7,3,0.345895,2099131168,Xiaofeng Chen,0,-0.5018756205237718,-1.8127965938456985
+2104939601,Hidden attribute-based signatures without anonymity revocation,2010,25,115,2,0.804598,2257074422,Jin Li,0,0.01665531770811539,-1.6408815100624432
+2099197427,New key escrow model for the lawful interception in 3GPP,2009,2,1,3,0.598749,558499169,Chan Yeob Yeun,0,0.5890064534983876,-0.9033571490491185
+2114396486,Authentication and payment protocol preserving location privacy in mobile IP,2003,12,8,1,1.0,2421077175,Kwangjo Kim,0,-0.34323701283399993,-0.35201500999944935
+2138463237,Certificateless Authenticated Group Key Agreement Protocol for Dynamic Groups,2007,10,17,3,0.0,2229107129,Sungchul Heo,0,-0.72153762241191,-2.165389661413758
+2123725289,A survey on RFID security and provably secure grouping-proof protocols,2010,36,9,4,1.0,2044183007,Divyan M. Konidala,0,0.10804996129594738,0.2997762761210209
+2106366056,Efficient and Secure File Deduplication in Cloud Storage,2014,27,4,3,1.0,2171012257,Youngjoo Shin,0,0.3943481595954825,-0.2551317010395445
+2118427524,Open issues in RFID security,2009,27,13,4,1.0,2044183007,Divyan M. Konidala,0,0.25160797469335383,0.790071521384736
+2124406434,Identity-based chameleon hashing and signatures without key exposure,2014,42,34,6,0.0,2099131168,Xiaofeng Chen,0,-0.22273160831817237,-0.8836055990732682
+2142408520,A capability-based privacy-preserving scheme for pervasive computing environments,2005,21,7,4,1.0,2044183007,Divyan M. Konidala,0,-0.5002280673989011,0.607460718867369
+2109870474,Self-certified Signatures,2002,13,20,2,1.0,2166319967,Byoungcheon Lee,0,-0.1489674909841379,-2.6390551657453605
+2124904605,Practical pay TV schemes,2003,16,18,3,0.0,2121998336,Arvind Narayanan,0,-0.11770819967237758,-1.5292878296555874
+2127890969,Security Analysis of A Remote User Authentication Protocol by Liao and Wang,2009,1,0,2,1.0,2165041079,Dang Nguyen Duc,0,-1.6010942169933609,-1.717705341353808
+2124937338,An Efficient Tree-Based Group Key Agreement Using Bilinear Map,2003,12,35,2,0.0,2168309605,Yongdae Kim,0,-0.07083133312297948,-1.441081179398698
+2130743324,Tapping alert protocol,2000,9,2,2,0.0,2360170261,Gookwhan Ahn,0,-0.8779550658453962,-1.820725514347383
+2124989915,Untraceable and Serverless RFID Authentication and Search Protocols,2011,12,16,5,0.964912,2092121144,Taeshik Shon,0,-1.1964091264087853,-0.8583008957125563
+2131487642,3G-WLAN interworking security analysis and new authentication and key agreement based on EAP-AKA,2009,7,62,3,1.0,2111397823,Kyusuk Han,0,-0.6603655660013049,-1.274203539104986
+2113957907,A scalable and efficient key escrow model for lawful interception of IDBC-based secure communication,2011,12,13,5,0.276806,558499169,Chan Yeob Yeun,0,0.3875707978076784,-1.232977948318495
+2122874040,A secure and privacy enhanced protocol for location-based services in ubiquitous society,2004,5,8,3,0.664334,558499169,Chan Yeob Yeun,0,0.13154250405607637,1.4476636614908143
+2140752130,Forward Secure ID-Based Group Key Agreement Protocol with Anonymity,2009,8,5,2,1.0,2303698196,Zeen Kim,0,-0.37322987993460066,-1.2683620777774687
+2162593813,Chameleon Hashing Without Key Exposure,2004,31,65,3,1.0,2099131168,Xiaofeng Chen,0,-0.016651733653876677,-1.1701957710554867
+2148078458,Efficient sensor node authentication via 3GPP mobile communication networks,2010,6,4,4,0.964912,2092121144,Taeshik Shon,0,0.0040557659796233,0.2757546058061082
+2145175731,Traceable Anonymous Authentication Scheme for Vehicular Ad-hoc Networks,2011,20,4,4,1.0,2114893577,Jangseong Kim,0,-0.8261757041476873,-0.5551854243320511
+2163903338,The ring authenticated encryption scheme - How to provide a clue wisely,2009,21,4,4,0.303678,2099131168,Xiaofeng Chen,0,0.3240212870938373,-1.9835205529999829
+2152150390,Identity-Based Secret Signature Scheme,2009,17,2,3,1.0,2166319967,Byoungcheon Lee,0,-1.0710235015467147,-2.818612931438335
+2161138129,Cryptanalysis of Lee-Hwang-Lis key authentication scheme,2005,6,10,2,0.682622,2129307903,Fangguo Zhang,0,-1.3461631984094014,-2.5081507533883545
+2161236388,A novel privacy preserving authentication and access control scheme for pervasive computing environments,2006,33,118,4,0.0,2062283694,Robert H. Deng,0,-0.7875299502983605,0.25227661439089627
+2167395794,Attacks on Tanakas non-interactive key sharing scheme,1995,4,1,1,1.0,2421077175,Kwangjo Kim,0,0.27936975730398195,-0.9818073608887811
+2164464397,Generic On-line/Off-line Aggregate Signatures,2008,11,3,4,0.345895,2099131168,Xiaofeng Chen,0,-0.3994003575566934,-0.9218741116859009
+2149914870,On the Security of RFID Group Scanning Protocols,2010,4,6,2,0.0,2331545205,Duc Nguyen Dang,0,0.0040557659796233,0.2757546058061082
+2189310124,Who can survive in CAESAR competition at round-zero ,2014,10,2,2,0.0,2139023916,HakJu Kim,0,0.2518165800838619,-2.016194147493007
+2222231349,Anonymous Authentication Protocol for Dynamic Groups with Power-Limited Devices,2003,6,6,1,1.0,2421077175,Kwangjo Kim,0,-1.792179016951233,-2.3210399148212546
+2263580912,Grouping-Proof Protocol for RFID Tags Security Definition and Scalable Construction,2009,0,2,2,1.0,2165041079,Dang Nguyen Duc,0,0.0040557659796233,0.2757546058061082
+2193050358,Scalable P2P Botnet Detection with Threshold Setting in Hadoop Framework,2015,28,3,3,0.0,2079115061,Paul D. Yoo,0,0.0040557659796233,0.2757546058061082
+2240712945,A new ID-based Group Signature scheme from bilinear pairings,2003,20,81,3,1.0,2099131168,Xiaofeng Chen,0,-0.721568553195794,-2.923985976808185
+2270764854,Design of micro-kernel based security server framework with RBAC policy server,2002,0,0,1,1.0,2421077175,Kwangjo Kim,0,-0.431912385177073,0.9252276186516926
+2293254815,Secure One-way Mobile Payment System Keeping Low Computation in Mobile Devices,2002,5,10,1,1.0,2421077175,Kwangjo Kim,0,0.040436573539455366,-1.6899766192983474
+2295049698,Gateway threshold password-based Authenticated Key Exchange secure against Undetectable On-line Dictionary Attack,2015,12,1,6,0.0,1896382425,Goichiro Hanaoka,0,-2.1276909669788022,-1.3519340292233117
+2309446869,Scalable Grouping-proof Protocol for RFID Tags,2010,7,4,3,1.0,2114893577,Jangseong Kim,0,-1.037115021222302,-0.9775369936510293
+2301153703,Lightweight Authentication Method and System for Low-Cost Devices Without Pseudorandom Number Generator,2008,4,5,2,1.0,2165041079,Dang Nguyen Duc,0,-0.9862848150412951,-0.9090724111774545
+2296298578,Another dummy generation technique in location-based services,2016,23,3,3,0.0,2124284104,Hyo Jin Do,0,-0.40787756384644835,0.66431869971878
+2311241910,Design of Secure VoIP using ID-Based Cryptosystem,2008,9,5,3,0.0,2306951965,Han Chan,0,-1.2285026418243497,-1.4866716691665887
+2344982305,Securing HB+ against GRS Man-in-the-Middle Attack,2007,25,57,2,1.0,2165041079,Dang Nguyen Duc,0,-1.6143305660561662,-0.903222741358062
+2337037942,A Lightweight Protocol Enabling Ownership Transfer and Granular Data Access of RFID Tags,2007,15,24,2,0.0,2411847545,Youngjoon Seo,0,-0.361476545878121,-0.6806259099785301
+2343003843,A Secure RFID Reader Protocol based on SLRRP,2007,10,4,1,1.0,2421077175,Kwangjo Kim,0,-1.8711089031653751,-1.530146875065442
+2343361034,Yet Another Intrusion Detection System against Insider Attacks,2008,12,8,4,0.0,2306951965,Han Chan,0,0.6167706027095183,0.9789861965396558
+2339192558,A Protocol of Unlinkable Transaction for Preserving Customer Privacy,2005,8,2,1,1.0,2421077175,Kwangjo Kim,0,-0.23186471641960224,-0.4809498080185446
+2405210915,A2BE Accountable Attribute-Based Encryption for Abuse Free Access Control,2009,30,51,3,0.19221,2137211123,Kui Ren,0,-0.08583384268170006,-1.0873222018836157
+2408101398,A secure mutual authentication scheme with key agreement using smart card from bilinear pairings,2008,0,0,2,0.0,2343405538,Duc Liem Vo,0,-0.7425158830036955,0.10130030333851194
+2495860794,Public Key Cryptography,2001,0,2,1,1.0,2421077175,Kwangjo Kim,0,-0.38907346302086776,-2.871733045165294
+2476617887,Mobile RFID applications and security challenges,2006,0,0,1,1.0,2421077175,Kwangjo Kim,0,0.0040557659796233,0.2757546058061082
+2486035001,Receipt-free electronic voting scheme with a tamper-resistant randomizer,2003,0,49,2,1.0,2166319967,Byoungcheon Lee,0,0.22677857137652246,-0.4043756690420624
+2480431056,DoS Attacks on RFID Systems Privacy vs Performance,2013,6,0,2,1.0,2165041079,Dang Nguyen Duc,0,0.0040557659796233,0.2757546058061082
+2560158963,An efficient and privacy-preserving authentication protocol for HAN,2011,5,0,3,1.0,2114893577,Jangseong Kim,0,-1.2240534141992347,-0.46822442028386857
+2554466145,Revocable Decentralized Multi-Authority Functional Encryption,2016,22,1,3,0.0,2022219673,Eiji Okamoto,0,0.3681728074032191,-1.1241973200253954
+2602255610,Detecting Impersonation Attack in WiFi Networks Using Deep Learning Approach,2016,9,18,1,1.0,2421077175,Kwangjo Kim,0,-1.3812354026451008,-0.8402820808783191
+2612589114,Efficient public auction with one-time registration and public verifiability,2001,0,0,3,1.0,2166319967,Byoungcheon Lee,0,0.0040557659796233,0.2757546058061082
+2768672376,Security analysis of end-to-end encryption in Telegram,2017,0,1,1,1.0,2421077175,Kwangjo Kim,0,0.2652915895276385,-0.4792008989743226
+2756867949,Diffusion-Confusion Based Light-Weight Security for Item-RFID Tag-Reader Communication,2011,28,0,3,0.0,2199406964,Made Harta Dwijaksara,0,-0.41816341115897976,-0.5206347578058135
+2775418092,Provably Secure Gateway Threshold Password-Based Authenticated Key Exchange Secure against Undetectable On-Line Dictionary Attack,2017,18,0,6,0.0,1896382425,Goichiro Hanaoka,0,-0.9290895382618518,-1.4167429810119334
+2788232773,Design of Intrusion Detection System Preventing Insider Attack,2009,13,0,4,0.598749,558499169,Chan Yeob Yeun,0,-1.182495590201979,0.420843383277169
+2788429121,Mobile RFID applications and security challenges,2006,0,8,1,1.0,2421077175,Kwangjo Kim,0,0.0040557659796233,0.2757546058061082
+2788510864,An Efficient Method to Find the Linear Expressions for Linear Cryptanalysis,1995,0,1,1,1.0,2421077175,Kwangjo Kim,0,1.1450107185879896,-1.0290424267575617
+2791221788,Challenges of Cyber Security for Nuclear Power Plants,2012,1,2,1,1.0,2421077175,Kwangjo Kim,0,0.0040557659796233,0.2757546058061082
+2791352874,Intrusion-Resilient Key-Evolving Schnorr Signature,2003,12,0,1,1.0,2421077175,Kwangjo Kim,0,-0.8593494690956794,-1.8866060377461258
+2791438074,A Lightweight Privacy Preserving and Secure Service Discovery Protocol in Ubiquitous Computing Environment,2008,9,2,1,1.0,2421077175,Kwangjo Kim,0,0.03414406787360945,0.2818663120264617
+2894667099,eMotion An SGX extension for migrating enclaves,2019,17,1,4,0.212703,2104316971,Jaemin Park,0,-0.3287690164964345,0.14636193449847731
+2905663966,Security and User Privacy for Mobile-RFID Applications in Public Zone,2008,7,0,3,1.0,2112575917,Hyunrok Lee,0,-0.20849172639321703,0.604274447928322
+2949726291,Cryptanalysis of Lee-Hwang-Lis Key Authentication Scheme,2003,0,0,2,0.862069,2129307903,Fangguo Zhang,0,-0.7982854846724843,-0.5269952249751902
+2951847151,Security weakness in the Proof of Storage with Deduplication,2012,6,14,3,1.0,2171012257,Youngjoo Shin,0,0.12639018307611857,0.6355810525226704
+2937354233,Blockchain-Based Decentralized Key Management System with Quantum Resistance,2018,13,0,1,1.0,2421077175,Kwangjo Kim,0,-0.19917965059375542,-1.6001120045958428
+3003402662,Three-Round Abuse-Free Optimistic Contract Signing with Everlasting Secrecy,2010,0,0,4,0.0,2050318273,Yi Mu,0,-0.13192672175727777,-1.0160022576051424
+3026180074,Decentralizing the role of root authority in CP-ABE by the help of blockchain,2019,0,0,1,1.0,2421077175,Kwangjo Kim,0,0.03857885209080565,0.668590409100547
+3026764205,A Countermeasure against Spoofing and DoS Attacks based on Message Sequence and Temporary ID in CAN,2016,0,0,1,1.0,2421077175,Kwangjo Kim,0,-1.1728417193256522,-0.017084428456688394
+3027635100,Security and Privacy on Authentication Protocol for Low-cost RFID,2005,11,13,2,1.0,2137211123,Kui Ren,0,-0.40333916286712873,0.013338352450136934

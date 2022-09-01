@@ -1,0 +1,92 @@
+176322418,Concolic testing and constraint satisfaction,2011,12,4,1,1.0,2157836386,Koushik Sen,0,1.1486336519271965,-0.39574397967454444
+41667024,Software Testing Technique Supporting Dynamic Data Structures,2007,15,27,2,0.276202,1702668839,Darko Marinov,0,1.4267764048082174,-0.5962119035774428
+145972366,LATEST Lazy Dynamic Test Input Generation,2007,25,24,2,0.0,2156286033,Rupak Majumdar,0,1.2605965990171455,-0.6259570927461854
+198859491,EAGLE does Space Efficient LTL Monitoring,2003,16,12,4,0.0,690502127,Klaus Havelund,0,-0.2568433456583056,0.3183245672264848
+223068689,Scalable automated methods for dynamic program analysis,2006,106,32,1,1.0,2157836386,Koushik Sen,0,3.5746749904831026,-1.2407568107976639
+297132765,Lightweight specifications for parallel correctness,2012,159,0,2,1.0,2048404743,Jacob Burnim,0,-0.06007537385037589,0.5193975767190107
+292520766,CUTE and jCUTE Concolic Unit Testing and Explicit Path Model-Checking Tools (Tools Paper),2006,6,11,1,1.0,2157836386,Koushik Sen,0,0.4145072560918567,-0.44744062549883945
+1488145332,EAGLE can do Efficient LTL Monitoring,2003,14,0,3,0.0,2132480287,Allen Goldberg,0,-0.27632276176539083,0.1684989415072452
+1490356539,A race-detection and flipping algorithm for automated testing of multi-threaded programs,2006,26,60,1,1.0,2157836386,Koushik Sen,0,0.9421169795172389,-1.0245641734396187
+1552533796,A Rewriting Based Model for Probabilistic Distributed Object Systems,2003,14,33,2,0.0,2141313922,JosÃ© Meseguer,0,-0.005847918206995054,-0.4862393221155631
+1534715403,EAGLE Monitors by Collecting Facts and Generating Obligations,2003,20,10,2,0.0,2132480287,Allen Goldberg,0,-0.026319227967537974,0.008784756706006747
+1481985818,Detecting errors in multithreaded programs by generalized predictive analysis of executions,2005,15,39,2,0.0401663,96492545,Grigore Rosu,0,0.13740430797858041,-0.025915864853292045
+1563374799,Model checking multithreaded programs with asynchronous atomic methods,2006,29,79,1,1.0,2157836386,Koushik Sen,0,-0.14005658034160634,0.5874784520637037
+1566086941,Automated systematic testing of open distributed programs,2006,28,86,1,1.0,2157836386,Koushik Sen,0,0.8922344976777238,-0.6501011291802905
+1548806133,CUTE and jCUTE concolic unit testing and explicit path model-checking tools,2006,7,323,1,1.0,2157836386,Koushik Sen,0,0.4485711154448727,-0.44848177800803796
+1793434178,SJS A Type System for JavaScript with Fixed Object Layout,2015,21,10,3,0.0,281330718,George C. Necula,0,-0.7475759189183326,-0.7712979475851702
+1578255446,An instrumentation technique for online analysis of multithreaded programs,2004,27,4,2,0.0546729,96492545,Grigore Rosu,0,0.17340076680100172,-0.0014296681304101014
+1588986231,SNIFF A Search Engine for Java Using Free-Form Queries,2009,20,114,2,0.0,2154689473,Sudeep Juvekar,0,0.020304266436086866,-0.08310501890479205
+1825341937,Rule-Based Runtime Verification,2004,19,287,4,0.167758,690502127,Klaus Havelund,0,0.38331304338432304,0.015160379760865927
+1868584616,CalFuzzer An Extensible Active Testing Framework for Concurrent Programs,2009,9,98,4,0.96407,2005763208,Mayur Naik,0,-0.33625783979743656,0.19767667422083285
+1975902166,CONCURRIT testing concurrent programs with programmable state-space exploration,2012,24,9,4,0.0,281330718,George C. Necula,0,0.7101353774428116,-0.21400096261548285
+1996009176,Testing concurrent programs on relaxed memory models,2011,31,58,3,1.0,1965806429,Christos Stergiou,0,-0.113915095372875,0.4911874362807648
+1987647365,Jalangi a selective record-replay and dynamic analysis framework for JavaScript,2013,35,151,3,0.0,2009046425,Swaroop Kalasapur,0,0.7416591929416013,-0.4748024432115281
+2009489720,CUTE a concolic unit testing engine for C,2005,26,1410,2,0.276202,1702668839,Darko Marinov,0,1.1942779552887077,-0.6231849903177299
+1992057646,Automated Test Generation Using Concolic Testing,2015,0,5,1,1.0,2157836386,Koushik Sen,0,0.7707067503003734,-0.4753153406269867
+2017190028,EventBreak analyzing the responsiveness of user interfaces through performance-guided test generation,2014,85,30,3,0.0,281330718,George C. Necula,0,-0.40835193944549825,0.0279729280145322
+2011974310,Efficient data race detection for distributed memory parallel programs,2011,68,33,4,1.0,2018597733,Paul Hargrove,0,0.2777399936542736,-0.014700682738967907
+2036639103,DLint dynamically checking bad coding practices in JavaScript,2015,49,38,2,0.0,2136761466,Manu Sridharan,0,0.009601718148418934,-0.756951393427232
+2038461625,TypeDevil dynamic type inconsistency analysis for JavaScript,2015,41,38,2,0.0,2053194371,Parker Schuh,0,0.2695755459813819,-0.04884631224707683
+2054602389,G uide SE annotations for guiding concolic testing,2015,26,5,3,0.0,2024689456,Haruto Tanno,0,0.7562716598509955,-0.3449373552856181
+2039173453,Jalangi a tool framework for concolic testing selective record-replay and dynamic analysis of JavaScript,2013,8,9,3,0.0,2009046425,Swaroop Kalasapur,0,0.8740751240250102,-0.7676785623317335
+2039417226,A view of the parallel computing landscape,2009,27,443,10,0.0,212858106,John Wawrzynek,0,-0.1164726804531344,0.019252515865476
+2041572101,Concolic testing a decade later (keynote),2015,7,1,1,1.0,2157836386,Koushik Sen,0,1.315639853802425,-0.5204984822262304
+2073961002,Asserting and checking determinism for multithreaded programs,2009,46,52,2,1.0,2048404743,Jacob Burnim,0,-0.15927592627844084,-0.12380281591699849
+2067406339,An effective dynamic analysis for detecting generalized deadlocks,2010,19,56,3,0.96407,2005763208,Mayur Naik,0,0.1670773496079622,0.048374500760911765
+2060787894,Asserting and checking determinism for multithreaded programs,2010,49,14,2,1.0,2048404743,Jacob Burnim,0,-0.39976984553251305,0.08303223970927234
+2100148636,JITProf pinpointing JIT-unfriendly JavaScript code,2015,58,40,1,1.0,2157836386,Koushik Sen,0,-0.596285592748521,-0.36399049417610196
+2097284057,Looper Lightweight Detection of Infinite Loops at Runtime,2009,18,32,3,1.0,1965806429,Christos Stergiou,0,0.05408568738877682,-0.10493212632536919
+2097444001,Symbolic execution for software testing in practice preliminary assessment,2011,64,242,4,0.512821,1243827984,Cristian Cadar,0,1.063346711399197,-0.46901586378583215
+2088417279,Generating Optimal Monitors for Extended Regular Expressions,2003,25,68,2,0.0,96492545,Grigore Rosu,0,0.18424230959959711,0.16922970464623022
+2091932246,Guided GUI testing of android apps with minimal restart and approximate learning,2013,44,231,3,0.0,281330718,George C. Necula,0,1.3301539112745644,-0.5014375809480935
+2135395375,Race directed random testing of concurrent programs,2008,56,315,1,1.0,2157836386,Koushik Sen,0,0.21315622017973662,-0.15853704977452868
+2126606154,Combining test case generation and runtime verification,2005,55,78,8,0.0401663,96492545,Grigore Rosu,0,0.9144902698977712,-0.26131962636509265
+2106265536,PMaude Rewrite-based Specification Language for Probabilistic Object Systems,2006,35,117,2,0.0,2141313922,JosÃ© Meseguer,0,0.03340839900042395,0.28501581566340933
+2115732097,A trace simplification technique for effective debugging of concurrent programs,2010,37,44,1,1.0,2157836386,Koushik Sen,0,0.29496642511059373,-0.41327692087669593
+2115733813,CodeHint dynamic and interactive synthesis of code snippets,2014,41,63,3,0.0,236844029,Joel Galenson,0,-0.01366998467831905,-0.3277265762823792
+2142467886,NDSeq runtime checking for nondeterministic sequential specifications of parallel correctness,2011,49,17,4,0.0,281330718,George C. Necula,0,0.33741041526514853,0.8738782747829833
+2133473092,Scalable data race detection for partitioned global address space programs,2013,43,2,3,1.0,2030492399,Costin Iancu,0,-0.3902009342266205,0.04139742911318145
+2107147876,Symbolic execution for software testing three decades later,2013,54,392,2,0.512821,1243827984,Cristian Cadar,0,1.3058280750088322,-0.07557560849993626
+2143175053,TesMa and CATG automated test generation tools for models of enterprise applications,2015,8,10,3,0.0,2024689456,Haruto Tanno,0,1.1898996270317617,-0.6491118319790369
+2113531724,Dynamic test input generation for database applications,2007,29,178,3,0.0,2145226625,Michael Emmi,0,0.612821214777347,-1.242705961271609
+2119494620,A randomized dynamic program analysis technique for detecting real deadlocks,2009,32,156,4,0.96407,2005763208,Mayur Naik,0,0.1078222398602075,0.0820253906511444
+2116680978,Specifying and checking semantic atomicity for multithreaded programs,2011,38,19,3,0.0,281330718,George C. Necula,0,-0.12019821296544249,0.21856829955391607
+2113811859,An Executable Specification of Asynchronous Pi-Calculus Semantics and May Testing in Maude 20,2004,21,43,3,0.0,29179817,Prasanna Thati,0,-0.5026926559564943,-0.6040062438879519
+2122898375,Runtime safety analysis of multithreaded programs,2003,16,80,2,0.0,96492545,Grigore Rosu,0,-0.62874611904756,-0.1468960949691779
+2120027538,Randomized active atomicity violation detection in concurrent programs,2008,51,145,2,1.0,2116810754,Chang Seo Park,0,-0.005039629784165889,0.13324079640093567
+2140890722,Barrier elision for production parallel programs,2015,35,6,4,0.0,1969922214,Wim Lavrijsen,0,0.32572336111948136,-0.569515073577169
+2144215892,DETERMIN inferring likely deterministic specifications of multithreaded programs,2010,32,19,2,1.0,2048404743,Jacob Burnim,0,-0.4382196688950291,0.08769158235254508
+2156915601,Predictive Typestate Checking of Multithreaded Java Programs,2008,35,22,2,1.0,2107893934,Pallavi Joshi,0,-0.31250118323176995,0.37514933417714635
+2172090342,NDetermin inferring nondeterministic sequential specifications for parallelism correctness,2012,33,4,4,0.0,281330718,George C. Necula,0,-0.18967498254670642,0.16426023396547243
+2169800266,An instrumentation technique for online analysis of multithreaded programs,2007,22,10,2,0.0246256,96492545,Grigore Rosu,0,1.039832172988759,-0.35914000709533145
+2169958633,CONCURRIT a domain specific language for reproducing concurrency bugs,2013,25,16,4,0.0,281330718,George C. Necula,0,0.262959285909391,-1.385244571275009
+2186079292,The Good the Bad and the Ugly An Empirical Study of Implicit Type Conversions in JavaScript,2015,24,14,1,1.0,2157836386,Koushik Sen,0,-0.40835193944549825,0.0279729280145322
+2242035652,Separating functional and parallel correctness using nondeterministic sequential specifications,2010,18,3,3,0.0,281330718,George C. Necula,0,0.25965211996371385,0.05569850649433341
+2234763602,Concolic Testing of Multithreaded Programs and Its Application to Testing Security Protocols,2006,33,17,1,1.0,2157836386,Koushik Sen,0,1.4653210172669198,-0.9146783149630162
+2279950262,OPR deterministic group replay for one-sided communication,2016,10,1,3,1.0,2018597733,Paul Hargrove,0,-0.5260739647036488,-0.9404449775918742
+2294504770,Concurrent breakpoints,2012,45,15,2,1.0,2116810754,Chang Seo Park,0,-0.4814977233997502,-0.10467010375631473
+2296669295,Concolic testing,2007,21,109,1,1.0,2157836386,Koushik Sen,0,3.266928129449891,-1.1003678386831994
+2346059351,Trace Typing An Approach for Evaluating Retrofitted Type Systems (Extended Version),2016,0,0,5,1.0,1977523911,Esben Andreasen,0,-0.5254574477674958,0.021162678842600757
+2342299555,Multi-level Debugging for Multi-stage Parallelizing Compilers,2012,29,3,4,1.0,1899040649,Tayfun Elmas,0,-0.47623648366791627,-0.10551300923397984
+2406529425,Technical Perspective Veritesting tackles path-explosion problem,2016,0,0,1,1.0,2157836386,Koushik Sen,0,-0.1164726804531344,0.019252515865476
+2471240302,Model checking multithreaded programs with asynchronous atomic methods,2006,0,0,1,1.0,2157836386,Koushik Sen,0,-0.14005658034160634,0.5874784520637037
+2480377975,Automated systematic testing of open distributed programs,2006,0,0,1,1.0,2157836386,Koushik Sen,0,0.8922344976777238,-0.6501011291802905
+2423016999,An instrumentation technique for online analysis of multithreaded programs Research Articles,2007,0,0,2,0.0246256,96492545,Grigore Rosu,0,1.039832172988759,-0.35914000709533145
+2525390066,CUTE and jCUTE Concolic unit testing and explicit path model-checking tools,2006,0,14,1,1.0,2157836386,Koushik Sen,0,0.4485711154448727,-0.44848177800803796
+2557565131,SJS a Typed Subset of JavaScript with Fixed Object Layout,2015,20,3,3,0.0,281330718,George C. Necula,0,-0.5325378854822408,0.012126786456365867
+2551508279,Trace Typing An Approach for Evaluating Retrofitted Type Systems,2016,0,1,5,1.0,1977523911,Esben Andreasen,0,-0.5254574477674958,0.021162678842600757
+2611143393,Rule-based runtime verification,2004,0,0,4,0.167758,690502127,Klaus Havelund,0,0.3154084066679372,-0.05235461781743771
+2604740497,Detecting errors in multithreaded programs by generalized predictive analysis of executions,2005,0,17,2,0.0401663,96492545,Grigore Rosu,0,0.10372494834184491,-0.005325003326904617
+2626529717,A rewriting based model for probabilistic distributed object systems,2003,0,3,2,0.0,2141313922,JosÃ© Meseguer,0,-0.05238343428108618,-0.8283282913849281
+2758513221,A Survey of Dynamic Analysis and Test Generation for JavaScript,2017,124,25,2,1.0,1977523911,Esben Andreasen,0,-0.01595569192615537,-0.6874155653090384
+2806718802,DeepBugs A Learning Approach to Name-based BugDetection,2018,63,42,1,1.0,2157836386,Koushik Sen,0,-0.35449421447560614,-0.0498800451538603
+2789858575,Program Correctness Verification and Testing for Exascale (Corvette),2018,0,0,3,0.0,700277173,James Demmel,0,-0.0183024870971178,0.0680118484996777
+2898614297,Platform-Independent Dynamic Taint Analysis for JavaScript,2019,0,5,1,1.0,2157836386,Koushik Sen,0,0.37593846987051177,0.09127165843057246
+2903305687,Validity fuzzing and parametric generators for effective random testing,2019,1,1,3,0.0,494248588,Yves Le Traon,0,0.50697585333805,0.15755945358386164
+2911836659,Proceedings of the Second international conference on Runtime verification,2011,0,0,2,0.0,2103685797,Sarfraz Khurshid,0,2.288852814328817,-0.6316098402947885
+2962200727,JQF coverage-guided property-based testing in Java,2019,9,3,2,0.0,1981723863,Rohan Padhye,0,0.042626047559895075,-0.09535146869998781
+2979756037,Efficient fail-fast dynamic subtype checking,2019,13,0,2,0.0,1981723863,Rohan Padhye,0,-0.5691236877269732,-0.3377950019193998
+2996605689,Session details Symbolic execution,2013,0,0,1,1.0,2157836386,Koushik Sen,0,0.9535238584579476,0.03329436523876485
+2979991936,ChocoPy a programming language for compilers courses,2019,5,0,3,0.0,1981723863,Rohan Padhye,0,-0.5001884483794283,-0.091208484228511
+3008463476,Is stateful packrat parsing really linear in practice a counter-example an improved grammar and its parsing algorithms,2020,10,0,1,1.0,2157836386,Koushik Sen,0,-0.38901598959897904,-0.1717544847772182
+3021041777,Rule-Based Runtime Verification,2004,0,0,4,0.167758,690502127,Klaus Havelund,0,2.288852814328817,-0.6316098402947885

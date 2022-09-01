@@ -1,0 +1,92 @@
+137136619,Type-FUNCTIONAL PEARL safe cast,2004,19,26,1,1.0,1996145348,Stephanie Weirich,0,-0.36807023623907253,0.004701123986896351
+127506714,TALx86 A Realistic Typed Assembly Languageâˆ—,1999,20,172,4,0.251478,683339272,Greg Morrisett,0,1.2603462153114622,-1.5021810876752606
+59992994,Boxes Go Bananas Encoding Higher-Order Abstract Syntax With Parametric Polymorphism (Extended Version),2003,29,2,1,1.0,1996145348,Stephanie Weirich,0,-0.5044301319740289,0.32633895740947455
+44613125,Generic programming with dependent types,2010,34,0,2,1.0,289280170,Chris Casinghino,0,0.44881850620032715,-0.44216380781793757
+96100988,An Open and Shut Typecase (Extended Version),2004,30,0,2,1.0,77990519,Dimitrios Vytiniotis,0,-0.3542458213991138,0.062790734395556
+150739485,Dependently-Typed programming in GHC,2012,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.35460981430656163,0.4229773009671602
+167822311,Programming Up to Congruence (Extended version),2014,31,1,2,1.0,1975683196,Vilhelm SjÃ¶berg,0,-0.4778382934247377,0.025968399978593668
+101440863,Practical type inference for first-class polymorphism,2008,54,3,2,1.0,77990519,Dimitrios Vytiniotis,0,-0.9633043199352421,-0.7627494124383755
+136527485,Static Debugging Browsing the Web of Program Invariants,1996,0,5,2,0.0,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+252726353,Machine-Checked Metatheory for Security-Oriented Languages,2006,0,0,2,0.280856,1994212081,Steve Zdancewic,0,2.6935989437701267,-0.01250434640316537
+1550049051,Wobbly types type inference for generalised algebraic data typesâˆ—,2004,18,60,1,1.0,1996145348,Stephanie Weirich,0,-0.4298659499384611,-0.16795918744073907
+1535217452,Encoding Intensional Type Analysis,2001,24,19,1,1.0,1996145348,Stephanie Weirich,0,-0.4539632357284754,0.01975334266549656
+1562153523,Proceedings of the 2nd ACM SIGPLAN symposium on Haskell,2009,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.36807023623907253,0.004701123986896351
+1491220160,Generalizing Parametricity Using Information Flow (Extended Version),2005,20,1,1,1.0,1996145348,Stephanie Weirich,0,0.03713648315822745,0.3203749113203159
+1562530348,LNgen Tool Support for Locally Nameless Representations,2010,24,26,1,1.0,1996145348,Stephanie Weirich,0,-0.3563398277847511,-0.08242471301621387
+1553805960,A Calculus for Dynamic Loading,2001,6,12,1,1.0,1996145348,Stephanie Weirich,0,1.1124912486855802,-1.206020878785659
+1547274559,Practical Type Inference for Arbitrary-Rank Types Technical Appendix,2005,6,3,2,1.0,77990519,Dimitrios Vytiniotis,0,-0.2699919129504743,0.22985667947792254
+1485683121,It Is Time to Mechanize Programming Language Metatheory,2005,25,3,3,0.0,1988947184,Benjamin C. Pierce,0,1.4710682677344409,1.04433225231228
+1854388022,Higher-Order Intensional Type Analysis,2002,31,34,1,1.0,1996145348,Stephanie Weirich,0,0.062104097389218495,0.061175627126752244
+1601205865,Safe and Flexible Dynamic Linking of Native Code,2000,36,38,2,0.228545,740883216,Karl Crary,0,0.7527708802221922,-0.35113858128806363
+1714514560,Combining Proofs and Programs,2011,0,0,1,1.0,1996145348,Stephanie Weirich,0,2.56480172835429,-0.7593344597115579
+1985791647,Arity-generic datatype-generic programming (abstract only),2010,0,0,2,1.0,289280170,Chris Casinghino,0,0.5869751589455093,-1.0779413485816112
+1968424997,System FC with explicit kind equality,2013,28,28,1,1.0,1996145348,Stephanie Weirich,0,-0.6670996112393398,-0.2710910910858023
+1972260728,Dependently typed programming,2013,0,3,1,1.0,1996145348,Stephanie Weirich,0,-0.1164726804531344,0.019252515865476
+1974398164,Intensional polymorphism in type-erasure semantics,2002,28,37,3,0.130374,683339272,Greg Morrisett,0,-0.1164726804531344,0.019252515865476
+1967698620,Catching bugs in the web of program invariants,1996,24,74,2,0.0,113813022,Matthias Felleisen,0,-0.3009262192910057,0.10961893833737663
+1989314504,A Design for Type-Directed Programming in Java,2005,42,6,1,1.0,1996145348,Stephanie Weirich,0,-3.699594798487176,-0.10205125134325292
+2005130481,RepLib a library for derivable type classes,2006,33,42,1,1.0,1996145348,Stephanie Weirich,0,-0.44026189942295413,-0.16911067799787458
+2029422023,Generative type abstraction and type-level computation,2011,34,32,3,1.0,77990519,Dimitrios Vytiniotis,0,0.1793784955130792,-0.4697348364859993
+2024398154,Intensional polymorphism in type-erasure semantics,1998,26,97,3,0.251478,683339272,Greg Morrisett,0,-0.48443329114659267,-0.12424277811515334
+2029684521,Type-safe cast (functional pearl),2000,15,52,1,1.0,1996145348,Stephanie Weirich,0,-0.1164726804531344,0.019252515865476
+2021447352,Boxes go bananas encoding higher-order abstract syntax with parametric polymorphism,2003,39,35,1,1.0,1996145348,Stephanie Weirich,0,-0.7530707319113861,-0.24324218590486027
+2025431400,Engineering formal metatheory,2008,42,160,3,0.833333,1869810732,Arthur CharguÃ©raud,0,-0.5288518068000039,-0.5070150841931526
+2040189564,Haskell Symposium Program Chairs Report,2009,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.36807023623907253,0.004701123986896351
+2048536148,Combining proofs and programs in a dependently typed language,2014,47,46,3,1.0,289280170,Chris Casinghino,0,-0.45462566833085777,0.12753986741898987
+2058141320,FPH first-class polymorphism for Haskell,2008,19,20,2,1.0,77990519,Dimitrios Vytiniotis,0,-0.5867094132253062,-0.5503815648301438
+2068706008,AspectML A polymorphic aspect-oriented functional programming language,2008,56,46,1,1.0,1996145348,Stephanie Weirich,0,0.7879007820050781,-0.0965236873700402
+2082367883,Flexible type analysis,1999,28,83,2,0.342818,740883216,Karl Crary,0,-0.4323814931586868,-0.2503851537759392
+2104815907,Programming up to Congruence,2015,32,14,2,1.0,1975683196,Vilhelm SjÃ¶berg,0,-0.3650292647731835,0.4768111036122165
+2096280839,Boxes go bananas Encoding higher-order abstract syntax with parametric polymorphism*,2008,46,25,1,1.0,1996145348,Stephanie Weirich,0,-0.4092206616038536,-0.0401083610130616
+2082043541,Depending on types,2014,0,7,1,1.0,1996145348,Stephanie Weirich,0,-0.4330600135340224,0.0968813354983051
+2131916293,Practical type inference for arbitrary-rank types,2007,43,152,2,1.0,77990519,Dimitrios Vytiniotis,0,-0.9060315652835369,-0.6372662216805934
+2135265328,PolyAML A Polymorphic Aspect-Oriented Functional Programming Language (Extended Version),2005,38,6,1,1.0,1996145348,Stephanie Weirich,0,0.7925174281188718,0.22418784727554963
+2141614929,Language-based verification will change the world,2010,29,9,2,0.0530389,1973565090,Aaron Stump,0,2.3869040249105518,-1.950576861145449
+2129777450,Closed type families with overlapping equations,2014,24,50,2,0.728637,77990519,Dimitrios Vytiniotis,0,-0.9378145058748854,-0.7232212178816987
+2106226553,Safe zero-cost coercions for Haskell,2014,25,19,1,1.0,1996145348,Stephanie Weirich,0,-0.5726993154362128,0.4196472658333968
+2129858500,Dependent types and program equivalence,2010,30,13,2,1.0,1975683196,Vilhelm SjÃ¶berg,0,-0.29404724351701683,0.09077460991368727
+2129891517,Step-Indexed Normalization for a Language with General Recursion,2012,29,4,2,1.0,1975683196,Vilhelm SjÃ¶berg,0,-0.4622513469207787,-0.05087806555535367
+2112474400,Giving Haskell a promotion,2012,30,111,2,0.965767,77990519,Dimitrios Vytiniotis,0,-0.2368461781793202,-0.1411566913146254
+2127347132,An open and shut typecase,2005,35,23,2,1.0,77990519,Dimitrios Vytiniotis,0,-0.3542458213991138,0.062790734395556
+2109649240,Type-safe run-time polytypic programming,2006,33,9,1,1.0,1996145348,Stephanie Weirich,0,1.150263422477597,0.6933975607954111
+2127389065,Equational reasoning about programs with general recursion and call-by-value semantics,2012,29,18,6,1.0,289280170,Chris Casinghino,0,2.6478613520734955,0.5405297463709666
+2127491409,Poly AML a polymorphic aspect-oriented functional programming language,2005,57,26,1,1.0,1996145348,Stephanie Weirich,0,0.6401533180176898,0.08886678163269064
+2139726698,FPH First-class Polymorphism for Haskell Declarative Constraint-free Type Inference for Impredicative Polymorphism,2008,18,0,2,1.0,77990519,Dimitrios Vytiniotis,0,-0.5749195828793228,-0.6565986546512991
+2140207165,Generalizing parametricity using information-flow,2005,30,18,1,1.0,1996145348,Stephanie Weirich,0,-0.10077287849321936,0.043096220489334626
+2131441325,Free Theorems and Runtime Type Representations,2007,34,6,2,1.0,77990519,Dimitrios Vytiniotis,0,-0.4092206616038536,-0.0401083610130616
+2140647971,Simple unification-based type inference for GADTs,2006,24,267,2,1.0,77990519,Dimitrios Vytiniotis,0,-0.3227283851707021,-0.05938228256776834
+2156285626,Dependently typed programming with singletons,2013,39,45,1,1.0,1996145348,Stephanie Weirich,0,-0.6459120292582855,0.38292053985442553
+2150895128,Arity-generic datatype-generic programming,2010,27,17,2,1.0,289280170,Chris Casinghino,0,0.5869751589455093,-1.0779413485816112
+2157155332,Good advice for type-directed programming aspect-oriented programming and extensible generic functions,2006,35,10,1,1.0,1996145348,Stephanie Weirich,0,2.3171769894989818,-0.37139872418038966
+2187084841,Safe Zero-cost Coercions for Haskell (extended version),2014,12,3,1,1.0,1996145348,Stephanie Weirich,0,-0.5726993154362128,0.4196472658333968
+2154717882,Boxy types inference for higher-rank types and impredicativity,2006,24,43,2,1.0,77990519,Dimitrios Vytiniotis,0,-0.3328982494556811,-0.4080973119525289
+2170732676,Programming with types,2002,122,11,2,0.130374,683339272,Greg Morrisett,0,2.408810663317889,0.11971684776095604
+2252543178,Combining proofs and programs,2011,66,3,1,1.0,1996145348,Stephanie Weirich,0,-0.4125004132908172,-0.6538357095433694
+2328797748,Equational reasoning about programs with general recursion and call-by-value semantics,2013,15,2,6,1.0,289280170,Chris Casinghino,0,-0.06162040792337434,0.8661538365183473
+2296605318,Reactive noninterference,2009,22,81,4,1.0,1975683196,Vilhelm SjÃ¶berg,0,1.2806612334523229,0.5572805957758278
+2296677810,Binders unbound,2011,34,34,1,1.0,1996145348,Stephanie Weirich,0,0.2306144210353855,-1.310308475594988
+2496247227,Needle &amp; Knot Binder Boilerplate Tied Up,2016,44,10,2,0.0,1504167664,Tom Schrijvers,0,-0.12346247287894985,0.9006531759763389
+2417861403,Nourishing the future of the field the programming language mentoring workshop 2012,2012,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.1164726804531344,0.019252515865476
+2500959965,Safe zero-cost coercions for Haskell,2016,8,12,1,1.0,1996145348,Stephanie Weirich,0,-0.36807023623907253,0.004701123986896351
+2494122154,Visible Type Application,2016,25,20,1,1.0,1996145348,Stephanie Weirich,0,-0.5340420397459453,-0.2106170583800205
+2526881149,Typed reflection in Haskell,2016,0,0,2,0.0,77990519,Dimitrios Vytiniotis,0,-0.36807023623907253,0.004701123986896351
+2564250199,The influence of dependent types (keynote),2017,0,1,1,1.0,1996145348,Stephanie Weirich,0,-0.5501229018042124,-0.5050701702450261
+2769582192,Total Haskell is reasonable Coq,2018,24,15,3,1.0,230557780,Antal Spector Zabusky,0,-0.23857998182459467,0.11100318450221852
+2751791540,A specification for dependent types in Haskell,2017,49,12,1,1.0,1996145348,Stephanie Weirich,0,-0.2941417044087146,0.35444707069314557
+2792461873,Ready Set Verify Applying hs-to-coq to real-world Haskell code,2018,17,3,3,1.0,230557780,Antal Spector Zabusky,0,0.14494781386198408,0.016084272501812748
+2789444638,Dependently Typed Programming (NII Shonan Meeting 2011-3),2011,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.1164726804531344,0.019252515865476
+2786340012,Mechanized metatheory for the masses The POPLMARK challenge,2005,0,0,4,1.0,77990519,Dimitrios Vytiniotis,0,0.13839665021162018,0.14258224486600057
+2886472010,Ready Set Verify Applying hs-to-coq to Real-World Haskell Code (Experience Report),2018,21,4,3,1.0,230557780,Antal Spector Zabusky,0,0.14494781386198408,0.016084272501812748
+2913766441,Proceedings of the 7th ACM SIGPLAN workshop on Types in language design and implementation,2011,0,0,1,1.0,1996145348,Stephanie Weirich,0,0.40241730820856897,0.3140030005454208
+2914547125,Proceedings of the 2013 ACM SIGPLAN workshop on Dependently-typed programming,2013,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.4092206616038536,-0.0401083610130616
+2911885992,Proceedings of the 15th ACM SIGPLAN international conference on Functional programming,2010,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.1065351740556902,-0.48009603314533306
+2947401584,A Role for Dependent Types in Haskell (Extended version),2019,41,1,1,1.0,1996145348,Stephanie Weirich,0,-0.505683416677957,-0.003387749562058033
+2981876287,Embracing a mechanized formalization gap,2019,50,0,2,1.0,230557780,Antal Spector Zabusky,0,-0.34794445999286644,-0.08773048003050692
+2999768191,New Results - Mechanization of type systems and axiomatic and operational semantics,2007,0,0,4,0.0,210637011,HervÃ© Grall,0,-0.1164726804531344,0.019252515865476
+2966631854,A role for dependent types in Haskell,2019,34,2,1,1.0,1996145348,Stephanie Weirich,0,-0.36807023623907253,0.004701123986896351
+3015026671,Session details Static errors,2014,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.1164726804531344,0.019252515865476
+3014113586,Session details Keynote 2,2010,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.1164726804531344,0.019252515865476
+3014388124,Session details Language design,2007,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.1164726804531344,0.019252515865476
+3014665082,Session details Session 2B Domain-specific Languages,2015,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.1164726804531344,0.019252515865476
+3014678316,Session details 5B type theory,2012,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.1190699564706771,-0.28424301535806407
+3014787981,Session details Automated theorem proving,2012,0,0,1,1.0,1996145348,Stephanie Weirich,0,-0.25557297744908625,-0.17035612086514865

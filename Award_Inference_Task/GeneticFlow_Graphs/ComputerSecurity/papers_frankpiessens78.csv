@@ -1,0 +1,151 @@
+18165425,Attacks on the Client-Side Context,2014,25,0,1,1.0,233250515,Frank Piessens,0,-0.3287690164964345,0.14636193449847731
+104428423,There is safety in numbers preventing control-flow hijacking by duplication,2012,29,2,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+172999119,Attacks on the Browserâ€™s Requests,2014,21,1,1,1.0,233250515,Frank Piessens,0,-0.3912276319926795,0.07353894049935202
+156569216,Attacks on the Network,2014,23,0,1,1.0,233250515,Frank Piessens,0,-0.1309721088493856,-0.8633807709789476
+141003461,Recent developments in low-level software security,2012,36,2,2,1.0,106016043,Willem De Groef,0,-0.8068564391735623,1.5257520948323258
+57130263,Soundsquatting Uncovering the Use of Homophones in Domain Squatting,2014,14,28,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+23208396,Code injection in C and C++ a survey of vulnerabilities and countermeasures,2004,90,54,1,1.0,233250515,Frank Piessens,0,0.1639362940477497,0.6530314529854678
+109363175,ProtoLeaks A reliable and protocol-independent network covert channel,2012,17,3,2,1.0,220035981,Pieter Philippaerts,0,-1.849432942852349,2.2197575014087185
+7544043,Better security and privacy for web browsers a survey of techniques and a new implementation,2011,43,4,2,1.0,106016043,Willem De Groef,0,1.7029826062605458,-0.2600589908962866
+219436511,Serene self-reliant client-side protection against session fixation,2012,12,22,1,1.0,233250515,Frank Piessens,0,-0.28057180395894155,0.12672934158264598
+130105012,Attacks on the Client Device,2014,21,1,1,1.0,233250515,Frank Piessens,0,-0.4128022612282256,0.9187119146406275
+27867186,DEMACRO defense against malicious cross-domain requests,2012,16,6,2,0.0,189999584,Sebastian Lekies,0,-1.1668428896142926,-0.02935906477378944
+198928148,Sancus low-cost trustworthy extensible networked devices with a zero-software trusted computing base,2013,43,119,2,0.0,22011657,Anthony Van Herrewege,0,-0.1927488467184495,2.3907225574555966
+31201558,Developing secure software A survey and classification of common software vulnerabilities,2001,0,5,1,1.0,233250515,Frank Piessens,0,-1.4906487443016354,2.505157669622591
+167216241,HeapSentry kernel-assisted protection against heap overflows,2013,29,14,1,1.0,233250515,Frank Piessens,0,-0.6567160340281432,1.3137850476034183
+14075757,Client Side Web Session Integrity as a Non-interference Property,2014,29,7,2,1.0,106016043,Willem De Groef,0,0.7652457196547656,-0.2680753067330734
+151342795,On the importance of the separation-of-concerns principle in secure software engineering,2003,11,53,2,1.0,153035658,Tine Verhanneman,0,-1.941003848324107,2.736786414154029
+186313343,Second Price Auctions,2001,12,0,2,1.0,223926398,Erik Van Hoeymissen,0,0.4085490382411637,0.09619580716896714
+68159281,Salus Non-hierarchical Memory Access Rights to Enforce the Principle of Least Privilege,2013,30,7,2,0.0,212265419,Niels Avonds,0,0.7172204229095085,1.8857700971798959
+204642155,Exploring the ecosystem of referrer-anonymizing services,2012,13,6,1,1.0,233250515,Frank Piessens,0,-0.38297672827465196,0.46125068598901287
+1559907613,Semi-trusted Hosts and Mobile Agents Enabling Secure Distributed Computations,2000,19,7,2,1.0,223926398,Erik Van Hoeymissen,0,0.39829344614743206,-0.652818539666525
+1490169100,Advances in Network and Distributed Systems Security IFIP TC11 WG114 First Annual Working Conference on Network Security November 26-27 2001,2013,0,21,1,1.0,233250515,Frank Piessens,0,-0.22317780875026014,0.6245339761927206
+1561562697,Security Middleware for Mobile Applications,2009,0,4,2,1.0,220035981,Pieter Philippaerts,0,0.0040557659796233,0.2757546058061082
+1481945445,Efficient and effective buffer overflow protection on ARM processors,2010,14,2,2,1.0,220035981,Pieter Philippaerts,0,-1.3721930698182816,1.7734739921660752
+1491243518,CsFire transparent client-side mitigation of malicious cross-domain requests,2010,9,27,1,1.0,233250515,Frank Piessens,0,-0.015296254716123447,0.40424678126495084
+1224296734,Automatic and precise client-side protection against CSRF attacks,2011,10,41,1,1.0,233250515,Frank Piessens,0,0.7652457196547656,-0.2680753067330734
+1236479421,Secure multi-execution of web scripts Theory and practice,2014,55,14,2,1.0,106016043,Willem De Groef,0,1.7029826062605458,-0.2600589908962866
+1275185964,Adaptable access control policies for medical information systems,2003,11,10,2,1.0,153035658,Tine Verhanneman,0,-0.44504988302757614,0.7510531211914663
+1501861300,A Generic Architecture for Web Applications to Support Threat Analysis of Infrastructural Components,2005,9,7,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+1546563748,Bitsquatting exploiting bit-flips for fun or profit ,2013,11,30,1,1.0,233250515,Frank Piessens,0,0.05940095047987125,0.6960502266457337
+1439967542,All your biases belong to us breaking RC4 in WPA-TKIP and TLS,2015,47,47,1,1.0,233250515,Frank Piessens,0,0.4808530543080359,-1.8559437118129731
+1446232092,Secure Resource Sharing for Embedded Protected Module Architectures,2015,18,4,1,1.0,233250515,Frank Piessens,0,0.3309473823551628,1.2669109601957123
+1567290631,Second Price Auctions A Case Study of Secure Distributed Computating,2001,8,3,2,1.0,223926398,Erik Van Hoeymissen,0,0.4085490382411637,0.09619580716896714
+1748464847,Code pointer masking hardening applications against code injection attacks,2011,23,17,2,1.0,220035981,Pieter Philippaerts,0,0.0040557659796233,0.2757546058061082
+1672848733,Security-By-Contract for the Future Internet,2009,42,1,1,1.0,233250515,Frank Piessens,0,-0.2665462959285957,0.4001165721122305
+1591370639,ValueGuard protection of native applications against data-only buffer overflows,2010,33,15,2,1.0,220035981,Pieter Philippaerts,0,0.1639362940477497,0.6530314529854678
+1585397865,On the Practical Feasibiltiy of Secure Distributed Computing A Case Study,2000,8,7,1,1.0,233250515,Frank Piessens,0,-0.8862236355456184,-1.043557633160602
+1585590911,Security of memory allocators for C and C,2005,3,14,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+1970156423,Requirements traceability to support evolution of access control,2005,10,10,2,1.0,153035658,Tine Verhanneman,0,-0.0055216156628483315,0.8431774549076696
+1970170564,Security-by-contract on the NET platform,2008,12,58,2,1.0,220035981,Pieter Philippaerts,0,0.0040557659796233,0.2757546058061082
+1977527011,Evolution of Security Engineering Artifacts A State of the Art Survey,2014,231,7,1,1.0,233250515,Frank Piessens,0,-1.5701916516004581,2.2613307031054597
+1982778414,Breaking the memory secrecy assumption,2009,21,118,2,1.0,220035981,Pieter Philippaerts,0,-0.13537715621640714,0.45515849755788945
+1969467786,Practical verification of WPA-TKIP vulnerabilities,2013,19,25,1,1.0,233250515,Frank Piessens,0,-1.1898485120941695,-1.196044052576512
+1966175380,FPDetective dusting the web for fingerprinters,2013,13,159,1,1.0,233250515,Frank Piessens,0,0.6883462310583599,0.3815053943570277
+2008332764,Noninterference through Secure Multi-execution,2010,24,190,1,1.0,233250515,Frank Piessens,0,-1.849432942852349,2.2197575014087185
+1999579337,NodeSentry least-privilege library integration for server-side JavaScript,2014,42,4,2,1.0,106016043,Willem De Groef,0,0.5899307329318579,0.7568272763470932
+1995290095,FlowFox a web browser with flexible and precise information flow control,2012,42,108,2,1.0,106016043,Willem De Groef,0,0.0040557659796233,0.2757546058061082
+1993767827,Fides selectively hardening software application components against kernel-level or process-level malware,2012,43,70,1,1.0,233250515,Frank Piessens,0,-0.08815769829692559,0.6112533303728926
+2010367507,Improving Memory Management Security for C and C,2010,41,2,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2010543040,Towards a unifying view on security contracts,2005,18,6,1,1.0,233250515,Frank Piessens,0,-1.3825083712663253,2.2632488327250773
+2012351515,Policy ignorant caller-side inline reference monitoring,2015,19,1,1,1.0,233250515,Frank Piessens,0,0.5188732038745871,1.341587462663946
+2027146564,Reactive non-interference for a browser model,2011,18,45,1,1.0,233250515,Frank Piessens,0,-0.22684964772494434,0.5553590878829306
+2023959340,Runtime countermeasures for code injection attacks against C and C++ programs,2012,144,46,1,1.0,233250515,Frank Piessens,0,0.1639362940477497,0.6530314529854678
+2039999720,JSand complete client-side sandboxing of third-party JavaScript without browser modifications,2012,22,67,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2045726900,Cookieless Monster Exploring the Ecosystem of Web-Based Device Fingerprinting,2013,18,231,1,1.0,233250515,Frank Piessens,0,-0.14030442843248647,0.7500380815700933
+2052912360,Security enforcement aware software development,2009,19,11,1,1.0,233250515,Frank Piessens,0,-1.3834606099928102,2.210017998101821
+2042494357,ICE a passive high-speed state-continuity scheme,2014,39,25,1,1.0,233250515,Frank Piessens,0,-0.8485207349213958,0.34457788621606955
+2034326426,SecSess keeping your session tucked away in your browser,2015,15,5,1,1.0,233250515,Frank Piessens,0,-0.015803870513959373,0.483772570911014
+2071800216,Protected Web Components Hiding Sensitive Information in the Shadows,2015,7,3,1,1.0,233250515,Frank Piessens,0,-0.6385692791286616,-0.030015198554274113
+2077204203,FlashOver automated discovery of cross-site scripting vulnerabilities in rich internet applications,2012,17,30,1,1.0,233250515,Frank Piessens,0,1.7029826062605458,-0.2600589908962866
+2077469457,Salus Kernel support for secure process compartments,2015,41,7,2,0.0,212265419,Niels Avonds,0,-0.5530861437885858,-0.004176666300269333
+2067488563,On the Workings and Current Practices of Web-Based Device Fingerprinting,2014,5,11,1,1.0,233250515,Frank Piessens,0,0.3192085515801053,1.087983398285203
+2071005228,Clubbing Seals Exploring the Ecosystem of Third-party Security Seals,2014,18,5,1,1.0,233250515,Frank Piessens,0,-0.13325950327090183,1.246604749428507
+2100852994,Protecting Global and Static Variables from Buffer Overflow Attacks,2009,32,8,1,1.0,233250515,Frank Piessens,0,-0.2426152804904301,0.40354809654779916
+2081377878,Stateful Declassification Policies for Event-Driven Programs,2014,39,28,3,1.0,106016043,Willem De Groef,0,0.3430102433997157,0.7228204514878515
+2095489381,Advanced Wi-Fi attacks using commodity hardware,2014,31,42,1,1.0,233250515,Frank Piessens,0,-0.9195321770296045,-1.1504027579694414
+2079758435,PESAP A Privacy Enhanced Social Application Platform,2012,14,6,2,1.0,106016043,Willem De Groef,0,0.43977165675466984,1.9970494351033654
+2101678831,You are what you include large-scale evaluation of remote javascript inclusions,2012,20,190,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2083785453,WebJail least-privilege integration of third-party components in web mashups,2011,18,49,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2138049695,Extended Protection against Stack Smashing Attacks without Performance Loss,2006,27,43,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2126709396,Monkey-in-the-browser malware and vulnerabilities in augmented browsing script markets,2014,16,12,1,1.0,233250515,Frank Piessens,0,0.9611320424042716,0.40663404146440335
+2112022457,Low-Level Software Security by Example,2010,31,26,1,1.0,233250515,Frank Piessens,0,-1.257524340384283,2.6887672183748994
+2121448599,Uniform application-level access control enforcement of organizationwide policies,2005,18,17,2,1.0,153035658,Tine Verhanneman,0,-0.5656101995609575,0.5880165631395027
+2139740492,Bridging the gap between web application firewalls and web applications,2006,16,25,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2122177035,Filter-resistant code injection on ARM,2009,26,15,2,1.0,220035981,Pieter Philippaerts,0,0.5616176283284842,0.5366780419716752
+2128637495,PAriCheck an efficient pointer arithmetic checker for C programs,2010,43,63,2,1.0,220035981,Pieter Philippaerts,0,0.0040557659796233,0.2757546058061082
+2108006974,Secure Vickrey Auctions Without a Trusted Third Party,2003,18,1,1,1.0,233250515,Frank Piessens,0,0.4085490382411637,0.09619580716896714
+2141021963,CPM Masking Code Pointers to Prevent Code Injection Attacks,2013,46,20,2,1.0,220035981,Pieter Philippaerts,0,0.0040557659796233,0.2757546058061082
+2150657548,Supporting Security Monitor-Aware Development,2007,13,7,1,1.0,233250515,Frank Piessens,0,-1.078017898055458,2.46140129573003
+2171811679,A methodology for designing countermeasures against current and future code injection attacks,2005,24,25,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2153953484,Interconnecting domains with heterogeneous key distribution and authentication protocols,1993,18,8,1,1.0,233250515,Frank Piessens,0,-1.6078420809113345,-1.6163593454803014
+2148905988,On securely scheduling a meeting,2001,8,27,1,1.0,233250515,Frank Piessens,0,-1.157560915554388,-0.022590971900344037
+2155781848,Runtime Enforcement of Security Policies on Black Box Reactive Programs,2015,31,10,1,1.0,233250515,Frank Piessens,0,-0.3383784544281044,0.15268826611744696
+2253656320,Attacks on the Userâ€™s Session,2014,27,1,1,1.0,233250515,Frank Piessens,0,-1.2530936958258039,-0.5256163932257409
+2276799569,Protected Software Module Architectures,2013,10,14,1,1.0,233250515,Frank Piessens,0,-0.6701990811083275,1.4518397026810836
+2285105717,Aspect-Oriented Middleware and a Case Study on Security Services,2006,0,1,2,1.0,153035658,Tine Verhanneman,0,-0.25726232239641234,1.311734200400081
+2296595486,Lightweight and Flexible Trust Assessment Modules for the Internet of Things,2015,27,5,1,1.0,233250515,Frank Piessens,0,0.16723845768183287,-0.38136205694601477
+2286680562,On the effectiveness of virtualization-based security,2012,14,3,1,1.0,233250515,Frank Piessens,0,0.12340015586982621,0.5325683461052929
+2311792224,Special issue on Security and Trust,2008,0,1,1,1.0,233250515,Frank Piessens,0,-0.340515322183885,3.2166067034478103
+2345657725,Software security Vulnerabilities and countermeasures for two attacker models,2016,36,4,1,1.0,233250515,Frank Piessens,0,0.3542701860501153,2.1607306123977352
+2405431234,A security analysis of emerging web standards - HTML5 and friends from specification to implementation,2012,15,3,1,1.0,233250515,Frank Piessens,0,0.5620192467245925,2.5880541946279947
+2394784643,Why MAC Address Randomization is not Enough An Analysis of Wi-Fi Network Discovery Mechanisms,2016,28,73,1,1.0,233250515,Frank Piessens,0,-0.16420021596708323,0.32292378428885316
+2397344297,Primer on Client-Side Web Security,2014,0,3,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2489490928,Predicting Decrypting and Abusing WPA2/80211 Group Keys,2016,0,15,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2483283194,Principles of Security and Trust,2016,0,0,1,1.0,233250515,Frank Piessens,0,-0.49855030693715435,1.3743771681663757
+2483369140,Formal Methods for Open Object-Based Distributed Systems,2008,0,0,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2497845670,Request and Conquer Exposing Cross-Origin Resource Size,2016,44,10,1,1.0,233250515,Frank Piessens,0,-0.17509794864928266,0.08409228455470191
+2498405448,Ariadne A Minimal Approach to State Continuity,2016,46,46,1,1.0,233250515,Frank Piessens,0,1.1628411914646186,0.562749020045459
+2501938435,Security and privacy of online social network applications,2013,9,0,2,1.0,106016043,Willem De Groef,0,0.49636408500550677,1.816884384594804
+2524250557,Security problems and opportunities,2002,0,0,1,1.0,233250515,Frank Piessens,0,-1.5372848196780673,2.4695829319680223
+2524444197,Protecting global and static variables from buffer overflow attacks without overhead,2006,19,5,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2524754951,Automatic and precise client-side protection against CSRF attacks,2011,0,0,1,1.0,233250515,Frank Piessens,0,1.7029826062605458,-0.2600589908962866
+2525442824,A taxonomy of causes of software vulnerabilities in Internet software,2002,5,22,1,1.0,233250515,Frank Piessens,0,-1.4906487443016354,2.505157669622591
+2566786129,Security Guarantees for the Execution Infrastructure of Software Applications,2016,36,3,1,1.0,233250515,Frank Piessens,0,-1.3721930698182816,1.7734739921660752
+2525861682,Security more than network security only,2003,0,0,1,1.0,233250515,Frank Piessens,0,-1.5734043204799522,2.4417622364221345
+2525903950,Secure resource sharing for embedded protected module architectures,2015,0,0,1,1.0,233250515,Frank Piessens,0,-0.1204649066640496,0.6450559594355243
+2526021166,Interdomain authentication in a heterogeneous environment,1993,0,0,1,1.0,233250515,Frank Piessens,0,-0.5530861437885858,-0.004176666300269333
+2526161582,Client side web session integrity as a non-interference property Extended version with proofs,2014,24,2,2,1.0,106016043,Willem De Groef,0,-0.5530861437885858,-0.004176666300269333
+2526422538,Case study 2 Report Secure Web Architectures,2015,0,0,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2526778705,Untrusted code security,2004,0,0,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2552069448,SECURE VICKREY AUCTIONS WITHOUT A TRUSTED THIRD PARTY A Prototype,2003,12,0,1,1.0,233250515,Frank Piessens,0,0.4085490382411637,0.09619580716896714
+2567714451,Developing Secure SGX Enclaves New Challenges on the Horizon,2016,6,1,1,1.0,233250515,Frank Piessens,0,-0.044662142615463,1.7953975927539496
+2563516355,Mitigating Password Database Breaches with Intel SGX,2016,17,12,1,1.0,233250515,Frank Piessens,0,-1.7441922026675791,-1.8172718934228216
+2527119372,CsFire Transparent client-side mitigation of malicious cross-domain requests,2010,0,17,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2523077505,Static verification of code access security policy compliance of NET applications,2005,0,1,1,1.0,233250515,Frank Piessens,0,0.21294929373582916,0.5629456695317538
+2518790240,Letâ€™s Face It Faceted Values for Taint Tracking,2016,38,5,1,1.0,233250515,Frank Piessens,0,-1.3510763801104504,1.4203641290027917
+2547378457,Secure composition policies,2011,10,0,1,1.0,233250515,Frank Piessens,0,-0.3383784544281044,0.15268826611744696
+2523434765,Improving the security of session management in web applications,2013,8,2,1,1.0,233250515,Frank Piessens,0,0.019767729208273098,-0.0260530457065589
+2523447801,Building secure applications,2004,0,0,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2523683449,Towards safe enclaves,2016,26,3,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2523797613,Reactive non-interference for the browser extended version,2011,17,6,1,1.0,233250515,Frank Piessens,0,-0.4075995795466458,0.5177900745238455
+2726246108,Telling your secrets without page faults stealthy page table-based attacks on enclaved execution,2017,39,63,1,1.0,233250515,Frank Piessens,0,-0.4545549777994048,-1.0799601790915023
+2603244601,Discovering Logical Vulnerabilities in the Wi-Fi Handshake Using Model-Based Testing,2017,28,4,1,1.0,233250515,Frank Piessens,0,0.5326413395235721,-0.47526607428417833
+2761388029,Exploring the Ecosystem of Malicious Domain Registrations in the eu TLD,2017,12,6,1,1.0,233250515,Frank Piessens,0,-2.6276670129983675,0.42678321102787703
+2774158776,VulCAN Efficient Component Authentication and Software Isolation for Automotive Control Networks,2017,39,11,1,1.0,233250515,Frank Piessens,0,-0.371382032372374,0.8124586182578781
+2778215685,The Heisenberg Defense Proactively Defending SGX Enclaves against Page-Table-Based Side-Channel Attacks,2017,33,9,1,1.0,233250515,Frank Piessens,0,0.42972921454364443,-0.15731655672571063
+2753991289,Authentic Execution of Distributed Event-Driven Applications with a Small TCB,2017,17,3,1,1.0,233250515,Frank Piessens,0,1.085097682730419,1.950487146920374
+2767098552,Key Reinstallation Attacks Forcing Nonce Reuse in WPA2,2017,44,95,1,1.0,233250515,Frank Piessens,0,-0.40766556466994835,-1.0125706083550985
+2739746516,Sancus 20 A Low-Cost Security Architecture for IoT Devices,2017,67,15,2,0.0,201106088,Felix C. Freiling,0,-1.3721930698182816,1.7734739921660752
+2794811688,Impossibility of Precise and Sound Termination-Sensitive Security Enforcements,2018,30,2,2,0.161528,128769767,Tamara Rezk,0,-0.09602735134178905,0.6849619620451437
+2810261900,Operating Channel Validation Preventing Multi-Channel Man-in-the-Middle Attacks Against Protected Wi-Fi Networks,2018,14,4,1,1.0,233250515,Frank Piessens,0,-0.5580859676354667,-0.05335702307625839
+2888798936,Foreshadow extracting the keys to the intel SGX kingdom with transient out-of-order execution,2018,34,181,1,1.0,233250515,Frank Piessens,0,0.45674815628009285,-1.0058413460936704
+2888974175,Dependence-Preserving Data Compaction for Scalable Forensic Analysis,2018,0,12,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2889520921,Symbolic Execution of Security Protocol Implementations Handling Cryptographic Primitives,2018,0,5,1,1.0,233250515,Frank Piessens,0,-0.8876298000616757,-1.1998359656152426
+2898785612,Tracking Information Flow via Delayed Output Addressing Privacy in IoT and Emailing Apps,2018,28,1,1,1.0,233250515,Frank Piessens,0,0.0033943182524452387,0.4117105583303114
+2890914193,Nemesis Studying Microarchitectural Timing Leaks in Rudimentary CPU Interrupt Logic,2018,64,15,1,1.0,233250515,Frank Piessens,0,-1.6341546348979454,-0.4020107981483716
+2900479912,A Systematic Evaluation of Transient Execution Attacks and Defenses,2018,43,13,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2892310063,Release the Kraken New KRACKs in the 80211 Standard,2018,36,5,1,1.0,233250515,Frank Piessens,0,-1.1725836377487346,-0.6144010577083229
+2912163589,Proceedings of the IFIP TC11 WG114 First Annual Working Conference on Network Security Advances in Network and Distributed Systems Security,2001,0,0,1,1.0,233250515,Frank Piessens,0,0.3259332239481683,0.5745734317069635
+2958462899,Tracking Information Flow via Delayed Output,2018,0,1,1,1.0,233250515,Frank Piessens,0,0.0033943182524452387,0.4117105583303114
+2956991859,Tracking Information Flow via Delayed Output Addressing Privacy in IoT and Emailing Apps,2018,0,0,1,1.0,233250515,Frank Piessens,0,0.0033943182524452387,0.4117105583303114
+2943785747,A Server-Side JavaScript Security Architecture for Secure Integration of Third-Party Libraries,2019,9,1,2,1.0,106016043,Willem De Groef,0,-0.023550276898621297,0.7099097923564667
+2948017961,Fallout Reading Kernel Writes From User Space,2019,43,11,1,1.0,233250515,Frank Piessens,0,1.360673506563587,0.258881164326476
+2964590009,A Systematic Evaluation of Transient Execution Attacks and Defenses,2019,0,31,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2986802864,Verifying the Security of Enclaved Execution Against Interrupt-based Side-channel Attacks,2019,4,0,1,1.0,233250515,Frank Piessens,0,0.29987254661134827,0.7243296383307094
+2982827547,A Tale of Two Worlds Assessing the Vulnerability of Enclave Shielding Runtimes,2019,38,4,1,1.0,233250515,Frank Piessens,0,0.1639362940477497,0.6530314529854678
+2982848142,Fallout Leaking Data on Meltdown-resistant CPUs,2019,56,5,1,1.0,233250515,Frank Piessens,0,0.7581994215731006,0.18046312226561637
+3007520401,CopyCat Controlled Instruction-Level Attacks on Enclaves for Maximal Key Extraction,2020,72,2,1,1.0,233250515,Frank Piessens,0,1.4633635275006522,-0.267459415485604
+3004292055,Provably Secure Isolation for Interruptible Enclaved Execution on Small Microprocessors Extended Version,2020,17,0,1,1.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+3015806656,Plundervolt Software-Based Fault Injection Attacks against Intel SGX,2020,0,0,1,1.0,233250515,Frank Piessens,0,0.777030373093311,0.5868086784121158
+3015844221,LVI Hijacking Transient Execution through Microarchitectural Load Value Injection,2020,0,2,1,1.0,233250515,Frank Piessens,0,0.1639362940477497,0.6530314529854678

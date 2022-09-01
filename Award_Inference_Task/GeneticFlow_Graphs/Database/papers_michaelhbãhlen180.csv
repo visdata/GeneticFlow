@@ -1,0 +1,77 @@
+171028393,Managing Temporal Data A Five-Part Series,1998,8,12,6,0.227821,347472556,Giedrius Slivinskas,0,0.19914293615856124,0.0866270876191949
+188224872,Cleansing Databases of Misspelled Proper Nouns,2006,14,13,2,1.0,2086622389,Arturas Mazeika,0,0.3046695554035933,-1.086310492521508
+103774965,Adding transaction time to SQL/Temporal Temporal change proposal,1996,0,7,4,0.0,699078101,Richard T. Snodgrass,0,0.5831074705953151,0.6283783936876367
+36096834,Indexing Valid Time Databases Via B -trees â€“ The MAP21 Approach,2003,34,5,4,1.0,2104508450,Kristian Torp,0,-0.082566639486871,-0.3569719439141418
+154944020,ISOGA a system for geographical reachability analysis,2013,10,6,3,1.0,1786981052,Johann Gamper,0,-0.0041099411153885,0.0447066884760059
+58623172,Scalable computation of isochrones with network expiration,2012,25,14,3,1.0,1786981052,Johann Gamper,0,-0.0041099411153885,0.0447066884760059
+75734836,Declarative serializable snapshot isolation,2011,18,1,4,0.0,1263411180,Boris Glavic,0,2.0482465109765693,2.2411567831702017
+10817470,Adding Transaction Time to SQL/Temporal,1996,1,26,4,0.0,699078101,Richard T. Snodgrass,0,0.830265971543358,0.9508351806174198
+80630407,Adding Valid Time to SQL/Temporal,1996,7,66,4,0.0,699078101,Richard T. Snodgrass,0,0.3681062399743934,-0.11785601185402365
+201468725,Design and implementation of a document database extension,2006,21,1,1,1.0,2300834035,Michael H. BÃ¶hlen,0,1.283345990045747,0.3540393658999365
+48791611,Seamless integration of time into sql,1996,0,26,2,1.0,2159644763,Christian S. Jensen,0,0.044859856903840555,0.012551371775477651
+1550023779,Incremental Observer Relative Data Extraction,2004,11,1,2,1.0,1947367222,Linas Bukauskas,0,-0.0041099411153885,0.0447066884760059
+1568752909,Architectures and implementations of spatio-temporal database management systems,2003,66,23,7,0.0,141857038,Stefan Dieker,0,1.7014352852043624,0.5094823096100995
+1488899498,Capturing and Querying Multiple Aspects of Semistructured Data,1999,34,42,2,0.470033,2159644763,Christian S. Jensen,0,0.10189292287945735,0.05285586470642028
+1498501398,Versioned relations support for conditional schema changes and schema versioning,2007,4,4,1,1.0,2300834035,Michael H. BÃ¶hlen,0,3.4842877509641514,-0.33208904604932704
+1570283300,Generalized MD-Joins Evaluation and Reduction to SQL,2001,11,16,2,1.0,142230803,Michael O. Akinde,0,0.4266559662233186,0.6669920575042023
+1481351025,Querying versioned software repositories,2011,10,0,4,0.0,44445485,Dietrich Christopeit,0,-0.010359089777358887,0.24245908788500942
+1571281542,Minimizing Detail Data in Data Warehouses,1998,22,1,3,1.0,142230803,Michael O. Akinde,0,0.9148674901315894,-0.5609489643323118
+1574127120,Multitemporal Conditional Schema Evolution,2004,12,3,2,1.0,2155861284,Ole Guttorm Jensen,0,3.3462135475539965,-0.013331835844103607
+1557110493,PPPA push and pull pedigree analyzer for large and complex pedigree databases,2006,13,3,2,1.0,2086622389,Arturas Mazeika,0,-0.0041099411153885,0.0447066884760059
+1548214008,Access Structures for Moving Points,2003,20,17,8,0.0,31261168,Yannis Theodoridis,0,-0.0041099411153885,0.0447066884760059
+1747017291,Querying multi-granular compact representations,2006,9,0,2,0.0,2276843179,Romans Kasperovics,0,-0.3297305835590594,-0.1294012677694713
+1577743175,Transitioning Temporal Support in TSQL2 to SQL3,1998,11,72,4,0.0,699078101,Richard T. Snodgrass,0,0.2542141079193131,0.3170634040647481
+1643136667,Using Nested Surfaces for Visual Detection of Structures in Databases,2008,9,1,3,0.0,1156772460,Peer Mylov,0,-0.0041099411153885,0.0447066884760059
+1817289662,Lossless conditional schema evolution,2004,21,2,2,1.0,2155861284,Ole Guttorm Jensen,0,3.6866229928304186,0.11104969528794087
+1914342373,On the efficient construction of multislices from recurrences,2010,13,0,3,1.0,1786981052,Johann Gamper,0,0.5325669973310596,0.09709227568458595
+1707426366,Point-versus interval-based temporal data models,1998,15,79,2,0.5,2159644763,Christian S. Jensen,0,0.3914427758801388,0.13389878142289555
+1780252867,Towards General Temporal Aggregation,2008,12,3,3,1.0,1786981052,Johann Gamper,0,-0.6970542984259372,0.43337214271631086
+1782046864,Multi-dimensional aggregation for temporal data,2006,10,45,3,1.0,1786981052,Johann Gamper,0,0.24715065965706012,-0.11590448236754827
+1720513109,Special issue on best papers of VLDB 2013,2015,1,0,2,0.0,2131931065,Christoph Koch,0,-0.04534890945238118,0.17026234857997405
+1868309712,Smile enabling easy and fast development of domain-specific scheduling protocols,2011,5,0,4,0.0,1263411180,Boris Glavic,0,-0.19196147509311953,0.14487620954580122
+1835623796,Querying TSQL2 Databases with Temporal Logic,1996,42,26,4,0.0,699078101,Richard T. Snodgrass,0,0.646764342349754,0.04385726497745116
+1978510388,Approximate Joins for Data-Centric XML,2008,24,35,3,1.0,113607873,Nikolaus Augsten,0,1.0055588493216148,-1.2807365420441021
+1966381268,The Jungle database search engine,1999,4,3,2,1.0,1947367222,Linas Bukauskas,0,2.3609037898779945,0.461518988023364
+1986037284,TASM Top-k Approximate Subtree Matching,2010,25,28,4,1.0,113607873,Nikolaus Augsten,0,0.5586742082380666,-0.1984847101299193
+1986050705,Query time scaling of attribute values in interval timestamped databases,2013,4,8,3,1.0,1683888383,Anton DignÃ¶s,0,0.32287549990607406,9.671561712180111e-05
+1967022996,Measuring structural similarity of semistructured data based on information-theoretic approaches,2012,59,11,3,1.0,113607873,Nikolaus Augsten,0,0.5586742082380666,-0.1984847101299193
+1986739594,Temporal statement modifiers,2000,51,52,3,0.0,699078101,Richard T. Snodgrass,0,-0.039672495029833735,-0.07496663459681997
+1997954441,Sequenced spatio-temporal aggregation in road networks,2009,28,10,3,1.0,1786981052,Johann Gamper,0,-0.0338940667060946,0.16002919751046835
+1993831977,Estimating the selectivity of approximate string queries,2007,31,34,4,0.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2022979132,Windowed pq-grams for approximate joins of data-centric XML,2012,41,8,3,1.0,113607873,Nikolaus Augsten,0,-0.0041099411153885,0.0447066884760059
+2023488834,Nearest Neighbour Join with Groups and Predicates,2015,16,3,2,1.0,2042905414,Francesco Cafagna,0,0.8202015268000682,-1.0755850453756692
+2032521898,A foundation for representing and querying moving objects,2000,34,658,7,0.0,19930516,Nikos A. Lorentzos,0,0.11684981489699883,0.09393327342500649
+2043707684,Layered Temporal DBMS Concepts and Techniques,1997,16,19,3,1.0,2104508450,Kristian Torp,0,0.8266483623517606,0.18931489170830365
+2054655669,Querying ATSQL databases with temporal logic,2001,49,49,3,0.0,1973119209,Jan Chomicki,0,0.9001006351670634,0.3003801075776148
+2033629528,The pq -gram distance between ordered labeled trees,2010,44,62,3,1.0,113607873,Nikolaus Augsten,0,-0.1465074771935338,-0.3290449123705981
+2048048194,Sequenced spatiotemporal aggregation for coarse query granularities,2011,27,5,3,1.0,1786981052,Johann Gamper,0,-0.46893397788284524,0.07728939382804885
+2055387198,Parsimonious temporal aggregation,2012,28,13,2,1.0,1786981052,Johann Gamper,0,0.13213543182339701,-0.12622668877144128
+2057520401,Spatio-temporal database support for legacy applications,1998,23,50,3,0.0,204274584,BjÃ¸rn Skjellaug,0,0.14959802245012377,-0.13300828103999085
+2096753613,Temporal database system implementations,1995,0,53,1,1.0,2300834035,Michael H. BÃ¶hlen,0,2.109204967058555,0.4748547969670879
+2100010400,Parameter estimation using B-trees,2004,32,1,1,1.0,2300834035,Michael H. BÃ¶hlen,0,0.7128724114629558,0.1368429702569061
+2091332858,Parsimonious temporal aggregation,2009,30,3,2,1.0,1786981052,Johann Gamper,0,0.13213543182339701,-0.12622668877144128
+2095374520,A web-enabled extension of a spatio-temporal DBMS,2007,24,3,3,0.0,1971428696,Markus Innerebner,0,-0.0041099411153885,0.0447066884760059
+2117382672,Query load balancing for incremental visible object extraction,2004,23,2,2,1.0,1947367222,Linas Bukauskas,0,-0.0041099411153885,0.0447066884760059
+2135888006,An incrementally maintainable index for approximate lookups in hierarchical data,2006,20,10,3,1.0,113607873,Nikolaus Augsten,0,1.5834598206855202,0.31821670507765476
+2140120963,Efficient OLAP query processing in distributed data warehouses,2002,19,3,4,0.373688,2168523976,Theodore Johnson,0,-0.14345397782977193,0.5197010984164895
+2134484671,Current Legacy and Invalid Tuples in Conditionally Evolving Databases,2002,28,3,2,1.0,2155861284,Ole Guttorm Jensen,0,2.2191612942187766,0.47357771996310166
+2125922137,Î¸ -Constrained multi-dimensional aggregation,2011,39,1,3,0.0,106204968,Damianos Chatziantoniou,0,0.06155862518565555,0.5607548851979121
+2165692869,Efficient computation of subqueries in complex OLAP,2003,22,26,1,1.0,2300834035,Michael H. BÃ¶hlen,0,0.4326719709409979,0.45975976656926426
+2156758967,A split operator for now-relative bitemporal databases,2001,17,9,2,1.0,2104508450,Kristian Torp,0,0.5826058935765746,0.017431050661542602
+2293307430,Temporal alignment,2012,44,36,3,1.0,1683888383,Anton DignÃ¶s,0,0.32899997119067503,-0.07156720757627538
+2421749548,TemProRA Top-k temporal-probabilistic results analysis,2016,14,4,2,0.833333,2275235609,Katerina Papaioannou,0,0.43739842239757626,0.009947045888208002
+2584741845,Category- and selection-enabled nearest neighbor joins,2017,27,3,2,1.0,2042905414,Francesco Cafagna,0,0.2861584514623058,0.17917880927276644
+2546460896,Extending the Kernel of a Relational DBMS with Comprehensive Support for Sequenced Temporal Queries,2016,51,15,4,1.0,1683888383,Anton DignÃ¶s,0,0.42575138260368695,0.1912443834069908
+2564157169,A GIS-based data analysis platform for analyzing the time-varying quality of animal feed and its impact on the environment,2012,0,3,4,0.0,50948704,Andrej Taliun,0,0.2910079010531066,0.37314400093668937
+2631772412,Efficient OLAP query processing in distributed data warehouses,2003,23,54,4,0.373688,2168523976,Theodore Johnson,0,-0.16328011374660287,0.9890247327765609
+2623452873,Change Proposal for SQL/Temporal Adding Valid Time-Part A,1995,0,2,4,0.0,699078101,Richard T. Snodgrass,0,-0.02376787468355746,-0.24451594425111137
+2590972148,Disjoint interval partitioning,2017,32,12,2,1.0,2042905414,Francesco Cafagna,0,0.13213543182339701,-0.12622668877144128
+2745533534,Î¸â€ConstrainedÎ¸â€Constrained multi-dimensional aggregation,2011,28,0,3,0.0,106204968,Damianos Chatziantoniou,0,0.06155862518565555,0.5607548851979121
+2788168960,Minimizing detail data in data warehouses,1998,0,15,3,1.0,142230803,Michael O. Akinde,0,0.31719459493491575,-0.5132034105230975
+2921028595,Advances in Databases - 28th British National Conference on Databases BNCOD 28 Manchester UK July 12-14 2011 Revised Selected Papers,2011,0,0,4,0.0,1263411180,Boris Glavic,0,-0.19196147509311953,0.14487620954580122
+2906277631,Database Technology for Processing Temporal Data,2018,0,0,4,1.0,1683888383,Anton DignÃ¶s,0,-0.1295569451724268,-0.1244904715132615
+2913894909,Generalized Lineage-Aware Temporal Windows Supporting Outer and Anti Joins in Temporal-Probabilistic Databases,2019,21,1,3,0.0,2159374572,Martin Theobald,0,0.43739842239757626,0.009947045888208002
+2938900529,Proceedings of the 30th International Conference on Scientific and Statistical Database Management SSDBM 2018,2018,0,0,3,1.0,1786981052,Johann Gamper,0,0.2110042213238609,-0.04628194148844761
+2939762888,Feeding time Time for Tameus,2012,0,0,2,0.0,2288509504,Monika Boltshauser,0,-0.0041099411153885,0.0447066884760059
+3000115421,Query Results over Ongoing Databases that Remain Valid as Time Passes By (Extended Version),2020,31,0,1,1.0,2300834035,Michael H. BÃ¶hlen,0,0.2896881986622401,-0.12353670797276804
+3020275194,Change Proposal to SQL/Temporal Adding Transaction Time to SQL/Temporal,1996,0,0,3,0.0,699078101,Richard T. Snodgrass,0,0.5831074705953151,0.6283783936876367

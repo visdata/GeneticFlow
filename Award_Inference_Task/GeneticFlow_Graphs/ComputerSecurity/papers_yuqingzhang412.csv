@@ -1,0 +1,68 @@
+1522854755,Static detection of logic vulnerabilities in Java web applications,2014,21,4,4,0,1975567757,Zhejun Fang,0,-1.4906487443016354,2.505157669622591
+1489395332,A new certificateless authenticated key agreement protocol for SIP with different KGCs,2013,17,8,2,0,2135331948,Geifei Zhang,0,-0.29189864236859425,-1.4586851226173374
+1507956106,A client-based and server-enhanced defense mechanism for cross-site request forgery,2010,3,5,2,0,2098948555,Luyi Xing,0,0.0040557659796233,0.2757546058061082
+1517783222,Eliminating human specification in static analysis,2010,3,3,3,0,2112430796,Qixu Liu,0,0.0040557659796233,0.2757546058061082
+1484942491,A simple and robust anonymous twoâ€factor authenticated key exchange protocol,2013,20,8,1,0,2398889897,Yuqing Zhang,0,-1.4345977957446472,-2.240214995784171
+1587600832,The Analysis of an Efficient and Provably Secure ID-Based Threshold Signcryption Scheme and Its Secure Version,2008,17,0,2,0,2143767033,Fengjiao Wang,0,-0.08877450709735482,-1.3033441436324233
+1579074480,A privacy preserving authentication scheme for roaming services in global mobility networks,2015,25,11,2,0,2252140004,Dan Fan,0,-1.1128235430410545,-1.2468323750726547
+1962529150,An anonymous data aggregation scheme for smart grid systems,2014,20,19,3,0,2165546819,Boyang Wang,0,0.28474577313021576,0.9906710163767815
+1939508804,IKE vulnerability discovery based on fuzzing,2013,7,3,4,0,2112430796,Qixu Liu,0,-0.36553258789700943,-1.318282447706414
+1900028245,A privacy-preserving acceleration authentication protocol for mobile pay-TV systems,2013,20,7,2,0,2289955207,Xuefeng Liu,0,-0.38792132228892706,-0.15752669486904755
+1834777415,Provably secure password-authenticated group key exchange with different passwords under standard assumption,2009,29,2,2,0,2143767033,Fengjiao Wang,0,-1.0077783328730698,-2.364630320767496
+1982073059,Defend against Collusive SSDF Attack Using Trust in Cooperative Spectrum Sensing Environment,2013,14,8,2,0,2311179144,Jingyu Feng,0,0.5024385674029023,0.22483621141623658
+1982709927,Static Detection of Logic Vulnerabilities in Java Web Applications,2012,13,2,4,0,1975567757,Zhejun Fang,0,0.0040557659796233,0.2757546058061082
+1972612769,On the Knowledge Soundness of a Cooperative Provable Data Possession Scheme in Multicloud Storage,2014,11,35,1,0,2398889897,Yuqing Zhang,0,0.08210232866940899,-0.21345618371312605
+2001299490,A New Provably Secure Authentication and Key Agreement Mechanism for SIP Using Certificateless Public-Key Cryptography,2007,20,9,2,0,2143767033,Fengjiao Wang,0,-0.6056990616549929,-1.9006280991057583
+2001476200,Securing cooperative spectrum sensing against ISSDF attack using dynamic trust evaluation in cognitive radio networks,2015,18,6,2,0,2311179144,Jingyu Feng,0,-0.18618689656946605,0.637946401295037
+1990091526,Improving VRSS-based vulnerability prioritization using analytic hierarchy process,2012,15,34,4,0,2112430796,Qixu Liu,0,0.0040557659796233,0.2757546058061082
+1997386306,Fuzzing the ActionScript virtual machine,2013,11,2,4,0,2112430796,Qixu Liu,0,0.0040557659796233,0.2757546058061082
+2015736939,POSTER trend of online flash XSS vulnerabilities,2013,3,0,3,0,2112430796,Qixu Liu,0,1.7029826062605458,-0.2600589908962866
+2029012399,XAS Cross-API scripting attacks in social ecosystems,2015,19,8,2,0,2112430796,Qixu Liu,0,0.0040557659796233,0.2757546058061082
+2040555048,POSTER Recommendation-based Third-Party Tracking Monitor to Balance Privacy with Personalization,2014,6,0,3,0,2112430796,Qixu Liu,0,0.5397144779015588,1.5584807090572435
+2056892752,Dealing with dishonest recommendation The trials in reputation management court,2012,31,22,2,0,2122638777,Jingyu Feng,0,-0.20361398935179198,0.2569856548365551
+2067387621,TFTP vulnerability finding technique based on fuzzing,2008,6,8,2,0,2112430796,Qixu Liu,0,-1.9568047722923327,0.7433319519222306
+2062406279,A Trust Management Model Based on Bi-evaluation in P2P Networks,2010,16,4,2,0,2122638777,Jingyu Feng,0,0.5024385674029023,0.22483621141623658
+2089209323,A new provably secure authentication and key agreement protocol for SIP using ECC,2009,7,100,3,0,2138843908,Liufei Wu,0,-1.1366352653354366,-1.5851668536277936
+2091794203,Mona Secure Multi-Owner Data Sharing for Dynamic Groups in the Cloud,2013,21,192,3,0,2165546819,Boyang Wang,0,-0.46572313692306977,-2.1933892286085954
+2114771070,IVDA International Vulnerability Database Alliance,2011,4,3,1,0,2398889897,Yuqing Zhang,0,0.3259332239481683,0.5745734317069635
+2141526999,EKMP An enhanced key management protocol for IEEE 80216m,2011,13,4,3,0,2122638777,Jingyu Feng,0,-0.38560890549023263,-1.36951984035362
+2153205836,RepHi A novel attack against P2P reputation systems,2011,18,8,4,0,2122638777,Jingyu Feng,0,0.3171484069971384,-0.13992525839030945
+2162142914,VRSS A new system for rating and scoring vulnerabilities,2011,6,48,2,0,2112430796,Qixu Liu,0,0.3259332239481683,0.5745734317069635
+2152394849,Structurized grammar-based fuzz testing for programs with highly structured inputs,2013,21,4,1,0,2398889897,Yuqing Zhang,0,0.0040557659796233,0.2757546058061082
+2161404981,An efficient handover authentication scheme with privacy preservation for IEEE 80216m network,2012,28,22,4,0,2122638777,Jingyu Feng,0,-1.2240534141992347,-0.46822442028386857
+2146681520,On the Security of a Ticket-Based Anonymity System with Traceability Property in Wireless Mesh Networks,2012,10,3,1,0,2398889897,Yuqing Zhang,0,0.17465312803406896,-0.12131591319488866
+2146793521,A new provably secure authentication and key agreement mechanism for SIP using certificateless public-key cryptography,2008,10,63,2,0,2143767033,Fengjiao Wang,0,-0.6020209376339214,-1.5613947043084377
+2146930260,Coping with Traitor Attacks in Reputation Models for Wireless Sensor Networks,2010,18,7,2,0,2122638777,Jingyu Feng,0,0.941872630663631,-0.162814781267628
+2193901434,IVDroid Static Detection for Input Validation Vulnerability in Android Inter-component Communication,2015,15,4,3,0,1975567757,Zhejun Fang,0,0.1639362940477497,0.6530314529854678
+2292123528,A privacy-preserving group authentication protocol for machine-type communication in LTE/LTE-A networks,2016,17,17,2,0,2136066952,Anmin Fu,0,-1.0457339709421458,-0.30056094367277525
+2294287296,A Novel Automatic Severity Vulnerability Assessment Framework,2015,35,4,3,0,2292510972,Tao Wen,0,0.3259332239481683,0.5745734317069635
+2278854381,A Static Technique For Detecting Input Validation Vulnerabilities in Android Apps,2017,16,6,4,0,1975567757,Zhejun Fang,0,0.1639362940477497,0.6530314529854678
+2403891529,ASVC An Automatic Security Vulnerability Categorization Framework Based on Novel Features of Vulnerability Data,2015,30,3,3,0,2292510972,Tao Wen,0,0.0040557659796233,0.2757546058061082
+2397068987,trend of online flash XSS vulnerabilities,2013,0,0,3,0,2112430796,Qixu Liu,0,0.0040557659796233,0.2757546058061082
+2555186252,Avoiding monopolization mutual-aid collusive attack detection in cooperative spectrum sensing,2017,5,0,1,0,2398889897,Yuqing Zhang,0,0.0040557659796233,0.2757546058061082
+2533703061,Call Me Back Attacks on System Server and System Apps in Android through Synchronous Callback,2016,17,9,1,0,2398889897,Yuqing Zhang,0,0.0040557659796233,0.2757546058061082
+2519687663,Stay in Your Cage A Sound Sandbox for Third-Party Libraries on Android,2016,19,6,1,0,2398889897,Yuqing Zhang,0,0.1277271663146797,0.24067959541525985
+2586890171,Security Analysis and Vulnerability Detection of Gesture-Based Lock in Android Applications,2016,17,2,1,0,2398889897,Yuqing Zhang,0,0.2018268678365599,0.1425886522275585
+2611557754,NPP A New Privacy-Aware Public Auditing Scheme for Cloud Data Sharing with Group Users,2017,20,33,2,0,2135864080,Shui Yu,0,-0.19944069894962285,-0.5569384828501365
+2595612519,A Provably Secure General Construction for Key Exchange Protocols Using Smart Card and Password,2017,0,1,2,0,2252140004,Dan Fan,0,-1.430121316281434,-1.1123705755758424
+2601324120,A VULNERABILITY FIXING METHOD BASED ON HIERARCHICAL VULNERABILITY THREAT EVALUATION,2010,3,2,1,0,2398889897,Yuqing Zhang,0,-0.1773385929008878,0.7069782294431272
+2765466176,IoT S&amp;P 2017 First Workshop on Internet of Things Security and Privacy,2017,0,0,3,0,1978504893,Srikanth Sundaresan,0,0.17627440894539687,0.6328449472569616
+2785446263,The Effect of IoT New Features on Security and Privacy New Threats Existing Solutions and Challenges Yet to Be Solved,2019,48,62,1,0,2398889897,Yuqing Zhang,0,0.14936408378902535,0.8198747654921906
+2886610257,SCPN-based Game Model for Security Situational Awareness in the Intenet of Things,2018,15,1,1,0,2398889897,Yuqing Zhang,0,0.40629532541849345,1.0214741731270311
+2899548659,Phantom Device Attack Uncovering the Security Implications of the Interactions among Devices IoT Cloud and Mobile Apps,2018,0,1,1,0,2398889897,Yuqing Zhang,0,0.14936408378902535,0.8198747654921906
+2910695669,Special Issue Security Measurements of Cyber Networks,2018,0,0,3,0,1965944055,Zheng Yan,0,0.0040557659796233,0.2757546058061082
+2896848965,Security Measurements of Cyber Networks,2018,0,1,4,0,1965944055,Zheng Yan,0,0.0040557659796233,0.2757546058061082
+2923360986,Security measurements of cyber networks (editorial),2018,0,0,2,0,1965944055,Zheng Yan,0,0.0040557659796233,0.2757546058061082
+2933652705,Attack-Defense Quantification Based On Game-Theory,2019,26,1,1,0,2398889897,Yuqing Zhang,0,-0.0037538984953500534,0.3670191701654301
+2955270935,Discovering and Understanding the Security Hazards in the Interactions between IoT Devices Mobile Apps and Clouds on Smart Home Platforms,2018,30,0,1,0,2398889897,Yuqing Zhang,0,0.0438009039813555,0.660912305741342
+2950832882,A New Provably Secure Authentication and Key Agreement Mechanism for SIP Using Certificateless Public-key Cryptography,2007,0,0,2,0,2143767033,Fengjiao Wang,0,-0.8998359768311658,-1.2772676574344595
+2953332220,Security Analysis of WAPI Authentication and Key Exchange Protocol,2007,7,7,3,0,2138843908,Liufei Wu,0,-0.2986289269854684,-0.7650195002991371
+2972481639,Identifying Privilege Separation Vulnerabilities in IoT Firmware with Symbolic Execution,2019,22,1,1,0,2398889897,Yuqing Zhang,0,0.5572143413507267,1.4037965928288259
+3001726072,Black-Box and Public Traceability in Multi-authority Attribute Based Encryption,2020,0,0,1,0,2398889897,Yuqing Zhang,0,0.005032095818077628,-1.091744491762835
+2987277830,IoT S&amp;P 2019 2nd Workshop on the Internet of Things Security and Privacy,2019,0,0,1,0,2398889897,Yuqing Zhang,0,0.1822731046919942,0.706777145399998
+2969657730,Randex Mitigating Range Injection Attacks on Searchable Encryption,2019,20,0,2,0,2165546819,Boyang Wang,0,0.2381801961914675,-0.19838037508782214
+2965747649,Discovering and Understanding the Security Hazards in the Interactions between IoT Devices Mobile Apps and Clouds on Smart Home Platforms,2019,0,4,1,0,2398889897,Yuqing Zhang,0,0.14936408378902535,0.8198747654921906
+2968076530,Good Motive but Bad Design Why ARM MPU Has Become an Outcast in Embedded Systems,2019,4,1,1,0,2398889897,Yuqing Zhang,0,0.18567009206999893,0.730565259678667
+2997893473,Logic Bugs in IoT Platforms and Systems A Review,2019,16,0,2,0,2122095034,Limin Sun,0,0.1822731046919942,0.706777145399998
+3015797940,Burglars IoT Paradise Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds,2020,0,0,2,0,2098948555,Luyi Xing,0,-0.13448030485104667,1.233418589022261
+3016250055,Security Analysis of Smart Home Based on Life Cycle,2019,4,0,1,0,2398889897,Yuqing Zhang,0,-0.11813881184822056,0.45399055122594406

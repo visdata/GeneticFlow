@@ -1,0 +1,68 @@
+187925940,Stealth probing efficient data-plane security for IP routing,2006,19,50,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+1532196907,Quantifying the Extent of IPv6 Deployment,2009,7,50,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+1551502829,The Internet Under Crisis Conditions Learning from September 11,2003,0,32,2,0,716133098,Vern Paxson,0,0.33167069732282195,0.3358772555332812
+1508136726,Towards securing interdomain routing on the internet,2009,94,0,1,0,1998722161,Jennifer Rexford,0,0.36544092170511777,0.5375067894756285
+1536108317,Proceedings of the 2004 conference on Applications technologies architectures and protocols for computer communications,2004,0,14,2,0,1783386385,Raj Yavatkar,0,0.0040557659796233,0.2757546058061082
+1563084827,Some Foundational Problems in Interdomain Routing,2004,25,70,3,0,1373210103,Nick Feamster,0,0.0040557659796233,0.2757546058061082
+1555220698,NetReview detecting when interdomain routing goes wrong,2009,32,52,3,0,25222087,Andreas Haeberlen,0,0.0040557659796233,0.2757546058061082
+1587358570,Privacy-preserving collaborative anomaly detection,2009,64,10,1,0,1998722161,Jennifer Rexford,0,-0.1381552661741029,0.031466693267462514
+1597292924,Collaborative privacy-preserving data aggregation at scale,2010,42,38,1,0,1998722161,Jennifer Rexford,0,0.37973791415787667,-0.6211671177163244
+1678505268,Nation-State Routing Censorship Wiretapping and BGP,2009,38,29,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+1972828806,Selecting the 2008 sigcomm test-of-time awardwinner(s),2009,0,0,3,0,218283174,Nick McKeown,0,0.0040557659796233,0.2757546058061082
+2001532565,How secure are secure interdomain routing protocols,2014,35,10,1,0,1998722161,Jennifer Rexford,0,-0.15864374652083932,-0.1879861517290886
+1994926493,P4 programming protocol-independent packet processors,2014,14,757,3,0,218283174,Nick McKeown,0,0.0040557659796233,0.2757546058061082
+1993572123,Security vulnerabilities and solutions for packet sampling,2007,7,13,1,0,1998722161,Jennifer Rexford,0,0.13679434731489165,0.6751406926737795
+2020769003,The cutting EDGE of IP router configuration,2004,8,79,1,0,1998722161,Jennifer Rexford,0,-0.05792662942667305,0.050437546080792414
+2010645896,My ten favorite &quot;practical theory&quot; papers,2008,0,1,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2024890441,Anonymity on QuickSand Using BGP to Compromise Tor,2014,22,18,2,0,20158177,Laurent Vanbever,0,-0.3135866331166738,0.15314319722799927
+2018227376,Internal surveillance external risks,2007,0,0,2,0,687694072,Steven M. Bellovin,0,0.0040557659796233,0.2757546058061082
+2040634542,Load-sensitive routing of long-lived IP flows,1999,36,189,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2033878700,Securing BGP incrementally,2007,4,10,2,0,251558293,Martin Suchara,0,-1.0008400706397378,-0.9810471015366883
+2035806374,The networking philosophers problem,2011,0,9,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2065283652,A Survey of BGP Security Issues and Solutions,2010,140,258,1,0,1998722161,Jennifer Rexford,0,-0.15278720188681938,0.28834630833576
+2072423588,Policy transformation in software defined networks,2012,4,10,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2058710837,Rehoming edge links for better traffic engineering,2012,17,4,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2094739364,Central Control Over Distributed Routing,2015,34,99,4,0,20158177,Laurent Vanbever,0,0.0040557659796233,0.2757546058061082
+2098989206,Risking Communications Security Potential Hazards of the Protect America Act,2008,10,36,2,0,687694072,Steven M. Bellovin,0,0.49481595275642676,0.18563733538413446
+2083793737,BGP routing stability of popular destinations,2002,12,272,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2108388750,RAPTOR routing attacks on privacy in tor,2015,38,57,2,0,20158177,Laurent Vanbever,0,-0.2805305293967129,0.6149267343747576
+2108673686,Towards an accurate AS-level traceroute tool,2003,16,310,1,0,1998722161,Jennifer Rexford,0,-0.5466318417234978,0.5854733955294422
+2135359801,Eliminating the hypervisor attack surface for a more secure cloud,2011,25,227,2,0,1970063313,Jakub Szefer,0,0.1639362940477497,0.6530314529854678
+2141938573,BGP routing policies in ISP networks,2005,20,229,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2121545378,Virtual routers on the move live router migration as a network-management primitive,2008,22,366,2,0,521069759,Brian Biskeborn,0,0.0040557659796233,0.2757546058061082
+2127589913,The need for simulation in evaluating anomaly detectors,2008,18,58,2,0,1231305195,Matthew Roughan,0,0.0040557659796233,0.2757546058061082
+2133436997,Managing routing disruptions in Internet service provider networks,2006,10,34,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2118826796,Deriving traffic demands for operational IP networks methodology and experience,2000,18,102,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2139573484,Guidelines for interdomain traffic engineering,2003,22,163,2,0,1373210103,Nick Feamster,0,0.0040557659796233,0.2757546058061082
+2115974339,Autonomous security for autonomous systems,2008,27,61,1,0,1998722161,Jennifer Rexford,0,0.8105872902144783,-0.3083129097929871
+2142762102,A distributed reputation approach to cooperative Internet routing protection,2005,12,30,2,0,234653941,Edward W. Felten,0,0.36544092170511777,0.5375067894756285
+2136680211,Pretty Good BGP Improving BGP by Cautiously Adopting Routes,2006,22,157,1,0,1998722161,Jennifer Rexford,0,-0.19817817313494432,0.24648915870794993
+2139789847,How secure are secure interdomain routing protocols,2010,33,93,1,0,1998722161,Jennifer Rexford,0,-0.5900004618732684,0.21053997837371377
+2107198105,How to lease the internet in your spare time,2007,22,490,2,0,1373210103,Nick Feamster,0,0.015245780877612549,0.7423220265691124
+2110722699,The road to SDN an intellectual history of programmable networks,2014,67,395,2,0,1373210103,Nick Feamster,0,0.0040557659796233,0.2757546058061082
+2140820993,BGP routing changes merging views from two ISPs,2005,18,18,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2117235019,Floodless in seattle a scalable ethernet architecture for large enterprises,2008,31,363,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2126034636,Accountability in hosted virtual networks,2009,20,38,1,0,1998722161,Jennifer Rexford,0,0.628239371277555,1.8179769509403148
+2137838113,Scalable flow-based networking with DIFANE,2010,19,542,1,0,1998722161,Jennifer Rexford,0,-0.023550276898621297,0.7099097923564667
+2150336242,BorderGuard detecting cold potatoes from peers,2004,8,40,2,0,1373210103,Nick Feamster,0,0.0040557659796233,0.2757546058061082
+2150574682,SDX a software defined internet exchange,2015,21,239,5,0,7409492,Ethan Katz Bassett,0,0.0040557659796233,0.2757546058061082
+2147575919,MIRO multi-path interdomain routing,2006,35,233,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2171918355,A network-state management service,2015,186,56,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2154002891,A Survey of BGP Security,2005,88,34,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2169700960,WebClass adding rigor to manual labeling of traffic anomalies,2008,19,21,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2166853440,UFO a resilient layered routing architecture,2008,36,19,3,0,255178747,Andy Bavier,0,0.0040557659796233,0.2757546058061082
+2149236835,Abstractions for network update,2012,22,465,2,0,50337445,Mark Reitblatt,0,0.0040557659796233,0.2757546058061082
+2164284397,A clean slate 4D approach to network control and management,2005,36,633,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2182926418,A Survey of BGP Security Issues and Solutions The Border Gateway Protocol (BGP) controls much of Internet traffic but is vulnerable to communications interruptions and failures; finding suitable improved security measures with acceptable costs is difficult,2010,89,1,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082
+2211762534,A Purpose-built Global Network Googles Move to SDN,2015,0,20,2,0,295064773,Amin Vahdat,0,0.0040557659796233,0.2757546058061082
+2339078035,Systems Computing Challenges in the Internet of Things,2016,0,17,5,0,18171182,Elizabeth D. Mynatt,0,0.07427892799043921,0.5682743558794173
+2404814036,Characterizing and Avoiding Routing Detours Through Surveillance States,2016,15,9,3,0,643326888,Roya Ensafi,0,0.0040557659796233,0.2757546058061082
+2495852223,A First Look into Transnational Routing Detours,2016,10,3,3,0,643326888,Roya Ensafi,0,0.0040557659796233,0.2757546058061082
+2554019663,Smoking Out the Heavy-Hitter Flows with HashPipe,2016,21,4,2,0,231801982,Ori Rottenstreich,0,0.0040557659796233,0.2757546058061082
+2652796822,Smart Wireless Communication is the Cornerstone of Smart Infrastructures,2017,0,1,2,0,350812128,J. Nicholas Laneman,0,0.7344289202300586,1.2865591187937273
+2610893174,GENI design principles,2006,0,87,4,0,36741956,John Wroclawski,0,1.7029826062605458,-0.2600589908962866
+2889089210,Bamboozling Certificate Authorities with {BGP},2018,0,8,1,0,1998722161,Jennifer Rexford,0,0.0640774421216092,-1.4577633792692866
+2945341858,Democratizing the Network Edge,2019,6,4,4,0,218283174,Nick McKeown,0,0.0040557659796233,0.2757546058061082
+2972896799,SPINE Surveillance protection in the network elements,2019,0,0,2,0,1373210103,Nick Feamster,0,0.0040557659796233,0.2757546058061082
+2983253154,SICO Surgical Interception Attacks by Manipulating BGP Communities,2019,28,3,1,0,1998722161,Jennifer Rexford,0,-0.17324153726119554,0.6587671663167594
+2988899298,Never waste a mid-life crisis Change for the better,2019,6,0,1,0,1998722161,Jennifer Rexford,0,0.0040557659796233,0.2757546058061082

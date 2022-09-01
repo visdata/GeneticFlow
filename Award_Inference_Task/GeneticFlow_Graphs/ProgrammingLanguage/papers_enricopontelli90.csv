@@ -1,0 +1,102 @@
+205169003,Complexity Analysis of Late Binding in Dynamic Object-Oriented Languages,1999,0,2,1,1,708809703,Enrico Pontelli,0,2.1200330621606294,-0.4976343336169011
+69324385,Automatic Compile-time Parallelization of Prolog Programs for Dependent And-Parallelism,1997,0,17,1,1,708809703,Enrico Pontelli,0,-1.1089523497281926,-0.21570117455543542
+172348140,High Performance Parallel Logic Programming The ACE Parallel Prolog System,1997,0,1,1,1,708809703,Enrico Pontelli,0,1.7478808245182025,-0.44936302557562374
+2152806,{log} A Logic Programming Language with Finite Sets,1991,20,53,2,0,318207047,Agostino Dovier,0,-0.12937006201271053,0.16561531567436427
+104995561,Exploiting Vertical Parallelism from Answer Set Programs,2001,18,11,1,1,708809703,Enrico Pontelli,0,0.37471245062018504,0.047025057229170476
+20933699,Determinacy Driven Optimizations of And-Parallel Prolog Implementations,1995,8,9,1,1,708809703,Enrico Pontelli,0,-0.3974840199936202,-0.0914593059396035
+123764397,PADL 00 Workshop on Practical Aspects of Declarative Languages,2000,0,0,1,1,708809703,Enrico Pontelli,0,0.7923134379407386,0.6777534378533846
+192838740,Visualization of And/Or-Parallel Execution of Logic Programs,1997,0,11,1,1,708809703,Enrico Pontelli,0,-0.3676932094671783,0.1059748405849819
+91653456,Integrating an Answer Set Solver into Prolog ASP-PROLOG,2005,2,5,1,1,708809703,Enrico Pontelli,0,-0.39647125653309206,-0.0677617054234385
+159990159,Formalizing commitments using action languages,2011,21,9,2,0,170944239,Chiaki Sakama,0,-0.1164726804531344,0.019252515865476
+143168216,Proceedings of the 5th ACM SIGPLAN workshop on Declarative aspects of multicore programming,2010,0,0,1,1,708809703,Enrico Pontelli,0,2.4138256933042017,0.10519803850886225
+196265471,ASP-PROLOG Composition and Interoperation of Rules,2007,6,0,1,1,708809703,Enrico Pontelli,0,-0.3494805566915172,0.2713764466202933
+150122547,An experimental comparison of constraint logic programming and answer set programming,2007,16,11,2,1,318207047,Agostino Dovier,0,0.7144089854690405,-0.14308941208549975
+1550020009,Answer Set Programming with Constraints Using Lazy Grounding,2009,30,32,2,0,318207047,Agostino Dovier,0,0.7637810144862875,0.11838065071018278
+1523918562,Smodels with CLPâ€”A Treatment of Aggregates in ASP,2004,17,6,1,1,708809703,Enrico Pontelli,0,-0.6893670297613115,0.20946522097870884
+1551524592,Verification of a controller for bart an approach based on horn logic and denotational semantics,2001,23,6,1,1,708809703,Enrico Pontelli,0,-0.2761670200028545,-0.04180264454456639
+1551527937,Combining answer set programming and prolog the ASP-PROLOG system,2011,28,3,1,1,708809703,Enrico Pontelli,0,-0.33715816336418336,0.4912154852937582
+1524695239,Embedding Finite Sets in a Logic Programming Language,1992,26,18,2,0,318207047,Agostino Dovier,0,0.4948079396700322,-0.23697521236066085
+1544066577,Multi-valued Action Languages in CLP(FD),2009,27,0,2,0,318207047,Agostino Dovier,0,0.822925516170375,0.05675852644876519
+1526189329,Last parallel call optimization and fast backtracking in and-parallel logic programming systems,1994,0,1,1,1,708809703,Enrico Pontelli,0,1.1395295333676843,-1.1081519803268434
+1517132137,Present and Future Challenges for ASP Systems,2009,12,1,2,0,318207047,Agostino Dovier,0,-0.45284144961552064,-0.020420188128580673
+1535404374,Revising knowledge in multi-agent systems using revision programming with preferences,2004,28,3,1,1,708809703,Enrico Pontelli,0,-0.2885364156905338,0.7931951650461607
+1508847246,Multivalued action languages with constraints in CLP(FD),2007,16,10,2,1,318207047,Agostino Dovier,0,0.21717700836650122,0.6155233020021907
+1501159154,On the Duality Between Or-parallelism and And-parallelism in Logic Programming,1995,13,12,1,1,708809703,Enrico Pontelli,0,0.21470408754241516,-0.9951726328697685
+1501459598,Improving Performance of Conformant Planners Static Analysis of Declarative Planning Domain Specifications,2009,18,15,1,1,708809703,Enrico Pontelli,0,-0.007161714078467736,0.25416537188054217
+1510110946,Non-monotonic Reasoning on Beowulf Platforms,2003,22,19,1,1,708809703,Enrico Pontelli,0,-0.7070114823894326,0.153620149508467
+1546693879,Semantics-Based Filtering Logic Programmings Killer App ,2002,21,7,1,1,708809703,Enrico Pontelli,0,0.06708360310515424,-1.3790667059373696
+1494273003,Planning with Preferences Using Logic Programming,2004,49,25,1,1,708809703,Enrico Pontelli,0,0.10537374129915875,-0.18333450661139672
+1538773404,Automatic generation of provably correct parallelizing compilers,1998,15,8,1,1,708809703,Enrico Pontelli,0,-1.2858951988298255,-0.5101695628052466
+1494783798,Logic programming 24th international conference ICLP 2008 Udine Italy December 9-13 2008 ; proceedings,2008,0,0,1,1,708809703,Enrico Pontelli,0,0.5543420885978676,-0.502277248633413
+1503671338,A Non-monotonic Goal Specification Language for Planning with Preferences,2014,14,2,1,1,708809703,Enrico Pontelli,0,1.1960276795134672,0.09193911058551134
+1548946286,mathbb{ASP-PROLOG} A System for Reasoning about Answer Set Programs in Prolog,2004,15,22,1,1,708809703,Enrico Pontelli,0,-0.8047343031425777,0.3411511446885167
+1792969275,Hybrid probabilistic logic programs with non-monotonic negation,2005,23,20,1,1,708809703,Enrico Pontelli,0,-0.1164726804531344,0.019252515865476
+1585932639,Parallel symbolic computation in ACE,1997,67,4,1,1,708809703,Enrico Pontelli,0,-0.052338774753409006,0.4647569721399657
+1595543499,Specification Implementation and Verification of Domain Specific Languages A Logic Programming-Based Approach,2002,45,13,1,1,708809703,Enrico Pontelli,0,-0.5063106037393458,-0.1509614411060079
+1595718705,A WAM-Based Implementation of a Logical Language with Sets,1993,24,5,2,0,318207047,Agostino Dovier,0,0.02995501613042667,-1.3036007204855866
+1605763387,Towards a more practical hybrid probabilistic logic programming framework,2005,27,16,1,1,708809703,Enrico Pontelli,0,0.671714664793825,-0.918301150062904
+1634236444,An Unfolding-Based Semantics for Logic Programming with Aggregates,2006,40,10,1,1,708809703,Enrico Pontelli,0,-0.7587273033150035,0.27317771515630446
+1680431258,An Implementation of Bubbling,2011,14,0,1,1,708809703,Enrico Pontelli,0,-0.06360569617511848,-0.42605231630751694
+1581778513,Answer set programming in 2010 a personal perspective,2010,0,2,1,1,708809703,Enrico Pontelli,0,-0.8688665384073416,0.5891146803889515
+1620154602,Two Applications of the ASP-Prolog System Decomposable Programs and Multi-context Systems,2014,27,4,1,1,708809703,Enrico Pontelli,0,-0.4228030677413137,0.47638476966221227
+1830896133,/spl Phi/LOG a domain specific language for solving phylogenetic inference problems,2002,23,2,1,1,708809703,Enrico Pontelli,0,1.788958596913276,-0.35968135164537657
+1602681829,Inductive logic programming by instance patterns,2007,10,2,1,1,708809703,Enrico Pontelli,0,0.7135228504282926,-0.6177835785924943
+1976794794,An investigation in parallel execution of answer set programs on distributed memory platforms Task sharing and dynamic scheduling,2010,86,9,1,1,708809703,Enrico Pontelli,0,-0.7855489384319685,0.4569755086941303
+1983950079,Parallel and distributed execution of constraint programs,2000,6,2,1,1,708809703,Enrico Pontelli,0,1.638450920212209,-0.4648786560017112
+1983963066,On the complexity of or-parallelism,1999,38,22,1,1,708809703,Enrico Pontelli,0,-0.5685803895016275,-0.5351369668443697
+1965106918,Nonmonotonic inductive logic programming by instance patterns,2007,25,1,1,1,708809703,Enrico Pontelli,0,0.03068645728312258,0.3813410252296209
+1982769241,PALS Efficient Or-Parallel execution of Prolog on Beowulf clusters,2007,58,2,1,1,708809703,Enrico Pontelli,0,-0.6441227017412204,-0.7830554841407954
+1985039455,Parallel execution of prolog programs a survey,2001,295,155,1,1,708809703,Enrico Pontelli,0,0.7484442486170005,-0.5295222131538609
+1986897197,Autonomous Agents Coordination Action Languages meet CLP(FD) and Linda,2011,16,3,2,0,318207047,Agostino Dovier,0,-0.004445648157599513,0.20567212107233046
+1971164808,A new approach to hybrid probabilistic logic programs,2006,44,17,1,1,708809703,Enrico Pontelli,0,-0.1164726804531344,0.019252515865476
+1985134191,Parallelism and implementation technology for (constraint) logic programming,1998,0,2,1,1,708809703,Enrico Pontelli,0,0.9757693930881061,-0.4856269670148442
+2007319395,Integrating finite domain constraints and CLP with sets,2003,16,19,2,1,318207047,Agostino Dovier,0,1.143531168960178,-0.6108886967815833
+2027993053,Constructive negation and constraint logic programming with sets,2001,35,15,2,1,318207047,Agostino Dovier,0,0.7910421874718978,-0.4501715243643691
+2018331535,An optimal data structure to handle dynamic environments in non-deterministic computations,2002,37,7,1,1,708809703,Enrico Pontelli,0,0.8092710477922783,0.01331867941763955
+2023819514,Optimization schemas for parallel implementation of non-deterministic languages and systems,2001,48,1,1,1,708809703,Enrico Pontelli,0,0.42759729184168,0.2727687851692378
+2027319813,Sets and constraint logic programming,2000,63,86,2,1,318207047,Agostino Dovier,0,1.2729655667065638,-0.29924818119563845
+2052384302,A conformant planner based on approximation C p A(H),2013,39,5,1,1,708809703,Enrico Pontelli,0,0.07378925789817037,0.29532990435235756
+2055006439,Improving the efficiency of nondeterministic independent and-parallel systems,1996,40,16,1,1,708809703,Enrico Pontelli,0,-0.742241060691845,-0.07131364502166566
+2050098833,Design and implementation of a domain specific language for phylogenetic inference,2003,22,4,1,1,708809703,Enrico Pontelli,0,2.34120119790794,-0.2849422594026234
+2061127899,Justification and debugging of answer set programs in ASP,2005,18,12,1,1,708809703,Enrico Pontelli,0,-0.2885364156905338,0.7931951650461607
+2097584421,&amp;ACE a high-performance parallel Prolog system,1995,14,46,1,1,708809703,Enrico Pontelli,0,-0.9262096456002957,-0.6686961255125915
+2101740271,Planning for multiagent using ASP-prolog,2009,29,7,1,1,708809703,Enrico Pontelli,0,-0.36612309907503693,0.603600946694458
+2126790995,Natural language multiprocessing a case study,1998,14,8,1,1,708809703,Enrico Pontelli,0,-0.9163286295386917,-2.1473353155828994
+2121170229,A Constraint Logic Programming Framework for Efiective Programming with Sets and Finite Domains,2006,27,0,2,1,318207047,Agostino Dovier,0,0.24225424821404362,0.49992372681735736
+2122023028,Data parallel logic programming in &amp;ACE,1995,10,4,1,1,708809703,Enrico Pontelli,0,-0.4706187505158021,0.019057918152536935
+2119312529,Interoperability between Bioinformatics Tools A Logic Programming Approach,2001,11,6,1,1,708809703,Enrico Pontelli,0,-0.7377880128041767,-0.42066789210202826
+2107976991,Last alternative optimization,1996,8,3,1,1,708809703,Enrico Pontelli,0,0.589404742153407,-0.9147112539891289
+2114227583,Optimization schemas for parallel implementation of nondeterministic languages and systems,1997,12,10,1,1,708809703,Enrico Pontelli,0,-0.30471169686105143,0.1826997994202167
+2153367464,Planning with preferences using logic programming,2006,17,66,1,1,708809703,Enrico Pontelli,0,0.3092160761151163,0.06688049711678516
+2159862910,Concurrent Web-programming in CLP(WEB),2000,9,4,1,1,708809703,Enrico Pontelli,0,1.48299735290607,-0.5287516282472198
+2151648680,Experiments in parallel execution of answer set programs,2001,13,4,1,1,708809703,Enrico Pontelli,0,1.0882552742893492,0.2471228383767743
+2164348148,A Framework for Composition and Inter-operation of Rules in the Semantic Web,2006,22,8,1,1,708809703,Enrico Pontelli,0,1.1855239062003524,-1.3494974447190717
+2161385008,BAAC A Prolog System for Action Description and Agents Coordination,2011,12,0,2,0,318207047,Agostino Dovier,0,-0.22267705812112037,-0.0800705254695258
+2158744037,A constraint-based approach for specification and verification of real-time systems,1997,20,62,1,1,708809703,Enrico Pontelli,0,-0.46586262332547523,-0.23435425317328437
+2161955265,Issues in parallel execution of non-monotonic reasoning systems,2005,72,29,1,1,708809703,Enrico Pontelli,0,-0.16982181102495314,-0.5314778782773253
+2245389786,A 25-year perspective on logic programming achievements of the Italian association for logic programming GULP,2010,0,5,2,0,318207047,Agostino Dovier,0,0.5799435717347005,-0.22118128482007138
+2276797123,Integrating an Answer Set Solver into Prolog (mathbb{ASP}) - (mathbb{PROLOG}),2005,2,4,1,1,708809703,Enrico Pontelli,0,-0.39647125653309206,-0.0677617054234385
+2407010935,A Tool for Knowledge Base Integration and Querying,2006,7,4,1,1,708809703,Enrico Pontelli,0,-0.7624035395291072,0.1504358655603831
+2407132889,Intensional Sets in CLP,2003,0,0,2,1,318207047,Agostino Dovier,0,-0.1164726804531344,0.019252515865476
+2407665456,Extensional and Intensional Sets in CLP with Intensional Negation,1993,0,1,3,0,318207047,Agostino Dovier,0,-0.1164726804531344,0.019252515865476
+2405319418,ASP-PROLOG a system for reasoning about answer set programs in prolog,2004,0,17,1,1,708809703,Enrico Pontelli,0,-0.39647125653309206,-0.0677617054234385
+2397747455,Exploiting Unexploited Computing Resources for Computational Logics,2012,21,7,2,0,318207047,Agostino Dovier,0,-0.1164726804531344,0.019252515865476
+2443390254,Towards a programming environment for answer set programming,2007,0,0,1,1,708809703,Enrico Pontelli,0,-0.7982759897910785,0.13987054062435694
+2498238307,A Logic Programming Based Framework for Intelligent Web Service Composition,2009,10,4,1,1,708809703,Enrico Pontelli,0,-0.3676932094671783,0.1059748405849819
+2487231791,Practical Aspects of Declarative Languages,2000,0,0,1,1,708809703,Enrico Pontelli,0,-0.1164726804531344,0.019252515865476
+2474307256,Hybrid probabilistic programs with non-monotonic negation semantics and algorithms,2005,0,4,1,1,708809703,Enrico Pontelli,0,-0.3676932094671783,0.1059748405849819
+2584023463,Justifications for logic programs under answer set semantics,2006,0,6,1,1,708809703,Enrico Pontelli,0,-0.8047343031425777,0.3411511446885167
+2617798739,Interoperability between bioinformatics tools,2001,0,0,1,1,708809703,Enrico Pontelli,0,-0.1164726804531344,0.019252515865476
+2624737314,A Methodology for Order-Sensitive Execution of Non-deterministic Languages on Beowulf Platforms,2004,0,0,1,1,708809703,Enrico Pontelli,0,-0.1164726804531344,0.019252515865476
+2595221478,A non-monotonic goal specification language for planning with preferences,2015,0,0,1,1,708809703,Enrico Pontelli,0,1.1824343026296344,-1.157135959641886
+2779166857,Automatic Web Services Composition for Phylotastic,2018,22,6,1,1,708809703,Enrico Pontelli,0,-0.1164726804531344,0.019252515865476
+2781459982,Parallel Answer Set Programming,2018,80,3,2,0,318207047,Agostino Dovier,0,-0.5042547190035792,-0.11129588735305485
+2805675753,Parallel Answer Set Programming,2018,0,1,2,0,318207047,Agostino Dovier,0,-0.8688665384073416,0.5891146803889515
+2889793151,Phylotastic An Experiment in Creating Manipulating and Evolving Phylogenetic Biology Workflows Using Logic Programming,2018,0,0,1,1,708809703,Enrico Pontelli,0,-0.3676932094671783,0.1059748405849819
+2912414870,Proceedings of the 24th International Conference on Logic Programming,2008,0,0,1,1,708809703,Enrico Pontelli,0,-0.3676932094671783,0.1059748405849819
+2904986676,Natural Language Generation from Ontologies,2019,12,1,1,1,708809703,Enrico Pontelli,0,-1.278909802530466,0.3672412821981194
+2899766884,Proceedings of the 24th International Conference on Logic Programming (ICLP 2008),2008,0,23,1,1,708809703,Enrico Pontelli,0,-0.3676932094671783,0.1059748405849819
+2962948183,Phylotastic An Experiment in Creating Manipulating and Evolving Phylogenetic Biology Workflows Using Logic Programming,2018,17,2,1,1,708809703,Enrico Pontelli,0,-0.3676932094671783,0.1059748405849819
+2950600983,Planning with Preferences using Logic Programming,2005,41,0,1,1,708809703,Enrico Pontelli,0,0.08589480701045282,-0.36686291212958155
+2952665523,Justifications for Logic Programs under Answer Set Semantics,2008,44,2,1,1,708809703,Enrico Pontelli,0,-0.7838869662581216,0.22673881362856713
+2999349282,On Repairing Web Services Workflows,2020,16,0,1,1,708809703,Enrico Pontelli,0,-0.1164726804531344,0.019252515865476

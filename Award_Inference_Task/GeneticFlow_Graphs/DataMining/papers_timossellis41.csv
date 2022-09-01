@@ -1,0 +1,211 @@
+120118581,Review - The R*-Tree An Efficient and Robust Access Method for Points and Rectangles,2000,0,6,1,1.0,2062009547,Timos Sellis,0,-0.5090459974072453,-0.8499748230574432
+69843719,The A dynamic index for multidimensional ob-jects,1987,0,8,2,1.0,258753967,Nick Roussopoulos,0,0.796835981627807,-0.4740567259277684
+104629342,Review - A Logical Approach to Multidimensional Databases,2000,0,0,1,1.0,2062009547,Timos Sellis,0,0.003708468606338,0.082832279151172
+206922292,Incorporating Fuzzy Logic Methodologies into GIS Operations,1996,0,9,2,0.909091,1914497179,Michalis Vazirgiannis,0,0.003708468606338,0.082832279151172
+175374228,An Efficient Cost Model for Spatial Joins Using R-trees,1997,32,2,2,1.0,31261168,Yannis Theodoridis,0,-0.41610916631047495,0.6669028886866839
+22400697,Review - Query Optimization by Simulated Annealing,2000,0,0,1,1.0,2062009547,Timos Sellis,0,-0.0395804122397981,0.0068802457672825015
+107790475,SISYPHUS A Chunk-Based Storage Manager for OLAP Cubes,2001,8,9,2,1.0,1897716579,Nikos Karayannidis,0,0.07706559634007477,0.5960284056275718
+58053247,TARCLOUD a cloud-based platform to support miRNA target prediction,2012,7,1,4,0.0,1971018273,Theodore Dalamagas,0,0.13181092919897244,0.08118920458583215
+26664938,An Analysis of Rule Indexing Implementations in Data Base Systems In Expert Database Conf,1986,0,16,2,0.180314,1998938290,Michael Stonebraker,0,0.44148585625188996,-0.3914018358062456
+146073307,Failure-Proof Spatio-temporal Composition of Sensor Cloud Services,2014,10,10,3,1.0,1222790356,Azadeh Ghari Neiat,0,0.003708468606338,0.082832279151172
+61797302,Search behavior-driven training for result re-ranking,2011,19,0,3,0.867369,1971018273,Theodore Dalamagas,0,-0.21934185016841626,0.6056873083074126
+164051936,The R+ - tree A Dynamic Index for Multi - dimensional Data,1987,0,17,2,1.0,258753967,Nick Roussopoulos,0,0.1840346610184617,-0.5586665846165391
+30481893,Cost-based optimization of aggregation star queries on hierarchically clustered data warehouses,2002,21,11,3,1.0,1897716579,Nikos Karayannidis,0,-0.21242085716886874,0.7651128938775903
+66204832,A Model for the Prediction of R-tree Performance * (Extended Abstract),1995,15,0,2,1.0,31261168,Yannis Theodoridis,0,-0.26889409636157235,-0.1878314881455397
+268868313,Enhancing a Database Management System for GIS with Fuzzy Set Methodologies,1999,13,7,1,1.0,2062009547,Timos Sellis,0,-0.20967909425096462,0.5426775433330482
+817176973,An incremental database access method for autonomous interoperable databases,1994,0,0,2,0.0,258753967,Nick Roussopoulos,0,-0.5934923614992935,0.14535472691008477
+318253468,Special Issue on Rule Management and Processing in Expert Database Systems - Letter from the Guest Editor,1989,0,9,1,1.0,2062009547,Timos Sellis,0,0.003708468606338,0.082832279151172
+602452687,RIPPLE A Scalable Framework for Distributed Processing of Rank Queries,2014,37,4,3,0.748216,1944603549,Dimitris Sacharidis,0,0.13622416626268388,0.2170714185537624
+1558617513,Designing the Global Data Warehouse with SPJ Views,1999,14,36,2,1.0,1482846734,Spyros Ligoudistianos,0,-1.7905013473603208,0.7985892320417622
+1568617491,Predictive Load Control for Flexible Buffer Allocation,1991,10,45,1,1.0,2062009547,Timos Sellis,0,0.003708468606338,0.082832279151172
+1541535863,Ontology-Driven conceptual design of ETL processes using graph transformations,2009,39,30,2,0.14782,24841185,Alkis Simitsis,0,0.42918326729020984,-0.11104229867069526
+1559612606,Managing trajectories of moving objects as data streams,2004,12,34,2,1.0,2002062156,Kostas Patroumpas,0,0.1207691298427368,0.37526399268047506
+1498421234,Special issue on rule management and processing in expert database systems,1989,0,17,1,1.0,2062009547,Timos Sellis,0,-2.8075427595277898,0.8268105821834846
+1551968480,Databases Supporting Changes in Changing Worlds-The Case Spatio-Temporal Database Systems,2000,0,1,1,1.0,2062009547,Timos Sellis,0,-1.8695194364835725,0.7961249489535929
+1481595995,Data Warehouse Schema and Instance Design,1998,15,26,1,1.0,2062009547,Timos Sellis,0,-0.5126124844527495,0.24579627868044782
+1507719695,Multidimensional Access Methods Trees Have Grown Everywhere,1997,0,32,2,0.0,258753967,Nick Roussopoulos,0,-0.5454619768840632,0.41211953999546713
+1544008239,The generalized pre-grouping transformation aggregate-query optimization in the presence of dependencies,2003,24,13,2,1.0,1980200576,Aris Tsois,0,0.38740927011062826,0.13821841128007772
+1490902742,Reusing classical query rewriting in P2P databases,2005,15,3,2,1.0,1886388312,Verena Kantere,0,-0.5207388606918844,0.13779230513221863
+1571836543,Window Update Patterns in Stream Operators,2009,18,6,2,1.0,2002062156,Kostas Patroumpas,0,0.13454453260114752,0.25329427444964064
+1554011878,Spatial Reasoning Using Symbolic Arrays,1992,14,21,1,1.0,2062009547,Timos Sellis,0,0.13030744088979307,0.07650506209552779
+1545653984,PatManQL A language to manipulate patterns and data in hierarchical catalogs,2004,11,2,4,0.740741,34369697,Manolis Terrovitis,0,-1.3002919556815422,1.738368673051496
+1573195078,ETL workflows from formal specification to optimization,2007,16,10,2,0.260887,24841185,Alkis Simitsis,0,0.691877019635226,-0.029938464706694833
+1492913969,NaviMoz mining navigational patterns in portal catalogs,2006,27,1,1,1.0,2062009547,Timos Sellis,0,-0.33867153905458075,0.32455274647102544
+1546092464,Image Information System (IIS) A Visual Database System for Spatial and Non-Spatial Data Management,1998,0,0,2,0.972222,1971018273,Theodore Dalamagas,0,-1.7632511329527765,0.7557257833711805
+1573369914,Online amnesic summarization of streaming locations,2007,19,10,3,1.0,80813837,Michalis Potamias,0,0.0790693360756566,0.46038012768292447
+1510810986,Design of the ERATOSTHENES OLAP server,2001,20,2,4,1.0,1897716579,Nikos Karayannidis,0,1.2143235968542045,0.7664892269800168
+1564856892,Semantic grouping of social networks in P2P database settings,2007,24,3,2,1.0,1886388312,Verena Kantere,0,0.5671206296380472,-1.7328758297620734
+1574700857,Rule-Based management of schema changes at ETL sources,2009,17,17,4,0.14782,24841185,Alkis Simitsis,0,-0.0954160542956513,0.3237316652664622
+1565990971,Clustering XML Documents by Structure,2004,26,39,3,0.972222,1971018273,Theodore Dalamagas,0,-1.0478725717988662,0.2832543617765913
+1539154812,Heuristic Algorithms for Designing a Data Warehouse with SPJ Views,1999,10,10,3,0.189394,46255660,Yannis Vassiliou,0,-1.0864515351324453,0.5417338159510762
+1557410844,Clustering XML documents using structural summaries,2004,15,73,3,0.972222,1971018273,Theodore Dalamagas,0,-1.2050894130428653,0.843359852453446
+1566760924,CUBE File A File Structure for Hierarchically Clustered OLAP Cubes,2004,17,11,2,1.0,1897716579,Nikos Karayannidis,0,0.49361090992865975,1.1548443372428854
+1594502603,Incremental Design of a Data Warehouse,2000,35,24,1,1.0,2062009547,Timos Sellis,0,-2.0519377362535396,0.9584624909775152
+1835980735,Processing star queries on hierarchically-clustered fact tables,2002,30,42,6,0.555556,311686939,Frank Ramsak,0,-0.5324907208615235,0.9235905706773654
+1736638243,A Geometric Approach to Indexing Large Rule Bases,1992,17,4,1,1.0,2062009547,Timos Sellis,0,-0.13275296294680305,-0.071629888206014
+1738857073,Experimental evaluation of data warehouse configuration algorithms,1998,16,10,1,1.0,2062009547,Timos Sellis,0,-1.0864515351324453,0.5417338159510762
+1577532880,Diversifying user comments on news articles,2012,29,18,2,1.0,2031388837,Giorgos Giannopoulos,0,0.003708468606338,0.082832279151172
+1955668105,On crowdsensed data acquisition using multi-dimensional point processes,2015,11,0,2,0.0,150096297,Karl Aberer,0,0.003708468606338,0.082832279151172
+1672827275,Panel on Data Warehouse Quality Issues,1999,0,0,2,0.0,251194211,Matthias Jarke,0,0.11280679181132601,-0.011046964406366913
+1605618332,The semantics of relations in 2D space using representative points Spatial indexes,1993,10,30,1,1.0,2062009547,Timos Sellis,0,0.18476056838844124,0.722282387279744
+1751916044,Efficient Semantic Web Service Discovery in Centralized and P2P Environments,2008,29,37,3,1.0,1886388312,Verena Kantere,0,0.574732333467925,-2.0795919652600934
+1596846675,Window specification over data streams,2006,21,67,2,1.0,2002062156,Kostas Patroumpas,0,0.054568249492799745,0.2635756475700674
+1936851715,Anytime concurrent clustering of multiple streams with an indexing tree,2015,22,3,1,1.0,2062009547,Timos Sellis,0,-0.5689150869326884,2.320821887476298
+1849921270,Dynamic Data Warehouse Design,1999,12,27,1,1.0,2062009547,Timos Sellis,0,-1.0936014112684278,0.6655329386736806
+1580265594,Optimizing ETL processes in data warehouse environments,2005,0,9,3,0.260887,24841185,Alkis Simitsis,0,0.26317474033205074,0.48897903786497104
+1814658234,Implementing Embedded Valid Time Query Languages,1998,19,1,3,0.0,308868717,Costas Vassilakis,0,-0.22453700796769666,-0.012414882280813755
+1763634820,Towards Scalable Visual Exploration of Very Large RDF Graphs,2015,23,10,3,0.0,289087910,John Liagouris,0,-0.12622022857705675,-0.999424571414482
+1581805425,Data Warehouse Configuration,1997,35,203,1,1.0,2062009547,Timos Sellis,0,-1.0421607572094653,0.38487536709244513
+1582936022,A study for the parameters of a distributed framework that handles spatial areas,2007,13,2,2,1.0,1886388312,Verena Kantere,0,0.12595265820037338,0.43793680917641964
+1592776862,The Retrieval of Direction Relations using R-trees,1994,13,41,2,1.0,31261168,Yannis Theodoridis,0,0.003708468606338,0.082832279151172
+1863591855,Multiplexing trajectories of moving objects,2012,9,3,2,1.0,2002062156,Kostas Patroumpas,0,0.003708468606338,0.082832279151172
+1897505391,A study on external memory scan-based skyline algorithms,2014,18,3,4,0.588235,1141791694,Nikos Bikakis,0,0.13622416626268388,0.2170714185537624
+1593828752,Probabilistic range monitoring of streaming uncertain positions in geosocial networks,2012,20,8,2,1.0,2002062156,Kostas Patroumpas,0,0.0038042560630969224,0.2006945185754199
+1786895262,Ontology-Based Data Sharing in P2P Databases,2008,40,2,3,0.186916,24841185,Alkis Simitsis,0,0.7614944137690295,-0.8652115193901989
+1975456353,Hierarchical clustering for OLAP the CUBE File approach,2008,40,9,2,1.0,1897716579,Nikos Karayannidis,0,0.7680969215384483,1.4415736859519963
+1977459728,Index-based query processing on distributed multidimensional data,2013,24,9,3,0.881914,1944603549,Dimitris Sacharidis,0,-0.14255436113902986,0.20337351355405242
+1967087829,An Analysis of Rule Indexing Implementations in Data Base Systems,1986,12,50,2,0.180314,1998938290,Michael Stonebraker,0,-0.4004103146971885,0.07543987055747596
+1981276741,Containment of partially specified tree-pattern queries in the presence of dimension graphs,2009,36,4,3,1.0,1432674591,Stefanos Souldatos,0,-0.07102029488425389,0.09309474831401238
+1967338159,Incorporating fuzzy set methodologies in a DBMS repository for the application domain of GIS,1999,23,25,2,0.909091,1914497179,Michalis Vazirgiannis,0,0.12694598362535714,0.3527358777348153
+1972684638,Learning to rank user intent,2011,26,10,3,0.867369,1971018273,Theodore Dalamagas,0,-0.21934185016841626,0.6056873083074126
+1987033997,Qualitative representation of spatial knowledge in two-dimensional space,1994,45,113,1,1.0,2062009547,Timos Sellis,0,0.5238526777398307,0.6003140429792146
+1994378272,Batch processing of Top-k Spatial-textual Queries,2015,9,5,2,0.132349,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+1997933955,Monitoring continuous queries over streaming locations,2008,4,10,2,1.0,2002062156,Kostas Patroumpas,0,-1.4034366096496118,0.6025410238576432
+1991169832,Expert database systems efficient support for engineering environments,1988,33,6,2,1.0,258753967,Nick Roussopoulos,0,-1.1509654675773615,0.5884693831803013
+1987645871,Parametric query optimization,1992,20,155,2,0.701754,435837623,Yannis E. Ioannidis,0,-0.0395804122397981,0.0068802457672825015
+1987667832,Query Relaxation across Heterogeneous Data Sources,2015,28,7,2,0.871812,1886388312,Verena Kantere,0,-0.07102029488425389,0.09309474831401238
+1998281007,A heuristic approach for checking containment of generalized tree-pattern queries,2008,31,3,3,1.0,1432674591,Stefanos Souldatos,0,-0.9608431909133696,-0.1377771754304861
+1995312751,Efficient compilation of large rule bases using logical access paths,1990,21,7,2,0.882105,258753967,Nick Roussopoulos,0,0.2411296976350509,0.19514062197806442
+1992108710,Hierarchically compressed wavelet synopses,2009,31,9,3,0.0,332649176,Antonios Deligiannakis,0,0.0790693360756566,0.46038012768292447
+2006249742,GrouPeer Dynamic clustering of P2P databases,2009,46,37,3,0.0,258753967,Nick Roussopoulos,0,-0.43825303044853925,0.9254690274034432
+2011857454,Heuristic containment check of partial tree-pattern queries in the presence of index graphs,2006,23,8,3,1.0,1432674591,Stefanos Souldatos,0,-0.17813000304487522,0.14004394299935682
+2013625108,mirPub a database for searching microRNA publications,2015,5,15,4,0.0,1889836426,Nikos Kostoulas,0,0.39152636977671945,1.1603632538964532
+2020746364,CHOROCHRONOS research on spatiotemporal database systems,1999,20,9,1,1.0,2062009547,Timos Sellis,0,-1.2733818836831545,0.9015448458627513
+2029534504,Conflict resolution of rules assigning values to virtual attributes,1989,15,35,2,0.833333,435837623,Yannis E. Ioannidis,0,0.003708468606338,0.082832279151172
+2010593000,Processing and Evaluating Partial Tree Pattern Queries on XML Data,2012,50,7,3,0.188327,46255660,Yannis Vassiliou,0,-2.2933024203448893,-0.2840295907955092
+2028274916,Implementation of a Prolog-INGRES interface,1988,7,7,1,1.0,2062009547,Timos Sellis,0,-0.1694359196631049,-0.6829020891621385
+2014267653,A survey of logical models for OLAP databases,1999,22,257,2,0.458333,1919126655,Panos Vassiliadis,0,0.3319205276057954,0.22015337671931406
+2030650379,Approximate order-k Voronoi cells over positional streams,2007,16,8,2,1.0,2002062156,Kostas Patroumpas,0,-0.1071931497347323,0.3242721482837629
+2032596397,A model for the prediction of R-tree performance,1996,25,238,2,1.0,31261168,Yannis Theodoridis,0,-1.3009783458374056,-0.2172187867160647
+2013276808,Microblogging Queries on Graph Databases An Introspection,2015,9,3,2,1.0,1993785969,Oshini Goonetilleke,0,-0.09964653794070781,-0.14074825876504085
+2025759928,Performance issues in the binary relationship model,1989,0,1,1,1.0,2062009547,Timos Sellis,0,-1.0763567634968496,0.6321519737088417
+2013505445,Direction relations and two-dimensional range queries optimisation techniques,1998,42,17,2,1.0,31261168,Yannis Theodoridis,0,-0.40750169580879414,0.0714079069932432
+2041942186,Evaluation of partial path queries on xml data,2007,26,10,3,1.0,1432674591,Stefanos Souldatos,0,-1.0501541572524389,-0.09854011944360766
+2042211588,Point representation of spatial objects and query window extension a new technique for spatial access methods,1997,2,5,2,1.0,31261168,Yannis Theodoridis,0,-0.3995824446307606,0.39904614132585475
+2044236594,Intelligent caching and indexing techniques for relational database systems,1988,38,67,1,1.0,2062009547,Timos Sellis,0,-2.287066785698263,0.7592620796947018
+2054819113,Global query optimization,1986,16,71,1,1.0,2062009547,Timos Sellis,0,-0.49595005092027233,-0.04788167293008065
+2046205057,Twitter analytics a big data management perspective,2014,61,25,2,1.0,1993785969,Oshini Goonetilleke,0,-0.14000895764476473,-0.16248744816535093
+2055057145,Evaluation Techniques for Generalized Path Pattern Queries on XML Data,2010,35,7,3,1.0,1432674591,Stefanos Souldatos,0,-0.663670808542818,-0.05420618528887744
+2055343463,Designing data warehouses,1999,33,74,1,1.0,2062009547,Timos Sellis,0,-1.8108824738980793,0.695882590790719
+2041387176,Using differential techniques to efficiently support transaction time,1993,61,16,2,0.509064,258753967,Nick Roussopoulos,0,-0.7652445304050755,0.35768176891853587
+2055450203,Supporting Inconsistent Rules in Database Systems,1992,26,12,2,0.701754,435837623,Yannis E. Ioannidis,0,0.020663171906939892,0.19163002280986005
+2037896692,Approximate regional sequence matching for genomic databases,2012,32,2,4,0.905386,1944603549,Dimitris Sacharidis,0,0.003708468606338,0.082832279151172
+2050441808,Amnesic online synopses for moving objects,2006,4,11,3,1.0,80813837,Michalis Potamias,0,-0.11148479965105071,0.3240008268482002
+2052233689,Handling spatial data in distributed environments,2007,13,3,2,1.0,1886388312,Verena Kantere,0,0.12595265820037338,0.43793680917641964
+2057472517,Implementing large production systems in a DBMS environment concepts and algorithms,1988,15,83,2,1.0,285822418,Louiqa Raschid,0,-0.113284896568976,0.36260072081345834
+2071503531,On enhancing scalability for distributed RDF/S stores,2011,41,15,3,0.951787,1944603549,Dimitris Sacharidis,0,1.2862535720669537,-2.0345997851379516
+2069811933,Improvements on a heuristic algorithm for multiple-query optimization,1994,10,78,2,0.0,2054248234,Dana S. Nau,0,-0.8226545604262533,0.34576086678777695
+2077661280,Spatio-temporal Composition of Sensor Cloud Services,2014,24,19,2,1.0,1222790356,Azadeh Ghari Neiat,0,0.003708468606338,0.082832279151172
+2072916859,View selection for designing the global data warehouse,2001,28,57,2,1.0,1482846734,Spyros Ligoudistianos,0,-2.0519377362535396,0.9584624909775152
+2058978608,Multiple-query optimization,1988,30,707,1,1.0,2062009547,Timos Sellis,0,-1.4123852148762095,0.478327421808165
+2074789098,Formal specification and optimization of ETL scenarios,2006,0,5,1,1.0,2062009547,Timos Sellis,0,-0.13117159697480985,0.42495939928995197
+2096551070,MAC Conceptual Data Modeling for OLAP,2001,22,64,3,1.0,1897716579,Nikos Karayannidis,0,0.504016024643774,0.35918537639402776
+2080634433,A framework for semantic grouping in P2P databases,2008,42,8,2,1.0,1886388312,Verena Kantere,0,-0.016919346871746538,-0.24352422192911471
+2089603131,Optimizing XML queries Bitmapped materialized views vs indexes,2013,66,15,1,1.0,2062009547,Timos Sellis,0,-1.259456398314201,0.22783389994692477
+2100315210,Specifications for efficient indexing in spatiotemporal databases,1998,28,130,3,1.0,31261168,Yannis Theodoridis,0,-0.7039992070159724,0.7618035683536367
+2103467248,Probabilistic contextual skylines,2010,34,20,3,0.951787,1944603549,Dimitris Sacharidis,0,0.13622416626268388,0.2170714185537624
+2100833709,A combination of trie-trees and inverted files for the indexing of set-valued attributes,2006,22,28,3,0.747375,34369697,Manolis Terrovitis,0,0.3531040014101039,0.5049572131056808
+2083113964,Flexible buffer allocation based on marginal gains,1991,10,64,1,1.0,2062009547,Timos Sellis,0,0.003708468606338,0.082832279151172
+2095486388,Chorochronos a research network for spatiotemporal database systems,1999,48,38,10,0.180146,19930516,Nikos A. Lorentzos,0,-2.4975001877704277,1.046957414825245
+2101415594,Optimization of extended database query languages,1985,13,15,2,0.0,2046786459,Leonard D. Shapiro,0,-1.231568701312361,0.3935447946954976
+2092053614,SISYPHUS the implementation of a chunk-based storage manager for OLAP data cubes,2003,24,14,2,1.0,1897716579,Nikos Karayannidis,0,0.08571778041371507,0.9221671246180583
+2096347930,State-space optimization of ETL workflows,2005,23,88,3,0.260887,24841185,Alkis Simitsis,0,0.09635251276438002,0.28521498332766865
+2138044257,Sampling Trajectory Streams with Spatiotemporal Criteria,2006,12,114,3,1.0,80813837,Michalis Potamias,0,-0.163116913713477,0.2835078551839127
+2114437789,Implementing a Query Language for Context-Dependent Semistructured Data,2004,18,15,2,0.0,188552884,Yannis Stavrakas,0,-0.5007607732086891,-0.0014412684609273567
+2123271553,Cost models for join queries in spatial databases,1998,25,53,2,1.0,31261168,Yannis Theodoridis,0,-0.35526996439269626,0.01720979017633583
+2132127307,Diversifying microblog posts,2014,22,5,3,1.0,137876345,Marios Koniaris,0,0.09869918664672195,-0.18633352365711692
+2114756552,Multi-granular Time-Based Sliding Windows over Data Streams,2010,19,12,2,1.0,2002062156,Kostas Patroumpas,0,0.037703047381653726,0.4555647138030447
+2105830880,Efficient cost models for spatial queries using R-trees,2000,44,111,2,0.653897,31261168,Yannis Theodoridis,0,-0.5058393356510059,0.48417924619164304
+2132375650,On the multiple-query optimization problem,1990,6,102,1,1.0,2062009547,Timos Sellis,0,-0.0395804122397981,0.0068802457672825015
+2111967310,Efficient answering of set containment queries for skewed item distributions,2011,45,16,5,0.0,18851973,Nikos Mamoulis,0,0.1926237033364785,0.4596965968184938
+2109079101,Containment of Partially Specified Tree-Pattern Queries,2006,17,5,2,1.0,1432674591,Stefanos Souldatos,0,-0.01657107088421793,0.035389748403282274
+2141884427,Ranking and Clustering Web Services Using Multicriteria Dominance Relationships,2010,33,109,3,0.131648,24841185,Alkis Simitsis,0,0.31919480416172374,-0.2786638025620065
+2129737925,Efficient evaluation of generalized path pattern queries on XML data,2008,30,14,3,1.0,1432674591,Stefanos Souldatos,0,-0.07102029488425389,0.09309474831401238
+2141972518,Computing and managing cardinal direction relations,2005,31,25,3,0.448125,1919126655,Panos Vassiliadis,0,-0.8119081610759554,0.7753277337940678
+2115427561,Computing and Handling Cardinal Direction Information,2004,20,10,4,0.0,1212558131,Christos Giannoukos,0,0.003708468606338,0.082832279151172
+2133217154,Prioritized Evaluation of Continuous Moving Queries over Streaming Locations,2008,23,2,2,1.0,2002062156,Kostas Patroumpas,0,-0.14255436113902986,0.20337351355405242
+2112872445,Top-k-size keyword search on tree structured data,2015,35,15,2,0.0,2054146964,Aggeliki Dimitriou,0,0.22046278482571166,0.4149466153583954
+2142631235,Semantics of Spatially-Aware Windows Over Streaming Moving Objects,2007,17,3,2,1.0,2002062156,Kostas Patroumpas,0,-0.20501253148375112,0.13302718164375157
+2139534868,Combining hierarchy encoding and pre-grouping intelligent grouping in star join processing,2003,14,9,6,0.555556,311686939,Frank Ramsak,0,-0.37111646229640727,0.7177130943538464
+2136476431,Efficiently supporting procedures in relational database systems,1987,29,16,1,1.0,2062009547,Timos Sellis,0,-1.610271718913854,0.582614272974435
+2110131043,MR-microT a MapReduce-based MicroRNA target prediction method,2014,8,9,6,0.0,231691413,Stelios Sartzetakis,0,0.003708468606338,0.082832279151172
+2127883843,An algebra and calculus for relational multidatabase systems,1991,3,10,3,0.648525,258753967,Nick Roussopoulos,0,-1.956131011670897,0.8982853619939508
+2107159615,Arktos towards the modeling design control and execution of ETL processes,2001,43,82,5,0.0,372478483,Zografoula Vagena,0,0.04980418220939686,0.20849710785333472
+2107252651,On-line discovery of hot motion paths,2008,28,51,6,0.747375,34369697,Manolis Terrovitis,0,0.003708468606338,0.082832279151172
+2131098795,Spatio-Temporal Databases The CHOROCHRONOS Approach,2003,0,131,10,0.180146,19930516,Nikos A. Lorentzos,0,-0.014423924910985653,0.03212101078075025
+2128381480,A methodology for clustering XML documents by structure,2006,47,165,3,1.0,1971018273,Theodore Dalamagas,0,-1.1723818311261118,0.87568552124835
+2113708512,Correction to &quot;A Family of Directional Relation Models for Extended Objects&quot; [Aug 07 1116-1130],2007,1,1,3,0.806607,1924801540,Spiros Skiadopoulos,0,0.003708468606338,0.082832279151172
+2107754498,Coupling production systems and database systems a homogeneous approach,1993,27,37,2,1.0,285822418,Louiqa Raschid,0,-0.12473330694087606,0.3150227183265764
+2143623869,A tool for mapping discovery over revealing schemas,2009,8,4,2,1.0,1886388312,Verena Kantere,0,-0.43184953557883016,0.685820261501845
+2131620262,The R+-Tree A Dynamic Index for Multi-Dimensional Objects,1987,18,1152,2,1.0,258753967,Nick Roussopoulos,0,0.2740588228285972,-0.01807577602246409
+2117189200,Evaluating Path Queries over Frequently Updated Route Collections,2012,19,3,4,0.0,1924801540,Spiros Skiadopoulos,0,-0.4525740429033864,-0.07638219404152827
+2144045611,Personalization in web search and data management,2011,0,2,1,1.0,2062009547,Timos Sellis,0,0.08277820571160986,0.24397011212539108
+2147416006,Boosting the ranking function learning process using clustering,2008,17,1,4,0.0,242208127,Magdalini Eirinaki,0,-0.21934185016841626,0.6056873083074126
+2162894843,Serving the Sky Discovering and Selecting Semantic Web Services through Dynamic Skyline Queries,2008,15,27,3,0.186916,24841185,Alkis Simitsis,0,0.3659501365558529,-1.2588331628970348
+2151070616,Algorithms and criteria for diversification of news article comments,2015,31,6,3,1.0,137876345,Marios Koniaris,0,0.003708468606338,0.082832279151172
+2163007132,Caching Dynamic Skyline Queries,2008,14,24,3,1.0,1944603549,Dimitris Sacharidis,0,0.13622416626268388,0.2170714185537624
+2160191975,A study on workload-aware wavelet synopses for point and range-sum queries,2006,20,1,2,0.769231,1944603549,Dimitris Sacharidis,0,1.2182067606106117,0.3929018396063729
+2166356057,Efficient Evaluation of Generalized Tree-Pattern Queries with Same-Path Constraints,2009,20,5,3,1.0,1432674591,Stefanos Souldatos,0,-1.182881131070494,0.04908582730024299
+2154713079,Evaluating Reachability Queries over Path Collections,2009,17,16,5,0.806607,1924801540,Spiros Skiadopoulos,0,-0.2714960487171583,0.15225630844306562
+2163971981,Storing and Indexing Spatial Data in P2P Systems,2009,28,27,3,1.0,1886388312,Verena Kantere,0,-0.00576969269973245,0.2165938542632131
+2158114843,Answering multidimensional queries on cubes using other cubes,2000,29,12,1,1.0,2062009547,Timos Sellis,0,-0.34022773270637724,0.4299714637114058
+2164200153,A Family of Directional Relation Models for Extended Objects,2007,33,22,2,0.806607,1924801540,Spiros Skiadopoulos,0,-0.8119081610759554,0.7753277337940678
+2158466615,Maintaining consistent results of continuous queries under diverse window specifications,2011,30,30,2,1.0,2002062156,Kostas Patroumpas,0,0.037703047381653726,0.4555647138030447
+2170885852,Top- k dominant web services under multi-criteria matching,2009,41,53,4,0.14782,24841185,Alkis Simitsis,0,0.3422179730895708,-0.7353865586728201
+2149877754,Optimizing ETL processes in data warehouses,2005,15,170,3,0.260887,24841185,Alkis Simitsis,0,0.26317474033205074,0.48897903786497104
+2239659875,Spatio-Temporal Composition of Crowdsourced Services,2015,7,10,2,1.0,1222790356,Azadeh Ghari Neiat,0,0.003708468606338,0.082832279151172
+2207938885,Mapping discovery over revealing schemas,2015,32,0,2,0.871812,1886388312,Verena Kantere,0,-0.08216369031341794,0.1395680461546204
+2256512886,A Hierarchical Aggregation Framework for Efficient Multilevel Visual Exploration and Analysis,2015,100,1,2,0.588235,1141791694,Nikos Bikakis,0,0.08421166804559876,0.38968148695915156
+2294024185,GrouPeer A System for Clustering PDMSs,2011,4,3,2,1.0,1886388312,Verena Kantere,0,-0.10173529049600845,0.25402026621535645
+2309147406,Maximizing bichromatic reverse spatial and textual k nearest neighbor queries,2016,26,18,2,0.132349,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+2324806281,Personalized Influential Topic Search via Social Network Summarization,2016,29,28,2,0.132349,1944334593,J. Shane Culpepper,0,-0.064181750922619,0.5322747349694676
+2474096096,Location Estimation Using Crowdsourced Spatial Relations,2016,45,10,2,0.0,501233070,Georgios Skoumas,0,0.730679393355895,0.016693785675651746
+2474510924,Efficient Identification of the Highest Diversity Gain Object,2014,22,0,2,0.748216,1944603549,Dimitris Sacharidis,0,0.003708468606338,0.082832279151172
+2495528278,Heuristic Search in Data Base Systems,1984,6,65,4,0.0,435837623,Yannis E. Ioannidis,0,0.003708468606338,0.082832279151172
+2555354770,Monitoring the Top-m Aggregation in a Sliding Window of Spatial Queries,2016,23,1,2,0.132349,1944334593,J. Shane Culpepper,0,0.12595265820037338,0.43793680917641964
+2521507720,Spatial Textual Top-k Search in Mobile Peer-to-Peer Networks,2016,21,0,2,0.132349,1944334593,J. Shane Culpepper,0,-0.13275296294680305,-0.071629888206014
+2559408719,Interactive Trip Planning Using Activity Trajectories,2016,7,2,2,0.132349,1944334593,J. Shane Culpepper,0,-0.13275296294680305,-0.071629888206014
+2585132468,Data Warehouse schema and instance design,1998,0,0,1,1.0,2062009547,Timos Sellis,0,-1.3984752540795031,0.649946294632008
+2522858496,Prescriptive Analytics for Big Data,2016,17,9,1,1.0,2062009547,Timos Sellis,0,-0.20506212121305623,-0.004621619025454447
+2590854432,Crowdsourced Coverage as a Service Two-Level Composition of Sensor Cloud Services,2017,26,17,2,1.0,1222790356,Azadeh Ghari Neiat,0,-0.13275296294680305,-0.071629888206014
+2606197134,Reverse $k$ Nearest Neighbor Search over Trajectories,2018,31,15,2,0.0626626,1944334593,J. Shane Culpepper,0,-0.1984714131877254,-0.08331523624254955
+2614171007,Answering Top-k Exemplar Trajectory Queries,2017,19,12,2,0.0908562,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+2614213223,Most Influential Community Search over Large Social Networks,2017,25,35,1,1.0,2062009547,Timos Sellis,0,0.3980897691705434,0.10273850595641625
+2599382433,Geo-Social Influence Spanning Maximization,2017,22,16,2,0.0908562,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+2615374738,Personalized Influential Topic Search via Social Network Summarization,2017,3,1,2,0.0908562,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+2599637166,Continuous summarization over microblog threads,2017,20,1,1,1.0,2062009547,Timos Sellis,0,0.059794136773848504,0.09994943632588586
+2604364014,CDS Collaborative distant supervision for Twitter account classification,2017,41,4,1,1.0,2062009547,Timos Sellis,0,0.247057159400659,0.0008718596446388033
+2616367695,Monitoring the Top-m Rank Aggregation of Spatial Objects in Streaming Queries,2017,28,4,2,0.0908562,1944334593,J. Shane Culpepper,0,-0.45853982478583405,0.7812322689299344
+2770350818,Automated density-based clustering of spatial urban data for interactive data exploration,2017,19,0,1,1.0,2062009547,Timos Sellis,0,0.18024986881294247,1.186815245039163
+2791453541,HomeSeeker A visual analytics system of real estate data,2018,40,4,1,1.0,2062009547,Timos Sellis,0,0.9554166493518117,1.8285502406568488
+2795004110,Holistic Influence Maximization for Targeted Advertisements in Spatial Social Networks,2018,5,4,1,1.0,2062009547,Timos Sellis,0,0.003708468606338,0.082832279151172
+2789195446,Supporting Large-scale Geographical Visualization in a Multi-granularity Way,2018,10,3,1,1.0,2062009547,Timos Sellis,0,0.6321122534757769,1.8158577411215886
+2785362665,Capturing the Spatiotemporal Evolution in Road Traffic Networks,2018,18,3,1,1.0,2062009547,Timos Sellis,0,0.003708468606338,0.082832279151172
+2799934046,Finding the optimal location and keywords in obstructed and unobstructed space,2018,46,2,2,0.0626626,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+2803555859,Social-Textual Query Processing on Graph Database Systems,2018,22,0,2,1.0,1993785969,Oshini Goonetilleke,0,0.003708468606338,0.082832279151172
+2803615543,DistClusTree A Framework for Distributed Stream Clustering,2018,12,1,1,1.0,2062009547,Timos Sellis,0,-0.6244694998098298,0.6653350714973933
+2796332901,The Maximum Trajectory Coverage Query in Spatial Databases,2018,21,0,2,0.0626626,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+2800973392,Batch Processing of Top- k Spatial-Textual Queries,2018,30,3,2,0.0626626,1944334593,J. Shane Culpepper,0,-0.13275296294680305,-0.071629888206014
+2886381387,From Homomorphisms to Embeddings A Novel Approach for Mining Embedded Patterns from Large Tree Data,2018,47,0,1,1.0,2062009547,Timos Sellis,0,0.003708468606338,0.082832279151172
+2898223340,Geo-Social Influence Spanning Maximization,2018,8,0,2,0.0626626,1944334593,J. Shane Culpepper,0,-0.05774258311932245,-0.3075688411043247
+2898408330,Reverse k Nearest Neighbor Search over Trajectories (Extended Abstract),2018,3,2,2,0.0626626,1944334593,J. Shane Culpepper,0,0.13510875252826565,-0.18274052682013076
+2902570307,The flexible socio spatial group queries,2018,0,3,1,1.0,2062009547,Timos Sellis,0,0.003708468606338,0.082832279151172
+2918026325,Top-k trajectories with the best view,2019,48,1,2,0.0523937,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+2896992072,Classification and Annotation of Open Internet of Things Datastreams,2018,19,1,2,0.0,2024397489,Prem Prakash Jayaraman,0,0.2411296976350509,0.19514062197806442
+2907616105,Interactive Visualization of Urban Areas of Interest A Parameter-Free and Efficient Footprint Method,2019,8,0,1,1.0,2062009547,Timos Sellis,0,0.8560954273177078,2.0193528064451907
+2904298341,Special Section on the International Conference on Data Engineering 2016,2019,0,3,1,1.0,2062009547,Timos Sellis,0,0.003708468606338,0.082832279151172
+2963398569,The maximum trajectory coverage query in spatial databases,2018,37,1,2,0.0626626,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+2961539753,Location prediction in large-scale social networks an in-depth benchmarking study,2019,59,2,3,0.0,1965528362,Nur Al Hasan Haldar,0,-0.12428798855882896,0.029940422612117434
+2953204016,Reverse k Nearest Neighbor Search over Trajectories,2017,11,3,2,0.0908562,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+3001464562,Fast Anomaly Detection in Multiple Multi-Dimensional Data Streams,2019,21,0,1,1.0,2062009547,Timos Sellis,0,-0.07867484099676887,0.7396462391418779
+3013573132,Community-diversified influence maximization in social networks,2020,24,0,1,1.0,2062009547,Timos Sellis,0,0.247057159400659,0.0008718596446388033

@@ -1,0 +1,161 @@
+47136562,Relational Cloud a Database Service for the cloud,2011,0,166,6,0.554508,1150986126,Nickolai Zeldovich,0,-0.0041099411153885,0.0447066884760059
+83582660,Reminiscences on Influential Papers - Kenneth A Ross,2004,0,0,1,1.0,2139913828,Samuel Madden,0,-0.0041099411153885,0.0447066884760059
+1161092233,Vertexica your relational friend for graph analytics ,2014,5,29,4,0.0,1998938290,Michael Stonebraker,0,0.38632121652839624,0.058193535481373765
+1514659981,Query execution in column-oriented database systems,2008,57,97,1,1.0,2139913828,Samuel Madden,0,1.6536099683595413,0.37756542375299623
+1551118287,REED robust efficient filtering and event detection in sensor networks,2005,24,193,2,1.0,939389177,Wolfgang Lindner,0,0.034644713238784555,-0.23836262133861197
+1560458769,Automatic partitioning of database applications,2012,23,0,3,1.0,2020080286,Owen Arden,0,0.541048792242954,0.14109191976847427
+1542658975,Fault-tolerant distributed transactions for partitioned oltp databases,2012,80,6,2,1.0,2114793034,Evan P. C. Jones,0,2.176723510165377,2.3221627486213166
+1551839888,Crowdsourced Databases Query Processing with People,2011,7,159,2,1.0,2104582966,Robert C. Miller,0,0.5325669973310596,0.09709227568458595
+1499327381,Using The Barton Libraries Dataset As An RDF benchmark,2007,1,28,1,1.0,2139913828,Samuel Madden,0,-0.9187351152086973,-0.6033133328454964
+1544010666,Relational Cloud A Database-as-a-Service for the Cloud,2011,20,150,6,0.554508,1150986126,Nickolai Zeldovich,0,-0.08368434078592991,-0.20988832860959752
+1518617389,TinyDB In-Network Query Processing in TinyOS,2002,0,71,1,1.0,2139913828,Samuel Madden,0,-0.0041099411153885,0.0447066884760059
+1546421159,Active Learning for Crowd-Sourced Databases,2012,63,30,2,0.837075,2002600875,Barzan Mozafari,0,-0.0041099411153885,0.0447066884760059
+1577169013,The end of an architectural era (its time for a complete rewrite),2007,62,553,3,0.0,1998938290,Michael Stonebraker,0,1.087196949808787,0.6859136057165826
+1745268285,Transactional consistency and automatic management in an application data cache,2010,30,70,3,0.0,1513655371,Dan R. K. Ports,0,0.19047061268584184,0.09757603435381701
+1598010510,Implementation and research issues in query processing for wireless sensor networks,2004,0,6,1,1.0,2139913828,Samuel Madden,0,-0.20133665475165913,-0.19110780330684465
+1813736802,Counting with the crowd,2012,22,75,2,1.0,2104582966,Robert C. Miller,0,0.014532710543751099,0.030944858938630852
+1684311429,Adaptive Query Processing Technology in Evolution,2000,40,215,4,0.0,2002742946,Amol Deshpande,0,0.014532710543751099,0.030944858938630852
+1963537333,How best to build web-scale data managers ,2009,6,0,3,0.0,2893888,Michael Cafarella,0,0.31735423203403873,0.41281574692576345
+1592261007,Thinking Big About Tiny Databases,2007,23,7,2,0.0,2063640528,Joseph M. Hellerstein,0,-0.0041099411153885,0.0447066884760059
+1791587242,C-store a column-oriented DBMS,2005,64,911,7,1.0,1979136062,Alexander Rasin,0,1.8807322762223457,0.7576132399113342
+1976732638,BigDansing A System for Big Data Cleansing,2015,38,80,7,0.0,1671481,Mourad Ouzzani,0,0.09777391578903583,-0.3563971278136846
+1978780253,MAQSA a system for social analytics on news,2012,7,23,2,0.0,2021050569,Sofiane Abbar,0,-0.0041099411153885,0.0447066884760059
+1970165929,Optimizing database-backed applications with query synthesis,2013,38,72,2,1.0,2124896226,Alvin Cheung,0,0.044859856903840555,0.012551371775477651
+1978933387,Model-based approximate querying in sensor networks,2005,49,118,5,1.0,1988556028,Carlos Guestrin,0,0.03565810966282755,0.09825506972366725
+2008333370,Fault-tolerance in the borealis distributed stream processing system,2008,42,133,3,1.0,1998464616,Hari Balakrishnan,0,-0.0041099411153885,0.0447066884760059
+1989078417,Java support for data-intensive systems experiences building the telegraph dataflow system,2001,16,35,2,0.0,2063640528,Joseph M. Hellerstein,0,-0.0041099411153885,0.0447066884760059
+2005112390,Column-stores vs row-stores how different are they really ,2008,24,360,2,0.714286,2038813504,Nabil I. Hachem,0,0.7198659523525811,0.2571581134310692
+1998472299,Speeding up database applications with Pyxis,2013,4,4,3,1.0,2020080286,Owen Arden,0,1.820446933611797,0.36268936350664926
+2006008271,Lookup Tables Fine-Grained Partitioning for Distributed Databases,2012,12,34,3,0.868298,2045003753,Carlo Curino,0,1.0712284894112305,0.7870107936796251
+2002533683,CARTILAGE adding flexibility to the Hadoop skeleton,2013,14,5,2,0.877193,2114175654,Alekh Jindal,0,0.42341194658001635,0.021619525518647837
+1997485939,Tweets as data demonstration of TweeQL and Twitinfo,2011,9,35,4,0.0,974131018,Osama Badar,0,0.11186320184235435,0.08540661254559777
+2002791618,Knowing when youre wrong building fast and reliable approximate query processing systems,2014,31,117,4,0.664586,2002600875,Barzan Mozafari,0,0.014532710543751099,0.030944858938630852
+2017369298,A demonstration of SciDB a science-oriented DBMS,2009,13,144,7,0.0,144586491,Pavel Velikhov,0,-0.09687631339961023,0.20814854511678701
+2026427349,Osprey Implementing MapReduce-style fault tolerance in a shared-nothing distributed database,2010,15,76,1,1.0,2139913828,Samuel Madden,0,0.24486993010533836,0.06418313647890109
+2010801412,TelegraphCQ continuous dataflow processing,2003,2,600,5,0.67044,2002742946,Amol Deshpande,0,0.08529655267728986,-0.8592521790247165
+2030172596,Data management in the CarTel mobile sensor computing system,2006,0,19,5,1.0,1998464616,Hari Balakrishnan,0,0.18601297105691045,-0.0008472885667257998
+2017052417,CORADD correlation aware database designer for materialized views and indexes,2010,15,42,4,0.0,431165649,Stanley B. Zdonik,0,2.333297797889582,0.2708015717380614
+2054075931,OLTP through the looking glass and what we found there,2008,40,251,2,0.0,1998938290,Michael Stonebraker,0,2.11184712924916,2.0611930582945646
+2047182010,Scorpion explaining away outliers in aggregate queries,2013,18,117,1,1.0,2139913828,Samuel Madden,0,0.43739842239757626,0.009947045888208002
+2044547639,SubZero A fine-grained lineage system for scientific databases,2013,21,23,2,0.0,1998938290,Michael Stonebraker,0,0.2946713761785912,0.4027268098681643
+2043097023,Blink and its done interactive queries on very large data,2012,8,78,4,0.837075,2002600875,Barzan Mozafari,0,0.772696891198326,0.5920194979262733
+2039910065,HYRISE a main memory hybrid storage engine,2010,27,202,5,0.0,1991829994,Alexander Zeier,0,-0.3584145241730215,-0.07336224267815496
+2073688105,The Case for RodentStore an Adaptive Declarative Storage System,2009,23,12,1,1.0,2139913828,Samuel Madden,0,2.391884010026911,0.5668633309463503
+2070317073,Performance and resource modeling in highly-concurrent OLTP workloads,2013,21,56,4,0.837075,2002600875,Barzan Mozafari,0,0.9096620398213565,0.9877606602959665
+2063364984,From Databases to Big Data,2012,0,333,1,1.0,2139913828,Samuel Madden,0,-0.08861491733470268,0.1853768420401302
+2068645020,Demonstration of Qurk a query processor for humanoperators,2011,6,34,2,1.0,2104582966,Robert C. Miller,0,0.3150058299366901,0.13200229688494985
+2058419719,Database Abstractions for Managing Sensor Network Data,2010,23,12,1,1.0,2139913828,Samuel Madden,0,0.7427281670048904,0.18704410319408604
+2060190002,Distributing queries over low-power wireless sensor networks,2002,7,28,2,0.0,2063640528,Joseph M. Hellerstein,0,-0.8891065030052469,-0.8040926051980031
+2065663378,TrajStore An adaptive storage system for very large trajectory data sets,2010,26,132,1,1.0,2139913828,Samuel Madden,0,0.09032608882414994,-0.19622013549386122
+2069171862,Sloth being lazy is a virtue (when issuing database queries),2014,38,30,2,1.0,2124896226,Alvin Cheung,0,-0.053234579732467,-0.1834344420086362
+2071414195,Rethinking main memory OLTP recovery,2014,25,87,3,0.0,1998938290,Michael Stonebraker,0,1.906610753546473,1.777020632947305
+2096916713,Database architecture (R)evolution New hardware vs new software,2010,8,0,2,0.0,2081047619,Peter Boncz,0,2.2464467317903947,0.7927263541725686
+2089603704,Impact of double-blind reviewing on SIGMOD publication rates,2006,0,19,2,0.0,1979791317,David J. DeWitt,0,0.044859856903840555,0.012551371775477651
+2097995023,Model-driven data acquisition in sensor networks,2004,24,993,4,1.0,1988556028,Carlos Guestrin,0,-0.0041099411153885,0.0447066884760059
+2101000001,Automatic partitioning of database applications,2012,29,53,3,1.0,2020080286,Owen Arden,0,0.13980275405898596,0.08338447252829113
+2101398891,Sync kit a persistent client-side database caching toolkit for data intensive websites,2010,20,27,2,0.0,2118257385,Edward Benson,0,-2.0905997653378994,-1.8083320820359086
+2104892949,Performance profiling with EndoScope an acquisitional software monitoring framework,2008,21,12,2,1.0,2124896226,Alvin Cheung,0,-0.0041099411153885,0.0447066884760059
+2096080665,A trigger-based middleware cache for ORMs,2011,22,34,3,0.554508,1150986126,Nickolai Zeldovich,0,0.5406856864923699,1.1587029797792967
+2126333155,Exploiting correlated attributes in acquisitional query processing,2005,20,117,3,1.0,1988556028,Carlos Guestrin,0,0.014532710543751099,0.030944858938630852
+2111687586,Correlation maps a compressed access method for exploiting soft functional dependencies,2009,17,25,4,0.0,431165649,Stanley B. Zdonik,0,0.22580412074257644,0.22820234192345074
+2126630402,Report on the Fourth International Workshop on Data Management for Sensor Networks (DMSN 2007),2007,0,0,4,0.0,119288298,Alexandros Labrinidis,0,-0.4377653149743701,-0.7161198344083345
+2138512691,Performance tradeoffs in read-optimized databases,2006,26,149,1,1.0,2139913828,Samuel Madden,0,0.2018344789238379,0.41477895527679104
+2123686039,Integrating compression and execution in column-oriented database systems,2006,33,480,1,1.0,2139913828,Samuel Madden,0,1.1628445447555984,0.10233290390334572
+2123714476,Scoop An Adaptive Indexing Scheme for Stored Data in Sensor Networks,2007,37,13,1,1.0,2139913828,Samuel Madden,0,-0.0041099411153885,0.0447066884760059
+2135499008,Continuously adaptive continuous queries over streams,2002,40,609,3,0.0,2063640528,Joseph M. Hellerstein,0,0.16331260091827293,-0.29922094097407603
+2141710443,Speedy transactions in multicore in-memory databases,2013,33,256,4,0.0,2084056563,Barbara Liskov,0,1.4415702794737701,1.891305971676422
+2141742398,Fault-tolerance in the Borealis distributed stream processing system,2005,51,171,3,1.0,1998464616,Hari Balakrishnan,0,-0.0041099411153885,0.0447066884760059
+2106028863,XStream a Signal-Oriented Data Stream Management System,2008,17,63,4,1.0,1998464616,Hari Balakrishnan,0,0.2656564225828292,-1.1702433822614333
+2109067452,Using Probabilistic Models for Data Management in Acquisitional Environments,2005,55,103,3,1.0,1988556028,Carlos Guestrin,0,0.18601297105691045,-0.0008472885667257998
+2132793058,Relational Cloud The Case for a Database Service,2010,23,41,3,1.0,2045003753,Carlo Curino,0,0.8554259057967212,-0.020021843863254406
+2139238024,UPI a primary index for uncertain databases,2010,15,16,2,0.0,431165649,Stanley B. Zdonik,0,-0.01965372328504981,0.0432553969855026
+2133741724,Schism a workload-driven approach to database replication and partitioning,2010,22,407,3,1.0,2045003753,Carlo Curino,0,1.2302208598219697,0.8125149413911263
+2130925186,Partitioning techniques for fine-grained indexing,2011,28,23,1,1.0,2139913828,Samuel Madden,0,0.38584124830898386,0.1446624301694257
+2137152505,SW-Store a vertically partitioned DBMS for Semantic Web data management,2009,37,265,1,1.0,2139913828,Samuel Madden,0,-0.13489138146538232,0.029751773140659632
+2134204499,Intel &quot;big data&quot; science and technology center vision and execution plan,2013,20,27,2,0.0,1998938290,Michael Stonebraker,0,-0.4951273078888396,0.9070079644799637
+2116832440,MauveDB supporting model-based user views in database systems,2006,33,186,2,0.586298,2002742946,Amol Deshpande,0,0.9227706397058422,0.06981492262939241
+2140613126,Scalable semantic web data management using vertical partitioning,2007,26,564,1,1.0,2139913828,Samuel Madden,0,-1.4872462629339107,-1.1608823404971327
+2131565021,CrowdDB Query processing with the VLDB crowd,2011,2,10,3,0.0,2059277171,Reynold Xin,0,-0.13945098555442775,0.17919478880810968
+2143792095,ZStream a cost-based query processor for adaptively detecting composite events,2009,13,143,1,1.0,2139913828,Samuel Madden,0,0.27768597543934936,0.20638351254066495
+2122867585,A continuous query system for dynamic route planning,2011,36,38,1,1.0,2139913828,Samuel Madden,0,-0.0041099411153885,0.0447066884760059
+2143828465,A demonstration of DBWipes clean as you query,2012,8,10,2,0.0,1998938290,Michael Stonebraker,0,0.2946713761785912,0.4027268098681643
+2114258210,Top- k queries on uncertain data on score distribution and typical answers,2009,22,81,2,0.0,2008359759,Stan Zdonik,0,0.48014231162842824,-0.05806867391706744
+2144019624,Efficient Versioning for Scientific Array Databases,2012,15,30,3,0.0,964890189,Adam Seering,0,0.25057570336137,-0.14940085706202869
+2114303224,A comparison of approaches to large-scale data analysis,2009,16,942,5,1.0,1916729783,Andrew Pavlo,0,-0.21154035593534,0.8069883341132106
+2153259545,The design of an acquisitional query processor for sensor networks,2003,42,917,2,0.0,2063640528,Joseph M. Hellerstein,0,0.04096502533685727,0.014095257650737034
+2162228985,TelegraphCQ An Architectural Status Report,2003,10,84,5,0.67044,2002742946,Amol Deshpande,0,0.5187364890464197,0.28084580805634524
+2159376715,Low overhead concurrency control for partitioned main memory databases,2010,24,126,2,1.0,2114793034,Evan P. C. Jones,0,2.523289490792517,3.2831517300540405
+2144627020,Declarative Domain-Specific Languages - Elegant Simplicity or a Hammer in Search of a Nail ,2008,8,0,2,0.0,2083845045,Johannes Gehrke,0,-0.23142658989336998,0.3421838337963791
+2144839430,Materialization Strategies in a Column-Oriented DBMS,2007,15,191,2,0.0,1979791317,David J. DeWitt,0,0.08677543596605215,0.25772829493770294
+2165878420,Processing and visualizing the data in tweets,2012,11,23,4,0.0,974131018,Osama Badar,0,0.13029398725198918,-0.25592424071483205
+2150971115,An integration framework for sensor networks and data stream management systems,2004,9,59,2,1.0,939389177,Wolfgang Lindner,0,0.1882434276923103,-1.0430197535152996
+2168967034,Querying continuous functions in a database system,2008,19,56,2,0.0,2060501585,Arvind Thiagarajan,0,0.43739842239757626,0.009947045888208002
+2144973160,S-Store a streaming NewSQL system for big velocity applications,2014,7,51,10,0.0,11059210,Ugur Cetintemel,0,0.8908893349317512,1.4955192263223913
+2148167495,StatusQuo Making Familiar Abstractions Perform Using Program Analysis,2013,26,19,3,1.0,2020080286,Owen Arden,0,-0.09643955070014586,-0.2837431777135822
+2187014882,A Demonstration of HYRISEâ€” A Main Memory Hybrid Storage Engine,2011,6,18,2,0.714286,2038684037,Martin Grund,0,-0.3584145241730215,-0.07336224267815496
+2154314955,Demonstration of the TrajStore system,2009,8,4,1,1.0,2139913828,Samuel Madden,0,-0.0041099411153885,0.0447066884760059
+2151449617,Workload-aware database monitoring and consolidation,2011,22,139,4,1.0,1998464616,Hari Balakrishnan,0,-0.17244133864042968,-0.305030520451871
+2145492473,Human-powered sorts and joins,2011,14,227,2,1.0,2104582966,Robert C. Miller,0,0.5914199159853155,0.9743024179563765
+2169593628,Fjording the stream an architecture for queries over streaming sensor data,2002,43,478,1,1.0,2139913828,Samuel Madden,0,-0.0041099411153885,0.0447066884760059
+2154721480,TinyDB an acquisitional query processing system for sensor networks,2005,54,1748,2,0.0,2063640528,Joseph M. Hellerstein,0,0.10752341651500621,0.19452241510554216
+2160723116,An integrated approach to recovery and high availability in an updatable distributed data warehouse,2006,40,43,1,1.0,2139913828,Samuel Madden,0,0.2517813799178772,0.11826516126260399
+2155070484,H-store a high-performance distributed main memory transaction processing system,2008,11,390,6,0.0,431165649,Stanley B. Zdonik,0,1.9608306269484368,1.8155146859826754
+2161569281,TelegraphCQ Continuous Dataflow Processing for an Uncertain World,2003,44,1065,6,0.67044,2002742946,Amol Deshpande,0,-0.03990874100610224,-0.19030993128025134
+2257756289,S ee DB efficient data-driven visualization recommendations to support visual analytics,2015,36,102,2,0.327583,2077695977,Aditya Parameswaran,0,0.0698432477621106,0.35016645011730835
+2260378577,Collaborative data analytics with DataHub,2015,10,26,4,0.0,2002742946,Amol Deshpande,0,-0.01331521138473075,0.17670384109426496
+2245828441,The case for data visualization management systems vision paper,2014,30,41,2,0.0,1975774854,Leilani Battle,0,1.156256010792543,0.27153135884934354
+2250570571,Processing analytical queries over encrypted data,2013,22,220,2,0.554508,1150986126,Nickolai Zeldovich,0,-0.17244133864042968,-0.305030520451871
+2292361954,Scaling up crowd-sourcing to very large datasets a case for active learning,2014,40,100,2,0.664586,2002600875,Barzan Mozafari,0,-0.0041099411153885,0.0447066884760059
+2293005924,No Bits Left Behind,2011,9,2,2,1.0,2045003753,Carlo Curino,0,0.43739842239757626,0.009947045888208002
+2296750577,DBSeer Resource and Performance Prediction for Building a Next Generation Database Cloud,2013,12,54,3,0.837075,2002600875,Barzan Mozafari,0,1.6382720125550398,0.9836050213173967
+2291498640,MacroBase Analytic Monitoring for the Internet of Things,2016,81,3,2,0.428787,2049394146,Peter Bailis,0,-0.16025605552992736,0.08121317678719864
+2291793535,The BigDAWG Architecture,2016,10,2,6,0.0,1998938290,Michael Stonebraker,0,-0.10283226324839849,0.14718529002097702
+2399620389,Using Program Analysis to Improve Database Applications,2014,27,15,3,1.0,2020080286,Owen Arden,0,-0.013070857912921119,-0.45019652402794436
+2395358760,Decibel the relational dataset branching system,2016,32,21,4,0.0,2002742946,Amol Deshpande,0,0.18601297105691045,-0.0008472885667257998
+2406267662,An overview of HYRISE - a Main Memory Hybrid Storage Engine,2012,12,19,4,0.0437584,2017491355,Hasso Plattner,0,-0.09704933498526315,-0.37303494987465385
+2471950790,Technical Perspective Mesa takes data warehousing to new heights,2016,0,0,1,1.0,2139913828,Samuel Madden,0,0.11627582886789564,0.3621724021946999
+2444251119,What Makes a Good Physical plan Experiencing Hardware-Conscious Query Optimization with CandomblÃ©,2016,6,2,2,0.0,2127496274,Holger Pirk,0,1.0148912411750461,0.5119636563860486
+2485234578,The Aurora and Borealis Stream Processing Engines,2016,13,17,10,0.0,11059210,Ugur Cetintemel,0,0.5098799609193442,0.42767421287971297
+2432911982,M odel DB a system for machine learning model management,2016,11,47,2,0.290113,2009645378,Matei Zaharia,0,0.1115287862177939,0.2379164648824589
+2501950802,Sensor Network Integration with Streaming Database Systems,2016,29,1,2,1.0,939389177,Wolfgang Lindner,0,0.13655407252917043,-0.689618825876448
+2548945327,A moeba a shape changing storage system for big data,2016,5,6,2,0.965912,2114175654,Alekh Jindal,0,0.08983402437309126,0.3841328330041207
+2574839832,The TileDB array data storage manager,2016,10,42,3,0.0,2119753300,Stavros Papadopoulos,0,0.2779304632886321,0.4240364311845701
+2550966576,Speedy Browsing and Sampling with NeedleTail,2016,36,2,2,0.327583,2077695977,Aditya Parameswaran,0,-0.4164353607007019,-0.10408138035894196
+2583754181,AdaptDB adaptive partitioning for distributed joins,2017,24,18,2,0.965912,2114175654,Alekh Jindal,0,0.6303503957484282,-0.1335383216540529
+2585438896,The Data Civilizer System,2017,18,43,6,0.0,1671481,Mourad Ouzzani,0,-0.0041099411153885,0.0447066884760059
+2585556906,We Are Boring,2017,0,1,1,1.0,2139913828,Samuel Madden,0,-0.0041099411153885,0.0447066884760059
+2580329837,INGESTBASE A Declarative Data Ingestion System,2017,10,0,3,0.0,1999281778,Jorge Arnulfo QuianÃ© Ruiz,0,0.25383238990262746,-0.006357047468204799
+2580400709,BigDAWG Polystore Release and Demonstration,2017,3,2,6,0.0,1998938290,Michael Stonebraker,0,0.06635930819191084,0.49152641060504293
+2548100623,Voodoo - a vector algebra for portable database performance on modern hardware,2016,32,41,3,0.290113,2009645378,Matei Zaharia,0,1.8914007082058568,0.5793494412049495
+2523955029,The BigDAWG polystore system and architecture,2016,25,47,6,0.0,1998938290,Michael Stonebraker,0,0.21228526446012197,0.24716310001345324
+2613536717,A Demo of the Data Civilizer System,2017,5,16,9,0.0,1671481,Mourad Ouzzani,0,-0.11982675687125922,-0.2490051613940225
+2613751718,MacroBase Prioritizing Attention in Fast Data,2017,108,46,2,0.428787,2049394146,Peter Bailis,0,-0.42845202490949574,0.1450203979855267
+2611990000,Towards Visualization Recommendation Systems,2017,42,24,2,0.228303,2077695977,Aditya Parameswaran,0,-0.0041099411153885,0.0447066884760059
+2612177096,Generating Concise Entity Matching Rules,2017,6,16,4,0.0,1254989700,Paolo Papotti,0,0.2807600744873719,-0.0746967125258062
+2731310883,Version 01 of the BigDAWG Polystore System,2017,16,5,5,0.0,1998938290,Michael Stonebraker,0,0.06635930819191084,0.49152641060504293
+2601127624,Locality-Adaptive Parallel Hash Joins Using Hardware Transactional Memory,2016,13,1,2,0.0,2127496274,Holger Pirk,0,1.248074067866155,1.7827299249154824
+2753622858,Exploring big volume sensor data with vroom,2017,11,3,4,0.0,1998938290,Michael Stonebraker,0,0.27170066117554836,0.25351867123412375
+2757276355,A demonstration of SciDB,2009,0,1,4,0.0,144586491,Pavel Velikhov,0,0.12628174114238816,0.0039009070058818006
+2750756391,Query optimization for dynamic imputation,2017,22,7,2,0.0,1985349828,John K. Feser,0,0.30265740233268107,0.012359040392557268
+2766779814,Extracting Syntactic Patterns from Databases,2017,14,0,1,1.0,2139913828,Samuel Madden,0,-0.055337236884046154,0.09914083643323489
+2757562428,Entity Consolidation The Golden Record Problem,2017,46,4,8,0.0,1671481,Mourad Ouzzani,0,-0.27529732947590096,0.6088417614542732
+2766842049,BigDAWG version 01,2017,18,22,5,0.0,1998938290,Michael Stonebraker,0,-0.08236479756234295,0.4093661839418941
+2764387391,The Case for Data Visualization Management Systems,2014,0,26,2,0.0,1975774854,Leilani Battle,0,-0.0041099411153885,0.0447066884760059
+2807799957,Evaluating end-to-end optimization for data analytics applications in weld,2018,33,15,6,0.290113,2009645378,Matei Zaharia,0,-0.0041099411153885,0.0447066884760059
+2883078343,S-Store streaming meets transaction processing,2015,0,0,10,0.0,11059210,Ugur Cetintemel,0,0.9408492071308692,0.912959594064505
+2898269683,Building Data Civilizer Pipelines with an Advanced Workflow Engine,2018,8,3,9,0.0,1671481,Mourad Ouzzani,0,0.12612142656726757,0.6503260228414357
+2927176210,MODELDB Opportunities and Challenges in Managing Machine Learning Models,2018,0,2,1,1.0,2139913828,Samuel Madden,0,-0.0041099411153885,0.0447066884760059
+2913555551,Proceedings of the 2016 International Conference on Management of Data,2016,0,0,2,0.0,2026396360,Fatma Ozcan,0,0.18601297105691045,-0.0008472885667257998
+2913631065,SageDB A Learned Database System,2019,0,37,3,0.0,2045447989,Alex Beutel,0,-0.0041099411153885,0.0447066884760059
+2899672681,STAR scaling transactions through asymmetric replication,2019,50,0,2,0.0,2128284562,Xiangyao Yu,0,0.4807114443428977,0.8149037507751944
+2949593877,MacroBase Prioritizing Attention in Fast Data,2016,0,0,2,0.428787,2049394146,Peter Bailis,0,-0.42845202490949574,0.1450203979855267
+2952305614,Human-powered Sorts and Joins,2011,12,0,2,1.0,2104582966,Robert C. Miller,0,0.5914199159853155,0.9743024179563765
+2952580730,Automatic Partitioning of Database Applications,2012,29,35,3,1.0,2020080286,Owen Arden,0,0.13980275405898596,0.08338447252829113
+2944724740,Towards Multiverse Databases,2019,18,1,4,0.0,2112752255,Robert Morris,0,0.044859856903840555,0.012551371775477651
+2963434618,The Case for RodentStore an Adaptive Declarative Storage System,2009,25,17,1,1.0,2139913828,Samuel Madden,0,0.22849199092487468,0.13041230638690088
+2964199157,Extracting Syntactical Patterns from Databases,2018,17,1,1,1.0,2139913828,Samuel Madden,0,-0.4998491593040602,0.3481732121803337
+2991485771,Starling A Scalable Query Engine on Cloud Function Services,2019,8,0,2,0.0,1979791317,David J. DeWitt,0,-0.0041099411153885,0.0447066884760059
+2991534516,Dataset-On-Demand Automatic View Search and Presentation for Data Discovery,2019,28,0,3,0.0,1671481,Mourad Ouzzani,0,-0.9187474338397454,0.569988513948818
+2970228335,Data Civilizer 20 a holistic framework for data preparation and analytics,2019,11,2,6,0.0,1671481,Mourad Ouzzani,0,0.3987858316334008,0.3214803641229101
+3009948008,A Study of the Fundamental Performance Characteristics of GPUs and CPUs for Database Analytics (Extended Version),2020,35,0,1,1.0,2139913828,Samuel Madden,0,0.044859856903840555,0.012551371775477651
+3013864782,Dagger A Data (not code) Debugger,2020,0,1,5,0.0,1671481,Mourad Ouzzani,0,-0.0041099411153885,0.0447066884760059

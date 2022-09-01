@@ -1,0 +1,67 @@
+53030913,On the Security of a Certificateless Public-Key Encryption,2005,7,17,1,0,1990729064,Zhenfeng Zhang,0,0.9845245516212052,-3.139792614775073
+37388332,Certificateless Proxy Re-Encryption Without Pairings,2013,39,6,1,0,1990729064,Zhenfeng Zhang,0,0.3379056331359344,-1.8065632551703845
+95868656,Efficient identity-based protocol for fair certified e-mail delivery,2005,28,4,1,0,1990729064,Zhenfeng Zhang,0,0.28554287897420205,-1.191461647427513
+29173248,Proxy Re-encryption with Unforgeable Re-encryption Keys,2014,34,6,1,0,1990729064,Zhenfeng Zhang,0,1.0624458599182771,-1.955735615262655
+15438779,DAA-Related APIs in TPM 20 Revisited,2014,20,14,1,0,1990729064,Zhenfeng Zhang,0,-1.0049119769674293,-1.7181952351141168
+33178963,Towards a Secure Certificateless Proxy Re-Encryption Scheme,2013,45,9,1,0,1990729064,Zhenfeng Zhang,0,0.6402446098935759,-2.15150903329717
+153410789,Gateway-oriented password-authenticated key exchange protocol with stronger security,2011,26,3,1,0,1990729064,Zhenfeng Zhang,0,-0.9601132788350335,-0.6534751557471253
+283003172,Authenticated key exchange with entities from different settings and varied groups,2012,23,1,1,0,1990729064,Zhenfeng Zhang,0,-0.5157735797432651,-1.653306614879804
+992984224,Identity Based Threshold Proxy Signature,2004,16,9,1,0,1990729064,Zhenfeng Zhang,0,0.2850328139712543,-2.0726439725390873
+1558909742,Authenticated key exchange with entities from different settings and varied groups,2016,34,0,1,0,1990729064,Zhenfeng Zhang,0,-0.19839801219320793,-1.1028289540917784
+1560013675,Efficient ID-Based optimistic fair exchange with provable security,2005,29,11,1,0,1990729064,Zhenfeng Zhang,0,0.10776392474311354,-1.1193402980187213
+1534038653,ID-Based proxy signature using bilinear pairings,2005,15,87,1,0,1990729064,Zhenfeng Zhang,0,0.0867192864105317,-1.7396011648496534
+1525576396,Certificateless public-key signature security model and efficient construction,2006,17,184,1,0,1990729064,Zhenfeng Zhang,0,0.30403478664192624,-1.9621154114390886
+1481735483,Key replacement attack against a generic construction of certificateless signature,2006,12,158,1,0,1990729064,Zhenfeng Zhang,0,-0.18340038202685802,-1.4727605471314427
+1553968376,ID-Based aggregate signatures from bilinear pairings,2005,24,49,1,0,1990729064,Zhenfeng Zhang,0,-0.6678167619031647,-2.560402422859936
+1451114708,A generic construction from Selective-IBE to public-key encryption with non-interactive opening,2011,26,3,1,0,1990729064,Zhenfeng Zhang,0,0.3351100534173593,-1.6860258566662993
+1496218435,A New Anonymous Password-Based Authenticated Key Exchange Protocol,2008,17,25,1,0,1990729064,Zhenfeng Zhang,0,-2.1045121158406688,-2.317992457210896
+1939795056,Combined public-key schemes the case of ABE and ABS,2012,43,18,1,0,1990729064,Zhenfeng Zhang,0,0.510262694250018,-0.8959530473199219
+1599496901,Collusion attack on a self-healing key distribution with revocation in wireless sensor networks,2010,21,6,1,0,1990729064,Zhenfeng Zhang,0,-0.0845705788078941,-0.9874693035370289
+1581799835,Efficient fair certified e-mail delivery based on RSA,2005,18,4,1,0,1990729064,Zhenfeng Zhang,0,0.17505041046140835,-0.8950084528375513
+1918238974,Secure and efficient data-sharing in clouds,2015,48,12,1,0,1990729064,Zhenfeng Zhang,0,0.19260591767915042,-1.9587384161275683
+1974113789,Certificateless signature a new security model and an improved generic construction,2007,15,91,1,0,1990729064,Zhenfeng Zhang,0,-0.016848999651012192,-1.7158764080624374
+2014082271,Gateway-oriented password-authenticated key exchange protocol in the standard model,2012,22,4,1,0,1990729064,Zhenfeng Zhang,0,-0.8146176523769949,-1.408230998249956
+2041830541,Secure and Efficient Data-Sharing in Clouds,2013,45,0,1,0,1990729064,Zhenfeng Zhang,0,0.19178903342863848,-1.846843647679545
+2051193066,PRE Stronger security notions and efficient construction with non-interactive opening,2014,45,7,1,0,1990729064,Zhenfeng Zhang,0,0.49306869374367057,-2.8102437710179218
+2084883103,Security Analysis of a Privacy-Preserving Decentralized Key-Policy Attribute-Based Encryption Scheme,2013,5,22,1,0,1990729064,Zhenfeng Zhang,0,0.1727204926473516,-0.5646335206873789
+2104286472,Attribute-Based Conditional Proxy Re-Encryption with Chosen-Ciphertext Security,2010,18,15,1,0,1990729064,Zhenfeng Zhang,0,0.4220478287180451,-1.511541382640413
+2117582073,Ciphertext policy attribute-based encryption from lattices,2012,6,10,1,0,1990729064,Zhenfeng Zhang,0,0.5347415372937757,-2.576331853141465
+2119814295,Security analysis of a privacy-preserving decentralized ciphertext-policy attribute-based encryption scheme,2016,7,7,1,0,1990729064,Zhenfeng Zhang,0,0.12809652031867141,-1.346568263383511
+2157755913,Cryptanalysis of the end-to--end security for mobile communications with end-user identification/authentication,2005,3,3,1,0,1990729064,Zhenfeng Zhang,0,-1.0659297875514957,-1.7214894509513792
+2167296203,Fully secure attribute-based systems with short ciphertexts/signatures and threshold access structures,2013,56,49,1,0,1990729064,Zhenfeng Zhang,0,0.8111166569313109,-1.5137832956177917
+2170610136,Universally composable three-party password-authenticated key exchange with contributiveness,2015,28,4,1,0,1990729064,Zhenfeng Zhang,0,-0.8791954895788328,-1.3074467265798044
+2254419831,Security of the SM2 Signature Scheme Against Generalized Key Substitution Attacks,2015,16,4,1,0,1990729064,Zhenfeng Zhang,0,-0.07555993393680471,-2.329607098806712
+2273608055,Security Analysis of EMV Channel Establishment Protocol in An Enhanced Security Model,2014,24,0,1,0,1990729064,Zhenfeng Zhang,0,-0.35145345292171104,-0.5058293568930237
+2297450820,Universally composable anonymous password authenticated key exchange,2017,36,4,1,0,1990729064,Zhenfeng Zhang,0,-1.7755604219585264,-1.5714544547569842
+2294966932,DAA-TZ An Efficient DAA Scheme for Mobile Devices using ARM TrustZone,2015,25,14,1,0,1990729064,Zhenfeng Zhang,0,-1.4489881448665827,-0.29574914911994604
+2406619327,Non-transferable Proxy Re-encryption,2019,24,1,1,0,1990729064,Zhenfeng Zhang,0,-0.12942602924519228,-0.8739004627875738
+2396147834,UC-secure Two-Server Password-Based Authentication Protocol and Its Applications,2016,34,1,1,0,1990729064,Zhenfeng Zhang,0,-2.0767358448276356,-1.4298697429308067
+2403013186,Integrated PKE and PEKS - Stronger Security Notions and New Constructions,2012,25,0,1,0,1990729064,Zhenfeng Zhang,0,0.0040557659796233,0.2757546058061082
+2395405320,Key Replacement Attack on a Certificateless Signature Scheme,2006,6,25,1,0,1990729064,Zhenfeng Zhang,0,-0.01072671754298353,-1.0118924229470112
+2495089138,Security Analysis of an ID-Based Two-Server Password-Authenticated Key Exchange,2017,11,1,1,0,1990729064,Zhenfeng Zhang,0,-0.26361648693551537,-1.856591048918539
+2516734788,Multiple Handshakes Security of TLS 13 Candidates,2016,29,9,1,0,1990729064,Zhenfeng Zhang,0,0.1182866344607892,-1.199591477767013
+2577458881,Improvements on cryptographic systems using pairing with errors,2015,4,8,1,0,1990729064,Zhenfeng Zhang,0,-0.5365633217711365,-0.8102703696369054
+2512572446,AEP-M Practical Anonymous E-Payment for Mobile Devices Using ARM TrustZone and Divisible E-Cash,2016,16,1,1,0,1990729064,Zhenfeng Zhang,0,-1.419440476372286,-0.7387582908247284
+2535033158,Practical Anonymous Password Authentication and TLS with Anonymous Client Authentication,2016,50,10,1,0,1990729064,Zhenfeng Zhang,0,-1.5257321650914673,-0.9233589106332446
+2593697327,One-Round Cross-Domain Group Key Exchange Protocol in the Standard Model,2016,30,1,1,0,1990729064,Zhenfeng Zhang,0,-0.11473372783925218,-0.7239515455586994
+2597442687,Investigating the Multi-Ciphersuite and Backwards-Compatibility Security of the Upcoming TLS 13,2019,39,0,1,0,1990729064,Zhenfeng Zhang,0,-0.33335466981914125,0.8684856990771871
+2610957111,Anonymous Password Authenticated Key Exchange Protocol in the Standard Model,2017,44,2,1,0,1990729064,Zhenfeng Zhang,0,-2.0397645749129545,-2.0727983327798083
+2611849650,Certificateless public-key signature Security model and efficient construction,2006,0,0,1,0,1990729064,Zhenfeng Zhang,0,-0.046891559581484596,-1.6284512222209557
+2611874568,Key replacement attack against a generic construction of certificateless signature,2006,0,0,1,0,1990729064,Zhenfeng Zhang,0,-0.18340038202685802,-1.4727605471314427
+2780081984,LPSE Lightweight password-strength estimation for password meters,2018,45,14,1,0,1990729064,Zhenfeng Zhang,0,-1.3521593577207125,-0.631870748961136
+2808550745,Fast Lottery-Based Micropayments for Decentralized Currencies,2018,15,3,1,0,1990729064,Zhenfeng Zhang,0,0.28735010293740104,-0.990273584991745
+2898459335,Accountable Proxy Re-Encryption for Secure Data Sharing,2018,0,3,1,0,1990729064,Zhenfeng Zhang,0,0.06102130452738204,-0.9077243775272901
+2908021475,Direct Anonymous Attestation with Optimal TPM Signing Efficiency,2018,0,0,1,0,1990729064,Zhenfeng Zhang,0,-1.1532464129495215,-0.056633418534679986
+2908396597,Breaking the Binding Attacks on the Merkle Approach to Prove Liabilities and its Applications,2018,0,0,1,0,1990729064,Zhenfeng Zhang,0,0.0040557659796233,0.2757546058061082
+2951572793,Non-Transferable Proxy Re-Encryption,2015,0,2,1,0,1990729064,Zhenfeng Zhang,0,0.17384194194749136,-1.4354898781853023
+2950484732,PRE - Stronger Security Notion and Efficient Construction with New Property,2012,0,1,1,0,1990729064,Zhenfeng Zhang,0,0.0040557659796233,0.2757546058061082
+2951095147,Efficient and Optimistic Fair Exchanges Based on Standard RSA with Provable Security,2004,15,7,1,0,1990729064,Zhenfeng Zhang,0,0.2324688232784062,-0.06239800689477145
+2945624884,Optiwords A new password policy for creating memorable and strong passwords,2019,56,4,1,0,1990729064,Zhenfeng Zhang,0,-1.4834662376542447,-1.0354932232548695
+2972535345,Generic Traceable Proxy Re-encryption and Accountable Extension in Consensus Network,2019,38,0,1,0,1990729064,Zhenfeng Zhang,0,0.21845632093091183,-1.289704737992054
+2979191315,Puncturable Signatures and Applications in Proof-of-Stake Blockchain Protocol,2019,0,0,1,0,1990729064,Zhenfeng Zhang,0,1.3275357162702301,1.0720138609096581
+2982677034,Redactable Proof-of-Stake Blockchain with Fast Confirmation,2019,0,0,1,0,1990729064,Zhenfeng Zhang,0,1.3275357162702301,1.0720138609096581
+2965803741,Breaking the Binding Attacks on the Merkle Approach to Prove Liabilities and its Applications,2019,13,0,1,0,1990729064,Zhenfeng Zhang,0,-0.7305108159098967,-0.6177347723295438
+2971396721,Puncturable Signatures and Applications in Proof-of-Stake Blockchain Protocol,2019,31,0,1,0,1990729064,Zhenfeng Zhang,0,0.5250203123088851,0.3250152660237717
+2994997076,Superword A honeyword system for achieving higher security goals,2019,46,0,1,0,1990729064,Zhenfeng Zhang,0,-0.9872089359771025,-0.5357962915771539
+3012883663,Nudging personalized password policies by understanding usersâ€™ personality,2020,72,0,1,0,1990729064,Zhenfeng Zhang,0,-1.4834662376542447,-1.0354932232548695
+3006945404,Strong Authentication without Temper-Resistant Hardware and Application to Federated Identities,2020,0,0,1,0,1990729064,Zhenfeng Zhang,0,-1.3810759222508078,-0.8294137185492026

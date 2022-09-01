@@ -1,0 +1,95 @@
+1713610,Data refinement in Isabelle/HOL,2013,20,39,1,1.0,42605653,Tobias Nipkow,0,-0.32855109117450804,0.20321295801898054
+163090732,Isar a Language for Structured Proofs,2014,0,0,1,1.0,42605653,Tobias Nipkow,0,0.8470603673816296,-0.45525501481582
+146624009,Case Study IMP Expressions,2014,0,0,1,1.0,42605653,Tobias Nipkow,0,-0.3164644538025782,-0.01852310282943128
+98108028,Extending hindley-milner type inference with coercive structural subtyping,2011,19,11,2,0.833333,42458424,Dmitriy Traytel,0,-0.23354037522536197,0.0675751212561342
+98381434,Winskel is (almost) right,1996,10,12,1,1.0,42605653,Tobias Nipkow,0,-0.18192697731163607,-0.48848245769530185
+167813225,IMP A Simple Imperative Language,2014,0,1,1,1.0,42605653,Tobias Nipkow,0,0.21329046450518746,-1.0402444055197064
+15103390,Automatic proof and disproof in Isabelle/HOL,2011,68,62,1,1.0,42605653,Tobias Nipkow,0,-0.49367901491460414,-0.3911023099738386
+84457820,Abstract Interpretation of Annotated Commands,2012,14,8,1,1.0,42605653,Tobias Nipkow,0,-0.4150966652433913,0.06115618701936127
+85607348,Jinja Towards a Comprehensive Formal Semantics for a Java-like Language,2003,14,13,1,1.0,42605653,Tobias Nipkow,0,2.46857294222712,0.8247112809765383
+266135116,Concrete Semantics With Isabelle/HOL,2014,0,72,1,1.0,42605653,Tobias Nipkow,0,-0.20006966313430166,-0.38716082560382936
+775493447,A Verified Compiler for Probability Density Functions,2015,19,13,1,1.0,42605653,Tobias Nipkow,0,-1.6010035152398272,0.29580109631548157
+1522873391,Formal Verification of Algorithm W The Monomorphic Case,1996,25,12,1,1.0,42605653,Tobias Nipkow,0,-0.2655859428277967,0.048629576363257904
+1523022934,FM 2006 Formal Methods 14th International Symposium on Formal Methods Hamilton Canada August 21-27 2006 proceedings,2006,0,0,1,1.0,42605653,Tobias Nipkow,0,0.17793867305840014,0.011376549654513382
+1488162631,Programming and Proving,2014,0,7,1,1.0,42605653,Tobias Nipkow,0,-0.354814097673599,-0.7079079483791978
+1523874359,Code generation via higher-order rewrite systems,2010,26,123,1,1.0,42605653,Tobias Nipkow,0,-0.6616936422758469,0.1230490703192335
+1569204390,Java Bytecode Verification,2003,0,14,1,1.0,42605653,Tobias Nipkow,0,-3.016335925115816,-0.06448814698235902
+1497810808,Invited Talk Embedding Programming Languages in Theorem Provers (Abstract),1999,4,1,1,1.0,42605653,Tobias Nipkow,0,1.5617016757033206,1.1130355164983443
+1507628590,Types for Proofs and Programs International Workshop TYPES 93 Nijmegen The Netherlands May 24 - 28 1993 Selected Papers,1994,0,2,1,1.0,42605653,Tobias Nipkow,0,-0.1190699564706771,-0.28424301535806407
+1571434026,The Isabelle Framework,2008,66,102,1,1.0,42605653,Tobias Nipkow,0,-0.39186540831982064,0.002802392740548651
+1545329058,Hoare Logics in Isabelle/HOL,2002,26,46,1,1.0,42605653,Tobias Nipkow,0,-0.3299468886624804,-0.5446513328701315
+1554480506,Interpreter Verification for a Functional Language,1994,18,6,1,1.0,42605653,Tobias Nipkow,0,-0.2370246163791108,-0.06514157615109627
+1545781336,Automated Reasoning First International Joint Conference Ijcar 2001 Siena Italy June 18-23 2001 Proceedings,2001,0,0,1,1.0,42605653,Tobias Nipkow,0,-0.4398842153975493,0.12734268031173274
+1484822807,Formalizing Probabilistic Noninterference,2013,38,8,1,1.0,42605653,Tobias Nipkow,0,-0.3067241602327709,-0.17921663498781576
+1538383875,Owicki/Gries in Isabelle/HOL,1999,32,21,1,1.0,42605653,Tobias Nipkow,0,-0.18481006125192176,0.2707366870657186
+1538801588,A Compiled Implementation of Normalization by Evaluation,2008,25,12,1,1.0,42605653,Tobias Nipkow,0,-0.27932130917088593,-0.0107201778375245
+1575011135,Theorem proving in higher order logics 22nd International Conference TPHOLs 2009 Munich Germany August 17-20 2009 proceedings,2009,0,10,1,1.0,42605653,Tobias Nipkow,0,-0.8420558692149522,-0.16798905365037664
+1576046038,Winskel is (Almost) Right Towards a Mechanized Semantics Textbook,1996,15,80,1,1.0,42605653,Tobias Nipkow,0,-0.15468726919055828,-0.4775746624546959
+1595209293,Nitpick a counterexample generator for higher-order logic based on a relational model finder,2010,25,170,1,1.0,42605653,Tobias Nipkow,0,-0.7918251118000955,0.08510066963278605
+1748007674,Verified Lexical Analysis,1998,8,24,1,1.0,42605653,Tobias Nipkow,0,-0.30027005103060833,0.23931249984293806
+1910466616,Mining the Archive of Formal Proofs,2015,28,22,1,1.0,42605653,Tobias Nipkow,0,-0.20417599579585116,-1.121111558747722
+1598338394,Random testing in Isabelle/HOL,2004,13,81,1,1.0,42605653,Tobias Nipkow,0,0.027742896348865818,-0.23962719442983701
+1887681675,Machine-Checking the Java Specification Proving Type-Safety,1999,22,82,1,1.0,42605653,Tobias Nipkow,0,-1.9536346010632875,-0.08486767650921896
+1599039905,Sledgehammer judgement day,2010,21,73,1,1.0,42605653,Tobias Nipkow,0,-0.036650361896357266,0.09309000273291441
+1692349883,Verified Bytecode Verifiers,2001,18,40,1,1.0,42605653,Tobias Nipkow,0,-0.2496398998556326,-0.0851730922289305
+1590842522,Type Inference Verified Algorithm W in Isabelle/HOL,1996,20,3,1,1.0,42605653,Tobias Nipkow,0,-0.4024139873624852,0.14868854285715546
+1714698337,From Semantics to Computer Science Nominal verification of algorithm W,2009,16,9,1,1.0,42605653,Tobias Nipkow,0,1.7337964707714615,0.9286250892578817
+1898302081,Prototyping Proof Carrying Code,2004,17,19,1,1.0,42605653,Tobias Nipkow,0,0.3009570182110243,-0.21421465110157215
+1733170706,Proving concurrent noninterference,2012,40,11,1,1.0,42605653,Tobias Nipkow,0,-0.39186540831982064,0.002802392740548651
+1980290268,Equational reasoning in Isabelle,1989,20,22,1,1.0,42605653,Tobias Nipkow,0,-0.2928787359765585,-0.1672541619427411
+1989536180,Java light is type-safeâ€”definitely,1998,18,132,1,1.0,42605653,Tobias Nipkow,0,-2.016088594072522,0.6181683637664933
+2009825892,Type checking type classes,1993,15,33,1,1.0,42605653,Tobias Nipkow,0,-0.9663155011762363,-1.3125987883658192
+2010303434,An operational semantics and type safety prooffor multiple inheritance in C,2006,42,33,1,1.0,42605653,Tobias Nipkow,0,-0.2631258657293197,-0.5769721732034595
+2024410599,Experience report the next 1100 Haskell programmers,2014,17,0,2,0.833333,42458424,Dmitriy Traytel,0,-0.3312577140105903,0.06890870002345498
+2011270512,Proving pointer programs in higher-order logic,2005,24,122,1,1.0,42605653,Tobias Nipkow,0,-0.5097657378312648,-0.15495214127069912
+2011721441,Winskel is (almost) Right Towards a Mechanized Semantics,1998,0,35,1,1.0,42605653,Tobias Nipkow,0,-0.1164726804531344,0.019252515865476
+2052735108,A machine-checked model for a Java-like language virtual machine and compiler,2006,57,216,1,1.0,42605653,Tobias Nipkow,0,-0.748935848617773,-0.147926674695231
+2066946201,Bytecode Analysis for Proof Carrying Code,2005,14,25,1,1.0,42605653,Tobias Nipkow,0,-0.3470266399068702,-0.5083226844176794
+2076212401,Non-deterministic data types models and implementations,1986,28,76,1,1.0,42605653,Tobias Nipkow,0,1.6702414230607618,0.8844740260919159
+2060746234,A compiled implementation of normalisation by evaluation,2012,12,3,1,1.0,42605653,Tobias Nipkow,0,-0.0679976423790425,0.03365435218951285
+2104519948,Formal Verification of Language-Based Concurrent Noninterference,2013,45,3,1,1.0,42605653,Tobias Nipkow,0,-0.3256336147143693,-0.0779145751856359
+2096228713,Verified lightweight bytecode verification,2001,19,38,1,1.0,42605653,Tobias Nipkow,0,-2.018960067388595,0.3654095884519472
+2129384986,Term rewriting and beyond - theorem proving in Isabelle,1989,24,19,1,1.0,42605653,Tobias Nipkow,0,-0.6931685125622448,0.7070718022261172
+2106192381,Isabelle/HOL A Proof Assistant for Higher-Order Logic,2002,0,1997,1,1.0,42605653,Tobias Nipkow,0,-0.22370891337188487,0.2588373360704116
+2142191991,Asserting bytecode safety,2005,18,14,1,1.0,42605653,Tobias Nipkow,0,-1.5045529957121733,-0.4950795541826112
+2139646834,Verifying a hotel key card system,2006,9,0,1,1.0,42605653,Tobias Nipkow,0,-0.3083882887864111,0.06254471577275879
+2113275816,Formal verification of data type refinementâ€”theory and practice,1989,34,11,1,1.0,42605653,Tobias Nipkow,0,-0.097896675909795,-0.41787748006493064
+2113426200,HOLCF = HOL + LCF,1999,21,50,2,0.0,29146396,Oscar Slotosch,0,-0.6918726646450042,-0.10771059813075574
+2108107923,Hoare Logic for NanoJava Auxiliary Variables Side Effects and Virtual Methods Revisited,2002,19,40,1,1.0,42605653,Tobias Nipkow,0,-0.5931842116519783,-0.2769747695002106
+2156926516,Type Reconstruction for Type Classes,1995,6,38,1,1.0,42605653,Tobias Nipkow,0,-0.4836715201921688,-0.4115732668186499
+2184713986,The Isabelle Cookbook A Gentle Tutorial for Programming on the ML-Level of Isabelle (draft),2013,3,0,2,0.0,13760699,Christian Sternagel,0,-0.1164726804531344,0.019252515865476
+2149210207,Programming and Proving in,2013,2,0,1,1.0,42605653,Tobias Nipkow,0,1.330391659972458,-1.3761543847900286
+2147130609,Type Classes and Overloading Resolution via Order-Sorted Unification,1991,14,38,1,1.0,42605653,Tobias Nipkow,0,-0.10382942947375391,-0.3150976249604819
+2188988572,Veried Bytecode Veriers,2002,12,18,1,1.0,42605653,Tobias Nipkow,0,-0.2064501760469022,-0.09603437689154903
+2293069733,Teaching semantics with a proof assistant no more LSD trip proofs,2012,26,11,1,1.0,42605653,Tobias Nipkow,0,-0.43259691734999817,-1.0357782000346099
+2289759815,Isabelle tutorial and userâ€™s manual,1990,12,48,1,1.0,42605653,Tobias Nipkow,0,-0.43374603061054734,-0.6288084605665906
+2282139525,Embedding Programming Languages in Theorem Provers,1999,4,1,1,1.0,42605653,Tobias Nipkow,0,-0.35187738871984237,-0.12349092408754896
+2279061002,A Fully Verified Executable LTL Model Checker,2013,26,46,1,1.0,42605653,Tobias Nipkow,0,-0.19998301535374832,-0.05225062046277947
+2401483285,A Verified Compiler for Probability Density Functions,2014,0,1,1,1.0,42605653,Tobias Nipkow,0,-0.44869122900443015,-0.00015649039724540022
+2411482780,09411 Executive Summary -- Interaction versus Automation The two Faces of Deductions,2010,0,0,1,1.0,42605653,Tobias Nipkow,0,-0.1164726804531344,0.019252515865476
+2402520726,Verified decision procedures for MSO on words based on derivatives of regular expressions,2015,8,4,2,0.625,42458424,Dmitriy Traytel,0,-0.0378341848086559,0.23945872395684328
+2405502988,Abstract Hoare Logics,2006,3,4,1,1.0,42605653,Tobias Nipkow,0,-0.24727965243679215,0.2935408980496507
+2395269769,A Fully Verified Executable LTL Model Checker,2014,0,2,1,1.0,42605653,Tobias Nipkow,0,-0.20581124976527312,-0.036447641684989374
+2397937060,Jinja is not Java,2005,0,5,1,1.0,42605653,Tobias Nipkow,0,-0.5536686537030495,0.011641493330294302
+2476015419,2 Functional Programming in HOL,2002,0,0,1,1.0,42605653,Tobias Nipkow,0,-0.4952331531314047,-0.031288150803500635
+2467505627,Type inference verified Algorithm w in Isabelle/HOL,1998,0,0,1,1.0,42605653,Tobias Nipkow,0,-0.42011504923183507,-0.03037435302812281
+2498612280,Structured proofs in Isar/HOL,2003,0,42,1,1.0,42605653,Tobias Nipkow,0,-0.3928013636948931,-0.118119990704892
+2477541273,3 More Functional Programming,2002,0,0,1,1.0,42605653,Tobias Nipkow,0,2.151609923539156,-0.06644705121198552
+2500740404,Embedding programming languages in theorem provers,1999,0,0,1,1.0,42605653,Tobias Nipkow,0,0.5588427229838344,0.6654522290826822
+2488077853,Rewriting Techniques and Applications,1998,0,0,1,1.0,42605653,Tobias Nipkow,0,-0.24198146674231866,-0.07089886411622495
+2504260463,FM 2006 Formal Methods,2006,0,205,1,1.0,42605653,Tobias Nipkow,0,-0.0858108722570497,0.3118956755355936
+2520965321,Verifying a hotel key card system,2006,0,14,1,1.0,42605653,Tobias Nipkow,0,-0.3083882887864111,0.06254471577275879
+2675276594,Verified bytecode verifiers,2003,23,80,1,1.0,42605653,Tobias Nipkow,0,-0.5737512280560041,0.00591114347077921
+2740831200,Certification dans Isabelle dun Algorithme dAccessibilitÃ© pour les SystÃ¨mes Ã  Pile,2011,2,0,1,1.0,42605653,Tobias Nipkow,0,-0.1164726804531344,0.019252515865476
+2749567864,Formalising and Monitoring Traffic Rules for Autonomous Vehicles in Isabelle/HOL,2017,13,12,1,1.0,42605653,Tobias Nipkow,0,-0.34508163699214056,0.062418529115292075
+2738432103,From Semantics to Computer Science,2009,0,8,1,1.0,42605653,Tobias Nipkow,0,1.7501449279898862,0.7248104539661757
+2750689026,Formalising Traffic Rules for Autonomous Vehicles Involving Multiple Lanes in {Isabelle/HOL},2017,0,3,1,1.0,42605653,Tobias Nipkow,0,-0.39186540831982064,0.002802392740548651
+2794603918,Hoare Logics for Time Bounds,2018,20,2,1,1.0,42605653,Tobias Nipkow,0,-0.6344690654786833,-0.3674061066810344
+2785851425,Certifying machine code safety Shallow versus deep embedding,2004,0,6,1,1.0,42605653,Tobias Nipkow,0,0.007521279676277044,-0.0023634619792551105
+2811299884,Monadification Memoization and Dynamic Programming,2018,0,1,1,1.0,42605653,Tobias Nipkow,0,-1.0475124823093054,-1.7868483196645526
+2797934247,A Verified Compiler from Isabelle/HOL to CakeML,2018,36,20,1,1.0,42605653,Tobias Nipkow,0,-0.23323469309074338,0.3296874183599224
+2914836315,Formalized Proof Systems for Propositional Logic,2017,0,2,1,1.0,42605653,Tobias Nipkow,0,-0.1164726804531344,0.019252515865476
+2938655108,Logic and computationâ€”Interactive proof with Cambridge LCF,1988,0,0,1,1.0,42605653,Tobias Nipkow,0,-0.4476868650948577,-0.22235937785132315
+2954141661,From LCF to Isabelle/HOL,2019,127,0,1,1.0,42605653,Tobias Nipkow,0,-0.3631721240054224,-0.08566774039290516
+2963804531,Formalising and Monitoring Traffic Rules for Autonomous Vehicles Involving Multiple Lanes in {Isabelle/HOL},2017,0,0,1,1.0,42605653,Tobias Nipkow,0,-0.39186540831982064,0.002802392740548651
+2971627214,From LCF to Isabelle/HOL,2019,127,0,1,1.0,42605653,Tobias Nipkow,0,-0.3631721240054224,-0.08566774039290516

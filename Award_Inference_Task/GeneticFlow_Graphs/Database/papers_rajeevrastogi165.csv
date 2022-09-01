@@ -1,0 +1,80 @@
+110901978,Transcending the Serializability Requirement,1993,0,4,4,0.0,665840641,Henry F. Korth,0,1.848620476145237,1.920417192917315
+30625229,Internet Research Whats hot in Search Advertizing and Cloud Computing,2008,0,0,1,1.0,2651564987,Rajeev Rastogi,0,-0.0041099411153885,0.0447066884760059
+66242921,Proceedings of the 11th International Middleware Conference Industrial track,2010,0,2,2,0.0,2125091598,Lucy Cherkasova,0,-0.19196147509311953,0.14487620954580122
+102254938,DTD Inference from XML Documents The XTRACT Approach,2003,11,13,5,0.833333,737311942,Aristides Gionis,0,2.6455884414044726,-0.9891947746753316
+279841946,Optimal Schemes for Robust Web Extraction,2011,19,17,4,0.0,237419955,Hector Garcia Molina,0,-1.4895292879286195,-1.3027094852312457
+995043950,System and method for physically versioning data in a main memory database,1998,11,20,5,1.0,2003419062,Philip Bohannon,0,0.3746574208209275,-0.009495032441676331
+1505938248,Fine-granularity Locking and Client-Based Logging for Distributed Architectures,1996,21,9,5,0.0,360112113,Hosagrahar V. Jagadish,0,0.3715208509719942,0.15038891830252638
+1506882104,Sketch-based multi-query processing over data streams,2004,47,55,4,1.0,2074162063,Alin Dobra,0,-0.18247475817325778,0.07190497011181465
+1498906484,Enhancing pre-existing data managers with atomicity and durability,1994,6,0,2,0.0,1963493685,Marie Anne Neimat,0,0.3684688461514374,0.7703995892433441
+1555402860,A Low-Cost Storage Server for Movie on Demand Databases,1994,7,136,4,0.625,505529943,Alexandros Biliris,0,-0.12148523988669345,0.1572088724734156
+1495363570,Logical and Physical Versioning in Main Memory Databases,1997,15,35,4,1.0,2003419062,Philip Bohannon,0,0.8286466699603369,1.0027583038282522
+1548986531,SPIRIT Sequential Pattern Mining with Regular Expression Constraints,1999,13,437,3,1.0,2089290244,Minos Garofalakis,0,-1.0744725635409835,-0.35989109732291946
+1540340974,Distributed set-expression cardinality estimation,2004,23,70,4,0.725012,2089290244,Minos Garofalakis,0,-0.0041099411153885,0.0447066884760059
+1801775219,System and method for aging versions of data in a main memory database,1997,5,86,5,1.0,2003419062,Philip Bohannon,0,-0.165796457764015,-0.34570618985044876
+1823987356,Method of retrieving continuous and non-continuous media data from a file system,1994,6,39,3,1.0,1995894141,Banu Ozden,0,-0.15439584752321023,0.46142759199380223
+1775398603,Method apparatus and programmed medium for clustering databases with categorical attributes,1998,16,123,2,1.0,2161168953,Kyuseok Shim,0,-0.0041099411153885,0.0447066884760059
+1728315104,System and method for restoring a distributed checkpointed database,1996,3,141,4,1.0,2003419062,Philip Bohannon,0,3.84325735612682e-05,0.325990336465095
+1925331543,Multimedia support for databases,1997,0,2,3,1.0,1995894141,Banu Ozden,0,0.6755722744300345,0.4504478844888456
+1972013372,Mining (Social) Network Graphs to Detect Random Link Attacks,2008,29,73,3,0.0,2042129406,Anirban Majumder,0,-0.0041099411153885,0.0447066884760059
+1984911948,Exploiting content redundancy for web information extraction,2010,25,19,4,0.0,599369682,Ashwin Tengli,0,-0.35894356804564415,-0.6556062130817789
+1976557868,The architecture of the DalÃ­ main memory storage manager,1997,45,16,4,1.0,2003419062,Philip Bohannon,0,0.9483487271085493,1.0001584954464655
+1996130971,Scalable regular expression matching on data streams,2008,15,35,3,0.0,2042129406,Anirban Majumder,0,-0.42845202490949574,0.1450203979855267
+1987576733,Strict histories in object-based database systems,1993,12,15,3,0.0,665840641,Henry F. Korth,0,2.6391864925324606,0.6220565941883286
+1996510517,Cure an efficient clustering algorithm for large databases,2001,15,470,3,1.0,2135063632,Sudipto Guha,0,-0.0041099411153885,0.0447066884760059
+1991723162,Efficient Global Transaction Management in Multidatabase Systems,1993,0,1,5,0.0,665840641,Henry F. Korth,0,2.811596997913507,3.006555138847327
+1998783890,Querying and mining data streams you only get one look a tutorial,2002,31,196,3,0.116542,2083845045,Johannes Gehrke,0,-0.42845202490949574,0.1450203979855267
+1995437102,Tracking set-expression cardinalities over continuous update streams,2004,35,37,3,0.725012,2089290244,Minos Garofalakis,0,-0.5968873548230978,0.13330429838371508
+1990435265,Mining optimized support rules for numeric attributes,2001,15,20,2,1.0,2161168953,Kyuseok Shim,0,-0.0041099411153885,0.0447066884760059
+1994085050,Main-memory index structures with fixed-size partial keys,2001,22,67,2,1.0,2003419062,Philip Bohannon,0,-0.0041099411153885,0.0447066884760059
+2011829091,Mining optimized support rules for numeric attributes,1999,9,34,2,1.0,2161168953,Kyuseok Shim,0,-0.0041099411153885,0.0447066884760059
+2017616492,Multi-query optimization for sketch-based estimation,2009,27,8,4,0.649698,2074162063,Alin Dobra,0,0.30265740233268107,0.012359040392557268
+2020592463,Using codewords to protect database data from a class of software errors,1999,21,11,4,1.0,2003419062,Philip Bohannon,0,2.530068297408857,1.0572713422707447
+2047599644,Scheduling and data replication to improve tape jukebox performance,1999,12,9,2,0.0,2251809919,Abraham Silberschatz,0,0.36136228813678184,-0.19873603871814904
+2055782916,Multimedia support for databases,1997,33,13,3,1.0,1995894141,Banu Ozden,0,-0.14203939223087556,-0.34833275803544433
+2064505593,Ensuring consistency in multidatabases by preserving two-level serializability,1998,33,9,4,0.0,665840641,Henry F. Korth,0,3.1952627750687856,3.1937956931832283
+2068512092,On-line reorganization in object databases,2000,21,12,3,0.0,698016498,Mohana K. Lakhamraju,0,1.9161435046778785,0.46608889387517327
+2063899160,Globalization challenges to database community,2006,0,0,6,0.0,2113738083,Vishal Sikka,0,-0.40975864434508047,0.2110873139452707
+2076283621,A disk-based storage architecture for movie on demand servers,1995,7,14,4,0.625,505529943,Alexandros Biliris,0,-0.0041099411153885,0.0447066884760059
+2099581008,ROCK a robust clustering algorithm for categorical attributes,1999,12,318,3,1.0,2135063632,Sudipto Guha,0,-0.0041099411153885,0.0447066884760059
+2096862738,Fault-tolerant architectures for continuous media servers,1996,19,57,4,1.0,1995894141,Banu Ozden,0,-0.0041099411153885,0.0447066884760059
+2080653282,Update propagation protocols for replicated databates,1999,11,142,4,0.0,1985207418,Yuri Breitbart,0,1.1745483726498678,1.3451717400591598
+2100054890,System and method for restoring a multiple checkpointed database in view of loss of volatile memory,1996,3,80,4,1.0,2003419062,Philip Bohannon,0,0.007249164976090479,-0.3358259715391127
+2089511437,Efficient Aggregate Computation over Data Streams,2008,18,5,4,0.0,242385703,Scott Satkin,0,-0.42845202490949574,0.1450203979855267
+2104213207,Of crawlers portals mice and men is there more to mining the Web ,1999,0,5,3,1.0,2089290244,Minos Garofalakis,0,-1.7771157554390813,-1.9729621694298893
+2104236910,DTD-directed publishing with attribute translation grammars,2002,20,54,6,1.0,2016987025,Michael Benedikt,0,1.1296104103440439,-0.3318059449279227
+2129281431,Efficient algorithms for mining outliers from large data sets,2000,19,1322,2,1.0,2161168953,Kyuseok Shim,0,-0.0041099411153885,0.0447066884760059
+2126632912,RE-Tree an efficient index structure for regular expressions,2003,21,48,3,0.890083,2089290244,Minos Garofalakis,0,0.04941534788803445,-0.3635662823791845
+2129524385,Tree pattern aggregation for scalable XML data dissemination,2002,15,65,4,1.0,2089290244,Minos Garofalakis,0,1.4199066700937752,-0.5625169716143628
+2112056262,Independence is good dependency-based histogram synopses for high-dimensional data,2001,18,131,3,0.0,2002742946,Amol Deshpande,0,0.014532710543751099,0.030944858938630852
+2118411843,DataBlitz A High Performance Main-Memory Storage Manager,1994,19,90,13,0.0,665840641,Henry F. Korth,0,0.9531862003248694,0.5981179054026532
+2127454465,Client-based logging for high performance distributed architectures,1996,18,23,4,0.0,360112113,Hosagrahar V. Jagadish,0,1.0338500226239127,0.8174977394449963
+2130756530,Efficient Constraint Monitoring Using Adaptive Thresholds,2008,40,48,2,0.0,2108833852,Srinivas Kashyap,0,-0.0011975427116082311,-0.0354844225419185
+2116493296,XTRACT a system for extracting document type descriptors from XML documents,2000,23,227,4,0.833333,737311942,Aristides Gionis,0,2.9366195708771072,-1.0419506877726072
+2110557355,Approximate Query Processing Using Wavelets,2001,49,465,4,1.0,2089290244,Minos Garofalakis,0,0.30265740233268107,0.012359040392557268
+2125385131,Accelerating Lookups in P2P Systems using Peer Caching,2008,22,7,4,1.0,2225927298,Supratim Deb,0,0.21116501887154296,0.1303292959103581
+2107683037,Efficient filtering of XML documents with XPath expressions,2002,16,416,3,1.0,2089290244,Minos Garofalakis,0,2.1537522774215585,-0.8958161223546167
+2140430731,Processing set expressions over continuous update streams,2003,23,91,3,0.890083,2089290244,Minos Garofalakis,0,-0.46893397788284524,0.07728939382804885
+2140539965,Capturing both types and constraints in data integration,2003,27,51,5,1.0,2016987025,Michael Benedikt,0,2.529103166032161,-0.9124375132884993
+2131687179,CURE an efficient clustering algorithm for large databases,1998,14,1759,3,1.0,2135063632,Sudipto Guha,0,-0.0041099411153885,0.0447066884760059
+2134743705,Holistic aggregates in a networked world distributed tracking of approximate quantiles,2005,20,200,3,0.64473,2089290244,Minos Garofalakis,0,-0.0041099411153885,0.0447066884760059
+2156861447,Improving Predictability of Transaction Execution Timesin Real-time Databases,2000,33,12,4,1.0,2003419062,Philip Bohannon,0,2.78349904369423,2.832687293915944
+2163041624,Detection and recovery techniques for database corruption,2003,26,22,5,0.782337,2003419062,Philip Bohannon,0,1.815486506996736,0.6765848234933176
+2163072729,Web-scale information extraction with vertex,2011,16,59,8,0.0,599369682,Ashwin Tengli,0,-0.27781911489626165,-1.4241723891330824
+2166549373,Memory-constrained aggregate computation over data streams,2011,13,13,3,0.0,242385703,Scott Satkin,0,-0.1870756317937643,0.11475681908590946
+2148706674,Processing complex aggregate queries over data streams,2002,25,308,4,1.0,2074162063,Alin Dobra,0,-0.25435813163197396,0.09014561701533426
+2154900736,SPARTAN a model-based semantic compression system for massive data tables,2001,16,63,3,1.0,2089290244,Minos Garofalakis,0,0.5325669973310596,0.09709227568458595
+2157983163,Distributed multi-level recovery in main-memory databases,1996,18,37,5,1.0,2003419062,Philip Bohannon,0,0.48443915237456986,0.8060135306772488
+2167333415,A cost-based model and effective heuristic for repairing constraints by value modification,2005,24,297,4,0.651461,2003419062,Philip Bohannon,0,0.002782677964300463,-0.18428089706290715
+2183200033,Industrial Track Panel Globalization Challenges to Database Community,2006,0,0,5,0.0,2113738083,Vishal Sikka,0,-0.40975864434508047,0.2110873139452707
+2246669663,Programmed medium for clustering large databases,1998,21,64,2,1.0,2161168953,Kyuseok Shim,0,-0.0041099411153885,0.0447066884760059
+2219873312,WALRUS a similarity retrieval algorithm for image databases,1999,11,186,3,0.0,1992897095,Apostol Natsev,0,-0.0041099411153885,0.0447066884760059
+2214651254,Method and apparatus for detecting and recovering from data corruption of a database via read prechecking and deferred maintenance of codewords,1998,2,71,5,1.0,2003419062,Philip Bohannon,0,-0.0041099411153885,0.0447066884760059
+2273520993,Equivalence class-based method and apparatus for cost-based repair of database constraint violations,2004,7,11,4,0.720539,2003419062,Philip Bohannon,0,-0.0041099411153885,0.0447066884760059
+2299471955,Local logging in a distributed database management computer system,1997,12,118,1,1.0,2651564987,Rajeev Rastogi,0,0.4578786811838629,0.7093689450567476
+2278965508,Strict Histories in Object-Based Database,1992,0,2,3,0.0,665840641,Henry F. Korth,0,1.7862147444421785,1.9338814350050428
+2411418712,Cache management system for continuous media system,1997,5,28,4,1.0,1995894141,Banu Ozden,0,-0.0041099411153885,0.0447066884760059
+2399250805,Efficient Detection of Distributed Constraint Violations,2006,0,1,4,1.0,2225927298,Supratim Deb,0,-0.0041099411153885,0.0447066884760059
+2400162728,System and method for providing hot spare redundancy and recovery for a very large database management system,1999,17,64,2,1.0,2616945981,Abraham Silberschatz,0,0.8783799259450022,0.7920124605605747
+2914314680,Session details Research Session 13 Graphs II,2008,0,0,1,1.0,2651564987,Rajeev Rastogi,0,0.21653549757840043,-0.5710730131639082
+3021423196,Chapter 23 â€“ RE-Tree An Efficient Index Structure for Regular Expressions,2002,19,3,3,1.0,2089290244,Minos Garofalakis,0,1.5610670914265958,-0.6295415433605519

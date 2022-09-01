@@ -1,0 +1,111 @@
+171139704,Privacy Preserving OLAP by Sampling,2009,0,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+156035072,Privacy Preserving OLAP and OLAP Security,2009,21,20,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.9939220551127111,1.8588779540115148
+89836906,Capturing and Scaling Up Concurrent Transactions in Uncertain Databases,2013,34,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+197871965,Verification of partitioning and allocation techniques on teradata DBMS,2011,28,6,4,1.0,19240667,Soumia Benkrid,0,0.8128203774476669,-0.21476289616623379
+45372147,Editorial Optimization issues of querying and evolving sensor and stream databases,2014,0,1,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+164551923,Enforcing interaction and cooperation in content-based web30 applications,2012,14,0,1,1.0,294375193,Alfredo Cuzzocrea,0,0.14520558509332313,0.14086462196136026
+184460658,Retrieving accurate estimates to OLAP queries over uncertain and imprecise multidimensional data streams,2011,11,44,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+32108987,mathcal{F}&amp;mathcal{A} A Methodology for Effectively and Efficiently Designing Parallel Relational Data Warehouses on Heterogenous Database Clusters,2010,24,15,3,1.0,19240667,Soumia Benkrid,0,0.6963707533351973,0.5203176835377561
+84069390,Enhancing coverage and expressive power of spatial data warehousing modeling the SDWM approach,2012,28,2,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.21702525988331497,0.8130798444625391
+16215133,View Selection in DW and OLAP,2009,0,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+340880505,Enhancing Traditional Data Warehousing Architectures with Real-Time Capabilities,2014,15,6,1,1.0,294375193,Alfredo Cuzzocrea,0,1.306557217444705,0.8716365017385208
+343057247,OLAP* Effectively and Efficiently Supporting Parallel OLAP over Big Data,2013,20,15,1,1.0,294375193,Alfredo Cuzzocrea,0,0.6022496022478823,0.5262264732698798
+343485923,F&amp;A a methodology for effectively and efficiently designing parallel relational data warehouses on heterogenous database clusters,2010,21,11,3,1.0,19240667,Soumia Benkrid,0,0.433931864504433,0.29127422242752193
+849935344,Real-Time Data Warehousing A Rewrite/Merge Approach,2014,17,2,1,1.0,294375193,Alfredo Cuzzocrea,0,0.4731966569401162,0.3119267144422686
+256194962,Efficient Frequent Itemset Mining from Dense Data Streams,2014,30,7,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.5968873548230978,0.13330429838371508
+1542779742,Analytical Synopses for Approximate Query Answering in OLAP Environments,2004,16,35,2,0.0,68753767,Ugo Matrangolo,0,-0.024022418280719205,0.5837877543071334
+1534344559,Grid-VirtuE A Layered Architecture for Grid Virtual Enterprises,2007,15,1,1,1.0,294375193,Alfredo Cuzzocrea,0,0.11627582886789564,0.3621724021946999
+1552598312,Cloud-Based OLAP over Big Data Application Scenarios and Performance Analysis,2015,17,1,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.1465649585622898,0.8300932123358719
+1481800082,Multiple-Objective Compression of Data Cubes in Cooperative OLAP Environments,2008,59,3,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+1571314868,Efficient fragmentation of large XML documents,2007,22,37,2,0.238071,140057078,Angela Bonifati,0,2.2264543832113666,-0.864750789273662
+1517173493,A Multidimensional Approach for Modelling and Supporting Adaptive Hypermedia Systems,2001,14,9,2,0.0,146717607,Mario Cannataro,0,0.15510932533656865,-0.3596397729171566
+1522230076,A hierarchy-driven compression technique for advanced OLAP visualization of multidimensional data cubes,2006,31,38,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.23419922643658547,0.6869815209762631
+1605226271,A Robust Sampling-Based Framework for Privacy Preserving OLAP,2008,35,49,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+1932777660,XlPPX a lightweight framework for privacy preserving P2P XML databases in very large publish-subscribe systems,2007,25,3,2,0.238071,140057078,Angela Bonifati,0,2.3394384485594557,-0.9699754374493135
+1587458154,CAMS OLAPing Multidimensional Data Streams Efficiently,2009,24,39,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.5264320162648638,0.8442567299704455
+1589949964,A Probabilistic Approach for Computing Approximate Iceberg Cubes,2008,17,2,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+1590291061,Managing uncertainty in databases and scaling it up to concurrent transactions,2012,34,1,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0873632243068517,-0.0824034282341078
+1695121382,Graph-based matching of composite OWL-S services,2011,19,2,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.5922981902788301,-0.38115543853932077
+1583841428,Answering Approximate Range Aggregate Queries on OLAP Data Cubes with Probabilistic Guarantees,2004,12,5,2,0.0,68753767,Ugo Matrangolo,0,-0.13106134753319365,0.6911466331610907
+1784787645,Efficiently computing and querying multidimensional OLAP data cubes over probabilistic relational data,2010,37,6,1,1.0,294375193,Alfredo Cuzzocrea,0,0.9000313647892977,0.44562187703943595
+1593719300,An OLAM-based framework for complex knowledge pattern discovery in distributed-and-heterogeneous-data-sources and cooperative information systems,2007,39,3,1,1.0,294375193,Alfredo Cuzzocrea,0,0.11627582886789564,0.3621724021946999
+1966242258,Searching semantic data warehouses models issues architectures,2012,48,4,2,0.0,24841185,Alkis Simitsis,0,-0.0041099411153885,0.0447066884760059
+1968013979,A Cloud-Based Framework for Supporting Effective and Efficient OLAP in Big Data Environments,2014,24,6,1,1.0,294375193,Alfredo Cuzzocrea,0,0.46471514697685495,1.3600752078678222
+1969845203,A family of graph-theory-driven algorithms for managing complex probabilistic graph data efficiently,2011,5,1,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+1992762761,Enhanced clustering of complex database objects in the clustcube framework,2012,13,2,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.18512270653736992,0.7819298904195829
+2005261863,Event-based lossy compression for effective and efficient OLAP over data streams,2010,89,40,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.5264320162648638,0.8442567299704455
+1996879540,Effectively and efficiently selecting access control rules on materialized views over relational databases,2010,23,12,1,1.0,294375193,Alfredo Cuzzocrea,0,2.070456360580844,0.3739727654646681
+2004130445,The FaA Methodology and Its Experimental Validation on a Real-Life Parallel Processing Database System,2012,29,4,4,1.0,19240667,Soumia Benkrid,0,0.16400777191514274,0.35153424095284647
+2000731659,Towards OLAP Analysis of Multidimensional Tweet Streams,2015,23,8,2,0.0,133035438,Giuseppe Fenza,0,-0.5548594216986759,0.8461617082775836
+1994252940,Enhancing accuracy and expressive power of range query answers over incomplete spatial databases via a novel reasoning approach,2011,35,9,1,1.0,294375193,Alfredo Cuzzocrea,0,0.7571561293782778,0.146403147438482
+2019199662,Storing and retrieving XPath fragments in structured P2P networks,2006,40,32,2,0.238071,140057078,Angela Bonifati,0,2.329041060101414,-0.8403045434902847
+2024487056,Record Linkage in Data Warehousing State-of-the-Art Analysis and Research Perspectives,2011,35,4,1,1.0,294375193,Alfredo Cuzzocrea,0,0.433931864504433,0.29127422242752193
+2028439174,Improving range-sum query evaluation on data cubes via polynomial approximation,2006,39,36,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.16328011374660287,0.9890247327765609
+2021668342,Privacy Preserving OLAP over Distributed XML Data A Theoretically-Sound Secure-Multiparty-Computation Approach,2011,87,29,1,1.0,294375193,Alfredo Cuzzocrea,0,0.39879733714032406,0.2752750572596845
+2026890411,Data warehousing and knowledge discovery from sensors and streams,2011,0,3,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.25470145483893536,0.13568915419868804
+2034829411,Data warehousing and OLAP over big data current challenges and future research directions,2013,31,76,2,0.0,158375695,Ladjel Bellatreche,0,-0.08825294593514961,0.9763550827659406
+2035165235,Effectively and Efficiently Designing and Querying Parallel Relational Data Warehouses on Heterogeneous Database Clusters The F&amp;A Approach,2012,39,15,3,1.0,19240667,Soumia Benkrid,0,0.433931864504433,0.29127422242752193
+2047896075,Balancing accuracy and privacy of OLAP aggregations on data cubes,2010,13,51,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+2044816773,OLAP Over Uncertain and Imprecise Data Fundamental Issues and Novel Research Perspectives,2010,40,2,1,1.0,294375193,Alfredo Cuzzocrea,0,0.8580265715279385,0.5903532323191517
+2068499026,Editorial Advances in Managing Updating and Querying Uncertain and Imprecise Sensor and Stream Databases,2013,0,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+2072847024,Providing probabilistically-bounded approximate answers to non-holistic aggregate range queries in OLAP,2005,28,50,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.222992084129287,0.6940237624730149
+2084069023,H-IQTS a semantics-aware histogram for compressing categorical OLAP data,2008,16,1,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+2097027644,High-Performance Data Management and Efficient Aggregate Query Answering on Environmental Sensor Networks by Computational Grids,2008,17,1,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0384882933933542,0.2232571860310541
+2081307663,Analytics over large-scale multidimensional data the big data revolution ,2011,12,229,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.08825294593514961,0.9763550827659406
+2104057614,Delivering Semantics-aware Compressed OLAP Views in Mobile Environments with Hand-OLAP,2009,21,3,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+2101128846,Community Detection in Multi-relational Social Networks,2013,26,38,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+2091959875,LCS -Hist taming massive high-dimensional data cube compression,2009,22,43,1,1.0,294375193,Alfredo Cuzzocrea,0,0.5778664959149404,0.03168145529528797
+2086757488,Effectively and efficiently supporting crowd-enabled databases via NoSQL paradigms,2013,6,0,3,0.0,20413438,Giuseppe Psaila,0,-0.31356579300939313,-1.18571345880457
+2098900550,Implementing BFS-based Traversals of RDF Graphs over MapReduce Efficiently,2013,17,3,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.2146604900420487,0.3580009059218388
+2083613280,ClustCube an OLAP-based framework for clustering and mining complex database objects,2011,15,9,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.11538461617226003,0.5815464315834246
+2141208812,Towards a Lightweight Framework for Privacy Preserving P2P XML Databases,2006,10,0,2,0.238071,140057078,Angela Bonifati,0,2.5048349343683918,-0.9756256283167938
+2115556734,Reasoning on Incompleteness of Spatial Information for Effectively and Efficiently Answering Range Queries over Incomplete Spatial Databases,2009,17,2,1,1.0,294375193,Alfredo Cuzzocrea,0,1.062325064866122,0.30297760710625754
+2124612611,A secure multiparty computation privacy preserving OLAP framework over distributed XML data,2010,34,15,1,1.0,294375193,Alfredo Cuzzocrea,0,0.39879733714032406,0.2752750572596845
+2124910756,Pushing knowledge management in Web information systems engineering,2004,14,4,1,1.0,294375193,Alfredo Cuzzocrea,0,-1.5705945116334015,-1.5910768380851428
+2140613055,$mathcal{I}$-SQE A Query Engine for Answering Range Queries over Incomplete Spatial Databases,2009,16,2,1,1.0,294375193,Alfredo Cuzzocrea,0,0.9381513211721246,0.17870817694778857
+2144823905,Approximate OLAP Query Processing over Uncertain and Imprecise Multidimensional Data Streams,2013,23,6,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+2145132094,Overcoming limitations of approximate query answering in OLAP,2005,33,38,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+2145288124,Cubing Algorithms for XML Data,2009,37,5,1,1.0,294375193,Alfredo Cuzzocrea,0,0.1414088353585513,0.5354403081130333
+2154792888,Synopsis Data Structures for XML Databases Models Issues and Research Perspectives,2007,43,7,2,0.238071,140057078,Angela Bonifati,0,1.9436895218447319,-0.7805760838674662
+2152561460,Accuracy Control in Compressed Multidimensional Data Cubes for Quality of Answer-based OLAP Tools,2006,23,38,1,1.0,294375193,Alfredo Cuzzocrea,0,0.07470481248552215,0.46041905177433196
+2167529291,Skyline Query Processing over Encrypted Data An Attribute-Order-Preserving-Free Approach,2014,39,9,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.08475520786359943,0.22260606200390315
+2155642420,Privacy preserving OLAP Models issues algorithms,2011,23,4,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.16328011374660287,0.9890247327765609
+2171107582,Privacy Preserving OLAP over Distributed XML Documents,2009,40,2,1,1.0,294375193,Alfredo Cuzzocrea,0,0.14152255949485296,0.4760283906307261
+2252561202,Semantics Meets Big Data Formal Models Practical Issues Novel Paradigms,2016,0,3,1,1.0,294375193,Alfredo Cuzzocrea,0,0.06635930819191084,0.49152641060504293
+2205943350,Multidimensional database design via schema transformation turning TPC H into the TPC H*d multidimensional benchmark,2013,18,5,1,1.0,294375193,Alfredo Cuzzocrea,0,1.0088432284897622,1.5606354488551855
+2217108729,Advances in data warehousing and OLAP in the big Data Era,2015,0,3,2,0.0,158375695,Ladjel Bellatreche,0,-0.08825294593514961,0.9763550827659406
+2275237982,AutoMDB a framework for automated multidimensional database design via schema transformation,2013,3,3,1,1.0,294375193,Alfredo Cuzzocrea,0,1.8467525503960822,0.680039079084847
+2293843830,Mining Popular Patterns A Novel Mining Problem and Its Application to Static Transactional Databases and Dynamic Data Streams,2015,33,6,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.751123307603166,-0.3851763060963779
+2336214987,A DBMS-Based System for Integrating Grids and Clouds Anatomy Models Functionalities,2016,20,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+2401461535,SLEMAS an approach for selecting materialized views under query scheduling constraints,2014,26,5,3,0.0,151564571,Ahcene Boukorca,0,2.3590125520339877,0.5561963048272884
+2407311848,SDWM An Enhanced Spatial Data Warehouse Metamodel,2012,13,1,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+2407750712,A Constraint-Based Framework for Computing Privacy Preserving OLAP Aggregations on Data Cubes,2011,10,1,1,1.0,294375193,Alfredo Cuzzocrea,0,0.0508016152731842,0.754207828572233
+2399928702,Modeling and Managing Uncertainty in Concurrent Database Transactions,2012,0,0,1,1.0,294375193,Alfredo Cuzzocrea,0,0.38009049917121435,0.45246057348231067
+2394998001,A pattern-oriented approach for supporting ETL conceptual modelling and its YAWL-based implementation,2014,0,2,1,1.0,294375193,Alfredo Cuzzocrea,0,0.11627582886789564,0.3621724021946999
+2408640876,Computing Privacy Preserving OLAP Aggregations on Data Cubes A Constraint-Based Approach ,2011,0,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+2395382225,Computing OLAP Aggregates over Multidimensional Data Streams Efficiently (Extended Abstract),2010,0,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+2482205656,OLAP over Uncertain and Imprecise Data Streams,2014,35,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.5264320162648638,0.8442567299704455
+2496710539,Searching Semantic Data Warehouses,2015,43,0,1,1.0,294375193,Alfredo Cuzzocrea,0,0.06635930819191084,0.49152641060504293
+2489896993,Editorial Pushing artificial intelligence in database and data warehouse systems,2011,0,1,1,1.0,294375193,Alfredo Cuzzocrea,0,0.11627582886789564,0.3621724021946999
+2476049229,Improving OLAP analysis of multidimensional data streams via efficient compression techniques,2009,49,4,2,0.0,238197960,Elio Masciari,0,-0.3632509700454942,1.1437180412081445
+2499487302,Privacy Preserving OLAP Data Cubes,2014,31,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+2485924698,Synopsis Data Structures for Representing Querying and Mining Data Streams,2009,6,4,1,1.0,294375193,Alfredo Cuzzocrea,0,0.34039630218257794,0.1324409836770353
+2479258387,Incorporating Clustering into Set Similarity Join Algorithms The SjClust Framework,2016,25,3,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+2486855724,Innovative Access and Query Schemes for Mobile Databases and Data Warehouses,2009,6,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.6862761416217383,1.5640679944869844
+2519770961,An Innovative Framework for Effectively and Efficiently Supporting Big Data Analytics over Geo-Located Mobile Social Media,2016,28,7,2,0.0,20413438,Giuseppe Psaila,0,-1.1827367149308514,-0.8784169284375828
+2575460263,Computing Skylines over Encrypted Data in Cloud Environments,2016,0,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+2584704777,Private databases on the cloud Models issues and research perspectives,2016,41,5,1,1.0,294375193,Alfredo Cuzzocrea,0,0.06635930819191084,0.49152641060504293
+2528275513,Clustering Geo-tagged Tweets for Advanced Big Data Analytics,2016,25,11,2,0.0,20413438,Giuseppe Psaila,0,0.06635930819191084,0.49152641060504293
+2613866931,On semantically -augmented XML-based P2P information systems,2006,0,0,1,1.0,294375193,Alfredo Cuzzocrea,0,2.204516257808672,-0.9030423910738197
+2625096722,Taming Size and Cardinality of OLAP Data Cubes over Big Data,2017,25,0,1,1.0,294375193,Alfredo Cuzzocrea,0,0.8867512888834889,1.5151707693813035
+2603834345,Strategies and systems towards grids and clouds integration A DBMS-based solution,2017,29,10,1,1.0,294375193,Alfredo Cuzzocrea,0,0.4337513914617648,-0.030940431688758745
+2616364602,Semantics-Aware Approaches to Big Data Engineering,2017,0,1,1,1.0,294375193,Alfredo Cuzzocrea,0,0.06635930819191084,0.49152641060504293
+2764229891,Intelligent Techniques for Warehousing and Mining Sensor Network Data,2009,0,13,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.0041099411153885,0.0447066884760059
+2802577003,OLAP over XLM Data,2014,35,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.3632509700454942,1.1437180412081445
+2795252819,PP-OMDS An Effective and Efficient Framework for Supporting Privacy-Preserving OLAP-based Monitoring of Data Streams,2018,0,0,2,1.0,6249548,Gianni Vercelli,0,-0.5264320162648638,0.8442567299704455
+2809297885,An innovative lambda-architecture-based data warehouse maintenance framework for effective and efficient near-real-time OLAP over big data,2018,44,2,2,1.0,6249548,Gianni Vercelli,0,0.6976583548785814,1.1684849420231795
+2914133589,Proceedings of the sixteenth international workshop on Data warehousing and OLAP,2013,0,0,2,0.0,158375695,Ladjel Bellatreche,0,0.6966770333461094,0.9585782860676206
+2965053501,Privacy-Preserving OLAP-Based Monitoring of Data Streams The PP-OMDS Approach,2019,0,0,3,1.0,6249548,Gianni Vercelli,0,-0.5264320162648638,0.8442567299704455
+2991764795,Extending Big Data Management via Semantics Recent Innovations,2020,5,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.23024233734304553,1.145538233903514
+2968704279,Urban Analytics of Big Transportation Data for Supporting Smart Cities,2019,27,0,1,1.0,294375193,Alfredo Cuzzocrea,0,0.06635930819191084,0.49152641060504293
+3007722813,Big Data Management and Analytics in Intelligent Smart Environments State-of-the-Art Analysis and Future Research Directions,2019,29,0,1,1.0,294375193,Alfredo Cuzzocrea,0,-0.23024233734304553,1.145538233903514

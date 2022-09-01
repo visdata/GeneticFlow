@@ -1,0 +1,65 @@
+42746210,Mining complex databases using the EM algorithm,2000,0,1,1,1.0,2165938062,Carlos Ordonez,0,-0.0041099411153885,0.0447066884760059
+234628205,OntoDBench Interactively Benchmarking Ontology Storage in a Database,2013,10,4,5,0.0,158375695,Ladjel Bellatreche,0,1.1651919570274625,0.23282016599569924
+1508608059,A Referential Integrity Browser for Distributed Databases,2009,2,1,3,1.0,2000714168,Javier GarcÃ­a GarcÃ­a,0,0.9742361660652838,0.12217315064733723
+1712510069,Method for performing clustering in very large databases,2000,5,30,2,0.0,1717497915,Paul M. Cereghini,0,0.8342777435886438,0.19253312391631258
+1593671122,Data set preprocessing and transformation in a database system,2011,18,37,1,1.0,2165938062,Carlos Ordonez,0,0.6813476389270348,0.3920006410036436
+1966669464,Interactive exploration and visualization of OLAP cubes,2011,16,9,3,1.0,2000714168,Javier GarcÃ­a GarcÃ­a,0,-0.7154177269494895,1.3930074722707522
+1977592330,Integrating and querying web databases and documents,2011,11,1,2,1.0,2016997139,Carlos Garcia Alvarado,0,1.4352671077233186,0.5339324218508187
+1981545587,Extending ER models to capture database transformations to build data sets for data mining,2014,23,9,4,0.833333,20381947,Sofian Maabout,0,2.1873739785833552,0.43464320152559255
+1983306134,Fast UDFs to compute sufficient statistics on large data sets exploiting caching and sampling,2010,42,7,2,0.0,1279125115,Sasi K. Pitchaimalai,0,-1.0199084770362854,2.513984845854494
+1989347482,Optimizing OLAP cube processing on solid state drives,2013,11,1,2,1.0,2140957555,Zhibo Chen,0,-0.5265258866548668,0.8366208811359953
+1991154551,Clustering cubes with binary dimensions in one pass,2013,21,2,2,1.0,2016997139,Carlos Garcia Alvarado,0,0.1878066461706768,-0.45186037243451455
+2005338813,DOLAP 2015 Workshop Summary,2015,13,0,3,1.0,2016997139,Carlos Garcia Alvarado,0,0.05857979055911599,0.5525398054294769
+1990388336,Horizontal aggregations for building tabular data sets,2004,24,27,1,1.0,2165938062,Carlos Ordonez,0,0.6867297594273624,0.09137016561211915
+1994212309,Estimating and bounding aggregations in databases with referential integrity errors,2008,13,3,2,1.0,2000714168,Javier GarcÃ­a GarcÃ­a,0,0.7113654565813324,0.46411031944067144
+2026105716,Querying external source code files of programs connecting to a relational database,2012,17,1,3,0.0,107785677,Veerabhadran Baladandayuthapani,0,2.5766357946841265,0.09467655512673494
+2030110700,Repairing OLAP queries in databases with referential integrity errors,2010,12,6,2,1.0,2000714168,Javier GarcÃ­a GarcÃ­a,0,0.6114920736055559,0.4328982367432395
+2026666064,Database systems research on data mining,2010,4,9,2,1.0,2000714168,Javier GarcÃ­a GarcÃ­a,0,0.555284040496271,0.17514194913986017
+2014603610,Dynamic optimization of generalized SQL queries with horizontal aggregations,2012,6,1,3,1.0,2000714168,Javier GarcÃ­a GarcÃ­a,0,0.056824365325626756,0.7778650912235874
+2012844423,Recursive Query Evaluation in a Column DBMS to Analyze Large Graphs,2014,28,2,1,1.0,2165938062,Carlos Ordonez,0,0.6447518738862408,0.388183119702331
+2014651376,Can we analyze big data inside a DBMS,2013,41,17,1,1.0,2165938062,Carlos Ordonez,0,0.15067103863402517,0.22926190266889446
+2032480486,Keyword search across databases and documents,2010,17,6,2,1.0,2016997139,Carlos Garcia Alvarado,0,2.4957208844081302,0.5605646442201331
+2016704849,Measuring referential integrity in distributed databases,2007,9,12,3,1.0,2000714168,Javier GarcÃ­a GarcÃ­a,0,1.792408550934488,0.2504510202114905
+2022123864,Query recommendation in digital libraries using OLAP,2010,4,3,3,1.0,2016997139,Carlos Garcia Alvarado,0,0.0908845357243609,0.31128747720343375
+2018639042,One-pass data mining algorithms in a DBMS with UDFs,2011,4,6,2,0.0,1279125115,Sasi K. Pitchaimalai,0,-0.21990431759085927,0.9860114302761765
+2045466225,Vertical and horizontal percentage aggregations,2004,25,41,1,1.0,2165938062,Carlos Ordonez,0,0.33093673663702494,0.257094250820167
+2033273035,A data mining system based on SQL queries and UDFs for relational databases,2011,10,4,2,1.0,2016997139,Carlos Garcia Alvarado,0,0.8602143050137133,0.24335300107018712
+2038607816,Efficient OLAP with UDFs,2008,16,17,2,1.0,2140957555,Zhibo Chen,0,-0.3916075749545552,0.5944260591678325
+2054638878,Clustering binary data streams with K-means,2003,26,156,1,1.0,2165938062,Carlos Ordonez,0,-0.42845202490949574,0.1450203979855267
+2041032862,Optimizing recursive queries in SQL,2005,11,28,1,1.0,2165938062,Carlos Ordonez,0,-0.37234153596828673,0.21448111272728818
+2061068156,Florida International University High Performance Database Research Center,1995,10,9,4,0.0,312223284,Cyril U. Orji,0,-0.0041099411153885,0.0447066884760059
+2066623533,Clustering binary cube dimensions to compute relaxed GROUP BY aggregations,2015,37,1,2,1.0,2016997139,Carlos Garcia Alvarado,0,0.1878066461706768,-0.45186037243451455
+2060220453,Fast and dynamic OLAP exploration using UDFs,2009,4,9,3,1.0,2016997139,Carlos Garcia Alvarado,0,-0.21089076172263962,0.7559440458304127
+2058494157,Building statistical models and scoring with UDFs,2007,22,31,1,1.0,2165938062,Carlos Ordonez,0,0.5926672376270955,0.3200753809828629
+2060479025,ONTOCUBO cube-based ontology construction and exploration,2014,8,1,2,1.0,2016997139,Carlos Garcia Alvarado,0,0.38645496940764223,0.744622447129626
+2065896400,Fast PCA computation in a DBMS with aggregate UDFs and LAPACK,2012,5,3,3,0.0,1218302787,Naveen Mohanam,0,0.044859856903840555,0.012551371775477651
+2071314222,Relational versus non-relational database systems for data warehousing,2010,5,15,3,1.0,2016997139,Carlos Garcia Alvarado,0,1.3772459200479292,0.22562766076179713
+2093084489,Consistency-aware evaluation of OLAP queries in replicated data warehouses,2009,14,4,2,1.0,2000714168,Javier GarcÃ­a GarcÃ­a,0,-0.07967663019023248,0.7563569467930357
+2086373357,Query processing on cubes mapped from ontologies to dimension hierarchies,2012,17,5,2,1.0,2016997139,Carlos Garcia Alvarado,0,0.1091429126523972,0.604327500096101
+2138043853,Integrating and querying source code of programs working on a database,2012,16,2,2,1.0,2016997139,Carlos Garcia Alvarado,0,1.999685486817026,0.7214848719351178
+2117346066,Validating expert system rule confidences using data mining of myocardial perfusion SPECT databases,2000,8,11,2,0.0,2034954149,Norberto Ezquerra,0,0.5325669973310596,0.09709227568458595
+2116279173,Extended aggregations for databases with referential integrity issues,2010,34,12,2,1.0,2000714168,Javier GarcÃ­a GarcÃ­a,0,0.4468041048706391,0.23169270548881687
+2168813690,Microarray data analysis with PCA in a DBMS,2008,18,5,1,1.0,2165938062,Carlos Ordonez,0,0.044859856903840555,0.012551371775477651
+2169245883,DBDOC querying and browsing databases and interrelated documents,2009,3,2,3,1.0,2016997139,Carlos Garcia Alvarado,0,0.6365221905956775,-0.11043865744105912
+2151525432,Data mining algorithms as a service in the cloud exploiting relational database systems,2013,5,5,4,0.0,107785677,Veerabhadran Baladandayuthapani,0,2.4352571522483886,0.8063191446297525
+2188806831,Linear Algebra Processing Inside a Database Management System,2011,2,0,3,0.0,1218302787,Naveen Mohanam,0,1.841151867533197,0.5155836375504033
+2228727591,Computing percentages in a database system,2003,14,4,1,1.0,2165938062,Carlos Ordonez,0,0.3799054506293388,-0.15396955400937015
+2206925937,SQLEM fast clustering in SQL using the EM algorithm,2000,17,57,2,0.0,1717497915,Paul M. Cereghini,0,0.8474569592577559,0.18232751770610903
+2282857225,Horizontal implementation of expectation-maximization algorithm in SQL for performing clustering in very large databases,2000,5,20,2,0.0,1717497915,Paul M. Cereghini,0,0.8342777435886438,0.19253312391631258
+2342499712,Comparing columnar row and array DBMSs to process recursive queries on graphs,2017,32,11,2,1.0,2142995581,Wellington Cabrera,0,0.6155478065179413,0.11060546636944554
+2475898698,Managing Big Data Analytics Workflows with a Database System,2016,16,2,2,1.0,2000714168,Javier GarcÃ­a GarcÃ­a,0,0.6453301137619551,0.6175981772984525
+2463247677,Preface Special Issue of DOLAP 2010 Information Systems,2012,0,1,2,0.0,2148782644,Il Yeol Song,0,-0.0041099411153885,0.0447066884760059
+2494046494,Big Data Analytics Integrating a Parallel Columnar DBMS and the R Language,2016,5,5,2,1.0,2142995581,Wellington Cabrera,0,0.07551609043563044,0.3211496254283451
+2539244828,EnerQuery Energy-Aware Query Processing,2016,5,10,3,0.0,158375695,Ladjel Bellatreche,0,0.8809340701863815,0.11633144593696097
+2554268066,Energy-Aware Query Processing on a Parallel Database Cluster Node,2016,13,2,3,0.0,158375695,Ladjel Bellatreche,0,1.1723431107225197,0.27582976515816954
+2548069050,Skycube Materialization Using the Topmost Skyline or Functional Dependencies,2016,37,4,3,0.833333,20381947,Sofian Maabout,0,0.9821345623268515,0.03351232786622416
+2599712850,Special issue on DOLAP 2015 Evolving data warehousing and OLAP cubes to big data analytics,2017,8,0,3,1.0,2016997139,Carlos Garcia Alvarado,0,-0.08825294593514961,0.9763550827659406
+2741016512,Integrating the R Language Runtime System with a Data Stream Warehouse,2017,17,2,2,0.0,1883352601,Simon Urbanek,0,0.6840210350993636,0.2607526972431758
+2757954435,A Cloud System for Machine Learning Exploiting a Parallel Array DBMS,2017,5,1,1,1.0,2165938062,Carlos Ordonez,0,0.06938159227495509,0.37828542406047144
+2760685924,A Tool for Statistical Analysis on Network Big Data,2017,10,0,2,0.0,1883352601,Simon Urbanek,0,0.8266483623517606,0.18931489170830365
+2807483599,Scalable machine learning computing a data summarization matrix with a parallel array DBMS,2019,28,2,2,0.0,565410964,S. Lennart Johnsson,0,-0.0041099411153885,0.0447066884760059
+2849741571,ETL-aware materialized view selection in semantic data stream warehouses,2018,37,1,2,1.0,349182595,Nabila Berkani,0,0.5081006518827508,0.8275503991328893
+2885964559,A Survey on Parallel Database Systems from a Storage Perspective Rows Versus Columns,2018,36,0,2,0.0,158375695,Ladjel Bellatreche,0,0.8076075256285044,1.0234027580218825
+2930523474,Value-driven Approach for Designing Extended Data Warehouses,2019,0,2,4,0.0,158375695,Ladjel Bellatreche,0,0.11627582886789564,0.3621724021946999
+2983883085,Big Data Analytics Exploring Graphs with Optimized SQL Queries,2018,0,0,2,0.0,158375695,Ladjel Bellatreche,0,0.07551609043563044,0.3211496254283451
+3007462876,The contribution of linked open data to augment a traditional data warehouse,2020,39,0,4,0.0,158375695,Ladjel Bellatreche,0,0.20125835538799933,0.280132427527206

@@ -1,0 +1,77 @@
+41280536,Automatic Approach for Synergistic Verification and Validation,2010,23,0,2,0.0,135488700,Andrei Soeanu,0,1.073546311951081,-0.2472611724312738
+76570800,A Semantic Theory for ML Higher-Order Concurrency Primitives,1997,0,7,1,1.0,343755398,Mourad Debbabi,0,0.029808355405741043,-0.8059273696563153
+7959427,Unified Modeling Language,2010,5,2,2,0.0,135488700,Andrei Soeanu,0,2.6297278767005166,-1.2431094404443983
+128386091,A high-level aspect-oriented based language for software security hardening,2007,7,8,1,1.0,343755398,Mourad Debbabi,0,2.800281103149953,-0.7552565536944356
+9154768,Soundness of the Translation Algorithm,2010,13,0,2,0.0,135488700,Andrei Soeanu,0,0.9543687054484199,-0.268353749982426
+95001664,Probabilistic Model Checking of SysML Activity Diagrams,2010,12,5,2,0.0,135488700,Andrei Soeanu,0,1.0807657412013743,-0.7386499850540453
+45931351,Semantic Foundations of SysML Activity Diagrams,2010,9,0,2,0.0,135488700,Andrei Soeanu,0,1.4293258153974866,-0.6621368270424863
+30002505,Verification and Validation of UML Behavioral Diagrams,2010,4,0,2,0.0,135488700,Andrei Soeanu,0,2.121578561831337,-1.0599939556706393
+132865698,Formally Specifying Operational Semantics and Language Constructs of Forensic Lucid,2008,0,21,2,0.512821,113391304,Serguei A. Mokhov,0,-0.3067241602327709,-0.17921663498781576
+31473948,A Concurrent Specification Language over CML,1995,0,0,1,1.0,343755398,Mourad Debbabi,0,1.1768691674452143,-0.463765417914483
+168640152,Static Detection of Malicious Code in Executable Programs,2000,8,153,2,1.0,277769343,Nadia Tawbi,0,-0.4030659940082456,0.009727755485802736
+993143770,A formal dynamic semantics of Java an essential ingredient of Java security,2002,15,1,2,1.0,277769343,Nadia Tawbi,0,-3.158481656257109,0.31199397322849853
+253810439,Verification Validation and Accreditation,2010,82,0,2,0.0,135488700,Andrei Soeanu,0,1.7509499451733597,-1.4232432959874166
+1568032801,A Synergy Between Model-Checking and Type Inference for the Verification of Value-Passing Higher-Order Processes,1999,26,3,1,1.0,343755398,Mourad Debbabi,0,-0.1164726804531344,0.019252515865476
+1568724472,A formal verification framework for Bluespec System Verilog,2013,9,10,2,1.0,55879637,Samir Ouchani,0,1.046761313948404,-0.49547249029933793
+1525015788,Game semantics model for security protocols,2005,20,1,1,1.0,343755398,Mourad Debbabi,0,-0.0858108722570497,0.3118956755355936
+1535846614,A Hybrid Approach for Safe Memory Management in C,2008,11,3,1,1.0,343755398,Mourad Debbabi,0,-1.270466417250939,-0.626129351804008
+1537921975,Towards a formal semantics for aspectj weaving,2006,11,2,1,1.0,343755398,Mourad Debbabi,0,1.1997530579510491,0.2901954309183018
+1529395937,Formalizing AspectJ Weaving for Static Pointcuts,2006,7,6,1,1.0,343755398,Mourad Debbabi,0,0.4254347634510439,-0.01653519342185325
+1485689345,Secure Self-certified Code for Java,2002,18,0,2,1.0,277769343,Nadia Tawbi,0,-2.9870048585751503,0.2617386218890804
+1444150450,Aspect weaving in UML activity diagrams a semantic and algorithmic framework,2010,16,6,2,1.0,255619024,Dima Alhadidi,0,1.8442977459433345,-0.9341369935084104
+1548677193,A Semantic Theory for Concurrent ML,1994,24,5,1,1.0,343755398,Mourad Debbabi,0,-0.1806164563517082,-0.18033171048170904
+1952910495,Static analysis of binary code to isolate malicious behaviors,1999,8,80,1,1.0,343755398,Mourad Debbabi,0,0.6160834478049408,-0.7759667489974659
+1738841322,A Type-Based Algorithm for the Control-Flow Analysis of Higher-Order Concurrent Programs,1996,18,1,2,1.0,277769343,Nadia Tawbi,0,0.6485846649164487,-1.049458923168252
+1630476232,A Security Hardening Language Based on Aspect-Orientation,2007,8,0,1,1.0,343755398,Mourad Debbabi,0,2.4900988805359447,-0.6212141678599449
+1607134907,A New Logic for Electronic Commerce Protocols,2000,50,35,1,1.0,343755398,Mourad Debbabi,0,-0.08237915768425336,0.5012424143904212
+1581750585,A Coherent Type System for a Concurrent Functional and Imperative Programming Language,1993,13,8,1,1.0,343755398,Mourad Debbabi,0,2.4754539310060726,-0.6231403562023133
+1779974843,BinComp A stratified approach to compiler provenance Attribution *,2015,16,13,1,1.0,343755398,Mourad Debbabi,0,-2.010807784301872,-0.646759183467799
+1727930155,Towards Automated Deduction in Blackmail Case Analysis with Forensic Lucid,2009,18,1,2,0.512821,113391304,Serguei A. Mokhov,0,-0.21003731568371659,-0.08080390277701963
+1966342467,A Formal Type System for Java,2007,15,3,1,1.0,343755398,Mourad Debbabi,0,-2.830338686213612,0.3558246357109575
+1969883114,New AspectJ Pointcuts for Integer Overflow and Underflow Detection,2008,12,1,2,1.0,255619024,Dima Alhadidi,0,0.7712592818932504,0.15261006328694507
+1965275787,a synergy between efficient interpretation and fast selective dynamic compilation for the acceleration of embedded Java virtual machines,2004,15,4,1,1.0,343755398,Mourad Debbabi,0,-2.2815107478078764,-0.5474098765378307
+1968846143,Common weaving approach in mainstream languages for software security hardening,2013,51,0,2,1.0,255619024,Dima Alhadidi,0,-0.08972127954576578,-0.041964964616826916
+1983447928,The dataflow pointcut a formal and practical framework,2009,25,8,2,1.0,255619024,Dima Alhadidi,0,0.9743933678239571,-0.14411298404164558
+1999640630,Usability of security specification approaches for UML design A survey,2009,23,14,1,1.0,343755398,Mourad Debbabi,0,2.5410263649587046,-1.0463132151253958
+1993902337,From CML to a Model-Based Concurrent Specification Language,1996,29,0,1,1.0,343755398,Mourad Debbabi,0,0.5058943984644567,-1.0900457266665922
+2015875073,Towards a self-forensics property in the ASSL toolset,2010,37,6,2,0.313759,113391304,Serguei A. Mokhov,0,-0.3784940737914046,-0.06431111057351473
+2012369158,A game-theoretic framework for specification and verification of cryptographic protocols,2010,30,1,1,1.0,343755398,Mourad Debbabi,0,-0.27728081528654513,-0.17552978205252823
+2019827508,Aspect-Oriented Semantic Framework for Executable Models,2013,11,0,1,1.0,343755398,Mourad Debbabi,0,1.9427081842879583,-0.6630755645146887
+2028605530,A property-based abstraction framework for SysML activity diagrams,2014,32,9,2,1.0,55879637,Samir Ouchani,0,1.475878164015086,-0.7884704063180868
+2025290054,Quantitative and qualitative analysis of SysML activity diagrams,2014,43,1,2,0.0,106068302,Yosr Jarraya,0,1.470991009868154,-0.598708625935746
+2028905856,Formal Verification and Validation of UML 20 Sequence Diagrams using Source and Destination of Messages,2009,23,43,1,1.0,343755398,Mourad Debbabi,0,1.303337340834572,-0.3897484475533325
+2049020424,On object initialization in the Java bytecode,2000,20,3,1,1.0,343755398,Mourad Debbabi,0,-2.3644689525509905,0.09396532198927939
+2035375594,A probabilistic verification framework of SysML activity diagrams,2013,13,11,2,1.0,55879637,Samir Ouchani,0,1.046761313948404,-0.49547249029933793
+2047987805,A formal verification framework for SysML activity diagrams,2014,39,24,2,1.0,55879637,Samir Ouchani,0,0.8310206375143475,-0.4795457297095345
+2066206281,Verifying object initialization in the Java bytecode language,2000,18,3,1,1.0,343755398,Mourad Debbabi,0,-2.545930921031538,-0.5223130109764065
+2063428900,Interprocedural and Flow-Sensitive Type Analysis for Memory and Type Safety of C Code,2009,38,2,1,1.0,343755398,Mourad Debbabi,0,1.0758815850128602,-0.6186023929981055
+2056962525,Capturing Returned Computable Values in AspectJ for Security Hardening,2009,12,0,2,1.0,255619024,Dima Alhadidi,0,0.8853425058376576,0.15494531249464705
+2076417795,Aspect weaver a model transformation approach for UML models,2010,15,6,2,1.0,255619024,Dima Alhadidi,0,2.0738721622967144,-1.0610390184368472
+2067797538,Abstract Interpretation for Proving Secrecy Properties in Security Protocols,2003,33,2,1,1.0,343755398,Mourad Debbabi,0,-0.16600628635949558,0.1859378779531955
+2099480557,On the Meaning of SysML Activity Diagrams,2009,22,17,2,0.0,106068302,Yosr Jarraya,0,1.06249459101793,-0.5115851120433369
+2132440302,Verification of the Correctness in Composed UML Behavioural Diagrams,2010,15,4,2,1.0,55879637,Samir Ouchani,0,3.0632363456426677,-1.5732439219885932
+2115261982,Type and Effect Annotations for Safe Memory Access in C,2008,13,3,1,1.0,343755398,Mourad Debbabi,0,0.5513113164651344,-0.29275941809236744
+2118731458,On the implementation of a stand-alone Java/sup TM/ bytecode verifier,2000,5,0,1,1.0,343755398,Mourad Debbabi,0,-2.3158891143405063,-0.09618955805484707
+2113071904,Verifying Security Properties of Cryptoprotocols A Novel Approach,2007,25,0,1,1.0,343755398,Mourad Debbabi,0,-0.27728081528654513,-0.17552978205252823
+2110119635,A Practical Framework for the Dataflow Pointcut in AspectJ,2009,6,0,2,1.0,255619024,Dima Alhadidi,0,1.1062058143654545,0.18771646446889087
+2125333933,Î»_AOP An AOP Extended Lambda-Calculus,2007,13,3,2,1.0,255619024,Dima Alhadidi,0,-0.7194001809298525,-0.6237761278843926
+2125395260,A Denotational Semantic Model for Validating JVML/CLDC Optimizations under Isabelle/HOL,2007,42,0,2,1.0,277769343,Nadia Tawbi,0,-0.27243740960288726,0.49116850579387217
+2143427661,Cross-Language Weaving Approach Targeting Software Security Hardening,2008,13,1,2,1.0,255619024,Dima Alhadidi,0,0.654830233737725,-0.217384209830253
+2120003701,E-Bunny A Dynamic Compiler for Embedded Java Virtual Machines,2005,13,9,2,1.0,277769343,Nadia Tawbi,0,-2.6590261352074314,0.3058049661871556
+2156299003,Model-Checking for Software Vulnerabilities Detection with Multi-Language Support,2008,15,10,2,0.0,152701898,Rachid Hadjidj,0,0.4238556740496204,-0.2774045367792366
+2162727661,A selective dynamic compiler for embedded Java virtual machines targeting ARM processors,2006,26,5,1,1.0,343755398,Mourad Debbabi,0,-1.3705802081574887,-0.20396963869720544
+2165959787,On the need for data flow graph visualization of Forensic Lucid programs and encoded evidence and their evaluation by GIPSY,2011,21,3,2,0.294156,113391304,Serguei A. Mokhov,0,0.7084586756961987,-0.15065389386512112
+2166726071,A Dynamic Operational Semantics for JVML,2007,12,11,1,1.0,343755398,Mourad Debbabi,0,0.09426114198721282,0.22622108669346996
+2170196373,Team Edit Automata for Testing Security Property,2007,16,8,1,1.0,343755398,Mourad Debbabi,0,-0.3856396186213641,-0.24531871478253775
+2242210506,Aspect-oriented modeling framework for security hardening,2016,21,0,2,1.0,255619024,Dima Alhadidi,0,1.851897910195055,-0.8804433899474471
+2395725456,Continuation/Frame-based Semantics for Aspect Matching and Weaving,2012,0,0,1,1.0,343755398,Mourad Debbabi,0,-0.0425823659469101,0.09372585712204874
+2397801177,Reasoning About an ACME Printer Case Investigation with Forensic Lucid,2009,18,0,2,0.512821,113391304,Serguei A. Mokhov,0,-0.1164726804531344,0.019252515865476
+2496281881,Dynamic Matching and Weaving Semantics in lambda -Calculus,2015,0,0,2,1.0,255619024,Dima Alhadidi,0,-0.5919469275511546,-1.5655492232814805
+2468203470,Dynamic Matching and Weaving Semantics in Executable UML,2015,0,0,2,1.0,255619024,Dima Alhadidi,0,2.5328857090235113,-0.944802771096226
+2485931923,Static Matching and Weaving Semantics in Activity Diagrams,2015,0,0,2,1.0,255619024,Dima Alhadidi,0,1.0387024570596133,-0.6732876945088914
+2460910730,Security Aspect Specification,2015,0,0,2,1.0,255619024,Dima Alhadidi,0,2.0943263958615495,-0.663673141874075
+2473401736,Security Aspect Weaving,2015,0,0,2,1.0,255619024,Dima Alhadidi,0,2.197852136526072,-1.0518865149596648
+2542699209,A type-based algorithm for the control-flow analysis of higher-order concurrent programs,1997,0,0,2,1.0,277769343,Nadia Tawbi,0,0.38655587218419424,-0.9121194356185841
+2586010133,Th eDataflo wPointcu t - AForma lan dPractica lFramework *,2009,23,0,2,1.0,255619024,Dima Alhadidi,0,1.138608719202306,0.2476966198092929
+2962953962,Towards Automated Deduction in Blackmail Case Analysis with Forensic Lucid,2009,20,6,2,0.512821,113391304,Serguei A. Mokhov,0,-0.21003731568371659,-0.08080390277701963
+3006892923,Compiler Provenance Attribution,2020,18,0,1,1.0,343755398,Mourad Debbabi,0,0.3702357270387174,0.005514215757151401

@@ -1,0 +1,200 @@
+136907812,Axiomatic analysis of translation language model for information retrieval,2012,9,18,2,1.0,100110539,Maryam Karimzadehgan,0,0.36848787333537575,-0.094689898441838
+20077218,Topic Cube Topic Modeling for OLAP on Multidimensional Text Databases,2009,32,79,3,1.0,2100860776,Duo Zhang,0,0.39206881423649176,0.47306951022525834
+38610358,An Axiomatic Approach to IR--UIUC TREC 2005 Robust Track Experiments,2005,5,1,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+110562955,Score transformation in linear combination for multi-criteria relevance ranking,2012,25,18,2,0.0,58418612,Shima Gerani,0,0.003708468606338,0.082832279151172
+233242456,Meeting of the MINDS,2007,0,0,6,0.0,676500258,Susan T. Dumais,0,-0.02361490712827675,0.2709295199642215
+586637197,Negative query generation bridging the gap between query likelihood retrieval models and relevance,2015,55,5,2,1.0,2132538679,Yuanhua Lv,0,-0.01657107088421793,0.035389748403282274
+321732878,CLARIT compound queries and constraint-controlled feedback in TREC-5 Ad-Hoc experiments,1996,5,3,3,0.0,250131779,Natasa Milic Frayling,0,-0.21489817748531692,0.29435928012831913
+1523471781,Aggregation of multiple judgments for evaluating ordered lists,2010,25,8,3,0.0,2121939561,Jiawei Han,0,0.003708468606338,0.082832279151172
+1488429532,Ranking database queries with user feedback a neural network approach,2008,9,3,1,1.0,2152766206,ChengXiang Zhai,0,-0.013392118125334501,0.3359129950412923
+1494141893,Context-aware wrapping synchronized data extraction,2007,25,38,2,0.0,2096749051,Kevin Chen Chuan Chang,0,-0.0160484811255519,-0.31555163086887356
+1503496634,Optimization in CLARIT TREC-8 Adaptive Filtering,1999,7,14,4,0.0,2031059034,Norbert Roma,0,0.003708468606338,0.082832279151172
+1521076983,Threshold Calibration in CLARIT Adaptive Filtering,1998,5,40,3,0.0,2107362161,David A. Evans,0,0.003708468606338,0.082832279151172
+1576083876,Exploiting thread structures to improve smoothing of language models for forum post retrieval,2011,20,26,2,1.0,2110991831,Huizhong Duan,0,0.003708468606338,0.082832279151172
+1838897829,A log-logistic model-based interpretation of TF normalization of BM25,2012,29,15,2,1.0,2132538679,Yuanhua Lv,0,0.003708468606338,0.082832279151172
+1844440395,Adaptive Clustering of Search Results,2009,6,0,2,0.0,682752941,Nicholas J. Belkin,0,-0.9880775373651886,3.5832134330196532
+1602102908,Content-based citation analysis The next generation of citation analysis,2014,86,88,2,0.0,2130669820,Tamy Chambers,0,0.36961615338683507,0.04520172406723675
+1593420896,Finding Related Entities by Retrieving Relations UIUC at TREC 2009 Entity Track,2009,7,9,4,1.0,362793051,V. G. Vinod Vydiswaran,0,-0.8188371286862764,-0.7208867665311548
+1964305049,Unsupervised Feature Selection for Multi-View Clustering on Text-Image Web News Data,2014,13,29,2,0.0,2090068654,Mingjie Qian,0,-0.20984455818289538,0.8175488415559771
+1964348731,Model-based feedback in the language modeling approach to information retrieval,2001,18,661,2,1.0,1976640904,John Lafferty,0,0.005528336516354167,0.07021026040991203
+1594180669,A study of term proximity and document weighting normalization in Pseudo Relevance Feedback - UIUC at TREC 2009 Million Query Track,2009,10,1,4,1.0,362793051,V. G. Vinod Vydiswaran,0,0.003708468606338,0.082832279151172
+1976719972,Learn from web search logs to organize search results,2007,25,184,2,0.757664,2102775025,Xuanhui Wang,0,1.1933627919435876,-2.8918345046408405
+1983768313,Gauging the internet doctor ranking medical claims based on community knowledge,2011,17,13,3,1.0,362793051,V. G. Vinod Vydiswaran,0,0.003708468606338,0.082832279151172
+1978800831,Improving retrieval accuracy of difficult queries through generalizing negative document language models,2011,40,15,2,1.0,100110539,Maryam Karimzadehgan,0,0.003708468606338,0.082832279151172
+1968339675,TopCells Keyword-based search of top-k aggregated documents in text cube,2010,17,18,3,0.0,2121939561,Jiawei Han,0,-0.19155017840609767,0.40502768820528007
+1977640460,Topic modeling for OLAP on multidimensional text databases topic cube and its applications,2009,36,40,5,0.350877,2047114418,Nikunj C. Oza,0,0.39206881423649176,0.47306951022525834
+1981213470,Integer linear programming for Constrained Multi-Aspect Committee Review Assignment,2012,36,13,2,1.0,100110539,Maryam Karimzadehgan,0,-0.17536238923574604,0.4144853997593385
+1972594981,A study of smoothing methods for language models applied to information retrieval,2004,30,1026,2,1.0,1976640904,John Lafferty,0,0.003708468606338,0.082832279151172
+1981485659,A probabilistic mixture model for mining and analyzing product search log,2013,23,20,4,0.0,2090425178,Abhishek Gattani,0,0.5666640200188656,-0.9796879737960914
+1983305952,Supporting keyword search in product database a probabilistic approach,2013,26,39,4,0.0,2090425178,Abhishek Gattani,0,-0.16137970516534092,-0.03656772890794059
+1966093341,A comparative study of methods for estimating query language models with pseudo feedback,2009,9,142,2,1.0,2132538679,Yuanhua Lv,0,0.1231549335056549,0.051544081604491046
+2001306626,Mining term association patterns from search logs for effective query reformulation,2008,27,124,2,0.757664,2102775025,Xuanhui Wang,0,-0.11300819442795465,0.09518744858596301
+2008425387,Risk minimization and language modeling in text retrieval dissertation abstract,2002,0,26,1,1.0,2152766206,ChengXiang Zhai,0,-0.21537081122240906,0.22512541931796853
+1996345225,Error analysis of difficult TREC topics,2003,2,17,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2001943463,Exploration of a heuristic approach to threshold learning in adaptive filtering (poster session),2000,3,3,3,0.0,2107362161,David A. Evans,0,0.003708468606338,0.082832279151172
+2005545412,Lower-bounding term frequency normalization,2011,20,74,2,1.0,2132538679,Yuanhua Lv,0,0.003708468606338,0.082832279151172
+2005730467,Best-k queries on database systems,2006,21,2,1,1.0,2152766206,ChengXiang Zhai,0,-0.01657107088421793,0.035389748403282274
+1988445680,Random walks on adjacency graphs for mining lexical relations from big text data,2014,17,2,1,1.0,2152766206,ChengXiang Zhai,0,0.3800127224570261,0.21004767587848977
+1997211290,Challenges in information retrieval and language modeling report of a workshop held at the center for intelligent information retrieval University of Massachusetts Amherst September 2002,2003,0,184,22,0.0,74964845,Wessel Kraaij,0,0.4874277944959379,0.012148398733950605
+1999115460,Semantic annotation of frequent patterns,2007,35,18,3,0.164974,1991372327,Dong Xin,0,0.9418004219675996,-1.5661148987329252
+2006183623,Beyond search statistical topic models for text analysis,2011,0,2,1,1.0,2152766206,ChengXiang Zhai,0,0.13519739927874072,0.38874462404149485
+1992380306,Improving one-class collaborative filtering by incorporating rich user information,2010,22,90,1,1.0,2152766206,ChengXiang Zhai,0,0.8776680742443249,0.45208381503500666
+2019207508,Latent aspect rating analysis without aspect keyword supervision,2011,23,186,1,1.0,2152766206,ChengXiang Zhai,0,0.21438872843298346,-0.1353423822296997
+2031555949,Personalized generation of word clouds from tweets,2016,33,8,3,0.0,1122187853,Peter Dolog,0,0.11833964402080277,0.10858979888142913
+2021042039,Accurately extracting coherent relevant passages using hidden Markov models,2005,6,3,1,1.0,2152766206,ChengXiang Zhai,0,0.21438872843298346,-0.1353423822296997
+2017677203,Interactive sense feedback for difficult queries,2011,37,13,2,1.0,2123127453,Alexander Kotov,0,0.1665479532965838,-0.21438172014118523
+2023502360,SympGraph a framework for mining clinical notes through symptom relation graphs,2012,22,23,2,1.0,2019386676,Parikshit Sondhi,0,0.003708468606338,0.082832279151172
+2011374947,A two-dimensional click model for query auto-completion,2014,25,37,2,0.857143,2102564942,Anlei Dong,0,-0.0699597945920018,-0.2781081113802513
+2014959234,A study of mixture models for collaborative filtering,2006,19,87,3,0.135189,2127260490,Luo Si,0,1.2350652037173413,0.39061007574644036
+2027294748,MiTexCube MicroTextCluster Cube for online analysis of text cells and its applications,2013,16,5,3,1.0,2100860776,Duo Zhang,0,-0.04285425467812609,-0.829343904232756
+2016802218,Retrieval of Relevant Opinion Sentences for New Products,2015,32,14,4,0.666667,2103089955,Dae Hoon Park,0,0.3519317286583251,0.19465203886557153
+2032854262,Adaptive term frequency normalization for BM25,2011,11,21,2,1.0,2132538679,Yuanhua Lv,0,-1.0371157766375387,0.18386039700049428
+2035028010,FindiLike a preference driven entity search engine for evaluating entity retrieval and opinion summarization,2013,6,1,2,1.0,2128131365,Kavita Ganesan,0,0.003708468606338,0.082832279151172
+2040466507,Discovering evolutionary theme patterns from text an exploration of temporal text mining,2005,20,471,1,1.0,2152766206,ChengXiang Zhai,0,-0.03144279709587233,0.40268761826684485
+2044103108,Assured Information Sharing Life Cycle,2009,0,4,11,0.0,332400322,Murat Kantarcioglu,0,-0.23843517296077904,-1.078839753960804
+2045966063,Axiomatic Analysis of Smoothing Methods in Language Models for Pseudo-Relevance Feedback,2015,16,14,1,1.0,2152766206,ChengXiang Zhai,0,0.1231549335056549,0.051544081604491046
+2035382647,A learning approach to optimizing exploration---exploitation tradeoff in relevance feedback,2013,86,8,2,1.0,100110539,Maryam Karimzadehgan,0,0.003708468606338,0.082832279151172
+2038917359,Exploiting Forum Thread Structures to Improve Thread Clustering,2013,21,5,2,1.0,2019386676,Parikshit Sondhi,0,-0.5258759527872332,1.1786208480539384
+2038975839,Information Retrieval as Card Playing A Formal Model for Optimizing Interactive Retrieval Interface,2015,21,20,1,1.0,2152766206,ChengXiang Zhai,0,-0.02361490712827675,0.2709295199642215
+2051644806,DirichletRank Solving the zero-one gap problem of PageRank,2008,45,29,4,1.0,2048088267,Azadeh Shakery,0,0.01081499603401945,-0.22829683392880562
+2046608357,Mining Semi-Structured Online Knowledge Bases to Answer Natural Language Questions on Community QA Websites,2014,19,7,2,1.0,2019386676,Parikshit Sondhi,0,-0.13472995684772748,0.030068914967758792
+2039462091,Mining causal topics in text data iterative topic modeling with time series feedback,2013,18,15,5,0.0,742487088,Thomas A. Rietz,0,0.13519739927874072,0.38874462404149485
+2053713600,Mining long-lasting exploratory user interests from search history,2012,19,7,2,1.0,2132538679,Yuanhua Lv,0,0.17403007482918365,-0.4442472977133498
+2034464625,Constrained multi-aspect expertise matching for committee review assignment,2009,10,44,2,1.0,100110539,Maryam Karimzadehgan,0,-0.17536238923574604,0.4144853997593385
+2052088591,Regularized estimation of mixture models for robust pseudo-relevance feedback,2006,16,179,1,1.0,2152766206,ChengXiang Zhai,0,0.21438872843298346,-0.1353423822296997
+2048605294,Content coverage maximization on word networks for hierarchical topic summarization,2013,32,15,2,0.0,2121939561,Jiawei Han,0,-0.052436147134747424,0.4911947404308421
+2046902062,Positional language models for information retrieval,2009,33,200,2,1.0,2132538679,Yuanhua Lv,0,0.003708468606338,0.082832279151172
+2041576073,Evaluation of methods for relative comparison of retrieval systems based on clickthroughs,2009,4,31,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2048716023,Content-driven trust propagation framework,2011,22,48,3,1.0,362793051,V. G. Vinod Vydiswaran,0,0.0350118340750308,0.1722387243992134
+2069708095,InCaToMi integrative causal topic miner between textual and non-textual time series data,2012,11,6,5,0.0,742487088,Thomas A. Rietz,0,0.13519739927874072,0.38874462404149485
+2071780887,Tapping into knowledge base for concept feedback leveraging conceptnet to improve search results for difficult queries,2012,36,58,2,1.0,2123127453,Alexander Kotov,0,0.6643853933794386,-0.6766753076220828
+2073543154,Compact explanatory opinion summarization,2013,19,7,4,0.0,689294964,Umeshwar Dayal,0,0.3763108151920931,0.011929011373523887
+2057988282,Opinion-based entity ranking,2012,36,67,2,1.0,2128131365,Kavita Ganesan,0,-0.21537081122240906,0.22512541931796853
+2068905009,Document Language Models Query Models and Risk Minimization for Information Retrieval,2001,20,745,2,1.0,1976640904,John Lafferty,0,-0.01657107088421793,0.035389748403282274
+2070629256,Towards a Game-Theoretic Framework for Information Retrieval,2015,0,7,1,1.0,2152766206,ChengXiang Zhai,0,0.7418805773909161,-0.20467519172794893
+2067158812,Unsupervised identification of synonymous query intent templates for attribute intents,2013,33,10,2,0.0,2130892346,Bo June (Paul) Hsu,0,-0.21934185016841626,0.6056873083074126
+2062167294,Exploiting rich user information for one-class collaborative filtering,2014,28,14,1,1.0,2152766206,ChengXiang Zhai,0,0.6597633594317351,0.17783580374697788
+2069303437,Ranking explanatory sentences for opinion summarization,2013,9,19,4,0.0,689294964,Umeshwar Dayal,0,0.21438872843298346,-0.1353423822296997
+2062364080,Mining Coordinated Intent Representation for Entity Search and Recommendation,2015,27,15,2,1.0,2110991831,Huizhong Duan,0,0.5666640200188656,-0.9796879737960914
+2058907739,An empirical study of tokenization strategies for biomedical information retrieval,2007,20,46,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2071165012,Exploiting query history for document ranking in interactive information retrieval,2003,7,58,2,1.0,2150852454,Xuehua Shen,0,0.4878643641629618,0.0019601115471040986
+2085731449,Overcoming bias to learn about controversial topics,2015,31,20,4,0.990245,362793051,V. G. Vinod Vydiswaran,0,0.003708468606338,0.082832279151172
+2082359527,Diagnostic Evaluation of Information Retrieval Models,2011,42,53,1,1.0,2152766206,ChengXiang Zhai,0,-0.14477198822742834,-0.023666122905796023
+2087696423,When documents are very long BM25 fails ,2011,4,53,2,1.0,2132538679,Yuanhua Lv,0,0.003708468606338,0.082832279151172
+2087743880,Investigating task performance of probabilistic topic models an empirical study of PLSA and LDA,2011,31,137,1,1.0,2152766206,ChengXiang Zhai,0,-0.5852893878652404,1.1860458017649698
+2087972949,PTM probabilistic topic mapping model for mining parallel document collections,2010,15,4,3,0.0,2011461587,Nikos Anerousis,0,-0.3672954550208529,0.6731038625220835
+2097674647,Collaborative filtering with decoupled models for preferences and ratings,2003,11,83,4,0.135189,2127260490,Luo Si,0,0.9650664652314371,0.14256770262743643
+2100858341,Generating gene summaries from biomedical literature A study of semi-structured summarization,2007,21,32,3,0.753307,2119501630,Bruce R. Schatz,0,0.003708468606338,0.082832279151172
+2100866419,A boosting approach to improving pseudo-relevance feedback,2011,33,34,2,1.0,2132538679,Yuanhua Lv,0,0.003708468606338,0.082832279151172
+2081250600,Mining named entities with temporally correlated bursts from multilingual web news streams,2011,23,19,3,1.0,721973866,Richard Sproat,0,0.04643060686041278,-0.058639592215241676
+2101246646,Text classification from positive and unlabeled documents,2003,20,50,2,0.0,2121939561,Jiawei Han,0,0.003708468606338,0.082832279151172
+2088822034,Smoothing document language models with probabilistic term count propagation,2008,33,13,2,1.0,2048088267,Azadeh Shakery,0,0.21438872843298346,-0.1353423822296997
+2081769211,Privacy protection in personalized search,2007,12,80,2,1.0,2150852454,Xuehua Shen,0,0.003708468606338,0.082832279151172
+2092416660,LPTA A Probabilistic Model for Latent Periodic Topic Analysis,2011,32,22,3,0.0,2121939561,Jiawei Han,0,-0.36394326963929374,0.3034186567525655
+2099194852,A two-stage mixture model for pseudo feedback,2004,2,22,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2087335910,An empirical study of gene synonym query expansion in biomedical information retrieval,2009,34,20,1,1.0,2152766206,ChengXiang Zhai,0,-0.11300819442795465,0.09518744858596301
+2120170839,Collaborative Wrapping A Turbo Framework for Web Data Extraction,2007,7,9,2,0.0,2096749051,Kevin Chen Chuan Chang,0,-0.30648445067219304,0.0035704117584501685
+2114681441,Exploration-exploitation tradeoff in interactive relevance feedback,2010,11,15,2,1.0,100110539,Maryam Karimzadehgan,0,0.003708468606338,0.082832279151172
+2111702294,Click patterns an empirical representation of complex query intents,2012,24,11,3,0.0,1994052019,Emre Kiciman,0,-0.5240094822028566,1.2094930221221414
+2129294185,Topic sentiment mixture modeling facets and opinions in weblogs,2007,28,644,2,1.0,2127686401,Xu Ling,0,0.11647673674627339,0.3784808660328827
+2138465707,Efficient Keyword-Based Search for Top-K Cells in Text Cube,2011,40,19,5,0.350877,2047114418,Nikunj C. Oza,0,-0.020461859045903186,0.2440288413808552
+2114900318,Active feedback in ad hoc information retrieval,2005,27,94,2,1.0,2150852454,Xuehua Shen,0,0.984781936104207,-0.28272964416512464
+2141692291,EventCube multi-dimensional search and mining of structured and text data,2013,6,13,10,0.0,2046577858,Marina Danilevsky,0,0.36361822226983925,0.2555011878531386
+2105981469,Context-sensitive information retrieval using implicit feedback,2005,19,389,2,1.0,2150852454,Xuehua Shen,0,0.7418805773909161,-0.20467519172794893
+2109011628,Searching and Tagging Two Sides of the Same Coin ,2007,34,1,1,1.0,2152766206,ChengXiang Zhai,0,0.21438872843298346,-0.1353423822296997
+2126793736,Multi-aspect expertise matching for review assignment,2008,20,63,3,0.0,53657931,Geneva G. Belford,0,-0.17536238923574604,0.4144853997593385
+2135728924,Revisiting the Divergence Minimization Feedback Model,2014,15,20,2,1.0,2132538679,Yuanhua Lv,0,0.003708468606338,0.082832279151172
+2115258259,Reconstructing missing signals in multi-parameter physiologic data by mining the aligned contextual information,2010,7,3,2,1.0,2019386676,Parikshit Sondhi,0,0.2759033189434646,0.12270975714302573
+2112247328,A cross-collection mixture model for comparative text mining,2004,15,216,2,1.0,2063104804,Atulya Velivelli,0,0.819464850716841,0.134367030940895
+2129971563,Language Model Information Retrieval with Document Expansion,2006,14,110,2,0.643998,2102775025,Xuanhui Wang,0,-0.6140811994332072,0.3639052278359401
+2136056595,iNextCube information network-enhanced text cube,2009,11,16,6,1.0,2100860776,Duo Zhang,0,-1.9907490612643435,0.8971262891291422
+2127452535,Adaptive relevance feedback in information retrieval,2009,34,92,2,1.0,2132538679,Yuanhua Lv,0,0.003708468606338,0.082832279151172
+2124537274,Unsupervised discovery of opposing opinion networks from forum discussions,2012,19,30,2,0.218965,2122007671,Dan Roth,0,-0.8147813887098188,-0.5986371038396274
+2118817127,User modeling in search logs via a nonparametric bayesian approach,2014,27,11,2,0.857143,2102564942,Anlei Dong,0,0.6066616852252525,-1.6834346658492574
+2130520240,Estimation of statistical translation models based on mutual information for ad hoc information retrieval,2010,41,68,2,1.0,100110539,Maryam Karimzadehgan,0,0.1502232580947503,0.05899665543527047
+2136542423,A Study of Smoothing Methods for Language Models Applied to Ad Hoc Information Retrieval,2001,29,1413,2,1.0,1976640904,John Lafferty,0,-0.4272049769764657,-0.867399379623106
+2124784993,Learning online discussion structures by conditional random fields,2011,20,50,2,0.0,2121939561,Jiawei Han,0,0.5462690943291099,0.1462294399640226
+2142769902,Positional relevance model for pseudo-relevance feedback,2010,33,140,2,1.0,2132538679,Yuanhua Lv,0,-0.11300819442795465,0.09518744858596301
+2142818652,FindiLike preference driven entity search,2012,8,5,2,1.0,2128131365,Kavita Ganesan,0,0.9618989559802117,-3.53208691282351
+2127860643,Geographical topic discovery and comparison,2011,16,250,3,0.0,2121939561,Jiawei Han,0,-0.36394326963929374,0.3034186567525655
+2130780865,Unsupervised query segmentation using clickthrough for information retrieval,2011,24,41,2,0.5979,2127379895,Kuansan Wang,0,-0.11300819442795465,0.09518744858596301
+2142955026,MeSHLabeler improving the accuracy of large-scale MeSH indexing by integrating diverse evidence,2015,32,36,3,0.0,278261381,Hiroshi Mamitsuka,0,-0.35949318004166375,0.14054385833298838
+2125022429,A generalized hidden Markov model with discriminative training for query spelling correction,2012,24,27,2,1.0,2110991831,Huizhong Duan,0,0.003708468606338,0.082832279151172
+2130858665,Enhancing Text Categorization with Semantic-enriched Representation and Training Data Augmentation,2006,33,31,3,1.0,2063104804,Atulya Velivelli,0,-0.17536238923574604,0.4144853997593385
+2116505464,Content-aware click modeling,2013,22,16,2,0.857143,2102564942,Anlei Dong,0,0.003708468606338,0.082832279151172
+2107610218,A probabilistic approach to spatiotemporal theme pattern mining on weblogs,2006,27,283,1,1.0,2152766206,ChengXiang Zhai,0,0.21438872843298346,-0.1353423822296997
+2131305515,Automatic construction of a context-aware sentiment lexicon an optimization approach,2011,21,183,3,0.0,689294964,Umeshwar Dayal,0,0.3519317286583251,0.19465203886557153
+2131381130,A risk minimization framework for information retrieval,2006,72,136,2,1.0,1976640904,John Lafferty,0,0.7104083187982193,-0.34875519706126595
+2143561480,Probabilistic models for expert finding,2007,14,176,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2113855231,Automatic labeling of multinomial topic models,2007,33,256,2,1.0,2150852454,Xuehua Shen,0,0.19990336399383085,1.1463186223124953
+2134557008,A formal study of information retrieval heuristics,2004,18,264,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2143817609,Language Models for Genomics Information Retrieval UIUC at TREC 2007 Genomics Track,2007,15,1,2,1.0,2127686401,Xu Ling,0,-1.0717661545000636,-0.07135539408076284
+2128834557,Improve retrieval accuracy for difficult queries using negative feedback,2007,9,36,2,0.757664,2102775025,Xuanhui Wang,0,0.003708468606338,0.082832279151172
+2108168165,Implicit user modeling for personalized search,2005,27,383,2,1.0,2150852454,Xuehua Shen,0,0.2331650575313416,-0.7000749882251225
+2134724192,A Study of Adaptive Relevance Feedback - UIUC TREC-2008 Relevance Feedback Experiments,2008,10,2,2,1.0,2132538679,Yuanhua Lv,0,0.003708468606338,0.082832279151172
+2117235735,Exploiting ontology graph for predicting sparsely annotated gene function,2015,33,48,3,0.0,2109354399,Hyunghoon Cho,0,1.8459046825750773,-1.707279347138633
+2144318140,CloudSpeller query spelling correction by using a unified hidden markov model with web-scale resources,2012,4,6,2,1.0,2110991831,Huizhong Duan,0,0.003708468606338,0.082832279151172
+2165337677,Reliability prediction of webpages in the medical domain,2012,25,21,3,1.0,362793051,V. G. Vinod Vydiswaran,0,0.003708468606338,0.082832279151172
+2150461699,Topic modeling with network regularization,2008,34,313,3,1.0,2100860776,Duo Zhang,0,-0.17536238923574604,0.4144853997593385
+2162432120,An exploration of proximity measures in information retrieval,2007,32,220,1,1.0,2152766206,ChengXiang Zhai,0,-0.21390772667135852,-0.29118411312872733
+2165806612,Mining long-term search history to improve search accuracy,2006,12,227,2,1.0,2150852454,Xuehua Shen,0,0.8143368639953171,-1.9386360257624082
+2162697159,An exploration of axiomatic approaches to information retrieval,2005,24,130,1,1.0,2152766206,ChengXiang Zhai,0,-0.20436751309388032,-0.14082750382463502
+2168859760,Statistical Language Models for Information Retrieval A Critical Review,2008,134,244,1,1.0,2152766206,ChengXiang Zhai,0,0.33791005589889855,-0.10061531303082828
+2162746367,Two-stage language models for information retrieval,2002,15,183,2,1.0,1976640904,John Lafferty,0,0.003708468606338,0.082832279151172
+2166008115,Mining correlated bursty topic patterns from coordinated text streams,2007,26,181,3,1.0,721973866,Richard Sproat,0,0.18567556605762764,0.2987801614025153
+2145071407,Rated aspect summarization of short comments,2009,21,287,2,0.0,1981173961,Neel Sundaresan,0,0.003708468606338,0.082832279151172
+2156982127,Towards natural question guided search,2010,23,25,2,1.0,2123127453,Alexander Kotov,0,0.8143368639953171,-1.9386360257624082
+2163010654,Parallel PathFinder Algorithms for Mining Structures from Graphs,2009,11,10,3,0.0,2024087872,Samson Hauguel,0,0.589769515570473,0.7996944527393591
+2172192355,Improving the robustness of language models - UIUC TREC-2003 Robust and Genomics Experiments,2003,6,6,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2166341316,Mining entity attribute synonyms via compact clustering,2013,23,6,3,0.5979,2127379895,Kuansan Wang,0,0.6528275806776227,0.35325814917015846
+2160348541,Query likelihood with negative query generation,2012,18,5,2,1.0,2132538679,Yuanhua Lv,0,-0.1029618939806145,0.040434369851773004
+2160409620,Latent aspect rating analysis on review text data a rating regression approach,2010,26,400,1,1.0,2152766206,ChengXiang Zhai,0,0.3800127224570261,0.21004767587848977
+2154514442,Generating semantic annotations for frequent patterns with context analysis,2006,22,49,3,0.164974,1991372327,Dong Xin,0,0.6536697615260516,-1.0253805841974375
+2157470625,Generating comparative summaries of contradictory opinions in text,2009,23,97,2,1.0,2148203772,Hyun Duk Kim,0,0.3800127224570261,0.21004767587848977
+2166650854,BiasTrust teaching biased users about controversial topics,2012,10,15,4,1.0,362793051,V. G. Vinod Vydiswaran,0,0.003708468606338,0.082832279151172
+2157589241,Opinion integration through semi-supervised topic modeling,2008,22,177,1,1.0,2152766206,ChengXiang Zhai,0,-1.1295356358611826,1.175376180518658
+2166900514,A mixture model for contextual text mining,2006,18,88,1,1.0,2152766206,ChengXiang Zhai,0,0.10587775865696057,0.5162125630735442
+2163852103,Beyond hyperlinks organizing information footprints in search logs to support effective browsing,2009,54,11,2,1.0,2048088267,Azadeh Shakery,0,-0.1967337259847551,-0.14980391251449376
+2149043723,Robust pseudo feedback estimation and HMM passage extraction UIUC at TREC 2006 genomics track,2006,5,7,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2163951933,Language Models for Expert Finding -UIUC TREC 2006 Enterprise Track Experiments,2006,9,7,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2161216836,Understanding evolution of research themes a probabilistic generative model for citations,2013,26,32,2,0.194359,2122007671,Dan Roth,0,-0.17536238923574604,0.4144853997593385
+2155516811,Mining multi-faceted overviews of arbitrary topics in a text collection,2008,28,34,3,0.753307,2119501630,Bruce R. Schatz,0,0.3800127224570261,0.21004767587848977
+2170610543,A study of Poisson query generation model for information retrieval,2007,27,39,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2170714718,UIUC/MUSC at TREC 2005 Genomics Track,2005,8,8,6,1.0,2048088267,Azadeh Shakery,0,-0.952439873774493,-0.4099256308957632
+2152784831,Semantic term matching in axiomatic approaches to information retrieval,2006,29,87,1,1.0,2152766206,ChengXiang Zhai,0,0.2965540596993465,-0.8311200815534279
+2146907956,A probabilistic relevance propagation model for hypertext retrieval,2006,42,39,2,1.0,2048088267,Azadeh Shakery,0,0.003708468606338,0.082832279151172
+2147008127,Leveraging medical thesauri and physician feedback for improving medical literature retrieval for case queries,2012,40,11,3,1.0,2019386676,Parikshit Sondhi,0,-0.25946199212445986,0.019580070808862253
+2164936599,Micropinion generation an unsupervised approach to generating ultra-concise summaries of opinions,2012,31,63,3,0.0,2018222631,Evelyne Viegas,0,1.2350652037173413,0.39061007574644036
+2168084958,Modeling hidden topics on document manifold,2008,27,135,3,0.0,2121939561,Jiawei Han,0,-0.9486533511088648,0.4694779349460726
+2191181756,OpinoFetch a practical and efficient approach to collecting opinions on arbitrary entities,2015,20,0,2,1.0,2128131365,Kavita Ganesan,0,-0.4209223823032535,-0.04821538667654322
+2206280372,Recommending forum posts to designated experts,2015,32,2,2,0.0,2069091190,Roxana Girju,0,0.0942288251540411,0.08234440504199253
+2197919320,Beyond Independent Relevance Methods and Evaluation Metrics for Subtopic Retrieval,2003,17,526,3,1.0,1976640904,John Lafferty,0,0.5278364979751502,-0.14471237023341255
+2208143865,Hotspots of news articles Joint mining of news text &amp; social media to discover controversial points in news,2015,10,5,1,1.0,2152766206,ChengXiang Zhai,0,0.3166673016285419,0.2582512220082403
+2336445533,Learning Query and Document Relevance from a Web-scale Click Graph,2016,28,20,3,0.0,2134853736,Yuening Hu,0,0.003708468606338,0.082832279151172
+2401920209,Opinion Summarization Using Entity Features and Probabilistic Sentence Coherence Optimization UIUC at TAC 2008 Opinion Summarization Pilot,2008,6,6,4,1.0,362793051,V. G. Vinod Vydiswaran,0,0.003708468606338,0.082832279151172
+2394710377,MiTexCube MicroTextCluster Cube for Online Analysis of Text Cells,2011,15,12,3,1.0,2100860776,Duo Zhang,0,0.3800127224570261,0.21004767587848977
+2428528690,DeepMeSH deep semantic representation for improving large-scale MeSH indexing,2016,36,40,4,0.0,278261381,Hiroshi Mamitsuka,0,0.13546678841627827,-0.06457640291933049
+2505040814,Toward A Unified System for Text Management and Analysis,2016,0,0,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2583490418,Blind Men and The Elephant Thurstonian Pairwise Preference for Ranking in Crowdsourcing,2016,24,2,2,0.0,2140412951,Jingjing Wang,0,-0.4872256289218339,0.06302974616359447
+2583969444,Exploiting temporal divergence of topic distributions for event detection,2016,16,4,3,0.0,2102121030,Aston Zhang,0,0.12492345808765674,0.23414093372237493
+2532890429,Mobile App Retrieval for Social Media Users via Inference of Implicit Intent in Social Media Text,2016,42,10,3,0.666667,2103089955,Dae Hoon Park,0,-0.17536238923574604,0.4144853997593385
+2533608434,Generative Feature Language Models for Mining Implicit Features from Customer Reviews,2016,18,7,2,1.0,2019386676,Parikshit Sondhi,0,0.29172671227289837,0.5677908999208894
+2546814539,Numerical Range Facets Partition Evaluation Metric and Methods,2016,23,0,2,0.0,2151513431,Onur Gungor,0,0.003708468606338,0.082832279151172
+2585731554,Constructing and Embedding Abstract Event Causality Networks from Text Snippets,2017,40,14,4,0.0,284929341,Sean Massung,0,-0.21934185016841626,0.6056873083074126
+2613347119,Modeling the Influence of Popular Trending Events on User Search Behavior,2017,32,4,3,0.555556,2103089955,Dae Hoon Park,0,0.003708468606338,0.082832279151172
+2592401802,Dynamic credit allocation in scientific literature,2017,27,9,1,1.0,2152766206,ChengXiang Zhai,0,0.0767934443408953,-0.031381956184043644
+2608387285,Numerical Facet Range Partition Evaluation Metric and Methods,2017,30,1,2,0.0,2151513431,Onur Gungor,0,-0.19445236267136146,0.3747683779322977
+2617166020,Keyword search in text cube Finding top-k relevant cells,2010,32,1,3,0.0,2121939561,Jiawei Han,0,0.1231549335056549,0.051544081604491046
+2741257866,Probabilistic Topic Models for Text Data Retrieval and Analysis,2017,2,7,1,1.0,2152766206,ChengXiang Zhai,0,-0.25761342237142987,0.09201412702325629
+2756936647,Information Retrieval Evaluation as Search Simulation A General Formal Framework for IR Evaluation,2017,23,1,1,1.0,2152766206,ChengXiang Zhai,0,-0.1826651000115661,0.11867050058969215
+2741497758,On Application of Learning to Rank for E-Commerce Search,2017,36,37,2,1.0,2019386676,Parikshit Sondhi,0,0.29800301246083666,0.1174776931585415
+2767350339,A Study of Feature Construction for Text-based Forecasting of Time Series Variables,2017,16,3,1,1.0,2152766206,ChengXiang Zhai,0,-0.17536238923574604,0.4144853997593385
+2767482484,Towards Privacy-Preserving Evaluation for Information Retrieval Models Over Industry Data Sets,2017,13,1,3,0.0,2135817545,Mianwei Zhou,0,-0.04247569287031605,0.08535320774292623
+2747936139,HEMnet Integration of Electronic Medical Records with Molecular Interaction Networks and Domain Knowledge for Survival Analysis,2017,45,1,2,0.0,2096746806,Runshun Zhang,0,0.2088038246508438,-0.06264288517508147
+2799232306,Modeling Diverse Relevance Patterns in Ad-hoc Retrieval,2018,37,25,2,0.0,2129598186,Xueqi Cheng,0,0.6759410375747485,-0.8742668348301507
+2782843968,Text-based geolocation prediction of social media users with neural networks,2017,34,8,1,1.0,2152766206,ChengXiang Zhai,0,0.08329114195231535,0.32893178638165566
+2905218031,SOFSAT Towards a Setlike Operator based Framework for Semantic Analysis of Text,2018,22,1,5,0.0,87915016,Duane Searsmith,0,0.003708468606338,0.082832279151172
+2913502262,Exploiting Knowledge Graph to Improve Text-based Prediction,2018,17,0,1,1.0,2152766206,ChengXiang Zhai,0,0.12492345808765674,0.23414093372237493
+2896500773,JIM Joint Influence Modeling for Collective Search Behavior,2018,37,0,2,0.513405,2148021991,Liangda Li,0,0.003708468606338,0.082832279151172
+2963104174,Adapting sequence to sequence models for text normalization in social media,2019,0,0,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172
+2987643772,Analysis of Adaptive Training for Learning to Rank in Information Retrieval,2019,4,0,1,1.0,2152766206,ChengXiang Zhai,0,0.003708468606338,0.082832279151172

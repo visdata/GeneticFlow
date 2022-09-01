@@ -1,0 +1,98 @@
+10721341,Letter from the Research Track Co-Chair,2011,0,0,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+47292847,Using q-grams in a DBMS for Approximate String Processing,2001,6,113,2,0.0,94049422,Panagiotis G. Ipeirotis,0,-0.0041099411153885,0.0447066884760059
+1497709229,Seeking stable clusters in the blogosphere,2007,13,62,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+1481218190,Data stream query processing,2003,63,52,1,1.0,335443309,Nick Koudas,0,2.594387272476262,-1.0959306562702176
+1481552467,HASE a hybrid approach to selectivity estimation for conjunctive predicates,2006,25,5,1,1.0,335443309,Nick Koudas,0,0.30265740233268107,0.012359040392557268
+1555168728,Declustering Spatial Databases on a Multi-Computer Architecture,1996,42,58,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+1493303726,Routing XML queries,2004,13,35,1,1.0,335443309,Nick Koudas,0,1.421703140181764,-0.565962990806171
+1556132150,Proceedings of the 2000 ACM SIGMOD international conference on Management of data,2000,0,75,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+1485672862,BlogScope a system for online analysis of high volume text streams,2007,7,79,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+1512847838,Efficient handling of positional predicates within XML query processing,2005,11,4,3,0.0,8132329,Vassilis J. Tsotras,0,1.1667992410358166,-0.43091723154530276
+1540310433,Identifying Representative Trends in Massive Time Series Data Sets Using Sketches,2000,14,202,2,0.666667,22135093,Piotr Indyk,0,-0.0041099411153885,0.0447066884760059
+1590551453,Filter Trees for Managing Spatial Data over a Range of Size Granularities,1996,18,38,1,1.0,335443309,Nick Koudas,0,0.08536966887926316,0.311991726548353
+1599696396,Anytime measures for top-k algorithms,2007,27,44,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+1822348499,Optimal Histograms with Quality Guarantees,1998,14,367,1,1.0,335443309,Nick Koudas,0,0.014532710543751099,0.030944858938630852
+1974995373,Fast Indexes and Algorithms for Set Similarity Selection Queries,2008,17,100,2,0.612857,50097054,Marios Hadjieleftheriou,0,0.043791993337272385,0.10135221684975455
+1985722290,Index structures for matching XML twigs using relational query processors,2007,24,32,1,1.0,335443309,Nick Koudas,0,1.546511116479098,-0.2245616542275435
+1986041862,An access cost-aware approach for object retrieval over multiple sources,2010,30,2,2,0.185125,238786035,Vagelis Hristidis,0,0.1822416555524229,-0.19375588831705134
+1984237017,Transparent anonymization Thwarting adversaries who know the algorithm,2010,43,28,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+1967348488,Identifying attributing and describing spatial bursts,2010,16,35,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+1967654850,Measure-driven keyword-query expansion,2009,18,30,1,1.0,335443309,Nick Koudas,0,-0.4164353607007019,-0.10408138035894196
+1994354282,Meta-data indexing for XPath location steps,2006,34,16,1,1.0,335443309,Nick Koudas,0,2.784884004644865,-1.0365023128253235
+2003131755,Efficient identification of starters and followers in social media,2009,21,30,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2005048938,Interactive query refinement,2009,26,64,1,1.0,335443309,Nick Koudas,0,0.7215975991611812,0.3052417628859806
+1999968379,Streaming multiple aggregations using phantoms,2010,35,20,1,1.0,335443309,Nick Koudas,0,0.32459552448122475,-0.14292106205624489
+2008804228,SerpentTI flexible analytics of users boards and domains for pinterest,2014,0,2,1,1.0,335443309,Nick Koudas,0,-0.4952370533090319,-0.40710710999814825
+2005499394,Dense subgraph maintenance under streaming edge weight updates for real-time story identification,2012,33,106,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2007682403,Record linkage similarity measures and algorithms,2006,41,249,2,0.0,156875573,Sunita Sarawagi,0,-0.32198876610509086,-0.2038331671539402
+1993831977,Estimating the selectivity of approximate string queries,2007,31,34,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+1995913408,Efficient diversity-aware search,2011,29,82,1,1.0,335443309,Nick Koudas,0,0.221423897897152,-0.21080654779612165
+1992517783,Finding Skyline and Top-k Bargaining Solutions,2007,5,6,1,1.0,335443309,Nick Koudas,0,0.9759037201417633,0.22794295489116023
+2013785969,Pollux towards scalable distributed real-time search on microblogs,2013,25,5,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2024605621,Benchmarking declarative approximate selection predicates,2007,31,67,1,1.0,335443309,Nick Koudas,0,0.12977401462259888,-0.06944810408494125
+2010916971,Integrating XML data sources using approximate joins,2006,38,26,1,1.0,335443309,Nick Koudas,0,2.2463383046655268,-0.8282628078823033
+2012945976,Indexing support for spatial joins,2000,32,8,1,1.0,335443309,Nick Koudas,0,0.17391615759999998,0.26835898102601596
+2048952423,Suffix tree construction algorithms on modern hardware,2010,28,10,1,1.0,335443309,Nick Koudas,0,-0.5708213141480621,-0.8872475529992929
+2054282408,On effective multi-dimensional indexing for strings,2000,23,49,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2036787492,Sharing across Multiple MapReduce Jobs,2014,51,7,2,1.0,80813837,Michalis Potamias,0,-0.0041099411153885,0.0447066884760059
+2047834079,Fast Identification of Relational Constraint Violations,2007,11,5,1,1.0,335443309,Nick Koudas,0,0.9466232207868718,0.04318750306609048
+2053075747,Dynamic multidimensional histograms,2002,35,196,2,0.666667,22135093,Piotr Indyk,0,-0.16210599533331024,-0.6666090347420761
+2057545667,The design of a query monitoring system,2009,40,149,1,1.0,335443309,Nick Koudas,0,0.7215975991611812,0.3052417628859806
+2074082874,Stretch n shrink resizing queries to user preferences,2008,5,3,1,1.0,335443309,Nick Koudas,0,0.4170158691156383,0.0370747845240022
+2061884758,Holistic twig joins optimal XML pattern matching,2002,24,885,1,1.0,335443309,Nick Koudas,0,0.9070506115066127,-0.35835455187893495
+2058488627,Improved search for socially annotated data,2009,24,14,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2069318033,Efficient identification of coupled entities in document collections,2010,7,11,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2102462631,Flexible string matching against large databases in practice,2004,4,99,1,1.0,335443309,Nick Koudas,0,-0.1803456317729081,-0.3931685291807518
+2100039551,Distribution based microdata anonymization,2009,15,12,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2100235843,Relaxing join and selection queries,2006,31,97,2,0.524108,121171588,Anthony K. H. Tung,0,0.014532710543751099,0.030944858938630852
+2100247763,Similarity search a matching based approach,2006,22,35,2,0.524108,121171588,Anthony K. H. Tung,0,0.014532710543751099,0.030944858938630852
+2088696141,Panel querying networked databases,2003,0,0,1,1.0,335443309,Nick Koudas,0,-0.06235356923406975,-0.223505170783772
+2099328971,Ad-hoc top-k query answering for data streams,2007,23,84,1,1.0,335443309,Nick Koudas,0,-0.14812429161597473,0.08669077745880308
+2117379916,Monitoring k-nearest neighbor queries over moving objects,2005,23,280,1,1.0,335443309,Nick Koudas,0,0.119739122485096,0.4583397011045227
+2105484782,Merging the results of approximate match operations,2004,21,103,1,1.0,335443309,Nick Koudas,0,0.2678917841524199,-0.19288727659575236
+2111560558,SPIDER flexible matching in databases,2005,5,10,1,1.0,335443309,Nick Koudas,0,-0.9689420811983864,-0.3723434615083527
+2114731047,Whats on the grapevine ,2009,3,20,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2126490564,Multiple aggregations over data streams,2005,27,99,1,1.0,335443309,Nick Koudas,0,-0.5166512250862091,-0.08582111303758992
+2126547925,MRShare sharing across multiple queries in MapReduce,2010,22,204,2,1.0,80813837,Michalis Potamias,0,-0.0041099411153885,0.0447066884760059
+2111814513,Partitioning and ranking tagged data sources,2013,17,5,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2120819781,Ad-hoc aggregations of ranked lists in the presence of hierarchies,2008,22,12,1,1.0,335443309,Nick Koudas,0,-0.09643955070014586,-0.2837431777135822
+2112064847,Indexing mixed types for approximate retrieval,2005,22,23,2,0.524108,121171588,Anthony K. H. Tung,0,0.26489219032540695,-0.8669751961591046
+2138757450,Structure and content scoring for XML,2005,16,136,2,0.0,19633248,Sihem Amer Yahia,0,0.06119680060861036,-0.09569910702658228
+2141933093,Generating targeted queries for database testing,2008,15,38,1,1.0,335443309,Nick Koudas,0,2.121081020348674,0.4157698920688359
+2115215982,Hashed samples selectivity estimators for set similarity selection queries,2008,29,57,2,0.612857,50097054,Marios Hadjieleftheriou,0,-0.0041099411153885,0.0447066884760059
+2118302148,Keyword proximity search in XML trees,2006,20,164,2,0.416667,238786035,Vagelis Hristidis,0,2.2283778768526874,-0.8691611993712816
+2139273822,Answering top-k queries using views,2006,24,153,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2127669425,Syntactic Rule Based Approach toWeb Service Composition,2006,20,21,1,1.0,335443309,Nick Koudas,0,-1.7504818625472642,-2.330244523500919
+2142712680,Join Reordering by Join Simulation,2009,20,4,1,1.0,335443309,Nick Koudas,0,0.014532710543751099,0.030944858938630852
+2116258144,Categorical skylines for streaming data,2008,25,41,2,0.247012,121171588,Anthony K. H. Tung,0,0.11251660354897924,0.07086227565172379
+2113723748,Entropy based approximate querying and exploration of datacubes,2001,23,18,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2113836856,Structural joins a primitive for efficient XML query pattern matching,2002,26,787,1,1.0,335443309,Nick Koudas,0,1.9418981040204182,-0.4391347972151458
+2108075439,Approximate joins concepts and techniques,2005,38,30,1,1.0,335443309,Nick Koudas,0,0.303827025662531,0.02422343153090901
+2122971142,Reasoning About Approximate Match Query Results,2006,18,7,1,1.0,335443309,Nick Koudas,0,0.43739842239757626,0.009947045888208002
+2131815873,Incremental maintenance of length normalized indexes for approximate string matching,2009,17,37,2,0.612857,50097054,Marios Hadjieleftheriou,0,-0.0041099411153885,0.0447066884760059
+2144006311,MIX a meta-data indexing system for XML,2005,6,2,1,1.0,335443309,Nick Koudas,0,2.5048349343683918,-0.9756256283167938
+2140944908,Improving the performance of list intersection,2009,26,41,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2159146278,Using SPIDER an experience report,2006,3,2,1,1.0,335443309,Nick Koudas,0,-0.32198876610509086,-0.2038331671539402
+2156165625,Propagating Updates in SPIDER,2007,11,8,1,1.0,335443309,Nick Koudas,0,0.36097085081799196,-0.1582967557564097
+2150533555,Data stream query processing,2005,0,15,1,1.0,335443309,Nick Koudas,0,0.0908845357243609,0.31128747720343375
+2153516438,High dimensional similarity joins algorithms and performance evaluation,1998,24,49,1,1.0,335443309,Nick Koudas,0,-0.00492109496191035,-0.1728987636093571
+2150592063,Efficient approximation of optimization queries under parametric aggregation constraints,2003,17,33,1,1.0,335443309,Nick Koudas,0,0.43739842239757626,0.009947045888208002
+2186447827,A Syntactic Rule Based Approach to Web Service Composition,2006,20,18,2,0.416667,238786035,Vagelis Hristidis,0,-1.4147887349212371,-1.6682992817224052
+2165647619,Approximate NN queries on streams with guaranteed error/performance bounds,2004,24,80,1,1.0,335443309,Nick Koudas,0,-0.42845202490949574,0.1450203979855267
+2168910844,A Lightweight Online Framework For Query Progress Indicators,2007,19,26,1,1.0,335443309,Nick Koudas,0,0.0908845357243609,0.31128747720343375
+2148353345,Adaptive processing of top-k queries in XML,2005,24,87,2,0.0,19633248,Sihem Amer Yahia,0,1.9222139088727004,-0.7736146195593396
+2166658587,Aggregate Query Answering on Anonymized Tables,2007,19,292,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2154794267,A system for keyword proximity search on XML databases,2003,10,32,3,0.0,58344957,Yannis Papakonstantinou,0,2.1982902428391884,-0.8880501764275741
+2169844574,Efficient and tumble similar set retrieval,2001,17,40,1,1.0,335443309,Nick Koudas,0,-0.5615120360052527,-0.07534351462018847
+2148858739,Anytime measures for top-k algorithms on exact and fuzzy data sets,2009,37,16,1,1.0,335443309,Nick Koudas,0,-0.2554006006761083,0.005185177391162952
+2163845944,LDC enabling search by partial distance in a hyper-dimensional space,2004,16,44,2,0.488294,121171588,Anthony K. H. Tung,0,-0.34857978327751216,-0.2513987233039086
+2163881524,Ranking objects based on relationships and fixed associations,2009,18,35,1,1.0,335443309,Nick Koudas,0,-0.34857978327751216,-0.2513987233039086
+2152304884,Index Structures for Matching XML Twigs Using Relational Query Processors,2005,29,11,1,1.0,335443309,Nick Koudas,0,0.9452769308031439,-0.017350116487758017
+2164501930,Approximate XML joins,2002,17,138,1,1.0,335443309,Nick Koudas,0,1.510148621451277,-0.8745730002537279
+2161936973,Approximate String Joins in a Database (Almost) for Free,2001,18,496,2,0.0,94049422,Panagiotis G. Ipeirotis,0,0.27692454341243516,0.10626936558355415
+2247441364,Processing Analytical Workloads Incrementally,2015,7,3,1,1.0,335443309,Nick Koudas,0,0.3374086164124043,0.24234986336060904
+2221389368,PREFER a system for the efficient execution of multi-parametric ranked queries,2001,17,259,2,0.454545,238786035,Vagelis Hristidis,0,1.5606135106528942,0.36654066418524994
+2401457476,Reaching a desired set of users via different paths an online advertising technique on micro-blogging platforms,2015,16,1,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2611440384,Improved search for socially annotated data,2009,0,0,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+2612686088,Assisting Service Providers In Peer-to-peer Marketplaces Maximizing Gain Over Flexible Attributes,2017,15,2,1,1.0,335443309,Nick Koudas,0,0.43739842239757626,0.009947045888208002
+2999944310,Session details Top-k queries and ranking,2007,0,0,1,1.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059

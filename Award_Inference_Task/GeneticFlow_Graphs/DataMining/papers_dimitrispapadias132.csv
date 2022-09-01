@@ -1,0 +1,140 @@
+123422025,Constraint-Based Reasoning in Geographic Databases the Case of Symbolic Arrays,1994,16,12,2,0.0,2095605808,Andrew U. Frank,0,0.14246063164205522,0.3556335751035585
+889496518,Differentially private event sequences over infinite streams,2014,31,82,4,1.0,1776653467,Georgios Kellaris,0,-0.10623040422093365,-0.29245463750663153
+1487804032,Relation-Based Information Processing With Symbolic Spatial Indexes,1994,15,1,2,0.0,1986549105,Theodoros S. Andronikos,0,0.5927666352261862,0.5521322189236015
+1525153185,Computing Medoids in Large Spatial Datasets,2009,0,8,3,0.0870938,1984456616,Spiros Papadimitriou,0,-0.4614075320530105,1.2151242820196997
+1535065114,Evaluation of Iceberg Distance Joins,2003,22,16,5,1.0,18851973,Nikos Mamoulis,0,-0.49407017766511324,0.7785084859648977
+1553193704,MV3R-Tree A Spatio-Temporal Access Method for Timestamp and Interval Queries,2001,27,305,2,1.0,2131082813,Yufei Tao,0,0.003708468606338,0.082832279151172
+1508454112,Aggregate Processing of Planar Points,2002,24,27,2,1.0,2131082813,Yufei Tao,0,-0.1445250191104469,-0.02619723650197025
+1500081888,Range queries involving spatial relations A performance analysis,1995,30,26,2,1.0,31261168,Yannis Theodoridis,0,-0.38673021194836876,0.4883038998367072
+1517511286,Spatio-Temporal Data Warehouses,2009,12,0,2,0.539197,2131082813,Yufei Tao,0,1.7114489333430036,1.2004166783248833
+1554011878,Spatial Reasoning Using Symbolic Arrays,1992,14,21,2,0.0,2062009547,Timos Sellis,0,0.13030744088979307,0.07650506209552779
+1572177749,Indexing and Retrieval of Historical Aggregate Information about Moving Objects,2002,8,20,5,1.0,18851973,Nikos Mamoulis,0,0.6926461546695651,0.2796547195964779
+1546365363,Efficient OLAP Operations in Spatial Data Warehouses,2001,23,288,3,1.0,252562283,Panos Kalnis,0,0.637971120554539,0.554112415756697
+1537655082,Nearest Neighbor Queries in Network Databases,2008,16,5,4,0.313835,18851973,Nikos Mamoulis,0,0.003708468606338,0.082832279151172
+1502155832,Spatial Joins Algorithms Cost Models and Optimization Techniques,2005,0,7,3,0.508589,18851973,Nikos Mamoulis,0,0.003708468606338,0.082832279151172
+1567263900,Continuous Spatial Authentication,2009,18,2,2,1.0,2119753300,Stavros Papadopoulos,0,-0.1847743722593346,0.060218323848301614
+1549381625,Querying about the Past the Present and the Future in Spatio-Temporal,2004,0,23,3,1.0,2110385854,Jimeng Sun,0,0.003708468606338,0.082832279151172
+1594964541,Advances in Spatial and Temporal Databases 10th International Symposium SSTD 2007 Boston MA USA July 16-18 2007 Proceedings,2007,0,0,2,0.329198,2217777545,George Kollios,0,0.37760659171536676,0.11239488265913182
+1605618332,The semantics of relations in 2D space using representative points Spatial indexes,1993,10,30,2,0.0,2062009547,Timos Sellis,0,0.18476056838844124,0.722282387279744
+1605723650,Advances in spatial databases 6th International Symposium SSD99 Hong Kong China July 20-23 1999 proceedings,1999,0,3,2,0.0,172506059,Ralf Hartmut GÃ¼ting,0,0.6926627733748276,0.47223807549490954
+1597849513,Approximate Processing of Multiway Spatial Joins in Very Large Databases,2002,23,17,2,1.0,49300293,Dinos Arkoumanis,0,-0.11300819442795465,0.09518744858596301
+1590297619,Validity information retrieval for spatio-temporal queries Theoretical performance bounds,2003,33,13,3,1.0,18851973,Nikos Mamoulis,0,-0.34765505412674225,0.651206359113682
+1608524621,Reverse kNN search in arbitrary dimensionality,2004,20,249,3,0.714286,2081778406,Xiang Lian,0,-0.1984714131877254,-0.08331523624254955
+1767929998,Medoid queries in large spatial databases,2005,24,16,3,0.0939467,1984456616,Spiros Papadimitriou,0,-0.5282806884547961,1.1612831760104956
+1612034488,Dynamic plan migration for snapshot-equivalent continuous queries in data stream systems,2006,31,17,4,0.0,145325676,Michael Cammert,0,-0.01570991573028291,-1.0531181009438402
+1592776862,The Retrieval of Direction Relations using R-trees,1994,13,41,3,1.0,31261168,Yannis Theodoridis,0,0.003708468606338,0.082832279151172
+1781998933,A TMS-Based Approach for Efficient Conflict Resolution and Replanning in Resource Allocation Problems,1995,7,1,2,1.0,2028554527,Nikos Karacapilidis,0,0.003708468606338,0.082832279151172
+1864192352,Spatial Queries in the Presence of Obstacles,2004,26,49,3,1.0,2085710142,Kyriakos Mouratidis,0,-0.8818722618575799,-0.07737548589264091
+1950065461,Combining Differential Privacy and PIR for Efficient Strong Location Privacy,2015,29,2,2,1.0,1776653467,Georgios Kellaris,0,-0.12681076648878814,0.06540009977213765
+1899217781,Differentially Private Histograms for Range-Sum Queries A Modular Approach,2015,7,2,3,1.0,1776653467,Georgios Kellaris,0,0.003708468606338,0.082832279151172
+1976722103,Prediction and indexing of moving objects with unknown motion patterns,2004,17,213,3,1.0,2131082813,Yufei Tao,0,-0.23596603161225885,0.32842752035054174
+1971640526,Branch-and-bound processing of ranked queries,2007,30,60,3,0.0,238786035,Vagelis Hristidis,0,-0.23019885106668828,-0.32726660042442607
+1982141094,Cost models for overlapping and multiversion structures,2002,40,41,2,1.0,2131082813,Yufei Tao,0,-0.1161250729931801,-0.07077718800954501
+1985808153,Complex Spatial Query Processing,2004,34,4,3,0.667004,18851973,Nikos Mamoulis,0,-0.0395804122397981,0.0068802457672825015
+1973893716,Kernel-based skyline cardinality estimation,2009,38,35,4,0.00047108,121171588,Anthony K. H. Tung,0,0.6836251701355479,-0.3114763739763912
+1982768666,Multidimensional reverse kNN search,2007,21,59,4,0.714286,2081778406,Xiang Lian,0,-0.6006503968517926,0.3333055194248585
+1981271696,Authenticated Multi-Step Nearest Neighbor Search,2010,23,8,3,1.0,2119753300,Stavros Papadopoulos,0,-0.1984714131877254,-0.08331523624254955
+1971119807,Analysis of predictive spatio-temporal queries,2003,66,62,3,1.0,2110385854,Jimeng Sun,0,-0.5795071418378525,0.8111181427696839
+1965932952,Real-Time Multi-Criteria Social Graph Partitioning A Game Theoretic Approach,2015,27,17,3,0.0,240820708,Cyrus Shahabi,0,0.003708468606338,0.082832279151172
+1987033997,Qualitative representation of spatial knowledge in two-dimensional space,1994,45,113,2,0.0,2062009547,Timos Sellis,0,0.5238526777398307,0.6003140429792146
+1969494827,Hill climbing algorithms for content-based retrieval of similar configurations,2000,25,10,1,1.0,2243308922,Dimitris Papadias,0,0.003708468606338,0.082832279151172
+1983579229,Constraint-Based Processing of Multiway Spatial Joins,2001,48,15,3,1.0,18851973,Nikos Mamoulis,0,-0.5090459974072453,-0.8499748230574432
+1987187649,Minimizing the communication cost for continuous skyline maintenance,2009,32,52,4,0.00047108,121171588,Anthony K. H. Tung,0,0.04058852858681295,-0.03346779459016044
+2008459584,Multi-query optimization for on-line analytical processing,2003,21,34,2,1.0,252562283,Panos Kalnis,0,0.4242544910201363,0.7543398914126836
+2005083765,Multiway spatial joins,2001,53,73,2,1.0,18851973,Nikos Mamoulis,0,-0.45853982478583405,0.7812322689299344
+2001845525,Location-based spatial queries,2003,17,269,4,1.0,2122075669,Manli Zhu,0,-0.0395804122397981,0.0068802457672825015
+1995451707,Keyword search over relational tables and streams,2009,40,14,1,1.0,2243308922,Dimitris Papadias,0,-1.2766071123281375,0.31692725099641644
+1999018453,Content-based retrieval using heuristic search,1999,29,24,4,1.0,18851973,Nikos Mamoulis,0,0.003708468606338,0.082832279151172
+1992299165,Collaborative Filtering with Personalized Skylines,2011,46,36,3,0.395461,1984523449,Ilaria Bartolini,0,0.8491996653339902,0.21048409438712926
+1995861221,Skyline Processing on Distributed Vertical Decompositions,2013,17,26,2,0.395461,1984523449,Ilaria Bartolini,0,0.04058852858681295,-0.03346779459016044
+2013946540,Spatial Query Estimation without the Local Uniformity Assumption,2006,36,3,3,0.889883,2131082813,Yufei Tao,0,-0.12265933845466465,0.1125584131638326
+2029781953,Approximate spatio-temporal retrieval,2001,53,16,3,1.0,18851973,Nikos Mamoulis,0,-0.6851619434320496,0.51093264950864
+2023448752,Spatial relations minimum bounding rectangles and spatial data structures,1997,29,159,2,0.925926,31261168,Yannis Theodoridis,0,0.6603335312275556,0.8497632998272554
+2022056881,Tree-based partition querying a methodology for computing medoids in large spatial datasets,2008,35,24,3,0.0939467,1984456616,Spiros Papadimitriou,0,-0.3374221912507361,0.9529322288807431
+2018700273,The power-method a comprehensive estimation technique for multi-dimensional queries,2003,33,11,3,1.0,2131082813,Yufei Tao,0,-0.8366405063637864,-0.09386381901931302
+2023997631,Just-In-Time Processing of Continuous Queries,2008,25,10,1,1.0,2243308922,Dimitris Papadias,0,-0.8937119989806356,-0.2470286621174529
+2013505445,Direction relations and two-dimensional range queries optimisation techniques,1998,42,17,4,0.833333,31261168,Yannis Theodoridis,0,-0.40750169580879414,0.0714079069932432
+2034796334,Processing and optimization of multiway spatial joins using R-trees,1999,27,69,3,1.0,18851973,Nikos Mamoulis,0,0.003708468606338,0.082832279151172
+2045235113,Integration of spatial join algorithms for processing multiple inputs,1999,38,56,2,1.0,18851973,Nikos Mamoulis,0,-1.3495851740740776,1.0911783970720925
+2059645646,Spatio-temporal join selectivity,2006,28,19,4,0.942029,2110385854,Jimeng Sun,0,0.003708468606338,0.082832279151172
+2063208042,Continuous authentication on relational streams,2010,31,29,2,1.0,2119753300,Stavros Papadopoulos,0,0.08092951676360635,0.17008642108949085
+2078060412,Search algorithms for multiway spatial joins,2002,29,3,2,1.0,49300293,Dinos Arkoumanis,0,0.003708468606338,0.082832279151172
+2067636847,Nearest neighbor search with strong location privacy,2010,24,127,2,1.0,2119753300,Stavros Papadopoulos,0,-0.29419863856227435,-0.22292724332462646
+2096547754,An optimal and progressive algorithm for skyline queries,2003,21,690,3,1.0,2131082813,Yufei Tao,0,0.254012144693908,0.17560244380530005
+2085676663,Historical spatio-temporal aggregation,2005,62,57,2,1.0,2131082813,Yufei Tao,0,-0.13275296294680305,-0.071629888206014
+2087869882,View selection using randomized search,2002,24,79,3,1.0,18851973,Nikos Mamoulis,0,1.354046584184174,0.9695592740218147
+2097357324,A graph method for keyword-based selection of the top-K databases,2008,27,43,3,0.00047108,121171588,Anthony K. H. Tung,0,-2.0835329354509997,0.6613297160586824
+2086246548,Relation-based similarity,1997,9,19,2,1.0,2091269667,Vasilis Delis,0,0.003708468606338,0.082832279151172
+2079353783,A reciprocal framework for spatial K-anonymity,2010,35,51,3,0.167415,141097756,Gabriel Ghinita,0,-0.8119081610759554,0.7753277337940678
+2098109090,Cost models for overlapping and multi-version B-trees,2002,20,3,2,1.0,2131082813,Yufei Tao,0,-0.19345223618377003,0.41324067081544397
+2101024939,Preventing Location-Based Identity Inference in Anonymous Spatial Queries,2007,31,546,4,0.167415,141097756,Gabriel Ghinita,0,-0.6748225390445666,0.4337309053172882
+2079610057,Processing fuzzy spatial queries a configuration similarity approach,1999,53,57,1,1.0,2243308922,Dimitris Papadias,0,0.003708468606338,0.082832279151172
+2084945437,Authenticated indexing for outsourced spatial databases,2009,35,71,3,1.0,2119753300,Stavros Papadopoulos,0,-0.535637178930364,0.31978008620019593
+2131956164,Algorithms for Querying by Spatial Structure,1998,23,67,3,1.0,18851973,Nikos Mamoulis,0,-0.4411249734400073,0.2726068484858165
+2138117958,Authenticated Multistep Nearest Neighbor Search,2011,24,12,3,1.0,2119753300,Stavros Papadopoulos,0,-0.060272058153941516,-0.18655989291471764
+2111593814,Query by document,2009,34,83,5,0.0,94049422,Panagiotis G. Ipeirotis,0,-0.140148092735447,-0.7083328656141291
+2114773789,Indexing spatio-temporal data warehouses,2002,20,139,2,1.0,2131082813,Yufei Tao,0,0.5937678831381362,0.504762695869796
+2123575007,Selectivity estimation for predictive spatio-temporal queries,2003,17,76,3,1.0,2110385854,Jimeng Sun,0,-0.558737249114375,-0.4658588392646328
+2132510297,RPJ producing fast join results on streams through rate-based optimization,2005,18,65,4,0.508589,18851973,Nikos Mamoulis,0,0.1656019551103819,0.40049106199639006
+2112052203,A general framework for geo-social query processing,2013,20,55,3,1.0,252418274,Nikos Armenatzoglou,0,-0.11252445413048781,0.01839625292644808
+2106059185,Continuous Nearest Neighbor Queries over Sliding Windows,2007,32,55,2,1.0,2085710142,Kyriakos Mouratidis,0,0.023205532670407154,0.12089542161666468
+2112082074,CADS continuous authentication on data streams,2007,13,63,2,1.0,2119753300,Stavros Papadopoulos,0,-0.19310447121345162,0.18659174724031466
+2112128729,Spatio-temporal aggregation using sketches,2004,24,140,4,1.0,2131082813,Yufei Tao,0,-0.01657107088421793,0.035389748403282274
+2120947238,Continuous k-Means Monitoring over Moving Objects,2008,37,33,3,0.00047108,121171588,Anthony K. H. Tung,0,-0.4381479942883965,1.2030875514352943
+2129765035,Reverse nearest neighbors in large graphs,2006,21,77,4,0.440561,18851973,Nikos Mamoulis,0,-1.4101504097558266,2.1210030270506346
+2138835206,Adaptive index structures,2002,16,18,2,1.0,2131082813,Yufei Tao,0,-0.0395804122397981,0.0068802457672825015
+2112213707,Performance analysis of R*-trees with arbitrary node extents,2004,49,17,2,1.0,2131082813,Yufei Tao,0,-0.5643915236875033,0.16187890221959697
+2106475159,Selectivity Estimation of Complex Spatial Queries,2001,30,26,2,1.0,18851973,Nikos Mamoulis,0,-0.6224911074658046,0.40921345958582994
+2136046112,Aggregate nearest neighbor queries in spatial databases,2005,45,228,3,1.0,2085710142,Kyriakos Mouratidis,0,-0.5688952050792817,0.49386122665717624
+2109549608,Authenticated join processing in outsourced databases,2009,23,96,3,0.529111,252562283,Panos Kalnis,0,-1.9499277943077922,0.23759567261126285
+2112734514,Range aggregate processing in spatial databases,2004,46,78,2,1.0,2131082813,Yufei Tao,0,-0.44504553271689806,0.3826082091898431
+2106742801,Continuous monitoring of top-k queries over sliding windows,2006,31,215,2,1.0,2085710142,Kyriakos Mouratidis,0,0.1656019551103819,0.40049106199639006
+2109821166,Maintaining sliding window skylines on data streams,2006,31,199,2,0.889883,2131082813,Yufei Tao,0,0.28623805631467963,0.3889997689603792
+2124686833,Topologically Sorted Skylines for Partially Ordered Domains,2009,24,45,3,0.502245,1944603549,Dimitris Sacharidis,0,0.04058852858681295,-0.03346779459016044
+2136618432,The pursuit of a good possible world extracting representative instances of uncertain graphs,2014,36,28,3,0.0,1979201319,Francesco Gullo,0,-0.37904624941689796,1.2539138889398045
+2116148227,Proxy-server architectures for OLAP,2001,26,28,2,1.0,252562283,Panos Kalnis,0,1.0132663377260682,0.44823697798303724
+2133675752,The TPR*-tree an optimized spatio-temporal access method for predictive queries,2003,22,445,3,1.0,2110385854,Jimeng Sun,0,-0.02871123246106035,0.3603894383811772
+2142908528,Spatial queries in dynamic environments,2003,33,78,2,1.0,2131082813,Yufei Tao,0,-0.7115739254660983,0.16717641040082076
+2124971582,Approximate temporal aggregation,2004,21,25,3,1.0,2131082813,Yufei Tao,0,-0.05754412141947964,0.3747844159756932
+2125111652,Query processing in spatial databases containing obstacles,2005,21,20,2,1.0,2085710142,Kyriakos Mouratidis,0,-0.5688952050792817,0.49386122665717624
+2116396741,Progressive skyline computation in database systems,2005,34,703,3,1.0,2131082813,Yufei Tao,0,0.8206834142132429,0.366089274144869
+2143145979,Venn sampling a novel prediction technique for moving objects,2005,24,18,2,1.0,2131082813,Yufei Tao,0,0.2652437162522985,0.6642631919946788
+2130992008,Random Sampling for Continuous Streams with Arbitrary Updates,2007,27,15,3,0.714286,2081778406,Xiang Lian,0,0.003708468606338,0.082832279151172
+2134019775,Algorithms for Hierarchical Spatial Reasoning,1997,43,52,2,0.0,66103918,Max J. Egenhofer,0,-0.8119081610759554,0.7753277337940678
+2128348038,Top-k spatial joins,2005,35,33,3,1.0,2122075669,Manli Zhu,0,-0.488237597796103,0.5264951073970136
+2134316083,Querying about the past the present and the future in spatio-temporal databases,2004,35,82,3,1.0,2110385854,Jimeng Sun,0,-0.14633570874358875,0.24081504945890617
+2143709779,Aggregate nearest neighbor queries in road networks,2005,19,169,3,0.508589,18851973,Nikos Mamoulis,0,-1.382543329303037,0.10037454093029936
+2114004713,Conceptual partitioning an efficient method for continuous nearest neighbor monitoring,2005,19,281,2,1.0,2085710142,Kyriakos Mouratidis,0,-0.11390224549078898,0.28173926821242923
+2134577493,Optimization Algorithms for Simultaneous Multidimensional Queries in OLAP Environments,2001,14,6,2,1.0,252562283,Panos Kalnis,0,-0.5066004054456115,0.17798271953697956
+2114074787,Hierarchical constraint satisfaction in spatial databases,1999,16,14,3,1.0,18851973,Nikos Mamoulis,0,0.003708468606338,0.082832279151172
+2125941728,Spatial Outsourcing for Location-based Services,2008,20,66,3,1.0,2119753300,Stavros Papadopoulos,0,-0.24631475925461466,0.01662727508514165
+2131796944,Group nearest neighbor queries,2004,33,220,4,1.0,2085710142,Kyriakos Mouratidis,0,-0.8301534132646642,1.347875080119997
+2134780295,Continuous nearest neighbor monitoring in road networks,2006,30,192,4,0.440561,18851973,Nikos Mamoulis,0,0.026755929336167102,0.24721200648434238
+2123097133,Efficient historical R-trees,2001,15,85,2,1.0,2131082813,Yufei Tao,0,-0.11046168968959576,0.22456529809096987
+2150246229,All-nearest-neighbors queries in spatial databases,2004,27,78,3,0.667004,18851973,Nikos Mamoulis,0,-0.01657107088421793,0.035389748403282274
+2162162443,Keyword search on relational data streams,2007,25,89,1,1.0,2243308922,Dimitris Papadias,0,-0.1981863258235239,0.4451987705080485
+2153307033,An efficient cost model for optimization of nearest neighbor search in low and medium dimensional spaces,2004,31,88,3,0.667004,18851973,Nikos Mamoulis,0,-0.48895683407146007,1.7405548939261513
+2162244814,Reachability Indexes for Relational Keyword Search,2009,26,22,1,1.0,2243308922,Dimitris Papadias,0,-0.8909805064350825,0.2517094231574542
+2169336598,Query processing in spatial network databases,2003,28,553,3,1.0,18851973,Nikos Mamoulis,0,-0.6748225390445666,0.4337309053172882
+2145320861,Separating Authentication from Query Execution in Outsourced Databases,2009,9,19,4,1.0,2119753300,Stavros Papadopoulos,0,0.003708468606338,0.082832279151172
+2160281147,A threshold-based algorithm for continuous monitoring of k nearest neighbors,2005,24,97,3,1.0,2085710142,Kyriakos Mouratidis,0,-0.6869862473100788,1.0419957363929264
+2160837767,Spatial temporal and spatio-temporal databases - hot issues and directions for phd research,2004,10,38,4,0.0,66103918,Max J. Egenhofer,0,-0.3049247326517621,0.1886461481807304
+2166996142,Time-parameterized queries in spatio-temporal databases,2002,27,222,2,1.0,2131082813,Yufei Tao,0,0.03350881754352841,-0.2373136689282932
+2155169899,Reverse nearest neighbors in large graphs,2005,20,25,4,0.508589,18851973,Nikos Mamoulis,0,0.13841360693341562,1.270117610659425
+2146240793,k-Anonymity in the Presence of External Databases,2010,30,28,3,0.502245,1944603549,Dimitris Sacharidis,0,0.27769834780093045,0.4768922107172074
+2146340995,Computer supported argumentation and collaborative decision making the HERMES system,2001,46,278,2,1.0,2028554527,Nikos Karacapilidis,0,0.003708468606338,0.082832279151172
+2167443373,An adaptive peer-to-peer network for distributed caching of OLAP results,2002,27,108,5,1.0,252562283,Panos Kalnis,0,1.2182067606106117,0.3929018396063729
+2146485383,Continuous nearest neighbor search,2002,27,414,3,1.0,2131082813,Yufei Tao,0,-0.5481616817769454,1.3490730251270169
+2146542011,Slot index spatial join,2003,34,33,2,1.0,18851973,Nikos Mamoulis,0,-0.16247630405893226,0.7870738070371239
+2170583713,HybMig A Hybrid Approach to Dynamic Plan Migration for Continuous Queries,2007,18,33,2,0.0,2151325580,Bernhard Seeger,0,-0.6928242824486878,0.030775138220981782
+2158956189,Secure and efficient in-network processing of exact SUM queries,2011,29,18,3,0.0,81359666,Aggelos Kiayias,0,-0.006799453288761149,-0.20169485267385479
+2150195474,Querying Multimedia Documents By Spatiotemporal Structure,1998,43,0,2,1.0,2091269667,Vasilis Delis,0,-0.11031075889357524,-0.010165387296855496
+2243109089,Proceedings of the 2013 ACM SIGMOD International Conference on Management of Data,2013,0,3,3,0.0,2116418223,Kenneth A. Ross,0,0.1091051682475338,0.10617133303775234
+2196800259,Geo-Social Ranking functions and query processing,2015,27,12,3,1.0,252418274,Nikos Armenatzoglou,0,0.003708468606338,0.082832279151172
+2615738497,Engineering Methods for Differentially Private Histograms Efficiency Beyond Utility,2015,0,0,3,1.0,1776653467,Georgios Kellaris,0,0.04058852858681295,-0.03346779459016044
+2592770693,Multi-dimensional range query processing with spatial relations,1997,37,10,3,0.925926,31261168,Yannis Theodoridis,0,0.47050338680516485,0.7445935894531909
+2898507664,A unified agent-based framework for constrained graph partitioning,2019,22,1,1,1.0,2243308922,Dimitris Papadias,0,0.003708468606338,0.082832279151172
+2949529300,Uncertain Graph Sparsification (Extended Abstract),2019,8,1,3,0.0,2176652147,Francesco Bonchi,0,-0.37904624941689796,1.2539138889398045
+2962880607,Engineering Methods for Differentially Private Histograms Efficiency Beyond Utility,2019,24,0,3,1.0,1776653467,Georgios Kellaris,0,-0.07413465834740601,0.0692786913354558
+2968295211,Density-based Community Detection in Geo-Social Networks,2019,21,2,1,1.0,2243308922,Dimitris Papadias,0,-0.6145835737474208,1.5949560229907547
+3011041848,Diversified spatial keyword search on RDF data,2020,52,0,3,0.0,18851973,Nikos Mamoulis,0,1.3906317916645676,-2.522661391867838

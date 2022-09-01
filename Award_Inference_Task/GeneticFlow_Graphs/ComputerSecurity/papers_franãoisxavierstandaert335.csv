@@ -1,0 +1,82 @@
+802019357,On the Cost of Lazy Engineering for Masked Software Implementations,2014,30,60,3,0,1889903544,Oscar Reparaz,0,0.3171484069971384,-0.13992525839030945
+1558671776,A tutorial on physical security and side-channel attacks,2005,79,38,2,0,165547707,FranÃ§ois Koeune,0,0.6129818927283056,-0.16492223035369719
+1511842436,SEA a scalable encryption algorithm for small embedded applications,2006,29,174,3,0,223988576,Neil Gershenfeld,0,-0.08906051721810006,-2.1324253860468394
+1485959221,Fresh re-keying II securing multiple parties against side-channel and fault attacks,2011,43,18,3,0,88302247,Francesco Regazzoni,0,1.604499375258225,-0.6956697418846987
+1495065856,Leakage-Resilient Symmetric Cryptography under Empirically Verifiable Assumptions,2013,41,38,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.3428572136881236,-1.4135634247956035
+1736312098,Representation- Leakage- and Cipher-Dependencies in Algebric Sidde-Channel Attacks,2010,13,8,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.7792771857238562,-0.9742314041840672
+1594736077,Does Physical Security of Cryptographic Devices Need a Formal Study (Invited Talk),2008,0,2,1,0,2085610964,FranÃ§ois Xavier Standaert,0,-1.508452140373687,-1.7077584760398343
+1902805234,Leakage Resilient Cryptography a Practical Overview,2011,0,5,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.3171484069971384,-0.13992525839030945
+1873192008,Systematic Construction and Comprehensive Evaluation of Kolmogorov-Smirnov Test Based Side-Channel Distinguishers,2013,21,7,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.8764028619608832,-0.652921042041736
+1742462572,A Dynamic Current Mode Logic to Counteract Power Analysis Attacks,2004,10,49,3,0,2023935411,Ilham Hassoune,0,-0.24311832284834972,-0.3997409978318126
+1796231437,A formal study of power variability issues and side-channel attacks for nanoscale devices,2011,31,15,4,0,315100061,Nicolas Veyrat Charvillon,0,0.4422824772884897,-0.11620710835491949
+1668897352,Low Entropy Masking Schemes Revisited,2013,23,32,2,0,50202740,Emmanuel Prouff,0,-0.26681917229571345,0.17333473706855038
+1797487015,How to Compare Profiled Side-Channel Attacks ,2009,15,37,2,0,165547707,FranÃ§ois Koeune,0,1.0670743128607165,-0.6382225585053216
+1747031273,Cryptographic Hardware and Embedded Systems -- CHES 2010,2010,0,167,2,0,339490103,Stefan Mangard,0,0.9912807475705927,-0.2589155936680665
+1751196503,Stealthy Compromise of Wireless Sensor Nodes with Power Analysis Attacks,2010,35,26,2,0,298320290,Giacomo de Meulenaer,0,-0.06882820587844,0.22982190965035054
+1759004662,Physically Secure Cryptographic Computations From Micro to Nano Electronic Devices,2007,7,4,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.2768688801906922,0.17937172350439126
+1589467629,Smart Card Research and Advanced Applications 8th IFIP WG 88/112 International Conference CARDIS 2008 London UK September 8-11 2008 Proceedings,2008,0,0,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.036191276275480654,0.3679403960301915
+1763631861,On the Need of Physical Security for Small Embedded Devices A Case Study with COMP128-1 Implementations in SIM Cards,2013,16,15,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.03796164362202129,-0.38586840118332505
+1816243420,From New Technologies to New Solutions,2013,29,4,2,0,56200024,StÃ©phanie Kerckhof,0,1.6105308065673531,-0.6468171444762402
+1688518862,Efficient removal of random delays from embedded software implementations using hidden markov models,2012,46,26,4,0,315100061,Nicolas Veyrat Charvillon,0,0.7435878556297787,-0.9436971293824907
+1769884570,Hardware Implementation and Side-Channel Analysis of Lapin,2014,34,12,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.09699909062825633,-0.6485309891776737
+1697444696,A Note on the Empirical Evaluation of Security Margins against Algebraic Attacks (with Application to Low Cost-Ciphers LED and Piccolo),2012,0,1,2,0,1863984438,Christina Boura,0,0.5431231018538168,-0.6884345508142885
+1699782153,Power analysis attacks against FPGA implementations of the DES,2004,9,55,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.3920360503775084,-0.6367647356682431
+1772067890,Introduction to Side-Channel Attacks,2010,29,105,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.8166474966762762,-0.6340694551181251
+1610999554,On The Security of the DeKaRT Primitive,2004,6,0,2,0,296332964,GaÃ«l Rouvroy,0,0.860134665368832,-0.8126455936738834
+1704209912,Multi-trail statistical saturation attacks,2010,39,9,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.7947951065183294,-1.1278560918536122
+1704766018,Adaptive chosen-message side-channel attacks,2010,39,16,2,0,315100061,Nicolas Veyrat Charvillon,0,0.7949605827171063,-0.6994047927167079
+1920313804,Improved and Multiple Linear Cryptanalysis of Reduced Round Serpent,2007,24,24,1,0,2085610964,FranÃ§ois Xavier Standaert,0,1.4171390745156287,-2.0407089760052983
+1727616536,The Swiss-Knife RFID Distance Bounding Protocol,2009,17,143,3,0,165547707,FranÃ§ois Koeune,0,-0.8654278184116303,-0.4803059330302091
+1734836454,A comparative cost/security analysis of fault attack countermeasures,2006,38,96,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.4306804031469959,-0.8367103116675025
+2020981190,A block cipher based pseudo random number generator secure against side-channel key recovery,2008,20,60,1,0,2085610964,FranÃ§ois Xavier Standaert,0,1.2862116581646932,-1.809089359591707
+2015691375,Towards fresh re-keying with leakage-resilient PRFs cipher design principles and analysis,2014,42,18,5,0,184805220,Johann Heyszl,0,0.36073628300798083,-0.947708156110368
+2036706815,Extractors against side-channel attacks weak or strong ,2011,20,12,2,0,248606260,Marcel Medwed,0,0.9845857554679553,-0.9657407112655099
+2061496435,Leakage-Resilient Authentication and Encryption from Symmetric Cryptographic Primitives,2015,37,24,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.18319876333677135,-1.3250987091572166
+2117290716,A first step towards automatic application of power analysis countermeasures,2011,21,69,5,0,88302247,Francesco Regazzoni,0,0.6526045202780757,-0.5090599003474338
+2120203085,On the masking countermeasure and higher-order power analysis attacks,2005,19,43,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.14022785570727786,0.0910412207420622
+2114476616,A Formal Foundation for the Security Features of Physical Functions,2011,34,45,2,0,240619246,Frederik Armknecht,0,0.1839344504896279,-0.6138005850442395
+2138949083,Security analysis of image-based PUFs for anti-counterfeiting,2012,36,7,2,0,165547707,FranÃ§ois Koeune,0,-0.3398767200914724,-0.03130744772717026
+2118432793,Masking and leakage-resilient primitives One the other(s) or both ,2015,63,19,2,0,2037562961,Sonia BelaÃ¯d,0,0.7039345873739952,-0.5393238860675504
+2119359951,Compact implementation and performance evaluation of hash functions in ATtiny devices,2012,17,24,12,0,56200024,StÃ©phanie Kerckhof,0,-0.47327430899310496,-1.265083872439377
+2137163170,Intellectual Property Protection for Integrated Systems Using Soft Physical Hash Functions,2012,41,11,4,0,56200024,StÃ©phanie Kerckhof,0,0.19564824517020143,-1.0334016634959697
+2150892302,Fresh re-keying security against side-channel and fault attacks for low-cost devices,2010,43,79,4,0,88302247,Francesco Regazzoni,0,0.7739580553682313,-0.6399752763334726
+2153885989,A Formalization of the Security Features of Physical Functions,2011,32,104,2,0,240619246,Frederik Armknecht,0,-0.31167543294483996,-0.7846138532525745
+2167208487,Practical leakage-resilient pseudorandom generators,2010,33,58,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.8790456922134056,-0.9447117486160573
+2168168877,Extractors against side-channel attacks weak or strong ,2011,21,0,2,0,248606260,Marcel Medwed,0,0.970407010552244,-1.0553414898857818
+2247006822,Improved higher-order side-channel attacks with FPGA experiments,2005,30,72,2,0,56196073,Nicolas Donckers,0,0.7816410026249695,-0.680108950578072
+2247190769,Automatic Application of Power Analysis Countermeasures AliGalipBayrakFrancescoRegazzoniDavidNovoPhilipBriskFranÃ§ois-XavierStandaertandPaoloIenne,2015,37,0,5,0,88302247,Francesco Regazzoni,0,0.836307111772204,-1.0154111877199192
+2190991586,Combining Leakage-Resilient PRFs and Shuffling Towards Bounded Security for Small Embedded Devices,2014,20,3,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.663462722531787,0.3226273691574037
+2241259389,Making Masking Security Proofs Concrete - Or How to Evaluate the Security of any Leaking Device,2015,70,70,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.43170673482843536,-0.45960249570982237
+2294912729,Small Tweaks Do Not Help Differential Power Analysis of MILENAGE Implementations in 3G/4G USIM Cards,2015,15,18,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.4827262127386574,-0.3152900315720522
+2408295720,On (Destructive) Impacts of Mathematical Realizations over the Security of Leakage Resilient ElGamal Encryption,2013,12,0,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.040169526312313304,-1.436557090984636
+2461125394,Towards Fresh and Hybrid Re-Keying Schemes with Beyond Birthday Security,2015,17,16,4,0,89509003,Christoph Dobraunig,0,0.18993826203230027,-1.0218830057968324
+2538603146,Private Circuits III Hardware Trojan-Resilience via Testing Amplification,2016,27,13,2,0,2072459584,Stefan Dziembowski,0,-0.9381043379662249,0.38178077870555205
+2550546614,Towards Fair and Efficient Evaluations of Leaking Cryptographic Devices,2016,59,1,1,0,2085610964,FranÃ§ois Xavier Standaert,0,-0.31204171203566383,-1.0654048574611674
+2541438510,Power analysis attacks against FPGA implementations of the DES,2004,0,6,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.3057667519586956,-0.5097823641974378
+2563513853,Towards Hardware-Intrinsic Security,2010,0,1,1,0,2085610964,FranÃ§ois Xavier Standaert,0,-0.49855030693715435,1.3743771681663757
+2584285084,A Formal Study of Power Variability Issues and Side-Channel Attacks for Nanoscale Devices,2011,0,93,4,0,315100061,Nicolas Veyrat Charvillon,0,0.6825960938176738,-0.26937373633033723
+2586683750,Towards easy leakage certification extended version,2017,27,4,2,0,2009736051,FranÃ§ois Durvaux,0,0.27574205497313425,-0.17703933217192608
+2594133720,An Analysis of the Learning Parity with Noise Assumption Against Fault Attacks,2016,30,2,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.17657162704622253,-0.6788530862655545
+2594820387,Inner Product Masking for Bitslice Ciphers and Security Order Amplification for Linear Leakages,2016,15,6,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.3137433018655129,-0.4855809975636733
+2607789709,Towards Fair and Efficient Evaluations of Leaking Cryptographic Devices- Overview of the ERC Project CRASH Part I -,2016,0,1,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.3171484069971384,-0.13992525839030945
+2740928306,Side-Channel Attacks Against the Human Brain The PIN Code Case Study,2017,24,4,2,0,171846410,AndrÃ© Mouraux,0,0.9753907213017128,-0.24445946668398916
+2766582659,On Leakage-Resilient Authenticated Encryption with Decryption Leakages,2017,0,10,1,0,2085610964,FranÃ§ois Xavier Standaert,0,-0.3566570956885159,-0.8171845817488554
+2810099430,Leakage-Resilient Authenticated Encryption with Misuse in the Leveled Leakage Setting Definitions Separation Results and Constructions,2018,0,3,1,0,2085610964,FranÃ§ois Xavier Standaert,0,-0.2133971482398226,-0.6747789786693421
+2807067416,Ciphertext Integrity with Misuse and Leakage Definition and Efficient Constructions with Symmetric Primitives,2018,45,5,2,0,165547707,FranÃ§ois Koeune,0,0.041548743873014,-1.7428908588943222
+2921639663,How (Not) to Use Welchâ€™s T-Test in Side-Channel Security Evaluations,2018,29,10,1,0,2085610964,FranÃ§ois Xavier Standaert,0,1.3194664392179616,-0.28343343788944964
+2899178667,Side-channel attacks against the human brain the PIN code case study (extended version),2018,25,1,2,0,171846410,AndrÃ© Mouraux,0,0.9753907213017128,-0.24445946668398916
+2951480854,Towards Security Limits in Side-Channel Attacks,2007,0,0,2,0,2006974593,CÃ©dric Archambeau,0,0.9753907213017128,-0.24445946668398916
+2931563638,TEDT a Leakage-Resilient AEAD mode for High (Physical) Security Applications,2019,0,4,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.0767088253161196,0.12139185821973236
+2949639687,Making Masking Security Proofs Concrete Or How to Evaluate the Security of any Leaking Device,2015,0,1,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.0040557659796233,0.2757546058061082
+2951655179,Leakage Resilient Cryptography in Practice,2009,0,0,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.3171484069971384,-0.13992525839030945
+2949945550,The World is Not Enough Another Look on Second-Order DPA,2010,0,1,6,0,248606260,Marcel Medwed,0,0.0040557659796233,0.2757546058061082
+2954665343,Reducing the Cost of Authenticity with Leakages a $$mathsf {CIML2}$$-Secure $$mathsf {AE}$$ Scheme with One Call to a Strongly Protected Tweakable Block Cipher,2019,26,2,1,0,2085610964,FranÃ§ois Xavier Standaert,0,-0.1714651006412678,-1.3228777491056145
+2947843466,Reducing the Cost of Authenticity with Leakages a CIML2-Secure AE Scheme with One Call to a Strongly Protected Tweakable Block Cipher,2019,0,0,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.5431231018538168,-0.6884345508142885
+2955990159,Revisiting Location Privacy from a Side-Channel Analysis Viewpoint,2019,20,1,1,0,2085610964,FranÃ§ois Xavier Standaert,0,1.9021917370370351,-0.33714888768139045
+2949332821,Extractors Against Side-Channel Attacks Weak or Strong ,2011,0,0,2,0,248606260,Marcel Medwed,0,0.9753907213017128,-0.24445946668398916
+2986086901,Towards an Open Approach to Side-Channel Resistant Authenticated Encryption,2019,0,0,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.8873659611679454,-0.5037806713550969
+2979198144,Side-Channel Countermeasures Dissection and the Limits of Closed Source Security Evaluations,2019,0,0,1,0,2085610964,FranÃ§ois Xavier Standaert,0,1.8773883358190362,-0.13368814120390354
+2972962130,maskVerif Automated Verification of Higher-Order Masking in Presence of Physical Defaults,2019,31,0,4,0,1964507066,Gilles Barthe,0,1.5845944549034168,-0.3900304366137695
+2973042742,Authenticated Encryption with Nonce Misuse and Physical Leakage Definitions Separation Results and First Construction,2019,31,3,1,0,2085610964,FranÃ§ois Xavier Standaert,0,-0.22884239631435438,-0.7265676039470359
+3013677143,Mode-Level vs Implementation-Level Physical Security in Symmetric Cryptography A Practical Guide Through the Leakage-Resistance Jungle,2020,0,0,1,0,2085610964,FranÃ§ois Xavier Standaert,0,0.11378986673869117,-0.9622287961996774
+3013797610,Side-Channel Countermeasures Dissection and the Limits of Closed Source Security Evaluations,2020,0,0,1,0,2085610964,FranÃ§ois Xavier Standaert,0,1.8773883358190362,-0.13368814120390354

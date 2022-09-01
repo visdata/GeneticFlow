@@ -1,0 +1,76 @@
+155156860,TCOZ to Timed Automata,2003,0,2,3,0.0806172,2112859507,Jin Song Dong,0,-0.1164726804531344,0.019252515865476
+138572108,Automatically refining partial specifications for program verification,2011,56,8,4,0.0,2027861108,Wei Ngan Chin,0,0.2320938052909227,0.2643896021693547
+106799128,A composable mixed mode concurrency control semantics for transactional programs,2012,34,1,2,1.0,2118226904,Granville Barnett,0,0.2682729850582902,-0.6410530684955914
+1523457509,Towards An Automated Approach to Hardware/Software Decomposition,2003,12,3,2,0.0,2027861108,Wei Ngan Chin,0,2.2709151864156825,-0.6936405534008194
+1514733848,Region Type Checking for Core-Java,2004,13,1,3,0.0,343541395,Martin Rinard,0,-0.44345653804901125,0.08945908961237116
+1489500230,An automatic mapping from statecharts to verilog,2004,24,3,2,0.0,2027861108,Wei Ngan Chin,0,0.13974667300218804,-0.20023304718191406
+1570988641,A specialization calculus for pruning disjunctive predicates to support verification,2011,24,8,5,0.0,2027861108,Wei Ngan Chin,0,-0.23340134077660202,0.5354533889504842
+1562224358,Generating MSCs from an Integrated Formal Specification Language,2004,30,1,2,0.0806172,2112859507,Jin Song Dong,0,0.623963937682129,-0.005394156409062077
+1535882582,Structured specifications for better verification of heap-manipulating programs,2011,28,13,3,0.0,2027861108,Wei Ngan Chin,0,2.427013391279461,-0.8661647112014942
+1483189636,A Relational Model for Object-Oriented Designs,2004,38,24,1,1.0,2142556870,Shengchao Qin,0,-0.4554325559113926,-0.8172367540822636
+1555192661,Mapping Statecharts to Verilog for Hardware/Software Co-specification,2003,28,4,2,0.0,2027861108,Wei Ngan Chin,0,0.7989914032757133,-0.3456948500498376
+1486287063,Verifying heap-manipulating programs with unknown procedure calls,2010,21,1,5,0.0,2027861108,Wei Ngan Chin,0,0.2016485854845179,0.23486591796225964
+1567479568,Automated verification of shape and size properties via separation logic,2007,26,119,3,0.0,2027861108,Wei Ngan Chin,0,2.427013391279461,-0.8661647112014942
+1666174841,Unifying theories of programming,2010,0,0,1,1.0,2142556870,Shengchao Qin,0,2.3810646777206816,0.15255091932146775
+1595173666,An Interval-Based Inference of Variant Parametric Types,2009,24,9,4,0.0,2027861108,Wei Ngan Chin,0,-0.3827543156105878,0.09745005874264157
+1852643171,Memory Usage Verification Using Hip/Sleek,2009,28,8,4,0.0,2027861108,Wei Ngan Chin,0,-1.7999003121036452,-1.396525565330585
+1963604750,Automated verification of the FreeRTOS scheduler in Hip/Sleek,2014,29,21,4,0.0,2027861108,Wei Ngan Chin,0,0.30219400062728535,0.0735907174957265
+1583399563,Hardware/Software Partitioning in Verilog,2002,12,6,1,1.0,2142556870,Shengchao Qin,0,0.6854234168839364,-0.44341178058452824
+1592557694,A Formal Soundness Proof of Region-Based Memory Management for Object-Oriented Paradigm,2008,21,2,3,0.0,2027861108,Wei Ngan Chin,0,-0.873267182420952,-0.5679079529407774
+1592721883,Memory Usage Inference for Object-Oriented Programs,2005,13,3,3,0.0,343541395,Martin Rinard,0,-1.575474559264867,-0.9638437290295703
+1981919129,TLV abstraction through testing learning and validation,2015,53,12,2,0.325842,2100316868,Shang Wei Lin,0,0.18257752067491598,-0.4047897203545963
+1973747233,Choreography Scenario-Based Test Data Generation,2014,1,0,2,1.0,2097544663,Hongli Yang,0,-0.36417392484611,0.1695886552680362
+1984531374,From Statecharts to Verilog a formal approach to hardware/software co-specification,2006,28,5,2,0.0,2027861108,Wei Ngan Chin,0,0.4925835656819947,-0.5574807030087902
+1982828147,Verifying simulink diagrams via a hybrid hoare logic prover,2013,19,33,2,0.0,266155097,Martin FrÃ¤nzle,0,-0.3523808663761494,-0.30678041665617334
+1978401817,Data-Race-Freedom of Concurrent Programs,2013,15,0,2,1.0,2118226904,Granville Barnett,0,-0.10505265277937305,-0.38302468531677875
+2009886413,Linking the Semantics of BPEL Using Maude,2013,28,0,3,1.0,2102250191,Peng Liu,0,-0.1164726804531344,0.019252515865476
+2022673252,Enhancing modular OO verification with separation logic,2008,34,54,3,0.0,2027861108,Wei Ngan Chin,0,0.2653970104680865,0.6315332404727483
+2021320977,Integrating Probability with Time and Shared-Variable Concurrency,2006,16,5,1,1.0,2142556870,Shengchao Qin,0,-0.04203558882250407,0.21785919930854425
+2023515761,HighSpec a tool for building and checking OZTA models,2006,8,5,2,0.0,2112859507,Jin Song Dong,0,0.25285822551320836,0.6669549004213868
+2045388381,Automated verification of shape size and bag properties via user-defined predicates in separation logic,2012,60,104,2,0.0,2027861108,Wei Ngan Chin,0,1.534866582546067,-0.6134658123859522
+2034971125,Linking Operational Semantics and Algebraic Semantics for a Probabilistic Timed Shared-Variable Language,2012,52,10,2,0.0,2124487709,Jeff W. Sanders,0,-0.1164726804531344,0.019252515865476
+2044716668,Linking Algebraic Semantics and Operational Semantics for Web Services Using Maude,2013,7,1,3,1.0,2102250191,Peng Liu,0,-0.1164726804531344,0.019252515865476
+2055530613,Semantic theories of programs with nested interrupts,2015,26,4,2,0.606061,2120127457,Jianqi Shi,0,-0.1164726804531344,0.019252515865476
+2062908103,Moverness for Locks and Transactions,2012,25,1,2,1.0,2118226904,Granville Barnett,0,-0.11660824596945572,-1.3899487047232801
+2057057011,PTSC probability time and shared-variable concurrency,2009,27,7,1,1.0,2142556870,Shengchao Qin,0,0.4827977372866387,-0.0884253031283051
+2058898825,Analysing memory resource bounds for low-level programs,2008,25,48,2,0.0,2027861108,Wei Ngan Chin,0,-1.0065317814845467,-0.4288101812057298
+2079078409,Region inference for an object-oriented language,2004,29,36,4,0.0,343541395,Martin Rinard,0,-0.07827401859716215,-0.049991230623219196
+2079262073,A Timed CSP Model for the Time-Triggered Language Giotto,2012,13,0,2,1.0,2133611537,Guanhua He,0,0.12381548077203264,0.0571866200359961
+2103882301,Timed Automata Patterns,2008,42,61,3,0.0,2112859507,Jin Song Dong,0,-0.07769174906203892,-0.14638407099727316
+2098270955,Verifying BPEL-Like Programs with Hoare Logic,2008,23,10,2,1.0,2107939336,Chenguang Luo,0,-0.5508315002759323,-1.0386161471045245
+2085428535,Termination and non-termination specification inference,2015,46,23,2,0.0,2027861108,Wei Ngan Chin,0,-0.22366431428222472,-0.9201295097394715
+2092481413,Denotational semantics and its algebraic derivation for an event-driven system-level language,2015,38,12,2,0.640607,2116138784,Phillip J. Brooke,0,-0.1164726804531344,0.019252515865476
+2138042054,Frontiers of Computer Science in China Verifying BPEL-like Programs with Hoare Logic,2008,20,0,2,1.0,2107939336,Chenguang Luo,0,-0.5619005096037476,-0.7543848292038632
+2115056404,A Heap Model for Java Bytecode to Support Separation Logic,2008,13,3,3,1.0,2107939336,Chenguang Luo,0,-2.2364801427493806,-0.12875952258920187
+2106305471,Mechanical Approach to Linking Operational Semantics and Algebraic Semantics for Verilog Using Maude,2012,18,4,2,1.0,2102250191,Peng Liu,0,-0.2268142716231431,-0.1590203910320284
+2115381751,Investigating time properties of interrupt-driven programs,2012,17,6,2,0.606061,2120127457,Jianqi Shi,0,-0.2565840853898409,0.3316741926898092
+2127184104,Memory usage verification for OO programs,2005,21,61,4,0.0,343541395,Martin Rinard,0,-1.886112079630769,-0.8192155703554388
+2124523220,Partitioning program into hardware and software,2001,12,6,2,0.0,1400043716,He Jifeng,0,1.7753383333293007,-0.5160316008506551
+2130402398,Denotational Semantics for a Probabilistic Timed Shared-Variable Language,2012,18,4,2,0.0,2124487709,Jeff W. Sanders,0,-0.2268142716231431,-0.1590203910320284
+2142567519,Verifying pointer safety for programs with unknown calls,2010,21,7,5,0.0,2027861108,Wei Ngan Chin,0,-0.25381936748661,0.2817483437998111
+2142838609,Verifying safety policies with size properties and alias controls,2005,39,34,2,0.0,2027861108,Wei Ngan Chin,0,1.0303289714837192,-0.7979532022530013
+2143110421,Core Hybrid Event-B I,2015,45,39,4,0.0,2033936849,Richard Banach,0,-0.1164726804531344,0.019252515865476
+2110402177,Linking Object-Z with Spec#,2007,31,8,2,1.0,2133611537,Guanhua He,0,1.5360876337942693,-0.3554911015483311
+2107436049,Separation Logic for Multiple Inheritance,2008,19,11,2,1.0,2107939336,Chenguang Luo,0,-0.3899434504113587,0.24030205096323584
+2153275513,Expressive program verification via structured specifications,2014,24,3,3,0.0,2027861108,Wei Ngan Chin,0,1.79313986739375,-0.7037080543608824
+2156177921,Automatically refining partial specifications for heap-manipulating programs,2014,46,8,5,0.0,2027861108,Wei Ngan Chin,0,0.9239550288764175,0.049301662330580046
+2162164173,Invariants synthesis over a combined domain for automated program verification,2013,48,1,4,0.0,2027861108,Wei Ngan Chin,0,0.15523470843952042,-0.2914477460200481
+2168301068,Multiple Pre/Post Specifications for Heap-Manipulating Methods,2007,23,7,2,0.0,2027861108,Wei Ngan Chin,0,0.3440788165540866,-0.3234447882671764
+2162572703,Automated Verification of the FreeRTOS Scheduler in HIP/SLEEK,2012,30,6,2,1.0,2133611537,Guanhua He,0,0.20312119500113496,0.011002871788980198
+2156772886,Realizing Live Sequence Charts in SystemVerilog,2007,22,4,2,0.0,2112859507,Jin Song Dong,0,0.049467310855314105,0.07054202464747265
+2168916522,Automated Verification of Shape Size and Bag Properties,2007,26,15,2,0.0,2027861108,Wei Ngan Chin,0,-0.3504164671230426,0.024154610317539744
+2163352707,Stack Bound Inference for Abstract Java Bytecode,2010,16,3,2,0.0,2027861108,Wei Ngan Chin,0,-1.6590591233373932,-0.18944639171601535
+2163664554,Towards an Axiomatic Verification System for JavaScript,2011,29,3,3,0.0,1991399815,Malcolm Munro,0,-0.6504671547738131,-0.4805519878065558
+2170610067,A Semantic Foundation for TCOZ in Unifying Theories of Programming,2003,20,32,3,0.0,2027861108,Wei Ngan Chin,0,0.0888980670681701,0.3455222682224691
+2241755350,Probabilistic Denotational Semantics for an Interrupt Modelling Language,2015,25,0,1,1.0,2142556870,Shengchao Qin,0,0.8905131076261222,-0.2695146263580955
+2265897862,Reasoning about Fences and Relaxed Atomics,2016,22,8,2,0.0,138450541,Viktor Vafeiadis,0,-0.31790888714523563,-0.20017043582529329
+2398780914,Discovering Specifications for Unknown Procedures - Work in Progress,2010,15,1,5,0.0,2027861108,Wei Ngan Chin,0,-0.36504839206844625,0.33674073135512167
+2477162098,An automatic mapping from statecharts to verilog,2005,0,4,2,0.0,2027861108,Wei Ngan Chin,0,0.07580845820988331,-0.28447473736078643
+2626612383,Automated specification inference in a combined domain via user-defined predicates,2017,41,2,4,0.0,2027861108,Wei Ngan Chin,0,0.5289542089765304,-0.09115547008363979
+2724800275,State-taint analysis for detecting resource bugs,2017,26,0,1,1.0,2142556870,Shengchao Qin,0,0.4497050070984151,0.1926067011347736
+2756738988,GPS+ Reasoning About Fences and Relaxed Atomics,2018,24,2,2,0.0,138450541,Viktor Vafeiadis,0,-0.3390194499413731,0.09919669762550119
+2809018007,Poster Testing Heap-Based Programs with Java StarFinder,2018,10,7,2,0.0,2119175284,Quoc Sang Phan,0,0.39203796979656325,-0.8227984820908318
+2896129867,Automated Modular Verification for Relaxed Communication Protocols,2018,40,2,3,0.0,2027861108,Wei Ngan Chin,0,1.1470513862936038,-0.5106460973129661
+2907660097,Variant Region Types,2018,21,1,2,0.0,2027861108,Wei Ngan Chin,0,-1.0616619751014733,-0.27254567352422476
+2953598967,Locating vulnerabilities in binaries via memory layout recovering,2019,49,0,3,0.325842,2100316868,Shang Wei Lin,0,-0.636063928670245,-0.6220106091864234
+2969621433,Automated Verification of CountDownLatch,2019,33,1,2,0.0,2027861108,Wei Ngan Chin,0,-0.3485424176721604,0.07411803001975212

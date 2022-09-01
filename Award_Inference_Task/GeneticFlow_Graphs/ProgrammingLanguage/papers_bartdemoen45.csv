@@ -1,0 +1,124 @@
+34867624,A new scheme for unification in WAM,1991,7,7,1,1.0,713720536,Bart Demoen,0,-0.34351087839703426,-0.06977008854913816
+187855765,A Comparison of Some Schemes for Translating Logic to C,1994,7,9,1,1.0,713720536,Bart Demoen,0,-1.3647248364533315,-0.637709735044858
+69894,Indexing Prolog clauses,1989,0,13,1,1.0,713720536,Bart Demoen,0,-1.6984754132647504,-1.231557707342832
+1597021,LOKI A logic oriented approach to data and knowledge bases supporting natural language interaction,1989,0,13,1,1.0,713720536,Bart Demoen,0,-0.7747267279197754,-1.2643063184113013
+173580204,Language Embedding by Dual Compilation and State Mirroring,1994,0,3,1,1.0,713720536,Bart Demoen,0,-0.1164726804531344,0.019252515865476
+57467975,Aggregates in CHR,2007,17,5,2,1.0,85281905,Jon Sneyers,0,-0.1164726804531344,0.019252515865476
+43244340,The KULeuven CHR system Implementation and application,2004,10,71,1,1.0,713720536,Bart Demoen,0,-0.1967153061165181,-1.0915265331815451
+43297711,Abstract Interpretation Towards the Global Optimization of Prolog Programs,1987,0,54,1,1.0,713720536,Bart Demoen,0,-0.4181187993168118,0.0954221753377847
+29954232,Program Source as Model for Debugging Prolog,1990,0,0,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+66469872,ÎºÎ±Ï€Ï€Î± A Kernel Andorra Prolog,1991,17,1,1,1.0,713720536,Bart Demoen,0,-0.7308181299179837,-0.45490961488710174
+17262552,An execution mechanism for combining query packs and once-transformations,2003,8,2,3,0.0,228102912,Jan Struyf,0,-0.1164726804531344,0.019252515865476
+233473761,Delimited continuations in Prolog semantics use and implementation in the WAM,2013,26,4,2,0.833333,164518182,Benoit Desouter,0,-0.5127211182047943,0.26858371806813064
+855046723,Dealing with large predicates exo-compilation in the WAM and in Mercury,2007,8,1,1,1.0,713720536,Bart Demoen,0,0.04799935266692962,-0.21795613567966438
+1551823451,Project report on LP + a second generation logic programming language,2000,18,1,2,0.0,164342283,Danny De Schreye,0,1.321747494866731,-0.18346547565724952
+1551931809,Improving the Execution Speed of Compiled Prolog with Modes Clause Selection and Determinism,1987,10,35,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+1517590008,Heap Memory Management in Prolog with Tabling Principles and Practice,2001,40,90,1,1.0,713720536,Bart Demoen,0,-0.6323869056706688,-0.22526692507668936
+1572583274,Guard and continuation optimization for occurrence representations of CHR,2005,10,15,2,1.0,85281905,Jon Sneyers,0,-0.2834644174824887,-0.8479385666630295
+1509799693,Towards Typed Prolog,2008,8,22,1,1.0,713720536,Bart Demoen,0,-0.15219705759355098,0.3093581239899485
+1555264672,Improving prolog programs Refactoring for prolog,2008,29,17,1,1.0,713720536,Bart Demoen,0,0.49511169585135,-0.2477528819673616
+1573454147,Heap Garbage Collection in XSB Practice and Experience,2000,16,3,1,1.0,713720536,Bart Demoen,0,-0.4442600157592559,-0.035508558191540196
+1502359129,Analysing logic programs using â€œpropâ€-ositional logic programs and a magic wand,1993,0,44,1,1.0,713720536,Bart Demoen,0,-0.1164726804531344,0.019252515865476
+1511354102,KAPPA A Kernel Andorra Prolog Parallel Architecture Design,1991,14,1,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+1485768151,Implementation of Prolog as Binary Definite Programs,1990,4,6,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+1521013649,Memory reuse for CHR,2006,11,13,2,1.0,85281905,Jon Sneyers,0,-0.3713905236663845,-0.9834339759907944
+1575739147,Uniting the Prolog Community,2008,0,2,1,1.0,713720536,Bart Demoen,0,-0.4706187505158021,0.019057918152536935
+1521405302,Guard simplification in CHR programs,2005,5,4,2,1.0,85281905,Jon Sneyers,0,-0.1164726804531344,0.019252515865476
+1531374985,A Framework to Specify Database Update Views for Prolog,1991,5,11,1,1.0,713720536,Bart Demoen,0,-0.1831021897024856,-0.040349254278182194
+1567397515,Herbrand Constraints in HAL,2004,12,0,1,1.0,713720536,Bart Demoen,0,-0.11909757677089602,0.3066002572660934
+1838985855,Copying Garbage Collection for the WAM To Mark or Not to Mark ,2002,16,1,2,1.0,21933861,Ruben Vandeginste,0,-0.4904016370100976,-0.13791302543468334
+1841821563,Environment Reuse in the WAM,2008,7,3,1,1.0,713720536,Bart Demoen,0,-0.3676932094671783,0.1059748405849819
+1633377437,CAT The Copying Approach to Tabling,1998,12,29,1,1.0,713720536,Bart Demoen,0,-0.2517047667582895,-0.37320408693679824
+1588734579,Segment Order Preserving and Generational Garbage Collection for Prolog,2002,19,6,2,1.0,21933861,Ruben Vandeginste,0,-0.39647125653309206,-0.0677617054234385
+1936706003,Refactoring logic programs (Extended abstract),2003,5,0,1,1.0,713720536,Bart Demoen,0,0.32409642167001,-0.06081390544705855
+1811359278,Heap Memory Management in Prolog with Tabling Practice and Experience,2001,0,1,1,1.0,713720536,Bart Demoen,0,-1.0753500649977603,-0.36309765870178273
+1580941221,On the transformation of a Prolog program to a more efficient binary program,1993,6,16,1,1.0,713720536,Bart Demoen,0,-0.2817397562956614,-0.6467378312251519
+1915123122,Prolog and abduction 4 writing garbage collectors,2000,0,2,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+1590854684,An Overview of HAL,1999,12,54,1,1.0,713720536,Bart Demoen,0,1.143531168960178,-0.6108886967815833
+1920028919,Guard Reasoning in the Refined Operational Semantics of CHR,2009,18,4,2,1.0,85281905,Jon Sneyers,0,-0.35791779272728963,-0.8776198748511312
+1964013298,Introduction to the special issue on prolog systems,2012,0,1,1,1.0,713720536,Bart Demoen,0,0.6279702111525515,-0.7153658804290577
+1978518357,Fast Frequent Querying with Lazy Control Flow Compilation,2007,13,4,2,0.711757,595543391,Henk Vandecasteele,0,-1.8353768827051755,-0.34144367385577157
+1975346949,Partial translation towards a portable and efficient prolog implementation technologyâ˜†,1996,21,11,1,1.0,713720536,Bart Demoen,0,-0.08921559187212057,1.0365235174624388
+1975576519,Analyzing logic programs using â€œpropâ€-ositional logic programs and a magic wand,1995,36,59,1,1.0,713720536,Bart Demoen,0,-0.44607371161123144,-0.44718239750011507
+1975748540,Aggregates in constraint handling rules,2007,18,6,2,1.0,85281905,Jon Sneyers,0,0.9959431022711,-1.307056600406741
+1996532165,Segment order preserving copying garbage collection for WAM based Prolog,1996,14,16,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+2009311514,The power of partial tanslation an experiment with the C-ification of binary Prolog,1995,12,5,1,1.0,713720536,Bart Demoen,0,0.23319666417255355,0.4922732015772251
+2023028539,Programming in Prolog Using the ISO Standard by William F Clocksin Christopher S Mellish Springer-Verlag 2003 ISBN 3-540-00678-8 xiii+299 pages,2005,0,0,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+2047055582,Tchr A framework for tabled clp,2008,36,9,1,1.0,713720536,Bart Demoen,0,0.7672320690356053,-0.6628986760285996
+2048991863,On Delphi lemmas and other memoing techniques for deterministic logic programs,1997,30,4,1,1.0,713720536,Bart Demoen,0,-1.1077164783093236,1.4135165958666678
+2061236588,Semantics-based program analysis for logic-based languages using XSB,1998,35,21,1,1.0,713720536,Bart Demoen,0,1.0985397413874893,0.6293527957003183
+2073450983,User-definable rule priorities for CHR,2007,28,36,1,1.0,713720536,Bart Demoen,0,-0.14834026616548115,-1.0419016606449087
+2061456508,Heuristics Entwined with Handlers Combined From Functional Specification to Logic Programming Implementation,2014,38,8,2,0.833333,164518182,Benoit Desouter,0,-0.14060842780582558,0.4224005359165323
+2056680627,Incremental copying garbage collection for WAM-based Prolog systems,2007,27,1,2,1.0,21933861,Ruben Vandeginste,0,-0.39647125653309206,-0.0677617054234385
+2071433880,CHAT the copy-hybrid approach to tabling,2000,12,14,1,1.0,713720536,Bart Demoen,0,-0.4842568435730956,-0.19967566740969273
+2102661235,Two WAM Implementations of Action Rules,2008,12,5,1,1.0,713720536,Bart Demoen,0,-0.3379379437496167,0.026047237768298665
+2091064840,A partial evaluation system for Prolog some practical considerations,1988,8,23,1,1.0,713720536,Bart Demoen,0,0.14118509341894808,-0.19937756142530216
+2120328302,Checking modes of HAL programs,2005,24,2,1,1.0,713720536,Bart Demoen,0,-0.04932237153799618,0.29341926989611067
+2115711680,Tor extensible search with hookable disjunction,2012,22,9,1,1.0,713720536,Bart Demoen,0,-0.07108244909784735,-0.7571085844102364
+2139525797,Memory management for Prolog with tabling,1998,17,9,1,1.0,713720536,Bart Demoen,0,-0.9612409833686257,-0.2241489527002151
+2130513355,Delimited continuations for prolog,2013,25,10,2,0.833333,164518182,Benoit Desouter,0,-0.6620164081891434,0.2504915473865706
+2118889869,CHAT The Copy-Hybrid Approach to Tabling,1999,12,29,1,1.0,713720536,Bart Demoen,0,-0.36633094746528466,-0.181789756609288
+2140349269,To the Gates of HAL A HAL Tutorial,2002,20,25,1,1.0,713720536,Bart Demoen,0,0.9959431022711,-1.307056600406741
+2114158730,The correspondence between the logical algorithms language and CHR,2007,20,11,1,1.0,713720536,Bart Demoen,0,0.14455907753082683,-2.036237849520947
+2159160803,Tor Modular search with hookable disjunction,2014,25,8,2,0.833333,164518182,Benoit Desouter,0,-0.11690218993327972,-0.6983556093926689
+2144334888,Trailing Analysis for HAL,2002,17,3,1,1.0,713720536,Bart Demoen,0,-0.2338856832188875,0.31829374508198116
+2144960539,The computational power and complexity of constraint handling rules,2009,51,54,2,1.0,85281905,Jon Sneyers,0,-0.20394928087784187,-1.9420720432497611
+2154880189,Automatic Implication Checking for CHR Constraints,2006,17,21,2,0.0,190508276,Thom FrÃ¼hwirth,0,-0.16682959121569296,-0.7534633047077435
+2152272112,CHR for Imperative Host Languages,2009,66,12,1,1.0,713720536,Bart Demoen,0,-0.5293219779911242,-0.8467470266834165
+2170948668,Representation sharing for prolog,2013,31,4,1,1.0,713720536,Bart Demoen,0,-1.1470834184621583,-0.32902195300431636
+2177891136,Aggregates for CHR through Program Transformation,2008,14,11,2,1.0,85281905,Jon Sneyers,0,-0.2595030863443376,-0.6935131344880193
+2402330391,Optimization Techniques for Nondeterministic Promotion in the Andorra Kernel Language,1993,0,2,1,1.0,713720536,Bart Demoen,0,0.008642974781071948,0.27964005077900406
+2397723469,High-Level Multi-Threading in hProlog,2011,9,0,1,1.0,713720536,Bart Demoen,0,-0.8083103623723785,-0.0030948557738690666
+2524046996,Compiling large disjunctions,2000,0,9,2,0.757576,595543391,Henk Vandecasteele,0,-0.1164726804531344,0.019252515865476
+2524050040,$kappa alpha pi pi alpha$ A kernel Andorra Prolog parallel architecture design,1991,0,0,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+2524365479,The first 10 Prolog programming contests,2005,0,2,1,1.0,713720536,Bart Demoen,0,1.2237461068653923,-0.18918873079295906
+2524443994,Extending CHR with negation as absence,2006,20,25,2,1.0,85281905,Jon Sneyers,0,-0.3902009342266205,0.04139742911318145
+2524499497,Refactoring Prolog code,2004,14,5,1,1.0,713720536,Bart Demoen,0,0.3723845042780711,-0.26754855172029696
+2520217242,Segment order preserving and generational garbage collection for Prolog,2001,0,0,2,1.0,21933861,Ruben Vandeginste,0,-0.39647125653309206,-0.0677617054234385
+2520380543,Allocating WAM environments / Choice Points on the heap,2006,8,2,1,1.0,713720536,Bart Demoen,0,-0.1164726804531344,0.019252515865476
+2524984374,Search Strategies in CHR(Prolog),2006,15,11,1,1.0,713720536,Bart Demoen,0,0.24989144162061608,-0.6481578502294099
+2524986147,A finite domain CLP solver on top of Mercury,2000,0,0,2,0.757576,595543391,Henk Vandecasteele,0,0.19799164365589206,0.4996989379965772
+2520691666,Translating Constraint Handling Rules into Action Rules,2006,18,10,1,1.0,713720536,Bart Demoen,0,-0.1967153061165181,-1.0915265331815451
+2525295892,When tabling does not work,2006,5,1,1,1.0,713720536,Bart Demoen,0,-0.35269368972762816,-0.1392052450801265
+2521033342,Big facts void variables the WAM and exo-compilation,2007,5,1,1,1.0,713720536,Bart Demoen,0,-0.46813593291517075,0.4163088753949776
+2525628940,A compilation schema from Constraint Handling Rules into Action Rules,2006,18,0,1,1.0,713720536,Bart Demoen,0,0.14455907753082683,-2.036237849520947
+2521182530,A partial evaluation system for prolog theoretical and practical considerations,1987,0,7,1,1.0,713720536,Bart Demoen,0,-0.4140306268007148,-0.21048495044299528
+2521251672,A fresh look at garbage collection for Prolog,2002,0,1,1,1.0,713720536,Bart Demoen,0,-1.0068541976270182,-0.20706254069398627
+2521265132,Whole-program optimization of binary executables,2000,0,3,1,1.0,713720536,Bart Demoen,0,-0.11639797934575417,0.6815612304309551
+2521400397,Automatic implication checking for CHR constraints,2005,0,2,2,0.0,190508276,Thom FrÃ¼hwirth,0,-0.1164726804531344,0.019252515865476
+2521421176,Constraint handling rules for SWI-Prolog,2005,4,4,1,1.0,713720536,Bart Demoen,0,0.7172076131237417,-1.115009821457676
+2521486077,Abstract interpretation towards the global optimisation of PROLOG programs,1987,0,86,1,1.0,713720536,Bart Demoen,0,-0.4181187993168118,0.0954221753377847
+2526391513,Alternatives for compile &amp; run in the WAM,2003,3,4,1,1.0,713720536,Bart Demoen,0,-0.44869122900443015,-0.00015649039724540022
+2526596645,Improving the register allocation in WAM by reordering unification,1988,0,13,1,1.0,713720536,Bart Demoen,0,-0.8399486397844965,-0.22040868180104708
+2526768053,Suspension Frames on the WAM Heap,2006,7,0,1,1.0,713720536,Bart Demoen,0,-0.36287035009889,-0.17349405969822795
+2526778267,About unnecessary performance differences between Prolog implementations,2001,0,1,1,1.0,713720536,Bart Demoen,0,-0.3974840199936202,-0.0914593059396035
+2526791902,Incremental copying garbage collection for WAM-based Prolog systems,2003,0,1,2,1.0,21933861,Ruben Vandeginste,0,-0.39647125653309206,-0.0677617054234385
+2526876386,JmmSolve a generative reference implementation of CCM machines,2004,5,4,1,1.0,713720536,Bart Demoen,0,0.04472866392817779,0.2735515996774607
+2526926860,Implementation issues in Prolog arithmetic,1993,0,0,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+2526951870,Proceedings of CICLOPS2002 the Colloquium on Implementation of Constraint and LOgic Programming Systems,2002,0,0,1,1.0,713720536,Bart Demoen,0,-0.3318073626647371,0.000595838122072305
+2527021946,Higher-order programming in an OR-intensive style,1994,0,0,1,1.0,713720536,Bart Demoen,0,2.539605532334998,-0.3492039892274846
+2568056591,Implementation of Prolog as Binary Definite Programs,1991,0,4,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+2527059370,CCHR the fastest CHR implementation in C,2007,17,18,1,1.0,713720536,Bart Demoen,0,0.3558735008911448,-0.1284451644541213
+2522227612,KULeuven JCHR a user-friendly flexible and efficient CHR system for Java,2005,13,24,1,1.0,713720536,Bart Demoen,0,-0.29336658223200485,-1.0152704288001917
+2522296872,Can Prolog execute as fast as Aquarius,1992,0,2,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+2522297574,Odd Prolog benchmarking,2001,0,2,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+2527337104,A 10 implementation of callcc in the WAM,2012,3,1,1,1.0,713720536,Bart Demoen,0,-0.4736051756838583,-0.09346178892760243
+2522402126,Delay in the WAM and the TOAM redoing a ten year old experiment,2006,8,0,1,1.0,713720536,Bart Demoen,0,-0.30338491320999883,-0.1885778208487006
+2522825972,Flexible search strategies in Prolog CHR,2006,9,1,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+2523003410,Indexing in Prolog,1989,0,3,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+2523030344,Execution mechanisms for PROLOG,1987,0,0,1,1.0,713720536,Bart Demoen,0,-0.39647125653309206,-0.0677617054234385
+2523068433,CHR for XSB,2003,12,9,1,1.0,713720536,Bart Demoen,0,0.16197476615803974,-0.9939784374874758
+2523093353,Refactoring Prolog programs,2003,24,5,1,1.0,713720536,Bart Demoen,0,0.3723845042780711,-0.26754855172029696
+2518818101,Guard reasoning for CHR optimization,2005,8,3,2,1.0,85281905,Jon Sneyers,0,-0.1164726804531344,0.019252515865476
+2519010975,Fact unfolding and the bottom-up evaluation of logic programs,1994,0,0,1,1.0,713720536,Bart Demoen,0,-0.1164726804531344,0.019252515865476
+2602453858,Copying garbage collection for the WAM To mark or not to mark ,2002,0,7,2,1.0,21933861,Ruben Vandeginste,0,-0.39736753920862145,-0.12948157479584851
+2612962685,Heap garbage collection in XSB Practice and experience,2000,0,0,1,1.0,713720536,Bart Demoen,0,-0.1164726804531344,0.019252515865476
+2807759244,Improving Prolog programs refactoring for Prolog,2007,0,0,1,1.0,713720536,Bart Demoen,0,0.3723845042780711,-0.26754855172029696
+2889864133,Refactoring logic programs,2003,0,0,1,1.0,713720536,Bart Demoen,0,0.8968116727236316,-0.323934864224269
+2949493320,Improving Prolog programs Refactoring for Prolog,2007,22,0,1,1.0,713720536,Bart Demoen,0,0.4161173321693355,-0.3512001543902526
+2951840385,Improving PARMA Trailing,2005,21,0,1,1.0,713720536,Bart Demoen,0,-0.5054320654966942,0.06412806150333233
+2951955580,Checking modes of HAL programs,2004,17,0,1,1.0,713720536,Bart Demoen,0,0.03309593113125482,0.2677451365032866
+2950032154,Incremental copying garbage collection for WAM-based Prolog systems,2006,3,2,2,1.0,21933861,Ruben Vandeginste,0,-0.39647125653309206,-0.0677617054234385
+2950602514,Representation Sharing for Prolog,2011,3,0,1,1.0,713720536,Bart Demoen,0,-0.5284562235754948,-0.010573870858497099
+2952837464,TCHR a framework for tabled CLP,2007,25,0,1,1.0,713720536,Bart Demoen,0,-0.019800898579909187,-0.44655272069452084
+2949130277,Fast Frequent Querying with Lazy Control Flow Compilation,2006,10,0,2,0.711757,595543391,Henk Vandecasteele,0,-1.1878000360335395,0.0178302718294812

@@ -1,0 +1,168 @@
+55720349,Improving Least Privilege in Software Architecture by Guided Automated Compartmentalization,2008,0,0,3,1.0,262657348,Koen Buyens,0,-0.49551509751858536,1.3395583570401146
+57130263,Soundsquatting Uncovering the Use of Homophones in Domain Squatting,2014,14,28,2,0.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+23208396,Code injection in C and C++ a survey of vulnerabilities and countermeasures,2004,90,54,3,0.457221,233250515,Frank Piessens,0,0.1639362940477497,0.6530314529854678
+219436511,Serene self-reliant client-side protection against session fixation,2012,12,22,3,0.0,233250515,Frank Piessens,0,-0.28057180395894155,0.12672934158264598
+181628467,Large-Scale Security Analysis of the Web Challenges and Findings,2014,18,33,1,1.0,1969876091,Wouter Joosen,0,0.052222536754136975,0.9157998499034995
+167216241,HeapSentry kernel-assisted protection against heap overflows,2013,29,14,2,0.0,233250515,Frank Piessens,0,-0.6567160340281432,1.3137850476034183
+48686541,Improving Intrusion Detection through Alert Verification,2006,0,4,2,1.0,1809815638,Bart De Win,0,0.8394129102049798,0.9239599357505993
+49295849,Access control in multi-party wireless sensor networks,2013,18,10,3,1.0,1174233612,Jef Maerien,0,-0.6907959935860938,0.3348285457719684
+151342795,On the importance of the separation-of-concerns principle in secure software engineering,2003,11,53,4,1.0,153035658,Tine Verhanneman,0,-1.941003848324107,2.736786414154029
+204642155,Exploring the ecosystem of referrer-anonymizing services,2012,13,6,2,0.0,233250515,Frank Piessens,0,-0.38297672827465196,0.46125068598901287
+1561562697,Security Middleware for Mobile Applications,2009,0,4,5,1.0,220035981,Pieter Philippaerts,0,0.0040557659796233,0.2757546058061082
+1571008885,Optimized Resource Access Control in Shared Sensor Networks,2010,25,1,2,1.0,1967288308,Nelson Matthys,0,0.40860019247225543,1.1751580404606339
+1491243518,CsFire transparent client-side mitigation of malicious cross-domain requests,2010,9,27,3,0.0,233250515,Frank Piessens,0,-0.015296254716123447,0.40424678126495084
+1224296734,Automatic and precise client-side protection against CSRF attacks,2011,10,41,3,0.0,233250515,Frank Piessens,0,0.7652457196547656,-0.2680753067330734
+1492077859,A Credential-Based System for the Anonymous Delegation of Rights,2007,11,0,3,0.29101,1864115044,Bart De Decker,0,-0.6301861790842964,0.9019449197142997
+1275185964,Adaptable access control policies for medical information systems,2003,11,10,4,1.0,153035658,Tine Verhanneman,0,-0.44504988302757614,0.7510531211914663
+1501861300,A Generic Architecture for Web Applications to Support Threat Analysis of Infrastructural Components,2005,9,7,2,0.457221,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+1546563748,Bitsquatting exploiting bit-flips for fun or profit ,2013,11,30,2,0.0,233250515,Frank Piessens,0,0.05940095047987125,0.6960502266457337
+1558435420,Middleware support for complex and distributed security services in multi-tier web applications,2011,18,1,2,1.0,1411939152,Philippe De Ryck,0,1.0251603832708531,1.812059527440989
+1845380655,Optimizing resource and data security in shared sensor networks,2016,29,4,2,1.0,1967288308,Nelson Matthys,0,-0.2671609191585604,0.4023322167886814
+1588234377,HProxy client-side detection of SSL stripping attacks,2010,13,27,2,1.0,707981970,Yves Younan,0,0.0040557659796233,0.2757546058061082
+1888717584,SessionShield lightweight protection against session hijacking,2011,32,63,2,1.0,707981970,Yves Younan,0,-1.1668428896142926,-0.02935906477378944
+1784120004,A Security Architecture for Electronic Commerce Applications,2000,4,10,3,1.0,1809815638,Bart De Win,0,1.7666181056210357,2.3006075061816067
+1786282155,Exposing the lack of privacy in file hosting services,2011,14,23,2,0.0,342838144,Davide Balzarotti,0,-0.003181023713049999,0.61505027352456
+1585590911,Security of memory allocators for C and C,2005,3,14,4,0.457221,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+1978887394,Mobile device fingerprinting considered harmful for risk-based authentication,2015,20,22,2,0.909326,346948214,Davy Preuveneers,0,-0.7319214982071813,0.20082910117658775
+1970156423,Requirements traceability to support evolution of access control,2005,10,10,4,1.0,153035658,Tine Verhanneman,0,-0.0055216156628483315,0.8431774549076696
+1970170564,Security-by-contract on the NET platform,2008,12,58,4,1.0,220035981,Pieter Philippaerts,0,0.0040557659796233,0.2757546058061082
+1979119716,Towards a measuring framework for security properties of software,2006,8,16,3,1.0,956123523,Riccardo Scandariato,0,-2.0158378690506344,2.6238750650247487
+1965209910,The Clock is Still Ticking Timing Attacks in the Modern Web,2015,20,34,1,1.0,1969876091,Wouter Joosen,0,-0.36178312187424855,0.10705089180541508
+1979254854,Extending sensor networks into the Cloud using Amazon Web Services,2010,24,70,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+1976112015,Design Churn as Predictor of Vulnerabilities,2014,27,5,2,1.0,956123523,Riccardo Scandariato,0,0.0040557659796233,0.2757546058061082
+1966065866,Extraction of an Architectural Model for Least Privilege Analysis,2012,9,0,2,1.0,956123523,Riccardo Scandariato,0,-0.49551509751858536,1.3395583570401146
+2006690442,Infrastructure for mobile agents,1996,13,9,2,0.0,1864115044,Bart De Decker,0,0.0040557659796233,0.2757546058061082
+1999983824,MASY MAnagement of Secret keYs for federated mobile wireless sensor networks,2010,9,17,2,1.0,1174233612,Jef Maerien,0,-0.21304935679755124,-1.4298982076962017
+2003529494,Software vulnerability prediction using text analysis techniques,2012,5,37,2,1.0,956123523,Riccardo Scandariato,0,0.0040557659796233,0.2757546058061082
+2001822577,Do security patterns really help designers,2015,18,33,3,1.0,303062507,Koen Yskout,0,-1.7240856226371057,2.6159669502847107
+1998843210,Parking sensors Analyzing and detecting parked domains,2015,17,47,1,1.0,1969876091,Wouter Joosen,0,0.05940095047987125,0.6960502266457337
+1997205683,SmartAuth dynamic context fingerprinting for continuous user authentication,2015,22,20,2,0.909326,346948214,Davy Preuveneers,0,-1.6468343324570316,-0.7118701390047958
+2010367507,Improving Memory Management Security for C and C,2010,41,2,4,0.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2022731518,Toward efficient and confidentiality-aware federation of access control policies,2012,10,8,2,1.0,313561675,Bert Lagaisse,0,-0.081070340820148,0.8379963009990375
+2010543040,Towards a unifying view on security contracts,2005,18,6,4,0.457221,233250515,Frank Piessens,0,-1.3825083712663253,2.2632488327250773
+2019430098,Aspect-Oriented Software Development in Practice Tales from AOSD-Europe,2010,9,35,3,0.0,169661768,T. Cottenier,0,0.0040557659796233,0.2757546058061082
+2020208333,RIPE runtime intrusion prevention evaluator,2011,37,59,3,1.0,707981970,Yves Younan,0,1.1243529009823896,0.8486765138551735
+2023959340,Runtime countermeasures for code injection attacks against C and C++ programs,2012,144,46,3,0.0,233250515,Frank Piessens,0,0.1639362940477497,0.6530314529854678
+2036604733,Amusa middleware for efficient access control management of multi-tenant SaaS applications,2015,23,4,2,1.0,313561675,Bert Lagaisse,0,-0.023550276898621297,0.7099097923564667
+2045726900,Cookieless Monster Exploring the Ecosystem of Web-Based Device Fingerprinting,2013,18,231,2,0.0,233250515,Frank Piessens,0,-0.14030442843248647,0.7500380815700933
+2038994268,Authorizing and directing configuration updates in contemporary it infrastructures,2010,11,1,1,1.0,1969876091,Wouter Joosen,0,-0.023550276898621297,0.7099097923564667
+2053243495,Integrating Patient Consent in e-Health Access Control,2011,15,12,2,1.0,956123523,Riccardo Scandariato,0,-0.33118838229224873,0.8958120235043346
+2034326426,SecSess keeping your session tucked away in your browser,2015,15,5,2,0.0,233250515,Frank Piessens,0,-0.015803870513959373,0.483772570911014
+2039623754,A Secure Multi-Application Platform for Vehicle Telematics,2010,14,6,3,1.0,1174233612,Jef Maerien,0,0.002046886047323025,0.6798983720053811
+2068157008,Network dialog minimization and network dialog diffing two novel primitives for network security applications,2014,34,5,1,1.0,1969876091,Wouter Joosen,0,0.272607351248083,0.8239502527660284
+2071800216,Protected Web Components Hiding Sensitive Information in the Shadows,2015,7,3,3,0.0,233250515,Frank Piessens,0,-0.6385692791286616,-0.030015198554274113
+2070112613,Maneuvering Around Clouds Bypassing Cloud-based Security Providers,2015,18,27,1,1.0,1969876091,Wouter Joosen,0,-0.34824093440265547,0.5453774352720739
+2077204203,FlashOver automated discovery of cross-site scripting vulnerabilities in rich internet applications,2012,17,30,2,0.0,233250515,Frank Piessens,0,1.7029826062605458,-0.2600589908962866
+2065255030,TabShots client-side detection of tabnabbing attacks,2013,12,14,2,1.0,1411939152,Philippe De Ryck,0,0.1639362940477497,0.6530314529854678
+2067488563,On the Workings and Current Practices of Web-Based Device Fingerprinting,2014,5,11,2,0.0,233250515,Frank Piessens,0,0.3192085515801053,1.087983398285203
+2071005228,Clubbing Seals Exploring the Ecosystem of Third-party Security Seals,2014,18,5,2,0.0,233250515,Frank Piessens,0,-0.13325950327090183,1.246604749428507
+2089216878,A descriptive study of Microsofts threat modeling technique,2015,40,43,2,1.0,956123523,Riccardo Scandariato,0,-0.09599616327697101,0.06312598316488381
+2095054150,Browser protection against cross-site request forgery,2009,8,23,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+2089884450,Password Meters and Generators on the Web From Large-Scale Empirical Study to Getting It Right,2015,33,9,2,0.0,313407794,Andrei Sabelfeld,0,-2.30145558031474,-1.6069661581111137
+2100852994,Protecting Global and Static Variables from Buffer Overflow Attacks,2009,32,8,3,0.286566,233250515,Frank Piessens,0,-0.2426152804904301,0.40354809654779916
+2101678831,You are what you include large-scale evaluation of remote javascript inclusions,2012,20,190,2,0.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2102221458,Resolving least privilege violations in software architectures,2009,16,14,3,1.0,262657348,Koen Buyens,0,-0.191102717733812,2.0133411046291747
+2083785453,WebJail least-privilege integration of third-party components in web mashups,2011,18,49,3,0.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2138049695,Extended Protection against Stack Smashing Attacks without Performance Loss,2006,27,43,3,0.289115,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2126709396,Monkey-in-the-browser malware and vulnerabilities in augmented browsing script markets,2014,16,12,2,0.0,233250515,Frank Piessens,0,0.9611320424042716,0.40663404146440335
+2111993787,Hardening XDS-Based Architectures,2008,6,6,2,1.0,956123523,Riccardo Scandariato,0,0.0040557659796233,0.2757546058061082
+2112202106,Federated Authorization for Software-as-a-Service Applications,2013,18,8,2,1.0,313561675,Bert Lagaisse,0,-0.5656101995609575,0.5880165631395027
+2121448599,Uniform application-level access control enforcement of organizationwide policies,2005,18,17,3,1.0,153035658,Tine Verhanneman,0,-0.5656101995609575,0.5880165631395027
+2121876633,Linking Privacy Solutions to Developer Goals,2009,13,10,3,1.0,956123523,Riccardo Scandariato,0,0.3851255581250159,1.5477557884402058
+2139740492,Bridging the gap between web application firewalls and web applications,2006,16,25,3,0.289115,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2122177035,Filter-resistant code injection on ARM,2009,26,15,5,1.0,220035981,Pieter Philippaerts,0,0.5616176283284842,0.5366780419716752
+2113544020,Transforming Security Requirements into Architecture,2008,14,13,3,1.0,303062507,Koen Yskout,0,-1.3721930698182816,1.7734739921660752
+2116560806,A privacy threat analysis framework supporting the elicitation and fulfillment of privacy requirements,2011,69,201,2,1.0,956123523,Riccardo Scandariato,0,0.7891064743571125,2.224386193315685
+2119604965,Process Activities Supporting Security Principles,2007,6,8,3,1.0,262657348,Koen Buyens,0,-1.453177666097375,2.2064780887156656
+2113739228,Using Security Patterns to Combine Security Metrics,2008,13,54,2,1.0,956123523,Riccardo Scandariato,0,-1.177862972973792,1.6319205290300032
+2128637495,PAriCheck an efficient pointer arithmetic checker for C programs,2010,43,63,5,0.952381,220035981,Pieter Philippaerts,0,0.0040557659796233,0.2757546058061082
+2128698564,Assessment of palm OS susceptibility to malicious code threats,2005,3,1,3,1.0,1809815638,Bart De Win,0,0.0040557659796233,0.2757546058061082
+2144154820,Abusing locality in shared web hosting,2011,7,13,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+2153533674,Infrastructural Support for Enforcing and Managing Distributed Application-Level Policies,2008,17,7,2,1.0,1809815638,Bart De Win,0,-0.64380370370557,2.837283194704529
+2162587259,Federated and Shared Use of Sensor Networks through Security Middleware,2009,16,22,1,1.0,1969876091,Wouter Joosen,0,-0.6010400679278344,1.5231843386791741
+2144766836,Middleware for efficient and confidentiality-aware federation of access control policies,2014,27,46,2,1.0,313561675,Bert Lagaisse,0,-0.081070340820148,0.8379963009990375
+2171811679,A methodology for designing countermeasures against current and future code injection attacks,2005,24,25,3,0.457221,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2151497112,Towards a software architecture for DRM,2005,15,47,3,0.0,176148227,Kristof Verslype,0,-0.2304081779245302,0.6236857432762108
+2146537463,Empirical and statistical analysis of risk analysis-driven techniques for threat management,2007,5,19,2,1.0,262657348,Koen Buyens,0,0.7784371755708478,1.1033901263891936
+2152675258,Identifying and Resolving Least Privilege Violations in Software Architectures,2009,58,4,3,1.0,262657348,Koen Buyens,0,-1.2464907002177859,1.9834366975354236
+2188707625,Federated Privileged Identity Management for Break-the-Glass A Case Study with OpenAM,2014,11,1,2,0.89847,346948214,Davy Preuveneers,0,-0.5450546187186815,0.28903121704783225
+2272887012,Scalable and Secure Concurrent Evaluation of History-based Access Control Policies,2015,23,2,2,1.0,313561675,Bert Lagaisse,0,0.23381307031774545,1.3010365972311815
+2256284630,PriVaricator Deceiving Fingerprinters with Little White Lies,2015,11,73,1,1.0,1969876091,Wouter Joosen,0,-0.2558656733054443,0.6298621486781488
+2251946961,Entity-Based Access Control supporting more expressive access control policies,2015,21,12,2,1.0,313561675,Bert Lagaisse,0,-0.2588435644720595,0.9385921748054828
+2242191968,Î¼PnP-Mesh The plug-and-play mesh network for the Internet of Things,2015,7,15,4,0.0,923048171,Thomas Watteyne,0,0.0040557659796233,0.2757546058061082
+2294161009,Feature-Based Variability Management for Scalable Enterprise Applications Experiences with an E-Payment Case,2016,47,0,2,0.909326,346948214,Davy Preuveneers,0,0.0040557659796233,0.2757546058061082
+2285105717,Aspect-Oriented Middleware and a Case Study on Security Services,2006,0,1,5,1.0,153035658,Tine Verhanneman,0,-0.25726232239641234,1.311734200400081
+2286680562,On the effectiveness of virtualization-based security,2012,14,3,2,0.0,233250515,Frank Piessens,0,0.12340015586982621,0.5325683461052929
+2346489481,Privacy-enabled remote health monitoring applications for resource constrained wearable devices,2016,18,6,2,0.909326,346948214,Davy Preuveneers,0,0.12576400906441326,0.20703869820929155
+2337971685,Semantic analysis and verification of context-driven adaptive applications in intelligent environments,2016,42,9,2,0.909326,346948214,Davy Preuveneers,0,0.2867845667641703,1.1448621540932602
+2405431234,A security analysis of emerging web standards - HTML5 and friends from specification to implementation,2012,15,3,3,0.0,233250515,Frank Piessens,0,0.5620192467245925,2.5880541946279947
+2466394978,Advanced or Not A Comparative Study of the Use of Anti-debugging and Anti-VM Techniques in Generic and Targeted Malware,2016,6,16,1,1.0,1969876091,Wouter Joosen,0,0.05940095047987125,0.6960502266457337
+2497845670,Request and Conquer Exposing Cross-Origin Resource Size,2016,44,10,2,0.0,233250515,Frank Piessens,0,-0.17509794864928266,0.08409228455470191
+2490871009,Engineering Secure Future Internet Services and Systems,2014,0,4,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+2467763829,Its free for a reason Exploring the ecosystem of free live streaming services,2016,30,15,1,1.0,1969876091,Wouter Joosen,0,0.05940095047987125,0.6960502266457337
+2561167266,Towards a container-based architecture for multi-tenant SaaS applications,2016,18,17,2,1.0,313561675,Bert Lagaisse,0,0.0040557659796233,0.2757546058061082
+2524444197,Protecting global and static variables from buffer overflow attacks without overhead,2006,19,5,3,0.289115,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2524476898,A system of security patterns,2006,11,34,3,1.0,303062507,Koen Yskout,0,0.2018268678365599,0.1425886522275585
+2524754951,Automatic and precise client-side protection against CSRF attacks,2011,0,0,3,0.0,233250515,Frank Piessens,0,1.7029826062605458,-0.2600589908962866
+2503791111,Accelerometer-Based Device Fingerprinting for Multi-factor Mobile Authentication,2016,25,15,2,0.909326,346948214,Davy Preuveneers,0,-2.02342209309389,-1.5702228314806332
+2525293855,Towards systematically addressing security variability in software product lines,2016,15,1,2,1.0,303062507,Koen Yskout,0,-1.3825083712663253,2.2632488327250773
+2540544735,Data Protection Compliance Regulations and Implications for Smart Factories of the Future,2016,18,5,3,0.909326,346948214,Davy Preuveneers,0,0.1246689035316199,1.6030243947598801
+2521340632,Crying wolf On the price discrimination of online airline tickets,2014,8,24,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+2505610383,Security and privacy controls for streaming data in extended intelligent environments,2016,60,4,2,0.909326,346948214,Davy Preuveneers,0,-0.06571298508141789,1.0883382302267173
+2521677856,LIND(D)UN privacy threat tree catalog,2014,4,7,2,1.0,956123523,Riccardo Scandariato,0,-0.09599616327697101,0.06312598316488381
+2521755897,LINDDUN privacy threat modeling a tutorial,2015,0,7,1,1.0,1969876091,Wouter Joosen,0,-0.09599616327697101,0.06312598316488381
+2522026380,Context-driven dynamic organizations applied to coordinated monitoring of traffic jams,2007,28,6,5,0.0,159167527,Alexander Helleboogh,0,0.0040557659796233,0.2757546058061082
+2527119372,CsFire Transparent client-side mitigation of malicious cross-domain requests,2010,0,17,3,0.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2522246798,Security services in mainstream enterprise-oriented middleware Platforms,2005,0,2,2,1.0,1809815638,Bart De Win,0,0.0040557659796233,0.2757546058061082
+2547378457,Secure composition policies,2011,10,0,4,0.0,233250515,Frank Piessens,0,-0.3383784544281044,0.15268826611744696
+2523434765,Improving the security of session management in web applications,2013,8,2,3,0.0,233250515,Frank Piessens,0,0.019767729208273098,-0.0260530457065589
+2523677811,Using model checkers to elicit security metrics,2008,2,0,2,1.0,303062507,Koen Yskout,0,0.1434512291273723,0.6084460840005051
+2628085535,A Voucher-Based Security Middleware for Secure Business Process Outsourcing,2017,18,1,2,1.0,313561675,Bert Lagaisse,0,0.0040557659796233,0.2757546058061082
+2636222498,Resolving least privilege violations in software architectures,2009,0,2,3,1.0,262657348,Koen Buyens,0,-0.49551509751858536,1.3395583570401146
+2606068895,QoC(^{2})Breaker intelligent software circuit breakers for fault-tolerant distributed context-aware applications,2017,32,1,2,0.723269,346948214,Davy Preuveneers,0,0.0040557659796233,0.2757546058061082
+2606374363,Enhanced fraud detection as a service supporting merchant-specific runtime customization,2017,5,2,2,0.723269,346948214,Davy Preuveneers,0,0.0040557659796233,0.2757546058061082
+2667320138,Method for supplying services via at least one network and network architecture and management centre used thereby,1999,8,5,2,0.0,1089456629,Stijn Bijnens,0,0.4152900494811695,3.0307923137343056
+2668370744,SEQUOIA Scalable Policy-Based Access Control for Search Operations in Data-Driven Applications,2017,20,0,2,1.0,313561675,Bert Lagaisse,0,-0.023550276898621297,0.7099097923564667
+2670674069,Improving Resilience of Behaviometric Based Continuous Authentication with Multiple Accelerometers,2017,24,6,2,0.723269,346948214,Davy Preuveneers,0,-0.5530861437885858,-0.004176666300269333
+2736207914,Leveraging NoSQL for Scalable and Dynamic Data Encryption in Multi-tenant SaaS,2017,22,2,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+2758807987,Access Control with Delegated Authorization Policy Evaluation for Data-Driven Microservice Workflows,2017,17,3,2,0.723269,346948214,Davy Preuveneers,0,-0.06403895063611258,0.4466485645501635
+2761388029,Exploring the Ecosystem of Malicious Domain Registrations in the eu TLD,2017,12,6,2,0.0,233250515,Frank Piessens,0,-2.6276670129983675,0.42678321102787703
+2768933840,A dynamic decision fusion middleware for trustworthy context-aware IoT applications,2017,15,0,2,0.723269,346948214,Davy Preuveneers,0,-0.2805278508228405,0.5323961372943287
+2771820100,S Î¼ V - the security microvisor a virtualisation-based security middleware for the internet of things,2017,15,7,2,1.0,1967288308,Nelson Matthys,0,0.7899273897195743,0.2630222226759943
+2766742916,The Wolf of Name Street Hijacking Domains Through Their Nameservers,2017,18,7,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+2751293359,The relationship between the cost of cybercrime and web security posture a case study on Belgian companies,2017,9,0,1,1.0,1969876091,Wouter Joosen,0,-1.7380708100341873,2.939114410573258
+2763427437,Trustworthy data-driven networked production for customer-centric plants,2017,32,7,3,0.723269,346948214,Davy Preuveneers,0,-0.1352778351928805,0.852673812597693
+2779912472,Privacy-Preserving Behavioral Authentication on Smartphones,2017,19,0,2,0.723269,346948214,Davy Preuveneers,0,-0.6611753305915343,0.26101563868635036
+2748245824,Herding Vulnerable Cats A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting,2017,41,9,2,0.0,1955534032,Rainer BÃ¶hme,0,0.8686081547541336,0.316379373873542
+2788624495,Frictionless Authentication Systems Emerging Trends Research Challenges and Opportunities,2018,28,0,2,0.674451,346948214,Davy Preuveneers,0,-0.35854552692282465,0.367119815803179
+2811114113,Effective and efficient privacy threat modeling through domain refinements,2018,15,3,1,1.0,1969876091,Wouter Joosen,0,0.8240879418607827,2.3984997895427433
+2783404635,Managing distributed trust relationships for multi-modal authentication,2018,47,0,2,0.674451,346948214,Davy Preuveneers,0,-0.6648916880613557,0.1956183279632103
+2888791752,Fishy Faces Crafting Adversarial Images to Poison Face Authentication,2018,0,2,1,1.0,1969876091,Wouter Joosen,0,-0.5530861437885858,-0.004176666300269333
+2888973322,Risk-based design security analysis,2018,20,7,2,1.0,303062507,Koen Yskout,0,0.4494765089879894,0.37816703345093616
+2889058358,Security patterns 20 towards security patterns based on security building blocks,2018,18,1,3,1.0,303062507,Koen Yskout,0,-0.19827676133571107,-0.1610290403509979
+2885842820,SPARTA Security &amp; Privacy Architecture Through Risk-Driven Threat Assessment,2018,16,7,2,1.0,303062507,Koen Yskout,0,-0.0018388831803734702,0.06148369445854634
+2889348755,Who Left Open the Cookie Jar A Comprehensive Evaluation of Third-Party Cookie Policies,2018,0,8,1,1.0,1969876091,Wouter Joosen,0,0.1277271663146797,0.24067959541525985
+2900585153,A Lingua Franca for Security by Design,2018,16,1,4,1.0,303062507,Koen Yskout,0,-0.2783712749094088,-0.04028778478695272
+2904027722,Tranco A Research-Oriented Top Sites Ranking Hardened Against Manipulation,2018,33,5,1,1.0,1969876091,Wouter Joosen,0,-0.17324153726119554,0.6587671663167594
+2900764752,Expect the unexpected Towards a middleware for policy adaptation in IoT platforms,2018,13,0,2,1.0,313561675,Bert Lagaisse,0,-0.05808639786349864,1.3052460848833318
+2960248881,Purchased Fame Exploring the Ecosystem of Private Blog Networks,2019,24,0,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+2943088494,Analysis of architectural variants for auditable blockchain-based private data sharing,2019,18,1,2,1.0,313561675,Bert Lagaisse,0,0.0868615083668367,0.140561709035792
+2949887351,Herding Vulnerable Cats A Statistical Approach to Disentangle Joint Responsibility for Web Security in Shared Hosting,2017,38,0,2,0.0,1955534032,Rainer BÃ¶hme,0,0.8686081547541336,0.316379373873542
+2944069298,Exposing Cookie Policy Flaws Through an Extensive Evaluation of Browsers and Their Extensions,2019,7,0,1,1.0,1969876091,Wouter Joosen,0,-0.5530861437885858,-0.004176666300269333
+2957547225,Mobile Friendly or Attacker Friendly A Large-scale Security Evaluation of Mobile-first Websites,2019,23,0,1,1.0,1969876091,Wouter Joosen,0,0.2018268678365599,0.1425886522275585
+2963600855,Frictionless Authentication Systems Emerging Trends Research Challenges and Opportunities,2017,0,2,2,0.723269,346948214,Davy Preuveneers,0,-0.5530861437885858,-0.004176666300269333
+2990244238,Premadoma an operational solution for DNS registries to prevent malicious domain registrations,2019,10,0,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+2964408162,Who Left Open the Cookie Jar A Comprehensive Evaluation of Third-Party Cookie Policies,2019,0,0,1,1.0,1969876091,Wouter Joosen,0,0.1277271663146797,0.24067959541525985
+2987300744,You Dont Need a Ledger Lightweight Decentralized Consensus Between Mobile Web Clients,2019,18,0,2,1.0,313561675,Bert Lagaisse,0,0.2977030333544188,0.42209627204681427
+2965027989,Evaluating the Long-term Effects of Parameters on the Characteristics of the Tranco Top Sites Ranking,2019,0,0,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+2969940496,Towards Multi-party Policy-based Access Control in Federations of Cloud and Edge Microservices,2019,12,0,2,0.651639,346948214,Davy Preuveneers,0,-0.023550276898621297,0.7099097923564667
+2973835278,Privacy Risk Assessment for Data Subject-Aware Threat Modeling,2019,21,0,1,1.0,1969876091,Wouter Joosen,0,0.04168772429302527,1.234352038682945
+2974354458,Knowledge is Power Systematic Reuse of Privacy Knowledge for Threat Elicitation,2019,10,0,1,1.0,1969876091,Wouter Joosen,0,-0.09599616327697101,0.06312598316488381
+2974735516,Assessing the Effectiveness of Domain Blacklisting Against Malicious DNS Registrations,2019,11,1,1,1.0,1969876091,Wouter Joosen,0,-0.0922726167567914,0.3939686701371476
+2984639340,DataBlinder A distributed data protection middleware supporting search and computation on encrypted data,2019,43,0,2,1.0,313561675,Bert Lagaisse,0,0.404839903179184,-0.8637031991940519
+2968514490,A Data Utility-Driven Benchmark for De-identification Methods,2019,26,0,1,1.0,1969876091,Wouter Joosen,0,-0.5901415547541887,-1.0376367098943071
+3003953164,On the applicability of security and privacy threat modeling for blockchain applications,2019,21,0,1,1.0,1969876091,Wouter Joosen,0,-0.039630129450651336,0.3958927262415845
+3015118212,Authenticated and auditable data sharing via smart contract,2020,16,0,2,1.0,313561675,Bert Lagaisse,0,0.4443535968492885,0.2602596200633367
+3023034395,Safe reparametrization of component-based WSNs,2014,0,0,1,1.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+3008949272,A Practical Approach for Taking Down Avalanche Botnets Under Real-World Constraints,2020,0,0,2,0.630064,346948214,Davy Preuveneers,0,0.0040557659796233,0.2757546058061082
+3017194657,TATIS Trustworthy APIs for Threat Intelligence Sharing with UMA and CP-ABE,2019,10,0,1,1.0,1969876091,Wouter Joosen,0,-0.26509225724923197,0.37260433843025487

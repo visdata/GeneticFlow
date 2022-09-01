@@ -1,0 +1,159 @@
+137549637,Botnet Detection Countering the Largest Security Threat (Advances in Information Security),2007,36,10,3,1.0,160465655,David Dagon,0,-0.1773385929008878,0.7069782294431272
+1655456,Modeling Botnet Propagation Using Time Zones,2006,29,327,3,1.0,160465655,David Dagon,0,0.0040557659796233,0.2757546058061082
+155384935,Building a dynamic reputation system for DNS,2010,22,298,5,1.0,140829034,Roberto Perdisci,0,-1.3643835773950794,0.5457238917575578
+173629715,Notos Building a Dynamic Reputation System for DNS,2010,0,15,4,1.0,140829034,Roberto Perdisci,0,0.3259332239481683,0.5745734317069635
+191098608,BotHunter detecting malware infection through IDS-driven dialog correlation,2007,41,647,3,0.732441,239661466,Vinod Yegneswaran,0,0.12944494320330083,0.8222090776109727
+57172993,Secure and robust monitoring of virtual machines through guest-assisted introspection,2012,21,44,3,0.0,2005552975,Matthew Conover,0,-0.4256778194832003,0.3181915479731412
+23405769,Diagnosis and Emergency Patch Generation for Integer Overflow Exploits,2014,43,8,3,1.0,2102139812,Chengyu Song,0,0.1639362940477497,0.6530314529854678
+109909280,Impeding Malware Analysis Using Conditional Code Obfuscation,2008,27,174,1,1.0,2155626625,Wenke Lee,0,-0.5388719539548288,0.7502871502910935
+165688198,Eureka A Framework for Enabling Static Malware Analysis,2008,22,95,3,0.732441,239661466,Vinod Yegneswaran,0,-0.27410520138219224,1.2791467325705501
+224548946,SECURITY SYSTEMS AND METHODS FOR DISTINGUISHING USER-INTENDED TRAFFIC FROM MALICIOUS TRAFFIC,2011,6,37,2,1.0,2009152752,Brendan Dolan Gavitt,0,0.19584928986980218,0.4590370007628555
+149175888,Combining Knowledge Discovery and Knowledge Engineering to Build IDSs,1999,9,17,2,0.0,2021877992,Salvatore J. Stolfo,0,0.13679434731489165,0.6751406926737795
+135767600,Understanding precision in host based intrusion detection formal analysis and practical models,2007,30,14,3,0.740741,233736013,Jonathon Giffin,0,0.13679434731489165,0.6751406926737795
+33808135,Take this personally pollution attacks on personalized services,2013,15,14,4,0.0,242465118,Dan Doozan,0,0.1181027946237004,0.8383174511010174
+68163417,A data mining framework for constructing features and models for intrusion detection systems (computer security network security),1999,0,39,1,1.0,2155626625,Wenke Lee,0,1.1196577834017156,0.9366869048018206
+170652726,Impeding automated malware analysis with environment-sensitive malware,2012,18,21,3,1.0,2102139812,Chengyu Song,0,-0.41404595165451014,1.4783029642839696
+1533814111,Using labeling to prevent cross-service attacks against smart phones,2006,12,38,2,1.0,160465655,David Dagon,0,0.09223875610621117,0.8167092949592535
+1525062087,Understanding Precision in Host Based Intrusion Detection,2007,32,19,3,0.740741,233736013,Jonathon Giffin,0,0.8132086575740218,0.9257086063639175
+1543512222,Recursive DNS Architectures and Vulnerability Implications,2009,20,25,6,0.952226,160465655,David Dagon,0,-2.608048024658503,0.5920637883327715
+1561983441,From throw-away traffic to bots detecting the rise of DGA-based malware,2012,29,291,5,1.0,140829034,Roberto Perdisci,0,0.047074420308525065,0.7731884831536854
+1509130105,Advanced Polymorphic Worms Evading IDS by Blending in with Normal Traffic,2005,0,126,1,1.0,2155626625,Wenke Lee,0,1.8573341635377911,0.30224215065054016
+1527992010,A Data Mining and CIDF Based Approach for Detecting Novel and Distributed Intrusions,2000,12,107,2,0.324074,2021877992,Salvatore J. Stolfo,0,0.7829756337999312,0.8740634426087626
+1528365302,A centralized monitoring infrastructure for improving DNS security,2010,21,33,4,1.0,140829034,Roberto Perdisci,0,-2.608048024658503,0.5920637883327715
+1546690352,Attack plan recognition and prediction using causal networks,2004,28,161,2,1.0,2115528181,Xinzhou Qin,0,-0.2297815569480996,1.5795516519563162
+1574247262,BLADE Slashing the Invisible Channel of Drive-by Download Malware,2009,2,0,3,0.692455,239661466,Vinod Yegneswaran,0,0.1475395743585395,0.8074695844854315
+1485364724,Botnet Detection Countering the Largest Security Threat,2010,0,44,3,0.908578,160465655,David Dagon,0,0.0040557659796233,0.2757546058061082
+1425914613,On the feasibility of large-scale infections of iOS devices,2014,27,13,3,1.0,2110459679,Tielei Wang,0,0.0040557659796233,0.2757546058061082
+1431078357,Type casting verification stopping an emerging attack vector,2015,21,32,4,1.0,2102139812,Chengyu Song,0,-0.6567160340281432,1.3137850476034183
+1494575468,Increased DNS Forgery Resistance Through 0x20-Bit Encoding,2008,20,13,4,1.0,160465655,David Dagon,0,-1.3552681102913873,0.8121967873501414
+1540548505,HoneyStat Local Worm Detection Using Honeypots,2004,33,175,7,1.0,160465655,David Dagon,0,-0.0938040514995232,0.8640620412541171
+1953670109,Jekyll on iOS when benign apps become evil,2013,30,99,4,1.0,2110459679,Tielei Wang,0,-1.4446269836357255,-0.7305941493307719
+1837847590,Discovering Novel Attack Strategies from Infosec Alerts,2004,51,60,2,1.0,2115528181,Xinzhou Qin,0,-0.001844601824549652,1.288074124145926
+1586871184,Worm detection early warning and response based on local victim information,2004,19,106,5,1.0,160465655,David Dagon,0,0.0040557659796233,0.2757546058061082
+1587071109,xBook redesigning privacy control in social networking platforms,2009,53,77,2,1.0,2096862930,Kapil Singh,0,-0.1220297735309915,0.5842488510836384
+1884606608,A data mining framework for building intrusion detection models,1999,81,1062,3,0.0,1968757248,Kui W. Mok,0,0.6175047503967357,1.4749537359076432
+1581184532,Corrupted DNS Resolution Paths The Rise of a Malicious Resolution Authority,2008,16,99,3,1.0,160465655,David Dagon,0,-0.040350391049298946,0.6456821080490113
+1608697108,Proactive Intrusion Detection and Distributed Denial of Service Attacksâ€”A Case Study in Security Management,2002,35,40,1,1.0,2155626625,Wenke Lee,0,0.1171181814944001,1.3380315478345193
+1697490417,Method and system for detecting malicious domain names at an upper DNS hierarchy,2012,399,74,3,1.0,140829034,Roberto Perdisci,0,-2.8427757286357624,0.6646898759019378
+1891655855,Proactive intrusion detection and SNMP-based security management new experiments and validation,2003,6,8,2,1.0,2115528181,Xinzhou Qin,0,0.1171181814944001,1.3380315478345193
+1582262359,Recent Advances in Intrusion Detection 4th International Symposium RAID 2001 Davis CA USA October 10-12 2001 Proceedings,2001,0,6,1,1.0,2155626625,Wenke Lee,0,1.372991159613349,1.1076246078303615
+1651734357,Method and system for network-based detecting of malware from behavioral clustering,2011,429,88,2,1.0,140829034,Roberto Perdisci,0,0.05940095047987125,0.6960502266457337
+1775772884,BotMiner clustering analysis of network traffic for protocol- and structure-independent botnet detection,2008,36,936,3,1.0,140829034,Roberto Perdisci,0,0.0040557659796233,0.2757546058061082
+1583098994,BotSniffer Detecting Botnet Command and Control Channels in Network Traffic,2008,24,672,2,1.0,2150371625,Guofei Gu,0,0.3259332239481683,0.5745734317069635
+1827212170,Behavioral clustering of HTTP-based malware and signature generation using malicious network traces,2010,23,349,3,1.0,140829034,Roberto Perdisci,0,0.05940095047987125,0.6960502266457337
+1947347140,Formalizing sensitivity in static analysis for intrusion detection,2004,25,141,2,0.0,2155251401,Barton P. Miller,0,0.10137480047949364,0.8199980551192115
+1863743301,Method and system for detecting and responding to attacking networks,2006,222,257,2,0.0573065,1373210103,Nick Feamster,0,0.0040557659796233,0.2757546058061082
+1593031142,Evaluating Bluetooth as a medium for botnet command and control,2010,27,70,2,1.0,2096862930,Kapil Singh,0,0.06381456689529567,0.4987466599004335
+1583975142,Data mining approaches for intrusion detection,1998,21,1075,2,0.0,2021877992,Salvatore J. Stolfo,0,0.40174066736237046,0.816703525311474
+1585105376,Attack Analysis and Detection for Ad Hoc Routing Protocols,2004,19,143,2,1.0,2154482821,Yi an Huang,0,0.13679434731489165,0.6751406926737795
+1975627814,UCognito Private Browsing without Tears,2015,14,9,2,0.396802,2135529837,Taesoo Kim,0,0.08121348977994089,0.6531813132273829
+1975745448,Understanding the prevalence and use of alternative plans in malware with network games,2011,22,8,4,1.0,140829034,Roberto Perdisci,0,-0.6954734986230432,1.5243745912008198
+1970946733,An assessment of VoIP covert channel threats,2007,28,57,1,1.0,2155626625,Wenke Lee,0,-0.8688649122019726,1.1578223483346792
+1992741024,ASLR-Guard Stopping Address Space Leakage for Code Reuse Attacks,2015,44,64,5,1.0,2102139812,Chengyu Song,0,0.0040557659796233,0.2757546058061082
+2001547489,Dynamic Trust Management,2009,12,62,5,0.0,299775663,Angelos D. Keromytis,0,-0.023550276898621297,0.7099097923564667
+1988036170,CHEX statically vetting Android apps for component hijacking vulnerabilities,2012,29,444,2,1.0,2116820571,Long Lu,0,-1.1728417193256522,-0.017084428456688394
+1990225450,From Zygote to Morula Fortifying Weakened ASLR on Android,2014,23,35,5,1.0,2110459679,Tielei Wang,0,0.0040557659796233,0.2757546058061082
+1997394198,Preventing Use-after-free with Dangling Pointers Nullification,2015,29,51,6,1.0,2102139812,Chengyu Song,0,-0.3298717486468034,1.2192927984572213
+2025874281,On the Incoherencies in Web Browser Access Control Policies,2010,17,61,4,0.392157,1998475219,Alexander Moshchuk,0,-0.023550276898621297,0.7099097923564667
+2018956134,Checking More and Alerting Less Detecting Privacy Leakages via Enhanced Data-flow Analysis and Peer Voting,2015,0,50,4,0.0,1189730027,Vasileios P. Kemerlis,0,0.0040557659796233,0.2757546058061082
+2013773577,A layered approach to simplified access control in virtualized systems,2007,33,34,3,0.0,2014533025,Reiner Sailer,0,-0.18594591199211763,1.7258773747936118
+2017802026,Gyrus A Framework for User-Intent Monitoring of Text-Based Networked Applications,2014,27,20,1,1.0,2155626625,Wenke Lee,0,0.05940095047987125,0.6960502266457337
+2012578421,Exploiting and Protecting Dynamic Code Generation,2015,44,29,4,0.0,2084562734,David Melski,0,0.0040557659796233,0.2757546058061082
+2032247543,Evading network anomaly detection systems formal reasoning and practical techniques,2006,29,129,2,0.0,765807516,Prahlad Fogla,0,0.12212280894536603,0.5519398937047882
+2033368661,Misleading worm signature generators using deliberate noise injection,2006,19,164,4,1.0,140829034,Roberto Perdisci,0,0.10371539242929195,0.5918708737361019
+2051498836,BLADE an attack-agnostic approach for preventing drive-by malware infections,2010,21,139,3,0.523681,239661466,Vinod Yegneswaran,0,-0.013794186062242253,0.9624151621318139
+2034297286,Exposing invisible timing-based traffic watermarks with BACKLIT,2011,32,26,3,1.0,140829034,Roberto Perdisci,0,0.3259332239481683,0.5745734317069635
+2043314203,Measuring intrusion detection capability an information-theoretic approach,2006,23,113,5,1.0,160465655,David Dagon,0,0.13679434731489165,0.6751406926737795
+2036358294,Intrusion detection in wireless ad-hoc networks,2000,13,1051,1,1.0,2155626625,Wenke Lee,0,1.1900872713289083,1.0486512015157488
+2073887753,Message from the Program Chairs S&amp;P 2012,2012,0,0,1,1.0,2155626625,Wenke Lee,0,0.3171484069971384,-0.13992525839030945
+2075986968,Beheading hydras performing effective botnet takedowns,2013,8,43,5,0.961955,140829034,Roberto Perdisci,0,0.15043545337158268,0.7148297596926915
+2062533261,SURF detecting and measuring search poisoning,2011,14,65,3,1.0,140829034,Roberto Perdisci,0,0.0040557659796233,0.2757546058061082
+2096847629,Information-theoretic measures for anomaly detection,2001,24,493,1,1.0,2155626625,Wenke Lee,0,-0.0567134206410716,0.6949380038164903
+2082456656,Boosting the scalability of botnet detection using adaptive traffic sampling,2011,23,28,5,1.0,140829034,Roberto Perdisci,0,0.3071331255154989,0.7412245476517926
+2086041922,Misleading and defeating importance-scanning malware propagation,2007,31,10,2,1.0,2150371625,Guofei Gu,0,-0.07997701694055213,0.843434102123871
+2100125945,DSO dependable signing overlay,2006,32,3,3,0.0,765807516,Prahlad Fogla,0,0.35303303050045487,-0.07145091769871881
+2097981871,Increased DNS forgery resistance through 0x20-bit encoding security via leet queries,2008,20,67,4,1.0,160465655,David Dagon,0,-1.3552681102913873,0.8121967873501414
+2095519872,Tappan Zee (north) bridge mining memory accesses for introspection,2013,23,44,4,0.0,1765189935,Josh Hodosh,0,-0.22250960349217863,1.265207043255914
+2104492843,Heterogeneous networking a new survivability paradigm,2001,10,57,3,0.0,1946066766,Son Dao,0,0.32522775667073756,0.7264850545262515
+2101737524,Detecting Malicious Flux Service Networks through Passive Analysis of Recursive DNS Traces,2009,11,130,4,1.0,140829034,Roberto Perdisci,0,0.0040557659796233,0.2757546058061082
+2085305295,A framework for constructing features and models for intrusion detection systems,2000,24,855,2,0.324074,2021877992,Salvatore J. Stolfo,0,1.1710690021768055,1.0496810602489979
+2105045498,Performance adaptation in real-time intrusion detection systems,2002,27,62,1,1.0,2155626625,Wenke Lee,0,0.13679434731489165,0.6751406926737795
+2099205108,Global Internet Monitoring Using Passive DNS,2009,8,7,2,0.952226,160465655,David Dagon,0,-0.07997701694055213,0.843434102123871
+2105272313,Evaluating emailâ€™s feasibility for botnet command and control,2008,14,29,3,0.740741,233736013,Jonathon Giffin,0,-1.7562747971710881,-2.3865243597770087
+2114356569,ARROW GenerAting SignatuRes to Detect DRive-By DOWnloads,2011,18,81,1,1.0,2155626625,Wenke Lee,0,0.12004405143342779,0.7119349973292604
+2126220112,Mapping kernel objects to enable systematic integrity checking,2009,22,142,5,0.0,2101920419,Xuxian Jiang,0,0.05940095047987125,0.6960502266457337
+2132029108,Towards an information-theoretic framework for analyzing intrusion detection systems,2006,28,36,5,1.0,160465655,David Dagon,0,0.13679434731489165,0.6751406926737795
+2117593668,Integrating intrusion detection and network management,2002,17,27,2,1.0,2115528181,Xinzhou Qin,0,0.7177593966591407,0.2496324056687316
+2138580357,Virtuoso Narrowing the Semantic Gap in Virtual Machine Introspection,2011,27,217,5,0.563066,233736013,Jonathon Giffin,0,-0.13819566887410417,1.2279917443132753
+2126734536,PolyUnpack Automating the Hidden-Code Extraction of Unpack-Executing Malware,2006,4,264,3,1.0,160465655,David Dagon,0,0.3174827722992473,0.6926379362532625
+2109056062,Your Online Interests Pwned A Pollution Attack Against Targeted Advertising,2014,23,8,3,1.0,90917981,Udi Weinsberg,0,0.0040557659796233,0.2757546058061082
+2139279521,Protecting secret data from insider attacks,2005,23,19,2,1.0,160465655,David Dagon,0,0.44307271415593064,0.019259953159363775
+2136561182,Statistical Causality Analysis of Infosec Alert Data,2003,22,197,2,1.0,2115528181,Xinzhou Qin,0,-0.2988430776771026,0.5510938250052646
+2113284114,Hotspot-based traceback for mobile ad hoc networks,2005,23,30,2,1.0,2154482821,Yi an Huang,0,-0.3433073201126619,0.03445260357195232
+2128389850,Automatic Reverse Engineering of Malware Emulators,2009,28,158,2,0.740741,233736013,Jonathon Giffin,0,-0.334333390620263,1.1326084744453335
+2140807364,Ether malware analysis via hardware virtualization extensions,2008,28,582,2,0.0,2109808317,Paul Royal,0,-0.41404595165451014,1.4783029642839696
+2134707915,Guarding the next Internet frontier countering denial of information attacks,2002,25,9,5,0.0,2107643231,Leo Mark,0,0.11526449598508927,0.6788874279922723
+2137803891,On the secrecy of spread-spectrum flow watermarks,2010,27,22,3,1.0,140829034,Roberto Perdisci,0,0.09916773108989464,0.32357474920162166
+2144006591,Lares An Architecture for Secure Active Monitoring Using Virtualization,2008,32,400,1,1.0,2155626625,Wenke Lee,0,-0.03830889169977606,0.8776303664830568
+2159265516,Secure and Flexible Monitoring of Virtual Machines,2007,31,331,1,1.0,2155626625,Wenke Lee,0,0.0040557659796233,0.2757546058061082
+2165357553,McBoost Boosting Scalability in Malware Collection and Analysis Using Statistical Classification of Executables,2008,24,109,2,1.0,140829034,Roberto Perdisci,0,-0.44983553567081264,-0.0001889377822796856
+2168760272,Secure in-VM monitoring using hardware virtualization,2009,20,287,2,0.0,2107517118,Weidong Cui,0,-0.3026497597651251,0.795316499921657
+2148519244,A11y Attacks Exploiting Accessibility in Operating Systems,2014,19,31,3,1.0,2102139812,Chengyu Song,0,0.0040557659796233,0.2757546058061082
+2160883880,On the statistical distribution of processing times in network intrusion detection,2004,23,51,2,0.0,2020036575,J.B.D. Gosar,0,0.13679434731489165,0.6751406926737795
+2145959654,Active Botnet Probing to Identify Obscure Command and Control Channels,2009,31,63,3,0.692455,239661466,Vinod Yegneswaran,0,0.597357908130621,1.105773301025712
+2145965671,Practical end-to-end web content integrity,2012,20,15,5,0.392157,1998475219,Alexander Moshchuk,0,0.0040557659796233,0.2757546058061082
+2170214103,Detecting stealthy P2P botnets using statistical traffic fingerprints,2011,18,86,4,1.0,140829034,Roberto Perdisci,0,0.3071331255154989,0.7412245476517926
+2146211060,Polymorphic blending attacks,2006,28,211,3,1.0,140829034,Roberto Perdisci,0,0.13679434731489165,0.6751406926737795
+2167332015,Anomaly detection using call stack information,2003,18,376,2,0.0,2118959496,Weibo Gong,0,0.6908606987094854,0.9518585298141451
+2167370920,WSEC DNS Protecting recursive DNS resolvers from poisoning attacks,2009,14,40,4,1.0,140829034,Roberto Perdisci,0,-1.3552681102913873,0.8121967873501414
+2152955531,A Taxonomy of Botnet Structures,2007,51,239,4,1.0,160465655,David Dagon,0,0.0040557659796233,0.2757546058061082
+2156046262,An Extensible Environment for Evaluating Secure MANET,2005,15,8,2,1.0,2154482821,Yi an Huang,0,0.13679434731489165,0.6751406926737795
+2183296468,Mimesis aegis a mimicry privacy shield a systems approach to data privacy on public cloud,2014,47,34,3,0.0,2033462817,Alexandra Boldyreva,0,0.385764618261089,-0.05172101221745384
+2258082031,Understanding Malvertising Through Ad-Injecting Browser Extensions,2015,12,40,4,1.0,90917981,Udi Weinsberg,0,0.7113787978911551,0.9534874277012158
+2211883229,Security in Mobile Ad-Hoc Networks,2005,40,68,1,1.0,2155626625,Wenke Lee,0,-0.5360740931568118,1.8839873450964055
+2231236663,Countering Botnets Anomaly-Based Detection Comprehensive Analysis and Efficient Mitigation,2011,0,0,3,0.836025,160465655,David Dagon,0,-0.43193156363603163,1.2864320677688126
+2274236958,Designing security policies and frameworks for web applications,2011,0,0,2,1.0,2096862930,Kapil Singh,0,-0.13420039554806346,2.4874160707775492
+2224916113,Robust and efficient malware analysis and host-based monitoring,2010,93,1,2,0.617284,233736013,Jonathon Giffin,0,-0.41404595165451014,1.4783029642839696
+2288791011,Connected Colors Unveiling the Structure of Criminal Networks,2013,22,19,4,0.961955,140829034,Roberto Perdisci,0,0.0040557659796233,0.2757546058061082
+2295390884,Taming Virtualization,2008,2,23,1,1.0,2155626625,Wenke Lee,0,0.409692620118173,2.115438012753644
+2336746534,TrackMeOrNot Enabling Flexible Control on Web Tracking,2016,13,6,2,1.0,2123133241,Byoungyoung Lee,0,0.19518726142666865,1.0112604676800228
+2401054255,Detecting malware domains at the upper DNS hierarchy,2011,21,198,4,1.0,140829034,Roberto Perdisci,0,-1.2015182937208917,0.6862097922141552
+2396066572,HTTPOS Sealing Information Leaks with Browser-side Obfuscation of Encrypted Flows,2011,30,87,4,1.0,140829034,Roberto Perdisci,0,-0.05948134721724237,0.12583820124850706
+2399978149,The Core of the Matter Analyzing Malicious Traffic in Cellular Carriers,2013,32,51,3,1.0,321442596,Manos Antonakakis,0,-0.5028031078610354,1.0757388846166769
+2400398005,Intention and Origination An Inside Look at Large-Scale Bot Queries,2013,25,11,3,0.0,77092146,David Soukal,0,0.1639362940477497,0.6530314529854678
+2412827343,Dynamic IP Reputation from DNS,2009,0,0,3,1.0,140829034,Roberto Perdisci,0,-0.6171381074924076,0.026743969328657673
+2514649906,Mimesis Aegis A Mimicry Privacy Shield,2014,23,2,3,0.0,2033462817,Alexandra Boldyreva,0,0.5990051030619896,0.7710360369254619
+2538805569,UniSan Proactive Kernel Memory Initialization to Eliminate Data Leakages,2016,34,30,4,1.0,2102139812,Chengyu Song,0,1.085097682730419,1.950487146920374
+2574009340,How to Make ASLR Win the Clone Wars Runtime Reâ€Randomization,2016,37,36,4,0.0,2045355816,Michael Backes,0,0.0040557659796233,0.2757546058061082
+2530409042,Detecting and Tracking the Rise of DGA-Based Malware,2012,0,1,3,1.0,140829034,Roberto Perdisci,0,0.15043545337158268,0.7148297596926915
+2521027857,Using labeling to prevent cross-service attacks against smart phones,2006,0,2,2,1.0,160465655,David Dagon,0,0.1639362940477497,0.6530314529854678
+2575425722,Enforcing Kernel Security Invariants with Data Flow Integrity,2016,42,42,6,1.0,2102139812,Chengyu Song,0,0.0040557659796233,0.2757546058061082
+2511503556,The 2008 GTISC Security Summit - Emerging Cyber Security Threats,2008,0,0,1,1.0,2155626625,Wenke Lee,0,1.2574540141747108,0.6543355265578199
+2517176850,HDFI Hardware-Assisted Data-Flow Isolation,2016,62,32,7,0.0,1983415555,Yunheung Paek,0,-0.5903957098285995,1.1541778883888634
+2519016470,Exploiting Insurance Telematics for Fun and Profit,2016,32,1,2,0.0,2111453272,Heqing Huang,0,-0.0075554174688383284,0.782614210932782
+2547563342,From Physical to Cyber Escalating Protection for Personalized Auto Insurance,2016,41,11,2,0.0,2111453272,Heqing Huang,0,-0.0075554174688383284,0.782614210932782
+2508271471,The Price of Free Privacy Leakage in Personalized Mobile In-App Ads,2016,24,28,1,1.0,2155626625,Wenke Lee,0,0.0040557659796233,0.2757546058061082
+2613274303,Unleashing Use-Before-Initialization Vulnerabilities in the Linux Kernel Using Targeted Stack Spraying,2017,34,15,3,0.0,2045355816,Michael Backes,0,0.0040557659796233,0.2757546058061082
+2610265588,DSO Dependable signing overlay,2006,0,0,3,0.0,765807516,Prahlad Fogla,0,-0.15337398443963937,-0.2586004243996637
+2620448698,Bunshin Compositing Security Mechanisms through Diversification (with Appendix),2017,26,0,3,0.396802,2135529837,Taesoo Kim,0,0.13243095191414855,0.6444907988351548
+2700054830,Cloak and Dagger From Two Permissions to Complete Control of the UI Feedback Loop,2017,13,38,2,0.297199,162010076,Yanick Fratantonio,0,0.0040557659796233,0.2757546058061082
+2752985907,Efficient Protection of Path-Sensitive Control Security,2017,35,23,3,0.991338,2102139812,Chengyu Song,0,-1.6252993563365938,2.405780266916646
+2766078311,Identifying Open-Source License Violation and 1-day Security Risk at Large Scale,2017,62,7,2,0.396802,2135529837,Taesoo Kim,0,-1.2572246807953738,2.6431874568261673
+2741631240,Bunshin compositing security mechanisms through diversification,2017,38,6,3,0.396802,2135529837,Taesoo Kim,0,-0.6134825582058496,2.522267623279439
+2762818192,Cloaker Catcher A Client-based Cloaking Detection System,2017,16,0,1,1.0,2155626625,Wenke Lee,0,0.0040557659796233,0.2757546058061082
+2766852928,RAIN Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking,2017,44,17,3,0.790923,1989715328,Alessandro Orso,0,0.0040557659796233,0.2757546058061082
+2793937183,Broken fingers On the usage of the fingerprint API in Android,2018,19,8,4,0.297199,162010076,Yanick Fratantonio,0,-0.2558656733054443,0.6298621486781488
+2887061627,Statistical causality analysis of INFOSEC alert data,2003,0,0,2,1.0,2115528181,Xinzhou Qin,0,-0.2988430776771026,0.5510938250052646
+2888121333,ClickShield Are You Hiding Something Towards Eradicating Clickjacking on Android,2018,16,5,2,0.297199,162010076,Yanick Fratantonio,0,0.05940095047987125,0.6960502266457337
+2888872082,Rampart protecting web applications from CPU-exhaustion denial-of-service attacks,2018,25,2,3,0.0,32644230,Kevin Borgolte,0,0.0040557659796233,0.2757546058061082
+2888974175,Dependence-Preserving Data Compaction for Scalable Forensic Analysis,2018,0,12,11,0.0,233250515,Frank Piessens,0,0.0040557659796233,0.2757546058061082
+2889245788,Enabling refinable cross-host attack investigation with efficient data flow tagging and tracking,2018,49,1,3,0.790923,1989715328,Alessandro Orso,0,-0.6567160340281432,1.3137850476034183
+2912262279,DIFT Games Dynamic Information Flow Tracking Games for Advanced Persistent Threats,2018,11,8,1,1.0,2155626625,Wenke Lee,0,-0.17324153726119554,0.6587671663167594
+2898518680,Stopping Memory Disclosures via Diversification and Replicated Execution,2018,0,2,4,0.825304,2102139812,Chengyu Song,0,-0.2964314286509029,1.1880119284139607
+2913142084,Session details System security 1,2008,0,0,1,1.0,2155626625,Wenke Lee,0,-2.608048024658503,0.5920637883327715
+2891196279,Enforcing Unique Code Target Property for Control-Flow Integrity,2018,55,20,3,0.666667,2134111701,Hong Hu,0,0.1639362940477497,0.6530314529854678
+2902979785,Improving Accuracy of Android Malware Detection with Lightweight Contextual Awareness,2018,44,4,1,1.0,2155626625,Wenke Lee,0,-0.47844533733402833,1.362497709876
+2913762211,Proceedings of the second ACM conference on Wireless network security,2009,0,0,2,0.0,2144410870,Srdjan Capkun,0,0.0040557659796233,0.2757546058061082
+2947362543,Automating Patching of Vulnerable Open-Source Software Versions in Application Binaries,2019,0,2,2,0.593192,2022929576,Brendan Saltaformaggio,0,0.0040557659796233,0.2757546058061082
+2965270422,{RAZOR} A Framework for Post-deployment Software Debloating,2019,0,3,3,0.666667,2134111701,Hong Hu,0,0.0040557659796233,0.2757546058061082
+3004911431,Measuring and Preventing Supply Chain Attacks on Package Managers,2020,27,0,2,0.593192,2022929576,Brendan Saltaformaggio,0,-0.04061994788240001,0.3840389783153069

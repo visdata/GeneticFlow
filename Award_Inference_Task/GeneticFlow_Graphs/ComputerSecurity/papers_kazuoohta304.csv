@@ -1,0 +1,85 @@
+34846380,Secret Handshake Strong Anonymity Definition and Construction,2009,11,17,2,0,2013076459,Kazuki Yoneyama,0,-0.24914568339711773,-0.4208251983810703
+205924766,Experimental verification of super-sbox analysis confirmation of detailed attack complexity,2011,22,2,2,0,1905590919,Kazuo Sakiyama,0,0.0040557659796233,0.2757546058061082
+203203485,Polynomial-Advantage Cryptanalysis of 3D Cipher and 3D-Based Hash Function,2012,28,1,2,0,1905590919,Kazuo Sakiyama,0,2.4583220942283472,-2.120803849988496
+15461156,Boomerang Distinguishers for Full HAS-160 Compression Function,2012,28,12,2,0,1905590919,Kazuo Sakiyama,0,0.331504709086516,-0.44767294689537124
+377301177,Security of the Extended Fiat-Shamir Schemes (Special Section on Cryptography and Information Security),1998,0,0,1,0,2130187483,Kazuo Ohta,0,0.8123315128747718,-0.11090232032899434
+637710387,Message Authentication Codes and Differential Attack (Special Section on Cryptography and Information Security),1994,0,0,1,0,2130187483,Kazuo Ohta,0,-1.1850175181089777,-2.169621084485111
+986340503,Cryptographic Works of Dr Kenji Koyama In Memoria Special Section on Cryptography and Information Security,2001,0,0,2,0,2015470084,Noboru Kunihiro,0,0.3367742178731456,-0.15730157524728428
+419842316,Multi-Signature Schemes Secure against Active Insider Attacks (Special Section on Cryptography and Information Security),1999,0,18,1,0,2130187483,Kazuo Ohta,0,-0.23850052630717875,-1.3282716654621858
+623861321,New Proposal and Comparison of Closure Tests More Efficient than the CRYPTO92 Test for DES (Special Section on Cryptography and Information Security),1994,0,0,1,0,2130187483,Kazuo Ohta,0,0.09185462073762597,0.2861171120998424
+577820751,One-Time Zero-Knowledge Authentications and Their Applications to Untraceable Electronic Cash (Special Section on Cryptography and Information Security),1998,0,6,1,0,2130187483,Kazuo Ohta,0,0.3791608059675655,-0.14129151167902948
+579329815,A-7-2 Revisiting Zero-Knowledgeness of an On the Fly Authentication Scheme,2007,0,0,1,0,2130187483,Kazuo Ohta,0,-1.0770621036847867,-0.07562802494114818
+364933274,Linear Cryptanalysis of FEAL (Special Section on Cryptography and Information Security),1998,0,0,2,0,2020760526,Mitsuru Matsui,0,1.7913588947369843,-1.8862403739899545
+1513551553,Attribute-based encryption with partially hidden encryptor-specified access structures,2008,29,221,3,0,2013076459,Kazuki Yoneyama,0,0.39829635957691206,-1.8900609212624844
+1558726687,Provably secure electronic cash based on blind multisignature schemes,2006,19,2,2,0,1210075573,Yuichi Komano,0,0.24540551908720154,-1.5833878135908717
+1513711610,New key-recovery attacks on HMAC/NMAC-MD4 and NMAC-MD5,2008,23,31,1,0,2130187483,Kazuo Ohta,0,-1.0256678686111682,-1.2612404239060928
+1551379521,Sanitizable and Deletable Signature,2009,18,13,3,0,1990615295,Tetsuya Izu,0,0.07914989793774192,-1.8383060992871598
+1551800472,A generic method for reducing ciphertext length of reproducible KEMs in the RO model,2010,56,2,4,0,1646480596,Kaoru Kurosawa,0,0.05371458639990134,-1.6719711745428913
+1507214842,Password recovery on challenge and response impossible differential attack on hash function,2008,24,6,1,0,2130187483,Kazuo Ohta,0,-0.9578585627981315,-1.8431742151337518
+1499102050,Combination of SW countermeasure and CPU modification on FPGA against power analysis,2010,25,3,2,0,2048239862,Daisuke Nakatsu,0,0.16419487875259117,-0.031987101095342
+1571236476,Disposable Zero-Knowledge Authentications and Their Applications to Untraceable Electronic Cash,1989,19,112,1,0,2130187483,Kazuo Ohta,0,-0.04050055347741303,-0.5776270608719738
+1484085462,Algorithmic Tamper Proof (ATP) Counter Units for Authentication Devices Using PIN,2009,13,2,3,0,1210075573,Yuichi Komano,0,-0.9520579048059572,-0.14763003687628523
+1510476294,Meet-in-the-Middle Attack on Digital Signature Schemes,1990,17,4,1,0,2130187483,Kazuo Ohta,0,-0.9471406809632789,-3.0804624276206396
+1537514682,Taxonomic Consideration to OAEP Variants and Their Security,2004,12,0,2,0,1210075573,Yuichi Komano,0,0.8451893470250448,-1.797387574211891
+1484668983,Toward the fair anonymous signatures deniable ring signatures,2006,18,40,3,0,1210075573,Yuichi Komano,0,-0.31470070355784774,-1.9029720861577033
+1512814579,Secure cross-realm client-to-client password-based authenticated key exchange against undetectable on-line dictionary attacks,2007,42,2,2,0,2013076459,Kazuki Yoneyama,0,-1.7778137428211087,-1.9472788362097886
+1567365729,Security of MD5 challenge and response extension of APOP password recovery attack,2008,24,21,1,0,2130187483,Kazuo Ohta,0,-1.1538539998684878,-0.14857949065339526
+1585763198,Bit-Free Collision Application to APOP Attack,2009,20,6,2,0,1905590919,Kazuo Sakiyama,0,-1.606639560210621,-0.4004524091808453
+1837154156,Method and apparatus for implementing traceable electronic cash,1996,6,47,2,0,97468126,Eiichiro Fujisaki,0,-0.9959357186165801,-1.0419299144203757
+1903103460,Proxiable Designated Verifier Signature,2010,13,0,2,0,2013076459,Kazuki Yoneyama,0,-0.3025125513600159,-1.4490687453881161
+1903995495,Password recovery attack on authentication protocol MD4(Password||Challenge),2008,15,7,1,0,2130187483,Kazuo Ohta,0,-1.3712035171174148,-1.5236558261395288
+1958513877,On the security of dynamic group signatures preventing signature hijacking,2012,30,33,5,0,1896382425,Goichiro Hanaoka,0,-0.2266309349047111,-1.2477187152150646
+1812185479,Extension of Secret Handshake Protocols with Multiple Groups in Monotone Condition,2009,7,0,2,0,2013076459,Kazuki Yoneyama,0,-0.4795428284969871,0.12057987672368647
+1939312041,Electronic cash system,1992,9,99,1,0,2130187483,Kazuo Ohta,0,-0.36101497251720427,-1.3258694356938752
+1687167769,A study on computational formal verification for practical cryptographic protocol the case of synchronous RFID authentication,2011,23,9,2,0,2123168634,Shinichiro Matsuo,0,-0.4109543016813954,-0.13527193890326017
+1774417952,Secure bit commitment function against divertibility,1992,19,5,1,0,2130187483,Kazuo Ohta,0,0.0040557659796233,0.2757546058061082
+1945082354,Electronic cash implementing method using a trustee,1996,15,58,2,0,97468126,Eiichiro Fujisaki,0,-0.5290452904625925,-1.5571776446800676
+1922291786,Security Formalizations and Their Relationships for Encryption and Key Agreement in Information-Theoretic Cryptography,2014,12,1,2,0,2043902534,Junji Shikata,0,0.3817732386991365,-1.6023177199973428
+1584896380,Differential attack on message authentication codes,1993,12,10,1,0,2130187483,Kazuo Ohta,0,0.6830073485769036,-3.124386111370529
+1594128832,Universal Electronic Cash,1991,14,286,1,0,2130187483,Kazuo Ohta,0,0.036191276275480654,0.3679403960301915
+1968359206,Ring signatures universally composable definitions and constructions,2007,1,0,2,0,2013076459,Kazuki Yoneyama,0,-0.2775329756314308,-0.5504585938079822
+1977517930,Universally Composable NBAC-Based Fair Voucher Exchange for Mobile Environments,2011,24,0,3,0,2013076459,Kazuki Yoneyama,0,-0.4701099468500871,-0.4645520882619521
+1983453349,Proxiable Designated Verifier Signature,2011,12,0,2,0,2013076459,Kazuki Yoneyama,0,-0.42806916553209423,-1.2039901802860837
+1994317556,Universally Composable Client-to-Client General Authenticated Key Exchange,2007,27,1,4,0,1174863452,Shinsaku Kiyomoto,0,-0.9727337310707839,-2.013637037102181
+2004933715,Problems on the MR micropayment schemes,2006,1,0,1,0,2130187483,Kazuo Ohta,0,0.2018268678365599,0.1425886522275585
+1998133846,Provably Secure Untraceable Electronic Cash against Insider Attacks,2007,24,3,3,0,1210075573,Yuichi Komano,0,0.03172157452078308,-0.9876150206351335
+2008982698,A new model of Client-Server Communications under information theoretic security,2014,8,0,3,0,1210075573,Yuichi Komano,0,-1.0067868619376115,1.7520788441702781
+2001030614,Attribute-Based Encryption with Partially Hidden Ciphertext Policies,2009,23,14,4,0,2013076459,Kazuki Yoneyama,0,0.33663009575368524,-2.0277059776462947
+2030075088,Universally Composable Hierarchical Hybrid Authenticated Key Exchange,2007,0,0,4,0,1174863452,Shinsaku Kiyomoto,0,-1.5886412463825366,-2.101326290768829
+2018298788,Toward the Fair Anonymous Signatures Deniable Ring Signatures*The proceedings version of this paper [12] appeared in the cryptographers track at the RSA Conference 2006 (CT-RSA 2006),2007,0,2,3,0,1210075573,Yuichi Komano,0,-0.42359522542015227,-2.297932618059679
+2023659632,Toward Effective Countermeasures against an Improved Fault Sensitivity Analysis,2012,17,9,1,0,2130187483,Kazuo Ohta,0,1.4472378714665115,-0.8929156248712027
+2044020995,How to simultaneously exchange secrets by general assumptions,1994,14,66,1,0,2130187483,Kazuo Ohta,0,0.29229706644181397,-0.29774908433961417
+2037484178,Practical Password Recovery Attacks on MD4 Based Prefix and Hybrid Authentication Protocols,2010,10,0,2,0,2015470084,Noboru Kunihiro,0,-1.7417797762217275,-1.8181333843487484
+2043440947,Extended Password Recovery Attacks against APOP SIP and Digest Authentication,2009,17,0,1,0,2130187483,Kazuo Ohta,0,-1.6987586472289409,-1.853393168784953
+2068323799,Ring Signatures Universally Composable Definitions and Constructions,2007,9,0,2,0,2013076459,Kazuki Yoneyama,0,-0.16599090406913827,-0.19700721895054854
+2068758543,Practical improvements of side-channel attacks on AES feedback from the 2nd DPA contest,2014,21,17,10,0,315100061,Nicolas Veyrat Charvillon,0,0.5111596337117109,-0.28031852531268125
+2063753926,Solutions to Security Problems of Rivest and Shamirs PayWord Scheme,2005,0,2,2,0,1210075573,Yuichi Komano,0,-0.6427710063938139,-0.44221938721751447
+2077856712,Multiple Designated Verifiers Signatures Reconsidered,2010,6,3,3,0,1990615295,Tetsuya Izu,0,-0.2901691344105251,-1.6205041713134403
+2059134026,Privacy-preserving smart metering with verifiability for both billing and energy management,2014,11,13,1,0,2130187483,Kazuo Ohta,0,0.07555311644249246,0.5314468815671937
+2086148223,Privacy-mode switching Toward flexible privacy protection for RFID tags in Internet of Things,2014,3,1,2,0,1905590919,Kazuo Sakiyama,0,0.46317539323411844,0.8963031632837861
+2104133366,A New Approach for Implementing the MPL Method toward Higher SPA Resistance,2009,10,7,2,0,1905590919,Kazuo Sakiyama,0,0.08876414067537648,-0.8464763454789873
+2088434955,Leaky Random Oracle,2009,21,11,2,0,2013076459,Kazuki Yoneyama,0,-0.8984636511337529,-1.7436100471216234
+2081704178,Taxonomical Security Consideration of OAEP Variants*The proceedings version of this paper [11] appeared in Sixth International Conference on Information and Communications Security (ICICS04),2006,0,2,2,0,1210075573,Yuichi Komano,0,0.522942479342812,-1.6021051066511438
+2117278249,Yet Another Sanitizable Signature from Bilinear Maps,2009,11,4,3,0,1990615295,Tetsuya Izu,0,-0.46336515027877945,-1.100405700508804
+2142063655,Method and apparatus for implementing electronic cash,1990,6,204,1,0,2130187483,Kazuo Ohta,0,-0.9959357186165801,-1.0419299144203757
+2134651419,Accountable-subgroup multisignatures extended abstract,2001,30,129,3,0,236344266,Leonid Reyzin,0,-0.5700557769601255,-2.503195009057632
+2156137779,Cryptanalysis of Two MD5-Based Authentication Protocols APOP and NMAC,2010,11,1,3,0,1905590919,Kazuo Sakiyama,0,-1.3605495990555434,-1.8790345219963764
+2160316384,Yet Another Sanitizable and Deletable Signatures,2011,13,3,3,0,1990615295,Tetsuya Izu,0,-0.40782735757898236,-0.8457490455784158
+2157596079,New truncated differential cryptanalysis on 3d block cipher,2012,20,2,2,0,1905590919,Kazuo Sakiyama,0,2.1394525871640897,-2.3360209915821097
+2189376121,Dynamic Threshold Public-Key Encryption with Decryption Consistency from Static Assumptions,2015,26,2,4,0,1896382425,Goichiro Hanaoka,0,0.37791259458313914,-1.0640870446560613
+2293918455,Electronic cash implementing method using an anonymous public key license,1996,15,12,2,0,97468126,Eiichiro Fujisaki,0,0.03910652856792115,-0.9542749174440527
+2295768388,method of implementing use of electronic cash,1992,9,19,1,0,2130187483,Kazuo Ohta,0,-0.36101497251720427,-1.3258694356938752
+2291986483,A limitation on security evaluation of cryptographic primitives with fixed keys,2016,37,0,3,0,1896382425,Goichiro Hanaoka,0,-0.24898040901185833,-2.4238315797055927
+2407060417,Secure $$M+1$$ st-Price Auction with Automatic Tie-Break,2014,40,2,2,0,2041159665,Takashi Nishide,0,0.0040557659796233,0.2757546058061082
+2399133052,Universally Composable NBAC-Based Fair Voucher Exchange for Mobile Environments,2010,0,1,3,0,2013076459,Kazuki Yoneyama,0,0.0040557659796233,0.2757546058061082
+2492480331,Provably Secure Electronic Cash Based on Blind Multisignature Schemes,2006,0,11,2,0,1210075573,Yuichi Komano,0,0.0526127107125531,-1.5957799012708866
+2583919435,Toward the fair anonymous signatures Deniable ring signatures,2006,0,0,3,0,1210075573,Yuichi Komano,0,-0.31470070355784774,-1.9029720861577033
+2544922295,Probabilistic Generation of Trapdoors Reducing Information Leakage of Searchable Symmetric Encryption,2016,31,2,1,0,2130187483,Kazuo Ohta,0,0.1291729836389517,-1.1395556443528276
+2508492329,Simple Secure and Efficient Searchable Symmetric Encryption with Multiple Encrypted Indexes,2016,32,3,3,0,1980246767,Nori Matsuda,0,0.2723836375692908,-1.5556311876576447
+2593716504,Cheating on a visual secret sharing scheme under a realistic scenario,2014,0,0,1,0,2130187483,Kazuo Ohta,0,1.9642619845339926,-0.3362371505555514
+2614440174,FOREWORD (Special Section on Cryptography and Information Security),1996,0,2,3,0,2067744317,Hiroki Shizuya,0,0.09185462073762597,0.2861171120998424
+2703442871,Remarks on blind decryption,1998,0,1,1,0,2130187483,Kazuo Ohta,0,-0.3269261554992512,-1.1523654424741718
+2951711140,Secret Handshake Strong Anonymity Definition and Construction,2009,0,0,2,0,2013076459,Kazuki Yoneyama,0,-0.16420021596708323,0.32292378428885316
+2950081009,On the Security of Dynamic Group Signatures Preventing Signature Hijacking,2012,0,0,5,0,1896382425,Goichiro Hanaoka,0,0.0040557659796233,0.2757546058061082
+2952443189,Security Notions for Information Theoretically Secure Encryptions,2011,4,3,1,0,2130187483,Kazuo Ohta,0,0.8420545785076291,-1.6364651039391882
+2953007532,Robust RFID Authentication Protocol with Formal Proof and Its Feasibility,2010,0,3,3,0,1905590919,Kazuo Sakiyama,0,-1.392483161492278,-0.8183515069595271

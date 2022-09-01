@@ -1,0 +1,121 @@
+154231405,Analyzing integrity protection in the SELinux example policy,2003,16,118,2,1.0,2014533025,Reiner Sailer,0,0.4059887754770509,1.4154806159643525
+189585970,Shame on trust in distributed systems,2006,15,9,5,1.0,2014533025,Reiner Sailer,0,0.008136112031667952,1.9771449712379017
+6628576,Compliance of Multilayer Information Flow Policies,2007,2,0,4,0.0198589,2056207806,Patrick McDaniel,0,0.0040557659796233,0.2757546058061082
+194600023,Verifying system integrity by proxy,2012,57,17,2,1.0,2016472496,Hayawardh Vijayakumar,0,-0.48860930542330777,-0.31482027335718155
+226979517,A Rose by Any Other Name or an Insane Root Adventures in Name Resolution,2011,22,0,2,1.0,2016472496,Hayawardh Vijayakumar,0,0.0040557659796233,0.2757546058061082
+974737994,The Right Files at the Right Time,2013,38,1,2,1.0,2016472496,Hayawardh Vijayakumar,0,-0.023550276898621297,0.7099097923564667
+592737103,Producing Hook Placements to Enforce Expected Access Control Policies,2015,15,3,4,1.0,1132193985,Divya Muthukumaran,0,-0.0055216156628483315,0.8431774549076696
+1515200046,Operating system protection for fine-grained programs,1998,23,24,2,1.0,2133902515,Jochen Liedtke,0,-1.4847286527045687,2.178677149259457
+1515378678,Access control in configurable systems,2001,46,10,1,1.0,2181741781,Trent Jaeger,0,-1.0171439695060958,0.9419956766460584
+1510229954,Managing access control complexity using metrices,2001,0,2,1,1.0,2181741781,Trent Jaeger,0,0.23381307031774545,1.3010365972311815
+1502167006,Building systems that flexibly control downloaded executable context,1996,26,45,2,0.0,2112283555,Aviel D. Rubin,0,-0.5530861437885858,-0.004176666300269333
+1565356083,From trusted to secure building and executing applications that enforce system security,2007,29,34,4,0.0198589,2056207806,Patrick McDaniel,0,-0.20692138564094584,0.41587894519222
+1512458425,Verifying compliance of trusted programs,2008,22,9,2,1.0,2145340383,Sandra Rueda,0,-0.34534146070910493,1.8454913947566043
+1504669610,Design and implementation of a TCG-based integrity measurement architecture,2004,11,924,3,1.0,2014533025,Reiner Sailer,0,-1.8514698034324175,0.20782706001668214
+1522754801,Proceedings of the 10th ACM conference on Computer and communications security,2003,0,0,3,0.0,2056441798,Sushil Jajodia,0,-0.8686147295737677,1.467312217186019
+1933162709,Information Flow Integrity for Systems of Independently-Developed Components,2015,0,0,2,0.42157,2146216103,Vinod Ganapathy,0,-0.2900581798385805,0.7242341521920544
+1936730819,Preserving integrity in remote file location and retrieval,1996,13,15,2,0.0,2112283555,Aviel D. Rubin,0,-0.11857910674998395,0.09698776250942825
+1582703556,Using CQUAL for Static Analysis of Authorization Hook Placement,2002,8,113,2,1.0,2174128316,Antony Edwards,0,-1.2613809242783862,1.85634438935259
+1613776191,Implicit Flows Cant Live with `Em Cant Live without `Em,2008,30,59,2,0.0,2130756752,Michael Hicks,0,-0.019083317467255362,-0.13863393913456426
+1592632010,Cloud Armor Protecting Cloud Commands from Compromised Cloud Services,2015,21,5,3,1.0,2016472496,Hayawardh Vijayakumar,0,-0.33602562449829443,0.44483453194145506
+1717064016,Using security policies to automate placement of network intrusion prevention,2013,30,5,3,1.0,2019900796,Jason Teutsch,0,-1.1838292725839619,0.7947713313060732
+1727351356,Flexible access control using IPC redirection,1999,8,29,5,0.0,735375398,Kevin Elphinstone,0,-0.1743443804560943,0.6397885727879487
+1975197166,A logical specification and analysis for SELinux MLS policy,2010,19,37,5,0.010368,2056207806,Patrick McDaniel,0,-0.757460899979491,1.7406323085464388
+1984281471,Outlook Cloudy with a Chance of Security Challenges and Improvements,2010,5,62,1,1.0,2181741781,Trent Jaeger,0,-1.04102498767886,2.011262696274836
+1986079362,Consistency analysis of authorization hook placement in the Linux security modules framework,2004,22,46,2,1.0,2174128316,Antony Edwards,0,-1.3585236614255265,2.6243340674550013
+1966825932,Attestation-based policy enforcement for remote access,2004,16,176,3,1.0,2014533025,Reiner Sailer,0,-0.7942968774580346,0.6695357645116157
+1965457815,An architecture for enforcing end-to-end access control over web applications,2010,26,22,4,0.010368,2056207806,Patrick McDaniel,0,-1.1948868799006638,1.1709051428006634
+1965505845,Security and Science of Agility,2014,16,10,10,0.0,248975517,Nicolas Papernot,0,0.0040557659796233,0.2757546058061082
+1974896380,Managing access control policies using access control spaces,2002,12,26,2,1.0,2174128316,Antony Edwards,0,-0.023550276898621297,0.7099097923564667
+1996200439,A flexible security system for using Internet content,1997,19,43,1,1.0,2181741781,Trent Jaeger,0,1.7029826062605458,-0.2600589908962866
+1992761401,Practical safety in flexible access control models,2001,39,104,2,1.0,2038882000,Jonathon E. Tidswell,0,-0.7795527705444112,1.0964711839331582
+2003271962,Proceedings of the sixth ACM symposium on Access control models and technologies,2001,0,0,2,0.0,1996714504,Ravi Sandhu,0,-0.023550276898621297,0.7099097923564667
+2007686997,Leveraging &quot;choice&quot; to automate authorization hook placement,2012,31,15,2,0.422231,2146216103,Vinod Ganapathy,0,0.01729573639416045,0.692733692908092
+1988691348,Resolving constraint conflicts,2004,18,27,2,1.0,2014533025,Reiner Sailer,0,-0.09610484442561125,0.4460135013085606
+2015958388,Challenges in Making Access Control Sensitive to the &quot;Right&quot; Contexts,2015,0,1,1,1.0,2181741781,Trent Jaeger,0,-0.023550276898621297,0.7099097923564667
+2026759974,Making access control more usable,2002,0,0,3,0.0,717547165,Elisa Bertino,0,0.2427430349008491,1.2444091428087487
+2032131630,Policy management using access control spaces,2003,36,87,2,1.0,2174128316,Antony Edwards,0,-0.3861091850755122,0.9314109198821364
+2016663803,Monitor placement for large-scale systems,2014,30,4,3,1.0,2019900796,Jason Teutsch,0,0.7325164940626377,0.9471393355390574
+2038252863,Operating System Security,2007,143,26,1,1.0,2181741781,Trent Jaeger,0,-1.5640348026145239,2.0642513058816614
+2037216577,Analysis of virtual machine system policies,2009,18,13,3,1.0,2016472496,Hayawardh Vijayakumar,0,0.0040557659796233,0.2757546058061082
+2046398106,An access control model for simplifying constraint expression,2000,28,31,2,1.0,2038882000,Jonathon E. Tidswell,0,-0.8443509228327443,0.15612475705239456
+2045258038,Lessons from VAX/SVS for High-Assurance VM Systems,2012,17,11,2,0.0,1680795165,Steve Lipner,0,0.24232980225568976,0.9781196015506497
+2068167206,Protecting users from &quot;themselves&quot;,2007,14,4,6,0.606061,1999189064,William Enck,0,-0.08104954877693597,0.4234389817455309
+2061426037,Rebuttal to the NIST RBAC model proposal,2000,4,19,2,1.0,2038882000,Jonathon E. Tidswell,0,0.3762977653650511,1.3795224063933595
+2075663494,Integrity walls finding attack surfaces from mandatory access control policies,2012,29,29,3,1.0,2016472496,Hayawardh Vijayakumar,0,-0.40854389173253186,1.2468526081349924
+2077714295,Dynamic mandatory access control for multiple stakeholders,2009,11,14,2,0.0,2101980313,Vikhyath Rao,0,-0.6195126603095314,1.348317524832657
+2057108693,Flexible control of downloaded executable content,1999,47,61,2,1.0,2133902515,Jochen Liedtke,0,-0.5309329587717687,0.6883071482243798
+2081202244,Cut me some security,2010,16,4,3,1.0,2016472496,Hayawardh Vijayakumar,0,-0.9852785961623357,1.057044482864768
+2083547349,Seeding clouds with trust anchors,2010,22,96,3,1.0,2016472496,Hayawardh Vijayakumar,0,-0.0629366597366378,0.5703627871837298
+2089067454,Measuring integrity on mobile phone systems,2008,10,62,2,0.0,1536159883,Anuj Sawani,0,-2.080577017235034,1.3457521776036836
+2132138019,Retrofitting legacy code for authorization policy enforcement,2006,95,43,2,1.0,2146216103,Vinod Ganapathy,0,0.5188732038745871,1.341587462663946
+2138429704,Towards Automated Authorization Policy Enforcement,2006,8,1,2,1.0,2146216103,Vinod Ganapathy,0,-0.687613032766402,1.9941133718948882
+2123739698,Protecting the integrity of trusted applications in mobile phone systems,2011,20,6,3,0.0,1536159883,Anuj Sawani,0,-0.3204223298080297,1.6168275202812734
+2141736438,Automatic placement of authorization hooks in the linux security modules framework,2005,19,45,2,1.0,2146216103,Vinod Ganapathy,0,-1.9073392398219282,2.2296601940238467
+2115026336,On cellular botnets measuring the impact of malicious devices on a cellular network core,2009,36,192,5,0.0,309368212,Machigar Ongtang,0,-0.38320449111884186,0.25678003717793857
+2115232057,Process firewalls protecting processes during resource access,2013,40,11,2,1.0,2016472496,Hayawardh Vijayakumar,0,1.6232835947716184,0.07693843459804821
+2109412974,Trusted virtual domains toward secure distributed services,2005,6,82,6,1.0,2014533025,Reiner Sailer,0,-0.3955968751418488,0.14917958692069197
+2121239173,A logical specification and analysis for SELinux MLS policy,2007,13,23,5,0.0198589,2056207806,Patrick McDaniel,0,-0.6473524477790232,1.5602056712850694
+2124394873,Managing the risk of covert information flows in virtual machine systems,2007,26,30,3,0.878809,2014533025,Reiner Sailer,0,-1.2318771127648322,1.8858221955781573
+2127365896,From mobile phones to responsible devices,2011,13,18,5,0.427072,697457595,Thomas F. La Porta,0,-0.3955968751418488,0.14917958692069197
+2139550682,Policy models to protect resource retrieval,2014,56,0,3,1.0,2016472496,Hayawardh Vijayakumar,0,0.05915957919024578,1.230499983041912
+2139645586,Support for the file system security requirements of computational E-mail systems,1994,11,22,1,1.0,2181741781,Trent Jaeger,0,-1.1688003394766644,1.905548091942811
+2116272682,Inevitable Failure The Flawed Trust Assumption in the Cloud,2014,31,6,2,1.0,2126679483,Yuqiong Sun,0,-0.8488129200417378,1.2254704834635013
+2119218865,PinUP Pinning User Files to Known Applications,2008,23,15,3,0.606061,1999189064,William Enck,0,-0.8282490703848949,1.6286138403437072
+2110578968,A systematic approach for cell-phone worm containment,2008,7,15,4,0.833333,2101464446,Liang Xie,0,-0.031055543556852656,0.7462857320071571
+2131566950,Pitfalls in the automated strengthening of passwords,2013,26,4,2,0.0,1969271169,David A. Schmidt,0,-2.1760051646083682,-1.6001494200239335
+2131589410,Password exhaustion predicting the end of password usefulness,2006,19,24,5,0.0,1944022526,Matthew Pirretti,0,-1.216492061057104,-0.9990392689063383
+2111061677,Justifying Integrity Using a Virtual Machine Verifier,2009,30,22,2,0.0135377,2056207806,Patrick McDaniel,0,-0.11857910674998395,0.09698776250942825
+2143929182,New Side Channels Targeted at Passwords,2008,13,8,2,0.0,2099177293,Stephen McLaughlin,0,0.3224488747155589,-0.4951738123699705
+2117217919,Transforming commodity security policies to enforce Clark-Wilson integrity,2012,41,7,5,1.0,2016472496,Hayawardh Vijayakumar,0,-0.367285995591257,1.0691921544611047
+2140911579,PRIMA policy-reduced integrity measurement architecture,2006,18,248,2,1.0,2014533025,Reiner Sailer,0,-1.371663033458655,0.13358392574403274
+2147309075,Establishing and Sustaining System Integrity via Root of Trust Installation,2007,21,29,2,0.0198589,2056207806,Patrick McDaniel,0,0.2818045881197527,0.9152480226889328
+2171561505,Preventing denial-of-service attacks on a /spl mu/-kernel for WebOSes,1997,3,23,2,1.0,2133902515,Jochen Liedtke,0,0.01729573639416045,0.692733692908092
+2160612883,Shamon A System for Distributed Mandatory Access Control,2006,32,77,4,1.0,1979518407,Stefan Berger,0,-0.3249184540627141,1.8369033450324173
+2155152748,Requirements of role-based access control for collaborative systems,1996,15,42,1,1.0,2181741781,Trent Jaeger,0,-1.0322437345245459,0.919381583612317
+2161337603,Runtime verification of authorization hook placement for the linux security modules framework,2002,14,41,2,1.0,2174128316,Antony Edwards,0,-1.3837059321339678,2.2218595801118033
+2188334999,Preventing Denial-of-Service Attalcks on a p-Kernel for WebOSes,1997,0,0,2,1.0,2133902515,Jochen Liedtke,0,0.0040557659796233,0.2757546058061082
+2167873465,Network-Based Root of Trust for Installation,2011,7,16,2,0.0,2056207806,Patrick McDaniel,0,-0.04779435612232811,0.3905838104830675
+2171037238,Designing System-Level Defenses against Cellphone Malware,2009,17,45,5,0.0,2030741881,Ashwin Chaugule,0,-0.23183295237537285,1.1862657151217273
+2168084064,Building a MAC-based security architecture for the Xen open-source hypervisor,2005,24,267,7,1.0,1979518407,Stefan Berger,0,-1.7041140234817638,2.3672245530412837
+2200019417,Detection of stealthy TCP-based DoS attacks,2015,8,4,6,0.0,1234391164,Ahmed Osama Fathy Atya,0,0.8132086575740218,0.9257086063639175
+2211371252,STING finding name resolution vulnerabilities in programs,2012,54,10,2,1.0,2016472496,Hayawardh Vijayakumar,0,-1.1106121097017618,2.0173650220241974
+2211519047,A diagnosis based intrusion detection approach,2015,26,0,4,0.25282,2059211748,Ananthram Swami,0,1.1710690021768055,1.0496810602489979
+2273027740,Sprobes Enforcing Kernel Code Integrity on the TrustZone Architecture,2014,19,62,3,1.0,2016472496,Hayawardh Vijayakumar,0,-0.6537736244944359,1.188263400557981
+2197136836,Method of Managing and Mitigating Security Risks Through Planning,2009,9,11,11,0.0,693371167,Paul A. Karger,0,0.0040557659796233,0.2757546058061082
+2245822045,Method and apparatus to protect policy state information during the life-time of virtual machines,2006,29,18,5,1.0,1979518407,Stefan Berger,0,-0.5272981847062171,0.6761752422059946
+2199318523,JIGSAW protecting resource access by inferring programmer expectations,2014,41,9,3,1.0,2016472496,Hayawardh Vijayakumar,0,0.0040557659796233,0.2757546058061082
+2294068577,AuDroid Preventing Attacks on Audio Channels in Mobile Devices,2015,17,39,2,1.0,2126679483,Yuqiong Sun,0,0.11897791097111406,0.9042656172522259
+2295153157,Designing for Attack Surfaces Keep Your Friends Close but Your Enemies Closer,2015,50,1,5,1.0,1132193985,Divya Muthukumaran,0,-0.1659107668762627,0.7895944856297229
+2339576357,Aware Controlling App Access to I/O Devices on Mobile Platforms,2016,16,1,3,0.0,196256123,Jens Grossklags,0,0.08892135548585633,0.520402999238595
+2471246941,Practical system integrity verification in cloud computing environments,2012,0,0,1,1.0,2181741781,Trent Jaeger,0,-0.4514166070187557,0.2018173263545617
+2472030199,Password exhaustion Predicting the end of password usefulness,2006,0,14,5,0.0,1944022526,Matthew Pirretti,0,-1.3538325243909013,-0.6885474791287155
+2566056116,Agility maneuvers to mitigate inference attacks on sensed location data,2016,8,1,3,0.25282,2059211748,Ananthram Swami,0,-0.17324153726119554,0.6587671663167594
+2525022008,draft-jml-ipsec-ikev1-security-context-01,2009,0,0,1,1.0,2181741781,Trent Jaeger,0,-0.39009985445292217,-1.8295005484841114
+2583137139,Leveraging Data Provenance to Enhance Cyber Resilience,2016,52,2,4,0.425578,2104257816,Adam Bates,0,0.0040557659796233,0.2757546058061082
+2584744348,An Evil Copy How the Loader Betrays You,2017,22,2,2,1.0,2158582854,Xinyang Ge,0,0.0040557659796233,0.2757546058061082
+2585683029,Maintaining Authorization Hook Placements Across Program Versions,2016,6,0,4,1.0,1132193985,Divya Muthukumaran,0,0.01729573639416045,0.692733692908092
+2534544954,Configuring Software and Systems for Defense-in-Depth,2016,0,0,1,1.0,2181741781,Trent Jaeger,0,0.9349199547764707,2.131771490769251
+2528343342,Pileus protecting user resources from vulnerable cloud services,2016,34,5,3,1.0,2126679483,Yuqiong Sun,0,0.1639362940477497,0.6530314529854678
+2605883969,TrustShadow Secure Execution of Unmodified Applications with ARM TrustZone,2017,34,37,4,0.366718,2138758244,Shengzhi Zhang,0,0.1822731046919942,0.706777145399998
+2735440384,Implementation of a discretionary access control model for script-based systems,1995,0,1,1,1.0,2181741781,Trent Jaeger,0,-1.0223515874669262,1.0806065856086027
+2620469958,On Risk in Access Control Enforcement,2017,48,4,2,0.0,734683473,Christian Skalka,0,-0.32175916703064905,1.1805740334181112
+2736288883,Proceedings of Sixth ACM Symposium on Access Control Models and Technologies (SACMAT 2001) Foreword,2001,0,0,2,0.0,1996714504,Ravi Sandhu,0,-0.023550276898621297,0.7099097923564667
+2746155501,Building on the Success of Building Security In,2017,4,3,2,0.0,2125948329,Robert K. Cunningham,0,-0.7836854801962058,1.484903405552818
+2755094099,Taming the Costs of Trustworthy Provenance through Policy Reduction,2017,40,4,4,0.425578,2104257816,Adam Bates,0,-0.06592018844929666,2.4852333228774826
+2752660817,AWare Preventing Abuse of Privacy-Sensitive Sensors via Operation Bindings,2017,30,13,3,0.0,196256123,Jens Grossklags,0,0.0040557659796233,0.2757546058061082
+2786308658,A Survey on Sensor-based Threats to Internet-of-Things (IoT) Devices and Applications,2018,10,16,3,0.0,432376730,A. Selcuk Uluagac,0,0.15976411478803587,0.8433000460951184
+2886703882,Building a Trustworthy Execution Environment to Defeat Exploits from both Cyber Space and Physical Space for ARM,2019,0,1,4,0.366718,2138758244,Shengzhi Zhang,0,0.09048979630041551,-0.0950215358525949
+2886943552,Regulating Access to System Sensors in Cooperating Programs,2018,0,0,3,0.0,196256123,Jens Grossklags,0,0.11946943163473234,0.8052585619936705
+2889069524,Security namespace making Linux security frameworks available to containers,2018,23,3,5,0.0,290805502,Dimitrios Pendarakis,0,-1.0149042798883123,1.2867007356755316
+2912815005,Proceedings of the ninth ACM symposium on Access control models and technologies,2004,0,0,2,0.0,2170777979,Elena Ferrari,0,-0.023550276898621297,0.7099097923564667
+2917924661,Exploitation Techniques and Defenses for Data-Oriented Attacks,2019,48,2,4,0.0,2098955483,Thomas Nyman,0,0.1639362940477497,0.6530314529854678
+2911492607,Proceedings of the 2nd ACM workshop on Computer security architectures,2008,0,0,1,1.0,2181741781,Trent Jaeger,0,0.6332083742755199,0.2183820151796156
+2908232913,Mission-Oriented Security Model Incorporating Security Risk Cost and Payout,2018,15,0,3,0.0,697457595,Thomas F. La Porta,0,-0.22684964772494434,0.5553590878829306
+2951891648,AuDroid Preventing Attacks on Audio Channels in Mobile Devices,2016,10,2,2,1.0,2126679483,Yuqiong Sun,0,0.11897791097111406,0.9042656172522259
+3000501050,Employing attack graphs for intrusion detection,2019,47,0,3,0.0,2125068127,Paul Yu,0,0.886066232661455,0.9192698272493969
+2974889942,Using Safety Properties to Generate Vulnerability Patches,2019,35,2,4,0.0,2096695634,David Lie,0,0.0040557659796233,0.2757546058061082
+2988741178,Program-mandering Quantitative Privilege Separation,2019,10,0,2,0.0,2176475713,Gang Tan,0,1.5733736148726598,1.6269740916327833
+2984971239,Exploitation Techniques and Defenses for Data-Oriented Attacks,2019,95,2,4,0.0,2098955483,Thomas Nyman,0,0.1639362940477497,0.6530314529854678
+2966344492,EnTrust Regulating Sensor Access by Cooperating Programs via Delegation Graphs,2019,0,1,4,0.0,196256123,Jens Grossklags,0,0.0040557659796233,0.2757546058061082
+3023694122,ForeSee A Cross-Layer Vulnerability Detection Framework for the Internet of Things,2019,19,0,4,0.0,2132451723,Prasant Mohapatra,0,0.13679434731489165,0.6751406926737795

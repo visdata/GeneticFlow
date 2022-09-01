@@ -1,0 +1,59 @@
+189947881,Detection of Malicious Web Pages Using System Calls Sequences,2014,24,9,3,0,36565658,Corrado Aaron Visaggio,0,0.05940095047987125,0.6960502266457337
+236346275,Malicious JavaScript Detection by Features Extraction,2014,40,8,2,0,36565658,Corrado Aaron Visaggio,0,0.0040557659796233,0.2757546058061082
+1915012771,Composition-Malware Building Android Malware at Run Time,2015,21,24,2,0,36565658,Corrado Aaron Visaggio,0,0.2968650138122562,1.3323695002255909
+1947535385,Effectiveness of Opcode ngrams for Detection of Multi Family Android Malware,2015,28,45,3,0,36565658,Corrado Aaron Visaggio,0,-0.28071484656264584,1.2804470890791197
+1978762841,Detecting Android malware using sequences of system calls,2015,29,57,3,0,36565658,Corrado Aaron Visaggio,0,0.39128724108441376,0.9789030357342977
+2053757944,Metamorphic Malware Detection Using Code Metrics,2014,16,17,2,0,36565658,Corrado Aaron Visaggio,0,-0.26137366995157063,1.2685590561786668
+2075360618,A Classifier of Malicious Android Applications,2013,27,53,2,0,36565658,Corrado Aaron Visaggio,0,0.05940095047987125,0.6960502266457337
+2311926078,Acquiring and Analyzing App Metrics for Effective Mobile Malware Detection,2016,34,31,3,0,36565658,Corrado Aaron Visaggio,0,0.13029881783846398,1.1788383468787589
+2294381999,Mobile malware detection using op-code frequency histograms,2015,20,19,2,0,36565658,Corrado Aaron Visaggio,0,-0.5310702942058231,1.513320108354503
+2344803892,Identification of Android Malware Families with Model Checking,2016,0,20,2,0,36565658,Corrado Aaron Visaggio,0,-0.47844533733402833,1.362497709876
+2347019181,An HMM and structural entropy based detector for Android malware,2016,45,34,2,0,36565658,Corrado Aaron Visaggio,0,0.5559816793820667,0.5824822059031484
+2395100307,Obfuscation Techniques against Signature-Based Detection A Case Study,2015,5,23,2,0,36565658,Corrado Aaron Visaggio,0,0.40834713439055736,0.8933077217565389
+2403259843,Download malware no thanks how formal methods can block update attacks,2016,29,19,2,0,36565658,Corrado Aaron Visaggio,0,0.13029881783846398,1.1788383468787589
+2461379474,Evaluating Op-Code Frequency Histograms in Malware and Third-Party Mobile Applications,2015,22,7,2,0,36565658,Corrado Aaron Visaggio,0,-0.29614812536680757,1.0643812385037146
+2461651791,Ransomware Steals Your Phone Formal Methods Rescue It,2016,20,49,2,0,36565658,Corrado Aaron Visaggio,0,0.2515107230534964,0.6318629108580686
+2560986557,Exploring the Usage of Topic Modeling for Android Malware Static Analysis,2016,23,4,2,0,1054743262,Eric Medvet,0,-0.28071484656264584,1.2804470890791197
+2514733897,How I Met Your Mother,2016,0,1,2,0,36565658,Corrado Aaron Visaggio,0,-0.43847525842751295,1.3656322248041635
+2515219719,Hey Malware I Can Find You ,2016,21,18,2,0,36565658,Corrado Aaron Visaggio,0,0.570527468392176,0.9627973481988726
+2566681038,Spotting the Malicious Moment Characterizing Malware Behavior Using Dynamic Features,2016,37,6,3,0,36565658,Corrado Aaron Visaggio,0,0.659331973065113,0.8610724173047826
+2575624373,Process Mining Meets Malware Evolution A Study of the Behavior of Malicious Code,2016,17,4,1,0,1080042580,Francesco Mercaldo,0,-0.5310702942058231,1.513320108354503
+2563412847,Ransomware Inside Out,2016,23,29,1,0,1080042580,Francesco Mercaldo,0,-0.28206942360856635,1.285160753773184
+2512883840,Silent and Continuous Authentication in Mobile Environment,2016,19,2,2,0,36565658,Corrado Aaron Visaggio,0,-0.630894439180718,-0.04567668580264762
+2609233367,A constraint-driven approach for dynamic malware detection,2016,20,4,1,0,1080042580,Francesco Mercaldo,0,-0.25703506162156664,1.4328710853034878
+2619422284,R-PackDroid API package-based characterization and detection of mobile ransomware,2017,10,32,2,0,36565658,Corrado Aaron Visaggio,0,-0.28206942360856635,1.285160753773184
+2598838216,How Discover a Malware using Model Checking,2017,12,2,1,0,1080042580,Francesco Mercaldo,0,0.8284592554871049,0.312295880542949
+2603703246,Machine Learning Meets iOS Malware Identifying Malicious Applications on Apple Environment,2017,0,6,1,0,1080042580,Francesco Mercaldo,0,0.7161354986322349,0.9600790623188239
+2615255589,Letâ€™s Gossip Exploring Malware Zero-Day Time Windows by Social Network Analysis,2017,15,0,1,0,1080042580,Francesco Mercaldo,0,0.7161354986322349,0.9600790623188239
+2600659481,BRIDEMAID An Hybrid Tool for Accurate Detection of Android Malware,2017,6,13,1,0,1080042580,Francesco Mercaldo,0,-0.21102461751739354,1.2517679066389424
+2608570228,I find your behavior disturbing Static and dynamic app behavioral analysis for detection of Android malware,2016,25,8,2,0,36565658,Corrado Aaron Visaggio,0,0.1475395743585395,0.8074695844854315
+2724122170,Model checking for mobile Android malware evolution,2017,23,6,1,0,1080042580,Francesco Mercaldo,0,0.13029881783846398,1.1788383468787589
+2744753862,Twinkle twinkle little DroidDream How I wonder what you are ,2017,40,0,1,0,1080042580,Francesco Mercaldo,0,0.05940095047987125,0.6960502266457337
+2753669113,Android malware detection based on system call sequences and LSTM,2019,30,28,2,0,167516114,Arun Kumar Sangaiah,0,0.05940095047987125,0.6960502266457337
+2753692828,Evaluating Convolutional Neural Network for Effective Mobile Malware Detection,2017,25,20,1,0,1080042580,Francesco Mercaldo,0,-0.4113006248200615,1.0723466303801312
+2766086869,A Methodology for Silent and Continuous Authentication in Mobile Environment,2016,28,2,2,0,36565658,Corrado Aaron Visaggio,0,-0.630894439180718,-0.04567668580264762
+2742366121,Formal Methods Meet Mobile Code Obfuscation Identification of Code Reordering Technique,2017,28,9,1,0,1080042580,Francesco Mercaldo,0,-0.7129618938611696,1.103579884592004
+2746620120,Car hacking identification through fuzzy logic algorithms,2017,22,27,1,0,1080042580,Francesco Mercaldo,0,0.04841774909296905,0.2906464507864569
+2779814706,Talos no more ransomware victims with formal methods,2018,70,20,2,0,36565658,Corrado Aaron Visaggio,0,-0.14619703622910415,0.7985741677605017
+2743481574,Malware and Formal Methods Rigorous Approaches for detecting Malicious Behaviour,2017,19,1,1,0,1080042580,Francesco Mercaldo,0,-0.1500088524298705,1.5378576413706284
+2740104394,Mobile Silent and Continuous Authentication using Apps Sequence,2017,2,2,2,0,36565658,Corrado Aaron Visaggio,0,-0.5530861437885858,-0.004176666300269333
+2805859698,POSTER A Framework for Phylogenetic Analysis in Mobile Environment,2018,7,0,1,0,1080042580,Francesco Mercaldo,0,-0.13207201912491093,0.695031384453717
+2810666735,Dynamic malware detection and phylogeny analysis using process mining,2019,46,8,1,0,1080042580,Francesco Mercaldo,0,-0.22614469381108032,0.5672454184880703
+2803498500,R-PackDroid Practical On-Device Detection of Android Ransomware,2018,0,1,2,0,36565658,Corrado Aaron Visaggio,0,-0.3357479318183503,0.9999303862882618
+2787056259,Impact of Code Obfuscation on Android Malware Detection based on Static and Dynamic Analysis,2018,0,8,3,0,36565658,Corrado Aaron Visaggio,0,-0.7614319449584028,1.2026911822020356
+2801305544,Evaluating model checking for cyber threats code obfuscation identification,2018,65,9,2,0,167516114,Arun Kumar Sangaiah,0,-0.6499498243801016,0.7636294037329837
+2793972952,Identifying Insecure Features in Android Applications using Model Checking,2018,0,1,1,0,1080042580,Francesco Mercaldo,0,0.0040557659796233,0.2757546058061082
+2801786826,LEILA Formal Tool for Identifying Mobile Malicious Behaviour,2019,46,21,2,0,36565658,Corrado Aaron Visaggio,0,-0.054743768974218426,0.6098445041617853
+2885240699,Improving Vehicle Safety Through a Fog Collaborative Infrastructure,2018,21,0,1,0,1080042580,Francesco Mercaldo,0,0.0040557659796233,0.2757546058061082
+2910470804,On the effectiveness of system API-related information for Android ransomware detection,2019,33,2,2,0,36565658,Corrado Aaron Visaggio,0,-0.3357479318183503,0.9999303862882618
+2896604238,A Novel Structural-Entropy-based Classification Technique for Supporting Android Ransomware Detection and Analysis,2018,30,1,2,0,294375193,Alfredo Cuzzocrea,0,-0.11295798688369656,0.5839899457511187
+2948836369,Data Leakage in Mobile Malware The What the Why and the How,2017,1,0,2,0,36565658,Corrado Aaron Visaggio,0,-0.8115777292816129,1.0554354031823359
+2978819783,Phylogenetic Analysis for Ransomware Detection and Classification into Families,2018,0,0,1,0,1080042580,Francesco Mercaldo,0,-0.48047720290290913,1.3695682069170965
+2990211342,Visualizing the outcome of dynamic analysis of Android malware with VizMal,2020,60,1,2,0,1054743262,Eric Medvet,0,-0.44581551119856416,1.5716702529143856
+2997180912,Model checking for malicious family detection and phylogenetic analysis in mobile environment,2020,47,0,1,0,1080042580,Francesco Mercaldo,0,-0.13207201912491093,0.695031384453717
+2980669114,A Blockchain Based Proposal for Protecting Healthcare Systems through Formal Methods,2019,20,0,2,0,19968844,Luca Brunese,0,-0.09225867405785995,0.7535589711344597
+2997466180,Formal Methods for Android Banking Malware Analysis and Detection,2019,29,0,1,0,1080042580,Francesco Mercaldo,0,-0.4731961573412676,1.343725280789358
+2981126057,Radiomic Features for Medical Images Tamper Detection by Equivalence Checking,2019,20,3,2,0,19968844,Luca Brunese,0,0.0040557659796233,0.2757546058061082
+2981185325,Exploiting Model Checking for Mobile Botnet Detection,2019,5,0,2,0,71563349,Cinzia Bernardeschi,0,0.05940095047987125,0.6960502266457337
+3008819012,A Model Checking based Proposal for Mobile Colluding Attack Detection,2019,18,1,1,0,1080042580,Francesco Mercaldo,0,-0.20361398935179198,0.2569856548365551
+3013205478,Android Run-time Permission Exploitation User Awareness by Means of Formal Methods,2020,0,0,1,0,1080042580,Francesco Mercaldo,0,0.04519854428379505,0.6287272904731287

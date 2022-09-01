@@ -1,0 +1,67 @@
+21456,Leakage-Resilient spatial encryption,2012,24,4,1,0,2143328931,Michel Abdalla,0,0.15389522996418056,-2.055314107798579
+191049181,Password-Based Authenticated Key Exchange An Overview,2014,56,8,1,0,2143328931,Michel Abdalla,0,-0.9285935934775718,-1.7461651487800696
+126505866,Applied Cryptography and Network Security,2009,0,0,4,0,339853684,Damien Vergnaud,0,0.03579106712146329,-0.5368818646471362
+58826733,SPHF-Friendly Non-Interactive Commitment Schemes,2013,0,0,4,0,7007856,Olivier Blazy,0,0.9695244628261616,-0.20674288749286884
+150569267,Improving Thomlinson-Walkers Software Patching Scheme Using Standard Cryptographic and Statistical Tools,2014,13,0,3,0,205983447,Houda Ferradi,0,0.38333304840531096,-0.17738675902466397
+590105508,Cryptology and network security 12th International Conference CANS 2013 Paraty Brazil November 20-22 2013 proceedings,2013,0,0,3,0,316622382,Cristina Nita Rotaru,0,0.6187531155646301,-0.8469053531512158
+1550955885,Security of the J-PAKE Password-Authenticated Key Exchange Protocol,2015,42,35,1,0,2143328931,Michel Abdalla,0,-1.304032878140363,-2.026028802060995
+1570127268,Password-Authenticated Group Key Agreement with Adaptive Security and Contributiveness,2009,59,14,3,0,2078705314,David Pointcheval,0,-1.31812486439192,-2.3156551990232863
+1516050218,International Conference on Information and Communications Security - ICICS 2004,2004,0,0,2,0,669060945,Bogdan Warinschi,0,0.0345193044346854,0.11711036493391322
+1526070463,Password-Based authenticated key exchange in the three-party setting,2005,29,340,3,0,2049865666,Pierre Alain Fouque,0,-1.9281358576689749,-1.8065669183094206
+1509298722,Simple password-based encrypted key exchange protocols,2005,31,214,2,0,2078705314,David Pointcheval,0,-2.1817343741072177,-1.6506037949797918
+1546831026,Generalized key delegation for hierarchical identity-based encryption,2007,18,60,2,0,2021558904,Gregory Neven,0,0.3439235893163037,-2.173329663866116
+1511193443,Towards Making Broadcast Encryption Practical,1999,24,21,3,0,2064532066,Avishai Wool,0,0.008898706870748396,-1.4326515690550123
+1565942289,Progress in Cryptology - Latincrypt 2010,2011,0,38,2,0,2092095195,Paulo S. L. M. Barreto,0,0.14352534619284507,-0.536595150900698
+1531014500,Provably Secure Password-based Authentication in TLS,2005,0,0,3,0,2078705314,David Pointcheval,0,-0.5271043566245497,-1.4934660351380018
+1928778385,Contributory password-authenticated group key exchange with join capability,2011,44,12,3,0,2078705314,David Pointcheval,0,-1.635220789217733,-2.9534352833212685
+1764919345,Share and Disperse How to Resist Against Aggregator Compromises in Sensor Networks,2006,17,0,2,0,687317970,Yannis Viniotis,0,1.0112234854538964,-0.18024267455669074
+1786980832,Interactive diffie-hellman assumptions with applications to password-based authentication,2005,41,101,2,0,2078705314,David Pointcheval,0,-1.9380961760297093,-1.665961508363328
+1792031389,Distributed Public-Key Cryptography from Weak Secrets,2009,43,16,4,0,67263304,Xavier Boyen,0,0.0015093745393696862,-1.9602972655652071
+2016900331,Resisting against aggregator compromises in sensor networks,2006,2,0,2,0,687317970,Yannis Viniotis,0,0.011710787051278796,0.4077871119468079
+2117307660,Password-Based group key exchange in a constant number of rounds,2006,28,96,4,0,1781639045,Emmanuel Bresson,0,-0.2878520605284052,-1.1757276099008076
+2106150202,Password-based authenticated key exchange in the three-party setting,2006,15,37,3,0,2049865666,Pierre Alain Fouque,0,-1.9281358576689749,-1.8065669183094206
+2121186966,Strong password-based authentication in TLS using the three-party group Diffie Hellman protocol,2007,38,25,4,0,1781639045,Emmanuel Bresson,0,-1.051097219381206,-1.3333223496566924
+2133379773,Anonymous and Transparent Gateway-Based Password-Authenticated Key Exchange,2008,33,30,2,0,2078705314,David Pointcheval,0,-0.5867434830575723,-0.21031288753761324
+2119563114,Rekeyed Digital Signature Schemes Damage-containment in the face of key exposure,2001,20,1,2,0,2052950829,Mihir Bellare,0,-0.6557630892234663,-1.1265944397394225
+2113698290,Efficient two-party password-based key exchange protocols in the UC framework,2008,25,42,3,0,2078705314,David Pointcheval,0,-0.7923424189507854,-1.6038598946007043
+2108113591,(Password) authenticated key establishment from 2-party to group,2007,34,30,3,0,11703263,Rainer Steinwandt,0,-0.4591441391077167,-0.9847059118910877
+2186096729,Public-Key Encryption Indistinguishable Under Plaintext-Checkable Attacks,2015,47,23,2,0,2078705314,David Pointcheval,0,0.5878717956367949,-2.3874000667193624
+2171440248,Identity-Based encryption gone wild,2006,16,85,4,0,2021558904,Gregory Neven,0,0.44778054792896405,-1.9056715527564907
+2144562951,DHIES An encryption scheme based on the Diffie-Hellman Problem,2001,28,99,3,0,2052950829,Mihir Bellare,0,0.3216772846177813,-2.3198329004469196
+2168967576,A simple threshold authenticated key exchange from short secrets,2005,13,2,4,0,2049865666,Pierre Alain Fouque,0,-2.0759359351276645,-1.7420101206412975
+2172037668,Securing wireless sensor networks against aggregator compromises,2008,10,38,2,0,687317970,Yannis Viniotis,0,0.8842293396408154,-0.30536349056670287
+2182181362,Strong password-based authentication inTLS using the three-party group Diffie-Hellman protocol,2007,36,0,1,0,2143328931,Michel Abdalla,0,-1.992435185982431,-1.4494444596828437
+2185046271,Provably Secure Password-Based Authentication in TLS (Extended abstract),2006,21,4,1,0,2143328931,Michel Abdalla,0,-0.5271043566245497,-1.4934660351380018
+2149093588,The Oracle Diffie-Hellman Assumptions and an Analysis of DHIES,2001,30,304,3,0,2052950829,Mihir Bellare,0,-0.17615312604927524,-1.700132936200979
+2182441368,Encrypted Key Exchange Protocols,2005,6,0,2,0,2078705314,David Pointcheval,0,-2.142139201841634,-1.9847009390232482
+2149445117,Provably secure password-based authentication in TLS,2006,20,38,4,0,1781639045,Emmanuel Bresson,0,-1.7352287258395434,-1.7406143863918209
+2149847764,Increasing the Lifetime of a Key A Comparative Analysis of the Security of Re-keying Techniques,2000,26,72,2,0,2052950829,Mihir Bellare,0,-0.4393751907763132,0.44301410664287044
+2312628401,Public-key encryption indistinguishable under plaintext-checkable attacks,2016,53,6,2,0,2078705314,David Pointcheval,0,0.6507463281854616,-2.3624572671961195
+2406784298,Robust Pseudo-Random Number Generators with Input Secure Against Side-Channel Attacks,2015,24,4,6,0,287936135,Sylvain Ruhault,0,0.4976754603913045,0.11534821219725828
+2402536805,Better Security for Functional Encryption for Inner Product Evaluations,2016,29,20,4,0,80044717,Florian Bourse,0,0.27674862137218004,-2.035906690720899
+2412416353,Secure architectures of future emerging cryptography SAFEcrypto,2016,41,0,9,0,88302247,Francesco Regazzoni,0,-0.6651510124985198,-2.3008478237808454
+2398171608,SPOKE Simple Password-Only Key Exchange in the Standard Model,2014,0,3,2,0,2078705314,David Pointcheval,0,-0.42346555134785246,-0.9713564954154381
+2470748251,Security and cryptography for networks 9th international conference SCN 2014 Amalfi Italy September 3-5 2014 proceedings,2014,0,1,1,0,2143328931,Michel Abdalla,0,0.39440947430621254,-1.0988969489132954
+2463324981,Identity-Based Encryption Gone Wild,2006,0,8,4,0,2021558904,Gregory Neven,0,0.42704537637606527,-1.7431015460556154
+2498826780,Interactive Di-e-HellmanAssumptionsWith Applicationsto Password-BasedAuthentication,2005,22,0,2,0,2078705314,David Pointcheval,0,-0.423087020739788,-1.8570653113737365
+2492325936,Cryptology and Network Security,2013,0,0,3,0,316622382,Cristina Nita Rotaru,0,-0.07795438273541787,1.306452789176904
+2541862251,Reducing The Need For Trusted Parties In Cryptography,2011,0,1,1,0,2143328931,Michel Abdalla,0,-0.639955086815917,-2.1521840353628394
+2522624846,Generalized key delegation for hierarchical identity-based encryption,2007,0,0,2,0,2021558904,Gregory Neven,0,0.155870422438688,-0.3611899258997246
+2519540563,Robust Password-Protected Secret Sharing,2016,27,4,2,0,2078705314,David Pointcheval,0,0.23049352231043557,-0.2785685753994154
+2657843801,Alain PasselÃ¨gue - RKA Security for PRFs Beyond the Linear Barrier,2014,0,0,2,0,312809494,Alain PasselÃ¨gue,0,0.0040557659796233,0.2757546058061082
+2611688767,On the (im)possibility of blind message authentication codes,2006,0,23,2,0,88663857,Chanathip Namprempre,0,-0.09624545503614396,-1.5253841525591016
+2592627322,A simple threshold authenticated key exchange from short secrets,2005,0,40,4,0,2049865666,Pierre Alain Fouque,0,-2.0759359351276645,-1.7420101206412975
+2607627035,Public Key Cryptography - PKC 2007,2007,0,0,4,0,2021558904,Gregory Neven,0,0.03910652856792115,-0.9542749174440527
+2592948084,A Scalable Password-Based Group Key Exchange Protocol in the Standard Model,2006,0,2,2,0,2078705314,David Pointcheval,0,-1.0782629658695972,-1.6253058548453387
+2913397311,Proceedings of the 5th international conference on Pairing-Based Cryptography,2012,0,0,1,0,2143328931,Michel Abdalla,0,0.9583998837203264,-0.22761225010695035
+2911664295,Proceedings of the 12th International Conference on Cryptology and Network Security - Volume 8257,2013,0,0,3,0,316622382,Cristina Nita Rotaru,0,0.42736916530366337,0.19784724694239997
+2951513918,Robust Password-Protected Secret Sharing,2016,0,0,2,0,2078705314,David Pointcheval,0,0.4119786469809368,-0.1630540246402619
+2955343941,Security and Cryptography for Networks - SCN 2014,2014,0,0,1,0,2143328931,Michel Abdalla,0,0.36744650870817264,0.04579689693636787
+2950668665,Identity-Based Encryption Gone Wild,2006,0,0,4,0,2021558904,Gregory Neven,0,0.155870422438688,-0.3611899258997246
+2951074086,On the Tightness of Forward-Secure Signature Reductions,2017,0,0,2,0,2078705314,David Pointcheval,0,0.0040557659796233,0.2757546058061082
+2951155750,Generalized Key Delegation for Hierarchical Identity-Based Encryption,2007,0,0,2,0,2021558904,Gregory Neven,0,0.155870422438688,-0.3611899258997246
+2949128729,Tighter Reductions for Forward-Secure Signature Schemes,2015,0,0,2,0,2078705314,David Pointcheval,0,0.0040557659796233,0.2757546058061082
+2951274289,Password-Based Authenticated Key Exchange in the Three-Party Setting,2004,0,0,3,0,2049865666,Pierre Alain Fouque,0,-0.4714882065325531,-1.0546921866311327
+2949381697,From Identification to Signatures via the Fiat-Shamir Transform Minimizing Assumptions for Security and Forward-Security,2002,0,0,3,0,88663857,Chanathip Namprempre,0,-0.0046135669892357995,-1.4365766121306316
+2982569521,Perfect Forward Security of SPAKE2,2019,0,1,1,0,2143328931,Michel Abdalla,0,-0.0046135669892357995,-1.4365766121306316
+3014017565,Universally Composable Relaxed Password Authenticated Key Exchange,2020,0,0,2,0,1760644356,Stanislaw Jarecki,0,-0.7551224147811132,-1.3649166616286006

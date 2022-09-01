@@ -1,0 +1,144 @@
+777162,Object-oriented Programming Languages Need Well-founded Contracts,2001,21,6,1,1,113813022,Matthias Felleisen,0,2.439277551563949,-0.7203173215650043
+35807531,The essence of compiling with continuations (with retrospective),1993,0,14,2,1,60580178,Bruce F. Duba,0,-0.1164726804531344,0.019252515865476
+206694048,SIGPLAN Response to the Ironman Draft of the Computing Curricula 2001,2001,0,0,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+189700996,The Network as a Language Construct,2014,37,6,1,1,113813022,Matthias Felleisen,0,0.28891367959791486,-0.8587253537840225
+190038403,DrScheme A Pedagogic Programming Environment for Scheme,1997,18,76,1,1,113813022,Matthias Felleisen,0,-0.4933335406508436,-0.14765940248201184
+141984127,From stack traces to lazy rewriting sequences,2011,29,1,1,1,113813022,Matthias Felleisen,0,-0.32616469814596943,-1.0072368938090703
+82200956,Proceedings of the 34th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages,2007,0,0,1,1,113813022,Matthias Felleisen,0,0.4896308132892164,-0.1340300604735376
+67623684,Behavioral Interface Contracts for Java,2000,0,9,1,1,113813022,Matthias Felleisen,0,-0.5536686537030495,0.011641493330294302
+136527485,Static Debugging Browsing the Web of Program Invariants,1996,0,5,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+153414275,How to Design Programs An Introduction to Computing and Programming,2006,0,16,1,1,113813022,Matthias Felleisen,0,2.6480725522424917,0.09562312873315454
+286932078,A New Way of Debugging Lisp Programs,2007,26,1,1,1,113813022,Matthias Felleisen,0,0.8840841036852224,-0.03504340713773644
+1007123516,Feature-Specific Profiling,2019,35,2,1,1,113813022,Matthias Felleisen,0,-0.30708222801997337,-0.28432392337366863
+1540716578,Set-Based Analysis for Full Scheme and Its Use in Soft-Typing,1995,0,12,1,1,113813022,Matthias Felleisen,0,-0.005550021743587548,-0.045496798771096594
+1549990096,Little Languages and Their Programming Environments,2001,26,16,1,1,113813022,Matthias Felleisen,0,2.6924868239446114,-0.5297797600312619
+1532107409,Programming the Web with High-Level Programming Languages,2001,20,56,1,1,113813022,Matthias Felleisen,0,1.2425221715118124,-2.101069560420546
+1524924264,A Little Java A Few Patterns,1997,0,19,1,1,113813022,Matthias Felleisen,0,1.903902564462189,-0.7590364732373583
+1525436703,Programming languages for reusable software components,2000,0,30,1,1,113813022,Matthias Felleisen,0,2.429115941117851,-1.0230088989952995
+1543926082,A tail-recursive semantics for stack inspections,2003,18,21,1,1,113813022,Matthias Felleisen,0,-0.4997591328357552,-0.14333067314242387
+1544818949,Semantic Casts Contracts and Structural Subtyping in a Nominal World,2004,41,22,1,1,113813022,Matthias Felleisen,0,0.7808237752706383,-0.32872374705420054
+1518650316,Semantics Engineering with PLT Redex,2009,0,196,1,1,113813022,Matthias Felleisen,0,0.20469260502960515,-0.15575603605694893
+1484092744,A Visual Environment for Developing Context-Sensitive Term Rewriting Systems,2004,14,43,1,1,113813022,Matthias Felleisen,0,-0.25274911280721585,-0.0433695725631315
+1413842933,Hygienic macros for ACL2,2010,18,4,2,1,8915013,Carl Eastlund,0,0.03368081200933776,-0.5276330391754097
+1510878057,Synthesizing Object-Oriented and Functional Design to Promote Re-Use,1998,28,77,1,1,113813022,Matthias Felleisen,0,-0.31188061708446846,0.11044074179032791
+1493795802,The Little Mler,1997,0,7,1,1,113813022,Matthias Felleisen,0,2.711666949108548,0.5855746578140307
+1540433311,Toward a Practical Module System for ACL2,2009,17,5,2,1,8915013,Carl Eastlund,0,0.35100833270190773,-0.40978338938133685
+1627010835,Evaluating call-by-need on the control stack,2010,11,4,1,1,113813022,Matthias Felleisen,0,-0.37217168072494083,-0.15748902789254413
+1587118842,SPCF Its Model Calculus and Computational Power (Preliminary Version),1992,30,11,1,1,113813022,Matthias Felleisen,0,-0.44497085502237127,-0.15824850094928378
+1878045697,Stepping Lazy Programs,2011,25,0,1,1,113813022,Matthias Felleisen,0,0.36623979750809416,-1.2359119826031864
+1934781858,The call-by-need lambda calculus revisited,2012,24,24,1,1,113813022,Matthias Felleisen,0,-0.5099464225309749,-0.4384224621434288
+1606286650,Scheme with classes mixins and traits,2006,27,41,1,1,113813022,Matthias Felleisen,0,-0.021886380512528763,-0.8696288415063075
+1581769524,The Design and Implementation of Typed Scheme From Scripts to Programs,2011,55,0,1,1,113813022,Matthias Felleisen,0,-0.4039322769822691,-0.20244476355066585
+1856452982,Typing the numeric tower,2012,23,14,1,1,113813022,Matthias Felleisen,0,-0.4939339351659789,-0.026913734374436275
+1946281402,From Macros to Reusable Generative Programming,1999,35,20,2,1,60580178,Bruce F. Duba,0,2.6557885539653587,0.06715229004803547
+1778142413,Practical Variable-Arity Polymorphism,2009,15,16,1,1,113813022,Matthias Felleisen,0,-0.16568002606856805,0.7213985456178569
+1779102629,Modeling an Algebraic Stepper,2001,21,58,1,1,113813022,Matthias Felleisen,0,-0.4513587283342365,-0.35285533386350787
+1583770165,Expressing Structural Properties as Language Constructs,1999,23,21,1,1,113813022,Matthias Felleisen,0,0.10857946246999364,-0.14403360113697547
+1830706226,Modeling web interactions,2003,15,56,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+1973186567,The design and implementation of typed scheme,2008,59,207,1,1,113813022,Matthias Felleisen,0,-0.2661298113945269,0.13753811040422007
+1970407902,Why teach programming languages in this day and age and how to go about it,2008,3,0,1,1,113813022,Matthias Felleisen,0,2.945143410781699,-0.04000271856795444
+1980939032,A Syntactic Approach to Type Soundness,1994,31,872,1,1,113813022,Matthias Felleisen,0,0.2803257759263874,-0.7474614239631748
+1965665477,Contracts for First-Class Classes,2013,51,5,1,1,113813022,Matthias Felleisen,0,1.57580905888693,-0.049322007920454644
+1967698620,Catching bugs in the web of program invariants,1996,24,74,1,1,113813022,Matthias Felleisen,0,-0.3009262192910057,0.10961893833737663
+2000217350,ICFP 2002 Contracts for higher-order functions,2013,24,5,1,1,113813022,Matthias Felleisen,0,0.8611101419761031,0.22426802291643097
+2007950212,A closer look at export and import statements,1986,9,12,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+1992374945,Adding types to untyped languages,2010,7,2,1,1,113813022,Matthias Felleisen,0,2.7884565961075554,-0.2390589498725631
+2017233431,Programming languages as operating systems ( or revenge of the son of the lisp machine),1999,27,55,1,1,113813022,Matthias Felleisen,0,0.9908741767848629,0.7828490048964859
+2017274604,Reasoning about programs in continuation-passing style,1992,46,77,1,1,113813022,Matthias Felleisen,0,-0.04249997462327735,0.992238447915584
+2029786195,Hygienic macro expansion,1986,2,220,2,0,60580178,Bruce F. Duba,0,-0.132617140868375,0.0698267676370446
+2028089106,From POPL to the classroom and back,2002,0,1,1,1,113813022,Matthias Felleisen,0,2.8667787864897303,0.9791970146733355
+2012319728,Fully abstract semantics for observably sequential languages,1994,7,67,1,1,113813022,Matthias Felleisen,0,-0.5370372365385394,0.17162631497727174
+2028203193,On the orthogonality of assignments and procedures in Algol,1993,18,10,1,1,113813022,Matthias Felleisen,0,-0.20490118064060417,-0.47211507866112984
+2023168372,The semantics of future and its use in program optimization,1995,25,71,1,1,113813022,Matthias Felleisen,0,-0.7459067840007766,0.07305995415399484
+2010893111,Environmental acquisition revisited,2005,20,5,1,1,113813022,Matthias Felleisen,0,0.23626984532896142,0.3381966988684732
+2032063820,Abstract continuations a mathematical semantics for handling full jumps,1988,17,63,2,1,60580178,Bruce F. Duba,0,-0.3780052928676268,0.4667535213199983
+2030663607,A call-by-need lambda calculus,1995,43,202,1,1,113813022,Matthias Felleisen,0,-0.3140295660529483,-1.911046840560901
+2022114508,Adding delimited and composable control to a production programming environment,2007,28,29,1,1,113813022,Matthias Felleisen,0,-0.07323581315593955,0.3247935718577267
+2015077407,DrScheme a programming environment for Scheme,2002,31,207,1,1,113813022,Matthias Felleisen,0,-0.3131021307652275,0.05769830100053436
+2017055028,Observable sequentiality and full abstraction,1992,17,52,1,1,113813022,Matthias Felleisen,0,1.2941766371968058,0.2517867597442857
+2040185748,Program Units as Higher-Order Modules,1998,22,0,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2047507101,Automatic verification for interactive graphical programs,2009,24,5,2,1,8915013,Carl Eastlund,0,-0.006997556214119599,-0.6952662277285476
+2052973434,Interlanguage migration from scripts to programs,2006,24,132,1,1,113813022,Matthias Felleisen,0,-0.2533890629816419,0.30503736774239004
+2039155915,Parameter-passing and the lambda calculus,1991,24,35,1,1,113813022,Matthias Felleisen,0,-0.8646172729033991,-1.6902833712006817
+2041183503,A functional I/O system or fun for freshman kids,2009,25,34,1,1,113813022,Matthias Felleisen,0,-0.2717201910197867,-0.21702144132377565
+2043133575,Componential set-based analysis,1997,22,59,1,1,113813022,Matthias Felleisen,0,0.29587097893419245,0.3682287013961686
+2034379323,Componential set-based analysis,1999,22,57,1,1,113813022,Matthias Felleisen,0,0.7683146451705383,0.14699140034560107
+2043261859,Units cool modules for HOT languages,1998,25,198,1,1,113813022,Matthias Felleisen,0,-0.7656514997506867,0.1083318726389549
+2059314438,Contracts for first-class classes,2010,46,19,1,1,113813022,Matthias Felleisen,0,0.36849848671734375,-0.23198813554009376
+2068181582,Profiling for laziness,2014,22,5,1,1,113813022,Matthias Felleisen,0,0.4803007112988635,-0.3684078555454946
+2068226560,Is continuation-passing useful for data flow analysis ,1994,16,28,1,1,113813022,Matthias Felleisen,0,-0.1901754681208967,0.014410026044115374
+2073569229,Abstract models of memory management,1995,27,108,1,1,113813022,Matthias Felleisen,0,-0.7673869997714036,-0.2246428544189308
+2068492670,Reasoning with continuations II full abstraction for models of control,1990,29,49,1,1,113813022,Matthias Felleisen,0,2.6113393701825354,-0.977164718981598
+2073904768,The essence of compiling with continuations,1993,23,388,2,1,60580178,Bruce F. Duba,0,-0.33081223886174127,0.6597906793572221
+2063809691,Toward a formal theory of extensible software,1998,27,15,1,1,113813022,Matthias Felleisen,0,2.633299624619712,-0.7614514820948364
+2062402631,Computing curricula 2001 draft,2001,0,5,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2059076906,Models of continuations without continuations,1991,23,5,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2082334237,Run your research on the effectiveness of lightweight mechanization,2012,56,56,2,1,8915013,Carl Eastlund,0,1.7622273951989755,-1.4152832537281235
+2080648611,Classes and mixins,1998,24,375,1,1,113813022,Matthias Felleisen,0,-0.27513465154167277,0.0569988433408697
+2097304805,A Programmers Reduction Semantics for Classes and Mixins,1999,31,138,1,1,113813022,Matthias Felleisen,0,-0.22264813208339831,-0.37996388457871794
+2089704981,Contracts for first-class modules,2009,20,9,1,1,113813022,Matthias Felleisen,0,-0.09412116607186828,-0.12718027293195197
+2100759424,Gradual typing for first-class classes,2012,38,34,1,1,113813022,Matthias Felleisen,0,0.4924031578975247,-0.30345785518964263
+2082975487,Program verification through soft typing,1996,7,8,1,1,113813022,Matthias Felleisen,0,-0.5010426456295748,0.14394487516453505
+2100962534,Modular set-based analysis from contracts,2006,34,33,1,1,113813022,Matthias Felleisen,0,-0.2391009848532908,-0.08356323768040318
+2098559708,TeachScheme a checkpoint,2010,7,2,1,1,113813022,Matthias Felleisen,0,0.504756283161248,-0.21924539779366492
+2101718506,Languages as libraries,2011,48,126,1,1,113813022,Matthias Felleisen,0,2.3625616312127926,-0.8054987398186945
+2102222848,On the expressive power of programming languages,1990,39,238,1,1,113813022,Matthias Felleisen,0,2.690331412072754,-0.5258077587369716
+2096368963,Logical types for untyped languages,2010,28,85,1,1,113813022,Matthias Felleisen,0,-0.2400208067923249,0.01006737958746744
+2114512427,A Stepper for Scheme Macros,2006,25,1,1,1,113813022,Matthias Felleisen,0,-0.408675650750854,-0.45503406763846393
+2111919057,Debugging hygienic macros,2010,34,11,1,1,113813022,Matthias Felleisen,0,-0.8976660414519174,-0.896426019948349
+2112022010,The call-by-need lambda calculus,1997,31,138,1,1,113813022,Matthias Felleisen,0,-0.3513026618308958,-1.7311363144374345
+2133206580,Contract Soundness for object-oriented languages,2001,20,137,1,1,113813022,Matthias Felleisen,0,0.6294045440203878,0.06854047128410833
+2116006381,Nested and dynamic contract boundaries,2009,32,6,1,1,113813022,Matthias Felleisen,0,0.19325069322125218,-0.13563820930633622
+2107183511,Multilingual component programming in racket,2011,7,0,1,1,113813022,Matthias Felleisen,0,2.360813900659708,0.002870663683931994
+2107399697,Correct blame for contracts no more scapegoating,2011,35,57,1,1,113813022,Matthias Felleisen,0,0.7680839552031037,-0.9731937509385163
+2128303158,Contracts for higher-order functions,2002,29,317,1,1,113813022,Matthias Felleisen,0,0.36733713794699197,-0.03354497314892885
+2153700707,The structure and interpretation of the computer science curriculum,2004,22,36,1,1,113813022,Matthias Felleisen,0,0.9327737377417331,0.4500505566802508
+2183828394,Foundations for behavioral higher-order contracts,2012,63,2,1,1,113813022,Matthias Felleisen,0,-0.04543537125647495,-0.20680990302609645
+2159745859,Validating the unit correctness of spreadsheet programs,2004,21,67,1,1,113813022,Matthias Felleisen,0,1.8071799323422222,-0.2269420073632165
+2148186462,Optimization coaching optimizers learn to communicate with programmers,2012,31,26,1,1,113813022,Matthias Felleisen,0,-0.8911667923910952,0.04527045904624124
+2157998816,Continuations from generalized stack inspection,2005,29,42,1,1,113813022,Matthias Felleisen,0,-0.43212030313442334,0.4528022937933903
+2161021500,Making induction manifest in modular ACL2,2009,25,3,2,1,8915013,Carl Eastlund,0,-0.21191767111489765,-0.17878612757049206
+2182808956,Programming Languages and Lambda Calculi (Summer 2006 Revised Version),2006,8,4,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2183251457,Refining syntactic sugar tools for supporting macro development,2010,61,4,1,1,113813022,Matthias Felleisen,0,-0.9486072213030546,-1.0635518487606799
+2253750756,Towards Practical Gradual Typing,2015,50,15,1,1,113813022,Matthias Felleisen,0,0.004880576560232004,-0.20432588490386505
+2239324765,Realm of Racket Learn to Program One Game at a Time ,2013,0,4,1,1,113813022,Matthias Felleisen,0,-0.3838209730946838,-0.04817463814005141
+2249437077,The racket manifesto,2015,0,24,1,1,113813022,Matthias Felleisen,0,2.5857624040812723,-0.8534696071692089
+2218092420,Complete monitors for behavioral contracts,2012,11,46,1,1,113813022,Matthias Felleisen,0,1.232612175183882,-1.2205311300793447
+2293197344,Fortifying macros,2010,10,19,1,1,113813022,Matthias Felleisen,0,-0.006233154754483453,-0.17586801858970194
+2293314044,Debugging macros,2007,29,9,1,1,113813022,Matthias Felleisen,0,-0.7950584991778185,-0.9727450540338979
+2294998241,Future contracts,2009,33,10,1,1,113813022,Matthias Felleisen,0,1.0087740321066465,-0.5922847281580487
+2295415424,Is sound gradual typing dead,2016,28,46,1,1,113813022,Matthias Felleisen,0,-0.049232502845474535,-0.1414925771972147
+2483032819,Scheme with Classes Mixins and Traits,2006,0,0,1,1,113813022,Matthias Felleisen,0,-0.12856726633787735,-0.6449186154218927
+2471999219,Semantic casts Contracts and structural subtyping in a nominal world,2004,0,0,1,1,113813022,Matthias Felleisen,0,0.7808237752706383,-0.32872374705420054
+2501307013,Coordinated Concurrent Programming in Syndicate,2016,37,4,1,1,113813022,Matthias Felleisen,0,1.200881541863095,0.45088737943410717
+2480534701,Programming Languages and Systems,2013,0,4,1,1,113813022,Matthias Felleisen,0,2.59654233582323,-0.3981987117833506
+2548517042,Changing the Rules,2015,0,0,2,1,8915013,Carl Eastlund,0,-0.39736753920862145,-0.12948157479584851
+2549005653,The Little Assistant,2015,0,0,2,1,8915013,Carl Eastlund,0,-0.39736753920862145,-0.12948157479584851
+2509653070,Oh Lord please dont let contracts be misunderstood (functional pearl),2016,55,8,1,1,113813022,Matthias Felleisen,0,0.4896308132892164,-0.1340300604735376
+2540431065,Intermezzo 4 Defining Functions on the Fly,2001,0,0,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2542644337,Part of This Total Breakfast,2015,0,0,2,1,8915013,Carl Eastlund,0,-0.39736753920862145,-0.12948157479584851
+2551565449,Designing Abstractions from Examples,2001,0,0,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2563216661,A visual environment for developing context-sensitive term rewriting systems,2004,0,0,1,1,113813022,Matthias Felleisen,0,-0.24198146674231866,-0.07089886411622495
+2546778137,Even Older Games,2015,0,0,2,1,8915013,Carl Eastlund,0,-0.39736753920862145,-0.12948157479584851
+2585545025,A visual environment for developing context-sensitive term rewriting systems,2004,0,0,1,1,113813022,Matthias Felleisen,0,-0.25274911280721585,-0.0433695725631315
+2569967313,Building Little Languages With Macros,2004,0,7,1,1,113813022,Matthias Felleisen,0,-0.006233154754483453,-0.17586801858970194
+2534740670,Think It Over and Over and Over,2015,0,0,2,1,8915013,Carl Eastlund,0,-0.39736753920862145,-0.12948157479584851
+2547353797,Designing Abstractions with First-Class Functions,2001,0,0,1,1,113813022,Matthias Felleisen,0,0.05695210608639525,1.0624482781354885
+2523409843,Scaling contracts to realistic languages,2012,52,0,1,1,113813022,Matthias Felleisen,0,1.4008302950631086,-0.3650491694135251
+2548251996,Learning the Rules,2011,0,0,2,1,8915013,Carl Eastlund,0,-0.39736753920862145,-0.12948157479584851
+2621005330,Migratory Typing Ten Years Later,2017,0,5,1,1,113813022,Matthias Felleisen,0,-0.20284294504496328,0.0013278369376692335
+2753210791,Super 8 languages for making movies (functional pearl),2017,35,3,1,1,113813022,Matthias Felleisen,0,1.9594184337966822,-1.7502019027655518
+2802066581,The Semantics of Futures,1994,0,6,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2787976344,A programmable programming language,2018,36,13,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2886526538,A Spectrum of Type Soundness and Performance,2018,77,10,1,1,113813022,Matthias Felleisen,0,-0.19537854269507235,0.0154707632042657
+2883192916,Implementing a Static Debugger for a First-Order Functional Programming Language,2001,0,0,1,1,113813022,Matthias Felleisen,0,-0.4092206616038536,-0.0401083610130616
+2912753831,Proceedings of the 22nd European conference on Programming Languages and Systems,2013,0,0,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2911931302,Proceedings of the third ACM SIGPLAN international conference on Functional programming,1998,0,0,1,1,113813022,Matthias Felleisen,0,-0.4092206616038536,-0.0401083610130616
+2915101224,How to evaluate the performance of gradual type systems,2019,53,3,1,1,113813022,Matthias Felleisen,0,-0.25799111368390537,-0.05980099555322875
+2949948326,The Call-by-need Lambda Calculus Revisited,2012,21,4,1,1,113813022,Matthias Felleisen,0,-0.5099464225309749,-0.4384224621434288
+2947857949,Feature-specific profiling,2015,21,8,1,1,113813022,Matthias Felleisen,0,-0.4255391154039115,-0.21813431669524316
+2951332531,Feature-Specific Profiling,2018,10,0,1,1,113813022,Matthias Felleisen,0,-0.30708222801997337,-0.28432392337366863
+2949377170,Evaluating Call-By-Need on the Control Stack,2010,9,0,1,1,113813022,Matthias Felleisen,0,-0.24082824597137592,-0.0899777356791478
+2966418763,From Macros to DSLs The Evolution of Racket,2019,0,0,1,1,113813022,Matthias Felleisen,0,-0.006233154754483453,-0.17586801858970194
+3014305920,Session details Keynote session,2007,0,0,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+3014482240,Session details Relating and integrating static and dynamic checks,2010,0,0,1,1,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476

@@ -1,0 +1,68 @@
+69294302,A New Definition of Multilevel Security,2000,0,4,3,0,121359932,Roberto Segala,0,-1.1833264491309714,1.9948123026089595
+137801185,Type-Based analysis of PKCS#11 key management,2012,20,7,1,0,344358645,Riccardo Focardi,0,0.5305962775141551,-1.644176037078393
+122792331,Formal analysis of key integrity in PKCS#11,2010,8,6,1,0,344358645,Riccardo Focardi,0,1.3723437957616877,-1.7721431954915245
+130718339,An introduction to security API analysis,2011,49,10,1,0,344358645,Riccardo Focardi,0,-1.0745825931367203,1.3914368374038617
+167927161,An Information Flow Security Property for CCS,1993,0,14,2,0,260455343,Roberto Gorrieri,0,0.0476924508599239,0.9749713892767755
+66636113,A Security Property for Processes in Dynamic Contexts,2002,0,3,1,0,344358645,Riccardo Focardi,0,-1.1774415669285487,1.9247098112985992
+1568139052,Blunting Differential Attacks on PIN Processing APIs,2009,12,9,1,0,344358645,Riccardo Focardi,0,0.653607069055252,-0.9264203257507623
+1513989276,Non Interference for the Analysis of Cryptographic Protocols,2000,29,101,2,0,260455343,Roberto Gorrieri,0,-0.976622349827601,-0.23857092394409107
+1509083475,Type-based analysis of PIN processing APIs,2009,28,28,1,0,344358645,Riccardo Focardi,0,-0.10210915359185042,-0.5628028245634294
+1519351129,Efficient Padding Oracle Attacks on Cryptographic Hardware,2012,21,49,1,0,344358645,Riccardo Focardi,0,0.5297367166434264,-1.9438448354724471
+1538012227,Cracking bank PINs by playing mastermind,2010,15,14,1,0,344358645,Riccardo Focardi,0,-0.11793208288186913,0.5100855912497164
+1485725695,Classification of Security Properties - Part II Network Security,2002,35,32,2,0,260455343,Roberto Gorrieri,0,-1.3100827806568012,2.327485745249935
+1548957802,Secure recharge of disposable RFID tickets,2011,4,3,1,0,344358645,Riccardo Focardi,0,-1.1982320068982761,-0.41632006592850007
+1521946661,Match it or die proving integrity by equality,2010,18,1,1,0,344358645,Riccardo Focardi,0,-0.5699379836653565,-1.2779796450974135
+1603844035,Bridging language-based and process calculi security,2005,37,31,2,0,313407794,Andrei Sabelfeld,0,-1.5187958608502734,2.215218336797454
+1801674677,Boundary Inference for Enforcing Security Policies in Mobile Ambients,2002,14,11,1,0,344358645,Riccardo Focardi,0,-0.4773898658870494,0.6268537153757495
+1843540884,A Classification of Security Properties,1993,33,130,2,0,260455343,Roberto Gorrieri,0,-1.1950498634892677,-0.8387834589600225
+1607337378,Type-based analysis of key management in PKCS#11 cryptographic devices,2013,21,5,1,0,344358645,Riccardo Focardi,0,-0.3171546949462719,-1.7699366539807504
+1589389573,Freshness Analysis in Security Protocols,2002,13,3,1,0,344358645,Riccardo Focardi,0,-0.4431931815570836,-0.6183190123592079
+1764599962,Dynamic types for authentication,2007,36,29,2,0,305749578,Michele Bugliesi,0,-1.559490693203166,-1.1468155296544773
+1608889792,Foundations of Security Analysis and Design - Tutorial Lectures,2001,0,42,2,0,260455343,Roberto Gorrieri,0,-0.9990245450878764,0.7391594421935352
+1855672777,Static analysis of authentication,2005,32,3,1,0,344358645,Riccardo Focardi,0,-0.6616827761349002,-0.8893992223150818
+1591315045,CVS at Work A Report on New Failures upon Some Cryptographic Protocols,2001,22,11,2,0,260455343,Roberto Gorrieri,0,-0.7223226006377037,-1.0217532548027266
+1617766523,A Uniform Approach for the Definition of Security Properties,1999,25,90,1,0,344358645,Riccardo Focardi,0,-0.8130868159691265,-0.7091488326804056
+1985544318,Provably Sound Browser-Based Enforcement of Web Session Integrity,2014,33,19,2,0,305749578,Michele Bugliesi,0,-1.0750930870458275,-0.19288614022031134
+1968246328,Types for Security Protocols Invited presentation at 7th International Workshop on Security Issues in Concurrency,2009,0,1,1,0,344358645,Riccardo Focardi,0,-0.4409249314170035,0.562319405838946
+1970402795,Type-Based Analysis of Generic Key Management APIs,2013,17,5,1,0,344358645,Riccardo Focardi,0,0.03797909442320935,-2.475531509717611
+1967444160,Information flow security of multi-threaded distributed programs,2008,18,14,1,0,344358645,Riccardo Focardi,0,-0.17388827878434915,0.10616176617252718
+1997751406,Secrecy in Security Protocols as Non Interference,2000,16,21,2,0,260455343,Roberto Gorrieri,0,-0.5799450044086268,-0.5314410322422697
+2020763085,Security boundaries in mobile ambients,2002,21,24,1,0,344358645,Riccardo Focardi,0,-0.3765224637610158,0.8813851646636289
+2030876862,Information flow security in Boundary Ambients,2008,34,10,1,0,344358645,Riccardo Focardi,0,-0.2739244023224346,0.0751675470574837
+2024014242,Verifying persistent security properties,2004,54,27,1,0,344358645,Riccardo Focardi,0,0.16315631507232004,-0.1382901336420552
+2042153739,Security Abstractions and Intruder Models (Extended Abstract),2009,13,1,2,0,305749578,Michele Bugliesi,0,-0.15379432163113993,0.07606925564923427
+2057657013,Authenticity by tagging and typing,2004,27,26,2,0,305749578,Michele Bugliesi,0,-1.559490693203166,-1.1468155296544773
+2072239739,Authentication primitives for secure protocol specifications,2005,31,2,1,0,344358645,Riccardo Focardi,0,-2.1705371613669167,-1.950678497627328
+2077836579,Attacking and fixing PKCS#11 security tokens,2010,11,72,1,0,344358645,Riccardo Focardi,0,-0.15710471370266482,-1.2004162819025794
+2132606052,Language Based Secure Communication,2008,18,20,2,0,305749578,Michele Bugliesi,0,-0.13492405782459166,-0.9559244097751051
+2183857836,Analysis of Security APIs (part II),2010,9,0,1,0,344358645,Riccardo Focardi,0,0.0040557659796233,0.2757546058061082
+2163536958,Principles for Entity Authentication,2003,32,16,2,0,305749578,Michele Bugliesi,0,-2.254704374400172,-1.7724227081752564
+2227421386,CookiExt Patching the Browser Against Session Hijacking Attacks,2015,30,15,2,0,305749578,Michele Bugliesi,0,-1.1479712775951267,-0.11427535598474192
+2229919479,Automatic and Robust Client-Side Protection for Cookie-Based Sessions,2014,22,15,2,0,305749578,Michele Bugliesi,0,-0.26225400654476483,0.26200148905971954
+2260145050,Types for security protocols,2011,4,12,1,0,344358645,Riccardo Focardi,0,-0.4431931815570836,-0.6183190123592079
+2275270346,Getting to know your Card Reverse-Engineering the Smart-Card Application Protocol Data Unit,2015,19,2,1,0,344358645,Riccardo Focardi,0,0.13282548378043202,-1.5937442936460728
+2276613686,Development of security extensions based on Chrome APIs,2015,5,0,1,0,344358645,Riccardo Focardi,0,0.0040557659796233,0.2757546058061082
+2289049989,Run-time analysis of PKCS#11 attacks,2015,14,0,1,0,344358645,Riccardo Focardi,0,1.3925954000912615,-0.9897862407110348
+2294613637,Static Evidences for Attack Reconstruction,2015,19,3,2,0,162349626,Linda Brodo,0,-0.4431931815570836,-0.6183190123592079
+2289744312,Foundations of security analysis and design II FOSAD 2001/2002 tutorial lectures,2004,2,3,2,0,260455343,Roberto Gorrieri,0,-0.34860757496602757,0.04871984044426936
+2289882005,Fixing PKCS#11 by key-diversification,2011,6,0,1,0,344358645,Riccardo Focardi,0,0.3730097013563592,-1.086709769934654
+2290029932,Practical Padding Oracle Attacks on RSA,2012,6,0,1,0,344358645,Riccardo Focardi,0,0.6273996622818413,-1.9955095517498895
+2337483091,Principles of Security and Trust - 4th International Conference POST 2015,2015,0,0,1,0,344358645,Riccardo Focardi,0,0.0040557659796233,0.2757546058061082
+2484618447,Analysis and development of Security APIs for disposable RFID tickets,2011,0,0,1,0,344358645,Riccardo Focardi,0,0.0040557659796233,0.2757546058061082
+2581496567,Ensuring Information Flow Security,2002,3,0,1,0,344358645,Riccardo Focardi,0,-0.25726232239641234,1.311734200400081
+2552544452,Attacking and xing smartcards and cryptographic devices,2012,6,0,1,0,344358645,Riccardo Focardi,0,0.23420786685520492,0.06009188982455197
+2518130408,Micro-policies for Web Session Security,2016,32,8,1,0,344358645,Riccardo Focardi,0,-0.32409323540744556,1.1528106569199716
+2507632007,APDU-Level Attacks in PKCS#11 Devices,2016,15,1,1,0,344358645,Riccardo Focardi,0,0.605260038730252,-1.452376687996275
+2611331244,First Italian Conference on Cybersecurity,2017,0,0,1,0,344358645,Riccardo Focardi,0,0.0040557659796233,0.2757546058061082
+2592562974,Surviving the Web A Journey into Web Session Security,2017,62,13,1,0,344358645,Riccardo Focardi,0,0.0040557659796233,0.2757546058061082
+2745219486,Security Threats and Solutions for Two-Dimensional Barcodes A Comparative Study,2018,13,2,2,0,266108175,Heider A. Wahsheh,0,0.09185462073762597,0.2861171120998424
+2760024405,Run-Time Attack Detection in Cryptographic APIs,2017,18,0,1,0,344358645,Riccardo Focardi,0,-0.45109020182834925,-1.874116938724455
+2799149764,Usable cryptographic QR codes,2018,9,7,2,0,266108175,Heider A. Wahsheh,0,-0.448646510788641,-0.3041454149627832
+2788974552,Mind Your Keys A Security Evaluation of Java Keystores,2018,22,0,1,0,344358645,Riccardo Focardi,0,0.0040557659796233,0.2757546058061082
+2885602459,{WPSE} Fortifying Web Protocols via Browser-Side Security Monitoring,2018,0,3,1,0,344358645,Riccardo Focardi,0,-0.4256778194832003,0.3181915479731412
+2915099421,Proceedings of 16th IEEE Computer Security Foundations Workshop (CSFW16),2003,0,0,1,0,344358645,Riccardo Focardi,0,0.0040557659796233,0.2757546058061082
+2931478288,Postcards from the Post-HTTP World Amplification of HTTPS Vulnerabilities in the Web Ecosystem,2019,67,5,1,0,344358645,Riccardo Focardi,0,0.7314945517447375,-0.3399577606964868
+2952634974,WPSE Fortifying Web Protocols via Browser-Side Security Monitoring,2018,37,0,1,0,344358645,Riccardo Focardi,0,-0.3491553692098674,0.5768508047434872
+3001944142,Machine Learning for Web Vulnerability Detection The Case of Cross-Site Request Forgery,2020,13,0,1,0,344358645,Riccardo Focardi,0,0.0040557659796233,0.2757546058061082
+2968604714,Usable security for QR code,2019,14,2,2,0,266108175,Heider A. Wahsheh,0,-0.24471411135193305,-0.08644104462767851
+3003872716,Language-Based Web Session Integrity,2020,28,0,1,0,344358645,Riccardo Focardi,0,0.0040557659796233,0.2757546058061082

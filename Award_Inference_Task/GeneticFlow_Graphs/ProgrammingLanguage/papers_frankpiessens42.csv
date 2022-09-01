@@ -1,0 +1,126 @@
+170959631,Sound formal verification of linuxs USB BP keyboard driver,2012,24,11,1,1,233250515,Frank Piessens,0,2.2070819578170155,-0.9864127412761666
+190674159,Overlapping and Order-Independent Patterns,2014,27,2,1,1,233250515,Frank Piessens,0,-0.27819954000311664,-0.04982233517028507
+71736232,VeriFast for java a tutorial,2013,50,11,1,1,233250515,Frank Piessens,0,-0.3447958414677421,0.1637281637801618
+108297560,A realistic experiment in knowledge representation in open event calculus protocol specification,1996,0,9,2,0,164342283,Danny De Schreye,0,0.12015481607028028,0.4014822124256757
+196473121,Using event calculus for protocol specification An experiment,1995,0,1,2,0,164342283,Danny De Schreye,0,0.3053155926106949,0.35289656372015515
+9127949,Sound reasoning about unchecked exceptions soundness proof,2007,0,2,1,1,233250515,Frank Piessens,0,-0.19537854269507235,0.0154707632042657
+79503536,Verification of unloadable modules,2011,20,5,1,1,233250515,Frank Piessens,0,-0.4334552471492436,0.07360172279065104
+224221139,A machine checked soundness proof for an intermediate verification language extended version,2008,0,1,1,1,233250515,Frank Piessens,0,-0.19537854269507235,0.0154707632042657
+201200823,Safe Concurrency for Aggregate Objects with Invariants Soundness Proof,2005,28,5,1,1,233250515,Frank Piessens,0,0.987062025979874,0.07173406717217838
+82584232,Verification of programs using inspector methods,2006,8,8,1,1,233250515,Frank Piessens,0,1.8593306298047603,-1.1825319225902509
+168849878,Explicitly recursive grammar combinators a better model for shallow parser DSLs,2011,21,15,1,1,233250515,Frank Piessens,0,-1.4882449788367833,-1.4766360832608891
+905467040,Sound Modular and Compositional Verification of the Input/Output Behavior of Programs,2015,14,9,1,1,233250515,Frank Piessens,0,-0.3861669236652178,-0.4535226839332582
+1487976902,A statically verifiable programming model for concurrent object-oriented programs,2006,17,23,1,1,233250515,Frank Piessens,0,0.786300438074609,0.1005677521727625
+1558993706,Static verification of indirect data sharing in loosely-coupled component systems,2006,16,2,1,1,233250515,Frank Piessens,0,0.189790571020447,-0.32238441225925263
+1505565262,Heap-Dependent expressions in separation logic,2010,25,9,1,1,233250515,Frank Piessens,0,0.2893345479836459,-0.693022872199358
+1515803496,Formalizing CORRELATE from practice to pi,1997,12,4,1,1,233250515,Frank Piessens,0,0.44126962537930037,-0.11528339256088627
+1265250368,Secure multi-execution through static program transformation,2012,32,22,1,1,233250515,Frank Piessens,0,-0.26598799600846584,0.06420855481140868
+1555181227,Selective attribute elimination for categorical data specifications,1997,12,12,1,1,233250515,Frank Piessens,0,0.8595514082108706,-0.31837096949378824
+1528322206,Implicit Dynamic Frames Combining Dynamic Frames and Separation Logic,2009,42,87,1,1,233250515,Frank Piessens,0,-0.20124837351208263,0.29107196955578696
+1510623049,A Machine Checked Soundness Proof for an Intermediate Verification Language,2009,12,4,1,1,233250515,Frank Piessens,0,2.3238314970297047,-1.2489135278690946
+1537712012,A Caller-Side Inline Reference Monitor for an Object-Oriented Intermediate Language,2008,14,23,1,1,233250515,Frank Piessens,0,-0.8996980242119597,-0.2580554674145529
+1519936759,Security Monitor Inlining for Multithreaded Java,2009,32,30,1,1,233250515,Frank Piessens,0,-0.341156365985088,-0.049309782533766194
+1565541828,VeriFast a powerful sound predictable fast verifier for C and java,2011,7,173,2,1,220035981,Pieter Philippaerts,0,-0.7522705421107525,-0.19739144609310114
+1548442412,VeriCool An Automatic Verifier for a Concurrent Object-Oriented Language,2008,20,19,1,1,233250515,Frank Piessens,0,1.602615970063516,-0.043986278668546944
+1587947078,Iterators revisited proof rules and implementation,2005,16,11,1,1,233250515,Frank Piessens,0,-0.643429719246377,0.3378220935060347
+1606142489,A quick tour of the VeriFast program verifier,2010,11,83,1,1,233250515,Frank Piessens,0,-0.17842531128457786,-0.1851808461882325
+1697035421,Learning Assertions to Verify Linked-List Programs,2015,20,8,1,1,233250515,Frank Piessens,0,0.6968079136369463,-0.5457346337791013
+1779857600,Failboxes Provably Safe Exception Handling,2009,25,23,1,1,233250515,Frank Piessens,0,-0.1489814053513287,0.06952440884599217
+1781612918,Theoretical aspects of compositional symbolic execution,2011,16,8,1,1,233250515,Frank Piessens,0,0.34672991228565575,-0.0687097491115427
+1663061001,An automatic verifier for Java-like programs based on dynamic frames,2008,22,37,1,1,233250515,Frank Piessens,0,-0.4360980183065204,-0.3244340320604361
+1983797397,Special Section on Formal Techniques for Java-like Programs,2011,0,0,1,1,233250515,Frank Piessens,0,-0.5536686537030495,0.011641493330294302
+1968412195,Secure Compilation to Modern Processors,2012,21,56,1,1,233250515,Frank Piessens,0,0.03263704043262734,-0.28958829617905674
+1975664374,On the bright side of type classes instance arguments in Agda,2011,22,37,1,1,233250515,Frank Piessens,0,-0.7428490616221476,0.14150846731396646
+2008332764,Noninterference through Secure Multi-execution,2010,24,190,1,1,233250515,Frank Piessens,0,-0.2092518085244831,0.027545554189021153
+1989153124,Solving the VerifyThis 2012 challenges with VeriFast,2015,14,2,1,1,233250515,Frank Piessens,0,-0.033714866138754,-0.014479259495201029
+1994707400,Security monitor inlining and certification for multithreaded Java,2015,39,1,1,1,233250515,Frank Piessens,0,-0.5536686537030495,0.011641493330294302
+2043894777,Finally tagless observable recursion for an abstract grammar model,2012,17,8,1,1,233250515,Frank Piessens,0,-1.1848104868378577,-0.5119206173552395
+2046697462,Secure Compilation to Protected Module Architectures,2015,46,61,1,1,233250515,Frank Piessens,0,-0.6209854970057104,-1.540110053610452
+2070764484,Fixing idioms a recursion primitive for applicative DSLs,2013,35,6,1,1,233250515,Frank Piessens,0,-0.6414911223827056,-0.29204711138891687
+2074285438,Implicit dynamic frames,2012,71,37,1,1,233250515,Frank Piessens,0,1.8628798661336647,-0.6604413353052034
+2076414129,Multi-Tier Functional Reactive Programming for the Web,2014,24,19,1,1,233250515,Frank Piessens,0,0.6390890275463702,0.5165378867269217
+2069522167,Automatic verification of Java programs with dynamic frames,2010,42,8,1,1,233250515,Frank Piessens,0,1.214458315732913,-0.728951315214006
+2079034866,Generating safe boundary APIs between typed EDSLs and their environments,2016,7,0,1,1,233250515,Frank Piessens,0,-0.866220014860334,0.26794149361997127
+2083329533,The S3MSNET Run Time Monitor,2009,10,22,3,0,146678822,Katsiaryna Naliuka,0,-1.4346095843972089,-0.008696327598290476
+2105443946,Monadic abstract interpreters,2013,25,18,2,0,13048970,Matthew Might,0,-0.36508849291339657,0.0749862081995906
+2141575767,Static Verification of Code Access Security Policy Compliance of NET Applications,2006,13,15,1,1,233250515,Frank Piessens,0,0.4055892978491751,0.8471469888415656
+2138652462,Safe concurrency for aggregate objects with invariants,2005,31,60,1,1,233250515,Frank Piessens,0,1.7732728947051286,-0.37607639064519305
+2112172944,Software verification with VeriFast Industrial case studies,2014,43,23,2,1,220035981,Pieter Philippaerts,0,0.43962955373667617,-0.4370595800051274
+2135791304,Provably correct inline monitoring for multithreaded Java-like programs,2010,21,15,1,1,233250515,Frank Piessens,0,-1.341737978081665,-0.012808032151647076
+2135820369,Expressive modular fine-grained concurrency specification,2011,17,56,1,1,233250515,Frank Piessens,0,-0.17818540143545877,0.3052301760854528
+2113058702,A programming model for concurrent object-oriented programs,2008,21,92,1,1,233250515,Frank Piessens,0,2.355335920015029,-0.1994391730091162
+2122328859,Sound reasoning about unchecked exceptions,2007,22,12,1,1,233250515,Frank Piessens,0,0.17704139169673722,-0.2407159286519766
+2107779615,Information flow enforcement in monadic libraries,2011,20,22,1,1,233250515,Frank Piessens,0,-0.5431433534170316,-0.0895510354512732
+2111066762,Expressive modular fine-grained concurrency specification (Extended version),2010,14,1,1,1,233250515,Frank Piessens,0,0.13127703371689192,1.1910787163470595
+2143989135,A Simple Sequential Reasoning Approach for Sound Modular Verification of Mainstream Multithreaded Programs,2007,20,12,1,1,233250515,Frank Piessens,0,-0.3300284275830914,0.029688225452729606
+2156426055,Generics of a higher kind,2008,57,55,1,1,233250515,Frank Piessens,0,-1.3871620715963624,-0.5958987243084478
+2144541538,An object-oriented approach to datatype-generic programming,2006,32,12,1,1,233250515,Frank Piessens,0,-0.6163820005037625,-0.15203977860831736
+2186617364,Explicitly Recursive Grammar Combinators,2011,24,9,1,1,233250515,Frank Piessens,0,-1.11406972684035,-1.0674740955272513
+2156830909,Typed syntactic meta-programming,2013,45,14,1,1,233250515,Frank Piessens,0,-0.27012542640390846,0.17646687771057604
+2170082978,Test Input Generation for Programs with Pointers,2009,19,14,1,1,233250515,Frank Piessens,0,1.5201363049783188,-0.42533055378100304
+2152178634,Sound Modular Verification of C Code Executing in an Unverified Context,2015,35,23,1,1,233250515,Frank Piessens,0,0.542346833040759,-0.15901903559027533
+2149530912,Report Extensibility and Implementation Independence of the NET Cryptographic API,2009,17,1,2,1,220035981,Pieter Philippaerts,0,0.03711690340091338,-0.22978214838085745
+2170763872,Inspector Methods for State Abstraction,2007,10,11,1,1,233250515,Frank Piessens,0,0.07693575256608219,-0.47821493233709883
+2161938947,Secure Compilation of Object-Oriented Components to Protected Module Architectures,2013,29,20,1,1,233250515,Frank Piessens,0,-1.956339220649234,-0.8523335151808908
+2210284694,Partial Type Signatures for Haskell,2014,12,4,1,1,233250515,Frank Piessens,0,-0.9060315652835369,-0.6372662216805934
+2293692853,Fully-abstract compilation by approximate back-translation,2016,39,25,1,1,233250515,Frank Piessens,0,-1.00769523275695,0.00283940835326841
+2287304610,The Belgian Electronic Identity Card a Verification Case Study,2011,11,4,2,1,220035981,Pieter Philippaerts,0,0.12266781055674099,-0.21173736948431904
+2340847629,On modular and fully-abstract compilation - Technical appendix,2016,30,1,1,1,233250515,Frank Piessens,0,-0.8351629247072921,-0.3384933151243852
+2361817505,Reasoning about Object Capabilities with Logical Relations and Effect Parametricity,2016,37,19,1,1,233250515,Frank Piessens,0,0.9383297200842405,0.4824176637051946
+2490463551,Fixing non-determinism,2015,27,2,1,1,233250515,Frank Piessens,0,-0.5624435317320113,-0.10801750474940297
+2519955549,Explicitly recursive grammar combinators - The implementation of some grammar algorithms - Technical report,2010,14,1,1,1,233250515,Frank Piessens,0,-1.528147726499174,-1.9474519561216586
+2519988766,A $pi$-Calculus Semantics of Java The Full Definition,2003,0,3,1,1,233250515,Frank Piessens,0,-1.2058676711257823,0.04314218749661847
+2524493644,Shared boxes rely-guarantee reasoning in VeriFast,2014,9,4,1,1,233250515,Frank Piessens,0,0.05727996114406154,0.12781811219723374
+2524738805,Verification of data-race-freedom of a Java chat server with VeriFast,2009,5,1,1,1,233250515,Frank Piessens,0,-0.0038676667915105898,-0.08800988338398753
+2520382536,The VeriFast program verifier,2008,17,95,1,1,233250515,Frank Piessens,0,-0.05815873507187214,-0.5183889041087124
+2520438138,Implicit dynamic frames,2008,0,7,1,1,233250515,Frank Piessens,0,-0.3078173205613063,-0.19628779579732156
+2520468385,Secure compilation of oject-oriented components to untyped machine code,2013,20,0,1,1,233250515,Frank Piessens,0,-1.4743474992688181,-0.8321552663388481
+2509988922,On Modular and Fully-Abstract Compilation,2016,39,15,1,1,233250515,Frank Piessens,0,-0.9446277333766913,-0.5390790741554095
+2524948434,Sound modular verification of C code executing in an unverified context extended version,2014,0,1,1,1,233250515,Frank Piessens,0,-0.41133779576291585,-0.07022179981677015
+2525066022,Partial type signatures,2014,0,2,1,1,233250515,Frank Piessens,0,-0.36807023623907253,0.004701123986896351
+2520690503,Special issue on security and trust preface,2008,0,1,1,1,233250515,Frank Piessens,0,-0.1164726804531344,0.019252515865476
+2525191471,Verification of unloadable C modules (Extended version),2011,14,0,1,1,233250515,Frank Piessens,0,-0.4695860789458796,0.06494638242136502
+2525323677,Featherweight VeriFast Extended version,2012,0,1,1,1,233250515,Frank Piessens,0,-0.009395504896805578,0.051680391886845665
+2525657807,Concern-specific annotation languages to support static detection of bugs in Java-like programs,2006,0,0,1,1,233250515,Frank Piessens,0,-0.5536686537030495,0.011641493330294302
+2521130604,Modular full functional specification and verification of lock-free data structures,2009,11,7,1,1,233250515,Frank Piessens,0,0.47670460281097676,-0.581256188256684
+2525869977,A glimpse of a verifying C compiler,2007,0,22,1,1,233250515,Frank Piessens,0,-0.44869122900443015,-0.00015649039724540022
+2521528137,Secure compilation to modern processors extended version,2012,20,2,1,1,233250515,Frank Piessens,0,-0.39869129968254446,0.6066704760974211
+2521815125,New programming language technologies for improving software security,2004,0,0,1,1,233250515,Frank Piessens,0,3.183868865603613,-1.220270724247352
+2526675877,Chapter Categorical semantics for object-oriented data-specifications,1996,0,0,1,1,233250515,Frank Piessens,0,0.004880576560232004,-0.20432588490386505
+2521924644,Multi-module fully abstract compilation (extended abstract),2015,8,3,1,1,233250515,Frank Piessens,0,-0.1164726804531344,0.019252515865476
+2521974649,Inspector methods for state abstraction soundness proof,2007,0,1,1,1,233250515,Frank Piessens,0,-0.19537854269507235,0.0154707632042657
+2526936492,Secure multi-execution through static program transformation extended version,2012,26,2,1,1,233250515,Frank Piessens,0,-0.3421102698048084,-0.02867290384921584
+2527111245,Cryptographic primitives and protocols,2004,0,0,1,1,233250515,Frank Piessens,0,-0.1164726804531344,0.019252515865476
+2527143286,Modular compositional and sound verification of the input/output behavior of programs,2014,2,0,1,1,233250515,Frank Piessens,0,0.048419974812646704,-0.6619330125461854
+2527190550,Verification of unloadable C modules - Soundness proof,2009,10,1,1,1,233250515,Frank Piessens,0,-0.3387525844158986,0.0015768254518031218
+2584454935,A Statically Verifiable Programming Model for Concurrent Object-Oriented Programs,2006,0,11,1,1,233250515,Frank Piessens,0,0.786300438074609,0.1005677521727625
+2522419648,VeriFast Imperative Programs as Proofs,2010,26,17,1,1,233250515,Frank Piessens,0,0.31366917188960874,0.1615267553136026
+2527662708,Infrastructural support for data dependencies in data-centered software systems,2004,3,0,1,1,233250515,Frank Piessens,0,1.0672940909622142,-0.27821775013810984
+2522667198,Secure compilation of Object-Oriented components to protected module architectures - Extended version,2013,24,1,1,1,233250515,Frank Piessens,0,-0.7309834767917092,-0.10464317946466362
+2522684193,A machine-checked soundness proof for an efficient verification condition generator technical report,2010,7,1,1,1,233250515,Frank Piessens,0,-0.1001154955829469,-0.08258903601180019
+2522709114,A machine checked soundness proof for an intermediate verification language,2009,0,0,1,1,233250515,Frank Piessens,0,-0.19537854269507235,0.0154707632042657
+2522767423,A java-based distributed didactical environment,1997,0,0,1,1,233250515,Frank Piessens,0,-0.5536686537030495,0.011641493330294302
+2513071761,Unifiers as equivalences proof-relevant unification of dependently typed data,2016,16,6,1,1,233250515,Frank Piessens,0,-0.3251106305277527,-0.0977134835156005
+2523063802,Verification of unloadable C modules - status report,2009,8,0,1,1,233250515,Frank Piessens,0,-0.3309337740430018,0.015889249906573734
+2518769480,Safe type-level abstraction in Scala,2008,30,15,1,1,233250515,Frank Piessens,0,-0.7806443208991056,-0.016892897302294332
+2523327405,A Formal Abstract Semantics for Data Specifications,1998,0,0,1,1,233250515,Frank Piessens,0,-0.12159725733918865,0.12814761334439406
+2523348674,Instance arguments in Agda - An alternative to type classes,2014,0,1,1,1,233250515,Frank Piessens,0,-0.32952621943629967,0.1231374057121493
+2519046719,A caller-side inline reference monitor for object-oriented intermediate language extended version,2008,12,3,1,1,233250515,Frank Piessens,0,-0.8996980242119597,-0.2580554674145529
+2519387135,Partial type signatures for Haskell Extended version with proofs of the theorems,2013,10,1,1,1,233250515,Frank Piessens,0,-0.4391723355345196,0.06479348011161402
+2523702803,Parser combinators in Scala,2008,12,38,1,1,233250515,Frank Piessens,0,-1.017327489862588,-0.20164849104017324
+2523862074,Whole-program specifications permit better abstraction and concurrent implementations,2002,0,0,1,1,233250515,Frank Piessens,0,-0.25799111368390537,-0.05980099555322875
+2519573658,Precise and progressing compositional symbolic execution,2010,14,1,1,1,233250515,Frank Piessens,0,0.34672991228565575,-0.0687097491115427
+2523942962,Fully-abstract compilation by approximate back-translation Technical appendix,2015,2,2,1,1,233250515,Frank Piessens,0,-0.5252149519909896,-0.09284288208388795
+2602111867,A Principled Approach to Tracking Information Flow in the Presence of Libraries,2017,25,4,1,1,233250515,Frank Piessens,0,0.22275361659324283,0.6345343366239962
+2637947924,Fixing non-determinism,2016,0,1,1,1,233250515,Frank Piessens,0,0.5406518331455752,-0.7731697943504362
+2604853937,Modular Fully-abstract Compilation by Approximate Back-translation,2017,38,11,1,1,233250515,Frank Piessens,0,-0.5704619417614165,-0.10955619043767004
+2589503380,Fully abstract compilation from System F to lambda-seal,2016,0,0,1,1,233250515,Frank Piessens,0,-0.8077326060882959,-0.9663665499911944
+2768341546,Automatically Generating Secure Wrappers for SGX Enclaves from Separation Logic Specifications,2017,19,3,1,1,233250515,Frank Piessens,0,0.20039166738599432,0.0999230530955834
+2779893805,Parametricity versus the universal type,2017,51,3,1,1,233250515,Frank Piessens,0,-0.757808384991097,-0.5612025522404231
+2752700320,VeriCool An automatic verifier for a concurrent object-oriented language,2008,0,0,1,1,233250515,Frank Piessens,0,-0.34444760535883223,-1.3287289433270586
+2798604531,Elmsvuur A Multi-tier Version of Elm and its Time-Traveling Debugger,2017,13,1,1,1,233250515,Frank Piessens,0,-0.1164726804531344,0.019252515865476
+2798643951,Selective Attribute Elimination for Categorial Data Specifications,1997,5,5,1,1,233250515,Frank Piessens,0,-0.1164726804531344,0.019252515865476
+2810813500,Scalagna 01 towards multi-tier programming with Scala and Scalajs,2018,8,2,1,1,233250515,Frank Piessens,0,-0.27369280475331975,-0.11119810589602871
+2899176198,Parametricity versus the Universal Type,2018,0,9,1,1,233250515,Frank Piessens,0,-0.757808384991097,-0.5612025522404231
+3006386447,Gavial Programming the web with multi-tier FRP,2020,30,0,1,1,233250515,Frank Piessens,0,2.4899139356777598,0.7625076601604328
+3024801990,CapablePtrs Securely Compiling Partial Programs using the Pointers-as-Capabilities Principle,2020,33,0,1,1,233250515,Frank Piessens,0,-0.3314546800634262,0.543094154379778

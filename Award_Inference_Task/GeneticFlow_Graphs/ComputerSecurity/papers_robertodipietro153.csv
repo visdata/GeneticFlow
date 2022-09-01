@@ -1,0 +1,112 @@
+102905176,Virtualization and Cloud Security Benefits Caveats and Future Developments,2014,26,6,2,1.0,2095740342,Flavio Lombardi,0,0.015245780877612549,0.7423220265691124
+44063969,Preserving query privacy in urban sensing systems,2012,27,5,2,0.0299995,221486981,Emiliano De Cristofaro,0,0.17205711434681475,0.30906985373253304
+168687187,Mining Business-Relevant RBAC States through Decomposition,2010,21,9,4,1.0,1989358788,Nino Vincenzo Verde,0,0.9530398956127876,1.71929680914372
+118650696,Towards a GPU Cloud Benefits and Security Issues,2014,36,3,2,1.0,2095740342,Flavio Lombardi,0,0.09223875610621117,0.8167092949592535
+567125047,CloRoFor Cloud Robust Forensics,2015,37,1,3,1.0,1990322502,Roberto Battistoni,0,0.0040557659796233,0.2757546058061082
+1514361525,Time warp how time affects privacy in LBSs,2010,31,16,3,0.0,2091485889,Bruno Crispo,0,-0.05989909198393182,1.3457825769889893
+1534009717,Mapping the File Systems Genome rationales technique results and applications,2013,14,0,1,1.0,2110325532,Roberto Di Pietro,0,0.0040557659796233,0.2757546058061082
+1507565831,Secure Selective Exclusion in Ad Hoc Wireless Network,2002,13,13,2,0.0,2056441798,Sushil Jajodia,0,0.0040557659796233,0.2757546058061082
+1493286744,Event handoff unobservability in WSN,2010,19,7,3,0.416667,2036485015,Stefano Ortolani,0,0.0591926469708033,0.3696898122985234
+1556707934,A Live Digital Forensic system for Windows networks,2008,22,7,2,1.0,1990322502,Roberto Battistoni,0,0.13679434731489165,0.6751406926737795
+1521209984,The impact of GPU-assisted malware on memory forensics,2015,12,6,2,0.0,342838144,Davide Balzarotti,0,0.05940095047987125,0.6960502266457337
+1504170246,Intrusion Detection Systems,2008,25,66,1,1.0,2110325532,Roberto Di Pietro,0,0.04049091741407983,1.0122312829693052
+1845761754,CUDACS securing the cloud with CUDA-enabled secure virtualization,2010,24,12,2,1.0,2095740342,Flavio Lombardi,0,0.0040557659796233,0.2757546058061082
+1591413740,Sense-And-Trace a privacy preserving distributed geolocation tracking system,2012,23,1,3,0.0,257660261,Eyup S. Canlar,0,0.0040557659796233,0.2757546058061082
+1612842872,An Activity-Based Model for Separation of Duty,2008,21,1,3,1.0,2069908597,Alberto Ocello,0,-0.10706592804308801,2.008608516696035
+1713648379,PRISM privacy-preserving search in mapreduce,2012,26,46,4,0.532684,2025451962,Melek Ã–nen,0,-0.09850900197098891,0.05308623315482086
+1592726019,Evaluating the risk of adopting RBAC roles,2010,7,3,4,1.0,1989358788,Nino Vincenzo Verde,0,0.8018522773373472,1.9586820879716633
+1968089481,RFID security and privacy long-term research or short-term tinkering ,2008,0,5,6,0.0,46726047,Ari Juels,0,0.4439673180033232,-0.08525206020031934
+1975296193,Security in Outsourced Storage Efficiently Checking Integrity and Service Level Agreement Compliance,2010,18,1,1,1.0,2110325532,Roberto Di Pietro,0,-0.11789865406400801,0.4103502383308374
+1964970915,Emergent properties detection of the node-capture attack in mobile wireless sensor networks,2008,24,82,1,1.0,2110325532,Roberto Di Pietro,0,0.0040557659796233,0.2757546058061082
+1966871386,Data confidentiality and availability via secret sharing and node mobility in UWSN,2013,15,8,1,1.0,2110325532,Roberto Di Pietro,0,0.36894941543564425,0.44386592399955205
+1979432715,CReW Cloud Resilience for Windows Guests through Monitored Virtualization,2010,19,7,3,0.726496,2054300324,Claudio Soriente,0,0.02628798490352915,0.2525820434058046
+1977994226,Security and privacy issues of handheld and wearable wireless devices,2003,13,53,1,1.0,2110325532,Roberto Di Pietro,0,0.5833871305856576,1.4343566166815562
+1996094584,AntiCheetah Trustworthy computing in an outsourced (cheating) environment,2015,42,4,3,0.0,252575161,Daniele Sgandurra,0,-0.8891657117642332,0.9212129223133733
+2002101072,Preserving privacy against external and internal threats in WSN data aggregation,2013,32,21,2,0.0,2056441798,Sushil Jajodia,0,0.03414406787360945,0.2818663120264617
+1998621589,A tunable proof of ownership scheme for deduplication using Bloom filters,2014,19,27,1,1.0,2110325532,Roberto Di Pietro,0,-0.018033775252130735,0.3733802914716234
+2006196087,Boosting efficiency and security in proof of ownership for deduplication,2012,13,113,1,1.0,2110325532,Roberto Di Pietro,0,-0.10668242624892976,0.8421412599885452
+2017317320,Time in privacy preserving LBSs an overlooked dimension,2011,35,1,2,1.0,2106391782,Luciana Marconi,0,0.4728958342870562,1.5688112577871298
+2021280697,Track me if you can Transparent obfuscation for Location based Services,2013,17,7,2,1.0,1989358788,Nino Vincenzo Verde,0,0.1907521364240587,1.1859911509862089
+2016160735,Freedom of speech thwarting jammers via a probabilistic approach,2015,18,6,2,1.0,1878349279,Gabriele Oligeri,0,-0.6282835574731542,-2.0495390344081086
+2018358859,Titans revenge Detecting Zeus via its own flaws,2013,18,22,1,1.0,2110325532,Roberto Di Pietro,0,0.7661537637681956,0.09402431656307088
+2018382289,Thwarting Obfuscated Malware via Differential Fault Analysis,2014,12,14,4,0.452767,110840802,Guillermo Suarez Tangil,0,0.49867902860534397,-0.026183446971119573
+2018468546,Taming Zeus by leveraging its own crypto internals,2011,15,8,1,1.0,2110325532,Roberto Di Pietro,0,0.6172665245618221,0.2652995213528374
+2029156418,Adversaries and Countermeasures in Privacy-Enhanced Urban Sensing Systems,2013,51,10,2,0.0299995,221486981,Emiliano De Cristofaro,0,-0.08961650193159912,-0.4844921991893179
+2023967801,MASS An efficient and secure broadcast authentication scheme for resource constrained devices,2013,15,4,4,0.0,237673524,Wafa Ben Jaballah,0,-2.1263720489057913,-1.9547047741395762
+2040193872,Scalable and efficient provable data possession,2008,31,764,3,0.0,124599811,Giuseppe Ateniese,0,0.40964911786534225,-1.7428141245432458
+2033230620,Privacy-preserving Robust Data Aggregation in Wireless Sensor Networks,2009,26,46,3,0.0,2056441798,Sushil Jajodia,0,0.155870422438688,-0.3611899258997246
+2040772779,Silence is Golden Exploiting Jamming and Radio Silence to Communicate,2015,34,11,2,1.0,1878349279,Gabriele Oligeri,0,0.09593154551261635,1.259311651086941
+2046608447,Playing hide-and-seek with a focused mobile adversary in unattended wireless sensor networks,2009,30,37,4,0.0,465425324,Gene Tsudik,0,0.07119016602948819,0.6674013546207265
+2043146366,A formal framework to elicit roles with business meaning in RBAC systems,2009,27,52,4,1.0,1989358788,Nino Vincenzo Verde,0,0.0040557659796233,0.2757546058061082
+2041545988,eRIPP-FS Enforcing privacy and security in RFID,2009,26,6,2,1.0,2001102710,Angelo Spognardi,0,-1.6669497008081449,-0.8983143913577598
+2048701862,A mechanism to enforce privacy in vehicle-to-infrastructure communication,2008,20,22,1,1.0,2110325532,Roberto Di Pietro,0,0.1149754839132739,-0.07503061097815696
+2061524388,Cross-border co-operation and education in digital investigations A European perspective,2011,13,1,4,0.0,1916254847,Mauro La Noce,0,0.0040557659796233,0.2757546058061082
+2058123539,Confidentiality and availability issues in Mobile Unattended Wireless Sensor Networks,2013,24,5,1,1.0,2110325532,Roberto Di Pietro,0,0.31515500633953675,0.15625409351629185
+2074013628,Smart health A context-aware health paradigm within smart cities,2014,10,308,8,0.0,328830761,Constantinos Patsakis,0,0.0040557659796233,0.2757546058061082
+2064170821,CREPUSCOLO A collusion resistant privacy preserving location verification system,2013,14,3,3,0.0,257660261,Eyup S. Canlar,0,-0.16499208697266504,0.7329450108505765
+2064372402,Addressing the shortcomings of one-way chains,2006,23,11,1,1.0,2110325532,Roberto Di Pietro,0,-0.47610935972864443,-0.7914234138755303
+2096482867,Events privacy in WSNs A new model and its application,2011,17,10,3,0.416667,2036485015,Stefano Ortolani,0,0.48078094822638895,1.3426908691764148
+2089421240,Redoubtable Sensor Networks,2008,20,95,2,0.0,2101451403,Jaikumar Radhakrishnan,0,-0.8885535572035969,0.33219926100890745
+2091934789,Optimal key scheduling for secure satellite broadcasting to mobile users,2006,6,3,1,1.0,2110325532,Roberto Di Pietro,0,0.5033787255429335,-0.6913856529187101
+2088625538,Self-healing in unattended wireless sensor networks,2012,46,11,3,0.0,465425324,Gene Tsudik,0,-0.2872565122953583,0.008822984155328617
+2104786256,A business-driven decomposition methodology for role mining,2012,32,20,3,1.0,1989358788,Nino Vincenzo Verde,0,0.0040557659796233,0.2757546058061082
+2092408946,FORCE Fully off-line secure credits for mobile micro payments,2014,27,5,2,1.0,2095740342,Flavio Lombardi,0,0.4085490382411637,0.09619580716896714
+2102175501,Confidentiality and integrity for data aggregation in WSN using peer monitoring,2009,46,39,3,0.0,144535847,Pietro Michiardi,0,-0.1808645143951975,0.8039012169725659
+2123777803,CASSANDRA a probabilistic efficient and privacy-preserving solution to compute set intersection,2011,24,2,2,1.0,2106391782,Luciana Marconi,0,0.061164067831735815,-0.6344129410537356
+2140172711,An optimal probabilistic solution for information confinement privacy and security in RFID systems,2011,33,22,2,0.0,2071596984,Refik Molva,0,-0.6774457711492484,-0.4169682447259144
+2143578807,Providing secrecy in key management protocols for large wireless sensors networks,2003,29,56,2,0.0,2056441798,Sushil Jajodia,0,-0.0362717663769217,-0.6312823139898387
+2125740706,Privacy for LBSs On Using a Footprint Model to Face the Enemy,2015,38,1,2,1.0,2106391782,Luciana Marconi,0,0.02293663600107093,0.9071080784461207
+2111062655,PEAC a probabilistic efficient and resilient authentication protocol for broadcast communications,2008,19,1,1,1.0,2110325532,Roberto Di Pietro,0,-0.8217384653599595,-0.4119417994382077
+2126036933,Maximizing service availability for secure satellite broadcasting,2008,23,1,1,1.0,2110325532,Roberto Di Pietro,0,0.19229923349350797,-1.8828343530747595
+2147510930,Collaborative authentication in unattended WSNs,2009,21,37,4,0.0,465425324,Gene Tsudik,0,-0.56672323909131,-0.26400415585028625
+2144925780,Mobility and cooperation to thwart node capture attacks in MANETs,2009,43,34,1,1.0,2110325532,Roberto Di Pietro,0,0.09458599116408749,0.2539764033489305
+2186805700,Maximizing data survival in Unattended Wireless Sensor Networks against a focused mobile adversary,2008,23,6,4,0.0,465425324,Gene Tsudik,0,-0.17324153726119554,0.6587671663167594
+2145280411,Securing Mobile Unattended WSNs against a Mobile Adversary,2010,23,22,4,0.0,465425324,Gene Tsudik,0,0.2365586706238459,0.06644653814575092
+2157342211,Secure virtualization for cloud computing,2011,38,279,2,1.0,2095740342,Flavio Lombardi,0,0.04091080791652015,1.4697839319810537
+2154537314,Taming role mining complexity in RBAC,2010,25,34,4,1.0,1989358788,Nino Vincenzo Verde,0,0.3762977653650511,1.3795224063933595
+2166999593,Secure topology maintenance and events collection in WSNs,2011,30,6,1,1.0,2110325532,Roberto Di Pietro,0,-0.07775928594063239,0.9317651044333375
+2164020921,Information confinement privacy and security in RFID systems,2007,24,30,2,0.0,2071596984,Refik Molva,0,-1.335328368283096,-0.4701359961713143
+2188260304,of Handheld and Wearable Wireless Devices,2003,12,0,1,1.0,2110325532,Roberto Di Pietro,0,0.0040557659796233,0.2757546058061082
+2150038472,Epidemic data survivability in unattended wireless sensor networks,2011,25,22,2,1.0,1989358788,Nino Vincenzo Verde,0,-0.17324153726119554,0.6587671663167594
+2229578850,VISIO A Visual Approach for Singularity Detection in Recommendation Systems,2015,18,1,3,0.842849,2001102710,Angelo Spognardi,0,-0.18618689656946605,0.637946401295037
+2306359658,Increasing Authentication and Communication Confidentiality in Wireless Sensor Networks,2004,0,0,1,1.0,2110325532,Roberto Di Pietro,0,-0.4340942520801243,0.3619386618945468
+2285521107,Proof of ownership for deduplication systems A secure scalable and efficient solution,2016,22,15,1,1.0,2110325532,Roberto Di Pietro,0,-0.10668242624892976,0.8421412599885452
+2320673198,CURE-Towards enforcing a reliable timeline for cloud forensics,2016,52,5,3,1.0,1990322502,Roberto Battistoni,0,-0.17324153726119554,0.6587671663167594
+2290546217,OS and Network Security,2010,14,0,2,1.0,1989358788,Nino Vincenzo Verde,0,0.3259332239481683,0.5745734317069635
+2295915781,Alterdroid Differential Fault Analysis of Obfuscated Smartphone Malware,2016,42,9,4,0.452767,110840802,Guillermo Suarez Tangil,0,0.8048641418716678,0.2766805891561052
+2296126988,FRoDO Fraud Resilient Device for Off-Line Micro-Payments,2016,41,2,2,1.0,2095740342,Flavio Lombardi,0,0.10799131863608863,0.5785507009884866
+2282727223,HyBIS Advanced Introspection for Effective Windows Guest Protection,2017,28,3,2,1.0,2095740342,Flavio Lombardi,0,-0.3976003713362508,1.164290882867107
+2397340667,SOLDI Secure Off-Line Disposable CredIts to Secure Mobile Micro Payments,2014,36,0,2,1.0,2095740342,Flavio Lombardi,0,-0.5745905101265206,0.17441866482894408
+2497180691,Security and Privacy in Unattended Sensor Networks (or How to Cope with a Mobile Adversary),2008,8,0,3,1.0,2001102710,Angelo Spognardi,0,-0.17324153726119554,0.6587671663167594
+2572015002,Social Fingerprinting - or the Truth About You,2016,0,0,4,0.0,1838429848,Maurizio Tesconi,0,0.0040557659796233,0.2757546058061082
+2530540121,Secure Management of Virtualized Resources,2016,64,1,2,1.0,2095740342,Flavio Lombardi,0,0.0040557659796233,0.2757546058061082
+2550874390,To Docker or Not to Docker A Security Perspective,2016,6,46,1,1.0,2110325532,Roberto Di Pietro,0,0.3191667385199317,1.3680776132167063
+2528924977,Computing Technology for Trusted Cloud Security,2016,2,1,2,1.0,2095740342,Flavio Lombardi,0,0.0040557659796233,0.2757546058061082
+2805590110,A blockchain-based Trust System for the Internet of Things,2018,16,6,1,1.0,2110325532,Roberto Di Pietro,0,-0.3202124565190596,-0.8215168416622938
+2796791247,A Spark is Enough in a Straw World a Study of Websites Password Management in the Wild,2018,13,0,1,1.0,2110325532,Roberto Di Pietro,0,-1.284301679360996,0.1363060812520353
+2794193635,Assessment and Authorization in Private Cloud Security,2016,32,0,2,1.0,2095740342,Flavio Lombardi,0,0.01729573639416045,0.692733692908092
+2863404985,BAD Blockchain Anomaly Detection,2018,16,6,1,1.0,2110325532,Roberto Di Pietro,0,-0.04365827863220513,0.5352201027803423
+2882991030,Virtualization Technologies and Cloud Security Advantages Issues and Perspectives,2018,53,1,2,1.0,2095740342,Flavio Lombardi,0,0.0040557659796233,0.2757546058061082
+2885215489,N-Guard a Solution to Secure Access to NFC tags,2018,19,0,2,1.0,1878349279,Gabriele Oligeri,0,-0.132546464766419,0.8205331038467812
+2925316741,Key is in the Air Hacking Remote Keyless Entry Systems,2018,9,2,1,1.0,2110325532,Roberto Di Pietro,0,0.04841774909296905,0.2906464507864569
+2911222431,Picking a Needle in a Haystack Detecting Drones via Network Traffic Analysis,2019,23,1,3,1.0,288632346,Savio Sciancalepore,0,-0.015296254716123447,0.40424678126495084
+2911686637,Proceedings of the fifth ACM conference on Security and Privacy in Wireless and Mobile Networks,2012,0,2,3,0.0,533826689,Wade Trappe,0,-0.5266229384454184,1.67617826052893
+2952105332,Silence is Golden exploiting jamming and radio silence to communicate,2013,17,0,2,1.0,1878349279,Gabriele Oligeri,0,0.09593154551261635,1.259311651086941
+2940541697,Foundations Properties and Security Applications of Puzzles A Survey,2019,98,0,1,1.0,2110325532,Roberto Di Pietro,0,-0.26983288026558244,-0.354654703163657
+2952627638,The Smallville Effect Social Ties Make Mobile Networks More Secure Against the Node Capture Attack,2009,27,2,1,1.0,2110325532,Roberto Di Pietro,0,0.0040557659796233,0.2757546058061082
+2963108375,A Spark Is Enough in a Straw World A Study of Websites Password Management in the Wild,2018,14,0,1,1.0,2110325532,Roberto Di Pietro,0,-1.2839952478901029,-0.18231527965696512
+2953021616,PRISM - Privacy-Preserving Search in MapReduce,2011,0,1,4,0.532684,2025451962,Melek Ã–nen,0,0.03414406787360945,0.2818663120264617
+2953045925,Virtualization Technologies and Cloud Security advantages issues and perspectives,2018,47,0,2,1.0,2095740342,Flavio Lombardi,0,0.0040557659796233,0.2757546058061082
+2999474951,Short-Range Audio Channels Security Survey of Mechanisms Applications and Research Challenges,2020,125,1,2,1.0,288632346,Savio Sciancalepore,0,-0.5530861437885858,-0.004176666300269333
+2990862988,Web-sites password management (in)security Evidence and remedies,2019,0,0,1,1.0,2110325532,Roberto Di Pietro,0,-0.5595648742352698,0.511722736886325
+2969725775,JAM-ME Exploiting Jamming to Accomplish Drone Mission,2019,21,0,2,1.0,1878349279,Gabriele Oligeri,0,0.1639362940477497,0.6530314529854678
+2979883059,BrokenStrokes On the (in)Security of Wireless Keyboards,2019,40,0,2,1.0,288632346,Savio Sciancalepore,0,0.08766543351943892,-0.22748885993608753
+2994444058,PiNcH an Effective Efficient and Robust Solution to Drone Detection via Network Traffic Analysis,2019,41,0,3,1.0,288632346,Savio Sciancalepore,0,-0.015296254716123447,0.40424678126495084
+2971226509,Edge Computing Perspectives Architectures Technologies and Open Security Issues,2019,23,3,2,1.0,2095740342,Flavio Lombardi,0,0.2852816273504668,1.705925086005584
+3003847829,A Longitudinal Study on Web-sites Password Management (in)Security Evidence and Remedies,2019,16,0,1,1.0,2110325532,Roberto Di Pietro,0,-0.5595648742352698,0.511722736886325
+3004042723,Cryptomining Makes Noise a Machine Learning Approach for Cryptojacking Detection,2020,22,0,1,1.0,2110325532,Roberto Di Pietro,0,-0.3730826806902334,0.4506578865228022
+3011335693,A Longitudinal Study on Web-Sites Password Management (in)Security Evidence and Remedies,2020,0,0,1,1.0,2110325532,Roberto Di Pietro,0,-0.7343125860017725,0.5030011126569359
+3018180714,Security in Energy Harvesting Networks A Survey of Current Solutions and Research Challenges,2020,196,0,2,1.0,288632346,Savio Sciancalepore,0,0.09331118645587472,-0.15275771086322695
+3005645333,Fridges on the Highway Road Traffic Poisoning of Navigation Apps,2020,12,0,2,1.0,288632346,Savio Sciancalepore,0,0.3191667385199317,1.3680776132167063
+3005868211,MAGNETO Fingerprinting USB Flash Drives via Unintentional Magnetic Emissions,2020,17,0,2,1.0,288632346,Savio Sciancalepore,0,-0.22256970966841327,0.42114124282802107
+3010409379,Vessels Cybersecurity Issues Challenges and the Road Ahead,2020,10,0,2,1.0,288632346,Savio Sciancalepore,0,-0.060498523193306696,0.5133280857003636

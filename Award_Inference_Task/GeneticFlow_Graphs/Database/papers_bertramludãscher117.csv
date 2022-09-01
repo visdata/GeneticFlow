@@ -1,0 +1,91 @@
+154840681,Declarative rules for inferring fine-grained data provenance from scientific workflow execution traces,2012,19,18,2,0.0,2122508644,Shawn Bowers,0,0.43724108954215046,0.7901116284163048
+174869497,A transducer-based XML query processor,2002,29,156,1,1.0,2239188769,Bertram LudÃ¤scher,0,1.7382007121230072,-0.6325717211787314
+22495568,Multi-lingual Semantic Matching with OrdPath in Relational Systems,2007,25,149,3,0.0,2116519607,Juliana Freire,0,1.176820644478128,0.051842402646047926
+80553187,Database support for exploring scientific workflow provenance graphs,2012,23,7,2,0.0,2122508644,Shawn Bowers,0,0.55286222937823,0.31831049420983154
+167899263,Improving workflow fault tolerance through provenance-based recovery,2011,24,15,3,1.0,2145432037,Sven KÃ¶hler,0,0.6665041731034329,1.4901896955761065
+67041390,Incorporating semantics in scientific workflow authoring,2005,5,57,4,0.0,300215091,Mark Schildhauer,0,0.6665041731034329,1.4901896955761065
+233048004,Computing Location-Based Lineage from Workflow Specifications to Optimize Provenance Queries,2014,16,1,4,1.0,2114239043,Saumen Dey,0,0.6665041731034329,1.4901896955761065
+306040822,Provenance-Based Searching and Ranking for Scientific Workflows,2014,7,2,3,1.0,1211950419,VÃ­ctor Cuevas VicenttÃ­n,0,0.2946713761785912,0.4027268098681643
+1514289971,Towards automatic generation of semantic types in scientific workflows,2005,14,12,2,1.0,2122508644,Shawn Bowers,0,0.4701680538946624,0.7526452175571507
+1498401597,A System for Managing Alternate Models in Model-Based Mediation,2002,5,2,4,1.0,665904529,Maryann E. Martone,0,0.26096573176132587,-0.21225661364732895
+1562066343,PROPUB towards a declarative approach for publishing customized policy-aware provenance,2011,34,28,2,1.0,2114239043,Saumen Dey,0,-0.0873632243068517,-0.0824034282341078
+1526508038,Actor-oriented design of scientific workflows,2005,17,112,2,1.0,2122508644,Shawn Bowers,0,0.16794019297112284,-0.07550660573803132
+1518710924,A calculus for propagating semantic annotations through scientific workflow queries,2006,27,26,2,1.0,2122508644,Shawn Bowers,0,0.5086806428409748,0.22713255425500928
+1573128770,Kepler/pPOD Scientific Workflow and Provenance Support for Assembling the Tree of Life,2008,14,50,3,1.0,2122508644,Shawn Bowers,0,0.5114268048975001,1.398924112118133
+1555210244,Referential Actions From Logical Semantics to Implementation,1998,13,3,2,0.0,2118015496,Wolfgang May,0,0.7129114954515203,0.12498009169346014
+1510958043,Reminiscences on Influential Papers - Kenneth A Ross,2004,0,0,3,0.0,53579654,Zachary G. Ives,0,-0.0041099411153885,0.0447066884760059
+1485275407,Exploring Scientific Workflow Provenance Using Hybrid Queries over Nested Data and Lineage Graphs,2009,24,47,2,1.0,2122508644,Shawn Bowers,0,0.428637399338428,0.6043020126038704
+1556309875,An Ontology-Driven Framework for Data Transformation in Scientific Workflows,2004,22,120,2,1.0,2122508644,Shawn Bowers,0,0.5569311834746082,-0.0356598035674476
+1486579717,Processing Unions of Conjunctive Queries with Negation under Limited Access Patterns,2004,15,29,2,0.0,2135569827,Alan Nash,0,0.607897551272699,0.14376799943257282
+1504026549,Project histories managing data provenance across collection-oriented scientific workflow runs,2007,19,26,2,1.0,2122508644,Shawn Bowers,0,0.8679322465541894,1.1883056250617092
+1522345139,Time to Leave the Trees From Syntactic to Conceptual Querying of XML,2002,13,9,3,1.0,1988531382,Ilkay Altintas,0,2.3721957445061994,-0.9194298222770129
+1636538241,D-PROV extending the PROV provenance model with workflow structure,2013,17,38,5,0.0,542769824,Khalid Belhajjame,0,0.2946713761785912,0.4027268098681643
+1637388529,Scientific and Statistical Database Management,2011,0,1,2,0.0,18851973,Nikos Mamoulis,0,2.52102099554283,0.6285405124309128
+1579538229,Data procurement for enabling scientific workflows on exploring inter-ant parasitism,2004,8,6,3,0.0,1961842650,David Thau,0,0.9746122025091651,0.4087957544172404
+1963480624,XML-based information mediation for digital libraries,1999,0,33,6,0.0,58344957,Yannis Papakonstantinou,0,0.05761479361024544,0.03450897780099484
+1589569633,Abstract Provenance Graphs Anticipating and Exploiting Schema-Level Data Provenance,2010,13,9,1,1.0,2239188769,Bertram LudÃ¤scher,0,1.0729934055598953,0.3482623518868184
+1855254770,Collection-Oriented scientific workflows for integrating and analyzing biological data,2006,24,54,2,1.0,2122508644,Shawn Bowers,0,0.4834916689206963,1.0535136235015616
+1600164418,Registering Scientific Information Sources for Semantic Mediation,2002,32,0,3,1.0,665904529,Maryann E. Martone,0,0.32281225553475323,-0.3336099685202148
+1592782488,Approaches for Exploring and Querying Scientific Workflow Provenance Graphs,2010,17,7,3,0.788874,1988531382,Ilkay Altintas,0,0.27764364614758763,0.5591421111564561
+1601909152,Navigating Virtual Information Sources with Know-ME,2002,3,2,3,1.0,665904529,Maryann E. Martone,0,0.23011498259479124,-0.33708515431940783
+1785355888,A model for user-oriented data provenance in pipelined scientific workflows,2006,24,90,4,0.0,2097328450,Susan B. Davidson,0,0.22158963759940864,0.31908569023588573
+1603452503,A scientific workflow approach to distributed geospatial data processing using web services,2005,4,52,5,0.0,89804679,William K. Michener,0,-0.3706067985005987,-0.11319434159455646
+1985732048,Preservation of digital data with self-validating self-instantiating knowledge-based archives,2001,7,21,1,1.0,2239188769,Bertram LudÃ¤scher,0,0.3520467010921718,-0.34972425718474637
+1968493462,A declarative approach to customize workflow provenance,2013,18,2,2,1.0,2114239043,Saumen Dey,0,0.1395754149529558,0.19864669159736903
+1972743486,Efficient provenance storage over nested data collections,2009,40,61,2,1.0,2122508644,Shawn Bowers,0,0.5296158672655169,0.9469518625182892
+1996599304,Scientific workflow design with data assembly lines,2009,34,21,2,1.0,2122508644,Shawn Bowers,0,1.4909944687835686,0.8874872245163676
+2016042210,Streaming satellite data to cloud workflows for on-demand computing of environmental data products,2010,25,10,2,0.327989,702719015,Yogesh Simmhan,0,0.22158963759940864,0.31908569023588573
+2016488143,Linking multiple workflow provenance traces for interoperable collaborative science,2010,16,27,6,0.788874,1988531382,Ilkay Altintas,0,0.7851953996772681,1.1995393447365412
+2014930052,Report on the EDBT02 panel on scientific data integration,2002,9,14,5,0.0,263865610,ZoÃ© Lacroix,0,0.2807600744873719,-0.0746967125258062
+2052364004,Modeling and Querying Scientific Workflow Provenance in the D-OPM,2012,15,14,5,1.0,1211950419,VÃ­ctor Cuevas VicenttÃ­n,0,0.8324801991374334,1.2862636871266686
+2052409393,Managing semistructured data with florid a deductive object-oriented perspective,1998,28,119,5,0.0,91862343,Georg Lausen,0,0.7642480788238699,-0.2628515850258743
+2043871269,A navigation model for exploring scientific workflow provenance graphs,2009,31,14,2,1.0,2122508644,Shawn Bowers,0,0.229731451809878,0.8981906141501537
+2050483444,Techniques for efficiently querying scientific workflow provenance graphs,2010,29,63,2,0.909798,2122508644,Shawn Bowers,0,-0.14214593158357536,0.4052088970922569
+2071588600,Win-move is coordination-free (sometimes),2012,23,26,2,0.0,2134590689,Todd J. Green,0,0.13503207128994535,0.3281120777835535
+2072303404,XML-based computation for scientific workflows,2010,4,7,2,0.909798,2122508644,Shawn Bowers,0,-0.01759707941373736,0.7988932106173781
+2095132022,A cell-centered database for electron tomographic data,2002,46,98,7,0.0,62132045,Mark H. Ellisman,0,0.18601297105691045,-0.0008472885667257998
+2090166250,Provenance browser Displaying and querying scientific workflow provenance graphs,2010,11,32,2,0.909798,2122508644,Shawn Bowers,0,0.04065519914566912,0.23942870341150768
+2098618539,Knowledge-based integration of neuroscience data sources,2000,23,58,3,1.0,665904529,Maryann E. Martone,0,-0.06297828307360653,-0.28359128730597366
+2134899277,Model-based mediation with domain maps,2001,15,96,3,1.0,665904529,Maryann E. Martone,0,0.3656460775562998,-0.17687451183451927
+2123576887,A modeling and execution environment for distributed scientific workflows,2003,3,24,11,0.276626,22582878,Terence Critchlow,0,0.09245345964671092,0.007491185684228065
+2123663722,Kepler an extensible system for design and execution of scientific workflows,2004,2,687,4,1.0,1988531382,Ilkay Altintas,0,0.6900820231526484,1.019464927430586
+2126778319,Understanding collaborative studies through interoperable workflow provenance,2010,30,20,8,0.0,193273906,Daniel Crawl,0,0.9022751261179203,1.376973950838649
+2120910945,Multi-level Information Modeling and Preservation of eGOV Data,2002,5,0,2,0.0,216134036,Keith Pezzoli,0,0.6209376733869459,-0.051268644413464425
+2124944069,X-CSR Dataflow Optimization for Distributed XML Process Pipelines,2009,35,8,2,1.0,2122508644,Shawn Bowers,0,1.6339273750574808,-0.6401504364249582
+2119287949,Query evaluation and presentation planning within a spatial mediator extending XML-based mediation to heterogeneous sources of GIS and imagery data,2001,6,6,2,1.0,2138312864,Amarnath Gupta,0,0.7085714632341662,-0.19161520863469056
+2131104275,Compiling abstract scientific workflows into Web service workflows,2003,7,45,3,1.0,1988531382,Ilkay Altintas,0,-0.061160800763411925,0.16689933912750404
+2119461823,Navigation-Driven Evaluation of Virtual Mediated Views,2000,17,58,2,1.0,144586491,Pavel Velikhov,0,0.5418577112701125,-0.24831527852331414
+2131397339,Web service composition through declarative queries the case of conjunctive queries with union and negation,2004,3,7,2,0.0,2135569827,Alan Nash,0,0.651786865585849,0.33869901878142344
+2107812660,Towards self-validating knowledge-based archives,2001,6,11,1,1.0,2239188769,Bertram LudÃ¤scher,0,0.22215519535548522,-0.41050843351755206
+2134441603,Towards best-effort merge of taxonomically organized data,2010,12,4,3,0.0,1961842650,David Thau,0,0.14451691760909147,0.03916598911296054
+2131780143,Scientific workflow design 20 Demonstrating streaming data collections in Kepler,2011,11,23,5,0.817958,2122508644,Shawn Bowers,0,0.8676882033553999,1.5722180542379618
+2140949696,An Extensible Infrastructure for Processing Distributed Geospatial Data Streams,2006,6,9,4,0.0,2006920297,Michael Gertz,0,-0.0878171187821402,0.35026257574379205
+2159394607,Parallelizing XML data-streaming workflows via MapReduce,2010,51,27,3,0.909798,2122508644,Shawn Bowers,0,1.2542116886827501,-0.37417203869319876
+2147572964,Provenance in collection-oriented scientific workflows,2008,9,54,2,1.0,2122508644,Shawn Bowers,0,0.69707551933722,1.8297958138375416
+2150656025,Enabling ScientificWorkflow Reuse through Structured Composition of Dataflow and Control-Flow,2006,29,67,3,0.276626,22582878,Terence Critchlow,0,-0.11480508743103986,0.3051085729721401
+2165942049,Towards Reliable Performant Workflows for Streaming-Applications on Cloud Platforms,2011,32,26,4,0.327989,702719015,Yogesh Simmhan,0,0.22158963759940864,0.31908569023588573
+2154063224,Guest editors introduction to the special section on scientific workflows,2005,8,47,2,0.0920995,2122310831,Carole Goble,0,1.0681563209081988,2.00500913023351
+2145637347,On integrating scientific resources through semantic registration,2004,5,33,2,1.0,2122508644,Shawn Bowers,0,0.2209888645196941,0.19722902440435405
+2145862953,Report on the Principles of Provenance Workshop,2008,13,8,3,0.0,2020138198,Peter Buneman,0,-0.02574892378208384,0.3552841578418433
+2166974522,What Makes Scientific Workflows Scientific,2009,12,4,1,1.0,2239188769,Bertram LudÃ¤scher,0,0.0831025117962919,0.30045524840848487
+2170192471,XML-based information mediation with MIX,1999,8,232,5,1.0,144586491,Pavel Velikhov,0,2.2264543832113666,-0.864750789273662
+2235620837,Reconciling provenance policy conflicts by inventing anonymous nodes,2011,21,2,2,1.0,2114239043,Saumen Dey,0,0.1395754149529558,0.19864669159736903
+2221828014,Improving Workflow Design Using Abstract Provenance Graphs,2014,10,0,4,1.0,2114239043,Saumen Dey,0,1.0171666831364772,1.7084010741382796
+2218044763,Provenance for Explaining Taxonomy Alignments,2014,9,5,4,0.0,1597461107,Parisa Kianmajd,0,-0.0041099411153885,0.0447066884760059
+2280491898,Provenance Storage Querying and Visualization in PBase,2014,2,2,8,1.0,1211950419,VÃ­ctor Cuevas VicenttÃ­n,0,0.17106384747153316,0.1974539911095589
+2341708701,Scientific Data Management (SDM) Center for Enabling Technologies Final Report 2007-2012,2013,0,0,2,0.688046,1988531382,Ilkay Altintas,0,0.6181094581243957,1.234091202045179
+2347122062,An Efficient Implementation of Game Provenance in DBMS,2015,23,1,3,0.124645,1263411180,Boris Glavic,0,0.33631818784868395,0.18479395353461048
+2342500613,Workflows for microarray data processing in the,2012,32,0,3,0.0,2013279577,Mark Bieda,0,-0.13234047104849764,-0.017822429578657945
+2476103762,Implementing Unified Why- and Why-Not Provenance Through Games,2016,3,1,3,0.124645,1263411180,Boris Glavic,0,0.31908170433169974,0.1710331722079988
+2479400499,A Brief Tour Through Provenance in Scientific Workflows and Databases,2016,82,3,1,1.0,2239188769,Bertram LudÃ¤scher,0,0.2946713761785912,0.4027268098681643
+2502199675,Yin &amp; Yang Demonstrating Complementary Provenance from noWorkflow &amp; YesWorkflow,2016,7,9,7,0.0,542769824,Khalid Belhajjame,0,-0.0041099411153885,0.0447066884760059
+2470445494,DataONE A Data Federation with Provenance Support,2016,7,8,6,1.0,1211950419,VÃ­ctor Cuevas VicenttÃ­n,0,-0.0041099411153885,0.0447066884760059
+2583126405,Actor-oriented design of scientific workflows,2005,0,7,2,1.0,2122508644,Shawn Bowers,0,0.16794019297112284,-0.07550660573803132
+2531316959,Provenance Cantral More Mikeage from Provenance Metadata,2014,0,0,2,0.0,2075150303,Paolo Missier,0,-0.313973372682408,-0.040558595414381005
+2580430195,Efficiently Computing Provenance Graphs for Queries with Negation,2016,21,4,3,0.124645,1263411180,Boris Glavic,0,0.31908170433169974,0.1710331722079988
+2606811865,A SQL-Middleware Unifying Why and Why-Not Provenance for First-Order Queries,2017,26,11,3,0.0943895,1263411180,Boris Glavic,0,0.1793027616511897,0.18583568388951835
+2746538584,Using YesWorkflow hybrid queries to reveal data lineage from data curation activities,2017,1,0,5,0.0,2128667874,Paul J. Morris,0,-0.01684161291253694,0.11769353231748075
+2889548904,Provenance Summaries for Answers and Non-Answers,2018,0,2,2,0.0867872,1263411180,Boris Glavic,0,-0.0041099411153885,0.0447066884760059
+2986270626,Multi-level information modeling and preservation of eGOV data,2002,0,0,2,0.0,216134036,Keith Pezzoli,0,1.055057227447295,-0.0187362338534582
+3011197833,Approximate summaries for why and why-not provenance,2020,0,0,2,0.0,1263411180,Boris Glavic,0,-0.0041099411153885,0.0447066884760059
+3021045831,Lecture Notes in Bioinformatics (Subseries of Lecture Notes in Computer Science) Preface,2005,0,0,2,0.0,285822418,Louiqa Raschid,0,-0.0041099411153885,0.0447066884760059

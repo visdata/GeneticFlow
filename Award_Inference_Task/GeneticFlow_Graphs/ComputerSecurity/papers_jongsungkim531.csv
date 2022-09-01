@@ -1,0 +1,66 @@
+211427769,Multiple Impossible Differential Cryptanalysis of Block Cipher CLEFIA and ARIA,2009,12,1,1,0,2103203241,Jongsung Kim,0,0.592675807458846,-2.1202785518789313
+141793162,Side-Channel Attacks on AES Based on Meet-in-the-Middle Technique,2009,0,0,1,0,2103203241,Jongsung Kim,0,1.3109442272482046,-1.1822945202724355
+57168481,Provable Security for New Block Cipher Structures against Differential Cryptanalysis and Linear Cryptanalysis,2007,0,0,1,0,2103203241,Jongsung Kim,0,1.4765293977264695,-2.481841054296749
+82053679,A Differential Fault Attack against Block Cipher HIGHT,2012,15,0,1,0,2103203241,Jongsung Kim,0,2.763330461372296,-2.2351885622525547
+234733514,Study on Weak-Key Classes for KeeLoq,2009,9,0,1,0,2103203241,Jongsung Kim,0,0.963419224403685,-1.577083721279438
+331277413,Differential Cryptanalysis of a 20-Round Reduced SMS4 Block Cipher,2008,0,0,1,0,2103203241,Jongsung Kim,0,1.653669716652677,-2.527556368914961
+303279783,Security Analysis of AES for Related-Key Rectangle Attacks,2009,0,0,1,0,2103203241,Jongsung Kim,0,0.2018268678365599,0.1425886522275585
+760958138,Improved Security Analysis of Reduced SMS4 Block Cipher,2009,0,0,1,0,2103203241,Jongsung Kim,0,1.4566683496374788,-0.9856651282758566
+281396471,Pseudorandom Permutation and Function Families Secure against Related-Key Attacks,2007,0,1,1,0,2103203241,Jongsung Kim,0,0.8914743655762217,-0.3917809063808364
+841871142,Performance Improvement of Power Attacks with Truncated Differential Cryptanalysis,2009,8,1,1,0,2103203241,Jongsung Kim,0,2.13844590798574,-2.3352995117681754
+845061870,Padding Oracle Attacks on Multiple Modes of Operation,2006,0,0,1,0,2103203241,Jongsung Kim,0,0.4412993940793412,-2.337149400930099
+576870308,Security Analysis on the Full-Round SCO-1,2008,0,0,1,0,2103203241,Jongsung Kim,0,2.3165807900565647,-2.962896889969573
+854668791,Collision Attacks on Crypton and mCrypton,2009,10,0,1,0,2103203241,Jongsung Kim,0,-0.8084315068507567,-0.4867055425443288
+800800039,Related-Key Differential Attacks on the Block-wise Stream Cipher TWOPRIME,2007,0,0,1,0,2103203241,Jongsung Kim,0,1.8318156629005462,-1.916610386384661
+1568817903,Related-key rectangle attacks on reduced AES-192 and AES-256,2007,47,73,1,0,2103203241,Jongsung Kim,0,1.5502898870199455,-1.8792543606665741
+1518747591,Forgery and key recovery attacks on PMAC and mitchells TMAC variant,2006,20,4,1,0,2103203241,Jongsung Kim,0,0.35167964440081173,-0.7411137617590031
+1528631649,Related-key and meet-in-the-middle attacks on Triple-DES and DES-EXE,2005,22,8,1,0,2103203241,Jongsung Kim,0,1.1925055565445364,-2.2222943170917486
+1512747619,A Cryptanalytic View of the NSAs Skipjack Block Cipher Design,2009,43,4,1,0,2103203241,Jongsung Kim,0,0.9084659814295245,-1.6371098370359165
+1486887102,Related-Key attacks on reduced rounds of SHACAL-2,2004,14,19,1,0,2103203241,Jongsung Kim,0,2.2243939367016363,-2.124913753271242
+1596123071,Padding oracle attacks on multiple modes of operation,2004,11,4,1,0,2103203241,Jongsung Kim,0,0.7101060869603917,-1.7042008089680287
+1829558115,Impossible Differential Attack on 30-Round SHACAL-2,2003,7,15,1,0,2103203241,Jongsung Kim,0,1.706356883710114,-2.2069944154648136
+1969840971,Special issue on wireless multimedia networks and security services,2013,0,1,1,0,2103203241,Jongsung Kim,0,0.30891067873356376,0.23569415061557317
+1979102381,Security analysis of the SCO-family using key schedules,2009,13,5,1,0,2103203241,Jongsung Kim,0,1.8402964452381534,-2.1997706707528177
+1966923271,Advanced Differential-Style Cryptanalysis of the NSAs Skipjack Block Cipher,2009,51,24,1,0,2103203241,Jongsung Kim,0,0.7515304896159547,-0.9814214184007369
+1973990443,A strongly secure pairing-free certificateless authenticated key agreement protocol suitable for smart media and mobile environments,2015,22,2,3,0,2096360925,Hang Tu,0,-0.19972133415293733,-2.7239802776734274
+1979420566,An efficient password-based three-party authenticated multiple key exchange protocol for wireless mobile networks,2014,15,4,3,0,2096360925,Hang Tu,0,-2.052146081656988,-2.6144668677907554
+1972539921,Analysis of a Buyer---Seller Watermarking Protocol for Trustworthy Purchasing of Digital Contents,2011,27,8,3,0,2057853179,Bok Min Goi,0,0.5703352684308043,0.14451138798643423
+1969393637,IT convergence security,2014,4,1,1,0,2103203241,Jongsung Kim,0,-1.04102498767886,2.011262696274836
+1980080038,A Proposed Authentication Protocol for Mobile Users of WiMAX Networks,2010,6,2,3,0,97975655,Sherali Zeadally,0,-2.4425688481813634,-1.992665504619138
+1994685394,Correlating messages from multiple IM networks to identify digital forensic artifacts,2014,23,4,1,0,2103203241,Jongsung Kim,0,-0.06581350464205314,0.659152251186341
+2017118405,Security analysis of the full-round DDO-64 block cipher,2008,26,8,1,0,2103203241,Jongsung Kim,0,1.6361481537973228,-1.8719723708052287
+2023502106,Improved Related-key Attack against Recent Lightweight Block Cipher PRINCE,2014,4,0,2,0,2099049638,Okyeon Yi,0,1.0627152044643509,-1.0931245561569092
+2016766565,Analysis of Padding Oracle Attack Possibility about Application Environment; SRTP MIKEY CMS IPSec TLS IPTV,2015,0,0,1,0,2103203241,Jongsung Kim,0,-0.07026298764547187,-2.0386994737080313
+2044077506,Side-channel attacks on HIGHT with reduced masked rounds suitable for the protection of multimedia computing system,2012,15,0,1,0,2103203241,Jongsung Kim,0,0.6473589033298576,0.2468578785892973
+2033837427,Study on two privacy-oriented protocols for information communication systems,2014,14,1,1,0,2103203241,Jongsung Kim,0,-0.7491550556451504,-1.0653089266790225
+2044623052,Differential Fault Analysis of the Block Cipher LEA,2014,1,1,1,0,2103203241,Jongsung Kim,0,1.355976013031886,-1.0828426455120734
+2056597178,DES with any reduced masked rounds is not secure against side-channel attacks,2010,12,8,1,0,2103203241,Jongsung Kim,0,1.2428690030184977,-0.920713818343584
+2132201255,Security Analysis of CIKS-128 and CIKS-128H Using Key Schedule Weaknesses,2008,8,0,1,0,2103203241,Jongsung Kim,0,1.4184976466648294,-1.001183070892584
+2138868300,Related-key attacks on the full-round cobra-f64a and cobra-f64b,2006,20,8,1,0,2103203241,Jongsung Kim,0,1.7318229840198072,-1.524478334699617
+2141018433,Impossible Collision Based Side-Channel Attacks on HIGHT with Reduced Masked Rounds,2009,19,0,1,0,2103203241,Jongsung Kim,0,0.5760005673803958,-0.1626331888848785
+2170069610,Security Analysis of the Full-Round CHESS-64 Cipher Suitable for Pervasive Computing Environments,2009,18,0,1,0,2103203241,Jongsung Kim,0,1.3153368824964178,-1.2958605190016548
+2158296297,Side-Channel Attack Using Meet-in-the-Middle Technique,2010,0,3,1,0,2103203241,Jongsung Kim,0,1.2288584606524133,-1.2872452331616155
+2284115413,Cryptanalysis of SHACAL-1,2004,2,0,1,0,2103203241,Jongsung Kim,0,1.7915878543084902,-1.2288057919990336
+2304919176,CFES Comprehensive Framework for Forensic Analysis of Embedded Systems,2009,0,3,1,0,2103203241,Jongsung Kim,0,0.0040557659796233,0.2757546058061082
+2355552867,Safety Analysis of Various Padding Techniques on Padding Oracle Attack,2015,0,0,1,0,2103203241,Jongsung Kim,0,0.5286834289567958,-2.0916355605649803
+2339018681,Secure Mutual Authentication Protocol for RFID Based on Elliptic Curve Cryptography,2016,6,2,1,0,2103203241,Jongsung Kim,0,-1.256723306063498,-1.789128541489248
+2376652919,Side-Channel Attacks on LEA with reduced masked rounds,2015,3,0,1,0,2103203241,Jongsung Kim,0,1.9416753966315146,-1.7379919555365726
+2469620764,Related-key attacks on the full-round Cobra-F64a and Cobra-F64b,2006,0,3,1,0,2103203241,Jongsung Kim,0,1.5995649050698468,-1.3722521249785549
+2503150695,New Efficient Padding Methods Secure Against Padding Oracle Attacks,2015,12,0,1,0,2103203241,Jongsung Kim,0,0.15831828837084425,-1.8849769150035318
+2550879283,Study on Forensic Analysis with Access Control Modification for Registry,2016,0,0,1,0,2103203241,Jongsung Kim,0,-0.023550276898621297,0.7099097923564667
+2526355841,Improving the Efficiency of the EWF-file Imaging Time from a Cryptographic Perspective,2016,1,0,1,0,2103203241,Jongsung Kim,0,0.8836667689131736,-0.3010879446212299
+2517871853,A secure ECC-based RFID mutual authentication protocol for internet of things,2018,9,16,1,0,2103203241,Jongsung Kim,0,-1.9070483485164844,-1.9741660540027415
+2584913275,On the Security of Encryption Modes of MD4 MD5 and HAVAL,2005,0,6,1,0,2103203241,Jongsung Kim,0,-0.4507773134968363,-1.172884360755565
+2518462783,Study on Recovery Techniques for the Deleted or Damaged Event Log(EVTX) Files,2016,1,0,1,0,2103203241,Jongsung Kim,0,0.0040557659796233,0.2757546058061082
+2605521279,On the security of HMAC and NMAC based on HAVAL MD4 MD5 SHA-0 and SHA-1,2006,0,6,1,0,2103203241,Jongsung Kim,0,-1.1729340088261966,-1.5642638962151447
+2615018723,Related-key attacks on reduced rounds of SHACAL-2,2004,0,4,1,0,2103203241,Jongsung Kim,0,2.10320914889262,-1.0595111112117337
+2611704045,Forgery and Key Recovery Attacks on PMAC and Mitchells TMAC Variant,2006,0,2,1,0,2103203241,Jongsung Kim,0,-0.13675998376104412,-0.35025361052669074
+2807090259,How to decrypt PIN-Based encrypted backup data of Samsung smartphones,2018,1,2,1,0,2103203241,Jongsung Kim,0,0.29387494807528475,-0.8057246354570227
+2913074784,Decrypting password-based encrypted backup data for Huawei smartphones,2019,1,2,1,0,2103203241,Jongsung Kim,0,-0.18219647574970335,-0.7349223897253275
+2951769301,New Impossible Differential Attacks on AES,2008,0,0,3,0,2039105092,Nathan Keller,0,0.0040557659796233,0.2757546058061082
+2952457821,On the Security of Encryption Modes of MD4 MD5 and HAVAL,2005,0,0,1,0,2103203241,Jongsung Kim,0,-1.8060391803191256,-1.4295735275027543
+2967540466,A Study on the Decryption of Donut Ransomware through Memory Analysis,2019,0,0,1,0,2103203241,Jongsung Kim,0,-0.48047720290290913,1.3695682069170965
+2980409678,Forensic Analysis of the Secure Instant Messenger SureSpot,2019,0,0,1,0,2103203241,Jongsung Kim,0,0.28696988266405077,-0.7095197243827553
+2994330438,Data acquisition methods using backup data decryption of Sony smartphones,2019,4,0,1,0,2103203241,Jongsung Kim,0,0.06475848995253143,-0.08444194973000756
+3026163326,A Study on Encryption Process and Decryption of Ransomware in 2019,2019,0,0,1,0,2103203241,Jongsung Kim,0,-0.21775644230268854,0.5803339854095452
+3027164763,Study on Cryptographic Analysis of Erebus Ransomware,2018,0,0,1,0,2103203241,Jongsung Kim,0,-0.11023778593038824,0.7278437637491552

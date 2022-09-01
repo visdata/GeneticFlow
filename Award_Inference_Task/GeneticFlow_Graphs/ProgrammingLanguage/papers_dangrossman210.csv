@@ -1,0 +1,76 @@
+72673385,Compiling for Runtime Code Generation (Extended Version),2000,17,2,4,1.0,230507561,Luke Hornof,0,-0.6049147778052618,-0.3054754732290712
+177812409,Type Safety and Erasure Proofs for â€œA Type System for Coordinated Data Structuresâ€,2004,0,1,2,0.0,2222051753,Michael F. Ringenburg,0,0.03903577999032095,-0.030436698012327647
+127506714,TALx86 A Realistic Typed Assembly Languageâˆ—,1999,20,172,7,0.0,683339272,Greg Morrisett,0,1.2603462153114622,-1.5021810876752606
+25700174,Strong Atomicity for Java Without Virtual-Machine Support,2006,28,21,2,0.0,2116803991,Benjamin Hindman,0,-1.576373730011848,0.0327019252604008
+11646169,Compiling for Runtime Code Generation,2000,18,2,3,1.0,230507561,Luke Hornof,0,-1.223541803782251,0.1506848523142978
+65963009,Macah A &quot;C-Level&quot; Language for Programming Kernels on Coprocessor Accelerators,2008,22,2,5,0.0,1986529475,Brian Van Essen,0,0.3044036524025111,-0.3100251754305356
+1550402884,Scalable Certification of Native Code Experience from Compiling to TALx86,2000,16,4,2,0.330459,683339272,Greg Morrisett,0,-1.322857449902171,-0.4521278132352792
+1479933889,Scalable Certification for Typed Assembly Language,2000,28,19,2,0.0,1985120884,J. Gregory Morrisett,0,-0.614579161494581,-0.6601946090648753
+1509844231,Formal Type Soundness for Cyclones Region System,2001,22,9,6,0.149014,683339272,Greg Morrisett,0,-0.7705848752892228,-0.3070634550606709
+1902364372,Safe and Flexible Memory Management in Cyclone,2003,37,11,3,0.113114,683339272,Greg Morrisett,0,-1.0500554112373288,-0.1704588838089772
+1793982226,Java UI effects for controlling UI object access,2013,19,14,4,0.203466,2021751513,Werner Dietl,0,0.7869334841826092,-0.6757978598913709
+1825457006,Cyclone A Safe Dialect of C,2002,25,609,4,0.666667,2109605623,James Cheney,0,-0.21466789650756057,-0.5910177440055179
+1602573351,Existential Types for Imperative Languages,2002,18,18,1,1.0,2241310076,Dan Grossman,0,0.05603539839024191,-0.7953048641440521
+1981962444,Region-based memory management in cyclone,2002,31,302,6,0.0914826,683339272,Greg Morrisett,0,-1.3974288020810395,-0.5690949620928216
+1965446936,Test-driven synthesis,2014,34,50,3,0.00601293,310804771,Sumit Gulwani,0,0.9208156718668329,-0.3425182001688544
+2003299277,Symbolic execution of multithreaded programs from arbitrary program contexts,2014,39,16,2,1.0,185335767,Tom Bergan,0,0.4626436041223267,-0.25998984055178803
+1993794314,Quantified types in an imperative language,2006,68,11,1,1.0,2241310076,Dan Grossman,0,-0.09716106078767525,0.39180843776693514
+1994191642,Principals in programming languages a syntactic proof technique,1999,23,24,3,0.0,683339272,Greg Morrisett,0,1.133009302371991,-1.0769395702601303
+2013766080,Safe manual memory management in cyclone,2006,40,41,5,0.0,683339272,Greg Morrisett,0,-0.3816746581470398,-0.2302166896693016
+2029629172,An overview of the Oregon programming languages summer school,2010,0,0,9,0.0,197016611,Yannis Smaragdakis,0,-0.1164726804531344,0.019252515865476
+2019528623,Identifying and Summarizing Systematic Code Changes via Rule Inference,2013,48,46,4,0.0,477007165,David Notkin,0,1.156488743613368,-0.4291578409433162
+2041950498,Rely-guarantee references for refinement types over aliased mutable data,2013,49,11,3,1.0,2152026014,Colin S. Gordon,0,-0.22960141548975907,0.11626027843657778
+2040266445,A theory of platform-dependent low-level software,2008,32,16,3,0.0,2133284789,Craig Chambers,0,0.039672139249697244,-0.13268944456656603
+2049451779,Probability type inference for flexible approximate programming,2015,25,25,3,0.0,2133550971,Brett Boston,0,-0.5645613744597145,-0.11654686206563215
+2044460006,Introducing parallelism and concurrency in the data structures course,2012,9,17,2,0.0,2134809050,Ruth E. Anderson,0,-0.2268142716231431,-0.1590203910320284
+2045060485,How programming languages will co-evolve with software engineering a bright decade ahead,2014,38,9,1,1.0,2241310076,Dan Grossman,0,2.798457906906983,-0.04319635814505743
+2066600995,Input-covering schedules for multithreaded programs,2013,42,21,2,1.0,185335767,Tom Bergan,0,0.48292801525413437,0.25578757611178693
+2060029146,Syntactic type abstraction,2000,30,56,3,0.330459,683339272,Greg Morrisett,0,0.10033307620477479,-0.1820919288014161
+2076684240,Supporting dynamic third-party code customizations in JavaScript using aspects,2010,18,12,3,1.0,2052315200,Benjamin S. Lerner,0,-0.4046378356106146,-0.48566846165728417
+2097335450,Type-directed completion of partial expressions,2012,21,70,4,0.00601293,310804771,Sumit Gulwani,0,-0.4714977722570648,-0.06501782451181107
+2091418700,JDuck building a software engineering tool in Java as a CS2 project,1999,2,4,2,0.0,2140585296,Michael W. Godfrey,0,-1.8272760931536074,0.388044968026335
+2097687957,Type-safe multithreading in cyclone,2003,28,139,1,1.0,2241310076,Dan Grossman,0,-0.6677820574777803,-0.2798123471511091
+2083089270,Transactional events for ML,2008,23,17,3,1.0,35122271,Laura Effinger Dean,0,0.16877795073928303,-0.2802934978271732
+2141482968,Detecting conflicts among declarative UI extensions,2012,9,0,2,1.0,2052315200,Benjamin S. Lerner,0,-0.45173309850329113,-0.0877750700125756
+2105789303,What do high-level memory models mean for transactions ,2006,30,52,3,0.0,2098006947,William Pugh,0,-0.16491592935686322,0.02254593257848212
+2126928380,The transactional memory / garbage collection analogy,2007,48,48,1,1.0,2241310076,Dan Grossman,0,0.7318735491376692,-0.4520480110001572
+2138887367,Shared-memory concurrency control with a data-structures focus,2015,1,0,1,1.0,2241310076,Dan Grossman,0,0.0035537162848026708,0.6029186414470811
+2107399212,Expressing and verifying probabilistic assertions,2014,36,57,5,0.0,838603720,Pavel Panchekha,0,0.6623051410582647,0.06111997053713636
+2143283746,EnerJ approximate data types for safe and general low-power computation,2011,31,467,5,0.0,1995305523,Emily Fortuna,0,0.1293292977080947,-0.01956192700820494
+2134093956,Searching for type-error messages,2007,21,69,3,1.0,2052315200,Benjamin S. Lerner,0,-0.2961688117484807,0.18386802044955003
+2122391088,Atomicity via source-to-source translation,2006,30,61,2,0.0,2116803991,Benjamin Hindman,0,-3.097118890819871,0.08411583003000594
+2107750902,Composable specifications for structured shared-memory communication,2010,47,9,3,1.0,2136595716,Benjamin P. Wood,0,0.4383364970610623,0.1580407925272853
+2125749740,Automatic transformation of bit-level C code to support multiple equivalent data layouts,2008,20,6,2,0.0,2151819992,Marius Nita,0,-0.08583488287288443,0.0638148787542901
+2119964141,AtomCaml first-class atomicity via rollback,2005,39,94,2,0.0,2222051753,Michael F. Ringenburg,0,-0.12464163709163194,-0.35969178819416286
+2162184875,Principals in Programming Languages Technical Results,1999,18,0,2,0.0,1994212081,Steve Zdancewic,0,3.3130765027215237,-0.4811843264046576
+2165505463,Safe programming at the c level of abstraction,2003,190,14,2,0.113114,683339272,Greg Morrisett,0,-0.0929127833804988,-0.331559707299261
+2172064476,Enforcing isolation and ordering in STM,2007,57,172,7,0.0,46628356,Tatiana Shpeisman,0,-0.11757139386872864,-0.08864765175687883
+2157117208,Compiling for template-based run-time code generation,2003,23,20,3,1.0,230507561,Luke Hornof,0,-1.3913586731417849,-0.13565361238854834
+2163163794,RCDC a relaxed consistency deterministic computer,2011,38,61,4,1.0,185335767,Tom Bergan,0,-1.2974207915261946,-0.24316008808997347
+2169760870,Data-race exceptions have benefits beyond the memory model,2011,31,2,2,1.0,2136595716,Benjamin P. Wood,0,0.2330415597083778,0.9321685436635115
+2157836986,Automatic Inference of Structural Changes for Matching across Program Versions,2007,38,112,3,0.0,477007165,David Notkin,0,1.2724852143145182,-0.40832249405087573
+2161035629,Programming Idioms for Transactional Events,2010,3,0,4,1.0,35122271,Laura Effinger Dean,0,0.0002910697678953633,-0.23558881687659705
+2158794422,CoreDet a compiler and runtime system for deterministic multithreaded execution,2010,35,210,4,1.0,185335767,Tom Bergan,0,-0.6788027484317988,0.12413818110708073
+2152988224,High-level small-step operational semantics for transactions,2008,37,103,2,0.0,2109708186,Katherine F. Moore,0,-0.3894234104029938,-2.2728398915612233
+2251151045,Report on the SIGPLAN education board and related activities,2012,0,0,1,1.0,2241310076,Dan Grossman,0,-0.1164726804531344,0.019252515865476
+2410327772,Verified peephole optimizations for CompCert,2016,32,13,2,0.299217,187474749,Zachary Tatlock,0,-0.24980116962192828,-0.19257758220738036
+2545572223,Staccato A Bug Finder for Dynamic Configuration Updates,2016,0,3,1,1.0,2241310076,Dan Grossman,0,0.483229072032,-0.011540132722327399
+2620922378,Programming Language Tools and Techniques for 3D Printing,2017,0,4,2,0.299217,187474749,Zachary Tatlock,0,-0.1164726804531344,0.019252515865476
+2622032473,SIGPLAN education board and related activities report,2011,0,2,1,1.0,2241310076,Dan Grossman,0,-0.1164726804531344,0.019252515865476
+2622216537,Report on the electronic discussion of PL at NSF,2011,0,0,2,0.0,2134374908,Kathleen Fisher,0,-0.1164726804531344,0.019252515865476
+2612881331,Verifying Invariants of Lock-Free Data Structures with Rely-Guarantee and Refinement Types,2017,83,9,4,1.0,2152026014,Colin S. Gordon,0,-0.1325606814519469,-0.6069080942151572
+2777354851,Adapting proof automation to adapt proofs,2018,47,2,1,1.0,2241310076,Dan Grossman,0,-0.3542458213991138,0.062790734395556
+2762387874,A solver-aided language for test input generation,2017,41,0,1,1.0,2241310076,Dan Grossman,0,0.08439679738042583,-0.21392813337533562
+2781242936,Å’uf minimizing the Coq extraction TCB,2018,39,11,4,0.299217,187474749,Zachary Tatlock,0,-0.2711976415337722,-0.594096451627015
+2886686348,Functional Programming for Compiling and Decompiling Computer-Aided Design,2018,46,6,3,0.299217,187474749,Zachary Tatlock,0,-0.21434717086753197,0.18597891346086448
+2894480972,Session details Evolutioin and transformations,2009,0,0,1,1.0,2241310076,Dan Grossman,0,-0.1671222150989398,-0.0038527498650238502
+2899445059,A Solver-Aided Language for Test Input Generation,2017,0,2,1,1.0,2241310076,Dan Grossman,0,0.08439679738042583,-0.21392813337533562
+2917475629,Programming Idioms for Transactional Events,2009,0,1,4,1.0,35122271,Laura Effinger Dean,0,-0.1164726804531344,0.019252515865476
+2900295456,Concerto A Framework for Combined Concrete and Abstract Interpretation,2019,50,1,1,1.0,2241310076,Dan Grossman,0,0.09015410786951668,0.027123053684477625
+2892441320,Session details Language specification,2007,0,0,1,1.0,2241310076,Dan Grossman,0,1.6820067147174607,-2.0110934971935
+2908228793,Rely-Guarantee References for Refinement Types Over Aliased Mutable Data (Extended Version),2013,50,2,3,1.0,2152026014,Colin S. Gordon,0,-0.1164726804531344,0.019252515865476
+2978136495,Ornaments for Proof Reuse in Coq,2019,0,2,1,1.0,2241310076,Dan Grossman,0,-0.1164726804531344,0.019252515865476
+3014415287,Synthesizing Structured CAD Models with Equality Saturation and Inverse Transformations,2020,33,1,4,0.0,146017284,Eva Darulova,0,-0.7334560115785217,-0.013512664463600865
+3014446407,Session details Compilation,2011,0,0,1,1.0,2241310076,Dan Grossman,0,-0.1164726804531344,0.019252515865476
+3014694963,Session details Parallelism,2012,0,0,1,1.0,2241310076,Dan Grossman,0,-0.1164726804531344,0.019252515865476
+3014712310,Session details Memory &amp; size management,2013,0,0,1,1.0,2241310076,Dan Grossman,0,-0.1164726804531344,0.019252515865476

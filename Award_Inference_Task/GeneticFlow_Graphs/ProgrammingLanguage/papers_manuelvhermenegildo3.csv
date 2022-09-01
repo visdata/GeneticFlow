@@ -1,0 +1,222 @@
+35071910,Determination of variable dependence information at compile-time through abstract interpretation,1989,0,59,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.5843869001949029,0.11089867702909545
+68932320,Towards resource usage analysis of miniZinc models,2011,11,0,4,0.0,2079669046,Peter J. Stuckey,0,-0.40478981514351403,-0.029185788859410696
+137167809,Bridge transformation for continuation call-based tabled execution,2008,23,0,2,0.0,2095841411,Manuel Carro LiÃ±ares,0,-0.09074954977362437,0.06512853715699501
+171542336,Recomputation based Implementations of And-Or Parallel Prolog,1992,20,11,2,0.34227,2101413274,Gopal Gupta,0,-0.3974840199936202,-0.0914593059396035
+120658035,A generic persistence model for CLP systems,2004,0,2,3,0.956223,2095841411,Manuel Carro LiÃ±ares,0,-0.2897978126224006,-0.046702195733855756
+39717578,The ciao logic programming environment A tutorial,2000,0,3,4,1.0,2095841411,Manuel Carro LiÃ±ares,0,-0.3676932094671783,0.1059748405849819
+41345602,A simulation study of or- and independent and-parallelism,1991,0,21,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.45284144961552064,-0.020420188128580673
+42303964,Improving the compilation of prolog to C using type and determinism information Preliminary results,2003,22,1,3,0.990906,2095841411,Manuel Carro LiÃ±ares,0,-1.3538502546682118,-0.4533361138619642
+94209932,Towards CIAO-Prolog - A parallel concurrent constraint system,1993,31,3,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.29205684692948974,0.012444002873418757
+9693951,An automatic documentation generator for (C)LP - Reference manual,1997,0,4,2,1.0,2157176643,JosÃ© Francisco Morales Caballero,0,0.6757936452686394,-0.13807216810051356
+95576201,Analysis and Visualization Tools for Constraint Programming,2000,0,71,3,0.0,150280719,Jan Maluszynski,0,2.3089908691236496,0.38659506449211417
+27609869,Functional notation and lazy evaluation in Ciao,2005,20,2,2,1.0,2153775914,Amadeo Casas,0,-0.36445222172270386,-0.7119650397979079
+147325532,The ciao preprocessor,2007,26,0,3,1.0,2111352627,Pedro LÃ³pez GarcÃ­a,0,-0.1164726804531344,0.019252515865476
+64240237,A simulation study on parallel backtracking with solution memoing for independent and-parallelism,2011,13,1,2,0.0,2095841411,Manuel Carro LiÃ±ares,0,-0.6396203619950235,-1.0229892554579387
+98495262,An efficient parametric fixpoint algorithm forincremental analysis of java bytecode,2006,30,3,3,1.0,148222430,Mario MÃ©ndez Lojo,0,-1.5379107871806401,0.027184840361271223
+98805423,A generic context sensitive analysis framework for object oriented programs,2007,28,7,3,1.0,148222430,Mario MÃ©ndez Lojo,0,-0.7294965158378236,-0.7668046802519375
+184390214,The ciao system,2013,0,5,6,0.0,2095841411,Manuel Carro LiÃ±ares,0,-0.1164726804531344,0.019252515865476
+100055358,Some improvements over the continuation call tabling implementation technique,2007,18,1,4,0.120859,2082184966,Ricardo Rocha,0,-0.2673305294709578,-0.06038856256713244
+202555386,The CIAO multi-dialect compiler and system A demo and status report,1996,55,0,4,1.0,2095841411,Manuel Carro LiÃ±ares,0,-0.08725356815026358,0.4185847972491666
+84350756,Generalized Stack-copying for And-Or Parallel Execution of Full Prolog,1992,0,0,3,0.34227,2101413274,Gopal Gupta,0,-0.39647125653309206,-0.0677617054234385
+135527203,Customizable resource usage analysis for java bytecode,2008,33,5,3,1.0,148222430,Mario MÃ©ndez Lojo,0,-2.7949792690562076,-0.1711180761675101
+50569610,Logic Programming and the INTERNET,2001,0,0,3,0.0,155976146,Lee Naish,0,-0.06346938719930295,0.40588769102521144
+102563513,Towards a concurrent semantics-based analysis of CC and CLP principles and practice of constraint programming,1994,0,0,4,0.0,1970207042,Ugo Montanari,0,1.0624024106022836,-1.3593916706543139
+603991524,Analysis and visualization tools for constraint programming constraint debugging,2000,0,7,3,0.0,150280719,Jan Maluszynski,0,-0.2263520729043002,-0.02236601285568467
+1531813945,Distributed concurrent constraint execution in the CIAO system,1995,12,25,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.1164726804531344,0.019252515865476
+1568181226,Implementation of an event driven scheme for visualizing parallel execution of logic programs,1992,22,1,2,0.0,2107128692,Luis Manuel GÃ³mez HenrÃ­quez,0,-0.39647125653309206,-0.0677617054234385
+1505379042,Towards Independent And-Parallelism in CLP,1996,17,11,2,1.0,1997738564,Maria Garcia de la Banda,0,0.10170623150830334,0.6005137177692538
+1497274405,An improved continuation call-based implementation of tabling,2008,27,25,4,0.120859,2082184966,Ricardo Rocha,0,-0.32439489036926533,-0.05585266635522515
+1532795106,Using Global Analysis Partial Specifications and an Extensible Assertion Language for Program Validation and Debugging,1999,46,54,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.15439422294369715,0.027537768006254355
+1489163710,Proceedings of the 37th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages,2010,0,1,2,0.0,5014031,Jens Palsberg,0,-0.1164726804531344,0.019252515865476
+1480430684,Functional and logic programming 9th international symposium FLOPS 2008 Ise Japan April 14-16 2008 proceedings,2008,0,0,2,0.0,2243018453,Jacques Garrigue,0,-0.8835020439860445,0.21588419199973943
+1515252725,Efficient context-sensitive shape analysis with graph based heap models,2008,36,14,4,0.0,2011146398,Deepak Kapur,0,-0.5951659967755517,-0.7069379086449732
+1533556407,An Assertion Language for Constraint Logic Programs,2000,36,80,2,1.0,2132789914,GermÃ¡n Puebla,0,0.2210661827548872,-0.9390140176313746
+1560587967,Programming with Global Analysis,1997,0,0,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.3200352267870601,0.007104113031142413
+1534192350,Towards description and optimization of abstract machines in an extension of prolog,2006,16,7,3,1.0,2096752386,JosÃ© F. Morales,0,-0.6238105907674479,-0.06567685303254638
+1543331534,Non-strict independent and-parallelism,1990,15,36,2,1.0,2252207586,Francesca Rossi,0,-0.20954131217977626,0.0807842166416638
+1499010972,Program Debugging and Validation Using Semantic Approximations and Partial Specifications,2002,27,0,3,1.0,2111415363,Pedro LÃ³pez GarcÃ­a,0,0.12041184251891342,0.40057336701814183
+1507626698,Extracting Non-strict independent and-parallelism using sharing and freeness information,1994,32,32,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.1550417857681127,0.4832056510944961
+1552645610,Independence in Dynamically Scheduled Logic Languages,1996,11,3,3,1.0,1997738564,Maria Garcia de la Banda,0,-0.26375706489753353,0.04746658883297742
+1570872992,The Ciao clp(FD) Library A Modular CLP Extension for Prolog,2013,6,0,3,0.0,1990384202,Emilio JesÃºs Gallego Arias,0,0.6951090071448619,-0.19121939727390175
+1482087614,Visualization designs for constraint logic programming,2001,12,1,2,1.0,2095841411,Manuel Carro LiÃ±ares,0,1.5888193868835423,-0.7909476551388641
+1544096846,A Generic Processor for Program Validation and Debugging,2000,37,27,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.05920582650053714,0.3792130611213702
+1508161107,Combined Static and Dynamic Assertion-Based Debugging of Constraint Logic Programs,1999,34,42,2,1.0,2132789914,GermÃ¡n Puebla,0,0.0011889860541532801,0.49044480820241837
+1500138362,User-definable resource bounds analysis for logic programs,2007,23,56,4,1.0,2105628737,Jorge A. Navas,0,0.32564472872199995,0.7458802127482714
+1482903289,Automatic Parallelization of Irregular and Pointer-Based Computations Perspectives from Logic and Constraint Programming,1997,46,12,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.5612084750219505,-0.6260083941332018
+1572015924,Some methodological issues in the design of CIAO a generic parallel concurrent constraint system,1994,0,32,1,1.0,2268913824,Manuel V. Hermenegildo,0,1.6987408128433212,-0.27996699655855073
+1500722876,Abstract verification and debugging of constraint logic programs,2002,34,4,3,1.0,2111415363,Pedro LÃ³pez GarcÃ­a,0,0.40247531712316975,-0.2834062302391382
+1536242411,A note on data-parallelism and (and-parallel) prolog,1994,4,3,2,1.0,2159259333,Manuel Carro,0,-0.4926866330257189,0.24616931677674012
+1554644772,Relating Data-Parallelism and (And-) Parallelism in Logic Programs,1995,43,4,2,1.0,2159259333,Manuel Carro,0,0.21470408754241516,-0.9951726328697685
+1518788700,Program development using abstract interpretation (and the ciao system preprocessor),2003,55,34,3,1.0,2111415363,Pedro LÃ³pez GarcÃ­a,0,-0.23342884788752363,0.07832037302630145
+1564069522,Abstraction-Carrying Code,2005,26,57,3,0.317098,2130195065,Elvira Albert,0,0.17498414819545968,0.6230491664598505
+1564286532,Determination of variable dependence information through abstract interpretation,1989,15,30,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.16600628635949558,0.1859378779531955
+1510607491,A comparative study of methods for automatic compile-time parallelization of logic programs,1994,15,13,3,0.952381,1994327221,M. GarcÃ­a de la Banda,0,-1.49205796946363,0.07815407441192437
+1565021917,Parallelism and implementation of logic and constraint logic programming,1999,0,11,5,0.952381,1994327221,M. GarcÃ­a de la Banda,0,1.2829949625169794,-0.7192774733111781
+1493964572,Concurrency in Prolog using threads and a shared database,1999,20,40,2,1.0,2159259333,Manuel Carro,0,-0.9693645639239996,-1.0168861282663866
+1502605899,On the correctness and efficiency of independent and-parallelism in logic programs,1989,17,39,2,1.0,2252207586,Francesca Rossi,0,-0.19328706563080425,0.107559651401021
+1574881516,A Simple Approach to Distributed Objects in Prolog,2002,19,6,2,1.0,2095841411,Manuel Carro LiÃ±ares,0,-0.13732034338941618,-0.5152335661548598
+1556835577,Interfacing prolog and VRML and its application to constraint visualization,1999,10,8,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.4848339372703359,-0.16609496542226312
+1575115589,Experimenting with independent and-parallel prolog using standard prolog,1991,17,1,2,1.0,2095841411,Manuel Carro LiÃ±ares,0,-0.45284144961552064,-0.020420188128580673
+1485996105,An automatic translation scheme from prolog to the andorra kernel language,1992,20,10,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.5246174302073033,-0.051696302502281265
+1512001008,A Documentation Generator for (C)LP Systems,2000,16,30,1,1.0,2268913824,Manuel V. Hermenegildo,0,0.9054598905526744,-0.2891332131379618
+1520856818,Automatic Optimization of Dynamic Scheduling in Logic Programs,1996,7,1,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.30923996791475733,0.0470792864867409
+1557126436,Context-sensitive multivariant assertion checking in modular programs,2006,19,10,4,1.0,1986512946,Pawel Pietrzak,0,-0.4234807008278308,0.026700893500448294
+1539196405,Automatic Exploitation of Non-Determinate Independent And-Parallelism in the Basic Andorra Model,1994,30,5,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.012963811354166244,0.5220301650289015
+1521171921,A generic preprocessor for program validation and debugging,2000,0,1,2,0.774319,2115752987,Francisco Bueno Carrillo,0,-0.4207366441341365,0.06536127019256055
+1566341519,Removing superfluous versions in polyvariant specialization of prolog programs,2005,21,2,3,1.0,2132789914,GermÃ¡n Puebla,0,-0.29756062632536195,0.2148121653331874
+1566459874,Abstract Interpretation-Based Mobile Code Certification,2004,6,1,3,0.317098,2130195065,Elvira Albert,0,-0.18903013446216702,0.5472732688156343
+1530945856,Towards a Complete Scheme for Tabled Execution Based on Program Transformation,2009,32,6,2,0.0,2159259333,Manuel Carro,0,-0.09074954977362437,0.06512853715699501
+1531030808,The CIAO Multi-Dialect Compiler and System An Experimentation Workbench for Future (C)LP Systems,1996,50,50,6,1.0,1997738564,Maria Garcia de la Banda,0,0.583962551767306,-1.068734315597833
+1549001967,Program analysis debugging and optimization using the ciao system preprocessor,1999,22,51,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.3569111755368994,0.0392039433383631
+1522408124,An integration of partial evaluation in a generic abstract interpretation framework,1999,21,20,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.521870602051932,-0.4368541539473835
+1594742196,Interval-Based resource usage verification formalization and prototype,2011,24,7,1,1.0,2268913824,Manuel V. Hermenegildo,0,0.17499056088228054,-0.18174074159829245
+1604070206,Efficient management of backtracking in AND-parallelism,1986,8,52,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.43530992199033997,-0.05617774794761885
+1586343560,Some design issues in the visualization of constraint logic program execution,1998,14,5,2,1.0,2159259333,Manuel Carro,0,0.17003919168458337,0.35692211922489914
+1746124745,Some paradigms for visualizing parallel execution of logic programs,1993,16,24,2,1.0,2159259333,Manuel Carro,0,-0.1164726804531344,0.019252515865476
+1605300628,Some Methodological Issues in the Design of CIAO a Generic Parallel Concurrent Constraint Logic Programming System,1994,30,28,1,1.0,2268913824,Manuel V. Hermenegildo,0,1.6987408128433212,-0.27996699655855073
+1751499126,Supporting Pruning in Tabled LP,2013,16,0,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.4881088073879426,0.24117248110986378
+1605977342,Efficient Negation Using Abstract Interpretation,2001,18,9,3,0.0,191249142,Susana Munoz Hernandez,0,-0.13525276584108314,0.26256793590258676
+1805518881,A Program Transformation for Continuation Call-Based Tabled Execution,2009,19,0,2,0.0,2159259333,Manuel Carro,0,-0.09074954977362437,0.06512853715699501
+1596917824,A Flexible (C)LP-Based Approach to the Analysis of Object-Oriented Programs,2008,34,55,3,1.0,148222430,Mario MÃ©ndez Lojo,0,0.35247968150599646,-0.8170278275124863
+1806173689,Profiling for run-time checking of computational properties and performance debugging in logic programs,2011,15,7,3,1.0,2135481784,E. Mera,0,-0.44114436577451976,-0.10004502093258377
+1588322402,A Framework for Assertion-Based Debugging in Constraint Logic Programming,1998,22,15,2,1.0,2132789914,GermÃ¡n Puebla,0,0.23564830199884554,0.8708052937645206
+1606683824,Implementing distributed concurrent constraint execution in the CIAO system,1996,14,13,2,1.0,2159186984,Daniel Cabeza,0,-0.1164726804531344,0.019252515865476
+1847143143,A Tabling Implementation Based on Variables with Multiple Bindings,2009,30,1,2,0.0,2159259333,Manuel Carro,0,-0.6106445215486181,-0.5209038277891203
+1588992886,Tools for Constraint Visualisation The VIFID/TRIFID Tool,2000,22,9,2,1.0,2159259333,Manuel Carro,0,1.5902367248741092,0.39644823789747896
+1911314295,A New Module System for Prolog,2000,28,45,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.30512307687297374,0.16138251473261966
+1760022664,Hiord a type-free higher-order logic programming language with predicate abstraction,2004,10,12,2,1.0,2159186984,Daniel Cabeza,0,0.5420954736584019,0.1314420961682841
+1607775377,Towards a Concurrent Semantics based Analysis of CC and CLP,1994,23,10,4,0.0,1970207042,Ugo Montanari,0,2.2297307483126505,-0.3526289019039048
+1763250518,From Eventual to Atomic Locally Atomic CC Programs A Concurrent Semantics,1994,14,17,2,0.0,1970207042,Ugo Montanari,0,-0.259510288927674,0.2581488985863376
+1607985220,The ciao prolog system,2002,0,62,4,1.0,2095841411,Manuel Carro LiÃ±ares,0,0.32503818619860225,-0.19199513112770625
+1816205072,Modular extensions for modular (logic) languages,2011,17,3,2,1.0,2096752386,JosÃ© F. Morales,0,-0.1328024770437774,-0.5351437410877273
+1590036030,Efficient local unfolding with ancestor stacks for full prolog,2004,22,12,3,0.317098,2130195065,Elvira Albert,0,-0.02773087289880738,-0.17825778450057708
+1853495215,Incremental Analysis of Logic Programs,1995,0,27,4,0.0,2079669046,Peter J. Stuckey,0,-0.3584151033681889,0.06636215497802656
+1766658279,An abstract machine based execution model for computer architecture design and efficient implementation of logic programs in parallel,1986,0,92,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.17898287658251222,0.4630088921799028
+1819779993,A syntactic approach to combining functional notation lazy evaluation and higher-order in LP systems,2006,31,31,3,1.0,2153775914,Amadeo Casas,0,0.4692247824139224,-0.810502918466292
+1590675204,Independence in constraint logic programs,1993,16,32,2,0.0,2248949664,Kimbal George Marriott,0,0.7910421874718978,-0.4501715243643691
+1824798286,A Sketch of a Complete Scheme for Tabled Execution Based on Program Transformation,2008,11,0,2,0.0,2159259333,Manuel Carro,0,-0.2588285306643193,0.02347369930282112
+1614538438,Towards an Abstract Domain for Resource Analysis of Logic Programs Using Sized Types,2013,17,0,2,1.0,2111415363,Pedro LÃ³pez GarcÃ­a,0,-0.2889432826686928,0.22052122636285354
+1583385083,Practical aspects of declarative languages 7th International Symposium PADL 2005 Long Beach CA USA January 10-11 2005 proceedings,2005,0,0,2,1.0,2159186984,Daniel Cabeza,0,-0.6000694142796952,0.5182158311652644
+1898230885,Logic programming proceedings of the 1990 North American conference,1990,0,0,2,0.0818304,2087087990,Saumya K. Debray,0,0.22854772244311375,-0.33169729301203116
+1593354502,ACE And/Or-parallel Copying-based Execution of Logic Programs,1991,8,54,2,0.34227,2101413274,Gopal Gupta,0,-0.38099674729896593,0.0021073547980068746
+1620978646,Abstract Specialization and Its Application to Program Parallelization,1996,35,15,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.8550669128351491,-0.0669230174953255
+1660809742,A segment-swapping approach for executing trapped computations,2012,30,0,3,1.0,2153775914,Amadeo Casas,0,-0.34513220966391484,0.0720014988235934
+1787265089,A Model for Inter-module Analysis and Optimizing Compilation,2000,19,25,5,0.959345,1997738564,Maria Garcia de la Banda,0,-1.183819132479559,0.06675162591790235
+1585085979,An Abstract Machine for Restricted AND-Parallel Execution of Logic Programs,1986,11,100,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.5346508206456251,-0.06393132333550841
+1603188321,Prolog and its performance exploiting independent and-parallelism,1990,14,84,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.27696001312065666,0.028684504258774963
+1594349561,Global Analysis of Standard Prolog Programs,1996,25,40,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.47530581365283886,0.1877549609559365
+1968228870,CLP projection for constraint handling rules,2011,36,6,1,1.0,2268913824,Manuel V. Hermenegildo,0,0.060007956382339224,-1.2186472369216028
+1973475297,Automatic binding-related error diagnosis in logic programs,2007,33,1,2,1.0,1986512946,Pawel Pietrzak,0,-0.13642519449519575,0.5198281610159916
+1970254721,Lightweight compilation of (c)lp to javascript,2012,27,4,3,1.0,2096752386,JosÃ© F. Morales,0,-0.4989975652623444,-0.4408663983545579
+1980837006,The Ciao Module System A New Module System for Prolog,2000,29,9,2,1.0,2159186984,Daniel Cabeza,0,-0.3847834613422186,-0.12806501480960605
+1975777673,Some Issues in Analysis and Specialization of Modular Ciao-Prolog Programs,2000,26,19,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.5295147906550259,-0.025630590260351374
+1965377774,Compile-time derivation of variable dependency using abstract interpretation,1992,24,197,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.6050748843941506,0.12142835221277862
+1970664558,Comparing tag scheme variations using an abstract machine generator,2008,14,13,3,1.0,2096752386,JosÃ© F. Morales,0,-0.48475902552788186,-0.08857422368265384
+1985039455,Parallel execution of prolog programs a survey,2001,295,155,3,0.122126,708809703,Enrico Pontelli,0,0.7484442486170005,-0.5295222131538609
+1965974145,Special section Ten Years of Logic Programming,1995,0,0,3,0.0,1275083776,Maurice Bruynooghe,0,-0.3676932094671783,0.1059748405849819
+2003935582,Relating data-parallelism and (and-) parallelism in logic programs,1996,50,10,2,1.0,2159259333,Manuel Carro,0,-0.39647125653309206,-0.0677617054234385
+1999018196,The Ciao Modular Standalone Compiler and Its Generic Program Processing Library,2000,10,13,2,1.0,2159186984,Daniel Cabeza,0,-0.16935833995778954,-0.2989269520505619
+1999281702,Strict and nonstrict independent and-parallelism in logic programs Correctness efficiency and compile-time conditions,1995,38,77,2,0.629245,2252207586,Francesca Rossi,0,-0.06021007668593233,0.6215083438429314
+2002893610,A System for Automatically Generating Documentation for (C)LP Programs,2000,14,1,1,1.0,2268913824,Manuel V. Hermenegildo,0,0.4531314278675065,0.07094564679845322
+2024535452,Abstraction-Carrying Code a Model for Mobile Code Safety,2008,57,11,3,0.153827,2130195065,Elvira Albert,0,1.0718865069400216,-0.8797017253371218
+2026398929,Analyzing logic programs with dynamic scheduling,1994,31,42,3,1.0,1997738564,Maria Garcia de la Banda,0,0.6806231938212312,-0.8532038680918564
+2012501814,And-Or parallel Prolog a recomputation based approach,1993,27,11,3,0.307271,2101413274,Gopal Gupta,0,-0.6441227017412204,-0.7830554841407954
+2012571091,Independence in CLP languages,2000,38,20,3,0.959345,1997738564,Maria Garcia de la Banda,0,0.6725131072697313,-0.3556810734479943
+2026803730,Implementation of multiple specialization in logic programs,1995,35,29,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.533107380513095,0.15554423486354788
+2033130678,Global analysis of constraint logic programs,1996,66,54,6,0.0,1275083776,Maurice Bruynooghe,0,0.10586307358237038,-0.3003485958285248
+2037152006,High-level characteristics of or- and independent and-parallelism in Prolog,1996,69,3,2,0.0,2126723548,Kish Shen,0,-0.5901582781239119,-0.4590647588179664
+2055006439,Improving the efficiency of nondeterministic independent and-parallel systems,1996,40,16,5,0.555556,708809703,Enrico Pontelli,0,-0.742241060691845,-0.07131364502166566
+2053608039,Improving abstract interpretations by combining domains,1995,23,57,5,0.555556,144501071,Anne Mulkers,0,-0.21716625620329455,0.13113488100879392
+2036363185,A generic persistence model for (C)LP systems (and two useful implementations),2004,10,14,4,1.0,2110528501,JesÃºs Correas,0,-0.32538658647387414,0.03553901761456887
+2061246700,Automatic Inference of Determinacy and Mutual Exclusion for Logic Programs Using Mode and Type Analyses,2010,27,10,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.19099643684734155,0.05920652310429912
+2057785252,Improving abstract interpretations by combining domains,1993,23,41,5,0.555556,144501071,Anne Mulkers,0,-0.2243821014982908,0.10473978172191326
+2065590295,Effectivness of abstract interpretation in automatic parallelization a case study in logic programming,1999,80,43,2,1.0,1997738564,Maria Garcia de la Banda,0,-1.0894800252279881,0.09508491773022422
+2065604163,A practical type analysis for verification of modular prolog programs,2008,39,11,4,1.0,1986512946,Pawel Pietrzak,0,-0.4123500684230659,0.03483691040185939
+2074622023,Assertion-based Debugging of Higher-Order (C)LP Programs,2014,26,5,3,1.0,218715244,Nataliia Stulova,0,0.021179605323834182,0.34643189472488406
+2074647148,Special issue on â€˜Logic Programming and the INTERNETâ€™,2001,0,0,3,0.0,155976146,Lee Naish,0,0.41129650843949256,-0.1291353301363378
+2085729865,Abstract multiple specialization and its application to program parallelization,1999,54,39,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.43414446955580827,0.08427109280137146
+2096990506,Generation of reduced certificates in abstraction-carrying code,2006,16,0,4,0.298367,2130195065,Elvira Albert,0,-1.4166231220534051,-0.6741585653879806
+2089499361,The &amp;-Prolog system Exploiting independent and-parallelism,1991,31,90,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.6506263843977307,-0.06686233671016946
+2097584421,&amp;ACE a high-performance parallel Prolog system,1995,14,46,3,0.555556,708809703,Enrico Pontelli,0,-0.9262096456002957,-0.6686961255125915
+2090115207,Parallelizing irregular and pointer-based computations automatically perpectives from logic and constraint programming,2000,77,14,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.8244485578530938,-0.6898265818807302
+2095625847,Improved Compilation of Prolog to C Using Moded Types and Determinism Information,2004,26,27,3,1.0,2096752386,JosÃ© F. Morales,0,-1.1020925277393314,0.09651229696882113
+2087148138,Partial order and contextual net semantics for atomic and locally atomic CC programs,1998,14,19,3,0.0,1970207042,Ugo Montanari,0,-0.08638003532470506,0.49885562197115757
+2111662649,Certificate size reduction in abstraction-carrying code*,2012,34,5,4,0.0,2130195065,Elvira Albert,0,-0.15177828624828069,0.24358690553416812
+2114684136,An Efficient Parametric Fixpoint Algorithm for Analysis of Java Bytecode,2007,37,23,2,1.0,2105628737,Jorge A. Navas,0,-1.3337941441426397,0.08280614720638761
+2135396778,Reversible Language Extensions and Their Application in Debugging,2013,20,0,3,0.0,156433059,ZoÃ© Drey,0,1.959057907133946,-0.6004386088871249
+2138870542,Towards a high-level implementation of flexible parallelism primitives for symbolic languages,2007,5,5,3,1.0,2153775914,Amadeo Casas,0,1.1345498038555368,-0.6611024491380795
+2142044962,An overview of ciao and its design philosophy,2012,92,105,5,1.0,2096752386,JosÃ© F. Morales,0,-0.44016591171538916,-0.2319813292196905
+2112518523,Complete and efficient methods for supporting side effects in independent/restricted and-parallelism,1989,15,24,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.3974840199936202,-0.0914593059396035
+2139313204,Abstraction carrying code and resource-awareness,2005,29,29,4,1.0,2111415363,Pedro LÃ³pez GarcÃ­a,0,-0.3997619489416004,-0.9508167461138766
+2136270470,Two Efficient Representations for Set-Sharing Analysis in Logic Programs,2008,26,0,5,0.0,2007428369,Elena S. Ackley,0,-0.8301199669798432,-0.2508675129099787
+2124571243,An Overview of the Ciao Multiparadigm Language and Program Development Environment and Its Design Philosophy,2008,112,21,5,1.0,2096752386,JosÃ© F. Morales,0,-0.3525820568617644,0.048314268819114
+2136709281,Precise set sharing analysis for Java-style programs,2008,30,15,2,1.0,148222430,Mario MÃ©ndez Lojo,0,-0.32143208219977254,0.400314405854125
+2116325485,Integrated program debugging verification and optimization using abstract interpretation (and the Ciao system preprocessor),2005,59,140,3,1.0,2111415363,Pedro LÃ³pez GarcÃ­a,0,-0.019838046709540147,0.36913142940034777
+2107481678,Using Attributed Variables in the Implementation of Concurrent and Parallel Logic Programming Systems,1995,24,24,2,1.0,2159259333,Manuel Carro,0,0.9757693930881061,-0.4856269670148442
+2116517691,High-level languages for small devices a case study,2006,29,22,5,1.0,2096752386,JosÃ© F. Morales,0,0.1068494222229639,0.533854460065336
+2113527912,Towards execution time estimation in abstract machine-based languages,2008,21,14,2,1.0,2135481784,E. Mera,0,-0.7422170241094582,-0.10910473205576054
+2113824364,Non-strict independence-based program parallelization using sharing and freeness information,2009,62,6,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.7302723494752583,0.07070869295077196
+2140627810,Distributed WWW programming using (Ciao-)Prolog and the PiLLoW library,2001,23,48,2,1.0,2159186984,Daniel Cabeza,0,0.23264356649714166,0.052940818088438056
+2143826737,A Technique for Recursive Invariance Detection and Selective Program Specialization,1991,23,16,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.4603033172593692,0.10163177860234032
+2150432932,Heap analysis in the presence of collection libraries,2007,24,17,4,0.0,2011146398,Deepak Kapur,0,-0.04226813922238157,0.3369751512378545
+2153534748,Annotation Algorithms for Unrestricted Independent And-Parallelism in Logic Programs,2008,25,15,3,1.0,2153775914,Amadeo Casas,0,-0.6341674176523486,0.13206896026072826
+2150905411,An overview of the Ciao system,2011,1,1,5,1.0,2096752386,JosÃ© F. Morales,0,-0.8087448455226325,-0.09660707362988376
+2153892117,Efficient local unfolding with ancestor stacks,2011,31,2,3,0.0,2130195065,Elvira Albert,0,-0.4810026450895457,-0.13479896775207711
+2147953536,Integrating Software Testing and Run-Time Checking in an Assertion Verification Framework,2009,18,30,2,1.0,2135481784,E. Mera,0,0.7470693789796281,-0.408368104772422
+2154087241,Description and Optimization of Abstract Machines in a Dialect of Prolog,2016,56,5,2,1.0,2096752386,JosÃ© F. Morales,0,-0.6238105907674479,-0.06567685303254638
+2163324278,Parallel Backtracking with Answer Memoing for Independent And-Parallelism,2011,18,0,3,1.0,2153775914,Amadeo Casas,0,-0.6396203619950235,-1.0229892554579387
+2163660741,Incremental analysis of constraint logic programs,2000,49,68,4,0.0,2079669046,Peter J. Stuckey,0,-0.06938931507776076,0.40715630722537705
+2166773711,Towards a high-level implementation of execution primitives for unrestricted independent and-parallelism,2008,30,7,2,1.0,2153775914,Amadeo Casas,0,-0.32431656158345695,-0.1705983561146596
+2148890056,User-Definable Resource Usage Bounds Analysis for Java Bytecode,2009,41,30,3,1.0,148222430,Mario MÃ©ndez Lojo,0,-1.8996842746756837,0.02476594531402193
+2174562198,A new module system for prolog,2009,0,7,1,1.0,2268913824,Manuel V. Hermenegildo,0,-0.3847834613422186,-0.12806501480960605
+2175389656,Abstract verification and debugging of constraint logic programs,2003,0,2,3,1.0,2111415363,Pedro LÃ³pez GarcÃ­a,0,0.13257753886918394,0.9772093931412371
+2175562192,The CIAO multi-dialect compiler and system An experimentation workbench for future (C)LP systems,1995,0,7,3,0.952381,1994327221,M. GarcÃ­a de la Banda,0,-0.44869122900443015,-0.00015649039724540022
+2176531850,Some Challenges for Constraint Programming,1997,36,3,1,1.0,2268913824,Manuel V. Hermenegildo,0,2.074553134219656,-0.21548336000865853
+2176578744,Hiord A type-free higher-order logic programming language with predicate abstraction,2005,0,1,1,1.0,2268913824,Manuel V. Hermenegildo,0,1.1607373312622864,-0.4028578730015745
+2167632389,Static Analysis-based Debugging Certification Testing and Optimization with CiaoPP,2010,53,0,11,1.0,148222430,Mario MÃ©ndez Lojo,0,-0.1127834831838852,0.217893252071281
+2155866903,Debugging of Constraint Programs The DiSCiPl Methodology and Tools,2000,6,1,3,0.0,150280719,Jan Maluszynski,0,-0.2254321394315176,-0.070836516647397
+2167992533,An Abstract Interpretation-based Approach to Mobile Code Safety,2005,24,19,3,0.317098,2130195065,Elvira Albert,0,-0.17342905552024582,-0.14622822208709602
+2156049870,Abstract specialization and its applications,2003,53,16,2,1.0,2132789914,GermÃ¡n Puebla,0,-0.33516567807240477,0.2949403047512024
+2263225824,Practical Run-time Checking via Unobtrusive Property Caching,2015,34,8,3,1.0,218715244,Nataliia Stulova,0,-1.0475124823093054,-1.7868483196645526
+2269837698,Towards Assertion-based Debugging of Higher-Order (C)LP Programs,2014,1,0,3,1.0,218715244,Nataliia Stulova,0,-0.3338212964333509,-0.1130260635659341
+2296188633,Sized Type Analysis for Logic Programs,2013,15,7,2,1.0,2111415363,Pedro LÃ³pez GarcÃ­a,0,-0.1164726804531344,0.019252515865476
+2394889266,An Approach to Assertion-based Debugging of Higher-Order (C)LP Programs,2014,19,0,3,1.0,218715244,Nataliia Stulova,0,-0.32025485435367235,0.024384812196952967
+2397314961,Contextual Nets and Constraint Logic Programming,1993,0,0,3,0.0,1970207042,Ugo Montanari,0,0.9757693930881061,-0.4856269670148442
+2482434465,Practical Aspects of Declarative Languages,2005,0,0,2,1.0,2159186984,Daniel Cabeza,0,-0.1164726804531344,0.019252515865476
+2502884829,Functional and Logic Programming,2008,0,2,2,0.0,2243018453,Jacques Garrigue,0,1.3275256340523507,-0.627037429579149
+2515302447,Reducing the overhead of assertion run-time checks via static analysis,2016,49,7,3,1.0,218715244,Nataliia Stulova,0,-0.31395323823869414,-0.2678937089267628
+2520484368,Programming with global analysis (tutorial),1997,0,1,1,1.0,2268913824,Manuel V. Hermenegildo,0,0.8168426795536123,0.655715806863227
+2520809601,Semantic code browsing,2016,8,3,2,1.0,2096752386,JosÃ© F. Morales,0,1.4662158445918434,-0.4631958407874725
+2522335649,Special issue - 10 years of logic programming - introduction,1994,0,2,3,0.0,1275083776,Maurice Bruynooghe,0,-0.3676932094671783,0.1059748405849819
+2527406985,Pre-proceedings of the 26th International Symposium on Logic-Based Program Synthesis and Transformation (LOPSTR 2016),2016,0,0,2,1.0,2111415363,Pedro LÃ³pez GarcÃ­a,0,0.49756664514345206,-0.6776550859280535
+2614586411,Term Hiding and its Impact on Run-time Check Simplification,2017,0,0,3,1.0,218715244,Nataliia Stulova,0,-0.3056744007589237,0.04761712861301441
+2778826798,Some trade-offs in reducing the overhead of assertion run-time checks via static analysis,2017,61,4,2,1.0,2096752386,JosÃ© F. Morales,0,-0.19420058972284493,0.06757324115415148
+2780115126,Exploiting Term Hiding to Reduce Run-Time Checking Overhead,2018,28,1,4,1.0,218715244,Nataliia Stulova,0,-0.28821656624062875,0.11809578477371525
+2788336743,Towards Run-time Checks Simplification via Term Hiding,2018,0,1,3,1.0,218715244,Nataliia Stulova,0,-0.3056744007589237,0.04761712861301441
+2791777217,Interval-based Resource Usage Verification by Translation into Horn Clauses and an Application to Energy Consumption,2018,0,0,4,1.0,339324804,Umer Liqat,0,-0.24085514322267135,-0.375069003787885
+2810162135,An approach to incremental and modularcontext-sensitive analysis,2018,0,0,2,0.7627,2157176643,JosÃ© Francisco Morales Caballero,0,-0.6670685106962543,-0.2233326100445351
+2795920599,An Approach to Incremental and Modular Context-sensitive Analysis of Logic Programs,2018,0,0,2,0.0,2096752386,JosÃ© F. Morales,0,-0.4325764644952802,-0.2451553469048012
+2796215506,An Approach to Static Performance Guarantees for Programs with Run-time Checks,2018,27,0,5,1.0,218715244,Nataliia Stulova,0,-0.3760517430541449,-0.08150497485475364
+2886989630,Static Performance Guarantees for Programs with Runtime Checks,2018,37,1,4,1.0,218715244,Nataliia Stulova,0,-0.1061728148943945,0.1923298967519253
+2912613826,Proceedings of the 1990 North American conference on Logic programming,1990,0,12,2,0.0818304,2087087990,Saumya K. Debray,0,-0.3676932094671783,0.1059748405849819
+2902363250,Towards incremental and modular context-sensitive analysis,2018,0,1,2,0.0,2096752386,JosÃ© F. Morales,0,0.761062104558026,-0.12658407783024433
+2913384275,Proceedings of the 25th International Conference on Compiler Construction,2016,0,0,2,0.0,2011958661,Ayal Zaks,0,-0.23680382996095975,0.883709167173769
+2914290650,Proceedings of the 9th international conference on Functional and logic programming,2008,0,0,2,0.0,2243018453,Jacques Garrigue,0,-0.1164726804531344,0.019252515865476
+2900693033,Practical run-time checkingvia unobtrusive property caching,2015,0,0,3,1.0,218715244,Nataliia Stulova,0,-1.0475124823093054,-1.7868483196645526
+2911897979,Proceedings of the 11th international conference on Verification Model Checking and Abstract Interpretation,2010,0,0,2,0.0,1964507066,Gilles Barthe,0,-0.36669543441347335,0.044849700580217124
+2951433566,Reversible Language Extensions and their Application in Debugging,2013,5,0,3,0.0,156433059,ZoÃ© Drey,0,-0.09165821901873042,-0.19150334974705593
+2951458383,Distributed WWW Programming using (Ciao-)Prolog and the PiLLoW library,2003,10,0,2,1.0,2159186984,Daniel Cabeza,0,0.0017887909897978727,-0.26339506326119605
+2949525688,Inferring Parametric Energy Consumption Functions at Different Software Levels ISA vs LLVM IR,2015,3,0,6,1.0,339324804,Umer Liqat,0,0.47365458810977673,0.19534943104517616
+2951679972,A Generic Framework for the Analysis and Specialization of Logic Programs,2005,18,0,3,0.317098,2130195065,Elvira Albert,0,-0.22170262942657182,-0.8503026731003779
+2951843540,Certificate size reduction in Abstraction-Carrying Code,2010,17,0,4,0.0,2130195065,Elvira Albert,0,-0.2792331493899272,0.18762769979101857
+2950723316,Exploiting Term Hiding to Reduce Run-time Checking Overhead,2017,0,0,4,1.0,218715244,Nataliia Stulova,0,-0.15931343095634737,-0.007018112670716101
+2953110001,Semantic Code Browsing,2016,15,1,2,1.0,2096752386,JosÃ© F. Morales,0,-0.3898564540754792,0.18328618345250203
+2949244876,An overview of Ciao and its design philosophy,2011,67,8,5,1.0,2096752386,JosÃ© F. Morales,0,-0.44016591171538916,-0.2319813292196905
+2949319218,Multivariant Assertion-based Guidance in Abstract Interpretation,2018,15,0,2,0.0,2096752386,JosÃ© F. Morales,0,-0.5353046299581322,-0.00048586489969045513
+2963980086,The Ciao clp(FD) library A modular CLP extension for Prolog,2013,13,1,3,0.0,1990384202,Emilio JesÃºs Gallego Arias,0,0.6951090071448619,-0.19121939727390175
+2964039368,A Program Transformation for Continuation Call-Based Tabled Execution,2009,21,0,2,0.0,2159259333,Manuel Carro,0,-0.09074954977362437,0.06512853715699501
+2964045931,Parallel backtracking with answer memoing for independent and-parallelism,2011,31,1,3,1.0,2153775914,Amadeo Casas,0,-0.6396203619950235,-1.0229892554579387
+2964266792,Incrementalizing Context-sensitive Analyses for Modularized Programs,2018,53,0,2,0.0,2096752386,JosÃ© F. Morales,0,-0.08034655233634706,-0.4659674072388651
+2974503009,Proceedings 35th International Conference on Logic Programming (Technical Communications) Towards Computing Abstract Distances in Logic Programs,2019,1,1,2,0.0,2096752386,JosÃ© F. Morales,0,-0.3676932094671783,0.1059748405849819
+2966433174,Computing Abstract Distances in Logic Programs,2019,32,0,3,0.0,2096752386,JosÃ© F. Morales,0,0.18249680604058602,0.5331626183550725
+3010316544,Static performance guaranteesfor programs with Run-time Checks,2018,0,0,5,1.0,218715244,Nataliia Stulova,0,-0.3760517430541449,-0.08150497485475364

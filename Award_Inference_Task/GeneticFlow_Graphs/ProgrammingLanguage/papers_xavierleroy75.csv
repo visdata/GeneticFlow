@@ -1,0 +1,108 @@
+123407817,Parallel Functional Programming with Skeletons the OCamlP3L experiment,1998,0,29,4,0.0,304038505,Susanna Pelagatti,0,-0.47087576094411787,0.02530665316411628
+174390253,Formal Proofs of Code Generation and Verification Tools,2014,14,1,1,1.0,2780386900,Xavier Leroy,0,1.913794443767132,-0.728759387795201
+129413754,A reduction semantics for call-by-value mixin modules,2002,21,4,3,0.588099,2138645069,Joseph Brian Wells,0,0.5798818505262896,-0.07843359575693361
+197885067,A proposal for recursive modules in Objective Caml,2003,0,16,1,1.0,2780386900,Xavier Leroy,0,-0.28405831492853834,0.05915663196392634
+61954547,A formally-verified alias analysis,2012,19,22,2,0.0,2644063170,Valentin Robert,0,-0.3830420121178747,0.43653132625489915
+181216842,Call-by-Value Mixin Modules Reduction Semantics Side Effects Types,2004,27,19,3,0.892207,2138645069,Joseph Brian Wells,0,0.37248176265574023,-0.011958108603564499
+80198721,Abstract types and the dot notation,1990,15,49,2,0.0,331751290,Luca Cardelli,0,-0.1164726804531344,0.019252515865476
+236653988,Formal C Semantics CompCert and the C Standard,2014,9,16,3,0.0,85231171,Freek Wiedijk,0,-0.21382534664591696,0.15726860708076768
+563467911,The CompCert Memory Model Version 2,2012,1,28,4,0.0,2120329599,Andrew W. Appel,0,0.11933650940912584,-0.3328919299328173
+564852913,Program Logics for Certified Compilers,2014,4,76,8,0.0,188738687,Aquinas Hobor,0,0.6758954597014484,-0.4926082459624797
+1496660723,Efficient Data Representation in Polymorphic Languages,1990,10,9,1,1.0,2780386900,Xavier Leroy,0,-0.36074745442483547,0.08106164220258937
+1015987717,Formally verified optimizing compilation in ACG-based flight control software,2012,0,12,6,0.0,2332414,Denis Favre Felix,0,0.3289462282738837,-0.15828025270476967
+1552921094,Formal verification of a c compiler front-end,2006,11,107,3,1.0,232688380,Zaynah Dargaye,0,-0.48321859212676416,0.1734009018022703
+1535296962,Dynamics in ML,1991,24,34,2,1.0,704313245,Michel Mauny,0,0.037394458888199,0.0203584838415571
+1544300973,Java Bytecode Verification An Overview,2001,32,79,1,1.0,2780386900,Xavier Leroy,0,-1.388501395833449,-0.02837095984832065
+1526802711,Towards Formally Verified Optimizing Compilation in Flight Control Software,2011,10,7,5,0.0,2332414,Denis Favre Felix,0,0.5906441303909218,-0.4840463607746325
+1572478860,Validating LR (1) parsers,2012,31,44,3,1.0,1990876473,Jacques Henri Jourdan,0,-1.6145021374541235,-1.8175146636881
+1501401133,Java Bytecode Verification Algorithms and Formalizations,2003,50,137,1,1.0,2780386900,Xavier Leroy,0,-1.895146827577772,-0.12046293028797032
+1528193315,Implementing multi-stage languages using ASTs Gensym and reflection,2003,58,104,4,0.0,2115355226,Cristiano Calcagno,0,-0.712589419114784,-0.10188910542380526
+1547334915,Mechanized semantics for compiler verification,2012,16,0,1,1.0,2780386900,Xavier Leroy,0,-0.34915224001166,0.6639002672334906
+1485845471,Mechanized verification of CPS transformations,2007,27,19,2,1.0,232688380,Zaynah Dargaye,0,-0.8250590428435123,-0.6149230743202059
+1529949989,Formal verification of a memory model for C -like imperative languages,2005,27,14,2,0.326083,2618548387,Sandrine Blazy,0,-0.13708540964040145,-0.1853211339361828
+1513332686,Computer security from a programming language and static analysis perspective,2003,54,6,1,1.0,2780386900,Xavier Leroy,0,2.0599929949276015,-2.371569862727088
+1540546860,A structured approach to proving compiler optimizations based on dataflow analysis,2004,7,12,3,0.263285,22202220,Yves Bertot,0,-0.6140921170648069,0.953296111845255
+1586721730,New Results - The Objective Caml system libraries and tools,2003,0,0,10,1.0,179588634,Luc Maranget,0,0.056176093126517494,0.06750952315253135
+1842760680,Programming languages types compilation and proofs,2006,0,0,20,0.0,132530016,Boris Yakobowski,0,2.309730682371688,-0.42756256883147326
+1584210087,Formal verification of an optimizing compiler,2007,3,0,1,1.0,2780386900,Xavier Leroy,0,-0.7096449737312167,0.11464417941154759
+1593771739,Mixin Modules in a Call-by-Value Setting,2002,18,52,2,1.0,2198257603,Tom Hirschowitz,0,-0.22652675751197007,-0.3740594023078965
+1981899763,Formal verification of translation validators a case study on instruction scheduling optimizations,2008,22,63,2,1.0,2194662055,Jean Baptiste Tristan,0,-0.25267119481335704,-0.0307225776746541
+1966907620,A List-machine Benchmark for Mechanized Metatheory,2007,20,8,2,0.0,2120329599,Andrew W. Appel,0,-0.42316120125960494,1.0458179932733311
+1982866418,Coinductive big-step operational semantics,2009,42,125,2,1.0,210637011,HervÃ© Grall,0,-0.3644773849085837,-0.06693392467670986
+1988233180,A simple verified validator for software pipelining,2010,30,29,2,1.0,2194662055,Jean Baptiste Tristan,0,-0.7488507597007009,0.15680677960488348
+2000817748,Compilation of extended recursion in call-by-value functional languages,2003,31,25,3,0.892207,2138645069,Joseph Brian Wells,0,-0.18969005488961405,0.673029221636358
+1988579293,Verified Compilation of Floating-Point Computations,2015,35,16,4,0.5979,93979365,Guillaume Melquiond,0,-0.15209640321697984,0.0908509799771277
+2010524468,Objects classes and modules in Objective Caml (invited lecture abstract only),1999,0,0,1,1.0,2780386900,Xavier Leroy,0,-0.2957493740837496,0.2523217820186973
+2026348235,Compiler verification for fun and profit,2014,4,2,1,1.0,2780386900,Xavier Leroy,0,0.8273322397091972,0.2451150295018421
+2023035194,Formal verification of a realistic compiler,2009,20,609,1,1.0,2780386900,Xavier Leroy,0,-1.7435817656710453,-0.32805079503673473
+2012470235,Bytecode verification on Java smart cards,2002,25,87,1,1.0,2780386900,Xavier Leroy,0,-2.972725579343551,-0.23103787129379372
+2014589945,Validating register allocation and spilling,2010,21,15,2,0.0,1985218655,Silvain Rideau,0,-0.4803749405359604,0.30584848074969656
+2026942132,Mixin modules in a call-by-value setting,2005,31,14,2,1.0,2198257603,Tom Hirschowitz,0,-0.5149303145292234,-0.6116089781496831
+2042220347,Verified validation of lazy code motion,2009,25,34,2,1.0,2194662055,Jean Baptiste Tristan,0,-0.19049477103065107,0.3227599826699962
+2062838583,A mechanized semantics for C++ object construction and destruction with applications to resource management,2012,15,5,3,0.618517,2109893918,Gabriel Dos Reis,0,0.4390569412602933,-0.8005855188214756
+2075437385,Safety first technical perspective,2011,0,1,1,1.0,2780386900,Xavier Leroy,0,-0.1164726804531344,0.019252515865476
+2073733988,A verified framework for higher-order uncurrying optimizations,2009,40,5,2,1.0,232688380,Zaynah Dargaye,0,-0.6748062700981251,0.007791515278525419
+2056408260,Keynote II Formally verifying a compiler Why How How far ,2011,0,1,1,1.0,2780386900,Xavier Leroy,0,-2.12629782841357,-0.7726763091929246
+2072162091,Type-based analysis of uncaught exceptions,2000,45,71,1,1.0,2780386900,Xavier Leroy,0,-0.1552670797139508,0.06128821660480206
+2063477593,Verified squared does critical software deserve verified tools ,2011,18,8,1,1.0,2780386900,Xavier Leroy,0,0.6874888703679469,-0.7816024018396979
+2065252887,Special issue dedicated to icfp 2009 editorial,2011,0,0,2,0.0,2027002858,Andrew Tolmach,0,-0.4092206616038536,-0.0401083610130616
+2102654013,Security properties of typed applets,1998,38,67,2,1.0,1597489131,Francois M. Rouaix,0,-0.9190852706301288,0.2564571649266079
+2080575293,A Formally-Verified C Static Analyzer,2015,35,60,4,0.0,245784412,David Pichardie,0,-0.6099077554028716,0.10406923450874515
+2084175640,Mechanized Semantics for the Clight Subset of the C Language,2009,41,102,2,0.0,2618548387,Sandrine Blazy,0,-0.20746659449499383,-0.019872313927595753
+2098456419,Polymorphism by name for references and continuations,1993,17,35,1,1.0,2780386900,Xavier Leroy,0,-0.0428758303788283,-0.223663520292217
+2104656753,Type-based analysis of uncaught exceptions,1999,35,45,1,1.0,2780386900,Xavier Leroy,0,-0.5011610238363987,0.5428951903698384
+2088975898,A list-machine benchmark for mechanized metatheory,2012,14,4,3,0.343137,1987465392,Robert Dockins,0,-0.42316120125960494,1.0458179932733311
+2117552698,Dynamics in ML,1993,14,62,2,1.0,704313245,Michel Mauny,0,0.056176093126517494,0.06750952315253135
+2129695855,Formal certification of a compiler back-end or programming a compiler with a proof assistant,2006,35,483,1,1.0,2780386900,Xavier Leroy,0,-1.6010035152398272,0.29580109631548157
+2133171398,A syntactic theory of type generativity and sharing,1996,24,45,1,1.0,2780386900,Xavier Leroy,0,-0.1164726804531344,0.019252515865476
+2118598235,Tilting at Windmills with Coq Formal Verification of a Compilation Algorithm for Parallel Moves,2008,12,18,3,0.49825,430271,Bernard Serpette,0,-0.030053677396128187,0.6172420818425975
+2127600624,A modular module system,2000,40,92,1,1.0,2780386900,Xavier Leroy,0,0.9233562013439243,-0.5895352895362732
+2110135416,Polymorphic type inference and assignment,1991,13,60,2,0.0,2150529795,Pierre Weis,0,-0.5559508473339436,0.06387021367640888
+2125030384,Formal verification of object layout for c++ multiple inheritance,2011,14,15,3,0.618517,2109893918,Gabriel Dos Reis,0,-0.6853929650890465,-1.0666742242802552
+2128113696,Compilation of extended recursion in call-by-value functional languages,2009,35,1,3,0.460695,2138645069,Joseph Brian Wells,0,-0.5038405617509993,-0.17071387308041894
+2134561344,Formal verification of an optimizing compiler,2007,3,4,1,1.0,2780386900,Xavier Leroy,0,-1.7084993348543231,-0.2748784291193718
+2168254994,A compiled implementation of strong reduction,2002,19,133,2,1.0,2133591209,Benjamin GrÃ©goire,0,-1.2588527816921447,-0.6731426586467422
+2172497617,Security properties of typed applets,2001,34,15,2,1.0,1597489131,Francois M. Rouaix,0,-1.3184852164757666,0.04572249480295665
+2148662736,A Formally Verified Compiler Back-end,2009,88,260,1,1.0,2780386900,Xavier Leroy,0,-1.7428854562372065,-0.24947356615608957
+2169761811,Unboxed objects and polymorphic typing,1992,17,187,1,1.0,2780386900,Xavier Leroy,0,0.39143719988235837,-0.5549225782188673
+2154942048,Formal Verification of a C-like Memory Model and Its Uses for Verifying Program Transformations,2008,22,96,2,0.0,2618548387,Sandrine Blazy,0,-0.24102641374296008,-0.01754423520890569
+2145945984,Manifest types modules and separate compilation,1994,21,211,1,1.0,2780386900,Xavier Leroy,0,-0.1164726804531344,0.019252515865476
+2187724846,unix system programming in objective caml,2010,8,0,2,0.0,2012949097,Didier RÃ©my,0,1.5973181085479915,-0.6611102435688025
+2167017930,Applicative functors and fully transparent higher-order modules,1995,15,110,1,1.0,2780386900,Xavier Leroy,0,-0.2625734345040765,-0.18226542615867772
+2158211562,A Formally-Verified C Compiler Supporting Floating-Point Arithmetic,2013,28,28,4,0.5979,93979365,Guillaume Melquiond,0,0.08965822952164351,0.15602592799593795
+2161318861,A concurrent generational garbage collector for a multithreaded implementation of ML,1993,23,194,2,0.0,2112543321,Damien Doligez,0,0.056176093126517494,0.06750952315253135
+2155466296,Coinductive big-step operational semantics,2006,32,31,1,1.0,2780386900,Xavier Leroy,0,-0.3905556209819569,0.0037920099161882002
+2176417916,Mechanized Semantics for Compiler Verification,2012,15,9,1,1.0,2780386900,Xavier Leroy,0,-0.34915224001166,0.6639002672334906
+2288285441,CompCert - A Formally Verified Optimizing Compiler,2016,7,11,6,0.474554,2135737970,Christian Ferdinand,0,-0.21351191508682704,-0.01704839923440648
+2280545714,New Results - The Objective Caml system tools and extensions,2007,0,1,10,1.0,179588634,Luc Maranget,0,0.056176093126517494,0.06750952315253135
+2301719371,The CompCert memory model,2014,0,6,4,0.0,2120329599,Andrew W. Appel,0,-0.1164726804531344,0.019252515865476
+2399304997,Mechanized semantics - with applications to program proof and compiler verification,2010,0,6,1,1.0,2780386900,Xavier Leroy,0,0.1442795341252336,2.221559479190793
+2483609192,C light operational semantics,2014,0,0,8,0.0,188738687,Aquinas Hobor,0,-0.1164726804531344,0.019252515865476
+2472791989,Coinductive big-step operational semantics,2006,0,1,1,1.0,2780386900,Xavier Leroy,0,-0.3905556209819569,0.0037920099161882002
+2494497208,How to specify a compiler,2014,0,0,8,0.0,188738687,Aquinas Hobor,0,-1.9160768615408061,-0.3803367524429254
+2494528814,A Simple Verified Validator for Software Pipelining (verification pearl),2010,0,0,2,1.0,2194662055,Jean Baptiste Tristan,0,-0.7492352853292747,0.24232176811924183
+2481244099,Operational semantics of CompCert,2014,0,0,8,0.0,188738687,Aquinas Hobor,0,-0.1164726804531344,0.019252515865476
+2503382151,Call-by-Value Mixin Modules Reduction Semantics Side Effects Types,2004,22,0,3,0.892207,2138645069,Joseph Brian Wells,0,-0.25205660890212234,-0.0916864248669928
+2524618971,A structured approach to proving compiler optimizations based on dataflow analysis,2006,0,18,3,0.263285,22202220,Yves Bertot,0,-0.4001730321207764,1.0310518443808385
+2507069193,Separation logic for CompCert,2014,0,0,8,0.0,188738687,Aquinas Hobor,0,-0.24727965243679215,0.2935408980496507
+2564756005,Closing the Gap â€“ The Formally Verified Optimizing Compiler CompCert,2017,9,4,6,0.474554,2135737970,Christian Ferdinand,0,-0.21351191508682704,-0.01704839923440648
+2609686781,A formally verified compiler for Lustre,2017,54,18,6,0.0,1487162167,Marc Pouzet,0,0.2632673597228274,-0.8914161610721285
+2624006146,New Results - The Objective Caml system and extensions,2008,0,0,10,1.0,179588634,Luc Maranget,0,0.056176093126517494,0.06750952315253135
+2619945721,The OCaml system release 407 Documentation and users manual,2018,0,13,6,0.0,860243711,JÃ©rÃ´me Vouillon,0,-0.5113943907983344,0.09657436966041916
+2769308307,CompCert Practical Experience on Integrating and Qualifying a Formally Verified Optimizing Compiler,2018,8,3,8,0.0,2135737970,Christian Ferdinand,0,-0.32045105899615095,0.4429798670902546
+2748193922,New Results - ImplÃ©mentations de Caml,2002,0,3,10,1.0,179588634,Luc Maranget,0,-0.09571912022054713,-0.0012784868889569312
+2795311635,Formal Verification of Code Generators for Modeling Languages Invited Presentation at the Third Workshop on Models for Formal Analysis of Real Systems and Sixth International Workshop on Verification and Program Transformation,2018,0,0,1,1.0,2780386900,Xavier Leroy,0,0.4273830668656942,-0.141615205599595
+2916460515,The OCaml system release 401 Documentation and users manual,2013,0,2,6,0.0,860243711,JÃ©rÃ´me Vouillon,0,-0.5113943907983344,0.09657436966041916
+2913577310,Proceedings of the 31st ACM SIGPLAN-SIGACT symposium on Principles of programming languages,2004,0,18,2,0.0,2116419005,Neil D. Jones,0,-0.1164726804531344,0.019252515865476
+2913825310,Proceedings of the 2015 Conference on Certified Programs and Proofs,2015,0,0,2,0.0,2290815287,Alwen Tiu,0,-0.25557297744908625,-0.17035612086514865
+2917906087,The OCaml system release 402 Documentation and users manual,2014,0,9,6,0.0,860243711,JÃ©rÃ´me Vouillon,0,-0.5113943907983344,0.09657436966041916
+2951451030,Formally verifying a compiler Why How How far ,2011,0,0,1,1.0,2780386900,Xavier Leroy,0,-0.192074110659276,0.017642957576669144
+2951645031,Coinductive big-step operational semantics,2008,5,6,2,1.0,210637011,HervÃ© Grall,0,-0.46840887642511086,-0.022023302035758648
+2952278735,The OCaml system release 406 Documentation and users manual,2017,0,0,6,0.0,860243711,JÃ©rÃ´me Vouillon,0,-0.5113943907983344,0.09657436966041916
+2999340199,New Results - Formal verification of compilers,2007,0,0,9,0.49825,430271,Bernard Serpette,0,-0.36351749517077564,-0.07988716394416527
+2987009148,Compilation of extended recursion in call-by-value functional languages,2010,0,0,3,0.0,2138645069,Joseph Brian Wells,0,-0.4710860646307315,-0.14026443827068946
+2999768191,New Results - Mechanization of type systems and axiomatic and operational semantics,2007,0,0,9,1.0,210637011,HervÃ© Grall,0,-0.1164726804531344,0.019252515865476
+2988899494,A verified framework for higher-order uncurrying optimizations,2010,0,0,2,1.0,232688380,Zaynah Dargaye,0,-0.3375386364984305,0.8911300248817288
+3014228129,Session details Proofs &amp; verification,2013,0,0,1,1.0,2780386900,Xavier Leroy,0,-0.1164726804531344,0.019252515865476
+3014512212,Session details Semantics,2013,0,0,1,1.0,2780386900,Xavier Leroy,0,-0.1164726804531344,0.019252515865476
+3014737697,Session details Verification,2010,0,0,1,1.0,2780386900,Xavier Leroy,0,-0.1164726804531344,0.019252515865476

@@ -1,0 +1,101 @@
+96636354,Structure-Based RSA fault attacks,2012,28,1,3,1.0,2161933956,Juliane KrÃ¤mer,0,0.6702791959894633,-0.9850196441751257
+101890072,Proceedings of the 3rd international workshop on Trustworthy embedded devices,2013,0,1,3,0.0,240619246,Frederik Armknecht,0,-0.3035212067475978,0.2841921762156388
+281819335,Fourth international workshop on Fault Diagnosis and Tolerance in Cryptography 2007 FDTC 2007 Vienna Austria 10 September 2007,2007,0,0,4,0.0,2005500650,David Naccache,0,0.8526502076968768,-0.3253855670599712
+572583825,Detection of intrusions and malware and vulnerability assessment 10th International Conference DIMVA 2013 Berlin Germany July 18-19 2013 proceedings,2013,0,0,3,0.0,1490754758,Dimva,0,0.05940095047987125,0.6960502266457337
+1496265857,Advances on access-driven cache attacks on AES,2006,18,135,1,1.0,2228949119,Jean Pierre Seifert,0,-0.16299321389279614,0.38846877302924454
+1568422931,Experimental analysis of the femtocell location verification techniques,2010,2,9,2,1.0,177998215,Kevin Redon,0,0.0040557659796233,0.2757546058061082
+1542792105,Beyond kernel-level integrity measurement enabling remote attestation for the android platform,2010,12,63,2,0.460768,2117662806,Xinwen Zhang,0,-0.6036923683965225,0.375257048162373
+1544217340,Securing stored content for trusted hosts and safe computing environments,2007,12,75,4,1.0,301415581,Onur Aciicmez,0,-1.1532464129495215,-0.056633418534679986
+1499791368,New branch prediction vulnerabilities in openSSL and necessary software countermeasures,2007,14,64,2,1.0,301415581,Onur Aciicmez,0,0.6344935688768647,-0.6655159466348841
+1253017325,Software mitigations to hedge AES against cache-based software side channel vulnerabilities,2006,27,103,2,0.0,2098628844,Ernie Brickell,0,0.9728745442013332,-0.637038805116451
+1510561055,Fault Diagnosis and Tolerance in Cryptography Third International Workshop FDTC 2006 Yokohama Japan October 10 2006 proceedings,2006,0,2,5,0.0,1519161656,Fdtc,0,0.592634161252283,-1.794285728495407
+1575285540,Is it wise to publish your public RSA keys,2006,19,3,1,1.0,2228949119,Jean Pierre Seifert,0,-0.10468823585923807,-0.6211183699075671
+1446055483,A First Look at Firefox OS Security,2014,18,6,1,1.0,2228949119,Jean Pierre Seifert,0,-0.7242314995029994,1.828252750149243
+1549483202,DR@FT efficient remote attestation framework for dynamic systems,2010,14,8,4,0.0,2102996759,Hongxin Hu,0,-0.3510621559915881,0.43517157633961984
+1738027543,Method and system for enforcing trusted computing policies in a hypervisor security module architecture,2007,5,50,2,0.826591,2117662806,Xinwen Zhang,0,-1.3078723884004255,0.07248885438496717
+1577728713,SEIP simple and efficient integrity protection for open mobile platforms,2010,17,9,3,0.944115,301415581,Onur Aciicmez,0,-0.056835282290150335,0.5672432824153562
+1670383742,Weaknesses in current RSA signature schemes,2011,27,4,2,1.0,2161933956,Juliane KrÃ¤mer,0,0.42703446035810794,-1.4007501653789562
+1588117747,Safety and management of computing environments that may support unsafe components,2008,7,37,5,1.0,301415581,Onur Aciicmez,0,-0.3955968751418488,0.14917958692069197
+1611570974,On the Impossibility of Detecting Virtual Machine Monitors,2009,34,1,1,1.0,2228949119,Jean Pierre Seifert,0,-0.3955968751418488,0.14917958692069197
+1778464109,Let me answer that for you exploiting broadcast information in cellular networks,2013,15,24,2,1.0,177998215,Kevin Redon,0,0.0040557659796233,0.2757546058061082
+1951189428,Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems,2015,16,10,2,0.0,1234366643,Valtteri Niemi,0,0.0040557659796233,0.2757546058061082
+1978666836,Taming Mr Hayes Mitigating signaling based attacks on smartphones,2012,18,22,2,0.0,69553456,Steffen Liebergeld,0,0.05940095047987125,0.6960502266457337
+2025115771,Usage control platformization via trustworthy SELinux,2008,16,22,2,0.826591,2117662806,Xinwen Zhang,0,-0.3046949072947797,0.6106405873830437
+2032241176,Micro-Architectural Cryptanalysis,2007,12,24,3,0.0,2057074609,Ã‡etin Kaya KoÃ§,0,0.8462860906967575,-1.9610637850181192
+2011257923,A refined look at Bernsteins AES side-channel analysis,2006,0,62,2,0.0,2137931664,Zhenghong Wang,0,0.6019217148307768,-0.1895976081434737
+2021926456,Rise of the iBots Owning a telco network,2010,7,78,1,1.0,2228949119,Jean Pierre Seifert,0,0.25553752762548526,0.7551642369664288
+2050794676,Achieving Software Security for Measuring Instruments under Legal Control,2014,11,2,3,1.0,2144920870,Daniel Peters,0,-0.794631898744066,1.5615825564420127
+2038424176,A Trusted Mobile Phone Prototype,2008,10,20,4,1.0,301415581,Onur Aciicmez,0,-1.940900258934282,-0.11878989288447013
+2041249434,Design and Implementation of Efficient Integrity Protection for Open Mobile Platforms,2014,17,6,3,0.726922,301415581,Onur Aciicmez,0,-0.3383784544281044,0.15268826611744696
+2045126902,In God we trust all others we monitor,2010,1,3,2,1.0,331524457,Patrick Stewin,0,-0.4986044745419689,0.7785046004736418
+2064819263,Security analysis of a femtocell device,2011,12,25,2,1.0,177998215,Kevin Redon,0,-0.5035578328959777,1.617711324873295
+2064996819,Physical vulnerabilities of Physically Unclonable Functions,2014,14,21,3,1.0,96021894,Clemens Helfmeier,0,0.13606364266527124,-0.48640319328207227
+2065039181,The role of photons in cryptanalysis,2014,18,3,3,1.0,2056301267,Michael Kasper,0,0.6126637274321908,-0.3279839682965786
+2066834245,Lattice Basis Reduction Attack against Physically Unclonable Functions,2015,37,15,4,1.0,1978361361,Shahin Tajik,0,-0.1217785234188898,-0.29698988173471963
+2065357208,A Secure System Architecture for Measuring Instruments in Legal Metrology,2015,18,7,3,1.0,2144920870,Daniel Peters,0,0.0040557659796233,0.2757546058061082
+2056778557,On the power of simple branch prediction analysis,2007,38,174,3,1.0,301415581,Onur Aciicmez,0,-0.3196217324223912,-1.1825187896194416
+2067706455,A new CRT-RSA algorithm secure against bellcore attacks,2003,21,115,2,0.0,138736257,Johannes BlÃ¶mer,0,0.4950193994065576,-0.8894615968166135
+2069600520,Poster Towards detecting DMA malware,2011,3,13,2,1.0,331524457,Patrick Stewin,0,-0.3976003713362508,1.164290882867107
+2076611807,Breaking and entering through the silicon,2013,25,67,4,1.0,96021894,Clemens Helfmeier,0,-0.11789865406400801,0.4103502383308374
+2097575788,Secure Mobile Payment via Trusted Computing,2008,19,19,2,0.826591,2117662806,Xinwen Zhang,0,-0.1610623653674213,-0.29046923830279947
+2091681703,pBMDS a behavior-based malware detection system for cellphone devices,2010,21,113,4,0.625,2101464446,Liang Xie,0,0.05940095047987125,0.6960502266457337
+2093830343,Simple photonic emission analysis of AES,2013,26,25,5,0.0,341955035,Dmitry Nedospasov,0,0.9203648031243729,-0.7060980483063715
+2123382811,SMS-based one-time passwords attacks and defense,2013,13,46,2,1.0,331524457,Patrick Stewin,0,-0.7755833721932802,0.04420296924239154
+2129494520,Model-based behavioral attestation,2008,11,57,3,0.826591,2117662806,Xinwen Zhang,0,-0.8317969152233504,0.18781957083573345
+2112284176,Fault Based Cryptanalysis of the Advanced Encryption Standard (AES),2003,40,268,2,0.0,138736257,Johannes BlÃ¶mer,0,1.074680292410017,-1.3406343809652703
+2124346661,Flexible Authorization with Decentralized Access Control Model for Grid Computing,2007,33,7,3,0.0,2100637783,Mingwei Xu,0,0.2956439720776313,1.6861178531085106
+2139684396,A trusted mobile phone reference architecturevia secure kernel,2007,18,54,3,1.0,301415581,Onur Aciicmez,0,-1.940900258934282,-0.11878989288447013
+2128121494,A general obligation model and continuity enhanced policy enforcement engine for usage control,2008,25,62,5,0.0,355693066,Ruth Breu,0,1.4489593316484237,0.8774182886597391
+2145386488,On authenticated computing and RSA-based authentication,2005,19,33,1,1.0,2228949119,Jean Pierre Seifert,0,-0.17704954357626912,-0.2905873682824812
+2167876133,A Model-Driven Framework for Trusted Computing Based Systems,2007,23,14,2,0.826591,2117662806,Xinwen Zhang,0,0.05086625534385923,0.9620358106607261
+2271407807,Device and method for encrypting data,2004,11,7,2,0.952381,2135426620,Wieland Fischer,0,0.4497672507945682,-1.998565517259077
+2228691322,Active access monitoring for safer computing environments and systems,2008,12,30,4,1.0,301415581,Onur Aciicmez,0,-0.9001598381822628,0.001514768724225744
+2229670280,Undermining Isolation Through Covert Channels in the FiascoOC Microkernel,2016,34,0,5,0.0,111298805,Janis Danisevskis,0,-1.4598928535135098,1.489712309748741
+2222462162,Safe and efficient access control mechanisms for computing environments,2008,18,40,4,1.0,301415581,Onur Aciicmez,0,-1.258164434645081,1.445581926412189
+2264554182,Managing multiple personal clouds and digital assets over multiple devices,2013,15,0,5,0.0,21732816,Victoria Stavridou Coleman,0,0.05445220858740755,0.034842204498028065
+2245222169,Secure inter-process communication for safer computing environments and systems,2009,4,11,3,1.0,301415581,Onur Aciicmez,0,-0.3186624482785879,0.24470236180988383
+2232194945,METHOD AND SYSTEM FOR EXTENDING SELINUX POLICY MODELS AND THEIR ENFORCEMENT,2007,16,11,2,0.826591,2117662806,Xinwen Zhang,0,0.0040557659796233,0.2757546058061082
+2206744638,Preventing abuse of services in trusted computing environments,2008,10,18,3,1.0,301415581,Onur Aciicmez,0,-0.3955968751418488,0.14917958692069197
+2197676279,Authentication identity and service management for computing and communication systems,2008,7,32,3,1.0,301415581,Onur Aciicmez,0,-1.5138808527249754,-0.36818006608867826
+2293493339,SMS of death from analyzing to attacking mobile phones on a large scale,2011,11,57,2,0.0,44329635,Nico Golde,0,0.0040557659796233,0.2757546058061082
+2294709132,Why Attackers Win On the Learnability of XOR Arbiter PUFs,2015,30,29,3,1.0,1978361361,Shahin Tajik,0,-0.5199449599066095,-0.9536655702976358
+2296176394,SMS-Based One-Time Passwords Attacks and Defense - (Short Paper),2013,7,9,2,1.0,331524457,Patrick Stewin,0,-0.712974808895257,0.12462242928583028
+2339960010,Towards Vulnerability Discovery Using Staged Program Analysis,2016,25,2,3,0.0984537,1912135871,Konrad Rieck,0,0.2854508577059591,3.025327168113048
+2346059855,Building Efficient Integrity Measurement and Attestation for Mobile Phone Platforms,2009,7,20,3,1.0,301415581,Onur Aciicmez,0,-1.3424599907106527,0.23292674787469822
+2391706598,Secure Cloud Reference Architectures for Measuring Instruments under Legal Control,2016,14,5,2,1.0,2158515347,Florian Thiel,0,-0.08650044772053431,-1.449101006869995
+2431294373,Proceedings of the 3rd ACM workshop on Scalable trusted computing,2008,0,21,3,0.0,316622382,Cristina Nita Rotaru,0,-0.05365090075634804,-0.08574864958178106
+2503149155,Detection of Intrusions and Malware and Vulnerability Assessment,2013,0,7,3,1.0,331524457,Patrick Stewin,0,0.05940095047987125,0.6960502266457337
+2532510078,White Rabbit in Mobile Effect of Unsecured Clock Source in Smartphones,2016,11,4,1,1.0,2228949119,Jean Pierre Seifert,0,0.0040557659796233,0.2757546058061082
+2528765555,NetCo Reliable Routing With Unreliable Routers,2016,23,5,6,0.0,2004230566,Michael Waidner,0,0.08595575162524048,0.24009589333444895
+2565033795,Fault Attacks on Encrypted General Purpose Compute Platforms,2017,22,5,3,1.0,461610762,Jan Nordholz,0,0.13243572641083456,-1.8701930197081085
+2676982324,Photonic side channel attacks against RSA,2017,14,5,2,0.0,2064532066,Avishai Wool,0,0.5933005802474812,-1.3021262116514785
+2607158040,Leveraging Flawed Tutorials for Seeding Large-Scale Web Vulnerability Discovery,2017,18,0,4,0.0768035,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2620797757,Static Exploration of Taint-Style Vulnerabilities Found by Fuzzing,2017,12,0,3,0.0768035,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2753040301,White-stingray evaluating IMSI catchers detection applications,2017,9,8,2,0.0,2125634052,Andrew Martin,0,0.0040557659796233,0.2757546058061082
+2765566174,The vAMP Attack Taking Control of Cloud Systems via the Unified Packet Parser,2017,18,6,4,0.0,2036301181,Anja Feldmann,0,0.0040557659796233,0.2757546058061082
+2766071343,On the Power of Optical Contactless Probing Attacking Bitstream Encryption of FPGAs,2017,14,18,2,1.0,1978361361,Shahin Tajik,0,0.520898253281494,-0.6303474722591677
+2751509862,fastboot oem vuln Android Bootloader Vulnerabilities in Vendor Customizations,2017,0,2,7,0.0768035,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2739669335,A Secure System Architecture for Measuring Instruments in Legal Metrology y,2015,17,0,3,1.0,2144920870,Daniel Peters,0,0.0040557659796233,0.2757546058061082
+2760842181,Static Program Analysis as a Fuzzing Aid,2017,19,7,6,0.0768035,1912135871,Konrad Rieck,0,-1.3721930698182816,1.7734739921660752
+2810067257,On the Impact of Rogue Base Stations in 4G/LTE Self Organizing Networks,2018,15,7,1,1.0,2228949119,Jean Pierre Seifert,0,-1.849432942852349,2.2197575014087185
+2801656554,SouverÃ¤nitÃ¤t und die IT-WertschÃ¶pfungskette,2018,5,0,2,1.0,2056301267,Michael Kasper,0,0.0040557659796233,0.2757546058061082
+2876791871,Blockchain applications for legal metrology,2018,9,7,3,1.0,2144920870,Daniel Peters,0,-0.6794128920096054,-0.016911773847216982
+2889057514,Swipe Your Fingerprints How Biometric Authentication Simplifies Payment Access and Identity Fraud,2018,0,0,1,1.0,2228949119,Jean Pierre Seifert,0,-0.8119557772668349,0.8332725579500264
+2912594762,Proceedings of the 10th international conference on Detection of Intrusions and Malware and Vulnerability Assessment,2013,0,0,2,0.124564,1912135871,Konrad Rieck,0,0.05940095047987125,0.6960502266457337
+2911743852,Proceedings of the Third international conference on Fault Diagnosis and Tolerance in Cryptography,2006,0,0,4,0.0,2005500650,David Naccache,0,0.3171484069971384,-0.13992525839030945
+2952404923,New Branch Prediction Vulnerabilities in OpenSSL and Necessary Software Countermeasures,2007,0,1,2,1.0,301415581,Onur Aciicmez,0,1.879101848787443,-0.1268324035926997
+2952460563,Fault attacks on RSA with CRT Concrete Results and Practical Countermeasures,2002,0,3,4,0.0,1306237192,Peter Hofreiter,0,0.0040557659796233,0.2757546058061082
+2947814692,PeriScope An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary,2019,0,7,5,0.0,297668329,Stijn Volckaert,0,0.0040557659796233,0.2757546058061082
+2963061006,Practical attacks against privacy and availability in 4G/LTE mobile communication systems,2016,11,79,2,0.0,1234366643,Valtteri Niemi,0,0.0040557659796233,0.2757546058061082
+2950783244,Fault Attacks on Encrypted General Purpose Compute Platforms,2016,28,0,3,1.0,461610762,Jan Nordholz,0,0.04919180059280187,-0.11297962877609666
+2951199893,Towards Vulnerability Discovery Using Staged Program Analysis,2015,23,0,3,0.124564,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2946045894,New vulnerabilities in 4G and 5G cellular access network protocols exposing device capabilities,2019,8,5,1,1.0,2228949119,Jean Pierre Seifert,0,-0.34087541519802794,0.3459055576920123
+2989973393,Rocknroll PUFs Crafting Provably Secure PUFs from Less Secure Ones,2019,0,0,5,0.00167363,1976116216,Mark Tehranipoor,0,0.0040557659796233,0.2757546058061082
+2983195505,Anatomy of Commercial IMSI Catchers and Detectors,2019,38,2,1,1.0,2228949119,Jean Pierre Seifert,0,0.1639362940477497,0.6530314529854678
+2970174148,A Fourier Analysis Based Attack Against Physically Unclonable Functions,2018,50,2,3,1.0,1978361361,Shahin Tajik,0,0.0040557659796233,0.2757546058061082
+2971247463,Insecure Until Proven Updated Analyzing AMD SEVs Remote Attestation,2019,14,1,1,1.0,2228949119,Jean Pierre Seifert,0,-0.2353380404684584,-0.6842502509832449
+2978482827,Session details Isolating applications,2011,0,0,1,1.0,2228949119,Jean Pierre Seifert,0,0.0040557659796233,0.2757546058061082
+2978553754,Blockchain-enabled Cryptographically-secure Hardware Obfuscation,2019,0,1,4,1.0,1978361361,Shahin Tajik,0,1.2994115489925016,0.3514738224789306
+3007936293,IT Security for Measuring Instruments Confidential Checking of Software Functionality,2020,16,0,5,0.0,1969127600,Katsuhiro Shirono,0,0.27191881472447815,-0.8355514765692342
+3008973310,Eradicate errors and backdoors in information technology and facilitate innovation,2019,0,0,2,1.0,2056301267,Michael Kasper,0,0.0040557659796233,0.2757546058061082
+3021294230,Rockâ€™nâ€™roll PUFs crafting provably secure pufs from less secure ones (extended version),2020,36,0,5,0.00167363,1976116216,Mark Tehranipoor,0,0.0040557659796233,0.2757546058061082

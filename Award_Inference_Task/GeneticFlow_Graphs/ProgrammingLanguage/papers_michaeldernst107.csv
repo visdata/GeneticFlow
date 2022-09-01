@@ -1,0 +1,97 @@
+35471777,Proceedings of the Workshop on Model-Based Testing and Object-Oriented Systems,2006,73,0,9,0.0,99310831,Wolfgang Grieskamp,0,0.5625510054192226,0.11682541779709514
+52530986,Formalizing Lightweight Verification of Software Component Composition,2004,19,7,1,1.0,2235702021,Michael D. Ernst,0,2.020214526507087,-0.5311400568409119
+36134198,Inference of generic types in Java,2003,20,6,2,0.0,2129291842,Alan Donovan,0,-0.40471640293245914,-0.006859898749879176
+89174838,Dynamically Discovering Program Invariants Involving Collections,2000,33,16,2,0.507133,2112220066,William G. Griswold,0,1.2809409654702535,-0.5705216210709998
+193626754,Safe Runtime Examination of Data Structures in C Programs,2004,3,1,1,1.0,2235702021,Michael D. Ernst,0,-0.40301366346177214,0.4118335020528149
+144724653,Static verification of dynamically detected program invariants Integrating Daikon and ESC/Java,2001,55,93,2,1.0,2004925533,Jeremy W. Nimmer,0,-2.264537839599009,0.7899573430483388
+1541313361,Static deadlock detection for java libraries,2005,21,112,2,0.0,2140008263,Amy L. Williams,0,-0.4398525862287386,-0.426528902267567
+1572317885,Effective software testing with a string-constraint solver,2009,111,3,2,0.958013,1249941522,Adam Kiezun,0,1.7838772470505249,-0.40365052271166074
+1486902566,Inference of Reference Immutability,2008,27,28,3,1.0,2142465884,Jaime Quinonez,0,0.21426480081826438,-0.34188100059926807
+1522121806,Semantics for Locking Specifications,2016,16,2,3,0.790923,311078280,Massimo Merro,0,-0.1164726804531344,0.019252515865476
+1522692903,HAMPI a string solver for testing analysis and vulnerability detection,2011,29,36,5,0.833333,60101718,Pieter Hooimeijer,0,0.6138073752992501,-0.4971495143433623
+1793982226,Java UI effects for controlling UI object access,2013,19,14,3,1.0,2021751513,Werner Dietl,0,0.7869334841826092,-0.6757978598913709
+1669449081,Inference and checking of object ownership,2012,31,35,2,1.0,2021751513,Werner Dietl,0,-0.2550334777456155,0.1855815550383771
+1586902756,Predicate Dispatching A Unified Theory of Dispatch,1998,16,126,3,0.0,2100053763,Craig S. Kaplan,0,-0.46140502624107915,-1.2355641277857712
+1637866372,Automated support for program refactoring using invariants,2001,18,138,3,0.0,477007165,David Notkin,0,0.9245413295139923,-0.28212403159057586
+1607874909,How tests and proofs impede one another the need for always-on static and dynamic feedback,2010,0,1,1,1.0,2235702021,Michael D. Ernst,0,0.023624858176243626,-0.10733219360856791
+1590404294,Theories in Practice Easy-to-Write Specifications that Catch Bugs,2008,19,11,2,0.757576,2002991584,David Saff,0,0.35195722465615403,-0.004982571973490518
+1608589480,Pluggable type-checking for custom type qualifiers in Java,2007,28,5,4,1.0,2145345087,Jeff H. Perkins,0,-0.2693551593338244,0.06410658888844319
+1963927760,Using predicate fields in a highly flexible industrial control system,2005,30,0,2,1.0,1517157260,Shay Artzi,0,-0.1164726804531344,0.019252515865476
+1964830323,An overview of JML tools and applications,2005,96,627,7,0.0,710865586,K. Rustan M. Leino,0,-0.8841317640312372,-0.08715222038521991
+1965194038,Randoop feedback-directed random testing for Java,2007,4,254,2,0.0,2235013037,Carlos Pacheco,0,2.2760907486174693,-0.7711832438662964
+1973927605,Research summary for dynamic detection of program invariants,1999,3,1,1,1.0,2235702021,Michael D. Ernst,0,1.744120283127999,-0.20692346215944826
+1983119041,Quickly detecting relevant program invariants,2000,8,217,3,0.0,477007165,David Notkin,0,1.203799138963117,-0.33566172299007985
+1965976058,Automated documentation inference to explain failed tests,2011,32,46,1,1.0,2235702021,Michael D. Ernst,0,0.33957935488291957,-0.23395888455970767
+1971388424,Value dependence graphs representation without taxation,1994,38,109,4,0.0,203879161,Bjarne Steensgaard,0,-0.29849288030773813,-0.33366388835543015
+1991337473,Compile-time type-checking for custom type qualifiers in Java,2007,4,7,2,1.0,2191342754,Mahmood Ali,0,-3.1582227796572977,0.31136396768127084
+1993155808,Ownership and immutability in generic Java,2010,37,45,5,0.483231,1973305793,Alex Potanin,0,0.27307414732339325,-0.21635701171317903
+2000952465,Refactoring using type constraints,2011,30,52,6,0.16306,696077761,Robert M. Fuhrer,0,0.02357216066782948,-0.24051224588601727
+1992371286,Invariant inference for static checking,2002,31,43,2,1.0,2004925533,Jeremy W. Nimmer,0,0.5650673334796984,-0.3312032620432013
+2011958337,Invariant inference for static checking an empirical evaluation,2002,32,65,2,1.0,2004925533,Jeremy W. Nimmer,0,0.5650673334796984,-0.3312032620432013
+2011565812,Finding errors in multithreaded GUI applications,2012,21,29,1,1.0,2235702021,Michael D. Ernst,0,-0.248268636135876,0.19783694315834277
+2041950498,Rely-guarantee references for refinement types over aliased mutable data,2013,49,11,2,1.0,2152026014,Colin S. Gordon,0,-0.22960141548975907,0.11626027843657778
+2036740020,Using Declarative Specification to Improve the Understanding Extensibility and Comparison of Model-Inference Algorithms,2015,41,24,5,0.0,79034176,Ivan Beschastnikh,0,0.2117303585827412,-0.24390407049917426
+2052944315,Enforcing reference and object immutability in Java,2008,4,1,3,0.916667,2081409973,Yoav Zibin,0,-0.4781276795755196,-0.20941839079218338
+2044901139,HAMPI A solver for word equations over strings regular expressions and context-free grammars,2012,58,36,5,0.833333,60101718,Pieter Hooimeijer,0,0.1034234795819449,-0.5763868191658222
+2039716375,Tools for enforcing and inferring reference immutability in Java,2007,4,6,3,1.0,2142465884,Jaime Quinonez,0,-2.28106120638464,0.5186606857423885
+2075079981,A type system for regular expressions,2012,22,20,3,1.0,2021751513,Werner Dietl,0,-0.31259353820629554,0.44979439547489825
+2065365769,Cascade a universal programmer-assisted type qualifier inference tool,2015,43,5,4,0.0,608906899,Amarin Phaosawasdi,0,0.7604394909109309,-0.3570876946829424
+2069454232,Building and using pluggable type systems,2010,8,1,2,1.0,2191342754,Mahmood Ali,0,-0.453622269654388,0.07084487377472888
+2100122438,Mock object creation for test factoring,2004,7,23,2,1.0,2002991584,David Saff,0,1.691143670486082,0.08979679572777824
+2097347654,Automatic test factoring for java,2005,17,111,4,1.0,1517157260,Shay Artzi,0,2.2104375452066667,-0.2933182718194907
+2103318645,Dynamically discovering likely program invariants to support program evolution,1999,84,1068,3,0.0,477007165,David Notkin,0,1.8615362047454,-0.07666291019944062
+2094991402,How do programs become more concurrent a story of program transformations,2011,24,26,3,0.115138,602257659,Danny Dig,0,0.23601916984600216,-0.16006446766770843
+2092133509,Automatically repairing broken workflows for evolving GUI applications,2013,34,24,1,1.0,2235702021,Michael D. Ernst,0,0.17341610814491565,-0.05682631734408483
+2098913585,Speculative analysis of integrated development environment recommendations,2012,14,39,4,0.0,477007165,David Notkin,0,0.3339760446250361,0.0003483782149814485
+2138059712,Improving test suites via operational abstraction,2003,39,165,2,0.0,2009685871,Jeff Mellen,0,2.01702319323937,0.029927179790322677
+2114676774,Summary of dynamically discovering likely program invariants,2001,7,7,1,1.0,2235702021,Michael D. Ernst,0,1.5828798427034656,-0.34303012552925977
+2108690834,Converting java programs to use generic libraries,2004,55,59,4,0.0,2129291842,Alan Donovan,0,-2.9914119216428383,0.3519109457788045
+2118004641,Reim &amp; ReImInfer checking and inference of reference immutability and method purity,2012,36,41,2,1.0,2021751513,Werner Dietl,0,-0.3627451866487536,0.14512875272120926
+2129864820,Inference of field initialization,2011,22,12,1,1.0,2235702021,Michael D. Ernst,0,0.09149034532910551,0.023688526477391374
+2106355420,Practical pluggable types for java,2008,45,114,4,1.0,2145345087,Jeff H. Perkins,0,-0.9761850531307367,1.1053511588509093
+2115694885,Refactoring for Parameterizing Java Classes,2007,22,60,4,0.16306,696077761,Robert M. Fuhrer,0,0.6213233439708865,-0.7177694392228993
+2124559112,Parameter reference immutability formal definition inference tool and comparison,2009,67,16,4,0.958013,1249941522,Adam Kiezun,0,-0.022861338202913434,-0.0025780628066490404
+2115875619,Always-available static and dynamic feedback,2011,42,17,2,0.0,2223059147,Michael Bayne,0,0.8648627285971177,-0.24749229011834095
+2112894898,A format string checker for Java,2014,2,0,2,0.967742,2223704160,Konstantin Weitz,0,-0.4054771977735783,0.1466056583125582
+2136579066,Finding Bugs in Web Applications Using Dynamic Test Generation and Explicit-State Model Checking,2010,49,127,7,0.148767,602257659,Danny Dig,0,0.840438285260198,-0.15292684138453902
+2133675710,An empirical analysis of c preprocessor use,2002,34,177,2,0.0,477007165,David Notkin,0,0.3438489145099474,-0.1990626348149427
+2110318050,HAMPI a solver for string constraints,2009,43,235,4,0.714286,60101718,Pieter Hooimeijer,0,0.5816587976905937,-0.4208996377924108
+2139973221,A type system for format strings,2014,17,5,2,0.967742,2223704160,Konstantin Weitz,0,-0.4054771977735783,0.1466056583125582
+2110409011,A practical type system and language for reference immutability,2004,34,61,1,1.0,2235702021,Michael D. Ernst,0,-0.3270344912775002,-0.13487376633753917
+2110908283,The Daikon system for dynamic detection of likely invariants,2007,42,726,5,1.0,2145345087,Jeff H. Perkins,0,-0.08917000364648171,-0.10874553123932229
+2116973066,Automatic generation of program specifications,2002,55,142,2,1.0,2004925533,Jeremy W. Nimmer,0,0.3518316508406268,-0.13103135557217063
+2137956345,Object and reference immutability using Java generics,2007,32,78,6,1.0,1517157260,Shay Artzi,0,-1.3193722330584443,-0.0208556821421638
+2162144045,Concurrencer A tool for retrofitting concurrency into sequential java applications via concurrent libraries,2009,2,3,3,0.148767,602257659,Danny Dig,0,0.5875619186716491,-0.17233466362397382
+2162635569,Building and using pluggable type-checkers,2011,22,59,5,1.0,697220558,Kivanc Muslu,0,-0.36027075151973453,-0.070786783053043
+2156723666,Defects4J a database of existing faults to enable controlled testing studies for Java programs,2014,8,365,3,0.0,2097261778,RenÃ© Just,0,1.71707073451336,-0.5593936659962233
+2144828481,CBCD cloned buggy code detector,2012,30,70,2,0.0,2147468645,Jingyue Li,0,0.19742650527860353,-1.2338235742589714
+2144992712,Quantitative information flow as network flow capacity,2008,56,161,1,1.0,2235702021,Michael D. Ernst,0,0.29278206878004215,0.0270572986736711
+2148003078,Reducing the barriers to writing verified specifications,2012,34,15,2,0.952381,2119431475,Todd W. Schiller,0,2.194311247945649,-1.2177045974632963
+2154563336,Refactoring sequential Java code for concurrency via concurrent libraries,2009,17,120,3,0.148767,602257659,Danny Dig,0,0.6595163356554908,-0.27808470474618685
+2145708265,Javari adding reference immutability to Java,2005,48,106,2,1.0,2158524506,Matthew S. Tschantz,0,-0.4346388203084743,-0.920488995016227
+2166985644,An overview of JML tools and applications,2003,85,204,6,0.357143,1188065969,Joseph R. Kiniry,0,-3.1569640947468653,0.2693121777718943
+2155233265,Combined static and dynamic automated test generation,2011,36,81,2,0.0,2107421971,Yingyi Bu,0,1.4686891819007513,-0.35720566552182564
+2155438671,Verification games making verification fun,2012,33,34,8,1.0,2021751513,Werner Dietl,0,2.0890511478988216,-0.9183350601296802
+2167814583,Verdi a framework for implementing and formally verifying distributed systems,2015,36,123,6,0.418504,187474749,Zachary Tatlock,0,-0.18946890462074298,-0.1619464235477593
+2263666543,Boolean Formulas for the Static Identification of Injection Attacks in Java,2015,31,6,1,1.0,2235702021,Michael D. Ernst,0,-0.4194613695512465,0.21540172794947643
+2249604275,Explaining Visual Changes in Web Interfaces,2015,31,20,2,0.0,2147219881,Andrew J. Ko,0,-0.2304771562761971,-0.0949376051355964
+2208671064,Tunable static inference for generic universe types,2011,39,28,2,1.0,2021751513,Werner Dietl,0,-2.1133362388869337,-0.17074192072551758
+2389540670,Locking discipline inference and checking,2016,43,6,2,1.0,2081257236,Damiano Macedonio,0,-0.2627324727661392,0.0920554519847658
+2471601946,Automatic generation of oracles for exceptional behaviors,2016,51,15,4,0.0,1399203037,Mauro PezzÃ¨,0,0.6271706120467018,-0.33073438187212706
+2471917468,Static deadlock detection for Java libraries,2005,0,0,2,0.0,2140008263,Amy L. Williams,0,-0.4398525862287386,-0.426528902267567
+2417132441,Fast synthesis of fast collections,2016,27,19,1,1.0,2235702021,Michael D. Ernst,0,-0.145371507036304,-0.000943603324192697
+2551714020,Custom type qualiers via annotations on Java types,2012,2,0,1,1.0,2235702021,Michael D. Ernst,0,-0.9822886830357414,-0.030311979694205366
+2620994026,Natural Language is a Programming Language Applying Natural Language Processing to Software Development,2017,0,9,1,1.0,2235702021,Michael D. Ernst,0,0.8763896964728336,-1.043694817952677
+2612881331,Verifying Invariants of Lock-Free Data Structures with Rely-Guarantee and Refinement Types,2017,83,9,3,1.0,2152026014,Colin S. Gordon,0,-0.1325606814519469,-0.6069080942151572
+2751239020,SpaceSearch a library for building and verifying solver-aided tools,2017,30,3,3,0.418504,187474749,Zachary Tatlock,0,0.015637131620541984,-0.14747859535628094
+2752293365,SpaceSearch A Library for Building and Verifying Solver-Aided Tools,2017,0,0,3,0.418504,187474749,Zachary Tatlock,0,-0.1164726804531344,0.019252515865476
+2798604085,Verifying that web pages have accessible layout,2018,37,10,4,0.374704,187474749,Zachary Tatlock,0,-0.1874737071463918,-0.14308663276363381
+2794901250,Generalized data structure synthesis,2018,25,10,1,1.0,2235702021,Michael D. Ernst,0,-0.12977752279723162,-0.13099966299024476
+2833521132,Lightweight verification of array indexing,2018,41,0,2,0.0,2229568461,Suzanne Millstein,0,-0.9132672400449804,-0.0626580136454081
+2879105418,Translating code comments to procedure specifications,2018,50,8,4,0.0,1399203037,Mauro PezzÃ¨,0,0.3049308562538763,-0.13675593877653186
+2914485742,Papers from the 1995 ACM SIGPLAN workshop on Intermediate representations,1995,0,2,1,1.0,2235702021,Michael D. Ernst,0,-0.1164726804531344,0.019252515865476
+2908228793,Rely-Guarantee References for Refinement Types Over Aliased Mutable Data (Extended Version),2013,50,2,2,1.0,2152026014,Colin S. Gordon,0,-0.1164726804531344,0.019252515865476
+2952069445,Semantics for Locking Specifications,2015,10,1,3,0.790923,311078280,Massimo Merro,0,-0.4814977233997502,-0.10467010375631473
+2955471678,Static Identification of Injection Attacks in Java,2019,53,4,3,1.0,2081257236,Damiano Macedonio,0,0.18120886851382714,-0.4919835645575846
+2940950649,Automatic Formal Verification for EPICS,2018,4,0,5,0.374704,187474749,Zachary Tatlock,0,-0.1548213539783005,-0.1100479975862645
+2979404187,Modular verification of web page layout,2019,45,0,3,0.340937,187474749,Zachary Tatlock,0,-0.41133779576291585,-0.07022179981677015

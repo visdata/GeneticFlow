@@ -1,0 +1,80 @@
+75148298,A parallel execution model for Chronolog,2001,17,1,2,0.637627,1994973432,Mehmet A. Orgun,0,-0.398702672209807,0.19550580706511567
+143354803,A non-shared binding scheme for parallel prolog implementation,1991,9,2,1,1.0,2116548023,Kang Zhang,0,-0.39647125653309206,-0.0677617054234385
+95760996,Developing Visual Languages Through an Evolving Method,1996,0,0,1,1.0,2116548023,Kang Zhang,0,-0.1164726804531344,0.019252515865476
+405818308,Visual programming support for graph-oriented parallel-distributed processing Research Articles,2005,23,1,1,1.0,2116548023,Kang Zhang,0,2.4468382718873563,-0.09724020652607804
+1541549385,Compiled visual programs by VisPro,2004,12,0,2,0.528516,1994973432,Mehmet A. Orgun,0,0.47018165068413764,0.09911341383828251
+1482372759,Parsing Spatial Graph Grammars,2004,7,2,1,1.0,2116548023,Kang Zhang,0,-1.8374398230148756,-1.659902002948798
+1491517198,Visual Software Engineering,2007,7,1,1,1.0,2116548023,Kang Zhang,0,3.4555723331605073,-0.976073139392797
+1572027591,Model Management Through Graph Transformation,2004,22,22,1,1.0,2116548023,Kang Zhang,0,0.12376475718255116,0.07897972918953391
+1538192760,Visual language semantics specification in the VisPro system,2003,15,8,2,0.563973,1994973432,Mehmet A. Orgun,0,-0.5804222134861383,-1.0369485383311134
+1567295038,Visual Languages and Applications,2007,0,19,1,1.0,2116548023,Kang Zhang,0,0.6209399694162182,0.030036078795513104
+1558418034,On a Spatial Graph Grammar Formalism,2004,8,4,1,1.0,2116548023,Kang Zhang,0,-0.7131148964372148,-0.6098575394304185
+1905565601,A framework for exploiting parallelism in Chronolog,1995,8,3,2,0.360751,1994973432,Mehmet A. Orgun,0,-0.22340983727418723,0.18587753929151352
+1587248012,Native Versus Java Message Passing,1999,6,0,2,1.0,1996928023,Nenad Stankovic,0,-2.8682601823242866,0.3746071544569914
+1634028294,Using graph grammar to implement global layout for a visual programming language generation system,2001,13,2,2,0.637627,1994973432,Mehmet A. Orgun,0,-2.461427285735864,-1.0153049340702194
+1962722052,The visual query language for an object-oriented knowledge-based system,1999,2,0,2,0.0,2100438523,Yanchun Zhang,0,-0.1164726804531344,0.019252515865476
+1914268275,Reserved graph grammar a specification tool for diagrammatic VPLs,1997,9,41,1,1.0,2116548023,Kang Zhang,0,-1.91036228974793,-1.5926198027902876
+1895878460,Towards visual development of message-passing programs,1997,16,14,2,1.0,1996928023,Nenad Stankovic,0,1.2843603891275062,0.004428932209626658
+1964323921,A dataflow Prolog execution model and its architectural support,1991,20,0,1,1.0,2116548023,Kang Zhang,0,-0.16822903427845937,-0.36695138639650704
+1980320037,Visputerâ€”A Graphical Visualization Tool for Parallel Programming,1995,5,6,1,1.0,2116548023,Kang Zhang,0,-0.005550021743587548,-0.045496798771096594
+1982931555,A Collaborative Framework for Designers and Developers of Software-Intensive Systems,2006,18,0,1,1.0,2116548023,Kang Zhang,0,0.3136199458944169,-0.21414861623114145
+1972814183,VISUAL PROGRAMMING FOR MESSAGE-PASSING SYSTEMS,1999,12,30,2,1.0,1996928023,Nenad Stankovic,0,2.1582307682230106,-0.6662258647389417
+1987228283,Pattern-based design evolution using graph transformation,2007,27,29,2,1.0,2107849694,Chunying Zhao,0,3.157766857402173,-1.0039416834702923
+1994467765,Exploiting OR-parallelism in logic programs a review,1993,56,0,1,1.0,2116548023,Kang Zhang,0,-0.5901582781239119,-0.4590647588179664
+1989949873,Design Pattern Evolution and Verification Using Graph Transformation,2007,18,24,2,1.0,2107849694,Chunying Zhao,0,2.3682072447723757,-0.5581985895153593
+2027802849,The design and implementation of a runtime system for graph-oriented parallel and distributed programming,2004,13,2,2,0.0,2111004967,Li Xie,0,0.5714737799918193,-0.006216755756295166
+2012197567,Visputer â€” an Occam program visualisation tool,1994,6,1,2,0.0,2111120413,Gaurav Marwaha,0,-0.353779217082398,0.19136452644101345
+2019566724,DIALOG â€” A dataflow model for parallel execution of logic programs,1991,22,8,1,1.0,2116548023,Kang Zhang,0,-0.15399835446156132,-0.2805759757750231
+2028570019,Dynamic configuration management in a graph-oriented distributed programming environment,2003,34,9,1,1.0,2116548023,Kang Zhang,0,0.4896308132892164,-0.1340300604735376
+2047195643,A framework based approach for unified detection of Aspect Weaving Problems,2010,19,2,1,1.0,2116548023,Kang Zhang,0,0.6676484093221369,-0.09916381890363257
+2041943997,The PCG,2001,17,6,2,1.0,1996928023,Nenad Stankovic,0,2.0807584528397554,-0.026098153044951604
+2038581532,The Role of Graphics in Parallel Program Development,1999,48,21,1,1.0,2116548023,Kang Zhang,0,0.6689266028203429,-0.19557028490752668
+2047739921,AN EXPERIMENT WITH A LOGIC PROGRAM EXECUTION MODEL ON THE TRANSPUTER,1992,0,2,1,1.0,2116548023,Kang Zhang,0,0.8695229445572661,-0.6443717411274112
+2046204438,A review of exploitation of AND-parallelism and combined AND/OR-parallelism in logic programs,1994,51,3,1,1.0,2116548023,Kang Zhang,0,-0.6279491363053057,-1.0971952628550166
+2046748173,XML transformations through graph grammars,2001,6,1,1,1.0,2116548023,Kang Zhang,0,-0.1164726804531344,0.019252515865476
+2077825318,Spatial graph grammars for graphical user interfaces,2006,63,59,1,1.0,2116548023,Kang Zhang,0,-0.38901598959897904,-0.1717544847772182
+2096589311,Graph Grammar Induction on Structural Data for Visual Programming,2006,16,18,4,0.0,639663078,Lawrence B. Holder,0,-2.9974505560278004,-0.6479604344046882
+2094535304,AutoGen Easing model management through two levels of abstraction,2006,28,1,1,1.0,2116548023,Kang Zhang,0,0.395630336805163,0.1975987548822844
+2094749242,Specifying behavioral semantics of UML diagrams through graph transformations,2009,59,25,1,1.0,2116548023,Kang Zhang,0,1.905876114446019,-0.7545883978748655
+2100749989,A model transformation approach for design pattern evolutions,2006,15,25,1,1.0,2116548023,Kang Zhang,0,1.632138239236511,-0.1288279057634222
+2091933573,An evaluation of Java implementations of message-passing,2000,18,4,2,1.0,1996928023,Nenad Stankovic,0,-2.8309195801409794,0.36533611737635646
+2111391303,Abstraction of multiple executions of object-oriented programs,2009,4,2,2,1.0,2107849694,Chunying Zhao,0,1.329983466631823,-0.780698758293513
+2126269660,Grammar-Based Layout for a Visual Programming Language Generation System,2002,7,10,2,0.637627,1994973432,Mehmet A. Orgun,0,-1.5962343428987729,-1.954996970057166
+2129127451,Toward a graphical approach to multimedia document design,2003,14,2,1,1.0,2116548023,Kang Zhang,0,-0.1164726804531344,0.019252515865476
+2117672242,Visual programming support for graph-oriented parallel/distributed processing,2005,28,12,1,1.0,2116548023,Kang Zhang,0,2.4468382718873563,-0.09724020652607804
+2114826818,On the design of a generic visual programming environment,1998,4,4,1,1.0,2116548023,Kang Zhang,0,1.8344747314887704,0.6057675425325981
+2138979497,Grammar-specified model-driven architectures,2005,5,0,1,1.0,2116548023,Kang Zhang,0,0.9408700415649343,-0.2332186648038469
+2139243730,Visual parallel programming with Visper,1997,12,1,2,1.0,1996928023,Nenad Stankovic,0,0.9408700415649343,-0.2332186648038469
+2136272000,A graph grammar approach to software architecture verification and transformation,2003,15,25,1,1.0,2116548023,Kang Zhang,0,3.2007301143315545,-1.112878348990308
+2118659304,Rapid software prototyping using visual language techniques,2004,15,8,1,1.0,2116548023,Kang Zhang,0,2.2505364294147587,-0.5052641592888922
+2110130823,VisPro a visual language generation toolset,1998,10,34,1,1.0,2116548023,Kang Zhang,0,1.5692132049835612,0.6969732169127355
+2127878541,A Classification of Aspect Composition Problems,2009,35,10,1,1.0,2116548023,Kang Zhang,0,1.5794856167478233,-0.33122002006844875
+2128089903,Design construction and application of a generic visual language generation environment,2001,32,62,1,1.0,2116548023,Kang Zhang,0,1.3667681557833908,0.005797011120219173
+2113418570,Authoring multimedia documents through grammatical specifications,2003,11,3,1,1.0,2116548023,Kang Zhang,0,-0.5706724197459279,-0.4091876019513622
+2113448978,Interoperating XML-style of digital artifacts for information reuse,2005,19,1,1,1.0,2116548023,Kang Zhang,0,0.03340839900042395,0.28501581566340933
+2128300635,Visualizing Multiple Program Executions to Assist Behavior Verification,2009,34,3,3,1.0,2107849694,Chunying Zhao,0,1.8238547406631895,-0.5241879746072069
+2125359382,Analyzing message-passing programs through visual slicing,2005,22,2,1,1.0,2116548023,Kang Zhang,0,-0.4476868650948577,-0.22235937785132315
+2113641467,Program Behavior Discovery and Verification A Graph Grammar Approach,2010,51,19,2,1.0,2107849694,Chunying Zhao,0,0.6409382537815824,-0.72292477925716
+2125794148,Visual XML schemas based on reserved graph grammars,2004,14,6,1,1.0,2116548023,Kang Zhang,0,-0.1164726804531344,0.019252515865476
+2144141251,Graphical assistance in parallel program development,1994,4,12,1,1.0,2116548023,Kang Zhang,0,0.6689266028203429,-0.19557028490752668
+2159889008,Parallel Program Visualisation for a Message-Passing System,1994,10,4,1,1.0,2116548023,Kang Zhang,0,0.0176274387439286,0.3343512547355889
+2151190989,A Grammar-Based Reverse Engineering Framework for Behavior Verification,2008,8,3,2,1.0,2107849694,Chunying Zhao,0,1.8498514250032183,-0.8804166232874425
+2157326395,A Generative Style-driven Framework for Software Architecture Design,2005,31,6,1,1.0,2116548023,Kang Zhang,0,2.2171202481453034,-0.69807146326444
+2163451839,Discovering Programs Behavioral Patterns by Inferring Graph-Grammars from Execution Traces,2008,13,8,2,1.0,2107849694,Chunying Zhao,0,0.9948220985710802,-0.5377555173337214
+2187562928,Towards Visual ent of Message-Passing Programs,1997,15,0,1,1.0,2116548023,Kang Zhang,0,1.8004859581740564,-0.4632728561150443
+2158254667,A context-sensitive graph grammar formalism for the specification of visual languages,2001,18,86,1,1.0,2116548023,Kang Zhang,0,-0.38901598959897904,-0.1717544847772182
+2155964571,A visual approach to XML document design and transformation,2001,22,13,1,1.0,2116548023,Kang Zhang,0,-0.1164726804531344,0.019252515865476
+2288063011,Towards a virtual dataflow-based PROLOG machine,1989,0,1,1,1.0,2116548023,Kang Zhang,0,-0.10022190075850904,-0.566123137259623
+2299728198,Design Pattern Compositions in UML,2003,21,5,1,1.0,2116548023,Kang Zhang,0,2.087170151115498,-0.599427941990047
+2366528868,Dialog a dataflow interpretation approach to logic programs,1991,0,2,1,1.0,2116548023,Kang Zhang,0,0.09186074319300452,-0.7032388741087131
+2343323993,Foundation and applications of visual languages,2005,0,0,1,1.0,2116548023,Kang Zhang,0,-0.908414127676429,-0.40826130647994163
+2539198828,Spatial graph grammars for Web information transformation,2003,18,7,1,1.0,2116548023,Kang Zhang,0,-0.1164726804531344,0.019252515865476
+2544909205,Visualising coordination languages for parallel processing,1993,3,0,1,1.0,2116548023,Kang Zhang,0,1.8004859581740564,-0.4632728561150443
+2605921856,Context-attributed graph grammar framework for specifying visual languages,2008,0,3,1,1.0,2116548023,Kang Zhang,0,-1.4129215107562902,-1.445430453587495
+2737308272,Semantic specifications in reserved graph grammars,2003,0,1,2,0.563973,1994973432,Mehmet A. Orgun,0,-0.1164726804531344,0.019252515865476
+2807511626,A graph grammar-based approach for graph layout,2018,19,0,1,1.0,2116548023,Kang Zhang,0,-0.1164726804531344,0.019252515865476
+2796900033,Enhancements to a shape grammar interpreter,2018,15,3,1,1.0,2116548023,Kang Zhang,0,0.5560548461054928,-0.1728221019674024
+2884512226,Spatial specification and reasoning using grammars from theory to application,2018,39,0,1,1.0,2116548023,Kang Zhang,0,-0.5057764413226923,-0.5240534525216781
+2896064964,Generating Circulation Designs Using Shape Grammars,2018,0,0,1,1.0,2116548023,Kang Zhang,0,-0.1164726804531344,0.019252515865476
+2944348545,Transforming Entity-Relationship Diagrams to Relational Schemas Using a Graph Grammar Formalism,2018,13,0,1,1.0,2116548023,Kang Zhang,0,-0.34550223767920246,-0.21631158364906
+2979886485,Using graph grammar to implement global layout for a visual programming language generation system,2002,0,8,2,0.637627,1994973432,Mehmet A. Orgun,0,0.9408700415649343,-0.2332186648038469

@@ -1,0 +1,116 @@
+52928708,Generalized cluster aggregation,2009,20,19,1,1.0,2465953593,Fei Wang,0,-0.9357332395914381,3.29408863743782
+333587792,Integrated KL (K-means - Laplacian) clustering A new clustering approach by combining attribute data and pairwise relations,2009,35,32,2,0.0,2119616764,Chris Ding,0,-0.7703895940041382,2.8609709499882516
+1007226791,DENSIFICATION OF LONGITUDINAL EMR FOR IMPROVED PHENOTYPING,2013,8,4,2,0.0,2098665416,Jianying Hu,0,0.003708468606338,0.082832279151172
+1560793792,MINING TEMPORAL PATTERNS IN LONGITUDINAL EVENT DATA USING DISCRETE EVENT MATRICES AND SPARSE CODING,2011,28,8,5,1.0,363122970,Shahram Ebadollahi,0,0.3083691215047986,0.1239900496415393
+1535919221,Medical prognosis based on patient similarity and expert feedback,2012,6,25,2,0.41297,2098665416,Jianying Hu,0,-0.18983447216691465,0.4488335101170134
+1240397374,PATIENT RISK STRATIFICATION BY COMBINING KNOWLEDGE-DRIVEN AND DATA-DRIVEN INSIGHTS,2013,11,5,3,0.0,2098665416,Jianying Hu,0,-0.0918784189438762,-0.3817368274032406
+1518348689,IDENTIFYING TARGET PATIENTS FOR NEW DRUGS BY MINING REAL-WORLD EVIDENCE,2013,8,1,3,1.0,363122970,Shahram Ebadollahi,0,-0.3473793728160243,0.24861357896709396
+1493636666,Hierarchical exploration of longitudinal medical events,2013,8,2,3,1.0,2049716498,Adam Perer,0,0.003708468606338,0.082832279151172
+1512511032,Personalized Predictive Modeling and Risk Factor Identification using Patient Similarity,2015,12,28,4,0.0,2098665416,Jianying Hu,0,0.020519410225221857,0.2781634101799985
+1604127159,DYNAMIC IDENTIFICATION OF THE BIOMARKERS LEVERAGING THE DYNAMICS OF THE BIOMARKER,2013,9,0,3,1.0,363122970,Shahram Ebadollahi,0,0.003708468606338,0.082832279151172
+1799934227,Mining and exploring care pathways from electronic medical records with visual analytics,2015,41,55,3,1.0,2049716498,Adam Perer,0,0.2959871313413576,1.4667669724367187
+1961297815,System and method for composite distance metric leveraging multiple expert judgments,2011,7,8,2,1.0,363122970,Shahram Ebadollahi,0,0.003708468606338,0.082832279151172
+1853324590,Probabilistic attributed hashing,2015,33,11,4,1.0,2111511002,Wenwu Zhu,0,-0.1984714131877254,-0.08331523624254955
+1613613084,Social Recommendation with Cross-Domain Transferable Knowledge,2015,44,63,6,1.0,2111511002,Wenwu Zhu,0,0.015398864975098334,0.3179820022974507
+1983798833,A Framework for Mining Signatures from Event Sequences and Its Applications in Healthcare Data,2013,22,58,5,1.0,363122970,Shahram Ebadollahi,0,0.12496725717010325,-0.10203007563445819
+1971599302,Demonstrating Interactive Multi-resolution Large Graph Exploration,2013,7,12,6,0.0,2024561599,Duen Horng Chau,0,0.5398147528046036,1.2984338807594864
+1970166274,Composite distance metric integration by leveraging multiple experts inputs and its application in patient similarity assessment,2012,39,15,2,1.0,363122970,Shahram Ebadollahi,0,0.29722205203655866,0.11018330099433306
+1967148413,Towards actionable risk stratification,2015,25,10,3,1.0,2096503333,Robert Sorrentino,0,-0.7755297182108806,0.8560111120356698
+1965701254,Supervised patient similarity measure of heterogeneous patient records,2012,30,80,3,0.0,349380785,Shahram Edabollahi,0,-0.7498422168867159,0.7088057009514519
+1969198379,Label Propagation through Linear Neighborhoods,2008,40,441,2,0.140503,2105451568,Changshui Zhang,0,-0.042132430152586796,0.8806854790328998
+1992537918,Cascading outbreak prediction in networks a data-driven approach,2013,35,80,6,1.0,2111511002,Wenwu Zhu,0,-0.1199149129870934,-0.21563747066040134
+2001411438,Regularized clustering for documents,2007,32,43,2,0.702516,2105451568,Changshui Zhang,0,-0.8621541188485654,2.6346529483060874
+1999802986,Unsupervised learning of disease progression models,2014,18,101,2,0.0,2138531792,David Sontag,0,-0.4002425057806002,1.0542061375705645
+1998249118,From micro to macro data driven phenotyping by densification of longitudinal electronic medical records,2014,36,92,3,0.952381,2097879502,Jiayu Zhou,0,-0.1199149129870934,-0.21563747066040134
+2008818628,Exploring Patient Risk Groups with Incomplete Knowledge,2013,11,6,3,0.0,2098665416,Jianying Hu,0,-0.21934185016841626,0.6056873083074126
+2005464046,Temporal Phenotyping from Longitudinal Electronic Health Records A Graph Based Framework,2015,26,73,4,0.0,2098665416,Jianying Hu,0,0.003708468606338,0.082832279151172
+1993897382,Social contextual recommendation,2012,30,196,6,0.0,2109031554,Qiang Yang,0,0.3536731693401487,1.5787290274139314
+1994226161,Scalable Recommendation with Social Contextual Information,2014,43,84,5,1.0,2111511002,Wenwu Zhu,0,-0.03403043374157009,-0.0056722847811090755
+2017753937,Non-transitive Hashing with Latent Similarity Components,2015,41,12,4,1.0,2111511002,Wenwu Zhu,0,-0.048950599031135154,0.024628095069425038
+2015966799,Survey on distance metric learning and dimensionality reduction in data mining,2015,49,84,2,0.0,2110385854,Jimeng Sun,0,-0.7524607515551787,2.1766249055160944
+2019710252,Semi-supervised ranking aggregation,2011,31,16,4,0.239814,2099747503,Yangqiu Song,0,1.2350652037173413,0.39061007574644036
+2023236957,Comparing apples to oranges a scalable solution with heterogeneous hashing,2013,29,59,5,1.0,2111511002,Wenwu Zhu,0,-0.22382855408907945,-0.1410043204616799
+2019767285,FEMA flexible evolutionary multi-faceted analysis for dynamic behavioral pattern discovery,2014,36,35,5,1.0,2111511002,Wenwu Zhu,0,0.06381649984707977,0.07239607081368131
+2014577670,Frequence interactive mining and visualization of temporal frequent event sequences,2014,16,79,2,1.0,2049716498,Adam Perer,0,0.41822124271513283,0.9663879863472344
+2012835407,Quantifying herding effects in crowd wisdom,2014,27,24,2,0.0,2098143673,Dashun Wang,0,0.003708468606338,0.082832279151172
+2026947822,Learning Spectral Embedding for Semi-supervised Clustering,2011,36,18,3,1.0,1972696148,Fanhua Shang,0,-0.3614024333103426,1.510646647766765
+2030848960,Collaborative filtering using orthogonal nonnegative matrix tri-factorization,2009,38,92,2,0.0835338,2105451568,Changshui Zhang,0,0.1307212563475379,1.7682945060330815
+2035180824,Cuts3vm a fast semi-supervised svm algorithm,2008,21,18,2,0.140503,2105451568,Changshui Zhang,0,1.0276059616737967,-0.14022021554911435
+2054793012,Semi-supervised ranking aggregation,2008,9,6,4,0.239814,2099747503,Yangqiu Song,0,0.34189213798870693,-0.0085938730499827
+2034055859,Guest editorial special issue on data mining with matrices graphs and tensors,2011,0,3,2,0.0,2119616764,Chris Ding,0,-0.4408097375184461,1.718319485675415
+2059454509,LINKAGE An Approach for Comprehensive Risk Prediction for Care Management,2015,24,8,2,0.0,2098665416,Jianying Hu,0,-0.0160484811255519,-0.31555163086887356
+2056515624,Clustering with Local and Global Regularization,2009,41,38,2,0.0835338,2105451568,Changshui Zhang,0,-0.8506757423325126,2.993886785734365
+2067141340,Guest editorial special issue on data mining technologies for computational social science,2012,31,2,4,0.0,2125104194,Philip S. Yu,0,-0.2249641706675423,-0.23737138664254687
+2094478424,Learning spectral embedding via iterative eigenvalue thresholding,2012,17,6,4,1.0,1972696148,Fanhua Shang,0,-0.21934185016841626,0.6056873083074126
+2103106495,Towards heterogeneous temporal clinical event pattern discovery a convolutional approach,2012,31,54,4,1.0,363122970,Shahram Ebadollahi,0,0.003708468606338,0.082832279151172
+2086579450,Overlapping Clustering with Sparseness Constraints,2012,14,11,5,0.0,2097544120,W. Nick Street,0,-0.9615891346934823,3.4393121287764163
+2101656432,Who should share what item-level social influence prediction for users and posts ranking,2011,22,114,6,1.0,2113115369,Peng Cui,0,0.003708468606338,0.082832279151172
+2080099427,Guest editorial Special issue on data mining for medicine and healthcare,2015,0,1,3,0.210338,73310800,Gregor Stiglic,0,0.003708468606338,0.082832279151172
+2135188618,Spectral feature analysis,2005,14,6,3,0.0,2105451568,Changshui Zhang,0,-0.8382530312949807,2.993716874084951
+2126700264,Recommendation on Item Graphs,2006,14,35,2,0.0,2116699166,Sheng Ma,0,0.003708468606338,0.082832279151172
+2141917698,Adaptive semi-supervised recursive tree partitioning,2015,27,15,1,1.0,2465953593,Fei Wang,0,-0.08710116190707191,0.2246672112260827
+2127058089,Collaborative Filtering Using Orthogonal Nonnegative Matrix Tri-factorization,2007,27,12,2,0.702516,2105451568,Changshui Zhang,0,0.8776680742443249,0.45208381503500666
+2143282501,A Multi-task Learning Framework for Joint Disease Risk Prediction and Comorbidity Discovery,2014,20,10,2,0.0,2098665416,Jianying Hu,0,0.003708468606338,0.082832279151172
+2119571791,Community discovery using nonnegative matrix factorization,2011,44,248,3,0.0,2096537073,Shenghuo Zhu,0,-0.13793882823340797,0.25689975209751925
+2122475441,A methodology for interactive mining and visual analysis of clinical event patterns using electronic health record data,2014,32,78,3,1.0,2049716498,Adam Perer,0,0.6190397386442733,1.5747775573779812
+2137283541,Clinical risk prediction with multilinear sparse logistic regression,2014,33,30,2,0.869565,2306481588,Buyue Qian,0,0.0142878421214733,-0.1789215405855477
+2113831957,Social recommendation across multiple relational domains,2012,29,65,6,0.0,2109031554,Qiang Yang,0,-0.1923482153824391,0.3911408909828727
+2162670057,Composite hashing with multiple information sources,2011,56,166,2,0.0,2127260490,Luo Si,0,0.003708468606338,0.082832279151172
+2145386791,Maximum Margin Embedding,2008,13,3,2,0.140503,2105451568,Changshui Zhang,0,0.003708468606338,0.082832279151172
+2157486997,Clustering with local and global regularization,2007,25,4,2,0.702516,2105451568,Changshui Zhang,0,-0.8506757423325126,2.993886785734365
+2161489626,Simultaneous Heterogeneous Data Clustering Based on Higher Order Relationships,2007,28,15,3,0.702516,2105451568,Changshui Zhang,0,-0.8853003610379251,2.9238373932692197
+2170865247,FeaFiner biomarker identification from medical data through feature generalization and selection,2013,39,21,4,0.952381,2097879502,Jiayu Zhou,0,-0.15853690674330984,-0.05997366323733144
+2246937787,PREDICTING DRUG-DRUG INTERACTIONS BASED ON CLINICAL SIDE EFFECTS,2014,7,3,3,1.0,2096503333,Robert Sorrentino,0,0.12001690946507648,-0.022536576548698135
+2244191099,ET-LDA Joint Topic Modeling for Aligning Events and their Twitter Feedback,2012,19,27,4,0.0,1354405940,Subbarao Kambhampati,0,-0.17536238923574604,0.4144853997593385
+2240212332,Outcomes Prediction via Time Intervals Related Patterns,2015,14,15,4,0.0,81958894,Nicholas P. Tatonetti,0,-0.17539481743206253,0.19131378605772265
+2205861398,System and method for inferring disease similarity by shape matching of ECG time series,2008,18,40,2,0.0,2021909339,Tanveer Syeda Mahmood,0,0.003708468606338,0.082832279151172
+2302696457,Tensor factorization toward precision medicine,2016,36,31,2,0.0,29903417,Peter Szolovits,0,0.003708468606338,0.082832279151172
+2287807425,Online Behavioral Analysis and Modeling [Guest Editorial],2016,0,2,4,0.640933,2113115369,Peng Cui,0,-0.1324825582615015,-0.2960240739777333
+2303620404,Uncovering and Predicting Human Behaviors,2016,25,7,4,0.640933,2113115369,Peng Cui,0,-0.03403043374157009,-0.0056722847811090755
+2330737497,Medical Inpatient Journey Modeling and Clustering A Bayesian Hidden Markov Model Based Approach,2015,0,7,4,0.0,2124432645,Huilong Duan,0,-0.49680371111629457,1.1825094605693118
+2335806287,Scalable Recommendation with Social,2014,42,2,5,1.0,2111511002,Wenwu Zhu,0,0.19721709072141988,0.1014488430509133
+2398302998,Batch Mode Active Learning with Hierarchical-Structured Embedded Variance,2014,21,2,3,0.0,2132666618,Zhengzhang Chen,0,0.003708468606338,0.082832279151172
+2406933025,A Graph Based Methodology for Temporal Signature Identification from HER,2015,0,3,3,0.0,2098665416,Jianying Hu,0,-0.2900128463554969,0.029925772798159705
+2407177877,Care pathway workbench evidence harmonization from guideline and data,2014,0,4,6,1.0,2049716498,Adam Perer,0,0.003708468606338,0.082832279151172
+2404638125,SOR Scalable Orthogonal Regression for Low-Redundancy Feature Selection and its Healthcare Applications,2012,24,20,5,1.0,363122970,Shahram Ebadollahi,0,-0.25023896793326905,0.13037718530513653
+2402674527,Towards drug repositioning a unified computational framework for integrating multiple aspects of drug similarity and disease similarity,2014,44,34,2,0.0,2098665416,Jianying Hu,0,-0.24974665159713627,-0.19434508556492136
+2412399207,Pediatric readmission classification using stacked regularized logistic regression models,2014,29,4,4,0.210338,73310800,Gregor Stiglic,0,0.0142878421214733,-0.1789215405855477
+2403178648,Analysis of care pathway variation patterns in patient records,2015,7,2,5,0.104634,2095693315,Guotong Xie,0,0.0644818988688213,0.4660528257840121
+2495102135,Temporal data analytics,2016,12,0,4,0.116315,319285823,Robert Moskovitch,0,-0.03981453836951474,0.09873457883318881
+2481622349,Quantifying and predicting herding effects in collective rating systems,2014,2,1,2,0.0,2098143673,Dashun Wang,0,0.11672415509507165,0.0338187686908989
+2514525976,Healthcare Data Mining with Matrix Models,2016,0,1,2,0.606061,1987535789,Joel T. Dudley,0,0.28441080271076485,0.34239637406037193
+2552714763,A Predictive Model for Medical Events Based on Contextual Embedding of Temporal Sequences,2016,19,16,2,0.0300224,2132814769,Xiaoqian Jiang,0,-0.7755297182108806,0.8560111120356698
+2584780866,Measuring Patient Similarities via a Deep Architecture with Medical Concept Embedding,2016,28,38,2,0.731707,2306481588,Buyue Qian,0,-0.3473793728160243,0.24861357896709396
+2610332124,Deep learning for healthcare review opportunities and challenges,2018,108,351,3,0.606061,1987535789,Joel T. Dudley,0,-0.16698986290427043,0.15893740375754853
+2590750129,Preface to the fourth ICDM international workshop on knowledge discovery using cloud and distributed computing platforms,2013,0,0,25,0.0,78114061,Kanishka Bhaduri,0,0.36961615338683507,0.04520172406723675
+2618836557,Proceedings of the 2011 workshop on Data mining for medicine and healthcare,2011,0,0,9,0.0,941590,Ramasamy Uthurusamy,0,-0.28890682177697985,0.6633859757698991
+2727187776,Wellness Representation of Users in Social Media Towards Joint Modelling of Heterogeneity and Temporality,2017,54,5,3,0.0,2160663097,Tat Seng Chua,0,0.11672415509507165,0.0338187686908989
+2603133070,A fast multi-level algorithm for community detection in directed online social networks,2018,22,3,4,0.0,2119048549,Xiaohong Guan,0,0.003708468606338,0.082832279151172
+2728845751,Semantic relatedness and similarity of biomedical terms examining the effects of recency size and section of biomedical publications on the performance of word2vec,2017,24,23,3,0.0,2113438569,Erjia Yan,0,0.3323803208148637,0.07701718819077107
+2607433578,Data mining with graphs and matrices,2009,0,0,2,0.0,2119616764,Chris Ding,0,0.003708468606338,0.082832279151172
+2621000861,Data Mining for Medical Informatics (DMMI) - Learning Health,2016,0,0,2,0.0,702846006,Mihaela van der Schaar,0,0.003708468606338,0.082832279151172
+2604652149,SPARTan Scalable PARAFAC2 for Large &amp; Sparse Data,2017,37,11,5,0.0,1418764031,Evangelos E. Papalexakis,0,-0.3707146706369706,1.284254192186507
+2621722328,Polyadic regression and its application to chemogenomics,2017,0,4,7,0.0,211035554,Richard Vuduc,0,0.003708468606338,0.082832279151172
+2596714615,Learning temporal patterns from electronic health records,2015,31,0,2,0.0,2098665416,Jianying Hu,0,0.003708468606338,0.082832279151172
+2605325415,Multitask Dyadic Prediction and Its Application in Prediction of Adverse Drug-Drug Interaction,2017,14,16,2,0.0,2434583827,Bo Jin,0,0.003708468606338,0.082832279151172
+2744385491,Unsupervised Network Discovery for Brain Imaging Data,2017,18,14,2,0.0,2136497257,Peter B. Walker,0,0.003708468606338,0.082832279151172
+2776684214,Predicting Rich Drug-Drug Interactions via Biomedical Knowledge Graphs and Text Jointly Embedding,2017,23,1,3,0.0,2140909072,Guodong Long,0,0.12492345808765674,0.23414093372237493
+2781816753,Drug knowledge bases and their applications in biomedical informatics research,2019,111,7,4,1.0,1352731533,Olivier Elemento,0,0.8526722369760608,0.19108927754214342
+2799504468,Robust finite mixture regression for heterogeneous targets,2018,62,3,3,0.0,2105451568,Changshui Zhang,0,0.08161845312998223,-0.006245229433928835
+2808379857,A study of generalizability of recurrent neural network-based predictive models for heart failure onset risk using a large and heterogeneous EHR data set,2018,11,13,5,0.0,2120335001,Degui Zhi,0,-0.7724107134428325,-0.7227735480090876
+2804294746,An MCEM Framework for Drug Safety Signal Detection and Combination from Heterogeneous Real World Evidence,2018,25,5,3,0.161797,2097879502,Jiayu Zhou,0,0.003708468606338,0.082832279151172
+2894662410,Association networks in a matched case-control design - Co-occurrence patterns of preexisting chronic medical conditions in patients with major depression versus their matched controls,2018,92,4,5,0.0,1965249858,Samprit Banerjee,0,0.003708468606338,0.082832279151172
+2896042878,A Self-Organizing Tensor Architecture for Multi-view Clustering,2018,15,3,3,0.0,2105519897,Linlin Shen,0,-0.21934185016841626,0.6056873083074126
+2907045597,eOTD An Efficient Online Tucker Decomposition for Higher Order Tensors,2018,22,0,4,0.0,2096731881,Jing Gao,0,0.003708468606338,0.082832279151172
+2907654894,Heterogeneous Hyper-Network Embedding,2018,23,2,3,0.161797,2097879502,Jiayu Zhou,0,0.003708468606338,0.082832279151172
+2911932738,Network embedding in biomedical data science,2020,78,11,4,1.0,2147561988,Yongjun Zhu,0,-0.47552568915877363,0.2882518715680377
+2949989211,Dynamical Origins of Distribution Functions,2019,17,0,3,0.436603,2111511002,Wenwu Zhu,0,0.21438872843298346,-0.1353423822296997
+2952191903,Uncovering Pattern Formation of Information Flow,2019,65,0,4,0.436603,2111511002,Wenwu Zhu,0,0.003708468606338,0.082832279151172
+2948035163,Graph convolutional networks for computational drug development and discovery,2020,72,10,3,1.0,1352731533,Olivier Elemento,0,-0.2549982742955442,0.2215840602359772
+2953230130,Machine Learning with Service Classification for Detecting Control Plane Intrusions in Software Defined Optical Networks,2018,4,0,3,0.0,2125077268,Yongli Zhao,0,0.25279980089418275,0.356263393655007
+2965080476,Detection of medical text semantic similarity based on convolutional neural network,2019,24,0,2,0.0,2107011295,Shaodian Zhang,0,-0.3330263958434336,-0.42096737370992665
+2997629435,Identifying sub-phenotypes of acute kidney injury using structured and unstructured electronic health record data with memory networks,2020,39,2,5,0.0,1940883025,Tamara Isakova,0,0.003708468606338,0.082832279151172
+2980904865,Developing a FHIR-based EHR phenotyping framework A case study for identification of patients with obesity and multiple comorbidities from discharge summaries,2019,23,1,6,0.0,2116395831,Shintaro Tsuji,0,0.29610405316969274,0.014506285928431886
+2971826129,Unsupervised Linear Discriminant Analysis for Jointly Clustering and Subspace Learning,2019,0,1,2,0.0,2245267964,Feiping Nie,0,-0.21934185016841626,0.6056873083074126
+3004356227,DCMN Double Core Memory Network for Patient Outcome Prediction with Multimodal Data,2019,38,0,2,0.0,2108362240,Ning Chen,0,0.003708468606338,0.082832279151172
+3028004046,Recent advances in biomedical literature mining,2020,125,0,1,1.0,2465953593,Fei Wang,0,-0.0160484811255519,-0.31555163086887356

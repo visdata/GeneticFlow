@@ -1,0 +1,87 @@
+54273311,Session typing for a featherweight Erlang,2011,15,23,2,0.0,311998413,Dimitris Mostrous,0,0.13653414413742648,0.027839090143403966
+90967010,Core calculi for service-oriented computing,2011,34,7,5,0.0,92252108,Gianluigi Zavattaro,0,-0.1164726804531344,0.019252515865476
+128839308,A Virtual Machine for the TyCO Process Calculus,1999,0,15,3,1.0,2115144937,Fernando Silva,0,-0.1806164563517082,-0.18033171048170904
+112384141,A Framework for Compiling Object Calculi,1997,0,1,3,1.0,2115144937,Fernando Silva,0,0.023460733683440656,-1.795826113683516
+163836217,Session Types for Inter-Process Communication,2003,18,51,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.1164726804531344,0.019252515865476
+237093534,Modular Session Types for Objects,2015,70,6,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.4644082226222553,-0.0997454308657642
+1505611757,DiTyCO an Experiment in Code Mobility from the Realm of Process Calculi,1999,18,9,4,1.0,2115144937,Fernando Silva,0,0.342141760491988,1.1388134539563146
+1514370832,A Virtual Machine for a Process Calculus,1999,26,11,3,1.0,2115144937,Fernando Silva,0,-1.0658027805159862,-0.8392425012201001
+1568964221,Runtime verification for generic classes with CONGU2,2010,22,2,3,0.0,2017684465,Pedro Crispim,0,-0.28565920409909934,-0.12264172436624103
+1533772482,Bridging the Gap between Algebraic Specification and Generic Programming,2009,0,0,3,1.0,2161031197,Isabel Nunes,0,0.1541115749223051,0.6363168700340583
+1516613292,A Lexically Scoped Distributed $pi$-Calculus,2002,14,1,2,1.0,2165196495,LuÃ­s Lopes,0,-0.1164726804531344,0.019252515865476
+1534938212,Behavioural Types for a Calculus of Concurrent Objects,1997,12,28,1,1.0,2310759966,Vasco T. Vasconcelos,0,0.004880576560232004,-0.20432588490386505
+1544057780,Session-Based Compilation Framework for Multicore Programming,2009,50,14,4,0.0712242,1975138547,Nobuko Yoshida,0,0.46393066477332434,-0.3052268681826142
+1500698072,Traces Semantics for Actor Systems,1991,16,10,2,0.0,2190019005,Mario Tokoro,0,-0.2268142716231431,-0.1590203910320284
+1493571569,Compiling the pi-calculus into a multi-threaded typed assembly language,2008,0,0,2,1.0,2237806140,Francisco Martins,0,1.1124912486855802,-1.206020878785659
+1537970794,A Multi-threaded Asynchronous Language,2003,10,12,4,0.294118,2062486476,HervÃ© Paulino,0,2.584984950406973,-1.4777104735804159
+1432573364,A Concurrent Programming Language with Refined Session Types,2013,25,11,2,0.0,2305945558,Juliana Franco,0,2.4037235472152276,-0.49156776891477716
+1520674354,Runtime checking Java code using ConGu,2008,0,2,5,0.0,2017684465,Pedro Crispim,0,-2.9919431491210178,0.3384801928085903
+1576762382,CONCUR 2007 - concurrency theory 18th International Conference CONCUR 2007 Lisbon Portugal September 3-8 2007 proceedings,2007,0,0,2,0.0,2001121806,LuÃ­s Caires,0,-0.43820818700023634,-0.031237871528030408
+1596502640,Typed Concurrent Objects,1994,18,105,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.27255622767863247,0.2524235286674869
+1606143923,SCC a service centered calculus,2006,23,144,10,0.0,92252108,Gianluigi Zavattaro,0,0.01904719175230296,0.08716151937390644
+1806542535,Checking the conformance of java classes against algebraic specifications,2006,21,19,4,1.0,2132827909,JoÃ£o Abreu,0,0.255099229490295,0.4682857093310896
+1651415197,Fundamentals of Session Types,2009,30,21,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.3392557950527258,-0.004622955805057376
+1945354265,Deductive Verification of Parallel Programs Using Why3,2015,7,5,3,0.0,2154099285,CÃ©sar Santos,0,0.7886694819177171,-1.1242606024961224
+1583683289,Specifying and Monitoring Java Classes,2009,0,1,3,1.0,2161031197,Isabel Nunes,0,-3.848375815641805,0.42914786485425255
+1593179961,The call-by-value $lambda$-calculus the SECD machine and the $pi$-calculus,2000,18,0,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.3828086706490738,-0.12744200367172193
+1602226418,Testing Implementations of Algebraic Specifications with Design-by-Contract Tools,2005,14,4,4,1.0,2132827909,JoÃ£o Abreu,0,0.5484978994784192,-0.03339561428554295
+1784055113,Language Primitives and Type Discipline for Structured Communication-Based Programming,1998,39,633,3,0.882353,2167679532,Kohei Honda,0,0.3041265068440456,-0.8540136708806935
+1985850551,Channels as Objects in Concurrent Object-Oriented Programming,2011,23,3,1,1.0,2310759966,Vasco T. Vasconcelos,0,0.9114877117114251,0.4054331990842479
+1989213389,Processes functions and datatypes,1999,22,9,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.1164726804531344,0.019252515865476
+1991246212,Type-Directed Compilation for Multicore Programming,2009,27,4,3,0.0712242,1975138547,Nobuko Yoshida,0,0.9849593516460704,-1.529079040026052
+1988442907,Session types for linear multithreaded functional programming,2009,14,4,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.23499234911155384,0.21406661790624099
+2016226915,Imperative objects with dependent types,2015,14,1,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.7512652778169567,-0.01034270204648458
+2023489866,Protocol-based verification of message-passing parallel programs,2015,44,24,7,0.0,1975138547,Nobuko Yoshida,0,1.2878100494465419,-0.464256417096796
+2034870916,Language Primitives and Type Discipline for Structured Communication-Based Programming Revisited Two Systems for Higher-Order Session Communication,2007,25,107,2,0.0906461,1975138547,Nobuko Yoshida,0,0.5542093007595659,-1.0177336383886555
+2035237347,Fine-grained multithreading with process calculi,2001,30,3,3,1.0,2115144937,Fernando Silva,0,-0.3763294434824037,-0.255960669938828
+2052853468,The stream-based service-centred calculus a foundation for service-oriented programming,2014,44,7,4,0.196739,367970676,Ivan Lanese,0,1.309427708748978,0.2566556651773792
+2039567475,Proceedings 7th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software (PLACES14),2014,0,0,2,0.846576,2157244358,Alastair F. Donaldson,0,0.21403525459509368,-0.20178447295886934
+2074075461,Editorial Selected Papers from the Eleventh International Conference on Coordination Models and Languages,2012,0,0,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.1164726804531344,0.019252515865476
+2072823661,Type Inference for Deadlock Detection in a Multithreaded Polymorphic Typed Assembly Language,2010,14,20,2,1.0,2237806140,Francisco Martins,0,0.11977801225687743,0.0965843476376933
+2108416191,Disciplining Orchestration and Conversation in Service-Oriented Computing,2007,23,76,3,0.512821,367970676,Ivan Lanese,0,-0.16096671506387875,-0.31613398918167407
+2105716349,Type checking a multithreaded functional language with session types,2006,43,70,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.12447318542930925,0.03491329937394617
+2141535462,Secure Information Flow as Typed Process Behaviour,2000,56,115,3,0.0906461,1975138547,Nobuko Yoshida,0,-0.04958644680815993,0.29528136827238555
+2124126159,Linear type theory for asynchronous session types,2010,30,124,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.313369518565309,-0.2226517562025758
+2136650960,Fine Grained Multithreading with Process Calculi,2000,25,1,3,1.0,2115144937,Fernando Silva,0,-0.3763294434824037,-0.255960669938828
+2119545977,Towards deductive verification of MPI programs against session types,2013,14,11,4,0.833333,2033481875,Eduardo R. B. Marques,0,0.20992265662051535,-0.017041239425548974
+2143628922,Lexically scoped distribution what you see is what you get,2003,12,12,2,1.0,2165196495,LuÃ­s Lopes,0,-0.33768554160081604,-0.3189434890671385
+2134805205,A concurrent programming environment with support for distributed computations and code mobility,2000,22,5,4,1.0,2115144937,Fernando Silva,0,1.5738695413063266,0.04324443442744771
+2145086089,Compiling the Ï€-calculus into a Multithreaded Typed Assembly Language,2009,41,2,2,1.0,2237806140,Francisco Martins,0,-0.03010911489866826,-0.8531380635317691
+2166172769,Bridging the Gap between Algebraic Specification and Object-Oriented Generic Programming,2009,29,14,3,1.0,2161031197,Isabel Nunes,0,-0.12526113775678988,-0.28586493376113536
+2172149339,Session Types for Functional Multithreading,2004,33,39,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.12391199484109136,-0.08961706981716391
+2151631459,Type-Based Verification of Message-Passing Parallel Programs,2014,26,0,6,0.0,1975138547,Nobuko Yoshida,0,-0.4827972614153656,-0.5817783963519576
+2164019288,Typing the Behavior of Software Components using Session Types,2006,21,40,2,0.263158,2138511335,Antonio Vallecillo,0,0.9858155219950158,-0.10768796763279835
+2164293299,Typing the Behavior of Objects and Components using Session Types,2003,18,59,2,0.263158,2138511335,Antonio Vallecillo,0,-0.1164726804531344,0.019252515865476
+2170511918,Lambda and pi calculi CAM and SECD machines,2005,12,7,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.3232592219744083,-0.1616721327875951
+2171043779,Modular session types for distributed object-oriented programming,2010,52,75,2,0.0,2163754533,Alexandre Z. Caldeira,0,-0.280228409311078,-0.016503147865309185
+2267235721,Selected papers on Programming Language Approaches to Concurrency and Communication-cEntric Software (PLACES 2014),2015,0,0,2,0.846576,2157244358,Alastair F. Donaldson,0,1.7122706620107553,-0.24407290739305307
+2202183671,Preface 18th International Conference on Concurrency Theory,2010,0,0,2,0.0,2001121806,LuÃ­s Caires,0,-0.2268142716231431,-0.1590203910320284
+2253691073,Monitoring Java code using ConGu,2008,15,3,3,1.0,2161031197,Isabel Nunes,0,-2.141814329155781,-0.14879242840006984
+2272548202,Congu Checking Java Classes Against Property-Driven Algebraic Specifications,2007,4,6,5,1.0,2132827909,JoÃ£o Abreu,0,-2.0435971002405533,-0.07801179583539807
+2272757247,Sessions from Types to Programming Languages,2013,15,12,1,1.0,2310759966,Vasco T. Vasconcelos,0,1.1473611298518234,0.4818622028385761
+2252526207,Proceedings of the 18th international conference on Concurrency Theory,2007,0,0,2,0.0,2001121806,LuÃ­s Caires,0,-0.2268142716231431,-0.1590203910320284
+2281052768,An instance of the MIKADO migration model,2005,0,0,3,1.0,2237806140,Francisco Martins,0,-0.133929595227951,-0.0210614300748054
+2289919930,A process-calculus approach to typed concurrent objects,1995,0,13,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.1806164563517082,-0.18033171048170904
+2335035850,Proceedings Tenth Workshop on Programming Language Approaches to Concurrency- and Communication-cEntric Software Preface,2014,0,1,2,0.846576,2157244358,Alastair F. Donaldson,0,0.21403525459509368,-0.20178447295886934
+2490211961,Behavioral Types in Programming Languages,2016,125,38,16,0.0,346630983,Viviana Mascardi,0,2.7235751002772948,0.025020509351960554
+2583546332,Checking the Conformance of Java Classes Against Algebraic Specifications,2006,0,2,4,1.0,2132827909,JoÃ£o Abreu,0,0.4775529393722265,0.2845061170991979
+2585947240,Session types for functional multithreading,2004,0,1,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.23947934244603603,-0.17769547708067618
+2508649175,Context-free session types,2016,25,13,2,0.0,2087891828,Peter Thiemann,0,-0.543431544301348,0.03448906349480712
+2608871603,Proceedings Tenth Workshop on Programming Language Approaches to Concurrency- and Communication-cEntric Software,2017,0,0,2,0.0,2111160083,Philipp Haller,0,0.6160377146885383,-0.25862380072782976
+2736821074,Gradual session types,2017,68,18,4,0.0,2060729710,Philip Wadler,0,-0.34715787664954734,0.054959186716800563
+2886967734,Dependent Types for Class-based Mutable Objects,2018,0,1,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.1164726804531344,0.019252515865476
+2915763278,Type Inference for Deadlock Detection in a Multithreaded Polymorphic Typed Assembly Language,2009,0,3,2,1.0,2237806140,Francisco Martins,0,0.5368824171291805,0.010019260039691835
+2898887876,Deadlock Avoidance in Parallel Programs with Futures Why Parallel Tasks Should Not Wait for Strangers,2017,0,0,5,0.0,2076894583,Rishi Surendran,0,0.16818300483322987,-0.6963254392837378
+2925869698,Asynchronous timed session types from duality to time-sensitive processes,2019,33,2,3,0.0,1975138547,Nobuko Yoshida,0,-0.1164726804531344,0.019252515865476
+2950679151,Gradual Session Types,2018,77,0,4,0.0,2060729710,Philip Wadler,0,0.34798194582344943,-0.13418242764191476
+2952875396,FreeST Context-free Session Types in a Functional Language,2019,24,1,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.2821808245109372,0.20491297323951757
+2963509404,Channels as Objects in Concurrent Object-Oriented Programming,2010,23,4,1,1.0,2310759966,Vasco T. Vasconcelos,0,0.9114877117114251,0.4054331990842479
+2963767910,Towards deductive verification of MPI programs against session types,2013,15,0,4,0.833333,2033481875,Eduardo R. B. Marques,0,0.20992265662051535,-0.017041239425548974
+2953270598,Special issue on the tenth Workshop on Programming Language Approaches to Concurrency- and Communication-cEntric Software,2019,6,0,2,0.0,2111160083,Philipp Haller,0,0.21403525459509368,-0.20178447295886934
+2972503123,Concur 2007 - Concurrency Theory,2008,0,0,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.2268142716231431,-0.1590203910320284
+2995705594,Label-Dependent Session Types,2020,46,2,2,0.0,2087891828,Peter Thiemann,0,-0.1164726804531344,0.019252515865476
+2986739529,Gradual session types,2019,87,0,4,0.0,2060729710,Philip Wadler,0,0.34798194582344943,-0.13418242764191476
+2969325443,18th International Conference on Concurrency Theory,2010,0,1,2,0.0,2001121806,LuÃ­s Caires,0,-0.2268142716231431,-0.1590203910320284
+2987467276,Label-Dependent Session Types,2019,39,0,2,0.0,2087891828,Peter Thiemann,0,-0.3799723350828823,-1.2493154355302931
+3014865657,Duality of Session Types The Final Cut,2020,10,0,2,0.0,2087891828,Peter Thiemann,0,-0.4457716122789026,-0.010646951344291472
+3014176818,Mixed Sessions the Other Side of the Tape,2020,11,0,1,1.0,2310759966,Vasco T. Vasconcelos,0,-0.1164726804531344,0.019252515865476

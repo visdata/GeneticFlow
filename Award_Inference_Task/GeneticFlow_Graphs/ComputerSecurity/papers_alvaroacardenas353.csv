@@ -1,0 +1,80 @@
+207267598,Research challenges for the security of control systems,2008,15,382,3,0,2149692785,Shankar Sastry,0,0.0040557659796233,0.2757546058061082
+157492013,Resilience of Process Control Systems to Cyber-Physical Attacks,2013,14,32,2,0,2065491189,Marina Krotofil,0,0.04413362793135801,0.3311924243665051
+23960604,Proceedings of the 4th ACM workshop on Security and artificial intelligence,2011,0,0,4,0,2037808344,Rachel Greenstadt,0,-0.6991469860145861,0.9109785533756322
+25531497,Evaluating electricity theft detectors in smart grid networks,2012,13,69,2,0,2294967283,Daisuke Mashima,0,-0.09599616327697101,0.06312598316488381
+60497525,Data Handling in the Smart Grid Do We Know Enough ,2013,13,0,2,0,221486981,Emiliano De Cristofaro,0,0.6921869563937031,2.744985075004018
+307491289,Cross-Layered Security Analysis of Wireless Ad Hoc Networks,2004,0,10,3,0,207955301,John S. Baras,0,-0.5035578328959777,1.617711324873295
+324315340,Attenuating the Impact of Integrity Attacks on Real-Time Pricing in Smart Grids,2014,17,1,3,0,2071491594,Nicanor Quijano,0,0.3191667385199317,1.3680776132167063
+1532356377,A game theory model for electricity theft detection and privacy-aware control in AMI systems,2012,0,0,5,0,2136863049,Galina Schwartz,0,0.0040557659796233,0.2757546058061082
+1571323288,Safe and Secure Networked Control Systems under Denial-of-Service Attacks,2009,20,376,3,0,2149692785,Shankar Sastry,0,-0.0983950377965116,0.639404861410198
+1539306584,Nudge intermediaries role in interdependent network security,2010,27,14,4,0,120510863,Svetlana Radosavac,0,-0.4447547361580412,1.6339556856823485
+1667368742,A multi-layered and kill-chain based security analysis framework for cyber-physical systems,2015,12,25,1,0,2309731995,Alvaro A. Cardenas,0,0.1004918498905871,0.15296279481678168
+1605404963,Effects of Risk on Privacy Contracts for Demand-Side Management,2014,11,6,6,0,2036210439,Henrik Ohlsson,0,0.7809203691141892,2.0207774504121385
+1906923916,Quantifying the Utility-Privacy Tradeoff in the Smart Grid,2014,31,4,5,0,2036210439,Henrik Ohlsson,0,0.5333380117355967,1.9348874131798697
+1999893744,AMI threats intrusion detection requirements and deployment recommendations,2012,11,69,6,0,291858548,Jorjeta G. Jetcheva,0,-0.06730836601543236,0.46261639081740313
+1993279058,Control Systems for the Power Grid and Their Resiliency to Attacks,2014,14,6,4,0,2071491594,Nicanor Quijano,0,-1.0132414020503433,1.5229171164982143
+1990734178,CPS market analysis of attacks against demand response in the smart grid,2014,23,11,3,0,2071491594,Nicanor Quijano,0,-0.08456778077202542,0.5410242094667748
+2011315403,Reconciling security protection and monitoring requirements in Advanced Metering Infrastructures,2013,27,6,7,0,291858548,Jorjeta G. Jetcheva,0,0.20428800154733592,0.195108743612827
+2025835820,Fifth ACM workshop on artificial intelligence and security (AISec 2012),2012,0,0,3,0,617941202,Benjamin I. P. Rubinstein,0,0.0040557659796233,0.2757546058061082
+2052303336,A Framework for Evaluating Intrusion Detection Architectures in Advanced Metering Infrastructures,2014,14,26,6,0,291858548,Jorjeta G. Jetcheva,0,0.02584686736540599,0.40025958195707284
+2045669182,CPS driving cyber-physical systems to unsafe operating conditions by timing DoS attacks on sensor signals,2014,22,20,3,0,2065491189,Marina Krotofil,0,-0.20545490062293015,0.2198759960986171
+2052873041,Privacy and customer segmentation in the smart grid,2014,23,3,5,0,2036210439,Henrik Ohlsson,0,0.7809203691141892,2.0207774504121385
+2037246441,First Workshop on Cyber-Physical Systems Security and PrivaCy (CPS-SPC) Challenges and Research Directions,2015,0,1,1,0,2309731995,Alvaro A. Cardenas,0,0.36310606853794825,1.3457350680048252
+2048099096,Rethinking security properties threat models and the design space in sensor networks A case study in SCADA systems,2009,29,80,3,0,2016203918,Tanya Roosta,0,0.33534420185143704,1.1516843210271692
+2035831075,Nudge intermediaries role in interdependent network security,2010,26,5,4,0,120510863,Svetlana Radosavac,0,-0.3662229808357674,1.5631113126239766
+2051892826,From CRCs to resilient control systems differentiating between reliability and security for the protection of cyber-physical systems,2014,0,0,1,0,2309731995,Alvaro A. Cardenas,0,0.3204335822634435,0.03718299582018274
+2043245686,Is this a good time deciding when to launch attacks on process control systems,2014,4,3,2,0,2065491189,Marina Krotofil,0,-0.25381621391595827,0.49384390634154823
+2056451850,Attacks against process control systems risk assessment detection and response,2011,34,408,5,0,2149692785,Shankar Sastry,0,-0.6473315600232666,1.925590087342099
+2060237023,A game theory model for electricity theft detection and privacy-aware control in AMI systems,2012,14,59,5,0,2136863049,Galina Schwartz,0,0.13981217474373742,0.7175569899861202
+2089562307,Towards a secure and interoperable DRM architecture,2006,15,83,2,0,417821493,Virgil D. Gligor,0,-0.07462511556487998,0.9200098389061593
+2098266409,A framework for the evaluation of intrusion detection systems,2006,35,71,2,0,207955301,John S. Baras,0,-0.0567134206410716,0.6949380038164903
+2090414750,On the practicality of detecting anomalies with encrypted traffic in AMI,2014,11,9,6,0,291858548,Jorjeta G. Jetcheva,0,0.09629082621608365,0.3615790615065452
+2085434887,Vulnerabilities of cyber-physical systems to stale data-Determining the optimal time to launch attacks,2014,31,31,3,0,2065491189,Marina Krotofil,0,-1.2277582790071249,-0.21334140330187243
+2096224818,Cyber-Physical Systems Attestation,2014,11,16,3,0,2079918333,Carlos Barreto,0,-0.2828772905716797,0.2999462091681027
+2088985796,Game-Theoretic Models of Electricity Theft Detection in Smart Utility Networks Providing New Capabilities with Advanced Metering Infrastructure,2015,19,52,4,0,2136863049,Galina Schwartz,0,0.0040557659796233,0.2757546058061082
+2123990969,Secure Control Towards Survivable Cyber-Physical Systems,2008,30,498,3,0,2149692785,Shankar Sastry,0,-0.01234445218705208,0.4846962018188921
+2124808847,Big Data Analytics for Security,2013,4,139,3,0,1986201499,Pratyusa K. Manadhata,0,-0.9054248755476025,1.7582159081015876
+2110271878,An Economic Map of Cybercrime,2009,33,14,5,0,120510863,Svetlana Radosavac,0,-0.019545370674913406,0.8262534483104265
+2157836667,Detection of Greedy Individual and Colluding MAC Layer Attackers,2006,24,1,3,0,120510863,Svetlana Radosavac,0,0.3259332239481683,0.5745734317069635
+2152106854,Understanding the physical and economic consequences of attacks on control systems,2009,9,98,4,0,2149692785,Shankar Sastry,0,-0.09599616327697101,0.06312598316488381
+2261765266,Using Visual Challenges to Verify the Integrity of Security Cameras,2015,31,13,2,0,2122676377,Junia Valente,0,0.11625249094620414,-0.13635658150377764
+2188972169,Response and reconfiguration of cyber-physical control systems A survey,2015,27,21,4,0,2071491594,Nicanor Quijano,0,-0.20545490062293015,0.2198759960986171
+2290479911,Detecting fraud in demand response programs,2015,6,6,2,0,2079918333,Carlos Barreto,0,0.0040557659796233,0.2757546058061082
+2340138900,Game Theoretic Models of Electricity Theft Detection in Smart Utility Networks,2015,20,4,4,0,2136863049,Galina Schwartz,0,0.0040557659796233,0.2757546058061082
+2342556648,Integrity Attacks on Real-Time Pricing in Smart Grids Impact and Countermeasures,2017,21,45,3,0,2071491594,Nicanor Quijano,0,0.3191667385199317,1.3680776132167063
+2480084605,Security and privacy in the smart grid,2012,20,12,2,0,1967715543,Reihaneh Safavi Naini,0,0.0040557659796233,0.2757546058061082
+2544814013,Cyber-Physical Security and Privacy [Guest editors introduction],2016,1,1,2,0,2091485889,Bruno Crispo,0,-0.3328719789751688,1.0465825803941589
+2553516091,Basic Defenses and Attack Trends,2008,51,0,3,0,2016203918,Tanya Roosta,0,0.0040557659796233,0.2757546058061082
+2535751405,Limiting the Impact of Stealthy Attacks on Industrial Control Systems,2016,64,108,9,0,1903668432,Henrik Sandberg,0,-0.04712562419856677,0.5047595905795617
+2536181682,Second Workshop on Cyber-Physical Systems Security and PrivaCy (CPS-SPC16),2016,0,0,1,0,2309731995,Alvaro A. Cardenas,0,-0.20545490062293015,0.2198759960986171
+2590845164,Modeling Modbus TCP for intrusion detection,2016,8,6,3,0,2064532066,Avishai Wool,0,0.37440620404481767,0.6348465907754611
+2599472706,Optimal Security Investments in a Prevention and Detection Game,2017,10,2,3,0,1981000408,Alain Bensoussan,0,0.1639362940477497,0.6530314529854678
+2735874745,Security vs privacy How integrity attacks can be masked by the noise of differential privacy,2017,16,4,3,0,332400322,Murat Kantarcioglu,0,0.4496950496275597,1.1505016085360857
+2608067546,Cyber-Physical Security and Privacy Introduction,2016,0,0,2,0,2091485889,Bruno Crispo,0,0.42450295760394713,1.331242822051312
+2617246254,Security and Privacy in Cyber-Physical Systems A Survey of Surveys,2017,35,85,3,0,1916976867,Michail Maniatakos,0,-0.3243435792286579,0.28810711841084
+2732778244,Guest Editorsâ€™ Introduction Cyber-Physical Systems Security and Privacy,2017,0,2,3,0,1916976867,Michail Maniatakos,0,-0.20545490062293015,0.2198759960986171
+2765678218,Remote Proofs of Video Freshness for Public Spaces,2017,25,3,2,0,2122676377,Junia Valente,0,0.1822731046919942,0.706777145399998
+2777934020,Leveraging Software-Defined Networking for Incident Response in Industrial Control Systems,2017,8,12,3,0,2127862431,Jairo Giraldo,0,-0.7224546945529717,1.1963680375661818
+2766048395,Understanding Security Threats in Consumer Drones Through the Lens of the Discovery Quadcopter Family,2017,13,13,2,0,2122676377,Junia Valente,0,0.1822731046919942,0.706777145399998
+2766049877,Security &amp; Privacy in Smart Toys,2017,7,19,2,0,2122676377,Junia Valente,0,0.2195142576815689,1.1136333929496327
+2750041875,AISec 2012 foreword,2012,0,0,3,0,617941202,Benjamin I. P. Rubinstein,0,0.0040557659796233,0.2757546058061082
+2762819929,Security and privacy trade-offs in CPS by leveraging inherent differential privacy,2017,12,5,3,0,332400322,Murat Kantarcioglu,0,0.4496950496275597,1.1505016085360857
+2766954590,Keynote Security and Privacy in the Age of IoT,2017,3,0,1,0,2309731995,Alvaro A. Cardenas,0,0.2133715976306133,0.8576378883220427
+2767204183,Sexual Intimacy in the Age of Smart Devices Are We Practicing Safe IoT ,2017,4,5,2,0,2145340383,Sandra Rueda,0,0.1822731046919942,0.706777145399998
+2767741709,SDN and NFV Security Challenges for Integrated Solutions,2017,55,0,3,0,2145340383,Sandra Rueda,0,-1.1819500824145523,1.9152401402989043
+2803265214,Quantifying the Utility--Privacy Tradeoff in the Internet of Things,2018,57,4,5,0,2036210439,Henrik Ohlsson,0,0.4987684980693504,1.7754698675426734
+2912959154,Proceedings of the First ACM Workshop on Cyber-Physical Systems-Security and/or PrivaCy,2015,0,0,5,0,989270,Edgar R. Weippl,0,-0.1761649775343779,0.38410499233477463
+2904516767,Impact of the Market Infrastructure on the Security of Smart Grids,2019,17,5,2,0,2079918333,Carlos Barreto,0,-0.11857910674998395,0.09698776250942825
+2947075499,A Business That Cant Lose Investing in Attacks against the Colombian Power Grid,2019,0,0,3,0,2079918333,Carlos Barreto,0,0.0040557659796233,0.2757546058061082
+2947498291,Hide and Seek An Architecture for Improving Attack-Visibility in Industrial Control Systems,2019,20,1,3,0,2127862431,Jairo Giraldo,0,0.2820546692952395,0.4802121685173846
+2944816383,Moving Target Defense for Attack Mitigation in Multi-Vehicle Systems,2019,26,1,2,0,2127862431,Jairo Giraldo,0,-0.33932013367009156,0.3936259596475017
+2950787562,Privacy and Customer Segmentation in the Smart Grid,2014,15,1,5,0,2036210439,Henrik Ohlsson,0,-0.2662985839796155,0.6412403376006279
+2972131466,Improving the Security of Visual Challenges,2019,17,0,3,0,2122676377,Junia Valente,0,-0.5530861437885858,-0.004176666300269333
+2972797981,A Moving Target Defense to Detect Stealthy Attacks in Cyber-Physical Systems,2019,10,1,2,0,2127862431,Jairo Giraldo,0,-0.2283474559629875,0.3616708136541823
+2969741077,Not Everything is Dark and Gloomy Power Grid Protections Against IoT Demand Attacks,2019,0,3,2,0,2041614043,Ross Baldick,0,0.1822731046919942,0.706777145399998
+2974083510,IEC 60870-5-104 Network Characterization of a Large-Scale Operational Power Grid,2019,8,0,1,0,2309731995,Alvaro A. Cardenas,0,1.504161182977596,0.4944026780277315
+2988187574,Enhancing the Resiliency of Cyber-Physical Systems with Software-Defined Networks,2019,13,0,1,0,2309731995,Alvaro A. Cardenas,0,-0.1738150333354752,0.5837799990476494
+2965836381,Stealing Spying and Abusing Consequences of Attacks on Internet of Things Devices,2019,5,1,2,0,2122676377,Junia Valente,0,0.1887284299985283,0.18391030263453162
+2971075053,Privacy and Security in Internet-Connected Cameras,2019,11,1,2,0,2122676377,Junia Valente,0,0.2240770960939137,0.13847327773147955
+3003857539,Protecting the Texas Electric Grid A Cybersecurity Strategy for ERCOT and the PUCT,2019,4,0,3,0,2041614043,Ross Baldick,0,0.1639362940477497,0.6530314529854678
+3008145398,Adversarial Classification Under Differential Privacy,2020,0,0,4,0,332400322,Murat Kantarcioglu,0,0.18024655990534766,0.4248442162106032

@@ -1,0 +1,94 @@
+72198128,Selecting a Database Partitioning Technique,1993,0,6,2,0.0,249665186,Margaret H. Eich,0,-0.0041099411153885,0.0447066884760059
+74717622,Determining a minimal and independent set of image processing operations for a multimedia database system,1998,8,2,2,1.0,2154452112,Leonard Brown,0,0.9362066037123162,0.5599226136008748
+81075401,Estimating missing data in data streams,2007,11,33,1,1.0,2188709943,Le Gruenwald,0,-0.42845202490949574,0.1450203979855267
+67943265,Semantic-Based Concurrency Control in Object-Oriented Databases,1998,15,3,2,0.681818,2159814393,Woochun Jun,0,2.376031815465849,3.2190297341409675
+1505133516,Large-scale spatial join query processing in Cloud,2015,15,82,2,1.0,2158986460,Simin You,0,-0.0041099411153885,0.0447066884760059
+1505372400,Performing Colour-Based Similarity Searches in Multimedia Database Management Systems Augmented with Derived Images,2004,14,4,2,1.0,2154452112,Leonard Brown,0,0.059237243901636004,0.1632240854285962
+1506200649,Reducing sub-transaction aborts and blocking time within atomic commit protocols,2006,15,11,3,0.264653,2100168392,Stefan BÃ¶ttcher,0,2.007479158651789,0.8007726968879751
+1516087950,How to recover main memory databases from a system failure,2008,6,0,2,1.0,249665186,Margaret H. Eich,0,-0.0041099411153885,0.0447066884760059
+1534312022,An energy-efficient concurrency control algorithm for mobile ad-hoc network databases,2011,22,4,2,1.0,2155957233,Zhaowen Xing,0,2.1521274932942496,2.8266897080695514
+1490750008,A Logging Technique Based on Transaction Types for Real-Time Databases,1997,9,3,1,1.0,2188709943,Le Gruenwald,0,0.9394478511408302,1.0498644552953817
+1491031219,Design and Implementation of Mobile Class Web Site for Promoting Communication,2004,0,0,3,0.0,2123757017,Yeonho Hong,0,-0.0041099411153885,0.0447066884760059
+1535885259,A Clustering Technique for Object Oriented Databases,1997,9,16,1,1.0,2188709943,Le Gruenwald,0,-0.0041099411153885,0.0447066884760059
+1501370452,REALM Replication of Data for a Logical Group Based MANET Database,2008,11,10,1,1.0,2188709943,Le Gruenwald,0,0.36136228813678184,-0.19873603871814904
+1928624077,Database partitioning techniques to support reload in a main memory database system MARS,1990,4,2,2,0.0,249665186,Margaret H. Eich,0,0.7729297153581918,0.624772256184135
+1587560617,Lightweight Distributed Execution Engine for Large-Scale Spatial Join Query Processing,2015,26,8,2,1.0,2158986460,Simin You,0,0.343274093160052,0.29772106823642797
+1883135726,A prototype for translating XQuery expressions into XSLT stylesheets,2005,2,4,4,0.0,1246451812,Sven Groppe,0,1.670351857875865,-0.48709423059774515
+1885345228,A Meta-Structure for Supporting Multimedia Editing in Object-Oriented Databases,1998,11,9,2,0.0,2031315279,Gregory D. Speegle,0,-0.0041099411153885,0.0447066884760059
+1940620530,A data priority reload technique for real-time main memory databases,1996,10,0,1,1.0,2188709943,Le Gruenwald,0,0.5418997010986485,0.5718898721317214
+1592684829,Database and Metadata Support of a Web-Based Multimedia Digital Library for Medical Education,2002,10,7,1,1.0,2188709943,Le Gruenwald,0,1.0535959299364719,0.07338025606294707
+1594318208,An Access Time Cost Model for Spatial Range Queries on Broadcast Geographical Data over Air,2003,25,2,1,1.0,2188709943,Le Gruenwald,0,0.3820908385543769,0.2117467783858426
+1980267251,High-Performance Spatial Query Processing on Big Taxi Trip Data Using GPGPUs,2014,12,13,2,1.0,2158986460,Simin You,0,0.16961816653767703,0.31221718520020947
+2005102104,An optimistic concurrency control algorithm for mobile ad-hoc network databases,2010,16,2,3,0.0,2137183544,Seokil Song,0,2.3025291839559374,2.9108933901021614
+2009036560,Online outlier detection for data streams,2011,26,11,2,0.0,2165192556,Shiblee Sadik,0,-0.42845202490949574,0.1450203979855267
+1991776304,Research issues in mining multiple data streams,2010,16,15,1,1.0,2188709943,Le Gruenwald,0,-0.42845202490949574,0.1450203979855267
+2005846137,Proceedings of the Eighth ACM International Workshop on Data Engineering for Wireless and Mobile Access,2009,0,0,4,0.0,106486015,Pedro JosÃ© MarrÃ³n,0,0.18601297105691045,-0.0008472885667257998
+2005953977,Effects of deadline propagation on scheduling nested transactions in distributed real-time database systems,1996,17,23,1,1.0,2188709943,Le Gruenwald,0,1.9156739660622721,1.8380639420685585
+2024238429,High-performance online spatial and temporal aggregations on multi-core CPUs and many-core GPUs,2012,31,15,2,1.0,2158986460,Simin You,0,-0.5534199849137634,0.7991027271987935
+2027772444,Managing Data Replication in Mobile Ad-Hoc Network Databases,2006,8,6,2,0.0,1985273562,Prasanna Padmanabhan,0,0.495671838577127,0.15424746035077244
+2027965964,Mechanisms for managing partial reload in a high performance memory-resident database system,1993,20,0,1,1.0,2188709943,Le Gruenwald,0,2.0779750718425674,0.8035769454807974
+2019273881,MMDB reload concerns,1994,15,2,2,0.5,249665186,Margaret H. Eich,0,0.8819964512398518,0.8953778822058752
+2029773898,Crash recovery for real-time main memory database systems,1996,9,5,1,1.0,2188709943,Le Gruenwald,0,0.48579843251338234,0.616789227013595
+2017583484,Database research at the University of Oklahoma,1999,12,6,6,1.0,305578067,Sylvain Guinepain,0,0.5498923890120184,-0.10548496472110781
+2012363107,Research issues for data communication in mobile ad-hoc network database systems,2003,19,74,1,1.0,2188709943,Le Gruenwald,0,-0.0041099411153885,0.0447066884760059
+2012591648,MMDB reload algorithms,1991,16,27,2,0.0,249665186,Margaret H. Eich,0,-0.0041099411153885,0.0447066884760059
+2026765083,Managing concurrent execution of transactions in mobile ad-hoc network database systems an energy-efficient approach,2013,47,5,2,1.0,2155957233,Zhaowen Xing,0,0.8071947597928303,0.95524368871504
+2030538968,Recovery for real-time main memory database systems,1994,5,1,1,1.0,2188709943,Le Gruenwald,0,-0.0041099411153885,0.0447066884760059
+2020463925,Paper and proposal reviews is the process flawed ,2008,0,6,5,0.0,665840641,Henry F. Korth,0,-0.0041099411153885,0.0447066884760059
+2051028427,Self-managing online partitioner for databases (SMOPD) a vertical database partitioning system with a fully automatic online approach,2013,24,8,1,1.0,2188709943,Le Gruenwald,0,3.0693278673230027,-0.48312522659923623
+2053066845,A performance study of concurrency control in a real-time main memory database system,1993,14,6,1,1.0,2188709943,Le Gruenwald,0,2.378064854518905,3.0148668065832025
+2037289266,The Claremont report on database research,2008,6,119,18,0.0,156875573,Sunita Sarawagi,0,0.11069343465737484,0.7732306852028031
+2050272677,An auto-indexing technique for databases based on clustering,2004,9,9,1,1.0,2188709943,Le Gruenwald,0,2.318128071175013,0.4599241456090302
+2034435578,U 2 SOD-DB a database system to manage large-scale u biquitous u rban s ensing o rigin- d estination data,2012,25,7,2,0.0,2095066362,Camille Kamga,0,0.18601297105691045,-0.0008472885667257998
+2055847995,A toggle transaction management technique for mobile multidatabases,1998,11,23,2,1.0,1977816900,Ravi A. Dirckze,0,2.6225567725569556,0.6425088409596482
+2064956697,Prototype for wrapping and visualizing geo-referenced data in a distributed environment using XML technology,2000,14,18,1,1.0,2188709943,Le Gruenwald,0,2.34419566461737,-0.9504174867739064
+2070961749,Nomadic transaction management,1998,8,8,2,1.0,1977816900,Ravi A. Dirckze,0,2.081117201183325,2.013196915426848
+2094444482,An online spatio-temporal association rule mining framework for analyzing and estimating sensor data,2009,10,7,2,0.0,2117546821,Hamed Chok,0,-0.42845202490949574,0.1450203979855267
+2087942951,Medical data management in the SYSEO project,2013,19,3,5,1.0,2017710769,Laurent dOrazio,0,0.18601297105691045,-0.0008472885667257998
+2100610011,Choosing the best storage technique for a main memory database system,1990,14,8,2,0.0,249665186,Margaret H. Eich,0,1.826357554089693,0.3924879783677926
+2117307127,Integrating purchase patterns and traversal patterns to predict HTTP requests in e-commerce sites,2003,17,8,1,1.0,2188709943,Le Gruenwald,0,-0.0041099411153885,0.0447066884760059
+2138101451,Research issues in data stream association rule mining,2006,49,250,1,1.0,2188709943,Le Gruenwald,0,-0.42845202490949574,0.1450203979855267
+2141643352,Extending databases to support image editing,2000,7,5,1,1.0,2188709943,Le Gruenwald,0,-0.08042147593780591,0.5488606577004626
+2109794582,Reload in a main memory database system MARS,1990,8,7,2,0.0,249665186,Margaret H. Eich,0,-0.0041099411153885,0.0447066884760059
+2107348967,PETRANET a Power Efficient Transaction Management Technique for Real-Time Mobile Ad-hoc Network Databases,2006,5,7,1,1.0,2188709943,Le Gruenwald,0,0.3924569572184744,0.13330094342704243
+2137025614,Automatic Database Clustering Using Data Mining,2006,10,13,2,1.0,305578067,Sylvain Guinepain,0,-0.0041099411153885,0.0447066884760059
+2143211829,DREAM A Data Replication Technique for Real-Time Mobile Ad-hoc Network Databases,2006,2,22,1,1.0,2188709943,Le Gruenwald,0,0.37997148319551943,-0.30083013137326403
+2107521346,Simulation of Main Memory Database Recovery,1993,6,0,2,0.0,249665186,Margaret H. Eich,0,0.40237957841737376,0.14620045429879072
+2143313176,Evaluating partitioning techniques for main memory database horizontal and single vertical,1993,3,4,1,1.0,2188709943,Le Gruenwald,0,-0.0041099411153885,0.0447066884760059
+2131220986,Research issues in automatic database clustering,2005,30,34,2,1.0,305578067,Sylvain Guinepain,0,0.3703734902931201,0.1825095925926868
+2117209546,Securing MANET databases using metadata and context information,2008,3,1,4,0.0,2139020955,Carlos Sanchez,0,-0.5296866528830775,1.0365327578036603
+2137830927,A GMI-based open architecture for building a geographical information search engine over the Internet,2001,10,20,1,1.0,2188709943,Le Gruenwald,0,0.7989738097325675,-0.32750278253706694
+2162082956,Frequent itemsets mining for database auto-administration,2003,18,8,3,0.0488153,19399892,JÃ©rÃ´me Darmont,0,0.09242774139086024,0.1498831723643202
+2168319686,Towards a hybrid row-column database for a cloud-based medical data management system,2012,21,4,3,1.0,2017710769,Laurent dOrazio,0,0.18601297105691045,-0.0008472885667257998
+2153400024,Parallel Online Spatial and Temporal Aggregations on Multi-core CPUs and Many-Core GPUs,2014,54,23,2,1.0,2158986460,Simin You,0,-0.32103101787802024,0.5877267289967307
+2171392343,PRIVATE-IYE A Framework for Privacy Preserving Data Integration,2006,42,27,3,0.0,234835639,Mizuho Iwaihara,0,0.24421798981787415,-0.030346612069717435
+2165840162,Speeding up Color-Based Retrieval in Multimedia Database Management Systems that Store Images as Sequences of Editing Operations,2006,20,2,2,1.0,2154452112,Leonard Brown,0,1.5324490264987194,0.5451975507789353
+2154136278,Query expansion using web access log files,2005,15,5,1,1.0,2188709943,Le Gruenwald,0,-0.9794313543294588,-0.4997144810979248
+2154455526,Spatial and temporal aware trajectory mobility profile based location management for mobile computing,2002,6,10,1,1.0,2188709943,Le Gruenwald,0,-0.241250245220175,-0.17693373480736696
+2163371797,Autonomous database partitioning using data mining on single computers and cluster computers,2012,19,6,1,1.0,2188709943,Le Gruenwald,0,0.8809340701863815,0.11633144593696097
+2145516638,Prioritized sequencing for efficient query on broadcast geographical information in mobile-computing,2002,13,12,1,1.0,2188709943,Le Gruenwald,0,0.3820908385543769,0.2117467783858426
+2169581889,SODA An Algorithm to Guarantee Correctness of Concurrent Transaction Execution in Mobile P2P Databases,2008,12,6,2,1.0,2155957233,Zhaowen Xing,0,1.1311137437282512,1.4623522742344035
+2151642139,Using an ontology to improve search in a terrorism database system,2003,10,9,1,1.0,2188709943,Le Gruenwald,0,2.312865187884649,0.5196680883922107
+2157681346,A caching model for real-time databases in mobile ad-hoc networks,2005,13,4,1,1.0,2188709943,Le Gruenwald,0,0.7407009648826527,0.8366342673149179
+2167094688,A survey of data replication techniques for mobile ad hoc network databases,2008,31,142,3,0.0,1985273562,Prasanna Padmanabhan,0,0.3898941043944187,-0.28793062050151574
+2161481983,A Prototype Content-Based Retrieval System that Uses Virtual Images to Save Space,2001,4,2,2,1.0,2154452112,Leonard Brown,0,0.059237243901636004,0.1632240854285962
+2155574229,An integrated commit protocol for mobile network databases,2005,12,22,4,0.264653,2100168392,Stefan BÃ¶ttcher,0,2.1153458351761176,1.0416135005736515
+2237803421,Trim tri-modal data communication in mobile ad-hoc network database systems,2003,0,6,1,1.0,2188709943,Le Gruenwald,0,-0.0041099411153885,0.0447066884760059
+2296435460,Spatial Join Query Processing in Cloud Analyzing Design Choices and Performance Comparisons,2015,14,15,2,1.0,2158986460,Simin You,0,0.221423897897152,-0.21080654779612165
+2406743792,DBOD-DS distance based outlier detection for data,2010,22,9,2,0.0,2163376300,Md. Shiblee Sadik,0,-1.1692468288881792,-0.7068234563037924
+2408722108,Weighted Sum Model for Multi-Objective Query Optimization for Mobile-Cloud Database Environments,2016,19,7,2,0.689885,2017710769,Laurent dOrazio,0,0.014532710543751099,0.030944858938630852
+2487510170,Time- Energy- and Monetary Cost-Aware Cache Design for a Mobile-Cloud Database System,2015,20,2,2,0.849519,2017710769,Laurent dOrazio,0,1.0100311566735851,-0.11096966210189446
+2528956449,Towards an Efficient Top-K Trajectory Similarity Query Processing Algorithm for Big Trajectory Data on GPGPUs,2016,19,2,1,1.0,2188709943,Le Gruenwald,0,-0.0041099411153885,0.0447066884760059
+2576899092,An SLA and Operation Cost Aware Performance Re-tuning Algorithm for Cloud Databases,2016,30,0,1,1.0,2188709943,Le Gruenwald,0,-0.0041099411153885,0.0447066884760059
+2517330692,Evaluating Open Source Data Mining Tools for Business,2016,0,0,2,0.0,2099029680,Jorge Bernardino,0,-0.0041099411153885,0.0447066884760059
+2602015655,Towards GPU-Accelerated Web-GIS for Query-Driven Visual Exploration,2017,37,2,2,1.0,2158986460,Simin You,0,-0.26873521189137,1.1310883602545276
+2595439903,Parallel Selectivity Estimation for Optimizing Multidimensional Spatial Join Processing on GPUs,2017,46,3,2,1.0,2158986460,Simin You,0,0.014532710543751099,0.030944858938630852
+2592356478,A caching model for real-time databases in mobile ad-hoc networks,2005,0,0,1,1.0,2188709943,Le Gruenwald,0,0.7407009648826527,0.8366342673149179
+2754887812,Parallel Compression and Indexing of Large-Scale Geospatial Raster Data with GPGPUs,2017,22,0,2,1.0,2158986460,Simin You,0,-0.0041099411153885,0.0447066884760059
+2783666572,Improving user interaction in mobile-cloud database query processing,2017,18,1,2,0.58932,2017710769,Laurent dOrazio,0,0.007850436225435119,0.04530907395849227
+2912082662,Proceedings of the International Workshop on Semantic Big Data,2016,0,0,2,0.0,1246451812,Sven Groppe,0,-0.2146604900420487,0.3580009059218388
+2952006956,SBD19 Fourth Edition of the International Workshop on Semantic Big Data,2019,0,0,2,0.0,1246451812,Sven Groppe,0,0.06635930819191084,0.49152641060504293
+2932317608,A Vision of a Decisional Model for Re-optimizing Query Execution Plans Based on Machine Learning Techniques,2019,0,0,2,0.0,2017710769,Laurent dOrazio,0,-0.5296783729876128,0.5999535967023556
+2949139614,Frequent itemsets mining for database auto-administration,2008,17,0,3,0.0488153,19399892,JÃ©rÃ´me Darmont,0,0.09242774139086024,0.1498831723643202
+3025821464,A Persistent Memory-Aware Buffer Pool Manager Simulator for Multi-Tenant Cloud Databases,2020,9,0,2,0.0,2017710769,Laurent dOrazio,0,0.19828678730846774,-0.2335150136240375
+3024860837,Online Index Selection Using Deep Reinforcement Learning for a Cluster Database,2020,10,0,1,1.0,2188709943,Le Gruenwald,0,1.8914007082058568,0.5793494412049495

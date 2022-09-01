@@ -1,0 +1,96 @@
+137313736,SanssouciDB An In-Memory Database for Processing Enterprise Workloads,2011,17,32,1,1.0,2017491355,Hasso Plattner,0,-0.13986826231036678,-0.3488155859930167
+3634471,Relational database for storing business objects and method for operating the same,2011,3,0,1,1.0,2017491355,Hasso Plattner,0,1.15941583720679,0.24889372652238476
+11774449,A Course in In-Memory Data Management The Inner Mechanics of In-Memory Databases,2013,0,46,1,1.0,2017491355,Hasso Plattner,0,0.30651240186010204,0.15354535895293
+200793413,Efficient Transaction Processing for Hyrise in Mixed Workload Environments,2015,32,8,2,1.0,1563175031,David Schwalb,0,1.641530967974413,1.4676622704682576
+82188904,Vertical Bit-Packing Optimizing Operations on Bit-Packed Vectors Leveraging SIMD Instructions,2014,15,1,2,1.0,1563175031,David Schwalb,0,-0.46893397788284524,0.07728939382804885
+100254115,Physical Column Organization in In-Memory Column Stores,2013,15,8,2,1.0,1563175031,David Schwalb,0,-0.46893397788284524,0.07728939382804885
+117388900,Simulating Multi-Tenant OLAP Database Clusters,2011,31,2,3,0.419921,1991829994,Alexander Zeier,0,-0.3632509700454942,1.1437180412081445
+101809000,Leveraging Enterprise Application Characteristics to Optimize Incremental Aggregate Maintenance in a Columnar In-Memory Database,2014,20,0,2,0.0,1927942822,Paul MÃ¶ller,0,0.8343296084219147,-0.10216996485800334
+946964465,An Approach for Dynamic Materialization of Aggregates in Mixed Application Workloads,2013,18,0,1,1.0,2017491355,Hasso Plattner,0,0.221423897897152,-0.21080654779612165
+1568887644,Filter Method for a Containment-Aware Discovery Service,2011,15,3,1,1.0,2017491355,Hasso Plattner,0,-0.0041099411153885,0.0447066884760059
+1019310909,Concurrent Execution of Mixed Enterprise Workloads on In-Memory Databases,2014,36,7,3,0.0,976694929,Kai Hoewelmeyer,0,0.18601297105691045,-0.0008472885667257998
+1491373076,Handling Business Objects,2013,3,0,1,1.0,2017491355,Hasso Plattner,0,1.156256010792543,0.27153135884934354
+1039576389,ETL-Less Zero-Redundancy System and Method for Reporting OLTP Data,2008,42,125,1,1.0,2017491355,Hasso Plattner,0,2.2163104726966782,0.43429857008121914
+1555950237,Normalization in a mixed OLTP and OLAP workload scenario,2011,33,2,2,0.419921,1991829994,Alexander Zeier,0,0.8506500187929523,1.2754952141882487
+1419575566,A Cost-Aware Strategy for Merging Differential Stores in Column-Oriented In-Memory DBMS,2011,5,6,2,0.419921,1991829994,Alexander Zeier,0,0.24722039848489363,0.24406485016140309
+1538469196,Organizing and Accessing Data in SanssouciDB,2012,0,1,1,1.0,2017491355,Hasso Plattner,0,-0.09704933498526315,-0.37303494987465385
+1486174107,Computer-Implemented Method for Operating a Database and Corresponding Computer-System,2010,16,11,1,1.0,2017491355,Hasso Plattner,0,0.43739842239757626,0.009947045888208002
+1447051198,Hauptspeicherdatenbanken fÃ¼r Unternehmensanwendungen,2010,35,5,3,1.0,132825872,Christian Tinnefeld,0,-0.0041099411153885,0.0447066884760059
+1873909800,Optimizing write performance for read optimized databases,2010,23,41,3,1.0,132825872,Christian Tinnefeld,0,-0.01965372328504981,0.0432553969855026
+1765577085,SanssouciDB Blueprint for an In-Memory Enterprise Database System,2012,0,0,1,1.0,2017491355,Hasso Plattner,0,-0.0041099411153885,0.0447066884760059
+1917240658,Dynamic task prioritization for in-memory databases,2014,42,13,1,1.0,2017491355,Hasso Plattner,0,-0.0041099411153885,0.0447066884760059
+1707587065,Application-aware aggregations in a columnar in-memory database,2011,30,3,2,0.419921,1991829994,Alexander Zeier,0,0.19182119844436735,0.6956228345157164
+1584541988,Data Layout in Main Memory,2013,7,1,1,1.0,2017491355,Hasso Plattner,0,0.6062042505249731,-0.013536128499225966
+1584923406,On-the-Fly Database Reorganization,2013,5,0,1,1.0,2017491355,Hasso Plattner,0,-0.09704933498526315,-0.37303494987465385
+1971568552,How to juggle columns an entropy-based approach for table compression,2010,16,18,2,0.694444,1991829994,Alexander Zeier,0,1.3612264512684125,1.0327293533878563
+1975033742,Assessment of communication protocols in the EPC Network - replacing textual SOAP and XML with binary google protocol buffers encoding,2010,3,10,2,0.694444,1991829994,Alexander Zeier,0,0.5586742082380666,-0.1984847101299193
+1977330283,A common database approach for OLTP and OLAP using an in-memory column database,2009,23,305,1,1.0,2017491355,Hasso Plattner,0,0.7721308498568376,1.6215012352306841
+1984367866,Hyrise-R Scale-out and Hot-Standby through Lazy Master Replication for Enterprise Applications,2015,27,4,3,1.0,1563175031,David Schwalb,0,-0.26111576430640643,-0.19302535071852145
+1975862330,Efficient logging for enterprise workloads on column-oriented in-memory databases,2012,14,8,1,1.0,2017491355,Hasso Plattner,0,0.30651240186010204,0.15354535895293
+2008480196,Workload-aware aggregate maintenance in columnar in-memory databases,2013,22,5,2,1.0,306967903,Lars Butzmann,0,2.652736248446814,1.0134424680945882
+1993165209,Cache-conscious data placement in an in-memory key-value store,2011,11,4,2,1.0,132825872,Christian Tinnefeld,0,-0.0041099411153885,0.0447066884760059
+1992004982,Enterprise Application-Specific Data Management,2010,30,17,2,0.694444,1991829994,Alexander Zeier,0,0.11627582886789564,0.3621724021946999
+1988946570,Partitioned Bit-Packed Vectors for In-Memory-Column-Stores,2015,16,0,2,1.0,1563175031,David Schwalb,0,-0.46893397788284524,0.07728939382804885
+2022421301,Dynamic partitioning for enterprise applications,2011,10,3,2,0.419921,1991829994,Alexander Zeier,0,1.0544327070267605,1.1510847970060987
+2016158148,Leveraging in-memory technology for interactive analyses of point-of-sales data,2014,8,5,2,1.0,1563175031,David Schwalb,0,0.7818337058403051,0.5445022732269021
+2028471152,Aggregation strategies for columnar in-memory databases in a mixed workload,2011,32,3,1,1.0,2017491355,Hasso Plattner,0,1.2889363347676375,1.163851040943725
+2039154437,Data structures for mixed workloads in in-memory databases,2010,19,10,2,0.694444,1991829994,Alexander Zeier,0,0.5908752018615394,1.3785162692557826
+2039910065,HYRISE a main memory hybrid storage engine,2010,27,202,2,0.694444,1991829994,Alexander Zeier,0,-0.3584145241730215,-0.07336224267815496
+2057476334,A mixed transaction processing and operational reporting benchmark,2011,22,14,2,0.419921,1991829994,Alexander Zeier,0,0.8537971441478089,1.5306258521140663
+2076799885,A case for online mixed workload processing,2010,16,20,2,1.0,132825872,Christian Tinnefeld,0,0.6955040069074063,1.063065649150933
+2064945156,Main memory databases for enterprise applications,2011,32,15,2,0.419921,1991829994,Alexander Zeier,0,1.3141230937122084,0.583559548900744
+2077248291,Parallel join executions in RAMCloud,2014,12,8,3,1.0,132825872,Christian Tinnefeld,0,1.0387253182196328,0.01185603500692256
+2056847502,An in-depth analysis of data aggregation cost factors in a columnar in-memory database,2012,13,10,1,1.0,2017491355,Hasso Plattner,0,0.008644526307120814,-0.4793865677220415
+2069228676,NVC-Hashmap A Persistent and Concurrent Hashmap For Non-Volatile Memories,2015,19,22,4,1.0,96541041,Markus Dreseler,0,-0.3616268458578795,0.2032442672305026
+2096496252,SIMD-scan ultra fast in-memory table scan using on-chip vector processing units,2009,16,151,2,0.0,317341146,Yazan Boshmaf,0,-0.3566774120077467,0.2857603132795372
+2097336856,Precise and Scalable Querying of Syntactical Source Code Patterns Using Sample Code Snippets and a Database,2011,24,9,2,0.419921,1991829994,Alexander Zeier,0,0.0908845357243609,0.31128747720343375
+2084383859,Interactive performance monitoring of a composite OLTP and OLAP workload,2012,10,7,1,1.0,2017491355,Hasso Plattner,0,0.7758899736912852,1.2209936659855112
+2091459966,Fast updates on read-optimized databases using multi-core CPUs,2011,27,104,4,0.0,73121025,Jatin Chhugani,0,-0.27186135287961044,0.3765147429292903
+2079249644,Efficient View Maintenance for Enterprise Applications in Columnar In-Memory Databases,2013,27,8,2,1.0,306967903,Lars Butzmann,0,2.921378699128434,0.9996317402954386
+2088367430,What do developers search for in source code and why,2011,5,4,2,0.419921,1991829994,Alexander Zeier,0,-0.0041099411153885,0.0447066884760059
+2085545327,Elastic online analytical processing on RAMCloud,2013,23,13,3,1.0,132825872,Christian Tinnefeld,0,-0.09318140106043199,0.6070387661160133
+2083777501,Efficient storage and fast querying of source code,2011,21,6,2,0.419921,1991829994,Alexander Zeier,0,-0.2270648441218419,0.03922463773061847
+2125362339,Enabling real-time charging for smart grid infrastructures using in-memory databases,2010,10,6,3,0.694444,1991829994,Alexander Zeier,0,-0.09704933498526315,-0.37303494987465385
+2125500859,Exploiting memory locality in distributed key-value stores,2011,10,0,2,1.0,132825872,Christian Tinnefeld,0,0.07557827444906529,0.2048733079100459
+2140816534,RTP robust tenant placement for elastic in-memory database clusters,2013,26,29,1,1.0,2017491355,Hasso Plattner,0,-0.13986826231036678,-0.3488155859930167
+2153626769,Predicting in-memory database performance for automating cluster management tasks,2011,30,37,2,0.419921,1991829994,Alexander Zeier,0,-0.13986826231036678,-0.3488155859930167
+2172680751,A Blueprint of SanssouciDB,2013,3,0,1,1.0,2017491355,Hasso Plattner,0,0.6158435255554312,1.211466191209291
+2181783724,An adaptive aggregate maintenance approach for mixed workloads in columnar in-memory databases,2014,26,0,2,1.0,306967903,Lars Butzmann,0,1.901466873024071,0.5622172946276698
+2187242049,DAC database application context analysis applied to enterprise applications,2014,19,1,1,1.0,2017491355,Hasso Plattner,0,0.541048792242954,0.14109191976847427
+2149591580,Hybrid graph and relational query processing in main memory,2013,10,3,1,1.0,2017491355,Hasso Plattner,0,1.6291862502418535,0.21548494936623053
+2189182482,Aggregates Caching in Columnar In-Memory Databases,2013,27,10,1,1.0,2017491355,Hasso Plattner,0,-0.0041099411153885,0.0447066884760059
+2213674049,A Software as a Service RFID Middleware for Small and Medium-sized Enterprises,2009,8,4,3,1.0,1563175031,David Schwalb,0,-0.19196147509311953,0.14487620954580122
+2214686917,The impact of columnar in-memory databases on enterprise systems implications of eliminating transaction-maintained aggregates,2014,25,24,1,1.0,2017491355,Hasso Plattner,0,1.4659842351322645,1.3382097190219417
+2318741939,Source Code Analytics,2011,0,2,2,0.419921,1991829994,Alexander Zeier,0,-0.0041099411153885,0.0447066884760059
+2283570235,BUSINESS OBJECT BASED NAVIGATION,2010,8,6,2,1.0,2008573489,Matthias Uflacker,0,-0.0041099411153885,0.0447066884760059
+2280677980,Online Reorganization of Hybrid In-Memory Databases,2013,82,17,1,1.0,2017491355,Hasso Plattner,0,-0.0041099411153885,0.0447066884760059
+2295218607,Using Object-Awareness to Optimize Join Processing in the SAP HANA Aggregate Cache,2015,31,1,3,1.0,306967903,Lars Butzmann,0,1.695142806896465,0.7444779292761583
+2295882491,Interactive Flexible and Generic What-If Analyses Using In-Memory Column Stores,2015,16,3,4,1.0,306967903,Lars Butzmann,0,-0.0041099411153885,0.0447066884760059
+2301903669,AGGREGATE QUERY-CACHING IN DATABASES ARCHITECTURES WITH A DIFFERENTIAL BUFFER AND A MAIN STORE,2014,9,34,1,1.0,2017491355,Hasso Plattner,0,0.7721308498568376,1.6215012352306841
+2396406070,nvm malloc Memory Allocation for NVRAM,2015,18,30,3,1.0,96541041,Markus Dreseler,0,-0.46893397788284524,0.07728939382804885
+2407641568,Applicability of GPU Computing for Efficient Merge in In-Memory Databases,2011,27,9,2,0.419921,1991829994,Alexander Zeier,0,-0.0041099411153885,0.0447066884760059
+2408421369,Providing High-Availability and Elasticity for an In-Memory Database System with RAMCloud,2013,15,1,2,1.0,132825872,Christian Tinnefeld,0,-0.13986826231036678,-0.3488155859930167
+2408477659,TAMEX a Task-Based Query Execution Framework for Mixed Enterprise Workloads on In-Memory Databases,2013,25,5,1,1.0,2017491355,Hasso Plattner,0,-0.0041099411153885,0.0447066884760059
+2406267662,An overview of HYRISE - a Main Memory Hybrid Storage Engine,2012,12,19,1,1.0,2017491355,Hasso Plattner,0,-0.09704933498526315,-0.37303494987465385
+2398195189,Fast Lookups for In-Memory Column Stores Group-Key Indices Lookup and Maintenance,2012,12,13,2,1.0,1563175031,David Schwalb,0,0.4107800349590716,0.0312575477946305
+2483220664,Reduction of Complexity,2015,0,0,1,1.0,2017491355,Hasso Plattner,0,0.9720335059894998,1.6956773117747055
+2476218384,Footprint Reduction and Uniqueness Enforcement with Hash Indices in SAP HANA,2016,18,2,2,1.0,1563175031,David Schwalb,0,0.2336457043044019,0.24256138413528106
+2477754748,The Design Principles of an In-Memory Columnar Storage Database,2015,0,0,1,1.0,2017491355,Hasso Plattner,0,0.5333345390713363,0.5871664434438574
+2493495173,Highest Flexibility by Finest Granularity,2015,0,0,1,1.0,2017491355,Hasso Plattner,0,-0.28257141320230916,0.2931816800375992
+2474198907,Hyrise-NV Instant Recovery for In-Memory Databases Using Non-Volatile Memory,2016,37,5,3,1.0,96541041,Markus Dreseler,0,0.23461837607856623,0.7829884791915682
+2422279020,Leveraging non-volatile memory for instant restarts of in-memory database systems,2016,21,3,3,1.0,96541041,Markus Dreseler,0,0.15791407743068878,-0.3108080362842944
+2575669453,IMDBfs Bridging the gap between in-memory database technology and file-based tools for life sciences,2016,13,0,2,1.0,2008684767,Matthieu P. Schapranow,0,0.09119843036609956,0.09498889414352772
+2526621825,Available-to-promise on an in-memory column store database,2011,10,1,2,1.0,132825872,Christian Tinnefeld,0,0.7215729077993904,-1.2077077026478056
+2508426192,Lightweight collection and storage of software repository data with DataRover,2016,6,0,2,1.0,2008573489,Matthias Uflacker,0,-0.0041099411153885,0.0447066884760059
+2633919383,Quantifying the Elasticity of a Database Management System,2014,0,6,2,1.0,132825872,Christian Tinnefeld,0,-0.0041099411153885,0.0447066884760059
+2602717658,The Multi-Tenant Data Placement Problem,2012,0,6,1,1.0,2017491355,Hasso Plattner,0,-0.0041099411153885,0.0447066884760059
+2587661812,Object-Relational Mapping Revisited - A Quantitative Study on the Impact of Database Technology on O/R Mapping Strategies,2017,0,2,2,0.978261,2008573489,Matthias Uflacker,0,1.2588539033581103,0.1896349240952868
+2674993716,Merging Differential Updates in In-Memory Column Store,2011,14,7,2,0.419921,1991829994,Alexander Zeier,0,-0.0041099411153885,0.0447066884760059
+2748670272,Leveraging Compression in In-Memory Databases,2012,18,2,1,1.0,2017491355,Hasso Plattner,0,-0.0041099411153885,0.0447066884760059
+2742537685,Sparse Dictionaries for In-Memory Column Stores,2012,7,1,1,1.0,2017491355,Hasso Plattner,0,-0.0041099411153885,0.0447066884760059
+2764491622,The Impact of Columnar In-Memory Databases on Enterprise Systems,2014,0,27,1,1.0,2017491355,Hasso Plattner,0,-0.0041099411153885,0.0447066884760059
+2810674376,Hardware-Accelerated Memory Operations on Large-Scale NUMA Systems,2017,4,2,4,1.0,96541041,Markus Dreseler,0,-0.0041099411153885,0.0447066884760059
+2804718798,Visual Evaluation of SQL Plan Cache Algorithms,2018,2,0,3,1.0,96541041,Markus Dreseler,0,0.044859856903840555,0.012551371775477651
+2927747968,Hyrise Re-engineered An Extensible Database System for Research in Relational In-Memory Data Management,2019,0,5,3,1.0,96541041,Markus Dreseler,0,0.18601297105691045,-0.0008472885667257998
+2952209987,Fast Updates on Read-Optimized Databases Using Multi-Core CPUs,2011,21,0,4,0.0,73121025,Jatin Chhugani,0,-0.27186135287961044,0.3765147429292903
+2979987406,A Federated In-memory Database System for Life Sciences,2015,21,3,2,1.0,2008684767,Matthieu P. Schapranow,0,-0.13986826231036678,-0.3488155859930167

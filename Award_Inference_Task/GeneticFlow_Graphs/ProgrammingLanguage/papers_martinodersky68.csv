@@ -1,0 +1,114 @@
+205696660,Programming in Scala A Comprehensive Step-by-Step Guide,2010,0,188,1,1.0,248131350,Martin Odersky,0,-1.07989291403298,0.0074893311495640505
+171936820,Implementing a Type Debugger for Scala,2012,23,2,1,1.0,248131350,Martin Odersky,0,-1.3133691932121911,0.0626980458473714
+156128227,Quasiquotes for Scala,2013,0,16,2,1.0,195353560,Eugene Burmako,0,-0.6480514430328709,0.09329129313404107
+72484077,JavaScript as an embedded DSL,2012,36,21,2,1.0,183407993,Tiark Rompf,0,-1.3857314638779803,-0.8324321565478562
+112436903,When compilers are mirrors,2012,0,0,1,1.0,248131350,Martin Odersky,0,-0.30360026391299616,0.24316280810895313
+131463356,Higher-Order reactive programming with incremental lists,2013,33,29,1,1.0,248131350,Martin Odersky,0,2.0870072646203393,0.6043131945089458
+100198340,An Extension of ML with First-Class Abstract Types,2009,21,5,1,1.0,248131350,Martin Odersky,0,-0.09032570149571914,0.35851360402480403
+639187897,Relative Effect Declarations for Lightweight Effect-Polymorphism,2012,1,1,1,1.0,248131350,Martin Odersky,0,-0.17405173619101758,-0.30861125721887134
+294835284,Jet An Embedded DSL for High Performance Big Data Processing,2012,18,20,2,1.0,183407993,Tiark Rompf,0,-1.1109804324990264,-0.011433341268091165
+1550188711,Concurrent Programming Paradigms A Comparison in Scala,2009,6,1,2,0.0,115057321,Rachid Guerraoui,0,0.6010514718761897,0.13609027082521696
+1550215169,An Introduction to Functional Nets,2000,55,70,1,1.0,248131350,Martin Odersky,0,2.3922401277401137,-0.6244425734722111
+1542597674,Scala Roles Reusable Object Collaborations in a Library,2008,22,4,1,1.0,248131350,Martin Odersky,0,0.02829444652536971,-0.19114051428168014
+1516199593,Compiler Construction 16th International Conference CC 2007 held as part of the Joint European Conferences on Theory and Practice of Software ETAPS 2007 Braga Portugal March 26-30 2007 proceedings,2007,0,0,1,1.0,248131350,Martin Odersky,0,-0.1485915051577897,0.1485840843811756
+1525527210,Contracts for Scala,2010,10,26,1,1.0,248131350,Martin Odersky,0,-0.8171237573200093,0.07090339541170779
+1535609158,Improving the Performance of Scala Collections with Miniboxing,2014,4,6,1,1.0,248131350,Martin Odersky,0,-0.6405819666212487,0.14260899967472693
+1500159032,Objects + Views = Components ,2000,31,8,1,1.0,248131350,Martin Odersky,0,0.5081952444991984,-0.3869110741483015
+1537435504,An Overview of Functional Nets,2000,34,8,1,1.0,248131350,Martin Odersky,0,-0.1164726804531344,0.019252515865476
+1519827472,A Confluent Calculus for Concurrent Constraint Programming with Guarded Choice,1995,19,5,1,1.0,248131350,Martin Odersky,0,1.3094301038690175,-0.1269947755763901
+1511443568,The Scala Experiment â€“ Can We Provide Better Language Support for Component Systems ,2004,1,1,1,1.0,248131350,Martin Odersky,0,0.524712313993249,-0.3449050079507119
+1547808507,Future-proofing collections from mutable to persistent to parallel,2011,0,5,1,1.0,248131350,Martin Odersky,0,-0.3354761150172993,-0.08422687452580756
+1495226832,An Overview of the Scala Programming Language,2004,47,430,4,0.0,25289315,Nikolay Mihaylov,0,2.6163664798750497,0.05973288184309787
+1503902957,Scala Macros a Technical Report,2012,23,13,2,1.0,195353560,Eugene Burmako,0,-0.48135550395751037,0.10410380272552522
+1557485712,PiLib A Hosted Language for Pi-Calculus Style Concurrency,2003,32,6,2,1.0,205242568,Vincent Cremet,0,-0.6036101241593171,0.0022268822894698226
+1871201330,Capabilities for uniqueness and borrowing,2010,66,74,1,1.0,248131350,Martin Odersky,0,-0.7482875171974162,0.0519205835540212
+1626027953,Applying pi towards a basis for concurrent imperative programming,1996,0,0,1,1.0,248131350,Martin Odersky,0,2.2861679882017483,-0.2803150931585586
+1795023635,Spores A Type-Based Foundation for Closures in the Age of Concurrency and Distribution,2014,29,24,1,1.0,248131350,Martin Odersky,0,0.06903846681406543,0.06024765254900347
+1628092780,Actors that unify threads and events,2007,42,81,1,1.0,248131350,Martin Odersky,0,-0.013315850669478824,-0.013708619512187666
+1577182889,A Nominal Theory of Objects with Dependent Types,2003,42,155,2,1.0,205242568,Vincent Cremet,0,-0.9505012135765442,-0.3887623098984831
+1749979338,Composition and reuse with compiled domain-specific languages,2013,37,40,3,1.0,183407993,Tiark Rompf,0,-0.24265760963104183,0.3503353595986248
+1606121052,Matching objects with patterns,2007,33,75,1,1.0,248131350,Martin Odersky,0,0.6999995236275836,0.3016663781133548
+1913417724,Leftover curry and reheated Pizza how functional programming nourishes software reuse,1998,9,12,1,1.0,248131350,Martin Odersky,0,-2.5009209421689302,0.39812001209065767
+1589861019,Translation correctness for first-order object-oriented pattern matching,2007,18,4,1,1.0,248131350,Martin Odersky,0,-0.20872484988706258,-0.18071275843397422
+1941520090,Lightweight polymorphic effects,2012,22,31,1,1.0,248131350,Martin Odersky,0,-0.7972847737010464,-0.1448973393265848
+1918550727,Improving Human-Compiler Interaction Through Customizable Type Feedback,2014,32,7,1,1.0,248131350,Martin Odersky,0,-1.1358827213267026,0.035276865011592
+1919109517,Deprecating the Observer Pattern,2010,44,30,2,1.0,183407993,Tiark Rompf,0,2.675215423380992,-0.24840458429953938
+1948370231,An Overview of the Scala Programming Language (2 Edition),2006,0,30,4,0.0,25289315,Nikolay Mihaylov,0,2.6163664798750497,0.05973288184309787
+1830949212,FlowPools A Lock-Free Deterministic Concurrent Dataflow Abstraction,2012,20,27,1,1.0,248131350,Martin Odersky,0,0.8084555137387339,0.24654920215090304
+1970530541,A confluent calculus for concurrent constraint programming,1997,20,2,1,1.0,248131350,Martin Odersky,0,0.6641080400153819,-0.24909455104657585
+1967470145,Compiling structural types on the JVM a comparison of reflective and generative techniques from Scalas perspective,2009,5,10,2,0.666667,242292228,Gilles Dubochet,0,-1.3722140637007496,-0.5925665163622993
+1985088747,Putting type annotations to work,1996,26,118,1,1.0,248131350,Martin Odersky,0,-0.8114819567248602,-0.6064549795417656
+1967751668,How to make destructive updates less destructive,1991,14,28,1,1.0,248131350,Martin Odersky,0,-0.1164726804531344,0.019252515865476
+1999489309,Unifying functional and object-oriented programming with Scala,2014,21,32,2,0.800296,183407993,Tiark Rompf,0,-0.833501517616928,-0.10083606465948776
+2009396172,Programming with variable functions,1998,46,14,1,1.0,248131350,Martin Odersky,0,1.1088360171962084,-0.05044803380364771
+1997276266,ScalaDyno making name resolution and type checking fault-tolerant,2014,9,1,1,1.0,248131350,Martin Odersky,0,-0.3826193304794845,-0.2178719316692605
+1997429190,Tail Call Elimination on the Java Virtual Machine,2001,10,26,1,1.0,248131350,Martin Odersky,0,-2.440126381399845,0.06771420036623116
+2008070495,Optimizing data structures in high-level programs new directions for extensible compilers based on staging,2013,50,71,4,1.0,183407993,Tiark Rompf,0,-0.5088322633899524,0.3053426834504186
+1992514885,Extending Modula-2 for object-oriented programming,1990,5,1,1,1.0,248131350,Martin Odersky,0,2.408810663317889,0.11971684776095604
+2026323010,Type classes as objects and implicits,2010,50,92,1,1.0,248131350,Martin Odersky,0,-0.15211216101722683,-0.36448961262799884
+2032249605,A second look at overloading,1995,33,39,1,1.0,248131350,Martin Odersky,0,-0.34351087839703426,-0.06977008854913816
+2030663607,A call-by-need lambda calculus,1995,43,202,2,0.0,113813022,Matthias Felleisen,0,-0.3140295660529483,-1.911046840560901
+2021978684,Scala Actors Unifying thread-based and event-based programming,2009,47,286,1,1.0,248131350,Martin Odersky,0,0.917397298632294,-0.25307740363278325
+2016865764,Defining context-dependent syntax without using contexts,1993,34,5,1,1.0,248131350,Martin Odersky,0,-0.5597614643329488,-0.9548464949114392
+2034682896,The Scala experiment can we provide better language support for component systems ,2006,5,25,1,1.0,248131350,Martin Odersky,0,0.1907033778602797,-0.3197989892879275
+2032988652,Automating ad hoc data representation transformations,2015,35,9,3,0.307362,148013605,Aggelos Biboudis,0,-0.7838028842501299,0.005393787124972159
+2054262860,The evolution of Scala PLE14 keynote,2014,0,1,1,1.0,248131350,Martin Odersky,0,-1.3133691932121911,0.0626980458473714
+2041364386,Miniboxing improving the speed to code size tradeoff in parametric polymorphism translations,2013,35,18,1,1.0,248131350,Martin Odersky,0,-0.86746430085058,-0.023115079065970767
+2062838731,The call-by-need lambda calculus,1998,39,108,1,1.0,248131350,Martin Odersky,0,-0.7628236878227967,-0.6392626735260633
+2059720667,Scala-Virtualized linguistic reuse for deep embeddings,2012,63,32,2,1.0,183407993,Tiark Rompf,0,-0.9428869477694217,0.24314339342352906
+2068530643,A flow-insensitive modular effect system for purity,2013,15,7,1,1.0,248131350,Martin Odersky,0,-0.5638570376224464,-0.34994606730496247
+2062100194,Named and default arguments for polymorphic object-oriented languages a discussion on the design implemented in the Scala language,2010,7,6,1,1.0,248131350,Martin Odersky,0,-0.7250035249413651,-0.11034067523759919
+2103094658,Foundations of path-dependent types,2014,28,30,2,0.800296,183407993,Tiark Rompf,0,-0.780399282565145,-0.1086121601285505
+2089579946,A functional theory of local names,1994,22,44,1,1.0,248131350,Martin Odersky,0,-0.1164726804531344,0.019252515865476
+2091347613,Late data layout unifying data representation transformations,2014,66,9,2,1.0,195353560,Eugene Burmako,0,-0.7361847754642372,-0.09218563952207273
+2084623055,Challenges in type systems research,1997,3,0,1,1.0,248131350,Martin Odersky,0,0.09465138411255228,-0.10718629881333647
+2097785504,Deprecating the Observer Pattern with ScalaReact,2012,39,32,1,1.0,248131350,Martin Odersky,0,1.2152637228524057,0.34736309885975325
+2092086844,StagedSAC a case study in performance-oriented DSL development,2012,20,7,3,1.0,183407993,Tiark Rompf,0,-1.7848490670556016,-0.2555774620986877
+2085123413,Language virtualization for heterogeneous parallel computing,2010,50,83,3,1.0,183407993,Tiark Rompf,0,1.8659832896167243,-0.7420546339262807
+2104959526,A generic parallel collection framework,2011,24,71,2,1.0,183407993,Tiark Rompf,0,-1.0028662100227925,0.1503627866414599
+2135641942,Staged parser combinators for efficient data processing,2014,39,17,3,0.800296,183407993,Tiark Rompf,0,-1.6393338357034193,-1.805502867851504
+2112150205,Polymorphic type inference and abstract data types,1994,41,81,1,1.0,248131350,Martin Odersky,0,-0.2968704548801904,-0.15028584361792263
+2138964563,Extensible algebraic datatypes with defaults,2001,22,68,1,1.0,248131350,Martin Odersky,0,-0.34211786682347733,0.11540208503758845
+2133051483,Implementing first-class polymorphic delimited continuations by a type-directed selective CPS-transform,2009,42,68,2,1.0,183407993,Tiark Rompf,0,-0.6892187966559442,0.16079320608677297
+2127581079,Independently Extensible Solutions to the Expression Problem,2004,29,113,1,1.0,248131350,Martin Odersky,0,0.7922771900281218,-0.08432690639037964
+2133546079,Pizza into Java translating theory into practice,1997,24,369,1,1.0,248131350,Martin Odersky,0,-2.8309195801409794,0.36533611737635646
+2118927907,Building-Blocks for Performance Oriented DSLs,2011,47,53,3,1.0,183407993,Tiark Rompf,0,0.251010812155622,-0.27251160443844585
+2137252778,A Statically Safe Alternative to Virtual Types,1998,17,120,1,1.0,248131350,Martin Odersky,0,-0.31341708089797066,-0.11531142944089345
+2137417304,Making the future safe for the past adding genericity to the Java programming language,1998,19,460,2,0.0,2201416,Gilad Bracha,0,-2.7264920108471733,0.35307876697654117
+2143609451,Delite A Compiler Architecture for Performance-Oriented Embedded Domain-Specific Languages,2014,38,97,3,0.800296,183407993,Tiark Rompf,0,-0.5524901225863433,0.23729050695057297
+2119871735,Yin-yang concealing the deep embedding of DSLs,2015,27,24,1,1.0,248131350,Martin Odersky,0,-0.70939599859551,-0.6969297368469437
+2119976524,Compiling generics through user-directed type specialization,2009,7,41,1,1.0,248131350,Martin Odersky,0,-0.4971048919910343,0.8356627045180696
+2143932292,Forge generating a high performance DSL implementation from a declarative specification,2014,33,12,3,0.800296,183407993,Tiark Rompf,0,-0.3824258881457046,-0.04915926846027816
+2137869319,Fighting Bit Rot with Types (Experience Report Scala Collections),2009,18,41,1,1.0,248131350,Martin Odersky,0,0.7574302535311072,-0.9733088172095307
+2156426055,Generics of a higher kind,2008,57,55,2,0.0,233250515,Frank Piessens,0,-1.3871620715963624,-0.5958987243084478
+2147578933,Lightweight modular staging a pragmatic approach to runtime code generation and compiled DSLs,2012,25,89,2,1.0,183407993,Tiark Rompf,0,-0.4768349706018208,-0.08065161076086445
+2160183719,Spiral in scala towards the systematic construction of generators for performance libraries,2014,41,33,3,0.0,47192044,Georg Ofenbeck,0,-0.8876782618104562,-0.015314509849949299
+2154509156,Improving the Interoperation between Generics Translations,2015,23,3,1,1.0,248131350,Martin Odersky,0,-1.9286824633600037,0.030193578552127686
+2154697693,Lightweight modular staging a pragmatic approach to runtime code generation and compiled DSLs,2010,90,173,2,1.0,183407993,Tiark Rompf,0,-0.5256821265841355,0.06157166665675674
+2185004923,Tool Demo Scala-Virtualized,2011,12,2,2,1.0,183407993,Tiark Rompf,0,-1.1358827213267026,0.035276865011592
+2183165321,Dependent Object Types Towards a foundation for Scalas type system,2012,15,1,1,1.0,248131350,Martin Odersky,0,-0.804396596365651,-0.03232918448313143
+2150101804,Scalable component abstractions,2005,52,212,1,1.0,248131350,Martin Odersky,0,-0.13077587945225952,-0.05085010935816777
+2240938131,OptiML An Implicitly Parallel Domain-Specific Language for Machine Learning,2011,13,122,3,1.0,183407993,Tiark Rompf,0,0.4896308132892164,-0.1340300604735376
+2207669518,Region-based off-heap memory for Scala,2015,0,3,1,1.0,248131350,Martin Odersky,0,-1.238959924351828,-0.29984050665215206
+2246431855,Implementing Extensible Compilers,2001,21,30,1,1.0,248131350,Martin Odersky,0,-0.044727684741277765,-0.023131565200030568
+2293062955,Call graphs for languages with parametric polymorphism,2016,16,4,2,1.0,226996086,Dmitry Petrashko,0,-1.5958426038326625,-0.05706007501005036
+2294771215,Scala-virtualized,2012,15,38,2,1.0,183407993,Tiark Rompf,0,-0.8837159385952407,0.1424335161928927
+2296753935,Language Virtualization for Heterogeneous Parallel Computing,2010,0,0,3,1.0,183407993,Tiark Rompf,0,2.4447706864860126,-0.6358457903907112
+2406219537,Scalable programming abstractions for XML services,2006,20,23,2,0.862467,69805596,Sebastian Maneth,0,-0.7542115814757274,0.07350560530041966
+2500112877,Programming in Scala A Comprehensive Step-by-Step Guide 2nd Edition,2011,0,73,1,1.0,248131350,Martin Odersky,0,1.8112302428672495,-0.24208282006208923
+2567996527,Two ways to bake your pizza Translating parameterised types into Java,2000,0,9,1,1.0,248131350,Martin Odersky,0,-1.5845370624137265,1.003051702245248
+2533281993,Implementing higher-kinded types in Dotty,2016,7,2,2,1.0,226996086,Dmitry Petrashko,0,-0.764414028955409,-0.09959722073690609
+2518769480,Safe type-level abstraction in Scala,2008,30,15,2,0.0,233250515,Frank Piessens,0,-0.7806443208991056,-0.016892897302294332
+2586130458,Call-graph-based Optimizations in Scala,2017,0,0,1,1.0,248131350,Martin Odersky,0,-1.3133691932121911,0.0626980458473714
+2523702803,Parser combinators in Scala,2008,12,38,2,0.0,233250515,Frank Piessens,0,-1.017327489862588,-0.20164849104017324
+2626955897,Foundations of Implicit Function Types,2017,0,0,2,0.307362,148013605,Aggelos Biboudis,0,-0.9505803596062865,-0.06353354064024933
+2594056515,A TASTY Alternative,2016,0,2,2,1.0,195353560,Eugene Burmako,0,-1.1358827213267026,0.035276865011592
+2594662937,TASTY Reference Manual,2016,0,0,2,1.0,195353560,Eugene Burmako,0,-1.3133691932121911,0.0626980458473714
+2619614312,Miniphases compilation using modular and efficient tree transformations,2017,20,5,2,1.0,226996086,Dmitry Petrashko,0,-1.6162834776728414,-0.2305498844370721
+2772486871,Simplicitly foundations and applications of implicit function types,2017,25,15,1,1.0,248131350,Martin Odersky,0,-0.7988386155275098,0.07472707498525931
+2751789463,Programming in Scala Updated for Scala 212,2016,0,4,1,1.0,248131350,Martin Odersky,0,-0.5436408597130693,0.44319083818610405
+2783482882,A statically safe alternative to virtual types,1998,0,112,1,1.0,248131350,Martin Odersky,0,-0.31341708089797066,-0.11531142944089345
+2913428638,Proceedings of the 16th international conference on Compiler construction,2007,0,0,1,1.0,248131350,Martin Odersky,0,-0.23680382996095975,0.883709167173769
+2913927567,Functional Nets,2000,32,48,1,1.0,248131350,Martin Odersky,0,-0.5525438260794727,-0.6248207699822277
+2913945384,Proceedings of the fifth ACM SIGPLAN international conference on Functional programming,2000,0,0,1,1.0,248131350,Martin Odersky,0,-0.4092206616038536,-0.0401083610130616
+2963514484,Building-Blocks for Performance Oriented DSLs,2011,47,0,3,1.0,183407993,Tiark Rompf,0,0.160424158347721,-0.09720246583558782

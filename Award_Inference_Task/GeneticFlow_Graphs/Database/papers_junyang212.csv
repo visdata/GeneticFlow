@@ -1,0 +1,70 @@
+173539262,Temporal data warehousing,2001,0,24,2,0.0,671527850,Jennifer Widom,0,-0.17399737560627987,-0.15862359758391184
+37744308,Implementing Parameterized Range Types in an Extensible DBMS,2000,5,0,3,0.0,671527850,Jennifer Widom,0,-0.40293074647252497,0.07787337674947199
+651477617,Toward computational fact-checking,2014,28,60,4,1.0,2128565744,Pankaj K. Agarwal,0,0.12628174114238816,0.0039009070058818006
+1523736481,Temporal View Self-Maintenance,2000,14,41,2,0.0,671527850,Jennifer Widom,0,0.9266205132337947,0.17248182585127164
+1552413113,An Optimizer for Heterogeneous Systems with NonStandard Data and Search Capabilities,1996,0,16,4,0.0,2035704235,Edward L. Wimmers,0,0.13625550279376022,-0.2074794081307861
+1564086613,Distributed network querying with bounded approximate caching,2006,32,5,3,0.0,295064773,Amin Vahdat,0,0.0835119396817451,0.051530138659233005
+1503388209,Proceedings of the 5th workshop on Data management for sensor networks,2008,0,0,4,0.0,2159644763,Christian S. Jensen,0,0.31255201073465105,-0.0652648968870233
+1578269782,Expiring Data in a Warehouse,1998,18,76,3,0.39518,194256851,Wilburt Labio,0,1.2296255327024657,0.44481502711728593
+1648759563,Performance Issues in Incremental Warehouse Maintenance,2000,16,80,5,0.39518,194256851,Wilburt Labio,0,0.8987199556932128,0.47431795152868017
+1771934333,Computational Journalism A Call to Arms to Database Researchers,2011,5,58,3,0.0,2145831560,Chengkai Li,0,-0.0041099411153885,0.0447066884760059
+1860268383,Maintaining Temporal Views over Non-Temporal Information Sources for Data Warehousing,1998,21,65,2,0.0,671527850,Jennifer Widom,0,-0.21330659714789202,0.024369054841997858
+1982687328,ProSem scalable wide-area publish/subscribe,2008,7,13,5,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+1965685479,Efficient Information Extraction over Evolving Text Data,2008,23,40,3,0.0,2164040783,Raghu Ramakrishnan,0,-0.4525173065705639,-0.4275175826458679
+1981585544,BLINKS ranked keyword searches on graphs,2007,26,480,3,0.0,2125104194,Philip S. Yu,0,-0.331157261929354,-0.16512333473426355
+1987584353,End-to-end support for joins in large-scale publish/subscribe systems,2008,35,26,2,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2005986397,Energy-efficient monitoring of extreme values in sensor networks,2006,12,78,2,1.0,2257433360,Kamesh Munagala,0,-0.0041099411153885,0.0447066884760059
+2024868843,Big and useful whats in the data for me ,2013,0,1,2,0.0,1983031712,Rada Chirkova,0,-0.0041099411153885,0.0447066884760059
+2011427077,iCheck computationally combating &quot;lies d--ned lies and statistics&quot;,2014,6,6,7,1.0,2128565744,Pankaj K. Agarwal,0,0.12628174114238816,0.0039009070058818006
+2060794276,Incremental discovery of prominent situational facts,2014,13,8,4,0.0,2145831560,Chengkai Li,0,0.4612748096154063,0.057859001142267795
+2060846685,Input-sensitive scalable continuous join query processing,2009,40,6,3,1.0,2128565744,Pankaj K. Agarwal,0,-0.2279388196396881,0.09377507461288882
+2064366207,Cumulon optimizing statistical data analysis in the cloud,2013,26,56,3,1.0,2222018359,Botong Huang,0,-0.0041099411153885,0.0447066884760059
+2064385972,Constraint chaining on energy-efficient continuous monitoring in sensor networks,2006,18,157,2,0.0,676609076,Rebecca Braynard,0,-0.0041099411153885,0.0447066884760059
+2102563702,Dual Labeling Answering Graph Reachability Queries in Constant Time,2006,17,197,4,0.0,2119358208,Jeffrey Xu Yu,0,0.11354944332205508,-0.10200650790146937
+2102705353,RIOT I/O-Efficient Numerical Computing without SQL,2009,16,16,2,0.0,260911237,Herodotos Herodotou,0,0.897260189091807,0.20376913070247007
+2103128401,Optimizing complex extraction programs over evolving text data,2009,29,9,4,0.0,2164040783,Raghu Ramakrishnan,0,-0.7134440228877178,0.4506401235975874
+2100758984,Incremental computation and maintenance of temporal aggregates,2001,22,94,2,0.0,671527850,Jennifer Widom,0,-0.013461585000753501,0.3992713372441375
+2138064798,A Sampling-Based Approach to Optimizing Top-k Queries in Sensor Networks,2006,15,139,4,0.0,676609076,Rebecca Braynard,0,-0.2665651197328377,-0.06365991043887603
+2117511594,NEXSORT sorting XML in external memory,2004,12,5,1,1.0,2589753862,Jun Yang,0,2.500564386353253,-0.9723606230991062
+2135290095,Energy-Efficient Continuous Isoline Queries in Sensor Networks,2006,7,1,2,0.0,676609076,Rebecca Braynard,0,-0.0041099411153885,0.0447066884760059
+2126630402,Report on the Fourth International Workshop on Data Management for Sensor Networks (DMSN 2007),2007,0,0,6,0.0,119288298,Alexandros Labrinidis,0,-0.4377653149743701,-0.7161198344083345
+2138542364,I/O-efficient statistical computing with RIOT,2010,6,27,1,1.0,2589753862,Jun Yang,0,0.4140172577687311,0.006248033915944803
+2129531726,Asymmetric batch incremental view maintenance,2005,22,22,4,0.0,2138265396,Haifeng Yu,0,2.0742617239248213,0.8101744225538903
+2127003315,Efficient maintenance of materialized top-k views,2003,25,83,4,1.0,2115752352,Ke Yi,0,1.6729642514415666,0.3072408950765074
+2115459551,On Suspending and Resuming Dataflows,2007,10,5,3,1.0,2105061512,Badrish Chandramouli,0,0.23075676847186216,-0.2837672103061575
+2106608157,BOXes efficient maintenance of order-based labeling for dynamic XML data,2005,19,51,3,1.0,2115752352,Ke Yi,0,1.433930546500431,-0.6200397231343395
+2121911355,AUTOBIB automatic extraction of bibliographic information on the Web,2004,25,21,1,1.0,2589753862,Jun Yang,0,-0.6450982589482269,-0.7265595887208678
+2113270930,TIP a temporal extension to Informix,2000,11,15,3,0.0,671527850,Jennifer Widom,0,0.6927556578057779,-0.006042694884811617
+2113375851,Optimizing I/O for big array analytics,2012,27,12,1,1.0,2589753862,Jun Yang,0,0.06635930819191084,0.49152641060504293
+2143255506,Unifying databases and internet-scale publish/subscribe,2008,173,0,2,1.0,2105061512,Badrish Chandramouli,0,0.1644025391011518,-0.2394631407837945
+2113501348,Scalable continuous query processing by tracking hotspots,2006,25,17,4,1.0,2128565744,Pankaj K. Agarwal,0,-0.46893397788284524,0.07728939382804885
+2119677080,Multiresolution indexing of XML for frequent queries,2004,17,79,2,1.0,2312166100,Hao He,0,0.45277871997026936,-0.18555098371635312
+2134319554,Processing and Notifying Range Top-k Subscriptions,2012,27,2,3,1.0,2124777148,Albert Yu,0,0.24288993395198852,-0.31654515152658114
+2122956021,Incremental maintenance of XML structural indexes,2004,16,41,4,0.0,1965523549,Ioana Stanoi,0,2.1142367371490653,0.1261346952272912
+2134876510,Optimizing Queries Across Diverse Data Sources,1997,26,443,4,0.0,2035704235,Edward L. Wimmers,0,0.00723837482760753,-0.09434812344419044
+2162060957,Query suspend and resume,2007,16,36,3,1.0,2105061512,Badrish Chandramouli,0,0.5755073685984183,-0.07644334789221625
+2186175959,Storing Matrices on Disk Theory and Practice Revisited,2011,20,6,2,0.833333,2257433360,Kamesh Munagala,0,-0.0041099411153885,0.0447066884760059
+2144272261,Dataâ€ºDriven Processing in Sensor Networks,2007,24,37,3,1.0,2257433360,Kamesh Munagala,0,-0.0041099411153885,0.0447066884760059
+2144430294,Permuting data on random-access block storage,2013,17,1,2,1.0,2087025963,Risi Thonangi,0,-0.0041099411153885,0.0447066884760059
+2156757417,Value-based notification conditions in large-scale publish/subscribe systems ,2007,23,17,3,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2159796496,Subscriber assignment for wide-area content-based publish/subscribe,2011,32,2,3,1.0,2124777148,Albert Yu,0,-0.0041099411153885,0.0447066884760059
+2168883390,A Sampling-Based Approach to Information Recovery,2008,22,33,3,0.0,2125104194,Philip S. Yu,0,-0.0041099411153885,0.0447066884760059
+2156887552,Processing a large number of continuous preference top- k queries,2012,30,53,3,1.0,2124777148,Albert Yu,0,-0.0041099411153885,0.0447066884760059
+2144982736,On joining and caching stochastic streams,2005,17,39,3,1.0,2150631181,Yuguo Chen,0,0.43739842239757626,0.009947045888208002
+2161252177,On the database/network interface in large-scale publish/subscribe systems,2006,26,23,3,1.0,2105061512,Badrish Chandramouli,0,-0.17244133864042968,-0.305030520451871
+2164653193,Weighted Proximity Best-Joins for Information Retrieval,2009,16,5,4,1.0,2087025963,Risi Thonangi,0,-0.0041099411153885,0.0447066884760059
+2290852688,Efficient evaluation of object-centric exploration queries for visualization,2015,17,6,3,0.0,2015053662,Boulos Harb,0,-0.0041099411153885,0.0447066884760059
+2406516981,CÃ¼mÃ¼lÃ¶n matrix-based data analytics in the cloud with spot instances,2015,22,13,5,0.0,2146664798,Sayan Mukherjee,0,-0.0041099411153885,0.0447066884760059
+2406561448,Cumulon Cloud-Based Statistical Analysis from Users Perspective,2014,27,3,5,0.0,2146664798,Sayan Mukherjee,0,0.06635930819191084,0.49152641060504293
+2567809919,Computational Fact Checking through Query Perturbations,2017,47,13,4,1.0,2128565744,Pankaj K. Agarwal,0,0.12628174114238816,0.0039009070058818006
+2548149136,Perturbation analysis of database queries,2016,19,4,2,0.0,2540375281,Brett Walenz,0,-1.5398362260028424,1.2833813219202208
+2613930904,CÃ¼mÃ¼lÃ¶n-D data analytics in a dynamic spot market,2017,20,3,2,1.0,2222018359,Botong Huang,0,0.2946713761785912,0.4027268098681643
+2615687129,On Log-Structured Merge for Solid-State Drives,2017,16,8,2,1.0,2087025963,Risi Thonangi,0,-0.0041099411153885,0.0447066884760059
+2612139288,Data Management in Machine Learning Challenges Techniques and Systems,2017,107,30,2,0.0,2424930959,Arun Kumar,0,0.09705558733700767,-0.1530151554664976
+2612705754,Optimizing Iceberg Queries with Complex Joins,2017,20,1,3,0.71692,2176534177,Sudeepa Roy,0,-0.4147521297938367,0.5079058263234113
+2893888357,Query Perturbation Analysis An Adventure of Database Researchers in Fact-Checking,2018,0,0,6,1.0,2128565744,Pankaj K. Agarwal,0,-0.0041099411153885,0.0447066884760059
+2913459552,Session details Research session 10 probabilistic databases I,2009,0,0,1,1.0,2589753862,Jun Yang,0,0.13564313730626654,-0.0602562688584537
+2915048431,Proceedings of the 2017 ACM International Conference on Management of Data,2017,0,0,3,0.0,1983031712,Rada Chirkova,0,-0.0041099411153885,0.0447066884760059
+2949804092,Optimizing I/O for Big Array Analytics,2012,20,1,1,1.0,2589753862,Jun Yang,0,0.06635930819191084,0.49152641060504293
+2963215849,RIOT I/O-Efficient Numerical Computing without SQL,2009,18,27,2,0.0,260911237,Herodotos Herodotou,0,0.8342777435886438,0.19253312391631258
+2948639537,Correction to Database Systems for Advanced Applications,2019,0,0,3,0.0,212565954,Juggapong Natwichai,0,-0.0041099411153885,0.0447066884760059

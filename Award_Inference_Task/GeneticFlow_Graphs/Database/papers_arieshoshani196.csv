@@ -1,0 +1,73 @@
+136908855,SUBJECT a directory driven system for organizing and accessing large statistical databases,1981,4,72,1,1.0,742538449,Arie Shoshani,0,-0.26064923455455846,0.4315435219240117
+155203895,Statistical data management research at Lawrence Berkeley laboratory,1983,13,2,2,1.0,274756387,Frank Olken,0,0.17710970610315657,0.003239406626496447
+172974961,Research topics in statistical database management,1983,3,8,1,1.0,742538449,Arie Shoshani,0,1.0436330671637626,0.09448185016349556
+73910408,Subject a directory driven system for large statistical databases,1981,1,7,1,1.0,742538449,Arie Shoshani,0,-0.26064923455455846,0.4315435219240117
+41243316,OLAP and Data Warehousing in Statistical Databases (Panel),1998,0,0,1,1.0,742538449,Arie Shoshani,0,-0.16328011374660287,0.9890247327765609
+26289711,Storage Resource Managers,2004,0,24,1,1.0,742538449,Arie Shoshani,0,-0.19196147509311953,0.14487620954580122
+27596749,Scientific and statistical data management research at LBL,1986,0,7,2,0.666667,274756387,Frank Olken,0,-0.00688621155260371,0.21455261682984306
+130220931,A Layered Approach to Scientific Data Management at Lawrence Berkeley Laboratory,1993,0,6,1,1.0,742538449,Arie Shoshani,0,0.18601297105691045,-0.0008472885667257998
+199686152,A compression technique for large statistical data-bases,1981,8,53,2,1.0,274756387,Frank Olken,0,-0.20133665475165913,-0.19110780330684465
+85245586,Physical Database Research at the Lawrence Berkeley Laboratory,1982,0,0,1,1.0,742538449,Arie Shoshani,0,-0.0041099411153885,0.0447066884760059
+1532257187,Co-scheduling of computation and data on computer clusters,2005,8,20,1,1.0,742538449,Arie Shoshani,0,1.0924326335011603,0.9000758456530527
+1497030060,Efficient access of compressed data,1980,8,41,1,1.0,742538449,Arie Shoshani,0,-0.20133665475165913,-0.19110780330684465
+1569339692,Multidimensionality in statistical OLAP and scientific databases,2003,33,5,1,1.0,742538449,Arie Shoshani,0,-0.02097620050536584,0.449389424762889
+1569878055,Breaking the Curse of Cardinality on Bitmap Indexes,2008,27,53,1,1.0,742538449,Arie Shoshani,0,0.321982426868758,-0.052080221642402245
+1517332488,Temporal Data Management,1986,11,71,1,1.0,742538449,Arie Shoshani,0,-0.6534708228473736,0.35831438272707744
+1526676222,Grid Collector Using an event catalog to speed up user analysisin distributed environment,2004,0,0,2,0.0,742004922,V. Perevoztchikov,0,0.8852897050642464,0.6568639198932892
+1527137792,On the performance of bitmap indices for high cardinality attributes,2004,20,151,1,1.0,742538449,Arie Shoshani,0,0.7693584659593848,-0.7143490958005881
+1573272881,Abbreviated Query Interpretation in Extended Entity-Relationship Oriented Databases,1989,0,16,2,0.833333,674651725,Victor Markowitz,0,1.3031560982680905,0.22810727472259074
+1519656996,OLAP++ Powerful and Easy-to-Use Federations of OLAP and Object Databases,2000,2,12,1,1.0,742538449,Arie Shoshani,0,-0.3632509700454942,1.1437180412081445
+1565098692,Grid Collector Facilitating Efficient Selective Access from Data Grids,2005,15,5,1,1.0,742538449,Arie Shoshani,0,-0.16065307786350314,0.5277548060800685
+1594970871,The Scientific Data Management Center Providing Technologies for Large Scale Scientific Exploration,2009,0,3,1,1.0,742538449,Arie Shoshani,0,0.12293331765648631,0.0627529192127209
+1906576752,Object queries over relational databases Language implementation and applications,1993,9,36,1,1.0,742538449,Arie Shoshani,0,1.675780013057478,0.29857227461414404
+1846875827,STORM a statistical object representation model,1990,9,108,2,0.0,664900163,Maurizio Rafanelli,0,0.12843839037118665,-0.04622227942794266
+1607204998,Answering Joint Queries from Multiple Aggregate OLAP Databases,2003,4,7,2,0.642815,3256131,Elaheh Pourabbas,0,-0.056249374665393724,0.2364193305990071
+1850977149,DataMover robust terabyte-scale multi-file replication over wide-area networks,2004,4,20,1,1.0,742538449,Arie Shoshani,0,0.21733958507670154,0.2779239059990185
+1598550731,An Overview of the Lawrence Berkeley Laboratory Extended Entity-Relationship Database Tools,1994,11,3,2,0.747375,674651725,Victor Markowitz,0,1.0945240242876442,0.2717615903399186
+1598698901,Storage resource managers essential components for the Grid,2004,0,57,1,1.0,742538449,Arie Shoshani,0,-0.19196147509311953,0.14487620954580122
+1821867596,RRS replica registration service for data grids,2005,12,2,1,1.0,742538449,Arie Shoshani,0,-0.2841341251877007,0.06373557313257366
+1592056534,Characteristics of Scientific Databases,1984,9,47,2,1.0,274756387,Frank Olken,0,1.8706504281425136,0.2782948740543685
+1919896700,Coordinating simultaneous caching of file bundles from tertiary storage,2000,3,12,1,1.0,742538449,Arie Shoshani,0,0.07540170257982631,0.5059467553841263
+1723787988,Multidimensional indexing and query coordination for tertiary storage management,1999,4,63,1,1.0,742538449,Arie Shoshani,0,0.05472455847006642,0.021047713266573953
+1969866326,Efficient Operational Profiling of Systems Using Suffix Arrays on Execution Logs,2008,7,2,2,0.625,130593666,Mladen A. Vouk,0,-0.46893397788284524,0.07728939382804885
+1973648822,Object-extended OLAP querying,2009,49,19,1,1.0,742538449,Arie Shoshani,0,0.42742700480879997,0.3039859805747887
+1970529751,Improving estimation accuracy of aggregate queries on data cubes,2008,14,1,2,0.817333,3256131,Elaheh Pourabbas,0,1.858073915748463,0.66535711623579
+1967291753,Representing extended entity-relationship structures in relational databases a modular approach,1992,23,94,2,0.833333,674651725,Victor Markowitz,0,2.3620503481591157,0.2397560704088706
+2008415634,High-performance remote access to climate simulation data a challenge problem for data grid technologies,2003,27,65,2,0.0,220773886,Ewa Deelman,0,0.5449340679251995,-0.5949047939787344
+2003421875,Optimizing bitmap indices with efficient compression,2006,34,259,1,1.0,742538449,Arie Shoshani,0,0.6177307374876837,-0.05840251154468368
+2028461844,On the implementation of a logical data base converter,1975,1,5,1,1.0,742538449,Arie Shoshani,0,-0.517784099967121,0.4569235297745331
+2043942955,Efficient Attribute-Based Data Access in Astronomy Analysis,2012,6,3,1,1.0,742538449,Arie Shoshani,0,0.4552953631311554,0.36236194275860056
+2042772299,A logical-level approach to data base conversion,1975,10,28,1,1.0,742538449,Arie Shoshani,0,-0.23318100545652215,0.6363619675382689
+2053562648,A performance comparison of bitmap indexes,2001,4,60,1,1.0,742538449,Arie Shoshani,0,0.7676692904588623,-0.18949457770418696
+2043079212,Storage Resource Manager Version 22 design implementation and testing experience,2008,5,25,2,1.0,432532124,Don Petravick,0,0.8852897050642464,0.6568639198932892
+2050347474,Logical modeling of temporal data,1987,14,159,1,1.0,742538449,Arie Shoshani,0,-0.33196104678622895,0.2961095407887689
+2048626356,On the correctness of representing extended entity-relationship structures in the relational model,1989,17,49,2,0.833333,674651725,Victor Markowitz,0,2.4830409127708752,0.3975131157487703
+2071774356,Analyses of multi-level and multi-component compressed bitmap indexes,2010,41,49,1,1.0,742538449,Arie Shoshani,0,0.450079322476521,-0.2710619142497942
+2078278619,Efficient estimation of joint queries from multiple OLAP databases,2007,16,7,2,0.817333,3256131,Elaheh Pourabbas,0,-0.184195705014492,0.253555149538709
+2092704925,Extending OLAP querying to external object databases,2000,24,35,1,1.0,742538449,Arie Shoshani,0,0.23644511630863083,0.4955910602331275
+2094957436,Impact of Admission and Cache Replacement Policies on Response Times of Jobs on Data Grids,2005,15,1,1,1.0,742538449,Arie Shoshani,0,-0.0041099411153885,0.0447066884760059
+2103830868,The representation of a temporal data model in the relational environment,1988,24,49,1,1.0,742538449,Arie Shoshani,0,1.1857436654019358,0.26723056352246866
+2081348961,OLAP and statistical databases similarities and differences,1997,22,169,1,1.0,742538449,Arie Shoshani,0,0.07379480236673645,0.3069777170536797
+2081447850,Parallel in situ indexing for data-intensive computing,2011,17,33,2,0.0,259421104,Norbert Podhorszki,0,0.31710013683677085,-0.44987384345194376
+2088873730,Accelerating gene context analysis using bitmaps,2013,12,13,2,0.0,674651725,Victor Markowitz,0,0.5609039422885457,0.39489697217904607
+2087242306,Adaptive Bitmap Indexes for Space-Constrained Systems,2008,2,9,1,1.0,742538449,Arie Shoshani,0,0.7693584659593848,-0.7143490958005881
+2105358002,Joint queries estimation from multiple OLAP databases,2002,1,1,1,1.0,742538449,Arie Shoshani,0,0.5129350238871347,0.6024188004300641
+2123576887,A modeling and execution environment for distributed scientific workflows,2003,3,24,3,0.0,22582878,Terence Critchlow,0,0.09245345964671092,0.007491185684228065
+2109738489,Accurate modeling of cache replacement policies in a data grid,2003,17,23,1,1.0,742538449,Arie Shoshani,0,0.06799575237876854,-0.05063401304047266
+2139671405,Storage Resource Managers Recent International Experience on Requirements and Multiple Co-Operating Implementations,2007,3,18,3,0.0,111850570,Akos Frohner,0,-0.10588578412754443,-0.010663319084555332
+2107694471,Enabling Real-Time Querying of Live and Historical Stream Data,2007,34,58,1,1.0,742538449,Arie Shoshani,0,0.22864094107172225,-0.3944546947020429
+2168247528,Statistical Databases Characteristics Problems and some Solutions,1982,37,198,1,1.0,742538449,Arie Shoshani,0,0.12843839037118665,-0.04622227942794266
+2162299020,Characterization of temporal sequences in geophysical databases,1996,3,3,1,1.0,742538449,Arie Shoshani,0,-0.07963743478492318,0.1727017480394352
+2154462487,Using bitmap index for interactive exploration of large datasets,2003,19,64,1,1.0,742538449,Arie Shoshani,0,0.7693584659593848,-0.7143490958005881
+2163576449,The Composite OLAP-Object Data Model Removing an Unnecessary Barrier,2006,13,7,2,0.817333,3256131,Elaheh Pourabbas,0,-0.013460334113974777,0.25982317544860284
+2146365100,Strategies for processing ad hoc queries on large data warehouses,2002,21,33,1,1.0,742538449,Arie Shoshani,0,0.635917537248523,-0.09256830184802575
+2155577319,Determining the optimal file size on tertiary storage systems based on the distribution of query sizes,1998,9,8,1,1.0,742538449,Arie Shoshani,0,-0.3198766640930006,0.8173936216112956
+2146581901,Summarizability in OLAP and statistical data bases,1997,6,286,1,1.0,742538449,Arie Shoshani,0,0.4893195748140964,0.6589310249078713
+2161692763,Parallel data analysis directly on scientific file formats,2014,39,52,2,0.0,58152508,Surendra Byna,0,0.2822790385373441,0.2782182150647977
+2318947496,New capabilities in the HENP Grand Challenge Storage Access System and its application at RHIC,2001,5,1,2,0.0,418493167,David Malon,0,-0.14374466448362236,-0.06058633473706047
+2483290436,MPO A System to Document and Analyze Distributed Heterogeneous Workflows,2016,11,1,1,1.0,742538449,Arie Shoshani,0,-0.03456895769415114,0.08598316155083514
+2487281675,Data Access Integration and Management,2004,0,23,2,0.0,279674722,Peter Kunszt,0,0.2331737397314896,-0.15283932335216185
+2568259728,An Ecien t Compression Scheme For Bitmap Indices,2006,25,20,1,1.0,742538449,Arie Shoshani,0,0.2657856797705482,0.14689219539098033
+2603863857,Grid Collector Using an event catalog to speed up user analysis in distributed environment - eScholarship,2004,0,4,2,0.0,742004922,V. Perevoztchikov,0,0.8852897050642464,0.6568639198932892
+2752967527,Answering joint queries from multiple aggregate OLAP databases,2003,0,24,2,0.642815,3256131,Elaheh Pourabbas,0,-0.11969659397002483,0.3111334461851868
+2960124012,Storage resource managers Essential components for the grid,2003,0,7,1,1.0,742538449,Arie Shoshani,0,-0.19196147509311953,0.14487620954580122

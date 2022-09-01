@@ -1,0 +1,103 @@
+35807531,The essence of compiling with continuations (with retrospective),1993,0,14,4,0.0,60580178,Bruce F. Duba,0,-0.1164726804531344,0.019252515865476
+87240460,Proceedings of the 4th ACM SIGPLAN workshop on Programming languages meets program verification,2010,0,0,1,1.0,2130341195,Cormac Flanagan,0,0.537127318891217,-0.17770090533341673
+190038403,DrScheme A Pedagogic Programming Environment for Scheme,1997,18,76,4,0.0457445,113813022,Matthias Felleisen,0,-0.4933335406508436,-0.14765940248201184
+54214954,Unifying Hybrid Types and Contracts,2007,17,28,2,0.0,1998051363,Jessica Gronski,0,-0.06665500947586196,0.0009713940749643638
+181604221,Software Model Checking via Iterative Abstraction Refinement of Constraint Logic Queries,2007,23,8,1,1.0,2130341195,Cormac Flanagan,0,-0.313359093137727,0.5385861736840348
+14397416,A Functional View of Imperative Information Flow,2012,21,8,2,1.0,2117488556,Thomas H. Austin,0,-0.08323991245233166,-0.32121854825291035
+136527485,Static Debugging Browsing the Web of Program Invariants,1996,0,5,4,0.0,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+286932078,A New Way of Debugging Lisp Programs,2007,26,1,2,0.0,113813022,Matthias Felleisen,0,0.8840841036852224,-0.03504340713773644
+1540716578,Set-Based Analysis for Full Scheme and Its Use in Soft-Typing,1995,0,12,2,0.0,113813022,Matthias Felleisen,0,-0.005550021743587548,-0.045496798771096594
+1542973324,Method and apparatus for automatically inferring annotations,2001,12,46,1,1.0,2130341195,Cormac Flanagan,0,-0.14598847778481536,-0.12235870412565114
+1490156001,Theorem Proving Using Lazy Proof Explication,2003,22,115,2,0.0,2081037127,Xinming Ou,0,-0.2109856499848086,-0.7255860628033047
+1498946538,Houdini an Annotation Assistant for ESC/Java,2001,10,321,2,0.447645,710865586,K. Rustan M. Leino,0,-1.6077331262420238,0.7666399812205369
+1561721410,Game Semantics for Type Soundness,2015,34,1,1,1.0,2130341195,Cormac Flanagan,0,-0.19537854269507235,0.0154707632042657
+1499526127,Automatic software model checking using CLP,2003,30,18,1,1.0,2130341195,Cormac Flanagan,0,0.04191348521733068,-0.150380132640441
+1482332853,Method and apparatus for verifying data local to a single thread,2000,11,47,1,1.0,2130341195,Cormac Flanagan,0,-0.17332061401050267,-0.3472882498512874
+1562915062,Thread-modular model checking,2003,12,154,2,1.0,1985363956,Shaz Qadeer,0,0.26609527325504184,0.3967720221056153
+1483780380,System and method for lexing and parsing program annotations,1999,14,61,4,0.447645,710865586,K. Rustan M. Leino,0,-0.38901598959897904,-0.1717544847772182
+1484122531,Cooperative concurrency for a multicore world,2011,18,2,1,1.0,2130341195,Cormac Flanagan,0,0.7232916565407109,-0.2952603587545759
+1546106366,Verifying commit-atomicity using model-checking,2004,23,47,1,1.0,2130341195,Cormac Flanagan,0,0.7616843238898042,0.06750828846822099
+1573428492,A Modular Checker for Multithreaded Programs,2002,21,1,3,1.0,260128524,Sanjit A. Seshia,0,0.25842799910167324,-0.26902409334275235
+1520671672,Type Inference Against Races,2004,29,35,1,1.0,2130341195,Cormac Flanagan,0,-0.8844336528764641,-0.9752848275510305
+1565968002,Dynamic architecture extraction,2006,36,18,1,1.0,2130341195,Cormac Flanagan,0,0.7053527536211454,-0.5743164972719265
+1135222779,Cooperative types for controlling thread interference in Java,2015,60,2,1,1.0,2130341195,Cormac Flanagan,0,-0.286125214201628,0.21102793636639464
+1486694616,Types for Safe Locking,1999,28,154,1,1.0,2130341195,Cormac Flanagan,0,-0.12219934237091282,-0.38856773217748164
+1605226475,SingleTrack A Dynamic Determinism Checker for Multithreaded Programs,2009,26,57,1,1.0,2130341195,Cormac Flanagan,0,1.2005406276467319,0.7025517690067766
+1766132142,Type reconstruction for general refinement types,2007,26,23,1,1.0,2130341195,Cormac Flanagan,0,-0.40438072090254285,-0.20096276001911284
+1698939026,Object Types against Races,1999,15,76,1,1.0,2130341195,Cormac Flanagan,0,-0.03198954252856322,-0.046004172207959285
+1619541813,Compositional and Decidable Checking for Dependent Contract Types,2008,28,0,1,1.0,2130341195,Cormac Flanagan,0,-0.2179639774462526,0.3129729624852517
+1972085995,Predicate abstraction for software verification,2002,25,237,2,1.0,1985363956,Shaz Qadeer,0,1.2201364546244164,-0.08632512504269627
+1986188859,Compositional reasoning and decidable checking for dependent contract types,2009,27,13,1,1.0,2130341195,Cormac Flanagan,0,-0.16741756871497238,-0.4192892670887673
+1986698752,Type inference for atomicity,2005,35,39,1,1.0,2130341195,Cormac Flanagan,0,0.014827572574210437,0.15745261928868895
+1967698620,Catching bugs in the web of program invariants,1996,24,74,4,0.0,113813022,Matthias Felleisen,0,-0.3009262192910057,0.10961893833737663
+1983521033,Automatic type inference via partial evaluation,2005,21,4,2,1.0,1555576367,Aaron Tomb,0,0.4086363791596871,-1.2583090403128916
+1999539882,Type inference against races,2007,44,25,1,1.0,2130341195,Cormac Flanagan,0,-0.965405667338052,-1.3235019327365825
+1993836075,Extended static checking for Java,2002,44,1226,3,0.424341,710865586,K. Rustan M. Leino,0,-3.1599773841853565,0.337312281200055
+1992431017,Avoiding exponential explosion generating compact verification conditions,2001,11,199,1,1.0,2130341195,Cormac Flanagan,0,-2.1964517654346314,-0.0522463550618956
+2023168372,The semantics of future and its use in program optimization,1995,25,71,2,0.0,113813022,Matthias Felleisen,0,-0.7459067840007766,0.07305995415399484
+2015077407,DrScheme a programming environment for Scheme,2002,31,207,5,0.0,113813022,Matthias Felleisen,0,-0.3131021307652275,0.05769830100053436
+2036756319,PLDI 2002 Extended static checking for Java,2013,39,12,3,0.0,710865586,K. Rustan M. Leino,0,-2.454080444738585,0.286447580507429
+2040615980,Temporal higher-order contracts,2011,42,29,1,1.0,2130341195,Cormac Flanagan,0,1.8873387015896865,-0.8946712980447534
+2042751794,Annotation inference for modular checkers,2001,12,44,2,0.447645,710865586,K. Rustan M. Leino,0,-0.4680550309179562,-0.07852246628872254
+2043133575,Componential set-based analysis,1997,22,59,2,0.0457445,113813022,Matthias Felleisen,0,0.29587097893419245,0.3682287013961686
+2034379323,Componential set-based analysis,1999,22,57,2,0.0,113813022,Matthias Felleisen,0,0.7683146451705383,0.14699140034560107
+2064541384,Status report specifying javascript with ML,2007,22,19,1,1.0,2130341195,Cormac Flanagan,0,0.30214182316565213,-0.37899980608880135
+2073904768,The essence of compiling with continuations,1993,23,388,4,0.0,60580178,Bruce F. Duba,0,-0.33081223886174127,0.6597906793572221
+2074500093,Automatic software model checking via constraint logic,2004,33,32,1,1.0,2130341195,Cormac Flanagan,0,0.5021243780852581,-0.3833350781508525
+2071423705,Atomizer A dynamic atomicity checker for multithreaded programs,2008,57,37,1,1.0,2130341195,Cormac Flanagan,0,0.2355955275326303,0.15842944672855105
+2102640269,A type and effect system for atomicity,2003,40,308,2,1.0,1985363956,Shaz Qadeer,0,-0.13109596319680483,0.2031044840281362
+2103103193,pHluid the design of a parallel functional language implementation on workstations,1996,18,15,1,1.0,2130341195,Cormac Flanagan,0,-2.6346347293991386,-0.6011742438645236
+2082766667,Atomizer a dynamic atomicity checker for multithreaded programs,2004,58,341,1,1.0,2130341195,Cormac Flanagan,0,0.3787833751140758,0.28236013289307205
+2129059083,Cooperative reasoning for preemptive execution,2011,36,22,1,1.0,2130341195,Cormac Flanagan,0,0.7140278485089687,-0.1325554642115804
+2141210774,Hybrid type checking,2006,54,202,1,1.0,2130341195,Cormac Flanagan,0,-0.22914540684070764,0.03647440642168774
+2105482313,Effects for cooperable and serializable threads,2010,52,16,1,1.0,2130341195,Cormac Flanagan,0,-0.055210875148975894,0.225623716072276
+2114712579,The semantics of future and an application,1999,35,47,1,1.0,2130341195,Cormac Flanagan,0,-0.6740402712786893,-0.3184959216000945
+2141607910,Exploiting purity for atomicity,2004,42,16,2,0.891708,1985363956,Shaz Qadeer,0,0.2962750502729713,0.24749732768786992
+2105982807,Sweeten your JavaScript hygienic macros for ES5,2015,27,8,1,1.0,2130341195,Cormac Flanagan,0,-0.657823486368023,-0.6758638342189901
+2109033563,Velodrome a sound and complete dynamic atomicity checker for multithreaded programs,2008,40,173,1,1.0,2130341195,Cormac Flanagan,0,0.6184720737097578,1.3671964589902539
+2112381327,Modular verification of multithreaded programs,2005,49,52,3,1.0,260128524,Sanjit A. Seshia,0,0.19815771435180016,-0.30938279734379187
+2127402358,Sage Hybrid Checking for Flexible Specifications,2006,38,59,3,1.0,1555576367,Aaron Tomb,0,0.345694817089126,0.26102732152879726
+2109875364,Type-based race detection for Java,2000,34,370,1,1.0,2130341195,Cormac Flanagan,0,-3.1592004301270884,0.32681308567319284
+2115969864,Thread-Modular Verification for Shared-Memory Programs,2002,44,80,2,1.0,1985363956,Shaz Qadeer,0,-0.840054159139366,-0.19163157871527478
+2125165081,Transactions for Software Model Checking,2003,24,42,2,1.0,1985363956,Shaz Qadeer,0,1.3270198511785385,-0.5986749312455414
+2107399697,Correct blame for contracts no more scapegoating,2011,35,57,4,0.0,113813022,Matthias Felleisen,0,0.7680839552031037,-0.9731937509385163
+2110815776,Practices of PLDI,2014,2,0,7,0.0,1994117774,Jeremy Gibbons,0,-0.1164726804531344,0.019252515865476
+2144118030,Detecting race conditions in large programs,2001,28,75,1,1.0,2130341195,Cormac Flanagan,0,0.9658067618913483,-0.37044960279547456
+2144160229,Hybrid type checking,2010,53,84,1,1.0,2130341195,Cormac Flanagan,0,-0.24939183842844231,0.02421205180159227
+2171239903,Faceted execution of policy-agnostic programs,2013,50,29,3,1.0,2117488556,Thomas H. Austin,0,-0.14016735516908255,0.06906529055457947
+2171537091,Types for atomicity Static checking and inference for Java,2008,79,52,2,0.440448,1985363956,Shaz Qadeer,0,-0.24504505780060212,0.2100129734787471
+2153684747,Multiple facets for dynamic information flow,2012,35,126,2,1.0,2117488556,Thomas H. Austin,0,-0.1164726804531344,0.019252515865476
+2153810507,Exploiting purity for atomicity,2005,43,46,2,0.730325,1985363956,Shaz Qadeer,0,1.2888528885375519,0.12498181126666771
+2163019390,Explicit names without -equivalence Simple type soundness for a CEK semantics,2007,2,0,1,1.0,2130341195,Cormac Flanagan,0,-0.8411411168047056,0.4477779966309974
+2172255864,Types for atomicity,2003,22,107,2,1.0,1985363956,Shaz Qadeer,0,0.030795288666452484,0.2734059069651252
+2160489152,Atomizer a dynamic atomicity checker for multithreaded programs,2004,60,27,1,1.0,2130341195,Cormac Flanagan,0,0.05262782102597846,0.6502104483256282
+2166615267,Types for safe locking Static race detection for Java,2006,65,183,1,1.0,2130341195,Cormac Flanagan,0,-1.0762021739228866,-0.11219043035085693
+2160553057,Dynamic detection of object capability violations through model checking,2015,17,4,1,1.0,2130341195,Cormac Flanagan,0,-1.0339366277146698,-0.6116030880313366
+2169832370,Proving correctness of a dynamic atomicity analysis in Coq,2008,5,3,1,1.0,2130341195,Cormac Flanagan,0,0.05262782102597846,0.6502104483256282
+2169870841,Dynamic partial-order reduction for model checking software,2005,29,489,1,1.0,2130341195,Cormac Flanagan,0,-0.3435148986754782,-0.10297558856652371
+2161079291,Extending JML for modular specification and verification of multi-threaded programs,2005,38,56,3,0.0,242642603,Robby,0,-0.4477147363420992,0.10025742372213482
+2170969792,Cooperative types for controlling thread interference in Java,2012,58,9,1,1.0,2130341195,Cormac Flanagan,0,-0.286125214201628,0.21102793636639464
+2150138014,Virtual values for language extension,2011,29,26,2,1.0,2117488556,Thomas H. Austin,0,-0.36288107387120166,-0.15656229571347793
+2188810505,A Peer Architecture for Lightweight Symbolic Execution,2011,20,4,1,1.0,2130341195,Cormac Flanagan,0,-0.032500857648904806,-0.05740928964958567
+2202148857,Precise dynamic information flow for database-backed applications,2016,47,26,4,0.0,2105167831,Stephen Chong,0,-0.07533549058374668,0.013789606161630002
+2270148587,Typed Faceted Values for Secure Information Flow in Haskell,2014,33,2,2,1.0,2117488556,Thomas H. Austin,0,-0.0600776754648358,-0.23020049265094764
+2329935200,Reactive programming with reactive variables,2016,14,2,1,1.0,2130341195,Cormac Flanagan,0,1.1307809053756095,-0.048842932335226505
+2299800675,Faceted Execution of Policy-Agnostic Programs Extended Version,2012,0,0,3,1.0,2117488556,Thomas H. Austin,0,-0.1164726804531344,0.019252515865476
+2397711898,Space-Efficient Gradual Typing,2007,0,50,2,1.0,1555576367,Aaron Tomb,0,-0.1164726804531344,0.019252515865476
+2463192860,Faceted Dynamic Information Flow via Control and Data Monads,2016,32,14,2,1.0,2117488556,Thomas H. Austin,0,-0.1647025330858867,-0.16457590171787118
+2494560107,Macrofication Refactoring by Reverse Macro Expansion,2016,53,2,1,1.0,2130341195,Cormac Flanagan,0,0.5708393668467406,-0.7877391990351599
+2583674296,Object types against races,1999,0,0,1,1.0,2130341195,Cormac Flanagan,0,0.028483828541733505,-0.26990126968430755
+2527368155,A modular checker for multithreaded programs,2002,0,22,3,1.0,260128524,Sanjit A. Seshia,0,0.25842799910167324,-0.26902409334275235
+2507228426,Extending JML for modular specification and verification of multi-threaded programs,2005,0,1,3,0.0,242642603,Robby,0,-0.4477147363420992,0.10025742372213482
+2548359043,A Light-Weight Effect System for JavaScript,2015,9,0,1,1.0,2130341195,Cormac Flanagan,0,-0.2828144011663512,-0.11405790656310785
+2628830147,Correctness of Partial Escape Analysis for Multithreading Optimization,2017,20,0,1,1.0,2130341195,Cormac Flanagan,0,-0.6961637774887499,1.3069123919431636
+2614748191,Efficient purely-dynamic information flow analysis,2009,31,11,2,1.0,2117488556,Thomas H. Austin,0,-0.25339969236812937,0.11870444930118965
+2612745372,Multiple Facets for Dynamic Information Flow with Exceptions,2017,57,7,2,1.0,2117488556,Thomas H. Austin,0,-0.2109324954665381,0.16262128680217414
+2802066581,The Semantics of Futures,1994,0,6,2,0.0,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2788556107,Secure Serverless Computing Using Dynamic Information Flow Control,2018,33,2,4,0.0,131349027,Leonid Ryzhyk,0,-0.04806048411555268,0.7357433809803978
+2913002996,Proceedings of the 34th ACM SIGPLAN Conference on Programming Language Design and Implementation,2013,0,0,1,1.0,2130341195,Cormac Flanagan,0,-0.1164726804531344,0.019252515865476
+2934910448,ESVERIFY Verifying Dynamically-Typed Higher-Order Functional Programs by SMT Solving,2018,20,1,1,1.0,2130341195,Cormac Flanagan,0,-0.3467453956011557,0.04738078018909343
+2962955124,Secure Serverless Computing Using DynamicInformation Flow Control,2018,36,3,4,0.0,131349027,Leonid Ryzhyk,0,-0.04806048411555268,0.7357433809803978
+2971184128,IDVE an integrated development and verification environment for JavaScript,2019,46,0,1,1.0,2130341195,Cormac Flanagan,0,-0.4939433148715252,-0.26688836084909184
+3014194398,Session details Program analysis for security,2009,0,0,1,1.0,2130341195,Cormac Flanagan,0,-0.005550021743587548,-0.045496798771096594
+3014659455,Session details Concurrency bugs,2012,0,0,1,1.0,2130341195,Cormac Flanagan,0,-0.2268142716231431,-0.1590203910320284

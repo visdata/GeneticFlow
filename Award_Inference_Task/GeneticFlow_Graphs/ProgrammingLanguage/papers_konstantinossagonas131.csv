@@ -1,0 +1,90 @@
+52260594,On Using Erlang for Parallelization,2012,6,11,2,1.0,2042287259,Stavros Aronis,0,0.34196001176300195,-0.23069454827445288
+139130934,Minimal Model Tabling in Mercury,2005,17,2,2,0.0,677108589,Zoltan Somogyi,0,-0.48914163980089254,-0.10681424206093554
+156157953,Efficient Execution of HiLog in WAM-based Prolog Implementations,1995,0,10,1,1.0,2064107187,Konstantinos Sagonas,0,-0.7044380311239485,0.2162054589980121
+89291972,An abstract machine for computing the well-founded semantics,1996,0,28,1,1.0,2064107187,Konstantinos Sagonas,0,-0.24082824597137592,-0.0899777356791478
+144935353,A portable compiler for integrating HiLog into Prolog systems,1994,0,4,1,1.0,2064107187,Konstantinos Sagonas,0,-0.7997880887842108,0.24602771157600378
+147488175,Proceedings of the 5th ACM SIGPLAN international conference on Principles and practice of declaritive programming,2003,0,9,1,1.0,2064107187,Konstantinos Sagonas,0,0.7067217494720754,-0.4950757097284993
+48558007,The XSB Programming System,1993,0,33,1,1.0,2064107187,Konstantinos Sagonas,0,-0.1164726804531344,0.019252515865476
+136295036,XSB An Overview of its Use and Implementation,2007,16,6,1,1.0,2064107187,Konstantinos Sagonas,0,-0.1164726804531344,0.019252515865476
+1475955015,Purity in erlang,2010,6,6,1,1.0,2064107187,Konstantinos Sagonas,0,-0.4556209161688445,0.1336658321936566
+1550675824,The XSB Programmerâ€™s Manual,1800,0,33,1,1.0,2064107187,Konstantinos Sagonas,0,-0.3542458213991138,0.062790734395556
+1560854026,Applications implementation and performance evaluation of bit stream programming in erlang,2007,12,0,1,1.0,2064107187,Konstantinos Sagonas,0,0.5577883943181436,-0.9846430998650426
+1570916159,RELEASE A High-Level Paradigm for Reliable Large-Scale Server Software,2012,28,18,7,0.0,233976125,Nikolaos Papaspyrou,0,-0.11198420736560234,0.3932313759335127
+1517590008,Heap Memory Management in Prolog with Tabling Principles and Practice,2001,40,90,2,0.0,713720536,Bart Demoen,0,-0.6323869056706688,-0.22526692507668936
+1572167134,An Abstract Machine for Fixed-Order Dynamically Stratified Programs,1996,15,5,1,1.0,2064107187,Konstantinos Sagonas,0,-0.13539402552535695,0.27012491129606436
+1253240651,On the Use of Tabling for Abstract Interpretation An Experiment with Abstract Equation Systems,1998,0,9,1,1.0,2064107187,Konstantinos Sagonas,0,-0.2889432826686928,0.22052122636285354
+1573454147,Heap Garbage Collection in XSB Practice and Experience,2000,16,3,2,0.0,713720536,Bart Demoen,0,-0.4442600157592559,-0.035508558191540196
+1501840263,HiPE High-Performance Erlang,1999,0,4,1,1.0,2064107187,Konstantinos Sagonas,0,-0.09312543394487688,0.7408391176485991
+1537902892,Modular Termination Proofs for Prolog with Tabling,1999,19,6,3,0.0,164342283,Danny De Schreye,0,0.1328666939491224,-0.49546678702494934
+1511466363,The HiPE/x86 Erlang Compiler System Description and Performance Evaluation,2002,13,18,1,1.0,2064107187,Konstantinos Sagonas,0,-0.07764331065113142,0.2539465656541994
+1574950491,Tabling in mercury design and implementation,2006,12,28,2,0.0,677108589,Zoltan Somogyi,0,-0.09283778452203492,0.41169130664885206
+1556803451,Message analysis for concurrent languages,2003,20,8,2,1.0,1997776433,Jesper Wilhelmsson,0,-0.2268142716231431,-0.1590203910320284
+1520649080,Preserving Termination of Tabled Logic Programs While Unfolding (Extended Abstract),1997,26,6,1,1.0,2064107187,Konstantinos Sagonas,0,0.010275569893888802,0.18492024442498103
+1495962746,Linear Scan Register Allocation in a High-Performance Erlang Compiler,2002,12,11,1,1.0,2064107187,Konstantinos Sagonas,0,-1.1590463558145152,-0.35300742499929555
+1531484838,Using static analysis to detect type errors and concurrency defects in erlang programs,2010,13,4,1,1.0,2064107187,Konstantinos Sagonas,0,-0.29363778988330413,0.16785373116024413
+1792464322,Unboxed compilation of floating point arithmetic in a dynamically typed language environment,2002,13,4,1,1.0,2064107187,Konstantinos Sagonas,0,-0.9157203938091507,0.13229769556930282
+1954899367,Tabled Logic Programs Principles Practice and Applications,1996,96,0,2,0.714286,1990835124,I. V. Ramakrishnan,0,-0.1164726804531344,0.019252515865476
+1798073562,Proceedings of the 9th ACM SIGPLAN workshop on Erlang,2010,0,5,1,1.0,2064107187,Konstantinos Sagonas,0,0.21969355922195968,-0.5612139640312973
+1595761884,Efficient Tabling Mechanisms for Logic Programs,1995,0,50,2,0.714286,1990835124,I. V. Ramakrishnan,0,-0.1164726804531344,0.019252515865476
+1633377437,CAT The Copying Approach to Tabling,1998,12,29,2,0.0,713720536,Bart Demoen,0,-0.2517047667582895,-0.37320408693679824
+1908231796,Static detection of race conditions in erlang,2010,19,21,2,1.0,2054326781,Maria Christakis,0,-0.07251687452414073,0.1365408379905546
+1588734579,Segment Order Preserving and Generational Garbage Collection for Prolog,2002,19,6,3,0.833333,21933861,Ruben Vandeginste,0,-0.39647125653309206,-0.0677617054234385
+1579914521,Demand-driven indexing of prolog clauses,2007,13,28,1,1.0,2064107187,Konstantinos Sagonas,0,-0.49511640501262844,0.030348990751034886
+1811359278,Heap Memory Management in Prolog with Tabling Practice and Experience,2001,0,1,2,0.0,713720536,Bart Demoen,0,-1.0753500649977603,-0.36309765870178273
+1774324140,XSB A System for Effciently Computing WFS,1997,25,110,1,1.0,2064107187,Konstantinos Sagonas,0,-0.4706187505158021,0.019057918152536935
+1775494561,A Polyvariant Binding-Time Analysis for Off-line Partial Deduction,1998,31,19,1,1.0,2064107187,Konstantinos Sagonas,0,-0.3081714200142658,-0.6482455284314039
+1978640117,Extending partial deduction to tabled execution some results and open issues,1998,17,3,1,1.0,2064107187,Konstantinos Sagonas,0,0.013214575261006951,-2.049542958693164
+1971941065,Unification factoring for efficient execution of logic programs,1995,14,16,3,0.714286,1990835124,I. V. Ramakrishnan,0,-0.36276469871088435,0.02738596652717205
+1975513208,Efficient memory management for concurrent programs that use message passing,2006,21,11,2,1.0,1997776433,Jesper Wilhelmsson,0,-0.5861585156675276,0.10828148537359392
+1975908943,Just enough tabling,2004,13,8,1,1.0,2064107187,Konstantinos Sagonas,0,-0.4698678200401387,-0.11280739440548251
+1987557201,A PropEr integration of types and function specifications with property-based testing,2011,6,57,1,1.0,2064107187,Konstantinos Sagonas,0,0.0036197639620264566,-0.16499545532928023
+2008732772,Practical type inference based on success typings,2006,12,57,1,1.0,2064107187,Konstantinos Sagonas,0,-0.3659080569423616,0.0991655121405911
+1991332789,Instruction merging and specialization in the SICStus Prolog virtual machine,2001,15,19,2,0.0,685485445,Henrik NÃ¤ssÃ©n,0,-0.3551267058319093,0.32548684958857493
+1994977110,An abstract machine for efficiently computing queries to well-founded models,2000,31,13,1,1.0,2064107187,Konstantinos Sagonas,0,-0.24082824597137592,-0.0899777356791478
+1997210046,An abstract machine for tabled execution of fixed-order stratified logic programs,1998,33,116,1,1.0,2064107187,Konstantinos Sagonas,0,-0.523854880365379,-0.04278380754597042
+2014199531,Message analysis for concurrent programs using message passing,2006,32,12,2,1.0,1997776433,Jesper Wilhelmsson,0,-0.3430659373096439,0.18541495362138155
+2028893723,Detecting defects in Erlang programs using static analysis,2007,0,3,1,1.0,2064107187,Konstantinos Sagonas,0,0.5665705214294665,0.004003902737574699
+2039085252,On preserving term sharing in the Erlang virtual machine,2012,3,4,2,0.0,233976125,Nikolaos Papaspyrou,0,-0.3501781288041562,0.12148065073144129
+2049801349,Automatic refactoring of Erlang programs,2009,15,16,1,1.0,2064107187,Konstantinos Sagonas,0,0.46608601432444347,-0.39626610603106466
+2061236588,Semantics-based program analysis for logic-based languages using XSB,1998,35,21,2,0.0,713720536,Bart Demoen,0,1.0985397413874893,0.6293527957003183
+2071433880,CHAT the copy-hybrid approach to tabling,2000,12,14,2,0.0,713720536,Bart Demoen,0,-0.4842568435730956,-0.19967566740969273
+2085609918,XSB as an efficient deductive database engine,1994,19,312,1,1.0,2064107187,Konstantinos Sagonas,0,-0.7024415212554077,0.3172581009989862
+2087840232,ErLLVM an LLVM backend for Erlang,2012,12,6,1,1.0,2064107187,Konstantinos Sagonas,0,-0.412761365658195,0.7965171658374876
+2091478774,Efficient access mechanisms for tabled logic programs,1999,21,101,2,0.394859,1990835124,I. V. Ramakrishnan,0,-0.4706187505158021,0.019057918152536935
+2103704182,Gradual typing of erlang programs a wrangler experience,2008,6,7,1,1.0,2064107187,Konstantinos Sagonas,0,1.2059893600143485,-0.2895631983437834
+2088263927,Concolic testing for functional languages,2015,16,8,2,0.0,233976125,Nikolaos Papaspyrou,0,0.38846104820940186,-0.6500585668533457
+2098211566,Typed callbacks for more robust behaviours,2011,6,0,2,1.0,2042287259,Stavros Aronis,0,0.8576343942622081,0.02443184082849653
+2094034408,A high performance Erlang system,2000,17,35,1,1.0,2064107187,Konstantinos Sagonas,0,-0.3430659373096439,0.18541495362138155
+2123344956,A language for specifying type contracts in erlang and its interaction with success typings,2007,11,10,1,1.0,2064107187,Konstantinos Sagonas,0,-0.43661093361331116,0.2753317100272201
+2132155852,Bit-level binaries and generalized comprehensions in Erlang,2005,1,5,1,1.0,2064107187,Konstantinos Sagonas,0,-0.4627001724579536,0.09045355645038795
+2132574120,The limits of fixed-order computation,2001,25,14,1,1.0,2064107187,Konstantinos Sagonas,0,-0.7632114731597841,0.14648044734006946
+2123904236,Native code compilation of Erlangs bit syntax,2002,2,12,1,1.0,2064107187,Konstantinos Sagonas,0,-0.2932101246295652,0.5361546378049487
+2129825950,Termination proofs for logic programs with tabling,2001,32,34,3,0.0,164342283,Danny De Schreye,0,-0.5295147906550259,-0.025630590260351374
+2115447277,Precise explanation of success typing errors,2013,17,9,1,1.0,2064107187,Konstantinos Sagonas,0,-0.11559201254851748,0.1302865681389858
+2112609211,TypEr a type annotator of Erlang code,2005,8,21,1,1.0,2064107187,Konstantinos Sagonas,0,-0.45396148278494985,0.162898658708529
+2139525797,Memory management for Prolog with tabling,1998,17,9,2,0.0,713720536,Bart Demoen,0,-0.9612409833686257,-0.2241489527002151
+2118889869,CHAT The Copy-Hybrid Approach to Tabling,1999,12,29,2,0.0,713720536,Bart Demoen,0,-0.36633094746528466,-0.181789756609288
+2128127301,Heap architectures for concurrent languages using message passing,2002,23,20,2,1.0,1997776433,Jesper Wilhelmsson,0,-0.6839351998143562,-0.08906717293345298
+2122811495,Test-driven development of concurrent programs using concuerror,2011,8,16,2,1.0,2054326781,Maria Christakis,0,0.8923934392768277,-0.12264951195840573
+2153339030,Cleaning up Erlang code is a dirty job but somebodys gotta do it,2009,8,6,1,1.0,2064107187,Konstantinos Sagonas,0,0.9261316260205934,-0.49582300309352756
+2171326679,Detection of asynchronous message passing errors using static analysis,2011,14,26,2,1.0,2054326781,Maria Christakis,0,-0.16087465064823306,0.3592034722813877
+2181609650,TYPER A Type Annotator of Erlang Code (Extended Abstract),2005,8,0,1,1.0,2064107187,Konstantinos Sagonas,0,-0.45396148278494985,0.162898658708529
+2154282221,HiPE on AMD64,2004,15,2,1,1.0,2064107187,Konstantinos Sagonas,0,-0.10766173040401997,0.4147454208689957
+2166938786,Efficiently compiling a functional language on AMD64 the HiPE experience,2005,11,6,1,1.0,2064107187,Konstantinos Sagonas,0,-0.09670376580427927,0.21712147805023654
+2189085557,Functional manipulation of bit streams,2008,17,0,1,1.0,2064107187,Konstantinos Sagonas,0,-0.49541902394627224,7.672871384867275e-07
+2400182190,The slg-wam a search-efficient engine for well-founded evaluation of normal logic programs,1996,0,9,1,1.0,2064107187,Konstantinos Sagonas,0,-0.1164726804531344,0.019252515865476
+2520217242,Segment order preserving and generational garbage collection for Prolog,2001,0,0,3,0.833333,21933861,Ruben Vandeginste,0,-0.39647125653309206,-0.0677617054234385
+2520300422,Termination analysis for tabled logic programming (extended abstract),1997,0,0,3,0.0,164342283,Danny De Schreye,0,-0.3684825635730837,0.13353101893022612
+2515946176,The Nifty way to call hell from heaven,2016,7,2,1,1.0,2064107187,Konstantinos Sagonas,0,-0.23878047750404172,0.27758255567757434
+2506861860,Unboxed compilation of floating point arithmetic in a dynamically typed language environment,2003,0,1,1,1.0,2064107187,Konstantinos Sagonas,0,-0.7302516216585315,0.22891916133427231
+2585665986,On enabling the WAM with region support,2002,0,0,2,0.0,66309647,Henning Makholm,0,-0.575857087606412,-0.18196441241976952
+2592423893,Selected and extended papers from Partial Evaluation and Program Manipulation 2015 (PEPM15),2017,0,0,1,1.0,2064107187,Konstantinos Sagonas,0,-0.8518726181835219,0.21131683156376435
+2612371455,Concolic testing for functional languages,2017,32,4,2,0.0,233976125,Nikolaos Papaspyrou,0,0.7364708535497755,-0.7321340017527992
+2612962685,Heap garbage collection in XSB Practice and experience,2000,0,0,2,0.0,713720536,Bart Demoen,0,-0.1164726804531344,0.019252515865476
+2751928463,The shared-memory interferences of Erlang/OTP built-ins,2017,8,3,2,1.0,2042287259,Stavros Aronis,0,0.4143096813565959,-0.5499660358860914
+2747898780,Testing and Verifying Chain Repair Methods for Corfu Using Stateless Model Checking,2017,19,3,2,1.0,2042287259,Stavros Aronis,0,-0.18626823736575668,-0.05682321799523343
+2928532935,HiPErJiT A Profile-Driven Just-in-Time Compiler for Erlang,2018,25,0,1,1.0,2064107187,Konstantinos Sagonas,0,-0.6138761532427749,0.29097107020666135
+2899402023,Effective Stateless Model Checking for C/C++ Concurrency,2018,0,18,2,0.0,138450541,Viktor Vafeiadis,0,-0.7033272001022395,-0.056891326505016854
+2958694015,Concolic Testing of Higher-order Functional Languages Invited Talk at the Sixth Workshop on Horn Clauses for Verification and Synthesis and Third Workshop on Program Equivalence and Relational Reasoning,2019,0,0,1,1.0,2064107187,Konstantinos Sagonas,0,0.3288011498755195,-1.1747404368166274
+2949106240,Termination Proofs for Logic Programs with Tabling,2000,8,0,3,0.0,164342283,Danny De Schreye,0,-0.48052977666901797,0.017417855223649165
+2953255159,A Polyvariant Binding-Time Analysis for Off-line Partial Deduction,2000,19,0,1,1.0,2064107187,Konstantinos Sagonas,0,-0.37019202772479887,-1.1599402251637483

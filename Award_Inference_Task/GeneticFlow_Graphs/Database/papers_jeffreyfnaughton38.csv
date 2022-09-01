@@ -1,0 +1,145 @@
+69014595,The oo7 Benchmark Current Status &amp; Future Directions,1993,0,0,2,0.0,1979791317,David J. DeWitt,0,-0.0041099411153885,0.0447066884760059
+189563374,Avi Pfeffer Generalized Search Trees for Database Systems,1995,0,37,2,0.625,2063640528,Joseph M. Hellerstein,0,-0.0041099411153885,0.0447066884760059
+138711785,Global memory management for multi-server database systems,1996,0,8,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+54838500,The oo7 Benchmark,1993,0,268,2,0.0,1979791317,David J. DeWitt,0,-0.0041099411153885,0.0447066884760059
+38346608,Materialized View Selection for Multidimensional Datasets,1998,13,241,1,1.0,2075622585,Jeffrey F. Naughton,0,1.4275448028487614,0.9016243547799372
+125925666,Generalized Search Trees for Database Systems,1995,24,432,2,0.625,2063640528,Joseph M. Hellerstein,0,-0.6285384638274351,-0.4128373976640127
+94825731,Cubing Algorithms Storage Estimation and Storage and Processing Alternatives for OLAP,1997,0,23,2,1.0,2007010895,Kristin Tufte,0,-0.3632509700454942,1.1437180412081445
+44987379,The Niagara Internet Query System,2001,20,201,8,1.0,281624977,Leonidas Galanis,0,1.8669619548457286,-0.6357182233169629
+67558203,Generating Synthetic Complex-Structured XML Data,2001,9,43,2,1.0,2066833720,Ashraf Aboulnaga,0,2.3600645288362934,-0.9042243182177783
+1000601834,System and methods for Predicting Query Execution Time for Concurrent and Dynamic Database Workloads,2013,4,16,1,1.0,2075622585,Jeffrey F. Naughton,0,0.8809340701863815,0.11633144593696097
+1568232141,Sampling Issues in Parallel Database Systems,1992,11,34,1,1.0,2075622585,Jeffrey F. Naughton,0,0.253202750105207,0.12815134630264885
+1532740559,Incremental Loading of Object Databases,1996,0,1,1,1.0,2075622585,Jeffrey F. Naughton,0,0.7706079088052037,0.40648027964217387
+1559749472,OODB Bulk Loading Revisited The Partitioned-List Approach,1995,21,27,1,1.0,2075622585,Jeffrey F. Naughton,0,0.3078402812483393,0.1723709050117697
+1569301450,Argument reduction by factoring,1989,11,39,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.25609130579317646,0.2785941556746898
+1508574118,Bulk Loading into an OODB A Performance Study,1994,13,21,1,1.0,2075622585,Jeffrey F. Naughton,0,1.0033552092793776,0.020813504209629168
+1491545690,On the integration of structure indexes and inverted lists,2004,1,19,1,1.0,2075622585,Jeffrey F. Naughton,0,1.589136226925122,-0.5338290818056369
+1482980260,Materialized View Selection for Multi-Cube Data Models,2000,13,46,1,1.0,2075622585,Jeffrey F. Naughton,0,0.8891779572233208,-0.02480995311057633
+1556132150,Proceedings of the 2000 ACM SIGMOD international conference on Management of data,2000,0,75,2,0.0,335443309,Nick Koudas,0,-0.0041099411153885,0.0447066884760059
+1503917133,How to forget the past without repeating it,1990,10,5,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+1522055873,Storage Estimation for Multidimensional Aggregates in the Presence of Hierarchies,1996,8,164,1,1.0,2075622585,Jeffrey F. Naughton,0,0.7058182842453836,0.26550724909116874
+1596428455,Exploring provenance in a distributed job execution system,2006,20,14,1,1.0,2075622585,Jeffrey F. Naughton,0,0.2946713761785912,0.4027268098681643
+1596823748,Aggregate Aware Caching for Multi-Dimensional Queries,2000,12,21,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+1597532222,Practical Skew Handling in Parallel Joins,1992,28,257,2,0.0,1979791317,David J. DeWitt,0,0.253202750105207,0.12815134630264885
+1763255008,Active Query Caching for Database Web Servers,2000,20,51,1,1.0,2075622585,Jeffrey F. Naughton,0,-1.4738797888049164,-1.230163595875241
+1608305252,Locking protocols for materialized aggregate join views,2003,20,7,3,0.641026,881593860,Curt J. Ellmann,0,2.465518392902632,2.808352480574479
+1645807896,Cache Conscious Algorithms for Relational Query Processing,1994,9,174,2,0.0,1265035209,Ambuj Shatdal,0,-0.0041099411153885,0.0447066884760059
+1659797312,Accurate estimation of the cost of spatial selections,2000,21,56,2,1.0,2066833720,Ashraf Aboulnaga,0,0.014532710543751099,0.030944858938630852
+1964345410,Simultaneous optimization and evaluation of multiple dimensional queries,1998,12,93,1,1.0,2075622585,Jeffrey F. Naughton,0,0.4299467347675382,0.7142789350038816
+1622528090,The Case for a Structured Approach to Managing Unstructured Data,2009,0,16,3,0.0,1991224182,Pedro DeRose,0,0.2348296109080441,0.5983314430800298
+1594135699,Transaction reordering and grouping for continuous data loading,2006,25,15,3,0.509294,881593860,Curt J. Ellmann,0,1.218471576039743,0.5328633078217134
+1973440079,A general technique for querying XML documents using a relational database system,2001,14,145,5,0.0,219131493,Efstratios Viglas,0,1.9339240277568177,-0.5603150191587928
+1968403101,Form-based proxy caching for database-backed web sites keywords and functions,2008,39,29,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.7525896993924579,-0.884293228791565
+1982431534,The 007 Benchmark,1993,11,254,2,0.0,1979791317,David J. DeWitt,0,1.3127637616035577,0.14202006220006624
+1975502783,DBMS Lessons from the first 50 years speculations for the next 50,2010,0,0,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+1968829657,Practical selectivity estimation through adaptive sampling,1990,18,239,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.1965688621133013,0.4159264488499522
+1967153225,JECB a join-extension code-based approach to OLTP data partitioning,2014,15,11,1,1.0,2075622585,Jeffrey F. Naughton,0,1.892861671859584,1.267115159886289
+1974149771,On relational support for XML publishing beyond sorting and tagging,2003,18,33,1,1.0,2075622585,Jeffrey F. Naughton,0,1.5589510725315412,0.197822908535435
+1984896906,Parallelizing OODBMS traversals a performance evaluation,1996,10,21,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+1973056687,On differentially private frequent itemset mining,2012,22,62,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+1967831627,K-Anonymization as Spatial Indexing Toward Scalable and Incremental Anonymization,2007,30,75,2,0.0,1979791317,David J. DeWitt,0,-0.0041099411153885,0.0447066884760059
+2004862636,Data independent recursion in deductive databases,1989,13,38,1,1.0,2075622585,Jeffrey F. Naughton,0,1.8086467655984904,0.7463311299224231
+1994694191,On supporting containment queries in relational database management systems,2001,23,765,3,0.0,401236404,Guy M. Lohman,0,1.0441768503630076,0.32838013901186297
+1997168731,The Beckman Report on Database Research,2014,7,47,12,0.0,360112113,Hosagrahar V. Jagadish,0,0.16961816653767703,0.31221718520020947
+1988600452,Data independent recursion in deductive databases,1985,9,61,1,1.0,2075622585,Jeffrey F. Naughton,0,1.8086467655984904,0.7463311299224231
+2006346002,Partial results in database systems,2014,38,17,1,1.0,2075622585,Jeffrey F. Naughton,0,0.11797670951183034,-0.24219977622393202
+1995953849,A software-defined networking based approach for performance management of analytical queries on distributed data stores,2014,20,23,2,0.0,1990998134,Pengcheng Xiong,0,0.028183027239055632,0.18567154661373284
+2024680396,Adaptive parallel aggregation algorithms,1995,8,120,2,0.0,1265035209,Ambuj Shatdal,0,0.044859856903840555,0.012551371775477651
+2010640875,The BUCKY object-relational benchmark,1997,6,68,3,0.0,156508372,Mohammad Asgarian,0,1.146047087280555,-0.33326252516457555
+2021249047,Toward industrial-strength keyword search systems over relational data,2010,31,5,1,1.0,2075622585,Jeffrey F. Naughton,0,1.0892885743827276,0.1804671457168911
+2026965159,GSLPI A Cost-Based Query Progress Indicator,2012,15,31,1,1.0,2075622585,Jeffrey F. Naughton,0,0.721050505749266,0.14885205280867192
+2013214811,Modeling entity evolution for temporal record matching,2014,15,23,1,1.0,2075622585,Jeffrey F. Naughton,0,0.2971137375149884,-0.29987532461792976
+2032775418,Learning Generalized Linear Models Over Normalized Data,2015,33,74,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.10181520141965575,0.4407775044453373
+2041770008,Query execution techniques for caching expensive methods,1996,22,98,2,0.625,2063640528,Joseph M. Hellerstein,0,-1.5398362260028424,1.2833813219202208
+2054170837,Caching multidimensional queries using chunks,1998,18,193,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.23110885929603256,0.7682063706058481
+2035015991,Information extraction challenges in managing unstructured data,2009,17,68,3,0.0,1991224182,Pedro DeRose,0,-0.08312931732479195,0.7511147668573895
+2042389627,On schema matching with opaque column names and data values,2003,20,194,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.022395627020836823,-0.8725044235075026
+2044240774,An array-based algorithm for simultaneous multidimensional aggregates,1997,5,374,1,1.0,2075622585,Jeffrey F. Naughton,0,0.6048308315640988,1.8209511718508264
+2048659529,Distribution-based query scheduling,2013,36,10,1,1.0,2075622585,Jeffrey F. Naughton,0,0.014532710543751099,0.030944858938630852
+2055958975,The Asilomar report on database research,1998,0,207,9,1.0,225366896,Michael Lesk,0,-0.0041099411153885,0.0447066884760059
+2069260454,Impact of disk corruption on open-source DBMS,2010,25,23,4,0.0,74145742,Remzi H. Arpaci Dusseau,0,-0.46893397788284524,0.07728939382804885
+2082611830,Combining keyword search and forms for ad hoc querying of databases,2009,15,82,1,1.0,2075622585,Jeffrey F. Naughton,0,0.0908845357243609,0.31128747720343375
+2103701698,Rate-based query optimization for streaming information sources,2002,24,222,2,1.0,335360864,Stratis D. Viglas,0,0.7215975991611812,0.3052417628859806
+2103702871,Towards predicting query execution time for concurrent and dynamic database workloads,2013,32,48,1,1.0,2075622585,Jeffrey F. Naughton,0,0.014532710543751099,0.030944858938630852
+2089950969,On the performance of object clustering techniques,1992,14,92,2,0.0,318328696,Manolis M. Tsangaris,0,-0.0041099411153885,0.0447066884760059
+2093766169,Building a scaleable geo-spatial DBMS technology implementation and evaluation,1997,20,107,6,0.641026,881593860,Curt J. Ellmann,0,2.4996358552998945,0.5499892284335361
+2093821541,In-RDBMS inverted indexes revisited,2014,32,1,2,0.498631,2040370899,Alan Halverson,0,1.038227156579357,-0.15027331237728486
+2095733021,A relational approach to incrementally extracting and querying structure in unstructured data,2007,33,61,1,1.0,2075622585,Jeffrey F. Naughton,0,0.7494374911571599,0.8653039757471153
+2079908845,We are drowning in a sea of least publishable units (LPUs),2013,0,0,4,0.0,1979791317,David J. DeWitt,0,-0.0041099411153885,0.0447066884760059
+2098812463,Database Support for Weighted Match Joins,2007,13,2,1,1.0,2075622585,Jeffrey F. Naughton,0,0.804519972613865,0.10931056205550939
+2095901123,Space optimization in deductive databases,1995,20,4,1,1.0,2075622585,Jeffrey F. Naughton,0,0.119739122485096,0.4583397011045227
+2099085751,TRAC toward recency and consistency reporting in a database with distributed data sources,2006,12,3,2,0.0,228437624,Miron Livny,0,0.18894075690103648,0.37138487114961755
+2094206427,Utility-maximizing event stream suppression,2013,31,15,1,1.0,2075622585,Jeffrey F. Naughton,0,0.4169901767344631,-0.03181084648581779
+2120451551,Multi-query SQL progress indicators,2006,24,51,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.13899051547638233,-0.003077863380908232
+2132223977,Anonymization of set-valued data via top-down local generalization,2009,40,177,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.32198876610509086,-0.2038331671539402
+2132244350,Maximizing the output rate of multi-way join queries over streaming information sources,2003,29,245,2,1.0,335360864,Stratis D. Viglas,0,-0.8111052405828644,0.8913388803529055
+2135432866,On the integration of structure indexes and inverted lists,2004,39,150,1,1.0,2075622585,Jeffrey F. Naughton,0,1.4169332845756961,-0.5269362679641636
+2129554248,Mixed mode XML query processing,2003,23,92,5,1.0,281624977,Leonidas Galanis,0,2.393919284475961,-0.8794014440068407
+2132560950,Estimating the Selectivity of XML Path Expressions for Internet Scale Applications,2001,24,186,2,1.0,2066833720,Ashraf Aboulnaga,0,2.0887590309208717,-0.7495368553843489
+2120832084,Towards Building XML Statistics for the Hidden Web,2003,22,1,2,1.0,2066833720,Ashraf Aboulnaga,0,2.5048349343683918,-0.9756256283167938
+2129622458,Building XML statistics for the hidden web,2003,19,10,2,1.0,2066833720,Ashraf Aboulnaga,0,2.626782185011363,-1.0346712838735026
+2118173195,Middle-tier database caching for e-business,2002,15,185,2,0.0,2020635548,Bruce G. Lindsay,0,-0.5062890218132238,-0.5706392211752012
+2132808937,A scalable hash ripple join algorithm,2002,15,79,2,0.641026,881593860,Curt J. Ellmann,0,0.43739842239757626,0.009947045888208002
+2112847223,Increasing the accuracy and coverage of SQL progress indicators,2005,16,48,3,0.514169,881593860,Curt J. Ellmann,0,1.1930577160661062,0.2937743100249808
+2121740667,K-anonymization as spatial indexing toward scalable and incremental anonymization,2007,31,55,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+2130527449,The case for a wide-table approach to manage sparse relational data sets,2007,17,53,1,1.0,2075622585,Jeffrey F. Naughton,0,2.14569617194494,0.19720200267013221
+2133671413,Turbocharging DBMS buffer pool using SSDs,2011,22,75,3,0.0,1979791317,David J. DeWitt,0,-0.1156577426431432,-0.2566105852302986
+2143100570,Covering indexes for branching path queries,2002,17,298,3,0.0,665840641,Henry F. Korth,0,0.18341149365638526,-0.10367273279934497
+2116469285,Efficiently incorporating user feedback into information extraction and integration programs,2009,35,44,2,0.0,2010693292,Ba Quy Vuong,0,0.0007211139865546853,0.6474242532421024
+2110631345,Shoring up persistent applications,1994,24,401,5,0.0,150220220,Odysseas G. Tsatalos,0,-0.15439584752321023,0.46142759199380223
+2107907225,XML-to-SQL Query Translation Literature The State of the Art and Open Problems,2003,47,127,1,1.0,2075622585,Jeffrey F. Naughton,0,2.087678226600101,-0.8150750996661499
+2107928811,Transaction reordering with application to synchronized scans,2008,21,5,3,0.486094,881593860,Curt J. Ellmann,0,1.6715737069863008,1.6625085333345928
+2110970879,Unraveling the duplicate-elimination problem in XML-to-SQL query translation,2004,20,6,1,1.0,2075622585,Jeffrey F. Naughton,0,0.6306909558940288,-0.03977489347595848
+2107966677,Corleone hands-off crowdsourcing for entity matching,2014,32,115,1,1.0,2075622585,Jeffrey F. Naughton,0,1.0008187564384776,0.45265008264477036
+2143852486,Toward scalable keyword search over relational data,2010,26,44,1,1.0,2075622585,Jeffrey F. Naughton,0,0.13564313730626654,-0.0602562688584537
+2140894225,Evaluating window joins over unbounded streams,2003,43,345,2,1.0,335360864,Stratis D. Viglas,0,1.1310687007391422,0.10789717900370344
+2144113062,XML views as integrity constraints and their use in query translation,2005,14,3,1,1.0,2075622585,Jeffrey F. Naughton,0,1.7643833837608238,-0.5219482616411734
+2153231596,Toward a progress indicator for database queries,2004,16,103,3,0.516143,881593860,Curt J. Ellmann,0,1.5543947273310053,-0.13411353203922358
+2165286227,Relational Databases for Querying XML Documents Limitations and Opportunities,1999,18,965,4,0.0,1979791317,David J. DeWitt,0,2.2264543832113666,-0.864750789273662
+2156184447,Updates for structure indexes,2002,13,40,3,0.0,2003419062,Philip Bohannon,0,0.43877088346148757,-0.2816550417118538
+2159240999,K-relevance a spectrum of relevance for data sources impacting a query,2007,19,2,1,1.0,2075622585,Jeffrey F. Naughton,0,1.035135488971008,0.14173615725025357
+2144416276,Declarative information extraction using datalog with embedded extraction predicates,2007,27,170,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.020741885968730802,0.3259025471635102
+2150528099,Integrating databases and workflow systems,2005,22,41,2,0.0,1979791317,David J. DeWitt,0,1.1010471442846226,1.0209939125875838
+2171668176,Clustera an integrated computation and data management system,2008,16,100,4,0.0,1979677356,Joshua Royalty,0,0.7930353279192875,0.15373505144008456
+2145055832,Extending RDBMSs To Support Sparse Datasets Using An Interpreted Attribute Storage Format,2006,16,85,2,1.0,2040370899,Alan Halverson,0,1.8923382947380603,0.15279908279618776
+2160091496,Design and evaluation of alternative selection placement strategies in optimizing continuous queries,2002,25,103,2,0.0,1979791317,David J. DeWitt,0,-0.0041099411153885,0.0447066884760059
+2184386734,Transaction Reordering and Grouping for Continuous,2007,13,0,3,0.502314,881593860,Curt J. Ellmann,0,1.218471576039743,0.5328633078217134
+2151454464,Synopses for query optimization a space-complexity perspective,2004,46,9,1,1.0,2075622585,Jeffrey F. Naughton,0,0.014532710543751099,0.030944858938630852
+2187283229,Techniques for operational data warehousing,2004,34,1,1,1.0,2075622585,Jeffrey F. Naughton,0,1.622822428578727,0.8634758505094429
+2148608412,Efficient XML-to-SQL query translation where to add the intelligence ,2004,23,47,1,1.0,2075622585,Jeffrey F. Naughton,0,0.8768455467689253,-0.2819512759975116
+2151663987,A non-blocking parallel spatial join algorithm,2002,21,47,2,0.641026,881593860,Curt J. Ellmann,0,0.8882708827480558,0.09351820345971469
+2145676903,Uncertainty aware query execution time prediction,2014,44,13,1,1.0,2075622585,Jeffrey F. Naughton,0,0.014532710543751099,0.030944858938630852
+2166709576,On the provenance of non-answers to queries over extracted data,2008,28,129,1,1.0,2075622585,Jeffrey F. Naughton,0,0.43739842239757626,0.009947045888208002
+2154729038,Preventing equivalence attacks in updated anonymized data,2011,28,32,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+2169807798,Transaction reordering with application to synchronized scans,2008,20,0,3,0.486094,881593860,Curt J. Ellmann,0,1.6715737069863008,1.6625085333345928
+2163834250,Static optimization of conjunctive queries with sliding windows over infinite streams,2004,33,103,2,0.0,1996234780,Ahmed M. Ayad,0,0.8106165155420891,0.1145026911732661
+2149728808,A comparison of three methods for join view maintenance in parallel RDBMS,2003,3,18,3,0.641026,881593860,Curt J. Ellmann,0,1.504390559527016,0.5012094392519764
+2146750584,Database support for matching limitations and opportunities,2006,20,9,2,0.0,1979791317,David J. DeWitt,0,1.0959701205844676,0.1907969066581328
+2185719260,Cost estimation techniques for database systems,2002,64,0,2,1.0,2066833720,Ashraf Aboulnaga,0,0.955332857778924,-0.08083748424685486
+2161755773,Form-Based Proxy Caching for Database-Backed Web Sites,2001,23,90,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+2215987640,Resource bricolage for parallel database systems,2014,33,10,1,1.0,2075622585,Jeffrey F. Naughton,0,2.0145311973095636,0.6414223318909664
+2292590056,Demonstration of Santoku optimizing machine learning over normalized data,2015,4,10,1,1.0,2075622585,Jeffrey F. Naughton,0,0.18601297105691045,-0.0008472885667257998
+2293133410,On Debugging Non-Answers in Keyword Search Systems,2015,19,9,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.1894949563118795,-0.11661687146452589
+2295786558,On Transactional Memory Spinlocks and Database Transactions,2010,17,9,2,0.0,1548171544,Spyros Blanas,0,1.1271282857640705,1.5521010583087655
+2357449897,Model Selection Management Systems The Next Frontier of Advanced Analytics,2016,17,54,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+2398396522,Toward Progress Indicators on Steroids for Big Data Systems,2013,15,7,1,1.0,2075622585,Jeffrey F. Naughton,0,0.06635930819191084,0.49152641060504293
+2424452828,Sampling-Based Query Re-Optimization,2016,37,13,1,1.0,2075622585,Jeffrey F. Naughton,0,0.014532710543751099,0.030944858938630852
+2471647135,Active Query caching for database Web servers,2001,0,28,1,1.0,2075622585,Jeffrey F. Naughton,0,-2.0404333151246394,-1.5178615291229873
+2444650685,To Join or Not to Join Thinking Twice about Joins before Feature Selection,2016,43,41,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.008845808758036292,-0.14287229074104893
+2472413737,Resource Bricolage for Parallel DBMSs on Heterogeneous Clusters,2016,36,0,1,1.0,2075622585,Jeffrey F. Naughton,0,1.4311056192458385,0.4567649621797303
+2460487701,Technical Perspective Broadening and Deepening Query Optimization Yet Still Making Progress,2016,0,0,1,1.0,2075622585,Jeffrey F. Naughton,0,0.014532710543751099,0.030944858938630852
+2468703436,Resource bricolage and resource selection for parallel database systems,2017,41,1,1,1.0,2075622585,Jeffrey F. Naughton,0,1.4311056192458385,0.4567649621797303
+2434702933,Operator and Query Progress Estimation in Microsoft SQL Server Live Query Statistics,2016,28,11,2,0.0,2057455714,Vivek Narasayya,0,-0.009286205477240031,0.31884252518660783
+2526506803,Supporting match joins in relational database management systems,2007,0,0,1,1.0,2075622585,Jeffrey F. Naughton,0,1.0194683806362603,-0.751564453544034
+2506804715,Technical Perspective Natural Language to SQL Translation by Iteratively Exploring a Middle Ground,2016,0,1,1,1.0,2075622585,Jeffrey F. Naughton,0,0.8266483623517606,0.18931489170830365
+2563724055,Towards linear algebra over normalized data,2017,31,23,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.14809011088996135,0.637900382806888
+2546672044,Magellan toward building entity matching management systems over data science stacks,2016,6,8,1,1.0,2075622585,Jeffrey F. Naughton,0,0.18601297105691045,-0.0008472885667257998
+2604399864,Towards Interactive Debugging of Rule-based Entity Matching,2017,13,5,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+2612526608,Falcon Scaling Up Hands-Off Crowdsourced Entity Matching to Build Cloud Services,2017,50,27,1,1.0,2075622585,Jeffrey F. Naughton,0,0.4894165127559078,0.26021367434557957
+2890351236,Technical Perspective Toward Building Entity Matching Management Systems,2018,28,0,1,1.0,2075622585,Jeffrey F. Naughton,0,0.18601297105691045,-0.0008472885667257998
+2913755569,On interpreting and debugging results of database queries over imprecise data,2008,0,0,1,1.0,2075622585,Jeffrey F. Naughton,0,0.11442496964914847,0.0012760454105846114
+2911720144,Transaction reordering,2010,34,8,3,0.475811,881593860,Curt J. Ellmann,0,0.8524890285379647,0.5342639727689995
+2952591299,The Lowell Database Research Self Assessment,2003,5,5,16,0.0,172400696,Serge Abiteboul,0,-0.40975864434508047,0.2110873139452707
+2949146102,The Asilomar Report on Database Research,1998,0,5,9,1.0,225366896,Michael Lesk,0,-0.0041099411153885,0.0447066884760059
+2964068340,The Case for a Structured Approach to Managing Unstructured Data,2009,0,13,3,0.0,1991224182,Pedro DeRose,0,0.2348296109080441,0.5983314430800298
+2999385019,Session details Distributed data management,2007,0,0,1,1.0,2075622585,Jeffrey F. Naughton,0,0.09792081139489921,-0.20185494220053957

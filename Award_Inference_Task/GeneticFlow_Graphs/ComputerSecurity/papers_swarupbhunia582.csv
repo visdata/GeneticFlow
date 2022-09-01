@@ -1,0 +1,63 @@
+18946789,Hardware security through design obfuscation,2010,48,5,1,0,2093524222,Swarup Bhunia,0,0.48708554250053465,0.1729263280889967
+1544758679,Guest Editorial Special Section on Hardware Security and Trust,2015,0,2,4,0,270906047,Farinaz Koushanfar,0,0.7080126202448255,0.2558709435064847
+1597111093,Collaborative Trust A Novel Paradigm of Trusted Mobile Computing,2010,7,0,2,0,125766204,Tatini Mal Sarkar,0,-0.2409708778803155,0.7725575098058282
+1981936968,Tutorial T2 Validation and Debug of Security and Trust Issues in Embedded Systems,2015,0,0,1,0,2093524222,Swarup Bhunia,0,-0.8690516025561297,2.606874648563502
+1976955200,Hardware Trojan Attacks Threat Analysis and Countermeasures,2014,65,288,2,0,2043287422,Mainak Banga,0,-0.38255304449527083,0.4837079977801627
+1972258690,Special session 11B Hot topic hardware security Design test and verification issues,2010,0,0,2,0,1992871312,Anand Raghunathan,0,-0.39075250893322167,0.9947955730760306
+1977931506,A Flexible Architecture for Systematic Implementation of SoC Security Policies,2015,19,26,1,0,2093524222,Swarup Bhunia,0,-0.9961554605137364,2.840322487283476
+1971060765,Secure and Trusted SoC Challenges and Emerging Solutions,2013,9,2,2,0,162736191,Sanchita Mal Sarkar,0,-0.18618689656946605,0.637946401295037
+1993596702,Tutorial T4 Intellectual Property Protection and Security in System-on-Chip Design,2012,0,3,1,0,2093524222,Swarup Bhunia,0,0.059437869684232786,0.2879731375549923
+2027314395,How Secure Are Printed Circuit Boards Against Trojan Attacks,2015,8,22,1,0,2093524222,Swarup Bhunia,0,-0.6437335338196334,0.8185635549120966
+2067569648,IIPS Infrastructure IP for Secure SoC Design,2015,32,25,1,0,2093524222,Swarup Bhunia,0,-0.6349817993125167,-0.00980583850237148
+2101528158,Protection Against Hardware Trojan Attacks Towards a Comprehensive Solution,2013,16,83,4,0,338385282,Jim Plusquellic,0,-0.026206513418778887,0.419537429032515
+2120912790,Hardware Trojan Threats and emerging solutions,2009,31,227,1,0,2093524222,Swarup Bhunia,0,-0.7033540044832832,0.7675457796340245
+2109346534,KiMS Kids Health Monitoring System at day-care centers using wearable sensors and vocabulary-based acoustic signal processing,2011,7,15,1,0,2093524222,Swarup Bhunia,0,0.0040557659796233,0.2757546058061082
+2106366482,Towards trojan-free trusted ICs problem analysis and detection scheme,2008,7,226,2,0,1975847825,Chris Papachristou,0,-0.7033540044832832,0.7675457796340245
+2156256511,Security Against Hardware Trojan Attacks Using Key-Based Design Obfuscation,2011,36,45,1,0,2093524222,Swarup Bhunia,0,-0.5951237624572678,0.8074821531598335
+2183561717,Hardware Trojan Threats and Emerging Solutions (Invited Paper),2009,28,0,1,0,2093524222,Swarup Bhunia,0,-1.1218826955609247,0.6658425665315273
+2153622528,Security against hardware Trojan through a novel application of design obfuscation,2009,7,129,1,0,2093524222,Swarup Bhunia,0,-0.12396880240191817,0.4742286832399488
+2187287492,Embedded software security through key-based control flow obfuscation,2011,25,5,1,0,2093524222,Swarup Bhunia,0,-0.9548232314784869,0.21085268014457115
+2182559810,Hardware Trojan Attacks Threat Analysis and Countermeasures paper is a survey of the state-of-the-art Trojan attacks modeling,2014,63,0,2,0,2043287422,Mainak Banga,0,-0.29651030746739243,0.564915365789972
+2165172455,Multi-level attacks An emerging security concern for cryptographic hardware,2011,6,25,1,0,2093524222,Swarup Bhunia,0,-0.06486481769607728,-0.26293601233576397
+2298907189,Obfuscation-Based Secure SoC Design for Protection Against Piracy and Trojan Attacks,2016,31,0,1,0,2093524222,Swarup Bhunia,0,0.23919939420231362,0.542574337641491
+2344608727,PCB AUTHENTICATION AND COUNTERFEIT DETECTION,2016,6,5,1,0,2093524222,Swarup Bhunia,0,-0.5530861437885858,-0.004176666300269333
+2398721570,Security validation in IoT space,2016,0,7,2,0,1976116216,Mark Tehranipoor,0,-0.2539518222831757,0.5308297450421682
+2399378219,Active protection against PCB physical tampering,2016,9,6,1,0,2093524222,Swarup Bhunia,0,-0.33653707263492594,0.4231483265719607
+2464661970,Hardware Trojans Lessons Learned after One Decade of Research,2016,72,121,2,0,1976116216,Mark Tehranipoor,0,-0.6943917961479381,0.5799568245596789
+2529069954,SMA A System-Level Mutual Authentication for Protecting Electronic Hardware and Firmware,2017,26,7,2,0,1976116216,Mark Tehranipoor,0,-0.6759007611973411,0.1751715900979196
+2581206460,Security Validation in Modern SoC Designs,2017,32,3,1,0,2093524222,Swarup Bhunia,0,-0.3814488594219789,0.954304838804313
+2555696577,The power play Security-energy trade-offs in the IoT regime,2016,6,4,1,0,2093524222,Swarup Bhunia,0,-0.003961116578189002,0.8045641625279872
+2565846963,Security and Trust Vulnerabilities in Third-Party IPs,2017,13,3,2,0,1976116216,Mark Tehranipoor,0,-0.14482812733025527,0.4748672810667588
+2538977982,MERS Statistical Test Generation for Side-Channel Analysis based Trojan Detection,2016,22,41,1,0,2093524222,Swarup Bhunia,0,0.24424501063835521,0.31893572895665656
+2581963379,Security Assurance for System-on-Chip Designs With Untrusted IPs,2017,34,14,1,0,2093524222,Swarup Bhunia,0,-0.9089095349748799,0.8857005487823072
+2566491692,Hardware Protection through Obfuscation,2017,0,21,2,0,1976116216,Mark Tehranipoor,0,1.103371583480347,0.2286629850371633
+2562410774,Hardware IP Security and Trust,2017,0,17,2,0,1976116216,Mark Tehranipoor,0,-0.9122882760452055,0.3283227047626978
+2579893320,Fundamentals of IP and SoC Security,2017,0,2,1,0,2093524222,Swarup Bhunia,0,0.0040557659796233,0.2757546058061082
+2564565181,Introduction to Hardware Obfuscation Motivation Methods and Evaluation,2017,48,7,2,0,1976116216,Mark Tehranipoor,0,0.6534521977673559,0.14592684486666857
+2580468355,The Landscape of SoC and IP Security,2017,10,0,1,0,2093524222,Swarup Bhunia,0,-0.3686870693225581,0.33583137729812435
+2588382938,Security vulnerability analysis of design-for-test exploits for asset protection in SoCs,2017,22,14,3,0,1436274940,Adib Nahiyan,0,0.12263534222053925,0.05701363932573386
+2615608606,Comparative Analysis of Hardware Obfuscation for IP Protection,2017,31,7,2,0,1976116216,Mark Tehranipoor,0,1.3976999190494612,0.4626224347264008
+2612249859,A Security Perspective on Battery Systems of the Internet of Things,2017,40,2,2,0,362581078,Korosh Vatanparvar,0,0.08729465296300032,0.3967435939600327
+2593248466,A Uniquified Virtualization Approach to Hardware Security,2017,10,3,1,0,2093524222,Swarup Bhunia,0,1.0046458628771788,-0.1743665084829525
+2736971608,System-on-Chip Platform Security Assurance Architecture and Validation,2018,31,22,2,0,1976116216,Mark Tehranipoor,0,-1.3721930698182816,1.7734739921660752
+2753822843,Guest Editors Introduction Security of Beyond CMOS Devices Issues and Opportunities,2017,0,0,2,0,1514943864,Ozgur Sinanoglu,0,-0.04689812180702857,0.24231073930894773
+2759650140,ATAVE A framework for automatic timing attack vulnerability evaluation,2017,5,1,2,0,1976116216,Mark Tehranipoor,0,-0.17283563628935872,-0.5310750645143891
+2766832122,Patching the internet of things,2017,0,8,1,0,2093524222,Swarup Bhunia,0,-1.630944441871442,0.6713013935261808
+2794937993,Internet of Things security Are we paranoid enough ,2018,0,1,1,0,2093524222,Swarup Bhunia,0,0.0040557659796233,0.2757546058061082
+2806189576,Securing the Systems of the Future - Techniques for a Shifting Attack Space,2018,0,0,3,0,1729492221,Ioannis Savidis,0,0.1639362940477497,0.6530314529854678
+2800718906,Mixed-granular architectural diversity for device security in the Internet of Things,2017,18,0,1,0,2093524222,Swarup Bhunia,0,0.14216232661916506,0.13132199856197
+2905487031,An Adaptable System-on-Chip Security Architecture for Internet of Things Applications,2019,15,0,1,0,2093524222,Swarup Bhunia,0,-0.3383784544281044,0.15268826611744696
+2899634279,Test-Oriented Attacks,2019,0,0,2,0,1976116216,Mark Tehranipoor,0,0.0040557659796233,0.2757546058061082
+2899634399,Physical Attacks and Countermeasures,2019,0,0,2,0,1976116216,Mark Tehranipoor,0,0.0040557659796233,0.2757546058061082
+2899643976,Security and Trust Assessment and Design for Security,2019,0,0,2,0,1976116216,Mark Tehranipoor,0,0.0040557659796233,0.2757546058061082
+2899702912,System Level Attacks &amp; Countermeasures,2019,0,1,2,0,1976116216,Mark Tehranipoor,0,0.0040557659796233,0.2757546058061082
+2899918489,Attacks on PCB Security Challenges and Vulnerabilities,2019,0,0,2,0,1976116216,Mark Tehranipoor,0,0.0040557659796233,0.2757546058061082
+2900335544,Introduction to Hardware Security,2019,0,2,2,0,1976116216,Mark Tehranipoor,0,1.0046458628771788,-0.1743665084829525
+2897200221,E-IIPS A Centralized Policy Implementation Architecture,2019,12,0,1,0,2093524222,Swarup Bhunia,0,-0.3383784544281044,0.15268826611744696
+2897959636,Security Assurance in SoC in the Presence of Untrusted Components,2019,25,0,1,0,2093524222,Swarup Bhunia,0,-0.9053117267514902,0.8567668178211488
+2897962843,SoC Security Policies The State of the Practice,2019,15,0,1,0,2093524222,Swarup Bhunia,0,-1.021698153361222,0.8983847934879456
+2961977528,Special Session Countering IP Security threats in Supply chain,2019,59,1,1,0,2093524222,Swarup Bhunia,0,-0.7422439637816871,0.3185940411143821
+2946297851,Innovations in IoT for a Safe Secure and Sustainable Future,2019,0,0,1,0,2093524222,Swarup Bhunia,0,0.1822731046919942,0.706777145399998
+2945431591,The Metric Matters The Art of Measuring Trust in Electronics,2019,16,5,1,0,2093524222,Swarup Bhunia,0,0.6356482682799635,0.15791047188053062
+2973018006,INVITED The Metric Matters The Art of Measuring Trust in EIectronics,2019,14,0,1,0,2093524222,Swarup Bhunia,0,0.6356482682799635,0.15791047188053062
+3013911392,An Automated Framework for Board-level Trojan Benchmarking,2020,14,0,1,0,2093524222,Swarup Bhunia,0,0.06887957182581145,0.6233534058225634

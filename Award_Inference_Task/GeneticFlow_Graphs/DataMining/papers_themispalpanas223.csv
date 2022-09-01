@@ -1,0 +1,118 @@
+79791966,Online Distribution Estimation for Streaming Data Framework and Applications,2007,20,6,2,0.00741509,1656275121,Dimitrios Gunopulos,0,-0.09251865936599883,0.021825652919927496
+601602726,Defining and Measuring Data-Driven Quality Dimension of Staleness,2012,37,5,2,0.0,1888973094,Oleksiy Chayka,0,0.14816971503887824,-0.05104641269414826
+1480531070,Efficiently Discovering Recent Frequent Items in Data Streams,2008,26,16,1,1.0,2010554420,Themis Palpanas,0,-0.5715396691929069,1.440057709512057
+1561951894,Updating a data warehouse schema based on changes in an observation model,2011,19,27,2,0.120558,1989769784,George A. Mihaila,0,-1.0966367456958048,0.3829664283937442
+1574795525,Scalable similarity matching in streaming time series,2012,24,10,1,1.0,2010554420,Themis Palpanas,0,-0.3862994781077875,0.14674763215251319
+1838146103,Entity ranking using click-log information,2013,44,13,2,0.0,90690466,Yannis Velegrakis,0,0.43162625009792,0.20195636031746017
+1595315929,From web data to entities and back,2010,31,11,8,0.0,97554316,Hristo Koshutanski,0,0.8696742881958575,-2.2895981690576406
+1580890911,Knowledge Mining for the Business Analyst,2008,19,1,2,0.0,98821490,Jakka Sairamesh,0,0.2451885791062148,0.25531884473070626
+1651179339,SRF a framework for the study of classifier behavior under training set mislabeling noise,2012,20,2,2,1.0,250322829,Katsiaryna Mirylenka,0,0.6434121888871359,0.94834943656775
+1777389131,RINSE interactive data series exploration with ADS+,2015,18,21,1,1.0,2010554420,Themis Palpanas,0,-0.22205240695846498,-0.13090750934943304
+1601323158,A Conceptual Model for a Web-Scale Entity Name System,2009,11,19,3,0.0,1978264196,Massimiliano Vignolo,0,0.9132308738135778,-1.8954048290577947
+1969724690,Maximizing the sustained throughput of distributed continuous queries,2006,42,80,3,0.47619,1965523549,Ioana Stanoi,0,-0.31466150460658404,-0.030238578275574052
+1965741190,Finding interesting correlations with conditional heavy hitters,2013,31,7,2,1.0,250322829,Katsiaryna Mirylenka,0,0.05257001778875425,0.35428100920712297
+1967855894,Towards a Framework for Detecting and Managing Opinion Contradictions,2011,10,2,2,1.0,18896700,Mikalai Tsytsarau,0,0.3519317286583251,0.19465203886557153
+1997741691,Indexing for interactive exploration of big data series,2014,35,56,1,1.0,2010554420,Themis Palpanas,0,0.18295964764023648,0.3362957014110209
+1993112838,Node classification in uncertain graphs,2014,27,7,2,1.0,309381702,Michele Dallachiesa,0,0.003708468606338,0.082832279151172
+1991372867,Diverse Dimension Decomposition of an Itemset Space,2011,23,2,3,1.0,18896700,Mikalai Tsytsarau,0,0.003708468606338,0.082832279151172
+1995163086,Identifying streaming frequent items in ad hoc time windows,2013,42,12,2,1.0,309381702,Michele Dallachiesa,0,-0.06425668287291432,0.14183353793514666
+1988431231,Revisiting the effect of history on learning performance the problem of the demanding lord,2013,59,4,1,1.0,2010554420,Themis Palpanas,0,-0.687720026834671,3.4797157868375854
+2009662548,Similarity matching for uncertain time series analytical and experimental comparison,2011,23,11,4,1.0,250322829,Katsiaryna Mirylenka,0,-0.24024809524167162,0.1490530331695288
+1990591351,Query Workloads for Data Series Indexes,2015,37,15,1,1.0,2010554420,Themis Palpanas,0,-0.2628711549597703,0.08630019383395121
+2028020839,Beyond one billion time series indexing and mining very large time series collections with $$i$$ SAX2+,2014,34,54,3,0.0,141314290,Thanawin Rakthanmanon,0,-0.13275296294680305,-0.071629888206014
+2026645199,Searching with XQ the exemplar query search engine,2014,7,12,3,0.0,90690466,Yannis Velegrakis,0,-0.01657107088421793,0.035389748403282274
+2014426342,Diverse dimension decomposition for itemset spaces,2012,22,1,3,1.0,18896700,Mikalai Tsytsarau,0,0.003708468606338,0.082832279151172
+2073539176,Eliminating the redundancy in blocking-based entity resolution methods,2011,28,38,2,0.696759,1820140241,Claudia NiederÃ©e,0,0.37885295677664915,-0.04093893149440462
+2070556972,dbTrento the data and information management group at the University of Trento,2012,56,4,2,0.0394358,90690466,Yannis Velegrakis,0,-0.4214900847557786,-0.04252657928626697
+2102793094,Unleashing the Power of Information Graphs,2015,27,5,4,0.0,90690466,Yannis Velegrakis,0,0.2353162648138094,0.228350730718198
+2079136461,Frequent items in streaming data An experimental evaluation of the state-of-the-art,2009,25,70,1,1.0,2010554420,Themis Palpanas,0,-0.29917783543354576,0.18780240697051775
+2095223629,Practical Data Prediction for Real-World Wireless Sensor Networks,2015,40,72,3,1.0,197289954,Alessandro Camerra,0,0.19181829812446408,0.0024183678884191345
+2079649893,Meta-Blocking Taking Entity Resolutionto the Next Level,2014,34,59,1,1.0,2010554420,Themis Palpanas,0,0.37885295677664915,-0.04093893149440462
+2101286027,Using datacube aggregates for approximate querying and deviation detection,2005,38,34,2,0.0,1969282344,Alberto O. Mendelzon,0,0.4073753371264999,0.2384291955377412
+2101590868,Sliding windows over uncertain data streams,2015,53,14,4,1.0,309381702,Michele Dallachiesa,0,-0.6479997159341616,0.47701961100045714
+2092433005,IQR an interactive query relaxation system for the empty-answer problem,2014,7,11,2,0.0,90690466,Yannis Velegrakis,0,0.003708468606338,0.082832279151172
+2123257880,Streaming Time Series Summarization Using User-Defined Amnesic Functions,2008,39,54,2,0.0,1656275121,Dimitrios Gunopulos,0,-0.13275296294680305,-0.071629888206014
+2120400822,Survey on mining subjective data on the web,2012,97,224,2,1.0,18896700,Mikalai Tsytsarau,0,0.0543560053057273,0.32197044279799486
+2114734227,Efficient sentiment correlation for large-scale demographics,2013,19,12,3,1.0,18896700,Mikalai Tsytsarau,0,0.14488302093890204,0.05440400738931436
+2111966955,Scalable discovery of contradictions on the web,2010,6,29,2,1.0,18896700,Mikalai Tsytsarau,0,0.3519317286583251,0.19465203886557153
+2106154221,Conditional heavy hitters detecting interesting correlations in data streams,2015,39,13,2,1.0,250322829,Katsiaryna Mirylenka,0,-0.38172080044749523,0.2059860531142202
+2115366404,Online amnesic approximation of streaming time series,2004,29,149,2,0.0099421,1656275121,Dimitrios Gunopulos,0,-0.13275296294680305,-0.071629888206014
+2127210827,Efficient Top-k Approximate Subtree Matching in Small Memory,2011,26,14,2,0.0,113607873,Nikolaus Augsten,0,0.7290773825604511,0.8120243052947966
+2124281878,Exemplar queries give me an example of what you need,2014,39,53,3,0.0,90690466,Yannis Velegrakis,0,-0.1984714131877254,-0.08331523624254955
+2122233046,Uncertain time-series similarity return to the basics,2012,29,42,4,1.0,250322829,Katsiaryna Mirylenka,0,-0.10444265827872458,0.19087627499320522
+2107653048,WhiteWater Distributed Processing of Fast Streams,2007,29,12,3,0.47619,1965523549,Ioana Stanoi,0,-0.3397193691124173,-0.0011523982524002524
+2113723748,Entropy based approximate querying and exploration of datacubes,2001,23,18,2,0.0,335443309,Nick Koudas,0,0.003708468606338,0.082832279151172
+2137630814,Dynamics of news events and social media reaction,2014,16,38,2,1.0,18896700,Mikalai Tsytsarau,0,0.4016211283503169,0.3015472128073557
+2114111337,Entity Data Management in OKKAM,2008,28,14,3,0.0,10227546,Periklis Andritsos,0,0.2710538723066781,-0.9283835466488501
+2153610999,Online outlier detection in sensor data using non-parametric models,2006,43,309,2,0.0099421,1656275121,Dimitrios Gunopulos,0,-0.09251865936599883,0.021825652919927496
+2171957117,Self-Organizing Energy Aware Clustering of Nodes in Sensor Networks Using Relevant Attributes,2010,24,13,2,0.0,294682269,Pascal Spaus,0,-0.5309732920220693,1.5544911448506813
+2148049070,The Entity Name System Enabling the web of entities,2010,18,2,2,0.571429,1994122429,Heiko Stoermer,0,0.30064927711233413,-1.1051384723255013
+2163616098,To compare or not to compare making entity resolution more efficient,2011,12,11,2,0.696759,1820140241,Claudia NiederÃ©e,0,0.39938572656737104,0.09292191898887531
+2157734198,Ranked join indices,2003,16,91,2,0.0,306802008,Yannis Kotidis,0,-0.49479282780800954,0.9310169313785638
+2152502401,A Blocking Framework for Entity Resolution in Highly Heterogeneous Information Spaces,2013,32,78,2,0.753307,1820140241,Claudia NiederÃ©e,0,-0.1895926259661624,0.25423844232575105
+2158418361,Beyond 100 million entities large-scale blocking-based resolution for heterogeneous data,2012,25,42,2,0.753307,1820140241,Claudia NiederÃ©e,0,0.39938572656737104,0.09292191898887531
+2170684356,Towards a general entity representation model,2009,28,12,3,0.0,1914681092,Barbara Bazzanella,0,0.5752548991715996,-1.43533413902643
+2161621125,iSAX 20 Indexing and Mining One Billion Time Series,2010,24,126,2,1.0,197289954,Alessandro Camerra,0,-0.13275296294680305,-0.071629888206014
+2149732866,Strategic Management for Real-Time Business Intelligence,2012,33,9,2,0.0,1996603815,Konstantinos Zoumpatianos,0,0.2793209244597421,0.2512814502374673
+2152840937,Space constrained selection problems for data warehouses and pervasive computing,2003,25,3,2,0.0,1969282344,Alberto O. Mendelzon,0,0.38214098142897673,0.2946089929912103
+2152868984,A probabilistic optimization framework for the empty-answer problem,2013,23,37,2,0.0,90690466,Yannis Velegrakis,0,-0.1029618939806145,0.040434369851773004
+2165155793,The Effect of History on Modeling Systems Performance The Problem of the Demanding Lord,2010,31,4,1,1.0,2010554420,Themis Palpanas,0,-0.7729010107912714,2.5100806763746912
+2220068700,Report on the First International Workshop on Personal Data Analytics in the Internet of Things (PDA@IOT 2014),2015,0,1,2,0.0,55450124,Vassilis Christophides,0,-0.12834070016189877,0.12165189647419601
+2266934531,Data Series Management The Road to Big Sequence Analytics,2015,31,24,1,1.0,2010554420,Themis Palpanas,0,-0.04140041976719083,0.2003235620514789
+2216499221,Parallel meta-blocking Realizing scalable entity resolution over large heterogeneous data,2015,20,22,2,0.0,1975499546,Kostas Stefanidis,0,0.12492345808765674,0.23414093372237493
+2288692534,Fine-Grained Geolocalisation of Non-Geotagged Tweets,2015,26,12,1,1.0,2010554420,Themis Palpanas,0,-0.029610632359880602,-0.13733013755415546
+2292011317,Top-k nearest neighbor search in uncertain data series,2014,30,33,3,1.0,309381702,Michele Dallachiesa,0,0.15011497953684425,0.13908440388466345
+2398333000,Scaling Entity Resolution to Large Heterogeneous Data with Enhanced Meta-blocking,2016,27,23,1,1.0,2010554420,Themis Palpanas,0,0.35574494103515925,0.11535012456367875
+2404779194,Density-based Projected Clustering over High Dimensional Data Streams,2012,22,54,3,0.0,242745652,Arthur Zimek,0,-0.3394240906228752,1.2378106158588456
+2399361902,Comparative analysis of approximate blocking techniques for entity resolution,2016,29,51,1,1.0,2010554420,Themis Palpanas,0,0.39082463933661843,0.24173490652202423
+2405230789,Characterizing Home Device Usage From Wireless Traffic Time Series,2016,28,7,4,0.0,55450124,Vassilis Christophides,0,-0.3473793728160243,0.24861357896709396
+2439212191,A holistic and principled approach for the empty-answer problem,2016,51,1,2,0.0,90690466,Yannis Velegrakis,0,-0.01657107088421793,0.035389748403282274
+2441805796,Blocking for large-scale Entity Resolution Challenges algorithms and practical examples,2016,35,8,1,1.0,2010554420,Themis Palpanas,0,0.20637163230746786,-0.1505990734921283
+2499094367,Managing Diverse Sentiments at Large Scale,2016,23,6,2,1.0,18896700,Mikalai Tsytsarau,0,-0.11780134565558767,0.1443282406977508
+2434242521,Data series management The next challenge,2016,45,5,1,1.0,2010554420,Themis Palpanas,0,-0.16120023132313624,0.1408174136681086
+2501364796,Exemplar queries a new way of searching,2016,54,24,3,0.0,90690466,Yannis Velegrakis,0,0.12378398405320658,0.12951993650867322
+2529367823,Boosting the Efficiency of Large-Scale Entity Resolution with Enhanced Meta-Blocking,2016,26,10,1,1.0,2010554420,Themis Palpanas,0,0.35574494103515925,0.11535012456367875
+2559809785,On classifier behavior in the presence of mislabeling noise,2017,56,4,2,1.0,250322829,Katsiaryna Mirylenka,0,0.6001858203466626,1.0738032355845502
+2559870814,Parallel meta-blocking for scaling entity resolution over big heterogeneous data,2017,43,32,2,0.0,1975499546,Kostas Stefanidis,0,0.003708468606338,0.082832279151172
+2513211580,ADS the adaptive data series index,2016,62,22,1,1.0,2010554420,Themis Palpanas,0,0.37359501846840615,0.29799365669680655
+2519587687,Error-tolerant Exemplar Queries on RDF Graphs,2016,15,0,2,0.0,272765103,Davood Rafiei,0,0.003708468606338,0.082832279151172
+2623413278,Data Series Similarity Using Correlation-Aware Measures,2017,45,3,3,1.0,250322829,Katsiaryna Mirylenka,0,-0.31530834887777326,0.1444660764187086
+2604912483,Correlation-Aware Distance Measures for Data Series,2017,12,3,3,1.0,250322829,Katsiaryna Mirylenka,0,0.003708468606338,0.082832279151172
+2771135328,TweeLoc A System for Geolocalizing Tweets at Fine-Grain,2017,14,2,1,1.0,2010554420,Themis Palpanas,0,-0.1903446618531494,0.35206059539303214
+2771142648,Efficient Error-tolerant Search on Knowledge Graphs,2016,25,0,2,0.0,272765103,Davood Rafiei,0,0.003708468606338,0.082832279151172
+2771365767,Multi-core Meta-blocking for Big Linked Data,2017,27,8,2,0.0,1973640594,Konstantina Bereta,0,0.09710733274441903,0.23563798149408277
+2753739231,New trends on exploratory methods for data analytics,2017,38,12,3,0.0,90690466,Yannis Velegrakis,0,-0.041581413997176915,0.21536868795635664
+2766751560,DPiSAX Massively Distributed Partitioned iSAX,2017,21,10,2,0.0,295546380,Reza Akbarinia,0,-0.7595252573896274,-0.25223159197881856
+2754923716,Mining of composite patterns across multiple multidimensional data sources,2017,14,0,2,0.0,1989969217,Olivier Verscheure,0,-0.12165679878140126,0.33964057635594314
+2798290452,Matrix Profile X VALMOD - Scalable Discovery of Variable-Length Motifs in Data Series,2018,55,16,1,1.0,2010554420,Themis Palpanas,0,0.003708468606338,0.082832279151172
+2798421897,VALMOD A Suite for Easy and Exact Detection of Variable Length Motifs in Data Series,2018,7,4,1,1.0,2010554420,Themis Palpanas,0,0.003708468606338,0.082832279151172
+2794911547,ULISSE ULtra Compact Index for Variable-Length Similarity Search in Data Series,2018,24,7,1,1.0,2010554420,Themis Palpanas,0,-0.22205240695846498,-0.13090750934943304
+2795075876,Multi-Example Search in Rich Information Graphs,2018,35,6,3,0.0,90690466,Yannis Velegrakis,0,0.1231549335056549,0.051544081604491046
+2795151173,Schema-Agnostic Progressive Entity Resolution,2018,26,1,2,0.0,2000741701,Sonia Bergamaschi,0,0.34865561606312195,0.10404786104140372
+2795208716,Coconut a scalable bottom-up approach for building data series indexes,2018,41,12,2,0.0,1883547888,Haridimos Kondylakis,0,0.003708468606338,0.082832279151172
+2883014178,Generating data series query workloads,2018,45,3,2,0.0,1970185894,Ioana Ileana,0,-0.22205240695846498,-0.13090750934943304
+2889230362,X2Q your personal example-based graph explorer,2018,0,7,3,0.0,90690466,Yannis Velegrakis,0,0.003708468606338,0.082832279151172
+2889353337,The return of jedAI end-to-end entity resolution for structured and semi-structured data,2018,0,8,1,1.0,2010554420,Themis Palpanas,0,-0.586507356291209,0.12609519345022938
+2909272539,Improving Classification Quality in Uncertain Graphs,2019,51,0,2,1.0,309381702,Michele Dallachiesa,0,0.2923539566265528,-0.25932245415942073
+2902708880,The lernaean hydra of data series similarity search an experimental evaluation of the state of the art,2018,0,9,1,1.0,2010554420,Themis Palpanas,0,-0.1984714131877254,-0.08331523624254955
+2896497283,Scalable variable-length similarity search in data series the ULISSE approach,2018,0,5,1,1.0,2010554420,Themis Palpanas,0,-0.1984714131877254,-0.08331523624254955
+2914343162,ParIS The Next Destination for Fast Data Series Indexing and Query Answering,2018,36,6,2,1.0,1705905461,Panagiota Fatourou,0,-0.13275296294680305,-0.071629888206014
+2900440391,Massively Distributed Time Series Indexing and Querying,2020,26,7,2,0.0,295546380,Reza Akbarinia,0,-0.13275296294680305,-0.071629888206014
+2951614812,Node Classification in Uncertain Graphs,2014,26,0,2,1.0,309381702,Michele Dallachiesa,0,0.21438872843298346,-0.1353423822296997
+2946457832,End-to-End Entity Resolution for Big Data A Survey,2019,217,4,3,0.0,55450124,Vassilis Christophides,0,0.18279432782599728,-0.05272937852497274
+2946741276,Schema-Agnostic Progressive Entity Resolution,2019,32,6,2,0.0,2000741701,Sonia Bergamaschi,0,0.319209443213098,0.20538327914031176
+2952202069,Uncertain Time-Series Similarity Return to the Basics,2012,26,0,4,1.0,250322829,Katsiaryna Mirylenka,0,-0.10444265827872458,0.19087627499320522
+2948277474,Exploring the Data Wilderness through Examples,2019,50,1,3,0.0,90690466,Yannis Velegrakis,0,0.12196799615855122,0.5339222076053307
+2946031341,A Survey of Blocking and Filtering Techniques for Entity Resolution,2019,150,2,1,1.0,2010554420,Themis Palpanas,0,0.319209443213098,0.20538327914031176
+2998655947,Return of the Lernaean Hydra Experimental Evaluation of Data Series Approximate Similarity Search,2019,0,2,1,1.0,2010554420,Themis Palpanas,0,-0.1984714131877254,-0.08331523624254955
+2986075714,Local Similarity Search on Geolocated Time Series Using Hybrid Indexing,2019,17,0,4,0.0,1924801540,Spiros Skiadopoulos,0,-0.22205240695846498,-0.13090750934943304
+2967756136,Local Pair and Bundle Discovery over Co-Evolving Time Series,2019,29,1,4,0.0,1924801540,Spiros Skiadopoulos,0,0.003708468606338,0.082832279151172
+3000250206,Blocking and Filtering Techniques for Entity Resolution A Survey,2020,186,1,1,1.0,2010554420,Themis Palpanas,0,0.319209443213098,0.20538327914031176
+2975007889,Coconut sortable summarizations for scalable indexes over static and streaming data series,2019,74,3,2,0.0,1883547888,Haridimos Kondylakis,0,-0.3373261069266419,-0.1194649009260679
+3007475739,Domain- and Structure-Agnostic End-to-End Entity Resolution with JedAI,2020,26,0,1,1.0,2010554420,Themis Palpanas,0,0.35574494103515925,0.11535012456367875
+3007953154,ParIS+ Data Series Indexing on Multi-core Architectures,2020,0,2,2,1.0,1705905461,Panagiota Fatourou,0,-0.13275296294680305,-0.071629888206014
+3012511888,Blocking and Filtering Techniques for Entity Resolution A Survey,2020,130,0,1,1.0,2010554420,Themis Palpanas,0,0.35574494103515925,0.11535012456367875
+3020819267,Matrix profile goes MAD variable-length motif and discord discovery in data series,2020,73,0,1,1.0,2010554420,Themis Palpanas,0,0.003708468606338,0.082832279151172
+3012926578,Suggesting Graph-Query Expansions for Knowledge Graph Exploration,2020,0,0,3,0.0,90690466,Yannis Velegrakis,0,0.003708468606338,0.082832279151172
+3012968643,Entity Resolution Past Present and Yet-to-Come,2020,0,0,1,1.0,2010554420,Themis Palpanas,0,0.35574494103515925,0.11535012456367875
+3013609507,JedAI 3 beyond batch blocking-based Entity Resolution,2020,0,0,1,1.0,2010554420,Themis Palpanas,0,0.35574494103515925,0.11535012456367875

@@ -1,0 +1,121 @@
+35674612,Immutability specification and its applications Research Articles,2005,0,8,2,1.0,338445073,Igor Pechtchanski,0,-0.489984176716295,0.30539554623482945
+917487,Report on the Experimental Language X10,2006,10,23,13,0.0,696077761,Robert M. Fuhrer,0,-0.18890834387407374,0.09542721617537099
+207372786,Static Datarace Analysis for Multithreaded Object-Oriented Programs,2001,0,34,3,0.0,2107791442,Alexey Loginov,0,1.2532323329290393,-1.3963258141750272
+38098785,The Concurrent Collections Programming Model,2010,23,29,2,0.9965,2126514473,Kathleen Knobe,0,0.893824259636751,0.28587421576370664
+164226845,Reverse synthesis compilation for architectural research,1984,2,2,2,0.0,1965698830,John L. Hennessy,0,-0.8699390398647199,0.4645391306851748
+168456742,Reducing the Overhead of Compilation Delay,2000,0,2,4,1.0,2051741376,Chandra Krintz,0,-1.7690429024292602,-0.3217743344711874
+1524757839,The role of programming languages in future data-centric and net-centric applications,2006,10,0,2,0.638505,1822280541,Mukund Raghavachari,0,2.643092843088323,-0.2859973362434106
+1490039225,Subregion analysis and bounds check elimination for high level arrays,2011,28,5,3,0.547102,270422400,Zoran Budimlic,0,-1.1096433957741967,-0.19984283392161517
+1570651051,Automatic Verification of Determinism for Parallel Programs,2011,26,8,3,0.276202,39971648,Martin Vechev,0,-0.1164726804531344,0.019252515865476
+1570697292,Challenges in Code Optimization of Parallel Programs,2009,0,6,1,1.0,2164197688,Vivek Sarkar,0,-0.9525946788400448,-0.23553985602467004
+1516370789,Retargeting optimized code by matching tree patterns in directed acyclic graphs,1998,26,99,3,1.0,2100276174,Mauricio J. Serrano,0,-0.5329216547090535,-0.09346707136683896
+1491980118,A Concurrent Execution Semantics for Parallel Program Graphs and Program Dependence Graphs,1992,19,16,1,1.0,2164197688,Vivek Sarkar,0,-0.24880972303133786,0.11571946413810463
+1554380112,Optimized code restructuring of OS/2 executables,1995,7,1,4,1.0,2100276174,Mauricio J. Serrano,0,-0.41683447165493465,-0.8622570990143297
+1414648890,Optimized Execution of Fortran 90 Array Language on Symmetric Shared-Memory Multiprocessors,1998,16,3,1,1.0,2164197688,Vivek Sarkar,0,-0.8188287038432417,0.40558018814308194
+1494271578,JCUDA A Programmer-Friendly Interface for Accelerating Java Programs with CUDA,2009,19,118,2,1.0,2135945652,Max Grossman,0,-2.7791250273952794,-0.07931136437177716
+1577310002,Language Extensions in Support of Compiler Parallelization,2007,23,16,3,1.0,1266496794,Jun Shirako,0,-0.8538895462551652,0.4749240335395548
+1840747670,Optimizing array accesses in high productivity languages,2007,20,4,3,0.727442,270422400,Zoran Budimlic,0,-0.7191017285984713,0.05119476565797604
+1577894784,Dependence Analysis for Java,1999,14,39,5,1.0,338445073,Igor Pechtchanski,0,-1.2234204283619794,0.012070115338012919
+1587315765,Integrating Database and Programming Language Constraints,2003,17,0,4,0.0,300944089,Oded Shmueli,0,-0.9659226319016788,-0.4953219107459688
+1912722244,Unified Analysis of Array and Object References in Strongly Typed Languages,2000,18,53,3,0.9965,2126514473,Kathleen Knobe,0,-0.30726334677584644,0.03485518872483952
+1963584947,Comparing the usability of library vs language approaches to task parallelism,2010,19,12,3,0.604934,270422400,Zoran Budimlic,0,0.30659083267238374,-0.4045050495058637
+1690940307,PPPJ 2003 invited talk,2003,0,0,1,1.0,2164197688,Vivek Sarkar,0,-0.1164726804531344,0.019252515865476
+1646504961,An automatically partitioning compiler for SISAL,1989,0,8,1,1.0,2164197688,Vivek Sarkar,0,-0.4523755308022124,-0.09792222447996524
+1659325773,Folding of tagged single assignment values for memory-efficient parallelism,2012,11,9,2,1.0,119564951,Dragos Sbirlea,0,-0.8190442534811259,-0.2521337749592026
+1584993430,Automatic verification of determinism for structured parallel programs,2010,35,25,3,0.276202,39971648,Martin Vechev,0,-0.1127834831838852,0.217893252071281
+1966195122,Exploiting Implicit Parallelism in Dynamic Array Programming Languages,2014,14,0,2,1.0,2144555548,Shams Imam,0,-0.9911308379307076,-0.4830379014220926
+1966314718,POSCâ€”a partitioning and optimizing SISAL compiler,1990,24,27,2,0.0,2121949357,David Cann,0,-0.44869122900443015,-0.00015649039724540022
+1964647125,The JalapeÃ±o dynamic optimizing compiler for Java,1999,35,242,8,0.0,688802057,Vugranam C. Sreedhar,0,-2.5021834042306823,0.41905415939204876
+1978662106,Compile-time partitioning and scheduling of parallel programs,1986,15,138,2,0.0,1965698830,John L. Hennessy,0,-0.9780007110771296,-0.04748320493886435
+1977899806,Habanero-Java the new adventures of old X10,2011,35,172,4,1.0,1266496794,Jun Shirako,0,-0.62489873530038,0.37028813723731463
+1985029610,Instruction reordering for fork-join parallelism,1990,13,16,1,1.0,2164197688,Vivek Sarkar,0,-0.1164726804531344,0.019252515865476
+1986926028,Partitioning parallel programs for macro-dataflow,1986,7,89,2,0.0,1965698830,John L. Hennessy,0,-0.7236979234173431,-0.5356936831217557
+1987201304,DrHJ a lightweight pedagogic IDE for Habanero Java,2011,16,5,4,1.0,2004788006,Vincent CavÃ©,0,-2.241926589519409,-0.1530943316599458
+1997806454,Automatic partitioning of a program dependence graph into parallel tasks,1991,68,88,1,1.0,2164197688,Vivek Sarkar,0,-0.44869122900443015,-0.00015649039724540022
+2008438324,A comparative study of static and profile-based heuristics for inlining,2000,13,70,2,0.0,2163795084,Stephen J. Fink,0,-0.5759155407320096,-0.13097430236285962
+1998120323,Integrating task parallelism with actors,2012,28,37,2,1.0,2144555548,Shams Imam,0,0.04648363677289901,0.014256589596502089
+2008837617,Mapping a data-flow programming model onto heterogeneous platforms,2012,21,32,5,0.504648,270422400,Zoran Budimlic,0,0.11719688037197162,-0.0147660591945716
+2001865102,A simple and efficient implmentation approach for single assignment languages,1988,12,9,3,0.0,190482092,Kourosh Gharachorloo,0,-0.6782872953574595,-0.05531442762333083
+2007644437,Intermediate language extensions for parallelism,2011,32,21,2,1.0,2115689153,Jisheng Zhao,0,-0.14280408557686164,0.07909616675880682
+2011903918,The habanero multicore software research project,2009,13,47,7,0.727442,270422400,Zoran Budimlic,0,2.1901878477736823,-0.08249289203711777
+2013820880,DrHJ the cure to your multicore programming woes,2011,8,0,4,1.0,2004788006,Vincent CavÃ©,0,0.7678561913099207,-0.18117935905676436
+2019565705,Type inference for locality analysis of distributed data structures,2008,12,32,3,0.141096,1115548098,Rastislav Bodik,0,-0.4192577598482486,-0.6935838086196288
+2014377495,Dynamic optimistic interprocedural analysis a framework and an application,2001,24,42,2,1.0,338445073,Igor Pechtchanski,0,-0.45471712069381237,0.16320528099583806
+2032134678,Declarative aspects of memory management in the concurrent collections parallel programming model (abstract only),2009,0,2,5,0.727442,270422400,Zoran Budimlic,0,-0.6829540117647783,-0.3565708174095735
+2013433526,A Transformation Framework for Optimizing Task-Parallel Programs,2013,42,18,4,0.0,353300815,V. Krishna Nandivada,0,-0.9592275108309332,0.17310269178372156
+2041770003,Machine-Learning-based Performance Heuristics for Runtime CPU/GPU Selection,2015,26,16,4,0.0,1978876437,Gita Koblents,0,-2.4666010008279886,0.36550455460290965
+2040257814,Code optimization of parallel programs evolutionary vs revolutionary approaches,2008,0,4,1,1.0,2164197688,Vivek Sarkar,0,-0.8617292612495056,0.24252402966908393
+2051614676,HJ-Viz a new tool for visualizing debugging and optimizing parallel programs,2014,3,0,2,1.0,2144555548,Shams Imam,0,-0.6644812355582609,-0.3259514256842946
+2051629359,The design and implementation of the habanero-java parallel programming language,2011,7,10,6,0.547102,270422400,Zoran Budimlic,0,-2.829782686082407,0.36910846205289305
+2048489498,Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation,2005,0,0,2,0.0,2125314167,Mary Hall,0,-0.21037247784774532,-0.30296116417822605
+2076857855,Determinacy and Repeatability of Parallel Program Schemata,2012,27,6,2,0.0,1909978535,Guang R. Gao,0,-0.1164726804531344,0.019252515865476
+2066790149,Dynamic compilation in JalapeÃ±o (Panel Session),2000,0,0,1,1.0,2164197688,Vivek Sarkar,0,-0.6661280987861671,-0.17455010117730685
+2077400393,Lightweight object-oriented shared variables for distributed applications on the Internet,1998,6,11,1,1.0,2164197688,Vivek Sarkar,0,-0.043812402117468174,0.9117014392584264
+2058502494,A general framework for iteration-reordering loop transformations,1992,13,50,2,0.0,607938087,Radhika Thekkath,0,-0.27544912048104747,-0.18837754937893494
+2056845737,Proceedings of the ACM SIGPLAN 1994 conference on Programming language design and implementation,1994,0,0,3,0.0,686913843,Mary Lou Soffa,0,-0.1164726804531344,0.019252515865476
+2060434193,Compilation techniques for parallel systems,1999,156,38,3,0.43998,2104865906,Rajiv Gupta,0,-0.3664349716309144,0.20124036926045116
+2065865396,JPF Verification of Habanero Java Programs using Gradual Type Permission Regions,2015,7,2,3,1.0,309530027,Nick Vrvilo,0,-1.5305845910129048,-0.02755753195041297
+2076606694,Habanero-Java extensions for scientific computing,2010,6,0,6,0.604934,270422400,Zoran Budimlic,0,-1.626122776974725,0.48070266837615155
+2069672374,Automatic discovery of parallelism a tool and an experiment (extended abstract),1988,29,14,3,0.0,2136379990,Wilson C. Hsieh,0,-0.2243557498671855,-0.07830559998435228
+2096675459,Practical permissions for race-free parallelism,2012,39,23,4,0.504648,270422400,Zoran Budimlic,0,-0.24727965243679215,0.2935408980496507
+2086394627,Reducing the Overhead of Dynamic Compilation,2001,23,60,4,1.0,2051741376,Chandra Krintz,0,-1.6825786495985608,-0.2855738005527096
+2098550929,Accelerating Habanero-Java programs with OpenCL generation,2013,18,19,5,1.0,1266496794,Jun Shirako,0,-0.35871176357476814,-0.07358218965409985
+2088921570,X10 concurrent programming for modern architectures,2007,0,79,2,0.416667,1562019009,Christoph von Praun,0,-0.7415057302266648,0.04128443004970942
+2088988766,Program analysis for safety guarantees in a Java virtual machine written in Java,2001,10,4,3,0.0,2102065710,Jan Willem Maessen,0,-2.8309195801409794,0.36533611737635646
+2108340478,XJ integration of XML processing into java,2004,6,35,5,0.0,300944089,Oded Shmueli,0,-0.1164726804531344,0.019252515865476
+2111499608,Lightweight Object-Oriented Shared Variables for Cluster Computing in Java,2000,18,2,1,1.0,2164197688,Vivek Sarkar,0,-0.1916264050029816,1.5025357519303106
+2105794846,Scalable and precise dynamic datarace detection for structured parallelism,2012,29,68,4,0.23509,39971648,Martin Vechev,0,-0.005550021743587548,-0.045496798771096594
+2109065830,X10 an object-oriented approach to non-uniform cluster computing,2005,36,1079,6,0.0,171997091,Kemal Ebcioglu,0,0.1143733144136664,-0.49111697216384165
+2109480844,Decentralizing execution of composite web services,2004,22,163,3,0.431034,2101204191,Satish Chandra,0,-0.1164726804531344,0.019252515865476
+2130711572,ABCD eliminating array bounds checks on demand,2000,39,205,3,0.141096,1115548098,Rastislav Bodik,0,-1.145273761049491,0.21077590120148054
+2130747108,XJ facilitating XML processing in Java,2005,17,52,6,0.0,300944089,Oded Shmueli,0,-0.1164726804531344,0.019252515865476
+2127959721,May-happen-in-parallel analysis of X10 programs,2007,23,77,2,0.0,2000552746,Rajkishore Barik,0,0.44084551049646553,0.49418143543296694
+2125038938,Test-driven repair of data races in structured parallel programs,2014,25,9,4,1.0,2076894583,Rishi Surendran,0,0.026097837577417002,0.04169232189051097
+2113327063,SCnC Efficient Unification of Streaming with Dynamic Task Parallelism,2011,32,1,3,1.0,119564951,Dragos Sbirlea,0,-0.46632518723938193,-0.04852929940689867
+2116556636,Space-time scheduling of instruction-level parallelism on a raw machine,1998,30,245,4,0.0,2068638771,Rajeev Barua,0,-0.44869122900443015,-0.00015649039724540022
+2140191557,Linear scan register allocation,1999,19,269,1,1.0,2164197688,Vivek Sarkar,0,-1.1734827546634274,0.1736935835489383
+2119598823,HJ-OpenCL Reducing the Gap Between the JVM and Accelerators,2015,17,3,3,1.0,2135945652,Max Grossman,0,-1.1917315197956544,-0.2370033545801911
+2125650214,Habanero-Java library a Java 8 framework for multicore programming,2014,31,48,2,1.0,2144555548,Shams Imam,0,-2.174747020300716,0.5925894649438772
+2143650860,Declarative aspects of memory management in the concurrent collections parallel programming model,2009,5,24,4,0.727442,270422400,Zoran Budimlic,0,-0.6829540117647783,-0.3565708174095735
+2179300426,Immutability specification and its applications,2005,22,21,2,1.0,338445073,Igor Pechtchanski,0,-0.489984176716295,0.30539554623482945
+2162295840,Array optimizations for high productivity programming languages,2009,81,5,4,0.727442,270422400,Zoran Budimlic,0,-1.106325555371758,-0.7353087817763331
+2186910235,Habanero-Scala Async-Finish Programming in Scala,2012,20,6,2,1.0,2144555548,Shams Imam,0,0.39781277051490765,0.11656209071996597
+2157124218,SLAW a scalable locality-aware adaptive work-stealing scheduler for multi-core systems,2010,5,76,3,1.0,2004788006,Vincent CavÃ©,0,-0.5591256032452531,-0.4697542213982346
+2166895275,Efficient and precise modeling of exceptions for the analysis of Java programs,1999,19,130,4,0.0,1968016868,Michael Hind,0,0.880866179420185,-1.252347562018921
+2175563412,SCnC Efficient Unification of Streaming with Dynamic Task Parallelism,2016,24,0,3,1.0,119564951,Dragos Sbirlea,0,-0.46632518723938193,-0.04852929940689867
+2161799970,Isolation for nested task parallelism,2013,28,9,4,0.0,270422400,Zoran Budimlic,0,0.2554365381508063,-0.03144068451483987
+2240631110,Model Checking Task Parallel Programs Using Gradual Permissions (N),2015,14,1,3,1.0,309530027,Nick Vrvilo,0,-0.09617860611497889,0.26293091950083597
+2241027171,LLVM-based communication optimizations for PGAS programs,2015,24,6,3,1.0,2098015545,Akihiro Hayashi,0,-0.5969566929994379,0.029194089339215773
+2218159933,Speculative Execution of Parallel Programs with Precise Exception Semantics on GPUs,2013,19,7,5,1.0,1266496794,Jun Shirako,0,-0.23628903057319556,0.18060944986073726
+2284794973,The Eureka Programming Model for Speculative Task Parallelism,2015,37,5,2,1.0,2144555548,Shams Imam,0,0.09188814877338802,0.3298328400768
+2294461118,Delegated isolation,2011,30,26,5,0.0,38701517,Roberto Lublinerman,0,0.1521597116683799,0.1560303553548072
+2295409865,Extending Polyhedral Model for Analysis and Transformation of OpenMP Programs,2015,2,1,1,1.0,2164197688,Vivek Sarkar,0,-0.24528670861604587,0.4044415106551515
+2278354431,Cooperative Scheduling of Parallel Tasks with General Synchronization Patterns,2014,26,12,2,1.0,2144555548,Shams Imam,0,-0.384740117102719,0.0045642677951428685
+2296302691,The Eureka Programming Model for Speculative Task Parallelism (Artifact),2015,0,0,2,1.0,2144555548,Shams Imam,0,-0.2993953086662919,-0.13753012318480076
+2397511932,Polyhedral Optimizations for a Data-Flow Graph Language,2015,31,6,4,1.0,1266496794,Jun Shirako,0,-0.15919756866850865,0.31164330222066017
+2405944419,Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI) Foreword,2005,0,0,2,0.0,2125314167,Mary Hall,0,-0.1164726804531344,0.019252515865476
+2474689176,Technical Perspective Building Confidence in Multicore Software,2010,0,0,1,1.0,2164197688,Vivek Sarkar,0,0.4896308132892164,-0.1340300604735376
+2555277180,Implicit Parallelism in a Functional Subset of Scala,2014,13,0,2,1.0,2144555548,Shams Imam,0,-1.0256162520490557,0.4087774023838464
+2537306435,Automatic parallelization of pure method calls via conditional future synthesis,2016,37,3,2,1.0,2076894583,Rishi Surendran,0,-0.8391602727461095,-0.11221490312594655
+2561398743,PIPES a language and compiler for task-based programming on distributed-memory clusters,2016,28,6,4,0.0,1966094299,P. Sadayappan,0,-0.44869122900443015,-0.00015649039724540022
+2549228086,IBM Research Report XJ Integrating XML Processing into Java TM,2003,15,0,4,1.0,397773802,Rajesh Bordawekar,0,-0.5536686537030495,0.011641493330294302
+2566082847,Fine-grained parallelism in probabilistic parsing with Habanero Java,2016,22,0,2,0.0,2023211357,Jason Eisner,0,-0.5896322020503075,-0.11315949958644127
+2561741525,Exploring compiler optimization opportunities for the OpenMP 4x accelerator model on a POWER8+GPU platform,2016,14,6,4,0.0,37774481,Ettore Tiotto,0,-0.2905508673071528,0.5360411896499029
+2521802869,OpenMP as a High-Level Specification Language for Parallelism,2016,14,2,3,1.0,1266496794,Jun Shirako,0,0.21149699607839373,0.621892476238187
+2531769023,OpenMP as a High-Level Specification Language for Parallelism - And its use in Evaluating Parallel Programming Systems,2016,0,0,3,1.0,1266496794,Jun Shirako,0,-0.2290038591096902,0.28862505581067405
+2585914496,The role of programming languages in future data-centric and net-centric applications,2006,0,0,2,0.638505,1822280541,Mukund Raghavachari,0,2.643092843088323,-0.2859973362434106
+2624230975,A marshalled data format for pointers in relocatable data blocks,2017,15,0,2,1.0,309530027,Nick Vrvilo,0,-0.11765163659589643,0.17917121267935196
+2595006382,Formalization of Habanero phasers using Coq,2017,19,5,2,1.0,1266496794,Jun Shirako,0,-0.1164726804531344,0.019252515865476
+2611635037,Integrating database and programming language constraints,2004,0,0,4,0.0,300944089,Oded Shmueli,0,-2.1770103150227538,0.13122994191333365
+2788464413,Modeling the conflicting demands of parallelism and Temporal/Spatial locality in affine scheduling,2018,34,7,3,0.0,137491463,Sven Verdoolaege,0,-0.3598069989451951,1.286037457071661
+2788129993,Parallel sparse flow-sensitive points-to analysis,2018,27,1,2,1.0,2115689153,Jisheng Zhao,0,-0.7167236979721532,0.4771435922474562
+2912768836,Proceedings of the eighteenth international conference on Architectural support for programming languages and operating systems,2013,0,0,2,0.0,1115548098,Rastislav Bodik,0,0.6779980272232384,-0.20112287615900346
+2898887876,Deadlock Avoidance in Parallel Programs with Futures Why Parallel Tasks Should Not Wait for Strangers,2017,0,0,3,1.0,2076894583,Rishi Surendran,0,0.16818300483322987,-0.6963254392837378
+2913466987,Compile-Time Library Call Detection Using CAASCADE and XALT,2018,9,0,2,0.0,2096724422,Oscar Hernandez,0,-0.4393142490664105,0.2734253942891728
+2896618693,ASC CSSE Level 2 Milestone #6362 Resilient Asynchronous Many Task Programming Model,2018,0,0,5,1.0,2098015545,Akihiro Hayashi,0,0.12381548077203264,0.0571866200359961
+2914212514,Valence variable length calling context encoding,2019,34,1,4,0.0,2007129672,Michael R. Jantz,0,-0.30843783271803227,-0.029496683127698563
+2911490478,Session details Session 2 ASPLOS Highlights II,2017,0,0,1,1.0,2164197688,Vivek Sarkar,0,-1.2747901811901157,-0.4672585246964976
+2912083270,Session details Keynote,2013,0,0,1,1.0,2164197688,Vivek Sarkar,0,1.1435290582484055,-0.2671289905381173
+2945318486,Session details Languages and compilers,2010,0,0,1,1.0,2164197688,Vivek Sarkar,0,-0.44869122900443015,-0.00015649039724540022
+3013727537,Context-Aware Parse Trees,2020,33,0,4,0.0,1998810633,Justin Gottschlich,0,-0.7978521643088706,-0.7137535663674254
+3014100329,Session details Keynote Address,2016,0,0,1,1.0,2164197688,Vivek Sarkar,0,-0.1164726804531344,0.019252515865476

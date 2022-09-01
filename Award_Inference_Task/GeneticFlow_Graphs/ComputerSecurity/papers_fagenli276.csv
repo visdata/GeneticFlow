@@ -1,0 +1,81 @@
+190953391,A Certificateless Proxy Ring Signature Scheme with Provable Security,2011,0,11,1,0,2109975757,Fagen Li,0,0.301894742588513,-1.868703906583656
+779198753,Secure and efficient data transmission in the Internet of Things,2016,38,34,1,0,2109975757,Fagen Li,0,0.11980366839737086,-0.6790189384732314
+1490368347,Efficient Multi-PKG ID-Based Signcryption for Ad Hoc Networks,2009,41,7,3,0,314566324,Masaaki Shirase,0,0.14479214239922314,-1.900847147334616
+1491707485,Efficient Signcryption Key Encapsulation without Random Oracles,2009,31,6,3,0,314566324,Masaaki Shirase,0,-0.07174741577985361,-2.543252777104359
+1572552296,Cryptanalysis of an Identity Based Signcryption without Random Oracles,2011,12,0,1,0,2109975757,Fagen Li,0,-0.25908419031409324,-1.9083441994549792
+1519482394,Security Analysis of the Pomykala-Barabasz Scheme,2008,21,4,1,0,2109975757,Fagen Li,0,0.05975313892592304,-0.8553302225043145
+1511011052,An Identity-Based Signcryption Scheme for Multi-domain Ad Hoc Networks,2007,46,32,1,0,2109975757,Fagen Li,0,0.1299302206582121,-1.9091679231198007
+1538976240,An Improved Certificateless Signature Scheme Secure in the Standard Model,2008,16,36,1,0,2109975757,Fagen Li,0,0.0276768635562398,0.43821742870159186
+1677601263,On the Security of Online/Offline Signatures and Multisignatures from ACISP06,2008,36,9,3,0,314566324,Masaaki Shirase,0,-0.586479057305158,-0.9769409457253722
+1600625741,A Provably Secure Proxy Signature Scheme in Certificateless Cryptography,2010,27,15,1,0,2109975757,Fagen Li,0,0.37321223480211557,-1.73157236494323
+1781712377,Efficient privacy-preserving authentication protocol for vehicular communications with trustworthy,2012,33,13,1,0,2109975757,Fagen Li,0,-1.1691639630864326,-1.9154345304952485
+1964524454,Indentity-based broadcast signcryption,2008,36,51,1,0,2109975757,Fagen Li,0,-0.2753902400656797,-0.9163168928943868
+1975323835,Efficient and multi-level privacy-preserving communication protocol for VANET,2012,16,31,1,0,2109975757,Fagen Li,0,-0.9175190271832493,-1.1142647320695442
+1966696881,Efficient communication scheme with confidentiality and privacy for vehicular networks,2013,22,5,1,0,2109975757,Fagen Li,0,-0.4662407260983682,-0.4030554728476316
+1983407536,Secure Vehicle-to-roadside Communication Protocol Using Certificate-based Cryptosystem,2010,19,10,1,0,2109975757,Fagen Li,0,-0.04823495950222778,-2.8029239501257646
+1969562429,Key management in ad hoc networks using self-certified public key system,2007,25,7,1,0,2109975757,Fagen Li,0,-0.11168480360746012,-2.7517635736288244
+2001901502,A biometric identity-based signcryption scheme,2012,21,20,1,0,2109975757,Fagen Li,0,-0.4876294845233466,-1.2307015682583355
+2005407131,PROVABLY SECURE IDENTITYBASED THRESHOLD SIGNATURE WITHOUT RANDOM ORACLES,2009,0,0,1,0,2109975757,Fagen Li,0,-0.8593494690956794,-1.8866060377461258
+1989959695,Certificateless threshold signature secure in the standard model,2013,30,13,1,0,2109975757,Fagen Li,0,0.23864424603159332,-2.37329111911782
+2002803990,Simple Three-Party Password-Based Key Exchange Protocol with Provable Security,2013,26,0,1,0,2109975757,Fagen Li,0,-1.685878117553798,-3.0106882694675
+2010879711,Further improvement of an identity-based signcryption scheme in the standard model,2012,23,7,2,0,2051837146,Tsuyoshi Takagi,0,-0.46890551933097974,-2.164470231871908
+2030294917,Certificateless hybrid signcryption,2013,40,21,3,0,314566324,Masaaki Shirase,0,-0.53515250991956,-1.5237271383921982
+2026862335,Cryptanalysis of an Identity Based Proxy Multi-Signature Scheme,2008,6,3,1,0,2109975757,Fagen Li,0,0.23821532323011377,-0.1522256592692575
+2045474943,Identity-based deniable authentication for ad hoc networks,2014,12,23,1,0,2109975757,Fagen Li,0,-0.9860344641440337,-1.5535240555689178
+2049278400,New identity-based three-party authenticated key agreement protocol with provable security,2013,30,12,1,0,2109975757,Fagen Li,0,-0.40547810786418526,-1.3921761540602202
+2046908555,Identity-based partially blind signature in the standard model for electronic cash,2013,21,8,2,0,2051837146,Tsuyoshi Takagi,0,-0.7717264753045311,-2.8110401057893317
+2068207256,Cryptanalysis of efficient proxy signature schemes for mobile communication,2010,7,4,3,0,314566324,Masaaki Shirase,0,0.18808982163280455,-1.8496854847043536
+2061280721,On the security of an identity based multi-proxy signature scheme,2011,19,18,2,0,2102678019,Jianbin Hu,0,-0.22684964772494434,0.5553590878829306
+2070027717,Cryptanalysis and Improvement of Robust Deniable Authentication Protocol,2013,16,10,2,0,2051837146,Tsuyoshi Takagi,0,-0.6318980925562335,-1.6798540756918061
+2056475265,Provably secure and efficient certificateless authenticated tripartite key agreement protocol,2012,32,8,1,0,2109975757,Fagen Li,0,-0.22327016513884124,-2.637318677375932
+2065373004,A pairing-based signcryption scheme using self-certified public keys,2007,29,5,1,0,2109975757,Fagen Li,0,0.10717988046802757,-0.9013730099952226
+2076640342,ID-based threshold proxy signcryption scheme from bilinear pairings,2008,31,12,1,0,2109975757,Fagen Li,0,0.05913805549294626,-1.100745332851388
+2084295561,Secure identity-based signcryption in the standard model,2013,17,15,2,0,2051837146,Tsuyoshi Takagi,0,-0.3177209633437412,-1.4307819245311184
+2100627332,Deniable Proxy-Anonymous Signatures,2008,24,1,1,0,2109975757,Fagen Li,0,-0.5665559404613846,-0.6430464154322921
+2081633547,Broadcast Searchable Keyword Encryption,2014,12,3,1,0,2109975757,Fagen Li,0,0.22877557873546836,-2.454544674228642
+2105274163,Bidder-anonymous English auction protocol based on revocable ring signature,2012,28,20,1,0,2109975757,Fagen Li,0,0.3932384308443864,-1.133843372069419
+2138285549,An Identity-Based Restricted Deniable Authentication Protocol,2009,14,3,1,0,2109975757,Fagen Li,0,-0.9416473777196142,-1.1858429235822485
+2106076658,Key Management Using Certificateless Public Key Cryptography in Ad Hoc Networks,2008,26,6,3,0,314566324,Masaaki Shirase,0,-0.2551017983794968,-2.5628780780254776
+2138763711,Identity Based Multi-proxy Multi-signcryption Scheme for Electronic Commerce,2009,14,3,1,0,2109975757,Fagen Li,0,-0.23302843107898977,-1.8057333277029568
+2118138039,An Anonymous Sealed-bid Electronic Auction Based on Ring Signature,2009,16,12,1,0,2109975757,Fagen Li,0,-0.17792249018804487,-1.0094022831143126
+2162823500,Certificateless Hybrid Signcryption,2009,38,19,3,0,314566324,Masaaki Shirase,0,-0.7682312215064027,-1.7173515415532918
+2153993511,An Improved Identity-Based KCDSA Signcryption Scheme,2007,9,4,1,0,2109975757,Fagen Li,0,-0.47636489572839164,-2.3434293937489556
+2157023806,Identity-Based Hybrid Signcryption,2009,28,7,3,0,314566324,Masaaki Shirase,0,-0.6094426938401464,-1.9124887023001709
+2148580277,ID-Based (t n) Threshold Proxy Signcryption for Multi-Agent Systems,2006,21,5,2,0,2100852887,Shuanggen Liu,0,-0.11151819005342123,-1.7139340233144313
+2166815920,ID-Based Signcryption Scheme with (tn) Shared Unsigncryption,2006,16,18,1,0,2109975757,Fagen Li,0,0.4403972791224654,-1.5638812515060132
+2157718442,Simulatability and Security of Certificateless Threshold Signatures without Random Oracles,2008,28,1,1,0,2109975757,Fagen Li,0,-0.048061438795843237,-1.6983123260177282
+2188182079,A Secure ECC-based RFID Mutual Authentication Protocol to Enhance Patient Medication Safety,2016,29,36,1,0,2109975757,Fagen Li,0,-0.06402057847366714,-1.2595520087245562
+2220831368,Identity-based deniable authenticated encryption and its application to e-mail system,2016,32,6,1,0,2109975757,Fagen Li,0,-0.5288928035372172,-1.7388021602049248
+2272421714,An efficient certificateless deniable authentication protocol without pairings,2015,15,4,1,0,2109975757,Fagen Li,0,-1.2771881265345135,-2.3740548902197753
+2191386103,Certificateless online/offline signcryption for the Internet of Things,2017,36,22,1,0,2109975757,Fagen Li,0,-0.02337902468071473,-1.0879450093313159
+2273528242,An Efficient Identity-Based Deniable Authenticated Encryption Scheme,2015,14,11,1,0,2109975757,Fagen Li,0,-0.7600815349939836,-1.8346466074262484
+2319646926,A Survey of Identity-based Signcryption,2011,51,12,1,0,2109975757,Fagen Li,0,-0.3224459347206384,-1.045744939685944
+2362689918,Key Management Using Certificate-Based Cryptosystem in Ad Hoc Networks,2006,0,1,2,0,2100852887,Shuanggen Liu,0,0.40613591537586424,-1.98665986412144
+2342203310,Efficient Certificateless Access Control for Wireless Body Area Networks,2016,34,19,1,0,2109975757,Fagen Li,0,0.04596092533695645,-1.6627918713475458
+2401188266,User-to-User Mutual Authentication and Key Agreement Scheme for LTE Cellular System,2016,24,14,1,0,2109975757,Fagen Li,0,-0.5248798451735344,0.7799688692645773
+2408492997,On the security of a provably secure certificate based ring signature without pairing,2015,24,0,1,0,2109975757,Fagen Li,0,0.27539912555919677,-3.08347776550484
+2405942165,A Secure and Robust Certificateless Public Key Steganography Based on SVD-DDWT,2016,0,0,3,0,1848577326,Abubaker Wahaballa,0,-0.0025466398392834516,-1.2114293798228057
+2395443637,An efficient identity-based anonymous signcryption scheme,2008,12,10,1,0,2109975757,Fagen Li,0,-0.27380685159565316,-2.1605735423245065
+2406581842,A Provably secure Certificate based ring signature without pairing,2014,0,0,1,0,2109975757,Fagen Li,0,-0.11396446094461604,-2.292521146789893
+2466996813,Efficient Deniably Authenticated Encryption and Its Application to E-Mail,2016,52,7,2,0,2051837146,Tsuyoshi Takagi,0,-0.28868118774197327,-1.8631694256983025
+2468051766,Practical deniable authentication for pervasive computing environments,2018,27,9,1,0,2109975757,Fagen Li,0,-0.5344437818219153,-1.472722143561575
+2469511150,EEE-GSM End-to-End Encryption Scheme over GSM System,2016,17,2,1,0,2109975757,Fagen Li,0,0.2263174585977576,-1.8489503978713022
+2509714464,A group key-policy attribute-based encryption with partial outsourcing decryption in wireless sensor networks,2016,26,5,1,0,2109975757,Fagen Li,0,-0.16053345343974915,-0.875905988842132
+2524849653,Secure mobile agent-based English auction protocol using identity-based signature scheme,2016,25,1,2,0,1848577326,Abubaker Wahaballa,0,-0.17483696686578928,0.5800056289539618
+2568582261,Efficient certificateless access control for industrial Internet of Things,2017,39,20,1,0,2109975757,Fagen Li,0,0.008577209114507559,-1.3276297303033788
+2527911492,A Provably-Secure Transmission Scheme for Wireless Body Area Networks,2016,33,11,1,0,2109975757,Fagen Li,0,0.11488849618006337,-2.1983442824346104
+2564846189,An Efficient Remote Authentication Scheme for Wireless Body Area Network,2017,31,21,1,0,2109975757,Fagen Li,0,-0.8039431114995508,-1.8023396225757435
+2513878141,A Survey of Public Key Infrastructure-Based Security for Mobile Communication Systems,2016,53,4,1,0,2109975757,Fagen Li,0,-1.04102498767886,2.011262696274836
+2735601075,A robust and efficient password-based conditional privacy preserving authentication and group-key agreement protocol for VANETs,2017,34,37,3,0,1693189873,Mohammad S. Obaidat,0,-0.2984140696879126,-0.9850962877519893
+2592817897,An efficient signcryption for data access control in cloud computing,2017,31,12,1,0,2109975757,Fagen Li,0,0.17833646568755257,-1.4884095086251905
+2612347296,Improvement of A proactive Threshold Signcryption Scheme,2008,7,2,1,0,2109975757,Fagen Li,0,-0.6118801083965095,-0.2636527764736392
+2756929889,Analysis of a mobile payment protocol with outsourced verification in cloud server and the improvement,2018,5,8,1,0,2109975757,Fagen Li,0,0.0040557659796233,0.2757546058061082
+2810799152,An Improved Two-Layer Authentication Scheme for Wireless Body Area Networks,2018,47,5,1,0,2109975757,Fagen Li,0,-1.037683856966776,-0.6220924069438672
+2793333588,Insecurity of A Key-Policy Attribute Based Encryption Scheme With Equality Test,2018,13,4,1,0,2109975757,Fagen Li,0,0.15552624608837184,-1.3222316640591818
+2783833998,Analysis of an ABE Scheme with Verifiable Outsourced Decryption,2018,17,6,1,0,2109975757,Fagen Li,0,0.219006425899088,-0.726542799533725
+2801726369,Provably Secure Heterogeneous Access Control Scheme for Wireless Body Area Network,2018,42,8,1,0,2109975757,Fagen Li,0,0.23223207698965004,-1.2214314181382036
+2953357630,A novel certificateless deniable authentication protocol,2013,0,2,1,0,2109975757,Fagen Li,0,-1.3895189685814482,-0.820931798551313
+2986176926,A Certificateless Proxy Re-encryption Scheme for Cloud-Based Blockchain,2019,28,0,1,0,2109975757,Fagen Li,0,0.26781671157487164,0.03274325765107706
+2984978293,Cryptographic Reverse Firewalls for Identity-Based Encryption,2019,14,0,1,0,2109975757,Fagen Li,0,0.21227640822556754,-2.0939351182489006
+3015447477,An efficient certificateless public key encryption scheme with authorized equality test in healthcare environments,2020,36,0,1,0,2109975757,Fagen Li,0,0.1617275845710428,-1.5741316401266663
+3008999505,Certificateless Public Key Encryption with Cryptographic Reverse Firewalls,2020,18,0,1,0,2109975757,Fagen Li,0,-0.11939960754187152,-0.9835406359296881

@@ -1,0 +1,95 @@
+91838437,Modelling Connectors as Designs in Unifying Theories of Programming,2009,0,0,1,1.0,2052085316,Farhad Arbab,0,-0.1164726804531344,0.019252515865476
+127471000,Compositional Construction and Reasoning Techniques for Software,2005,0,0,1,1.0,2052085316,Farhad Arbab,0,0.4896308132892164,-0.1340300604735376
+1496911505,A logical interface description language for components,2000,16,16,1,1.0,2052085316,Farhad Arbab,0,0.3518384796167888,0.04754506610028253
+1515206400,Dynamic Process Composition and Communication Patterns in Irregularly Structured Applications,1999,11,2,3,1.0,389702733,C. T. H. Everaars,0,-0.14950725071848708,-0.0422299648822798
+1551537871,Puff the magic protocol,2011,91,37,1,1.0,2052085316,Farhad Arbab,0,0.014459283280412395,0.06672133005261056
+1500726943,Encoding context-sensitivity in Reo into non-context-sensitive semantic models,2011,21,16,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.2898022321511406,0.0669062862006661
+1573515537,Models and temporal logics for timed component connectors,2004,19,54,1,1.0,2052085316,Farhad Arbab,0,0.10047418179257799,0.38883501041037544
+1485270633,A coinductive calculus of component connectors,2002,8,65,1,1.0,2052085316,Farhad Arbab,0,-0.12039364710314414,-0.04664168584955646
+1520184739,Modeling Component Connectors in Reo by Constraint Automata (Extended Abstract),2004,19,44,3,1.0,2046912261,Marjan Sirjani,0,-0.20764168402791516,-0.22550365064201294
+1557161556,Synthesis of Reo Circuits for Implementation of Component-Connector Automata Specifications Coordination Models and Languages,2005,0,0,2,1.0,2046912261,Marjan Sirjani,0,-0.1164726804531344,0.019252515865476
+1512743766,Modeling behavior in compositions of software architectural primitives,2004,10,10,3,0.0,2023055819,Nenad Medvidovic,0,3.3406696713353465,-0.9023394107426999
+1567212585,Modeling Testing and Executing Reo Connectors with the Eclipse Coordination Tools,2008,8,30,3,0.0,102172064,Ziyan Maraikar,0,-0.1164726804531344,0.019252515865476
+1913268809,Specification simulation and verification of component connectors in Reo,2004,24,4,2,1.0,2046912261,Marjan Sirjani,0,-0.09772921621806832,0.04757364878951733
+1852071865,VISIFOLD A Visual Environment for a Coordination Language,1996,3,16,2,0.0,165967445,Pascal Bouvry,0,0.6324958164674306,-0.2852358154713843
+1692521721,Automatic code generation for the orchestration of web services with reo,2012,19,31,4,1.0,139710438,Hamideh Afsarmanesh,0,-0.09829909542497633,0.33436816029411887
+1713936525,Coordination and its relevance,1998,11,5,1,1.0,2052085316,Farhad Arbab,0,1.6314334142250324,0.3840673838204929
+1987288119,Modularizing and Specifying Protocols among Threads,2013,21,18,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,0.2745429629723598,-0.22878143751972377
+2005472620,A Compositional Semantics for Stochastic Reo Connectors,2010,17,14,1,1.0,2052085316,Farhad Arbab,0,-0.05036265709035555,-0.18500880047049156
+2009315879,Symbolic execution of Reo circuits using constraint automata,2012,72,4,4,0.0,115556554,Bahman Pourvatan,0,0.4596894354592705,0.23569691270070656
+1988680012,Modeling component connectors in Reo by constraint automata,2006,32,280,2,0.862069,2046912261,Marjan Sirjani,0,-0.7512085626619945,0.7064676812650411
+1994084312,Applying Reo to service coordination in long-running business transactions,2009,23,14,1,1.0,2052085316,Farhad Arbab,0,-0.37757207302057266,-0.1857293676815968
+2021167986,The GKS Input Model in Manifold,1991,0,7,1,1.0,2052085316,Farhad Arbab,0,0.09101957183524519,-0.14258541214869716
+2037157885,Connectors as Designs,2009,18,10,1,1.0,2052085316,Farhad Arbab,0,0.8039735833971601,-0.4439850641456164
+2054872319,Abstract behavior types a foundation model for components and their composition,2005,70,149,1,1.0,2052085316,Farhad Arbab,0,0.8371648577212752,-0.08834169908990377
+2069718203,Synthesis of Reo circuits from scenario-based interaction specifications,2011,36,13,1,1.0,2052085316,Farhad Arbab,0,1.5633769062195368,-0.8453884804851355
+2071545636,Coordination languages for parallel programming,1998,22,25,1,1.0,2052085316,Farhad Arbab,0,1.9462741603924494,0.17909544303859157
+2070004150,Synthesis of Reo Circuits from Scenario-based Specifications,2009,32,6,1,1.0,2052085316,Farhad Arbab,0,1.5633769062195368,-0.8453884804851355
+2068873590,A behavioral model for composition of software components,2006,26,15,1,1.0,2052085316,Farhad Arbab,0,1.1795664960668613,-0.3837747931611987
+2064300923,Overview of Thirty Semantic Formalisms for Reo,2012,46,58,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,0.8568858759239407,-0.37072578975899434
+2100527962,MANIFOLD a programming model for massive parallelism,1993,5,3,1,1.0,2052085316,Farhad Arbab,0,1.9896905460616345,0.4443272882713838
+2111531668,Toward Sequentializing Overparallelized Protocol Code,2014,23,7,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.2920479296495036,0.059194976423373596
+2123471081,Formal Behavioral Modeling and Compliance Analysis for Service-Oriented Systems,2009,55,38,1,1.0,2052085316,Farhad Arbab,0,0.4494602810002218,-0.327785353182854
+2114816931,Towards Using Reo for Compliance-Aware Business Process Modeling,2008,33,58,1,1.0,2052085316,Farhad Arbab,0,0.12381548077203264,0.0571866200359961
+2109021939,Orchestrating web services using Reo from circuits and behaviors to automatically generated code,2014,33,16,4,1.0,139710438,Hamideh Afsarmanesh,0,0.25911305656485,0.11199132254292303
+2115118088,Using coordination to restructure sequential source code into a concurrent program,2001,12,6,3,1.0,389702733,C. T. H. Everaars,0,1.5380081267602732,-0.2995098055171115
+2106530920,From Timed Reo Networks to Networks of Timed Automata,2013,19,1,2,0.555556,108385533,Mohammad Mahdi Jaghoori,0,-0.347966013357876,-0.21480709168906292
+2130200203,A Unified Toolset for Business Process Model Formalization,2010,8,22,1,1.0,2052085316,Farhad Arbab,0,-0.1164726804531344,0.019252515865476
+2142413483,Models and temporal logical specifications for timed component connectors,2007,37,43,1,1.0,2052085316,Farhad Arbab,0,0.678697579754433,-0.09177817081138322
+2121514867,Automata-Based Optimization of Interaction Protocols for Scalable Multicore Platforms,2014,19,11,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.39650031290946064,-0.2690739327372505
+2121940446,Connector Rewriting with High-Level Replacement Systems,2008,32,14,3,0.0,3485368,Alexander Lazovik,0,-0.16368772103340054,0.182999607766804
+2131413323,Applications of Formal Methods to System Design and Verification JUCS Special Issue,2007,0,0,2,0.765766,2046912261,Marjan Sirjani,0,-0.25722635181752007,-0.3669391787159221
+2128853212,A transition system semantics for the control-driven coordination language MANIFOLD,2000,39,40,3,0.0,92252108,Gianluigi Zavattaro,0,-0.1050014326576692,-0.21359555554797025
+2108165746,Modernizing Existing Software A Case Study,2004,8,1,3,1.0,389702733,C. T. H. Everaars,0,2.6250544733593864,-0.8083260266273804
+2162326486,Connectors as designs Modeling refinement and test case generation,2012,41,21,2,0.0,171850535,Bernhard K. Aichernig,0,-0.1164726804531344,0.019252515865476
+2171758037,Dynamic process composition and communication patterns in irregularly structured applications,2000,12,7,3,1.0,389702733,C. T. H. Everaars,0,0.8783585180499183,-0.6203099167633727
+2160057816,Formal Design and Verification of Long-Running Transactions with Extensible Coordination Tools,2013,38,14,1,1.0,2052085316,Farhad Arbab,0,-0.14696870349912372,0.44810945615824377
+2151221038,A compositional model to reason about end-to-end QoS in Stochastic Reo connectors,2014,39,11,1,1.0,2052085316,Farhad Arbab,0,-0.1164726804531344,0.019252515865476
+2169395959,Model Checking of Component Connectors,2007,13,33,2,0.0,1498171833,Mohammad Izadi,0,-0.17640215307150925,-0.2386234079576977
+2160982362,Interaction and coordination of tools for structured data,2004,10,0,1,1.0,2052085316,Farhad Arbab,0,0.8285500945750767,-0.03677568807058096
+2164556406,The influence of coordination on program structure,1997,30,21,1,1.0,2052085316,Farhad Arbab,0,0.08164860260386256,-0.2899839195471009
+2170794871,A Multiply Hierarchical Automaton Semantics for the IWIM Coordination Model,2003,17,5,2,0.5979,2033936849,Richard Banach,0,0.4896308132892164,-0.1340300604735376
+2146846546,Parallel distributed-memory implementation of sparse-grid methods for three-dimensional fluid-flow computations,2000,22,1,3,1.0,389702733,C. T. H. Everaars,0,0.44100042674155965,-0.18877090114039805
+2167864203,Formal Semantics and Analysis of Component Connectors in Reo,2006,18,34,2,0.862069,2046912261,Marjan Sirjani,0,-0.24198146674231866,-0.07089886411622495
+2202154873,A Constraint-based Method to Compute Semantics of Channel-based Coordination Models,2012,21,3,1,1.0,2052085316,Farhad Arbab,0,2.7046286944438545,-0.34125259982895045
+2228853381,Relating BIP and Reo,2015,18,8,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.2268142716231431,-0.1590203910320284
+2316908361,Reo A Dataflow Inspired Language for Multicore,2013,12,11,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,0.023140512002593448,0.19725912819817973
+2295332999,Reconfiguration of Reo Connectors Triggered by Dataflow,2008,10,11,3,0.0,2041841555,Christian Koehler,0,-0.012012539258140303,0.0986841201904317
+2339077160,Global consensus through local synchronization,2016,65,11,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.5307438435744132,0.3529735378200187
+2407946161,Composing Constraint Automata State-by-State,2015,16,4,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.14513730017846851,-0.18789922229379108
+2462453872,PrDK Protocol Programming with Automata,2016,13,5,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,0.044988955167505874,-0.417092644950286
+2474974536,A multiply fibred automaton semantics for IWIM,2002,15,2,2,0.5979,2033936849,Richard Banach,0,1.273638091470857,-0.4263765436200756
+2473531333,Toolset for Business Process Model Formalization,2010,14,0,1,1.0,2052085316,Farhad Arbab,0,1.041982745188894,-0.7106646981101156
+2465361440,A logical interface description language for components,2000,0,0,1,1.0,2052085316,Farhad Arbab,0,1.117718550898784,-0.17302066425183318
+2536956200,Interaction and coordination of tools for structured data,2006,0,0,1,1.0,2052085316,Farhad Arbab,0,0.665989548914546,-0.10727457381775658
+2572093433,Formal methods for coordination languages (SEN31),1997,0,0,1,1.0,2052085316,Farhad Arbab,0,-0.0858108722570497,0.3118956755355936
+2565795557,MANIFOLD a language for specification of inter-process communication,1990,0,4,1,1.0,2052085316,Farhad Arbab,0,0.538860234115607,-2.2139962942284037
+2555908874,Synthesis of Reo circuits for implementation of component-connector automata specifications,2004,0,0,2,1.0,2046912261,Marjan Sirjani,0,0.9799153258770888,-0.422350203310985
+2529998202,Combine and conquer Relating BIP and Reo,2017,30,5,4,0.875967,1480416474,Sung Shik T. Q. Jongmans,0,0.5059818847503563,1.017299154050895
+2510405318,Abstract behavior types a foundation model for components and their composition,2003,0,16,1,1.0,2052085316,Farhad Arbab,0,0.6972942489976818,-0.11261508941435472
+2574396545,Composing Constraint Automata State-by-State (Technical Report),2015,0,1,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.14513730017846851,-0.18789922229379108
+2516127262,Data Optimizations for Constraint Automata,2017,17,1,2,0.875967,1480416474,Sung Shik T. Q. Jongmans,0,-0.0051221017112954015,0.10464053568798899
+2567740485,Automata-based Optimization of Interaction Protocols for Scalable Multicore Platforms (Technical Report),2014,22,1,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.25103366473910976,0.14807100157956637
+2568190651,Global Consensus through Local Synchronization (Technical Report),2013,21,4,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.23930156141723122,0.16147736582312897
+2584635983,Take Command of Your Constraints (Technical Report),2015,0,1,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.0051221017112954015,0.10464053568798899
+2578125337,Can High Throughput Atone for High Latency in Compiler-Generated Protocol Code (Technical Report),2015,0,1,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.41151277360067073,-0.1125354262413412
+2579222303,Encoding Context-Sensitivity in Reo into Non-Context-Sensitive Semantic Models (Technical Report),2011,13,1,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.2898022321511406,0.0669062862006661
+2523493431,Modeling component connectors in Reo by constraint automata,2003,0,30,1,1.0,2052085316,Farhad Arbab,0,0.9182340341737946,-0.4120835543294927
+2610721193,Compositional semantics of an actor-based language using constraint automata,2006,0,5,3,0.555556,108385533,Mohammad Mahdi Jaghoori,0,0.7664949528012162,-0.42373872390154027
+2587792948,Partially-Distributed Coordination with Reo (Technical Report),2013,28,2,3,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.25799111368390537,-0.05980099555322875
+2591411088,International Symposium on Fundamentals of Software Engineering International Symposium FSEN 2007 Tehran Iran April 17-19 2007 Proceedings,2007,0,0,2,0.765766,2046912261,Marjan Sirjani,0,0.28829403798958486,-0.3319483531398944
+2624449365,A Compositional Semantics for Stochastic Reo Connectors,2010,18,3,1,1.0,2052085316,Farhad Arbab,0,-0.05036265709035555,-0.18500880047049156
+2587843972,Formal specification of Manifold a preliminary study,1992,0,4,1,1.0,2052085316,Farhad Arbab,0,0.02932067861402716,0.086289692075286
+2606550065,Constraint automata with memory cells and their composition,2017,48,10,4,0.875967,1480416474,Sung Shik T. Q. Jongmans,0,-0.22380009766367714,-0.11499959921986015
+2688977212,A coinductive calculus of component connectors,2003,0,91,1,1.0,2052085316,Farhad Arbab,0,0.13292597723674843,0.7293449273220108
+2695941252,Centralized coordination vs partially-distributed coordination with Reo and constraint automata,2017,90,2,4,0.875967,1480416474,Sung Shik T. Q. Jongmans,0,-0.41151277360067073,-0.1125354262413412
+2611891309,Restructuring sequential Fortran code into a parallel/distributed application,1996,0,0,2,1.0,389702733,C. T. H. Everaars,0,0.3588733162259083,-0.15881949658407674
+2798695074,Connectors meet Choreographies,2018,36,0,4,0.0,1346769100,Fabrizio Montesi,0,-0.17742666683531572,0.026285158972043456
+2902241527,Compiling Protocols to Promela and Verifying their LTL Properties,2018,0,0,1,1.0,2052085316,Farhad Arbab,0,-0.23189165543779067,-0.33670450967494797
+2911640278,Proper Protocol,2016,52,6,1,1.0,2052085316,Farhad Arbab,0,-0.12295125849024102,0.0786803283239224
+2954431176,Treo Textual syntax for Reo connectors,2018,14,2,1,1.0,2052085316,Farhad Arbab,0,-0.27195861904894925,-0.3044288861182169
+2963599561,Correlating Formal Semantic Models of Reo Connectors Connector Coloring and Constraint Automata,2011,14,0,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,0.5573920398600195,0.02519478765402359
+2963997823,Modularizing and specifying protocols among threads,2012,0,0,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.1164726804531344,0.019252515865476
+2964243342,Toward Sequentializing Overparallelized Protocol Code,2014,23,1,2,1.0,1480416474,Sung Shik T. Q. Jongmans,0,-0.2920479296495036,0.059194976423373596
+2967617071,Soft component automata Composition compilation logic and verification,2019,49,0,2,0.0,661662328,Carolyn L. Talcott,0,0.20794630515554488,0.2602888845581043
+3023030106,Coordination models and languages,1998,0,11,1,1.0,2052085316,Farhad Arbab,0,-0.25677800161951836,-0.18833076027251083

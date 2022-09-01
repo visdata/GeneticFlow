@@ -1,0 +1,114 @@
+103163357,Automatic program restructuring for parallel computing and the Polaris Fortran translator,1995,0,0,3,1.0,312486069,Jay Hoeflinger,0,-0.16795569340420236,0.051188248988237955
+52421200,Fortran-Style Transformations for Functional Programs,1991,0,0,3,1.0,1921829438,David C. Sehr,0,1.5120910023107883,-0.3647353342286837
+155801688,Representing S-expressions for the efficient evaluation of Lisp on parallel processors,1986,0,5,1,1.0,2123005755,David Padua,0,-0.004963767418371623,-1.0265614094241737
+122763488,The Power of Beladyâ€™s Algorithm in Register Allocation for Long Basic Blocks,2003,14,16,1,1.0,2123005755,David Padua,0,-0.9100688735227603,-0.17399961636645192
+125160695,A MATLAB Compiler and Restructurer for the Development of Scientific Libraries and Applications,1995,18,4,3,1.0,115078576,Efstratios Gallopoulos,0,-0.12262116393553131,-0.019634536514081223
+112130966,Cflex a programming language for the flexram intelligent memory architecture,2002,0,1,3,1.0,529361719,Paul Feautrier,0,2.153390195791627,-0.1403287085301604
+163963988,A Matlab Just-In-time Compiler,2000,13,10,2,1.0,593384113,George AlmÃ¡si,0,-1.5732042522533263,0.14403525568540554
+149043372,IctiÌneo a Tool for Instruction Level Parallelism Research1,2007,14,0,5,0.0,714308370,Eduard AyguadÃ©,0,-0.17725770298571594,-0.010595358378727696
+64804107,Thread escape analysis for a memory consistency-aware compiler,2005,82,1,1,1.0,2123005755,David Padua,0,-1.7471585556124094,-0.0802131236335144
+48260044,A compiler for multiple memory models Research Articles,2004,0,2,1,1.0,2123005755,David Padua,0,-3.023636152763284,-0.44051118512511084
+228320254,Design Issues in a Matlab-Based Environment for Numerical Program Development,2000,3,0,3,1.0,115078576,Efstratios Gallopoulos,0,-0.48253002320814914,-0.13981196802811832
+134879198,Debugging Fortran on a shared memory machine,1987,0,46,2,0.0,2096293166,Todd R. Allen,0,-0.9230063562451672,-0.28379768909399844
+50163046,Semantic Inlining - the Compiler Support for Java in Technical Computing,1999,0,4,2,0.0,2114032439,Manish Gupta,0,-1.9481809453857826,0.2538611837686998
+101773884,Automatic Compound Function Definition for Multiprocessors,1988,0,2,3,0.0,314738732,Harlan E. Husmann,0,0.07483310442003949,0.12155545600582875
+231908605,A New-Generation Parallelizing Compiler System,1996,0,0,3,1.0,312486069,Jay Hoeflinger,0,-0.5451429333668646,0.010923421559867622
+51257229,Compiler analysis of sparse and irregular computations,2000,0,2,1,1.0,2123005755,David Padua,0,-0.5587611692484805,-0.15476141745420438
+204522220,Advanced Program Restructuring for High-Performance Computers with Polaris,2000,13,46,10,1.0,84560969,Lawrence Rauchwerger,0,-0.11748982716362817,-0.22155416633400452
+34246808,A java compiler for many memory models - extended abstract,2001,6,0,1,1.0,2123005755,David Padua,0,-2.7827903544844976,0.623320131270772
+633716547,Program Composition and Optimization Autotuning Scheduling Metaprogramming and Beyond,2010,0,0,2,0.0,2071532528,Markus PÃ¼schel,0,-0.0929732185522016,0.3190050748758887
+238934872,Restructuring Fortran Programs for Cedar,1991,0,12,3,1.0,312486069,Jay Hoeflinger,0,-0.16795569340420236,0.051188248988237955
+1568041580,Searching for the Best FFT Formulas with the SPL Compiler,2000,9,15,1,1.0,2123005755,David Padua,0,-0.7428422800875553,0.0261949038153367
+1532095066,Analysis of Irregular Single-Indexed Array Accesses and Its Applications in Compiler Optimizations,2000,21,13,1,1.0,2123005755,David Padua,0,-1.4760769171564965,-0.7917095382511725
+1568493188,Interprocedural parallelization using memory classification analysis,1998,0,32,2,1.0,312486069,Jay Hoeflinger,0,-0.9599054122992978,-0.29690492288309195
+1534890693,Advances in languages and compilers for parallel processing,1991,0,27,1,1.0,2123005755,David Padua,0,0.1533548483345586,0.38369798295309276
+1491161008,Compiling programs with user parallelism,1990,0,28,1,1.0,2123005755,David Padua,0,-0.1164726804531344,0.019252515865476
+1499914966,Advanced Program Restructuring for High-Performance,1996,9,0,10,1.0,84560969,Lawrence Rauchwerger,0,0.04836516043439626,-0.2720513337525139
+1555896373,Design Issues in Parallel Array Languages for Shared Memory,2008,11,3,1,1.0,2123005755,David Padua,0,-0.21756313684369766,1.8759464534999604
+1565457163,FALCON A MATLAB Interactive Restructuring Compiler,1995,20,58,4,1.0,115078576,Efstratios Gallopoulos,0,-0.1142588937896301,-0.12472491175718123
+1495312391,Experience in the Automatic Parallelization of Four Perfect-Benchmark Programs,1991,11,81,3,1.0,312486069,Jay Hoeflinger,0,-0.7130831769846221,-0.1702286212183947
+1548864292,Beyond Arrays - A Container-Centric Approach for Parallelization of Real-World Symbolic Applications,1998,23,8,1,1.0,2123005755,David Padua,0,-0.6836591605538699,-0.0988940609575804
+1595177480,MaJIC a MATLAB just-in-time compiler,2001,13,18,2,0.0,2077032929,Gheorghe Almasi,0,-1.1840792133313103,-0.7199838322034906
+1753575245,Evaluating the impact of thread escape analysis on a memory consistency model-aware compiler,2005,21,1,2,1.0,1998841898,Zehra Sura,0,-0.8362317557312869,0.5025303080851192
+1844404537,A language for the compact representation of multiple program versions,2005,30,53,4,0.0,651843436,Keshav Pingali,0,-0.830814672163626,-0.12054179913186269
+1856176155,A Preliminary Study on the Vectorization of Multimedia Applications for Multimedia Extensions,2003,22,22,1,1.0,2123005755,David Padua,0,-0.20810373328094522,-0.40999941349633184
+1976848527,Automatic detection of nondeterminacy in parallel programs,1988,7,83,2,0.0,251035819,Perry A. Emrath,0,-0.1164726804531344,0.019252515865476
+1978979183,Standards for graph algorithm primitives,2013,4,56,6,0.0,288512535,Jack Dongarra,0,-0.1164726804531344,0.019252515865476
+1968628974,MaJIC compiling MATLAB for speed and responsiveness,2002,16,70,1,1.0,2123005755,David Padua,0,-0.13992033650185762,0.2058525823316916
+1977601009,The Polaris internal representation,1994,5,35,5,1.0,312486069,Jay Hoeflinger,0,-0.48345257188218405,0.14705121934751805
+1976556187,Compiler research the next 50 years,2009,2,56,2,0.0,651843436,Keshav Pingali,0,-0.44869122900443015,-0.00015649039724540022
+1976611694,Compiler Algorithms for Synchronization,1987,21,151,1,1.0,2123005755,David Padua,0,-0.7991050089547814,-0.2458378888096085
+1988073455,Compilers and interpreters archive,2000,0,0,1,1.0,2123005755,David Padua,0,-0.858531533827809,0.08005860607138199
+2001186224,OR parallel execution of Prolog programs with side effects,1988,17,14,3,1.0,1921829438,David C. Sehr,0,-0.29657482969861576,-0.2069142925109497
+2010497096,Compiler techniques for high performance sequentially consistent java programs,2005,27,80,2,1.0,1998841898,Zehra Sura,0,-1.272117933885226,0.3846080703688745
+2014073886,The Fortran I compiler,2000,10,7,1,1.0,2123005755,David Padua,0,-1.2148907057417466,0.06057447696910126
+2013156670,An Evaluation of Vectorizing Compilers,2011,17,129,1,1.0,2123005755,David Padua,0,0.06130909010786691,0.04643903773114494
+2043548159,Programming the FlexRAM parallel intelligent memory system,2003,18,25,3,1.0,529361719,Paul Feautrier,0,-2.666366964330596,-1.1111628681954318
+2043555680,Dependence graphs and compiler optimizations,1981,19,555,3,0.0,705603598,David J. Kuck,0,-0.6591461561369789,0.4227919738075687
+2044228869,Containers on the parallelization of general-purpose Java programs,1999,13,9,1,1.0,2123005755,David Padua,0,-0.7032800629979087,-0.09784036172468975
+2035426133,Cedar Fortran and other vector and parallel Fortran dialects,1990,27,25,3,1.0,312486069,Jay Hoeflinger,0,-0.06583433642686762,-0.09125859435030936
+2044516680,Vector seeker a tool for finding vector potential,2014,7,7,3,0.0,2109906170,G. Carl Evans,0,-0.7924981301496952,-0.1592096318166939
+2055060936,Basic compiler algorithms for parallel programs,1999,30,77,1,1.0,2123005755,David Padua,0,-1.7308914228061667,0.05106674756296487
+2041630299,Detecting nondeterminacy in parallel programs,1992,3,34,1,1.0,2123005755,David Padua,0,-0.1164726804531344,0.019252515865476
+2073420577,Guest Editors Introduction Languages For Computational Science and Engineering,1998,0,0,2,0.552824,2075111996,Rudolf Eigenmann,0,1.8155551173254516,0.5094123078658817
+2070302004,Compiling for scalable multiprocessors with polaris,1997,0,3,2,1.0,1983415555,Yunheung Paek,0,-0.23941350830680289,0.1797524062496339
+2066968438,Vectorization of apply to reduce interpretation overhead of R,2015,33,5,1,1.0,2123005755,David Padua,0,-0.4709751800596937,0.49588962030994366
+2072277531,SPL a language and compiler for DSP algorithms,2001,9,167,1,1.0,2123005755,David Padua,0,-1.8423967865007833,-0.21236443540069205
+2072373931,Optimization techniques for efficient HTA programs,2012,43,12,3,0.333333,1562019009,Christoph von Praun,0,-0.38991184421730385,-0.20620860900155055
+2077774770,Cedar Fortran and its compiler,1990,11,13,3,1.0,312486069,Jay Hoeflinger,0,-2.928002357296877,-1.2881192575949405
+2060327922,Simplification of array access patterns for compiler optimizations,1998,25,54,3,1.0,312486069,Jay Hoeflinger,0,-0.6290062650033871,1.5930855892885567
+2067716098,Problem-solving environments for parallel computers,1992,21,0,1,1.0,2123005755,David Padua,0,-0.27250491724998716,0.03881940011312953
+2078429521,The LRPD test speculative run-time parallelization of loops with privatization and reduction parallelization,1995,39,219,2,1.0,84560969,Lawrence Rauchwerger,0,-0.3722737214547102,0.027603667105503035
+2080570636,Event synchronization analysis for debugging parallel programs,1989,9,60,1,1.0,2123005755,David Padua,0,-0.16795569340420236,0.051188248988237955
+2087929260,In search of a program generator to implement generic transformations for high-performance computing,2006,53,42,2,0.0,2106562128,Sebastien Donadio,0,1.414626187705612,0.15746144767869336
+2103871060,A MATLAB to Fortran 90 translator and its effectiveness,1996,14,46,2,1.0,2102716162,Luiz De Rose,0,-0.008882432259535866,-0.16405834701376162
+2101304735,Polaris The Next Generation in Parallelizing Compilers,2000,10,55,9,1.0,84560969,Lawrence Rauchwerger,0,-0.6124786753244766,-0.03177534239378221
+2085170922,Proceedings of the 32nd ACM SIGPLAN Conference on Programming Language Design and Implementation,2011,0,0,1,1.0,2123005755,David Padua,0,-0.13686986346728383,-0.07661603483804223
+2098688018,Advanced compiler optimizations for supercomputers,1986,41,610,2,0.0,2045813758,Michael Wolfe,0,-0.6346583154468208,0.14176274076743822
+2098742706,Is OpenMP for grids,2002,11,19,4,0.0,716284559,Ayon Basumallik,0,-1.5431347002806632,-0.3062758928537016
+2096022420,Common runtime support for high-performance parallel languages,1993,0,9,12,0.0,2017222965,Ian Foster,0,1.030586902667655,-0.4735563910515766
+2099281741,Programming with tiles,2008,33,34,2,1.0,2007170314,Ganesh Bikshandi,0,-0.5666857694969294,-0.2001396286860292
+2128994965,Performance Portability with the Chapel Language,2012,34,29,2,0.0,1503830126,Albert Sidelnik,0,-0.25276407228035747,0.16918823611863143
+2105768184,Automatic implementation of programming language consistency models,2002,19,17,2,1.0,1998841898,Zehra Sura,0,-0.2553530701828599,0.14128068497563961
+2106472852,Automatic program parallelization,1993,128,254,2,0.952381,2075111996,Rudolf Eigenmann,0,-1.0515524921442874,0.027432587579190253
+2113003932,Task-Parallel versus Data-Parallel Library-Based Programming in Multicore Systems,2009,14,15,1,1.0,2123005755,David Padua,0,-0.1164726804531344,0.019252515865476
+2143549041,On the automatic parallelization of the Perfect Benchmarks(R),1998,29,83,3,1.0,312486069,Jay Hoeflinger,0,-1.5441977802731162,0.126355780072285
+2110815776,Practices of PLDI,2014,2,0,4,0.0,1994117774,Jeremy Gibbons,0,-0.1164726804531344,0.019252515865476
+2122878128,Techniques for the translation of MATLAB programs into Fortran 90,1999,21,80,2,1.0,2102716162,Luiz De Rose,0,-0.41675719399492944,-0.08407798049333876
+2143964612,An empirical study on the vectorization of multimedia applications for multimedia extensions,2005,31,40,1,1.0,2123005755,David Padua,0,-0.1941875032337629,-0.19903863394596633
+2117225830,Restructuring Fortran programs for Cedar,1993,21,23,3,1.0,312486069,Jay Hoeflinger,0,-0.16795569340420236,0.051188248988237955
+2165180677,Outline of a roadmap for compiler technology,1996,0,6,1,1.0,2123005755,David Padua,0,-1.3296509269644141,0.253569543797008
+2178998673,10191 Abstracts Collection -- Program Composition and Optimization Autotuning Scheduling Metaprogramming and Beyond,2010,0,0,2,0.0,2071532528,Markus PÃ¼schel,0,-0.0929732185522016,0.3190050748758887
+2147324331,Problem solving environments,1989,3,0,1,1.0,2123005755,David Padua,0,2.478733477334916,1.06927098331756
+2162277033,Compiler techniques for matlab programs,1996,0,15,2,1.0,2102716162,Luiz De Rose,0,-0.6527623511105106,0.4101616725933807
+2179462756,On the automatic parallelization of sparse and irregular Fortran programs[1]This work is supported in part by Army contract DABT63-95-C-0097; Army contract N66001-97-C-8532; NSF contract MIP-9619351; and a Partnership Award from IBM This work is not necessarily representative of the positions or policies of the Army or Government,1999,21,0,1,1.0,2123005755,David Padua,0,-0.730039827127398,-0.1325628400787877
+2159560337,Programming for parallelism and locality with hierarchically tiled arrays,2006,21,110,4,0.333333,1562019009,Christoph von Praun,0,-0.41559338253397365,-0.18615587669312642
+2165767970,A compiler for multiple memory models,2004,0,11,1,1.0,2123005755,David Padua,0,-2.604908210773116,-0.223825720050706
+2169248772,Polaris Improving the Effectiveness of Parallelizing Compilers,1994,14,76,9,1.0,84560969,Lawrence Rauchwerger,0,-0.859977023239779,-0.017156131474648208
+2163472376,Cedar Fortran and other vector and parallel Fortran dialects,1988,31,8,3,1.0,312486069,Jay Hoeflinger,0,-0.06583433642686762,-0.09125859435030936
+2160692725,Programming for locality and parallelism with hierarchically tiled arrays,2003,14,16,3,1.0,593384113,George AlmÃ¡si,0,-0.358023484986753,0.03890903664691364
+2145813943,Hierarchically tiled arrays for parallelism and locality,2006,20,10,2,1.0,2007170314,Ganesh Bikshandi,0,-0.44869122900443015,-0.00015649039724540022
+2152044434,On the Automatic Parallelization of Sparse and Irregular Fortran Programs,1998,32,61,1,1.0,2123005755,David Padua,0,-0.9549414528991365,-0.10165654927406262
+2167639788,Optimizing data permutations for SIMD devices,2006,24,80,1,1.0,2123005755,David Padua,0,0.3181565366726276,0.347080458238473
+2165033482,Program Composition and Optimization An Introduction,2010,26,0,2,0.0,2071532528,Markus PÃ¼schel,0,2.138381929053889,-0.6347814659145177
+2232692515,Programming and compiling for distributed architectures,2002,0,0,2,0.0,2119428500,Jiajing Zhu,0,0.5071049059633193,0.18535783580888582
+2281776495,Compilers and the Furture of High Performance Computing,2015,0,1,1,1.0,2123005755,David Padua,0,-1.0223929236720275,0.10912793914112279
+2336421818,New abstractions for data parallel programming,2009,21,12,1,1.0,2123005755,David Padua,0,0.8428641312971319,0.9829989060565718
+2343619386,A Language for the Compact Representation of Multiple Program Versions Proceedings of the 18 th International Workshop on Languages and Compilers for Parallel Computing (2005),2011,0,2,4,0.0,651843436,Keshav Pingali,0,-0.44869122900443015,-0.00015649039724540022
+2493167431,Machines Languages and Compilers for Parallel Symbolic Computing,1988,28,1,2,0.757576,705603598,David J. Kuck,0,-0.9923829474351518,-0.39577477374651665
+2469760737,A preliminary study on the vectorization of multimedia applications for multimedia extensions,2004,0,8,1,1.0,2123005755,David Padua,0,-0.20810373328094522,-0.40999941349633184
+2481385370,Programming for locality and parallelism with hierarchically tiled arrays,2004,0,5,3,1.0,593384113,George AlmÃ¡si,0,-0.358023484986753,0.03890903664691364
+2524331291,Logic of Lemmings in Compiler Innovation,2009,0,1,2,0.0,651843436,Keshav Pingali,0,-0.44869122900443015,-0.00015649039724540022
+2566397426,High level abstractions and automatic optimization techniques for the programming of irregular algorithms,2016,0,0,1,1.0,2123005755,David Padua,0,-0.47222774181715743,-0.008209633710197072
+2540089100,Prolog at the University of Illinois,1988,13,0,4,0.0,688151781,Benjamin W. Wah,0,1.4369058124458194,-0.13253104843951313
+2734600852,ACM SIGPLAN Notices Message from the general chairs,2010,0,0,2,0.0,1979151169,Ramaswamy Govindarajan,0,-0.1164726804531344,0.019252515865476
+2731365079,Intraprocedural Pointer Analysis for Container-Centric Applications,2001,0,0,1,1.0,2123005755,David Padua,0,-0.8498845742705498,0.3677811057367349
+2766727538,A DSL for Performance Orchestration,2017,2,0,3,0.0,293862447,William Gropp,0,0.26850191002802476,-0.22449788449765218
+2772752644,LORE A loop repository for the evaluation of compilers,2017,16,6,4,1.0,293007071,Alexander V. Veidenbaum,0,-1.0237187999325221,-0.7089159664271123
+2764698212,Automatic program parallelization Languages and compilers,1993,0,2,2,0.952381,2075111996,Rudolf Eigenmann,0,-0.8564766213280173,0.05888532133706445
+2921932275,Locus a system and a language for program optimization,2019,30,2,2,0.0,293862447,William Gropp,0,-0.5254508114506293,0.39878126876720293
+2899373334,An Empirical Study of the Effect of Source-levelLoop Transformations on Compiler Stability,2018,0,0,3,1.0,293007071,Alexander V. Veidenbaum,0,-0.44869122900443015,-0.00015649039724540022
+2913993290,Proceedings of the 3rd ACM SIGPLAN International Workshop on Libraries Languages and Compilers for Array Programming,2016,0,0,3,0.0,1212014382,Andreas KlÃ¶ckner,0,-0.9144783689727934,-0.008720544467806067
+2892581504,Session details Race detection,2003,0,0,1,1.0,2123005755,David Padua,0,-0.1164726804531344,0.019252515865476
+2911733991,Proceedings of the 3rd ACM SIGPLAN International Workshop on Libraries Languages and Compilers for Array Programming,2016,0,0,3,0.0,1212014382,Andreas KlÃ¶ckner,0,-0.9144783689727934,-0.008720544467806067
+3015160107,Session details Keynote address,2014,0,0,1,1.0,2123005755,David Padua,0,-0.1164726804531344,0.019252515865476

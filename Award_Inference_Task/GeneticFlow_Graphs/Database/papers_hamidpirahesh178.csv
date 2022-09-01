@@ -1,0 +1,77 @@
+53283472,Adaptive Database Caching with DBCache,2004,4,62,3,1.0,1266459441,Christof BornhÃ¶vd,0,-0.0041099411153885,0.0447066884760059
+87705828,A Starburst is Born,1990,0,1,3,0.67915,401236404,Guy M. Lohman,0,-0.0041099411153885,0.0447066884760059
+105408422,Incremental maintenance for non-distributive aggregate functions,2002,23,99,2,0.0,2086321988,Themistoklis Palpanas,0,0.13165213916684437,0.6152533245601481
+146922646,Maintenance of Automatic Summary Tables,2000,0,11,3,0.392711,2119605707,Wolfgang Lehner,0,-0.0041099411153885,0.0447066884760059
+114693888,An Overview of Extensibility in Starburst,1987,0,10,2,1.0,2106934193,John McPherson,0,-0.0041099411153885,0.0447066884760059
+14900795,XQery for Analytics Challenges and Requirements,2004,0,10,2,1.0,2026396360,Fatma Ozcan,0,-0.0041099411153885,0.0447066884760059
+1496363899,Querying Historical Data in IBM DB2 C/S DBMS Using Recursive SQL,1995,10,5,2,0.0,2135647477,T. Y. Cliff Leung,0,0.44063247567122316,-0.14189397490517355
+1524011117,Alert An Architecture for Transforming a Passive DBMS into an Active DBMS,1991,21,133,2,0.0,2138427228,Rakesh Agrawal,0,0.044859856903840555,0.012551371775477651
+1542249726,Query rewrite optimization rules in IBM DB2 universal database,1998,0,7,4,0.204918,2063640528,Joseph M. Hellerstein,0,0.7215975991611812,0.3052417628859806
+1507035330,Document-centric OLAP in the schema-chaos world,2006,16,6,3,0.199239,212794494,Yannis Sismanis,0,2.790607019602564,-0.9809886347580942
+1499807075,Progressive optimization in action,2004,1,6,5,0.0,401236404,Guy M. Lohman,0,0.014532710543751099,0.030944858938630852
+1555331700,Integrating Triggers and Declarative Constraints in SQL Database Sytems,1996,28,58,1,1.0,2213038480,Hamid Pirahesh,0,0.8266483623517606,0.18931489170830365
+1519885749,Composite-object views in relational DBMS an implementation perspective,1994,39,12,2,0.0,2020635548,Bruce G. Lindsay,0,1.5376729531885367,0.25628161147265305
+1485782945,Cache tables paving the way for an adaptive database cache,2003,18,124,5,1.0,1266459441,Christof BornhÃ¶vd,0,-0.0041099411153885,0.0447066884760059
+1547831574,A framework for using materialized XPath views in XML query processing,2004,17,144,4,0.37037,1208114522,Andrey Balmin,0,3.150617341146724,-1.1683440960242408
+1846087057,The Magic of Duplicates and Aggregates,1990,20,155,3,0.952381,112579409,Inderpal Singh Mumick,0,1.5172740393453403,0.25603277571918714
+1598467895,Impliance A Next Generation Information Management Appliance,2007,25,6,6,1.0,293843641,Vuk Ercegovac,0,-0.40975864434508047,0.2110873139452707
+1916576906,Efficiently Publishing Relational Data as XML Documents,2001,24,324,6,0.952381,1980638931,Berthold Reinwald,0,2.383330673966443,-0.8959962555659011
+1719639935,ROX relational over XML,2004,15,40,4,0.886585,344688379,Vanja Josifovski,0,2.204516257808672,-0.9030423910738197
+1973656812,IBM UFO repository object-oriented data integration,2009,23,17,3,0.0,2137878772,Howard Ho,0,-0.36585160111389553,0.22217787108735965
+1974809924,Using the co-existence approach to achieve combined functionality of object-oriented and relational systems,1993,17,14,3,0.230107,2113166105,Tobin J. Lehman,0,0.7765458295832361,0.40545666923970736
+1991341498,Storing and using objects in a relational database,1996,29,30,3,1.0,1980638931,Berthold Reinwald,0,1.5173174821289,0.25844422766505204
+2001829999,Implementing a scalable XML publish/subscribe system using relational database systems,2004,19,67,3,1.0,1980638931,Berthold Reinwald,0,1.643706694109571,-0.27838812867446056
+1988504473,Extensible/rule based query rewrite optimization in Starburst,1992,24,332,2,0.30303,2063640528,Joseph M. Hellerstein,0,0.0908845357243609,0.31128747720343375
+2009896441,Information discovery in loosely integrated data,2007,3,7,4,0.37037,1208114522,Andrey Balmin,0,0.4375538096531388,0.0820047816050874
+2026344425,Canonical abstraction for outerjoin optimization,2004,34,83,3,0.331229,2139751229,Calisto Zuzarte,0,0.28141507142338595,0.22104108782974835
+2028226582,Eagle-eyed elephant split-oriented indexing in Hadoop,2013,29,32,6,0.199239,212794494,Yannis Sismanis,0,1.280998861166585,1.2724092752974203
+2021640262,Extending XQuery for analytics,2005,13,89,3,1.0,2026396360,Fatma Ozcan,0,2.01077727628526,-0.5264748832630791
+2028800250,DBCache database caching for web application servers,2002,2,24,6,0.0,2020635548,Bruce G. Lindsay,0,2.2565439175514648,0.42128423456691166
+2038692154,WinMagic subquery elimination using window aggregation,2003,11,32,3,0.0,2118700654,Linqi Liu,0,-0.6487468931252336,0.13668239483288513
+2054644843,Efficient and flexible methods for transient versioning of records to avoid locking by read-only transactions,1992,14,146,1,1.0,2213038480,Hamid Pirahesh,0,-0.25142422156114436,0.21929531271583175
+2046269252,Starburst mid-flight as the dust clears (database project),1990,42,234,7,0.67915,401236404,Guy M. Lohman,0,1.15941583720679,0.24889372652238476
+2041563709,Robust query processing through progressive optimization,2004,24,204,5,0.0,401236404,Guy M. Lohman,0,-0.23110885929603256,0.7682063706058481
+2055958975,The Asilomar report on database research,1998,0,207,12,0.0,225366896,Michael Lesk,0,-0.0041099411153885,0.0447066884760059
+2075487083,Object-oriented features of DB2 client/server,1994,0,4,1,1.0,2213038480,Hamid Pirahesh,0,-0.0041099411153885,0.0447066884760059
+2061749544,Extensions to Starburst objects types functions and rules,2010,60,1,4,0.0,401236404,Guy M. Lohman,0,1.6366982355438207,0.2591994692661874
+2077515046,DBCache middle-tier database caching for highly scalable e-business architectures,2003,0,35,5,1.0,1266459441,Christof BornhÃ¶vd,0,-0.06235356923406975,-0.223505170783772
+2068901259,Answering complex SQL queries using automatic summary tables,2000,12,137,4,0.0,1965815696,Markos Zaharioudakis,0,1.2989211336570705,0.3682768814434296
+2070822026,A function-based access control model for XML databases,2005,25,32,2,0.684541,1981359440,Jussi Myllymaki,0,3.1816382470618727,-1.2145449000635584
+2062156243,Heterogeneous query processing through SQL table functions,1999,15,46,3,1.0,1980638931,Berthold Reinwald,0,0.8266483623517606,0.18931489170830365
+2070895734,System RX one part relational one part XML,2005,33,131,10,0.886585,344688379,Vanja Josifovski,0,2.3485049625640406,-0.9375414068725034
+2057354799,A data management extension architecture,1987,8,89,3,0.57045,2020635548,Bruce G. Lindsay,0,1.0229446155438153,0.0947929092214434
+2071395959,A snapshot differential refresh algorithm,1986,1,138,3,0.0,726454095,Paul F. Wilms,0,-1.1166515425214711,-0.8397334965117197
+2087796842,Implementation of magic-sets in a relational database system,1994,25,67,1,1.0,2213038480,Hamid Pirahesh,0,1.8036553188623532,0.24153042339443143
+2103201239,Data cube a relational aggregation operator generalizing GROUP-BY CROSS-TAB and SUB-TOTALS,1996,9,2036,2,0.0,2131537204,Jim Gray,0,-0.5478949300867403,1.309747009378328
+2103229629,Information integration A research agenda,2002,19,76,1,1.0,2213038480,Hamid Pirahesh,0,0.5478008059751176,-0.23476148727439017
+2104027502,Extensibility in the Starburst database system,1986,15,97,4,0.0,401236404,Guy M. Lohman,0,2.189261719656693,0.4375117721641403
+2079555167,XML data management (panel session) go native or spruce up relational systems ,2001,0,5,2,0.0,172573358,Guido Moerkotte,0,2.86591141791933,-1.1634890263100996
+2104945737,Maintenance of cube automatic summary tables,2000,4,24,3,0.392711,2119605707,Wolfgang Lehner,0,1.901466873024071,0.5622172946276698
+2104954161,ARIES a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging,1992,77,935,3,0.0,2020635548,Bruce G. Lindsay,0,1.0379580384326323,0.5893068493718912
+2112100026,fAST refresh using mass query optimization,2001,13,44,2,0.392711,2119605707,Wolfgang Lehner,0,1.3386868167616508,0.4601389904646512
+2118138066,ARIES-RRH restricted repeating of history in the ARIES transaction recovery method,1991,24,61,1,1.0,2213038480,Hamid Pirahesh,0,1.3442433985933468,1.0363002277139004
+2118173195,Middle-tier database caching for e-business,2002,15,185,5,0.0,2020635548,Bruce G. Lindsay,0,-0.5062890218132238,-0.5706392211752012
+2112491581,Compiled Query Execution Engine using JVM,2006,22,88,3,0.0,401236404,Guy M. Lohman,0,0.8754333171113846,0.10998082045402051
+2133232641,SQL/XNF-Processing composite objects as abstractions over relational data,1993,28,25,2,0.0,2020635548,Bruce G. Lindsay,0,1.227286939411848,0.16122532946092738
+2139551853,A rule engine for query transformation in Starburst and IBM DB2 C/S DBMS,1997,20,54,2,0.0,2163520829,T.Y.C. Leung,0,0.8778557184558151,0.19096605224210253
+2122406210,Cost-based optimization for magic algebra and implementation,1996,29,105,8,0.30303,2063640528,Joseph M. Hellerstein,0,0.6098792596777616,0.13516045054372308
+2134179408,Complex query decorrelation,1996,10,131,2,0.384615,2133257660,Praveen Seshadri,0,0.7004586893598838,0.16112607304821117
+2116929859,Starburst II the extender strikes back ,1991,0,1,7,0.582021,401236404,Guy M. Lohman,0,-0.0041099411153885,0.0447066884760059
+2108294512,SQL open heterogeneous data access,1998,0,22,2,1.0,1980638931,Berthold Reinwald,0,0.8266483623517606,0.18931489170830365
+2183669956,A Generic Solution to Integrate SQL and Analytics for Big Data,2015,10,2,4,0.0,1980638931,Berthold Reinwald,0,0.044859856903840555,0.012551371775477651
+2145037882,Using EELs a practical approach to outerjoin and antijoin reordering,2001,11,37,4,0.0,401236404,Guy M. Lohman,0,1.2440163359148388,-0.0005086560539224501
+2151979016,DB2 goes hybrid integratng native XML and XQuery with relational data and SQL,2006,31,38,10,0.886585,344688379,Vanja Josifovski,0,2.3485049625640406,-0.9375414068725034
+2182304357,Joins for Hybrid Warehouses Exploiting Massive Parallelism in Hadoop and Enterprise Data Warehouses,2015,29,10,4,0.0,2026396360,Fatma Ozcan,0,0.07551609043563044,0.3211496254283451
+2200545814,Extensible query processing in starburst,1989,47,257,2,0.67915,401236404,Guy M. Lohman,0,0.7215975991611812,0.3052417628859806
+2199040044,EFFICIENT PROCESSING OF QUERIES IN FEDERATED DATABASE SYSTEMS,2008,13,43,3,0.0,315403968,Anjali Betawadkar Norwood,0,0.014532710543751099,0.030944858938630852
+2284846908,Composite-object views in relational DBMS an implementation perspective (extended abstract),1994,0,1,2,0.0,2020635548,Bruce G. Lindsay,0,1.2399623701947253,0.24142753320218208
+2295651970,Magic conditions,1996,27,25,4,0.5,112579409,Inderpal Singh Mumick,0,0.30391813115165506,0.1802299157895754
+2428665651,Wildfire Concurrent Blazing Data Ingest and Analytics,2016,8,8,9,0.0,401236404,Guy M. Lohman,0,0.044859856903840555,0.012551371775477651
+2548933032,Building a Hybrid Warehouse Efficient Joins between Data Stored in HDFS and Enterprise Warehouse,2016,44,7,4,0.0,2026396360,Fatma Ozcan,0,0.403611240874249,-0.08060717609719073
+2584505023,Evolving Databases for New-Gen Big Data Applications,2017,11,4,12,0.0,401236404,Guy M. Lohman,0,0.06635930819191084,0.49152641060504293
+2522904197,Adornments in database programs,1994,0,3,3,0.952381,112579409,Inderpal Singh Mumick,0,0.014532710543751099,0.030944858938630852
+2764434593,IBM UFO Repository,2009,22,12,3,0.0,208931610,Michael N. Gubanov,0,-0.0041099411153885,0.0447066884760059
+2951602731,Impliance A Next Generation Information Management Appliance,2006,0,0,6,1.0,293843641,Vuk Ercegovac,0,-0.40975864434508047,0.2110873139452707
+2949146102,The Asilomar Report on Database Research,1998,0,5,12,0.0,225366896,Michael Lesk,0,-0.0041099411153885,0.0447066884760059
+2965024626,WiSer A Highly Available HTAP DBMS for IoT Applications,2019,24,0,10,0.0,401236404,Guy M. Lohman,0,0.7525368217049581,0.7966910560300162
+3008451085,WiSer A Highly Available HTAP DBMS for IoT Applications,2019,24,0,9,0.0,401236404,Guy M. Lohman,0,0.7525368217049581,0.7966910560300162

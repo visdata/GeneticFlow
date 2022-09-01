@@ -1,0 +1,91 @@
+87400274,I Sensed It Was You Authenticating Mobile Users with Sensor-enhanced Keystroke Dynamics,2014,60,71,3,0,2064923061,Cristiano Giuffrida,0,-0.8779448489559915,0.22815193963662747
+109802382,SafeCard a gigabit IPS on the network card,2006,33,35,4,0,1974744087,Tomas Hruby,0,0.13679434731489165,0.6751406926737795
+181178495,System-Level support for intrusion recovery,2012,28,9,3,0,210846225,Asia Slowinska,0,0.12023449475255885,0.5134924901907059
+183091776,Data Structure Archaeology Scrape Away the Dirt and Glue Back the Pieces ,2014,30,3,4,0,210846225,Asia Slowinska,0,-1.404627948013058,1.7108362342957069
+201766245,Memory errors the past the present and the future,2012,58,80,3,0,1967828555,Lorenzo Cavallaro,0,0.1639362940477497,0.6530314529854678
+187378220,Instruction-Level Steganography for Covert Trigger-Based Malware,2014,17,10,2,0,1985263506,Dennis Andriesse,0,0.010218149710712466,0.5306485903136974
+85558978,On Botnets That Use DNS for Command and Control,2011,17,7,5,0,201106088,Felix C. Freiling,0,0.27038685203235036,0.39722103912283685
+334550907,FORWARD Threat Report,2009,0,0,10,0,59249629,Engin Kirda,0,0.9979785762254678,1.1723912944516908
+283225250,Anticipating Security Threats to a Future Internet,2009,13,4,7,0,59249629,Engin Kirda,0,-0.09602735134178905,0.6849619620451437
+1489277271,Facilitating Trust on Data through Provenance,2014,9,2,3,0,2055974275,Manolis Stamatogiannakis,0,-0.389207769800751,0.43283245687511657
+1507845365,Dowsing for overflows a guided fuzzer to find buffer boundary violations,2013,38,109,4,0,57987472,Matthias Neugschwandtner,0,0.0040557659796233,0.2757546058061082
+1544471297,Size does matter why using gadget-chain length to prevent code-reuse attacks is hard,2014,28,87,5,0,198647274,Michalis Polychronakis,0,-1.1180566081538228,0.5596738011988476
+1420805064,Nice Boots - A Large-Scale Analysis of Bootkits and New Ways to Stop Them,2015,22,5,4,0,1926793356,Bernhard Grill,0,-0.3976003713362508,1.164290882867107
+1436795700,Research in attacks intrusions and defenses 17th international symposium RAID 2014 Gothenburg Sweden September 17-19 2014 proceedings,2014,0,0,3,0,255162683,Georgios Portokalidis,0,-0.014816508406035789,0.611182310406818
+1575696720,Future threats to future trust,2009,0,8,5,0,59249629,Engin Kirda,0,-0.026935442062065097,0.6757773598318226
+1512979674,Towards software-based signature detection for intrusion prevention on the network card,2005,26,21,2,0,2166606534,Kaiming Huang,0,-0.2125840823071597,0.5351809670844976
+1821004526,Minemu the worlds fastest taint tracker,2011,27,81,3,0,210846225,Asia Slowinska,0,-0.3479663798020421,1.2340322915827624
+1980296610,MINIX 3 a highly reliable self-repairing operating system,2006,30,103,5,0,2068854845,Andrew S. Tanenbaum,0,0.0040557659796233,0.2757546058061082
+1976866799,SoK P2PWNED - Modeling and Evaluating the Resilience of Peer-to-Peer Botnets,2013,21,123,6,0,1985263506,Dennis Andriesse,0,0.15814281163728464,0.7452689183512463
+1987851356,Highly resilient peer-to-peer botnets are here An analysis of Gameover Zeus,2013,11,64,5,0,1985263506,Dennis Andriesse,0,-0.11789865406400801,0.4103502383308374
+1993682390,Practical Context-Sensitive CFI,2015,47,86,8,0,210846225,Asia Slowinska,0,0.0040557659796233,0.2757546058061082
+2026193792,Systems Security at VU University Amsterdam,2011,19,1,3,0,1967828555,Lorenzo Cavallaro,0,0.3259332239481683,0.5745734317069635
+2022018347,Framing Signals - A Return to Portable Shellcode,2014,16,43,2,0,1975052440,Erik Bosman,0,-0.1684966684858935,-0.05099831265940241
+2022292029,Out of Control Overcoming Control-Flow Integrity,2014,33,217,4,0,255162683,Georgios Portokalidis,0,-0.6374321313972565,0.7165519675208408
+2037017056,Pointless tainting evaluating the practicality of pointer tainting,2009,31,113,2,0,210846225,Asia Slowinska,0,-0.2177528157656167,0.8947872591000647
+2040920300,Reliable Recon in Adversarial Peer-to-Peer Botnets,2015,21,16,3,0,1985263506,Dennis Andriesse,0,-0.1279360968652073,0.038084196655618116
+2063104870,On measuring the impact of DDoS botnets,2014,4,22,2,0,2080016176,Christian Rossow,0,0.0040557659796233,0.2757546058061082
+2065540707,StackArmor Comprehensive Protection From Stack-based Memory Error Vulnerabilities for Binaries,2015,62,52,4,0,210846225,Asia Slowinska,0,0.0040557659796233,0.2757546058061082
+2060782570,Paranoid Android versatile protection for smartphones,2010,33,306,4,0,143871111,Kostas G. Anagnostakis,0,-0.22684964772494434,0.5553590878829306
+2092756033,Sandnet network traffic analysis of malicious software,2011,11,59,6,0,201106088,Felix C. Freiling,0,0.028051208515957434,0.6416131366717536
+2097742961,The Age of Data Pinpointing Guilty Bytes in Polymorphic Buffer Overflows on Heap or Stack,2007,50,18,1,0,2269201832,Herbert Bos,0,-0.7321263709962786,-0.5584563304160991
+2083183119,Prudent Practices for Designing Malware Experiments Status Quo and Outlook,2012,52,117,7,0,716133098,Vern Paxson,0,0.05940095047987125,0.6960502266457337
+2133217855,Argos an emulator for fingerprinting zero-day attacks for advertised honeypots with automatic signature generation,2006,34,184,3,0,210846225,Asia Slowinska,0,0.5876755489118469,0.7726541303494885
+2124591881,Protecting smart phones by means of execution replication,2010,30,3,3,0,255162683,Georgios Portokalidis,0,0.0040557659796233,0.2757546058061082
+2186224748,Dynamic Analysis of Android Malware,2013,57,18,3,0,2080016176,Christian Rossow,0,-0.28071484656264584,1.2804470890791197
+2180277119,PIE Parser Identification in Embedded Systems,2015,35,6,5,0,2266742,AurÃ©lien Francillon,0,-0.6567160340281432,1.3137850476034183
+2147794177,Eudaemon involuntary and on-demand emulation against zero-day exploits,2008,33,18,2,0,255162683,Georgios Portokalidis,0,0.10371539242929195,0.5918708737361019
+2172280164,Countering IPC Threats in Multiserver Operating Systems (A Fundamental Requirement for Dependability),2008,27,7,5,0,2068854845,Andrew S. Tanenbaum,0,-0.7717159106142022,0.3585146410322329
+2167270386,Can we make operating systems reliable and secure,2006,10,130,3,0,2068854845,Andrew S. Tanenbaum,0,0.0040557659796233,0.2757546058061082
+2211880739,Large-Scale analysis of malware downloaders,2012,10,38,3,0,2080016176,Christian Rossow,0,-0.12865763131220598,0.7098264350265233
+2280053563,MINIX 3 Status report and current research,2010,0,0,7,0,1827461646,Raja Appuswamy,0,0.0040557659796233,0.2757546058061082
+2294593465,Instruction-Level Steganography for Covert Trigger-Based Malware (Extended Abstract),2014,14,2,2,0,1985263506,Dennis Andriesse,0,0.010218149710712466,0.5306485903136974
+2317430245,METAlloc efficient and comprehensive metadata management for software security hardening,2016,14,7,4,0,1500421387,Erik van der Kouwe,0,-1.3721930698182816,1.7734739921660752
+2296346842,ShrinkWrap VTable Protection without Loose Ends,2015,21,22,5,0,255162683,Georgios Portokalidis,0,0.0040557659796233,0.2757546058061082
+2398293534,SysSec Managing Threats and Vulnerabilities in the Future Internet,2012,1,1,2,0,1973983982,Evangelos P. Markatos,0,0.0040557659796233,0.2757546058061082
+2398729674,Howard A Dynamic Excavator for Reverse Engineering Data Structures,2011,35,116,1,0,2269201832,Herbert Bos,0,-0.6567160340281432,1.3137850476034183
+2496999134,An In-Depth Analysis of Disassembly on Full-Scale x86/x64 Binaries,2016,45,36,4,0,210846225,Asia Slowinska,0,0.0040557659796233,0.2757546058061082
+2491829854,Flip Feng Shui Hammering a Needle in the Software Stack,2016,35,85,6,0,1975052440,Erik Bosman,0,-0.5530861437885858,-0.004176666300269333
+2460232746,Undermining Information Hiding (and What to Do about It),2016,27,32,6,0,255162683,Georgios Portokalidis,0,-0.5892553621832213,0.0028719768634359114
+2487602542,Poking Holes in Information Hiding,2016,30,35,3,0,2064923061,Cristiano Giuffrida,0,-0.3287690164964345,0.14636193449847731
+2537014044,Drammer Deterministic Rowhammer Attacks on Mobile Platforms,2016,18,113,8,0,162010076,Yanick Fratantonio,0,0.1639362940477497,0.6530314529854678
+2519952770,IFuzzer An Evolutionary Interpreter Fuzzer Using Genetic Programming,2016,32,21,2,0,1985346222,Istvan Haller,0,0.0040557659796233,0.2757546058061082
+2516668814,Dedup Est Machina Memory Deduplication as an Advanced Exploitation Vector,2016,30,103,4,0,1975052440,Erik Bosman,0,-0.8065902010533353,-0.7522971552358149
+2516933175,A Tough Call Mitigating Advanced Code-Reuse Attacks at the Binary Level,2016,28,65,5,0,2041487606,Enes Goktas,0,0.1639362940477497,0.6530314529854678
+2506380823,Detection of Intrusions and Malware and Vulnerability Assessment,2011,0,1,1,0,2269201832,Herbert Bos,0,0.05940095047987125,0.6960502266457337
+2534135179,TypeSan Practical Type Confusion Detection,2016,17,31,5,0,1500421387,Erik van der Kouwe,0,0.0040557659796233,0.2757546058061082
+2535974843,POSTER Identifying Dynamic Data Structures in Malware,2016,15,1,4,0,342943809,Jan Tobias MÃ¼hlberg,0,-0.2027033480730352,1.1121484395892325
+2725598243,CodeArmor Virtualizing the Code Space to Counter Disclosure Attacks,2017,86,19,2,0,2064923061,Cristiano Giuffrida,0,0.0040557659796233,0.2757546058061082
+2605597658,No Need to Hide Protecting Safe Regions on Commodity Hardware,2017,69,32,3,0,2064923061,Cristiano Giuffrida,0,0.0040557659796233,0.2757546058061082
+2613534458,VUzzer Application-aware Evolutionary Fuzzing,2017,18,146,2,0,2064923061,Cristiano Giuffrida,0,0.0040557659796233,0.2757546058061082
+2611399219,Bypassing Clangs SafeStack for Fun and Profit,2016,0,0,5,0,255162683,Georgios Portokalidis,0,0.0040557659796233,0.2757546058061082
+2611419992,Over the Edge Silently Owning Windows 10s Secure Browser,2016,0,1,4,0,1975052440,Erik Bosman,0,0.0040557659796233,0.2757546058061082
+2615210454,How Anywhere Computing Just Killed Your Phone-Based Two-Factor Authentication,2016,15,15,2,0,2109265691,Victor van der Veen,0,-0.920829974165307,-0.23697737804779895
+2607024327,Off-the-shelf Embedded Devices as Platforms for Security Research,2017,28,5,2,0,2044536833,Kaveh Razavi,0,-0.007067860235395507,0.5606461549784598
+2703005719,Detection of Intrusions and Malware and Vulnerability Assessment - 8th International Conference; DIMVA 2011,2012,0,0,1,0,2269201832,Herbert Bos,0,0.05940095047987125,0.6960502266457337
+2612138144,MARX Uncovering Class Hierarchies in C++ Programs,2017,16,16,5,0,2064923061,Cristiano Giuffrida,0,0.0040557659796233,0.2757546058061082
+2612883158,SafeInit Comprehensive and Practical Mitigation of Uninitialized Read Vulnerabilities,2017,34,13,2,0,2064923061,Cristiano Giuffrida,0,0.0040557659796233,0.2757546058061082
+2593507755,Research in attacks intrusions and defenses 18th international symposium RAID 2015 Kyoto Japan november 2-4 2015 proceedings,2015,0,2,3,0,126037460,Fabian Monrose,0,0.0040557659796233,0.2757546058061082
+2766313665,The Dynamics of Innocent Flesh on the Bone Code Reuse Ten Years Later,2017,73,22,4,0,1985263506,Dennis Andriesse,0,-0.6374321313972565,0.7165519675208408
+2764315795,Secure Page Fusion with VUsion,2017,20,8,3,0,2044536833,Kaveh Razavi,0,0.0040557659796233,0.2757546058061082
+2795140743,Towards Automated Vulnerability Scanning of Network Servers,2018,10,2,2,0,2064923061,Cristiano Giuffrida,0,0.3259332239481683,0.5745734317069635
+2795222486,Grand Pwning Unit Accelerating Microarchitectural Attacks with the GPU,2018,27,33,3,0,2044536833,Kaveh Razavi,0,0.9753907213017128,-0.24445946668398916
+2782558714,Benchmarking crimes An emerging threat in systems security,2018,18,10,5,0,1500421387,Erik van der Kouwe,0,0.0040557659796233,0.2757546058061082
+2803720122,Evaluation of current state of amplification-based DDoS attacks,2018,0,0,2,0,2055974275,Manolis Stamatogiannakis,0,0.2298079768514764,0.5248260330915578
+2889199359,Malicious management unit Why stopping cache attacks in software is harder than you think,2018,0,8,3,0,2044536833,Kaveh Razavi,0,-0.14465052035516807,0.7929546758980089
+2889508486,Translation leak-aside buffer Defeating cache side-channel protections with TLB attacks,2018,0,37,4,0,2044536833,Kaveh Razavi,0,0.1543327639476817,-0.8803013502059543
+2889929196,Defeating software mitigations against rowhammer A surgical precision hammer,2018,15,16,3,0,2044536833,Kaveh Razavi,0,0.0040557659796233,0.2757546058061082
+2890228473,MineSweeper An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense,2018,26,28,5,0,2001160045,Christopher Kruegel,0,-0.5706461877748199,0.6114707819578639
+2913535734,Proceedings of the 18th International Symposium on Research in Attacks Intrusions and Defenses - Volume 9404,2015,0,0,3,0,126037460,Fabian Monrose,0,0.0040557659796233,0.2757546058061082
+2911528774,Proceedings of the 8th international conference on Detection of intrusions and malware and vulnerability assessment,2011,0,0,1,0,2269201832,Herbert Bos,0,0.05940095047987125,0.6960502266457337
+2897725969,BinRec Attack Surface Reduction Through Dynamic Binary Recovery,2018,29,8,5,0,297668329,Stijn Volckaert,0,1.085097682730419,1.950487146920374
+2920633071,Malicious cryptocurrency miners Status and Outlook,2019,6,0,2,0,2096157845,Veelasha Moonsamy,0,-0.4186068902298573,0.8808683715694443
+2954241526,RIDL Rogue In-Flight Data Load,2019,51,26,3,0,2044536833,Kaveh Razavi,0,-0.11124040362566429,0.44101072305392736
+2934419927,ProbeGuard Mitigating Probing Attacks Through Reactive Program Transformations,2019,58,1,3,0,1500421387,Erik van der Kouwe,0,-1.3721930698182816,1.7734739921660752
+2934715626,kMVX Detecting Kernel Information Leaks with Multi-variant Execution,2019,39,2,3,0,2064923061,Cristiano Giuffrida,0,0.11505252042739722,0.1608507826231097
+2974891422,Exploiting Correcting Codes On the Effectiveness of ECC Memory Against Rowhammer Attacks,2019,49,14,3,0,2044536833,Kaveh Razavi,0,1.3665356770304218,-0.7459495292582675
+3015177556,TRRespass Exploiting the Many Sides of Target Row Refresh,2020,71,1,4,0,2044536833,Kaveh Razavi,0,0.0040557659796233,0.2757546058061082
+3020105429,ParmeSan Sanitizer-guided Greybox Fuzzing,2020,0,0,3,0,2044536833,Kaveh Razavi,0,0.0040557659796233,0.2757546058061082
+3015942900,NetCAT Practical Cache Attacks from the Network,2020,0,2,4,0,1985263506,Dennis Andriesse,0,-1.8808803569139176,0.5776868256503648
+3006681736,Benchmarking Flaws Undermine Security Research,2020,13,0,5,0,1500421387,Erik van der Kouwe,0,0.0040557659796233,0.2757546058061082
+3007037833,ABSynthe Automatic Blackbox Side-channel Synthesis on Commodity Microarchitectures,2020,0,0,3,0,2044536833,Kaveh Razavi,0,0.9753907213017128,-0.24445946668398916

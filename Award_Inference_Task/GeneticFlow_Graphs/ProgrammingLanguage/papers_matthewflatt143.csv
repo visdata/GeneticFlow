@@ -1,0 +1,87 @@
+18221845,Mixing COP and OOP,2001,10,5,2,1.0,969023723,Sean McDirmid,0,0.004880576560232004,-0.20432588490386505
+190038403,DrScheme A Pedagogic Programming Environment for Scheme,1997,18,76,3,0.0,113813022,Matthias Felleisen,0,-0.4933335406508436,-0.14765940248201184
+55561661,PLT MrEd Graphical Toolbox Manual,2006,4,9,1,1.0,2046621229,Matthew Flatt,0,-0.3554268472048493,0.09680434994998954
+167795673,Magpie precise garbage collection for c,2006,42,2,1,1.0,2046621229,Matthew Flatt,0,-0.1164726804531344,0.019252515865476
+136527485,Static Debugging Browsing the Web of Program Invariants,1996,0,5,3,0.0,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+153414275,How to Design Programs An Introduction to Computing and Programming,2006,0,16,3,0.0,113813022,Matthias Felleisen,0,2.6480725522424917,0.09562312873315454
+248673818,Kill-Safe Synchronization Abstractions Well it just so happens that your friend here is only mostly dead Theres a big difference between mostly dead and all dead - Miracle Max in The Princess Bride,2004,19,0,2,0.936981,214583831,Robert Bruce Findler,0,-0.1164726804531344,0.019252515865476
+1525436703,Programming languages for reusable software components,2000,0,30,2,0.0,113813022,Matthias Felleisen,0,2.429115941117851,-1.0230088989952995
+1544818949,Semantic Casts Contracts and Structural Subtyping in a Nominal World,2004,41,22,3,0.0,113813022,Matthias Felleisen,0,0.7808237752706383,-0.32872374705420054
+1518650316,Semantics Engineering with PLT Redex,2009,0,196,3,0.0,113813022,Matthias Felleisen,0,0.20469260502960515,-0.15575603605694893
+1484092744,A Visual Environment for Developing Context-Sensitive Term Rewriting Systems,2004,14,43,3,0.0,113813022,Matthias Felleisen,0,-0.25274911280721585,-0.0433695725631315
+1606286650,Scheme with classes mixins and traits,2006,27,41,3,0.0,113813022,Matthias Felleisen,0,-0.021886380512528763,-0.8696288415063075
+1963572054,The Racket virtual machine and randomized testing,2012,39,14,2,0.0,214583831,Robert Bruce Findler,0,-0.7811695756808149,0.0012105141636144002
+1856452982,Typing the numeric tower,2012,23,14,4,0.0,113813022,Matthias Felleisen,0,-0.4939339351659789,-0.026913734374436275
+1779102629,Modeling an Algebraic Stepper,2001,21,58,2,0.0,113813022,Matthias Felleisen,0,-0.4513587283342365,-0.35285533386350787
+1980895171,Kill-safe synchronization abstractions,2004,20,37,2,0.936981,214583831,Robert Bruce Findler,0,-1.3601005822729582,-0.8043671849295039
+1976323078,Places adding message-passing parallelism to racket,2011,17,10,2,0.0,214583831,Robert Bruce Findler,0,0.09478346060394029,0.19642344378332277
+1967698620,Catching bugs in the web of program invariants,1996,24,74,3,0.0,113813022,Matthias Felleisen,0,-0.3009262192910057,0.10961893833737663
+2022373880,Modular object-oriented programming with units and mixins,1998,35,152,2,1.0,214583831,Robert Bruce Findler,0,1.1749404405782529,-0.35550487235258865
+2027665876,The DrScheme project an overview,1998,6,26,2,1.0,214583831,Robert Bruce Findler,0,0.34424319201054093,-0.2196399570640611
+2017233431,Programming languages as operating systems ( or revenge of the son of the lisp machine),1999,27,55,3,0.0,113813022,Matthias Felleisen,0,0.9908741767848629,0.7828490048964859
+2015554455,Jiazzi new-age components for old-fasioned Java,2001,27,167,2,1.0,969023723,Sean McDirmid,0,-3.398624779427819,-0.09026439332787899
+2027137911,Precise garbage collection for C,2009,57,31,2,0.0,1993899960,John Regehr,0,0.282728016791112,0.07346778771637708
+2022114508,Adding delimited and composable control to a production programming environment,2007,28,29,3,0.0,113813022,Matthias Felleisen,0,-0.07323581315593955,0.3247935718577267
+2015077407,DrScheme a programming environment for Scheme,2002,31,207,4,0.0,113813022,Matthias Felleisen,0,-0.3131021307652275,0.05769830100053436
+2029215055,Back to the futures incremental parallelization of existing sequential runtime systems,2010,12,15,2,0.0,214583831,Robert Bruce Findler,0,0.4391044659065182,-0.08916725717742718
+2032854382,Syntactic abstraction in component interfaces,2005,23,13,2,1.0,1994987434,Scott Owens,0,-0.008688881834787632,-0.2556171659672761
+2034675142,Seeing the futures profiling shared-memory parallel racket,2012,14,2,4,0.0,214583831,Robert Bruce Findler,0,-0.3067905322810602,-0.0403055951816053
+2040185748,Program Units as Higher-Order Modules,1998,22,0,2,0.0,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2054410248,Random testing for higher-order stateful programs,2010,29,16,2,0.0,214583831,Robert Bruce Findler,0,0.7670206076469819,0.48064514319293883
+2044190403,POP-PL a patient-oriented prescription programming language,2016,28,5,2,0.0,214583831,Robert Bruce Findler,0,1.6820067147174607,-2.0110934971935
+2049946917,Scribble closing the book on ad hoc documentation tools,2009,14,22,3,0.0,214583831,Robert Bruce Findler,0,-0.17968519513659462,0.13926442162066144
+2041183503,A functional I/O system or fun for freshman kids,2009,25,34,3,0.0,113813022,Matthias Felleisen,0,-0.2717201910197867,-0.21702144132377565
+2043261859,Units cool modules for HOT languages,1998,25,198,2,0.0,113813022,Matthias Felleisen,0,-0.7656514997506867,0.1083318726389549
+2055806388,Composable and compilable macros you want it when ,2002,20,85,1,1.0,2046621229,Matthew Flatt,0,-0.3705589856734247,-0.20691523556818311
+2075161796,Slideshow functional presentations,2006,15,7,2,0.733026,214583831,Robert Bruce Findler,0,-0.4092206616038536,-0.0401083610130616
+2082334237,Run your research on the effectiveness of lightweight mechanization,2012,56,56,6,0.0,8915013,Carl Eastlund,0,1.7622273951989755,-1.4152832537281235
+2080648611,Classes and mixins,1998,24,375,2,0.0,113813022,Matthias Felleisen,0,-0.27513465154167277,0.0569988433408697
+2097304805,A Programmers Reduction Semantics for Classes and Mixins,1999,31,138,2,0.0,113813022,Matthias Felleisen,0,-0.22264813208339831,-0.37996388457871794
+2100469857,ProfessorJ a gradual introduction to Java through language levels,2003,7,42,1,1.0,2046621229,Matthew Flatt,0,-2.829486603747001,0.3650820096969632
+2100562635,From structures and functors to modules and units,2006,29,23,2,1.0,1994987434,Scott Owens,0,-0.0754732807451217,-0.4891240505258594
+2101225843,Revised6 report on the algorithmic language scheme,2009,29,87,3,0.0,615884038,R. Kent Dybvig,0,0.6084549563118233,0.5346362008912174
+2101718506,Languages as libraries,2011,48,126,4,0.0,113813022,Matthias Felleisen,0,2.3625616312127926,-0.8054987398186945
+2095932826,Honu syntactic extension for algebraic notation through enforestation,2012,32,17,1,1.0,2046621229,Matthew Flatt,0,-0.40310548175268696,-0.28524097838628587
+2123357908,Fine-grained interoperability through mirrors and contracts,2005,34,45,2,0.822888,214583831,Robert Bruce Findler,0,-0.5536686537030495,0.011641493330294302
+2126328048,Submodules in racket you want it when again ,2014,22,7,1,1.0,2046621229,Matthew Flatt,0,0.5239696569141715,0.3227809929629745
+2135508600,Expressive Modular Linking for Object-Oriented Languages,2002,22,2,2,1.0,969023723,Sean McDirmid,0,0.7779866511386367,-0.2030625274402904
+2112857708,Advanced Macrology and the Implementation of Typed Scheme,2007,20,19,2,0.203962,546024081,Sam Tobin Hochstadt,0,1.6588963192486843,-0.5201599812425468
+2139574270,Lexer and Parser Generators in Scheme,2004,13,13,2,1.0,1994987434,Scott Owens,0,-0.8183466132184959,0.27198500737497683
+2124734282,Super and inner together at last ,2004,28,34,2,0.936981,214583831,Robert Bruce Findler,0,-0.19869525859306658,-0.08885997974138063
+2156155076,A framework for modular linking in OO languages,2006,28,2,2,0.606061,969023723,Sean McDirmid,0,0.2751531786518982,-0.15146473452913686
+2159271289,Slideshow functional presentations,2004,16,11,2,0.936981,214583831,Robert Bruce Findler,0,-0.4092206616038536,-0.0401083610130616
+2186326494,Adapting Scheme-Like Macros to a C-Like Language,2011,26,3,1,1.0,2046621229,Matthew Flatt,0,-0.3417831395219211,-0.19803040404590339
+2153700707,The structure and interpretation of the computer science curriculum,2004,22,36,3,0.0,113813022,Matthias Felleisen,0,0.9327737377417331,0.4500505566802508
+2153723920,ABI compatibility through a customizable language,2010,44,8,1,1.0,2046621229,Matthew Flatt,0,1.3452579433642087,-0.0898681215193257
+2169661165,Chaperones and impersonators run-time support for reasonable interposition,2012,33,58,3,0.0,214583831,Robert Bruce Findler,0,-0.2905935066895586,-0.14439510090405325
+2182808956,Programming Languages and Lambda Calculi (Summer 2006 Revised Version),2006,8,4,2,0.0,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2253750756,Towards Practical Gradual Typing,2015,50,15,4,0.0,113813022,Matthias Felleisen,0,0.004880576560232004,-0.20432588490386505
+2249437077,The racket manifesto,2015,0,24,5,0.0,113813022,Matthias Felleisen,0,2.5857624040812723,-0.8534696071692089
+2312248497,Compiling Java to PLT Scheme,2004,10,6,1,1.0,2046621229,Matthew Flatt,0,-3.158098872240171,0.30772241311094034
+2304058405,Application binary interface compatibility through a customizable language,2011,43,0,1,1.0,2046621229,Matthew Flatt,0,0.4967446385182306,-0.17885481028797348
+2299423576,Medic metaprogramming and trace-oriented debugging,2015,20,6,1,1.0,2046621229,Matthew Flatt,0,-0.0929732185522016,0.3190050748758887
+2295447786,Binding as sets of scopes,2016,18,13,1,1.0,2046621229,Matthew Flatt,0,-0.05791357420223047,0.05495594512554519
+2296544889,Macros that work together Compile-time bindings partial expansion and definition contexts,2012,22,20,2,0.0,214583831,Robert Bruce Findler,0,-0.6173316837366972,-0.15531832097420287
+2345125386,Compile-time information in software components,2007,54,1,3,0.0,1989091640,Konrad Slind,0,2.5113394039671806,-0.4801614968601282
+2342998769,Syntactic extension for languages with implicitly delimited and infix syntax,2013,32,2,1,1.0,2046621229,Matthew Flatt,0,-0.9429922776416247,-0.5909736035103189
+2483032819,Scheme with Classes Mixins and Traits,2006,0,0,3,0.0,113813022,Matthias Felleisen,0,-0.12856726633787735,-0.6449186154218927
+2490429167,Towards customizable pedagogic programming languages,2006,56,0,1,1.0,2046621229,Matthew Flatt,0,-1.7555060011261476,-0.07110723308865903
+2471999219,Semantic casts Contracts and structural subtyping in a nominal world,2004,0,0,3,0.0,113813022,Matthias Felleisen,0,0.7808237752706383,-0.32872374705420054
+2502845856,Practical Aspects of Declarative Languages,2014,0,0,1,1.0,2046621229,Matthew Flatt,0,-0.1164726804531344,0.019252515865476
+2540431065,Intermezzo 4 Defining Functions on the Fly,2001,0,0,2,0.0,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2567001691,Journal of Functional Programming Preface,2007,0,0,2,0.0,1988947184,Benjamin C. Pierce,0,-0.4092206616038536,-0.0401083610130616
+2551565449,Designing Abstractions from Examples,2001,0,0,2,0.0,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2563216661,A visual environment for developing context-sensitive term rewriting systems,2004,0,0,3,0.0,113813022,Matthias Felleisen,0,-0.24198146674231866,-0.07089886411622495
+2585545025,A visual environment for developing context-sensitive term rewriting systems,2004,0,0,3,0.0,113813022,Matthias Felleisen,0,-0.25274911280721585,-0.0433695725631315
+2569967313,Building Little Languages With Macros,2004,0,7,3,0.0,113813022,Matthias Felleisen,0,-0.006233154754483453,-0.17586801858970194
+2547353797,Designing Abstractions with First-Class Functions,2001,0,0,2,0.0,113813022,Matthias Felleisen,0,0.05695210608639525,1.0624482781354885
+2621005330,Migratory Typing Ten Years Later,2017,0,5,5,0.0,113813022,Matthias Felleisen,0,-0.20284294504496328,0.0013278369376692335
+2732523541,Source-to-Source Compilation via Submodules,2016,19,0,1,1.0,2046621229,Matthew Flatt,0,0.650137966121676,-0.2438669791078408
+2765332212,Debugging with domain-specific events via macros,2017,26,1,1,1.0,2046621229,Matthew Flatt,0,-0.006233154754483453,-0.17586801858970194
+2787976344,A programmable programming language,2018,36,13,5,0.0,113813022,Matthias Felleisen,0,-0.1164726804531344,0.019252515865476
+2826545012,POP-PL A Patient-Oriented Prescription Programming Language,2018,58,0,4,0.0,214583831,Robert Bruce Findler,0,-0.4215090347634838,0.052272575328411994
+2898486601,Rash from reckless interactions to reliable programs,2018,8,2,1,1.0,2046621229,Matthew Flatt,0,1.0109894618760913,-0.4139296469630293
+2914192673,Distributed Places,2013,16,1,1,1.0,2046621229,Matthew Flatt,0,0.12381548077203264,0.0571866200359961
+2911479839,Proceedings of the 16th ACM SIGPLAN International Conference on Generative Programming Concepts and Experiences,2017,0,0,2,0.0,1576900243,Sebastian Erdweg,0,-0.1164726804531344,0.019252515865476
+2966418763,From Macros to DSLs The Evolution of Racket,2019,0,0,2,0.0,113813022,Matthias Felleisen,0,-0.006233154754483453,-0.17586801858970194
+3014527922,Session details Programming languages,2014,0,0,1,1.0,2046621229,Matthew Flatt,0,-0.1164726804531344,0.019252515865476

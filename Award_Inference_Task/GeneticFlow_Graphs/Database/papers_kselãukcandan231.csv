@@ -1,0 +1,67 @@
+192565963,Acceleration of Data Center-Hosted Distributed Database-driven Web Applications,2003,22,2,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.44896208645412955,-0.540506166364179
+91479421,Large-Scale ASP Replication of Database-Driven Portals,2009,22,0,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.35136399207007657,0.02543658002568942
+196218644,Issues and evaluations of caching solutions for web application acceleration,2002,16,31,2,0.0,21977915,Dmitri V. Kalashnikov,0,-1.6216692524095144,-1.9202367504959987
+200177027,Multi-tiered Cache Management for E-Commerce Web Sites,2003,28,2,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.8605735443488469,-0.6893891765226142
+12624383,Query Optimization in the Presence of Top-k Predicates,2001,0,3,1,1.0,674992784,K. SelÃ§uk Candan,0,0.014532710543751099,0.030944858938630852
+51518710,View invalidation for dynamic content caching in multitiered architectures,2002,27,37,1,1.0,674992784,K. SelÃ§uk Candan,0,1.060996448442222,0.08875847374498995
+1497466130,Facilitating Multimedia Database Exploration through Visual Interfaces and Perpetual Query Reformulations,1997,16,15,1,1.0,674992784,K. SelÃ§uk Candan,0,1.132647697181748,0.4361167879765004
+1533190718,Supporting efficient multimedia database exploration,2001,13,10,1,1.0,674992784,K. SelÃ§uk Candan,0,0.601794965112677,0.3005417067850218
+1225393098,QUEST Query-driven Exploration of Semistructured Data with ConflicTs and Partial Knowledge,2006,25,5,3,0.833333,259750561,Keith W. Kintigh,0,-0.0041099411153885,0.0447066884760059
+1555375211,CachePortal II acceleration of very large scale data center-hosted database-driven web applications,2003,5,16,1,1.0,674992784,K. SelÃ§uk Candan,0,0.17798513866288682,-0.33655504044648943
+1555724468,Secure and Privacy Preserving Outsourcing of Tree Structured Data,2004,23,14,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.6414107070894552,-0.2347807069387349
+1485738746,WReX a scalable middleware architecture to enable XML caching for web-services,2005,20,11,2,1.0,391500506,Junichi Tatemura,0,2.372207693938984,-0.911121930628666
+1605700074,Cache Portal Technology for Accelerating Database-driven e-commerce Web Sites,2001,1,13,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.4197151661071337,-0.42589767901227754
+1598019012,Engineering High Performance Database-Driven E-commerce Web Sites through Dynamic Content Caching,2001,15,2,1,1.0,674992784,K. SelÃ§uk Candan,0,-1.7321422122832841,-1.8307069040135242
+1600144774,Discovering Web Document Associations for Web Site Summarization,2001,7,14,1,1.0,674992784,K. SelÃ§uk Candan,0,-1.6627945427707298,-1.687566370648803
+1893211173,Resource lock commit protocol (RLCP) for multimedia object retrieval,1997,0,1,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.3956236065418351,0.3065754158848702
+1964356327,AFilter adaptable XML filtering with prefix-caching suffix-clustering,2006,24,90,2,1.0,391500506,Junichi Tatemura,0,1.450326935504358,-0.5091630412867563
+1969785169,Evaluations of architectural designs and implementation for database-driven web sites,2002,21,9,1,1.0,674992784,K. SelÃ§uk Candan,0,-1.8289359591193373,-1.7907857721287535
+1985635698,RanKloud a scalable ranked query processing framework on hadoop,2011,12,9,1,1.0,674992784,K. SelÃ§uk Candan,0,0.06229396296721247,-0.5730862446859365
+1978808568,Similarity-based ranking and query processing in multimedia databases,2000,29,49,1,1.0,674992784,K. SelÃ§uk Candan,0,0.059237243901636004,0.1632240854285962
+1977285466,Integrating and querying taxonomies with quest in the presence of conflicts,2007,16,10,3,0.833333,259750561,Keith W. Kintigh,0,0.12628174114238816,0.0039009070058818006
+1980978471,Reducing metadata complexity for faster table summarization,2010,41,6,2,0.601672,351919550,Maria Luisa Sapino,0,0.06058240645183891,-0.17587001443580239
+1986403232,Unraveling multi-dimensional data using pDView,2011,10,0,2,0.0,351919550,Maria Luisa Sapino,0,-0.12308490475753704,0.12345396407465041
+1974117084,Frontiers in Information and Software as Services,2009,32,64,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.8108869101754949,-0.5610543088740699
+1977948203,Hierarchical image modeling for object-based media retrieval,1998,28,17,1,1.0,674992784,K. SelÃ§uk Candan,0,0.119739122485096,0.4583397011045227
+2004905723,Supporting OLAP operations over imperfectly integrated taxonomies,2008,27,16,2,1.0,391500506,Junichi Tatemura,0,-0.3632509700454942,1.1437180412081445
+1991373902,UQBE uncertain query by example for web service mashup,2008,6,20,2,1.0,391500506,Junichi Tatemura,0,0.2925614783647034,-0.8898568205498868
+2006017030,Reasoning for web document associations and its applications in site map construction,2002,17,24,1,1.0,674992784,K. SelÃ§uk Candan,0,-2.078547824263927,-1.9507394683490022
+2022423603,R2DB A System for Querying and Visualizing Weighted RDF Graphs,2012,20,5,2,0.0,351919550,Maria Luisa Sapino,0,-0.12601161983422127,0.25620308204143294
+2019175245,Enabling access-privacy for random walk based data analysis applications,2007,46,2,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.0041099411153885,0.0447066884760059
+2017023770,SkySuite a framework of skyline-join operators for static and stream environments,2013,17,3,1,1.0,674992784,K. SelÃ§uk Candan,0,0.44088137903499935,-0.12768773471070416
+2017075619,FICSR f eedback-based i n c on s istency r esolution and query processing on misaligned data sources,2007,38,26,2,1.0,351919550,Maria Luisa Sapino,0,-0.1240792885585194,-0.013173775290506867
+2041881718,Enabling dynamic content caching for database-driven web sites,2001,15,176,1,1.0,674992784,K. SelÃ§uk Candan,0,-1.8304132711021388,-1.7787889335441123
+2040760959,Freshness-driven adaptive caching for dynamic content web sites,2003,33,18,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.6556607220984657,-0.7401260847663922
+2046119485,Multitiered Cache Management and Acceleration for Database-Driven Websites ,2004,28,1,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.4197151661071337,-0.42589767901227754
+2039663585,Skyline-sensitive joins with LR-pruning,2012,23,15,1,1.0,674992784,K. SelÃ§uk Candan,0,0.49319195589028003,0.03247456718214255
+2048777584,System support for exploration and expert feedback in resolving conflicts during integration of metadata,2008,80,10,2,1.0,351919550,Maria Luisa Sapino,0,-0.5436391937351087,-0.13097511580924182
+2071720491,Acceleration and Monitoring of Data Center-Hosted Distributed Database-Driven Web Applications ,2004,19,0,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.7385584788596807,-0.7874476337193048
+2066786551,Hive open research network platform,2013,8,1,2,0.0,351919550,Maria Luisa Sapino,0,-0.0041099411153885,0.0447066884760059
+2060231590,View management in multimedia databases,2000,71,12,1,1.0,674992784,K. SelÃ§uk Candan,0,0.31139472846452604,-0.22798847901223618
+2102974051,Safety guarantee of continuous join queries over punctuated data streams,2006,22,94,2,1.0,391500506,Junichi Tatemura,0,-0.42845202490949574,0.1450203979855267
+2089734274,Mashup Feeds continuous queries over web services,2007,2,36,2,1.0,391500506,Junichi Tatemura,0,-1.2263971329064993,-1.1609662889895216
+2081525804,Retrieval schedules based on resource availability and flexible presentation specifications,1998,0,36,1,1.0,674992784,K. SelÃ§uk Candan,0,0.0835119396817451,0.051530138659233005
+2098569470,Twig 2 Stack bottom-up processing of generalized-tree-pattern queries over XML documents,2006,21,187,2,1.0,391500506,Junichi Tatemura,0,2.071639212423343,-0.777447191911913
+2114784145,AURA Enabling Attribute-Based Spatial Search in RFID Rich Environments,2009,4,1,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.0560215296634111,0.43982023320763125
+2135602598,Skip-and-prune cosine-based top-k query processing for efficient context-sensitive document retrieval,2009,28,12,1,1.0,674992784,K. SelÃ§uk Candan,0,0.8402509362968995,0.03335456764117449
+2130305445,SEMCOG a hybrid object-based image and video database system and its modeling language and query processing,1999,33,8,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.0041099411153885,0.0447066884760059
+2116085565,SEMCOG a hybrid object-based image database system and its modeling language and query processing,1998,11,13,1,1.0,674992784,K. SelÃ§uk Candan,0,0.5923633114171537,0.2745541005030502
+2107418046,Feedback-driven result ranking and query refinement for exploring semi-structured data collections,2010,35,22,2,0.601672,351919550,Maria Luisa Sapino,0,1.1708977592226582,-0.30221973095014953
+2110803977,AlphaSum size-constrained table summarization using value lattices,2009,34,11,2,0.796834,351919550,Maria Luisa Sapino,0,0.11627582886789564,0.3621724021946999
+2128561619,Hiding Tree Structured Data and Queries from Untrusted Data Stores,2005,16,9,1,1.0,674992784,K. SelÃ§uk Candan,0,0.2744878995364118,-0.23867186264956908
+2123005370,SEMCOG an object-based image retrieval system and its visual query interface,1997,2,5,1,1.0,674992784,K. SelÃ§uk Candan,0,0.0908845357243609,0.31128747720343375
+2148549374,Incremental maintenance of path-expression views,2005,18,41,2,1.0,391500506,Junichi Tatemura,0,1.7057239059101157,-0.32690934803959304
+2148977749,Maintaining XPath views in loosely coupled systems,2006,29,16,2,1.0,391500506,Junichi Tatemura,0,3.474676674326517,0.6239959902077317
+2161139542,Sum-max monotonic ranked joins for evaluating top-k twig queries on weighted data graphs,2007,45,20,2,1.0,351919550,Maria Luisa Sapino,0,0.7288641174178802,-0.08249718578889087
+2250793904,Compressed spatial hierarchical bitmap (cSHB) indexes for efficiently processing spatial range query workloads,2015,33,7,1,1.0,674992784,K. SelÃ§uk Candan,0,0.5850459780864506,-0.25818207347606026
+2250998089,Editorial Narrative-based taxonomy distillation for effective indexing of text collections,2012,53,4,2,0.0,351919550,Maria Luisa Sapino,0,-0.34857978327751216,-0.2513987233039086
+2294291508,Efficient Processing of Skyline-Join Queries over Multiple Data Sources,2015,40,6,1,1.0,674992784,K. SelÃ§uk Candan,0,0.4612748096154063,0.057859001142267795
+2396151252,Large-Scale ASP Replication of Database-Driven Portals,2007,0,0,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.0041099411153885,0.0447066884760059
+2403062219,HCS Hierarchical cut selection for efficiently processing queries on data columns using hierarchical bitmap indices,2014,0,3,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.0041099411153885,0.0447066884760059
+2489175778,XML data integration Schema Extraction and Mapping,2010,97,1,3,0.601672,351919550,Maria Luisa Sapino,0,2.6374380482510933,-1.0070949104699498
+2431344271,2PCP Two-phase CP decomposition for billion-scale dense tensors,2016,26,4,2,0.0,351919550,Maria Luisa Sapino,0,-0.0041099411153885,0.0447066884760059
+2493315237,Quality-based replication of freshness-differentiated web applications and their back-end databases,2005,0,2,1,1.0,674992784,K. SelÃ§uk Candan,0,0.07477025730423427,-0.35750155737021955
+2488457138,Integration of Database and Internet Technologies for Scalable End-to-End E-Commerce Systems,2003,0,7,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.0041099411153885,0.0447066884760059
+2727491131,Erratum Freshness-driven adaptive caching for dynamic content web sites (Data &amp; Knowledge Engineering (2003) 47 2 (269-296) PII S0169023X0300934),2003,0,1,1,1.0,674992784,K. SelÃ§uk Candan,0,-0.8891065030052469,-0.8040926051980031
+2789057076,EDBT Research Session Indexing and Cost Statistics,2014,0,0,3,0.0,261440288,Cigdem Aslay,0,0.18601297105691045,-0.0008472885667257998
+2796126483,Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data,2012,0,6,1,1.0,674992784,K. SelÃ§uk Candan,0,0.06635930819191084,0.49152641060504293

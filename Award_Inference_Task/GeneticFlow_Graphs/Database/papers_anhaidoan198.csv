@@ -1,0 +1,73 @@
+72943092,iMAP Discovering Complex Mappings between Database Schemas,2004,0,96,5,1.0,2095964545,Robin Dhamankar,0,1.3127637616035577,0.14202006220006624
+182728824,Data Warehousing and Caching,2012,0,0,3,0.0,53579654,Zachary G. Ives,0,0.03957853918278262,0.0194679170194738
+65102496,Building data integration systems a mass collaboration approach,2003,32,33,1,1.0,2169716560,AnHai Doan,0,1.1600827022083569,0.34198826453333037
+67108414,Efficient data integration automation collaboration and relaxation,2007,82,3,1,1.0,2169716560,AnHai Doan,0,0.2654673673351636,-0.4939096090697358
+1480810164,Crossing the Structure Chasm,2003,45,82,6,0.0,53579654,Zachary G. Ives,0,0.5480969441452952,0.4988095309792665
+1622528090,The Case for a Structured Approach to Managing Unstructured Data,2009,0,16,7,1.0,1991224182,Pedro DeRose,0,0.2348296109080441,0.5983314430800298
+1975718958,Building Community Wikipedias A Machine-Human Partnership Approach,2008,18,23,6,1.0,1991224182,Pedro DeRose,0,-0.0041099411153885,0.0447066884760059
+1970591376,Introduction to the special issue on semantic integration,2004,20,96,3,0.0,2021138233,Natalya F. Noy,0,1.1263226373598176,-0.4288618690748019
+1965685479,Efficient Information Extraction over Evolving Text Data,2008,23,40,2,0.0,2164040783,Raghu Ramakrishnan,0,-0.4525173065705639,-0.4275175826458679
+1967831627,K-Anonymization as Spatial Indexing Toward Scalable and Incremental Anonymization,2007,30,75,3,0.0,1979791317,David J. DeWitt,0,-0.0041099411153885,0.0447066884760059
+2003536960,Why Big Data Industrial Systems Need Rules and What We Can Do About It,2015,38,10,2,0.0,2122041319,Esteban Arcaute,0,0.06635930819191084,0.49152641060504293
+1997168731,The Beckman Report on Database Research,2014,7,47,19,0.0,360112113,Hosagrahar V. Jagadish,0,0.16961816653767703,0.31221718520020947
+2020694521,Learning to match ontologies on the Semantic Web,2003,41,424,4,1.0,2095964545,Robin Dhamankar,0,-1.8425193511458822,-1.786798459023414
+2022760666,Managing information extraction state of the art and research directions,2006,0,73,2,0.0,2164040783,Raghu Ramakrishnan,0,-0.25303068768727033,1.1451245875182055
+2024621423,Muppet MapReduce-style processing of fast data,2012,15,109,3,0.0,2001295541,Anand Rajaraman,0,-0.24002516410659377,0.4094623095683778
+2021249047,Toward industrial-strength keyword search systems over relational data,2010,31,5,3,0.0,2075622585,Jeffrey F. Naughton,0,1.0892885743827276,0.1804671457168911
+2013214811,Modeling entity evolution for temporal record matching,2014,15,23,3,0.0,2075622585,Jeffrey F. Naughton,0,0.2971137375149884,-0.29987532461792976
+2045463753,Optimizing SQL Queries over Text Databases,2008,27,45,2,1.0,2099613708,Alpa Jain,0,1.1930577160661062,0.2937743100249808
+2035015991,Information extraction challenges in managing unstructured data,2009,17,68,8,1.0,1991224182,Pedro DeRose,0,-0.08312931732479195,0.7511147668573895
+2037289266,The Claremont report on database research,2008,6,119,17,0.0,156875573,Sunita Sarawagi,0,0.11069343465737484,0.7732306852028031
+2040925009,Source-aware Entity Matching A Compositional Approach,2007,31,31,4,1.0,1991224182,Pedro DeRose,0,-0.55161255992968,-0.1581091395366732
+2049770245,Building maintaining and using knowledge bases a report from the trenches,2013,20,59,6,0.0,1950413898,Michel A. Tourn,0,0.31255201073465105,-0.0652648968870233
+2055515830,Matching Schemas in Online Communities A Web 20 Approach,2008,30,92,1,1.0,2169716560,AnHai Doan,0,-0.4675391801888898,-0.6564734639590551
+2103128401,Optimizing complex extraction programs over evolving text data,2009,29,9,3,0.0,2164040783,Raghu Ramakrishnan,0,-0.7134440228877178,0.4506401235975874
+2082611830,Combining keyword search and forms for ad hoc querying of databases,2009,15,82,4,0.0,2075622585,Jeffrey F. Naughton,0,0.0908845357243609,0.31128747720343375
+2101168711,WebIQ Learning from the Web to Match Deep-Web Query Interfaces,2006,26,56,2,0.0,2102819664,Clement Yu,0,-0.0041099411153885,0.0447066884760059
+2095733021,A relational approach to incrementally extracting and querying structure in unstructured data,2007,33,61,3,0.0,2075622585,Jeffrey F. Naughton,0,0.7494374911571599,0.8653039757471153
+2095779006,Chimera large-scale classification using machine learning rules and crowdsourcing,2014,28,49,1,1.0,2169716560,AnHai Doan,0,0.06635930819191084,0.49152641060504293
+2138105615,Semantic-integration research in the database community,2005,88,440,2,0.297495,2154833104,Alon Halevy,0,0.7047420290176296,-0.25259106135044435
+2135209143,Tuffy scaling up statistical inference in Markov logic networks using an RDBMS,2011,42,208,4,1.0,2079278047,Jude W. Shavlik,0,1.204501787921431,0.29860165833699415
+2142051885,Analyzing and revising data integration schemas to improve their matchability,2008,25,18,5,1.0,2039405111,Mayssam Sayyadian,0,0.2807600744873719,-0.0746967125258062
+2130094385,eTuner tuning schema matching software using synthetic scenarios,2007,69,121,4,1.0,2039405111,Mayssam Sayyadian,0,0.2056018341312255,-1.1094695562158838
+2124943418,Building structured web community portals a top-down compositional and incremental approach,2007,38,84,3,1.0,1991224182,Pedro DeRose,0,-0.4197151661071337,-0.42589767901227754
+2125189508,OLAP over imprecise data with domain constraints,2007,31,33,2,0.0,2164040783,Raghu Ramakrishnan,0,-0.2990394825297678,0.6926408458240224
+2116469285,Efficiently incorporating user feedback into information extraction and integration programs,2009,35,44,4,1.0,2010693292,Ba Quy Vuong,0,0.0007211139865546853,0.6474242532421024
+2134145495,SQL Queries Over Unstructured Text Databases,2007,6,28,2,1.0,2099613708,Alpa Jain,0,0.38632121652839624,0.058193535481373765
+2110686900,iMAP discovering complex semantic matches between database schemas,2004,28,350,5,1.0,2095964545,Robin Dhamankar,0,0.5180090584469373,-0.22405172363592865
+2110783067,Privacy-preserving data integration and sharing,2004,28,153,6,0.0,1545984777,Gunther Schadow,0,1.0143542206233107,0.2690044909589719
+2107966677,Corleone hands-off crowdsourcing for entity matching,2014,32,115,5,0.0,2075622585,Jeffrey F. Naughton,0,1.0008187564384776,0.45265008264477036
+2111032703,Entity extraction linking classification and tagging for social media a wikipedia-based approach,2013,33,68,7,0.0,1902676767,Nikesh Lucky Garera,0,-0.0041099411153885,0.0447066884760059
+2117058208,An interactive clustering-based approach to integrating source query interfaces on the deep Web,2004,26,246,3,0.0,2102819664,Clement Yu,0,-0.0041099411153885,0.0447066884760059
+2143852486,Toward scalable keyword search over relational data,2010,26,44,4,0.0,2075622585,Jeffrey F. Naughton,0,0.13564313730626654,-0.0602562688584537
+2125973265,Databases and Web 20 panel at VLDB 2007,2008,8,18,6,0.0,19633248,Sihem Amer Yahia,0,-1.5744116404932662,-1.5003728858307481
+2108267498,Corpus-based schema matching,2005,27,317,2,0.297495,2154833104,Alon Halevy,0,0.07900333030129494,-0.5691623016011652
+2150365753,Reconciling schemas of disparate data sources a machine-learning approach,2001,25,725,3,0.0,2154833104,Alon Halevy,0,0.5011216014940417,-0.2908405005273796
+2144416276,Declarative information extraction using datalog with embedded extraction predicates,2007,27,170,3,0.0,2075622585,Jeffrey F. Naughton,0,-0.020741885968730802,0.3259025471635102
+2168561231,Join Optimization of Information Extraction Output Quality Matters ,2009,17,23,3,0.0,94049422,Panagiotis G. Ipeirotis,0,1.2178502537449285,-1.5947337678562354
+2156454791,Toward best-effort information extraction,2008,20,47,3,1.0,1991224182,Pedro DeRose,0,-0.0041099411153885,0.0447066884760059
+2156580346,Efficient Keyword Search Across Heterogeneous Relational Databases,2007,26,100,2,1.0,2039405111,Mayssam Sayyadian,0,0.4623460660858265,-0.19399125727711541
+2166709576,On the provenance of non-answers to queries over extracted data,2008,28,129,2,0.0,2075622585,Jeffrey F. Naughton,0,0.43739842239757626,0.009947045888208002
+2157617239,Mapping maintenance for data integration systems,2005,35,61,4,0.0,1874840144,Bedoor AlShebli,0,0.2807600744873719,-0.0746967125258062
+2152022036,Efficiently ordering query plans for data integration,2002,20,31,1,1.0,2169716560,AnHai Doan,0,0.7215975991611812,0.3052417628859806
+2164653193,Weighted Proximity Best-Joins for Information Retrieval,2009,16,5,2,0.0,2087025963,Risi Thonangi,0,-0.0041099411153885,0.0447066884760059
+2150175755,Integrating data from disparate sources a mass collaboration approach,2005,5,26,2,0.0,2023416692,A. Kramnik,0,0.24421798981787415,-0.030346612069717435
+2265174505,Crowdsourcing the construction of structured web databases,2013,0,0,2,1.0,2010693292,Ba Quy Vuong,0,-0.08312931732479195,0.7511147668573895
+2293133410,On Debugging Non-Answers in Keyword Search Systems,2015,19,9,4,0.0,2075622585,Jeffrey F. Naughton,0,-0.1894949563118795,-0.11661687146452589
+2406662928,Semantic Integration Workshop at the 2nd International Semantic Web Conference (ISWC-2003),2004,0,4,3,0.0,2021138233,Natalya F. Noy,0,-1.8425193511458822,-1.786798459023414
+2395803568,Crowdsourcing Applications and Platforms A Data Management Perspective,2011,12,31,2,0.0,2078839115,Tim Kraska,0,0.06635930819191084,0.49152641060504293
+2408298952,Social Media Analytics The Kosmix Story,2013,35,8,10,0.0,1902676767,Nikesh Lucky Garera,0,-0.0041099411153885,0.0447066884760059
+2546672044,Magellan toward building entity matching management systems over data science stacks,2016,6,8,3,0.0,2075622585,Jeffrey F. Naughton,0,0.18601297105691045,-0.0008472885667257998
+2604399864,Towards Interactive Debugging of Rule-based Entity Matching,2017,13,5,3,0.0,2075622585,Jeffrey F. Naughton,0,-0.0041099411153885,0.0447066884760059
+2612526608,Falcon Scaling Up Hands-Off Crowdsourced Entity Matching to Build Cloud Services,2017,50,27,4,0.0,2075622585,Jeffrey F. Naughton,0,0.4894165127559078,0.26021367434557957
+2612732335,Human-in-the-Loop Challenges for Entity Matching A Midterm Report,2017,22,13,2,1.0,2145507332,Sanjib Das,0,0.18601297105691045,-0.0008472885667257998
+2764129477,Toward a System Building Agenda for Data Integration,2017,10,0,2,1.0,2145507332,Sanjib Das,0,0.33358745663514683,0.30065967466666654
+2810039498,BigGorilla An Open-Source Ecosystem for Data Preparation and Integration,2018,0,8,3,0.0,2056540169,Behzad Golshan,0,0.30145240071381585,0.1018470805542038
+2792196230,MatchCatcher A Debugger for Blocking in Entity Matching,2018,0,4,1,1.0,2169716560,AnHai Doan,0,-0.0041099411153885,0.0447066884760059
+2807685335,Human-in-the-Loop Data Analysis A Personal Perspective,2018,27,4,1,1.0,2169716560,AnHai Doan,0,-0.0041099411153885,0.0447066884760059
+2889284307,Cloudmatcher a hands-off cloud/crowd service for entity matching,2018,0,3,1,1.0,2169716560,AnHai Doan,0,-0.0041099411153885,0.0447066884760059
+2918094752,SLIC On-The-Fly Extraction and Querying of Web Data,2006,0,0,3,1.0,1991224182,Pedro DeRose,0,-0.0041099411153885,0.0447066884760059
+2949518748,Muppet MapReduce-Style Processing of Fast Data,2012,12,0,3,0.0,2001295541,Anand Rajaraman,0,-0.24002516410659377,0.4094623095683778
+2932232783,Executing Entity Matching End to End A Case Study,2019,0,1,1,1.0,2169716560,AnHai Doan,0,-0.0041099411153885,0.0447066884760059
+2964068340,The Case for a Structured Approach to Managing Unstructured Data,2009,0,13,7,1.0,1991224182,Pedro DeRose,0,0.2348296109080441,0.5983314430800298
+3007024586,The Seattle Report on Database Research,2020,1,0,22,0.0,1916729783,Andrew Pavlo,0,-0.0041099411153885,0.0447066884760059

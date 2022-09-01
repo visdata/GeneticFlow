@@ -1,0 +1,165 @@
+171845970,Integrated UML and modelica system modeling with ModelicaML in Eclipse,2007,5,11,2,0.0,710023935,David Akhvlediani,0,2.4079319557115144,-0.7029196649384072
+105581007,OpenModelica-Python Interoperability Applied to Monte Carlo Simulation,2009,6,3,2,1.0,2020029708,Martin SjÃ¶lund,0,0.14614298084470173,-0.27166568961080556
+38000959,Using the Mathematica environment for generating efficient 3D graphics,1997,4,3,3,1.0,176398503,Vadim Engelson,0,0.5695718173855392,1.914789694797026
+174094821,Industrial Application of OO Mathematical Modeling and Computer Algebra in Mechanical Analysis,1992,0,0,2,1.0,1955978004,Dag Fritzson,0,-0.1164726804531344,0.019252515865476
+175392163,MathModelica-An Object-Oriented Mathematical Modeling and Simulation Environment,2006,34,3,1,1.0,2021091039,Peter Fritzson,0,-0.06933686554142705,-0.1452032618010846
+214732939,Towards Run-time Debugging of Equation-based Object-oriented Languages,2007,5,8,1,1.0,2021091039,Peter Fritzson,0,0.6357533496086143,-0.32231117946313237
+8296664,DrModelica - An Interactive Environment for Learning Modelica and Modeling using MathModelica,2003,10,0,3,1.0,211903838,Peter Bunus,0,-0.1164726804531344,0.019252515865476
+25983866,MathModelica - An Extensible Modeling and Simulation Environment with Integrated Graphics and Literate Programming,2002,33,29,2,0.0,1152697354,Mats Jirstrand,0,-0.1671222150989398,-0.0038527498650238502
+101283705,A Numeric Library for Use in Modelica Simulations with Lapack SuperLU Interpolation and MatrixIO,2006,14,0,3,1.0,211903838,Peter Bunus,0,-0.1164726804531344,0.019252515865476
+102653837,Industrial application of object-oriented mathematical modeling and computer algebra in mechanical analysis,1992,4,17,2,1.0,1955978004,Dag Fritzson,0,-0.6263038707940121,-0.15126315935592288
+233012671,Automatic Parallelization in OpenModelica,2004,0,7,1,1.0,2021091039,Peter Fritzson,0,-0.9599054122992978,-0.29690492288309195
+233357501,The Modelica Standard Library as an Ontology for Modeling and Simulation of Physical Systems,2004,4,1,1,1.0,2021091039,Peter Fritzson,0,0.43074451495290406,-0.07933143738906667
+376866553,Algorithmic Debugging for Imperative Languages with Side-Effects (Abstract),1990,0,0,2,1.0,72569007,Nahid Shahmehri,0,0.21329046450518746,-1.0402444055197064
+237690188,An Interactive Environment for Debugging Declarative Equation-based Languages,2001,17,0,2,1.0,211903838,Peter Bunus,0,0.4965415828933871,-0.19075418575454128
+333252456,Execution of UML State Machines Using Modelica,2010,9,18,3,1.0,1233362096,Wladimir Schamai,0,2.2275374697508306,-1.2483886665773967
+564669360,Algorithmic Debugging for Parallel Message-Passing Procedural Languages,1993,4,0,2,0.0,653795752,Joakim Malmen,0,1.7837883361303533,0.648156427787491
+304023456,A Generic FMU Interface for Modelica,2011,2,11,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+336954962,Comment- and Indentation Preserving Refactoring and Unparsing for Modelica,2008,12,4,1,1.0,2021091039,Peter Fritzson,0,0.8968116727236316,-0.323934864224269
+308690521,An integrated framework for model-driven design and development using Modelica,2004,5,3,1,1.0,2021091039,Peter Fritzson,0,0.43074451495290406,-0.07933143738906667
+644667780,The Architecture of an Incremental Programming Environment and some Notions of Consistency,1985,0,3,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+250359912,Field Type and Field Constructor in Modelica,2004,0,2,2,1.0,145444562,Levon Saldamli,0,-0.1164726804531344,0.019252515865476
+348656702,Generation of Simulation Code from Equation-Based Models for Execution on CUDA-Enabled GPUs,2010,5,5,2,1.0,68809092,Kristian StavÃ¥ker,0,-0.9123037332366617,-0.038177302179231834
+622885729,Compiling and Using Pattern Matching in Modelica,2008,13,11,2,1.0,68809092,Kristian StavÃ¥ker,0,0.14293349324532043,-0.6716672262874175
+256642146,Object Oriented Mathematical Modelling and Compilation to Parallel Code,1997,39,0,1,1.0,2021091039,Peter Fritzson,0,-0.5182381015826999,-0.13126790809654107
+601440456,DEVS-Based Multi-Formalism Modeling and Simulation in Modelica,2000,0,2,2,1.0,211903838,Peter Bunus,0,-0.1164726804531344,0.019252515865476
+320665813,Eclipse Support for Design and Requirements Engineering based on ModelicaML,2007,8,3,1,1.0,2021091039,Peter Fritzson,0,2.2124243165104303,-0.6989246149420193
+431902837,Biochemical Mathematical Modeling with Modelica and the BioChem Library,2007,8,0,2,0.0,1995247107,Martin N. Fransson,0,-0.1164726804531344,0.019252515865476
+582478688,Systems and Tools for Exploratory Programming Overview and Examples,1986,0,1,1,1.0,2021091039,Peter Fritzson,0,0.20811903607547122,0.10055431357453717
+1532077930,Meta Programming and Function Overloading in OpenModelica,2003,9,10,3,1.0,145444562,Levon Saldamli,0,1.2335351504073528,-0.05486416099304053
+1523291253,Lazy Algorithmic Debugging Ideas for Practical Implementation,1993,15,11,1,1.0,2021091039,Peter Fritzson,0,-0.5062240534050033,-0.7620443020487387
+1568488888,The Implementation of ObjectMath - a High-Level Programming Environment for Scientific Computing,1992,6,13,1,1.0,2021091039,Peter Fritzson,0,0.10754919906174176,0.3713105558512974
+1505661932,Classes Types Declarations and Lookup,2015,0,0,1,1.0,2021091039,Peter Fritzson,0,0.3565831429335922,-0.30512949674290085
+1559721426,Bug Localization by Algorithmic Debugging and Program Slicing,1990,9,26,3,1.0,72569007,Nahid Shahmehri,0,0.7531957298404139,0.3383634675546113
+1488759382,The Modelica Standard Library,2011,0,4,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+1497624060,Evaluation of Program Slicing tools,1995,0,16,2,1.0,1227926521,Mariam Kamkar,0,-0.17762673862811015,0.020801808268125766
+1533138303,Towards a distributed programming environment based on incremental compilation,1984,0,81,1,1.0,2021091039,Peter Fritzson,0,-0.45831601303562614,-0.32127125997918726
+1533326984,Composition of XML dialects A ModelicaXML case study,2004,0,3,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+1524526124,Equation-Based Object-Oriented Languages and Tools,2008,16,3,1,1.0,2021091039,Peter Fritzson,0,1.3132341695081733,-0.5018028357494738
+1498068111,Incremental Symbol Processing,1988,18,3,1,1.0,2021091039,Peter Fritzson,0,-0.1666662203781699,0.08286081842540155
+1533571811,Modelica - A Language for Equation-Based Physical Modeling and High Performance Simulation,1998,8,11,1,1.0,2021091039,Peter Fritzson,0,0.38161215303225915,-0.3083710342623206
+1489649483,An integrated Modelica environment for modeling documentation and simulation,1998,6,14,2,1.0,176398503,Vadim Engelson,0,-0.04374083999754541,-0.45096872864404164
+1506824254,Automatic Generation of User Interfaces From Data Structure Specifications and Object-Oriented Application Models,1996,16,13,3,1.0,176398503,Vadim Engelson,0,0.41504772943942686,0.38540260700439255
+1498372388,Abstract Syntax Can Make the Definition of Modelica Less Abstract,2007,15,8,1,1.0,2021091039,Peter Fritzson,0,1.6820067147174607,-2.0110934971935
+1534206228,Appendix Fâ€”Related Objectâ€Oriented Modeling Languages,2010,0,0,1,1.0,2021091039,Peter Fritzson,0,0.7664361867962218,-0.4013657914477576
+1498868633,Higher-Order Acausal Models,2009,25,20,1,1.0,2021091039,Peter Fritzson,0,-0.12357867912687692,-0.023885251028993942
+1517125074,Principles of Object-Oriented Modeling and Simulation with Modelica 21,2004,0,836,1,1.0,2021091039,Peter Fritzson,0,0.30652465067858686,-0.22582014156031185
+1553437683,A Modelica-Based Language for Object-Oriented Modeling with Partial Differential Equations,2001,0,7,2,1.0,145444562,Levon Saldamli,0,0.7664361867962218,-0.4013657914477576
+1544606179,Appendix Bâ€”Mathematicaâ€style Modelica Syntax,2010,0,0,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+1571903449,Inheritance Modifications and Generics,2004,0,0,1,1.0,2021091039,Peter Fritzson,0,1.0850015514185325,0.222856461765369
+1572725695,Generating an Efficient Compiler for a Data Parallel Language from a Denotational Specification,1994,23,4,1,1.0,2021091039,Peter Fritzson,0,-1.0081373198171646,-0.352328790625736
+1545904676,MetaModelica a unified equation-based semantical and mathematical modeling language,2006,25,18,1,1.0,2021091039,Peter Fritzson,0,2.4605291715837168,-0.8978652187386368
+1564824026,Equation-Based Object-Oriented Languages and Tools Report on the Workshop EOOLT 2007 at ECOOP 2007,2007,15,0,1,1.0,2021091039,Peter Fritzson,0,1.3132341695081733,-0.5018028357494738
+1502463906,Incremental declaration handling in Open Source Modelica,2002,0,6,3,1.0,145444562,Levon Saldamli,0,0.524963427790808,-0.6846485508917585
+1485282700,Static And Strong Typing For Extended Mathematica,1970,0,0,1,1.0,2021091039,Peter Fritzson,0,0.18099021639058896,-0.27716758614411946
+1494836481,Parallel Code Generation in MathModelica / An Object Oriented Component Based Simulation Environment,2001,16,4,1,1.0,2021091039,Peter Fritzson,0,-0.2657322801853323,-0.053820584887847515
+1503845287,Variant Handling Inheritance and Composition in the ObjectMath Computer Algebra Environment,1993,16,9,2,1.0,176398503,Vadim Engelson,0,0.7641814212888196,-0.8440697415481909
+1566536240,Modelica Library Overview,2015,0,0,1,1.0,2021091039,Peter Fritzson,0,-0.26331992904995066,-0.13738524969094615
+1567266381,ModelicaXML A Modelica XML Representation with Applications,2003,9,23,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+1567831415,Automatic Generation of Graphical User Interface from C++ Data Structures,2002,0,0,3,1.0,176398503,Vadim Engelson,0,-0.1164726804531344,0.019252515865476
+1576874213,Types in the Modelica Language,2006,13,22,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+1953758723,A Quick Tour of Modelica,2011,0,0,1,1.0,2021091039,Peter Fritzson,0,1.638450920212209,-0.4648786560017112
+1577074301,Appendix D Modelica Standard Library Samples,2015,0,0,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+1605067611,Exception Handling for Modelica,2008,12,10,2,1.0,68809092,Kristian StavÃ¥ker,0,0.07913493806594693,0.11273252258201474
+1876351680,A comparison of metacompilation approaches to implementing Modelica,2011,23,1,2,0.0,1946404797,GÃ¶rel Hedin,0,-0.6531964588901932,-0.1663450212175888
+1803216217,GENERATING A MODELICA COMPILER FROM NATURAL SEMANTICS SPECIFICATIONS,1998,5,29,1,1.0,2021091039,Peter Fritzson,0,0.8878186832982922,-0.24133247562188367
+1589515840,Modelling concurrent activities and resource sharing in Modelica,2003,10,3,2,1.0,193771700,HÃ¥kan Lundvall,0,-0.2333384880986864,-0.07627362079555648
+1581127474,The Need for Debugging Tools for Declarative Equation Based Simulation Languages,2000,0,0,2,1.0,211903838,Peter Bunus,0,-0.1164726804531344,0.019252515865476
+1581358762,A Generalized Framework for Abstraction and Dynamic Loading of Numerical Solvers,2006,9,4,2,0.0,1496272747,Filip Claeys,0,0.5677679052881085,-0.3562164886268803
+1581551702,Modelica - A Strongly Typed System Specification Language for Safe Engineering Practices,2004,9,2,5,1.0,176398503,Vadim Engelson,0,0.3510735215335895,-0.08022228946337884
+1771007965,Towards Automatic Generation of Model Checkable Code From Modelica,2004,10,6,3,1.0,193771700,HÃ¥kan Lundvall,0,-0.1164726804531344,0.019252515865476
+1600129478,Application of Graph Decomposition Techniques to Debugging Declarative Equation Based Languages,2001,0,0,2,1.0,211903838,Peter Bunus,0,0.843257871418055,0.3034397738505471
+1582950852,Appendix E Modelica and Python Scripting,2015,0,0,1,1.0,2021091039,Peter Fritzson,0,0.9126515848402372,0.409072274888798
+1583870245,A Systematic Approach to Advanced Debugging through Incremental Compilation,1983,0,12,1,1.0,2021091039,Peter Fritzson,0,-1.2367210005974203,-0.18178276630546103
+1603087293,Appendix F Related Equation-Based Object Oriented Modeling Languages,2015,0,0,1,1.0,2021091039,Peter Fritzson,0,0.7664361867962218,-0.4013657914477576
+1973366615,MathCode A System for C++ or Fortran Code Generation from Mathematica,2008,2,5,2,1.0,176398503,Vadim Engelson,0,-0.4731024061486345,0.20826176974988786
+1966584166,Symbolic debugging through incremental compilation in an integrated environment,1983,12,31,1,1.0,2021091039,Peter Fritzson,0,-1.6675627292743258,-1.7564386602529511
+1986277556,Preliminary experience from the dice system a distributed incremantal compiling environment,1984,17,32,1,1.0,2021091039,Peter Fritzson,0,-0.664318213327511,-0.13463255059059873
+1974013238,Generating parallel code from object oriented mathematical models,1995,16,6,1,1.0,2021091039,Peter Fritzson,0,0.36849848671734375,-0.23198813554009376
+1970810328,Algorithmic debugging for lazy functional languages,1994,26,70,1,1.0,2021091039,Peter Fritzson,0,-0.4847178541828616,-0.3201342820899277
+1984787345,OpenModelica - A free open-source environment for system modeling simulation and teaching,2006,10,55,4,1.0,145444562,Levon Saldamli,0,0.8049540048241395,-0.779680931571815
+1974717478,Bootstrapping a Compiler for an Equation-Based Object-Oriented Language,2014,52,5,2,1.0,2020029708,Martin SjÃ¶lund,0,-0.3937799090537163,0.38052646570506743
+1973070668,PREDULA a multi-paradigm parallel programming and debugging environment,1992,9,2,1,1.0,2021091039,Peter Fritzson,0,2.0846839816436,0.16070206156120462
+1989252420,Composition of XML Dialects A ModelicaXML Case Study,2005,11,4,2,0.0,490822217,Uwe AÃŸmann,0,2.0976032783787555,-1.0980068805589713
+1994585172,Generalization of an active electronic notebook for teaching multiple programming languages,2010,2,5,2,1.0,2020029708,Martin SjÃ¶lund,0,-0.46587533905806555,-0.4859885286665085
+1994802337,Towards a Benchmark Suite for Modelica Compilers Large Models,2011,4,15,2,1.0,2020029708,Martin SjÃ¶lund,0,-0.34652423579103997,0.00973901662375307
+2007187080,Using assertions in declarative and operational models for automated debugging,1994,25,27,3,1.0,72569007,Nahid Shahmehri,0,-0.37336314787473995,0.426771476995276
+1993687684,An OpenModelica Java External Function Interface Supporting MetaProgramming,2009,2,5,2,1.0,2020029708,Martin SjÃ¶lund,0,-1.399764101874118,0.18787125365000304
+2025599430,A systematic approach to advanced debugging incremental compilation,1983,9,4,1,1.0,2021091039,Peter Fritzson,0,-1.107780592946955,-0.12416042245924164
+2030841914,ObjectMathâ€”an object-oriented language and environment for symbolic and numerical processing in scientific computing,1995,17,17,1,1.0,2021091039,Peter Fritzson,0,-0.5989413578288278,-0.4480140231024473
+2053591391,Debugging natural semantics specifications,2005,16,10,1,1.0,2021091039,Peter Fritzson,0,-0.3620328794485832,0.06706029890840005
+2055460217,A MATLAB to Modelica Translator,2014,5,0,2,1.0,2020029708,Martin SjÃ¶lund,0,-1.388286709767208,-0.16511338225256164
+2067959244,Software features of an extended single instruction machine,1992,9,0,2,0.0,346422981,Petr Kroha,0,-0.24082824597137592,-0.0899777356791478
+2066836426,PARFORMANâ€”AN ASSERTION LANGUAGE FOR SPECIFYING BEHAVIOR WHEN DEBUGGING PARALLEL APPLICATIONS,1996,16,10,2,0.625,2005280795,Mikhail Auguston,0,-0.09313534944245552,0.39573954048726784
+2063621846,An Eclipse-based Integrated Environment for Developing Executable Structural Operational Semantics Specifications,2007,7,2,1,1.0,2021091039,Peter Fritzson,0,-0.46675210397536887,0.045403850016308346
+2065457963,An Overview of the SysML-Modelica Transformation Specification,2010,9,64,2,1.0,1233362096,Wladimir Schamai,0,0.8338275168577723,-0.19851918171668734
+2067189527,Overview and industrial application of code generator generators,1996,14,4,1,1.0,2021091039,Peter Fritzson,0,-0.7338092571322422,-0.11174299845345385
+2065559226,Towards Unified System Modeling and Simulation with ModelicaML Modeling of Executable Behavior Using Graphical Notations,2009,3,72,2,1.0,1233362096,Wladimir Schamai,0,1.9242857768012676,-0.6243877768384063
+2060739012,Efficient Debugging of Large Algorithmic Modelica Applications,2012,10,5,3,1.0,1979071681,Adeel Asghar,0,0.10452119002963689,0.20844966248897276
+2099699622,Determining over- and under-constrained systems of equations using structural constraint delta,2006,9,13,1,1.0,2021091039,Peter Fritzson,0,0.6357533496086143,-0.32231117946313237
+2078819172,A comparison of two metacompilation approaches to implementing a complex domain-specific language,2012,10,0,2,0.0,1946404797,GÃ¶rel Hedin,0,-0.9440602745666602,-0.8374208359897679
+2103973060,Towards a Modular and Accessible Modelica Compiler Backend,2011,9,5,2,1.0,2020029708,Martin SjÃ¶lund,0,-0.5345284563605192,-0.053336365431169035
+2081291922,Integration of OpenModelica in Ptolemy II,2014,5,0,1,1.0,2021091039,Peter Fritzson,0,-0.44869122900443015,-0.00015649039724540022
+2087147784,The need for high-level programming support in scientific computing applied to mechanical analysis,1992,24,27,2,1.0,1955978004,Dag Fritzson,0,-0.07606642626026647,-0.006954302417253172
+2096138810,A Portable Debugger for Algorithmic Modelica Code,2005,6,11,1,1.0,2021091039,Peter Fritzson,0,1.0001987337372131,0.5064751687927943
+2099095521,Usability Criteria for Automated Debugging Systems,1993,23,2,3,1.0,72569007,Nahid Shahmehri,0,-0.3542458213991138,0.062790734395556
+2099165995,Modelica - A Unified Object-Oriented Language for System Modelling and Simulation,1998,15,247,2,1.0,176398503,Vadim Engelson,0,0.46284123536191013,-0.684957805966463
+2126152247,MoUnit -- A Framework for Automatic Modelica Model Testing,2014,7,2,2,0.0,2003738403,Claudio Hillmann,0,3.181603820918454,-0.9374820295654965
+2114527081,The modelica object-oriented equation-based language and its open modelica environment with meta modeling interoperability and parallel execution,2010,26,8,1,1.0,2021091039,Peter Fritzson,0,-0.5351402584912095,-0.11247091803705749
+2117531987,OpenModelica MDT Eclipse plugin for Modelica Development Code Browsing and Simulation,2006,4,3,3,0.0,130094650,Elmir Jagudin,0,0.15580782085622533,-0.2619911826595294
+2141374753,OpenModelica Development Environment with Eclipse Integration for Browsing Modeling and Debugging,2006,7,28,4,0.0,130094650,Elmir Jagudin,0,0.15580782085622533,-0.2619911826595294
+2126628301,Automatic task based analysis and parallelization in the context of equation based languages,2014,7,3,1,1.0,2021091039,Peter Fritzson,0,-0.0937582851109724,-0.4023613631339492
+2117986467,Translation of UML state machines to Modelica Handling semantic issues,2013,14,8,2,1.0,1233362096,Wladimir Schamai,0,2.2275374697508306,-1.2483886665773967
+2109299331,A Debugging Scheme for Declarative Equation Based Modeling Languages,2002,22,11,2,1.0,211903838,Peter Bunus,0,1.2146515058019873,-0.32492381583970575
+2115384449,Semantics guided filtering of combinatorial graph transformations in declarative equation-based languages,2002,7,0,2,1.0,211903838,Peter Bunus,0,0.20357825503650653,-0.165104576573294
+2132951725,Methods for Structural Analysis and Debugging of Modelica Models,2002,9,8,2,1.0,211903838,Peter Bunus,0,0.863775300853,-0.26810724287460735
+2121460997,Towards Comprehensive Meta-Modeling and Meta-Programming Capabilities in Modelica,2005,8,24,1,1.0,2021091039,Peter Fritzson,0,-0.0929732185522016,0.3190050748758887
+2118729583,A design simulation and visualization environment for object-oriented mechanical and multi-domain models in Modelica,1999,5,22,2,1.0,176398503,Vadim Engelson,0,0.6357533496086143,-0.32231117946313237
+2127640282,A data-parallel language and its compilation to a formally defined intermediate language,1992,8,0,1,1.0,2021091039,Peter Fritzson,0,1.9568218888257225,-0.4186375182837708
+2110223222,DrModelica An Interactive Tutoring Environment for Modelica,2003,10,2,3,1.0,211903838,Peter Bunus,0,-0.1164726804531344,0.019252515865476
+2107238869,Towards Modelica 4 Meta-Programming and Language Modeling with MetaModelica 20,2011,33,10,2,1.0,2020029708,Martin SjÃ¶lund,0,0.5943913423138125,-1.5806636517691703
+2125066963,Tutorial 1 introduction to object- oriented Modeling and Simula - tion with openModelica,2008,0,0,3,1.0,193771700,HÃ¥kan Lundvall,0,0.43169790610562786,-0.41492449784405855
+2134080718,Generalized algorithmic debugging and testing,1991,23,62,4,1.0,72569007,Nahid Shahmehri,0,-0.3585292758924445,0.22119645691576983
+2116570149,An Easy-to-use Generic Model Configurator for Models in Multiple Tool Formats,2004,6,2,3,1.0,176398503,Vadim Engelson,0,-0.1164726804531344,0.019252515865476
+2116622335,Bootstrapping a Modelica Compiler aiming at Modelica 4,2011,25,10,2,1.0,2020029708,Martin SjÃ¶lund,0,0.022598884325942387,0.24891235136448717
+2122440006,Integrated Debugging of Equation-Based Models,2014,17,6,6,0.0,287167644,Lennart Ochel,0,0.5762360840292623,-0.1895454454333179
+2131361196,Graphical User Interfaces for Algorithmic Debugging,1993,18,6,1,1.0,2021091039,Peter Fritzson,0,0.21329046450518746,-1.0402444055197064
+2108096428,Modelica â€” A cyber-physical modeling language and the OpenModelica environment,2011,28,24,1,1.0,2021091039,Peter Fritzson,0,0.7094658534485673,-0.21824366070544382
+2134739071,DML-a meta-language and system for the generation of practical and efficient compilers from denotational specifications,1992,25,10,1,1.0,2021091039,Peter Fritzson,0,-0.18354921910758273,-0.04406654319844003
+2153514732,Formal Semantics Based Translator Generation and Tool Development in Practice,2009,29,13,1,1.0,2021091039,Peter Fritzson,0,-0.1946776709411821,-0.0015841317240428976
+2159503156,Modelica - a general object-oriented language for continuous and discrete-event system modeling and simulation,2002,13,118,2,1.0,211903838,Peter Bunus,0,0.9470450978590558,-0.28534599794483895
+2162830719,Static and Dynamic Debugging of Modelica Models,2012,15,14,4,1.0,1844770991,Francesco Casella,0,0.8728031203021533,-0.37532187610539425
+2147980361,Semi-automatic fault localization and behavior verification for physical system simulation models,2003,13,16,2,1.0,211903838,Peter Bunus,0,0.3994367157364609,-0.21070739919505055
+2148180793,Interprocedural dynamic slicing applied to interprocedural data flow testing,1993,9,42,2,1.0,72569007,Nahid Shahmehri,0,1.4636175029679879,-0.1822212953394017
+2184479183,Developing Efficient Language Implementations from Structural and Natural Semantics,2006,7,2,1,1.0,2021091039,Peter Fritzson,0,-0.25799111368390537,-0.05980099555322875
+2163352147,Semi-automatic bug localization in software maintenance,1990,8,21,3,1.0,72569007,Nahid Shahmehri,0,0.39906633434386074,0.7652511111266287
+2163485213,Debugging symbolic transformations in equation systems,2011,14,12,2,1.0,2020029708,Martin SjÃ¶lund,0,-0.44869122900443015,-0.00015649039724540022
+2148857687,Towards Qualifiable Code Generation from a Clocked Synchronous Subset of Modelica,2015,31,1,1,1.0,2021091039,Peter Fritzson,0,-0.15919756866850865,0.31164330222066017
+2155120962,Integrated Debugging of Modelica Models,2014,21,7,4,1.0,1844770991,Francesco Casella,0,0.8728031203021533,-0.37532187610539425
+2175476174,Using Assertions in Declarative and Operational Models for Automated Debugging,1992,0,1,3,1.0,72569007,Nahid Shahmehri,0,-0.37336314787473995,0.426771476995276
+2149641552,Meta-Programming and Language Modeling with MetaModelica 10,2011,32,6,1,1.0,2021091039,Peter Fritzson,0,-0.008102089144878259,-0.8925450203418351
+2170738863,Modelica Based Parser Generator with Good Error Handling,2014,6,2,2,1.0,2020029708,Martin SjÃ¶lund,0,-1.974729064368503,-1.2117981100045632
+2178144714,PREDULA - A Multi-Paradigm Parallel Programming and Debugging Environment,1991,0,0,1,1.0,2021091039,Peter Fritzson,0,1.9791208701127825,0.619652869612504
+2156018017,Generalized algorithmic debugging and testing,1992,25,59,4,1.0,72569007,Nahid Shahmehri,0,-0.3585292758924445,0.22119645691576983
+2150074562,Design Considerations for Dimensional Inference and Unit Consistency Checking in Modelica,2008,12,8,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+2270946533,The Modelica Language,2004,0,2,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+2189438802,3rd International Workshop on Equation-Based Object-Oriented Modeling Languages and Tools,2010,117,0,1,1.0,2021091039,Peter Fritzson,0,1.1108882158274316,-0.45147193285558823
+2189482807,MathModelica An Extensible Modeling and Simulation Environment with Integrated Graphics and Literate Programming (Abridged Version,2002,25,1,2,0.0,1152697354,Mats Jirstrand,0,-0.1671222150989398,-0.0038527498650238502
+2292820636,Formal Requirements Modeling for Simulation-Based Verification,2015,13,12,4,1.0,707663359,Daniel Bouskela,0,0.6101469198015411,-0.12714913059493194
+2288213454,Towards a Text Generation Template Language for Modelica,2009,12,15,2,1.0,2020029708,Martin SjÃ¶lund,0,1.2903586465967638,-0.8739762273233365
+2293424042,Tool Demonstration Abstract OpenModelica Graphical Editor and Debugger,2013,7,0,2,1.0,1979071681,Adeel Asghar,0,0.4246287945225327,-0.24776007972159123
+2305095343,Algorithmic debugging for imperative languages with side-effects,1991,4,6,2,1.0,72569007,Nahid Shahmehri,0,-0.0832963012008916,-0.7450882459172553
+2313331307,Expressing Requirements in Modelica,2015,0,4,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+2314191870,PDE Modeling with Modelica via FMI Import of HiFlow3 C++ Components,2014,0,1,3,1.0,68809092,Kristian StavÃ¥ker,0,-0.1164726804531344,0.019252515865476
+2300851663,An Aeronautic Case Study for Requirement Formalization and Automated Model Composition in Modelica,2015,4,4,2,1.0,1233362096,Wladimir Schamai,0,-0.1164726804531344,0.019252515865476
+2494990597,Automated and Algorithmic Debugging,1993,0,23,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+2535199072,Platform-independent modeling of explicitly parallel programs,2011,0,0,2,1.0,1233362096,Wladimir Schamai,0,1.1562479099680552,-0.059077233315569175
+2554968011,On formal cyber physical system properties modeling A new temporal logic language and a Modelica-based solution,2016,17,13,5,1.0,707663359,Daniel Bouskela,0,2.2127303405836853,-0.7852308809015836
+2560819919,Appendix Dâ€”Modelica Standard Library,2010,0,0,1,1.0,2021091039,Peter Fritzson,0,-0.1164726804531344,0.019252515865476
+2645383873,Platform-independent modeling of explicitly parallel programs,2010,17,2,2,1.0,1233362096,Wladimir Schamai,0,0.4211572286689983,0.21505218385038088
+2905380499,API for Accessing OpenModelica Models from Python,2018,0,3,3,1.0,1979071681,Adeel Asghar,0,-0.266008597385423,-0.25440774660079424
+2913315491,OMJulia An OpenModelica API for Julia-Modelica Interaction,2019,0,0,3,1.0,1979071681,Adeel Asghar,0,-0.1164726804531344,0.019252515865476
+2911268221,MetaModelica â€“ A Symbolic-Numeric Modelica Language and Comparison to Julia,2019,0,1,3,1.0,1979071681,Adeel Asghar,0,-0.0929732185522016,0.3190050748758887
+2960733921,Static and strong typing for extended Mathematica,1997,0,2,1,1.0,2021091039,Peter Fritzson,0,0.12327271308608556,-0.20255874781259883
+2959005324,Modelica On The Web,2019,0,0,3,0.0,247113986,Janos Sztipanovits,0,-0.2317283616964876,0.29554148757831805
+3004670327,Session details Compiler-related problems,2019,0,0,1,1.0,2021091039,Peter Fritzson,0,-0.44869122900443015,-0.00015649039724540022

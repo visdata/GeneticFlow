@@ -1,0 +1,61 @@
+1511188654,Experimental Proof Data Remanence in Cloud VMs,2015,6,10,3,0,2118802686,Ernesto Damiani,0,-0.25561468189455383,-0.10856370731555018
+1566824890,On the security of inclusion or omission of MixColumns in AES cipher,2011,6,2,4,0,222180206,Yousuf AlSalami,0,0.7079942320735396,-1.016852197830914
+1604766597,Evaluation of popular application sandboxing,2011,5,5,2,0,2225529955,Faisal Al Ameiri,0,0.05940095047987125,0.6960502266457337
+1790664656,A unified countermeasure against side channel attacks on cryptographic RFID,2011,12,1,4,0,343860370,Mahmoud Al Qutayri,0,0.6526045202780757,-0.5090599003474338
+1968856480,Resiliency of open-source firewalls against remote discovery of last-matching rules,2009,16,3,4,0,335837649,Mohammed H. Sqalli,0,1.6232835947716184,0.07693843459804821
+1978351213,Teaching Cybersecurity Using the Cloud,2015,20,12,3,0,97975655,Sherali Zeadally,0,0.3259332239481683,0.5745734317069635
+1997523313,Discovering last-matching rules in popular open-source and commercial firewalls,2010,16,2,4,0,335837649,Mohammed H. Sqalli,0,1.3796732261672782,0.2798825008257116
+1988846717,Analyzing the security of Windows 7 and Linux for cloud computing,2013,10,9,3,0,97975655,Sherali Zeadally,0,-0.49730945691229644,0.5651739942160025
+2012185189,EDoS-Shield - A Two-Steps Mitigation Technique against EDoS Attacks in Cloud Computing,2011,33,92,3,0,335837649,Mohammed H. Sqalli,0,1.184175749412991,0.46703679699264816
+2028552470,A probing technique for discovering last-matching rules of a network firewall,2008,8,10,4,0,210080398,Ehab Al Shaer,0,1.5856081915219287,0.08114800139145564
+2050890009,Enhanced EDoS-Shield for Mitigating EDoS Attacks Originating from Spoofed IP Addresses,2012,27,39,3,0,335837649,Mohammed H. Sqalli,0,-0.5659575855781971,0.279741133564814
+2036251450,Detection of compromised smart meters in the Advanced Metering Infrastructure,2015,12,5,3,0,2089231598,Zubair A. Baig,0,-0.02565004862407703,0.7973537040583233
+2061227146,Mitigation of DHCP starvation attack,2012,22,11,3,0,252845094,Youssef Iraqi,0,0.8150178044164603,0.9115000823931669
+2070231759,Multi-Agent pattern recognition mechanism for detecting distributed denial of service attacks,2010,16,8,2,0,2089231598,Zubair A. Baig,0,0.3259332239481683,0.5745734317069635
+2061846767,Assessing the security of the cloud environment,2013,2,10,3,0,2231771934,Eman Al Awadhi,0,0.02080662431885795,0.3505429208334274
+2094631741,Using Cloud Computing to Implement a Security Overlay Network,2013,2,56,4,0,97975655,Sherali Zeadally,0,0.3071331255154989,0.7412245476517926
+2078891974,Harnessing the cloud for teaching cybersecurity,2014,10,16,1,0,2293999425,Khaled Salah,0,0.3259332239481683,0.5745734317069635
+2083444404,Evaluation of the Impact of EDoS Attacks Against Cloud Computing Services,2015,38,20,3,0,335837649,Mohammed H. Sqalli,0,0.0040557659796233,0.2757546058061082
+2114591554,Assessing Overhead Cost Associated with Encrypting Swap File,2012,6,1,1,0,2293999425,Khaled Salah,0,0.1556057077798747,-1.9079056104412098
+2105960882,An Entropy-Based Countermeasure against Intelligent DoS Attacks Targeting Firewalls,2009,10,10,4,0,335837649,Mohammed H. Sqalli,0,1.492202065982926,0.43101710352408096
+2120849702,A delay-based probing technique for the discovery of a firewalls accept rules,2011,7,0,4,0,335837649,Mohammed H. Sqalli,0,1.691175192037766,0.5553087719132562
+2129898854,Classifying malicious activities in Honeynets using entropy and volume-based thresholds,2013,17,1,4,0,335837649,Mohammed H. Sqalli,0,0.2298079768514764,0.5248260330915578
+2142637660,Distributed security for multi-agent systems - review and applications,2010,66,33,3,0,724618227,Lein Harn,0,-0.16211572102661514,1.1221850677311855
+2122858102,Identifying Scanning Activities in Honeynet Data Using Data Mining,2011,15,0,3,0,335837649,Mohammed H. Sqalli,0,0.10098147737354768,0.5202877292437778
+2166271320,A potential lowâ€rate DoS attack against network firewalls,2011,17,13,4,0,210080398,Ehab Al Shaer,0,1.0064962397799633,0.030881680883991482
+2295183135,Securing cryptographic keys in the IaaS cloud model,2015,15,5,3,0,2118802686,Ernesto Damiani,0,-0.44848125174836984,-1.3118091980348838
+2403804981,An Experimental Evaluation of the EDoS-Shield Mitigation Technique for Securing the Cloud,2016,15,5,4,0,335837649,Mohammed H. Sqalli,0,0.12639018307611857,0.6355810525226704
+2514456970,Subverting MAC How authentication in mobile environment can be undermined,2016,10,0,2,0,2157523914,Joonsang Baek,0,-1.78540624885632,-1.6041416816534038
+2551636090,Clustering VoIP caller for SPIT identification,2016,31,6,3,0,1979563539,Junaid Arshad,0,0.0040557659796233,0.2757546058061082
+2521948932,Securing Cryptographic Keys in the Cloud A Survey,2016,51,3,3,0,2118802686,Ernesto Damiani,0,0.1217672112393656,-0.6035689609916012
+2567905529,Approaches to analyze cyber terrorist communities,2017,52,6,3,0,250363551,Zouheir Trabelsi,0,0.0040557659796233,0.2757546058061082
+2584217814,DDoS Attack Detection and Mitigation Using SDN Methods Practices and Solutions,2017,74,64,2,0,2034277579,Jawwad A. Shamsi,0,0.7055561741256101,1.1488368317317577
+2564279003,Lightweight Encryption for Smart Home,2016,14,22,3,0,2118802686,Ernesto Damiani,0,0.4235666029684892,0.3035651693191728
+2554936816,A Delay-Based Countermeasure Against the Discovery of Default Rules in Firewalls,2017,36,2,3,0,335837649,Mohammed H. Sqalli,0,1.5159399203409296,0.32697527570133705
+2548348113,Performance Modeling and Analysis of the EDoS-Shield Mitigation,2017,44,6,4,0,335837649,Mohammed H. Sqalli,0,0.0040557659796233,0.2757546058061082
+2624091145,BigCrypt for big data encryption,2017,6,0,3,0,64365522,Tarek R. Sheltami,0,0.24805113087132716,-1.8443968193399551
+2768696376,IoT security Review blockchain solutions and open challenges,2017,110,366,1,0,2293999425,Khaled Salah,0,0.1458827158619921,0.824993501064994
+2763610699,A Scattering Technique for Protecting Cryptographic Keys in the Cloud,2017,14,0,3,0,558499169,Chan Yeob Yeun,0,0.26052896262055386,-1.6541535168400912
+2809541244,Blockchain-Based Solution for Proof of Delivery of Physical Assets,2018,2,10,1,0,2293999425,Khaled Salah,0,0.7429396633096405,0.43758663311160556
+2794997038,Systems and methods for SPIT detection in VoIP Survey and future directions,2018,79,3,2,0,2243387991,Ricardo Morla,0,0.015245780877612549,0.7423220265691124
+2887236372,Monetization of IoT data using smart contracts,2019,0,22,1,0,2293999425,Khaled Salah,0,-0.47896483862365813,0.5346975594382257
+2886081868,M2M-REP Reputation system for machines in the internet of things,2018,57,8,2,0,2038970552,Feng Hao,0,-0.32936368559672097,0.799783968669433
+2909128415,Blockchain-based Ownership Management for Medical IoT (MIoT) Devices,2018,8,6,1,0,2293999425,Khaled Salah,0,-0.32406027044734403,0.14552777112930765
+2890486517,COLIDE a collaborative intrusion detection framework for Internet of Things,2019,0,8,4,0,1979563539,Junaid Arshad,0,-0.028381419050538537,0.8294944128092351
+2930456362,Decentralized document version control using ethereum blockchain and IPFS,2019,10,10,3,0,1979563539,Junaid Arshad,0,0.6919473372390961,0.5829793990040135
+2905988697,A Review of Performance Energy and Privacy of Intrusion Detection Systems for IoT,2018,45,0,5,0,1958925952,Mamoun Alazab,0,0.13679434731489165,0.6751406926737795
+2913992778,Trust management in social Internet of vehicles Factors challenges blockchain and fog solutions ,2019,32,8,2,0,2116537243,Razi Iqbal,0,0.25506266162143854,1.453515590256264
+2910957029,Blockchain-Based Framework for Protecting Author Royalty of Digital Assets,2019,9,5,2,0,2116537243,Razi Iqbal,0,0.09652297960704104,0.6861533821963598
+2907683311,Blockchain for AI Review and Open Research Challenges,2019,0,83,2,0,287992775,Ala Al Fuqaha,0,-0.3713029750931779,0.7247980261202592
+2944865987,The Rise of Proximal Mobile Edge Servers,2019,0,1,2,0,2165634793,Muhammad Habib ur Rehman,0,0.0040557659796233,0.2757546058061082
+2944969585,A privacyâ€preserving framework for smart contextâ€aware healthcare applications,2019,55,0,3,0,1979563539,Junaid Arshad,0,-0.6581039679154786,0.5896441399486371
+2959621153,Smart contract-based approach for efficient shipment management,2019,22,5,2,0,2214983722,Raja Jayaraman,0,1.2216444220523301,0.5324433992983285
+2945267348,Performance Evaluation of IoT-Fag-Cloud Deployment for Healthcare servicies,2018,0,1,3,0,142492234,Said El Kafhali,0,0.1822731046919942,0.706777145399998
+2948921595,Performance Evaluation of IoT-Fog-Cloud Deployment for Healthcare Services,2018,0,1,3,0,142492234,Said El Kafhali,0,0.1822731046919942,0.706777145399998
+2976131659,A Blockchain-based System for Online Consumer Reviews,2019,2,0,1,0,2293999425,Khaled Salah,0,0.18000559750967615,0.043272852641962775
+3000466679,Architecture to manage Internet of Things Data using Blockchain and Fog Computing,2019,18,0,3,0,142492234,Said El Kafhali,0,-0.025289313847126987,1.2442911167612454
+2971145443,AppsPred Predicting Context-Aware Smartphone Apps using Random Forest Learning,2019,34,4,1,0,2293999425,Khaled Salah,0,0.0040557659796233,0.2757546058061082
+3011283647,Blockchain for 5G Opportunities and Challenges,2019,0,7,3,0,64365522,Tarek R. Sheltami,0,-0.5530861437885858,-0.004176666300269333
+3015744214,A Review of Performance Energy and Privacy of Intrusion Detection Systems for IoT,2020,36,0,4,0,1958925952,Mamoun Alazab,0,0.21135971267804946,0.8293603567804823
+3023266124,Trustworthy Blockchain Oracles Review Comparison and Open Research Challenges,2020,0,0,3,0,1980131977,Davor Svetinovic,0,-0.09975728497898136,0.7791063383283533
+3027316238,Decentralized Access Control for IoT Data Using Blockchain and Trusted Oracles,2019,0,0,1,0,2293999425,Khaled Salah,0,0.09662295695227763,0.9047613705254518

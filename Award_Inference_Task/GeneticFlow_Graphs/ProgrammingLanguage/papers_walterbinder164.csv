@@ -1,0 +1,83 @@
+195382172,Enabling modularity and re-use in dynamic program analysis tools for the java virtual machine,2013,35,7,5,1.0,1967199247,LubomÃ­r Bulej,0,1.107895303700695,-0.7841229668794399
+30054872,Turbo DiSL partial evaluation for high-level bytecode instrumentation,2012,15,11,7,0.0,93690356,Mira Mezini,0,-0.3861040230499838,-0.05454050012149688
+47961628,Dynamic aspect-oriented programming in java the hotwave experience,2012,53,3,4,0.666667,2101192896,Philippe Moret,0,0.7162108589256956,0.23677637338282528
+1552849406,Using a Secure Java Micro-kernel on Embedded Devices for the Reliable Execution of Dynamically Uploaded Applications,2002,16,1,1,1.0,2198976450,Walter Binder,0,-1.2134837593877439,-0.2764874958649105
+1492205561,Workload characterization of JVM languages,2016,50,2,8,0.655193,196016109,Andreas Sewe,0,-1.3723747245695015,-0.036012794845965854
+1501720370,Program transformations for light-weight CPU accounting and control in the Java virtual machine,2008,32,7,2,0.8,183179065,Jarle Hulaas,0,-2.658143114661674,0.29075017192684505
+1521435726,Proceedings of the 13th International Conference on Principles and Practices of Programming on the Java Platform Virtual Machines Languages and Tools,2016,0,0,3,1.0,2047550601,Petr TÅ¯ma,0,-1.5947033030239215,-0.12295291796488442
+1982450011,A comprehensive toolchain for workload characterization across JVM languages,2013,31,8,6,0.584411,196016109,Andreas Sewe,0,0.13724000630679675,-0.206628391476973
+1972310727,Senseo Enriching Eclipses static source views with dynamic metrics,2009,0,5,6,0.0,2030888156,David RÃ¶thlisberger,0,0.5534727720959897,-0.6284883840542832
+1982820954,Portable resource control in Java,2001,27,98,2,0.0,2167170432,Alex VillazÃ³n,0,-2.620832324545084,-0.06732615463487299
+1969005634,Dynamic program analysisâ€”Reconciling developer productivity and tool performance,2014,29,1,6,1.0,296442775,Aibek Sarimbekov,0,0.7415529627970345,-0.6175747331723407
+1992322765,JP2 Call-site aware calling context profiling for the Java Virtual Machine,2014,28,25,5,0.0,93690356,Mira Mezini,0,0.18170608700847862,-0.670765911115533
+2009867581,Productive Development of Dynamic Program Analysis Tools with DiSL,2013,21,3,6,1.0,296442775,Aibek Sarimbekov,0,1.2905757023805644,-0.6091189264783642
+2020630467,Rapid development of extensible profilers for the Java virtual machine with aspect-oriented programming,2010,21,9,4,0.692308,2101192896,Philippe Moret,0,-1.1871628371974492,0.3089908740302218
+2015464831,Comprehensive aspect weaving for Java,2011,47,12,4,0.473684,2101192896,Philippe Moret,0,-1.8650016920264194,0.4773542605576848
+2017255155,Comprehensive multi-platform dynamic program analysis for the Java and Dalvik virtual machines,2014,8,2,4,1.0,1967199247,LubomÃ­r Bulej,0,0.24804080111007817,-0.018282842581665237
+2011987478,Introduction to dynamic program analysis with DiSL,2013,35,0,5,1.0,296442775,Aibek Sarimbekov,0,0.6384307368176689,-0.08554095641683639
+2026096373,Two Studies of Framework-Usage Templates Extracted from Dynamic Traces,2012,63,11,4,1.0,343587644,Abbas Heydarnoori,0,0.518640847060026,-0.15305642473639852
+2019380005,Polymorphic bytecode instrumentation,2011,37,24,3,0.00334188,256576233,Ã‰ric Tanter,0,0.7451763697527026,-0.053859907716069744
+2023274008,Da capo con scala design and analysis of a scala benchmark suite for the java virtual machine,2011,42,66,4,0.0,93690356,Mira Mezini,0,-1.8598621297181366,0.582876582321303
+2040375149,TigerQuoll parallel event-based JavaScript,2013,27,5,3,1.0,2029605502,Daniele Bonetta,0,0.19577673611211197,-0.7302038969831138
+2047590622,CProf customizable calling context cross-profiling for embedded java processors,2009,5,0,3,1.0,2101192896,Philippe Moret,0,-2.9075905828126065,-0.20449322725596256
+2042408864,Improving aspect-oriented programming with dynamic code evolution in an enhanced Java virtual machine,2010,28,11,5,0.656633,180780953,Thomas WÃ¼rthinger,0,0.3804310762915724,-0.14885912896285608
+2066333175,JP2 collecting dynamic bytecode metrics in JVMs,2011,12,0,5,0.0,93690356,Mira Mezini,0,-0.41209774398634763,-0.0768017532606169
+2075446931,MAJOR rapid tool development with aspect-oriented programming,2009,15,2,4,1.0,2101192896,Philippe Moret,0,-0.35391920774152147,-0.17046264265940064
+2077956834,Characteristics of dynamic JVM languages,2013,26,15,6,1.0,296442775,Aibek Sarimbekov,0,-1.9379802658789937,-0.11277936270000348
+2102413336,A portable and customizable profiling framework for java based on bytecode instruction counting,2005,17,26,1,1.0,2198976450,Walter Binder,0,0.14998409539360535,0.07407527404344982
+2100052503,Flexible and efficient profiling with aspect-oriented programming,2011,33,15,4,0.473684,2101192896,Philippe Moret,0,0.26532447987354946,0.05905897422228668
+2082558071,MAJOR Flexible tool development with aspect-oriented programming,2009,5,0,4,1.0,2101192896,Philippe Moret,0,0.13604411721408244,-0.21369459927385356
+2082783448,Parallel dynamic analysis on multicores with aspect-oriented programming,2010,37,20,4,0.692308,2101192896,Philippe Moret,0,1.4238548005211042,-0.07679042544638112
+2095346390,Towards a domain-specific aspect language for dynamic program analysis position paper,2011,16,6,6,0.00334188,256576233,Ã‰ric Tanter,0,1.775132672119338,-0.641008960156745
+2093922742,Accurate profiling in the presence of dynamic compilation,2015,36,8,3,1.0,1967199247,LubomÃ­r Bulej,0,-0.6739036980666282,0.16110226069352473
+2093972903,new Scala() instance of Java a comparison of the memory behaviour of Java and Scala programs,2012,25,19,7,0.0,93690356,Mira Mezini,0,-3.0703439294417105,-0.05174136162471541
+2092247111,Introduction to dynamic program analysis with DiSL,2015,35,8,6,1.0,296442775,Aibek Sarimbekov,0,1.0808724585714355,-0.4045946812401213
+2104786337,DiSL an extensible language for efficient and comprehensive dynamic program analysis,2012,1,6,4,1.0,2119521939,Yudi Zheng,0,0.25235881968919716,-0.38541147236830986
+2123206778,Safe and atomic run-time code evolution for Java and its application to dynamic AOP,2011,37,7,5,0.656633,180780953,Thomas WÃ¼rthinger,0,-0.3422036048779742,-0.03405261145517111
+2120255196,Flexible and efficient measurement of dynamic bytecode metrics,2006,29,14,2,1.0,183179065,Jarle Hulaas,0,0.3981773194129712,-0.25094441021247565
+2111631758,A refined decompiler to generate C code with high readability,2013,26,2,5,1.0,2119521939,Yudi Zheng,0,-0.01958778784812099,-0.20310645278921938
+2126390017,CCCP complete calling context profiling in virtual execution environments,2009,23,26,3,1.0,2101192896,Philippe Moret,0,-0.8131307425687508,0.2507722806101769
+2141476742,Applications of enhanced dynamic code evolution for Java in GUI development and dynamic aspect-oriented programming,2010,16,9,5,0.656633,180780953,Thomas WÃ¼rthinger,0,0.8501087822855589,0.03846050394794424
+2114823459,Program transformations for portable CPU accounting and control in Java,2004,10,34,2,1.0,183179065,Jarle Hulaas,0,-2.6586536222722694,0.2925090757170082
+2126713873,Advanced runtime adaptation for Java,2009,31,37,4,1.0,2101192896,Philippe Moret,0,0.12387057599048457,0.19434983667161393
+2135560834,Advanced Java bytecode instrumentation,2007,13,95,2,1.0,2101192896,Philippe Moret,0,-0.45920017465423063,0.09711868848044584
+2123870191,Tool demonstration effective runtime exploration of the inter-procedural control flow in Java applications,2010,11,2,4,1.0,343587644,Abbas Heydarnoori,0,0.438796481659595,-0.3471635793504596
+2106386111,Parallelizing calling context profiling in virtual machines on multicores,2009,24,9,4,1.0,2101192896,Philippe Moret,0,-0.778313376911292,-0.2269466936901287
+2136034396,Composition of dynamic analysis aspects,2010,36,17,4,0.00334188,256576233,Ã‰ric Tanter,0,1.52987531535598,-0.013576322901675125
+2128151822,Analyzing performance and dynamic behavior of embedded Java software with calling-context cross-profiling,2009,7,1,5,1.0,2101192896,Philippe Moret,0,-2.0132264131966893,0.36435530744191674
+2114257355,ShadowVM robust and comprehensive dynamic program analysis for the java platform,2014,28,13,7,0.655193,196016109,Andreas Sewe,0,-0.35061963225733267,-0.2009593341082209
+2144120855,Exact and Portable Profiling for the JVM Using Bytecode Instruction Counting,2006,26,12,2,1.0,183179065,Jarle Hulaas,0,0.08008698987432597,-0.003126470203339314
+2162066646,A Quantitative Evaluation of the Contribution of Native Code to Java Workloads,2006,16,19,2,1.0,183179065,Jarle Hulaas,0,-2.8745517016406463,-0.16049928403801822
+2147494929,S a scripting language for high-performance RESTful web services,2012,18,11,4,0.0,877366510,Achille Peternier,0,-0.1164726804531344,0.019252515865476
+2159607242,HotWave creating adaptive tools with dynamic aspect-oriented programming in Java,2009,29,18,4,1.0,2101192896,Philippe Moret,0,-0.8471232933283137,0.5473733350388147
+2171880028,Portable and accurate collection of calling-context-sensitive bytecode metrics for the Java virtual machine,2011,34,18,6,0.0,93690356,Mira Mezini,0,-0.7093782437162061,-0.5443512954915742
+2153919898,DiSL a domain-specific language for bytecode instrumentation,2012,22,81,4,1.0,2119521939,Yudi Zheng,0,0.9760949484161588,-0.22948976044046296
+2148234439,Reengineering Standard Java Runtime Systems through Dynamic Bytecode Instrumentation,2007,57,31,2,0.75,183179065,Jarle Hulaas,0,-0.4605828777268096,0.14694484029228172
+2181653029,Java Bytecode Instrumentation Made Easy The DiSL Framework for Dynamic Program Analysis,2012,14,8,5,1.0,296442775,Aibek Sarimbekov,0,-0.3183518651690711,-0.3923158039038908
+2160590204,Overseer low-level hardware monitoring and management for Java,2011,12,6,4,0.0,877366510,Achille Peternier,0,-0.40849647597035843,-0.04169467712186818
+2146063201,Flexible calling context reification for aspect-oriented programming,2009,28,30,3,1.0,2101192896,Philippe Moret,0,0.5873680661302709,-0.09879052193409
+2155079805,Aspect weaving in standard Java class libraries,2008,26,31,3,1.0,2101192896,Philippe Moret,0,-1.4113405405598038,0.024132734402696802
+2146252952,@J towards rapid development of dynamic analysis tools for the Java Virtual Machine,2009,43,12,4,1.0,2101192896,Philippe Moret,0,0.16707613870541246,-0.23650705118992377
+2158310859,Complete and Platform-Independent Calling Context Profiling for the Java Virtual Machine,2011,126,10,5,0.0,93690356,Mira Mezini,0,-0.992581056232005,-0.08198181892452262
+2304655730,Flexible and Extensible Runtime Verification for Java (Extended Version),2015,3,4,2,0.0,2101830703,Chengcheng Xiang,0,0.9249893827096801,-0.25301044949806206
+2277664936,Polymorphic bytecode instrumentation,2016,45,2,4,0.0,256576233,Ã‰ric Tanter,0,0.49717051308046445,-0.0455898536430437
+2296053195,Flexible and Extensible Runtime Verification for Java,2015,19,0,2,0.0,2101830703,Chengcheng Xiang,0,0.7074892911980297,-0.36252863345733377
+2344197800,Comprehensive Multiplatform Dynamic Program Analysis for Java and Android,2016,13,7,3,1.0,1967199247,LubomÃ­r Bulej,0,0.6346989790320495,-0.27126882545794523
+2415883443,Towards a Domain-Specific Aspect Language for Dynamic Program Analysis,2011,16,1,4,0.00334188,256576233,Ã‰ric Tanter,0,1.4252265252835072,-0.5993816325089298
+2538684216,Actor profiling in virtual execution environments,2016,22,6,2,0.0,2171217820,Lydia Y. Chen,0,0.15064051717962854,-0.30889770793346755
+2576273676,Beneath the bytecode observing the JVM at work using bytecode instrumentation,2016,4,0,3,1.0,1967199247,LubomÃ­r Bulej,0,-0.3642904324957298,0.15360306008520558
+2526471199,Lightweight Multi-language Bindings for Apache Spark,2016,18,2,2,1.0,2029605502,Daniele Bonetta,0,-1.087802298682622,-0.07874926261677494
+2532249711,GEMs shared-memory parallel programming for Nodejs,2016,40,3,3,1.0,2029605502,Daniele Bonetta,0,-0.22726948532867053,0.6156922984912429
+2523138543,Extended Code Coverage for AspectJ-Based Runtime Verification Tools,2016,22,1,2,1.0,2119521939,Yudi Zheng,0,0.9335446545749839,-0.31514216667178707
+2733601157,An Empirical Study on Deoptimization in the Graal Compiler,2017,0,2,3,1.0,1967199247,LubomÃ­r Bulej,0,-0.8166174345627787,-0.7436806297173516
+2589258679,MAJOR AN ASPECT WEAVER WITH FULL COVERAGE SUPPORT,2011,27,0,3,1.0,2144568366,Danilo Ansaloni,0,-2.8309195801409794,0.36533611737635646
+2761867786,Accurate reification of complete supertype information for dynamic analysis on the JVM,2017,18,3,1,1.0,2198976450,Walter Binder,0,0.8699687092987876,0.23953135332071987
+2788565238,Efficient dynamic analysis for Nodejs,2018,21,7,2,0.8574,2029605502,Daniele Bonetta,0,-0.13728385622347733,0.13613796743755574
+2909382770,Analysis and Optimization of Task Granularity on the Java Virtual Machine,2019,52,0,1,1.0,2198976450,Walter Binder,0,-0.8207258644602358,-0.25896728345857595
+2899240698,Optimizing type-specific instrumentation on the JVM with reflective supertype information,2018,27,1,1,1.0,2198976450,Walter Binder,0,-1.5823197415019215,-0.10829471374799256
+2922909722,On Evaluating the Renaissance Benchmarking Suite Variety Performance and Complexity,2019,53,0,7,0.0,180780953,Thomas WÃ¼rthinger,0,-0.7722715691970257,-0.07890941619479648
+2915062446,Proceedings of the 13th International Workshop on Dynamic Analysis,2015,0,0,1,1.0,2198976450,Walter Binder,0,-0.1164726804531344,0.019252515865476
+2942775717,NodeMOP runtime verification for Nodejs applications,2019,27,0,2,0.817328,2029605502,Daniele Bonetta,0,1.3238497397802855,-0.3380701618578468
+2955855305,Renaissance benchmarking suite for parallel applications on the JVM,2019,65,2,7,0.0,180780953,Thomas WÃ¼rthinger,0,-1.049224848657298,-0.07732362921617075
+2965364845,Automated Large-Scale Multi-Language Dynamic Program Analysis in the Wild (Tool Insights Paper),2019,0,2,3,0.817328,2029605502,Daniele Bonetta,0,0.4511465007172583,-0.3127020989044198
+2965993335,Automated Large-Scale Multi-Language Dynamic Program Analysis in the Wild (Artifact),2019,0,0,3,0.817328,2029605502,Daniele Bonetta,0,0.4511465007172583,-0.3127020989044198

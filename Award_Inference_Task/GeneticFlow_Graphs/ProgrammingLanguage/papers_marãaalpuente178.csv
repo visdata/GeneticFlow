@@ -1,0 +1,81 @@
+53279825,Narrowing-driven Specialization of Functional Logic Programs,2004,60,0,1,1.0,2159986951,MarÃ­a Alpuente,0,0.7684505327104649,-0.4821387772203652
+2021509,Model-checking web applications with web-TLR,2010,14,18,3,0.960847,373398543,Demis Ballis,0,-0.1164726804531344,0.019252515865476
+56947093,Polygenetic Partial Evaluation of Lazy Functional Logic Programs,1998,0,2,2,1.0,2130195065,Elvira Albert,0,0.7372113175363184,-1.0827467366873886
+193780886,Using PE to Automate Program Composition,2000,14,0,3,0.0,126622017,Moreno Falaschi,0,-0.1164726804531344,0.019252515865476
+142799416,An Equational Constraint Logic approach to Conceptual Modelling,1992,30,1,1,1.0,2159986951,MarÃ­a Alpuente,0,1.0087286440636645,-1.3362476855652343
+161670123,Automated Verification of Web Sites Using Partial Rewriting,2004,21,13,3,0.0,126622017,Moreno Falaschi,0,1.0989306171144986,-0.3981432917740396
+95377021,Slicing-Based trace analysis of rewriting logic specifications with JULIENNE,2013,10,9,4,0.758249,373398543,Demis Ballis,0,-0.24198146674231866,-0.07089886411622495
+80754452,Redundancy Analyses in Term Rewriting,2000,0,1,3,1.0,2116214711,Santiago Escobar,0,-0.24198146674231866,-0.07089886411622495
+97887884,Partial Evaluation of Residuating Functional Logic Programs,1999,0,2,3,1.0,2130195065,Elvira Albert,0,1.4915610778478432,-1.196555363663973
+116083823,Julienne A Trace Slicer for Conditional Rewrite Theories,2012,18,7,3,0.7978,373398543,Demis Ballis,0,-0.26333369774125204,-0.1849882897034385
+150451649,Call-By Name Partial Evaluation of Functional Logic Programs,1996,25,1,2,0.215617,126622017,Moreno Falaschi,0,0.7273695673163026,-1.3694666083341431
+65876314,Abstract Correction of OBJ-like Programs,2003,14,0,4,0.0,126622017,Moreno Falaschi,0,-0.0183024870971178,0.0680118484996777
+204126806,Verifying Real-Time Properties of tccp Programs,2006,15,10,3,1.0,2136684786,Alicia Villanueva,0,0.34660273719423307,-0.1505346571057589
+1568706048,Correction of functional logic programs,2003,23,13,3,0.0,126622017,Moreno Falaschi,0,0.20054532522816595,0.504359325571223
+1541900880,A Partial Evaluation Framework for Curry Programs,1999,35,22,3,1.0,2130195065,Elvira Albert,0,-0.3561775015046579,0.27331875805532396
+1561659860,A symbolic model checker for tccp programs,2004,10,2,3,0.0,126622017,Moreno Falaschi,0,-0.7898969311545544,0.13045987756843586
+1482133646,Automatic certification of Java source code in rewriting logic,2007,25,6,2,1.0,2116214711,Santiago Escobar,0,-0.7780050736921337,-0.026763082878508076
+1482607330,Verdi An Automated Tool for Web Sites Verification,2004,6,5,3,0.0,126622017,Moreno Falaschi,0,0.1034842473198584,0.19483575977971634
+1517456004,A Transformation System for Lazy Functional Logic Programs,1999,26,24,3,0.0,126622017,Moreno Falaschi,0,-0.030997240579252062,0.4062211517028992
+1571983596,UPV-CURRY An Incremental CURRY Interpreter,1999,15,8,3,1.0,2116214711,Santiago Escobar,0,0.35798269277376465,-0.6726350469511596
+1500364302,Specialization of Functional Logic Programs Based on Needed Narrowing,2004,59,1,3,0.328128,2127128533,Salvador Lucas,0,1.2030042953576237,-0.35062605772754046
+1528480473,Transformation and debugging of functional logic programs,2010,85,3,3,0.0,126622017,Moreno Falaschi,0,-0.3736835459444725,0.1131900171740265
+1574340008,Narrowing-Driven Partial Evaluation of Functional Logic Programs,1996,30,35,2,0.215617,126622017,Moreno Falaschi,0,0.24467145499098847,-0.970539469246751
+1556233488,Using Datalog and Boolean Equation Systems for Program Analysis,2009,26,8,3,1.0,2100332493,Marco A. FeliÃº,0,-0.16774300551065788,0.12087282932822076
+1529960869,Removing Redundant Arguments of Functions,2002,32,8,3,1.0,2116214711,Santiago Escobar,0,-0.29523817279464665,0.11095115219832756
+1503576365,Backward trace slicing for rewriting logic theories,2011,35,22,3,0.81786,373398543,Demis Ballis,0,-0.24198146674231866,-0.07089886411622495
+1603777797,Defining datalog in rewriting logic,2009,26,6,3,1.0,2100332493,Marco A. FeliÃº,0,-0.31693862232354547,0.2947171252509207
+1737971179,Dynamic Backward Slicing of Rewriting Logic Computations,2011,21,4,3,0.81786,373398543,Demis Ballis,0,-0.4209546610737394,-0.20192299993352406
+1578588678,Compositional Analysis for Equational Horn Programs,1994,29,6,2,0.866949,126622017,Moreno Falaschi,0,-0.2437718062030256,-0.21194159369261442
+1938720220,Improving On-Demand Strategy Annotations,2002,21,12,4,0.833333,706919285,Bernhard Gramlich,0,0.01721053637313541,-0.8668503480966674
+1818509088,Abstract Diagnosis of Functional Programs,2002,29,14,5,0.0,126622017,Moreno Falaschi,0,-0.36333766280823004,0.2410244526874207
+1771298682,A fast algebraic web verification service,2007,25,9,3,0.0,126622017,Moreno Falaschi,0,-0.1164726804531344,0.019252515865476
+1864036814,Specification and Verification of Web Applications in Rewriting Logic,2009,20,17,2,0.960847,373398543,Demis Ballis,0,-0.3043167132919114,0.07696992750381612
+1721213516,The semantics of equational logic programming as an instance of CLP,1993,0,7,3,0.866949,126622017,Moreno Falaschi,0,-0.7813621897755454,-0.33592164434233873
+1975136267,On-demand Evaluation by Program Transformation,2003,22,3,3,1.0,2116214711,Santiago Escobar,0,-1.0694711843034272,-0.14835452391693374
+1982601629,Using conditional trace slicing for improving Maude programs,2014,39,16,3,0.0,373398543,Demis Ballis,0,-0.02735492570041035,-0.17933336075682443
+1986851876,A rewriting logic approach to the formal specification and verification of web applications,2014,37,6,2,0.0,373398543,Demis Ballis,0,-0.1164726804531344,0.019252515865476
+1986885542,Specialization of inductively sequential functional logic programs,1999,44,25,3,0.833333,2127128533,Salvador Lucas,0,0.34974551479295624,-1.0427228610036168
+1978388014,Rule-based verification of Web sites,2006,33,22,3,0.0,126622017,Moreno Falaschi,0,0.1034842473198584,0.19483575977971634
+1971427196,Abstract Model Checking of tccp programs,2005,23,4,4,0.504774,2135193678,MarÃ­a del Mar Prados Gallardo,0,0.3805768858797441,-0.6410178741589811
+1993216971,A Framework for Timed Concurrent Constraint Programming with External Functions,2007,16,2,3,0.833333,706919285,Bernhard Gramlich,0,0.3069815262775602,-0.8114482754205161
+2006030420,Rewriting-based repairing strategies for XML repositories â˜†,2013,28,3,3,0.758249,373398543,Demis Ballis,0,-0.1164726804531344,0.019252515865476
+1997285711,Debugging of Web Applications with Web-TLR,2011,11,6,4,0.81786,373398543,Demis Ballis,0,-0.4209546610737394,-0.20192299993352406
+2014680812,Correct and Complete (Positive) Strategy Annotations for OBJ,2004,20,15,3,1.0,2116214711,Santiago Escobar,0,-0.07060478687793484,0.04672259856431138
+2025741235,A semantic framework for the abstract model checking of tccp programs,2005,33,18,4,0.504774,2135193678,MarÃ­a del Mar Prados Gallardo,0,-0.25828465743076473,-0.026114139460790515
+2054862290,Abstract Correction of First-Order Functional Programs,2003,30,0,4,1.0,373398543,Demis Ballis,0,-0.05419402847970567,0.13189689236154664
+2039870350,Automatic inference of specifications using matching logic,2013,25,5,3,0.980392,2100332493,Marco A. FeliÃº,0,0.2485371917344664,0.06593977312805063
+2069768096,An Abstract Analysis Framework for Synchronous Concurrent Languages based on source--to--source Transformation,2008,13,5,4,0.504774,2135193678,MarÃ­a del Mar Prados Gallardo,0,2.8552280194187443,0.07332368728779572
+2067151481,A Debugging Scheme for Functional Logic Programs,2002,45,18,2,0.0,126622017,Moreno Falaschi,0,-0.2982169829482165,0.40426180702853337
+2059196002,Declarative Debugging of Functional Logic Programs1 1This work has been partially supported by CICYT under grant TIC2001-2705-C03-01 by AccÃ³on Integrada Hispano-Italiana HI2000-0161 and by Generalitat Valenciana under grant GV01-424,2001,37,5,2,0.0,126622017,Moreno Falaschi,0,-0.2982169829482165,0.40426180702853337
+2102187049,An Abstract Generic Framework for Web Site Verification,2008,29,3,3,0.0,126622017,Moreno Falaschi,0,-0.24198146674231866,-0.07089886411622495
+2102194574,A compositional semantics for conditional term rewriting systems,1994,28,8,3,0.866949,126622017,Moreno Falaschi,0,-0.7662347244969127,0.09543726242777063
+2121114674,Datalog-Based program analysis with BES and RWL,2010,46,10,3,1.0,2100332493,Marco A. FeliÃº,0,-0.30545983734052157,0.03938993856170484
+2121339234,A Tool for Automated Certification of Java Source Code in Maude,2009,16,2,2,0.892535,2116214711,Santiago Escobar,0,-3.158481656257109,0.31199397322849853
+2127455814,Specialization of lazy functional logic programs,1997,45,46,2,0.0970057,126622017,Moreno Falaschi,0,-0.49644218054318223,-0.43822486620497336
+2124559137,A fold/unfold transformation framework for rewrite theories extended to CCT,2010,36,14,4,0.0,126622017,Moreno Falaschi,0,-0.14279041449885793,0.2720418423472251
+2116776985,Partial evaluation of functional logic programs,1998,85,86,2,0.0832282,126622017,Moreno Falaschi,0,0.6539305530487766,-1.2818459201390788
+2128519963,A Rewriting-based Framework for Web Sites Verification,2005,20,29,3,0.0,126622017,Moreno Falaschi,0,0.7918424747198103,-0.7469841578967455
+2122590095,A Semi-Automatic Methodology for Repairing FaultyWeb Sites,2006,15,12,2,1.0,373398543,Demis Ballis,0,-0.07072586215409556,-0.04997988202484902
+2144678770,A compositional semantic basis for the analysis of equational Horn programs,1996,43,8,2,0.215617,126622017,Moreno Falaschi,0,-0.2437718062030256,-0.21194159369261442
+2165910611,Approximating Non-interference and Erasure in Rewriting Logic,2010,18,6,2,0.819705,2116214711,Santiago Escobar,0,-0.1903495666104063,0.0011412093013564637
+2145595740,DATALOG_SOLVE A Datalog-Based Demand-Driven Program Analyzer,2009,14,2,3,1.0,2100332493,Marco A. FeliÃº,0,-3.083717216735214,0.3836103447046753
+2154887561,Removing redundant arguments automatically,2007,78,4,3,1.0,2116214711,Santiago Escobar,0,-0.32235639543708583,-0.05143400498870802
+2149285895,A compact fixpoint semantics for term rewriting systems,2010,40,5,4,0.0,126622017,Moreno Falaschi,0,-0.1164726804531344,0.019252515865476
+2158527854,Automated Certification of Non-Interference in Rewriting Logic,2009,29,5,2,0.892535,2116214711,Santiago Escobar,0,-2.61629168750278,0.45292700469642433
+2255477059,Editorial Preface to the special section on Formal Methods for Industrial Critical Systems (FMICS 2009 + FMICS 2010),2013,0,0,3,0.0,1957840925,Marco Roveri,0,-0.12451473379932743,0.4092751465490105
+2395020256,A Compositional Semantics for Conditional Term Rewriting Systems,1994,0,0,3,0.866949,126622017,Moreno Falaschi,0,-0.5752152421733218,-0.6995280050605267
+2476654553,Logic-Based Program Synthesis and Transformation,2011,0,0,1,1.0,2159986951,MarÃ­a Alpuente,0,-0.3004325884246362,-0.14438807869429146
+2516251718,Partial Evaluation of Order-Sorted Equational Programs Modulo Axioms,2016,9,8,3,0.0,2116214711,Santiago Escobar,0,-0.2967680568662687,0.3024510241620547
+2512021169,Symbolic Abstract Contract Synthesis in a Rewriting Framework,2016,19,0,2,0.0,2136684786,Alicia Villanueva,0,-0.12286304050481123,-0.047430316118993746
+2584570668,Improving on-demand strategy annotations,2002,0,0,4,0.833333,706919285,Bernhard Gramlich,0,-0.3933930283975801,-0.11097308293087768
+2798132286,Static Correction of Maude Programs with Assertions,2019,21,5,3,0.0,373398543,Demis Ballis,0,-0.12076228459021272,0.023373071041122035
+2788876701,Removing redundant arguments of functions,2002,0,0,3,1.0,2116214711,Santiago Escobar,0,-0.3109569839716511,0.26506054006987295
+2787105657,Abstract diagnosis of functional programs,2003,0,20,5,0.0,126622017,Moreno Falaschi,0,-0.36333766280823004,0.2410244526874207
+2951452824,Symbolic Abstract Contract Synthesis in a Rewriting Framework,2016,2,0,2,0.0,2136684786,Alicia Villanueva,0,-0.12286304050481123,-0.047430316118993746
+2951800917,Removing Redundant Arguments Automatically,2006,1,0,3,1.0,2116214711,Santiago Escobar,0,-0.32235639543708583,-0.05143400498870802
+2952912161,Partial Evaluation of Order-sorted Equational Programs modulo Axioms,2016,8,0,3,0.0,2116214711,Santiago Escobar,0,-0.2967680568662687,0.3024510241620547
+2963422576,Symbolic Analysis of Maude Theories with Narval,2019,15,0,4,0.0,373398543,Demis Ballis,0,-0.373605960174348,0.05544418198486974
+2951350659,Specialization of Functional Logic Programs Based on Needed Narrowing,2004,50,0,3,0.328128,2127128533,Salvador Lucas,0,-0.3675160989075023,-0.046247574064081184
+2973569349,Symbolic Analysis of Maude Theories with Narval,2019,12,0,4,0.0,373398543,Demis Ballis,0,-0.24198146674231866,-0.07089886411622495
+2984139525,Imposing assertions in Maude via program transformation,2019,3,1,3,0.0,373398543,Demis Ballis,0,0.23501818689205192,-0.3118319072921784

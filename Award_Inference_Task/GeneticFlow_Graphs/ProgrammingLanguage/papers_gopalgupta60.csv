@@ -1,0 +1,117 @@
+205169003,Complexity Analysis of Late Binding in Dynamic Object-Oriented Languages,1999,0,2,2,1.0,708809703,Enrico Pontelli,0,2.1200330621606294,-0.4976343336169011
+69324385,Automatic Compile-time Parallelization of Prolog Programs for Dependent And-Parallelism,1997,0,17,2,1.0,708809703,Enrico Pontelli,0,-1.1089523497281926,-0.21570117455543542
+171542336,Recomputation based Implementations of And-Or Parallel Prolog,1992,20,11,1,1.0,2101413274,Gopal Gupta,0,-0.3974840199936202,-0.0914593059396035
+172348140,High Performance Parallel Logic Programming The ACE Parallel Prolog System,1997,0,1,2,1.0,708809703,Enrico Pontelli,0,1.7478808245182025,-0.44936302557562374
+173759488,Coinductive logic programming and its application to boolean SAT,2009,13,11,1,1.0,2101413274,Gopal Gupta,0,0.4740830851384224,-0.5853294079966265
+20933699,Determinacy Driven Optimizations of And-Parallel Prolog Implementations,1995,8,9,2,1.0,708809703,Enrico Pontelli,0,-0.3974840199936202,-0.0914593059396035
+107457659,A Model for Combined And-Or Parallel Execution of Logic Programs,1989,0,1,2,0.120661,1448804557,Bharat Jayaraman,0,-0.1164726804531344,0.019252515865476
+192838740,Visualization of And/Or-Parallel Execution of Logic Programs,1997,0,11,2,1.0,708809703,Enrico Pontelli,0,-0.3676932094671783,0.1059748405849819
+125262052,Horn logic denotations,1998,0,5,1,1.0,2101413274,Gopal Gupta,0,-0.2776986562465385,-2.0388832217540167
+59721016,On criteria for or-parallel execution models of logic programs,1990,0,19,2,0.0852493,1448804557,Bharat Jayaraman,0,-0.1164726804531344,0.019252515865476
+196462658,Parallelism and Implementation of Logic and Constraint Logic Programming,1999,0,0,1,1.0,2101413274,Gopal Gupta,0,0.9757693930881061,-0.4856269670148442
+27834061,Multiprocessor Execution of Logic Programs,1994,0,15,1,1.0,2101413274,Gopal Gupta,0,-0.4163197306742814,-0.45052019057850273
+97934947,Determinancy Driven Optimization of Parallel Prolog Implementations,1994,0,0,1,1.0,2101413274,Gopal Gupta,0,-0.3974840199936202,-0.0914593059396035
+132118791,Coinductive constraint logic programming,2012,21,4,2,1.0,28851884,Neda Saeedloei,0,1.0238432082724163,-0.7489644303459151
+81149092,Towards a Logic Programming Based Environment for Automatic Generation of Translators,2002,0,0,1,1.0,2101413274,Gopal Gupta,0,0.6231115576822006,-0.2844416866253889
+184244794,Co-logic programming extending logic programming with coinduction,2007,11,72,1,1.0,2101413274,Gopal Gupta,0,1.1274897397100065,-1.3185972434009074
+133542764,Issues in implementing ACE A stack copying based and-or parallel system,1993,6,0,1,1.0,2101413274,Gopal Gupta,0,-0.39647125653309206,-0.0677617054234385
+49830493,Recomputation based implementation of and-or parallel prolog,1992,0,4,1,1.0,2101413274,Gopal Gupta,0,-0.39647125653309206,-0.0677617054234385
+84350756,Generalized Stack-copying for And-Or Parallel Execution of Full Prolog,1992,0,0,1,1.0,2101413274,Gopal Gupta,0,-0.39647125653309206,-0.0677617054234385
+305742777,Combined And-Or Parallel Execution of Logic Programs,1988,1,0,2,0.181159,1448804557,Bharat Jayaraman,0,-0.4132025129289928,0.0981957234643343
+345636978,EqLs Users Guide,1987,3,0,2,0.444444,1448804557,Bharat Jayaraman,0,0.13735911684479551,-0.322741949810397
+292298342,Shared Paged Binding Array A Universal Datastructure for Parallel Logic Programming,1995,12,0,1,1.0,2101413274,Gopal Gupta,0,1.465092944594763,-0.24351705740246282
+1532336669,Timed Definite Clause Omega-Grammars,2010,11,7,2,1.0,28851884,Neda Saeedloei,0,-2.0071425125662365,-1.512486722468688
+1559995437,Coinductive logic programming with negation,2009,21,9,1,1.0,2101413274,Gopal Gupta,0,0.34134993721266094,-0.6785968827469806
+1506396519,Coinductive logic programming,2006,15,75,1,1.0,2101413274,Gopal Gupta,0,0.43749756758128133,-1.2052718094091224
+1551524592,Verification of a controller for bart an approach based on horn logic and denotational semantics,2001,23,6,2,0.780387,708809703,Enrico Pontelli,0,-0.2761670200028545,-0.04180264454456639
+1524838773,Towards provably correct code generation via horn logical continuation semantics,2005,27,9,1,1.0,2101413274,Gopal Gupta,0,0.8346423460424223,-1.0778190626056217
+1570021672,Towards predicate answer set programming via coinductive logic programming,2009,12,10,1,1.0,2101413274,Gopal Gupta,0,0.9848215985126265,-0.22806867788821605
+1552897486,And-Or Parallelism in Full Prolog with Paged Binding Arrays,1992,26,18,1,1.0,2101413274,Gopal Gupta,0,-0.9279205545187964,-0.564331445893005
+1526189329,Last parallel call optimization and fast backtracking in and-parallel logic programming systems,1994,0,1,2,1.0,708809703,Enrico Pontelli,0,1.1395295333676843,-1.1081519803268434
+1516977875,Horn Logic Denotations and Their Applications,1999,38,32,1,1.0,2101413274,Gopal Gupta,0,-0.3424219100243082,-0.6831753173969854
+1509159345,Semantic processing of the semantic web,2003,15,9,1,1.0,2101413274,Gopal Gupta,0,-0.1164726804531344,0.019252515865476
+1501159154,On the Duality Between Or-parallelism and And-parallelism in Logic Programming,1995,13,12,2,1.0,708809703,Enrico Pontelli,0,0.21470408754241516,-0.9951726328697685
+1536947082,Framework for safe reuse of software binaries,2004,20,0,2,0.0,2093047891,Ramakrishnan Venkitaraman,0,0.9094991095920493,-0.901384075574195
+1546693879,Semantics-Based Filtering Logic Programmings Killer App ,2002,21,7,4,0.0,708809703,Enrico Pontelli,0,0.06708360310515424,-1.3790667059373696
+1538773404,Automatic generation of provably correct parallelizing compilers,1998,15,8,2,1.0,708809703,Enrico Pontelli,0,-1.2858951988298255,-0.5101695628052466
+1585932639,Parallel symbolic computation in ACE,1997,67,4,2,1.0,708809703,Enrico Pontelli,0,-0.052338774753409006,0.4647569721399657
+1586357377,And-or parallelism in full prolog,1991,0,0,1,1.0,2101413274,Gopal Gupta,0,-0.6441227017412204,-0.7830554841407954
+1595543499,Specification Implementation and Verification of Domain Specific Languages A Logic Programming-Based Approach,2002,45,13,2,0.0,708809703,Enrico Pontelli,0,-0.5063106037393458,-0.1509614411060079
+1799344754,Verifying complex continuous real-time systems with coinductive CLP(R),2010,27,17,2,1.0,28851884,Neda Saeedloei,0,0.26554781379746456,-0.5611566566876957
+1906174429,Complete and efficient methods for supporting side-effects and cuts in And-Or parallel Prolog,1992,18,2,1,1.0,2101413274,Gopal Gupta,0,0.12989718543459142,0.04371275677581508
+1911997723,Software engineering track chairs message,2005,0,0,1,1.0,2101413274,Gopal Gupta,0,3.324012383566426,-0.9595641159531723
+1580223739,Logic programming 21st International Conference ICLP 2005 Sitges Spain October 2-5 2005 proceedings,2005,0,0,1,1.0,2101413274,Gopal Gupta,0,0.42669454194398165,-0.6667298831278741
+1963107927,Coinductive logic programming and its applications,2007,26,74,1,1.0,2101413274,Gopal Gupta,0,1.3714583591507592,-0.6661166801396989
+1598314230,IDIOM Integrating dependent and- independent and- and or-parallelism,1991,15,21,1,1.0,2101413274,Gopal Gupta,0,-0.1824667381724727,-0.1368280795800335
+1591070433,21st International Conference on Logic Programming,2005,0,0,1,1.0,2101413274,Gopal Gupta,0,0.96045870583285,0.547439357745613
+1822016325,A New Mode Declaration for Tabled Predicates,2003,0,0,1,1.0,2101413274,Gopal Gupta,0,-0.4943526033656511,-0.0911696244328365
+1593354502,ACE And/Or-parallel Copying-based Execution of Logic Programs,1991,8,54,1,1.0,2101413274,Gopal Gupta,0,-0.38099674729896593,0.0021073547980068746
+1830896133,/spl Phi/LOG a domain specific language for solving phylogenetic inference problems,2002,23,2,3,0.0,708809703,Enrico Pontelli,0,1.788958596913276,-0.35968135164537657
+1585560305,Simplifying Dynamic Programming via Tabling,2004,14,14,1,1.0,2101413274,Gopal Gupta,0,-0.29035637264307107,-0.11408258721787645
+1983963066,On the complexity of or-parallelism,1999,38,22,2,1.0,708809703,Enrico Pontelli,0,-0.5685803895016275,-0.5351369668443697
+1984479606,Technical correspondence measuring the level of computerization in a country,1981,10,0,1,1.0,2101413274,Gopal Gupta,0,-0.26331992904995066,-0.13738524969094615
+1982769241,PALS Efficient Or-Parallel execution of Prolog on Beowulf clusters,2007,58,2,3,0.0,708809703,Enrico Pontelli,0,-0.6441227017412204,-0.7830554841407954
+1965519689,Optimal implementation of and-or parallel Prolog,1994,30,20,1,1.0,2101413274,Gopal Gupta,0,-0.49257640787986173,-0.5318973821997961
+1985039455,Parallel execution of prolog programs a survey,2001,295,155,2,0.780387,708809703,Enrico Pontelli,0,0.7484442486170005,-0.5295222131538609
+1991003782,Analysis of Or-parallel execution models,1993,26,33,2,0.426649,1448804557,Bharat Jayaraman,0,0.4173626627839506,-0.524638234314198
+2000220850,Optimization with mode-directed preferences,2005,23,6,2,0.0,1448804557,Bharat Jayaraman,0,-0.28792847861496956,0.017707070434625067
+2000581133,Parallel implementation of Prolog the ACE project,2000,8,0,1,1.0,2101413274,Gopal Gupta,0,-0.39647125653309206,-0.0677617054234385
+1995530343,Rapidly prototyping implementation infrastructure of domain specific languages a semantics-based approach,2005,31,7,1,1.0,2101413274,Gopal Gupta,0,2.0121260186822494,-0.4019502293752207
+1997676396,Provably Correct Code Generation,2005,26,3,1,1.0,2101413274,Gopal Gupta,0,-0.0537329959100877,0.1899335477052597
+2012501814,And-Or parallel Prolog a recomputation based approach,1993,27,11,1,1.0,2101413274,Gopal Gupta,0,-0.6441227017412204,-0.7830554841407954
+2023819514,Optimization schemas for parallel implementation of non-deterministic languages and systems,2001,48,1,2,0.780387,708809703,Enrico Pontelli,0,0.42759729184168,0.2727687851692378
+2054412424,ActionScript bytecode verification with co-logic programming (abstract only),2009,0,0,2,0.0,2029339368,Kevin W. Hamlen,0,-1.0140967239275218,0.026519175553817203
+2055006439,Improving the efficiency of nondeterministic independent and-parallel systems,1996,40,16,2,1.0,708809703,Enrico Pontelli,0,-0.742241060691845,-0.07131364502166566
+2050098833,Design and implementation of a domain specific language for phylogenetic inference,2003,22,4,3,0.0,708809703,Enrico Pontelli,0,2.34120119790794,-0.2849422594026234
+2048620890,Dynamic reordering of alternatives for definite logic programs,2009,23,1,1,1.0,2101413274,Gopal Gupta,0,-0.011582375160865757,0.8970606085492435
+2039863686,Simplifying dynamic programming via mode-directed tabling,2008,13,30,1,1.0,2101413274,Gopal Gupta,0,1.898943233256961,-0.4954237539008885
+2034646424,ActionScript bytecode verification with co-logic programming,2009,31,15,2,0.0,2029339368,Kevin W. Hamlen,0,-0.8911224774213999,-0.056733956080901024
+2073289131,Cuts and side-effects in and-or parallel prolog,1996,26,17,1,1.0,2101413274,Gopal Gupta,0,0.7316923809305665,-1.04523069777427
+2070681361,Goal-directed execution of answer set programs,2012,37,15,1,1.0,2101413274,Gopal Gupta,0,-0.6890390905526455,0.3080180047776143
+2060843595,Static program analysis of embedded executable assembly code,2004,31,13,2,0.0,2093047891,Ramakrishnan Venkitaraman,0,-0.44974528115102164,-0.6340775855728602
+2094550744,A Universal Service Description Language,2005,3,16,2,1.0,2067881516,T.D. Hite,0,0.897087595414467,1.336313383028277
+2080525674,Language-based software engineering,2015,26,5,1,1.0,2101413274,Gopal Gupta,0,3.0661632255936304,-0.7905758436021397
+2097584421,&amp;ACE a high-performance parallel Prolog system,1995,14,46,2,1.0,708809703,Enrico Pontelli,0,-0.9262096456002957,-0.6686961255125915
+2126790995,Natural language multiprocessing a case study,1998,14,8,3,1.0,708809703,Enrico Pontelli,0,-0.9163286295386917,-2.1473353155828994
+2122023028,Data parallel logic programming in &amp;ACE,1995,10,4,2,1.0,708809703,Enrico Pontelli,0,-0.4706187505158021,0.019057918152536935
+2119312529,Interoperability between Bioinformatics Tools A Logic Programming Approach,2001,11,6,3,0.780387,708809703,Enrico Pontelli,0,-0.7377880128041767,-0.42066789210202826
+2131094247,ExSched Solving constraint satisfaction problems with the spreadsheet paradigm,2007,7,4,1,1.0,2101413274,Gopal Gupta,0,0.3593704262569368,0.5277203063307812
+2131514293,Reliable software construction a logic programming based methodology,2000,2,3,1,1.0,2101413274,Gopal Gupta,0,1.4217411972030771,-0.6965069773639401
+2107976991,Last alternative optimization,1996,8,3,2,1.0,708809703,Enrico Pontelli,0,0.589404742153407,-0.9147112539891289
+2114227583,Optimization schemas for parallel implementation of nondeterministic languages and systems,1997,12,10,2,1.0,708809703,Enrico Pontelli,0,-0.30471169686105143,0.1826997994202167
+2150369236,EQL the language and its implementation,1989,26,2,2,0.120661,1448804557,Bharat Jayaraman,0,-0.4702362820040471,0.09104927863412064
+2183862623,Complete and Efficient Methods Cuts in And-Or,1992,9,0,1,1.0,2101413274,Gopal Gupta,0,0.9105553247894189,0.42959233217159365
+2151542584,A universal service-semantics description language,2005,10,29,2,1.0,2067881516,T.D. Hite,0,-0.16987915029351663,0.10792141788451824
+2166718330,A systematic approach to exploiting implicit parallelism in Prolog,1993,19,0,1,1.0,2101413274,Gopal Gupta,0,-0.42593389067149356,-0.5510754697258273
+2158744037,A constraint-based approach for specification and verification of real-time systems,1997,20,62,2,1.0,708809703,Enrico Pontelli,0,-0.46586262332547523,-0.23435425317328437
+2155945137,A Simple Scheme for Implementing Tabled Logic Programming Systems Based on Dynamic Reordering of Alternatives,2001,21,60,1,1.0,2101413274,Gopal Gupta,0,-0.48351399736261014,-0.062329899131861224
+2315834182,Parallel execution of an equational language,1986,18,0,2,0.888889,1448804557,Bharat Jayaraman,0,-0.4791183538963098,0.037493481092788196
+2326507627,Efficient parallel execution of prolog programs,1997,0,1,1,1.0,2101413274,Gopal Gupta,0,-0.36244844446079805,0.06968766952020317
+2282023992,Predicate Answer Set Programming with Coinduction,2010,182,9,1,1.0,2101413274,Gopal Gupta,0,-0.4760367421299632,0.25268437693788914
+2475151412,Predicate Answer Set Programming via coinductive Logic Programming,2009,0,1,1,1.0,2101413274,Gopal Gupta,0,-0.6287593799123383,0.20588933070219917
+2498180789,Introduction Logic Programming and Parallel Processing,1994,0,0,1,1.0,2101413274,Gopal Gupta,0,1.162888450670169,-0.2044064719086211
+2472305522,And-Or Parallel Implementation of Prolog,1994,0,0,1,1.0,2101413274,Gopal Gupta,0,0.10044926146753594,0.41617577307161957
+2491975982,Towards next generation logic programming systems,2007,71,5,1,1.0,2101413274,Gopal Gupta,0,1.0426690621863615,-1.1615174692223047
+2492555540,Parallel Execution of Logic Programs,1991,0,4,1,1.0,2101413274,Gopal Gupta,0,-0.1164726804531344,0.019252515865476
+2486630259,Practical Aspects of Declarative Languages,1998,0,0,1,1.0,2101413274,Gopal Gupta,0,-0.1164726804531344,0.019252515865476
+2474384703,Extending logic programming with coinduction,2006,25,23,1,1.0,2101413274,Gopal Gupta,0,1.0331971939443767,-0.6169889037910525
+2488441460,Parallel Execution Models for Logic Programs,1994,0,0,1,1.0,2101413274,Gopal Gupta,0,0.6481329591635344,-0.2152821919452951
+2512625760,A semantics-based approach to processing formal languages,2007,0,0,1,1.0,2101413274,Gopal Gupta,0,0.010762976533145618,-0.140094695564278
+2585877797,Coinductive logic programming,2006,0,0,1,1.0,2101413274,Gopal Gupta,0,0.43749756758128133,-1.2052718094091224
+2617798739,Interoperability between bioinformatics tools,2001,0,0,3,0.780387,708809703,Enrico Pontelli,0,-0.1164726804531344,0.019252515865476
+2618723119,EQUATIONAL PROGRAMMING A UNIFYING APPROACH TO FUNCTIONAL AND LOGIC PROGRAMMING,1986,0,5,2,0.888889,1448804557,Bharat Jayaraman,0,2.156046438324664,-0.021863871995227175
+2624737314,A Methodology for Order-Sensitive Execution of Non-deterministic Languages on Beowulf Platforms,2004,0,0,3,0.0,708809703,Enrico Pontelli,0,-0.1164726804531344,0.019252515865476
+2588550740,Efficient web service discovery and composition using constraint logic programming,2006,0,6,2,1.0,2067881516,T.D. Hite,0,1.3906618658154735,-0.8645113845029948
+2740831106,Design and implementation of AT A real-time action description language,2006,0,1,1,1.0,2101413274,Gopal Gupta,0,-0.3676932094671783,0.1059748405849819
+2752020647,Computing Stable Models of Normal Logic Programs Without Grounding,2017,32,9,1,1.0,2101413274,Gopal Gupta,0,0.543014236040318,0.910553324983864
+2798954882,Constraint Answer Set Programming without Grounding,2018,2,0,1,1.0,2101413274,Gopal Gupta,0,-0.5986460853979229,0.3981258624263982
+2785378597,A Case for Query-driven Predicate Answer Set Programming,2017,0,0,1,1.0,2101413274,Gopal Gupta,0,-0.8688665384073416,0.5891146803889515
+2911515868,Proceedings of the 21st international conference on Logic Programming,2005,0,0,1,1.0,2101413274,Gopal Gupta,0,-0.3676932094671783,0.1059748405849819
+2903885543,An ASP Based Approach to Answering Questions for Natural Language Text,2019,17,3,1,1.0,2101413274,Gopal Gupta,0,-0.8214261552961721,0.42117399852308374
+2947269842,Constraint Answer Set Programming without Grounding and its Applications,2019,0,0,1,1.0,2101413274,Gopal Gupta,0,-0.8688665384073416,0.5891146803889515
+2949340384,ExSched Solving Constraint Satisfaction Problems with the Spreadsheet Paradigm,2007,1,12,1,1.0,2101413274,Gopal Gupta,0,-0.6419927144691555,-0.981855771244875
+2999720036,Whitebox Induction of Default Rules Using High-Utility Itemset Mining,2020,14,0,1,1.0,2101413274,Gopal Gupta,0,-0.1164726804531344,0.019252515865476
+3000702891,AQuA ASP-Based Visual Question Answering,2020,30,1,1,1.0,2101413274,Gopal Gupta,0,-0.6380235518309275,0.8349580723343654
+2970919216,Logic Programming,2008,0,1,1,1.0,2101413274,Gopal Gupta,0,-0.3676932094671783,0.1059748405849819
+3017805342,Synthesizing Imperative Code from Answer Set Programming Specifications,2019,13,0,1,1.0,2101413274,Gopal Gupta,0,-0.398226489117058,-0.3071706553756619
+3023840427,Parallel execution of an equational language,1987,0,0,2,0.444444,1448804557,Bharat Jayaraman,0,-0.1164726804531344,0.019252515865476

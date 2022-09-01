@@ -1,0 +1,84 @@
+69399,Automatically proving the correctness of program analyses and transformations,2006,103,3,1,1.0,2133284789,Craig Chambers,0,-0.22769399495335876,0.5486736067382102
+140626230,IBM Research Report An Assessment of Call Graph Construction Algorithms,2000,55,0,1,1.0,2133284789,Craig Chambers,0,-2.820239348409012,0.34653828827876065
+28356878,Proceedings of the 13th ACM SIGPLAN conference on Object-oriented programming systems languages and applications,1998,0,8,2,0.0,273376325,Bjorn Freeman Benson,0,0.004880576560232004,-0.20432588490386505
+46650353,Frameworks for Intra- and Interprocedural Dataflow Analysis,1998,26,17,1,1.0,2133284789,Craig Chambers,0,-0.9474849959393392,-0.5001764819265571
+186359121,Automatic Dynamic Compilation Support for Event Dispatching in Extensible Systems,1998,14,13,4,1.0,1873165156,Matthai Philipose,0,-1.2450891434456597,-0.20361250506962092
+333989726,A retrospective on &quot;customization optimizing compiler technology for self a dynamically-typed object-oriented programming language&quot; (with retrospective),1989,0,0,2,0.0,2041937263,David Ungar,0,-0.7880238425275907,-0.22979072868039838
+1544906724,Effective interprocedural optimization of object-oriented languages,1998,0,19,1,1.0,2133284789,Craig Chambers,0,-1.1983552062867207,-0.24973440825604146
+1562863263,Towards Safe Modular Extensible Objects,1994,2,0,1,1.0,2133284789,Craig Chambers,0,0.7944640558954166,0.08148165703529749
+1492489158,Whole-program optimization of object-oriented languages,1996,96,64,1,1.0,2133284789,Craig Chambers,0,0.0864824124911462,0.13828168547086755
+1485989058,Parameterized modules for classes and extensible functions,2006,38,4,1,1.0,2133284789,Craig Chambers,0,-0.2781851506800771,-0.9320073909734565
+1520880103,BeCecil A Core Object-Oriented Language with Block Structure and Multimethods Semantics and Typing,1997,53,22,1,1.0,2133284789,Craig Chambers,0,0.8488285800083821,-1.0536220143821227
+1504633425,Ownership Domains Separating Aliasing Policy from Mechanism,2004,25,165,2,0.992063,2128636885,Jonathan Aldrich,0,0.4313250741570783,-0.17522701911201474
+1595091000,Synergies Between Object-Oriented Programming Language Design and Implementation Research,1996,25,1,1,1.0,2133284789,Craig Chambers,0,2.218090160599493,-1.309629930248236
+1586902756,Predicate Dispatching A Unified Theory of Dispatch,1998,16,126,2,0.0,2100053763,Craig S. Kaplan,0,-0.46140502624107915,-1.2355641277857712
+1577894784,Dependence Analysis for Java,1999,14,39,4,0.0,338445073,Igor Pechtchanski,0,-1.2234204283619794,0.012070115338012919
+1596337349,MultiJava Modular Symmetric Multiple Dispatch and Extensible Classes for Java,2000,26,3,2,1.0,294596595,Todd Millstein,0,0.14509632946593204,-0.48331851732277475
+1597122400,The design and implementation of the self compiler an optimizing compiler for object-oriented programming languages,1992,75,131,1,1.0,2133284789,Craig Chambers,0,0.538851775765,-0.03482399855000251
+1882153261,Automating selective dynamic compilation,2002,65,5,2,0.0,2021048760,Susan J. Eggers,0,0.09240657948760114,-0.1176150797680966
+1914898838,System and method for performing selective dynamic compilation using run-time information,1999,24,182,2,1.0,1873165156,Matthai Philipose,0,-1.0557453518764803,-0.8156026228870253
+1701387142,Reconciling software extensibility with modular program reasoning,2003,87,7,2,1.0,294596595,Todd Millstein,0,0.23035577009925956,-0.5214322445291204
+1593405126,Language Support for Connector Abstractions,2003,33,65,4,0.0,477007165,David Notkin,0,0.7921365356291785,-0.20667810455592717
+1593753500,Proceedings of the ACM SIGPLAN 2004 conference on Programming language design and implementation,2004,0,0,2,0.0,2098006947,William Pugh,0,-0.1164726804531344,0.019252515865476
+1978506930,DyC an expressive annotation-directed dynamic compiler for C,2000,26,145,3,1.0,1873165156,Matthai Philipose,0,-0.9348907488633453,-0.16989271520793314
+1982322251,Profile-guided receiver class prediction,1995,21,89,1,1.0,2133284789,Craig Chambers,0,-0.1619465778680939,-0.1909960709987089
+1979582240,Dynamic points-to sets a comparison with static analyses and potential applications in program understanding and optimization,2001,19,63,1,1.0,2133284789,Craig Chambers,0,-0.8508298901725677,1.4400703615970567
+1971014792,Selective specialization for object-oriented languages,1995,22,88,1,1.0,2133284789,Craig Chambers,0,-0.8919188444495241,-0.07708716801567882
+2007126868,A debate on language and tool support for design patterns,2000,23,43,2,0.0,2044714561,John Vlissides,0,1.8805197543593652,-0.09616421463838147
+2007146206,Vortex an optimizing compiler for object-oriented languages,1996,41,126,2,1.0,2010625644,Greg DeFouw,0,-1.7503361989089354,-0.09617504210331446
+2002181967,Annotation-directed run-time specialization in C,1997,22,73,3,1.0,1873165156,Matthai Philipose,0,-1.0753753628981149,-0.5182987036957345
+2009418036,Fast effective dynamic compilation,1996,24,178,4,1.0,1873165156,Matthai Philipose,0,-1.9392622546615153,-1.4270531030789897
+2004403526,Typechecking and modules for multi-methods,1994,58,43,1,1.0,2133284789,Craig Chambers,0,0.14454678054238984,-0.59821542869617
+1988827547,Making pure object-oriented languages practical,1991,32,133,2,0.0,2041937263,David Ungar,0,-0.25704954147842063,-0.14273908882256564
+2022554539,Towards better inlining decisions using inlining trials,1994,25,60,1,1.0,2133284789,Craig Chambers,0,-1.4164467362316389,-0.0736766488884289
+2012047726,Object message and performance how they coexist in Self,1992,12,35,3,1.0,272903864,Urs HÃ¶lzle,0,1.5935985583440662,-0.9753292114069632
+2017743728,Modular Statically Typed Multimethods,2002,36,53,2,1.0,294596595,Todd Millstein,0,0.3807846650470508,-0.6690684323814743
+2017971446,Call graph construction in object-oriented languages,1997,44,244,2,1.0,2010625644,Greg DeFouw,0,-1.1082301454116805,0.3222588667904804
+2032053109,Automatic inference of optimizer flow functions from semantic meanings,2007,28,12,1,1.0,2133284789,Craig Chambers,0,-0.08300307218885822,0.06604079213382047
+2034918983,Iterative type analysis and extended message splitting; optimizing dynamically-typed object-oriented programs,1990,19,103,2,0.0,2041937263,David Ungar,0,-0.7388949404547007,-0.33923063149401983
+2040266445,A theory of platform-dependent low-level software,2008,32,16,1,1.0,2133284789,Craig Chambers,0,0.039672139249697244,-0.13268944456656603
+2054373994,Typechecking and modules for multimethods,1995,53,74,1,1.0,2133284789,Craig Chambers,0,0.15065109619865366,-0.6549858097038245
+2037159234,An efficient implementation of SELF a dynamically-typed object-oriented language based on prototypes,1991,25,28,3,0.0,2041937263,David Ungar,0,0.22837383968013492,-1.0095151157404325
+2035796972,A retrospective on &quot;customization optimizing compiler technology for self a dynamically-typed object-oriented programming language&quot;,2004,38,3,2,0.0,2041937263,David Ungar,0,-0.783417085762298,0.12356239354229796
+2052198453,Parents are shared parts of objects inheritance and encapsulation in SELF,1991,24,49,3,1.0,272903864,Urs HÃ¶lzle,0,0.6657464229776261,0.19372458455543579
+2068141179,Towards reusable extensible components,1996,20,3,1,1.0,2133284789,Craig Chambers,0,2.4989782284480992,-0.2760207335756924
+2055970549,MultiJava modular open classes and symmetric multiple dispatch for Java,2000,31,266,2,1.0,294596595,Todd Millstein,0,-0.1504216909305634,-0.463548799687816
+2058639022,An efficient implementation of SELF a dynamically-typed object-oriented language based on prototypes,1989,28,225,3,0.0,2041937263,David Ungar,0,-0.4721727462927996,-0.33880484231668834
+2064368864,DyC (Panel Session),2000,0,0,1,1.0,2133284789,Craig Chambers,0,-0.149704735647316,-0.1819552744654254
+2080674003,Efficient multiple and predicated dispatching,1999,46,59,1,1.0,2133284789,Craig Chambers,0,-0.31249758707147246,-0.9467118760662802
+2088494048,Customization optimizing compiler technology for SELF a dynamically-typed object-oriented programming language,1989,26,222,2,0.0,2041937263,David Ungar,0,-0.8930450644244953,-0.10409351565321279
+2098884586,MultiJava Design rationale compiler implementation and applications,2006,82,95,2,0.62495,294596595,Todd Millstein,0,-2.3690497843153966,0.3348676708804521
+2126234902,Modular typechecking for hierarchically extensible datatypes and functions,2004,52,21,2,1.0,294596595,Todd Millstein,0,-0.48775457247119625,-0.17921415663984983
+2117426803,A framework for call graph construction algorithms,2001,60,217,1,1.0,2133284789,Craig Chambers,0,-0.9855103182196124,0.02061056490515685
+2141293928,Optimizing Dynamically-Typed Object-Oriented Languages With Polymorphic Inline Caches,1991,26,309,3,1.0,272903864,Urs HÃ¶lzle,0,-0.36806888520601017,-0.7050201083802838
+2138343377,Efficient implementation of object-oriented programming languages (abstract),1992,0,1,2,0.0,2041937263,David Ungar,0,1.8967318345296367,-1.1819615407746815
+2115072441,Modular Statically Typed Multimethods,1999,45,40,2,1.0,294596595,Todd Millstein,0,-0.10973413712367619,-0.12302158725828843
+2121048547,Calpa a tool for automating selective dynamic compilation,2000,28,56,1,1.0,2133284789,Craig Chambers,0,-1.4619227395835666,-0.8267930005797366
+2133254848,ArchJava connecting software architecture to implementation,2002,21,418,3,0.0,477007165,David Notkin,0,2.1123956271024578,-0.45750396105921276
+2142547405,Fast interprocedural class analysis,1998,30,71,2,1.0,2010625644,Greg DeFouw,0,-0.3038734080425929,-0.47403654969907977
+2110423393,Composing dataflow analyses and transformations,2002,30,66,1,1.0,2133284789,Craig Chambers,0,-0.6261910115007904,0.0731122847752337
+2125346056,Automatically proving the correctness of compiler optimizations,2003,30,108,2,1.0,294596595,Todd Millstein,0,-0.30337988994485,0.5229085546404497
+2134093956,Searching for type-error messages,2007,21,69,2,0.0,2052315200,Benjamin S. Lerner,0,-0.2961688117484807,0.18386802044955003
+2131627004,Cobalt A Language for Writing Provably-Sound Compiler Optimizations,2005,27,2,2,0.868996,294596595,Todd Millstein,0,-0.6896913248770045,0.1267468951006032
+2117070687,Towards automatic construction of staged compilers,2002,33,11,3,1.0,1873165156,Matthai Philipose,0,-0.7404407106315634,0.07001753533256014
+2144015080,Object-Oriented Multi-Methods in Cecil,1992,36,242,1,1.0,2133284789,Craig Chambers,0,0.500332603781991,-1.1875895748829604
+2165258104,Organizing programs without classes,1991,18,90,3,1.0,272903864,Urs HÃ¶lzle,0,2.1138631734730784,-0.198746046244738
+2171240827,Optimization of Object-Oriented Programs Using Static Class Hierarchy Analysis,1995,41,532,1,1.0,2133284789,Craig Chambers,0,0.4756064852898527,0.27362203192952045
+2153293846,Iterative type analysis and extended message splitting optimizing dynamically-typed object-oriented programs,1991,18,5,2,0.0,2041937263,David Ungar,0,-0.09025247416805038,-0.01593901185151031
+2144540543,Automated soundness proofs for dataflow analyses and transformations via local rules,2005,36,99,3,0.868996,294596595,Todd Millstein,0,-0.5335301848647308,0.023575595838716348
+2159558457,Debugging optimized code with dynamic deoptimization,1992,16,261,3,1.0,272903864,Urs HÃ¶lzle,0,-1.59597847657657,-1.0210726917764243
+2162525339,HydroJ object-oriented pattern matching for evolvable distributed systems,2003,54,34,2,0.0,2091518520,Anthony LaMarca,0,1.0233769705877347,-0.3613669060966966
+2159873002,Automatically Inferring Sound Dataflow Functions from Dataflow Fact Schemas,2005,7,4,2,0.0,2100969217,Erika Rice,0,-0.5826153058619136,-0.07973828287892881
+2158067240,Architectural Reasoning in ArchJava,2002,31,107,3,0.0,477007165,David Notkin,0,1.331784901973735,-0.5081466397273234
+2170741763,Architecture-centric programming for adaptive systems,2002,6,13,4,0.0,477007165,David Notkin,0,1.0747734576973214,-0.4820615018626673
+2161783170,Relaxed MultiJava balancing extensibility and modular typechecking,2003,39,41,3,1.0,294596595,Todd Millstein,0,-0.5881655656545269,-0.034730246273495836
+2146934772,Alias annotations for program understanding,2002,42,203,2,1.0,2128636885,Jonathan Aldrich,0,0.40138053740191165,-0.12846771552077554
+2147044763,Modular typechecking for hierarchically extensible datatypes and functions,2002,27,26,2,1.0,294596595,Todd Millstein,0,-0.33623646280046704,-0.230904462571079
+2168068019,A framework for selective recompilation in the presence of complex intermodule dependencies,1995,17,45,1,1.0,2133284789,Craig Chambers,0,-0.6552567260144224,-0.046017825024459225
+2162026864,Identifying Profitable Specialization in Object-Oriented Languages,1994,19,19,1,1.0,2133284789,Craig Chambers,0,-0.25704954147842063,-0.14273908882256564
+2270807569,Typechecking and Modules for Multi-Methods,1995,0,28,1,1.0,2133284789,Craig Chambers,0,-0.1164726804531344,0.019252515865476
+2293099300,Staged compilation,2002,34,15,1,1.0,2133284789,Craig Chambers,0,-1.8600528124744449,-0.3405097511092825
+2291058934,An Efficient Implementation of SELF a Dynamically-Typed Object-Oriented Language,1991,22,0,3,0.0,2041937263,David Ungar,0,-0.4721727462927996,-0.33880484231668834
+2464134878,Parameterized Modules for Classes and Extensible Functions,2006,0,0,1,1.0,2133284789,Craig Chambers,0,-0.2781851506800771,-0.9320073909734565
+2492503310,Architectural reasoning in ArchJava,2002,0,2,3,0.0,477007165,David Notkin,0,1.331784901973735,-0.5081466397273234
+2914317223,Predicate Classes,1993,24,129,1,1.0,2133284789,Craig Chambers,0,0.1371081297286643,-0.9712414104279681

@@ -1,0 +1,286 @@
+189343201,Multi-Manifold Ranking Using Multiple Features for Better Image Retrieval,2013,22,21,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+72384329,Top- k similarity join over multi-valued objects,2012,24,0,1,1.0,2125481875,Xuemin Lin,0,-0.2580884123571123,1.0118060856803128
+125066718,On the efficiency of estimating penetrating rank on large graphs,2012,28,4,2,1.0,2111026807,Weiren Yu,0,0.003708468606338,0.082832279151172
+75259215,Efficient subgraph similarity all-matching,2012,20,0,3,1.0,2110680452,Ke Zhu,0,0.003708468606338,0.082832279151172
+160719200,Improving Performance of Graph Similarity Joins Using Selected Substructures,2014,16,3,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+145560119,Efficiently Retrieving Top-k Trajectories by Locations via Traveling Time,2014,16,3,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+44243131,On Efficient Graph Substructure Selection,2013,16,1,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+163398234,Identifying Top k Dominating Objects over Uncertain Data,2014,24,11,1,1.0,2125481875,Xuemin Lin,0,-0.650874122119407,0.24918517575285817
+198573181,Shifting Hypergraphs by Probabilistic Voting,2014,23,24,1,1.0,2125481875,Xuemin Lin,0,-0.21934185016841626,0.6056873083074126
+63060100,AVR-Tree Speeding Up the NN and ANN Queries on Location Data,2013,15,0,2,1.0,2056812492,Qianlu Lin,0,-0.13275296294680305,-0.071629888206014
+975351372,Selectivity estimation on streaming spatio-textual data using local correlations,2014,27,13,1,1.0,2125481875,Xuemin Lin,0,-0.17948633351581852,0.2026235066244149
+642889137,SRS solving c -approximate nearest neighbor queries in high dimensional euclidean space with a tiny index,2014,48,39,2,1.0,2099111646,Yifang Sun,0,-0.26741172356801984,2.665120816237924
+984076445,A partition-based approach to structure similarity search,2013,22,27,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+571797314,Guest editorial web information technologies,2015,0,0,2,0.0,2119358208,Jeffrey Xu Yu,0,-0.11515116857214534,0.0792292535380118
+1000950318,Spatial Keyword Range Search on Trajectories,2015,22,10,1,1.0,2125481875,Xuemin Lin,0,-0.008660452314072545,0.34710451212796906
+1488297666,Counting distinct objects over sliding windows,2010,19,5,2,1.0,2117039633,Muhammad Aamir Cheema,0,-0.1071931497347323,0.3242721482837629
+1479848599,NOVA a novel and efficient framework for finding subgraph isomorphism mappings in large graphs,2010,20,24,3,1.0,2110680452,Ke Zhu,0,0.003708468606338,0.082832279151172
+1570882787,On the optimization of complex spatial queries,1999,0,1,2,0.479148,2100438523,Yanchun Zhang,0,0.003708468606338,0.082832279151172
+1562218150,Efficient algorithms to monitor continuous constrained k nearest neighbor queries,2010,17,14,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+1491784256,Continuously Maintaining Order Statistics over Data Streams,2007,22,1,1,1.0,2125481875,Xuemin Lin,0,-0.1071931497347323,0.3242721482837629
+1572158434,Robust Subspace Clustering for Multi-View Data by Exploiting Correlation Consensus,2015,30,143,1,1.0,2125481875,Xuemin Lin,0,-0.8139956319942949,3.001062845451768
+1483697143,A unified algorithm for continuous monitoring of spatial queries,2011,22,1,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+1545648536,Subgraph join efficient processing subgraph queries on graph-structured XML document,2005,31,2,1,1.0,2125481875,Xuemin Lin,0,-2.3657549550561776,-0.21613647516843623
+1545879303,More is simpler effectively and efficiently assessing node-pair similarities based on hyperlinks,2013,23,48,2,1.0,2111026807,Weiren Yu,0,-0.00888062291876747,0.6376806278861271
+1545881172,Efficiently Computing Weighted Proximity Relationships in Spatial Databases,2001,23,0,1,1.0,2125481875,Xuemin Lin,0,-0.057093760727171504,0.8079566848558094
+1573443721,Multi-resolution algorithms for building spatial histograms,2003,12,6,1,1.0,2125481875,Xuemin Lin,0,-0.1029618939806145,0.040434369851773004
+1546313639,Diversified top-k clique search,2015,52,8,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+1528792045,Space Efficient Quantile Summary for Constrained Sliding Windows on a Data Stream,2004,10,9,1,1.0,2125481875,Xuemin Lin,0,-0.26390573876545814,0.1369426397885923
+1502577746,Fast computation of reachability labeling for large graphs,2006,26,79,3,0.00540085,2119358208,Jeffrey Xu Yu,0,0.2662429323858364,-1.5165404178810575
+1511274769,A space-efficient indexing algorithm for boolean query processing,2012,16,0,1,1.0,2125481875,Xuemin Lin,0,0.3531040014101039,0.5049572131056808
+1511401637,Continuously maintaining order statistics over data streams extended abstract,2007,31,3,1,1.0,2125481875,Xuemin Lin,0,0.07022756293005476,0.09834241765231812
+1547478036,Summarizing spatial relations â€“ a hybrid histogram,2005,15,0,1,1.0,2125481875,Xuemin Lin,0,-0.14255436113902986,0.20337351355405242
+1520330802,Efficient Construction of Safe Regions for Moving kNN Queries over Dynamic Datasets,2009,12,16,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+1529615683,Labeling scheme and structural joins for graph-structured XML data,2005,26,10,1,1.0,2125481875,Xuemin Lin,0,-2.8511157764103605,-0.31098572782611583
+1565705071,Practical indexing XML Document For Twig query,2005,12,1,1,1.0,2125481875,Xuemin Lin,0,0.13389169339684046,-0.10260627231313495
+1494822994,Locating motifs in time-series data,2005,9,19,2,0.00838756,2119358208,Jeffrey Xu Yu,0,0.09894671261016653,0.4063152618660422
+1558259982,Advances in Data and Web Management Joint 9th Asia-Pacific Web Conference APWeb 2007 and 8th International Conference on Web-Age Information Management WAIM 2007 Huang Shan China June 16-18 2007,2007,0,0,2,0.0042486,2119358208,Jeffrey Xu Yu,0,-0.4490227346879162,-1.0067864096177181
+1567285299,An Optimal Divide-Conquer Algorithm for 2D Skyline Queries,2003,12,6,1,1.0,2125481875,Xuemin Lin,0,0.06881079543497683,0.26077926107884375
+1604088952,AP-Tree Efficiently support continuous spatial-keyword queries over stream,2015,29,47,1,1.0,2125481875,Xuemin Lin,0,-0.31621771090825956,-0.07613228402266684
+1577671630,An Efficient Distributed Algorithm for Computing Association Rules,2000,11,2,1,1.0,2125481875,Xuemin Lin,0,-0.14837983426623985,0.21361875491118276
+1747247166,Graph partition based multi-way spatial joins,2002,17,3,1,1.0,2125481875,Xuemin Lin,0,-0.5703684799491398,0.6894494368532158
+1595956925,Term graph model for text classification,2005,18,37,1,1.0,2125481875,Xuemin Lin,0,0.6539245815662791,0.04780545965573213
+1605636819,Answering constrained k-NN queries in unstructured P2P systems,2005,18,0,2,0.238538,2109336725,Xiaochun Yang,0,0.003708468606338,0.082832279151172
+1908699674,Subgraph search over massive disk resident graphs,2011,18,6,1,1.0,2125481875,Xuemin Lin,0,0.7647345494918176,0.8032770917980444
+1579687546,Similarity search with implicit object features,2005,10,3,2,0.00838756,2119358208,Jeffrey Xu Yu,0,-1.018812422170385,0.020080613931463053
+1589242672,PrefIndex an efficient supergraph containment search technique,2010,17,6,2,1.0,2117152338,Gaoping Zhu,0,-0.23596603161225885,0.32842752035054174
+1645845583,On processing cycle querys strategy for semistructure data model and its role in design,2001,6,0,1,1.0,2125481875,Xuemin Lin,0,-0.026413021686930122,0.08211715957225213
+1599327344,Cleaning structured event logs A graph repair approach,2015,32,21,1,1.0,2125481875,Xuemin Lin,0,0.03452684058154445,0.38161437663138903
+1581724699,Probabilistic Threshold Range Aggregate Query Processing over Uncertain Data,2009,24,8,1,1.0,2125481875,Xuemin Lin,0,-0.06023627647177815,0.12811087722608133
+1857276211,AP-Tree efficiently support location-aware Publish/Subscribe,2015,49,11,1,1.0,2125481875,Xuemin Lin,0,-0.13275296294680305,-0.071629888206014
+1870815170,Clustering moving objects for spatio-temporal selectivity estimation,2004,27,18,1,1.0,2125481875,Xuemin Lin,0,-0.21934185016841626,0.6056873083074126
+1927207979,Finding Top $k$ Most Influential Spatial Facilities over Uncertain Objects,2015,25,2,1,1.0,2125481875,Xuemin Lin,0,-0.13275296294680305,-0.071629888206014
+1969752030,LBMCH Learning Bridging Mapping for Cross-modal Hashing,2015,16,52,1,1.0,2125481875,Xuemin Lin,0,-0.1984714131877254,-0.08331523624254955
+1973535531,Efficient Graph Similarity Joins with Edit Distance Constraints,2012,37,43,1,1.0,2125481875,Xuemin Lin,0,-0.13275296294680305,-0.071629888206014
+1977149746,High efficiency and quality large graphs matching,2013,40,21,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+1975550026,Similarity query processing for probabilistic sets,2013,39,6,2,0.0,2111470091,Aoying Zhou,0,0.11927777004453254,-0.06206596724025184
+1986625687,Efficiently Monitoring Top-k Pairs over Sliding Windows,2012,25,18,2,1.0,2117039633,Muhammad Aamir Cheema,0,-0.30132854332235204,-0.1131840565137238
+1965818795,A graph based cluster approach for vertical partitioning in database design,1993,10,30,3,0.0,2100438523,Yanchun Zhang,0,0.003708468606338,0.082832279151172
+1986797939,DuoWave Mitigating the curse of dimensionality for uncertain data,2012,39,2,1,1.0,2125481875,Xuemin Lin,0,-0.15430132870161595,0.1472654682967684
+1983471910,Coding-based Join Algorithms for Structural Queries on Graph-Structured XML Document,2008,30,12,1,1.0,2125481875,Xuemin Lin,0,-2.3756431640931988,-0.21777326595935692
+1992735711,SPARK2 Top-k Keyword Query in Relational Databases,2011,61,42,1,1.0,2125481875,Xuemin Lin,0,-0.5198965844303989,0.05501947782058192
+2008511084,Similarity search on supergraph containment,2010,24,22,3,0.0,23099875,Ryutaro Ichise,0,-0.22734646173121045,0.06394526762332532
+2006729327,Effectively indexing the multi-dimensional uncertain objects for range searching,2012,25,18,2,1.0,2056812492,Qianlu Lin,0,-0.06445040657766334,0.09399787504076493
+2008742021,Keyword search on structured and semi-structured data,2009,60,130,1,1.0,2125481875,Xuemin Lin,0,-0.5207388606918844,0.13779230513221863
+1991249762,Sliding-window top-k queries on uncertain streams,2008,36,128,3,0.0,2115752352,Ke Yi,0,-0.3696443923757426,0.3057032228243983
+1991343224,Matching dominance capture the semantics of dominance for multi-dimensional uncertain objects,2014,24,2,2,0.886416,2117039633,Muhammad Aamir Cheema,0,-0.13275296294680305,-0.071629888206014
+1993219230,Scalable big graph processing in MapReduce,2014,49,47,2,0.0,2119358208,Jeffrey Xu Yu,0,0.12492345808765674,0.23414093372237493
+1994987703,Optimal Spatial Dominance An Effective Search of Nearest Neighbor Candidates,2015,43,0,2,0.757885,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+2009453307,CTrace semantic comparison of multi-granularity process traces,2013,4,1,4,0.0,1972929806,Corne Kloppers,0,0.24468189252593817,0.1615623287108782
+2005948130,Error minimization in approximate range aggregates,2007,32,1,1,1.0,2125481875,Xuemin Lin,0,-0.33609952184070413,0.18771325731742527
+2000893191,Fast incremental SimRank on link-evolving graphs,2014,21,29,2,0.925926,2111026807,Weiren Yu,0,-1.0297761307801219,0.36189615086957344
+1994136002,Towards semantic comparison of multi-granularity process traces,2013,48,2,5,0.0,1972929806,Corne Kloppers,0,0.3536253797212813,-0.12254486094174726
+2013885553,Loyalty-based selection retrieving objects that persistently satisfy criteria,2012,11,4,2,1.0,2117039633,Muhammad Aamir Cheema,0,-0.2759814111264423,0.3143347712592715
+2019412213,VChunkJoin An Efficient Algorithm for Edit Similarity Joins,2013,43,37,2,0.0,2116772828,Heng Tao Shen,0,0.003708468606338,0.082832279151172
+2023210016,Towards efficient SimRank computation on large networks,2013,16,30,2,1.0,2111026807,Weiren Yu,0,-1.0297761307801219,0.36189615086957344
+2030198693,Consensus-Based Ranking of Multivalued Objects A Generalized Borda Count Approach,2014,19,14,2,1.0,2056812492,Qianlu Lin,0,0.2195057661499241,-0.09529316874292454
+2018040777,Clustering Uncertain Data Based on Probability Distribution Similarity,2013,32,79,1,1.0,2125481875,Xuemin Lin,0,-0.4332857503311571,1.635712108581362
+2026808466,Ranking Queries on Uncertain Data,2011,44,20,2,0.688532,1965087924,Ming Hua,0,0.15011497953684425,0.13908440388466345
+2012730477,Probabilistic Skyline Operator over Sliding Windows,2009,33,109,2,0.0,2119358208,Jeffrey Xu Yu,0,0.15185959730619542,0.028301549417114952
+2012816654,Quantile-based KNN over multi-valued objects,2010,24,13,2,1.0,2117039633,Muhammad Aamir Cheema,0,-0.1984714131877254,-0.08331523624254955
+2030537979,A Unified Framework for Answering k Closest Pairs Queries and Variants,2014,17,2,2,0.886416,2117039633,Muhammad Aamir Cheema,0,-0.05833861018649885,0.18945735664010638
+2014820355,SLICE Reviving regions-based pruning for reverse k nearest neighbors queries,2014,31,21,3,1.0,2112673487,Shiyu Yang,0,0.21438872843298346,-0.1353423822296997
+2025510320,Range Search on Uncertain Trajectories,2015,23,2,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2041763948,Ranking queries on uncertain data a probabilistic threshold approach,2008,30,246,2,0.833333,1965087924,Ming Hua,0,-1.1407167835700949,0.5573254425276039
+2049075975,Query answering techniques on uncertain and probabilistic data tutorial summary,2008,38,48,2,0.833333,1965087924,Ming Hua,0,-1.1407167835700949,0.5573254425276039
+2042273874,Applying on-line bitmap indexing to reduce counting costs in mining association rules,1999,10,11,2,0.0,2102677846,Chi Ping Tsang,0,-0.9406056527231508,0.5557341642966253
+2038801721,Efficient computation of a proximity matching in spatial databases,2000,26,9,1,1.0,2125481875,Xuemin Lin,0,-0.3931566664988477,1.1751610009208713
+2044312046,Asymmetric signature schemes for efficient exact edit similarity query processing,2013,59,12,2,1.0,2100512385,Yifei Lu,0,-0.159937373153795,-0.07856742003390203
+2046584324,Summarizing level-two topological relations in large spatial datasets,2006,33,7,1,1.0,2125481875,Xuemin Lin,0,-0.8119081610759554,0.7753277337940678
+2034578833,Shifting multi-hypergraphs via collaborative probabilistic voting,2016,36,12,1,1.0,2125481875,Xuemin Lin,0,0.12492345808765674,0.23414093372237493
+2064778223,Efficient top-k similarity join processing over multi-valued objects,2014,29,5,2,0.886416,2117039633,Muhammad Aamir Cheema,0,-0.2580884123571123,1.0118060856803128
+2064852365,Spatial query processing using generalized filter,2000,1,1,1,1.0,2125481875,Xuemin Lin,0,-0.24317747380769292,0.4589761806462012
+2070109133,A Space and Time Efficient Algorithm for SimRank Computation,2010,28,13,2,1.0,2111026807,Weiren Yu,0,-1.0297761307801219,0.36189615086957344
+2056398166,Efficient general spatial skyline computation,2013,23,7,2,1.0,2056812492,Qianlu Lin,0,-0.4105645710147203,0.008771941389357395
+2065259291,Efficient similarity joins for near-duplicate detection,2011,52,204,2,0.0,2119358208,Jeffrey Xu Yu,0,-0.2552022281664911,-0.07951238004059223
+2061997922,A safe zone based approach for monitoring moving skyline queries,2013,27,20,2,1.0,2117039633,Muhammad Aamir Cheema,0,-0.0005640786374360995,-0.045335792265642626
+2056899820,Efficient processing of graph similarity queries with edit distance constraints,2013,43,29,1,1.0,2125481875,Xuemin Lin,0,-0.13275296294680305,-0.071629888206014
+2058880662,Answering subgraph queries over massive disk resident graphs,2016,43,8,1,1.0,2125481875,Xuemin Lin,0,0.7647345494918176,0.8032770917980444
+2069570177,Selecting Representative Objects Considering Coverage and Diversity,2015,25,5,2,0.757885,2117039633,Muhammad Aamir Cheema,0,-0.7809631680273506,-0.4477579639854585
+2059132017,Multi-guarded safe zone An effective technique to monitor moving circular range queries,2010,25,53,3,0.539042,1904239323,Ljiljana Brankovic,0,-0.1847743722593346,0.060218323848301614
+2090852828,Efficiently processing snapshot and continuous reverse k nearest neighbors queries,2012,49,24,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.0644818988688213,0.4660528257840121
+2096675082,Mining preferences from superior and inferior examples,2008,21,60,3,0.0,1979772396,David W. Cheung,0,-0.349164141439655,-0.35043623115436395
+2102855375,Effectively Indexing the Multidimensional Uncertain Objects,2014,24,9,3,1.0,2056812492,Qianlu Lin,0,-0.5164998405036083,0.2798030816691195
+2097184821,Efficient similarity joins for near duplicate detection,2008,26,405,2,0.0,2119358208,Jeffrey Xu Yu,0,-0.2552022281664911,-0.07951238004059223
+2087829218,TreeSpan efficiently computing similarity all-matching,2012,26,27,4,1.0,2110680452,Ke Zhu,0,0.003708468606338,0.082832279151172
+2103406514,Inverted linear quadtree Efficient top k spatial keyword search,2013,22,57,1,1.0,2125481875,Xuemin Lin,0,0.2073967866920161,0.4056035643344491
+2100548092,Efficient exact edit similarity query processing with the asymmetric signature scheme,2011,38,75,2,1.0,2100512385,Yifei Lu,0,-0.1773842442309081,-0.032039910520238024
+2103636110,Circulartrip an effective algorithm for continuous kNN queries,2007,11,12,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+2084679825,Efficient Computation of Range Aggregates against Uncertain Location-Based Queries,2012,28,13,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2091835598,Efficiently identify local frequent keyword co-occurrence patterns in geo-tagged Twitter stream,2014,9,5,1,1.0,2125481875,Xuemin Lin,0,-0.22605529884369702,0.4790327283970004
+2101496601,Ranking uncertain sky The probabilistic top-k skyline operator,2011,37,28,1,1.0,2125481875,Xuemin Lin,0,0.12589951588032547,0.04280031314594467
+2099225351,Connected substructure similarity search,2010,28,40,2,0.0,2119358208,Jeffrey Xu Yu,0,-0.22205240695846498,-0.13090750934943304
+2099370490,Efficient approximate entity extraction with edit distance constraints,2009,40,94,1,1.0,2125481875,Xuemin Lin,0,-0.0160484811255519,-0.31555163086887356
+2114427728,Surface k-NN Query Processing,2006,23,20,2,0.1875,2116772828,Heng Tao Shen,0,0.003708468606338,0.082832279151172
+2105436061,Top-k Set Similarity Joins,2009,37,134,1,1.0,2125481875,Xuemin Lin,0,0.20543250159216206,-0.08112880101296192
+2120317424,Finding top k most influential spatial facilities over uncertain objects,2012,26,9,1,1.0,2125481875,Xuemin Lin,0,-0.13275296294680305,-0.071629888206014
+2117446385,Skyline probability over uncertain preferences,2013,24,15,1,1.0,2125481875,Xuemin Lin,0,-0.4621213218718075,0.5386804403982418
+2117461391,Spark top-k keyword query in relational databases,2007,54,287,1,1.0,2125481875,Xuemin Lin,0,-0.5849247914830797,0.1838437443806922
+2120515613,Efficiently Matching Proximity Relationships in Spatial Databases,1999,30,2,1,1.0,2125481875,Xuemin Lin,0,-0.8119081610759554,0.7753277337940678
+2138414767,Probabilistic skylines on uncertain data,2007,31,416,1,1.0,2125481875,Xuemin Lin,0,-0.5839225547766735,0.23373828312814943
+2135463074,Optimal enumeration efficient top-k tree matching,2015,35,9,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2132555066,Efficient processing of XML path queries using the disk-based F&amp;B Index,2005,22,57,2,0.0,2099420347,Haifeng Jiang,0,-2.0509041544040363,-0.27828582720117234
+2117961179,A multi-resolution surface distance model for k-NN query processing,2008,27,16,2,0.1875,2116772828,Heng Tao Shen,0,0.003708468606338,0.082832279151172
+2112212668,Stabbing the sky efficient skyline computation over sliding windows,2005,30,245,1,1.0,2125481875,Xuemin Lin,0,-0.04563923696739223,0.16625880941201096
+2109280074,I/O efficient computing SCCs in massive graphs,2015,25,0,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2118378419,Efficiently Answering Probabilistic Threshold Top-k Queries on Uncertain Data,2008,18,68,2,0.833333,1965087924,Ming Hua,0,-0.7981026272816198,0.4141953964533593
+2109541479,Duplicate-Insensitive Order Statistics Computation over Data Streams,2010,37,9,2,0.0,390930505,Masaru Kitsuregawa,0,-0.1071931497347323,0.3242721482837629
+2142410337,Continuous reverse k nearest neighbors queries in Euclidean space and in spatial networks,2012,55,73,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+2136286873,SimFusion+ extending simfusion towards efficient estimation on large and dynamic networks,2012,17,10,2,1.0,2111026807,Weiren Yu,0,0.003708468606338,0.082832279151172
+2142541325,Efficient recovery of missing events,2013,26,27,1,1.0,2125481875,Xuemin Lin,0,0.18091544518554475,0.11781454200409158
+2127765405,Spotting Significant Changing Subgraphs in Evolving Graphs,2008,9,24,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2113053869,Managing Uncertain Data Probabilistic Approaches,2008,70,18,1,1.0,2125481875,Xuemin Lin,0,-1.0820011990373353,0.5215193170514679
+2130696419,Towards multidimensional subspace skyline analysis,2006,32,104,3,0.0,2067196623,Martin Ester,0,-0.19698693571217518,0.4568959656105857
+2127947301,Efficient rank based KNN query processing over uncertain data,2010,34,23,3,1.0,2056812492,Qianlu Lin,0,-0.10444265827872458,0.19087627499320522
+2143085379,Efficiently answering top-k typicality queries on large databases,2007,38,34,2,0.833333,1965087924,Ming Hua,0,-0.3228477940215465,-0.14852649638441862
+2116434582,Selecting Stars The k Most Representative Skyline Operator,2007,36,321,1,1.0,2125481875,Xuemin Lin,0,0.04058852858681295,-0.03346779459016044
+2110488294,Computing Compressed Multidimensional Skyline Cubes Efficiently,2007,14,59,1,1.0,2125481875,Xuemin Lin,0,-0.7450969085072751,0.2784349893970605
+2119398588,Lazy updates an efficient technique to continuously monitoring reverse kNN,2009,27,47,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+2134364602,On Linear-Spline Based Histograms,2002,20,5,1,1.0,2125481875,Xuemin Lin,0,-0.32033874485526864,0.23311375419726113
+2140840007,Taming verification hardness an efficient algorithm for testing subgraph isomorphism,2008,22,208,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2137786357,High efficiency and quality large graphs matching,2011,37,12,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2168293873,Aggregate computation over data streams,2008,108,9,1,1.0,2125481875,Xuemin Lin,0,-0.1071931497347323,0.3242721482837629
+2147312192,Approximate processing of massive continuous quantile queries over high-speed data streams,2006,38,12,3,0.0,2112273716,Qing Zhang,0,-0.010436604399113578,0.4626586716892162
+2153404040,Probabilistic Reverse Nearest Neighbor Queries on Uncertain Data,2010,32,84,2,1.0,2117039633,Muhammad Aamir Cheema,0,-0.9020692315489844,0.6763773922211737
+2144543704,Efficiently computing k-edge connected components via graph decomposition,2013,20,42,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2147579672,Towards metric fusion on multi-view data a cross-view based graph random walk approach,2013,19,43,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2153592001,A Multiresolution Terrain Model for Efficient Visualization Query Processing,2006,34,2,2,0.1875,2116772828,Heng Tao Shen,0,-0.19257717161767499,0.7179202261863091
+2150693557,Efficient computation of the skyline cube,2005,22,254,2,0.00838756,2119358208,Jeffrey Xu Yu,0,0.39658309351379,0.43426836713153866
+2144768285,Continuous Monitoring of Distance-Based Range Queries,2011,41,52,3,0.539042,1904239323,Ljiljana Brankovic,0,-0.3360867254712964,0.39540795192782136
+2165824191,Uncertain Location Based Range Aggregates in a Multi-dimensional Space,2009,8,3,1,1.0,2125481875,Xuemin Lin,0,0.15011497953684425,0.13908440388466345
+2150916025,Ed-Join an efficient algorithm for similarity joins with edit distance constraints,2008,37,213,1,1.0,2125481875,Xuemin Lin,0,0.2203513016097659,-0.05856305705207425
+2150965582,Probabilistic ranking over relations,2010,37,0,2,0.0,2119358208,Jeffrey Xu Yu,0,-0.5386584959604124,0.42427360881463216
+2162833734,Finding Top-k Min-Cost Connected Trees in Databases,2007,24,259,1,1.0,2125481875,Xuemin Lin,0,-0.6964996173524033,0.5430146126335307
+2156892372,Threshold-based probabilistic top-k dominating queries,2010,42,42,1,1.0,2125481875,Xuemin Lin,0,0.24176631577777244,-0.025116078613748167
+2159948839,Probabilistic skyline operator over sliding windows,2013,32,39,3,1.0,2117152338,Gaoping Zhu,0,0.3426481525524485,0.33997864133011046
+2166103489,Space-efficient Relative Error Order Sketch over Data Streams,2006,28,16,1,1.0,2125481875,Xuemin Lin,0,-0.1071931497347323,0.3242721482837629
+2157044362,Top-k typicality queries and efficient query answering methods on large databases,2009,58,16,2,0.737962,1965087924,Ming Hua,0,0.2886648526370174,0.1587920623687398
+2172186814,A unified approach for computing top-k pairs in multidimensional space,2011,21,11,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+2151281106,BMC an efficient method to evaluate probabilistic reachability queries,2011,26,13,3,1.0,2110680452,Ke Zhu,0,0.003708468606338,0.082832279151172
+2145344816,Influence zone Efficiently processing reverse k nearest neighbors queries,2011,20,66,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+2145472743,Summarizing Order Statistics over Data Streams with Duplicates,2007,21,3,2,0.0,390930505,Masaru Kitsuregawa,0,-0.1071931497347323,0.3242721482837629
+2169712975,Searching Dimension Incomplete Databases,2014,24,17,1,1.0,2125481875,Xuemin Lin,0,0.009375387294726034,-0.1733825053652235
+2157827659,Continuously maintaining quantile summaries of the most recent N elements over a data stream,2004,23,78,4,0.0,2096321700,Hanqing Lu,0,-0.0453605324199354,-0.9319274193021745
+2146094470,Direct mesh a multiresolution approach to terrain visualization,2004,22,10,1,1.0,2125481875,Xuemin Lin,0,0.11760109717626503,0.25239022468728256
+2161041255,Efficiently mining tree traversal patterns in a Web environment,1998,5,1,1,1.0,2125481875,Xuemin Lin,0,0.04751510099794626,-1.9601163757128144
+2149157830,Error minimization for approximate computation of range aggregates,2003,22,1,1,1.0,2125481875,Xuemin Lin,0,-0.9540272652158359,0.4306413577370471
+2146327344,Probabilistic skylines on uncertain data model and bounding-pruning-refining methods,2012,62,25,1,1.0,2125481875,Xuemin Lin,0,-0.5839225547766735,0.23373828312814943
+2158269779,I/O efficient computing SCCs in massive graphs,2013,26,15,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2170425001,MapDupReducer detecting near duplicates over massive datasets,2010,5,40,2,0.0,2106340623,Chaokun Wang,0,-0.13120245634943134,0.116492655079619
+2155485999,Stochastic skyline operator,2011,24,37,2,1.0,2117039633,Muhammad Aamir Cheema,0,-0.272460618787018,0.45284446245322013
+2167552430,Efficiently computing frequent tree-like topology patterns in a Web environment,1999,9,20,2,0.479148,2100438523,Yanchun Zhang,0,-0.26492278954170984,-0.4875963290192244
+2158701000,Continually answering constraint k-NN queries in unstructured P2P systems,2008,38,0,2,0.238538,2109336725,Xiaochun Yang,0,0.003708468606338,0.082832279151172
+2146831356,Distance-Based Representative Skyline,2009,27,151,1,1.0,2125481875,Xuemin Lin,0,0.04058852858681295,-0.03346779459016044
+2168002671,Effectively Indexing the Uncertain Space,2010,38,20,2,1.0,2056812492,Qianlu Lin,0,0.007535973398739311,0.04189016510434529
+2261725355,A New Quorum Consensus Method with High Fault-Tolerance for Managing Replicated Data,1996,0,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2219975752,A Generic Framework for Top- ${schmi k}$ Pairs and Top- ${schmi k}$ Objects Queries over Sliding Windows,2014,24,7,2,0.886416,2117039633,Muhammad Aamir Cheema,0,-0.27358395157350224,0.11311463479630206
+2228089378,I/O efficient Core Graph Decomposition at web scale,2016,34,39,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2203972201,Scalable subgraph enumeration in MapReduce,2015,43,49,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2248601845,Reverse k nearest neighbors query processing experiments and analysis,2015,29,31,3,1.0,2112673487,Shiyu Yang,0,0.003708468606338,0.082832279151172
+2231297807,Diversified top-k clique search,2016,50,16,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2231757023,An Iterative Fusion Approach to Graph-Based Semi-Supervised Learning from Multiple Views,2014,11,15,1,1.0,2125481875,Xuemin Lin,0,0.43162625009792,0.20195636031746017
+2264723483,Efficient String Similarity Search A Cross Pivotal Based Approach,2015,21,0,1,1.0,2125481875,Xuemin Lin,0,0.3531040014101039,0.5049572131056808
+2241152322,Towards Frequent Subgraph Mining on Single Large Uncertain Graphs,2015,30,8,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2249777566,Understanding Short Texts through Semantic Enrichment and Hashing,2016,31,22,1,1.0,2125481875,Xuemin Lin,0,0.3387958587247798,-0.4565835992578918
+2284316579,Efficiently Computing Top-K Shortest Path Join,2015,26,6,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2299127550,BEVA An Efficient Query Processing Algorithm for Error-Tolerant Autocompletion,2016,76,1,1,1.0,2125481875,Xuemin Lin,0,-0.0395804122397981,0.0068802457672825015
+2294226876,Stochastic skylines,2012,30,23,2,1.0,2117039633,Muhammad Aamir Cheema,0,-0.272460618787018,0.45284446245322013
+2300261494,Efficient Probabilistic Supergraph Search,2016,37,5,3,1.0,2110680452,Ke Zhu,0,0.15011497953684425,0.13908440388466345
+2286457274,Diversified Spatial Keyword Search On Road Networks,2014,22,37,2,0.886416,2117039633,Muhammad Aamir Cheema,0,-0.13275296294680305,-0.071629888206014
+2333422415,Categorical top-k spatial influence query,2017,28,2,1,1.0,2125481875,Xuemin Lin,0,-0.2409723103525171,-0.20965948916880417
+2343086240,Inverted Linear Quadtree Efficient Top K Spatial Keyword Search,2016,22,32,1,1.0,2125481875,Xuemin Lin,0,0.6642631993651279,0.8704818474401211
+2400964554,A Unified Framework for Efficiently Processing Ranking Related Queries,2014,36,20,2,0.886416,2117039633,Muhammad Aamir Cheema,0,0.22046278482571166,0.4149466153583954
+2413139494,Efficient Identification of Local Keyword Patterns in Microblogging Platforms,2016,29,3,1,1.0,2125481875,Xuemin Lin,0,0.09869918664672195,-0.18633352365711692
+2429782655,Efficient probabilistic supergraph search,2016,1,0,3,1.0,2110680452,Ke Zhu,0,0.15011497953684425,0.13908440388466345
+2431031675,Scalable supergraph search in large graph databases,2016,32,4,2,0.0,2119358208,Jeffrey Xu Yu,0,-0.13275296294680305,-0.071629888206014
+2431911165,Influence based cost optimization on user preference,2016,29,3,1,1.0,2125481875,Xuemin Lin,0,-0.17032276200365665,0.17291711204012922
+2419865314,Efficiently computing reverse k furthest neighbors,2016,33,9,2,0.667044,2117039633,Muhammad Aamir Cheema,0,-0.1494257182065603,0.11130446437806295
+2500909930,Efficient Recovery of Missing Events,2016,44,12,1,1.0,2125481875,Xuemin Lin,0,0.18091544518554475,0.11781454200409158
+2422143336,Computing Connected Components with linear communication cost in pregel-like systems,2016,35,7,1,1.0,2125481875,Xuemin Lin,0,0.12492345808765674,0.23414093372237493
+2422455892,Understanding short texts through semantic enrichment and hashing,2016,10,0,1,1.0,2125481875,Xuemin Lin,0,-0.29104459712932956,0.5262643920331967
+2436321460,pSCAN Fast and exact structural graph clustering,2016,28,30,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2422676813,Finding the minimum spatial keyword cover,2016,25,17,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2423652555,Efficient Subgraph Matching by Postponing Cartesian Products,2016,25,41,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2548533766,Bring Order into the Samples A Novel Scalable Method for Influence Maximization,2017,29,22,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2573934712,Skyline stacking optimal solutions in exact and uncertain worlds,2012,29,1,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.04058852858681295,-0.03346779459016044
+2574388534,When engagement meets similarity efficient (kr)-core computation on social networks,2017,33,34,1,1.0,2125481875,Xuemin Lin,0,-0.5283242664532969,1.1399495462730882
+2582558662,Effective Multi-Query Expansions Collaborative Deep Networks for Robust Landmark Retrieval,2017,59,100,1,1.0,2125481875,Xuemin Lin,0,0.21843641009924494,0.2306008688862761
+2530877529,Approximate Nearest Neighbor Search on High Dimensional Data --- Experiments Analyses and Improvement (v10),2016,0,26,2,1.0,2099111646,Yifang Sun,0,-0.32551046596908134,0.7784755861588709
+2558384379,Efficient Distance-Aware Influence Maximization in Geo-Social Networks,2017,23,23,1,1.0,2125481875,Xuemin Lin,0,-0.13275296294680305,-0.071629888206014
+2583702137,Term graph model for text classification,2005,0,0,1,1.0,2125481875,Xuemin Lin,0,0.6539245815662791,0.04780545965573213
+2577167493,Scalable distributed subgraph enumeration,2016,33,27,2,1.0,2112673487,Shiyu Yang,0,0.003708468606338,0.082832279151172
+2546691052,Reverse k nearest neighbors queries and spatial reverse top-k queries,2017,43,11,3,1.0,2112673487,Shiyu Yang,0,0.21438872843298346,-0.1353423822296997
+2619410666,Leveraging set relations in exact set similarity join,2017,30,26,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2614531145,GALLOP GlobAL Feature Fused LOcation Prediction for Different Check-in Scenarios,2017,45,1,1,1.0,2125481875,Xuemin Lin,0,-0.2983293989047047,-0.1727161943749555
+2615445578,TT-Join Efficient Set Containment Join,2017,25,8,2,1.0,2112673487,Shiyu Yang,0,0.003708468606338,0.082832279151172
+2615663881,Bring Order into the Samples A Novel Scalable Method for Influence Maximization (Extended Abstract),2017,4,1,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2592340121,OLAK an efficient algorithm to prevent unraveling in social networks,2017,31,18,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2615913932,Tracking Matrix Approximation over Distributed Sliding Windows,2017,30,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2612259229,Distributed Algorithms on Exact Personalized PageRank,2017,48,12,2,0.0,2108677686,Jiaheng Lu,0,0.003708468606338,0.082832279151172
+2616769589,Scalable Top-K Structural Diversity Search,2017,4,4,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2774090050,Effective and Efficient Dynamic Graph Coloring,2017,0,9,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2775025242,Reverse k nearest neighbors query processing Experiments and analysis,2015,0,1,3,1.0,2112673487,Shiyu Yang,0,0.003708468606338,0.082832279151172
+2773259269,Efficient structural graph clustering an index-based approach,2017,35,5,1,1.0,2125481875,Xuemin Lin,0,-0.18339015168892142,1.0025598244071214
+2740173624,SPOT Selecting occuPations frOm Trajectories,2017,14,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2801864142,Maximize Spatial Influence of Facility Bundle Considering Reverse k Nearest Neighbors,2018,18,0,2,0.544156,2117039633,Muhammad Aamir Cheema,0,0.21438872843298346,-0.1353423822296997
+2781394511,An Optimal and Progressive Approach to Online Search of Top-k Influential Communities,2017,0,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2794719570,Exacting Eccentricity for Small-World Networks,2018,20,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2798620495,When Hierarchy Meets 2-Hop-Labeling Efficient Shortest Distance Queries on Road Networks,2018,35,9,1,1.0,2125481875,Xuemin Lin,0,-0.13275296294680305,-0.071629888206014
+2794775679,Efficient Computing of Radius-Bounded k-Cores,2018,31,18,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2794889595,Efficiently Reinforcing Social Networks over User Engagement and Tie Strength,2018,29,5,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2794912931,Efficient Probabilistic K-Core Computation on Uncertain Graphs,2018,0,12,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2795250672,GPH Similarity Search in Hamming Space,2018,32,9,1,1.0,2125481875,Xuemin Lin,0,-0.1984714131877254,-0.08331523624254955
+2799662216,External Topological Sorting in Large Graphs,2018,17,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2799896657,Discovering Strong Communities with User Engagement and Tie Strength,2018,21,12,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2800098042,PrivTS Differentially Private Frequent Time-Constrained Sequential Pattern Mining,2018,31,3,2,0.0,2104055677,Ye Yuan,0,-0.2946100820232934,0.21728415308651902
+2800353272,Supergraph Search in Graph Databases via Hierarchical Feature-Tree,2019,32,0,2,0.0,2119358208,Jeffrey Xu Yu,0,-0.1410283325704497,-0.2487164888596122
+2803683104,Finding maximal stable cores in social networks,2018,15,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2800857198,Efficient Mining of Frequent Patterns on Uncertain Graphs,2019,45,4,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2800982342,Efficient set containment join,2018,35,4,2,1.0,2112673487,Shiyu Yang,0,-0.09887293991100575,0.0515576332321096
+2804364120,Maintaining Boolean Top-K Spatial Temporal Results in Publish-Subscribe Systems,2018,13,0,1,1.0,2125481875,Xuemin Lin,0,-0.13275296294680305,-0.071629888206014
+2801139070,Towards Efficient Path Skyline Computation in Bicriteria Networks,2018,23,1,1,1.0,2125481875,Xuemin Lin,0,-0.09966214492722958,0.664989501137208
+2801584517,An Efficient Exact Nearest Neighbor Search by Compounded Embedding,2018,23,0,3,0.0,2066523793,Ivor W. Tsang,0,-0.1984714131877254,-0.08331523624254955
+2801852808,I/O Efficient Core Graph Decomposition Application to Degeneracy Ordering,2019,39,10,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2889320527,Real-time constrained cycle detection in large dynamic graphs,2018,26,9,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2902474507,Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks,2018,0,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2911030582,SimRank* effective and scalable pairwise similarity search based on graph topology,2019,39,2,2,0.413961,2111026807,Weiren Yu,0,-0.7256489313713007,0.4007179718916323
+2903672378,Leveraging set relations in exact and dynamic set similarity join,2019,31,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2911528866,Efficient (Î± Î²)-core Computation an Index-based Approach,2019,49,7,1,1.0,2125481875,Xuemin Lin,0,-0.13275296294680305,-0.071629888206014
+2897679181,K-core Minimization An Edge Manipulation Approach,2018,12,7,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2954023930,A Survey and Experimental Analysis of Distributed Subgraph Matching,2019,36,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2947676172,Efficient Algorithms for Densest Subgraph Discovery,2019,68,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2955638091,Critical Edge Identification A K-Truss Based Model,2019,21,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2940994954,Selectivity Estimation on Set Containment Search,2019,21,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2955810314,K-Core Maximization through Edge Additions,2019,23,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2948227434,Scaling Distance Labeling on Small-World Networks,2019,31,1,1,1.0,2125481875,Xuemin Lin,0,-0.13275296294680305,-0.071629888206014
+2963265099,Approximate Nearest Neighbor Search on High Dimensional Data --- Experiments Analyses and Improvement (v10),2019,0,6,2,1.0,2099111646,Yifang Sun,0,-0.32551046596908134,0.7784755861588709
+2950815406,Enumerating k-Vertex Connected Components in Large Graphs,2017,33,3,1,1.0,2125481875,Xuemin Lin,0,0.5168923542720434,1.1957560946173882
+2950896313,When Engagement Meets Similarity Efficient (kr)-Core Computation on Social Networks,2016,30,0,1,1.0,2125481875,Xuemin Lin,0,-0.5283242664532969,1.1399495462730882
+2952995885,I/O Efficient Core Graph Decomposition at Web Scale,2015,26,1,2,0.0,2119358208,Jeffrey Xu Yu,0,0.003708468606338,0.082832279151172
+2942445691,Towards Efficient k-TriPeak Decomposition on Large Graphs,2019,25,1,2,1.0,2112673487,Shiyu Yang,0,0.003708468606338,0.082832279151172
+2953491239,Efficient Butterfly Counting for Large Bipartite Networks,2018,64,1,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2964033812,Dynamical SimRank search on time-varying networks,2018,32,6,2,0.434028,2111026807,Weiren Yu,0,-0.7896676926951048,0.22218110722147294
+2998789694,Towards bridging theory and practice hop-constrained s-t simple path enumeration,2019,0,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2986200512,Selecting the Optimal Groups Efficiently Computing Skyline k-Cliques,2019,23,0,1,1.0,2125481875,Xuemin Lin,0,0.04058852858681295,-0.03346779459016044
+2982188423,Generalizing the Pigeonhole Principle for Similarity Search in Hamming Space,2019,0,2,1,1.0,2125481875,Xuemin Lin,0,-0.1984714131877254,-0.08331523624254955
+2999174436,Efficient Bitruss Decomposition for Large-scale Bipartite Graphs,2020,24,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2999461006,Session details Query processing of semi-structured data,2007,0,0,1,1.0,2125481875,Xuemin Lin,0,-0.5972191899865149,0.24786653910225281
+2982652740,Fully Dynamic Depth-First Search in Directed Graphs,2019,0,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2987213141,CoreCube Core Decomposition in Multilayer Graphs,2019,29,1,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2987496047,Correction A survey of community search over big graphs,2019,0,1,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2976908892,Selectivity Estimation on Set Containment Search,2019,28,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2965179470,Distributed subgraph matching on timely dataflow,2019,0,2,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2983543274,Efficient construction of safe regions for moving kNN queries over dynamic datasets,2009,0,0,2,1.0,2117039633,Muhammad Aamir Cheema,0,0.003708468606338,0.082832279151172
+2996937721,Efficient Progressive Minimum k-core Search,2019,0,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2970334593,Eccentricities on small-world networks,2019,33,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2965557726,Vertex priority based butterfly counting for large-scale bipartite networks,2019,0,8,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2970828623,Efficient Algorithms for Densest Subgraph Discovery,2019,0,3,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+2981454525,Efficient community discovery with user engagement and similarity,2019,68,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+3004062287,Hop-constrained s-t Simple Path Enumeration Towards Bridging Theory and Practice,2019,0,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+3015165309,Collective Entity Alignment via Adaptive Features,2019,30,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+3012069577,Answering billion-scale label-constrained reachability queries within microsecond,2020,0,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+3008629102,Efficient shortest path index maintenance on dynamic road networks with theoretical guarantees,2020,0,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+3009094743,Efficient ( $$alpha $$Î± $$eta $$Î² )-core computation in bipartite graphs,2020,76,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+3012937529,Efficient Maximal Balanced Clique Enumeration in Signed Networks,2020,28,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172
+3021114044,Continuous Monitoring of Distance-Based Range Queries,2011,0,0,3,0.539042,1904239323,Ljiljana Brankovic,0,-0.41610916631047495,0.6669028886866839
+3006804688,On spatial keyword covering,2020,27,0,1,1.0,2125481875,Xuemin Lin,0,0.003708468606338,0.082832279151172

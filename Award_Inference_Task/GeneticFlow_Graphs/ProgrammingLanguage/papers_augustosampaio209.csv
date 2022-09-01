@@ -1,0 +1,76 @@
+123669315,Basic Laws of ROOL an object-oriented language,2000,0,14,2,0.152905,2157872586,Paulo Borba,0,1.1115109504392142,-2.5264387937219457
+24410858,Model-Checking Circus State-Rich Specifications,2014,23,5,2,0.0,2229564282,Marcel Oliveira,0,0.5646792514450941,-0.28825343549148374
+178398187,Refinement Algebra for Formal Bytecode Generation,2002,10,3,2,0.292623,2157196446,Ana Cavalcanti,0,-0.5746379424228722,0.049741590983929794
+59680908,Algebraic Laws for Process Subtyping,2013,26,2,3,0.0,211551376,JosÃ© Dihego,0,-0.3866267068001225,0.8762532648670843
+183182932,JACK A Framework for Process Algebra Implementation in Java,2002,22,6,3,0.0,2100550059,Leonardo Freitas,0,-2.578608875263475,-0.13916512610857482
+136037141,A CSP Timed Input-Output Relation and a Strategy for Mechanised Conformance Verification,2013,18,8,2,0.667938,2098743604,Alexandre Mota,0,-0.1806164563517082,-0.18033171048170904
+68028287,Formalisation and Analysis of Objects as CSP Processes,2009,17,0,2,0.914318,2098743604,Alexandre Mota,0,0.2873746157847019,-0.24328867246619515
+277181552,A Modular Theory of Object Orientation in Higher-Order UTP,2014,16,2,4,0.0,2007787746,Frank Zeyda,0,-0.18753725128989238,0.19429937058103905
+1569097447,ParTS A Partitioning Transformation System,1999,17,16,3,1.0,2012430722,Juliano Iyoda,0,0.14081149816262403,0.25126041108205605
+1506069583,A Refinement Algebra for Object-Oriented Programming,2003,29,32,3,1.0,1989426158,MÃ¡rcio CornÃ©lio,0,0.24492091909188907,0.2587249402914706
+1490132327,Serialising Parallel Processes in a Hardware/Software Partitioning Context,2001,18,2,3,1.0,2099558284,Leila Silva,0,0.5772967647593433,0.06392956884372739
+1507381486,Specification and validation of the SACI-1 on-board computer using timed-CSP-Z and Petri nets,2003,15,4,2,1.0,2151211012,Adnan Sherif,0,0.09669087953957561,0.2579787369035019
+1499343061,Transformation Laws for Sequential Object-Oriented Programming,2004,0,4,2,0.0,2157872586,Paulo Borba,0,0.3181210560154431,0.05075052583270764
+1563518944,Object-orientation in the UTP,2006,20,27,3,0.0,2126060361,Thiago Santos,0,-0.13286828017555735,-0.28092511218354044
+1503153680,Model-checking CSP-Z,1998,15,23,2,1.0,2098743604,Alexandre Mota,0,-0.3395206704437626,-1.3545134850117542
+1521050896,A formal semantics for Sequence Diagrams and a strategy for system analysis,2014,11,2,3,1.0,2012430722,Juliano Iyoda,0,2.525998061802268,-0.4476773243977468
+1577712606,A Strategy for Compiling Classes Inheritance and Dynamic Binding,2003,17,6,2,0.0,2157196446,Ana Cavalcanti,0,-1.5048773048553636,-0.7841055774305877
+1637741363,Laws of Programming for References,2013,22,0,2,0.0,2237376846,David A. Naumann,0,-0.9275232616654889,0.009738164373990665
+1816169393,An Algebraic Approach to Combining Processes in a Hardware/Software Partitioning Environment,1999,14,4,4,1.0,2012430722,Juliano Iyoda,0,0.9707062766048208,-0.08022910185636216
+1816659336,Refinement in Circus,2002,21,46,3,0.172395,1974539656,Jim Woodcock,0,0.1019793820551607,-0.6498586905532773
+1693932017,NAT2TEST Tool From Natural Language Requirements to Test Cases Based on CSP,2015,10,15,4,0.0,2098743604,Alexandre Mota,0,2.2926367412403996,-0.6126737519240762
+1583626944,Refinement An overview,2004,0,0,3,0.0,1974539656,Jim Woodcock,0,1.1081187461191584,-0.27913347774469777
+1832041276,From MooZ to Eiffel - A Rigorous Approach to System Development,1994,13,5,2,0.0,372239413,Silvio Romero de Lemos Meira,0,1.5821445037639958,-1.9245950291429907
+1975483972,Model-checking CSP-Z strategy tool support and industrial application,2001,24,50,2,1.0,2098743604,Alexandre Mota,0,-0.19565638119418177,-0.06092235422509594
+1982930894,Type Checking Circus Specifications,2008,23,4,3,0.0,2157196446,Ana Cavalcanti,0,-0.198056929577567,0.04523331078508713
+1983068859,Mechanical Abstraction of CSPZ Processes,2002,28,8,3,1.0,2098743604,Alexandre Mota,0,0.2308585235321524,0.04547132908817628
+1987943861,NAT2TEST SCR,2014,43,17,5,0.0,2113880078,Mark Blackburn,0,-0.236061727463281,-0.011227116365244724
+2002295687,Algebraic reasoning for object-oriented programming,2004,46,73,4,1.0,1989426158,MÃ¡rcio CornÃ©lio,0,-0.3428059626796439,-0.10832350962588569
+1988423439,Test case generation from natural language requirements based on SCR specifications,2013,22,16,5,0.667938,2098743604,Alexandre Mota,0,0.28669149845979486,-0.0801354593657319
+1998976523,A process algebraic framework for specification and validation of real-time systems,2010,54,42,4,0.0,1400043716,He Jifeng,0,-0.19537854269507235,0.0154707632042657
+2014104806,Conformance notions for the coordination of interaction components,2010,45,5,3,0.81919,2098743604,Alexandre Mota,0,1.469625476280574,-0.5146263088766689
+2024820356,Refactoring by Transformation,2002,15,15,3,1.0,1989426158,MÃ¡rcio CornÃ©lio,0,-0.09572042830170541,0.3112216643922742
+2023293472,Correct hardware synthesis An algebraic approach,2011,34,1,4,0.0,1974539656,Jim Woodcock,0,-0.3877963367570151,-0.06800168513995
+2014505017,Unifying classes and processes,2005,32,38,3,0.0,1974539656,Jim Woodcock,0,-0.1164726804531344,0.019252515865476
+2013143955,A Constructive Approach to Hardware/Software Partitioning,2004,26,11,3,1.0,2099558284,Leila Silva,0,0.7247854093643211,-0.13186128401294425
+2013149850,An inconsistency in procedures parameters and substitution in the refinement calculus,1999,8,17,3,0.172395,1974539656,Jim Woodcock,0,0.27586855963668155,0.21020008972059254
+2032691771,Refactoring and representation independence for class hierarchies,2012,38,7,3,1.0,2099558284,Leila Silva,0,1.521392978631833,-0.05443530711800564
+2030934054,Viewing CSP Specifications with UML-RT Diagrams,2008,10,8,2,0.931234,2098743604,Alexandre Mota,0,1.2871988565549075,0.035285133493521345
+2040085723,Formal Specification Generation from Requirement Documents,2008,19,42,1,1.0,2259338834,Augusto Sampaio,0,0.2709402266329969,0.34549435831043085
+2053229648,Refactoring and representation independence for class hierarchies extended abstract,2010,19,2,3,1.0,2099558284,Leila Silva,0,1.1112622088013002,-0.3331284067121443
+2087475078,Refactoring Towards a Layered Architecture,2005,21,3,3,1.0,1989426158,MÃ¡rcio CornÃ©lio,0,0.22065660618829935,-0.13176701912988648
+2084918693,An algebraic approach to the design of compilers for object-oriented languages,2010,47,5,2,0.0,2157196446,Ana Cavalcanti,0,-0.9428863912676344,-0.3543402140124832
+2081465828,Refinement of Actions in Circus,2002,16,15,3,0.172395,1974539656,Jim Woodcock,0,-0.08556831102737235,0.08023596610291904
+2081720016,Test generation from state based use case models,2014,51,37,2,0.0,2098743604,Alexandre Mota,0,-0.30431894109772634,-0.09185060819217478
+2087223751,Framework composition conformance via refinement checking,2008,14,4,3,1.0,2114300769,Alexandre Mota,0,1.7338093824888208,-0.3771522096021995
+2126815079,Normal form approach to compiler design,1993,16,64,2,0.0,2052847585,C. A. R. Hoare,0,-0.6536444180030527,0.0294758440642016
+2129766335,Towards provably correct hardware/software partitioning using OCCAM,1994,7,22,2,1.0,2111581059,Edna Barros,0,1.3537699481894314,-0.2869582258183526
+2138835342,Algebraic derivation of an operational semantics,2000,0,8,2,0.0,2052847585,C. A. R. Hoare,0,-0.1164726804531344,0.019252515865476
+2134378710,Class and Capsule Refinement in UML for Real Time,2004,33,9,3,1.0,2098743604,Alexandre Mota,0,1.1824585712646059,-0.5366013843224898
+2122925478,Automated formal specification generation and refinement from requirement documents,2008,36,7,1,1.0,2259338834,Augusto Sampaio,0,-0.19693101918586164,-0.44413436921113925
+2162669339,From CSP-OZ to Java with processes,2002,18,9,2,0.292623,2157196446,Ana Cavalcanti,0,-2.8697223085963017,0.40197907283084633
+2157036634,Compositional abstraction of CSP Z processes,2008,18,6,2,0.931234,2098743604,Alexandre Mota,0,-0.11254638461460162,0.08294341202461547
+2152445319,Laws of Object-Orientation with Reference Semantics,2008,20,25,2,1.0,2099558284,Leila Silva,0,0.8240510407736482,0.07127008592795786
+2265152314,Formal Bytecode Generation for a ROOL Virtual Machine,2001,0,2,2,0.292623,2157196446,Ana Cavalcanti,0,0.2833050446473901,-0.9724632274798758
+2399720201,Test Case Generation from Natural Language Requirements Using CPN Simulation,2015,16,2,1,1.0,2259338834,Augusto Sampaio,0,0.32294072949192965,-0.40445221059255376
+2394619591,Automatic Generation of Test Cases and Test Purposes from Natural Language,2015,21,2,2,1.0,2012430722,Juliano Iyoda,0,-0.15683192684832536,0.23658386130987544
+2397632175,Verifying Transformations of Java Programs Using Alloy,2015,13,1,2,0.0,2098743604,Alexandre Mota,0,-0.3331613176579852,0.20175759682689115
+2479711560,A framework for specification and validation of real-time systems using Circus actions,2005,0,18,4,0.0,1400043716,He Jifeng,0,-0.1164726804531344,0.019252515865476
+2495420683,An algebraic approach to the design of compilers for object-oriented languages,2010,0,2,2,0.0,2157196446,Ana Cavalcanti,0,-0.2673055898781125,0.3456949357625475
+2481566017,Proofs of Lemmas and Theorems in the UTP,2006,0,0,3,0.0,1974539656,Jim Woodcock,0,1.1081187461191584,-0.27913347774469777
+2529380892,Automation of a Normal Form Reduction Strategy for Object-oriented Programming,2002,12,8,3,0.0,2127782507,Bruno G. M. de Oliveira,0,1.7459876645481456,-0.24212083295684092
+2521763339,Library Block Specifications,2006,0,0,3,0.0,1974539656,Jim Woodcock,0,1.1081187461191584,-0.27913347774469777
+2531858764,A unified language of classes and processes,2003,0,4,3,0.116428,1974539656,Jim Woodcock,0,2.2967355499013453,-0.717344536416893
+2616822806,A strategy for compiling classes inheritance and dynamic binding,2003,0,0,2,0.0,2157196446,Ana Cavalcanti,0,-1.5048773048553636,-0.7841055774305877
+2601088302,Type Checking Circus Specifications,2006,0,4,3,0.0,2157196446,Ana Cavalcanti,0,-0.16975249359703454,0.13217339902100045
+2767230972,Local Analysis of Determinism for CSP,2017,10,3,2,0.0,2157196446,Ana Cavalcanti,0,-0.38308751722279644,0.010956704875308088
+2783623010,Simulation of hybrid systems from natural-language requirements,2017,10,1,3,0.0,2127782507,Bruno G. M. de Oliveira,0,-0.8013124214114561,0.11482308617894432
+2886810897,Modelling and Verification for Swarm Robotics,2018,17,3,4,0.538076,2010875264,Alvaro Miyazawa,0,0.4502913754348216,-0.17574614172376904
+2908789458,Verified simulation for robotics,2019,40,6,5,0.538076,2010875264,Alvaro Miyazawa,0,-0.30718410335746266,0.22274222907613236
+2910316929,Test case generation selection and coverage from natural language,2019,33,5,2,0.695982,2012430722,Juliano Iyoda,0,-0.8817426926913186,0.2639771217714814
+2896734575,Formal Modelling of Environment Restrictions from Natural-Language Requirements,2018,14,1,1,1.0,2259338834,Augusto Sampaio,0,-0.47964296175927484,0.06213539597534876
+2897455996,Automatic Test Case Generation for Concurrent Features from Natural Language Descriptions,2018,14,0,1,1.0,2259338834,Augusto Sampaio,0,0.20756564394762064,-0.1315159258125118
+2897959869,Safe and Constructive Design with UML Components,2018,17,0,2,0.833333,2111067441,Lucas R. C. Lima,0,1.229242764710353,-0.26351051928531116
+2938248765,CPN simulation-based test case generation from controlled natural-language requirements,2019,0,0,1,1.0,2259338834,Augusto Sampaio,0,-0.7638488139301807,0.124477087516769
+2996512072,Automation and consistency analysis of test cases written in natural language An industrial context,2020,38,0,2,0.664683,2147761239,FlÃ¡via A. Barros,0,0.5696706328784287,-0.2196756131002986
+3025253106,A refinement checking based strategy for component-based systems evolution,2020,49,0,3,0.0,211551376,JosÃ© Dihego,0,-0.2949710031021297,-0.2767515825561593

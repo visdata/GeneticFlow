@@ -1,0 +1,79 @@
+171448486,Compositional Proofs with Symbolic Execution,2008,28,4,3,1,322662242,Florian Nafz,0,1.284019116849839,-0.7975446399685902
+36362034,Evaluation of Jif and Joana as Information Flow Analyzers in a Model-Driven Approach,2012,14,2,4,1,196527806,Kuzman Katkalov,0,0.0494976698476783,-0.08315180620137148
+158729394,The user interface of the KIV verification system a system description,2005,17,12,8,1,31376790,Frank Ortmeier,0,-0.1164726804531344,0.019252515865476
+108742494,Correctness of Efficient Real-Time Model Checking,2001,0,3,2,1,123694094,Gerhard Schellhorn,0,-0.49648184402089496,0.5025384644998218
+112807247,Program Verification Using Dynamic Logic,1987,9,4,1,1,2139633246,Wolfgang Reif,0,3.0212691180260975,-1.2506633137597138
+164815203,Formal Specification and Verification Using KIV,1994,0,0,3,1,123694094,Gerhard Schellhorn,0,0.3130641780075367,0.28820181828927205
+199125670,Proving System Correctness with KIV,1997,10,4,3,1,123694094,Gerhard Schellhorn,0,0.1014525688634528,0.5109578131149335
+101705070,On reverse-engineering the KUKA robot language,2010,8,15,4,0,2002156038,Andreas Angerer,0,0.3069941253219598,-0.4936899400287517
+962327351,Modular Refinement for Submachines of ASMs,2014,33,4,4,0,123694094,Gerhard Schellhorn,0,-0.1922471373171935,0.9361585814070512
+952263751,Model Checking of Security-Critical Applications in a Model-Driven Approach,2013,26,6,4,1,2014825659,Nina Moebius,0,-0.246778426513288,0.1892535101805657
+1513633483,Temporal logic verification of lock-freedom,2010,42,14,4,0,123694094,Gerhard Schellhorn,0,1.8152638522947484,-0.3342818986887787
+1480639996,Verifying smart card applications an ASM approach,2007,59,15,4,1,44992877,Holger Grandy,0,1.2980336594242432,-0.20984216465048422
+1524841331,Interactive Verification of Statecharts,2004,23,34,4,1,31376790,Frank Ortmeier,0,0.8135884787209714,0.26661550702707654
+1533795866,The KIV-Approach to Software Verification,1995,37,54,1,1,2139633246,Wolfgang Reif,0,2.8956790700528057,-1.036065312135332
+1526284669,Design for trust security im M-Commerce,2003,7,2,3,1,2014379138,Dominik Haneberg,0,2.077015426721346,-0.6504813822371723
+1518743220,A formal framework for compositional verification of organic computing systems,2010,35,9,3,1,322662242,Florian Nafz,0,0.6894187310321646,-0.5043168884661849
+1528438529,Structured Specifications and Interactive Proofs with KIV,1998,29,83,2,1,123694094,Gerhard Schellhorn,0,0.249433176496254,-0.12353766262705916
+1573901099,Do You Trust Your Model Checker,2000,12,5,2,1,123694094,Gerhard Schellhorn,0,0.3030058068262174,0.24181092942551027
+1556328414,Introduction to Subject Area â€œVerificationâ€,2004,32,0,3,1,31376790,Frank Ortmeier,0,0.7279921666417136,-0.13956732943932285
+1503412205,Implementing Verification Strategies in the KIV-System,1988,11,14,1,1,2139633246,Wolfgang Reif,0,1.0253391294178649,-0.5572883017333939
+1436494858,Verification of a Virtual Filesystem Switch,2013,35,17,5,0,123694094,Gerhard Schellhorn,0,-0.17689733128771168,1.0724102315360866
+1512176711,Reuse of Proofs in Software Verification,1993,8,41,2,1,2131326225,Kurt Stenzel,0,1.732618007330716,-0.8941732059767622
+1130966188,Executable Specifications of Safety-Critical Systems with S#,2015,16,3,3,1,294981289,Axel Habermaier,0,0.18442313570791571,0.02873107740577164
+1566872606,The KIV System A Tool for Formal Program Development,1993,0,4,2,1,123694094,Gerhard Schellhorn,0,0.29466894603617394,-0.1896329379727446
+1795523128,A refinement method for Java programs,2007,38,10,3,1,44992877,Holger Grandy,0,-2.6822392423674146,0.4259702776885557
+1748251377,Formal System Development with KIV,2000,16,114,4,1,123694094,Gerhard Schellhorn,0,0.11352581239693034,-0.0035795172371783546
+1876057874,Correctness of Generic Modules,1992,22,17,1,1,2139633246,Wolfgang Reif,0,1.464003788475671,-1.143315610824898
+1578304575,Program Verification by Symbolic Execution and Induction,1987,7,18,1,1,2139633246,Wolfgang Reif,0,2.081500862779252,-0.6648551609542104
+1587847854,A Dynamic Logic for Program Verification,1989,20,34,1,1,2139633246,Wolfgang Reif,0,3.0212691180260975,-1.2506633137597138
+1908441934,A Method for Secure Smartcard Applications,2002,13,12,3,1,2014379138,Dominik Haneberg,0,0.6855856862598615,-0.6312953926478181
+1607380236,An Approach to Parameterized First-Order Specifications Semantics Correctness Parameter Passing,1993,29,0,1,1,2139633246,Wolfgang Reif,0,0.06691742035118571,0.20642908416422986
+1941754455,LEX a case study in development and validation of formal specifications,1996,0,0,4,0,109988544,Jacques Loeckx,0,0.6495471510300341,0.2164573926406836
+1590951149,Verification of Java Programs with Generics,2008,25,2,3,1,44992877,Holger Grandy,0,-3.158481656257109,0.31199397322849853
+1582515573,Machine-Assisted Program Construction and Modification,1989,11,1,1,1,2139633246,Wolfgang Reif,0,1.701622555469583,-0.45206436143598155
+1582936250,Developing provable secure m-commerce applications,2006,36,9,4,1,44992877,Holger Grandy,0,0.8213841058386531,-0.1441760432156139
+1602450953,The KIV System Systematic Construction of Verified Software,1992,15,18,1,1,2139633246,Wolfgang Reif,0,0.1493547497413882,-0.28028787093492435
+1833785755,Verification of B+ trees an experiment combining shape analysis and interactive theorem proving,2011,14,1,3,0,123694094,Gerhard Schellhorn,0,-0.23828912405278135,-0.04739732281927254
+1964844425,Formal verification of QVT transformations for code generation,2015,57,6,3,1,2014825659,Nina Moebius,0,-0.287356904111814,0.10317339200895571
+1998133185,Interleaved Programs and Rely-Guarantee Reasoning with ITL,2011,18,27,4,0,123694094,Gerhard Schellhorn,0,-0.3826529803565209,0.07169601833148959
+2009570820,Verifying Concurrent Systems with Symbolic Execution,2002,30,26,3,1,123694094,Gerhard Schellhorn,0,1.4441909835880828,-0.7635602204673123
+2017315062,Formal verification of QVT transformations for code generation,2011,59,24,3,1,2014825659,Nina Moebius,0,-0.31222218707930505,0.1486900412734236
+2029665242,Flexible and continuous execution of real-time critical robotic tasks,2014,19,10,4,0,202038560,Michael Vistein,0,-0.14050777097987963,-0.30695524513738376
+2051854685,Verification of B$$^+$$ trees by integration of shape analysis and interactive theorem proving,2015,21,0,3,0,123694094,Gerhard Schellhorn,0,-0.27738516165084554,-0.1255391815133977
+2053843943,RGITL A temporal logic framework for compositional reasoning about interleaved programs,2014,56,17,5,0,123694094,Gerhard Schellhorn,0,-0.398702672209807,0.19550580706511567
+2070717690,Automated Flaw Detection in Algebraic Specifications,2010,41,6,3,0,123694094,Gerhard Schellhorn,0,-0.2590144411670575,0.18372805887567206
+2078416488,Reuse of proofs in software verification,1996,10,5,2,1,2131326225,Kurt Stenzel,0,3.1808502566822643,-1.159333456580733
+2098344853,SecureMDD A Model-Driven Development Method for Secure Smart Card Applications,2009,24,26,3,1,2014825659,Nina Moebius,0,-0.8269964598808633,-0.480038601512439
+2095692816,Model-Driven Code Generation for Secure Smart Card Applications,2009,25,11,3,1,2014825659,Nina Moebius,0,-3.0385470759978337,-0.19141236010154988
+2096047179,Verification of Large Software Systems,1992,22,16,1,1,2139633246,Wolfgang Reif,0,2.930534427078647,-1.0821900507486495
+2105023589,Object oriented verification kernels for secure Java applications,2005,16,4,3,1,44992877,Holger Grandy,0,-1.00783585740021,0.071971701205434
+2123183457,Interactive verification of concurrent systems using symbolic execution,2010,46,20,4,0,123694094,Gerhard Schellhorn,0,1.8807579467705782,-0.8153273772115364
+2108915642,Formal verification of a lock-free stack with hazard pointers,2011,20,17,3,0,123694094,Gerhard Schellhorn,0,-0.0765916672325674,-0.03444160467954987
+2109448520,A Modeling Framework for the Development of Provably Secure E-Commerce Applications,2007,18,13,4,0,123694094,Gerhard Schellhorn,0,0.7256147498069468,-0.23737962778844265
+2107518865,Correctness of full first-order specifications,1992,18,4,1,1,2139633246,Wolfgang Reif,0,0.37223132984466156,0.08444133520535474
+2137365045,VSE Controlling the Complexity in Formal Software Developments,1998,11,16,5,1,123694094,Gerhard Schellhorn,0,0.9431717824390933,-0.16811596297484796
+2143936749,An Abstract Specification Language for Static Program Analysis,2009,11,4,5,1,31376790,Frank Ortmeier,0,1.5648912792628717,-0.3752572046873152
+2159723285,Security requirements formalized with OCL in a model-driven approach,2013,19,4,4,1,2014825659,Nina Moebius,0,0.9531053341461866,-0.8017874171358442
+2172230795,Interactive correctness proofs for software modules using KIV,1995,14,21,2,1,123694094,Gerhard Schellhorn,0,0.961178092910283,0.45299555571341615
+2151321396,ASN1-light A Verified Message Encoding for Security Protocols,2007,15,4,3,1,44992877,Holger Grandy,0,0.3211982353852665,-0.0898076825565843
+2173871098,Abstracting security-critical applications for model checking in a model-driven approach,2015,15,1,4,1,196527806,Kuzman Katkalov,0,0.34437269748076005,0.22144630993530062
+2163786556,Synchronous Parallelism in the Asbru Language,2008,22,1,1,1,2139633246,Wolfgang Reif,0,-0.12006967968032153,-0.13370694001750388
+2156019927,Generating formal specifications for security-critical applications - A model-driven approach,2009,16,20,3,1,2014825659,Nina Moebius,0,-0.03509578209855713,0.043859025862129766
+2200090970,Integrating a Model-Driven Approach and Formal Verification for the Development of Secure Service Applications,2015,54,2,6,0,123694094,Gerhard Schellhorn,0,0.9027311272751539,-0.21457469394520584
+2238685231,Compositional Verification of a Lock-Free Stack with RGITL,2014,16,2,5,0,123694094,Gerhard Schellhorn,0,-0.17326173991204796,0.03172234460651876
+2231862131,Formalizing Information Flow Control in a Model-Driven Approach,2014,19,1,4,1,196527806,Kuzman Katkalov,0,0.7324424418020768,-0.17241611343612334
+2276468381,A Compositional Proof Method for Linearizability Applied to a Wait-Free Multiset,2014,23,6,3,0,123694094,Gerhard Schellhorn,0,-0.19434020136930702,-0.0952782701413126
+2346404651,Modular crash-safe refinement for ASMs with submachines,2016,43,6,4,0,123694094,Gerhard Schellhorn,0,-0.15041073308812478,1.2782505240217281
+2343490105,Declassification of Information with Complex Filter Functions,2016,0,1,4,1,196527806,Kuzman Katkalov,0,-0.1164726804531344,0.019252515865476
+2404941243,Interactive Verification of Concurrent Systems using Symbolic Execution,2008,0,10,3,0,123694094,Gerhard Schellhorn,0,0.6503886439141886,-0.4030150483942624
+2402795287,A Model-Driven Approach to Noninterference,2014,16,1,4,1,196527806,Kuzman Katkalov,0,-0.1164726804531344,0.019252515865476
+2468303267,SecureMDD Transformation of a UML application model to executable code,2012,6,0,4,1,2014825659,Nina Moebius,0,1.5279329638064443,-0.8223252745832724
+2468633176,Theorems from compiler verification a problem set for automated theorem provers,2013,0,0,2,0,123694094,Gerhard Schellhorn,0,1.3544486832818154,1.0741695998764251
+2520322236,Unified Simulation Visualization and Formal Analysis of Safety-Critical Systems with,2016,17,3,3,1,294981289,Axel Habermaier,0,1.3013325548492414,-0.2373174971906553
+2526626111,Interactive verification of UML state,2004,0,0,3,0,250619553,Andreas Thums,0,1.6890673836678223,-0.783671597531395
+2725648540,VSE Controlling the complexity in formal software developments,1999,0,8,5,1,123694094,Gerhard Schellhorn,0,0.9431717824390933,-0.16811596297484796
+2749239548,Modular Verification of Order-Preserving Write-Back Caches,2017,22,2,4,0,123694094,Gerhard Schellhorn,0,-0.15041073308812478,1.2782505240217281
+2754036803,Symbolic execution for a clash-free subset of ASMs,2017,24,1,4,0,123694094,Gerhard Schellhorn,0,0.19860386307256794,0.32678793083879043
+2792371739,The mondex challenge Machine checked proofs for an electronic purse,2006,0,12,4,1,44992877,Holger Grandy,0,-0.07123101643966678,0.1253035052917654
+2968273383,Ensemble Programming for Multipotent Systems,2019,22,0,1,1,2139633246,Wolfgang Reif,0,-0.3542458213991138,0.062790734395556

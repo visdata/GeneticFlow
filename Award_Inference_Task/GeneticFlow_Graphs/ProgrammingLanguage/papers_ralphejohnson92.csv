@@ -1,0 +1,102 @@
+75203824,Software Patterns (Introduction to the Special Section),1996,0,2,2,0.345423,2122019980,Douglas C. Schmidt,0,0.4896308132892164,-0.1340300604735376
+6806504,Is it dangerous to use version control histories to study source code evolution,2012,52,60,4,0.567027,602257659,Danny Dig,0,0.6396319185032228,-0.32954279996146385
+41699526,Designing Reusable Classes,2001,16,676,1,1.0,2159634021,Ralph E. Johnson,0,1.9983702534281953,0.10762175495011765
+93988849,A Catalog and Two Possible Classifications of Fortran Refactorings,2010,9,4,2,1.0,2141682958,Alejandra Garrido,0,0.5247282130306643,-0.1882485821125127
+145600528,Share Open Source Sources,2005,0,0,1,1.0,2159634021,Ralph E. Johnson,0,-0.1164726804531344,0.019252515865476
+61212335,Ensure Quality Assurance for Bioinformatics Applications,2005,0,0,4,0.0,367790841,Ioannis Stamelos,0,-0.1164726804531344,0.019252515865476
+165943741,Open Source vs Capitalism and Communism,2004,0,1,4,0.0,1503626630,Alex Simonelis,0,-0.1164726804531344,0.019252515865476
+200755598,Reusing Object-Oriented Designs,2007,36,14,2,0.0,2122965220,Vincent F. Russo,0,0.854971012031623,-0.7041232741401127
+203697520,Creating Tools in HotDraw by Composition,1994,0,5,2,1.0,2086719093,John Brant,0,-0.1164726804531344,0.019252515865476
+187654012,Beyond the Hype Do Patterns and Frameworks Reduce Discovery Costs (Panel),1997,0,4,3,0.0,64567716,Grady Booch,0,-0.1164726804531344,0.019252515865476
+590073850,Algebraic Semantics of the C Preprocessor and Correctness of its Refactorings,2006,17,11,3,0.0,2141313922,JosÃ© Meseguer,0,0.5335442898096284,-0.09273157779813644
+768261038,Expressing Pipeline Parallelism using TBB constructs,2010,15,1,1,1.0,2159634021,Ralph E. Johnson,0,-0.1164726804531344,0.019252515865476
+580110482,Keshmesh Bringing Advanced Static Analysis to Concurrency Bug Pattern Detectors,2013,23,1,4,1.0,1931480350,Mohsen Vakilian,0,-0.11433754804874072,-0.0029382267986600014
+1505002981,Evolving Frameworks A Pattern Language for Developing Object-Oriented Frameworks,2004,6,108,1,1.0,2159634021,Ralph E. Johnson,0,0.7536073384993424,-0.32811326198314195
+1505402327,ReLooper Refactoring for Loop Parallelism,2009,12,13,5,0.824727,602257659,Danny Dig,0,-0.03280401621550574,-0.10650327594954523
+1514474014,Implementing application frameworks object-oriented frameworks at work,1999,0,81,2,0.345423,2122019980,Douglas C. Schmidt,0,-0.6628988938259965,-0.0636515523144992
+1506052820,Wrappers to the Rescue,1998,22,55,2,1.0,2086719093,John Brant,0,0.33991624043150964,0.0640520570891127
+1507040635,The RTL System A Framework for Code Optimization,1992,15,20,1,1.0,2159634021,Ralph E. Johnson,0,-0.6617094252068484,0.7248521937693689
+1525606436,Program refactoring in the presence of preprocessor directives,2005,38,57,2,1.0,2141682958,Alejandra Garrido,0,0.2017216461533373,-0.2416293050594987
+1203976382,The CodingSpectator Data Set of Eclipse Refactoring Messages,2014,0,0,2,1.0,1931480350,Mohsen Vakilian,0,0.8968116727236316,-0.323934864224269
+1508660681,Practical analysis for refactoring,1999,37,253,1,1.0,2159634021,Ralph E. Johnson,0,0.48165920793274586,-0.353160401562429
+1527612271,A compositional paradigm of automating refactorings,2013,38,17,4,1.0,1931480350,Mohsen Vakilian,0,1.1643581783968802,-0.542256666459634
+1563923074,Using Continuous Code Change Analysis to Understand the Practice of Refactoring,2012,28,4,4,0.567027,602257659,Danny Dig,0,1.2270686906289592,-0.24585831427077143
+1565935466,Automated detection of refactorings in evolving components,2006,25,191,3,1.0,602257659,Danny Dig,0,1.131359641894998,-0.4899102604343372
+1548426638,Refactoring-aware Software Configuration Management,2006,24,8,3,1.0,602257659,Danny Dig,0,2.8020992525143957,-0.7184951545769495
+1558044546,Generating Rewritable Abstract Syntax Trees,2009,31,25,1,1.0,2159634021,Ralph E. Johnson,0,0.21108279997619234,-0.14947115934569194
+1751931495,The Adaptive Object-Model Architectural Style,2002,15,114,1,1.0,2159634021,Ralph E. Johnson,0,-0.06450276218129145,0.2710618351459757
+1582488550,Type checking and type inference for object-oriented programming languages,1989,0,34,1,1.0,2159634021,Ralph E. Johnson,0,-0.6567356159554395,-0.368213117830595
+1616782664,Patterns Generate Architectures,1994,12,228,2,0.89685,2117148682,Kent Beck,0,0.4956536597149969,-0.04342742440129418
+1948541244,Embracing the C preprocessor during refactoring,2013,16,10,2,1.0,2141682958,Alejandra Garrido,0,2.4937047543129296,-0.5563248107936185
+1983830791,Workshop on compiling and optimizing,1988,7,0,1,1.0,2159634021,Ralph E. Johnson,0,-0.1164726804531344,0.019252515865476
+1985793424,Objects and Stateful Programming - Life after Multi-Core ,2010,0,0,4,0.0,2028336405,Brian Goetz,0,1.8040759980198329,-1.8934032612340468
+1970398117,Keshmesh a tool for detecting and fixing java concurrency bug patterns,2011,3,5,4,1.0,1931480350,Mohsen Vakilian,0,0.09157304478897765,0.1321710084826834
+1979545399,Tempura temporal dimension for IDEs,2015,37,2,2,0.0,1702668839,Darko Marinov,0,-0.4209512458378128,-0.16779994392998285
+1986842567,Object-oriented megaprogramming (panel),1992,0,3,4,0.0,4823187,William L. Scherlis,0,1.7050627686260462,0.35449617879568457
+1974696168,Software development arts &amp; crafts or math &amp; science ,2004,0,1,2,0.0,2123870545,Martin Fowler,0,3.5064806533835284,-0.7857747187064398
+2001334794,JFlow practical refactorings for flow-based parallelism,2013,52,3,1,1.0,2159634021,Ralph E. Johnson,0,1.3190753318693909,-0.30854199347901046
+1997007544,Automated upgrading of component-based applications,2006,79,13,2,1.0,602257659,Danny Dig,0,1.3754445060462384,-0.40846306660113657
+1995321227,Expressing pipeline parallelism using TBB constructs a case study on what works and what doesnt,2011,18,22,1,1.0,2159634021,Ralph E. Johnson,0,-0.25799111368390537,-0.05980099555322875
+2009843371,The 2nd workshop on refactoring tools (WRT08),2008,0,1,3,1.0,602257659,Danny Dig,0,0.9599615134659836,0.038257526139678144
+2031246684,Creating abstract superclasses by refactoring,1993,20,114,1,1.0,2159634021,Ralph E. Johnson,0,0.8968116727236316,-0.323934864224269
+2029753690,Differential precondition checking A lightweight reusable analysis for refactoring tools,2011,16,21,1,1.0,2159634021,Ralph E. Johnson,0,0.705771754089744,-0.3006108488451433
+2022818703,A framework for run-time systems and its visual programming language,1996,17,13,2,1.0,2110510245,Alan Mitchell Durham,0,1.6483175478789809,0.15121311314084823
+2031652527,Type-checking Smalltalk,1986,8,52,1,1.0,2159634021,Ralph E. Johnson,0,-0.70731037367398,0.15148424041100925
+2019455698,SMutant a tool for type-sensitive mutation testing in a dynamic language,2011,7,5,2,0.0,1986514872,Milos Gligoric,0,0.3490987066061402,-0.2583091123661176
+2026674089,How to get a paper accepted at OOPSLA (panel),1993,0,6,3,0.0,64567716,Grady Booch,0,-0.1164726804531344,0.019252515865476
+2023229470,Language support for adaptive object-models using metaclasses,2005,31,9,4,0.0,497950572,Noury Bouraqadi,0,0.08412204998272821,-0.467447383890821
+2032164069,The camp smalltalk ANSI test suite (poster session),2000,0,0,1,1.0,2159634021,Ralph E. Johnson,0,-0.04936487193838651,-0.3027008053113565
+2030421869,Patterns of optimized loops,2010,3,2,2,1.0,1989894897,Samira Tasharofi,0,0.3814399061352258,-0.4590759901298827
+2016460392,TS an optimizing compiler for smalltalk,1988,8,64,2,0.0,698502883,Laurance W. Zurawski,0,-0.02138673582698769,-0.6278879815129718
+2043732148,Relooper refactoring for loop parallelism in Java,2009,1,45,5,0.824727,602257659,Danny Dig,0,0.013337575120111574,-0.08672694366159804
+2052612052,Refactoring -aware software merging and configuration management,2006,7,5,4,1.0,602257659,Danny Dig,0,1.7666313912887404,-0.5416554472680412
+2045926147,Software development is program transformation,2010,10,10,1,1.0,2159634021,Ralph E. Johnson,0,3.3628338029630513,-0.7986483409696868
+2052982904,Frameworks = (components + patterns),1997,12,390,1,1.0,2159634021,Ralph E. Johnson,0,-0.1164726804531344,0.019252515865476
+2035631247,Architecture and design of adaptive object-models,2001,20,106,1,1.0,2159634021,Ralph E. Johnson,0,0.5135962768566533,-0.18248993653530932
+2053399807,Towards a pattern language for adaptive object models,2007,14,14,1,1.0,2159634021,Ralph E. Johnson,0,1.924206429940401,-0.9775268746406727
+2041283935,Beyond the hype (panel) do patterns and frameworks reduce discovery costs ,1997,0,4,3,0.0,64567716,Grady Booch,0,1.8840904205235482,-0.35953136065695196
+2039574476,Surveying current research in object-oriented design,1990,30,264,1,1.0,2159634021,Ralph E. Johnson,0,1.0643141181231721,-0.4426334050854575
+2059217279,Designing reusable designs (panel session) experiences designing object-oriented frameworks,1990,0,6,5,0.0,237738180,Lonnie Bollette,0,0.004880576560232004,-0.20432588490386505
+2072014132,The need for richer refactoring usage data,2011,13,17,5,1.0,1931480350,Mohsen Vakilian,0,0.6701220250856013,-0.04610623586350041
+2072025944,ReBA re factoring-aware b inary a daptation of evolving libraries,2008,20,63,4,1.0,602257659,Danny Dig,0,1.2809720885269364,-0.40807100133596685
+2065046770,Design patterns beginnings and futures,2006,0,1,1,1.0,2159634021,Ralph E. Johnson,0,0.9614597872280494,-0.3275605091871242
+2061721578,A type system for Smalltalk,1989,16,65,1,1.0,2159634021,Ralph E. Johnson,0,-1.0263477291557754,-0.44908971934025277
+2065365769,Cascade a universal programmer-assisted type qualifier inference tool,2015,43,5,3,0.0,608906899,Amarin Phaosawasdi,0,0.7604394909109309,-0.3570876946829424
+2072518957,MolhadoRef a refactoring-aware infrastructure for OO programs,2006,20,3,4,1.0,602257659,Danny Dig,0,1.1348137439194452,-0.4846790961805529
+2056855811,A collection of refactoring specifications for fortran 95,2010,0,10,1,1.0,2159634021,Ralph E. Johnson,0,0.5247282130306643,-0.1882485821125127
+2074716921,Object-oriented success stories &quot;learning from our failures&quot;,2003,0,1,1,1.0,2159634021,Ralph E. Johnson,0,-0.02171184425863983,-0.2582223410241783
+2102668017,The language of languages research project unifying concepts expressed across different notations,2011,1,0,1,1.0,2159634021,Ralph E. Johnson,0,-0.6122476157406178,-0.6846188859827981
+2089632471,Drag-and-drop refactoring intuitive and efficient program transformation,2013,20,26,1,1.0,2159634021,Ralph E. Johnson,0,0.8395014508453216,-0.5177714089813371
+2094959972,Refactoring and the evolution of Fortran,2009,8,15,2,1.0,2109431236,Stas Negara,0,0.4042654091678951,-0.19492132642006205
+2081052864,Documenting frameworks using patterns,1992,10,394,1,1.0,2159634021,Ralph E. Johnson,0,-0.10331993859582274,0.027938117080398627
+2086552231,MolhadoRef a refactoring-aware software configuration management tool,2006,6,9,4,1.0,602257659,Danny Dig,0,1.681275498844763,-0.6761504650669095
+2099194364,A comparative study of manual and automated refactorings,2013,35,79,4,0.472639,602257659,Danny Dig,0,0.9514299054291555,-0.07109418197398347
+2108799440,HotDraw (abstract) a structured drawing editor framework for Smalltalk,1992,0,0,1,1.0,2159634021,Ralph E. Johnson,0,-0.46044413203516427,-0.3837625736332634
+2135496289,Regrowing a language refactoring tools allow programming languages to evolve,2009,21,15,1,1.0,2159634021,Ralph E. Johnson,0,1.8441751337858212,-0.20222288764664165
+2118473919,Why do scala developers mix the actor model with other concurrency models,2013,32,52,3,0.0,665219229,Peter Dinges,0,0.2511051740454203,-0.08442973599319985
+2130191210,The role of refactorings in API evolution,2005,23,117,2,1.0,602257659,Danny Dig,0,3.4683698657040423,-0.8773183627832654
+2118829871,Toward refactoring in a polyglot world extending automated refactoring support across Java and XML,2008,4,7,1,1.0,2159634021,Ralph E. Johnson,0,0.584923836681911,-0.16978192868193723
+2113530827,A system to implement primitive data types,1999,5,1,2,1.0,2110510245,Alan Mitchell Durham,0,-0.40099010772807153,0.08412723042133477
+2119493660,Refactoring-Aware Configuration Management for Object-Oriented Programs,2007,37,96,4,1.0,602257659,Danny Dig,0,1.0523011549500887,-1.2804403958282429
+2140859669,Detecting Data Races on Framework-Based Applications,2006,22,1,1,1.0,2159634021,Ralph E. Johnson,0,-0.08668388492001979,0.27013506715063285
+2150230300,Use disuse and misuse of automated refactorings,2012,36,94,5,1.0,1931480350,Mohsen Vakilian,0,1.5698970081430692,-0.42489908381099517
+2168234754,Inferring Method Effect Summaries for Nested Heap Regions,2009,34,31,5,0.824727,602257659,Danny Dig,0,-0.3045460695703338,-0.25588001360388213
+2150433065,Differential precondition checking a language-independent reusable analysis for refactoring engines,2016,18,3,1,1.0,2159634021,Ralph E. Johnson,0,0.1856951772067696,-0.07667372475457546
+2165448973,Analyzing multiple configurations of a C program,2005,13,55,2,1.0,2141682958,Alejandra Garrido,0,0.4658838366644193,-1.3401405456227515
+2171464342,Challenges of refactoring C programs,2002,10,50,2,1.0,2141682958,Alejandra Garrido,0,0.2892897873562119,-0.3395644543687437
+2172168118,A refactoring tool for Smalltalk,1997,10,351,2,1.0,2086719093,John Brant,0,1.4693311237238056,-0.7386111639430493
+2148305550,Refactoring C with conditional compilation,2003,8,62,2,1.0,2141682958,Alejandra Garrido,0,1.6149771265107604,-0.5144095631650105
+2148576927,Effective Software Merging in the Presence of Object-Oriented Refactorings,2008,33,54,4,1.0,602257659,Danny Dig,0,1.1862894955510463,-1.3219687699426688
+2157532442,Refactorings for Fortran and high-performance computing,2005,11,33,2,0.0,1975776000,Spiros Xanthos,0,0.5852128230053364,-0.19179936100984385
+2164660463,ReBA a tool for generating binary adapters for evolving java libraries,2008,10,8,4,1.0,602257659,Danny Dig,0,0.9023326359469529,-0.3393874226474536
+2249501979,Proceedings of the 2006 conference on Pattern languages of programs,2006,0,4,1,1.0,2159634021,Ralph E. Johnson,0,1.6013547015576677,-0.4216119339849244
+2245422816,Transactions on pattern languages of programming II special issue on applying patterns,2011,0,0,2,0.0,2103426042,James Noble,0,2.3113934539065872,-0.016976963526439657
+2241867293,Proceedings of the 20th annual ACM SIGPLAN conference on Object-oriented programming systems languages and applications,2005,0,0,4,0.0,653657707,Elisa Baniassad,0,0.3343948565276286,-0.5607268218407564
+2335968944,Software patterns,1996,42,273,2,0.345423,2122019980,Douglas C. Schmidt,0,2.338112787618158,-0.8870054901332428
+2336657379,Toward a Language-Agnostic Syntactic Representation for Preprocessed Code,2009,2,3,1,1.0,2159634021,Ralph E. Johnson,0,0.8968116727236316,-0.323934864224269
+2521171565,Architecture and design of adaptive object-models Intriguing Technology from OOPSLA by John Vlissides and Doug Lea,2001,0,10,1,1.0,2159634021,Ralph E. Johnson,0,-0.08743893343220632,0.17151246097747636
+2564091984,Composite Refactorings The Next Refactoring Rubicons,2012,0,1,2,1.0,1931480350,Mohsen Vakilian,0,0.8968116727236316,-0.323934864224269
+2588272864,Drag-and-Drop Refactoring Intuitive Program Transformation,2012,13,0,1,1.0,2159634021,Ralph E. Johnson,0,0.7527584330482073,-0.1808163559763183
+2782959840,Wrappers to the rescue,1998,0,85,2,1.0,2086719093,John Brant,0,-0.2493697375172311,-0.011970981136738734
+2892501550,Session details Onward short papers session 4 the mad tea party,2009,0,0,1,1.0,2159634021,Ralph E. Johnson,0,1.6224865809561473,-0.36486995756017243
+3011613255,Transactions on Pattern Languages of Programming II,2011,0,0,4,0.0,2039813797,Paris Avgeriou,0,-0.5284030930666672,0.054411357384340164

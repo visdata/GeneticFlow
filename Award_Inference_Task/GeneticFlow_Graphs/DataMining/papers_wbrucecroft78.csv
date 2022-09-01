@@ -1,0 +1,171 @@
+18398563,A field relevance model for structured document retrieval,2012,16,21,1,1.0,2127889770,W. Bruce Croft,0,-0.4260320394183588,0.2830213734728376
+206977409,Fast Incremental Index-ing for Full-Text IR,1994,0,1,1,1.0,2127889770,W. Bruce Croft,0,0.796835981627807,-0.4740567259277684
+192168542,Cluster-based retrieval from a language modeling perspective,2008,19,1,2,1.0,2118314850,Xiaoyong Liu,0,0.2278036707913793,-0.04929713179241798
+40385435,Ad Hoc Classification of Radiology Reports,1999,28,67,1,1.0,2127889770,W. Bruce Croft,0,0.0715471323814348,0.17616818084809713
+58112741,Indri TREC Notebook 2006 Lessons Learned From Three Terabyte Tracks,2006,9,7,2,1.0,309377350,Trevor Strohman,0,0.0597908726731833,-0.2449448024264691
+58740234,On-line new event detection clustering and tracking (information retrieval internet),1999,0,21,2,0.374648,2097030689,James Allan,0,-0.2588802117453498,0.7237330174795988
+162769501,Information Retrieval Based on Statistical Language Models,2000,24,2,1,1.0,2127889770,W. Bruce Croft,0,0.49290408728499674,-0.11591117355137961
+1569588094,Adaptive query modification in a probabilistic information retrieval model,1996,0,3,1,1.0,2127889770,W. Bruce Croft,0,-0.1029618939806145,0.040434369851773004
+1544843123,Fast Incremental Indexing for Full-Text Information Retrieval,1994,25,126,2,1.0,2017816310,James P. Callan,0,-0.1261085909839117,0.6721775832205633
+1520539535,Smoothing click counts for aggregated vertical search,2011,24,7,2,1.0,2100904463,Jangwon Seo,0,0.003708468606338,0.082832279151172
+1512789266,A Probabilistic Retrieval Model for Semistructured Data,2009,15,83,2,1.0,2101985891,Xiaobing Xue,0,-0.9902143037886322,-0.1024542943030139
+1605476942,Refining Keyword Queries for XML Retrieval by Combining Content and Structure,2009,26,23,2,1.0,1930579296,Desislava Petkova,0,-2.399568558349525,-0.2761363466063392
+1605873790,The INQUERY Retrieval System,1992,10,533,3,1.0,2017816310,James P. Callan,0,-0.2608864844848765,-0.24030059709720267
+1963496740,Using Key Concepts in a Translation Model for Retrieval,2015,13,11,1,1.0,2127889770,W. Bruce Croft,0,-0.1950305937688316,0.09242366998277694
+1687668752,Evaluating text representations for retrieval of the best group of documents,2008,21,43,2,1.0,2118314850,Xiaoyong Liu,0,0.06360700455629315,0.6303594715155891
+1772099127,The use of adaptive mechanisms for selection of search strategies in document retrival systems,1984,15,34,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+1963892029,Two-stage query segmentation for information retrieval,2009,8,44,2,1.0,2112702096,Michael Bendersky,0,-0.01657107088421793,0.035389748403282274
+1592117810,Supporting Full-Text Information Retrieval with a Persistent Object Store,1994,23,31,2,1.0,2017816310,James P. Callan,0,-0.023910479651690797,-0.1203806873741765
+1863141190,Regression Rank Learning to Meet the Opportunity of Descriptive Queries,2009,25,63,3,0.0,2097030689,James Allan,0,-0.17768346192212375,0.0848641959637884
+1981901557,An Optimization Framework for Merging Multiple Result Lists,2015,42,11,2,0.0,2114707312,Daniel Sheldon,0,0.003708468606338,0.082832279151172
+1983704604,Finding text reuse on the web,2009,29,66,2,1.0,2112702096,Michael Bendersky,0,0.019641703618683067,-2.2536468712125326
+1982078690,Finding topic words for hierarchical summarization,2001,17,155,2,0.0,2125106128,Dawn Lawrie,0,0.003708468606338,0.082832279151172
+1966607771,Sketch-based indexing of n-words,2012,14,3,3,0.277778,1944334593,J. Shane Culpepper,0,-0.13275296294680305,-0.071629888206014
+1970139893,An evaluation of query processing strategies using the TIPSTER collection,1993,14,27,2,1.0,2017816310,James P. Callan,0,-0.06536076731062024,0.41054350022421177
+1979459060,Quary Expansion Using Local and Global Document Analysis,1996,16,1236,1,1.0,2127889770,W. Bruce Croft,0,0.005528336516354167,0.07021026040991203
+1983348278,Evaluating an associative browsing model for personal information,2011,17,3,2,1.0,2054930415,Anton Bakalov,0,-0.0689381431540063,-0.20599105207645713
+1967675625,Query representation and understanding workshop,2011,0,18,3,0.0,2101425765,Gu Xu,0,0.003708468606338,0.082832279151172
+1976397873,Measuring ranked list robustness for query performance prediction,2008,30,6,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+1985180788,INQUERY and TREC-9,2000,4,91,4,0.374648,2097030689,James Allan,0,-0.08507193519749144,0.04569102127790678
+1967907280,The effect multiple query representations on information retrieval system performance,1993,11,166,3,1.0,682752941,Nicholas J. Belkin,0,-0.106451789848527,0.3347932796733473
+1994323895,Modeling subset distributions for verbose queries,2011,9,7,2,1.0,2101985891,Xiaobing Xue,0,-0.01657107088421793,0.035389748403282274
+1994401877,A framework for selective query expansion,2004,5,73,2,1.0,1327126036,Steve Cronen Townsend,0,-0.01657107088421793,0.035389748403282274
+1989568037,Combining classifiers in text categorization,1996,24,342,2,0.714286,1222741431,Leah S. Larkey,0,-0.18780225633167888,-0.3861444377258984
+2003650253,Representing clusters for retrieval,2006,6,20,2,1.0,2118314850,Xiaoyong Liu,0,0.003708468606338,0.082832279151172
+1989885825,A cluster-based resampling method for pseudo-relevance feedback,2008,32,140,3,0.0,2097030689,James Allan,0,0.24187942827870323,0.4620266857438538
+1988117172,Learning to rank query reformulations,2010,7,31,2,1.0,2112702096,Michael Bendersky,0,-0.01657107088421793,0.035389748403282274
+2005728038,Predicting document effectiveness in pseudo relevance feedback,2011,7,8,3,0.51748,1923006111,Mostafa Keikha,0,-0.11300819442795465,0.09518744858596301
+1995326326,Recommending citations for academic papers,2007,15,121,3,1.0,309377350,Trevor Strohman,0,-0.2619238829259522,0.2705786255531689
+2002306339,Improving the effectiveness of information retrieval with local context analysis,2000,45,506,1,1.0,2127889770,W. Bruce Croft,0,-0.11300819442795465,0.09518744858596301
+2004100431,Implementing ranking strategies using text signatures,1988,28,57,2,0.0,2008340589,Pasquale Savino,0,0.003708468606338,0.082832279151172
+2000752604,Unsupervised estimation of dirichlet smoothing parameters,2010,5,6,2,1.0,2100904463,Jangwon Seo,0,0.003708468606338,0.082832279151172
+1990308044,Blog site search using resource selection,2008,27,64,2,1.0,2100904463,Jangwon Seo,0,0.003708468606338,0.082832279151172
+1997294177,A deterministic resampling method using overlapping document clusters for pseudo-relevance feedback,2013,44,16,2,0.238095,2103478774,Kyung Soon Lee,0,-0.11300819442795465,0.09518744858596301
+1993924397,Quality-biased ranking of web documents,2011,36,109,2,1.0,2112702096,Michael Bendersky,0,-0.4366659643290929,0.9119841431412118
+2009716188,Relevance feedback and inference networks,1993,17,122,1,1.0,2127889770,W. Bruce Croft,0,0.506679376104544,-0.0737598827814101
+1993972354,Time-based language models,2003,9,260,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2004545875,Passage retrieval based on language models,2002,23,168,2,1.0,2118314850,Xiaoyong Liu,0,0.5321610335900852,-0.2761466454216542
+1990589796,Linear feature-based models for information retrieval,2007,35,279,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2025965489,Features of documents relevant to task- and fact- oriented questions,2002,4,17,3,1.0,682752941,Nicholas J. Belkin,0,0.003708468606338,0.082832279151172
+2015441003,Parameterized concept weighting in verbose queries,2011,38,98,2,1.0,2112702096,Michael Bendersky,0,-0.1029618939806145,0.040434369851773004
+2031612684,Transforming patents into prior-art queries,2009,5,60,1,1.0,2127889770,W. Bruce Croft,0,-0.17853221055991347,0.10434827439581064
+2022871093,A Comparison of Retrieval Models using Term Dependencies,2014,32,28,2,1.0,2093587599,Samuel Huston,0,0.21438872843298346,-0.1353423822296997
+2028521145,Precision prediction based on ranked list coherence,2006,38,27,2,1.0,1327126036,Steve Cronen Townsend,0,-0.11300819442795465,0.09518744858596301
+2019855326,Modeling reformulation using passage analysis,2010,17,9,2,1.0,2101985891,Xiaobing Xue,0,-0.01657107088421793,0.035389748403282274
+2023436293,Identifying and improving retrieval for procedural questions,2007,38,16,3,0.578027,682752941,Nicholas J. Belkin,0,-0.8081685757347028,0.8484673166280458
+2019976352,Inference Networks for Document Retrieval,1989,30,435,2,1.0,2121719377,Howard R. Turtle,0,-0.4783463726267452,0.2655395388084031
+2011233888,Unsolved problems in search (and how we approach them),2008,0,0,1,1.0,2127889770,W. Bruce Croft,0,0.8633003333222654,-1.8484207327259277
+2028838214,Representing documents with named entities for story link detection (SLD),2006,7,22,3,0.952381,2122808819,Chirag Shah,0,0.12981392026006314,-0.26602515408115723
+2027113570,Answer models for question answering passage retrieval,2004,4,14,2,0.0,606963677,Andres Corrada Emmanuel,0,-0.7002025936452952,-0.3885070512338605
+2025356973,Discovering key concepts in verbose queries,2008,31,241,2,1.0,2112702096,Michael Bendersky,0,-0.26696911874922685,0.05842691939063975
+2013236067,Temporal models for microblogs,2012,18,37,1,1.0,2127889770,W. Bruce Croft,0,0.001579393599081172,0.12767862470377855
+2029251198,Incorporating different search models into one document retrieval system,1981,16,12,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2045411013,Finding semantically similar questions based on their answers,2005,3,84,1,1.0,2127889770,W. Bruce Croft,0,0.2758077085724906,-0.1702552967873704
+2034797903,Table extraction using conditional random fields,2003,14,293,2,1.0,2104221256,Xing Wei,0,0.08655504232397777,0.08109214821775419
+2036641180,On the implementation of some models of document retrieval,1979,10,2,1,1.0,2127889770,W. Bruce Croft,0,0.16147047607636283,0.46298057734399356
+2047599666,Modeling reformulation using query distributions,2013,84,12,2,1.0,2101985891,Xiaobing Xue,0,-0.01657107088421793,0.035389748403282274
+2044434631,Similarity measures for tracking information flow,2005,19,144,3,0.0,1864902963,Yaniv Bernstein,0,-0.7700663143320864,0.2716591963769157
+2033914867,Generating reformulation trees for complex queries,2012,30,7,2,1.0,2101985891,Xiaobing Xue,0,0.23263472490258139,0.2785614165634099
+2051572310,A comparison of indexing techniques for Japanese text retrieval,1993,11,69,1,1.0,2127889770,W. Bruce Croft,0,-0.443491042938945,0.1836009397464693
+2035739021,Incorporating query-specific feedback into learning-to-rank models,2014,18,6,3,0.0,2070575593,R. Manmatha,0,0.003708468606338,0.082832279151172
+2049929449,Building a web test collection using social media,2013,10,2,1,1.0,2127889770,W. Bruce Croft,0,-0.17768346192212375,0.0848641959637884
+2042980227,LDA-based document models for ad-hoc retrieval,2006,20,834,2,1.0,2104221256,Xing Wei,0,0.08769352460039696,1.715791632024138
+2041369648,Inferring query aspects from reformulations using clustering,2011,15,29,2,1.0,2101985891,Xiaobing Xue,0,-0.01657107088421793,0.035389748403282274
+2041666597,Compact query term selection using topically related text,2013,32,39,1,1.0,2127889770,W. Bruce Croft,0,-0.01657107088421793,0.035389748403282274
+2062882646,Using Boolean Queries with a Clustered File Organization,1979,4,1,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2064890829,Finding experts in community-based question-answering services,2005,7,159,2,1.0,2118314850,Xiaoyong Liu,0,0.324188669987824,-0.4922632883935422
+2066867064,Evaluating high accuracy retrieval techniques,2004,33,68,2,0.952381,2122808819,Chirag Shah,0,0.12523005499486264,-0.07352377593257833
+2070740689,A Markov random field model for term dependencies,2005,25,717,1,1.0,2127889770,W. Bruce Croft,0,0.0597908726731833,-0.2449448024264691
+2072609512,The recap system for identifying information flow,2005,1,7,3,0.0,1864902963,Yaniv Bernstein,0,0.003708468606338,0.082832279151172
+2070874853,Task orientation in question answering,2002,5,14,2,0.740741,1858435594,Vanessa Murdock,0,-0.17768346192212375,0.0848641959637884
+2069151750,Automatic suggestion of phrasal-concept queries for literature search,2014,39,15,2,1.0,2100904463,Jangwon Seo,0,-0.01657107088421793,0.035389748403282274
+2060458867,Retrieval strategies for hypertext,1993,28,43,2,1.0,2121719377,Howard R. Turtle,0,0.5862684565910665,-0.2017397313993272
+2065938637,A model of cluster searching based on classification,1980,17,134,1,1.0,2127889770,W. Bruce Croft,0,-1.2795196934777662,1.7274247246838101
+2074700442,A survey in indexing and searching XML documents,2002,126,77,4,0.0,2033162946,Robert W. P. Luk,0,-2.6968634253154833,-0.2959690392779163
+2076489648,Efficient indexing of repeated n-grams,2011,17,23,2,1.0,2093587599,Samuel Huston,0,-0.13275296294680305,-0.071629888206014
+2099435855,Indri at TREC 2004 Terabyte Track,2004,15,62,3,1.0,309377350,Trevor Strohman,0,-1.252672621672343,-0.2123608876613554
+2092682660,Boolean Queries and Term Dependencies in Probabilistic Retrieval Models,1986,14,69,1,1.0,2127889770,W. Bruce Croft,0,1.116060298488493,-0.2793644663048043
+2090917111,Retrieving Passages and Finding Answers,2014,16,23,2,0.51748,1923006111,Mostafa Keikha,0,0.003708468606338,0.082832279151172
+2099580784,Document quality models for web ad hoc retrieval,2005,16,56,1,1.0,2127889770,W. Bruce Croft,0,0.134255773513217,0.5232355512213646
+2096932043,Automatic boolean query suggestion for professional search,2011,30,47,2,1.0,2100904463,Jangwon Seo,0,0.04321537173537807,0.3194986192971523
+2087663869,Combining the language model and inference network approaches to retrieval,2004,18,262,1,1.0,2127889770,W. Bruce Croft,0,0.2846495506900889,0.05824786423827673
+2078875869,Evaluation of an inference network-based retrieval model,1991,38,546,2,1.0,2121719377,Howard R. Turtle,0,-0.1916888409096968,-0.26501256474732954
+2102956348,A framework to predict the quality of answers with non-textual features,2006,25,289,1,1.0,2127889770,W. Bruce Croft,0,-0.1537302501171457,-0.3126122495820026
+2087818911,Query performance prediction in web search environments,2007,17,167,1,1.0,2127889770,W. Bruce Croft,0,0.15865194961052603,0.09252788701937549
+2091430204,A unified relevance model for opinion retrieval,2009,32,58,1,1.0,2127889770,W. Bruce Croft,0,0.6756376820562627,-0.03617862900222088
+2100399044,Indexing Word Sequences for Ranked Retrieval,2014,61,10,3,0.277778,1944334593,J. Shane Culpepper,0,-0.13275296294680305,-0.071629888206014
+2079168273,Predicting query performance,2002,21,584,2,1.0,1327126036,Steve Cronen Townsend,0,-0.01657107088421793,0.035389748403282274
+2086253379,Searching distributed collections with inference networks,1995,13,657,3,0.0,1967018602,Zhihong Lu,0,-0.17227309837689458,0.2419284111452292
+2081061367,Salton Award Lecture - Information retrieval and computer science an evolving relationship,2003,3,8,1,1.0,2127889770,W. Bruce Croft,0,0.538311202104975,-0.03978843891440617
+2093390569,A language modeling approach to information retrieval,1998,19,2372,1,1.0,2127889770,W. Bruce Croft,0,0.21878092163164017,-0.19893443110495898
+2079370602,Ranking robustness a novel framework to predict query performance,2006,21,110,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2089994405,Evaluating text reuse discovery on the web,2010,10,5,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2098057544,Proximity-based document representation for named entity retrieval,2007,18,117,2,1.0,1930579296,Desislava Petkova,0,-0.13610214044741792,-0.14890558715848945
+2101060855,Online community search using conversational structures,2011,30,40,2,1.0,2100904463,Jangwon Seo,0,0.003708468606338,0.082832279151172
+2081430458,A loosely-coupled integration of a text retrieval system and an object-oriented database system,1992,21,46,3,0.0,2106683718,Lisa A. Smith,0,-0.26849772348739703,-0.3609845159811891
+2101285784,Distributed expert-Based information systems an interdisciplinary approach,1987,25,43,3,0.0,51389324,Tom Bylander,0,0.2065100717332588,0.38359347804226923
+2081477775,Combining automatic and manual index representations in probabilistic retrieval,1995,0,80,2,0.0,1930333292,TB Rajashekar,0,0.3128742612452231,-0.12100339249148293
+2088733495,Diversifying query suggestions based on query documents,2014,17,18,1,1.0,2127889770,W. Bruce Croft,0,-0.01657107088421793,0.035389748403282274
+2138051266,Improving verbose queries using subset distribution,2010,31,39,3,1.0,2093587599,Samuel Huston,0,-0.01657107088421793,0.035389748403282274
+2105472772,Matching resumes and jobs based on relevance models,2007,3,55,2,0.0,2097030689,James Allan,0,0.003708468606338,0.082832279151172
+2123260549,Experiments with automatic text filing and retrieval in the office environment,1982,5,5,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2117473841,UMass at TREC 2004 Novelty and HARD,2004,35,151,5,0.0,294868147,Nasreen Abdul Jaleel,0,0.3661872583524868,-0.10429118873968678
+2123365817,Ranking using multiple document types in desktop search,2010,20,35,1,1.0,2127889770,W. Bruce Croft,0,0.8961840670633189,0.8700852807536861
+2117540369,Analysis of Statistical Question Classification for Fact-Based Questions,2005,36,109,1,1.0,2127889770,W. Bruce Croft,0,0.023234021471793802,-0.06126288389433152
+2106365165,Information filtering and information retrieval two sides of the same coin ,1992,31,1167,2,1.0,682752941,Nicholas J. Belkin,0,-0.2754192329906361,0.49142707430358595
+2139201316,Formal multiple-bernoulli models for language modeling,2004,4,47,2,1.0,2093531752,Victor Lavrenko,0,0.003708468606338,0.082832279151172
+2130395434,Cluster-based retrieval using language models,2004,26,410,2,1.0,2118314850,Xiaoyong Liu,0,-0.7510513951973614,0.8559976907006042
+2136583886,A general language model for information retrieval,1999,11,478,1,1.0,2127889770,W. Bruce Croft,0,-0.17768346192212375,0.0848641959637884
+2130618701,Two-Stage learning to rank for information retrieval,2013,29,29,2,1.0,2112702096,Michael Bendersky,0,0.003708468606338,0.082832279151172
+2124900005,Structural annotation of search queries using pseudo-relevance feedback,2010,20,23,2,1.0,2112702096,Michael Bendersky,0,-0.01657107088421793,0.035389748403282274
+2119119231,Learning concept importance using a weighted dependence model,2010,34,151,2,1.0,2112702096,Michael Bendersky,0,0.003708468606338,0.082832279151172
+2107370612,Latent concept expansion using markov random fields,2007,28,207,1,1.0,2127889770,W. Bruce Croft,0,0.06635086646790654,-0.05438071547954846
+2134349767,Task support in an office system,1984,8,1,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2110837255,A statistical view of binned retrieval models,2008,26,4,2,1.0,309377350,Trevor Strohman,0,-0.1916888409096968,-0.26501256474732954
+2108079923,Efficient document retrieval in main memory,2007,20,102,2,1.0,309377350,Trevor Strohman,0,0.36626718042266954,0.6161687709669987
+2123006679,Optimization strategies for complex queries,2005,10,95,3,1.0,309377350,Trevor Strohman,0,-0.1460206850511834,-0.08714077523284328
+2156152219,UMass at TREC 2008 Blog Distillation Task,2008,7,16,2,1.0,2100904463,Jangwon Seo,0,-0.11300819442795465,0.09518744858596301
+2147308966,Retrieval models for question and answer archives,2008,16,305,2,1.0,2101985891,Xiaobing Xue,0,0.12247153595126924,-0.15129600712473168
+2162355876,Finding similar questions in large question and answer archives,2005,23,381,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2168565435,Retrieving opinions from discussion forums,2013,18,2,2,1.0,2093587599,Samuel Huston,0,0.003708468606338,0.082832279151172
+2168588781,Effective query formulation with multiple information sources,2012,45,65,2,1.0,2112702096,Michael Bendersky,0,-0.01657107088421793,0.035389748403282274
+2147770679,Retrieval experiments using pseudo-desktop collections,2009,25,36,1,1.0,2127889770,W. Bruce Croft,0,0.2278036707913793,-0.04929713179241798
+2169114488,Evaluating search in personal social media collections,2012,19,5,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2163013692,Automatic query generation for patent search,2009,12,86,2,1.0,2101985891,Xiaobing Xue,0,0.3745741696314229,-1.1507994013452265
+2169213601,Relevance-Based Language Models,2001,24,1304,2,1.0,2093531752,Victor Lavrenko,0,-0.8576478719209671,0.2967316497206338
+2151362721,Building a semantic representation for personal information,2010,12,3,2,1.0,2054930415,Anton Bakalov,0,1.1947629813710168,-3.0353301288317986
+2166455213,Evaluating answer passages using summarization measures,2014,12,22,2,0.51748,1923006111,Mostafa Keikha,0,0.003708468606338,0.082832279151172
+2157391629,Diversity by proportionality an election-based approach to search result diversification,2012,30,121,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2148578434,Local text reuse detection,2008,19,78,2,1.0,2100904463,Jangwon Seo,0,0.3800127224570261,0.21004767587848977
+2151648149,Document representation in probabilistic models of information retrieval,1981,15,45,1,1.0,2127889770,W. Bruce Croft,0,-0.5469731215319952,0.2988768240376132
+2155157903,Geometric representations for multiple documents,2010,33,31,2,1.0,2100904463,Jangwon Seo,0,-0.3098083837688171,-0.1465484860171033
+2161744072,Online community search using thread structure,2009,13,58,2,1.0,2100904463,Jangwon Seo,0,0.003708468606338,0.082832279151172
+2462809752,Neu-IR The SIGIR 2016 Workshop on Neural Information Retrieval,2016,13,13,3,0.0,401833296,Maarten de Rijke,0,0.003708468606338,0.082832279151172
+2428526439,Modeling User Interests for Zero-Query Ranking,2016,21,8,3,0.0,2072421081,Milad Shokouhi,0,0.34338878126958167,-0.011020542923261323
+2461232175,Adaptability of Neural Networks on Varying Granularity IR Tasks,2016,14,8,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2538374209,aNMM Ranking Short Answer Texts with Attention-Based Neural Matching Model,2016,34,91,1,1.0,2127889770,W. Bruce Croft,0,0.3309355608996372,-0.5538791856279656
+2539104130,Pseudo-Relevance Feedback Based on Matrix Factorization,2016,44,25,3,0.0,273790870,Javid Dadashkarimi,0,0.322636980785767,-1.1651147909142454
+2534136119,Semantic Matching by Non-Linear Word Transportation for Information Retrieval,2016,34,35,1,1.0,2127889770,W. Bruce Croft,0,0.056137314522570925,-0.9480641909052213
+2535492826,Iterative Search using Query Aspects,2016,18,2,1,1.0,2127889770,W. Bruce Croft,0,-0.11300819442795465,0.09518744858596301
+2536015822,A Deep Relevance Matching Model for Ad-hoc Retrieval,2016,31,270,1,1.0,2127889770,W. Bruce Croft,0,0.4173732114597679,-0.41875562193750276
+2610935556,Neural Ranking Models with Weak Supervision,2017,39,126,4,0.0,1267219816,Aliaksei Severyn,0,0.34189213798870693,-0.0085938730499827
+2735716999,Search Result Diversification in Short Text Streams,2017,50,10,2,0.0,401833296,Maarten de Rijke,0,0.03911242490997297,1.3761258875692266
+2588472757,Report on the SIGIR 2016 Workshop on Neural Information Retrieval (Neu-IR),2017,9,5,3,0.0,401833296,Maarten de Rijke,0,0.003708468606338,0.082832279151172
+2756539420,Document Summarization for Answering Non-Factoid Queries,2018,54,11,2,0.0,1970689224,Falk Scholer,0,-0.34127098569213843,-0.28948749617957
+2741457294,On the Benefit of Incorporating External Features in a Neural Architecture for Answer Sentence Selection,2017,20,7,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2741924718,SIGIR 2017 Workshop on Neural Information Retrieval (Neu-IR17),2017,17,9,3,0.0,401833296,Maarten de Rijke,0,-0.16822484086209866,-0.17861808821984287
+2767724106,Joint Representation Learning for Top-N Recommendation with Heterogeneous Information Sources,2017,46,82,1,1.0,2127889770,W. Bruce Croft,0,-0.05213840118300339,0.008241807640920381
+2740070748,Learning a Hierarchical Embedding Model for Personalized Product Search,2017,31,36,1,1.0,2127889770,W. Bruce Croft,0,-0.12866835389151035,0.37957442704635336
+2805644950,Distributed Evaluations Ending Neural Point Metrics,2018,19,3,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2798862710,Cross Domain Regularization for Neural Ranking Models Using Adversarial Learning,2018,19,6,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2809897079,Neural Query Performance Prediction using Weak Supervision from Multiple Signals,2018,55,30,2,0.0561883,1944334593,J. Shane Culpepper,0,-0.3707146706369706,1.284254192186507
+2810075950,Universal Approximation Functions for Fast Learning to Rank Replacing Expensive Regression Forests with Simple Feed-Forward Networks,2018,23,5,2,0.0,2097030689,James Allan,0,0.31484412112737625,0.2579936097006229
+2796727080,Learning a Deep Listwise Context Model for Ranking Refinement,2018,39,34,1,1.0,2127889770,W. Bruce Croft,0,-0.1324825582615015,-0.2960240739777333
+2797400361,Unbiased Learning to Rank with Unbiased Propensity Estimation,2018,41,33,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2916723970,Indri at TREC 2005 Terabyte Track,2005,16,45,2,1.0,309377350,Trevor Strohman,0,-0.480456776713324,0.030012782559740603
+2907710302,Learning to Selectively Transfer Reinforced Transfer Learning for Deep Text Matching,2019,44,8,1,1.0,2127889770,W. Bruce Croft,0,-0.35404532899203023,0.13912978373506593
+2897754576,From Neural Re-Ranking to Neural Ranking Learning a Sparse Representation for Inverted Indexing,2018,61,29,4,0.0,38845618,Erik Learned Miller,0,0.4327894632385892,-0.16612030599328112
+2952146642,Neural Ranking Models with Weak Supervision,2017,29,3,4,0.0,1267219816,Aliaksei Severyn,0,0.34189213798870693,-0.0085938730499827
+2950193743,aNMM Ranking Short Answer Texts with Attention-Based Neural Matching Model,2018,34,2,1,1.0,2127889770,W. Bruce Croft,0,0.3309355608996372,-0.5538791856279656
+2962728181,Joint Modeling and Optimization of Search and Recommendation,2018,0,1,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2962992635,Cross Domain Regularization for Neural Ranking Models using Adversarial Learning,2018,19,5,1,1.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172

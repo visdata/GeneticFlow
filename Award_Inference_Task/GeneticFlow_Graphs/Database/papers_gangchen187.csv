@@ -1,0 +1,75 @@
+131606651,B s -tree a self-tuning index of moving objects,2010,15,3,3,0.0,2107978306,Nan Chen,0,-0.0041099411153885,0.0447066884760059
+277335433,An Efficient Graph Processing System,2014,20,2,1,1.0,2125776506,Gang Chen,0,-0.46893397788284524,0.07728939382804885
+1487707167,A latent image semantic indexing scheme for image retrieval on the web,2006,16,3,2,1.0,2118321968,Lidan Shou,0,-0.0041099411153885,0.0447066884760059
+1498439332,Providing Scalable Database Services on the Cloud,2010,31,23,6,0.0,2037466936,Beng Chin Ooi,0,0.6391139774273904,1.0838493661920456
+1503616134,An image-semantic ontological framework for large image databases,2007,5,1,2,1.0,2118321968,Lidan Shou,0,0.2353888729857487,0.3298835230747928
+1575962618,MIME a dynamic index scheme for multi-dimensional query in mobile p2p networks,2007,14,0,2,1.0,2118321968,Lidan Shou,0,0.3290053656401121,-0.0917856356556586
+1905984433,DGCC A New Dependency Graph based Concurrency Control Protocol for Multicore Database Systems,2015,29,6,2,0.0,2037466936,Beng Chin Ooi,0,1.5656442805536568,2.1358252893197602
+1597017619,epiC an extensible and scalable system for processing big data,2014,36,51,4,0.0,2037466936,Beng Chin Ooi,0,0.278290843468795,0.4102321833471188
+1579583242,Aggregate farthest-neighbor queries over spatial data,2011,17,9,2,0.888889,2118321968,Lidan Shou,0,-0.0041099411153885,0.0447066884760059
+1597855804,Mining infrequently-accessed file correlations in distributed file system,2007,20,4,1,1.0,2125776506,Gang Chen,0,-0.7584938074738301,2.2386600021176144
+1598195681,â€œAnti-Cachingâ€-based elastic memory management for Big Data,2015,44,10,2,0.0,2037466936,Beng Chin Ooi,0,-0.0041099411153885,0.0447066884760059
+1582768397,PABIRS A data access middleware for distributed file systems,2015,30,2,5,0.0,121171588,Anthony K. H. Tung,0,-0.31699249147846226,0.5693407176949695
+1602818998,Update migration an efficient B+ tree for flash storage,2010,21,0,2,1.0,2118321968,Lidan Shou,0,1.0675663161179785,1.1460251962928438
+1992936368,BestPeer++ A Peer-to-Peer Based Large-Scale Data Processing Platform,2012,17,7,4,1.0,2097686777,Hoang Tam Vo,0,0.20402976741762335,-0.17693360601910715
+2007563198,Supporting multi-dimensional queries in mobile P2P network,2011,23,9,2,0.888889,2118321968,Lidan Shou,0,0.19828678730846774,-0.2335150136240375
+2033142863,A cross-service travel engine for trip planning,2011,4,6,4,0.0,121171588,Anthony K. H. Tung,0,0.2807600744873719,-0.0746967125258062
+2035300369,Efficient $$k$$k-closest pair queries in general metric spaces,2015,55,10,1,1.0,2125776506,Gang Chen,0,-0.0041099411153885,0.0447066884760059
+2034094825,R-Store A scalable distributed system for supporting real-time analytics,2014,24,13,3,0.0,360895095,M. Tamer Ã–zsu,0,0.4495341178427626,0.7923838705959533
+2039418632,DXEC integrating database XML and email for collaboration,2005,12,2,1,1.0,2125776506,Gang Chen,0,2.4957684203638073,-1.008059658893604
+2085999189,An online cost sensitive decision-making method in crowdsourcing systems,2013,18,35,3,0.0,2037466936,Beng Chin Ooi,0,-0.0041099411153885,0.0447066884760059
+2104377109,MSFSS A Storage System for Mass Small Files,2007,11,10,1,1.0,2125776506,Gang Chen,0,-0.43911643972861464,1.6992257336627292
+2108484928,HashFile An efficient index structure for multimedia data,2011,30,21,2,0.0,121171588,Anthony K. H. Tung,0,-0.0041099411153885,0.0447066884760059
+2135387963,Modeling Image Data for Effective Indexing and Retrieval in Large General Image Databases,2008,29,6,2,1.0,2118321968,Lidan Shou,0,0.03565810966282755,0.09825506972366725
+2112201839,OBSI Object Based Storage System for Massive Image Databases,2007,14,4,1,1.0,2125776506,Gang Chen,0,-0.34857978327751216,-0.2513987233039086
+2113102503,OTJFast Processing Ordered XML Twig Join Fast,2008,13,3,2,1.0,2118321968,Lidan Shou,0,2.1990245423949224,-0.8646788498473067
+2119023590,HISA a query system bridging the semantic gap for large image databases,2006,14,0,2,1.0,2118321968,Lidan Shou,0,-0.46893397788284524,0.07728939382804885
+2137092658,Indexing Metric Uncertain Data for Range Queries,2015,49,5,1,1.0,2125776506,Gang Chen,0,0.3820908385543769,0.2117467783858426
+2110982385,Adaptive Logging for Distributed In-memory Databases,2015,31,5,3,0.0,2037466936,Beng Chin Ooi,0,1.3135581258583193,1.0476777346387598
+2137829175,MPX a multiversion concurrency control protocol for XML documents,2005,22,2,1,1.0,2125776506,Gang Chen,0,2.0911703343418853,-0.8288726780506216
+2171823993,LogBase a scalable log-structured database system in the cloud,2012,35,67,3,0.0,2037466936,Beng Chin Ooi,0,0.0846928785031336,-0.3446020464984712
+2172013876,On efficient reverse k -skyband query processing,2012,25,11,1,1.0,2125776506,Gang Chen,0,0.2657856797705482,0.14689219539098033
+2187025990,ScalaGiST scalable generalized search trees for mapreduce systems [innovative systems paper],2014,27,26,4,0.0,2037466936,Beng Chin Ooi,0,-0.07952439766659897,-0.19015965722857545
+2163240626,I2RS a distributed geo-textual image retrieval and recommendation system,2015,7,6,1,1.0,2125776506,Gang Chen,0,-0.0041099411153885,0.0447066884760059
+2163301614,Towards efficient concurrent scans on flash disks,2010,11,0,2,1.0,2118321968,Lidan Shou,0,-0.0041099411153885,0.0447066884760059
+2148682905,Efficient Processing of Warping Time Series Join of Motion Capture Data,2009,26,13,2,0.0,2037466936,Beng Chin Ooi,0,-0.0041099411153885,0.0447066884760059
+2166741129,Efficient metric indexing for similarity search,2015,41,27,1,1.0,2125776506,Gang Chen,0,0.05174956172296045,0.19716419967646082
+2160911256,Collaborative Agents Supported Automatic Physical Database Design Based on Description Logics Reasoning,2006,4,3,1,1.0,2125776506,Gang Chen,0,2.4704581037287547,0.5990254330201472
+2231162939,Cohort query processing,2016,14,9,5,0.0,121171588,Anthony K. H. Tung,0,0.38632121652839624,0.058193535481373765
+2255198270,Answering why-not questions on reverse top- k queries,2015,38,29,1,1.0,2125776506,Gang Chen,0,0.28789009827090595,0.22726245872767784
+2207770721,Efficient in-memory data management an analysis,2014,2,12,3,0.0,2037466936,Beng Chin Ooi,0,0.18601297105691045,-0.0008472885667257998
+2298223848,YZStack provisioning customizable solution for big data,2014,15,0,3,1.0,2117443739,Sai Wu,0,-0.0566863031531751,0.19164798020891163
+2398797015,BROAD Diversified Keyword Search in Databases,2011,26,10,2,0.0,121171588,Anthony K. H. Tung,0,-0.331157261929354,-0.16512333473426355
+2440188818,Top-k dominating queries on incomplete data,2016,5,2,1,1.0,2125776506,Gang Chen,0,-0.0041099411153885,0.0447066884760059
+2426860188,Answering why-not questions on metric probabilistic range queries,2016,39,8,1,1.0,2125776506,Gang Chen,0,0.2602363063493063,0.3281623249764951
+2427525016,Towards a Non-2PC Transaction Management in Distributed Database Systems,2016,34,16,2,0.0,2037466936,Beng Chin Ooi,0,2.866265358042471,2.7566127465700943
+2431277952,Adaptive Logging Optimizing Logging and Recovery Costs in Distributed In-memory Databases,2016,39,14,3,0.0,2037466936,Beng Chin Ooi,0,1.8969843398737738,1.791157822638682
+2422675628,Personal recommendation using deep recurrent neural networks in NetEase,2016,29,52,2,0.974647,2117443739,Sai Wu,0,-0.4197151661071337,-0.42589767901227754
+2548880569,S i 2 p a restaurant recommendation system using preference queries over incomplete information,2016,7,4,1,1.0,2125776506,Gang Chen,0,0.3568492443419367,0.0014298288662583276
+2525739395,Database Meets Deep Learning Challenges and Opportunities,2016,73,39,3,0.0,360112113,Hosagrahar V. Jagadish,0,-0.0041099411153885,0.0447066884760059
+2514063571,Answering why-not and why questions on reverse top-k queries,2016,49,4,1,1.0,2125776506,Gang Chen,0,0.43739842239757626,0.009947045888208002
+2619058717,Indexing metric uncertain data for range queries and range joins,2017,48,9,1,1.0,2125776506,Gang Chen,0,0.44327058906629535,0.07646448108135563
+2614870530,Finding Causality and Responsibility for Probabilistic Reverse Skyline Query Non-Answers,2017,5,0,1,1.0,2125776506,Gang Chen,0,0.25245882146783893,0.09919480006319664
+2615537163,IS2R A System for Refining Reverse Top-k Queries,2017,3,0,1,1.0,2125776506,Gang Chen,0,-0.0041099411153885,0.0447066884760059
+2615650274,Reverse Top-k Geo-Social Keyword Queries in Road Networks,2017,34,8,1,1.0,2125776506,Gang Chen,0,0.0908845357243609,0.31128747720343375
+2604122668,BLOCKBENCH A Framework for Analyzing Private Blockchains,2017,35,211,3,0.0,2037466936,Beng Chin Ooi,0,-0.20133665475165913,-0.19110780330684465
+2595853853,On efficiently finding reverse k-nearest neighbors over uncertain graphs,2017,57,7,1,1.0,2125776506,Gang Chen,0,0.09560153568394734,0.34384522677555335
+2593026014,UStore A Distributed Storage With Rich Semantics,2017,40,8,2,0.0,2037466936,Beng Chin Ooi,0,0.3735392184305946,0.22976982444436958
+2751926289,FlashView an interactive visual explorer for raw data,2017,9,2,3,0.927662,2117443739,Sai Wu,0,0.1863790246160527,0.40407241787850556
+2764657971,yzBigData Provisioning Customizable Solution for Big Data,2014,0,0,3,1.0,2117443739,Sai Wu,0,0.06635930819191084,0.49152641060504293
+2748345908,Untangling Blockchain A Data Processing View of Blockchain Systems,2017,0,11,3,0.0,2037466936,Beng Chin Ooi,0,-0.20133665475165913,-0.19110780330684465
+2805703596,TRIPS a system for translating raw indoor positioning data into visual mobility semantics,2018,12,2,1,1.0,2125776506,Gang Chen,0,-0.0041099411153885,0.0447066884760059
+2794987887,On the Design of Adaptive and Speculative Concurrency Control in Distributed Databases,2018,15,0,1,1.0,2125776506,Gang Chen,0,1.378903662573697,1.400465213754067
+2787056232,ForkBase An Efficient Storage Engine for Blockchain and Forkable Applications,2018,30,9,3,0.0,2037466936,Beng Chin Ooi,0,0.13936729301256376,0.36870134691331863
+2854401926,Textile pattern aided design method based on Internet explorer,2012,2,4,1,1.0,2125776506,Gang Chen,0,-0.0041099411153885,0.0447066884760059
+2889230848,Efficient distributed memory management with RDMA and caching,2018,44,12,2,0.0,2037466936,Beng Chin Ooi,0,-0.0041099411153885,0.0447066884760059
+2954124074,Fine-Grained Secure and Efficient Data Provenance for Blockchain,2019,0,0,2,0.0,2037466936,Beng Chin Ooi,0,-0.0041099411153885,0.0447066884760059
+2955344300,Fine-grained secure and efficient data provenance on blockchain systems,2019,29,8,3,0.0,2037466936,Beng Chin Ooi,0,0.8339092559953825,0.20380612765976788
+2952825891,Cohort Query Processing,2016,15,1,5,0.0,121171588,Anthony K. H. Tung,0,0.38632121652839624,0.058193535481373765
+2952888913,BLOCKBENCH A Framework for Analyzing Private Blockchains,2017,19,6,3,0.0,2037466936,Beng Chin Ooi,0,-0.20133665475165913,-0.19110780330684465
+2952967799,LogBase A Scalable Log-structured Database System in the Cloud,2012,28,4,3,0.0,2037466936,Beng Chin Ooi,0,0.0846928785031336,-0.3446020464984712
+2964058534,Forkbase an efficient storage engine for blockchain and forkable applications,2018,49,16,3,0.0,2037466936,Beng Chin Ooi,0,-0.0876754072174398,0.17267855473981655
+2997158540,5G Agent for Further Digital Disruptive Transformations,2019,0,0,2,0.0,2037466936,Beng Chin Ooi,0,-0.0041099411153885,0.0447066884760059
+2971106790,S3 a scalable in-memory skip-list index for key-value store,2019,0,0,2,0.774159,2117443739,Sai Wu,0,-0.0689818037648272,-0.6331539631805215
+2978128960,Blockchains and Distributed Databases a Twin Study,2019,43,2,3,0.0,2037466936,Beng Chin Ooi,0,0.0835119396817451,0.051530138659233005
+3016739296,ForkBase Immutable Tamper-evident Storage Substrate for Branchable Applications,2020,9,0,3,0.0,2037466936,Beng Chin Ooi,0,0.1997367996303831,0.34130116434024826

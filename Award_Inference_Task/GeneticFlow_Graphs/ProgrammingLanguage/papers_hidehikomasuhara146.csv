@@ -1,0 +1,87 @@
+71313168,Run-Time Program Specialization in Java Bytecodeâˆ—,1999,17,0,2,0.0,660900409,Akinori Yonezawa,0,-1.7797105864864713,-0.09323150589850851
+37686415,A Unit Testing Framework for Aspects without Weaving,2005,3,16,2,1.0,2002681884,Seiichi Komiya,0,0.7951646956612523,-0.5306526333217395
+175922506,Event-specific software composition in context-oriented programming,2010,39,53,2,0.833333,135591984,Malte Appeltauer,0,1.3157200296693012,-0.6186214342373964
+75887546,An AOP Implementation Framework for Extending Join Point Models,2004,3,11,1,1.0,2087436944,Hidehiko Masuhara,0,1.1287762257060254,-1.1651864200836186
+196402835,Architecture Design and Compilation Techniques Using Partial Evaluation in Reflective Concurrent Object-Oriented Languages,1999,0,2,1,1.0,2087436944,Hidehiko Masuhara,0,-0.14646273807183205,-0.30152773676327965
+10172778,Run-time bytecode specialization A portable approach to generating optimized specialized code,2001,20,17,2,0.0,660900409,Akinori Yonezawa,0,-0.26141446972800797,-0.1886006483222764
+62011971,Implementing Parallel Language Constructs Using a Re ective Object-Oriented Language,1998,10,11,2,0.0,660900409,Akinori Yonezawa,0,0.8755317954658731,-0.6900357227324442
+83592501,DynJava Type Safe Dynamic Code Generation in Java,2001,8,33,2,0.0,660900409,Akinori Yonezawa,0,-0.8636662200592731,-0.38025137156305294
+186530097,Reflection in concurrent object-oriented languages,2001,24,0,2,0.0,660900409,Akinori Yonezawa,0,0.004880576560232004,-0.20432588490386505
+1564121721,Dataflow Pointcut in Aspect-Oriented Programming,2003,25,103,1,1.0,2087436944,Hidehiko Masuhara,0,1.074252035500638,0.3159121324939043
+1565164326,A fine-grained join point model for more reusable aspects,2006,17,5,2,0.0,660900409,Akinori Yonezawa,0,1.56941563746575,0.20074012319022197
+1512575203,A Simple Extension of Java Language for Controllable Transparent Migration and Its Portable Implementation,1999,9,68,2,0.0,660900409,Akinori Yonezawa,0,-2.8309195801409794,0.36533611737635646
+1513136098,Modeling Crosscutting in Aspect-Oriented Mechanisms,2003,32,179,2,0.0,562619066,Gregor Kiczales,0,0.7300627372385607,-0.2704730431660645
+1596463817,Run-Time Bytecode Specialization,2001,27,9,2,0.0,660900409,Akinori Yonezawa,0,0.16919215019501943,-0.7082329589783599
+1645787665,Proceedings of the International Workshop on Context-Oriented Programming,2012,0,0,2,0.833333,135591984,Malte Appeltauer,0,0.9484042059706026,-0.24444811346872716
+1985484436,Context holders realizing multiple layer activation mechanisms in a single context-oriented language,2014,11,2,2,1.0,665847483,Tomoyuki Aotani,0,0.971032754209762,-0.1316249653806397
+1985637830,ContextFJ a minimal core calculus for context-oriented programming,2011,14,35,1,1.0,2087436944,Hidehiko Masuhara,0,1.750466904844375,0.7026138128900392
+1977379208,L context-oriented programming with only layers,2013,16,7,1,1.0,2087436944,Hidehiko Masuhara,0,1.0419369397230551,-0.7702531409475665
+1983173751,Type relaxed weaving,2010,20,2,1,1.0,2087436944,Hidehiko Masuhara,0,0.7662011990837796,0.2112843902839377
+2004409251,Type-Safe Layer-Introduced Base Functions with Imperative Layer Activation,2015,21,2,2,1.0,2038954318,Tetsuo Kamina,0,1.4085192384012897,-0.6220916189090954
+2007888916,Making live programming practical by bridging the gap between trial-and-error development and unit testing,2015,1,4,2,1.0,665847483,Tomoyuki Aotani,0,0.4089815828904202,-0.11421563385713507
+1999386261,Compiling away the meta-level in object-oriented concurrent reflective languages using partial evaluation,1995,19,36,2,0.0,660900409,Akinori Yonezawa,0,-0.3373551665215657,-0.21630024364994968
+2014880130,Pyrlang a high performance Erlang virtual machine based on RPython,2015,8,0,2,1.0,665847483,Tomoyuki Aotani,0,-0.5691141862777026,0.783514063750588
+2032835129,Introducing Composite Layers in EventCJ,2013,17,11,3,1.0,665847483,Tomoyuki Aotani,0,0.971032754209762,-0.1316249653806397
+2057771145,A parameterized interpreter for modeling different AOP mechanisms,2005,24,11,1,1.0,2087436944,Hidehiko Masuhara,0,0.8044342040541445,0.32874041557801015
+2066641300,Shiranui a live programming with support for unit testing,2015,2,1,2,1.0,665847483,Tomoyuki Aotani,0,0.2101603452884732,-0.06994579051043436
+2060640309,EventCJ a context-oriented programming language with declarative event-based context transition,2011,31,88,3,1.0,665847483,Tomoyuki Aotani,0,-0.10987764674283779,-0.10711265682994703
+2064450844,Towards a type system for detecting never-matching pointcut compositions,2007,20,3,1,1.0,2087436944,Hidehiko Masuhara,0,2.0972079237166232,0.5966223894229087
+2103680982,A core calculus of composite layers,2013,16,7,3,1.0,665847483,Tomoyuki Aotani,0,0.6739777382261409,-0.0488262498758
+2089889705,ContextJ Context-oriented Programming with Java,2011,24,75,2,0.833333,135591984,Malte Appeltauer,0,0.4511374214221299,0.263806270071141
+2084862657,Partial evaluation of call-by-value Î»-calculus with side-effects,1997,18,10,2,0.0,660900409,Akinori Yonezawa,0,-0.5831459520782825,-0.5637994222854078
+2090124836,Designing event-based context transition in context-oriented programming,2010,17,8,3,1.0,665847483,Tomoyuki Aotani,0,1.7108532820719395,0.2346476812403091
+2104414437,A Value Profiler for Assisting Object-Oriented Program Specialization,2004,19,3,1,1.0,2087436944,Hidehiko Masuhara,0,-0.8009087285652354,-0.2641129898184183
+2101501696,Test-based pointcuts a robust pointcut mechanism based on unit test cases for software evolution,2007,8,10,1,1.0,2087436944,Hidehiko Masuhara,0,2.5271967635507027,-0.1486584655723063
+2090397244,Proceedings of the 12th annual international conference on Aspect-oriented software development,2013,0,0,2,0.0,2052504364,JÃ¶rg Kienzle,0,1.9403339124030163,-0.8377284142215808
+2105090473,Design and Partial Evaluation of Meta-Objects for a Concurrent Reflective Language,1998,26,34,2,0.0,660900409,Akinori Yonezawa,0,-0.07634891811095759,-0.20947495614081077
+2092467204,Object-oriented concurrent reflective languages can be implemented efficiently,1992,17,55,2,0.0,660900409,Akinori Yonezawa,0,0.004880576560232004,-0.20432588490386505
+2135181107,The omission finder for debugging what-should-have-happened bugs in object-oriented programs,2015,19,1,1,1.0,2087436944,Hidehiko Masuhara,0,0.004880576560232004,-0.20432588490386505
+2135522367,A compilation and optimization model for aspect-oriented programs,2003,20,167,3,0.0,562619066,Gregor Kiczales,0,-0.34794355334282123,-0.6404066709660591
+2115385239,Combining static analysis and runtime checking in security aspects for distributed tuple spaces,2011,38,8,3,1.0,665847483,Tomoyuki Aotani,0,-0.22527602673938424,0.0764937235187315
+2124489158,Featherweight EventCJ a core calculus for a context-oriented language with event-based per-instance layer transition,2011,14,23,3,1.0,665847483,Tomoyuki Aotani,0,0.971032754209762,-0.1316249653806397
+2127610832,SCoPE an AspectJ compiler for supporting user-defined analysis-based pointcuts,2007,34,32,1,1.0,2087436944,Hidehiko Masuhara,0,0.9393721890334072,0.48832836912110755
+2137492082,Design and implementation of an aspect instantiation mechanism,2006,29,9,2,1.0,2002681884,Seiichi Komiya,0,1.64291157295653,0.16438072351419716
+2159410989,Aspectual Caml an aspect-oriented functional language,2005,30,59,2,0.0,660900409,Akinori Yonezawa,0,0.4144928466583746,0.05820380337682503
+2159585277,Supporting objects in run-time bytecode specialization,2002,22,19,4,0.0,319986475,Eijiro Sumii,0,-1.674991995846644,-0.06581758144098285
+2172169742,Improving the development of context-dependent Java applications with ContextJ,2009,13,29,2,0.833333,135591984,Malte Appeltauer,0,1.1863512570054924,-0.6274083707793818
+2151658523,Dynamic compilation of a reflective language using run-time specialization,2000,18,1,2,0.0,660900409,Akinori Yonezawa,0,0.3836549100756508,-0.16068219818362153
+2154677029,Compilation Semantics of Aspect-Oriented Programs,2002,19,61,3,0.0,562619066,Gregor Kiczales,0,0.37222093781490845,-0.06893694665439844
+2151767200,A data-parallel extension to Ruby for GPGPU toward a framework for implementing domain-specific optimizations,2012,4,3,1,1.0,2087436944,Hidehiko Masuhara,0,-0.5249486632983139,-0.005955852318061006
+2167056990,A portable-approach to dynamic optimization in run-time specialization,2002,31,10,2,0.0,660900409,Akinori Yonezawa,0,-1.0612576382928258,0.5776428350839343
+2152688475,Test-based pointcuts for robust and fine-grained join point specification,2008,28,13,1,1.0,2087436944,Hidehiko Masuhara,0,1.758478094870656,-0.3244849134997715
+2167930513,Supporting covariant return types and generics in type relaxed weaving,2011,9,0,2,1.0,665847483,Tomoyuki Aotani,0,0.17091891432663803,0.01546985241710225
+2248037472,Detecting Broken Pointcuts Using Structural Commonality and Degree of Interest (N),2015,25,3,2,0.790923,2061279876,Raffi Khatchadourian,0,2.1801502515430324,-0.16825927092247797
+2297152724,Matriona class nesting with parameterization in Squeak/Smalltalk,2016,39,4,1,1.0,2087436944,Hidehiko Masuhara,0,0.09504364287816754,-0.24902823676158267
+2293227920,Association aspects,2004,15,73,2,1.0,2002681884,Seiichi Komiya,0,2.0764172606508637,0.39584232727500535
+2295448643,Proof of Soundness of Concurrent Separation Logic for GPGPU in Coq,2016,8,2,2,1.0,665847483,Tomoyuki Aotani,0,-0.2764998931509366,0.065369377178206
+2301974412,Hierarchical layer-based class extensions in Squeak/Smalltalk,2016,12,1,1,1.0,2087436944,Hidehiko Masuhara,0,0.720728519812522,0.03239789023710836
+2311319291,Towards improving interface modularity in legacy Java software through automated refactoring,2016,20,2,2,0.790923,2061279876,Raffi Khatchadourian,0,-1.8667386762578855,0.25033324734244566
+2321916880,An advice mechanism for non-local flow control,2016,17,0,2,1.0,665847483,Tomoyuki Aotani,0,0.45174051207432714,0.5717319284943617
+2510882782,A Fine-Grained Join Point Model for More Reusable Aspects,2006,0,26,2,0.0,660900409,Akinori Yonezawa,0,1.56941563746575,0.20074012319022197
+2557875723,StrongRelaxAJ integrating adaptability of RelaxAJ and expressiveness of StrongAspectJ,2010,6,1,2,1.0,665847483,Tomoyuki Aotani,0,1.0422437904312531,0.12993395728961676
+2527095743,Generalized Layer Activation Mechanism for Context-Oriented Programming,2016,32,8,2,0.884736,2038954318,Tetsuo Kamina,0,-0.008205651033660657,-0.17156651523010077
+2552500889,in Aspect-Oriented Programming,2003,19,1,1,1.0,2087436944,Hidehiko Masuhara,0,1.074252035500638,0.3159121324939043
+2571270951,EventCJ A Context-Oriented Language with Declarative Per-object Layer Transitions,2013,0,0,2,1.0,2038954318,Tetsuo Kamina,0,-0.1164726804531344,0.019252515865476
+2613571514,Automated refactoring of legacy Java software to default methods,2017,31,9,2,0.709987,2061279876,Raffi Khatchadourian,0,-0.2456939439613146,-0.271173591630989
+2624298171,Modular array-based GPU computing in a dynamically-typed language,2017,18,1,1,1.0,2087436944,Hidehiko Masuhara,0,0.10546327861451525,-0.13346495399945563
+2730389194,dart2java Running Dart in Java-based Environments,2017,10,0,1,1.0,2087436944,Hidehiko Masuhara,0,-1.17962655119802,-0.11574082141574972
+2596981520,A Layer-based Approach to Hierarchical Dynamically-scoped Open Classes,2017,25,0,1,1.0,2087436944,Hidehiko Masuhara,0,0.971032754209762,-0.1316249653806397
+2724950771,Detecting broken pointcuts using structural commonality and degree of interest,2017,47,0,2,0.709987,2061279876,Raffi Khatchadourian,0,2.1547506791455358,0.07401050678826382
+2755237026,Push-based reactive layer activation in context-oriented programming,2017,17,3,3,0.982006,665847483,Tomoyuki Aotani,0,0.971032754209762,-0.1316249653806397
+2755570153,Defaultification refactoring a tool for automatically converting Java methods to default,2017,12,3,2,0.709987,2061279876,Raffi Khatchadourian,0,-0.16166560696961488,-0.04158056119025587
+2765163730,Proceedings of the AOSD 2006 Workshop on Open and Dynamic Aspect Languages (ODAL),2012,0,1,1,1.0,2087436944,Hidehiko Masuhara,0,-0.1164726804531344,0.019252515865476
+2785588997,Proactive Empirical Assessment of New Language Feature Adoption via Automated Refactoring The Case of Java 8 Default Methods,2018,1,5,2,0.553419,2061279876,Raffi Khatchadourian,0,0.4616733813370676,-0.2994630342479313
+2783870627,Design and partial evaluation of meta-objects for a concurrent reflective language,1998,0,0,2,0.0,660900409,Akinori Yonezawa,0,-0.1541885611145277,0.08256844062262278
+2791177660,Method safety mechanism for asynchronous layer deactivation,2018,27,3,2,0.0,2038954318,Tetsuo Kamina,0,0.6589291548615713,-0.5242290895558099
+2912429286,Proceedings of the 2nd ACM SIGPLAN International Workshop on Libraries Languages and Compilers for Array Programming,2015,0,0,1,1.0,2087436944,Hidehiko Masuhara,0,-0.9144783689727934,-0.008720544467806067
+2915733644,Improving Sequential Performance of Erlang Based on a Meta-tracing Just-In-Time Compiler,2016,16,3,2,1.0,665847483,Tomoyuki Aotani,0,-0.769383560332305,-0.03614744016704992
+2912526585,Proceedings of the 12th annual international conference companion on Aspect-oriented software development,2013,0,0,1,1.0,2087436944,Hidehiko Masuhara,0,1.5653435253738026,-0.7122342195889232
+2898551582,Live synchronized and mental map preserving visualization for data structure programming,2018,20,1,2,0.88557,665847483,Tomoyuki Aotani,0,-0.3009927540860535,0.14074173614131746
+2890542548,MODULARITY aosd13 - Chairs welcome,2013,0,0,2,0.0,2052504364,JÃ¶rg Kienzle,0,0.4257314177553187,-0.91305146106977
+2913444744,Proceedings of the eleventh workshop on Foundations of Aspect-Oriented Languages,2012,0,0,1,1.0,2087436944,Hidehiko Masuhara,0,1.2660647703073278,-0.20968200341191376
+2891863714,A Context-Oriented Programming Approach to Dependency Hell,2018,21,0,2,0.88557,665847483,Tomoyuki Aotani,0,1.9239646120117126,-0.4721507180902734
+2914844631,Workshop on Self-Sustaining Systems,2010,0,0,1,1.0,2087436944,Hidehiko Masuhara,0,-0.5000743383910542,-0.2756548221038654
+2944623006,DynaSOAr A Parallel Memory Allocator for Object-oriented Programming on GPUs with Efficient Memory Access,2018,37,0,1,1.0,2087436944,Hidehiko Masuhara,0,-1.2747901811901157,-0.4672585246964976
+2965005859,DynaSOAr A Parallel Memory Allocator for Object-Oriented Programming on GPUs with Efficient Memory Access,2019,0,2,1,1.0,2087436944,Hidehiko Masuhara,0,-1.2747901811901157,-0.4672585246964976
+2970488659,A shell-like model for general purpose programming,2019,7,0,1,1.0,2087436944,Hidehiko Masuhara,0,0.45631387251879874,0.2548900650600016
+2971151068,Extending a meta-tracing compiler to mix method and tracing compilation,2019,11,0,2,0.825462,665847483,Tomoyuki Aotani,0,-0.340857453465335,-0.0785592513414412

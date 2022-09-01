@@ -1,0 +1,65 @@
+91681802,A virtual data language and system for scientific workflow management in data grid environments,2007,0,1,1,1,2017222965,Ian Foster,0,0.3705401098478126,0.9461691534763473
+40707333,Data Grid Implementations,2002,0,4,2,0,279674722,Peter Kunszt,0,0.414546222050913,-0.03609404299565833
+75397825,SOLE linking research papers with science objects,2012,7,24,2,0,1938912145,Roberto Di Lauro,0,0.2946713761785912,0.4027268098681643
+79490156,A Scalability and Performance Measurements of a Usage SLA based Broker in Large Environments,2005,0,2,1,1,2017222965,Ian Foster,0,-0.0041099411153885,0.0447066884760059
+222603148,A Scalability and Performance Evaluation of a Distributed Usage SLA-based Broker in Large Grid Environments,2005,18,3,1,1,2017222965,Ian Foster,0,-0.0041099411153885,0.0447066884760059
+199242004,Extending a Distributed Usage SLA Resource Broker to Support Dynamic Grid Environments,2006,11,3,1,1,2017222965,Ian Foster,0,-1.0684172581710705,0.42021649937469663
+46974951,Provenance Query Patterns for Many-Task Scientific Computing,2011,14,10,1,1,2017222965,Ian Foster,0,0.2820053919191157,0.2561829150906954
+81026093,Towards to an Oncology Database (ONCOD) using a data warehousing approach,2012,36,0,1,1,2017222965,Ian Foster,0,-0.24149398875611877,0.26469589519597647
+379886638,Auditing and Maintaining Provenance in Software Packages,2014,16,4,1,1,2017222965,Ian Foster,0,-0.0041099411153885,0.0447066884760059
+1568585972,Efficient Incremental Maintenance of Derived Relations and BLAST Computations in Bioinformatics Data Warehouses,2008,19,4,2,1,718578605,Gabriela Turcu,0,0.577333269058263,0.18904098003317837
+1569860203,Applying the virtual data provenance model,2006,36,64,1,1,2017222965,Ian Foster,0,-0.067247275463019,0.26678229247193724
+1595351737,Towards a Threat Model for Provenance in e-Science,2010,18,1,1,1,2017222965,Ian Foster,0,0.5966947499248558,1.072890593566734
+1808474944,LDV Light-weight database virtualization,2015,25,9,2,0,1263411180,Boris Glavic,0,1.5375097940775073,0.49114453195778895
+1721251433,Experiences building Globus Genomics a next-generation sequencing analysis service using Galaxy Globus and Amazon Web Services,2014,29,44,5,1,163982188,Lukasz Lacinski,0,0.3547434798146894,0.4735046591366361
+1978293508,AME an anyscale many-task computing engine,2011,16,15,2,1,1576812999,Matei Ripeanu,0,-0.002595688985676562,0.08111705116071498
+2008415634,High-performance remote access to climate simulation data a challenge problem for data grid technologies,2003,27,65,5,0,220773886,Ewa Deelman,0,0.5449340679251995,-0.5949047939787344
+1994608959,Ophidia A full software stack for scientific data analytics,2014,13,8,3,0,1839642794,Giovanni Aloisio,0,-0.06504821391157067,0.22121971099952653
+1994986305,Globus XIO pipe open driver enabling GridFTP to leverage standard Unix tools,2011,14,13,1,1,2017222965,Ian Foster,0,-0.0041099411153885,0.0447066884760059
+1993603169,Reshaping text data for efficient processing on Amazon EC2,2010,19,12,2,1,718578605,Gabriela Turcu,0,-0.23479603366062093,0.24714098110858715
+2030314076,CoG kits a bridge between commodity distributed computing and high-performance grids,2000,12,156,2,0,239439010,Gregor von Laszewski,0,-0.5719432721457858,1.2218260143545892
+2027340193,Reshaping text data for efficient processing on Amazon EC2,2011,0,3,2,1,718578605,Gabriela Turcu,0,-0.23479603366062093,0.24714098110858715
+2043953205,Streamlining Grid Operations Definition and Deployment of a Portal-based User Registration Service,2006,5,11,6,0,302705999,Frank Siebenlist,0,0.221423897897152,-0.21080654779612165
+2044151798,Turbine a distributed-memory dataflow engine for extreme-scale many-task applications,2012,35,20,2,0,1977610862,Ewing Lusk,0,-0.0041099411153885,0.0447066884760059
+2039623259,Ophidia toward big data analytics for eScience,2013,11,41,3,0,1839642794,Giovanni Aloisio,0,0.346970406907989,0.2445595858271357
+2071522002,TeraGrids integrated information service,2009,16,13,2,0,1226163102,Nancy Wilkins Diehr,0,-0.5719432721457858,1.2218260143545892
+2075067684,Benchmarking cloud-based tagging services,2014,7,6,2,1,1907500296,Kyle Chard,0,0.6924739531532216,-0.41027713049831604
+2066661589,Provenance traces of the swift parallel scripting system,2013,6,7,1,1,2017222965,Ian Foster,0,0.2820053919191157,0.2561829150906954
+2073843758,Report on the International Provenance and Annotation Workshop (IPAW06) 3-5 May 2006 Chicago,2006,0,16,1,1,2017222965,Ian Foster,0,-0.0041099411153885,0.0447066884760059
+2061905752,Data-intensive CyberShake computations on an opportunistic cyberinfrastructure,2011,3,1,2,1,2007765716,Scott Callaghan,0,-0.0041099411153885,0.0447066884760059
+2089086851,A cloud-based image analysis gateway for traumatic brain injury research,2014,9,6,4,1,1276886363,Ravi Madduri,0,-0.19196147509311953,0.14487620954580122
+2080752625,Experiences in building a next-generation sequencing analysis service using galaxy globus online and Amazon web service,2013,7,16,4,1,163982188,Lukasz Lacinski,0,0.3454334964222916,0.11304461188935978
+2091844916,Planning spatial workflows to optimize grid performance,2006,15,22,1,1,2017222965,Ian Foster,0,0.2946713761785912,0.4027268098681643
+2141152194,Replica selection in the Globus Data Grid,2001,10,189,1,1,2017222965,Ian Foster,0,-0.0041099411153885,0.0447066884760059
+2138745979,A constraint language approach to matchmaking,2004,9,47,1,1,2017222965,Ian Foster,0,-0.0041099411153885,0.0447066884760059
+2136290039,Efficient relational joins with arithmetic constraints on multiple attributes,2005,24,6,1,1,2017222965,Ian Foster,0,1.8389024010465498,0.07327196510894518
+2116194155,A peer-to-peer approach to resource location in grid environments,2002,37,230,2,0,1970903821,Adriana Iamnitchi,0,-0.0041099411153885,0.0447066884760059
+2130972206,Toward Semantics Empowered Biomedical Web Services,2011,23,17,2,1,1276886363,Ravi Madduri,0,-0.20297775200469534,-0.36707647673341076
+2140087216,A notation and system for expressing and executing cleanly typed workflows on messy scientific data,2005,10,95,1,1,2017222965,Ian Foster,0,-0.00645054875685519,0.2179393429109293
+2113519559,Job and data clustering for aggregate use of multiple production cyberinfrastructures,2012,22,4,2,1,2007765716,Scott Callaghan,0,0.2946713761785912,0.4027268098681643
+2107571548,Chimera a virtual data system for representing querying and automating data derivation,2002,27,561,1,1,2017222965,Ian Foster,0,-0.2104697638624223,0.4483794893508037
+2107759909,The virtual data grid a new model and architecture for data-intensive collaboration,2003,20,79,1,1,2017222965,Ian Foster,0,0.18815742496124183,0.15856842305740576
+2119801128,Orchestrating caGrid Services in Taverna,2008,19,4,2,1,1276886363,Ravi Madduri,0,-0.056471898166653545,0.0012215750266215686
+2128862622,Scientific Workflows as Services in caGrid A Taverna and gRAVI Approach,2009,20,13,5,0,46080338,Stian Soiland Reyes,0,0.229731451809878,0.8981906141501537
+2134811550,Wrap Scientific Applications as WSRF Grid Services Using gRAVI,2009,17,11,4,1,1276886363,Ravi Madduri,0,-0.6306986691783105,-0.3433070058127097
+2153386215,InfoGram a grid service that supports both information queries and job execution,2002,22,26,1,1,2017222965,Ian Foster,0,-0.4952370533090319,-0.40710710999814825
+2144464475,The Design Performance and Use of DiPerF An automated DIstributed PERformance evaluation Framework,2006,28,21,2,1,1576812999,Matei Ripeanu,0,0.8098338636009773,0.954966510535599
+2167244066,Tracking provenance in a virtual data grid,2008,10,77,2,0,1566488659,Jens S. Voeckler,0,-0.26896182807375135,0.46783989324601905
+2177882625,FACE-IT a science gateway for food security research,2014,27,17,4,0,245903395,Peter Vilter,0,0.13352453069075973,0.06442019194438608
+2161967936,Provenance management in Swift,2011,23,21,1,1,2017222965,Ian Foster,0,0.42940722494906636,0.1654902983546407
+2240221361,Interlanguage parallel scripting for distributed-memory scientific computing,2015,23,6,1,1,2017222965,Ian Foster,0,0.18760700966416588,0.27208921071136033
+2295961644,Sharing and reproducing database applications,2015,3,1,2,0,1263411180,Boris Glavic,0,-0.0041099411153885,0.0447066884760059
+2394621848,The Virtual Data Grid A New Model and Architecture for Data-Intensive Collaboration,2003,0,131,1,1,2017222965,Ian Foster,0,-0.0041099411153885,0.0447066884760059
+2417913344,An in-memory based framework for scientific data analytics,2016,14,10,2,1,2013264372,Alessandro DAnca,0,-0.43380959576950595,-0.9234689278722279
+2481882994,Concepts and Architecture,2004,0,52,1,1,2017222965,Ian Foster,0,-0.44572649552276866,-0.5352758589778146
+2565740142,Klimatic a virtual data lake for harvesting and distribution of geospatial data,2016,14,7,2,1,1907500296,Kyle Chard,0,0.4220372414282279,-1.8104841417616997
+2546629842,Big Data Remote Access Interfaces for Light Source Science,2015,20,10,2,1,1907500296,Kyle Chard,0,0.22432628258381782,0.45053833532821713
+2508342052,Blending Education and Polymer Science Semiautomated Creation of a Thermodynamic Property Database,2016,22,8,3,0,1611735842,Roselyne Tchoua,0,-0.0041099411153885,0.0447066884760059
+2624356872,Skluma A Statistical Learning Pipeline for Taming Unkempt Data Repositories,2017,18,5,2,1,1907500296,Kyle Chard,0,-0.20140800997573066,-0.05045786786170824
+2765822200,The data grid,2000,6,17,1,1,2017222965,Ian Foster,0,-0.5833316870752655,-0.05653770383951537
+2766625498,Processing of crowd-sourced data from an internet of floating things,2017,53,5,2,0,1998746145,Alison Brizius,0,0.7429397972302616,1.2559954381316478
+2766693089,Toward scalable monitoring on large-scale storage for software defined cyberinfrastructure,2017,11,7,2,1,1907500296,Kyle Chard,0,0.16961816653767703,0.31221718520020947
+2792245733,Using the FACE-IT portal and workflow engine for operational food quality prediction and assessment An application to mussel farms monitoring in the Bay of Napoli Italy,2018,56,3,4,1,1276886363,Ravi Madduri,0,0.5914199159853155,0.9743024179563765
+2980296979,2019 IEEE World Congress on Services Message from the Steering Committee Chair,2019,0,0,2,0,717547165,Elisa Bertino,0,-0.0041099411153885,0.0447066884760059
+2966520588,Petrel A Programmatically Accessible Research Data Service,2019,42,1,6,1,163982188,Lukasz Lacinski,0,-0.1585224256359601,0.20586182427919442
+2981554790,Virtual Excited State Reference for the Discovery of Electronic Materials Database An Open-Access Resource for Ground and Excited State Properties of Organic Molecules,2019,0,1,1,1,2017222965,Ian Foster,0,-0.0041099411153885,0.0447066884760059

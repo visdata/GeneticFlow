@@ -1,0 +1,190 @@
+137892622,Behavioral Subtyping is Equivalent to Modular Reasoning for Object-oriented Programs,2006,67,13,2,0.131998,2237376846,David A. Naumann,0,-0.665490847847556,-0.043532315993834954
+154958198,Specification Facets for More Precise Focused Documentation,1997,8,1,2,1.0,2007791176,Clyde Ruby,0,0.0920157125331186,-0.10272408827224895
+104252827,Polymorphic Type Inference in Scheme,1995,9,0,2,0.0,2125451850,Steven L. Jenkins,0,-0.2013875161464175,0.38582935037999233
+122391711,Adapting the Java Modeling Language for Java 5 Annotations,2008,6,1,1,1.0,2308881956,Gary T. Leavens,0,-2.991830041831432,0.33331948865757355
+54976599,ARGUS REFERENCE MANUAL,1987,3,33,2,0.0,2084056563,Barbara Liskov,0,-0.3356548948155019,-0.13141792851399953
+123232229,An Executable Semantics for a Formalized Data Flow Diagram Specification Language,1993,9,0,3,1.0,2032696913,Tim Wahls,0,0.25579004972972585,0.37953923844184917
+157021440,Formal Semantics and Soundness of an Algorithm,2000,6,0,2,1.0,2032696913,Tim Wahls,0,-0.16628193235289834,0.06508400577329929
+72491738,Separating Obligations of Subjects and Handlers for More Flexible Event Type Verification,2013,17,3,1,1.0,2308881956,Gary T. Leavens,0,0.8846585095140411,-0.4632756809719427
+73173988,Extensions of the theory of observational purity and a practical design for JML,2008,12,10,2,1.0,1810168175,David R. Cok,0,-0.2922724929043639,-0.34156847424483394
+6434479,Mutation Aliasing Viewpoints Modular Reasoning and Weak Behavioral Subtyping,2001,45,3,1,1.0,2308881956,Gary T. Leavens,0,-0.26741746611999617,-0.7001710189753805
+194250478,Executable Documentation of Template-Hook Interactions in Frameworks using JML,2006,16,0,2,0.0,1765517161,Neeraj S. Khanolkar,0,-0.5309740625229487,-0.23622468054342993
+7997685,Gentle Introduction to Larch / Smalltalk Specification Browsers,1994,9,0,2,1.0,2001849669,Yoonsik Cheon,0,-0.6122476157406178,-0.6846188859827981
+196083541,Proceedings of the 3rd annual conference on Systems programming and applications software for humanity,2012,0,30,1,1.0,2308881956,Gary T. Leavens,0,2.083509125292438,-0.8990846170116923
+145022841,Programming is Writing Why Student Programs must be Carefully Read,1998,11,0,3,0.0,2069172874,Vasant Honavar,0,0.5599641086367378,-0.12449589164848626
+161924135,Optimizing JML Features Compilation in Ajmlc Using Aspect-Oriented Refactorings,2009,27,6,6,0.64122,1989426158,MÃ¡rcio CornÃ©lio,0,0.4992161150611661,-0.23018945909261337
+26172741,Larch Frequently Asked Questions,2001,56,4,1,1.0,2308881956,Gary T. Leavens,0,-0.36991840153804806,-0.5151589114832212
+128640981,SAVCBS 2005 Proceedings Specification and Verification of Component-Based Systems,2005,147,0,5,0.952381,655432653,Dimitra Giannakopoulou,0,0.6990503053880841,0.06961903145507144
+197874733,Overview and Specification of the Built-In Types in Little Smalltalk,1994,1,0,2,1.0,2001849669,Yoonsik Cheon,0,-0.859601943842143,-0.10381727731738226
+164113562,Discussion of Design Alternatives for JML Java 5 Annotations,2008,1,0,2,0.0,2042896877,Kristina P. Boysen,0,-1.842052230994505,0.008555515283265022
+82161441,The Direct Execution of SPECS-C++ A Model-Based Specification Language for C++ Classes,1994,12,17,3,1.0,2032696913,Tim Wahls,0,-0.326405190542791,0.6478823867508917
+201934787,SAVCBS 2003 Specification and Verification of Component-Based Systems,2003,169,0,4,0.952381,655432653,Dimitra Giannakopoulou,0,2.5081637695225467,-0.9356957505384034
+49062807,Technologies for finding errors in object-oriented software,2003,45,0,4,0.119983,710865586,K. Rustan M. Leino,0,0.7273278776551556,-0.5774429680818461
+84010541,Formal Techniques for OO Software Development (Panel),1991,0,3,6,0.0,95621683,Dennis de Champeaux,0,1.9072620585469737,-0.6246892086515721
+50657916,Blended Algebraic and Denotational Semantics for ADT Languages with Mutable Objects,1994,43,0,1,1.0,2308881956,Gary T. Leavens,0,-0.09032570149571914,0.35851360402480403
+68018584,Specifying and Verifying Object-Oriented Programs An Overview of the Problems and a Solution,1991,10,1,1,1.0,2308881956,Gary T. Leavens,0,0.07103096308572496,-0.42955348652163095
+136338722,Equational Reasoning with Subtypes,2002,23,6,2,1.0,2127023561,Don Pigozzi,0,-0.34766548476899384,0.012815530094797278
+204377626,JML notations and tools supporting detailed design in Java,2000,12,121,4,1.0,2007791176,Clyde Ruby,0,-2.990693147772859,0.33709183333411014
+380318771,Introduction to the Literature on Semantics,1994,121,0,1,1.0,2308881956,Gary T. Leavens,0,-0.1164726804531344,0.019252515865476
+651233952,Demonstration of JML Tools,2005,11,0,3,1.0,1810168175,David R. Cok,0,0.3090067368297004,-0.6329828242885169
+627995204,Inheritance of Interface Specifications,1993,13,4,1,1.0,2308881956,Gary T. Leavens,0,0.75469544652809,0.21725286514607975
+1010868639,Design Semantics and Implementation of the Ptolemy Programming Language A Language with Quantified Typed Events,2015,56,0,2,0.0,2046826343,Hridesh Rajan,0,-0.01406979975438577,0.041552222664867855
+1488730807,A Quick Overview of Larch/C++,1994,17,27,2,1.0,2001849669,Yoonsik Cheon,0,-0.1164726804531344,0.019252515865476
+1569242586,A Thought on Specification Reflection,2003,18,2,3,1.0,2001849669,Yoonsik Cheon,0,1.6369032916078172,-0.29778820947000567
+1515048937,Reasoning about Procedure Calls with Repeated Arguments and the Reference-Value Distinction,2003,54,3,3,0.0,1966263655,William F. Ogden,0,0.7881057062341255,0.09355844653600634
+1480418491,Parameterized Aspect Calculus A Core Calculus for the Direct Study of Aspect-Oriented Languages,2003,18,17,3,1.0,2159095937,Curtis Clifton,0,1.183115109056375,0.08600206847022908
+1480522639,Behavioral Subtyping Specification Inheritance and Modular Reasoning,2015,87,42,2,0.0,2237376846,David A. Naumann,0,-0.135904830472836,-0.7430474074282118
+1569747335,Alias-free Parameters in C for Better Reasoning and Optimization,2001,27,4,2,0.0,2174624145,Medhat Assaad,0,-0.6494096752277069,0.1098422298202764
+1533730123,Subtyping Modular Specification and Modular Verification for Applicative Object-Oriented Programs,1994,35,9,2,0.49825,206448238,William E. Weihl,0,-0.011161561577295948,-0.28403993676409584
+1489692091,Introduction to the Literature on Programming Language Design,1996,272,0,1,1.0,2308881956,Gary T. Leavens,0,3.0907728606061027,0.688285263826439
+1525643703,On binary methods,1995,40,180,5,0.0,331751290,Luca Cardelli,0,-0.16975249359703454,0.13217339902100045
+1490574387,An Overview of Larch/C++ Behavioral Specifications for C++ Modules,1996,47,41,1,1.0,2308881956,Gary T. Leavens,0,0.04174792305900825,0.1913346437943248
+1516827220,An Operational Semantics of Firing Rules for Structured Analysis Style Data Flow Diagrams,1996,15,5,3,1.0,2032696913,Tim Wahls,0,-0.0445521699166401,-0.04149957509707921
+1499951109,Modular Verification of Object-Oriented Programs with Subtypes,1990,35,13,1,1.0,2308881956,Gary T. Leavens,0,-0.176927012326692,-0.22806865816247815
+1562863263,Towards Safe Modular Extensible Objects,1994,2,0,2,0.443292,2133284789,Craig Chambers,0,0.7944640558954166,0.08148165703529749
+1527032490,Formal Techniques for Java-Like Programs,2006,6,2,4,0.0,152419205,Sophia Drossopoulou,0,0.23363837862732414,-0.08130800809490783
+1544972275,Executing Formal Specifications with Concurrent Constraint Programming,2000,46,19,3,1.0,2032696913,Tim Wahls,0,0.33700252937272274,-0.5931003557940101
+1509146189,Protective Interface Specifications,1997,26,2,2,0.0,1584891692,Jeannette M. Wing,0,0.03340839900042395,0.28501581566340933
+1509263589,Foundations of Object-Oriented Languages,1994,0,2,2,0.641026,1857340744,Giuseppe Castagna,0,-0.07109038454015688,-0.05451916254373507
+1509288930,Tisa A Language Design and Modular Verification Technique for Temporal Policies in Web Services,2009,51,9,4,1.0,2036504380,Steve M. Shaner,0,-0.25723304455800666,-0.03784101317804882
+1518108783,MiniMAO1 Investigating the Semantics of Proceed,2005,17,38,2,1.0,2159095937,Curtis Clifton,0,1.70505823493572,0.20539211153927153
+1554941263,Proceedings of the ACM international conference on Object oriented programming systems languages and applications,2012,0,0,2,0.0,2156583880,Matthew B. Dwyer,0,-0.05550551817668212,-0.21404779528623302
+1555070304,Desugaring JML Method Specifications,2005,28,37,2,0.0,2300238128,Arun D. Raghavan,0,-1.1059323014240372,-0.1423531412726783
+1518862520,Spectators and Assistants Enabling Modular Aspect-Oriented Reasoning,2002,27,20,2,1.0,2159095937,Curtis Clifton,0,0.5982196051152753,-0.19558240962100487
+1555314651,Model Programs for Preserving Composite Invariants,2008,15,3,3,1.0,2036504380,Steve M. Shaner,0,1.9072566571393184,-0.5907487184379908
+1502344819,SAVCBS 2001 Proceedings Specification and Verification of Component-Based Systems Workshop at OOPSLA 2001,2001,140,1,3,0.588235,655432653,Dimitra Giannakopoulou,0,1.075547987835704,-0.4068573387916311
+1574605805,Formal Semantics for Structured Analysis Style Data Flow Diagram Specification Languages,1996,19,3,3,1.0,2032696913,Tim Wahls,0,-0.043770490111352096,-0.09056587250497906
+1494264673,Observers and Assistants A Proposal for Modular Aspect-Oriented Reasoning,2002,23,109,2,1.0,2159095937,Curtis Clifton,0,2.260184696783626,-1.035025711964598
+1538629633,Composition Graphs a Foundation for Reasoning about Aspect-Oriented Composition,2003,17,5,4,0.0,2047412352,Mehmet Aksit,0,1.094021282956209,-0.3319342131412822
+1520880103,BeCecil A Core Object-Oriented Language with Block Structure and Multimethods Semantics and Typing,1997,53,22,2,0.307032,2133284789,Craig Chambers,0,0.8488285800083821,-1.0536220143821227
+1548664426,Preliminary Design of Larch/C++,1992,26,19,2,1.0,2001849669,Yoonsik Cheon,0,0.0008793584875146689,0.42260210783698354
+1539693001,Ptolemy A Language with Quantified Typed Events,2008,59,110,2,0.157278,2046826343,Hridesh Rajan,0,2.1631832983629145,-0.18261309768107323
+1495605563,Executing Formal Specifications with Constraint Programming,2000,20,3,3,1.0,2032696913,Tim Wahls,0,0.9990013838676478,-0.698146787468257
+1495937566,Foundations of component-based systems,2000,0,241,2,1.0,2301897086,Murali Sitaraman,0,0.4822796273025682,-0.15305593264507475
+1576691183,Preventing Cross-Type Aliasing for More Practical Reasoning,2001,47,3,1,1.0,2308881956,Gary T. Leavens,0,0.31044351392317876,-0.5697772470018868
+1596337349,MultiJava Modular Symmetric Multiple Dispatch and Extensible Classes for Java,2000,26,3,4,1.0,294596595,Todd Millstein,0,0.14509632946593204,-0.48331851732277475
+1634428131,ACL -- Eliminating Parameter Aliasing with Dynamic Dispatch,1998,20,9,1,1.0,2308881956,Gary T. Leavens,0,-0.27510559259776296,-0.2312299113036106
+1754514437,Lessons from the JML Project,2005,41,5,2,1.0,2159095937,Curtis Clifton,0,-0.48965442611440313,-1.055680958369373
+1638559933,Concepts of behavioral subtyping and a sketch of their extension to component-based systems,2000,73,46,1,1.0,2308881956,Gary T. Leavens,0,-0.5052608471199084,-0.07268923107261256
+1608287257,Quantified Typed Events for Improved Separation of Concerns,2008,37,15,2,0.157278,2046826343,Hridesh Rajan,0,1.796055863167714,-0.5760931558729714
+1944072015,Model variables cleanly supporting abstraction in design by contract Research Articles,2005,19,42,4,1.0,2001849669,Yoonsik Cheon,0,-0.3858758344091108,-0.43354913682434676
+1591654887,Preliminary Design of JML A Behavioral Interface Specification,1998,22,3,3,1.0,2007791176,Clyde Ruby,0,-1.2738448110046117,-0.4474599729861191
+1583826417,JML A Notation for Detailed Design,1999,39,371,3,1.0,2007791176,Clyde Ruby,0,0.22244037964075597,0.45710432208505036
+1584285747,Enhancing the Pre- and Postcondition Technique for More Expressive Specifications,1999,62,63,2,0.926162,2125701193,Albert L. Baker,0,-0.018372378900608954,0.13412587069388482
+1622556547,Verified Software Theories Tools Experiments,2010,0,0,3,0.0,188470835,Peter W. OHearn,0,3.189070793743156,-0.9033592170058404
+1983797397,Special Section on Formal Techniques for Java-like Programs,2011,0,0,3,0.0,233250515,Frank Piessens,0,-0.5536686537030495,0.011641493330294302
+1964830323,An overview of JML tools and applications,2005,96,627,8,0.0632302,710865586,K. Rustan M. Leino,0,-0.8841317640312372,-0.08715222038521991
+1970116755,Specifying subtypes in SCJ programs,2011,31,5,2,1.0,2116288542,Ghaith Haddad,0,0.6242293875001182,-0.5511850701437482
+1964979656,Weak Behavioral Subtyping for Types with Mutable Objects,1995,16,21,1,1.0,2308881956,Gary T. Leavens,0,-0.532841723716508,-0.23912168639140488
+1986022861,Foundations of Object-Oriented Languages 2nd Workshop report,1995,0,5,2,0.641026,1857340744,Giuseppe Castagna,0,2.906935146956807,-0.062187093730121754
+1979191543,Modular verification of higher-order methods with mandatory calls specified by model programs,2007,50,29,3,1.0,2036504380,Steve M. Shaner,0,-0.17217582091116382,-0.732193214075438
+1982969403,On the interplay of exception handling and design by contract an aspect-oriented recovery approach,2011,21,7,6,0.0,1935288533,Fernando Castor,0,1.1587251896152284,-0.16697818305684609
+1974297864,Conditional effects in fine-grained region logic,2015,12,3,3,0.0,2106964895,Gidon Ernst,0,-0.08731100681042188,-0.8026967350409023
+1965681555,Modularizing crosscutting concerns with ptolemy,2011,6,2,6,0.0693872,2046826343,Hridesh Rajan,0,-0.8327958590621591,0.11147071819349912
+1974336677,Applying translucid contracts for modular reasoning about aspect and object oriented events,2011,30,6,3,1.0,2117132093,Mehdi Bagherzadeh,0,0.29298812720637313,-0.8806041763301732
+1977978965,Specification and verification challenges for sequential object-oriented programs,2007,126,108,3,0.0,710865586,K. Rustan M. Leino,0,-0.29367040001407524,0.03802343906630111
+1985263153,Client-aware checking and information hiding in interface specifications with JML/ajmlc,2013,11,2,2,0.658915,2092934600,Henrique RebÃªlo,0,0.26073163904046687,-0.18961328309945555
+1991777579,Formal semantics for SA style data flow diagram specification languages,1999,15,8,3,1.0,2032696913,Tim Wahls,0,0.19474264549938655,0.38983748499169996
+2004403526,Typechecking and modules for multi-methods,1994,58,43,2,0.443292,2133284789,Craig Chambers,0,0.14454678054238984,-0.59821542869617
+2024219209,Static verification of ptolemyrely programs using openJML,2014,11,5,1,1.0,2308881956,Gary T. Leavens,0,1.3793827342887084,-0.8152262453306629
+2029496563,Invited Talk JML framed ,2004,0,0,1,1.0,2308881956,Gary T. Leavens,0,1.4843855096359473,-0.2991898229682752
+2015582246,Tutorial on JML the java modeling language,2007,4,16,1,1.0,2308881956,Gary T. Leavens,0,-1.1530764310783097,-0.18652132759183407
+2012152371,The verified software initiative A manifesto,2009,0,54,4,0.0,2052847585,C. A. R. Hoare,0,1.1389646912541431,-0.410996913066044
+2022839955,Formal techniques for OO software development,1991,0,5,3,0.0,1980192169,Roger Duke,0,3.602010671787054,-1.0072210658038205
+2030208087,Not a Number of Floating Point Problems,2006,10,9,1,1.0,2308881956,Gary T. Leavens,0,-0.17518058473519804,0.31632406182044637
+2025275226,Special issue formal techniques for Java programs,2001,1,0,2,0.0,1998858448,Susan Eisenbach,0,-3.158481656257109,0.31199397322849853
+2025329762,Introduction to the literature on object-oriented design programming and languages,1991,124,5,1,1.0,2308881956,Gary T. Leavens,0,3.072480346289843,-0.4694542681533723
+2027450054,Semantic clone detection using method IOE-behavior,2012,7,17,1,1.0,2308881956,Gary T. Leavens,0,0.7609643575624491,-0.24704366110743423
+2011660287,Safely creating correct subclasses without seeing superclass code,2000,38,45,2,1.0,2007791176,Clyde Ruby,0,0.06358163175279646,0.0168640819389032
+2033217969,Polymorphic type-checking in scheme,1996,16,4,2,0.0,2125451850,Steven L. Jenkins,0,-0.2013875161464175,0.38582935037999233
+2054373994,Typechecking and modules for multimethods,1995,53,74,2,0.443292,2133284789,Craig Chambers,0,0.15065109619865366,-0.6549858097038245
+2035529004,How the design of JML accommodates both runtime assertion checking and formal verification,2005,94,161,5,1.0,1810168175,David R. Cok,0,0.8261409018833211,-0.6551646169830563
+2035719421,Optimizing generated aspect-oriented assertion checking code for JML using program transformations An empirical study,2013,36,5,6,0.64122,1989426158,MÃ¡rcio CornÃ©lio,0,0.3245605995696891,-0.680065702857304
+2055095027,Specification and verification of object-oriented programs using supertype abstraction,1995,58,68,2,0.49825,206448238,William E. Weihl,0,0.24576569733220588,-0.9671350444038617
+2055263227,Prettyprinting styles for various languages,1984,14,6,1,1.0,2308881956,Gary T. Leavens,0,3.3172558329809196,-1.0701361122189732
+2034347533,Modularizing crosscutting contracts with AspectJML,2014,19,6,7,0.64122,1989426158,MÃ¡rcio CornÃ©lio,0,1.096623834212393,0.04053536494050132
+2037967876,Class-Based and Algebraic Models of Objects,1998,49,3,2,1.0,2127023561,Don Pigozzi,0,-0.18773292324568974,-0.32390164845353103
+2064520156,Modular aspect-oriented design rule enforcement with XPIDRs,2013,18,9,5,0.658915,2092934600,Henrique RebÃªlo,0,1.262026364802431,-0.2355820096755809
+2059295282,Forcing behavioral subtyping through specification inheritance,1996,17,160,1,1.0,2308881956,Gary T. Leavens,0,0.2569905363144909,0.0032571867152362266
+2055970549,MultiJava modular open classes and symmetric multiple dispatch for Java,2000,31,266,4,1.0,294596595,Todd Millstein,0,-0.1504216909305634,-0.463548799687816
+2077251200,Challenge benchmarks for verification of real-time programs (abstract only),2010,0,0,5,0.0,201782375,Tomas Kalibera,0,2.27150226600885,-1.0037709308816747
+2060050135,Modularizing crosscutting concerns with Ptolemy,2011,8,1,4,0.0693872,2046826343,Hridesh Rajan,0,0.4518373203341148,-0.4045004345300656
+2069003613,Enforcing information hiding in interface specifications a client-aware checking approach,2015,32,1,2,0.629855,2092934600,Henrique RebÃªlo,0,-0.370986692596183,-0.10596454882527766
+2070852605,JML Expressive Contracts Specification Inheritance and Behavioral Subtyping,2015,0,4,1,1.0,2308881956,Gary T. Leavens,0,-0.33434505079173554,-0.3132361691306788
+2069159459,Reasoning about object-oriented programs that use subtypes,1990,23,54,2,0.287402,206448238,William E. Weihl,0,-0.005795716530747876,-0.180583711299465
+2076303209,Inheritance of interface specifications (extended abstract),1994,26,8,1,1.0,2308881956,Gary T. Leavens,0,-0.1164726804531344,0.019252515865476
+2090962365,JML (poster session) notations and tools supporting detailed design in Java,2000,13,70,5,0.119983,710865586,K. Rustan M. Leino,0,-2.7745122403422875,0.9243753991512226
+2103146382,Specifying subtypes in Safety Critical Java programs,2013,33,2,2,1.0,2116288542,Ghaith Haddad,0,0.20168390573576503,-0.14167360210246013
+2097310563,The Larch/Smalltalk interface specification language,1994,44,29,2,1.0,2001849669,Yoonsik Cheon,0,0.9237714867082117,-0.8061542883636712
+2079105238,Formal semantics of an algorithm for translating model-based specifications to concurrent constraint programs,2001,15,3,2,1.0,2032696913,Tim Wahls,0,0.8575016582680068,-1.058084013319719
+2097585674,Roadmap for enhanced languages and methods to aid verification,2006,140,60,13,0.0,10265848,Eric C. R. Hehner,0,0.3530431109457772,-0.0504296466043986
+2103591546,Modular invariants for layered object structures,2006,55,109,2,0.323501,2285904575,Peter MÃ¼ller,0,0.06787343950288463,-0.6034258308279405
+2082879582,Translucid contracts expressive specification and modular verification for aspect-oriented interfaces,2011,30,34,3,0.0693872,2046826343,Hridesh Rajan,0,0.890443881409056,-0.622937939814691
+2091703106,Multiple dispatch as dispatch on Tuples,1998,43,31,2,1.0,294596595,Todd Millstein,0,0.4500826368657433,-0.8054054628263101
+2091949134,Protective interface specifications,1998,0,15,2,0.0,1584891692,Jeannette M. Wing,0,-0.4988773455842197,-0.4164405830087209
+2095907349,Behavioral interface specification languages,2012,322,107,5,0.0,710865586,K. Rustan M. Leino,0,2.1511384683557995,-0.8567831449063719
+2098884586,MultiJava Design rationale compiler implementation and applications,2006,82,95,4,0.191526,294596595,Todd Millstein,0,-2.3690497843153966,0.3348676708804521
+2101928793,Modular specification of frame properties in JML,2003,29,60,2,0.959386,2285904575,Peter MÃ¼ller,0,-0.8353192755343483,-0.3168979259541708
+2094160561,Preliminary design of JML a behavioral interface specification language for java,2006,84,704,3,1.0,2007791176,Clyde Ruby,0,-0.5538271713328061,-0.45428915124145836
+2111678158,FOAL 2003 Proceedings Foundations of Aspect-Oriented Langauges Workshop at AOSD 2003,2003,274,3,2,1.0,2159095937,Curtis Clifton,0,0.4957234320316019,-0.18106399319080665
+2141418073,AspectJML modular specification and runtime checking for crosscutting contracts,2014,55,14,7,0.64122,1989426158,MÃ¡rcio CornÃ©lio,0,1.0884634693364654,-0.1665133041264425
+2106472587,Modular specification and verification of object-oriented programs,1991,8,64,1,1.0,2308881956,Gary T. Leavens,0,-0.5236465525833149,0.01840668870088085
+2136107093,The JML and JUnit Way of Unit Testing and its Implementation,2004,46,15,2,1.0,2001849669,Yoonsik Cheon,0,0.595104717152018,-0.2114093384184535
+2118549160,A Physical Example for Teaching Curried Functions,1995,12,1,1,1.0,2308881956,Gary T. Leavens,0,2.409321792179435,0.12040761242751961
+2106731015,MAO ownership and effects for more effective reasoning about aspects,2007,38,35,2,1.0,2159095937,Curtis Clifton,0,2.0764172606508637,0.39584232727500535
+2118655104,@tComment Testing Javadoc Comments to Detect Comment-Code Inconsistencies,2012,34,59,4,0.0,1702668839,Darko Marinov,0,0.9487956705281757,-0.4249308485585036
+2112780297,MiniMAO 1 an imperative core language for studying aspect-oriented reasonings,2006,23,50,2,1.0,2159095937,Curtis Clifton,0,0.6021654682706872,0.21969097184581363
+2133360754,A contextual interpretation of undefinedness for runtime assertion checking,2005,28,13,2,1.0,2001849669,Yoonsik Cheon,0,-0.4667384520927299,-0.16462393689836086
+2112865781,SIGPLAN programming language curriculum workshop Discussion Summaries and recommendations,2008,0,5,12,0.0,100279138,Franklyn Turbak,0,1.7501449279898862,0.7248104539661757
+2109879514,Design by Contract with JML,2006,13,181,2,1.0,2001849669,Yoonsik Cheon,0,-0.16114404493556317,-0.24182601773781745
+2139555094,Beyond assertions advanced specification and verification with JML and ESC/Java2,2005,51,106,4,0.555556,206359229,Patrice Chalin,0,-0.5242095452463985,-0.031885350917235565
+2113061194,JMLâ€™s rich inherited specifications for behavioral subtypes,2006,81,52,1,1.0,2308881956,Gary T. Leavens,0,-0.5570156884219217,-0.33066076068217193
+2122042218,Larch/C++ Reference Manual,1999,60,18,1,1.0,2308881956,Gary T. Leavens,0,-0.1164726804531344,0.019252515865476
+2110283214,temporaljmlc A JML Runtime Assertion Checker Extension for Specification and Checking of Temporal Properties,2010,24,4,2,0.0,2160110854,Faraz Hussain,0,-0.8037131822229079,0.2549701238980731
+2140001025,Model Variables Cleanly Supporting Abstraction in Design By Contract,2005,39,106,4,1.0,2001849669,Yoonsik Cheon,0,-0.37257551934725847,-0.1399369370526546
+2128186675,Information Hiding and Visibility in Interface Specifications,2007,32,27,1,1.0,2308881956,Gary T. Leavens,0,0.8422585805930074,-0.28426146252056883
+2137009294,Translucid contracts for modular reasoning about aspect-oriented programs,2010,8,5,3,0.0815796,2046826343,Hridesh Rajan,0,-0.05662602205758288,-0.4453334315065169
+2134060189,Following the Grammar,2006,9,1,1,1.0,2308881956,Gary T. Leavens,0,-1.2250809577534238,-1.1747632115455995
+2137192861,Formal Definition of the Parameterized Aspect Calculus,2003,5,5,3,1.0,2159095937,Curtis Clifton,0,1.1702879982921368,-0.015196170635748312
+2113944334,A Simple and Practical Approach to Unit Testing The JML and JUnit Way,2002,48,7,2,1.0,2001849669,Yoonsik Cheon,0,1.1589389311677802,-0.4822883918572302
+2117108045,Use concurrent programming models to motivate teaching of programming languages,2008,7,2,1,1.0,2308881956,Gary T. Leavens,0,2.7674004579955094,-0.3984546393225069
+2153324799,A design discipline and language features for modular reasoning in aspect-oriented programs,2005,132,33,2,1.0,2159095937,Curtis Clifton,0,0.6210563948607962,-0.1423773959360744
+2159484187,Formal Techniques for Java Programs,1999,79,15,5,0.0,152419205,Sophia Drossopoulou,0,0.14185370000206654,-0.024862573973299384
+2145899516,The design of SafeJML a specification language for SCJ with support for WCET specification,2010,31,17,3,1.0,2116288542,Ghaith Haddad,0,-1.0108902501220696,0.5244702662711888
+2184969455,Why Undergraduates Should Learn the Principles of Programming Languages,2011,25,2,3,0.165951,1254469007,Kathi Fisler,0,2.0704405287852183,0.9400178942037971
+2166985644,An overview of JML tools and applications,2003,85,204,7,0.47619,1188065969,Joseph R. Kiniry,0,-3.1569640947468653,0.2693121777718943
+2170094439,A Framework for Implementing Type Systems,2007,13,0,2,0.0,2117067006,Brian Dorn,0,-0.6474686599728323,-0.27862240534586713
+2158024764,Obliviousness Modular Reasoning and the Behavioral Subtyping Analogy,2003,31,54,2,1.0,2159095937,Curtis Clifton,0,0.5982196051152753,-0.19558240962100487
+2167141008,Challenge benchmarks for verification of real-time programs,2010,24,8,5,0.0,201782375,Tomas Kalibera,0,1.6131826337896749,-0.8311470356015228
+2161079291,Extending JML for modular specification and verification of multi-threaded programs,2005,38,56,6,0.0,242642603,Robby,0,-0.4477147363420992,0.10025742372213482
+2188017563,JML and its Unit Testing Tool,2002,0,0,1,1.0,2308881956,Gary T. Leavens,0,-0.6686454715812571,-0.11568780576566365
+2155396511,Modular subclass verification safely creating correct subclasses without superclass code,2006,75,0,2,1.0,2007791176,Clyde Ruby,0,-1.3719724094745531,0.01549043893532863
+2188364336,Investigating the Semantics of Proceed,2005,17,9,2,1.0,2159095937,Curtis Clifton,0,-0.1164726804531344,0.019252515865476
+2167699088,A JML tutorial modular specification and verification of functional behavior for java,2007,2,12,3,0.487363,1188065969,Joseph R. Kiniry,0,-1.256406590994342,-0.13326205906152128
+2188422663,Modular Specification of Frame Properties,2001,12,9,3,0.0,2188345230,Arnd Poetzsch Heter,0,-0.973267819484924,0.24492101496683705
+2188637694,Optimizing Generated Aspect-Oriented Assertion Checking Code for JML Using Programming Laws An Empirical Study I,2010,40,0,5,0.332781,2098743604,Alexandre Mota,0,0.015725730292947066,-0.20625114205029216
+2250333950,Proceedings of the 24th ACM SIGPLAN conference companion on Object oriented programming systems languages and applications,2009,0,0,5,0.0,104647944,Bernd Bruegge,0,0.4070732225291264,-0.36448949494064065
+2299221621,Reasoning tradeoffs in languages with enhanced modularity features,2016,34,4,1,1.0,2308881956,Gary T. Leavens,0,0.5180744883604012,-0.4357381608443441
+2337115358,Observers and Assistants A Proposal for Modular,2002,21,0,1,1.0,2308881956,Gary T. Leavens,0,-0.41133779576291585,-0.07022179981677015
+2483314354,A simple and practical approach to unit testing The JML and JUnit way,2002,0,243,2,1.0,2001849669,Yoonsik Cheon,0,1.1589389311677802,-0.4822883918572302
+2471860518,Beyond assertions Advanced specification and verification with JML and ESC/Java2,2006,0,41,4,0.555556,206359229,Patrice Chalin,0,-0.5242095452463985,-0.031885350917235565
+2469053383,Towards Modular Reasoning for Context-Oriented Programs,2016,14,3,2,0.0,665847483,Tomoyuki Aotani,0,-0.2601479168265189,-0.6154436624215431
+2530408924,PROGRAMMING IS WRITING WHY PROGRAMS NEED TO BE CAREFULLY READ,1998,10,1,3,0.0,2069172874,Vasant Honavar,0,-0.1164726804531344,0.019252515865476
+2567146530,Spekl A Layered System for Specification Authoring Sharing and Usage,2016,13,0,1,1.0,2308881956,Gary T. Leavens,0,1.8912324731762156,-0.2977839956453029
+2584612111,JMLs Rich Inherited Specifications for Behavioral Subtypes,2006,0,0,1,1.0,2308881956,Gary T. Leavens,0,-0.5597599238829077,-0.3836738573478011
+2512534790,AJ ML Tutorial Modular Specification and Verification of Functional Behavior for Java (Invited Tutorial),2007,2,0,2,0.320017,2149911619,Erik Poll,0,-1.8247713249430397,0.02905298172606524
+2507228426,Extending JML for modular specification and verification of multi-threaded programs,2005,0,1,6,0.0,242642603,Robby,0,-0.4477147363420992,0.10025742372213482
+2528104287,Specifying and Verifying Advanced Control Features,2016,33,3,4,0.0,665847483,Tomoyuki Aotani,0,0.333532678192399,-0.5945177009979503
+2586510906,Automated translation of VDM to JML-annotated Java,2018,28,4,3,0.0,969457492,Peter W. V. Tran JÃ¸rgensen,0,0.1098214572219354,-0.1550151837243807
+2613165855,How the design of JML accommodates both runtime assertion checking and formal verification,2003,0,11,5,1.0,1810168175,David R. Cok,0,0.9397587241037341,-0.43343745128590333
+2592015105,Modular invariants for layered object structures,2005,0,12,2,0.380792,2285904575,Peter MÃ¼ller,0,-0.31815346093003627,-0.8550478262155947
+2732199723,Formal techniques for Java-like programs,2003,0,11,4,0.0,1998858448,Susan Eisenbach,0,-0.5653469606633037,-0.7837221786709658
+2755783464,Aspect-Oriented Programming Reloaded,2017,41,3,2,0.621428,2092934600,Henrique RebÃªlo,0,2.353958677492749,0.30089392284343347
+2888594017,Beyond Assertions Advanced Specification and Verification with JML and ESC/Java2,2006,0,33,4,0.555556,206359229,Patrice Chalin,0,-0.1164726804531344,0.019252515865476
+2901337203,An Illustrated Guide to the Model Theory of Supertype Abstraction and Behavioral Subtyping,2017,29,0,2,0.0,2237376846,David A. Naumann,0,-0.1457598422514188,0.06489930190989604
+2898332178,A Methodology for Invariants Framing and Subtyping in JML,2018,29,0,2,1.0,2232554599,Yuyan Bao,0,-1.5324792066514041,0.09488211768479793
+2913444744,Proceedings of the eleventh workshop on Foundations of Aspect-Oriented Languages,2012,0,0,3,0.0,2087436944,Hidehiko Masuhara,0,1.2660647703073278,-0.20968200341191376
+2914461075,Proceedings of the ACM international symposium on New ideas new paradigms and reflections on programming and software,2012,0,0,2,0.0,2126741221,Jonathan Edwards,0,1.1081187461191584,-0.27913347774469777
+2893305159,Session details Doctoral symposium,2010,0,0,1,1.0,2308881956,Gary T. Leavens,0,-0.1164726804531344,0.019252515865476
+2949270723,@tComment Testing Javadoc Comments to Detect Comment-Code Inconsistencies,2012,29,8,4,0.0,1702668839,Darko Marinov,0,0.6271706120467018,-0.33073438187212706
+3014541127,Session details Specification and verification,2014,0,0,1,1.0,2308881956,Gary T. Leavens,0,-0.1164726804531344,0.019252515865476

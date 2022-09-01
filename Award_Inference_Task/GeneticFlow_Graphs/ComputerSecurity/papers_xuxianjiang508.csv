@@ -1,0 +1,67 @@
+103986934,Guest-Transparent Prevention of Kernel Rootkits with VMM-Based Memory Shadowing,2008,32,276,1,0,2101920419,Xuxian Jiang,0,-0.3364530733679178,1.0491867178730423
+25021988,Owner-Centric Protection of Unstructured Data on Smartphones,2014,25,9,2,0,2096862930,Kapil Singh,0,-0.3383784544281044,0.15268826611744696
+198543417,Collapsar a VM-based architecture for network attack detention center,2004,16,114,1,0,2101920419,Xuxian Jiang,0,0.2298079768514764,0.5248260330915578
+32581813,Taming information-stealing smartphone applications (on Android),2011,13,328,2,0,32688137,Vincent W. Freeh,0,0.6276313356259627,0.9266859490926476
+202979847,Billing attacks on SIP-based VoIP systems,2007,17,52,1,0,2101920419,Xuxian Jiang,0,-0.11531266578777677,0.8282607499740635
+1542217172,An Empirical Investigation into the Security of Phone Features in SIP-Based VoIP Systems,2009,11,5,1,0,2101920419,Xuxian Jiang,0,0.015245780877612549,0.7423220265691124
+1553308705,ReFormat automatic reverse engineering of encrypted messages,2009,27,96,1,0,2101920419,Xuxian Jiang,0,0.4498271951535802,-0.7529431340412976
+1518813109,A First Step towards Live Botmaster Traceback,2008,27,36,2,0,86682301,Daniel Ramsbrock,0,0.155870422438688,-0.3611899258997246
+1557252148,Countering Persistent Kernel Rootkits through Systematic Hook Discovery,2008,14,73,1,0,2101920419,Xuxian Jiang,0,-0.3976003713362508,1.164290882867107
+1548740378,Virtual playgrounds for worm behavior investigation,2005,32,39,2,0,171783842,Eugene H. Spafford,0,0.13679434731489165,0.6751406926737795
+1495630617,On the expressiveness of return-into-libc attacks,2011,25,85,5,0,32688137,Vincent W. Freeh,0,-0.6374321313972565,0.7165519675208408
+1838401043,Artificial malware immunization based on dynamically assigned sense of self,2010,34,6,1,0,2101920419,Xuxian Jiang,0,0.23212406060881716,1.2022635364862306
+1963581527,Process out-grafting an efficient &quot;out-of-VM&quot; approach for fine-grained process execution monitoring,2011,32,73,1,0,2101920419,Xuxian Jiang,0,0.05940095047987125,0.6960502266457337
+1599618085,Proceedings of the second ACM workshop on Security and privacy in smartphones and mobile devices,2011,0,5,2,0,1999189064,William Enck,0,0.0345193044346854,0.11711036493391322
+1612893162,Tracking the trackers fast and scalable dynamic analysis of web content for privacy violations,2012,19,17,2,0,2040086302,Minh Tran,0,1.5228945692375946,0.6909468819214771
+1829003931,Out-of-the-Box monitoring of VM-based high-interaction honeypots,2007,34,127,1,0,2101920419,Xuxian Jiang,0,0.05211979453927836,0.605810563050738
+1971497680,Detecting repackaged smartphone applications in third-party android marketplaces,2012,22,442,2,0,1998006409,Peng Ning,0,0.004930862674138965,0.08045855749499103
+1965076509,Analyzing and improving Linux kernel memory protection a model checking approach,2010,19,13,2,0,1208360167,Siarhei Liakh,0,0.0040557659796233,0.2757546058061082
+1974316340,Profiling self-propagating worms via behavioral footprinting,2006,23,26,1,0,2101920419,Xuxian Jiang,0,0.0040557659796233,0.2757546058061082
+1974649417,AirBag Boosting Smartphone Resistance to Malware Infection,2014,32,57,1,0,2101920419,Xuxian Jiang,0,-0.5028031078610354,1.0757388846166769
+1969501726,Jump-oriented programming a new class of code-reuse attack,2011,31,301,2,0,2063641608,Tyler Bletsch,0,0.022433842949278898,0.7255657775906683
+2009346622,Data-Centric OS Kernel Malware Characterization,2014,39,8,1,0,2101920419,Xuxian Jiang,0,-0.07571021086022159,1.4705078123714437
+2024385792,DIVILAR diversifying intermediate language for anti-repackaging on android platform,2014,46,23,1,0,2101920419,Xuxian Jiang,0,0.0040557659796233,0.2757546058061082
+2027963645,Defeating return-oriented rootkits with &quot; Return-Less &quot; kernels,2010,39,134,1,0,2101920419,Xuxian Jiang,0,-1.182572077092047,1.0733732659025164
+2031508806,AutoPaG towards automated software patch generation with source code root cause identification and repair,2007,36,32,1,0,2101920419,Xuxian Jiang,0,-0.8068564391735623,1.5257520948323258
+2010395842,The impact of vendor customizations on android security,2013,44,115,1,0,2101920419,Xuxian Jiang,0,-0.38297672827465196,0.46125068598901287
+2023824732,Combining Discretionary Policy with Mandatory Information Flow in Operating Systems,2011,36,12,1,0,2101920419,Xuxian Jiang,0,-0.770249077978893,1.3760900041279518
+2048997531,DKSM Subverting Virtual Machine Introspection for Fun and Profit,2010,27,141,1,0,2101920419,Xuxian Jiang,0,0.1475395743585395,0.8074695844854315
+2036965957,Collapsar a VM-based honeyfarm and reverse honeyfarm architecture for network attack capture and detention,2006,20,38,1,0,2101920419,Xuxian Jiang,0,0.02080662431885795,0.3505429208334274
+2041276426,RiskRanker scalable and accurate zero-day android malware detection,2012,28,446,1,0,2101920419,Xuxian Jiang,0,0.16900241869394642,1.1491323375359728
+2055493504,On the feasibility of launching the man-in-the-middle attacks on VoIP from remote attackers,2009,15,43,1,0,2101920419,Xuxian Jiang,0,-1.6921436799042369,0.5016159201795997
+2048715902,Profiling user-trigger dependence for Android malware detection,2015,35,56,2,0,2066621527,Karim O. Elish,0,0.7161354986322349,0.9600790623188239
+2068231562,Trojan horse resistant discretionary access control,2009,25,19,1,0,2101920419,Xuxian Jiang,0,-0.6411130128859083,1.3182131758009614
+2070518775,Real-time detection and prevention of android SMS permission abuses,2013,14,8,1,0,2101920419,Xuxian Jiang,0,0.0040557659796233,0.2757546058061082
+2056690037,Design and implementation of an Android host-based intrusion prevention system,2014,41,30,2,0,2045404162,John C. S. Lui,0,0.4546345516658861,1.0675426293358439
+2064038877,Fast scalable detection of &quot;Piggybacked&quot; mobile applications,2013,27,160,1,0,2101920419,Xuxian Jiang,0,-0.2558656733054443,0.6298621486781488
+2074943483,Mitigating code-reuse attacks with control-flow locking,2011,30,90,2,0,2063641608,Tyler Bletsch,0,-0.5270861216813337,0.5000383157715454
+2089085056,On the billing vulnerabilities of SIP-based VoIP systems,2010,15,10,1,0,2101920419,Xuxian Jiang,0,-0.6348709680701398,0.48798857064729895
+2082156502,Voice pharming attack and the trust of VoIP,2008,27,23,1,0,2101920419,Xuxian Jiang,0,-0.3287690164964345,0.14636193449847731
+2087804676,Unsafe exposure analysis of mobile in-app advertisements,2012,25,344,1,0,2101920419,Xuxian Jiang,0,-0.38297672827465196,0.46125068598901287
+2089735638,Catch Me If You Can Evaluating Android Anti-Malware Against Transformation Attacks,2014,25,110,1,0,2101920419,Xuxian Jiang,0,-0.5283949048939317,1.3765990403070332
+2091618476,Stealthy malware detection and monitoring through VMM-based â€œout-of-the-boxâ€ semantic view reconstruction,2010,30,77,1,0,2101920419,Xuxian Jiang,0,0.08445668824437555,0.9577559712349644
+2085101183,Hybrid User-level Sandboxing of Third-party Android Apps,2015,43,17,1,0,2101920419,Xuxian Jiang,0,-0.391085107804734,0.5004101257098417
+2088673953,Harvesting developer credentials in Android apps,2015,35,17,1,0,2101920419,Xuxian Jiang,0,-0.9289771961764071,0.003697513751026449
+2101889913,HyperSentry enabling stealthy in-context measurement of hypervisor integrity,2010,21,212,2,0,1998006409,Peng Ning,0,0.0040557659796233,0.2757546058061082
+2096196901,AppInk watermarking android apps for repackaging deterrence,2013,33,72,1,0,2101920419,Xuxian Jiang,0,0.0040557659796233,0.2757546058061082
+2126220112,Mapping kernel objects to enable systematic integrity checking,2009,22,142,1,0,2101920419,Xuxian Jiang,0,0.05940095047987125,0.6960502266457337
+2114792143,RandSys Thwarting Code Injection Attacks with System Service Interface Randomization,2007,25,45,1,0,2101920419,Xuxian Jiang,0,0.0040557659796233,0.2757546058061082
+2132983733,Protection mechanisms for application service hosting platforms,2004,21,24,2,0,2075111996,Rudolf Eigenmann,0,0.05650780479712854,1.5100909004443728
+2112731379,Stealthy malware detection through vmm-based &quot;out-of-the-box&quot; semantic view reconstruction,2007,26,478,1,0,2101920419,Xuxian Jiang,0,0.08445668824437555,0.9577559712349644
+2133592286,HyperSafe A Lightweight Approach to Provide Lifetime Hypervisor Control-Flow Integrity,2010,41,309,1,0,2101920419,Xuxian Jiang,0,-0.6567160340281432,1.3137850476034183
+2125011234,Dissecting Android Malware Characterization and Evolution,2012,25,1426,1,0,2101920419,Xuxian Jiang,0,0.13029881783846398,1.1788383468787589
+2139949621,Defeating Dynamic Data Kernel Rootkit Attacks via VMM-Based Guest-Transparent Monitoring,2009,12,76,1,0,2101920419,Xuxian Jiang,0,-0.6537736244944359,1.188263400557981
+2110756602,Countering kernel rootkits with lightweight hook protection,2009,23,187,2,0,1998006409,Peng Ning,0,-0.6537736244944359,1.188263400557981
+2128852824,Towards a VMM-based usage control framework for OS kernel integrity protection,2007,19,104,2,0,1996714504,Ravi Sandhu,0,-0.3431398842971387,0.9161044013232802
+2111165162,Automated Web Patrol with Strider HoneyMonkeys Finding Web Sites That Exploit Browser Vulnerabilities,2006,21,359,3,0,1970010172,Chad Verbowski,0,0.1475395743585395,0.8074695844854315
+2166406630,AdSentry comprehensive and flexible confinement of JavaScript-based advertisements,2011,30,29,2,0,2040086302,Minh Tran,0,-0.6127148865968736,1.8866964350111297
+2152149943,DroidChameleon evaluating Android anti-malware against transformation attacks,2013,17,231,1,0,2101920419,Xuxian Jiang,0,0.0012354626038761252,1.081669417516944
+2398354233,Detecting Passive Content Leaks and Pollution in Android Applications,2013,36,157,1,0,2101920419,Xuxian Jiang,0,-0.023550276898621297,0.7099097923564667
+2398484989,Systematic Detection of Capability Leaks in Stock Android Smartphones,2012,31,338,1,0,2101920419,Xuxian Jiang,0,-0.22684964772494434,0.5553590878829306
+2405267032,Taming Hosted Hypervisors with (Mostly) Deprivileged Execution,2013,46,26,1,0,2101920419,Xuxian Jiang,0,0.0040557659796233,0.2757546058061082
+2399891510,Hey You Get Off of My Market Detecting Malicious Apps in Official and Alternative Android Markets,2012,27,576,1,0,2101920419,Xuxian Jiang,0,-0.09074486952707642,1.4237181683194526
+2460576019,AppShell Making data protection practical for lost or stolen Android devices,2016,12,2,2,0,2096862930,Kapil Singh,0,0.2102635799246278,-0.255374034860712
+2519171629,Code-reuse attacks new frontiers and defenses,2011,16,2,2,0,2063641608,Tyler Bletsch,0,1.1537352555675529,0.6665521680902089
+2513969336,Detecting capability leaks in Android-based smartphones,2011,24,1,1,0,2101920419,Xuxian Jiang,0,-0.22684964772494434,0.5553590878829306
+2589027404,Proceedings of the ACM Conference on Computer and Communications Security Foreword,2011,0,0,2,0,1999189064,William Enck,0,0.0345193044346854,0.11711036493391322
+2916815270,CCS12 co-located workshop summary for SPSM 2012,2012,0,0,2,0,1999189064,William Enck,0,0.1475395743585395,0.8074695844854315

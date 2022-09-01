@@ -1,0 +1,79 @@
+839603,A Fault Injection Attack on Stream Cipher A5/3,2012,4,0,3,0,2110408450,Yuseop Lee,0,1.4458818263341573,-1.9900762985233214
+209406412,New Multiple Linear Cryptanalysis of Block Ciphers,2007,0,0,2,0,2130556419,Sangjin Lee,0,2.1454558071334517,-2.326882128259864
+211427769,Multiple Impossible Differential Cryptanalysis of Block Cipher CLEFIA and ARIA,2009,12,1,3,0,2103203241,Jongsung Kim,0,0.592675807458846,-2.1202785518789313
+141793162,Side-Channel Attacks on AES Based on Meet-in-the-Middle Technique,2009,0,0,3,0,2103203241,Jongsung Kim,0,1.3109442272482046,-1.1822945202724355
+57168481,Provable Security for New Block Cipher Structures against Differential Cryptanalysis and Linear Cryptanalysis,2007,0,0,4,0,2103203241,Jongsung Kim,0,1.4765293977264695,-2.481841054296749
+159196768,A Differential Fault Attack on Block Cipher SEED,2010,0,0,2,0,2128984430,Kitae Jeong,0,1.8616883786632863,-2.626445798511483
+215270069,A High-speed Masking Method to protect ARIA against Side Channel Analysis,2008,0,1,3,0,2137228615,Jeong Choon Ryoo,0,1.180565604297452,-0.9527223914570567
+26347561,Study of the Improved Fast Correlation Attack on Stream Ciphers,2009,0,0,3,0,2110408450,Yuseop Lee,0,1.221610927151981,-2.055008963631226
+180951440,A Power Analysis Attack Countermeasure Not Using Masked Table for S-box of AES ARIA and SEED,2011,11,0,1,0,2308102277,Seokhie Hong,0,0.6708056152325582,-0.40251097442468897
+220692222,Statistical Analysis of High-Order Power Analysis,2011,0,0,1,0,2308102277,Seokhie Hong,0,0.6581953883439312,-0.49742359478761045
+97668604,Improved Key-Recovery Attacks on HMAC/NMAC-MD4,2009,0,0,3,0,2117857588,Jesang Lee,0,-0.7298234362280293,-0.9298266009476213
+131925300,Security analysis of the keyschedule of ARIA-128,2012,9,0,5,0,2105677889,Jaechul Sung,0,2.1163641928368815,-1.911618102777761
+82313114,A new digital signature scheme secure against fault attacks,2012,17,0,3,0,2100351943,Young Ho Park,0,-0.3131483898949315,-0.9479422879049274
+234733514,Study on Weak-Key Classes for KeeLoq,2009,9,0,3,0,2103203241,Jongsung Kim,0,0.963419224403685,-1.577083721279438
+889881593,Truncated Differential Cryptanalysis on PP-1/64-128,2011,9,0,2,0,2128984430,Kitae Jeong,0,2.145403335415102,-2.329164610688197
+892927939,Improved Differential Fault Analysis on Block Cipher PRESENT-80/128,2012,8,1,4,0,2110408450,Yuseop Lee,0,1.7550272508814773,-1.8010375342157623
+331277413,Differential Cryptanalysis of a 20-Round Reduced SMS4 Block Cipher,2008,0,0,3,0,2103203241,Jongsung Kim,0,1.653669716652677,-2.527556368914961
+901371731,Efficient Bit-Parallel Polynomial Basis Multiplier for Repeated Polynomials,2009,4,0,2,0,2156644238,Nam Su Chang,0,0.0040557659796233,0.2757546058061082
+753592714,The Related-Key Attack on Grain-v1,2008,0,0,2,0,2110408450,Yuseop Lee,0,1.604040717804429,-2.526851885401575
+303279783,Security Analysis of AES for Related-Key Rectangle Attacks,2009,0,0,2,0,2103203241,Jongsung Kim,0,0.2018268678365599,0.1425886522275585
+335574909,DPA-Resistant Low-Area Design of AES S-Box Inversion,2009,0,0,2,0,2227972863,Tae Hyun Kim,0,0.7606850665594094,-0.638915708644719
+760958138,Improved Security Analysis of Reduced SMS4 Block Cipher,2009,0,0,3,0,2103203241,Jongsung Kim,0,1.4566683496374788,-0.9856651282758566
+338425396,Secure RSA with CRT Protected Against Fault Attacks without using Checking Procedure,2008,0,2,4,0,2100351943,Young Ho Park,0,0.7847878759246827,-1.2873316887934392
+763363660,A Key Recovery Attack on HMAC using Fault Injection Attack,2011,0,0,3,0,2110408450,Yuseop Lee,0,-0.06663204827112784,-2.1055331079506363
+277036587,Efficient Bit-Parallel Shifted Polynomial Basis Multipliers for All Irreducible Trinomial,2009,0,0,3,0,2100351943,Young Ho Park,0,0.0040557659796233,0.2757546058061082
+246304541,Forgery Attack on New Authenticated Encryption,2007,0,0,2,0,2128984430,Kitae Jeong,0,0.3655598944091198,-2.1111145007704404
+312970999,Security Analysis against RVA-based DPA Countermeasure Applied to $Eta_T$ Pairing Algorithm,2011,0,0,2,0,2099710471,Seog Chung Seo,0,0.309567287527576,-0.3523477261462347
+841871142,Performance Improvement of Power Attacks with Truncated Differential Cryptanalysis,2009,8,1,3,0,2103203241,Jongsung Kim,0,2.13844590798574,-2.3352995117681754
+845873787,Differential Fault Analysis on Block Cipher ARIA-128,2011,0,1,4,0,2110408450,Yuseop Lee,0,1.5591809037388966,-1.425403440159012
+317895665,A New Type of Differential Fault Analysis on DES Algorithm,2010,0,0,3,0,2147828194,Sung Kyoung Kim,0,1.602672995886221,-1.3483419172470938
+576870308,Security Analysis on the Full-Round SCO-1,2008,0,0,3,0,2103203241,Jongsung Kim,0,2.3165807900565647,-2.962896889969573
+257421670,Efficient Formulas for Cube roots in $F_{3^m}$ for Pairing Cryptography,2011,0,0,4,0,2100351943,Young Ho Park,0,0.0040557659796233,0.2757546058061082
+790186300,Efficient Bit-Parallel Multiplier for Binary Field Defind by Equally-Spaced Irreducible Polynomials,2008,0,0,3,0,2156644238,Nam Su Chang,0,1.0022453237552558,-0.18455250442026155
+791620067,Efficient RSA-Based PAKE Procotol for Low-Power Devices,2009,11,0,3,0,2139831364,Se Won Lee,0,-0.5540056979660588,-1.8121509698792428
+799226013,A fault attack on elliptic curve scalar multiplication based on Euclidean Addition Chain,2012,17,0,1,0,2308102277,Seokhie Hong,0,1.1278747916642786,-0.7181372685476686
+800800039,Related-Key Differential Attacks on the Block-wise Stream Cipher TWOPRIME,2007,0,0,3,0,2103203241,Jongsung Kim,0,1.8318156629005462,-1.916610386384661
+1568817903,Related-key rectangle attacks on reduced AES-192 and AES-256,2007,47,73,3,0,2103203241,Jongsung Kim,0,1.5502898870199455,-1.8792543606665741
+1491901162,Related-key amplified boomerang attacks on the full-round eagle-64 and eagle-128,2007,24,6,4,0,2105677889,Jaechul Sung,0,1.6588724016454643,-1.3744536046846465
+1518747591,Forgery and key recovery attacks on PMAC and mitchells TMAC variant,2006,20,4,3,0,2103203241,Jongsung Kim,0,0.35167964440081173,-0.7411137617590031
+1903742260,Related-Key Chosen IV Attacks on Grain-v1 and Grain-128,2008,6,49,4,0,2105677889,Jaechul Sung,0,1.8409742577299046,-2.2066811441832552
+1775939692,Advanced Multi-Pass Fast Correlation Attack on Stream Ciphers,2007,0,0,4,0,2122281748,Sang Jin Lee,0,1.6535533285421475,-2.0739230348292828
+1829558115,Impossible Differential Attack on 30-Round SHACAL-2,2003,7,15,4,0,2103203241,Jongsung Kim,0,1.706356883710114,-2.2069944154648136
+1968382269,First-order side channel attacks on Zhangâ€™s countermeasures,2011,13,3,1,0,2308102277,Seokhie Hong,0,0.6030230882889741,-0.10167657329112849
+1979102381,Security analysis of the SCO-family using key schedules,2009,13,5,3,0,2103203241,Jongsung Kim,0,1.8402964452381534,-2.1997706707528177
+1993966664,The Enhanced Power Analysis Using Linear Discriminant Analysis,2014,0,1,1,0,2308102277,Seokhie Hong,0,-0.06882820587844,0.22982190965035054
+2015302780,Chosen Plaintext Collision Attack Using the Blacklist,2014,21,0,1,0,2308102277,Seokhie Hong,0,-0.09085262892232494,-1.7215816628423641
+2017118405,Security analysis of the full-round DDO-64 block cipher,2008,26,8,4,0,2103203241,Jongsung Kim,0,1.6361481537973228,-1.8719723708052287
+2021208800,A Study on Reforming the National Personal Identification Number System The Unconnected Random Personal Identification Number System*,2014,1,2,4,0,2146922335,Jongin Lim,0,0.0040557659796233,0.2757546058061082
+2054139432,Known-IV Known-in-Advance-IV and Replayed-and-Known-IV Attacks on Multiple Modes of Operation of Block Ciphers,2006,7,0,5,0,2099049638,Okyeon Yi,0,0.8957343224535119,-1.307778284381753
+2044077506,Side-channel attacks on HIGHT with reduced masked rounds suitable for the protection of multimedia computing system,2012,15,0,3,0,2103203241,Jongsung Kim,0,0.6473589033298576,0.2468578785892973
+2033655197,Secure classical RSA Cryptosystem against Fault Injection Attack based on Fermats Theorem,2013,9,0,3,0,2079356349,Gae Won Seo,0,0.22808365849644588,-1.001927626622471
+2096607523,Practical second-order correlation power analysis on the message blinding method and its novel countermeasure for RSA,2010,18,19,1,0,2308102277,Seokhie Hong,0,0.5649711815897184,-0.617328921009681
+2081860563,SEED and ARIA algorithm design methods using GEZEL,2014,4,1,2,0,2157194048,TaeWoong Kwon,0,0.0040557659796233,0.2757546058061082
+2132201255,Security Analysis of CIKS-128 and CIKS-128H Using Key Schedule Weaknesses,2008,8,0,4,0,2103203241,Jongsung Kim,0,1.4184976466648294,-1.001183070892584
+2173297416,New Type of Collision Attack on First-Order Masked AESs,2016,24,3,1,0,2308102277,Seokhie Hong,0,-0.6195925829178396,-0.5544120561531831
+2170069610,Security Analysis of the Full-Round CHESS-64 Cipher Suitable for Pervasive Computing Environments,2009,18,0,3,0,2103203241,Jongsung Kim,0,1.3153368824964178,-1.2958605190016548
+2158296297,Side-Channel Attack Using Meet-in-the-Middle Technique,2010,0,3,2,0,2103203241,Jongsung Kim,0,1.2288584606524133,-1.2872452331616155
+2275994347,Optimized Binary Field Reduction Algorithm on 8-bit ATmega128 Processor,2015,1,0,2,0,2279507100,Heetaek Kwon,0,0.0040557659796233,0.2757546058061082
+2284115413,Cryptanalysis of SHACAL-1,2004,2,0,2,0,2103203241,Jongsung Kim,0,1.7915878543084902,-1.2288057919990336
+2317898745,Related-Key Amplified Boomerang Attacks on KT-64 and MD-64 Suitable for Wireless Sensor Networks,2013,0,2,3,0,2122526407,Jinkeon Kang,0,1.5362406175191556,-1.4226889919068935
+2340195076,Power Analysis Attacks on Blinding Countermeasure against Horizontal CPA,2015,18,0,1,0,2308102277,Seokhie Hong,0,0.7780643230763866,-0.0007372661650495517
+2483870448,A New Scalar Recoding Method against Side Channel Attacks,2016,6,1,2,0,2167731033,Chang Han Kim,0,1.0499983394109857,-1.6758019752420215
+2477743040,Efficient Optimization Method for Polynomial Selection,2016,0,0,5,0,2100351943,Young Ho Park,0,0.0040557659796233,0.2757546058061082
+2501159044,Information Security and Cryptology â€“ ICISC 2009,2010,0,60,2,0,2133942762,Dong Hoon Lee,0,-0.04554779980415852,0.4233287265648201
+2503150695,New Efficient Padding Methods Secure Against Padding Oracle Attacks,2015,12,0,4,0,2103203241,Jongsung Kim,0,0.15831828837084425,-1.8849769150035318
+2509397108,Analysis and Countermeasure on RSA Algorithm Having High Attack Complexity in Collision-Based Power Analysis Attack,2016,1,0,1,0,2308102277,Seokhie Hong,0,-1.1084501852272532,-0.05587052907569389
+2515643700,RCB leakage-resilient authenticated encryption via re-keying,2018,34,2,6,0,1824041100,Somitra Kumar Sanadhya,0,0.3301806864597897,-2.1599383170195017
+2605521279,On the security of HMAC and NMAC based on HAVAL MD4 MD5 SHA-0 and SHA-1,2006,0,6,4,0,2103203241,Jongsung Kim,0,-1.1729340088261966,-1.5642638962151447
+2618362532,Related-key attacks on DDP based ciphers CIKS-128 and CIKS-128H,2004,0,0,4,0,2105677889,Jaechul Sung,0,0.5431231018538168,-0.6884345508142885
+2594303973,Study for Balanced Encoding Method against Side Channel Analysis,2016,0,0,1,0,2308102277,Seokhie Hong,0,0.9753907213017128,-0.24445946668398916
+2620098035,Impossibility of construction of OWHF and UOWHF from PGV model based on block cipher secure against ACPCA,2004,0,1,3,0,2105677889,Jaechul Sung,0,0.5431231018538168,-0.6884345508142885
+2611704045,Forgery and Key Recovery Attacks on PMAC and Mitchells TMAC Variant,2006,0,2,3,0,2103203241,Jongsung Kim,0,-0.13675998376104412,-0.35025361052669074
+2592430595,Study on Singular Value Decomposition Signal Processing Techniques for Improving Side Channel Analysis,2016,3,0,1,0,2308102277,Seokhie Hong,0,0.9753907213017128,-0.24445946668398916
+2612077820,Related key differential attacks on 27 rounds of XTEA and full-round GOST,2004,0,0,3,0,2116678351,Youngdai Ko,0,0.03595781461660893,-2.0069410427651966
+2808348330,Calculating the Approximate Probability of Differentials for ARX-Based Cipher Using SAT Solver,2018,0,1,2,0,2141521062,HyungChul Kang,0,1.187533223600316,-1.2136361474278319
+2911693252,Proceedings of the 12th international conference on Information security and cryptology,2009,0,0,1,0,2308102277,Seokhie Hong,0,0.09185462073762597,0.2861171120998424
+2914903133,Proceedings of the 17th international conference on Fast software encryption,2010,0,0,2,0,2130303538,Tetsu Iwata,0,0.155870422438688,-0.3611899258997246
+2943849789,Special issue on &quot;side channel attacks&quot;,2019,18,0,1,0,2308102277,Seokhie Hong,0,0.9753907213017128,-0.24445946668398916
+3015866720,Improved Side Channel Analysis Using Power Consumption Table,2017,0,0,1,0,2308102277,Seokhie Hong,0,0.6030230882889741,-0.10167657329112849

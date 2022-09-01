@@ -1,0 +1,67 @@
+80155331,Measuring and Detecting Fast-Flux Service Networks,2008,23,314,2,0,201106088,Felix C. Freiling,0,0.0040557659796233,0.2757546058061082
+572583825,Detection of intrusions and malware and vulnerability assessment 10th International Conference DIMVA 2013 Berlin Germany July 18-19 2013 proceedings,2013,0,0,2,0,1490754758,Dimva,0,0.05940095047987125,0.6960502266457337
+1516751376,08102 Working Group -- Requirements for Network Monitoring from an IDS Perspective,2008,0,0,3,0,59249629,Engin Kirda,0,0.13679434731489165,0.6751406926737795
+1563577331,Automatic Inference of Search Patterns for Taint-Style Vulnerabilities,2015,62,55,1,0,1912135871,Konrad Rieck,0,-0.2426152804904301,0.40354809654779916
+1557006880,8102 Working Group -- Attack Taxonomy,2008,0,0,2,0,59249629,Engin Kirda,0,0.8394129102049798,0.9239599357505993
+1851403712,Automatic analysis of malware behavior using machine learning,2011,60,429,1,0,1912135871,Konrad Rieck,0,-0.30863164096414836,1.2848956082567269
+1581009051,Learning and Classification of Malware Behavior,2008,38,418,1,0,1912135871,Konrad Rieck,0,-0.1475229663851997,0.9651195681359566
+1864928074,A Self-learning System for Detection of Anomalous SIP Messages,2008,34,39,1,0,1912135871,Konrad Rieck,0,0.19913517224855312,0.7935298951707955
+1974429551,Special issue on threat detection analysis and defense,2014,0,2,1,0,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+1978086230,Autonomous learning for detection of JavaScript attacks vision or reality ,2012,25,13,2,0,1604723759,Alexander Bikadorov,0,-0.255481096177426,0.4843741529378961
+1990981691,Adaptive Detection of Covert Communication in HTTP Requests,2011,27,5,1,0,1912135871,Konrad Rieck,0,-0.7049128041588777,1.4732325712199033
+1987644478,Cujo efficient detection and prevention of drive-by-download attacks,2010,20,160,1,0,1912135871,Konrad Rieck,0,0.05940095047987125,0.6960502266457337
+1992114977,Modeling and Discovering Vulnerabilities with Code Property Graphs,2014,37,132,1,0,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2028820179,Chucky exposing missing checks in source code for vulnerability discovery,2013,38,74,2,0,163924767,Christian Wressnegger,0,-1.4906487443016354,2.505157669622591
+2056524697,Torben A Practical Side-Channel Attack for Deanonymizing Tor Communication,2015,10,14,1,0,1912135871,Konrad Rieck,0,0.36919647838189906,0.0743478047811139
+2069268700,VCCFinder Finding Potential Vulnerabilities in Open-Source Projects to Assist Code Audits,2015,28,51,2,0,874994453,Sergej Dechand,0,-1.1904965568805046,1.8846454154147383
+2091067302,Computer Security and Machine Learning Worst Enemies or Best Friends ,2011,17,12,1,0,1912135871,Konrad Rieck,0,0.05940095047987125,0.6960502266457337
+2086437504,Language models for detection of unknown attacks in network traffic,2007,65,76,1,0,1912135871,Konrad Rieck,0,0.3262895800427583,1.3032875588055626
+2098251894,Smart metering de-pseudonymization,2011,21,46,2,0,276520774,Marek Jawurek,0,0.3131151171577944,0.9168673968779188
+2105037940,Poisoning behavioral malware clustering,2014,31,57,5,0,163924767,Christian Wressnegger,0,-0.016959090776698993,1.0552680984479752
+2138156016,Securing IMS against novel threats,2009,25,8,1,0,1912135871,Konrad Rieck,0,0.1639362940477497,0.6530314529854678
+2108654104,Early detection of malicious behavior in JavaScript code,2012,24,15,2,0,1604723759,Alexander Bikadorov,0,0.05940095047987125,0.6960502266457337
+2126881776,Botzilla detecting the &quot;phoning home&quot; of malicious software,2010,28,62,2,0,144221600,Tobias Limmer,0,0.1610139681286434,1.361021561803229
+2106560376,Incorporation of Application Layer Protocol Syntax into Anomaly Detection,2008,24,27,1,0,1912135871,Konrad Rieck,0,1.4136365772330972,1.8108862131615155
+2121623200,Visualization and Explanation of Payload-Based Anomaly Detection,2009,31,3,1,0,1912135871,Konrad Rieck,0,0.3878367191055992,0.8413192898020311
+2116010854,TokDoc a self-healing web application firewall,2010,24,30,1,0,1912135871,Konrad Rieck,0,1.1105460451944287,0.596585984764434
+2121972959,Learning stateful models for network honeypots,2012,35,26,1,0,1912135871,Konrad Rieck,0,0.12095864407918223,1.1006772077346547
+2139878668,Off the beaten path machine learning for offensive security,2013,0,0,1,0,1912135871,Konrad Rieck,0,-0.7449060305922456,0.8337455797560412
+2122672392,DREBIN Effective and Explainable Detection of Android Malware in Your Pocket,2014,32,835,2,0,108968658,Michael Spreitzenbarth,0,-0.09074486952707642,1.4237181683194526
+2123084463,Intelligent Defense against Malicious JavaScript Code,2012,21,8,1,0,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2165004968,Generalized vulnerability extrapolation using abstract syntax trees,2012,31,81,1,0,1912135871,Konrad Rieck,0,0.06472382140189664,0.6359464475009856
+2183342945,Deobfuscating Embedded Malware Using Probable-Plaintext Attacks,2013,23,8,2,0,163924767,Christian Wressnegger,0,0.6385307987572111,-0.012316991351235571
+2205815960,When Coding Style Survives Compilation De-anonymizing Programmers from Executable Binaries,2018,33,34,1,0,1912135871,Konrad Rieck,0,-0.18765966451558175,0.41109489110354897
+2294481702,Fingerprinting Mobile Devices Using Personalized Configurations,2016,16,40,2,0,201106088,Felix C. Freiling,0,0.0040557659796233,0.2757546058061082
+2295974667,Pulsar Stateful Black-Box Fuzzing of Proprietary Network Protocols,2015,35,19,2,0,163924767,Christian Wressnegger,0,1.1628411914646186,0.562749020045459
+2339960010,Towards Vulnerability Discovery Using Staged Program Analysis,2016,25,2,1,0,1912135871,Konrad Rieck,0,0.2854508577059591,3.025327168113048
+2491054514,Comprehensive Analysis and Detection of Flash-Based Malware,2016,39,7,2,0,163924767,Christian Wressnegger,0,0.05940095047987125,0.6960502266457337
+2537189236,Twice the Bits Twice the Trouble Vulnerabilities Induced by Migrating to 64-Bit Platforms,2016,23,4,2,0,163924767,Christian Wressnegger,0,-1.9099131314064859,2.7605029059237416
+2503149155,Detection of Intrusions and Malware and Vulnerability Assessment,2013,0,7,2,0,331524457,Patrick Stewin,0,0.05940095047987125,0.6960502266457337
+2530498731,Die Codeanalyseplattform â€žOctopusâ€œ,2016,2,0,1,0,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2536581267,From Malware Signatures to Anti-Virus Assisted Attacks,2016,20,3,2,0,163924767,Christian Wressnegger,0,0.05940095047987125,0.6960502266457337
+2598491244,Mining Attributed Graphs for Threat Intelligence,2017,24,6,3,0,308539964,Bernd Grobauer,0,-0.04149158274357181,1.189160508790711
+2606740176,Looking Back on Three Years of Flash-based Malware,2017,11,1,2,0,163924767,Christian Wressnegger,0,0.05940095047987125,0.6960502266457337
+2611170103,Yes Machine Learning Can Be More Secure A Case Study on Android Malware Detection,2017,32,3,3,0,1259251873,Battista Biggio,0,-0.2662090144642692,2.068019661749718
+2607158040,Leveraging Flawed Tutorials for Seeding Large-Scale Web Vulnerability Discovery,2017,18,0,1,0,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2620797757,Static Exploration of Taint-Style Vulnerabilities Found by Fuzzing,2017,12,0,1,0,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2588814296,64-Bit Migration Vulnerabilities,2017,0,0,2,0,163924767,Christian Wressnegger,0,-1.3721930698182816,1.7734739921660752
+2605016587,Fraternal Twins Unifying Attacks on Machine Learning and Digital Watermarking,2017,58,7,1,0,1912135871,Konrad Rieck,0,-0.6119949496364431,0.9436788467385767
+2724510687,Privacy Threats through Ultrasonic Side Channels on Mobile Devices,2017,20,19,2,0,163924767,Christian Wressnegger,0,0.5334142007004704,0.18428693115314407
+2601109766,Automatically Inferring Malware Signatures for Anti-Virus Assisted Attacks,2017,48,12,2,0,163924767,Christian Wressnegger,0,0.05940095047987125,0.6960502266457337
+2751509862,fastboot oem vuln Android Bootloader Vulnerabilities in Vendor Customizations,2017,0,2,1,0,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2760842181,Static Program Analysis as a Fuzzing Aid,2017,19,7,1,0,1912135871,Konrad Rieck,0,-1.3721930698182816,1.7734739921660752
+2889349357,Web-based Cryptojacking in the Wild,2018,3,10,2,0,163924767,Christian Wressnegger,0,-0.5480288562344026,0.561664494561717
+2912594762,Proceedings of the 10th international conference on Detection of Intrusions and Malware and Vulnerability Assessment,2013,0,0,1,0,1912135871,Konrad Rieck,0,0.05940095047987125,0.6960502266457337
+2895812139,Family Reunion Adversarial Machine Learning meets Digital Watermarking,2018,0,0,1,0,1912135871,Konrad Rieck,0,-0.8542419778419639,0.8861231798229826
+2891807831,Reading Between the Lines Content-Agnostic Detection of Spear-Phishing Emails,2018,30,4,1,0,1912135871,Konrad Rieck,0,-0.8274922047828147,0.34266700358570584
+2907311264,Privacy-Enhanced Fraud Detection with Bloom Filters,2018,35,0,1,0,1912135871,Konrad Rieck,0,0.5040495017587702,1.4607754452161097
+2948889085,Dont Paint It Black White-Box Explanations for Deep Learning in Computer Security,2019,0,1,2,0,163924767,Christian Wressnegger,0,0.05940095047987125,0.6960502266457337
+2951199893,Towards Vulnerability Discovery Using Staged Program Analysis,2015,23,0,1,0,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2966840685,Misleading Authorship Attribution of Source Code using Adversarial Learning,2019,0,9,1,0,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082
+2993087649,Political Elections Under (Social) Fire Analysis and Detection of Propaganda on Twitter,2019,23,0,2,0,163924767,Christian Wressnegger,0,-0.18618689656946605,0.637946401295037
+2967058495,Thieves in the Browser Web-based Cryptojacking in the Wild,2019,22,2,2,0,163924767,Christian Wressnegger,0,-0.5480288562344026,0.561664494561717
+2969226948,False Sense of Security A Study on the Effectivity of Jailbreak Detection in Banking Apps,2019,40,0,2,0,163924767,Christian Wressnegger,0,-0.5530861437885858,-0.004176666300269333
+2977473074,On the Security and Applicability of Fragile Camera Fingerprints,2019,26,1,1,0,1912135871,Konrad Rieck,0,-0.49312456016742445,0.5043490214442653
+2985186596,4 8102 Working Group -- Attack Taxonomy,2008,0,0,2,0,59249629,Engin Kirda,0,-0.17306912860721702,0.6429326548014207
+3011937245,Backdooring and Poisoning Neural Networks with Image-Scaling Attacks,2020,20,1,1,0,1912135871,Konrad Rieck,0,-0.0420458429239909,0.2377999617278665
+3020403113,Adversarial Preprocessing Understanding and Preventing Image-Scaling Attacks in Machine Learning,2020,0,1,1,0,1912135871,Konrad Rieck,0,0.0040557659796233,0.2757546058061082

@@ -1,0 +1,79 @@
+190771126,Supporting Timing Constraints and Security Requirements in Real-Time Databases,1994,0,1,2,1.0,2087079312,Ravi Mukkamala,0,0.7407009648826527,0.8366342673149179
+93995864,Recovery in Openingres,1998,0,0,2,0.379997,2297758613,Vijay Kumar,0,-0.0041099411153885,0.0447066884760059
+26245315,Recovery in Informix,1998,0,0,2,0.379997,2297758613,Vijay Kumar,0,1.0302710066289535,0.3627005819255986
+197059898,Priority-Driven Secure Multiversion Locking Protocol for Real-Time Secure Database Systems,1997,8,5,3,0.0,2127546443,Chanjung Park,0,1.5710478007138893,2.1318856573547187
+129374938,ORDER A Dynamic Replication Algorithm for Periodic Transactions in Distributed Real-Time Databases,2004,17,18,4,0.0,1584180610,Andrew A. Aslinger,0,0.9923058408918366,0.8349517078936558
+61870854,QoS Management in Distributed Real-Time Databases,2003,39,6,4,0.0,2030977062,John A. Stankovic,0,0.8080572770243316,-0.30336062272682235
+130314215,Distributed Real-Time Database Systems Prototyping and Performance Evaluation,1989,0,0,1,1.0,2401676173,Sang H. Son,0,1.8712426537223195,1.8965057792010314
+148274938,Approaches to design of real-time database systems,1989,12,13,1,1.0,2401676173,Sang H. Son,0,2.5597085202631003,1.0917279466635268
+148619112,Real-Time Replication Control for Distributed Database Systems Algorithms and Their Performance,1995,10,24,2,0.0,2099622355,Fengjie Zhang,0,1.905340580482653,1.1765060755331433
+50149830,A Token-Based Resiliency Control Scheme in Replicated Database Systems,1986,0,13,1,1.0,2401676173,Sang H. Son,0,-0.0041099411153885,0.0447066884760059
+1514003590,Integrating a database with real-time computing systems,1991,16,1,1,1.0,2401676173,Sang H. Son,0,1.8658282014477814,0.44052182833779463
+1488447993,A Hierarchical Export/Import Scheme for Data Sharing in a Federated Distributed Database System,1991,16,1,1,1.0,2401676173,Sang H. Son,0,0.23199174548422644,0.1379859822164871
+1542268443,An adaptive policy for improved timeliness in secure database systems,1996,11,8,3,1.0,2142988059,R. David,0,1.502857972279214,1.6630184138546507
+1570165220,Developing a Database System for Time-Critical Applications,1993,14,2,3,1.0,2150199490,Young Kuk Kim,0,2.2114946083323264,0.7373405561877987
+1534544034,Real-Time Databases (Panel),1991,0,2,3,0.0,323797451,Krithi Ramamritham,0,-0.0041099411153885,0.0447066884760059
+1508282494,Optimistic database-driven distributed real-time simulation (05F-SIW-031),2005,10,0,3,0.0,131970299,Marcus Brohede,0,-0.0041099411153885,0.0447066884760059
+1539055456,Implementing a Distributed Real-Time Database Manager,1991,16,5,1,1.0,2401676173,Sang H. Son,0,1.9379289026613082,0.5610050089032413
+1512276012,On Using Real-Time Static Locking Protocols for DistributedReal-Time Databases,1997,43,24,3,1.0,2110248674,Sheung Lun Hung,0,2.1322263933727834,2.48469956199242
+1566496316,Predictability and consistency in real-time database systems,1995,0,29,2,1.0,2150199490,Young Kuk Kim,0,2.4692236188542434,2.694708343675839
+1575840005,Real-Time Database Systems Issues and Applications,1997,0,67,3,0.367714,298297050,Azer Bestavros,0,0.2570175582679867,0.0971709872235535
+1558580830,Supporting the Requirements for Multilevel Secure and Real-Time Databases in Distributed Environments,1997,16,8,2,0.0,2131778512,Craig W. Chaney,0,2.2114646327628904,0.5313323650605966
+1955173912,Performance evaluation of multiversion database systems,1990,8,8,2,0.0,2269220065,N. Haghighi,0,1.129713632415673,1.4628450038790464
+1911871920,Partial security policies to support timeliness in secure real-time databases,1998,13,20,2,0.0,2131778512,Craig W. Chaney,0,-0.0041099411153885,0.0447066884760059
+1857363238,QoS management in replicated real-time databases,2003,25,25,4,0.0,2030977062,John A. Stankovic,0,0.9876714547925056,0.7432723859802527
+1859153438,System Issues in Supporting Active Real-Time Databases,1996,0,1,1,1.0,2401676173,Sang H. Son,0,1.4227650464227775,0.8598489512894328
+1653536085,An integrated real-time locking protocol,1992,14,40,2,0.714286,2148457208,Seog Park,0,1.8959639574362124,1.868647265888013
+1781633335,A transaction-based temporal data model for real-time databases,1997,9,4,1,1.0,2401676173,Sang H. Son,0,1.205840758278372,0.46107546373495606
+1950016158,Issues in developing object-oriented database systems for real-time applications,1994,22,11,1,1.0,2401676173,Sang H. Son,0,2.6275053939706576,0.5894513292930947
+1624790089,An adaptive checkpointing scheme for distributed databases with mixed types of transactions,1988,18,3,1,1.0,2401676173,Sang H. Son,0,0.6842774115802057,0.6280909256571566
+1972285203,Scheduling transactions with stringent real-time constraints,2000,28,8,3,1.0,2110248674,Sheung Lun Hung,0,2.466604452876353,2.232153937079681
+2002247490,Report on first international workshop on real-time database systems,1996,0,3,3,0.367714,298297050,Azer Bestavros,0,2.198509531189239,0.8963466022180928
+2009850046,Improving timeliness in real-time secure database systems,1996,20,17,3,1.0,2142988059,R. David,0,0.4558848815650071,0.5207451267137646
+2013727539,A Token-Based Synchronization Scheme Using Epsilon-Serializability and Its Performance for Real-Time Distributed Database Systems,1993,7,2,1,1.0,2401676173,Sang H. Son,0,1.5703110903635698,1.1662608484368673
+2026173675,An Optimistic Concurrency Control Protocol for Real-Time Database Systems,1993,21,9,1,1.0,2401676173,Sang H. Son,0,2.249861393811886,2.7236727220665613
+2024442930,Synchronization of replicated data in distributed systems,1987,33,22,1,1.0,2401676173,Sang H. Son,0,1.9814779690732514,2.277118467518695
+2019278165,A token-based synchronization scheme for distributed real-time databases,1993,12,30,1,1.0,2401676173,Sang H. Son,0,1.1581664280567925,1.1898506082914264
+2020475449,An algorithm for non-interfering checkpoints and its practically in distributed databse systems,1989,17,7,1,1.0,2401676173,Sang H. Son,0,0.7042807935496086,0.6861218088650214
+2065241227,Replicated data management in distributed database systems,1988,17,35,1,1.0,2401676173,Sang H. Son,0,0.34916434780609823,0.07372360488460208
+2100888010,An Approach Towards Predictable Real-Time Transaction Processing,1993,8,15,2,1.0,2150199490,Young Kuk Kim,0,2.6264647154265637,2.2816208461536487
+2103868445,I/O-Aware Deadline Miss Ratio Management in Real-Time Embedded Databases,2007,28,28,4,1.0,49026175,Mehdi Amirijoo,0,-0.0041099411153885,0.0447066884760059
+2101321167,Event-triggered Location Aware Data Services in Mobile WSNs,2008,10,1,2,0.0,2137728911,Yafeng Wu,0,-0.15344373347936774,-0.1817010960536725
+2098881061,Architecture and object model for distributed object-oriented real-time databases,1998,12,20,2,0.444894,2030977062,John A. Stankovic,0,0.646787393381534,-0.05431609335731944
+2138000415,On real-time databases concurrency control and scheduling,1994,73,153,4,0.0,2095612124,Kun Lung Wu,0,2.9099356303550277,3.265786187940479
+2129053023,Specification and management of QoS in imprecise real-time databases,2003,13,20,2,1.0,49026175,Mehdi Amirijoo,0,0.7042807935496086,0.6861218088650214
+2129204439,READS a prototyping environment for real-time active applications,1997,12,4,3,0.0,2119941083,Tony Lee,0,1.1202348603549,0.788385312402499
+2142157047,Distributed Checkpointing for Globally Consistent States of Databases,1989,23,29,2,0.0,144484373,Ashok K. Agrawala,0,2.087952204794773,1.6042368317818534
+2124304549,Access control of XML documents considering update operations,2003,16,51,3,0.152758,2148457208,Seog Park,0,2.3848527704713764,-0.911835474583651
+2121409173,Service differentiation in real-time main memory databases,2002,18,38,3,0.0,2030977062,John A. Stankovic,0,0.7762187170571436,0.45319980135358695
+2112734010,Misconceptions about real-time databases,1999,14,118,2,0.444894,2030977062,John A. Stankovic,0,1.4074162871160676,-0.11396726200456257
+2130349191,Performance evaluation of a firm real-time database system,1995,10,4,2,1.0,2150199490,Young Kuk Kim,0,1.3866946041606238,0.27914579645297666
+2121941088,Concurrency control in real-time databases by dynamic adjustment of serialization order,1990,19,127,1,1.0,2401676173,Sang H. Son,0,2.631025267012074,3.448444456413233
+2110232288,Managing deadline miss ratio and sensor data freshness in real-time databases,2004,21,121,3,0.0,2030977062,John A. Stankovic,0,0.41139385111433985,0.2500784158514863
+2136903747,Specification and management of QoS in real-time databases supporting imprecise computations,2006,32,95,2,1.0,49026175,Mehdi Amirijoo,0,-0.15344373347936774,-0.1817010960536725
+2116358401,Power- and time-aware buffer cache management for real-time embedded databases,2012,30,6,2,1.0,2115948042,Woochul Kang,0,0.0308327850459284,-0.25535531074969864
+2140073220,RTDB a real-time database manager for time-critical applications,1991,14,5,2,0.0,2277852496,M.S. Poris,0,1.6690064930398978,0.4258052757951172
+2134151046,Resolving conflicts with committing transactions in distributed real-time databases,1997,10,7,4,0.0,2118770387,Chung Leung Pang,0,2.4474448221519527,2.719847772312561
+2125803941,Power-Aware Data Buffer Cache Management in Real-Time Embedded Databases,2008,18,3,3,0.0,2030977062,John A. Stankovic,0,0.0308327850459284,-0.25535531074969864
+2125991052,QoS management in Web-based real-time data services,2002,37,13,2,1.0,2320247275,Kyoung Don Kang,0,-0.6355946519211927,-0.5845839869005123
+2137949962,Real-time database systems present and future,1995,14,2,1,1.0,2401676173,Sang H. Son,0,2.664497094039012,0.877090233576316
+2153171836,Real-time databases characteristics and issues,1994,13,5,2,1.0,2101757531,Kwei Jay Lin,0,2.1002723241931704,2.544996175677656
+2150250966,Maintaining data freshness in distributed real-time databases,2004,14,13,3,0.0,2030977062,John A. Stankovic,0,1.1077300955992277,1.1119038526001315
+2166036394,Error-driven QoS management in imprecise real-time databases,2003,15,27,2,1.0,49026175,Mehdi Amirijoo,0,0.38652227347964985,0.16741913560762345
+2157966794,Real-time transaction processing pessimistic optimistic and hybrid approaches,1992,4,2,1,1.0,2401676173,Sang H. Son,0,2.378064854518905,3.0148668065832025
+2170199840,Supporting security requirements in multilevel real-time databases,1995,13,31,3,1.0,2087079312,Ravi Mukkamala,0,0.9408492071308692,0.912959594064505
+2146301186,A QoS-sensitive approach for timeliness and freshness guarantees in real-time databases,2002,27,90,4,0.0,1970017610,Tarek Abdelzaher,0,0.4549911780836163,0.21198983120761472
+2167439837,Chronos Feedback Control of a Real Database System Performance,2007,28,51,3,0.0,2160581922,Jisu Oh,0,1.3840132575335737,0.4085460446801538
+2155511297,Differentiated Real-Time Data Services for E-Commerce Applications,2003,28,21,3,0.0,2030977062,John A. Stankovic,0,-0.08966705801398582,-0.10895950980498414
+2158575548,A STUDY OF PRIORITY COGNIZANCE IN CONFLICT RESOLUTION FOR FIRM REAL TIME DATABASE SYSTEMS,1997,9,12,4,0.0,312375560,Igor R. Viguier,0,1.5500246118322694,1.7319452650746048
+2158667103,Flexible update management in peer-to-peer database systems,2005,25,11,1,1.0,2401676173,Sang H. Son,0,0.33520403341553373,-0.2013595681655218
+2170844490,Real-Time Databases Issues and Applications (RTDB96 Workshop Report),1996,0,0,2,0.367714,298297050,Azer Bestavros,0,-0.0041099411153885,0.0447066884760059
+2210874231,A secure concurrency control protocol for real-time databases,1996,14,19,2,1.0,2087079312,Ravi Mukkamala,0,2.6672929321581065,3.1464697302578184
+2205346586,Recovery in Sybase,1998,0,0,2,0.379997,2297758613,Vijay Kumar,0,0.33884975146430507,0.2678025587894068
+2410435719,Issues in real-time database systems,1992,0,0,1,1.0,2401676173,Sang H. Son,0,2.532984231989374,1.4726060178292224
+2526009433,Supporting real-time transactions in distributed time-critical applications issues and experiences,1995,0,0,3,0.0,2112265340,M.R. Lehr,0,0.24145375283221612,-0.15352772600352535
+2714433801,New Paradigms for Real-Time Database Systems,1991,4,9,2,0.0,2134439038,Robert P. Cook,0,1.7893171793184135,0.31207034930177807
+2776141377,Multiple Date Versions in Database Systems,2012,0,0,1,1.0,2401676173,Sang H. Son,0,-0.0041099411153885,0.0447066884760059
+2911897421,Database Recovery,1998,28,8,1,1.0,2401676173,Sang H. Son,0,-0.0041099411153885,0.0447066884760059
+2911921086,Towards Efficient Sharing A Usage Balancing Mechanism for Bike Sharing Systems,2019,23,0,4,0.0,2145776018,Desheng Zhang,0,-0.0041099411153885,0.0447066884760059
+2983094809,An Adaptive Policy for Improved Timeliness in Secure Database Systems,1995,0,12,3,1.0,2142988059,R. David,0,-0.0041099411153885,0.0447066884760059

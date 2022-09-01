@@ -1,0 +1,107 @@
+87684829,Static Universe Type Inference,2005,0,6,1,1.0,2285904575,Peter MÃ¼ller,0,0.6273053639239284,-0.08837589981316707
+105422765,Formal Specification Techniques for Object-Oriented Programs,1997,7,4,1,1.0,2285904575,Peter MÃ¼ller,0,-0.03900739418052204,-0.8765012861816964
+143759661,Universe Type System for Scala,2007,20,5,2,1.0,2021751513,Werner Dietl,0,-0.9052543684266432,-0.3892255197518621
+127773936,Collaborative Verification and Testing with Explicit Assumptions,2012,26,35,3,1.0,56272107,Valentin WÃ¼stholz,0,0.43051224503016083,0.1872209563444374
+9127949,Sound reasoning about unchecked exceptions soundness proof,2007,0,2,3,0.0,233250515,Frank Piessens,0,-0.19537854269507235,0.0154707632042657
+49062807,Technologies for finding errors in object-oriented software,2003,45,0,3,0.0543665,710865586,K. Rustan M. Leino,0,0.7273278776551556,-0.5774429680818461
+169148756,Automatic inference of access permissions,2012,33,15,2,0.625,2123743426,Pietro Ferrara,0,-0.26626686891811785,0.3563514303091546
+33266372,Runtime Universe Type Inference,2007,28,15,2,1.0,2021751513,Werner Dietl,0,-0.150310116350839,-0.009666420928635178
+354781030,Freedom before commitment,2010,13,1,2,0.804598,2122918521,Alexander J. Summers,0,-0.27074883238763403,0.15926750618553337
+1550200770,A verification methodology for model fields,2006,23,68,2,0.0270881,710865586,K. Rustan M. Leino,0,-0.190749686436256,-0.0501968117924195
+1569479239,Deadlock-Free channels and locks,2010,42,44,3,0.0,710865586,K. Rustan M. Leino,0,0.33702242287628076,-0.10554562223265794
+1542625757,Modular specification and verification techniques for object-oriented software components,2000,0,45,1,1.0,2285904575,Peter MÃ¼ller,0,3.2775802832793333,-1.2637626300560305
+1525231951,Modular Specification and Verification of Delegation with SMT Solvers,2011,30,3,2,1.0,1968031708,Ioannis T. Kassios,0,1.2303805650300548,-0.4228260694271747
+1570380538,Flexible Immutability with Frozen Objects,2008,29,24,3,0.0,710865586,K. Rustan M. Leino,0,-0.1279604836402935,0.36808784632145164
+1525290190,Checking Well-Formedness of Pure-Method Specifications,2008,27,29,3,1.0,2048134860,ÃdÃ¡m Darvas,0,-0.39389064455086054,-0.18435008957170695
+1534342288,Reasoning about Object Structures Using Ownership,2005,42,8,1,1.0,2285904575,Peter MÃ¼ller,0,1.1801806312136465,-0.17030774551339642
+1571072431,Reasoning about function objects,2010,39,18,5,1.0,337174643,Martin Nordio,0,-0.42887155489588896,0.24979827292596476
+1573044584,Object Invariants in Dynamic Contexts,2004,31,201,2,0.0543665,710865586,K. Rustan M. Leino,0,0.6950641998881885,-0.44878623613372426
+1573258001,A Programming Logic for Sequential Java,1999,12,125,1,1.0,2285904575,Peter MÃ¼ller,0,0.1408784417557488,-0.714144677666655
+1555179958,A Basis for Verifying Multi-threaded Programs,2009,23,114,2,0.0,710865586,K. Rustan M. Leino,0,0.3075727092591338,0.4617565334843077
+1555327762,Proof-Transforming Compilation of Eiffel Programs,2008,13,12,3,1.0,337174643,Martin Nordio,0,-0.6964516681900389,-0.1888017414501644
+1546460551,Formal techniques for java-like programs (FTfJP),2004,99,2,5,0.0,212874215,Alessandro Coglio,0,-0.5536686537030495,0.011641493330294302
+1502550949,Generic universe types,2007,31,90,3,0.0,152419205,Sophia Drossopoulou,0,-0.2745733602727142,0.10946579656535554
+1556327758,Universe Types for Topology and Encapsulation,2008,25,24,6,0.0,88778928,Adrian Francalanza,0,-0.24521270442264817,-0.4227314209491932
+1566114438,A type system for checking applet isolation in java card,2004,24,3,2,1.0,2021751513,Werner Dietl,0,-2.506557599795114,-0.16697067963583487
+1575910569,Proving consistency and completeness of model classes using theory interpretation,2010,30,3,2,1.0,2048134860,ÃdÃ¡m Darvas,0,-0.18907899838243306,-0.11545843353080833
+1928992408,Using debuggers to understand failed verification attempts,2011,15,19,2,0.0,1936026824,Joseph N. Ruskiewicz,0,-0.11613990738229558,0.1322186205003991
+1604446144,Alias Control Is Crucial for Modular Verification of Object-Oriented Programs,1999,0,0,1,1.0,2285904575,Peter MÃ¼ller,0,2.1934557038321856,-1.0114475354663135
+1596016900,A Logic for Bytecode,2004,15,19,2,1.0,2090162938,Fabian Bannwart,0,-0.6083664040269097,0.059491813300612095
+1800825859,Making Executable Interface Specifications More Expressive,1999,7,5,1,1.0,2285904575,Peter MÃ¼ller,0,-1.2738071416074066,0.06768062773424194
+1587425253,Verification of Concurrent Programs with Chalice,2009,55,69,3,0.0,710865586,K. Rustan M. Leino,0,-1.8505275560288277,-0.19779425091777467
+1597724779,Verification condition generation for permission logics with abstract predicates and abstraction functions,2013,27,15,3,1.0,1968031708,Ioannis T. Kassios,0,0.1152828579188653,0.07357827115944748
+1583769822,Logical foundations for typed object-oriented languages,1998,8,38,1,1.0,2285904575,Peter MÃ¼ller,0,-0.2005806532160562,-0.11382577888531183
+1788459607,Specification and verification of closures,2010,22,1,2,1.0,1968031708,Ioannis T. Kassios,0,1.5632245913098688,-0.8916426182311088
+1585228317,A Sound and Complete Program Logic for Eiffel,2009,24,20,4,1.0,337174643,Martin Nordio,0,1.033349884614037,-1.9802988786615288
+1966404556,The need for flexible object invariants,2009,14,11,3,0.0,152419205,Sophia Drossopoulou,0,0.05336583867562336,-0.6891393589729643
+1984580286,A Program Logic for Bytecode,2005,26,43,2,1.0,2090162938,Fabian Bannwart,0,-0.9778070945250449,-1.1967525578996911
+1977978965,Specification and verification challenges for sequential object-oriented programs,2007,126,108,2,0.0,710865586,K. Rustan M. Leino,0,-0.29367040001407524,0.03802343906630111
+1978303100,Universes Lightweight Ownership for JML,2005,34,149,2,1.0,2021751513,Werner Dietl,0,-1.3176508482024991,-0.016574910736676534
+1998838326,Specification and verification the Spec# experience,2011,29,115,6,0.0,710865586,K. Rustan M. Leino,0,-0.3432139112763826,-0.3915491487528042
+2006290442,Ownership transfer in universe types,2007,41,84,2,0.0,2072859336,Arsenii Rudich,0,-0.131355943655358,-0.15374618296729367
+2027642766,Proof-transforming compilation of programs with abrupt termination,2007,18,22,2,1.0,337174643,Martin Nordio,0,-1.8962349185088865,-0.10187390113638593
+2010432489,Customizing the visualization and interaction for embedded domain-specific languages in a structured editor,2013,5,6,2,1.0,2067709785,Dimitar Asenov,0,1.914049471359262,-0.5217764848669081
+2036603632,Reasoning About Method Calls in Interface Specifications,2006,18,47,2,1.0,2048134860,ÃdÃ¡m Darvas,0,0.4692054126477579,-0.45643313785069806
+2051083289,Static analysis for independent app developers,2014,29,5,2,0.625,2123743426,Pietro Ferrara,0,0.7062870673500034,-0.006876118932160687
+2068984860,Separating ownership topology and encapsulation with generic universe types,2011,121,10,3,0.0,152419205,Sophia Drossopoulou,0,0.3721483503922797,-0.1540430428265128
+2096944412,Modular Verification of Finite Blocking in Non-terminating Programs,2015,24,10,2,0.0,2096096309,Pontus BostrÃ¶m,0,-0.0183024870971178,0.0680118484996777
+2088103754,Constraint Semantics for Abstract Read Permissions,2014,13,4,4,0.0,1987401740,John Boyland,0,-0.5409215824476643,0.07822415035931024
+2103591546,Modular invariants for layered object structures,2006,55,109,1,1.0,2285904575,Peter MÃ¼ller,0,0.06787343950288463,-0.6034258308279405
+2081472149,Formal Translation of Bytecode into BoogiePL,2007,13,25,2,1.0,2117370693,Hermann Lehner,0,-1.0544376587567141,-0.93643075295954
+2095907349,Behavioral interface specification languages,2012,322,107,4,0.0,710865586,K. Rustan M. Leino,0,2.1511384683557995,-0.8567831449063719
+2101911818,Fractional permissions without the fractions,2011,14,17,3,0.0,710865586,K. Rustan M. Leino,0,-0.3866104847729945,-0.15924563252102436
+2101928793,Modular specification of frame properties in JML,2003,29,60,1,1.0,2285904575,Peter MÃ¼ller,0,-0.8353192755343483,-0.3168979259541708
+2096371298,Universe-Type-Based Verification Techniques for Mutable Static Fields and Methods,2009,11,3,3,0.0,152419205,Sophia Drossopoulou,0,-0.1164726804531344,0.019252515865476
+2141411037,Faithful mapping of model classes to mathematical structures,2008,16,6,2,1.0,2048134860,ÃdÃ¡m Darvas,0,-0.9293976941665325,-0.22779602466832882
+2126491991,Changing programs correctly refactoring with specifications,2006,23,17,2,1.0,2090162938,Fabian Bannwart,0,0.3738432365726232,0.21716137495628043
+2130684283,Abstract Read Permissions Fractional Permissions without the Fractions,2013,25,22,3,0.0,710865586,K. Rustan M. Leino,0,0.09712046372591923,0.027485719456561197
+2122291521,Modular Specification and Verification of Object-Oriented Programs,2002,0,198,1,1.0,2285904575,Peter MÃ¼ller,0,1.6673809570953315,-0.6452827049291924
+2122328859,Sound reasoning about unchecked exceptions,2007,22,12,3,0.0,233250515,Frank Piessens,0,0.17704139169673722,-0.2407159286519766
+2131569515,Efficient runtime assertion checking of assignable clauses with datagroups,2010,14,3,2,1.0,2117370693,Hermann Lehner,0,-1.7251223077190407,-0.16976405992679314
+2159484187,Formal Techniques for Java Programs,1999,79,15,4,0.0,152419205,Sophia Drossopoulou,0,0.14185370000206654,-0.024862573973299384
+2162794851,Special Issue Formal Techniques for Java-like Programs,2004,0,0,1,1.0,2285904575,Peter MÃ¼ller,0,-0.5536686537030495,0.011641493330294302
+2157220115,A Unified Framework for Verification Techniques for Object Invariants,2008,39,38,4,0.0,88778928,Adrian Francalanza,0,-0.16341448322287117,0.13883889050914897
+2152137362,Object ownership in program verification,2013,82,13,2,0.868814,2021751513,Werner Dietl,0,-0.3285716530410941,0.32870130286016735
+2155102815,Using the spec# language methodology and tools to write bug-free programs,2010,16,29,2,0.0,710865586,K. Rustan M. Leino,0,-0.28906533421219927,-0.0012352449015916478
+2188422663,Modular Specification of Frame Properties,2001,12,9,2,0.0,2188345230,Arnd Poetzsch Heter,0,-0.973267819484924,0.24492101496683705
+2149870759,Faithful mapping of model classes to mathematical structures,2007,33,3,2,1.0,2048134860,ÃdÃ¡m Darvas,0,-1.4865639856328803,-0.23833687758727432
+2147051981,Formal Methods-Based Tools for Race Deadlock and Other Errors,2011,26,1,1,1.0,2285904575,Peter MÃ¼ller,0,-0.0858108722570497,0.3118956755355936
+2255136059,Comparing verification condition generation with symbolic execution an experience report,2012,40,12,3,1.0,1968031708,Ioannis T. Kassios,0,0.8946054952861285,0.2905111097765663
+2208671064,Tunable static inference for generic universe types,2011,39,28,3,1.0,2021751513,Werner Dietl,0,-2.1133362388869337,-0.17074192072551758
+2304255290,A Formalization of JML in the Coq Proof System,2009,10,1,2,1.0,2117370693,Hermann Lehner,0,-0.3546678148124779,0.9788071742219311
+2294434616,Guiding dynamic symbolic execution toward unverified program executions,2016,44,32,3,1.0,56272107,Valentin WÃ¼stholz,0,2.239194108384012,-0.4181640740463758
+2289508092,Automatic Verification of Iterated Separating Conjunctions using Symbolic Execution,2016,21,1,3,0.5883,2122918521,Alexander J. Summers,0,0.2126746736328342,0.08905058631354551
+2294722445,Viper A Verification Infrastructure for Permission-Based Reasoning,2016,43,66,3,0.5883,2122918521,Alexander J. Summers,0,2.153967250929453,-0.8085611183455057
+2401903124,Using the Spec# Language Methodology and Tools to Write Bug-Free Programs,2008,0,3,2,0.0,710865586,K. Rustan M. Leino,0,-0.15502540333846734,0.28798378557164894
+2489823897,A verification methodology for model fields,2006,0,0,2,0.0270881,710865586,K. Rustan M. Leino,0,-0.12830404044152469,-0.25620550913450113
+2486375282,Integrated Environment for Diagnosing Verification Errors,2016,42,10,4,1.0,56272107,Valentin WÃ¼stholz,0,0.6623051410582647,0.06111997053713636
+2577957384,Actor Services,2016,42,7,2,0.5883,2122918521,Alexander J. Summers,0,-0.03741645626869398,-0.5065762591379023
+2585406841,A type system for checking applet isolation in Java Card,2005,0,9,2,1.0,2021751513,Werner Dietl,0,-2.7787847442919893,-0.1963630951273752
+2597868857,Precise Version Control of Trees with Line-Based Version Control Systems,2017,31,6,2,1.0,2067709785,Dimitar Asenov,0,0.7282254579770228,-1.3688766799940555
+2594374122,Verification condition generation for permission logics with abstract predicates and abstraction functions,2012,0,1,3,1.0,1968031708,Ioannis T. Kassios,0,-0.3617765269436758,0.08013878529629595
+2610574948,Diagnostic Information for Control-Flow Analysis of Workflow Graphs (aka Free-ChoiceWorkflow Nets),2015,0,0,3,0.0,1747272225,Hagen VÃ¶lzer,0,0.7987953372777682,-1.0307706668565075
+2650474419,Formal Techniques for Java-Like Programs (FTfJP04),2004,0,0,5,0.0,212874215,Alessandro Coglio,0,-0.5536686537030495,0.011641493330294302
+2594505044,Using Debuggers to Understand Failed Verification Attempts,2011,0,0,2,0.0,1936026824,Joseph N. Ruskiewicz,0,0.3224553583520318,-0.10971657083681541
+2592015105,Modular invariants for layered object structures,2005,0,12,1,1.0,2285904575,Peter MÃ¼ller,0,-0.31815346093003627,-0.8550478262155947
+2732199723,Formal techniques for Java-like programs,2003,0,11,3,0.0,1998858448,Susan Eisenbach,0,-0.5653469606633037,-0.7837221786709658
+2724569392,An Experimental Evaluation of Deliberate Unsoundness in a Static Program Analyzer,2014,0,0,3,1.0,56272107,Valentin WÃ¼stholz,0,1.701622555469583,-0.45206436143598155
+2605169925,Automating Deductive Verification for Weak-Memory Programs,2018,33,9,2,0.0,2122918521,Alexander J. Summers,0,0.047936547230158166,0.06973424030964309
+2805734589,Programming and Interface Specification Language of JIVE Specification and Design Rationale,1997,0,7,1,1.0,2285904575,Peter MÃ¼ller,0,0.2700532078805928,-0.02212326777331874
+2785797961,Viper A verification infrastructure for permission-based reasoning,2017,0,1,3,0.5883,2122918521,Alexander J. Summers,0,-0.7761388577247117,-0.00036712418643151484
+2795631233,Report from the ECOOP 2004 Workshop on Formal Techniques for Java-Like Programs (FTfJP04),2004,0,0,5,0.0,212874215,Alessandro Coglio,0,-0.5536686537030495,0.011641493330294302
+2795740773,Checking well-formedness of pure-method specifications,2012,0,0,3,1.0,2048134860,ÃdÃ¡m Darvas,0,-0.015760696287542397,0.2452209491435387
+2793004255,Changing programs correctly Refactoring with specifications,2006,0,0,2,1.0,2090162938,Fabian Bannwart,0,-0.01976411320665117,0.16645259202343035
+2796522192,Permission Inference for Array Programs,2018,2,1,3,0.0,2122918521,Alexander J. Summers,0,0.25495350258390165,0.14853141928152813
+2797273612,An Abstract Interpretation Framework for Input Data Usage,2018,33,7,2,0.0,2134096230,Caterina Urban,0,0.17261591389806055,0.05124327197105196
+2797766813,Modular Product Programs,2019,41,0,2,0.0,2222037104,Samuel Hitz,0,0.30941090350671235,-0.8818053530615484
+2883459807,Nagini A Static Verifier for Python,2018,21,5,1,1.0,2285904575,Peter MÃ¼ller,0,0.09631187382007089,-0.26950042898771986
+2898431794,The Binomial Heap Verification Challenge in Viper,2018,21,2,1,1.0,2285904575,Peter MÃ¼ller,0,-0.6045134061595988,-0.04547104294614257
+2902074420,Modular Verification of Finite Blocking in Non-terminating Programs,2015,0,0,2,0.0,2096096309,Pontus BostrÃ¶m,0,-0.24760262842231096,-0.007890806166553637
+2913530642,Leveraging rust types for modular specification and verification,2019,50,4,2,0.0,2122918521,Alexander J. Summers,0,0.4939749995987915,-0.2180792186193906
+2951416506,Automating Deductive Verification for Weak-Memory Programs,2017,0,1,2,0.5883,2122918521,Alexander J. Summers,0,-0.1217377242708426,0.13091877323563075
+2995573473,Modular Product Programs,2018,21,12,2,0.0,2222037104,Samuel Hitz,0,0.4040138920288883,-1.0314496967761748
+2980279709,Modular Verification of Heap Reachability Properties in Separation Logic,2019,21,2,2,0.0,2122918521,Alexander J. Summers,0,-0.4002540719820939,0.1424618935334284
+2968116434,Modular Verification of Heap Reachability Properties in Separation Logic,2019,16,1,2,0.0,2122918521,Alexander J. Summers,0,-0.2802236274218457,0.13603921543354114
+3004482543,Automatically Testing String Solvers,2019,0,2,1,1.0,2285904575,Peter MÃ¼ller,0,-0.1164726804531344,0.019252515865476
+3021647841,Formalizing Proof-Transforming Compilation of Eiffel Programs,2008,0,7,3,1.0,337174643,Martin Nordio,0,2.26930965566093,-0.6925112087728786
+3021675697,Leveraging Rust Types for Modular Specification and Verification,2019,0,0,2,0.0,2122918521,Alexander J. Summers,0,-0.7612305005876666,0.05084957733471377

@@ -1,0 +1,75 @@
+21671321,Data Overload What Can We Do ,2013,0,0,1,1.0,2092532607,Peter M. G. Apers,0,-0.0041099411153885,0.0447066884760059
+90986100,Future research directions Evidence from this conference,1989,0,0,1,1.0,2092532607,Peter M. G. Apers,0,-0.0041099411153885,0.0447066884760059
+226335728,Workflow Management and Database Technology,1999,26,2,2,0.527044,330448013,Paul Grefen,0,0.5587255018772899,1.29359341107695
+152611442,Data Allocation and Distributed Query Processing,1980,0,2,1,1.0,2092532607,Peter M. G. Apers,0,0.7215975991611812,0.3052417628859806
+1488996954,Distributed Global Transaction Support for Workflow Management Applications,1999,15,11,2,0.527044,330448013,Paul Grefen,0,1.8126169988506229,2.1429958862179235
+1515713951,Query processing and data allocation in distributed database systems,1983,0,13,1,1.0,2092532607,Peter M. G. Apers,0,1.1329490143217147,0.3758271407687454
+1515845490,A Framework for Representation Validation and Implementation of Databases Application Semantics,1995,20,2,3,1.0,669255159,Henk Blanken,0,-0.0041099411153885,0.0447066884760059
+1534331942,Neogeography The challenge of channelling large and ill-behaved data streams,2011,22,8,2,0.0966379,673062711,Maurice van Keulen,0,0.2807600744873719,-0.0746967125258062
+1571004265,Advances in Database Technology EDBT 96 5th International Conference on Extending Database Technology Avignon France March 25-29 1996 Proceedings,1996,0,0,2,0.0,551507098,Mokrane Bouzeghoub,0,0.767884809324454,0.05323647174565155
+1491068926,The PRISMA experiment,1991,6,0,1,1.0,2092532607,Peter M. G. Apers,0,-0.0041099411153885,0.0447066884760059
+1482518080,The Mirror MMDBMS Architecture,1999,10,17,2,0.960167,669255159,Henk Blanken,0,0.7500950525717199,0.47330398399324974
+1500159615,Performance Evaluation of Integrity Control in a Parallel Main-Memory Database System,1992,10,3,2,1.0,330448013,Paul Grefen,0,-0.0873632243068517,-0.0824034282341078
+1491535504,Reverse Engineering of Relational Database Applications,1995,11,36,2,1.0,1272715168,Mark W. W. Vermeer,0,1.6991289791396689,0.1728978752468598
+1492123846,Inferring fine-grained data provenance in stream data processing reduced storage cost high accuracy,2011,13,18,2,0.145773,284022206,Andreas Wombacher,0,1.0735453985433923,-0.0746988983024519
+1557806808,Retrieval Performance Experiment with the Webspace Method,2002,13,1,1,1.0,2092532607,Peter M. G. Apers,0,-0.0041099411153885,0.0447066884760059
+1522299970,The Role of Integrity Constraints in Database Interoperation,1996,15,31,2,1.0,1272715168,Mark W. W. Vermeer,0,0.09046881409776997,0.1746297069187755
+1522326001,Integrity Control in Advanced Database Systems,1994,0,4,2,1.0,330448013,Paul Grefen,0,-0.0041099411153885,0.0447066884760059
+1902706178,Optimization of nested queries in a complex object model,1994,12,30,3,0.0,4379218,H.J. Steenhagen,0,1.2198662133902316,0.34484616700527204
+1757466305,Behaviour Specification in Database Interoperation,1997,11,11,2,1.0,1272715168,Mark W. W. Vermeer,0,-1.0485728502165546,0.33434946834759843
+1912206697,Object-Oriented Views of Relational Databases Incorporating Behaviour,1995,0,20,2,1.0,1272715168,Mark W. W. Vermeer,0,1.1846467986224667,0.13009145292916863
+1684916801,Parallelism in a Main-Memory DBMS The Performance of PRISMA/DB,1992,22,50,2,1.0,2053048090,A.N. Wilschut,0,-0.0041099411153885,0.0447066884760059
+1892663663,Two-Layer Transaction Management for Workflow Management Applications,1997,8,42,2,0.71807,330448013,Paul Grefen,0,2.0470267471611945,2.200583751431604
+1602649751,CIRQuL Complex Information Retrieval Query Language,2003,15,1,2,1.0,2037260640,Vojkan Mihajlovic,0,1.5777397523151149,-0.19941884429860787
+2043574035,Global transaction support for workflow management systems from formal specification to practical implementation,2001,46,59,2,0.441943,330448013,Paul Grefen,0,1.6928842195442382,2.060938126126521
+2065212195,Modifying queries on complex objects in database federations,1997,0,0,2,1.0,1272715168,Mark W. W. Vermeer,0,0.845227453548897,0.06848255446796281
+2103029014,Content-based video indexing for the support of digital library search,2002,4,11,3,0.833333,693604545,Menzo Windhouwer,0,-0.34857978327751216,-0.2513987233039086
+2093583339,Data allocation in distributed database systems,1988,35,234,1,1.0,2092532607,Peter M. G. Apers,0,-0.06761368990486659,0.3030265601983017
+2104034604,From Nested-Loop to Join Queries in OODB,1994,19,26,3,0.0,4379218,H.J. Steenhagen,0,0.9918241940345048,0.3045574732223504
+2104947511,A context-aware preference model for database querying in an ambient intelligent environment,2006,16,38,2,0.0,79039487,Arthur H. van Bunningen,0,1.2315904863282077,0.14450599576443282
+2117552003,On the Applicability of Schema Integration Techniques to Database Interoperation,1996,25,21,2,1.0,1272715168,Mark W. W. Vermeer,0,1.4092362612118294,0.23397620082984322
+2126390196,InstantDB Enforcing Timely Degradation of Sensitive Data,2008,13,13,3,0.0,116990960,Philippe Pucheral,0,0.03565810966282755,0.09825506972366725
+2132179218,Specifying global behaviour in database federations,1998,15,2,2,1.0,1272715168,Mark W. W. Vermeer,0,0.7569811941511632,-0.7516173048826075
+2141525843,Content-Based Retrieval in Multimedia Databases Based on Feature Models,1998,15,2,1,1.0,2092532607,Peter M. G. Apers,0,-0.4333530258901283,0.49452933466225657
+2112209510,Ranking Query Results using Context-Aware Preferences,2007,17,15,3,0.0,351104253,Maarten M. Fokkinga,0,1.3048134241781268,0.16590565420481354
+2109748379,Fine-grained provenance inference for a large processing chain with non-materialized intermediate views,2012,18,5,2,0.141499,284022206,Andreas Wombacher,0,0.06359312798975086,0.12617710821554445
+2136435783,Probabilistic Inference of Fine-Grained Data Provenance,2012,17,3,2,0.141499,284022206,Andreas Wombacher,0,-0.0041099411153885,0.0447066884760059
+2106907670,Experiences with IR TOP N Optimization in a Main Memory DBMS Applying `the Database Approach in New Domains,2001,19,7,2,0.903262,669255159,Henk Blanken,0,1.1284329515587825,0.35148091817931115
+2139576103,An Architecture for Nested Transaction Support on Standard Database Systems,1998,14,8,2,0.579067,330448013,Paul Grefen,0,1.8108787704074618,1.6626227007734375
+2113658285,Modelling the Webspace of an intranet,2000,20,6,1,1.0,2092532607,Peter M. G. Apers,0,-1.5065778198075763,-1.4843893896256262
+2125499102,PRISMA a platform for experiments with parallelism,1991,30,8,1,1.0,2092532607,Peter M. G. Apers,0,1.1897002251865567,0.2781855938244813
+2137311730,Information access in multimedia databases based on feature models,2000,24,9,2,0.833333,693604545,Menzo Windhouwer,0,0.119739122485096,0.4583397011045227
+2143509611,Towards Context-Aware Data Management for Ambient Intelligence,2004,27,76,2,0.178571,1983377317,Willem Jonker,0,-0.04325734479394964,0.5666021442445126
+2143626751,Optimisation of Spatial Joins Using Filters,1995,20,5,2,0.797375,275404437,Maurice A. W. Houtsma,0,0.541048792242954,0.14109191976847427
+2128798985,The webspace method on the integration of database technology with multimedia retrieval,2000,24,21,1,1.0,2092532607,Peter M. G. Apers,0,-0.0041099411153885,0.0447066884760059
+2128913083,Parallel query execution in PRISMA/DB,1991,14,9,2,1.0,2053048090,A.N. Wilschut,0,-0.34419268302722084,0.7979393567410562
+2137882073,Score region algebra building a transparent XML-R database,2005,38,20,2,1.0,2037260640,Vojkan Mihajlovic,0,1.6251585447235608,-0.38942557841522685
+2156115774,PRISMA Database Machine A Distributed Main-Memory Approach,1988,2,22,1,1.0,2092532607,Peter M. G. Apers,0,0.8822743262249788,0.20848111042739562
+2171346189,Flexible and scalable digital library search,2001,4,9,1,1.0,2092532607,Peter M. G. Apers,0,0.23010602463502755,-0.3264267451252703
+2165459321,Schema architectures and their relationship to transaction processing in distributed database systems,1991,26,2,2,0.0,797615088,Peter Scheuermann,0,2.029986418903451,0.2504784515096024
+2153460445,Algebraic optimization of recursive queries,1992,32,11,2,0.645092,275404437,Maurice A. W. Houtsma,0,1.5761869667474964,0.273220976176899
+2147667859,Multimedia Databases in Perspective,1997,0,47,3,0.797375,275404437,Maurice A. W. Houtsma,0,-0.0041099411153885,0.0447066884760059
+2144854055,Integrity control in relational database systems an overview,1993,81,79,2,0.975853,330448013,Paul Grefen,0,0.8269077510305136,0.1342919086557332
+2153894870,The Identification Problem A Description,2012,12,1,3,0.0,98683050,Juan Amiguet Vercher,0,-0.08869932448301443,-0.32278495290819276
+2151197771,Parallel evaluation of multi-join queries,1995,32,68,2,1.0,2053048090,A.N. Wilschut,0,-0.5537560892303303,0.3709619102219098
+2145655634,Facilitating fine grained data provenance using temporal data model,2010,12,18,2,0.145773,284022206,Andreas Wombacher,0,0.5158914756768602,-0.18972868002223514
+2170429649,Integrating Organisational and Transactional Aspects of Cooperative Activities,1997,28,0,1,1.0,2092532607,Peter M. G. Apers,0,1.4022918835003575,1.562182562553965
+2164490398,Parallel handling of integrity constraints,1991,16,4,2,1.0,330448013,Paul Grefen,0,1.3234133761545526,0.5832660105506394
+2161565100,Database research at the University of Twente,1993,0,1,4,0.797375,275404437,Maurice A. W. Houtsma,0,0.09815095970784933,-0.6892466570997174
+2495383882,Advances in Database Technology â€” EDBT 96,1996,0,156,2,0.0,551507098,Mokrane Bouzeghoub,0,-0.0041099411153885,0.0447066884760059
+2557818458,FACILITATING INTERDISCIPLINARY SCIENCES BY THE INTEGRATION OF A CLOSi-BASED DATABASE WITH BIO-METADATA,2002,2,0,1,1.0,2092532607,Peter M. G. Apers,0,0.9154389549345449,0.23241760515602808
+2521642818,Content-based retrieval in multimedia databases based on feature models,1999,0,3,1,1.0,2092532607,Peter M. G. Apers,0,-0.0041099411153885,0.0447066884760059
+2594147297,A context-aware preference model for database querying in an ambient intelligent environment,2006,0,0,2,0.0,79039487,Arthur H. van Bunningen,0,0.5325669973310596,0.09709227568458595
+2640366452,VLDB Journal Editorial,2002,0,0,3,0.0,519054157,Stefano Ceri,0,-0.25609130579317646,0.2785941556746898
+2736969064,Impress/UT-soft-D41-001-R1 Database Design Tool deliverable S41,1994,0,0,3,1.0,669255159,Henk Blanken,0,0.541048792242954,0.14109191976847427
+2737046357,Experiences with IR TOP Optimization in a Main Memory DBMS,2001,0,0,2,0.903262,669255159,Henk Blanken,0,-0.0041099411153885,0.0447066884760059
+2752906916,Integrity Constraint Enforcement through Transaction Modification,1991,0,3,2,1.0,330448013,Paul Grefen,0,0.19652149694803792,0.23180253400679995
+2744879840,An Architecture for Nested Transaction Support on Standard Database Systems,1998,0,9,2,0.579067,330448013,Paul Grefen,0,2.119865739350761,1.7798834560699295
+2737973334,Design and Specification of WIDE Transaction Management Version 1,1996,0,0,2,1.0,330448013,Paul Grefen,0,2.057907873584589,1.9704351410560506
+2745076596,Distributed Global Transaction Support for Workflow Management Applications,1999,0,12,2,0.527044,330448013,Paul Grefen,0,1.8126169988506229,2.1429958862179235
+2745805821,Facilitating interdiciplinary sciences by the integration of a clos(i) based database with bio - metadata ISPRS commission IV WG IV-2,2002,0,0,1,1.0,2092532607,Peter M. G. Apers,0,-0.34857978327751216,-0.2513987233039086
+2738938622,Requirements for LBO transaction,1996,0,0,3,1.0,330448013,Paul Grefen,0,0.38009049917121435,0.45246057348231067
+2739337990,Transaction Models an overview,1996,0,0,3,1.0,330448013,Paul Grefen,0,1.806711478514251,1.9629003782007861
+2747299691,Score Region Algebra Building a Transparent XML-IR Database,2005,0,1,2,1.0,2037260640,Vojkan Mihajlovic,0,1.6251585447235608,-0.38942557841522685
+2747975472,Large-scale interoperability of legacy object bases,1995,0,0,1,1.0,2092532607,Peter M. G. Apers,0,0.4337513914617648,-0.030940431688758745
+2915063781,Proceedings of the 27th International Conference on Very Large Data Bases,2001,0,0,5,0.0,43892785,Stefano Paraboschi,0,-0.0041099411153885,0.0447066884760059

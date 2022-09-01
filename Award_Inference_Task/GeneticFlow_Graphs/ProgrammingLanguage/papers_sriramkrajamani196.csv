@@ -1,0 +1,78 @@
+189597393,EON Modeling and Analyzing Access Control Systems with Logic Programs,2008,0,4,3,0.0,1961305742,Ganesan Ramalingam,0,-0.1164726804531344,0.019252515865476
+74242707,Boolean Programs A Model and Process for Software Analysis,2000,2,128,1,1.0,2083764764,Sriram K. Rajamani,0,0.7948185804660238,-0.4825132927888453
+59435695,Generating Abstract Explanations of Spurious Counterexamples in C Programs,2002,9,58,1,1.0,2083764764,Sriram K. Rajamani,0,0.09872368087585814,-0.1538615330629161
+29585317,Runtime Verification of Object Invariants with Guarantee,2008,0,0,1,1.0,2083764764,Sriram K. Rajamani,0,3.492099913979173,-0.9420093913607483
+201784039,SLIC A Specification Language for Interface Checking (of C),2002,0,94,1,1.0,2083764764,Sriram K. Rajamani,0,1.1768691674452143,-0.463765417914483
+1480105416,Computer aided verification 17th International Conference CAV 2005 Edinburgh Scotland UK July 6-10 2005 proceedings,2005,0,0,2,0.0,202235199,Kousha Etessami,0,0.14867504994439798,-0.36373335046281324
+1490498985,System and method for generating a predicate abstraction of a program,2005,16,36,1,1.0,2083764764,Sriram K. Rajamani,0,0.020699574582294284,0.45442300911850597
+1570829627,Static and dynamic analysis better together,2007,3,1,1,1.0,2083764764,Sriram K. Rajamani,0,1.1747896264329611,-1.1148463895249299
+1526056075,Boolean and Cartesian Abstraction for Model Checking C Programs,2001,0,3,1,1.0,2083764764,Sriram K. Rajamani,0,0.07935638595983423,0.44784522021454826
+1535237014,The SLAM Toolkit,2001,4,266,1,1.0,2083764764,Sriram K. Rajamani,0,1.0211291554149595,0.020144174163548228
+1535449473,Symbolic Exploration of transition Hierarchies,1998,16,14,2,0.0,689646243,Rajeev Alur,0,-0.31783719782501263,0.176798208403546
+1518792857,Controlling Non-determinism for Semantic Guarantees,2008,4,5,4,0.0,732008646,Venkatesh Prasad Ranganath,0,0.0176274387439286,0.3343512547355889
+1558367238,Runtime Monitoring of Object Invariants with Guarantee,2008,18,5,1,1.0,2083764764,Sriram K. Rajamani,0,1.3285622221041804,-0.38563024255464695
+1810198311,Parameterized Verification of Multithreaded Software Libraries,2001,16,57,1,1.0,2083764764,Sriram K. Rajamani,0,-0.0014199053416441936,-0.38417508262820754
+1691700263,Bebop A Symbolic Model Checker for Boolean Programs,2000,24,361,1,1.0,2083764764,Sriram K. Rajamani,0,0.35292292059309976,-0.41430062034386356
+1591613271,Tests Proofs and Refinements,2008,9,0,1,1.0,2083764764,Sriram K. Rajamani,0,0.09169327840513027,0.521494576495757
+1716084035,Verification Testing and Statistics,2009,5,0,1,1.0,2083764764,Sriram K. Rajamani,0,3.443235605173299,-1.2376615371474198
+1602172600,A Behavioral Module System for the Pi-Calculus,2001,21,37,2,1.0,8417873,Jakob Rehof,0,-0.2414169181509151,-0.12433841991499449
+1950478368,Contracts and futures in an asynchronous programming language,2003,34,23,3,1.0,8417873,Jakob Rehof,0,-0.25469024051464034,-0.9023640785812811
+1622556547,Verified Software Theories Tools Experiments,2010,0,0,2,0.0,188470835,Peter W. OHearn,0,3.189070793743156,-0.9033592170058404
+1788112083,Verification Testing and Statistics,2009,5,1,1,1.0,2083764764,Sriram K. Rajamani,0,3.0306925141848806,-1.1616579007363717
+1791197196,Behavioral analysis for message-passing application programs,2002,75,29,2,1.0,8417873,Jakob Rehof,0,-0.30431894109772634,-0.09185060819217478
+1972433423,P safe asynchronous event-driven programming,2013,20,82,2,0.0,1985363956,Shaz Qadeer,0,0.4211416061418556,-0.6412260184429688
+1992946078,Boolean and Cartesian abstraction for model checking C programs,2003,30,78,1,1.0,2083764764,Sriram K. Rajamani,0,-0.13270574800048293,0.22947730310650563
+2010570907,Parallelizing top-down interprocedural analyses,2012,55,21,3,0.0,1272946479,Aws Albarghouthi,0,0.4537065864169107,-0.3883282142242336
+2052664195,Bebop a path-sensitive interprocedural dataflow engine,2001,15,62,1,1.0,2083764764,Sriram K. Rajamani,0,0.5919354953771544,-1.003042824235061
+2044550200,Types as models model checking message-passing programs,2002,32,132,2,1.0,8417873,Jakob Rehof,0,0.017820992055651002,0.14500672740623213
+2051634947,Automating Software Testing Using Program Analysis,2008,13,113,2,1.0,2049248193,Aditya V. Nori,0,1.833034174814613,-0.4041071692624531
+2055489377,Proofs from Tests,2010,27,56,3,1.0,2049248193,Aditya V. Nori,0,0.5055892978132325,-0.4772967422536947
+2038025296,Behavioral Types for Structured Asynchronous Programming,2001,0,4,3,1.0,8417873,Jakob Rehof,0,-0.1164726804531344,0.019252515865476
+2069892440,Enforcing object protocols by combining static and runtime analysis,2008,21,17,1,1.0,2083764764,Sriram K. Rajamani,0,0.35330870916345297,-0.07043385516688713
+2066486177,Slicing probabilistic programs,2014,28,33,3,0.0,1978008809,Chung Kil Hur,0,-0.0183024870971178,0.0680118484996777
+2089139117,Automatically validating temporal safety properties of interfaces,2001,33,574,1,1.0,2083764764,Sriram K. Rajamani,0,0.7553969457851961,0.14718669360435035
+2096858556,Automatic Property Checking for Software Past Present and Future,2006,23,0,1,1.0,2083764764,Sriram K. Rajamani,0,1.1865539113656012,-0.2572164251949694
+2086991228,Polymorphic predicate abstraction,2005,39,34,2,0.163995,294596595,Todd Millstein,0,0.5986295316660276,0.3711584957275957
+2101832655,Intelligent Systems and Formal Methods in Software Engineering,2006,13,31,2,0.0,2038785220,Bernhard Beckert,0,2.195918637589983,-0.5638980413789774
+2082000355,The S LAM project debugging system software via static analysis,2002,28,834,1,1.0,2083764764,Sriram K. Rajamani,0,0.6779198528064552,-0.16094805227533734
+2105258265,EON modeling and analyzing dynamic access control systems with logic programs,2008,17,22,3,0.0,1961305742,Ganesan Ramalingam,0,0.12918442841749042,-0.23039251559589027
+2105357036,SLAM and Static Driver Verifier Technology Transfer of Formal Methods inside Microsoft,2004,39,226,1,1.0,2083764764,Sriram K. Rajamani,0,0.3809789857468624,-0.1632078734584727
+2105614525,A decade of software model checking with SLAM,2011,46,159,1,1.0,2083764764,Sriram K. Rajamani,0,1.0216080476253937,-0.4765677267860733
+2123510745,Formal specification and verification of a dataflow processor array,1999,20,23,2,1.0,1985363956,Shaz Qadeer,0,0.928870066295096,-0.5817211922889338
+2135584970,The Yogi Project Software Property Checking via Static Analysis and Testing,2009,8,70,2,1.0,2049248193,Aditya V. Nori,0,0.7832629411228339,-0.4368432676540164
+2112401476,Decomposing refinement proofs using assume-guarantee reasoning,2000,14,68,2,0.5,1985363956,Shaz Qadeer,0,-0.052533457327890054,0.03961624478371513
+2118356667,Programming asynchronous layers with CLARITY,2007,42,21,1,1.0,2083764764,Sriram K. Rajamani,0,1.5837525054592914,-1.0027525109883875
+2121447816,Verification of Object Relational Maps,2007,20,4,1,1.0,2083764764,Sriram K. Rajamani,0,-0.1951581817415647,-0.17358144442451837
+2109671484,Automatic Property Checking for Software Past Present and Future,2006,29,4,1,1.0,2083764764,Sriram K. Rajamani,0,3.7278598479176535,-0.9331266133338028
+2139498310,Proofs from tests,2008,28,105,3,1.0,2049248193,Aditya V. Nori,0,1.26947007290809,-0.14343261616567382
+2125130617,Deciding assertions in programs with references,2005,28,26,2,0.408061,1985363956,Shaz Qadeer,0,-0.09062917836306297,0.44166901465242714
+2110503149,An empirical study of optimizations in YOGI,2010,12,21,2,1.0,2049248193,Aditya V. Nori,0,0.6802384112418538,-0.8260457749937515
+2113709047,Merlin specification inference for explicit information flow problems,2009,33,110,2,1.0,2049248193,Aditya V. Nori,0,-0.011607106532727035,0.35242793697257263
+2140468016,Speeding Up Dataflow Analysis Using Flow-Insensitive Pointer Analysis,2002,22,19,3,0.0,1977991679,Westley Weimer,0,-0.05809835766656084,-0.22085974766684988
+2134875273,Compositional may-must program analysis unleashing the power of alternation,2010,33,173,2,1.0,2049248193,Aditya V. Nori,0,0.29235652093896797,0.13639978141257225
+2162284942,Automatic predicate abstraction of C programs,2001,30,716,2,0.163995,294596595,Todd Millstein,0,-0.02787454015223978,0.47790083720627397
+2172034979,Assume-Guarantee Refinement Between Different Time Scales,1999,12,19,2,1.0,1985363956,Shaz Qadeer,0,-0.06931519895085925,-0.03620446541599792
+2145098440,Zing A Model Checker for Concurrent Software,2004,18,113,3,1.0,8417873,Jakob Rehof,0,0.4385993344337264,-0.23593551764754772
+2166672644,GUESSTIMATE a programming model for collaborative distributed systems,2010,17,5,2,0.0,2061566955,Shashank Yaduvanshi,0,-0.17038596589854493,-0.029147776232976142
+2164496154,Summarizing procedures in concurrent programs,2004,21,95,3,1.0,8417873,Jakob Rehof,0,-0.5174960422827898,-0.3214394181045913
+2158812166,NETRA seeing through access control,2006,14,31,2,1.0,1994511809,Prasad Naldurg,0,0.10732832461395164,-0.20184731879288448
+2158870716,From symptom to cause localizing errors in counterexample traces,2003,25,262,2,0.0,2005763208,Mayur Naik,0,-0.4334105723669975,-0.21666744017983067
+2202628698,DESIGN RULE SYSTEM FOR VERIFYING AND ENFORCING DESIGN RULES IN SOFTWARE,2007,11,9,1,1.0,2083764764,Sriram K. Rajamani,0,2.7750815483467197,-0.8628808178148354
+2218713483,Programming model to detect deadlocks in concurrent programs,2002,162,7,3,1.0,8417873,Jakob Rehof,0,-0.07948640965698528,-0.036537333480335554
+2293797831,Righting software,2004,11,88,3,0.0,635023701,James R. Larus,0,2.9666669852682284,-0.8527460515365602
+2293971784,GENERATION AND EVALUATION OF TEST CASES FOR SOFTWARE VALIDATION AND PROOFS,2008,23,16,2,1.0,2049248193,Aditya V. Nori,0,1.565959992435771,-0.47588995372915494
+2308408664,Programming model for concurrent programs,2002,51,15,3,1.0,8417873,Jakob Rehof,0,-0.07948640965698528,-0.036537333480335554
+2310148953,Debugging Machine Learning Tasks,2016,19,15,3,0.0,190390398,Aleksandar Chakarov,0,-0.4476868650948577,-0.22235937785132315
+2278644247,Procedure summaries for multithreaded software,2003,34,14,3,0.0,354399176,Niels Jakob Rehof,0,0.1462472565818597,-0.25066149953412753
+2395457381,Enabling analysis of software source code,2007,21,14,1,1.0,2083764764,Sriram K. Rajamani,0,0.34745019916882713,-0.703706277278237
+2416938811,A design and verification methodology for secure isolated regions,2016,43,30,3,0.0,260128524,Sanjit A. Seshia,0,0.06218808653908985,-0.39970378097811926
+2585097462,Zing Exploiting program structure for model checking concurrent software,2004,0,0,3,1.0,8417873,Jakob Rehof,0,-0.02822884713817403,-0.20936883453839755
+2523266581,Zing A model checker for concurrent software,2004,0,4,3,1.0,8417873,Jakob Rehof,0,0.02997650647056166,-0.22796169246541592
+2508252815,Conformance checking for models of asynchronous message passing software,2002,0,2,2,1.0,8417873,Jakob Rehof,0,-0.17618883464475765,-0.37843491160441484
+2606530525,TREX A Scalable Compositional Termination Prover,2009,0,0,2,1.0,2049248193,Aditya V. Nori,0,-0.1164726804531344,0.019252515865476
+2738913803,A compiler and verifier for page access oblivious computation,2017,16,5,2,0.0,260128524,Sanjit A. Seshia,0,-0.9799068488189784,-0.40635376116561706
+2786929740,Proceedings of the 40th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages,2013,0,0,4,0.0,80220654,Mihhail Aizatulin,0,-0.1164726804531344,0.019252515865476
+2894434644,Session details Short talks on emerging research topics,2003,0,0,1,1.0,2083764764,Sriram K. Rajamani,0,-0.1164726804531344,0.019252515865476
+2914233782,Proceedings of the 42nd Annual ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages,2015,0,1,1,1.0,2083764764,Sriram K. Rajamani,0,-0.38429357554944515,-0.2069387496070664
+2971630256,Welcome to POPL 2015,2015,0,0,1,1.0,2083764764,Sriram K. Rajamani,0,-0.1164726804531344,0.019252515865476
+3014988015,Session details Keynote Address,2015,0,0,1,1.0,2083764764,Sriram K. Rajamani,0,-0.1164726804531344,0.019252515865476

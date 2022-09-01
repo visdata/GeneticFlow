@@ -1,0 +1,80 @@
+69790289,Formalized verification of snapshotable trees separation and sharing,2012,24,9,3,0.0,321002126,Peter Sestoft,0,0.24069820011338292,0.07835193289049536
+5242094,Joins a case study in modular specification of a concurrent reentrant higher-order library,2013,25,6,1,1.0,2149590827,Lars Birkedal,0,-0.34614147969770026,0.265325903198181
+75891272,Impredicative Concurrent Abstract Predicates,2014,26,95,1,1.0,2149590827,Lars Birkedal,0,-0.1381685694485639,-0.8525539036769508
+136497439,Modular reasoning about separation of concurrent data structures,2013,22,42,1,1.0,2149590827,Lars Birkedal,0,-0.19280403227456971,-0.5289219441231975
+1480878783,Hand-Writing Program Generator Generators,1994,19,48,2,0.0,40577012,Morten Welinder,0,-0.17830034269787223,-0.3144194936888476
+1511487092,Relational parametricity and separation logic,2007,24,17,2,0.362846,2125768396,Hongseok Yang,0,-0.38323660860150144,0.2269324030274472
+1538706620,Unification and polymorphism in region inference,2000,0,9,1,1.0,2149590827,Lars Birkedal,0,-0.34351087839703426,-0.06977008854913816
+1522439499,Partial Evaluation of Standard ML,2005,34,6,1,1.0,2149590827,Lars Birkedal,0,-0.415735274917186,-0.09243744697139089
+1793987241,Relational Interpretations of Recursive Types in an operational Setting (Summary),1997,26,16,2,0.0,2147215243,Robert Harper,0,0.06214031729778238,-1.3007767147956777
+1903525885,Semantics of separation-logic typing and higher-order frame rules,2005,22,41,2,0.382304,2125768396,Hongseok Yang,0,-0.18868728010170943,0.16103693344329825
+1595420666,A Simple Model of Separation Logic for Higher-Order Store,2008,22,17,3,1.0,2059294876,Jan Schwinghammer,0,-0.38323660860150144,0.2269324030274472
+1677332761,Abstract predicates and mutable adts in hoare type theory,2007,54,54,4,1.0,87291599,Aleksandar Nanevski,0,-1.2160047457640828,-0.898882982261013
+1848615987,Verifying object-oriented programs with higher-order separation logic in Coq,2011,23,23,2,1.0,2099949143,Jesper Bengtson,0,-0.20415263932710803,-0.07854975846671405
+1598065184,Nested Hoare triples and frame rules for higher-order store,2009,29,34,3,1.0,2059294876,Jan Schwinghammer,0,-0.623539375242742,-0.4853255654465863
+1580157489,Relational reasoning for recursive types and references,2006,14,28,1,1.0,2149590827,Lars Birkedal,0,-0.4959473427503789,-0.11219574772533147
+1963706207,Higher-Order Separation Logic in Isabelle/HOLCF,2008,18,17,2,0.0,1990230737,Carsten Varming,0,-0.4073375434657712,0.20165269484480836
+1868623080,Programming and Reasoning with Guarded Recursion for Coinductive Types,2015,1,9,2,1.0,2051139085,Ranald Clouston,0,-0.39736753920862145,-0.12948157479584851
+1975076763,Local reasoning about a copying garbage collector,2004,25,69,2,1.0,2065795746,Noah Torp Smith,0,-0.693342603804601,-0.011443884544160518
+1968573034,Modular Verification of Linked Lists with Views via Separation Logic,2011,0,8,2,0.0,321002126,Peter Sestoft,0,-0.4002540719820939,0.1424618935334284
+1966891975,Local reasoning about a copying garbage collector,2008,49,18,2,1.0,2065795746,Noah Torp Smith,0,-0.7119498201354457,-0.062479147006322594
+1981363830,Step-Indexed Kripke Model of Separation Logic for Storable Locks,2011,13,15,2,1.0,295400138,Alexandre Buisse,0,-0.27723838922224536,0.0832628327232562
+2001550314,Relational Parametricity and Separation Logic,2008,18,15,2,0.403269,2125768396,Hongseok Yang,0,-0.38323660860150144,0.2269324030274472
+1987812660,Modular reasoning about concurrent higher-order imperative programs,2014,0,0,1,1.0,2149590827,Lars Birkedal,0,-0.4756430547995364,-0.36067304434065084
+1990409169,Hoare type theory polymorphism and separation1,2008,74,87,3,1.0,87291599,Aleksandar Nanevski,0,-0.5691324706244525,-1.2044075506239191
+1988661738,From region inference to von Neumann machines via region representation inference,1996,15,117,2,0.0,281047774,Mads Tofte,0,-0.3887801153898214,0.09812573884779094
+2028861803,Unifying refinement and hoare-style reasoning in a logic for higher-order concurrency,2013,30,83,2,0.654471,2010605710,Aaron Turon,0,-0.03277553556920157,-0.21118851972546734
+2023925909,Semantics of Separationâˆ’logic Typing and Higherâˆ’order Frame Rules for Algolâˆ’like Languages,2006,22,35,3,1.0,2065795746,Noah Torp Smith,0,-0.24727965243679215,0.2935408980496507
+2036967823,A kripke logical relation for effect-based program transformations,2011,21,19,2,1.0,222490191,Jacob Thamsborg,0,-0.6067089146354363,-0.2581713569004565
+2074516520,Two for the Price of One Lifting Separation Logic Assertions,2012,29,5,3,1.0,222490191,Jacob Thamsborg,0,-0.4013201422458891,-0.027096157331824737
+2081281361,Logical relations for fine-grained concurrency,2013,41,43,4,1.0,222490191,Jacob Thamsborg,0,-0.2505220459964159,-0.035604356044167826
+2101443478,The impact of higher-order state and control effects on local relational reasoning,2012,44,39,1,1.0,2149590827,Lars Birkedal,0,-0.47146762348075116,-0.08960447249446012
+2105641926,Relational parametricity for references and recursive types,2009,34,12,2,1.0,222490191,Jacob Thamsborg,0,-0.4456307112267641,-0.8886078076312947
+2135365827,A relational modal logic for higher-order stateful ADTs,2010,44,38,2,0.0,2098340533,Andreas Rossberg,0,-0.33620540881445854,0.05085618191514888
+2106229114,Ynot dependent types for imperative programs,2008,51,132,3,1.0,87291599,Aleksandar Nanevski,0,-0.293205406115269,-0.5239695511638357
+2109631547,Verifying design patterns in Hoare Type Theory,2008,3,1,2,1.0,295400138,Alexandre Buisse,0,0.2751349628826121,-0.7867743934244973
+2109772966,Polymorphism and separation in hoare type theory,2006,42,110,3,1.0,87291599,Aleksandar Nanevski,0,-0.5396976538578286,-0.4406822716840759
+2130505204,Step-indexed kripke models over recursive worlds,2011,54,55,4,1.0,222490191,Jacob Thamsborg,0,-0.38781521528438334,-0.2848033271231595
+2108193024,Verifying generics and delegates,2010,24,12,1,1.0,2149590827,Lars Birkedal,0,0.16078983118392792,0.09950333942724728
+2144058993,Verifying event-driven programs using ramified frame properties,2010,22,23,3,0.0,2024817744,Neel Krishnaswami,0,0.9548113110261646,0.47754630124079156
+2150224578,Views compositional reasoning for concurrent programs,2013,34,108,4,0.470817,46077764,Thomas Dinsdale Young,0,-0.4221126873925198,0.07894264613573185
+2147323041,Iris Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning,2015,36,107,4,0.654471,2010605710,Aaron Turon,0,-0.15930668259864125,0.5160990365368245
+2147395854,Partial Evaluation of Standard ML Masters Thesis,1993,32,5,2,0.0,40577012,Morten Welinder,0,-0.17830034269787223,-0.3144194936888476
+2163059606,Design patterns in separation logic,2009,22,27,4,1.0,238187693,Neelakantan R. Krishnaswami,0,0.9225871461908124,-0.5914670903196578
+2174013168,Relational interpretations of recursive types in an operational setting,1997,0,2,2,0.0,2147215243,Robert Harper,0,-0.3542090037282292,-0.060415301587354205
+2155113119,Modular verification of linked lists with views via separation logic,2010,21,1,2,0.0,321002126,Peter Sestoft,0,1.1950310212462418,-0.5320418960869553
+2152899988,A realizability model for impredicative Hoare type theory,2008,36,26,3,1.0,87291599,Aleksandar Nanevski,0,-0.6607775725741442,-1.0024880381118635
+2153074406,Idealized ML and Its Separation Logic,2006,30,12,3,1.0,238187693,Neelakantan R. Krishnaswami,0,-0.5993127802746023,-0.3718967012342562
+2153128836,The impact of higher-order state and control effects on local relational reasoning,2010,44,57,1,1.0,2149590827,Lars Birkedal,0,0.20956758886254048,-0.6398428460442902
+2267257184,Compositional Verification Methods for Next-Generation Concurrency (Dagstuhl Seminar 15191),2015,0,1,3,0.0,2097698150,Zhong Shao,0,1.200881541863095,0.45088737943410717
+2231621909,Verifying Custom Synchronization Constructs Using Higher-Order Separation Logic,2016,34,8,3,0.0,2139994915,Mike Dodds,0,-0.20712544566097654,-0.30923992185116317
+2292986447,ModuRes A Coq Library for Modular Reasoning About Concurrent Higher-Order Imperative Programming Languages,2015,21,8,1,1.0,2149590827,Lars Birkedal,0,0.6242856144695373,-0.34359065529827637
+2280241954,A Concurrent Logical Relation,2012,31,17,2,1.0,222490191,Jacob Thamsborg,0,-1.0890962819001795,-0.5091652923273492
+2361817505,Reasoning about Object Capabilities with Logical Relations and Effect Parametricity,2016,37,19,3,0.0,233250515,Frank Piessens,0,0.9383297200842405,0.4824176637051946
+2408622909,Charge - A Framework for Higher-Order Separation Logic in Coq,2012,14,24,2,1.0,2099949143,Jesper Bengtson,0,-0.4439615683228097,0.07344249461784294
+2403509298,A Separation Logic for Fictional Sequential Consistency,2015,22,10,1,1.0,2149590827,Lars Birkedal,0,0.09477287814564263,0.963145939982128
+2462468993,The Guarded Lambda-Calculus Programming and Reasoning with Guarded Recursion for Coinductive Types,2017,13,13,2,1.0,2051139085,Ranald Clouston,0,-0.4765312095497712,-0.18382492063701128
+2468001999,Formalizing Domains Ultrametric Spaces and Semantics of Programming Languages,2010,35,8,4,0.0,1966975174,Nick Benton,0,1.5227677675442615,0.5560930167524224
+2509578035,Higher-order ghost state,2016,40,33,2,1.0,2096125403,Ralf Jung,0,-0.2562812366035315,0.1995902688807856
+2562833768,Interactive proofs in higher-order concurrent separation logic,2017,38,38,2,1.0,413095915,Amin Timany,0,-0.32155283791165873,-0.00617879636589495
+2567502494,A relational model of types-and-effects in higher-order concurrent separation logic,2017,31,15,1,1.0,2149590827,Lars Birkedal,0,-0.6331577015175132,0.0811980548604135
+2580297191,Caper automatic verification for fine-grained concurrency,2017,29,10,3,0.470817,46077764,Thomas Dinsdale Young,0,-0.2268142716231431,-0.1590203910320284
+2591810710,Trace Properties from Separation Logic Specifications,2017,18,0,4,0.470817,46077764,Thomas Dinsdale Young,0,-0.24727965243679215,0.2935408980496507
+2709115149,Binding-Time Analysis for Standard ML,1994,0,6,2,0.0,40577012,Morten Welinder,0,-0.27508574413545467,-0.8049854197215748
+2596377803,The Essence of Higher-Order Concurrent Separation Logic,2017,30,42,3,0.593192,1990876473,Jacques Henri Jourdan,0,-0.37335333653760533,0.11863339419442338
+2776685097,A logical relation for monadic encapsulation of state proving contextual equivalences in the presence of runST,2017,24,5,2,1.0,413095915,Amin Timany,0,-0.3676619579052409,-0.3438629450714032
+2798618564,ReLoC A Mechanised Relational Logic for Fine-Grained Concurrency,2018,28,9,1,1.0,2149590827,Lars Birkedal,0,-0.1643681208957257,-0.015638755044516596
+2796499075,Reasoning About a Machine with Local Capabilities,2018,33,8,2,0.210516,2042145703,Dominique Devriese,0,-0.10788446984347229,0.6545255245917229
+2901454403,Iris from the Ground up A modular Foundation for Higher-order Concurrent Separation Logic,2018,73,44,2,0.593192,1990876473,Jacques Henri Jourdan,0,-0.4002540719820939,0.1424618935334284
+2912841296,Reasoning About a Machine with Local Capabilities Provably Safe Stack and Return Pointer Management - Technical Appendix Including Proofs and Details,2019,6,1,2,0.210516,2042145703,Dominique Devriese,0,0.03108236570819417,1.0713228957109169
+2898876634,A Logical Relation for Monadic Encapsulation of State Proving contextual equivalences in the presence of runST,2018,0,7,2,1.0,413095915,Amin Timany,0,-0.5193014978750964,-0.4852374372420673
+2899961638,StkTokens Enforcing Well-bracketed Control Flow and Stack Encapsulation using Linear Capabilities - Technical Report with Proofs and Details,2018,0,1,2,0.210516,2042145703,Dominique Devriese,0,-0.3968382107809212,0.5506675789168872
+2900137615,StkTokens Enforcing Well-Bracketed Control Flow and Stack Encapsulation Using Linear Capabilities,2019,23,11,2,0.210516,2042145703,Dominique Devriese,0,-0.3968382107809212,0.5506675789168872
+2900397097,Iron Managing Obligations in Higher-Order Concurrent Separation Logic,2019,26,4,1,1.0,2149590827,Lars Birkedal,0,-0.13267248375365234,0.10842119368687182
+2963638222,Programming and Reasoning with Guarded Recursion for Coinductive Types,2015,22,12,2,1.0,2051139085,Ranald Clouston,0,-0.39736753920862145,-0.12948157479584851
+2978634956,Compositional Non-Interference for Fine-Grained Concurrent Programs,2019,41,0,1,1.0,2149590827,Lars Birkedal,0,-0.3227340774905467,0.39227663286092246
+2995538315,Reasoning about a Machine with Local Capabilities Provably Safe Stack and Return Pointer Management,2020,31,0,2,0.188728,2042145703,Dominique Devriese,0,-0.3585292758924445,0.22119645691576983
+2966434214,Mechanized relational verification of concurrent programs with continuations,2019,40,2,2,1.0,413095915,Amin Timany,0,-0.1164726804531344,0.019252515865476
+3023058275,BI-hyperdoctrines higher-order separation logic and abstraction,2007,0,0,3,1.0,2065795746,Noah Torp Smith,0,0.3084132981482758,-0.5972388261113399
+3014189233,Session details Semantic models 2,2014,0,0,1,1.0,2149590827,Lars Birkedal,0,-0.1164726804531344,0.019252515865476
+3014553678,Session details Types,2012,0,0,1,1.0,2149590827,Lars Birkedal,0,-0.1164726804531344,0.019252515865476

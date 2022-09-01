@@ -1,0 +1,12 @@
+10 cv Precision:0.282 Recall:0.922 F1_best:0.428 ROC:0.549 PRC:0.304 ACC:0.374 for Class Fellow
+10 cv Precision:0.348 Recall:0.702 F1_best:0.454 F1_best(std): 0.027 ROC:0.624 ROC(std): 0.033 PRC:0.386 ACC:0.577 for Class Fellow
+10 cv Precision:0.348 Recall:0.774 F1_best:0.470 F1_best(std): 0.029 ROC:0.622 ROC(std): 0.046 PRC:0.328 ACC:0.556 for Class Fellow
+10 cv Precision:0.345 Recall:0.776 F1_best:0.466 F1_best(std): 0.030 ROC:0.618 ROC(std): 0.048 PRC:0.324 ACC:0.549 for Class Fellow
+10 cv Precision:0.300 Recall:0.840 F1_best:0.438 F1_best(std): 0.014 ROC:0.565 ROC(std): 0.040 PRC:0.286 ACC:0.460 for Class Fellow
+10 cv Precision:0.292 Recall:0.852 F1_best:0.432 F1_best(std): 0.017 ROC:0.556 ROC(std): 0.020 PRC:0.275 ACC:0.442 for Class Fellow
+10 cv Precision:0.289 Recall:0.858 F1_best:0.422 F1_best(std): 0.018 ROC:0.555 ROC(std): 0.028 PRC:0.295 ACC:0.404 for Class Fellow
+10 cv Precision:0.364 Recall:0.700 F1_best:0.463 F1_best(std): 0.038 ROC:0.634 ROC(std): 0.044 PRC:0.351 ACC:0.585 for Class Fellow
+10 cv Precision:0.299 Recall:0.876 F1_best:0.434 F1_best(std): 0.031 ROC:0.559 ROC(std): 0.064 PRC:0.306 ACC:0.414 for Class Fellow
+10 cv Precision:0.308 Recall:0.876 F1_best:0.440 F1_best(std): 0.032 ROC:0.559 ROC(std): 0.055 PRC:0.289 ACC:0.428 for Class Fellow
+10 cv Precision:0.303 Recall:0.794 F1_best:0.436 F1_best(std): 0.025 ROC:0.569 ROC(std): 0.045 PRC:0.288 ACC:0.483 for Class Fellow
+10 cv Precision:0.282 Recall:0.894 F1_best:0.423 F1_best(std): 0.023 ROC:0.538 ROC(std): 0.038 PRC:0.283 ACC:0.378 for Class Fellow

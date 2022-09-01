@@ -1,0 +1,74 @@
+34930023,Optimizer and Scheduling for the Community Data Warehouse Architecture,2009,64,0,1,1.0,2148674672,Pedro Furtado,0,0.16046572579197282,0.17378164204529956
+35862481,VarDB high-performance warehouse processing with massive ordering and binary search,2011,14,0,3,1.0,2111772148,JosÃ© CecÃ­lio,0,-0.055337236884046154,0.09914083643323489
+55084656,Survey on Big Data and Decision Support Benchmarks,2014,7,1,4,0.0,2099029680,Jorge Bernardino,0,0.06635930819191084,0.49152641060504293
+196119343,Efficient Time Aggregation and Querying of Flashed Streams in Constrained Motes,2013,27,0,1,1.0,2148674672,Pedro Furtado,0,-0.0041099411153885,0.0447066884760059
+180068344,Middleware and Language for Sensor Streams,2012,9,0,1,1.0,2148674672,Pedro Furtado,0,-0.2608287728580563,-0.045723291999364264
+45842594,Evaluating Cassandra Scalability with YCSB,2014,12,5,3,0.0,2099029680,Jorge Bernardino,0,0.904430910299571,-0.5069591188500786
+148693950,ONE a predictable and scalable DW model,2011,15,11,3,1.0,2111772148,JosÃ© CecÃ­lio,0,1.7059465253008141,0.19899840123014212
+185219737,SPIN Concurrent Workload Scaling over Data Warehouses,2013,6,2,1,1.0,2148674672,Pedro Furtado,0,1.337301499314771,0.4216720709007221
+340880505,Enhancing Traditional Data Warehousing Architectures with Real-Time Capabilities,2014,15,6,2,0.0,294375193,Alfredo Cuzzocrea,0,1.306557217444705,0.8716365017385208
+849935344,Real-Time Data Warehousing A Rewrite/Merge Approach,2014,17,2,2,0.0,294375193,Alfredo Cuzzocrea,0,0.4731966569401162,0.3119267144422686
+1549778201,Large relations in node-partitioned data warehouses,2005,6,5,1,1.0,2148674672,Pedro Furtado,0,-0.09137986750034562,0.23000282356523996
+1487753511,IEEE Services Visionary Track on Dependable and Secure Services (DSS 2015),2015,0,0,2,0.0,18547954,Nuno Laranjeiro,0,0.4337513914617648,-0.030940431688758745
+1472698166,An On-Demand ELT Architecture for Real-Time BI,2012,10,4,3,0.593192,21839631,Christian Koncilia,0,1.901466873024071,0.5622172946276698
+1500172939,Time-Interval Sampling for Improved Estimations in Data Warehouses,2002,10,7,1,1.0,2148674672,Pedro Furtado,0,-0.09137986750034562,0.23000282356523996
+1565200796,Load-balancing for WAN warehouses,2008,13,0,1,1.0,2148674672,Pedro Furtado,0,0.11627582886789564,0.3621724021946999
+1502738355,A middle layer for distributed data warehouses using the DWS-AQA technique,2003,3,6,5,0.107754,2096385511,Henrique Madeira,0,0.11627582886789564,0.3621724021946999
+1485697310,Data warehouses in grids with high qos,2006,27,6,1,1.0,2148674672,Pedro Furtado,0,0.11627582886789564,0.3621724021946999
+1503826383,Blending OLAP processing with real-time data streams,2011,3,2,3,1.0,2111772148,JosÃ© CecÃ­lio,0,0.12193105943063391,0.5331766088397975
+1495236132,â€œOn-the-flyâ€ VS Materialized Sampling and Heuristics,2003,8,0,1,1.0,2148674672,Pedro Furtado,0,1.3465317816331073,0.6013575683895779
+1486619707,A model for intuitive knowledge sharing,1997,41,0,2,0.0,2096385511,Henrique Madeira,0,-0.0041099411153885,0.0447066884760059
+1521916037,Analysis of Accuracy of Data Reduction Techniques,1999,9,9,2,0.0,2096385511,Henrique Madeira,0,0.24692545835666535,0.1254561296930987
+1792664116,Implementing and Evaluating Warehouses and Summaries Over a Cluster,2003,12,1,1,1.0,2148674672,Pedro Furtado,0,-0.16328011374660287,0.9890247327765609
+1841747458,Approximate Query Answering Using Data Warehouse Striping,2002,33,30,3,0.0,2096385511,Henrique Madeira,0,1.1121757237423195,-0.6247718344467269
+1587677840,Autonomic admission control for congested request processing systems,2007,14,0,1,1.0,2148674672,Pedro Furtado,0,1.5458219963390334,1.2601006191192539
+1894395481,FCompress a new technique for queriable compression of facts and datacubes,2000,6,3,2,0.0,2096385511,Henrique Madeira,0,-0.026735295457418352,-0.11321418044201162
+1583405272,Data Cube Compression with QuantiCubes,2000,9,7,2,0.0,2096385511,Henrique Madeira,0,0.11627582886789564,0.3621724021946999
+1896195941,Summary grids building accurate multidimensional histograms,1999,15,8,2,0.0,2096385511,Henrique Madeira,0,-0.0041099411153885,0.0447066884760059
+1592565788,Schemas and queries over p2p,2005,17,1,1,1.0,2148674672,Pedro Furtado,0,0.38010585344598774,0.12569743038740924
+1966572344,Cloudy heterogeneous middleware for in time queries processing,2013,22,0,2,1.0,2134105382,Pedro Martins,0,0.15138911479935854,0.06047467921465364
+1974690493,DSQoS-distributed architecture providing QoS in summary warehouses,2003,11,0,1,1.0,2148674672,Pedro Furtado,0,-0.16328011374660287,0.9890247327765609
+1995320600,AuDy Automatic Dynamic Least-Weight Balancing for Stream Workloads Scalability,2014,15,0,2,1.0,2134105382,Pedro Martins,0,-0.10433143471506402,-0.026859654636660825
+2005967224,Testing Cloud Benchmark Scalability with Cassandra,2014,16,13,3,0.0,2099029680,Jorge Bernardino,0,0.904430910299571,-0.5069591188500786
+2000876233,On-Demand ELT Architecture for Right-Time BI Extending the Vision,2013,72,21,3,0.593192,21839631,Christian Koncilia,0,0.18347691396883534,0.35902636519324604
+2016349588,A Survey of Parallel and Distributed Data Warehouses,2009,47,22,1,1.0,2148674672,Pedro Furtado,0,0.1243787832844349,0.19077361207670235
+2041815647,Near real-time with traditional data warehouse architectures factors and how-to,2013,6,4,2,1.0,2134105382,Pedro Martins,0,0.33796425721012385,-0.7820464850686636
+2046076279,Quality of experience in distributed databases,2011,46,10,1,1.0,2148674672,Pedro Furtado,0,-0.08812071154956609,-0.11351670551301547
+2046315699,Performance Evaluation MySQL InnoDB and Microsoft SQL Server 2012 for Decision Support Environments,2015,8,1,2,0.0,2099029680,Jorge Bernardino,0,0.5325669973310596,0.09709227568458595
+2044980715,TEEPA a timely-aware elastic parallel architecture,2012,15,2,3,1.0,2111772148,JosÃ© CecÃ­lio,0,0.035786792692211626,0.2791267378128395
+2087407744,Express execution lines and execution time estimation,2014,7,0,1,1.0,2148674672,Pedro Furtado,0,-0.0041099411153885,0.0447066884760059
+2100047131,Algorithms for efficient processing of complex queries in node-partitioned data warehouses,2004,20,2,1,1.0,2148674672,Pedro Furtado,0,0.12732880150606563,0.4033751368809238
+2089795257,A predictable storage model for scalable parallel DW,2011,14,6,3,1.0,2111772148,JosÃ© CecÃ­lio,0,1.6787735135908797,-0.5706828331367922
+2081138758,Enforcing time-constraints effectively for QoS-aware servers,2008,21,0,1,1.0,2148674672,Pedro Furtado,0,-0.4952370533090319,-0.40710710999814825
+2095281431,YCSB and TPC-H Big Data and Decision Support Benchmarks,2014,1,4,3,0.0,2099029680,Jorge Bernardino,0,0.06635930819191084,0.49152641060504293
+2101511282,An SLA-Enabled Grid DataWarehouse,2007,8,15,1,1.0,2148674672,Pedro Furtado,0,0.015728185512299785,0.03198266596302801
+2095752566,Flexible networked data management on P2P,2005,12,0,1,1.0,2148674672,Pedro Furtado,0,-0.0976495630144006,0.04163277772227507
+2132003106,Time-stratified sampling for approximate answers to aggregate queries,2003,10,9,1,1.0,2148674672,Pedro Furtado,0,0.11627582886789564,0.3621724021946999
+2123298603,Scheduling in Grid Databases,2008,19,6,1,1.0,2148674672,Pedro Furtado,0,-0.0041099411153885,0.0447066884760059
+2107707055,Fast accurate summary warehouses with distributed summaries,2003,12,1,1,1.0,2148674672,Pedro Furtado,0,-0.16328011374660287,0.9890247327765609
+2134324814,The BofS solution to limitations of approximate summaries,2003,11,3,1,1.0,2148674672,Pedro Furtado,0,0.11627582886789564,0.3621724021946999
+2140592274,Experimental evidence on partitioning in parallel data warehouses,2004,19,46,1,1.0,2148674672,Pedro Furtado,0,0.11627582886789564,0.3621724021946999
+2171736607,Workload-based placement and join processing in Node-Partitioned Data Warehouses,2004,14,26,1,1.0,2148674672,Pedro Furtado,0,-0.16817574272224167,0.06577154390150616
+2153834200,Improving the Processing of DW Star-Queries under Concurrent Query Workloads,2014,7,1,1,1.0,2148674672,Pedro Furtado,0,0.31020735092101354,0.06041055863442265
+2156956141,Which NoSQL Database A Performance Overview,2014,17,35,3,0.0,2099029680,Jorge Bernardino,0,1.6691948040552342,-0.43158938263954877
+2151139507,DWS-AQA a cost effective approach for very large data warehouses,2002,15,11,3,0.0,2096385511,Henrique Madeira,0,-0.0036255816741072033,0.26527575294577715
+2181632572,Towards a QoS-aware DBMS,2008,16,0,1,1.0,2148674672,Pedro Furtado,0,-0.0041099411153885,0.0447066884760059
+2151470758,Providing Quality of Experience for Users The Next DBMS Challenge,2013,15,3,1,1.0,2148674672,Pedro Furtado,0,0.0835119396817451,0.051530138659233005
+2149093757,Efficiently processing query-intensive databases over a non-dedicated local network,2005,13,12,1,1.0,2148674672,Pedro Furtado,0,2.0363460271130434,0.4337501872080052
+2293228837,Testing SQL and NoSQL approaches for big data warehouse systems,2015,0,3,2,0.0,2099029680,Jorge Bernardino,0,0.5348382685933478,-0.08847101667795346
+2293313690,Comparing SQL and NoSQL approaches for clustering over big data,2015,0,0,1,1.0,2148674672,Pedro Furtado,0,1.181358258983066,-0.07174328312735785
+2284384904,Scalability architecture for a secure big data system,2015,0,0,1,1.0,2148674672,Pedro Furtado,0,0.5156516562108293,-0.041427202011135714
+2293655885,AScale automatically scaling the ETL+Q process for performance,2015,0,1,2,1.0,2134105382,Pedro Martins,0,0.23375257633128343,0.36714770589896534
+2281839741,Data Warehouse Processing Scale-Up for Massive Concurrent Queries with SPIN,2015,9,1,1,1.0,2148674672,Pedro Furtado,0,0.3568977790274855,0.25126256165379945
+2295886169,SQL or NoSQL Performance and scalability evaluation,2015,0,1,3,0.0,2099029680,Jorge Bernardino,0,0.6217527937597859,0.010860362600407635
+2332215074,EXPERIMENTAL EVALUATION OF NOSQL DATABASES,2014,17,19,3,0.0,2099029680,Jorge Bernardino,0,1.2830715906317005,-0.4659960718996625
+2406808566,Cassandra what it does and what it does not and benchmarking,2015,0,0,3,0.0,2099029680,Jorge Bernardino,0,0.34525986460365443,0.5538520067682228
+2404913207,A Survey of Parallel and Distributed Data Warehouses,2011,0,0,1,1.0,2148674672,Pedro Furtado,0,0.11627582886789564,0.3621724021946999
+2496371719,Deploying Data Warehouses in Grids with Efficiency and Availability,2010,9,0,1,1.0,2148674672,Pedro Furtado,0,0.11627582886789564,0.3621724021946999
+2477054238,Placement and Scheduling over Grid Warehouses,2009,7,1,1,1.0,2148674672,Pedro Furtado,0,0.28953862398455,-0.3504432791724146
+2593947075,Schemas and Queries over P2P,2005,0,3,1,1.0,2148674672,Pedro Furtado,0,-0.04488843937433575,-0.012010303609043866
+2729605787,Scalability and Realtime on Big Data MapReduce NoSQL and Spark,2016,42,0,1,1.0,2148674672,Pedro Furtado,0,0.548401014337883,0.43057102760563987
+2608435329,Integrating Map-Reduce and Stream-Processing for Efficiency (MRSP),2017,27,0,3,1.0,2111772148,JosÃ© CecÃ­lio,0,0.15345022033536085,0.7608448332189279
+2752927810,Workload-based placement and join processing in Node-Partitioned Data Warehouses,2004,0,0,1,1.0,2148674672,Pedro Furtado,0,-0.055337236884046154,0.09914083643323489
+2898395751,NoSQL Scalability Performance Evaluation over Cassandra,2018,11,0,1,1.0,2148674672,Pedro Furtado,0,0.6959580143612543,-0.011532306098519685
+2965721171,Node Partitioned Data Warehouses,2009,0,1,1,1.0,2148674672,Pedro Furtado,0,0.11627582886789564,0.3621724021946999

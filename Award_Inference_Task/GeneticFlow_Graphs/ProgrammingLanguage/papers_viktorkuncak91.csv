@@ -1,0 +1,102 @@
+189144202,Constraint Solving for Software Reliability and Text Analysis (Research Plan),2008,0,0,1,1,37798284,Viktor Kuncak,0,0.7049562914633098,-0.16221590969941
+42377659,On the decision procedure for set-valued fields,2004,0,1,1,1,37798284,Viktor Kuncak,0,1.0720986055156196,-0.0001453918679964472
+111454751,Comfusy Complete Functional Synthesis (Tool Presentation),2010,0,2,1,1,37798284,Viktor Kuncak,0,2.9827267200565104,-0.1691788664111657
+78620825,On Synthesizing Code from Free-Form Queries,2014,20,1,1,1,37798284,Viktor Kuncak,0,-2.829782686082407,0.36910846205289305
+97116403,Verification Model Checking and Abstract Interpretation - 13th International Confer,2012,0,0,1,1,37798284,Viktor Kuncak,0,-0.36669543441347335,0.044849700580217124
+131576237,MUNCH - Automated Reasoner for Sets and Multisets (System Description),2010,0,3,1,1,37798284,Viktor Kuncak,0,-0.6538842523640291,0.2353319380042823
+149731632,Executing Specifications Using Synthesis and Constraint Solving,2013,88,7,1,1,37798284,Viktor Kuncak,0,0.4806636686638429,-0.29935682031151617
+100631053,Satisfiability modulo recursive programs,2011,33,72,1,1,37798284,Viktor Kuncak,0,-0.5870385057333303,-0.06777285274253227
+763739507,Developing Verified Software Using Leon,2015,27,5,1,1,37798284,Viktor Kuncak,0,-1.0305600340648595,-0.9665796243164793
+777677348,On Verification by Translation to Recursive Functions,2013,0,2,1,1,37798284,Viktor Kuncak,0,-0.8019649928930237,0.794550555559919
+989845945,Deductive Program Repair,2015,27,28,1,1,37798284,Viktor Kuncak,0,-0.7261870927878796,0.18792645960979057
+856703871,Comfusy A Tool for Complete Functional Synthesis (Tool Presentation),2010,7,1,1,1,37798284,Viktor Kuncak,0,-0.35360898822451015,-0.10986259398087858
+1549774509,Scala to the power of Z3 integrating SMT and programming,2011,9,28,1,1,37798284,Viktor Kuncak,0,-0.4396438824676059,0.3927044132052521
+1549970146,Interactive synthesis of code snippets,2011,7,40,1,1,37798284,Viktor Kuncak,0,0.586652584299064,-0.3545742455225175
+1506404239,Hob a tool for verifying data structure consistency,2005,7,26,1,1,37798284,Viktor Kuncak,0,-0.307982855350938,0.041644973237344916
+1499146275,PLS Programming Language for Simulations,1993,0,0,1,1,37798284,Viktor Kuncak,0,1.78005966108464,-0.5180588804461623
+1561702747,Runtime checking for separation logic,2008,30,19,1,1,37798284,Viktor Kuncak,0,0.5722501649031315,-0.06319569457853784
+1544283013,A Verification Toolkit for Numerical Transition Systems,2012,13,55,1,1,37798284,Viktor Kuncak,0,0.22182282427619165,0.8924082931448877
+1535443236,On Delayed Choice Execution for Falsification,2008,40,3,1,1,37798284,Viktor Kuncak,0,0.11619747818208492,-0.49988108250922125
+1491609820,Runtime instrumentation for precise flow-sensitive type analysis,2010,19,13,1,1,37798284,Viktor Kuncak,0,-0.06414332669615425,0.0751707032649964
+1518633696,Object Models Heaps and Interpretations,2001,11,4,1,1,37798284,Viktor Kuncak,0,-0.06450276218129145,0.2710618351459757
+1537446635,MUNCH - automated reasoner for sets and multisets,2010,11,4,1,1,37798284,Viktor Kuncak,0,-0.7865669923664607,0.19620220362318527
+1556096932,Modular Interpreters in Haskell,2000,0,0,1,1,37798284,Viktor Kuncak,0,-0.532542551185496,0.0033132963555719264
+1520431822,An efficient decision procedure for imperative tree data structures,2011,27,25,1,1,37798284,Viktor Kuncak,0,1.0085194763235357,-0.267782628525218
+1495101810,Deciding functional lists with sublist sets,2012,39,10,1,1,37798284,Viktor Kuncak,0,-0.10328185571011338,0.21796921492859
+1566438397,Reductions for Synthesis Procedures,2013,26,14,1,1,37798284,Viktor Kuncak,0,-0.23779133116784057,-0.38227499508688384
+1531408435,Effect Analysis for Programs with Callbacks,2013,44,7,1,1,37798284,Viktor Kuncak,0,-0.9360268395424711,0.8106328188966339
+1595212543,On Our Experience with Modular Pluggable Analyses,2004,28,17,1,1,37798284,Viktor Kuncak,0,-0.41133779576291585,-0.07022179981677015
+1744728944,Using first-order theorem provers in the Jahob data structure verification system,2007,56,38,1,1,37798284,Viktor Kuncak,0,-0.1437594162130912,-0.07464702019880597
+1842674863,Implications of a Data Structure Consistency Checking System,2005,32,3,1,1,37798284,Viktor Kuncak,0,-0.1246730461701208,0.14347376500785983
+1879181435,Towards Automating Grammar Equivalence Checking,2015,28,2,1,1,37798284,Viktor Kuncak,0,-2.0529844787082925,0.322156179579852
+1588924913,Modular Language Specifications in Haskell,2000,0,1,1,1,37798284,Viktor Kuncak,0,1.437179478931323,-1.1257406588531844
+1812288857,On Deductive Program Repair in Leon,2015,24,1,1,1,37798284,Viktor Kuncak,0,-0.7213434027812182,0.1304473201095126
+1580112351,On Integrating Deductive Synthesis and Verification Systems,2013,45,4,1,1,37798284,Viktor Kuncak,0,0.3402517191596511,-0.5678448982474916
+1912569824,Counterexample-Guided Quantifier Instantiation for Synthesis in SMT,2015,32,62,1,1,37798284,Viktor Kuncak,0,-0.17300190990297346,-0.13825691054588296
+1767054418,On Verifying Complex Properties using Symbolic Shape Analysis,2006,56,21,1,1,37798284,Viktor Kuncak,0,-0.1164726804531344,0.019252515865476
+1705806753,Comfusy a tool for complete functional synthesis,2010,8,10,1,1,37798284,Viktor Kuncak,0,-0.35360898822451015,-0.10986259398087858
+1655946040,On Sound Compilation of Reals,2013,45,0,1,1,37798284,Viktor Kuncak,0,0.1276970365642366,0.19548088416680356
+1949522686,Classifying and Solving Horn Clauses for Verification,2013,39,20,1,1,37798284,Viktor Kuncak,0,0.16171791674648803,-0.200140588987929
+1786961528,A language for role specifications,2001,20,3,1,1,37798284,Viktor Kuncak,0,-0.061853872558252976,0.0469066900804512
+1978896583,Interactive synthesis using free-form queries,2015,24,16,1,1,37798284,Viktor Kuncak,0,-2.8309195801409794,0.36533611737635646
+1990050510,Software synthesis procedures,2012,21,29,1,1,37798284,Viktor Kuncak,0,0.4281388716857568,-0.2736811459951564
+1990069336,Programming with enumerable sets of structures,2015,47,12,1,1,37798284,Viktor Kuncak,0,-0.8244455829051809,-0.32791955907160014
+2005957051,SciFe Scala framework for efficient enumeration of data structures with invariants,2014,20,6,1,1,37798284,Viktor Kuncak,0,-0.6391089476073759,0.1445166565283703
+2026114025,Generalized typestate checking using set interfaces and pluggable analyses,2004,22,30,1,1,37798284,Viktor Kuncak,0,-0.09032570149571914,0.35851360402480403
+2028005660,Verified abstractions on developers desks,2009,12,0,1,1,37798284,Viktor Kuncak,0,0.8373981220189337,-0.34226210267452944
+2012462069,On Decision Procedures for Set-Valued Fields,2004,54,2,1,1,37798284,Viktor Kuncak,0,-0.41906072237833436,0.14594114756565302
+2031868253,Crosscutting techniques in program specification and analysis,2005,39,17,1,1,37798284,Viktor Kuncak,0,0.9974363548556724,0.12247424307310509
+2070473038,Synthesizing Java expressions from free-form queries,2015,28,37,1,1,37798284,Viktor Kuncak,0,-2.6197996588851242,0.9555491032268437
+2066070747,Phantm PHP analyzer for type mismatch,2010,3,16,1,1,37798284,Viktor Kuncak,0,0.18543398847824796,-0.0010080395684440523
+2097308505,Roles are really great,2001,48,5,1,1,37798284,Viktor Kuncak,0,-0.3542458213991138,0.062790734395556
+2080911793,Functional synthesis for linear arithmetic and sets,2013,70,24,1,1,37798284,Viktor Kuncak,0,-0.06474132390228005,0.5189914356406633
+2091723900,An overview of the Leon verification system verification by translation to recursive functions,2013,36,40,1,1,37798284,Viktor Kuncak,0,-0.7779192925783026,-0.11689511727890119
+2103953062,Sound compilation of reals,2014,49,80,1,1,37798284,Viktor Kuncak,0,0.1276970365642366,0.19548088416680356
+2105315191,Complete functional synthesis,2010,68,116,1,1,37798284,Viktor Kuncak,0,0.27452168153587286,0.28721381600342144
+2114798710,Verifying linked data structure implementations,2008,21,0,1,1,37798284,Viktor Kuncak,0,0.29637160372095833,-0.45737170283487594
+2115261880,Constraints as control,2012,63,62,1,1,37798284,Viktor Kuncak,0,-0.14484879379969604,-0.35893090424141594
+2118155805,Test generation through programming in UDITA,2010,55,117,1,1,37798284,Viktor Kuncak,0,0.6499609356961081,-0.3094992007306801
+2121050107,Trustworthy numerical computation in Scala,2011,51,39,1,1,37798284,Viktor Kuncak,0,-0.7075211777613132,-0.41673278971508587
+2118196876,Runtime Checking for Program Verification Systems,2007,20,5,1,1,37798284,Viktor Kuncak,0,1.627857291822001,-0.5635662820193308
+2124674891,Typestate Checking and Regular Graph Constraints,2002,26,6,1,1,37798284,Viktor Kuncak,0,-0.1164726804531344,0.019252515865476
+2124704329,Decision Procedures for Set-Valued Fields,2005,55,20,1,1,37798284,Viktor Kuncak,0,-0.41906072237833436,0.14594114756565302
+2118922803,Sound reasoning about integral data types with a reusable SMT solver interface,2015,19,3,1,1,37798284,Viktor Kuncak,0,-0.7047908360552602,0.0027726319971830547
+2107151638,Verifying and Synthesizing Software with Recursive Functions,2014,94,2,1,1,37798284,Viktor Kuncak,0,-0.1364056830250361,-0.388390042724771
+2125033688,Opis reliable distributed systems in OCaml,2009,44,10,1,1,37798284,Viktor Kuncak,0,-0.24302547749980788,-0.12888654821239923
+2137475629,Runtime checking for program verification,2007,45,24,1,1,37798284,Viktor Kuncak,0,-0.11070784762747363,-0.30958032451687195
+2126001891,Counter-example complete verification for higher-order functions,2015,20,10,1,1,37798284,Viktor Kuncak,0,0.48023209557318,-0.7820991470694452
+2144123204,On computing the fixpoint of a set of boolean equations,2003,5,3,1,1,37798284,Viktor Kuncak,0,-0.1164726804531344,0.019252515865476
+2171313158,An integrated proof language for imperative programs,2009,44,51,1,1,37798284,Viktor Kuncak,0,-0.33210261562228477,-0.17360706562564673
+2162315884,Decision procedures for algebraic data types with abstractions,2010,69,77,1,1,37798284,Viktor Kuncak,0,-0.19884274709537364,0.17424435004387623
+2147650421,Full functional verification of linked data structures,2008,84,164,1,1,37798284,Viktor Kuncak,0,1.2606672112637762,-0.6676931470577266
+2186631228,On Effect Analysis for Programs with Callbacks Technical Report EPFL-REPORT-180074,2012,0,0,1,1,37798284,Viktor Kuncak,0,-1.4587185052083749,1.2365061843094194
+2160573490,An overview of the Jahob analysis system project goals and current status,2006,81,22,1,1,37798284,Viktor Kuncak,0,-0.11241686787511088,-0.40649476823714287
+2145899398,In-Place Refinement for Effect Checking,2003,17,8,1,1,37798284,Viktor Kuncak,0,-0.14116616082620284,-0.4143264742092437
+2157976942,Complete completion using types and weights,2013,24,89,1,1,37798284,Viktor Kuncak,0,-0.20710177796158177,0.6340926508591732
+2158103950,Code Completion using Quantitative Type Inhabitation,2011,18,6,1,1,37798284,Viktor Kuncak,0,0.3390823620944494,0.9250033185008565
+2146803901,On Role Logic,2003,68,13,1,1,37798284,Viktor Kuncak,0,-0.32155283791165873,-0.00617879636589495
+2228938473,Automating grammar comparison,2015,31,6,1,1,37798284,Viktor Kuncak,0,-2.0529844787082925,0.322156179579852
+2228968538,Development and evaluation of LAV an SMT-based error finding platform,2012,24,16,2,0,8354611,Milena Vujosevic Janicic,0,0.5950789072865473,-0.5898190720673624
+2258718079,Verifying Resource Bounds of Programs with Lazy Evaluation and Memoization,2016,53,0,1,1,37798284,Viktor Kuncak,0,-1.2613887560125103,-1.1329200622425577
+2250056704,Verifying and Synthesizing Software with Recursive Functions (Invited Contribution),2014,76,4,1,1,37798284,Viktor Kuncak,0,1.0558339598974447,-0.5818817470954857
+2293100135,Speculative linearizability,2012,25,16,1,1,37798284,Viktor Kuncak,0,-0.06899266350438772,-0.08539407511569484
+2299696796,Towards a Compiler for Reals,2017,48,35,1,1,37798284,Viktor Kuncak,0,-0.44869122900443015,-0.00015649039724540022
+2295622790,Role analysis,2002,56,111,1,1,37798284,Viktor Kuncak,0,-0.3542458213991138,0.062790734395556
+2290809147,Towards Automating Grammar Equivalence Checking EPFL-REPORT-206921,2015,28,0,1,1,37798284,Viktor Kuncak,0,-2.0529844787082925,0.322156179579852
+2403900172,Insynth A system for code completion using types and weights,2015,2,0,1,1,37798284,Viktor Kuncak,0,-0.16088665822248902,0.7911128715447119
+2465021780,Translating Scala Programs to Isabelle/HOL,2016,16,3,1,1,37798284,Viktor Kuncak,0,-0.7990077187815433,0.04179080915685534
+2502664259,Verification Model Checking and Abstract Interpretation,2012,0,0,1,1,37798284,Viktor Kuncak,0,-0.7077761695869786,0.20329239239138466
+2565399133,Contract-based resource verification for higher-order functions with memoization,2017,78,12,1,1,37798284,Viktor Kuncak,0,-0.6166170514820957,-1.114049077691609
+2579160749,Translating Scala Programs to Isabelle/HOL - System Description,2016,14,2,1,1,37798284,Viktor Kuncak,0,-0.8035322040879976,0.05712988561106088
+2534043998,SMT-based checking of predicate-qualified types for Scala,2016,13,1,1,1,37798284,Viktor Kuncak,0,-0.8037791333347301,-0.019557614559717475
+2735990162,On Repair with Probabilistic Attribute Grammars,2017,4,2,1,1,37798284,Viktor Kuncak,0,-0.3976280463981219,-0.0608157348209823
+2589084440,Refutation-based synthesis in SMT,2019,51,7,1,1,37798284,Viktor Kuncak,0,-0.2284197510384896,-0.19368387230835554
+2731851135,Proactive Synthesis of Recursive Tree-to-String Functions from Examples,2017,0,2,1,1,37798284,Viktor Kuncak,0,-0.6595856777872495,-0.4367881673239074
+2890873226,Bidirectional Evaluation with DirectManipulation,2018,31,7,1,1,37798284,Viktor Kuncak,0,0.12787740097406453,-0.29923199800901507
+2927725532,System FR as Foundations for Stainless,2019,57,1,1,1,37798284,Viktor Kuncak,0,-0.7802077190390195,0.07109103464948019
+2911776278,Proceedings of the 13th international conference on Verification Model Checking and Abstract Interpretation,2012,0,2,1,1,37798284,Viktor Kuncak,0,-0.36669543441347335,0.044849700580217124
+2949480118,On Verifying Complex Properties using Symbolic Shape Analysis,2006,34,0,1,1,37798284,Viktor Kuncak,0,-1.4479105851191594,-0.5508892862976383
+2950610796,Translating Scala Programs to Isabelle/HOL,2016,7,1,1,1,37798284,Viktor Kuncak,0,-0.6300567318339503,0.15555389589673196
+2951126825,On Algorithms and Complexity for Sets with Cardinality Constraints,2005,24,9,1,1,37798284,Viktor Kuncak,0,0.10139762131617419,0.37170498042307093
+2989941108,LL(1) Parsing with Derivatives and Zippers,2019,44,0,1,1,37798284,Viktor Kuncak,0,-1.042313155527482,-0.24055230311389064
+2979917532,System FR formalized foundations for the stainless verifier,2019,40,0,1,1,37798284,Viktor Kuncak,0,-0.1164726804531344,0.019252515865476

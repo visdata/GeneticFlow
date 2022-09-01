@@ -1,0 +1,72 @@
+19955532,A sufficient condition for key-privacy,2005,3,25,1,0,1686185850,Shai Halevi,0,0.06580210432553135,-0.2754463911111865
+56672870,Theory of Cryptography,2006,0,2,1,0,1686185850,Shai Halevi,0,0.03149052311918321,-2.1001118381520993
+1550569922,Non-Interactive Hierarchical Identity-Based Key-Agreement,2008,12,16,1,0,1686185850,Shai Halevi,0,1.120750672373645,-0.5684112084175822
+1553251265,Eliminating Decryption Errors in the Ajtai-Dwork Cryptosystem,1997,1,2,2,0,65538393,Oded Goldreich,0,0.4671243768588495,-2.4053048819447906
+1671464876,Using HB Family of Protocols for Privacy-Preserving Authentication of RFID Tags in a Population,2009,11,15,2,0,849646790,Tzipora Halevi,0,-0.5765179851938619,-0.0222320108032803
+1932302600,Composable security analysis of OS services,2011,19,5,2,0,687553606,Ran Canetti,0,-0.16226279780689024,-0.409071775356469
+1588165891,After-the-fact leakage in public-key encryption,2011,27,78,1,0,1686185850,Shai Halevi,0,0.1527119325003606,-1.5494619498388624
+1848181069,Storage Encryption A Cryptographers View,2008,0,1,1,0,1686185850,Shai Halevi,0,0.03918676522955019,-1.838244746463975
+1759759811,Universally composable password-based key exchange,2005,32,182,3,0,30238620,Yehuda Lindell,0,-0.8222105661162326,-1.6697304949277494
+1597922576,One-pass HMQV and asymmetric key-wrapping,2011,13,17,1,0,1686185850,Shai Halevi,0,-0.12221364852524029,-1.7704381040308017
+1589122864,Tree-based HB protocols for privacy-preserving authentication of RFID tags,2011,18,10,2,0,849646790,Tzipora Halevi,0,-0.5765179851938619,-0.0222320108032803
+1817964144,Adaptively-secure non-interactive public-key encryption,2005,27,43,2,0,687553606,Ran Canetti,0,0.35991952692054757,-2.0258833562172542
+1823595194,Mitigating dictionary attacks on password-protected local storage,2006,24,52,2,0,687553606,Ran Canetti,0,-2.3897659758264176,-1.7169234135210723
+1601946101,Strongly-Resilient and Non-interactive Hierarchical Key-Agreement in MANETs,2008,17,49,2,0,5807779,Stephen D. Wolthusen,0,-0.29230110803139064,-1.4943949072576637
+1949164874,Circular-Secure Encryption from Decision Diffie-Hellman,2008,32,192,3,0,201828038,Dan Boneh,0,0.3656313580622659,-2.1656180069200586
+1865528730,Advanced Homomorphic Encryption its Applications and Derivatives (AHEAD),2013,0,0,4,0,83353782,Daniele Micciancio,0,0.7427698114395846,-0.718136482595336
+1603068992,A forward-secure public-key encryption scheme,2003,38,30,2,0,687553606,Ran Canetti,0,0.24548715464397755,-1.8021085800701226
+1973801321,Chosen-Ciphertext Security from Identity-Based Encryption,2006,59,360,3,0,201828038,Dan Boneh,0,0.144804752415244,-1.1724646542264954
+1989129498,A model and architecture for pseudo-random generation with applications to /dev/random,2005,15,81,1,0,1686185850,Shai Halevi,0,0.23420786685520492,0.06009188982455197
+1992506132,Public-key cryptography and password protocols,1999,30,267,1,0,1686185850,Shai Halevi,0,-2.1611888578131913,-1.5344525671784748
+2020928798,Proofs of ownership in remote storage systems,2011,14,307,4,0,204190299,Danny Harnik,0,-1.170814633983097,-0.5014828643547026
+2048474463,Attacking cryptographic schemes based on &quot;perturbation polynomials&quot;,2009,6,48,1,0,1686185850,Shai Halevi,0,-0.15864374652083932,-0.1879861517290886
+2046871034,A Forward-Secure Public-Key Encryption Scheme,2007,46,156,2,0,687553606,Ran Canetti,0,0.20146363269325934,-2.316983688470057
+2059699269,Cryptanalysis of ISO/IEC 9796-1,2008,14,10,1,0,1686185850,Shai Halevi,0,0.7383121379330901,-1.9192820977431668
+2074861055,Public-key cryptography and password protocols,1998,21,77,1,0,1686185850,Shai Halevi,0,-1.1173283003683263,-2.195300729559204
+2089413537,Security under key-dependent inputs,2007,20,54,1,0,1686185850,Shai Halevi,0,0.38452972211403735,-2.165008954330364
+2086315534,Maintaining Authenticated Communication in the Presence of Break-Ins,2000,24,34,2,0,687553606,Ran Canetti,0,0.10315842939144178,-0.6309940063834762
+2096379058,Optimizing ORAM and Using It Efficiently for Secure Computation,2013,24,109,2,0,234122163,Daniel Wichs,0,0.8543400668846337,-1.0652002757410397
+2123592926,Maintaining authenticated communication in the presence of break-ins,1997,30,14,2,0,687553606,Ran Canetti,0,-0.25924144176662695,-0.5883941421210716
+2120785248,More on Key Wrapping,2009,24,8,1,0,1686185850,Shai Halevi,0,0.5050394040082241,-2.137143134176014
+2115141985,Scream A Software-Efficient Stream Cipher,2002,5,42,1,0,1686185850,Shai Halevi,0,1.0821644079298227,-1.282558712761867
+2113029047,Biometric authentication system with encrypted models,1999,9,173,1,0,1686185850,Shai Halevi,0,-0.3575088421623343,-0.38279754871433447
+2116881075,Chosen ciphertext secure public key threshold encryption without random oracles,2006,36,76,3,0,67263304,Xavier Boyen,0,0.6665289212509307,-2.9244799998649964
+2172027278,Rationality and traffic attraction incentives for honest path announcements in bgp,2008,40,53,2,0,349074278,Aaron D. Jaggard,0,0.36544092170511777,0.5375067894756285
+2215303473,Verification of encryption key,2006,19,4,1,0,1686185850,Shai Halevi,0,-0.022164340589225284,-1.8123557146110332
+2197136836,Method of Managing and Mitigating Security Risks Through Planning,2009,9,11,3,0,693371167,Paul A. Karger,0,0.0040557659796233,0.2757546058061082
+2249728056,Distributed key store,2006,22,19,1,0,1686185850,Shai Halevi,0,0.09414780691425524,-1.56713896596069
+2296585978,Private Database Access with HE-over-ORAM Architecture,2015,27,29,1,0,1686185850,Shai Halevi,0,0.9253076434285058,-0.6789809442614652
+2343009295,Hiding secrets in software a cryptographic approach to program obfuscation,2016,27,4,1,0,1686185850,Shai Halevi,0,0.6948887072517547,0.9674341584422328
+2404809868,Fully Secure Functional Encryption without Obfuscation,2014,24,84,2,0,986054867,Mark Zhandry,0,0.20055110941168072,-1.1975770400719317
+2395232863,Where Do You Want to Go Today Escalating Privileges by Pathname Manipulation,2010,12,18,1,0,1686185850,Shai Halevi,0,0.0040557659796233,0.2757546058061082
+2400868121,Use of Indirect Data Keys for Encrypted Tape Cartridges,2007,17,27,1,0,1686185850,Shai Halevi,0,0.30287817950121737,-1.024569483193601
+2584255931,Public Key Cryptography - PKC 2012,2012,0,0,1,0,1686185850,Shai Halevi,0,0.03910652856792115,-0.9542749174440527
+2584840935,Chosen ciphertext secure public key threshold encryption without random oracles,2006,0,36,3,0,67263304,Xavier Boyen,0,0.6665289212509307,-2.9244799998649964
+2611529857,A forward-secure public-key encryption scheme,2003,0,493,2,0,687553606,Ran Canetti,0,0.24548715464397755,-1.8021085800701226
+2611587517,Universally composable password-based key exchange,2005,0,0,3,0,30238620,Yehuda Lindell,0,-0.8222105661162326,-1.6697304949277494
+2615588709,Public-Key Cryptosystems from Lattice Reduction Problems,1996,0,10,2,0,65538393,Oded Goldreich,0,0.8061424645574797,-2.5510298906691533
+2616290262,Scream A software-efficient stream cipher,2002,0,1,1,0,1686185850,Shai Halevi,0,0.9319052288344738,-1.144098812872199
+2765638539,Implementing BP-Obfuscation Using Graph-Induced Encoding,2017,19,14,2,0,849646790,Tzipora Halevi,0,-0.521076096121468,0.3456416612149622
+2803241710,Supporting Private Data on Hyperledger Fabric with Secure Multiparty Computation,2018,6,15,2,0,849646790,Tzipora Halevi,0,1.1941435071475526,-0.14002774685986444
+2916706634,Security and Cryptography for Networks - SCN 2012,2012,0,0,2,0,1249250080,Chris Peikert,0,0.3171484069971384,-0.13992525839030945
+2913488147,Proceedings of the Third conference on Theory of Cryptography,2006,0,1,1,0,1686185850,Shai Halevi,0,0.3171484069971384,-0.13992525839030945
+2897951405,Advanced Cryptography Promise and Challenges,2018,0,1,1,0,1686185850,Shai Halevi,0,0.7853710304745505,-0.6762665357208416
+2951608554,Two-round secure MPC from Indistinguishability Obfuscation,2013,0,3,1,0,1686185850,Shai Halevi,0,-0.255481096177426,0.4843741529378961
+2949626724,Adaptively-Secure Non-Interactive Public-Key Encryption,2004,0,0,2,0,687553606,Ran Canetti,0,0.03910652856792115,-0.9542749174440527
+2951705425,Public-key cryptography and password protocols,1999,0,0,1,0,1686185850,Shai Halevi,0,-0.23609932427638003,-0.6790755198985031
+2949960822,Many-to-one Trapdoor Functions and their Relation to Public-key Cryptosystems,1998,0,0,2,0,173843361,Salil Vadhan,0,0.24387117991741236,-1.3811580487801542
+2950038310,Composable Security Analysis of OS Services,2010,0,1,2,0,687553606,Ran Canetti,0,0.2018268678365599,0.1425886522275585
+2952238016,Spooky Encryption and its Applications,2016,0,1,3,0,234122163,Daniel Wichs,0,0.155870422438688,-0.3611899258997246
+2952240169,Security under Key-Dependent Inputs,2007,0,0,1,0,1686185850,Shai Halevi,0,0.0040557659796233,0.2757546058061082
+2962706177,Setup-Free Secure Search on Encrypted Data Faster and Post-Processing Free,2019,57,0,1,0,1686185850,Shai Halevi,0,0.155870422438688,-0.3611899258997246
+2950741652,Attribute-Based Encryption for Circuits from Multilinear Maps,2012,15,9,1,0,1686185850,Shai Halevi,0,-0.41729914604203044,-0.5313149003703026
+2952778826,On the Implausibility of Differing-Inputs Obfuscation and Extractable Witness Encryption with Auxiliary Input,2013,0,1,2,0,234122163,Daniel Wichs,0,-0.06775903781903309,-0.00979538390992174
+2941724816,Supporting private data on Hyperledger Fabric with secure multiparty computation,2019,0,6,2,0,849646790,Tzipora Halevi,0,1.1941435071475526,-0.14002774685986444
+2951194254,Mitigating Dictionary Attacks on Password-Protected Local Storage,2006,0,1,2,0,687553606,Ran Canetti,0,-0.7112713085652437,-0.3147397003430095
+2951202796,A Forward-Secure Public-Key Encryption Scheme,2002,0,3,2,0,687553606,Ran Canetti,0,0.03910652856792115,-0.9542749174440527
+2949302825,The Random Oracle Methodology Revisited,2000,22,1,3,0,65538393,Oded Goldreich,0,0.5625493950506091,-1.0700969637254212
+2949304605,Chosen-Ciphertext Security from Identity-Based Encryption,2003,0,3,2,0,687553606,Ran Canetti,0,0.1683539061682523,-0.8351847254039225
+2949326481,Universally Composable Password-Based Key Exchange,2005,0,0,3,0,30238620,Yehuda Lindell,0,-0.42346555134785246,-0.9713564954154381
+2989946494,On Fully Secure MPC with Solitary Output,2019,33,0,3,0,114908009,Yuval Ishai,0,1.0148279357837102,-0.17555436131222457
+2997524130,Initial Public Offering (IPO) on Permissioned Blockchain Using Secure Multiparty Computation,2019,15,0,2,0,849646790,Tzipora Halevi,0,0.27440771000451164,-0.0439184908427559
+3021653443,Can a Blockchain Keep a Secret,2020,0,0,2,0,236344266,Leonid Reyzin,0,0.03857885209080565,0.668590409100547

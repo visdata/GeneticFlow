@@ -1,0 +1,85 @@
+74868156,Automatic Detection and Analysis of Encrypted Messages in Malware,2013,20,2,2,0,2136162234,Juanru Li,0,-0.12865763131220598,0.7098264350265233
+13077946,Linear fault analysis of block ciphers,2012,45,3,1,0,2145276306,Dawu Gu,0,1.4670985293386443,-1.835016810995027
+292673130,Efficient Leakage-Resilient Identity-Based Encryption with CCA Security,2013,52,12,2,0,2122484838,Shifeng Sun,0,0.7797963943465218,-1.4620056648167983
+1020634404,Disguisable Symmetric Encryption Schemes for an Anti-forensics Purpose,2010,13,0,1,0,2145276306,Dawu Gu,0,0.3601544890146148,-1.7239920685954837
+1542518229,A New Offline Privacy Protecting E-cash System with Revokable Anonymity,2002,36,28,3,0,2096351533,Weidong Qiu,0,-0.17483696686578928,0.5800056289539618
+1527785836,Security analysis and enhancement for three-party password-based authenticated key exchange protocol,2012,18,4,1,0,2145276306,Dawu Gu,0,-1.5635443286294803,-2.741679961329593
+1503403881,New Fuzzy Identity-Based Encryption in the Standard Model,2010,20,12,3,0,2097850966,Xinpeng Zhang,0,0.43442508837239874,-1.7707964473407163
+1129064836,TagDroid Hybrid SSL Certificate Verification in Android,2014,9,3,3,0,2111614846,Wenbo Yang,0,-0.10833237961748973,-2.540376063457928
+1742806735,Research on Differential Power Analysis of HMAC-SM3,2015,0,0,3,0,2129992933,Junrong Liu,0,-0.1616034686592609,-2.1239988676090937
+1906282778,Efficient ciphertext-policy attribute based encryption with hidden policy,2012,35,23,1,0,2145276306,Dawu Gu,0,0.9820314196934746,-2.024363405092553
+1592036464,Impossible differential attacks on reduced-round LBlock,2012,32,34,1,0,2145276306,Dawu Gu,0,1.65689834933322,-1.3791385218190966
+1715931484,Security Analysis of the Lightweight Cryptosystem TWINE in the Internet of Things,2015,23,3,1,0,2145276306,Dawu Gu,0,0.7092503628863889,-0.8242891494384742
+1831313092,Meet-in-the-middle fault analysis on word-oriented substitution-permutation network block ciphers,2015,28,3,1,0,2145276306,Dawu Gu,0,0.7449017911767877,-2.120271036855376
+1602862674,An approach for symmetric encryption against side channel attacks in provable security,2007,13,2,1,0,2145276306,Dawu Gu,0,0.9881761752131709,-1.3019791053229341
+1966935189,Toward active and efficient privacy protection for Android,2013,8,6,2,0,2136162234,Juanru Li,0,-0.028762244699916673,0.8703416580730308
+1975917126,CCA2 secure (hierarchical) identity-based parallel key-insulated encryption without random oracles,2010,18,7,1,0,2145276306,Dawu Gu,0,0.2632507013897839,-2.1779431081982104
+1966117405,A Survey on Lightweight Entity Authentication with Strong PUFs,2015,61,64,4,0,1971561049,Roel Peeters,0,-0.7746181195803475,0.15497606393202706
+1994926295,Stronger security model of group key agreement,2011,21,13,3,0,391796015,M. Choudary Gorantla,0,-0.08783985358898978,-0.000527408772831639
+2011039860,Analysis of Smart Grid security standards,2011,19,26,1,0,2145276306,Dawu Gu,0,1.109418903613179,1.8725548710158932
+2012955216,An Improved Side-Channel Attack Based on Support Vector Machine,2014,16,5,3,0,2097729108,Zhong Zeng,0,0.36484377031598736,-1.0128618706630812
+2016498616,Improved results on impossible differential cryptanalysis of reduced-round Camellia-192/256,2012,18,12,1,0,2145276306,Dawu Gu,0,1.518508327075899,-2.0048783872494367
+2011460157,Towards Efficient and Secure Geographic Routing Protocol for Hostile Wireless Sensor Networks,2013,27,3,1,0,2145276306,Dawu Gu,0,0.31937121203671764,0.25015259446140287
+2055280039,Provably secure three-party password-based authenticated key exchange protocol,2012,61,38,1,0,2145276306,Dawu Gu,0,-0.6290435288624865,-1.7286143508699736
+2076041645,HIERARCHICAL IDENTITY-BASED PROXY RE-ENCRYPTION WITHOUT RANDOM ORACLES,2010,19,5,2,0,2120698829,Shuozhong Wang,0,0.31266759952130274,-1.6007170173778027
+2062333037,Legitimate-reader-only attack on MIFARE Classic,2013,5,6,2,0,2104522835,Bailan Li,0,-0.48557037602639536,0.34447546474229057
+2069648848,On weaknesses of the HDCP authentication and key exchange protocol and its repair,2012,13,4,1,0,2145276306,Dawu Gu,0,-0.6321387173924194,-1.1478085574287267
+2094619820,From Collision To Exploitation Unleashing Use-After-Free Vulnerabilities in Linux Kernel,2015,13,21,4,0,2111614846,Wenbo Yang,0,0.1639362940477497,0.6530314529854678
+2095644778,Android Malware Forensics Reconstruction of Malicious Events,2012,5,33,2,0,2136162234,Juanru Li,0,0.7161354986322349,0.9600790623188239
+2123134030,APKLancet tumor payload diagnosis and purification for android applications,2014,15,15,4,0,2111614846,Wenbo Yang,0,0.05940095047987125,0.6960502266457337
+2137866924,Novel Verifiable General Secret Sharing Using Weil Pairing,2009,18,1,1,0,2145276306,Dawu Gu,0,0.616322837149999,-0.22173448131841247
+2171167169,Assembly Reverse Analysis on Malicious Code of Web Rootkit Trojan,2009,7,1,1,0,2145276306,Dawu Gu,0,0.5751752514282619,0.6849997353928237
+2162243269,Virus Analysis on IDT Hooks of Rootkits Trojan,2009,7,2,2,0,2104376657,Mi Wen,0,-0.49008872532046366,0.8047005705368941
+2160550155,Proofs of Retrievability Based on MRD Codes,2014,16,3,3,0,2098118317,Shuai Han,0,0.16970294840604305,-0.4972861950470299
+2152360949,Hacking Risk Analysis of Web Trojan in Electric Power System,2009,10,1,1,0,2145276306,Dawu Gu,0,0.17797459532284765,0.6133582148836894
+2146467349,Fully Secure Wicked Identity-Based Encryption Against Key Leakage Attacks,2015,0,6,2,0,2122484838,Shifeng Sun,0,0.5793797320279931,-1.9948193799538096
+2188484915,Secure Lightweight Entity Authentication with Strong PUFs Mission Impossible ,2014,26,7,4,0,2044881251,Ingrid Verbauwhede,0,-0.49364628606134736,0.012859826628276205
+2218971720,Vulnerability Assessment of OAuth Implementations in Android Applications,2015,9,18,3,0,2111614846,Wenbo Yang,0,0.015245780877612549,0.7423220265691124
+2220376259,Comparison of some mask protections of DES against power analysis,2015,5,0,2,0,2129992933,Junrong Liu,0,0.609827578220394,-0.21515871061502811
+2243232214,CLIP Continuous Location Integrity and Provenance for Mobile Phones,2015,25,6,3,0,2130134174,Amit Pande,0,-0.5530861437885858,-0.004176666300269333
+2244986783,Impossible Differential Fault Analysis on the LED Lightweight Cryptosystem in the Vehicular Ad-Hoc Networks,2016,28,14,1,0,2145276306,Dawu Gu,0,0.4832314503250985,-0.9761960781457564
+2269664735,iCryptoTracer Dynamic Analysis on Misuse of Cryptography Functions in iOS Applications,2014,13,19,2,0,2136162234,Juanru Li,0,0.0070223659696980745,-0.28324609198805856
+2260504727,Efficient chosen ciphertext secure identityâ€based encryption against key leakage attacks,2016,35,8,2,0,2122484838,Shifeng Sun,0,0.35623433045553354,-1.9626385396038941
+2294912729,Small Tweaks Do Not Help Differential Power Analysis of MILENAGE Implementations in 3G/4G USIM Cards,2015,15,18,3,0,2085610964,FranÃ§ois Xavier Standaert,0,0.4827262127386574,-0.3152900315720522
+2296128045,AppSpear Bytecode Decrypting and DEX Reassembling for Packed Android Malware,2015,17,29,4,0,2111614846,Wenbo Yang,0,-0.13361486519754617,0.7108017024079505
+2340386163,Public key cryptosystems secure against memory leakage attacks,2016,32,0,3,0,2098118317,Shuai Han,0,0.16763612506031547,-1.6155149548001133
+2403988727,SSG Sensor Security Guard for Android Smartphones,2015,12,2,2,0,2136162234,Juanru Li,0,0.28149582781980675,0.2471437831077137
+2404094717,Verifiable Outsourcing Algorithms for Modular Exponentiations with Improved Checkability,2016,28,15,2,0,2097850966,Xinpeng Zhang,0,0.2346573458618598,-0.9896509060920002
+2400640989,Efficient Construction of Completely Non-Malleable CCA Secure Public Key Encryption,2016,26,0,4,0,220010035,Udaya Parampalli,0,0.5341449901778261,-2.7259202732110404
+2462437636,Identity-Based Encryption with Verifiable Outsourced Revocation,2016,39,3,2,0,2097850966,Xinpeng Zhang,0,0.398284464995152,-0.19328231629535084
+2493246378,Efficient Completely Non-Malleable and RKA Secure Public Key Encryptions,2016,32,1,3,0,220010035,Udaya Parampalli,0,1.2511628509334247,-2.4892225127385497
+2520180658,Open Sesame Web Authentication Cracking via Mobile App Analysis,2016,3,0,2,0,2136162234,Juanru Li,0,-1.5024533566911529,-0.7503752643102709
+2576920718,A Fault Attack against SM2 Signature,2013,0,0,2,0,2141198508,Wenlu Xie,0,0.9638547875379884,-0.21027578929659324
+2517921026,Privacy-preserving data sharing scheme over cloud for social applications,2016,36,4,3,0,2122484838,Shifeng Sun,0,0.025741285240980866,0.360766492727674
+2559870021,The Achilles heel of OAuth a multi-platform study of OAuth-based authentication,2016,17,10,2,0,2136162234,Juanru Li,0,-0.8492378341472556,0.18185892277971835
+2569693223,Why Data Deletion Fails A Study on Deletion Flaws and Data Remanence in Android Systems,2017,31,7,3,0,2136162234,Juanru Li,0,0.27844714193038306,0.5934123001132089
+2586360131,New Exploit Methods against Ptmalloc of GLIBC,2016,13,1,2,0,2136162234,Juanru Li,0,-0.3298717486468034,1.2192927984572213
+2613084287,Show Me the Money Finding Flawed Implementations of Third-party In-app Payment in Android Apps,2017,17,9,3,0,2111614846,Wenbo Yang,0,0.1277271663146797,0.24067959541525985
+2606494800,Related-key secure key encapsulation from extended computational bilinear Diffieâ€“Hellman,2017,41,0,4,0,2062283694,Robert H. Deng,0,-0.5521972629964438,-2.3900669567575807
+2594820387,Inner Product Masking for Bitslice Ciphers and Security Order Amplification for Linear Leakages,2016,15,6,3,0,2085610964,FranÃ§ois Xavier Standaert,0,0.3137433018655129,-0.4855809975636733
+2609063781,Public key encryption resilient to leakage and tampering attacks,2017,43,1,4,0,220010035,Udaya Parampalli,0,0.11956168452836363,-1.5784172193551247
+2737222504,Security Analysis of the Whirlpool Hash Function in the Cloud of Things,2017,0,2,1,0,2145276306,Dawu Gu,0,-0.09567222351060911,0.026109301930971145
+2766147180,Smart Solution Poor Protection An Empirical Study of Security and Privacy Issues in Developing and Deploying Smart Home Devices,2017,6,10,2,0,2136162234,Juanru Li,0,0.3638816818335427,1.3225402987029315
+2767667498,Embroidery Patching Vulnerable Binary Code of Fragmentized Android Devices,2017,16,2,2,0,2136162234,Juanru Li,0,0.1639362940477497,0.6530314529854678
+2809425259,Improved Meet-in-the Middle Attacks on Reduced-Round TWINE-128,2018,3,1,1,0,2145276306,Dawu Gu,0,1.17872987837449,-0.9633901005898861
+2810073437,Passwords in the Air Harvesting Wi-Fi Credentials from SmartCfg Provisioning,2018,15,4,2,0,2136162234,Juanru Li,0,-0.579328487091033,-0.13527704843231672
+2785519497,Secure Lightweight Entity Authentication with Strong PUFs Mission Impossible ,2014,0,25,4,0,2044881251,Ingrid Verbauwhede,0,-0.5530861437885858,-0.004176666300269333
+2884109160,Ciphertext-Only Fault Analysis on the LED Lightweight Cryptosystem in the Internet of Things,2019,0,5,1,0,2145276306,Dawu Gu,0,0.0022787524665235093,-1.0392114009734221
+2885692473,Tightly Secure Encryption Schemes against Related-Key Attacks,2018,2,0,3,0,2098118317,Shuai Han,0,0.155870422438688,-0.3611899258997246
+2899517910,Oh-Pwn-VPN Security Analysis of OpenVPN-Based Android Apps,2017,6,2,2,0,2136162234,Juanru Li,0,0.21028026650351142,0.04620490540175104
+2891236674,Pinpointing Insecure Cryptographic Keys from Execution Traces,2018,0,0,4,0,2118632750,Juan Caballero,0,0.16625186412845705,-0.7405372439782839
+2904050178,Burn After Reading Expunging Execution Footprints of Android Apps,2018,29,0,3,0,2136162234,Juanru Li,0,-0.011227829701106537,0.8001773149129816
+2897859437,K-Hunt Pinpointing Insecure Cryptographic Keys from Execution Traces,2018,35,4,4,0,2118632750,Juan Caballero,0,0.1360750673983093,-0.9974385082010645
+2949553964,Z-Channel Scalable and Efficient Scheme in Zerocash,2019,21,1,1,0,2145276306,Dawu Gu,0,-0.7838463053890015,-0.3207621470013623
+2951726707,Stronger Security Model of Group Key Agreement,2010,0,0,3,0,391796015,M. Choudary Gorantla,0,-0.3620518622135187,-0.1649939141847615
+2951808299,Secure Lightweight Entity Authentication with Strong PUFs Mission Impossible II,2014,0,1,4,0,1971561049,Roel Peeters,0,-0.5530861437885858,-0.004176666300269333
+2954369705,RingCT 30 for Blockchain Confidential Transaction Shorter Size and Stronger Security,2019,0,3,4,0,1980177916,Man Ho Au,0,-0.039650921493863366,0.810450045495091
+2954435843,Improved Meet-in-the-Middle Attacks on Reduced-Round Kiasu-BC and Joltik-BC,2019,10,0,1,0,2145276306,Dawu Gu,0,1.17872987837449,-0.9633901005898861
+2947575808,Strong Leakage and Tamper-Resilient PKE from Refined Hash Proof System,2019,40,0,5,0,1980177916,Man Ho Au,0,-0.2407490473927798,-0.2684048766807246
+2963159097,Security analysis of third-party in-app payment in mobile applications,2019,26,0,3,0,2111614846,Wenbo Yang,0,0.2018268678365599,0.1425886522275585
+2982515466,A Secure and Practical Blockchain Scheme for IoT,2019,16,0,1,0,2145276306,Dawu Gu,0,0.005782026969911119,0.5706877442758695
+2982626025,Making Monero Hard-to-Trace and More Efficient,2019,14,0,1,0,2145276306,Dawu Gu,0,-0.6059623080742491,0.07786887029375289
+3014982827,SymSem Symbolic Execution with Time Stamps for Deobfuscation,2019,15,0,1,0,2145276306,Dawu Gu,0,0.0040557659796233,0.2757546058061082
+3013309564,Persistent Fault Attack in Practice,2020,0,0,4,0,2120025964,Shivam Bhasin,0,0.9638547875379884,-0.21027578929659324
+3013783492,Public-Key Puncturable Encryption Modular and Compact Constructions,2020,0,0,4,0,45395454,Amin Sakzad,0,0.12863271201119833,-0.9688947641645543
+3014792488,SMARTSHIELD Automatic Smart Contract Protection Made Easy,2020,32,0,2,0,2136162234,Juanru Li,0,0.6479611148232042,0.6332088019610957

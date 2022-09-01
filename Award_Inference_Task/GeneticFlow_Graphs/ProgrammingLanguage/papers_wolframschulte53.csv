@@ -1,0 +1,120 @@
+86717647,FORMULA 20 A Language for Formal Specifications,2013,0,4,1,1.0,2115070196,Wolfram Schulte,0,0.16623847638344588,0.09344707963616021
+205992776,Using Abstract State Machines at Microsoft A Case Study,2000,4,19,4,1.0,130871852,Margus Veanes,0,1.0883833418873052,-0.10759667331471715
+121853851,Waiting for Godot The Right Language Abstractions for Parallel Programming Should be Here Soon,2012,0,0,2,0.952381,1607732079,Todd Mytkowicz,0,-0.1164726804531344,0.019252515865476
+140605890,Parallel and Serial Composition of Model Programs,2007,12,1,2,0.7982,130871852,Margus Veanes,0,1.180300431401043,-0.47000283471881965
+212073299,Scenario-oriented Modeling in AsmL and its Instrumentation for Testing,2017,5,14,3,0.0,99310831,Wolfgang Grieskamp,0,-0.1164726804531344,0.019252515865476
+23483625,A Verifying Compiler for a Multi-threaded Object-Oriented Language,2007,67,15,2,0.0,710865586,K. Rustan M. Leino,0,0.8950701168348323,-1.8211730501463614
+196212197,Conformance Checking of Components Against Their Non-deterministic Specifications,2001,8,20,2,0.0,2047002760,Lev Nachmanson,0,-0.16491451943582047,0.01943197298605136
+162865419,The Essence of Data Access in C omega ,2005,0,62,2,0.535714,2058820594,Gavin Bierman,0,-0.09032570149571914,0.35851360402480403
+27343765,Conformance Testing with Abstract State Machines,2001,21,7,3,0.405196,99310831,Wolfgang Grieskamp,0,-0.16491451943582047,0.01943197298605136
+197735651,Unifying Tables Objects and Documents,2003,37,55,1,1.0,2115070196,Wolfram Schulte,0,1.0803942535436983,-2.0409213694376707
+11197825,On-The-Fly Testing of Reactive Systems,2005,17,24,2,1.0,130871852,Margus Veanes,0,3.3279663877772796,-0.27880016160547005
+47203413,A Re-Entrancy Analysis for Object Oriented Programs,2007,10,2,3,1.0,338942495,Diego Garbervetsky,0,0.04150143802895394,-0.28168701136811974
+201200823,Safe Concurrency for Aggregate Objects with Invariants Soundness Proof,2005,28,5,4,0.532618,233250515,Frank Piessens,0,0.987062025979874,0.07173406717217838
+133771446,NET Contracts Attaching Specifications to Components,2003,19,0,1,1.0,2115070196,Wolfram Schulte,0,1.3778329933442857,-0.23551287985168462
+185651552,An introduction to TkGofer,2010,0,0,3,1.0,940522050,Ton Vullinghs,0,-0.1164726804531344,0.019252515865476
+1487976902,A statically verifiable programming model for concurrent object-oriented programs,2006,17,23,4,0.532618,233250515,Frank Piessens,0,0.786300438074609,0.1005677521727625
+1569364044,Modular design for the Java virtual machine architecture,2000,17,13,2,0.0,2026252948,Egon BÃ¶rger,0,-1.915473692331083,0.49133033461577963
+1524868930,Semantic Essence of AsmL Extended Abstract,2003,9,8,1,1.0,2115070196,Wolfram Schulte,0,0.06988650061634424,0.26635269524231925
+1534135395,Investigating Java Concurrency Using Abstract State Machines,2000,11,17,1,1.0,2115070196,Wolfram Schulte,0,-1.9730186717235303,-0.08910323593238544
+1570300974,Why Doesnt Anyone Use Formal Methods ,2000,0,6,1,1.0,2115070196,Wolfram Schulte,0,-0.09103966090825485,0.23900309155813299
+1490038304,Controllable combinatorial coverage in grammar-based testing,2006,25,99,2,0.0,1921302331,Ralf LÃ¤mmel,0,0.44190395091443385,0.14746731394251922
+1525306474,Translating Theory into Practice - Abstract State Machines within Microsoft,2000,0,0,1,1.0,2115070196,Wolfram Schulte,0,0.3691509752925257,-0.2501789471602242
+1498831343,Local verification of global invariants in concurrent programs,2010,22,55,2,1.0,207588479,Stephan Tobies,0,-0.28576178929807555,0.10074498419791056
+1525569619,Using AsmL for runtime verification,2003,1,2,1,1.0,2115070196,Wolfram Schulte,0,0.9425856306759568,0.46045013330989104
+1534813992,Symbolic execution of object oriented programs with axiomatic summaries,2005,53,45,2,0.0,99310831,Wolfgang Grieskamp,0,0.30559349534019037,-0.1712037989994204
+1526368475,TkGofer A Functional GUI Library,1996,5,0,2,0.0,940522050,Ton Vullinghs,0,0.7266931979541109,-0.4227790327816502
+1491500510,Formal methods and software engineering 6th International Conference on Formal Engineering Methods ICFEM 2004 Seattle WA USA November 8-12 2004 proceedings,2004,0,0,3,0.0,588667598,Icfem,0,0.34153840142669345,0.24718101804499032
+1491713281,The Design of a Functional GUI Library Using Constructor Classes,1996,12,9,2,0.0,940522050,Ton Vullinghs,0,-0.19258681599204527,0.007627338787301763
+1545104376,Rich Sequential-Time ASMs,2000,2,3,2,1.0,130871852,Margus Veanes,0,1.0707824330963673,-0.36786369655588924
+1483347123,Mock object generation by symbolic execution,2005,45,44,2,0.0,99310831,Wolfgang Grieskamp,0,0.8761175310722529,-0.17044595160989
+1545681762,VCC A Practical System for Verifying Concurrent C,2009,32,410,5,1.0,207588479,Stephan Tobies,0,-1.0398885838707579,-0.5113839081710347
+1501475035,Providing Diverse Solutions Using Design Space Exploration,2010,49,7,2,0.567604,1505484182,Nikolaj BjÃ¸rner,0,0.1897041788246279,-0.2737094127634352
+1493035942,Generalized comprehension in imperative languages,2004,5,8,2,0.0,99310831,Wolfgang Grieskamp,0,0.1864157668945101,-0.8078593733860888
+1573508071,Symbolic runtime checking of quantified contracts,2008,17,26,3,0.59322,1505484182,Nikolaj BjÃ¸rner,0,0.02528316397800434,0.09479848625940304
+1519754081,Implementation of alias preserving structural subtyping with precise types using transparent adapters,2003,17,7,2,0.641026,2003808657,Barend H. Venter,0,-0.1164726804531344,0.019252515865476
+1503384334,Serious Specification for Composing Components,2003,12,12,3,0.405196,99310831,Wolfgang Grieskamp,0,1.2661245771971583,-0.4703249969495772
+1496072735,Understanding specification languages through their model theory,2012,10,2,1,1.0,2115070196,Wolfram Schulte,0,-0.14338628067051984,0.06411528182857039
+1522088162,A Programmer Friendly Modular Definition of the Semantics of Java,1999,32,72,2,0.0,2026252948,Egon BÃ¶rger,0,-2.8309195801409794,0.36533611737635646
+1953169710,Path expressions and SQL select statement in object oriented language,2003,9,60,2,0.641026,2003808657,Barend H. Venter,0,-0.2609851608445502,-1.2215460992642468
+1595532758,Automatic Parallelization in a Tracing Just-in-Time Compiler System,2010,52,23,3,0.0,1974059945,Manuel FÃ¤hndrich,0,-1.3199884568141556,0.6314258862145752
+1578220223,Specification generation from implementations,2005,17,35,2,0.0,99310831,Wolfgang Grieskamp,0,0.35861394709163885,-0.29642103140077053
+1802629170,Feature oriented protocol modeling,2007,23,1,2,0.7982,130871852,Margus Veanes,0,-0.40787874131252577,-0.12489901427023382
+1878117615,Vx86 x86 Assembler Simulated in C Powered by Automated Theorem Proving,2008,27,24,1,1.0,2115070196,Wolfram Schulte,0,1.1615600543289017,-0.21223514194519316
+1803091134,Invariants modularity and rights,2009,8,96,15,1.0,207588479,Stephan Tobies,0,-0.012191949654531853,-0.3877633308224453
+1587947078,Iterators revisited proof rules and implementation,2005,16,11,3,0.532618,233250515,Frank Piessens,0,-0.643429719246377,0.3378220935060347
+1606152849,The Spec# Programming System Challenges and Directions,2005,34,64,4,0.0503051,710865586,K. Rustan M. Leino,0,0.6820686219323688,0.03351153556751396
+1959256509,The spec# programming system an overview,2004,68,491,2,0.0708542,710865586,K. Rustan M. Leino,0,-0.018540829196492786,-0.1699233574559183
+1848539697,Parameterized Unit Testing with Pex Tutorial,2007,4,4,2,0.714286,2049250606,Jonathan de Halleux,0,2.567082808261862,-0.5010627198264322
+1598653346,Exception safety for C,2004,23,23,1,1.0,2115070196,Wolfram Schulte,0,1.219768583995104,-0.9584849039991188
+1913252777,Runtime Verification of C Memory Safety,2009,14,32,3,0.0,96492545,Grigore Rosu,0,-0.902391346156261,-1.2020444092047127
+1589984898,Conformance execution of non-deterministic specifications for components,2002,36,43,1,1.0,2115070196,Wolfram Schulte,0,3.0915115904501618,-0.8417986497863232
+1598924536,Lightweight GUIs for Functional Programming,1995,15,15,2,0.0,940522050,Ton Vullinghs,0,1.3276188588401452,-0.5703173043326912
+1592045781,Specifying and Composing Non-functional Requirements in Model-Based Development,2009,27,28,3,0.0,1107874526,Markus Dahlweid,0,0.5764012746399468,0.5531018306332878
+1663061001,An automatic verifier for Java-like programs based on dynamic frames,2008,22,37,4,0.210872,233250515,Frank Piessens,0,-0.4360980183065204,-0.3244340320604361
+1967877062,Initialization problems for Java,2000,5,18,2,0.0,2026252948,Egon BÃ¶rger,0,-2.8309195801409794,0.36533611737635646
+1998838326,Specification and verification the Spec# experience,2011,29,115,3,0.0,710865586,K. Rustan M. Leino,0,-0.3432139112763826,-0.3915491487528042
+2023928171,Detecting specification errors in declarative languages with constraints,2012,25,11,2,0.402498,1505484182,Nikolaj BjÃ¸rner,0,1.484660692884652,-0.8738939129968571
+2029274126,Automatic parallelization of programming languages past present and future,2010,0,4,1,1.0,2115070196,Wolfram Schulte,0,-0.5555678543215657,0.46849894250212776
+2051634947,Automating Software Testing Using Program Analysis,2008,13,113,3,0.0,2049248193,Aditya V. Nori,0,1.833034174814613,-0.4041071692624531
+2069522167,Automatic verification of Java programs with dynamic frames,2010,42,8,4,0.0,233250515,Frank Piessens,0,1.214458315732913,-0.728951315214006
+2078680298,A Static Analysis to Detect Re-Entrancy in Object Oriented Programs,2008,11,3,3,1.0,338942495,Diego Garbervetsky,0,0.1030486350257056,-0.1493426760707238
+2100044151,Verification of Multithreaded Object-Oriented Programs with Invariants,2004,18,18,2,0.015939,2105127320,Bart Jacobs,0,0.38865477610633237,-0.2860089753621105
+2103030845,Automated migration of build scripts using dynamic analysis and search-based refactoring,2014,53,19,3,0.0,1986514872,Milos Gligoric,0,1.3663716936622712,-0.4097780789424637
+2100509764,Parameterized unit tests with unit meister,2005,19,27,1,1.0,2115070196,Wolfram Schulte,0,0.8517874006725595,-0.7475134938472481
+2103522129,Teaching and training developer-testing techniques and tool support,2010,21,16,3,0.031428,1920070090,Tao Xie,0,3.633602026698783,-0.7860574777920636
+2100737055,Mutation Analysis of Parameterized Unit Tests,2009,8,8,3,0.031428,1920070090,Tao Xie,0,1.231133832554022,-0.4651904236471234
+2100855196,HOL-Boogie--An Interactive Prover-Backend for the Verifying C Compiler,2010,48,33,1,1.0,2115070196,Wolfram Schulte,0,-0.47916479269986956,-0.5032546182324423
+2100878175,Using history invariants to verify observers,2007,34,37,2,0.0,710865586,K. Rustan M. Leino,0,-0.6273601052281105,-0.1826599799210738
+2095297105,Waiting for Godot the right language abstractions for parallel programming should be here soon the multicore transformation (Ubiquity symposium),2014,9,1,2,0.952381,1607732079,Todd Mytkowicz,0,-0.1164726804531344,0.019252515865476
+2084845478,SPUR a trace-based JIT compiler for CIL,2010,24,81,4,0.0,30997055,Francesco Logozzo,0,-0.601104868172432,-0.7617582774748761
+2098631554,A Practical Verification Methodology for Concurrent Programs,2009,17,34,2,1.0,207588479,Stephan Tobies,0,-0.1164726804531344,0.019252515865476
+2095838677,Matching logic an alternative to hoare/floyd logic,2010,34,63,2,0.0,96492545,Grigore Rosu,0,-0.3403974334145891,0.1851572291673452
+2098868862,Action machines - towards a framework for model composition exploration and conformance testing based on symbolic computation,2005,16,17,3,0.0,99310831,Wolfgang Grieskamp,0,2.582083408750933,-0.9735886617145622
+2141080699,A Precise Yet Efficient Memory Model For C,2009,20,66,2,1.0,207588479,Stephan Tobies,0,-0.06450276218129145,0.2710618351459757
+2132251340,Formalizing and Verifying a Modern Build Language,2014,17,18,3,0.0,710865586,K. Rustan M. Leino,0,-0.06708506973543628,-0.01540429405002504
+2109025006,Type-system extensions for object-oriented language based on coercive subtyping with restrictions,2004,30,12,2,0.535714,2058820594,Gavin Bierman,0,0.004880576560232004,-0.20432588490386505
+2123814724,Semantic essence of AsmL,2005,23,111,1,1.0,2115070196,Wolfram Schulte,0,0.00787955113061376,0.10560333075642273
+2138652462,Safe concurrency for aggregate objects with invariants,2005,31,60,3,0.532618,233250515,Frank Piessens,0,1.7732728947051286,-0.37607639064519305
+2109381127,Composition of Model Programs,2007,23,18,2,0.7982,130871852,Margus Veanes,0,0.9469819138287338,-0.13703152005593125
+2115564145,Reusing model transformations while preserving properties,2010,26,5,2,0.0,98427819,Gabor Karsai,0,-0.06178645503434935,0.3550245336991689
+2136170062,Allowing state changes in specifications,2006,37,10,1,1.0,2115070196,Wolfram Schulte,0,-0.09943694107813845,0.2095351765343818
+2139273675,XRT-- Exploring Runtime for NET Architecture and Applications,2006,21,50,2,0.0,99310831,Wolfgang Grieskamp,0,0.868978845301647,-1.1187059307306815
+2133251877,Mock-object generation with behavior,2006,8,44,1,1.0,2115070196,Wolfram Schulte,0,2.8670771280603145,-0.6296418778274349
+2113058702,A programming model for concurrent object-oriented programs,2008,21,92,5,0.210872,233250515,Frank Piessens,0,2.355335920015029,-0.1994391730091162
+2136634465,Contracts Components and their Runtime Verification on the NET Platform,2002,32,17,1,1.0,2115070196,Wolfram Schulte,0,3.724698329538337,-1.0344624997708451
+2113208199,Testable use cases in the Abstract State Machine Language,2001,7,28,2,0.405196,99310831,Wolfgang Grieskamp,0,0.93529029045185,-0.33843135428175314
+2119142097,Tool Support for the Interactive Derivation of Formally Correct Functional Programs,2003,22,14,3,1.0,940522050,Ton Vullinghs,0,-1.189541944031992,0.1928851382649111
+2113563476,The design of a task parallel library,2009,30,201,2,0.0,2001403680,Daan Leijen,0,0.021670088002321286,0.44722405064618054
+2140865947,Separation Logic Verification of C Programs with an SMT Solver,2009,29,26,2,0.0,357221929,Matko BotinÄan,0,0.4245971201194676,-0.3821507771085109
+2143989135,A Simple Sequential Reasoning Approach for Sound Modular Verification of Mainstream Multithreaded Programs,2007,20,12,4,0.367248,233250515,Frank Piessens,0,-0.3300284275830914,0.029688225452729606
+2186161418,Verifying Concurrent C Programs with VCC,2010,2,4,2,1.0,207588479,Stephan Tobies,0,-0.1164726804531344,0.019252515865476
+2156844766,Discovering likely method specifications,2006,27,31,1,1.0,2115070196,Wolfram Schulte,0,0.6233831651297772,-0.07105325289773744
+2151131364,Verification of object-oriented programs with invariants,2004,42,277,3,0.0708542,710865586,K. Rustan M. Leino,0,1.012245628149448,-0.20111958459154694
+2145250263,Online testing with model programs,2005,23,59,2,1.0,130871852,Margus Veanes,0,3.3357216995433037,-0.12995514318597393
+2157499124,Unit tests reloaded parameterized unit testing with symbolic execution,2006,12,62,1,1.0,2115070196,Wolfram Schulte,0,0.9167825302927654,-0.20401419163725515
+2163649342,Spying on Components A Runtime Verification Technique,2001,21,49,1,1.0,2115070196,Wolfram Schulte,0,1.5329814325726614,-0.36177392350832177
+2154978557,Defining the Java Virtual Machine as Platform for Provably Correct Java Compilation,1998,2,35,2,0.0,2026252948,Egon BÃ¶rger,0,-2.8309195801409794,0.36533611737635646
+2155278553,Validating use-cases with the AsmL test tool,2003,9,26,3,0.405196,99310831,Wolfgang Grieskamp,0,0.6330582409978763,-0.3258123651475136
+2152567582,VCC Contract-based modular verification of concurrent C,2009,5,77,3,1.0,207588479,Stephan Tobies,0,0.4567776881131557,-0.2328439363693703
+2146544336,Using Dynamic Symbolic Execution to Improve Deductive Verification,2008,31,7,3,0.59322,1505484182,Nikolaj BjÃ¸rner,0,1.2780418271230072,0.3302277770291022
+2152929251,Runtime verification of NET contracts,2003,31,55,1,1.0,2115070196,Wolfram Schulte,0,1.1955584440429916,-0.1336356637659057
+2159078835,The essence of data access in CÏ‰ the power is in the dot ,2005,23,70,2,0.535714,2058820594,Gavin Bierman,0,0.5552010233309239,-0.3934774469360514
+2252564043,State as a first-class citizen of an imperative language,2003,25,7,2,0.405196,99310831,Wolfgang Grieskamp,0,-0.0979291883157013,-0.9367096063510306
+2212971838,Method for specifying and verifying multi-threaded object-oriented programs with invariants,2005,83,18,2,0.015939,2105127320,Bart Jacobs,0,0.34530042234471187,-1.57454805038035
+2208352594,CONTRACT PROGRAMMING FOR CODE ERROR REDUCTION,2007,44,17,3,0.0,666395578,Brian M. Grunkemeyer,0,0.09728992823449902,0.005139587353770019
+2472018370,Semantic essence of AsmL Extended abstract,2004,0,5,1,1.0,2115070196,Wolfram Schulte,0,-0.05202113261051707,0.161500331798614
+2460195256,Linking reactive software to the X-Window System,2012,12,0,2,1.0,940522050,Ton Vullinghs,0,2.418208005542475,-0.6228681951670152
+2492399286,Model-Driven Engineering Languages and Systems,2014,0,0,3,0.0,349820447,Emilio Insfran,0,2.9647214340114734,0.4968959199225328
+2468689600,The Power of Rich Syntax for Model-based Development,2008,55,7,1,1.0,2115070196,Wolfram Schulte,0,0.7898153141520324,-0.4594162747014698
+2465207510,Open-World Logic Programs A New Foundation for Formal Specifications,2013,31,6,2,0.349797,1505484182,Nikolaj BjÃ¸rner,0,0.3430118801694765,0.1649081318511381
+2501380054,Using dynamic symbolic execution to improve deductive verification,2008,0,0,3,0.59322,1505484182,Nikolaj BjÃ¸rner,0,0.6503886439141886,-0.4030150483942624
+2461966493,The Unthinkable Automated Theorem Provers For (Tracing) Just-in-Time Compilers,2010,6,0,2,0.0,1974059945,Manuel FÃ¤hndrich,0,-0.11366537297549352,0.9314075025563859
+2504209588,FM 2011 Formal Methods,2011,0,98,2,0.0,2114313152,Michael Butler,0,-0.0858108722570497,0.3118956755355936
+2525657807,Concern-specific annotation languages to support static detection of bugs in Java-like programs,2006,0,0,6,0.532618,233250515,Frank Piessens,0,-0.5536686537030495,0.011641493330294302
+2525869977,A glimpse of a verifying C compiler,2007,0,22,3,0.367248,233250515,Frank Piessens,0,-0.44869122900443015,-0.00015649039724540022
+2583442040,The Spec# Programming System An overview,2005,0,424,2,0.0503051,710865586,K. Rustan M. Leino,0,-0.018736889327393497,-0.1689356435944551
+2584454935,A Statically Verifiable Programming Model for Concurrent Object-Oriented Programs,2006,0,11,4,0.532618,233250515,Frank Piessens,0,0.786300438074609,0.1005677521727625
+2588469875,Verifying Invariants in Object-Oriented Programs,2017,0,0,3,0.0,710865586,K. Rustan M. Leino,0,0.004880576560232004,-0.20432588490386505
+2791275690,Testing concurrent object-oriented systems with spec explorer,2005,0,29,4,0.0,99310831,Wolfgang Grieskamp,0,0.292764712122333,-0.02703510810143357
+2988587744,Verification of Object-Oriented Programs With Invariants,2003,0,6,3,0.0708542,710865586,K. Rustan M. Leino,0,0.004880576560232004,-0.20432588490386505

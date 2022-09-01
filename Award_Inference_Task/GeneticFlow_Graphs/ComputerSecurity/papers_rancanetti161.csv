@@ -1,0 +1,106 @@
+36535589,Relaxing Chosen-Ciphertext Security,2003,29,194,1,1.0,687553606,Ran Canetti,0,0.5702255986572892,-1.5138836792942405
+37421418,An IPSec-based Host Architecture for Secure Internet Multicast,2000,15,13,1,1.0,687553606,Ran Canetti,0,0.0040557659796233,0.2757546058061082
+37722159,Secure Computation with Honest-Looking Parties What If Nobody Is Truly Honest (Extended Abstract),1999,0,20,1,1.0,687553606,Ran Canetti,0,1.615990127791114,-0.3069731929249232
+4053786,Universally Composable Commitments (Extended Abstract),2001,25,20,2,0.0,132146421,Marc Fischlin,0,0.4957350559901664,0.032004664608571355
+58847702,Issues in Multicast Security A Taxonomy and E cient Constructions,1999,0,16,4,0.0,83353782,Daniele Micciancio,0,0.0040557659796233,0.2757546058061082
+144530124,Secure Key Exchange and Sessions without Credentials,2014,29,1,2,1.0,273228002,Yevgeniy Vahlis,0,-0.2703938984102292,-1.6314216330247424
+182972476,Universally composable security with local adversaries,2012,28,19,1,1.0,687553606,Ran Canetti,0,-0.6704960248302465,0.23765362599785173
+823527867,Adaptively Secure Two-Party Computation from Indistinguishability Obfuscation,2015,29,29,1,1.0,687553606,Ran Canetti,0,0.6936307073957466,-0.5677422119789013
+1497381061,On Adaptive vs Non-adaptive Security of Multiparty Protocols,2001,22,21,2,0.769231,114908009,Yuval Ishai,0,-1.1352583267463092,0.4470237044576295
+1561441787,Universally Composable Notions of Key Exchange and Secure Channels,2002,28,12,1,1.0,687553606,Ran Canetti,0,-0.37086295174290135,-1.0274996905913618
+1562226375,Universally composable security with global setup,2007,34,164,1,1.0,687553606,Ran Canetti,0,-0.16796477541838417,-0.9412581904066775
+1499934958,Universally composable security a new paradigm for cryptographic protocols,2001,78,1930,1,1.0,687553606,Ran Canetti,0,-0.10857833703258238,-1.296188273542788
+1562853489,Non-malleable Obfuscation,2009,16,21,1,1.0,687553606,Ran Canetti,0,0.1532403062910861,0.4627395615641585
+1491994446,Environmental requirements for authentication protocols,2002,25,8,1,1.0,687553606,Ran Canetti,0,-1.2284317798005056,-1.9395089480806955
+1546996295,Adaptive Security for Threshold Cryptosystems,1999,30,97,1,1.0,687553606,Ran Canetti,0,0.15101004970200183,-1.7263409401456105
+1530181486,How to Protect Yourself without Perfect Shredding,2008,63,13,1,1.0,687553606,Ran Canetti,0,1.054725859655923,-1.3293676977907223
+1576314536,Maintaining Security in the Presence of Transient Faults,1994,16,91,1,1.0,687553606,Ran Canetti,0,-0.3671057057596313,-0.738640558280391
+1932302600,Composable security analysis of OS services,2011,19,5,1,1.0,687553606,Ran Canetti,0,-0.16226279780689024,-0.409071775356469
+1805062869,An Efficient threshold Public Key Cryptosystem Secure Against Adaptive Chosen Ciphertext Attack (Extended Abstract),1999,36,77,1,1.0,687553606,Ran Canetti,0,0.8209052087720483,-2.7112962097156488
+1759759811,Universally composable password-based key exchange,2005,32,182,2,0.392547,30238620,Yehuda Lindell,0,-0.8222105661162326,-1.6697304949277494
+1817964144,Adaptively-secure non-interactive public-key encryption,2005,27,43,1,1.0,687553606,Ran Canetti,0,0.35991952692054757,-2.0258833562172542
+1772901473,Security Analysis of IKEs Signature-Based Key-Exchange Protocol,2002,22,79,1,1.0,687553606,Ran Canetti,0,-0.5727882215325613,-1.8354661966662134
+1823595194,Mitigating dictionary attacks on password-protected local storage,2006,24,52,1,1.0,687553606,Ran Canetti,0,-2.3897659758264176,-1.7169234135210723
+1897173642,Using Probabilistic I/O Automata to improve the analysis of cryptographic protocols,2005,0,1,2,0.0,121359932,Roberto Segala,0,-0.8876298000616757,-1.1998359656152426
+1831174262,Incoercible multiparty computation,1996,14,79,1,1.0,687553606,Ran Canetti,0,0.7263392520733455,-0.1280265373303642
+1867273832,Universally Composable Commitments,2001,38,439,2,0.0,132146421,Marc Fischlin,0,0.9306524265428485,-0.012540421459801573
+1603068992,A forward-secure public-key encryption scheme,2003,38,30,1,1.0,687553606,Ran Canetti,0,0.24548715464397755,-1.8021085800701226
+1973801321,Chosen-Ciphertext Security from Identity-Based Encryption,2006,59,360,2,0.0,201828038,Dan Boneh,0,0.144804752415244,-1.1724646542264954
+1997859100,Security and Composition of Multiparty Cryptographic Protocols,2000,30,867,1,1.0,687553606,Ran Canetti,0,0.9064745723071894,-0.3302811878009607
+1987743852,Security and composition of cryptographic protocols a tutorial (part I),2006,33,34,1,1.0,687553606,Ran Canetti,0,-0.4870364607236602,0.1547414087998477
+2014055576,Adaptive Hardness and Composable Security in the Plain Model from Standard Assumptions,2010,57,58,1,1.0,687553606,Ran Canetti,0,-0.24236445776128082,-1.2321324911153038
+2031709403,Securing Communication of Dynamic Groups in Dynamic Network-Centric Environments,2006,9,8,2,0.0,300064627,Roger Khazan,0,0.2492632631402502,-1.5720826833249322
+2014903640,From Unprovability to Environmentally Friendly Protocols,2013,45,4,1,1.0,687553606,Ran Canetti,0,-0.8403156700916699,-0.824880169985598
+2037515303,Multicast security a taxonomy and some efficient constructions,1999,23,686,4,0.0,83353782,Daniele Micciancio,0,-0.6436756936579372,-2.0469987414571156
+2046871034,A Forward-Secure Public-Key Encryption Scheme,2007,46,156,1,1.0,687553606,Ran Canetti,0,0.20146363269325934,-2.316983688470057
+2065579695,Adaptive versus Non-Adaptive Security of Multi-Party Protocols,2004,22,22,2,0.769231,114908009,Yuval Ishai,0,0.03976099904704359,-0.20452367550871386
+2078110310,Secure Computation Without Authentication,2011,29,11,2,0.0,30238620,Yehuda Lindell,0,-0.21477728077036407,-1.0133292730987127
+2099446123,On the Limitations of Universally Composable Two-Party Computation Without Set-Up Assumptions,2006,18,68,3,0.391602,30238620,Yehuda Lindell,0,0.07649157540172406,-0.7740726752409152
+2099817583,Efficient and Secure Source Authentication for Multicast,2001,22,594,1,1.0,687553606,Ran Canetti,0,-0.5530861437885858,-0.004176666300269333
+2097475480,Universally composable protocols with relaxed set-up assumptions,2004,33,181,1,1.0,687553606,Ran Canetti,0,-0.6253578899723217,-1.3512811295188782
+2086315534,Maintaining Authenticated Communication in the Presence of Break-Ins,2000,24,34,1,1.0,687553606,Ran Canetti,0,0.10315842939144178,-0.6309940063834762
+2103741267,Authenticating Mandatory Access Controls and Preserving Privacy for a High-Assurance Smart Card,2003,12,20,1,1.0,687553606,Ran Canetti,0,-1.8834138947397607,-1.1077755765036557
+2096430557,Adaptively secure multi-party computation,1996,22,358,2,0.281427,65538393,Oded Goldreich,0,0.4510182065852565,-1.2628977077021681
+2123592926,Maintaining authenticated communication in the presence of break-ins,1997,30,14,1,1.0,687553606,Ran Canetti,0,-0.25924144176662695,-0.5883941421210716
+2138736975,Practical delegation of computation using multiple servers,2011,18,97,1,1.0,687553606,Ran Canetti,0,-0.03427425504592815,-0.001979514139236823
+2132832035,Studies in program obfuscation,2010,87,7,1,1.0,687553606,Ran Canetti,0,-0.22796853668209874,-0.7745515378675707
+2139033758,Towards Realizing Random Oracles Hash Functions That Hide All Partial Information,1997,28,295,1,1.0,687553606,Ran Canetti,0,0.09030561916754265,-1.3711775082286906
+2142442406,POSH a generalized captcha with security applications,2008,24,11,1,1.0,687553606,Ran Canetti,0,-0.7188938061598737,-0.4291313611977576
+2130513648,Secure computation without authentication,2005,36,79,2,0.392547,30238620,Yehuda Lindell,0,0.04775747989473801,-1.053948651749107
+2136530453,Practical UC security with a Global Random Oracle,2014,32,36,1,1.0,687553606,Ran Canetti,0,0.4497525581007114,-2.1220050926347933
+2143154134,Mechanism for keeping a key secret from mobile eavesdroppers,1994,9,54,1,1.0,687553606,Ran Canetti,0,0.0373413377069255,-1.4284754354601272
+2166143706,Obtaining universally compoable security towards the bare bones of trust,2007,57,20,1,1.0,687553606,Ran Canetti,0,-0.9471225140076269,-1.1853474982939751
+2187366271,Timed Efficient Stream Loss-Tolerant Authentication (TESLA) Multicast Source Authentication Transform Introduction,2005,20,113,1,1.0,687553606,Ran Canetti,0,-1.104198903918153,-0.15812758475548838
+2163795263,Just fast keying Key agreement in a hostile internet,2004,40,121,3,1.0,109346679,Omer Reingold,0,-0.4358692802401256,-0.9299207587874927
+2152091451,Efficient DoS-resistant secure key exchange for internet protocols,2002,33,96,3,1.0,109346679,Omer Reingold,0,-0.5740037266565162,-1.8597772502031225
+2164101323,Chosen-ciphertext secure proxy re-encryption,2007,23,391,1,1.0,687553606,Ran Canetti,0,0.713586127611201,-2.683626228762913
+2233411229,The paradigm of partial erasures,2008,68,1,1,1.0,687553606,Ran Canetti,0,-0.3125520258935691,-0.8359415319895942
+2199059204,Non-transferable anonymous credentials,2000,11,14,1,1.0,687553606,Ran Canetti,0,-1.2697089137035191,-0.8861787499645972
+2293018556,Universally Composable Authentication and Key-Exchange with Global PKI,2016,26,15,1,1.0,687553606,Ran Canetti,0,-0.5344263509066502,-1.2877811528419043
+2398446928,How To Construct Extractable One-Way Functions Against Uniform Adversaries,2013,46,4,3,0.0,216695685,Nir Bitansky,0,-0.12582629870364917,-0.20678848912558237
+2407603805,Composable Authentication with Global PKI,2014,0,2,1,1.0,687553606,Ran Canetti,0,-0.4277429829992878,-1.0607699840488791
+2464092583,Authenticating mandatory access controls and preserving privacy for a high-assurance smart card,2003,0,0,1,1.0,687553606,Ran Canetti,0,-2.2305412650982785,-1.868973834601974
+2566204433,Advances in Cryptology,2016,0,0,1,1.0,687553606,Ran Canetti,0,0.16419579619386868,0.003806086685879062
+2521451511,Adaptive Hardness and Composable Security in the Plain Model from Standard Assumptions,2016,0,4,1,1.0,687553606,Ran Canetti,0,-0.04467163659207478,-0.6323316907862575
+2583131896,Universally composable notions of key exchange and secure channels,2002,0,289,1,1.0,687553606,Ran Canetti,0,-0.2409681574051791,-0.9062764556080711
+2613628930,Security analysis of IKEs signature-based key-exchange protocol,2002,0,67,1,1.0,687553606,Ran Canetti,0,-0.40207750492831473,-1.262865034097348
+2611526060,Efficient DoS-resistant secure key exchange for Internet protocols,2002,0,2,3,1.0,109346679,Omer Reingold,0,-0.13657611097411873,-1.6565657340443745
+2611529857,A forward-secure public-key encryption scheme,2003,0,493,1,1.0,687553606,Ran Canetti,0,0.24548715464397755,-1.8021085800701226
+2611587517,Universally composable password-based key exchange,2005,0,0,2,0.392547,30238620,Yehuda Lindell,0,-0.8222105661162326,-1.6697304949277494
+2611775595,Efficient DoS-Resistant Secure Key Exchange for Internet Protocols,2001,11,7,3,1.0,109346679,Omer Reingold,0,-0.46632095258439044,-2.4403367296166563
+2612037729,Universally Composable commitments (Extended abstract),2001,0,8,2,0.0,132146421,Marc Fischlin,0,0.4957350559901664,0.032004664608571355
+2612466437,Adaptive security for threshold cryptosystems,1999,0,30,1,1.0,687553606,Ran Canetti,0,0.15101004970200183,-1.7263409401456105
+2757888293,A Universally Composable Treatment of Network Time,2017,23,6,1,1.0,687553606,Ran Canetti,0,0.12390964304024121,-0.5137474692205152
+2739433625,Method for safe communication and calculation,1994,0,0,1,1.0,687553606,Ran Canetti,0,0.03910652856792115,-0.9542749174440527
+2885811832,On the Universally Composable Security of OpenStack,2018,0,3,1,1.0,687553606,Ran Canetti,0,0.0040557659796233,0.2757546058061082
+2911985853,Proceedings of the 32nd Annual Cryptology Conference on Advances in Cryptology --- CRYPTO 2012 - Volume 7417,2012,0,0,1,1.0,687553606,Ran Canetti,0,0.3171484069971384,-0.13992525839030945
+2912071374,Proceedings of the 5th conference on Theory of cryptography,2008,0,1,1,1.0,687553606,Ran Canetti,0,0.3171484069971384,-0.13992525839030945
+2951459892,Obfuscation for Evasive Functions,2013,0,0,4,0.0,64276155,Yael Tauman Kalai,0,-0.255481096177426,0.4843741529378961
+2949626724,Adaptively-Secure Non-Interactive Public-Key Encryption,2004,0,0,1,1.0,687553606,Ran Canetti,0,0.03910652856792115,-0.9542749174440527
+2949808926,On adaptive vs non-adaptive security of multiparty protocols,2001,0,9,2,0.769231,114908009,Yuval Ishai,0,0.20265643933477945,-0.7231592276961267
+2950038310,Composable Security Analysis of OS Services,2010,0,1,1,1.0,687553606,Ran Canetti,0,0.2018268678365599,0.1425886522275585
+2950170551,Security Analysis of IKEs Signature-based Key-Exchange Protocol,2002,0,1,1,1.0,687553606,Ran Canetti,0,-0.028095884795026227,-0.9253233542633005
+2952497594,Universally Composable Signatures Certification and Authentication,2003,0,24,1,1.0,687553606,Ran Canetti,0,-0.5530861437885858,-0.004176666300269333
+2950496531,Universally Composable Security With Local Adversaries,2012,0,1,1,1.0,687553606,Ran Canetti,0,0.0040557659796233,0.2757546058061082
+2950604697,Secure Key Exchange and Sessions Without Credentials,2013,0,0,2,1.0,273228002,Yevgeniy Vahlis,0,-0.24194281203928758,-1.392696380719455
+2950643052,Universally Composable Security A New Paradigm for Cryptographic Protocols,2000,0,12,1,1.0,687553606,Ran Canetti,0,-0.4431931815570836,-0.6183190123592079
+2952806093,Universally Composable Security with Global Setup,2006,0,4,1,1.0,687553606,Ran Canetti,0,0.0040557659796233,0.2757546058061082
+2952840477,Adaptively Secure Two-party Computation From Indistinguishability Obfuscation,2014,0,0,1,1.0,687553606,Ran Canetti,0,1.1066988453236333,0.212837383007192
+2950954077,Security and Composition of Cryptographic Protocols A Tutorial,2006,0,1,1,1.0,687553606,Ran Canetti,0,-0.4431931815570836,-0.6183190123592079
+2951095313,Non-Malleable Obfuscation,2008,0,0,1,1.0,687553606,Ran Canetti,0,-0.255481096177426,0.4843741529378961
+2951141839,Chosen-Ciphertext Secure Proxy Re-Encryption,2007,0,0,1,1.0,687553606,Ran Canetti,0,0.18033491917412123,-1.5513846935943076
+2951194254,Mitigating Dictionary Attacks on Password-Protected Local Storage,2006,0,1,1,1.0,687553606,Ran Canetti,0,-0.7112713085652437,-0.3147397003430095
+2951194273,Obtaining Universally Composable Security Towards the Bare Bones of Trust,2007,0,0,1,1.0,687553606,Ran Canetti,0,0.0040557659796233,0.2757546058061082
+2951202796,A Forward-Secure Public-Key Encryption Scheme,2002,0,3,1,1.0,687553606,Ran Canetti,0,0.03910652856792115,-0.9542749174440527
+2949201518,Modeling Computational Security in Long-Lived Systems,2007,0,0,1,1.0,687553606,Ran Canetti,0,0.4284669933178839,-0.6551387176261534
+2953336342,Security and Composition of Cryptographic Protocols A Tutorial,2013,0,34,1,1.0,687553606,Ran Canetti,0,-0.4431931815570836,-0.6183190123592079
+2951305901,Universally Composable Notions of Key Exchange and Secure Channels,2002,0,0,1,1.0,687553606,Ran Canetti,0,-0.24194281203928758,-1.392696380719455
+2949264753,Security and Composition of Multi-party Cryptographic Protocols,1998,0,65,1,1.0,687553606,Ran Canetti,0,-0.4431931815570836,-0.6183190123592079
+2951343930,How to Protect Yourself without Perfect Shredding,2008,0,0,1,1.0,687553606,Ran Canetti,0,0.0040557659796233,0.2757546058061082
+2953389353,Universally Composable Two-Party and Multi-Party Secure Computation,2002,0,0,2,0.392547,30238620,Yehuda Lindell,0,1.0148279357837102,-0.17555436131222457
+2949302825,The Random Oracle Methodology Revisited,2000,22,1,2,0.281427,65538393,Oded Goldreich,0,0.5625493950506091,-1.0700969637254212
+2949304605,Chosen-Ciphertext Security from Identity-Based Encryption,2003,0,3,1,1.0,687553606,Ran Canetti,0,0.1683539061682523,-0.8351847254039225
+2951394666,Universally Composable Commitments,2001,0,1,2,0.0,132146421,Marc Fischlin,0,0.0040557659796233,0.2757546058061082
+2949326481,Universally Composable Password-Based Key Exchange,2005,0,0,2,0.392547,30238620,Yehuda Lindell,0,-0.42346555134785246,-0.9713564954154381
+2984184281,On the Universally Composable Security of OpenStack,2019,30,1,1,1.0,687553606,Ran Canetti,0,-0.19466034455751616,-0.44335685443671674
+3014574216,Anonymous Collocation Discovery Harnessing Privacy to Tame the Coronavirus,2020,11,5,1,1.0,687553606,Ran Canetti,0,-0.15506453587710203,0.5693391454160669

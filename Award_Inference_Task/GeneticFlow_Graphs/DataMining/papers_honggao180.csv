@@ -1,0 +1,128 @@
+121100619,AIIS An Efficient String Index on Inconsistent Data,2011,7,0,3,1.0,2101883490,Shouxu Jiang,0,-0.9495970712927685,-0.44923000633769583
+124339703,Imputation for categorical attributes with probabilistic reasoning,2013,18,0,3,0.0,2305214770,Lian Jin,0,-0.15360652154640306,-0.1448895100691407
+110154300,pq-hash an efficient method for approximate XML joins,2010,18,2,4,1.0,2117255185,Liang Hao,0,-0.3365149284870602,0.043405419816594404
+161526684,Entity resolution on uncertain relations,2013,9,3,4,0.0,2130201582,Jianzhong Li,0,0.16007305651222495,0.43968180856005484
+77064180,Efficient Algorithms for Skyline Top-K Keyword Queries on XML Streams,2009,7,11,4,0.0,2130201582,Jianzhong Li,0,-0.8923482102517004,-0.10289608038277802
+114555031,Multi-way Theta-Join Based on CMD Storage Method,2014,13,0,2,0.0,2587717269,Mingrui Zhu,0,0.12492345808765674,0.23414093372237493
+64163949,CUVIM extracting fresh information from social network,2013,19,2,5,0.0,2130201582,Jianzhong Li,0,0.003708468606338,0.082832279151172
+235258758,TruthOrRumor Truth Judgment from Web,2014,5,1,4,0.0,2484064785,ChengHui Chen,0,0.003708468606338,0.082832279151172
+254030243,Path-Based XML Stream Compression with XPath Query Support,2012,8,1,4,0.0,2130201582,Jianzhong Li,0,-2.8285163543730754,-0.38409941006828624
+318582378,Probabilistic Threshold Based Monitoring Using Sensor Networks,2014,15,0,2,0.0,2123094837,Yingshu Li,0,0.003708468606338,0.082832279151172
+1540893855,DCUBE CUBE on dirty databases,2010,11,0,5,1.0,2101883490,Shouxu Jiang,0,0.6646737840926843,0.638115338892133
+1550915262,Advanced Data Mining and Applications Third International Conference ADMA 2007 Harbin China August 6-8 2007 Proceedings,2007,0,0,3,0.0,497422635,Reda Alhajj,0,-0.8834667974301493,1.5562971063203694
+1571987533,Flexible Aggregation on Heterogeneous Information Networks,2015,2,0,4,0.666667,2121850449,Zhaonian Zou,0,-0.19128851394810173,-0.23957368516765956
+1517661857,Compression algorithms for structural query results on XML data,2010,3,0,3,0.0,2130201582,Jianzhong Li,0,-2.8485809181095187,-0.33227041035986055
+1508952141,Unsupervised Outlier Detection in Sensor Networks Using Aggregation Tree,2007,14,67,4,0.617548,2123989655,Shengfei Shi,0,0.20279561436658805,0.0753070172078775
+1575180293,Xaggregation Flexible aggregation of XML data,2003,15,7,4,0.0,2130201582,Jianzhong Li,0,-2.5418642992734375,-0.31388984159898414
+1486551951,Approximate joins for XML using g-string,2010,19,4,5,1.0,2117255185,Liang Hao,0,-1.35547842178609,0.7099627266614025
+1605424461,Efficient duplicate record detection based on similarity estimation,2010,17,4,4,0.0,2116171688,Mohan Li,0,-0.33572023482876956,0.13069383548599617
+1588356406,Parallelization in Extracting Fresh Information from Online Social Network,2013,21,0,5,0.0,2130201582,Jianzhong Li,0,0.003708468606338,0.082832279151172
+1607311562,Schema mapping with quality assurance for data integration,2011,27,0,3,0.0,2304726318,Xu Bian,0,-2.551960847668795,-0.3148365452975542
+1921789763,Incremental Truth Discovery for Information from Multiple Data Sources,2013,8,10,3,0.0,2130201582,Jianzhong Li,0,0.5251292719586423,-0.23303021871815122
+1972243925,A novel approach for efficient supergraph query processing on graph databases,2009,27,39,4,0.833333,2121850449,Zhaonian Zou,0,0.003708468606338,0.082832279151172
+1974366873,ProductSeeker entity-based product retrieval for e-commerce,2013,2,2,3,0.0,2130201582,Jianzhong Li,0,0.60462425737754,-0.0853723487308831
+1974433461,AbIx an approach to content-based approximate query processing in peer-to-peer data systems,2007,20,2,5,0.0,2106340623,Chaokun Wang,0,-0.14452022045735619,-0.04408685026037263
+1981515052,TDEP efficiently processing top-k dominating query on massive data,2015,32,13,3,1.0,2113522248,Xixian Han,0,0.06765495229225513,-0.013671544276642897
+1983271491,Enabling Îµ-approximate querying in sensor networks,2009,30,8,3,0.0,2130201582,Jianzhong Li,0,-0.14255436113902986,0.20337351355405242
+1965892308,Graph-based reference table construction to facilitate entity matching,2013,24,9,4,0.0,2130201582,Jianzhong Li,0,-0.2310342551313876,0.7050783562614742
+1981877370,Efficient entity resolution based on subgraph cohesion,2016,32,11,3,0.0,2130201582,Jianzhong Li,0,-0.003473258180409037,0.2584542870575153
+2001800943,Hash-base subgraph query processing method for graph-structured XML documents,2008,28,25,4,0.555556,2118655878,Jizhou Luo,0,-2.5514828200572746,-0.3041009454148215
+1990578345,Rule-Based Method for Entity Resolution,2015,40,31,3,0.0,2130201582,Jianzhong Li,0,-0.023667741676124975,0.5277762140587086
+2027693316,Evaluating entity-description conflict on duplicated data,2016,37,2,3,0.0,2130201582,Jianzhong Li,0,0.37501385810345117,0.05366986304473647
+2028427287,SEPT an efficient skyline join algorithm on massive data,2015,33,2,4,1.0,2113522248,Xixian Han,0,-0.7231377723614388,-0.09625727535781368
+2031101249,Cleanix A Big Data Cleaning Parfait,2014,7,3,5,0.418504,2107421971,Yingyi Bu,0,0.10598446040677127,-0.042425371047879315
+2034770295,Approximate Physical World Reconstruction Algorithms in Sensor Networks,2014,22,62,4,0.903262,2105494091,Siyao Cheng,0,0.003708468606338,0.082832279151172
+2038370312,Approximate joins for XML at label level,2014,22,2,4,1.0,2117255185,Liang Hao,0,-2.377460082164265,0.2879831364094414
+2037314220,Mining frequent subgraphs over uncertain graph databases under probabilistic semantics,2012,47,22,3,0.833333,2121850449,Zhaonian Zou,0,-0.0769353016057025,-0.2600287055078183
+2048202272,Neighbor-base similarity matching for graphs,2014,16,0,4,0.0,2130201582,Jianzhong Li,0,-0.3219779687620874,0.05320779342483575
+2039444672,TKAP Efficiently processing top-k query on massive data by adaptive pruning,2016,22,2,3,1.0,2113522248,Xixian Han,0,0.5874725032327917,-0.1436536647710416
+2046598510,Mining most frequently changing component in evolving graphs,2014,37,25,4,0.0,2119358208,Jeffrey Xu Yu,0,0.21438872843298346,-0.1353423822296997
+2043407030,Finding the optimal path over multi-cost graphs,2012,7,2,3,0.0,2119358208,Jeffrey Xu Yu,0,-0.0395804122397981,0.0068802457672825015
+2055842285,A fast entity resolution method based on wave of records,2011,8,1,3,0.0,2229933657,Yongnan Liu,0,0.2466991370220776,0.24956259761330646
+2058725299,Efficient community detection with additive constrains on large networks,2013,45,16,4,0.0,2130201582,Jianzhong Li,0,0.003708468606338,0.082832279151172
+2067842653,Context-based entity description rule for entity resolution,2011,9,3,4,0.0,2130201582,Jianzhong Li,0,-0.08974091580315945,0.3385912099120958
+2102393612,Maximal Influence Spread for Social Network Based on MapReduce,2015,9,4,5,0.0,2170824610,Xinfei Shi,0,-0.6017545236974106,0.44623671741357746
+2084591860,Frequent subgraph pattern mining on uncertain graph data,2009,30,43,4,0.833333,2121850449,Zhaonian Zou,0,-1.5807859506325537,-2.022562222790387
+2127156830,AN EFFICIENT ENTITY RESOLUTION METHOD FOR LARGE RELATIONS,2013,23,0,4,0.0,2130201582,Jianzhong Li,0,0.19991927122344288,0.23777701618201524
+2140428482,Efficient accuracy evaluation for multi-modal sensed data,2016,47,1,4,0.0,2130201582,Jianzhong Li,0,0.051192978302674386,0.10579711894378294
+2137722153,Iceberg Cube Query on Heterogeneous Information Networks,2014,10,3,1,1.0,2607637236,Hong Gao,0,0.6792003814311409,0.17789319602714038
+2156568774,Similarity join on XML based on k-generation set distance,2011,10,1,2,0.71477,2589657406,Hongzhi Wang,0,-1.5499095003379695,0.883581680683141
+2154915179,EIF a framework of effective entity identification,2010,18,12,4,0.0,2130201582,Jianzhong Li,0,-0.21934185016841626,0.6056873083074126
+2169940602,Dynamic constraints for record matching,2011,46,64,5,0.0,2119375424,Shuai Ma,0,-1.3081930174356937,1.6898148309180858
+2247055060,A data cleaning framework based on user feedback,2013,11,0,3,0.0,2130201582,Jianzhong Li,0,0.34402371984857977,0.18048399119476494
+2229442693,Skyline for geo-textual data,2016,34,8,4,0.0,2130201582,Jianzhong Li,0,0.04058852858681295,-0.03346779459016044
+2244114872,Image Clustering Based on the Human Intelligence,2015,9,0,2,0.0,2589657406,Hongzhi Wang,0,-0.8506757423325126,2.993886785734365
+2289375451,Efficient Entity Resolution Based on Sequence Rules,2011,16,5,3,0.0,2150220558,Yakun Li,0,0.19991927122344288,0.23777701618201524
+2278039258,Minimized-cost cube query on heterogeneous information networks,2017,19,1,4,0.490189,2121850449,Zhaonian Zou,0,1.2182067606106117,0.3929018396063729
+2327761400,Efficient Entity Resolution on XML Data Based on Entity-Describe-Attribute Efficient Entity Resolution on XML Data Based on Entity-Describe-Attribute,2011,5,1,2,0.0,2440137748,Jian Zhong Li,0,-2.860734297194197,-0.30119683164195327
+2291857936,Euclidean-Based Entity Resolution for Evolving Data,2015,16,0,3,1.0,2559662334,Yan Zhang,0,0.12880904017403086,0.4361730437211471
+2368635037,Cleanix a Parallel Big Data Cleaning System,2016,16,8,5,0.418504,2107421971,Yingyi Bu,0,0.387304484520579,0.2049914058521984
+2396869449,A Fair Data Market System with Data Quality Evaluation and Repairing Recommendation,2015,6,8,4,0.0,2130201582,Jianzhong Li,0,0.19942245261647223,0.1490353000643406
+2396993462,Answering Spatial Approximate Keyword Queries in Disks,2015,11,0,4,0.0,2098756542,Donghua Yang,0,-0.8119081610759554,0.7753277337940678
+2403436391,Efficient quality-driven source selection from massive data sources,2016,23,5,5,0.0,2130201582,Jianzhong Li,0,-0.10798235981858703,0.20671499848381758
+2470645221,Crowdsourcing-Enhanced Missing Values Imputation Based on Bayesian Network,2016,25,6,5,1.0,2105494091,Siyao Cheng,0,-0.029838901133813822,0.008711960731692248
+2462670247,Join Query Processing in Data Quality Management,2016,10,1,3,0.0,2525728999,Mingliang Yue,0,-0.28241765670382785,0.7708641545326139
+2470871867,ISSA Efficient Skyline Computation for Incomplete Data,2016,8,5,4,0.0,2130201582,Jianzhong Li,0,0.03152063836948504,0.41036286495026314
+2443016948,Set-based Similarity Search for Time Series,2016,34,9,4,0.0,2130201582,Jianzhong Li,0,-0.1984714131877254,-0.08331523624254955
+2464006526,HUITWUï¼š An Efficient Algorithm for High-Utility Itemset Mining in Transaction Databases,2016,10,3,2,0.0,2551943126,Shi Ming Guo,0,0.003708468606338,0.082832279151172
+2464498142,One-Pass Inconsistency Detection Algorithms for Big Data,2016,11,0,4,0.0,2130201582,Jianzhong Li,0,-0.37580941182677385,0.34166769541701913
+2468496449,VMPSP Efficient Skyline Computation Using VMP-Based Space Partitioning,2016,12,5,5,0.0,2130201582,Jianzhong Li,0,0.03152063836948504,0.41036286495026314
+2479101348,Approximate Iceberg Cube on Heterogeneous Dimensions,2016,20,1,5,0.6379,2121850449,Zhaonian Zou,0,-0.12543402719533214,-0.042791452831214244
+2474220992,A Distributed Load Balance Algorithm of MapReduce for Data Quality Detection,2016,17,3,5,0.0,2130201582,Jianzhong Li,0,0.622624958920849,0.5306904056951552
+2565378479,Minimum Spanning Tree on Uncertain Graphs,2016,15,0,4,0.6379,2121850449,Zhaonian Zou,0,0.003708468606338,0.082832279151172
+2548710019,Efficient Entity Resolution on Heterogeneous Records,2020,26,0,4,0.0,2130201582,Jianzhong Li,0,0.5669221400714486,0.2479221192075506
+2520252532,Fuzzy Keywords Query,2016,12,0,5,0.0,2130201582,Jianzhong Li,0,0.14249185706046638,-0.4180696800839657
+2520484951,A Chronic Disease Analysis System Based on Dirty Data Mining,2016,6,0,5,0.0,2130201582,Jianzhong Li,0,0.34402371984857977,0.18048399119476494
+2505459110,Similarity Search on Massive Data Based on FPGA,2016,17,0,3,0.0,2516470805,Yanzheng Wang,0,0.09579871490512358,0.03716841025108627
+2522444422,A survey of query result diversification,2017,94,19,5,0.0,2130201582,Jianzhong Li,0,-0.007727188645689481,0.27027481845164586
+2546121445,Data source selection for information integration in big data era,2019,17,4,4,0.0,2130201582,Jianzhong Li,0,-0.34811560048287465,0.0385028817337141
+2564157749,Extracting Kernel Dataset from Big Sensory Data in Wireless Sensor Networks,2017,41,92,4,1.0,2105494091,Siyao Cheng,0,-0.10688017130837235,0.2517773578190978
+2564445937,Similarity Search Combining Query Relaxation and Diversification,2017,31,0,5,0.0,2130201582,Jianzhong Li,0,-0.27977833177287376,0.3206372883261847
+2519248403,Incomplete Data Classification Based on Multiple Views,2016,8,0,5,0.0,2130201582,Jianzhong Li,0,-0.038859834300486173,-0.20631128679559907
+2554740718,Discovery of Field Functional Dependencies,2015,24,0,4,0.0,2130201582,Jianzhong Li,0,-1.2076040775979073,0.9445686558252687
+2601986295,Efficient Batch Grouping in Relational Datasets,2017,19,0,3,0.0,2130201582,Jianzhong Li,0,0.003708468606338,0.082832279151172
+2587209476,Efficient Top-k Dominating Computation on Massive Data,2017,21,9,3,1.0,2113522248,Xixian Han,0,0.056845964601506815,0.06704375836362529
+2602354356,Drawing Density Core-Sets from Incomplete Relational Data,2017,25,0,2,0.0,2130201582,Jianzhong Li,0,-0.4655470197401404,0.42269439576783335
+2610435820,Determining the currency of dynamic data,2017,18,0,5,0.0,2130201582,Jianzhong Li,0,0.22334382557508703,0.3444944462271404
+2598425513,Capture Missing Values with Inference on Knowledge Base,2017,7,3,5,0.0,2130201582,Jianzhong Li,0,0.20155239752736648,-0.11761668011438556
+2594940144,Life-long learning based on dynamic combination model,2017,34,16,3,0.0,2130201582,Jianzhong Li,0,1.0527863875641001,1.1617889841045896
+2603502872,RSkycube Efficient Skycube Computation by Reusing Principle,2017,11,1,5,1.0,2113522248,Xixian Han,0,0.04058852858681295,-0.03346779459016044
+2731150592,Efficient Currency Determination Algorithms for Dynamic Data,2017,0,3,5,0.0,2130201582,Jianzhong Li,0,0.2487330731817325,0.4274165543633215
+2612312633,EntityManager Managing Dirty Data Based on Entity Resolution,2017,40,0,4,0.0,2130201582,Jianzhong Li,0,0.5114417024418574,0.11544080756063738
+2769329927,Efficiently processing deterministic approximate aggregation query on massive data,2018,33,2,3,1.0,2113522248,Xixian Han,0,0.16835090134861463,0.09459832319140045
+2762924840,Discovery of Paradigm Dependencies,2017,18,0,3,0.0,2130201582,Jianzhong Li,0,-0.5689517865969955,1.19328291346425
+2754697297,COSSET+ Crowdsourced Missing Value Imputation Optimized by Knowledge Base,2017,44,1,5,0.0,2130201582,Jianzhong Li,0,-0.34750160129452246,-0.4865005955814376
+2767313297,CleanCloud Cleaning Big Data on Cloud,2017,11,0,4,0.0,2130201582,Jianzhong Li,0,0.10774602886638113,0.06872378010052327
+2755721130,Any-Time Methods for Time-Series Prediction with Missing Observations,2017,10,1,3,0.0,2130201582,Jianzhong Li,0,-0.1903446618531494,0.35206059539303214
+2764447347,Enabling epsilon-Approximate Querying in Sensor Networks,2009,0,7,3,0.0,2130201582,Jianzhong Li,0,0.003708468606338,0.082832279151172
+2767902125,Probabilistic Skyline on Incomplete Data,2017,17,5,5,1.0,2113522248,Xixian Han,0,0.6600341014381859,-0.3150814337159664
+2781910513,FROG Inference from knowledge base for missing value imputation,2018,30,5,4,0.0,2130201582,Jianzhong Li,0,-0.5100482376567357,-0.70842428348473
+2789315092,CrowdOLA Online Aggregation on Duplicate Data Powered by Crowdsourcing,2018,29,0,3,0.0,2130201582,Jianzhong Li,0,0.23447002456144056,0.35297506154309793
+2800317313,Detecting Top-k Active Inter-Community Jumpers in Dynamic Information Networks,2018,11,1,2,0.0,2130201582,Jianzhong Li,0,0.003708468606338,0.082832279151172
+2793305583,Impacts of Dirty Data and Experimental Evaluation,2018,39,4,4,0.0,2130201582,Jianzhong Li,0,0.20025183931685442,0.28541034523204045
+2793994977,Rule-Based Entity Resolution on Database with Hidden Temporal Information,2018,26,2,4,0.0,2130201582,Jianzhong Li,0,-0.09662510258956238,0.31039656732439047
+2886856814,Schema Integration on Massive Data Sources,2018,8,1,3,0.0,2130201582,Jianzhong Li,0,0.7141434194519224,-0.1020469310809686
+2883761497,Aggregate Query Processing on Incomplete Data,2018,11,1,3,0.0,2130201582,Jianzhong Li,0,0.3311084524049866,0.26300344268183734
+2887705254,Mining CFD Rules on Big Data,2018,13,0,4,0.0,2130201582,Jianzhong Li,0,-0.13438125099680767,1.4416443013092826
+2884578737,MISS Finding Optimal Sample Sizes for Approximate Analytics,2018,26,0,3,0.0,2130201582,Jianzhong Li,0,0.24675092212343117,0.12906443586095184
+2885372275,Improve3C Data Cleaning on Consistency and Completeness with Currency,2018,16,1,4,0.0,2130201582,Jianzhong Li,0,-0.368855779490902,-0.28758468531082815
+2889131711,Ranking the big sky efficient top-k skyline computation on massive data,2019,37,0,3,0.885568,2113522248,Xixian Han,0,0.04394218267442261,0.36292726142934345
+2885723353,Diversification on Big Data in Query Processing,2018,10,0,4,0.0,2130201582,Jianzhong Li,0,0.21991119812372176,0.3542955858355283
+2921445573,Modeling and Computing Probabilistic Skyline on Incomplete Data,2019,0,1,5,0.885568,2113522248,Xixian Han,0,0.6596526851295482,-0.12551742373384914
+2898550116,Efficient Top-k Dominating Computation on Massive Data (Extended Abstract),2018,5,0,3,1.0,2113522248,Xixian Han,0,0.04630529846233902,0.2454679123388808
+2896739440,A Functional Analysis Based Strategy for Preserving Location Privacy,2018,24,0,3,1.0,2105494091,Siyao Cheng,0,0.003708468606338,0.082832279151172
+2918543115,Efficiently Mining Frequent Itemsets on Massive Data,2019,22,3,3,0.885568,2113522248,Xixian Han,0,0.21438872843298346,-0.1353423822296997
+2891989019,Efficient Computation of Skyline Queries on Incomplete Dynamic Data,2018,24,0,4,0.0,2130201582,Jianzhong Li,0,0.12407927547999172,0.2617069740367609
+2904625095,PRS efficient range skyline computation on massive data via presorting,2019,36,0,2,0.885568,2113522248,Xixian Han,0,-0.005345849036501038,0.3095750078589801
+2950241160,ECOQUG An Effective Ensemble Community Scoring Function,2019,10,0,3,0.0,2130201582,Jianzhong Li,0,0.003708468606338,0.082832279151172
+2952682704,Data Source Selection for Information Integration in Big Data Era,2016,14,1,4,0.0,2130201582,Jianzhong Li,0,-0.34811560048287465,0.0385028817337141
+2950678578,Efficient Entity Resolution on Heterogeneous Records,2016,13,2,4,0.0,2130201582,Jianzhong Li,0,0.5994041414360122,0.35989224732326835
+2952712216,Rule-Based Entity Resolution on Database with Hidden Temporal Information (Extended Abstract),2019,5,0,4,0.0,2130201582,Jianzhong Li,0,-0.24002450402140316,0.749354998213465
+2941277044,IMOptimizer An Online Interactive Parameter Optimization System Based on Big Data,2019,4,0,3,0.0,2130201582,Jianzhong Li,0,0.13757357715786875,0.3477710536856297
+2963443080,FreshJoin An Efficient and Adaptive Algorithm for Set Containment Join,2019,14,1,4,0.555556,2118655878,Jizhou Luo,0,0.003708468606338,0.082832279151172
+2942430644,Leon A Distributed RDF Engine for Multi-query Processing,2019,31,0,2,0.390121,2121850449,Zhaonian Zou,0,0.7478277247071058,-1.63470102833667
+2981758423,Auto-Model Utilizing Research Papers and HPO Techniques to Deal with the CASH problem,2019,39,0,3,0.0,2130201582,Jianzhong Li,0,0.003708468606338,0.082832279151172
+2996472009,Interval Estimation for Aggregate Queries on Incomplete Data,2019,26,0,3,0.0,2130201582,Jianzhong Li,0,0.1308932780208747,-0.009251798592006467
+2970651950,Cleanits a data cleaning system for industrial time series,2019,0,1,4,0.0,2130201582,Jianzhong Li,0,0.003708468606338,0.082832279151172
+2988852311,FreshJoin An Efficient and Adaptive Algorithm for Set Containment Join,2019,29,0,5,1.0,2101883490,Shouxu Jiang,0,0.003708468606338,0.082832279151172
+3009311956,SUM-optimal histograms for approximate query processing,2020,41,0,4,0.0,2130201582,Jianzhong Li,0,0.003708468606338,0.082832279151172

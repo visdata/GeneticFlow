@@ -1,0 +1,161 @@
+205114798,A Unified Approach for Querying Structured Data and XML,1998,0,1,2,0.0,172400696,Serge Abiteboul,0,1.1445986809516622,-0.5694294497560208
+120370310,Review - Access Path Selection in a Relational Database Management System,1999,0,0,1,1.0,671527850,Jennifer Widom,0,1.661532837346492,0.23078421241726133
+104553448,On XML and Databases Wheres the Beef (Panel Abstract),2000,0,0,1,1.0,671527850,Jennifer Widom,0,0.5586742082380666,-0.1984847101299193
+173539262,Temporal data warehousing,2001,0,24,1,1.0,671527850,Jennifer Widom,0,-0.17399737560627987,-0.15862359758391184
+190570906,Introduction to Active Database Systems,1996,0,26,2,0.0,519054157,Stefano Ceri,0,1.1912433919456025,0.39916717710764704
+37744308,Implementing Parameterized Range Types in an Extensible DBMS,2000,5,0,1,1.0,671527850,Jennifer Widom,0,-0.40293074647252497,0.07787337674947199
+191005192,A Syntax and Semantics for Set-Oriented Production Rules in Relational Database Systems (Extended Abstract),1989,8,6,1,1.0,671527850,Jennifer Widom,0,2.337108727028836,0.3529412764134491
+157722340,Review - An Overview of Data Warehousing and OLAP Technology,1999,0,3,1,1.0,671527850,Jennifer Widom,0,-0.16328011374660287,0.9890247327765609
+124212265,Review - Query Evaluation Techniques for Large Databases,1999,0,0,1,1.0,671527850,Jennifer Widom,0,0.0908845357243609,0.31128747720343375
+74371504,Review - Xml-ql A Query Language for XML,1999,0,0,1,1.0,671527850,Jennifer Widom,0,1.5511919495355684,-0.4527322482650976
+180519810,RAMP A System for Capturing and Tracing Provenance in MapReduce Workflows,2011,6,50,1,1.0,671527850,Jennifer Widom,0,0.2946713761785912,0.4027268098681643
+28929863,Static Analysis Techniques for Predicting the Behavior of Database Production Rules,1995,0,10,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+97526424,Query Processing over Crowdsourced Data,2012,20,8,1,1.0,671527850,Jennifer Widom,0,0.13233175764331187,0.22423938928651474
+99915623,Monitoring Stream Properties for Continuous Query Processing,2003,11,6,1,1.0,671527850,Jennifer Widom,0,-0.11078297277902291,-0.45588059253357405
+135267584,Provenance for Generalized Map and Reduce Workflows,2011,20,74,1,1.0,671527850,Jennifer Widom,0,0.2946713761785912,0.4027268098681643
+340422086,Data Management for User ProFILEs in Wireless Communication Systems,1995,0,4,1,1.0,671527850,Jennifer Widom,0,0.37877229385721267,0.2861732937850546
+1496528554,Active database systems,1995,0,281,1,1.0,671527850,Jennifer Widom,0,2.062078466721563,0.3437468547945122
+1523736481,Temporal View Self-Maintenance,2000,14,41,1,1.0,671527850,Jennifer Widom,0,0.9266205132337947,0.17248182585127164
+1568972313,Efficient Monitoring and Querying of Distributed Dynamic Data via Approximate Replication,2005,20,29,1,1.0,671527850,Jennifer Widom,0,-0.18179782589503335,-0.06810305083386425
+1532909273,The Starburst Rule System Language Design Implementation and Applications,1992,0,36,1,1.0,671527850,Jennifer Widom,0,1.435905774992603,0.9313886926289241
+1550995397,An Algebraic Approach to Rule Analysis in Expert Database Systems,1994,25,101,1,1.0,671527850,Jennifer Widom,0,1.4683565922680988,0.3858521096130562
+1506194649,Flexible Constraint Management for Autonomous Distributed Databases,1994,0,14,3,0.0,237419955,Hector Garcia Molina,0,0.7570006947091658,0.6269500814102946
+1569403765,Database Systems The Complete Book,2001,0,956,2,0.0,237419955,Hector Garcia Molina,0,1.9383805145742752,0.25614272668820137
+1498631884,Temporal View Self-Maintenance in a Warehousing Environment,1999,22,24,1,1.0,671527850,Jennifer Widom,0,1.0355135036448677,0.33756763480127944
+1571180749,Practical Applications of Triggers and Constraints Success and Lingering Issues (10-Year Award),2000,23,67,2,0.0,519054157,Stefano Ceri,0,-0.0041099411153885,0.0447066884760059
+1571296607,Generic Entity Resolution in the SERF Project,2006,5,30,3,1.0,40211921,David Menestrina,0,0.16285556122741646,-0.3527629301630855
+1562083166,Implementing Set-Oriented Production Rules as an Extension to Starburst,1991,13,130,1,1.0,671527850,Jennifer Widom,0,2.1616112175003246,0.5562782427736581
+1482794078,Constraint Management in Loosely Coupled Distributed Databases,1993,0,4,3,0.0,237419955,Hector Garcia Molina,0,0.19017457783074812,0.188440297715715
+1508914815,Query Optimization for XML,1999,37,365,1,1.0,671527850,Jennifer Widom,0,0.6651022042594709,0.0013528563820680017
+1544987692,Foundations of Automated Database Tuning,2005,0,6,2,0.0,514836396,Gerhard Weikum,0,-0.3584145241730215,-0.07336224267815496
+1492100919,Database publication practices,2005,2,5,3,0.202783,53579654,Zachary G. Ives,0,-0.25609130579317646,0.2785941556746898
+1563265404,Content-based routing different plans for different data,2005,29,58,1,1.0,671527850,Jennifer Widom,0,0.8809340701863815,0.11633144593696097
+1501265984,Managing Semantic Heterogeneity with Production Rules and Persistent Queues,1993,16,105,2,0.0,519054157,Stefano Ceri,0,1.9008074754880728,-0.3143262759756848
+1492626646,Deriving Production Rules for Constraint Maintainance,1990,25,319,2,0.0,519054157,Stefano Ceri,0,1.2741471495277445,0.6305008835427756
+1527973261,On-Line Warehouse View Maintenance for Batch Updates,1996,0,26,1,1.0,671527850,Jennifer Widom,0,2.124547671977498,1.1569485881148924
+1555412276,An Introduction to ULDBs and the Trio System,2006,27,87,1,1.0,671527850,Jennifer Widom,0,0.7585554417836741,0.3178790503502233
+1502146605,Ozone Integrating Structured and Semistructured Data,1999,20,68,2,0.0,172400696,Serge Abiteboul,0,1.0835099693108046,-0.03073820175160641
+1555797260,Active Database Systems Triggers and Rules for Advanced Database Processing,1994,0,570,2,0.0,519054157,Stefano Ceri,0,1.4126901667135108,0.2708693564332184
+1537976732,Generalized Uncertain Databases First Steps,2010,21,5,1,1.0,671527850,Jennifer Widom,0,1.9339273801983707,0.2038777268954908
+1494307597,The Stanford Data Warehousing Project,1995,14,179,3,1.0,194256851,Wilburt Labio,0,0.11627582886789564,0.3621724021946999
+1494311370,Letter from the Special Issue Editor,1994,0,2,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+1565494300,Database System Implementation,2009,0,355,2,0.0,237419955,Hector Garcia Molina,0,1.9471990807277384,0.7307721486050793
+1530637755,Schema Design for Uncertain Databases,2007,44,22,1,1.0,671527850,Jennifer Widom,0,2.089080939202846,0.2800099319464784
+1512675310,Memory-limited execution of windowed stream joins,2004,23,174,1,1.0,671527850,Jennifer Widom,0,0.007334245363849856,0.0884093997571545
+1486776102,Trio A System for Integrated Management of Data Accuracy and Lineage,2004,56,457,1,1.0,671527850,Jennifer Widom,0,0.19322344130452715,0.16275386344205903
+1549202946,Summarizing and Searching Sequential Semistructured Sources,2000,8,6,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+1495986321,Resource sharing in continuous sliding-window aggregates,2004,32,153,1,1.0,671527850,Jennifer Widom,0,-0.42845202490949574,0.1450203979855267
+1604305177,Data Management for XML Research Directions,1999,0,125,1,1.0,671527850,Jennifer Widom,0,0.2438406780519795,-0.21853201894558621
+1587367341,Immortal DB Transaction Time Support for SQL Server,2005,0,1,2,0.0,254158114,German Shegalov,0,0.47609573756399265,0.4489370890171192
+1638026557,The TSIMMIS Approach to Mediation Data Models and Languages,1997,31,793,2,0.0,237419955,Hector Garcia Molina,0,0.13549693032757354,0.6889475030609643
+1677767588,Panda a system for provenance and data,2010,5,45,1,1.0,671527850,Jennifer Widom,0,0.27764364614758763,0.5591421111564561
+1579790099,Production Rules in Parallel and Distributed Database Environments,1992,26,34,2,0.0,519054157,Stefano Ceri,0,0.18740323215220142,0.21489065485791958
+1590355100,A System Prototype for Warehouse View Maintenance,1996,0,80,3,1.0,194256851,Wilburt Labio,0,0.4790180527784906,0.29464975654679
+1646696449,Query Processing Approximation and Resource Management in a Data Stream Management System,2003,20,441,1,1.0,671527850,Jennifer Widom,0,-0.03990874100610224,-0.19030993128025134
+1599687999,Outerjoins in Uncertain Databases,2009,7,1,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+1648759563,Performance Issues in Incremental Warehouse Maintenance,2000,16,80,3,0.554733,194256851,Wilburt Labio,0,0.8987199556932128,0.47431795152868017
+1582747324,CQL A Language for Continuous Queries over Streams and Relations,2003,32,100,1,1.0,671527850,Jennifer Widom,0,-0.02777788246206645,-0.19766732614551258
+1860268383,Maintaining Temporal Views over Non-Temporal Information Sources for Data Warehousing,1998,21,65,1,1.0,671527850,Jennifer Widom,0,-0.21330659714789202,0.024369054841997858
+1827414635,Representing and querying changes in semistructured data,1998,20,153,3,0.0,172400696,Serge Abiteboul,0,0.6286127640089779,0.236812435415936
+1718377067,Change Management in Heterogeneous Semistructured Databases (Demonstration Description),1997,0,0,3,0.0,172400696,Serge Abiteboul,0,0.1653838894567856,0.29325817591493436
+1584070893,Optimal crowd-powered rating and filtering algorithms,2014,41,28,2,0.0,237419955,Hector Garcia Molina,0,-0.0041099411153885,0.0447066884760059
+1720961861,Lineage tracing in a data warehousing system,2000,4,17,1,1.0,671527850,Jennifer Widom,0,0.9447957649701774,1.229541271278135
+1721197928,Interactive Query and Search in Semistructured Databases,1998,14,36,1,1.0,671527850,Jennifer Widom,0,-0.13957544592437585,0.1805753480881708
+1602423797,Offering a Precision-Performance Tradeoff for Aggregation Queries over Replicated Data,2000,31,143,1,1.0,671527850,Jennifer Widom,0,-0.10134712877997931,-0.21487711305997756
+1831560769,STREAM The Stanford Data Stream Management System,2016,23,391,1,1.0,671527850,Jennifer Widom,0,-0.02504284252244325,-0.47177666628625237
+1899647947,Practical lineage tracing in data warehouses,2000,27,138,1,1.0,671527850,Jennifer Widom,0,0.42654510863974904,0.10029987177319781
+1966276082,Static analysis techniques for predicting the behavior of active database rules,1995,29,140,1,1.0,671527850,Jennifer Widom,0,-0.16631702982264118,-0.2768617612801479
+1973297291,Three Favorite Results,2015,0,0,1,1.0,671527850,Jennifer Widom,0,-0.42845202490949574,0.1450203979855267
+1969970763,GPS a graph processing system,2013,32,372,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+1985996526,Data streams fresh current or stagnant backwater (panel),2002,0,0,1,1.0,671527850,Jennifer Widom,0,-0.42845202490949574,0.1450203979855267
+1977331029,Query optimization over crowdsourced data,2013,22,37,1,1.0,671527850,Jennifer Widom,0,0.0908845357243609,0.31128747720343375
+1986319134,STREAM the stanford stream data manager (demonstration description),2003,3,190,1,1.0,671527850,Jennifer Widom,0,-0.3258337490572475,-0.06722541135749883
+1983178058,Tracing the lineage of view data in a warehousing environment,2000,24,358,1,1.0,671527850,Jennifer Widom,0,0.9741050589169535,0.2863498793504314
+1969450725,Deriving Production Rules for Incremental View Maintenance,1991,15,345,2,0.0,519054157,Stefano Ceri,0,2.5282642113453995,0.7934550341517735
+1980039978,Integrating dynamically-fetched external information into a DBMS for semistructured data,1997,4,20,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+2001343755,A denotational semantics for continuous queries over streams and relations,2004,12,59,1,1.0,671527850,Jennifer Widom,0,-0.42845202490949574,0.1450203979855267
+1998014869,Of XML and databases (panel session) wheres the beef ,2000,0,1,1,1.0,671527850,Jennifer Widom,0,2.728443196742032,-1.2292042031126393
+1992841511,Graft A Debugging Tool For Apache Giraph,2015,17,15,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+1996376794,An overview of the deco system data model and query language; query processing and optimization,2013,14,24,3,0.0,237419955,Hector Garcia Molina,0,0.0908845357243609,0.31128747720343375
+1987873680,Local verification of global integrity constraints in distributed databases,1993,20,93,1,1.0,671527850,Jennifer Widom,0,-0.0011975427116082311,-0.0354844225419185
+1996846921,2007 SIGMOD Edger F Codd Innovations Award â€œResearch Principles Revealedâ€,2007,0,0,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+1997168731,The Beckman Report on Database Research,2014,7,47,3,0.0,360112113,Hosagrahar V. Jagadish,0,0.16961816653767703,0.31221718520020947
+2013666871,CrowdFill collecting structured data from the crowd,2014,18,39,1,1.0,671527850,Jennifer Widom,0,0.3076740902037984,-0.16796634851837736
+2024797550,Change detection in hierarchically structured information,1996,12,481,3,0.0,237419955,Hector Garcia Molina,0,0.1888834112405747,0.2461948291415111
+2028818097,CrowdScreen algorithms for filtering data with humans,2012,21,167,3,0.0,237419955,Hector Garcia Molina,0,-0.0041099411153885,0.0447066884760059
+2021914941,The WHIPS prototype for data warehouse creation and maintenance,1997,3,58,3,0.952381,194256851,Wilburt Labio,0,0.08790592284561753,0.6275646102290539
+2030799370,Logical provenance in data-oriented workflows ,2013,27,17,1,1.0,671527850,Jennifer Widom,0,0.2946713761785912,0.4027268098681643
+2023977759,Exploiting k -constraints to reduce memory overhead in continuous queries over data streams,2004,48,163,1,1.0,671527850,Jennifer Widom,0,-0.42845202490949574,0.1450203979855267
+2025721839,Deco a system for declarative crowdsourcing,2012,5,64,3,0.0,237419955,Hector Garcia Molina,0,0.3539092682463384,0.03441893299496975
+2015180052,Characterizing memory requirements for queries over continuous data streams,2004,31,55,1,1.0,671527850,Jennifer Widom,0,0.4925299351171073,0.23699147982881533
+2043489637,A syntax and semantics for set-oriented production rules in relational database systems,1989,0,42,1,1.0,671527850,Jennifer Widom,0,1.1747516775653895,0.251232719546167
+2050876821,Provenance-Based Debugging and Drill-Down in Data-Oriented Workflows,2012,6,15,1,1.0,671527850,Jennifer Widom,0,0.1375539224162309,0.22668124657657046
+2075451706,On-line warehouse view maintenance,1997,18,142,1,1.0,671527850,Jennifer Widom,0,2.5192103511000994,1.3378596103927194
+2075476359,Information translation mediation and mosaic-based browsing in the TSIMMIS system,1995,2,72,2,0.0,237419955,Hector Garcia Molina,0,0.059334646286801504,-0.38217928034100956
+2068535784,An algebraic approach to static analysis of active database rules,2000,40,78,1,1.0,671527850,Jennifer Widom,0,1.1845804091439016,0.10480270394364888
+2056947248,Set-oriented production rules in relational database systems,1990,15,221,1,1.0,671527850,Jennifer Widom,0,2.0997791218007196,0.5191845648180964
+2070979546,Research issues in active database systems report from the closing panel at RIDE-ADS 94,1994,2,15,1,1.0,671527850,Jennifer Widom,0,0.6846542217871038,0.06663471439299747
+2071212500,Integrating heterogeneous databases lazy or eager ,1996,0,36,1,1.0,671527850,Jennifer Widom,0,0.2807600744873719,-0.0746967125258062
+2099395665,The CQL continuous query language semantic foundations and query execution,2006,50,1047,1,1.0,671527850,Jennifer Widom,0,0.016295364423474585,-0.051449752469028165
+2099708664,Adaptive filters for continuous queries over distributed data streams,2003,38,430,1,1.0,671527850,Jennifer Widom,0,-0.42845202490949574,0.1450203979855267
+2084119909,A First Course in Database Systems,1997,0,258,1,1.0,671527850,Jennifer Widom,0,2.6515219804645227,0.5283975894759622
+2080621069,A denotational semantics for the Starburst production rule language,1992,17,46,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+2102959828,Vision paper enabling privacy for the paranoids,2004,53,49,2,0.0,237419955,Hector Garcia Molina,0,0.18601297105691045,-0.0008472885667257998
+2100153179,Lineage Tracing for General Data Warehouse Transformations,2003,23,300,1,1.0,671527850,Jennifer Widom,0,0.2612497181534953,-0.43769399923134256
+2094867116,Deriving incremental production rules for deductive data,1994,27,50,2,0.0,519054157,Stefano Ceri,0,1.530313355986296,0.6889605019930021
+2080860173,Whiteboards a graphical database tool,1986,5,125,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+2100674109,Lore a database management system for semistructured data,1997,28,579,2,0.0,172400696,Serge Abiteboul,0,0.2608667443183888,0.013642378470132
+2097800052,Clustering association rules,1997,21,350,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+2100758984,Incremental computation and maintenance of temporal aggregates,2001,22,94,1,1.0,671527850,Jennifer Widom,0,-0.013461585000753501,0.3992713372441375
+2090111889,DataSift a crowd-powered search toolkit,2014,9,9,2,0.0,237419955,Hector Garcia Molina,0,-0.331157261929354,-0.16512333473426355
+2088422262,Trio a system for data uncertainty and lineage,2006,9,320,1,1.0,671527850,Jennifer Widom,0,0.6348669398151128,0.2696071105165071
+2101207848,Adaptive ordering of pipelined stream filters,2004,33,201,1,1.0,671527850,Jennifer Widom,0,0.08715497895888988,-0.3696669933667772
+2079794012,The STRIP rule system for efficiently maintaining derived data,1997,20,46,2,0.0,237419955,Hector Garcia Molina,0,0.4216835394941572,-0.004894177511736899
+2101620066,Human-assisted graph search its okay to ask questions,2011,25,110,3,0.0,237419955,Hector Garcia Molina,0,-0.0041099411153885,0.0447066884760059
+2096219859,Exploiting Lineage for Confidence Computation in Uncertain and Probabilistic Databases,2008,32,112,1,1.0,671527850,Jennifer Widom,0,-0.48375058894678336,0.717010989426234
+2129035130,Working Models for Uncertain Data,2006,32,312,1,1.0,671527850,Jennifer Widom,0,0.8569235922105615,0.5691874784339099
+2120286218,The WHIPS prototype for data warehouse creation and maintenance,1997,3,7,3,0.952381,194256851,Wilburt Labio,0,0.4350345910214032,0.26089316116045713
+2138195286,A Pipelined Framework for Online Cleaning of Sensor Data Streams,2006,18,174,1,1.0,671527850,Jennifer Widom,0,-0.4184891394023071,-0.045627166372880605
+2135252439,Best-effort cache synchronization with source cooperation,2002,27,122,1,1.0,671527850,Jennifer Widom,0,-0.026043388670241648,-0.1514020116204905
+2123561513,Swoosh a generic approach to entity resolution,2009,36,389,3,1.0,40211921,David Menestrina,0,0.04206355357696997,0.04377415336283256
+2114830702,Making Aggregation Work in Uncertain and Probabilistic Databases,2011,27,38,1,1.0,671527850,Jennifer Widom,0,0.03565810966282755,0.09825506972366725
+2117849706,Object exchange across heterogeneous information sources,1995,17,745,2,0.0,237419955,Hector Garcia Molina,0,0.09178480970385096,0.0904714268989792
+2132520482,Continuous queries over data streams,2001,62,717,1,1.0,671527850,Jennifer Widom,0,0.8246715818542338,0.046110199837780086
+2138618491,A toolkit for constraint management in heterogeneous information systems,1996,14,29,3,0.0,237419955,Hector Garcia Molina,0,0.4144526632253094,0.4635891628886857
+2126880670,Databases with uncertainty and lineage,2008,44,184,1,1.0,671527850,Jennifer Widom,0,0.2606766273758497,-0.0697847523324952
+2109402524,Confidence-Aware Join Algorithms,2009,22,21,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+2115613157,StreaMon an adaptive engine for stream query processing,2004,5,62,1,1.0,671527850,Jennifer Widom,0,-0.11078297277902291,-0.45588059253357405
+2113270930,TIP a temporal extension to Informix,2000,11,15,1,1.0,671527850,Jennifer Widom,0,0.6927556578057779,-0.006042694884811617
+2122211300,The Starburst active database rule system,1996,47,92,1,1.0,671527850,Jennifer Widom,0,0.6944914430787014,-0.10868936072083284
+2140102533,Adaptive caching for continuous queries,2005,34,89,1,1.0,671527850,Jennifer Widom,0,-0.15876908443966078,-0.6135684665118507
+2131165411,View maintenance in a warehousing environment,1995,16,447,2,0.0,237419955,Hector Garcia Molina,0,3.773633775527024,1.2307677081376034
+2137229949,Managing historical semistructured data,1999,20,73,3,0.0,172400696,Serge Abiteboul,0,-0.005492479781766882,0.11225428445793859
+2134356404,DataGuides Enabling Query Formulation and Optimization in Semistructured Databases,1997,21,1151,1,1.0,671527850,Jennifer Widom,0,0.7215975991611812,0.3052417628859806
+2110849300,Adaptive precision setting for cached approximate values,2001,16,199,1,1.0,671527850,Jennifer Widom,0,1.2787030360836775,0.3805392062188651
+2116929859,Starburst II the extender strikes back ,1991,0,1,2,0.0,401236404,Guy M. Lohman,0,-0.0041099411153885,0.0447066884760059
+2119906910,LIVE a lineage-supported versioned DBMS,2010,45,20,1,1.0,671527850,Jennifer Widom,0,0.31255201073465105,-0.0652648968870233
+2144346642,Trio-One Layering Uncertainty and Lineage on a Conventional DBMS,2007,5,68,1,1.0,671527850,Jennifer Widom,0,0.13233175764331187,0.22423938928651474
+2169028468,LORE a Lightweight Object REpository for semistructured data,1996,3,46,2,0.0,172400696,Serge Abiteboul,0,0.296397124806043,0.7128436140546136
+2172104706,An overview of production rules in database systems,1993,38,91,1,1.0,671527850,Jennifer Widom,0,2.6414130348002574,0.6161131214827426
+2157022252,Towards a streaming SQL standard,2008,16,138,1,1.0,671527850,Jennifer Widom,0,0.23219378138084618,0.012391378948845686
+2151575925,Query Processing Resource Management and Approximation ina Data Stream Management System,2002,21,392,1,1.0,671527850,Jennifer Widom,0,-0.03990874100610224,-0.19030993128025134
+2151775459,Protocols for Integrity Constraint Checking in FederatedDatabases,1997,30,32,2,0.0,330448013,Paul Grefen,0,0.7349787103923009,0.7866213250363318
+2160825121,Making views self-maintainable for data warehousing,1996,10,216,2,0.0,112579409,Inderpal Singh Mumick,0,0.8196378658749661,0.22472781887440632
+2166916904,ULDBs databases with uncertainty and lineage,2006,41,444,1,1.0,671527850,Jennifer Widom,0,1.3283086448508648,0.12770801276867255
+2155094138,Foundations of uncertain-data integration,2010,33,34,1,1.0,671527850,Jennifer Widom,0,1.4778282834956247,0.07121844675445443
+2149531250,Indexing relational database content offline for efficient keyword-based search,2005,16,58,1,1.0,671527850,Jennifer Widom,0,1.2309165576940666,0.13744224350859188
+2170551989,Behavior of database production rules termination confluence and observable determinism,1992,17,188,1,1.0,671527850,Jennifer Widom,0,1.1912433919456025,0.39916717710764704
+2168009816,Query optimization over web services,2006,26,186,1,1.0,671527850,Jennifer Widom,0,-1.4996882579462965,-1.9922081524459931
+2264161432,From semistructured data to XML,2000,0,42,1,1.0,671527850,Jennifer Widom,0,0.5586742082380666,-0.1984847101299193
+2207067200,WSQ/DSQ a practical approach for combined querying of databases and the Web,2000,34,116,1,1.0,671527850,Jennifer Widom,0,0.721050505749266,0.14885205280867192
+2337726496,Integrated query and search of databases XML and the web,2000,0,4,1,1.0,671527850,Jennifer Widom,0,0.8375638579403862,-0.4703848495112865
+2351076133,Models and Issues in Data Models and Issues in Data Stream Systems Stream Systems (with changes by CZ,2002,0,0,1,1.0,671527850,Jennifer Widom,0,0.03565810966282755,0.09825506972366725
+2398660820,STREAM The Stanford Stream Data Manager,2003,0,402,1,1.0,671527850,Jennifer Widom,0,0.1882434276923103,-1.0430197535152996
+2397617773,Panda A System for Provenance and Data,2010,0,10,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+2403180956,STREAM The Stanford Stream Data Manager,2003,0,156,1,1.0,671527850,Jennifer Widom,0,-0.0041099411153885,0.0447066884760059
+2416528386,Data management and query processing for semistructured data,2000,0,5,1,1.0,671527850,Jennifer Widom,0,0.5866143715952109,0.2562323319002529
+2531657479,Interactive query and search in semistructured databases,1999,0,14,1,1.0,671527850,Jennifer Widom,0,-0.05136326884150111,-0.22607436159287697
+2914131740,Proceedings of the 24rd International Conference on Very Large Data Bases,1998,0,0,2,0.0,300944089,Oded Shmueli,0,-0.0041099411153885,0.0447066884760059
+2915129955,Rethinking the Conference Reviewing Process - Panel,2004,0,1,4,0.0,49852981,Stefan Dessloch,0,-0.0041099411153885,0.0447066884760059
+2952591299,The Lowell Database Research Self Assessment,2003,5,5,7,0.0,172400696,Serge Abiteboul,0,-0.40975864434508047,0.2110873139452707
+2988274817,Foreword by the VLDB 98 PC Chairmen Best Papers of VLDB 98,2000,0,0,2,0.0,300944089,Oded Shmueli,0,-0.25609130579317646,0.2785941556746898

@@ -1,0 +1,75 @@
+174239093,Query Optimization Techniques for Horizontal View Tables Used for Multidimensional Analysis,2008,0,0,1,1,2114304489,Sang Wook Kim,0,0.7198659523525811,0.2571581134310692
+59647876,Performance Evaluation of TPR Trees for Processing Future-Time Queries in Moving Object Databases,2006,0,5,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+42754844,Concurrency control in main-memory DBMS,2004,0,0,1,1,2114304489,Sang Wook Kim,0,2.523289490792517,3.2831517300540405
+61058938,Optimal Construction of Multi-Dimensional Indexes in Time-Series Databases A Physical Database Design Approach,2003,11,0,1,1,2114304489,Sang Wook Kim,0,2.1967044488861887,0.5386061926810928
+200655386,On Evaluating Performance Characteristics of a Multidimensional File Structure,1998,0,0,1,1,2114304489,Sang Wook Kim,0,-0.32287510614472226,0.28051289360190673
+13443704,New join processing using a multidimensional dynamic file organization,2001,0,0,2,0,1933211966,Kyu Young Whang,0,0.8771113148730372,-0.6694805488481194
+116701250,Synchronization in an Embedded DBMS Environment,2006,2,5,1,1,2114304489,Sang Wook Kim,0,1.6332388513932319,0.5216577297645383
+231184475,An Effective Way to Guarantee the Physical Consistency of Lock Waiting Information in Main Memory Databases,2002,0,0,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+84654226,Development of a high-performance index manager in a main memory DBMS,2003,0,1,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+300075746,Using multiple indexes for efficient subsequence matching in time-series databases,2006,14,10,1,1,2114304489,Sang Wook Kim,0,0.19180210808302658,0.0826158352810895
+754628755,Design and Implementation of a High-Performance Index Manager in a Main Memory DBMS,2003,0,0,1,1,2114304489,Sang Wook Kim,0,0.24117844175679057,0.705129568945532
+819529310,Shape-Based Subsequence Retrieval Supporting Multiple Models in Time-Series Databases,2003,13,1,3,1,2108770638,Jee Hee Yoon,0,-1.0173373700705786,0.5746299748702965
+1515076467,Efficient processing of subsequence matching with the euclidean metric in time-series databases,2002,14,0,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+1506313855,Active adjustment an approach for improving the performance of the TPR*-tree,2007,10,1,1,1,2114304489,Sang Wook Kim,0,-0.3591586136546091,0.2412205287368428
+1587636691,Music plagiarism detection using melody databases,2005,12,0,2,0,2104269085,Miyoung Shin,0,-0.2554006006761083,0.005185177391162952
+1685277902,Design and implementation of the concurrency control manager in the main-memory DBMS Tachyon,2002,10,4,1,1,2114304489,Sang Wook Kim,0,2.515448689937649,3.2885130245861935
+1831812957,An efficient sheet partition technique for very large relational tables in OLAP,2007,5,1,1,1,2114304489,Sang Wook Kim,0,-0.4842645630227378,0.9583078940931462
+1661369303,Effective and efficient detection of software theft via dynamic API authority vectors,2015,19,6,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+1603474531,A New Algorithm for Processing Joins Using the Multilevel Grid File,1995,16,6,2,0,1933211966,Kyu Young Whang,0,-0.26064923455455846,0.4315435219240117
+1973687126,Performance bottleneck of subsequence matching in time-series databases Observation solution and performance evaluation,2007,36,10,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+1981055269,Using multiple indexes for efficient subsequence matching in time-series databases,2007,32,32,1,1,2114304489,Sang Wook Kim,0,0.541048792242954,0.14109191976847427
+1969107148,DAAV Dynamic API Authority Vectors for Detecting Software Theft,2015,14,1,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+1983260434,Trajectory Indexing for Efficient Processing of Range Queries,2009,16,0,3,0,2097414024,Chang Il Cha,0,0.3820908385543769,0.2117467783858426
+2008822950,Prefix-querying an approach for effective subsequence matching under time warping in sequence databases,2001,22,21,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+1995438427,Incremental Maintenance of Horizontal Views Using a PIVOT Operation and a Differential File in Relational DBMSs,2009,13,0,1,1,2114304489,Sang Wook Kim,0,2.028672414230722,1.0727414391449375
+2010239723,Design and Implementation of a Main Memory Index Structure in a DBMS,2007,1,2,1,1,2114304489,Sang Wook Kim,0,1.6332388513932319,0.5216577297645383
+2026274785,Batch-construction of B+-trees,2001,12,8,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2021125030,Dynamic maintenance of data distribution for selectivity estimation,1994,24,52,3,0,1933211966,Kyu Young Whang,0,0.12078929429085944,0.33547553188895146
+2026398477,Approximate indexing in road network databases,2009,12,4,1,1,2114304489,Sang Wook Kim,0,-0.46893397788284524,0.07728939382804885
+2025437669,Shape-based retrieval of similar subsequences in time-series databases,2002,25,15,1,1,2114304489,Sang Wook Kim,0,-0.0681371106864691,0.37370442032925993
+2029120445,Flash-aware record management method,2010,4,0,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2016876497,Index interpolation an approach to subsequence matching supporting normalization transform in time-series databases,2000,17,32,2,0,1933211966,Kyu Young Whang,0,-0.0681371106864691,0.37370442032925993
+2034849775,Erratum TL-Rank A Blend of Text and Link Information for Measuring Similarity in Scientific Literature Databases [IEICE Transactions on Information and Systems E95D (2012) No10 pp2556-2559],2013,0,0,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2040499054,A semantic similarity measure in document databases an earth movers distance-based approach,2013,13,0,2,0,2100188408,Young Sup Hwang,0,-0.0041099411153885,0.0447066884760059
+2035333697,A Subsequence Matching Algorithm that Supports Normalization Transform in Time-Series Databases,2004,41,38,2,0,1933211966,Kyu Young Whang,0,-0.0681371106864691,0.37370442032925993
+2054765608,Optimization of subsequence matching under time warping in time-series databases,2005,14,35,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2035728585,A Flash-aware Buffering Scheme using On-the-fly Redo,2015,4,0,1,1,2114304489,Sang Wook Kim,0,0.9408492071308692,0.912959594064505
+2046668018,Efficient processing of similarity search under time warping in sequence databases an index-based approach,2004,30,34,1,1,2114304489,Sang Wook Kim,0,-1.0173373700705786,0.5746299748702965
+2034290763,Wavelet transformation-based management of integrated summary data for distributed query processing,2001,24,4,2,0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+2048606882,Efficient Storage Structures for a Stock Investment Recommendation System,2009,12,0,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2068095270,A stock recommendation system exploiting rule discovery in stock databases,2009,22,5,3,1,2108770638,Jee Hee Yoon,0,-0.0041099411153885,0.0447066884760059
+2062071394,Intelligent SSD a turbo for big data mining,2013,9,22,1,1,2114304489,Sang Wook Kim,0,0.8736527736980121,-0.5249833163117856
+2067288508,Segment-based approach for subsequence searches in sequence databases,2001,18,81,1,1,2114304489,Sang Wook Kim,0,0.11627582886789564,0.3621724021946999
+2073113371,Active Adjustment An Approach for Improving the Search Performance of the TPR * -tree,2008,7,0,1,1,2114304489,Sang Wook Kim,0,-0.3591586136546091,0.2412205287368428
+2102749749,Storage structures for efficient query processing in a stock recommendation system,2008,7,0,1,1,2114304489,Sang Wook Kim,0,0.014532710543751099,0.030944858938630852
+2086545762,A recovery method supporting user-interactive undo in database management systems,1999,16,3,3,0,1933211966,Kyu Young Whang,0,0.3715208509719942,0.15038891830252638
+2114916707,An efficient approach for sequence matching in large DNA databases,2006,33,3,3,1,2108770638,Jee Hee Yoon,0,-0.5624619088460578,0.20860646779385528
+2124021141,An index-based method for timestamped event sequence matching,2005,15,2,3,1,2108770638,Jee Hee Yoon,0,-0.0041099411153885,0.0447066884760059
+2132775599,Guaranteeing the physical consistency of shared data in a main-memory DBMS,2002,10,1,1,1,2114304489,Sang Wook Kim,0,0.5703606355878078,0.5388018810615961
+2127825671,A subsequence matching algorithm supporting moving average transform of arbitrary order in time-series databases using index interpolation,2001,14,7,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2113487917,Design and implementation of a cache-conscious index manager for the Tachyon a main memory DBMS,2003,19,1,1,1,2114304489,Sang Wook Kim,0,-0.46893397788284524,0.07728939382804885
+2171787996,A practical method for approximate subsequence search in DNA databases,2007,15,1,4,0,2096976497,Sang Kyoon Hong,0,-0.5624619088460578,0.20860646779385528
+2163237585,SD-Miner A spatial data mining system,2009,9,4,2,0,2098083697,Ju Won Song,0,-0.8442799024983738,-0.4733055136073366
+2148384129,Privacy preserving data mining of sequential patterns for network traffic data,2007,14,0,2,1,2111292257,Jung Im Won,0,-0.42845202490949574,0.1450203979855267
+2161007993,Clustering and Non-clustering Effects in Flash Memory Databases,2009,11,5,2,0,2099069951,Ji Woong Chang,0,-0.0041099411153885,0.0447066884760059
+2155775767,Rule Discovery and Matching in Stock Databases,2008,17,4,3,1,2108770638,Jee Hee Yoon,0,-0.0041099411153885,0.0447066884760059
+2146869661,An efficient processing of queries with joins and aggregate functions in data warehousing environment,2002,10,4,1,1,2114304489,Sang Wook Kim,0,0.11627582886789564,0.3621724021946999
+2155919101,An index-based approach for similarity search supporting time warping in large sequence databases,2001,21,254,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2345843470,Efficient processing of continuous queries utilizing F-relationship in stock databases,2016,22,0,1,1,2114304489,Sang Wook Kim,0,0.12446922487222774,0.4526346592524689
+2360141695,Efficient Processin of Queries with Joints and Aggregate Functions in ROLAP Data Warehousing Environment,2002,0,0,1,1,2114304489,Sang Wook Kim,0,1.0178394699046702,1.0694132526141928
+2343822517,Intelligent ssd A turbo for big data mining,2016,0,3,2,0,1979337330,Yong Yeon Jo,0,0.8736527736980121,-0.5249833163117856
+2406670230,An Effective Similarity Search Technique supporting Time Warping in Sequence Databases,2001,0,0,1,1,2114304489,Sang Wook Kim,0,-1.0173373700705786,0.5746299748702965
+2401056157,Continuous Query Processing Utilizing Follows Relationship between Queries in Stock Databases,2006,0,0,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2407016153,Subsequence matching under time warping in time-series databases Observation optimization and performance results,2008,0,1,2,0,2104269085,Miyoung Shin,0,-0.0041099411153885,0.0447066884760059
+2394601254,Efficient Subsequence Searching in Sequence Databases A Segment-based Approach,2001,0,0,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2391564026,k-Nearest Neighbor Querv Processing using Approximate Indexing in Road Network Databases,2008,0,0,1,1,2114304489,Sang Wook Kim,0,0.1936726118231771,0.32070924132986206
+2400354504,Efficient Path Finding Based on the $A^*$ algorithm for Processing k-Nearest Neighbor Queries in Road Network Databases,2009,0,1,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2400649149,SBASS Segment based approach for subsequence searches in sequence databases,2007,0,3,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2398168965,Crowdsky Skyline computation with crowdsourcing,2016,28,3,1,1,2114304489,Sang Wook Kim,0,0.4612748096154063,0.057859001142267795
+2462031417,Using multiple indexes for efficient subsequence matching in time-series databases,2006,0,0,1,1,2114304489,Sang Wook Kim,0,0.19180210808302658,0.0826158352810895
+2423263085,â€œTold you i didnt like itâ€ Exploiting uninteresting items for effective collaborative filtering,2016,24,15,2,0,2112718749,Won Seok Hwang,0,-0.0041099411153885,0.0447066884760059
+2606826954,The Performance Bottleneck of Subsequence Matching in Time-Series Databases Observation Solution and Performance Evaluation,2003,0,0,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059
+2742144191,Request-aware Cooperative I/O Scheduling for Scale-out Database Applications,2017,10,1,2,0,2112660416,Jinkyu Jeong,0,-0.0041099411153885,0.0447066884760059
+2892226719,I Like Your Tagged Photos But Do We Know Each Other Analyzing the Role of Tags in Like Networks,2018,14,1,2,0,2102341692,Kyungsik Han,0,-0.4952370533090319,-0.40710710999814825
+2952835078,C-Rank A Link-based Similarity Measure for Scientific Literature Databases,2011,20,2,1,1,2114304489,Sang Wook Kim,0,-0.0041099411153885,0.0447066884760059

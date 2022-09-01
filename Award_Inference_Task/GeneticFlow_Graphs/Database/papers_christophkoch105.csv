@@ -1,0 +1,96 @@
+159862325,Agile Views in a Dynamic Data Management System,2011,0,0,1,1.0,2131931065,Christoph Koch,0,-0.1356533791087176,-0.548314551022173
+41387588,Loop elimination for database updates,2013,7,0,2,0.52281,2018379657,Reinhard Pichler,0,0.4170158691156383,0.0370747845240022
+15652975,Incremental View Maintenance for Nested-Relational Databases,2014,0,2,2,0.0,599151389,Val Tannen,0,1.8642602214158643,0.4419862727439609
+1497089183,Scalable and adaptive online joins,2014,43,48,3,0.0,131640100,Aleksandar Vitorovic,0,0.43739842239757626,0.009947045888208002
+1551463489,08421 Working Group Report of the Probabilistic Databases Benchmarking,2009,0,0,3,0.5363,2081189480,Dan Olteanu,0,1.9339273801983707,0.2038777268954908
+1562570268,Causality in Databases,2010,18,77,4,0.0,220118967,Alexandra Meliou,0,0.43739842239757626,0.009947045888208002
+1572049209,On the role of composition in XQuery,2005,11,17,1,1.0,2131931065,Christoph Koch,0,1.7996228171490978,-0.5882287245449953
+1566092943,Attribute Grammars for Scalable Query Processing on XML Streams,2003,32,11,2,1.0,2012909379,Stefanie Scherzinger,0,1.0584944305492334,-0.32573149366514276
+1557658176,Abstraction without regret in database systems building a manifesto,2014,30,15,1,1.0,2131931065,Christoph Koch,0,-0.0041099411153885,0.0447066884760059
+1540516609,Efficient algorithms for processing XPath queries,2002,23,242,3,0.0,1873538321,Georg Gottlob,0,1.4727805986419138,-0.5352493076874281
+1603860915,XML Stream Processing,2009,0,5,1,1.0,2131931065,Christoph Koch,0,0.5586742082380666,-0.1984847101299193
+1634737830,Writes that Fall in the Forest and Make no Sound Semantics-Based Adaptive Data Consistency,2014,43,8,5,0.0,2025402651,Hossein Hojjat,0,0.3668618262428829,0.5296349202601217
+1676461767,Optimizing Queries Using a Meta-level Database,2002,28,2,1,1.0,2131931065,Christoph Koch,0,0.14746017763158398,0.0260774057549781
+1756474508,Load balancing and skew resilience for parallel joins,2016,54,15,3,0.0,131640100,Aleksandar Vitorovic,0,-0.0041099411153885,0.0447066884760059
+1607660775,The GCX system dynamic buffer minimization in streaming XQuery evaluation,2007,13,11,2,1.0,2012909379,Stefanie Scherzinger,0,1.5735679972965724,-0.5393778526086117
+1581490944,Building a Native XML-DBMS as a Term Project in a Database Systems Course,2006,5,1,3,1.0,2012909379,Stefanie Scherzinger,0,2.3489609584463382,0.4307594968490735
+1694831457,On APIs for probabilistic databases,2008,10,10,2,1.0,295814537,Lyublena Antova,0,2.4045760956242805,0.45060477582876934
+1780720686,Multiple query optimization on the D-Wave 2X adiabatic quantum computer,2016,43,13,2,1.0,2033535725,Immanuel Trummer,0,0.014532710543751099,0.030944858938630852
+1583896216,The DLV System,2002,5,72,9,0.0,75780777,Francesco Calimeri,0,0.5325669973310596,0.09709227568458595
+1720513109,Special issue on best papers of VLDB 2013,2015,1,0,1,1.0,2131931065,Christoph Koch,0,-0.04534890945238118,0.17026234857997405
+1593376882,XPath Query Processing,2003,4,2,2,0.0,1873538321,Georg Gottlob,0,1.5457338267468914,-0.43849871623745473
+1925107054,Markov chain Monte Carlo and databases,2010,0,0,1,1.0,2131931065,Christoph Koch,0,-0.0041099411153885,0.0447066884760059
+1789812421,Multi-objective parametric query optimization,2014,32,30,2,1.0,2033535725,Immanuel Trummer,0,0.014532710543751099,0.030944858938630852
+1983728141,Logic-based web information extraction,2004,38,16,2,0.0,1873538321,Georg Gottlob,0,-1.6455771356666025,-1.6478950089205062
+1973761208,LINVIEW incremental view maintenance for complex analytical queries,2014,39,31,3,1.0,1132419742,Mohammed Elseidy,0,2.5282642113453995,0.7934550341517735
+1979653598,Scaling games to epic proportions,2007,10,61,3,0.0,2083845045,Johannes Gehrke,0,0.18601297105691045,-0.0008472885667257998
+1981780124,The Homeostasis Protocol Avoiding Transaction Coordination Through Program Analysis,2015,43,38,6,0.0,2007579070,Bailu Ding,0,0.38009049917121435,0.45246057348231067
+2000487974,On the complexity of nonrecursive XQuery and functional query languages on complex values,2006,43,32,1,1.0,2131931065,Christoph Koch,0,1.5398639457710626,0.048467823466432525
+1997094873,Editorial Information systems preface,2008,0,0,2,0.0,2058820594,Gavin Bierman,0,-0.0041099411153885,0.0447066884760059
+1988422900,XML Prefiltering as a String Matching Problem,2008,19,14,2,1.0,2012909379,Stefanie Scherzinger,0,2.395859504507707,-0.8652090399579757
+1994156295,Entangled queries Enabling declarative data-driven coordination,2012,16,3,3,0.0,2083845045,Johannes Gehrke,0,0.23210913691895133,0.0035556588753552602
+2021964585,From XQuery to relational logics,2009,34,19,2,0.0,2016987025,Michael Benedikt,0,1.8535898069960257,0.12119494591450802
+2029138824,MayBMS a probabilistic database management system,2009,5,129,3,1.0,295814537,Lyublena Antova,0,2.521493668288705,0.49581207002691596
+2041937026,Fine-grained disclosure control for app ecosystems,2013,23,4,3,0.0,2083845045,Johannes Gehrke,0,0.680520586937336,0.11699500419833686
+2049199200,Approximate confidence computation in probabilistic databases,2010,28,59,2,0.514802,2081189480,Dan Olteanu,0,-0.0041099411153885,0.0447066884760059
+2039652440,An Incremental Anytime Algorithm for Multi-Objective Query Optimization,2015,21,16,2,1.0,2033535725,Immanuel Trummer,0,-0.659291297595431,0.4149017356388888
+2065538099,$${10^{(10^{6})}}$$ worlds and beyond efficient representation and processing of incomplete information,2009,30,44,3,1.0,295814537,Lyublena Antova,0,0.7187661742814414,0.16455106172454326
+2074489032,DBToaster higher-order delta processing for dynamic frequently fresh views,2012,45,96,2,1.0,2033524472,Milos Nikolic,0,1.230202895953635,0.24220449482403517
+2058874014,PIP A database system for great and small expectations,2010,20,35,1,1.0,2131931065,Christoph Koch,0,1.9339273801983707,0.2038777268954908
+2103029341,An evaluation of checkpoint recovery for massively multiplayer online games,2009,32,25,5,0.0,2083845045,Johannes Gehrke,0,-0.0041099411153885,0.0447066884760059
+2103332648,Efficient processing of expressive node-selecting queries on XML data in secondary storage a tree automata-based approach,2003,17,71,1,1.0,2131931065,Christoph Koch,0,0.3485279911911511,0.12304658071861418
+2100444372,Incremental query evaluation in a ring of databases,2010,36,65,1,1.0,2131931065,Christoph Koch,0,0.7215975991611812,0.3052417628859806
+2103747951,Query language support for incomplete information in the MayBMS system,2007,5,32,3,1.0,295814537,Lyublena Antova,0,0.20520470939980048,0.29009271219986266
+2086605907,Coordination through querying in the youtopia system,2011,3,3,3,0.0,2083845045,Johannes Gehrke,0,-0.0041099411153885,0.0447066884760059
+2104488088,A compositional query algebra for second-order logic and uncertain databases,2009,18,14,1,1.0,2131931065,Christoph Koch,0,0.0908845357243609,0.31128747720343375
+2081703734,On Query Algebras for Probabilistic Databases,2009,22,13,1,1.0,2131931065,Christoph Koch,0,1.313482365234965,0.35647009229447285
+2105009343,FluXQuery an optimizing XQuery processor for streaming XML data,2004,13,76,4,0.0,151928960,Bernhard Stegmaier,0,1.995666948054332,-0.7016361517240067
+2117694547,A Visual Query Language for Complex-Value Databases,2006,19,2,1,1.0,2131931065,Christoph Koch,0,0.6473188924683893,0.3580546152082456
+2129450818,Approximating predicates and expressive queries on probabilistic databases,2008,20,44,1,1.0,2131931065,Christoph Koch,0,1.2475874330982157,0.3137288927061078
+2138811609,Attribute grammars for scalable query processing on XML streams,2007,36,32,2,1.0,2012909379,Stefanie Scherzinger,0,0.6202103722783803,-0.22921785961119984
+2127186572,MayBMS Managing Incomplete Information with Probabilistic World-Set Decompositions,2007,3,90,3,1.0,295814537,Lyublena Antova,0,2.0096166826360067,0.42881131048643756
+2115799249,Entangled queries enabling declarative data-driven coordination,2011,14,12,3,0.0,2083845045,Johannes Gehrke,0,0.23119864453250566,-0.13166083253225247
+2139541761,DBToaster Agile Views for a Dynamic Data Management System,2011,47,17,1,1.0,2131931065,Christoph Koch,0,-0.1356533791087176,-0.548314551022173
+2133453411,Combined Static and Dynamic Analysis for Effective Buffer Minimization in Streaming XQuery Evaluation,2007,34,24,2,1.0,2012909379,Stefanie Scherzinger,0,1.2410730444938243,-0.1865402110231989
+2143485006,Fast and Simple Relational Processing of Uncertain Data,2008,16,226,3,1.0,295814537,Lyublena Antova,0,2.4571191029108994,-0.020569872521287363
+2107741633,Schema-based scheduling of event processors and buffer minimization for queries on structured data streams,2004,17,101,4,0.0,151928960,Bernhard Stegmaier,0,0.9690022956466666,-0.07182542648892382
+2134826526,Efficient algorithms for processing XPath queries,2005,31,210,3,0.0,1873538321,Georg Gottlob,0,2.00320924028026,-0.6192852400487167
+2108290652,DBToaster a SQL compiler for high-performance delta processing in main-memory databases,2009,2,36,1,1.0,2131931065,Christoph Koch,0,-0.1316031990111855,0.2375187417398492
+2171383529,Cooperative update exchange in the Youtopia system,2009,26,24,1,1.0,2131931065,Christoph Koch,0,1.5888282960226607,1.3301040829092654
+2162414492,Beyond isolation research opportunities in declarative data-driven coordination,2010,13,11,3,0.0,2083845045,Johannes Gehrke,0,-0.0041099411153885,0.0447066884760059
+2156694989,Efficient algorithms for descendant-only tree pattern queries,2009,20,15,3,0.0,1941908016,Wim Martens,0,-0.0041099411153885,0.0447066884760059
+2171793735,Rule-based multi-query optimization,2009,23,35,3,0.0,2083845045,Johannes Gehrke,0,0.39861275304724364,0.22420974265934454
+2148154295,XPath query evaluation improving time and space efficiency,2003,16,62,3,0.0,1873538321,Georg Gottlob,0,1.9526490107882548,-0.7193934200503227
+2151322578,10106Worlds and Beyond Efficient Representation and Processing of Incomplete Information,2007,35,135,3,1.0,295814537,Lyublena Antova,0,2.13269015379885,0.3765304172961943
+2169600045,Conditioning probabilistic databases,2008,25,126,2,0.64357,2081189480,Dan Olteanu,0,1.7923887659492235,0.2170955304096198
+2154709738,SPROUT Lazy vs Eager Query Plans for Tuple-Independent Probabilistic Databases,2009,17,88,2,0.5363,2081189480,Dan Olteanu,0,0.6972108496507874,0.2659966956852208
+2164688391,From complete to incomplete information and back,2007,24,86,3,1.0,295814537,Lyublena Antova,0,2.3380580225203107,0.008653501394510876
+2170994721,Massively multi-query join processing in publish/subscribe systems,2007,27,41,4,0.0,2083845045,Johannes Gehrke,0,1.4307416937859234,-0.9742599847322215
+2156000708,Building efficient query engines in a high-level language,2014,30,61,3,0.0,183407993,Tiark Rompf,0,0.0908845357243609,0.31128747720343375
+2171125533,XPath processing in a nutshell,2003,8,35,3,0.0,1873538321,Georg Gottlob,0,2.7751117984736164,-1.0863708435926662
+2165128972,Path queries on compressed XML,2003,21,182,2,0.0,2020138198,Peter Buneman,0,2.5198917302132386,-0.9402814900972305
+2261781002,Solving the Join Ordering Problem via Mixed Integer Linear Programming,2017,35,7,2,1.0,2033535725,Immanuel Trummer,0,0.014532710543751099,0.030944858938630852
+2244726437,Compilation and synthesis in big data analytics,2013,0,5,1,1.0,2131931065,Christoph Koch,0,0.12543560082313407,0.6183418449810417
+2259817977,Parallelizing query optimization on shared-nothing architectures,2016,26,3,2,1.0,2033535725,Immanuel Trummer,0,0.23504918785370843,-0.14229186196760724
+2225306306,Probably Approximately Optimal Query Optimization,2015,32,1,2,1.0,2033535725,Immanuel Trummer,0,0.014532710543751099,0.030944858938630852
+2289305131,A Fast Randomized Algorithm for Multi-Objective Query Optimization,2016,23,4,2,1.0,2033535725,Immanuel Trummer,0,0.014532710543751099,0.030944858938630852
+2290562659,Repairing Conflicts among MVCC Transactions,2016,19,4,2,1.0,306879863,Amir Shaikhha,0,1.0768481586889043,1.161735891449531
+2295831329,Abstraction without regret in data management systems,2013,14,7,1,1.0,2131931065,Christoph Koch,0,0.19429705975095324,0.04252764240268393
+2345156056,How to Win a Hot Dog Eating Contest Distributed Incremental View Maintenance with Batch Updates,2016,35,20,2,1.0,2033524472,Milos Nikolic,0,0.2277260838840646,0.19116386179734024
+2340838390,How to Architect a Query Compiler,2016,86,30,2,1.0,306879863,Amir Shaikhha,0,0.0908845357243609,0.31128747720343375
+2395168213,Errata for building efficient query engines in a high-level language PVLDB 7(10) 853-864,2014,0,12,3,0.0,183407993,Tiark Rompf,0,-0.0041099411153885,0.0447066884760059
+2483136972,Introduction to Database Systems,2008,0,17,1,1.0,2131931065,Christoph Koch,0,-0.0041099411153885,0.0447066884760059
+2460820763,Multi-Objective Parametric Query Optimization,2016,36,4,2,1.0,2033535725,Immanuel Trummer,0,0.014532710543751099,0.030944858938630852
+2540970000,Push vs Pull-Based Loop Fusion in Query Engines,2016,41,0,2,1.0,306879863,Amir Shaikhha,0,-0.15920861304977532,0.009184461394527233
+2612369081,Transaction Repair for Multi-Version Concurrency Control,2017,38,5,2,1.0,306879863,Amir Shaikhha,0,2.4757056109600812,2.708529427555464
+2797202077,Building Efficient Query Engines in a High-Level Language,2018,91,9,2,1.0,306879863,Amir Shaikhha,0,-0.0041099411153885,0.0447066884760059
+2883081781,Compiling Database Application Programs,2018,51,0,2,1.0,306879863,Amir Shaikhha,0,0.22076136758747128,-0.13157920968549905
+2913595709,Session details Research Session 21 Provenance Integration and Extraction,2008,0,0,1,1.0,2131931065,Christoph Koch,0,1.5193922742730563,1.3108871558758848
+2914897804,EditorialInformation systems preface,2008,0,0,2,0.0,2058820594,Gavin Bierman,0,-0.0041099411153885,0.0447066884760059
+2920772196,XML Stream Processing,2018,0,0,1,1.0,2131931065,Christoph Koch,0,0.5586742082380666,-0.1984847101299193
+2952354908,A Compositional Query Algebra for Second-Order Logic and Uncertain Databases,2008,10,3,1,1.0,2131931065,Christoph Koch,0,0.119739122485096,0.4583397011045227
+2952367005,Conditioning Probabilistic Databases,2008,19,0,2,0.64357,2081189480,Dan Olteanu,0,1.582253848769094,0.1276476190304639
+2950646960,Building Efficient Query Engines in a High-Level Language,2016,19,0,2,1.0,306879863,Amir Shaikhha,0,-0.0041099411153885,0.0447066884760059
+2950711192,Schema-based Scheduling of Event Processors and Buffer Minimization for Queries on Structured Data Streams,2004,11,0,4,0.0,151928960,Bernhard Stegmaier,0,1.2553699259532105,-0.4249260600470013
+2952774135,A Formal Comparison of Visual Web Wrapper Generators,2003,11,1,2,0.0,1873538321,Georg Gottlob,0,-0.0041099411153885,0.0447066884760059
+3021222708,Chapter 10 â€“ Efficient Algorithms for Processing XPath Queries*,2002,13,85,3,0.0,1873538321,Georg Gottlob,0,2.209476438673659,-0.7274229742498912

@@ -1,0 +1,93 @@
+25670718,A New Approach to Program Slicing,1994,0,6,2,0.0,242966305,Sebastian Danicic,0,-0.1164726804531344,0.019252515865476
+43378443,A lazy semantics for program slicing,2004,0,9,4,1.0,185653671,Lahcen Ouarbya,0,-0.1164726804531344,0.019252515865476
+44479470,Editorial selected papers from the fourth source code analysis and manipulation (SCAM 2004) workshop,2006,0,0,2,0.0,2106303341,Michael Van De Vanter,0,0.004399864804635396,-0.1607530777851888
+10901633,Search based transformations,2003,4,15,2,1.0,689791922,Robert M. Hierons,0,1.5878997795966507,-0.19317343385153937
+64256610,ConSUS A lightweight program conditioner,2005,44,7,8,1.0,185653671,Lahcen Ouarbya,0,0.2544300565001974,-0.5828196845968436
+100379578,Using Genetic Improvement and Code Transplants to Specialise a C++ Program to a Problem Class,2014,32,87,4,0.161077,1977991679,Westley Weimer,0,1.6433012794260715,-0.0820236828672823
+925414336,A Piece of Cake Slicing as a debugging technique,1996,0,0,1,1.0,2150723893,Mark Harman,0,-0.1164726804531344,0.019252515865476
+788212596,Improving Source Code with Genetic Programming,2014,1,0,2,0.0,2124125742,William B. Langdon,0,0.7004938041940766,-0.39111995457373505
+1532146671,Using formal methods to support testing,2008,239,38,10,0.747375,673495245,Sergiy Vilkomir,0,0.966769938620141,-0.4419735844748159
+1516713969,Formalizing executable dynamic and forward slicing,2004,29,27,5,1.0,185653671,Lahcen Ouarbya,0,-0.0476170056963925,0.09857521296504379
+1482085204,Book Review Automatic Re-Engineering of Software Using Genetic Programming,2002,2,2,1,1.0,2150723893,Mark Harman,0,1.9125858553691735,-0.3595832932409951
+1574366287,Weakest Precondition for General Recursive Programs Formalized in Coq,2002,16,9,2,0.419122,1991399815,Malcolm Munro,0,-0.30084912257079344,-0.2892029929614159
+1495752199,Formal Methods and Testing An Outcome of the FORTEST Network Revised Selected Papers,2008,0,8,2,0.75255,689791922,Robert M. Hierons,0,1.4079457395080595,-0.004648699812917855
+1930978624,An interprocedural amorphous slicer for WSL,2002,14,4,5,1.0,185653671,Lahcen Ouarbya,0,-0.305563448461601,-1.0093250977018275
+1577813418,Program comprehension assisted by slicing and transformation,1995,0,16,2,0.0,242966305,Sebastian Danicic,0,2.048982862961063,-1.2037890553441473
+1597745456,Unifying program slicing and concept assignment for higher-level executable source code extraction Research Articles,2005,0,9,4,1.0,689791922,Robert M. Hierons,0,-0.2428094997813334,-0.024609692009812
+1640714309,FloPSy search-based floating point constraint solving for symbolic execution,2010,20,68,4,1.0,1703979247,Kiran Lakhotia,0,0.44663040723859326,-0.09938335530234979
+1760557760,Program Slicing using Functional Networks(Concurrency Theory and Applications 96),1997,0,1,2,0.125,242966305,Sebastian Danicic,0,-0.747667800047303,-0.0738600648197341
+1582469623,Using Genetic Programming to Model Software,2013,25,0,2,0.0,2124125742,William B. Langdon,0,0.4896308132892164,-0.1340300604735376
+1964060567,An overview of program slicing,2001,32,137,2,1.0,689791922,Robert M. Hierons,0,3.307423596036148,-0.8884758487220145
+1621512913,Control Dependence for Extended Finite State Machines,2009,27,49,3,0.0668693,1974919365,Laurence Tratt,0,-0.1164726804531344,0.019252515865476
+1594437224,Code extraction algorithms which unify slicing and concept assignment,2002,24,52,4,1.0,689791922,Robert M. Hierons,0,-0.2219276959112397,0.012785910988778423
+1982703446,A formal relationship between program slicing and partial evaluation,2006,65,10,5,1.0,185653671,Lahcen Ouarbya,0,-0.36172481295373426,-0.06847369484742884
+1985335248,Handling dynamic data structures in search based testing,2008,20,59,3,1.0,1703979247,Kiran Lakhotia,0,1.1503059163087241,-0.24339429004218388
+2005211990,An empirical study of the relationship between the concepts expressed in source code and dependence,2008,29,11,3,0.0,1918094245,David Binkley,0,2.2870716950999586,-0.7784636239375482
+2001936191,Evolving a CUDA kernel from an nVidia template,2010,18,65,2,0.49825,2124125742,William B. Langdon,0,0.6408887864292897,0.11718483528504836
+1991680915,Static Program Slicing Algorithms are Minimal for Free Liberal Program Schemas,2005,67,16,6,0.615385,242966305,Sebastian Danicic,0,1.0789214344803464,-0.6425552644021902
+2002756500,Projecting functional models of imperative programs,1993,19,3,2,0.0,242966305,Sebastian Danicic,0,0.20740710560166575,-0.5966543300866104
+1999384668,A new Algorithm for slicing unstructured programs,1998,0,36,2,0.166667,242966305,Sebastian Danicic,0,1.674629803167068,-0.5980291475252694
+1994195424,Slicing programs in the presence of errors,1996,16,16,2,0.0,242966305,Sebastian Danicic,0,-0.2578992168252388,-0.07760060478227676
+2013912904,Why Source Code Analysis and Manipulation Will Always be Important,2010,83,40,1,1.0,2150723893,Mark Harman,0,0.7728968244994181,-0.3262335042029778
+2043501467,Genetic programming for Reverse Engineering,2013,94,34,3,0.161077,1977991679,Westley Weimer,0,2.384338186128569,-0.5059351884395996
+2038214281,Theory and algorithms for slicing unstructured programs,2006,28,13,3,0.0,1918094245,David Binkley,0,0.1980691626171631,-0.3264663496259433
+2051070349,Guest Editorial Special Issue on Software Maintenance and Evolution,2005,0,2,2,1.0,18609543,Bogdan Korel,0,1.7490866661748499,-0.7302905317059182
+2047854842,A non-standard semantics for program slicing and dependence analysis,2007,44,9,4,1.0,185653671,Lahcen Ouarbya,0,0.06716661020164039,0.252763244358249
+2036088890,Syntax-Directed Amorphous Slicing,2004,74,19,5,1.0,185653671,Lahcen Ouarbya,0,-0.0476170056963925,0.09857521296504379
+2056038097,Using program slicing to simplify testing,1995,33,102,2,0.0,242966305,Sebastian Danicic,0,-0.04180142817410419,0.556019639504229
+2056368582,A parallel algorithm for static program slicing,1995,25,37,3,0.0,242966305,Sebastian Danicic,0,-0.36919511207484934,-0.22043952479554887
+2069501081,Empirical study of optimization techniques for massive slicing,2007,58,36,3,0.357143,1334672199,Jens Krinke,0,0.03309693028815727,-0.3168438143731205
+2096525117,Node coarsening calculi for program slicing,2001,25,9,6,0.214286,242966305,Sebastian Danicic,0,-0.1806164563517082,-0.18033171048170904
+2138008044,A denotational interprocedural program slicer,2002,36,15,5,1.0,185653671,Lahcen Ouarbya,0,0.5433105128167637,-1.574143374483806
+2141345367,ConSUS a light-weight program conditioner,2005,63,15,6,0.615385,242966305,Sebastian Danicic,0,0.3725217687910593,-0.401112405640685
+2123718358,Issues in clone classification for dataflow languages,2010,6,15,4,0.36622,1334672199,Jens Krinke,0,0.03374911051537486,-0.047796810351663395
+2115223441,Loop squashing transformations for amorphous slicing,2004,35,14,3,1.0,689791922,Robert M. Hierons,0,-0.16576713779106836,-0.05530808477251585
+2138854958,Analysis of dynamic memory access using amorphous slicing,1998,17,16,2,0.166667,242966305,Sebastian Danicic,0,-2.2447662654564193,-0.4750861345324045
+2135942296,ConSUS a scalable approach to conditioned slicing,2002,25,15,6,1.0,185653671,Lahcen Ouarbya,0,-0.24614037557697266,-0.5501792607337043
+2112459374,An Empirical Study of Executable Concept Slice Size,2006,32,7,3,0.0,1918094245,David Binkley,0,-0.0476170056963925,0.09857521296504379
+2139111262,Experimental assessment of software metrics using automated refactoring,2012,44,78,5,0.0668693,1974919365,Laurence Tratt,0,2.1824184019930155,-0.6590715209603911
+2124296778,Guaranteed inconsistency avoidance during software evolution,2003,13,6,1,1.0,2150723893,Mark Harman,0,2.0740566664898017,-0.22163810880237964
+2106632739,Unifying program slicing and concept assignment for higherâ€level executable source code extraction,2005,47,19,4,1.0,689791922,Robert M. Hierons,0,0.36269714686446325,-0.14791040500532524
+2124621264,Using formal specifications to support testing,2009,263,270,12,0.747375,673495245,Sergiy Vilkomir,0,1.3489813505033654,-0.28021501440233
+2118819356,Evolving transformation sequences using genetic algorithms,2004,17,54,3,0.0,321463800,D. Fatiregun,0,0.5912734624125089,-0.5434231388469102
+2131245056,Testability transformation program transformation to improve testability,2008,51,20,7,1.0,18609543,Bogdan Korel,0,1.0370832954988995,0.34389627723940286
+2119657406,Side-effect removal transformation,2001,30,20,2,0.419122,1991399815,Malcolm Munro,0,0.7937028963059475,-0.6043927554625486
+2122749276,Pre/post conditioned slicing,2001,48,72,4,0.214286,242966305,Sebastian Danicic,0,1.8983921857453832,-0.8205595485197137
+2122839514,CONSIT a fully automated conditioned program slicer,2004,46,31,4,0.65,242966305,Sebastian Danicic,0,0.4094117131333156,-0.1585336746385243
+2137636669,Automated Test Data Generation for Coverage Havent We Solved This Problem Yet ,2009,36,64,3,1.0,1703979247,Kiran Lakhotia,0,0.7966891637079552,-0.4845986870580822
+2134628188,Pidgin Crasher Searching for Minimised Crashing GUI Event Sequences,2014,13,5,3,0.326322,1334672199,Jens Krinke,0,1.1335840940483926,1.0713291336842976
+2114220716,Stop-List Slicing,2006,18,7,2,0.0,1918094245,David Binkley,0,-0.2148559431111001,0.013851739049458541
+2140963262,An empirical study of amorphous slicing as a program comprehension support tool,2000,13,34,2,0.346475,1918094245,David Binkley,0,1.1420498320536154,-0.7315180902542192
+2150270953,Results from a large-scale study of performance optimization techniques for source code analyses based on graph reachability algorithms,2003,17,17,2,0.346475,1918094245,David Binkley,0,-0.1164726804531344,0.019252515865476
+2160444150,Tool-Supported Refactoring of Existing Object-Oriented Code into Aspects,2006,37,69,4,0.120808,174962400,Paolo Tonella,0,1.3405103599968178,-0.22680615989326214
+2160578811,A formalisation of the relationship between forms of program slicing,2006,67,35,4,1.0,18609543,Bogdan Korel,0,-0.015449778150564733,0.09434422654511121
+2157657810,Cloning in Max/MSP Patches,2011,6,3,4,0.36622,1334672199,Jens Krinke,0,0.2675862394980995,-0.2146130858844751
+2170006119,Building executable union slices using conditioned slicing,2004,50,18,3,0.65,242966305,Sebastian Danicic,0,1.5356811980878764,-0.5455859965029073
+2160980126,MILU A Customizable Runtime-Optimized Higher Order Mutation Testing Tool for the Full C Language,2008,14,113,1,1.0,2150723893,Mark Harman,0,2.116447819434168,-0.7516107640173151
+2167153801,ORBS language-independent program slicing,2014,41,42,5,0.326322,1334672199,Jens Krinke,0,0.9140233040246988,0.1185608175640645
+2155226305,Automated test data generation for aspect-oriented programs,2009,40,49,2,0.0,1920070090,Tao Xie,0,2.060348869709764,-0.2942534101029916
+2155281159,AUSTIN An open source tool for search based software testing of C programs,2013,32,36,2,1.0,1703979247,Kiran Lakhotia,0,1.0806724972227328,-0.015751165269432064
+2167339536,Amorphous procedure extraction,2004,32,17,3,1.0,689791922,Robert M. Hierons,0,0.08533643337242663,0.23914781002410465
+2149506108,Mechanized operational semantics of WSL,2002,16,7,2,0.419122,1991399815,Malcolm Munro,0,0.5645840158459504,-0.12767799267889904
+2167531444,The next 700 slicing criteria,1996,23,14,2,0.0,242966305,Sebastian Danicic,0,2.048982862961063,-1.2037890553441473
+2167644926,Minimal slicing and the relationships between forms of slicing,2005,28,8,5,1.0,18609543,Bogdan Korel,0,0.004399864804635396,-0.1607530777851888
+2155798067,Refactoring as Testability Transformation,2011,80,16,1,1.0,2150723893,Mark Harman,0,1.2638128941285205,-0.42668257359520567
+2152997261,Efficient Identification of Linchpin Vertices in Dependence Clusters,2013,38,2,4,0.326322,1334672199,Jens Krinke,0,0.4465271540009095,-0.2900990000871273
+2147082313,A trajectory-based strict semantics for program slicing,2010,53,18,6,1.0,185653671,Lahcen Ouarbya,0,0.5523487032786856,-0.8948977671915876
+2147140044,Amorphous program slicing,1997,29,129,2,0.125,242966305,Sebastian Danicic,0,2.048982862961063,-1.2037890553441473
+2150195659,Automated refactoring of object oriented code into aspects,2005,27,64,4,0.120808,174962400,Paolo Tonella,0,0.9834756126186119,-0.32056796832261214
+2236146589,Programming Languages for Statistical Computation,1990,5,1,2,0.0,242966305,Sebastian Danicic,0,2.1522185871117316,-0.3531522694781416
+2295608272,Search Based Software Engineering for Program Comprehension (keynote),2007,0,2,1,1.0,2150723893,Mark Harman,0,2.9521538884837377,-1.0727559564880682
+2309018876,Slicing algorithms are minimal for programs which can be expressed as linear free liberal schemas,2005,0,4,6,0.615385,242966305,Sebastian Danicic,0,1.0789214344803464,-0.6425552644021902
+2386604011,Variable Dependence Analysis Technical Report TR-10-05,2010,27,3,2,0.301541,2139479760,Chris Fox,0,-0.3935629094587162,-0.1058538378444879
+2483967812,1 st Workshop on Analysis Slicing and Transformation (AST 2001),2001,0,0,2,0.419122,1991399815,Malcolm Munro,0,-0.1164726804531344,0.019252515865476
+2491537874,4 th International Workshop on Source Code Analysis and Manipulation (SCAM 04),2004,0,2,4,1.0,185653671,Lahcen Ouarbya,0,0.004399864804635396,-0.1607530777851888
+2527761571,Multi objective higher order mutation testing with GP,2009,0,0,2,0.49825,2124125742,William B. Langdon,0,0.7806086018303731,-0.11360367811446782
+2625981483,3 rd International Workshop on Automated Debugging ( AADEBUG97 ),1997,0,1,3,0.125,242966305,Sebastian Danicic,0,-0.1164726804531344,0.019252515865476
+2600669551,Detecting Trivial Mutant Equivalences via Compiler Optimisations,2018,72,24,4,0.0,494248588,Yves Le Traon,0,-0.12928434628789776,-0.1882630030817895
+2724793896,Specialising Software for Different Downstream Applications Using Genetic Improvement and Code Transplantation,2018,86,13,4,0.0,1977991679,Westley Weimer,0,0.4896308132892164,-0.1340300604735376
+2736998327,Evolutionary Testing Supported by Slicing and Transformation,2002,0,0,7,0.375,242966305,Sebastian Danicic,0,1.1872784961815497,-1.1077993763999456
+2741405962,Slicing; I/O and the Implicit State,1997,19,14,2,0.125,242966305,Sebastian Danicic,0,-0.1164726804531344,0.019252515865476
+2809567733,LaTeX Typesetting as a Programming Language,1997,0,0,1,1.0,2150723893,Mark Harman,0,-0.1164726804531344,0.019252515865476
+2901387825,From Start-ups to Scale-ups Opportunities and Open Problems for Static and Dynamic Program Analysis,2018,122,28,2,0.0,188470835,Peter W. OHearn,0,0.5270870813054725,-0.25750679803241583
+2963229645,Using Genetic Programming to Model Software,2013,0,0,2,0.0,2124125742,William B. Langdon,0,0.4896308132892164,-0.1340300604735376

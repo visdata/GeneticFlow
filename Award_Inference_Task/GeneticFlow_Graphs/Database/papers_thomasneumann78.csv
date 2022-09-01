@@ -1,0 +1,109 @@
+55656182,Benchmarking Hybrid OLTP&amp;OLAP Database Systems,2011,12,16,3,1.0,2148016965,Florian Funke,0,0.7721308498568376,1.6215012352306841
+42901544,Massively Parallel NUMA-Aware Hash Joins,2013,10,30,5,1.0,2008908578,Martina Cezara Albutiu,0,-0.0041099411153885,0.0447066884760059
+30166824,One Size Fits all Again The Architecture of the Hybrid OLTP&amp;OLAP Database Management System HyPer,2010,24,5,2,0.0,2244150349,Alfons Kemper,0,1.0165211542199768,1.8114616901833769
+1549939222,Supporting hierarchical data in SAP HANA,2015,16,9,6,1.0,2086697679,Jan Finis,0,1.3252842713273625,0.27492691540066827
+1016442203,Engineering high-performance database engines,2014,45,8,1,1.0,2344506219,Thomas Neumann,0,0.6400797546108578,0.10387557336964899
+1498203057,Consistency and Transactions in CAD Database,1982,3,27,1,1.0,2344506219,Thomas Neumann,0,1.7783576749117065,1.0861650417955457
+1535337707,High-Speed Query Processing over High-Speed Networks,2015,0,7,2,0.0,2244150349,Alfons Kemper,0,-0.0041099411153885,0.0447066884760059
+1252359282,Benchmarking Elastic Query Processing on Big Data,2014,20,0,4,1.0,952277276,Dimitri Vorona,0,-0.11679365245362794,0.3607511225296025
+1513057195,FluxCapacitor efficient time-travel text search,2007,8,17,4,0.0,514836396,Gerhard Weikum,0,-0.0041099411153885,0.0447066884760059
+1852662819,Get tracked a triple store for RFID traceability data,2012,14,1,5,1.0,2008908578,Martina Cezara Albutiu,0,-0.5085851718368608,-0.09033272866209315
+1893138758,An Evaluation of Strict Timestamp Ordering Concurrency Control for Main-Memory Database Systems,2013,16,11,3,1.0,2045540327,Henrik MÃ¼he,0,2.376031815465849,3.2190297341409675
+1970088553,The Database Group at TUM,2014,23,0,2,0.0,2244150349,Alfons Kemper,0,-0.0041099411153885,0.0447066884760059
+1966855344,RDF-Stores und RDF-Query-Engines,2011,5,2,2,0.0,514836396,Gerhard Weikum,0,-0.39040501381267817,0.0678282925157182
+1972305796,One DBMS for all the brawny few and the wimpy crowd,2014,13,10,6,0.0,276188471,Robert Seilbeck,0,0.6025555511233955,1.2112249401917503
+1986936699,HyPer Beyond Software Exploiting Modern Hardware for Main-Memory Database Systems,2014,25,0,5,1.0,1897030782,Tobias MÃ¼hlbauer,0,0.8665533357699754,1.2752249278494878
+1974637590,Elasticity in Cloud Databases and Their Query Processing,2013,34,5,7,0.0,3256131,Elaheh Pourabbas,0,1.6124614744306687,0.35718055964755413
+2003515726,Massively parallel sort-merge joins in main memory multi-core database systems,2012,23,138,3,1.0,2008908578,Martina Cezara Albutiu,0,-0.0041099411153885,0.0447066884760059
+1993314346,HyPer Die effiziente Reinkarnation des Schattenspeichers in einem Hauptspeicher-DBMS,2011,19,0,4,1.0,2045540327,Henrik MÃ¼he,0,-0.0041099411153885,0.0447066884760059
+1991665234,DeltaNI an efficient labeling scheme for versioned hierarchical data,2013,34,12,6,1.0,2086697679,Jan Finis,0,0.25874299379681337,-0.16953732061601004
+2000656232,The RDF-3X engine for scalable management of RDF data,2010,55,442,2,0.0,514836396,Gerhard Weikum,0,0.06681904000195601,0.21085104174754604
+1993786250,Scalable join processing on very large RDF graphs,2009,31,197,2,0.0,514836396,Gerhard Weikum,0,-0.39040501381267817,0.0678282925157182
+2002597960,On-the-fly token similarity joins in relational databases,2014,28,7,4,0.0,113607873,Nikolaus Augsten,0,0.8594013767315507,0.15287591832399972
+2027748129,Instant loading for main memory databases,2013,25,50,6,0.0,276188471,Robert Seilbeck,0,0.06635930819191084,0.49152641060504293
+2030062409,The adaptive radix tree ARTful indexing for main-memory databases,2013,27,159,3,1.0,2069156272,Viktor Leis,0,-0.7150410934281475,-0.3717153594698918
+2016040614,Vorstellung des Lehrstuhls fÃ¼r Datenbanksysteme der TUM,2013,33,0,2,0.0,2244150349,Alfons Kemper,0,-0.0041099411153885,0.0447066884760059
+2020129682,Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems,2015,44,93,3,1.0,1897030782,Tobias MÃ¼hlbauer,0,2.970782919272922,3.2764763194024997
+2054318962,Algebraic query optimization for distributed top-k queries,2007,58,4,2,0.0,2130571926,Sebastian Michel,0,0.0908845357243609,0.31128747720343375
+2054853591,High-Performance Main-Memory Database Systems and Modern Virtualization Friends or Foes ,2015,11,3,5,1.0,1897030782,Tobias MÃ¼hlbauer,0,-0.0041099411153885,0.0447066884760059
+2035675039,Query simplification graceful degradation for join-order optimization,2009,22,22,1,1.0,2344506219,Thomas Neumann,0,0.014532710543751099,0.030944858938630852
+2050195061,Exploiting hardware transactional memory in main-memory databases,2014,39,80,3,1.0,2069156272,Viktor Leis,0,1.1271282857640705,1.5521010583087655
+2068245803,The mixed workload CH-benCHmark,2011,4,66,12,0.0,70944793,Stefan Krompass,0,0.5293767606689525,1.104907575336079
+2068394765,The mainframe strikes back elastic multi-tenancy using main memory database systems on a many-core server,2012,6,3,3,1.0,2045540327,Henrik MÃ¼he,0,0.2556245394994505,0.7184223761887485
+2102533762,Bericht vom Herbsttreffen der GI-Fachgruppe Datenbanksysteme,2013,0,0,5,1.0,1897030782,Tobias MÃ¼hlbauer,0,-0.0041099411153885,0.0447066884760059
+2089247435,RDF-3X a RISC-style engine for RDF,2008,41,424,2,0.0,514836396,Gerhard Weikum,0,-0.12601161983422127,0.25620308204143294
+2102729946,HyPer A hybrid OLTP&amp;OLAP main memory database system based on virtual memory snapshots,2011,34,390,2,0.0,2244150349,Alfons Kemper,0,0.9678421310920176,1.443396331593405
+2080687567,Scaling HTM-Supported Database Transactions to Many Cores,2016,42,9,3,1.0,2069156272,Viktor Leis,0,1.998745999812886,2.5928948662957843
+2091380526,ScyPer elastic OLAP throughput on transactional data,2013,8,24,5,1.0,1897030782,Tobias MÃ¼hlbauer,0,0.9720335059894998,1.6956773117747055
+2100387739,Characteristic sets Accurate cardinality estimation for RDF queries with multiple joins,2011,8,116,2,0.0,172573358,Guido Moerkotte,0,-0.24921155514082186,0.05094653814423073
+2097608897,The Linked Data Benchmark Council Project,2013,29,11,5,1.0,1395633217,Andrey Gubichev,0,-0.39040501381267817,0.0678282925157182
+2098117079,On the optimal ordering of maps selections and joins under factorization,2006,19,2,3,0.0,172573358,Guido Moerkotte,0,-0.2554006006761083,0.005185177391162952
+2101161250,Locality-sensitive operators for parallel main-memory database clusters,2014,36,41,6,1.0,1897030782,Tobias MÃ¼hlbauer,0,0.22584644022976422,0.1048854271492526
+2104242181,TPC-H Analyzed Hidden Messages and Lessons Learned from an Influential Benchmark,2013,19,53,3,0.632283,1986356410,Orri Erling,0,0.221423897897152,-0.21080654779612165
+2099035968,Morsel-driven parallelism a NUMA-aware query evaluation framework for the many-core age,2014,33,102,4,1.0,2069156272,Viktor Leis,0,-0.0041099411153885,0.0447066884760059
+2115229350,CPU and cache efficient management of memory-resident databases,2013,32,23,7,0.0,612013498,Ulf Leser,0,1.0720974619177126,0.6874845603077233
+2129908242,The linked data benchmark council a graph and RDF industry benchmarking effort,2014,6,52,9,0.0,139406386,Norbert MartÃ­nez Bazan,0,-0.13489138146538232,0.029751773140659632
+2106771621,Efficiently compiling efficient query plans for modern hardware,2011,15,242,1,1.0,2344506219,Thomas Neumann,0,0.28789009827090595,0.22726245872767784
+2136632987,Analysis of two existing and one new dynamic programming algorithm for the generation of optimal bushy join trees without cross products,2006,10,69,2,0.0,172573358,Guido Moerkotte,0,-0.0041099411153885,0.0447066884760059
+2113569768,Search for the Best but Expect the Worst - Distributed Top-k Queries over Decreasing Aggregated Scores,2007,29,2,2,0.0,2130571926,Sebastian Michel,0,-0.0041099411153885,0.0447066884760059
+2110898590,Making SENSE socially enhanced search and exploration,2008,14,7,6,0.0,514836396,Gerhard Weikum,0,-0.0041099411153885,0.0447066884760059
+2134491188,Faster Join Enumeration for Complex Queries,2008,5,0,2,0.0,172573358,Guido Moerkotte,0,1.5599573828951723,-0.3539328500635996
+2153180521,Dynamic programming strikes back,2008,20,60,2,0.0,172573358,Guido Moerkotte,0,-1.0154990299342648,0.8613152244138992
+2147344977,x-RDF-3X fast querying high update rates and consistency for RDF databases,2010,27,106,2,0.0,514836396,Gerhard Weikum,0,1.4121271644721343,1.6938033556050327
+2168931213,ANGIE active knowledge for interactive exploration,2009,24,12,6,0.833333,42507994,Gjergji Kasneci,0,-0.4952370533090319,-0.40710710999814825
+2145015575,Optimizing ranked retrieval,2007,11,1,1,1.0,2344506219,Thomas Neumann,0,0.554502142050173,0.7198971727216001
+2160214263,On the optimal ordering of maps and selections under factorization,2005,15,9,3,0.0,172573358,Guido Moerkotte,0,0.7215975991611812,0.3052417628859806
+2145335345,An efficient framework for order optimization,2004,6,21,2,0.0,172573358,Guido Moerkotte,0,0.3185656609967908,-0.469078014070321
+2163763098,Active knowledge dynamically enriching RDF knowledge bases by web services,2010,40,39,5,0.833333,42507994,Gjergji Kasneci,0,-1.2665466171790307,-1.736236672102254
+2158050820,A combined framework for grouping and order optimization,2004,6,32,2,0.0,172573358,Guido Moerkotte,0,0.3198313303695001,-0.2023241113554023
+2167258506,Indexing set-valued attributes with a multi-level extendible hashing scheme,2007,25,5,4,0.0,172573358,Guido Moerkotte,0,-0.0041099411153885,0.0447066884760059
+2161371090,Exploiting social relations for query expansion and result ranking,2008,16,75,7,0.0,514836396,Gerhard Weikum,0,-0.0041099411153885,0.0447066884760059
+2188262136,HyPer-sonic Combined Transaction AND Query Processing,2011,6,9,3,1.0,2148016965,Florian Funke,0,1.5597015251534412,1.8587095419220914
+2164502281,Compacting transactional data in hybrid OLTP&amp;OLAP databases,2012,27,45,3,1.0,2148016965,Florian Funke,0,0.65292061665451,1.1357137518630023
+2248620604,Scaling Up Mixed Workloads A Battle of Data Freshness Flexibility and Scheduling,2014,21,11,7,0.0,1525240370,Alexander BÃ¶hm,0,0.604891099629177,1.1969115802800006
+2245240469,Indexing highly dynamic hierarchical data,2015,23,8,6,1.0,2086697679,Jan Finis,0,0.706699520857061,-0.03519773218107125
+2260671045,Efficient processing of window functions in analytical SQL queries,2015,19,19,4,1.0,2069156272,Viktor Leis,0,-0.21089076172263962,0.7559440458304127
+2290736096,Executing Long-Running Transactions in Synchronization-Free Main Memory Database Systems,2013,28,15,3,1.0,2045540327,Henrik MÃ¼he,0,1.9905703664547048,2.062827570657709
+2296279039,Path Query Processing on Very Large RDF Graphs,2011,17,18,2,1.0,1395633217,Andrey Gubichev,0,0.5051313626837141,-0.1918583845912402
+2396012111,Exploiting the query structure for efficient join ordering in SPARQL queries,2014,15,32,2,1.0,1395633217,Andrey Gubichev,0,0.0908845357243609,0.31128747720343375
+2396056729,The mainframe strikes back multi tenancy in the Main memory database hyper on a TB-server,2011,2,0,3,1.0,2045540327,Henrik MÃ¼he,0,-0.0041099411153885,0.0447066884760059
+2399004477,HyPer Adapting Columnar Main-Memory Data Management for Transactional AND Query Processing,2012,24,12,5,1.0,2045540327,Henrik MÃ¼he,0,0.8024997311713381,1.2131588426081654
+2396309311,How good are query optimizers really ,2015,41,105,5,1.0,1395633217,Andrey Gubichev,0,0.014532710543751099,0.030944858938630852
+2394534308,The more the merrier efficient multi-source graph traversal,2014,29,32,6,0.0,2034529969,Fernando Chirigati,0,-0.0041099411153885,0.0447066884760059
+2397360326,Processing in the Hybrid OLTP &amp; OLAP Main-Memory Database System HyPer,2013,9,22,8,1.0,1897030782,Tobias MÃ¼hlbauer,0,0.7721308498568376,1.6215012352306841
+2397913761,ScyPer A Hybrid OLTP&amp;OLAP Distributed Main Memory Database System for Scalable Real-Time Analytics,2013,4,10,5,1.0,1897030782,Tobias MÃ¼hlbauer,0,1.0077519456472308,0.9189656834022311
+2406543354,Compiling Database Queries into Machine Code,2014,13,25,2,1.0,2069156272,Viktor Leis,0,-0.0041099411153885,0.0447066884760059
+2439390339,Data Blocks Hybrid OLTP and OLAP on Compressed Storage using both Vectorization and Compilation,2016,39,51,6,1.0,1897030782,Tobias MÃ¼hlbauer,0,0.7919180549877742,1.1399811134962157
+2430414709,High-Performance Geospatial Analytics in HyPerSpace,2016,3,9,5,1.0,952277276,Dimitri Vorona,0,-0.0041099411153885,0.0447066884760059
+2435648513,Flow-Join Adaptive skew handling for distributed joins over high-speed networks,2016,33,27,4,1.0,2084982392,Wolf RÃ¶diger,0,0.253202750105207,0.12815134630264885
+2529360594,The Database Group at TUM www-dbintumde,2014,21,0,2,0.0,2244150349,Alfons Kemper,0,-0.0041099411153885,0.0447066884760059
+2509839597,Order Indexes supporting highly dynamic hierarchical data in relational main-memory database systems,2017,30,1,6,1.0,2086697679,Jan Finis,0,0.706699520857061,-0.03519773218107125
+2507480341,Special Issue Modern Hardware,2016,0,1,3,0.0,2081047619,Peter Boncz,0,-0.0041099411153885,0.0447066884760059
+2613261966,Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs,2017,22,9,4,0.827924,316694267,Stephan GÃ¼nnemann,0,-0.26111576430640643,-0.19302535071852145
+2604523703,SQL- and Operator-centric Data Analytics in Relational Main-Memory Databases,2017,0,12,7,0.827924,316694267,Stephan GÃ¼nnemann,0,0.8872972557081974,0.17935563450451925
+2604894088,Analytics on Fast Data Main-Memory Database Systems versus Modern Streaming Systems,2017,0,9,3,1.0,2224833225,Andreas Kipf,0,-0.0041099411153885,0.0447066884760059
+2753588408,Monopedia staying single is good enough -- the hyper way for web scale applications,2017,6,0,4,1.0,952277276,Dimitri Vorona,0,0.6139161286858918,-0.08874743886053785
+2755385361,Query optimization through the looking glass and what we found running the Join Order Benchmark,2018,51,21,5,1.0,1395633217,Andrey Gubichev,0,0.04096502533685727,0.014095257650737034
+2743244324,Main Memory Database Systems,2017,0,15,6,0.0,209651163,Justin J. Levandoski,0,-0.0041099411153885,0.0447066884760059
+2798607736,Managing Non-Volatile Memory in Database Systems,2018,46,21,6,1.0,2069156272,Viktor Leis,0,0.43739842239757626,0.009947045888208002
+2794770355,LeanStore In-Memory Data Management beyond Main Memory,2018,34,8,3,1.0,2069156272,Viktor Leis,0,0.18601297105691045,-0.0008472885667257998
+2804682780,HyPer HYbrid OLTP&amp;OLAP High PERformance Database System,2010,20,7,2,0.0,2244150349,Alfons Kemper,0,0.6244235678242246,1.1274006330839688
+2784137934,Hybrid OLTP and OLAP database,2010,5,1,2,0.0,2244150349,Alfons Kemper,0,0.5942209081573097,1.1658226037101453
+2889201433,How good are modern spatial analytics systems,2018,19,10,3,1.0,2224833225,Andreas Kipf,0,-0.0041099411153885,0.0447066884760059
+2912423768,Scalable Analytics on Fast Data,2019,32,1,3,1.0,2224833225,Andreas Kipf,0,1.2966101385633069,1.4421728904786717
+2925824628,Persistent Memory I/O Primitives,2019,34,2,3,1.0,2069156272,Viktor Leis,0,-0.0041099411153885,0.0447066884760059
+2925914654,ML2SQL - Compiling a Declarative Machine Learning Language to SQL and Python,2019,0,3,4,0.827924,316694267,Stephan GÃ¼nnemann,0,0.044859856903840555,0.012551371775477651
+2897173745,Everything you always wanted to know about compiled and vectorized queries but were afraid to ask,2018,47,13,5,0.0193292,1916729783,Andrew Pavlo,0,-0.46893397788284524,0.07728939382804885
+2961966181,Make the most out of your SIMD investments counter control flow divergence in compiled query pipelines,2020,24,0,6,0.0,2081047619,Peter Boncz,0,0.24754418817920096,0.24086541465297664
+2948062280,MLearn A Declarative Machine Learning Language for Database Systems,2019,9,1,3,0.827924,316694267,Stephan GÃ¼nnemann,0,0.044859856903840555,0.012551371775477651
+2934209801,The Power of SQL Lambda Functions,2019,0,0,6,0.827924,316694267,Stephan GÃ¼nnemann,0,0.044859856903840555,0.012551371775477651
+2950833092,DeepSPACE Approximate Geospatial Query Processing with Deep Learning,2019,18,0,4,1.0,952277276,Dimitri Vorona,0,-0.0041099411153885,0.0447066884760059
+2963638209,High-speed query processing over high-speed networks,2015,44,31,4,1.0,1897030782,Tobias MÃ¼hlbauer,0,-0.0041099411153885,0.0447066884760059
+2949157128,Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems,2012,16,6,3,1.0,2008908578,Martina Cezara Albutiu,0,-0.0041099411153885,0.0447066884760059
+2951310630,Compacting Transactional Data in Hybrid OLTP &amp; OLAP Databases,2012,23,3,3,1.0,2148016965,Florian Funke,0,0.65292061665451,1.1357137518630023
+2949401976,No False Negatives Accepting All Useful Schedules in a Fast Serializable Many-Core System,2019,39,2,1,1.0,2344506219,Thomas Neumann,0,1.3618488799898685,1.6933070135548454
+2982402713,Scalable Garbage Collection for In-Memory MVCC Systems,2019,0,0,3,1.0,2069156272,Viktor Leis,0,-0.0041099411153885,0.0447066884760059
+2969457403,GeoBlocks A Query-Driven Storage Layout for Geospatial Data,2019,32,0,3,1.0,2224833225,Andreas Kipf,0,-0.3632509700454942,1.1437180412081445
+2966314645,Versioning in Main-Memory Database Systems From MusaeusDB to TardisDB,2019,23,1,2,0.0,2244150349,Alfons Kemper,0,1.0410591279504984,0.634602322732359
+3022609488,Main Memory Database Systems,2017,0,1,2,0.0,2244150349,Alfons Kemper,0,0.42670441968815587,1.1327448090153835
+3007024586,The Seattle Report on Database Research,2020,1,0,27,0.0,1916729783,Andrew Pavlo,0,-0.0041099411153885,0.0447066884760059
