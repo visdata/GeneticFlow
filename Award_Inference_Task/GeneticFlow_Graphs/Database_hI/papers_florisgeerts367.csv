@@ -1,0 +1,43 @@
+109785084,What You Store is What You Get,2003,12,1,1,1.0,1971263028,Floris Geerts,0,-0.0041099411153885,0.0447066884760059
+1550770522,Deciding Termination of Query Evaluation in Transitive-Closure Logics for Constraint Databases,2003,22,4,1,1.0,1971263028,Floris Geerts,0,0.119739122485096,0.4583397011045227
+1559871672,A Theory of Spatio-Temporal Database Queries,2001,25,8,1,1.0,1971263028,Floris Geerts,0,0.3683284219269707,0.11449460394223712
+1525937901,Relational completeness of query languages for annotated databases,2007,17,15,1,1.0,1971263028,Floris Geerts,0,2.438585483754322,-0.02044553898195206
+1536883094,Satisfiability of XPath queries with sibling axes,2005,35,49,1,1.0,1971263028,Floris Geerts,0,1.780871458344133,-0.7234742606729057
+1502171399,Expressing Topological Connectivity of Spatial Databases,1999,23,8,1,1.0,1971263028,Floris Geerts,0,0.7054330821662237,0.4808982113762294
+1590448155,Linear Approximation of Semi-algebraic Spatial Databases Using Transitive Closure Logic in Arbitrary Dimension,2001,21,0,1,1.0,1971263028,Floris Geerts,0,0.119739122485096,0.4583397011045227
+1964929381,Mapping and cleaning,2014,27,36,1,1.0,1971263028,Floris Geerts,0,-0.18261242267461522,0.0562677433198833
+1980706971,Inferring data currency and consistency for conflict resolution,2013,25,29,2,0.0522032,2132396280,Wenfei Fan,0,0.37125151514250965,0.13231620860717402
+1981001739,Semandaq a data quality system based on conditional functional dependencies,2008,13,31,2,0.108541,2132396280,Wenfei Fan,0,1.0095354292617538,-0.258566626364828
+1970719697,Linear approximation of planar spatial databases using transitive-closure logic,2000,27,17,1,1.0,1971263028,Floris Geerts,0,0.8874239208199347,0.4673728889187109
+2065000833,Discovering Conditional Functional Dependencies,2009,34,75,2,0.0865888,2132396280,Wenfei Fan,0,1.6387377356223323,-0.5564539531578763
+2077537513,Capturing missing tuples and missing values,2010,35,41,3,0.608696,2003234038,Ting Deng,0,-0.17779990226296605,0.38033797164872174
+2092770599,Determining the Currency of Data,2012,34,45,2,0.058812,2132396280,Wenfei Fan,0,-0.13346311537486708,0.1547687931417197
+2103365384,On recommendation problems beyond points of interest,2015,30,3,3,0.608696,2003234038,Ting Deng,0,0.119739122485096,0.4583397011045227
+2081186682,The LLUNATIC data-cleaning framework,2013,26,95,1,1.0,1971263028,Floris Geerts,0,-0.0041099411153885,0.0447066884760059
+2101852873,Relational link-based ranking,2004,28,77,1,1.0,1971263028,Floris Geerts,0,1.9186872983896668,0.2603544764097453
+2105059047,Linearization and Completeness Results for Terminating Transitive Closure Queries on Spatial Databases,2006,42,2,1,1.0,1971263028,Floris Geerts,0,1.616702805813725,0.4303583911131475
+2114473442,Increasing the Expressivity of Conditional Functional Dependencies without Extra Complexity,2008,19,53,3,0.0,2220702136,Loreto Bravo,0,0.38632121652839624,0.058193535481373765
+2114584188,SMOQE a system for providing secure access to XML,2006,8,23,2,0.108541,2132396280,Wenfei Fan,0,2.393919284475961,-0.8794014440068407
+2106186981,Detecting inconsistencies in distributed data,2010,27,31,2,0.0765704,2132396280,Wenfei Fan,0,0.09147078736626658,0.07628259414092216
+2136210718,View determinacy for preserving selected information in data transformations,2012,25,16,2,0.058812,2132396280,Wenfei Fan,0,0.5999425613928601,0.15692042566557135
+2112842248,Making queries tractable on big data with preprocessing through the eyes of complexity theory,2013,40,20,2,0.0,1870307126,Frank Neven,0,0.06635930819191084,0.49152641060504293
+2107080109,A revival of integrity constraints for data cleaning,2008,15,30,2,0.108541,2132396280,Wenfei Fan,0,-0.1444831102143292,0.01561455916532302
+2107342726,i MONDRIAN a visual tool to annotate and query scientific databases,2006,7,14,1,1.0,1971263028,Floris Geerts,0,-0.0041099411153885,0.0447066884760059
+2137775416,Improving data quality consistency and accuracy,2007,35,271,3,0.0,2295915604,Gao Cong,0,0.5148282688920114,-0.4510688025818628
+2140859480,Relative information completeness,2010,33,30,2,0.0765704,2132396280,Wenfei Fan,0,0.6037778098231587,0.29787841964939504
+2159255950,MONDRIAN Annotating and Querying Databases through Colors and Blocks,2006,22,110,1,1.0,1971263028,Floris Geerts,0,0.1428944572028501,0.2578944946790329
+2153439064,On the decidability of termination of query evaluation in transitive-closure logics for polynomial constraint databases,2005,29,4,1,1.0,1971263028,Floris Geerts,0,0.119739122485096,0.4583397011045227
+2153531471,Conditional Functional Dependencies for Data Cleaning,2007,18,255,3,0.0,2003419062,Philip Bohannon,0,1.243590799035957,-0.557527025287951
+2156919279,Relational completeness of query languages for annotated databases,2011,19,7,1,1.0,1971263028,Floris Geerts,0,2.61304135627627,0.02303989826990202
+2154734122,Conditional Dependencies A Principled Approach to Improving Data Quality,2009,32,25,2,0.0865888,2132396280,Wenfei Fan,0,1.3091957526666567,0.0053298189101118835
+2160918318,Rewriting Regular XPath Queries on XML Views,2007,20,64,2,0.108541,2132396280,Wenfei Fan,0,1.93807638781959,-0.5657631851561608
+2188696002,Thats all folks llunatic goes open source,2014,11,24,1,1.0,1971263028,Floris Geerts,0,-0.09617633802008879,-0.25695549318366667
+2614592379,Cleaning Data with Forbidden Itemsets,2017,31,7,2,0.0,2615327908,Joeri Rammelaere,0,-0.10344230619099819,0.03290475458641697
+2611208700,Linear approximation of semi-algebraic spatial databases using transitive closure logic in arbitrary dimension,2002,0,4,1,1.0,1971263028,Floris Geerts,0,-0.0041099411153885,0.0447066884760059
+2603514790,26TH INTERNATIONAL CONFERENCE ON DATA ENGINEERING ICDE 2010,2010,0,0,1,1.0,1971263028,Floris Geerts,0,-0.0041099411153885,0.0447066884760059
+2615048832,Expressiveness and complexity of XML publishing transducers,2008,32,4,2,0.108541,2132396280,Wenfei Fan,0,0.5372709747590758,0.10754465582902623
+2809707295,A General Framework for Anytime Approximation in Probabilistic Databases,2018,9,1,2,1.0,2811204029,Maarten Van den Heuvel,0,-0.0041099411153885,0.0447066884760059
+2948257569,Anytime Approximation in Probabilistic Databases via Scaled Dissociations,2019,43,2,4,1.0,2811204029,Maarten Van den Heuvel,0,1.5568779191469737,0.2848127403832716
+2983979079,MATLANG Matrix operations and their expressive power,2019,27,0,2,0.0,291948547,Robert Brijder,0,-0.0041099411153885,0.0447066884760059
+3022749099,On the decidability of termination of query evaluation in transitive-closure logics for polynomial constraint databases,2005,0,0,1,1.0,1971263028,Floris Geerts,0,0.119739122485096,0.4583397011045227
+2125897893,On the data complexity of relative information completeness,2014,33,1,6,0.0,2139075683,Yang Cao,0,-0.09352228459325673,0.47866492006558525

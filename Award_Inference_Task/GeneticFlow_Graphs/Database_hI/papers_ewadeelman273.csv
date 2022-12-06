@@ -1,0 +1,51 @@
+69617408,Implementing Software Acceptance Tests as Scientific Workflows,2009,0,2,2,0.91748,2655053208,Philip J. Maechling,0,0.6665041731034329,1.4901896955761065
+51625336,Wings for Pegasus A Semantic Approach to Creating Very Large Scientific Workflows,2006,23,23,4,0.0,2145802646,Yolanda Gil,0,0.2946713761785912,0.4027268098681643
+771865238,From Metadata to Execution on the Grid Pegasus and the LIGO PulsarSearch,2003,0,0,1,1.0,220773886,Ewa Deelman,0,-0.34857978327751216,-0.2513987233039086
+281825565,What makes workflows work in an opportunistic environmentq Research Articles,2006,0,6,1,1.0,220773886,Ewa Deelman,0,0.925590854578296,1.4577150256028886
+261532799,A Metadata Catalog Service for Data Intensive Applications,2002,4,6,3,0.8,2179265492,Gurmeet Singh,0,-0.3826816924943315,-0.17246930033106256
+1536893558,Scientific Workflows in the Cloud,2011,38,40,1,1.0,220773886,Ewa Deelman,0,0.5956140644407608,0.9688427061312636
+1805309753,The application of cloud computing to the creation of image mosaics and management of their provenance,2010,13,18,2,0.0,1233082015,G. Bruce Berriman,0,-1.0649416023415688,-0.6375270230194294
+1597075108,Integrating existing scientific workflow systems the Kepler/Pegasus example,2007,15,0,2,0.0,2024178475,Nandita Mandal,0,1.0681563209081988,2.00500913023351
+1938697448,Online workflow management and performance analysis with Stampede,2011,43,20,2,0.0,2169563905,Dan Gunter,0,0.22158963759940864,0.31908569023588573
+1948509942,Grid-based metadata services,2004,19,77,1,1.0,220773886,Ewa Deelman,0,-0.47018378660484494,-0.6648664373494766
+1971744183,Provenance trails in the Wings-Pegasus system,2008,11,106,2,0.846154,2177100643,Jihie Kim,0,1.0171666831364772,1.7084010741382796
+1977468614,A Cloud-based Dynamic Workflow for Mass Spectrometry Data Analysis,2011,24,21,7,0.0,2229685057,Ashish Nagavaram,0,0.6665041731034329,1.4901896955761065
+1965835307,The Pegasus portal web based grid computing,2005,19,49,2,0.8,2179265492,Gurmeet Singh,0,0.13352453069075973,0.06442019194438608
+2008415634,High-performance remote access to climate simulation data a challenge problem for data grid technologies,2003,27,65,2,1.0,2082033547,Ann Chervenak,0,0.5449340679251995,-0.5949047939787344
+1998082182,Characterization of scientific workflows,2008,11,326,1,1.0,220773886,Ewa Deelman,0,-0.11480508743103986,0.3051085729721401
+1990431150,A Case Study into Using Common Real-Time Workflow Monitoring Infrastructure for Scientific Workflows,2013,37,10,11,1.0,2958594873,Karan Vahi,0,1.2269493304548167,1.1510686447766632
+1992229674,Dynamic computational workflows Discovery optimisation and scheduling,2007,0,0,2,0.0,2099814946,David W. Walker,0,0.18110923611150717,-0.12378584936795459
+2006382393,Managing Large-Scale Workflow Execution from Resource Provisioning to Provenance Tracking The CyberShake Example,2006,22,100,1,1.0,220773886,Ewa Deelman,0,0.2946713761785912,0.4027268098681643
+2027875703,Pegasus on the virtual grid a case study of workflow planning over captive resources,2008,31,4,1,1.0,220773886,Ewa Deelman,0,0.2946713761785912,0.4027268098681643
+2028351695,Characterizing and profiling scientific workflows,2013,45,323,3,0.805941,2155173628,Gideon Juve,0,0.6665041731034329,1.4901896955761065
+2016395505,Toward fine-grained online task characteristics estimation in scientific workflows,2013,39,32,3,1.0,2126530752,Rafael Ferreira da Silva,0,0.2946713761785912,0.4027268098681643
+2020278075,Scheduling multilevel deadline-constrained scientific workflows on clouds based on cost optimization,2015,26,31,4,0.0,2013231411,Maciej Malawski,0,0.5956140644407608,0.9688427061312636
+2047280416,A performance model to estimate execution time of scientific workflows on the cloud,2014,32,51,3,0.0,2232066415,Ilia Pietri,0,0.2946713761785912,0.4027268098681643
+2049372555,The 5 th Workshop on Workflows in Support of Large-Scale Science in conjunction with SC 10,2010,0,0,1,1.0,220773886,Ewa Deelman,0,0.2946713761785912,0.4027268098681643
+2053859629,Peer-to-Peer Data Sharing for Scientific Workflows on Amazon EC2,2012,16,11,3,0.0,2423646837,Rohit Agarwal,0,0.08608502313628989,2.9446258815030526
+2055658655,A General Approach to Real-Time Workflow Monitoring,2012,14,16,12,1.0,2958594873,Karan Vahi,0,1.2269493304548167,1.1510686447766632
+2069734182,Pipeline-centric provenance model,2009,23,35,2,0.0,2249402561,Paul Groth,0,0.2946713761785912,0.4027268098681643
+2102516719,Optimizing workflow data footprint,2007,38,34,5,0.0,2950233998,Gurmeet Singh,0,0.37899685293250984,1.029304668226434
+2085980508,Rethinking data management for big data scientific workflows,2013,34,22,5,0.0,1968817782,Karan Vahi,0,0.5493550437493692,1.191841906429308
+2103128343,The cost of doing science on the cloud the Montage example,2008,34,601,1,1.0,220773886,Ewa Deelman,0,0.03565810966282755,0.09825506972366725
+2105512718,A cleanup algorithm for implementing storage constraints in scientific workflow executions,2014,18,8,5,0.0,2439935786,Sudarshan Srinivasan,0,1.0171666831364772,1.7084010741382796
+2117963990,An Evaluation of the Cost and Performance of Scientific Workflows on Amazon EC2,2012,28,67,2,0.805941,2155173628,Gideon Juve,0,0.5956140644407608,0.9688427061312636
+2107693417,Metadata catalogs with semantic representations,2006,15,9,3,0.0,2145802646,Yolanda Gil,0,0.17927086774695827,-0.4177616918662871
+2125587567,Data placement for scientific applications in distributed environments,2007,29,85,2,0.53249,2082033547,Ann Chervenak,0,0.5649941135998816,0.5415356630559508
+2134520913,Failure prediction and localization in large scientific workflows,2011,26,16,4,0.833333,176165741,Taghrid Samak,0,0.18918698757839192,0.41750718912329593
+2154011109,Designing and parameterizing a workflow for optimization A case study in biomedical imaging,2008,6,0,5,0.0,2646695852,Vijay S. Kumar,0,1.0171666831364772,1.7084010741382796
+2148052506,Simplifying construction of complex workflows for non-expert users of the Southern California Earthquake Center Community Modeling Environment,2005,18,55,4,1.0,2655053208,Philip J. Maechling,0,0.06810725253668899,0.052887054760761984
+2154513453,Workflows and e-Science An overview of workflow system features and capabilities,2009,74,626,1,1.0,220773886,Ewa Deelman,0,1.2633142488337883,1.8696968560361111
+2161344864,What makes workflows work in an opportunistic environment,2006,23,19,1,1.0,220773886,Ewa Deelman,0,0.6695790144300512,0.9955160973834267
+2170815095,Reducing Time-to-Solution Using Distributed High-Throughput Mega-Workflows - Experiences from SCEC CyberShake,2008,11,25,3,0.666667,2007765716,Scott Callaghan,0,0.2946713761785912,0.4027268098681643
+2245342439,Pegasus in the Cloud Science Automation through Workflow Technologies,2016,6,31,1,1.0,220773886,Ewa Deelman,0,0.5956140644407608,0.9688427061312636
+2233034657,Scalable Knowledge Discovery Through Grid Workflows,2009,19,0,1,1.0,220773886,Ewa Deelman,0,0.5379441012513881,0.035767119979722393
+2408384808,USING CLOUDS FOR SCIENCE IS IT JUST KICKING THE CAN DOWN THE ROAD ,2012,34,8,1,1.0,220773886,Ewa Deelman,0,-0.0041099411153885,0.0447066884760059
+2483629505,Performance Analysis of an I/O-Intensive Workflow Executing on Google Cloud and Amazon Web Services,2016,31,6,4,0.0,2227631914,Hassan Nawaz,0,0.6665041731034329,1.4901896955761065
+2558243752,Asterism Pegasus and dispel4py hybrid workflows for data-intensive science,2016,29,5,4,0.0,1971386308,Rosa Filgueira,0,0.4655670884408315,0.7645828923412797
+2547076582,Mapping Workflows on Grid Resources Experiments with the Montage Workflow,2009,0,1,3,0.0,78834692,Rizos Sakellariou,0,0.6665041731034329,1.4901896955761065
+2554167939,Science automation in practice Performance data farming in workflows,2016,17,1,7,0.0,2630865881,Dariusz KrÃ³l,0,0.5679911709930348,1.2671253214753102
+2741917904,DRAFT COMMENTS SOLICITED Transformation Catalog Design for GriPhyN,2001,0,5,1,1.0,220773886,Ewa Deelman,0,-0.34857978327751216,-0.2513987233039086
+2766844754,rvGAHP push-based job submission using reverse SSH connections,2017,16,1,6,0.666667,2007765716,Scott Callaghan,0,0.2946713761785912,0.4027268098681643
+2785507873,The Application of Cloud Computing to the Creation of Image Mosaics and Management of Their Provenance,2010,0,0,2,0.0,2833513844,G. B. Berriman,0,-0.0041099411153885,0.0447066884760059
+2951156825,Data Sharing Options for Scientific Workflows on Amazon EC2,2010,12,0,2,0.765507,2155173628,Gideon Juve,0,0.3218262118621306,0.2530174513756237

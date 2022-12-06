@@ -1,0 +1,66 @@
+17770423,ProMo - a scalable and efficient framework for online data delivery,2006,6,0,3,0.461538,1917779154,Haggai Roitman,0,-0.0041099411153885,0.0447066884760059
+191050306,Query transformation techniques for interoperable query processing in cooperative information systems,1994,0,7,1,1.0,285822418,Louiqa Raschid,0,0.0908845357243609,0.31128747720343375
+56621746,The design and implementation techniques for an integrated knowledge base management system,1987,0,4,1,1.0,285822418,Louiqa Raschid,0,0.3198728442455682,0.15556631392269393
+180441877,Using parameterized canonical representations to resolve conflicts and achieve interoperability between relational and object databases,1996,22,0,1,1.0,285822418,Louiqa Raschid,0,0.29662928236253844,0.24047382533171266
+165557026,Exploiting Semantics from Ontologies and Shared Annotations to Partition Linked Data,2014,10,1,3,0.0,2098966486,Guillermo Palma,0,-0.0041099411153885,0.0447066884760059
+116230465,Link prediction for annotation graphs using graph summarization,2011,33,36,3,0.0,2666714838,Andreas Thor,0,-0.0041099411153885,0.0447066884760059
+119362800,Improving data delivery in wide area and mobile environments,2003,0,1,1,1.0,285822418,Louiqa Raschid,0,-0.0041099411153885,0.0447066884760059
+812490713,Scaling Access to Heterogeneous Databases with DISCO,1998,0,2,1,1.0,285822418,Louiqa Raschid,0,-0.0041099411153885,0.0447066884760059
+1531800378,Equal Time for Data on the Internet with WebSemantics,1998,13,23,2,0.9,2787373940,George A. Mihaila,0,-0.044057615218294356,0.12435484801898337
+1513665907,Links and Paths through Life Sciences Data Sources,2004,16,34,4,0.202882,263865610,ZoÃ© Lacroix,0,0.20806483047476765,0.16134844774870424
+1523918789,Exploiting Ontology Structure and Patterns of Annotation to Mine Significant Associations between Pairs of Controlled Vocabulary Terms,2008,20,10,2,1.0,2129413289,Woei Jyh Lee,0,-0.0041099411153885,0.0447066884760059
+1525196841,Efficient Techniques to Explore and Rank Paths in Life Science Data Sources,2004,16,34,2,0.202882,263865610,ZoÃ© Lacroix,0,-0.15119046015648127,0.1230584223750741
+1483132610,Using latency-recency profiles for data delivery on the web,2002,22,52,2,0.625,2158853206,Laura Bright,0,-0.0041099411153885,0.0447066884760059
+1502069986,AReNA adaptive distributed catalog infrastructure based on relevance networks,2005,13,9,3,0.62069,179379646,Vladimir Zadorozhny,0,-0.0041099411153885,0.0447066884760059
+1512797941,Using Data for Systemic Financial Risk Management,2011,2,11,5,0.0,2715948197,Mark D. Flood,0,-0.0041099411153885,0.0447066884760059
+1540271664,Exploiting Concurrency in a DBMS Implementation for Production,1988,0,1,1,1.0,285822418,Louiqa Raschid,0,2.2385699112475157,3.0077210616903125
+1670271368,Experiments on the concurrent rule execution in database systems,1992,6,1,2,0.0,2281599754,Alexios Delis,0,1.6017487056322959,1.6886142526313495
+1578444342,Querying Quality of Data Metadata,1998,0,22,1,1.0,285822418,Louiqa Raschid,0,-0.1948775838157161,-0.7476910878435402
+1890319769,Adaptive Pull-Based Data Freshness Policies for Diverse Update Patterns,2004,18,6,1,1.0,285822418,Louiqa Raschid,0,-0.0041099411153885,0.0447066884760059
+1917562003,Web query optimizer,2000,5,4,3,0.705882,179379646,Vladimir Zadorozhny,0,0.5325669973310596,0.09709227568458595
+1592347175,A Parallel Processing Strategy for Evaluating Recursive Queries,1986,25,38,1,1.0,285822418,Louiqa Raschid,0,0.7215975991611812,0.3052417628859806
+1602083203,Query planning in the presence of overlapping sources,2006,13,24,4,0.0,71826499,Jens Bleiholder,0,0.014532710543751099,0.030944858938630852
+1971676915,Explaining and Reformulating Authority Flow Queries,2008,37,28,3,1.0,2021633858,Ramakrishna Varadarajan,0,0.5586742082380666,-0.1984847101299193
+1971968366,A simulation-based study on the concurrent execution of rules in a database environment,1994,41,9,1,1.0,285822418,Louiqa Raschid,0,1.8732818246799448,1.8288256093975448
+1979510363,INTEROPERABLE QUERY PROCESSING FROM OBJECT TO RELATIONAL SCHEMAS BASED ON A PARAMETERIZED CANONICAL REPRESENTATION,1995,0,3,1,1.0,285822418,Louiqa Raschid,0,1.6400260178808785,0.37041029751533194
+1967270315,Mediator languagesâ€”a proposal for a standard report of an I 3 /POB working group held at the University of Maryland April 12 and 13 1996,1997,1,34,1,1.0,285822418,Louiqa Raschid,0,0.4542367245204761,0.1795452124480269
+1997526587,Semantics for update rule programs and implementation in a relational database management system,1996,38,21,1,1.0,285822418,Louiqa Raschid,0,0.9201484967232982,0.31876825932012076
+2010495072,The distributed information search component (Disco) and the World Wide Web,1997,9,69,6,0.444444,1966690917,Anthony Tomasic,0,0.1822416555524229,-0.19375588831705134
+2021202048,A Flexible and Extensible Contract Aggregation Framework (CAF) for Financial Data Stream Analytics,2014,11,2,5,0.0,2478114416,Bryan Ball,0,0.12628174114238816,0.0039009070058818006
+2026485377,Locating and accessing data repositories with WebSemantics,2002,27,8,2,1.0,2787373940,George A. Mihaila,0,-0.41047051061695244,-0.05395729848108578
+2026495853,Flexible and efficient querying and ranking on hyperlinked data sources,2009,26,16,3,1.0,2021633858,Ramakrishna Varadarajan,0,0.1653838894567856,0.29325817591493436
+2030403403,Data intensive production systems the DIPS approach,1989,9,22,3,0.167415,2062009547,Timos Sellis,0,-0.4822791110885154,-0.15247134615969485
+2014745699,Satisfying Complex Data Needs using Pull-Based Online Monitoring of Volatile Data Sources,2008,18,9,3,0.461538,1917779154,Haggai Roitman,0,-0.08542532982180631,0.08057035149945069
+2034778995,Adaptive pull-based policies for wide area data delivery,2006,45,34,3,0.625,2158853206,Laura Bright,0,0.08081667993484459,0.08495457609659822
+2037117980,Interoperable query processing with multiple heterogeneous knowledge servers,1993,14,7,1,1.0,285822418,Louiqa Raschid,0,0.2860665828030002,0.20681871993919446
+2057472517,Implementing large production systems in a DBMS environment concepts and algorithms,1988,15,83,3,0.167415,2062009547,Timos Sellis,0,1.204501787921431,0.29860165833699415
+2064625378,A METHODOLOGY FOR QUERY REFORMULATION IN CIS USING SEMANTIC KNOWLEDGE,1996,0,57,2,0.0,2061024894,Daniela Florescu,0,0.16577432341274398,0.05643402415075516
+2096511117,Semantic query optimization for object databases,1997,14,40,4,0.0,2495675560,John Grant,0,0.10255920172073689,0.12686985296803002
+2082493470,Learning response time for WebSources using query feedback and application in query optimization,2000,23,57,2,0.0,2167115887,Jean Robert Gruser,0,0.30022604837547345,-0.014899277992087229
+2091436307,SCALABLE CATALOG INFRASTRUCTURE FOR MANAGING ACCESS COSTS AND SOURCE SELECTION IN WIDE AREA NETWORKS,2008,2,4,2,0.484302,179379646,Vladimir Zadorozhny,0,-0.0041099411153885,0.0447066884760059
+2101826819,Transitive closure an experimental case study of three multithreaded database algorithms on a shared memory multiprocessor,1993,10,0,1,1.0,285822418,Louiqa Raschid,0,-0.0041099411153885,0.0447066884760059
+2090528219,An experimental study of three dataflow paradigms in multithreaded database transitive closure algorithms on shared memory multiprocessors,1993,0,1,1,1.0,285822418,Louiqa Raschid,0,0.8286466699603369,1.0027583038282522
+2129612566,Logic-based query optimization for object databases,2000,45,17,4,0.0,2495675560,John Grant,0,0.09750419372867325,0.3608536284995438
+2121156396,Query Rewriting in the Semantic Web7,2006,19,11,2,0.444444,2126875334,Maria Esther Vidal,0,0.0908845357243609,0.31128747720343375
+2124532805,Implementing a Bioinformatics Pipeline (BIP) on a Mediator Platform Comparing Cost and Quality of Alternate Choices,2006,14,6,4,0.0,2186303126,Barbara Eckman,0,-0.4282899717004173,1.4281129036171354
+2130755119,Web Monitoring 20 Crossing Streams to Satisfy Complex Data Needs,2009,27,5,3,0.461538,1917779154,Haggai Roitman,0,-1.3509082687520757,-1.2061535642096195
+2124998354,Challenges in selecting paths for navigational queries trade-off of benefit of path versus cost of plan,2004,11,9,2,0.444444,2126875334,Maria Esther Vidal,0,1.780871458344133,-0.7234742606729057
+2128350269,Scaling access to heterogeneous data sources with DISCO,1998,49,200,2,0.382979,1966690917,Anthony Tomasic,0,0.07215220336803939,0.23857320611578695
+2140273296,ApproxRank Estimating Rank for a Subgraph,2009,35,20,2,0.0,2123209195,Yao Wu,0,-0.4197151661071337,-0.42589767901227754
+2107754498,Coupling production systems and database systems a homogeneous approach,1993,27,37,3,0.102781,2062009547,Timos Sellis,0,0.6361223742425169,0.21413831968681152
+2111077066,Using annotations from controlled vocabularies to find meaningful associations,2007,33,14,2,1.0,2129413289,Woei Jyh Lee,0,-0.0041099411153885,0.0447066884760059
+2144115857,Exploiting concurrency in a DBMS implementation for production systems,1988,14,30,1,1.0,285822418,Louiqa Raschid,0,0.962328208959006,1.4897379605680101
+2162334619,Exploiting multiple paths to express scientific queries,2004,9,12,3,0.202882,263865610,ZoÃ© Lacroix,0,0.26059323638839793,0.21899577555427457
+2159888038,Scaling heterogeneous databases and the design of Disco,1996,29,219,2,0.444444,1966690917,Anthony Tomasic,0,-0.05845867902989686,0.19481179565950868
+2166721623,Semantic Model to Integrate Biological Resources,2006,7,13,2,0.202882,263865610,ZoÃ© Lacroix,0,0.03364944484678777,-0.05618483276976555
+2146377092,Efficient evaluation of queries in a mediator for WebSources,2002,38,60,2,0.705882,179379646,Vladimir Zadorozhny,0,-0.0041099411153885,0.0447066884760059
+2257758562,On the concurrent execution of production rules in A database implementation,1991,0,3,1,1.0,285822418,Louiqa Raschid,0,-0.0041099411153885,0.0447066884760059
+2243575672,A simulation based study on the concurrent execution of rules in a database environment,1992,0,0,1,1.0,285822418,Louiqa Raschid,0,1.848620476145237,1.920417192917315
+2310141101,A survey of approaches to achieve interoperability with multiple databases,1993,0,1,1,1.0,285822418,Louiqa Raschid,0,0.4337513914617648,-0.030940431688758745
+2402569267,Scalable Link-based Personalization for Ranking in Entity-Relationship Graphs,2011,20,4,2,0.0,238786035,Vagelis Hristidis,0,1.2120043167957657,0.28082032694940884
+2406529495,A Data Model and Query Language to Explore Enhanced Links and Paths in Life Science Sources,2005,0,6,3,1.0,2787373940,George A. Mihaila,0,0.1653838894567856,0.29325817591493436
+2525432950,resMBS Constructing a Financial Supply Chain from Prospectus,2016,7,3,3,0.0,2974781654,Doug Burdick,0,-0.0041099411153885,0.0447066884760059
+2605652258,Exploiting HPO to Predict a Ranked List of Phenotype Categories for LiverTox Case Reports,2016,21,0,2,0.0,1985311347,Casey Lynnette Overby,0,-0.0041099411153885,0.0447066884760059
+2956583305,Understanding Trading Interactions and Behavior in Over-the-Counter Markets,2019,6,0,2,0.0,2958790064,Chi Hung Chen,0,-0.0041099411153885,0.0447066884760059
+3021045831,Lecture Notes in Bioinformatics (Subseries of Lecture Notes in Computer Science) Preface,2005,0,0,1,1.0,285822418,Louiqa Raschid,0,-0.0041099411153885,0.0447066884760059
+1568056499,Source selection and ranking in the websemantics architecture using quality of data metadata,2002,24,10,2,0.0,2786162066,George Mihaila,0,-0.12471750906534677,0.3668503595554387

@@ -1,0 +1,33 @@
+184810129,A Language-Independent Framework for Software Miniaturization,2004,37,1,2,1.0,2045589531,Massimiliano Di Penta,0,0.25631760331876086,0.5469451896967593
+1550431237,Software assessment using metrics A comparison across large C++ and Java systems,2000,15,6,3,0.0,2310798731,Jean Mayrand,0,-0.0291855379334779,0.0585196112869768
+1533471782,Augmenting pattern-based architectural recovery with flow analysis Mosaic-a case study,1996,20,30,3,1.0,174962400,Paolo Tonella,0,-0.0291855379334779,0.0585196112869768
+1490878083,Extending software quality assessment techniques to Java systems,1999,19,52,2,0.0,2466457493,J. F. Patenaude,0,-0.0291855379334779,0.0585196112869768
+1494911636,Clones occurrence in Java and Modula-3 software systems,2002,14,1,2,0.5,2009696330,Bruno LaguÃ«,0,0.33308980990244225,-1.1245183471735172
+1885561873,Measuring clone based reengineering opportunities,1999,17,114,2,1.0,2345141441,Magdalena Balazinska,0,-0.0291855379334779,0.0585196112869768
+1777576722,Advanced clone-analysis to support object-oriented system refactoring,2000,12,161,2,1.0,2345141441,Magdalena Balazinska,0,0.03445031226011974,-0.03362354294348132
+1948496691,06301 Summary -- Duplication Redundancy and Similarity in Software,2006,0,19,3,0.0,155308371,Andrew Walenstein,0,-0.0291855379334779,0.0585196112869768
+1974825292,MULTI-VALUED CONSTANT PROPAGATION ANALYSIS FOR USER INTERFACE REENGINEERING,1995,0,9,1,1.0,2107216203,Ettore Merlo,0,-0.5863463170654387,0.20193309130246104
+2022792112,A language-independent software renovation framework,2005,45,26,4,0.258621,1800104322,M. Di Penta,0,-0.0291855379334779,0.0585196112869768
+2032863222,On feature traceability in object oriented programs,2005,24,18,2,0.197825,2240784224,Giuliano Antoniol,0,-0.0291855379334779,0.0585196112869768
+2077099262,Adapting software product lines for complex certifiable avionics software,2012,12,3,2,0.0,2225928287,Neset Sozen,0,-0.0291855379334779,0.0585196112869768
+2058094761,Security Model Evolution of PHP Web Applications,2011,27,8,3,0.0,1086573881,Dominic Letarte,0,-0.0291855379334779,0.0585196112869768
+2060208597,A novel approach to optimize clone refactoring activity,2006,24,57,3,0.0,230627824,Salah Bouktif,0,-0.0291855379334779,0.0585196112869768
+2058636546,ART an architectural reverse engineering environment,1999,43,12,4,0.685714,1204727178,R. Fiutem,0,-0.5858771665552741,0.2641527235267396
+2097223308,Supporting Maintenance and Evolution of Access Control Models in Web Applications,2014,14,0,2,1.0,2127355150,FranÃ§ois Gauthier,0,-0.0291855379334779,0.0585196112869768
+2083318874,Reengineering user interfaces,1995,5,62,1,1.0,2107216203,Ettore Merlo,0,-0.0291855379334779,0.0585196112869768
+2096286719,Knowledge-based library re-factoring for an open source project,2002,26,14,4,0.391304,1800104322,M. Di Penta,0,-0.0291855379334779,0.0585196112869768
+2105541105,Points to analysis for program understanding,1997,14,7,3,1.0,174962400,Paolo Tonella,0,-0.21539100111442352,0.23196287952815897
+2120779835,Understanding the architecture of software systems,1996,17,14,2,1.0,1204727178,R. Fiutem,0,-0.0291855379334779,0.0585196112869768
+2109159742,06301 Abstracts Collection -- Duplication Redundancy and Similarity in Software,2006,0,0,3,0.0,155308371,Andrew Walenstein,0,-0.0291855379334779,0.0585196112869768
+2115534035,Assessing the benefits of incorporating function clone detection in a development process,1997,9,183,4,1.0,2009696330,Bruno LaguÃ«,0,-0.0291855379334779,0.0585196112869768
+2111250043,An analysis framework for understanding layered software architectures,1998,3,36,4,1.0,2009696330,Bruno LaguÃ«,0,-0.0291855379334779,0.0585196112869768
+2159766480,A method to re-organize legacy systems via concept analysis,2001,14,22,4,0.306659,2240784224,Giuliano Antoniol,0,-0.0291855379334779,0.0585196112869768
+2148350542,Recovering code to documentation links in OO systems,1999,36,51,4,0.307692,2240784224,Giuliano Antoniol,0,0.032383888555015394,-0.5889338944375723
+2157411243,Tracing object-oriented code into functional requirements,2000,25,39,5,0.307692,2240784224,Giuliano Antoniol,0,0.0034960695105667647,-0.7055153717860705
+2157663777,Partial redesign of Java software systems based on clone analysis,1999,14,71,2,1.0,2345141441,Magdalena Balazinska,0,0.16507363120930635,-0.2696288139740148
+2164307646,A Feedback Based Quality Assessment to Support Open Source Software Evolution the GRASS Case Study,2006,22,26,3,0.0,230627824,Salah Bouktif,0,-0.0291855379334779,0.0585196112869768
+2294525553,Evolutionary analysis of access control models a formal concept analysis method,2015,5,2,4,0.666667,2117624776,Zhuobing Han,0,-0.0291855379334779,0.0585196112869768
+2504514184,A cliche-based environment to support architectural reverse engineering,1996,20,66,3,1.0,1204727178,R. Fiutem,0,-0.0291855379334779,0.0585196112869768
+2611856473,Predicting Refactoring Activities via Time Series,2003,16,3,2,1.0,2045589531,Massimiliano Di Penta,0,-0.0291855379334779,0.0585196112869768
+2919434419,A DevOps framework for quality-driven self-protection in web software systems,2018,13,0,6,0.0,215201529,Nasim Beigi Mohammadi,0,1.1146453980754116,0.6804850860280779
+2953917756,An Effective Evolutionary Analysis Scheme for Industrial Software Access Control Models,2020,25,0,5,0.666667,2117624776,Zhuobing Han,0,-0.0291855379334779,0.0585196112869768

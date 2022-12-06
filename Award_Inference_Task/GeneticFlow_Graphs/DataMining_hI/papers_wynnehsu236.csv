@@ -1,0 +1,112 @@
+86109449,Inferring Topic-Level Influence from Network Data,2014,22,1,2,1.0,2139514608,Enliang Xu,0,-0.8369515287960528,-0.4048210844211493
+2371519,A path-based approach for efficient structural join with not-predicates,2007,11,5,3,1.0,2108069467,Hanyu Li,0,-2.3636209951546943,-0.29807817267711156
+190359374,Incremental Mining of Top-k Maximal Influential Paths in Network Data,2013,35,1,2,1.0,2139514608,Enliang Xu,0,-0.2532818140168591,-0.304889800829186
+156372001,Temporal and Spatio-temporal Data Mining,2007,0,19,1,1.0,2123778117,Wynne Hsu,0,-0.4545989812524142,-0.0065969228575950235
+21710537,Top-k Maximal Influential Paths in Network Data,2012,22,1,2,1.0,2139514608,Enliang Xu,0,-0.3011331851164172,-0.15588985616037465
+27423837,Mining in Spatiotemporal Databases,2005,0,0,2,1.0,2134990117,Junmei Wang,0,-1.6941741395153669,0.5310092113063621
+152589294,Efficient Mining of Lag Patterns in Evolving Time Series,2013,37,0,2,0.75,2152020443,Dhaval Patel,0,0.30378581844541885,-0.1136145395680742
+1487850114,Visually Aided Exploration of Interesting Association Rules,1999,14,46,2,0.0,2244698799,Bing Liu,0,-0.05167304793915276,0.2179848902195083
+1523567524,Consistent Top-k Queries over Time,2009,10,14,2,0.08873,2159408573,Mong Li Lee,0,0.37014387688481776,0.7688919040988654
+1507030234,Approximate Counting of Frequent Query Patterns over XQuery Stream,2004,16,3,3,0.0,2952373167,Liang Huai Yang,0,-0.7840531282799945,-0.061708974158587046
+1498634146,A statistical approach for XML query size estimation,2004,6,6,3,0.186486,2159408573,Mong Li Lee,0,-2.001569645917836,-0.18539581794138227
+1534564258,An Information-Driven Framework for Image Mining,2001,35,45,2,0.193548,2109058337,Ji Zhang,0,-0.08775155921863564,-0.08884892757620355
+1499891298,A histogram-based selectivity estimator for skewed XML data,2005,7,4,3,1.0,2108069467,Hanyu Li,0,-1.0166836359508513,-0.15597505464136158
+1508802598,Discovering spatial interaction patterns,2008,17,10,2,1.0,2134759648,Chang Sheng,0,-0.45853982478583405,0.7812322689299344
+1526846536,Using Interval Association Rules to Identify Dubious Data Values,2004,18,1,3,0.0,2699266411,Ren Lu,0,0.11168585486664255,0.41588082054560666
+1509424280,Scaling SDI Systems via Query Clustering and Aggregation,2004,6,5,4,0.0,2649680574,Xi Zhang,0,-0.5102999677177952,0.37516260363408943
+1536535841,Efficient mining of XML query patterns for caching,2003,27,111,3,0.714286,2106150402,Liang Huai Yang,0,-0.6851093202795348,-0.10820235369086507
+1554784324,SNNB A Selective Neighborhood Based NaÃ¯ve Bayes for Lazy Learning,2002,19,61,2,0.0,2046830223,Xie Zhipeng,0,0.21411153641074074,1.3274806063812594
+1548497606,Answering top- k similar region queries,2010,15,15,1,1.0,2123778117,Wynne Hsu,0,-0.1355789948017679,0.14565795963261047
+1566853207,Enhancing SNNB with local accuracy estimation and ensemble techniques,2005,19,5,3,0.0,2111115581,Zhipeng Xie,0,0.4804196820036501,0.32264869112405054
+1558230679,Mining Changes for Real-Life Applications,2000,16,69,2,0.0,2244698799,Bing Liu,0,0.6187204895010511,-0.08913198885621643
+1549228205,Mining generalized spatio-temporal patterns,2005,14,11,2,1.0,2134990117,Junmei Wang,0,-0.6048507861201661,1.0362705379052244
+1595009252,Discovering Trends and Relationships among Rules,2009,10,0,2,0.0,2646728703,Chaohai Chen,0,-0.34841194659538965,-0.10142585373365
+1577119941,Detecting Aggregate Incongruities in XML,2009,12,0,1,1.0,2123778117,Wynne Hsu,0,-0.4463691065375969,0.23926815652216699
+1578204371,Image Mining Trends and Developments,2002,50,124,1,1.0,2123778117,Wynne Hsu,0,0.7057632931011154,-0.02332009754401403
+1961115226,Lag patterns in time series databases,2010,21,7,2,0.833333,2152020443,Dhaval Patel,0,0.6642631993651279,0.8704818474401211
+1853963442,Correlation-based detection of attribute outliers,2007,17,16,3,1.0,2511265901,Judice L. Y. Koh,0,0.3787497970209066,0.01880817351088538
+1963665577,Mining viewpoint patterns in image databases,2003,13,23,1,1.0,2123778117,Wynne Hsu,0,0.003708468606338,0.082832279151172
+1964795489,Clustering in Dynamic Spatial Databases,2005,17,20,2,0.193548,2109058337,Ji Zhang,0,-1.397544117854318,2.9447995717375757
+1986032028,Mining mutation chains in biological sequences,2010,26,6,2,0.913043,2134759648,Chang Sheng,0,0.003708468606338,0.082832279151172
+1965392781,Cleaning the spurious links in data,2004,10,32,2,0.186486,2159408573,Mong Li Lee,0,0.38029319330948647,0.22617012383913038
+1986575816,Efficient evaluation of multiple queries on streaming XML data,2002,10,15,3,0.198649,2159408573,Mong Li Lee,0,-2.565243250655395,-0.2697732139247775
+1969504923,Finding hot query patterns over an XQuery stream,2004,54,24,3,0.0,2490505823,Huai Yang,0,-0.6745388580978243,-0.08240052092382409
+1974867835,A framework for mining topological patterns in spatio-temporal databases,2005,14,30,2,1.0,2134990117,Junmei Wang,0,-0.3049247326517621,0.1886461481807304
+2008881019,Identifying non-actionable association rules,2001,21,51,2,0.107914,2244698799,Bing Liu,0,-0.2848009883361741,-0.2685804658780362
+2000106226,Mining association rules with multiple minimum supports,1999,13,591,2,0.0,2244698799,Bing Liu,0,-1.0302272173244955,-0.6358905928864602
+1993229737,Discovering reliable protein interactions from high-throughput experimental data using network topology,2005,27,40,2,1.0,2550645484,Jin Chen,0,-0.06868386095689515,0.24205629126618533
+2002080240,ERkNN efficient reverse k-nearest neighbors retrieval with local kNN-distance estimation,2005,14,18,2,1.0,1988513740,Chenyi Xia,0,0.0644818988688213,0.4660528257840121
+2010104777,Correlation-based Attribute Outlier Detection in XML,2008,7,9,3,1.0,2511265901,Judice L. Y. Koh,0,-0.30085529114696646,0.2653626275034228
+2011837893,Integrating Frequent Pattern Mining from Multiple Data Domains for Classification,2012,21,5,2,0.833333,2152020443,Dhaval Patel,0,-0.38889989003072495,-0.236636431078921
+2027837217,Community-based user recommendation in uni-directional social networks,2013,22,30,3,0.0,2134860715,Gang Zhao,0,0.8776680742443249,0.45208381503500666
+2026389131,Node Immunization over Infectious Period,2015,21,16,2,1.0,2225645568,Chonggang Song,0,0.003708468606338,0.082832279151172
+2011399509,Making recommendations from multiple domains,2013,19,49,2,0.0,2634686055,Wei Chen,0,0.5133539128002954,0.9645771690166829
+2031001314,Mining Brokers in Dynamic Social Networks,2015,21,2,2,1.0,2225645568,Chonggang Song,0,0.003708468606338,0.082832279151172
+2045816045,Pruning and summarizing the discovered associations,1999,26,390,2,0.0,2244698799,Bing Liu,0,0.003708468606338,0.082832279151172
+2042454345,Linking Temporal Records for Profiling Entities,2015,22,16,3,1.0,2265697202,Furong Li,0,-0.45153508569699,0.1787961642200704
+2053466245,A unified framework for recommendations based on quaternary semantic analysis,2011,20,14,2,0.0,2505090028,Chen Wei,0,-0.05771459089948615,0.015584899767859449
+2041438737,LinkNet capturing temporal dependencies among spatial regions,2015,22,1,2,0.503237,2152020443,Dhaval Patel,0,0.12595265820037338,0.43793680917641964
+2066506515,NeMoFinder dissecting genome-wide protein-protein interactions with meso-scale network motifs,2006,20,81,2,1.0,2550645484,Jin Chen,0,-0.13275296294680305,-0.071629888206014
+2065236633,An evaluation of XML indexes for structural join,2004,6,32,3,1.0,2108069467,Hanyu Li,0,-2.5418642992734375,-0.31388984159898414
+2060413568,Entity profiling with varying source reliabilities,2014,22,14,3,1.0,2265697202,Furong Li,0,0.14851428413909096,0.20562129383763286
+2074414378,Utilizing users tipping points in E-commerce Recommender systems,2013,15,8,2,0.0,2404322593,Kailun Hu,0,0.08329114195231535,0.32893178638165566
+2074420638,Mining relationships among interval-based events for classification,2008,15,106,2,1.0,2152020443,Dhaval Patel,0,0.45401166018850075,0.23923019357379718
+2074574866,Multi-level organization and summarization of the discovered rules,2000,23,83,3,0.0,2244698799,Bing Liu,0,-0.11372046304291193,0.1884230844174103
+2076651742,Efficient mining of frequent XML query patterns with repeating-siblings,2008,48,15,3,0.714286,2106150402,Liang Huai Yang,0,-0.23170009727068494,0.011134437580114459
+2102527449,Tumor cell identification using features rules,2002,17,7,2,0.0,2799154984,Bin Fang,0,0.003708468606338,0.082832279151172
+2082322375,Discovering the set of fundamental rule changes,2001,20,53,2,0.107914,2244698799,Bing Liu,0,0.23222480927982922,-0.28471672476376136
+2091346289,Mining progressive confident rules,2006,7,3,2,1.0,2636046232,Minghua Zhang,0,0.003708468606338,0.082832279151172
+2082648135,Tagcloud-based explanation with feedback for recommender systems,2013,6,11,2,0.0,2634686055,Wei Chen,0,-0.7521966415366004,-0.4693526029512456
+2098920923,BORDER efficient computation of boundary points,2006,30,67,2,1.0,1988513740,Chenyi Xia,0,0.6074532503341536,0.10360727913498975
+2105093929,Incorporating Duration Information for Trajectory Classification,2012,14,16,3,0.833333,2152020443,Dhaval Patel,0,0.43162625009792,0.20195636031746017
+2080304452,2PXMiner an efficient two pass mining of frequent XML query patterns,2004,8,13,3,0.0,2952373167,Liang Huai Yang,0,-0.5249275957801492,-0.023440586605021057
+2114477897,MaxFirst for MaxBRkNN,2011,17,51,5,0.0,2618832539,Zenan Zhou,0,0.003708468606338,0.082832279151172
+2132148167,Exploration mining in diabetic patients databases findings and conclusions,2000,14,32,1,1.0,2123778117,Wynne Hsu,0,0.07834863410026467,0.08944184653119153
+2123854512,Labeling network motifs in protein interactomes for protein function prediction,2007,21,37,2,1.0,2550645484,Jin Chen,0,0.8386329776188489,-0.8940826959426625
+2109087739,Exploiting Domain Knowledge to Improve Biological Significance of Biclusters with Key Missing Genes,2009,20,1,3,0.0,2776597335,Jin Chen,0,-0.061156971532855,0.7579713879730403
+2109153941,A prime number labeling scheme for dynamic ordered XML trees,2004,15,217,3,0.0,2709168321,X. Wu,0,-2.3395226457863187,-0.17739264214814301
+2106206965,XML clustering by principal component analysis,2004,15,36,3,0.0,2746423806,Jianghui Liu,0,-1.4021487377565045,0.06889012472548355
+2109243616,Rewriting queries for XML integration systems,2006,12,2,3,0.857143,2723171408,Ling Li,0,-2.2784057156221005,-0.13059165166407144
+2135827662,Systematic assessment of high-throughput experimental data for reliable protein interactions using network topology,2004,17,11,2,1.0,2550645484,Jin Chen,0,0.003708468606338,0.082832279151172
+2109272824,Using general impressions to analyze discovered classification rules,1997,14,206,2,0.0,2244698799,Bing Liu,0,0.003708468606338,0.082832279151172
+2121095485,Spatial data mining clustering of hot spots and pattern recognition,2003,4,19,1,1.0,2123778117,Wynne Hsu,0,-0.45450291082516814,0.8680597860633641
+2124709175,Efficient remote homology detection using local structure,2003,27,76,2,0.0,2335772353,Yuna Hou,0,0.003708468606338,0.082832279151172
+2107036692,Efficient pattern discovery for semistructured data,2005,20,7,2,0.0,2571298457,Zhou Feng,0,0.5360534551948153,0.4626160325122411
+2127951105,Analyzing Abnormal Events from Spatio-temporal Trajectories,2009,8,3,3,1.0,2152020443,Dhaval Patel,0,0.1579559588619796,0.563349572073047
+2130875351,Mining Prevalence-Based Ratio Patterns,2007,15,4,2,1.0,2636046232,Minghua Zhang,0,0.40839478737132084,0.5735596950888848
+2143182948,Finding Orientation-Sensitive Patterns in Snapshot Databases,2007,10,4,2,1.0,2636046232,Minghua Zhang,0,0.003708468606338,0.082832279151172
+2107551853,Supporting frequent updates in R-trees a bottom-up approach,2003,40,166,2,0.198649,2159408573,Mong Li Lee,0,-0.24631475925461466,0.01662727508514165
+2137676449,Finding interesting patterns using user expectations,1999,39,143,2,0.0,2244698799,Bing Liu,0,0.36961615338683507,0.04520172406723675
+2108140845,Improving data quality eliminating dupes &amp; I-D-ing those spurious links,2005,13,3,1,1.0,2123778117,Wynne Hsu,0,0.4380814257449727,0.18029274791315003
+2122993110,Image mining in IRIS integrated retinal information system,2000,1,25,1,1.0,2123778117,Wynne Hsu,0,0.003708468606338,0.082832279151172
+2171217874,A Partition-Based Approach to Graph Mining,2006,18,24,2,1.0,2134990117,Junmei Wang,0,0.003708468606338,0.082832279151172
+2147377427,FlowMiner finding flow patterns in spatio-temporal databases,2004,11,17,2,1.0,2134990117,Junmei Wang,0,-0.3049247326517621,0.1886461481807304
+2144791381,Mining interesting knowledge using DM-II,1999,16,15,2,0.0,2244698799,Bing Liu,0,0.05424004613290756,0.03940957800548278
+2157298915,Mining Dense Periodic Patterns in Time Series Data,2006,4,44,2,1.0,2134759648,Chang Sheng,0,0.003708468606338,0.082832279151172
+2148485417,A PrÃ¼fer Based Approach to Process Top-k Queries in XML,2009,9,0,3,0.857143,2723171408,Ling Li,0,-2.399568558349525,-0.2761363466063392
+2154642793,Integrating classification and association rule mining,1998,24,1872,2,0.0,2244698799,Bing Liu,0,0.5630497299989513,0.16664419980278897
+2163736554,Increasing confidence of protein interactomes using network topological metrics,2006,21,72,2,1.0,2550645484,Jin Chen,0,-0.1928515158527463,0.29982173495123826
+2160873337,XClust clustering XML schemas for effective integration,2002,28,192,3,0.198649,2159408573,Mong Li Lee,0,-3.3065752680228746,-0.26816723711163726
+2146310406,An Estimation System for XPath Expressions,2006,13,20,3,1.0,2108069467,Hanyu Li,0,-0.9089852439579584,-0.015889450610279708
+2152466832,FARM Feature-Assisted Aggregate Route Mining in Trajectory Data,2009,11,3,2,0.0,2101014498,Shrikant Kashyap,0,-0.4408097375184461,1.718319485675415
+2243208540,k-Consistent Influencers in Network Data,2015,21,2,2,1.0,2139514608,Enliang Xu,0,0.003708468606338,0.082832279151172
+2324632118,DeepDetect An Extensible System for Detecting Attribute Outliers &amp; Duplicates in XML,2009,6,1,2,0.0,2024546921,Qiangfeng Peter Lau,0,-0.5442538671051075,-0.0015272632806924008
+2482287996,Time Series Mining Background and Related Work,2008,0,0,1,1.0,2123778117,Wynne Hsu,0,0.003708468606338,0.082832279151172
+2483944210,Target-Oriented Keyword Search over Temporal Databases,2016,20,2,2,0.0,2566735806,Xianyan Jia,0,-0.5052346369141937,0.263797745661507
+2492299584,Mining Generalized Flow Patterns,2008,0,2,1,1.0,2123778117,Wynne Hsu,0,0.003708468606338,0.082832279151172
+2487410748,Mining Dense Periodic Patterns in Time Series Databases,2008,0,0,1,1.0,2123778117,Wynne Hsu,0,0.003708468606338,0.082832279151172
+2480328502,Scaling SDI systems via query clustering and aggregation,2004,0,0,4,0.0,2649680574,Xi Zhang,0,-0.5102999677177952,0.37516260363408943
+2494622693,Early Works in Spatio-Temporal Mining,2008,0,1,1,1.0,2123778117,Wynne Hsu,0,-0.34841194659538965,-0.10142585373365
+2502926276,Mining Sequence Patterns in Evolving Databases,2008,0,0,1,1.0,2123778117,Wynne Hsu,0,-1.55437708548504,1.324533474608446
+2503133963,Mining Spatio-Temporal Trees,2008,0,1,1,1.0,2123778117,Wynne Hsu,0,0.003708468606338,0.082832279151172
+2505468326,Mining Spatio-Temporal Graph Patterns,2008,0,0,1,1.0,2123778117,Wynne Hsu,0,1.3512023319753825,-2.1012532844874694
+2526455181,Approximate counting of frequent query patterns over XQuery stream,2004,0,0,3,0.0,2952373167,Liang Huai Yang,0,-0.7840531282799945,-0.061708974158587046
+2506179365,Mining Topological Patterns in Spatio-Temporal Databases,2008,0,0,1,1.0,2123778117,Wynne Hsu,0,-0.4666237556358525,0.8815940063506771
+2536210830,Targeted Influence Maximization in Social Networks,2016,25,18,2,1.0,2225645568,Chonggang Song,0,0.003708468606338,0.082832279151172
+2594155699,A histogram-based selectivity estimator for skewed XML data,2005,0,0,3,1.0,2108069467,Hanyu Li,0,-1.1631345423254986,-0.12872794712123248
+2614474146,MAROON+ A System for Profiling Entities over Time,2017,4,0,3,0.666667,2265697202,Furong Li,0,0.003708468606338,0.082832279151172
+2603380002,Profiling Entities over Time in the Presence of Unreliable Sources,2017,27,3,3,0.666667,2265697202,Furong Li,0,0.3062583062380403,-0.07823940416304696
+2615511538,Temporal Influence Blocking Minimizing the Effect of Misinformation in Social Networks,2017,21,7,2,1.0,2225645568,Chonggang Song,0,0.003708468606338,0.082832279151172
+2616861068,Quantifying Aspect Bias in Ordinal Ratings using a Bayesian Approach,2017,20,2,2,0.0,2596631891,Lahari Poddar,0,0.003708468606338,0.082832279151172
+2788949607,Predicting User Reported Drug Side Effects Using a Gated Neural Network,2018,0,0,1,1.0,2123778117,Wynne Hsu,0,0.003708468606338,0.082832279151172
+2131289833,Analyzing the subjective interestingness of association rules,2000,30,197,2,0.0,2244698799,Bing Liu,0,-0.24420977468274038,-0.3055957494520731

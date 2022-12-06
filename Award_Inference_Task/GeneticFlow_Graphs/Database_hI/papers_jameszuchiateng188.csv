@@ -1,0 +1,62 @@
+141761028,Accessing a dataset using an unsupported access method,2004,9,3,2,0.0,2096423998,David R. Schwartz,0,-0.3991442867108126,-0.04075964323128961
+73898972,Providing traditional update semantics when updates change the location of data records,1998,41,10,3,0.8,124605895,Jay A. Yothers,0,-0.165796457764015,-0.34570618985044876
+161396109,Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System,2000,24,1,4,0.23916,2095612124,Kun Lung Wu,0,-0.46893397788284524,0.07728939382804885
+81406824,Method and apparatus for insuring database data integrity without data recovery logging,2000,17,29,2,0.8,124605895,Jay A. Yothers,0,1.1151470192261232,0.7791574405754798
+977330692,Computer program product and program storage device for database access using a shared electronic store in a multi-system environment having shared disks,1996,20,46,3,0.0,1980948203,Tina L. Masatani,0,0.2610214358225607,0.2057523253512879
+250897980,Automatic Maintenance of a Set of Indexes with Different Currency Characteristics in a Database Management System,2011,16,15,3,0.404535,69727675,Namik Hrle,0,-0.0041099411153885,0.0447066884760059
+1516311197,Partial page write detection for a shared cache using a bit pattern written at the beginning and end of each page,1992,14,33,1,1.0,2139556000,James Zu chia Teng,0,-0.0041099411153885,0.0447066884760059
+1026640223,Database system transaction management,2012,44,1,4,0.666667,2112319172,Hong Min,0,1.332093770295791,1.4672489228499708
+1554989761,Method and device for establishing synchronized recovery log points,2002,5,11,2,0.857143,69727675,Namik Hrle,0,-0.8214968644426531,-0.3537392682966973
+1564251130,Method and apparatus for ensuring cache coherency for spawned dependent transactions in a multi-system environment with shared data storage devices,2000,13,27,2,0.636364,2105359700,Jeffrey William Josten,0,0.059730503670363894,0.40187651940820074
+1555494747,Method and system for performing asynchronous preformatting in a database system,2001,5,0,3,0.857143,69727675,Namik Hrle,0,0.28657920230647893,1.4652849864412225
+1564501344,A Performance Study of Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System,1995,22,6,4,0.23916,2095612124,Kun Lung Wu,0,1.8914007082058568,0.5793494412049495
+1484711174,Non-blocking drain method and apparatus for use in processing requests on a resource,2000,22,54,1,1.0,2139556000,James Zu chia Teng,0,0.9870289023227228,0.20712930838234103
+1546859035,Method for minimizing locking and reading in a segmented storage space,1988,4,53,2,0.0,2119754827,Richard Anthony Crus,0,0.49137188028092027,-0.3397909884174751
+1494131211,Technique for determining the age of the oldest reading transaction with a database object,1999,56,16,2,0.8,124605895,Jay A. Yothers,0,0.49346843387005246,0.8637283754277416
+1520579852,COMPUTER PROGRAM PRODUCT AND METHOD FOR DATABASE MANAGEMENT SYSTEM SUPPORTING MULTIPLE TEMPORARY TABLES,2007,6,5,3,0.0,1455252488,RamanaKumari M. Croisettier,0,2.332123575459674,0.4953669281964579
+1549629455,Method and information technology infrastructure for establishing a log point for automatic recovery of federated databases to a prior point in time,2004,10,24,2,0.666667,69727675,Namik Hrle,0,-0.7526158449880789,-0.4182107207577951
+1904053785,Page refreshing procedure using two locking granularities to ensure cache coherency in a multisystem database processing environment having a high-speed shared electronic store,1994,11,47,3,0.0,2049000395,Tina Louise Mukai,0,0.4806634807954758,0.46527319202247636
+1578005944,Efficient destaging of updated local cache pages for a transaction in a multisystem and multiprocess database management system with a high-speed shared electronic store,1994,12,51,3,0.0,2049000395,Tina Louise Mukai,0,0.08714749877850951,0.4329350279734263
+1753229883,Computer program product and program storage device for improving data recovery performance,1995,13,34,1,1.0,2139556000,James Zu chia Teng,0,0.1798016676982244,0.5560426616591364
+1754001111,Scalable storage schemes for native XML column data of relational tables,2005,68,12,2,0.0,2101367023,Fen Ling Lin,0,0.24733469712279477,0.021986914088167154
+1935292416,Computer program product for continuous destaging of changed data from a shared cache in a multisystem shared disk environment wherein castout interest is established in a hierarchical fashion,1995,20,25,1,1.0,2139556000,James Zu chia Teng,0,-0.0041099411153885,0.0447066884760059
+1812864311,Method and apparatus for efficiently recovering from a failure in a database that includes unlogged objects,2000,9,53,2,0.8,124605895,Jay A. Yothers,0,0.30575157137308906,0.10879675118742714
+1766823895,Method of changing the page size of a DB2 table space while keeping the object available,2008,34,13,2,0.555556,124605895,Jay A. Yothers,0,-0.0041099411153885,0.0447066884760059
+1856287612,Method and system for preserving an original table schema,2003,13,24,3,0.0,1994424778,James Alan Ruddy,0,0.581146620164305,0.17886799228742042
+1857797707,Database disaster remote site recovery,1998,27,78,1,1.0,2139556000,James Zu chia Teng,0,-0.0041099411153885,0.0447066884760059
+1893037372,Query parallelism in a shared data DBMS system,1995,8,99,5,0.6,1588441595,Akira Shibamiya,0,-0.0041099411153885,0.0447066884760059
+1947069471,Method system and program for processing modifications to data in tables in a database system,2001,37,15,2,0.338778,2119274332,Julie Ann Watts,0,-0.0341285818996977,0.2433990601332111
+1952571006,System and method for avoiding deadlock situations due to pseudo-deleted entries,2001,21,24,2,0.857143,69727675,Namik Hrle,0,0.9170204323712239,0.5935510315877208
+1997033370,DB2s use of the coupling facility for data sharing,1997,18,48,4,1.0,2105359700,Jeffrey William Josten,0,1.15941583720679,0.24889372652238476
+2087531445,SYSTEM FOR ENSURING REFERENTIAL INTEGRITY IN HIGHLY CONCURRENT DATABASE ENVIRONMENTS,2008,24,8,3,1.0,2118241063,Paramesh S. Desai,0,1.0245473111035643,0.48155609283773915
+2122081473,Bufferpool coherency for identifying and retrieving versions of workfile data using a producing DBMS and a consuming DBMS,1995,18,41,2,0.75,2118241063,Paramesh S. Desai,0,-0.0041099411153885,0.0447066884760059
+2149001708,Method for managing database recovery from failure of a shared store in a system including a plurality of transaction-based systems of the write-ahead logging type,1991,6,140,1,1.0,2139556000,James Zu chia Teng,0,0.8300597902069252,0.910572336533508
+2200049832,System and Method for Increasing Availability of an Index,2006,10,3,2,0.60151,2105359700,Jeffrey William Josten,0,0.330921095119343,0.04180048032730199
+2201205423,Method system and program for using control data structures when performing operations with respect to a database,2001,37,7,2,0.338778,2119274332,Julie Ann Watts,0,-0.0341285818996977,0.2433990601332111
+2262319049,RESTORING DATABASE CONSISTENCY INTEGRITY,2015,7,30,2,0.0,1976574936,Serge Bourbonnais,0,0.9233109473042531,0.5999633093443323
+2211535297,Non-blocking drain method and apparatus used to reorganize data in a database,1997,16,50,1,1.0,2139556000,James Zu chia Teng,0,0.9870289023227228,0.20712930838234103
+2258216625,METHOD FOR SEARCHING A DATA PAGE FOR INSERTING A DATA RECORD,2007,4,11,3,0.538802,69727675,Namik Hrle,0,-0.016197415349538297,0.37436423914732114
+2262884158,System and method for managing temporary storage space of a database management system,2007,7,68,3,0.0,1455252488,RamanaKumari M. Croisettier,0,0.6367550246119872,0.33036241787654863
+2222335309,Point in time recovery support for pending schema definition changes,2015,9,0,2,1.0,2043748458,Laura Michiko Kunioka Weis,0,1.0863978536814325,0.07225815437857294
+2213922960,Castout processing for duplexed cache structures,1999,20,26,7,0.0,226731872,Kelly B. Pushong,0,-0.46893397788284524,0.07728939382804885
+2213954534,System and method for performing just-in-time priming of a database cache,2005,7,7,2,0.621301,69727675,Namik Hrle,0,-0.3652008450463068,0.3160971441695779
+2214678101,System for data structure loading with concurrent image copy,1997,13,15,3,0.9,2043748458,Laura Michiko Kunioka Weis,0,-0.4217836433927773,-0.19384676017360192
+2255048438,Minimizing locking and reading in a segmented storage space,1989,1,7,2,0.0,2119754827,Richard Anthony Crus,0,0.49137188028092027,-0.3397909884174751
+2216234383,XML sub-document versioning method in XML databases using record storages,2008,69,58,1,1.0,2139556000,James Zu chia Teng,0,1.5863572712182665,-0.7262302075035951
+2274344227,Fast system level recovery,2000,9,6,2,0.857143,69727675,Namik Hrle,0,0.8629442155814793,0.9357512755559544
+2217099565,Enhanced identification of relevant database indices,2009,27,2,3,0.497422,69727675,Namik Hrle,0,0.38009049917121435,0.45246057348231067
+2265678121,Defer dataset creation to improve system manageability for a database system,2000,13,25,2,0.857143,69727675,Namik Hrle,0,2.907073149995782,0.7657230097221537
+2275511257,Method system and program for managing file names during the reorganization of a database object,1999,16,43,1,1.0,2139556000,James Zu chia Teng,0,0.37313590474676805,0.19354646516051943
+2289049346,DBMS backup without suspending updates and corresponding recovery using separately stored log and data files,2003,5,70,3,0.777778,69727675,Namik Hrle,0,0.06766223656193374,0.5688454753950332
+2294361005,System and method for minimizing data outage time and data loss while handling errors detected during recovery,2005,8,12,3,1.0,2043748458,Laura Michiko Kunioka Weis,0,0.6713730957760147,0.8436751936689062
+2285219731,System and method for real time statistics collection for use in the automatic management of a database system,2002,4,36,3,0.857143,69727675,Namik Hrle,0,2.7707200686782074,0.8603876807908128
+2285507874,Piecemeal list prefetch,2010,37,8,1,1.0,2139556000,James Zu chia Teng,0,-0.0041099411153885,0.0447066884760059
+2278974263,System and method for improving data recovery performance,1993,13,54,1,1.0,2139556000,James Zu chia Teng,0,0.1798016676982244,0.5560426616591364
+2279008999,System for controlling concurrent access to data in a database system,2008,27,6,3,0.5,1792692085,Tanya Couch,0,0.221423897897152,-0.21080654779612165
+2399034730,Method and system for controlling concurrent access to data in a database system,2007,20,6,3,0.5,1792692085,Tanya Couch,0,0.221423897897152,-0.21080654779612165
+2397577998,Managing database recovery from failure,1992,6,3,1,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2417703505,Incremental indexing of a database table in a database,2005,15,5,2,0.621301,69727675,Namik Hrle,0,0.36097085081799196,-0.1582967557564097
+2726128274,Verwaltung von Datenbankwiederherstellung nach Fehler Managing database recovery error,1992,0,0,1,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2801966670,Managing database recovery error,1992,0,0,1,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2797288035,Verwaltung von Datenbankwiederherstellung nach Fehler Managing database Failure Recovery,1992,0,0,1,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2923154369,Transaction management for database systems,2013,0,0,3,0.666667,2112319172,Hong Min,0,0.6257614022848299,0.8821264018770152

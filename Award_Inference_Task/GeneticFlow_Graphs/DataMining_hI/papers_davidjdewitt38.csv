@@ -1,0 +1,85 @@
+189216878,Query optimization for object-relational database systems,1999,0,2,1,1.0,1979791317,David J. DeWitt,0,-0.5207388606918844,0.13779230513221863
+54838500,The oo7 Benchmark,1993,0,268,2,0.154381,2157114695,Michael J. Carey,0,0.003708468606338,0.082832279151172
+76302610,Physical database design in multiprocessor database systems,1990,0,12,2,0.857143,326002240,Shahram Ghandeharizadeh,0,-0.7525172656815939,0.4981663764642411
+161273498,Content-Based Routing for Continuous Query-Optimization,2004,37,1,2,0.0,671527850,Jennifer Widom,0,-0.0395804122397981,0.0068802457672825015
+197068462,The BUCKY Object-Relational Benchmark (Experience Paper),1997,0,12,2,0.111879,2157114695,Michael J. Carey,0,0.003708468606338,0.082832279151172
+11135144,Buffer Pool Aware Query Optimization,2005,20,20,1,1.0,1979791317,David J. DeWitt,0,-0.20015963301588707,0.06171675920835237
+97688014,Adaptive query processing dealing with incomplete and uncertain statistics,2006,0,1,1,1.0,1979791317,David J. DeWitt,0,-0.0395804122397981,0.0068802457672825015
+165358723,A performance evaluation of data base machine architectures (invited paper),1981,18,39,1,1.0,1979791317,David J. DeWitt,0,-2.089829068490424,0.7745898338813348
+167967007,Scalable Anonymization Algorithms for Large Data Sets,2007,23,7,1,1.0,1979791317,David J. DeWitt,0,0.08551194799620998,0.4064946334309461
+1505216615,Of Objects and Databases A Decade of Turmoil,1996,33,79,2,0.154381,2157114695,Michael J. Carey,0,-2.2564221754121743,0.6877012961394852
+1479794690,Efficient database support for spatial applications,1998,0,5,1,1.0,1979791317,David J. DeWitt,0,-0.2410254018189751,0.3643529156731262
+1552081212,Benchmarking Database Systems A Systematic Approach,1983,19,368,2,0.0,2187178799,Dina Bitton,0,-2.313645249663582,0.7164192504807321
+1519356465,A multiuser performance analysis of alternative declustering strategies,1990,7,63,2,0.857143,326002240,Shahram Ghandeharizadeh,0,-1.1563545377131441,0.48138875559711564
+1546901246,The Object-Oriented Database System Manifesto,1990,0,80,3,0.0,2630309651,Malcolm P. Atkinson,0,-2.655390436031904,0.872738131510524
+1520815598,An evaluation of buffer management strategies for relational database systems,1998,27,324,2,0.0,2654981181,Hong Tai Chou,0,-1.5827288296813182,0.4774007512146728
+1549548206,Turning Cluster Management into Data Management A System Overview,2006,5,13,2,0.0,2695337468,Eric R. Robinson,0,-0.24631475925461466,0.01662727508514165
+1604438401,Dynamic Memory Allocation for Multiple-Query Workloads,1993,19,65,2,0.0,2608244303,Manish Mehta,0,0.003708468606338,0.082832279151172
+1605220130,A Framework for Research in Database Management for Statistical Analysis,1982,9,17,3,0.0,2984250323,Douglas M. Bates,0,-0.9030742041589103,0.16762590466335445
+1589269155,Equi-Depth Histograms For Estimating Selectivity Factors For Multi-Dimensional Queries,1988,0,290,2,0.0,364421747,M. Muralikrishna,0,0.003708468606338,0.082832279151172
+1600074786,A study of three alternative workstation server architectures for object-oriented database systems,1990,24,183,2,0.0,86093265,Philippe Futtersack,0,-2.298994183241967,0.7299417017359574
+1600790609,Scalable distributed aggregate computations through collaboration,2005,21,1,2,1.0,281624977,Leonidas Galanis,0,0.36961615338683507,0.04520172406723675
+1655092483,Limiting disclosure in hippocratic databases,2004,24,210,6,0.923077,2197775253,Kristen LeFevre,0,0.003708468606338,0.082832279151172
+1964941055,Scientific data management in the coming decade,2005,7,391,5,0.0,2131537204,Jim Gray,0,0.06390315086053074,0.10379675113621373
+1982431534,The 007 Benchmark,1993,11,254,1,1.0,1979791317,David J. DeWitt,0,-1.2811077598152805,0.2994591301609085
+1975663418,A framework for research in database management for statistical analysis or a primer on statistical database management problems for computer scientists,1982,14,16,2,1.0,234283818,Haran Boral,0,-1.7951993414312308,0.48918890532060527
+1975731516,Efficient mid-query re-optimization of sub-optimal query execution plans,1998,24,330,2,0.8,2013975448,Navin Kabra,0,-0.01657107088421793,0.035389748403282274
+1986456068,Design considerations for data-flow database machines,1980,16,24,2,0.0,234283818,Haran Boral,0,-1.943199341075666,0.7059423340554846
+1967261084,An object-oriented approach to database system implementation,1981,22,29,2,0.0,2082032579,A. James Baroody,0,-2.3277025953621595,0.5886740989775184
+1972873066,Using a knowledge cache for interactive discovery of association rules,1999,15,59,3,1.0,2132951038,Biswadeep Nag,0,0.323372247620234,0.4071655075144818
+1966080685,Memory allocation strategies for complex decision support queries,1998,16,23,2,1.0,2132951038,Biswadeep Nag,0,0.0644818988688213,0.4660528257840121
+1967831627,K-Anonymization as Spatial Indexing Toward Scalable and Incremental Anonymization,2007,30,75,2,0.0,2280176947,Tochukwu Iwuchukwu,0,0.3800248960556045,0.4907458344035158
+1994694191,On supporting containment queries in relational database management systems,2001,23,765,3,0.0,2243929405,Chun Zhang,0,-0.5327320489132868,0.33566787600945197
+1987833590,A performance analysis of the gamma database machine,1988,14,103,1,1.0,1979791317,David J. DeWitt,0,-1.1563545377131441,0.48138875559711564
+2017369298,A demonstration of SciDB a science-oriented DBMS,2009,13,144,11,0.0,2308794080,Philippe CudrÃ© Mauroux,0,-0.3913489528855849,0.25537854383647085
+2010640875,The BUCKY object-relational benchmark,1997,6,68,2,0.0,156508372,Mohammad Asgarian,0,-1.1929349726082874,-0.06816410858651675
+2020191321,Duplicate record elimination in large data files,1983,5,174,2,0.0,2187178799,Dina Bitton,0,-0.7202754458453808,0.22984119938678974
+2040221294,Accessing out-of-tuple data a performance study,2000,19,0,2,0.0,2141612637,Johan Larson,0,-0.6221133834685949,0.6162314889490129
+2050945457,A performance analysis of alternative multi-attribute declustering strategies,1992,11,67,2,0.857143,326002240,Shahram Ghandeharizadeh,0,0.1656019551103819,0.40049106199639006
+2043934800,Implementation techniques for main memory database systems,1984,11,744,1,1.0,1979791317,David J. DeWitt,0,0.003708468606338,0.082832279151172
+2046437776,Equi-depth multidimensional histograms,1988,7,170,2,0.0,364421747,M. Muralikrishna,0,0.003708468606338,0.082832279151172
+2076846149,A methodology for database system performance evaluation,1984,9,58,2,1.0,234283818,Haran Boral,0,-2.2872360776085263,0.7243947789113159
+2055958975,The Asilomar report on database research,1998,0,207,3,0.0,2131060504,Michael L. Brodie,0,0.003708468606338,0.082832279151172
+2063601856,A case for fractured mirrors,2003,24,174,2,0.0,2170484661,Ravishankar Ramamurthy,0,-0.17618024726016218,0.1675044047514601
+2069171221,Workload-aware anonymization,2006,28,183,2,1.0,2197775253,Kristen LeFevre,0,0.003708468606338,0.082832279151172
+2076266051,Rethinking the conference reviewing process,2004,0,3,5,0.0,53579654,Zachary G. Ives,0,0.003708468606338,0.082832279151172
+2080427212,The Gamma database machine project,1990,29,604,1,1.0,1979791317,David J. DeWitt,0,-1.3810416231629263,0.5830151217026935
+2089603704,Impact of double-blind reviewing on SIGMOD publication rates,2006,0,19,2,0.0,2139913828,Samuel Madden,0,-0.3291976808020441,-0.13703470885516322
+2097363087,Progressive Parametric Query Optimization,2009,40,53,3,0.250763,1993580219,Pedro Bizarro,0,-0.0395804122397981,0.0068802457672825015
+2088233737,Proceedings of the 2002 ACM SIGMOD international conference on Management of data,2002,0,0,1,1.0,1979791317,David J. DeWitt,0,0.03426762328772831,-0.26668485538
+2120176307,Locating data sources in large distributed systems,2003,33,126,4,1.0,281624977,Leonidas Galanis,0,0.003708468606338,0.082832279151172
+2114474644,How to barter bits for chronons compression and bandwidth trade offs for database scans,2007,22,62,4,1.0,2128073122,Allison L. Holloway,0,-0.991356360023458,0.5267203163814829
+2132461362,NiagaraCQ a scalable continuous query system for Internet databases,2000,15,1093,2,0.857143,2670883443,Jianjun Chen,0,-0.6377700240213182,0.056007692258660216
+2129554248,Mixed mode XML query processing,2003,23,92,11,0.0,2040370899,Alan Halverson,0,-2.5677781089562366,-0.24848853139103275
+2135581534,Mondrian Multidimensional K-Anonymity,2006,18,845,2,1.0,2197775253,Kristen LeFevre,0,0.003708468606338,0.082832279151172
+2123866731,Can the elephants handle the NoSQL onslaught,2012,7,73,3,0.0,66563207,Avrilia Floratou,0,-0.3432339913428128,0.10357248905439612
+2141922908,The TEXTURE benchmark measuring performance of text queries on a relational DBMS,2005,18,21,2,0.0,293843641,Vuk Ercegovac,0,-0.6176383964444557,0.23347648848963662
+2109626831,Read-optimized databases in depth,2008,17,48,2,1.0,2128073122,Allison L. Holloway,0,-1.9313700486771586,0.5331470965584314
+2139445852,Split query processing in polybase,2013,6,103,1,1.0,1979791317,David J. DeWitt,0,-0.5207388606918844,0.13779230513221863
+2121866233,OPT++ an object-oriented implementation for extensible database query optimization,1999,30,53,2,0.8,2013975448,Navin Kabra,0,-0.3905865466863907,0.04753626373896905
+2125233616,Partition based spatial-merge join,1996,37,319,2,0.0,2155925739,Jignesh M. Patel,0,-1.9806427899195467,0.3985211905126069
+2143452574,Proactive re-optimization,2005,29,129,3,0.0,2272704701,Shivnath Babu,0,0.003708468606338,0.082832279151172
+2108072325,The design and performance evaluation of alternative XML storage strategies,2002,18,173,2,0.0,2303518010,Feng Tian,0,-2.5580813651235483,-0.2615832031328502
+2134783839,Recovery architectures for multiprocessor database machines,1985,17,21,2,0.0,2537924216,Rakesh Agrawal,0,-0.8765513642652599,0.3057479496764179
+2114303224,A comparison of approaches to large-scale data analysis,2009,16,942,5,0.0,1916729783,Andrew Pavlo,0,0.26453932746379555,0.6766589335764451
+2165286227,Relational Databases for Querying XML Documents Limitations and Opportunities,1999,18,965,5,0.0,1989847040,Jayavel Shanmugasundaram,0,-2.399568558349525,-0.2761363466063392
+2150528099,Integrating databases and workflow systems,2005,22,41,3,1.0,2762206094,Srinath Shankar,0,0.26684944019167883,0.8882062383482163
+2171668176,Clustera an integrated computation and data management system,2008,16,100,1,1.0,1979791317,David J. DeWitt,0,-0.8792122677407951,0.20022285527734468
+2144839430,Materialization Strategies in a Column-Oriented DBMS,2007,15,191,3,0.0,2170206103,Daniel J. Abadi,0,0.030798057173998507,0.5246527383538117
+2160091496,Design and evaluation of alternative selection placement strategies in optimizing continuous queries,2002,25,103,2,0.857143,2670883443,Jianjun Chen,0,0.003708468606338,0.082832279151172
+2151330613,Not just correct but correct and fast a look at one of Jim Grays contributions to database system performance,2008,3,5,1,1.0,1979791317,David J. DeWitt,0,0.003708468606338,0.082832279151172
+2148646461,Proactive re-optimization with Rio,2005,5,13,3,0.0,2272704701,Shivnath Babu,0,-0.5951710996417344,-0.47483291956511325
+2160639133,A single user evaluation of the Gamma database machine,1989,16,17,1,1.0,1979791317,David J. DeWitt,0,-0.867175422103562,0.4288974197170547
+2160963784,Query optimization in microsoft SQL server PDW,2012,7,26,9,0.0,2155586260,Srinath Shankar,0,-0.5207388606918844,0.13779230513221863
+2161030490,Incognito efficient full-domain K-anonymity,2005,22,897,2,1.0,2197775253,Kristen LeFevre,0,0.003708468606338,0.082832279151172
+2158141386,The EXODUS optimizer generator,1987,32,252,2,0.0,2284116839,Goetz Graefe,0,-0.2561838828754262,0.06530370549699158
+2152593687,X-Diff an effective change detection algorithm for XML documents,2003,22,347,2,0.0,2984899462,Y. Wang,0,-2.5514828200572746,-0.3041009454148215
+2146750584,Database support for matching limitations and opportunities,2006,20,9,4,1.0,2169239594,Ameet Kini,0,-0.6581330205218655,0.585388052995421
+2164812149,Workload-aware anonymization techniques for large-scale datasets,2008,49,93,2,0.827586,2197775253,Kristen LeFevre,0,0.3248010078281875,0.30816709753212956
+2268323510,Applying data flow techniques to data base machines,1989,0,0,2,0.692308,234283818,Haran Boral,0,0.003708468606338,0.082832279151172
+2205031991,A data model and query language for EXODUS,1988,30,267,2,0.154381,2157114695,Michael J. Carey,0,-0.7481060376613252,0.27608118493243683
+2292514870,Adaptive and Robust Query Processing with SHARP,2006,43,6,1,1.0,1979791317,David J. DeWitt,0,-0.6200406826018111,0.6248582937605253
+2295868080,Indexing HDFS data in PDW splitting the data from the index,2014,6,14,5,0.0,2761130755,Vinitha Reddy Gankidi,0,-0.8570362992266555,0.2706407528604849
+2502537832,Anonymization techniques for large and dynamic data sets,2007,0,1,1,1.0,1979791317,David J. DeWitt,0,0.30942554269090883,0.3582471631783735
+2548245604,Not for the timid on the impact of aggressive over-booking in the cloud,2016,24,4,3,0.0,2102229717,Willis Lang,0,-0.3291976808020441,-0.13703470885516322
+2614730818,Predictive Provisioning Efficiently Anticipating Usage in Azure SQL Database,2017,14,2,7,0.0,2614217062,Lalitha Viswanathan,0,0.6896060653283616,1.007137492506928

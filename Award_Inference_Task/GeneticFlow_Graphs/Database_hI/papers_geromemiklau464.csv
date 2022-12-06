@@ -1,0 +1,50 @@
+38561354,Cryptographically Enforced Conditional Access for XML,2002,0,17,1,1.0,2302554261,Gerome Miklau,0,2.5959673058405155,-1.0909827089576518
+147205932,Enabling Secure Data Exchange,2004,26,2,1,1.0,2302554261,Gerome Miklau,0,0.09113627765676828,-0.2903269701312576
+46555105,Managing Integrity for Data Exchanged on the Web,2005,19,9,1,1.0,2302554261,Gerome Miklau,0,-0.0041099411153885,0.0447066884760059
+149655877,Databases and Social Networks,2011,0,0,2,0.0,2117262728,Denilson Barbosa,0,-0.0041099411153885,0.0447066884760059
+1499220070,Controlling access to published data using cryptography,2003,24,286,1,1.0,2302554261,Gerome Miklau,0,1.961956619017384,-0.7547880861504828
+1555707950,Implementing a tamper-evident database system,2005,19,21,1,1.0,2302554261,Gerome Miklau,0,0.18162526111437743,-0.22477022300236796
+1511176748,Modeling integrity in data exchange,2004,18,8,1,1.0,2302554261,Gerome Miklau,0,-0.0351457794780435,-0.11612098710648991
+1565672999,Self-interested database managers playing the view maintenance game,2008,17,3,3,0.0,2002674788,Hala Mostafa,0,1.2454212057820995,0.41215346844585943
+1446333884,The matrix mechanism optimizing linear counting queries under differential privacy,2015,36,31,2,1.0,2600472640,Chao Li,0,-0.0041099411153885,0.0447066884760059
+1962705364,Scalable probabilistic databases with factor graphs and MCMC,2010,28,72,3,0.0,2116279603,Michael Wick,0,2.2325430335347614,0.42604181503359256
+1648725739,Efficient Batch Query Answering Under Differential Privacy,2011,12,8,2,1.0,2600472640,Chao Li,0,-0.0041099411153885,0.0447066884760059
+1601184778,A data- and workload-aware algorithm for range queries under differential privacy,2014,20,62,3,1.0,2600472640,Chao Li,0,0.3820908385543769,0.2117467783858426
+1969783316,Processing XML streams with deterministic automata and stream indexes,2004,41,172,3,0.0,2134590689,Todd J. Green,0,2.3914808578078586,-0.8666755907595982
+1989291641,A Theory of Pricing Private Data,2014,36,58,3,1.0,2600472640,Chao Li,0,-0.0041099411153885,0.0447066884760059
+1988287322,Differential privacy in data publication and analysis,2012,43,51,3,0.0,2280962535,Yin Yang,0,-0.0041099411153885,0.0447066884760059
+2028628865,Generating private synthetic databases for untrusted system evaluation,2014,32,11,2,1.0,2100370277,Wentian Lu,0,0.541048792242954,0.14109191976847427
+2045072234,An adaptive mechanism for accurate query answering under differential privacy,2012,19,84,2,1.0,2600472640,Chao Li,0,-0.0041099411153885,0.0447066884760059
+2128926641,AuditGuard a system for database auditing under retention restrictions,2008,11,5,2,1.0,2100370277,Wentian Lu,0,-0.32198876610509086,-0.2038331671539402
+2117366493,Threats to privacy in the forensic analysis of database systems,2007,29,78,2,0.0,2657914630,Patrick Stahlberg,0,1.61467391430006,0.6357732416200434
+2138356326,The Piazza peer data management project,2003,25,191,9,0.0,1933908129,Igor Tatarinov,0,0.18601297105691045,-0.0008472885667257998
+2141859565,Optimizing Histogram Queries under Differential Privacy,2009,17,11,4,1.0,2600472640,Chao Li,0,-0.0041099411153885,0.0447066884760059
+2136661217,A formal analysis of information disclosure in data exchange,2004,24,139,1,1.0,2302554261,Gerome Miklau,0,0.33598610067911727,-0.22202930765203877
+2130792723,Privacy-aware data management in information networks,2011,52,25,3,0.882353,2111172571,Michael Hay,0,0.18601297105691045,-0.0008472885667257998
+2156379346,Rule-based application development using Webdamlog,2013,8,4,3,0.0,172400696,Serge Abiteboul,0,0.056626613313110905,0.2771293854319399
+2171765387,Securing history Privacy and accountability in database systems,2007,38,60,1,1.0,2302554261,Gerome Miklau,0,-0.32198876610509086,-0.2038331671539402
+2151257443,Auditing a Database under Retention Restrictions,2009,29,18,2,1.0,2100370277,Wentian Lu,0,0.11340576750831355,-0.0635160709000768
+2155196944,Auditing a database under retention policies,2013,42,9,2,1.0,2100370277,Wentian Lu,0,0.12290066927513103,-0.11734595136792815
+2155218849,Introducing Access Control in Webdamlog,2013,5,2,3,0.0,172400696,Serge Abiteboul,0,-0.41117747414234795,0.7847345770559119
+2155974885,Collaborative Access Control in WebdamLog,2015,23,10,4,0.0,286971601,Vera Zaychik Moffitt,0,0.14629511261080963,0.022432415540879398
+2217200224,Principled Evaluation of Differentially Private Algorithms using DPBench,2016,29,43,3,0.794118,2111172571,Michael Hay,0,0.3820908385543769,0.2117467783858426
+2405382494,Private Database Synthesis for Outsourced System Evaluation,2011,12,8,2,0.0,2114813355,Vani Gupta,0,-0.0041099411153885,0.0447066884760059
+2399897640,Pricing Aggregate Queries in a Data Marketplace,2012,9,34,2,1.0,2600472640,Chao Li,0,0.37503078478399493,0.2498193701410364
+2433757921,Exploring Privacy-Accuracy Tradeoffs using DPComp,2016,5,1,3,0.794118,2111172571,Michael Hay,0,-0.0041099411153885,0.0447066884760059
+2576666783,Data responsibly Fairness neutrality and transparency in data analysis,2016,24,13,3,0.0,29980631,Julia Stoyanovich,0,0.16961816653767703,0.31221718520020947
+2508220252,A Consumer-Centric Market for Database Computation in the Cloud,2016,70,2,3,0.857143,2619960224,Yue Wang,0,0.2946713761785912,0.4027268098681643
+2560909194,Lifting the haze off the cloud a consumer-centric market for database computation in the cloud,2016,49,0,3,0.857143,2619960224,Yue Wang,0,0.2946713761785912,0.4027268098681643
+2622479609,Fides Towards a Platform for Responsible Data Science,2017,30,14,4,0.0,29980631,Julia Stoyanovich,0,-0.026043388670241648,-0.1514020116204905
+2613872436,Pythia Data Dependent Differentially Private Algorithm Selection,2017,24,19,4,1.0,2583951938,Ios Kotsogiannis,0,0.3820908385543769,0.2117467783858426
+2612517027,DIAS Differentially Private Interactive Algorithm Selection using Pythia,2017,3,0,4,1.0,2583951938,Ios Kotsogiannis,0,-0.0041099411153885,0.0447066884760059
+2764863051,A Data- and Workload-Aware Query Answering Algorithm for Range Queries Under Differential Privacy,2014,0,19,3,1.0,2600472640,Chao Li,0,0.3359232877314448,0.4318220901682415
+2798603477,RC-Index Diversifying Answers to Range Queries,2018,0,3,3,0.857143,2619960224,Yue Wang,0,0.3820908385543769,0.2117467783858426
+2799199026,IoT-Detective Analyzing IoT Data Under Differential Privacy,2018,10,5,6,0.0,2799104272,Sameera Ghayyur,0,-0.42845202490949574,0.1450203979855267
+2889165464,Panel a debate on data and algorithmic ethics,2018,22,1,4,0.0,29980631,Julia Stoyanovich,0,0.18601297105691045,-0.0008472885667257998
+2913884669,Architecting a Differentially Private SQL Engine,2019,0,2,4,1.0,2583951938,Ios Kotsogiannis,0,0.044859856903840555,0.012551371775477651
+2911687643,Session details Research session 1 security I,2009,0,0,1,1.0,2302554261,Gerome Miklau,0,-0.0041099411153885,0.0447066884760059
+2946911894,Fair Decision Making using Privacy-Protected Data,2019,25,2,6,0.0,3000939229,Satya Kuppam,0,-0.0041099411153885,0.0447066884760059
+2950160647,Scalable Probabilistic Databases with Factor Graphs and MCMC,2010,25,0,3,0.0,2116279603,Michael Wick,0,1.7971999111315309,0.44306712034279666
+2951247030,Rule-Based Application Development using Webdamlog,2013,8,2,3,0.0,172400696,Serge Abiteboul,0,-0.0041099411153885,0.0447066884760059
+2970408474,PrivateSQL a differentially private SQL query engine,2019,35,5,7,1.0,2583951938,Ios Kotsogiannis,0,0.8953894494148238,0.29140348813062505
+2971313243,PSynDB accurate and accessible private data generation,2019,10,1,4,0.0,2970234008,Zhiqi Huang,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,49 @@
+148059222,stream p u Storage-centric Load Management for Data Streams with Update Semantics,2009,27,0,1,1.0,679539391,Nesime Tatbul,0,-0.42845202490949574,0.1450203979855267
+1490860265,QoS-Driven Load Shedding on Data Streams,2002,17,19,1,1.0,679539391,Nesime Tatbul,0,-0.2745762292053669,0.10240794179076973
+1510252230,Load shedding in a data stream manager,2003,16,534,1,1.0,679539391,Nesime Tatbul,0,0.4184645470983872,-0.7036173679100631
+1537474906,Federated Stream Processing Support for Real-Time Business Intelligence Applications,2009,17,20,7,0.888889,1922738813,Irina Botan,0,0.6071652198271595,-0.052130468748679604
+1494794995,METU-Emar An Agent-Based Electronic Marketplace on the Web,1998,14,6,5,0.0,582313750,Asuman Dogac,0,0.3048617238794347,-0.5538100277514488
+1539153042,S-Store streaming meets transaction processing,2015,36,40,2,1.0,2103918798,John Meehan,0,2.411513802249899,2.2780866814479004
+1739838743,Changing flights in mid-air,2011,0,0,1,1.0,679539391,Nesime Tatbul,0,-0.0041099411153885,0.0447066884760059
+1805348380,Incremental DNA sequence analysis in the cloud,2012,14,5,4,0.0,2012098545,Romeo Kienzler,0,-0.0041099411153885,0.0447066884760059
+1819711377,The MARIFlow Workflow Management System,2000,0,0,6,0.0,582313750,Asuman Dogac,0,0.6847670430111485,1.6725503866550526
+1976222091,Transactional stream processing,2012,28,27,1,1.0,679539391,Nesime Tatbul,0,1.5137427329280495,1.32948014087147
+1997332627,Retrospective on Aurora,2004,16,142,9,0.0,1998464616,Hari Balakrishnan,0,0.16782124802273696,0.2536234597393226
+2019006852,A demonstration of the MaxStream federated stream processing system,2010,6,16,11,0.888889,1922738813,Irina Botan,0,0.41208927171366594,0.084179380070544
+2043659689,A workflow-based electronic marketplace on the Web,1998,12,17,4,0.0,582313750,Asuman Dogac,0,1.1445130663674012,0.9181199749525183
+2049142788,Report on the Seventh International Workshop on Business Intelligence for the Real Time Enterprise (BIRTE 2013),2015,0,1,4,0.0,2148997595,Malu Castellanos,0,-0.12511801802904757,0.49851148136115314
+2062735494,Aurora a data stream management system,2003,2,227,12,0.545455,2170206103,Daniel J. Abadi,0,0.10064988314788967,-0.46637949905878545
+2056259203,DejaVu declarative pattern matching over live and archived streams of events,2009,8,62,4,1.0,125133054,Nihal Dindar,0,0.05619360771272594,0.26342128206411286
+2067082584,Efficient Stream Provenance via Operator Instrumentation,2014,32,11,4,0.410079,1263411180,Boris Glavic,0,-0.42845202490949574,0.1450203979855267
+2065453939,The ETH Zurich systems group and enterprise computing center,2009,13,0,4,0.0,2122271048,Gustavo Alonso,0,0.18601297105691045,-0.0008472885667257998
+2100305431,Are we experiencing a big data bubble,2014,4,14,2,0.0,2026396360,Fatma Ozcan,0,-0.10734367370741837,0.7715662559681357
+2099360200,Ariadne managing fine-grained provenance on data streams,2013,35,14,4,0.444444,1263411180,Boris Glavic,0,-0.42845202490949574,0.1450203979855267
+2129088288,Modeling the execution semantics of stream processing engines with SECRET,2013,15,43,2,1.0,125133054,Nihal Dindar,0,-0.42845202490949574,0.1450203979855267
+2115503987,The Design of the Borealis Stream Processing Engine,2005,49,1213,9,0.545455,2170206103,Daniel J. Abadi,0,-0.2604779221923832,-0.8100599136881583
+2118828104,Monitoring streams a new class of data management applications,2002,29,794,1,1.0,679539391,Nesime Tatbul,0,0.25087424620461,-0.7108135908800189
+2130634815,Changing flights in mid-air a model for safely modifying continuous queries,2011,20,13,4,0.882353,2042752485,Kyumars Sheykh Esmaili,0,-0.0041099411153885,0.0447066884760059
+2124988342,Distributed operation in the Borealis stream processing engine,2005,12,71,9,0.204035,2699773473,Yanif Ahmad,0,-0.768518592518131,-0.29443816332643097
+2143928465,Dealing with Overload in Distributed Stream Processing Systems,2006,14,27,1,1.0,679539391,Nesime Tatbul,0,-0.34857978327751216,-0.2513987233039086
+2150397765,Window-aware load shedding for aggregation queries over data streams,2006,30,144,1,1.0,679539391,Nesime Tatbul,0,0.007334245363849856,0.0884093997571545
+2150502657,Stream as You Go The Case for Incremental Data Access and Processing in the Cloud,2012,25,26,4,0.0,2012098545,Romeo Kienzler,0,0.014761475802124743,-0.28284513022731284
+2144973160,S-Store a streaming NewSQL system for big velocity applications,2014,7,51,10,0.0,11059210,Ugur Cetintemel,0,0.8908893349317512,1.4955192263223913
+2156972533,SECRET a model for analysis of the execution semantics of stream processing systems,2010,12,81,6,0.888889,1922738813,Irina Botan,0,-0.0041099411153885,0.0447066884760059
+2151795750,Plan-based complex event detection across distributed sources,2008,19,118,3,0.0,2086508233,Mert Akdere,0,0.4169901767344631,-0.03181084648581779
+2145813311,UpStream storage-centric load management for streaming applications with update semantics,2011,31,7,3,0.0,2141856266,Alexandru Moga,0,-0.9890578925760911,0.4467568181898111
+2158238403,Flexible and scalable storage management for data-intensive stream processing,2009,16,33,5,0.888889,1922738813,Irina Botan,0,0.8140596460152509,0.20479544869174804
+2149576945,Aurora a new model and architecture for data stream management,2003,31,1378,8,0.545455,2170206103,Daniel J. Abadi,0,-0.10022027321948469,-0.42222548714105584
+2158732813,Streaming data integration Challenges and opportunities,2010,20,35,1,1.0,679539391,Nesime Tatbul,0,-0.10908238302075822,-0.0768040518807869
+2171145370,Staying FIT efficient load shedding techniques for distributed stream processing,2007,21,120,1,1.0,679539391,Nesime Tatbul,0,-0.0041099411153885,0.0447066884760059
+2292449291,A demonstration of the BigDAWG polystore system,2015,14,68,16,0.0,2094668902,Aaron J. Elmore,0,-1.1827367149308514,-0.8784169284375828
+2292999916,UpStream A StorageÂ­centric Load Management System for RealÂ­time Update Streams,2011,10,2,1,1.0,679539391,Nesime Tatbul,0,-0.42845202490949574,0.1450203979855267
+2394608779,Letter from the Associate Editors,2012,0,0,1,1.0,679539391,Nesime Tatbul,0,-0.0041099411153885,0.0447066884760059
+2485234578,The Aurora and Borealis Stream Processing Engines,2016,13,17,13,0.0,11059210,Ugur Cetintemel,0,0.5098799609193442,0.42767421287971297
+2583699183,Data Ingestion for the Connected World,2017,17,39,4,1.0,2103918798,John Meehan,0,0.21577163260080365,-0.24872726926932498
+2754950504,Towards Dynamic Data Placement for Polystore Ingestion,2017,23,0,3,0.6,2307212879,Jiang Du,0,0.07717978834452721,0.00031769680775239895
+2803894241,Ariadne Managing Fine-Grained Provenance on Data Streams,2012,0,1,4,0.444444,1263411180,Boris Glavic,0,-0.42845202490949574,0.1450203979855267
+2883078343,S-Store streaming meets transaction processing,2015,0,0,2,1.0,2103918798,John Meehan,0,0.9408492071308692,0.912959594064505
+2912889688,Session details Research session 5 large-scale data analysis,2009,0,0,1,1.0,679539391,Nesime Tatbul,0,-0.0041099411153885,0.0447066884760059
+2911620215,Session details Industry session 1 real-time/complex data analytics,2014,0,0,1,1.0,679539391,Nesime Tatbul,0,-0.37538904668272804,-0.1679513215203286
+2911965339,Tools for Advanced Time Series Analytics Enabling the Future,2019,0,0,1,1.0,679539391,Nesime Tatbul,0,-0.0041099411153885,0.0447066884760059
+2920653337,Transactional Stream Processing,2018,0,0,1,1.0,679539391,Nesime Tatbul,0,-0.0041099411153885,0.0447066884760059
+2951455322,S-Store Streaming Meets Transaction Processing,2015,21,5,2,1.0,2103918798,John Meehan,0,1.641530967974413,1.4676622704682576

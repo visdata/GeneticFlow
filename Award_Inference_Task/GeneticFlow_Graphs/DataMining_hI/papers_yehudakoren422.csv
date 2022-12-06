@@ -1,0 +1,38 @@
+72755324,Proceedings of the 2nd KDD Workshop on Large-Scale Recommender Systems and the Netflix Prize Competition,2008,0,6,2,0.0,2057138063,Alexander Tuzhilin,0,0.288912424204981,0.32144512378109413
+43016992,Collaborative filtering on ordinal user feedback,2013,11,14,1,1.0,2781213378,Yehuda Koren,0,0.8776680742443249,0.45208381503500666
+1515355900,Methods and Apparatus for Improved Neighborhood Based Analysis in Ratings Estimation,2008,4,20,2,0.857143,2148013773,Robert M. Bell,0,0.003708468606338,0.082832279151172
+1553904810,Methods and Apparatus for Modeling Relationships at Multiple Scales in Ratings Estimation,2008,6,29,2,0.857143,2148013773,Robert M. Bell,0,0.003708468606338,0.082832279151172
+1539495721,Method and apparatus for measuring and extracting proximity in networks,2010,6,6,2,0.0,2172281910,Stephen C. North,0,0.003708468606338,0.082832279151172
+1608400650,Bootstrapping recommender system and method,2010,27,3,2,1.0,2642611369,Nadav Golbandi,0,0.08329114195231535,0.32893178638165566
+1917843021,Recommender System Utilizing Collaborative Filtering Combining Explicit and Implicit Feedback with both Neighborhood and Latent Factor Models,2008,36,54,1,1.0,2781213378,Yehuda Koren,0,0.8776680742443249,0.45208381503500666
+1971460272,OrdRec an ordinal model for predicting personalized item rating distributions,2011,20,126,1,1.0,2781213378,Yehuda Koren,0,0.8776680742443249,0.45208381503500666
+1994389483,Factorization meets the neighborhood a multifaceted collaborative filtering model,2008,23,2211,1,1.0,2781213378,Yehuda Koren,0,0.09424204944061358,0.5901926899261324
+1994609971,Expediting search trend detection via prediction of query counts,2013,22,25,3,1.0,2642611369,Nadav Golbandi,0,-0.28528666788018536,-1.2751247740098532
+2006874833,Lessons learned from contests in data mining,2011,0,0,5,0.0,164824025,Claudia Perlich,0,0.003708468606338,0.082832279151172
+1991584567,I want to answer; who has a question Yahoo answers recommender system,2011,24,66,2,0.625,1992641199,Gideon Dror,0,-0.06416436951531827,0.2482532285132387
+1992270714,Modeling relationships at multiple scales to improve accuracy of large recommender systems,2007,15,294,2,0.857143,2148013773,Robert M. Bell,0,0.4539148519513122,-0.08585587721847426
+2013221919,Adaptive bootstrapping of recommender systems using decision trees,2011,17,126,2,1.0,2642611369,Nadav Golbandi,0,1.0956415692068318,0.5101555264172801
+2047109571,Factor in the neighbors Scalable and accurate collaborative filtering,2010,30,462,1,1.0,2781213378,Yehuda Koren,0,0.8776680742443249,0.45208381503500666
+2040107208,Care to comment recommendations for commenting on news stories,2012,30,63,3,0.0,2154571594,Erez Shmueli,0,0.8776680742443249,0.45208381503500666
+2036536766,Second workshop on information heterogeneity and fusion in recommender systems (HetRec2011),2010,0,189,5,0.0,33287012,IvÃ¡n Cantador,0,-0.19272450262760507,0.27231992302068725
+2041022395,Yahoo music recommendations modeling music ratings with temporal dynamics and item taxonomy,2011,25,215,3,0.409091,281847691,Noam Koenigstein,0,0.8776680742443249,0.45208381503500666
+2061212083,Lessons from the Netflix prize challenge,2007,9,456,2,0.857143,2148013773,Robert M. Bell,0,0.003708468606338,0.082832279151172
+2057763140,Collaborative filtering with temporal dynamics,2010,25,582,1,1.0,2781213378,Yehuda Koren,0,1.0957179557979764,0.133924903496212
+2066611560,Towards scalable and accurate item-oriented recommendations,2013,18,27,2,0.409091,281847691,Noam Koenigstein,0,1.2350652037173413,0.39061007574644036
+2056285697,Measuring and extracting proximity graphs in networks,2007,24,44,1,1.0,2781213378,Yehuda Koren,0,0.08329114195231535,0.32893178638165566
+2063633925,A two-way visualization method for clustered data,2003,24,20,1,1.0,2781213378,Yehuda Koren,0,-0.917723546228756,3.122556275249308
+2059014657,Automatically tagging email by leveraging other users folders,2011,18,27,1,1.0,2781213378,Yehuda Koren,0,0.9841624698738183,0.04485234753849704
+2080320419,Collaborative filtering with temporal dynamics,2009,20,647,1,1.0,2781213378,Yehuda Koren,0,1.0957179557979764,0.133924903496212
+2097391913,Measuring and extracting proximity in networks,2006,18,131,1,1.0,2781213378,Yehuda Koren,0,-0.28687062280917214,-0.21843564073742405
+2101409192,Collaborative Filtering for Implicit Feedback Datasets,2008,20,1602,2,0.0,2145280021,Yifan Hu,0,0.8818603617121975,1.3586437386458756
+2126183471,Recommender systems for the conference paper assignment problem,2009,37,36,2,0.0,2080576855,Don Conry,0,0.8776680742443249,0.45208381503500666
+2142625445,Large-scale learning of word relatedness with constraints,2012,27,123,4,0.0,2222038715,Guy Halawi,0,0.8237541534872959,-0.40611852250107744
+2150384816,Clustering spatial data using random walks,2001,5,54,2,0.0,427806604,David Harel,0,-0.4176656693076651,1.688372696428146
+2150886314,Performance of recommender algorithms on top-n recommendation tasks,2010,16,845,2,0.0,1246103178,Paolo Cremonesi,0,0.8776680742443249,0.45208381503500666
+2172249709,Scalable Collaborative Filtering with Jointly Derived Neighborhood Interpolation Weights,2007,14,410,2,0.857143,2148013773,Robert M. Bell,0,0.8776680742443249,0.45208381503500666
+2145736866,On bootstrapping recommender systems,2010,10,64,2,1.0,2642611369,Nadav Golbandi,0,0.8776680742443249,0.45208381503500666
+2164354502,Improved Neighborhood-based Collaborative Filtering,2007,13,144,2,0.857143,2148013773,Robert M. Bell,0,0.8776680742443249,0.45208381503500666
+2146682077,The Yahoo Music Dataset and KDD-Cup11,2011,14,209,4,0.409091,281847691,Noam Koenigstein,0,0.08329114195231535,0.32893178638165566
+2146964183,Fast direction-aware proximity for graph mining,2007,19,81,3,0.0,2224718883,Hanghang Tong,0,-0.2323430661771715,0.28928246890776743
+2911357753,Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining,2013,0,0,8,0.0,941590,Ramasamy Uthurusamy,0,0.32845691811421523,0.15861767880935046
+2944441143,On the Difficulty of Evaluating Baselines A Study on Recommender Systems,2019,18,7,3,0.0,1585981875,Steffen Rendle,0,-0.9632163052470304,-0.6085826440631764

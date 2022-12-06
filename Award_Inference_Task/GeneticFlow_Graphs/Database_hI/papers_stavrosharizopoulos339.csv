@@ -1,0 +1,32 @@
+9089673,Designing Database Operators for Flash-enabled Memory Hierarchies,2010,21,7,2,0.0,2284116839,Goetz Graefe,0,-0.46893397788284524,0.07728939382804885
+153393921,One Size Fits All Part 2 Benchmarking Studies,2007,0,45,7,0.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+1577169013,The end of an architectural era (its time for a complete rewrite),2007,62,553,4,0.0,1998938290,Michael Stonebraker,0,1.087196949808787,0.6859136057165826
+1796870311,Steps towards cache-resident transaction processing,2004,29,44,1,1.0,2676701685,Stavros Harizopoulos,0,1.422220960845264,1.3158003174733472
+1956179383,Column-Oriented Database Systems (Tutorial),2009,0,2,3,0.0,2081047619,Peter Boncz,0,-0.0014500157804137048,0.09029802945011017
+1597676723,Scalable analysis platform for semi-structured data,2014,55,227,4,0.0,264258840,Nathan Binkert,0,0.5194715954826489,-0.42420379036701183
+1589679095,Fetching Optimization in Multi-way Pipelined Database Joins,2009,10,9,5,0.4,2140057800,Mehul A. Shah,0,1.1941091794462926,0.14107462292952677
+1599548736,StagedDB Designing Database Servers for Modern Hardware,2005,17,35,1,1.0,2676701685,Stavros Harizopoulos,0,0.24710828277347904,-0.12419462994759982
+2009872315,Towards energy-efficient database cluster design,2012,32,37,2,0.0,2102229717,Willis Lang,0,0.0611676723304236,0.19193163256242063
+2015823077,Query co-processing on commodity processors,2006,5,31,3,0.0,1787861840,Anastassia Ailamaki,0,0.18601297105691045,-0.0008472885667257998
+2054075931,OLTP through the looking glass and what we found there,2008,40,251,1,1.0,2676701685,Stavros Harizopoulos,0,2.11184712924916,2.0611930582945646
+2058178853,Query processing techniques for solid state drives,2009,28,124,2,0.5,2092695954,Dimitris Tsirogiannis,0,0.41277589474068377,-0.6248001051843898
+2096916713,Database architecture (R)evolution New hardware vs new software,2010,8,0,1,1.0,2676701685,Stavros Harizopoulos,0,2.2464467317903947,0.7927263541725686
+2100099053,QPipe a simultaneously pipelined relational query engine,2005,30,161,1,1.0,2676701685,Stavros Harizopoulos,0,1.4720178268926762,0.49437050885219797
+2085601491,Column-oriented database systems,2009,10,180,3,0.0,2081047619,Peter Boncz,0,-0.0014500157804137048,0.09029802945011017
+2141138026,Improving instruction cache performance in OLTP,2006,32,29,1,1.0,2676701685,Stavros Harizopoulos,0,1.641530967974413,1.4676622704682576
+2117546628,The Design and Implementation of Modern Column-Oriented Database Systems,2013,97,128,3,0.0,2170206103,Daniel J. Abadi,0,2.372956162161638,0.6127408414333981
+2141558360,Simultaneous Pipelining in QPipe Exploiting Work Sharing Opportunities Across Queries,2006,1,11,2,0.0,2434402586,Kun Gao,0,0.11627582886789564,0.3621724021946999
+2138512691,Performance tradeoffs in read-optimized databases,2006,26,149,1,1.0,2676701685,Stavros Harizopoulos,0,0.2018344789238379,0.41477895527679104
+2127114249,Repeatability &amp; workability evaluation of SIGMOD 2009,2010,2,11,14,0.0,50097054,Marios Hadjieleftheriou,0,-0.0041099411153885,0.0447066884760059
+2143705506,Analyzing the energy efficiency of a database server,2010,20,164,2,0.5,2092695954,Dimitris Tsirogiannis,0,1.1473428934154142,0.16797705101005034
+2187405563,One Size Fits All - Part 2 Benchmarking Results,2007,17,53,8,0.0,1227713778,John Lifter,0,0.8818883915646806,0.42561381086246075
+2160829658,To share or not to share,2007,26,69,5,0.0,2250370833,Ryan Johnson,0,-0.0041099411153885,0.0447066884760059
+2157981728,An Analysis of Database System Performance on Chip Multiprocessors,2007,37,1,5,0.0,117387042,Babak Falsafi,0,0.954541140868863,0.11438247185517338
+2146921980,A Case for Staged Database Systems,2003,39,59,1,1.0,2676701685,Stavros Harizopoulos,0,0.27170066117554836,0.25351867123412375
+2249321038,DATABASE JOIN OPTIMIZED FOR FLASH STORAGE,2009,6,35,4,0.4,2140057800,Mehul A. Shah,0,-0.3652008450463068,0.3160971441695779
+2275180787,Column-oriented storage in a row-oriented database management system,2010,13,20,2,0.0,2127743302,Alkiviadis Simitsis,0,-0.0041099411153885,0.0447066884760059
+2279453491,Imparting durability to a transactional memory system,2011,11,6,4,0.4,2140057800,Mehul A. Shah,0,0.3451489642104156,0.8044629464015034
+2330901872,Staged database systems,2005,92,5,2,0.0,1787861840,Anastassia Ailamaki,0,1.9929551551294038,0.7013126522507394
+2914613107,Proceedings of the Eighth International Workshop on Data Management on New Hardware,2012,0,1,2,0.0,2161123335,Shimin Chen,0,1.386312433213641,0.37076587226681385
+2951759567,Energy Efficiency The New Holy Grail of Data Management Systems Research,2009,9,62,1,1.0,2676701685,Stavros Harizopoulos,0,0.18601297105691045,-0.0008472885667257998
+2952246651,Towards Energy-Efficient Database Cluster Design,2012,18,3,2,0.0,2102229717,Willis Lang,0,0.0611676723304236,0.19193163256242063

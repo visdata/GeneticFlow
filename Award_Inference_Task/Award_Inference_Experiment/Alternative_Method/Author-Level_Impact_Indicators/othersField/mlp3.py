@@ -168,7 +168,7 @@ for r in range(100):
                 optimizer.zero_grad()               # Set gradient to zero.
                 x, y = x.to(device), y.to(device)   # Move your data to device. 
                 pred = model(x)       
-                weights = np.array([1,2])
+                weights = np.array([1,1])
                 weights = torch.FloatTensor(weights).to(device)
                 y=y.long()
                 loss = F.nll_loss(pred, y, weight=weights)

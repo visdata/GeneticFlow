@@ -1,0 +1,47 @@
+264908820,Secure data processing on sensitive data using trusted hardware,2013,2,22,7,0.0,2126319880,Ramarathnam Venkatesan,0,-0.13000789026670473,0.14516916064410568
+1556873914,Transaction processing on confidential data using cipherbase,2015,32,26,1,1.0,2288886406,Arvind Arasu,0,0.9066133645361344,0.6184540229003361
+1495986321,Resource sharing in continuous sliding-window aggregates,2004,32,153,1,1.0,2288886406,Arvind Arasu,0,-0.42845202490949574,0.1450203979855267
+1646696449,Query Processing Approximation and Resource Management in a Data Stream Management System,2003,20,441,3,0.0,2034912444,Rajeev Motwani,0,-0.03990874100610224,-0.19030993128025134
+1582747324,CQL A Language for Continuous Queries over Streams and Relations,2003,32,100,1,1.0,2288886406,Arvind Arasu,0,-0.02777788246206645,-0.19766732614551258
+1831560769,STREAM The Stanford Data Stream Management System,2016,23,391,1,1.0,2288886406,Arvind Arasu,0,-0.02504284252244325,-0.47177666628625237
+1986319134,STREAM the stanford stream data manager (demonstration description),2003,3,190,7,0.0,671527850,Jennifer Widom,0,-0.3258337490572475,-0.06722541135749883
+2001343755,A denotational semantics for continuous queries over streams and relations,2004,12,59,1,1.0,2288886406,Arvind Arasu,0,-0.42845202490949574,0.1450203979855267
+1999925610,Secure database-as-a-service with Cipherbase,2013,9,31,1,1.0,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2029500199,Searching the Web,2001,55,565,1,1.0,2288886406,Arvind Arasu,0,-2.5202667730382426,-1.9024560121866987
+2023284301,Querying encrypted data,2014,19,25,1,1.0,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2015180052,Characterizing memory requirements for queries over continuous data streams,2004,31,55,1,1.0,2288886406,Arvind Arasu,0,0.4925299351171073,0.23699147982881533
+2064525681,A secure coprocessor for database applications,2013,10,16,1,1.0,2288886406,Arvind Arasu,0,2.202776059782102,0.5558106989668319
+2072173758,Transformation-based Framework for Record Matching,2008,36,115,1,1.0,2288886406,Arvind Arasu,0,0.11627582886789564,0.3621724021946999
+2074409795,Incorporating string transformations in record matching,2008,5,14,1,1.0,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2099395665,The CQL continuous query language semantic foundations and query execution,2006,50,1047,1,1.0,2288886406,Arvind Arasu,0,0.016295364423474585,-0.051449752469028165
+2096598900,Efficient exact set-similarity joins,2006,24,402,1,1.0,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2092088394,Querying encrypted data,2013,15,7,1,1.0,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2112215401,Linear road a stream data management benchmark,2004,7,287,1,1.0,2288886406,Arvind Arasu,0,0.7171138400878053,0.1438872341433715
+2136377060,Extracting structured data from Web pages (Poster),2003,2,3,2,0.0,237419955,Hector Garcia Molina,0,-0.01863304786997448,-0.3091691619497253
+2128056631,On indexing error-tolerant set containment,2010,30,38,2,0.0,2186177736,Parag Agrawal,0,-0.0041099411153885,0.0447066884760059
+2111151458,A grammar-based entity representation framework for data cleaning,2009,22,17,1,1.0,2288886406,Arvind Arasu,0,-0.17722234200264028,0.3963522186194852
+2159140866,A Learning Framework for Self-Tuning Histograms,2011,22,5,4,0.0,2514813052,Raajay Viswanathan,0,-0.0041099411153885,0.0447066884760059
+2150721933,Extracting structured data from Web pages,2003,22,664,1,1.0,2288886406,Arvind Arasu,0,-1.7006565946053767,-1.4534015299455934
+2151316814,Oblivious Query Processing,2013,18,17,1,1.0,2288886406,Arvind Arasu,0,0.7215975991611812,0.3052417628859806
+2151575925,Query Processing Resource Management and Approximation ina Data Stream Management System,2002,21,392,8,0.0,671527850,Jennifer Widom,0,-0.03990874100610224,-0.19030993128025134
+2151583733,Data generation using declarative constraints,2011,32,44,1,1.0,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2164625277,Large-Scale Deduplication with Constraints Using Dedupalog,2009,55,129,1,1.0,2288886406,Arvind Arasu,0,0.03933023774696983,0.565769951252897
+2248361066,Integrated fuzzy joins in database management systems,2011,14,12,5,0.0,2057455714,Vivek Narasayya,0,-0.9290585067666344,-0.16566123267019195
+2298238609,Secure query processing over encrypted data,2014,10,15,2,0.0,2170484661,Ravishankar Ramamurthy,0,0.8809340701863815,0.11633144593696097
+2293297573,DataSynth Generating Synthetic Data using Declarative Constraints,2011,8,2,1,1.0,2288886406,Arvind Arasu,0,-0.37538904668272804,-0.1679513215203286
+2289716913,Orthogonal Security with Cipherbase,2013,19,116,1,1.0,2288886406,Arvind Arasu,0,-0.1156577426431432,-0.2566105852302986
+2395781810,Engineering Security and Performance with Cipherbase,2012,9,4,1,1.0,2288886406,Arvind Arasu,0,0.6340094201298372,-0.02273475170159882
+2398657955,Experiences with using Data Cleaning Technology for Bing Services,2012,9,6,1,1.0,2288886406,Arvind Arasu,0,0.16961816653767703,0.31221718520020947
+2398660820,STREAM The Stanford Stream Data Manager,2003,0,402,1,1.0,2288886406,Arvind Arasu,0,0.1882434276923103,-1.0430197535152996
+2399776500,Extracting Structured Data from Web Pages,2003,0,6,1,1.0,2288886406,Arvind Arasu,0,-1.4380662091024194,-1.3812668167425592
+2403180956,STREAM The Stanford Stream Data Manager,2003,0,156,1,1.0,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2406468860,Towards a Domain Independent Platform for Data Cleaning,2011,13,5,1,1.0,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2474347409,Querying Encrypted Data (Tutorial),2013,0,5,4,0.538591,1979791860,Ravi Ramamurthy,0,-0.0041099411153885,0.0447066884760059
+2474865884,On The Security Of Querying Encrypted Data,2012,10,2,3,0.538591,1979791860,Ravi Ramamurthy,0,-0.0041099411153885,0.0447066884760059
+2534714275,Customized trusted computer for secure data processing and storage,2016,45,0,3,0.0,1898486194,Kaushik Shriraghav,0,-0.09800460723862514,-0.014082895874977366
+2613440485,When is an Encrypted Database Secure,2014,0,1,4,0.538591,1979791860,Ravi Ramamurthy,0,-0.0041099411153885,0.0447066884760059
+2612534859,Concerto A High Concurrency Key-Value Store with Integrity,2017,39,15,1,1.0,2288886406,Arvind Arasu,0,0.1650556846327417,0.05544701961545055
+2892003115,Pushing the Limits of Encrypted Databases with Secure Hardware,2018,22,1,2,0.0,2346999076,Panagiotis Antonopoulos,0,-0.0041099411153885,0.0447066884760059
+2914764703,Veritas Shared Verifiable Databases and Tables in the Cloud,2019,0,6,4,0.0,2083845045,Johannes Gehrke,0,-0.0041099411153885,0.0447066884760059
+2948781980,BlockchainDB - Towards a Shared Database on Blockchains,2019,8,4,5,0.0,2229084398,Muhammad El Hindi,0,-0.15802972719544298,0.04599796492976669
+2971147021,BlockchainDB a shared database on blockchains,2019,0,8,5,0.0,228175360,Carsten Binnig,0,-0.42511253240776914,0.09219758019937879

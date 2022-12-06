@@ -1,0 +1,132 @@
+19035430,Melbourne University 2004 Terabyte and Web Tracks,2004,6,3,2,1.0,2118223262,Vo Anh,0,0.0597908726731833,-0.2449448024264691
+141105777,An Overview of Adaptive Sorting,1992,0,25,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+109990351,Vector Space Ranking Can We Keep it Simple ,2002,0,4,2,1.0,2118223262,Vo Anh,0,0.003708468606338,0.082832279151172
+164060832,Collection-Independent Document-Centric Impacts,2004,8,5,2,1.0,2118223262,Vo Anh,0,-0.1916888409096968,-0.26501256474732954
+183508004,Compression Fast Indexing and Structured Queries on a Gigabyte of Text,1992,0,0,2,0.0,2119346241,Alan J. Kent,0,0.07899402917354395,0.1911977433019193
+167066434,Improved Inverted File Processing for Large Text Databases,1995,0,10,1,1.0,2155888323,Alistair Moffat,0,0.6642631993651279,0.8704818474401211
+168888981,Melbourne University at the 2006 Terabyte Track,2006,1,2,3,0.929807,2118223262,Vo Anh,0,-0.04987754971785916,-0.23866055347204607
+1550021373,Information retrieval systems for large document collections,1994,0,47,1,1.0,2155888323,Alistair Moffat,0,-0.12254408103269927,-0.0320872416069455
+1541128204,Exploiting clustering in inverted file compression,1996,14,35,1,1.0,2155888323,Alistair Moffat,0,0.1542299588217853,0.6608534941951738
+1496881388,Space-Limited ranked query evaluation using adaptive pruning,2005,12,38,2,0.0,2113021300,Nicholas Lester,0,0.7269164188402208,0.12953208667864644
+1559631118,Binary Interpolative Coding for Effective Index Compression,2000,33,142,1,1.0,2155888323,Alistair Moffat,0,-0.5575822218295368,-0.14372526207419234
+1514893825,What Does It Mean to &quot;Measure Performance&quot; ,2004,19,19,2,0.144336,2019828590,Justin Zobel,0,0.33568496813644777,0.48954384209232454
+1237471683,Score aggregation techniques in retrieval experimentation,2009,21,9,2,1.0,2557241765,Sri Devi Ravana,0,0.003708468606338,0.082832279151172
+1573431506,An Efficient Indexing Technique for Full Text Databases,1992,23,69,2,0.0,2019828590,Justin Zobel,0,-0.13275296294680305,-0.071629888206014
+1546274087,Compression and fast indexing for multi-gigabyte text databases,1994,0,20,1,1.0,2155888323,Alistair Moffat,0,-0.2524195920051036,-0.005898616377979171
+1575155361,Index compression using fixed binary codewords,2004,14,44,2,1.0,2118223262,Vo Anh,0,-0.1029618939806145,0.040434369851773004
+1756312659,Reducing Space Requirements for Disk Resident Suffix Arrays,2009,28,6,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+1939439398,Needles and Haystacks a search engine for personal information collections,2000,18,9,2,0.0,2222134521,O. de Kretser,0,0.42586270528912146,0.7333301518858377
+1767167546,Observing users to validate models,2013,8,1,2,0.0,1970689224,Falk Scholer,0,0.003708468606338,0.082832279151172
+1599458355,Hybrid bitvector index compression,2007,17,13,1,1.0,2155888323,Alistair Moffat,0,-1.5316969836601801,-1.179298195651965
+1581875405,Searching Large Lexicons for Partially Specified Terms using Compressed Inverted Files,1993,23,31,2,0.666667,2019828590,Justin Zobel,0,0.3531040014101039,0.5049572131056808
+1590931172,Improved retrieval effectiveness through impact transformation,2002,16,15,2,1.0,2118223262,Vo Anh,0,0.14912809064063154,-0.968046030580898
+1601173710,Measurement Techniques and Caching Effects,2009,9,1,2,1.0,2141268637,Stefan Pohl,0,-0.1029618939806145,0.040434369851773004
+1901042399,Term Impacts as Normalized Term Frequencies for BM25 Similarity Scoring,2008,18,4,3,0.902078,2118223262,Vo Anh,0,-0.125776155608476,-0.39164445320392255
+1985709675,Modeling decision points in user search behavior,2014,16,17,2,0.0,2229341583,Paul Thomas,0,0.003708468606338,0.082832279151172
+1973520416,Pruned query evaluation using pre-computed impacts,2006,20,145,2,0.929807,2118223262,Vo Anh,0,0.012237484086810801,-0.18632046415651507
+1977437814,Pooled Evaluation Over Query Variations Users are as Diverse as Systems,2015,14,11,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+1984614894,Efficient set intersection for inverted indexing,2010,35,128,2,0.375,1944334593,J. Shane Culpepper,0,-0.7456024648700257,-0.20198923050024592
+1986447815,Fast on-line index construction by geometric partitioning,2005,21,56,2,0.0,2113021300,Nicholas Lester,0,0.15621547829478888,0.4705725497004518
+1968927634,Rank-biased precision for measurement of retrieval effectiveness,2008,39,361,1,1.0,2155888323,Alistair Moffat,0,-0.3379804343582226,0.12064427436291843
+1965657003,Exploring the similarity space,1998,11,344,2,0.257134,2019828590,Justin Zobel,0,-1.022042780845529,0.3324122790613405
+1970885105,Compressed inverted files with reduced decoding overheads,1998,15,60,2,0.0,2577975420,Anh Ngoc Vo,0,0.003708468606338,0.082832279151172
+1983164881,Models and metrics IR evaluation as a user process,2012,16,16,1,1.0,2155888323,Alistair Moffat,0,-0.1826651000115661,0.11867050058969215
+1987205804,Efficient retrieval of partial documents,1995,18,55,2,0.3401,2019828590,Justin Zobel,0,0.3138134161015081,0.3760354287448037
+1987442066,Exploring evaluation metrics GMAP versus MAP,2008,4,2,2,1.0,2557241765,Sri Devi Ravana,0,0.003708468606338,0.082832279151172
+1996418330,Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval,2005,0,0,5,0.0,146750387,Gary Marchionini,0,-0.17768346192212375,0.0848641959637884
+2006996936,Improvements that dont add up ad-hoc retrieval results since 1998,2009,23,137,2,0.0,2114816205,Timothy G. Armstrong,0,0.0597908726731833,-0.2449448024264691
+1991360400,Vector-space ranking with effective early termination,2001,20,172,3,1.0,2118223262,Vo Anh,0,0.6642631993651279,0.8704818474401211
+1991386782,Guidelines for presentation and comparison of indexing techniques,1996,2,38,2,0.3401,2019828590,Justin Zobel,0,-0.13275296294680305,-0.071629888206014
+1994922945,Exploring the magic of WAND,2013,21,17,3,1.0,1986955645,Matthias Petri,0,0.003708468606338,0.082832279151172
+1990032314,On the Cost of Phrase-Based Ranking,2015,21,1,2,1.0,1986955645,Matthias Petri,0,0.8332652368058306,-0.7450864375137074
+1992411228,Click-based evidence for decaying weight distributions in search effectiveness metrics,2010,25,46,3,0.0,2685988537,Yuye Zhang,0,-0.28833680027466346,-1.0142505022370134
+2029533776,Impact transformation effective and efficient web retrieval,2002,20,53,2,1.0,2118223262,Vo Anh,0,-0.11300819442795465,0.09518744858596301
+2015770094,Panel on use of proprietary data,2012,5,11,2,0.0,2148123616,Jamie Callan,0,0.003708468606338,0.082832279151172
+2028220403,Graph Representations and Applications of Citation Networks,2014,25,0,2,1.0,1986955645,Matthias Petri,0,-0.1826651000115661,0.11867050058969215
+2023217403,Statistical power in retrieval experimentation,2008,22,61,2,0.777778,2260911234,William Webber,0,-0.1826651000115661,0.11867050058969215
+2021581601,A similarity measure for indefinite rankings,2010,22,201,2,0.648649,2260911234,William Webber,0,-0.3473793728160243,0.24861357896709396
+2032552117,Large-Scale Pattern Search Using Reduced-Space On-Disk Suffix Arrays,2014,27,16,2,0.833333,2698038667,Simon Gog,0,0.003708468606338,0.082832279151172
+2022292926,Inverted Index Compression Using Word-Aligned Binary Codes,2005,19,217,2,0.952381,2118223262,Vo Anh,0,-0.5795253457321474,-0.23348832519162
+2033167020,Memory efficient ranking,1994,22,31,1,1.0,2155888323,Alistair Moffat,0,0.3138134161015081,0.3760354287448037
+2044434631,Similarity measures for tracking information flow,2005,19,144,4,0.0,2151486164,Donald Metzler,0,-0.7700663143320864,0.2716591963769157
+2049770399,Block merging for off-line compression,2007,28,3,2,0.818182,2158466022,Raymond Wan,0,0.003708468606338,0.082832279151172
+2048102545,On the Cost of Extracting Proximity Features for Term-Dependency Models,2015,22,6,2,0.8,2231866520,Xiaolu Lu,0,0.003708468606338,0.082832279151172
+2035804582,An empirical study of the effects of NLP components on Geographic IR performance,2008,14,32,3,0.0,2148572485,Nicola Stokes,0,-0.34431040572321786,0.1804777534141982
+2055330215,Assessing the Cognitive Complexity of Information Needs,2014,10,0,1,1.0,2155888323,Alistair Moffat,0,0.9108319590466017,-0.21147410478696252
+2068333205,Precision-at-ten considered redundant,2008,8,28,2,0.777778,2260911234,William Webber,0,0.003708468606338,0.082832279151172
+2073809056,Data compression in full-text retrieval systems,1993,0,62,1,1.0,2155888323,Alistair Moffat,0,-0.21537081122240906,0.22512541931796853
+2070377439,Against recall is it persistence cardinality density coverage or totality ,2009,5,21,3,0.0942277,2019828590,Justin Zobel,0,0.003708468606338,0.082832279151172
+2067073114,Has adhoc retrieval improved since 1994,2009,3,23,2,0.0,2114816205,Timothy G. Armstrong,0,0.7270607713713648,-0.03323405727744588
+2072609512,The recap system for identifying information flow,2005,1,7,4,0.0,2151486164,Donald Metzler,0,0.003708468606338,0.082832279151172
+2076227143,Score standardization for inter-collection comparison of retrieval systems,2008,20,61,2,0.777778,2260911234,William Webber,0,0.003708468606338,0.082832279151172
+2063972237,Index organization for multimedia database systems,1995,5,5,1,1.0,2155888323,Alistair Moffat,0,-0.6311038277995416,1.934203771212436
+2065721358,Simplified similarity scoring using term ranks,2005,12,64,2,0.952381,2118223262,Vo Anh,0,-0.17399295809189377,-0.12288857477262802
+2076489648,Efficient indexing of repeated n-grams,2011,17,23,2,0.0,2093587599,Samuel Huston,0,-0.13275296294680305,-0.071629888206014
+2059120814,Users versus models what observation tells us about effectiveness metrics,2013,27,51,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+2078729846,System scoring using partial prior information,2009,3,3,3,1.0,2557241765,Sri Devi Ravana,0,0.7270607713713648,-0.03323405727744588
+2082324333,The design of a high performance information filtering system,1996,21,28,2,0.0,2140781247,Timothy A. H. Bell,0,0.003708468606338,0.082832279151172
+2082341690,Choices in batch information retrieval evaluation,2013,42,3,2,0.0,1970689224,Falk Scholer,0,0.003708468606338,0.082832279151172
+2078977631,Efficient Extended Boolean Retrieval,2012,29,6,2,0.857143,2141268637,Stefan Pohl,0,0.2204636808095145,0.0403004057069267
+2090035194,User Variability and IR System Evaluation,2015,35,34,2,0.0,2295915320,Peter Bailey,0,-0.5313269067166313,-0.8460182675020935
+2105056934,How Effective are Proximity Scores in Term Dependency Models,2014,19,2,2,0.8,2231866520,Xiaolu Lu,0,-0.3224513172225988,0.1037120505302715
+2141175968,Strategic system comparisons via targeted relevance judgments,2007,18,58,1,1.0,2155888323,Alistair Moffat,0,-0.21537081122240906,0.22512541931796853
+2111555317,Semantic and generative models for lossy text compression,1994,10,21,2,0.0,2163446563,Ian H. Witten,0,0.9416428081470772,-2.2617577116507217
+2117562627,Score-safe term-dependency processing with hybrid indexes,2014,20,11,2,1.0,1986955645,Matthias Petri,0,-0.13275296294680305,-0.071629888206014
+2108777944,Fading Away Dilution and User Behaviour,2013,7,6,3,0.0,2229341583,Paul Thomas,0,0.003708468606338,0.082832279151172
+2138662031,Inverted files for text search engines,2006,191,881,2,0.117953,2019828590,Justin Zobel,0,0.03058019336888763,-0.7488409379405766
+2109153336,Lossy compression of quality scores in genomic data,2014,25,38,2,1.0,2466986831,Rodrigo CÃ¡novas,0,0.07590572071699475,0.423218934603613
+2124112418,Document Ranking for Effectiveness-Efficiency Tradeoffs,2005,2,0,1,1.0,2155888323,Alistair Moffat,0,0.0597908726731833,-0.2449448024264691
+2124213360,Binary codes for non-uniform sources,2005,14,13,1,1.0,2155888323,Alistair Moffat,0,0.057265229701012256,0.07037386114948978
+2124555297,Frontiers challenges and opportunities for information retrieval Report from SWIRL 2012 the second strategic workshop on information retrieval in Lorne,2012,0,106,3,0.0,2097030689,James Allan,0,0.984781936104207,-0.28272964416512464
+2139611552,Pruning strategies for mixed-mode querying,2006,21,12,2,0.929807,2118223262,Vo Anh,0,-0.1407720842818877,-0.3927195749586716
+2125203709,Self-indexing inverted files for fast text retrieval,1996,38,336,1,1.0,2155888323,Alistair Moffat,0,0.2073967866920161,0.4056035643344491
+2140082664,Exploring Probabilistic Toponym Resolution for Geographical Information Retrieval,2006,14,23,2,0.75,2718378176,Yi Li,0,0.003708468606338,0.082832279151172
+2128856835,Practical compression for multi-alignment genomic files,2013,19,5,2,1.0,2466986831,Rodrigo CÃ¡novas,0,0.003708468606338,0.082832279151172
+2144193618,Improved word-aligned binary compression for text indexing,2006,11,50,2,0.929807,2118223262,Vo Anh,0,0.3531040014101039,0.5049572131056808
+2172096705,Text compression for dynamic document databases,1997,28,43,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+2157008678,Efficient online index construction for text databases,2008,35,41,2,0.0,2950527570,Nicholas Lester,0,0.44296508156568637,0.17026889355901972
+2163652601,Inverted files versus signature files for text indexing,1998,38,296,2,0.257134,2019828590,Justin Zobel,0,-0.13275296294680305,-0.071629888206014
+2183083553,Melbourne University 2005 Enterprise and Terabyte Tasks,2005,4,1,3,0.952381,2118223262,Vo Anh,0,-0.04987754971785916,-0.23866055347204607
+2147028271,A pipelined architecture for distributed text query evaluation,2007,33,103,1,1.0,2155888323,Alistair Moffat,0,0.23127214348967126,0.3695913657339795
+2259592457,INST An Adaptive Metric for Information Retrieval Evaluation,2015,9,13,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+2231711798,Seven Numeric Properties of Effectiveness Metrics,2013,27,24,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+2252166243,Continuous Measurement Scales in Human Evaluation of Machine Translation,2013,14,34,3,0.0,2119381488,Yvette Graham,0,0.003708468606338,0.082832279151172
+2290941052,Access Time Tradeoffs in Archive Compression,2015,8,3,2,1.0,1986955645,Matthias Petri,0,0.003708468606338,0.082832279151172
+2337832663,Effective Construction of Relative Lempel-Ziv Dictionaries,2016,21,7,3,1.0,2097488818,Kewen Liao,0,0.003708468606338,0.082832279151172
+2342707026,Assessing efficiency---effectiveness tradeoffs in multi-stage retrieval systems without using relevance judgments,2016,32,15,3,0.0,2098618034,Charles L. A. Clarke,0,0.003708468606338,0.082832279151172
+2394609919,Towards Nuanced System Evaluation Based on Implicit User Expectations,2015,20,0,3,0.0,2229341583,Paul Thomas,0,0.003708468606338,0.082832279151172
+2412124276,Does Selective Search Benefit from WAND Optimization,2016,24,8,4,0.782609,2108249293,Yubin Kim,0,0.0511360199132844,0.32692302325556677
+2388783363,UQV100 A Test Collection with Query Variability,2016,12,24,2,0.0,2295915320,Peter Bailey,0,-0.106451789848527,0.3347932796733473
+2470681930,Quit While Ahead Evaluating Truncated Rankings,2016,7,6,2,0.0,2442194701,Fei Liu,0,-0.17768346192212375,0.0848641959637884
+2427788461,Parameterised compression for sparse bitmaps,1992,22,52,1,1.0,2155888323,Alistair Moffat,0,-0.5666347934469339,-0.2099517914141392
+2467890656,Load-Balancing in Distributed Selective Search,2016,9,12,4,0.782609,2108249293,Yubin Kim,0,0.003708468606338,0.082832279151172
+2468447827,Space-limited ranked query evaluation using adaptive pruning,2005,0,0,2,0.0,2113021300,Nicholas Lester,0,0.4008545849234382,0.0377199707085476
+2469056188,The effect of pooling and evaluation depth on IR metrics,2016,38,29,2,1.0,2231866520,Xiaolu Lu,0,0.003708468606338,0.082832279151172
+2556771250,Efficient distributed selective search,2017,65,13,4,0.782609,2108249293,Yubin Kim,0,0.003708468606338,0.082832279151172
+2531292379,Modeling Relevance as a Function of Retrieval Rank,2016,19,2,2,1.0,2231866520,Xiaolu Lu,0,0.003708468606338,0.082832279151172
+2559401578,Judgment Pool Effects Caused by Query Variations,2016,9,4,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+2585049925,A Cost Model for Long-Term Compressed Data Retention,2017,16,2,2,1.0,2097488818,Kewen Liao,0,0.003708468606338,0.082832279151172
+2507718562,Efficient and Effective Higher Order Proximity Modeling,2016,37,2,2,1.0,2231866520,Xiaolu Lu,0,0.003708468606338,0.082832279151172
+2624553223,Incorporating User Expectations and Behavior into the Measurement of Search Effectiveness,2017,78,20,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+2596051187,Relative significance is insufficient Baselines matter too,2009,4,1,3,0.0942277,2019828590,Justin Zobel,0,0.7270607713713648,-0.03323405727744588
+2617298657,COMPRESSING THE DIGITAL LIBRARY,1994,9,6,2,0.0,2109278650,Tim Bell,0,-0.13275296294680305,-0.071629888206014
+2609107671,Observed Volatility in Effectiveness Metrics,2015,11,2,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+2740692915,Can Deep Effectiveness Metrics Be Evaluated Using Shallow Judgment Pools,2017,30,3,2,1.0,2231866520,Xiaolu Lu,0,0.003708468606338,0.082832279151172
+2758965030,Computing Maximized Effectiveness Distance for Recall-Based Metrics,2018,14,0,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+2740121459,Retrieval Consistency in the Presence of Query Variations,2017,42,6,2,0.0,2295915320,Peter Bailey,0,-0.1029618939806145,0.040434369851773004
+2804651149,Term-frequency surrogates in text similarity computations,2008,21,2,2,1.0,2141268637,Stefan Pohl,0,0.003708468606338,0.082832279151172
+2784168307,Index Compression Using Byte-Aligned ANS Coding and Two-Dimensional Contexts,2018,31,6,1,1.0,2155888323,Alistair Moffat,0,0.6642631993651279,0.8704818474401211
+2902032968,Desirable Properties for Diversity and Truncated Effectiveness Metrics,2018,29,5,4,0.0,2604632170,Ameer Albahem,0,0.003708468606338,0.082832279151172
+2895183493,Estimating Measurement Uncertainty for Information Retrieval Effectiveness Metrics,2018,46,4,1,1.0,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+2902627333,Better Effectiveness Metrics for SERPs Cards and Rankings,2018,30,1,2,0.0,2229341583,Paul Thomas,0,-0.23147010686069866,-1.594672983546264
+2907448160,Fast Dictionary-Based Compression for Inverted Indexes,2019,45,4,3,0.0,2604112372,Giulio Ermanno Pibiri,0,-0.5795253457321474,-0.23348832519162
+2901143721,Boosting Search Performance Using Query Variations,2018,72,1,3,0.857143,2771516892,Rodger Benham,0,0.2353162648138094,0.228350730718198
+2950184844,cwl_eval An Evaluation Tool for Information Retrieval,2019,14,3,3,0.0,2163026013,Leif Azzopardi,0,0.003708468606338,0.082832279151172
+2955135504,Accelerated Query Processing Via Similarity Score Prediction,2019,54,0,2,0.789176,1986955645,Matthias Petri,0,0.5702313408724934,0.5729419191519141
+2949286092,Assessing Efficiency-Effectiveness Tradeoffs in Multi-Stage Retrieval Systems Without Using Relevance Judgments,2015,22,0,3,0.0,2098618034,Charles L. A. Clarke,0,0.003708468606338,0.082832279151172
+2995888719,Taking Risks with Confidence,2019,14,0,2,0.0856475,1944334593,J. Shane Culpepper,0,0.003708468606338,0.082832279151172
+2979894627,Boosting Search Performance Using Query Variations,2019,24,0,3,0.857143,2771516892,Rodger Benham,0,0.2353162648138094,0.228350730718198
+3015593590,Generation of Synthetic Query Auto Completion Logs,2020,51,0,2,0.0,2773082111,Unni Krishnan,0,0.003708468606338,0.082832279151172
+3009522203,A framework for adaptive sorting,1992,0,0,2,0.0,2157600711,Ola Petersson,0,0.003708468606338,0.082832279151172
+223472007,On Identifying Phrases Using Collection Statistics,2015,23,1,3,0.833333,2698038667,Simon Gog,0,0.6642631993651279,0.8704818474401211
+2516970777,CSAM Compressed SAM format,2016,25,3,3,1.0,2466986831,Rodrigo CÃ¡novas,0,-0.06868386095689515,0.24205629126618533

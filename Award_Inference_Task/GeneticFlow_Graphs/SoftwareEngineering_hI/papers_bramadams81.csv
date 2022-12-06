@@ -1,0 +1,78 @@
+195512532,Proceedings of the 2012 workshop on Modularity in Systems Software,2011,0,0,1,1.0,2115051412,Bram Adams,0,-0.0291855379334779,0.0585196112869768
+1493296086,Understanding the impact of rapid releases on software quality,2015,31,26,4,0.294169,202916337,Foutse Khomh,0,-0.0291855379334779,0.0585196112869768
+1886625064,An exploratory study of the evolution of communicated information about the execution of large software systems,2014,29,28,3,0.75,2118619547,Weiyi Shang,0,-0.6187099202079455,0.02124498680478165
+1608256218,Using Aspect Orientation in Legacy Environments for Reverse Engineering using Dynamic Analysis An Industrial Experience Report,2008,0,0,2,0.0,2030505841,Serge Demeyer,0,-0.5858771665552741,0.2641527235267396
+1830156926,What do programmers know about the energy consumption of software,2015,7,18,3,0.8,2152067899,Candy Pang,0,0.25631760331876086,0.5469451896967593
+1923052764,Face-off AOP+LMP vs legacy software,2006,11,0,2,0.0,2015916988,Kris De Schutter,0,-0.5959935876807062,0.4793257303050817
+1983565008,1st international workshop on release engineering (RELENG 2013),2013,8,8,1,1.0,2115051412,Bram Adams,0,0.10284616890848693,0.7488538631785172
+2009619860,On the effect of program exploration on maintenance tasks,2013,30,13,5,0.0,2230836407,Zephyrin Soh,0,-0.0291855379334779,0.0585196112869768
+2010316282,Aspect-orientation For Revitalising Legacy Business Software,2007,20,5,2,0.75,2015916988,Kris De Schutter,0,-0.771753809769316,0.2912173394571415
+2026170849,On rapid releases and software testing a case study and a semi-systematic literature review,2015,70,48,2,0.0,2642145867,Mika V. MÃ¤ntylÃ¤,0,0.0534980472725182,0.6444428004817006
+2019257047,An empirical study of the impact of modern code review practices on software quality,2016,47,87,3,0.554133,2097950673,Shane McIntosh,0,-0.0291855379334779,0.0585196112869768
+2022794931,A qualitative analysis of software build system changes and build ownership styles,2014,20,10,2,0.0,2621071969,Mini Shridhar,0,-0.0291855379334779,0.0585196112869768
+2023019272,Recovering a Balanced Overview of Topics in a Software Domain,2011,34,7,3,0.0,2130069575,Matthew B. Kelly,0,-0.38357429095907125,0.045364803160314854
+2032557572,Make it simple an empirical analysis of GNU make feature use in open source projects,2015,16,7,3,0.0,2225087738,Douglas Martin,0,-0.05640533679312809,-0.24894239256183867
+2015025073,Using indexed sequence diagrams to recover the behaviour of AJAX applications,2011,17,4,2,0.692308,2097950673,Shane McIntosh,0,-0.0291855379334779,0.0585196112869768
+2048909176,ACUA API Change and Usage Auditor,2014,22,6,2,0.0,2590982538,Wei Wu,0,-0.0291855379334779,0.0585196112869768
+2038544212,The Practice and Future of Release Engineering A Roundtable with Three Release Engineers,2015,0,18,1,1.0,2115051412,Bram Adams,0,0.6750646987462541,0.8378804607327295
+2052776473,A Large-Scale Empirical Study of the Relationship between Build Technology and Build Maintenance,2015,31,27,3,0.6,2097950673,Shane McIntosh,0,-0.0291855379334779,0.0585196112869768
+2044396529,Preserving knowledge in software projects,2012,31,2,2,0.62069,2011845727,Omar Alam,0,-0.0291855379334779,0.0585196112869768
+2041075520,An empirical study of build system migrations in practice Case studies on KDE and the Linux kernel,2012,9,20,5,0.0,2664690258,Roman Suvorov,0,-0.0291855379334779,0.0585196112869768
+2035835786,Prioritizing Unit Test Creation for Test-Driven Maintenance of Legacy Systems,2010,44,6,3,0.8,2308275510,Emad Shihab,0,-0.0291855379334779,0.0585196112869768
+2066331871,Mining Co-change Information to Understand When Build Changes Are Necessary,2014,29,20,2,0.818182,2097950673,Shane McIntosh,0,-0.0291855379334779,0.0585196112869768
+2064653370,Co-evolution of infrastructure and source code an empirical study,2015,33,26,2,0.0,2113289844,Yujuan Jiang,0,-0.0291855379334779,0.0585196112869768
+2070223459,Design recovery and maintenance of build systems,2007,25,74,1,1.0,2115051412,Bram Adams,0,0.3168460893132991,0.2121525673877104
+2070873282,The evolution of Java build systems,2012,27,37,2,0.818182,2097950673,Shane McIntosh,0,-0.0291855379334779,0.0585196112869768
+2073102918,Studying the relationship between source code quality and mobile platform dependence,2015,45,27,3,0.0,1103682779,Mark D. Syer,0,-0.0291855379334779,0.0585196112869768
+2087515886,A qualitative study on performance bugs,2012,24,72,2,0.0,2490088440,Shahed Zaman,0,-0.0291855379334779,0.0585196112869768
+2086367757,On Rapid Releases and Software Testing,2013,14,26,3,0.0,2642145867,Mika V. MÃ¤ntylÃ¤,0,-0.0291855379334779,0.0585196112869768
+2079402751,Aspect mining in the presence of the C preprocessor,2008,23,10,1,1.0,2115051412,Bram Adams,0,-0.0291855379334779,0.0585196112869768
+2098046929,Prioritizing the creation of unit tests in legacy software systems,2011,50,13,3,0.8,2308275510,Emad Shihab,0,-0.0291855379334779,0.0585196112869768
+2101341488,MapReduce as a general framework to support research in Mining Software Repositories (MSR),2009,19,48,3,1.0,2118619547,Weiyi Shang,0,0.25631760331876086,0.5469451896967593
+2101792768,Using the GPGPU for scaling up mining software repositories,2012,6,2,4,0.0,2051575594,Rina Nagano,0,-0.0291855379334779,0.0585196112869768
+2117508687,An experience report on scaling tools for mining software repositories using MapReduce,2010,30,31,2,1.0,2118619547,Weiyi Shang,0,-0.0291855379334779,0.0585196112869768
+2108769867,The impact of code review coverage and code review participation on software quality a case study of the qt VTK and ITK projects,2014,39,130,3,0.818182,2097950673,Shane McIntosh,0,-0.0291855379334779,0.0585196112869768
+2114839529,A Study of the Time Dependence of Code Changes,2009,18,9,2,0.62069,2011845727,Omar Alam,0,-0.0291855379334779,0.0585196112869768
+2105936956,Co-evolution of source code and the build system,2009,14,7,1,1.0,2115051412,Bram Adams,0,-0.0291855379334779,0.0585196112869768
+2109938609,Regaining lost knowledge through dynamic analysis and aspect orientation $an industrial experience report,2006,23,23,2,0.0,2030505841,Serge Demeyer,0,-0.0291855379334779,0.0585196112869768
+2134066998,An Exploratory Study of the Evolution of Communicated Information about the Execution of Large Software Systems,2011,38,16,3,1.0,2118619547,Weiyi Shang,0,-0.5858771665552741,0.2641527235267396
+2134091519,Measuring the progress of projects using the time dependence of code changes,2009,29,11,2,0.62069,2011845727,Omar Alam,0,-0.0291855379334779,0.0585196112869768
+2119531903,Using Pig as a data preparation language for large-scale mining software repositories studies,2012,32,22,2,0.0,2110155496,Ahmed E. Hassan,0,-0.0291855379334779,0.0585196112869768
+2113677027,Using aspect orientation in legacy environments for reverse engineering using dynamic analysis-An industrial experience report,2009,91,9,3,0.0,93654309,Wolfgang De Meuter,0,-0.5858771665552741,0.2641527235267396
+2150395559,The evolution of ANT build systems,2010,16,34,2,0.692308,2097950673,Shane McIntosh,0,0.0534980472725182,0.6444428004817006
+2147386665,A large-scale empirical study of just-in-time quality assurance,2013,64,187,3,0.180328,2131713510,Yasutaka Kamei,0,-0.0291855379334779,0.0585196112869768
+2144528247,An empirical study of build maintenance effort,2011,21,88,2,0.692308,2097950673,Shane McIntosh,0,-0.0291855379334779,0.0585196112869768
+2169719505,Why Do Automated Builds Break An Empirical Study,2014,21,34,3,0.6,2754417101,Noureddine Kerzazi,0,-0.0291855379334779,0.0585196112869768
+2152845748,Continuously mining distributed version control systems an empirical study of how Linux uses Git,2016,28,23,2,0.0,2115813666,Daniel M. German,0,-0.0291855379334779,0.0585196112869768
+2244351838,22nd IEEE International Conference on Software Analysis Evolution and Reengineering (SANER 2015 Montreal QC Canada March 2-6 2015),2015,0,0,3,0.0,1974294565,Yann GaÃ«l GuÃ©hÃ©neuc,0,-0.0291855379334779,0.0585196112869768
+2249710617,22nd International Conference on Software Analysis Evolution and Reengineering (SANER),2015,0,0,3,0.0,1974294565,Yann GaÃ«l GuÃ©hÃ©neuc,0,-0.0291855379334779,0.0585196112869768
+2292654058,Leaders of Tomorrow on the Future of Software Engineering A Roundtable,2016,9,4,9,0.0,2112506875,Felienne Hermans,0,-0.0291855379334779,0.0585196112869768
+2317149292,Co-Evolution of Source Code and the Build System Impact on the Introduction of AOSD in Legacy Systems,2008,0,7,1,1.0,2115051412,Bram Adams,0,-0.0291855379334779,0.0585196112869768
+2290452149,Analyzing Ad Library Updates in Android Apps,2016,7,12,3,0.0,2229644292,Israel J. Mojica Ruiz,0,-0.0291855379334779,0.0585196112869768
+2309554352,MAKAO Dealing with legacy build systems,2006,2,0,1,1.0,2115051412,Bram Adams,0,-0.0291855379334779,0.0585196112869768
+2310482724,Software architecture recovery from build processes (presentation),2006,0,0,1,1.0,2115051412,Bram Adams,0,-0.0291855379334779,0.0585196112869768
+2344540174,What Do Programmers Know about Software Energy Consumption,2016,7,56,3,0.8,2152067899,Candy Pang,0,0.25631760331876086,0.5469451896967593
+2396100201,The Impact of Human Discussions on Just-in-Time Quality Assurance An Empirical Study on OpenStack and Eclipse,2016,45,9,2,0.0,567142776,Parastou Tourani,0,-0.0291855379334779,0.0585196112869768
+2408634597,Modern Release Engineering in a Nutshell -- Why Researchers Should Care,2016,68,46,1,1.0,2115051412,Bram Adams,0,0.6750646987462541,0.8378804607327295
+2482158420,How the release process impacts your software analytics,2016,3,0,1,1.0,2115051412,Bram Adams,0,-0.0291855379334779,0.0585196112869768
+2502393165,Who needs release and devops engineers and why ,2016,8,9,1,1.0,2115051412,Bram Adams,0,0.6750646987462541,0.8378804607327295
+2541789187,AOP for legacy environments a case study,2005,24,3,2,0.0,2015916988,Kris De Schutter,0,0.35931953284580015,-0.5674908185703834
+2575346968,Applying Dynamic Analysis in a Legacy Context An Industrial Experience Report,2005,12,7,2,0.0,2015916988,Kris De Schutter,0,-0.5858771665552741,0.2641527235267396
+2577206363,Aspect-orientation for revitalising legacy business software,2006,0,0,2,0.0,2015916988,Kris De Schutter,0,-0.0291855379334779,0.0585196112869768
+2727682072,Do not trust build results at face value an empirical study of 30 million CPAN builds,2017,26,6,2,0.0,2725973309,Mahdis Zolfagharinia,0,-0.0291855379334779,0.0585196112869768
+2606809543,Abnormal working hours effect of rapid releases and implications to work content,2017,12,8,4,0.0,2144840561,Maelick Claes,0,-0.0291855379334779,0.0585196112869768
+2604153767,An empirical study of unspecified dependencies in make-based build systems,2017,20,8,3,0.0,2345126096,Cor Paul Bezemer,0,-0.1800492289274694,0.22090589186755252
+2626618171,An Examination of the Current Rating System used in Mobile App Stores,2017,8,19,5,0.323257,1961699915,Meiyappan Nagappan,0,-0.0291855379334779,0.0585196112869768
+2766228130,Does the Choice of Configuration Framework Matter for Developers Empirical Study on 11 Java Configuration Frameworks,2017,24,3,4,1.0,2222148249,Mohammed Sayagh,0,-0.0291855379334779,0.0585196112869768
+2792082140,Release Engineering 30,2018,0,0,1,1.0,2115051412,Bram Adams,0,-0.11664111892276939,0.6055954107145048
+2808032148,Special Issue Software Analysis Evolution and Reengineering a selection of papers from SANER 2015,2017,0,0,1,1.0,2115051412,Bram Adams,0,-0.0291855379334779,0.0585196112869768
+2889155451,Software Configuration Engineering in Practice Interviews Survey and Systematic Literature Review,2018,0,5,3,1.0,2222148249,Mohammed Sayagh,0,-0.0291855379334779,0.0585196112869768
+2912185959,Proceedings of the Third International Workshop on Release Engineering,2013,0,0,2,0.543537,202916337,Foutse Khomh,0,-0.0291855379334779,0.0585196112869768
+2894409651,Software Engineering for Machine-Learning Applications The Road Ahead,2018,0,13,2,0.154508,202916337,Foutse Khomh,0,-0.0291855379334779,0.0585196112869768
+2896246835,Toward Solving Social and Technical Problems in Open Source Software Ecosystems Using Cause-and-Effect Analysis to Disentangle the Causes of Complex Problems,2019,11,0,4,0.0,2048284929,Josianne Marsan,0,0.0534980472725182,0.6444428004817006
+2949137522,Comparing the Communication Tone and Responses of Users and Developers in Two R Mailing Lists Measuring Positive and Negative Emails,2019,10,0,2,0.0,174475501,Marc J. Lanovaz,0,-0.0291855379334779,0.0585196112869768
+2995844585,Migrating a Software Factory to Design Thinking Paying Attention to People and Mind-Sets,2020,8,0,2,0.0,2994683550,Nolwen Mahe,0,-0.0291855379334779,0.0585196112869768
+2967701984,Understanding GCC builtins to develop better tools,2019,50,0,3,0.0,2226860854,Manuel Rigger,0,-0.45852030700223123,0.22333703537111385
+3008513288,An Exploratory Study on Machine-Learning Model Stores,2020,0,0,1,1.0,2115051412,Bram Adams,0,-0.0291855379334779,0.0585196112869768
+3020867473,Face-off AOP+LMP vs legacy software,2007,0,1,2,0.0,2165330715,K. De Schutter,0,-0.771753809769316,0.2912173394571415
+3022098183,Special Issue Software Analysis Evolution and Reengineering a selection of papers from SANER 2015,2017,0,0,1,1.0,2115051412,Bram Adams,0,-0.0291855379334779,0.0585196112869768

@@ -1,0 +1,87 @@
+206268357,Architecture Sensitive Database Design Examples from the Columbia Group,2005,12,5,1,1.0,2116418223,Kenneth A. Ross,0,1.6230029806710033,0.46539201115694717
+140550185,Review - Description Logics in Data Management,2000,0,0,1,1.0,2116418223,Kenneth A. Ross,0,0.18601297105691045,-0.0008472885667257998
+39746556,Proceedings of the Fifth International Workshop on Data Management on New Hardware,2009,0,0,2,0.0,2081047619,Peter Boncz,0,1.386312433213641,0.37076587226681385
+201688651,Storage Class Memory Aware Data Management,2010,13,10,5,0.580142,2290747941,Bishwaranjan Bhattacharjee,0,-0.18724402417882705,0.03605917401554673
+15822168,Architecture-Conscious Database System,2009,0,1,2,0.823529,1931874561,John Cieslewicz,0,2.3029485783711245,0.8823484963842341
+1559681537,ReoptSMART A Learning Query Plan Cache,2008,16,3,4,0.571429,29980631,Julia Stoyanovich,0,0.0908845357243609,0.31128747720343375
+1514949376,Fast Computation of Sparse Datacubes,1997,6,190,1,1.0,2116418223,Kenneth A. Ross,0,1.3362387887547422,1.4698311983756776
+1515134131,MANAGING A MULTI-VERSION DATABASE,2013,34,14,1,1.0,2116418223,Kenneth A. Ross,0,-0.3526282215017517,-0.034641593279249205
+1561406932,Querying faceted databases,2004,21,25,1,1.0,2116418223,Kenneth A. Ross,0,0.5963709250430879,0.3013804716218763
+1483324348,Querying Multiple Features of Groups in Relational Databases,1996,16,94,2,0.165572,106204968,Damianos Chatziantoniou,0,1.75438725637293,0.26181874293953694
+1545270572,Concurrency Control Theory for Deferred Materialized Views,1997,16,45,5,1.0,2099929122,Akira Kawaguchi,0,2.2601270909433224,1.93099433540518
+1878482266,System and method for performing joins and self-joins in a database system,1997,16,64,1,1.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+1938479402,Concurrency control in materialized views of a database,1998,24,4,2,1.0,2099929122,Akira Kawaguchi,0,2.252706597402649,0.4569978438634724
+1582833014,Implementing Incremental View Maintenance in Nested Data Models,1997,38,43,4,1.0,2099929122,Akira Kawaguchi,0,0.8564607342003622,0.2168475496798935
+1866057606,A portal for access to complex distributed information about energy,2002,18,3,9,0.0,278377883,JosÃ© Luis Ambite,0,0.221423897897152,-0.21080654779612165
+1593558476,Attribute-Oriented View Definitions in Relational and Deductive Databases,1997,7,0,2,0.365385,112579409,Inderpal Singh Mumick,0,1.4570317499201182,0.23401117617560976
+1593955980,Path Processing using Solid State Storage,2012,25,18,4,0.0,1824192596,Manos Athanassoulis,0,0.026501378379345925,0.07704126851625984
+1833124813,Refreshing materialized views of a database to maintain consistency with underlying data,1998,28,30,2,1.0,2099929122,Akira Kawaguchi,0,2.6130967679050356,0.8680789999606972
+1980468613,SkylineSearch semantic ranking and result visualization for pubmed,2011,5,2,4,0.428571,29980631,Julia Stoyanovich,0,0.34254836803936256,-0.14852454291215114
+1969990839,Adapting materialized views after redefinitions techniques and a performance study,2001,32,37,4,0.244596,2988818453,Ashish Gupta,0,1.2401403522721621,0.34668858668000807
+1977408073,Cache-conscious buffering for database operators with state,2009,21,16,3,0.823529,1931874561,John Cieslewicz,0,-0.0041099411153885,0.0447066884760059
+1979809502,Supporting multiple view maintenance policies,1997,27,87,5,0.0,2654624285,Latha S. Colby,0,2.921378699128434,0.9996317402954386
+1967701834,Inferring negative information from disjunctive databases,1988,24,90,1,1.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+1971405342,Filtering algorithms and implementation for very fast publish/subscribe systems,2001,14,456,4,0.0,219046646,FranÃ§oise Fabret,0,-0.46893397788284524,0.07728939382804885
+1990785501,Special issue best papers of VLDB 2008,2010,0,0,4,0.0,2020138198,Peter Buneman,0,-0.25609130579317646,0.2785941556746898
+2006552857,A comprehensive study of main-memory partitioning and its application to large-scale comparison- and radix-sort,2014,17,55,2,1.0,30729857,Orestis Polychroniou,0,-0.0041099411153885,0.0447066884760059
+1993226606,Track join distributed joins with minimal network traffic,2014,36,50,3,1.0,30729857,Orestis Polychroniou,0,1.1331143867863316,-1.2022534750670741
+2005949637,Reminiscences on influential papers,2005,6,3,1,1.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+2009553719,Q100 the architecture and design of a database processing unit,2014,29,97,5,1.0,2340181338,Lisa Wu,0,-0.0041099411153885,0.0447066884760059
+2019186666,Selection conditions in main memory,2004,27,37,1,1.0,2116418223,Kenneth A. Ross,0,0.014532710543751099,0.030944858938630852
+2022720969,Semantic ranking and result visualization for life sciences publications,2010,24,11,3,0.571429,29980631,Julia Stoyanovich,0,0.25245882146783893,0.09919480006319664
+2016531106,Monotonic aggregation in deductive databases,1992,12,56,1,1.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+2035218765,Partitioned optimization of complex queries,2007,48,21,2,0.165572,106204968,Damianos Chatziantoniou,0,0.651786865585849,0.33869901878142344
+2039063067,Tail recursion elimination in deductive databases,1996,26,6,1,1.0,2116418223,Kenneth A. Ross,0,0.36610311895500325,0.07045586025680924
+2041423790,Making updates disk-I/O friendly using SSDs,2013,39,19,2,0.413793,2013660797,Mohammad Sadoghi,0,-0.5547199015809718,0.24735546250641585
+2064619860,Fast joins using join indices,1999,33,52,2,0.0,2427160734,Zhe Li,0,1.4464489500644004,-0.2990794745029313
+2063061546,Monotonic Aggregation in Deductive Databases,1997,21,51,1,1.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+2067184662,Faster joins self-joins and multi-way joins using join indices,1998,18,14,2,0.0,2779973005,Hui Lei,0,1.392562519451987,-0.2349998548749174
+2076299018,Database research at Columbia University,1998,33,1,4,0.0,2149341496,Shih Fu Chang,0,-0.0041099411153885,0.0447066884760059
+2057259317,Finding shapes in a set of points,2007,3,0,1,1.0,2116418223,Kenneth A. Ross,0,0.119739122485096,0.4583397011045227
+2102967864,Adaptive aggregation on chip multiprocessors,2007,22,90,2,1.0,1931874561,John Cieslewicz,0,-0.46893397788284524,0.07728939382804885
+2097125969,Buffering accesses to memory-resident index structures,2003,15,60,2,0.9,2702077502,Jingren Zhou,0,-0.0041099411153885,0.0447066884760059
+2080723374,Automatic contention detection and amelioration for data-intensive operations,2010,22,26,2,0.823529,1931874561,John Cieslewicz,0,-0.46893397788284524,0.07728939382804885
+2082701182,Realizing parallelism in database operations insights from a massively multithreaded architecture,2006,19,30,4,1.0,1931874561,John Cieslewicz,0,-0.0041099411153885,0.0447066884760059
+2100587833,SSD bufferpool extensions for database systems,2010,21,119,4,0.578947,2266279181,Mustafa Canim,0,0.221423897897152,-0.21080654779612165
+2088267379,Column-oriented query processing for row stores,2011,22,9,2,0.0,2617910739,Amr El Helw,0,-0.11416624475922948,0.7460643069327346
+2086977914,Rethinking SIMD Vectorization for In-Memory Databases,2015,42,88,3,1.0,30729857,Orestis Polychroniou,0,-0.0041099411153885,0.0447066884760059
+2123382592,A faceted query engine applied to archaeology,2005,2,13,1,1.0,2116418223,Kenneth A. Ross,0,0.119739122485096,0.4583397011045227
+2135196372,Optimal splitters for database partitioning with size bounds,2009,27,18,1,1.0,2116418223,Kenneth A. Ross,0,1.2686804714965727,0.0562440488509956
+2126479028,The Q100 Database Processing Unit,2015,21,8,5,1.0,2340181338,Lisa Wu,0,-0.0041099411153885,0.0447066884760059
+2121586714,Symmetric relations and cardinality-bounded multisets in database systems,2004,10,5,1,1.0,2116418223,Kenneth A. Ross,0,0.48411275905291873,0.06020261533560655
+2130598739,A multi-resolution block storage model for database design,2003,14,37,2,0.9,2702077502,Jingren Zhou,0,0.31433863619703123,0.11086095511861431
+2113045536,Buffering databse operations for enhanced instruction cache performance,2004,29,68,1,1.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+2133653896,Cost-based unbalanced R-trees,2001,16,7,1,1.0,2116418223,Kenneth A. Ross,0,-0.3015641978542666,0.05725393901911783
+2107486006,Multicore Processors and Database Systems The multicore transformation (Ubiquity symposium),2014,14,0,1,1.0,2116418223,Kenneth A. Ross,0,0.7974046185291802,0.6791717307527673
+2137077706,Cache Conscious Indexing for Decision-Support in Main Memory,1999,26,237,2,1.0,2166272846,Jun Rao,0,-1.8885611081816385,0.638110009792745
+2134172828,Practical Preference Relations for Large Data Sets,2007,15,3,1,1.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+2123050968,Optimizing selections over datacubes,2000,20,13,1,1.0,2116418223,Kenneth A. Ross,0,0.43739842239757626,0.009947045888208002
+2137942874,Complex Aggregation at Multiple Granularities,1998,9,42,1,1.0,2116418223,Kenneth A. Ross,0,0.3799054506293388,-0.15396955400937015
+2147232895,The New Jersey Data Reduction Report,1997,0,242,11,0.0,2144418927,Daniel BarbarÃ¡,0,-0.0041099411153885,0.0447066884760059
+2150426212,Glue-Nail a deductive database system,1991,7,79,3,0.0,2671235572,Geoffrey Phipps,0,1.2093417881871118,0.26507297651154665
+2151131744,Efficient index compression in DB2 LUW,2009,25,70,5,0.580142,2290747941,Bishwaranjan Bhattacharjee,0,0.7061200043709727,0.8351857680141347
+2157174514,Efficient Hash Probes on Modern Processors,2007,15,76,1,1.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+2166391486,Reusing invariants a new strategy for correlated queries,1998,22,46,2,1.0,2166272846,Jun Rao,0,-0.0041099411153885,0.0447066884760059
+2160404300,Making B+- trees cache conscious in main memory,2000,16,357,1,1.0,2116418223,Kenneth A. Ross,0,0.0637678156038693,-1.8680693426105834
+2166490783,Serving datacube tuples from main memory,2000,18,16,1,1.0,2116418223,Kenneth A. Ross,0,0.24938887295470763,0.19177643395261354
+2154522197,Database Optimizations for Modern Hardware,2008,51,22,2,1.0,1931874561,John Cieslewicz,0,1.8914007082058568,0.5793494412049495
+2152272907,Schema polynomials and applications,2008,20,0,1,1.0,2116418223,Kenneth A. Ross,0,3.5224426410396665,-0.15875539703841635
+2188168984,Database Optimizations for Modern Hardware Techniques that make better use of memory and parallelism in evolving computer hardware can increase the performance of databases and other data-intensive applications,2008,51,0,2,1.0,1931874561,John Cieslewicz,0,1.8914007082058568,0.5793494412049495
+2170515491,Materialized view maintenance and integrity constraint checking trading space for time,1996,22,212,1,1.0,2116418223,Kenneth A. Ross,0,1.2558458780448718,0.24384173872919898
+2152563679,An object placement advisor for DB2 using solid state storage,2009,27,59,5,0.5,2266279181,Mustafa Canim,0,1.0828192490781912,0.373846284740867
+2158791970,QueryScope visualizing queries for repeatable database tuning,2008,10,8,2,0.0,2778683124,Ling Hu,0,0.8288995465113883,0.4201879022710102
+2164923618,Adapting materialized views after redefinitions,1995,18,104,3,0.244596,2988818453,Ashish Gupta,0,1.8603173521163283,0.6013172608385028
+2147076738,Implementing database operations using SIMD instructions,2002,21,198,2,0.9,2702077502,Jingren Zhou,0,0.4170158691156383,0.0370747845240022
+2257971564,GPU-accelerated string matching for database applications,2016,53,19,2,0.0,1988465212,Evangelia Sitaridi,0,-0.0041099411153885,0.0447066884760059
+2267550052,Exploiting SSDs in operational multiversion databases,2016,46,10,2,0.280838,2013660797,Mohammad Sadoghi,0,-0.5547199015809718,0.24735546250641585
+2273701487,PREPLAYING TRANSACTIONS THAT MIX HOT AND COLD DATA,2014,13,0,1,1.0,2116418223,Kenneth A. Ross,0,0.38009049917121435,0.45246057348231067
+2218249330,Using asymmetric memory,2008,24,23,1,1.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+2306183614,COMPRESSING A MULTI-VERSION DATABASE,2013,42,27,1,1.0,2116418223,Kenneth A. Ross,0,-0.3399402686830938,-0.2096101843031401
+2285195848,Deferring data record changes using query rewriting,2013,30,13,1,1.0,2116418223,Kenneth A. Ross,0,0.7215975991611812,0.3052417628859806
+2277687038,REDUCING DATABASE LOCKING CONTENTION USING MULTI-VERSION DATA RECORD CONCURRENCY CONTROL,2013,11,13,1,1.0,2116418223,Kenneth A. Ross,0,0.4432701218360107,0.42313251315986694
+2296365647,Reducing database locking contention through multi-version concurrency,2014,28,22,5,0.413793,2013660797,Mohammad Sadoghi,0,2.7354778657898837,3.4993566860393774
+2336385258,Supporting transient snapshot with coordinated/uncoordinated commit protocol,2014,25,21,2,0.0,2038748030,Adam J. Storm,0,-0.25528481459060426,-0.20268735762539036
+2564343449,Attribute-oriented view definitions in relational and deductive databases,1997,0,0,2,0.365385,112579409,Inderpal Singh Mumick,0,1.4570317499201182,0.23401117617560976
+2588371405,Access frequency approximation for remote direct memory access,2015,13,0,1,1.0,2116418223,Kenneth A. Ross,0,0.2610214358225607,0.2057523253512879
+2913117986,Session details Research Session 20 Tuning and Probing,2008,0,0,1,1.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+2999842553,Session details Research 6 Storage &amp; Indexing,2018,0,0,1,1.0,2116418223,Kenneth A. Ross,0,0.25245882146783893,0.09919480006319664

@@ -1,0 +1,60 @@
+171639838,Security Based on Physical Unclonability and Disorder,2012,107,100,3,0.141489,270906047,Farinaz Koushanfar,0,-0.5946240410893807,-0.22700932501043525
+181488511,A Low Cost Solution to Cloning and Authentication Based on a Lightweight Primitive,2008,18,6,1,1.0,855547412,Srinivas Devadas,0,-1.5760798950697024,-0.2538789164339942
+1561040946,Cryptographic security using fuzzy credentials for device and server communications,2012,13,23,1,1.0,855547412,Srinivas Devadas,0,-0.5930362788551127,-1.318615808666364
+1450140837,Circuit fingerprinting attacks passive deanonymization of tor hidden services,2015,29,46,5,1.0,2547777674,Albert Kwon,0,-0.17481617482257725,0.16544830970045524
+1626549230,The Trusted Execution Module Commodity General-Purpose Trusted Computing,2008,21,39,4,1.0,2172991273,Victor Costan,0,-2.1150003850909904,-0.2457494794010721
+1873919580,Knowledge Flow Analysis for Security Protocols,2005,42,12,5,1.0,2344136120,Emina Torlak,0,-0.3978390977263307,-1.2717663835335982
+1577891315,SOFT MESSAGE SIGNING,2011,9,7,2,0.0,716474674,Zdenek Paral,0,-0.7804182444603694,-1.2576097861300264
+1681051970,A Generalized Two-Phase Analysis of Knowledge Flows in Security Protocols,2006,36,0,4,0.574316,2113223833,Marten van Dijk,0,-1.41886178523625,-1.713657383791815
+1821700043,Constants count practical improvements to oblivious RAM,2015,32,74,7,0.608696,2077002258,Ling Ren,0,-0.3628821823010901,-1.2580101674388722
+1968763566,Access-controlled resource discovery for pervasive networks,2003,13,7,4,0.0,2238965093,Sanjay Raman,0,0.27952377566010544,0.449361752046457
+1976113432,Lets stop trusting software with our sensitive data,2013,0,1,1,1.0,855547412,Srinivas Devadas,0,-1.4195038308041648,0.8414393748285716
+2000171858,Silicon physical random functions,2002,16,1040,4,0.0,2088238220,Blaise Gassend,0,-0.753696510714452,-0.028501476854789643
+2010740972,Memoization Attacks and Copy Protection in Partitioned Applications,2007,58,4,1,1.0,855547412,Srinivas Devadas,0,-0.1532240962568462,0.4240302592439559
+2016244202,Slender PUF Protocol A Lightweight Robust and Secure Authentication by Substring Matching,2012,26,81,5,0.0,2130845978,Mehrdad Majzoobi,0,-1.1104410275685395,-0.6808555420140496
+2036601091,AEGIS architecture for tamper-evident and tamper-resistant processing,2003,22,452,5,1.0,2134762469,G. Edward Suh,0,-0.7020700739631912,0.4502121351360935
+2052971399,Integrity verification for path Oblivious-RAM,2013,26,22,5,0.608696,2077002258,Ling Ren,0,0.2704904284421008,-0.17783709187943025
+2053032872,Author retrospective AEGIS architecture for tamper-evident and tamper-resistant processing,2014,13,6,6,0.692308,2134762469,G. Edward Suh,0,-0.20219158079663666,0.3925647993329278
+2097492999,Access-Controlled Resource Discovery,2002,2,0,2,0.0,695545146,Ronald L. Rivest,0,-0.06391223518624518,0.8292568233440005
+2093833539,AEGIS A single-chip secure processor,2005,10,116,3,1.0,2134762469,G. Edward Suh,0,0.0767088253161196,0.12139185821973236
+2080284304,Modeling attacks on physical unclonable functions,2010,27,481,5,0.238095,304040034,Ulrich RÃ¼hrmair,0,-0.38123866058008055,-0.5645637532012354
+2142252095,A Low Cost Solution to Authentication in Passive RFID Systems,2006,12,5,1,1.0,855547412,Srinivas Devadas,0,-0.5530861437885858,-0.004176666300269333
+2121753509,The Untrusted Computer Problem and Camera-Based Authentication,2002,9,75,6,0.0,2127166649,Dwaine Clarke,0,-0.7952488257210746,-0.40404386219511695
+2116254609,Generalized external interaction with tamper-resistant hardware with bounded information leakage,2013,33,16,5,0.0,2128284562,Xiangyao Yu,0,0.03208003808754076,-0.42081601183581274
+2122581949,Authenticated storage using small trusted hardware,2013,34,10,4,0.0,2155476185,Hsin Jung Yang,0,-0.7197056837608036,0.09977834521069895
+2122829780,Towards an interpreter for efficient encrypted computation,2012,27,10,3,0.857143,2104470614,Christopher W. Fletcher,0,0.352669301198491,-0.8027379873197985
+2150782623,Towards constant bandwidth overhead integrity checking of untrusted data,2005,29,31,6,0.166667,2127166649,Dwaine Clarke,0,-0.08785939942058646,-0.055442043878363614
+2172255798,Controlled physical random functions,2002,9,343,4,0.0,2088238220,Blaise Gassend,0,-1.0849355817069,-0.9205303228641647
+2187393474,Physical Unclonable Functions and Applications A Tutorial This paper is a tutorial on ongoing work in physical-disorder-based security security analysis and implementation choices,2014,41,0,2,0.141489,270906047,Farinaz Koushanfar,0,-0.6496928078383102,-0.7059247188856805
+2161426357,Controlled physical random functions and applications,2008,27,70,5,0.857143,2088238220,Blaise Gassend,0,-0.5363583265950523,-0.36744336341211525
+2167627865,Proxy-based security protocols in networked mobile devices,2002,20,64,5,0.0,2138324157,Matthew Burnside,0,-1.0479510205147546,-1.6262976916681495
+2170993700,Path ORAM an extremely simple oblivious RAM protocol,2013,34,433,7,0.0,1986063267,Emil Stefanov,0,0.2538819750861317,-0.5420314696743089
+2211872228,Riffle An Efficient Communication System With Strong Anonymity,2016,49,30,3,1.0,2547777674,Albert Kwon,0,-0.16420021596708323,0.32292378428885316
+2395356592,A Stateless Cryptographically-Secure Physical Unclonable Function,2015,0,1,1,1.0,855547412,Srinivas Devadas,0,-0.6140601873153525,-0.04839129432865619
+2525204045,Security and Reliability Properties of Syndrome Coding Techniques Used in PUF Key Generation,2013,16,12,1,1.0,855547412,Srinivas Devadas,0,-0.8459446517760844,-1.0849794515569215
+2583633368,Atom Scalable Anonymity Resistant to Traffic Analysis,2016,0,1,3,1.0,2547777674,Albert Kwon,0,-0.5761168831574317,0.6249853410697292
+2577638852,Beaver A Decentralized Anonymous Marketplace with Secure Reputation,2016,37,9,4,0.0,2035278764,Kyle Soska,0,0.0040557659796233,0.2757546058061082
+2579759692,Catena Preventing Lies with Bitcoin,2016,25,5,2,1.0,2677340320,Alin Tomescu,0,0.0040557659796233,0.2757546058061082
+2610240162,PriviPK Certificate-less and secure email communication,2017,25,1,5,0.333333,1610089968,Mashael AlSabah,0,-0.033643178055143,-3.051819303565329
+2618475323,Leveraging Hardware Isolation for Process Level Access Control &amp; Authentication,2017,26,4,1,1.0,855547412,Srinivas Devadas,0,-0.3857762024513458,0.3785705487687621
+2671457145,Catena Efficient Non-equivocation via Bitcoin,2017,37,48,2,1.0,2677340320,Alin Tomescu,0,0.03910652856792115,-0.9542749174440527
+2604558532,Public Key Cryptosystems with Noisy Secret Keys,2017,41,4,4,0.0,2154508880,Charles Herder,0,0.015575387870912625,-1.9646491032643258
+2596476547,Pervasive dynamic authentication of physical items,2016,18,7,2,0.0,2095668476,Meng Day (Mandel) Yu,0,-0.5530861437885858,-0.004176666300269333
+2767066796,Secure Hardware and Cryptography Contrasts Synergies and Challenges,2017,0,0,1,1.0,855547412,Srinivas Devadas,0,0.6620562610888437,-0.14406093544768864
+2767174522,A Formal Foundation for Secure Remote Execution of Enclaves,2017,74,28,4,0.0,2090707117,Pramod Subramanyan,0,0.9913905002980328,0.6525007977100382
+2763648389,Atom Horizontally Scaling Strong Anonymity,2017,70,17,3,1.0,2547777674,Albert Kwon,0,-0.2263130908120603,0.5625424318017056
+2788520907,Var-CNN and DynaFlow Improved Attacks and Defenses for Website Fingerprinting,2018,26,6,4,1.0,2788075599,Sanjit Bhat,0,-0.17324153726119554,0.6587671663167594
+2908783118,XRD Scalable Messaging System with Cryptographic Privacy,2019,17,0,3,1.0,2547777674,Albert Kwon,0,0.3246048116807754,-0.1760127869427695
+2906372616,MI6 Secure Enclaves in a Speculative Out-of-Order Processor,2018,58,2,6,0.0,2904296441,Thomas Bourgeat,0,-0.09599616327697101,0.06312598316488381
+2896133229,DynaFlow An Efficient Website Fingerprinting Defense Based on Dynamically-Adjusting Flows,2018,16,3,4,1.0,2788977286,David Lu,0,-0.2263130908120603,0.5625424318017056
+2908027808,Sanctorum A lightweight security monitor for secure enclaves,2019,0,0,8,1.0,2099210342,Ilia Lebedev,0,-0.3270732433611877,-0.3795431605297418
+2949610836,A Formal Foundation for Secure Remote Execution of Enclaves,2017,0,0,4,0.0,2090707117,Pramod Subramanyan,0,0.0040557659796233,0.2757546058061082
+2952054441,Sanctorum A lightweight security monitor for secure enclaves,2018,8,3,8,1.0,2099210342,Ilia Lebedev,0,-0.33098417621799214,-0.14265601263688307
+2950938486,Modeling Attacks on Physical Unclonable Functions,2010,0,0,5,0.238095,304040034,Ulrich RÃ¼hrmair,0,0.0040557659796233,0.2757546058061082
+2953004696,Practical Synchronous Byzantine Consensus,2017,0,2,4,0.408163,2077002258,Ling Ren,0,0.0040557659796233,0.2757546058061082
+2951218987,Atom Horizontally Scaling Strong Anonymity,2016,33,1,3,1.0,2547777674,Albert Kwon,0,-0.2263130908120603,0.5625424318017056
+2986295445,Transparency Logs via Append-Only Authenticated Dictionaries,2019,40,2,6,0.84375,2677340320,Alin Tomescu,0,-0.5530861437885858,-0.004176666300269333
+2964602598,Var-CNN A Data-Efficient Website Fingerprinting Attack Based on Deep Learning,2019,38,6,4,1.0,2788075599,Sanjit Bhat,0,0.0040557659796233,0.2757546058061082
+3015641482,Towards Scalable Threshold Cryptosystems,2020,0,0,7,0.84375,2677340320,Alin Tomescu,0,0.09604918035968557,-1.4927266914889936
+3013446538,Sanctorum A lightweight security monitor for secure enclaves,2019,0,2,8,1.0,2099210342,Ilia Lebedev,0,0.0040557659796233,0.2757546058061082
+2980108059,Synchronous Byzantine Agreement with Expected O(1) Rounds Expected O(n 2 ) Communication and Optimal Resilience,2019,30,13,1,1.0,855547412,Srinivas Devadas,0,0.1076714723924135,0.07069231987119695

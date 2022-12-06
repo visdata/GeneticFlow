@@ -1,0 +1,31 @@
+615131807,Transparent Key Integrity (TKI) A Proposal for a Public-Key Validation Infrastructure (CMU-CyLab-12-016),2012,12,5,1,1.0,2135217518,Collin Jackson,0,0.13601675962029677,-1.2253619656093482
+1468946140,Password managers attacks and defenses,2014,18,54,5,0.0,2522849653,David Silver,0,-2.1852182585464885,-1.4007165530206245
+1534216444,An evaluation of extended validation and picture-in-picture phishing attacks,2007,20,104,1,1.0,2135217518,Collin Jackson,0,0.1587250264166384,-2.1781056844515825
+1562129026,An analysis of private browsing modes in modern browsers,2010,11,133,3,0.0,2307717958,Gaurav Aggarwal,0,1.1662483149091354,-0.0715265620085892
+1588982178,Transaction generators root kits for web,2007,6,23,1,1.0,2135217518,Collin Jackson,0,-1.3977102306679257,-0.48666527736506754
+1607915502,Stronger password authentication using browser extensions,2005,12,359,2,0.0,2695872278,Blake Ross,0,-2.299536298077948,-1.6097602162952205
+1767075395,Automated Password Extraction Attack on Modern Password Managers,2013,7,5,3,0.0,2696758238,Raul Gonzalez,0,-1.5837489113676444,-0.7267031140327017
+1774682829,Clickjacking attacks and defenses,2012,13,107,5,0.9,2166707727,Lin Shung Huang,0,-0.3746761304807184,0.41405085762788324
+1980800818,I Still Know What You Visited Last Summer Leaking Browsing History via User Interaction and Side Channel Attacks,2011,26,79,4,0.0,2096818086,Zachary Weinberg,0,1.7842302963816312,-0.4282638403222199
+2016004370,All Your Screens Are Belong to Us Attacks Exploiting the HTML5 Screen Sharing API,2014,17,9,6,0.0,2137493151,Yuan Tian,0,-0.3287690164964345,0.14636193449847731
+2049214202,Regular expressions considered harmful in client-side XSS filters,2010,5,134,3,0.0,2306025121,Daniel Bates,0,0.0040557659796233,0.2757546058061082
+2049869570,Protecting browsers from cross-origin CSS attacks,2010,15,40,4,0.9,2166707727,Lin Shung Huang,0,-0.4340942520801243,0.3619386618945468
+2056494114,Analyzing Forged SSL Certificates in the Wild,2014,33,80,4,0.705882,2166707727,Lin Shung Huang,0,-0.22736356940901598,-0.1388934188467624
+2072978486,Robust defenses for cross-site request forgery,2008,19,347,2,0.382979,2478475868,Adam Barth,0,2.548241342421157,-0.07425538574092139
+2102493164,App isolation get the security of multiple browsers with just one,2011,18,53,5,1.0,2297718148,Eric Y. Chen,0,0.0040557659796233,0.2757546058061082
+2079569045,Protecting browsers from DNS rebinding attacks,2009,17,42,1,1.0,2135217518,Collin Jackson,0,-1.8266518898487167,0.4184768569535473
+2094258292,Cross-origin pixel stealing timing attacks using CSS filters,2013,5,23,4,0.0,2225104508,Robert Kotcher,0,-0.9814974825600049,0.07542890128936142
+2126461222,Securing frame communication in browsers,2008,10,66,2,0.382979,2478475868,Adam Barth,0,-0.49577385776905125,0.27885947802810657
+2133113868,Protecting browser state from web privacy attacks,2006,3,182,1,1.0,2135217518,Collin Jackson,0,0.9532031733680882,2.101856534832201
+2115962125,Securing frame communication in browsers,2009,12,96,2,0.382979,2478475868,Adam Barth,0,-0.6525339241324515,-0.017668068374477163
+2181415290,Securing Frame Communication,2009,5,2,2,0.0,2125383417,John C. Mitchell,0,-0.49577385776905125,0.27885947802810657
+2145779758,Protecting browsers from dns rebinding attacks,2007,23,81,1,1.0,2135217518,Collin Jackson,0,-1.0251206281243155,0.679090330207109
+2145965671,Practical end-to-end web content integrity,2012,20,15,4,0.0,2096862930,Kapil Singh,0,0.0040557659796233,0.2757546058061082
+2146595241,Forcehttps protecting high-security web sites from network attacks,2008,14,87,1,1.0,2135217518,Collin Jackson,0,0.11562141490851889,0.06459600877812216
+2274195810,Rootkits for JavaScript environments,2009,9,21,2,0.0,290449749,Ben Adida,0,-0.6980194263179514,0.7492833587695192
+2287595538,Improving browser security policies,2009,0,9,1,1.0,2135217518,Collin Jackson,0,-0.21658246266115133,0.3204051787631736
+2294157280,Accountable key infrastructure (AKI) a proposal for a public-key validation infrastructure,2013,14,100,4,0.0,2158512035,Tiffany Hyun Jin Kim,0,0.006313878494686377,-2.0684469546947213
+2300554752,HTTP Strict Transport Security (HSTS),2012,0,103,2,0.0,2645636853,Jeff Hodges,0,0.0040557659796233,0.2757546058061082
+2407581092,Track Best Conference Papers An Experimental Study of TLS Forward Secrecy Deployments,2014,1,0,2,0.0,201828038,Dan Boneh,0,-0.0046135669892357995,-1.4365766121306316
+2408340937,The Case for Prefetching and Prevalidating TLS Server Certificates,2012,22,24,4,0.0,2139881983,Emily Stark,0,1.249240025200947,-0.10724488166572639
+2746937343,Busting frame busting a study of clickjacking vulnerabilities on popular sites,2010,7,87,3,0.0,102775300,Elie Bursztein,0,0.04841774909296905,0.2906464507864569

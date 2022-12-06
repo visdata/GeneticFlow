@@ -1,0 +1,31 @@
+1504954748,Efficient transfer of deduplicated data,2008,33,48,3,0.0,2126514813,Howard Newton Martin,0,-0.025573726265388435,0.3914388565466392
+1020147022,OPTIMIZING RESTORES OF DEDUPLICATED DATA,2013,24,5,4,0.624596,2113317664,Mark L. Yakushev,0,0.001689490568582367,-0.10275475452473477
+1526092790,Data deduplication by separating data from meta data,2011,13,123,1,1.0,2261762629,Matthew J. Anglin,0,-0.5247110143727329,1.2453298927087686
+1536762669,Method and system for assuring integrity of deduplicated data,2008,23,128,2,0.137024,2130998405,David Maxwell Cannon,0,-0.0027724634520094327,0.5081795913219251
+1573649434,Separating file data streams to enhance progressive incremental processing,2008,9,11,4,0.928244,2128679172,Avishai Haim Hochberg,0,-0.42845202490949574,0.1450203979855267
+1485763211,Retrieval and recovery of data chunks from alternate data stores in a deduplicating system,2008,32,57,1,1.0,2261762629,Matthew J. Anglin,0,0.08285876170120854,0.49676975124210365
+1486864636,Data retention using logical objects,2009,7,7,4,0.0,2047175161,Toby Lyn Marek,0,-0.0041099411153885,0.0447066884760059
+1522083256,Restoring a restore set of files from backup objects stored in sequential backup devices,2010,7,15,5,0.705882,1955267462,David Gregory Van Hise,0,-0.0041099411153885,0.0447066884760059
+1839720872,System and method for demand-base data recovery,1997,4,53,4,0.0,1986740840,Mark Anthony Sovik,0,0.11797670951183034,-0.24219977622393202
+1825397974,OPTIMIZED SIMULTANEOUS STORING OF DATA INTO DEDUPLICATED AND NON-DEDUPLICATED STORAGE POOLS,2009,38,39,3,0.0,2126514813,Howard Newton Martin,0,0.08285876170120854,0.49676975124210365
+1866041884,Data storage hierarchy with shared storage level,1990,10,449,3,0.0,1755946151,Gregory John Tevis,0,-0.5558522691008816,1.4494769910998972
+1602477638,Data recovery in a hierarchical data storage system,2007,25,33,5,0.0,2126514813,Howard Newton Martin,0,0.06062424423327276,-0.014343155689205486
+1727525047,Hierarchical storage management using dynamic tables of contents and sets of tables of contents,2008,29,88,5,0.623517,2117119506,Michael Allen Kaczmarski,0,-0.09019982603651154,-0.020013992749455832
+2237033044,Policy based tiered data deduplication strategy,2008,7,129,4,0.0,2126514813,Howard Newton Martin,0,-0.0027724634520094327,0.5081795913219251
+2262758370,Hierarchical storage management of metadata,2006,10,15,2,0.137024,2130998405,David Maxwell Cannon,0,-0.1966676560368412,0.8395640940665133
+2244208153,DISTINGUISHING DATA STREAMS TO ENHANCE DATA STORAGE EFFICIENCY,2008,14,92,4,0.0,2122095567,Neil Gregory Rasmussen,0,-0.35214150384763815,0.3756297054619074
+2244442451,Method for merging metadata on files in a backup storage,2005,6,11,3,1.0,2123863151,Mark Alan Haye,0,-0.45908526316821546,0.6525773003303847
+2260021088,Policy-based sharing of redundant data across storage pools in a deduplicating system,2008,48,41,2,0.137024,2130998405,David Maxwell Cannon,0,0.08285876170120854,0.49676975124210365
+2255514887,SECURELY DELETING DATA IN A TRANSACTIONALLY CONSISTENT MANNER,2007,18,19,3,0.948425,2123863151,Mark Alan Haye,0,1.4763132903280793,1.6461993083475563
+2264942650,Approach for optimizing restores of deduplicated data,2010,20,51,4,1.0,2113317664,Mark L. Yakushev,0,-0.03774307254978674,0.22521779077417348
+2198658729,Article of manufacture and system for merging metadata on files in a backup storage,2008,9,3,2,0.928244,2128679172,Avishai Haim Hochberg,0,-0.45908526316821546,0.6525773003303847
+2226699556,Restoring deduplicated data objects from sequential backup devices,2012,8,1,4,0.624596,2113317664,Mark L. Yakushev,0,0.09560153568394734,0.34384522677555335
+2288010099,Apparatus system and method for maintaining metadata for offline repositories in online databases for efficient access,2006,15,16,2,1.0,2123863151,Mark Alan Haye,0,-0.037527295065822884,0.14164214106365872
+2298987389,Approach for securing distributed deduplication software,2009,10,21,5,1.0,2113317664,Mark L. Yakushev,0,0.08110911135679368,0.13841174160747513
+2285177656,RESTORING DATA OBJECTS FROM SEQUENTIAL BACKUP DEVICES,2012,2,5,4,0.624596,2113317664,Mark L. Yakushev,0,0.09560153568394734,0.34384522677555335
+2307072714,Replication of data objects from a source server to a target server,2012,48,61,5,0.837942,2123863151,Mark Alan Haye,0,-0.16728218469058034,0.04672877282242786
+2295423192,Method system and program for updating records in a database when applications have different version levels,2002,10,20,2,0.623517,2117119506,Michael Allen Kaczmarski,0,-0.23452701549788577,0.09519154688260557
+2300775738,Integrated Approach for Deduplicating Data in a Distributed Environment that Involves a Source and a Target,2009,17,92,6,0.705882,1955267462,David Gregory Van Hise,0,0.045374011440516976,0.4480317466311046
+2394888422,Merging metadata on files in a backup storage,2005,6,20,3,1.0,2123863151,Mark Alan Haye,0,-0.45908526316821546,0.6525773003303847
+2593883661,Data selection for data storage backup,2012,9,1,4,0.11296,2130998405,David Maxwell Cannon,0,0.09560153568394734,0.34384522677555335
+2602002801,Secure deduplication storage management,2010,3,1,5,1.0,2113317664,Mark L. Yakushev,0,0.14576994280781086,0.2194438639562662

@@ -1,0 +1,151 @@
+120268299,Density-connected sets and their application for trend detection in spatial databases,1997,17,42,2,0.833333,2067196623,Martin Ester,0,-0.0041099411153885,0.0447066884760059
+154320479,DIVE Database Integration for Virtual Engineering,2001,4,7,1,1.0,1919135125,Hans Peter Kriegel,0,2.060017429174266,0.6216866726902537
+103617763,Efficient Query Processing on the Relational Quadtree,2003,14,0,1,1.0,1919135125,Hans Peter Kriegel,0,1.0450362803834867,-0.12982470433688204
+189881561,Komplexe Objektbeschreibungen zur Suche in Multimedia-Datenbanken,2006,36,0,4,0.6,182894350,Elke Achtert,0,-0.0041099411153885,0.0447066884760059
+2628525,Fast Searching for Partial Similarity in Polygon Databases,1997,0,3,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+157568796,Reverse-Nearest Neighbor Queries on Uncertain Moving Object Trajectories,2014,31,12,2,0.8,2056229408,Tobias Emrich,0,-0.241250245220175,-0.17693373480736696
+193183462,An Access Method Based Query Processor for Spatial Database Systems,1992,18,19,2,0.0,111055405,Michael Schiwietz,0,2.076634502096578,0.5761036070669376
+127232081,The Paradigm of Relational Indexing a Survey,2003,44,14,1,1.0,1919135125,Hans Peter Kriegel,0,1.4071986088739272,0.18885926027993566
+61535309,Stochastic Driven Relational R-Tree,2003,11,1,1,1.0,1919135125,Hans Peter Kriegel,0,1.710263789790839,0.2747798610294144
+79046718,Probabilistic frequent pattern growth for itemset mining in uncertain databases,2012,24,16,2,1.0,1977319283,Thomas Bernecker,0,1.5440485666181862,0.42265663742653237
+181609631,Monitoring Probabilistic Threshold SUM Query Processing in Uncertain Streams,2014,19,1,6,1.0,2229410474,Nina Hubig,0,-0.42845202490949574,0.1450203979855267
+96772584,Optimal Dimension Order A Generic Technique for the Similarity Join,2002,18,8,3,0.72826,2771206607,Christian Bohm,0,1.509620127787651,-1.1446280267800495
+199875880,Similarity Search in Biological and Engineering Databases,2004,26,4,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+165747143,Fast Inference in Infinite Hidden Relational Models,2007,10,14,5,0.0,2279588302,Zhao Xu,0,2.686523344044067,0.37511681924676676
+50951307,Clustering for Mining in Large Spatial Databases,1998,19,49,2,0.823085,2067196623,Martin Ester,0,2.133697843120137,0.5693113480828883
+1568450000,The Pruning Power Theory and Heuristics for Mining Databases with Multiple k-Nearest-Neighbor Queries,2000,15,6,3,0.866667,2771206607,Christian Bohm,0,-0.043281101449124726,0.48659961267724716
+1532381193,Spatial Data Mining Database Primitives Algorithms and Efficient DBMS Support,2000,13,153,3,0.78422,2067196623,Martin Ester,0,1.2372450162694706,0.17383909182035837
+1541974765,Dynamically Optimizing High-Dimensional Index Structures,2000,35,31,2,0.866667,2771206607,Christian Bohm,0,-0.21782091645555554,0.5219297320101791
+1515641291,Techniques for Design and Implementation of Efficient Spatial Access Methods,1988,26,95,2,0.666667,2151325580,Bernhard Seeger,0,-0.1232715727120712,0.2131450373911843
+1551961308,Knowledge Discovery in Spatial Databases,1999,0,1,2,0.823085,2067196623,Martin Ester,0,1.2093417881871118,0.26507297651154665
+1489915181,Effective similarity search in multimedia databases using multiple representations,2006,5,18,1,1.0,1919135125,Hans Peter Kriegel,0,-0.4014793175863904,0.4163462676031317
+1481232215,ELKI A Software System for Evaluation of Subspace Clustering Algorithms,2008,37,66,2,1.0,182894350,Elke Achtert,0,-0.2602077881279772,0.383951590293224
+1507175305,Multidimensional Index Structures in Relational Databases,2000,30,44,3,0.866667,2771206607,Christian Bohm,0,0.9294833035979172,0.47165095065514856
+1570376885,Database Support for Concurrent Digital Mock-up,1998,4,6,2,1.0,2013057434,Stefan Berchtold,0,1.404568603107858,0.31279129588289506
+1543387779,Incremental OPTICS Efficient Computation of Updates in a Hierarchical Cluster Ordering,2003,8,27,1,1.0,1919135125,Hans Peter Kriegel,0,0.11627582886789564,0.3621724021946999
+1525834213,Periodic Pattern Analysis in Time Series Databases,2009,28,13,2,1.0,1977319283,Thomas Bernecker,0,-0.0041099411153885,0.0447066884760059
+1562576797,Similarity Search in Structured Data,2003,24,31,1,1.0,1919135125,Hans Peter Kriegel,0,-0.2270648441218419,0.03922463773061847
+1491547607,Probabilistic nearest-neighbor query on uncertain objects,2007,16,136,1,1.0,1919135125,Hans Peter Kriegel,0,1.3003433741998773,0.14164616106407915
+1527298686,Implementation of Multidimensional Index Structures for Knowledge Discovery in Relational Databases,1999,28,8,3,1.0,2013057434,Stefan Berchtold,0,0.9004612773865505,0.5489497038070524
+1527659376,Knowledge Discovery in Spatial Databases,1999,15,48,2,0.823085,2067196623,Martin Ester,0,1.8131838609131177,0.46875456423523354
+1529435712,Spatial data management for virtual product development,2003,16,8,1,1.0,1919135125,Hans Peter Kriegel,0,1.627711997676024,0.22631575796284423
+1547566968,A Fast Parallel Clustering Algorithm for Large Spatial Databases,1999,28,228,3,1.0,2647886517,Xiaowei Xu,0,-0.0041099411153885,0.0447066884760059
+1485654915,Improving the Query Performance of High-Dimensional Index Structures by Bulk-Load Operations,1998,17,45,3,1.0,2013057434,Stefan Berchtold,0,0.2955887020091381,0.23507834638429057
+1485941475,Adaptable Similarity Search in Large Image Databases,2001,26,3,2,0.0,2893001898,Thomas Seidl,0,0.2657856797705482,0.14689219539098033
+1557081533,Combining Approximation Techniques and Vector Quantization for Adaptable Similarity Search,2002,21,1,2,0.72826,2771206607,Christian Bohm,0,-0.0681371106864691,0.37370442032925993
+1530595269,Incremental Clustering for Mining in a Data Warehousing Environment,1998,22,429,2,0.823085,2067196623,Martin Ester,0,-0.0041099411153885,0.0447066884760059
+1557835717,A Flexible and Extensible Index Manager for Spatial Database Systems,1991,0,7,1,1.0,1919135125,Hans Peter Kriegel,0,2.4728189040207402,0.7083733825806027
+1521626252,Statistic Driven Acceleration of Object-Relational Space-Partitioning Index Structures,2004,11,7,1,1.0,1919135125,Hans Peter Kriegel,0,0.1204820135469736,-0.019749947926053335
+1539867983,Towards archaeo-informatics scientific data management for archaeobiology,2010,13,3,1,1.0,1919135125,Hans Peter Kriegel,0,0.8346276739638276,-0.08353095554594347
+1504395540,The DC-tree a fully dynamic index structure for data warehouses,2000,12,44,3,0.78422,2067196623,Martin Ester,0,0.3336144253199779,0.367710557561693
+1567005826,VICO visualizing connected object orderings,2006,1,1,2,1.0,2018129953,Stefan Brecheisen,0,0.09560153568394734,0.34384522677555335
+1495933060,Similarity search on time series based on threshold queries,2006,18,72,2,1.0,2001239146,Johannes AÃŸfalg,0,-0.2510781352203235,0.13065124702956285
+1487180234,Optimal Multidimensional Query Processing Using Tree Striping,2000,19,23,4,0.772727,2013057434,Stefan Berchtold,0,0.3820908385543769,0.2117467783858426
+1531687165,Interval-focused similarity search in time series databases,2007,14,2,2,1.0,2001239146,Johannes AÃŸfalg,0,-0.2602077881279772,0.383951590293224
+1793284863,A Storage and Access Architecture for Efficient Query Processing in Spatial Database Systems,1993,22,50,3,0.933333,658694092,Thomas Brinkhoff,0,0.7309364029737735,0.3199507839679203
+1577072181,Knowledge Discovery in Large Spatial Databases Focusing Techniques for Efficient Class Identification,1995,19,147,2,0.857143,2067196623,Martin Ester,0,1.758004621325574,0.721286036622099
+1604390995,Database Primitives for Spatial Data Mining,1999,14,16,3,0.823085,2067196623,Martin Ester,0,2.642367705415063,0.6639255909701669
+1629045084,Reverse k-Nearest Neighbor Search Based on Aggregate Point Access Methods,2009,14,8,1,1.0,1919135125,Hans Peter Kriegel,0,-0.1232715727120712,0.2131450373911843
+1875120328,Efficient Similarity Search for Hierarchical Data in Large Databases,2004,21,71,2,0.0,276841381,Karin Kailing,0,0.49245947946518553,-0.3231062770658375
+1604861835,Efficient Bulk Loading of Large High-Dimensional Indexes,1999,15,15,2,0.866667,2771206607,Christian Bohm,0,-0.0041099411153885,0.0447066884760059
+1673310716,A density-based algorithm for discovering clusters in large spatial Databases with Noise,1996,10,9981,2,0.857143,2067196623,Martin Ester,0,-0.0041099411153885,0.0447066884760059
+1587677499,Continuous inverse ranking queries in uncertain streams,2011,19,4,2,1.0,1977319283,Thomas Bernecker,0,-0.0041099411153885,0.0447066884760059
+1757200940,Adaptable Similarity Search Using Vector Quantization,2001,14,3,2,0.798576,2771206607,Christian Bohm,0,0.21067246561706807,0.3753985696513997
+1580659472,A Cost Model for Spatial Intersection Queries on RI-Trees,2004,5,0,1,1.0,1919135125,Hans Peter Kriegel,0,0.02007562526798301,-0.09461844214556976
+1643569732,Probabilistic nearest neighbor queries on uncertain moving object trajectories,2013,32,38,7,0.666667,2040021649,Johannes Niedermayer,0,-0.0041099411153885,0.0447066884760059
+1963634738,Combined semantic and similarity search in medical image databases,2011,15,21,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+1695866928,Object-Oriented Querying of Existing Relations Databases,1993,23,18,2,0.888889,2147343253,Daniel A. Keim,0,2.027515542095267,0.20089039428767183
+1891244760,Supporting data mining of large databases by visual feedback queries,1994,19,60,2,0.888889,2147343253,Daniel A. Keim,0,0.7215975991611812,0.3052417628859806
+1591450657,Spatial Data Mining A Database Approach,1997,21,222,2,0.833333,2067196623,Martin Ester,0,-0.0041099411153885,0.0447066884760059
+1859817796,Multi-represented k NN-classification for large class sets,2005,22,4,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+1593151701,3D Shape Histograms for Similarity Search and Classification in Spatial Databases,1999,37,480,3,1.0,1098725839,Mihael Ankerst,0,-0.0041099411153885,0.0447066884760059
+1785176652,Query Translation Supporting the Migration of Legacy Databases into Cooperative Information Systems,1994,12,8,2,0.888889,2147343253,Daniel A. Keim,0,0.0908845357243609,0.31128747720343375
+1831360958,Query Processing of Geometric Objects with Free Form Boundaries in Spatial Datbases,1993,22,1,1,1.0,1919135125,Hans Peter Kriegel,0,0.8809340701863815,0.11633144593696097
+1831880546,The Impact of Global Clustering on Spatial Database Systems,1994,24,31,2,1.0,658694092,Thomas Brinkhoff,0,-0.0041099411153885,0.0447066884760059
+1621765684,Scalable Probabilistic Similarity Ranking in Uncertain Databases (Technical Report),2009,26,0,2,1.0,1977319283,Thomas Bernecker,0,1.9339273801983707,0.2038777268954908
+1584872797,ProUD Probabilistic Ranking in Uncertain Databases,2008,9,8,2,1.0,1977319283,Thomas Bernecker,0,1.1165777242997723,-0.007667312040689063
+1964363847,Clustering and knowledge discovery in spatial databases,1997,15,9,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+1927446301,Using Visualization to Support Data Mining of Large Existing Databases,1993,43,21,2,0.888889,2147343253,Daniel A. Keim,0,0.7215975991611812,0.3052417628859806
+1985645247,MUSE Multi-Represented Similarity Estimation,2008,7,3,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+1970180325,An extendable framework for managing uncertain spatio-temporal data,2014,21,1,3,0.8,2056229408,Tobias Emrich,0,-0.13569144333310212,-0.0673546728811351
+2008657551,Knowing a generic data analysis application,2012,4,1,3,1.0,1977319283,Thomas Bernecker,0,-0.3765172023047676,0.12767600060180992
+1991482408,Reverse k-nearest neighbor search in dynamic and general metric databases,2009,16,48,2,1.0,182894350,Elke Achtert,0,0.09560153568394734,0.34384522677555335
+1996910475,Spatial data management for computer aided design,2001,4,11,1,1.0,1919135125,Hans Peter Kriegel,0,0.541048792242954,0.14109191976847427
+2006142460,Online template matching over a stream of digitized documents,2015,24,0,5,0.0,2002881711,Michael Stockerl,0,-0.42845202490949574,0.1450203979855267
+2026206844,Handling geometric objects with free form curves in spatial databases,1993,7,1,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+2030433986,Similarity search and mining in uncertain databases,2010,30,6,3,0.0,2150497105,Matthias Renz,0,0.802799790500729,0.03975100624026613
+2025632971,Performance comparison of index structures for multi-key retrieval,1984,8,39,1,1.0,1919135125,Hans Peter Kriegel,0,1.162642504050577,0.22654127197208643
+2033270956,OSSOBOOK database and knowledgemanagement techniques for archaeozoology,2009,2,1,1,1.0,1919135125,Hans Peter Kriegel,0,2.1506729871961525,0.5611280354067326
+2044074944,Probabilistic frequent itemset mining in uncertain databases,2009,18,223,2,1.0,1977319283,Thomas Bernecker,0,1.5440485666181862,0.42265663742653237
+2044111852,Probabilistic ranking in fuzzy object databases,2012,17,2,3,1.0,1977319283,Thomas Bernecker,0,-0.0041099411153885,0.0447066884760059
+2047984902,The Buddy-Tree An Efficient and Robust Access Method for Spatial Data Base Systems,1990,23,172,2,0.666667,2151325580,Bernhard Seeger,0,-0.2545772244726236,0.41489014338479535
+2039320911,Techniques for efficiently searching in spatial temporal spatio-temporal and multimedia databases,2010,21,6,1,1.0,1919135125,Hans Peter Kriegel,0,-0.04094438780297802,-0.141552880889628
+2050519213,A multistep approach for shape similarity search in image databases,1998,29,36,2,1.0,1098725839,Mihael Ankerst,0,-0.0041099411153885,0.0447066884760059
+2062989810,T-Time Threshold-Based Data Mining on Time Series,2008,11,7,1,1.0,1919135125,Hans Peter Kriegel,0,-1.3677237509149558,-0.5106406181468404
+2063021143,Optimale Dimensionswahl bei der Bearbeitung des Similarity Join,2002,21,1,2,0.72826,2771206607,Christian Bohm,0,-0.0041099411153885,0.0447066884760059
+2063296107,Multi-step processing of spatial joins,1994,25,203,2,1.0,658694092,Thomas Brinkhoff,0,-0.0041099411153885,0.0447066884760059
+2075664853,Efficient Spatial Query Processing in Geographic Database Systems,1993,13,18,1,1.0,1919135125,Hans Peter Kriegel,0,0.8809340701863815,0.11633144593696097
+2077434703,Using extended feature objects for partial similarity retrieval,1997,29,61,3,0.923077,2013057434,Stefan Berchtold,0,-0.0041099411153885,0.0447066884760059
+2058903936,Efficient processing of spatial joins using R-trees,1993,22,516,2,0.933333,658694092,Thomas Brinkhoff,0,-0.0041099411153885,0.0447066884760059
+2094361339,The buddy tree an efficient and robust access method for spatial data base,1990,0,46,1,1.0,1919135125,Hans Peter Kriegel,0,-0.1232715727120712,0.2131450373911843
+2096659092,Managing Intervals Efficiently in Object-Relational Databases,2000,30,102,1,1.0,1919135125,Hans Peter Kriegel,0,1.7471897738389788,0.26533263153661096
+2097042476,Independent quantization an index compression technique for high-dimensional data spaces,2000,20,265,4,0.772727,2013057434,Stefan Berchtold,0,1.2093417881871118,0.26507297651154665
+2103749388,Spatial join for high-resolution objects,2004,18,2,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+2104349760,PLOP-hashing A grid file without directory,1988,22,54,1,1.0,1919135125,Hans Peter Kriegel,0,-0.26064923455455846,0.4315435219240117
+2101616188,A database interface for clustering in large spatial databases,1995,14,131,2,0.857143,2067196623,Martin Ester,0,2.984180864631056,0.7989893205741578
+2085248615,Route skyline queries A multi-preference path planning approach,2010,35,86,1,1.0,1919135125,Hans Peter Kriegel,0,0.25245882146783893,0.09919480006319664
+2090671439,Managing uncertainty in spatial and spatio-temporal data,2014,57,11,3,0.0,2138267588,Reynold Cheng,0,0.7203437858024068,0.21986617588113008
+2099317610,S3 similarity search in CAD database systems,1997,6,94,2,0.923077,2013057434,Stefan Berchtold,0,1.6074283920215615,0.36574663293619397
+2120329225,Visualization techniques for mining large databases a comparison,1996,58,296,2,0.62966,2147343253,Daniel A. Keim,0,-0.42845202490949574,0.1450203979855267
+2123762540,Visual feedback in querying large databases,1993,20,29,2,0.888889,2147343253,Daniel A. Keim,0,0.7215975991611812,0.3052417628859806
+2115057574,Multiple similarity queries a basic DBMS operation for mining in metric databases,2001,27,35,3,1.0,1136592811,Bernhard BraunmÃ¼ller,0,0.8355659295911619,0.4290999785050293
+2112092842,Solvent accessible surface representation in a database system for protein docking,1995,19,10,2,1.0,2140301036,Thomas Seidl,0,-0.46893397788284524,0.07728939382804885
+2118021173,Parallel processing of spatial joins using R-trees,1996,16,102,2,1.0,658694092,Thomas Brinkhoff,0,1.156256010792543,0.27153135884934354
+2109138500,Efficient similarity search in large databases of tree structured objects,2004,5,0,2,0.0,276841381,Karin Kailing,0,-0.0041099411153885,0.0447066884760059
+2129725174,Integration of relational databases in a multidatabase system based on schema enrichment,1993,25,15,2,0.888889,2147343253,Daniel A. Keim,0,3.2705072949143092,0.04187841343845026
+2129938590,Fast parallel similarity search in multimedia databases,1997,22,173,5,0.923077,2013057434,Stefan Berchtold,0,0.2730237009993403,0.23998690527794442
+2121155062,VisDB database exploration using multidimensional visualization,1994,23,290,2,0.888889,2147343253,Daniel A. Keim,0,1.534147972450888,0.22593176081332966
+2127196484,Comparison of approximations of complex objects used for approximation-based query processing in spatial database systems,1993,24,96,2,0.933333,658694092,Thomas Brinkhoff,0,-0.3591586136546091,0.2412205287368428
+2124338143,VisDB a system for visualizing large databases,1995,5,30,2,0.739213,2147343253,Daniel A. Keim,0,-0.0041099411153885,0.0447066884760059
+2118552756,PAROS pareto optimal route selection,2010,2,9,2,1.0,2699017785,Franz Graf,0,-0.16228684496880075,0.6061328024042588
+2130238741,Effective similarity search on voxelized CAD objects,2003,23,44,2,0.0,47138358,Marco PÃ¶tke,0,-0.0041099411153885,0.0447066884760059
+2136337586,Multidimensional dynamic quantile hashing is very efficient for non-uniform record distributions,1987,1,17,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+2136419836,Efficient query processing on relational data-partitioning index structures,2004,3,2,1,1.0,1919135125,Hans Peter Kriegel,0,0.928011536584163,0.12461805017601223
+2121691804,Database Support for Haptic Exploration in Very Large Virtual Environments,2005,6,2,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+2142669732,A cost model and index architecture for the similarity join,2001,37,52,2,0.798576,2771206607,Christian Bohm,0,1.156256010792543,0.27153135884934354
+2110101096,Issues in visualizing large databases,1997,19,25,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+2127983839,Threshold Similarity Queries in Large Time Series Databases,2006,5,7,1,1.0,1919135125,Hans Peter Kriegel,0,-0.46893397788284524,0.07728939382804885
+2119168079,GENESYS a system for efficient spatial query processing,1994,8,12,2,1.0,658694092,Thomas Brinkhoff,0,0.014532710543751099,0.030944858938630852
+2143187015,Time Series Analysis Using the Concept of Adaptable Threshold Similarity,2006,28,4,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+2107475398,A novel probabilistic pruning approach to speed up similarity queries in uncertain databases,2011,26,29,3,1.0,1977319283,Thomas Bernecker,0,1.9339273801983707,0.2038777268954908
+2143272814,BOSS browsing OPTICS-plots for similarity search,2004,3,1,2,1.0,2018129953,Stefan Brecheisen,0,-0.0041099411153885,0.0447066884760059
+2122360161,Continuous probabilistic sum queries in wireless sensor networks with ranges,2012,36,2,6,1.0,2229410474,Nina Hubig,0,-0.0041099411153885,0.0447066884760059
+2111042501,Probabilistic Frequent Pattern Growth for Itemset Mining in Uncertain Databases (Technical Report),2010,21,14,2,1.0,1977319283,Thomas Bernecker,0,1.5440485666181862,0.42265663742653237
+2134627110,Optimal multi-step k-nearest neighbor search,1998,34,421,2,0.9,2140301036,Thomas Seidl,0,-0.0041099411153885,0.0447066884760059
+2153642497,Spatial query processing for high resolutions,2003,20,10,1,1.0,1919135125,Hans Peter Kriegel,0,0.38632121652839624,0.058193535481373765
+2171695132,Acceleration of relational index structures based on statistics,2003,7,4,1,1.0,1919135125,Hans Peter Kriegel,0,1.8582717558960768,0.15151217379381252
+2171729887,Improving Adaptable Similarity Query Processing by Using Approximations,1998,30,36,3,1.0,1098725839,Mihael Ankerst,0,0.3820908385543769,0.2117467783858426
+2166050755,Efficient User-Adaptable Similarity Search in Large Multimedia Databases,1997,25,150,2,1.0,2140301036,Thomas Seidl,0,0.014532710543751099,0.030944858938630852
+2169067830,Scalable Probabilistic Similarity Ranking in Uncertain Databases,2010,27,33,2,1.0,1977319283,Thomas Bernecker,0,1.9339273801983707,0.2038777268954908
+2151135734,The R*-tree an efficient and robust access method for points and rectangles,1990,7,3751,2,0.0,2161521750,Norbert Beckmann,0,0.016658130304974723,0.28707597525645495
+2169278414,Querying Uncertain Spatio-Temporal Data,2012,25,43,2,1.0,2056229408,Tobias Emrich,0,-0.23129897937418267,-0.15820535213911352
+2169344281,Efficiently supporting multiple similarity queries for mining in metric databases,2000,21,40,3,1.0,1136592811,Bernhard BraunmÃ¼ller,0,0.7416278130053794,0.38678233811739793
+2148352271,Exploring subspace clustering for recommendations,2014,4,6,4,0.0,2223546342,Katharina Rausch,0,-0.0041099411153885,0.0447066884760059
+2166368653,Algorithms for characterization and trend detection in spatial databases,1998,8,110,3,0.823085,2067196623,Martin Ester,0,2.092584803935927,0.6684951368980202
+2169737330,Determining the Convex Hull in Large Multidimensional Databases,2001,29,52,2,0.798576,2771206607,Christian Bohm,0,-0.0041099411153885,0.0447066884760059
+2166933393,A distribution-based clustering algorithm for mining in large spatial databases,1998,12,224,3,1.0,2647886517,Xiaowei Xu,0,-0.0041099411153885,0.0447066884760059
+2158275091,Using sets of feature vectors for similarity search on voxelized CAD objects,2003,41,65,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+2152801109,Index research (panel session) forest or trees ,2000,0,1,1,1.0,1919135125,Hans Peter Kriegel,0,-0.08779788631013735,0.0025482991770674605
+2161879423,A cost model for interval intersection queries on RI-trees,2002,29,13,1,1.0,1919135125,Hans Peter Kriegel,0,1.3041517678369228,0.36596046479933825
+2159086712,Efficient Query Processing in Arbitrary Subspaces Using Vector Approximations,2006,9,15,1,1.0,1919135125,Hans Peter Kriegel,0,0.2602363063493063,0.3281623249764951
+2205071250,Epsilon grid order an algorithm for the similarity join on massive high-dimensional data,2001,30,91,4,0.798576,2771206607,Christian Bohm,0,-0.0041099411153885,0.0447066884760059
+2206765495,Techniques for Efficiently Searching in Spatial Temporal Spatio-temporal and Multimedia Databases,2009,20,0,1,1.0,1919135125,Hans Peter Kriegel,0,0.09601428459719444,-0.22468942392447935
+2232801052,Density based subspace clustering over dynamic data,2011,23,16,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+2293436542,Der virtualle Prototyp DatenbankunterstÃ¼tzung fÃ¼r CAD-Anwendungen,2004,0,1,2,1.0,2018129953,Stefan Brecheisen,0,-0.0041099411153885,0.0447066884760059
+2296381452,Continuous Quantile Query Processing in Wireless Sensor Networks,2014,29,3,5,0.666667,2040021649,Johannes Niedermayer,0,-0.0041099411153885,0.0447066884760059
+2473185522,SPOTHOT Scalable Detection of Geo-spatial Events in Large Textual Streams,2016,27,4,3,0.0,2011689237,Erich Schubert,0,-0.0041099411153885,0.0447066884760059
+2562836854,A density-based algorithm for discovering clusters a density-based algorithm for discovering clusters in large spatial databases with noise,1996,9,794,1,1.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+2618113557,Supporting Data mining of large databases by visual feedback queries,1993,0,0,2,0.888889,2147343253,Daniel A. Keim,0,-0.0041099411153885,0.0447066884760059
+2752149858,The pruning power Theory and heuristics for mining databases with multiple k-nearest-neighbor queries,2000,0,1,3,0.866667,2771206607,Christian Bohm,0,-0.043281101449124726,0.48659961267724716
+2788444541,Efficient similarity search for hierarchical data in large databases,2004,0,0,2,0.0,276841381,Karin Kailing,0,0.49245947946518553,-0.3231062770658375
+2951058644,A Novel Probabilistic Pruning Approach to Speed Up Similarity Queries in Uncertain Databases,2011,24,0,3,1.0,1977319283,Thomas Bernecker,0,-0.2602077881279772,0.383951590293224

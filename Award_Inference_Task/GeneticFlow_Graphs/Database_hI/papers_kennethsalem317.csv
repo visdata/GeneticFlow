@@ -1,0 +1,59 @@
+86934288,Requirements Specification for a Temporal Extension to the Relationsl Model,1988,0,5,2,0.0,237419955,Hector Garcia Molina,0,-0.0041099411153885,0.0447066884760059
+104773549,Proceedings of the Fourth International Workshop on Testing Database Systems,2011,0,0,1,1.0,2157592790,Kenneth Salem,0,-0.0041099411153885,0.0447066884760059
+206903175,Services for a Workflow Management System,1994,0,7,2,0.075336,237419955,Hector Garcia Molina,0,0.9757876723152895,0.8105949090582756
+176809997,Concurrency Control and Recovery for Global Procedures in Federated Database Systems,1987,0,91,3,0.0,2138960101,Rafael Alonso,0,2.567450937411498,3.2402267415719357
+187271159,Deploying Database Appliances in the Cloud,2009,16,57,2,0.158417,2066833720,Ashraf Aboulnaga,0,1.8914007082058568,0.5793494412049495
+204654470,Modeling long-running activities as nested sagas,1991,0,102,5,0.0920912,237419955,Hector Garcia Molina,0,-0.0041099411153885,0.0447066884760059
+1533695319,Report on the Second International Workshop on Self-Managing Database Systems (SMDB 2007),2007,51,0,6,0.0,2798299887,Anastassia Ailamaki,0,-0.15695418509871564,0.19310717880606795
+1949309991,Adaptive blocks rearrangement,1993,9,2,2,0.0,2022030413,Sedat AkyÃ¼rek,0,-0.2745846951811073,0.3434066784567294
+1986247889,Probabilistic diagnosis of hot spots,1992,7,8,2,0.0,2144418927,Daniel BarbarÃ¡,0,1.2093417881871118,0.26507297651154665
+1967155922,Automatic virtual machine configuration for database workloads,2010,34,59,4,0.9,1273414183,Ahmed A. Soror,0,1.0239866369163344,0.8796524470510083
+1983224729,Automatic virtual machine configuration for database workloads,2008,33,109,4,1.0,1273414183,Ahmed A. Soror,0,1.0239866369163344,0.8796524470510083
+1992331625,Storage workload estimation for database management systems,2007,19,21,2,1.0,2227291124,Oguzhan Ozmen,0,2.5220257273240607,0.8498301324623805
+2015634136,Virtualization and databases state of the art and research challenges,2008,71,11,3,0.158417,2066833720,Ashraf Aboulnaga,0,-0.0041099411153885,0.0447066884760059
+2018512948,Query processing techniques for arrays,1999,40,18,2,0.666667,2020515177,Arunprasad P. Marathe,0,0.13233175764331187,0.22423938928651474
+2041180570,Lazy database replication with snapshot isolation,2006,31,130,2,1.0,426341526,Khuzaima Daudjee,0,1.2756571293334655,1.3874868561510187
+2058217961,Write Amplification An Analysis of In-Memory Database Durability Techniques,2015,8,1,2,0.0,2480468321,Jae Myung Kim,0,1.2642755570804136,0.39586949557461465
+2072983657,Database high availability using SHADOW systems,2015,24,3,2,0.0,2480468321,Jae Myung Kim,0,1.0210148509659172,0.19571362978656975
+2067931298,Materialized views for eventually consistent record stores,2013,19,3,3,0.0,2401311621,Changjiu Jin,0,2.042639391560243,0.5683118680368034
+2082651521,Compact access control labeling for efficient secure XML query evaluation,2007,18,21,3,1.0,2107116088,Huaxin Zhang,0,2.2517634477183193,-0.99954040369712
+2098095723,Accordion elastic scalability for database systems supporting distributed transactions,2014,25,31,4,0.0,2310895133,Marco Serafini,0,0.8893332517271402,0.8260158305330685
+2092324613,Query processing techniques for arrays,2002,37,53,2,0.666667,2020515177,Arunprasad P. Marathe,0,-0.10123805917113833,0.5111077411825476
+2081991734,Workload-aware storage layout for database systems,2010,20,23,2,1.0,2227291124,Oguzhan Ozmen,0,0.541048792242954,0.14109191976847427
+2126321570,How to roll a join asynchronous incremental view maintenance,2000,10,101,1,1.0,2157592790,Kenneth Salem,0,2.95452403661811,0.888879323027627
+2114913558,Inferring a Serialization Order for Distributed Transactions,2006,9,4,2,1.0,426341526,Khuzaima Daudjee,0,1.7621571178602582,0.5034733713914148
+2129594746,Dynamic histograms for non-stationary updates,2005,14,2,2,0.0,2688937527,E. Lam,0,1.15941583720679,0.24889372652238476
+2129789076,A pure lazy technique for scalable transaction processing in replicated databases,2005,20,4,2,1.0,426341526,Khuzaima Daudjee,0,0.8819964512398518,0.8953778822058752
+2136390693,Main memory database systems an overview,1992,25,443,2,0.041902,237419955,Hector Garcia Molina,0,0.0835119396817451,0.051530138659233005
+2130846554,RemusDB transparent high availability for database systems,2013,27,60,5,0.666667,323964158,Umar Farooq Minhas,0,-0.0041099411153885,0.0447066884760059
+2122225167,Elastic Scale-Out for Partition-Based Database Systems,2012,16,26,4,0.666667,323964158,Umar Farooq Minhas,0,1.9961625269409715,0.5148705879908397
+2140206982,Managing Geo-replicated Data in Multi-datacenters,2013,62,10,5,0.0,2169544959,Divyakant Agrawal,0,1.9498289841529364,2.1446166957578248
+2134489155,DAX a widely distributed multitenant storage service for DBMS hosting,2013,27,10,3,1.0,2311824831,Rui Liu,0,0.8342777435886438,0.19253312391631258
+2140764275,Database Virtualization A New Frontier for Database Tuning and Physical Design,2007,20,33,3,1.0,1273414183,Ahmed A. Soror,0,2.2063639499553678,0.6986180093254526
+2123061300,Optimization of query streams using semantic prefetching,2004,13,38,2,0.666667,2261587264,Ivan T. Bowman,0,0.24145375283221612,-0.15352772600352535
+2134799464,Checkpointing memory-resident databases,1989,15,66,1,1.0,2157592790,Kenneth Salem,0,1.9468989197016324,1.3931394560149937
+2141005708,Database systems on virtual machines How much do you lose ,2008,11,35,3,0.666667,323964158,Umar Farooq Minhas,0,-0.0041099411153885,0.0447066884760059
+2168592511,PSALM Cardinality Estimation in the Presence of Fine-Grained Access Controls,2009,25,5,3,0.0,1982738670,Ihab F. Ilyas,0,0.3878973337708522,-0.01152252985257233
+2150627714,Compact Access Control Labeling for Efficient Secure XML Query Evaluation,2005,19,9,3,1.0,2107116088,Huaxin Zhang,0,2.2192207372045085,-1.0518227953394355
+2172369490,Data management with massive memory a summary,1991,8,3,5,0.0920912,237419955,Hector Garcia Molina,0,0.022448062727596307,0.292151306126049
+2157316169,Poster session Constrained dynamic physical database design,2008,23,3,3,0.0,1977629762,Hannes Voigt,0,0.2574330518012884,0.20789716955769286
+2145977340,Automatic tuning of the multiprogramming level in Sybase SQL Anywhere,2010,13,13,2,0.0,2222614395,Mohammed Abouzour,0,-0.12247839025394704,-0.08998848233949182
+2152102944,Hybrid storage management for database systems,2013,17,24,2,1.0,2526567058,Xin Liu,0,-0.0041099411153885,0.0447066884760059
+2161306597,Semantic Prefetching of Correlated Query Sequences,2007,11,10,2,0.666667,2261587264,Ivan T. Bowman,0,0.16782124802273696,0.2536234597393226
+2152541844,Towards Adaptive Costing of Database Access Methods,2007,12,11,2,0.0,2553534352,Ye Qin,0,0.12322131123226628,-0.04085747745802407
+2170907411,Lazy database replication with ordering guarantees,2004,18,60,2,1.0,426341526,Khuzaima Daudjee,0,2.7677008296239256,2.883156499368304
+2203595453,System and method for asynchronous view maintenance,2000,5,66,3,0.0,2020635548,Bruce G. Lindsay,0,2.921378699128434,0.9996317402954386
+2290374116,Implementing extended transaction models using transaction groups,1993,0,1,1,1.0,2157592790,Kenneth Salem,0,1.4592379654954397,1.5953384049633959
+2295683682,Altruistic locking,1994,21,65,1,1.0,2157592790,Kenneth Salem,0,2.265635900079124,2.369709450868288
+2406137460,Integrating SSD Caching into Database Systems,2014,15,0,2,1.0,2526567058,Xin Liu,0,-0.0041099411153885,0.0447066884760059
+2400761516,Towards Dynamic Green-Sizing for Database Servers,2015,29,6,4,1.0,2404760379,Mustafa Korkmaz,0,1.1473428934154142,0.16797705101005034
+2406529240,A Taxonomy of Partitioned Replicated Cloud-based Database Systems,2015,9,8,3,0.0,2643439601,D. Agrawal,0,0.6685116395377396,-0.051391347896657794
+2430280192,NoSE Schema design for NoSQL applications,2016,29,12,2,0.0,2230614102,Michael J. Mior,0,2.575182168493491,-0.1527106214866255
+2611739902,An analysis of memory power consumption in database systems,2017,20,0,2,1.0,2112290042,Alexey Karyakin,0,-0.0041099411153885,0.0447066884760059
+2798304533,Carousel Low-Latency Transaction Processing for Globally-Distributed Data,2018,42,4,6,0.0,2592730030,Xinan Yan,0,1.293047281795555,1.3641074947201857
+2799069368,Workload-Aware CPU Performance Scaling for Transactional Database Systems,2018,15,5,3,1.0,2404760379,Mustafa Korkmaz,0,0.7773074909099718,0.9410422294571301
+2913900860,DPI The Data Processing Interface for Modern Networks,2019,0,3,4,0.0,2122271048,Gustavo Alonso,0,-0.07717982967481318,-0.10795400592374306
+2893079051,Renormalization of NoSQL Database Schemas,2018,34,0,2,0.0,2893041420,Michael J. Mior,0,1.7451445244488812,0.05105448771942346
+2999055083,Special issue on best papers of VLDB 2017,2020,0,0,2,0.0,2081047619,Peter Boncz,0,-0.25609130579317646,0.2785941556746898
+2970546348,DimmStore memory power optimization for database systems,2019,0,0,2,1.0,2112290042,Alexey Karyakin,0,-0.0041099411153885,0.0447066884760059
+2997335737,Special issue on best papers of DaMoN 2018,2020,0,0,1,1.0,2157592790,Kenneth Salem,0,-0.0041099411153885,0.0447066884760059

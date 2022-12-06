@@ -1,0 +1,68 @@
+186621202,De-noising phase ambiguity correction and visualization techniques for complex-valued ICA of group fMRI data,2012,48,30,2,1.0,2146147543,Pedro A. Rodriguez,0,0.4032009894852866,1.1445403013882876
+1480506467,Group-level component analyses of EEG validation and evaluation,2015,25,49,1,1.0,47842845,Vince D. Calhoun,0,0.21438872843298346,-0.1353423822296997
+1223193434,Terminology Development Towards Harmonizing Multiple Clinical Neuroimaging Research Repositories,2015,31,4,8,1.0,2555338877,Jessica A. Turner,0,0.006073518764543651,-0.10262333406607207
+1943480391,The Function Biomedical Informatics Research Network Data Repository,2016,52,37,9,0.0,2039225493,David B. Keator,0,-0.05906579399106848,-0.22176558531044024
+1582893002,Multimodal Data Fusion Using Source Separation Two Effective Models Based on ICA and IVA and Their Properties,2015,79,33,3,0.0,1987616310,Tulay Adali,0,0.2738778582657415,-0.12145947487102352
+1984186972,Strategies for reducing large fMRI data sets for independent component analysis,2006,19,10,1,1.0,47842845,Vince D. Calhoun,0,-0.16731138601614423,-0.13275473685615724
+2006039709,A Multivariate Model for Comparison of Two Datasets and its Application to FMRI Analysis,2007,13,4,1,1.0,47842845,Vince D. Calhoun,0,0.003708468606338,0.082832279151172
+2027662587,A review of multivariate analyses in imaging genetics,2014,136,67,2,0.8,2136278240,Jingyu Liu,0,-0.21934185016841626,0.6056873083074126
+2069706582,Large scale collaboration with autonomy Decentralized data ICA,2015,25,16,3,1.0,2889112018,Bradley T. Baker,0,0.10029682421646449,-0.05947789645891758
+2065131965,A Review of Multivariate Methods for Multimodal Fusion of Brain Imaging Data,2012,76,210,1,1.0,47842845,Vince D. Calhoun,0,-0.32040250062971387,1.1076042711656626
+2096711127,The Use of a priori Information in ICA-Based Techniques for Real-Time fMRI An Evaluation of Static/Dynamic and Spatial/Temporal Characteristics,2013,31,11,1,1.0,47842845,Vince D. Calhoun,0,0.22295114571338406,0.12718657768906444
+2081689238,Canonical Correlation Analysis for Data Fusion and Group Inferences,2010,32,175,4,1.0,2153287021,Nicolle M. Correa,0,-0.003363328130127167,-0.14882322769672562
+2113173487,A Parallel Independent Component Analysis Approach to Investigate Genomic Influence on Brain Function,2008,12,37,3,0.8,2136278240,Jingyu Liu,0,-0.1908094651786742,0.41037779126763796
+2145365764,Quality Map Thresholding for De-noising of Complex-Valued fMRI Data and Its Application to ICA of fMRI,2011,25,12,4,1.0,2146147543,Pedro A. Rodriguez,0,-0.2603613110186321,0.22532733704052654
+2157609854,Mining the mind research network a novel framework for exploring large scale heterogeneous translational neuroscience research data sources,2010,20,36,12,0.0,3011757970,Henry Jeremy Bockholt,0,-0.22114624865019536,-0.11885719005731872
+2158251387,MEG and fMRI fusion for non-linear estimation of neural and BOLD signal changes,2010,61,20,2,1.0,1244112658,Sergey M. Plis,0,-0.946449591760713,-0.3051740117142014
+2164287735,SchizConnect Virtual Data Integration in Neuroimaging,2015,15,13,8,0.0,278377883,JosÃ© Luis Ambite,0,0.2203513016097659,-0.05856305705207425
+2253892476,Quality Assurance in Functional MRI,2015,47,4,1,1.0,47842845,Vince D. Calhoun,0,0.34402371984857977,0.18048399119476494
+2281718157,The Brain Imaging Data Structure a standard for organizing and describing outputs of neuroimaging experiments,2016,31,10,2,0.0,42138872,GaÃ«l Varoquaux,0,0.003708468606338,0.082832279151172
+2342414964,Deep Independence Network Analysis of Structural Brain Imaging Application to Schizophrenia,2016,30,16,1,1.0,47842845,Vince D. Calhoun,0,0.003708468606338,0.082832279151172
+2343471405,Privacy-preserving source separation for distributed data using independent component analysis,2016,17,6,6,0.0,1996475308,Hafiz Imtiaz,0,0.003708468606338,0.082832279151172
+2538491254,Integration of SNPs-FMRI-methylation data with sparse multi-CCA for schizophrenia study,2016,33,4,3,0.0,2546465317,Wenxing Hu,0,0.003708468606338,0.082832279151172
+2572997728,Diagnosing schizophrenia by integrating genomic and imaging data through network fusion,2016,36,1,3,0.0,2572251021,Su Ping Deng,0,-0.1908094651786742,0.41037779126763796
+2538961925,Predicting schizophrenia by fusing networks from SNPs DNA methylation and fMRI data,2016,23,3,3,0.0,2572251021,Su Ping Deng,0,-0.1908094651786742,0.41037779126763796
+2550385540,An open science resource for establishing reliability and reproducibility in functional,2014,77,0,1,1.0,47842845,Vince D. Calhoun,0,0.003708468606338,0.082832279151172
+2557615715,Influence Function of Multiple Kernel Canonical Analysis to Identify Outliers in Imaging Genetics Data,2016,38,9,2,0.0,2648521622,Md. Ashad Alam,0,0.2509686841123843,0.30891358363025784
+2734864792,Cooperative learning Decentralized data neural network,2017,15,10,3,0.0,2735392482,Noah Lewis,0,0.17691623570398973,0.28166032056241247
+2685414441,Two models for fusion of medical imaging data Comparison and connections,2017,24,0,2,1.0,339258744,Yuri Levin Schwartz,0,0.11672415509507165,0.0338187686908989
+2612174407,FDR-Corrected Sparse Canonical Correlation Analysis with Applications to Imaging Genomics,2017,19,0,3,1.0,2227834198,Alexej Gossmann,0,0.003708468606338,0.082832279151172
+2710838976,Flexible large-scale fMRI analysis A survey,2017,43,4,2,0.0,2151164259,Seung Jun Kim,0,0.018230787546108962,-0.06754442262832358
+2731948962,Enforcing Co-Expression Within a Brain-Imaging Genomics Regression Framework,2018,30,7,2,1.0,2678129812,Pascal Zille,0,-0.09024603142757759,0.08185320961363296
+2722916767,Decentralized independent vector analysis,2017,25,9,3,0.0,2719296542,Nikolas P. Wojtalewicz,0,0.21438872843298346,-0.1353423822296997
+2593331880,Quantifying the Interaction and Contribution of Multiple Datasets in Fusion Application to the Detection of Schizophrenia,2017,73,10,2,1.0,339258744,Yuri Levin Schwartz,0,0.28859053049305355,-0.15688105257157328
+2745068091,Replicability of time-varying connectivity patterns in large resting state fMRI samples,2017,0,4,7,1.0,2772428536,Anees Abrol,0,0.34402371984857977,0.18048399119476494
+2769088076,Detection of relationships among multi-modal brain imaging meta-features via information flow,2018,26,1,1,1.0,47842845,Vince D. Calhoun,0,0.12492345808765674,0.23414093372237493
+2757072205,A Bayesian Approach for Estimating Dynamic Functional Network Connectivity in fMRI Data,2018,80,18,1,1.0,47842845,Vince D. Calhoun,0,0.003708468606338,0.082832279151172
+2738481748,Machine Learning for Large-Scale Quality Control of 3D Shape Models in Neuroimaging,2017,4,0,14,0.0,2546770106,Dmitry Petrov,0,-2.1459052838378136,-1.5719292678513388
+2964341539,FDR-Corrected Sparse Canonical Correlation Analysis With Applications to Imaging Genomics,2018,57,3,3,1.0,2227834198,Alexej Gossmann,0,0.21438872843298346,-0.1353423822296997
+2979951567,Selection of Efficient Clustering Index to Estimate the Number of Dynamic Brain States from Functional Network Connectivity,2019,19,0,4,1.0,2109628855,Victor M. Vergara,0,-0.06964795291767574,0.3987266249484836
+2985120253,dSNE a visualization approach for use with decentralized data,2019,56,0,1,1.0,47842845,Vince D. Calhoun,0,0.1579559588619796,0.563349572073047
+827857842,Comparison of PCA approaches for very large group ICA,2015,21,12,1,1.0,47842845,Vince D. Calhoun,0,-0.08237668514059311,0.007303157008093049
+1967082934,Enhanced disease characterization through multi network functional normalization in fMRI,2015,48,5,1,1.0,47842845,Vince D. Calhoun,0,0.3800127224570261,0.21004767587848977
+1975902021,Group independent component analysis of MR spectra,2013,28,4,1,1.0,47842845,Vince D. Calhoun,0,0.21438872843298346,-0.1353423822296997
+1988979669,Automated collection of imaging and phenotypic data to centralized and distributed data repositories,2014,8,13,10,0.0,2329719996,Margaret D. King,0,-0.304915002384009,-0.17322462275954165
+2023095826,SimTB a simulation toolbox for fMRI data under a model of spatiotemporal separability,2012,47,125,6,0.0,2189123561,Erik B. Erhardt,0,0.003708468606338,0.082832279151172
+2045851706,Extracting Intrinsic Functional Networks with Feature-Based Group Independent Component Analysis,2013,46,28,1,1.0,47842845,Vince D. Calhoun,0,-0.21934185016841626,0.6056873083074126
+2048234200,Sparse models for correlative and integrative analysis of imaging and genetic data,2014,82,29,1,1.0,47842845,Vince D. Calhoun,0,0.003708468606338,0.082832279151172
+2065604017,A statistically motivated framework for simulation of stochastic data fusion models applied to multimodal neuroimaging,2014,49,7,5,1.0,2096101432,Rogers F. Silva,0,0.003708468606338,0.082832279151172
+2092826400,Harnessing Modern Web Application Technology to Create Intuitive and Efficient Data Visualization and Sharing Tools,2014,10,29,9,1.0,2191153473,Dylan Wood,0,0.0886501136968206,-0.07254636609136367
+2094345233,Preserving subject variability in group fMRI analysis performance evaluation of GICA vs IVA,2014,25,47,1,1.0,47842845,Vince D. Calhoun,0,0.003708468606338,0.082832279151172
+2132782405,Sharing privacy-sensitive access to neuroimaging and genetics data a review and preliminary validation,2014,96,27,7,0.0,1973314746,Anand D. Sarwate,0,0.08192480196792382,-0.18210315565979363
+2119409507,An ICA with reference approach in identification of genetic variation and associated brain networks,2012,53,22,1,1.0,47842845,Vince D. Calhoun,0,0.003708468606338,0.082832279151172
+2144262351,Correspondence between structure and function in the human brain at rest,2012,71,99,9,0.0,2107236367,Judith M. Segall,0,0.003708468606338,0.082832279151172
+2167265771,COINS An Innovative Informatics and Neuroimaging Tool Suite Built for Large Heterogeneous Datasets,2011,21,120,11,0.0,2193189223,Adam Scott,0,0.003708468606338,0.082832279151172
+2152847544,The Clinical Assessment and Remote Administration Tablet,2011,20,4,5,1.0,2555338877,Jessica A. Turner,0,0.11672415509507165,0.0338187686908989
+2304919136,The effect of preprocessing pipelines in subject classification and detection of abnormal resting state functional network connectivity using group ICA,2017,55,24,7,1.0,2109628855,Victor M. Vergara,0,-0.34926746956824223,-0.025241499969567247
+2330647764,Sample-poor estimation of order and common signal subspace with application to fusion of medical imaging data,2016,42,17,4,1.0,339258744,Yuri Levin Schwartz,0,0.003708468606338,0.082832279151172
+2330892731,A Tool for Interactive Data Visualization Application to Over 10000 Brain Imaging and Phantom MRI Data Sets,2016,29,13,1,1.0,47842845,Vince D. Calhoun,0,0.102328485541804,0.7245411086176196
+2279175224,Neuroimaging measures of error-processing Extracting reliable signals from event-related potentials and functional magnetic resonance imaging,2016,67,33,9,0.0,2214379994,Vaughn R. Steele,0,0.003708468606338,0.082832279151172
+2336932237,The connectivity domain Analyzing resting state fMRI data using feature-based data-driven and model-based methods,2016,51,33,2,0.0,2304779995,Armin Iraji,0,-0.1199149129870934,-0.21563747066040134
+2500004684,Joint sparse canonical correlation analysis for detecting differential imaging genetics modules,2016,48,23,6,0.0,2708582645,Jian Fang,0,0.003708468606338,0.082832279151172
+2735317774,Sparsity and Independence Balancing Two Objectives in Optimization for Source Separation with Application to fMRI Analysis,2017,29,7,3,0.0,2224695276,Zois Boukouvalas,0,0.003708468606338,0.082832279151172
+2743574578,Comparing brain graphs in which nodes are regions of interest or independent components A simulation study,2017,55,17,1,1.0,47842845,Vince D. Calhoun,0,0.003708468606338,0.082832279151172
+2776228649,Investigation of True High Frequency Electrical Substrates of fMRI-Based Resting State Networks Using Parallel Independent Component Analysis of Simultaneous EEG/fMRI Data,2017,69,5,4,0.0,2330888453,Sreenath P. Kyathanahally,0,0.003708468606338,0.082832279151172
+2889298776,Decentralized Analysis of Brain Imaging Data Voxel-Based Morphometry and Dynamic Functional Network Connectivity,2018,48,6,9,0.0,2889530371,Harshvardhan Gazula,0,0.003708468606338,0.082832279151172
+2891144030,A resting state fMRI analysis pipeline for pooling inference across diverse cohorts an ENIGMA rs-fMRI protocol,2019,89,8,1,1.0,47842845,Vince D. Calhoun,0,0.003708468606338,0.082832279151172
+2951103577,The brain imaging data structure a format for organizing and describing outputs of neuroimaging experiments,2016,29,251,2,0.0,42138872,GaÃ«l Varoquaux,0,0.003708468606338,0.082832279151172
+3006791805,Determining the number of states in dynamic functional connectivity using cluster validity indexes,2020,62,0,1,1.0,47842845,Vince D. Calhoun,0,-0.7497742724475449,2.1788501748825357

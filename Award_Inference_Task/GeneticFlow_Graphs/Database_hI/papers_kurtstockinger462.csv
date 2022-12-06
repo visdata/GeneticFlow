@@ -1,0 +1,30 @@
+179246824,Multi-dimensional bitmap indices for optimising data access within object oriented databases at CERN,2001,51,3,1,1.0,2463969832,Kurt Stockinger,0,-0.22993524802576423,0.48077480597134437
+1480225706,UK Grid Simulation with OptorSim,2003,8,25,5,0.0,1957179320,R. Carvajal Schiaffino,0,0.16477033626089935,0.2755436432715686
+1569878055,Breaking the Curse of Cardinality on Bitmap Indexes,2008,27,53,2,0.0,2152841419,Kesheng Wu,0,0.321982426868758,-0.052080221642402245
+1552798477,DEX increasing the capability of scientific data analysis pipelines by using efficient bitmap indices to accelerate scientific visualization,2005,24,19,1,1.0,2463969832,Kurt Stockinger,0,0.18601297105691045,-0.0008472885667257998
+1821867596,RRS replica registration service for data grids,2005,12,2,3,0.0,742538449,Arie Shoshani,0,-0.2841341251877007,0.06373557313257366
+1924820223,Towards a cost model for distributed and replicated data stores,2001,16,48,2,0.0,2777884990,Heinz Stockinger,0,0.3949352819165926,0.4351814688610999
+2031427342,Data-thirsty business analysts need SODA search over data warehouse,2011,8,7,5,0.852643,2135217904,Lukas Blunschi,0,0.5946586928666788,0.20180570175984522
+2032299694,SODA generating SQL for business users,2012,21,35,5,0.852643,2135217904,Lukas Blunschi,0,1.1980533456063924,0.9068235342335916
+2071774356,Analyses of multi-level and multi-component compressed bitmap indexes,2010,41,49,3,0.0,2152841419,Kesheng Wu,0,0.450079322476521,-0.2710619142497942
+2103543285,HDF5-FastQuery Accelerating Complex Queries on HDF Datasets using Fast Bitmap Indices,2006,16,41,3,1.0,1997962722,Luke J. Gosink,0,0.0900281604818538,0.015366639420871842
+2087242306,Adaptive Bitmap Indexes for Space-Constrained Systems,2008,2,9,4,0.0,2567822504,Rishi Rakesh Sinha,0,0.7693584659593848,-0.7143490958005881
+2096345085,Optimizing i/o costs of multi-dimensional queries using bitmap indices,2005,15,18,2,0.0,2950923501,Doron Rotem,0,-0.21331887261990995,0.08489552757621045
+2138164122,Replica Management in the European DataGrid Project,2004,25,42,8,0.0,2806478963,D.G. Cameron,0,-0.47204939659462636,-0.36995974988344515
+2138583202,Design and implementation of bitmap indices for scientific data,2001,13,15,1,1.0,2463969832,Kurt Stockinger,0,0.321982426868758,-0.052080221642402245
+2111973721,The Credit Suisse Meta-data Warehouse,2012,3,5,5,1.0,2043121753,Claudio Jossen,0,-0.12570004200418278,0.08002531494496738
+2107694471,Enabling Real-Time Querying of Live and Historical Stream Data,2007,34,58,2,0.0,2973541017,F. Reiss,0,0.22864094107172225,-0.3944546947020429
+2184070058,Accelerating Complex Queries on HDF Datasets using Fast Bitmap Indices,2006,16,0,5,0.875,277778480,John Shalf,0,0.0900281604818538,0.015366639420871842
+2160860966,Minimizing I/O Costs of Multi-Dimensional Queries with Bitmap Indices,2006,22,10,2,0.0,2950923501,Doron Rotem,0,0.635917537248523,-0.09256830184802575
+2146365100,Strategies for processing ad hoc queries on large data warehouses,2002,21,33,1,1.0,2463969832,Kurt Stockinger,0,0.635917537248523,-0.09256830184802575
+2631342172,HDF5-FastQuery Accelerating Complex Queries on HDF Datasets usingFast Bitmap Indices,2006,0,0,4,0.875,277778480,John Shalf,0,0.0900281604818538,0.015366639420871842
+2597901200,Efficient Analysis of Live and Historical Streaming Data and itsApplication to Cybersecurity,2007,0,0,2,0.0,2063640528,Joseph M. Hellerstein,0,0.17977454635451431,-0.29154526367621825
+2595755038,HDF5-FastQuery Accelerating Complex Queries on HDF Datasets UsingFast Bitmap Indices,2005,0,0,4,0.875,277778480,John Shalf,0,0.0900281604818538,0.015366639420871842
+2759099597,ZNS efficient query processing with ZurichNoSQL,2017,24,1,2,0.0,1715432434,Richard BÃ¶di,0,1.1334992855753467,0.12350057853078132
+2894197344,Evaluation of query processing with impala for mixed workloads,2014,0,0,1,1.0,2463969832,Kurt Stockinger,0,0.06635930819191084,0.49152641060504293
+2950067395,A comparative survey of recent natural language interfaces for databases,2019,71,2,2,0.0,2784620573,Katrin Affolter,0,-0.5392646366612164,0.07082667600748775
+2950584515,SODA Generating SQL for Business Users,2012,20,21,5,0.852643,2135217904,Lukas Blunschi,0,1.1980533456063924,0.9068235342335916
+3023336441,Next generation EU datagrid data management services,2003,0,6,18,0.0,111850570,Akos Frohner,0,0.18601297105691045,-0.0008472885667257998
+1559704687,Data Management in an International Data Grid Project,2000,11,397,7,0.0,99559529,Wolfgang Hoschek,0,-0.05077579109739459,-0.15409455313398546
+1539647991,Improving the Performance of High-Energy Physics Analysis through Bitmap Indices,2000,12,26,1,1.0,2463969832,Kurt Stockinger,0,0.14792002256136497,0.3303880476213786
+1890458195,Bitmap Indices for Speeding Up High-Dimensional Data Analysis,2002,18,18,1,1.0,2463969832,Kurt Stockinger,0,0.46024738893706757,0.0022620357828519342

@@ -1,0 +1,80 @@
+125975561,First International Workshop on Graph Data Management Experiences and Systems,2013,0,2,1,1.0,2081047619,Peter Boncz,0,-0.24631475925461466,0.01662727508514165
+10089010,Linked stream data processing engines facts and figures,2012,24,71,4,0.0,2589203430,Danh Le Phuoc,0,-0.09341890233576104,0.14265779290086006
+1489346022,The Drill Down Benchmark,1998,7,13,1,1.0,2081047619,Peter Boncz,0,-0.7653344347314514,0.8083205582994121
+1902213102,Parameter Curation for Benchmark Queries,2014,7,8,2,0.6,1395633217,Andrey Gubichev,0,0.03224865671091357,0.1959824047573605
+1936410615,Generic database cost models for hierarchical memory systems,2002,16,89,2,0.0,2424910365,Stefan Manegold,0,-0.0395804122397981,0.0068802457672825015
+1983901269,Report on the Second International Workshop on Data Management on Modern Hardware (DaMoN06),2006,0,0,2,0.0,1787861840,Anastassia Ailamaki,0,-1.4255011930246206,0.473186538669144
+1986397479,AmbientDB relational query processing in a P2P network,2003,25,32,1,1.0,2081047619,Peter Boncz,0,0.6579308067730384,0.24388080750399732
+1983157396,Automatic schema design for co-clustered tables,2013,14,0,2,1.0,2302730591,Stephan Baumann,0,-2.5099091958544415,0.5753340559138218
+2005294557,Micro adaptivity in Vectorwise,2013,19,31,2,0.0,2229695006,Bogdan RÄƒducanu,0,-0.0395804122397981,0.0068802457672825015
+2002431676,Scientific discovery through weighted sampling,2013,14,4,3,0.75,2079040073,Lefteris Sidirourgos,0,0.003708468606338,0.082832279151172
+2042180822,From x100 to vectorwise opportunities challenges and things most researchers do not think about,2012,7,4,2,0.723622,2120338334,Marcin Zukowski,0,0.003708468606338,0.082832279151172
+2053544001,How to generate query parameters in RDF benchmarks,2014,8,0,3,0.6,1395633217,Andrey Gubichev,0,0.003708468606338,0.082832279151172
+2068644217,MIL primitives for querying a fragmented world,1999,43,122,1,1.0,2081047619,Peter Boncz,0,0.06210573530200544,0.2774748827236328
+2077443691,The LDBC Social Network Benchmark Interactive Workload,2015,10,119,8,0.0,1986356410,Orri Erling,0,0.10170682303022556,0.18885974460751825
+2071412939,ROX The robustness of a run-time XQuery optimizer against correlated data,2010,9,3,2,1.0,2118722772,Riham Abdel Kader,0,-1.780159742166984,-0.23184912512326097
+2099799867,Flattening an object algebra to provide performance,1998,19,61,1,1.0,2081047619,Peter Boncz,0,-0.6939452432526103,0.3497237544581162
+2096916713,Database architecture (R)evolution New hardware vs new software,2010,8,0,3,0.0,2676701685,Stavros Harizopoulos,0,-1.5421087000134157,0.7420300782244749
+2102987499,Vectorwise Beyond Column Stores,2012,31,71,2,0.723622,2120338334,Marcin Zukowski,0,-0.13275296294680305,-0.071629888206014
+2097608897,The Linked Data Benchmark Council Project,2013,29,11,1,1.0,2081047619,Peter Boncz,0,0.0544458689002119,-0.059141817612563555
+2103670492,Vectorwise A Vectorized Analytical DBMS,2012,7,43,3,0.723622,2120338334,Marcin Zukowski,0,-1.0254149567414237,0.1718585137401744
+2097971429,Efficient Distribution of Full-Fledged XQuery,2009,26,11,3,1.0,2598796182,Ying Zhang,0,-1.6474963640244384,-0.15105279698914972
+2088398920,Positional update handling in column stores,2010,23,58,5,1.0,2075443108,SÃ¡ndor HÃ©man,0,0.1656019551103819,0.40049106199639006
+2099035968,Morsel-driven parallelism a NUMA-aware query evaluation framework for the many-core age,2014,33,102,2,0.6,2069156272,Viktor Leis,0,0.003708468606338,0.082832279151172
+2085601491,Column-oriented database systems,2009,10,180,1,1.0,2081047619,Peter Boncz,0,-0.26702486883758153,-0.14959654227512814
+2134912727,Flexible and efficient IR using array databases,2008,39,41,5,0.666667,1963538968,Roberto Cornacchia,0,-0.564013545345155,0.4875254509925221
+2117546628,The Design and Implementation of Modern Column-Oriented Database Systems,2013,97,128,2,0.0,2170206103,Daniel J. Abadi,0,-2.6248258344457143,0.8596762436472218
+2129335060,Projective Distribution of XQuery with Updates,2010,28,3,3,1.0,2598796182,Ying Zhang,0,-2.196571345651052,-0.17695826866068107
+2141732239,Space-economical partial gram indices for exact substring matching,2009,20,7,3,0.6,2607702498,Nan Tang,0,0.003708468606338,0.082832279151172
+2129908242,The linked data benchmark council a graph and RDF industry benchmarking effort,2014,6,52,2,0.0,1970866537,Renzo Angles,0,-0.1291487497717145,-0.055953788068671934
+2106397943,XRPC interoperable and efficient distributed XQuery,2007,25,32,2,1.0,2598796182,Ying Zhang,0,-1.686573494781623,-1.1294250769558603
+2133479441,Heuristics-based query optimisation for SPARQL,2012,34,58,5,0.0,300097002,Petros Tsialiamanis,0,0.689955142645168,-1.2474568135530502
+2107023417,ROX run-time optimization of XQueries,2009,125,26,2,1.0,2118722772,Riham Abdel Kader,0,-1.780159742166984,-0.23184912512326097
+2124851765,MonetDB/X100 Hyper-Pipelining Query Execution,2005,21,416,1,1.0,2081047619,Peter Boncz,0,0.853889616784176,0.5450256838765327
+2122048769,Optimizing main-memory join on modern hardware,2002,34,124,2,0.0,2424910365,Stefan Manegold,0,0.003708468606338,0.082832279151172
+2139915573,From cooperative scans to predictive buffer management,2012,18,4,1,1.0,2081047619,Peter Boncz,0,0.003708468606338,0.082832279151172
+2110449448,Run-time Optimization for Pipelined Systems,2010,14,3,3,1.0,2118722772,Riham Abdel Kader,0,-0.9469777830073539,-0.07719059961819938
+2128272688,Updating the pre/post plane in MonetDB/XQuery,2005,9,13,1,1.0,2081047619,Peter Boncz,0,-1.6474963640244384,-0.15105279698914972
+2143460123,Graphalytics A Big Data Benchmark for Graph-Processing Platforms,2015,21,38,6,0.0,1199076395,Mihai CapotÄƒ,0,0.12625985021687938,0.2168719607654522
+2140453381,Super-Scalar RAM-CPU Cache Compression,2006,16,362,4,1.0,2120338334,Marcin Zukowski,0,1.2182067606106117,0.3929018396063729
+2159245346,MonetDB/XQueryâ€”Consistent and efficient updates on the pre/post plane,2006,12,8,5,0.53811,673062711,Maurice van Keulen,0,-1.778656346973152,0.0996007139125054
+2159726625,Database architecture evolution mammals flourished long before dinosaurs became extinct,2009,45,101,1,1.0,2081047619,Peter Boncz,0,0.003708468606338,0.082832279151172
+2148462213,Pathfinder XQuery---the relational way,2005,9,44,5,0.53811,673062711,Maurice van Keulen,0,-0.8409006986073212,0.12003661181657753
+2157880897,The meaningful use of big data four perspectives -- four challenges,2012,4,164,2,0.0,247353998,Christian Bizer,0,1.3750387820370866,-3.354632602142177
+2170016254,MonetDB/XQuery a fast XQuery processor powered by a relational engine,2006,33,290,1,1.0,2081047619,Peter Boncz,0,-2.041779809875781,0.26188611326662375
+2161005720,Query Processing of Pre-partitioned Data Using Sandwich Operators,2012,15,4,2,1.0,2302730591,Stephan Baumann,0,-0.23596603161225885,0.32842752035054174
+2152265129,ROX The Robustness of a Run-time XQuery Optimizer Against Correlated Data (Demo Paper),2010,0,0,1,1.0,2081047619,Peter Boncz,0,-1.9521456270045916,-0.268339704975937
+2146569941,Robust runtime optimization and skew-resistant execution of analytical SPARQL queries on pig,2012,24,24,3,0.0,2695581469,Spyros Kotoulas,0,-0.04628814722083794,-0.44292174340472945
+2158710842,Column-store database architecture utilizing positional delta tree update system and methods,2010,85,68,2,1.0,2075443108,SÃ¡ndor HÃ©man,0,-1.5628076105124709,0.7818404276047133
+2158913762,Integration of vectorwise with ingres,2011,9,16,3,0.0,2150756007,Doug Inkster,0,-1.150947251590011,0.5190071570723274
+2253239458,Bitwise dimensional co-clustering for analytical workloads,2016,31,4,2,1.0,2302730591,Stephan Baumann,0,-0.09036220017716858,0.5329623225426995
+2274934557,Methods of operating a column-store database engine utilizing a positional delta tree update system,2012,15,18,2,1.0,2075443108,SÃ¡ndor HÃ©man,0,-1.5628076105124709,0.7818404276047133
+2305129001,HIGH-PERFORMANCE DATABASE ENGINE IMPLEMENTING A POSITIONAL DELTA TREE UPDATE SYSTEM,2012,4,6,2,1.0,2075443108,SÃ¡ndor HÃ©man,0,-1.5628076105124709,0.7818404276047133
+2284530523,SciBORQ Scientific Data Management with Bounds on Runtime and Quality,2011,23,66,3,1.0,2079040073,Lefteris Sidirourgos,0,0.006971670090454379,0.13077250432251053
+2280869227,Deriving an Emergent Relational Schema from RDF Data,2015,21,27,4,0.931234,2150191526,Minh Duc Pham,0,0.07110813856687326,-1.6815145313264577
+2404326078,Efficient and Flexible Information Retrieval Using MonetDB/X100,2007,17,10,4,1.0,2075443108,SÃ¡ndor HÃ©man,0,0.0597908726731833,-0.2449448024264691
+2396309311,How good are query optimizers really ,2015,41,105,3,0.6,1395633217,Andrey Gubichev,0,-0.0395804122397981,0.0068802457672825015
+2402804553,MonetDB/RDF Discovering and Exploiting the Emergent Schema of RDF Data,2014,0,0,2,0.931234,2150191526,Minh Duc Pham,0,0.6460859869461592,-2.1990773565950867
+2400194642,Benchmarking Linked Open Data Management Systems,2014,0,1,2,0.931234,2150191526,Minh Duc Pham,0,0.9435265193507695,-1.4625024647025227
+2433128352,VectorH Taking SQL-on-Hadoop to the Next Level,2016,24,13,9,0.0,2491759604,Andrei Costea,0,-0.24708821823000746,-0.11438040177564447
+2522111627,Exploiting Emergent Schemas to Make RDF Systems More Efficient,2016,18,10,2,0.855915,2150191526,Minh Duc Pham,0,-0.6737553784368889,-1.4331966873290656
+2546689575,LDBC graphalytics a benchmark for large-scale graph analysis on parallel and distributed platforms,2016,35,50,14,0.0,1996526560,Alexandru Iosup,0,0.003708468606338,0.082832279151172
+2623925395,Multi-Hypothesis CSV Parsing,2017,17,7,3,0.0,2402057357,Till DÃ¶hmen,0,0.003708468606338,0.082832279151172
+2606501011,W18 - PDMST 07 & GRep 07 4th international workshop on P2P Data Management Security and Trust 3rd international workshop on Data management in Global data Repositories,2007,0,0,9,0.0,98612900,Goce Trajcevski,0,-0.24631475925461466,0.01662727508514165
+2588471198,Flexible and efficient IR using array databases,2007,0,1,4,0.666667,1963538968,Roberto Cornacchia,0,0.15668024512060932,0.24039890305913222
+2621499375,Extending SQL for Computing Shortest Paths,2017,6,1,2,1.0,2621740268,Dean De Leo,0,0.003708468606338,0.082832279151172
+2755385361,Query optimization through the looking glass and what we found running the Join Order Benchmark,2018,51,21,5,0.46875,2069156272,Viktor Leis,0,-0.24708821823000746,-0.11438040177564447
+2795124437,Approximate Geospatial Joins with Precision Guarantees,2018,8,5,5,0.833333,2224833225,Andreas Kipf,0,0.08959252356587845,0.1369296930545041
+2886891614,Powerful and efficient bulk shortest-path queries Cypher language extension &amp; Giraph implementation,2016,0,0,3,0.0,2038417093,Spyros Voulgaris,0,0.003708468606338,0.082832279151172
+2916238833,Performance-optimal filtering Bloom overtakes Cuckoo at high throughput,2019,29,6,1,1.0,2081047619,Peter Boncz,0,0.13181092919897244,0.08118920458583215
+2890276152,Learned Cardinalities Estimating Correlated Joins with Deep Learning,2018,29,28,5,0.833333,2224833225,Andreas Kipf,0,0.08277820571160986,0.24397011212539108
+2893346234,Optimizing group-by and aggregation using GPU-CPU co-processing,2018,0,0,5,0.818182,2900682371,Diego Gomes TomÃ©,0,1.2182067606106117,0.3929018396063729
+2939293933,Estimating Cardinalities with Deep Sketches,2019,19,3,7,0.833333,2224833225,Andreas Kipf,0,-0.3291976808020441,-0.13703470885516322
+2951983822,Packed Memory Arrays - Rewired,2019,23,1,2,1.0,2621740268,Dean De Leo,0,-0.13275296294680305,-0.071629888206014
+2950405263,Estimating Cardinalities with Deep Sketches,2019,20,0,7,0.833333,2224833225,Andreas Kipf,0,-0.3291976808020441,-0.13703470885516322
+2962868088,Learned Cardinalities Estimating Correlated Joins with Deep Learning,2018,0,18,5,0.833333,2224833225,Andreas Kipf,0,0.08277820571160986,0.24397011212539108
+2950839581,Fast Concurrent Reads and Updates with PMAs,2019,27,0,2,1.0,2621740268,Dean De Leo,0,0.003708468606338,0.082832279151172
+2953349554,From Cooperative Scans to Predictive Buffer Management,2012,14,0,1,1.0,2081047619,Peter Boncz,0,0.003708468606338,0.082832279151172
+3009361246,White-box compression Learning and exploiting compact table representations,2020,0,1,3,0.0,3010224841,Bogdan Ghita,0,-0.19183293719838782,-0.011939079148774566
+3013630895,Adaptive Main-Memory Indexing for High-Performance Point-Polygon Joins,2020,0,1,8,0.631579,2224833225,Andreas Kipf,0,-0.030009782456062405,0.0159224435152694
+2980791946,Extracting Novel Facts from Tables for Knowledge Graph Completion,2019,30,2,3,0.0,2629404358,Benno Kruit,0,0.003708468606338,0.082832279151172

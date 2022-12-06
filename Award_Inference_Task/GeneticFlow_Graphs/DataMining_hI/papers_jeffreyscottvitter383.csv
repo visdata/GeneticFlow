@@ -1,0 +1,47 @@
+44787795,Approximation and learning techniques in database systems,1999,0,8,1,1.0,118037170,Jeffrey Scott Vitter,0,0.7845946202482457,0.12599860763242138
+16311766,Addendum to &quot;Analysis of Some New Variants of Coalesced Hashing&quot;,1985,0,0,1,1.0,118037170,Jeffrey Scott Vitter,0,0.003708468606338,0.082832279151172
+119813091,XPathLearner an on-line self-tuning Markov histogram for XML path selectivity estimation,2002,15,79,4,1.0,2149519810,Lipyeow Lim,0,-2.6720113124520477,-0.3595635881744143
+1489255272,Dynamic Maintenance of Wavelet-Based Histograms,2000,18,163,2,0.43723,1874579918,Yossi Matias,0,0.003708468606338,0.082832279151172
+1482143372,External-Memory Algorithms for Processing Line Segments in Geographic Information Systems (Extended Abstract),1995,26,34,3,1.0,2170557315,Lars Arge,0,0.14246063164205522,0.3556335751035585
+1544829261,Aggregate predicate support in DBMS,2002,13,5,5,1.0,1992897095,Apostol Natsev,0,-0.42434891793500934,0.1779716848781436
+1501369469,Indexing for Data Models with Constraints and Classes,1993,22,73,4,0.0,2035018311,Paris C. Kanellakis,0,-0.1373677753768068,0.05047033078484505
+1528583162,Efficient Join Processing over Uncertain Data Technical Report,2005,9,0,1,1.0,118037170,Jeffrey Scott Vitter,0,-0.39090013933452067,0.5174778524749327
+1576347849,Bkd-Tree A Dynamic Scalable kd-Tree,2003,32,74,1,1.0,118037170,Jeffrey Scott Vitter,0,0.4230223365917344,-0.12730585105318798
+1750237583,Wavelet-Based Cost Estimation for Spatial Queries,2001,22,17,2,0.523819,2421291724,Min Wang,0,-0.5703684799491398,0.6894494368532158
+1578539484,Characterizing Web Document Change,2001,7,42,4,0.923077,2149519810,Lipyeow Lim,0,-0.09076229145795592,-2.3447560213689727
+1608226180,Compressed dictionaries space measures data sets and experiments,2006,15,1,4,0.0,2132514579,Ankur Gupta,0,0.5845317956632949,0.4624822170898903
+1600580971,Supporting Incremental Join Queries on Ranked Inputs,2001,8,181,5,1.0,1992897095,Apostol Natsev,0,-1.1775090862279447,1.1938226073454286
+1721621563,A Unified Approach for Indexed and Non-Indexed Spatial Joins,2000,39,37,6,1.0,2170557315,Lars Arge,0,-0.7457914186872577,0.6150384949328082
+1950551868,Online background predictors and prefetchers for locality management,1994,7,42,1,1.0,118037170,Jeffrey Scott Vitter,0,0.003708468606338,0.082832279151172
+1975007082,Compressed data structures with relevance,2012,19,1,1,1.0,118037170,Jeffrey Scott Vitter,0,0.003708468606338,0.082832279151172
+1998244781,Approximate computation of multidimensional aggregates of sparse data using wavelets,1999,22,351,1,1.0,118037170,Jeffrey Scott Vitter,0,0.8662170003594584,0.24779847258463505
+2017955951,Analysis of new variants of coalesced hashing,1984,9,10,2,0.0,2311055362,Wen Chin Chen,0,0.003708468606338,0.082832279151172
+2021850646,Wavelet-based histograms for selectivity estimation,1998,31,390,2,0.43723,1874579918,Yossi Matias,0,-0.17877749763405593,0.32603561421750554
+2030599258,Optimal prefetching via data compression,1996,36,143,1,1.0,118037170,Jeffrey Scott Vitter,0,0.003708468606338,0.082832279151172
+2039991524,An Efficient Algorithm for Discovering Motifs in Large DNA Data Sets,2015,35,8,1,1.0,118037170,Jeffrey Scott Vitter,0,-0.004538237359067869,0.2859525243347512
+2045604576,Data cube approximation and histograms via wavelets,1998,25,218,1,1.0,118037170,Jeffrey Scott Vitter,0,0.003708468606338,0.082832279151172
+2048088032,An efficient motif finding algorithm for large DNA data sets,2014,15,5,5,0.0,2312066514,Qiang Yu,0,-0.004538237359067869,0.2859525243347512
+2044865267,I/O-efficient algorithms and environments,1996,8,7,2,0.0,2951342182,Darren Erik Vengroff,0,0.003708468606338,0.082832279151172
+2075833184,Estimating alphanumeric selectivity in the presence of wildcards,1996,24,63,2,0.0,2873835309,P. Krishnan,0,-0.24708821823000746,-0.11438040177564447
+2100901653,Scalable mining for classification rules in relational databases,1998,21,41,2,0.483871,2421291724,Min Wang,0,-1.2768443041585662,0.5550527678866188
+2083801185,I/O-Efficient Algorithms for Problems on Grid-Based Terrains,2001,25,41,3,0.923077,2170557315,Lars Arge,0,0.08959252356587845,0.1369296930545041
+2138752345,CXHist an on-line classification-based histogram for XML string selectivity estimation,2005,31,15,1,1.0,118037170,Jeffrey Scott Vitter,0,-0.752894432043452,0.15845230501237761
+2118265701,Adaptive rank-aware query optimization in relational databases,2006,37,57,6,0.26087,1982738670,Ihab F. Ilyas,0,-0.3036850318452251,0.13385101254459478
+2121604804,Selectivity estimation in the presence of alphanumeric correlations,1997,11,20,2,0.461538,2421291724,Min Wang,0,-0.7115739254660983,0.16717641040082076
+2115986770,Efficient join processing over uncertain data,2006,14,92,5,0.190225,2138267588,Reynold Cheng,0,-1.308559155774911,0.8026285936541502
+2139715833,The SBC-tree an index for run-length compressed sequences,2008,53,13,5,0.0,2034638176,Mohamed Y. Eltabakh,0,-0.23386255531616834,-0.00963986897893126
+2142909274,Efficient indexing methods for probabilistic threshold queries over uncertain data,2004,23,254,5,0.190225,2138267588,Reynold Cheng,0,-0.10284415109235653,0.29515477241744503
+2153230306,SASH a self-adaptive histogram set for dynamically changing workloads,2003,16,38,3,1.0,2149519810,Lipyeow Lim,0,-0.0395804122397981,0.0068802457672825015
+2171290292,Mining deviants in time series data streams,2004,29,47,3,0.0,2921339358,Shanmugavelayutham Muthukrishnan,0,-0.2759814111264423,0.3143347712592715
+2144402047,Scalable Sweeping-Based Spatial Join,1998,47,166,5,1.0,2170557315,Lars Arge,0,0.21438872843298346,-0.1353423822296997
+2157022538,Dynamic maintenance of web indexes using landmarks,2003,28,77,4,1.0,2149519810,Lipyeow Lim,0,0.6642631993651279,0.8704818474401211
+2187383495,On-line methods for database optimization,2004,74,0,1,1.0,118037170,Jeffrey Scott Vitter,0,-1.0529502309405112,0.244506759388264
+2166855749,Rank-aware query optimization,2004,31,129,4,0.26087,1982738670,Ihab F. Ilyas,0,-0.01657107088421793,0.035389748403282274
+2157821460,Succinct data structures,2007,101,7,1,1.0,118037170,Jeffrey Scott Vitter,0,0.053187687455340936,-0.16559227334086646
+2146104665,Optimal prefetching via data compression,1991,32,92,1,1.0,118037170,Jeffrey Scott Vitter,0,-0.08730231725564636,-0.2841434997334449
+2149530645,Inverted indexes for phrases and strings,2011,37,42,5,0.0,2008122593,Manish Patil,0,1.2007584472410888,-0.9180845648305432
+2164944647,External-Memory Algorithms for Processing Line Segments in Geographic Information Systems,2007,38,36,3,0.505087,2170557315,Lars Arge,0,-0.8119081610759554,0.7753277337940678
+2243195623,Method for implementing approximate data structures using operations on machine words,1994,3,36,1,1.0,118037170,Jeffrey Scott Vitter,0,0.003708468606338,0.082832279151172
+2565346492,MSQ-Index A Succinct Index for Fast Graph Similarity Search,2016,0,1,4,1.0,2490561675,Xiaoyang Chen,0,-0.13275296294680305,-0.071629888206014
+2897440725,An efficient algorithm for graph edit distance computation,2019,17,8,4,1.0,2490561675,Xiaoyang Chen,0,0.003708468606338,0.082832279151172
+2991364609,MSQ-Index A Succinct Index for Fast Graph Similarity Search,2019,0,0,4,1.0,2490561675,Xiaoyang Chen,0,0.003708468606338,0.082832279151172

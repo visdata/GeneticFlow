@@ -1,0 +1,52 @@
+70080257,Reclaiming the blogosphere talkback a secure linkback protocol for weblogs,2011,11,2,1,1.0,102775300,Elie Bursztein,0,-0.15864374652083932,-0.1879861517290886
+1562129026,An analysis of private browsing modes in modern browsers,2010,11,133,2,0.0,2307717958,Gaurav Aggarwal,0,1.1662483149091354,-0.0715265620085892
+1502211727,A logical framework for evaluating network resilience against faults and attacks,2007,18,24,1,1.0,102775300,Elie Bursztein,0,0.0040557659796233,0.2757546058061082
+1519558950,Using strategy objectives for network security analysis,2009,43,12,1,1.0,102775300,Elie Bursztein,0,0.3259332239481683,0.5745734317069635
+1604249822,How things Work and Fail,2012,0,0,2,0.0,67491752,Andy Steingruebl,0,0.8609263355194251,-0.0488312157140194
+1811376871,Kamouflage loss-resistant password management,2010,19,68,2,0.857143,2083189269,Hristo Bojinov,0,-2.1545394767203447,-1.3163355239598136
+1968260908,Understanding Sensitivity by Analyzing Anonymity [Guest editors introduction],2015,4,1,3,0.666667,114680377,Sai Teja Peddinti,0,0.3423745507932159,1.513555214543258
+1979931683,State of the Art Automated Black-Box Web Application Vulnerability Testing,2010,12,213,2,0.0,2161651684,Jason Bau,0,-1.4906487443016354,2.505157669622591
+2006022520,Cloak and Swagger Understanding Data Sensitivity through the Lens of User Anonymity,2014,29,24,3,0.666667,114680377,Sai Teja Peddinti,0,-0.01761061614210498,0.6017356475812795
+2021327598,Neither Snow Nor Rain Nor MITM An Empirical Analysis of Email Delivery Security,2015,23,44,5,0.292898,169368957,Zakir Durumeric,0,-1.0086516396238268,-0.9490658412379656
+2059621117,Handcrafted Fraud and Extortion Manual Account Hijacking in the Wild,2014,16,48,1,1.0,102775300,Elie Bursztein,0,0.0040557659796233,0.2757546058061082
+2084062832,How Good Are Humans at Solving CAPTCHAs A Large Scale Evaluation,2010,21,187,1,1.0,102775300,Elie Bursztein,0,-0.4095652199915964,0.3246894702283116
+2105523261,Text-based CAPTCHA strengths and weaknesses,2011,21,189,1,1.0,102775300,Elie Bursztein,0,-0.24211690259229268,0.3183057454078096
+2139026102,SessionJuggler secure web login from an untrusted terminal using session hijacking,2012,25,12,1,1.0,102775300,Elie Bursztein,0,-1.0784145457606118,0.09694435136818517
+2168727550,The Failure of Noise-Based Non-continuous Audio Captchas,2011,21,65,1,1.0,102775300,Elie Bursztein,0,-0.24211690259229268,0.3183057454078096
+2156978746,XCS cross channel scripting and its impact on web applications,2009,20,47,2,0.857143,2083189269,Hristo Bojinov,0,0.0040557659796233,0.2757546058061082
+2163949443,Dialing Back Abuse on Phone Verified Accounts,2014,19,23,3,0.724409,2318083524,Kurt Thomas,0,0.0040557659796233,0.2757546058061082
+2150204531,OpenConflict Preventing Real Time Map Hacks in Online Games,2011,20,26,1,1.0,102775300,Elie Bursztein,0,0.0040557659796233,0.2757546058061082
+2253893204,Secrets Lies and Account Recovery Lessons from the Use of Personal Knowledge Questions at Google,2015,32,39,2,0.0,2151386950,Joseph Bonneau,0,0.8731513941853697,-0.21626490219999248
+2209327732,Toward secure embedded web interfaces,2011,27,13,4,0.8,2942595019,Baptiste Gourdin,0,-0.9628392521323187,1.7719512116706622
+2341612996,Remedying Web Hijacking Notification Effectiveness and Webmaster Comprehension,2016,15,23,7,0.409091,2131225761,Frank Li,0,1.7029826062605458,-0.2600589908962866
+2404236205,Framing attacks on smart phones and dumb routers tap-jacking and geo-localization attacks,2010,4,32,2,0.8,2942595019,Baptiste Gourdin,0,0.0040557659796233,0.2757546058061082
+2424402128,Cloak of Visibility Detecting When Machines Browse a Different Web,2016,31,16,6,0.0,2094903576,Luca Invernizzi,0,1.7029826062605458,-0.2600589908962866
+2460170719,Investigating Commercial Pay-Per-Install and the Distribution of Unwanted Software,2016,10,22,17,0.852643,2318083524,Kurt Thomas,0,0.05940095047987125,0.6960502266457337
+2514644783,The Abuse Sharing Economy Understanding the Limits of Threat Exchanges,2016,28,4,7,0.852643,2318083524,Kurt Thomas,0,0.11619049056016882,0.37594442394989086
+2529161438,Picasso Lightweight Device Class Fingerprinting for Web Clients,2016,22,8,1,1.0,102775300,Elie Bursztein,0,1.276623144575222,0.16303417639220483
+2508928295,Users Really Do Plug in USB Drives They Find,2016,33,33,6,1.0,2515167906,Matthew Tischer,0,-0.3957860967641827,0.4360298050560259
+2604573269,The Danger of USB Drives,2017,7,2,3,1.0,2515167906,Matthew Tischer,0,0.04841774909296905,0.2906464507864569
+2604745103,The first collision for full SHA-1,2017,36,81,2,0.0,2568768394,Marc Stevens,0,-0.3665472587849837,-0.5442087145555312
+2612544399,The Security Impact of HTTPS Interception,2017,16,41,6,0.292898,169368957,Zakir Durumeric,0,-0.22785959475155965,0.01517844337355126
+2748868501,Understanding the mirai botnet,2017,47,311,5,0.0,321442596,Manos Antonakakis,0,0.1822731046919942,0.706777145399998
+2750347400,Reversing dpapi and stealing windows secrets offline,2010,0,1,1,1.0,102775300,Elie Bursztein,0,0.24235884873353056,0.00856259299539556
+2750520305,Beyond files recovery owade cloud-based forensic,2011,0,3,1,1.0,102775300,Elie Bursztein,0,0.42736916530366337,0.19784724694239997
+2769584865,Cheating at poker - James Bond Style,2016,0,0,1,1.0,102775300,Elie Bursztein,0,0.0040557659796233,0.2757546058061082
+2746937343,Busting frame busting a study of clickjacking vulnerabilities on popular sites,2010,7,87,1,1.0,102775300,Elie Bursztein,0,0.04841774909296905,0.2906464507864569
+2747125559,Embedded management interfaces emerging massive insecurity,2009,12,14,1,1.0,102775300,Elie Bursztein,0,1.2554852186418188,0.2058939010671049
+2748317094,Framing attacks on smartphones dumb routers and social sites tap-jacking geo-localization and framing leak attacks,2010,0,0,1,1.0,102775300,Elie Bursztein,0,1.7029826062605458,-0.2600589908962866
+2765227388,Data Breaches Phishing or Malware Understanding the Risks of Stolen Credentials,2017,28,39,13,0.803158,2318083524,Kurt Thomas,0,-0.46598842366432336,0.058385426212759994
+2748418135,Tracking desktop ransomware payments end to end,2017,0,0,1,1.0,102775300,Elie Bursztein,0,-0.48047720290290913,1.3695682069170965
+2794784953,Tracking Ransomware End-to-end,2018,18,24,5,0.0,2162035339,Danny Yuxing Huang,0,-0.25591157095254546,1.2355355382398412
+2791157996,Tracking desktop ransomware payments end to end,2018,0,0,1,1.0,102775300,Elie Bursztein,0,-0.48047720290290913,1.3695682069170965
+2888940660,Data Breaches User Comprehension Expectations and Concerns with Handling Exposed Data,2018,0,1,3,0.0,2947425979,Sowmya Karunakaran,0,0.4015293481612051,0.20800005568904426
+2913484280,Proceedings of the 6th USENIX conference on Offensive Technologies,2012,0,0,1,1.0,102775300,Elie Bursztein,0,0.0040557659796233,0.2757546058061082
+2896429521,Framing attacks on smartphones and dumb routers social sites tap-jacking and geo-localization attacks,2010,0,0,1,1.0,102775300,Elie Bursztein,0,1.7029826062605458,-0.2600589908962866
+2901156875,How to Successfully Harness Machine Learning to Combat Fraud and Abuse,2018,0,0,1,1.0,102775300,Elie Bursztein,0,0.0040557659796233,0.2757546058061082
+2931459249,Method and system for detecting abusive behavior in hosted services,2016,20,1,1,1.0,102775300,Elie Bursztein,0,0.0040557659796233,0.2757546058061082
+2968951956,A Hacker Guide To Deep Learning Based Side Channel Attacks,2019,0,0,1,1.0,102775300,Elie Bursztein,0,0.6811870582699134,-0.061126879200390914
+2965442679,Protecting accounts from credential stuffing with password breach alerting,2019,0,3,11,0.655548,2318083524,Kurt Thomas,0,0.26474771482098297,-0.23567990269860734
+2984055845,Five Years of the Right to be Forgotten,2019,7,2,2,0.0,2788876005,Theo Bertram,0,0.7190425401172185,1.178141476952522
+3015586390,Kamouflage loss-resistant password management,2010,0,0,2,0.857143,2083189269,Hristo Bojinov,0,-1.6806478612895304,-0.7803900275917116
+2964788914,GRIMOIRE Synthesizing Structure while Fuzzing,2019,0,4,9,0.0,2751713351,Tim Blazytko,0,0.0040557659796233,0.2757546058061082
+1480813933,Ad Injection at Scale Assessing Deceptive Advertisement Modifications,2015,23,47,2,0.852643,2318083524,Kurt Thomas,0,1.7029826062605458,-0.2600589908962866

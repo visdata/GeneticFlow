@@ -1,0 +1,51 @@
+1539153042,S-Store streaming meets transaction processing,2015,36,40,9,0.0,2103918798,John Meehan,0,2.411513802249899,2.2780866814479004
+1980096825,Squall Fine-Grained Live Reconfiguration for Partitioned Main Memory Databases,2015,33,24,4,0.0,2094668902,Aaron J. Elmore,0,1.7303137552314343,1.6397107970568037
+1988145820,Reducing replication bandwidth for distributed document databases,2015,41,8,2,0.666667,2150663838,Lianghong Xu,0,-0.0493822474032156,0.45889331028487046
+1988852271,Lets Talk About Storage & Recovery Methods for Non-Volatile Memory Database Systems,2015,46,109,2,1.0,2223199900,Joy Arulraj,0,1.5193922742730563,1.3108871558758848
+2014593189,Benchmarking OLTP/web databases in the cloud the OLTP-bench framework,2012,3,21,3,0.0,2045003753,Carlo Curino,0,1.0496910614021293,0.7170130735048186
+2070511907,Enterprise Database Applications and the Cloud A Difficult Road Ahead,2014,16,5,2,0.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2060818668,On predictive modeling for optimizing transaction execution in parallel OLTP systems,2011,25,42,1,1.0,1916729783,Andrew Pavlo,0,2.5095741435175025,2.6757829010347343
+2121092231,BenchPress Dynamic Workload Control in the OLTP-Bench Testbed,2015,6,4,3,1.0,2230917152,Dana Van Aken,0,1.2180798559453594,0.9078666582833876
+2114303224,A comparison of approaches to large-scale data analysis,2009,16,942,1,1.0,1916729783,Andrew Pavlo,0,-0.21154035593534,0.8069883341132106
+2150630976,Skew-aware automatic database partitioning in shared-nothing parallel OLTP systems,2012,38,203,1,1.0,1916729783,Andrew Pavlo,0,1.592151879636971,1.2443855933103236
+2144973160,S-Store a streaming NewSQL system for big velocity applications,2014,7,51,7,0.0,11059210,Ugur Cetintemel,0,0.8908893349317512,1.4955192263223913
+2163231231,Anti-caching a new approach to database management system architecture,2013,28,62,2,0.857143,2038319145,Justin DeBrabant,0,-0.0041099411153885,0.0447066884760059
+2185066740,Benchmarking OLTP/Web Databases in the Cloud The OLTP-Bench Framework (Extended Abstract),2012,3,0,1,1.0,1916729783,Andrew Pavlo,0,1.0496910614021293,0.7170130735048186
+2155070484,H-store a high-performance distributed main memory transaction processing system,2008,11,390,4,0.0,2610280838,Robert Kallman,0,1.9608306269484368,1.8155146859826754
+2271870283,E-store fine-grained elastic partitioning for distributed transaction processing systems,2014,30,77,1,1.0,1916729783,Andrew Pavlo,0,1.8898919034763508,1.6459287072410789
+2240667924,OLTP-Bench an extensible testbed for benchmarking relational databases,2013,31,143,2,0.642857,2164740337,Djellel Eddine Difallah,0,1.2180798559453594,0.9078666582833876
+2338990447,MapReduce complements DBMSs since databases are not designed for extract- transform-load tasks a MapReduce specialty,2010,18,0,1,1.0,1916729783,Andrew Pavlo,0,-0.39288935711135586,1.1301248039046916
+2398564056,A Prolegomenon on OLTP Database Systems for Non-Volatile Memory,2014,28,33,3,0.857143,2038319145,Justin DeBrabant,0,1.6464990462398255,1.5909491826463178
+2394555589,Staring into the abyss an evaluation of concurrency control with one thousand cores,2014,40,114,3,1.0,2128284562,Xiangyao Yu,0,1.6464990462398255,1.5909491826463178
+2400366270,Tastes Great Less Filling Low-Impact OLAP MapReduce Queries on High-Performance OLTP Systems,2012,3,0,2,0.0,2402561584,Xin Jia,0,1.3369969891355,1.8696893247397466
+2425029179,TicToc Time Traveling Optimistic Concurrency Control,2016,35,55,2,1.0,2128284562,Xiangyao Yu,0,2.523289490792517,3.2831517300540405
+2426624872,Bridging the Archipelago between Row-Stores and Column-Stores for Hybrid Workloads,2016,41,42,2,1.0,2223199900,Joy Arulraj,0,0.206539966098803,-0.23015581410374408
+2429518132,Reducing the Storage Overhead of Main-Memory OLTP Databases with Hybrid Indexes,2016,34,40,3,0.0,2483299331,Huanchen Zhang,0,0.9708518633898713,0.9092676460455008
+2491939220,Research for practice distributed consensus and implications of NVM on database management systems,2016,0,2,3,0.0,2049394146,Peter Bailis,0,-0.0041099411153885,0.0447066884760059
+2524947710,Whats Really New with NewSQL ,2016,39,47,1,1.0,1916729783,Andrew Pavlo,0,0.5332888155480358,1.4949374474329855
+2584555500,Self-Driving Database Management Systems,2017,37,69,1,1.0,1916729783,Andrew Pavlo,0,1.4564560085956446,0.23353596344300384
+2578260324,Write-behind logging,2016,31,44,3,1.0,2223199900,Joy Arulraj,0,-0.0041099411153885,0.0447066884760059
+2585130803,An evaluation of distributed concurrency control,2017,59,32,3,0.0,2225875350,Rachael Harding,0,2.367045803543807,2.5324442939738407
+2579029018,Clay fine-grained adaptive partitioning for general database schemas,2016,29,24,4,0.0,2310895133,Marco Serafini,0,1.4607749199251785,0.7522299435938634
+2613206411,Automatic Database Management System Tuning Through Large-scale Machine Learning,2017,47,101,2,1.0,2230917152,Dana Van Aken,0,1.8914007082058568,0.5793494412049495
+2612457169,Online Deduplication for Databases,2017,48,2,2,0.666667,2150663838,Lianghong Xu,0,0.536447119625073,-0.05902330576182949
+2612481446,How to Build a Non-Volatile Memory Database Management System,2017,64,29,2,0.868421,2223199900,Joy Arulraj,0,-0.0041099411153885,0.0447066884760059
+2604961016,An empirical evaluation of in-memory multi-version concurrency control,2017,39,42,5,0.0,2791997658,Yingjun Wu,0,2.3453427016184345,2.3464926145380285
+2612808231,What Are We Doing With Our Lives Nobody Cares About Our Concurrency Control Research,2017,0,6,1,1.0,1916729783,Andrew Pavlo,0,0.44916497027954366,0.7823414255975448
+2743244324,Main Memory Database Systems,2017,0,15,6,0.0,2297792247,Franz Faerber,0,-0.0041099411153885,0.0447066884760059
+2765206444,Relaxed operator fusion for in-memory databases making compilation vectorization and prefetching work together at last,2017,33,21,2,0.0,2195792725,Prashanth Menon,0,0.0508016152731842,0.754207828572233
+2798418112,Building a Bw-Tree Takes More Than Just Buzz Words,2018,34,17,2,0.0,2583323072,Ziqi Wang,0,-0.46893397788284524,0.07728939382804885
+2799015892,Query-based Workload Forecasting for Self-Driving Database Management Systems,2018,51,27,5,0.0,2713537993,Lin Ma,0,-0.0041099411153885,0.0447066884760059
+2795346422,Performance of OLTP via Intelligent Scheduling,2018,8,3,4,0.0,2110990183,Tieying Zhang,0,1.2676918293346433,1.1606629234134616
+2883078343,S-Store streaming meets transaction processing,2015,0,0,9,0.0,2103918798,John Meehan,0,0.9408492071308692,0.912959594064505
+2884299639,Sundial harmonizing concurrency control and caching in a distributed OLTP database management system,2018,48,7,3,0.75,2128284562,Xiangyao Yu,0,2.016214017003612,2.22034694475253
+2889252017,A demonstration of the ottertune automatic database management system tuning service,2018,5,5,8,0.0,2506610500,Bohan Zhang,0,-0.0041099411153885,0.0447066884760059
+2911325108,Non-Volatile Memory Database Management Systems,2019,110,5,2,0.629032,2223199900,Joy Arulraj,0,0.16782124802273696,0.2536234597393226
+2897173745,Everything you always wanted to know about compiled and vectorized queries but were afraid to ask,2018,47,13,5,0.0,2612567066,Timo Kersten,0,-0.46893397788284524,0.07728939382804885
+2951455322,S-Store Streaming Meets Transaction Processing,2015,21,5,9,0.0,2103918798,John Meehan,0,1.641530967974413,1.4676622704682576
+2946655760,Scheduling OLTP transactions via learned abort prediction,2019,25,1,4,0.0,2794998123,Yangjun Sheng,0,1.2676918293346433,1.1606629234134616
+2950966421,On Predictive Modeling for Optimizing Transaction Execution in Parallel OLTP Systems,2011,20,5,1,1.0,1916729783,Andrew Pavlo,0,1.5560568532449157,1.435694398067159
+2982604121,On Supporting Efficient Snapshot Isolation for Hybrid Workloads with Multi-Versioned Indexes,2019,0,0,4,0.0,2324038280,Yihan Sun,0,1.7834943574484872,1.9756806057622684
+2997069339,External vs Internal An Essay on Machine Learning Agents for Autonomous Database Management Systems,2019,0,2,1,1.0,1916729783,Andrew Pavlo,0,-0.0041099411153885,0.0447066884760059
+3023360569,Mainlining Databases Supporting Fast Transactional Workloads on Universal Columnar Data File Formats,2020,30,0,6,0.0,3023737747,Tianyu Li,0,0.8417666641847383,0.9973734879998417
+3007024586,The Seattle Report on Database Research,2020,1,0,28,0.0,2170206103,Daniel J. Abadi,0,-0.0041099411153885,0.0447066884760059

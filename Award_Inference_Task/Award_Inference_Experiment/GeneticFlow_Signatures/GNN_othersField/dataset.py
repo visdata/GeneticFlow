@@ -1,4 +1,4 @@
-
+import joblib
 import torch
 from torch_geometric.data import InMemoryDataset, Data
 import networkx as nx
@@ -20,7 +20,7 @@ def node_dict(G):
     node_dict = G.nodes
     return node_dict
 
-def read_graphfile(PATH):
+def read_graphfile(PATH,union_field=False):
     node_num=1000
     adj_list={i:[] for i in range(1,node_num+1)}    
     index_graph={i:[] for i in range(1,node_num+1)}
@@ -104,9 +104,11 @@ def read_graphfile(PATH):
                     edge_w=np.array(edge_w).astype(np.float32)
                     # print(edge_w,edge_w_temp)
                     edges_unordered = edges_unordered[:,:2]
-                    edges_unordered = edges_unordered.astype(float).astype(int).astype(str)
+                    # print(idx_map)
+                    # print(list(edges_unordered))
+                    edges_unordered = edges_unordered.astype(float).astype(np.int64).astype(str)
                     edges = np.array(list(map(idx_map.get, edges_unordered.flatten())),
-                                    dtype=np.int32).reshape(edges_unordered.shape)
+                                     dtype=np.int32).reshape(edges_unordered.shape)
                     edge_weight.append(edge_w)
                     for line in edges:
                         e0,e1=(int(line[1]),int(line[0]))
@@ -130,8 +132,14 @@ def read_graphfile(PATH):
                 
                 Name.append(name)
                 index_i+=1
-                
-
+    if union_field:
+        pklname=os.path.basename(PATH)+'-allfield.pkl'
+        try:
+            fielddata = joblib.load(pklname)
+        except:
+            fielddata=[]
+        fielddata.append([edge_weight,graph_labels,adj_list,node_attrs,Name])
+        joblib.dump(fielddata, pklname)
     # sleep()
     return edge_weight,graph_labels,adj_list,node_attrs,Name
     # return graph_labels,adj_list,node_attrs
@@ -177,6 +185,6 @@ class MultiSessionsGraph(InMemoryDataset):
             # pyg_graph=Data(x=torch.tensor(node_attrs[i+1],dtype=torch.float), y=torch.tensor(y[i],dtype=torch.long), edge_index=torch.tensor(adj_list[i+1],dtype=torch.long).t(),edge_attr=torch.tensor(edge_weight[i],dtype=torch.float))
             print(pyg_graph)
             data_list.append(pyg_graph)
-        
+        print(data_list)
         data, slices = self.collate(data_list)
         torch.save((data, slices), self.processed_paths[0])

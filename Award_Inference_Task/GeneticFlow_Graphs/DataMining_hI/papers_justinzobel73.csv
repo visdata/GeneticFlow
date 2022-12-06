@@ -1,0 +1,130 @@
+72059462,Whats Next Index Structures for Efficient Phrase Querying,1999,7,37,2,0.6,2148633737,Hugh E. Williams,0,0.003708468606338,0.082832279151172
+58998488,Practical data structures for managing small sets of strings,2002,0,2,1,1.0,2019828590,Justin Zobel,0,0.003708468606338,0.082832279151172
+161343518,The MDS experiments for TREC5,1996,0,2,4,1.0,945070464,Marcin Kaszkiel,0,0.4366830557657346,0.06692909691310686
+76833607,An e cient indexing technique for full-text database systems,1992,0,67,2,0.0,298046604,Ron Sacks Davis,0,0.44148585625188996,-0.3914018358062456
+183508004,Compression Fast Indexing and Structured Queries on a Gigabyte of Text,1992,0,0,5,1.0,2119346241,Alan J. Kent,0,0.07899402917354395,0.1911977433019193
+166263196,Collection Selection via Lexicon Inspection,1997,0,24,1,1.0,2019828590,Justin Zobel,0,-0.04920892429907685,0.06491516537118175
+167066434,Improved Inverted File Processing for Large Text Databases,1995,0,10,2,0.769231,2155888323,Alistair Moffat,0,0.6642631993651279,0.8704818474401211
+153030323,Is CORI Effective for Collection Selection An Exploration of Parameters Queries and Data,2004,22,21,2,0.0,2146236348,Daryl DSouza,0,-0.04920892429907685,0.06491516537118175
+1550021373,Information retrieval systems for large document collections,1994,0,47,2,0.769231,2155888323,Alistair Moffat,0,-0.12254408103269927,-0.0320872416069455
+1550088701,Fast document ranking for large scale information retrieval,1994,12,7,2,0.666667,1963929110,Michael Persin,0,-0.14846504037602973,0.7699326918606808
+1496881388,Space-Limited ranked query evaluation using adaptive pruning,2005,12,38,4,1.0,2113021300,Nicholas Lester,0,0.7269164188402208,0.12953208667864644
+1514893825,What Does It Mean to &quot;Measure Performance&quot; ,2004,19,19,1,1.0,2019828590,Justin Zobel,0,0.33568496813644777,0.48954384209232454
+1507745332,Entity-Based Relevance Feedback for Genomic List Answer Retrieval,2007,9,17,6,0.6,2148572485,Nicola Stokes,0,0.6674652465049129,-0.15039543819628487
+1509167927,Questioning query expansion an examination of behaviour and parameters,2004,36,60,2,1.0,2076708895,Bodo Billerbeck,0,-0.01657107088421793,0.035389748403282274
+1509335576,Efficiency of Nested Relational Document Database Systems,1991,19,15,1,1.0,2019828590,Justin Zobel,0,-1.9926636732889331,0.6167562146736579
+1573431506,An Efficient Indexing Technique for Full Text Databases,1992,23,69,1,1.0,2019828590,Justin Zobel,0,-0.13275296294680305,-0.071629888206014
+1546274087,Compression and fast indexing for multi-gigabyte text databases,1994,0,20,2,0.769231,2155888323,Alistair Moffat,0,-0.2524195920051036,-0.005898616377979171
+1521287888,Indexing Nucleotide Databases for Fast Query Evaluation,1996,22,21,2,1.0,2148633737,Hugh E. Williams,0,-0.13275296294680305,-0.071629888206014
+1521373230,Effective and scalable authorship attribution using function words,2005,31,109,2,1.0,2438986474,Ying Zhao,0,-0.31992537064479915,0.2849547996496509
+1548980684,Similarity measures for short queries,1995,0,51,2,0.0,2174190489,Ross Wilkinson,0,-0.5313269067166313,-0.8460182675020935
+1595401826,A Formal Model for Databases of Structured Text,1995,0,13,2,0.0,2608374974,Brian Lowe,0,0.003708468606338,0.082832279151172
+1931672689,Credible research case studies from information retrieval,2000,0,0,1,1.0,2019828590,Justin Zobel,0,0.003708468606338,0.082832279151172
+1607829561,Using relative entropy for authorship attribution,2006,28,31,2,1.0,2438986474,Ying Zhao,0,-0.2277948537307607,0.3384711537449258
+1581875405,Searching Large Lexicons for Partially Specified Terms using Compressed Inverted Files,1993,23,31,1,1.0,2019828590,Justin Zobel,0,0.3531040014101039,0.5049572131056808
+1917780124,A comparison of techniques for selecting text collections,2000,11,15,2,0.0,2189720390,James A. Thom,0,0.2693323793622667,0.4378238657374479
+1601635497,Distributed text retrieval from overlapping collections,2007,52,7,2,0.622642,2072421081,Milad Shokouhi,0,-0.21537081122240906,0.22512541931796853
+1971647276,Evaluation of a Machine Learning Duplicate Detection Method for Bioinformatics Databases,2015,29,13,2,0.75,2565219535,Qingyu Chen,0,0.21610048775463975,-0.08983950576919186
+1982237068,When query expansion fails,2003,11,19,2,1.0,2076708895,Bodo Billerbeck,0,-0.01657107088421793,0.035389748403282274
+1970173714,Capturing collection size for distributed non-cooperative retrieval,2006,24,61,2,0.622642,2072421081,Milad Shokouhi,0,0.003708468606338,0.082832279151172
+1968719990,Compact Auxiliary Dictionaries for Incremental Compression of Large Repositories,2014,40,1,3,0.0,2106974030,Jiancong Tong,0,0.003708468606338,0.082832279151172
+1986447815,Fast on-line index construction by geometric partitioning,2005,21,56,3,1.0,2113021300,Nicholas Lester,0,0.15621547829478888,0.4705725497004518
+1968927634,Rank-biased precision for measurement of retrieval effectiveness,2008,39,361,2,0.242043,2155888323,Alistair Moffat,0,-0.3379804343582226,0.12064427436291843
+1965657003,Exploring the similarity space,1998,11,344,1,1.0,2019828590,Justin Zobel,0,-1.022042780845529,0.3324122790613405
+1978089967,Collection-based compression using discovered long matching strings,2011,8,5,3,0.0,2494902160,Andrew Peel,0,0.003708468606338,0.082832279151172
+1981732427,Fast phrase querying with combined indexes,2004,26,84,2,0.24403,2148633737,Hugh E. Williams,0,0.7919563126680276,-0.5967087837517161
+1987205804,Efficient retrieval of partial documents,1995,18,55,1,1.0,2019828590,Justin Zobel,0,0.3138134161015081,0.3760354287448037
+2006608770,Efficient phrase querying with an auxiliary index,2002,19,64,3,1.0,2055172470,Dirk Bahle,0,0.8332652368058306,-0.7450864375137074
+1998024002,Accurate discovery of co-derivative documents via duplicate text detection,2006,28,22,2,0.666667,1864902963,Yaniv Bernstein,0,-0.1772064357329356,0.0022977515320126707
+2006996936,Improvements that dont add up ad-hoc retrieval results since 1998,2009,23,137,4,0.0,2114816205,Timothy G. Armstrong,0,0.0597908726731833,-0.2449448024264691
+1991386782,Guidelines for presentation and comparison of indexing techniques,1996,2,38,1,1.0,2019828590,Justin Zobel,0,-0.13275296294680305,-0.071629888206014
+2017110500,Blended Dictionaries for Reduced-Memory Lempel-Ziv Corpus Compression,2014,8,0,3,0.0,2106974030,Jiancong Tong,0,0.003708468606338,0.082832279151172
+2015338694,Information retrieval system evaluation effort sensitivity and reliability,2005,12,301,2,0.0,2168614097,Mark Sanderson,0,0.003708468606338,0.082832279151172
+2010143266,An architecture for effective music information retrieval,2004,24,15,2,0.0,2184316515,Alexandra L. Uitdenbogerd,0,0.984781936104207,-0.28272964416512464
+2015538915,Beyond The Thesis Completing A Successful PhD,2015,2,0,1,1.0,2019828590,Justin Zobel,0,0.003708468606338,0.082832279151172
+2026095310,Efficient passage ranking for document databases,1999,37,85,2,1.0,945070464,Marcin Kaszkiel,0,-0.21537081122240906,0.22512541931796853
+2026524281,Clustering near-duplicate images in large collections,2007,27,30,2,0.0,1974466025,Jun Jie Foo,0,-0.828120591917478,2.9999986610586435
+2023217403,Statistical power in retrieval experimentation,2008,22,61,3,1.0,2260911234,William Webber,0,-0.1826651000115661,0.11867050058969215
+2021581601,A similarity measure for indefinite rankings,2010,22,201,3,0.790698,2260911234,William Webber,0,-0.3473793728160243,0.24861357896709396
+2030428223,Indexing and retrieval for genomic databases,2002,57,102,2,0.0,2973265337,H.E. Williams,0,0.3800248960556045,0.4907458344035158
+2032351178,Efficient query expansion with auxiliary data structures,2006,42,17,2,1.0,2076708895,Bodo Billerbeck,0,-0.01657107088421793,0.035389748403282274
+2023624732,Robust result merging using sample-based score estimates,2009,79,36,2,0.527027,2072421081,Milad Shokouhi,0,0.003708468606338,0.082832279151172
+2014944005,Data health and algorithmics computational challenges for biomedicine,2011,0,1,1,1.0,2019828590,Justin Zobel,0,0.003708468606338,0.082832279151172
+2054050000,Supercomputing enabling exhaustive statistical analysis of genome wide association study data Preliminary results,2012,7,5,12,0.0,2161142293,Matthias Reumann,0,0.003708468606338,0.082832279151172
+2033167020,Memory efficient ranking,1994,22,31,2,0.769231,2155888323,Alistair Moffat,0,0.3138134161015081,0.3760354287448037
+2050930276,Quantifying the impact of concept recognition on biomedical information retrieval,2012,53,9,2,0.857143,2780609653,Sarvnaz Karimi,0,-0.11300819442795465,0.09518744858596301
+2037022968,Redundant documents and search effectiveness,2005,26,50,2,1.0,1864902963,Yaniv Bernstein,0,-0.048843878652944685,-0.11324552461495739
+2038807029,Compression of inverted indexes For fast query evaluation,2002,16,230,4,0.6,1970689224,Falk Scholer,0,-0.5795253457321474,-0.23348832519162
+2044434631,Similarity measures for tracking information flow,2005,19,144,5,0.0,2151486164,Donald Metzler,0,-0.7700663143320864,0.2716591963769157
+2039499764,Query expansion using associated queries,2003,37,127,4,1.0,2076708895,Bodo Billerbeck,0,-0.01657107088421793,0.035389748403282274
+2076747312,Burst tries a fast efficient data structure for string keys,2002,61,122,2,0.888889,2188252209,Steffen Heinz,0,0.003708468606338,0.082832279151172
+2066537690,Dynamic index pruning for effective caching,2007,16,22,3,0.0,1969593810,Yohannes Tsegay,0,0.25398306204551857,0.4448586313210973
+2068333205,Precision-at-ten considered redundant,2008,8,28,3,1.0,2260911234,William Webber,0,0.003708468606338,0.082832279151172
+2061491895,Searchable words on the Web,2005,16,38,2,0.24403,2148633737,Hugh E. Williams,0,-0.13275296294680305,-0.071629888206014
+2068502090,Effective ranking with arbitrary passages,2001,49,138,2,1.0,945070464,Marcin Kaszkiel,0,-1.0304440021622991,0.15259349161334462
+2075576453,Relative Lempel-Ziv factorization for efficient storage and retrieval of web collections,2011,37,28,3,0.0,229794527,Christopher Hoobin,0,-0.7657959706011526,1.017228380179742
+2073809056,Data compression in full-text retrieval systems,1993,0,62,4,0.75,2155888323,Alistair Moffat,0,-0.21537081122240906,0.22512541931796853
+2070377439,Against recall is it persistence cardinality density coverage or totality ,2009,5,21,1,1.0,2019828590,Justin Zobel,0,0.003708468606338,0.082832279151172
+2058298022,Predictive modeling least squares method for compression of time-series data,1997,0,0,1,1.0,2019828590,Justin Zobel,0,-0.18798148249851585,-0.19266858318497493
+2067073114,Has adhoc retrieval improved since 1994,2009,3,23,4,0.0,2114816205,Timothy G. Armstrong,0,0.7270607713713648,-0.03323405727744588
+2056622807,Aggregated click-through data in a homogeneous user community,2008,6,1,3,0.0,2233842262,Mingfang Wu,0,0.137894550983587,-0.09646013434435859
+2075893676,How reliable are the results of large-scale information retrieval experiments ,1998,15,465,1,1.0,2019828590,Justin Zobel,0,-0.1826651000115661,0.11867050058969215
+2072609512,The recap system for identifying information flow,2005,1,7,5,0.0,2151486164,Donald Metzler,0,0.003708468606338,0.082832279151172
+2076227143,Score standardization for inter-collection comparison of retrieval systems,2008,20,61,3,1.0,2260911234,William Webber,0,0.003708468606338,0.082832279151172
+2063972237,Index organization for multimedia database systems,1995,5,5,2,0.769231,2155888323,Alistair Moffat,0,-0.6311038277995416,1.934203771212436
+2103046707,External sorting with on-the-fly compression,2003,29,3,2,0.0,237968436,John Yiannis,0,0.003708468606338,0.082832279151172
+2078977631,Efficient Extended Boolean Retrieval,2012,29,6,3,1.0,2141268637,Stefan Pohl,0,0.2204636808095145,0.0403004057069267
+2092275652,Databases and the silification of health,2008,0,0,1,1.0,2019828590,Justin Zobel,0,-0.13294273958683295,0.2899827369353255
+2105365626,Compression of nucleotide databases for fast searching,1997,15,22,2,1.0,2148633737,Hugh E. Williams,0,0.003708468606338,0.082832279151172
+2126129461,Principled dictionary pruning for low-memory corpus compression,2014,36,7,3,0.0,2106974030,Jiancong Tong,0,0.003708468606338,0.082832279151172
+2141175968,Strategic system comparisons via targeted relevance judgments,2007,18,58,3,0.272545,2155888323,Alistair Moffat,0,-0.21537081122240906,0.22512541931796853
+2129070169,A scalable system for identifying co-derivative documents,2004,20,66,2,1.0,1864902963,Yaniv Bernstein,0,0.003708468606338,0.082832279151172
+2135050452,Filtered document retrieval with frequency-sorted indexes,1996,11,209,2,0.666667,1963929110,Michael Persin,0,1.1856461757003014,0.3664674943731539
+2132220874,Exploring criteria for successful query expansion in the genomic domain,2009,50,53,4,0.6,2148572485,Nicola Stokes,0,-0.29175102612527826,-0.42408198221051624
+2138662031,Inverted files for text search engines,2006,191,881,1,1.0,2019828590,Justin Zobel,0,0.03058019336888763,-0.7488409379405766
+2141897300,Fast ranking in limited space,1994,11,26,1,1.0,2019828590,Justin Zobel,0,-0.8606579028630192,0.25299359365315816
+2142009257,Efficient online index maintenance for contiguous inverted lists,2006,42,47,2,1.0,2113021300,Nicholas Lester,0,0.6623188747198969,0.12098147707758339
+2106485656,Detection of near-duplicate images for web search,2007,24,36,2,0.0,1974466025,Jun Jie Foo,0,0.003708468606338,0.082832279151172
+2124575832,In-place versus re-build versus re-merge index maintenance strategies for text retrieval systems,2004,25,53,2,1.0,2113021300,Nicholas Lester,0,-0.21537081122240906,0.22512541931796853
+2113304843,Collection selection for managed distributed document databases,2004,29,25,3,0.0,2146236348,Daryl DSouza,0,-0.22524958847502116,-0.0359620154864618
+2125203709,Self-indexing inverted files for fast text retrieval,1996,38,336,2,0.614351,2155888323,Alistair Moffat,0,0.2073967866920161,0.4056035643344491
+2119401576,Performance of data structures for small sets of strings,2002,20,10,2,0.888889,2188252209,Steffen Heinz,0,0.003708468606338,0.082832279151172
+2134074692,MedIR14 medical information retrieval workshop,2014,0,1,5,0.0,162340427,Lorraine Goeuriot,0,0.984781936104207,-0.28272964416512464
+2134087355,Entropy-based authorship search in large document collections,2007,38,9,2,0.857143,2438986474,Ying Zhao,0,0.003708468606338,0.082832279151172
+2143307282,Atlas a nested relational database system for text applications,1995,30,57,5,0.0,2982805933,R. Sacks Davis,0,-0.8487957844900619,0.2617736519722672
+2140291632,Does topic metadata help with Web search,2007,22,24,2,0.0,37244654,David Hawking,0,0.1231549335056549,0.051544081604491046
+2108009052,Compaction techniques for nextword indexes,2001,14,17,3,1.0,2055172470,Dirk Bahle,0,0.003708468606338,0.082832279151172
+2128894810,Federated text retrieval from uncooperative overlapped collections,2007,26,31,2,0.622642,2072421081,Milad Shokouhi,0,-0.17762264654976992,0.16574963007570953
+2140795521,Efficient single-pass index construction for text databases,2003,25,96,2,0.888889,2188252209,Steffen Heinz,0,-0.0582101751335628,0.33683163978399044
+2168187352,The case of the duplicate documents measurement search and science,2006,19,11,1,1.0,2019828590,Justin Zobel,0,0.003708468606338,0.082832279151172
+2171547693,Compact features for detection of near-duplicates in distributed retrieval,2006,30,24,3,0.666667,1864902963,Yaniv Bernstein,0,0.39565040059488404,0.10077835357166365
+2172096705,Text compression for dynamic document databases,1997,28,43,2,0.604822,2155888323,Alistair Moffat,0,0.003708468606338,0.082832279151172
+2157008678,Efficient online index construction for text databases,2008,35,41,3,0.0,2950527570,Nicholas Lester,0,0.44296508156568637,0.17026889355901972
+2154438473,Sample sizes for query probing in uncooperative distributed information retrieval,2006,25,20,3,0.622642,2072421081,Milad Shokouhi,0,-0.04920892429907685,0.06491516537118175
+2157485377,Using query logs to establish vocabularies in distributed information retrieval,2007,48,28,2,0.622642,2072421081,Milad Shokouhi,0,-0.06709973560736317,-0.016906612390014182
+2163652601,Inverted files versus signature files for text indexing,1998,38,296,1,1.0,2019828590,Justin Zobel,0,-0.13275296294680305,-0.071629888206014
+2164634022,Methods for identifying versioned and plagiarized documents,2003,20,292,2,0.0,1996624076,Timothy C. Hoad,0,1.116060298488493,-0.2793644663048043
+2147028271,A pipelined architecture for distributed text query evaluation,2007,33,103,3,0.272545,2155888323,Alistair Moffat,0,0.23127214348967126,0.3695913657339795
+2203835818,Passage retrieval revisited,1997,15,244,2,1.0,945070464,Marcin Kaszkiel,0,0.003708468606338,0.082832279151172
+2252166243,Continuous Measurement Scales in Human Evaluation of Machine Translation,2013,14,34,4,0.0,2119381488,Yvette Graham,0,0.003708468606338,0.082832279151172
+2293312434,Evaluation of Coreference Resolution for Biomedical Text,2014,6,5,3,1.0,2226984670,Miji Choi,0,0.003708468606338,0.082832279151172
+2283036946,A categorical analysis of coreference resolution errors in biomedical texts,2016,47,3,2,1.0,2226984670,Miji Choi,0,0.3093702597112594,0.0781901659384289
+2427788461,Parameterised compression for sparse bitmaps,1992,22,52,2,0.652174,2155888323,Alistair Moffat,0,-0.5666347934469339,-0.2099517914141392
+2463469535,How Informative is a Term Dispersion as a measure of Term Specificity,2016,15,0,2,0.0,2496325162,Rodney McDonell,0,-0.26696911874922685,0.05842691939063975
+2468447827,Space-limited ranked query evaluation using adaptive pruning,2005,0,0,4,1.0,2113021300,Nicholas Lester,0,0.4008545849234382,0.0377199707085476
+2579441661,Evaluation of CD-HIT for constructing non-redundant databases,2016,12,7,4,0.75,2565219535,Qingyu Chen,0,0.003708468606338,0.082832279151172
+2546947138,Benchmarks for Measurement of Duplicate Detection Methods in Nucleotide Databases,2016,38,1,2,0.0,717012417,Karin Verspoor,0,0.14064468613065295,0.17037367113253196
+2580489895,Literature Consistency of Bioinformatics Sequence Databases is Effective for Assessing Record Quality,2017,27,0,3,0.0,161286830,Mohamed Reda Bouadjenek,0,0.33341696293826023,0.468278282461484
+2735891904,Benchmarks for measuring duplicate detection methods for biological databases,2016,0,0,2,0.0,717012417,Karin Verspoor,0,-0.13120245634943134,0.116492655079619
+2596051187,Relative significance is insufficient Baselines matter too,2009,4,1,1,1.0,2019828590,Justin Zobel,0,0.7270607713713648,-0.03323405727744588
+2612152506,Efficient Trie-Based Sorting of Large Sets of Strings,2003,12,20,2,0.0,2193810353,Ranjan Sinha,0,0.003708468606338,0.082832279151172
+2749971207,Performance of Data Structures for Small Sets of Strings,2002,20,0,2,0.888889,2188252209,Steffen Heinz,0,0.6680306258994063,1.4961689093847763
+2767431106,Learning Biological Sequence Types Using the Literature,2017,8,2,3,0.0,161286830,Mohamed Reda Bouadjenek,0,1.0512609408308826,0.09531332803300381
+2785239010,Comparative Analysis of Sequence Clustering Methods for Deduplication of Biological Databases,2018,94,2,5,0.692308,2565219535,Qingyu Chen,0,-0.11564870157096543,0.7618288432369724
+2964648167,Benchmarks for measurement of duplicate detection methods in nucleotide databases,2017,32,5,2,0.0,717012417,Karin Verspoor,0,0.14064468613065295,0.17037367113253196
+3015593590,Generation of Synthetic Query Auto Completion Logs,2020,51,0,3,0.0,2773082111,Unni Krishnan,0,0.003708468606338,0.082832279151172
+3015632314,Partitioning Number Sequences into Optimal Subsequences,2000,0,4,1,1.0,2019828590,Justin Zobel,0,0.003708468606338,0.082832279151172
+2007009455,Reference-Free Validation of Short Read Data,2010,18,31,1,1.0,2019828590,Justin Zobel,0,0.003708468606338,0.082832279151172
+2120888506,High performance computing enabling exhaustive analysis of higher order single nucleotide polymorphism interaction in Genome Wide Association Studies,2015,28,17,11,0.55,2056343261,Benjamin Goudey,0,0.003708468606338,0.082832279151172
+2170508680,Boolean versus ranked querying for biomedical systematic reviews,2010,32,31,6,0.857143,2780609653,Sarvnaz Karimi,0,0.04749234732562001,0.25581771005860526
+2462977297,Coreference resolution improves extraction of Biological Expression Language statements from texts,2016,48,2,5,1.0,2226984670,Miji Choi,0,0.4801604287404542,-0.1849236927142147

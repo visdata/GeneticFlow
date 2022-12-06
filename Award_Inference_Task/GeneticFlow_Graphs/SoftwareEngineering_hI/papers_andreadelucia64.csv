@@ -1,0 +1,56 @@
+36290627,Recommending Refactoring Operations in Large Software Systems,2014,71,22,2,0.652365,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+128020272,ADAMS an Artefact-based Process Support System,2004,16,28,1,1.0,2128108671,Andrea De Lucia,0,-0.554465207424356,0.2706901569084994
+197260665,Emerging Methods Technologies and Process Management in Software Engineering,2008,0,7,2,0.0,2107872059,Maurizio Tucci,0,-0.0291855379334779,0.0585196112869768
+63212158,GENESIS A Flexible and Distributed Environment for Cooperative Software Engineering,2003,0,4,2,0.6,2048840791,Lerina Aversano,0,-0.0291855379334779,0.0585196112869768
+64255361,Rapid Development of Process Modeling Tools,2003,0,1,5,0.0,1983505328,Gennaro Costagliola,0,-0.0291855379334779,0.0585196112869768
+98640935,Program parallelization in WSDW,1994,0,0,1,1.0,2128108671,Andrea De Lucia,0,-0.0291855379334779,0.0585196112869768
+1568824873,Adams re-trace traceability link recovery via latent semantic indexing,2008,15,46,1,1.0,2128108671,Andrea De Lucia,0,-0.6187099202079455,0.02124498680478165
+1501700889,A Visual Framework for the Definition and Execution of Reverse Engineering Processes,2008,36,0,1,1.0,2128108671,Andrea De Lucia,0,-0.0291855379334779,0.0585196112869768
+1494024445,A System for Generating Reverse Engineering Tools A Case Study of Software Modularisation,1999,59,4,2,0.263252,2022884359,Gerardo Canfora,0,-0.5858771665552741,0.2641527235267396
+1548703962,Putting the developer in-the-loop an interactive GA for software re-modularization,2012,20,45,3,0.857143,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+1724584498,Software Engineering International Summer Schools ISSSE 2006-2008 Salerno Italy Revised Tutorial Lectures,2009,0,1,1,1.0,2128108671,Andrea De Lucia,0,-0.0291855379334779,0.0585196112869768
+1973410675,Extract package refactoring in ARIES,2015,6,3,7,0.636364,1987128262,Fabio Palomba,0,-0.0291855379334779,0.0585196112869768
+1975790660,Improving software modularization via automated analysis of latent topics and dependencies,2014,68,80,5,0.652365,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2003148182,An empirical analysis of the distribution of unit test smells and their impact on software maintenance,2012,22,51,4,0.857143,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+1998103903,Managing coordination and cooperation in distributed software processes the GENESIS environment,2004,29,22,2,0.6,2048840791,Lerina Aversano,0,-0.0291855379334779,0.0585196112869768
+2001953768,Creating Tools in a Software Environment Based on Graph Rewriting Rules,2000,22,0,1,1.0,2128108671,Andrea De Lucia,0,0.25631760331876086,0.5469451896967593
+2005522109,SCOTCH Test-to-code traceability using slicing and conceptual coupling,2011,26,35,4,1.0,334584765,Abdallah Qusef,0,-0.6187099202079455,0.02124498680478165
+2004247102,Automatic query reformulations for text retrieval in software engineering,2013,26,125,5,0.666667,2060062056,Sonia Haiduc,0,-0.0291855379334779,0.0585196112869768
+1988757916,Recovering traceability links between unit tests and classes under test An improved method,2010,49,31,3,0.833333,334584765,Abdallah Qusef,0,-0.6187099202079455,0.02124498680478165
+2014116953,How to effectively use topic models for software engineering tasks an approach based on genetic algorithms,2013,37,185,6,0.0,290562820,Annibale Panichella,0,-0.0291855379334779,0.0585196112869768
+2031838112,Evaluating legacy system migration technologies through empirical studies,2009,41,36,2,0.0,3028098342,Massimo Colosimo,0,-0.745244509044932,0.17945346688686717
+2032609241,An integrated environment for reuse reengineering C code,1998,28,23,2,0.263252,2022884359,Gerardo Canfora,0,-0.0291855379334779,0.0585196112869768
+2027479172,Assessing IR-based traceability recovery tools through controlled experiments,2009,41,73,1,1.0,2128108671,Andrea De Lucia,0,-0.6187099202079455,0.02124498680478165
+2051742379,TraceME Traceability Management in Eclipse,2012,13,17,3,0.857143,229858904,Gabriele Bavota,0,-0.6187099202079455,0.02124498680478165
+2068382122,An empirical study on the developers perception of software coupling,2013,39,76,6,0.714286,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2061701647,Automating the management of software maintenance workflows in a large software enterprise a case study,2002,28,13,3,0.470588,2048840791,Lerina Aversano,0,-1.4493001481211345,1.5572645418463122
+2091015747,Decomposing legacy programs a first step towards migrating to client-server platforms,2000,23,58,3,0.263252,2022884359,Gerardo Canfora,0,-0.0291855379334779,0.0585196112869768
+2093109180,Identifying objects in legacy systems using design metrics,1999,45,49,2,0.529412,2127927957,Aniello Cimitile,0,-0.11062618513323615,-0.6207013893624264
+2097465469,Supporting extract class refactoring in eclipse the ARIES project,2012,13,17,2,0.857143,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2097494663,Configuring topic models for software engineering tasks in TraceLab,2013,23,13,7,0.0,2101338685,Bogdan Dit,0,-0.6187099202079455,0.02124498680478165
+2100980975,Supporting Distributed Software Development with fine-grained Artefact Management,2006,22,25,2,0.0,104647944,Bernd Bruegge,0,-0.0291855379334779,0.0585196112869768
+2081893756,Developing legacy system migration methods and tools for technology transfer,2008,42,54,1,1.0,2128108671,Andrea De Lucia,0,-0.5863463170654387,0.20193309130246104
+2111741432,Teaching software engineering and software project management an integrated and practical approach,2012,38,24,2,0.857143,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2120785548,The role of the coverage analysis during IR-based traceability recovery A controlled experiment,2009,21,10,1,1.0,2128108671,Andrea De Lucia,0,-0.6187099202079455,0.02124498680478165
+2138788377,DB-MELIS An Eclipse Plug-in for Data Migration,2009,3,0,1,1.0,2128108671,Andrea De Lucia,0,-0.5863463170654387,0.20193309130246104
+2143569040,Evaluating the specificity of text retrieval queries to support software engineering tasks,2012,13,25,5,0.666667,2060062056,Sonia Haiduc,0,-0.0291855379334779,0.0585196112869768
+2145700761,Methodbook Recommending Move Method Refactorings via Relational Topic Models,2014,50,86,5,0.652365,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2154880989,CodeTopics which topic am I coding now ,2011,9,27,6,0.0,67342874,Denys Poshyvanyk,0,-0.5858771665552741,0.2641527235267396
+2147120745,On the role of developers scattered changes in bug prediction,2015,41,9,6,0.6,2171383664,Dario Di Nucci,0,-0.0291855379334779,0.0585196112869768
+2561301563,There and back again Can you compile that snapshot ,2017,29,28,6,0.0,67342874,Denys Poshyvanyk,0,-0.0291855379334779,0.0585196112869768
+2725758135,An exploratory study on the relationship between changes and refactoring,2017,43,16,4,0.636364,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2594575963,Lightweight detection of Android-specific code smells The aDoctor project,2017,18,22,5,0.636364,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2619825482,Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks,2017,97,12,6,0.0,2618740479,Chris Mills,0,-0.6187099202079455,0.02124498680478165
+2742512005,On the diffuseness and the impact on maintainability of code smells a large scale empirical investigation,2018,51,61,6,0.527027,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2756039569,The scent of a smell an extensive comparison between textual and structural smells,2018,104,29,5,0.527027,1987128262,Fabio Palomba,0,-0.0291855379334779,0.0585196112869768
+2789476037,A large-scale empirical study on the lifecycle of code smell co-occurrences,2018,47,19,6,0.527027,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2790182750,GENESIS Workflow Managing Distributed Software Processes,2003,0,3,3,0.6,2048840791,Lerina Aversano,0,-0.5232362786620735,0.5776155288667976
+2793243368,Analyzing Software Evolution through Design Pattern Evolution A Preliminary Study,2006,0,1,3,0.0,2104019092,Carmine Gravino,0,-0.28613334537441854,-0.04470958585493724
+2786813381,The CD-Lomas project an RCP-based Collaborative Distributed Learning Object Management System,2008,11,0,1,1.0,2128108671,Andrea De Lucia,0,-0.0291855379334779,0.0585196112869768
+2786870024,An Eclipse Based Environment to Define and Execute Processes with Application to the Reverse Engineering,2008,19,0,1,1.0,2128108671,Andrea De Lucia,0,-0.5858771665552741,0.2641527235267396
+2786946663,Enhancing IBM Requisite Pro with IR-based traceability recovery features,2008,18,0,1,1.0,2128108671,Andrea De Lucia,0,-0.6187099202079455,0.02124498680478165
+2888320259,OCELOT a search-based test-data generation tool for C,2018,22,1,5,0.0,2480241491,Simone Scalabrino,0,0.5182367371860604,-0.0359660275119465
+2907472649,Dealing with Design Pattern Variants in Reverse Engineering An Exploratory Study,2018,11,0,1,1.0,2128108671,Andrea De Lucia,0,-0.5716118286419691,0.12678888801887597
+2959222533,Scented Since the Beginning On the Diffuseness of Test Smells in Automatically Generated Test Code,2019,96,0,4,0.375,2742157969,Giovanni Grano,0,0.11936023494321167,-0.37887267204757574
+2973518926,Fine-grained management of software artefacts the ADAMS system,2010,47,23,1,1.0,2128108671,Andrea De Lucia,0,-0.6187099202079455,0.02124498680478165
+3013524257,Improving IR-based Traceability Recovery via Noun-based Indexing of Software Artifacts,2013,0,30,2,0.0,2123911264,Giovanni Capobianco,0,-0.6187099202079455,0.02124498680478165

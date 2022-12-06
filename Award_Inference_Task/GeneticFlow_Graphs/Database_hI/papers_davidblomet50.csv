@@ -1,0 +1,116 @@
+205569183,Important Membership Announcement,1992,0,1,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+56956449,The hBPi/-tree A Concurrent and Recoverable Multi-attribute Index,1997,0,2,3,1.0,407339565,Georgios Evangelidis,0,-0.0041099411153885,0.0447066884760059
+195419082,Letter Calling for TCDE Chair Nominations,2010,0,0,3,0.0,434753560,Erich J. Neuhold,0,-0.0041099411153885,0.0447066884760059
+162521032,Review - Notes on Data Base Operating Systems,2000,0,0,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+80270699,Important Membership Message - Repeated from March Issue,1993,0,1,2,0.0,2138427228,Rakesh Agrawal,0,-0.0041099411153885,0.0447066884760059
+182836174,Re-Introducing The Data Engineering Bulletin,1992,0,1,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+98648382,Letter from the TCDE Nominating Committee,2006,0,0,2,0.0900409,1964963541,Betty Salzberg,0,-0.0041099411153885,0.0447066884760059
+31385409,The Impact of Database Research on Industrial Products (Panel Summary),1994,0,0,4,0.0,2144418927,Daniel BarbarÃ¡,0,-0.0041099411153885,0.0447066884760059
+49017742,CASE Requirements for Extensible Database Systems,1987,0,4,2,0.0,2304774990,Philip A. Bernstein,0,1.7893171793184135,0.31207034930177807
+100318565,Digital B-trees,1981,7,34,1,1.0,1983664831,David B. Lomet,0,-0.10972757929508885,-0.16780964218467342
+100499401,Review - Transient Versioning for Consistency and Concurrency in Client-Server Systems,2000,0,0,1,1.0,1983664831,David B. Lomet,0,1.5177647803124543,2.223332974389391
+85201310,TC on Data Engineering Election of Chair for 2007-2008,2006,0,0,2,0.0900409,1964963541,Betty Salzberg,0,-0.0041099411153885,0.0447066884760059
+978724463,Smart error recovery for database applications,2012,85,13,4,0.0,13243707,Balendran Mugundan,0,1.5139413674294713,0.19775894324094306
+1481450833,High performance temporal indexing on modern hardware,2015,31,3,1,1.0,1983664831,David B. Lomet,0,1.1056320126329793,1.2885163483894864
+1525537725,A New Presumed Commit Optimization for Two Phase Commit,1993,6,64,2,0.666667,1785551945,Butler W. Lampson,0,2.1915112097485467,0.891211386790278
+1561713787,Order Preserving Compression,1996,0,21,2,0.0,2973915979,Gennady Antoshenkov,0,1.15941583720679,0.24889372652238476
+1543912966,Logical Recovery with Unbundled Transaction Services,2010,64,7,1,1.0,1983664831,David B. Lomet,0,0.4806634807954758,0.46527319202247636
+1571432445,Redo Recovery after System Crashes,1995,15,41,1,1.0,1983664831,David B. Lomet,0,0.8286466699603369,1.0027583038282522
+1526502875,The hBP-tree A Modified hB-tree Supporting Concurrency Recovery and Node Consolidation,1995,20,27,2,1.0,407339565,Georgios Evangelidis,0,0.7693433929352582,1.1746632297259414
+1517870510,Transaction Time Support Inside a Database Engine,2006,0,60,1,1.0,1983664831,David B. Lomet,0,1.922670575534753,1.9564410976742148
+1555508210,EOS exactly-once E-service middleware,2002,5,16,4,0.0,254158114,German Shegalov,0,-0.4571133499288504,-0.5019283722027162
+1502978042,Lazier timestamping in a transaction time database,2008,19,63,1,1.0,1983664831,David B. Lomet,0,1.373647591906004,1.7223489407738826
+1485575178,Database computer system with application recovery and recovery log sequence numbers to optimize recovery,1997,12,111,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+1485653296,Client-server computer system with application recovery of server applications and client applications,1998,28,200,2,0.0,514836396,Gerhard Weikum,0,-1.6402602381945106,-0.7668420225542816
+1575338486,Time stamping of database records,2001,13,78,1,1.0,1983664831,David B. Lomet,0,0.7773074909099718,0.9410422294571301
+1797600436,Database kernel research what if anything is left to do ,2004,0,0,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+1905376493,Database computer system with application recovery and dependency handling write cache,1997,21,219,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+1671539192,Future Directions in Database Research (Panel),1998,0,0,5,0.0,2163909284,Surajit Chaudhuri,0,-0.0041099411153885,0.0447066884760059
+1841686968,Database computer system with application recovery,1997,5,28,1,1.0,1983664831,David B. Lomet,0,0.17513580672908266,-0.20452385179051816
+1587367341,Immortal DB Transaction Time Support for SQL Server,2005,0,1,1,1.0,1983664831,David B. Lomet,0,0.47609573756399265,0.4489370890171192
+1908837559,System and method for consistent timestamping in distributed computer databases,1990,8,131,1,1.0,1983664831,David B. Lomet,0,2.574133484089512,2.6139371866675583
+1598754936,The BT-tree A Branched and Temporal Access Method,2000,10,31,3,1.0,2123570749,Linan Jiang,0,-0.24164456491636796,0.009238638897209587
+1963674762,The Bw-Tree A B-tree for new hardware platforms,2013,21,189,2,0.21092,209651163,Justin J. Levandoski,0,0.23725945975822774,0.1536152179563959
+1590896615,Dependability Abstraction and Programming,2009,22,2,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+1698229348,Exploiting A History Database for Backup,1993,15,32,1,1.0,1983664831,David B. Lomet,0,1.158688307213937,0.5769425333486106
+1600313589,Timestamping in databases,2003,28,43,1,1.0,1983664831,David B. Lomet,0,2.467472592353394,2.42171057323399
+1866901121,Persistent applications using generalized redo recovery,1998,10,32,1,1.0,1983664831,David B. Lomet,0,0.187795573089195,-0.31981062689680706
+1790298588,Structuring storage based on latch-free b-trees,2012,134,57,2,0.249131,209651163,Justin J. Levandoski,0,-0.0041099411153885,0.0447066884760059
+1965001839,A review of recent work on multi-attribute access methods,1992,14,17,1,1.0,1983664831,David B. Lomet,0,2.074621629608314,0.6414702586924637
+1972121352,Logical logging to extend recovery to new domains,1999,11,21,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+1987844293,Multi-version Concurrency via Timestamp Range Conflict Management,2012,28,41,1,1.0,1983664831,David B. Lomet,0,2.7354778657898837,3.4993566860393774
+1994940626,B-tree page size when caching is considered,1998,2,17,1,1.0,1983664831,David B. Lomet,0,0.07990222934621705,0.430503982801384
+1991767575,Phoenix project fault-tolerant applications,2002,12,17,2,1.0,1271007067,Roger Barga,0,0.1725825980112249,0.4288348444236614
+1997506570,Efficient transparent application recovery in client-server information systems,1998,29,67,2,0.0,514836396,Gerhard Weikum,0,1.8017091529367453,0.42483139851370655
+1997609066,Spatial database access methods,1991,0,9,2,0.257362,1964963541,Betty Salzberg,0,-0.1232715727120712,0.2131450373911843
+2030159528,Microsoft SQL servers integrated database approach for modern applications and hardware,2013,4,3,1,1.0,1983664831,David B. Lomet,0,-0.17244133864042968,-0.305030520451871
+2030279442,Access method concurrency with recovery,1992,14,74,1,1.0,1983664831,David B. Lomet,0,0.1725825980112249,0.4288348444236614
+2018470393,Indexing on modern hardware hekaton and beyond,2014,10,16,2,0.188013,209651163,Justin J. Levandoski,0,0.9193514415422137,0.8720163781846092
+2044015456,The performance of a multiversion access method,1990,10,117,1,1.0,1983664831,David B. Lomet,0,-0.1232715727120712,0.2131450373911843
+2046324801,The Microsoft database research group,1998,4,2,1,1.0,1983664831,David B. Lomet,0,0.9408492071308692,0.912959594064505
+2038012689,The impact of database research on industrial products (panel),1994,1,2,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+2076378825,Chimera data sharing flexibility shared nothing simplicity,2011,21,1,2,0.0,323964158,Umar Farooq Minhas,0,-0.0041099411153885,0.0447066884760059
+2086257032,Transaction-Time Databases,1993,0,32,1,1.0,1983664831,David B. Lomet,0,0.827746378431438,0.9523695629939803
+2098489450,Improving Transaction-Time DBMS Performance and Functionality,2009,33,32,1,1.0,1983664831,David B. Lomet,0,1.208169214524546,1.1352408850786924
+2101534400,Transaction Support for Log-Based Middleware Server Recovery,2009,10,5,3,1.0,2657428011,Rui Wang,0,0.48490925932855067,0.3937365870294801
+2081912596,Concurrency and recovery for index trees,1997,21,65,1,1.0,1983664831,David B. Lomet,0,0.5447877687674342,0.8118286131128707
+2108908993,The hB-tree a multiattribute indexing method with good guaranteed performance,1990,17,250,1,1.0,1983664831,David B. Lomet,0,0.26577233024066305,0.03358227218149195
+2132707431,Persistent Client-Server Database Sessions,2000,21,90,2,1.0,1271007067,Roger Barga,0,1.5122436332641072,0.24911424039955676
+2118314386,The hB $^Pi$-tree a multi-attribute index supporting concurrency recovery and node consolidation,1997,26,50,3,1.0,407339565,Georgios Evangelidis,0,-0.20983128751368593,-0.7739381554614956
+2116137265,The evolution of effective B-tree page organization and techniques a personal account,2001,18,54,1,1.0,1983664831,David B. Lomet,0,0.381212750592384,0.32282614264999077
+2136813418,LLAMA a cache/storage subsystem for modern hardware,2013,26,30,2,0.21092,209651163,Justin J. Levandoski,0,0.031069763912240006,0.2962767685950026
+2122397730,Simple robust and highly concurrent b-trees with node deletion,2004,20,29,1,1.0,1983664831,David B. Lomet,0,2.376031815465849,3.2190297341409675
+2113603603,A theory of redo recovery,2003,13,17,1,1.0,1983664831,David B. Lomet,0,0.8286466699603369,1.0027583038282522
+2125391023,Deuteronomy Transaction support for cloud data,2011,29,80,2,0.249131,209651163,Justin J. Levandoski,0,0.5865259663965073,0.6025043031169265
+2134155667,Using the lock manager to choose timestamps,2005,16,16,1,1.0,1983664831,David B. Lomet,0,2.6619539658615503,2.307493906871403
+2113830987,Distributed transaction processing using two-phase commit protocol with presumed-commit without log force,1992,5,108,2,0.666667,1785551945,Butler W. Lampson,0,2.34585126745146,2.4055200099147385
+2119843648,Recovery from &quot;bad&quot; user transactions,2006,10,39,3,0.0,313600265,Zografoula Vagena,0,1.6352989076268305,1.665642593464528
+2110965035,Persistent middle tier components without logging,2005,14,11,1,1.0,1983664831,David B. Lomet,0,-0.19196147509311953,0.14487620954580122
+2119934859,High speed on-line backup when using logical log operations,2000,26,46,1,1.0,1983664831,David B. Lomet,0,1.3790609903284226,0.2349814967842856
+2168262126,MLR a recovery method for multi-level systems,1992,20,85,1,1.0,1983664831,David B. Lomet,0,1.0938966262995078,1.3803803596143143
+2144361113,Order preserving string compression,1996,6,23,1,1.0,1983664831,David B. Lomet,0,0.7171138400878053,0.1438872341433715
+2147479907,Log-based recovery for middleware servers,2007,14,11,3,1.0,2657428011,Rui Wang,0,-0.4571133499288504,-0.5019283722027162
+2153546617,Unbundling Transaction Services in the Cloud,2009,23,91,1,1.0,1983664831,David B. Lomet,0,2.03757088221809,2.5752491233318264
+2165620568,Transaction Timestamping in (Temporal) Databases,2001,16,51,2,0.0,2159644763,Christian S. Jensen,0,1.1999962580836991,1.39789430480313
+2153777232,Measuring and optimizing a system for persistent database sessions,2001,8,13,2,1.0,1271007067,Roger Barga,0,1.5787243418416754,0.479474148743614
+2162722036,Log-based middleware server recovery with transaction support,2011,37,5,3,1.0,2657428011,Rui Wang,0,0.4154814368727603,0.46379726666601034
+2156855209,The atomic manifesto a story in four quarks,2005,25,15,2,0.0,2142468959,Cliff B. Jones,0,1.614981177218727,1.6110782509539465
+2145170453,Implementing performance competitive logical recovery,2011,18,12,1,1.0,1983664831,David B. Lomet,0,0.18601297105691045,-0.0008472885667257998
+2172207436,Immortal DB transaction time support for SQL server,2005,4,63,1,1.0,1983664831,David B. Lomet,0,1.673365280025841,1.7600137532459292
+2154322583,Access methods for multiversion data,1989,12,226,1,1.0,1983664831,David B. Lomet,0,-0.1232715727120712,0.2131450373911843
+2154474349,Adapting microsoft SQL server for cloud computing,2011,12,102,7,0.0,2304774990,Philip A. Bernstein,0,-0.0041099411153885,0.0447066884760059
+2173048158,Private Locking and Distributed Cache Management,1993,0,0,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+2148577665,Recovery guarantees for general multi-tier applications,2002,44,39,2,1.0,1271007067,Roger Barga,0,-0.12148523988669345,0.1572088724734156
+2181961186,High Performance Transactions in Deuteronomy,2015,28,36,2,0.174352,209651163,Justin J. Levandoski,0,0.6188631720539706,0.5579867129410502
+2148903446,Guest Editors message,2008,0,0,2,0.0,1972413714,Umesh Dayal,0,-0.25609130579317646,0.2785941556746898
+2148998558,Locking key ranges with unbundled transaction services,2009,15,28,1,1.0,1983664831,David B. Lomet,0,2.2270883553046015,3.0482320549035067
+2163969616,Data system with distributed tree indexes and method for maintaining the indexes,1996,30,165,1,1.0,1983664831,David B. Lomet,0,-0.03195901955725283,-0.0864925959552802
+2167113304,Improving logging and recovery performance in Phoenix/App,2004,10,32,3,0.813176,1271007067,Roger Barga,0,-0.0348087340108871,0.4761631643743138
+2167350691,Transaction time indexing with version compression,2008,67,93,1,1.0,1983664831,David B. Lomet,0,1.0186944673422138,0.7179645133839107
+2149833616,Transaction Time Support Inside a Database Engine,2006,33,73,1,1.0,1983664831,David B. Lomet,0,2.2555299012413794,2.082996260788087
+2161834541,A Framework for Access Methods for Versioned Data,2004,11,24,3,0.0973751,1964963541,Betty Salzberg,0,0.5464217366509948,0.7358341914784576
+2200593589,Unbundled storage transaction services,2009,8,46,1,1.0,1983664831,David B. Lomet,0,0.1725825980112249,0.4288348444236614
+2267414881,Automatic data request recovery after session failure,2012,74,21,4,0.0,13243707,Balendran Mugundan,0,0.6216508353481304,0.07709711754234712
+2212026723,Phoenix making applications robust,1999,4,13,2,1.0,1271007067,Roger Barga,0,-0.0041099411153885,0.0447066884760059
+2272669552,Multi-version range concurrency control in Deuteronomy,2015,35,13,2,0.174352,209651163,Justin J. Levandoski,0,2.0372017937197913,2.0690639114999336
+2206824928,Media recovery with time-split B-trees,1995,24,75,2,0.257362,1964963541,Betty Salzberg,0,0.8629442155814793,0.9357512755559544
+2274650938,Wrap-up reads for logless persistent components,2007,14,3,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+2256384365,Schema-agnostic indexing with Azure DocumentDB,2015,8,17,17,0.0,2264646972,Dharma Shukla,0,0.2653674138155342,0.10775987979072968
+2218129360,Database computer system using logical logging to extend recovery,1999,23,41,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+2218160927,TSB-TREE PAGE SPLIT STRATEGY,2007,10,0,1,1.0,1983664831,David B. Lomet,0,-0.241250245220175,-0.17693373480736696
+2276534156,Transaction support for distributed data,2011,23,28,2,0.249131,209651163,Justin J. Levandoski,0,2.4551190879721627,2.4944358625612773
+2307582423,High throughput data modifications using blind update operations,2014,138,12,2,0.188013,209651163,Justin J. Levandoski,0,-0.0041099411153885,0.0447066884760059
+2285489236,Database corruption recovery systems and methods,2005,17,29,2,0.692496,1271007067,Roger Barga,0,0.9423139809149608,0.9569689334860199
+2336086217,HIGH PERFORMANCE TRANSACTIONS IN DATABASE MANAGEMENT SYSTEMS,2014,57,32,2,0.188013,209651163,Justin J. Levandoski,0,0.8071947597928303,0.95524368871504
+2397460940,Message from the TCDE Chair Nominating Committee,2012,0,1,3,0.0,2659556843,Amr El Abaddi,0,-0.0041099411153885,0.0447066884760059
+2735021351,Log-structured storage for data access,2016,181,3,2,0.156172,209651163,Justin J. Levandoski,0,0.06680486382851669,-0.013343236428626873
+2614287669,The Evolution of the Bulletin,1993,0,0,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+2757075733,Method and system for a consistent time down in distributed computer databases,1991,0,0,1,1.0,1983664831,David B. Lomet,0,0.0256868597571381,0.2699158052199714
+2757434286,System for matching imprinting time of distributed computer data base,1991,0,0,1,1.0,1983664831,David B. Lomet,0,0.26393200477778567,0.21773495700117207
+2898557680,Caching Data Stores High Performance at Low Cost,2018,0,0,1,1.0,1983664831,David B. Lomet,0,-0.01331521138473075,0.17670384109426496
+2951936395,Unbundling Transaction Services in the Cloud,2009,18,0,1,1.0,1983664831,David B. Lomet,0,0.5447877687674342,0.8118286131128707
+2955470766,Cost/Performance in Modern Data Stores How Data Caching Systems Succeed,2019,0,0,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+2953266679,Implementing Performance Competitive Logical Recovery,2011,11,7,1,1.0,1983664831,David B. Lomet,0,0.18601297105691045,-0.0008472885667257998
+2934838947,Data Caching Systems Win the Cost/Performance Game,2019,0,0,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+2996824389,Letter from the Service Award Winner,2019,0,0,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+3020905277,Efficiently Reclaiming Space in a Log Structured Store,2020,18,0,1,1.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,44 @@
+21025320,Database Management Systems Data Mining - Data Cubes,2001,3,0,1,1.0,1787861840,Anastassia Ailamaki,0,0.6106421497719872,0.25917203444639
+163898659,Processor Performance of Selection Queries,1999,2,3,1,1.0,1787861840,Anastassia Ailamaki,0,2.211322078200672,0.6154019478085208
+182451592,Redesigning database systems in light of cpu cache prefetching,2005,69,4,2,0.0,40863599,Todd C. Mowry,0,-0.0041099411153885,0.0447066884760059
+332155273,Lachesis Robust Database Storage Management Based on Device-specific Performance Characteristics (CMU-CS-03-124),2003,28,1,2,0.0,2791808,Gregory R. Ganger,0,1.4195179152090098,1.0420484686344809
+1558805549,DBmbench fast and accurate database workload representation on modern microarchitecture,2005,18,48,2,1.0,2305695538,Minglong Shao,0,1.5193922742730563,1.3108871558758848
+1568945110,Improving hash join performance through prefetching,2004,32,69,2,0.692308,2161123335,Shimin Chen,0,-0.0041099411153885,0.0447066884760059
+1507495487,Letter from the Special Issue Editor,2006,0,0,1,1.0,1787861840,Anastassia Ailamaki,0,-0.0041099411153885,0.0447066884760059
+1517128672,Optimistic intra-transaction parallelism on chip multiprocessors,2005,16,18,2,0.0,230773806,Christopher B. Colohan,0,1.180182576065023,1.2412228925374822
+1536753495,Efficient Use of the Query Optimizer for Automated Database Design,2007,0,16,3,0.62069,2012992055,Stratos Papadomanolakis,0,0.10063845986453604,0.026983923776472123
+1796870311,Steps towards cache-resident transaction processing,2004,29,44,2,1.0,2676701685,Stavros Harizopoulos,0,1.422220960845264,1.3158003174733472
+1604861079,Workload-Driven Schema Design for Large Scientific Databases,2004,0,0,2,1.0,2012992055,Stratos Papadomanolakis,0,2.79652820726674,0.3381055087076839
+1847807943,Database architectures for new hardware,2004,0,9,1,1.0,1787861840,Anastassia Ailamaki,0,1.2383675116593769,0.10472190721488878
+1599548736,StagedDB Designing Database Servers for Modern Hardware,2005,17,35,2,0.888889,2676701685,Stavros Harizopoulos,0,0.24710828277347904,-0.12419462994759982
+1590859052,Managing Soil Science Experiments Using ZOO,1997,8,0,3,0.0,435837623,Yannis E. Ioannidis,0,0.3224140077908764,0.1113695316168249
+1616982994,Automated database design for large-scale scientific applications,2007,0,0,1,1.0,1787861840,Anastassia Ailamaki,0,1.4794835007937235,0.2661663173510568
+1584345234,Clotho decoupling memory page layout from storage organization,2004,21,43,4,1.0,2305695538,Minglong Shao,0,-0.0041099411153885,0.0447066884760059
+1986274467,Efficient query processing on unstructured tetrahedral meshes,2006,33,38,2,1.0,2012992055,Stratos Papadomanolakis,0,0.09601428459719444,-0.22468942392447935
+2015823077,Query co-processing on commodity processors,2006,5,31,1,1.0,1787861840,Anastassia Ailamaki,0,0.18601297105691045,-0.0008472885667257998
+2016235562,Exposing undergraduate students to database system internals,2003,1,7,1,1.0,1787861840,Anastassia Ailamaki,0,-0.34857978327751216,-0.2513987233039086
+2075345089,Data page layouts for relational databases on deep memory hierarchies,2002,27,97,1,1.0,1787861840,Anastassia Ailamaki,0,0.08669894804581825,-0.2573069711762968
+2077825087,Time for our field to grow up,2010,0,2,1,1.0,1787861840,Anastassia Ailamaki,0,-0.14779380182031718,0.12525778742702795
+2099580433,Improving hash join performance through prefetching,2007,33,68,2,0.857143,2161123335,Shimin Chen,0,-0.0041099411153885,0.0447066884760059
+2096668111,Accelerating database operators using a network processor,2005,21,45,2,0.0,117387042,Babak Falsafi,0,-0.0041099411153885,0.0447066884760059
+2100099053,QPipe a simultaneously pipelined relational query engine,2005,30,161,3,0.888889,2676701685,Stavros Harizopoulos,0,1.4720178268926762,0.49437050885219797
+2097542768,An environmental sensor network to determine drinking water quality and security,2003,20,62,1,1.0,1787861840,Anastassia Ailamaki,0,-0.241250245220175,-0.17693373480736696
+2141138026,Improving instruction cache performance in OLTP,2006,32,29,2,0.681818,2676701685,Stavros Harizopoulos,0,1.641530967974413,1.4676622704682576
+2117495487,Scientific workflow management by database management,1998,13,79,1,1.0,1787861840,Anastassia Ailamaki,0,1.263341463834987,1.784299668444837
+2141689805,Lachesis robust database storage management based on device-specific performance characteristics,2003,31,32,2,0.529412,2250821823,Jiri Schindler,0,1.4195179152090098,1.0420484686344809
+2142072070,Database architectures for new hardware,2005,11,5,1,1.0,1787861840,Anastassia Ailamaki,0,-0.0041099411153885,0.0447066884760059
+2109403713,A workload-driven unit of cache replacement for mid-tier database caching,2007,28,20,5,0.0,2307136029,Xiaodan Wang,0,-0.0041099411153885,0.0447066884760059
+2130642985,Weaving Relations for Cache Performance,2001,27,349,1,1.0,1787861840,Anastassia Ailamaki,0,-0.0041099411153885,0.0447066884760059
+2122509464,Improving preemptive prioritization via statistical characterization of OLTP locking,2005,15,24,3,1.0,115300102,David T. McWherter,0,1.5193922742730563,1.3108871558758848
+2110772258,Simultaneous scalability and security for data-intensive web applications,2006,20,15,2,0.428571,2098120398,Amit Manjhi,0,-0.09643955070014586,-0.2837431777135822
+2143622298,A Scalability Service for Dynamic Web Applications,2005,25,37,4,0.0,2023450202,Christopher Olston,0,-0.9070641476920592,-0.8526623352160405
+2156165756,Architecture-conscious database systems,2000,42,5,1,1.0,1787861840,Anastassia Ailamaki,0,1.8914007082058568,0.5793494412049495
+2158483238,Priority mechanisms for OLTP and transactional Web applications,2004,12,82,3,1.0,115300102,David T. McWherter,0,0.9518840391138187,0.682983163422619
+2155651153,DBMSs on a Modern Processor Where Does Time Go ,1999,18,446,1,1.0,1787861840,Anastassia Ailamaki,0,-0.17244133864042968,-0.305030520451871
+2146921980,A Case for Staged Database Systems,2003,39,59,2,1.0,2676701685,Stavros Harizopoulos,0,0.27170066117554836,0.25351867123412375
+2150054597,Database Servers on Chip Multiprocessors Limitations and Opportunities,2007,31,137,4,0.0,1969377669,Nikos Hardavellas,0,0.954541140868863,0.11438247185517338
+2214826828,Zoo a desktop experiment management environment,1997,18,17,3,0.0,228437624,Miron Livny,0,0.17004779066137282,-0.11960748293888891
+2241413418,Priority Mechanisms for OLTP and Transactional Web Applications,2004,0,6,3,1.0,115300102,David T. McWherter,0,0.9500051294204032,0.6698604226161997
+2330901872,Staged database systems,2005,92,5,1,1.0,1787861840,Anastassia Ailamaki,0,1.9929551551294038,0.7013126522507394
+2914512445,Inspector joins,2005,14,18,2,0.857143,2161123335,Shimin Chen,0,-0.0041099411153885,0.0447066884760059
+2915129955,Rethinking the Conference Reviewing Process - Panel,2004,0,1,7,0.0,2523407221,Michael J. Franklin,0,-0.0041099411153885,0.0447066884760059

@@ -17,11 +17,11 @@ order=[710, 2502, 1467, 1336, 401, 1825, 984, 695, 1937, 2286, 2787, 2405, 60, 1
 edge_numbers=0
 edge_numbers_selected=0
 
-for root, dirs, files in os.walk("../data_origin", topdown=False):
+for root, dirs, files in os.walk("../data_origin_cut_edge", topdown=False):
     for name in files:
         if(name[0]=='l'):
             try:
-                df=pd.read_csv("../data_origin/"+name,sep='\t',header=None)
+                df=pd.read_csv("../data_origin_cut_edge/"+name,sep='\t',header=None)
             except:
                 Edge=[]
                 np.savetxt(name, np.array(Edge), fmt="%s", delimiter="	")
@@ -33,7 +33,7 @@ for root, dirs, files in os.walk("../data_origin", topdown=False):
             y_pred = (result > float(Ratio)).astype(int)
             Edge=[]
             print(name)
-            df_paper=pd.read_csv("../data_origin/papers"+name[5:], header = None, sep='\t')
+            df_paper=pd.read_csv("../data_origin_cut_edge/papers"+name[5:], header = None, sep='\t')
             df_paper=df_paper[df_paper[5].astype(float) >= 0.5]
             vertex=df_paper.iloc[:,0].values
             # print(vertex)

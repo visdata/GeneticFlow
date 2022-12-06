@@ -1,0 +1,71 @@
+1498668367,Architecture for automation system development based on IEC 61499 standard,2005,14,25,1,1.0,1982190134,Valeriy Vyatkin,0,0.41043092228557876,0.5345275273429294
+1507169668,How does the IEC61499 architecture fit the requirements of intelligent automation systems,2004,5,5,1,1.0,1982190134,Valeriy Vyatkin,0,-0.0291855379334779,0.0585196112869768
+1517516772,On automatic generation of IEC61850/IEC61499 substation automation systems enabled by ontology,2014,14,4,2,1.0,2806938993,Chen Wei Yang,0,-0.0291855379334779,0.0585196112869768
+1483300105,Reuse of components in formal modeling and verification of distributed control systems,2005,9,10,1,1.0,1982190134,Valeriy Vyatkin,0,0.3648079396135204,0.6092769066434898
+1556296658,Component Design and Formal Validation of SFA Systems A Case Study,2002,3,6,1,1.0,1982190134,Valeriy Vyatkin,0,0.47888017743710726,0.3266563209579802
+1486030555,Adaptable software components Towards digital ecosystems and software evolution in the industrial automation domain,2014,34,3,4,0.0,2311966729,Jeffrey Yan,0,-0.0291855379334779,0.0585196112869768
+1513470120,Formal modeling and verification in the software engineering framework of IEC 61499 a way to self-verifying systems,2001,4,37,1,1.0,1982190134,Valeriy Vyatkin,0,0.41043092228557876,0.5345275273429294
+1801122361,Towards a Design Methodology for Agent-Based Automation of Smart Grid,2015,21,0,2,1.0,2051321673,Gulnara Zhabelova,0,-0.25224379379546713,0.3194626699477989
+1945490769,Towards software metrics for evaluating quality of IEC 61499 automation software,2015,12,6,2,1.0,2051321673,Gulnara Zhabelova,0,-0.0291855379334779,0.0585196112869768
+1623109537,IEC 61499 Function Blocks for Embedded and Distributed Control Systems Design,2007,0,160,1,1.0,1982190134,Valeriy Vyatkin,0,-0.0291855379334779,0.0585196112869768
+1625622611,Change request management in model-driven engineering of industrial automation software,2015,29,7,5,0.0,2228965355,Heng You Lin,0,-0.5232362786620735,0.5776155288667976
+1986170521,Transformation from PLC to distributed control using ontology mapping,2012,16,3,2,1.0,2113266580,Wenbin Dai,0,-0.0291855379334779,0.0585196112869768
+1965445674,A component-based design pattern for improving reusability of automation programs,2013,19,7,2,1.0,2113266580,Wenbin Dai,0,-0.15262259630533223,-0.31689500336903065
+1977778427,The Application of Service-Oriented Architectures in Distributed Automation Systems,2014,10,11,2,0.0,2974303761,Wenbin William Dai,0,0.04260668194968125,-0.40137311355512034
+1978370442,A portability study of IEC 61499 Semantics and tools,2014,21,12,4,1.0,1971992088,Cheng Pang,0,-0.45852030700223123,0.22333703537111385
+2009820176,Enhancing distributed automation systems with efficiency and reliability by applying autonomic service management,2014,18,5,2,0.0,2974303761,Wenbin William Dai,0,-0.0291855379334779,0.0585196112869768
+2019828702,Now Thats Smart Information Infrastructure of Intelligent Machines Based on the IEC 61499 Architecture,2007,0,3,2,0.666667,268055191,Zoran Salcic,0,-0.0291855379334779,0.0585196112869768
+2027068903,The IEC 61499 standard and its semantics,2009,17,77,1,1.0,1982190134,Valeriy Vyatkin,0,-0.0291855379334779,0.0585196112869768
+2013206563,Different perspectives [Face to face; &quot;IEC 61499 architecture for distributed automation The `&quot;glass half full&quot; view],2009,20,55,2,0.149145,29803044,Alois Zoitl,0,-0.45852030700223123,0.22333703537111385
+2049250962,Plug-and-play design and distributed logic control of medical devices using IEC 61499 function blocks,2013,0,1,3,0.666667,268055191,Zoran Salcic,0,-0.0291855379334779,0.0585196112869768
+2053536436,Toward Industrially Usable Agent Technology for Smart Grid Automation,2015,16,32,2,1.0,2051321673,Gulnara Zhabelova,0,-0.0291855379334779,0.0585196112869768
+2039568215,Software Engineering in Industrial Automation State-of-the-Art Review,2013,98,171,1,1.0,1982190134,Valeriy Vyatkin,0,-1.327189031796377,-0.2780182001658572
+2075622683,Guest Editorial Special section on software engineering in industrial automation,2013,12,4,1,1.0,1982190134,Valeriy Vyatkin,0,-1.327189031796377,-0.2780182001658572
+2063382737,Advanced software engineering in industrial automation,2013,0,0,2,0.0890722,29803044,Alois Zoitl,0,-1.327189031796377,-0.2780182001658572
+2065225409,SysGRID IEC 61850 and IEC 61499 Standard Based Engineering Tool for Smart Grid Automation Design,2014,0,4,3,1.0,2806938993,Chen Wei Yang,0,-0.0291855379334779,0.0585196112869768
+2072498937,On comparisons of the ISaGRAF implementation of IEC 61499 with FBDK and other implementations,2008,10,36,1,1.0,1982190134,Valeriy Vyatkin,0,-0.45852030700223123,0.22333703537111385
+2056913993,Ontology Model for Migration from IEC 61131-3 PLC to IEC 61499 Function Block,2011,9,4,2,0.9,2113266580,Wenbin Dai,0,-0.0291855379334779,0.0585196112869768
+2062672055,Service-oriented distributed control software design for process automation systems,2014,16,8,3,0.0,2974303761,Wenbin William Dai,0,0.04260668194968125,-0.40137311355512034
+2078825564,Usability and Interoperability of IEC 61499 based distributed automation systems,2006,17,73,2,0.149145,29803044,Alois Zoitl,0,-0.0291855379334779,0.0585196112869768
+2097573945,IEC 61499 ontology model for semantic analysis and code generation,2011,15,6,1,1.0,1982190134,Valeriy Vyatkin,0,-0.0291855379334779,0.0585196112869768
+2120447740,Engineering of Validatable Automation Systems Based on an Extension of UML Combined With Function Blocks of IEC 61499,2005,6,25,2,0.731069,1991471288,Victor Dubinin,0,-0.0291855379334779,0.0585196112869768
+2118254625,Refactoring of Execution Control Charts in Basic Function Blocks of the IEC 61499 Standard,2010,18,16,1,1.0,1982190134,Valeriy Vyatkin,0,-0.0291855379334779,0.0585196112869768
+2119171095,A deployment of an ontology-based reconfiguration agent for intelligent mechatronic systems,2008,10,1,1,1.0,1982190134,Valeriy Vyatkin,0,-0.0291855379334779,0.0585196112869768
+2182144229,Usability andInteroperability ofIEC61499baseddistributed automation systems,2006,4,0,2,0.149145,29803044,Alois Zoitl,0,-0.0291855379334779,0.0585196112869768
+2188664527,Formal Modeling of Testing Software for Cyber-Physical Automation Systems,2015,18,8,3,1.0,2032560705,Igor Buzhinsky,0,-0.0291855379334779,0.0585196112869768
+2243798061,Requirements-Aided Automatic Test Case Generation for Industrial Cyber-physical Systems,2015,14,6,5,0.5,2179208499,Roopak Sinha,0,-0.36866819754668895,-0.4615224334652338
+2275000972,Towards IEC 61499 models of computation in Ptolemy II,2015,25,2,3,1.0,1971992088,Cheng Pang,0,-0.0291855379334779,0.0585196112869768
+2280067009,Requirements engineering of industrial automation systems Adapting the CESAR requirements meta model for safety-critical smart grid software,2015,25,4,4,0.5,2179208499,Roopak Sinha,0,0.1967743766663866,-0.3197297783139856
+2336549308,Formal description of IEC 61499 control logic with real-time constraints,2006,10,1,2,0.0,257122791,Bernard Favre Bulle,0,-0.5061008900465511,-0.2809678449690313
+2499198678,Applying IEC 61499 Design Paradigms Object-Oriented Programming Component-Based Design and Service-Oriented Architecture,2017,1,2,1,1.0,1982190134,Valeriy Vyatkin,0,0.35931953284580015,-0.5674908185703834
+2557741486,Ontology Driven Approach to Generate Distributed Automation Control From Substation Automation Design,2017,38,12,3,1.0,2806938993,Chen Wei Yang,0,1.3308901499770576,0.19988996829285605
+2542931345,IEC 61499 based model-driven process control engineering,2014,22,4,2,1.0,1971992088,Cheng Pang,0,0.2127842454120504,0.5621805404030374
+2506977154,Toward Self-Manageable and Adaptive Industrial Cyber-Physical Systems With Knowledge-Driven Autonomic Service Management,2017,27,27,4,0.669477,2113266580,Wenbin Dai,0,-0.0291855379334779,0.0585196112869768
+2553551602,Towards formal verification of smart grid distributed intelligence FREEDM case,2015,34,7,3,1.0,2345308157,Sandeep Patil,0,-0.0291855379334779,0.0585196112869768
+2570051677,Enabling plug-and-play software components in industrial cyber-physical systems by adopting service-oriented architecture paradigm,2016,20,8,3,0.913043,2113266580,Wenbin Dai,0,-0.0291855379334779,0.0585196112869768
+2554211417,Context modeling with situation rules for industrial maintenance,2016,24,5,2,1.0,2222867201,Pekka Aarnio,0,-0.0291855379334779,0.0585196112869768
+2594597501,20th IEEE International Conference on Emerging Technologies &amp; Factory Automation - ETFA 2015 Luxembourg Sep 8-11 2015,2015,0,0,2,0.0,177911711,Paul G. Flikkema,0,-0.0291855379334779,0.0585196112869768
+2615877574,Response to â€œComments on Bridging Service-Oriented Architecture and IEC 61499 for Flexibility and Interoperabilityâ€,2017,16,1,1,1.0,1982190134,Valeriy Vyatkin,0,-0.0291855379334779,0.0585196112869768
+2774257632,Software-defined automation and control a preliminary study,2017,22,0,7,1.0,1971992088,Cheng Pang,0,-0.0291855379334779,0.0585196112869768
+2742352071,On development of execution model for model transforming distributed substation automation control with ontology,2017,19,0,2,1.0,2806938993,Chen Wei Yang,0,-0.0291855379334779,0.0585196112869768
+2773395002,Estimation measurement and improvement of distributed automation applications performance,2017,15,0,2,0.0,2740168090,Eero VÃ¤Ã¤nÃ¤nen,0,-0.1834685621221324,0.409461532483066
+2810181023,Refactoring of IEC 61499 function block application â€” A case study,2018,26,3,1,1.0,1982190134,Valeriy Vyatkin,0,0.16507363120930635,-0.2696288139740148
+2782833472,Testing automation systems by means of model checking,2017,17,2,2,1.0,2032560705,Igor Buzhinsky,0,0.41043092228557876,0.5345275273429294
+2898808237,On Achieving Reliable Communication in IEC 61499,2018,14,1,2,0.916667,2097743778,Udayanto Dwi Atmojo,0,-0.0291855379334779,0.0585196112869768
+2898817091,PROSA/G An architecture for agent-based manufacturing execution,2018,8,0,5,0.0,2640555100,Dennis Jarvis,0,-0.0291855379334779,0.0585196112869768
+2930288321,A Survey of Static Formal Methods for Building Dependable Industrial Automation Systems,2019,109,1,3,0.5,2179208499,Roopak Sinha,0,-0.36418531133695486,0.0625498675109127
+2907873174,A Case Study on Knowledge Driven Code Generation for Software-Defined Industrial Cyber-Physical Systems,2018,0,0,5,0.0,2907716776,Yingxin Chen,0,-0.0291855379334779,0.0585196112869768
+2893088271,Active Learning of Formal Plant Models For Cyber-Physical Systems,2018,7,0,6,0.0,2783106761,Polina Ovsiannikova,0,-0.43257569482157576,0.017179521707719553
+2956077406,A Service-Oriented Programming Approach for Dynamic Distributed Manufacturing Systems,2020,18,1,4,0.916667,2097743778,Udayanto Dwi Atmojo,0,-0.0291855379334779,0.0585196112869768
+2964513055,On Portability of IEC 61499 Compliant Structures and Systems,2019,8,1,3,0.0,2810079144,Alexander Hopsu,0,-0.0291855379334779,0.0585196112869768
+2979518786,On Developing a Collaborative and Interoperable Mobile Production Platform for an Agile Factory A Case Study,2019,0,1,3,0.916667,2097743778,Udayanto Dwi Atmojo,0,0.0534980472725182,0.6444428004817006
+2980099626,Distributed control design of medical devices using plug-and-play IEC 61499 Function Blocks,2012,8,3,2,1.0,437508761,Majid Sorouri,0,0.35931953284580015,-0.5674908185703834
+2980948394,Towards formal ASM semantics of timed control systems for industrial CPS,2019,16,0,4,1.0,2593618315,Dmitrii Drozdov,0,-0.0291855379334779,0.0585196112869768
+2980973227,Design to automation continuum for industrial processes ISO 15926 â€“ IEC 61131 versus an industrial case,2019,5,0,1,1.0,1982190134,Valeriy Vyatkin,0,-0.0291855379334779,0.0585196112869768
+2981133994,Service-based Architecture with Product-centric Control in a Production Island-based Agile Factory,2019,0,2,4,0.916667,2097743778,Udayanto Dwi Atmojo,0,0.0534980472725182,0.6444428004817006
+3003228076,Towards an OPC UA Compliant Programming Approach with Formal Model of Computation for Dynamic Reconfigurable Automation Systems,2019,23,0,2,0.916667,2097743778,Udayanto Dwi Atmojo,0,-0.0291855379334779,0.0585196112869768
+3003486284,Towards automatic state machine reconstruction from legacy PLC using data collection,2019,22,0,4,1.0,1513334614,Daniil Chivilikhin,0,-0.0291855379334779,0.0585196112869768
+2592125797,Formal Modelling of Distributed Automation CPS with CP-Agnostic Software,2016,27,5,4,1.0,2593618315,Dmitrii Drozdov,0,-0.0291855379334779,0.0585196112869768
+2742155817,Auto-Generation of Distributed Automation Software Based on Formal Product Line Specification,2017,3,1,3,1.0,1991471288,Victor Dubinin,0,0.7754405254814649,1.1215022937903842
+2788763050,Automatic assembly planning based on digital product descriptions,2018,63,14,4,1.0,2078259698,Seppo Sierla,0,-0.0291855379334779,0.0585196112869768
+2794317971,Intelligent product and mechatronic software components enabling mass customisation in advanced production systems,2018,27,1,2,0.0,2805343576,Majid Sorouri,0,-0.0291855379334779,0.0585196112869768

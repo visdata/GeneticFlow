@@ -1,0 +1,83 @@
+54762625,Multi-run security,2011,48,6,2,0.666667,2074210144,Arnar Birgisson,0,0.0040557659796233,0.2757546058061082
+89229122,07091 Executive Summary - Mobility Ubiquity and Security,2007,0,0,1,1.0,313407794,Andrei Sabelfeld,0,0.0040557659796233,0.2757546058061082
+131515753,Boosting the Permissiveness of Dynamic Information-Flow Tracking by Testing,2012,35,23,3,0.666667,2074210144,Arnar Birgisson,0,-0.21232684412981803,0.07673375864624046
+50887981,Static Confidentiality Enforcement for Distributed Programs,2002,50,71,1,1.0,313407794,Andrei Sabelfeld,0,0.08570436001289727,0.05630671955871652
+254902136,A Perspective on Information-Flow Control,2011,104,11,2,1.0,2232924082,Daniel Hedin,0,-0.18633830614624092,0.7272516944665944
+1473921560,May I - Content Security Policy Endorsement for Browser Extensions,2015,18,9,3,0.714286,2089021497,Daniel Hausknecht,0,0.0040557659796233,0.2757546058061082
+1523697553,Value-Sensitive Hybrid Information Flow Control for a JavaScript-Like Language,2015,48,26,3,0.831354,2232924082,Daniel Hedin,0,-0.7714306389618782,0.6693361904370597
+1570076947,Secure Implementation of Cryptographic Protocols A Case Study of Mutual Distrust,2005,40,15,1,1.0,313407794,Andrei Sabelfeld,0,-1.2566185214251906,-0.8054855969292313
+1534212008,Enforcing robust declassification and qualified robustness,2006,50,85,2,0.0,2141746463,Andrew C. Myers,0,-0.4222010161064445,0.3343917467498294
+1507432800,InnerCircle A parallelizable decentralized privacy-preserving location proximity protocol,2015,31,23,3,0.882353,1964022803,Per A. Hallgren,0,0.328758696579881,-0.060389230838287955
+1538380139,Securing Communication in a Concurrent Language,2002,45,22,1,1.0,313407794,Andrei Sabelfeld,0,0.08570436001289727,0.05630671955871652
+1520224699,Dimensions of declassification in theory and practice,2007,0,0,1,1.0,313407794,Andrei Sabelfeld,0,-0.32566897935537625,0.094221582531971
+1427299665,Final Report on Seminar 03411 Language-Based Security,2003,0,0,1,1.0,313407794,Andrei Sabelfeld,0,-0.5123117410651405,0.8492485737004367
+1575240340,Understanding and Enforcing Opacity,2015,59,7,2,1.0,2230123778,Daniel Schoepe,0,-0.5592508548089913,0.7677964786107239
+1557847811,Tracking information flow in dynamic tree structures,2009,36,59,2,0.869565,2142518529,Alejandro Russo,0,-0.11124040362566429,0.44101072305392736
+1567047286,Implicit flows in malicious and nonmalicious code,2010,0,8,2,0.837838,2142518529,Alejandro Russo,0,0.0040557659796233,0.2757546058061082
+1835937145,Decentralized delimited release,2011,49,5,3,0.666667,96297018,Jonas Magazinius,0,-0.4728762170613804,0.28136011167791025
+1603844035,Bridging language-based and process calculi security,2005,37,31,3,0.0,344358645,Riccardo Focardi,0,-1.5187958608502734,2.215218336797454
+1957951093,Enforcing robust declassification,2004,53,95,2,0.0,2141746463,Andrew C. Myers,0,-0.44930476329281066,0.34173050254915727
+1940493318,Security of multithreaded programs by compilation,2007,28,26,4,0.285058,1964507066,Gilles Barthe,0,-0.3417024563190706,0.6181763622261278
+1819958245,A Model for Delimited Information Release,2004,55,167,1,1.0,313407794,Andrei Sabelfeld,0,-0.6181185793124427,0.2628430939249927
+1699577049,Declassification Dimensions and principles,2009,73,171,1,1.0,313407794,Andrei Sabelfeld,0,-0.4137305119419203,0.37732104685720746
+1616718256,Cryptographically-Masked flows,2006,30,28,3,1.0,2017925049,Aslan Askarov,0,-0.04599731225098645,-1.7856639009995128
+1725973462,From dynamic to static and back riding the roller coaster of information-flow control research,2009,26,100,1,1.0,313407794,Andrei Sabelfeld,0,-0.21232684412981803,0.07673375864624046
+1976327390,Polyglots crossing origins by crossing formats,2013,7,8,3,0.714286,96297018,Jonas Magazinius,0,1.2432606782123226,0.1700634394574181
+2005421574,SeLINQ tracking information across application-database boundaries,2014,42,22,3,1.0,2230123778,Daniel Schoepe,0,0.0040557659796233,0.2757546058061082
+2015461635,GlassTube a lightweight approach to web application integrity,2013,23,6,3,0.807692,1964022803,Per A. Hallgren,0,-0.14442289405438977,0.42938161443434525
+2010252434,Cryptographically-masked flows,2008,39,19,3,1.0,2017925049,Aslan Askarov,0,-0.04599731225098645,-1.7856639009995128
+2019673585,Catch me if you can permissive yet secure error handling,2009,27,11,2,0.875,2017925049,Aslan Askarov,0,0.0040557659796233,0.2757546058061082
+2016604944,A lattice-based approach to mashup security,2010,29,58,3,0.6,96297018,Jonas Magazinius,0,-0.47809594984112724,0.32566365993706753
+2071700915,Securing Interactive Programs,2012,31,25,3,1.0,124150599,Willard Rafnsson,0,-0.6873962320963541,0.618699852122922
+2072885133,Security of multithreaded programs by compilation,2010,45,19,4,0.285058,1964507066,Gilles Barthe,0,-0.368506511550945,0.5664723230092135
+2089884450,Password Meters and Generators on the Web From Large-Scale Empirical Study to Getting It Right,2015,33,9,4,0.89685,2038516990,Steven Van Acker,0,-2.30145558031474,-1.6069661581111137
+2095797338,Capabilities for information flow,2011,35,17,3,0.666667,2074210144,Arnar Birgisson,0,0.0040557659796233,0.2757546058061082
+2132699727,Unifying facets of information integrity,2010,51,29,3,0.666667,2074210144,Arnar Birgisson,0,-0.16176187126455818,0.6190605892514569
+2106226772,Localized delimited release combining the what and where dimensions of information release,2007,24,44,2,1.0,2017925049,Aslan Askarov,0,-0.44825520032619515,0.5287982082228372
+2142069143,On-the-fly inlining of dynamic security monitors,2012,39,27,3,0.714286,96297018,Jonas Magazinius,0,-0.5157233375589747,0.5534032890838976
+2106951343,Computer Security - ESORICS 2006 11th European Symposium on Research in Computer Security Hamburg Germany September 18-20 2006 proceedings,2006,0,0,1,1.0,313407794,Andrei Sabelfeld,0,0.15948917001631288,0.12434548983461231
+2116236474,Dimensions and principles of declassification,2005,62,230,1,1.0,313407794,Andrei Sabelfeld,0,-0.6085316679297511,0.7250196799308769
+2122049982,Language-based information-flow security,2003,143,1517,1,1.0,313407794,Andrei Sabelfeld,0,-0.08184646585703217,2.0603516385840046
+2136887296,Secure Multi-execution Fine-Grained Declassification-Aware and Transparent,2013,35,32,2,1.0,124150599,Willard Rafnsson,0,0.4170699335519451,-0.46452192107868817
+2128282420,Securing Timeout Instructions in Web Applications,2009,44,40,2,0.869565,2142518529,Alejandro Russo,0,0.04453339224852574,-0.5332980612984749
+2162755110,Tight Enforcement of Information-Release Policies for Dynamic Languages,2009,37,118,2,0.875,2017925049,Aslan Askarov,0,-0.6861111618668414,0.7635649743935268
+2154385894,Security-typed languages for implementation of cryptographic protocols a case study,2005,45,51,2,0.933333,2017925049,Aslan Askarov,0,-1.232909293298363,0.025950613099933517
+2145846275,Termination-Insensitive Noninterference Leaks More Than Just a Bit,2008,18,145,3,1.0,2017925049,Aslan Askarov,0,1.2881181962509536,0.1729449775749723
+2167004108,Limiting information leakage in event-based communication,2011,45,18,2,1.0,124150599,Willard Rafnsson,0,-0.267518110367988,0.07094999264483727
+2165078378,Gradual Release Unifying Declassification Encryption and Key Release Policies,2007,36,121,2,1.0,2017925049,Aslan Askarov,0,-0.15750035070488505,0.09920333975730432
+2218405197,Secure multi-execution Fine-grained declassification-aware and transparent,2016,48,10,2,0.833333,124150599,Willard Rafnsson,0,0.4170699335519451,-0.46452192107868817
+2292913895,A Lightweight Approach to Web Application Integrity,2013,27,1,1,1.0,313407794,Andrei Sabelfeld,0,-0.09602735134178905,0.6849619620451437
+2288693508,Computer Security ESORICS 2006 11th European Symposium on Research in Computer Security Hamburg Germany September 18-20 2006 Proceedings (Lecture Notes in Computer Science),2006,0,2,1,1.0,313407794,Andrei Sabelfeld,0,0.0040557659796233,0.2757546058061082
+2293688329,Implicit flows in malicious and nonmalicious code,2009,23,6,2,0.869565,2142518529,Alejandro Russo,0,0.40734923178195404,0.9573089383487321
+2296102517,Web Application Security Using JSFlow,2015,19,1,2,0.831354,2232924082,Daniel Hedin,0,-0.24263774287769158,0.48314717038057303
+2296887322,JSLINQ Building Secure Applications across Tiers,2016,30,6,4,1.0,2777498946,Musard Balliu,0,-0.41340344180495703,0.3273471503194857
+2369180265,Progress-Sensitive Security for SPARK,2016,43,4,3,0.833333,124150599,Willard Rafnsson,0,0.4389327135506293,-0.08457676147274988
+2404759360,Data Exfiltration in the Face of CSP,2016,24,5,3,0.89685,2038516990,Steven Van Acker,0,-0.11789865406400801,0.4103502383308374
+2497632684,Computer Security â€“ ESORICS 2006,2006,0,118,1,1.0,313407794,Andrei Sabelfeld,0,0.0040557659796233,0.2757546058061082
+2576637078,Location-enhanced Authentication using the IoT,2016,0,2,2,0.0,255162683,Georgios Portokalidis,0,-0.24856061472426882,0.3764821174644497
+2576738819,MaxPace Speed-constrained location queries,2016,25,6,3,0.882353,1964022803,Per A. Hallgren,0,0.015245780877612549,0.7423220265691124
+2518790240,Letâ€™s Face It Faceted Values for Taint Tracking,2016,38,5,2,0.0,233250515,Frank Piessens,0,-1.3510763801104504,1.4203641290027917
+2547378457,Secure composition policies,2011,10,0,2,0.0,233250515,Frank Piessens,0,-0.3383784544281044,0.15268826611744696
+2560537876,Location-enhanced authentication using the IoT because you cannot be in two places at once,2016,51,6,4,0.0,2562491293,Ioannis Agadakos,0,0.025647348258403053,0.7159377008260894
+2609732470,Privacy-Preserving Location-Proximity for Mobile Apps,2017,33,1,4,0.0,2592385049,Simonas Stirbys,0,0.03414406787360945,0.2818663120264617
+2602351626,Discovering Browser Extensions via Web Accessible Resources,2017,19,18,3,0.666667,2104802408,Alexander SjÃ¶sten,0,1.7029826062605458,-0.2600589908962866
+2619020149,Measuring login webpage security,2017,25,11,3,0.782469,2038516990,Steven Van Acker,0,0.7116603115983808,-0.19883932371246033
+2745053513,We Are Family Relating Information-Flow Trackers,2017,53,6,3,1.0,2777498946,Musard Balliu,0,-0.7714306389618782,0.6693361904370597
+2748071398,PrivatePool Privacy-Preserving Ridesharing,2017,42,17,3,0.741935,1964022803,Per A. Hallgren,0,0.6509107209415077,1.9497044171578324
+2889851986,If This Then What Controlling Flows in IoT Apps,2018,30,13,3,0.428571,2889611362,Iulia Bastys,0,0.1044632965357075,0.8525397565689404
+2898615421,Session details Session 7B Formal Methods and Language Security,2018,0,0,1,1.0,313407794,Andrei Sabelfeld,0,0.0040557659796233,0.2757546058061082
+2898785612,Tracking Information Flow via Delayed Output Addressing Privacy in IoT and Emailing Apps,2018,28,1,2,0.0,233250515,Frank Piessens,0,0.0033943182524452387,0.4117105583303114
+2916845509,Proceedings of FCS05 Workshop on Foundations of Computer Security,2005,0,0,1,1.0,313407794,Andrei Sabelfeld,0,0.0040557659796233,0.2757546058061082
+2903080305,Raising the Bar Evaluating Origin-wide Security Manifests,2018,6,0,3,0.719698,2038516990,Steven Van Acker,0,0.992418586093944,-0.21413502343540017
+2913792433,Proceedings of the 11th European conference on Research in Computer Security,2006,0,0,1,1.0,313407794,Andrei Sabelfeld,0,0.0040557659796233,0.2757546058061082
+2900755760,Security-typed languages for implementation of cryptographic protocols A case study,2005,0,1,2,0.933333,2017925049,Aslan Askarov,0,-0.48264738399729723,0.4094776339016838
+2958462899,Tracking Information Flow via Delayed Output,2018,0,1,2,0.0,233250515,Frank Piessens,0,0.0033943182524452387,0.4117105583303114
+2956991859,Tracking Information Flow via Delayed Output Addressing Privacy in IoT and Emailing Apps,2018,0,0,2,0.0,233250515,Frank Piessens,0,0.0033943182524452387,0.4117105583303114
+2954688697,An Empirical Study of Information Flows in Real-World JavaScript,2019,45,0,5,0.0,2482633074,Cristian Alexandru Staicu,0,-0.3383784544281044,0.15268826611744696
+2944306435,Latex Gloves Protecting Browser Extensions from Probing and Revelation Attacks,2019,0,5,4,0.666667,2104802408,Alexander SjÃ¶sten,0,0.6927703888775767,0.13045628669016524
+2947827155,On the Road with Third-party Apps Security Analysis of an In-vehicle App Platform,2019,0,0,3,0.0,2891950570,Benjamin Eriksson,0,0.05433066368872575,0.015064595369856807
+2987470874,An Empirical Study of Information Flows in Real-World JavaScript,2019,45,0,5,0.0,2482633074,Cristian Alexandru Staicu,0,-0.3383784544281044,0.15268826611744696
+2984809900,03411 Final Report -- Language Based Security,2005,0,0,4,0.0,2123599481,Anindya Banerjee,0,-0.8167396210249015,0.9891933224411966
+2966263567,TOPPool Time-aware Optimized Privacy-Preserving Ridesharing,2019,40,0,5,0.0,2133273737,Elena Pagnin,0,0.03414406787360945,0.2818663120264617
+2971879009,Securing IoT Apps,2019,5,1,3,0.713128,2777498946,Musard Balliu,0,0.1822731046919942,0.706777145399998
+3018008545,Where are you Bob Privacy-Preserving Proximity Testing with a Napping Party,2020,0,0,3,0.0,3019957955,Ivan Oleinikov,0,-0.09775272805372894,0.10623643472072075

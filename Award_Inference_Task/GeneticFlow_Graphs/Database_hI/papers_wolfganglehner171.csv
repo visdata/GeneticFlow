@@ -1,0 +1,237 @@
+68882065,A Query a Minute Evaluating Performance Isolation in Cloud Databases,2014,14,4,4,1.0,2145462844,Tim Kiefer,0,-0.0041099411153885,0.0447066884760059
+155340958,Extending data warehouses by semiconsistent views,2002,0,5,2,0.8,2158877702,Lutz Schlesinger,0,0.11627582886789564,0.3621724021946999
+174523737,GignoMDA - modellgetriebene Entwicklung von Datenbankanwendungen,2005,0,0,2,1.0,170876137,Sebastian Richly,0,-0.0041099411153885,0.0447066884760059
+177651987,Publish/Subscribe-Mechanismen in Data-Warehouse-Systemen,2001,0,0,1,1.0,2119605707,Wolfgang Lehner,0,0.11627582886789564,0.3621724021946999
+59576742,Transactional Data Management Services for the Cloud,2013,36,2,1,1.0,2119605707,Wolfgang Lehner,0,0.810142287460252,0.8853631032463182
+178980121,An Advanced Transaction Model for Recovery Processing of Integration Processes,2008,23,5,3,1.0,2162100490,Matthias BÃ¶hm,0,1.652620022316324,1.5759457578883334
+27598045,Nutzung von Datenbankdiensten in Data-Warehouse-Anwendungen (Connecting Data Warehouse Applications with Database Services),2003,0,0,2,0.615385,1955147140,Wolfgang HÃ¼mmer,0,-0.013352066039087923,0.3076661279911081
+62013241,Hybrid data-flow graphs for procedural domain-specific query languages,2011,0,5,4,0.8,313079300,Bernhard Jaecksch,0,0.6212217932370032,0.19708295727109423
+146922646,Maintenance of Automatic Summary Tables,2000,0,11,1,1.0,2119605707,Wolfgang Lehner,0,-0.0041099411153885,0.0447066884760059
+181629860,Source-aware join strategies of sensor data streams,2005,10,8,3,1.0,2305052506,Sven Schmidt,0,-0.42845202490949574,0.1450203979855267
+164647057,Context-aware parameter estimation for forecast models in the energy domain,2011,21,18,4,0.428571,1927273967,Lars Dannecker,0,-0.0041099411153885,0.0447066884760059
+46757213,PROCESS-BASED DATA STREAMING IN SERVICE-ORIENTED ENVIRONMENTS - Application and Technique,2010,0,1,3,1.0,2081548352,Steffen Preissler,0,-0.0041099411153885,0.0447066884760059
+200374796,Flexs â€“ A Logical Model for Physical Data Layout,2015,32,4,2,0.888656,1977629762,Hannes Voigt,0,-0.7302194873346647,0.6864536984025941
+66251570,Data Mining und Data Warehousing,2004,0,0,2,0.0,2147343253,Daniel A. Keim,0,0.11627582886789564,0.3621724021946999
+49625090,Quality of Service-Driven Stream Mining,2007,16,3,2,0.0,694770543,Marcel Karnstedt,0,-0.42845202490949574,0.1450203979855267
+100803045,Der GI-Arbeitskreis Multidimensionale Datenbanken stellt sich vor,1997,0,0,2,0.0,2291928790,Peter Baumann,0,-0.0041099411153885,0.0447066884760059
+15294131,MulTe A Multi-Tenancy Database Benchmark Framework,2012,8,6,3,1.0,2145462844,Tim Kiefer,0,0.5325669973310596,0.09709227568458595
+135195598,Optimizing multiple top-K queries over joins,2005,12,7,2,0.882353,2153455357,Dirk Habich,0,0.5612927937966212,0.10301443937626598
+151996191,XML Stream Processing Quality,2003,17,1,3,1.0,2305052506,Sven Schmidt,0,2.5396606457707946,-0.9340804770101916
+50815538,Flexible Relational Data Model â€“ A Common Ground for Schema-Flexible Database Systems,2014,30,3,2,1.0,1977629762,Hannes Voigt,0,1.692259712716935,0.1885314527154932
+169702471,GignoMDA - Generation of Complex Database Applications,2006,2,2,3,1.0,170876137,Sebastian Richly,0,1.3127637616035577,0.14202006220006624
+153182319,Linked Bernoulli Synopses Sampling along Foreign Keys,2008,9,15,3,1.0,344318172,Rainer Gemulla,0,0.6082355720152971,0.10941075122430001
+823214199,Managed Query Processing within the SAP HANA Database Platform,2015,11,1,4,0.0,2916323093,Norman May,0,0.45065269763814003,0.08021557383901698
+408812668,â€˜Data Warehouseâ€™ und â€˜Online Analytical Processingâ€™,1999,0,0,1,1.0,2119605707,Wolfgang Lehner,0,-0.16328011374660287,0.9890247327765609
+948698918,Transparent Forecasting Strategies in Database Management Systems,2013,77,0,2,0.9,2128345872,Ulrike Fischer,0,1.3434819963832587,0.6430880726340882
+371289629,Merging OLTP and OLAP - Back to the Future - (Panel),2009,0,0,1,1.0,2119605707,Wolfgang Lehner,0,0.7721308498568376,1.6215012352306841
+1487902141,COMBI-operator - database support for data mining applications,2003,29,19,2,0.0,293376274,Alexander Hinneburg,0,0.7828390373561078,0.5393999390286458
+1488148696,Modeling of Census Data in a Multidimensional Environment,1998,2,8,2,1.0,2020337423,Holger GÃ¼nzel,0,1.1029444098423251,0.1065359453579943
+1488816966,Towards a web-scale data management ecosystem demonstrated by SAP HANA,2015,15,7,5,0.554878,2297792247,Franz Faerber,0,0.13528404959406057,0.1944216679877592
+1533367756,Hierarchical group-based sampling,2005,9,2,3,1.0,344318172,Rainer Gemulla,0,-0.0663279193942263,-0.34328649590777255
+1525029983,SCINTRA A Model for Quantifying Inconsistencies in Grid-Organized Sensor Database Systems,2003,10,3,2,0.857143,2158877702,Lutz Schlesinger,0,0.11627582886789564,0.3621724021946999
+1570736633,Query Processing in Data Warehouses,2009,0,3,1,1.0,2119605707,Wolfgang Lehner,0,0.7215975991611812,0.3052417628859806
+1525999511,Robust real-time query processing with QStream,2005,5,19,4,1.0,2305052506,Sven Schmidt,0,-0.42845202490949574,0.1450203979855267
+1571280011,Query processing on low-energy many-core processors,2015,11,6,4,1.0,2227418731,Annett UngethÃ¼m,0,-0.0041099411153885,0.0447066884760059
+1491668897,Enjoy FRDM - play with a schema-flexible RDBMS,2015,0,0,3,0.888656,1977629762,Hannes Voigt,0,1.6366982355438207,0.2591994692661874
+1517988726,Arbeitskreis &quot;Konzepte des Data Warehousing&quot;,2000,0,0,1,1.0,2119605707,Wolfgang Lehner,0,0.11627582886789564,0.3621724021946999
+1563777543,Message from the ICDE 2015 Program Committee and general chairs,2015,0,0,3,0.0,401236404,Guy M. Lohman,0,0.18601297105691045,-0.0008472885667257998
+1555513364,QStream deterministic querying of data streams,2004,5,20,3,1.0,2305052506,Sven Schmidt,0,-0.4184891394023071,-0.045627166372880605
+1502314197,An Alternative Relational OLAP Modeling Approach,2000,7,23,3,0.666667,2223588527,Andreas Bauer,0,1.9990605944932682,-0.22178753151956462
+1502767276,Quality Measures for ETL Processes,2014,26,13,3,0.818182,2096244447,Vasileios Theodorou,0,-0.0041099411153885,0.0447066884760059
+1087790031,SCIT A Schema Change Interpretation Tool for Dynamic-Schema Data Warehouses,2015,4,0,4,0.0,2399159299,Rihan Hai,0,0.5924658498857387,0.11167740478473413
+1565490865,06431 Working Group Report on Managing and Integrating Data in P2P Databases,2007,7,2,6,0.0,2081047619,Peter Boncz,0,0.18601297105691045,-0.0008472885667257998
+1495113092,Visual decision support for ensemble clustering,2010,11,4,3,1.0,2161466308,Martin Hahmann,0,-0.0041099411153885,0.0447066884760059
+1575577693,Evaluation of Load Scheduling Strategies for Real-Time Data Warehouse Environments,2009,15,11,2,1.0,2153406064,Maik Thiele,0,0.11627582886789564,0.3621724021946999
+1603838668,Management of multidimensional aggregates for efficient online analytical processing,1999,18,34,5,0.875,2241443902,J. Albrecht,0,0.946865086255937,0.2526596316005876
+1954187528,Normal forms for multidimensional databases,1998,15,122,1,1.0,2119605707,Wolfgang Lehner,0,0.3106673142621506,0.49174844174278487
+1604324642,Approximate query answering and result refinement on XML data,2010,16,0,4,0.0,2096146975,Katja Seidler,0,1.8746215374222586,-0.6538438551486798
+1595329567,Data Mining in a Multidimensional Environment,1999,17,7,3,1.0,2020337423,Holger GÃ¼nzel,0,-0.10161995269390145,0.4345101766434241
+1879144697,Real-time scheduling for data stream management systems,2005,11,37,4,1.0,2305052506,Sven Schmidt,0,-0.15876908443966078,-0.6135684665118507
+1891624114,Cost-Based Vectorization of Instance-Based Integration Processes,2009,31,2,3,1.0,2153455357,Dirk Habich,0,0.2946713761785912,0.4027268098681643
+1591045846,Set-Derivability of Multidimensional Aggregates,1999,14,10,3,0.875,2241443902,J. Albrecht,0,0.025916678364191266,0.295777708904631
+1827136351,Optimizing notifications of subscription-based forecast queries,2012,17,5,3,1.0,2128345872,Ulrike Fischer,0,-0.0041099411153885,0.0447066884760059
+1780820054,The planning OLAP model a multidimensional model with planning support,2011,14,3,2,0.8,313079300,Bernhard Jaecksch,0,-0.3632509700454942,1.1437180412081445
+1897896573,A sample advisor for approximate query processing,2010,14,1,2,1.0,2224468871,Philipp RÃ¶sch,0,0.20289584698833354,0.22598117959331412
+1731195270,Use and reuse of association rules in an OLAP environment,2000,0,3,3,1.0,2020337423,Holger GÃ¼nzel,0,-0.3632509700454942,1.1437180412081445
+1834239737,A Decathlon in Multidimensional Modeling Open Issues and Some Solutions,2002,35,17,2,0.666667,1955147140,Wolfgang HÃ¼mmer,0,-0.16259550983733898,0.5383910708422632
+1968032985,Derby/S a DBMS for sample-based query answering,2006,8,10,4,1.0,2473573238,Anja Klein,0,0.7215975991611812,0.3052417628859806
+1971568552,How to juggle columns an entropy-based approach for table compression,2010,16,18,4,0.8,2273987778,Marcus Paradies,0,1.3612264512684125,1.0327293533878563
+1969877208,SAP HANA database data management for modern business applications,2012,7,302,6,0.869565,2097227074,Franz FÃ¤rber,0,1.18964493208847,0.19270865878981402
+1979176980,SAP HANA the evolution from a modern main-memory data platform to an enterprise application platform,2013,7,24,4,1.0,2113738083,Vishal Sikka,0,0.023723341215175386,0.06201486123053886
+1972483207,The Cube-Query-Languages (CQL) for Multidimensional Statistical and Scientific Database Systems,1997,0,22,2,1.0,2223588527,Andreas Bauer,0,1.24846837522052,0.2488132637706557
+1972585091,Towards Integrated Data Analytics Time Series Forecasting in DBMS,2013,31,29,5,0.9,2128345872,Ulrike Fischer,0,0.18601297105691045,-0.0008472885667257998
+1979648088,A high-throughput in-memory index durable on flash-based SSD insights into the winning solution of the SIGMOD programming contest 2011,2012,9,4,4,1.0,1510799121,Thomas Kissinger,0,-0.331157261929354,-0.16512333473426355
+1970942435,ERIS live a NUMA-aware in-memory storage engine for tera-scale multiprocessor systems,2014,4,4,6,1.0,2145462844,Tim Kiefer,0,-0.0041099411153885,0.0447066884760059
+1985281270,A Redundancy-Based Optimization Approach for Aggregation in Multidimensional Scientific and Atatistical Databases,1997,6,4,1,1.0,2119605707,Wolfgang Lehner,0,-0.0041099411153885,0.0447066884760059
+1971327629,Listen to the customer model-driven database design,2010,10,0,4,1.0,1977629762,Hannes Voigt,0,2.2810413092209774,0.552723862494455
+2006662051,CROSS-DB a feature-extended multidimensional data model for statistical and scientific databases,1996,16,16,1,1.0,2119605707,Wolfgang Lehner,0,1.6165174040388788,0.40113279141607855
+1994626775,An application-specific instruction set for accelerating set-oriented database primitives,2014,31,12,6,1.0,2592866242,Oliver Arnold,0,-0.0041099411153885,0.0447066884760059
+2005113828,On the problem of generating common predecessors,2002,19,0,1,1.0,2119605707,Wolfgang Lehner,0,0.8366364298649215,0.31414214252122763
+1996511509,Integrated resource management for data stream systems,2005,10,17,3,1.0,2104029449,Henrike Berthold,0,-0.42845202490949574,0.1450203979855267
+1996870946,Exploiting self-monitoring sample views for cardinality estimation,2007,2,0,2,0.0,2148643341,Per Ake Larson,0,-0.06604670769446523,-0.16534604701978048
+2002132780,Dr Dean Jacobs,2013,0,0,2,0.0,2244150349,Alfons Kemper,0,-0.0041099411153885,0.0447066884760059
+2007589776,Forecasting the data cube A model configuration advisor for multi-dimensional data sets,2013,26,13,4,0.9,2128345872,Ulrike Fischer,0,-0.003358012821925449,0.4800955603125489
+1991941023,BUZZARD a NUMA-aware in-memory indexing system,2013,1,6,4,0.0,2692220902,Lukas M. Maas,0,-0.0041099411153885,0.0447066884760059
+1988408820,Demonstrating efficient query processing in heterogeneous environments,2014,7,6,5,1.0,307135438,Tomas Karnagel,0,1.895196177528836,0.5928190882089575
+1995709578,DrillBeyond processing multi-result open world SQL queries,2015,12,7,4,1.0,1278389564,Julian Eberius,0,1.0441768503630076,0.32838013901186297
+1993985630,Hybride Datenbankarchitekturen am Beispiel der neuen SAP In-Memory-Technologie,2010,20,3,5,0.742857,2097227074,Franz FÃ¤rber,0,-0.0041099411153885,0.0447066884760059
+2006250242,Efficiently synchronizing multidimensional schema data,2001,17,14,3,0.8,2158877702,Lutz Schlesinger,0,0.2828117884817202,0.6118703773925777
+2017256115,Contracting in the days of eBusiness,2002,8,6,2,0.666667,1955147140,Wolfgang HÃ¼mmer,0,-0.0041099411153885,0.0447066884760059
+2027856377,Heterogeneity-Aware Operator Placement in Column-Store DBMS,2014,11,7,4,1.0,307135438,Tomas Karnagel,0,0.3261121674630898,0.3494673909479393
+2017603462,Hierarchisches gruppenbasiertes Sampling,2005,22,0,3,1.0,344318172,Rainer Gemulla,0,-0.2554006006761083,0.005185177391162952
+2028125615,SMIX Live -- A Self-Managing Index Infrastructure for Dynamic Workloads,2012,11,1,3,1.0,1510799121,Thomas Kissinger,0,-0.0041099411153885,0.0447066884760059
+2026599121,Cost-based vectorization of instance-based integration processes,2011,43,7,3,0.724459,2153455357,Dirk Habich,0,0.2946713761785912,0.4027268098681643
+2025167226,F2DB The Flash-Forward Database System,2012,10,12,3,1.0,2128345872,Ulrike Fischer,0,0.0550486247495749,0.058968731507427964
+2032243580,On-demand re-optimization of integration flows,2014,38,5,2,0.628643,2153455357,Dirk Habich,0,0.11627582886789564,0.3621724021946999
+2032363382,Special section on large-scale analytics,2012,0,1,1,1.0,2119605707,Wolfgang Lehner,0,0.16961816653767703,0.31221718520020947
+2027210664,Modelling Large Scale OLAP Scenarios,1998,12,164,1,1.0,2119605707,Wolfgang Lehner,0,-0.3632509700454942,1.1437180412081445
+2023810566,GRAPHITE an extensible graph traversal framework for relational database management systems,2015,27,18,2,1.0,2273987778,Marcus Paradies,0,-0.0041099411153885,0.0447066884760059
+2016886335,OPENâ€”Enabling Non-expert Users to Extract Integrate and Analyze Open Data,2012,19,5,2,0.909091,1278389564,Julian Eberius,0,0.11949010170374787,0.8069871168668179
+2036461974,Sample synopses for approximate answering of group-by queries,2009,24,14,2,1.0,2224468871,Philipp RÃ¶sch,0,0.11627582886789564,0.3621724021946999
+2035168844,Top-k entity augmentation using consistent set covering,2015,16,15,4,1.0,1278389564,Julian Eberius,0,-0.3214509423652049,-1.3814134461088072
+2035180475,Special issue on best papers of VLDB 2011,2013,0,1,1,1.0,2119605707,Wolfgang Lehner,0,-0.04534890945238118,0.17026234857997405
+2033592300,A study of partitioning and parallel UDF execution with the SAP HANA database,2014,6,5,3,1.0,2111681576,Philipp GroÃŸe,0,0.910609532894625,0.1791768392813381
+2039001446,Quality of service and predictability in DBMS,2008,0,0,2,0.0,2172089212,Kai Uwe Sattler,0,0.12678932975719273,0.38332229252673927
+2053194799,Database as a service (DBaaS),2010,4,22,1,1.0,2119605707,Wolfgang Lehner,0,0.44654167817700013,-0.12847233973629602
+2042814934,pcApriori scalable apriori for multiprocessor systems,2013,27,4,4,1.0,2141285080,Benjamin Schlegel,0,-0.42845202490949574,0.1450203979855267
+2042886698,Partition-based workload scheduling in living data warehouse environments,2007,16,26,3,1.0,2153406064,Maik Thiele,0,-0.053173940710895935,0.3165075821928538
+2053455427,RSQL - a query language for dynamic data types,2014,26,8,4,1.0,2227998826,Tobias JÃ¤kel,0,0.2915055659944924,-0.03172675248838484
+2041247960,Indexing forecast models for matching and maintenance,2010,11,7,3,1.0,2128345872,Ulrike Fischer,0,0.03565810966282755,0.09825506972366725
+2043019372,Sample-based forecasting exploiting hierarchical time series,2012,22,5,3,1.0,2128345872,Ulrike Fischer,0,0.2018344789238379,0.41477895527679104
+2037726512,SLACID - sparse linear algebra in a column-oriented in-memory database system,2014,25,17,3,1.0,2224696304,David Kernert,0,0.411153170081807,-0.10767778508827308
+2036014133,A plan for OLAP,2010,3,14,2,0.8,313079300,Bernhard Jaecksch,0,-0.16328011374660287,0.9890247327765609
+2046845773,GignoMDA exploiting cross-layer optimization for complex database applications,2006,2,5,2,1.0,170876137,Sebastian Richly,0,2.548932353280599,0.8396595953959355
+2061024120,Cinderella â€” Adaptive online partitioning of irregularly structured data,2014,15,4,2,1.0,1977629762,Hannes Voigt,0,0.9607336488690934,0.08237841664529673
+2068071410,DrillBeyond enabling business analysts to explore the web of open data,2012,3,14,4,0.909091,1278389564,Julian Eberius,0,-0.0321125818543791,-0.19050080823844992
+2059603704,Partition-based workload scheduling in living data warehouse environments,2009,29,15,3,1.0,2153406064,Maik Thiele,0,-0.053173940710895935,0.3165075821928538
+2073703824,Cherry picking in database languages,2010,3,4,3,0.8,313079300,Bernhard Jaecksch,0,0.7666788418169981,0.17309804561732647
+2072170349,Echtzeit-Data-Warehouse-Systeme,2011,7,1,2,1.0,2153406064,Maik Thiele,0,0.11627582886789564,0.3621724021946999
+2067089961,Cache-Efficient Aggregation Hashing Is Sorting,2015,46,20,4,0.0,2141719354,Ingo MÃ¼ller,0,-0.0041099411153885,0.0447066884760059
+2072406625,Relaxation of subgraph queries delivering empty results,2015,25,6,4,0.666667,2000881793,Elena Vasilyeva,0,0.0908845357243609,0.31128747720343375
+2074192118,Query processing on prefix trees live,2013,6,3,4,1.0,1510799121,Thomas Kissinger,0,0.1065738443250854,0.3512731937517855
+2072570490,Query optimization by using derivability in a data warehouse environment,2000,30,12,3,0.875,2241443902,J. Albrecht,0,0.6246103990991809,0.38012103349146326
+2062651947,Die Datenbankforschungsgruppe der Technischen UniversitÃ¤t Dresden stellt sich vor,2012,0,0,1,1.0,2119605707,Wolfgang Lehner,0,-0.0041099411153885,0.0447066884760059
+2096461567,Memory-efficient frequent-itemset mining,2011,31,25,3,1.0,2141285080,Benjamin Schlegel,0,-0.19685964738756892,-0.12295391956764319
+2102394457,Materialized Views in the Presence of Reporting Functions,2006,14,1,2,0.882353,2153455357,Dirk Habich,0,0.8333200724050563,0.3603303579289877
+2102639991,Efficient transaction processing in SAP HANA database the end of a column store myth,2012,17,135,3,1.0,2113738083,Vishal Sikka,0,0.4675000667579157,0.46630502663784895
+2097053934,Database support for 3D-protein data set analysis,2003,12,5,2,0.0,293376274,Alexander Hinneburg,0,0.9330322840226788,0.523685113639047
+2084344697,Energy-Efficient Databases Using Sweet Spot Frequencies,2014,20,9,6,0.0,1992344374,Sebastian GÃ¶tz,0,-0.0041099411153885,0.0447066884760059
+2086181186,SAP HANA distributed in-memory database system Transaction session and metadata management,2013,8,38,9,0.0,2425517354,Juchang Lee,0,0.9158918768366868,0.39795445928120565
+2103513057,Shrinked Data Marts Enabled for Negative Caching,2006,16,0,2,1.0,2153406064,Maik Thiele,0,0.34139362204472884,0.8471838500223863
+2084695390,Adaptive Index Buffer,2012,14,2,3,1.0,1977629762,Hannes Voigt,0,0.3691263772702509,-0.2532085380687665
+2093807931,Model-based integration of past &amp; future in TimeTravel,2012,13,10,3,0.0,2019462106,Torben Bach Pedersen,0,-0.032292148025763405,-0.3840584536887202
+2085165557,Cardinality estimation in ETL processes,2009,18,3,3,1.0,2153406064,Maik Thiele,0,0.21844993463260445,-0.05633245665888767
+2098682208,Exploiting Graphic Card Processor Technology to Accelerate Data Mining Queries in SAP NetWeaver BIA,2008,9,7,4,0.0,935589875,Christoph Weyerhaeuser,0,-0.3632509700454942,1.1437180412081445
+2101748181,Designing Random Sample Synopses with Outliers,2008,22,7,3,1.0,2224468871,Philipp RÃ¶sch,0,-0.0041099411153885,0.0447066884760059
+2098921878,Modeling Large Time Series for Efficient Approximate Query Processing,2015,10,4,3,1.0,2776558098,Kasun S. Perera,0,-0.0078013387052356335,0.05900031875518197
+2104945737,Maintenance of cube automatic summary tables,2000,4,24,1,1.0,2119605707,Wolfgang Lehner,0,1.901466873024071,0.5622172946276698
+2083747955,Private Table Database Virtualization for DBaaS,2011,4,11,2,1.0,2145462844,Tim Kiefer,0,1.8685809852882662,0.428454197267783
+2120621050,Supporting the ETL-process by Web Service technologies,2005,33,12,3,0.857143,2158877702,Lutz Schlesinger,0,-1.2726738016857073,-0.790562303720242
+2126847178,DIPBench An independent benchmark for Data-Intensive Integration Processes,2008,19,6,3,1.0,2162100490,Matthias BÃ¶hm,0,-0.2182439014118575,0.3889188688646458
+2112100026,fAST refresh using mass query optimization,2001,13,44,1,1.0,2119605707,Wolfgang Lehner,0,1.3386868167616508,0.4601389904646512
+2106105896,Efficient exploitation of similar subexpressions for query processing,2007,16,79,4,0.0,2702077502,Jingren Zhou,0,0.0908845357243609,0.31128747720343375
+2138949292,Clustering Uncertain Data with Possible Worlds,2009,27,20,5,1.0,2158746453,Peter Benjamin Volk,0,1.414663547875317,0.12045139606050803
+2115618231,Resiliency-Aware Data Management,2011,26,1,1,1.0,2119605707,Wolfgang Lehner,0,0.18601297105691045,-0.0008472885667257998
+2115886503,A Framework for User-Centered Declarative ETL,2014,16,9,4,0.818182,2096244447,Vasileios Theodorou,0,-0.0041099411153885,0.0447066884760059
+2119050385,A dip in the reservoir maintaining sample synopses of evolving datasets,2006,26,39,2,1.0,344318172,Rainer Gemulla,0,0.615500811129321,0.22161174295928718
+2130737741,QDM A Generic QoS-Aware Data Model for Real-Time Data Stream Processing,2007,12,3,1,1.0,2119605707,Wolfgang Lehner,0,0.10932988090860662,0.05320175499436406
+2140010014,Processing reporting function views in a data warehouse environment,2002,17,6,1,1.0,2119605707,Wolfgang Lehner,0,0.10879377088628696,0.23491361982144976
+2107418220,Maintaining bounded-size sample synopses of evolving datasets,2008,42,31,2,1.0,344318172,Rainer Gemulla,0,0.6512595090610264,0.4114744623824175
+2143318441,Robust and distributed top-n frequent-pattern mining with SAP BW accelerator,2009,24,1,3,0.0,2109101317,Jan Schaffner,0,-0.561888276701669,0.012390448925721201
+2131195225,Optimistic Coarse-Grained Cache Semantics for Data Marts,2006,11,3,3,1.0,2153406064,Maik Thiele,0,-0.5483069401571369,0.6797983975064467
+2125525455,DIPBench Toolsuite A Framework for Benchmarking Integration Systems,2008,10,12,3,1.0,2162100490,Matthias BÃ¶hm,0,0.45133667177577097,0.09422289855118511
+2107760270,RiTE Providing On-Demand Data for Right-Time Data Warehousing,2008,12,60,3,0.0,2143601184,Christian Thomsen,0,0.1790152689345715,0.46797794744294485
+2122902664,On solving the view selection problem in distributed data warehouse architectures,2003,16,35,2,0.0,2974554760,A. Bauer,0,0.7934601525240176,0.386781749691825
+2134844212,SynopSys large graph analytics in the SAP HANA database through summarization,2013,15,12,4,1.0,2238560677,Michael Rudolf,0,0.022909346740291343,0.019400157726955636
+2183410113,Bringing Linear Algebra Objects to Life in a Column-Oriented In-Memory Database,2013,18,4,3,1.0,2224696304,David Kernert,0,0.7030760415694285,0.07371462361429029
+2171248253,Non-uniformity issues and workarounds in bounded-size sampling,2013,19,2,3,0.825175,344318172,Rainer Gemulla,0,0.9603015824900942,0.6086201788729984
+2150929954,Deferred maintenance of disk-based random samples,2006,13,11,2,1.0,344318172,Rainer Gemulla,0,1.5410028295198115,0.3194152938541825
+2148029573,Report on the second international workshop on energy data management (EnDM 2013),2013,0,1,2,0.0,2019462106,Torben Bach Pedersen,0,0.16961816653767703,0.31221718520020947
+2145063686,Representing Data Quality for Streaming and Static Data,2007,11,32,4,1.0,2473573238,Anja Klein,0,0.09637829404331646,0.010289165162924163
+2166409223,On-line analytical processing in distributed data warehouses,1998,12,28,2,0.857143,2241443902,J. Albrecht,0,-0.6862761416217383,1.5640679944869844
+2157316169,Poster session Constrained dynamic physical database design,2008,23,3,2,1.0,1977629762,Hannes Voigt,0,0.2574330518012884,0.20789716955769286
+2167401313,Building a real data warehouse for market research,1997,20,8,2,0.8,2241443902,J. Albrecht,0,0.6392656950569136,1.402752878213694
+2170942635,SMIX self-managing indexes for dynamic workloads,2013,21,8,3,1.0,1977629762,Hannes Voigt,0,-0.0041099411153885,0.0447066884760059
+2183126858,SAP HANA - From Relational OLAP Database to Big Data Infrastructure,2015,19,4,2,0.26083,2269635400,Norman May,0,0.22118463102318853,0.6282124820381055
+2155978299,Improving query response time in scientific databases using data aggregation -a case study,1996,7,36,1,1.0,2119605707,Wolfgang Lehner,0,0.7574944613555392,0.1300551303350755
+2147011911,Data mining with the SAP NetWeaver BI accelerator,2006,19,42,2,1.0,2491095390,Thomas Legler,0,-0.3911382427591302,0.5877267909908326
+2153160273,Cardinality estimation using sample views with quality assurance,2007,28,42,2,0.0,2148643341,Per Ake Larson,0,1.2787030360836775,0.3805392062188651
+2262876226,Towards scalable real-time analytics an architecture for scale-out of OLxP workloads,2015,28,23,10,0.0,2475896280,Anil Kumar Goel,0,1.1702042366888585,1.6043911166511566
+2273176571,Database Evolution for Software Product Lines,2015,0,3,7,1.0,2146865299,Kai Herrmann,0,1.9215270076069648,0.42832270835762704
+2275387429,Updating Database Schemas in a Zero-Downtime Environment,2013,20,10,2,0.0,2052224191,Stefan Baeuerle,0,2.6657344644299137,0.4102379383518871
+2293133468,From Static to Agile - Interactive Particle Physics Analysis in the SAP HANA DB,2015,13,1,5,1.0,2224696304,David Kernert,0,1.1608990634652039,0.19839137584065186
+2293692408,GraphVista Interactive Exploration Of Large Graphs,2015,12,2,3,1.0,2273987778,Marcus Paradies,0,-0.0041099411153885,0.0447066884760059
+2285121548,CoDEL â€“ A Relationally Complete Language for Database Evolution,2015,19,12,3,0.888656,1977629762,Hannes Voigt,0,1.535049782711245,0.22498389996406473
+2294845005,POIESIS a Tool for Quality-aware ETL Process Redesign,2015,6,5,4,1.0,2096244447,Vasileios Theodorou,0,-0.1690496582369905,0.1768932661420665
+2296262729,Resiliency-aware Data Compression for In-memory Database Systems,2015,0,0,4,0.0,2224653594,Till Kolditz,0,-0.15011767737301615,-0.30238157231008495
+2302378120,Quality measures for ETL processes from goals to implementation,2016,44,5,3,1.0,2096244447,Vasileios Theodorou,0,-0.0041099411153885,0.0447066884760059
+2406619052,Letter from the VLDB 2011 Research Track Co-Chair,2011,0,0,1,1.0,2119605707,Wolfgang Lehner,0,-0.25609130579317646,0.2785941556746898
+2395941436,Flexible Information Management Exploration and Analysis in SAP HANA,2012,0,9,3,0.0,408444031,Christof Bornhoevd,0,-0.11603864632198956,0.2875302358950325
+2404397702,Instant Recovery for Main-Memory Databases,2015,22,40,3,1.0,1510799121,Thomas Kissinger,0,0.8819964512398518,0.8953778822058752
+2407480582,QPPT Query Processing on Prefix Trees,2013,14,10,4,1.0,1510799121,Thomas Kissinger,0,0.20712174707329392,0.44346454548415387
+2404766161,Data-Warehousing 30 - Die Rolle von Data-Warehouse-Systemen auf Basis von In-Memory Technologie,2011,0,5,2,1.0,2153406064,Maik Thiele,0,0.11627582886789564,0.3621724021946999
+2396727930,The SAP HANA Database - An Architecture Overview,2012,16,187,3,0.869565,2097227074,Franz FÃ¤rber,0,0.2763187170864971,0.6283001022143557
+2405082956,Experimental Evaluation of NUMA Effects on Database Management Systems,2013,0,14,3,1.0,2145462844,Tim Kiefer,0,-0.0041099411153885,0.0447066884760059
+2399656549,The Graph Story of the SAP HANA Database,2013,0,45,4,1.0,2238560677,Michael Rudolf,0,0.2336457043044019,0.24256138413528106
+2402695788,Advanced Analytics with the SAP HANA Database,2013,14,4,2,1.0,2111681576,Philipp GroÃŸe,0,0.2336457043044019,0.24256138413528106
+2400105590,DrillBeyond open-world SQL queries using web tables,2013,0,0,4,1.0,1278389564,Julian Eberius,0,1.3485727100368257,0.8158603525206388
+2400287324,Next Generation Database Programming and Execution Environment,2011,13,2,7,0.724459,2153455357,Dirk Habich,0,2.8931897657713392,0.9934843332083895
+2397760010,Bridging Two Worlds with RICE Integrating R into the SAP In-Memory Computing Engine,2011,20,28,2,1.0,2111681576,Philipp GroÃŸe,0,-0.04198903959224945,-0.08844761526225908
+2395483414,Main-Memory Centric Data Management - Open Problems and Some Solutions,2013,0,0,1,1.0,2119605707,Wolfgang Lehner,0,0.18601297105691045,-0.0008472885667257998
+2403531218,ERIS A NUMA-Aware In-Memory Storage Engine for Analytical Workload,2014,16,28,6,1.0,1510799121,Thomas Kissinger,0,-0.0041099411153885,0.0447066884760059
+2406413350,GPU-Based Speculative Query Processing for Database Operations,2010,21,13,3,1.0,2158746453,Peter Benjamin Volk,0,1.1700984612958019,0.3019197831864647
+2433075850,InVerDa - co-existing schema versions made foolproof,2016,3,3,4,1.0,2146865299,Kai Herrmann,0,2.5766357946841265,0.09467655512673494
+2433709474,FPTree A Hybrid SCM-DRAM Persistent and Concurrent B-Tree for Storage Class Memory,2016,29,82,5,0.8,2224129781,Ismail Oukid,0,0.22265144013325971,0.7166735514369643
+2420293330,Topology-aware optimization of big sparse matrices and matrix multiplications on main-memory systems,2016,30,3,2,1.0,2224696304,David Kernert,0,-0.0041099411153885,0.0447066884760059
+2423252713,DebEAQ - debugging empty-answer queries on large data graphs,2016,11,4,4,0.666667,2000881793,Elena Vasilyeva,0,-0.0041099411153885,0.0447066884760059
+2537729926,BUILDING A REALDATAWAREHOUSE FOR MARKETRESEARCH,1997,9,0,1,1.0,2119605707,Wolfgang Lehner,0,0.6392656950569136,1.402752878213694
+2515302938,Logical Data Independence in the 21st Century - Co-Existing Schema Versions with InVerDa,2016,13,0,5,1.0,2146865299,Kai Herrmann,0,2.799243596971213,0.004792964234923693
+2509995196,ResilientStore A Heuristic-Based Data Format Selector for Intermediate Results,2016,18,5,6,1.0,2345927809,Rana Faisal Munir,0,0.3417837720284058,0.5524304151876521
+2573826490,Model-Driven Integration of Compression Algorithms in Column-Store Database Systems,2016,13,0,3,0.0,2296246104,Juliana Hildebrandt,0,-0.0041099411153885,0.0447066884760059
+2520738984,Efficient Approximate OLAP Querying Over Time Series,2016,13,3,3,1.0,2776558098,Kasun S. Perera,0,-0.12472653325109728,0.41318366941883056
+2566708607,A database accelerator for energy-efficient query processing and optimization,2016,17,3,15,1.0,2523002933,Sebastian Haas,0,0.8543533525566687,0.1872399041803649
+2559024803,HW/SW-database-codesign for compressed bitmap index processing,2016,17,3,7,1.0,2523002933,Sebastian Haas,0,0.7693584659593848,-0.7143490958005881
+2517775142,Towards a Role-Based Contextual Database,2016,18,5,4,1.0,2227998826,Tobias JÃ¤kel,0,0.7044410844870747,0.11848524942500478
+2507480341,Special Issue Modern Hardware,2016,0,1,2,0.0,2081047619,Peter Boncz,0,-0.0041099411153885,0.0447066884760059
+2508164470,Architecture of a Multi-domain Processing and Storage Engine,2016,0,2,4,1.0,2510904378,Johannes Luong,0,0.35878844522582526,-0.03610679205259052
+2593609080,ADAPTIVE RECOVERY FOR SCM-ENABLED DATABASES,2015,52,3,3,0.8,2224129781,Ismail Oukid,0,-0.46893397788284524,0.07728939382804885
+2622496272,Generating What-If Scenarios for Time Series Data,2017,22,5,3,0.0,2401991217,Lars Kegel,0,0.187795573089195,-0.31981062689680706
+2594510810,Overview on Hardware Optimizations for Database Engines,2017,7,2,7,1.0,2227418731,Annett UngethÃ¼m,0,-0.0041099411153885,0.0447066884760059
+2614073040,Data Structure Engineering For Byte-Addressable Non-Volatile Memory,2017,30,11,2,0.777778,2224129781,Ismail Oukid,0,-0.46893397788284524,0.07728939382804885
+2591728388,SAP HANA â€“ The Evolution of an In-Memory DBMS from Pure OLAP Processing Towards Mixed Workloads,2017,11,5,2,0.0,1525240370,Alexander BÃ¶hm,0,-0.08503353012226539,0.9092840540702817
+2729691534,Towards Efficient Multi-domain Data Processing,2016,7,0,4,1.0,2510904378,Johannes Luong,0,-0.1361351861039168,-0.2575732741028031
+2736168980,Real-Time Business Intelligence in the MIRABEL Smart Grid System,2012,20,6,4,1.0,2128345872,Ulrike Fischer,0,0.18601297105691045,-0.0008472885667257998
+2604606554,Adaptive work placement for query processing on heterogeneous computing resources,2017,27,14,3,1.0,307135438,Tomas Karnagel,0,-0.3632509700454942,1.1437180412081445
+2626248789,Asynchronous Graph Pattern Matching on Multiprocessor Systems,2017,23,1,5,0.0,2720468712,Alexander Krause,0,-0.0041099411153885,0.0447066884760059
+2622037077,An Analysis of the Feasibility of Graph Compression Techniques for Indexing Regular Path Queries,2017,21,1,4,0.0,2623859886,Frank Tetzel,0,1.146047087280555,-0.33326252516457555
+2593378927,InVerDa - The Liquid Database,2017,0,0,4,1.0,2146865299,Kai Herrmann,0,-0.0041099411153885,0.0447066884760059
+2612818011,Living in Parallel Realities Co-Existing Schema Versions with a Bidirectional Database Evolution Language,2017,17,15,5,1.0,2146865299,Kai Herrmann,0,2.950412409164703,-0.02105552776732735
+2752893093,The data center under your desk how disruptive is modern hardware for DB system design ,2017,2,4,1,1.0,2119605707,Wolfgang Lehner,0,0.18601297105691045,-0.0008472885667257998
+2765466016,The Dresden Database Systems Group,2017,24,0,1,1.0,2119605707,Wolfgang Lehner,0,-0.14779380182031718,0.12525778742702795
+2751351862,AL unified analytics in domain specific terms,2017,8,1,3,1.0,2510904378,Johannes Luong,0,1.0125361702864077,-0.5739479603328187
+2752054654,Frequent patterns in ETL workflows An empirical approach,2017,21,8,4,0.724138,2096244447,Vasileios Theodorou,0,0.2946713761785912,0.4027268098681643
+2747951580,Rethinking DRAM Caching for LSMs in an NVRAM Environment,2017,9,6,4,0.705882,2264580891,Lucas Lersch,0,-1.1729957971739373,1.6140392339061302
+2764968149,Robust Distributed Top-N Frequent Pattern Mining Using the SAP BW Accelerator,2009,0,2,2,1.0,2491095390,Thomas Legler,0,-0.0041099411153885,0.0447066884760059
+2752849758,Memory management techniques for large-scale persistent-main-memory systems,2017,26,21,4,0.777778,2224129781,Ismail Oukid,0,-0.0041099411153885,0.0447066884760059
+2802141543,Bericht zum Fachgruppentreffen 1/2 MÃ¤rz 2018,2018,0,0,2,0.0,1525240370,Alexander BÃ¶hm,0,-0.0041099411153885,0.0447066884760059
+2798667105,Adaptive Energy-Control for In-Memory Database Systems,2018,24,3,3,0.965132,1510799121,Thomas Kissinger,0,-0.13986826231036678,-0.3488155859930167
+2798795117,Energy-Utility Function-Based Resource Control for In-Memory Database Systems LIVE,2018,5,1,6,0.965132,1510799121,Thomas Kissinger,0,-0.13986826231036678,-0.3488155859930167
+2810674376,Hardware-Accelerated Memory Operations on Large-Scale NUMA Systems,2017,4,2,8,0.0,96541041,Markus Dreseler,0,-0.0041099411153885,0.0447066884760059
+2789578319,Diversity of Processing Units,2018,21,1,1,1.0,2119605707,Wolfgang Lehner,0,-0.0041099411153885,0.0447066884760059
+2807794151,Multi-schema-version data management data independence in the twenty-first century,2018,25,2,4,1.0,2146865299,Kai Herrmann,0,0.032623156469525696,0.0037443061359934264
+2886977040,Seamless Database Evolution for Cloud Applications,2018,0,0,6,0.0,2887364197,Aniket Mohapatra,0,1.9215270076069648,0.42832270835762704
+2888850136,OLTPshare the case for sharing in OLTP workloads,2018,20,1,5,0.0,2229508930,Robin Rehrmann,0,0.6969484748236763,1.3262299463716523
+2912758864,XQery - ein Ãœberblick,2004,0,0,1,1.0,2119605707,Wolfgang Lehner,0,-0.0041099411153885,0.0447066884760059
+2913747160,Session details Industrial session 1 data warehousing,2009,0,0,1,1.0,2119605707,Wolfgang Lehner,0,-0.5993377137633258,0.609632688551329
+2907089464,Big Data Competence Center ScaDS Dresden/Leipzig Overview and selected research activities,2019,70,25,9,0.0,2158742306,Erhard Rahm,0,0.05151924344242102,0.13213566875431937
+2918396790,Query Processing in Data Warehouses,2018,0,0,1,1.0,2119605707,Wolfgang Lehner,0,0.11627582886789564,0.3621724021946999
+2957217818,Efficient compute node-local replication mechanisms for NVRAM-centric data structures,2020,42,0,5,0.0,2807095785,Mikhail Zarubin,0,-0.46893397788284524,0.07728939382804885
+2999803266,Session details XML,2007,0,0,1,1.0,2119605707,Wolfgang Lehner,0,0.5418577112701125,-0.24831527852331414
+2974965281,Session details Research 1 Query Processing &amp; Optimization 1 -- sponsored by Tableau,2019,0,0,1,1.0,2119605707,Wolfgang Lehner,0,1.168069951135304,0.21675228881721104
+3013177400,Retro Relation Retrofitting For In-Database Machine Learning on Textual Data,2019,0,0,3,1.0,2321826316,Michael GÃ¼nther,0,1.2048572085478642,0.28963213062369203
+3013608101,Enabling low tail latency on multicore key-value stores,2020,0,1,4,0.705882,2264580891,Lucas Lersch,0,-0.0041099411153885,0.0447066884760059
+3013717674,Hardware-Oblivious SIMD Parallelism for In-Memory Column-Stores,2020,0,1,6,0.913043,2227418731,Annett UngethÃ¼m,0,-0.0041099411153885,0.0447066884760059
+3013995040,RetroLive Analysis of Relational Retrofitted Word Embeddings,2020,0,0,4,1.0,2321826316,Michael GÃ¼nther,0,-0.0041099411153885,0.0447066884760059
+3027960386,Machine Learning-based Cardinality Estimation in DBMS on Pre-Aggregated Data,2020,27,0,4,0.0,2742579797,Lucas Woltmann,0,-0.2554006006761083,0.005185177391162952
+3006887931,Enabling Real-Time Business Intelligence,2012,0,0,5,0.0,230320524,Laurynas Siksnys,0,-0.0041099411153885,0.0447066884760059
+2971889596,Automatically Configuring Parallelism for Hybrid Layouts,2019,16,0,6,1.0,2345927809,Rana Faisal Munir,0,-0.11092116994067723,0.47754269831708474

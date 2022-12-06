@@ -8,6 +8,7 @@ from sklearn.metrics import accuracy_score
 import pandas as pd
 import torch.nn.functional as F
 import sklearn.metrics as metrics
+# from Award_Inference_Experiment.Alternative_Method.GNN_Bibliographic_Networks.GNN_BiblioCouplingNetwork.models_backup import Model
 from models import Model
 from torch.utils.data import random_split
 from torch_geometric.data import DataLoader
@@ -29,7 +30,8 @@ from sklearn.metrics import (
 Name=[[] for i in range(1201)]
 
 parser = argparse.ArgumentParser()
-
+parser.add_argument('--pool_name', type=str, default='EdgePooling', help='pooling')
+parser.add_argument('--conv_name', type=str, default='ARMAConv', help='conv')
 parser.add_argument('--seed', type=int, default=777, help='random seed')
 parser.add_argument('--batch_size', type=int, default=200, help='batch size')
 parser.add_argument('--lr', type=float, default=0.001, help='learning rate')
@@ -44,7 +46,11 @@ parser.add_argument('--lamb', type=float, default=1.0, help='trade-off parameter
 parser.add_argument('--device', type=str, default='cuda:0', help='specify cuda devices')
 parser.add_argument('--epochs', type=int, default=50, help='maximum number of epochs')
 parser.add_argument('--patience', type=int, default=100, help='patience for early stopping')
-
+parser.add_argument('--ignore_edge', type=bool, default=False, help='whether ignore edge')
+parser.add_argument('--ignore_node_attr', type=bool, default=False, help='whether ignore node attribute')
+parser.add_argument('--average', type=bool, default=False)
+parser.add_argument('--num_layers', type=int, default=2)
+parser.add_argument('--round', type=int, default=3)
 args = parser.parse_args()
 torch.manual_seed(args.seed)
 if torch.cuda.is_available():
@@ -59,7 +65,7 @@ dataset = dataset.shuffle()
 dataset = dataset.shuffle()
 
 args.num_classes = 2
-
+round=args.round
 args.num_features = dataset.num_features
 
 print(args)
@@ -104,10 +110,10 @@ def train(training_set,validation_set):
             paper_count=Variable(torch.FloatTensor(paper_count)).to(args.device)
             data = data.to(args.device)
             
-            out = model(data,paper_count)
+            out = model(data,paper_count,None)
             # out = model(data)
             # out,loss_pool = model(data.x,data.edge_index,data.batch)
-            weights = np.array([1,2])
+            weights = np.array([1,1])
             weights = torch.FloatTensor(weights).to(args.device)
             loss = F.nll_loss(out, y, weight=weights)
             loss.backward()
@@ -157,7 +163,7 @@ def compute_test(loader,model,epoch):
 
         data = data.to(args.device)
         
-        out = model(data,paper_count)
+        out = model(data,paper_count,None)
         # out = model(data)
         # out,loss_pool = model(data.x,data.edge_index,data.batch)
 
@@ -204,7 +210,7 @@ if __name__ == '__main__':
     cos_ave = []
     ACC=[]
     # torch.backends.cudnn.enabled=False
-    for r in range(10):
+    for r in range(round):
         y_pred = []
         y_real = []
         y_proba_minority = []
@@ -288,6 +294,8 @@ if __name__ == '__main__':
             Stability.append(stability)
     Stability=np.array(Stability)
     print("Stability:",np.mean(Stability))
-    print_to_file("record.txt","10 cv Precision:%.3f Recall:%.3f F1_best:%.3f F1_best(std): %.3f ROC:%.3f ROC(std): %.3f PRC:%.3f ACC:%.3f for Class Fellow" % (np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC)))
+    params=f"--lr {args.lr} --nhid {args.nhid} --dropout_ratio {args.dropout_ratio} --num_layers {args.num_layers} "
+    params+=f"--average {args.average} " if args.average else ""
+    print_to_file("record.txt",params+f"{round} cv Precision:%.3f Recall:%.3f F1_best:%.3f F1_best(std): %.3f ROC:%.3f ROC(std): %.3f PRC:%.3f ACC:%.3f for Class Fellow" % (np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC)))
     
-    print("10 cv Precision, Recall, F1_best, ROC, PRC, ACC for Class:",np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.mean(ROC),np.mean(PRC),np.mean(ACC))
+    print(f"{round} cv Precision, Recall, F1_best, ROC, PRC, ACC for Class:",np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.mean(ROC),np.mean(PRC),np.mean(ACC))

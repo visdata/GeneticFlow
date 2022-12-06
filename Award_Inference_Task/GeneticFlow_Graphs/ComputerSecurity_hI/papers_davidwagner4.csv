@@ -1,0 +1,162 @@
+52191336,The Boomerang Attack,1999,16,368,1,1.0,2109123731,David Wagner,0,1.9655495154975091,-2.0303203076380094
+189766157,Analysis of the SSL 30 protocol,1996,5,358,2,0.0,605106185,Bruce Schneier,0,0.08846484685375602,-0.3911335510768472
+36948825,Bifocals Analyzing WebView Vulnerabilities in Android Applications,2013,20,51,2,1.0,2171525095,Erika Chin,0,-0.3383784544281044,0.15268826611744696
+125279808,Exploring the relationship betweenweb application development tools and security,2011,14,23,2,1.0,1968745652,Matthew Finifter,0,-1.8332675387245472,3.3403118823638027
+74184291,An evaluation of the Google Chrome extension security architecture,2012,18,62,3,1.0,1606335232,Nicholas Carlini,0,0.05379799172080846,2.6628363055682134
+160083575,Cryptanalysis of the cellular message encryption algorithm,1997,1,45,3,0.357143,605106185,Bruce Schneier,0,0.7367170078313807,-0.5562840759647283
+24839522,A secure environment for untrusted helper applications confining the Wily Hacker,1996,10,419,2,0.0,1975802069,Eric Brewer,0,-0.08456778077202542,0.5410242094667748
+179848220,Security Analysis of the Diebold AccuBasic Interpreter,2006,0,24,2,0.833333,1984874970,Chris Karlof,0,0.2018268678365599,0.1425886522275585
+145782308,Finding user/kernel pointer bugs with type inference,2004,11,112,2,1.0,2097949663,Rob Johnson,0,0.1639362940477497,0.6530314529854678
+146932325,Human factors in web authentication,2009,84,6,2,0.89685,1984874970,Chris Karlof,0,-1.5579072676529981,-0.7392880872099332
+113209261,Automated analysis of election audit logs,2012,12,6,7,0.0,2414422356,Patrick Baxter,0,0.0040557659796233,0.2757546058061082
+12540587,How to ask for permission,2012,13,87,5,0.863014,2036482359,Adrienne Porter Felt,0,0.0040557659796233,0.2757546058061082
+65342078,Designing voting machines for verification,2006,33,30,2,0.866667,2112626028,Naveen Sastry,0,-1.157560915554388,-0.022590971900344037
+168195756,Radio Frequency Identification and Privacy with Information Goods,2004,0,13,2,0.947368,2001305480,David Molnar,0,0.0040557659796233,0.2757546058061082
+119885048,Efficient user-guided ballot image verification,2010,7,6,5,1.0,2099577646,Arel Cordero,0,0.0040557659796233,0.2757546058061082
+794140516,Android permissions remystified a field study on contextual integrity,2015,43,47,5,0.942857,2409326189,Primal Wijesekera,0,0.5247012906030261,1.4513019010436095
+1531820677,The program counter security model automatic detection and removal of control-flow side channel attacks,2005,40,80,4,0.947368,2001305480,David Molnar,0,-0.8086698763785448,0.4790706181522542
+1549816677,Conditioned-safe Ceremonies and a User Study of an Application to Web Authentication,2009,35,19,3,0.89685,1984874970,Chris Karlof,0,-1.057525603790344,-0.14727524112714357
+1496386159,On the Twofish Key Schedule,1998,9,14,4,0.228332,605106185,Bruce Schneier,0,1.4218433824731898,-1.9108374101346972
+1533109710,Cryptographic voting protocols a systems perspective,2005,23,103,3,0.833333,1984874970,Chris Karlof,0,-0.4445405908329025,-1.2669664308846564
+1489067988,The effectiveness of application permissions,2011,11,227,3,0.863014,2036482359,Adrienne Porter Felt,0,0.0040557659796233,0.2757546058061082
+1569365057,Cryptographic protocols for electronic voting,2006,0,2,1,1.0,2109123731,David Wagner,0,0.038227482858146714,-0.49535392195964667
+1506510492,Dynamic test generation to find integer bugs in x86 binary linux programs,2009,17,166,3,0.802537,2001305480,David Molnar,0,0.0040557659796233,0.2757546058061082
+1551843303,Protocol Interactions and the Chosen Protocol Attack,1997,15,78,3,0.625,2103161411,John Kelsey,0,0.036191276275480654,0.3679403960301915
+1481782694,Comments to NIST concerning AES Modes of Operations CTR-Mode Encryption,2000,8,136,3,0.0,15605393,Helger Lipmaa,0,0.155870422438688,-0.3611899258997246
+1534808093,Static Analysis and Software Assurance,2001,0,15,1,1.0,2109123731,David Wagner,0,-1.670952132633891,2.18640461889005
+1507912691,A user study design for comparing the security of registration protocols,2008,16,7,3,1.0,1984874970,Chris Karlof,0,-0.743027700839048,-0.5784049303419901
+1516699468,Related-key cryptanalysis of 3-WAY Biham-DES CAST DES-X NewDES RC2 and TEA,1997,28,176,3,0.625,2103161411,John Kelsey,0,1.166955779165901,-1.0886044575453768
+1491182452,Towards a privacy measurement criterion for voting systems,2005,1,17,4,0.0,2666703023,Lillie Coney,0,0.0040557659796233,0.2757546058061082
+1544956979,Real Time Cryptanalysis of A5/1 on a PC,2000,3,361,3,0.8,2167814525,Alex Biryukov,0,0.7297427774087383,-1.0093082498697028
+1238626041,A Security Analysis of the Secure Electronic Registration and Voting Experiment (SERVE),2004,6,114,1,1.0,2109123731,David Wagner,0,-0.14317043413221006,0.866963667352231
+1510516687,Towards comprehensible and effective permission systems,2012,84,3,2,0.863014,2036482359,Adrienne Porter Felt,0,0.0040557659796233,0.2757546058061082
+1493649314,A scalable delegatable pseudonym protocol enabling ownership transfer of RFID tags,2005,7,248,3,0.947368,2001305480,David Molnar,0,0.3171484069971384,-0.13992525839030945
+1546907539,Key-Schedule Cryptoanalysis of IDEA G-DES GOST SAFER and Triple-DES,1996,47,179,3,0.0,605106185,Bruce Schneier,0,2.204500185890885,-2.1917446545642525
+1565113942,Detecting format string vulnerabilities with type qualifiers,2001,23,336,4,0.529412,2590735698,Umesh Shankar,0,0.0040557659796233,0.2757546058061082
+1427242644,An empirical study of vulnerability rewards programs,2013,15,59,3,0.769231,1968745652,Matthew Finifter,0,0.0040557659796233,0.2757546058061082
+1485497075,Security and Privacy Issues in E-passports,2005,9,283,3,0.0,46726047,Ari Juels,0,-0.4297766201690538,0.43655358951394074
+1429241971,Control-flow bending on the effectiveness of control-flow integrity,2015,36,159,4,0.0,2973325635,Nicolas Carlini,0,-0.8422892894484001,1.6888763784231802
+1566796882,Side Channel Cryptanalysis of Product Ciphers,1998,25,96,3,0.625,2103161411,John Kelsey,0,1.9288575074282122,-2.1097233005587137
+1628063087,An empirical study on the effectiveness of security code review,2013,18,29,6,1.0,2141744164,Anne Edmundson,0,0.1402039859793991,1.4048142505488332
+1955645522,Timing analysis of keystrokes and timing attacks on SSH,2001,18,436,2,0.27907,2131252044,Dawn Song,0,-0.9793239040302479,-0.3471092973486556
+1632088469,Time-lock Puzzles and Timed-release Crypto,1996,0,383,2,0.0,695545146,Ronald L. Rivest,0,0.155870422438688,-0.3611899258997246
+1579003642,Pushdown Model Checking for Security,2005,0,0,1,1.0,2109123731,David Wagner,0,-1.0243441656921957,0.8140795406668232
+1911406845,A &quot;bump in the stack&quot; encryptor for MS-DOS systems,1996,3,9,2,0.0,687694072,Steven M. Bellovin,0,-0.5767314070008025,-0.1902584016941998
+1760332327,From weak to strong watermarking,2007,38,25,3,0.0,2106238981,Nicholas Hopper,0,-0.05322195880567221,0.6802339602201981
+1890449996,Side channel cryptanalysis of product ciphers,2000,28,239,3,0.418076,2103161411,John Kelsey,0,2.237154240382818,-2.23274257690427
+1599684279,Cryptanalysis of ORYX,1998,10,24,1,1.0,2109123731,David Wagner,0,1.3023321866376008,-1.3921224753140597
+1713730743,Cryptanalysis of SPEED,1998,13,3,4,0.0,2625580935,Chris Hall,0,2.516857740636932,-2.0765895756672386
+1592625985,Private Circuits Securing Hardware against Probing Attacks,2003,34,475,3,0.0,114908009,Yuval Ishai,0,0.654510491807741,-0.45097194769863336
+1617652354,Cryptanalysis of an Algebraic Privacy Homomorphism,2003,3,73,1,1.0,2109123731,David Wagner,0,0.08755228408587493,0.040154590462867096
+1659864390,TAZ servers and the rewebber network,1998,0,1,1,1.0,2109123731,David Wagner,0,0.0040557659796233,0.2757546058061082
+1585213850,A Critique of CCM,2003,13,28,2,0.0,2106597688,Phillip Rogaway,0,1.9733013167721798,-1.8433280117220434
+1603231416,Janus an Approach for Confinement of Untrusted Applications,1999,0,70,1,1.0,2109123731,David Wagner,0,0.0040557659796233,0.2757546058061082
+1603576379,Static analysis and computer security new techniques for software assurance,2000,0,43,2,0.6,1975802069,Eric Brewer,0,-1.670952132633891,2.18640461889005
+1870923733,Algebraic and Slide Attacks on KeeLoq,2008,28,111,3,0.0,342533692,Nicolas T. Courtois,0,1.6675723004828846,-1.5772434316654174
+1994588724,Analyzing inter-application communication in Android,2011,19,624,4,1.0,2171525095,Erika Chin,0,-1.2572246807953738,2.6431874568261673
+2021124779,Measuring user confidence in smartphone security and privacy,2012,26,213,4,1.0,2171525095,Erika Chin,0,-0.00168197743547895,0.19811566372264167
+2026436569,Cryptanalysis of a provably secure CRT-RSA algorithm,2004,9,77,1,1.0,2109123731,David Wagner,0,1.032018280072069,-0.6626489107222735
+2014416287,Cool security trends,2002,0,0,4,0.0,2163716051,Dawson Engler,0,0.02338568997652498,2.1590583028759838
+2025553284,Are You Ready to Lock,2014,32,81,6,0.366907,2240396503,Serge Egelman,0,0.0040557659796233,0.2757546058061082
+2030980540,Object capabilities for security,2006,0,13,1,1.0,2109123731,David Wagner,0,-0.49551509751858536,1.3395583570401146
+2033811191,Android permissions user attention comprehension and behavior,2012,35,661,6,0.863014,2036482359,Adrienne Porter Felt,0,-1.1069222299273316,1.981224806152135
+2058098987,Radio frequency Id and privacy with information goods,2004,2,18,7,0.0,2111786107,Nathan Good,0,0.1680834055375599,1.1687048434252905
+2072234079,Security flaws in 80211 data link protocols,2003,5,144,3,0.0,1898905176,Nancy Cam Winget,0,-0.26453554363595083,-0.31036657631720344
+2063524091,Tamper-evident history-independent subliminal-free data structures on PROM storage -or- how to store ballots on a voting machine,2006,9,39,4,1.0,2776814691,David Molnar,0,0.04597164135826801,0.5754609189368322
+2096802854,Bridging the gap between people and policies in security and privacy,2006,72,2,1,1.0,2109123731,David Wagner,0,0.35184232968668133,0.7242386073327612
+2099836087,Defeating UCI Building Stealthy and Malicious Hardware,2011,26,93,3,1.0,2070912069,Cynthia Sturton,0,-0.0420458429239909,0.2377999617278665
+2096943376,Preventing Secret Leakage from fork() Securing Privilege-Separated Applications,2006,14,4,2,0.434528,2590735698,Umesh Shankar,0,-0.4868451807346081,-0.06225864946986686
+2103616547,On voting machine design for verification and testability,2009,24,18,4,1.0,2070912069,Cynthia Sturton,0,0.0040557659796233,0.2757546058061082
+2097861186,Insecurity in ATM-based passive optical networks,2002,1,4,2,0.0,2565483071,S. Thomas,0,-0.23036964319754596,-0.8043752972007007
+2094245295,Reducing attack surfaces for intra-application communication in android,2012,15,61,4,0.0,2228889023,David Kantola,0,0.0040557659796233,0.2757546058061082
+2134968380,Verifiable functional purity in java,2008,22,43,4,0.769231,1968745652,Matthew Finifter,0,0.29392382053358135,0.10045542812224656
+2114566185,Intercepting mobile communications the insecurity of 80211,2001,16,805,3,0.26087,2156971739,Nikita Borisov,0,-1.8602434438785385,-1.5952389255363744
+2135143063,Mimicry attacks on host-based intrusion detection systems,2002,25,566,1,1.0,2109123731,David Wagner,0,1.1710690021768055,1.0496810602489979
+2123437505,AdDroid privilege separation for applications and advertisers in Android,2012,21,219,4,0.0,2150930760,Paul Pearce,0,0.4732611769266696,1.1691076888675613
+2123886726,Intrusion detection via static analysis,2001,38,619,1,1.0,2109123731,David Wagner,0,1.3607487942824932,1.2179762095306257
+2124020982,Short paper location privacy user behavior in the field,2012,19,27,3,0.0,2124484227,Drew Fisher,0,0.0040557659796233,0.2757546058061082
+2142145056,A survey of mobile malware in the wild,2011,20,598,5,0.863014,2036482359,Adrienne Porter Felt,0,-0.29614812536680757,1.0643812385037146
+2112504626,Portably solving file races with hardness amplification,2008,32,9,3,0.0,332355769,Dan Tsafrir,0,-0.17324153726119554,0.6587671663167594
+2121506580,A Note on NSAs Dual Counter Mode of Encryption,2001,4,5,2,0.0,417821493,Virgil D. Gligor,0,-0.014207469916425556,-0.300267489202837
+2113247363,Dynamic pharming attacks and locked same-origin policies for web browsers,2007,46,119,4,1.0,1984874970,Chris Karlof,0,-0.18986357315150149,-0.22329039519717112
+2128130966,Sandboxing Part 1 A Secured Environment for Untrusted Helper Application,2008,1,0,2,0.6,2101005269,Susmit Jha,0,0.0040557659796233,0.2757546058061082
+2113404383,Verifying security properties in electronic voting machines,2007,77,15,1,1.0,2109123731,David Wagner,0,0.29392382053358135,0.10045542812224656
+2134011023,Privacy and security in library RFID issues practices and architectures,2004,8,640,2,0.947368,2001305480,David Molnar,0,0.17204494557617905,-0.7484086822197431
+2128381560,Secure routing in wireless sensor networks attacks and countermeasures,2003,57,2652,2,0.761918,1984874970,Chris Karlof,0,0.0040557659796233,0.2757546058061082
+2107643854,Ive got 99 problems but vibration aint one a survey of smartphone users concerns,2012,15,190,3,0.863014,2036482359,Adrienne Porter Felt,0,-1.1069222299273316,1.981224806152135
+2137223022,Diesel applying privilege separation to database access,2011,24,15,4,0.863014,2036482359,Adrienne Porter Felt,0,1.5733736148726598,1.6269740916327833
+2125578272,Analyzing internet voting security,2004,6,91,4,0.0,2650447577,David Jefferson,0,-0.36139017078501745,-0.6698254899516656
+2116832576,A Cryptanalysis of the High-Bandwidth Digital Content Protection System,2001,7,13,5,1.0,2661997973,Scott Crosby,0,1.0926327798590407,-1.4174990824437301
+2119736157,MOPS an infrastructure for examining security properties of software,2002,16,375,2,0.714286,2573883204,Hao Chen,0,-0.22684964772494434,0.5553590878829306
+2134716394,Model checking an entire Linux distribution for security violations,2005,16,52,3,0.0,2487095620,B. Schwarz,0,-0.9620318550164114,1.2794055870568022
+2114275288,Android permissions demystified,2011,15,933,5,0.863014,2036482359,Adrienne Porter Felt,0,-0.1506525007461538,1.489091572110033
+2159216827,ROP is still dangerous breaking modern defenses,2014,26,183,2,1.0,1606335232,Nicholas Carlini,0,-1.1180566081538228,0.5596738011988476
+2171286195,Building reliable voting machine software,2007,54,22,1,1.0,2109123731,David Wagner,0,0.0040557659796233,0.2757546058061082
+2171288055,Replayable voting machine audit logs,2008,12,11,2,1.0,2099577646,Arel Cordero,0,-0.23494333035090728,0.5486619217872241
+2168552474,When its better to ask forgiveness than get permission attribution mechanisms for smartphone resources,2013,26,21,4,0.666667,2897452129,Christopher Thompson,0,0.0040557659796233,0.2757546058061082
+2144576616,Security considerations for IEEE 802154 networks,2004,10,250,2,0.791667,2112626028,Naveen Sastry,0,-0.32409323540744556,1.1528106569199716
+2171572664,You go to elections with the voting system you have stop-gap mitigations for deployed voting systems,2008,10,9,4,0.0,1518619805,J. Alex Halderman,0,0.0040557659796233,0.2757546058061082
+2150959861,Evidence-Based Elections,2012,9,26,2,0.0,2006248347,Philip B. Stark,0,0.0040557659796233,0.2757546058061082
+2147929033,Practical techniques for searches on encrypted data,2000,15,2008,2,0.27907,2131252044,Dawn Song,0,0.654604175316692,-1.4811722886725192
+2148279836,Conditioned-safe ceremonies and a user study of an application to web authentication,2009,39,45,3,0.89685,1984874970,Chris Karlof,0,-0.8191088952285872,0.14135163956147276
+2184460067,Verifying security properties using type-qualifier inference,2006,74,3,2,1.0,2097949663,Rob Johnson,0,0.0040557659796233,0.2757546058061082
+2160524070,Fixing races for fun and profit how to abuse atime,2005,11,35,3,0.26087,2156971739,Nikita Borisov,0,0.0040557659796233,0.2757546058061082
+2166689265,Cryptanalysis of a Cognitive Authentication Scheme (Extended Abstract),2007,9,70,2,0.0,2014852109,Philippe Golle,0,-1.7248955412142546,-1.5350967587413442
+2148922257,Security in wireless sensor networks,2004,8,1302,2,0.0,2030977062,John A. Stankovic,0,0.0040557659796233,0.2757546058061082
+2170458715,Portably solving file TOCTTOU races with hardness amplification,2008,29,36,3,0.0,332355769,Dan Tsafrir,0,-0.17324153726119554,0.6587671663167594
+2152693711,Privacy for RFID through trusted computing,2005,9,52,3,0.947368,2001305480,David Molnar,0,-0.004005367015315162,1.6699501347285364
+2164947865,Secure verification of location claims,2003,18,566,3,0.694444,2112626028,Naveen Sastry,0,0.194380164739137,0.28807148737540206
+2147160559,Fault attacks on dual-rail encoded systems,2005,8,17,2,0.0,2147145606,Jason Waddle,0,0.19167417093450057,-0.5465455625049089
+2189046717,Locked cookies Web authentication security against phishing pharming and active attacks,2007,33,7,2,1.0,1984874970,Chris Karlof,0,-0.7877804924953159,-0.6907407153387869
+2199676529,Weight weight dont tell me using scales to select ballots for auditing,2009,7,5,2,1.0,2070912069,Cynthia Sturton,0,0.0040557659796233,0.2757546058061082
+2296642300,The murky issue of changin process identity revising &quot;setuid demystified&quot;,2008,4,13,2,0.0,332355769,Dan Tsafrir,0,0.0040557659796233,0.2757546058061082
+2291345654,Security of the WEP algorithm (Wired Equivalent Privacy),2002,1,5,1,1.0,2109123731,David Wagner,0,-2.583967082053082,-1.8222540557682319
+2398802025,Cryptanalysis of a Cognitive Authentication Scheme,2006,7,42,2,0.0,2014852109,Philippe Golle,0,0.08145814687534284,-0.5652204802016999
+2404785830,Computing the margin of victory in IRV elections,2011,9,52,3,0.0,695545146,Ronald L. Rivest,0,0.0040557659796233,0.2757546058061082
+2407999163,An analysis of write-in marks on optical scan ballots,2011,8,3,6,1.0,2283041206,Theron Ji,0,0.0040557659796233,0.2757546058061082
+2408302068,Smart Locks Lessons for Securing Commodity Internet of Things Devices,2016,23,88,6,0.888889,2463722756,Grant Ho,0,-0.19533026352032276,0.27398036425454014
+2402789968,A Secure Environment for Untrusted Helper Applications,1996,0,284,2,0.0,2113410603,Ian Goldberg,0,0.0040557659796233,0.2757546058061082
+2400084013,Attestation Transparency Building secure Internet services for legacy clients,2016,22,7,3,0.0,2152095937,Jethro G. Beekman,0,-1.5220589608820234,-1.4572081840496371
+2400216756,Joe-E A Security-Oriented Subset of Java,2010,16,68,2,1.0,2110107903,Adrian Mettler,0,-0.49551509751858536,1.3395583570401146
+2403122167,A Security Evaluation of Whitenoise,2003,0,3,1,1.0,2109123731,David Wagner,0,0.0040557659796233,0.2757546058061082
+2486441166,Hidden voice commands,2016,35,210,7,1.0,1606335232,Nicholas Carlini,0,-0.18084372235198545,0.38934389771905936
+2480713486,A cryptanalysis of the high-bandwidth Digital content Protection system,2002,0,5,5,1.0,2661997973,Scott Crosby,0,0.5401023317599057,-1.1432429540651046
+2539957464,Privacy-enhancing technologies for the Internet,1997,7,169,2,0.857143,2113410603,Ian Goldberg,0,1.1623965910802656,1.96883979167621
+2574241790,Choice Architecture and Smartphone Privacy Theres a Price for That,2012,0,14,3,0.366907,2240396503,Serge Egelman,0,0.0040557659796233,0.2757546058061082
+2530218835,The program counter security model Automatic detection and removal of control-flow side channel attacks,2006,0,46,4,0.9,2001305480,David Molnar,0,-0.18433349051740386,-0.7417861185174567
+2516574342,Towards Evaluating the Robustness of Neural Networks,2016,41,195,2,1.0,1606335232,Nicholas Carlini,0,0.0040557659796233,0.2757546058061082
+2517229335,Defensive Distillation is Not Robust to Adversarial Examples,2016,4,131,2,1.0,1606335232,Nicholas Carlini,0,0.0040557659796233,0.2757546058061082
+2511765115,Protocol interactions and the chosen protocol attack,1998,0,52,3,0.625,2103161411,John Kelsey,0,0.4421911254906452,0.14642581152089304
+2518339455,Recovering High-Value Secrets with {SGX} and Social Authentication,2016,0,0,3,0.0,2396754396,Nathan Malkin,0,-0.5530861437885858,-0.004176666300269333
+2536198208,Securing Recognizers for Rich Video Applications,2016,13,1,2,0.666667,2897452129,Christopher Thompson,0,1.5733736148726598,1.6269740916327833
+2613417494,Cryptanalysis of the cellular message encryption algorithm,1997,0,0,2,0.357143,605106185,Bruce Schneier,0,0.6215591978658375,-0.19083753214140922
+2613816349,Private circuits Securing Hardware against probing attacks,2003,0,4,3,0.0,114908009,Yuval Ishai,0,0.45901623207560993,-0.44784117465792345
+2648367641,Secure applications of low-entropy keys,1998,0,46,4,0.0,3004053513,John Kelsey,0,0.6583477302664403,-2.4456518343118465
+2735084822,A Usability Evaluation of Tor Launcher,2017,33,19,6,0.0,2507107334,Linda N. Lee,0,0.5573458515258806,-0.6054333557016874
+2735704859,Oscar A Practical Page-Permissions-Based Scheme for Thwarting Dangling Pointers,2017,21,13,3,0.0,2144617843,Thurston H. Y. Dang,0,0.0040557659796233,0.2757546058061082
+2712394495,Breaking active-set backward-edge CFI,2017,20,5,2,1.0,2663541950,Michael Theodorides,0,0.1639362940477497,0.6530314529854678
+2604764484,The Feasibility of Dynamically Granted Permissions Aligning Mobile Privacy with User Preferences,2017,40,34,6,1.0,2409326189,Primal Wijesekera,0,-0.19388934528877994,1.9286919035068517
+2612507208,Truncated differentials and Skipjack,1999,0,0,3,0.0,2035224540,Lars R. Knudsen,0,0.5721624172407624,-0.6441580747384347
+2752894517,Information Disclosure Concerns in The Age of Wearable Computing,2016,25,16,1,1.0,2109123731,David Wagner,0,0.0040557659796233,0.2757546058061082
+2765324653,Security and Machine Learning,2017,0,1,1,1.0,2109123731,David Wagner,0,0.0040557659796233,0.2757546058061082
+2768899812,MagNet and &quot;Efficient Defenses Against Adversarial Attacks&quot; are Not Robust to Adversarial Examples,2017,10,89,2,1.0,1606335232,Nicholas Carlini,0,0.0040557659796233,0.2757546058061082
+2741480773,Turtle Guard Helping Android Users Apply Contextual Privacy Preferences,2017,25,16,6,0.666667,2415649438,Lynn Tsai,0,0.0040557659796233,0.2757546058061082
+2766798260,Security in wireless sensor networks - eScholarship,2004,0,9,2,0.0,2030977062,John A. Stankovic,0,-0.4868451807346081,-0.06225864946986686
+2766995444,Risks of e-voting - eScholarship,2007,0,0,1,1.0,2109123731,David Wagner,0,0.047196202729953673,0.11963598654257102
+2752373508,Detecting Credential Spearphishing in Enterprise Settings,2017,0,12,5,1.0,2463722756,Grant Ho,0,-1.045331386407179,-0.19704785332946567
+2785898071,Dynamically Regulating Mobile Application Permissions,2018,7,2,6,1.0,2409326189,Primal Wijesekera,0,-1.1069222299273316,1.981224806152135
+2792991556,Adversarially Robust Malware Detection Using Monotonic Classification,2018,26,7,3,1.0,2663541950,Michael Theodorides,0,-0.07724564651409063,0.8112933933729592
+2886462939,Background Class Defense Against Adversarial Examples,2018,0,6,2,0.0,2223610556,Michael McCoyd,0,0.0040557659796233,0.2757546058061082
+2913212653,Slide Attacks,1999,14,237,2,0.8,2167814525,Alex Biryukov,0,1.0644866910058783,-1.1544736405330014
+2913502225,Setuid Demystified,2002,2,78,2,0.714286,2573883204,Hao Chen,0,0.0040557659796233,0.2757546058061082
+2911470231,Proceedings of the 20th USENIX conference on Security,2011,0,28,1,1.0,2109123731,David Wagner,0,0.0040557659796233,0.2757546058061082
+2952718464,Android Permissions Remystified A Field Study on Contextual Integrity,2015,31,19,5,0.942857,2409326189,Primal Wijesekera,0,0.12926959407785332,0.9731910217593551
+2952961700,The Feasibility of Dynamically Granted Permissions Aligning Mobile Privacy with User Preferences,2017,28,0,6,1.0,2409326189,Primal Wijesekera,0,-0.8782945595402403,1.631747967451602
+2956252722,Stateful Detection of Black-Box Adversarial Attacks,2019,35,7,3,0.0,2308789831,Steven L. Chen,0,0.6255824944736007,0.5236850567498004
+2949157867,Tamper-Evident History-Independent Subliminal-Free Data Structures on PROM Storage -or- How to Store Ballots on a Voting Machine,2006,0,0,4,1.0,2776814691,David Molnar,0,0.0040557659796233,0.2757546058061082
+2963857521,Towards Evaluating the Robustness of Neural Networks,2017,20,1651,2,1.0,1606335232,Nicholas Carlini,0,-0.6991469860145861,0.9109785533756322
+2978628345,Detecting and Characterizing Lateral Phishing at Scale,2019,25,0,8,1.0,2463722756,Grant Ho,0,0.0040557659796233,0.2757546058061082
+2999829621,Privacy controls for always-listening devices,2019,6,1,3,0.0,3000081460,Nathan Malkin,0,0.0040557659796233,0.2757546058061082
+2973512984,On the Robustness of Deep K-Nearest Neighbors,2019,35,2,2,0.0,2772450702,Chawin Sitawarin,0,0.0040557659796233,0.2757546058061082
+2965547394,Detecting and Characterizing Lateral Phishing at Scale,2019,0,5,8,1.0,2463722756,Grant Ho,0,0.0040557659796233,0.2757546058061082
+3014920811,Network Security Architecture for Demand Response/Sensor Networks,2005,13,8,2,0.0,1853091165,Deirdre K. Mulligan,0,0.20538557931068702,0.3083967630594729

@@ -1,0 +1,61 @@
+1539495021,Feature location in source code a taxonomy and survey,2013,141,406,4,0.949153,2101338685,Bogdan Dit,0,0.003708468606338,0.082832279151172
+1965484571,Using structural and textual information to capture feature coupling in object-oriented software,2011,103,47,3,1.0,2006722965,Meghan Revelle,0,0.003708468606338,0.082832279151172
+1997784518,Supporting and accelerating reproducible empirical research in software evolution and maintenance using TraceLab Component Library,2015,65,11,4,0.949153,2101338685,Bogdan Dit,0,0.003708468606338,0.082832279151172
+1997885138,Using information retrieval based coupling measures for impact analysis,2009,88,158,1,1.0,67342874,Denys Poshyvanyk,0,0.003708468606338,0.082832279151172
+1991466177,A dataset from change history to support evaluation of software maintenance tasks,2013,10,27,3,0.949153,2101338685,Bogdan Dit,0,0.003708468606338,0.082832279151172
+1998519879,When and How Using Structural Information to Improve IR-Based Traceability Recovery,2013,36,39,6,0.241442,290562820,Annibale Panichella,0,0.003708468606338,0.082832279151172
+1996901220,Concept location using formal concept analysis and information retrieval,2012,86,67,1,1.0,67342874,Denys Poshyvanyk,0,0.14616255673589176,-0.03804677579092565
+1992055950,Feature location via information retrieval based filtering of a single scenario execution trace,2007,43,174,3,0.0,2644015169,Dapeng Liu,0,0.7764724293480222,-0.4943585979853251
+1992301869,A TraceLab-based solution for creating conducting and sharing feature location experiments,2012,12,33,3,1.0,2101338685,Bogdan Dit,0,0.003708468606338,0.082832279151172
+1997650168,On the Equivalence of Information Retrieval Methods for Automated Traceability Link Recovery,2010,29,139,3,0.346154,248023835,Rocco Oliveto,0,-0.7639886326582391,-0.4775695568124525
+2009977560,Integrating information retrieval execution and link analysis algorithms to improve feature location in software,2013,65,72,3,0.949153,2101338685,Bogdan Dit,0,-0.186250692362542,-0.8559756504942699
+2027772041,SE 2 model to support software evolution,2011,18,6,1,1.0,67342874,Denys Poshyvanyk,0,0.003708468606338,0.082832279151172
+2030570299,Sanitizing and Minimizing Databases for Software Application Test Outsourcing,2014,42,16,3,0.75,2124185167,Boyang Li,0,-1.0095809821480715,0.6768978501232454
+2028889016,An empirical investigation into a large-scale Java open source code repository,2010,20,75,6,0.5,2048808281,Mark Grechanik,0,0.003708468606338,0.082832279151172
+2018389835,Toward deep learning software repositories,2015,76,131,4,1.0,2435672918,Martin White,0,-0.1324825582615015,-0.2960240739777333
+2016635770,Amalgamating source code authors maintainers and change proneness to triage change requests,2014,35,21,3,0.0,2227462525,Kamal Hossen,0,0.003708468606338,0.082832279151172
+2052493036,Mining Android app usages for generating actionable GUI-based execution scenarios,2015,41,60,5,0.9,185311061,Mario Linares Vasquez,0,0.003708468606338,0.082832279151172
+2035115871,Combining Conceptual and Domain-Based Couplings to Detect Database and Code Dependencies,2012,54,5,3,0.891304,2104440431,Malcom Gethers,0,-1.966847393750121,0.24913552181106408
+2044428238,On using machine learning to automatically classify software applications into domain categories,2014,51,45,3,1.0,185311061,Mario Linares Vasquez,0,0.003708468606338,0.082832279151172
+2053667299,Domain matters bringing further evidence of the relationships among anti-patterns application domains and quality-related metrics in Java mobile apps,2014,56,25,5,1.0,185311061,Mario Linares Vasquez,0,0.003708468606338,0.082832279151172
+2053843661,An adaptive approach to impact analysis from change requests to source code,2011,29,32,4,0.931035,2104440431,Malcom Gethers,0,0.4279101547320334,-0.4049364171779501
+2068160829,Using Data Fusion and Web Mining to Support Feature Location in Software,2010,36,91,3,0.857143,2006722965,Meghan Revelle,0,-0.11564458632184053,-0.6812319154144671
+2077323210,Using Relational Topic Models to capture coupling among classes in object-oriented software systems,2010,38,85,2,0.931035,2104440431,Malcom Gethers,0,-0.17536238923574604,0.4144853997593385
+2065540202,Revisiting Android reuse studies in the context of code obfuscation and library usages,2014,23,59,4,1.0,185311061,Mario Linares Vasquez,0,0.003708468606338,0.082832279151172
+2077919660,Landfill an open dataset of code smells with public evaluation,2015,12,20,6,0.0,1987128262,Fabio Palomba,0,-0.29062382704821604,-0.15082005619688255
+2074770709,Automating performance bottleneck detection using search-based application profiling,2015,84,30,3,0.0,2153820318,Du Shen,0,0.07703698583663306,0.1694047379883986
+2097494663,Configuring topic models for software engineering tasks in TraceLab,2013,23,13,6,0.949153,2101338685,Bogdan Dit,0,-0.753104331542272,-0.024570913808007133
+2100739938,Combining Probabilistic Ranking and Latent Semantic Indexing for Feature Identification,2006,26,108,1,1.0,67342874,Denys Poshyvanyk,0,0.4279101547320334,-0.4049364171779501
+2104074028,Integrated impact analysis for managing software changes,2012,36,102,4,0.891304,2104440431,Malcom Gethers,0,-0.13275296294680305,-0.071629888206014
+2098192829,Redacting sensitive information in software artifacts,2014,45,3,4,0.5,2048808281,Mark Grechanik,0,0.003708468606338,0.082832279151172
+2095632607,RCLinker automated linking of issue reports and commits leveraging rich contextual information,2015,66,27,4,0.0,2132183005,Tien Duy B. Le,0,-0.5442538671051075,-0.0015272632806924008
+2111389122,An exploratory analysis of mobile development issues using stack overflow,2013,10,47,3,1.0,185311061,Mario Linares Vasquez,0,-0.17536238923574604,0.4144853997593385
+2132178369,Assigning change requests to software developers,2012,87,70,3,0.821139,360874609,Huzefa Kagdi,0,0.003708468606338,0.082832279151172
+2126399635,Mining energy-greedy API usage patterns in Android apps an empirical study,2014,34,131,6,1.0,185311061,Mario Linares Vasquez,0,0.003708468606338,0.082832279151172
+2132254251,Modeling class cohesion as mixtures of latent topics,2009,41,68,2,0.0,2618033610,Yixun Liu,0,-0.952439873774493,-0.4099256308957632
+2139543149,Feature Location Using Probabilistic Ranking of Methods Based on Execution Scenarios and Information Retrieval,2007,52,351,1,1.0,67342874,Denys Poshyvanyk,0,0.4279101547320334,-0.4049364171779501
+2115941721,Combining Formal Concept Analysis with Information Retrieval for Concept Location in Source Code,2007,37,204,1,1.0,67342874,Denys Poshyvanyk,0,0.007703572990613139,-0.1007285357150171
+2134354726,Rethinking user interfaces for feature location,2015,64,17,5,0.0,2162039953,Fabian Beck,0,0.003708468606338,0.082832279151172
+2119992936,Integrating conceptual and logical couplings for change impact analysis in software,2013,87,51,3,0.661299,360874609,Huzefa Kagdi,0,0.003708468606338,0.082832279151172
+2111303489,Blending Conceptual and Evolutionary Couplings to Support Change Impact Analysis in Source Code,2010,47,79,3,1.0,360874609,Huzefa Kagdi,0,0.003708468606338,0.082832279151172
+2147296306,Can Better Identifier Splitting Techniques Help Feature Location,2011,35,62,3,1.0,2101338685,Bogdan Dit,0,0.003708468606338,0.082832279151172
+2165401136,Using Latent Dirichlet Allocation for automatic categorization of software,2009,17,108,3,0.0,2188295356,Kai Tian,0,-0.952439873774493,-0.4099256308957632
+2145700761,Methodbook Recommending Move Method Refactorings via Relational Topic Models,2014,50,86,4,0.160133,229858904,Gabriele Bavota,0,-0.17536238923574604,0.4144853997593385
+2151860493,An exploratory study on assessing feature location techniques,2009,38,51,2,0.75,2006722965,Meghan Revelle,0,0.003708468606338,0.082832279151172
+2146781646,On integrating orthogonal information retrieval methods to improve traceability recovery,2011,34,98,3,0.931035,2104440431,Malcom Gethers,0,-0.24593697629907454,0.07203779695761532
+2170835676,Who can help me with this change request,2009,28,43,2,1.0,360874609,Huzefa Kagdi,0,0.003708468606338,0.082832279151172
+2167980913,FLAT 3 feature location and textual tracing tool,2010,20,55,1,1.0,67342874,Denys Poshyvanyk,0,0.1579559588619796,0.563349572073047
+2296296438,FOREPOST finding performance problems automatically with feedback-directed learning software testing,2017,69,15,4,1.0,2239981666,Qi Luo,0,0.003708468606338,0.082832279151172
+2407167388,Parameterizing and Assembling IR-Based Solutions for SE Tasks Using Genetic Algorithms,2016,53,19,5,0.241442,290562820,Annibale Panichella,0,-0.30470567631504725,-0.0062226515008856715
+2399881321,Mining performance regression inducing code changes in evolving software,2016,70,16,2,0.818182,2239981666,Qi Luo,0,0.003708468606338,0.082832279151172
+2470924201,On automatically detecting similar Android apps,2016,35,21,3,1.0,185311061,Mario Linares Vasquez,0,0.003708468606338,0.082832279151172
+2463537704,Improving code readability models with textual features,2016,38,31,3,0.0,2480241491,Simone Scalabrino,0,0.003708468606338,0.082832279151172
+2417033663,License usage and changes a large-scale study on gitHub,2017,37,11,6,1.0,2229158785,Christopher Vendome,0,0.003708468606338,0.082832279151172
+2473044488,Are unreachable methods harmful Results from a controlled experiment,2016,42,3,4,0.0,2267126441,Simone Romano,0,0.003708468606338,0.082832279151172
+2561301563,There and back again Can you compile that snapshot ,2017,29,28,1,1.0,67342874,Denys Poshyvanyk,0,0.003708468606338,0.082832279151172
+2511803001,Deep learning code fragments for code clone detection,2016,115,162,4,1.0,2435672918,Martin White,0,0.003708468606338,0.082832279151172
+2546867968,A large-scale empirical comparison of static and dynamic test case prioritization techniques,2016,54,28,3,0.818182,2239981666,Qi Luo,0,0.003708468606338,0.082832279151172
+2731883647,Automatically detecting integrity violations in database-centric applications,2017,70,1,2,1.0,2124185167,Boyang Li,0,-0.09856156892576362,0.12037184067600698
+2883359218,Deep learning similarities from different representations of source code,2018,71,24,6,1.0,2231495793,Michele Tufano,0,0.003708468606338,0.082832279151172
+2884246111,Aiding comprehension of unit test cases and test suites with stereotype-based tagging,2018,58,2,4,1.0,2124185167,Boyang Li,0,0.09306936451958565,0.4540149294292737
+2964076502,Assessing Test Case Prioritization on Real Faults and Mutants,2018,63,6,3,1.0,2239981666,Qi Luo,0,0.003708468606338,0.082832279151172

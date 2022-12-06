@@ -1,0 +1,89 @@
+120687998,Modeling Drug Exposure Data in Electronic Medical Records an Application to Warfarin,2011,24,10,4,0.741935,2143892069,Joshua C. Denny,0,0.003708468606338,0.082832279151172
+45588658,Extracting and Integrating Data from Entire Electronic Health Records for Detecting Colorectal Cancer Cases,2011,32,53,9,0.0,2135977341,Neeraja B. Peterson,0,0.3800127224570261,0.21004767587848977
+82058408,An Automated Approach to Calculating the Daily Dose of Tacrolimus in Electronic Health Records,2010,9,8,6,0.0,883693016,Melissa A. Basford,0,0.003708468606338,0.082832279151172
+204517615,Linking Genomic and Clinical Data for Discovery and Personalized Care,2014,93,1,2,0.480319,2143892069,Joshua C. Denny,0,0.0644818988688213,0.4660528257840121
+997324903,Ease of adoption of clinical natural language processing software,2015,21,12,9,0.0,362793051,V. G. Vinod Vydiswaran,0,0.003708468606338,0.082832279151172
+1541954861,Data from clinical notes a perspective on the tension between structure and flexible documentation,2011,121,174,3,0.0,1560803688,S. Trent Rosenbloom,0,0.030353256422099933,0.23269521287589623
+1019512417,Identifying risk factors for heart disease over time,2015,29,60,4,0.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+1516041857,Facilitating pharmacogenetic studies using electronic health records and natural-language processing a case study of warfarin,2011,30,58,1,1.0,2625138606,Hua Xu,0,0.003708468606338,0.082832279151172
+1527558617,Using Distributional Analysis to Semantically Classify UMLS Concepts,2007,0,1,2,0.0,2830543323,Jung Wei Fan,0,-0.2823970984960752,0.0861109704535431
+1537431711,A Preliminary Study of Clinical Abbreviation Disambiguation in Real Time,2015,21,7,7,0.0,61597068,Dario A. Giuse,0,0.0746912786071113,-0.26124188472515225
+1522668200,Proceedings of the ACM Ninth International Workshop on Data and Text Mining in Biomedical Informatics,2012,0,14,4,0.0,2098624693,Doheon Kim,0,0.6324973017001719,0.29970179253540663
+1956471287,A study of active learning methods for named entity recognition in clinical text,2015,45,36,5,1.0,2221373347,Yukun Chen,0,0.003708468606338,0.082832279151172
+1979254666,Genetic studies of complex human diseases Characterizing SNP-disease associations using Bayesian networks,2012,53,43,4,0.0,2778467298,Bing Han,0,-0.2277948537307607,0.3384711537449258
+1984582532,Using Ontology Fingerprints to disambiguate gene name entities in the biomedical literature,2015,16,9,6,1.0,2295981533,Guocai Chen,0,1.5298593896381378,-1.1921644202672905
+1976107079,DTMBIO 2012 international workshop on data and text mining in biomedical informatics,2012,12,0,3,0.0,2305446879,Min Song,0,0.6005884446736693,0.14804799120834974
+2001004455,A new clustering method for detecting rare senses of abbreviations in clinical notes,2012,27,8,1,1.0,2625138606,Hua Xu,0,-0.503427724029452,0.8804195884371111
+2006459281,Data mining methodologies for pharmacovigilance,2012,66,15,4,0.866004,2626400204,Mei Liu,0,0.003708468606338,0.082832279151172
+2021512508,Detecting Adverse Drug Reactions Using Inpatient Medication Orders and Laboratory Tests Data,2012,1,0,8,0.866004,2626400204,Mei Liu,0,0.003708468606338,0.082832279151172
+2027233318,Clinical entity recognition using structural support vector machines with rich features,2012,34,36,5,1.0,2083395585,Buzhou Tang,0,0.6054497768189756,-0.6927070378644121
+2052525903,Recognition of medication information from discharge summaries using ensembles of classifiers,2012,23,29,3,0.493006,2805687650,Son Doan,0,1.275421402667144,0.35532662632180306
+2059902579,Ranking gene-drug relationships in biomedical literature using Latent Dirichlet Allocation,2011,25,24,5,0.966667,2290077271,Yonghui Wu,0,-0.952439873774493,-0.4099256308957632
+2129267433,Gene symbol disambiguation using knowledge-based profiles,2007,29,51,1,1.0,2625138606,Hua Xu,0,0.003708468606338,0.082832279151172
+2121111666,Development and evaluation of an ensemble resource linking medications to their indications,2013,42,61,3,0.0,3009628401,Wei Qi Wei,0,-0.40446843334789534,0.09893792093881908
+2132910334,Applying active learning to assertion classification of concepts in clinical text,2012,26,24,3,1.0,2221373347,Yukun Chen,0,-0.4857188591441636,3.154800994870695
+2136127280,Large-scale prediction of adverse drug reactions using chemical biological and phenotypic properties of drugs,2012,48,142,8,0.866004,2626400204,Mei Liu,0,0.003708468606338,0.082832279151172
+2107435951,A study of machine-learning-based approaches to extract clinical entities and their assertions from discharge summaries,2011,43,149,7,0.833333,2509184137,Min Jiang,0,0.003708468606338,0.082832279151172
+2128279348,Integrating existing natural language processing tools for medication extraction from discharge summaries,2010,11,55,5,0.493006,2805687650,Son Doan,0,0.003708468606338,0.082832279151172
+2143631705,Natural language processing and visualization in the molecular imaging domain,2007,48,7,6,0.0,1966042499,P. Karina Tulipano,0,0.3911780704239929,-0.10923173045106922
+2162108374,Methods for building sense inventories of abbreviations in clinical notes,2009,24,23,1,1.0,2625138606,Hua Xu,0,-0.4724895298658027,1.1489990649773472
+2159636537,MedEx a medication information extraction system for clinical narratives,2010,36,327,5,0.0,2060626187,Lemuel R. Waitman,0,0.003708468606338,0.082832279151172
+2174502502,PhenDisco phenotype discovery system for the database of genotypes and phenotypes,2014,39,7,14,0.493006,2805687650,Son Doan,0,0.22634389122649645,-0.1273762847622864
+2149369282,The CHEMDNER corpus of chemicals and drugs and its annotation principles,2015,52,151,19,0.0,1386246505,Martin Krallinger,0,0.003708468606338,0.082832279151172
+2170788078,Identifying plausible adverse drug reactions using knowledge extracted from the literature,2014,144,39,2,0.0,2585030636,Ning Shang,0,-0.13275296294680305,-0.071629888206014
+2204599701,Determining molecular predictors of adverse drug reactions with causality analysis based on structure learning,2014,66,19,7,0.806652,2626400204,Mei Liu,0,0.6742499636915079,-0.029627717735534815
+2307967803,Extracting genetic alteration information for personalized cancer therapy from ClinicalTrialsgov,2016,20,8,13,0.80963,2717198922,Jun Xu,0,0.3657638153620942,0.15460976556060488
+2331398706,CD-REST a system for extracting chemical-induced disease relation in literature,2016,29,42,6,0.80963,2717198922,Jun Xu,0,-0.5326460585763686,-0.7905490205954313
+2278381402,Assisted annotation of medical free text using RapTAT,2014,40,21,12,0.0,61597068,Dario A. Giuse,0,0.0746912786071113,-0.26124188472515225
+2296612107,Extracting drug-enzyme relation from literature as evidence for drug drug interaction,2016,25,4,8,1.0,2122275476,Yaoyun Zhang,0,0.003708468606338,0.082832279151172
+2336054330,Erratum to Extracting drug-enzyme relation from literature as evidence for drug drug interaction,2016,1,0,8,1.0,2122275476,Yaoyun Zhang,0,0.003708468606338,0.082832279151172
+2340441220,Automated identification of molecular effects of drugs (AIMED),2016,36,8,10,0.0,2570698563,Safa Fathiamini,0,-0.14651295595361527,0.3404984377746461
+2339543475,Chemical named entity recognition in patents by domain knowledge and unsupervised feature learning,2016,43,12,7,1.0,2122275476,Yaoyun Zhang,0,-0.04055068032880055,0.4820302240524451
+2398489001,Named Entity Recognition in Chinese Clinical Text Using Deep Neural Network,2015,24,50,4,1.0,2290077271,Yonghui Wu,0,-0.3707146706369706,1.284254192186507
+2397575049,Using ontology fingerprints to disambiguate gene name entities in the biomedical literature,2014,0,0,6,1.0,2295981533,Guocai Chen,0,0.34208215495682426,-0.4460170753742258
+2403404790,Drug target prediction for colorectal cancer by combining ontology and network approaches,2014,0,0,5,0.0,2142129985,Cui Tao,0,0.325725025046954,-0.6111983507046098
+2500146839,Artificial Intelligence Approaches for Drug Safety Surveillance and Analysis,2013,102,0,2,0.691363,2105614844,Michael E. Matheny,0,0.003708468606338,0.082832279151172
+2531014190,Developing Combination Cancer Therapy from Ontology Fingerprint Derived Gene Network,2015,0,0,7,0.833333,2167803262,W. Jim Zheng,0,0.34208215495682426,-0.4460170753742258
+2585944124,Evaluation of vector space models for medical disorders information retrieval,2013,0,0,5,0.890909,2122275476,Yaoyun Zhang,0,0.32058892313008186,-1.2556010943429814
+2514033258,A long journey to short abbreviations developing an open-source framework for clinical abbreviation recognition and disambiguation (CARD),2016,37,18,10,0.989228,2290077271,Yonghui Wu,0,0.09894671261016653,0.4063152618660422
+2622474949,A hybrid approach to automatic de-identification of psychiatric notes,2017,36,10,5,1.0,2122275476,Yaoyun Zhang,0,0.003708468606338,0.082832279151172
+2725767123,Introduction The International Conference on Intelligent Biology and Medicine (ICIBM) 2016 Special focus on medical informatics and big data,2017,11,0,3,0.0,2142129985,Cui Tao,0,0.003708468606338,0.082832279151172
+2587209343,Identification of adverse drug-drug interactions through causal association rule discovery from spontaneous adverse event reports,2017,48,23,6,0.0,2241428450,Ruichu Cai,0,-0.3853740230862129,0.1304194402904599
+2727926256,An active learning-enabled annotation system for clinical named entity recognition,2017,17,5,11,1.0,2221373347,Yukun Chen,0,0.003708468606338,0.082832279151172
+2735147013,Leveraging syntactic and semantic graph kernels to extract pharmacokinetic drug drug interactions from biomedical literature,2016,0,0,7,1.0,2122275476,Yaoyun Zhang,0,0.3800127224570261,0.21004767587848977
+2729275743,Lightweight predicate extraction for patient-level cancer information and ontology development,2017,30,1,4,0.0,2565274921,Muhammad Amith,0,2.7015687136968656,-2.4496331818907353
+2620617644,An Empirical Study for Impacts of Measurement Errors on EHR based Association Studies,2016,0,11,6,1.0,2621060275,Rui Duan,0,0.34402371984857977,0.18048399119476494
+2621287580,GWAS Finder Search Engine for GWAS Datasets in Biomedical Literature,2016,0,0,3,0.0,2530673307,Xiao Dong,0,0.003708468606338,0.082832279151172
+2773666933,PIE A prior knowledge guided integrated likelihood estimation method for bias reduction in association studies using electronic health records data,2018,39,6,6,0.0,2793324649,Jing Huang,0,0.003708468606338,0.082832279151172
+2785664611,A publicly available benchmark for biomedical dataset retrieval the reference standard for the 2016 bioCADDIE dataset retrieval challenge,2017,18,13,10,0.0,2167957381,Trevor Cohen,0,0.003708468606338,0.082832279151172
+2783207633,DataMed - an open source discovery index for finding biomedical datasets,2018,38,12,22,0.0,2584323042,Xiaoling Chen,0,0.003708468606338,0.082832279151172
+2786943214,Expressing Biomedical Ontologies in Natural Language for Expert Evaluation,2017,0,3,5,0.0,2565274921,Muhammad Amith,0,1.4816071209577035,-1.4667966887348272
+2808379857,A study of generalizability of recurrent neural network-based predictive models for heart failure onset risk using a large and heterogeneous EHR data set,2018,11,13,8,0.0,2810137931,Laila Rasmy,0,-0.7724107134428325,-0.7227735480090876
+2793989961,Interactive medical word sense disambiguation through informed learning,2018,23,4,3,0.0,2618535762,Yue Wang,0,-0.10043711891701597,-0.28573177243364906
+2886805472,Extraction of BI-RADS findings from breast ultrasound reports in Chinese using deep learning approaches,2018,30,9,13,0.0,2120670139,Shumei Miao,0,0.003708468606338,0.082832279151172
+2884462261,Identifying direct temporal relations between time and events from clinical notes,2018,25,3,6,1.0,2593589615,Hee Jin Lee,0,0.3093702597112594,0.0781901659384289
+2885305010,Predict effective drug combination by deep belief network and ontology fingerprints,2018,34,7,3,1.0,2295981533,Guocai Chen,0,0.34208215495682426,-0.4460170753742258
+2912324667,Integrating shortest dependency path and sentence sequence into a deep learning framework for relation extraction in clinical text,2019,34,7,6,1.0,2912197623,Zhiheng Li,0,-0.8188371286862764,-0.7208867665311548
+2913741669,Temporal indexing of medical entity in Chinese clinical notes,2019,22,2,5,0.0,2801582951,Zengjian Liu,0,-0.13275296294680305,-0.071629888206014
+2938819755,A fine-grained Chinese word segmentation and part-of-speech tagging corpus for clinical text,2019,12,4,6,0.0,2935895643,Ying Xiong,0,0.22634389122649645,-0.1273762847622864
+2959026463,Cost-aware active learning for named entity recognition in clinical text,2019,8,0,11,1.0,2762844879,Qiang Wei,0,0.003708468606338,0.082832279151172
+2955483668,Enhancing clinical concept extraction with contextual embeddings,2019,46,29,3,0.0,2805753081,Yuqi Si,0,0.003708468606338,0.082832279151172
+2947903144,A study of deep learning approaches for medication and adverse drug event extraction from clinical text,2020,23,4,12,1.0,2762844879,Qiang Wei,0,-0.8188371286862764,-0.7208867665311548
+2976298486,Extracting entities with attributes in clinical text via joint deep learning,2019,14,0,9,0.0,2960682787,Xue Shi,0,-0.8188371286862764,-0.7208867665311548
+2993436875,Applying a deep learning-based sequence labeling approach to detect attributes of medical concepts in clinical text,2019,21,1,9,0.80963,2717198922,Jun Xu,0,0.3093702597112594,0.0781901659384289
+2996582092,Learning from electronic health records across multiple sites A communication-efficient and privacy-preserving distributed algorithm,2020,20,2,6,1.0,2621060275,Rui Duan,0,-0.08219684055276005,0.4370923699984199
+3016304771,A study of entity-linking methods for normalizing Chinese diagnosis and procedure terms to ICD codes,2020,17,0,10,0.0,2992620990,Qiong Wang,0,0.003708468606338,0.082832279151172
+2099188065,Automated Acquisition of Diseaseâ€“Drug Knowledge from Biomedical and Clinical Documents An Initial Study,2008,53,154,7,0.0,2066722336,Marianthi Markatou,0,0.06384092643852128,0.16982833783763127
+2101086247,Applying active learning to high-throughput phenotyping algorithms for electronic health records data,2013,43,67,7,1.0,2055944475,Anne E. Eyler,0,-0.0160484811255519,-0.31555163086887356
+2112656327,Comparative analysis of pharmacovigilance methods in the detection of adverse drug reactions using electronic medical records,2013,48,45,7,0.866004,2626400204,Mei Liu,0,0.003708468606338,0.082832279151172
+2162364899,A hybrid system for temporal information extraction from clinical text,2013,35,69,7,1.0,2083395585,Buzhou Tang,0,0.003708468606338,0.082832279151172
+2154048976,Portability of an algorithm to identify rheumatoid arthritis in electronic health records,2012,41,143,10,0.0,2309945167,Robert Carroll,0,0.003708468606338,0.082832279151172
+2151363315,Extracting timing and status descriptors for colonoscopy testing from electronic medical records,2010,32,51,8,0.741935,2143892069,Joshua C. Denny,0,0.003708468606338,0.082832279151172
+2398748775,Analyzing differences between chinese and english clinical text a cross-institution comparison of discharge summaries in two languages,2013,13,8,11,1.0,2290077271,Yonghui Wu,0,0.003708468606338,0.082832279151172
+2163141833,Applying active learning to supervised word sense disambiguation in MEDLINE,2013,30,22,5,1.0,2221373347,Yukun Chen,0,0.003708468606338,0.082832279151172
+2135616521,A comparison of conditional random fields and structured support vector machines for chemical entity recognition in biomedical literature,2015,33,21,9,0.691176,2083395585,Buzhou Tang,0,0.11650870830752491,-0.023237241228780736
+2125555727,Domain adaptation for semantic role labeling of clinical text,2015,61,9,6,0.890909,2122275476,Yaoyun Zhang,0,0.003708468606338,0.082832279151172
+2148349752,Syntactic parsing of clinical text guideline and corpus development with handling ill-formed sentences,2013,40,18,7,0.0,2102680234,Daniel S. Zisook,0,0.003708468606338,0.082832279151172
+2190421341,A comprehensive study of named entity recognition in Chinese clinical text,2014,33,70,5,1.0,2083395585,Buzhou Tang,0,0.003708468606338,0.082832279151172
+2729101176,Entity recognition from clinical texts via recurrent neural network,2017,49,44,8,0.0,2468844742,Zengjian Liu,0,0.003708468606338,0.082832279151172
+2939903565,Time-sensitive clinical concept embeddings learned from large electronic health records,2019,21,1,16,0.0,2802798220,Yang Xiang,0,-0.3473793728160243,0.24861357896709396

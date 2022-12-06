@@ -1,0 +1,88 @@
+175412352,Stream data mining using the MOA framework,2012,6,13,5,0.131868,2008431275,Philipp Kranen,0,-0.2627394811197351,0.6640919509983171
+109131977,CD-MOA Change Detection Framework for Massive Online Analysis,2013,16,23,1,1.0,307521372,Albert Bifet,0,-0.3071707790168831,0.5882851112457945
+112212620,Proceedings of the 2010 conference on Adaptive Stream Mining Pattern Learning and Mining from Evolving Data Streams,2010,0,4,1,1.0,307521372,Albert Bifet,0,-0.1071931497347323,0.3242721482837629
+27170557,Early Drift Detection Method,2005,12,298,1,1.0,307521372,Albert Bifet,0,-0.9544538063824742,-0.007634870087734669
+164124199,Pitfalls in benchmarking data stream classification and how to avoid them,2013,27,46,1,1.0,307521372,Albert Bifet,0,-0.18586685958773827,1.541612088796987
+34738725,Batch-incremental versus instance-incremental learning in dynamic and evolving data,2012,30,60,2,0.563038,2292299320,Jesse Read,0,0.5118271003298221,-0.05733584485088209
+402399454,Efficient multi-label classification for evolving data streams,2010,20,16,1,1.0,307521372,Albert Bifet,0,0.3867188002095276,0.13432444227392634
+992823099,An efficient closed frequent itemset miner for the MOA stream mining system,2015,22,11,2,0.75,2227764524,Massimo Quadrana,0,0.5118271003298221,-0.05733584485088209
+1525647652,Adaptive Learning from Evolving Data Streams,2009,11,166,1,1.0,307521372,Albert Bifet,0,1.1912377731466026,0.6175606481065061
+1562693942,Clustering Based Active Learning for Evolving Data Streams,2013,27,23,2,0.326127,2288551980,Dino Ienco,0,0.18032110350743952,0.048953106691315695
+1595699198,Adaptive XML Tree Mining on Evolving Data Streams,2009,4,1,1,1.0,307521372,Albert Bifet,0,-1.0718217598109958,0.09337370240467305
+1577823635,Fast perceptron decision tree learning from evolving data streams,2010,28,63,1,1.0,307521372,Albert Bifet,0,0.5224937384077333,0.7461456292563017
+1958174753,MOA a real-time analytics open source framework,2011,5,36,1,1.0,307521372,Albert Bifet,0,0.2256852963697335,0.7721387675628859
+1908113692,Data Stream Classification Using Random Feature Functions and Novel Method Combinations,2015,19,1,2,0.494497,2292299320,Jesse Read,0,-0.1071931497347323,0.3242721482837629
+1589103494,Mining Frequent Closed Unordered Trees Through Natural Representations,2007,25,11,2,0.0,2115119778,JosÃ© L. BalcÃ¡zar,0,0.17951705306855067,-0.12099532733397989
+1820062558,Adaptive XML tree classification on evolving data streams,2009,22,17,1,1.0,307521372,Albert Bifet,0,-0.4595879380166605,0.10176389801211914
+1696501374,Kaggle LSHTC4 Winning Solution,2014,7,14,3,0.0,1996945451,Antti Puurula,0,1.0636828371669016,0.45927233324101707
+1892468891,Mining frequent closed trees in evolving data streams,2011,34,7,1,1.0,307521372,Albert Bifet,0,-0.17155390063216575,0.20319820543971207
+1651580134,Improving Adaptive Bagging Methods for Evolving Data Streams,2009,24,41,1,1.0,307521372,Albert Bifet,0,0.2150525773733458,0.32320824601709136
+1921457292,Adaptive Stream Mining Pattern Learning and Mining from Evolving Data Streams,2010,134,79,1,1.0,307521372,Albert Bifet,0,0.038115015122938585,0.49802568731756824
+1924650641,Drift detection using stream volatility,2015,12,14,4,0.0,2146696840,David Tse Jung Huang,0,-0.15081131342370382,0.5335962185440597
+1964584498,Multi-label Classification with Meta-Labels,2014,14,14,3,0.563038,2292299320,Jesse Read,0,0.20367740504052664,0.23801579762430253
+1984630650,STRIP stream learning of influence probabilities,2013,21,37,2,0.0,2792472986,Konstantin Kutzkov,0,0.003708468606338,0.082832279151172
+1992019053,Efficient Online Evaluation of Big Data Stream Classifiers,2015,23,57,1,1.0,307521372,Albert Bifet,0,-0.18107597706906464,0.2881128706996846
+2017617850,Adaptive learning and mining for data streams and frequent patterns,2009,11,51,1,1.0,307521372,Albert Bifet,0,0.13974939160157027,0.1319201061263592
+2016159616,New ensemble methods for evolving data streams,2009,28,395,1,1.0,307521372,Albert Bifet,0,0.6931055918187734,0.31175455237936417
+2032196926,Ensembles of Restricted Hoeffding Trees,2012,24,18,1,1.0,307521372,Albert Bifet,0,0.1885873675580262,0.3219428272795758
+2030441459,Distributed Adaptive Model Rules for mining big data streams,2014,13,17,4,0.0,2145580290,Anh Thu Vu,0,-0.1454011348588303,0.19325576757975474
+2023586479,Change detection in categorical evolving data streams,2014,19,8,2,0.326127,2288551980,Dino Ienco,0,-0.1071931497347323,0.3242721482837629
+2011396747,An effective evaluation measure for clustering on evolving data streams,2011,38,52,5,0.236842,2130568417,Hardy Kremer,0,-0.6646760769495431,2.23096334177519
+2038624061,Scalable and efficient multi-label classification for evolving data streams,2012,38,76,2,0.563038,2292299320,Jesse Read,0,0.48478191061604536,0.0552979453861967
+2070845802,Efficient data stream classification via probabilistic adaptive windows,2013,22,31,1,1.0,307521372,Albert Bifet,0,0.37747157087316596,0.19202155109367497
+2102387656,Evaluation methods and decision theory for classification of streaming data with temporal dependence,2015,43,56,1,1.0,307521372,Albert Bifet,0,-0.29917783543354576,0.18780240697051775
+2099419573,A survey on concept drift adaptation,2014,162,923,2,0.0,2113857198,JoÃ£o Gama,0,-0.40340014967700527,0.5867251628091374
+2085668204,Mining frequent closed graphs on evolving data streams,2011,32,54,1,1.0,307521372,Albert Bifet,0,0.4115238163164932,-1.023337625911905
+2087866628,Next challenges for adaptive learning systems,2012,42,45,2,0.0,2057986279,Indre Zliobaite,0,-0.14443343021861968,0.12771493059625913
+2088439420,Deep learning in partially-labeled data streams,2015,18,18,3,0.494497,2292299320,Jesse Read,0,0.15714083079997598,0.2808888912321319
+2132277248,Kalman filters and adaptive windows for learning in data streams,2006,20,46,1,1.0,307521372,Albert Bifet,0,0.5283719617011442,0.09800645454614623
+2135335717,MOA Massive Online Analysis,2010,6,853,1,1.0,307521372,Albert Bifet,0,0.5283719617011442,0.09800645454614623
+2121837956,Subtree Testing and Closed Tree Mining Through Natural Representations,2007,18,8,2,0.0,2115119778,JosÃ© L. BalcÃ¡zar,0,0.7343188461490914,0.9125995797563835
+2134125037,Leveraging bagging for evolving data streams,2010,30,146,1,1.0,307521372,Albert Bifet,0,-0.008927275617521005,0.17789428724675455
+2117096839,Mining adaptively frequent closed unlabeled rooted trees in data streams,2008,20,29,1,1.0,307521372,Albert Bifet,0,-0.17398657429954972,-0.3424932624947944
+2143991132,Learning from Time-Changing Data with Adaptive Windowing,2007,14,576,1,1.0,307521372,Albert Bifet,0,-0.4591731640691668,0.5491353140353851
+2144344912,Clustering Performance on Evolving Data Streams Assessing Algorithms and Evaluation Measures within MOA,2010,16,18,5,0.155172,2008431275,Philipp Kranen,0,0.17370561514992974,0.9258434071098498
+2147551579,An Analysis of Factors Used in Search Engine Ranking,2005,12,41,1,1.0,307521372,Albert Bifet,0,0.003708468606338,0.082832279151172
+2145139979,Sentiment knowledge discovery in twitter streaming data,2010,23,382,1,1.0,307521372,Albert Bifet,0,0.30532313185204496,0.2406468160326996
+2163731957,MOA-TweetReader real-time analysis in Twitter streaming data,2011,28,33,1,1.0,307521372,Albert Bifet,0,0.10762906411540143,0.17549003769496518
+2145898068,MOA Massive Online Analysis a framework for stream classification and clustering,2010,42,130,1,1.0,307521372,Albert Bifet,0,-0.21892615613754504,0.5923622113437262
+2188089796,Accurate Ensembles for Data Streams Combining,2010,1,0,1,1.0,307521372,Albert Bifet,0,0.12120674878188187,0.40419254976825236
+2164364358,Mining big data current status and forecast to the future,2013,25,452,2,0.0,2491264568,Wei Fan,0,0.7189006980475607,0.3201349343011413
+2266593536,Adaptive Model Rules From High-Speed Data Streams,2016,32,19,3,0.0,2467055767,JoÃ£o Duarte,0,-0.3001455400737563,0.25334324395401336
+2287498853,StreamDM Advanced Data Mining in Spark Streaming,2015,10,15,1,1.0,307521372,Albert Bifet,0,0.09200651690850514,0.18915191223521047
+2279813022,Proceedings of the 1st International Workshop on Big Data Streams and Heterogeneous Source Mining Algorithms Systems Programming Models and Applications,2012,0,0,1,1.0,307521372,Albert Bifet,0,0.12492345808765674,0.23414093372237493
+2293330917,Using GNUsmail to Compare Data Stream Mining Methods for On-line Email Classification,2011,13,8,5,0.0,15822553,JosÃ© M. Carmona Cejudo,0,0.9196722561348901,0.1854808198305256
+2361024996,DATA STREAM MINING A Practical Approach,2009,145,149,1,1.0,307521372,Albert Bifet,0,-0.1071931497347323,0.3242721482837629
+2395577256,Real-Time Big Data Stream Analytics,2015,2,2,1,1.0,307521372,Albert Bifet,0,-0.35699819670919686,-0.04958891002880533
+2395711820,Accurate Ensembles for Data Streams Combining Restricted Hoeffding Trees using Stacking,2010,0,32,1,1.0,307521372,Albert Bifet,0,-0.1071931497347323,0.3242721482837629
+2406844478,An Efficient Closed Frequent Itemset Miner for the Moa Stream Mining System,2013,0,2,2,0.75,2227764524,Massimo Quadrana,0,0.003708468606338,0.082832279151172
+2489187437,Deferral classification of evolving temporal dependent data streams,2016,10,1,2,0.0,2166211886,Michael Mayo,0,0.12120674878188187,0.40419254976825236
+2414974126,Data stream classification using random feature functions and novel method combinations,2017,29,8,3,0.0,2625645820,Diego Marrn,0,0.010584049366503626,0.34466462828703454
+2478559024,VHT Vertical Hoeffding Tree,2016,5,4,3,0.0,67437274,Nicolas Kourtellis,0,1.4792796090156997,1.2726885392765201
+2461324856,Benchmarking Stream Clustering Algorithms within the MOA Framework,2010,13,2,1,1.0,307521372,Albert Bifet,0,-0.34664003795320086,1.6035554232325548
+2562121554,Echo state hoeffding tree learning,2016,0,1,3,1.0,2398966000,Diego Marron,0,0.0968536630403886,0.4505287113951586
+2545264114,Big Data Stream Learning with SAMOA,2014,8,23,1,1.0,307521372,Albert Bifet,0,-0.35985303826293,1.4718719678922862
+2517845378,On dynamic feature weighting for feature drifting data streams,2016,38,15,5,0.5,1993498403,Jean Paul Barddal,0,0.5946063756788157,0.14262125193366665
+2535178740,Incremental Ensemble Classifier Addressing Non-stationary Fast Data Streams,2014,24,12,3,0.0,2111025658,Brandon Parker,0,-0.049084454276736536,0.10943231243204514
+2508807458,IoT Big Data Stream Mining,2016,0,31,2,0.284646,2153118160,Gianmarco De Francisci Morales,0,-0.10266000521091491,0.5406340555811893
+2602516395,A Survey on Ensemble Learning for Data Stream Classification,2017,157,117,4,0.625,2169824454,Heitor Murilo Gomes,0,-0.013501244181102278,0.04935489724512839
+2626498001,Adaptive random forests for evolving data stream classification,2017,42,85,2,0.625,2169824454,Heitor Murilo Gomes,0,0.35653791437474597,-0.07708195429062088
+2742642850,Extremely Fast Decision Tree Mining for Evolving Data Streams,2017,21,28,1,1.0,307521372,Albert Bifet,0,0.3174319139149045,0.559314541142739
+2783531963,Low-latency multi-threaded ensemble learning for dynamic big data streams,2017,16,3,5,1.0,2398966000,Diego Marron,0,-0.22056295870616616,0.09280740291231472
+2784180140,Predicting over-indebtedness on batch and streaming data,2017,36,1,2,0.857143,2783622431,Jacob Montiel,0,-0.14154937070898596,0.10917442829570086
+2905238522,Bitcoin Volatility Forecasting with a Glimpse into Buy and Sell Orders,2018,28,12,2,0.0,2166312522,Tian Guo,0,0.003708468606338,0.082832279151172
+2912796253,Learning Fast and Slow A Unified Batch/Stream Framework,2018,22,0,2,0.857143,2783622431,Jacob Montiel,0,0.5987563331447421,0.03726822673277552
+2913222753,Proceedings of the 3rd International Conference on Big Data Streams and Heterogeneous Source Mining Algorithms Systems Programming Models and Applications - Volume 36,2014,0,0,1,1.0,307521372,Albert Bifet,0,0.12492345808765674,0.23414093372237493
+2913287340,A Sketch-Based Naive Bayes Algorithms for Evolving Data Streams,2018,28,1,3,0.0,2913880875,Maroua Bahri,0,0.7075421658179869,0.014670431303233552
+2913725475,DyBED An Efficient Algorithm for Updating Betweenness Centrality in Directed Dynamic Graphs,2018,30,3,2,0.0,2746070880,Mostafa Haghir Chehreghani,0,0.003708468606338,0.082832279151172
+2892145319,Merit-guided dynamic feature selection filter for data streams,2019,43,6,4,0.5,1993498403,Jean Paul Barddal,0,0.12120674878188187,0.40419254976825236
+2911862380,Boosting decision stumps for dynamic feature selection on data streams,2019,46,4,4,0.5,1993498403,Jean Paul Barddal,0,0.25782372412914756,0.0014786392266137038
+2893016462,On learning guarantees to unsupervised concept drift detection on data streams,2019,48,11,4,0.0,2122696306,Rodrigo Fernandes de Mello,0,0.35119209269327,1.0867220968185796
+2911946952,EXAD A System for Explainable Anomaly Detection on Big Data Traces,2018,15,2,5,0.0,2911666880,Fei Song,0,0.21724322543405053,0.17868787423644428
+2949906273,Use of Ensembles of Fourier Spectra in Capturing Recurrent Concepts in Data Streams,2015,8,3,3,0.0,613243371,Sripirakas Sakthithasan,0,0.04709206819752631,0.47222175242901887
+2962823293,Recurring concept meta-learning for evolving data streams,2019,44,4,4,0.0,2775839591,Robert F. Anderson,0,0.6042010212454766,0.11644556943623514
+2963547227,VHT Vertical hoeffding tree,2016,19,16,3,0.0,67437274,Nicolas Kourtellis,0,0.20183647341245234,0.4121342760547602
+2964050266,Towards Automated Configuration of Stream Clustering Algorithms,2019,13,0,3,0.0,2222814544,Matthias Carnein,0,-0.02535659547480161,0.35730442377653937
+3003804390,Streaming Random Patches for Evolving Data Stream Classification,2019,39,0,3,0.0,2995873663,Heitor Murilo Gomes,0,-0.1437712618602513,0.12528801466620912
+3007647684,Feature Scoring using Tree-Based Ensembles for Evolving Data Streams,2019,30,0,4,0.0,2995873663,Heitor Murilo Gomes,0,-0.103400757320397,0.17817056426176334
+3008463620,Semi-supervised Learning over Streaming Data using MOA,2019,21,0,3,0.0,3008773337,Minh Huong Le Nguyen,0,-0.29917783543354576,0.18780240697051775

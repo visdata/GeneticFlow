@@ -1,0 +1,34 @@
+137525769,Hyder - A Transactional Record Manager for Shared Flash,2011,27,144,3,0.0,2304774990,Philip A. Bernstein,0,0.8262275074072228,1.2154601183090024
+1516134969,Data management challenges in cloud computing infrastructures,2010,17,61,4,0.0,2169544959,Divyakant Agrawal,0,0.3551058860951193,0.4637035435100677
+1485380506,Database scalability elasticity and autonomy in the cloud,2011,25,65,2,1.0,2094668902,Aaron J. Elmore,0,0.9486908124780075,-0.017735594535287585
+1591785915,Isolating Resources and Performance in a Database Management System,2013,84,8,3,0.0,2057455714,Vivek Narasayya,0,-0.0041099411153885,0.0447066884760059
+1975814632,Optimizing Optimistic Concurrency Control for Tree-Structured Log-Structured Databases,2015,31,30,2,0.0,2304774990,Philip A. Bernstein,0,1.8810956276330444,2.2721813901269208
+1982981236,InfoPuzzle exploring group decision making in mobile peer-to-peer databases,2012,8,0,2,0.833333,2094668902,Aaron J. Elmore,0,-0.0041099411153885,0.0447066884760059
+1998282059,Big data and cloud computing new wine or just new bottles ,2010,13,65,1,1.0,2097994246,Sudipto Das,0,-0.8108869101754949,-0.5610543088740699
+1998688529,Rethinking eventual consistency,2013,29,36,2,0.0,2304774990,Philip A. Bernstein,0,0.0835119396817451,0.051530138659233005
+2013373704,Ricardo integrating R and Hadoop,2010,18,152,1,1.0,2097994246,Sudipto Das,0,0.6735566392060468,0.43241430704234063
+2036260704,Big data and cloud computing current state and future opportunities,2011,30,400,2,0.0,2169544959,Divyakant Agrawal,0,0.2962341605216635,0.11197156295513623
+2078199441,A demonstration of SQLVM performance isolation in multi-tenant relational database-as-a-service,2013,5,15,2,0.0,2057455714,Vivek Narasayya,0,0.6462608860755937,0.01446190105247116
+2100628838,Characterizing tenant behavior for placement and crisis mitigation in multitenant DBMSs,2013,27,41,2,0.75,2094668902,Aaron J. Elmore,0,-0.0041099411153885,0.0447066884760059
+2101123884,Zephyr live migration in shared nothing databases for elastic cloud platforms,2011,25,188,2,1.0,2094668902,Aaron J. Elmore,0,0.5130648384828798,0.08888713652978159
+2081360300,Albatross lightweight elasticity in shared storage databases for the cloud using live data migration,2011,22,169,1,1.0,2097994246,Sudipto Das,0,1.545452160244275,1.3158532007720694
+2117689707,Thread cooperation in multicore architectures for frequency counting over multiple data streams,2009,31,43,1,1.0,2097994246,Sudipto Das,0,-0.0041099411153885,0.0447066884760059
+2138682683,Anonymizing weighted social network graphs,2010,17,72,1,1.0,2097994246,Sudipto Das,0,0.03565810966282755,0.09825506972366725
+2123964197,CoTS A Scalable Framework for Parallelizing Frequency Counting over Data Streams,2009,20,8,1,1.0,2097994246,Sudipto Das,0,-0.42845202490949574,0.1450203979855267
+2165293729,CAM conscious integrated answering of frequent elements and top-k queries over data streams,2008,50,8,1,1.0,2097994246,Sudipto Das,0,-0.2527867520105758,-0.6520810989020315
+2150503355,ElasTraS An elastic scalable and self-managing transactional database for the cloud,2013,54,133,1,1.0,2097994246,Sudipto Das,0,1.3724241715046883,1.3777258482034707
+2183640031,Whos Driving this Cloud Towards Efficient Migration for Elastic and Autonomic Multitenant Databases,2010,10,18,2,1.0,2094668902,Aaron J. Elmore,0,0.29921721754546365,-0.07138357900581431
+2186497938,Towards an Elastic and Autonomic Multitenant Database,2011,19,27,2,1.0,2094668902,Aaron J. Elmore,0,0.29921721754546365,-0.07138357900581431
+2184900279,SQLVM Performance Isolation in Multi-Tenant Relational Database-as-a-Service,2013,11,56,2,0.0,2057455714,Vivek Narasayya,0,0.20454772835492946,-0.12004678073390665
+2188690303,Live Database Migration for Elasticity in a Multitenant Database for Cloud Platforms,2010,32,38,1,1.0,2097994246,Sudipto Das,0,1.0872063227858983,0.6409746160043694
+2399922670,Scaling Optimistic Concurrency Control by Approximately Partitioning the Certifier and Log,2015,20,4,2,0.0,2304774990,Philip A. Bernstein,0,1.1742379448562346,1.7581162361948774
+2405723850,CPU sharing techniques for performance isolation in multi-tenant relational database-as-a-service,2013,26,30,1,1.0,2097994246,Sudipto Das,0,0.5325669973310596,0.09709227568458595
+2400173648,Rethinking eventual consistency can we do better ,2013,0,0,1,1.0,2097994246,Sudipto Das,0,0.10128414562090012,0.3471354700175153
+2429298957,Automated Demand-driven Resource Scaling in Relational Database-as-a-Service,2016,146,18,1,1.0,2097994246,Sudipto Das,0,0.678241018287439,0.016958730972392384
+2420834298,Accelerating Relational Databases by Leveraging Remote Memory and RDMA,2016,27,25,2,0.0,2883443308,Feng Li,0,-0.0041099411153885,0.0447066884760059
+2599166838,Partitioning advisor for online transaction processing workloads,2015,29,0,1,1.0,2097994246,Sudipto Das,0,1.3693428281078734,0.9237507248816451
+2758797186,MEMORY SHARING FOR WORKING DATA USING RDMA,2017,47,13,3,0.0,2057455714,Vivek Narasayya,0,-0.0041099411153885,0.0447066884760059
+2799108731,Columnstore and B+ tree - Are Hybrid Physical Designs Important ,2018,20,5,3,0.0,2057455714,Vivek Narasayya,0,1.1853297966155454,1.0497461938207067
+2883510886,Plan stitch harnessing the best of many plans,2018,29,6,2,0.0,2007579070,Bailu Ding,0,-0.454060165783434,0.3104832327926159
+2918549777,Automatically Indexing Millions of Databases in Microsoft Azure SQL Database,2019,24,4,1,1.0,2097994246,Sudipto Das,0,-0.025297524451438253,0.786282287034502
+2952713209,ElasTraS An Elastic Transactional Data Store in the Cloud,2010,18,0,1,1.0,2097994246,Sudipto Das,0,0.5150370172060083,0.7572044078650997

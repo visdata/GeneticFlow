@@ -1,0 +1,58 @@
+2735025040,Imitation from Observation Learning to Imitate Behaviors from Raw Video via Context Translation,2017,43,11,4,1.0,2604642998,YuXuan Liu,0,0.016357069610664,0.0645642369777481
+2765349170,Self-Supervised Visual Planning with Temporal Skip Connections,2017,21,56,4,1.0,2765432055,Frederik Ebert,0,0.016357069610664,0.0645642369777481
+2765994785,The Feeling of Success Does Touch Sensing Help Predict Grasp Outcomes ,2017,34,32,3,0.0,219819714,Edward H. Adelson,0,0.016357069610664,0.0645642369777481
+2769112066,Time-Contrastive Networks Self-Supervised Learning from Video,2018,0,84,7,1.0,37905947,Pierre Sermanet,0,0.19273499667151017,0.3149483151666419
+2754876573,Learning Robotic Manipulation of Granular Media,2017,32,8,4,0.0,2054642346,Connor Schenck,0,0.016357069610664,0.0645642369777481
+2786110872,Shared Autonomy via Deep Reinforcement Learning,2018,23,29,2,1.0,2286135830,Siddharth Reddy,0,0.016357069610664,0.0645642369777481
+2796290181,DeepMimic Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills,2018,53,149,3,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481
+2804010078,Universal Planning Networks Learning Generalizable Representations for Visuomotor Control,2018,0,17,4,0.0,2795602926,Aravind Srinivas,0,0.016357069610664,0.0645642369777481
+2787053496,One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning,2018,55,53,7,1.0,2640756932,Tianhe Yu,0,0.016357069610664,0.0645642369777481
+2804941773,More Than a Feeling Learning to Grasp and Regrasp Using Vision and Touch,2018,43,59,8,1.0,2114312016,Roberto Calandra,0,0.016357069610664,0.0645642369777481
+2901509721,Guiding Policies with Language via Meta-Learning,2018,40,3,6,1.0,2604469950,John D. Co Reyes,0,0.016357069610664,0.0645642369777481
+2898525034,One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks,2018,29,19,3,1.0,2640756932,Tianhe Yu,0,0.016357069610664,0.0645642369777481
+2894766094,SFV reinforcement learning of physical skills from videos,2019,60,43,5,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481
+2922301976,Manipulation by Feel Touch-Based Control with Deep Predictive Models,2019,23,10,7,0.0,2921016532,Stephen Tian,0,0.016357069610664,0.0645642369777481
+2896285993,Composable Action-Conditioned Predictors Flexible Off-Policy Learning for Robot Navigation,2018,0,3,4,1.0,2140368088,Gregory Kahn,0,0.016357069610664,0.0645642369777481
+2896313218,Dexterous Manipulation with Deep Reinforcement Learning Efficient General and Low-Cost,2018,26,7,4,1.0,2897915262,Henry Zhu,0,0.016357069610664,0.0645642369777481
+2938421504,End-to-End Robotic Reinforcement Learning without Reward Engineering,2019,45,30,5,0.0,2221235201,Avi Singh,0,0.016357069610664,0.0645642369777481
+2946222143,REPLAB A Reproducible Low-Cost Arm Benchmark Platform for Robotic Learning,2019,34,7,4,0.0,3016553419,Brian Yang,0,0.016357069610664,0.0645642369777481
+2949536664,Time-Contrastive Networks Self-Supervised Learning from Video,2017,47,47,7,1.0,37905947,Pierre Sermanet,0,0.016357069610664,0.0645642369777481
+2962736495,Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection,2018,41,494,1,1.0,2140030024,Sergey Levine,0,0.016357069610664,0.0645642369777481
+2962776080,Shared Autonomy via Deep Reinforcement Learning,2018,0,16,2,1.0,2286135830,Siddharth Reddy,0,0.016357069610664,0.0645642369777481
+2963026102,Guiding Policies with Language via Meta-Learning,2019,0,9,6,1.0,2604469950,John D. Co Reyes,0,0.016357069610664,0.0645642369777481
+2963143598,Learning Visual Predictive Models of Physics for Playing Billiards,2016,30,75,3,0.0,1128290216,Katerina Fragkiadaki,0,0.016357069610664,0.0645642369777481
+2963170432,Learning dexterous manipulation for a soft robotic hand from human demonstrations,2016,33,28,3,1.0,2312135413,Abhishek Gupta,0,0.016357069610664,0.0645642369777481
+2952842465,Learning Contact-Rich Manipulation Skills with Guided Policy Search,2015,25,41,1,1.0,2140030024,Sergey Levine,0,0.016357069610664,0.0645642369777481
+2963339188,Learning to Walk via Deep Reinforcement Learning,2018,0,19,6,0.0,2197904670,Tuomas Haarnoja,0,0.016357069610664,0.0645642369777481
+2963403593,Composable Deep Reinforcement Learning for Robotic Manipulation,2018,0,29,6,0.0,2197904670,Tuomas Haarnoja,0,0.19273499667151017,0.3149483151666419
+2963411833,Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations,2018,0,111,6,0.833333,2342102202,Aravind Rajeswaran,0,0.016357069610664,0.0645642369777481
+2963438456,Diversity is All You Need Learning Skills without a Reward Function,2019,0,43,4,1.0,2769668167,Benjamin Eysenbach,0,0.016357069610664,0.0645642369777481
+2963494435,Reasoning About Physical Interactions with Object-Oriented Prediction and Planning,2019,0,23,2,0.0,2750796603,Michael Janner,0,0.016357069610664,0.0645642369777481
+2937206389,Improvisation through Physical Understanding Using Novel Objects as Tools with Visual Foresight,2019,48,12,3,1.0,2886641667,Annie Xie,0,0.016357069610664,0.0645642369777481
+2963689319,Deep Object-Centric Representations for Generalizable Robot Learning,2018,0,26,4,1.0,2549226862,Coline Devin,0,0.19273499667151017,0.3149483151666419
+2953176712,Composable Action-Conditioned Predictors Flexible Off-Policy Learning for Robot Navigation,2018,14,2,4,1.0,2140368088,Gregory Kahn,0,0.016357069610664,0.0645642369777481
+2963703448,One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning,2018,0,30,7,1.0,2640756932,Tianhe Yu,0,0.016357069610664,0.0645642369777481
+2963780574,Leave no Trace Learning to Reset for Safe and Autonomous Reinforcement Learning,2018,0,14,4,1.0,2769668167,Benjamin Eysenbach,0,0.016357069610664,0.0645642369777481
+2963802910,Imitation from Observation Learning to Imitate Behaviors from Raw Video via Context Translation,2018,0,77,4,1.0,2604642998,YuXuan Liu,0,0.19273499667151017,0.3149483151666419
+2953326790,Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates,2016,0,29,4,1.0,2112773189,Shixiang Gu,0,0.016357069610664,0.0645642369777481
+2963894672,End-to-End Learning of Semantic Grasping,2017,0,21,5,0.0,2731650952,Eric Jang,0,0.016357069610664,0.0645642369777481
+2963921646,Learning Robotic Manipulation of Granular Media,2017,0,4,4,0.0,2054642346,Connor Schenck,0,0.016357069610664,0.0645642369777481
+2951419397,SFV Reinforcement Learning of Physical Skills from Videos,2018,39,8,5,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481
+2946054758,MCP Learning Composable Hierarchical Control with Multiplicative Compositional Policies,2019,36,11,5,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481
+2964091568,Improvisation through Physical Understanding Using Novel Objects As Tools with Visual Foresight,2019,0,3,3,1.0,2886641667,Annie Xie,0,0.016357069610664,0.0645642369777481
+2964262254,Learning modular neural network policies for multi-task and multi-robot transfer,2017,34,90,5,1.0,2549226862,Coline Devin,0,0.016357069610664,0.0645642369777481
+2978965280,Scaled Autonomy Enabling Human Operators to Control Robot Fleets,2019,19,0,3,0.0,2906919358,Gokul Swamy,0,0.016357069610664,0.0645642369777481
+2976223390,ROBEL Robotics Benchmarks for Learning with Low-Cost Robots,2019,37,9,6,0.0,2968172709,Michael Ahn,0,0.016357069610664,0.0645642369777481
+2982130342,Contextual Imagined Goals for Self-Supervised Robotic Learning,2019,42,4,6,0.0,2560050475,Ashvin Nair,0,0.0748210391128625,0.1923953045101454
+2996086858,AVID Learning Multi-Stage Tasks via Pixel-Level Translation of Human Videos,2019,61,2,5,0.0,2129679531,Laura M. Smith,0,0.016357069610664,0.0645642369777481
+2967936796,Manipulation by Feel Touch-Based Control with Deep Predictive Models,2019,23,9,7,0.0,2921016532,Stephen Tian,0,0.19273499667151017,0.3149483151666419
+2970990801,MCP Learning Composable Hierarchical Control with Multiplicative Compositional Policies,2019,0,6,5,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481
+2968340082,Dexterous Manipulation with Deep Reinforcement Learning Efficient General and Low-Cost,2019,28,16,4,1.0,2897915262,Henry Zhu,0,0.19273499667151017,0.3149483151666419
+2968585391,REPLAB A Reproducible Low-Cost Arm Benchmark for Robotic Learning,2019,28,2,4,0.0,3016553419,Brian Yang,0,0.016357069610664,0.0645642369777481
+2966564143,End-To-End Robotic Reinforcement Learning without Reward Engineering,2019,0,11,4,0.0,2221235201,Avi Singh,0,0.016357069610664,0.0645642369777481
+2981626359,RoboNet Large-Scale Multi-Robot Learning,2019,60,9,8,0.0,2885731566,Sudeep Dasari,0,0.016357069610664,0.0645642369777481
+3003820054,One-Shot Composition of Vision-Based Skills from Demonstration,2019,34,0,3,1.0,2640756932,Tianhe Yu,0,0.016357069610664,0.0645642369777481
+3022566517,Offline Reinforcement Learning Tutorial Review and Perspectives on Open Problems,2020,184,1,1,1.0,2140030024,Sergey Levine,0,0.016357069610664,0.0645642369777481
+3006388420,BADGR An Autonomous Self-Supervised Learning-Based Navigation System,2020,39,3,3,1.0,2140368088,Gregory Kahn,0,0.0748210391128625,0.1923953045101454
+3017409624,Efficient Adaptation for End-to-End Vision-Based Robotic Manipulation,2020,64,0,4,0.0,2891415456,Ryan Julian,0,0.016357069610664,0.0645642369777481
+3014488508,Learning Agile Robotic Locomotion Skills by Imitating Animals,2020,60,0,6,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481

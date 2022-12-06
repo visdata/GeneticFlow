@@ -1,0 +1,47 @@
+181764099,Two Flavors in Automated Software Repair Rigid Repair and Plastic Repair,2013,3,2,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+780213831,An Approach for Discovering Traceability Links between Regulatory Documents and Source Code Through User-Interface Labels,2013,10,1,2,0.0,2484189249,Antoine Mischler,0,-0.6187099202079455,0.02124498680478165
+655073358,Mining Repair Actions for Guiding Automated Program Fixing,2012,26,8,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+1480722678,Model-Driven Simulation of a Maritime Surveillance System,2008,3,11,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+1481876827,Model-Driven engineering of machine executable code,2010,18,6,2,0.0,336828806,Michael Eichberg,0,0.5334636279924235,0.413451380982796
+1888923430,Challenging Analytical Knowledge On Exception-Handling An Empirical Study of 32 Java Software Packages,2014,14,4,2,0.0,182829486,Romain Rouvoy,0,0.535795770705713,0.033415235376968
+1645558542,ASTOR Evolutionary Automatic Software Repair for Java,2014,10,5,2,1.0,2164567110,Matias Martinez,0,-0.0291855379334779,0.0585196112869768
+1970607969,Learning from examples to improve code completion systems,2009,25,204,2,1.0,2111236184,Marcel Bruch,0,-0.0291855379334779,0.0585196112869768
+1993932111,Crash reproduction via test case mutation let existing test cases help,2015,9,20,3,0.444444,2137955303,Jifeng Xuan,0,-0.0291855379334779,0.0585196112869768
+2071335341,Multitier Diversification in Web-Based Software Applications,2015,17,15,7,0.0,2264507260,Simon Allier,0,-0.0291855379334779,0.0585196112869768
+2080335484,Exception Handling Analysis and Transformation Using Fault Injection Study of Resilience Against Unanticipated Exceptions,2015,26,15,3,0.0,2809288784,Benoit Cornu,0,-0.0291855379334779,0.0585196112869768
+2097809170,Principles of Antifragile Software,2017,20,13,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2104107939,A critical review of &quot;automatic patch generation learned from human-written patches&quot; essay on the problem statement and the evaluation of automatic software repair,2014,41,109,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2135413075,Analytical Knowledge About Exception Handling,2014,0,0,2,0.0,182829486,Romain Rouvoy,0,-0.0291855379334779,0.0585196112869768
+2142741391,Do the fix ingredients already exist an empirical inquiry into the redundancy assumptions of program repair approaches,2014,12,57,3,1.0,2164567110,Matias Martinez,0,-0.0291855379334779,0.0585196112869768
+2122531516,Mashup of metalanguages and its implementation in the Kermeta language workbench,2015,42,36,4,0.0,2807702182,Jean Marc JÃ©zÃ©quel,0,-0.0291855379334779,0.0585196112869768
+2147743860,What should developers be aware of An empirical study on the directives of API documentation,2012,38,35,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2156015917,Mining subclassing directives to improve framework reuse,2010,22,16,3,1.0,2111236184,Marcel Bruch,0,0.2601095694671359,-1.1554810764998416
+2223572748,Automated runtime software repair,2013,0,0,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2344973853,Nopol Automatic Repair of Conditional Statement Bugs in Java Programs,2017,55,138,8,0.444444,2137955303,Jifeng Xuan,0,-0.0291855379334779,0.0585196112869768
+2343859580,B-Refactoring,2016,55,16,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2406244470,On Oracles for Automated Diagnosis and Repair of Software Bugs,2016,3,0,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2465133314,ASTOR a program repair library for Java (demo),2016,14,71,2,1.0,2164567110,Matias Martinez,0,-0.0291855379334779,0.0585196112869768
+2525922055,Production-Driven Patch Generation and Validation,2016,41,1,3,0.692308,2264761127,Thomas Durieux,0,-0.0291855379334779,0.0585196112869768
+2588094975,Production-driven patch generation,2017,10,1,3,0.705882,2264761127,Thomas Durieux,0,-0.0291855379334779,0.0585196112869768
+2735974352,Impact of tool support in patch construction,2017,44,14,5,0.857143,2735722450,Anil Koyuncu,0,-0.0291855379334779,0.0585196112869768
+2593365121,The Patches of the Nopol Automatic Repair System on the Bugs of Defects4J version 110,2017,0,6,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2761293740,Open-science and Travis continuous integration for reproducible scientific experiments,2016,0,0,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2765935404,Exhaustive Exploration of the Failure-Oblivious Computing Search Space,2018,22,4,4,0.705882,2264761127,Thomas Durieux,0,-0.0291855379334779,0.0585196112869768
+2808438073,How to design a program repair bot insights from the repairnator project,2017,35,28,4,0.6,2773387655,Simon Urli,0,-0.0291855379334779,0.0585196112869768
+2801076109,A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark,2019,35,13,3,0.0,2800623126,He Ye,0,-0.0291855379334779,0.0585196112869768
+2787871251,Astor Exploring the Design Space of Generate-and-Validate Program Repair beyond GenProg,2019,65,6,2,0.5,2164567110,Matias Martinez,0,-0.45852030700223123,0.22333703537111385
+2801789664,A Chaos Engineering System for Live Analysis and Falsification of Exception-handling in the JVM,2019,37,0,5,1.0,2800773141,Long Zhang,0,-0.0291855379334779,0.0585196112869768
+2928286702,An Approach and Benchmark to Detect Behavioral Changes of Commits in Continuous Integration,2019,36,0,2,0.0,2404000509,Benjamin Danglot,0,-0.0291855379334779,0.0585196112869768
+2901721765,Automatic test improvement with DSpot a study with ten mature open-source projects,2019,32,6,4,0.0,2404000509,Benjamin Danglot,0,-0.0006260477612278006,-0.26942038845386046
+2895953765,Coming a Tool for Mining Change Pattern Instances from Git Commits,2018,12,2,2,0.89685,2968372606,Matias Martinez,0,-0.0291855379334779,0.0585196112869768
+2906891953,TripleAgent Monitoring Perturbation and Failure-obliviousness for Automated Resilience Improvement in Java Applications,2018,36,0,2,1.0,2800773141,Long Zhang,0,-0.0291855379334779,0.0585196112869768
+2897490229,Human-competitive Patches in Automatic Program Repair with Repairnator,2018,5,1,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2952510797,Characterizing the Usage Evolution and Impact of Java Annotations in Practice,2020,32,1,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2944697551,Explainable software bot contributions case study of automated bug fixes,2019,8,5,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2950571912,BEARS An Extensible Java Bug Benchmark for Automatic Program Repair Studies,2019,19,14,4,0.0,2784755993,Fernanda Madeiral,0,-0.0291855379334779,0.0585196112869768
+2963364536,Coming a tool for mining change pattern instances from git commits,2019,18,5,2,0.89685,2968372606,Matias Martinez,0,-0.0291855379334779,0.0585196112869768
+2961757301,iFixR bug report driven program repair,2019,97,5,5,0.857143,2735722450,Anil Koyuncu,0,-0.0291855379334779,0.0585196112869768
+2976226634,Editors Note Special Issue on Automatic Software Repair,2018,0,0,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+2965720427,Repairnator patches programs automatically,2019,14,2,1,1.0,1273491846,Martin Monperrus,0,-0.0291855379334779,0.0585196112869768
+3000784322,A Comprehensive Study of Bloated Dependencies in the Maven Ecosystem,2020,39,0,3,0.0,2796492797,Cesar Soto Valero,0,-1.3660261895018349,0.07663175246617146
+2992334043,Using Sequence-to-Sequence Learning for Repairing C Vulnerabilities,2019,15,0,3,0.0,2819404011,Zimin Chen,0,-0.0291855379334779,0.0585196112869768

@@ -1,0 +1,153 @@
+205954294,A novel recovery mechanism enabling fine-granularity locking and fast REDO-only recovery,2014,19,2,2,0.836735,2097695795,Caetano Sauer,0,1.5257158016671408,1.779609490053766
+86919152,Towards an Efficient Flash-Based Mid-Tier Cache,2012,24,4,3,1.0,2145499437,Yi Ou,0,-0.0041099411153885,0.0447066884760059
+53010242,Database Caching Analysis of Constraint-based Approaches Exemplified by Cache Groups,2004,15,0,2,0.714286,2018876319,Andreas BÃ¼hmann,0,-0.0041099411153885,0.0447066884760059
+172245942,A Query Processing Approach for XML Database Systems,2005,6,5,2,0.923077,2098176964,Christian Mathis,0,2.0102110719771575,0.013641873338091887
+105021028,Towards Cost-based Query Optimization in Native XML Database Management Systems,2008,31,2,3,1.0,2152769093,Andreas M. Weiner,0,1.6363987707381673,-0.5526019524317022
+39141348,Sharing Product Data among Heterogeneous Workflow Environments,2002,5,15,3,1.0,2396775299,Markus Bon,0,1.0064450586195481,0.91558445589488
+107469738,Recovery in Multidatabase Systems,1999,16,4,2,0.0,2059970023,Angelo Brayner,0,-0.4809834190733957,0.6826007052910517
+39904548,Transactional Support in Native XML Databases,2008,0,0,1,1.0,2895435932,Theo HÃ¤rder,0,2.3340714804988334,-0.972054098918377
+141912388,A scan-driven sort facility for a relational database system,1977,6,8,1,1.0,2895435932,Theo HÃ¤rder,0,1.6838510843079446,0.25762588352110816
+142427849,Issues of flash-aware buffer management for database systems,2010,8,0,2,1.0,2145499437,Yi Ou,0,0.7717208285991095,1.0126536919721723
+91972152,DBMS Architecture - New Challenges Ahead,2005,28,8,1,1.0,2895435932,Theo HÃ¤rder,0,0.43739842239757626,0.009947045888208002
+6230691,Leveraging the storage layer to support XML similarity joins in XDBMSs,2012,12,1,2,1.0,2150482904,Leonardo Andrade Ribeiro,0,1.1238430075420955,-0.4655044443504992
+143243449,Benchmarking Performance-Critical Components in a Native XML Database System,2009,34,5,3,0.928571,2487720989,Karsten Schmidt,0,1.4169332845756961,-0.5269362679641636
+58548556,On Modeling Power of Object-Relational Data Models in Technical Applications,1997,12,3,2,1.0,2311592833,Nan Zhang,0,1.2200402218851625,0.14147745468116762
+58809204,Query Processing in Constraint-Based Database Caches,2004,3,13,1,1.0,2895435932,Theo HÃ¤rder,0,1.3346603508343653,0.46699184909556307
+128281931,Enriching Object-Relational Databases with Relationship Semantics,1997,20,6,2,1.0,2311592833,Nan Zhang,0,1.053778656394948,0.22297937218114441
+163168189,A Lock Manager for Collaborative Processing of Natively Stored XML Documents,2004,12,13,2,1.0,2526744523,Michael Peter Haustein,0,2.2193113628481025,-0.9015952299480917
+197941737,Anfrageoptimierung bei der Funktionsintegration in fÃ¶derierten Datenbanksystemen,2003,6,2,2,1.0,96551525,Klaudia Hergula,0,-0.0041099411153885,0.0447066884760059
+96275304,BrackitMR flexible XQuery processing in mapreduce,2013,4,1,3,1.0,2097695795,Caetano Sauer,0,1.122173415829556,-0.4997423411553021
+147730391,ACM TODS Publication Policy,1989,0,0,5,0.0,2030271208,Don Batory,0,-0.0041099411153885,0.0447066884760059
+79935763,Datenbank-Caching - Eine systematische Analyse mÃ¶glicher Verfahren,2004,12,6,1,1.0,2895435932,Theo HÃ¤rder,0,-0.2554006006761083,0.005185177391162952
+46992332,Parallel Query Evaluation A New Approach to Complex Object Processing,1989,8,2,1,1.0,2895435932,Theo HÃ¤rder,0,1.041340983378006,0.2383048397324937
+80970963,Realizing Fine-Granular and Scalable Transaction Isolation in Native XML Databases,2008,23,1,2,0.897959,2146505101,Sebastian BÃ¤chle,0,2.312133355096139,-1.0103457007185348
+149653300,DBMS Architecture - Still an Open Problem,2005,49,16,1,1.0,2895435932,Theo HÃ¤rder,0,1.9820334825851673,0.5892729359132264
+81890807,Towards Flash Disk Use in Databases - Keeping Performance While Saving Energy ,2009,15,10,4,1.0,2145499437,Yi Ou,0,-0.15439584752321023,0.46142759199380223
+31236152,Design and Architecture of the FDBS Prototype INFINITY,1997,18,5,1,1.0,2895435932,Theo HÃ¤rder,0,1.204501787921431,0.29860165833699415
+134231684,Processing and Optimizing Tree Pattern Queries in Native XML Database Management Systems,2008,0,0,2,1.0,2027320085,Sayyed Kamyar Izadi,0,2.2122869333768915,-0.7457082198624675
+49157963,Embedding Similarity Joins into Native XML Databases,2007,15,5,2,1.0,2150482904,Leonardo Andrade Ribeiro,0,0.8530198908921584,-0.39604169921091864
+49276441,Statistics for Cost-Based XML Query Optimization,2006,13,5,2,1.0,2129368310,JosÃ© de Aguiar Moraes Filho,0,2.2173878692067817,-0.8971848198504723
+32268353,Bericht zur BTW 2001,2001,0,0,3,1.0,2396775299,Markus Bon,0,-0.0041099411153885,0.0447066884760059
+66933407,An Adaptive Storage Manager for XML Documents,2007,14,1,2,0.844444,2487720989,Karsten Schmidt,0,3.0545643611800437,-1.1543824502357865
+84684441,Datenbankgruppen vorgestellt AG DBIS der UniversitÃ¤t Kaiserslautern,2001,0,0,1,1.0,2895435932,Theo HÃ¤rder,0,-0.0041099411153885,0.0447066884760059
+16295398,Wear-Aware Algorithms for PCM-Based Database Buffer Pools,2014,15,4,4,1.0,2145499437,Yi Ou,0,-0.0041099411153885,0.0447066884760059
+187816349,Optimization of Logging and Recovery in a Database System,1979,0,12,1,1.0,2895435932,Theo HÃ¤rder,0,-0.0041099411153885,0.0447066884760059
+17229601,Versatile XQuery Processing in MapReduce,2013,12,5,3,1.0,2097695795,Caetano Sauer,0,0.6379441900662585,0.18467522616871862
+269907875,Observations on Fine-Grained Locking in XML DBMSs,2014,15,0,3,0.0,2478843697,Martin Hiller,0,0.9262505658373984,0.5212801663068866
+935376432,Approximating an Energy-Proportional DBMS by a Dynamic Cluster of Nodes,2014,19,8,2,1.0,2069056841,Daniel Schall,0,0.7721308498568376,1.6215012352306841
+1513930467,Making the most of cache groups,2007,5,1,2,0.714286,2018876319,Andreas BÃ¼hmann,0,-0.0041099411153885,0.0447066884760059
+1541164465,On a buzzword &quot;extensibility&quot;-what we have learned from the ORIENT project ,1999,13,5,2,1.0,2311592833,Nan Zhang,0,0.34930839462583185,0.07727078196906455
+1505578408,Metaprogramming for Relational Databases,2004,10,1,3,1.0,321376716,Jernej Kovse,0,0.7450801407526599,-0.016811992857865343
+1550817051,Ingredients for accurate fast and robust XML similarity joins,2011,13,0,2,1.0,2150482904,Leonardo Andrade Ribeiro,0,1.732756949353132,-0.7133980032863496
+1481478942,Dynamic physiological partitioning on a shared-nothing database cluster,2015,24,6,2,1.0,2069056841,Daniel Schall,0,0.10936223934809694,-0.32707188763132755
+1517629991,Hash-based structural join algorithms,2006,16,14,2,0.923077,2098176964,Christian Mathis,0,0.3835079262263412,-0.1265954636195276
+1500554934,Implementing Dynamic Code Assembly for Client-Based Query Processing,1995,14,10,3,0.0,2688428276,Joachim Thomas,0,0.10496813513707853,0.3561609510601247
+1501139328,Database Caching â€“ Towards a Cost Model for Populating Cache Groups,2004,12,6,2,0.714286,2018876319,Andreas BÃ¼hmann,0,-0.0041099411153885,0.0447066884760059
+1483753043,XML databases and beyond-plenty of architectural challenges ahead,2005,20,7,1,1.0,2895435932,Theo HÃ¤rder,0,2.3690877857487234,-0.9256772058389815
+1492599193,Capturing design dynamics /spl minus/ the CONCORD approach,1994,14,4,3,1.0,2145807834,Norbert Ritter,0,-0.0041099411153885,0.0447066884760059
+1527836562,DSL-DIA â€“ An Environment for Domain-Specific Languages for Database-Intensive Applications,2003,8,2,2,1.0,321376716,Jernej Kovse,0,-0.03376483039842629,0.08730389094309916
+1492633670,Value complete column complete predicate complete,2008,17,21,1,1.0,2895435932,Theo HÃ¤rder,0,-0.0041099411153885,0.0447066884760059
+1484324436,Generating Call-Level Interfaces for Advanced Database Application Programming,1999,18,6,2,0.0,169917499,Udo Nink,0,1.2278211111779949,0.23363004847952157
+1537528977,Energy efficiency is not enough energy proportionality is needed ,2011,21,19,4,0.333333,183509302,Volker Hudlet,0,-0.0041099411153885,0.0447066884760059
+1493379225,Key concepts for native XML processing,2010,65,1,1,1.0,2895435932,Theo HÃ¤rder,0,2.767973045838458,-1.0689737471010783
+1564671526,New approaches to object processing in engineering databases,1986,0,10,1,1.0,2895435932,Theo HÃ¤rder,0,1.0311674743613866,0.6231830396049595
+1528788931,The Real Performance Drivers behind XML Lock Protocols,2009,20,6,2,0.941176,2146505101,Sebastian BÃ¤chle,0,1.4696853262932188,-0.5563118177450647
+1511631491,dLIMIT - A Middleware Framework for Loosely-Coupled Database Federations,1998,1,3,2,0.0,2973840136,Henrik Loeser,0,-0.15609072517921035,0.3943804958648594
+1538764408,Implementing and Optimizing Fine-Granular Lock Management for XML Document Trees,2009,23,10,2,0.941176,2146505101,Sebastian BÃ¤chle,0,0.9929264075079214,-0.3701746176512239
+1503252760,Adjustable Transaction Isolation in XML Database Management Systems,2004,13,29,2,1.0,2526744523,Michael Peter Haustein,0,2.3485049625640406,-0.9375414068725034
+1511789310,Which Kinds of OS Mechanisms Should be Provided for Database Management,1987,46,3,2,0.0,2275191653,Hans Peter Christmann,0,0.7631254069395957,0.3592531770818046
+1494815932,Using Structural Joins and Holistic Twig Joins for Native XML Query Optimization,2009,17,11,2,1.0,2152769093,Andreas M. Weiner,0,1.140181700101135,-0.4181124084910797
+1575318767,A middleware-based approach to database caching,2006,6,7,2,0.714286,2018876319,Andreas BÃ¼hmann,0,-0.19196147509311953,0.14487620954580122
+1566232490,A Scalable Framework for Serializable XQuery,2010,26,1,2,1.0,2146505101,Sebastian BÃ¤chle,0,1.8220819991254051,-0.22801654837369212
+1558455905,Evaluating Performance and Quality of XML-Based Similarity Joins,2008,15,9,2,1.0,2150482904,Leonardo Andrade Ribeiro,0,2.2264543832113666,-0.864750789273662
+1928533672,Enriched relationship processing in object-relational database management systems,2001,19,9,3,1.0,2311592833,Nan Zhang,0,0.7688830577255684,0.13138069792017384
+1578642258,taDOM A Tailored Synchronization Concept with Tunable Lock Granularity for the DOM API,2003,10,28,2,1.0,2526744523,Michael Peter Haustein,0,1.4954370628687452,-0.49173777079583997
+1579124325,Caching over the entire user-to-data path in the internet,2005,25,1,1,1.0,2895435932,Theo HÃ¤rder,0,-0.0041099411153885,0.0447066884760059
+1816319839,PRIMA - a DBMS Prototype Supporting Engineering Applications,1987,24,111,1,1.0,2895435932,Theo HÃ¤rder,0,0.09390604392642772,0.3000129898517582
+1853782755,DeweyIDs - The Key to Fine-Grained Management of XML Documents,2005,12,30,2,1.0,2526744523,Michael Peter Haustein,0,2.6292129838786646,-1.0543855049636153
+1599461280,Concurrency Control in Nested Transactions with Enhanced Lock Models for KBMSs,1995,14,9,2,0.666667,2307141832,Fernando de Ferreira Rezende,0,2.4495812076926318,3.1417061118331886
+1583471564,Efficient Set Similarity Joins Using Min-prefixes,2009,13,14,2,1.0,2150482904,Leonardo Andrade Ribeiro,0,-0.0041099411153885,0.0447066884760059
+1829919800,Update XML Views,2013,9,1,3,0.0,2149643224,Jixue Liu,0,0.3564571934170127,-0.24816004399227518
+1870778053,Evaluating Multiple Server DBMS in General Purpors Operating System Environments,1984,5,8,1,1.0,2895435932,Theo HÃ¤rder,0,-0.0041099411153885,0.0447066884760059
+1983858584,Visualizing cost-based XQuery optimization,2010,14,3,2,1.0,2152769093,Andreas M. Weiner,0,1.651628086816711,0.040769735456792244
+1966427814,CFDC a flash-aware replacement policy for database buffer management,2009,14,61,2,1.0,2145499437,Yi Ou,0,-0.0041099411153885,0.0447066884760059
+1972017666,The promise of solid state disks increasing efficiency and reducing cost of DBMS processing,2009,9,2,3,0.928571,2487720989,Karsten Schmidt,0,0.5586742082380666,-0.1984847101299193
+1974335129,PRIMA - a database system supporting dynamically defined composite objects,1992,5,1,3,0.0,2992111008,Michael Gesmann,0,0.12628174114238816,0.0039009070058818006
+1972741547,Concurrency control issues in nested transactions,1993,41,82,1,1.0,2895435932,Theo HÃ¤rder,0,2.610465044087819,3.220384505636817
+1985417618,Exploiting abstraction relationships semantics for transaction synchronization in KBMSs,1997,58,3,2,0.666667,2307141832,Fernando de Ferreira Rezende,0,2.404204665202015,2.452055449286013
+2005397158,XML indexing and storage fulfilling the wish list,2015,33,6,2,0.524229,2098176964,Christian Mathis,0,2.393919284475961,-0.8794014440068407
+1995051587,Compilation of Query Languages into MapReduce,2013,20,20,2,1.0,2097695795,Caetano Sauer,0,0.09162081552403807,0.22856462167131267
+1998840913,The intrinsic problems of structural heterogeneity and an approach to their solution,1999,51,34,1,1.0,2895435932,Theo HÃ¤rder,0,0.9554334239188061,0.0983021446484616
+2009639833,WattDB - A Journey towards Energy Efficiency,2014,22,3,2,1.0,2069056841,Daniel Schall,0,-0.18179782589503335,-0.06810305083386425
+1999243999,Storing and indexing XML documents upside down,2009,39,10,2,0.75,2098176964,Christian Mathis,0,2.6469194447819953,-0.9806468575536239
+1997695375,Query processing for complex objects,1992,42,8,1,1.0,2895435932,Theo HÃ¤rder,0,0.5116073511612306,0.257687061504231
+2010150745,Evaluation of a multiple version scheme for concurrency control,1987,27,11,2,0.0,2681249528,Erwin Petry,0,2.5327962090282097,2.9851366741179586
+2015894849,Editorial to the Special Issue â€œDatabase Systemsâ€,2009,0,0,2,0.0,2243006145,Johann Christoph Freytag,0,0.11627582886789564,0.3621724021946999
+2016049716,An experiment in learning DBTG database administration,1980,1,7,2,0.0,346279324,Wolfgang Effelsberg,0,-0.26475543951790437,0.7414863532880609
+2024936222,Node labeling schemes for dynamic XML documents reconsidered,2007,19,89,1,1.0,2895435932,Theo HÃ¤rder,0,2.1990245423949224,-0.8646788498473067
+2010971160,Editorial to the special issue Trends and advances in database systems research,2012,0,2,1,1.0,2895435932,Theo HÃ¤rder,0,0.18601297105691045,-0.0008472885667257998
+2020306153,Usage-driven storage structures for native XML databases,2008,18,5,2,0.928571,2487720989,Karsten Schmidt,0,2.2499305797205924,-0.844902428208157
+2013351544,An integrative approach to query optimization in native XML database management systems,2010,26,7,2,1.0,2152769093,Andreas M. Weiner,0,1.5902402554390378,-0.27545600069939463
+2040150429,XTCcmp XQuery compilation on XTC,2008,10,6,3,0.75,2098176964,Christian Mathis,0,1.9511420801494495,-0.7253337872938831
+2033102344,Towards a theory of multimedia metacomputing,2005,17,0,2,0.0,2464706109,Ulrich Marder,0,-0.0041099411153885,0.0447066884760059
+2042370186,Enhancing energy efficiency of database applications using SSDs,2010,22,20,3,0.745455,2069056841,Daniel Schall,0,-0.17244133864042968,-0.305030520451871
+2035835285,Generalizing prefix filtering to improve set similarity joins,2011,41,44,2,1.0,2150482904,Leonardo Andrade Ribeiro,0,-0.0041099411153885,0.0447066884760059
+2043067981,A cluster-based approach to XML similarity joins,2009,36,6,2,1.0,2150482904,Leonardo Andrade Ribeiro,0,2.239341969211074,-0.8614972397672174
+2043250925,S3 Processing tree-pattern XML queries with all logical operators,2012,20,7,3,1.0,2027320085,Sayyed Kamyar Izadi,0,0.08827309226015383,0.07703980517524706
+2053829197,On Selected Performance Issues of Data Base Systems,1987,59,7,1,1.0,2895435932,Theo HÃ¤rder,0,0.0907437627653297,-0.2103755468454883
+2064520185,GENERATING VERSIONING FACILITIES FOR A DESIGN-DATA REPOSITORY SUPPORTING COOPERATIVE APPLICATIONS,2000,6,8,1,1.0,2895435932,Theo HÃ¤rder,0,0.0671042691779014,-0.36543392384012696
+2066590586,Advanced data processing in KRISYS modeling concepts implementation techniques and client/server issues,1998,43,8,2,0.0,2038506347,Stefan DeÃŸloch,0,0.21807188789989154,0.20834331553383642
+2066985207,S3 Evaluation of tree-pattern XML queries supported by structural summaries,2009,20,23,3,0.75,1572991542,Mostafa S. Haghjoo,0,2.8032131691740485,-1.0200473471139435
+2076121213,Tailor-made lock protocols and their DBMS integration,2008,9,5,2,0.897959,2146505101,Sebastian BÃ¤chle,0,2.642087231380251,-1.0176621614641508
+2060555520,Flash-Aware Buffer Management for Database Systems,2013,26,1,3,1.0,2145499437,Yi Ou,0,0.37468440789870566,-0.09504312419542195
+2099623813,Observations on optimistic concurrency control schemes,1984,10,142,1,1.0,2895435932,Theo HÃ¤rder,0,2.523289490792517,3.2831517300540405
+2093054508,Access path support for referential integrity in SQL2,1996,15,12,1,1.0,2895435932,Theo HÃ¤rder,0,1.9763078965232819,0.5531592897177003
+2087826470,Semantic serializability a correctness criterion for processing transactions in advanced database applications,1999,22,11,3,0.84,2145807834,Norbert Ritter,0,3.190428845230882,2.991636505697061
+2103219135,Instant recovery with write-ahead logging,2015,19,4,4,0.0,2284116839,Goetz Graefe,0,-0.0041099411153885,0.0447066884760059
+2088290828,â€žVon der Torfabrik zur Denkfabrikâ€œ Bericht zur 14 Fachtagung â€žDatenbanksysteme fÃ¼r Business Technologie und Webâ€œ,2011,0,0,9,0.745455,2069056841,Daniel Schall,0,-0.0041099411153885,0.0447066884760059
+2138442674,Optimizing lock protocols for native XML processing,2008,23,27,2,0.893617,2526744523,Michael Peter Haustein,0,2.651153745384836,-0.9852281308873406
+2141619554,On the use of query-driven XML auto-indexing,2010,20,7,2,0.928571,2487720989,Karsten Schmidt,0,0.3835079262263412,-0.1265954636195276
+2129479721,Using PRIMA-DBMS as a testbed for parallel complex-object processing,1992,12,2,7,0.0,2014934484,Christoph HÃ¼bel,0,0.0908845357243609,0.31128747720343375
+2141819658,Locking-aware structural join operators for XML query processing,2006,20,24,2,0.923077,2098176964,Christian Mathis,0,2.781259069169755,-1.055734927197198
+2124165630,Contest of XML lock protocols,2006,22,26,2,0.9375,2526744523,Michael Peter Haustein,0,2.406806870475669,-0.876147894500396
+2142212419,Design management in CONCORD combining transaction management workflow management and cooperation control,1996,14,6,3,0.6,80360316,Bernhard Mitschang,0,0.5303249926810497,1.5783693436865633
+2136400980,Coupling of FDBS and WfMS for Integrating Database and Application Systems Architecture Complexity Performance,2002,12,4,2,1.0,96551525,Klaudia Hergula,0,0.4672334929167585,0.484843260357979
+2139915983,Use of Inherent Parallelism in Database Operations,1986,9,8,1,1.0,2895435932,Theo HÃ¤rder,0,1.8902141904527119,1.8736285709436427
+2133917816,Evaluating a Row-Store Data Model for Full-Content DICOM Management,2014,12,4,2,0.0,2412243056,Alexandre Savaris,0,0.6435042159931609,-0.14900452801315198
+2140944825,Essential Performance Drivers in Native XML DBMSs,2009,43,5,1,1.0,2895435932,Theo HÃ¤rder,0,2.6327891642822583,-1.0359376778194198
+2156084640,CFDC a flash-aware buffer management algorithm for database systems,2010,13,11,2,1.0,2145499437,Yi Ou,0,1.5193922742730563,1.3108871558758848
+2144375084,Handling hot spot data in DB-sharing systems,1988,7,27,1,1.0,2895435932,Theo HÃ¤rder,0,1.3139785819388092,1.239107795887099
+2144471367,Supporting adaptable technical information systems in heterogeneous environments-using WWW and ORDBMS,1997,10,11,2,1.0,2311592833,Nan Zhang,0,0.3581015813626938,-0.06038684902833315
+2162565384,Clean first or dirty first a cost-aware self-adaptive buffer replacement policy,2010,14,19,2,1.0,2145499437,Yi Ou,0,0.37468440789870566,-0.09504312419542195
+2159629976,Non-standard DBMS for support of emerging applications-requirement analysis and architectural concepts,1989,16,5,1,1.0,2895435932,Theo HÃ¤rder,0,0.142236828069562,-0.037656723404805206
+2156730618,An efficient infrastructure for native transactional XML processing,2007,30,56,2,0.893617,2526744523,Michael Peter Haustein,0,2.393919284475961,-0.8794014440068407
+2157373367,Transaction Identifiers in Nested Transactions Implementation Schemes and Performance,1997,16,6,2,0.0,2509086470,F. de Ferreira Rezende,0,2.278230186476107,2.2482110049289483
+2148541183,Tailor-Made Native XML Storage Structures,2007,11,1,2,0.844444,2487720989,Karsten Schmidt,0,2.7664334211363926,-1.0662381607707268
+2166882327,How foreign function integration conquers heterogeneous query processing,2001,13,2,2,1.0,96551525,Klaudia Hergula,0,0.28804090929086457,0.6337513756821286
+2169938356,A middleware approach for combining heterogeneous data sources - integration of generic query and predefined function access,2000,17,14,2,1.0,96551525,Klaudia Hergula,0,1.0033674901711251,0.9147100701108027
+2149182844,Twig Query Processing Under Concurrent Updates,2006,20,2,2,0.923077,2098176964,Christian Mathis,0,0.7215975991611812,0.3052417628859806
+2167646932,Comparison of Complete and Elementless Native Storage of XML Documents,2007,17,20,1,1.0,2895435932,Theo HÃ¤rder,0,2.4865269662026583,-0.9874358753793082
+2146673488,EXsum an XML summarization framework,2008,13,11,2,1.0,2129368310,JosÃ© de Aguiar Moraes Filho,0,2.397748824134565,-0.867945116165019
+2156040426,Framework-Based Development and Evaluation of Cost-Based Native XML Query Optimization Techniques,2009,24,2,2,1.0,2152769093,Andreas M. Weiner,0,1.6420737963332137,-0.555088862553857
+2294948259,XQuery processing over NoSQL stores,2012,28,5,3,0.0,2282172345,Henrique Valer,0,1.3330829310006813,-0.5199546185917877
+2399864281,30 Jahre Datenbanksysteme fÃ¼r Business Technologie und Web - Die BTW im Wandel der Datenbank-Zeiten,2015,2,0,1,1.0,2895435932,Theo HÃ¤rder,0,-0.0041099411153885,0.0447066884760059
+2406320025,Lastprognose fÃ¼r energieeffiziente verteilte DBMS,2012,0,2,3,0.0,2401536208,Christopher Kramer,0,-0.0041099411153885,0.0447066884760059
+2406481844,Visualizing the Behavior of an Elastic Energy-Efficient Database Cluster,2015,3,0,4,0.0,2908067391,Sandy Ganza,0,-0.0041099411153885,0.0447066884760059
+2443540065,Evaluation of Hardware Architectures for Parallel Execution of Complex Database Operations,1989,15,11,3,0.0,2016384745,Andrea Sikeler,0,0.16900876236231177,0.28146920814691073
+2565729979,An empirical analysis of database recovery costs,2014,7,8,3,0.836735,2097695795,Caetano Sauer,0,-0.0041099411153885,0.0447066884760059
+2505431004,A Framework for Cost-Based Query Optimization in Native XML Database Management Systems,2010,8,3,2,1.0,2152769093,Andreas M. Weiner,0,1.9863230949110333,-0.6662045512737701
+2531339254,Die Arbeitsgruppen fÃ¼r Datenbanken und Informationssysteme an der TU Kaiserslautern,2016,54,0,2,0.0,2038506347,Stefan DeÃŸloch,0,-0.0041099411153885,0.0447066884760059
+2584065304,Database caching Towards a cost model for populating cache groups,2004,0,0,2,0.714286,2018876319,Andreas BÃ¼hmann,0,-0.0041099411153885,0.0447066884760059
+2585132959,Metaprogramming for relational databases,2004,0,0,3,1.0,321376716,Jernej Kovse,0,0.7450801407526599,-0.016811992857865343
+2519059443,Prof Dr Dr h c Hans-JÃ¼rgen Appelrath,2016,0,0,1,1.0,2895435932,Theo HÃ¤rder,0,-0.0041099411153885,0.0447066884760059
+2602829638,Capturing Design Dynamics the Concord Approach,1994,21,19,3,1.0,2145807834,Norbert Ritter,0,-0.0041099411153885,0.0447066884760059
+2728330143,Evaluation of Pointer Swizzling for Database Buffer Management,2017,6,0,3,0.0,2725704900,Max Gilbert,0,-0.0041099411153885,0.0447066884760059
+2604164630,Come and crash our database - Instant recovery in action,2017,5,0,4,0.8,2097695795,Caetano Sauer,0,-0.0041099411153885,0.0447066884760059
+2795144808,Coupling of FDBS and WfMS for integrating database and application systems Architecture complexity performance,2002,0,1,2,1.0,96551525,Klaudia Hergula,0,0.5395765147024031,0.5627866321840995
+2896474038,FineLine log-structured transactional storage and recovery,2018,0,0,3,0.796673,2097695795,Caetano Sauer,0,-0.0041099411153885,0.0447066884760059
+2900790161,Instant restore after a media failure (extended version),2019,15,0,2,0.733019,2097695795,Caetano Sauer,0,0.38009049917121435,0.45246057348231067
+2949515477,Dynamic Physiological Partitioning on a Shared-nothing Database Cluster,2014,14,2,2,1.0,2069056841,Daniel Schall,0,0.10936223934809694,-0.32707188763132755
+2952397148,Instant restore after a media failure,2017,23,0,3,0.8,2097695795,Caetano Sauer,0,0.38009049917121435,0.45246057348231067
+2068844250,AD-LRU An efficient buffer replacement algorithm for flash-based databases,2012,37,47,5,0.954545,2163694057,Peiquan Jin,0,1.5193922742730563,1.3108871558758848
+2189173830,Optimizing Sort in Hadoop using Replacement Selection,2015,26,0,4,0.0,2226776021,Pedro Martins Dusso,0,-0.0041099411153885,0.0447066884760059
+2270402186,DCMDSM a DICOM decomposed storage model,2014,30,7,3,0.0,2412243056,Alexandre Savaris,0,0.49565617740051926,-0.11044141897870201

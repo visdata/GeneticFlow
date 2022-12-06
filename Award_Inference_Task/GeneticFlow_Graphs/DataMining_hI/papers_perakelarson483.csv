@@ -1,0 +1,40 @@
+78548535,MTCache Mid-Tier Database Caching for SQL Server,2004,9,28,1,1.0,2148643341,Per Ake Larson,0,-1.6207548525907003,0.38615623438705493
+15067173,Cardinality estimation in database systems using sample views,2007,26,39,2,0.0,2119605707,Wolfgang Lehner,0,0.003708468606338,0.082832279151172
+1527643973,Dynamic Memory Adjustment for External Mergesort,1997,7,46,2,0.0,2480104810,Weiye Zhang,0,-0.21999344644508834,-0.18099080006490592
+1540277706,Performing group-by before join /spl lsqb/query processing/spl rsqb/,1994,8,17,1,1.0,2148643341,Per Ake Larson,0,-0.24708821823000746,-0.11438040177564447
+1761301028,Eager Aggregation and Lazy Aggregation,1995,6,188,2,1.0,2615905808,Weipeng P. Yan,0,0.5821376668587569,0.12559018430708857
+1580310876,Caching with good enough currency consistency and completeness,2005,25,34,2,0.857143,2250183532,Hongfei Guo,0,-0.9601262391184806,0.24688204987343057
+1862168009,ADAPTIVE RANGE FILTERS FOR RANGE AND POINT QUERIES,2013,14,8,1,1.0,2148643341,Per Ake Larson,0,0.003708468606338,0.082832279151172
+1714747661,Use of materialized transient views in query optimization,2006,19,54,1,1.0,2148643341,Per Ake Larson,0,-0.910529635262,-0.15391072172532433
+1996870946,Exploiting self-monitoring sample views for cardinality estimation,2007,2,0,1,1.0,2148643341,Per Ake Larson,0,-0.0395804122397981,0.0068802457672825015
+1993433750,Incorporating partitioning and parallel plans into the SCOPE optimizer,2010,16,74,2,0.632283,2702077502,Jingren Zhou,0,-0.6733165677639376,0.19413924664966162
+2036666100,SimDB a similarity-aware database system,2010,9,30,4,0.285714,2170457501,Yasin N. Silva,0,-2.0080425462401896,0.6057676514538575
+2034964304,Supporting views in data stream management systems,2010,42,116,3,0.0,2141420582,Thanaa M. Ghanem,0,-0.7864166153246112,0.17266966070203402
+2049139656,A fuzzy query optimization approach for multidatabase systems,1997,0,10,2,1.0,2292350935,Qiang Zhu,0,-0.0395804122397981,0.0068802457672825015
+2056361805,Support for relaxed currency and consistency constraints in MTCache,2004,3,6,2,0.857143,2250183532,Hongfei Guo,0,0.003708468606338,0.082832279151172
+2074877482,Efficient Maintenance of Materialized Outer-Join Views,2007,9,23,1,1.0,2148643341,Per Ake Larson,0,-1.377796165627288,0.41734343483772723
+2104233490,Stacked indexed views in microsoft SQL server,2005,21,15,2,0.0,429046255,David DeHaan,0,-3.0023351823994275,0.6784439224975026
+2081628764,Relaxed currency and consistency how to say &quot;good enough&quot; in SQL,2004,26,87,1,1.0,2148643341,Per Ake Larson,0,-0.7954010742772226,-0.20041989393792153
+2104704499,Dynamic Materialized Views,2007,23,58,2,0.632283,2702077502,Jingren Zhou,0,-1.9313700486771586,0.5331470965584314
+2090676757,CLASSIFYING LOCAL QUERIES FOR GLOBAL QUERY OPTIMIZATION IN MULTIDATABASE SYSTEMS,2000,6,3,2,0.465617,2292350935,Qiang Zhu,0,-0.01657107088421793,0.035389748403282274
+2135003477,SQL server column store indexes,2011,10,57,1,1.0,2148643341,Per Ake Larson,0,0.07362495250378438,0.17005259107292123
+2106105896,Efficient exploitation of similar subexpressions for query processing,2007,16,79,2,0.632283,2702077502,Jingren Zhou,0,-0.01657107088421793,0.035389748403282274
+2109118818,Solving Local Cost Estimation Problem for Global Query Optimization in Multidatabase Systems,1998,26,40,2,1.0,2292350935,Qiang Zhu,0,-0.1029618939806145,0.040434369851773004
+2118385974,Lazy maintenance of materialized views,2007,20,64,2,0.632283,2702077502,Jingren Zhou,0,-2.9370454789903797,1.0916475697245651
+2122265344,Performing Group-By before Join,1994,6,116,2,0.0,2615905808,Weipeng P. Yan,0,-0.3291976808020441,-0.13703470885516322
+2119400430,SCOPE easy and efficient parallel processing of massive data sets,2008,10,679,3,0.0,1995270641,Ronnie I. Chaiken,0,-0.3291976808020441,-0.13703470885516322
+2119441285,Similarity queries their conceptual evaluation transformations and processing,2013,29,33,3,0.285714,2170457501,Yasin N. Silva,0,-0.3947619765595873,0.0431024744450403
+2168397421,Run formation in large scale sorting using batched replacement selection,1999,8,56,1,1.0,2148643341,Per Ake Larson,0,-0.11939805933677435,0.16936408913727036
+2171492933,Optimizing queries using materialized views a practical scalable solution,2001,19,257,2,0.0,2166693565,Jonathan Goldstein,0,-1.6207548525907003,0.38615623438705493
+2156647424,A query sampling method for estimating local cost parameters in a multidatabase system,1994,11,59,1,1.0,2148643341,Per Ake Larson,0,-0.7115739254660983,0.16717641040082076
+2145269645,Adaptive range filters for cold data avoiding trips to Siberia,2013,16,34,3,0.0,2506814957,Karolina Alexiou,0,-0.14255436113902986,0.20337351355405242
+2167764264,View matching for outer-join views,2007,19,28,1,1.0,2148643341,Per Ake Larson,0,-1.684047965439016,0.4165919705434117
+2171048836,Evolutionary techniques for updating query cost models in a dynamic multidatabase environment,2004,26,12,3,0.0,2276306237,Amira Rahal,0,-0.21883058043550196,-0.0746519618890613
+2153160273,Cardinality estimation using sample views with quality assurance,2007,28,42,1,1.0,2148643341,Per Ake Larson,0,-1.3152031301467504,0.3324074685000853
+2183342041,Trekking through Siberia managing cold data in a memory-optimized database,2014,21,42,3,0.0,154112519,Ahmed Eldawy,0,-0.21289101979956976,0.34240913356548724
+2215304880,Optimizing parameterized queries in a relational database management system,2006,29,35,1,1.0,2148643341,Per Ake Larson,0,-0.7949212654219854,0.3229808421760159
+2277982207,VIEW MATCHING OF MATERIALIZED XML VIEWS,2008,32,10,1,1.0,2148643341,Per Ake Larson,0,-1.6516521000569568,0.326802462468102
+2282872933,Classification of data in main memory database systems,2012,43,9,2,0.0,209651163,Justin J. Levandoski,0,-0.4947747004744506,-0.8662608618160282
+2547410375,Modern main-memory database systems,2016,15,7,1,1.0,2148643341,Per Ake Larson,0,-0.8076737096348712,0.4553502072922895
+2743244324,Main Memory Database Systems,2017,0,15,3,0.0,2297792247,Franz Faerber,0,0.003708468606338,0.082832279151172
+3020084632,Qd-tree Learning Data Layouts for Big Data Analytics,2020,46,0,7,0.0,3020579227,Zongheng Yang,0,0.12492345808765674,0.23414093372237493

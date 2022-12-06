@@ -1,0 +1,50 @@
+87635799,Comprehensive experimental analyses of automotive attack surfaces,2011,16,686,5,0.928571,2639473500,Stephen Checkoway,0,0.0040557659796233,0.2757546058061082
+45346053,New Paradigms in Signature Schemes,2005,82,20,2,0.0,201828038,Dan Boneh,0,-0.8409255312365984,-2.372679649260527
+47524963,Low-level software security exploiting memory safety vulnerabilities and assumptions,2012,0,0,1,1.0,242611019,Hovav Shacham,0,-1.3721930698182816,1.7734739921660752
+100863554,SiRiUS Securing Remote Untrusted Storage,2003,30,426,2,0.0,2097226873,Eu Jin Goh,0,1.0891537299982734,-0.7744561739475472
+1557855942,On Subnormal Floating Point and Abnormal Timing,2015,43,49,6,0.0,2228445178,Marc Andrysco,0,0.0040557659796233,0.2757546058061082
+1873601359,On the practical exploitability of dual EC in TLS implementations,2014,15,56,9,0.826087,2639473500,Stephen Checkoway,0,0.5689374602355609,-0.25033720289927963
+1578680960,Rethinking Verifiably Encrypted Signatures A Gap in Functionality and Potential Solutions,2014,18,4,3,0.0,2627171989,Theresa Calderon,0,0.08510636485219777,-1.5130057638265342
+1960763029,Method and apparatus for enhancing network security protection server performance,2001,51,63,2,0.0,201828038,Dan Boneh,0,0.061374542080130025,-0.7297395241190567
+1820248798,Are text-only data formats safe or use this LATEX class file to Pwn your computer,2010,6,3,2,1.0,2639473500,Stephen Checkoway,0,-0.6046900171546454,1.357406822934406
+1825165655,The phantom tollbooth privacy-preserving electronic toll collection in the presence of driver collusion,2011,34,33,4,0.255319,1592592059,Sarah Meiklejohn,0,-0.5442806066406007,-0.4721310624773339
+1592300071,Can DREs provide long-lasting security the case of return-oriented programming and the AVC advantage,2009,13,74,6,1.0,2639473500,Stephen Checkoway,0,-0.6374321313972565,0.7165519675208408
+1828411905,Efficient ring signatures without random oracles,2007,20,106,1,1.0,242611019,Hovav Shacham,0,-0.3884789288483976,-0.6053031438354731
+1998180710,An empirical study of privacy-violating information flows in JavaScript web applications,2010,27,138,4,0.0,2171104584,Dongseok Jang,0,1.7029826062605458,-0.2600589908962866
+2006921752,Group signatures with verifier-local revocation,2004,21,423,2,0.0,201828038,Dan Boneh,0,-0.55948345913862,-2.098807622921443
+1996931407,Return-oriented programming without returns,2010,28,339,5,1.0,2639473500,Stephen Checkoway,0,-1.1845336834478517,1.1570543639328077
+2024540116,Eliminating fine grained timers in Xen,2011,8,81,3,0.0,2050376626,Bhanu C. Vattikonda,0,-1.1307916258682822,0.6293087241402476
+2035274757,Too LeJIT to Quit Extending JIT Spraying to ARM,2015,12,5,2,1.0,2135183636,Wilson Lian,0,0.1639362940477497,0.6530314529854678
+2069726044,Client-side caching for TLS,2004,21,29,1,1.0,242611019,Hovav Shacham,0,0.155870422438688,-0.3611899258997246
+2077667328,When private keys are public results from the 2008 Debian OpenSSL vulnerability,2009,8,106,3,0.0,540917457,Scott Yilek,0,0.0640774421216092,-1.4577633792692866
+2099382052,When good instructions go bad generalizing return-oriented programming to RISC,2008,8,278,3,1.0,2229156228,Erik Buchanan,0,-1.1180566081538228,0.5596738011988476
+2089448621,Return-Oriented Programming Systems Languages and Applications,2012,31,226,3,1.0,2093602741,Ryan Roemer,0,-1.1180566081538228,0.5596738011988476
+2098010707,On the effectiveness of address-space randomization,2004,14,687,1,1.0,242611019,Hovav Shacham,0,-0.782496052309497,1.002593741090429
+2101022010,Hedged Public-Key Encryption How to Protect against Bad Randomness,2009,38,105,6,0.0,2052950829,Mihir Bellare,0,0.10171954438266667,-2.0075492000156885
+2129430465,Do you know where your cloud files are,2011,13,56,3,0.0,2100390043,Karyn Benson,0,0.0040557659796233,0.2757546058061082
+2112735498,Iago attacks why the system call API is a bad untrusted RPC interface,2013,22,136,2,0.864865,2639473500,Stephen Checkoway,0,0.25228431542065294,0.5753795935514452
+2119028650,Hey you get off of my cloud exploring information leakage in third-party compute clouds,2009,20,1641,3,0.444444,197246800,Thomas Ristenpart,0,0.03681267817275477,0.13382843325602564
+2116520617,Experimental Security Analysis of a Modern Automobile,2010,13,939,10,0.0,307416778,Karl Koscher,0,0.35048813919661104,0.38618985402097866
+2183421554,Careful with Composition Limitations of Indifferentiability and Universal Composability,2011,54,3,2,0.444444,197246800,Thomas Ristenpart,0,-0.811218610331604,-1.1568867164659182
+2150399720,Randomizable Proofs and Delegatable Anonymous Credentials,2009,40,27,6,0.0,2022202316,Mira Belenkiy,0,-0.7465744720779465,-1.1128018762770862
+2171572664,You go to elections with the voting system you have stop-gap mitigations for deployed voting systems,2008,10,9,3,0.0,1518619805,J. Alex Halderman,0,0.0040557659796233,0.2757546058061082
+2162800072,The geometry of innocent flesh on the bone return-into-libc without function calls (on the x86),2007,10,880,1,1.0,242611019,Hovav Shacham,0,-1.1917592126581174,1.4775555329652819
+2156989312,Measuring the practical impact of DNSSEC deployment,2013,31,38,3,1.0,2135183636,Wilson Lian,0,-1.1031621579933448,0.03361380236305467
+2151237029,Forward-secure signatures with untrusted update,2006,31,58,2,0.0,67263304,Xavier Boyen,0,-0.6534425779894054,-1.3761197344403944
+2145229476,Are AES x86 cache timing attacks still feasible,2012,17,34,3,1.0,1975157056,Keaton Mowery,0,0.8917756131304543,-1.3253844610122207
+2161213547,Security analysis of a full-body scanner,2014,14,8,8,1.0,1975157056,Keaton Mowery,0,0.172799956884413,0.46717438398015876
+2492446575,Trusted Browsers for Uncertain Times,2016,22,24,2,1.0,2222858091,David Kohlbrenner,0,-0.3287690164964345,0.14636193449847731
+2532945044,A Systematic Analysis of the Juniper Dual EC Incident,2016,26,35,8,0.82235,2639473500,Stephen Checkoway,0,0.2619537470740935,-0.3369747333037805
+2594230746,Rethinking verifiably encrypted signatures A gap in functionality and potential solutions,2014,0,0,3,0.0,2627171989,Theresa Calderon,0,0.0887560560841907,-1.2892395382039743
+2611413690,Aggregate and verifiably encrypted signatures from bilinear maps,2003,0,21,4,0.0,201828038,Dan Boneh,0,-0.6419647475273327,-2.225346945143553
+2612710257,A Call to ARMs Understanding the Costs and Benefits of JIT Spraying Mitigations,2017,0,1,2,1.0,2135183636,Wilson Lian,0,0.0040557659796233,0.2757546058061082
+2751962962,On the effectiveness of mitigations against floating-point timing channels,2017,0,3,2,1.0,2222858091,David Kohlbrenner,0,0.0040557659796233,0.2757546058061082
+2898410736,Where did I leave my keys lessons from the Juniper Dual EC incident,2018,8,1,10,0.802448,2639473500,Stephen Checkoway,0,0.09409242218632015,-0.6969930271063793
+2912115214,Proceedings of the 4th USENIX conference on Offensive technologies,2010,0,1,1,1.0,242611019,Hovav Shacham,0,0.0040557659796233,0.2757546058061082
+2949773996,Forward-Secure Signatures with Untrusted Update,2006,0,0,2,0.0,67263304,Xavier Boyen,0,0.0040557659796233,0.2757546058061082
+2952373612,Hedged Public-key Encryption How to Protect against Bad Randomness,2012,0,0,6,0.0,2052950829,Mihir Bellare,0,0.03910652856792115,-0.9542749174440527
+2949347147,The BBG HIBE Has Limited Delegation,2005,4,4,1,1.0,242611019,Hovav Shacham,0,0.36864534956065914,-2.1028711727843645
+2994094026,Gobi WebAssembly as a Practical Path to Library Sandboxing,2019,13,0,4,1.0,2721657231,Shravan Narayan,0,0.0040557659796233,0.2757546058061082
+2971066161,Short Unique Signatures from RSA with a Tight Security Reduction (in the Random Oracle Model),2018,16,1,1,1.0,242611019,Hovav Shacham,0,-0.14671545527537627,-0.8508838180900498
+3008481500,Retrofitting Fine Grain Isolation in the Firefox Renderer (Extended Version),2020,31,0,7,1.0,2721657231,Shravan Narayan,0,0.0040557659796233,0.2757546058061082
+3017716388,Retrofitting Fine Grain Isolation in the Firefox Renderer,2020,0,0,7,1.0,2721657231,Shravan Narayan,0,0.0040557659796233,0.2757546058061082

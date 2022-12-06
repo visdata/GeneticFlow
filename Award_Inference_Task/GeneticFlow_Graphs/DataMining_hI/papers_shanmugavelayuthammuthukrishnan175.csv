@@ -1,0 +1,81 @@
+18033419,Method and system for identifying representative trends using sketches,2002,25,5,3,0.0,2084235371,Nikolaos Koudas,0,0.003708468606338,0.082832279151172
+190400865,Filtering techniques for data streams,2007,90,1,2,0.818182,2255665395,Irina Rozenbaum,0,-0.929454214607175,1.5481060880638278
+162964049,Reverse nearest neighbor aggregates over data streams,2002,31,88,2,0.7785,2238237585,Flip Korn,0,-0.20277944365766606,-0.371938668077276
+151938044,Summarizing and mining Skewed data streams,2005,39,90,2,0.809373,2190072679,Graham Cormode,0,-0.1071931497347323,0.3242721482837629
+945050578,Streaming techniques for statistical modeling,2007,81,0,2,0.0,2311908283,Yihua Wu,0,0.07022756293005476,0.09834241765231812
+1497638173,Summarizing Two-Dimensional Data with Skyline-Based Statistical Descriptors,2008,28,7,3,0.433193,2190072679,Graham Cormode,0,0.22818751637686896,0.1639905551853483
+1494160875,Stochastic Data Streams,2009,5,3,1,1.0,2921339358,Shanmugavelayutham Muthukrishnan,0,-0.1071931497347323,0.3242721482837629
+1540310433,Identifying Representative Trends in Massive Time Series Data Sets Using Sketches,2000,14,202,3,0.619048,22135093,Piotr Indyk,0,0.003708468606338,0.082832279151172
+1487524542,Checks and balances monitoring data quality problems in network traffic databases,2003,11,24,2,0.7785,2238237585,Flip Korn,0,0.07217353555145196,-0.02969991047994633
+1607538671,Comparing data streams using Hamming norms (how to zero in),2002,29,52,4,1.0,2190072679,Graham Cormode,0,-0.1071931497347323,0.3242721482837629
+1888227177,Streaming algorithms for data in motion,2007,33,5,2,0.0,2609169559,Michael Hoffmann,0,-0.48926199831686223,1.7368613695570796
+1766932551,How to summarize the universe dynamic maintenance of quantiles,2002,24,168,3,1.0,2157039722,Anna C. Gilbert,0,-0.0395804122397981,0.0068802457672825015
+1582131784,Mining Deviants in a Time Series Database,1999,10,99,3,0.0,360112113,Hosagrahar V. Jagadish,0,0.003708468606338,0.082832279151172
+1822348499,Optimal Histograms with Quality Guarantees,1998,14,367,3,0.0,360112113,Hosagrahar V. Jagadish,0,-0.0395804122397981,0.0068802457672825015
+1591269823,System and method for generating statistical descriptors for a data stream,2009,9,13,4,0.8,2008135585,Philip Russell Korn,0,0.003708468606338,0.082832279151172
+1652776989,Estimating Aggregate Properties on Probabilistic Streams,2006,19,0,2,0.444444,2099571765,Andrew McGregor,0,-0.5343371566468184,1.9484559712347334
+1655765388,Estimating Rarity and Similarity over Data Stream Windows,2002,23,100,2,0.666667,2097551061,Mayur Datar,0,0.21109091623803006,0.0706761127826532
+1601710358,Space-and Time-Efficient Management and Summarization of Data Using Intermediate Summary Structure and Hierarchical Multidimensional Histogram,2012,11,6,2,0.0,2911631061,Martin J. Strauss,0,0.003708468606338,0.082832279151172
+1984566373,Mining database structure; or how to build a data quality browser,2002,40,183,3,0.0,425249397,Tamraparni Dasu,0,-1.3047726288419328,0.4943315982019237
+1987024505,Modeling the value of information granularity in targeted advertising,2014,7,1,5,0.0,1983860150,Swati Rallapalli,0,0.003708468606338,0.082832279151172
+2023027635,Modeling skew in data streams,2006,36,21,2,0.607056,2238237585,Flip Korn,0,-0.7763972293192366,0.33186691170621224
+2033101724,General auction mechanism for search advertising,2009,24,93,2,0.0,2140110832,Gagan Aggarwal,0,0.003708468606338,0.082832279151172
+2049127440,Sampling algorithms in a stream operator,2005,22,81,2,0.0,2168523976,Theodore Johnson,0,-0.929454214607175,1.5481060880638278
+2035527951,Socializing the h-index,2012,5,0,3,0.215435,2190072679,Graham Cormode,0,0.003708468606338,0.082832279151172
+2050290319,Estimating statistical aggregates on probabilistic data streams,2007,23,79,3,0.857143,362591877,T. S. Jayram,0,-1.3122555364178126,0.6807839387936702
+2061258316,Monitoring algorithms for negative feedback systems,2010,9,5,2,0.0,1973675100,Mark Sandler,0,0.003708468606338,0.082832279151172
+2075904372,Data management and mining in internet ad systems,2010,5,0,1,1.0,2921339358,Shanmugavelayutham Muthukrishnan,0,-0.7761876992751617,-0.010760200205683036
+2076287166,Influence sets based on reverse nearest neighbor queries,2000,17,423,2,0.601229,2238237585,Flip Korn,0,-0.5481616817769454,1.3490730251270169
+2071237681,IPSOFACTO a visual correlation tool for aggregate network traffic data,2003,0,2,2,0.7785,2238237585,Flip Korn,0,0.003708468606338,0.082832279151172
+2095088658,On Signatures for Communication Graphs,2008,25,8,3,0.433193,2190072679,Graham Cormode,0,0.003708468606338,0.082832279151172
+2100702488,Query-Aware Partitioning for Monitoring Massive Network Data Streams,2008,20,8,2,0.0,2168523976,Theodore Johnson,0,-0.37341358163617383,0.3542150790635286
+2100735174,Sequential Change Detection on Data Streams,2007,16,35,1,1.0,2921339358,Shanmugavelayutham Muthukrishnan,0,-0.1071931497347323,0.3242721482837629
+2104616115,People like us mining scholarly data for comparable researchers,2014,10,4,2,0.18506,2190072679,Graham Cormode,0,0.003708468606338,0.082832279151172
+2092195356,Mining advertiser-specific user behavior using adfactors,2010,24,25,3,0.0,301499733,Nikolay Archak,0,0.003708468606338,0.082832279151172
+2126105096,Comparing data streams using Hamming norms (how to zero in),2003,36,121,4,1.0,2190072679,Graham Cormode,0,-0.2967646039190703,0.3137128440170681
+2114536330,What&amp;#146;s Different Distributed Continuous Monitoring of Duplicate-Resilient Aggregates on Data Streams,2006,23,58,3,0.700661,2190072679,Graham Cormode,0,-0.1071931497347323,0.3242721482837629
+2105640518,Conquering the Divide Continuous Clustering of Distributed Data Streams,2007,26,93,2,0.568452,2190072679,Graham Cormode,0,-0.9007890384233895,3.2967961453831034
+2141441292,Finding hierarchical heavy hitters in data streams,2003,26,166,3,1.0,2190072679,Graham Cormode,0,-0.0042829093036050175,0.5421842910228494
+2138399168,Node Classification in Social Networks,2011,37,172,3,0.0,2291721935,Smriti Bhagat,0,0.003708468606338,0.082832279151172
+2114867662,Effective computation of biased quantiles over data streams,2005,17,42,3,0.809373,2190072679,Graham Cormode,0,-0.7763972293192366,0.33186691170621224
+2106163100,Surfing Wavelets on Streams One-Pass Summaries for Approximate Aggregate Queries,2001,32,381,3,0.777778,2157039722,Anna C. Gilbert,0,-0.1071931497347323,0.3242721482837629
+2126922390,How to scalably and accurately skip past streams,2007,16,19,2,0.0,2723244980,A. Madeira,0,-0.1071931497347323,0.3242721482837629
+2142099410,Diamond in the rough finding Hierarchical Heavy Hitters in multi-dimensional data,2004,13,107,3,0.957447,2190072679,Graham Cormode,0,0.13831658418164444,0.42592014748983265
+2130873644,Finding hierarchical heavy hitters in streaming data,2008,26,69,3,0.433193,2190072679,Graham Cormode,0,0.03260571654938554,0.5641370538541493
+2134017119,One-pass wavelet decompositions of data streams,2003,38,114,3,1.0,2157039722,Anna C. Gilbert,0,0.0051178473714469,0.21111651826605052
+2119796071,Domain-driven data synopses for dynamic quantiles,2005,36,15,3,0.875,2157039722,Anna C. Gilbert,0,-0.1071931497347323,0.3242721482837629
+2131726153,Summarizing and mining inverse distributions on data streams via dynamic inverse sampling,2005,29,79,2,0.809373,2190072679,Graham Cormode,0,0.0624988202191245,0.2387753506107029
+2125978661,Fractal Modeling of IP Network Traffic at Streaming Speeds,2006,14,1,2,0.607056,2238237585,Flip Korn,0,-0.7763972293192366,0.33186691170621224
+2134743705,Holistic aggregates in a networked world distributed tracking of approximate quantiles,2005,20,200,3,0.809373,2190072679,Graham Cormode,0,-0.02982925155893055,-0.0135024676312933
+2171290292,Mining deviants in time series data streams,2004,29,47,1,1.0,2921339358,Shanmugavelayutham Muthukrishnan,0,-0.2759814111264423,0.3143347712592715
+2156210689,Counting twig matches in a tree,2001,15,116,4,0.0,2199548342,Zhiyuan Chen,0,-0.07102029488425389,0.09309474831401238
+2150569458,Holistic UDAFs at streaming speeds,2004,36,99,4,0.957447,2190072679,Graham Cormode,0,-0.7763972293192366,0.33186691170621224
+2145281652,Efficient approximation of correlated sums on data streams,2003,9,31,5,0.0,2083014468,R. Ananthakrishna,0,0.07022756293005476,0.09834241765231812
+2167450247,Whats new finding significant differences in network data streams,2005,30,112,2,0.809373,2190072679,Graham Cormode,0,-0.27345371276954566,0.08464410169853483
+2158443468,MoDB database system for synthesizing human motion,2005,4,0,2,0.0,2674163941,E. Edmunds,0,0.05855506068193919,0.4715846109584019
+2146801187,Fast mining of massive tabular data via approximate distance computations,2002,21,34,3,1.0,2190072679,Graham Cormode,0,-0.44817938192529644,0.5418251857459617
+2167973519,Whats hot and whats not tracking most frequent items dynamically,2003,32,500,2,1.0,2190072679,Graham Cormode,0,-0.05724656269791121,-0.029034114261997968
+2161936973,Approximate String Joins in a Database (Almost) for Free,2001,18,496,5,0.0,2251396636,Luis Gravano,0,0.003708468606338,0.082832279151172
+2150106885,Query-Aware Sampling for Data Streams,2007,37,115,2,0.0,2168523976,Theodore Johnson,0,-0.500424061585821,0.42843764499006126
+2261924921,Method and apparatus for finding biased quantiles in data streams,2005,6,6,4,0.8,2008135585,Philip Russell Korn,0,-0.1071931497347323,0.3242721482837629
+2247112318,Masking and labeling problems in social network data management,2011,88,0,2,0.0,2291721935,Smriti Bhagat,0,0.05529297256480196,0.158809718794262
+2203968300,Method and apparatus for identifying hierarchical heavy hitters in a data stream,2004,1,11,4,0.8,2008135585,Philip Russell Korn,0,0.003708468606338,0.082832279151172
+2223791407,System and Method for Identifying Hierarchical Heavy Hitters in Multi-Dimensional Data,2009,3,17,4,0.8,2008135585,Philip Russell Korn,0,0.0839878064226997,0.2895306589033055
+2274032906,System and method for identifying hierarchical heavy hitters in a multidimensional environment,2005,5,9,4,0.809373,2190072679,Graham Cormode,0,0.003708468606338,0.082832279151172
+2251771415,The sublinear approach to big data problems,2014,0,0,1,1.0,2921339358,Shanmugavelayutham Muthukrishnan,0,0.12492345808765674,0.23414093372237493
+2275142455,Method and apparatus for finding biased quantiles related to data streams,2005,2,0,4,0.809373,2190072679,Graham Cormode,0,-0.1071931497347323,0.3242721482837629
+2284772292,Determining an aspect value such as for estimating a characteristic of online entity,2008,58,0,3,0.0,2524105043,Manjunath Srinivasaiah,0,0.003708468606338,0.082832279151172
+2299464733,Method and apparatus for data stream sampling,2006,11,54,3,0.0,2168523976,Theodore Johnson,0,0.1656019551103819,0.40049106199639006
+2464253171,Data Stream Algorithms,2005,9,15,1,1.0,2921339358,Shanmugavelayutham Muthukrishnan,0,-0.004538237359067869,0.2859525243347512
+2549499772,Whats in the community cookie jar ,2016,10,2,4,0.0,2078767370,Paul Barford,0,0.003708468606338,0.082832279151172
+2550253117,Joining user profiles across online social networks from the perspective of an adversary,2016,15,3,3,0.818182,2246118604,Qiang Ma,0,0.003708468606338,0.082832279151172
+2550613393,Targeting algorithms for online social advertising markets,2016,21,2,3,0.0,2136393315,Chaolun Xia,0,0.003708468606338,0.082832279151172
+2585106734,Optimizing callout in unified ad markets,2016,0,0,2,0.0,2583601366,Aman Gupta,0,0.12492345808765674,0.23414093372237493
+2585510658,Ad allocation with secondary metrics,2016,15,0,3,0.0,2585112777,Darja Krushevskaja,0,0.003708468606338,0.082832279151172
+2554448999,App2Vec vector modeling of mobile apps and applications,2016,16,13,2,0.818182,2246118604,Qiang Ma,0,0.11668897809772595,-0.17283336507659355
+2615341736,Estimating statistical aggregates on probabilistic data streams,2008,23,28,3,0.857143,362591877,T. S. Jayram,0,-0.1071931497347323,0.3242721482837629
+2600017706,Estimating rarity and similarity over data stream windows,2002,0,3,2,0.666667,2097551061,Mayur Datar,0,0.21109091623803006,0.0706761127826532
+2795822094,Finding Subcube Heavy Hitters in Analytics Data Streams,2018,19,1,2,0.0,2955690461,Branislav Kveton,0,0.12120674878188187,0.40419254976825236
+2964118312,Socializing the h-index,2013,6,9,3,0.190357,2190072679,Graham Cormode,0,0.003708468606338,0.082832279151172
+3022848063,Chapter 40 â€“ How to Summarize the Universe Dynamic Maintenance of Quantiles,2002,22,0,4,0.49483,306802008,Yannis Kotidis,0,-0.0395804122397981,0.0068802457672825015
+1584212476,Estimating Dominance Norms of Multiple Data Streams,2003,21,37,2,1.0,2190072679,Graham Cormode,0,-0.1071931497347323,0.3242721482837629

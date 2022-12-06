@@ -1,0 +1,53 @@
+124588207,IP address authorization for secure address proxying using multi-key CGAs and ring signatures,2006,17,12,4,0.0,2780479793,James Kempf,0,-1.1051990978263064,0.8951119400738397
+1001457192,Securing binding update using address based keys,2003,3,121,4,0.0,2105917313,Alice Silverberg,0,0.02973987012504603,-1.419802481845946
+1004244975,Securing neighbor discovery using address based keys,2003,0,33,2,0.0,2105917313,Alice Silverberg,0,-0.20153883836139944,-0.15823426753045747
+1542057243,Certificate-based encryption and the certificate revocation problem,2003,19,380,1,1.0,2339798781,Craig Gentry,0,0.13137863943042088,-3.8822901397806273
+1524487398,Multi-key cryptographically generated address,2006,23,29,1,1.0,2339798781,Craig Gentry,0,0.2362920511585844,-1.0407689116384649
+1490181591,A method for making password-based key exchange resilient to server compromise,2006,62,52,1,1.0,2339798781,Craig Gentry,0,-0.47737344769762535,-1.104444375570098
+1552887888,Microcredits for Verifiable Foreign Service Provider Metering,2004,20,5,1,1.0,2339798781,Craig Gentry,0,0.3420153079021089,3.6892669641160354
+1546774120,Practical identity-based encryption without random oracles,2006,26,599,1,1.0,2339798781,Craig Gentry,0,0.08327962754388676,-2.200183566049275
+1556073664,Authenticated ID-based cryptosystem with no key escrow,2006,34,45,2,1.0,2105917313,Alice Silverberg,0,0.4373449055017261,-0.9281475104054712
+1877031606,METHOD AND APPARATUS FOR SECURE AND SMALL CREDITS FOR VERIFIABLE SERVICE PROVIDER METERING,2009,16,46,1,1.0,2339798781,Craig Gentry,0,0.3420153079021089,3.6892669641160354
+1806049065,Adaptive Security in Broadcast Encryption Systems (with Short Ciphertexts),2009,44,200,1,1.0,2339798781,Craig Gentry,0,0.21916100955545353,-2.245740356491334
+1606220903,Secure address proxying using multi-key cryptographically generated addresses,2006,13,27,1,1.0,2339798781,Craig Gentry,0,0.7157469073384748,0.589270664560498
+1882072563,Multi-certificate revocation using encrypted proof data for proving certificates validity or invalidity,2005,54,32,2,1.0,2220821279,Bernhard Bruhn,0,0.1962892362715107,-1.9323936918578462
+1885515782,CERTIFICATE-BASED ENCRYPTION AND PUBLIC KEY INFRASTRUCTURE,2008,62,65,1,1.0,2339798781,Craig Gentry,0,0.18706829176663045,-2.1777555122133365
+1939855273,Encrypted messages from the heights of cryptomania,2013,18,1,1,1.0,2339798781,Craig Gentry,0,0.2944743433314348,-1.0450133373649433
+1775668444,Cryptographic authentication and/or establishment of shared cryptographic keys using a signing key encrypted with a non-one-time-pad encryption including (but not limited to) techniques with improved security against malleability attacks,2006,58,20,1,1.0,2339798781,Craig Gentry,0,-1.6253091258141832,-1.8596383853449276
+1711831130,Computing on Encrypted Data,2009,0,4,1,1.0,2339798781,Craig Gentry,0,0.352669301198491,-0.8027379873197985
+1865528730,Advanced Homomorphic Encryption its Applications and Derivatives (AHEAD),2013,0,0,8,0.0,83353782,Daniele Micciancio,0,0.7427698114395846,-0.718136482595336
+1971286892,Computing arbitrary functions of encrypted data,2010,8,414,1,1.0,2339798781,Craig Gentry,0,0.36920268362795233,-0.26647585422592984
+2001431231,Ordered multisignatures and identity-based sequential aggregate signatures with applications to secure routing,2007,50,118,2,0.237108,2033462817,Alexandra Boldyreva,0,-0.8197285362407285,-2.5855037700727026
+2030614279,New Multiparty Signature Schemes for Network Routing Applications,2008,35,11,2,0.237108,2033462817,Alexandra Boldyreva,0,-0.8084067795909049,-2.2697079172244248
+2032760602,Provable Cryptographic Security and its Applications to Mobile Wireless Computing,2004,34,1,1,1.0,2339798781,Craig Gentry,0,-0.6276374422501523,-1.4863322980200546
+2018746447,Pinocchio Nearly Practical Verifiable Computation,2013,60,344,3,0.0,1595681779,Bryan Parno,0,0.3357405412208293,-0.9445777679321209
+2035295206,Content protection in adaptive content delivery,2007,5,0,4,0.0,2137435918,Atushi Takeshita,0,0.3487765068727322,0.2643707207505191
+2048474463,Attacking cryptographic schemes based on &quot;perturbation polynomials&quot;,2009,6,48,3,0.0,1686185850,Shai Halevi,0,-0.15864374652083932,-0.1879861517290886
+2041543515,Password authenticated key exchange using hidden smooth subgroups,2005,43,31,1,1.0,2339798781,Craig Gentry,0,-1.7736168844396756,-1.794340624515581
+2098909775,Fully Homomorphic Encryption Method Based On A Bootstrappable Encryption Scheme Computer Program And Apparatus,2009,94,96,1,1.0,2339798781,Craig Gentry,0,0.8932559684841581,-1.730256690303908
+2096379058,Optimizing ORAM and Using It Efficiently for Secure Computation,2013,24,109,1,1.0,2339798781,Craig Gentry,0,0.8543400668846337,-1.0652002757410397
+2120930643,Revocation of cryptographic digital certificates,2009,67,76,2,1.0,2220821279,Bernhard Bruhn,0,0.3433460729556473,-1.07406553528701
+2110184197,Hierarchical identity-based encryption and signature schemes,2003,59,75,2,0.0,2105917313,Alice Silverberg,0,0.07068926024263888,-1.5637001731093345
+2283434475,Redactable signatures in cryptographic digital certificates,2005,17,1,2,1.0,2220821279,Bernhard Bruhn,0,-0.13913217801347771,-1.629241564757725
+2296585978,Private Database Access with HE-over-ORAM Architecture,2015,27,29,1,1.0,2339798781,Craig Gentry,0,0.9253076434285058,-0.6789809442614652
+2343009295,Hiding secrets in software a cryptographic approach to program obfuscation,2016,27,4,2,0.402605,2111572205,Sanjam Garg,0,0.6948887072517547,0.9674341584422328
+2404809868,Fully Secure Functional Encryption without Obfuscation,2014,24,84,2,0.571429,2111572205,Sanjam Garg,0,0.20055110941168072,-1.1975770400719317
+2397232893,Method and apparatus for authentication of data streams with adaptively controlled losses,2004,19,57,3,0.0,2129800007,Toshiro Kawahara,0,-0.963513746283851,-0.6511997133059143
+2531800036,Certificate-Based Encryption and the Certificate Revocation Problem,2003,0,2,1,1.0,2339798781,Craig Gentry,0,0.15661971865914748,-3.884767623837585
+2584255931,Public Key Cryptography - PKC 2012,2012,0,0,3,0.0,1686185850,Shai Halevi,0,0.03910652856792115,-0.9542749174440527
+2610916683,Practical identity-based encryption without random oracles,2006,0,2,1,1.0,2339798781,Craig Gentry,0,0.0679727074321773,-2.124399987225815
+2611413690,Aggregate and verifiably encrypted signatures from bilinear maps,2003,0,21,2,0.0,201828038,Dan Boneh,0,-0.6419647475273327,-2.225346945143553
+2611947502,Certificate-based encryption and the certificate revocation problem,2003,0,0,1,1.0,2339798781,Craig Gentry,0,0.13137863943042088,-3.8822901397806273
+2759091734,AUTHENTICATED IDENTIFICATION-BASED CRYPTOSYSTEM WITH NO KEY ESCROW,2003,2,4,2,0.0,2105917313,Alice Silverberg,0,0.0889195544856603,-0.890063578180592
+2916706634,Security and Cryptography for Networks - SCN 2012,2012,0,0,4,0.0,1249250080,Chris Peikert,0,0.3171484069971384,-0.13992525839030945
+2951608554,Two-round secure MPC from Indistinguishability Obfuscation,2013,0,3,2,0.571429,2111572205,Sanjam Garg,0,-0.255481096177426,0.4843741529378961
+2951700376,Witness Encryption from Instance Independent Assumptions,2014,0,0,1,1.0,2339798781,Craig Gentry,0,0.155870422438688,-0.3611899258997246
+2952074361,Certificate-Based Encryption and the Certificate Revocation Problem,2003,0,1,1,1.0,2339798781,Craig Gentry,0,0.009387094243803767,-2.8883131263768345
+2950214544,Witness Encryption and its Applications,2013,0,1,2,0.571429,2111572205,Sanjam Garg,0,0.155870422438688,-0.3611899258997246
+2962706177,Setup-Free Secure Search on Encrypted Data Faster and Post-Processing Free,2019,57,0,2,0.0,2748241983,Adi Akavia,0,0.155870422438688,-0.3611899258997246
+2950741652,Attribute-Based Encryption for Circuits from Multilinear Maps,2012,15,9,5,0.0,2159933393,Amit Sahai,0,-0.41729914604203044,-0.5313149003703026
+2952778826,On the Implausibility of Differing-Inputs Obfuscation and Extractable Witness Encryption with Auxiliary Input,2013,0,1,2,0.571429,2111572205,Sanjam Garg,0,-0.06775903781903309,-0.00979538390992174
+2953334014,Non-Interactive Verifiable Computing Outsourcing Computation to Untrusted Workers,2009,0,1,2,0.0,2108521744,Rosario Gennaro,0,1.6323564800848287,-0.7413061037284973
+2951323381,Collusion Resistant Broadcast Encryption With Short Ciphertexts and Private Keys,2005,0,0,2,0.0,201828038,Dan Boneh,0,-0.43787168137087334,-1.3128833307202543
+2991847260,Secure IPv6 Address Proxying using Multi-Key Cryptographically Generated Addresses (MCGAs),2005,0,5,1,1.0,2339798781,Craig Gentry,0,0.0040557659796233,0.2757546058061082
+3021653443,Can a Blockchain Keep a Secret,2020,0,0,2,0.0,2948587319,Fabrice Benhamouda,0,0.03857885209080565,0.668590409100547

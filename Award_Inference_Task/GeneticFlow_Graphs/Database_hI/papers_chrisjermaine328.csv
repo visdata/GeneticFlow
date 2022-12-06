@@ -1,0 +1,47 @@
+20889460,Approximate Query Answering in High-Dimensional Data Cubes,2000,0,1,1,1.0,281056960,Chris Jermaine,0,0.014532710543751099,0.030944858938630852
+1577912117,Robust estimation with sampling and approximate pre-aggregation,2003,19,20,1,1.0,281056960,Chris Jermaine,0,0.3799054506293388,-0.15396955400937015
+1578513732,A Novel Index Supporting High Volume Data Warehouse Insertion,1999,9,50,1,1.0,281056960,Chris Jermaine,0,0.3336144253199779,0.367710557561693
+1974421547,Workload-Driven Antijoin Cardinality Estimation,2015,43,1,4,0.0865385,2018682516,Florin Rusu,0,0.014532710543751099,0.030944858938630852
+1987163291,The DataPath system a data-centric analytic processing engine for large data warehouses,2010,21,94,5,0.0,2034121792,Subi Arumugam,0,0.36822861613756475,0.1294611244706844
+1991059587,Finding the most interesting correlations in a database how hard can it be ,2005,33,24,1,1.0,281056960,Chris Jermaine,0,-0.0041099411153885,0.0447066884760059
+2024562752,Relational confidence bounds are easy with the bootstrap,2005,18,26,2,0.0,2142279450,Abhijit Pol,0,1.7710384847575384,0.501384967102682
+2022942700,Online maintenance of very large random samples,2004,25,45,1,1.0,281056960,Chris Jermaine,0,0.3626053461093182,0.1146572653554778
+2021440816,Evaluation of probabilistic threshold queries in MCDB,2010,19,13,3,1.0,2170299672,Luis L. Perez,0,-0.0041099411153885,0.0447066884760059
+2016443758,The DBO database system,2008,4,16,6,0.0865385,2018682516,Florin Rusu,0,-0.0041099411153885,0.0447066884760059
+2016653720,A comparison of platforms for implementing and running very large scale machine learning algorithms,2014,22,36,6,1.0,2131577716,Zhuhua Cai,0,-0.0041099411153885,0.0447066884760059
+2013493775,The partitioned exponential file for database storage management,2007,41,54,3,0.0,2174003361,Edward Omiecinski,0,0.16720855000924334,0.3750886978016703
+2033078763,History-aware query optimization with materialized intermediate views,2014,19,15,2,0.769231,2170299672,Luis L. Perez,0,1.3386868167616508,0.4601389904646512
+2035801804,Scalable approximate query processing with the DBO engine,2007,16,71,1,1.0,281056960,Chris Jermaine,0,0.14790452415704541,0.044257811769186924
+2071735063,Reference-based indexing for metric spaces with costly distance measures,2008,39,19,4,0.571429,2165351032,Jayendra Venkateswaran,0,-0.0041099411153885,0.0447066884760059
+2063546264,Scalable approximate query processing with the DBO engine,2008,20,61,1,1.0,281056960,Chris Jermaine,0,0.14790452415704541,0.044257811769186924
+2099655235,Simulation of database-valued markov chains using SimSQL,2013,37,49,6,1.0,2131577716,Zhuhua Cai,0,-0.0041099411153885,0.0447066884760059
+2086128349,The monte carlo database system Stochastic analysis close to the data,2011,58,29,5,1.0,1983018918,Ravi Jampani,0,0.767115830214016,0.09587481455532984
+2137989472,Closest-Point-of-Approach Join for Moving Object Histories,2006,18,45,2,0.0,2052427730,Subramanian Arumugam,0,-0.0041099411153885,0.0447066884760059
+2138529836,New Sampling-Based Estimators for OLAP Queries,2006,24,31,3,0.0,2119237514,Ruoming Jin,0,0.09397933947235249,0.6135242436776775
+2136014429,The Sort-Merge-Shrink join,2006,29,34,1,1.0,281056960,Chris Jermaine,0,1.4272846261416545,-0.3537183411354574
+2109696130,Out from under the trees [linear file template],2002,3,0,1,1.0,281056960,Chris Jermaine,0,-1.077896009240394,2.9122058310791687
+2142650462,Surrogate ranking for very expensive similarity queries,2010,24,0,4,1.0,2196941034,Fei Xu,0,-0.3808897168278155,0.04444830280608203
+2142930296,MCDB-R risk analysis in the database,2010,20,19,6,0.0,2034121792,Subi Arumugam,0,-0.0041099411153885,0.0447066884760059
+2107422095,A disk-based join with probabilistic guarantees,2005,16,27,1,1.0,281056960,Chris Jermaine,0,1.3957430397398471,-1.1664083645004941
+2131111873,Materialized Sample Views for Database Approximation,2008,23,33,2,1.0,2982635129,Shantanu Joshi,0,1.4967096220454676,0.2630839567314968
+2131775419,DATABASE MEETS SIMULATION TOOLS AND TECHNIQUES,2009,8,3,1,1.0,281056960,Chris Jermaine,0,1.6556115185912244,0.28856393430959976
+2168385561,Robust Stratified Sampling Plans for Low Selectivity Queries,2008,12,18,2,1.0,2982635129,Shantanu Joshi,0,-0.0041099411153885,0.0447066884760059
+2162569193,Online estimation for subset-based SQL queries,2005,7,17,1,1.0,281056960,Chris Jermaine,0,0.054474207998585156,0.3415593452344182
+2168802823,Randomized algorithms for data reconciliation in wide area aggregate query processing,2007,30,1,2,1.0,2196941034,Fei Xu,0,0.2971137375149884,-0.29987532461792976
+2144810465,MCDB a monte carlo approach to managing uncertain data,2008,37,245,6,1.0,1983018918,Ravi Jampani,0,1.210147800307588,0.09083472804158528
+2165990006,Turbo-charging estimate convergence in DBO,2009,15,30,2,0.0,2074162063,Alin Dobra,0,0.2729697775116673,-0.23834973358689787
+2154931799,Reference-based indexing of sequence databases,2006,37,43,4,0.571429,2165351032,Jayendra Venkateswaran,0,-0.0041099411153885,0.0447066884760059
+2149237243,Out From Under the Trees,2002,17,4,1,1.0,281056960,Chris Jermaine,0,-0.00492109496191035,-0.1728987636093571
+2146338300,Lossy reduction for very high dimensional data,2002,17,1,1,1.0,281056960,Chris Jermaine,0,-0.0041099411153885,0.0447066884760059
+2164507334,Online Aggregation for Large MapReduce Jobs,2011,17,143,3,0.0,2026870187,Niketan Pansare,0,-0.20133665475165913,-0.19110780330684465
+2171004305,Materialized Sample Views for Database Approximation,2006,27,1,2,1.0,2982635129,Shantanu Joshi,0,1.4967096220454676,0.2630839567314968
+2299478735,Do Anesthesiologists Know What They Are Doing Mining a Surgical Time-Series Database to Correlate Expert Assessment with Outcomes,2016,36,0,4,0.0,2225245608,Risa B. Myers,0,-0.0041099411153885,0.0447066884760059
+2614179415,Scalable Linear Algebra on a Relational Database System,2017,17,24,5,1.0,2225107426,Shangyu Luo,0,2.060062502661794,0.34090704816771455
+2612545547,The BUDS Language for Distributed Bayesian Machine Learning,2017,37,7,4,1.0,2228543093,Zekai J. Gao,0,-0.0041099411153885,0.0447066884760059
+2769903804,PlinyCompute A Platform for High-Performance Distributed Data-Intensive Tool Development,2018,50,3,9,1.0,2670249862,Jia Zou,0,0.1280428183682445,0.03427067439695464
+2747529314,An experimental comparison of complex object implementations for big data systems,2017,20,2,3,0.0,2745342460,Sourav Sikdar,0,0.787192562765311,0.47438708839189103
+2949463740,PlinyCompute A Platform for High-Performance Distributed Data-Intensive Tool Development,2017,56,0,9,1.0,2670249862,Jia Zou,0,0.1280428183682445,0.03427067439695464
+2940666701,Declarative recursive computation on an RDBMS or why you should use a database for distributed machine learning,2019,43,2,6,0.0,2624262375,Dimitrije Jankov,0,1.204501787921431,0.29860165833699415
+2962895657,Pangea monolithic distributed storage for data analytics,2019,44,2,3,0.931234,2670249862,Jia Zou,0,-0.08443601147225192,0.4726600353171804
+3000141146,Searching a Database of Source Codes Using Contextualized Code Search,2020,48,0,3,0.0,2164178763,Rohan Mukherjee,0,-0.0041099411153885,0.0447066884760059
+3008924290,Architecture of a distributed storage that combines file system memory and computation in a single layer,2020,58,0,3,0.0,3012297312,Jia Zou,0,-0.08443601147225192,0.4726600353171804

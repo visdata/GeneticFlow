@@ -1,0 +1,250 @@
+156401455,Using Signaling Games to Model the Multi-step Attack-Defense Scenarios on Confidentiality,2012,30,12,2,0.555556,2223600169,Jingqiang Lin,0,0.4223098777638297,0.978751705371956
+72659257,Damage Quarantine and Recovery in Data Processing Systems,2008,74,1,1,1.0,2428201908,Peng Liu,0,-0.2724016386402099,0.4715330633521527
+24408859,A Game Theoretic Approach to Cyber Attack Prediction,2005,0,2,1,1.0,2428201908,Peng Liu,0,0.6054015027846452,0.594962342123044
+25007451,Detangling Resource Management Functions from the TCB in Privacy-Preserving Virtualization,2014,21,3,5,1.0,2597890382,Min Li,0,1.085097682730419,1.950487146920374
+110636400,A Framework for Evaluating Mobile App Repackaging Detection Algorithms,2013,14,61,3,1.0,2111453272,Heqing Huang,0,0.4047796088347475,0.8883639957933328
+162711728,Replacement attacks on behavior based software birthmark,2011,26,11,4,1.0,2124263184,Zhi Xin,0,-0.255481096177426,0.4843741529378961
+130942985,Revealing Abuses of Channel Assignment Protocols in Multi-channel Wireless Networks An Investigation Logic Approach,2012,31,0,5,0.607426,2113776135,Qijun Gu,0,-0.2056178114880024,-0.05403708172565502
+113933619,Trusted Recovery from Information Attacks,2001,63,0,3,0.0,2056441798,Sushil Jajodia,0,-0.0467161655133814,0.3459107029451198
+222567134,In-broker Access Control for Information Brokerage Systems,2007,23,1,7,1.0,2106656104,Fengjun Li,0,-0.07349600700949502,1.5360279409940212
+46955443,Evaluation of collaborative worm containment on the DETER testbed,2007,22,9,2,0.0,2111951120,Lunquan Li,0,-0.14961960511810343,0.12722050712092697
+199942262,Modeling and Checking the Security of DIFC System Configurations,2013,25,1,2,1.0,2104023260,Mingyi Zhao,0,-0.7550923856894814,0.8990510550617249
+115117053,Behavior Decomposition Aspect-Level Browser Extension Clustering and Its Security Implications,2013,25,3,2,1.0,2634656479,Bin Zhao,0,0.0040557659796233,0.2757546058061082
+12728939,Assessing the trustworthiness of drivers,2012,32,2,2,1.0,2138758244,Shengzhi Zhang,0,-0.051499073341828495,0.5984183866503446
+31433452,RootkitDet Practical End-to-End Defense against Kernel Rootkits in a Cloud Environment,2014,17,8,3,0.0,2127620582,Lingchen Zhang,0,-0.6537736244944359,1.188263400557981
+151026171,Adversarial and Uncertain Reasoning for Adaptive Cyber Defense Building the Scientific Foundation,2014,16,15,4,0.0,2204331920,George Cybenko,0,-0.24586876820222667,0.1848898116196813
+153333230,Cyber Insider Mission Detection for Situation Awareness,2015,16,1,6,0.0,2651814787,Haitao Du,0,-0.005076257387907845,0.6066183443425159
+591046001,Trusted recovery from malicious attacks,1999,0,0,1,1.0,2428201908,Peng Liu,0,0.0040557659796233,0.2757546058061082
+571855627,Trusted recovery and defensive information warfare,2001,0,5,2,0.0,2056441798,Sushil Jajodia,0,-0.8013269743018098,0.10093332100492379
+425890707,Trust-based secure information sharing between federal government agencies Research Articles,2005,0,9,2,0.0,2151923530,Amit Chetal,0,0.0040557659796233,0.2757546058061082
+1558783207,Modeling and evaluating the survivability of an intrusion tolerant database system,2006,54,29,2,0.884615,2620711299,Hai Wang,0,1.1794544018504052,1.01943007588203
+1496710472,Denial of Service Attacks,2012,53,149,2,0.607426,2113776135,Qijun Gu,0,0.0040557659796233,0.2757546058061082
+1541877595,Cross-Layer Damage Assessment for Cyber Situational Awareness,2010,29,10,1,1.0,2428201908,Peng Liu,0,-0.13312238928232473,0.22564659664411535
+1514763803,Rewriting Histories Recovering from Malicious Transactions,2000,36,87,1,1.0,2428201908,Peng Liu,0,-0.0467161655133814,0.3459107029451198
+1481160019,Proactive identification and prevention of unexpected future rule conflicts in attribute based access control,2010,19,0,3,0.0,2169352645,Daren Zha,0,0.5933691167773121,1.770909790429962
+1534389286,Efficient damage assessment and repair in resilient distributed database systems,2001,20,17,1,1.0,2428201908,Peng Liu,0,0.13679434731489165,0.6751406926737795
+1516801632,Evaluating survivability and costs of three virtual machine based server architectures,2010,17,3,4,0.723526,2155256094,Meng Yu,0,-1.3721930698182816,1.7734739921660752
+1482662503,Multi-version attack recovery for workflow systems,2003,14,16,2,1.0,2155256094,Meng Yu,0,0.13679434731489165,0.6751406926737795
+1554317682,A study of selected security issues in wireless networks,2005,0,1,3,1.0,2113776135,Qijun Gu,0,0.0040557659796233,0.2757546058061082
+1492231900,Towards database firewalls,2005,14,18,3,1.0,2654441163,Kun Bai,0,-0.17730455276797297,0.8048017542108719
+1492945640,Private Browsing Mode Not Really That Private Dealing with Privacy Breach Caused by Browser Extensions,2015,15,8,2,1.0,2634656479,Bin Zhao,0,0.48078094822638895,1.3426908691764148
+1504053989,Defending return-oriented programming based on virtualization techniques,2013,29,5,5,0.727273,2114675558,Xiaoqi Jia,0,-1.1180566081538228,0.5596738011988476
+1445387515,Finding unknown malice in 10 seconds mass vetting for new threats at the Google-play scale,2015,36,106,8,0.612903,2311430221,Kai Chen,0,-0.04061994788240001,0.3840389783153069
+1450860479,Towards discovering and understanding task hijacking in android,2015,36,47,5,1.0,1994231266,Chuangang Ren,0,-1.1035645368122486,0.8097376503715693
+1495920968,A taxonomy of cyber attacks on 3g networks,2005,16,26,2,1.0,1540065645,Kameswari Kotapati,0,0.0040557659796233,0.2757546058061082
+1838905026,Policy-centric protection of OS kernel from vulnerable loadable kernel modules,2011,23,2,4,1.0,2651091031,Donghai Tian,0,0.0040557659796233,0.2757546058061082
+1874370326,Evaluating the Impact of Intrusion Detection Deficiencies on the Cost-Effectiveness of Attack Recovery,2004,16,5,2,1.0,2620711299,Hai Wang,0,0.13679434731489165,0.6751406926737795
+1596112107,Privacy preserving group linkage,2011,35,9,5,1.0,2106656104,Fengjun Li,0,0.6979627471116719,-0.021043568125878005
+1958168824,Anonymous proxy re-encryption,2012,26,25,2,0.213208,2120414770,Jun Shao,0,0.4484893085571475,-2.3508833535059
+1588150478,Secure and Privacy-Preserving Information Brokering,2009,0,3,1,1.0,2428201908,Peng Liu,0,0.0868615083668367,0.140561709035792
+1588175110,Delivering Services with Integrity Guarantees in Survivable Database Systems,2004,11,3,2,0.0,2648508982,Jianyong Zhang,0,0.04926937924927646,0.7385688970884207
+1812083090,Impossibility of finding any third family of server protocols integrating Byzantine quorum systems with threshold signature schemes,2010,27,2,2,0.6,2223600169,Jingqiang Lin,0,-0.03929913717578636,-0.27146017220130875
+1589988509,Rate-Based watermark traceback a new approach,2010,19,1,3,0.0,2172027627,Zongbin Liu,0,0.0040557659796233,0.2757546058061082
+1610688982,TaintPipe pipelined symbolic taint analysis,2015,47,28,5,0.818182,2156525752,Jiang Ming,0,0.0040557659796233,0.2757546058061082
+1963816048,Integrated situational awareness for cyber attack detection analysis and mitigation,2012,0,7,4,0.0,2091377522,Yalin E. Sagduyu,0,0.4653620773426899,0.48475391119234185
+1582279644,Risk Assessment of Buffer &quot;Heartbleed&quot; Over-Read Vulnerabilities,2015,21,11,4,1.0,2104023260,Mingyi Zhao,0,0.13515407169753682,0.42677227751756
+1582448845,Integrating offline analysis and online protection to defeat buffer overflow attacks,2010,5,1,4,1.0,2651091031,Donghai Tian,0,-1.3721930698182816,1.7734739921660752
+1582711128,The security model of unidirectional proxy re-signature with private re-signature key,2010,16,12,5,0.266093,2120414770,Jun Shao,0,-0.22684964772494434,0.5553590878829306
+1964231696,PWC A proactive worm containment solution for enterprise networks,2007,29,1,2,1.0,1984570994,Yoon Chan Jhi,0,-0.1100577210706663,1.4673328375834074
+1949505378,A fault tolerance approach to survivability,1998,13,4,3,0.0,2056441798,Sushil Jajodia,0,-0.3759206739092234,0.7399675225752775
+1623701628,DAIS a real-time data attack isolation system for commercial database applications,2001,30,20,1,1.0,2428201908,Peng Liu,0,-2.5736692170172937,0.6968209120919014
+1926330396,Application-level isolation to cope with malicious database users,1998,8,18,2,0.0,2056441798,Sushil Jajodia,0,0.07414412495097246,0.8314487880847947
+1985803695,The design and implementation of a self-healing database system,2004,46,28,1,1.0,2428201908,Peng Liu,0,0.010791571716730702,0.4228341015201025
+1985953750,Replacement attacks automatically evading behavior-based software birthmark,2012,27,3,4,1.0,2124263184,Zhi Xin,0,0.039759618553267186,0.13771439442968836
+1985994373,MyCloud supporting user-configured privacy protection in cloud computing,2013,32,24,5,1.0,2597890382,Min Li,0,0.5990051030619896,0.7710360369254619
+1974111917,Incentive-based modeling and inference of attacker intent objectives and strategies,2003,31,64,1,1.0,2428201908,Peng Liu,0,-0.0274551356434368,0.021586060685074362
+1987035212,Personal genome privacy protection with feature-based hierarchical dual-stage encryption,2011,8,1,2,0.0,2123718658,Xukai Zou,0,0.5771363737687103,1.0388335050587578
+1987337985,Dependency relation based vulnerability analysis of 3G networks Can it identify unforeseen cascading attacks ,2007,35,6,2,1.0,1540065645,Kameswari Kotapati,0,0.0040557659796233,0.2757546058061082
+1989856122,Collaborative Traffic-Aware Intrusion Monitoring in Multi-channel Mesh Networks,2012,28,4,4,0.607426,2113776135,Qijun Gu,0,0.0040557659796233,0.2757546058061082
+1988273886,Secure and privacy-preserving information aggregation for smart grids,2011,0,68,3,1.0,2106656104,Fengjun Li,0,0.14700793305020687,-0.07560725696749303
+1988578619,Real-time data attack isolation for commercial database applications,2006,46,8,1,1.0,2428201908,Peng Liu,0,0.15619663319815205,0.7924047006952512
+2009853596,Cross-layer comprehensive intrusion harm analysis for production workload server systems,2010,21,8,3,0.923077,2138758244,Shengzhi Zhang,0,0.0040557659796233,0.2757546058061082
+2020929023,How to use experience in cyber analysis An analytical reasoning support system,2013,6,10,4,1.0,2134648404,Chen Zhong,0,0.0040557659796233,0.2757546058061082
+2024559047,Evaluating MAPSec by marking attack graphs,2009,26,6,2,1.0,1540065645,Kameswari Kotapati,0,0.4994078800801381,0.05696335722740523
+2021348304,An Empirical Study of Web Vulnerability Discovery Ecosystems,2015,24,34,3,1.0,2104023260,Mingyi Zhao,0,-1.1605323817934283,0.6894931392588578
+2027329669,CCA-Secure Type-based Proxy Re-encryption with Invisible Proxy,2010,21,12,4,0.727273,2114675558,Xiaoqi Jia,0,0.05168796803538474,-1.864588998157725
+2027344515,Analysis of area-congestion-based DDoS attacks in ad hoc networks,2007,32,11,2,1.0,2113776135,Qijun Gu,0,0.0040557659796233,0.2757546058061082
+2038165128,Towards Discovering and Understanding Unexpected Hazards in Tailoring Antivirus Software for Android,2015,28,14,4,1.0,2111453272,Heqing Huang,0,0.05940095047987125,0.6960502266457337
+2050844261,Worm virulence estimation for the containment of local worm outbreak,2010,22,7,2,0.315595,2130672320,Yoon Ho Choi,0,-0.07171206335363907,0.2809209140342717
+2036814967,Protecting Kernel Data through Virtualization Technology,2010,14,0,4,1.0,2651091031,Donghai Tian,0,-0.3439928884936734,1.1786287250940315
+2045814518,Incentive-based modeling and inference of attacker intent objectives and strategies,2005,32,176,1,1.0,2428201908,Peng Liu,0,-0.0274551356434368,0.021586060685074362
+2035247360,SigFree A Signature-Free Buffer Overflow Attack Blocker,2010,47,46,3,1.0,2307924347,Xinran Wang,0,-0.5771503825972133,0.42924697861967154
+2049635398,Creation of the importance scanning worm using information collected by Botnets,2010,28,2,2,0.315595,2130672320,Yoon Ho Choi,0,0.19913517224855312,0.7935298951707955
+2046259462,Reinforcement Learning Algorithms for Adaptive Cyber Defense against Heartbleed,2014,28,18,3,1.0,2111524761,Minghui Zhu,0,-0.0274551356434368,0.021586060685074362
+2033874249,SAS semantics aware signature generation for polymorphic worm detection,2011,34,6,5,1.0,2129715908,Deguang Kong,0,0.27150427490266454,0.07186114404999362
+2033973807,A light weighted damage tracking quarantine and recovery scheme for mission-critical database systems,2008,1,0,2,0.0,2691206577,Kun Bai,0,-0.11857910674998395,0.09698776250942825
+2055209575,PWC a proactive worm containment solution for enterprise networks,2010,41,2,2,1.0,1984570994,Yoon Chan Jhi,0,1.060598001466712,0.7129310291893777
+2046570436,Incremental adaptation of XPath access control views,2007,25,13,4,0.0,1977804462,Padmapriya Ayyagari,0,-0.023550276898621297,0.7099097923564667
+2050315535,Comparing Different Moving Target Defense Techniques,2014,27,57,6,1.0,2486718698,Jun Xu,0,-0.33932013367009156,0.3936259596475017
+2068076641,On-demand public-key management for mobile ad hoc networks,2006,20,36,3,1.0,2100432025,Ruidong Li,0,0.3832486888051822,-1.1320358240589232
+2073316824,A Semi-Markov Survivability Evaluation Model for Intrusion Tolerant Database Systems,2010,18,9,3,0.0,2126917257,Alex Hai Wang,0,0.7995452825769926,0.8695092729402084
+2077145535,Study of effect of node seniority in social networks,2010,10,2,4,0.0,2141844969,Baojun Qiu,0,0.0040557659796233,0.2757546058061082
+2068527103,LeakProber a framework for profiling sensitive data leakage paths,2011,27,8,3,0.0,2653104259,Junfeng Yu,0,0.0040557659796233,0.2757546058061082
+2065268293,Identity management for cloud computing developments and directions,2011,3,8,2,0.0,2029339368,Kevin W. Hamlen,0,-1.1819403432480065,0.0014941126519917025
+2061997827,Achieving key privacy without losing CCA security in proxy re-encryption,2012,26,18,2,0.213208,2120414770,Jun Shao,0,0.42690155138654784,-1.967586601838875
+2078031435,MJBlocker A Lightweight and Run-Time Malicious JavaScript Extensions Blocker,2013,11,1,4,0.0,2165785842,Pingjian Wang,0,0.0040557659796233,0.2757546058061082
+2067570705,Experience-based cyber situation recognition using relaxable logic patterns,2012,13,14,2,0.0,2950213966,Po Chun Chen,0,-0.05099764780316049,0.552423912638468
+2071105285,CLOUD SHREDDER Removing the Laptop On-road Data Disclosure Threat in the Cloud Computing Era,2011,9,11,3,0.0,2901079343,Nan Zhang,0,0.012771291029439377,1.1781794650734905
+2094654945,SKRM Where security techniques talk to each other,2013,16,1,3,1.0,2307756936,Xiaoyan Sun,0,-0.5905629578114804,1.406278629283529
+2099913383,Multi-phase damage confinement in database systems for intrusion tolerance,2001,33,36,1,1.0,2428201908,Peng Liu,0,0.5052918701936934,0.7948646750400663
+2084201645,Behavior based software theft detection,2009,26,82,4,1.0,2307924347,Xinran Wang,0,-0.255481096177426,0.4843741529378961
+2099988907,Avoiding loss of fairness owing to process crashes in fair data exchange protocols,2000,18,19,1,1.0,2428201908,Peng Liu,0,0.8250318540188255,0.08093612525075478
+2089529331,How Your Phone Camera Can Be Used to Stealthily Spy on You Transplantation Attacks against Android Camera Service,2015,30,7,2,0.0,2106615677,Zhongwen Zhang,0,1.0098435912875139,0.8589439898037241
+2079024016,Privacy-preserving semantic interoperation and access control of heterogeneous databases,2006,19,38,3,1.0,2109624860,Prasenjit Mitra,0,-0.4585335034233678,-0.06204129633941591
+2091337187,ARECA a highly attack resilient certification authority,2003,6,8,5,0.0,2125831713,Ji Xiang,0,0.19810956154398576,-1.2737456731039423
+2103715291,Modeling of pollution in p2p file sharing systems,2006,10,6,4,1.0,2113776135,Qijun Gu,0,0.0040557659796233,0.2757546058061082
+2086529372,The implementation and evaluation of a recovery system for workflows,2009,41,6,2,0.723526,2155256094,Meng Yu,0,0.07414412495097246,0.8314487880847947
+2088307662,Cyber defense technology networking and evaluation,2004,7,59,13,0.0,1601293841,Ruzena Bajcsy,0,-0.13788107435609084,0.393791324816765
+2084939909,Droidmarking resilient software watermarking for impeding android application repackaging,2014,24,32,3,1.0,1994231266,Chuangang Ren,0,-0.09602735134178905,0.6849619620451437
+2101275618,TRACE Zero-Down-Time Database Damage Tracking Quarantine and Cleansing with Negligible Run-Time Overhead,2008,20,4,3,1.0,2654441163,Kun Bai,0,0.0040557659796233,0.2757546058061082
+2101310246,STILL Exploit Code Detection via Static Taint and Initialization Analyses,2008,22,51,4,0.926829,2307924347,Xinran Wang,0,-0.9048484775001752,0.6460572558155252
+2095580802,Availability-sensitive intrusion recovery,2009,14,2,4,0.727273,2114675558,Xiaoqi Jia,0,1.1243529009823896,0.8486765138551735
+2085107714,Duet library integrity verification for android applications,2014,25,11,4,0.0,2148264257,Wenhui Hu,0,-0.255481096177426,0.4843741529378961
+2104503692,Database Isolation and Filtering against Data Corruption Attacks,2007,17,4,2,0.653914,2155256094,Meng Yu,0,0.010791571716730702,0.4228341015201025
+2088983597,From System Services Freezing to System Server Shutdown in Android All You Need Is a Loop in an App,2015,40,34,4,1.0,2111453272,Heqing Huang,0,-0.28206942360856635,1.285160753773184
+2099242094,Letting applications operate through attacks launched from compromised drivers,2012,3,2,2,1.0,2138758244,Shengzhi Zhang,0,0.1639362940477497,0.6530314529854678
+2111525908,ViewDroid towards obfuscation-resilient mobile application repackaging detection,2014,25,112,5,0.0,2311808095,Fangfang Zhang,0,-0.6499498243801016,0.7636294037329837
+2120361464,SigFree a signature-free buffer overflow attack blocker,2006,0,73,3,0.926829,2307924347,Xinran Wang,0,-1.099763737083025,0.6225890336884459
+2135124482,ITDB an attack self-healing database system prototype,2003,4,5,1,1.0,2428201908,Peng Liu,0,0.4644351976141118,0.9228615197191179
+2117583561,Detecting Software Theft via System Call Based Birthmarks,2009,22,68,4,1.0,2307924347,Xinran Wang,0,-0.255481096177426,0.4843741529378961
+2120513836,EndSec An end-to-end message security protocol for mobile telecommunication networks,2008,6,4,2,1.0,1540065645,Kameswari Kotapati,0,-0.5769174945282226,-0.537286875466243
+2138523890,Towards Database Firewall Mining the Damage Spreading Patterns,2006,23,7,2,1.0,2654441163,Kun Bai,0,-0.12873660845107324,0.42934164480041725
+2132552804,Slander-resistant forwarding isolation in ad hoc networks,2006,32,1,4,1.0,2113776135,Qijun Gu,0,-0.8806219819437364,-0.37950490442150897
+2106188980,Using Bayesian networks for cyber security analysis,2010,26,148,4,0.0,2309985332,Peng Xie,0,0.19610115670138464,0.3829022651615364
+2135902881,Architectures for Self-Healing Databases under Cyber Attacks,2006,46,5,1,1.0,2428201908,Peng Liu,0,0.0040557659796233,0.2757546058061082
+2142245376,Instantly Obsoleting the Address-code Associations A New Principle for Defending Advanced Code Reuse Attack,2015,28,1,4,0.745542,2141957575,Ping Chen,0,0.7581994215731006,0.18046312226561637
+2106534561,Defensive execution of transactional processes against attacks,2005,14,1,3,0.9,2155256094,Meng Yu,0,0.0040557659796233,0.2757546058061082
+2130366730,Discover and Tame Long-running Idling Processes in Enterprise Systems,2015,20,2,7,1.0,2663167648,Jun Wang,0,0.0040557659796233,0.2757546058061082
+2113114306,Self-healing workflow systems under attacks,2004,10,32,2,1.0,2155256094,Meng Yu,0,0.07414412495097246,0.8314487880847947
+2107275886,Information Security and Cryptology 4th International Conference Inscrypt 2008 Beijing China December 14-17 2008 Revised Selected Papers,2009,0,0,3,0.0,2097786798,Moti Yung,0,-0.012799540544881345,-2.150990173729549
+2110515501,Localized public-key management for mobile ad hoc networks,2004,11,22,4,1.0,2100432025,Ruidong Li,0,0.0040557659796233,0.2757546058061082
+2137096945,Avoiding loss of fairness owing to failures in fair data exchange systems,2001,17,12,1,1.0,2428201908,Peng Liu,0,0.2977030333544188,0.42209627204681427
+2116584970,Enforcing Secure and Privacy-Preserving Information Brokering in Distributed Information Sharing,2013,56,17,3,0.842105,2106656104,Fengjun Li,0,0.3397743207600107,0.8348006257661025
+2137281689,Stalking online on user privacy in social networks,2012,39,28,5,0.0,2230516262,Yuhao Yang,0,-0.3009155440821479,0.6615570798828401
+2143659423,SHELF Preserving Business Continuity and Availability in an Intrusion Recovery System,2009,23,12,3,1.0,2166452439,Xi Xiong,0,-0.2724016386402099,0.4715330633521527
+2125813026,Defence against packet injection in ad hoc networks,2007,36,12,2,1.0,2113776135,Qijun Gu,0,0.0040557659796233,0.2757546058061082
+2108073531,Cyber SA situational awareness for cyber defense,2010,5,76,9,0.0,2078767370,Paul Barford,0,0.5640713789741858,0.5816850578530104
+2125861925,An Attack-Resilient Channel Assignment MAC Protocol,2009,35,2,4,0.0,2735837570,Wanyu Zang,0,-0.5119439217121352,-0.6773186573768595
+2131693903,Automaton segmentation a new approach to preserve privacy in xml information brokering,2007,29,17,3,1.0,2106656104,Fengjun Li,0,0.0868615083668367,0.140561709035792
+2147343186,Damage assessment and repair in attack resilient distributed database systems,2011,40,12,1,1.0,2428201908,Peng Liu,0,0.7995452825769926,0.8695092729402084
+2168373177,Trustâ€based secure information sharing between federal government agencies,2005,39,39,2,0.0,2151923530,Amit Chetal,0,0.3481661642286411,0.4974412785747031
+2159629200,Lightweight Attacks against Channel Assignment Protocols in MIMC Wireless Networks,2011,13,9,4,0.629652,2113776135,Qijun Gu,0,0.1639362940477497,0.6530314529854678
+2144801589,Recovery from malicious transactions,2002,33,123,3,0.0,2307659872,Paul Ammann,0,0.0040557659796233,0.2757546058061082
+2171796489,A Novel Hybrid Trust Management Framework for MANETs,2009,13,9,3,0.625,2100432025,Ruidong Li,0,0.0040557659796233,0.2757546058061082
+2159761921,Protecting web services from remote exploit code a static analysis approach,2008,5,2,4,0.926829,2307924347,Xinran Wang,0,-0.062381790079658626,0.6663522020135398
+2145082693,Tactical bandwidth exhaustion in ad hoc networks,2004,12,11,3,1.0,2113776135,Qijun Gu,0,0.0040557659796233,0.2757546058061082
+2163071707,Special issue on â€œsecurity and privacy in pervasive and ubiquitous computing and communication systemsâ€,2013,0,1,3,0.0,2071596984,Refik Molva,0,0.0040557659796233,0.2757546058061082
+2172821084,Fingerprint Embedding A Proactive Strategy of Detecting Timing Channels,2013,32,0,2,0.0,2627064153,Jing Wang,0,-0.9862800174112625,1.6245028684772693
+2157813000,KTR an efficient key management scheme for air access control,2005,3,0,2,1.0,2113776135,Qijun Gu,0,0.36970109659816214,-1.1149372726606688
+2158333244,An architecture and key management approach for maintaining privacy in location based group services,2005,14,5,2,0.0,2617268189,Yan Sun,0,0.1342882082592307,-0.28130607572409383
+2161620349,Evaluating the survivability of Intrusion Tolerant Database systems and the impact of intrusion detection deficiencies,2007,20,5,2,0.0,2952594956,Hai Wang,0,0.6161245544436148,0.8801536846513155
+2170936430,Signature-free buffer overflow attack blocker,2007,24,40,3,1.0,2149766696,Chi Chun Pan,0,-0.6306141317560993,0.08234786992377814
+2149927846,KTR An Efficient Key Management Scheme for Secure Data Access Control in Wireless Broadcast Services,2009,23,19,2,0.73913,2113776135,Qijun Gu,0,0.44180438286627366,-1.1067715005265082
+2149937049,An Objective Trust Management Framework for Mobile Ad Hoc Networks,2007,14,28,3,0.8,2100432025,Ruidong Li,0,0.0040557659796233,0.2757546058061082
+2271004381,Patrol Revealing Zero-Day Attack Paths through Network-Wide System Object Dependencies,2013,31,9,3,1.0,2422411644,Jun Dai,0,0.14755728550807706,0.9924138508528879
+2273325114,Towards Analyzing the Input Validation Vulnerabilities associated with Android System Services,2015,31,18,3,1.0,2499411977,Chen Cao,0,0.0040557659796233,0.2757546058061082
+2225407496,SILVER Fine-Grained and Transparent Protection Domain Primitives in Commodity OS Kernel,2013,29,2,2,1.0,2166452439,Xi Xiong,0,0.22453905965761586,-0.09072961920192928
+2275041913,Assessing security of mobile telecommunication networks,2008,0,5,2,1.0,1540065645,Kameswari Kotapati,0,-0.39241334237885184,1.43706244379513
+2297229108,A study of selected security measures against non-legitimate use of code,2010,0,0,3,0.0,336502892,George Kesidis,0,-0.255481096177426,0.4843741529378961
+2305644501,Program-object Level Data Flow Analysis with Applications to Data Leakage and Contamination Forensics,2016,32,3,3,0.0,2276995112,Gaoyao Xiao,0,0.0040557659796233,0.2757546058061082
+2295441334,A Practical Approach for Adaptive Data Structure Layout Randomization,2015,33,20,6,0.745542,2141957575,Ping Chen,0,0.0040557659796233,0.2757546058061082
+2337915333,Heterogeneous VM Replication A New Approach to Intrusion Detection Active Response and Recovery in Cloud Data Centers,2015,0,0,3,0.230769,2096176784,Sachin Shetty,0,-0.42667415447566925,0.4276336815908765
+2344257842,Dynamically Discovering Likely Memory Layout to Perform Accurate Fuzzing,2016,39,5,3,0.510204,2311430221,Kai Chen,0,0.0040557659796233,0.2757546058061082
+2398749618,NFPS Adding Undetectable Secure Deletion to Flash Translation Layer,2016,32,12,4,0.882353,2655403944,Shijie Jia,0,-0.17324153726119554,0.6587671663167594
+2380797736,ProtectingWebServicesfromRemoteExploitCode A StaticAnalysisApproach,2008,5,0,4,1.0,1984570994,Yoon Chan Jhi,0,-0.062381790079658626,0.6663522020135398
+2399284314,Kruiser Semi-synchronized Non-blocking Concurrent Kernel Heap Buffer Overflow Monitoring,2012,50,16,4,1.0,2651091031,Donghai Tian,0,0.0040557659796233,0.2757546058061082
+2406043255,Inferring the Stealthy Bridges Between Enterprise Network Islands in Cloud Using Cross-Layer Bayesian Networks,2014,21,5,4,1.0,2307756936,Xiaoyan Sun,0,0.710638776878524,0.6083198675475667
+2397734858,Graphical models for cyber security analysis in enterprise networks,2009,14,49,4,0.6,2168654551,Renato Levy,0,0.35458122520234503,0.6255228452374878
+2397854955,Practical Protection of Kernel Integrity for Commodity OS from Untrusted Extensions,2011,33,58,3,1.0,2166452439,Xi Xiong,0,-1.1819500824145523,1.9152401402989043
+2400599487,Replacement Attacks Automatically Impeding Behavior-Based Malware Specifications,2015,33,7,5,0.818182,2156525752,Jiang Ming,0,-0.27410520138219224,1.2791467325705501
+2471008588,Automate Cybersecurity Data Triage by Leveraging Human Analysts Cognitive Process,2016,19,8,3,0.580421,2109919604,John Yen,0,-0.1112880672739179,0.3275403405410478
+2415376412,On-demand public-key management for mobile ad hoc networks Research Articles,2006,0,3,3,1.0,2100432025,Ruidong Li,0,0.0040557659796233,0.2757546058061082
+2468300721,Empirical Analysis and Modeling of Black-Box Mutational Fuzzing,2016,30,4,2,0.764706,2104023260,Mingyi Zhao,0,-1.6898355564010146,1.5500598856812526
+2468319694,Modeling and Evaluating the Survivability of an Intrusion Tolerant Database System,2006,0,0,2,0.884615,2620711299,Hai Wang,0,1.1794544018504052,1.01943007588203
+2469346691,Impeding behavior-based malware analysis via replacement attacks to malware specifications,2017,39,10,5,0.818182,2156525752,Jiang Ming,0,-0.41404595165451014,1.4783029642839696
+2487489510,Architectures for intrusion tolerant database systems,2002,42,68,1,1.0,2428201908,Peng Liu,0,-0.18618689656946605,0.637946401295037
+2555722146,Towards service continuity for transactional applications via diverse device drivers,2016,32,0,3,0.653686,2138758244,Shengzhi Zhang,0,0.13679434731489165,0.6751406926737795
+2538458302,CREDAL Towards Locating a Memory Corruption Vulnerability with Your Core Dump,2016,29,10,6,1.0,2486718698,Jun Xu,0,-0.3298717486468034,1.2192927984572213
+2549551626,A Comprehensive Survey of Privacy-Preserving in Smart Grid,2016,25,4,4,1.0,2633225052,Guanlin Si,0,-0.022275718374578923,-1.0446982376914642
+2530089259,Privacy Protection in Cloud Computing through Architectural Design,2016,9,0,2,0.443604,2155256094,Meng Yu,0,0.08121348977994089,0.6531813132273829
+2522221759,iCruiser Protecting Kernel Link-Based Data Structures with Secure Canary,2016,35,0,3,0.0,2566794557,Wang Li,0,0.5949974173358913,-0.6410455290088067
+2584658892,Android malware development on public malware scanning platforms A large-scale data-driven study,2016,15,10,6,1.0,2111453272,Heqing Huang,0,-0.39385155031851715,1.635364817126827
+2569067948,Towards a Science for Adaptive Defense Revisit Server Protection,2016,18,1,5,1.0,2438491032,Zhisheng Hu,0,0.0040557659796233,0.2757546058061082
+2553461292,A Comprehensive Study of Co-residence Threat in Multi-tenant Public PaaS Clouds,2016,17,6,7,0.0,2608792731,Weijuan Zhang,0,0.0040557659796233,0.2757546058061082
+2533703061,Call Me Back Attacks on System Server and System Apps in Android through Synchronous Callback,2016,17,9,3,0.0,2661972701,Kai Wang,0,0.0040557659796233,0.2757546058061082
+2519016470,Exploiting Insurance Telematics for Fun and Profit,2016,32,1,7,1.0,2600701014,Le Guan,0,-0.0075554174688383284,0.782614210932782
+2547563342,From Physical to Cyber Escalating Protection for Personalized Auto Insurance,2016,41,11,7,1.0,2600701014,Le Guan,0,-0.0075554174688383284,0.782614210932782
+2547782370,Gaining Big Picture Awareness through an Interconnected Cross-Layer Situation Knowledge Reference Model,2012,24,7,3,1.0,2422411644,Jun Dai,0,0.01935491374990285,0.378898244091345
+2547825552,Context-aware System Service Call-oriented Symbolic Execution of Android Framework with Application to Exploit Generation,2016,26,1,10,0.75,2117680632,Lannan Luo,0,-0.14737887814447595,0.650936557380951
+2560647998,Sanitizing data is not enough towards sanitizing structural artifacts in flash media,2016,28,8,4,0.31958,2441564041,Bo Chen,0,-0.06015876498072683,0.06915836737356329
+2528795537,Repackage-Proofing Android Apps,2016,45,11,5,0.75,2117680632,Lannan Luo,0,0.0643197307053205,-0.2640679958009154
+2536603815,MTD 2016 Third ACM Workshop on Moving Target Defense,2016,0,1,1,1.0,2428201908,Peng Liu,0,-0.20455247481681185,0.24857268111890718
+2605883969,TrustShadow Secure Execution of Unmodified Applications with ARM TrustZone,2017,34,37,2,1.0,2600701014,Le Guan,0,0.1822731046919942,0.706777145399998
+2726834272,Studying Analystsâ€™ Data Triage Operations in Cyber Defense Situational Analysis,2017,38,11,4,0.580421,2109919604,John Yen,0,-0.12102021565804988,0.3984787185412729
+2642628527,Towards Actionable Mission Impact Assessment in the Context of Cloud Computing,2017,21,7,3,1.0,2307756936,Xiaoyan Sun,0,0.4781016145711188,0.3082033792089452
+2727594298,Enterprise-Level Cyber Situation Awareness,2017,79,3,4,1.0,2307756936,Xiaoyan Sun,0,0.2909968940164657,0.5107817184555826
+2613975456,WindowGuard Systematic Protection of GUI Security in Android,2017,14,16,2,0.769231,1994231266,Chuangang Ren,0,0.0040557659796233,0.2757546058061082
+2591278480,Towards probabilistic identification of zero-day attack paths,2016,16,15,3,1.0,2307756936,Xiaoyan Sun,0,0.1611282588745061,0.981359231008732
+2693083423,Cellular Network Security,2009,19,1,2,1.0,1540065645,Kameswari Kotapati,0,0.3259332239481683,0.5745734317069635
+2715951678,Hey you keep away from my device remotely implanting a virus expeller to defeat Mirai on IoT devices,2017,9,3,3,1.0,2499411977,Chen Cao,0,0.09375997723031797,0.8376083455355485
+2626301739,System Service Call-oriented Symbolic Execution of Android Framework with Applications to Vulnerability Discovery and Exploit Generation,2017,44,5,10,0.75,2117680632,Lannan Luo,0,0.1639362940477497,0.6530314529854678
+2744140269,Application-Specific Digital Forensics Investigative Model in Internet of Things (IoT),2017,20,10,2,0.0,1962211903,Tanveer A. Zia,0,0.1822731046919942,0.706777145399998
+2765449849,Online Algorithms for Adaptive Cyber Defense on Bayesian Attack Graphs,2017,33,6,3,1.0,2438491032,Zhisheng Hu,0,0.7443776034961053,0.5810231188446497
+2765466176,IoT S&amp;P 2017 First Workshop on Internet of Things Security and Privacy,2017,0,0,4,0.0,1978504893,Srikanth Sundaresan,0,0.17627440894539687,0.6328449472569616
+2765713146,FlashGuard Leveraging Intrinsic Flash Properties to Defend Against Encryption Ransomware,2017,34,23,4,0.0,2619731038,Jian Huang,0,-0.13463079798198657,0.7143369509284987
+2771655282,Leveraging Information Asymmetry to Transform Android Apps into Self-Defending Code Against Repackaging Attacks,2018,39,2,3,0.296899,2311430221,Kai Chen,0,0.23559095565044424,-0.23666974842689453
+2766050426,DEFTL Implementing Plausibly Deniable Encryption in Flash Translation Layer,2017,27,10,4,0.882353,2655403944,Shijie Jia,0,-0.2409698867023573,-0.8904604920427919
+2742901798,Exploiting Physical Dynamics to Detect Actuator and Sensor Attacks in Mobile Robots,2017,37,2,6,1.0,2427239441,Pinyao Guo,0,-0.6920501700003815,0.346785974209358
+2739765040,Protecting User Privacy Based on Secret Sharing with Error Tolerance for Big Data in Smart Grid,2018,8,0,4,0.138462,2159349560,Zhitao Guan,0,0.6156075916804881,0.3148796207945731
+2752600319,IM-Visor A Pre-IME Guard to Prevent IME Apps from Stealing Sensitive Keystrokes Using TrustZone,2017,26,1,3,1.0,2753488715,Chen Tian,0,0.33017967670212245,0.1632081862297007
+2770971656,Using Bayesian Networks to Fuse Intrusion Evidences and Detect Zero-Day Attack Paths,2017,16,1,5,0.0,2103588732,Anoop Singhal,0,0.023707716465622104,0.4825799354689653
+2752669440,What You See is Not What You Get Thwarting Just-in-Time ROP with Chameleon,2017,43,4,7,0.681487,2141957575,Ping Chen,0,0.0040557659796233,0.2757546058061082
+2752802732,Postmortem Program Analysis with Hardware-Enhanced Post-Crash Artifacts,2017,0,6,4,1.0,2486718698,Jun Xu,0,0.0040557659796233,0.2757546058061082
+2810355897,Android STAR An Efficient Interaction-Preserving Record-Replay System For Messenger App Usage Surveillance,2018,25,0,2,1.0,2970614736,Lun Pin Yuan,0,-0.26207665954628073,0.58467277675105
+2785446263,The Effect of IoT New Features on Security and Privacy New Threats Existing Solutions and Challenges Yet to Be Solved,2019,48,62,3,1.0,2787479756,Wei Zhou,0,0.14936408378902535,0.8198747654921906
+2782416319,Probabilistic Inference of the Stealthy Bridges between Enterprise Networks in Cloud,2018,0,0,4,0.898305,2307756936,Xiaoyan Sun,0,0.0040557659796233,0.2757546058061082
+2807345152,Using IM-Visor to stop untrusted IME apps from stealing sensitive keystrokes,2018,26,0,3,1.0,2753488715,Chen Tian,0,0.17993589760848647,0.3171254069938677
+2807433807,My Friend Leaks My Privacy Modeling and Analyzing Privacy in Social Networks,2018,13,6,4,0.0,2807623396,Lingjing Yu,0,-0.38297672827465196,0.46125068598901287
+2807581456,Security-first architecture deploying physically isolated active security processors for safeguarding the future of computing,2018,30,6,8,0.0,2108055456,Dan Meng,0,-0.21901453279879884,0.03382126744755151
+2796296808,Cybersecurity for digital manufacturing,2018,83,10,4,1.0,41207434,Janis Terpenny,0,0.0040557659796233,0.2757546058061082
+2793461878,A cyber security data triage operation retrieval system,2018,30,3,3,1.0,2134648404,Chen Zhong,0,0.055404654288729004,0.14212347110765644
+2784030825,A Large-scale Study of Android Malware Development Phenomenon on Public Malware Submission and Scanning Platform,2018,0,3,8,0.0,1991166589,Ian Molloy,0,-0.28071484656264584,1.2804470890791197
+2862062712,Assessing Attack Impact on Business Processes by Interconnecting Attack Graphs and Entity Dependency Graphs,2018,18,4,4,1.0,2499411977,Chen Cao,0,0.710638776878524,0.6083198675475667
+2886110661,Impossibility of finding any third family of server protocols integrating Byzantine quorum systems with threshold signature schemes Impossibility theory on server protocols integrating BQSs with TSSs,2013,42,0,4,0.0,2142799780,Qiongxiao Wang,0,0.0040557659796233,0.2757546058061082
+2886703882,Building a Trustworthy Execution Environment to Defeat Exploits from both Cyber Space and Physical Space for ARM,2019,0,1,3,0.905934,2600701014,Le Guan,0,0.09048979630041551,-0.0950215358525949
+2912174110,Proceedings of the 2003 ACM workshop on Survivable and self-regenerative systems in association with 10th ACM Conference on Computer and Communications Security,2003,0,0,2,0.0,2112927533,Partha Pal,0,0.0345193044346854,0.11711036493391322
+2921283316,Towards Cyber Resiliency in the Context of Cloud Computing,2018,0,0,3,0.0,2103588732,Anoop Singhal,0,0.7308725589335464,0.5112600209101331
+2916013565,Cyber security in smart manufacturing Survey and challenges,2017,0,3,3,1.0,41207434,Janis Terpenny,0,-0.2881872631609007,1.3671872027821088
+2890541097,CryptMe Data Leakage Prevention for Unmodified Programs on ARM Devices,2018,26,2,7,1.0,2499411977,Chen Cao,0,-0.15825672836253543,-0.2836855255356178
+2899548659,Phantom Device Attack Uncovering the Security Implications of the Interactions among Devices IoT Cloud and Mobile Apps,2018,0,1,7,1.0,2787479756,Wei Zhou,0,0.14936408378902535,0.8198747654921906
+2902930589,Intelligent Cyber Security Analysis in Enterprise Networks,2007,5,0,3,0.6,2160409110,Jason H. Li,0,0.0040557659796233,0.2757546058061082
+2923699932,MimosaFTL Adding Secure and Practical Ransomware Defense Strategy to Flash Translation Layer,2019,29,0,5,0.0,2923341225,Peiying Wang,0,-0.28206942360856635,1.285160753773184
+2914856323,Toward Cyberresiliency in the Context of Cloud Computing [Resilient Security],2018,5,0,2,0.898305,2307756936,Xiaoyan Sun,0,-0.1263468363595049,0.2087157531210343
+2955270935,Discovering and Understanding the Security Hazards in the Interactions between IoT Devices Mobile Apps and Clouds on Smart Home Platforms,2018,30,0,7,1.0,2787479756,Wei Zhou,0,0.0438009039813555,0.660912305741342
+2945965571,SvTPM A Secure and Efficient vTPM in the Cloud,2019,33,0,7,0.0,2429166198,Juan Wang,0,-1.1747258680504928,-0.030217829817985292
+2995836282,Using Deep Learning to Solve Computer Security Challenges A Survey,2019,63,0,2,0.315595,2130672320,Yoon Ho Choi,0,-0.8765466682188148,1.554431277272503
+2987277830,IoT S&amp;P 2019 2nd Workshop on the Internet of Things Security and Privacy,2019,0,0,2,0.0,2398889897,Yuqing Zhang,0,0.1822731046919942,0.706777145399998
+2970023415,Reinforcement learning for adaptive cyber defense against zero-day attacks,2019,62,2,4,1.0,2438491032,Zhisheng Hu,0,0.08963551694300083,0.35782680717832543
+2974322117,Dynamically Finding Minimal Eviction Sets Can Be Quicker Than You Think for Side-Channel Attacks against the {LLC},2019,0,1,2,0.0,2228430112,Wei Song,0,0.9753907213017128,-0.24445946668398916
+2970307724,MTD Techniques for Memory Protection Against Zero-Day Attacks,2019,38,0,7,0.601433,2141957575,Ping Chen,0,-0.104056339959813,1.5338938782499238
+2988339859,GPT Conjecture Understanding the Trade-offs between Granularity Performance and Timeliness in Control-Flow Integrity,2019,45,0,2,0.0,2983294681,Zhilong Wang,0,0.0040557659796233,0.2757546058061082
+2970444447,Towards Large-Scale Hunting for Android Negative-Day Malware,2019,0,1,4,1.0,2970614736,Lun Pin Yuan,0,0.05940095047987125,0.6960502266457337
+2965747649,Discovering and Understanding the Security Hazards in the Interactions between IoT Devices Mobile Apps and Clouds on Smart Home Platforms,2019,0,4,7,1.0,2787479756,Wei Zhou,0,0.14936408378902535,0.8198747654921906
+2968076530,Good Motive but Bad Design Why ARM MPU Has Become an Outcast in Embedded Systems,2019,4,1,3,1.0,2787479756,Wei Zhou,0,0.18567009206999893,0.730565259678667
+2970898438,Overview of Control and Game Theory in Adaptive Cyber Defenses,2019,52,0,3,0.0,2204331920,George Cybenko,0,-0.24586876820222667,0.1848898116196813
+2971011437,Online and Scalable Adaptive Cyber Defense,2019,70,1,5,0.0,2612026007,Benjamin W. Priest,0,-0.24586876820222667,0.1848898116196813
+2997893473,Logic Bugs in IoT Platforms and Systems A Review,2019,16,0,12,1.0,2787479756,Wei Zhou,0,0.1822731046919942,0.706777145399998
+3007936791,Armor PLC A Platform for Cyber Security Threats Assessments for PLCs,2019,0,0,3,1.0,2123745580,Dazhong Wu,0,0.0040557659796233,0.2757546058061082
+3011894540,Automatic recognition of advanced persistent threat tactics for enterprise security,2020,9,0,4,0.0,3011769218,Qingtian Zou,0,-0.641205046681371,1.1984911664095663
+3015751692,Unexpected Data Dependency Creation and Chaining A New Attack to SDN,2020,0,0,6,0.0,2605019454,Feng Xiao,0,0.0040557659796233,0.2757546058061082
+3005322292,Can Cyber Operations Be Made Autonomous An Answer from the Situational Awareness Viewpoint,2020,14,0,3,1.0,2134648404,Chen Zhong,0,0.11259000006634194,0.3294764488794644
+3023725427,Chapter 11 â€“ Cellular Network Security,2014,9,0,2,1.0,1540065645,Kameswari Kotapati,0,-0.17324153726119554,0.6587671663167594
+3023914595,Chapter 20 â€“ Cellular Network Security,2013,2,0,2,1.0,1540065645,Kameswari Kotapati,0,-0.17324153726119554,0.6587671663167594
+3017329081,VaultIME Regaining User Control for Password Managers through Auto-correction,2018,0,2,6,0.9375,2600701014,Le Guan,0,-0.3912276319926795,0.07353894049935202
+3006958150,Practical Verification of MapReduce Computation Integrity via Partial Re-execution,2020,0,0,2,0.0,3007103282,Eunjung Yoon,0,0.29392382053358135,0.10045542812224656
+1499366546,Intrusion confinement by isolation in information systems,2000,16,44,1,1.0,2428201908,Peng Liu,0,0.8132086575740218,0.9257086063639175
+1995781254,SCCR a generic approach to simultaneously achieve CCA security and collusion-resistance in proxy re-encryption,2011,43,22,4,0.266093,2120414770,Jun Shao,0,0.21618757790299764,-1.6681895939129978
+2122782595,Semantic aware attribution analysis of remote exploits,2013,31,2,5,1.0,2129715908,Deguang Kong,0,0.8770957777503273,0.7878042121150818
+2407639461,Uncovering the Dilemmas on Antivirus Software Design in Modern Mobile Platforms,2014,26,3,4,1.0,2111453272,Heqing Huang,0,0.05940095047987125,0.6960502266457337
+2519687663,Stay in Your Cage A Sound Sandbox for Third-Party Libraries on Android,2016,19,6,6,0.0,2656358973,Fabo Wang,0,0.1277271663146797,0.24067959541525985
+2972481639,Identifying Privilege Separation Vulnerabilities in IoT Firmware with Symbolic Execution,2019,22,1,8,1.0,2900279718,Yao Yao,0,0.5572143413507267,1.4037965928288259

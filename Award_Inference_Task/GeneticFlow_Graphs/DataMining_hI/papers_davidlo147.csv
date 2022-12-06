@@ -1,0 +1,152 @@
+66783427,Should I follow this fault localization tools output ,2015,59,30,3,1.0,1011742574,Ferdian Thung,0,-0.4170893965654132,-0.03392543037269221
+169513433,Predicting Best Answerers for New Questions An Approach Leveraging Topic Modeling and Collaborative Voting,2013,13,25,5,1.0,2150426404,Yuan Tian,0,-0.23660005697402586,0.30528897076502726
+805635745,Data from Extended Comprehensive Study of Association Measures for Fault Localization,2014,0,1,3,1.0,1011742574,Ferdian Thung,0,0.003708468606338,0.082832279151172
+1498352890,Mining and Ranking Generators of Sequential Pattern,2008,27,43,1,1.0,2132927693,David Lo,0,-0.313250122242983,0.3019422694332269
+1566283582,Specification Mining A Concise Introduction,2011,72,1,2,0.0,2121939561,Jiawei Han,0,0.003708468606338,0.082832279151172
+1530885903,Efficient mining of recurrent rules from a sequence database,2008,40,24,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+1585800096,Mining Past-Time Temporal Rules A Dynamic Analysis Approach,2009,38,1,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+1873896917,F-Trail Finding Patterns in Taxi Trajectories,2013,27,11,4,0.0,2106416586,Yasuko Matsubara,0,-0.23596603161225885,0.32842752035054174
+1655956671,Deep Learning for Just-in-Time Defect Prediction,2015,40,85,2,1.0,2313161350,Xinli Yang,0,-0.6989857061304979,3.3814893203034666
+1656679015,An Empirical Study of Classifier Combination for Cross-Project Defect Prediction,2015,28,46,2,0.0,2924151979,Yun Zhang,0,0.8245468185354775,0.5731818252050969
+1659144702,Active Semi-supervised Approach for Checking App Behavior against Its Description,2015,17,12,3,0.0,2308301262,Siqi Ma,0,0.34189213798870693,-0.0085938730499827
+1973396373,Concern Localization using Information Retrieval An Empirical Study on Linux Kernel,2011,33,38,2,1.0,2141124011,Shaowei Wang,0,0.003708468606338,0.082832279151172
+1970066601,Mining indirect antagonistic communities from social interactions,2013,40,22,2,1.0,2170883979,Kuan Zhang,0,-0.321642828869554,-0.11066087113828381
+1964872032,Predicting Effectiveness of IR-Based Bug Localization Techniques,2014,36,18,3,1.0,2132183005,Tien Duy B. Le,0,-0.31903011124084474,0.17325680244668581
+1973644552,Fusion fault localizers,2014,48,41,2,0.75,2617773571,Lucia,0,0.003708468606338,0.082832279151172
+1968451194,Data Mining for Software Engineering,2009,12,102,3,0.0,1920070090,Tao Xie,0,0.003708468606338,0.082832279151172
+1975475221,Automatic recovery of root causes from bug-fixing changes,2013,48,11,2,1.0,1011742574,Ferdian Thung,0,-0.3224513172225988,0.1037120505302715
+1982475183,Mining direct antagonistic communities in signed social networks,2013,36,16,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+1981537308,Interactive fault localization leveraging simple user feedback,2012,31,24,2,0.0,2299365732,Liang Gong,0,0.003708468606338,0.082832279151172
+1980015727,Information retrieval and spectrum based bug localization better together,2015,49,67,3,1.0,2132183005,Tien Duy B. Le,0,-0.1013222579007157,0.4337245762547287
+1978365593,Automated Configuration Bug Report Prediction Using Text Mining,2014,35,26,2,0.962264,2167586149,Xin Xia,0,0.02584286998285738,0.2749292411158348
+1989049987,Cross-project build co-change prediction,2015,34,17,2,0.760314,2167586149,Xin Xia,0,1.132801377542513,0.556655268965941
+1999597953,Mining branching-time scenarios,2013,40,25,2,0.0,2077980271,Dirk Fahland,0,0.1806435589460832,0.32860245639111113
+1992984518,Beyond support and confidence Exploring interestingness measures for rule-based specification mining,2015,36,20,2,1.0,2132183005,Tien Duy B. Le,0,-0.0954160542956513,0.3237316652664622
+1987843766,Automatic Fine-Grained Issue Report Reclassification,2014,37,16,3,1.0,2108168052,Pavneet Singh Kochhar,0,-0.3224513172225988,0.1037120505302715
+1987866363,Its not a bug its a feature does misclassification affect bug localization ,2014,13,6,3,1.0,2108168052,Pavneet Singh Kochhar,0,0.003708468606338,0.082832279151172
+1988019370,Bug Signature Minimization and Fusion,2011,14,3,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+1993970793,Mining patterns and rules for software specification discovery,2008,32,3,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+2001123253,Mining quantified temporal rules Formalism algorithms and evaluation,2012,13,29,1,1.0,2132927693,David Lo,0,-0.8087157163230292,-0.6375276567509433
+2029947921,On the usefulness of ownership metrics in open-source software projects,2015,31,8,3,0.0,2151817256,Matthieu Foucault,0,0.003708468606338,0.082832279151172
+2024904693,Towards more accurate multi-label software behavior learning,2014,32,27,3,0.962264,2167586149,Xin Xia,0,0.003708468606338,0.082832279151172
+2030284415,Mining Collaboration Patterns from a Large Developer Network,2010,15,39,2,0.4,2021959541,Didi Surian,0,0.6570362209349382,-1.4520433044403747
+2030503727,Automatic Defect Categorization Based on Fault Triggering Conditions,2014,35,16,2,0.962264,2167586149,Xin Xia,0,0.23426816038451853,0.2864670412078132
+2038280457,Mining closed discriminative dyadic sequential patterns,2011,26,16,1,1.0,2132927693,David Lo,0,-0.08010596916561752,0.04492184225891789
+2040577374,Version history similar report and structure putting them together for improved bug localization,2014,33,93,2,1.0,2141124011,Shaowei Wang,0,0.003708468606338,0.082832279151172
+2042343780,An empirical study of bug report field reassignment,2014,29,18,2,0.962264,2167586149,Xin Xia,0,0.003708468606338,0.082832279151172
+2038917214,ELBlocker Predicting blocking bugs with ensemble imbalance learning,2015,44,46,2,0.760314,2167586149,Xin Xia,0,0.6896432014619596,-0.1037242438311099
+2053146815,AutoQuery automatic construction of dependency queries for code search,2016,48,5,2,1.0,2141124011,Shaowei Wang,0,0.003708468606338,0.082832279151172
+2047950174,Automated prediction of bug report priority using multi-factor analysis,2015,33,47,2,1.0,2150426404,Yuan Tian,0,1.0819989973680602,0.557692368737575
+2053352009,Automatic steering of behavioral model inference,2009,35,74,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+2055079831,Predicting response in mobile advertising with hierarchical importance-aware factorization machine,2014,22,61,4,0.625,1526539107,Richard J. Oentaryo,0,0.003708468606338,0.082832279151172
+2044626695,Mining modal scenarios from execution traces,2007,11,1,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+2075780741,Evaluating defect prediction approaches using a massive set of metrics an empirical study,2015,17,8,2,0.0,2096184844,Xiao Xuan,0,0.2208118232128094,0.4884503122393375
+2067053867,Build system analysis with link prediction,2014,11,6,2,0.962264,2167586149,Xin Xia,0,-0.1903446618531494,0.35206059539303214
+2075924051,Tag recommendation in software information sites,2013,37,96,2,0.962264,2167586149,Xin Xia,0,0.08329114195231535,0.32893178638165566
+2058928127,Mining Iterative Generators and Representative Rules for Software Specification Discovery,2011,37,13,1,1.0,2132927693,David Lo,0,0.36961615338683507,0.04520172406723675
+2065935256,Condensing class diagrams by analyzing design and network metrics using optimistic classification,2014,32,17,2,1.0,1011742574,Ferdian Thung,0,0.003708468606338,0.082832279151172
+2076594491,What does software engineering community microblog about,2012,16,35,4,1.0,2150426404,Yuan Tian,0,0.09869918664672195,-0.18633352365711692
+2099705801,LM a miner for scenario-based specifications,2010,9,5,2,0.0,2433194120,Tuan Anh Doan,0,0.05277761530207207,0.17460315132642848
+2084503069,Will Fault Localization Work for These Failures An Automated Approach to Predict Effectiveness of Fault Localization Tools,2013,41,28,2,1.0,2132183005,Tien Duy B. Le,0,-0.4170893965654132,-0.03392543037269221
+2082805143,Compositional Vector Space Models for Improved Bug Localization,2014,47,45,2,1.0,2141124011,Shaowei Wang,0,-0.1916888409096968,-0.26501256474732954
+2095264893,On detecting maximal quasi antagonistic communities in signed graphs,2016,43,9,3,0.0,2233450724,Ming Gao,0,0.003708468606338,0.082832279151172
+2100911759,Towards more accurate content categorization of API discussions,2014,39,16,3,0.0,2714334729,Bo Zhou,0,0.8784519917729253,0.5708168336949552
+2095632607,RCLinker automated linking of issue reports and commits leveraging rich contextual information,2015,66,27,3,1.0,2132183005,Tien Duy B. Le,0,-0.5442538671051075,-0.0015272632806924008
+2096003418,Active semi-supervised defect categorization,2015,36,16,3,1.0,1011742574,Ferdian Thung,0,-0.21934185016841626,0.6056873083074126
+2099287547,Scenario-based and value-based specification mining better together,2010,69,61,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+2087343574,An empirical assessment of Bellons clone benchmark,2015,26,10,3,0.0,2600294020,Alan Charpentier,0,0.003708468606338,0.082832279151172
+2117525189,Understanding task-driven information flow in collaborative networks,2012,31,12,6,0.0,2140287697,Gengxin Miao,0,0.5152817001823231,1.0205214533399902
+2141422241,Matching dependence-related queries in the system dependence graph,2010,21,36,2,0.0,2144673113,Xiaoyin Wang,0,0.003708468606338,0.082832279151172
+2111923861,Mining past-time temporal rules from execution traces,2008,42,34,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+2109044768,A Comparative Study of Supervised Learning Algorithms for Re-opened Bug Prediction,2013,16,24,2,0.962264,2167586149,Xin Xia,0,0.19844063196661313,-0.04546915366744107
+2109073716,Predicting Project Outcome Leveraging Socio-Technical Network Patterns,2013,16,11,3,0.4,2021959541,Didi Surian,0,0.003708468606338,0.082832279151172
+2126834265,SMArTIC towards building an accurate robust and scalable specification miner,2006,38,124,1,1.0,2132927693,David Lo,0,-0.21934185016841626,0.6056873083074126
+2115105080,Empirical Evaluation of Bug Linking,2013,36,41,4,0.155172,1484347589,TegawendÃ© F. BissyandÃ©,0,0.003708468606338,0.082832279151172
+2123916114,Mining top-K large structural patterns in a massive network,2011,34,56,3,0.0,2160602068,Feida Zhu,0,0.21438872843298346,-0.1353423822296997
+2112558645,Classification of software behaviors for failure detection a discriminative pattern mining approach,2009,25,143,1,1.0,2132927693,David Lo,0,0.1196886985743213,0.1939449373646738
+2133108681,Improved Duplicate Bug Report Identification,2012,23,66,3,1.0,2150426404,Yuan Tian,0,0.003708468606338,0.082832279151172
+2136230992,Efficient mining of iterative patterns for software specification discovery,2007,32,96,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+2109987725,Constrained feature selection for localizing faults,2015,14,5,2,1.0,2132183005,Tien Duy B. Le,0,-0.25023896793326905,0.13037718530513653
+2113548992,Mining Hierarchical Scenario-Based Specifications,2009,27,27,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+2128343678,Non-redundant sequential rules-Theory and algorithm,2009,29,46,1,1.0,2132927693,David Lo,0,-0.3195165309361711,0.03692148325579081
+2110723042,Efficient Mining of Closed Repetitive Gapped Subsequences from a Sequence Database,2009,22,80,2,0.0,2642048689,Bolin Ding,0,-0.053192061154895054,0.3259179070505593
+2125571188,Identifying bug signatures using discriminative graph mining,2009,23,105,2,0.0,2161754280,Hong Cheng,0,0.003708468606338,0.082832279151172
+2108017975,Cross-language bug localization,2014,11,20,2,0.962264,2167586149,Xin Xia,0,0.003708468606338,0.082832279151172
+2117227762,Mining Scenario-Based Triggers and Effects,2008,26,49,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+2147699889,Extended comprehensive study of association measures for fault localization,2014,69,59,2,0.0,2095624615,Lucia Lucia,0,0.003708468606338,0.082832279151172
+2153772697,Bidirectional mining of non-redundant recurrent rules from a sequence database,2011,26,6,1,1.0,2132927693,David Lo,0,-0.34841194659538965,-0.10142585373365
+2148086182,Detecting click fraud in online advertising a data mining approach,2014,41,25,4,0.625,1526539107,Richard J. Oentaryo,0,0.07163810938697977,0.051961599177697715
+2154174892,Mining interesting link formation rules in social networks,2010,18,27,3,0.0,2712545342,Cane Wing ki Leung,0,-0.0769353016057025,-0.2600287055078183
+2169381585,Mining antagonistic communities from social networks,2010,56,8,2,1.0,2170883979,Kuan Zhang,0,-0.2848009883361741,-0.2685804658780362
+2151489688,Learning extended FSA from software An empirical assessment,2012,40,43,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+2148615889,Automatic high accuracy prediction of reopened bugs,2015,52,38,2,0.760314,2167586149,Xin Xia,0,-0.3224513172225988,0.1037120505302715
+2145962622,Mining message sequence graphs,2011,33,30,4,0.0,2916634763,Sandeep Kumar,0,-0.3224513172225988,0.1037120505302715
+2167381349,Comprehensive evaluation of association measures for fault localization,2010,51,53,2,0.75,2617773571,Lucia,0,0.003708468606338,0.082832279151172
+2170694668,Mining Quantified Temporal Rules Formalism Algorithms and Evaluation,2009,12,12,1,1.0,2132927693,David Lo,0,-0.8087157163230292,-0.6375276567509433
+2164641534,Understanding Widespread Changes A Taxonomic Study,2013,53,10,2,1.0,2141124011,Shaowei Wang,0,0.003708468606338,0.082832279151172
+2170832568,Collective Churn Prediction in Social Network,2012,12,29,3,0.546992,1526539107,Richard J. Oentaryo,0,0.003708468606338,0.082832279151172
+2150161432,Dual analysis for recommending developers to resolve bugs,2015,42,36,2,0.760314,2167586149,Xin Xia,0,-0.3677710770512704,0.2533108521054496
+2200054515,On the unreliability of bug severity data,2016,34,11,3,1.0,2150426404,Yuan Tian,0,0.34402371984857977,0.18048399119476494
+2239327973,Multi-Factor Duplicate Question Detection in Stack Overflow,2015,39,37,2,1.0,2677455848,Yun Zhang,0,-0.17536238923574604,0.4144853997593385
+2248392824,Synergizing Specification Miners through Model Fissions and Fusions (T),2015,34,28,3,1.0,2132183005,Tien Duy B. Le,0,0.003708468606338,0.082832279151172
+2248492690,CNL Collective Network Linkage Across Heterogeneous Social Platforms,2015,8,15,3,0.0,2233450724,Ming Gao,0,0.3311084524049866,0.26300344268183734
+2244669237,Combining Software Metrics and Text Features for Vulnerable File Prediction,2015,40,19,2,0.0,2924151979,Yun Zhang,0,0.38905062619483877,0.15783464470674233
+2312398278,HYDRA Massively Compositional Model for Cross-Project Defect Prediction,2016,55,86,2,0.644161,2167586149,Xin Xia,0,-0.07128475548629686,-0.10082818348292794
+2344977062,Automated Bug Report Field Reassignment and Refinement Prediction,2016,37,14,2,0.644161,2167586149,Xin Xia,0,-0.37443999203799055,0.006897017974421951
+2400994325,History Driven Program Repair,2016,47,129,2,1.0,2955351012,Xuan Bach D. Le,0,0.003708468606338,0.082832279151172
+2407582512,Domain-specific cross-language relevant question retrieval,2016,31,13,4,1.0,2244051801,Bowen Xu,0,0.2411296976350509,0.19514062197806442
+2404969801,A deeper look into bug fixes patterns replacements deletions and additions,2016,11,21,5,0.0,2615097187,Mauricio Soto,0,-0.5442538671051075,-0.0015272632806924008
+2384902034,EFSPredictor Predicting Configuration Bugs with Ensemble Feature Selection,2015,43,7,2,1.0,2244051801,Bowen Xu,0,-0.294958576059725,0.2940144274150551
+2467081328,Learning to rank for bug report assignee recommendation,2016,29,15,3,1.0,2150426404,Yuan Tian,0,0.003708468606338,0.082832279151172
+2498276117,Collective Personalized Change Classification With Multiobjective Search,2016,64,20,2,0.644161,2167586149,Xin Xia,0,0.11672415509507165,0.0338187686908989
+2417608402,Improving Automated Bug Triaging with Specialized Topic Model,2017,36,53,2,0.496586,2167586149,Xin Xia,0,-0.753104331542272,-0.024570913808007133
+2465098971,A learning-to-rank based fault localization approach using likely invariants,2016,61,55,2,1.0,2132183005,Tien Duy B. Le,0,-0.21934185016841626,0.6056873083074126
+2461637412,Collective Semi-Supervised Learning for User Profiling in Social Media,2016,26,1,5,0.609989,1526539107,Richard J. Oentaryo,0,0.34189213798870693,-0.0085938730499827
+2509454591,It Takes Two to Tango Deleted Stack Overflow Question Prediction with Text and Meta Features,2016,35,13,2,0.644161,2167586149,Xin Xia,0,0.22634389122649645,-0.1273762847622864
+2549558042,CareerMapper An automated resume evaluation tool,2016,0,1,7,0.0,2227645517,Vivian Lai,0,0.003708468606338,0.082832279151172
+2530359946,AmaLgam+ Composing Rich Information Sources for Accurate Bug Localization,2016,40,22,2,1.0,2141124011,Shaowei Wang,0,0.003708468606338,0.082832279151172
+2517817194,An effective change recommendation approach for supplementary bug fixes,2017,56,13,2,0.496586,2167586149,Xin Xia,0,0.003708468606338,0.082832279151172
+2518240829,Condensing Class Diagrams With Minimal Manual Labeling Cost,2016,28,6,2,1.0,2313161350,Xinli Yang,0,-0.15431601105532872,0.7296018150979667
+2560459826,ORPLocator Identifying Read Points of Configuration Options via Static Analysis,2016,22,5,3,0.0,2239612353,Zhen Dong,0,0.003708468606338,0.082832279151172
+2570487166,High-Impact Bug Report Identification with Imbalanced Learning Strategies,2017,46,19,2,0.0,2895519888,Xin Li Yang,0,0.9140015135170768,0.5598060300707938
+2560766692,Will this localization tool be effective for this bug Mitigating the impact of unreliability of information retrieval based bug localization tools,2017,66,9,3,1.0,2132183005,Tien Duy B. Le,0,-0.31903011124084474,0.17325680244668581
+2536407691,Spiteful One-Off and Kind Predicting Customer Feedback Behavior on Twitter,2016,20,1,3,0.857143,2531970104,Agus Sulistya,0,0.003708468606338,0.082832279151172
+2727347990,Who will leave the company a large-scale industry study of developer turnover by mining monthly work report,2017,52,12,4,0.884615,2230488151,Lingfeng Bao,0,0.3908393230329766,0.462035383214502
+2611015475,WebAPIRec Recommending Web APIs to Software Projects via Personalized Ranking,2017,41,8,3,0.978425,1011742574,Ferdian Thung,0,0.057232854075639064,-2.050130281159482
+2599212561,TLEL A two-layer ensemble learning approach for just-in-time defect prediction,2017,51,38,2,1.0,2313161350,Xinli Yang,0,0.13451204241694054,0.2284965230725488
+2612300213,Augmenting and structuring user queries to support efficient free-form code search,2018,57,7,4,0.0,2612578425,Raphael Sirres,0,-0.4272049769764657,-0.867399379623106
+2608489681,Characterizing malicious Android apps by mining topic-specific data flow signatures,2017,52,9,2,1.0,2313161350,Xinli Yang,0,-0.17536238923574604,0.4144853997593385
+2724374034,Bug characteristics in blockchain systems a large-scale empirical study,2017,65,20,2,1.0,2225180883,Zhiyuan Wan,0,0.003708468606338,0.082832279151172
+2777409625,Fusing multi-abstraction vector space models for concern localization,2018,70,4,2,1.0,2677455848,Yun Zhang,0,-0.24593697629907454,0.07203779695761532
+2774137886,File-level defect prediction unsupervised vs supervised models,2017,50,13,3,1.0,2907510341,Meng Yan,0,0.056693779488648066,-0.0140665590106536
+2771653519,The impact of coverage on bug density in a large industrial software project,2017,16,4,4,0.0,2693789485,Thomas Bach,0,0.1106738323377821,0.29309391158309506
+2738381526,EnTagRec ++ An enhanced tag recommendation system for software information sites,2018,48,12,2,0.863438,2141124011,Shaowei Wang,0,0.08329114195231535,0.32893178638165566
+2750954734,Inferring Spread of Readersâ€™ Emotion Affected by Online News,2017,18,0,2,0.978425,1011742574,Ferdian Thung,0,0.003708468606338,0.082832279151172
+2767059431,Domain-specific cross-language relevant question retrieval,2018,49,1,4,1.0,2244051801,Bowen Xu,0,0.18626953451291692,0.015527257143967984
+2767894374,Supervised vs Unsupervised Models A Holistic Look at Effort-Aware Just-in-Time Defect Prediction,2017,55,30,3,1.0,2432128438,Qiao Huang,0,-0.3224513172225988,0.1037120505302715
+2789057414,Network-Clustered Multi-Modal Bug Localization,2019,65,5,4,0.0,2789075369,Thong Hoang,0,-0.21934185016841626,0.6056873083074126
+2799610300,Automating Change-Level Self-Admitted Technical Debt Determination,2019,68,12,4,1.0,2907510341,Meng Yan,0,0.003708468606338,0.082832279151172
+2793878264,Early prediction of merged code changes to prioritize reviewing tasks,2018,68,14,3,0.0,2793348302,Yuanrui Fan,0,0.06297899378621884,0.2158294320634974
+2791415964,Overfitting in semantics-based automated program repair,2018,39,18,3,1.0,2955351012,Xuan Bach D. Le,0,0.003708468606338,0.082832279151172
+2797854736,Mining and Ranking Generators of Sequential Pattern,2008,0,0,1,1.0,2132927693,David Lo,0,0.003708468606338,0.082832279151172
+2884276923,Deep code comment generation,2018,47,71,4,1.0,2743889074,Xing Hu,0,0.003708468606338,0.082832279151172
+2884588161,Recommending frequently encountered bugs,2018,51,0,2,1.0,2677455848,Yun Zhang,0,0.003708468606338,0.082832279151172
+2884826257,Analyzing requirements and traceability information to improve bug localization,2018,56,7,2,0.0,2703065901,Michael Rath,0,0.003708468606338,0.082832279151172
+2898383220,Revisiting supervised and unsupervised models for effort-aware just-in-time defect prediction,2019,63,4,3,1.0,2432128438,Qiao Huang,0,-0.3224513172225988,0.1037120505302715
+2895210669,Prediction of relatedness in stack overflow deep learning vs SVM a reproducibility study,2018,33,3,3,1.0,2244051801,Bowen Xu,0,0.003708468606338,0.082832279151172
+2899180781,DSM a specification mining tool using recurrent neural network based language model,2018,17,1,3,0.988232,2132183005,Tien Duy B. Le,0,-0.21934185016841626,0.6056873083074126
+2918988529,Characterizing and identifying reverted commits,2019,60,1,3,1.0,2907510341,Meng Yan,0,0.31484412112737625,0.2579936097006229
+2911789761,Automatic query reformulation for code search using crowdsourced knowledge,2019,68,2,3,0.0,2901399678,Mohammad Masudur Rahman,0,0.003708468606338,0.082832279151172
+2927913379,DeepReview Automatic Code Review Using Deep Multi-instance Learning,2019,21,1,7,0.0,2926741722,Heng Yi Li,0,0.003708468606338,0.082832279151172
+2955991060,DeepJIT an end-to-end deep learning framework for just-in-time defect prediction,2019,78,5,4,0.0,2789075369,Thong Hoang,0,0.16274948180692736,-0.15011593599616646
+2949297108,Deep code comment generation with hybrid lexical and syntactical information,2020,55,3,4,1.0,2743889074,Xing Hu,0,0.003708468606338,0.082832279151172
+2964279097,The impact of changes mislabeled by SZZ on just-in-time defect prediction,2019,0,5,3,0.0,2096177514,Daniel Alencar da Costa,0,0.003708468606338,0.082832279151172
+2999799926,Statistical Log Differencing,2019,32,0,3,0.884615,2230488151,Lingfeng Bao,0,0.003708468606338,0.082832279151172
+2977921056,SIEVE Helping developers sift wheat from chaff via cross-platform analysis,2020,89,0,4,0.857143,2531970104,Agus Sulistya,0,0.36961615338683507,0.04520172406723675
+2971660263,Why reinventing the wheels An empirical study on library reuse and re-implementation,2020,30,0,5,1.0,2244051801,Bowen Xu,0,0.08329114195231535,0.32893178638165566
+2507460979,Code Comment Quality Analysis and Improvement Recommendation An Automated Approach,2016,18,2,4,0.366084,2335982533,Xiaobing Sun,0,0.003708468606338,0.082832279151172
+2606787381,Clustering Classes in Packages for Program Comprehension,2017,35,5,6,0.366084,2335982533,Xiaobing Sun,0,-0.7824239721640521,0.10289702522404225
+2604794021,What do developers search for on the web,2017,30,41,4,0.496586,2167586149,Xin Xia,0,0.2947477499638471,-2.7960764278388974
+2612705982,Identifying self-admitted technical debt in open source projects using text mining,2018,60,27,5,1.0,2432128438,Qiao Huang,0,0.1196886985743213,0.1939449373646738
+2755579216,Inference of development activities from interaction with uninstrumented applications,2018,50,9,5,0.884615,2230488151,Lingfeng Bao,0,0.003708468606338,0.082832279151172
+2954975888,Practical and effective sandboxing for Linux containers,2019,43,0,3,1.0,2225180883,Zhiyuan Wan,0,0.003708468606338,0.082832279151172

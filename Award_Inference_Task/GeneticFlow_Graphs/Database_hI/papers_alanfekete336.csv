@@ -1,0 +1,60 @@
+114736410,Automatic undo for cloud management via AI planning,2012,24,15,3,0.0,2105695414,Ingo Weber,0,0.31457476897691206,0.11723307589309545
+81743272,Expressiveness of Workflow Description Languages,2003,10,7,2,1.0,2225692823,Julian Jang,0,0.2946713761785912,0.4027268098681643
+84021282,Serialisability and Snapshhot Isolation,1999,0,1,1,1.0,2154123352,Alan Fekete,0,-0.0041099411153885,0.0447066884760059
+1523194426,Coordination Avoidance in Database Systems (Extended Version),2014,77,2,4,0.705882,734473377,Ali Ghodsi,0,-0.0873632243068517,-0.0824034282341078
+1498844898,The service contract between cloud provider and consumer Consistency properties,2015,0,0,1,1.0,2154123352,Alan Fekete,0,-0.01331521138473075,0.17670384109426496
+1553911087,A service-oriented workflow language for robust interacting applications,2005,27,12,2,0.0,2157563740,Surya Nepal,0,0.2946713761785912,0.4027268098681643
+1484084912,Consistency for web services applications,2005,8,31,4,0.818182,2111184222,Paul Greenfield,0,-0.4952370533090319,-0.40710710999814825
+1528759362,A Theory of Timestamp-Based Concurrency Control for Nested Transactions,1988,9,21,2,0.0,2255722903,James Aspnes,0,2.640689666902642,3.163067525262721
+1547188156,An enactment-engine based on use-cases,2007,31,1,2,0.0,2022257165,Avner Ottensooser,0,0.6665041731034329,1.4901896955761065
+1503091156,Highly Available Transactions Virtues and Limitations (Extended Version),2013,52,7,4,0.705882,734473377,Ali Ghodsi,0,0.13059273330016538,0.40793840808522885
+1496098589,Metadata-as-a-Service,2015,19,3,3,0.769231,2124598522,Akon Dey,0,-0.09836431832026665,0.28030637251809576
+1549414577,Serializable executions with snapshot isolation modifying application code or mixing isolation levels ,2008,12,8,2,0.282287,2140136442,Uwe RÃ¶hm,0,1.9571659516511102,2.5141223701915587
+1580989323,Transactions in loosely coupled distributed systems,2003,6,13,1,1.0,2154123352,Alan Fekete,0,-0.5921692659501367,-0.23345260078426908
+1917670444,Event aware workload prediction a study using auction events,2012,18,11,2,0.0,79454733,Matthew Sladescu,0,-0.0041099411153885,0.0447066884760059
+1601925768,Highly available transactions virtues and limitations,2013,56,124,3,0.5,2049394146,Peter Bailis,0,0.13059273330016538,0.40793840808522885
+1968658954,A read-only transaction anomaly under snapshot isolation,2004,5,51,1,1.0,2154123352,Alan Fekete,0,2.901017161242375,3.1199610545291456
+1976216569,YCSB+T Benchmarking web-scale transactional databases,2014,29,35,2,0.744681,2124598522,Akon Dey,0,1.2465665692538024,0.09969821224661016
+1987358714,Serializable isolation for snapshot databases,2008,40,83,3,1.0,2560104409,Michael J. Cahill,0,1.907611388491371,2.206984900315895
+1989306170,The Cost of Serializability on Platforms That Use Snapshot Isolation,2008,16,50,3,0.857143,2464352497,Mohammad Alomari,0,2.2324357223347246,2.427074707015915
+1987844293,Multi-version Concurrency via Timestamp Range Conflict Management,2012,28,41,2,0.0,1983664831,David B. Lomet,0,2.7354778657898837,3.4993566860393774
+1996952974,Making snapshot isolation serializable,2005,18,236,1,1.0,2154123352,Alan Fekete,0,2.092772258209517,2.444628838608931
+1995339490,Scalable atomic visibility with RAMP transactions,2014,44,73,2,0.532232,2049394146,Peter Bailis,0,1.3553236123019152,0.7694558224982472
+2020660979,Curracurrong cloud Stream processing in the cloud,2014,21,2,3,0.0,2008212565,Vasvi Kakkad,0,-0.0041099411153885,0.0447066884760059
+2025964097,Relaxed-currency serializability for middle-tier caching and replication,2006,28,49,2,0.0,2304774990,Philip A. Bernstein,0,2.678067231118849,2.9207585474069444
+2027764785,Performance of program modification techniques that ensure serializable executions with snapshot isolation DBMS,2014,32,3,2,0.8,2464352497,Mohammad Alomari,0,2.126695873613601,2.3926834544691338
+2016393284,Scalable serializable snapshot isolation for multicore systems,2014,19,8,4,1.0,2103515468,Hyuck Han,0,2.3117963615093475,2.9680616893808556
+2037085022,A teaching system for SQL,1997,11,27,3,0.0,2711717754,R. Kearns,0,0.8266483623517606,0.18931489170830365
+2052987550,Feral Concurrency Control An Empirical Investigation of Modern Application Integrity,2015,51,32,2,0.532232,2049394146,Peter Bailis,0,1.341345420873168,0.5356692881308837
+2057583008,Data Consistency Properties and the Trade-offs in Commercial Cloud Storages the Consumers Perspective,2011,26,139,1,1.0,2154123352,Alan Fekete,0,-0.1400883555798999,0.46069656715687746
+2077031886,PLANET making progress with commit processing in unpredictable environments,2014,28,11,4,0.0,2638949648,Gene Pang,0,2.158021719060683,2.171806169453205
+2102367896,Isolation Support for Service-based Applications A Position Paper,2006,9,13,2,0.818182,2111184222,Paul Greenfield,0,-1.7960347969011583,-0.6524263050941326
+2102459581,Scalable transactions across heterogeneous NoSQL key-value data stores,2013,21,13,3,0.744681,2124598522,Akon Dey,0,1.1420039588212987,0.5902142350978872
+2129395942,Expressing and Reasoning about Service Contracts in Service-Oriented Computing,2006,7,14,2,0.0,2987907671,Dean Kuo,0,-0.9523242489063621,-0.6703697723987461
+2138536231,Automating the detection of snapshot isolation anomalies,2007,11,66,2,0.0,1425447557,Sudhir Jorwekar,0,0.9084051112045654,0.9403670044019272
+2135862451,An empirical study of commutativity in application code,2003,11,5,2,0.0,2420529539,P. Wu,0,0.8286466699603369,1.0027583038282522
+2143085755,Application-Managed Database Replication on Virtualized Cloud Environments,2012,23,11,3,0.0,2309420576,Liang Zhao,0,0.3662868198342577,-0.14795778101525187
+2140254486,Delivering Promises for Web Services Applications,2007,9,8,2,1.0,2225692823,Julian Jang,0,-1.811871513377091,-2.4264244710821803
+2125787115,Scalable distributed transactions across heterogeneous stores,2015,23,3,2,0.769231,2124598522,Akon Dey,0,1.6468975570730393,1.4638483422853126
+2128811430,One-copy serializability with snapshot isolation under the hood,2011,32,33,4,0.0,2608519051,Mihaela A. Bornea,0,2.0895970247783766,2.429371336492957
+2153546617,Unbundling Transaction Services in the Cloud,2009,23,91,2,0.0,1983664831,David B. Lomet,0,2.03757088221809,2.5752491233318264
+2156855209,The atomic manifesto a story in four quarks,2005,25,15,5,0.0,2142468959,Cliff B. Jones,0,1.614981177218727,1.6110782509539465
+2152211001,A scalable lock manager for multicores,2013,32,39,3,1.0,2140287793,Hyungsoo Jung,0,-0.0041099411153885,0.0447066884760059
+2158107383,Robust snapshot replication,2013,20,0,3,0.223925,2140136442,Uwe RÃ¶hm,0,1.087420985164913,1.0078469949759363
+2167868416,A Robust Technique to Ensure Serializable Executions with Snapshot Isolation DBMS,2009,17,20,2,0.857143,2464352497,Mohammad Alomari,0,0.8780868983504594,0.9321528229595496
+2209943643,Coordination avoidance in database systems,2014,60,103,2,0.532232,2049394146,Peter Bailis,0,-0.0873632243068517,-0.0824034282341078
+2248615455,Performance of Serializable Snapshot Isolation on Multicore Servers,2013,13,7,3,1.0,2140287793,Hyungsoo Jung,0,1.3363270606695006,1.4555086069066423
+2244693437,CloudDM 2015 - First Workshop on Cloud Data Management -Joint Workshop of Data Management in the Cloud (DMC) and CloudDB,2015,8,0,2,0.769231,2124598522,Akon Dey,0,0.07035680391577016,0.7935090830219247
+2386452338,Efficiently making (almost) any concurrency control mechanism serializable,2017,48,8,3,0.5,2227180136,Tianzheng Wang,0,1.9123164794989167,2.11320839804918
+2399459188,Coordination-Avoiding Database Systems,2014,67,10,2,0.532232,2049394146,Peter Bailis,0,2.8495535689538323,0.8830617574423426
+2403712541,Serializable snapshot isolation for replicated databases in high-update scenarios,2011,27,28,3,1.0,2140287793,Hyungsoo Jung,0,1.884337165167057,2.1004807773315184
+2497521232,Scalable Atomic Visibility with RAMP Transactions,2016,64,8,2,0.402684,2049394146,Peter Bailis,0,1.7563939137763094,0.8420878856392621
+2438324467,Clustering provenance facilitating provenance exploration through data abstraction,2016,12,3,2,0.0,2573428814,Linus Karsai,0,0.028872098916896644,-0.16986124516502774
+2632828877,Erratum to Efficiently making (almost) any concurrency control mechanism serializable,2018,0,0,3,0.5,2227180136,Tianzheng Wang,0,0.8286466699603369,1.0027583038282522
+2725226870,Serializable isolation for snapshot databases,2009,34,97,3,1.0,2560104409,Michael J. Cahill,0,2.05343518627281,2.1655347264532394
+2766579252,BenchFoundry A Benchmarking Framework for Cloud Storage Services,2017,19,11,5,0.0,2671079422,David Bermbach,0,-0.07928671994733001,-0.792219649763897
+2911311062,A Versatile Framework for Painless Benchmarking of Database Management Systems,2019,18,1,2,0.0,2768810798,Lexi Brent,0,-0.0041099411153885,0.0447066884760059
+2911725601,Data Consistency Properties of Document Store as a Service (DSaaS) Using MongoDB Atlas as an Example,2018,15,0,3,0.0,2912066389,Chenhao Huang,0,0.6221355146841744,-0.3212995414020025
+2914947086,Proceedings of the Workshop on Human-In-the-Loop Data Analytics,2016,0,0,3,0.0,228175360,Carsten Binnig,0,0.18601297105691045,-0.0008472885667257998
+2951434644,Isolation Support for Service-based Applications A Position Paper,2006,5,2,2,0.818182,2111184222,Paul Greenfield,0,-1.7960347969011583,-0.6524263050941326
+2951936395,Unbundling Transaction Services in the Cloud,2009,18,0,2,0.0,1983664831,David B. Lomet,0,0.5447877687674342,0.8118286131128707

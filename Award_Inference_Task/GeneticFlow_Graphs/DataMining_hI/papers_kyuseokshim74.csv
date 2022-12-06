@@ -1,0 +1,111 @@
+121900809,Advanced query optimization techniques for relational database systems,1993,0,4,1,1.0,2161168953,Kyuseok Shim,0,-0.5207388606918844,0.13779230513221863
+206958688,Workshop Report 1999 ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery,2000,0,1,1,1.0,2161168953,Kyuseok Shim,0,0.36961615338683507,0.04520172406723675
+73913042,Data management challenges and opportunities in cloud computing,2012,0,1,1,1.0,2161168953,Kyuseok Shim,0,-0.8272185421452084,0.10999648253056517
+59062933,DIGTOBI a recommendation system for Digg articles using probabilistic modeling,2013,23,10,3,1.0,2917859154,Young Hoon Kim,0,0.5696427439137862,0.5255974913681313
+28656429,Web Technologies and Applications,2016,0,125,2,0.0,2128990482,Xiaofang Zhou,0,0.3657638153620942,0.15460976556060488
+201801013,Developing tightly-coupled data mining applications on a relational database system,1996,4,122,2,0.0,2138427228,Rakesh Agrawal,0,-2.287066785698263,0.7592620796947018
+17210412,XWAVE Approximate Extended Wavelets for Streaming Data,2004,18,21,3,0.384146,2135063632,Sudipto Guha,0,-0.3397193691124173,-0.0011523982524002524
+280853923,MapReduce Algorithms for Big Data Analysis,2013,29,25,1,1.0,2161168953,Kyuseok Shim,0,-0.5797263972503607,0.2550055882887207
+957006375,Method for mining association rules in data,1998,13,31,1,1.0,2161168953,Kyuseok Shim,0,-0.34841194659538965,-0.10142585373365
+1505018402,Document descriptor extraction method,2000,45,30,3,0.875,2089290244,Minos Garofalakis,0,0.003708468606338,0.082832279151172
+1532529673,Recent Advances in Histogram Construction Algorithms,2004,0,0,1,1.0,2161168953,Kyuseok Shim,0,-0.5659090877576441,0.3528736297494534
+1570329253,PUBLIC A Decision Tree Classifier that Integrates Building and Pruning,2000,29,88,2,0.693709,2651564987,Rajeev Rastogi,0,1.7804884530897547,1.413216351287987
+1482220696,XTRACT Learning Document Type Descriptors from XML Document Collections,2003,28,67,5,0.304752,2089290244,Minos Garofalakis,0,-3.1497266661552854,-0.3314225782585132
+1491964404,Building Decision Trees with Constraints,2003,31,36,4,0.304752,2089290244,Minos Garofalakis,0,0.4796243390644822,1.5176899504218468
+1501096522,Storage and retrieval of XML data using relational databases,2003,14,12,2,0.0784477,2163909284,Surajit Chaudhuri,0,-1.0395448509805003,-0.05024708915074038
+1501937934,METHOD FOR IDENTIFYING OUTLIERS IN LARGE DATA SETS,1999,4,17,1,1.0,2161168953,Kyuseok Shim,0,0.21438872843298346,-0.1353423822296997
+1546570674,Techniques for Clustering Massive Data Sets,2004,77,1,3,0.384146,2135063632,Sudipto Guha,0,0.18047728152253212,0.21635718549688882
+1519707738,SQUIRE sequential pattern mining with quantities,2004,22,4,4,0.870968,2627277728,Chulyun Kim,0,-0.313250122242983,0.3019422694332269
+1519876418,Query Optimization in the Presence of Foreign Functions,1993,16,91,2,1.0,2163909284,Surajit Chaudhuri,0,-0.01657107088421793,0.035389748403282274
+1574894409,Optimizing Queries with Aggregate Views,1996,12,70,2,0.555556,2163909284,Surajit Chaudhuri,0,-0.8513220029196344,-0.6777134855393664
+1538786304,Including Group-By in Query Optimization,1994,16,229,2,1.0,2163909284,Surajit Chaudhuri,0,-1.3425488535650096,0.3304335111137947
+1495594559,XWAVE optimal and approximate extended wavelets,2004,19,25,2,0.384146,2135063632,Sudipto Guha,0,0.1153027212600109,-0.11325218402533548
+1548986531,SPIRIT Sequential Pattern Mining with Regular Expression Constraints,1999,13,437,3,0.875,2089290244,Minos Garofalakis,0,0.653578425232461,-0.00012887152053906448
+1567557767,A breast tumor classification method based on ultrasound BI-RADS data mining,2012,11,1,6,0.0,2947967945,Jin Man Park,0,-0.08536656651853836,0.07403770636888736
+1594780665,Storage and Retrieval of XML Data Using Relational Databases,2001,34,7,2,0.103775,2163909284,Surajit Chaudhuri,0,-1.9333783937966187,0.41279546957262675
+1577769509,Optimization of Queries with User-defined Predicates,1996,13,45,2,0.555556,2163909284,Surajit Chaudhuri,0,-1.6749525841335389,0.5061527173638172
+1587157435,Fast Similarity Search in the Presence of Noise Scaling and Translation in Time-Series Databases,1995,20,622,4,0.0,2138427228,Rakesh Agrawal,0,-0.1984714131877254,-0.08331523624254955
+1578664299,Extending q-grams to estimate selectivity of string matching with low edit distance,2007,25,46,3,1.0,2598687155,Hongrae Lee,0,0.003708468606338,0.082832279151172
+1588173285,Storing XML (with XSD) in SQL databases interplay of logical and physical designs,2004,22,6,3,0.0620365,2163909284,Surajit Chaudhuri,0,-0.6641165024649245,0.013536179300044207
+1939783570,Technique for effectively instantiating attributes in association rules,1997,24,13,1,1.0,2161168953,Kyuseok Shim,0,-0.34841194659538965,-0.10142585373365
+1590596086,Offline and data stream algorithms for efficient computation of synopsis structures,2005,0,1,2,0.373555,2135063632,Sudipto Guha,0,0.417739913381738,0.12265451471767168
+1963704089,High-dimensional similarity joins,2002,22,23,1,1.0,2161168953,Kyuseok Shim,0,1.1958231844972855,2.2848818251258614
+1647965853,Mining optimized association rules with categorical and numeric attributes,1998,8,75,2,0.711864,2651564987,Rajeev Rastogi,0,-0.054881410612845294,0.5123319400886388
+1963783962,Sequential Pattern Mining with Optimization Calling MapReduce Function on MapReduce Framework,2011,7,0,1,1.0,2161168953,Kyuseok Shim,0,-0.8431342852259469,-0.12580258432003663
+1775398603,Method apparatus and programmed medium for clustering databases with categorical attributes,1998,16,123,1,1.0,2161168953,Kyuseok Shim,0,-0.8501869934328109,2.780196590443301
+1985494569,Scalable algorithms for mining large databases,1999,94,9,2,0.711864,2651564987,Rajeev Rastogi,0,0.003708468606338,0.082832279151172
+1969842215,Mining optimized association rules with categorical and numeric attributes,2002,13,64,2,0.504042,2651564987,Rajeev Rastogi,0,0.11594223330904543,-0.13719939552364246
+1984057771,Approximate substring selectivity estimation,2009,24,11,3,1.0,2598687155,Hongrae Lee,0,-0.3291976808020441,-0.13703470885516322
+1979666709,Parallel Top-K Similarity Join Algorithms Using MapReduce,2012,26,61,2,1.0,2917859154,Young Hoon Kim,0,-0.004538237359067869,0.2859525243347512
+1981718292,TWILITE A recommendation system for Twitter using a probabilistic model based on latent Dirichlet allocation,2014,35,45,2,1.0,2917859154,Young Hoon Kim,0,0.1811040016444127,0.1133919760405804
+1987645871,Parametric query optimization,1992,20,155,3,0.0,435837623,Yannis E. Ioannidis,0,-0.0395804122397981,0.0068802457672825015
+1996510517,Cure an efficient clustering algorithm for large databases,2001,15,470,3,0.8,2135063632,Sudipto Guha,0,-0.9728763335095102,3.4357309343935007
+2008946079,Approximate algorithms for K-anonymity,2007,18,131,2,1.0,2112171985,Hyoung Min Park,0,0.003708468606338,0.082832279151172
+2000482994,Similarity join size estimation using locality sensitive hashing,2011,16,29,3,0.909091,2598687155,Hongrae Lee,0,0.21438872843298346,-0.1353423822296997
+2002368650,DBCURE-MR An efficient density-based clustering algorithm for large data using MapReduce,2014,30,70,2,1.0,2917859154,Young Hoon Kim,0,-1.0148276661135212,3.7404823429394076
+2006122313,Wavelet synopsis for hierarchical range queries with workloads,2008,27,11,3,0.272982,2135063632,Sudipto Guha,0,0.7158654434456085,0.3699061423898929
+1990435265,Mining optimized support rules for numeric attributes,2001,15,20,2,0.579517,2651564987,Rajeev Rastogi,0,0.11594223330904543,-0.13719939552364246
+2011829091,Mining optimized support rules for numeric attributes,1999,9,34,2,0.711864,2651564987,Rajeev Rastogi,0,-0.34841194659538965,-0.10142585373365
+2022551085,Mining sequential patterns with regular expression constraints,2002,14,111,3,0.350365,2089290244,Minos Garofalakis,0,-0.313250122242983,0.3019422694332269
+2026180971,A constrant-based spatial extension to SQL,1998,7,28,1,1.0,2161168953,Kyuseok Shim,0,-0.9738431000111959,0.24773074126140346
+2015833010,Supporting set-valued joins in NoSQL using MapReduce,2015,25,11,2,0.75,2627277728,Chulyun Kim,0,-1.0224734031617526,0.1732131329321993
+2032219004,Approximate algorithms with generalizing attribute values for k-anonymity,2010,20,15,2,1.0,2112171985,Hyoung Min Park,0,0.003708468606338,0.082832279151172
+2025695428,APEX an adaptive path index for XML data,2002,22,272,3,0.0,2107685843,Chin Wan Chung,0,-2.091218165227136,-0.19641527738559408
+2054340289,Data mining and the Web past present and future,1999,28,106,4,0.875,2089290244,Minos Garofalakis,0,-0.009612848079353836,-0.2813814786129664
+2047396520,Efficient processing of substring match queries with inverted variable-length gram indexes,2013,50,1,3,1.0,2917859154,Young Hoon Kim,0,-0.3291976808020441,-0.13703470885516322
+2049804814,Efficient processing of substring match queries with inverted q-gram indexes,2010,30,6,4,0.964286,2917859154,Young Hoon Kim,0,-0.1712520894247651,-0.11997639730392909
+2046508109,Mining optimized gain rules for numeric attributes,1999,19,14,3,0.5,2974285896,Sergey Brin,0,0.003708468606338,0.082832279151172
+2069811933,Improvements on a heuristic algorithm for multiple-query optimization,1994,10,78,1,1.0,2161168953,Kyuseok Shim,0,-0.8226545604262533,0.34576086678777695
+2057712948,ROCK a robust clustering algorithm for categorical attributes,2000,14,1138,3,0.8,2135063632,Sudipto Guha,0,-0.945435663313756,3.443375536536515
+2071963774,Erratum to an adaptive path index for XML data using the query workload,2006,0,2,3,0.0,2107685843,Chin Wan Chung,0,-1.1985937120799712,-0.15014851782557032
+2065180054,MapReduce algorithms for big data analysis,2012,31,62,1,1.0,2161168953,Kyuseok Shim,0,-0.5529137666600036,-0.14480055783264953
+2099581008,ROCK a robust clustering algorithm for categorical attributes,1999,12,318,3,1.0,2135063632,Sudipto Guha,0,-0.9211991615469002,3.298294457080068
+2078730080,Latent Ranking Analysis Using Pairwise Comparisons,2014,16,8,3,1.0,2917859154,Young Hoon Kim,0,0.003708468606338,0.082832279151172
+2092850406,Parallel computation of skyline and reverse skyline queries using mapreduce,2013,30,77,3,1.0,2097840936,Yoonjae Park,0,0.5742534894939048,-0.13724488340889893
+2093017099,CATCH A detecting algorithm for coalition attacks of hit inflation in internet advertising,2011,32,7,3,1.0,2627277728,Chulyun Kim,0,0.003708468606338,0.082832279151172
+2103285706,Mining optimized gain rules for numeric attributes,2003,19,31,3,0.5,2974285896,Sergey Brin,0,-0.6307943240285013,-0.3819608679545221
+2088163015,Efficient algorithms for constructing decision trees with constraints,2000,9,29,4,0.875,2089290244,Minos Garofalakis,0,1.616605556843101,1.0758187521844844
+2104213207,Of crawlers portals mice and men is there more to mining the Web ,1999,0,5,2,0.875,2089290244,Minos Garofalakis,0,0.01823760828928586,-2.4671512244260665
+2079806729,Optimization of queries with user-defined predicates,1999,20,135,2,0.159326,2163909284,Surajit Chaudhuri,0,-0.4117797750322698,0.017739933824031662
+2129281431,Efficient algorithms for mining outliers from large data sets,2000,19,1322,3,0.0,2998806000,Sridhar Ramaswamy,0,-0.15860703741720225,0.654988142925161
+2105910802,REHIST relative error histogram construction algorithms,2004,17,81,2,0.384146,2135063632,Sudipto Guha,0,-0.0395804122397981,0.0068802457672825015
+2112173399,High-dimensional similarity joins,1997,20,69,1,1.0,2161168953,Kyuseok Shim,0,-0.4510729884163594,0.24846660988711605
+2142534478,An adaptive path index for XML data using the query workload,2005,27,14,3,0.333333,2136399668,Jun Ki Min,0,-2.4194512641314008,-0.3338695344836879
+2136425831,- XWAVE Optimal and approximate Extended Wavelets for Streaming Data,2004,18,28,2,0.384146,2135063632,Sudipto Guha,0,0.1153027212600109,-0.11325218402533548
+2121667788,Storing XML (with XSD) in SQL databases interplay of logical and physical designs,2005,22,17,3,0.0553543,2163909284,Surajit Chaudhuri,0,-1.413378668140148,-0.2679301261264623
+2122020004,SQUIRE Sequential pattern mining with quantities,2007,22,38,4,1.0,2627277728,Chulyun Kim,0,0.03634119789378872,0.20381856928325173
+2116493296,XTRACT a system for extracting document type descriptors from XML documents,2000,23,227,5,0.875,2089290244,Minos Garofalakis,0,-3.1497266661552854,-0.3314225782585132
+2110557355,Approximate Query Processing Using Wavelets,2001,49,465,4,0.0,2124676925,Kaushik Chakrabarti,0,0.004652439918145568,0.2098632385992318
+2131687179,CURE an efficient clustering algorithm for large databases,1998,14,1759,3,1.0,2135063632,Sudipto Guha,0,-0.9226973688766911,3.320906181929318
+2137748282,TWITOBI A Recommendation System for Twitter Using Probabilistic Modeling,2011,25,45,2,0.964286,2917859154,Young Hoon Kim,0,0.7645183027481509,0.25068360037361215
+2160770337,Optimizing queries with materialized views,1995,20,395,4,0.75,2163909284,Surajit Chaudhuri,0,-1.2480836023915658,0.312976164321206
+2146266087,TEXT Automatic Template Extraction from Heterogeneous Web Pages,2011,22,45,2,1.0,2627277728,Chulyun Kim,0,-0.32529001539239505,0.2775732672832235
+2155432710,HotDigg finding recent hot topics from digg,2012,14,1,2,1.0,2917859154,Young Hoon Kim,0,0.08329114195231535,0.32893178638165566
+2147033904,Power-law based estimation of set similarity join size,2009,27,26,3,1.0,2598687155,Hongrae Lee,0,0.003708468606338,0.082832279151172
+2246669663,Programmed medium for clustering large databases,1998,21,64,1,1.0,2161168953,Kyuseok Shim,0,-0.7277311030883951,2.92111123184221
+2200550062,Processing of probabilistic skyline queries using MapReduce,2015,26,12,3,1.0,2097840936,Yoonjae Park,0,0.12589951588032547,0.04280031314594467
+2219873312,WALRUS a similarity retrieval algorithm for image databases,1999,11,186,3,0.0,1992897095,Apostol Natsev,0,-0.08989658579080657,0.04790337144120551
+2247938938,Transformation tool for mapping XML to relational database,2004,12,43,1,1.0,2161168953,Kyuseok Shim,0,-1.474673080466717,0.05623147129856783
+2213498466,SYSTEM AND METHOD FOR SKYLINE QUERIES,2014,9,3,3,1.0,2097840936,Yoonjae Park,0,0.1727980527395704,0.22670845412843263
+2340825715,Automatic Generation of Snort Content Rule for Network Traffic Analysis,2015,3,5,3,0.0,2099367347,Myung Sup Kim,0,0.23908406955764294,0.12742789827351242
+2398768377,System and method for constraint based sequential pattern mining,2000,6,59,2,0.875,2089290244,Minos Garofalakis,0,-0.313250122242983,0.3019422694332269
+2377537284,Anonymizing Transaction Data for Publication,2011,0,0,2,1.0,2112171985,Hyoung Min Park,0,0.003708468606338,0.082832279151172
+2412681503,Method and apparatus for query processing,2010,9,5,2,1.0,2112171985,Hyoung Min Park,0,-0.1029618939806145,0.040434369851773004
+2555621429,Payload signature structure for accurate application traffic classification,2016,10,6,2,0.375,2231738584,Young Hoon Goo,0,0.003708468606338,0.082832279151172
+2584010011,Parallel computation of k-nearest neighbor joins using MapReduce,2016,21,8,3,1.0,2548419596,Wooyeol Kim,0,-0.064181750922619,0.5322747349694676
+2579275105,Efficient Processing of Skyline Queries Using MapReduce,2017,32,17,3,1.0,2097840936,Yoonjae Park,0,0.1911331514469217,0.26639373766971897
+2569953973,Integration of graphs from different data sources using crowdsourcing,2017,44,3,3,0.830398,2917859154,Young Hoon Kim,0,0.3019780612453583,0.16866390994362512
+2535616844,Latent ranking analysis using pairwise comparisons in crowdsourcing platforms,2017,49,2,3,0.830398,2917859154,Young Hoon Kim,0,0.2106046214737246,0.4269938055661117
+2630324411,A Traffic-Classification Method Using the Correlation of the Network Flow,2017,0,0,2,0.0,2099367347,Myung Sup Kim,0,0.003708468606338,0.082832279151172
+2602033966,Preface to the special issue on big data search and mining,2017,0,0,3,0.0,2893888391,Kai Zheng,0,0.12492345808765674,0.23414093372237493
+2587307698,Special Section on the International Conference on Data Engineering 2015,2017,13,0,3,0.0,2119605707,Wolfgang Lehner,0,0.003708468606338,0.082832279151172
+2621166905,Application traffic classification using payload size sequence signature,2017,15,3,1,1.0,2161168953,Kyuseok Shim,0,0.003708468606338,0.082832279151172
+2766242626,Efficient Haar + synopsis construction for the maximum absolute error measure,2017,26,1,2,0.0855646,2136399668,Jun Ki Min,0,0.003708468606338,0.082832279151172
+2766842447,Effective behavior signature extraction method using sequence pattern algorithm for traffic identification,2018,16,2,1,1.0,2161168953,Kyuseok Shim,0,0.23908406955764294,0.12742789827351242
+2900812966,The Method of Clustering Network Traffic Classifications for Extracting Payload Signature by Function,2018,6,1,1,1.0,2161168953,Kyuseok Shim,0,-0.0421600837397371,0.7517471605365825
+2900839300,Network Attack Traffic Detection for Calculating Correlation of the Flow,2018,8,0,3,0.0,2765936470,Jee Tae Park,0,0.003708468606338,0.082832279151172
+2901066728,A Study on the Method to Extract Clear Fields From the Private Protocol,2018,5,0,2,0.0,2849715530,Min Seob Lee,0,0.3274675117164502,0.6951380298553702
+2958649759,Efficient two-dimensional Haar(^+) synopsis construction for the maximum absolute error measure,2019,33,0,2,0.0819834,2136399668,Jun Ki Min,0,0.003708468606338,0.082832279151172
+2952677681,Similarity Join Size Estimation using Locality Sensitive Hashing,2011,14,4,3,0.909091,2598687155,Hongrae Lee,0,0.21438872843298346,-0.1353423822296997
+2983120473,TIDY Publishing a Time Interval Dataset with Differential Privacy,2019,0,0,1,1.0,2161168953,Kyuseok Shim,0,-0.12681076648878814,0.06540009977213765
+3022098046,PUBLIC A Decision Tree Classifier that Integrates Building and Pruning,1998,18,89,2,0.711864,2651564987,Rajeev Rastogi,0,0.9484472051186577,0.9164309077041961

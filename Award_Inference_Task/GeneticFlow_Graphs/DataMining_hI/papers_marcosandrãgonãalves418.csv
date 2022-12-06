@@ -1,0 +1,117 @@
+72279380,Improving on-demand learning to rank through parallelism,2012,18,4,5,0.913043,2475654474,Daniel Xavier de Sousa,0,0.003708468606338,0.082832279151172
+89554208,Polarity Detection of Foursquare Tips,2013,17,5,6,0.0,2714496857,Felipe Moraes,0,0.3519317286583251,0.19465203886557153
+59786464,Rule-based active sampling for learning to rank,2011,23,22,2,0.0,2138170000,Rodrigo OtÃ¡vio Silveira Silva,0,-0.2971214901294733,0.12059311463815081
+179810155,A Component-based Digital Library Service for Finding Missing Documents,2007,17,2,5,0.333333,2138048039,Rodrygo L. T. Santos,0,0.003708468606338,0.082832279151172
+102437958,Exploiting novelty and diversity in tag recommendation,2013,13,13,4,0.894737,2038119454,Fabiano BelÃ©m,0,0.003708468606338,0.082832279151172
+809740722,On the combination of domain-specific heuristics for author name disambiguation the nearest cluster method,2015,27,15,2,1.0,2111526373,Alan Filipe Santana,0,-0.3238904612413272,0.9573416803088145
+1563926757,A quantitative analysis of the temporal effects on automatic text classification,2016,48,6,3,0.854403,1989698489,Thiago Salles,0,-0.06159349234796511,0.007925084250296458
+1555474482,Demand-driven tag recommendation,2010,30,28,4,0.0,2063407587,Guilherme Vale Menezes,0,-0.8684707031153677,-0.3685117494699995
+1512165552,Automatic vandalism detection in wikipedia with active associative classification,2012,9,4,2,0.0,2518375771,Maria I. M. Sumbana,0,0.44282802690412765,0.34234352152331476
+1585742040,A Heuristic-based Hierarchical Clustering Method for Author Name Disambiguation in Digital Libraries,2007,20,25,2,1.0,2042416162,Ricardo G. Cota,0,-0.76380935966452,2.60978198876117
+1872708579,Improving the Effectiveness of Content Popularity Prediction Methods using Time Series Trends,2014,13,3,2,0.8,2034386535,Flavio Figueiredo,0,-0.33493830409676284,0.24846229837965295
+1604460927,A Two-stage active learning method for learning to rank,2014,34,8,2,1.0,2308259767,Rodrigo M. Silva,0,-0.42086412146013474,3.3220822172829085
+1629713911,TrendLearner Early Prediction of Popularity Trends of User Generated Content,2014,22,2,3,0.8,2034386535,Flavio Figueiredo,0,0.003708468606338,0.082832279151172
+1912764128,Self-training author name disambiguation for information scarce scenarios,2014,45,19,3,0.625,2162077370,Anderson A. Ferreira,0,0.003708468606338,0.082832279151172
+1859919559,Tackling Temporal Effects in Automatic Document Classification,2011,0,1,5,1.0,1989698489,Thiago Salles,0,0.4804196820036501,0.32264869112405054
+1584683538,Multi-label Lazy Associative Classification,2007,7,44,3,0.467638,2158169143,Adriano Veloso,0,1.4236242109086807,0.6214711076546603
+1867524136,The impact of parameter setup on a genetic programming approach to record deduplication,2008,17,1,2,0.0,57505073,Alberto H. F. Laender,0,-0.2829773436868469,-0.178160899562543
+1593896751,Automatic Selection of Training Examples for a Record Deduplication Method Based on Genetic Programming,2010,23,1,4,0.0,2084722241,Gabriel Silva GonÃ§alves,0,0.003708468606338,0.082832279151172
+1983826491,Evidence of quality of textual features on the web 20,2009,19,24,5,0.8,2034386535,Flavio Figueiredo,0,-0.05330893474919055,-1.200707721844805
+1975143876,Exploiting user feedback to learn to rank answers in q&amp;a forums a case study with stack overflow,2013,29,63,3,1.0,1976988072,Daniel Hasan Dalip,0,0.003708468606338,0.082832279151172
+1983935876,Intelligent GP fusion from multiple sources for text classification,2005,34,21,5,0.823529,2144392541,Baoping Zhang,0,0.003708468606338,0.082832279151172
+1973500996,A combined component approach for finding collection-adapted ranking functions based on genetic programming,2007,27,69,2,1.0,2099163375,Humberto Mossri de Almeida,0,0.003708468606338,0.082832279151172
+1970191588,Temporally-aware algorithms for document classification,2010,22,32,6,1.0,1989698489,Thiago Salles,0,0.44601066357638747,0.32804290149807025
+1980749268,Exploiting temporal contexts in text classification,2008,34,23,4,1.0,2346450412,Leonardo Rocha,0,0.43162625009792,0.20195636031746017
+1984349431,Learning to advertise,2006,26,146,3,0.0,2474864134,Anisio Lacerda,0,0.003708468606338,0.082832279151172
+1965350272,An Efficient and Scalable MetaFeature-based Document Classification Approach based on Massively Parallel Computing,2015,22,8,2,1.0,2027273974,SÃ©rgio Canuto,0,0.288912424204981,0.32144512378109413
+1967082116,Exploiting relevance novelty and diversity in tag recommendation,2012,10,7,4,1.0,2038119454,Fabiano BelÃ©m,0,0.003708468606338,0.082832279151172
+1972694312,Tuning large scale deduplication with reduced effort,2013,31,6,4,0.0,2993215021,Guilherme Dal Bianco,0,-0.21610062020666934,-0.15398509751787065
+1979991621,A Soft Computing Approach for Learning to Aggregate Rankings,2015,31,10,3,0.0,2227353741,Javier A. V. MuÃ±oz,0,-0.5240094822028566,1.2094930221221414
+1971436214,GreenMeter a tool for assessing the quality and recommending tags for web 20 applications,2011,2,0,5,0.0,2163281082,Saulo M. R. Ricci,0,-0.05330893474919055,-1.200707721844805
+2003204742,Computing block importance for searching on web sites,2007,19,39,5,1.0,2524724514,David Fernandes,0,0.003708468606338,0.082832279151172
+1992994083,ONDUX on-demand unsupervised learning for information extraction,2010,18,27,3,0.486486,2125350416,Eli Cortez,0,-0.15568381939333192,0.6481196770294527
+2003515310,Characterizing use and quality of textual attributes in Web 20 applications,2009,14,2,5,0.8,2034386535,Flavio Figueiredo,0,-0.05330893474919055,-1.200707721844805
+2003680804,Assessing the quality of scientific conferences based on bibliographic citations,2010,20,25,2,0.0,2110204728,Waister Silva Martins,0,-0.2619238829259522,0.2705786255531689
+2003745618,Classifying documents with link-based bibliometric measures,2010,49,8,5,1.0,2279325506,Thierson Couto,0,0.003708468606338,0.082832279151172
+1993281015,Exploiting co-occurrence and information quality metrics to recommend tags in web 20 applications,2010,10,8,4,1.0,2038119454,Fabiano BelÃ©m,0,-0.05330893474919055,-1.200707721844805
+2009214381,G-KNN an efficient document classification algorithm for sparse datasets on GPUs using KNN,2015,6,3,9,0.825992,2346450412,Leonardo Rocha,0,0.003708468606338,0.082832279151172
+2004230892,BROOF Exploiting Out-of-Bag Errors Boosting and Random Forests for Effective Automated Classification,2015,32,14,2,0.954156,1989698489,Thiago Salles,0,1.68965049406887,0.546853741340653
+2004276548,Streams structures spaces scenarios societies (5s) A formal model for digital libraries,2004,137,266,1,1.0,2115586749,Marcos AndrÃ© GonÃ§alves,0,0.36001357038168563,-0.0357670607851165
+2009738501,Replica identification using genetic programming,2008,17,37,3,0.9,2127394094,MoisÃ©s G. de Carvalho,0,-0.2829773436868469,-0.178160899562543
+1994219845,Personal digital library pim through a 5s perspective,2007,13,6,3,0.0,2223563421,Yi Ma,0,-0.1923482153824391,0.3911408909828727
+1999440913,Combining structural and citation-based evidence for text classification,2004,3,18,2,0.823529,2144392541,Baoping Zhang,0,-0.19631400586836836,-0.16958701769855156
+1989010572,Transitioning from the ecological fieldwork to an online repository a digital library solution and evaluation,2007,4,5,3,1.0,2747874118,Evandrino G. Barros,0,0.4286221496200365,0.008902877035843582
+2022981406,A digital library environment for integrating disseminating and exploring ecological data,2008,16,10,3,1.0,2747874118,Evandrino G. Barros,0,0.2203513016097659,-0.05856305705207425
+2025131201,Aggressive and effective feature selection using genetic programming,2012,12,13,7,0.0,2119558270,Isac Sandin,0,-0.025136315868969732,-0.030920891000099444
+2023427252,Towards a digital library theory a formal digital library ontology,2008,34,38,1,1.0,2115586749,Marcos AndrÃ© GonÃ§alves,0,2.7971884022641156,-2.563218901439607
+2011265791,Combining link-based and content-based methods for web document classification,2003,29,96,6,0.0,2038722768,PÃ¡vel Calado,0,0.10546896189742037,0.1146492004912042
+2018353135,An unsupervised heuristic-based hierarchical method for name disambiguation in bibliographic citations,2010,17,74,4,1.0,2042416162,Ricardo G. Cota,0,-0.5240094822028566,1.2094930221221414
+2025679133,Word co-occurrence features for text classification,2011,41,65,5,0.0,2609396509,FÃ¡bio Figueiredo,0,1.0450851115654511,0.44528135330918994
+2020558666,A formal approach for the specification of digital complex objects,2013,29,0,3,0.0,2228649534,Ticiana Oniki Toffoli,0,0.003708468606338,0.082832279151172
+2050612897,Multi-evidence multi-criteria lazy associative document classification,2006,25,25,4,0.467638,2158169143,Adriano Veloso,0,0.003708468606338,0.082832279151172
+2040217811,FLUX-CIM flexible unsupervised extraction of citation metadata,2007,23,59,3,0.75,2125350416,Eli Cortez,0,-0.3224513172225988,0.1037120505302715
+2052603567,Measuring and addressing the impact of cold start on associative tag recommenders,2013,19,6,4,1.0,2152308177,Eder Ferreira Martins,0,0.003708468606338,0.082832279151172
+2036963888,Associative tag recommendation exploiting multiple textual features,2011,25,37,5,1.0,2038119454,Fabiano BelÃ©m,0,0.003708468606338,0.082832279151172
+2035921511,A flexible approach for extracting metadata from bibliographic citations,2009,33,18,3,0.75,2125350416,Eli Cortez,0,0.11217008575868677,0.1471052796477964
+2050265055,Personalized and object-centered tag recommendation methods for Web 20 applications,2014,61,31,4,0.894737,2038119454,Fabiano BelÃ©m,0,0.1731206347166778,-0.6560868344798455
+2036203081,Topic diversity in tag recommendation,2013,29,21,4,0.894737,2038119454,Fabiano BelÃ©m,0,-1.5262613655196922,-1.2003896129008342
+2043424520,Competence-conscious associative classification,2009,25,2,4,0.432901,2158169143,Adriano Veloso,0,1.0378504387501246,0.46881479152434524
+2076728591,Can the vector space model be used to identify biological entity activities,2011,56,6,3,0.0,1250333697,Alessandra C. Faria Campos,0,-0.1916888409096968,-0.26501256474732954
+2076800006,An evolutionary approach for combining different sources of evidence in search engines,2009,42,23,6,0.0,2314758852,Thomaz Philippe C. Silva,0,0.003708468606338,0.082832279151172
+2063450849,On Tag Recommendation for Expertise Profiling A Case Study in the Scientific Domain,2015,35,13,3,0.0,2228581304,Isac S. Ribeiro,0,-0.2594887368269236,-0.0034195542735701995
+2058206503,Automatic query expansion based on tag recommendation,2012,8,11,7,1.0,2517601354,Vitor Campos de Oliveira,0,-0.11300819442795465,0.09518744858596301
+2065776997,Sentiment-based influence detection on Twitter,2012,33,32,4,0.0,2023326562,Carolina A. S. Bigonha,0,0.003708468606338,0.082832279151172
+2072840758,Link-based similarity measures for the classification of Web documents,2006,39,64,3,0.324324,2038722768,PÃ¡vel Calado,0,-0.5991126279487463,0.13714745227967237
+2076372632,Exploiting contexts to deal with uncertainty in classification,2009,12,2,4,0.0,54648453,Bianca Zadrozny,0,-0.3402790629349947,0.5510453138693845
+2065938751,Adaptive spammer detection at the source network,2013,18,1,5,0.0,1980011744,Pedro H. B. Las Casas,0,0.003708468606338,0.082832279151172
+2071256406,Using structural information to improve search in Web collections,2010,17,11,5,0.0,2121054036,Edleno Silva de Moura,0,-0.26696911874922685,0.05842691939063975
+2071357361,Automatic evaluation of digital libraries with 5SQual,2009,28,36,2,0.0,2056367743,BÃ¡rbara Lagoeiro Moreira,0,0.003708468606338,0.082832279151172
+2084110199,Geographical classification of documents using evidence from Wikipedia,2010,26,17,3,0.0,2001805582,Rafael Odon de Alencar,0,-0.34431040572321786,0.1804777534141982
+2082461712,Parallel Lazy Semi-Naive Bayes Strategies for Effective and Efficient Document Classification,2015,28,6,2,0.833333,2132803393,Felipe Viegas,0,0.2908575072107241,0.3234328159442016
+2079620247,Polarity analysis of micro reviews in foursquare,2013,23,8,5,0.0,2714496857,Felipe Moraes,0,0.3519317286583251,0.19465203886557153
+2101575194,A generic Web-based entity resolution framework,2011,59,7,5,0.0,2116401133,Denilson Alves Pereira,0,0.2855665053123812,0.2827120247715062
+2095708598,A Practical and Effective Sampling Selection Strategy for Large Scale Deduplication,2015,26,15,3,1.0,2229851118,Guilherme Dal Bianco,0,0.003708468606338,0.082832279151172
+2081666882,An unsupervised heuristic-based approach for bibliographic metadata deduplication,2011,31,17,4,0.857143,2168140767,Eduardo Nunes Borges,0,0.003708468606338,0.082832279151172
+2083619974,Understanding temporal aspects in document classification,2008,24,33,4,0.363636,2012617867,Fernando MourÃ£o,0,0.003708468606338,0.082832279151172
+2085419825,Learning to rank at query-time using association rules,2008,26,69,3,0.432901,2158169143,Adriano Veloso,0,-0.104885423101185,-0.0749965482972667
+2138097034,Automatic Assessment of Document Quality in Web Collaborative Digital Libraries,2011,45,39,2,1.0,1976988072,Daniel Hasan Dalip,0,0.11265125841068226,0.3921639741076617
+2129558264,A brief survey of automatic methods for author name disambiguation,2012,50,166,2,0.75,2162077370,Anderson A. Ferreira,0,-0.3238904612413272,0.9573416803088145
+2115186087,Recommender Systems Research A Connection-Centric Survey,2004,118,155,2,0.0,2007425229,Saverio Perugini,0,-0.07394087182219516,0.45243769185929494
+2106521941,A Genetic Programming Approach to Record Deduplication,2012,21,69,3,1.0,2225847190,M. G. de Carvalho,0,0.22635587803913468,0.18106083082470958
+2118560928,PaMS A component-based service for finding the missing full text of articles cataloged in a digital library,2010,22,1,3,0.333333,2138048039,Rodrygo L. T. Santos,0,0.003708468606338,0.082832279151172
+2124440096,Temporal contexts Effective text classification in evolving document collections,2013,49,7,5,1.0,2346450412,Leonardo Rocha,0,0.003708468606338,0.082832279151172
+2139415031,On cold start for associative tag recommendation,2016,30,10,4,1.0,2152308177,Eder Ferreira Martins,0,0.003708468606338,0.082832279151172
+2142619504,Uma abordagem efetiva e eficiente para deduplicaÃ§Ã£o de metadados bibliogrÃ¡ficos de objetos digitais,2008,20,0,3,0.857143,2168140767,Eduardo Nunes Borges,0,0.003708468606338,0.082832279151172
+2110093609,Is Learning to Rank Worth It A Statistical Analysis of Learning to Rank Methods,2013,0,6,4,1.0,2503112593,Guilherme Gomes,0,0.003708468606338,0.082832279151172
+2116135732,An evolutionary approach to complex schema matching,2013,30,6,3,1.0,2127394094,MoisÃ©s G. de Carvalho,0,-0.7469169987159704,0.7595380774811211
+2119225321,Learning to deduplicate,2006,16,35,2,1.0,2225847190,M. G. de Carvalho,0,0.003708468606338,0.082832279151172
+2137132256,Assessing documents credibility with genetic programming,2011,17,1,3,1.0,1989698489,Thiago Salles,0,0.43162625009792,0.20195636031746017
+2116911522,On multiview-based meta-learning for automatic quality assessment of wiki articles,2012,17,4,2,1.0,1976988072,Daniel Hasan Dalip,0,0.003708468606338,0.082832279151172
+2157874634,On Efficient Meta-Level Features for Effective Text Classification,2014,21,8,3,1.0,2027273974,SÃ©rgio Canuto,0,0.1839034762781453,-0.22835099189326385
+2158640603,A new framework to combine descriptors for content-based image retrieval,2005,17,20,6,0.0,2195225068,Ricardo da Silva Torres,0,0.003708468606338,0.082832279151172
+2152981127,Evaluation of parameters for combining multiple textual sources of evidence for Web image retrieval using genetic programming,2013,26,3,3,1.0,2105919342,Patricia Correia Saraiva,0,0.38261281363002836,-2.9951125169484434
+2270188535,Beyond Relevance Explicitly Promoting Novelty and Diversity in Tag Recommendation,2016,59,14,5,0.880959,2038119454,Fabiano BelÃ©m,0,-0.42629999130019053,-0.1288987738471509
+2299453987,A general multiview framework for assessing the quality of collaboratively created content on web 20,2017,44,17,2,0.727273,1976988072,Daniel Hasan Dalip,0,-0.05330893474919055,-1.200707721844805
+2295077356,Exploiting New Sentiment-Based Meta-level Features for Effective Sentiment Analysis,2016,29,26,2,1.0,2027273974,SÃ©rgio Canuto,0,0.3559873137555343,-0.05007672840218554
+2344827915,A multimodal query expansion based on genetic programming for visually-oriented e-commerce applications,2016,47,9,4,1.0,2105919342,Patricia Correia Saraiva,0,-0.01657107088421793,0.035389748403282274
+2341732298,Generalized BROOF-L2R A general framework for L2R based on Boosting and Random Forests,2016,0,0,2,0.854403,1989698489,Thiago Salles,0,0.31484412112737625,0.2579936097006229
+2471350540,SentiBench - a benchmark comparison of state-of-the-practice sentiment analysis methods,2016,72,112,4,0.0,2955321983,Filipe Nunes Ribeiro,0,0.14760609364243052,0.3552068842242259
+2443621726,A practical and effective sampling selection strategy for large scale deduplication,2016,9,4,3,1.0,2229851118,Guilherme Dal Bianco,0,0.003708468606338,0.082832279151172
+2469030611,Generalized BROOF-L2R A General Framework for Learning to Rank Based on Boosting and Random Forests,2016,33,7,2,0.0,2337466105,Clebson C.A. de SÃ¡,0,0.31484412112737625,0.2579936097006229
+2461276623,The LExR Collection for Expertise Retrieval in Academia,2016,9,5,4,0.0,2793221700,Vitor Mangaravite,0,0.025668609292196498,-0.032342124247984695
+2566927129,Incremental author name disambiguation by exploiting domain-specific heuristics,2017,27,13,2,1.0,2111526373,Alan Filipe Santana,0,0.0744590512365816,0.3501340521691665
+2541743403,Ranked batch-mode active learning,2017,39,7,5,0.857143,2293926343,Thiago N. C. Cardoso,0,0.003708468606338,0.082832279151172
+2567346959,A survey on tag recommendation methods,2017,76,16,3,0.860043,2038119454,Fabiano BelÃ©m,0,0.003708468606338,0.082832279151172
+2536103954,Compression-Based Selective Sampling for Learning to Rank,2016,23,4,4,1.0,2308259767,Rodrigo M. Silva,0,-0.3707146706369706,1.284254192186507
+2536532331,Incorporating Risk-Sensitiveness into Feature Selection for Learning to Rank,2016,28,4,5,0.913043,2475654474,Daniel Xavier de Sousa,0,-0.25023896793326905,0.13037718530513653
+2620046422,A Multicriteria Evaluation of Hybrid Recommender Systems On the Usefulness of Input Data Characteristics,2017,0,2,3,0.0,2990275078,Reinaldo Fortes,0,0.08329114195231535,0.32893178638165566
+2608460224,A Two-Stage Machine learning approach for temporally-robust text classification,2017,50,5,4,0.794079,1989698489,Thiago Salles,0,0.003708468606338,0.082832279151172
+2740270877,Stacking Bagged and Boosted Forests for Effective Automated Classification,2017,24,10,5,0.0,2227314145,Raphael R. Campos,0,0.4964107579480848,0.27902255362833134
+2795240784,A Thorough Evaluation of Distance-Based Meta-Features for Automated Text Classification,2018,29,8,3,1.0,2027273974,SÃ©rgio Canuto,0,0.003708468606338,0.082832279151172
+2806825636,Improving random forests by neighborhood projection for effective text classification,2018,46,16,2,0.672929,1989698489,Thiago Salles,0,0.4964107579480848,0.27902255362833134
+2811136649,Improving Tourism Prediction Models Using Climate and Social Media Data A Fine-Grained Approach,2017,0,0,5,0.0,2595892761,Amir Khatibi,0,-0.02982925155893055,-0.0135024676312933
+2794107983,BLOSS Effective meta-blocking with almost no effort,2018,41,10,2,1.0,2229851118,Guilherme Dal Bianco,0,0.003708468606338,0.082832279151172
+2912859456,Risk-Sensitive Learning to Rank with Evolutionary Multi-Objective Feature Selection,2019,46,1,3,1.0,2475654474,Daniel Xavier de Sousa,0,-0.25023896793326905,0.13037718530513653
+2954580219,Similarity-Based Synthetic Document Representations for Meta-Feature Generation in Text Classification,2019,18,1,4,1.0,2027273974,SÃ©rgio Canuto,0,0.23871954078296614,0.3163968053610634
+2964130029,10SENT A stable sentiment analysis method based on the combination of offâ€theâ€shelf approaches,2019,31,1,3,0.0,1976666824,FabrÃ­cio Benevenuto,0,0.3763108151920931,0.011929011373523887
+3022371575,Extended pre-processing pipeline for text classification On the role of meta-feature representations sparsification and selective sampling,2020,58,0,9,0.0,2962775840,Washington Luiz Miranda da Cunha,0,0.003708468606338,0.082832279151172

@@ -1,0 +1,126 @@
+86450295,An efficient nearest neighbor algorithm for P2P settings,2005,17,27,3,1.0,66485931,Egemen Tanin,0,-0.21874765950185046,1.03476510579312
+154519549,A Window Retrieval Algorithm for Spatial Databases Using Quadtrees,1995,0,4,2,0.615385,220758600,Walid G. Aref,0,-0.8119081610759554,0.7753277337940678
+58833671,Multidimensional data structures for spatial applications,2010,120,0,1,1.0,89934235,Hanan Samet,0,-0.05992139724783036,0.28600536643020796
+146658588,Image Database Systems and Techniques A Symbolic Approach,2006,0,0,1,1.0,89934235,Hanan Samet,0,-1.453602080130993,0.4676845514444439
+79308018,Incremental algorithms for proximity queries,2000,0,0,1,1.0,89934235,Hanan Samet,0,-0.6258274747280925,-0.11013219938616015
+11434116,Spatial data structures,1995,16,118,1,1.0,89934235,Hanan Samet,0,0.04740207082706627,0.35587107924679234
+166087234,Proceedings of the 15th annual ACM international symposium on Advances in geographic information systems,2007,0,0,1,1.0,89934235,Hanan Samet,0,0.12595265820037338,0.43793680917641964
+183712220,Sorting Spatial Data by Spatial Occupancy,2009,67,2,1,1.0,89934235,Hanan Samet,0,0.18803625517278932,0.6399134944492538
+1516936742,Continuous K-nearest neighbor queries for continuously moving points with updates,2003,16,156,2,1.0,2309973268,Glenn S. Iwerks,0,0.003708468606338,0.082832279151172
+1520283191,Maintenance of spatial semijoin queries on moving points,2004,20,27,2,1.0,2309973268,Glenn S. Iwerks,0,-2.017792195109074,0.6987473607800485
+1575975119,Two Data Organizations for Storing Symbolic Images in a Relational Database System,1999,14,4,2,0.857143,2190921344,Aya Soffer,0,-0.6038235665048968,0.6318227718436157
+1531046708,The ATREE A Data Structure to Support Very Large Scientific Databases,1999,14,3,2,1.0,2111185302,P. Bogdanovich,0,0.09736143770935853,0.49449937557011925
+1558254449,Indexing distributed complex data for complex queries,2004,15,5,3,1.0,66485931,Egemen Tanin,0,-0.22769361915946348,0.08614754679033146
+1931818007,Efficient Processing of Spatial Queries in Line Segment Databases,1991,28,62,2,0.666667,2762706314,Erik G. Hoel,0,0.5633621406871282,0.7180160612533715
+1841388798,Visualization of Dynamic Spatial Data and Query Results Over Time in a GIS Using Animation,2000,16,5,2,1.0,2309973268,Glenn S. Iwerks,0,-0.3353947918299486,0.7364047377990028
+1597494089,Efficient Window Block Retrieval in Quadtree-Based Spatial Databases,1997,24,25,2,1.0,220758600,Walid G. Aref,0,-0.6375445043454362,0.6248567385150229
+1597593499,Spatial data models and query processing,1995,0,37,1,1.0,89934235,Hanan Samet,0,-0.3387618148590241,0.32187643641001856
+1762123113,Application of Hierarchical Data Structures to Geographical Information Systems,1983,0,27,1,1.0,89934235,Hanan Samet,0,-0.007823947607161236,-0.05655354959689006
+1581321178,Hierarchical Spatial Data Structures,1989,49,187,1,1.0,89934235,Hanan Samet,0,0.6157102451910614,0.8292228301749281
+1582113689,Database and Representation Issues in Geographic Information Systems (GIS),2009,37,1,1,1.0,89934235,Hanan Samet,0,0.43874772172625626,0.5136544200421379
+1723433588,Ranking in Spatial Databases,1995,13,341,2,1.0,299309139,GÃ­sli R. Hjaltason,0,-2.1380700370362566,0.7848356102150778
+1971527337,Spatio-textual spreadsheets geotagging via spatial coherence,2009,14,21,2,0.85,2141097271,Michael D. Lieberman,0,0.12911775617226834,0.30913272723374113
+1980293260,QUILT a geographic information system based on quadtreesâ€ ,1990,19,73,1,1.0,89934235,Hanan Samet,0,0.003708468606338,0.082832279151172
+1973301025,Speeding up construction of PMR quadtree-based spatial indexes,2002,55,70,2,0.772493,299309139,GÃ­sli R. Hjaltason,0,-0.4769349602686015,0.5459785694917122
+1969953523,Duking it out at the smartphone mobile app mapping API corral Apple Google and the competition,2012,19,12,1,1.0,89934235,Hanan Samet,0,0.34402371984857977,0.18048399119476494
+1973375669,Mining future spatiotemporal events and their sentiment from online news articles for location-aware recommendation system,2012,40,28,4,0.0,2237262181,Shen Shyang Ho,0,0.15337738431657835,0.04660012842811456
+1979075286,Distance join queries on spatial networks,2006,21,32,3,1.0,1997756302,Jagan Sankaranarayanan,0,0.003708468606338,0.082832279151172
+1975880767,Hashing by proximity to process duplicates in spatial databases,1994,15,29,2,0.615385,220758600,Walid G. Aref,0,0.18200852880040005,0.6771821007672943
+1979474835,MAGELLAN Map Acquisition of GEographic Labels by Legend ANalysis,1998,14,26,1,1.0,89934235,Hanan Samet,0,0.003708468606338,0.082832279151172
+1974158785,Ontuition intuitive data exploration via ontology navigation,2010,3,5,3,1.0,1798774585,Marco D. Adelfio,0,1.1692754737984803,-0.7248551556033397
+1976022204,Schema extraction for tabular data on the web,2013,26,81,2,1.0,1798774585,Marco D. Adelfio,0,-2.362605328408832,0.5329495349800719
+1981468681,Identification of live news events using Twitter,2011,24,72,2,0.0,2226073270,Alan Jackoway,0,-0.029610632359880602,-0.13733013755415546
+1981544857,Integrating the natural environment into a GIS for decision support,1999,3,1,2,1.0,2309973268,Glenn S. Iwerks,0,-0.7758177484192299,0.9660204541269868
+2008305564,Iterative spatial join,2003,38,27,2,1.0,421161533,Edwin H. Jacox,0,-1.0553335146929066,0.4710228614741563
+2009036829,A Fast Similarity Join Algorithm Using Graphics Processing Units,2008,28,108,3,1.0,2141097271,Michael D. Lieberman,0,-0.21934185016841626,0.6056873083074126
+1991529045,A Web Collaboration System for Content-Based Image Retrieval of Medical Images,2007,15,12,1,1.0,89934235,Hanan Samet,0,0.003708468606338,0.082832279151172
+1990111898,Distance browsing in spatial databases,1999,53,838,2,1.0,299309139,GÃ­sli R. Hjaltason,0,0.13841360693341562,1.270117610659425
+2000759976,GeoWhiz toponym resolution using common categories,2013,19,11,2,1.0,1798774585,Marco D. Adelfio,0,-0.39327025030563534,0.6323655538265999
+2004449861,Efficient position-independent iconic search using an R-theta index,2006,24,3,2,1.0,1991458254,Charles B. Cranston,0,0.4981214955335061,0.5891372771177708
+1993997820,Spatial join techniques,2007,145,157,2,1.0,421161533,Edwin H. Jacox,0,-0.6084235568600868,0.5236461516337276
+1997717003,Using minimaps to enable toponym resolution with an effective 100% rate of recall,2014,49,13,1,1.0,89934235,Hanan Samet,0,-0.23594412259043226,-0.05002281773297997
+1994286274,A geographic information system using quadtrees,1984,13,77,1,1.0,89934235,Hanan Samet,0,-0.06579516482840163,-0.11390857202400058
+2011870183,SAC semantic adaptive caching for spatial mobile applications,2013,23,5,3,0.0,2894425684,Chang Liu,0,-0.0395804122397981,0.0068802457672825015
+2027753265,Multi-resolution out-of-core modeling of terrain and teological data,2005,30,9,4,0.0,2230817079,Emanuele Danovaro,0,-0.004538237359067869,0.2859525243347512
+2029752820,Seeder finder identifying additional needles in the Twitter haystack,2013,30,22,2,0.0,2230622245,Nick Gramsky,0,0.12492345808765674,0.23414093372237493
+2023309578,Techniques for similarity searching in multimedia databases,2010,8,5,1,1.0,89934235,Hanan Samet,0,-0.3894594673175494,-0.6186396898862463
+2019966092,Sorting in Space Multidimensional spatial and metric data structures for applications in spatial databases geographic information systems (GIS) and location-based services,2013,96,3,1,1.0,89934235,Hanan Samet,0,-0.06098773143892559,0.9115106656901002
+2016598794,Spatital data structures,2007,3,4,1,1.0,89934235,Hanan Samet,0,-0.13079835154758288,-0.0005710881720161209
+2032745789,An efficient layout method for a large collection of geographic data entries,2013,20,4,3,0.421009,1833031066,Sarana Nutanong,0,-0.8119081610759554,0.7753277337940678
+2050734958,A population analysis for hierarchical data structures,1987,16,51,2,0.0,2109915147,Randal C. Nelson,0,-0.2551218274339579,-0.38386326804454
+2048353181,Searching web documents as location sets,2011,9,2,3,1.0,1798774585,Marco D. Adelfio,0,0.05032137405439746,-0.19665778173700396
+2034281533,Speeding up bulk-loading of quadtrees,1997,22,21,2,1.0,299309139,GÃ­sli R. Hjaltason,0,0.003708468606338,0.082832279151172
+2036085124,Issues developments and challenges in spatial databases and geographic information systems (GIS) (Invited Talk),2001,0,2,1,1.0,89934235,Hanan Samet,0,-0.6739471806335041,1.05195875733182
+2069779497,Multiresolution select-distinct queries on large geographic point sets,2012,17,10,3,0.421009,1833031066,Sarana Nutanong,0,-0.1029618939806145,0.040434369851773004
+2055939827,Hierarchical representations of collections of small rectangles,1988,64,78,1,1.0,89934235,Hanan Samet,0,0.32167764990227654,0.2372414046056951
+2061823516,Automated tabular itinerary visualization,2014,21,2,2,0.954545,1798774585,Marco D. Adelfio,0,0.699361581054454,1.2087894737899054
+2063738332,Recent developments in linear quadtree-based geographic information systems,1987,13,22,1,1.0,89934235,Hanan Samet,0,0.06655331276934613,0.009889643310135457
+2065528935,Index-driven similarity search in metric spaces (Survey Article),2003,93,394,1,1.0,89934235,Hanan Samet,0,-0.30714800667453696,0.29297901944948385
+2067278345,Integrating symbolic images into a multimedia database system using classification and abstraction approaches,1998,38,15,2,0.857143,2190921344,Aya Soffer,0,-0.02644345514364213,-0.04801891999270623
+2062184932,A qualitative comparison study of data structures for large line segment databases,1992,21,64,2,0.0,1985580024,Erik Hoel,0,-0.13275296294680305,-0.071629888206014
+2102842495,Path oracles for spatial networks,2009,18,108,2,0.913043,1997756302,Jagan Sankaranarayanan,0,-0.09172054834342609,0.1639272439380535
+2097678013,Remote access to large spatial databases,2002,15,9,3,1.0,66485931,Egemen Tanin,0,0.1182834026539173,0.8417580162390627
+2093729646,Memory-efficient algorithms for spatial network queries,2013,37,20,2,0.421009,1833031066,Sarana Nutanong,0,0.003708468606338,0.082832279151172
+2085010747,Supporting rapid processing and interactive map-based exploration of streaming news,2012,23,27,2,0.9,2141097271,Michael D. Lieberman,0,-0.6969991124298466,0.1683862627961611
+2101999582,A fast all nearest neighbor algorithm for applications involving large point-clouds,2007,37,87,2,0.9375,1997756302,Jagan Sankaranarayanan,0,0.003708468606338,0.082832279151172
+2087323714,Determining the spatial reader scopes of news sources using local lexicons,2010,24,54,2,0.8,2798783131,Gianluca Quercini,0,0.16289522793962732,-0.23266771594474123
+2123152187,The Spatial Spreadsheet,1999,8,15,2,1.0,2309973268,Glenn S. Iwerks,0,-0.2553281426137158,0.6926743287113805
+2111406286,Indexing methods for moving object databases games and other applications,2013,55,13,1,1.0,89934235,Hanan Samet,0,-0.00576969269973245,0.2165938542632131
+2123470639,Indexing Point Triples Via Triangle Geometry,2007,24,2,2,1.0,1991458254,Charles B. Cranston,0,0.7046445413333788,0.8491647793868737
+2108746909,The internet spatial spreadsheet enabling remote visualization of dynamic spatial data and ongoing query results over a network,2003,9,6,2,1.0,2309973268,Glenn S. Iwerks,0,-0.6164196432749619,0.8634571951859885
+2126593637,Extending the SAND Spatial Database System for the Visualization of Threeâ€Dimensional Scientific Data,2006,26,2,1,1.0,89934235,Hanan Samet,0,0.232790182278699,1.1771565032606246
+2123795321,Enabling Query Processing on Spatial Networks,2006,2,5,3,1.0,1997756302,Jagan Sankaranarayanan,0,-0.8119081610759554,0.7753277337940678
+2141835599,Geotagging with local lexicons to build indexes for textually-specified spatial data,2010,23,94,2,0.9,2141097271,Michael D. Lieberman,0,0.2784711313772754,-0.2468749951860434
+2132809168,A distributed quadtree index for peer-to-peer settings,2005,4,57,3,1.0,66485931,Egemen Tanin,0,0.3413205612343571,0.8120842873859505
+2127151074,Distance Oracles for Spatial Networks,2009,29,51,2,0.913043,1997756302,Jagan Sankaranarayanan,0,-0.860095106286992,0.14225784828577023
+2121211192,Multifaceted toponym recognition for streaming news,2011,33,63,2,0.9,2141097271,Michael D. Lieberman,0,-0.029610632359880602,-0.13733013755415546
+2115500858,Metric space similarity joins,2008,68,106,2,1.0,421161533,Edwin H. Jacox,0,-0.14255436113902986,0.20337351355405242
+2127255002,Visualizing and Animating R-trees and Spatial Operations in Spatial Databases on the Worldwide Web,1998,26,20,2,1.0,1165832765,Frantisek Brabec,0,0.47050338680516485,0.7445935894531909
+2112690629,Pictorial Query Specification for Browsing Through Spatially Referenced Image Databases,1998,29,10,2,0.857143,2190921344,Aya Soffer,0,-0.5207388606918844,0.13779230513221863
+2110059191,Maintenance of K -nn and spatial join queries on continuously moving points,2006,52,37,1,1.0,89934235,Hanan Samet,0,-1.5259557055056072,0.7071443496910288
+2113186222,A Database Management System for the Federal Courts,1984,14,5,3,0.0,2096572648,Jack R. Buchanan,0,-2.7436305990699648,1.032872099762604
+2122110860,Using a distributed quadtree index in peer-to-peer networks,2007,40,135,3,0.555556,66485931,Egemen Tanin,0,-0.5744902279999988,0.6531233797322931
+2134479550,Query Processing Using Distance Oracles for Spatial Networks,2010,37,51,2,0.857143,1997756302,Jagan Sankaranarayanan,0,-0.7433939591343176,0.4138183584698387
+2123060058,Incremental distance join algorithms for spatial databases,1998,36,226,2,1.0,299309139,GÃ­sli R. Hjaltason,0,0.1931335860050575,0.5313411543981491
+2134874858,Efficient query processing on spatial networks,2005,39,81,3,1.0,1997756302,Jagan Sankaranarayanan,0,-0.8119081610759554,0.7753277337940678
+2156824617,Improved bulk-loading algorithms for quadtrees,1999,11,16,2,1.0,299309139,GÃ­sli R. Hjaltason,0,0.003708468606338,0.082832279151172
+2153982063,Viewing streaming spatially-referenced data at interactive rates,2014,38,6,2,1.0,2231301849,Shangfu Peng,0,-0.17333670857891237,0.24185691047122057
+2159936290,Decoupling partitioning and grouping Overcoming shortcomings of spatial indexing with bucketing,2004,72,15,1,1.0,89934235,Hanan Samet,0,-0.13275296294680305,-0.071629888206014
+2159994629,High-Dimensional Similarity Retrieval Using Dimensional Choice,2008,33,2,2,0.0,1763981264,Dave Tahmoush,0,-0.357616779554399,0.04198792099952648
+2148445409,Data-parallel polygonization,2003,32,11,2,0.666667,2762706314,Erik G. Hoel,0,0.003708468606338,0.082832279151172
+2157388925,A Web Database for Computer-Aided Detection and Diagnosis of Medical Images,2008,8,2,2,0.0,1763981264,Dave Tahmoush,0,0.003708468606338,0.082832279151172
+2161099834,Uncovering the spatial relatedness in Wikipedia,2014,32,9,2,0.8,2798783131,Gianluca Quercini,0,-0.05244538260487616,-0.07090206726280195
+2152229249,Adaptive context features for toponym resolution in streaming news,2012,40,60,2,0.9,2141097271,Michael D. Lieberman,0,-0.029610632359880602,-0.13733013755415546
+2167276918,Augmenting spatio-textual search with an infectious disease ontology,2008,3,9,3,1.0,2141097271,Michael D. Lieberman,0,1.0356260011204466,-1.040758747662308
+2146476558,Cascaded spatial join algorithms with spatially sorted output,1996,17,7,2,1.0,220758600,Walid G. Aref,0,-0.45853982478583405,0.7812322689299344
+2161630290,STEWARD architecture of a spatio-textual search engine,2007,34,97,2,1.0,2141097271,Michael D. Lieberman,0,0.0539763197635642,0.42768510301867985
+2167932125,Partitioning strategies for spatio-textual similarity join,2014,36,6,3,0.0,2159906317,Jinfeng Rao,0,-0.13275296294680305,-0.071629888206014
+2164862630,Structured toponym resolution using combined hierarchical place categories,2013,23,17,2,1.0,1798774585,Marco D. Adelfio,0,-0.39327025030563534,0.6323655538265999
+2267544904,The ATree A data structure to support very large scientific databases,1995,0,0,2,1.0,2111185302,P. Bogdanovich,0,-0.014844145692422123,0.6331117160774596
+2294153038,Analytical queries on road networks an experimental evaluation of two system architectures,2015,37,7,2,1.0,2231301849,Shangfu Peng,0,-0.30132854332235204,-0.1131840565137238
+2296221269,Brands in NewsStand spatio-temporal browsing of business news,2015,19,11,3,0.0,2304185857,Ahmed Abdelkader,0,0.29074281576341565,0.04017907604630777
+2296487541,Experience with SAND-Tcl,2002,32,50,1,1.0,89934235,Hanan Samet,0,-0.44102452054413255,0.37672435671913557
+2480900910,Multidimensional Data Structures,1998,0,5,1,1.0,89934235,Hanan Samet,0,-0.21398051976894994,0.03248738004447825
+2437437591,SPDO High-throughput road distance computations on Spark using Distance Oracles,2016,39,6,3,1.0,2231301849,Shangfu Peng,0,-0.30132854332235204,-0.1131840565137238
+2561672253,CDO extremely high-throughput road distance computations on city road networks,2016,29,2,2,1.0,2231301849,Shangfu Peng,0,-0.30132854332235204,-0.1131840565137238
+2551180826,A look into Twitter hashtag discovery and generation,2014,21,4,1,1.0,89934235,Hanan Samet,0,0.3519317286583251,0.19465203886557153
+2511826256,Aircraft Trajectory Prediction Made Easy with Predictive Analytics,2016,44,34,2,1.0,2479110344,Samet Ayhan,0,-0.21934185016841626,0.6056873083074126
+2563720296,CrimeStand spatial tracking of criminal activity,2016,30,7,2,0.0,2561570950,Faizan Wajid,0,0.12039256781799873,-0.16695332200859633
+2559860978,Sorting Spatial Data,2016,31,0,1,1.0,89934235,Hanan Samet,0,0.12595265820037338,0.43793680917641964
+2766000905,Measuring Spatial Influence of Twitter Users by Interactions,2017,35,5,3,1.0,2166600663,Hong Wei,0,0.003708468606338,0.082832279151172
+2779448838,Finding and Tracking Local Twitter Users for News Detection,2017,58,12,3,1.0,2166600663,Hong Wei,0,-0.16720447788764392,0.2846273541184474
+2781417480,DICLERGE Divide-Cluster-Merge Framework for Clustering Aircraft Trajectories,2015,28,5,1,1.0,89934235,Hanan Samet,0,0.017240716619382496,0.37676201891764355
+2799249922,Residual Convolutional LSTM for Tweet Count Prediction,2018,29,5,5,1.0,2166600663,Hong Wei,0,0.003708468606338,0.082832279151172
+2808980192,Predicting Estimated Time of Arrival for Commercial Flights,2018,40,6,3,1.0,2479110344,Samet Ayhan,0,0.003708468606338,0.082832279151172
+2888613844,K-Regret Queries Using Multiplicative Utility Functions,2018,48,3,3,0.0,2152307702,Jianzhong Qi,0,0.04058852858681295,-0.03346779459016044
+2898247267,Sorting in Space and Words,2018,72,1,1,1.0,89934235,Hanan Samet,0,0.12595265820037338,0.43793680917641964
+2901847918,Prescriptive analytics system for long-range aircraft conflict detection and resolution,2018,22,5,3,1.0,2479110344,Samet Ayhan,0,-0.9437272513474642,-0.1469542157093922
+2900633893,Multi-level filtering to retrieve similar trajectories under the FrÃ©chet distance,2018,23,1,5,1.0,2166600663,Hong Wei,0,-0.30470567631504725,-0.0062226515008856715
+2900842974,Detecting latest local events from geotagged tweet streams,2018,32,6,5,1.0,2166600663,Hong Wei,0,0.003708468606338,0.082832279151172
+2900882452,DOS a spatial system offering extremely high-throughput road distance computations,2018,29,1,3,1.0,2231301849,Shangfu Peng,0,-0.30132854332235204,-0.1131840565137238
+2893136680,Efficient Multi-range Query Processing on Trajectories,2018,25,0,4,1.0,2561499850,Munkh Erdene Yadamjav,0,-0.6375445043454362,0.6248567385150229
+2963199062,Understanding Metropolitan Crowd Mobility via Mobile Cellular Accessing Data,2019,36,0,5,0.0,2870020944,Hancheng Cao,0,0.2856280625866171,-0.0299032071043782
+2972351932,A Data-driven Framework for Long-Range Aircraft Conflict Detection and Resolution,2019,38,0,3,1.0,2479110344,Samet Ayhan,0,-0.1199149129870934,-0.21563747066040134
+2983081485,Data Management and Analytics System for Online Flight Conformance Monitoring and Anomaly Detection,2019,13,0,2,1.0,2479110344,Samet Ayhan,0,0.12915950787631286,0.08107946677330997
+3000014704,Enhancing local live tweet stream to detect news,2020,49,1,3,1.0,2166600663,Hong Wei,0,0.003708468606338,0.082832279151172
+2985050720,Querying Continuous Recurrent Convoys of Interest,2019,9,0,4,1.0,2561499850,Munkh Erdene Yadamjav,0,0.003708468606338,0.082832279151172

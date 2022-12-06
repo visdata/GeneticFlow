@@ -1,0 +1,58 @@
+6578894,Vision-based Web Data Records Extraction,2006,14,56,3,0.0,2591118769,Wei Liu,0,0.3724027549612507,-1.010458801261548
+64370772,Multi-Databases Removal of Redundant Information,2000,12,0,1,1.0,2120241213,Weiyi Meng,0,0.17736094578061773,0.21266854791863435
+1553131493,Distributed top-N query processing with possibly uncooperative local systems,2003,23,42,3,0.0,2102819664,Clement Yu,0,0.0908845357243609,0.31128747720343375
+1517566098,Evaluation of result merging strategies for metasearch engines,2005,21,28,2,1.0,2121453224,Yiyao Lu,0,-0.2554006006761083,0.005185177391162952
+1545169732,Wise-integrator an automatic integrator of web search interfaces for E-commerce,2003,19,147,2,1.0,2243375965,Hai He,0,-0.8798708228189849,-0.8393181494610359
+1557940919,Scaling up copy detection,2015,18,13,4,1.0,2289954283,Xian Li,0,0.14123243425455168,0.022051800951407904
+1567049765,Query Optimization in Objectâ€”Oriented Database Systems,1990,28,17,2,0.0,2102819664,Clement Yu,0,0.7215975991611812,0.3052417628859806
+1594895489,Database Exploration with Dynamic Abstractions,1994,13,2,3,1.0,2104095686,Sudhir Aggarwal,0,2.6414130348002574,0.6161131214827426
+1875793583,mNIR diversifying search results based on a mixture of novelty intention and relevance,2012,26,1,3,0.0,1972050881,Reza Taghizadeh Hemayati,0,-0.0041099411153885,0.0447066884760059
+1956218947,Finding the most similar documents across multiple text databases,1999,21,24,4,0.0,2102819664,Clement Yu,0,-0.0041099411153885,0.0447066884760059
+1588577612,EasyQuerier a keyword based interface for web database integration system,2007,8,5,2,1.0,2289954283,Xian Li,0,0.20957092431580376,0.18494057952067072
+1590644098,Querying capability modeling and construction of deep web sources,2007,17,17,2,1.0,2100324728,Liangcai Shu,0,0.02097111172204487,0.08041734692678273
+1602176513,Constructing interface schemas for search interfaces of web databases,2005,17,51,2,1.0,2243375965,Hai He,0,-0.18384128604372846,-0.5551443949246877
+1901790068,WIRE-a WWW-based information retrieval and extraction system,1998,11,14,2,1.0,2104095686,Sudhir Aggarwal,0,-1.8768597182709248,-1.6810046408656556
+1981220436,Annotating Search Results from Web Databases,2013,35,54,4,1.0,2121453224,Yiyao Lu,0,-1.4159608922604912,-1.2810251889842212
+1970752410,A Methodology of Integrating Fuzzy Relational Databases in a Multidatabase System,1997,1,8,3,0.0,2164236968,Weining Zhang,0,1.2657023547646291,0.4881680599559067
+1985079777,Meaningful labeling of integrated query interfaces,2006,25,19,3,0.782609,2303543415,Eduard C. Dragut,0,0.119739122485096,0.4583397011045227
+1987746047,Deep Web Query Interface Understanding and Integration,2012,124,18,2,0.8,2303543415,Eduard C. Dragut,0,0.0908845357243609,0.31128747720343375
+1989944922,Effective keyword search in relational databases,2006,22,319,3,0.0,2628512488,Fang Liu,0,1.655526456548755,0.33299523679810905
+1992393234,Region clustering based evaluation of multiple top-N selection queries,2008,46,4,2,0.0,2495660711,Liang Zhu,0,0.64801359352422,0.056457318223194
+2018268535,Merging Query Results From Local Search Engines for Georeferenced Objects,2014,39,4,7,0.8,2303543415,Eduard C. Dragut,0,0.2807600744873719,-0.0746967125258062
+2035183839,Confronting database complexities,1994,9,2,2,0.0,2974706006,C. Yu,0,0.36484598051616474,0.04411121972197838
+2044523992,Towards a highly-scalable and effective metasearch engine,2001,34,50,2,0.0,2984440891,Zonghuan Wu,0,-0.34857978327751216,-0.2513987233039086
+2068257053,Efficient View Maintenance in a Multidatabase Environment,1997,9,7,2,0.0,2170617426,Rongquen Chen,0,0.9082169851424241,0.7593089230789813
+2069015717,Clustering e-commerce search engines based on their search interface pages using WISE-cluster,2006,22,19,4,1.0,2121453224,Yiyao Lu,0,-0.0041099411153885,0.0447066884760059
+2097068076,Query optimisation in distributed object-oriented database systems,1992,37,2,2,0.0,2877572081,Wei Sun,0,-0.0041099411153885,0.0447066884760059
+2087808177,An efficient way to reestablish B + trees in a distributed environment,1994,14,1,3,0.0,2102819664,Clement Yu,0,-0.6515310675549547,2.116462439209942
+2100298695,Translation of object-oriented queries to relational queries,1995,17,22,3,0.0,2223167783,C. Yu,0,2.1641289448708037,0.4511206023639551
+2079229534,Efficient and effective metasearch for a large number of text databases,1999,19,50,2,0.0,2102819664,Clement Yu,0,-0.0041099411153885,0.0447066884760059
+2093521110,Efficient and effective metasearch for text databases incorporating linkages among documents,2001,34,45,2,0.0,2102819664,Clement Yu,0,0.0621125926555395,-0.23820600003150616
+2098016092,Merging Source Query Interfaces onWeb Databases,2006,27,35,5,0.782609,2303543415,Eduard C. Dragut,0,0.0908845357243609,0.31128747720343375
+2085433073,Automatic integration of Web search interfaces with WISE-Integrator,2004,22,106,2,1.0,2243375965,Hai He,0,-0.2554006006761083,0.005185177391162952
+2105224613,Rule-based deduplication of article records from bibliographic databases,2014,19,14,3,0.0,2434144371,Yu Jiang,0,-0.09216805812316257,0.5875579838431633
+2105258824,A statistical method for estimating the usefulness of text databases,2002,24,29,3,0.705882,2160771522,King Lup Liu,0,-0.0041099411153885,0.0447066884760059
+2102337021,Stop word and related problems in web interface integration,2009,30,41,5,0.782609,2303543415,Eduard C. Dragut,0,0.17603997166913876,-0.769691938503411
+2111693152,A Query-based System for Automatic Invocation of Web Services,2007,16,8,5,0.0,2154004893,Chaitali Gupta,0,-1.5473055926251393,-1.719423603959847
+2106235201,Automatic extraction of dynamic record sections from search engine result pages,2006,29,62,2,1.0,2100407806,Hongkun Zhao,0,-0.0041099411153885,0.0447066884760059
+2107143175,Concept Hierarchy-Based Text Database Categorization,2002,26,39,1,1.0,2120241213,Weiyi Meng,0,0.7980959345130844,-0.09149791849338533
+2110218188,Selectivity Estimation for Exclusive Query Translation in Deep Web Data Integration,2009,6,6,2,0.0,2170384769,Fangjiao Jiang,0,0.2807600744873719,-0.0746967125258062
+2128341918,Fully automatic wrapper generation for search engines,2005,27,283,2,1.0,2100407806,Hongkun Zhao,0,-2.326276970950508,-1.851040162663514
+2140455809,Automatic Extraction of Publication Time from News Search Results,2006,5,12,2,1.0,2121453224,Yiyao Lu,0,-0.0041099411153885,0.0447066884760059
+2116908444,Concept hierarchy based text database categorization in a metasearch engine environment,2000,28,41,2,0.0,2102819664,Clement Yu,0,-0.01425285697517935,-0.3799665100136217
+2117058208,An interactive clustering-based approach to integrating source query interfaces on the deep Web,2004,26,246,4,0.0,2708263537,Wensheng Wu,0,-0.0041099411153885,0.0447066884760059
+2147299132,Efficient SPectrAl Neighborhood blocking for entity resolution,2011,44,24,4,1.0,2100324728,Liangcai Shu,0,-0.0041099411153885,0.0447066884760059
+2153428856,MySearchView a customized metasearch engine generator,2007,12,1,4,1.0,2121453224,Yiyao Lu,0,-0.0041099411153885,0.0447066884760059
+2168661392,A methodology to retrieve text documents from multiple databases,2002,37,42,3,0.0,2102819664,Clement Yu,0,0.7083513957346708,0.3651180638996482
+2150735974,T-verifier Verifying truthfulness of fact statements,2011,19,37,2,1.0,2289954283,Xian Li,0,-0.4197151661071337,-0.42589767901227754
+2169044456,Determining Text Databases to Search in the Internet,1998,30,75,1,1.0,2120241213,Weiyi Meng,0,2.6563107628188405,0.5948577262236849
+2157375141,Processing hierarchical queries in heterogeneous environment,1992,18,4,1,1.0,2120241213,Weiyi Meng,0,1.2447031007260225,0.32525968892850976
+2152057064,Estimating the usefulness of search engines,1999,19,57,1,1.0,2120241213,Weiyi Meng,0,-0.0041099411153885,0.0447066884760059
+2167055514,A Latent Topic Model for Complete Entity Resolution,2009,30,54,3,1.0,2100324728,Liangcai Shu,0,-0.10854577705075061,-0.36255611396385085
+2149052989,Construction of a relational front-end for object-oriented database systems,1993,20,30,1,1.0,2120241213,Weiyi Meng,0,2.458968959218403,0.039016741522375234
+2170626955,Annotating Structured Data of the Deep Web,2007,31,54,4,1.0,2121453224,Yiyao Lu,0,-1.0084860477985187,-1.0845901262168263
+2150153790,Search Algorithms for Discovery of Web Services,2007,2,6,3,0.0,2274780076,J. Hicks,0,-1.659182853733745,-2.2287349490556596
+2340383707,Towards automatic understanding and integration of web databases for developing large-scale unified access systems,2006,0,0,1,1.0,2120241213,Weiyi Meng,0,-1.8301815664395582,-1.757882106011213
+2511006541,Result Merging for Structured Queries on the Deep Web with Active Relevance Weight Estimation,2017,36,3,4,0.0,2712470586,Jing Yuan,0,0.0908845357243609,0.31128747720343375
+2511652470,Constructing interface schemas for search interfaces of web databases,2005,0,0,2,1.0,2243375965,Hai He,0,-0.18384128604372846,-0.5551443949246877
+2952738808,Truth Finding on the Deep Web Is the Problem Solved ,2015,17,0,1,1.0,2120241213,Weiyi Meng,0,-0.32198876610509086,-0.2038331671539402

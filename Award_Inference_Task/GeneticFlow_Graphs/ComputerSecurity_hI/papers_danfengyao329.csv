@@ -1,0 +1,85 @@
+120923251,User-Behavior Based Detection of Infection Onset,2010,26,1,1,1.0,2153400249,Danfeng Yao,0,0.0040557659796233,0.2757546058061082
+178801021,CloudSeal End-to-End Content Protection in Cloud-Based Storage and Delivery Services,2011,21,91,4,0.951219,2147687469,Huijun Xiong,0,0.6903352326826812,-0.30358569273618813
+182090947,Storytelling Security User-Intention Based Traffic Sanitization,2010,0,0,2,0.951219,2147687469,Huijun Xiong,0,-0.023154757892430766,0.45036248453214345
+84941226,Comprehensive Behavior Profiling for Proactive Android Malware Detection,2014,24,16,3,0.0,2157365977,Britton Wolfe,0,-0.28071484656264584,1.2804470890791197
+187807889,K2C Cryptographic Cloud Storage with Lazy Revocation and Anonymous Access,2011,25,44,2,1.0,381006215,Saman Zarandioon,0,-0.0991514805675513,-0.29491221476428897
+1490771820,Notarized federated identity management for web services,2006,36,9,3,0.6,2135853928,Michael T. Goodrich,0,-0.33477023824527935,0.24813221389200465
+1545958326,Visualization of automated trust negotiation,2005,19,11,1,1.0,2153400249,Danfeng Yao,0,-0.0055216156628483315,0.8431774549076696
+1555820810,Privacy-Preserving Computation and Verification of Aggregate Queries on Outsourced Databases,2009,39,48,5,1.0,2159049435,Brian Thompson,0,0.3886787399637393,0.13649894962430417
+1675329038,Notarized federated ID management and authentication,2008,23,8,3,0.6,2135853928,Michael T. Goodrich,0,-0.9214545113374011,0.1495383979561019
+1899613944,Improving Email Trustworthiness through Social-Group Key Authentication,2008,14,3,3,0.0,2113045455,Vivek Pathak,0,-0.7939974022134483,-1.4596397730168302
+1983850353,Applications and Security of Next-Generation User-Centric Wireless Systems,2010,58,1,3,0.0,2006278314,Jerry Rick Ramstetter,0,-1.6396335445972454,2.3947346132607925
+1985733318,CloudSafe Securing data processing within vulnerable virtualization environments in the cloud,2013,26,4,4,1.0,2147687469,Huijun Xiong,0,0.2881931209195063,0.06289671420695346
+1970567146,Rapid Screening of Transformed Data Leaks with Efficient Algorithms and Parallel Computing,2015,3,2,3,0.818182,2133804102,Xiaokui Shu,0,-0.3287690164964345,0.14636193449847731
+1969074557,Robustness of keystroke-dynamics based biometrics against synthetic forgeries,2012,23,40,3,0.521739,2126836863,Deian Stefan,0,-0.7370026347686572,0.1605143827075047
+2008704879,Unearthing Stealthy Program Attacks Buried in Extremely Long Execution Paths,2015,43,36,2,0.818182,2133804102,Xiaokui Shu,0,0.19913517224855312,0.7935298951707955
+1989598342,DNS for Massive-Scale Command and Control,2013,29,46,4,1.0,2246234690,Kui Xu,0,-1.0063594886258387,0.5147161194718798
+2005551264,Towards end-to-end secure content storage and delivery with public cloud,2012,28,46,3,1.0,2147687469,Huijun Xiong,0,0.3414774851608206,-0.022579350858576985
+2004446368,Keystroke-dynamics authentication against synthetic forgeries,2010,19,28,2,0.521739,2126836863,Deian Stefan,0,-0.7916065079573061,-0.0533724463902783
+2015558695,Towards publishing recommendation data with predictive anonymization,2010,34,24,4,0.0,2226784398,Chih Cheng Chang,0,-0.17324153726119554,0.6587671663167594
+2025017365,DroidBarrier know what is executing on your android,2014,30,15,2,0.666667,1967223241,Hussain M. J. Almohri,0,-0.19852096334715325,1.2656721199133751
+2011185671,Decentralized authorization and data security in web content delivery,2007,25,9,1,1.0,2153400249,Danfeng Yao,0,0.0040557659796233,0.2757546058061082
+2030858754,Detecting infection onset with behavior-based policies,2011,29,27,2,0.909091,2246234690,Kui Xu,0,0.1475395743585395,0.8074695844854315
+2041836242,Privacy-Preserving Detection of Sensitive Data Exposure,2015,46,43,2,0.818182,2133804102,Xiaokui Shu,0,0.083707740766144,0.8997467525381403
+2040431736,Data-Provenance Verification For Secure Hosts,2012,34,31,5,1.0,2246234690,Kui Xu,0,-0.8955782180899439,-0.09990465788814346
+2048715902,Profiling user-trigger dependence for Android malware detection,2015,35,56,3,0.666667,2066621527,Karim O. Elish,0,0.7161354986322349,0.9600790623188239
+2071530078,OMOS A Framework for Secure Communication in Mashup Applications,2008,8,24,2,1.0,381006215,Saman Zarandioon,0,-0.4279874696273686,-0.19651596272174143
+2070900839,Role-playing game for studying user behaviors in security A case study on email secrecy,2014,35,4,2,1.0,2246234690,Kui Xu,0,-0.5162167210469532,0.3003501089179455
+2078417425,User Intention-Based Traffic Dependence Analysis for Anomaly Detection,2012,24,21,3,0.666667,2306001663,Hao Zhang,0,0.3259332239481683,0.5745734317069635
+2074919163,Compact and Anonymous Role-Based Authorization Chain,2009,52,13,1,1.0,2153400249,Danfeng Yao,0,-0.41654028262155524,0.9316807441082613
+2074963925,Role-based cascaded delegation,2004,29,46,2,0.0,237969062,Roberto Tamassia,0,0.2515417277521662,0.6889944485886731
+2087423941,Private Information To Reveal or not to Reveal,2008,48,32,1,1.0,2153400249,Danfeng Yao,0,-0.27017180046920003,0.12195148452652364
+2085733527,ID-based encryption for complex hierarchies with applications to forward security and broadcast encryption,2004,35,123,1,1.0,2153400249,Danfeng Yao,0,0.20496762354812317,-2.0305452201115166
+2100034576,Independently Verifiable Decentralized Role-Based Delegation,2010,41,6,2,0.225215,237969062,Roberto Tamassia,0,-0.9371856004019029,-1.0004714848097749
+2104096803,Detecting the onset of infection for secure hosts,2010,1,0,3,0.909091,2246234690,Kui Xu,0,0.05940095047987125,0.6960502266457337
+2098384969,Point-based trust define how much privacy is worth,2006,54,22,1,1.0,2153400249,Danfeng Yao,0,-1.067492562998046,-0.042001296028933766
+2093763734,Privacy-Preserving Scanning of Big Content for Sensitive Data Exposure with MapReduce,2015,42,23,3,0.931035,2610670443,Fang Liu,0,0.03414406787360945,0.2818663120264617
+2096452207,Cascaded Authorization with Anonymous-Signer Aggregate Signatures,2006,43,10,1,1.0,2153400249,Danfeng Yao,0,-0.09928824170848961,0.585186782862594
+2111434316,Building robust authentication systems with activity-based personal questions,2009,7,16,3,0.0,2224833423,Anitra Babic,0,-1.2749856133262338,-0.3599193755554394
+2108459510,Securing location aware services over VANET using geographical secure path routing,2008,20,47,2,0.0,2113045455,Vivek Pathak,0,0.0040557659796233,0.2757546058061082
+2124185432,Privacy-aware authentication and authorization in trust management,2008,122,0,2,0.307373,237969062,Roberto Tamassia,0,-0.8587293375406226,-0.11082941927664725
+2130003231,Device-based Isolation for Securing Cryptographic Keysâ˜†â˜†â˜†,2013,25,2,3,0.0,1985039808,Dennis G. Kafura,0,0.10729231412793709,-1.0711267637088753
+2118848936,On Improving the Performance of Role-Based Cascaded Delegation in Ubiquitous Computing,2005,27,10,1,1.0,2153400249,Danfeng Yao,0,0.01729573639416045,0.692733692908092
+2140893402,Detection and Prevention of Insider Threats in Database Driven Web Services,2009,18,2,2,0.0,2500334774,Tzvi Chumash,0,0.10585037052989539,0.2674322051519693
+2162693768,Visualizing Traffic Causality for Analyzing Network Anomalies,2015,21,11,3,0.75,2306001663,Hao Zhang,0,0.05940095047987125,0.6960502266457337
+2152092365,Identifying native applications with high assurance,2012,35,7,2,0.666667,1967223241,Hussain M. J. Almohri,0,-0.5458282070782254,0.8214226134179586
+2188731906,Improving the security and usability of cloud services with user-centric security models,2012,56,1,3,1.0,381006215,Saman Zarandioon,0,-1.2177316128628317,1.2913717937567664
+2292748392,Secure data service outsourcing with untrusted cloud,2013,128,0,2,1.0,2147687469,Huijun Xiong,0,0.4714286040174187,-1.1824553947703107
+2276979642,Causality reasoning about network events for detecting stealthy malware activities,2016,38,28,2,0.75,2306001663,Hao Zhang,0,0.34679270459428596,0.719331721286145
+2406463415,Rapid Screening of Big Data Against Inadvertent Leaks,2016,63,0,2,0.764706,2133804102,Xiaokui Shu,0,0.0040557659796233,0.2757546058061082
+2489796857,Analysis of Code Heterogeneity for High-Precision Classification of Repackaged Malware,2016,32,21,2,1.0,2624361106,Ke Tian,0,0.7161354986322349,0.9600790623188239
+2580877740,Breaking the Target An Analysis of Target Data Breach and Lessons Learned,2017,4,9,4,0.75,2133804102,Xiaokui Shu,0,0.3059349437675098,0.5107819862878159
+2531970759,Causality-based Sensemaking of Network Traffic for Android Application Security,2016,48,9,2,0.75,2306001663,Hao Zhang,0,0.12380446360813788,0.7178143020377933
+2584587759,Point-based trust Define how much privacy is worth,2006,0,0,1,1.0,2153400249,Danfeng Yao,0,-1.067492562998046,-0.042001296028933766
+2533817413,Program Anomaly Detection Methodology and Practices,2016,13,1,2,0.764706,2133804102,Xiaokui Shu,0,0.13679434731489165,0.6751406926737795
+2609997969,DroidCat Unified Dynamic Detection of Android Malware,2016,0,6,2,0.411765,2139647612,Barbara G. Ryder,0,0.35291358064244926,1.3890429311844468
+2599578646,Prioritized Analysis of Inter-App Communication Risks,2017,5,1,4,0.931035,2610670443,Fang Liu,0,-0.1100173406853,0.4693215056293211
+2600871181,Collusive Data Leak and More Large-scale Threat Analysis of Inter-app Communications,2017,40,44,3,0.0,2045274833,Amiangshu Bosu,0,0.05940095047987125,0.6960502266457337
+2600948643,Cloud Data Analytics for Security Applications Challenges and Opportunities,2017,5,2,1,1.0,2153400249,Danfeng Yao,0,-0.9301804029596308,1.6824063373214893
+2759023773,Secure coding practices in Java challenges and vulnerabilities,2018,31,23,3,0.0,2716018667,Na Meng,0,-0.40886015795473807,-0.39125976895354697
+2765671202,Program Analysis of Cryptographic Implementations for Security,2017,44,7,2,1.0,2808956285,Sazzadur Rahaman,0,-1.322947508812392,-2.224411870977598
+2765671704,CCS 2017 Women in Cyber Security (CyberW) Workshop,2017,2,0,1,1.0,2153400249,Danfeng Yao,0,1.1630701793781688,1.662266556754456
+2749414669,On threat modeling and mitigation of medical cyber-physical systems,2017,41,13,3,0.666667,1967223241,Hussain M. J. Almohri,0,-0.13229801098150215,0.7385156527192231
+2774169481,Orpheus Enforcing Cyber-Physical Execution Semantics to Defend Against Data-Oriented Attacks,2017,56,19,3,0.589286,2120514659,Long Cheng,0,-0.02903099304332807,0.49002009745402053
+2765751359,A First Look Using Linux Containers for Deceptive Honeypots,2017,19,5,2,0.0,2766391463,Alexander Kedrowitsch,0,0.02434833658783455,0.39621230117906364
+2754000120,Detection Of Malware Collusion With Static Dependence Analysis On Inter APP Communication,2016,0,0,2,0.411765,2139647612,Barbara G. Ryder,0,0.08883220954831214,0.625927353691572
+2766332962,POSTER Detection of CPS Program Anomalies by Enforcing Cyber-Physical Execution Semantics,2017,4,1,3,0.589286,2120514659,Long Cheng,0,-0.20545490062293015,0.2198759960986171
+2766542353,Anomaly Detection as a Service Challenges Advances and Opportunities,2017,176,8,1,1.0,2153400249,Danfeng Yao,0,-0.641205046681371,1.1984911664095663
+2780289003,MR-Droid A Scalable and Prioritized Analysis of Inter-App Communication Risks,2017,37,11,4,0.931035,2610670443,Fang Liu,0,0.0040557659796233,0.2757546058061082
+2752019414,Measuring the Insecurity of Mobile Deep Links of Android,2017,32,9,4,0.931035,2610670443,Fang Liu,0,0.0040557659796233,0.2757546058061082
+2799156008,Checking is Believing Event-Aware Program Anomaly Detection in Cyber-Physical Systems,2018,66,0,3,0.6,2120514659,Long Cheng,0,-0.02903099304332807,0.49002009745402053
+2805972420,Data Breach and Multiple Points to Stop It,2018,6,0,1,1.0,2153400249,Danfeng Yao,0,-0.38509121287985215,0.8213556145232678
+2809057104,CHIRON Deployment-quality Detection of Java Cryptographic Vulnerabilities,2018,0,3,6,1.0,2808956285,Sazzadur Rahaman,0,0.3171484069971384,-0.13992525839030945
+2901947009,Tutorial Principles and Practices of Secure Crypto Coding in Java,2018,8,0,3,1.0,2808956285,Sazzadur Rahaman,0,-0.6726804902250613,0.5280770662867241
+2906347220,Identifying Mobile Inter-App Communication Risks,2020,41,4,4,0.5,2066621527,Karim O. Elish,0,-0.2433236296398242,0.4149847708968138
+2917924661,Exploitation Techniques and Defenses for Data-Oriented Attacks,2019,48,2,5,0.6,2120514659,Long Cheng,0,0.1639362940477497,0.6530314529854678
+2923475602,Personal Anomaly Detection and Smart-Phone Security,2010,0,1,2,0.951219,2147687469,Huijun Xiong,0,0.3259332239481683,0.5745734317069635
+2966879218,Comparative Measurement of Cache Configurationsâ€™ Impacts on Cache Timing Side-Channel Attacks,2019,0,0,2,0.0,2101472238,Kirk W. Cameron,0,0.9753907213017128,-0.24445946668398916
+2986475552,Poster Deployment-quality and Accessible Solutions for Cryptography Code Development,2019,6,0,10,1.0,2808956285,Sazzadur Rahaman,0,0.3171484069971384,-0.13992525839030945
+2987636659,Security Certification in Payment Card Industry Testbeds Measurements and Recommendations,2019,33,0,3,1.0,2808956285,Sazzadur Rahaman,0,1.0158146793628018,-0.022150924845584202
+2984971239,Exploitation Techniques and Defenses for Data-Oriented Attacks,2019,95,2,4,0.6,2120514659,Long Cheng,0,0.1639362940477497,0.6530314529854678
+2985320478,CryptoGuard High Precision Detection of Cryptographic Vulnerabilities in Massive-sized Java Projects,2019,60,6,8,1.0,2808956285,Sazzadur Rahaman,0,-0.7047150305406366,0.9971142872484743
+3005100276,Prioritizing data flows and sinks for app security transformation,2020,42,0,4,0.722222,2624361106,Ke Tian,0,0.0040557659796233,0.2757546058061082
+3010675699,Deployment-quality and Accessible Solutions for Cryptography Code Development,2020,6,0,10,1.0,2808956285,Sazzadur Rahaman,0,0.3171484069971384,-0.13992525839030945
+3010992324,A Comprehensive Benchmark on Java Cryptographic API Misuses,2020,3,0,3,1.0,2913820754,Sharmin Afrose,0,0.3171484069971384,-0.13992525839030945
+2616955247,Forward-secure hierarchical IBE with applications to broadcast encryption,2009,0,4,1,1.0,2153400249,Danfeng Yao,0,0.07007071862514667,-2.4143770916924407

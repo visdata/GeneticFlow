@@ -1,0 +1,46 @@
+1543980078,Stop-and-restart style execution for long running decision support queries,2007,36,30,2,0.0,2163909284,Surajit Chaudhuri,0,0.24411642989820784,0.49700430210146335
+1491545690,On the integration of structure indexes and inverted lists,2004,1,19,1,1.0,2158829505,Raghav Kaushik,0,-1.479678259655654,-0.1153754353753967
+1556873914,Transaction processing on confidential data using cipherbase,2015,32,26,4,0.380106,2288886406,Arvind Arasu,0,-0.21289101979956976,0.34240913356548724
+1768336749,Set Containment Joins The Good The Bad and The Ugly,2000,15,71,4,0.0,2175047829,Karthikeyan Ramasamy,0,0.21438872843298346,-0.1353423822296997
+1974149771,On relational support for XML publishing beyond sorting and tagging,2003,18,33,2,0.0,2163909284,Surajit Chaudhuri,0,-1.5479852795004578,0.36174730683205036
+1981462693,Consistent histograms in the presence of distinct value counts,2009,30,12,1,1.0,2158829505,Raghav Kaushik,0,0.003708468606338,0.082832279151172
+1974671283,Estimating the compression fraction of an index using sampling,2010,8,14,2,0.0,2188856032,Stratos Idreos,0,0.003708468606338,0.082832279151172
+2019742356,SELECT triggers for data auditing,2013,13,8,3,0.0,2229618786,Daniel Fabbri,0,-1.1251217445262625,0.2981805593609775
+2023284301,Querying encrypted data,2014,19,25,3,0.393876,2288886406,Arvind Arasu,0,0.003708468606338,0.082832279151172
+2037594241,Learning string transformations from examples,2009,17,67,3,0.569464,2288886406,Arvind Arasu,0,0.003708468606338,0.082832279151172
+2077400566,Efficient parsing-based search over structured data,2013,40,1,2,0.0,2077695977,Aditya Parameswaran,0,0.003708468606338,0.082832279151172
+2072173758,Transformation-based Framework for Record Matching,2008,36,115,3,0.64685,2288886406,Arvind Arasu,0,0.3035469802816595,0.3208697669437689
+2077496619,The power of data use management in action,2013,11,2,4,0.0,2135060379,Prasang Upadhyaya,0,0.003708468606338,0.082832279151172
+2074409795,Incorporating string transformations in record matching,2008,5,14,4,0.64685,2288886406,Arvind Arasu,0,0.003708468606338,0.082832279151172
+2069555406,Efficient auditing for complex SQL queries,2011,16,19,1,1.0,2158829505,Raghav Kaushik,0,-0.3291976808020441,-0.13703470885516322
+2096598900,Efficient exact set-similarity joins,2006,24,402,3,0.64685,2288886406,Arvind Arasu,0,-0.9495970712927685,-0.44923000633769583
+2092088394,Querying encrypted data,2013,15,7,3,0.407354,2288886406,Arvind Arasu,0,0.003708468606338,0.082832279151172
+2135432866,On the integration of structure indexes and inverted lists,2004,39,150,1,1.0,2158829505,Raghav Kaushik,0,-0.4866750622827864,-0.14893660810296164
+2124476970,Robust Cardinality and Cost Estimation for Skyline Operator,2006,21,135,3,0.0,2163909284,Surajit Chaudhuri,0,0.10792615185953257,-0.015559901707503597
+2121516976,A Primitive Operator for Similarity Joins in Data Cleaning,2006,18,459,3,0.0,2163909284,Surajit Chaudhuri,0,0.3115298007259149,0.453296459576382
+2130510094,Recursive XML schemas recursive XML queries and relational storage XML-to-SQL query translation,2004,32,60,3,0.8,2150581792,Rajasekar Krishnamurthy,0,-2.7049565053684366,-0.2868534323559378
+2136705710,Database Access Control and Privacy Is there a common ground ,2011,12,32,1,1.0,2158829505,Raghav Kaushik,0,-1.8970032862904715,0.626938464547421
+2133676910,Leveraging aggregate constraints for deduplication,2007,24,54,4,0.0,2163909284,Surajit Chaudhuri,0,0.35574494103515925,0.11535012456367875
+2128056631,On indexing error-tolerant set containment,2010,30,38,3,0.0,2186177736,Parag Agrawal,0,-0.13275296294680305,-0.071629888206014
+2143100570,Covering indexes for branching path queries,2002,17,298,1,1.0,2158829505,Raghav Kaushik,0,-0.3161582662464376,-0.3469441421109881
+2143124645,Example-driven design of efficient record matching queries,2007,67,86,4,0.0,2163909284,Surajit Chaudhuri,0,0.2451885791062148,0.25531884473070626
+2119320829,On active learning of record matching packages,2010,50,130,3,0.513903,2288886406,Arvind Arasu,0,-0.4857188591441636,3.154800994870695
+2107907225,XML-to-SQL Query Translation Literature The State of the Art and Open Problems,2003,47,127,3,0.0,2075622585,Jeffrey F. Naughton,0,-2.2398458984374554,-0.2588758376988143
+2110970879,Unraveling the duplicate-elimination problem in XML-to-SQL query translation,2004,20,6,2,0.8,2150581792,Rajasekar Krishnamurthy,0,-0.6634096454874194,-0.10465543721764763
+2111151458,A grammar-based entity representation framework for data cleaning,2009,22,17,2,0.569464,2288886406,Arvind Arasu,0,0.2470180912023622,0.27479446085269554
+2144113062,XML views as integrity constraints and their use in query translation,2005,14,3,2,0.8,2150581792,Rajasekar Krishnamurthy,0,-1.8643644073795982,-0.218477549918952
+2156184447,Updates for structure indexes,2002,13,40,1,1.0,2158829505,Raghav Kaushik,0,-0.9019485227708248,-0.2005993822789269
+2162592052,Extending autocompletion to tolerate errors,2009,21,120,2,0.0,2163909284,Surajit Chaudhuri,0,0.003708468606338,0.082832279151172
+2151316814,Oblivious Query Processing,2013,18,17,2,0.407354,2288886406,Arvind Arasu,0,-0.5207388606918844,0.13779230513221863
+2151454464,Synopses for query optimization a space-complexity perspective,2004,46,9,1,1.0,2158829505,Raghav Kaushik,0,-0.0395804122397981,0.0068802457672825015
+2151583733,Data generation using declarative constraints,2011,32,44,2,0.455579,2288886406,Arvind Arasu,0,0.003708468606338,0.082832279151172
+2148608412,Efficient XML-to-SQL query translation where to add the intelligence ,2004,23,47,3,0.0,2075622585,Jeffrey F. Naughton,0,-1.0350474945608885,-0.1447791799367722
+2185403818,Stop That Query The Need for Managing Data Use,2013,17,3,4,0.0,2135060379,Prasang Upadhyaya,0,0.003708468606338,0.082832279151172
+2149666876,When can we trust progress estimators for SQL queries,2005,15,58,2,0.0,2163909284,Surajit Chaudhuri,0,-2.0004594018057458,0.42527689866836693
+2161728285,Exploiting local similarity for indexing paths in graph-structured data,2002,24,231,1,1.0,2158829505,Raghav Kaushik,0,-0.34985308834461337,0.19790768087193256
+2248361066,Integrated fuzzy joins in database management systems,2011,14,12,3,0.0,2057455714,Vivek Narasayya,0,-0.3124211109706451,0.2510410190191856
+2252051444,On scaling up sensitive data auditing,2013,22,0,2,0.0,2099245535,Yupeng Fu,0,-0.3291976808020441,-0.13703470885516322
+2293020320,Whodunit An Auditing Tool for Detecting Data Breaches,2011,8,1,1,1.0,2158829505,Raghav Kaushik,0,-0.3291976808020441,-0.13703470885516322
+2293297573,DataSynth Generating Synthetic Data using Declarative Constraints,2011,8,2,2,0.455579,2288886406,Arvind Arasu,0,-0.09755455572464465,-0.20250413091308977
+2403931021,Raising Authorization Awareness in a DBMS,2015,13,0,3,0.0,2709756139,Abhijeet Mohapatra,0,0.003708468606338,0.082832279151172
+2398657955,Experiences with using Data Cleaning Technology for Bing Services,2012,9,6,5,0.442457,2288886406,Arvind Arasu,0,-0.23525929632286838,0.19883468438673602

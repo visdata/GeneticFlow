@@ -1,0 +1,63 @@
+72335960,An Efficient Black-box Technique for Defeating Web Application Attacks,2009,20,99,1,1.0,2132624284,R. C. Sekar,0,0.1639362940477497,0.6530314529854678
+182375779,One-Way Isolation An Effective Approach for Realizing Safe Execution Environments,2005,25,63,4,0.818182,2120000022,Weiqing Sun,0,0.0040557659796233,0.2757546058061082
+225017009,Survivable Active Networks,2001,29,0,1,1.0,2132624284,R. C. Sekar,0,0.1639362940477497,0.6530314529854678
+64843173,V-NetLab an approach for realizing logically isolated networks for security experiments,2008,5,21,4,0.818182,2120000022,Weiqing Sun,0,-1.543701680826199,2.24151473152747
+1542723081,Synthesizing fast intrusion prevention/detection systems from high-level specifications,1999,29,119,1,1.0,2132624284,R. C. Sekar,0,0.8394129102049798,0.9239599357505993
+1515790419,On the Limits of Information Flow Techniques for Malware Analysis and Containment,2008,39,116,3,0.75,1967828555,Lorenzo Cavallaro,0,-0.3082305829651602,1.7193540619805394
+1571573079,Intrusion detection/prevention using behavior specifications,2003,0,12,1,1.0,2132624284,R. C. Sekar,0,0.13679434731489165,0.6751406926737795
+1545927878,Address obfuscation an efficient approach to combat a board range of memory error exploits,2003,21,506,3,0.714286,143278076,Daniel C. DuVarney,0,-0.6068285881315613,0.7106624006580516
+1575709006,Data Space Randomization,2008,40,112,2,0.777778,2013812051,Sandeep Bhatkar,0,-0.28365788601287634,0.8945011260773053
+1876735072,On preventing intrusions by process behavior monitoring,1999,24,82,1,1.0,2132624284,R. C. Sekar,0,0.13679434731489165,0.6751406926737795
+1606099259,Experiences with Specification-Based Intrusion Detection,2001,9,117,2,0.0,2304294085,Prem Uppuluri,0,0.3543986331013557,1.8855518229852555
+1676940139,Expanding Malware Defense by Securing Software Installations,2008,30,13,2,0.818182,2120000022,Weiqing Sun,0,1.0096951293466732,0.8720582178091442
+1582331515,Taint-enhanced policy enforcement a practical approach to defeat a wide range of attacks,2006,31,314,3,0.0,2669687483,Wei Xu,0,-0.12425379238559496,0.5751828739482383
+1823377586,Control flow integrity for COTS binaries,2013,38,263,2,0.714286,2122545816,Mingwei Zhang,0,-1.1180566081538228,0.5596738011988476
+1593678010,Efficient techniques for comprehensive protection from memory error exploits,2005,26,291,3,1.0,2013812051,Sandeep Bhatkar,0,-0.7937098381395803,0.34649123711175084
+1603044293,Fast Packet Classification Using Condition Factorization,2009,20,4,2,1.0,1150953321,Alok Tongaonkar,0,0.0040557659796233,0.2757546058061082
+1952434180,Building survivable systems an integrated approach based on intrusion detection and damage containment,2000,35,52,1,1.0,2132624284,R. C. Sekar,0,0.13679434731489165,0.6751406926737795
+1979717085,User-Level Infrastructure for System Call Interposition A Platform for Intrusion Detection and Confinement,2000,22,92,2,0.0,2573716108,K. Jain,0,1.3708461344663065,1.1070708494850587
+1989359075,Specification-based anomaly detection a new approach for detecting network intrusions,2002,24,332,1,1.0,2132624284,R. C. Sekar,0,0.8132086575740218,0.9257086063639175
+2031965919,Alcatraz An Isolated Environment for Experimenting with Untrusted Software,2009,37,23,4,0.72973,2112237930,Zhenkai Liang,0,0.0040557659796233,0.2757546058061082
+2025475662,A practical mimicry attack against powerful system-call monitors,2008,34,66,2,0.0,2222193912,Chetan Parampalli,0,0.003957396583520928,0.6743998519854437
+2055564711,Protection usability and improvements in reflected XSS filters,2012,18,28,2,1.0,328466282,Riccardo Pelizzi,0,0.0040557659796233,0.2757546058061082
+2041607772,Model-Carrying Code (MCC) a new paradigm for mobile-code security,2001,26,46,1,1.0,2132624284,R. C. Sekar,0,-0.3383784544281044,0.15268826611744696
+2064533298,Towards more usable information flow policies for contemporary operating systems,2014,24,2,3,1.0,2227215794,Wai Kit Sze,0,0.05940095047987125,0.6960502266457337
+2072453486,A high-performance network intrusion detection system,1999,23,100,1,1.0,2132624284,R. C. Sekar,0,1.5696439203728003,1.1870142455498425
+2063715071,Comprehensive integrity protection for desktop linux,2014,11,0,2,1.0,2227215794,Wai Kit Sze,0,0.05940095047987125,0.6960502266457337
+2098316927,A portable user-level approach for system-wide integrity protection,2013,26,9,2,0.0,2973675472,Wai Kit Sze,0,0.029041446252577898,0.6913937283009484
+2114639597,Empowering mobile code using expressive security policies,2002,13,31,3,0.722222,2036717930,V. N. Venkatakrishnan,0,0.3681672890833818,1.6475339235563855
+2111947034,An Approach for Detecting Self-propagating Email Using Anomaly Detection,2003,33,42,2,0.0,2516029043,Ajay Gupta,0,0.13679434731489165,0.6751406926737795
+2126945610,Inferring higher level policies from firewall rules,2007,13,62,3,1.0,1150953321,Alok Tongaonkar,0,1.0472595273697558,0.06510930755573258
+2118528519,Dataflow anomaly detection,2006,30,114,3,1.0,2013812051,Sandeep Bhatkar,0,-0.028381419050538537,0.8294944128092351
+2106649514,A fast automaton-based method for detecting anomalous program behaviors,2001,25,509,1,1.0,2132624284,R. C. Sekar,0,0.13679434731489165,0.6751406926737795
+2128637495,PAriCheck an efficient pointer arithmetic checker for C programs,2010,43,63,4,0.0,707981970,Yves Younan,0,0.0040557659796233,0.2757546058061082
+2114030344,Eternal War in Memory,2014,15,67,4,0.0,2703376243,Laszlo Szekeres,0,0.3427769704183348,2.450999195724473
+2147649493,A server- and browser-transparent CSRF defense for web 20 applications,2011,9,9,2,1.0,328466282,Riccardo Pelizzi,0,0.0040557659796233,0.2757546058061082
+2171829129,Anomalous Taint Detection,2008,32,7,2,0.75,1967828555,Lorenzo Cavallaro,0,0.0040557659796233,0.2757546058061082
+2154022444,Isolated program execution an application transparent approach for executing untrusted programs,2003,19,104,3,1.0,2112237930,Zhenkai Liang,0,0.0040557659796233,0.2757546058061082
+2154411999,Address-Space Randomization for Windows Systems,2006,16,28,3,0.666667,2303683179,Lixin Li,0,-0.6567160340281432,1.3137850476034183
+2151996777,Fast and automated generation of attack signatures a basis for building self-protecting servers,2005,39,187,2,1.0,2112237930,Zhenkai Liang,0,0.18721280514206096,0.7668794679363188
+2152050029,Practical Proactive Integrity Preservation A Basis for Malware Defense,2008,29,29,2,0.818182,2120000022,Weiqing Sun,0,0.04946445289896877,0.682805678576761
+2164055093,Model-carrying code a practical approach for safe execution of untrusted applications,2003,43,173,1,1.0,2132624284,R. C. Sekar,0,-0.3383784544281044,0.15268826611744696
+2170707830,Online Signature Generation for Windows Systems,2009,16,2,3,0.666667,2303683179,Lixin Li,0,-0.8274682284592965,0.8675240243574758
+2161829188,Taint-enhanced anomaly detection,2011,35,5,2,0.526855,1967828555,Lorenzo Cavallaro,0,0.16217586946962892,0.7453174842773655
+2153164877,Automatic generation of buffer overflow attack signatures an approach based on program behavior models,2005,35,51,2,1.0,2112237930,Zhenkai Liang,0,0.0040557659796233,0.2757546058061082
+2262631737,Simulation and Detection of Self-Propagating Worms and Viruses,2008,0,0,1,1.0,2132624284,R. C. Sekar,0,0.0040557659796233,0.2757546058061082
+2213021386,Control Flow and Code Integrity for COTS binaries An Effective Defense Against Real-World ROP Attacks,2015,45,18,2,0.714286,2122545816,Mingwei Zhang,0,-1.1845336834478517,1.1570543639328077
+2204686514,WebSheets Web Applications for Non-Programmers,2015,23,0,2,1.0,328466282,Riccardo Pelizzi,0,-0.23248255663530118,-1.0855512248484904
+2216321247,Specification-Based Approaches for Information Assurance,2003,0,0,1,1.0,2132624284,R. C. Sekar,0,0.13682567745610014,1.3208030822236092
+2209345602,A Principled Approach for ROP Defense,2015,64,10,3,0.0,2120642547,Rui Qiao,0,0.0040557659796233,0.2757546058061082
+2294464288,Provenance-based Integrity Protection for Windows,2015,30,6,2,1.0,2227215794,Wai Kit Sze,0,0.20618485328048586,1.463043173216481
+2296433359,JaTE Transparent and Efficient JavaScript Confinement,2015,32,3,3,0.0,2119452860,Tung Tran,0,0.0040557659796233,0.2757546058061082
+2400179508,Hardening OpenStack Cloud Platforms against Compute Node Compromises,2016,19,15,3,1.0,2227215794,Wai Kit Sze,0,-1.0149042798883123,1.2867007356755316
+2483201520,Information Systems Security,2008,0,0,1,1.0,2132624284,R. C. Sekar,0,-1.4622032383836296,2.578931899074636
+2472113094,Anomalous Taint Detection (Extended Abstract),2006,0,1,2,0.75,1967828555,Lorenzo Cavallaro,0,0.0040557659796233,0.2757546058061082
+2541153825,Attack Analysis Results for Adversarial Engagement 1 of the DARPA Transparent Computing Program,2016,0,2,5,0.0,2026804668,Birhanu Eshete,0,0.12023449475255885,0.5134924901907059
+2605149285,Model-carrying code,2003,0,0,5,0.714286,143278076,Daniel C. DuVarney,0,-0.7584541566925759,1.2445735755596643
+2751114427,SLEUTH Real-time Attack Scenario Reconstruction from COTS Audit Data,2018,39,1,6,1.0,2629076799,Nahid Hossain,0,0.0040557659796233,0.2757546058061082
+2895460099,HOLMES Real-time APT Detection through Correlation of Suspicious Information Flows,2018,42,0,4,1.0,2751874384,Sadegh M. Milajerdi,0,0.0040557659796233,0.2757546058061082
+2912020053,Proceedings of the 4th International Conference on Information Systems Security,2008,0,0,2,0.0,92014956,Arun K. Pujari,0,0.0040557659796233,0.2757546058061082
+2962703433,HOLMES Real-Time APT Detection through Correlation of Suspicious Information Flows,2019,42,12,4,1.0,2751874384,Sadegh M. Milajerdi,0,0.05940095047987125,0.6960502266457337
+2962785074,{SLEUTH} Real-time Attack Scenario Reconstruction from {COTS} Audit Data,2017,0,12,6,1.0,2629076799,Nahid Hossain,0,0.0040557659796233,0.2757546058061082
+3016038045,Combating Dependence Explosion in Forensic Analysis Using Alternative Tag Propagation Semantics,2020,0,0,3,1.0,2629076799,Nahid Hossain,0,0.0040557659796233,0.2757546058061082
+2888974175,Dependence-Preserving Data Compaction for Scalable Forensic Analysis,2018,0,12,3,1.0,2629076799,Nahid Hossain,0,0.0040557659796233,0.2757546058061082

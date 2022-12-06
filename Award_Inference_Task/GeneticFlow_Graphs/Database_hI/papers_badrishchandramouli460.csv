@@ -1,0 +1,46 @@
+93445675,Online Visualization of Geospatial Stream Data using the WorldWide Telescope,2011,10,11,2,0.575934,2150778444,Mohamed Ali,0,-0.0041099411153885,0.0447066884760059
+183750688,Spatio-Temporal Stream Processing in Microsoft StreamInsight,2010,11,42,2,0.575934,2150778444,Mohamed Ali,0,0.026525588930590926,0.08478689958684793
+828359245,Building Engines and Platforms for the Big Data Age,2014,38,1,1,1.0,2105061512,Badrish Chandramouli,0,0.04113354660435506,0.29960333014048574
+1536502000,EXTENSIBILITY MODEL FOR STREAM-BASED OPERATORS AND AGGREGATES,2010,14,6,4,0.0,178086930,Roman Schindlauer,0,0.1185299347146549,-0.15406528368745845
+1564086613,Distributed network querying with bounded approximate caching,2006,32,5,1,1.0,2105061512,Badrish Chandramouli,0,0.0835119396817451,0.051530138659233005
+1503514136,Asynchronous transfer of state information between continuous query plans,2010,13,61,2,0.0,2064546257,David Maier,0,0.014532710543751099,0.030944858938630852
+1591785915,Isolating Resources and Performance in a Database Management System,2013,84,8,4,0.0,2057455714,Vivek Narasayya,0,-0.0041099411153885,0.0447066884760059
+1982687328,ProSem scalable wide-area publish/subscribe,2008,7,13,1,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2003281274,Stat an interactive analytics environment for big data,2013,9,31,2,0.0,2236272296,Mike Barnett,0,0.02757278280627533,0.1274323151277333
+1987584353,End-to-end support for joins in large-scale publish/subscribe systems,2008,35,26,1,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+1993755553,Temporal Analytics on Big Data for Web Advertising,2012,36,89,1,1.0,2105061512,Badrish Chandramouli,0,-0.8653185868510176,-0.5668914061226745
+1990379658,Supporting distributed feed-following apps over edge devices,2013,34,6,1,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2031051127,Data Stream Management Systems for Computational Finance,2010,9,16,1,1.0,2105061512,Badrish Chandramouli,0,-0.02504284252244325,-0.47177666628625237
+2059377739,DiAl distributed streaming analytics anywhere anytime,2013,4,11,3,0.0,2167600407,Ivo Jose Garcia Dos Santos,0,-0.6327319548474915,-0.8450736427259431
+2077894236,RACE real-time applications over cloud-edge,2012,3,16,1,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2102654168,High-performance dynamic pattern matching over disordered streams,2010,28,79,1,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2128981355,Accurate latency estimation in a distributed event processing system,2011,31,32,1,1.0,2105061512,Badrish Chandramouli,0,0.4169901767344631,-0.03181084648581779
+2135038323,The extensibility framework in Microsoft StreamInsight,2011,20,45,2,0.575934,2150778444,Mohamed Ali,0,-0.04971360828343909,0.09827126667392688
+2115459551,On Suspending and Resuming Dataflows,2007,10,5,1,1.0,2105061512,Badrish Chandramouli,0,0.23075676847186216,-0.2837672103061575
+2115721220,Real-time-ready behavioral targeting in a large-scale advertisement system,2010,41,70,1,1.0,2105061512,Badrish Chandramouli,0,0.1882434276923103,-1.0430197535152996
+2133356318,Real-time spatio-temporal analytics using Microsoft StreamInsight,2010,5,12,2,0.575934,2150778444,Mohamed Ali,0,0.20225826976600944,-0.2071831839694129
+2107469542,Physically Independent Stream Merging,2012,25,3,1,1.0,2105061512,Badrish Chandramouli,0,-0.0356641599204488,-0.33358120036710515
+2143255506,Unifying databases and internet-scale publish/subscribe,2008,173,0,1,1.0,2105061512,Badrish Chandramouli,0,0.1644025391011518,-0.2394631407837945
+2140811298,Scalable progressive analytics on big data in the cloud,2013,33,35,1,1.0,2105061512,Badrish Chandramouli,0,0.20500024119486554,0.4310489518863395
+2162060957,Query suspend and resume,2007,16,36,1,1.0,2105061512,Badrish Chandramouli,0,0.5755073685984183,-0.07644334789221625
+2165506510,On-the-fly progress detection in iterative stream queries,2009,27,26,1,1.0,2105061512,Badrish Chandramouli,0,0.056626613313110905,0.2771293854319399
+2150713082,StreamRec a real-time recommender system,2011,7,51,1,1.0,2105061512,Badrish Chandramouli,0,0.18601297105691045,-0.0008472885667257998
+2171828861,Microsoft CEP server and online behavioral targeting,2009,4,90,17,0.575934,2150778444,Mohamed Ali,0,0.4423599058274088,-0.34901969638975255
+2156757417,Value-based notification conditions in large-scale publish/subscribe systems ,2007,23,17,1,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2184900279,SQLVM Performance Isolation in Multi-Tenant Relational Database-as-a-Service,2013,11,56,4,0.0,2057455714,Vivek Narasayya,0,0.20454772835492946,-0.12004678073390665
+2161252177,On the database/network interface in large-scale publish/subscribe systems,2006,26,23,1,1.0,2105061512,Badrish Chandramouli,0,-0.17244133864042968,-0.305030520451871
+2244876453,Trill a high-performance incremental query processor for diverse analytics,2014,29,98,1,1.0,2105061512,Badrish Chandramouli,0,0.18016583844896203,0.589301347762554
+2433796428,ICE Managing cold state for big data applications,2016,25,1,1,1.0,2105061512,Badrish Chandramouli,0,0.06635930819191084,0.49152641060504293
+2469579467,Shrink prescribing resiliency solutions for streaming,2017,20,2,1,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2581526937,READY Completeness is in the Eye of the Beholder,2017,12,2,1,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2512317875,Trill Engineering a Library for Diverse Analytics,2015,12,2,1,1.0,2105061512,Badrish Chandramouli,0,0.19602142535811662,0.6599691892551753
+2547804802,Quill efficient transferable and rich analytics at scale,2016,23,4,1,1.0,2105061512,Badrish Chandramouli,0,0.39692279087320786,0.21959075872103936
+2613811373,Enabling Signal Processing over Data Streams,2017,27,7,2,0.0,2033524472,Milos Nikolic,0,0.15887778272949188,0.3206456297420236
+2619959750,Mison a fast JSON parser for data analytics,2017,25,20,3,0.0,2147969462,Yinan Li,0,-0.04690208084257943,-0.2328615901993703
+2795182149,FASTER A Concurrent Key-Value Store with In-Place Updates,2018,32,17,1,1.0,2105061512,Badrish Chandramouli,0,-0.2012155484616062,0.0735887128036643
+2887973316,FASTER an embedded concurrent key-value store for state management,2018,0,1,1,1.0,2105061512,Badrish Chandramouli,0,0.1650556846327417,0.05544701961545055
+2912530637,Session details Research session 4 streams and complex event processing,2014,0,0,1,1.0,2105061512,Badrish Chandramouli,0,0.7886207110387069,1.1890438310611027
+2952885177,CRA Enabling Data-Intensive Applications in Containerized Environments,2019,6,0,2,0.0,894419982,Ibrahim Sabek,0,-0.696262102768338,-0.5740460556859261
+2948869229,FishStore Faster Ingestion with Subset Hashing,2019,33,1,2,0.0,2708512051,Dong Xie,0,-0.023362593282123756,-0.08403819227967904
+2933085223,Concurrent Prefix Recovery Performing CPR on a Database,2019,25,0,2,0.0,2794883354,Guna Prasaad,0,0.08714749877850951,0.4329350279734263
+2970057657,FishStore fast ingestion and indexing of raw data,2019,0,1,1,1.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059

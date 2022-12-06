@@ -1,0 +1,60 @@
+179108129,Potters Wheel An Interactive Framework for Data Transformation and Cleaning,2001,0,12,2,0.0,2063640528,Joseph M. Hellerstein,0,-0.0041099411153885,0.0447066884760059
+95466099,Data Access and Management Services on Grid,2002,27,30,1,1.0,2112167796,Vijayshankar Raman,0,-0.30693457535440466,-0.4576887681983086
+182726565,QoS-based Data Access and Placement for Federated Information Systems,2005,1,4,3,0.0,2251660241,Wen Syan Li,0,0.5770190912491012,-0.7095004279456654
+334366032,SUPPORTING FLEXIBLE TYPES IN A DATABASE,2013,5,2,3,0.0,401236404,Guy M. Lohman,0,0.43739842239757626,0.009947045888208002
+1010337604,Hybrid push-down/pull-up of unions with expensive operations in a federated query processor,2005,5,35,1,1.0,2112167796,Vijayshankar Raman,0,0.0908845357243609,0.31128747720343375
+1480461337,Efficient partitioned joins in a database with column-major layout,2012,24,18,5,0.0,401236404,Guy M. Lohman,0,-0.044960371866018124,-0.1330539129963641
+1515739837,Progressive query optimization for federated queries,2006,25,11,4,0.0,2118023846,Stephan Eberhard Ewen,0,0.36610311895500325,0.07045586025680924
+1499807075,Progressive optimization in action,2004,1,6,1,1.0,2112167796,Vijayshankar Raman,0,0.014532710543751099,0.030944858938630852
+1571912949,Method system and program for prioritizing maintenance of database tables,2008,11,14,5,0.0,240506892,Sam Lightstone,0,0.32066835392501103,-0.2818999174788965
+1492920349,OFF-LOADING STAR JOIN OPERATIONS TO A STORAGE SERVER,2007,17,5,2,0.629306,1919621074,Lin Qiao,0,1.3555492472136115,0.3705368350677893
+1538818174,Progressive refinement of a federated query plan during query execution,2006,15,93,3,0.0,1186758707,Holger Kache,0,0.0908845357243609,0.31128747720343375
+1512955609,An Interactive Framework for Data Cleaning,2000,39,15,2,0.0,2063640528,Joseph M. Hellerstein,0,-0.18369972694291084,-0.11603682164284747
+1595441669,QoS-based data access and placement for federated systems,2005,2,12,2,0.0,2095616635,Vishal S. Batra,0,0.08196802511116741,0.1565757763525419
+1905015708,Predicate pushdown with late materialization in database query processing,2012,25,10,3,0.674944,1919621074,Lin Qiao,0,0.8809340701863815,0.11633144593696097
+1578495525,Parallel querying with non-dedicated computers,2005,21,24,1,1.0,2112167796,Vijayshankar Raman,0,0.43739842239757626,0.009947045888208002
+1578663810,Intra-block partitioning for database management,2012,10,9,5,0.0,240506892,Sam Lightstone,0,0.04950169860597583,0.2024605638798553
+1578918886,System method and apparatus for scan-sharing for business intelligence queries in an in-memory database,2009,11,15,3,0.461538,1494782392,Frederick R. Reiss,0,-0.13986826231036678,-0.3488155859930167
+1684311429,Adaptive Query Processing Technology in Evolution,2000,40,215,7,0.0,2063640528,Joseph M. Hellerstein,0,0.014532710543751099,0.030944858938630852
+1890220130,Blink Not Your Fatherâ€™s Database ,2011,16,9,8,0.0,69727675,Namik Hrle,0,-0.1378788631650658,0.5167878976552045
+1658167903,Adaptive query processing why how when what next ,2007,1,12,3,0.0,53579654,Zachary G. Ives,0,0.0908845357243609,0.31128747720343375
+1584770030,In-memory BLU acceleration in IBMs DB2 and dashDB Optimized for modern workloads and hardware architectures,2015,12,19,3,0.63815,2105103640,Ronald J. Barber,0,1.0442047344897274,0.867390122275573
+1969837095,Towards an information infrastructure for the grid,2004,9,22,7,0.0,2973955941,S. Bourbonnais,0,-0.0041099411153885,0.0447066884760059
+1982558719,Lazy adaptive rid-list intersection and its application to index anding,2007,14,32,1,1.0,2112167796,Vijayshankar Raman,0,-0.3652008450463068,0.3160971441695779
+1975677592,Integration of Server Storage and Database Stack Moving Processing Towards Data,2008,8,3,2,0.674944,1919621074,Lin Qiao,0,0.20578122766333573,0.13662832182139142
+1967601791,DB2 with BLU acceleration so much more than just a column store,2013,22,178,1,1.0,2112167796,Vijayshankar Raman,0,0.8842819824028589,-0.09411055655882236
+2005142245,Adaptive query processing why how when what next,2006,1,9,3,0.0,2002742946,Amol Deshpande,0,0.0908845357243609,0.31128747720343375
+2027976416,Greedy List Intersection,2008,17,14,3,0.0,200092699,Robert Krauthgamer,0,1.1506140905488156,0.00798807441851799
+2030528599,Automated statistics collection in action,2005,2,3,6,0.0,2118460571,Peter J. Haas,0,-0.0041099411153885,0.0447066884760059
+2018745370,How to wring a table dry entropy compression of relations and querying of compressed relations,2006,19,45,1,1.0,2112167796,Vijayshankar Raman,0,0.43739842239757626,0.009947045888208002
+2044564105,Partial results for online query processing,2002,28,71,1,1.0,2112167796,Vijayshankar Raman,0,0.0908845357243609,0.31128747720343375
+2041563709,Robust query processing through progressive optimization,2004,24,204,2,0.333333,1963964406,Volker Markl,0,-0.23110885929603256,0.7682063706058481
+2078466495,Autonomic query parallelization using non-dedicated computers an evaluation of adaptivity options,2009,42,35,4,0.0,2070167002,Norman W. Paton,0,-0.0041099411153885,0.0447066884760059
+2103216163,Main-memory scan sharing for multi-core CPUs,2008,22,78,2,0.674944,1919621074,Lin Qiao,0,-0.0041099411153885,0.0447066884760059
+2100542992,Constant-Time Query Processing,2008,14,120,1,1.0,2112167796,Vijayshankar Raman,0,0.9165703227808046,0.3639014348279039
+2114474644,How to barter bits for chronons compression and bandwidth trade offs for database scans,2007,22,62,2,0.0,2128073122,Allison L. Holloway,0,1.4318362772774418,0.41518437476338993
+2135499008,Continuously adaptive continuous queries over streams,2002,40,609,4,0.0,2139913828,Samuel Madden,0,0.16331260091827293,-0.29922094097407603
+2106895292,Potters Wheel An Interactive Data Cleaning System,2001,25,462,1,1.0,2112167796,Vijayshankar Raman,0,0.11627582886789564,0.3621724021946999
+2121755841,POP/FED progressive query optimization for federated queries in DB2,2006,4,17,4,0.0,1186758707,Holger Kache,0,0.014532710543751099,0.030944858938630852
+2143125604,Row-wise parallel predicate evaluation,2008,13,61,2,0.0,2250370833,Ryan Johnson,0,-0.2875219901167211,0.44496548017389
+2131413649,LEO An autonomic query optimizer for DB2,2003,19,100,3,0.333333,1963964406,Volker Markl,0,0.7215975991611812,0.3052417628859806
+2113831242,Business Analytics in (a) Blink,2012,14,24,18,0.812936,2105103640,Ronald J. Barber,0,0.3697721822253082,0.3526890015756634
+2151037077,Load and network aware query routing for information integration,2005,22,14,3,0.0,2251660241,Wen Syan Li,0,0.1771059897251464,-0.0569332771475955
+2160149182,Automated statistics collection in DB2 UDB,2004,14,50,7,0.0,2066833720,Ashraf Aboulnaga,0,0.8316175807534888,0.35249522481300577
+2182331413,Joins on encoded and partitioned data,2014,18,13,15,0.0,2134045017,Jae Gil Lee,0,0.5729530994866205,0.6338634694383753
+2161569281,TelegraphCQ Continuous Dataflow Processing for an Uncertain World,2003,44,1065,9,0.0,2505260344,Sirish Chandrasekaran,0,-0.03990874100610224,-0.19030993128025134
+2171147420,Using state modules for adaptive query processing,2003,42,116,1,1.0,2112167796,Vijayshankar Raman,0,-0.3015641978542666,0.05725393901911783
+2188889839,NUMA-aware algorithms the case of data shuffling,2013,24,66,4,0.0,2147969462,Yinan Li,0,0.18601297105691045,-0.0008472885667257998
+2243413644,Immediate join spilling scheme for a database,2014,32,1,2,0.752766,2009007797,Gopi K. Attaluri,0,-0.3652008450463068,0.3160971441695779
+2212840494,Method for laying out fields in a database in a hybrid of row-wise and column-wise ordering,2008,41,37,2,0.461538,1494782392,Frederick R. Reiss,0,0.09560153568394734,0.34384522677555335
+2292693431,Memory-efficient hash joins,2014,19,37,4,0.746399,2105103640,Ronald J. Barber,0,-0.0041099411153885,0.0447066884760059
+2278442298,Predictable query execution through early materialization,2006,31,31,4,0.0,401236404,Guy M. Lohman,0,-0.5296783729876128,0.5999535967023556
+2395643028,Evolutionary Integration of In-Memory Database Technology into IBMs Enterprise DB2 Database Systems,2013,6,0,3,0.0,2019833327,Knut Stolze,0,0.7111256641125056,-0.04837818126268367
+2428665651,Wildfire Concurrent Blazing Data Ingest and Analytics,2016,8,8,7,0.580697,2105103640,Ronald J. Barber,0,0.044859856903840555,0.012551371775477651
+2417855281,ACCURATE PARTITION SIZING FOR MEMORY EFFICIENT REDUCTION OPERATIONS,2014,7,1,5,0.0,240506892,Sam Lightstone,0,-0.165796457764015,-0.34570618985044876
+2556858519,POOLING WORK ACROSS MULTIPLE TRANSACTIONS FOR REDUCING CONTENTION IN OPERATIONAL ANALYTICS SYSTEMS,2015,9,7,4,0.0,401236404,Guy M. Lohman,0,2.3757753103809724,2.277608381726941
+2584396730,Reducing the cost of update delete and append-only insert operations in a database,2016,19,8,4,0.0,401236404,Guy M. Lohman,0,0.33884975146430507,0.2678025587894068
+2584505023,Evolving Databases for New-Gen Big Data Applications,2017,11,4,5,0.547483,2105103640,Ronald J. Barber,0,0.06635930819191084,0.49152641060504293
+2518182978,Hardware for a bitmap data structure for efficient storage of heterogeneous lists,2016,21,6,4,1.0,337295000,Vincent Kulandaisamy,0,0.20165297242282254,-0.4396086974736948
+2965024626,WiSer A Highly Available HTAP DBMS for IoT Applications,2019,24,0,8,0.487986,2105103640,Ronald J. Barber,0,0.7525368217049581,0.7966910560300162
+3008451085,WiSer A Highly Available HTAP DBMS for IoT Applications,2019,24,0,7,0.487986,2105103640,Ronald J. Barber,0,0.7525368217049581,0.7966910560300162

@@ -1,0 +1,106 @@
+104306449,Moose an Extensible Language-Independent Environment for Reengineering Object-Oriented Systems,2000,13,106,3,0.4,253033241,Sander Tichelaar,0,0.35931953284580015,-0.5674908185703834
+191376634,The Moose Reengineering Environment,2001,19,19,3,0.4,253033241,Sander Tichelaar,0,0.5728184276098459,0.08725633671464494
+159230512,Towards a Methodology for the Understanding of Object-Oriented Systems,2001,28,15,2,0.118572,2013743603,StÃ©phane Ducasse,0,-0.14130990982849,-0.2217319337914215
+59286762,Moose a Collaborative and Extensible Reengineering Environment,2005,18,68,3,0.089308,2013743603,StÃ©phane Ducasse,0,-0.5858771665552741,0.2641527235267396
+59581499,Ronda A Fine Grained Collaborative Development Environment,2012,13,1,2,0.0,2139373529,Fernando Olivero,0,-0.5461132154686984,0.0965069146713281
+76899822,ICSE 2008 Tutorial on Pragmatic Design Quality Assessment,2008,59,0,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+43693908,CodeCrawler - An Extensible and Language Independent 2D and 3D Software Visualization Tool,2005,10,23,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+60742288,Beyond Language Independent Object-Oriented Metrics Model Independent Metrics,2002,21,11,2,0.118572,2013743603,StÃ©phane Ducasse,0,0.6311538196149233,-0.3396628583328179
+246190030,Towards a Taxonomy of SUnit Tests,2005,22,15,2,0.0,2707447966,Markus GÃ¤lli,0,-0.0291855379334779,0.0585196112869768
+317548421,9th International Workshop on Principles of Software Evolution (IWPSE 2007) in conjunction with the 6th ESEC/FSE joint meeting Dubrovnik Croatia September 3-4 2007,2007,0,2,2,0.102305,2045589531,Massimiliano Di Penta,0,-0.0291855379334779,0.0585196112869768
+292648401,Proceedings of the 2008 International Working Conference on Mining Software Repositories MSR 2008 (Co-located with ICSE) Leipzig Germany May 10-11 2008 Proceedings,2008,0,2,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+1487995234,Higher Abstractions for Dynamic Analysis,2006,29,26,2,0.36,236382134,Orla Greevy,0,0.45325546696860325,-1.0787617167636583
+1550797871,Analysing Software Repositories to Understand Software Evolution,2008,0,53,3,0.84,2051372983,Marco DAmbros,0,-0.0291855379334779,0.0585196112869768
+1498075971,Example-Based Program Transformation,2008,29,22,2,0.857143,220312088,Romain Robbes,0,0.3170499401971261,0.4306480907790242
+1542582976,Are popular classes more defect prone,2010,36,45,3,1.0,329100065,Alberto Bacchelli,0,0.28311905927957226,0.5129225129243453
+1553176225,An approach to software evolution based on semantic change,2007,30,32,2,0.857143,220312088,Romain Robbes,0,-0.0291855379334779,0.0585196112869768
+1596181823,Keynote Talk 1,2013,0,0,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+1597810835,Yesterdays Weather guiding early reverse engineering efforts by summarizing the evolution of changes,2004,18,127,3,0.297297,2110178573,Tudor GÃ®rba,0,-0.0291855379334779,0.0585196112869768
+1894163201,A hybrid reverse engineering platform combining metrics and program visualization,1999,0,63,2,0.0,2030505841,Serge Demeyer,0,-0.5858771665552741,0.2641527235267396
+1971890710,CEL Touching software modeling in essence,2015,42,0,2,1.0,2159217198,Remo Lemma,0,-0.0291855379334779,0.0585196112869768
+1967782643,Quantitatively Exploring Non-code Software Artifacts,2014,34,3,2,0.0,2227977118,Luca Bigliardi,0,-0.0291855379334779,0.0585196112869768
+1992718490,Visual software evolution reconstruction,2009,32,15,2,0.866667,2051372983,Marco DAmbros,0,-0.0291855379334779,0.0585196112869768
+1987438174,On the Impact of Design Flaws on Software Defects,2010,31,78,3,0.957469,2051372983,Marco DAmbros,0,-0.0291855379334779,0.0585196112869768
+1989933134,A Graph-Based Metamodel for Object-Oriented Software Metrics,2002,20,37,2,0.0,1986880241,Tom Mens,0,0.5728184276098459,0.08725633671464494
+1998753103,Seahawk stack overflow in the IDE,2013,11,79,3,0.764706,261055005,Luca Ponzanelli,0,-0.5232362786620735,0.5776155288667976
+2000540715,Reverse Engineering Super-Repositories,2007,25,19,2,0.947368,2057080714,Mircea Lungu,0,-0.0291855379334779,0.0585196112869768
+2031371279,Evolutionary and collaborative software architecture recovery with Softwarenaut,2014,44,28,2,0.452878,2057080714,Mircea Lungu,0,-0.0291855379334779,0.0585196112869768
+2014755981,Mining StackOverflow to turn the IDE into a self-confident programming prompter,2014,42,131,5,0.764706,261055005,Luca Ponzanelli,0,-0.0291855379334779,0.0585196112869768
+2038154643,Quantifying Program Comprehension with Interaction Data,2014,22,14,3,0.931035,2108167957,Roberto Minelli,0,0.19162845194432374,-0.8524567227290701
+2038480328,Misery loves company CrowdStacking traces to aid problem detection,2015,23,2,3,1.0,2222495825,Tommaso Dal Sasso,0,-0.0291855379334779,0.0585196112869768
+2040441647,Answering software evolution questions,2013,35,12,3,0.715571,2051372983,Marco DAmbros,0,-0.0291855379334779,0.0585196112869768
+2045240618,CodeCrawler an information visualization tool for program comprehension,2005,10,48,1,1.0,2099306614,Michele Lanza,0,-0.5858771665552741,0.2641527235267396
+2068090482,ViDI the visual design inspector,2015,10,2,3,0.0,2792023990,Yuriy Tymchuk,0,-0.18040555801885663,-0.1706635616864588
+2073433109,Polymetric views - a lightweight visual approach to reverse engineering,2003,54,323,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2061538519,Refining code ownership with synchronous changes,2012,41,12,2,1.0,2309616602,Lile Hattori,0,-0.5461132154686984,0.0965069146713281
+2070660695,Manhattan Supporting real-time visual team activity awareness,2013,13,4,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2065808135,Code review Veni ViDI vici,2015,23,2,3,0.0,2792023990,Yuriy Tymchuk,0,-0.0291855379334779,0.0585196112869768
+2080378883,The evolution matrix recovering software evolution using software visualization techniques,2001,14,153,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2096624252,Mining the history of synchronous changes to refine code ownership,2009,25,32,2,1.0,2309616602,Lile Hattori,0,-0.0291855379334779,0.0585196112869768
+2103435738,The small project observatory a tool for reverse engineering software ecosystems,2010,6,13,2,0.762792,2057080714,Mircea Lungu,0,-0.0291855379334779,0.0585196112869768
+2103526356,Software bugs and evolution a visual approach to uncover their relationship,2006,21,43,2,1.0,2051372983,Marco DAmbros,0,-0.0291855379334779,0.0585196112869768
+2103711160,Software Evolution Comprehension Replay to the Rescue,2011,30,24,3,1.0,2309616602,Lile Hattori,0,-0.0291855379334779,0.0585196112869768
+2090153396,CEL modeling everywhere,2013,18,6,2,1.0,2159217198,Remo Lemma,0,0.3648079396135204,0.6092769066434898
+2104166366,I know what you did last summer an investigation of how developers spend their time,2015,35,50,3,0.931035,2108167957,Roberto Minelli,0,-0.0291855379334779,0.0585196112869768
+2101215839,EvoSpaces Multi-dimensional Navigation Spaces for Software Evolution,2009,39,10,1,1.0,2099306614,Michele Lanza,0,-0.5858771665552741,0.2641527235267396
+2087053547,Fractal Figures Visualizing Development Effort for CVS Entities,2005,14,19,2,1.0,2051372983,Marco DAmbros,0,0.28311905927957226,0.5129225129243453
+2102045808,UrbanIt Visualizing repositories everywhere,2015,12,1,4,0.0,2224980561,Andrea Ciani,0,0.25631760331876086,0.5469451896967593
+2105400090,Linking e-mails and source code artifacts,2010,23,126,2,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2138064901,BugCrawler Visualizing Evolving Software Systems,2007,4,25,2,1.0,2051372983,Marco DAmbros,0,-0.0291855379334779,0.0585196112869768
+2117488430,Visualizing Co-Change Information with the Evolution Radar,2009,34,67,2,0.866667,2051372983,Marco DAmbros,0,-1.311864729032543,-0.3263488749180019
+2129246310,Software systems as cities a controlled experiment,2011,21,134,2,0.6,147340114,Richard Wettel,0,-0.0291855379334779,0.0585196112869768
+2114739320,Leveraging Crowd Knowledge for Software Comprehension and Development,2013,30,48,3,0.764706,261055005,Luca Ponzanelli,0,-0.0291855379334779,0.0585196112869768
+2132322116,The LAN-simulation a refactoring teaching example,2005,23,35,10,0.0601786,2030505841,Serge Demeyer,0,0.35931953284580015,-0.5674908185703834
+2106366577,Versioning systems for evolution research,2005,13,49,2,0.857143,220312088,Romain Robbes,0,-0.0291855379334779,0.0585196112869768
+2112602670,A teamwork-based approach to programming fundamentals with scheme smalltalk &amp; java,2008,7,2,4,0.857143,220312088,Romain Robbes,0,0.45325546696860325,-1.0787617167636583
+2121459566,Characterizing and Understanding Development Sessions,2007,20,42,2,0.857143,220312088,Romain Robbes,0,-0.5858771665552741,0.2641527235267396
+2142477413,IWPSE 2007 9th international workshop on principles of software evolution,2007,0,0,2,0.102305,2045589531,Massimiliano Di Penta,0,-0.0291855379334779,0.0585196112869768
+2118869973,Insights into system-wide code duplication,2004,13,87,3,0.0,2018802648,Matthias Rieger,0,-0.5858771665552741,0.2641527235267396
+2122170423,Erase and rewind â€” Learning by replaying examples,2011,1,0,3,0.818182,329100065,Alberto Bacchelli,0,0.24819789591689984,0.1130514014089873
+2122487424,An environment for synchronous software development,2009,17,13,2,1.0,2309616602,Lile Hattori,0,-0.0291855379334779,0.0585196112869768
+2110698868,Package patterns for visual architecture recovery,2006,24,40,2,0.947368,2057080714,Mircea Lungu,0,-0.14130990982849,-0.2217319337914215
+2122913021,Example-Driven Reconstruction of Software Models,2007,29,14,4,0.0,2485163583,Oscar Nierstrasz,0,0.47835108929162456,0.11131764316136385
+2171167443,Towards Change-aware Development Tools,2007,42,5,2,0.857143,220312088,Romain Robbes,0,-0.10632656243738021,0.6861553660264453
+2144341649,The class blueprint visually supporting the understanding of glasses,2005,44,93,2,0.089308,2013743603,StÃ©phane Ducasse,0,0.35931953284580015,-0.5674908185703834
+2171397631,Distributed and Collaborative Software Evolution Analysis with Churrasco,2010,21,18,2,0.957469,2051372983,Marco DAmbros,0,-0.0291855379334779,0.0585196112869768
+2165787433,Butterflies a visual approach to characterize packages,2005,26,28,2,0.089308,2013743603,StÃ©phane Ducasse,0,-0.003746094287545798,0.1276494861564465
+2147882920,CodeCrawler-lessons learned in building a software visualization tool,2003,32,71,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2157408109,MSR 2008 - 5th working conference on mining software repositories,2008,0,2,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2160654340,Program Comprehension through Software Habitability,2007,20,84,2,1.0,147340114,Richard Wettel,0,-0.5858771665552741,0.2641527235267396
+2152231319,A hybrid reverse engineering approach combining metrics and program visualisation,1999,32,61,3,0.0,2013743603,StÃ©phane Ducasse,0,-0.14130990982849,-0.2217319337914215
+2167203318,Commit 20,2010,13,14,2,0.957469,2051372983,Marco DAmbros,0,-0.5858771665552741,0.2641527235267396
+2149517574,4th International Workshop on Mining Software Repositories (MSR 2007),2007,0,12,2,0.0,2158171975,Harald C. Gall,0,-0.0291855379334779,0.0585196112869768
+2170592526,Benchmarking Lightweight Techniques to Link E-Mails and Source Code,2009,22,35,3,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2167588400,CodeCity 3D visualization of large-scale software,2008,7,57,2,1.0,147340114,Richard Wettel,0,-0.0291855379334779,0.0585196112869768
+2153083825,Exploring Inter-Module Relationships in Evolving Software Systems,2007,19,18,2,0.947368,2057080714,Mircea Lungu,0,-0.5858771665552741,0.2641527235267396
+2189459868,Workshop on FAMIX and Moose in Software Reengineering,2008,7,0,2,0.36,236382134,Orla Greevy,0,-0.5858771665552741,0.2641527235267396
+2249074508,Multi-concern Visualization of Large Software Systems,2015,16,0,2,0.875,291426481,Andrea Mocci,0,-0.0291855379334779,0.0585196112869768
+2283941518,Workshop on FAMIX and Moose in Software Reengineering (FAMOOSr 2008),2008,0,2,3,0.36,236382134,Orla Greevy,0,-0.5858771665552741,0.2641527235267396
+2335780457,Quantitative approaches in object-oriented software engineering report on the 11th workshop QAOOSE at ECOOP 2007,2007,15,1,3,0.0,43152936,Houari Sahraoui,0,-0.0291855379334779,0.0585196112869768
+2406960755,Holistic Software Evolution,2012,0,0,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2463375504,Taming the IDE with fine-grained interaction data,2016,27,9,4,0.931035,2108167957,Roberto Minelli,0,-0.0291855379334779,0.0585196112869768
+2490506238,Proceedings of CSMR 2007 (11th European Conference on Software Maintenance and Reengineering),2007,0,1,2,0.947368,2057080714,Mircea Lungu,0,-0.0291855379334779,0.0585196112869768
+2538591719,Proceedings of Softvis 2006 (3rd International ACM Symposium on Software Visualization),2006,0,0,2,0.947368,2057080714,Mircea Lungu,0,-0.0291855379334779,0.0585196112869768
+2541219092,The Tragedy of Defect Prediction Prince of Empirical Software Engineering Research,2016,5,14,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2530626499,Proceedings of 11th IEEE International Symposium on Web Systems Evolution (WSE),2009,0,0,4,0.7,220312088,Romain Robbes,0,-0.0291855379334779,0.0585196112869768
+2576360137,Gaucho From Integrated Development Environments to Direct Manipulation Environments,2010,7,9,2,0.762792,2057080714,Mircea Lungu,0,-0.05217665302223747,-0.6743430718238791
+2517541169,Prompter Turning the IDE into a self-confident programming assistant,2016,58,8,5,0.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2553377594,6th IEEE International Working Conference on Mining Software Repositories (MSR),2009,0,0,2,0.762792,2057080714,Mircea Lungu,0,-0.0291855379334779,0.0585196112869768
+2528179723,What Makes a Satisficing Bug Report,2016,23,6,3,1.0,2222495825,Tommaso Dal Sasso,0,-0.0291855379334779,0.0585196112869768
+2564480942,Visualizing the Evolution of Working Sets,2016,19,0,3,0.931035,2108167957,Roberto Minelli,0,-0.0291855379334779,0.0585196112869768
+2617733587,Supporting software developers with a holistic recommender system,2017,55,14,7,0.764706,261055005,Luca Ponzanelli,0,-0.0291855379334779,0.0585196112869768
+2601961008,How to gamify software engineering,2017,21,11,3,1.0,2222495825,Tommaso Dal Sasso,0,-0.0291855379334779,0.0585196112869768
+2637632825,QAOOSEâ€™05 9th ECOOP Workshop on Quantitative Approaches in Object-Oriented Software Engineering,2005,0,0,2,0.0,43152936,Houari Sahraoui,0,-0.0291855379334779,0.0585196112869768
+2595290676,IEEE International Conference on Software Maintenance ICSM Foreword,2010,0,0,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2732547419,The code time machine,2017,17,3,4,0.0,2728391366,Emad Aghajani,0,-0.0291855379334779,0.0585196112869768
+2771429367,CodeCrawler â€”- A Lightweight Software Visualization Tool,2003,4,11,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2774512900,Program Visualization Support for Highly Iterative Development Environments,2003,25,5,1,1.0,2099306614,Michele Lanza,0,-0.2275806598953275,0.41405005420145585
+2794607770,Sentiment analysis for software engineering how far can we go ,2018,37,39,3,0.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2795746234,RETICULA Real-time code quality assessment,2018,13,1,3,0.0,2795399495,Luigi Franzio,0,-0.0291855379334779,0.0585196112869768
+2782962922,The LAN-simulation A Research and Teaching Example for Refactoring,2005,0,24,7,0.0,168165139,Filip Van Rysselberghe,0,-0.0291855379334779,0.0585196112869768
+2793138513,Object-Oriented Reverse Engineering â€”- Coarse-grained Fine-grained and Evolutionary Software Visualization,2003,87,56,1,1.0,2099306614,Michele Lanza,0,-0.14130990982849,-0.2217319337914215
+2883860176,Architecture and Computer Science Computer Science and Architecture,2018,0,0,1,1.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2900734124,Two Datasets for Sentiment Analysis in Software Engineering,2018,4,5,5,0.0,2658917039,Bin Lin,0,-0.0291855379334779,0.0585196112869768
+2901226836,Improving Code The (Mis) Perception of Quality Metrics,2018,38,7,2,0.0,2884223428,Jevgenija Pantiuchina,0,-0.0291855379334779,0.0585196112869768
+2954492316,Data-driven solutions to detect API compatibility issues in Android an empirical study,2019,26,1,4,0.272727,2480241491,Simone Scalabrino,0,-0.0291855379334779,0.0585196112869768
+3013702387,Reverse Engineering through Holistic Software Exploration,2007,4,0,2,0.947368,2057080714,Mircea Lungu,0,-0.5858771665552741,0.2641527235267396

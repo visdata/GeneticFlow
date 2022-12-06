@@ -1,0 +1,101 @@
+58740234,On-line new event detection clustering and tracking (information retrieval internet),1999,0,21,1,1.0,2097030689,James Allan,0,-0.2588802117453498,0.7237330174795988
+233242456,Meeting of the MINDS,2007,0,0,2,0.0,676500258,Susan T. Dumais,0,-0.02361490712827675,0.2709295199642215
+1489745252,Comparing Effectiveness in TDT and IR,2000,0,3,2,0.0,2093531752,Victor Lavrenko,0,0.003708468606338,0.082832279151172
+1515778651,Automatic Retrieval With Locality Information Using SMART,1992,0,122,3,0.0,2304167133,Chris Buckley,0,-0.5914439967684072,-0.1545749892909346
+1525341925,Automatic Query expansion using SMART TREC 3,1994,0,441,3,0.269437,2304167133,Chris Buckley,0,-0.06709973560736317,-0.016906612390014182
+1263359207,The smoothed dirichlet distribution understanding cross-entropy ranking in information retrieval,2006,59,9,2,0.75,93460222,Ramesh Nallapati,0,0.2908575072107241,0.3234328159442016
+1493399377,HARD Track Overview in TREC 2004 High Accuracy Retrieval from Documents,2004,16,66,1,1.0,2097030689,James Allan,0,0.003708468606338,0.082832279151172
+1493432397,Classification Models for New Event Detection,2004,16,10,1,1.0,2097030689,James Allan,0,-0.1916888409096968,-0.26501256474732954
+1530211485,Automatic routing and ad-hoc retrieval using SMART TREC 2,1993,0,55,2,0.0,2304167133,Chris Buckley,0,-0.01657107088421793,0.035389748403282274
+1605984447,A New Measure of the Cluster Hypothesis,2009,7,15,2,0.666667,1959697873,Mark D. Smucker,0,-0.9152169465226087,1.4530640101022574
+1853800330,Recent experiments with INQUERY,1995,0,66,1,1.0,2097030689,James Allan,0,-0.16507692778528446,-0.011905719463757994
+1857290810,If I Had a Million Queries,2009,12,25,5,0.441176,2645247999,Ben Carterette,0,0.003708468606338,0.082832279151172
+1772205333,Beyond bag-of-words Bigram-enhanced context-dependent term weights,2014,37,5,3,1.0,2002302112,Edward Kai Fung Dang,0,-0.10054409443295047,-0.1245503737247202
+1601068082,Introduction to topic detection and tracking,2002,20,198,1,1.0,2097030689,James Allan,0,0.003708468606338,0.082832279151172
+1656231388,Combinatorial markov random fields and their applications to information organization,2008,110,2,1,1.0,2097030689,James Allan,0,-0.924468524861097,3.297758427279541
+1863141190,Regression Rank Learning to Meet the Opportunity of Descriptive Queries,2009,25,63,2,0.0,2123681105,Matthew Lease,0,-0.17768346192212375,0.0848641959637884
+1964384602,Effective and efficient user interaction for long queries,2008,26,51,2,1.0,2136065884,Giridhar Kumaran,0,0.05262063088999158,-0.07400734516408267
+1973153386,Lightening the load of document smoothing for better language modeling retrieval,2006,3,6,2,0.666667,1959697873,Mark D. Smucker,0,-0.26696911874922685,0.05842691939063975
+1964590675,Language models for financial news recommendation,2000,15,119,6,0.0,2093531752,Victor Lavrenko,0,0.08243886237425677,0.2920304638586709
+1982039199,Flexible intrinsic evaluation of hierarchical clustering for TDT,2003,13,26,1,1.0,2097030689,James Allan,0,-0.49680371111629457,1.1825094605693118
+1982795953,Zero-shot video retrieval using content and concepts,2013,17,56,2,0.5,2271906946,Jeffrey Dalton,0,0.08451934477434501,0.1807374276687207
+1969056668,CrowdLogging distributed private and anonymous search logging,2011,23,16,2,1.0,2083481152,Henry Feild,0,-0.0647228570241572,0.03790538280124648
+1970945111,The effect of adding relevance information in a relevance feedback environment,1994,12,292,3,0.269437,2304167133,Chris Buckley,0,1.116060298488493,-0.2793644663048043
+1985180788,INQUERY and TREC-9,2000,4,91,1,1.0,2097030689,James Allan,0,-0.08507193519749144,0.04569102127790678
+1976445139,Adapting information retrieval systems to user queries,2008,38,24,2,1.0,2136065884,Giridhar Kumaran,0,0.3093702597112594,0.0781901659384289
+1980036597,When will information retrieval be &quot;good enough&quot; ,2005,20,80,1,1.0,2097030689,James Allan,0,0.7270607713713648,-0.03323405727744588
+1990821053,Incremental relevance feedback for information filtering,1996,12,147,1,1.0,2097030689,James Allan,0,0.003708468606338,0.082832279151172
+2006725060,Discovering missing click-through query language information for web search,2011,30,4,2,1.0,2137183984,Xing Yi,0,-0.01657107088421793,0.035389748403282274
+1991193012,Efficiency optimizations for interpolating subqueries,2011,23,2,2,0.75,675556096,Marc Allen Cartright,0,-0.0395804122397981,0.0068802457672825015
+2005492507,Automatic generation of overview timelines,2000,18,218,2,1.0,2105117427,Russell Swan,0,0.003708468606338,0.082832279151172
+1989885825,A cluster-based resampling method for pseudo-relevance feedback,2008,32,140,3,0.0,2103478774,Kyung Soon Lee,0,0.24187942827870323,0.4620266857438538
+2000411838,Entity query feature expansion using knowledge base links,2014,35,124,3,0.5,2271906946,Jeffrey Dalton,0,0.5082248150510791,-0.2599251512667857
+1997211290,Challenges in information retrieval and language modeling report of a workshop held at the center for intelligent information retrieval University of Massachusetts Amherst September 2002,2003,0,184,1,1.0,2097030689,James Allan,0,0.4874277944959379,0.012148398733950605
+2007750197,Predicting searcher frustration,2010,17,128,2,1.0,2083481152,Henry Feild,0,0.003708468606338,0.082832279151172
+2015642291,Predicting Search Intent Based on Pre-Search Context,2015,31,18,6,0.923077,2167771460,Weize Kong,0,0.685420936958438,-1.4333794910652733
+2024514264,Detecting controversy on the web,2013,12,35,2,1.0,687633372,Shiri Dori Hacohen,0,0.3519317286583251,0.19465203886557153
+2017826930,Agreement among statistical significance tests for information retrieval evaluation at varying sample sizes,2009,2,25,2,0.666667,1959697873,Mark D. Smucker,0,0.003708468606338,0.082832279151172
+2021856948,Evaluation over thousands of queries,2008,19,92,5,0.510638,2645247999,Ben Carterette,0,0.003708468606338,0.082832279151172
+2020187113,Evaluating combinations of ranked lists and visualizations of inter-document similarity,2001,29,35,1,1.0,2097030689,James Allan,0,-0.4154451652569636,1.051716490704515
+2052408961,Incident threading for news passages,2009,18,19,2,0.714286,2133916587,Ao Feng,0,-0.1923482153824391,0.3911408909828727
+2043926422,Strategy-based interactive cluster visualization for information retrieval,2000,21,12,2,0.545455,226556901,Anton Leuski,0,0.1579559588619796,0.563349572073047
+2037022422,Using similarity links as shortcuts to relevant web pages,2007,6,10,2,0.666667,1959697873,Mark D. Smucker,0,-0.31787959612329486,-4.21311411360756
+2041055136,Passage retrieval for incorporating global evidence in sequence labeling,2011,23,4,2,0.473684,2271906946,Jeffrey Dalton,0,0.3093702597112594,0.0781901659384289
+2049971280,Improving passage ranking with user behavior information,2013,38,3,3,1.0,2167771460,Weize Kong,0,1.116060298488493,-0.2793644663048043
+2048469241,Simple questions to improve pseudo-relevance feedback results,2006,7,11,2,1.0,2136065884,Giridhar Kumaran,0,-0.11300819442795465,0.09518744858596301
+2046983134,Approaches to passage retrieval in full text information systems,1993,16,361,2,0.0,2101230262,Gerard Salton,0,0.7034024511548059,-0.33676939902188135
+2067981498,Extracting significant time varying features from text,1999,10,91,2,1.0,2105117427,Russell Swan,0,0.003708468606338,0.082832279151172
+2057594293,Necessary and frequent terms in queries,2014,6,2,2,0.789474,2278350695,Jiepu Jiang,0,-0.4272049769764657,-0.867399379623106
+2068098316,Evaluating topic models for information retrieval,2008,6,25,2,1.0,2137183984,Xing Yi,0,-0.5289375114355956,0.7220344746869357
+2057970600,A critical examination of TDTs cost function,2002,4,24,3,0.0,2070575593,R. Manmatha,0,0.003708468606338,0.082832279151172
+2064988570,On-line new event detection and tracking,1998,22,618,1,1.0,2097030689,James Allan,0,-0.2198479978740165,0.07247253149895935
+2070302820,Sentiment diversification with different biases,2013,35,15,2,0.777778,302577220,Elif Aktolga,0,0.43162625009792,0.20195636031746017
+2067055421,Dynamic Composition of Information Retrieval Techniques,2004,48,10,3,0.0,2692904225,Andrew Arnt,0,-0.11300819442795465,0.09518744858596301
+2072584790,Using CrowdLogger for in situ information retrieval system evaluation,2013,13,2,2,0.698425,2083481152,Henry Feild,0,0.003708468606338,0.082832279151172
+2074700442,A survey in indexing and searching XML documents,2002,126,77,6,0.0,2033162946,Robert W. P. Luk,0,-2.6968634253154833,-0.2959690392779163
+2067698555,Relevant query feedback in statistical language modeling,2003,16,9,3,1.0,93460222,Ramesh Nallapati,0,0.1231549335056549,0.051544081604491046
+2094661073,Temporal summaries of new topics,2001,30,226,1,1.0,2097030689,James Allan,0,0.003708468606338,0.082832279151172
+2088004917,Automatic routing and retrieval using Smart TREC-2,1995,16,55,2,0.115879,2304167133,Chris Buckley,0,-0.09067408679252066,-0.09425968300654039
+2086925418,First story detection in TDT is hard,2000,13,142,1,1.0,2097030689,James Allan,0,0.003708468606338,0.082832279151172
+2087026386,Cross-document cross-lingual coreference retrieval,2008,2,4,3,0.692308,302577220,Elif Aktolga,0,0.2218887812011344,0.15962673515111078
+2138049151,UMass at TREC 2002 Cross Language and Novelty Tracks,2002,13,50,2,0.0,1222741431,Leah S. Larkey,0,0.003708468606338,0.082832279151172
+2105472772,Matching resumes and jobs based on relevance models,2007,3,55,2,1.0,2137183984,Xing Yi,0,0.003708468606338,0.082832279151172
+2117473841,UMass at TREC 2004 Novelty and HARD,2004,35,151,2,1.0,294868147,Nasreen Abdul Jaleel,0,0.3661872583524868,-0.10429118873968678
+2111713978,A content based approach for discovering missing anchor text for web search,2010,20,12,2,1.0,2137183984,Xing Yi,0,-0.08922045518644987,-1.8350361038850043
+2130145422,Incremental test collections,2005,15,37,2,0.6,2645247999,Ben Carterette,0,0.003708468606338,0.082832279151172
+2130215700,Extending Faceted Search to the General Web,2014,50,13,2,1.0,2167771460,Weize Kong,0,0.1892638834604338,-0.8145264107322796
+2124433316,Query-time optimization techniques for structured queries in information retrieval,2013,106,0,2,0.75,675556096,Marc Allen Cartright,0,0.1119648532525672,-0.2579334289956172
+2124504084,Minimal test collections for retrieval evaluation,2006,17,199,2,0.6,2645247999,Ben Carterette,0,0.003708468606338,0.082832279151172
+2118632115,UMass Complex Interactive Question Answering (ciQA) 2007 Human Performance as Question Answerers,2007,5,1,2,0.666667,1959697873,Mark D. Smucker,0,-0.17768346192212375,0.0848641959637884
+2124555297,Frontiers challenges and opportunities for information retrieval Report from SWIRL 2012 the second strategic workshop on information retrieval in Lorne,2012,0,106,1,1.0,2097030689,James Allan,0,0.984781936104207,-0.28272964416512464
+2136886016,A user-centered approach to evaluating topic models,2004,18,18,4,0.0,2180501019,Diane Kelly,0,-0.8928254335663028,0.5587214345925139
+2116461571,UMass at TREC 2003 HARD and QA,2003,9,12,6,1.0,294868147,Nasreen Abdul Jaleel,0,-0.25687098756241633,0.351453336852996
+2119377856,Fast query expansion using approximations of relevance models,2010,26,17,2,0.75,675556096,Marc Allen Cartright,0,-0.11300819442795465,0.09518744858596301
+2113651401,Human question answering performance using an interactive document retrieval system,2012,18,5,2,0.422366,1959697873,Mark D. Smucker,0,-0.17768346192212375,0.0848641959637884
+2131338958,Reranking search results for sparse queries,2011,23,4,2,0.777778,302577220,Elif Aktolga,0,0.1231549335056549,0.051544081604491046
+2147674242,Event threading within news topics,2004,10,210,4,1.0,93460222,Ramesh Nallapati,0,-0.050503089330031906,0.29336684380260863
+2153679868,Finding and linking incidents in news,2007,13,53,2,0.714286,2133916587,Ao Feng,0,-0.013250400124135179,0.6167295508344339
+2159681823,An interactive algorithm for asking and incorporating feature feedback into support vector machines,2007,26,62,2,0.0,2010246433,Hema Raghavan,0,-0.06182486488201955,0.06815860497885046
+2165903295,Semiautomatic evaluation of retrieval systems using document similarities,2007,10,13,2,0.510638,2645247999,Ben Carterette,0,-0.35579479347063486,0.787917807412249
+2169279737,Text classification and named entities for new event detection,2004,10,299,2,0.888889,2136065884,Giridhar Kumaran,0,0.12981392026006314,-0.26602515408115723
+2154735567,Extracting query facets from search results,2013,33,29,2,1.0,2167771460,Weize Kong,0,-0.01657107088421793,0.035389748403282274
+2154884126,Million Query Track 2007 Overview,2007,14,63,1,1.0,2097030689,James Allan,0,0.003708468606338,0.082832279151172
+2170111360,Indri at TREC 2007 Million Query (1MQ) Track,2007,2,5,2,1.0,2137183984,Xing Yi,0,0.003708468606338,0.082832279151172
+2155188720,A Comparative Study of Utilizing Topic Models for Information Retrieval,2009,17,106,2,0.923077,2137183984,Xing Yi,0,-0.8048676523795413,0.3970908715610089
+2170399269,Passage reranking for question answering using syntactic structures and answer types,2011,11,25,2,0.777778,302577220,Elif Aktolga,0,-0.40449511546783895,-0.5493008821566024
+2155825896,Relevance feedback with too much data,1995,18,79,1,1.0,2097030689,James Allan,0,0.1231549335056549,0.051544081604491046
+2153116343,Interactive Information Retrieval Using Clustering and Spatial Proximity,2004,33,37,2,0.545455,226556901,Anton Leuski,0,0.22495132273983043,1.0047229941866267
+2159069026,A context-dependent relevance model,2016,42,3,3,1.0,2002302112,Edward Kai Fung Dang,0,0.299446210070953,-0.18258698706880913
+2165159668,Find-similar similarity browsing as a search tool,2006,38,48,2,0.666667,1959697873,Mark D. Smucker,0,0.003708468606338,0.082832279151172
+2246718308,Fast Forward Index Methods for Pseudo-Relevance Feedback Retrieval,2015,70,2,3,1.0,2002302112,Edward Kai Fung Dang,0,0.2073967866920161,0.4056035643344491
+2256053561,Reducing Click and Skip Errors in Search Result Ranking,2016,36,3,2,0.923077,2278350695,Jiepu Jiang,0,0.4121776373409342,-1.3338175562882615
+2324619102,Correlation Between System and User Metrics in a Session,2016,17,6,2,0.923077,2278350695,Jiepu Jiang,0,0.003708468606338,0.082832279151172
+2341481476,Strategy-basedinteractiveclustervisualization forinformationretrieval,2000,18,0,2,0.545455,226556901,Anton Leuski,0,0.003708468606338,0.082832279151172
+2469680359,Improving Automated Controversy Detection on the Web,2016,10,15,2,0.0,2508638950,Myungha Jang,0,0.003708468606338,0.082832279151172
+2469690015,Controversy Detection in Wikipedia Using Collective Classification,2016,15,7,3,1.0,687633372,Shiri Dori Hacohen,0,-1.1243859759255548,0.21483951699918755
+2532281470,Improving Entity Ranking for Keyword Queries,2016,25,3,3,0.8,2893264048,John Foley,0,0.2411296976350509,0.19514062197806442
+2534923781,Precision-Oriented Query Facet Extraction,2016,31,4,2,0.789474,2167771460,Weize Kong,0,-0.1753747189727261,0.1970018965671856
+2535327350,Probabilistic Approaches to Controversy Detection,2016,18,23,4,0.0,2508638950,Myungha Jang,0,0.003708468606338,0.082832279151172
+2591629621,Understanding Ephemeral State of Relevance,2017,33,12,4,0.923077,2278350695,Jiepu Jiang,0,-0.2074848374968517,0.3877676111821017
+2739567684,Comparing In Situ and Multidimensional Relevance Judgments,2017,56,15,3,0.923077,2278350695,Jiepu Jiang,0,-0.2074848374968517,0.3877676111821017
+2810075950,Universal Approximation Functions for Fast Learning to Rank Replacing Expensive Regression Forests with Simple Feed-Forward Networks,2018,23,5,4,0.0,2460809916,Daniel Cohen,0,0.31484412112737625,0.2579936097006229

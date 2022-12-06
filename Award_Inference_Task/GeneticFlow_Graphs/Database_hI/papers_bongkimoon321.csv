@@ -1,0 +1,47 @@
+43794799,Net-Ï‡ unified data-centric internet services,2007,21,5,4,0.0,2006892651,Justin Cappos,0,-0.13835889848422178,0.12168013402996519
+183634465,Accelerating In-Page Logging with Non-Volatile Memory,2010,10,12,2,0.313249,2157457850,Sang Won Lee,0,0.16782124802273696,0.2536234597393226
+1527806945,Partition Based Path Join Algorithms for XML Data,2003,12,14,2,1.0,2132325718,Quanzhong Li,0,1.1050021717568705,0.0559904587632876
+1044928239,MEMORY STORAGE APPARATUS METHOD OF SUPPORTING TRANSACTION FUNCTION FOR DATABASE AND MEMORY SYSTEM,2014,4,10,2,1.0,2099405450,Woon Hak Kang,0,1.6623720673407478,1.3785868172191424
+1579933111,Bulk Insertion for R-Tree by Seeded Clustering,2003,8,6,2,0.0,2290236642,Taewon Lee,0,-0.17137216483809206,0.11457849095757892
+1597906172,XISS/R XML indexing and storage system using RDBMS,2003,5,24,3,0.0,2145560592,Philip J. Harding,0,1.3679223765088966,-0.23045704652112609
+1944382395,A Data Parallel Algorithm for XML DOM Parsing,2009,23,16,3,0.0,2221131568,Bhavik Shah,0,2.5071650406294665,-0.9507291150886569
+1659263304,In-storage processing of database scans and joins,2016,34,17,6,0.0,2142708829,Sungchan Kim,0,-0.15672641818554803,0.6416929796534343
+1985765509,Flash-based extended cache for higher throughput and faster recovery,2012,15,42,3,0.833333,2099405450,Woon Hak Kang,0,-0.17244133864042968,-0.305030520451871
+1984282814,Advances in flash memory SSD technology for enterprise database applications,2009,14,120,2,0.403944,2157457850,Sang Won Lee,0,1.5193922742730563,1.3108871558758848
+1981029608,A case for flash memory ssd in enterprise database applications,2008,21,287,2,0.489191,2157457850,Sang Won Lee,0,-0.0041099411153885,0.0447066884760059
+1965822699,HadoopXML a suite for parallel processing of massive XML data with multiple twig pattern queries,2012,7,28,5,0.0,2110544756,Hyebong Choi,0,1.7523480188881089,-0.7278965154525701
+1990946453,Design of flash-based DBMS an in-page logging approach,2007,22,312,2,0.489191,2157457850,Sang Won Lee,0,-0.0041099411153885,0.0447066884760059
+1987426261,X-FTL transactional FTL for SQLite databases,2013,14,47,3,1.0,2099405450,Woon Hak Kang,0,0.6679281948354318,0.985650920679542
+1989703244,Parallel algorithms for computing temporal aggregates,1999,8,27,4,0.0,2005660740,J.A.G. Gendrano,0,-0.241250245220175,-0.17693373480736696
+2013985140,Efficient Execution of Range Top-k Queries in Aggregate R-Trees*This work was supported in part by the Brain Korea 21 Project and in part by the Ministry of Information &amp; Communications Korea under the Information Technology Research Center (ITRC) Support Program in 2005,2005,0,14,1,1.0,2152993714,Bongki Moon,0,0.014532710543751099,0.030944858938630852
+2027102527,The design and evaluation of a high-performance earth science database,1998,18,18,3,0.0,2079111794,Carter T. Shock,0,-0.0041099411153885,0.0447066884760059
+2044936152,Parallel data processing with MapReduce a survey,2012,73,471,5,0.882353,2471982065,Kyong Ha Lee,0,-0.20133665475165913,-0.19110780330684465
+2072145795,Adaptive multi-stage distance join processing,2000,21,66,2,0.0,2950977780,Hyoseop Shin,0,0.3421835970484426,-0.1361844981104196
+2104644740,Sequencing XML data and query twigs for fast pattern matching,2006,26,32,2,1.0,2098926005,Praveen Rao,0,0.9119466489047445,-0.17505109875619934
+2101850227,Scalable algorithms for large temporal aggregation,2000,11,30,1,1.0,2152993714,Bongki Moon,0,0.44077690769515715,0.2503385015610961
+2126427176,Durable write cache in flash memory SSD for relational and NoSQL databases,2014,18,39,3,1.0,2099405450,Woon Hak Kang,0,1.646568818143654,0.8391933637665314
+2135985617,Locating XML Documents in a Peer-to-Peer Network Using Distributed Hash Tables,2009,33,24,2,1.0,2098926005,Praveen Rao,0,2.5396606457707946,-0.9340804770101916
+2133109171,In-Page Logging B-Tree for Flash Memory,2009,2,11,2,0.448425,2142626437,Gap Joo Na,0,0.07990222934621705,0.430503982801384
+2121622048,A clustering method based on path similarities of XML data,2007,18,21,2,0.0,2417837916,Il Hwan Choi,0,2.5018985251141763,-0.962165811613532
+2121636206,Transactional In-Page Logging for multiversion read consistency and recovery,2011,23,12,2,0.270687,2157457850,Sang Won Lee,0,1.3022470506859456,1.471300480842392
+2125105831,Value-based predicate filtering of XML documents,2008,30,20,3,0.444444,2135486613,Joonho Kwon,0,2.3827843550157177,-0.9028350107179526
+2110459974,Indexing and Querying XML Data for Regular Path Expressions,2001,20,758,2,1.0,2132325718,Quanzhong Li,0,2.638464776898655,-1.0173744759134375
+2113664030,SketchTree Approximate Tree Pattern Counts over Streaming Labeled Trees,2006,27,6,2,1.0,2098926005,Praveen Rao,0,-0.42845202490949574,0.1450203979855267
+2122530852,PRIX indexing and querying XML using prufer sequences,2004,16,194,2,1.0,2098926005,Praveen Rao,0,2.389345357750099,-0.86320388499589
+2117020831,FiST scalable XML document filtering by sequencing twig patterns,2005,14,78,3,0.444444,2135486613,Joonho Kwon,0,1.5610670914265958,-0.6295415433605519
+2111273995,Adaptive cell-based index for moving objects,2004,30,12,2,0.0,2104398346,Wonik Choi,0,-0.1232715727120712,0.2131450373911843
+2140926207,Titan a high-performance remote-sensing database,1997,25,134,4,0.0,2079111794,Carter T. Shock,0,0.04088025428135365,0.07988661922532647
+2149459524,Bitmap indexes for relational XML twig query processing,2009,16,8,2,0.882353,2471982065,Kyong Ha Lee,0,1.8418574549400186,-0.7589548020234137
+2152845022,A case for parallelism in data warehousing and OLAP,1998,9,59,2,0.0,2121308263,Anindya Datta,0,0.844357730163525,0.6758834581460054
+2152963964,An Internet-Scale Service for Publishing and Locating XML Documents,2009,13,16,2,1.0,2098926005,Praveen Rao,0,2.1836439982448304,-0.9315306196291165
+2265077477,SQLite optimization with phase change memory for mobile applications,2015,24,40,4,0.0,2170988039,Gihwan Oh,0,0.7021816348092643,0.5973098307856893
+2296338573,IPL B+-tree for Flash Memory Database Systems,2011,10,10,2,0.448425,2142626437,Gap Joo Na,0,0.02029069655994184,0.2911756303344954
+2278803301,Flash as cache extension for online transactional workloads,2016,25,8,3,0.75874,2099405450,Woon Hak Kang,0,-0.17244133864042968,-0.305030520451871
+2405199115,Bitmap Indexes and Query Processing Strategies for Relational XML Twig Queries,2010,0,0,2,0.0,2104824649,Kyu Chul Lee,0,1.9180962113461146,-0.7488799132757827
+2402486866,IPL-P In-Page Logging with PCRAM,2011,5,7,3,0.0,2568869492,Kangnyeon Kim,0,0.16782124802273696,0.2536234597393226
+2477076408,SBH Super byte-aligned hybrid bitmap compression,2016,25,3,4,1.0,2492855460,Sangchul Kim,0,0.4578293485649674,1.187765310541942
+2465072745,Selective Scan for Filter Operator of SciDB,2016,6,0,6,1.0,2492855460,Sangchul Kim,0,0.014532710543751099,0.030944858938630852
+2563006522,Database management system based on in-page logging and method using the system,2007,5,2,1,1.0,2152993714,Bongki Moon,0,0.4342697133566418,0.5864163411802656
+2814368373,Federated database system for scientific data,2018,3,0,2,1.0,2492855460,Sangchul Kim,0,-0.12834242821349828,-0.1898171694021137
+2953056603,Flash-based Extended Cache for Higher Throughput and Faster Recovery,2012,9,0,3,0.833333,2099405450,Woon Hak Kang,0,0.28636497623208257,-0.027786695600987968
+3023831868,Efficient Execution of Range Top-k Queries in Aggregate R-Trees(Database),2005,0,0,1,1.0,2152993714,Bongki Moon,0,0.11627582886789564,0.3621724021946999

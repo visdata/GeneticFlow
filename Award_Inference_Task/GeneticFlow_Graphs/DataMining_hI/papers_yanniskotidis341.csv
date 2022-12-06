@@ -1,0 +1,87 @@
+104933406,Towards enabling outlier detection in large high dimensional data warehouses,2012,8,1,2,1.0,45751083,Konstantinos Georgoulas,0,0.29152245477729793,0.12205646584331498
+40194136,Optimizing query shortcuts in RDF databases,2011,37,18,4,0.0,83304858,Vicky Dritsou,0,0.8082803727451273,-1.6316629410415622
+109653991,Cubetree Organization of and Bulk Updates on the Data Cube,1997,0,33,2,0.0,258753967,Nick Roussopoulos,0,0.003708468606338,0.082832279151172
+96616592,Subspace Skyline Queries,2012,0,0,3,0.340915,167530315,Christos Doulkeridis,0,-0.09671372934548639,-0.1952170464302181
+99256032,Circumventing Data Quality Problems Using Multiple Join Paths,2006,15,11,1,1.0,306802008,Yannis Kotidis,0,-0.45397704837210834,0.00469535171892046
+1499150148,Teaching Relational Optimizers About XML Processing,2004,16,2,2,0.165049,19633248,Sihem Amer Yahia,0,-2.680001460425441,-0.3474462607213685
+1571469688,Hierarchical In-Network Data Aggregation with Quality Guarantees,2004,16,152,2,1.0,332649176,Antonios Deligiannakis,0,-0.3011331851164172,-0.15588985616037465
+1573192578,The Opsis project materialized views for data warehouses and the web,2001,45,0,2,0.0,2918468806,Nick Roussopoulos,0,-0.9401238573300678,-0.035234939850927106
+1484082153,Building Efficient Aggregation Trees for Sensor Network Event-Monitoring Queries,2009,28,3,2,0.615314,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+1495060004,Ratio Rules A New Paradigm for Fast Quantifiable Data Mining,1998,21,51,3,0.0,2238237585,Flip Korn,0,0.36115010965784194,-0.2834022929132039
+1816870682,Quantifiable data mining using principal component analysis,1997,0,13,2,0.0,119288298,Alexandros Labrinidis,0,0.003708468606338,0.082832279151172
+1853150834,Metric-Based similarity search in unstructured peer-to-peer systems,2012,35,11,3,0.512025,2022052041,Akrivi Vlachou,0,-0.22858667241994954,0.05242809182394457
+1766932551,How to summarize the universe dynamic maintenance of quantiles,2002,24,168,2,0.8,2157039722,Anna C. Gilbert,0,-0.0395804122397981,0.0068802457672825015
+1590838225,A framework for enabling query rewrites when analyzing workflow records,2012,2,0,2,1.0,312980039,Dritan Bleco,0,0.20211704252128038,1.0214443137876295
+1858050440,Shared Index Scans for Data Warehouses,2001,33,2,1,1.0,306802008,Yannis Kotidis,0,0.7109515303135389,0.7218204794441515
+1585166509,Peer-to-peer similarity search in metric spaces,2007,32,52,3,0.5138,167530315,Christos Doulkeridis,0,-0.19967083356160603,0.03915102117519614
+1603413294,Peer-to-peer similarity search based on m-tree indexing,2010,10,7,3,0.75,2022052041,Akrivi Vlachou,0,-0.38954606536172276,-0.35024400635671304
+1971511288,Reverse top-k queries,2010,19,114,4,0.75,2022052041,Akrivi Vlachou,0,-0.01657107088421793,0.035389748403282274
+1977063858,Identifying the most influential data objects with reverse top-k queries,2010,14,47,4,0.75,2022052041,Akrivi Vlachou,0,0.21002038070523876,0.39485899645161937
+1977417349,On the selectivity of multidimensional routing indices,2010,32,1,4,0.5138,167530315,Christos Doulkeridis,0,-0.19967083356160603,0.03915102117519614
+1987001210,Extending the data warehouse for service provisioning data,2006,47,9,1,1.0,306802008,Yannis Kotidis,0,-0.9559528588812265,0.33419107927886643
+1966165737,Collection trees for event-monitoring queries,2011,36,4,2,0.523758,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+2005250451,Multidimensional routing indices for efficient distributed query processing,2009,13,9,4,0.5138,167530315,Christos Doulkeridis,0,-0.21922863233338238,0.05750579270323684
+1994834532,TACO tunable approximate computation of outliers in wireless sensor networks,2010,35,25,2,0.521739,2024018132,Nikos Giatrakos,0,0.20279561436658805,0.0753070172078775
+2001852222,Cubetree organization of and bulk incremental updates on the data cube,1997,13,126,1,1.0,306802008,Yannis Kotidis,0,0.8662170003594584,0.24779847258463505
+2002110616,Bandwidth-constrained queries in sensor networks,2008,42,12,2,0.762712,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+1998854792,Hierarchical graph indexing,2003,21,8,2,0.0,2143609536,James Abello,0,0.4660482264214629,0.7068689675479091
+2007625694,An alternative storage organization for ROLAP aggregate views based on cubetrees,1998,22,78,1,1.0,306802008,Yannis Kotidis,0,1.0460948342322283,0.7231145168455256
+2010705873,Robust management of outliers in sensor network aggregate queries,2007,27,14,1,1.0,306802008,Yannis Kotidis,0,0.003708468606338,0.082832279151172
+2032150764,Branch-and-bound algorithm for reverse top-k queries,2013,27,46,4,0.466935,2022052041,Akrivi Vlachou,0,0.07082540557143831,0.3963026450792058
+2020350228,Quantifiable data mining using ratio rules,2000,22,48,3,0.0,2949800953,Flip Korn,0,0.03883499709123557,-0.010332877475018177
+2018647768,Detecting proximity events in sensor networks,2011,64,3,2,0.523758,332649176,Antonios Deligiannakis,0,0.21438872843298346,-0.1353423822296997
+2047229921,Outlier-Aware Data Aggregation in Sensor Networks,2008,12,16,3,0.762712,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+2040662757,Online Partitioning of Multi-Labeled Graphs,2015,25,2,2,1.0,2223672418,Ioanna Filippidou,0,0.003708468606338,0.082832279151172
+2049859567,Dwarf shrinking the PetaCube,2002,25,197,4,1.0,212794494,Yannis Sismanis,0,0.4840117750026829,0.8914964913309165
+2053866418,Distributed similarity estimation using derived dimensions,2012,47,7,2,1.0,45751083,Konstantinos Georgoulas,0,0.13961746064230643,-0.32407243988272966
+2053986628,The active MultiSync controller of the cubetree storage organization,1999,2,1,2,0.0,2687734892,Nick Roussopoulos,0,0.3035469802816595,0.3208697669437689
+2059632502,Processing approximate aggregate queries in wireless sensor networks,2006,31,35,2,1.0,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+2061751973,A case for dynamic view management,2001,54,73,1,1.0,306802008,Yannis Kotidis,0,-0.20666238819561256,0.5820432119787007
+2090964461,In-network approximate computation of outliers with quality guarantees,2013,64,13,2,0.521739,2024018132,Nikos Giatrakos,0,0.20279561436658805,0.0753070172078775
+2102619505,Another Outlier Bites the Dust Computing Meaningful Aggregates in Sensor Networks,2009,24,31,2,0.615314,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+2090012241,Dissemination of compressed historical information in sensor networks,2007,64,22,2,0.762712,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+2081756696,Compressing historical information in sensor networks,2004,31,163,2,1.0,332649176,Antonios Deligiannakis,0,-0.21934185016841626,0.6056873083074126
+2087235445,Processing of Rank Joins in Highly Distributed Systems,2012,27,8,4,0.340915,167530315,Christos Doulkeridis,0,0.2353162648138094,0.228350730718198
+2099340539,Snapshot queries towards data-centric sensor networks,2005,19,168,1,1.0,306802008,Yannis Kotidis,0,0.003708468606338,0.082832279151172
+2102317643,Double Index NEsted-Loop Reactive Join for Result Rate Optimization,2009,15,12,3,1.0,2608519051,Mihaela A. Bornea,0,-0.8341414722376335,1.0034755748935615
+2123328263,Semi-Streamed Index Join for near-real time execution of ETL transformations,2011,23,34,3,1.0,2608519051,Mihaela A. Bornea,0,0.8432303300075643,0.5203305632195108
+2114580249,DCC&amp;U An Extended Digital Curation Lifecycle Model,2009,17,22,1,1.0,306802008,Yannis Kotidis,0,-0.10001006622770843,0.09327059633341035
+2106163100,Surfing Wavelets on Streams One-Pass Summaries for Approximate Aggregate Queries,2001,32,381,2,0.666667,2157039722,Anna C. Gilbert,0,-0.1071931497347323,0.3242721482837629
+2115279490,Processing Event-Monitoring Queries in Sensor Networks,2008,22,7,3,0.0,349006397,Vassilis Stoumpos,0,0.003708468606338,0.082832279151172
+2118207282,Monochromatic and Bichromatic Reverse Top-k Queries,2011,22,56,3,0.65626,2022052041,Akrivi Vlachou,0,-0.8696713323547427,0.34277289694637
+2127403264,A Data Warehousing Architecture for Enabling Service Provisioning Process,2001,18,1,1,1.0,306802008,Yannis Kotidis,0,0.11578372379866986,0.3162302126852975
+2124627348,Efficient Routing of Subspace Skyline Queries over Highly Distributed Data,2010,27,16,3,0.75,2022052041,Akrivi Vlachou,0,0.06054259504685909,0.4051285007549245
+2134017119,One-pass wavelet decompositions of data streams,2003,38,114,2,0.8,2157039722,Anna C. Gilbert,0,0.0051178473714469,0.21111651826605052
+2119796071,Domain-driven data synopses for dynamic quantiles,2005,36,15,2,0.8,2157039722,Anna C. Gilbert,0,-0.1071931497347323,0.3242721482837629
+2125705219,XML publishing look at siblings too ,2003,15,1,2,0.165049,19633248,Sihem Amer Yahia,0,-2.70591527010824,-0.2820449505134172
+2114231102,Shortcut selection in RDF databases,2011,22,2,4,0.0,83304858,Vicky Dritsou,0,-0.18529122044192467,-0.4438788016939032
+2134791702,Hierarchical dwarfs for the rollup cube,2003,26,40,3,1.0,212794494,Yannis Sismanis,0,0.7223997089070932,0.18657054121651528
+2162975743,A Web-services architecture for efficient XML data exchange,2004,12,41,2,0.165049,19633248,Sihem Amer Yahia,0,-2.3699861172899848,-0.28566086556493847
+2157734198,Ranked join indices,2003,16,91,2,0.0,2234654910,Panayiotis Tsaparas,0,-0.49479282780800954,0.9310169313785638
+2157812994,Updates Through Views A New Hope,2006,17,24,1,1.0,306802008,Yannis Kotidis,0,-1.266850775658106,0.31511740559956797
+2164049396,DynaMat a dynamic view management system for data warehouses,1999,27,210,1,1.0,306802008,Yannis Kotidis,0,-1.0864515351324453,0.5417338159510762
+2167528264,Adaptive Join Operators for Result Rate Optimization on Streaming Inputs,2010,15,16,3,1.0,2608519051,Mihaela A. Bornea,0,-1.1775090862279447,1.1938226073454286
+2165035264,SKYPEER Efficient Subspace Skyline Computation over Distributed Data,2007,21,122,3,0.639344,2022052041,Akrivi Vlachou,0,-0.09966214492722958,0.664989501137208
+2254105939,Peer-to-Peer Query Processing over Multidimensional Data,2012,0,3,3,0.512025,2022052041,Akrivi Vlachou,0,-0.1201376795000837,0.10889837357233885
+2295122408,Exploiting Spatio-temporal Correlations for Data Processing in Sensor Networks,2008,72,10,2,0.762712,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+2395970239,Dynamic Partitioning of Big Hierarchical Graphs,2013,16,3,2,1.0,2402866719,Vasilis Spyropoulos,0,0.12492345808765674,0.23414093372237493
+2396783401,Graph Analytics on Massive Collections of Small Graphs,2014,30,7,2,1.0,312980039,Dritan Bleco,0,-0.556285493864729,0.19735359011683076
+2403751520,Building Space-Efficient Inverted Indexes on Low-Cardinality Dimensions,2015,11,0,2,1.0,2402866719,Vasilis Spyropoulos,0,0.35132785427948937,0.4948604019934339
+2496623095,Towards Analytics Aware Ontology Based Access to Static and Streaming Data (Extended Version),2016,2,3,2,0.289054,2037532978,Evgeny Kharlamov,0,0.03888122064733899,0.02278321387813734
+2443486955,Ontology-Based Integration of Streaming and Static Relational Data with Optique,2016,20,31,4,0.289054,2037532978,Evgeny Kharlamov,0,0.40882574318544146,-1.0708873261720315
+2486166492,Hierarchically Clustered LSH for Hierarchical Outliers Detection,2016,15,0,2,1.0,45751083,Konstantinos Georgoulas,0,0.19400591635786177,0.07904312722819329
+2509858566,User-Centric Similarity Search,2017,15,3,4,1.0,45751083,Konstantinos Georgoulas,0,0.05032137405439746,-0.19665778173700396
+2583267641,Effective and efficient graph augmentation in large graphs,2016,18,0,2,1.0,2223672418,Ioanna Filippidou,0,0.003708468606338,0.082832279151172
+2583390110,Real time processing of streaming and static information,2016,16,5,5,0.0,2405262029,Christoforos Svingos,0,-0.5592553394046604,0.046468910714232495
+2584229738,Digree A middleware for a graph databases polystore,2016,27,4,3,1.0,2402866719,Vasilis Spyropoulos,0,0.046666838503499425,0.20046064024695104
+2584349149,A semantic approach to polystores,2016,38,11,18,0.289054,2037532978,Evgeny Kharlamov,0,0.627833567648681,-0.812980335341763
+2512490571,Towards Analytics Aware Ontology Based Access to Static and Streaming Data,2016,42,18,2,0.289054,2037532978,Evgeny Kharlamov,0,0.03156613962675455,-0.7570492128179377
+2650213439,Ontology Based Data Access in Statoil,2017,94,38,14,0.289054,2037532978,Evgeny Kharlamov,0,0.36296683777648786,-0.5872327202904721
+2624562945,Entropy-based Selection of Graph Cuboids,2017,15,4,2,1.0,312980039,Dritan Bleco,0,0.003708468606338,0.082832279151172
+2592818077,Semantic access to streaming and static data at Siemens,2017,79,38,13,0.289054,2037532978,Evgeny Kharlamov,0,0.47356460643393367,-0.6724838430800106
+2791534191,Digree Building A Distributed Graph Processing Engine out of Single-node Graph Database Installations,2018,13,1,2,1.0,2402866719,Vasilis Spyropoulos,0,0.12492345808765674,0.23414093372237493
+2900531238,Using entropy metrics for pruning very large graph cubes,2019,41,1,2,1.0,312980039,Dritan Bleco,0,0.003708468606338,0.082832279151172
+2948535859,An Efficient Index for RDF Query Containment,2019,74,1,2,1.0,2952752694,Theofilos Mailis,0,-0.45478335956862603,-0.8239964861213871
+3022848063,Chapter 40 â€“ How to Summarize the Universe Dynamic Maintenance of Quantiles,2002,22,0,1,1.0,306802008,Yannis Kotidis,0,-0.0395804122397981,0.0068802457672825015
+3022139853,Monochromatic and Bichromatic Reverse Top-k Queries,2011,0,0,3,0.65626,2022052041,Akrivi Vlachou,0,-0.9932867382899866,0.30061174955008446
+2914085604,An ontologyâˆ’mediated analyticsâˆ’aware approach to support monitoring and diagnostics of static and streaming data,2019,96,6,2,0.0,83072932,Steffen Lamparter,0,0.11004194466757504,-0.09691749910279168

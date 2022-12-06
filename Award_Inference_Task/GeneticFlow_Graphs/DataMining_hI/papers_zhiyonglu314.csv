@@ -1,0 +1,73 @@
+206768449,Evaluating relevance ranking strategies for MEDLINE retrieval,2008,0,1,1,1.0,2272133122,Zhiyong Lu,0,-0.1916888409096968,-0.26501256474732954
+96003883,Evaluating Relevance Ranking Strategies for MEDLINE Retrieval,2009,29,42,1,1.0,2272133122,Zhiyong Lu,0,0.11800721140297014,-0.20383634040213405
+198383996,Predicting clicks of PubMed articles,2013,30,3,2,0.0,2651414281,Yuqing Mao,0,0.003708468606338,0.082832279151172
+1547987453,Author name disambiguation for PubMed,2014,46,40,7,0.0,2616943901,Wanli Liu,0,-0.49680371111629457,1.1825094605693118
+1578711506,Automatic extraction of clusters from hierarchical clustering representations,2003,12,89,3,0.0,2118842476,JÃ¶rg Sander,0,-0.9943339468037815,3.5693405489595795
+1983183415,Systematic identification of pharmacogenomics information from clinical trials,2012,39,22,2,0.0,2714295254,Jiao Li,0,0.003708468606338,0.082832279151172
+1971284577,Improving Online Access to Drug-Related Information,2012,2,3,3,1.0,2896357664,Jiao Li,0,0.003708468606338,0.082832279151172
+1969605785,Crowdsourcing in biomedicine challenges and opportunities,2016,93,58,5,0.563718,2617117126,Ritu Khare,0,0.6554834186648063,0.395880661709612
+2020357318,BioC interoperability track overview,2014,47,14,7,0.666667,2005028249,Donald C. Comeau,0,-0.1240630206843939,-0.052473642427596605
+2049825704,LabeledIn Cataloging labeled indications for human drugs,2014,31,20,3,0.611395,2617117126,Ritu Khare,0,1.1072584354571453,-0.4223701283585837
+2044986849,Evaluation of query expansion using MeSH in PubMed,2009,31,138,1,1.0,2272133122,Zhiyong Lu,0,-0.1029618939806145,0.040434369851773004
+2102575587,Semi-automatic semantic annotation of PubMed queries,2011,22,62,2,1.0,2098243328,Rezarta Islamaj Dogan,0,0.9961343596763604,-1.5220910831260897
+2096951189,Community challenges in biomedical text mining over 10 years success failure and the future,2016,123,99,2,0.0,2658536916,Chung Chi Huang,0,0.826844527189803,0.43963976077110445
+2097052916,Extraction of data deposition statements from the literature,2011,18,23,1,1.0,2272133122,Zhiyong Lu,0,0.6547320231201478,0.5078315838564154
+2104148262,BioC a minimalist approach to interoperability for biomedical text processing,2013,62,110,7,0.666667,2005028249,Donald C. Comeau,0,1.3142952562676011,0.18083479934907826
+2128986427,Click-words,2010,32,14,2,1.0,2098243328,Rezarta Islamaj Dogan,0,-0.06868386095689515,0.24205629126618533
+2138067727,Improving accuracy for identifying related PubMed queries by an integrated approach,2009,25,14,1,1.0,2272133122,Zhiyong Lu,0,0.003708468606338,0.082832279151172
+2114597819,Identifying related journals through log analysis,2009,4,13,1,1.0,2272133122,Zhiyong Lu,0,-0.06868386095689515,0.24205629126618533
+2123579157,Accelerating literature curation with text-mining tools a case study of using PubTator to curate genes in PubMed abstracts,2012,23,67,7,0.959184,2810519595,Chih Hsuan Wei,0,-0.09802965900350226,-0.06462699117635269
+2115150863,BC4GO a full-text corpus for the BioCreative IV GO task,2014,45,23,15,0.0,2144839305,Kimberly Van Auken,0,0.47999761348325015,0.11802410664860608
+2142016317,DNorm disease name normalization with pairwise learning to rank,2013,43,230,3,1.0,2078856616,Robert Leaman,0,0.9926902388907579,0.1425662235982589
+2106279837,tmBioC improving interoperability of text-mining tools with BioC,2014,32,7,5,0.611395,2617117126,Ritu Khare,0,-0.14051734538882552,-0.17557801114122418
+2118582067,Biocuration workflows and text mining overview of the BioCreative 2012 Workshop Track II,2012,29,55,1,1.0,2272133122,Zhiyong Lu,0,0.935438085372883,-0.4813842645606967
+2106782755,Extracting Rx information from clinical narrative,2010,15,29,6,0.0,2014346077,James G. Mork,0,0.34208215495682426,-0.4460170753742258
+2124798372,Prioritizing PubMed articles for the Comparative Toxicogenomic Database utilizing semantic information,2012,32,13,4,0.29087,2560803931,Sun Kim,0,0.003708468606338,0.082832279151172
+2119091936,BioCreative-IV virtual issue,2014,47,39,7,1.0,2692381839,Cecilia N. Arighi,0,0.285755498381592,0.2514653890338823
+2113374855,Concept Recognition Information Retrieval and Machine Learning in Genomics Question-Answering,2006,19,5,4,0.0,1995678064,J. Gregory Caporaso,0,0.013968630740779725,-0.2578075233838117
+2111303602,Improving links between literature and biological data with text mining a case study with GEO PDB and MEDLINE,2012,26,19,3,0.0,2624617021,AurÃ©lie NÃ©vÃ©ol,0,0.07513779440798199,0.09308435729858792
+2156235098,Challenges in clinical natural language processing for automated disorder normalization,2015,42,45,3,0.918566,2078856616,Robert Leaman,0,0.1682940572117253,0.2994169863360079
+2171374484,tmVar a text mining approach for extracting sequence variants in biomedical literature,2013,36,111,4,1.0,2810519595,Chih Hsuan Wei,0,0.3800127224570261,0.21004767587848977
+2153858739,SimConcept A Hybrid Approach for Simplifying Composite Named Entities in Biomedical Text,2015,46,11,3,1.0,2810519595,Chih Hsuan Wei,0,1.1490516605682877,0.24686085130296898
+2162965868,PubMed and beyond a survey of web tools for searching biomedical literature,2011,68,295,1,1.0,2272133122,Zhiyong Lu,0,-0.12390310189361849,-0.1758665556009779
+2151357092,A survey of current trends in computational drug repositioning,2016,104,189,6,0.0,2981253040,Jiao Li,0,0.12492345808765674,0.23414093372237493
+2163303745,Understanding PubMedÂ® user search behavior through log analysis,2009,79,180,4,1.0,2098243328,Rezarta Islamaj Dogan,0,0.20528072116481466,0.35804576220785234
+2169491861,tmChem a high performance approach for chemical named entity recognition and normalization,2015,36,117,3,0.918566,2078856616,Robert Leaman,0,0.3800127224570261,0.21004767587848977
+2151790371,Predicting subcellular localization of proteins using machine-learned classifiers,2004,18,299,1,1.0,2272133122,Zhiyong Lu,0,0.003708468606338,0.082832279151172
+2166817943,BioCreative-2012 virtual issue,2012,17,19,6,0.0,2133227394,Cathy H. Wu,0,0.7645677411434394,0.2895502627713514
+2169997311,Hybrid curation of geneâ€“mutation relations combining automated extraction and crowdsourcing,2014,40,32,7,0.0,1884206929,David Tresner Kirsch,0,-0.4128893015669055,-0.08895046969783085
+2149369282,The CHEMDNER corpus of chemicals and drugs and its annotation principles,2015,52,151,6,0.0,1386246505,Martin Krallinger,0,0.003708468606338,0.082832279151172
+2322487344,Discovering biomedical semantic relations in PubMed queries for information retrieval and database curation,2016,36,4,2,0.0,2506384447,Chung Chi Huang,0,0.5552965505874681,-1.5598520101480062
+2276621455,Special Report NCBI disease corpus A resource for disease name recognition and concept normalization,2014,40,3,3,1.0,2078856616,Robert Leaman,0,0.003708468606338,0.082832279151172
+2284907005,Beyond accuracy creating interoperable and scalable text-mining web services,2016,30,13,3,1.0,2810519595,Chih Hsuan Wei,0,0.3638999208821102,-0.23588420766275098
+2291931301,NCBI disease corpus,2014,41,1,3,1.0,2078856616,Robert Leaman,0,0.003708468606338,0.082832279151172
+2335791510,Assessing the state of the art in biomedical relation extraction overview of the BioCreative V chemical-disease relation (CDR) task,2016,35,70,8,1.0,2810519595,Chih Hsuan Wei,0,-0.5811660279599141,-0.8497795579119648
+2346452181,BioCreative V CDR task corpus a resource for chemical disease relation extraction,2016,28,84,10,0.0,2502162259,Jiao Li,0,-0.5838442017199653,-0.23330096864371455
+2357069867,Mining chemical patents with an ensemble of open systems,2016,27,8,4,0.812744,2078856616,Robert Leaman,0,0.3800127224570261,0.21004767587848977
+2344539657,Text mining for precision medicine automating disease-mutation relationship extraction from biomedical literature,2016,25,29,3,0.0,2109822479,Ayush Singhal,0,-0.29378576035494625,-0.3681701534855007
+2409319733,Automatic extraction of drug indications from FDA drug labels,2014,0,1,3,0.611395,2617117126,Ritu Khare,0,0.43162625009792,0.20195636031746017
+2414378847,TaggerOne joint named entity recognition and normalization with semi-Markov Models,2016,42,95,2,0.812744,2078856616,Robert Leaman,0,1.0500239748981433,0.28405864706464656
+2527712604,Improving chemical disease relation extraction with rich features and weakly labeled data,2016,46,33,3,0.833333,2151794078,Yifan Peng,0,0.41862267576729495,-0.15872821245057472
+2564387948,Pressing needs of biomedical text mining in biocuration and beyond opportunities and challenges,2016,59,23,9,0.0,2109822479,Ayush Singhal,0,0.7906338460068313,0.30036319083954316
+2740781568,BioCreative VI Precision Medicine Track creating a training corpus for mining protein-protein interactions affected by mutations,2017,0,5,7,0.77811,2098243328,Rezarta Islamaj Dogan,0,0.003708468606338,0.082832279151172
+2764101181,Proteome Analyst - Transparent High-throughput Protein Annotation Function Localization and Custom Predictors,2003,25,10,10,0.0,1984914715,B. Poulin,0,0.5211358691501183,-0.3487649215847197
+2760830962,Bridging the gap Incorporating a semantic similarity measure for effectively mapping PubMed queries to documents,2017,49,14,4,0.29087,2560803931,Sun Kim,0,-0.5138600033121823,-0.20719981393360581
+2752636837,tmVar 20 integrating genomic variant information from literature with dbSNP and ClinVar for precision medicine,2018,34,27,6,0.972493,2810519595,Chih Hsuan Wei,0,1.1490516605682877,0.24686085130296898
+2883262147,A Field Sensor computing the composition and intent of PubMed queries,2018,14,2,5,0.0,2026030818,Lana Yeganova,0,0.0744590512365816,0.3501340521691665
+2915895751,PMC text mining subset in BioC about three million full-text articles and growing,2019,16,6,4,0.50633,2005028249,Donald C. Comeau,0,0.5078772460178427,-0.9404079618319312
+2914171828,Overview of the BioCreative VI Precision Medicine Track mining protein interactions and mutations for precision medicine,2019,46,8,27,0.725523,2098243328,Rezarta Islamaj Dogan,0,-0.6743338854454132,-0.23461674322606854
+2914293296,Using deep learning to identify translational research in genomic medicine beyond bench to bedside,2019,19,0,5,0.0,2889598074,Yi Yu Hsu,0,0.2411296976350509,0.19514062197806442
+2897902265,Overview of the BioCreative VI text-mining services for Kinome Curation Track,2018,22,1,8,0.0,115917596,Julien Gobeill,0,0.3800127224570261,0.21004767587848977
+2955474241,PubMed Text Similarity Model and its application to curation efforts in the Conserved Domain Database,2019,22,0,9,0.0,2962774935,Rezarta Islamaj,0,0.158591628437147,-0.18401679573089352
+2952894920,On expert curation and scalability UniProtKB/Swiss-Prot as a case study,2017,28,29,6,0.0,1970781481,Sylvain Poux,0,-0.06868386095689515,0.24205629126618533
+2963881775,PubMed Labs An Experimental System for Improving Biomedical Literature Search,2018,14,4,12,1.0,1959352324,Nicolas Fiorini,0,-0.1923482153824391,0.3911408909828727
+2022484638,SR4GN a species recognition software tool for gene normalization,2012,21,56,2,0.0,2130285724,Hung Yu Kao,0,0.003708468606338,0.082832279151172
+2112227057,Overview of the gene ontology task at BioCreative IV,2014,64,42,28,0.0,2655686256,Yuqing Mao,0,-0.11482798366924177,-0.48067341649815926
+2169099542,NCBI disease corpus a resource for disease name recognition and concept normalization,2014,46,155,4,0.816034,2098243328,Rezarta Islamaj Dogan,0,0.003708468606338,0.082832279151172
+2166240318,An overview of the BioCreative 2012 Workshop Track III interactive text mining task,2013,30,65,34,1.0,2692381839,Cecilia N. Arighi,0,-0.0930859254478912,-0.23102941906546742
+2152143870,Recommending MeSH terms for annotating biomedical articles,2011,33,100,4,0.0,2162268045,Minlie Huang,0,0.053187687455340936,-0.16559227334086646
+2792864647,Generalizing biomedical relation classification with neural adversarial domain adaptation,2018,17,18,4,0.0,2128021551,Anthony Rios,0,0.003708468606338,0.082832279151172
+2883380892,Extracting chemical-protein relations with ensembles of SVM and deep learning models,2018,12,30,5,0.833333,2151794078,Yifan Peng,0,-0.8188371286862764,-0.7208867665311548
+2900758626,ML-Net multi-label classification of biomedical texts with deep neural networks,2019,35,10,7,0.0,2343127410,Jingcheng Du,0,0.20367740504052664,0.23801579762430253
+2979576300,FullMeSH improving large-scale MeSH indexing with full text,2019,18,1,3,0.0,2899294656,Suyang Dai,0,-0.3904982283972062,0.06216654020787667
+3020931369,Deep learning with sentence embeddings pre-trained on biomedical corpora improves the performance of finding similar sentences in electronic medical records,2020,36,3,6,0.0,2565219535,Qingyu Chen,0,0.31484412112737625,0.2579936097006229

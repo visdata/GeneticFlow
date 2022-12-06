@@ -1,0 +1,41 @@
+217817341,From think like a vertex to think like a graph,2013,23,223,2,0.0,2129760627,Yuanyuan Tian,0,0.1681472696354157,0.36434515114587485
+219325202,Structured unstructured and semistructured search in semistructured databases,2006,0,0,1,1.0,1208114522,Andrey Balmin,0,2.342547355339659,-0.9541174378180458
+1534906344,Hypothetical Queries in an OLAP Environment,2000,17,57,1,1.0,1208114522,Andrey Balmin,0,-0.3632509700454942,1.1437180412081445
+1485084946,Groupwise analytics via adaptive MapReduce,2015,23,1,5,0.0,2158653501,Liping Peng,0,-0.46893397788284524,0.07728939382804885
+1547831574,A framework for using materialized XPath views in XML query processing,2004,17,144,1,1.0,1208114522,Andrey Balmin,0,3.150617341146724,-1.1683440960242408
+1575324001,Jaql A Scripting Language for Large Scale Semistructured Data Analysis,2011,30,182,4,0.0,2273214336,Kevin Scott Beyer,0,0.13120897851039373,0.41538048798475946
+1503954191,Dynamic interaction graphs with probabilistic edge decay,2015,49,17,4,0.0,2115459999,Wenlei Xie,0,-0.0041099411153885,0.0447066884760059
+1539585011,Objectrank authority-based keyword search in databases,2004,26,458,1,1.0,1208114522,Andrey Balmin,0,-0.331157261929354,-0.16512333473426355
+1522542599,On the effectiveness of flexible querying heuristics for XML data,2007,21,13,4,0.0,313600265,Zografoula Vagena,0,1.1139944577434615,-0.43372331920654217
+1931652528,Searching digital information and databases,2005,46,90,1,1.0,1208114522,Andrey Balmin,0,-0.4197151661071337,-0.42589767901227754
+1597472148,Index selection for xml database systems,2007,38,3,1,1.0,1208114522,Andrey Balmin,0,1.9149481380270845,-0.8069749874964502
+1914905978,Optimization of Hypothetical Queries in an OLAP Environment,2000,0,7,1,1.0,1208114522,Andrey Balmin,0,-0.3632509700454942,1.1437180412081445
+1971627640,An xml index advisor for DB2,2008,7,10,5,0.0,2015280296,Iman Elghandour,0,2.0843891720973184,-0.8346621835725978
+2009896441,Information discovery in loosely integrated data,2007,3,7,2,0.705882,2167199655,Heasoo Hwang,0,0.4375538096531388,0.0820047816050874
+2026463897,Cost-based optimization in DB2 XML,2006,35,40,1,1.0,1208114522,Andrey Balmin,0,2.3415370017271226,-0.9309204099996352
+2014294093,Same Queries Different Data Can We Predict Runtime Performance ,2012,20,20,2,0.0,293843641,Vuk Ercegovac,0,0.042138558032218235,0.5968101155202804
+2021724486,Emerging trends in the enterprise data analytics connecting Hadoop and DB2 warehouse,2011,5,19,4,0.0,2026396360,Fatma Ozcan,0,0.6898127201704192,0.40336967407684815
+2014729492,Incremental validation of XML documents,2004,28,114,1,1.0,1208114522,Andrey Balmin,0,2.9410108552964385,-1.0349526248282404
+2040395858,Clydesdale structured data processing on hadoop,2012,12,9,1,1.0,1208114522,Andrey Balmin,0,1.3732782480595616,-0.08524618391129928
+2048082530,Grouping and Optimization of XPath Expressions in System RX,2008,8,1,1,1.0,1208114522,Andrey Balmin,0,2.1444050684627887,-0.649061254572299
+2060976275,On the optimization of schedules for MapReduce workloads in the presence of shared scans,2012,28,15,2,0.0,2127587015,Joel L. Wolf,0,-0.0041099411153885,0.0447066884760059
+2071678527,PREDIcT towards predicting the runtime of large scale iterative analytics,2013,40,33,2,0.0,2057725263,Adrian Daniel Popescu,0,-0.0041099411153885,0.0447066884760059
+2058480078,Storing and querying XML data using denormalized relational databases,2005,29,46,1,1.0,1208114522,Andrey Balmin,0,2.3485049625640406,-0.9375414068725034
+2073024456,Grouping and optimization of XPath expressions in DB2 Â® pureXML,2008,31,9,1,1.0,1208114522,Andrey Balmin,0,2.723176830396227,-0.9822545849183456
+2087909221,Dynamically optimizing queries over large scale data platforms,2014,40,21,2,0.0,1014424442,Konstantinos Karanasos,0,0.0908845357243609,0.31128747720343375
+2081266756,WikiAnalytics disambiguation of keyword search results on highly heterogeneous structured data,2010,36,1,1,1.0,1208114522,Andrey Balmin,0,-0.16382458961559107,0.08889016627329674
+2090452820,Adaptive MapReduce using situation-aware mappers,2012,31,61,2,0.0,1726177832,Rares Vernica,0,-0.0041099411153885,0.0447066884760059
+2085541091,BinRank Scaling Dynamic Authority-Based Search Using Materialized SubGraphs,2009,17,7,2,0.705882,2167199655,Heasoo Hwang,0,1.901466873024071,0.5622172946276698
+2105556948,XML Index Recommendation with Tight Optimizer Coupling,2008,36,6,5,0.0,2015280296,Iman Elghandour,0,1.0143847458112087,-0.18557471205935
+2108572131,Keyword proximity search on XML graphs,2003,24,262,3,0.0,238786035,Vagelis Hristidis,0,0.7215975991611812,0.3052417628859806
+2105680621,WikiAnalytics Ad-hoc querying of highly heterogeneous structured data,2010,13,5,1,1.0,1208114522,Andrey Balmin,0,1.1742579727972882,-0.23715887690031418
+2141459354,DBPubs multidimensional exploration of database publications,2008,6,9,2,0.0,2139126271,Akanksha Baid,0,-0.5194390370684859,0.3412446473469831
+2129835604,On the path to efficient XML queries,2006,12,17,1,1.0,1208114522,Andrey Balmin,0,2.354408613125232,-0.9250628387762876
+2112438927,SEDA a system for search exploration discovery and analysis of XML Data,2008,5,3,1,1.0,1208114522,Andrey Balmin,0,2.0843891720973184,-0.8346621835725978
+2165902420,Search Driven Analysis of Heterogeneous XML Data,2009,26,5,2,0.0,295638038,Emiran Curtmola,0,1.6149132690215677,-0.4156778318804029
+2154794267,A system for keyword proximity search on XML databases,2003,10,32,1,1.0,1208114522,Andrey Balmin,0,2.1982902428391884,-0.8880501764275741
+2268691172,Optimization of extensible markup language path language (XPATH) expressions in a database management system configured to accept extensible markup language (XML) queries,2008,85,24,1,1.0,1208114522,Andrey Balmin,0,2.289419997318421,-0.7452316502554606
+2261074416,ADAPTIVE FRAGMENT ASSIGNMENT FOR PROCESSING FILE DATA IN A DATABASE,2014,8,7,1,1.0,1208114522,Andrey Balmin,0,-0.45908526316821546,0.6525773003303847
+2397331420,Adaptive Processing of User-Defined Aggregates in Jaql,2011,16,2,1,1.0,1208114522,Andrey Balmin,0,0.124593812364967,0.8257277107408452
+2406013795,System and Method for Optimizing Query Access to a Database Comprising Hierarchically-Organized Data,2006,15,35,2,0.0,401236404,Guy M. Lohman,0,0.0908845357243609,0.31128747720343375
+2951392021,Search Driven Analysis of Heterogenous XML Data,2009,20,2,1,1.0,1208114522,Andrey Balmin,0,0.3528414534506594,0.20543923853134746

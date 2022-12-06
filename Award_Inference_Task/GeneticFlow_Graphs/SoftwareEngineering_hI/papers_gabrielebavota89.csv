@@ -1,0 +1,55 @@
+36290627,Recommending Refactoring Operations in Large Software Systems,2014,71,22,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+170380824,Search Based Software Maintenance Methods and Tools,2014,0,9,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+1548703962,Putting the developer in-the-loop an interactive GA for software re-modularization,2012,20,45,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+1973410675,Extract package refactoring in ARIES,2015,6,3,3,0.283784,1987128262,Fabio Palomba,0,-0.0291855379334779,0.0585196112869768
+1975790660,Improving software modularization via automated analysis of latent topics and dependencies,2014,68,80,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2003148182,An empirical analysis of the distribution of unit test smells and their impact on software maintenance,2012,22,51,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+1989385531,How the Apache community upgrades dependencies an evolutionary study,2015,47,52,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2005522109,SCOTCH Test-to-code traceability using slicing and conceptual coupling,2011,26,35,2,0.0,334584765,Abdallah Qusef,0,-0.6187099202079455,0.02124498680478165
+2004247102,Automatic query reformulations for text retrieval in software engineering,2013,26,125,2,0.666667,2060062056,Sonia Haiduc,0,-0.0291855379334779,0.0585196112869768
+1997322537,Automatic generation of release notes,2014,29,48,2,0.666667,2554045074,Laura Moreno,0,-0.0291855379334779,0.0585196112869768
+2017974706,Query-based configuration of text retrieval solutions for software engineering tasks,2015,55,22,2,0.666667,2554045074,Laura Moreno,0,-0.0291855379334779,0.0585196112869768
+2014755981,Mining StackOverflow to turn the IDE into a self-confident programming prompter,2014,42,131,2,0.545455,261055005,Luca Ponzanelli,0,-0.0291855379334779,0.0585196112869768
+2051742379,TraceME Traceability Management in Eclipse,2012,13,17,1,1.0,229858904,Gabriele Bavota,0,-0.6187099202079455,0.02124498680478165
+2068382122,An empirical study on the developers perception of software coupling,2013,39,76,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2078410218,The Evolution of Project Inter-dependencies in a Software Ecosystem The Case of Apache,2013,29,46,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2097465469,Supporting extract class refactoring in eclipse the ARIES project,2012,13,17,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2099154878,When and why developers adopt and change software licenses,2015,20,17,3,0.6,2229158785,Christopher Vendome,0,0.25631760331876086,0.5469451896967593
+2111741432,Teaching software engineering and software project management an integrated and practical approach,2012,38,24,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2143569040,Evaluating the specificity of text retrieval queries to support software engineering tasks,2012,13,25,2,0.666667,2060062056,Sonia Haiduc,0,-0.0291855379334779,0.0585196112869768
+2165855014,Four eyes are better than two On the impact of code reviews on software quality,2015,34,22,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2145700761,Methodbook Recommending Move Method Refactorings via Relational Topic Models,2014,50,86,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2152212880,1 st International workshop on natural language analysis in software engineering (NaturaLiSE 2013),2013,1,0,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2152510446,Using structural and semantic information to support software refactoring,2012,18,5,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2147120745,On the role of developers scattered changes in bug prediction,2015,41,9,4,0.0,2171383664,Dario Di Nucci,0,-0.0291855379334779,0.0585196112869768
+2292654058,Leaders of Tomorrow on the Future of Software Engineering A Roundtable,2016,9,4,4,0.0,2112506875,Felienne Hermans,0,-0.0291855379334779,0.0585196112869768
+2466866282,ARENA An Approach for the Automated Generation of Release Notes,2017,39,29,2,0.666667,2554045074,Laura Moreno,0,-0.0291855379334779,0.0585196112869768
+2417033663,License usage and changes a large-scale study on gitHub,2017,37,11,2,0.8,2229158785,Christopher Vendome,0,-0.6187099202079455,0.02124498680478165
+2465318792,Using Cohesion and Coupling for Software Remodularization Is It Enough ,2016,63,29,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2561301563,There and back again Can you compile that snapshot ,2017,29,28,2,0.0,67342874,Denys Poshyvanyk,0,-0.0291855379334779,0.0585196112869768
+2576508955,A Validated Set of Smells in Model-View-Controller Architectures,2016,43,12,2,0.20808,1742422144,Mauricio Aniche,0,-0.0275360058325885,0.512347904809431
+2517541169,Prompter Turning the IDE into a self-confident programming assistant,2016,58,8,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2617733587,Supporting software developers with a holistic recommender system,2017,55,14,3,0.545455,261055005,Luca Ponzanelli,0,-0.0291855379334779,0.0585196112869768
+2728259634,Patterns of developers behaviour A 1000-hour industrial study,2017,50,3,2,0.0,2231130243,Saulius Astromskis,0,-0.0291855379334779,0.0585196112869768
+2619825482,Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks,2017,97,12,2,0.0,2618740479,Chris Mills,0,-0.6187099202079455,0.02124498680478165
+2732547419,The code time machine,2017,17,3,3,0.0,2728391366,Emad Aghajani,0,-0.0291855379334779,0.0585196112869768
+2749460454,Automatically assessing code understandability how far are we ,2017,35,13,3,0.0,67342874,Denys Poshyvanyk,0,-0.0291855379334779,0.0585196112869768
+2754176165,Code smells for Model-View-Controller architectures,2018,58,15,2,0.20808,1742422144,Mauricio Aniche,0,0.10142026289563787,0.14230619012795187
+2742512005,On the diffuseness and the impact on maintainability of code smells a large scale empirical investigation,2018,51,61,2,0.283784,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2739751633,Enabling mutation testing for Android apps,2017,69,30,2,0.324324,185311061,Mario Linares Vasquez,0,-0.325336468980016,-0.2866502174424865
+2794607770,Sentiment analysis for software engineering how far can we go ,2018,37,39,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2795251638,To distribute or not to distribute why licensing bugs matter,2018,29,1,4,0.8,2229158785,Christopher Vendome,0,-0.0291855379334779,0.0585196112869768
+2789476037,A large-scale empirical study on the lifecycle of code smell co-occurrences,2018,47,19,2,0.283784,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2795746234,RETICULA Real-time code quality assessment,2018,13,1,4,0.0,2795399495,Luigi Franzio,0,-0.0291855379334779,0.0585196112869768
+2787694176,MDroid+ a mutation testing framework for android,2018,19,8,5,0.0,2337296193,Kevin Moran,0,-0.0291855379334779,0.0585196112869768
+2883507283,Towards just-in-time refactoring recommenders,2018,9,4,2,0.0,2884223428,Jevgenija Pantiuchina,0,0.16507363120930635,-0.2696288139740148
+2888328667,An empirical investigation into learning bug-fixing patches in the wild via neural machine translation,2018,36,22,3,0.666667,2231495793,Michele Tufano,0,-0.0291855379334779,0.0585196112869768
+2915605461,Automatically Assessing Code Understandability,2019,0,1,2,0.0,67342874,Denys Poshyvanyk,0,1.323453435907609,0.34530968179285837
+2908954337,Introduction to the special issue on software analysis evolution and reengineering,2019,0,0,1,1.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2922265848,A Study on the Interplay between Pull Request Review and Continuous Integration Builds,2019,39,3,2,1.0,2574696675,Fiorella Zampetti,0,-0.0291855379334779,0.0585196112869768
+2900734124,Two Datasets for Sentiment Analysis in Software Engineering,2018,4,5,6,0.0,2658917039,Bin Lin,0,-0.0291855379334779,0.0585196112869768
+2901226836,Improving Code The (Mis) Perception of Quality Metrics,2018,38,7,3,0.0,2884223428,Jevgenija Pantiuchina,0,-0.0291855379334779,0.0585196112869768
+2954492316,Data-driven solutions to detect API compatibility issues in Android an empirical study,2019,26,1,2,0.272727,2480241491,Simone Scalabrino,0,-0.0291855379334779,0.0585196112869768
+2995052309,Simultaneous Refactoring and Regression Testing,2019,41,0,3,0.0,2956564459,Jeffrey J. Yackley,0,-0.0291855379334779,0.0585196112869768
+3015029269,Enabling Mutant Generation for Open- and Closed-Source Android Apps,2020,0,0,3,0.0,67342874,Denys Poshyvanyk,0,-0.325336468980016,-0.2866502174424865
+3005628256,On Learning Meaningful Assert Statements for Unit Test Cases,2020,29,1,4,1.0,2883433130,Cody Watson,0,-0.0291855379334779,0.0585196112869768

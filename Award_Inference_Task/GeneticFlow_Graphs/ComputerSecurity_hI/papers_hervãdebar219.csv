@@ -1,0 +1,86 @@
+19881422,A service dependency model for cost-sensitive intrusion response,2010,26,72,4,0.7,2485424128,Nizar Kheir,0,0.1003237620206145,0.8686897509491414
+91465301,Limitation of honeypot/honeynet databases to enhance alert correlation,2012,25,7,2,1.0,1984962332,Yosra Ben Mustapha,0,-0.1689176920015207,1.0392140866030743
+92808623,New Directions in Intrusion Detection and Alert Correlation,2010,0,0,2,0.0,2101098733,Ludovic MÃ©,0,0.3119394895848352,1.2689979428933762
+181350678,Challenges for Advanced Security Monitoring â€“ The MASSIF Project,2012,0,3,5,0.0,1983554792,Rodrigo Diaz,0,-0.4092617326949854,0.5455070975767494
+32320118,Individual countermeasure selection based on the return on response investment index,2012,15,19,2,0.954545,2342634116,Gustavo Gonzalez Granadillo,0,0.0040557659796233,0.2757546058061082
+963561337,Service Dependencies-Aware Policy Enforcement Framework Based on Hierarchical Colored Petri Net,2013,33,1,2,1.0,1984962332,Yosra Ben Mustapha,0,0.2842929486915838,1.598657289964642
+1506289739,Intrusion detection introduction to intrusion detection and security information management,2005,25,25,1,1.0,2328058354,HervÃ© Debar,0,0.8073082943490874,1.77087497567499
+1570974058,Malware Behavioral Detection by Attribute-Automata Using Abstraction from Platform and Language,2009,12,31,2,1.0,2667161318,GrÃ©goire Jacob,0,0.05940095047987125,0.6960502266457337
+1563480451,Method of managing alerts issued by intrusion detection sensors of an information security system,2004,25,22,2,1.0,2151581289,Benjamin Morin,0,0.10129252008462279,0.6822672147920696
+1501782359,A Lightweight Tool for Detecting Web Server Attacks,2000,8,86,2,0.0,2139719453,Magnus Almgren,0,0.0040557659796233,0.2757546058061082
+1573794435,A Service Dependency Modeling Framework for Policy-Based Response Enforcement,2009,26,9,2,0.7,2485424128,Nizar Kheir,0,-0.24263774287769158,0.48314717038057303
+1510820885,A serial combination of anomaly and misuse IDSes applied to HTTP traffic,2004,10,90,2,0.0,67232174,Elvis Tombini,0,1.0850465220359529,0.851299519775151
+1529145152,Intrusion Detection in Cognitive Networks,2007,0,2,1,1.0,2328058354,HervÃ© Debar,0,0.02584686736540599,0.40025958195707284
+1511700591,A revised taxonomy for intrusion-detection systems,2000,37,265,1,1.0,2328058354,HervÃ© Debar,0,0.19830021525130268,0.8423152264699552
+1557006880,8102 Working Group -- Attack Taxonomy,2008,0,0,2,0.244494,2291121611,Marc Dacier,0,0.8394129102049798,0.9239599357505993
+1495304983,Aggregation and Correlation of Intrusion-Detection Alerts,2001,3,547,1,1.0,2328058354,HervÃ© Debar,0,-0.12664443503892714,0.9737447426024598
+1456955346,Challenges for Cloud Networking Security,2010,22,33,6,0.363636,2021763728,Peter Schoo,0,0.0040557659796233,0.2757546058061082
+1595855242,Conceptual analysis of intrusion alarms,2005,13,4,2,1.0,2151581289,Benjamin Morin,0,-0.4148341678565375,1.012693371114757
+1805317560,Monitoring IDS Background Noise Using EWMA Control Charts and Alert Information,2004,14,30,2,0.666667,2022671516,Jouni Viinikka,0,0.13679434731489165,0.6751406926737795
+1935124154,On the Isofunctionality of Network Access Control Lists,2015,18,2,2,1.0,2542930295,Malek Belhaouane,0,-0.6670375901749849,1.1314439166932528
+1579339571,Using contextual security policies for threat response,2006,19,18,1,1.0,2328058354,HervÃ© Debar,0,-1.2876821885223466,2.143418073460867
+1588632302,Service dependencies in information systems security,2010,29,6,1,1.0,2328058354,HervÃ© Debar,0,-0.39270351314976754,2.6371489936366332
+1761130198,HONEYNETS FOUNDATIONS FOR THE DEVELOPMENT OF EARLY WARNING INFORMATION SYSTEMS,2005,19,9,4,0.714286,2076871579,Fabien Pouget,0,0.05211979453927836,0.605810563050738
+1684452600,M2D2 a formal data model for IDS alert correlation,2002,15,228,3,0.666667,2151581289,Benjamin Morin,0,-0.12664443503892714,0.9737447426024598
+1644856702,Formalization of malware through process calculi,2009,19,2,3,1.0,2667161318,GrÃ©goire Jacob,0,-0.3976003713362508,1.164290882867107
+1581700637,Fixed vs Variable-Length Patterns for Detecting Suspicious Process Behavior,1998,15,35,2,0.818182,978480913,Andreas Wespi,0,0.3219550857024807,0.6898031122302856
+1892547895,Attack Processes Found on the Internet,2004,13,19,3,0.714286,2076871579,Fabien Pouget,0,0.02080662431885795,0.3505429208334274
+1859718522,Evaluation of the diagnostic capabilities of commercial intrusion detection systems,2002,13,27,1,1.0,2328058354,HervÃ© Debar,0,0.8457278189319883,0.7719523553737935
+1624696364,Considering technical and financial impact in the selection of security countermeasures against Advanced Persistent Threats (APTs),2015,8,3,2,0.857143,2951343654,Gustavo Gonzalez Granadillo,0,-0.8364241396937848,1.8888292228275982
+1973369043,Combination approach to select optimal countermeasures based on the RORI index,2012,10,8,2,0.0,865527936,Luigi Coppolino,0,-0.09777623058315725,0.4554931160050544
+1977434335,Cross-domain vulnerabilities over social networks,2012,9,3,2,0.0,2687389442,Catherine Bernard,0,-0.9984265260670258,-0.013916288785577493
+1996482171,Time series modeling for IDS alert management,2006,19,64,2,0.666667,2022671516,Jouni Viinikka,0,0.2546343440399634,0.5302890020293775
+2005937085,An extended RBAC profile of XACML,2006,17,44,4,1.0,2043174214,Diala Abi Haidar,0,0.19776990240018738,1.2547252679183467
+1994212840,Towards a taxonomy of intrusion-detection systems,1999,40,649,1,1.0,2328058354,HervÃ© Debar,0,0.19830021525130268,0.8423152264699552
+2029826771,Towards Autonomic DDoS Mitigation using Software Defined Networking,2015,19,46,2,0.538462,2135094513,Gregory Blanc,0,0.04091080791652015,1.4697839319810537
+2030505836,TLS Record Protocol Security Analysis and Defense-in-depth Countermeasures for HTTPS,2015,22,2,3,1.0,1179995336,Olivier Levillain,0,1.1041295733614547,-0.9613145644302136
+2036512235,Security information management as an outsourced service,2006,15,23,1,1.0,2328058354,HervÃ© Debar,0,-0.266699417737794,0.3211345058113754
+2046015955,One year of SSL internet measurement,2012,11,19,4,1.0,1179995336,Olivier Levillain,0,0.6101297183426105,-1.6804052783666894
+2044652885,RORI-based countermeasure selection using the OrBAC formalism,2014,31,16,3,1.0,2342634116,Gustavo Gonzalez Granadillo,0,-0.015505286947185079,-0.08340953011727774
+2048375003,Analysis of Computer Infection Risk Factors Based on Customer Network Usage,2008,7,23,3,0.0,418579573,Yannick Carlinet,0,0.028051208515957434,0.6416131366717536
+2077028504,Processing intrusion detection alert aggregates with time series modeling,2009,39,56,2,0.666667,2022671516,Jouni Viinikka,0,0.060146675427666135,0.5633238923460409
+2056170570,XeNA an access negotiation framework using XACML,2009,18,26,4,1.0,2043174214,Diala Abi Haidar,0,0.41741554670919223,1.561001103290737
+2077237766,An ontology-based approach to react to network attacks,2008,30,37,3,0.217391,2304506706,Nora Cuppens Boulahia,0,-0.2167737043602023,0.5047553265223369
+2102361025,Honeypots practical means to validate malicious fault assumptions,2004,10,41,3,0.466786,2291121611,Marc Dacier,0,0.02080662431885795,0.3505429208334274
+2084535663,Combining Technical and Financial Impacts for Countermeasure Selection,2014,8,1,4,0.857143,2951343654,Gustavo Gonzalez Granadillo,0,0.16607705605814896,0.5966069898308625
+2095336670,Attribute-Based Mining Process for the Organization-Based Access Control Model,2013,24,0,3,0.0,2973567239,Ahmad Samer Wazan,0,-0.4471674127612321,0.7650381959861807
+2091852268,VESPA multi-layered self-protection for cloud resources,2012,20,14,3,0.0,2028840575,AurÃ©lien Wailly,0,-0.3383784544281044,0.15268826611744696
+2098530349,Enabling automated threat response through the use of a dynamic security policy,2007,24,37,1,1.0,2328058354,HervÃ© Debar,0,-1.4802918131038538,2.786608933448779
+2096035397,Personal device terminal server and methods for establishing a trustworthy connection between a user and a terminal,2000,39,25,3,0.0,2004230566,Michael Waidner,0,-0.9370947643777646,0.12943349807751253
+2131970275,A neural network component for an intrusion detection system,1992,7,437,1,1.0,2328058354,HervÃ© Debar,0,0.8132086575740218,0.9257086063639175
+2138281415,A logic-based model to support alert correlation in intrusion detection,2009,30,67,3,0.0,2950524256,Benjamin Morin,0,0.3119394895848352,1.2689979428933762
+2117624020,Improving security management through passive network observation,2006,8,8,2,0.0,2631529330,Yohann Thomas,0,-0.09230377864945287,1.3592565723474177
+2143776233,Intrusion Detection Using Variable-Length Audit Trail Patterns,2000,16,173,3,0.818182,978480913,Andreas Wespi,0,0.3219550857024807,0.6898031122302856
+2156569770,Malware as interaction machines a new framework for behavior modelling,2008,29,12,3,1.0,2667161318,GrÃ©goire Jacob,0,0.05940095047987125,0.6960502266457337
+2156844326,Botnets Lifecycle and Taxonomy,2011,7,32,2,1.0,1984962332,Yosra Ben Mustapha,0,0.25553752762548526,0.7551642369664288
+2145885922,An ontology-driven approach to model SIEM information and operations using the SWRL formalism,2012,10,9,4,0.954545,2342634116,Gustavo Gonzalez Granadillo,0,-0.1189205462011514,0.6423473547049239
+2146034932,Authenticating public terminals,1999,14,63,2,0.0,2383048336,Nadarajah Asokan,0,-0.5892553621832213,0.0028719768634359114
+2161574681,Resource Classification Based Negotiation in Web Services,2007,22,3,4,1.0,2043174214,Diala Abi Haidar,0,-0.0055216156628483315,0.8431774549076696
+2276517848,Network Attack Detection and Defense Early Warning Systems - Challenges and Perspectives (Dagstuhl Seminar 12061),2012,0,0,2,0.0,2127992992,Georg Carle,0,0.8894955004120346,0.9137044698468877
+2293998199,Evaluating the comprehensive complexity of authorization-based access control policies using quantitative metrics,2015,22,2,2,1.0,2542930295,Malek Belhaouane,0,-0.14566970793856868,1.8831335719331812
+2294330423,A polytope-based approach to measure the impact of events against critical infrastructures,2017,26,7,2,0.75,2076067816,Gustavo Gonzalez Granadillo,0,0.2180258187794517,0.488414872996311
+2324414032,Classification of SSL Servers based on their SSL Handshake for Automated Security Assessment,2014,19,5,4,0.0,1207916056,Sirikarn Pukkawanna,0,-0.5790514844570336,-1.2830019451917316
+2331712481,Network and information systems security,2006,0,0,3,0.0,563868737,FrÃ©dÃ©ric Cuppens,0,-1.4014123864426276,2.7620103537959
+2407702208,StemJail Dynamic Role Compartmentalization,2016,21,0,3,0.0,2634399365,MickaÃ«l SalaÃ¼n,0,-0.23697655061329206,0.6865976174782045
+2394720329,Policy Enforcement Point Model,2014,2,4,2,1.0,1984962332,Yosra Ben Mustapha,0,-0.6490792270439357,0.8698294988522002
+2397421135,Using a 3D Geometrical Model to Improve Accuracy in the Evaluation and Selection of Countermeasures Against Complex Cyber Attacks,2015,11,10,2,1.0,2342634116,Gustavo Gonzalez Granadillo,0,0.0040557659796233,0.2757546058061082
+2474904735,Using contextual security policies for threat response,2006,0,0,1,1.0,2328058354,HervÃ© Debar,0,-1.2876821885223466,2.143418073460867
+2464961315,Bayesian Attack Model for Dynamic Risk Assessment,2016,16,1,5,0.0,2019965947,FranÃ§ois Xavier Aguessy,0,0.2005921581121873,0.6536236584040661
+2465278506,Attack Volume Model Geometrical Approach and Application,2015,11,4,3,0.857143,2951343654,Gustavo Gonzalez Granadillo,0,-0.22808444921015433,0.6508402271401293
+2502112825,Reference audit information generation for intrusion-detection systems,1998,0,11,3,0.818182,978480913,Andreas Wespi,0,0.13679434731489165,0.6751406926737795
+2565409640,Selection of Mitigation Actions Based on Financial and Operational Impact Assessments,2016,25,7,3,1.0,2342634116,Gustavo Gonzalez Granadillo,0,0.0040557659796233,0.2757546058061082
+2516917942,Selection of countermeasures against cyber attacks,2015,28,15,1,1.0,2328058354,HervÃ© Debar,0,-0.34732387700793127,0.37598528952980015
+2547481851,One Year of Internet SSL measurement,2012,0,3,4,1.0,1179995336,Olivier Levillain,0,0.8037887451304813,-1.6848578877538916
+2565214083,New Types of Alert Correlation for Security Information and Event Management Systems,2016,13,6,3,1.0,2342634116,Gustavo Gonzalez Granadillo,0,-0.568916339716377,1.540362049360108
+2622921428,Dynamic risk management response system to handle cyber threats,2017,33,8,7,0.75,2076067816,Gustavo Gonzalez Granadillo,0,-0.504524886384931,1.203503458787957
+2587203410,Considering Internal Vulnerabilities and the Attackers Knowledge to Model the Impact of Cyber Events as Geometrical Prisms,2016,18,5,3,0.75,2076067816,Gustavo Gonzalez Granadillo,0,0.0040557659796233,0.2757546058061082
+2594762439,An n-Sided Polygonal Model to Calculate the Impact of Cyber Security Events,2016,30,5,2,1.0,2342634116,Gustavo Gonzalez Granadillo,0,0.0040557659796233,0.2757546058061082
+2744162661,Choosing Models for Security Metrics Visualization,2017,17,8,6,0.0,2308843318,Maxim Kolomeec,0,-0.38022505700266124,1.081247914147739
+2943020615,Challenges for Cloud Networking Security,2012,0,12,6,0.363636,2021763728,Peter Schoo,0,0.0040557659796233,0.2757546058061082
+2984470716,Solving security constraints for 5G slice embedding A proof-of-concept,2020,18,0,5,0.0,2795307483,Francois Boutigny,0,0.0040557659796233,0.2757546058061082
+2985186596,4 8102 Working Group -- Attack Taxonomy,2008,0,0,5,0.0,59249629,Engin Kirda,0,-0.17306912860721702,0.6429326548014207
+3013368553,A Quantitative Study of Vulnerabilities in the Internet of Medical Things,2020,0,0,1,1.0,2328058354,HervÃ© Debar,0,0.0040557659796233,0.2757546058061082
+171112284,Ex-SDF An Extended Service Dependency Framework for Intrusion Impact Assessment,2010,23,2,5,0.7,2485424128,Nizar Kheir,0,0.053145818127868644,0.8302630365292663
+2161160863,Negotiation of Prohibition An Approach Based on Policy Rewriting,2008,14,5,5,0.217391,2304506706,Nora Cuppens Boulahia,0,-0.6169945893094338,1.2244718562290964
+2622973432,Security Issues and Mitigation in Ethernet POWERLINK,2016,16,2,3,0.0,2622840155,Jonathan Yung,0,0.0040557659796233,0.2757546058061082
+2737097631,ArOMA An SDN based autonomic DDoS mitigation framework,2017,43,14,7,0.0,2787207900,Rishikesh Sahay,0,-0.3383784544281044,0.15268826611744696

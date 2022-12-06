@@ -1,0 +1,108 @@
+97908192,Conferences in Research and Practice in Information Technology Database technologies 2011 Proceedings of the twenty-second Australasian database conference (ADC 2011),2011,0,0,2,0.0,2100438523,Yanchun Zhang,0,0.003708468606338,0.082832279151172
+185144071,SK-LSH an efficient index structure for approximate nearest neighbor search,2014,22,51,5,0.0,2443835157,Yingfan Liu,0,0.009375387294726034,-0.1733825053652235
+1514509538,Frontiers of WWW Research and Development APWeb 2006 8th Asia-Pacific Web Conference Harbin China January 16-18 2006 Proceedings,2006,0,0,3,0.0,390930505,Masaru Kitsuregawa,0,0.3823395902688511,-2.2916077792254
+1506748463,Selectivity estimation by batch-query based histogram and parametric method,2007,20,4,4,0.0,2633956336,Jizhou Luo,0,0.03224865671091357,0.1959824047573605
+1544457489,Tagging image with informative and correlative tags,2011,7,0,2,1.0,2943283655,Xiaoming Zhang,0,0.847384742243338,-1.571336366010308
+1536568817,Probabilistic image tagging with tags expanded by text-based search,2011,23,0,3,1.0,2943283655,Xiaoming Zhang,0,0.003708468606338,0.082832279151172
+1527735610,Semantic caching for multiresolution spatial query processing in mobile environments,2005,19,5,3,0.0,2119669724,Sai Sun,0,-0.45853982478583405,0.7812322689299344
+1545799319,Distributed cache indexing for efficient subspace skyline computation in p2p networks,2010,14,5,4,1.0,2304647583,Lijiang Chen,0,-0.11921363205267899,0.0077217758033529815
+1494552168,Indexing text and visual features for WWW images,2005,25,8,1,1.0,2116772828,Heng Tao Shen,0,0.024721482348786128,0.17992700214649845
+1566717980,Exploring bit-difference for approximate KNN search in high-dimensional databases,2005,20,24,2,0.428571,2070862325,Bin Cui,0,-0.21934185016841626,0.6056873083074126
+1796837278,Efficient histogram-based similarity search in ultra-high dimensional space,2011,20,2,3,0.782609,2118917275,Jiajun Liu,0,0.1646651773121307,0.3163522219201928
+1605012312,Achieving Effective Multi-term Queries for Fast DHT Information Retrieval,2008,22,4,2,0.0,2115247828,Quanqing Xu,0,-0.01657107088421793,0.035389748403282274
+1588029399,Diagonal Ordering a new approach to high-dimensional KNN processing,2004,17,2,3,0.0,2495258161,Jing Hu,0,-0.21934185016841626,0.6056873083074126
+1579088759,Efficient similarity search by summarization in large video database,2007,11,13,3,0.0,2754526981,Xiangmin Zhou,0,-0.0803664456555057,0.4680576839879067
+1880913381,UQLIPS a real-time near-duplicate video clip detection system,2007,9,74,1,1.0,2116772828,Heng Tao Shen,0,-0.06349561751414125,0.6681386519388308
+1606424408,Dual dimensionality reduction for efficient video similarity search,2007,8,1,2,0.771429,2149257649,Zi Huang,0,-0.1984714131877254,-0.08331523624254955
+1849082793,Dimension-Specific Search for Multimedia Retrieval,2009,7,0,2,0.9,2149257649,Zi Huang,0,-0.3473793728160243,0.24861357896709396
+1963812750,Dynamic Batch Nearest Neighbor Search in Video Retrieval,2007,8,8,3,1.0,2110372033,Jie Shao,0,-0.1773842442309081,-0.032039910520238024
+1832885233,3D protein structure matching by patch signatures,2006,5,4,3,0.717413,2149257649,Zi Huang,0,-0.4240298874863195,0.08650359357747966
+1964490760,Distribution-based similarity measures for multi-dimensional point set retrieval applications,2008,29,9,3,1.0,2110372033,Jie Shao,0,-0.1984714131877254,-0.08331523624254955
+1971806072,Finding similar images quicky using object shapes,2001,20,0,1,1.0,2116772828,Heng Tao Shen,0,-0.13275296294680305,-0.071629888206014
+1964973838,Efficient information retrieval in mobile peer-to-peer networks,2009,24,6,3,1.0,2304647583,Lijiang Chen,0,0.003708468606338,0.082832279151172
+1974145285,Automatic tagging by exploring tag information capability and correlation,2012,42,19,3,1.0,2943283655,Xiaoming Zhang,0,0.847384742243338,-1.571336366010308
+1996865658,Instance optimal query processing in spatial networks,2009,21,37,3,0.75,2137067593,Ke Deng,0,-0.45879123111725517,0.4312005868033939
+2031444464,Effective data co-reduction for multimedia similarity search,2011,28,21,2,0.71216,2149257649,Zi Huang,0,-0.22205240695846498,-0.13090750934943304
+2015828157,Discovering areas of interest with geo-tagged images and check-ins,2012,20,35,4,0.8,2118917275,Jiajun Liu,0,-0.21934185016841626,0.6056873083074126
+2019412213,VChunkJoin An Efficient Algorithm for Edit Similarity Joins,2013,43,37,5,0.0,2488905669,Wei Wang,0,0.003708468606338,0.082832279151172
+2028618575,Convoy Queries in Spatio-Temporal Databases,2008,11,75,2,1.0,2200425846,Hoyoung Jeung,0,-0.3507472114155649,0.5019448779417046
+2025432722,Effective Multiple Feature Hashing for Large-Scale Near-Duplicate Video Retrieval,2013,48,150,4,0.75,2127452354,Jingkuan Song,0,-0.13275296294680305,-0.071629888206014
+2040153892,An adaptive and dynamic dimensionality reduction method for high-dimensional indexing,2007,21,35,1,1.0,2116772828,Heng Tao Shen,0,-0.13275296294680305,-0.071629888206014
+2049993534,Inter-media hashing for large-scale retrieval from heterogeneous data sources,2013,38,302,5,0.75,2127452354,Jingkuan Song,0,-0.2169444416190975,0.19822117565735864
+2037650152,Mining near-duplicate graph for cluster-based reranking of web video search results,2010,28,22,4,0.875469,2149257649,Zi Huang,0,-0.5155847788967939,1.191062668357721
+2058096438,Challenges and techniques for effective and efficient similarity search in large video databases,2008,34,12,2,1.0,2110372033,Jie Shao,0,-0.1984714131877254,-0.08331523624254955
+2065323134,Personalized query evaluation in ring-based P2P networks,2013,41,2,2,0.413793,2102193908,Minqi Zhou,0,-0.1494257182065603,0.11130446437806295
+2069222105,Optimal graph learning with partial tags and multiple features for image and video annotation,2015,35,57,6,1.0,2166790520,Lianli Gao,0,0.003708468606338,0.082832279151172
+2065729655,Indexing and Integrating Multiple Features for WWW Images,2006,27,10,1,1.0,2116772828,Heng Tao Shen,0,-0.11460358785341687,0.4346006922713128
+2067766814,Multiple feature hashing for real-time large scale near-duplicate video retrieval,2011,35,230,4,0.75,2127452354,Jingkuan Song,0,-0.13275296294680305,-0.071629888206014
+2067786280,Local image tagging via graph regularized joint group sparsity,2013,45,38,5,0.789474,2430169722,Yi Yang,0,0.003708468606338,0.082832279151172
+2099614383,Effective and Efficient Query Processing for Video Subsequence Identification,2009,35,41,1,1.0,2116772828,Heng Tao Shen,0,0.003708468606338,0.082832279151172
+2102855375,Effectively Indexing the Multidimensional Uncertain Objects,2014,24,9,5,0.0,2604265191,Ying Zhang,0,-0.5164998405036083,0.2798030816691195
+2097268493,Discovering popular routes from trajectories,2011,30,250,2,1.0,2110962214,Zaiben Chen,0,-0.21934185016841626,0.6056873083074126
+2079223085,On the Influence Propagation of Web Videos,2014,34,5,5,0.705882,2118917275,Jiajun Liu,0,-0.21934185016841626,0.6056873083074126
+2097755799,Dimensionality reduction for dimension-specific search,2007,5,0,2,0.771429,2149257649,Zi Huang,0,-0.1984714131877254,-0.08331523624254955
+2101012773,SaveRF Towards Efficient Relevance Feedback Search,2006,3,1,1,1.0,2116772828,Heng Tao Shen,0,0.024721482348786128,0.17992700214649845
+2079838402,Speed up interactive image retrieval,2009,39,13,1,1.0,2116772828,Heng Tao Shen,0,0.024721482348786128,0.17992700214649845
+2131897314,Mining trajectory patterns using hidden Markov models,2007,14,53,2,1.0,2200425846,Hoyoung Jeung,0,0.003708468606338,0.082832279151172
+2141136363,Discovery of convoys in trajectory databases,2008,23,322,5,1.0,2200425846,Hoyoung Jeung,0,-0.24631475925461466,0.01662727508514165
+2114427728,Surface k-NN Query Processing,2006,23,20,2,1.0,2137067593,Ke Deng,0,0.003708468606338,0.082832279151172
+2117696503,Mining multi-tag association for image tagging,2011,45,35,3,0.785714,2673033531,Yang Yang,0,0.003708468606338,0.082832279151172
+2117742206,A Hybrid Prediction Model for Moving Objects,2008,20,218,3,1.0,2200425846,Hoyoung Jeung,0,-0.34841194659538965,-0.10142585373365
+2117961179,A multi-resolution surface distance model for k-NN query processing,2008,27,16,3,0.818182,2137067593,Ke Deng,0,0.003708468606338,0.082832279151172
+2138792181,Presenting diverse location views with real-time near-duplicate photo elimination,2013,28,12,5,0.8,2118917275,Jiajun Liu,0,0.3877972147316468,1.2062395475643328
+2106162084,Processing Group Nearest Group Query,2009,5,8,6,0.75,2137067593,Ke Deng,0,-0.25581676567814393,0.04391341072859639
+2112229395,Web and Personal Image Annotation by Mining Label Correlation With Relaxed Visual Graph Embedding,2012,46,102,4,0.777778,2430169722,Yi Yang,0,0.1579559588619796,0.563349572073047
+2133212952,Hierarchical Indexing Structure for Efficient Similarity Search in Video Retrieval,2006,30,45,3,0.0,2171760257,Hong Lu,0,0.031966964330646296,0.7449663965071976
+2116090699,Localized Co-Occurrence Model for Fast Approximate Search in 3D Structure Databases,2008,35,0,2,0.9,2149257649,Zi Huang,0,-0.44422261485780346,0.06764963853311892
+2130821339,Batch Nearest Neighbor Search for Video Retrieval,2008,41,18,3,1.0,2110372033,Jie Shao,0,-0.1957502742847153,-0.07085033952883042
+2110261118,Multi-source Skyline Query Processing in Road Networks,2007,27,163,3,1.0,2137067593,Ke Deng,0,-0.0578542733436389,-0.007116189694043467
+2137389980,Towards effective indexing for very large video sequence database,2005,12,118,1,1.0,2116772828,Heng Tao Shen,0,-0.3411561087784454,0.0054180876836792055
+2144241215,An adaptive and efficient dimensionality reduction algorithm for high-dimensional indexing,2003,12,41,3,0.0,2111256038,Hui Jin,0,0.17442062980591078,0.6501949601685502
+2153592001,A Multiresolution Terrain Model for Efficient Visualization Query Processing,2006,34,2,4,0.0,2242823020,Kai Xu,0,-0.19257717161767499,0.7179202261863091
+2169243518,Efficient semantic-based content search in P2P network,2004,20,99,1,1.0,2116772828,Heng Tao Shen,0,-0.22205240695846498,-0.13090750934943304
+2169896292,Searching trajectories by locations an efficiency study,2010,21,156,2,1.0,2110962214,Zaiben Chen,0,-0.8119081610759554,0.7753277337940678
+2163845944,LDC enabling search by partial distance in a hyper-dimensional space,2004,16,44,3,0.0,335443309,Nick Koudas,0,0.07832924107701261,0.34716779136503706
+2149210101,Monitoring path nearest neighbor in road networks,2009,25,81,2,1.0,2110962214,Zaiben Chen,0,0.003708468606338,0.082832279151172
+2158371097,Effective Data Density Estimation in Ring-Based P2P Networks,2012,29,2,2,0.413793,2102193908,Minqi Zhou,0,0.003708468606338,0.082832279151172
+2170651244,ICICLE A semantic-based retrieval system for WWW images,2006,50,2,1,1.0,2116772828,Heng Tao Shen,0,-0.362431601129456,0.44532214617473204
+2164585733,Sparse hashing for fast multimedia search,2013,53,92,5,0.0,2793351018,Xiaofeng Zhu,0,-0.22205240695846498,-0.13090750934943304
+2293907998,Geographical Constraint and Temporal Similarity Modeling for Point-of-Interest Recommendation,2015,15,2,4,1.0,2422034681,Huimin Wu,0,0.7219851029663955,0.37555938134014344
+2294562143,UQ-DKEs participation at MediaEval 2014 placing Task,2014,6,3,4,1.0,2222483957,Jiewei Cao,0,0.003708468606338,0.082832279151172
+2282231212,Robust Discrete Spectral Hashing for Large-Scale Image Semantic Indexing,2015,40,62,3,0.731049,2673033531,Yang Yang,0,0.003708468606338,0.082832279151172
+2472899609,Where to Focus Query Adaptive Matching for Instance Retrieval Using Convolutional Feature Maps,2016,20,8,6,1.0,2222483957,Jiewei Cao,0,0.003708468606338,0.082832279151172
+2415956510,Discriminant Cross-modal Hashing,2016,15,11,4,0.0,2596133846,Xing Xu,0,0.003708468606338,0.082832279151172
+2531032022,IF-Matching Towards Accurate Map-Matching with Information Fusion,2017,30,29,5,0.0,2635679240,Gang Hu,0,0.003708468606338,0.082832279151172
+2552581492,Efficient Similarity Search by Summarization in Large Video Database,2007,0,0,3,0.0,2754526981,Xiangmin Zhou,0,-0.0803664456555057,0.4680576839879067
+2584893896,Deep Region Hashing for Efficient Large-scale Instance Search from Images,2017,27,15,5,0.717391,2127452354,Jingkuan Song,0,0.1934111924289636,-0.23873581190951226
+2513281263,Optimized Graph Learning Using Partial Tags and Multiple Features for Image and Video Annotation,2016,57,87,4,0.72973,2127452354,Jingkuan Song,0,0.1579559588619796,0.563349572073047
+2665436006,Robust Web Image Annotation via Exploring Multi-Facet and Structural Knowledge,2017,73,31,5,0.0,2231354185,Mengqiu Hu,0,-0.13275296294680305,-0.071629888206014
+2614678008,Preserving-Ignoring Transformation Based Index for Approximate k Nearest Neighbor Search,2017,13,0,5,0.0,2635679240,Gang Hu,0,-0.041758302640163135,0.5140172554891461
+2615162663,Processing Long Queries Against Short Text Top- k Advertisement Matching in News Stream Applications,2017,53,11,1,1.0,2116772828,Heng Tao Shen,0,0.6642631993651279,0.8704818474401211
+2588413703,Hierarchical Latent Concept Discovery for Video Event Detection,2017,56,9,6,0.0,2668722809,Chao Li,0,0.1579559588619796,0.563349572073047
+2588689060,Tagging image with informative and correlative tags,2011,0,0,2,1.0,2943283655,Xiaoming Zhang,0,0.847384742243338,-1.571336366010308
+2611926148,Discrete Nonnegative Spectral Clustering,2017,51,42,4,0.80957,2673033531,Yang Yang,0,-0.8506757423325126,2.993886785734365
+2616040088,IF-Matching Towards Accurate Map-Matching with Information Fusion,2017,3,2,5,0.0,2635679240,Gang Hu,0,0.003708468606338,0.082832279151172
+2616258542,Compact Indexing and Judicious Searching for Billion-Scale Microblog Retrieval,2017,41,8,6,0.209781,2145928807,Dongxiang Zhang,0,-0.15236568182782298,-0.14118438581183157
+2765281357,A System for Spatiotemporal Anomaly Localization in Surveillance Videos,2017,3,4,5,1.0,2422034681,Huimin Wu,0,-0.4878241342445347,-0.3428437655048424
+2756344214,A Deep Approach for Multi-modal User Attribute Modeling,2017,32,0,6,0.0,2557813533,Xiu Huang,0,-0.2700076515131172,0.47436027595245217
+2741530248,Classification by Retrieval Binarizing Data and Classifiers,2017,49,25,7,0.676471,2148415883,Fumin Shen,0,0.003708468606338,0.082832279151172
+2741534549,Unifying Multi-Source Social Media Data for Personalized Travel Route Planning,2017,8,4,5,0.0,2635679240,Gang Hu,0,0.13849912693728195,0.2301239433648543
+2741643124,Event Early Embedding Predicting Event Volume Dynamics at Early Stage,2017,12,4,6,1.0,2741429021,Zhiwei Liu,0,0.003708468606338,0.082832279151172
+2750555395,Personalized semantic trajectory privacy preservation through trajectory reconstruction,2018,31,4,5,0.0,2750172310,Yan Dai,0,-0.08219684055276005,0.4370923699984199
+2755098865,Efficient Supervised Hashing via Exploring Local and Inner Data Structure,2017,22,1,6,0.0,2754348046,Shiyuan He,0,0.05032137405439746,-0.19665778173700396
+2739709122,POI Popularity Prediction via Hierarchical Fusion of Multiple Social Clues,2017,12,5,6,1.0,2740540126,Yaqian Duan,0,0.003708468606338,0.082832279151172
+2767909894,Selectivity estimation by batch-query based histogram and parametric method,2007,0,4,4,0.0,2633956336,Jizhou Luo,0,0.03224865671091357,0.1959824047573605
+2768053980,Movie Fill in the Blank with Adaptive Temporal Attention and Description Update,2017,38,2,6,0.0,2692931099,Jie Chen,0,-0.17768346192212375,0.0848641959637884
+2752674409,Attribute hashing for zero-shot image retrieval,2017,20,17,6,0.0,2751651839,Yahui Xu,0,0.015565841074671702,0.3002023628609647
+2794573079,A Graph-Theoretic Fusion Framework for Unsupervised Entity Resolution,2018,29,6,6,0.209781,2145928807,Dongxiang Zhang,0,0.35574494103515925,0.11535012456367875
+2795106637,Continuous Proximity Detection via Predictive Safe Region Construction,2018,21,1,6,0.0,2795004996,Ying Xu,0,-0.02982925155893055,-0.0135024676312933
+2789459541,Augmented keyword search on spatial entity databases,2018,42,10,5,0.209781,2145928807,Dongxiang Zhang,0,0.3531040014101039,0.5049572131056808
+2807548702,Hierarchical Multi-Clue Modelling for POI Popularity Prediction with Heterogeneous Tourist Information,2019,35,20,6,0.6958,2673033531,Yang Yang,0,0.18188391976925486,0.37050146745890666
+2807957939,Trajectory simplification an experimental study and quality analysis,2018,46,12,6,0.209781,2145928807,Dongxiang Zhang,0,0.07590572071699475,0.423218934603613
+2951288575,Discovery of Convoys in Trajectory Databases,2010,17,4,5,0.714286,2200425846,Hoyoung Jeung,0,-0.24631475925461466,0.01662727508514165
+2949241760,Exploring Auxiliary Context Discrete Semantic Transfer Hashing for Scalable Image Retrieval,2019,70,2,5,0.0,2476520770,Lei Zhu,0,0.003708468606338,0.082832279151172
+2964168984,Towards Automatic Construction of Diverse High-Quality Image Datasets,2020,34,8,7,0.0,2512295138,Yazhou Yao,0,0.18188391976925486,0.37050146745890666
+2967777465,Exploring bit-difference for approximate KNN searching in high-dimensional databases,2005,0,0,2,0.428571,2070862325,Bin Cui,0,0.003708468606338,0.082832279151172
+3003735286,Exploiting Subspace Relation in Semantic Labels for Cross-modal Hashing,2020,0,3,1,1.0,2116772828,Heng Tao Shen,0,0.003708468606338,0.082832279151172
+2115023939,Toward efficient multifeature query processing,2006,18,8,4,0.0,360112113,Hosagrahar V. Jagadish,0,0.36993626527669454,0.5388195715155177
+2791251283,Embedding and predicting the event at early stage,2019,48,0,7,1.0,2741429021,Zhiwei Liu,0,0.003708468606338,0.082832279151172

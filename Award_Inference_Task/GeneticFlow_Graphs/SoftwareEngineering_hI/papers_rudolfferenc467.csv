@@ -1,0 +1,40 @@
+501892,A Methodology and Framework for Automatic Layout Independent GUI Testing of Applications Developed in Magic xpa,2013,13,0,3,0.0,2504773553,Daniel Fritsi,0,-0.0291855379334779,0.0585196112869768
+209543640,Recognizing Antipatterns and Analyzing Their Effects on Software Maintainability,2014,17,2,2,0.0,2119376627,DÃ©nes BÃ¡n,0,0.16507363120930635,-0.2696288139740148
+175847370,Columbus { Tool for Reverse Engineering Large Object Oriented Software Systems,2001,8,27,1,1.0,1974967662,Rudolf Ferenc,0,-0.0291855379334779,0.0585196112869768
+23520819,A short introduction to the Columbus Proposal for a standard C/C++ Schema,2001,0,2,1,1.0,1974967662,Rudolf Ferenc,0,-0.0291855379334779,0.0585196112869768
+92731016,A semi-automatic usability evaluation framework,2013,15,4,4,0.0,2499902202,KornÃ©l Muhi,0,-0.0291855379334779,0.0585196112869768
+94306280,Software Product Quality Models,2014,0,17,1,1.0,1974967662,Rudolf Ferenc,0,-0.0291855379334779,0.0585196112869768
+98290605,A short introduction to Columbus/CAN,2001,8,7,3,0.0,338142338,Tibor GyimÃ³thy,0,-0.5858771665552741,0.2641527235267396
+152747938,Myth or Reality Analyzing the Effect of Design Patterns on Software Maintainability,2012,20,16,3,0.186295,338142338,Tibor GyimÃ³thy,0,0.16507363120930635,-0.2696288139740148
+237486365,A Case Study of Refactoring Large-Scale Industrial Systems to Efficiently Improve Source Code Quality,2014,23,8,3,1.0,1989183894,GÃ¡bor SzÅ‘ke,0,0.16507363120930635,-0.2696288139740148
+342783960,The impact of version control operations on the quality change of the source code,2014,21,7,3,1.0,1997462532,Csaba FaragÃ³,0,0.16507363120930635,-0.2696288139740148
+2003230381,BEFRIEND - a benchmark for evaluating reverse engineering tools,2008,1,5,2,1.0,1727157185,PÃ©ter HegedÅ±s,0,-0.5716118286419691,0.12678888801887597
+2026856392,MAGISTER Quality assurance of Magic applications for software developers and end users,2010,7,9,3,1.0,2134197946,Csaba Nagy,0,-0.5858771665552741,0.2641527235267396
+2033474522,Bulk Fixing Coding Issues and Its Effects on Software Quality Is It Worth Refactoring ,2014,21,15,2,0.177266,338142338,Tibor GyimÃ³thy,0,-0.0291855379334779,0.0585196112869768
+2099533458,Cumulative code churn Impact on maintainability,2015,25,6,2,1.0,1997462532,Csaba FaragÃ³,0,0.16507363120930635,-0.2696288139740148
+2096821349,FaultBuster An automatic code smell refactoring toolset,2015,11,11,4,1.0,2225685944,Gabor Szoke,0,-0.0291855379334779,0.0585196112869768
+2079112595,A software quality model for RPG,2015,25,4,3,0.0,1601450253,Gergely Ladanyi,0,0.16507363120930635,-0.2696288139740148
+2100595214,Developer Support for Understanding Preprocessor Macro Expansions,2012,19,1,3,1.0,85207129,LÃ¡szlÃ³ VidÃ¡cs,0,-0.0291855379334779,0.0585196112869768
+2097975061,Solutions for Reverse Engineering 4GL Applications Recovering the Design of a Logistical Wholesale System,2011,7,15,3,1.0,2134197946,Csaba Nagy,0,-0.6838205077186076,0.4526785556287051
+2123551785,Using the Conceptual Cohesion of Classes for Fault Prediction in Object-Oriented Systems,2008,73,237,3,0.0,2146731111,Andrian Marcus,0,-0.0291855379334779,0.0585196112869768
+2133221145,Service Layer for IDE Integration of C/C++ Preprocessor Related Analysis,2014,26,1,3,0.0,2137854031,RichÃ¡rd DÃ©vai,0,-0.0291855379334779,0.0585196112869768
+2125156287,Data exchange with the columbus schema for c,2002,10,39,1,1.0,1974967662,Rudolf Ferenc,0,-0.0291855379334779,0.0585196112869768
+2125197468,Continuous software quality supervision using SourceInventory and Columbus,2008,0,13,3,1.0,238460838,Tibor Bakota,0,-0.0291855379334779,0.0585196112869768
+2128666163,Empirical validation of object-oriented metrics on open source software for fault prediction,2005,21,656,2,0.48,338142338,Tibor GyimÃ³thy,0,-0.5858771665552741,0.2641527235267396
+2125877989,Mining design patterns from C++ source code,2003,10,102,2,0.0,2287184805,Z. Balanyi,0,-0.5068954308116044,0.0016353206587134035
+2123012200,Fact extraction and code auditing with Columbus and SourceAudit,2004,2,12,1,1.0,1974967662,Rudolf Ferenc,0,-0.0291855379334779,0.0585196112869768
+2168516855,Do automatic refactorings improve maintainability An industrial case study,2015,32,8,3,1.0,2225685944,Gabor Szoke,0,0.16507363120930635,-0.2696288139740148
+2162659760,Towards a Benchmark for Evaluating Reverse Engineering Tools,2008,4,11,2,0.0,1999758292,Lajos Jeno Fulop,0,-0.5716118286419691,0.12678888801887597
+2163334944,Development of a Methodology Software -- Suite and Service for Supporting Software Architecture Reconstruction,2010,4,4,2,0.0,29101827,Lajos Schrettner,0,-0.0291855379334779,0.0585196112869768
+2148711489,Extracting facts from open source software,2004,13,66,1,1.0,1974967662,Rudolf Ferenc,0,-0.5858771665552741,0.2641527235267396
+2152075773,Clone Smells in Software Evolution,2007,23,79,2,1.0,238460838,Tibor Bakota,0,-0.0291855379334779,0.0585196112869768
+2161373306,Columbus - reverse engineering tool and schema for C++,2002,17,159,1,1.0,1974967662,Rudolf Ferenc,0,-0.14130990982849,-0.2217319337914215
+2249070979,F aultBuster An Automatic Code Smell,2015,11,0,2,0.166276,338142338,Tibor GyimÃ³thy,0,-0.0291855379334779,0.0585196112869768
+2209411406,Complexity measures in 4GL environment,2011,18,7,3,1.0,2134197946,Csaba Nagy,0,-0.0291855379334779,0.0585196112869768
+2403188685,Designing and Developing Automated Refactoring Transformations An Experience Report,2016,16,5,3,1.0,2225685944,Gabor Szoke,0,-0.0291855379334779,0.0585196112869768
+2406602165,A Code Refactoring Dataset and Its Assessment Regarding Software Maintainability,2016,18,14,2,0.0,2400659710,IstvÃ¡n KÃ¡dÃ¡r,0,-0.0291855379334779,0.0585196112869768
+2561228031,Transforming C++11 Code to C++03 to Support Legacy Compilation Environments,2016,13,0,5,0.0,2250769644,Gabor Antal,0,0.11380468322400268,0.4189154315443502
+2512989791,Empirical study on refactoring large-scale industrial systems and its effects on maintainability,2017,52,10,4,0.0,2771904857,Gbor Szke,0,0.16507363120930635,-0.2696288139740148
+2611238098,Proceedings of the European Conference on Software Maintenance and Reengineering CSMR Welcome from the conference chairs,2011,0,0,1,1.0,1974967662,Rudolf Ferenc,0,-0.0291855379334779,0.0585196112869768
+2603471611,Connection Between Version Control Operations and Quality Change of the Source Code,2014,19,7,3,1.0,1997462532,Csaba FaragÃ³,0,-0.0291855379334779,0.0585196112869768
+2949905013,Poster Supporting JavaScript Experimentation with BugsJS,2019,11,0,6,0.0,2222547874,Bela Vancsics,0,-0.0291855379334779,0.0585196112869768

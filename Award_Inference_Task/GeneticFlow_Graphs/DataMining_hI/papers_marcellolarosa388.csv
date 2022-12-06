@@ -1,0 +1,85 @@
+264360814,Log delta analysis Interpretable differencing of Business process event logs,2015,0,1,4,0.833333,2502610808,Nick van Beest,0,0.003708468606338,0.082832279151172
+281005445,Fast and Accurate Business Process Drift Detection,2015,24,19,3,1.0,2015048093,Abderrahmane Maaradji,0,-1.5726867155455748,1.3008702324701842
+282568243,Noise filtering of process execution logs based on outliers detection,2015,16,4,3,0.0,1987818517,Arthur H. M. ter Hofstede,0,0.3633100666079992,0.1429165792180376
+1496763101,Questionnaire-driven configuration of reference process models,2007,18,69,1,1.0,2136272530,Marcello La Rosa,0,-0.0160484811255519,-0.31555163086887356
+1515421961,Detecting approximate clones in business process model repositories,2015,59,18,1,1.0,2136272530,Marcello La Rosa,0,-0.6765548305973264,2.115837301902431
+1545366882,Slice mine and dice complexity-aware automated discovery of business process models,2013,24,35,4,0.8,1998647084,Chathura C. Ekanayake,0,-0.21934185016841626,0.6056873083074126
+1509707899,Configurable Process Models Experiences from a Municipality Case Study,2009,13,81,5,0.0,2058030690,Florian Gottschalk,0,0.09306936451958565,0.4540149294292737
+1565898791,Detecting approximate clones in process model repositories with Apromore,2012,7,2,4,0.8,1998647084,Chathura C. Ekanayake,0,-0.21934185016841626,0.6056873083074126
+1576354363,BPMN Miner,2016,26,39,3,0.79978,2030384656,Luciano GarcÃ­a BaÃ±uelos,0,0.003708468606338,0.082832279151172
+1626459767,Beyond Control-Flow Extending Business Process Configuration to Roles and Objects,2008,27,73,1,1.0,2136272530,Marcello La Rosa,0,0.003708468606338,0.082832279151172
+1590403160,Supporting risk-informed decisions during business process execution,2013,18,49,3,1.0,2103006741,Raffaele Conforti,0,0.2527678242109362,0.4965890919197265
+1590957121,Thresholds for error probability measures of business process models,2012,0,0,4,0.0,1983458687,Jan Mendling,0,0.003708468606338,0.082832279151172
+1591360767,Approximate clone detection in repositories of business process models,2012,20,48,4,0.8,1998647084,Chathura C. Ekanayake,0,-0.8796665852869533,2.5183744444455836
+1601449696,BPMN miner Automated discovery of BPMN process models with hierarchical structure,2016,0,15,4,1.0,2103006741,Raffaele Conforti,0,0.003708468606338,0.082832279151172
+1593225548,Automated error correction of business process models,2011,17,28,2,0.0,2123987718,Mauro Gambini,0,0.003708468606338,0.082832279151172
+1998473023,Thresholds for error probability measures of business process models,2012,60,55,4,0.0,1983458687,Jan Mendling,0,0.003708468606338,0.082832279151172
+2011469345,Configurable multi-perspective business process models,2011,40,143,1,1.0,2136272530,Marcello La Rosa,0,0.003708468606338,0.082832279151172
+2129354183,Simplifying process model abstraction Techniques for generating model names,2014,104,18,4,0.0,2014405324,Henrik Leopold,0,0.003708468606338,0.082832279151172
+2135482650,Fast detection of exact clones in business process model repositories,2013,31,39,3,0.0728243,2250777962,Marlon Dumas,0,-0.13275296294680305,-0.071629888206014
+2115894547,Correctness of Business Process Models with Roles and Objects,2008,28,8,3,0.0,1983458687,Jan Mendling,0,0.003708468606338,0.082832279151172
+2124686714,Clone detection in repositories of business process models,2011,23,56,4,0.0,2132535295,Reina Uba,0,-0.13275296294680305,-0.071629888206014
+2113280469,Ensuring correctness during process configuration via partner synthesis,2012,55,37,3,0.0,270949118,Wil M. P. van der Aalst,0,0.003708468606338,0.082832279151172
+2116677259,Business Process Model Merging An Approach to Business Process Consolidation,2013,33,159,1,1.0,2136272530,Marcello La Rosa,0,0.003708468606338,0.082832279151172
+2162432184,Discovering characteristics of stochastic collections of process models,2011,15,6,2,0.0,2403276359,Kees M. van Hee,0,0.003708468606338,0.082832279151172
+2260214316,Complete and interpretable conformance checking of business processes,2017,0,0,4,0.728675,2030384656,Luciano GarcÃ­a BaÃ±uelos,0,0.03452684058154445,0.38161437663138903
+2294619265,Log Delta Analysis Interpretable Differencing of Business Process Event Logs,2015,15,32,4,0.833333,2502610808,Nick van Beest,0,0.003708468606338,0.082832279151172
+2524473748,Filtering Out Infrequent Behavior from Business Process Event Logs,2017,37,50,2,1.0,2103006741,Raffaele Conforti,0,-0.02307947247394463,0.2572852341568436
+2572662996,Characterizing drift from event streams of business processes,2017,22,11,3,0.896552,2116989029,Alireza Ostovar,0,0.8767880345326344,-0.36885977598450004
+2581850389,Comparing static and dynamic aspects of patient flows via process model visualisations,2016,0,2,5,0.0,1983572537,Anastasiia Pika,0,0.41096771171138063,1.1367395913703142
+2510692861,Tell me whatâ€™s ahead Predicting remaining activity sequences of business process instances,2016,0,2,2,0.0,2009199138,Fabrizio Maria Maggi,0,0.43162625009792,0.20195636031746017
+2563414123,BPMN Miner 20 Discovering hierarchical and block-structured BPMN process models,2016,4,0,3,1.0,2103006741,Raffaele Conforti,0,1.7807327033056022,1.1133168074449251
+2553057310,Filtering out infrequent behavior from business process event logs,2017,0,1,2,1.0,2103006741,Raffaele Conforti,0,-0.10735257715986128,0.34811189279891624
+2514376410,Business Process Deviance Mining Review and Evaluation,2016,17,3,3,1.0,2442730053,Hoang Nguyen,0,-0.1641704398581047,-0.20514390497395468
+2613062404,Automated Discovery of Process Models from Event Logs Review and Benchmark,2017,41,7,4,1.0,2528265962,Adriano Augusto,0,0.003708468606338,0.082832279151172
+2613141550,Scalable Conformance Checking of Business Processes,2017,27,14,4,1.0,2699755792,Daniel ReiÃŸner,0,0.003708468606338,0.082832279151172
+2726113388,Detecting Sudden and Gradual Drifts in Business Processes from Execution Traces,2017,33,13,3,0.833333,2015048093,Abderrahmane Maaradji,0,0.8767880345326344,-0.36885977598450004
+2595077599,Business Process Variability Modeling A Survey,2017,99,144,1,1.0,2136272530,Marcello La Rosa,0,0.003708468606338,0.082832279151172
+2729419448,Fast detection of exact clones in business process model repositories,2013,0,0,3,0.0728243,2250777962,Marlon Dumas,0,-0.13275296294680305,-0.071629888206014
+2607376709,Split miner Fast automated discovery of simple andaccurate BPMN process models,2017,0,0,2,1.0,2103006741,Raffaele Conforti,0,0.003708468606338,0.082832279151172
+2588660802,Mining Business Process Stages from Event Logs,2017,18,4,4,1.0,2442730053,Hoang Nguyen,0,-0.13793882823340797,0.25689975209751925
+2626159271,Automated Discovery of Structured Process Models FromEvent Logs The Discover-and-Structure Approach,2017,0,0,2,1.0,2103006741,Raffaele Conforti,0,0.003708468606338,0.082832279151172
+2725153349,White-box prediction of process performance indicators via flow analysis,2017,26,7,3,0.909091,2186061265,Ilya Verenich,0,0.003708468606338,0.082832279151172
+2773897169,Split Miner Discovering Accurate and Simple Business Process Models from Event Logs,2017,22,27,4,1.0,2528265962,Adriano Augusto,0,0.003708468606338,0.082832279151172
+2737745668,Outcome-Oriented Predictive Process Monitoring Review and Benchmark,2017,29,8,3,0.0,2178199667,Irene Teinemaa,0,0.2120537183900477,-0.07168370588315305
+2745988165,Split miner Discovering accurate and simple business process models from event logs,2017,0,0,4,1.0,2528265962,Adriano Augusto,0,0.003708468606338,0.082832279151172
+2752310792,Detecting sudden and gradual drifts in business processes from Execution traces,2017,0,0,3,0.833333,2015048093,Abderrahmane Maaradji,0,0.8767880345326344,-0.36885977598450004
+2770827377,Discovering Process Maps from Event Streams,2018,5,2,4,1.0,2770571688,Volodymyr Leno,0,0.003708468606338,0.082832279151172
+2788885404,Filtering Spurious Events from Event Streams of Business Processes,2018,23,8,5,0.405405,2395246197,Sebastiaan J. van Zelst,0,0.2753300656356445,-0.0251952188339077
+2806213802,Checking Business Process Correctness in Apromore,2018,17,0,2,0.0,2670219681,Fabrizio Fornari,0,0.003708468606338,0.082832279151172
+2901934595,Robust drift characterization from event streams of business processes,2020,25,1,3,1.0,2116989029,Alireza Ostovar,0,0.8767880345326344,-0.36885977598450004
+2902130995,Predicting process performance A white-box approach,2017,0,0,2,0.0,1987818517,Arthur H. M. ter Hofstede,0,0.003708468606338,0.082832279151172
+2921965614,Automated discovery of process models from event logs Review and benchmark,2017,0,1,4,1.0,2528265962,Adriano Augusto,0,0.003708468606338,0.082832279151172
+2900096409,Mining business process stages from event logs,2017,0,1,3,0.0,2166034414,Hoang Huy Nguyen,0,-0.13793882823340797,0.25689975209751925
+2911426928,Local Concurrency Detection in Business Process Event Logs,2019,33,3,3,1.0,227257679,Abel Armas Cervantes,0,0.25235419817031923,0.29908491992104796
+2926322826,Predicting process performance A whiteâ€box approach based on process models,2019,42,2,1,1.0,2136272530,Marcello La Rosa,0,0.003708468606338,0.082832279151172
+2893503709,Multi-perspective Comparison of Business Process Variants Based on Event Logs,2018,12,3,3,1.0,2442730053,Hoang Nguyen,0,0.003708468606338,0.082832279151172
+2963107557,Automated Discovery of Process Models from Event Logs Review and Benchmark,2019,108,60,4,0.971831,2528265962,Adriano Augusto,0,0.11672415509507165,0.0338187686908989
+2963417374,Business Process Deviance Mining Review and Evaluation,2016,0,1,3,1.0,2442730053,Hoang Nguyen,0,-0.1641704398581047,-0.20514390497395468
+2964196641,Discovering process maps from event streams,2018,21,4,4,1.0,2770571688,Volodymyr Leno,0,0.003708468606338,0.082832279151172
+2982636875,A Probabilistic Approach to Event-Case Correlation for Process Mining,2019,17,2,3,0.0,2982557361,Dina Bayomie,0,0.003708468606338,0.082832279151172
+2996173370,Business Process Variant Analysis based on Mutual Fingerprints of Event Logs,2019,18,0,2,0.0,2565189295,Farbod Taymouri,0,0.003708468606338,0.082832279151172
+3005490091,Fast and accurate business process drift detection,2015,0,6,3,1.0,2015048093,Abderrahmane Maaradji,0,0.8767880345326344,-0.36885977598450004
+3005824849,Slice mine and dice complexity-aware automated discovery of business process models,2013,0,0,4,0.8,1998647084,Chathura C. Ekanayake,0,-0.21934185016841626,0.6056873083074126
+3027356875,Robust Drift Characterization from Event Streams of Business Processes,2018,0,3,3,1.0,2116989029,Alireza Ostovar,0,0.003708468606338,0.082832279151172
+3028378014,Scalable Alignment of Process Models and Event Logs An Approach Based on Automata and S-Components,2020,40,0,6,1.0,2699755792,Daniel ReiÃŸner,0,0.003708468606338,0.082832279151172
+2016728294,Questionnaire-based variability modeling for system configuration,2009,30,115,1,1.0,2136272530,Marcello La Rosa,0,0.003708468606338,0.082832279151172
+2737332333,A recommendation system for predicting risks across multiple business process instances,2015,43,66,4,1.0,2103006741,Raffaele Conforti,0,0.17408159598889142,0.475328177827614
+1606306571,Beyond tasks and gateways Discovering BPMN models with subprocesses boundary events and activity markers,2014,25,27,4,1.0,2103006741,Raffaele Conforti,0,0.003708468606338,0.082832279151172
+1762201507,Mining business process deviance a quest for accuracy,2014,17,33,3,1.0,2442730053,Hoang Nguyen,0,0.003708468606338,0.082832279151172
+2002962776,Controlled automated discovery of collections of business process models,2014,39,17,3,1.0,2030384656,Luciano GarcÃ­a BaÃ±uelos,0,-0.21934185016841626,0.6056873083074126
+2256437690,Minimizing Overprocessing Waste in Business Processes via Predictive Activity Ordering,2016,22,11,5,0.904762,2186061265,Ilya Verenich,0,0.003708468606338,0.082832279151172
+2412403988,Automated Discovery of Structured Process Models Discover Structured vs Discover and Structure,2016,21,24,5,1.0,2528265962,Adriano Augusto,0,0.003708468606338,0.082832279151172
+2581522324,Predictive Business Process Monitoring with LSTM Neural Networks,2017,28,100,4,0.0,2148886156,Niek Tax,0,0.003708468606338,0.082832279151172
+2557821253,Complex symbolic sequence clustering and multiple classifiers for predictive process monitoring,2016,28,18,4,0.904762,2186061265,Ilya Verenich,0,-0.18766498283334174,0.8944244430733977
+2802358804,Automated discovery of structured process models from event logs The discover-and-structure approach,2018,31,10,5,0.971831,2528265962,Adriano Augusto,0,0.003708468606338,0.082832279151172
+2810320091,Predictive Process Monitoring in Apromore,2018,5,1,6,0.909091,2186061265,Ilya Verenich,0,0.26752686911001694,0.5181681848187781
+2804147849,Split Miner Automated Discovery of Accurate and Simple Business Process Models from Event Logs,2019,39,15,5,0.971831,2528265962,Adriano Augusto,0,0.003708468606338,0.082832279151172
+2887720591,Abstract-and-Compare A Family of Scalable Precision Measures for Automated Process Discovery,2018,19,6,6,0.971831,2528265962,Adriano Augusto,0,0.003708468606338,0.082832279151172
+2945372161,Stage-based discovery of business process models from event logs,2019,40,0,5,1.0,2442730053,Hoang Nguyen,0,0.003708468606338,0.082832279151172
+2978996608,Beyond tasks and gateways discovering BPMN models with subprocesses boundary events and activity markers,2014,0,0,4,1.0,2103006741,Raffaele Conforti,0,0.003708468606338,0.082832279151172
+2996696953,Automated discovery of declarative process models with correlated data conditions,2020,8,1,5,1.0,2770571688,Volodymyr Leno,0,-0.21934185016841626,0.6056873083074126
+1882489098,Improving Business Process Models Using Observed Behavior,2012,22,23,3,0.0,2565685503,Jcam Joos Buijs,0,0.003708468606338,0.082832279151172
+2110047267,Indexing and efficient instance-based retrieval of process models using untanglings,2014,29,9,2,0.0,2003201491,Artem Polyvyanyy,0,-0.027691888486924266,0.2273126010984491
+2463319373,Detecting drift from event streams of unpredictable business processes,2016,18,15,3,0.896552,2116989029,Alireza Ostovar,0,0.8767880345326344,-0.36885977598450004
+2979930862,Detection and removal of infrequent behavior from event streams of business processes,2020,25,0,6,0.405405,2395246197,Sebastiaan J. van Zelst,0,0.2753300656356445,-0.0251952188339077

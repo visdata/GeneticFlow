@@ -1,0 +1,53 @@
+69843719,The A dynamic index for multidimensional ob-jects,1987,0,8,1,1.0,258753967,Nick Roussopoulos,0,0.796835981627807,-0.4740567259277684
+177379855,Reference Model for DBMS Standardization Database Architecture Framework Task Group (DAFTG) of the ANSI/X3/SPARC Database System Study Group,1985,0,68,8,0.0,2659012590,Thomas Burns,0,-1.9807816064099064,0.8102888114628962
+109653991,Cubetree Organization of and Bulk Updates on the Data Cube,1997,0,33,1,1.0,258753967,Nick Roussopoulos,0,0.003708468606338,0.082832279151172
+164051936,The R+ - tree A Dynamic Index for Multi - dimensional Data,1987,0,17,1,1.0,258753967,Nick Roussopoulos,0,0.1840346610184617,-0.5586665846165391
+29997053,The Complexity of Fully Materialized Coalesced Cubes,2004,0,13,2,1.0,212794494,Yannis Sismanis,0,0.003708468606338,0.082832279151172
+34639265,Review - Data Cube A Relational Aggregation Operator Generalizing Group-By Cross-Tab and Sub-Total,1999,0,4,1,1.0,258753967,Nick Roussopoulos,0,0.003708468606338,0.082832279151172
+817176973,An incremental database access method for autonomous interoperable databases,1994,0,0,1,1.0,258753967,Nick Roussopoulos,0,-0.5934923614992935,0.14535472691008477
+1507719695,Multidimensional Access Methods Trees Have Grown Everywhere,1997,0,32,2,0.124175,2062009547,Timos Sellis,0,-0.5454619768840632,0.41211953999546713
+1571469688,Hierarchical In-Network Data Aggregation with Quality Guarantees,2004,16,152,3,1.0,332649176,Antonios Deligiannakis,0,-0.3011331851164172,-0.15588985616037465
+1526692684,K-Nearest Neighbor Search for Moving Query Point,2001,15,316,2,0.0,2158807239,Zhexuan Song,0,-0.7579612126058811,1.3598782376159153
+1501197004,Balancing performance and data freshness in web database servers,2003,17,41,2,0.666667,119288298,Alexandros Labrinidis,0,-0.045999268485600174,-2.524281145377138
+1879637716,Adaptive database buffer allocation using query feedback,1993,16,28,1,1.0,258753967,Nick Roussopoulos,0,-0.0395804122397981,0.0068802457672825015
+1608393615,Dwarf cube architecture for reducing storage sizes of multidimensional data,2002,22,111,1,1.0,258753967,Nick Roussopoulos,0,0.05847481747302704,0.20796067160844078
+1947513794,The polynomial complexity of fully materialized coalesced cubes,2004,20,25,2,1.0,212794494,Yannis Sismanis,0,0.1656019551103819,0.40049106199639006
+1835416193,The implementation and performance evaluation of the ADMS query optimizer integrating query result caching and matching,1994,24,121,1,1.0,258753967,Nick Roussopoulos,0,-0.1029618939806145,0.040434369851773004
+1966247000,Extended wavelets for multiple measures,2003,29,49,2,1.0,332649176,Antonios Deligiannakis,0,-0.3049247326517621,0.1886461481807304
+1974988692,TORUS A step towards bridging the gap between data bases and the casual userâ˜†,1976,16,26,1,1.0,258753967,Nick Roussopoulos,0,0.003708468606338,0.082832279151172
+1976860585,Dynamic access control for relational views,1985,7,5,1,1.0,258753967,Nick Roussopoulos,0,-1.0358684917042598,0.45542366071304263
+2003238991,Querying structured data in an unstructured P2P system,2004,11,5,3,0.193548,1886388312,Verena Kantere,0,-0.10173529049600845,0.25402026621535645
+1991169832,Expert database systems efficient support for engineering environments,1988,33,6,2,0.272727,2062009547,Timos Sellis,0,-1.1509654675773615,0.5884693831803013
+1998147193,An incremental access method for ViewCache concept algorithms and cost analysis,1991,29,109,1,1.0,258753967,Nick Roussopoulos,0,-0.4510729884163594,0.24846660988711605
+1991383761,Direct spatial search on pictorial databases using packed R-trees,1985,11,306,1,1.0,258753967,Nick Roussopoulos,0,0.2898511316953674,0.5550954509480684
+2002110616,Bandwidth-constrained queries in sensor networks,2008,42,12,3,0.661765,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+1995312751,Efficient compilation of large rule bases using logical access paths,1990,21,7,2,0.21159,2062009547,Timos Sellis,0,0.2411296976350509,0.19514062197806442
+2006249742,GrouPeer Dynamic clustering of P2P databases,2009,46,37,4,0.193548,1886388312,Verena Kantere,0,-0.43825303044853925,0.9254690274034432
+2031513076,Exploring the tradeoff between performance and data freshness in database-driven Web servers,2004,32,62,2,0.666667,119288298,Alexandros Labrinidis,0,-1.4660501110560877,-0.3830609648713538
+2014257213,Interoperability of multiple autonomous databases,1990,29,390,3,0.0,1969171325,Witold Litwin,0,-1.7803039936071896,0.5553013867678497
+2027048017,Incrementally maintained network relational database mapping,1992,23,7,1,1.0,258753967,Nick Roussopoulos,0,-2.122775761794265,0.7248293844756625
+2047809518,View indexing in relational databases,1982,20,140,1,1.0,258753967,Nick Roussopoulos,0,-2.294359685735283,0.6497446439637767
+2046144220,Nearest neighbor queries,1995,14,1308,1,1.0,258753967,Nick Roussopoulos,0,-0.5481616817769454,1.3490730251270169
+2049859567,Dwarf shrinking the PetaCube,2002,25,197,3,1.0,212794494,Yannis Sismanis,0,0.4840117750026829,0.8914964913309165
+2041387176,Using differential techniques to efficiently support transaction time,1993,61,16,3,0.307692,2159644763,Christian S. Jensen,0,-0.7652445304050755,0.35768176891853587
+2066427923,Approximate pattern matching in a pattern database system,1980,2,14,2,0.0,2123954037,Larry S. Davis,0,0.003708468606338,0.082832279151172
+2059632502,Processing approximate aggregate queries in wireless sensor networks,2006,31,35,3,1.0,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+2061751973,A case for dynamic view management,2001,54,73,2,0.187008,306802008,Yannis Kotidis,0,-0.20666238819561256,0.5820432119787007
+2064383543,Extended wavelets for multiple measures,2007,34,31,3,0.951219,332649176,Antonios Deligiannakis,0,1.2182067606106117,0.3929018396063729
+2097737823,Using 2-way semijoins in distributed query processing,1987,2,6,2,0.0,2304598728,Hyunchul Kang,0,-1.093464009683283,0.5563900841872272
+2079383460,The ADMS Project View R Us,1995,0,36,1,1.0,258753967,Nick Roussopoulos,0,0.003708468606338,0.082832279151172
+2079399699,Using semantic networks for data base management,1975,10,112,1,1.0,258753967,Nick Roussopoulos,0,1.4931178792952848,-2.9144592730009347
+2090012241,Dissemination of compressed historical information in sensor networks,2007,64,22,3,0.951219,332649176,Antonios Deligiannakis,0,0.003708468606338,0.082832279151172
+2081756696,Compressing historical information in sensor networks,2004,31,163,3,1.0,332649176,Antonios Deligiannakis,0,-0.21934185016841626,0.6056873083074126
+2138793904,Adaptive selectivity estimation using query feedback,1994,21,175,1,1.0,258753967,Nick Roussopoulos,0,-0.7300378978769722,0.06347548171140686
+2127883843,An algebra and calculus for relational multidatabase systems,1991,3,10,1,1.0,258753967,Nick Roussopoulos,0,-1.956131011670897,0.8982853619939508
+2125341508,Techniques for update handling in the enhanced client-server DBMS,1998,51,11,2,0.0,1977083973,Alex Delis,0,0.2065100717332588,0.38359347804226923
+2131322424,Incremental implementation model for relational databases with transaction time,1991,39,76,3,0.307692,2159644763,Christian S. Jensen,0,-1.195055131818329,0.364165817874326
+2116926680,A pipeline N-way join algorithm based on the 2-way semijoin program,1991,25,38,1,1.0,258753967,Nick Roussopoulos,0,-1.5201152411054544,0.7005428847315626
+2131620262,The R+-Tree A Dynamic Index for Multi-Dimensional Objects,1987,18,1152,2,0.272727,2062009547,Timos Sellis,0,0.2740588228285972,-0.01807577602246409
+2111062386,ADMS a testbed for incremental access methods,1993,23,18,1,1.0,258753967,Nick Roussopoulos,0,0.36001357038168563,-0.0357670607851165
+2134791702,Hierarchical dwarfs for the rollup cube,2003,26,40,4,1.0,212794494,Yannis Sismanis,0,0.7223997089070932,0.18657054121651528
+2144804283,Integrating distributed scientific data sources with MOCHA and XRoaster,2001,7,2,1,1.0,258753967,Nick Roussopoulos,0,-0.22114624865019536,-0.11885719005731872
+2152351984,Maintaining implicated statistics in constrained environments,2005,30,1,2,1.0,212794494,Yannis Sismanis,0,-0.3675468311876023,-0.14265402350713668
+2329269221,On query-processing in distributed database systems,1987,0,1,1,1.0,258753967,Nick Roussopoulos,0,-1.0204708962104652,0.6455616069479092
+2296573204,WebView materialization,2000,26,94,2,0.439024,119288298,Alexandros Labrinidis,0,-0.3394380530009998,-0.0716407767871401

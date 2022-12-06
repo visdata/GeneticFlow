@@ -1,0 +1,106 @@
+106095420,Token-based Web Single Signon with Enabled Clients,2002,1,14,2,0.138443,2004230566,Michael Waidner,0,-0.5827723358226328,0.2796586863020922
+141094823,A General Framework for Formal Notions of &quot;Secure&quot; Systems,1994,24,25,2,0.5,2004230566,Michael Waidner,0,-0.023550276898621297,0.7099097923564667
+142858993,Asymmetric Fingerprinting (Extended Abstract),1996,13,16,1,1.0,2574976859,Birgit Pfitzmann,0,0.0040557659796233,0.2757546058061082
+92291768,Privacy in Enterprise Identity Federation,2003,9,18,1,1.0,2574976859,Birgit Pfitzmann,0,-0.4820269334888316,1.0416507976206755
+109492686,Fail-stop Signatures and their Application,1991,20,22,2,0.0,2004230566,Michael Waidner,0,-0.36101497251720427,-1.3258694356938752
+160350621,Service-oriented Assurance â€” Comprehensive Security by Explicit Assurances,2006,14,23,4,0.0,1494517121,GÃ¼nter Karjoth,0,-0.03098834458955646,0.07684426089109293
+224435485,Federated Identity Management,2007,36,14,2,0.0,2001749418,Jan Camenisch,0,-1.1604241050980815,-0.11531690350840094
+170611514,Provably Secure Certified Mail,2000,22,25,3,0.15896,2004230566,Michael Waidner,0,0.16735070259765691,0.36321631264311693
+284858815,Secure Electronic Commerce,2000,0,0,4,0.15896,2004230566,Michael Waidner,0,-0.3449252307530775,-0.672409039117886
+258367858,Management infrastructure analysis for cloud migration,2016,63,63,4,0.0,2022809487,Amitkumar M. Paradkar,0,0.0040557659796233,0.2757546058061082
+1008164772,DISCOVERY-BASED IDENTIFICATION AND MIGRATION OF EASILY CLOUDIFIABLE APPLICATIONS,2011,6,45,4,0.0,1971400030,Murthy V. Devarakonda,0,0.0040557659796233,0.2757546058061082
+1488297101,Security in business process engineering,2003,34,39,2,0.764706,2045355816,Michael Backes,0,0.3171484069971384,-0.13992525839030945
+1488721365,Digital Signature Schemes General Framework and Fail-Stop Signatures,1996,0,55,1,1.0,2574976859,Birgit Pfitzmann,0,-1.0802519263544725,-1.1599275109865035
+1551669288,Verlusttolerante elektronische Brieftaschen,1987,10,3,2,0.0,2004230566,Michael Waidner,0,-0.05967951576051686,0.2042922264036876
+1480815562,Unconditional Sender and Recipient Untraceability in spite of Active Attacks â€“ Some Remarks,2010,32,0,2,0.100886,2004230566,Michael Waidner,0,0.0040557659796233,0.2757546058061082
+1543618890,Anonymous Fingerprinting with Direct Non-repudiation,2000,24,51,1,1.0,2574976859,Birgit Pfitzmann,0,-0.5520016492484616,-0.42683318639448675
+1544320865,Providing identity-related information and preventing man-in-the-middle attacks,2003,3,36,2,0.121623,2004230566,Michael Waidner,0,-2.0200339556529436,-0.04260520236978601
+1499912117,Limits of the BRSIM/UC soundness of dolev-yao models with hashes,2006,41,12,2,0.270811,2045355816,Michael Backes,0,-0.5103417881226536,-1.3139620103841683
+1245487686,Secure and Anonymous Electronic Commerce Providing Legal Certainty in Open Digital Systems Without,2000,0,0,3,0.0,27868838,Andreas Pfitzmann,0,0.0040557659796233,0.2757546058061082
+1527856372,MAFTIA (Maliciousâˆ’ and Accidentalâˆ’ Fault Tolerance for Internet Applications,2001,101,27,13,0.0,207670028,Yves Deswarte,0,0.0040557659796233,0.2757546058061082
+1484172663,Symbolic and cryptographic analysis of the secure WS-ReliableMessaging scenario,2006,41,32,3,0.270811,2045355816,Michael Backes,0,-1.04102498767886,2.011262696274836
+1564775601,The dining cryptographers in the disco unconditional sender and recipient untraceability with computationally secure serviceability,1990,29,121,2,0.0,2004230566,Michael Waidner,0,-0.41961825221111093,-0.7001201992877742
+1502415516,Browser model for security analysis of browser-based protocols,2005,33,40,2,1.0,2163402659,Thomas GroÃŸ,0,-1.5907241925499285,-0.36744437307080635
+1512336051,Multi-layer audit of access rights,2007,25,2,1,1.0,2574976859,Birgit Pfitzmann,0,-0.2851452886423501,0.990063924968908
+1575608952,System and method for automatically discovering security classification of hosts,2009,7,3,2,0.0,2146232952,HariGovind V. Ramasamy,0,-0.9025989875472181,2.1260662071251955
+1549094757,Federated identity-management protocols,2003,13,37,1,1.0,2574976859,Birgit Pfitzmann,0,-1.2540390429146473,-0.015028106054227663
+1496015212,Self-Escrowed Cash against User Blackmailing,2000,19,11,1,1.0,2574976859,Birgit Pfitzmann,0,-0.3076550040749865,-0.45813499580433864
+1603778258,Justifying a dolev-yao model under active attacks,2005,94,0,2,0.361027,2045355816,Michael Backes,0,-1.270013923179659,-1.9473835506701858
+1585861293,Computational Probabilistic Non-interference,2002,70,39,2,0.764706,2045355816,Michael Backes,0,-0.31298971845344875,-0.23384499906955286
+1956945926,Key-dependent message security under active attacks - BRSIM/UC-soundness of Dolev-Yao-style encryption with key cycles,2008,38,17,2,0.217891,2045355816,Michael Backes,0,-0.14512272336245355,-1.0339926080593074
+1932302600,Composable security analysis of OS services,2011,19,5,4,0.0,687553606,Ran Canetti,0,-0.16226279780689024,-0.409071775356469
+1578158220,On the Cryptographic Key Secrecy of the Strengthened Yahalom Protocol,2006,31,16,2,0.270811,2045355816,Michael Backes,0,-0.11562728458437703,-1.6435910079508882
+1605744481,Symmetric Authentication Within a Simulatable Cryptographic Library,2003,25,60,2,0.764706,2045355816,Michael Backes,0,-1.1899049024165111,-2.480974981134592
+1578795731,Self-Delegation with Controlled Propagation - or - What If You Lose Your Laptop,1998,32,41,2,0.410724,65538393,Oded Goldreich,0,0.2844795987333888,-1.6580954279319242
+1596999748,SEMPER - Secure Electronic Marketplace for Europe,2000,1,36,4,0.15896,2004230566,Michael Waidner,0,0.1729053145306865,0.2370689713007511
+1598234123,Proving Ownership of Digital Content,1999,19,59,2,1.0,1270610900,AndrÃ© Adelsbach,0,0.2977030333544188,0.42209627204681427
+1589966220,Proceedings of the 11th ACM conference on Computer and communications security,2004,0,0,3,0.0,2056207806,Patrick McDaniel,0,0.0345193044346854,0.11711036493391322
+1599617995,Limits of the cryptographic realization of dolev-yao-style XOR,2005,49,30,2,0.361027,2045355816,Michael Backes,0,-0.8146073434864545,-1.3621591604044896
+1610603564,How To Break and Repair A Provably Secure Untraceable Payment System,1991,23,68,1,1.0,2574976859,Birgit Pfitzmann,0,0.5103162592827093,-0.6290324285323514
+1824407331,Verifiable agreement limits of non-repudiation in mobile peer-to-peer ad hoc networks,2006,25,0,3,0.0,1982785273,Zinaida Benenson,0,-0.47249940920358474,0.2365193108933169
+1583385494,Trials of Traced Traitors,1996,12,124,1,1.0,2574976859,Birgit Pfitzmann,0,-0.12495330569889534,-2.0817962967909422
+1601746932,Privacy in enterprise identity federation Policies for Liberty single signon -,2003,6,35,1,1.0,2574976859,Birgit Pfitzmann,0,-0.7068661883007931,0.8584528152448245
+1721847811,Attacks on protocols for server-aided RSA computation,1992,13,61,1,1.0,2574976859,Birgit Pfitzmann,0,0.036191276275480654,0.3679403960301915
+1971496191,Limits of the BRSIM/UC soundness of Dolevâ€“Yao-style XOR,2008,59,1,2,0.217891,2045355816,Michael Backes,0,-0.06056469816568272,-0.5937600441439524
+1971694152,Asymmetric fingerprinting for larger collusions,1997,21,90,1,1.0,2574976859,Birgit Pfitzmann,0,0.155870422438688,-0.3611899258997246
+1982325601,A composable cryptographic library with nested operations,2003,51,232,2,0.764706,2045355816,Michael Backes,0,-1.2292074287598422,-2.3177574647157746
+1979363094,Optimal efficiency of optimistic contract signing,1998,21,52,1,1.0,2574976859,Birgit Pfitzmann,0,0.0040557659796233,0.2757546058061082
+1965618985,Computational probabilistic noninterference,2004,71,10,2,0.55498,2045355816,Michael Backes,0,-0.31298971845344875,-0.23384499906955286
+1978269823,Sorting out signature schemes,1993,36,29,1,1.0,2574976859,Birgit Pfitzmann,0,-0.9523319361565522,-1.4307216927322113
+1995006038,Privacy in enterprise identity federation â€“ policies for Liberty 2 single sign on,2004,12,20,1,1.0,2574976859,Birgit Pfitzmann,0,-0.2734040131530037,1.4676338008795586
+2009469418,Reactively secure signature schemes,2005,42,17,2,0.361027,2045355816,Michael Backes,0,-0.21518519968121985,-1.8966010178332509
+2045870587,Proving a WS-federation passive requestor profile with a browser model,2005,22,20,1,1.0,2574976859,Birgit Pfitzmann,0,-0.8173402404244724,0.283013206116821
+2035473135,Managing business health in the presence of malicious attacks,2011,6,3,5,0.0,1499886386,Saman Zonouz,0,0.0040557659796233,0.2757546058061082
+2070653277,A cryptographically sound security proof of the Needham-Schroeder-Lowe public-key protocol,2004,50,35,2,0.55498,2045355816,Michael Backes,0,-1.2029800946347442,-1.7558513812909018
+2067560675,Symmetric authentication in a simulatable Dolev---Yao-style cryptographic library,2005,38,11,2,0.361027,2045355816,Michael Backes,0,-1.2703569884256816,-1.9887758685538601
+2058841145,How to break fraud-detectable key recovery,1998,7,17,1,1.0,2574976859,Birgit Pfitzmann,0,0.29125651816374365,-0.8238934546158861
+2069447774,Strong loss tolerance of electronic coin systems,1997,23,26,1,1.0,2574976859,Birgit Pfitzmann,0,0.0040557659796233,0.2757546058061082
+2096733704,Analysis of liberty single-sign-on with enabled clients,2003,8,76,1,1.0,2574976859,Birgit Pfitzmann,0,-2.0942060176048773,-0.12528911900857237
+2100331372,How to break another provably secure payment system,1995,17,10,1,1.0,2574976859,Birgit Pfitzmann,0,0.3171484069971384,-0.13992525839030945
+2085007689,Trusting mobile user devices and security modules,1997,11,116,2,0.0,27868838,Andreas Pfitzmann,0,-0.06882682971652375,0.2835116913221821
+2079705087,Relating symbolic and cryptographic secrecy,2005,35,17,2,0.361027,2045355816,Michael Backes,0,-0.17252221605230827,-1.5044223961817993
+2123684861,The ESPRIT Project CAFE - High Security Digital Payment Systems,1994,20,120,8,0.0,2042602508,Jean Paul Boly,0,0.3501359820763205,-0.7102575592103004
+2135600671,A Toolkit for Managing Enterprise Privacy Policies,2003,15,90,2,0.764706,2045355816,Michael Backes,0,0.5550846232450317,2.1840253485899397
+2112896529,Relating symbolic and cryptographic secrecy,2005,35,64,2,0.361027,2045355816,Michael Backes,0,-0.10290624933798967,-1.4345705152282713
+2113040431,Privacy in browser-based attribute exchange,2002,12,48,1,1.0,2574976859,Birgit Pfitzmann,0,-1.4119719015239438,-0.2046029860395986
+2128435514,Proving a WS-Federation passive requestor profile,2004,17,12,2,1.0,2163402659,Thomas GroÃŸ,0,-0.9085276585283266,0.037562893740069846
+2119708968,A model for asynchronous reactive systems and its application to secure message transmission,2001,31,322,1,1.0,2574976859,Birgit Pfitzmann,0,-0.24560688515756263,-0.7988311717791025
+2150578163,Coin-based anonymous fingerprinting,1999,23,65,1,1.0,2574976859,Birgit Pfitzmann,0,0.3214599387999803,-0.8850017973077751
+2150776565,A Cryptographically Sound Security Proof of the Needham-Schroeder-Lowe Public-Key Protocol,2003,29,41,2,0.764706,2045355816,Michael Backes,0,-0.39169821220283096,-1.2678834920253337
+2181367747,A Cryptographically Sound Security Proof of the,2004,40,0,2,0.55498,2045355816,Michael Backes,0,-1.0509261988955456,-1.2431547405380046
+2160155646,Key-dependent Message Security under Active Attacks--BRSIM/UC-Soundness of Symbolic Encryption with Key Cycles,2007,33,32,3,0.259167,2045355816,Michael Backes,0,-0.16558226710364482,-1.0212160689435097
+2169605597,Future Directions in Secure Electronic Commerce,2000,0,1,4,0.15896,2004230566,Michael Waidner,0,0.0040557659796233,0.2757546058061082
+2152116576,Intransitive non-interference for cryptographic purposes,2003,29,44,2,0.764706,2045355816,Michael Backes,0,0.5374085245901413,0.03229796433575436
+2188624432,From Regulatory Policies to Event Monitoring Rules Towards Model-Driven Compliance Automation,2006,7,103,3,0.0,2308547266,Christopher J. Giblin,0,0.0040557659796233,0.2757546058061082
+2211383902,Creating a privacy policy from a process model and verifying the compliance,2008,6,6,5,0.104633,2004230566,Michael Waidner,0,0.6249636331793267,2.4401918421958917
+2230335129,Method and system for proving ownership of digital data,2000,4,51,2,1.0,1270610900,AndrÃ© Adelsbach,0,0.19906973190370303,0.22658084254197122
+2224381047,Method for tracing payment data in an anonymous payment system as well as payment system in which the method is applied,1996,6,8,2,0.298707,2004230566,Michael Waidner,0,0.036191276275480654,0.3679403960301915
+2274603906,The Commerce Layer A Framework for Commercial Transactions,2000,0,1,4,0.15896,2004230566,Michael Waidner,0,-0.0055216156628483315,0.8431774549076696
+2287961307,Breaking an efficient anonymous channel,1994,9,106,1,1.0,2574976859,Birgit Pfitzmann,0,0.5057885506398557,-0.19804025146176896
+2378652070,METHOD AND DEVICE FOR DUPLICATING A DATA CENTER,2015,17,0,2,0.0,2304036098,Michael E. Nidd,0,0.0040557659796233,0.2757546058061082
+2464573186,Limits to Anonymity When Using Credentials Authors reply,2006,0,0,9,0.0,22890495,George Danezis,0,-0.6504045269460969,-0.30208973028412667
+2472807300,Federated identity-management protocols Commentary Authors reply,2005,0,1,4,0.0,1945196828,Bruce Christianson,0,-1.2934924829942067,0.2995325792789478
+2461263883,Limitations of IPsec policy mechanisms Commentary Discussion,2005,0,0,6,0.0,156238471,Jari Arkko,0,-1.037868999352422,-0.06741402361843335
+2487365349,From security protocols to systems security Commentary Authors reply,2005,0,0,5,0.0,173124799,Pekka Nikander,0,-1.3598694034348564,2.2786073214831783
+2502262185,Client v server side protocols interfaces and storage Commentary Authors reply,2005,0,0,3,0.0,1945196828,Bruce Christianson,0,-0.4431931815570836,-0.6183190123592079
+2509369552,WAR Wireless Anonymous Routing Commentary Authors reply,2005,0,0,11,0.0,22890495,George Danezis,0,-0.21874684124243654,0.38453116398219406
+2509423372,Man-in-the-middle in tunnelled authentication protocols Extended abstract Commentary Authors reply,2005,0,10,12,0.0,156238471,Jari Arkko,0,-1.979859659236907,-2.0598148496099062
+2524411967,Towards a framework for autonomic security protocols Commentary Authors reply,2005,0,0,11,0.0,173124799,Pekka Nikander,0,-0.4431931815570836,-0.6183190123592079
+2512196366,Browser model for security analysis of browser-based protocols,2005,0,0,1,1.0,2574976859,Birgit Pfitzmann,0,-0.5576324643597165,-0.4551049165086067
+2522695069,A protocols life after attacks Commentary Authors reply,2005,0,0,13,0.0,22890495,George Danezis,0,-0.26453554363595083,-0.31036657631720344
+2593884246,Allocating and managing cloud computing resources for disaster recovery,2015,13,4,4,0.0,230403413,Gerhard Widmayer,0,1.445939643712114,0.9449033112448331
+2610291181,The ESPRIT project CAFE - High security digital payment systems,1994,0,4,8,0.0,2042602508,Jean Paul Boly,0,0.0040557659796233,0.2757546058061082
+2613655560,Self-Delegation with Controlled Propagation-or-What If You Lose Your Laptop,1998,0,1,3,0.410724,65538393,Oded Goldreich,0,0.3171484069971384,-0.13992525839030945
+2614426770,Reactively secure signature schemes,2003,0,0,2,0.764706,2045355816,Michael Backes,0,-0.43111345576792354,-0.7962276034858624
+2721203044,Reactively Secure Signature Schemes,2003,35,2,2,0.764706,2045355816,Michael Backes,0,-0.43111345576792354,-0.7962276034858624
+2914643374,A Cryptographically Sound Security Proof of the Needham-Schroeder-Lowe Public-Key Protocol (Extended Abstract),2003,8,0,2,0.764706,2045355816,Michael Backes,0,0.03910652856792115,-0.9542749174440527
+2949867740,Relating Symbolic and Cryptographic Secrecy,2004,0,2,2,0.55498,2045355816,Michael Backes,0,0.09331118645587472,-0.15275771086322695
+2950038310,Composable Security Analysis of OS Services,2010,0,1,4,0.0,687553606,Ran Canetti,0,0.2018268678365599,0.1425886522275585
+2952077253,Symmetric Authentication Within a Simulatable Cryptographic Library,2003,0,1,2,0.764706,2045355816,Michael Backes,0,-0.15864374652083932,-0.1879861517290886
+2950312798,Symbolic and Cryptographic Analysis of the Secure WS-ReliableMessaging Scenario,2006,0,0,3,0.270811,2045355816,Michael Backes,0,0.3171484069971384,-0.13992525839030945
+2950522731,Self-Delegation with Controlled Propagation - or - What If You Lose Your Laptop,1997,0,0,2,0.410724,65538393,Oded Goldreich,0,0.0040557659796233,0.2757546058061082
+2952661664,A Cryptographically Sound Security Proof of the Needham-Schroeder-Lowe Public-Key Protocol,2003,0,1,2,0.764706,2045355816,Michael Backes,0,0.03910652856792115,-0.9542749174440527
+2952892733,Key-dependent Message Security under Active Attacks - BRSIM/UC-Soundness of Symbolic Encryption with Key Cycles,2005,0,0,2,0.361027,2045355816,Michael Backes,0,0.155870422438688,-0.3611899258997246
+2953298321,A Universally Composable Cryptographic Library,2003,35,14,2,0.764706,2045355816,Michael Backes,0,-0.1339858828002986,-1.4075389910488751
+3025274859,Limits to anonymity when using credentials,2006,0,5,7,0.0,2950146702,Andreas Pashalidis,0,-1.2002551559032268,-0.14464287784171503
+3022372734,Limits to Anonymity When Using Credentials Authors reply,2006,0,0,9,0.0,22890495,George Danezis,0,-0.6504045269460969,-0.30208973028412667

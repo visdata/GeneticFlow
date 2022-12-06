@@ -1,0 +1,68 @@
+205416094,Anonymity-Preserving Public-Key Encryption A Constructive Approach,2013,28,7,1,1.0,1520953178,Markulf Kohlweiss,0,0.2725090094308923,-1.6676863998498512
+54995351,Selective Disclosure in Datalog-Based Trust Management,2013,46,2,3,1.0,1976017946,Nik Sultana,0,-0.3857762024513458,0.3785705487687621
+75729132,Proving the TLS Handshake Secure (As It Is),2014,58,48,3,0.152301,392089535,Karthikeyan Bhargavan,0,0.2310093647576035,-0.8572688913402173
+166631565,Self-certified Sybil-Free Pseudonyms Introducing Privacy in Infrastructureless Wireless Networks,2007,0,1,1,1.0,1520953178,Markulf Kohlweiss,0,0.02625131668771935,-1.434026238854738
+14398808,Differentially private billing with rebates,2011,24,54,2,0.0,22890495,George Danezis,0,-0.6841787962035465,0.3797825777965242
+271577796,Anonymous Transferable E-Cash,2015,49,18,4,0.0,2092420509,Foteini Baldimtsi,0,0.3171484069971384,-0.13992525839030945
+1551415041,Privacy-Preserving Metering with Low Overhead,2011,42,15,2,0.0,22890495,George Danezis,0,0.18646785605720706,-0.045953914025499254
+1525980904,Solving revocation with efficient update of anonymous credentials,2010,32,25,2,0.0,2001749418,Jan Camenisch,0,-0.6393288961146777,-1.3675110758988878
+1544624579,Threshold Things That Think Authorisation for Resharing,2009,16,8,2,0.0,1971561049,Roel Peeters,0,-0.8072088995407355,-0.6317803587707636
+1563556756,Geppetto Versatile Verifiable Computation,2015,53,86,4,0.0,2106128776,Craig Costello,0,-0.034391524424586525,-0.9802908542187406
+1546167911,Privacy-friendly aggregation for the smart-grid,2011,21,269,3,0.0,30684206,Klaus Kursawe,0,0.4439255215676152,-0.18911158259186167
+1502328873,An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials,2009,40,179,2,0.0,2001749418,Jan Camenisch,0,-1.0258563912265388,-0.7324425911098769
+1520146006,Analysis of revocation strategies for anonymous Idemix credentials,2011,29,41,2,0.344587,1139391116,Jorn Lapon,0,0.35083045299765797,0.14992447099288456
+1495444061,A Messy State of the Union Taming the Composite State Machines of TLS,2015,37,127,5,0.7,1044068175,Benjamin Beurdouche,0,-0.4447978403226499,-1.2229614100118928
+1794210664,Blind and Anonymous Identity-Based Encryption and Authorised Private Searches on Public Key Encrypted Data,2009,46,94,2,0.0,2001749418,Jan Camenisch,0,0.27931420599119505,-2.1254569412776765
+1931152882,P-signatures and noninteractive anonymous credentials,2008,47,152,3,0.5,2022202316,Mira Belenkiy,0,-0.5578378908971469,-0.8228775087433737
+1592672490,Efficient oblivious augmented maps location-based services with a payment broker,2007,31,19,1,1.0,1520953178,Markulf Kohlweiss,0,0.1413244625836287,-0.9249750196570877
+1976320870,Smart meter aggregation via secret-sharing,2013,0,0,3,0.0,22890495,George Danezis,0,0.5676011855290044,-0.29925708124711714
+1966034442,Smart meter aggregation via secret-sharing,2013,21,44,3,0.0,22890495,George Danezis,0,0.5727049862337061,-0.29711680195419876
+1976646754,Pinocchio coin building zerocoin from a succinct pairing-based proof system,2013,5,56,3,0.0,22890495,George Danezis,0,-0.1083241085868621,-1.7442984824884284
+2021135257,Pinocchio coin Building Zerocoin from a succinct pairing-based proof system,2013,0,0,3,0.0,22890495,George Danezis,0,-0.7830258437089852,-1.90468903222482
+2014456825,Threshold things that think usable authorization for resharing,2009,6,4,2,0.0,1971561049,Roel Peeters,0,0.10805734652262985,0.18157194626961187
+2073814996,Observing and Preventing Leakage in MapReduce,2015,27,23,5,0.0,131194035,Olga Ohrimenko,0,0.08260989344031648,0.07028827411204142
+2070775894,Implementing TLS with Verified Cryptographic Security,2013,70,114,3,0.152301,392089535,Karthikeyan Bhargavan,0,-0.9504708958709861,-1.5191527996769685
+2092617548,Optimally private access control,2013,37,3,1,1.0,1520953178,Markulf Kohlweiss,0,-0.9218728125606986,-0.10444718006818543
+2099537756,Modular code-based cryptographic verification,2011,61,55,2,0.0,1819774294,CÃ©dric Fournet,0,-1.0090412185860693,-1.4820469315507974
+2102730237,Non-Interactive Anonymous Credentials,2007,51,37,3,0.5,2022202316,Mira Belenkiy,0,-0.207295750700843,-0.9096487219169548
+2132117944,Performance Analysis of Accumulator-Based Revocation Mechanisms,2010,39,16,2,0.344587,1139391116,Jorn Lapon,0,-0.8081983659022167,-0.9022447112958133
+2127459648,Privacy preserving electronic petitions,2008,18,24,1,1.0,1520953178,Markulf Kohlweiss,0,-0.02323790623980715,1.2497034943633245
+2133420971,How to win the clonewars efficient periodic n-times anonymous authentication,2006,50,188,3,0.0,2001749418,Jan Camenisch,0,-0.5442740688670517,-0.38205079844387413
+2125309795,Pseudonyms and private credentials,2011,0,0,2,0.0,2001749418,Jan Camenisch,0,0.6418052666370381,-0.8084755284060676
+2171239146,Private client-side profiling with random forests and hidden markov models,2012,51,5,2,0.0,22890495,George Danezis,0,0.08663682498315435,-0.5653851768630418
+2150399720,Randomizable Proofs and Delegatable Anonymous Credentials,2009,40,27,4,0.5,2022202316,Mira Belenkiy,0,-0.7465744720779465,-1.1128018762770862
+2159701335,Self-certified Sybil-free pseudonyms,2008,15,36,2,0.0,2121717985,Leonardo A. Martucci,0,-0.2712253692887938,-0.02510850534214168
+2169904922,A self-certified and Sybil-free framework for secure digital identity domain buildup,2008,41,9,2,0.0,2024368814,Christer Andersson,0,-0.19513069865314403,-0.3715114526277368
+2163902533,ZQL a compiler for privacy-preserving data processing,2013,66,27,2,0.0,1819774294,CÃ©dric Fournet,0,0.3171484069971384,-0.13992525839030945
+2161044657,Exploiting cryptography for privacy-enhanced access control A result of the PRIME Project,2010,66,53,3,0.0,1999899624,Claudio Agostino Ardagna,0,0.32374521307431253,1.0030327537089745
+2170269683,Scramble your social network data,2011,19,68,2,0.0,2167979758,Filipe Beato,0,0.13894302089039248,0.1920498645609656
+2246637683,Accountable Metadata-Hiding Escrow A Group Signature Case Study,2015,15,3,1,1.0,1520953178,Markulf Kohlweiss,0,-0.297552481853103,-0.7990552487848341
+2195331489,Cryptographic Mechanisms for Privacy,2011,0,6,3,0.0,2001749418,Jan Camenisch,0,-0.11923685070992233,-0.2665459863174466
+2295240905,Composable and Modular Anonymous Credentials Definitions and Practical Constructions,2015,60,25,4,0.0,2001749418,Jan Camenisch,0,-1.7046225419855237,-1.1472155652109999
+2295619595,De-Constructing TLS 13,2015,24,13,1,1.0,1520953178,Markulf Kohlweiss,0,-0.8578959669548962,-0.7267574337950855
+2395368405,Downgrade Resilience in Key-Exchange Protocols,2016,47,15,5,0.122706,392089535,Karthikeyan Bhargavan,0,-0.5414811524531161,-0.7855603293046794
+2395521063,Accountable Tracing Signatures,2014,17,2,1,1.0,1520953178,Markulf Kohlweiss,0,0.38333304840531096,-0.17738675902466397
+2467562997,Overview of existing assurance methods in the area of privacy and IT security,2004,0,3,1,1.0,1520953178,Markulf Kohlweiss,0,-0.07757619093152505,1.7541534502533203
+2461055751,Algorithmic Solutions for Privacy Anonymity and Identity,2007,0,0,1,1.0,1520953178,Markulf Kohlweiss,0,0.27810602108584187,1.0796020653782368
+2462029305,Light at the middle of the tunnel middleboxes for selective disclosure of network monitoring to distrusted parties,2016,25,4,2,1.0,1976017946,Nik Sultana,0,-0.4158127361960821,1.6623670211526456
+2470176151,Cinderella Turning Shabby X509 Certificates into Elegant Anonymous Credentials with the Magic of Verifiable Computation,2016,64,12,3,0.45012,27630912,Antoine Delignat Lavaud,0,0.0647442513993843,-1.018072674305677
+2550710304,Privacy-preserving smart metering revisited,2018,53,6,3,0.0,2124170035,Alfredo Rial,0,0.18124124488436857,0.3042542371995782
+2521528431,Oblivious third parties in the IITM setting,2011,0,0,3,0.344587,1139391116,Jorn Lapon,0,0.0040557659796233,0.2757546058061082
+2528255891,Differentially private billing with rebates,2011,0,1,2,0.0,22890495,George Danezis,0,-0.17664966976103172,-0.22090139936777256
+2535060913,Hash First Argue Later Adaptive Verifiable Computations on Outsourced Data,2016,46,16,4,0.0,2098430168,Dario Fiore,0,-0.4632093310218741,-1.0195297872754696
+2580339477,A messy state of the union taming the composite state machines of TLS,2017,44,8,5,0.7,1044068175,Benjamin Beurdouche,0,-0.5102091754327447,-0.7528560560659388
+2564949988,miTLS Verifying Protocol Implementations against Real-World Attacks,2016,13,4,3,0.122706,392089535,Karthikeyan Bhargavan,0,-0.3449926546545242,-1.0306494954076024
+2609793794,Blind and Anonymous Identity-Based Encryption and Authorised Private Searches on Public Key Encrypted Data,2009,0,25,2,0.0,2001749418,Jan Camenisch,0,0.12863271201119833,-0.9688947641645543
+2610063894,An Accumulator Based on Bilinear Maps and Efficient Revocation for Anonymous Credentials,2009,0,1,2,0.0,2001749418,Jan Camenisch,0,0.35083045299765797,0.14992447099288456
+2640092413,Implementing and Proving the TLS 13 Record Layer,2017,35,25,4,0.0964592,392089535,Karthikeyan Bhargavan,0,-0.3852847149576867,-0.7859709228820732
+2614954398,Enforcing Access Control in Social Networks,2009,0,14,1,1.0,1520953178,Markulf Kohlweiss,0,-0.023550276898621297,0.7099097923564667
+2589633973,Analysis of revocation strategies for anonymous Idemix credentials,2011,0,1,2,0.344587,1139391116,Jorn Lapon,0,-0.6734768606244406,-0.5523562677732713
+2589716972,Data center privacy,2017,37,2,3,0.0,117801055,Christos Gkantsidis,0,0.155870422438688,-0.3611899258997246
+2612866259,New Results - Attacks and Proofs for Transport Layer Security,2015,0,0,4,0.398973,27630912,Antoine Delignat Lavaud,0,-0.36139017078501745,-0.6698254899516656
+2749125334,Multiparty Routing Secure Routing for Mixnets,2017,25,0,3,0.0,2583345766,Fatemeh Shirazi,0,0.0040557659796233,0.2757546058061082
+2908085188,Ouroboros Crypsinous Privacy-Preserving Proof-of-Stake,2019,22,4,2,0.0,2906995881,Thomas Kerber,0,0.3417398369299331,0.6107384638614741
+2951814185,Fully Structure-Preserving Signatures and Shrinking Commitments,2015,0,0,2,0.0,2942265051,Masayuki Abe,0,0.0040557659796233,0.2757546058061082
+2950778570,Anonymity-preserving Public-Key Encryption A Constructive Approach,2013,0,0,1,1.0,1520953178,Markulf Kohlweiss,0,-0.08474771359264915,-0.5128189573721691
+2952816927,One-out-of-Many Proofs Or How to Leak a Secret and Spend a Coin,2014,0,0,2,0.0,2138263338,Jens Groth,0,0.0040557659796233,0.2757546058061082
+2951006120,How to Win the Clone Wars Efficient Periodic n-Times Anonymous Authentication,2006,0,9,3,0.0,2001749418,Jan Camenisch,0,-1.1544765374928523,-0.014507437839115983
+2984674716,Sonic Zero-Knowledge SNARKs from Linear-Size Universal and Updatable Structured Reference Strings,2019,41,6,3,0.0,2731335659,Mary Maller,0,0.6225675638185036,-0.5738813886047684

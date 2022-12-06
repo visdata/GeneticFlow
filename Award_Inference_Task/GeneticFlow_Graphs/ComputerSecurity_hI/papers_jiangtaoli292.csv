@@ -1,0 +1,47 @@
+51944538,A practical device authentication scheme using SRAM PUFs,2011,15,15,2,0.0,27801536,Patrick Koeberl,0,-0.8300887913688131,-0.5039076921468506
+11554622,Key exchange with anonymous authentication using DAA-SIGMA protocol,2010,33,19,2,0.0,2297331152,Jesse Walker,0,-1.3610983555557161,-1.6561865717250839
+117813681,A Static Diffie-Hellman Attack on Several Direct Anonymous Attestation Schemes,2012,39,3,3,0.118441,2098628844,Ernie Brickell,0,-1.3991522781952408,-1.4605509786798132
+1532565518,Dynamic virtual credit card numbers,2007,19,23,2,0.0,1991166589,Ian Molloy,0,0.0040557659796233,0.2757546058061082
+1490495857,A pairing-based DAA scheme further reducing TPM resources,2010,21,54,2,0.161087,2098628844,Ernie Brickell,0,-1.1076453536963535,-0.9075641715596972
+1562394980,Universal Accumulators with Efficient Nonmembership Proofs,2007,42,93,1,1.0,2115155359,Jiangtao Li,0,-0.12696682559159952,-2.036896775303848
+1537060725,An anonymous attestation scheme with optional traceability,2010,46,2,1,1.0,2115155359,Jiangtao Li,0,-0.4326539907998356,-0.9065817019057241
+1547671177,Secure outsourcing of sequence comparisons,2004,37,5,2,0.0,1984264859,Mikhail J. Atallah,0,1.0148279357837102,-0.17555436131222457
+1503404955,Efficient correlated action selection,2006,31,7,4,0.12053,1984264859,Mikhail J. Atallah,0,0.2977030333544188,0.42209627204681427
+1566871698,OACerts oblivious attribute certificates,2005,43,19,1,1.0,2115155359,Jiangtao Li,0,0.193684422784317,-0.7113807547714015
+1540407391,Method of anonymous entity authentication using group-based anonymous signatures,2011,13,14,1,1.0,2115155359,Jiangtao Li,0,-0.960065270743429,-1.0789697770944897
+1671087934,Apparatus and method for enhanced revocation of direct proof and direct anonymous attestation,2007,12,35,2,1.0,243369459,Ernest F. Brickell,0,-0.3243769656735398,-1.261309074479146
+1678698024,Apparatus and method for direct anonymous attestation from bilinear maps,2007,20,32,2,1.0,243369459,Ernest F. Brickell,0,-0.8572213823642648,-0.6007089200061548
+1848906954,Evaluation of a PUF Device Authentication Scheme on a Discrete 013um SRAM,2011,0,2,2,0.0,27801536,Patrick Koeberl,0,-1.0770621036847867,-0.07562802494114818
+1598859488,Consumerization Consequences of Fuzzy Work-Home Boundaries,2012,21,1,3,0.0,2069028549,Claire Vishik,0,0.0040557659796233,0.2757546058061082
+1660073421,Direct anonymous attestation scheme with outsourcing capability,2012,22,18,2,0.118441,2098628844,Ernie Brickell,0,-1.158252306621566,-0.914525016268454
+1978192865,Denial of Service Attacks and Defenses in Decentralized Trust Management,2006,26,9,1,1.0,2115155359,Jiangtao Li,0,-0.9079825650622357,-0.17064879856054868
+1966073549,Revocation of direct anonymous attestation,2010,63,42,2,0.0,2109441081,Liqun Chen,0,-0.8544864207290717,-0.4931445869783491
+1992723624,Flexible and scalable digital signatures in TPM 20,2013,27,49,2,0.0,2109441081,Liqun Chen,0,-0.9564368243357495,-1.5630424293867293
+2005991258,Secure outsourcing of sequence comparisons,2005,37,140,2,0.0,1984264859,Mikhail J. Atallah,0,0.8866323065273579,-0.3022379484037254
+2006109307,Automated trust negotiation using cryptographic credentials,2009,51,25,1,1.0,2115155359,Jiangtao Li,0,-0.950329673402898,-0.525870143713787
+1993920884,Enhanced Privacy ID A Direct Anonymous Attestation Scheme with Enhanced Revocation Capabilities,2012,37,40,2,0.118441,2098628844,Ernie Brickell,0,-0.6893931833651181,-1.6202967237748649
+2052283299,Policy-hiding access control in open environment,2005,55,31,1,1.0,2115155359,Jiangtao Li,0,-0.6757608592343236,-0.49816854613716205
+2065458100,A note on the Chen--Morrissey--Smart DAA scheme,2010,8,6,2,0.0,2109441081,Liqun Chen,0,-0.769670080435484,-0.4356450072896801
+2097460241,Hidden access control policies with hidden credentials,2004,3,56,3,0.4,2951337581,Keith B. Frikken,0,-0.18589798401952085,-0.2909903722558017
+2104255672,OACerts Oblivious Attribute Certificates,2006,58,95,1,1.0,2115155359,Jiangtao Li,0,0.2063311491567509,-1.2942246034241824
+2135297873,Private collaborative forecasting and benchmarking,2004,26,109,3,0.0,1984264859,Mikhail J. Atallah,0,1.0148279357837102,-0.17555436131222457
+2130048459,Trust Negotiation with Hidden Credentials Hidden Policies and Policy Cycles,2006,33,44,2,0.4,2951337581,Keith B. Frikken,0,-0.9562612272374121,0.28987957352844057
+2107072059,VLR group signatures with indisputable exculpability and efficient revocation,2012,0,1,2,0.0,2109441081,Liqun Chen,0,-0.0647771426423831,-0.7829735435504864
+2134071831,Simplified security notions of direct anonymous attestation and a concrete scheme from pairings,2009,45,72,3,0.161087,2098628844,Ernie Brickell,0,-0.6679203370012531,-0.8095461309986294
+2144279894,Automated trust negotiation using cryptographic credentials,2005,51,124,1,1.0,2115155359,Jiangtao Li,0,-0.950329673402898,-0.525870143713787
+2159372323,Enhanced privacy id a direct anonymous attestation scheme with enhanced revocation capabilities,2007,36,104,2,0.161087,2098628844,Ernie Brickell,0,-0.6893931833651181,-1.6202967237748649
+2165637132,Denial of service attacks and defenses in decentralized trust management,2009,25,9,1,1.0,2115155359,Jiangtao Li,0,-0.9079825650622357,-0.17064879856054868
+2171820781,Attribute-Based Access Control with Hidden Policies and Hidden Credentials,2006,36,91,3,0.4,2951337581,Keith B. Frikken,0,-0.8518003069686849,-0.3667009459994278
+2184655038,Denial ofService Attacks andDefenses in Decentralized Trust Management,2006,1,0,1,1.0,2115155359,Jiangtao Li,0,-0.5270352766973222,-0.46727850976171115
+2169934175,Enhanced Privacy ID from Bilinear Pairing for Hardware Authentication and Attestation,2010,47,22,2,0.161087,2098628844,Ernie Brickell,0,-0.21592994572102361,-1.5205645980953522
+2164655772,Enhanced smart-card based license management,2003,23,23,2,0.0,1984264859,Mikhail J. Atallah,0,0.036191276275480654,0.3679403960301915
+2159084484,Enhanced privacy ID from bilinear pairing for hardware authentication and attestation,2011,0,26,2,0.141652,2098628844,Ernie Brickell,0,-0.28234719732077745,-1.358816147931912
+2271289974,Apparatus and method for a direct anonymous attestation scheme from short-group signatures,2008,4,34,2,0.161087,2098628844,Ernie Brickell,0,-0.8223380992421071,-0.601705852808441
+2287638433,Silicon PUFs in Practice,2011,25,1,2,0.0,27801536,Patrick Koeberl,0,-0.34948997476440713,-0.15980672794643175
+2281937455,Methods for anonymous authentication and key agreement,2010,19,55,1,1.0,2115155359,Jiangtao Li,0,-1.1103923341014177,-0.9929475220266952
+2318376218,Policy-Hiding Access Control in Open Environment (Extended Abstract),2005,48,0,1,1.0,2115155359,Jiangtao Li,0,0.6012814709372571,0.21925507039071113
+2398644494,Enhanced Privacy ID from Bilinear Pairing,2009,44,40,2,0.161087,2098628844,Ernie Brickell,0,-0.0544760209364426,-1.1494855522163003
+2416371045,Storage minimization technique for direct anonymous attestation keys,2008,8,28,2,1.0,243369459,Ernest F. Brickell,0,-0.7441118449142746,-0.7658570925878578
+2621307588,ISSE 2011 Securing Electronic Business Processes Highlights of the Information Security Solutions Europe 2011 Conference,2011,0,0,3,0.0,2069028549,Claire Vishik,0,-0.1773385929008878,0.7069782294431272
+2951957901,Enhanced Privacy ID A Direct Anonymous Attestation Scheme with Enhanced Revocation Capabilities,2007,0,0,2,0.161087,2098628844,Ernie Brickell,0,0.004645702669372698,-1.1276614618258403
+2950286347,Simplified Security Notions of Direct Anonymous Attestation and a Concrete Scheme from Pairings,2008,0,0,3,0.161087,2098628844,Ernie Brickell,0,-1.1532464129495215,-0.056633418534679986

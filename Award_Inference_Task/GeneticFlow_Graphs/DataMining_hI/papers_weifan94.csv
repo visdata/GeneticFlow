@@ -1,0 +1,128 @@
+4333350,A Multi-graph Spectral Framework for Mining Multi-source Anomalies,2013,31,11,5,0.280821,2096731881,Jing Gao,0,0.21833664421473187,0.04151084819688545
+157879897,Tutorial data stream mining and its applications,2012,0,4,2,0.0,2155983610,Latifur Khan,0,0.019686342438674245,0.4461644507536201
+178173006,Cost-sensitive scalable and adaptive learning using ensemble-based methods,2001,0,17,1,1.0,2491264568,Wei Fan,0,1.0912740644591286,0.4317581079641523
+97587332,Active mining of data streams,2004,5,89,1,1.0,2491264568,Wei Fan,0,-0.1071931497347323,0.3242721482837629
+115417595,ShareBoost boosting for multi-view learning with performance guarantees,2011,26,24,4,0.0,2140174629,Jing Peng,0,1.787411264638141,0.800395286448401
+64908097,A general framework for mining concept-drifting data streams with skewed distributions,2007,16,159,2,0.666667,2096731881,Jing Gao,0,-1.124351577557938,-0.5788435683692325
+333440521,Systems and methods for subspace clustering,2004,10,20,2,0.0,2125104194,Philip S. Yu,0,-0.8959485693131186,3.2980275125865974
+341336861,Classifying Imbalanced Data Streams via Dynamic Feature Group Weighting with Importance Sampling,2014,14,10,3,0.0,2613615574,Ke Wu,0,0.2150525773733458,0.32320824601709136
+1541280084,A Survey on Truth Discovery,2016,71,149,7,0.705882,2116094297,Yaliang Li,0,0.07144063082517366,-0.0621471133159297
+1532554355,Maximizing tree diversity by building complete-random decision trees,2005,11,16,3,0.0,2414052431,Fei Tony Liu,0,0.7729655115812634,0.7355137171118091
+1533316337,VENUS Vertex-centric streamlined graph computation on a single PC,2015,29,43,4,0.0,2949180520,Jiefeng Cheng,0,0.17168942077315125,0.38293653100134767
+1543115787,When efficient model averaging out-performs boosting and bagging,2006,19,14,2,0.0,2560595684,Ian Davidson,0,0.08171372665629861,0.3677886045703396
+1544165511,Cross validation framework to choose amongst models and datasets for transfer learning,2010,16,72,2,1.0,2108094379,Erheng Zhong,0,0.003708468606338,0.082832279151172
+1546319741,Relaxed Transfer of Different Classes via Spectral Partition,2009,24,13,2,1.0,2134782470,Xiaoxiao Shi,0,-0.00046069511339654384,0.5219186588251076
+1510763264,Piecewise linear approximation of streaming time series data with max-error guarantees,2015,24,23,5,0.0,2230405244,Ge Luo,0,0.21438872843298346,-0.1353423822296997
+1511048421,System and method for mining time-changing data streams,2004,21,27,2,0.0,2125104194,Philip S. Yu,0,-0.02092058257584707,0.2106138903685439
+1485530964,StreamMiner a classifier ensemble-based engine to mine concept-drifting data streams,2004,13,57,1,1.0,2491264568,Wei Fan,0,-0.6283776752710781,-0.35386256590598725
+1595536625,Systems and methods for sequential modeling in less than one sequential scan,2007,10,3,2,0.0,2125104194,Philip S. Yu,0,-0.04526539390598103,0.22427484147816326
+1577794394,Identifying inconsistencies in object similarities from multiple information sources,2013,19,28,2,0.0,2303897886,Deepak S. Turaga,0,-0.24019957867604444,0.8015366930170504
+1800991598,Toward cost-sensitive modeling for intrusion detection and response,2002,17,257,2,0.325102,2155626625,Wenke Lee,0,0.003096474151226806,0.2601437891843497
+1587266360,Forward semi-supervised feature selection,2008,6,51,3,0.0,2170114694,Jiangtao Ren,0,0.1196886985743213,0.1939449373646738
+1587567107,Actively transfer domain knowledge,2008,22,108,2,1.0,2134782470,Xiaoxiao Shi,0,-0.48058166429272026,1.068073189518748
+1752894944,Inductive learning in less than one sequential data scan,2003,10,1,1,1.0,2491264568,Wei Fan,0,0.7599646360018643,1.0233080171476496
+1935383840,System and method for adaptive pruning,2003,14,13,2,0.0,2125104194,Philip S. Yu,0,0.003708468606338,0.082832279151172
+1763174229,Random decision hashing for massive data learning,2015,28,1,2,0.0,2100701671,Xiatian Zhang,0,1.1803981211308427,0.9366848361529284
+1779576579,Cross-feature analysis,2003,7,10,1,1.0,2491264568,Wei Fan,0,0.003708468606338,0.082832279151172
+1584026445,Decision tree evolution using limited number of labeled data items from drifting data streams,2004,8,26,1,1.0,2491264568,Wei Fan,0,0.9906679575319295,0.9514874825453017
+1785289945,System and methods for anomaly detection and adaptive learning,2002,10,44,2,0.0,2021877992,Salvatore J. Stolfo,0,0.20279561436658805,0.0753070172078775
+1603019568,System and method for scalable cost-sensitive learning,2010,3,15,2,0.0,2125104194,Philip S. Yu,0,-0.24630085536417354,0.0753684296971036
+1980273653,The application of AdaBoost for distributed scalable and on-line learning,1999,16,101,1,1.0,2491264568,Wei Fan,0,0.8875539437335391,0.27021848395126474
+1968075690,NIM Scalable Distributed Stream Process System on Mobile Network Data,2013,9,1,4,0.0,2164917325,Lujia Pan,0,0.21724322543405053,0.17868787423644428
+1975188201,RS-Forest A Rapid Density Estimator for Streaming Anomaly Detection,2014,22,35,3,0.0,2613615574,Ke Wu,0,0.1043090755602947,0.17528282751568364
+1978901130,Forecasting skewed biased stochastic ozone days analyses solutions and beyond,2008,19,54,2,0.0,2992973783,Kun Zhang,0,0.7472242591895842,0.6366034004643494
+1973880717,Flexible and Robust Multi-Network Clustering,2015,37,26,3,1.0,2734807925,Jingchao Ni,0,-0.8479945939615767,2.868234549355057
+1973956316,ComSoc adaptive transfer of user behaviors over composite social network,2012,25,56,2,0.727273,2108094379,Erheng Zhong,0,-0.17536238923574604,0.4144853997593385
+1968980002,Systematic data selection to mine concept-drifting data streams,2004,17,199,1,1.0,2491264568,Wei Fan,0,-0.10275738033246162,-0.30594480067434654
+1987064494,Discovering shakers from evolving entities via cascading graph inference,2011,29,6,2,0.681818,2134782470,Xiaoxiao Shi,0,0.003708468606338,0.082832279151172
+2006484294,Batch mode active sampling based on marginal probability distribution matching,2012,32,29,3,0.888889,2112113198,Rita Chattopadhyay,0,-0.3707146706369706,1.284254192186507
+1991332482,User behavior learning and transfer in composite social networks,2014,47,26,2,0.5267,2108094379,Erheng Zhong,0,0.12492345808765674,0.23414093372237493
+2005699506,Iterative sampling based frequent itemset mining for big data,2015,33,17,2,0.857143,2302633307,Xian Wu,0,0.12492345808765674,0.23414093372237493
+2009727399,Mining concept-drifting data streams using ensemble classifiers,2003,28,1014,2,0.343528,2777339002,Haixun Wang,0,0.44720776568287773,-0.03557966865269632
+2000942133,Facets Fast Comprehensive Mining of Coevolving High-order Time Series,2015,26,25,3,0.0,2229854109,Yongjie Cai,0,-0.406818173160694,-0.8084213374138726
+1999460852,A general framework for accurate and fast regression by data summarization in random decision trees,2006,15,21,1,1.0,2491264568,Wei Fan,0,0.003708468606338,0.082832279151172
+2013976210,On the Discovery of Evolving Truth,2015,23,69,6,0.782609,2116094297,Yaliang Li,0,0.07727698440113837,0.3802657412455471
+2017654459,The next generation of transportation systemsgreenhouse emissions and data mining,2010,5,18,3,0.0,539587773,Hillol Kargupta,0,0.003708468606338,0.082832279151172
+2028633780,Bi-level multi-source learning for heterogeneous block-wise missing data,2014,44,38,3,0.666667,2121591154,Shuo Xiang,0,0.03499164078609016,0.389628322314661
+2023633440,Modeling the dynamics of composite social networks,2013,19,16,2,0.555556,2108094379,Erheng Zhong,0,-0.4602884191406876,1.1815882438391312
+2020367605,Estimating Local Information Trustworthiness via Multi-source Joint Matrix Factorization,2012,18,13,4,0.0,2120511578,Liang Ge,0,0.14662402305761887,0.3450930601139493
+2048030021,A Spectral Framework for Detecting Inconsistency across Multi-source Object Relationships,2011,18,20,2,0.432925,2096731881,Jing Gao,0,-0.12945133343205487,1.120031163973873
+2035902703,ViST a dynamic index method for querying XML data by tree structures,2003,20,292,3,0.343528,2777339002,Haixun Wang,0,-2.399568558349525,-0.2761363466063392
+2042974016,A framework to represent and mine knowledge evolution from Wikipedia revisions,2012,2,2,2,0.857143,2302633307,Xian Wu,0,0.41799923452602017,-0.8315809022410026
+2037758579,Reverse testing an efficient framework to select amongst classifiers under sample selection bias,2006,11,17,1,1.0,2491264568,Wei Fan,0,0.21438872843298346,-0.1353423822296997
+2034520351,Supervised deep learning with auxiliary networks,2014,32,17,4,0.0,2147722937,Junbo Zhang,0,-0.3707146706369706,1.284254192186507
+2055699991,Class-distribution regularized consensus maximization for alleviating overfitting in model combination,2014,39,11,3,0.3986,2106011892,Sihong Xie,0,0.23447002456144056,0.35297506154309793
+2068047518,Transfer across Completely Different Feature Spaces via Spectral Embedding,2013,23,34,3,0.5625,2134782470,Xiaoxiao Shi,0,0.2739547283616038,0.017125463407930933
+2066298612,Data mining-based intrusion detectors an overview of the columbia IDS project,2001,26,74,4,0.0,2021877992,Salvatore J. Stolfo,0,0.25279980089418275,0.356263393655007
+2077806242,Query-dependent cross-domain ranking in heterogeneous network,2013,64,9,3,0.0,2703712228,Bo Wang,0,0.21438872843298346,-0.1353423822296997
+2062179223,Knowledge transfer via multiple model local structure mapping,2008,76,224,2,0.666667,2096731881,Jing Gao,0,-0.13440228902469675,1.710989031909581
+2103077935,Latent space domain transfer between high dimensional overlapping distributions,2009,18,18,2,1.0,2106011892,Sihong Xie,0,0.3311084524049866,0.26300344268183734
+2086413055,Resolving conflicts in heterogeneous data by truth discovery and source reliability estimation,2014,22,199,5,0.782609,2797002874,Qi Li,0,-0.1908094651786742,0.41037779126763796
+2098980230,Efficient Semi-supervised Spectral Co-clustering with Constraints,2010,5,27,2,0.923077,2134782470,Xiaoxiao Shi,0,-0.647845637812731,2.1249300505968725
+2092403294,Multi-source learning with block-wise missing data for Alzheimers disease prediction,2013,33,44,3,0.666667,2121591154,Shuo Xiang,0,-0.11681630651846989,-0.18591354802540244
+2108572630,A fully distributed framework for cost-sensitive data mining,2002,8,10,1,1.0,2491264568,Wei Fan,0,-0.04564640222210118,0.3062859400379127
+2138252504,Discovering Unrevealed Properties of Probability Estimation Trees On Algorithm Selection and Performance Explanation,2006,23,4,2,0.714286,2593413273,Kun Zhang,0,0.003708468606338,0.082832279151172
+2105869081,Dual active feature and sample selection for graph classification,2011,30,38,2,0.0,2204127537,Xiangnan Kong,0,-0.25023896793326905,0.13037718530513653
+2124288185,Classifying Data Streams with Skewed Class Distributions and Concept Drifts,2008,14,84,3,0.666667,2096731881,Jing Gao,0,0.1232658649972613,0.17080384678501934
+2124321702,Indexing weighted-sequences in large databases,2003,19,31,3,0.343528,2777339002,Haixun Wang,0,0.3912859191066106,0.279680114899994
+2136185850,Is random model better On its accuracy and efficiency,2003,16,95,1,1.0,2491264568,Wei Fan,0,0.7508523047664529,0.8669942587093077
+2127607093,Inside the atoms ranking on a network of networks,2014,35,33,3,1.0,2734807925,Jingchao Ni,0,-0.4073596724181474,0.2602058015791109
+2118778444,On Appropriate Assumptions to Mine Data Streams Analysis and Practice,2007,12,124,2,0.666667,2096731881,Jing Gao,0,-0.3999442285108649,0.10752298545531169
+2133446205,Empirical comparison of various reinforcement learning strategies for sequential targeted marketing,2002,13,14,5,0.0,1996852325,Naoki Abe,0,-0.05774258311932245,-0.3075688411043247
+2124961556,Transfer Learning on Heterogenous Feature Spaces via Spectral Transformation,2010,6,100,3,0.923077,2134782470,Xiaoxiao Shi,0,0.28869302395420327,0.027898865133699307
+2119399391,Forecasting Skewed Biased Stochastic Ozone Days Analyses and Solutions,2006,13,23,2,0.714286,2593413273,Kun Zhang,0,0.003708468606338,0.082832279151172
+2110952388,Graph-based Consensus Maximization among Multiple Supervised and Unsupervised Models,2009,24,72,3,0.55559,2096731881,Jing Gao,0,-0.4077810217165364,0.8317321585015213
+2122956714,A Graph-Based Consensus Maximization Approach for Combining Multiple Supervised and Unsupervised Models,2013,33,44,3,0.280821,2096731881,Jing Gao,0,-0.23974801908479243,0.5457978886932645
+2168506522,OceanRT real-time analytics over large temporal data,2014,15,11,3,0.0,2099294320,Shiming Zhang,0,0.36001900969575623,0.4019180431799828
+2159479322,A fast algorithm for subspace clustering by pattern similarity,2004,21,37,3,0.343528,2777339002,Haixun Wang,0,-0.8959485693131186,3.2980275125865974
+2147620601,On community outliers and their efficient detection in information networks,2010,35,139,3,0.512967,2096731881,Jing Gao,0,0.20279561436658805,0.0753070172078775
+2159670487,Graph-Based Iterative Hybrid Feature Selection,2008,13,7,3,1.0,2108094379,Erheng Zhong,0,0.012950349285691018,0.16761393856545537
+2144996578,An improved categorization of classifiers sensitivity on sample selection bias,2005,5,51,1,1.0,2491264568,Wei Fan,0,0.44923038751824845,0.4340167585229206
+2172013605,Heterogeneous source consensus learning via decision propagation and negotiation,2009,27,45,2,0.55559,2096731881,Jing Gao,0,-0.16867905439510558,0.25451252767203764
+2160150610,Distributed data mining in credit card fraud detection,1999,9,365,2,0.0,2098876098,Philip K. Chan,0,0.2672966273634978,-0.14833271954898275
+2166353797,Real time data mining-based intrusion detection,2001,28,232,8,0.0,642640030,Eleazar Eskin,0,0.15314600879838108,0.7649783805065609
+2154553070,Direct mining of discriminative and essential frequent patterns via model-based search tree,2008,27,96,1,1.0,2491264568,Wei Fan,0,-0.04827181060149819,0.3429584437766013
+2154925912,Effective estimation of posterior probabilities explaining the accuracy of randomized decision tree approaches,2005,16,34,1,1.0,2491264568,Wei Fan,0,1.4819741563051376,1.658195295052266
+2169959739,Mining system audit data opportunities and challenges,2001,16,20,2,0.325102,2155626625,Wenke Lee,0,0.09583494457085429,0.42607960157545594
+2146082061,Using artificial anomalies to detect unknown and known network intrusions,2001,15,183,1,1.0,2491264568,Wei Fan,0,0.6705234672672624,0.5949432861805903
+2161033259,Joint Transfer and Batch-mode Active Learning,2013,31,43,2,0.888889,2112113198,Rita Chattopadhyay,0,-0.23368070010177855,2.662921762927055
+2161047120,Cross domain distribution adaptation via kernel mapping,2009,23,82,2,1.0,2108094379,Erheng Zhong,0,0.003708468606338,0.082832279151172
+2167287136,Cost-based modeling for fraud and intrusion detection results from the JAM project,2000,21,413,5,0.0,222714987,Andreas L. Prodromidis,0,0.3024941206384012,0.2601028475248656
+2164364358,Mining big data current status and forecast to the future,2013,25,452,1,1.0,2491264568,Wei Fan,0,0.7189006980475607,0.3201349343011413
+2155987510,Consensus extraction from heterogeneous detectors to improve performance over network traffic anomaly detection,2011,20,11,2,0.432925,2096731881,Jing Gao,0,0.11627254824300827,0.4772127200095625
+2243537967,Truth discovery and crowdsourcing aggregation a unified perspective,2015,35,22,4,0.217847,2096731881,Jing Gao,0,0.08496435237694869,0.34954888165669096
+2212248191,Robust crowd bias correction via dual knowledge transfer from multiple overlapping sources,2015,21,6,5,0.3986,2106011892,Sihong Xie,0,-0.2664344922242221,0.00624225889375582
+2204759023,Method and system for predicting resource usage of reusable stream processing elements,2007,25,13,10,0.0,1726335268,Kirsten Hildrum,0,-0.1071931497347323,0.3242721482837629
+2196889779,System and method for indexing weighted-sequences in large databases,2008,18,28,3,0.0,2125104194,Philip S. Yu,0,-0.13275296294680305,-0.071629888206014
+2245823075,Methods for cost-sensitive modeling for intrusion detection and response,2002,73,39,4,0.0,2021877992,Salvatore J. Stolfo,0,0.003096474151226806,0.2601437891843497
+2287498853,StreamDM Advanced Data Mining in Spark Streaming,2015,10,15,6,0.0,307521372,Albert Bifet,0,0.09200651690850514,0.18915191223521047
+2279813022,Proceedings of the 1st International Workshop on Big Data Streams and Heterogeneous Source Mining Algorithms Systems Programming Models and Applications,2012,0,0,4,0.0,307521372,Albert Bifet,0,0.12492345808765674,0.23414093372237493
+2276380414,System and method for continuous diagnosis of data streams,2004,18,17,2,0.0,2125104194,Philip S. Yu,0,0.4943358494537283,0.7827511490219792
+2281003555,Structural data classification,2008,11,0,3,0.0,2116657824,Xifeng Yan,0,-0.09992276212883877,0.16702909127858606
+2290431464,A confidence-aware approach for truth discovery on long-tail data,2014,37,137,7,0.782609,2797002874,Qi Li,0,0.003708468606338,0.082832279151172
+2295683179,Design and implementation of a real-time interactive analytics system for large spatio-temporal data,2014,23,5,3,0.0,2099294320,Shiming Zhang,0,-0.0890419630388932,0.25154142714902866
+2295846004,Progressive modeling,2002,8,4,1,1.0,2491264568,Wei Fan,0,0.003708468606338,0.082832279151172
+2314839209,A Weighted Crowdsourcing Approach for Network Quality Measurement in Cellular Data Networks,2017,20,7,8,0.0,2792981211,Yaliang Li,0,0.23447002456144056,0.35297506154309793
+2345285933,Conflicts to Harmony A Framework for Resolving Conflicts in Heterogeneous Data by Truth Discovery,2016,32,21,6,0.705882,2116094297,Yaliang Li,0,-0.05062636292451436,0.26852028025530056
+2337562570,Mining User Intentions from Medical Queries A Neural Network Based Heterogeneous Jointly Modeling Approach,2016,33,16,2,0.0,2558611428,Chenwei Zhang,0,-0.15964450942365144,-0.2751529353446891
+2360309522,QUINT On Query-Specific Optimal Networks,2016,42,9,4,0.0,2144246580,Liangyue Li,0,0.003708468606338,0.082832279151172
+2399035261,NIM scalable distributed stream processing system on mobile network data,2013,0,0,1,1.0,2491264568,Wei Fan,0,0.003708468606338,0.082832279151172
+2405188152,An iterative and re-weighting framework for rejection and uncertainty resolution in crowdsourcing,2012,16,6,2,0.454545,2106011892,Sihong Xie,0,-0.13826848769854153,1.549844654499205
+2408316103,Fast mining of a network of coevolving time series,2015,17,17,3,0.0,2594827331,Yongjie Cai,0,0.35371646825813335,0.3882736404173837
+2412351855,System and method for sequence-based subspace pattern clustering,2004,24,30,2,0.0,2125104194,Philip S. Yu,0,-0.8959485693131186,3.2980275125865974
+2516405782,Mining Reliable Information from Passively and Actively Crowdsourced Data,2016,0,6,4,0.196068,2096731881,Jing Gao,0,0.13614316968055099,0.1547774631541803
+2584793944,Reliable Medical Diagnosis from Crowdsourcing Discover Trustworthy Answers from Non-Experts,2017,34,13,5,0.7,2116094297,Yaliang Li,0,0.01851480645371345,0.019727673743420396
+2585076639,Self-Grouping Multi-network Clustering,2016,20,3,3,1.0,2734807925,Jingchao Ni,0,-0.9211991615469002,3.298294457080068
+2585939463,Augmented LSTM Framework to Construct Medical Self-Diagnosis Android,2016,28,6,6,1.0,2165566163,Chaochun Liu,0,0.003708468606338,0.082832279151172
+2523625823,Extracting Medical Knowledge from Crowdsourced Question Answering Website,2016,0,6,4,0.705882,2116094297,Yaliang Li,0,-0.17768346192212375,0.0848641959637884
+2508807458,IoT Big Data Stream Mining,2016,0,31,5,0.0,2153118160,Gianmarco De Francisci Morales,0,-0.10266000521091491,0.5406340555811893
+2735257517,Batch Mode Active Sampling Based on Marginal Probability Distribution Matching,2013,42,25,3,0.888889,2112113198,Rita Chattopadhyay,0,-0.4857188591441636,3.154800994870695
+2735735104,Multisource domain adaptation and its application to early detection of fatigue,2012,34,70,3,0.888889,2112113198,Rita Chattopadhyay,0,0.003708468606338,0.082832279151172
+2774127592,iNEAT Incomplete Network Alignment,2017,19,8,5,0.0,2639107922,Si Zhang,0,0.2151245671867267,-0.2227667521465641
+2742642850,Extremely Fast Decision Tree Mining for Evolving Data Streams,2017,21,28,3,0.0,307521372,Albert Bifet,0,0.3174319139149045,0.559314541142739
+2913222753,Proceedings of the 3rd International Conference on Big Data Streams and Heterogeneous Source Mining Algorithms Systems Programming Models and Applications - Volume 36,2014,0,0,4,0.0,307521372,Albert Bifet,0,0.12492345808765674,0.23414093372237493
+2893531633,When Truth Discovery Meets Medical Knowledge Graph Estimating Trustworthiness Degree for Medical Knowledge Condition,2018,0,1,4,0.0,2784743266,Yang Deng,0,0.003708468606338,0.082832279151172
+2951361729,A Survey on Truth Discovery,2015,72,10,7,0.782609,2116094297,Yaliang Li,0,0.07144063082517366,-0.0621471133159297
+2964039533,Stochastic Gradient Made Stable A Manifold Propagation Approach for Large-Scale Optimization,2017,27,6,4,0.0,2151696581,Yadong Mu,0,0.003708468606338,0.082832279151172
+2616787721,Cross-Network Clustering and Cluster Ranking for Medical Diagnosis,2017,10,4,3,0.909091,2734807925,Jingchao Ni,0,-0.21934185016841626,0.6056873083074126
+2772094226,Automated Medical Diagnosis by Ranking Clusters Across the Symptom-Disease Network,2017,20,6,3,0.909091,2734807925,Jingchao Ni,0,-0.21934185016841626,0.6056873083074126

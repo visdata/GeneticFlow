@@ -1,0 +1,138 @@
+69377410,Review - EXPRESS A Data EXtraction Processing amd REStructuring System,1999,0,0,1,1.0,2304774990,Philip A. Bernstein,0,-0.0041099411153885,0.0447066884760059
+137525769,Hyder - A Transactional Record Manager for Shared Flash,2011,27,144,1,1.0,2304774990,Philip A. Bernstein,0,0.8262275074072228,1.2154601183090024
+206525976,Review - A Majority Consensus Approach to Concurrency Control for Multiple Copy Databases,1999,0,4,1,1.0,2304774990,Philip A. Bernstein,0,2.519379011612842,3.3063332445113636
+191720996,Implementing an Append-Only Interface for Semiconductor Storage,2010,4,3,2,0.0,2098032549,Colin W. Reid,0,0.2198694839100214,0.3559670519458075
+23153266,Atomic Transactional Execution in Hardware A New High-Performance Abstraction for Databases ,2003,5,10,2,0.0,702978325,Ravi Rajwar,0,0.8302246876877591,0.9702604147205017
+5685153,Meta-Data Support for Data Transformations Using Microsoft Repository,1999,6,47,1,1.0,2304774990,Philip A. Bernstein,0,-0.4238220492798492,-0.2996598510449324
+160787565,Timestamp-based algorithms for concurrency control in distributed database systems,1980,9,119,1,1.0,2304774990,Philip A. Bernstein,0,2.376031815465849,3.2190297341409675
+93220620,Report on the 2001 SIGMOD and PODS Awards,2001,0,0,1,1.0,2304774990,Philip A. Bernstein,0,-0.0041099411153885,0.0447066884760059
+42519332,A Language Facility for Designing Interactive Database-Intensive Applications (Abstract),1978,0,4,2,0.75,2161153869,John Mylopoulos,0,0.3535492920817791,0.0992706040110087
+164325459,Two Part Proof Schema for Database Concurrency Control,1981,0,22,1,1.0,2304774990,Philip A. Bernstein,0,2.631025267012074,3.448444456413233
+147730391,ACM TODS Publication Policy,1989,0,0,2,0.0,2030271208,Don Batory,0,-0.0041099411153885,0.0447066884760059
+181953824,Review - Versioning and Configuration Management in an Object-Oriented Data Model,1999,0,0,1,1.0,2304774990,Philip A. Bernstein,0,0.4724891316392333,0.5245322574863158
+80014616,A Formal Model of Concurrency Control Mechanisms for Database Systems,1978,0,8,1,1.0,2304774990,Philip A. Bernstein,0,2.631025267012074,3.448444456413233
+12338639,A Note on Theoretical Problems in Distributed Database Management,1978,0,0,1,1.0,2304774990,Philip A. Bernstein,0,1.9091545966785344,0.40011093258779495
+30253544,On the updatability of relational views,1978,9,135,2,0.444444,689294964,Umeshwar Dayal,0,1.522996075273003,0.2584464498751939
+132792235,Review - Implementation of Automatic Lock Determination in C++-based OODBMSs,1999,0,0,1,1.0,2304774990,Philip A. Bernstein,0,-0.0041099411153885,0.0447066884760059
+49017742,CASE Requirements for Extensible Database Systems,1987,0,4,1,1.0,2304774990,Philip A. Bernstein,0,1.7893171793184135,0.31207034930177807
+68021608,Recovery Algorithms for Database Systems,1983,0,39,1,1.0,2304774990,Philip A. Bernstein,0,2.2710664303540664,0.5521629453071827
+51531163,Database Theory Where Has It Been Where Is It Going (Abstract),1983,0,0,1,1.0,2304774990,Philip A. Bernstein,0,1.2093417881871118,0.26507297651154665
+275943473,Repositories and Object Oriented Databases,1997,9,10,1,1.0,2304774990,Philip A. Bernstein,0,1.332187053693031,-0.1466020516030497
+1532058300,A Model Theory for Generic Schema Management,2001,24,9,2,0.0,1986299608,Suad Alagic,0,3.1884716895794396,-0.21856062606934534
+1505177095,Third-generation database system manifesto,1990,0,154,7,0.0,1998938290,Michael Stonebraker,0,2.4948183747466173,0.5104761905054425
+1532303872,Meta data management,2004,0,27,1,1.0,2304774990,Philip A. Bernstein,0,1.44134891151109,0.2611826607105414
+1505831819,A multilevel dictionary for model management,2005,18,29,3,0.0,2112271222,Paolo Atzeni,0,0.44817197667570313,0.011385607009691101
+1569650328,The Microsoft Repository,1997,11,56,1,1.0,2304774990,Philip A. Bernstein,0,0.17005658462614512,0.18786564902962025
+1543478006,Context-Based Prefetch for Implementing Objects on Relations,1999,21,33,1,1.0,2304774990,Philip A. Bernstein,0,1.647946281910811,0.18028621372680798
+1490551574,Teaching a schema translator to produce O/R views,2007,34,16,2,0.6,2776712864,Peter Mork,0,-0.0041099411153885,0.0447066884760059
+1534790777,Generic Model Management A Database Infrastructure for Schema Manipulation,2003,0,1,1,1.0,2304774990,Philip A. Bernstein,0,1.677530079770933,0.1347549714770527
+1517167465,STDL - A Portable Language for Transaction Processing,1993,6,11,1,1.0,2304774990,Philip A. Bernstein,0,2.232505529057529,2.238610516671806
+1508485099,Automated co-evolution of conceptual models physical databases and mappings,2010,12,13,2,0.666667,2104327822,James F. Terwilliger,0,2.0427973005332407,-0.2591707713145434
+1545155892,Concurrency Control and Recovery in Database Systems,1987,0,3753,1,1.0,2304774990,Philip A. Bernstein,0,2.7421671093153708,3.4929866391786906
+1492100919,Database publication practices,2005,2,5,1,1.0,2304774990,Philip A. Bernstein,0,-0.25609130579317646,0.2785941556746898
+1563798137,Panel Is Generic Metadata Management Feasible ,2000,10,25,5,0.0,251194211,Matthias Jarke,0,1.4592668419395265,0.07918893628018188
+1573904235,An Overview of Repository Technology,1994,7,151,1,1.0,2304774990,Philip A. Bernstein,0,0.06966304421639251,0.1212654293352158
+1494019137,PC Database Systems - Present and Future,1994,0,0,1,1.0,2304774990,Philip A. Bernstein,0,-0.17244133864042968,-0.305030520451871
+1494640588,Merging models based on given correspondences,2003,30,252,2,0.571429,2092425175,Rachel Pottinger,0,0.624526996964403,-0.11439103105282723
+1575097497,Data Management for Peer-to-Peer Computing A Vision,2002,15,362,6,0.333333,164943294,Fausto Giunchiglia,0,0.9456389526889711,0.16522226125818223
+1566656512,A sophisticates introduction to database normalization theory,1978,29,206,2,0.0,345432764,Catriel Beeri,0,2.4728942685654305,0.7856666620159093
+1531263763,Fast maintenance of semantic integrity assertions using redundant aggregate data,1980,7,85,1,1.0,2304774990,Philip A. Bernstein,0,1.2978610253942306,0.43880018595711495
+1792955578,Future Directions in DBMS Research - The Laguna Beach Participants,1989,0,40,1,1.0,2304774990,Philip A. Bernstein,0,-0.0041099411153885,0.0447066884760059
+1586443163,Model management and schema mappings theory and practice,2007,9,15,1,1.0,2304774990,Philip A. Bernstein,0,1.3017638319714349,0.18211723904363422
+1800215808,Data warehouse scenarios for model management,2000,14,100,1,1.0,2304774990,Philip A. Bernstein,0,1.0414289714105087,0.16524397015202114
+1878906076,Versions and workspaces in an object repository,2005,17,91,4,0.666667,2034914204,Thomas F. Bergstraesser,0,-0.0041099411153885,0.0447066884760059
+1908837559,System and method for consistent timestamping in distributed computer databases,1990,8,131,4,0.363636,1983664831,David B. Lomet,0,2.574133484089512,2.6139371866675583
+1588987386,Data Management Issues in Supporting Large-Scale Web Services,2006,0,12,1,1.0,2304774990,Philip A. Bernstein,0,-0.20412369729214216,-0.12155271494257605
+1963537333,How best to build web-scale data managers ,2009,6,0,6,0.0,2893888,Michael Cafarella,0,0.31735423203403873,0.41281574692576345
+1599506921,Local relational model a logical formalization of database coordination,2003,14,50,4,0.0,1936741433,Luciano Serafini,0,1.5223346235501285,0.3231125482399156
+1590862046,Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database systems,1983,0,0,2,0.0,2103086064,Ronald Fagin,0,-0.0041099411153885,0.0447066884760059
+1963979953,Concurrency control in a system for distributed databases (SDD-1),1980,19,207,1,1.0,2304774990,Philip A. Bernstein,0,2.523289490792517,3.2831517300540405
+1583120124,Relaxed currency constraints,2005,40,16,2,0.0,2164040783,Raghu Ramakrishnan,0,1.6296069507338995,1.7435762814358529
+1718432802,Model-Independent schema and data translation,2006,49,60,3,0.0,2112271222,Paolo Atzeni,0,1.8723802996619772,0.15346453498822654
+1964226105,Database theory where has it been where is it going ,1983,0,3,1,1.0,2304774990,Philip A. Bernstein,0,1.2093417881871118,0.26507297651154665
+1978817186,Context-based prefetch â€“ an optimization for implementing objects on relations,2000,24,30,3,0.506083,2100855357,Shankar Pal,0,1.979979045255643,0.19590803906389892
+1975814632,Optimizing Optimistic Concurrency Control for Tree-Structured Log-Structured Databases,2015,31,30,1,1.0,2304774990,Philip A. Bernstein,0,1.8810956276330444,2.2721813901269208
+1974589023,Principles of transaction processing for the systems professional,1996,0,48,2,1.0,2007583087,Eric Newcomer,0,1.8118196361486447,1.8712026695042718
+2008896880,A survey of approaches to automatic schema matching,2001,49,3012,2,0.0,2158742306,Erhard Rahm,0,2.142955988616608,-0.7551970655914085
+2003981282,Versions and workspaces in Microsoft repository,1999,6,13,2,0.666667,2034914204,Thomas F. Bergstraesser,0,-1.9623597467067597,0.26219532792438066
+1998688529,Rethinking eventual consistency,2013,29,36,1,1.0,2304774990,Philip A. Bernstein,0,0.0835119396817451,0.051530138659233005
+1993518363,Concurrency control algorithms for multiversion database systems,1982,18,25,1,1.0,2304774990,Philip A. Bernstein,0,2.3635923836974047,3.027147564993192
+1997168731,The Beckman Report on Database Research,2014,7,47,5,0.0,2170206103,Daniel J. Abadi,0,0.16961816653767703,0.31221718520020947
+2002711156,Compiling mappings to bridge applications and databases,2008,43,43,3,0.386365,2805592821,Sergey Melnik,0,1.7857930584399182,0.05054220046566743
+2025964097,Relaxed-currency serializability for middle-tier caching and replication,2006,28,49,1,1.0,2304774990,Philip A. Bernstein,0,2.678067231118849,2.9207585474069444
+2027750453,A language facility for designing database-intensive applications,1980,16,429,2,0.75,2161153869,John Mylopoulos,0,0.8879605986556716,0.41685463777803344
+2031445697,On the updatability of network viewsâ€”extending relational view theory to the network model,1982,25,16,2,0.444444,689294964,Umeshwar Dayal,0,1.9956392503734184,0.23031416984958655
+2031448219,Fast methods for testing quantified relational calculus assertions,1982,9,44,1,1.0,2304774990,Philip A. Bernstein,0,1.2978610253942306,0.43880018595711495
+2028289124,A language facility for designing interactive database-intensive applications,1978,0,80,2,0.75,2161153869,John Mylopoulos,0,0.8218782896737967,0.47664713335039705
+2024796520,Model management 20 manipulating richer mappings,2007,82,300,1,1.0,2304774990,Philip A. Bernstein,0,0.6426259942062461,-0.29942191484113295
+2023195086,Query processing in a system for distributed databases (SDD-1),1981,26,429,1,1.0,2304774990,Philip A. Bernstein,0,1.3650772920854106,0.23461746568963876
+2014674698,Mapping XML to a Wide Sparse Table,2012,31,11,2,1.0,2779036578,Liang Jeff Chen,0,2.5198917302132386,-0.9402814900972305
+2028781918,A proof technique for concurrency control and recovery algorithms for replicated databases,1987,19,15,1,1.0,2304774990,Philip A. Bernstein,0,1.8050790964314645,1.5617005943822218
+2030620388,Errors in process synchronization in database systems,1981,7,2,1,1.0,2304774990,Philip A. Bernstein,0,0.8071947597928303,0.95524368871504
+2023663289,Synthesizing third normal form relations from functional dependencies,1976,11,392,1,1.0,2304774990,Philip A. Bernstein,0,3.3636216729154222,0.50158653481717
+2022110761,Query containment in entity SQL,2013,13,2,2,0.0,2013071301,Guillem Rull,0,0.11546437906928197,-0.003934043637762333
+2027429343,Mapping XML to a Wide Sparse Table,2014,33,2,2,1.0,2779036578,Liang Jeff Chen,0,2.5198917302132386,-0.9402814900972305
+2020463925,Paper and proposal reviews is the process flawed ,2008,0,6,6,0.0,665840641,Henry F. Korth,0,-0.0041099411153885,0.0447066884760059
+2048845959,Microsoft repository version 2 and the open information model,1999,19,99,1,1.0,2304774990,Philip A. Bernstein,0,-0.8444590323755748,-1.032377443995182
+2033223918,An algorithm for concurrency control and recovery in replicated distributed databases,1984,30,282,1,1.0,2304774990,Philip A. Bernstein,0,0.6094757201331841,0.6879567321663215
+2040293060,On the correct translation of update operations on relational views,1982,24,312,2,1.0,2659064988,Umeshwar Dayal,0,2.363334734560136,0.2688500774246716
+2037289266,The Claremont report on database research,2008,6,119,3,0.0,2537924216,Rakesh Agrawal,0,0.11069343465737484,0.7732306852028031
+2048111017,The correctness of concurrency control mechanisms in a system for distributed databases (SDD-1),1980,6,42,1,1.0,2304774990,Philip A. Bernstein,0,2.523289490792517,3.2831517300540405
+2048552999,Comments on â€œProcess synchronizaiton in databases systemsâ€,1979,2,3,3,0.173584,1992516074,Nathan Goodman,0,-1.2055609120597954,3.2968521501332604
+2038023598,The power of inequality semijoins,1981,16,11,1,1.0,2304774990,Philip A. Bernstein,0,1.2105109291841771,0.37554803281232435
+2066232799,Model Management Engine for Data Integration with Reverse-Engineering Support,2008,4,12,2,0.0,2973717773,M.N. Gubanov,0,-0.014025829005962099,-0.1362735272910267
+2064517210,Repositories and object oriented databases,1998,11,59,1,1.0,2304774990,Philip A. Bernstein,0,1.5110943664961975,0.1436093888435444
+2069752306,An online bibliography on schema evolution,2006,15,67,2,0.0,2158742306,Erhard Rahm,0,1.9161435046778785,0.46608889387517327
+2064568057,A call for surveys,2012,0,1,1,1.0,2304774990,Philip A. Bernstein,0,-0.0041099411153885,0.0447066884760059
+2071678949,Synthesizing independent database schemas,1979,12,87,3,0.0,2134007924,Joachim Biskup,0,1.995850024598773,0.17451126687750979
+2073669509,The failure and recovery problem for replicated databases,1983,17,151,1,1.0,2304774990,Philip A. Bernstein,0,0.7974441109885381,1.406621491566283
+2077449561,Compiling mappings to bridge applications and databases,2007,41,62,3,0.386365,2805592821,Sergey Melnik,0,1.7857930584399182,0.05054220046566743
+2067308467,Rondo a programming platform for generic model management,2003,20,305,3,0.363636,2805592821,Sergey Melnik,0,1.1841043905994295,-0.2455947172725968
+2069398789,General purpose schedulers for database systems,1981,18,27,2,0.5,2140725837,Marco A. Casanova,0,2.3595824056522168,1.2466896929650007
+2064449851,The many roles of meta data in data integration,2005,3,4,1,1.0,2304774990,Philip A. Bernstein,0,-0.5719600787405312,0.172960539945079
+2099464320,An apples-to-apples comparison of two database journals,2005,1,6,1,1.0,2304774990,Philip A. Bernstein,0,0.1913416380049812,0.2648884874701074
+2078612625,Language-integrated querying of XML data in SQL server,2008,6,14,3,0.0,2951056770,James F. Terwilliger,0,2.2264543832113666,-0.864750789273662
+2090958287,Composition of mappings given by embedded dependencies,2007,26,42,2,0.0,2135569827,Alan Nash,0,1.2110901706869057,-0.05681281939160521
+2094711531,Introduction to a system for distributed databases (SDD-1),1980,23,215,2,0.0,2894670496,James B. Rothnie,0,1.3638135409808338,1.3069676276720756
+2100365109,HAMSTER using search clicklogs for schema and taxonomy matching,2009,38,29,2,0.0,2152768179,Arnab Nandi,0,2.651379052182359,-0.21397405430507757
+2101185320,Shared log-structured multi-version transactional datastore with metadata to enable melding trees,2010,52,93,2,0.0,2098032549,Colin W. Reid,0,0.9302723467394394,1.0812951232246535
+2101988878,Interactive schema translation with instance-level mappings,2005,15,100,1,1.0,2304774990,Philip A. Bernstein,0,2.843718065020836,-0.27015711226885736
+2085571718,A multi-level architecture for relational data base systems,1975,17,19,2,0.0,2102047802,Hans Albrecht Schmid,0,0.737387081777425,0.4161901176340887
+2129440584,Incremental mapping compilation in an object-to-relational mapping system,2013,18,7,1,1.0,2304774990,Philip A. Bernstein,0,1.6476752877225362,0.17291231908068064
+2139135093,Generic Schema Matching with Cupid,2001,14,1290,2,0.444444,2339667287,Jayant Madhavan,0,2.6111621315762914,-0.46541202801608356
+2139354505,Worry-free database upgrades automated model-driven evolution of schemas and complex mappings,2010,7,16,2,0.666667,2104327822,James F. Terwilliger,0,1.6747483594727939,-0.057114879674384
+2131165032,Model-independent schema translation,2008,40,72,4,0.0,2112271222,Paolo Atzeni,0,1.9954441141166066,-0.04816626315882844
+2128756076,Structural text search and comparison using automatically extracted schema,2006,16,19,2,0.0,208931610,Michael N. Gubanov,0,0.9064523927100616,0.08814539315836063
+2125822162,Applying Model Management to Classical Meta Data Problems,2003,26,466,1,1.0,2304774990,Philip A. Bernstein,0,-0.156664017668016,-0.023890401772968434
+2108220079,ModelGen model independent schema translation,2005,5,42,3,0.0,2112271222,Paolo Atzeni,0,2.1451552759287162,0.016284956185117553
+2108267498,Corpus-based schema matching,2005,27,317,2,0.444444,2339667287,Jayant Madhavan,0,0.07900333030129494,-0.5691623016011652
+2150581873,Implementing recoverable requests using queues,1990,11,109,1,1.0,2304774990,Philip A. Bernstein,0,1.7440958500705086,1.5754909726320645
+2154474349,Adapting microsoft SQL server for cloud computing,2011,12,102,1,1.0,2304774990,Philip A. Bernstein,0,-0.0041099411153885,0.0447066884760059
+2151827032,Reverse engineering models from databases to bootstrap application development,2010,7,9,2,0.0,2232444040,Ankit Malpani,0,0.3723111137777542,-0.07769541017005765
+2169807577,Incremental schema matching,2006,8,80,1,1.0,2304774990,Philip A. Bernstein,0,2.3457136977504063,-0.6206224842993393
+2167394053,Schema merging and mapping creation for relational sources,2008,22,43,2,0.571429,2092425175,Rachel Pottinger,0,2.9126220422549216,0.0632399668031708
+2155419928,Implementing mapping composition,2006,14,88,1,1.0,2304774990,Philip A. Bernstein,0,0.4673260242642863,0.08211622180166644
+2164434217,Full-fidelity flexible object-oriented XML access,2009,12,6,2,0.666667,2104327822,James F. Terwilliger,0,2.2264543832113666,-0.864750789273662
+2155758146,Supporting executable mappings in model management,2005,40,104,2,0.363636,2805592821,Sergey Melnik,0,0.856624788387389,-0.22638518895151352
+2152812436,Formal Aspects of Serializability in Database Concurrency Control,1979,4,181,1,1.0,2304774990,Philip A. Bernstein,0,1.9658742745870204,2.020551806923959
+2168080006,Adapting a generic match algorithm to align ontologies of human anatomy,2004,9,57,2,0.6,2776712864,Peter Mork,0,-0.0516049491840353,-0.6536599491360656
+2243524811,Annotating database schemas to help enterprise search,2015,10,5,2,0.0,2125350416,Eli Cortez,0,0.46534663310513014,0.3821970816787321
+2267594523,Prefetching and caching persistent objects,2004,22,38,3,0.506083,2100855357,Shankar Pal,0,-0.0041099411153885,0.0447066884760059
+2252079059,Future directions in DBMS research,1994,0,23,13,0.0,251194211,Matthias Jarke,0,-0.0041099411153885,0.0447066884760059
+2341316340,MANAGING DATA WITH FLEXIBLE SCHEMA,2014,30,8,2,0.0,2144473108,Liang Chen,0,2.32975893837443,0.7377462700837835
+2405208318,Optimistic Concurrency Control by Melding Trees,2011,17,24,1,1.0,2304774990,Philip A. Bernstein,0,0.9857375395892468,1.3454133611662402
+2399812323,Transactional Middleware Reconsidered,2013,0,1,1,1.0,2304774990,Philip A. Bernstein,0,-0.19196147509311953,0.14487620954580122
+2399922670,Scaling Optimistic Concurrency Control by Approximately Partitioning the Certifier and Log,2015,20,4,1,1.0,2304774990,Philip A. Bernstein,0,1.1742379448562346,1.7581162361948774
+2400105477,Third-Generation Database System Manifesto - The Committee for Advanced DBMS Function,1990,0,10,7,0.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2484097302,EXAMPLES OF SYSTEMS,1974,0,0,2,0.0,2021372612,Dionysios C. Tsichritzis,0,-0.0041099411153885,0.0447066884760059
+2492759478,Queued Transaction Processing,2009,0,15,2,1.0,2007583087,Eric Newcomer,0,0.5665440861621762,0.7327948443083054
+2435606122,Multiversion concurrency controlâ€”theory and algorithms,1983,20,338,2,0.173584,1992516074,Nathan Goodman,0,2.204731518515938,2.759999119423109
+2582885064,Indexing in an Actor-Oriented Database,2017,5,6,1,1.0,2304774990,Philip A. Bernstein,0,1.4930938461248993,0.736857668491773
+2757434286,System for matching imprinting time of distributed computer data base,1991,0,0,4,0.363636,1983664831,David B. Lomet,0,0.26393200477778567,0.21773495700117207
+2807485921,Actor-Oriented Database Systems,2018,2,3,1,1.0,2304774990,Philip A. Bernstein,0,-0.0041099411153885,0.0447066884760059
+2915129955,Rethinking the Conference Reviewing Process - Panel,2004,0,1,4,0.0,2523407221,Michael J. Franklin,0,-0.0041099411153885,0.0447066884760059
+2912159897,Serverless Event-Stream Processing over Virtual Actors,2019,0,0,1,1.0,2304774990,Philip A. Bernstein,0,0.34388057131986993,-1.079861558922204
+2961260874,Resurrecting Middle-Tier Distributed Transactions,2019,0,0,1,1.0,2304774990,Philip A. Bernstein,0,1.5137427329280495,1.32948014087147
+2941524702,SIGMOD 2018 Program Committee Chairs Report,2019,2,0,1,1.0,2304774990,Philip A. Bernstein,0,-0.25609130579317646,0.2785941556746898
+2998904244,Session details Keynote1,2018,0,0,1,1.0,2304774990,Philip A. Bernstein,0,-0.0041099411153885,0.0447066884760059
+3007024586,The Seattle Report on Database Research,2020,1,0,6,0.0,2170206103,Daniel J. Abadi,0,-0.0041099411153885,0.0447066884760059

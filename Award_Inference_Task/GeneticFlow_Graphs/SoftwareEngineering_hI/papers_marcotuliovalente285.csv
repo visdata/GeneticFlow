@@ -1,0 +1,57 @@
+179716130,Teste de Software Orientado a Objetos TÃ©cnicas EstratÃ©gias e Ferramentas,1999,0,0,3,0.0,2033309784,Roberto da Silva Bigonha,0,-0.0291855379334779,0.0585196112869768
+1917053778,Automatic detection of system-specific conventions unknown to developers,2015,32,7,4,0.0,2430755464,Nicolas Anquetil,0,-0.0291855379334779,0.0585196112869768
+1969728218,Bug Maps A Tool for the Visual Exploration and Analysis of Bugs,2012,9,24,5,0.0,2430755464,Nicolas Anquetil,0,-0.0291855379334779,0.0585196112869768
+1965636200,Mining architectural violations from version history,2016,39,12,2,1.0,2061449158,Cristiano Maffort,0,-0.0291855379334779,0.0585196112869768
+1992761000,The AOSD Research Community in Brazil and Its Crosscutting Impact,2011,109,5,25,0.0,2155692857,Christina Chavez,0,-0.0291855379334779,0.0585196112869768
+2001584205,NextBug a Bugzilla extension for recommending similar bugs,2015,30,7,4,0.666667,2141043583,Henrique Rocha,0,-0.0291855379334779,0.0585196112869768
+2022369388,COMETS a dataset for empirical research on software evolution using source code metrics and time series analysis,2013,7,9,4,0.0,2603446985,Cesar Couto,0,-0.0291855379334779,0.0585196112869768
+2015538933,Recommending Refactorings to Reverse Software Architecture Erosion,2012,27,37,2,1.0,2153681301,Ricardo Terra,0,-0.0291855379334779,0.0585196112869768
+2019261343,Guidelines for Enabling the Extraction of Aspects from Existing Object-Oriented Code,2009,21,6,1,1.0,2099436054,Marco Tulio Valente,0,0.35931953284580015,-0.5674908185703834
+2019464049,Object-Business Process Mapping Frameworks Abstractions Architecture and Implementation,2014,16,0,2,0.0,2120139356,Rogel Garcia,0,-0.45852030700223123,0.22333703537111385
+2024067677,APIEvolutionMiner Keeping API evolution under control,2014,11,17,4,0.288291,97686624,Anne Etien,0,-0.0291855379334779,0.0585196112869768
+2040282617,Does JavaScript software embrace classes,2015,30,16,3,0.0,2808951942,Leonardo Humberto Silva,0,-0.0291855379334779,0.0585196112869768
+2052657693,Documenting APIs with examples Lessons learned with the APIMiner platform,2013,17,54,4,0.0,2048412549,Joao Eduardo Montandon,0,-0.0291855379334779,0.0585196112869768
+2047829033,A LOOSELY COUPLED ASPECT LANGUAGE FOR SOA APPLICATIONS,2008,16,8,5,0.0,2139067110,Nabor C. MendonÃ§a,0,-0.0291855379334779,0.0585196112869768
+2072895015,Static Architecture-Conformance Checking An Illustrative Overview,2010,14,74,3,0.571429,2154842313,Leonardo Passos,0,0.37143112544945756,0.1070653038497
+2097341407,Extracting Software Product Lines A Case Study Using Conditional Compilation,2011,30,64,2,0.0,2224002129,Marcus Vinicius Couto,0,-0.0291855379334779,0.0585196112869768
+2101585275,On the Benefits of Planning and Grouping Software Maintenance Requests,2011,21,22,5,0.0,2011369752,Gladston Aparecido Junio,0,-0.0291855379334779,0.0585196112869768
+2105105771,A gentle introduction to OSGi,2008,8,49,2,0.0,2306953924,Andre Luiz Camargos Tavares,0,-0.0291855379334779,0.0585196112869768
+2106314292,Modularizing communication middleware concerns using aspects,2007,33,1,2,0.0,2550552276,Cristiano Amaral Maffort,0,-0.0291855379334779,0.0585196112869768
+2142651380,Towards a Dependency Constraint Language to Manage Software Architectures,2008,13,13,2,1.0,2153681301,Ricardo Terra,0,-0.0291855379334779,0.0585196112869768
+2134040997,Recording and replaying system specific source code transformations,2015,17,3,5,0.0,2282824477,Gustavo Santos,0,-0.0291855379334779,0.0585196112869768
+2162437868,A dependency constraint language to manage object-oriented software architectures,2009,24,69,2,1.0,2153681301,Ricardo Terra,0,-0.0291855379334779,0.0585196112869768
+2167021929,OrionPlanning Improving modularization and checking consistency on software architecture,2015,13,4,5,0.0,2282824477,Gustavo Santos,0,-0.0291855379334779,0.0585196112869768
+2236450479,Conformidade e visualizaÃ§Ã£o arquitetural em linguagens dinÃ¢micas,2015,0,1,2,0.0,2235377688,Sergio Miranda,0,-0.0291855379334779,0.0585196112869768
+2275949219,JExtract An Eclipse Plug-in for Recommending Automated Extract Method Refactorings,2015,10,3,3,1.0,2561750680,Danilo Silva,0,-0.0291855379334779,0.0585196112869768
+2344103814,A novel approach for estimating Truck Factors,2016,21,42,3,1.0,2338050225,Guilherme Avelino,0,-0.31868159948629415,0.47445993967302685
+2396096459,Metrics-based Detection of Similar Software (S),2013,0,0,3,0.0,2229324464,Paloma Oliveira,0,-0.0291855379334779,0.0585196112869768
+2399578481,VerificaÃ§Ã£o EstÃ¡tica de Arquiteturas de Software utilizando RestriÃ§Ãµes de DependÃªncia,2008,13,1,2,1.0,2153681301,Ricardo Terra,0,-0.0291855379334779,0.0585196112869768
+2398078356,Do Developers Deprecate APIs with Replacement Messages A Large-Scale Analysis on Java Systems,2016,31,19,2,1.0,2622841009,Gleison Brito,0,-0.0291855379334779,0.0585196112869768
+2476494490,Why we refactor confessions of GitHub contributors,2016,43,66,3,1.0,2561750680,Danilo Silva,0,0.16507363120930635,-0.2696288139740148
+2562082053,A Lightweight Remodularization Process Based on Structural Similarity,2016,26,1,2,0.825702,2153681301,Ricardo Terra,0,0.16507363120930635,-0.2696288139740148
+2567192701,Modular Specification of Architectural Constraints,2016,21,1,2,0.0,2564963667,Sandalo Bessa,0,-0.0291855379334779,0.0585196112869768
+2605547445,RefDiff detecting refactorings in version histories,2017,24,29,2,1.0,2561750680,Danilo Silva,0,-0.0291855379334779,0.0585196112869768
+2613773525,AngularJS Performance A Survey Study,2018,1,1,2,1.0,2335493873,Miguel Ramos,0,-0.0291855379334779,0.0585196112869768
+2735173242,Why modern open source projects fail,2017,40,31,2,1.0,2668102802,Jailton Coelho,0,-0.5232362786620735,0.5776155288667976
+2600915151,Historical and impact analysis of API breaking changes A large-scale study,2017,33,30,3,1.0,2601896368,Laerte Xavier,0,-0.0291855379334779,0.0585196112869768
+2773858744,On the use of replacement messages in API deprecation An empirical study,2018,35,13,2,1.0,2622841009,Gleison Brito,0,-0.0291855379334779,0.0585196112869768
+2747183984,DCL 20 modular and reusable specification of architectural constraints,2017,41,1,5,0.666667,2141043583,Henrique Rocha,0,-0.0291855379334779,0.0585196112869768
+2794636447,Who Can Maintain This Code Assessing the Effectiveness of Repository-Mining Techniques for Identifying Software Maintainers,2019,8,5,4,1.0,2338050225,Guilherme Avelino,0,-0.0291855379334779,0.0585196112869768
+2794716673,Assessing the threat of untracked changes in software evolution,2018,68,12,2,1.0,2561750680,Danilo Silva,0,-0.0291855379334779,0.0585196112869768
+2799214346,Open Source Development Around the World A Comparative Study,2018,0,1,2,0.0,2798850988,Thais Mombach,0,-0.045199013351172636,-0.27426587600004093
+2796104318,APIDiff Detecting API breaking changes,2018,25,10,3,1.0,2594276083,Aline Brito,0,-0.0291855379334779,0.0585196112869768
+2783404025,Why and how Java developers break APIs,2018,45,15,3,1.0,2594276083,Aline Brito,0,0.16507363120930635,-0.2696288139740148
+2890328489,Identifying unmaintained projects in github,2018,36,4,2,1.0,2668102802,Jailton Coelho,0,-0.0291855379334779,0.0585196112869768
+2893113314,Feature location benchmark with argoUML SPL,2018,0,6,7,0.0,2137531646,Jabier Martinez,0,-0.7933295451976538,0.1707586031253552
+2920972385,GoCity Code City for Go,2019,23,1,4,0.0,2920947447,Rodrigo Brito,0,-1.3660261895018349,0.07663175246617146
+2949430594,Dynamic Analysis for Software (re-)architecturing,2013,0,0,2,0.0,2013743603,StÃ©phane Ducasse,0,-0.0291855379334779,0.0585196112869768
+2952877478,RefDiff Detecting Refactorings in Version Histories,2017,21,0,2,1.0,2561750680,Danilo Silva,0,-0.0291855379334779,0.0585196112869768
+2953301798,Identifying Unmaintained Projects in GitHub,2018,34,1,2,1.0,2668102802,Jailton Coelho,0,-0.0291855379334779,0.0585196112869768
+3001664244,RefDiff 20 A Multi-language Refactoring Detection Tool,2020,0,0,1,1.0,2099436054,Marco Tulio Valente,0,-0.0291855379334779,0.0585196112869768
+2990868959,You broke my code understanding the motivations for breaking changes in APIs,2020,57,1,2,0.8,2594276083,Aline Brito,0,0.16507363120930635,-0.2696288139740148
+2977117669,Software Engineering Meets Deep Learning A Literature Review,2019,93,0,3,1.0,2977114188,F. Ferreira,0,-0.0291855379334779,0.0585196112869768
+2965991454,How Do Developers Promote Open Source Projects,2019,8,3,2,0.666667,2398927003,Hudson Borges,0,-0.0291855379334779,0.0585196112869768
+3015440189,Are Game Engines Software Frameworks A Three-perspective Study,2020,34,0,4,0.0,2998136518,Cristiano Politowski,0,-0.0291855379334779,0.0585196112869768
+3012874662,Beyond the Code Mining Self-Admitted Technical Debt in Issue Tracker Systems,2020,31,0,4,0.9,2601896368,Laerte Xavier,0,-0.0291855379334779,0.0585196112869768
+3005810006,Is this GitHub project maintained Measuring the level of maintenance activity of open-source projects,2020,52,0,2,1.0,2668102802,Jailton Coelho,0,-0.0291855379334779,0.0585196112869768
+1543881559,A recommendation system for repairing violations detected by static architecture conformance checking,2015,57,18,3,0.906977,2153681301,Ricardo Terra,0,-0.0291855379334779,0.0585196112869768

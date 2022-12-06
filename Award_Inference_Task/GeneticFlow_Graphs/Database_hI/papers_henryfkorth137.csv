@@ -1,0 +1,62 @@
+137818366,A Straw Man Analysis of the Probability of Waiting and Deadlock in a Database System,1981,0,50,3,0.0,2131537204,Jim Gray,0,-0.0041099411153885,0.0447066884760059
+72983286,The Table and the Tree On-Line Access to Relational Data through Virtual XML Documents,2001,10,8,2,0.146449,2003419062,Philip Bohannon,0,2.2264543832113666,-0.864750789273662
+110901978,Transcending the Serializability Requirement,1993,0,4,3,0.2519,2651564987,Rajeev Rastogi,0,1.848620476145237,1.920417192917315
+196018858,A model of CAD transactions,1985,14,155,3,0.0,1935532667,FranÃ§ois Bancilhon,0,0.38009049917121435,0.45246057348231067
+113613521,Information Communication and Money For What Can We Charge and How Can We Meter It ,1998,0,0,1,1.0,665840641,Henry F. Korth,0,0.8191700643455798,0.7182696117176645
+1513560100,Concurrency control protocols for management of replicated data items in a distributed database system,1997,22,72,1,1.0,665840641,Henry F. Korth,0,2.563018941127919,2.6544162566501206
+1497327317,Serial protocol for transaction execution in main-memory database systems,1999,12,20,1,1.0,665840641,Henry F. Korth,0,2.278230186476107,2.2482110049289483
+1542683901,Triggered Real-Time Databases with Consistency Constraints,1990,20,66,1,1.0,665840641,Henry F. Korth,0,2.274970239058965,1.113472391602828
+1515793046,An Optimistic Concurrency Control Protocol for Replicated Databases,2009,30,0,2,0.0,1985207418,Yuri Breitbart,0,2.7100301739155683,3.3029181428868286
+1489988802,The Double Life of the Transaction Abstraction Fundamental Principle and Evolving System Concept,1995,38,17,1,1.0,665840641,Henry F. Korth,0,1.2287066562643156,0.6078323942022947
+1525343879,A formal approach to recovery by compensating transactions,1990,13,223,1,1.0,665840641,Henry F. Korth,0,2.2812462773647795,2.1748008566855273
+1564381193,Database Systems Concepts,1997,0,301,1,1.0,665840641,Henry F. Korth,0,0.541048792242954,0.14109191976847427
+1486483348,Mobile Computing Fertile Research Area or Black Hole (Panel),1993,0,2,1,1.0,665840641,Henry F. Korth,0,-0.0041099411153885,0.0447066884760059
+1557544237,Optimizing view queries in ROLEX to support navigable result trees,2002,22,39,3,0.146449,2003419062,Philip Bohannon,0,0.9768463437750351,-0.23650878289277735
+1512840853,Database System Concepts,1980,0,1171,1,1.0,665840641,Henry F. Korth,0,1.2372450162694706,0.17383909182035837
+1671539192,Future Directions in Database Research (Panel),1998,0,0,3,0.0,2163909284,Surajit Chaudhuri,0,-0.0041099411153885,0.0447066884760059
+1934165661,Method and system for managing replicated data with enhanced consistency and concurrency,1997,20,74,1,1.0,665840641,Henry F. Korth,0,1.8869564495956475,1.8649580029133848
+1815438453,Computer implemented method and apparatus for enhancing access to a file,1999,9,15,1,1.0,665840641,Henry F. Korth,0,-0.9215361270470863,2.7225279205404376
+1852636934,Long-duration transactions in software design projects,1990,13,32,1,1.0,665840641,Henry F. Korth,0,2.1648563914914254,2.48319850852753
+1601296878,An almost-serial protocol for transaction execution in main-memory database systems,2002,20,14,2,0.5625,2306761397,Stephen Blott,0,1.9810285636947926,1.9912190125152003
+1901780586,Real-time event processing system for telecommunications and other applications,1999,21,95,1,1.0,665840641,Henry F. Korth,0,0.4045604802542349,-0.24931654508041853
+1992640817,Database hash-join algorithms on multithreaded computer architectures,2006,24,28,2,0.0,2142378635,Philip Garcia,0,-0.0041099411153885,0.0447066884760059
+1987576733,Strict histories in object-based database systems,1993,12,15,2,0.2519,2651564987,Rajeev Rastogi,0,2.6391864925324606,0.6220565941883286
+1999981671,Database system issues in nomadic computing,1993,5,178,2,0.0,2138960101,Rafael Alonso,0,0.7127906125539677,0.5963381045549225
+1991723162,Efficient Global Transaction Management in Multidatabase Systems,1993,0,1,4,1.0,2201039448,Sharad Mehrotra,0,2.811596997913507,3.006555138847327
+2007711456,ROLEX relational on-line exchange with XML,2003,4,0,4,0.146449,2003419062,Philip Bohannon,0,0.2561748566314993,-0.05626619635012288
+2026956691,Concurrency control in hierarchical multidatabase systems,1997,32,13,2,1.0,2201039448,Sharad Mehrotra,0,-0.0936760237907659,0.8016877913518745
+2020463925,Paper and proposal reviews is the process flawed ,2008,0,6,1,1.0,665840641,Henry F. Korth,0,-0.0041099411153885,0.0447066884760059
+2038271811,SQL/NF a query language for Â¬ 1NF relational databases,1987,22,128,1,1.0,665840641,Henry F. Korth,0,1.7493824621286742,0.292726108325329
+2049461375,Deadlock freedom using edge locks,1982,8,18,1,1.0,665840641,Henry F. Korth,0,2.2478143325415436,2.5897056448822373
+2047880211,Formal aspects of concurrency control in long-duration transaction systems using the NT/PV model,1994,37,48,1,1.0,665840641,Henry F. Korth,0,1.9655469750303822,2.0242702860946715
+2037289266,The Claremont report on database research,2008,6,119,17,0.0,2537924216,Rakesh Agrawal,0,0.11069343465737484,0.7732306852028031
+2064505593,Ensuring consistency in multidatabases by preserving two-level serializability,1998,33,9,3,0.875,2201039448,Sharad Mehrotra,0,3.1952627750687856,3.1937956931832283
+2065206226,An Experimental Distributed Database System,1983,0,2,2,0.0,2780680667,Brent Hailpern,0,1.5941363566824345,0.4510198894069331
+2085733580,Special issue on best papers of VLDB 2012,2014,0,0,5,0.0,388475989,Z. Meral Ozsoyoglu,0,-0.25609130579317646,0.2785941556746898
+2089225035,An optimistic commit protocol for distributed transaction management,1991,15,97,2,0.0,2102486196,Eliezer Levy,0,2.5533225468460703,2.618320489083887
+2091416827,Locking Primitives in a Database System,1983,6,194,1,1.0,665840641,Henry F. Korth,0,2.515628339726741,2.3417044197585115
+2097797867,The design of Â¬ 1NF relational databases into nested normal form,1987,24,36,1,1.0,665840641,Henry F. Korth,0,2.5729564657715027,-0.4369456933490141
+2118411843,DataBlitz A High Performance Main-Memory Storage Manager,1994,19,90,7,1.0,1239098065,Jerry Baulier,0,0.9531862003248694,0.5981179054026532
+2133140186,Interoperability with unstructured data and services,1993,4,1,4,0.0,2144418927,Daniel BarbarÃ¡,0,0.8938915319313818,0.6154606934269702
+2109852881,Systematic multiresolution and its application to the World Wide Web,1999,14,20,2,0.0,2987243480,Swarup Acharya,0,-1.0665864121310615,-0.26441268165457327
+2130817104,Computer implemented method and apparatus for fulfilling a request for information content with a user-selectable version of a file containing that information content,2004,21,69,1,1.0,665840641,Henry F. Korth,0,-0.10313325572746461,-0.0865908469764562
+2143100570,Covering indexes for branching path queries,2002,17,298,4,0.0,2158829505,Raghav Kaushik,0,0.18341149365638526,-0.10367273279934497
+2125183781,A Database System for Real-Time Event Aggregation in Telecommunication,1998,6,22,3,1.0,1239098065,Jerry Baulier,0,0.4169901767344631,-0.03181084648581779
+2140136514,SYSTEM/U a database system based on the universal relation assumption,1984,20,98,1,1.0,665840641,Henry F. Korth,0,1.4493426773655773,-0.18337098948523786
+2116842557,A mobile computer interface for heterogeneous databases,1993,14,4,3,0.0,2138960101,Rafael Alonso,0,0.0835119396817451,0.051530138659233005
+2171502401,Databases with deadline and contingency constraints,1995,12,10,2,0.0,2049737036,Nandit Soparkar,0,0.8273552254514603,0.8874860041707805
+2156855209,The atomic manifesto a story in four quarks,2005,25,15,7,0.0,2142468959,Cliff B. Jones,0,1.614981177218727,1.6110782509539465
+2166565804,Relaxing serializability in multidatabase systems,1992,5,19,3,0.0,2973792112,S. Mehrotra,0,2.303170279079406,2.4479200457099926
+2156003868,The concurrency control problem in multidatabases characteristics and solutions,1992,11,64,4,0.0,2573499485,Sharad Mehrotra,0,2.844884400336666,3.395293331692969
+2189092990,Concepts for Object Databases Object Identity - Object structure - Type Constructors - Encapsulation of Operations - Methods - Persistence - Type and Class Hierarchies - Inheritance - Complex Objects - Object Database Standards Languages and Design ODMG Model - ODL - OQL - Object Relational and Extended - Relational Systems Object Relational feature sin SQL/Oracle - Case Studies,2007,22,0,1,1.0,665840641,Henry F. Korth,0,0.06887865351754878,-0.021677986509170095
+2211352702,Replication consistency and practicality are these mutually exclusive ,1998,14,106,1,1.0,665840641,Henry F. Korth,0,1.5537253331093577,1.7888620687687649
+2253987329,Computer implemented method and apparatus for providing a logical point of access to one or more files,1999,17,6,1,1.0,665840641,Henry F. Korth,0,-0.0041099411153885,0.0447066884760059
+2244584995,Real-time event processing system with service authoring environment,1999,16,101,2,0.0,253981215,Frank Frastaci,0,0.4045604802542349,-0.24931654508041853
+2215315499,Semantics and implementation of schema evolution in object-oriented databases,1987,8,635,4,0.0,2265738525,Jay Banerjee,0,2.9692651887438934,0.14090312015850273
+2278372655,Method and apparatus for updating XML views of relational data,2004,5,72,2,0.0,295202118,Suryanarayan Perinkulam,0,1.9601410891001894,-0.29445072708133946
+2278965508,Strict Histories in Object-Based Database,1992,0,2,1,1.0,665840641,Henry F. Korth,0,1.7862147444421785,1.9338814350050428
+2502127085,Techniques for Failure-Resilient Transaction Management in Multidatabases,1991,0,2,1,1.0,665840641,Henry F. Korth,0,0.35320092442589646,1.1978425461043982
+2574708956,Letter from the Associate Editor,2012,0,0,1,1.0,665840641,Henry F. Korth,0,-0.0041099411153885,0.0447066884760059
+2786907054,Letter from the Associate Editors,2012,0,0,2,0.0,121171588,Anthony K. H. Tung,0,-0.0041099411153885,0.0447066884760059
+2913776938,Session details Research session 11 database optimization,2009,0,0,1,1.0,665840641,Henry F. Korth,0,0.15078008121335376,-0.3479109213520426
+2972189020,Database System Concepts Edisi 6,2012,0,1,1,1.0,665840641,Henry F. Korth,0,-0.0041099411153885,0.0447066884760059

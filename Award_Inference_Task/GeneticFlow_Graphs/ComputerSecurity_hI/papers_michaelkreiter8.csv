@@ -1,0 +1,192 @@
+189798858,Integrity checking in cryptographic file systems with constant trusted storage,2007,31,29,2,0.666667,2107406691,Alina Oprea,0,0.0040557659796233,0.2757546058061082
+88813478,Safe Passage for Passwords and Other Sensitive Data,2009,27,62,3,0.62069,2304896318,Jonathan M. McCune,0,0.2696415624561154,0.6415826598696847
+174223721,Consumable Credentials in Logic-Based Access Control,2006,50,10,4,1.0,114048148,Frank Pfenning,0,-0.0055216156628483315,0.8431774549076696
+123789716,Using voice to generate cryptographic keys,2001,14,80,2,1.0,126037460,Fabian Monrose,0,-0.9016301769688129,-1.5393951974128701
+192474156,Timing Attacks in Low-Latency Mix Systems (Extended Abstract),2004,13,4,2,0.0,2157465969,Brian Neil Levine,0,-1.6341546348979454,-0.4020107981483716
+162157665,Consumable Credentials in Linear-Logic-Based Access-Control Systems,2007,38,29,5,1.0,2087448355,Kevin D. Bowers,0,-0.023550276898621297,0.7099097923564667
+9454396,Detecting and Resolving Policy Misconfigurations in Access-Control Systems (CMU-CyLab-08-004),2008,22,0,3,0.636364,211403037,Scott Garriss,0,-0.023550276898621297,0.7099097923564667
+95954701,Toward a Framework for Internet Forensic Analysis,2004,25,51,2,0.0,2063025135,David A. Maltz,0,-1.4378671217193235,-0.0066250810914841125
+63051556,Third-Party Private DFA Evaluation on Encrypted Files in the Cloud,2012,46,15,2,1.0,2310621302,Lei Wei,0,0.5582908033812906,-1.2880460236508697
+182572639,Comparing Access-Control Technologies A Study of Keys and Smartphones,2007,14,4,4,0.0,368046975,Lorrie Faith Cranor,0,0.034087110285124435,0.4622828984487633
+30366967,How to Securely Replicate,1994,27,0,2,0.4,2094398115,Kenneth P. Birman,0,-0.3440049988069842,-0.7308859244315841
+184773994,On web browsing privacy in anonymized NetFlows,2007,31,64,5,0.6,378166711,Scott E. Coull,0,0.0040557659796233,0.2757546058061082
+14784157,Is Host-Based Anomaly Detection + Temporal Correlation = Worm Causality,2007,24,8,1,1.0,2260712038,Michael K. Reiter,0,-0.1263468363595049,0.2087157531210343
+239528740,Accountability for Information Flow via Explicit Formal Proof,2009,6,0,4,1.0,114048148,Frank Pfenning,0,-0.21345060022059847,0.6251792460113104
+251447984,How to securely replicate services (preliminary version),1992,19,0,2,0.0,2094398115,Kenneth P. Birman,0,-0.10044348710157473,-0.6870657239703699
+317979085,The Safety and Liveness Properties of a Protocol Family for Versatile Survivable Storage Infrastructures (CMU-PDL-03-105),2004,24,4,3,0.0,2791808,Gregory R. Ganger,0,0.1639362940477497,0.6530314529854678
+1467377467,Usability of Augmented Reality for Revealing Secret Messages to Users but Not Their Devices,2015,21,7,2,0.0,2343351139,Sarah J. Andrabi,0,1.2611720649414808,-0.8543680020966087
+1531756074,Taming the Devil Techniques for Evaluating Anonymized Network Data,2008,28,50,5,0.6,378166711,Scott E. Coull,0,-0.2263130908120603,0.5625424318017056
+1470905967,Private Keyword-Based Push and Pull with Applications to Anonymous Communication,2004,19,10,3,0.0,2044694329,Lea Kissner,0,0.22159849628781264,-0.17595849267003252
+1515786888,Toward Speech-Generated Cryptographic Keys on Resource-Constrained Devices,2002,21,61,2,1.0,126037460,Fabian Monrose,0,0.16625186412845705,-0.7405372439782839
+1534463199,Building reliable mix networks with fair exchange,2005,28,13,1,1.0,2260712038,Michael K. Reiter,0,0.5521728114752597,-0.006554472020770729
+1553440281,Fair Exchange with a Semi-Trusted Third Party,1997,23,187,2,0.732907,2109797638,M. Franklin,0,0.3502496698236535,-0.535507920937683
+1571886861,Software aging method and apparatus for discouraging software piracy,2000,2,15,2,0.333333,2003233211,Bjorn Markus Jakobsson,0,-0.15690159877558046,-1.7540808197232676
+1527284808,Automatically Adapting a Trained Anomaly Detector to Software Patches,2009,22,8,3,1.0,2303984338,Peng Li,0,0.0040557659796233,0.2757546058061082
+1564072004,The design and implementation of a JCA-compliant capture protection infrastructure,2003,15,1,1,1.0,2260712038,Michael K. Reiter,0,-0.27116316064879153,-0.9700522402709802
+1502268134,Prometheus Enhancing the Quality of Service of the Joint Battlespace Infosphere,2006,51,0,2,0.159836,2094398115,Kenneth P. Birman,0,-1.0628599870857174,0.8946420992762717
+1485033854,The design and analysis of graphical passwords,1999,25,688,4,0.0,231192597,Ian H. Jermyn,0,-2.1515779663099206,-1.4272692808646261
+1503108337,On user choice in graphical password schemes,2004,25,407,3,0.0,2161916987,Darren Davis,0,-2.297909047153235,-1.6118407264726207
+1547780404,Seurat A Pointillist Approach to Anomaly Detection,2004,27,47,4,0.857143,2780105532,Yinglian Xie,0,0.13679434731489165,0.6751406926737795
+1530598529,Method for providing authentication assurance in a key-binding system,1998,10,23,1,1.0,2260712038,Michael K. Reiter,0,-0.2548058081651406,0.06334333473161845
+1549262233,Censorship resistance revisited,2005,32,15,2,0.0,2973549831,Ginger Perng,0,-0.532869458999502,-0.7548351160639681
+1540379871,Making Peer-Assisted Content Distribution Robust to Collusion Using Bandwidth Puzzles,2009,36,9,1,1.0,2260712038,Michael K. Reiter,0,-0.05926968850311532,-0.8889427580180799
+1549590828,Finding peer-to-peer file-sharing using coarse network behaviors,2006,23,41,2,0.714286,2122021792,Michael Collins,0,-0.0396052558567056,0.6875126758063789
+1902914144,Detection of denial-of-message attacks on sensor network broadcasts,2005,28,121,4,0.610169,2304896318,Jonathan M. McCune,0,-0.5530861437885858,-0.004176666300269333
+1744102868,Ensuring File Authenticity in Private DFA Evaluation on Encrypted Files in the Cloud,2013,42,4,2,1.0,2310621302,Lei Wei,0,0.0040557659796233,0.2757546058061082
+1595522037,Two-Party Generation of DSA Signatures,2001,41,36,2,0.526316,2950706750,Philip D. MacKenzie,0,-0.10529187387774959,-2.1425117396375297
+1586721308,Discouraging Software Piracy Using Software Aging,2001,3,36,2,0.0,2057643108,Markus Jakobsson,0,-1.3721930698182816,1.7734739921660752
+1586807939,On gray-box program tracking for anomaly detection,2004,28,91,2,1.0,2108338047,Debin Gao,0,0.0040557659796233,0.2757546058061082
+1596091941,Methods and apparatus for delegation of cryptographic servers for capture-resilient devices,2002,13,8,1,1.0,2260712038,Michael K. Reiter,0,-1.7548747271365892,-1.402791508123084
+1750367720,Methods and apparatus for providing networked cryptographic devices resilient to capture,2002,11,25,1,1.0,2260712038,Michael K. Reiter,0,-0.21715982915933063,-0.4065785557480922
+1878942608,Methods and apparatus for providing privacy-preserving global customization,2001,17,108,4,1.0,126037460,Fabian Monrose,0,0.20704221787612057,0.491600872824411
+1753702614,Verifiable signature sharing,1995,23,49,2,0.763636,2109797638,M. Franklin,0,-0.827168238703547,-2.2960767474568065
+1805704774,Playing Devils Advocate Inferring Sensitive Information from Anonymized Network Traces,2007,30,107,5,0.6,378166711,Scott E. Coull,0,-0.3287690164964345,0.14636193449847731
+1885120025,Space-Efficient Block Storage Integrity,2005,23,71,2,0.666667,2107406691,Alina Oprea,0,-0.8416094633408876,-0.3088809222715723
+1913575206,A Multi-Resolution Approach forWorm Detection and Containment,2006,20,51,1,1.0,2260712038,Michael K. Reiter,0,0.0040557659796233,0.2757546058061082
+1852513433,Distributed proving in access-control systems,2005,22,107,3,0.686567,2151574249,Lujo Bauer,0,0.08129750402330117,0.6819789253796007
+1608584523,Trustworthy services and the biological analogy,2007,0,0,1,1.0,2260712038,Michael K. Reiter,0,-0.18618689656946605,0.637946401295037
+1821783325,Security by and for converged mobile devices,2004,0,1,1,1.0,2260712038,Michael K. Reiter,0,-1.1209100926378308,0.04914424682055486
+1591082683,On challenges in evaluating malware clustering,2010,17,67,4,1.0,2303984338,Peng Li,0,-0.334333390620263,1.1326084744453335
+1591850112,Data structures with unpredictable timing,2009,21,4,2,0.857143,2115139093,Darrell Bethea,0,-0.6126257112894188,-0.3324092557607417
+1826219940,Secure auction systems,1996,6,246,2,0.763636,2109797638,M. Franklin,0,0.0040557659796233,0.2757546058061082
+1620837667,The practical subtleties of biometric key generation,2008,47,82,3,0.0,2152188672,Lucas Ballard,0,-0.19544293919944075,-1.0036271050267727
+1924517333,Fault-Tolerant Key Distribution (Preliminary Version),1993,22,0,3,0.8,2094398115,Kenneth P. Birman,0,-0.0370735972734307,-1.0783035837408996
+1593886280,On the Limits of Payload-Oblivious Network Attack Detection,2008,26,12,2,1.0,2095875884,M. Patrick Collins,0,0.8576307995317985,1.3823638699684757
+1869319442,Timing Attacks in Low-Latency Mix Systems,2004,19,224,3,0.0,2150048447,Matthew Wright,0,-0.3674307391602518,-0.731755468114276
+1969819641,StopWatch A Cloud Architecture for Timing Channel Mitigation,2014,44,28,3,1.0,2303984338,Peng Li,0,0.0040557659796233,0.2757546058061082
+1982108161,Securing Causal Relationships in Distributed Systems,1995,1,15,1,1.0,2260712038,Michael K. Reiter,0,0.0040557659796233,0.2757546058061082
+1978884755,Crowds anonymity for Web transactions,1998,20,1687,1,1.0,2260712038,Michael K. Reiter,0,0.7864673498611523,0.4543782726626659
+1978991108,Fast and Black-box Exploit Detection and Signature Generation for Commodity Software,2008,50,4,5,0.311948,2703623524,Xiaofeng Wang,0,-0.062381790079658626,0.6663522020135398
+1975439966,Mitigating bandwidth-exhaustion attacks using congestion puzzles,2004,34,79,2,0.4566,2703623524,Xiaofeng Wang,0,0.11891079665515335,0.6351650518220645
+1967074206,Verifiable network function outsourcing requirements challenges and roadmap,2013,27,26,2,0.0,2043843826,Seyed Kaveh Fayazbakhsh,0,0.12040524684656785,0.19341231050682683
+1968987369,A user study of policy creation in a flexible access-control system,2008,15,55,4,0.869565,2151574249,Lujo Bauer,0,-0.9655234031664606,0.3171031401957464
+1978063312,Packet vaccine black-box exploit detection and signature generation,2006,34,74,4,0.4566,2703623524,Xiaofeng Wang,0,0.1639362940477497,0.6530314529854678
+1981645457,The post anachronism the temporal dimension of facebook privacy,2013,26,26,5,0.395147,2151574249,Lujo Bauer,0,0.0040557659796233,0.2757546058061082
+1994459695,Side Channels in Multi-Tenant Environments,2015,0,3,1,1.0,2260712038,Michael K. Reiter,0,-0.3636117593593878,1.5286747019721225
+2005028112,False data injection attacks against state estimation in electric power grids,2009,42,850,3,0.444444,2107409051,Yao Liu,0,0.1639362940477497,0.6530314529854678
+2001759130,Cross-Tenant Side-Channel Attacks in PaaS Clouds,2014,31,160,3,1.0,2158166610,Yinqian Zhang,0,0.9753907213017128,-0.24445946668398916
+2002204971,Lessons learned from the deployment of a smartphone-based access-control system,2007,29,55,3,0.869565,2151574249,Lujo Bauer,0,-0.023550276898621297,0.7099097923564667
+1992291252,Cross-VM side channels and their use to extract private keys,2012,37,541,3,1.0,2158166610,Yinqian Zhang,0,-0.12301185170248632,-1.0546338091665874
+2011890340,Delegation of cryptographic servers for capture-resilient devices,2001,20,15,2,0.526316,2950706750,Philip D. MacKenzie,0,-2.150635070786528,-1.4286993189295196
+2017306439,Delegation of cryptographic servers for capture-resilient devices,2003,21,20,2,0.75,2950706750,Philip D. MacKenzie,0,-1.8059593909952116,-1.4408486300491532
+2017439879,Password hardening based on keystroke dynamics,1999,30,255,2,0.88,126037460,Fabian Monrose,0,-2.30145558031474,-1.6069661581111137
+2014171012,An Epidemiological Study of Malware Encounters in a Large Enterprise,2014,16,41,4,0.625,2928829527,Ting Fang Yen,0,-0.0459825125796302,0.5112591179091426
+2019514876,Detecting and resolving policy misconfigurations in access-control systems,2008,33,37,3,0.869565,2151574249,Lujo Bauer,0,-0.023550276898621297,0.7099097923564667
+2016143606,Seeing-Is-Believing using camera phones for human-verifiable authentication,2009,31,71,3,0.62069,2304896318,Jonathan M. McCune,0,-0.6576048022628502,-0.9818471824211568
+2018680338,Automatic generation of two-party computations,2003,37,34,3,0.75,2950706750,Philip D. MacKenzie,0,0.46600543017830653,-1.3485229795346925
+2023930035,How to securely replicate services,1994,37,91,1,1.0,2260712038,Michael K. Reiter,0,-0.10044348710157473,-0.6870657239703699
+2047186275,Out of sight out of mind Effects of displaying access-control information near the item it controls,2012,17,16,4,0.642857,2010556746,Kami Vaniea,0,-0.0055216156628483315,0.8431774549076696
+2035091681,Nomad Mitigating Arbitrary Cloud Side Channels via Provider-Assisted Migration,2015,40,53,3,0.0,2918219679,Soo Jin Moon,0,-0.0704802660657359,0.09794035737183271
+2038651258,False data injection attacks against state estimation in electric power grids,2011,44,741,3,0.444444,2107409051,Yao Liu,0,0.0040557659796233,0.2757546058061082
+2038790802,An authorization model for a public key management service,2001,21,18,2,0.0,2087987499,Pierangela Samarati,0,-0.08324523629984186,-1.0792284852894944
+2054691008,xDomain cross-border proofs of access,2009,30,8,3,0.656203,2151574249,Lujo Bauer,0,-0.3352823088263202,1.2327817006800752
+2049913483,Secure agreement protocols reliable and atomic group multicast in rampart,1994,32,250,1,1.0,2260712038,Michael K. Reiter,0,0.0040557659796233,0.2757546058061082
+2044721700,Authentication metric analysis and design,1999,28,144,1,1.0,2260712038,Michael K. Reiter,0,-0.4277429829992878,-1.0607699840488791
+2034195502,DÃ¼ppel retrofitting commodity operating systems to mitigate cache side channels in the cloud,2013,36,116,2,1.0,2158166610,Yinqian Zhang,0,0.9753907213017128,-0.24445946668398916
+2045020574,Expandable grids for visualizing and authoring computer security policies,2008,6,122,4,0.0,2935190451,Robert W. Reeder,0,-0.3383784544281044,0.15268826611744696
+2034641841,Two-party generation of DSA signatures,2004,45,43,2,0.75,2950706750,Philip D. MacKenzie,0,-0.38628497204249973,-1.8157109707884909
+2055816813,The middlebox manifesto enabling innovation in middlebox deployment,2011,21,119,3,0.336319,2293201185,Vyas Sekar,0,0.0040557659796233,0.2757546058061082
+2061153163,Understanding domain registration abuses,2012,13,5,5,0.397323,378166711,Scott E. Coull,0,0.0040557659796233,0.2757546058061082
+2061472011,Toward practical encrypted email that supports private regular-expression searches,2015,41,3,2,1.0,2310621302,Lei Wei,0,0.155870422438688,-0.3611899258997246
+2062150667,Issues and mechanisms for trustworthy systems Creating transparent mistrust,1994,15,3,2,0.0,2072487745,Thomas B. London,0,-0.4132730952645422,0.8720134742971752
+2069219260,Mitigating Storage Side Channels Using Statistical Privacy Mechanisms,2015,44,21,2,1.0,2230189425,Qiuyu Xiao,0,0.4891699889831208,0.28169865501863256
+2089246895,Which PKI (public key infrastructure) is the right one (panel session),2000,6,3,4,0.0,2940779212,Carlisle Adams,0,-0.0747190717393115,-0.5847123449443884
+2085952809,Detecting and resolving policy misconfigurations in access-control systems,2011,28,61,3,0.463149,2151574249,Lujo Bauer,0,-0.023550276898621297,0.7099097923564667
+2100207371,Forensic Analysis for Epidemic Attacks in Federated Networks,2006,15,43,3,0.857143,2780105532,Yinglian Xie,0,0.7197712816117044,0.27790993721029206
+2103761955,The design and implementation of a secure auction service,1996,26,243,2,0.763636,2109797638,M. Franklin,0,0.0040557659796233,0.2757546058061082
+2091833612,The security of modern password expiration an algorithmic framework and empirical analysis,2010,21,128,3,1.0,2158166610,Yinqian Zhang,0,-2.297909047153235,-1.6118407264726207
+2104209065,Traffic Aggregation for Malware Detection,2008,42,178,2,1.0,2928829527,Ting Fang Yen,0,0.05940095047987125,0.6960502266457337
+2086751352,Fair exchange with a semi-trusted third party (extended abstract),1997,17,136,2,0.732907,2109797638,M. Franklin,0,0.2977030333544188,0.42209627204681427
+2098622176,Privacy-preserving genomic computation through program specialization,2009,67,67,5,0.0,2585799294,Rui Wang,0,0.6979627471116719,-0.021043568125878005
+2083413496,A multi-layer framework for puzzle-based denial-of-service defense,2008,56,22,2,0.311948,2703623524,Xiaofeng Wang,0,0.24968098299146535,0.27883177690158006
+2101712275,WRAPS Denial-of-Service Defense through Web Referrals,2006,34,8,2,0.4566,2703623524,Xiaofeng Wang,0,0.0040557659796233,0.2757546058061082
+2088791698,Defending against device theft with human notarization,2014,19,0,4,1.0,2232417758,Alana Libonati,0,-0.183986146760707,-0.4900899240245796
+2105140491,Hit-list worm detection and bot identification in large networks using protocol graphs,2007,29,75,2,1.0,2095875884,M. Patrick Collins,0,0.0040557659796233,0.2757546058061082
+2114590627,Are Your Hosts Trading or Plotting Telling P2P File-Sharing and Bots Apart,2010,46,67,2,1.0,2928829527,Ting Fang Yen,0,0.0040557659796233,0.2757546058061082
+2114633847,Bounded vector signatures and their applications,2011,40,5,3,1.0,2310621302,Lei Wei,0,-0.06379738324554864,-1.3981931801572323
+2117708768,Defending against denial-of-service attacks with puzzle auctions,2003,18,196,1,1.0,2260712038,Michael K. Reiter,0,0.3171484069971384,-0.13992525839030945
+2141547891,Minimal TCB Code Execution,2007,19,52,4,0.610169,2304896318,Jonathan M. McCune,0,0.09185462073762597,0.2861171120998424
+2138464740,Summary-invisible networking techniques and defenses,2010,48,1,2,1.0,2310621302,Lei Wei,0,-1.849432942852349,2.2197575014087185
+2109037124,Secure execution of Java applets using a remote playground,1998,21,46,2,0.705882,2195039702,Dahlia Malkhi,0,-0.06882682971652375,0.2835116913221821
+2112454243,How low can you go recommendations for hardware-supported minimal TCB code execution,2008,16,62,4,0.62069,2304896318,Jonathan M. McCune,0,0.458315283065839,1.3078596206253412
+2115823234,The Î© key management service,1996,28,27,3,0.763636,2109797638,M. Franklin,0,0.20483883260186886,-0.8792222854861746
+2136451687,Networked cryptographic devices resilient to capture,2001,43,119,2,0.0,2974030836,P. MacKenzie,0,0.03292414863556123,-2.242221422109688
+2121885527,Server-side verification of client behavior in online games,2011,36,19,3,1.0,2115139093,Darrell Bethea,0,0.0040557659796233,0.2757546058061082
+2121926377,Reducing the trusted computing base for applications on commodity systems,2009,146,17,2,0.0,2213385919,Adrian Perrig,0,0.34806519941606345,0.6013972746988576
+2107135371,Behavioral distance for intrusion detection,2005,35,48,2,1.0,2108338047,Debin Gao,0,0.13679434731489165,0.6751406926737795
+2122182632,A secure group membership protocol,1996,31,121,1,1.0,2260712038,Michael K. Reiter,0,0.3171484069971384,-0.13992525839030945
+2133948077,The design and implementation of a secure auction service,1995,22,68,2,0.763636,2109797638,M. Franklin,0,0.0040557659796233,0.2757546058061082
+2122237601,Toward acceptable metrics of authentication,1997,23,92,1,1.0,2260712038,Michael K. Reiter,0,-0.5778972965017511,-0.8491090068198911
+2134073393,Behavioral distance measurement using hidden markov models,2006,39,84,2,1.0,2108338047,Debin Gao,0,0.13679434731489165,0.6751406926737795
+2131183039,Cryptographic key generation from voice,2001,23,317,2,1.0,126037460,Fabian Monrose,0,-1.0219634892738478,-1.9337580831485246
+2107661464,Password hardening based on keystroke dynamics,2002,27,202,2,1.0,126037460,Fabian Monrose,0,-1.024275931636352,-0.01211935284931239
+2134294016,Efficient proving for practical distributed access-control systems,2007,35,37,3,0.869565,2151574249,Lujo Bauer,0,-0.023550276898621297,0.7099097923564667
+2116897550,Seeing-is-believing using camera phones for human-verifiable authentication,2005,46,438,3,0.610169,2304896318,Jonathan M. McCune,0,-0.6991971375604031,-1.0551322500774343
+2137569638,Gray-box extraction of execution graphs for anomaly detection,2004,21,124,2,1.0,2108338047,Debin Gao,0,0.8132086575740218,0.9257086063639175
+2117141284,Towards practical biometric key generation with randomized biometric templates,2008,23,56,4,0.0,2152188672,Lucas Ballard,0,-0.7509828672672894,-0.9859957876425485
+2137754263,Worm origin identification using random moonwalks,2005,25,87,4,0.857143,2780105532,Yinglian Xie,0,0.05014485837033889,0.7975742658702493
+2150626176,Path independence for authentication in large-scale systems,1997,22,61,1,1.0,2260712038,Michael K. Reiter,0,-0.5530861437885858,-0.004176666300269333
+2183816381,Efficient Compromise Resilient and Append-Only Cryptographic Schemes for Secure Audit Logging,2012,47,31,3,0.0,2098645130,Attila A. Yavuz,0,0.255792616055988,-1.1375813074207637
+2144932173,User-Controllable Security and Privacy for Pervasive Computing,2007,11,58,13,0.0,2599980953,Jason Cornwell,0,0.4774516653720497,1.6585540382495938
+2162983184,Integrating security in a group oriented distributed system,1992,28,49,1,1.0,2260712038,Michael K. Reiter,0,-0.17834731461848033,-0.5471092608440283
+2169185337,Cryptographic Key Generation from Voice (Extended Abstract),2001,23,18,2,0.0,2161497311,Susanne Wetzel,0,-1.3861142935231778,-1.9089816818899505
+2169461225,HomeAlone Co-residency Detection in the Cloud via Side-Channel Analysis,2011,40,244,4,1.0,2158166610,Yinqian Zhang,0,0.9753907213017128,-0.24445946668398916
+2151657570,Protecting Privacy in Key-Value Search Systems,2006,31,11,2,0.857143,2780105532,Yinglian Xie,0,-0.05030379516630645,0.3478931795771383
+2157579260,On the security of pay-per-click and other Web advertising schemes,1999,2,72,5,0.0,37743088,Vinod Anupam,0,0.0040557659796233,0.2757546058061082
+2163698861,Better Architectures and New Security Applications for Network Monitoring,2009,11,0,1,1.0,2260712038,Michael K. Reiter,0,-0.08079933212867273,0.9073932630445657
+2164425130,BAF and FI-BAF Efficient and Publicly Verifiable Cryptographic Schemes for Secure Logging in Resource-Constrained Systems,2012,40,24,3,0.0,2098645130,Attila A. Yavuz,0,0.7920751603789424,-0.6723999645083041
+2153000698,Using Web-Referral Architectures to Mitigate Denial-of-Service Threats,2010,49,12,2,0.241428,2703623524,Xiaofeng Wang,0,0.0040557659796233,0.2757546058061082
+2165080990,An empirical analysis of target-resident DoS filters,2004,31,31,2,0.6,2122021792,Michael Collins,0,0.0040557659796233,0.2757546058061082
+2189351192,Forensic Analysis for Epidemic Attacks in,2006,16,0,1,1.0,2260712038,Michael K. Reiter,0,0.0040557659796233,0.2757546058061082
+2237802441,Toward strong usable access control for shared distributed data,2014,61,20,8,0.0,2105909935,Michelle L. Mazurek,0,-0.023550276898621297,0.7099097923564667
+2259758604,Security policy enforcement framework for cloud-based information processing systems,2011,8,15,2,1.0,2158166610,Yinqian Zhang,0,-0.5876602069611916,1.422482924094138
+2215404731,ANONYMOUS AND SECURE ELECTRONIC COMMERCE,2000,3,8,2,0.333333,2003233211,Bjorn Markus Jakobsson,0,-0.1716073289493191,0.18669486856232723
+2269205123,SNIPS A Software-Defined Approach for Scaling Intrusion Prevention Systems via Offloading,2014,32,6,3,0.0,65502744,Victor Heorhiadi,0,0.13679434731489165,0.6751406926737795
+2269761706,Generation of repeatable cryptographic key based on varying parameters,2000,22,37,5,0.88,126037460,Fabian Monrose,0,-0.3881184917391486,-0.4590059588255727
+2293277129,Fragile mixing,2004,31,14,1,1.0,2260712038,Michael K. Reiter,0,0.5130909028774767,-0.015201725268215616
+2300181966,Server-side verification of client behavior in cryptographic protocols,2016,22,1,4,0.0,2611266070,Andrew Chi,0,-0.18752318033276372,-0.06877657485119615
+2290321799,Detecting and Resolving Policy MisconÃžgurations i n Access-Control Systems,2008,27,0,3,0.636364,211403037,Scott Garriss,0,-0.023550276898621297,0.7099097923564667
+2321197968,Device-Enabled Authorization in the Grey System (Extended Abstract),2005,23,0,5,0.666667,211403037,Scott Garriss,0,-0.0055216156628483315,0.8431774549076696
+2302098303,A Software Approach to Defeating Side Channels in Last-Level Caches,2016,33,59,2,1.0,2139615768,Ziqiao Zhou,0,0.0040557659796233,0.2757546058061082
+2398870078,The Omega Key Management Service,1996,0,14,1,1.0,2260712038,Michael K. Reiter,0,0.5377943876296638,-0.605901515741278
+2397457163,Server-side Verification of Client Behavior in Online Games,2010,0,10,3,1.0,2115139093,Darrell Bethea,0,0.0040557659796233,0.2757546058061082
+2406017529,Usability Testing a Malware-Resistant Input Mechanism,2011,26,9,3,1.0,2232417758,Alana Libonati,0,-0.22256970966841327,0.42114124282802107
+2489768546,Trust and Trustworthy Computing,2012,0,0,6,0.0,989270,Edgar R. Weippl,0,-0.614019011105703,0.3076250039011757
+2434388681,Cryptology and network security 14th International Conference CANS 2015 Marrakesh Morocco December 10-12 2015 proceedings,2015,0,0,1,1.0,2260712038,Michael K. Reiter,0,-0.04235685736773698,0.21975946043450612
+2461943168,Stealing Machine Learning Models via Prediction APIs,2016,39,168,4,0.0,2122808249,Florian TramÃ¨r,0,-0.1808645143951975,0.8039012169725659
+2481955061,Finding Peer-to-Peer File-Sharing Using Coarse Network Behaviors,2006,0,0,2,0.714286,2122021792,Michael Collins,0,-0.0396052558567056,0.6875126758063789
+2539268077,CCSW16 8th ACM Cloud Computing Security Workshop,2016,0,0,2,0.0,2145051244,Elli Androulaki,0,0.0040557659796233,0.2757546058061082
+2535873859,Accessorize to a Crime Real and Stealthy Attacks on State-of-the-Art Face Recognition,2016,38,425,4,0.6,2290775672,Mahmood Sharif,0,-0.6004968609510046,0.6645784437343777
+2601402335,Defending against denial-of-service attacks with puzzle auctions,2003,0,0,1,1.0,2260712038,Michael K. Reiter,0,0.0040557659796233,0.2757546058061082
+2734571963,The Rampart toolkit for building high-integrity services,1995,0,142,1,1.0,2260712038,Michael K. Reiter,0,0.0040557659796233,0.2757546058061082
+2624359066,Rethinking Security in the Era of Cloud Computing,2017,18,17,5,0.0,2083607902,Jay Aikat,0,0.3171484069971384,-0.13992525839030945
+2610893174,GENI design principles,2006,0,87,11,0.0,36741956,John Wroclawski,0,1.7029826062605458,-0.2600589908962866
+2614345871,Introducing Reputation Systems to the Economics of Outsourcing Computations to Rational Workers,2016,24,0,3,0.0,278367684,Jassim Aljuraidan,0,0.0040557659796233,0.2757546058061082
+2599412271,Timing Attacks in Low-Latency Mix Systems (Extended Abstract),2004,17,19,2,0.0,2157465969,Brian Neil Levine,0,-1.6341546348979454,-0.4020107981483716
+2607208703,Which PKI (Public Key Infrastructure) is the right one,2000,6,3,2,0.0,2094917606,Yvo Desmedt,0,-0.08650044772053431,-1.449101006869995
+2599829375,Detecting Privileged Side-Channel Attacks in Shielded Execution with DÃ©jÃ  Vu,2017,56,67,3,0.0,2734960670,Sanchuan Chen,0,0.42972921454364443,-0.15731655672571063
+2622105318,Determining risk of malware infection in enterprise hosts,2014,43,2,1,1.0,2260712038,Michael K. Reiter,0,0.25553752762548526,0.7551642369664288
+2737339050,Î© key management service,1996,0,0,3,0.763636,2109797638,M. Franklin,0,0.5377943876296638,-0.605901515741278
+2766506159,Personalized Pseudonyms for Servers in the Cloud,2017,29,0,2,1.0,2230189425,Qiuyu Xiao,0,0.0040557659796233,0.2757546058061082
+2751477048,Design and implementation of a secure auction service,1995,0,1,2,0.763636,2109797638,M. Franklin,0,0.0040557659796233,0.2757546058061082
+2770376757,Cryptology and Network Security,2015,0,0,1,1.0,2260712038,Michael K. Reiter,0,0.42736916530366337,0.19784724694239997
+2765220050,To Permit or Not to Permit That is the Usability Question Crowdsourcing Mobile Appsâ€™ Privacy Permission Settings,2017,41,3,4,0.0,2126663513,Apu Kapadia,0,0.0040557659796233,0.2757546058061082
+2752830085,Secure Causal Atomic Broadcast Revisited,2017,58,6,2,1.0,2122219692,Sisi Duan,0,0.48600303416769314,-0.654838392019225
+2799210599,How to end password reuse on the web,2018,32,3,2,0.857143,2798818029,Ke Coby Wang,0,-1.5107491968220055,-0.903601204871899
+2795302536,Static Evaluation of Noninterference Using Approximate Model Counting,2018,47,4,3,1.0,2139615768,Ziqiao Zhou,0,0.0040557659796233,0.2757546058061082
+2863381592,Asynchronous Verifiable Secret-Sharing Protocols on a Good Day,2018,0,2,4,1.0,2948523900,Soumya Basu,0,0.29392382053358135,0.10045542812224656
+2912661168,Proceedings of the 5th international conference on Trust and Trustworthy Computing,2012,0,0,5,0.0,989270,Edgar R. Weippl,0,-1.1455337880870722,0.8817502850780771
+2890933237,BEAT Asynchronous BFT Made Practical,2018,77,27,2,1.0,2122219692,Sisi Duan,0,0.0040557659796233,0.2757546058061082
+2907156059,PwoP Intrusion-Tolerant and Privacy-Preserving Sensor Fusion,2018,0,0,3,0.0,2111831036,Chenglu Jin,0,0.03414406787360945,0.2818663120264617
+2911556001,Proceedings of the 5th ACM conference on Computer and communications security,1998,0,0,1,1.0,2260712038,Michael K. Reiter,0,0.0345193044346854,0.11711036493391322
+2912131422,Session details Attacks 1,2008,0,0,1,1.0,2260712038,Michael K. Reiter,0,0.0040557659796233,0.2757546058061082
+2951574317,A software approach to defeating side channels in last-level caches,2016,27,0,2,1.0,2139615768,Ziqiao Zhou,0,0.0040557659796233,0.2757546058061082
+2946905885,Statistical Privacy for Streaming Traffic,2019,0,7,3,0.529412,2503403019,Xiaokuan Zhang,0,0.0040557659796233,0.2757546058061082
+2952189448,Secure Execution of Java Applets using a Remote Playground,1999,14,0,2,0.705882,2195039702,Dahlia Malkhi,0,0.0040557659796233,0.2757546058061082
+2963559715,How to End Password Reuse on the Web,2018,0,0,2,0.857143,2798818029,Ke Coby Wang,0,-0.3912276319926795,0.07353894049935202
+2996382967,Optimization-Guided Binary Diversification to Mislead Neural Networks for Malware Detection,2019,99,0,4,0.6,2290775672,Mahmood Sharif,0,0.05940095047987125,0.6960502266457337
+2997142075,Detecting stuffing of a users credentials at her own accounts,2019,57,0,2,0.857143,2798818029,Ke Coby Wang,0,-0.9590579342597801,-0.17425747715544518
+2980554512,n-m-Variant Systems Adversarial-Resistant Software Rejuvenation for Cloud-Based Web Applications,2019,35,0,4,1.0,2981034249,Isaac Polinsky,0,0.0040557659796233,0.2757546058061082
+2988763627,Efficient Verifiable Secret Sharing with Share Recovery in BFT Protocols,2019,27,0,5,1.0,2948523900,Soumya Basu,0,0.29392382053358135,0.10045542812224656
+3023255879,Detecting Stuffing of a Userâ€™s Credentials at Her Own Accounts,2019,0,0,1,1.0,2260712038,Michael K. Reiter,0,0.0040557659796233,0.2757546058061082
+3010956057,n-m-Variant Systems Adversarial-Resistant Software Rejuvenation for Cloud-Based Web Applications,2020,23,0,4,1.0,2981034249,Isaac Polinsky,0,0.0040557659796233,0.2757546058061082

@@ -1,0 +1,93 @@
+69302728,Efficient Roll-Up and Drill-Down Analysis for Large Data Sets,1997,0,0,1,1.0,2421291724,Min Wang,0,0.31146111225209855,0.0980286955204765
+104562218,Evaluating Trigger Conditions on Streaming Time Series with User-given Quality Requirements,2005,14,0,2,1.0,2634089884,Like Gao,0,0.003708468606338,0.082832279151172
+145573554,On-Line Selectivity Estimation for XML Path Expressions using Markov Histograms,2005,16,0,4,0.75,2149519810,Lipyeow Lim,0,-2.383288623490431,-0.27887975907813406
+44787795,Approximation and learning techniques in database systems,1999,0,8,2,0.385925,118037170,Jeffrey Scott Vitter,0,0.7845946202482457,0.12599860763242138
+119813091,XPathLearner an on-line self-tuning Markov histogram for XML path selectivity estimation,2002,15,79,2,1.0,2149519810,Lipyeow Lim,0,-2.6720113124520477,-0.3595635881744143
+811022062,PATTERN MINING BASED ON OCCUPANCY,2012,17,2,3,1.0,2119198671,Linpeng Tang,0,0.003708468606338,0.082832279151172
+1496310013,Modeling and Querying E-Commerce Data in Hybrid Relational-XML DBMSs,2008,17,1,3,0.578141,2149519810,Lipyeow Lim,0,-2.399568558349525,-0.2761363466063392
+1489255272,Dynamic Maintenance of Wavelet-Based Histograms,2000,18,163,3,0.43723,1874579918,Yossi Matias,0,0.003708468606338,0.082832279151172
+1533393553,Statistics collection using path-value pairs for relational databases,2008,27,16,3,0.0,1989769784,George A. Mihaila,0,-0.3543208172595861,0.4674063995448079
+1481348215,Method and apparatus for organizing data sources,2006,17,32,3,0.521739,2132804468,Yuan Chi Chang,0,-0.34499503988633795,0.7386747492092276
+1554303244,Learning-based method for estimating cost and statistics of complex operators in continuous queries,2004,11,75,2,0.0,2200939589,Sriram Padmanabhan,0,0.003708468606338,0.082832279151172
+1572990282,Unifying data and domain knowledge using virtual views,2007,16,17,3,0.642289,2149519810,Lipyeow Lim,0,-0.3662358158385614,-0.008812570419738673
+1556460505,Query processing method of name-value pairs in relational databases,2002,6,12,3,0.521739,2132804468,Yuan Chi Chang,0,-0.8081127895007062,0.12535991413877937
+1512605461,Scalable set oriented classifier,1997,13,57,2,0.0,2309647949,Balakrishna R. Iyer,0,0.9501917913727268,0.4336529110087657
+1792747154,Query optimization through the use of multi-column statistics to avoid the problems of non-indexed column correlation,1999,7,66,4,1.0,1588441595,Akira Shibamiya,0,-0.32833842330621765,0.14262047738587502
+1586832667,Towards efficient join processing over large RDF graph using mapreduce,2012,17,7,3,1.0,2102579599,Xiaofei Zhang,0,-0.8863962014295828,0.17622656217889832
+1750237583,Wavelet-Based Cost Estimation for Spatial Queries,2001,22,17,1,1.0,2421291724,Min Wang,0,-0.5703684799491398,0.6894494368532158
+1578539484,Characterizing Web Document Change,2001,7,42,2,0.923077,2149519810,Lipyeow Lim,0,-0.09076229145795592,-2.3447560213689727
+1582198748,System and method for provenance function window optimization,2013,29,8,2,0.0,2065194656,Chitra Venkatramani,0,0.003708468606338,0.082832279151172
+1583433099,Supporting Efficient Parametric Search of E-Commerce Data A Loosely-Coupled Solution,2002,21,0,1,1.0,2421291724,Min Wang,0,-1.0703328648787966,0.4236662093111628
+1864010644,LinkedCT A Linked Data Space for Clinical Trials,2009,3,51,5,0.0,2090809909,Oktie Hassanzadeh,0,0.9851888479422026,-2.4287986617277384
+1730336764,Query optimization through the use of multi-column statistics to avoid the problems of column correlation,1997,5,33,4,0.0,1588441595,Akira Shibamiya,0,-0.1643799570760568,0.2865028192498083
+1979110895,gSketch on query estimation in graph streams,2011,30,52,3,0.0,2169163720,Peixiang Zhao,0,-0.1071931497347323,0.3242721482837629
+1982845811,Boolean + ranking querying a database by k-constrained optimization,2006,19,45,4,0.0,2429181981,Zhen Zhang,0,-0.030303859474011263,0.08268456851462398
+1965698293,Harnessing the wisdom of the crowds for accurate web page clipping,2012,16,8,6,0.0,2646931153,Lei Zhang,0,-0.1464196266054812,-3.1132891889150502
+1985019655,GRIAS An Entity-Relation Graph Based Framework for Discovering Entity Aliases,2013,29,5,6,0.555556,2144920549,Lili Jiang,0,0.5267719473833705,0.14448331150722465
+1981634604,Flexible aggregate similarity search,2011,22,39,5,0.0,2716030107,Yang Li,0,-0.1984714131877254,-0.08331523624254955
+1989503831,Provenance query evaluation whats so special about it ,2009,21,7,2,0.560612,2295328501,Anastasios Kementsietsidis,0,-0.0395804122397981,0.0068802457672825015
+1998244781,Approximate computation of multidimensional aggregates of sparse data using wavelets,1999,22,351,2,0.385925,118037170,Jeffrey Scott Vitter,0,0.8662170003594584,0.24779847258463505
+2005508116,LIEGE link entities in web lists with knowledge base,2012,25,35,3,0.0,2105625159,Jianyong Wang,0,0.38493344995228673,-1.8053345884427672
+1993715838,LINDEN linking named entities with knowledge base via semantic knowledge,2012,32,139,4,1.0,2667078396,Wei Shen,0,0.18626953451291692,0.015527257143967984
+1993783004,A framework for semantic link discovery over relational data,2009,13,52,5,0.0,2090809909,Oktie Hassanzadeh,0,-0.4818833862468891,0.009913284302419445
+2001240895,Incorporating occupancy into frequent pattern mining for high quality pattern recommendation,2012,18,16,4,1.0,2119198671,Linpeng Tang,0,-0.0769353016057025,-0.2600287055078183
+2022444209,Discovering General Prominent Streaks in Sequence Data,2014,36,6,4,0.0,2130615231,Gensheng Zhang,0,0.04058852858681295,-0.03346779459016044
+2010749868,Toward detection of aliases without string similarity,2014,28,4,5,0.0,2115812999,Ning An,0,0.3033927747922414,0.24213753140379826
+2012698696,A declarative framework for semantic link discovery over relational data,2009,0,33,4,0.0,2090809909,Oktie Hassanzadeh,0,0.2945405349046661,-1.0977043562438653
+2011078029,Efficient multi-way theta-join processing using MapReduce,2012,28,75,3,1.0,2102579599,Xiaofei Zhang,0,-0.049353160759023795,0.2086543161939848
+2021850646,Wavelet-based histograms for selectivity estimation,1998,31,390,3,0.43723,1874579918,Yossi Matias,0,-0.17877749763405593,0.32603561421750554
+2020319597,Prominent streak discovery in sequence data,2011,26,14,4,1.0,2673235168,Xiao Jiang,0,0.04058852858681295,-0.03346779459016044
+2045604576,Data cube approximation and histograms via wavelets,1998,25,218,2,0.385925,118037170,Jeffrey Scott Vitter,0,0.003708468606338,0.082832279151172
+2036959307,EAGRE Towards scalable I/O efficient SPARQL query evaluation on the cloud,2013,36,48,4,1.0,2102579599,Xiaofei Zhang,0,0.8663254960625479,-1.5233600158324623
+2046136038,AWETO efficient incremental update and querying in rdf storage system,2011,11,7,4,0.0,2109453883,Xu Pu,0,1.5265647145065842,-2.451997533052389
+2034151228,APOLLO a general framework for populating ontology with named entities via random walks on graphs,2012,3,1,4,1.0,2667078396,Wei Shen,0,-0.06841371053155088,-0.4964000743074952
+2059303863,Occupancy-Based Frequent Pattern Mining *,2015,46,8,6,1.0,2119198671,Linpeng Tang,0,-0.0769353016057025,-0.2600287055078183
+2068128131,Exploiting entity relationship for query expansion in enterprise search,2014,60,15,4,0.333333,2165030786,Xitong Liu,0,-0.01657107088421793,0.035389748403282274
+2063014845,Towards alias detection without string similarity an active learning based approach,2012,7,9,5,0.555556,2144920549,Lili Jiang,0,0.3033927747922414,0.24213753140379826
+2075333684,Leveraging integrated information to extract query subtopics for search result diversification,2014,38,3,4,0.307692,2309143296,Wei Zheng,0,0.33694442549985915,-0.16829940518196296
+2058124204,Silence is also evidence interpreting dwell time for recommendation from psychological perspective,2013,33,34,4,1.0,2113084173,Peifeng Yin,0,0.003708468606338,0.082832279151172
+2057047055,Linking named entities in Tweets with knowledge base via user interest modeling,2013,25,88,4,1.0,2667078396,Wei Shen,0,-0.061891622197426076,0.1585382635476583
+2074836925,Supporting ranking and clustering as generalized order-by and group-by,2007,31,40,2,0.293478,2145831560,Chengkai Li,0,-0.2289478084607717,0.6267679081750427
+2091317512,A straw shows which way the wind blows ranking potentially popular items from early votes,2012,18,29,3,1.0,2113084173,Peifeng Yin,0,0.003708468606338,0.082832279151172
+2082718569,A learning-based approach to estimate statistics of operators in continuous queries a case study,2003,27,7,2,1.0,2634089884,Like Gao,0,-0.18491194037464231,0.42700371160364303
+2081090440,From Social User Activities to People Affiliation,2013,16,9,4,0.0,2130219586,Guangxiang Zeng,0,0.003708468606338,0.082832279151172
+2100901653,Scalable mining for classification rules in relational databases,1998,21,41,1,1.0,2421291724,Min Wang,0,-1.2768443041585662,0.5550527678866188
+2103993576,Modeling Autonomous Catalog for Electronic Commerce,2004,3,0,3,0.0,2716469377,Yuan Chi Chang,0,-1.019872009582708,0.38829303896716616
+2093808275,Optimizing Statistical Information Extraction Programs over Evolving Text,2012,26,21,4,0.647059,2663443569,Fei Chen,0,0.3093702597112594,0.0781901659384289
+2094256707,Entity centric query expansion for enterprise search,2012,20,2,4,0.666667,2165030786,Xitong Liu,0,-0.01657107088421793,0.035389748403282274
+2135127625,A graph-based approach for ontology population with named entities,2012,29,20,4,1.0,2667078396,Wei Shen,0,2.2905404507178377,-2.149358497218092
+2123403011,Search result diversification for enterprise data,2011,15,8,4,0.307692,2309143296,Wei Zheng,0,0.7192945486090562,-0.9154392284971621
+2111672772,Wiki3C exploiting wikipedia for context-aware concept categorization,2013,28,7,7,0.0,2667544051,Peng Jiang,0,0.43708316401617725,0.18860309594490002
+2105971467,Cryptography and relational database management systems,2001,13,62,2,0.0,2564022943,J. He,0,-0.9498230734629068,0.5008733353646987
+2138752345,CXHist an on-line classification-based histogram for XML string selectivity estimation,2005,31,15,3,0.18004,118037170,Jeffrey Scott Vitter,0,-0.752894432043452,0.15845230501237761
+2135857164,Expressing and Optimizing Similarity-Based Queries in SQL,2004,12,10,2,1.0,2634089884,Like Gao,0,-0.12466581407126265,-0.08072133031728083
+2121604804,Selectivity estimation in the presence of alphanumeric correlations,1997,11,20,1,1.0,2421291724,Min Wang,0,-0.7115739254660983,0.16717641040082076
+2119515018,Finding relevant information of certain types from enterprise data,2011,34,3,4,0.666667,2165030786,Xitong Liu,0,-0.8005007660249878,0.7734926278270656
+2134548141,REACTOR a framework for semantic relation extraction and tagging over enterprise data,2011,1,9,4,1.0,2667078396,Wei Shen,0,-0.8188371286862764,-0.7208867665311548
+2131702534,Semantic queries by example,2013,19,17,3,0.51744,2149519810,Lipyeow Lim,0,-0.49595005092027233,-0.04788167293008065
+2131760692,On the Efficiency of Provenance Queries,2009,19,6,2,0.560612,2295328501,Anastasios Kementsietsidis,0,0.05019300570140304,-0.0004780834116030654
+2153230306,SASH a self-adaptive histogram set for dynamically changing workloads,2003,16,38,2,1.0,2149519810,Lipyeow Lim,0,-0.0395804122397981,0.0068802457672825015
+2153257312,Linkage Query Writer,2009,5,20,6,0.0,2090809909,Oktie Hassanzadeh,0,-0.3668575250066242,0.04914228475668488
+2156998544,Optimizing content freshness of relations extracted from the web using keyword search,2010,18,11,4,0.0,2112980736,Mohan Yang,0,0.0319076004896971,-3.0325563848254156
+2157022538,Dynamic maintenance of web indexes using landmarks,2003,28,77,2,1.0,2149519810,Lipyeow Lim,0,0.6642631993651279,0.8704818474401211
+2163101220,Semantic queries in databases problems and challenges,2009,13,13,3,0.536782,2149519810,Lipyeow Lim,0,0.22667548218533057,-0.824115396153017
+2160582691,Semantic Data Management Towards Querying Data with their Meaning,2007,7,15,3,0.642289,2149519810,Lipyeow Lim,0,-0.46997353372547884,-0.3391325315621536
+2170538507,Rewriting queries on SPARQL views,2011,24,34,5,0.0,2120460824,Wangchao Le,0,0.9477445511974487,-2.4135185564046258
+2242466953,METHOD AND SYSTEM FOR COMBINING RANKING AND CLUSTERING IN A DATABASE MANAGEMENT SYSTEM,2007,6,27,3,0.293478,2145831560,Chengkai Li,0,-0.21934185016841626,0.6056873083074126
+2267977268,Exact and approximate flexible aggregate similarity search,2016,22,5,7,0.0,2472728339,Feifei Li,0,-0.1984714131877254,-0.08331523624254955
+2273031084,Statistics collection using path-identifiers for relational databases,2009,20,5,3,0.0,1989769784,George A. Mihaila,0,-0.3410244870316197,0.34677491813734984
+2264140984,GENERATING A HINT FOR A QUERY,2013,10,0,3,1.0,2161123335,Shimin Chen,0,-0.1029618939806145,0.040434369851773004
+2240510296,Method for merging multiple ranked lists with bounded memory,2005,8,17,6,0.0,1965523549,Ioana Stanoi,0,0.003708468606338,0.082832279151172
+2273640063,Editorial Efficient incremental update and querying in AWETO RDF storage system,2014,34,2,5,0.0,2105625159,Jianyong Wang,0,1.5265647145065842,-2.451997533052389
+2249777566,Understanding Short Texts through Semantic Enrichment and Hashing,2016,31,22,4,0.0,2190595604,Zheng Yu,0,0.3387958587247798,-0.4565835992578918
+2207543008,Indexing provenance data and evaluating provenance data queries in data processing systems,2009,34,14,2,0.560612,2295328501,Anastasios Kementsietsidis,0,-0.1161250729931801,-0.07077718800954501
+2270293877,Determining and validating provenance data in data stream processing system,2008,33,2,4,0.0,2102328917,Daby Sow,0,0.931391865232481,-0.32146155170075674
+2293244088,Efficient and Flexible Index Access in MapReduce,2014,20,1,5,0.0,2798482480,Zhao Cao,0,-0.5070691955501558,-0.05155365228370595
+2306220742,A Hybrid Framework for Semantic Relation Extraction over Enterprise Data,2015,28,2,4,0.679245,2667078396,Wei Shen,0,-0.36625859387488563,-0.059920785718242664
+2407097287,METHOD AND SYSTEM FOR INDEXING AND SERIALIZING DATA,2007,8,12,2,0.642289,2149519810,Lipyeow Lim,0,1.2975189203120934,-0.010607994410701302
+2484371772,Revisiting bound estimation of pattern measures,2016,50,6,3,0.0,2136372366,Enhong Chen,0,0.003708468606338,0.082832279151172
+2422455892,Understanding short texts through semantic enrichment and hashing,2016,10,0,4,0.0,2190595604,Zheng Yu,0,-0.29104459712932956,0.5262643920331967
+2584392062,Modeling autonomous catalog for electronic commerce,2004,0,0,3,0.0,2716469377,Yuan Chi Chang,0,-1.019872009582708,0.38829303896716616
+2585969132,Expressing and optimizing similarity-based queries in SQL,2004,0,0,2,0.0,2585643495,Like Gaol,0,-0.12466581407126265,-0.08072133031728083
+2796029064,Method and system for indexing and serializing tree structured data,2008,7,1,2,0.578141,2149519810,Lipyeow Lim,0,-0.8790215136294314,-0.06475933356138806
+2951362750,gSketch On Query Estimation in Graph Streams,2011,25,4,3,0.0,2169163720,Peixiang Zhao,0,-0.1071931497347323,0.3242721482837629

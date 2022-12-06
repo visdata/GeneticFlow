@@ -1,0 +1,97 @@
+121173099,DroidMiner Automated Mining and Characterization of Fine-grained Malicious Behaviors in Android Applications,2014,50,140,3,1.0,2138725398,Chao Yang,0,0.05940095047987125,0.6960502266457337
+191098608,BotHunter detecting malware infection through IDS-driven dialog correlation,2007,41,647,1,1.0,2150371625,Guofei Gu,0,0.12944494320330083,0.8222090776109727
+6720599,Botnet Detection in Enterprise Networks,2011,5,0,1,1.0,2150371625,Guofei Gu,0,0.0040557659796233,0.2757546058061082
+67117737,GoldenEye Efficiently and Effectively Unveiling Malwareâ€™s Targeted Environment,2014,28,13,3,1.0,2136449669,Jialong Zhang,0,-0.27410520138219224,1.2791467325705501
+260232723,SRID State Relation Based Intrusion Detection for False Data Injection Attacks in SCADA,2014,26,30,6,0.0,3015464024,Yong Wang,0,0.28363615156565775,0.7032639137484684
+1506287296,PLI A New Framework to Protect Digital Content for P2P Networks,2003,16,17,1,1.0,2150371625,Guofei Gu,0,0.9392884314664477,0.4792430069773136
+1561369259,A First Step Toward Network Security Virtualization From Concept To Prototype,2015,24,36,3,0.6603,2116582575,Seungwon Shin,0,-1.1240052536646212,2.113515909865993
+1233141674,Die free or live hard empirical evaluation and new design for fighting evolving twitter spammers,2011,16,155,3,1.0,2138725398,Chao Yang,0,0.0040557659796233,0.2757546058061082
+1501523446,PoisonAmplifier a guided approach of discovering compromised websites through reversing search poisoning attacks,2012,13,13,4,1.0,2136449669,Jialong Zhang,0,0.05940095047987125,0.6960502266457337
+1438616768,UIPicker user-input privacy identification in mobile applications,2015,31,38,5,1.0,2369906774,Yuhong Nan,0,0.18734164975112608,0.4385951083679249
+1540548505,HoneyStat Local Worm Detection Using Honeypots,2004,33,175,3,0.235294,160465655,David Dagon,0,-0.0938040514995232,0.8640620412541171
+1567574980,Systematic Mining of Associated Server Herds for Malware Campaign Discovery,2015,17,17,3,1.0,2136449669,Jialong Zhang,0,0.6180558295031452,0.9776363717803248
+1586871184,Worm detection early warning and response based on local victim information,2004,19,106,1,1.0,2150371625,Guofei Gu,0,0.0040557659796233,0.2757546058061082
+1775772884,BotMiner clustering analysis of network traffic for protocol- and structure-independent botnet detection,2008,36,936,1,1.0,2150371625,Guofei Gu,0,0.0040557659796233,0.2757546058061082
+1583098994,BotSniffer Detecting Botnet Command and Control Channels in Network Traffic,2008,24,672,1,1.0,2150371625,Guofei Gu,0,0.3259332239481683,0.5745734317069635
+1976878954,TaintScope A Checksum-Aware Directed Fuzzing Tool for Automatic Software Vulnerability Detection,2010,43,185,3,0.461538,2110459679,Tielei Wang,0,0.0040557659796233,0.2757546058061082
+1985686072,Vetting undesirable behaviors in android apps with permission use analysis,2013,50,218,5,0.928571,2600652429,Yuan Zhang,0,-0.024607701557182792,1.2744970039255954
+1964991438,PeerPress utilizing enemies P2P strength against them,2012,39,22,3,1.0,2151702823,Zhaoyan Xu,0,-0.3715309518837706,1.3295396455232105
+1979086041,Detecting money-stealing apps in alternative Android markets,2012,5,16,4,1.0,2138725398,Chao Yang,0,-0.27070157107372,0.9003394372229532
+1965205240,SEMAGE a new image-based two-factor CAPTCHA,2011,25,36,3,1.0,2227761028,Shardul Vikram,0,-0.4095652199915964,0.3246894702283116
+1984451560,Poisoning Network Visibility in Software-Defined Networks New Attacks and Countermeasures,2015,0,173,4,1.0,2945430710,Sungmin Hong,0,0.0040557659796233,0.2757546058061082
+1980003963,EFFORT Efficient and effective bot malware detection,2012,20,36,3,1.0,2116582575,Seungwon Shin,0,0.7161354986322349,0.9600790623188239
+1997974141,A taste of tweets reverse engineering Twitter spammers,2014,32,15,3,1.0,2138725398,Chao Yang,0,0.02080662431885795,0.3505429208334274
+2003568760,Shadow attacks automatically evading system-call-behavior based malware detection,2012,28,44,4,0.0,2634232430,Weiqin Ma,0,-0.9439932276633382,1.7925395305476344
+2005813008,A Large-Scale Empirical Study of Conficker,2012,15,45,2,1.0,2116582575,Seungwon Shin,0,-0.04051792882256375,0.5745629644742005
+1997138723,Active User-Side Evil Twin Access Point Detection Using Statistical Techniques,2012,24,47,3,1.0,2138725398,Chao Yang,0,-0.025212363995004632,0.4879228716070627
+2000804913,Automatic generation of vaccines for malware immunization,2012,4,1,3,1.0,2151702823,Zhaoyan Xu,0,-0.27410520138219224,1.2791467325705501
+1988774297,Attacking software-defined networks a first feasibility study,2013,3,177,2,0.9,2116582575,Seungwon Shin,0,0.0040557659796233,0.2757546058061082
+2012575532,Conficker and beyond a large-scale empirical study,2010,12,65,2,1.0,2116582575,Seungwon Shin,0,0.09714779332529166,0.6343288231009241
+2033031156,Permission Use Analysis for Vetting Undesirable Behaviors in Android Apps,2014,51,15,4,0.928571,2600652429,Yuan Zhang,0,-0.5346674810953296,1.2325879114566591
+2054143615,CyberProbe Towards Internet-Scale Active Detection of Malicious Servers,2014,40,22,5,0.0,2037381259,Antonio Nappa,0,0.05940095047987125,0.6960502266457337
+2043314203,Measuring intrusion detection capability an information-theoretic approach,2006,23,113,1,1.0,2150371625,Guofei Gu,0,0.13679434731489165,0.6751406926737795
+2057726290,VulHunter Toward Discovering Vulnerabilities in Android Applications,2015,7,17,4,0.0,2120150549,Chenxiong Qian,0,0.3259332239481683,0.5745734317069635
+2068583268,SmartDroid an automatic system for revealing UI-based trigger conditions in android applications,2012,18,165,4,0.0,2480438257,Cong Zheng,0,0.0040557659796233,0.2757546058061082
+2063524226,NOMAD Towards non-intrusive moving-target defense against web bots,2013,23,25,3,1.0,2227761028,Shardul Vikram,0,0.0040557659796233,0.2757546058061082
+2082456656,Boosting the scalability of botnet detection using adaptive traffic sampling,2011,23,28,4,0.0,2421950894,Junjie Zhang,0,0.3071331255154989,0.7412245476517926
+2086041922,Misleading and defeating importance-scanning malware propagation,2007,31,10,1,1.0,2150371625,Guofei Gu,0,-0.07997701694055213,0.843434102123871
+2100125945,DSO dependable signing overlay,2006,32,3,1,1.0,2150371625,Guofei Gu,0,0.35303303050045487,-0.07145091769871881
+2085577046,AppIntent analyzing sensitive data transmission in android for privacy leakage detection,2013,38,262,4,1.0,2169574056,Zhemin Yang,0,-0.0663687048587582,0.6689622367383014
+2132029108,Towards an information-theoretic framework for analyzing intrusion detection systems,2006,28,36,1,1.0,2150371625,Guofei Gu,0,0.13679434731489165,0.6751406926737795
+2130365590,WebPatrol automated collection and replay of web-based malware scenarios,2011,11,30,2,0.0,2921489025,Kevin Zhijie Chen,0,0.0040557659796233,0.2757546058061082
+2121619222,Bin-Carver Automatic recovery of binary executable files,2012,16,7,2,0.0,2136751487,Zhiqiang Lin,0,0.0040557659796233,0.2757546058061082
+2107173149,Cross-Analysis of botnet victims new insights and implications,2011,12,14,3,1.0,2116582575,Seungwon Shin,0,0.05940095047987125,0.6960502266457337
+2122156845,Who is peeping at your passwords at Starbucks â€” To catch an evil twin access point,2010,21,59,2,1.0,2138725398,Chao Yang,0,-0.3617238869508636,0.29518817860668467
+2107890513,InfoShield a security architecture for protecting information usage in memory,2006,24,41,3,0.0,2962743766,Weidong Shi,0,0.4252690192087137,-0.011968757714813668
+2172075419,Checksum-Aware Fuzzing Combined with Dynamic Taint Analysis and Symbolic Execution,2011,47,23,3,0.461538,2110459679,Tielei Wang,0,0.0040557659796233,0.2757546058061082
+2145079976,EFFORT A new host-network cooperated framework for efficient and effective bot malware detection,2013,28,13,3,0.9,2116582575,Seungwon Shin,0,0.8952414216631353,0.09429713313900948
+2166321883,AUTOVAC Automatically Extracting System Resource Constraints and Generating Vaccines for Malware Immunization,2013,20,11,3,1.0,2151702823,Zhaoyan Xu,0,-0.04704201958343179,0.39750474693219845
+2160824842,AVANT-GUARD scalable and vigilant switch flow management in software-defined networks,2013,23,351,4,0.9,2116582575,Seungwon Shin,0,0.1639362940477497,0.6530314529854678
+2145959654,Active Botnet Probing to Identify Obscure Command and Control Channels,2009,31,63,1,1.0,2150371625,Guofei Gu,0,0.597357908130621,1.105773301025712
+2167163438,Security in Wireless Local Area Networks,2013,33,8,2,1.0,2138725398,Chao Yang,0,-0.3617238869508636,0.29518817860668467
+2155440239,AUTOPROBE Towards Automatic Active Malicious Server Probing Using Dynamic Binary Analysis,2014,28,16,6,1.0,2151702823,Zhaoyan Xu,0,0.6915041673136203,0.37471443563124984
+2155624544,FRESCO Modular Composable Security Services for Software-Defined Networks,2013,38,405,5,0.9,2116582575,Seungwon Shin,0,0.3259332239481683,0.5745734317069635
+2152955531,A Taxonomy of Botnet Structures,2007,51,239,2,0.235294,160465655,David Dagon,0,0.0040557659796233,0.2757546058061082
+2259399453,Method and apparatus for detecting malware infection,2008,47,179,1,1.0,2150371625,Guofei Gu,0,0.05940095047987125,0.6960502266457337
+2296416533,FineDroid Enforcing Permissions with System-Wide Application Execution Context,2015,32,7,3,1.0,2600652429,Yuan Zhang,0,-0.023550276898621297,0.7099097923564667
+2291666728,Protecting networked systems from malware threats,2013,0,3,2,0.9,2116582575,Seungwon Shin,0,0.4783002333907699,0.8606143002528615
+2403960249,NEIGHBORWATCHER A Content-Agnostic Comment Spam Inference System,2013,17,14,2,1.0,2136449669,Jialong Zhang,0,0.1639362940477497,0.6530314529854678
+2405517096,Abusing browser address bar for fun and profit - an empirical investigation of add-on cross site scripting attacks,2014,23,0,5,0.0,2122648457,Yinzhi Cao,0,0.0040557659796233,0.2757546058061082
+2392058240,Shadow Attacks Based on Password Reuses A Quantitative Empirical Analysis,2018,26,14,4,0.0,2673798158,Weili Han,0,-1.6198562251017672,-0.8499530253284027
+2466399651,PRIDE A practical intrusion detection system for resource constrained wireless mesh networks,2016,43,8,4,0.0,2088521291,Amin Hassanzadeh,0,0.13679434731489165,0.6751406926737795
+2444232594,Rethinking Permission Enforcement Mechanism on Mobile Systems,2016,36,11,3,1.0,2600652429,Yuan Zhang,0,-0.023550276898621297,0.7099097923564667
+2492259055,Hunting for invisibility Characterizing and detecting malicious web infrastructures through server visibility analysis,2016,26,4,5,1.0,2136449669,Jialong Zhang,0,0.023707716465622104,0.4825799354689653
+2550306025,Identifying User-Input Privacy in Mobile Applications at a Large Scale,2017,35,4,6,1.0,2369906774,Yuhong Nan,0,0.34102952773510475,1.0199330347697495
+2574415138,Towards SDN-Defined Programmable BYOD (Bring Your Own Device) Security,2016,9,13,5,1.0,2945430710,Sungmin Hong,0,0.0040557659796233,0.2757546058061082
+2585176828,SDN-NFV security 2016 preface,2016,0,0,3,0.0,2102996759,Hongxin Hu,0,0.0040557659796233,0.2757546058061082
+2519646782,Enhancing Network Security through Software Defined Networking (SDN),2016,49,35,4,0.497376,2116582575,Seungwon Shin,0,-1.1030129414283603,1.9842971168643577
+2610265588,DSO Dependable signing overlay,2006,0,0,1,1.0,2150371625,Guofei Gu,0,-0.15337398443963937,-0.2586004243996637
+2735251792,Understanding the Market-Level and Network-Level Behaviors of the Android Malware Ecosystem,2017,23,7,3,1.0,2138725398,Chao Yang,0,0.2968650138122562,1.3323695002255909
+2611834484,PLI A new framework to protect digital content for P2P networks,2003,0,1,1,1.0,2150371625,Guofei Gu,0,0.5469539742734406,0.013881602261551218
+2626078087,Go Ahead of Malwares Infections and Controls Towards New Techniques for Proactive Cyber Defense,2016,0,0,1,1.0,2150371625,Guofei Gu,0,0.3018222476975964,1.3313942328441637
+2762651835,Bring your own controller Enabling tenant-defined SDN apps in IaaS clouds,2017,23,2,5,1.0,2104628131,Haopei Wang,0,-0.09124415144156724,0.5997152199963068
+2750735446,Building a Security OS With Software Defined Infrastructure,2017,49,1,1,1.0,2150371625,Guofei Gu,0,-0.9301804029596308,1.6824063373214893
+2751167560,Attacking the Brain Races in the {SDN} Control Plane,2017,26,19,5,1.0,2595039151,Lei Xu,0,0.0040557659796233,0.2757546058061082
+2754927807,EvilDirect A New Wi-Fi Direct Hijacking Attack and Countermeasures,2017,21,2,3,1.0,2069825779,Ala Altaweel,0,-0.17324153726119554,0.6587671663167594
+2742842038,SDN-NFV Security 2017 Preface,2017,0,0,3,0.0,2102996759,Hongxin Hu,0,0.0040557659796233,0.2757546058061082
+2752052041,Malton Towards On-Device Non-Invasive Mobile Malware Analysis for ART,2017,56,20,5,0.0,2701717472,Lei Xue,0,-0.8115777292816129,1.0554354031823359
+2758509082,Flow Wars Systemizing the Attack Surface and Defenses in Software-Defined Networks,2017,47,26,8,0.0,2185329406,Changhoon Yoon,0,-0.09602735134178905,0.6849619620451437
+2794648377,Mobile Application Web API Reconnaissance Web-to-Mobile Inconsistencies &amp; Vulnerabilities,2018,32,6,1,1.0,2150371625,Guofei Gu,0,0.0040557659796233,0.2757546058061082
+2794889514,Study and Mitigation of Origin Stripping Vulnerabilities in Hybrid-postMessage Enabled Mobile Applications,2018,22,7,3,0.777778,2228102083,Guangliang Yang,0,-0.18093063267091658,0.4696899054941046
+2790170320,Automated Generation of Event-Oriented Exploits in Android Hybrid Apps,2018,25,6,3,0.777778,2228102083,Guangliang Yang,0,0.1639362940477497,0.6530314529854678
+2890515393,Control Plane Reflection Attacks in SDNs New Attacks and Countermeasures,2018,31,2,5,0.8,2745520306,Menghao Zhang,0,0.1639362940477497,0.6530314529854678
+2913675650,Proceedings of the 2016 ACM International Workshop on Security in Software Defined Networks &amp; Network Function Virtualization,2016,0,0,3,0.0,2102996759,Hongxin Hu,0,0.0040557659796233,0.2757546058061082
+2891973224,Error-Sensor Mining Information from HTTP Error Traffic for Malware Intelligence,2018,31,1,3,0.870754,2136449669,Jialong Zhang,0,0.022548527060958865,0.8453884773994309
+2892116995,Towards Fine-grained Network Security Forensics and Diagnosis in the SDN Era,2018,35,3,6,1.0,2104628131,Haopei Wang,0,0.3259332239481683,0.5745734317069635
+2892214024,vNIDS Towards Elastic Security with Safe and Efficient Virtualization of Network Intrusion Detection Systems,2018,55,10,3,0.0,2312089421,Hongda Li,0,0.13679434731489165,0.6751406926737795
+2908264402,Malware Deception with Automatic Analysis and Generation of HoneyResource,2019,24,0,3,0.847451,2136449669,Jialong Zhang,0,-0.27410520138219224,1.2791467325705501
+2947292651,Life after Speech Recognition Fuzzing Semantic Misinterpretation for Voice Assistant Applications,2019,0,1,6,0.0,2892206134,Yangyong Zhang,0,0.0040557659796233,0.2757546058061082
+2969568115,CollusiveHijack A New Route Hijacking Attack and Countermeasures in Opportunistic Networks,2019,22,1,3,1.0,2069825779,Ala Altaweel,0,-0.3070115461753458,-0.23463302266487415
+2967483606,Iframes/Popups Are Dangerous in Mobile WebView Studying and Mitigating Differential Context Vulnerabilities,2019,0,1,3,0.777778,2228102083,Guangliang Yang,0,0.0040557659796233,0.2757546058061082
+2965148303,The CrossPath Attack Disrupting the SDN Control Channel via Shared Links,2019,0,1,5,1.0,2796864183,Jiahao Cao,0,0.0040557659796233,0.2757546058061082
+3008207353,Poseidon Mitigating Volumetric DDoS Attacks with Programmable Switches,2020,0,0,7,0.8,2745520306,Menghao Zhang,0,0.0040557659796233,0.2757546058061082
+3008357810,SODA A Generic Online Detection Framework for Smart Contracts,2020,0,1,5,0.0,2309078722,Ting Chen,0,0.0040557659796233,0.2757546058061082
+3015751692,Unexpected Data Dependency Creation and Chaining A New Attack to SDN,2020,0,0,4,0.0,2605019454,Feng Xiao,0,0.0040557659796233,0.2757546058061082
+3008852997,When Match Fields Do Not Need to Match Buffered Packets Hijacking in SDN,2020,0,0,5,1.0,2796864183,Jiahao Cao,0,0.0040557659796233,0.2757546058061082
+3021122395,SDN-NFV security 2019 preface,2019,0,0,3,0.0,2102996759,Hongxin Hu,0,0.0040557659796233,0.2757546058061082
+2901858989,Data Hemorrhage Inequality and You How Technology and Data Flows are Changing the Civil Liberties Game,2017,0,0,10,0.0,62967857,Peter Druschel,0,0.0040557659796233,0.2757546058061082

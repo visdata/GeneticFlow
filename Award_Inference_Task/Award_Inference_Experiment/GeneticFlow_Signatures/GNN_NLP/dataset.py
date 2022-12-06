@@ -3,14 +3,13 @@ import torch
 from torch_geometric.data import InMemoryDataset, Data
 import networkx as nx
 import numpy as np
-import torch
 from torch_geometric.utils.convert import from_networkx
 import torch_geometric.transforms as T
 import os
 import re
 import pandas as pd
+import joblib
 import scipy as sc
-
 def node_iter(G):
    return G.nodes
 
@@ -19,13 +18,13 @@ def node_dict(G):
     return node_dict
 
 def read_graphfile(PATH):
-    node_num=1000
-    adj_list={i:[] for i in range(1,node_num+1)}    
-    index_graph={i:[] for i in range(1,node_num+1)}
-    node_attrs={i:[] for i in range(1,node_num+1)} 
+    sub_graph_num=1000
+    adj_list={i:[] for i in range(1,sub_graph_num+1)}     #adjacent info:{sub_graph_index_i: [[e0,e1],[e1,e0]]}
+    index_graph={i:[] for i in range(1,sub_graph_num+1)}
+    node_attrs={i:[] for i in range(1,sub_graph_num+1)}  #node vector
     graph_labels=[]
     graph_hindex=[]
-    edge_weight=[]
+    edge_weight=[] #edge vector:{sub_graph_index_i:[atrr(e0,e1),atrr(e1,e0)])
     edge_proba=[]
     Name=[]
     authors_attributes=[]
@@ -107,7 +106,7 @@ def read_graphfile(PATH):
                 authors = pd.read_csv("../GNN_NLP_data/csv/top_field_authors.csv", header = None)
                 number=re.findall(r"\d+\d*", name)[0]
                 number=int(number)
-                
+
                 if("2:" in authors[authors[10]==number][12].values[0] or "3:" in authors[authors[10]==number][12].values[0] or ("1:" in authors[authors[10]==number][12].values[0] and authors[authors[10]==number][5].values[0]>=3000)):
                     # templist=[float(attr) for attr in authors2.iloc[for_i][1:].values]
                     templist=[]
@@ -121,7 +120,6 @@ def read_graphfile(PATH):
 
                 Name.append(name)
                 index_i+=1
-
     # sleep()
     return edge_weight,graph_labels,adj_list,node_attrs,Name
 
@@ -129,8 +127,9 @@ def read_graphfile(PATH):
 import re
 class MultiSessionsGraph(InMemoryDataset):
     """Every session is a graph."""
-    def __init__(self, root, PATH, transform=None, pre_transform=None):
+    def __init__(self, root, PATH, transform=None, union_field=False, pre_transform=None):
         self.PATH = PATH
+        self.union_field = union_field
         transform=T.Compose([
             # T.NormalizeFeatures(),
             # T.ToSparseTensor(),
@@ -139,7 +138,6 @@ class MultiSessionsGraph(InMemoryDataset):
         super(MultiSessionsGraph, self).__init__(root, transform=transform)
         # super(MultiSessionsGraph, self).__init__(root, transform, pre_transform)
         self.data, self.slices = torch.load(self.processed_paths[0])
-     
     @property
     def raw_file_names(self):
         return ['data.txt']
@@ -152,16 +150,22 @@ class MultiSessionsGraph(InMemoryDataset):
         pass
     
     def process(self):
-        
         data_list = []
-        edge_weight,y,adj_list,node_attrs,Name=read_graphfile(PATH=self.PATH)
-        
-        for i in range(len(y)):
+        if self.union_field:
+            data, slices = self.collate(self.union_field)
+            torch.save((data, slices), self.processed_paths[0])
+            print('union mode complete with data_attr_length:',len(data))
+            return
+        else:
+            edge_weight,y,adj_list,node_attrs,Name=read_graphfile(PATH=self.PATH)
+        round = len(y)
+        iterbox=range(round)
+        for i in iterbox:
             number = re.findall(r"\d+\d*",Name[i])
             number=int(number[0])
-            pyg_graph=Data(x=torch.tensor(node_attrs[i+1],dtype=torch.float), y=torch.tensor(y[i],dtype=torch.float), edge_index=torch.tensor(adj_list[i+1],dtype=torch.long).t(),edge_attr=torch.tensor(edge_weight[i],dtype=torch.float),name=torch.tensor(number,dtype=torch.int))
-            print(pyg_graph)
+            nodeX=torch.tensor(node_attrs[i+1],dtype=torch.float)
+            pyg_graph=Data(x=nodeX, y=torch.tensor(y[i],dtype=torch.float), edge_index=torch.reshape(torch.tensor(adj_list[i+1],dtype=torch.long).t(),(2,-1)),edge_attr=torch.tensor(edge_weight[i],dtype=torch.float).reshape(-1,1),name=torch.tensor(number,dtype=torch.int))
             data_list.append(pyg_graph)
-        
         data, slices = self.collate(data_list)
         torch.save((data, slices), self.processed_paths[0])
+        print('one field mode complete with data_length:',len(data))

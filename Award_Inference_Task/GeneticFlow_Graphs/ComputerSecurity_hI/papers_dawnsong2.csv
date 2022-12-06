@@ -1,0 +1,181 @@
+190324853,Privacy-breaching Behavior Analysis,2013,14,7,1,1.0,2131252044,Dawn Song,0,-0.471528686263877,0.5566920312149545
+143177508,Towards client-side HTML security policies,2011,19,29,3,0.9,2105073308,Joel Weinberger,0,-0.7584541566925759,1.2445735755596643
+179206494,Take two software updates and see me in the morning the case for software security evaluations of medical devices,2011,12,48,6,1.0,2279292564,Steven Hanna,0,-0.4730223331245773,3.0867937207162965
+43386570,Towards attack-agnostic defenses,2006,11,5,2,0.857143,2157466369,David Brumley,0,0.0040557659796233,0.2757546058061082
+26540491,Context-centric security,2012,18,11,7,0.0,2098720564,Mohit Tiwari,0,-0.34167175636260233,1.0474644911786795
+77946476,MACE model-inference-assisted concolic exploration for protocol and vulnerability discovery,2011,32,71,6,1.0,2296628361,Chia Yuan Cho,0,-1.3721930698182816,1.7734739921660752
+134490355,HI-CFG Construction by Binary Analysis and Application to Attack Polymorphism,2013,25,29,5,0.0,2302560726,Dan Caselden,0,0.2018268678365599,0.1425886522275585
+247009762,Dynamic Quarantine of Internet Worms (CMU-PDL-03-108),2003,15,0,3,0.0,2791808,Gregory R. Ganger,0,0.0040557659796233,0.2757546058061082
+324032601,Binary Code Extraction and Interface Identification for Security Applications,2009,29,88,4,1.0,2118632750,Juan Caballero,0,0.0040557659796233,0.2757546058061082
+261613160,Analysis and enforcement of web application security policies,2012,72,1,2,0.9,2105073308,Joel Weinberger,0,1.1023190754731127,2.7082243944449655
+261986249,Systematic techniques for finding and preventing script injection vulnerabilities,2012,71,0,2,0.731707,2126798037,Prateek Saxena,0,0.1402039859793991,1.4048142505488332
+1470905967,Private Keyword-Based Push and Pull with Applications to Anonymous Communication,2004,19,10,4,0.75,2044694329,Lea Kissner,0,0.22159849628781264,-0.17595849267003252
+1559961194,Exploiting network structure for proactive spam mitigation,2007,16,51,5,1.0,2163807661,Shobha Venkataraman,0,0.0040557659796233,0.2757546058061082
+1542850339,Signatures of reputation,2010,16,29,3,1.0,2096337692,John Bethencourt,0,-0.7016344896683422,-0.5723407678498686
+1552056088,Paragraph thwarting signature learning by training maliciously,2006,23,172,3,0.923077,2342680259,James Newsome,0,-0.17324153726119554,0.6587671663167594
+1515981325,Cross-origin javascript capability leaks detection exploitation and defense,2009,9,38,3,0.373242,2478475868,Adam Barth,0,-0.023550276898621297,0.7099097923564667
+1543478129,Document Structure Integrity A Robust Basis for Cross-site Scripting Defense,2009,23,172,3,0.0,307609487,Yacin Nadji,0,0.0040557659796233,0.2757546058061082
+1543993937,Do you know where your data are secure data capsules for deployable data protection,2011,24,37,5,0.0,1992922445,Petros Maniatis,0,0.12026127173252156,0.760331306170199
+1536898727,RICH Automatically Protecting Against Integer-Based Vulnerabilities,2007,23,90,2,0.857143,2157466369,David Brumley,0,-1.4906487443016354,2.505157669622591
+1412775481,Recognizing functions in binaries with neural networks,2015,19,98,2,0.0,2058008366,Eui Chul Richard Shin,0,0.05940095047987125,0.6960502266457337
+1530266714,Insights from the inside a view of botnet management from infiltration,2010,9,68,5,1.0,2296628361,Chia Yuan Cho,0,0.0040557659796233,0.2757546058061082
+1575613352,How Open Should Open Source Be,2011,10,1,4,0.337369,2478475868,Adam Barth,0,-0.062381790079658626,0.6663522020135398
+1540288238,JITScope Protecting web users from control-flow hijacking attacks,2015,39,1,6,0.7982,2662809797,Chao Zhang,0,0.0040557659796233,0.2757546058061082
+1604249822,How things Work and Fail,2012,0,0,7,0.0,67491752,Andy Steingruebl,0,0.8609263355194251,-0.0488312157140194
+1797591744,Towards Generating High Coverage Vulnerability-Based Signatures with Protocol-Level Constraint-Guided Exploration,2009,37,24,4,1.0,2118632750,Juan Caballero,0,0.1639362940477497,0.6530314529854678
+1955645522,Timing analysis of keystrokes and timing attacks on SSH,2001,18,436,1,1.0,2131252044,Dawn Song,0,-0.9793239040302479,-0.3471092973486556
+1586807939,On gray-box program tracking for anomaly detection,2004,28,91,3,1.0,2108338047,Debin Gao,0,0.0040557659796233,0.2757546058061082
+1750553315,Expander graphs for digital stream authentication and robust overlay networks,2002,39,61,1,1.0,2131252044,Dawn Song,0,-0.7952488257210746,-0.40404386219511695
+1578473972,A security study of the Internet an analysis of firewall behavior and anonymous DNS,2004,27,4,2,0.0,2114387783,Hal Burch,0,1.242545369607569,0.23468468987256041
+1578479156,Would Diversity Really Increase the Robustness of the Routing Infrastructure Against Software Defects,2008,24,21,3,1.0,2118632750,Juan Caballero,0,0.0040557659796233,0.2757546058061082
+1578479379,Juxtapp a scalable system for detecting code reuse among android applications,2012,31,164,6,1.0,2191563777,Steve Hanna,0,-0.7999010755368762,2.1342402537125644
+1959318606,FIT fast Internet traceback,2005,19,194,3,1.0,2014475819,A. Yaar,0,0.0040557659796233,0.2757546058061082
+1579427489,Detection of Interactive Stepping Stones Algorithms and Confidence Bounds,2004,14,183,2,0.0,2137000917,Avrim Blum,0,0.23537330922606386,0.06585615237581359
+1809664600,Privtrans automatically partitioning programs for privilege separation,2004,32,180,2,0.777778,2157466369,David Brumley,0,0.7172204229095085,1.8857700971798959
+1884689072,The emperors new password manager security analysis of web-based password managers,2014,23,70,4,0.0,2309225668,Zhiwei Li,0,-1.8427355058142036,-1.1687777607806433
+1644831451,Subliminal Probing for Private Information via EEG-Based BCI Devices,2013,23,9,8,0.594595,2170869525,Mario Frank,0,-0.37216409901710606,0.6547603662684788
+1693301795,Privilege separation in HTML5 applications,2012,29,45,3,1.0,43593122,Devdatta Akhawe,0,1.5733736148726598,1.6269740916327833
+1822655612,Preserving Link Privacy in Social Network Based Systems,2012,27,38,3,0.0,2122368622,Prateek Mittal,0,-0.33602562449829443,0.44483453194145506
+1652603594,A learning-based approach to reactive security,2010,23,22,5,0.373242,2478475868,Adam Barth,0,0.0040557659796233,0.2757546058061082
+1710110546,A First Step Towards the Automatic Generation of Security Protocols,2000,15,46,2,0.0,2213385919,Adrian Perrig,0,-1.1691069330834836,-0.7752955933133379
+1601184934,New Streaming Algorithms for Fast Detection of Superspreaders,2005,32,164,2,1.0,2163807661,Shobha Venkataraman,0,0.3259332239481683,0.5745734317069635
+1601301169,Analysis-Resistant Malware,2008,25,10,2,1.0,2096337692,John Bethencourt,0,0.08069475794042506,-0.3304023920554755
+1829301546,Sting An End-to-End Self-Healing System for Defending against Internet Worms,2007,53,16,3,0.857143,2157466369,David Brumley,0,0.0040557659796233,0.2757546058061082
+1603189820,Detecting and preventing control-flow hijacking attacks in commodity software,2008,77,0,1,1.0,2131252044,Dawn Song,0,0.0040557659796233,0.2757546058061082
+1976371754,Towards a Formal Foundation of Web Security,2010,26,148,5,1.0,43593122,Devdatta Akhawe,0,0.0040557659796233,0.2757546058061082
+1998865180,Quasi-efficient revocation of group signatures,2002,17,191,2,0.0,124599811,Giuseppe Ateniese,0,-0.48301492932683276,-1.9193077598967285
+2013940778,Cloud Data Protection for the Masses,2012,6,113,1,1.0,2131252044,Dawn Song,0,0.26771282477453207,0.7021690017677249
+2014589236,Dynamic spyware analysis,2007,26,214,5,0.0,1922185186,Manuel Egele,0,-0.9119080757758813,0.2833676514400835
+2012992615,Private and Continual Release of Statistics,2011,26,178,3,0.75,2105160160,T. H. Hubert Chan,0,0.18024655990534766,0.4248442162106032
+2033029512,VTint Protecting Virtual Function Tables Integrity,2015,29,43,5,0.7982,2662809797,Chao Zhang,0,0.1639362940477497,0.6530314529854678
+2044117262,Mining Permission Request Patterns from Android and Facebook Applications,2012,17,67,4,0.594595,2170869525,Mario Frank,0,0.3775109011545658,0.6036594968595245
+2049867480,Polyglot automatic extraction of protocol message format using dynamic binary analysis,2007,28,276,4,1.0,2118632750,Juan Caballero,0,-1.0008400706397378,-0.9810471015366883
+2039244047,ShadowCrypt Encrypted Web Applications for Everyone,2014,22,43,5,0.692308,2192536821,Warren He,0,1.237883430472948,-0.5060841464660436
+2075178836,New Techniques for Private Stream Searching,2009,25,64,2,1.0,2096337692,John Bethencourt,0,0.042993167590775594,-0.15780955205356467
+2069446061,SAFE Secure authentication with Face and Eyes,2013,18,18,8,0.0,2693222674,Arman Boehm,0,-1.2290844607381792,-0.4247715455586272
+2057330156,Input generation via decomposition and re-stitching finding bugs in Malware,2010,29,42,5,1.0,2118632750,Juan Caballero,0,0.7161354986322349,0.9600790623188239
+2069667482,Remote data checking using provable data possession,2011,52,256,8,0.0,124599811,Giuseppe Ateniese,0,0.3171484069971384,-0.13992525839030945
+2094415856,Context-sensitive auto-sanitization in web templating languages using type qualifiers,2011,29,55,3,0.0,2123758338,Mike Samuel,0,0.0040557659796233,0.2757546058061082
+2094568767,A Symbolic Execution Framework for JavaScript,2010,25,347,6,0.75,2126798037,Prateek Saxena,0,0.0040557659796233,0.2757546058061082
+2099817583,Efficient and Secure Source Authentication for Multicast,2001,22,594,3,0.26087,2213385919,Adrian Perrig,0,-0.5530861437885858,-0.004176666300269333
+2102881299,Provable data possession at untrusted stores,2007,44,1649,7,0.0,124599811,Giuseppe Ateniese,0,0.4303317309845256,-0.6595545608210619
+2102970979,Dynamic Taint Analysis for Automatic Detection Analysis and Signature Generation of Exploits on Commodity Software,2005,45,1290,1,1.0,2131252044,Dawn Song,0,0.1639362940477497,0.6530314529854678
+2089560940,HookFinder Identifying and Understanding Malware Hooking Behaviors,2008,18,120,3,0.576923,2214002380,Heng Yin,0,-0.5334796547787679,1.484553098255376
+2100583963,Towards automatic generation of vulnerability-based signatures,2006,46,274,3,0.857143,2157466369,David Brumley,0,0.06205438756094287,0.5324438942697306
+2101094360,Cryptographic techniques for privacy preserving identity,2011,79,2,2,0.0,3012503397,John Daniel Bethencourt,0,-0.4489343287038601,-0.3251761319928831
+2088846575,A Learning-Based Approach to Reactive Security,2012,25,18,5,0.319993,2478475868,Adam Barth,0,0.0040557659796233,0.2757546058061082
+2131875129,Replayer automatic protocol replay by binary analysis,2006,24,81,4,0.923077,2342680259,James Newsome,0,-0.36720081940496896,-0.1918250796097643
+2108409407,GUPT privacy preserving data analysis made easy,2012,26,153,4,0.0,2225291458,Prashanth Mohan,0,0.6537565233095146,1.5571324544688672
+2120215974,Differential Slicing Identifying Causal Execution Differences for Security Applications,2011,28,56,7,1.0,2124606982,Noah M. Johnson,0,0.2830291558819431,0.6333882943349698
+2141262251,StackPi A New Defense Mechanism against IP Spoofing and DDoS Attacks,2003,32,27,1,1.0,2131252044,Dawn Song,0,-1.1728417193256522,-0.017084428456688394
+2123365370,Design space and analysis of worm defense strategies,2006,28,28,4,0.857143,2157466369,David Brumley,0,-0.14961960511810343,0.12722050712092697
+2135173941,Privacy-preserving distributed information sharing,2006,63,9,2,0.75,2044694329,Lea Kissner,0,0.290324883405563,0.6678506394199202
+2129208788,Automatic protocol reverse-engineering Message format extraction and field semantics inference,2013,36,37,2,0.651385,2118632750,Juan Caballero,0,0.0040557659796233,0.2757546058061082
+2105637827,Mining Permission Request Patterns from Android and Facebook Applications (extended author version),2012,15,2,4,0.594595,2170869525,Mario Frank,0,0.4284820599779229,0.3258095582062206
+2108767597,Sting An End-to-End Self-healing System for Defending against Zero-day Worm Attacks on Commodity Software,2006,48,6,1,1.0,2131252044,Dawn Song,0,0.0040557659796233,0.2757546058061082
+2117798902,SoK Eternal War in Memory,2013,58,290,4,0.0,2703376243,Laszlo Szekeres,0,-0.3298717486468034,1.2192927984572213
+2138517425,Practical Control Flow Integrity and Randomization for Binary Executables,2013,43,294,7,0.734265,2662809797,Chao Zhang,0,-0.6374321313972565,0.7165519675208408
+2129609265,Policy-Enhanced private set intersection sharing information while enforcing privacy policies,2012,18,10,3,0.666667,1986063267,Emil Stefanov,0,-0.03504260784960609,-0.1660965115738055
+2117984332,Random key predistribution schemes for sensor networks,2003,30,2642,3,0.307692,2117388184,Haowen Chan,0,0.10931146078450624,-0.6553222621125624
+2126884772,Opaak using mobile phones to limit anonymous identities online,2012,28,14,4,0.0,1528502074,Gabriel Maganis,0,-0.10065487871952156,0.618245671969941
+2118357205,ELK a new protocol for efficient large-group key distribution,2001,35,348,1,1.0,2131252044,Dawn Song,0,-0.828536481695044,-3.0332825137246298
+2130076855,Hypervisors as a Foothold for Personal Computer Security An Agenda for the Research Community,2012,16,6,6,0.0,716133098,Vern Paxson,0,-0.22684964772494434,0.5553590878829306
+2136245903,Emulating emulation-resistant malware,2009,29,88,1,1.0,2131252044,Dawn Song,0,0.3018222476975964,1.3313942328441637
+2136262545,Pi a path identification mechanism to defend against DDoS attacks,2003,28,374,2,1.0,2014475819,A. Yaar,0,-1.1728417193256522,-0.017084428456688394
+2118878434,SIFF a stateless Internet flow filter to mitigate DDoS flooding attacks,2004,45,336,3,0.0,2974081420,A. Yaar,0,0.23696822545701865,0.128438414425106
+2107135371,Behavioral distance for intrusion detection,2005,35,48,3,1.0,2108338047,Debin Gao,0,0.13679434731489165,0.6751406926737795
+2143020967,PHANTOM practical oblivious computation in a secure processor,2013,74,131,8,0.0,2251181534,Martin Maas,0,0.5486782751629748,-0.8865375270860951
+2119251836,BitBlaze A New Approach to Computer Security via Binary Analysis,2008,29,546,1,1.0,2131252044,Dawn Song,0,-0.9907348076734198,2.0404461612040294
+2140094598,Distributed Evasive Scan Techniques and Countermeasures,2007,16,32,3,0.666667,2141460279,Min Gyung Kang,0,0.0040557659796233,0.2757546058061082
+2134073393,Behavioral distance measurement using hidden markov models,2006,39,84,3,1.0,2108338047,Debin Gao,0,0.13679434731489165,0.6751406926737795
+2143541350,SAM a flexible and secure auction architecture using trusted hardware,2001,24,28,3,0.26087,2213385919,Adrian Perrig,0,-0.17227127073499815,0.1122585866263884
+2116832576,A Cryptanalysis of the High-Bandwidth Digital Content Protection System,2001,7,13,4,1.0,2661997973,Scott Crosby,0,1.0926327798590407,-1.4174990824437301
+2131523719,Semantics-aware malware detection,2005,28,619,4,0.5,350660853,Mihai Christodorescu,0,-0.11716248922853907,0.8820587449233876
+2110986027,Secure Content Sniffing for Web Browsers or How to Stop Papers from Reviewing Themselves,2009,16,78,3,0.373242,2478475868,Adam Barth,0,0.0040557659796233,0.2757546058061082
+2137569638,Gray-box extraction of execution graphs for anomaly detection,2004,21,124,3,1.0,2108338047,Debin Gao,0,0.8132086575740218,0.9257086063639175
+2108073531,Cyber SA situational awareness for cyber defense,2010,5,76,12,0.0,2078767370,Paul Barford,0,0.5640713789741858,0.5816850578530104
+2137786570,Polygraph automatically generating signatures for polymorphic worms,2005,18,777,3,0.857143,2342680259,James Newsome,0,-0.21897766166651772,0.39687746213086916
+2114275288,Android permissions demystified,2011,15,933,4,0.136986,2036482359,Adrienne Porter Felt,0,-0.1506525007461538,1.489091572110033
+2150228605,Advanced and authenticated marking schemes for IP traceback,2001,18,737,1,1.0,2131252044,Dawn Song,0,-1.1838714204485379,-0.3805137623262089
+2165491783,The Sybil attack in sensor networks analysis &amp; defenses,2004,19,1137,1,1.0,2131252044,Dawn Song,0,0.0040557659796233,0.2757546058061082
+2156453323,Dispatcher enabling active botnet infiltration using automatic protocol reverse-engineering,2009,35,162,4,1.0,2118632750,Juan Caballero,0,0.0040557659796233,0.2757546058061082
+2165597437,Automatic Patch-Based Exploit Generation is Possible Techniques and Implications,2008,26,174,3,0.795042,2157466369,David Brumley,0,0.1639362940477497,0.6530314529854678
+2171851022,Attacks on emerging architectures,2012,50,0,2,1.0,2279292564,Steven Hanna,0,0.05940095047987125,0.6960502266457337
+2147929033,Practical techniques for searches on encrypted data,2000,15,2008,1,1.0,2131252044,Dawn Song,0,0.654604175316692,-1.4811722886725192
+2165952552,Vulnerability-Specific Execution Filtering for Exploit Prevention on Commodity Software,2006,32,111,3,0.923077,2342680259,James Newsome,0,0.1639362940477497,0.6530314529854678
+2166027506,Looking for diamonds in the desert - extending automatic protocol generation to three-party authentication and key agreement protocols,2000,15,71,2,0.0,2213385919,Adrian Perrig,0,-0.6285207419054534,-0.8561895394425016
+2151135920,Panorama capturing system-wide information flow for malware detection and analysis,2007,24,624,2,0.576923,2214002380,Heng Yin,0,-0.13631057111251949,1.057472198597474
+2154448764,Multi-Dimensional Range Query over Encrypted Data,2007,39,402,4,0.279296,2152052458,Elaine Shi,0,0.28238913504140783,0.6087167904060716
+2187366271,Timed Efficient Stream Loss-Tolerant Authentication (TESLA) Multicast Source Authentication Transform Introduction,2005,20,113,2,0.249595,2213385919,Adrian Perrig,0,-1.104198903918153,-0.15812758475548838
+2187373861,Contextual Policy Enforcement in Android Applications with Permission Event Graphs,2013,33,92,8,1.0,2921489025,Kevin Zhijie Chen,0,0.0040557659796233,0.2757546058061082
+2154625773,Secure hierarchical in-network aggregation in sensor networks,2006,21,307,3,0.307692,2117388184,Haowen Chan,0,-0.18084372235198545,0.38934389771905936
+2157567080,On the feasibility of side-channel attacks with brain-computer interfaces,2012,35,80,6,0.0,1384633206,Ivan Martinovic,0,0.3238795887636544,0.3185434200723246
+2145802904,Inference and analysis of formal models of botnet command and control protocols,2010,35,119,4,1.0,2296628361,Chia Yuan Cho,0,-0.5563918940414901,-0.40323512576225645
+2169868363,A systematic analysis of XSS sanitization in web application frameworks,2011,36,86,6,0.9,2105073308,Joel Weinberger,0,0.0040557659796233,0.2757546058061082
+2163764145,Design and Evaluation of a Real-Time URL Spam Filtering Service,2011,40,317,5,0.0,2318083524,Kurt Thomas,0,-2.0430847625628803,-1.1782996265304782
+2170017018,Practical forward secure group signature schemes,2001,30,140,1,1.0,2131252044,Dawn Song,0,-0.05571137446234369,-2.0306277987996193
+2185487490,Ecient Secure and Privacy-preserving Distributed Hot Item Identification,2006,38,0,1,1.0,2131252044,Dawn Song,0,0.41033554364630365,1.0522304172033092
+2210012086,Hooking Behavior Analysis,2013,10,1,1,1.0,2131252044,Dawn Song,0,-0.5334796547787679,1.484553098255376
+2216664396,Clickjacking revisited a perceptual view of UI security,2014,16,20,5,0.673913,43593122,Devdatta Akhawe,0,0.0040557659796233,0.2757546058061082
+2232997092,Privacy-Preserving Stream Aggregation with Fault Tolerance,2012,13,122,3,0.75,2105160160,T. H. Hubert Chan,0,0.03414406787360945,0.2818663120264617
+2314445710,New Directions in Social Authentication,2015,9,4,4,0.266667,1984287476,Neil Zhenqiang Gong,0,-0.560235419443438,0.6749967209733004
+2296211046,Privacy-preserving distributed automated signature-based detection of new internet worms,2010,55,4,2,0.0,709774215,David R. OHallaron,0,0.6504395261881645,-1.8737019617739707
+2324707066,Privacy Scope A Precise Information Flow Tracking System For Finding Application Leaks,2009,25,28,3,0.0,2064270007,David Wetherall,0,0.0040557659796233,0.2757546058061082
+2369719458,FPGate The Last Building Block For A Practical CFI Solution,2012,4,0,2,0.0,2115159880,Lei Duan,0,0.0040557659796233,0.2757546058061082
+2401617229,DTA++ Dynamic Taint Analysis with Targeted Control-Flow Propagation,2011,26,174,4,0.666667,2141460279,Min Gyung Kang,0,-0.3287690164964345,0.14636193449847731
+2399597187,FreeMarket Shopping for free in Android applications,2012,0,15,2,0.0,2307395302,Daniel Reynaud,0,-0.26078515515376516,0.3406516558547629
+2405282478,FLAX Systematic Discovery of Client-side Validation Vulnerabilities in Rich Web Applications,2010,36,98,4,0.75,2126798037,Prateek Saxena,0,0.0040557659796233,0.2757546058061082
+2408302068,Smart Locks Lessons for Securing Commodity Internet of Things Devices,2016,23,88,5,0.0,2463722756,Grant Ho,0,-0.19533026352032276,0.27398036425454014
+2397240470,Automatic Malware Analysis An Emulator Based Approach,2012,0,8,1,1.0,2131252044,Dawn Song,0,-0.39385155031851715,1.635364817126827
+2463752017,Malware Detection (Advances in Information Security),2006,5,5,2,0.5,350660853,Mihai Christodorescu,0,-0.07997701694055213,0.843434102123871
+2480713486,A cryptanalysis of the high-bandwidth Digital content Protection system,2002,0,5,4,1.0,2661997973,Scott Crosby,0,0.5401023317599057,-1.1432429540651046
+2505418096,Automatic Malware Analysis,2013,0,3,1,1.0,2131252044,Dawn Song,0,-0.46853086956334794,1.3605471751131457
+2511446761,On Scaling Decentralized Blockchains,2016,28,389,9,0.0,46726047,Ari Juels,0,-0.7517949523265022,0.8256759897880013
+2578771209,VTrust Regaining Trust on Virtual Calls,2016,25,39,2,0.7982,2662809797,Chao Zhang,0,0.0040557659796233,0.2757546058061082
+2534313446,The Honey Badger of BFT Protocols,2016,41,184,5,0.0,2118081206,Andrew Miller,0,-1.3019553783084346,1.0939625051262143
+2625220439,Adversarial Example Defenses Ensembles of Weak Defenses are not Strong,2017,27,36,5,0.714286,2192536821,Warren He,0,-0.17324153726119554,0.6587671663167594
+2607210962,PIANO Proximity-based User Authentication on Voice-Powered Internet-of-Things Devices,2017,6,0,6,0.266667,1984287476,Neil Zhenqiang Gong,0,-0.6168754911779994,0.3767148084974152
+2731226484,Advanced binary analysis techniques for malware defense,2010,0,0,1,1.0,2131252044,Dawn Song,0,0.3717031742310531,0.7243016125368296
+2616841723,Delving into adversarial attacks on deep policies,2017,4,33,2,1.0,2647322087,Jernej Kos,0,0.0040557659796233,0.2757546058061082
+2749008552,Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection,2017,46,68,6,1.0,2747775172,Xiaojun Xu,0,0.05940095047987125,0.6960502266457337
+2774423163,Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning,2017,0,139,5,0.0,2636476533,Xinyun Chen,0,-0.34818133448807126,0.21675381448003123
+2759471388,Robust Physical-World Attacks on Deep Learning Models,2017,37,297,1,1.0,2131252044,Dawn Song,0,0.0040557659796233,0.2757546058061082
+2741933435,Robust Physical-World Attacks on Machine Learning Models,2017,10,94,8,1.0,2741546476,Ivan Evtimov,0,0.0040557659796233,0.2757546058061082
+2772600773,SAFE AUCTION MARKET USING SECURE COPROCESSOR,2001,0,2,2,0.0,2121197119,Sean W. Smith,0,-0.0663687048587582,0.6689622367383014
+2766939825,Using EEG-Based BCI Devices to Subliminally Probe for Private Information,2017,9,6,9,0.571429,2170869525,Mario Frank,0,-0.38297672827465196,0.46125068598901287
+2794601036,A Machine Learning Approach to Prevent Malicious Calls over Telephony Networks,2018,26,4,9,0.0,2795272658,Huichen Li,0,0.0040557659796233,0.2757546058061082
+2797481382,Ekiden A Platform for Confidentiality-Preserving Trustworthy and Performant Smart Contracts,2019,56,71,9,0.625,2959332747,Raymond Cheng,0,-0.12384558090003636,0.8578720833173097
+2889110589,A demonstration of sterling a privacy-preserving data marketplace,2018,13,12,4,0.0,2888816932,David Dao,0,0.4965194255460923,0.3110214200578206
+2912192668,Malware Detection,2010,0,364,2,0.151948,350660853,Mihai Christodorescu,0,-0.13207201912491093,0.695031384453717
+2916239775,Towards Mitigating Audio Adversarial Perturbations,2018,0,4,1,1.0,2131252044,Dawn Song,0,0.0040557659796233,0.2757546058061082
+2891621711,DeepMem Learning Graph Neural Network Models for Fast and Robust Memory Forensic Analysis,2018,38,11,4,0.0,2971836264,Wei Song,0,0.0040557659796233,0.2757546058061082
+2911408682,Proceedings of the 2009 ACM workshop on Cloud computing security,2009,0,18,2,0.0,2071141648,Radu Sion,0,0.1818397705042226,-0.3904503550718104
+2914635017,Proceedings of the 2009 ACM workshop on Cloud computing security,2009,0,0,2,0.0,2071141648,Radu Sion,0,0.1818397705042226,-0.3904503550718104
+2920283820,CHURP Dynamic-Committee Proactive Secret Sharing,2019,0,1,7,0.0,2919989497,Sai Krishna Deepak Maram,0,1.9065283138100022,-0.04092265943607934
+2908027808,Sanctorum A lightweight security monitor for secure enclaves,2019,0,0,7,0.857143,2099210342,Ilia Lebedev,0,-0.3270732433611877,-0.3795431605297418
+2946930197,The Secret Sharer Evaluating and Testing Unintended Memorization in Neural Networks,2019,0,34,5,0.0,1606335232,Nicholas Carlini,0,0.0040557659796233,0.2757546058061082
+2952054441,Sanctorum A lightweight security monitor for secure enclaves,2018,8,3,7,0.857143,2099210342,Ilia Lebedev,0,-0.33098417621799214,-0.14265601263688307
+2952211751,Characterizing and Detecting Malicious Accounts in Privacy-Centric Mobile Social Networks A Case Study,2019,46,3,6,0.0,2949728279,Zenghua Xia,0,0.0040557659796233,0.2757546058061082
+2944404475,Impossibility of Full Decentralization in Permissionless Blockchains,2019,26,4,4,0.0,2490299585,Yujin Kwon,0,0.03857885209080565,0.668590409100547
+2932329902,Towards Practical Differentially Private Convex Optimization,2019,38,21,3,0.0,2929524926,Roger Iyengar,0,0.21202056777284894,0.6696826021957795
+2962927323,Delving into adversarial attacks on deep policies,2017,0,8,2,1.0,2647322087,Jernej Kos,0,0.0040557659796233,0.2757546058061082
+2963431851,Adversarial Example Defense Ensembles of Weak Defenses are not Strong,2017,0,114,5,0.714286,2192536821,Warren He,0,0.0040557659796233,0.2757546058061082
+2963484628,Preserving Link Privacy in Social Network Based Systems,2012,32,28,3,0.0,2122368622,Prateek Mittal,0,-0.33602562449829443,0.44483453194145506
+2953336183,Privacy-Preserving Stream Aggregation with Fault Tolerance,2011,0,2,3,0.75,2105160160,T. H. Hubert Chan,0,0.03414406787360945,0.2818663120264617
+2949384600,Provable Data Possession at Untrusted Stores,2007,0,1,7,0.0,124599811,Giuseppe Ateniese,0,0.0040557659796233,0.2757546058061082
+2964133768,Towards Practical Oblivious RAM,2011,13,99,3,0.666667,1986063267,Emil Stefanov,0,0.343928245083795,-0.7055803150946522
+2964175514,Physical Adversarial Examples for Object Detectors,2018,0,33,9,0.473684,2618900947,Kevin Eykholt,0,0.0040557659796233,0.2757546058061082
+2982471627,Data Capsule A New Paradigm for Automatic Compliance with Data Privacy Regulations,2019,22,0,7,0.0,2919851658,Lun Wang,0,-0.601778808828711,1.3753619701731636
+2986868741,Detecting Fake Accounts in Online Social Networks at the Time of Registrations,2019,55,2,6,0.0,2767844357,Dong Yuan,0,0.05940095047987125,0.6960502266457337
+2982735562,CHURP Dynamic-Committee Proactive Secret Sharing,2019,42,0,7,0.0,2919989497,Sai Krishna Deepak Maram,0,1.9065283138100022,-0.04092265943607934
+2988337058,Lifelong Anomaly Detection Through Unlearning,2019,25,0,5,0.0,2307715693,Min Du,0,0.0040557659796233,0.2757546058061082
+2966252319,{DEEPVSA} Facilitating Value-set Analysis with Deep Learning for Postmortem Program Analysis,2019,0,3,5,0.0,2528826112,Wenbo Guo,0,0.0040557659796233,0.2757546058061082
+2971660719,Data Capsule A New Paradigm for Automatic Compliance with Data Privacy Regulations,2019,22,1,7,0.0,2919851658,Lun Wang,0,-0.601778808828711,1.3753619701731636
+2971909823,Keystone An Open Framework for Architecting TEEs,2019,104,11,2,0.0,677108321,Krste Asanovic,0,-0.09599616327697101,0.06312598316488381
+3015343560,Transparent Polynomial Delegation and Its Applications to Zero Knowledge Proof,2020,0,1,4,0.0,2941965030,Jiaheng Zhang,0,-0.1276492881102521,-0.7584651595121336
+3011946059,Signatures of Reputation (Extended Abstract),2010,18,0,2,1.0,2096337692,John Bethencourt,0,-0.7016344896683422,-0.5723407678498686
+3023575306,Private keyword-based push and pull with applications to anonymous communication Extended abstract,2004,0,0,3,0.75,2044694329,Lea Kissner,0,-0.1857381212924877,-0.029434522452340683
+3023633122,Epione Lightweight Contact Tracing with Strong Privacy,2020,35,2,5,0.0,3022270162,Ni Trieu,0,-0.0026159686321500417,0.1891596249087321
+3013446538,Sanctorum A lightweight security monitor for secure enclaves,2019,0,2,7,0.857143,2099210342,Ilia Lebedev,0,0.0040557659796233,0.2757546058061082
+3019094279,{MIRAGE} Succinct Arguments for Randomized Algorithms with Applications to Universal zk-SNARKs,2020,0,0,4,0.0,282294271,Ahmed E. Kosba,0,0.0040557659796233,0.2757546058061082
+3014000654,The Ekiden Platform for Confidentiality-Preserving Trustworthy and Performant Smart Contracts,2020,12,0,9,0.517241,2675641844,Fan Zhang,0,0.026971744882901598,0.5751766421365023

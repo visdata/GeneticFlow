@@ -1,0 +1,55 @@
+87639205,Robust detector of fuzzy duplicate records in a database,2005,6,0,1,1.0,2034912444,Rajeev Motwani,0,0.1656019551103819,0.40049106199639006
+139562302,Chapter 31 â€“ Approximate Frequency Counts over Data Streams,2002,26,644,2,0.5,2018707160,Gurmeet Singh Manku,0,-0.1071931497347323,0.3242721482837629
+62273760,Distributing Data for Secure Database Services,2012,17,25,5,0.0,2308506597,Vignesh Ganapathy,0,-1.266850775658106,0.31511740559956797
+148088014,On Sampling and Relational Operators,1999,13,10,2,0.0,2163909284,Surajit Chaudhuri,0,-1.0938087447099294,0.5782125182199839
+47699104,Algorithms for clustering problems,2001,0,2,2,0.571429,2003165903,Moses Charikar,0,-0.9292757267399865,3.296340583338764
+31687557,Approximation Algorithms for Clustering Streams and Large Data Sets,2003,7,2,1,1.0,2034912444,Rajeev Motwani,0,-0.23450000819287772,1.2078972896743108
+1571053829,Sampling for queries,2005,41,22,1,1.0,2034912444,Rajeev Motwani,0,-0.08204233553538198,0.18775524893034376
+1511277043,Beyond Market Baskets Generalizing Association Rules to Dependence Rules,1998,24,329,3,1.0,2041650587,Craig Silverstein,0,0.16215669648143693,0.20467026184968912
+1502916507,Similarity Search in High Dimensions via Hashing,1999,39,2611,3,0.416667,737311942,Aristides Gionis,0,-1.396375557102041,0.5716179292633248
+1933583770,Anonymizing Unstructured Data,2008,26,20,1,1.0,2034912444,Rajeev Motwani,0,0.9486440750271524,-0.15979896057985765
+1961009203,Scalable Techniques for Mining Causal Structures,2000,15,201,3,1.0,2041650587,Craig Silverstein,0,-0.34841194659538965,-0.10142585373365
+1962875200,Dynamic miss-counting algorithms finding implication and similarity rules with confidence pruning,2000,15,13,3,1.0,2718326652,S. Fujiwara,0,0.21438872843298346,-0.1353423822296997
+1598687587,Robust detector of fuzzy duplicates,2004,53,38,1,1.0,2034912444,Rajeev Motwani,0,0.1656019551103819,0.40049106199639006
+1646696449,Query Processing Approximation and Resource Management in a Data Stream Management System,2003,20,441,1,1.0,2034912444,Rajeev Motwani,0,-0.5411156586531299,0.8930215809596097
+1963737619,Mining the stock market (extended abstract) which measure is best ,2000,11,159,2,0.6,22135093,Piotr Indyk,0,-0.21934185016841626,0.6056873083074126
+1653149942,Efficient fuzzy match for evaluating data records,2003,30,115,1,1.0,2034912444,Rajeev Motwani,0,0.16938656458150048,0.4340868030406166
+1949687736,Streaming-data algorithms for high-quality clustering,2002,32,484,3,0.0,2057681119,Liadan OCallaghan,0,-0.5457101691429596,1.3777546351023762
+1952217882,Search techniques for rational drug design,1997,20,1,3,0.0,1545294347,Jean Claude Latombe,0,0.003708468606338,0.082832279151172
+1976827307,Link Privacy in Social Networks,2008,4,51,2,0.0,319689334,Aleksandra Korolova,0,-0.05833861018649885,0.18945735664010638
+1964857063,On random sampling over joins,1999,13,286,2,0.0,2163909284,Surajit Chaudhuri,0,0.003708468606338,0.082832279151172
+1967765703,The price of validity in dynamic networks,2004,37,77,4,0.0,2127001242,Mayank Bawa,0,-0.21934185016841626,0.6056873083074126
+1967825155,Challenges in web search engines,2002,16,234,2,0.0,2695385476,Monika Henzinger,0,0.06585977200520698,-1.5638269974933947
+2003262311,Computing Iceberg Queries Efficiently,1998,14,400,4,0.0,2303985118,Min Fang,0,-0.3870205579940653,0.10434774136829346
+2016973429,Incremental Clustering and Dynamic Information Retrieval,2004,0,146,4,0.571429,2003165903,Moses Charikar,0,-0.8503962312934713,2.7068048880047244
+2037965136,Dynamic itemset counting and implication rules for market basket data,1997,9,1745,2,0.666667,2974285896,Sergey Brin,0,0.39518706913953777,-0.4124958199729581
+2048779798,Finding interesting associations without support pruning,2001,19,337,6,1.0,2167811012,Edith Cohen,0,0.10327347893904333,0.6679747684015368
+2069980026,Approximate frequency counts over data streams,2012,31,1158,2,0.5,2018707160,Gurmeet Singh Manku,0,-0.6481886389133792,0.44408143556327273
+2063742835,Link privacy in social networks,2008,21,116,2,0.0,319689334,Aleksandra Korolova,0,0.01081499603401945,-0.22829683392880562
+2091009885,Inferring structure in semistructured data,1997,10,119,2,0.0,172400696,Serge Abiteboul,0,0.003708468606338,0.082832279151172
+2078783216,Deferred data structuring Query-driven preprocessing for geometric search problems,1986,9,7,1,1.0,2034912444,Rajeev Motwani,0,0.003708468606338,0.082832279151172
+2100369465,Clustering data streams,2000,29,639,3,0.190476,2135063632,Sudipto Guha,0,-0.7177745874163788,2.458410807872534
+2101207848,Adaptive ordering of pipelined stream filters,2004,33,201,2,0.0,2272704701,Shivnath Babu,0,-0.4169131078858436,0.3289357584687276
+2108350934,Extracting schema from semistructured data,1998,21,223,3,0.0,2135512025,Svetlozar Nestorov,0,-0.21934185016841626,0.6056873083074126
+2114423840,Auditing SQL Queries,2008,14,40,1,1.0,2034912444,Rajeev Motwani,0,-0.9278726461624025,-0.021377886099991014
+2105423800,Robust and efficient fuzzy match for online data cleaning,2003,21,442,4,0.0,2163909284,Surajit Chaudhuri,0,0.20107408787174083,0.38649701983555856
+2126256482,Query flocks a generalization of association-rule mining,1998,17,158,4,0.0,2289364316,Jeffrey D. Ullman,0,0.48870526575281675,-0.08377991064744578
+2123297508,Clustering data streams Theory and practice,2003,84,705,4,0.190476,2135063632,Sudipto Guha,0,-0.48614620756946236,1.5423667109103916
+2129598390,Robust identification of fuzzy duplicates,2005,26,166,2,0.0,2163909284,Surajit Chaudhuri,0,-0.19155017840609767,0.40502768820528007
+2115103164,Auditing a Batch of SQL Queries,2007,10,4,1,1.0,2034912444,Rajeev Motwani,0,-0.3291976808020441,-0.13703470885516322
+2118229812,Random sampling for histogram construction how much is enough ,1998,29,233,1,1.0,2034912444,Rajeev Motwani,0,-0.17385099780758892,0.38076760966607276
+2112328768,Tracing the Path New Model and Algorithms for Collaborative Filtering,2007,14,6,1,1.0,2034912444,Rajeev Motwani,0,0.5611498308404397,0.5139252369798983
+2124298185,Chain operator scheduling for memory minimization in data stream systems,2003,30,236,1,1.0,2034912444,Rajeev Motwani,0,0.003708468606338,0.082832279151172
+2106990403,Load shedding for aggregation queries over data streams,2004,20,298,3,0.0,2116639004,Brian Babcock,0,-0.500424061585821,0.42843764499006126
+2140129471,Finding interesting associations without support pruning,2000,17,95,6,1.0,2167811012,Edith Cohen,0,0.22182222172371846,0.4379581039508832
+2154463588,Keyword Generation for Search Engine Advertising,2006,5,103,2,0.0,2107589688,Amruta Joshi,0,0.827605527811422,-2.3470778060389077
+2154707336,Estimating corpus size via queries,2006,14,60,5,0.0,1970098533,Andrei Z. Broder,0,0.003708468606338,0.082832279151172
+2148955694,Towards robustness in query auditing,2006,26,88,5,0.0,2000429915,Shubha U. Nabar,0,0.003708468606338,0.082832279151172
+2169982181,Overcoming limitations of sampling for aggregation queries,2001,17,148,4,0.0,2163909284,Surajit Chaudhuri,0,-0.08557671749653388,0.3058873493944218
+2149093850,Database aggregation query result estimator,2005,49,27,1,1.0,2034912444,Rajeev Motwani,0,0.003708468606338,0.082832279151172
+2149304339,Modeling correlations in web traces and implications for designing replacement policies,2004,32,27,4,0.0,340493376,Konstantinos Psounis,0,0.003708468606338,0.082832279151172
+2210278139,Beyond market baskets generalizing association rules to correlations,1997,24,1231,2,0.666667,2974285896,Sergey Brin,0,0.16215669648143693,0.20467026184968912
+2464261841,Processing continuous queries over streaming data with limited system resources,2006,0,3,1,1.0,2034912444,Rajeev Motwani,0,-0.07097522262003553,-0.4055843369025151
+2590946366,Robuste Erkennung von fuzzy DuplikatdatensÃ¤tzen in einer Datenbank Robust detection of fuzzy duplicate records in a database,2005,0,0,1,1.0,2034912444,Rajeev Motwani,0,0.003708468606338,0.082832279151172
+2749240324,Algorithms for similarity search and clustering in large data sets,2003,0,0,2,0.428571,737311942,Aristides Gionis,0,0.008673906101399268,0.06497898913134738
+3022377781,Scalable Techniques for Mining Causal Structures,1998,12,75,3,1.0,2041650587,Craig Silverstein,0,0.003708468606338,0.082832279151172

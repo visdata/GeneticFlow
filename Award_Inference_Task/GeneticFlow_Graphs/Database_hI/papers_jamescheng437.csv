@@ -1,0 +1,32 @@
+1523811604,An efficient approach to support querying secure outsourced XML information,2006,12,0,4,0.0,2679247576,Yin Yang,0,2.638464776898655,-1.0173744759134375
+1514766357,A development of hash-lookup trees to support querying streaming XML,2007,13,0,1,1.0,2304873892,James Cheng,0,0.6120175893625798,-0.23482865160867047
+1521895403,An efficient index lattice for XML query evaluation,2007,14,2,2,0.0,2170178419,Wilfred Ng,0,2.529103166032161,-0.9124375132884993
+1887246875,XQzip Querying Compressed XML Using Structural Indexing,2004,14,82,1,1.0,2304873892,James Cheng,0,2.393919284475961,-0.8794014440068407
+1599633455,Mining vague association rules,2007,5,21,3,0.0,2111621443,An Lu,0,-0.0041099411153885,0.0447066884760059
+1602861678,Querying large graph databases,2010,26,10,2,0.7,2563000901,Yiping Ke,0,0.0045042820307870475,0.1747706051493194
+1975068437,Fg-index towards verification-free query processing on graph databases,2007,22,226,1,1.0,2304873892,James Cheng,0,-0.0041099411153885,0.0447066884760059
+1971864278,TF-Label a topological-folding labeling scheme for reachability querying in a large graph,2013,29,48,1,1.0,2304873892,James Cheng,0,-0.0041099411153885,0.0447066884760059
+1982385612,Efficient processing of (k)-hop reachability queries,2014,38,9,1,1.0,2304873892,James Cheng,0,-0.0041099411153885,0.0447066884760059
+1965427702,Fast graph query processing with a low-cost index,2011,23,27,1,1.0,2304873892,James Cheng,0,0.0908845357243609,0.31128747720343375
+2032186932,K-isomorphism privacy preserving network publication against structural attacks,2010,32,258,1,1.0,2304873892,James Cheng,0,-0.0041099411153885,0.0447066884760059
+2023536175,Truss decomposition in massive networks,2012,31,162,2,0.0,2427856141,Jia Wang,0,-0.0041099411153885,0.0447066884760059
+2052680101,Comparative Analysis of XML Compression Technologies,2006,41,69,3,0.0,2170178419,Wilfred Ng,0,2.3485049625640406,-0.9375414068725034
+2066513365,GBLENDER towards blending visual query formulation and query processing in graph databases,2010,21,36,4,0.0,2224576241,Changjiu Jin,0,0.0908845357243609,0.31128747720343375
+2076515192,Finding distance-preserving subgraphs in large road networks,2013,18,8,2,0.868421,2146437384,Da Yan,0,-0.0041099411153885,0.0447066884760059
+2079668713,Efficient query processing on graph databases,2009,38,53,1,1.0,2304873892,James Cheng,0,0.014532710543751099,0.030944858938630852
+2135611582,Context-Aware Object Connection Discovery in Large Graphs,2009,20,43,1,1.0,2304873892,James Cheng,0,-0.0041099411153885,0.0447066884760059
+2120063789,K-reach who is in your small world,2012,35,32,1,1.0,2304873892,James Cheng,0,-0.0041099411153885,0.0447066884760059
+2153228780,MIC Framework An Information-Theoretic Approach to Quantitative Association Rule Mining,2006,8,16,2,0.833333,2563000901,Yiping Ke,0,-0.0041099411153885,0.0447066884760059
+2160360175,Correlated pattern mining in quantitative databases,2008,44,35,2,0.833333,2563000901,Yiping Ke,0,-0.0041099411153885,0.0447066884760059
+2219156867,Pregel algorithms for graph connectivity problems with performance guarantees,2014,24,65,2,0.868421,2146437384,Da Yan,0,-0.0041099411153885,0.0447066884760059
+2266577329,A general-purpose query-centric framework for querying big graphs,2016,28,18,2,0.868421,2146437384,Da Yan,0,-0.0041099411153885,0.0447066884760059
+2219764230,Large-scale distributed graph computing systems an experimental evaluation,2014,25,101,2,0.0,2298559921,Yi Lu,0,-0.0041099411153885,0.0447066884760059
+2259576664,Blogel a block-centric framework for distributed computation on real-world graphs,2014,21,133,2,0.868421,2146437384,Da Yan,0,-0.0041099411153885,0.0447066884760059
+2232745072,Husky towards a more efficient and expressive distributed computing framework,2016,26,27,3,1.0,2684928065,Fan Yang,0,-0.20133665475165913,-0.19110780330684465
+2429692861,Quegel A General-Purpose System for Querying Big Graphs,2016,10,6,3,0.0,2661434661,Qizhen Zhang,0,0.4180589913251144,0.18045890415808044
+2434302234,Big Graph Analytics Systems,2016,12,19,5,0.868421,2146437384,Da Yan,0,-0.0041099411153885,0.0447066884760059
+2487291052,An efficient approach to support querying secure outsourced XML information,2006,0,20,4,0.0,2679247576,Yin Yang,0,2.638464776898655,-1.0173744759134375
+2438284930,Reachability and time-based path queries in temporal graphs,2016,44,17,3,0.0,2165269316,Huanhuan Wu,0,0.0908845357243609,0.31128747720343375
+2612256778,The Best of Both Worlds Big Data Programming with Both Productivity and Performance,2017,9,6,6,1.0,2684928065,Fan Yang,0,-0.08861491733470268,0.1853768420401302
+2738444785,A development of hash-lookup trees to support querying streaming XML,2007,0,0,1,1.0,2304873892,James Cheng,0,1.7069785820542716,-0.7869159919076258
+2970978109,Yugong geo-distributed data and job placement at scale,2019,0,1,5,1.0,2295768303,Yuzhen Huang,0,-0.0041099411153885,0.0447066884760059

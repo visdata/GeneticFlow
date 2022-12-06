@@ -1,0 +1,52 @@
+37421488,Differential Context Modeling in Collaborative Filtering,2013,18,13,2,0.0967705,1892801027,Bamshad Mobasher,0,0.6517096022335924,0.728869557660575
+141513725,A Survey of Collaborative Recommendation and the Robustness of Model-Based Algorithms,2008,10,55,3,0.0,2973812133,Jeff J. Sandvig,0,0.5164970786046673,0.6134398911083098
+61758119,Model-based collaborative filtering as a defense against profile injection attacks,2006,11,108,2,0.178706,1892801027,Bamshad Mobasher,0,0.5476530134474511,0.6211984456421683
+151997209,Optimal Feature Selection for Context-Aware Recommendation using Differential Relaxation,2012,17,28,2,0.0978511,1892801027,Bamshad Mobasher,0,-0.1125347068560818,0.2785952214074708
+281665770,Hybrid Recommender Systems Survey and Experiments,2002,44,2675,1,1.0,2122091461,Robin Burke,0,0.6936525029723866,0.5352803588528944
+1542664738,Hybrid web recommender systems,2007,55,684,1,1.0,2122091461,Robin Burke,0,0.8776680742443249,0.45208381503500666
+1546447935,Recommendation with Differential Context Weighting,2013,33,44,2,0.631579,2467968861,Yong Zheng,0,0.8776680742443249,0.45208381503500666
+1576240472,Differential Context Relaxation for Context-Aware Travel Recommendation,2012,17,42,2,0.631579,2467968861,Yong Zheng,0,1.2350652037173413,0.39061007574644036
+1487388135,Detecting profile injection attacks in collaborative filtering a classification-based approach,2006,17,34,3,0.857143,2098702816,Chad Williams,0,0.2829216464882124,0.392444080287717
+1558568167,Impact of relevance measures on the robustness and accuracy of collaborative filtering,2007,10,4,3,0.0,2009247427,J. J. Sandvig,0,0.8776680742443249,0.45208381503500666
+1583639061,Personalizing Navigation in Folksonomies Using Hierarchical Tag Clustering,2008,17,53,4,0.454545,2012517146,Jonathan Gemmell,0,-0.49680371111629457,1.1825094605693118
+1971994493,Modeling topic trends on the social web using temporal signatures,2012,28,8,3,0.0,2229245456,Laura Christiansen,0,-0.38309278739144287,0.8180569140553182
+1969347587,Defending recommender systems detection of profile injection attacks,2007,24,89,3,0.857143,2098702816,Chad Williams,0,0.8731370635806193,0.4193329716471921
+1980122825,Robustness of collaborative recommendation based on association rule mining,2007,14,97,3,0.0,2009247427,J. J. Sandvig,0,0.7082749281142349,0.510419401837241
+1996552124,Query-driven context aware recommendation,2013,24,26,3,0.666667,2058044039,Negar Hariri,0,0.2765848885562572,0.17934850207496486
+2009385725,Deviation-Based Contextual SLIM Recommenders,2014,28,17,3,0.626866,2467968861,Yong Zheng,0,0.19721709072141988,0.1014488430509133
+2017107296,Adapting Recommendations to Contextual Changes Using Hierarchical Hidden Markov Models,2015,12,17,4,0.0,2117398977,Mehdi Hosseinzadeh Aghdam,0,0.08329114195231535,0.32893178638165566
+2020701179,Attacks and Remedies in Collaborative Recommendation,2007,19,63,2,0.178706,1892801027,Bamshad Mobasher,0,0.8776680742443249,0.45208381503500666
+2029424893,Classification features for attack detection in collaborative recommender systems,2006,13,152,1,1.0,2122091461,Robin Burke,0,0.8776680742443249,0.45208381503500666
+2010422928,Using social tags to infer context in hybrid music recommendation,2012,10,10,3,0.666667,2058044039,Negar Hariri,0,0.5696427439137862,0.5255974913681313
+2030416934,Interactive multi-party critiquing for group recommendation,2011,6,22,3,0.0,2224844225,Francesca Guzzi,0,0.08329114195231535,0.32893178638165566
+2016506327,Splitting approaches for context-aware recommendation an empirical study,2014,17,40,2,0.626866,2467968861,Yong Zheng,0,0.6556428785446906,0.103232567070622
+2045450443,Context adaptation in interactive recommender systems,2014,14,29,3,0.666667,2058044039,Negar Hariri,0,0.8776680742443249,0.45208381503500666
+2039644859,Robust recommender systems,2008,0,3,1,1.0,2122091461,Robin Burke,0,0.8776680742443249,0.45208381503500666
+2064173066,Personalized recommendation in social tagging systems using hierarchical clustering,2008,17,423,4,0.0,258628500,Andriy Shepitsen,0,-0.25979515569816264,0.7716987088451802
+2083153244,CSLIM contextual SLIM recommendation algorithms,2014,11,54,3,0.626866,2467968861,Yong Zheng,0,0.19721709072141988,0.1014488430509133
+2104391728,Evaluating the dynamic properties of recommendation algorithms,2010,14,27,1,1.0,2122091461,Robin Burke,0,-0.07260516946933537,0.4263841614660679
+2131869937,Ontological User Profiles for Representing Context in Web Search,2007,11,53,3,0.0,2168277392,Ahu Sieg,0,0.6312597372526052,-1.447245253866046
+2142040314,Semantic ratings and heuristic similarity for collaborative filtering,2000,8,23,1,1.0,2122091461,Robin Burke,0,1.2350652037173413,0.39061007574644036
+2115398528,Hybrid tag recommendation for social annotation systems,2010,17,34,4,0.454545,2012517146,Jonathan Gemmell,0,0.08329114195231535,0.32893178638165566
+2142272204,Supporting learning through active retrieval of video stories,1995,35,22,1,1.0,2122091461,Robin Burke,0,0.16269446673094518,-0.12486182304720923
+2144194596,Segment-based injection attacks against collaborative filtering recommender systems,2005,6,46,1,1.0,2122091461,Robin Burke,0,1.5428061382610074,0.8841990024733579
+2145413874,Web search personalization with ontological user profiles,2007,33,273,3,0.0,2168277392,Ahu Sieg,0,0.34208215495682426,-0.4460170753742258
+2187889135,Recommendation with Differential Context Weighting Recommendation with Differential Context Weighting,2013,1,0,1,1.0,2122091461,Robin Burke,0,0.003708468606338,0.082832279151172
+2274674922,CARSKit A Java-Based Context-Aware Recommendation Engine,2015,15,45,3,0.626866,2467968861,Yong Zheng,0,-0.07260516946933537,0.4263841614660679
+2294384044,Predicting Component Utilities for Linear-Weighted Hybrid Recommendation,2014,9,7,2,0.875,81489777,Fatemeh Vahedian,0,0.003708468606338,0.082832279151172
+2296684318,Similarity-Based Context-Aware Recommendation,2015,24,24,3,0.626866,2467968861,Yong Zheng,0,0.08329114195231535,0.32893178638165566
+2397423854,Network-Based Extension of Multi-Relational Factorization Models,2015,7,6,2,1.0,81489777,Fatemeh Vahedian,0,-0.3011331851164172,-0.15588985616037465
+2575922200,Collaborative Recommendation of Informal Learning Experiences,2016,7,0,1,1.0,2122091461,Robin Burke,0,0.003708468606338,0.082832279151172
+2576312337,Weighted Random Walks for Meta-Path Expansion in Heterogeneous Networks,2016,9,4,2,1.0,81489777,Fatemeh Vahedian,0,0.003708468606338,0.082832279151172
+2593555287,Weighted meta-path generation Multi-relational recommender system Heterogeneous information network Weighted random walk sampling,2017,18,0,3,1.0,81489777,Fatemeh Vahedian,0,0.08329114195231535,0.32893178638165566
+2684996256,Multirelational Recommendation in Heterogeneous Networks,2017,60,5,2,1.0,81489777,Fatemeh Vahedian,0,-0.9188488355703639,-0.040790772027871236
+2605148104,Weighted Random Walk Sampling for Multi-Relational Recommendation,2017,18,1,2,1.0,81489777,Fatemeh Vahedian,0,0.08329114195231535,0.32893178638165566
+2749187671,VAMS 2017 Workshop on Value-Aware and Multistakeholder Recommendation,2017,5,2,1,1.0,2122091461,Robin Burke,0,0.08329114195231535,0.32893178638165566
+2741421595,Patterns of Multistakeholder Recommendation,2017,32,5,1,1.0,2122091461,Robin Burke,0,0.08329114195231535,0.32893178638165566
+2748058847,Controlling Popularity Bias in Learning-to-Rank Recommendation,2017,18,46,2,0.75,2723149869,Himan Abdollahpouri,0,0.19721709072141988,0.1014488430509133
+2890133553,Synthetic Attribute Data for Evaluating Consumer-side Fairness,2018,5,1,1,1.0,2122091461,Robin Burke,0,0.19721709072141988,0.1014488430509133
+2892659617,Automating recommender systems experimentation with librec-auto,2018,5,5,2,1.0,2767443041,Masoud Mansoury,0,0.08329114195231535,0.32893178638165566
+2959180423,Flatter is better Percentile Transformations for Recommender Systems,2019,27,0,2,1.0,2767443041,Masoud Mansoury,0,0.19721709072141988,0.1014488430509133
+2963457076,Weighted Random Walk Sampling for Multi-Relational Recommendation,2017,0,3,2,1.0,81489777,Fatemeh Vahedian,0,0.08329114195231535,0.32893178638165566
+2977948424,Crank up the Volume Preference Bias Amplification in Collaborative Recommendation,2019,0,0,4,0.0,2972700235,Kun Lin,0,0.003708468606338,0.082832279151172
+3021068736,FairMatch A Graph-based Approach for Improving Aggregate Diversity in Recommender Systems,2020,26,0,5,1.0,2767443041,Masoud Mansoury,0,0.08329114195231535,0.32893178638165566

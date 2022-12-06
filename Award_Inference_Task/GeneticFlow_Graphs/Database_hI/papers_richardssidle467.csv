@@ -1,0 +1,38 @@
+4252868,Method and system for constraint checking bulk data in a database,1996,2,8,2,0.0,2128176301,Mir Hamid Pirahesh,0,0.8999996152467536,0.07230599258222555
+146922646,Maintenance of Automatic Summary Tables,2000,0,11,2,0.0,2119605707,Wolfgang Lehner,0,-0.0041099411153885,0.0447066884760059
+334366032,SUPPORTING FLEXIBLE TYPES IN A DATABASE,2013,5,2,4,0.0,401236404,Guy M. Lohman,0,0.43739842239757626,0.009947045888208002
+976492188,Parallel load in a column-store database,2014,8,6,2,0.0,240506892,Sam Lightstone,0,-0.0041099411153885,0.0447066884760059
+944656979,BUFFERING INSERTS INTO A COLUMN STORE DATABASE,2014,10,4,6,0.0,240506892,Sam Lightstone,0,0.04950169860597583,0.2024605638798553
+1532159495,Independent deferred incremental refresh of materialized views,2003,8,24,1,1.0,2129161123,Richard S. Sidle,0,1.347665702062397,0.19844278277715655
+1480461337,Efficient partitioned joins in a database with column-major layout,2012,24,18,6,0.0,401236404,Guy M. Lohman,0,-0.044960371866018124,-0.1330539129963641
+1572123661,System and method for incrementally maintaining non-distributive aggregate functions in a relational database,2002,12,49,1,1.0,2129161123,Richard S. Sidle,0,2.0292204652205257,0.3322696778020392
+1492825987,Classification of data for insertion into a database,2003,8,5,1,1.0,2129161123,Richard S. Sidle,0,-0.0041099411153885,0.0447066884760059
+1796752321,Synchronization of SQL actions in a relational database system,1997,12,104,5,1.0,1982477135,George Lapis,0,0.14282323664345528,0.42121137980690426
+1874470635,Query optimizer system that detects and prevents mutating table violations of database integrity in a query before execution plan generation,1995,11,109,2,0.0,2128176301,Mir Hamid Pirahesh,0,-0.3331643943076167,0.3141486600475589
+1905015708,Predicate pushdown with late materialization in database query processing,2012,25,10,4,0.304013,1919621074,Lin Qiao,0,0.8809340701863815,0.11633144593696097
+1578663810,Intra-block partitioning for database management,2012,10,9,6,0.0,240506892,Sam Lightstone,0,0.04950169860597583,0.2024605638798553
+1597097985,System and method for constraint checking bulk data in a database,1995,17,102,2,0.0,2128176301,Mir Hamid Pirahesh,0,0.8999996152467536,0.07230599258222555
+1606739206,System and method for selective incremental deferred constraint processing after bulk loading data,1999,22,111,5,0.0,240506892,Sam Lightstone,0,3.0105463211226136,0.8955803386806126
+1890220130,Blink Not Your Fatherâ€™s Database ,2011,16,9,10,0.0,69727675,Namik Hrle,0,-0.1378788631650658,0.5167878976552045
+1584770030,In-memory BLU acceleration in IBMs DB2 and dashDB Optimized for modern workloads and hardware architectures,2015,12,19,4,0.719006,2105103640,Ronald J. Barber,0,1.0442047344897274,0.867390122275573
+1967601791,DB2 with BLU acceleration so much more than just a column store,2013,22,178,15,0.0,2112167796,Vijayshankar Raman,0,0.8842819824028589,-0.09411055655882236
+2100542992,Constant-Time Query Processing,2008,14,120,8,0.0,2112167796,Vijayshankar Raman,0,0.9165703227808046,0.3639014348279039
+2104945737,Maintenance of cube automatic summary tables,2000,4,24,2,0.0,2119605707,Wolfgang Lehner,0,1.901466873024071,0.5622172946276698
+2143125604,Row-wise parallel predicate evaluation,2008,13,61,3,0.0,2250370833,Ryan Johnson,0,-0.2875219901167211,0.44496548017389
+2113831242,Business Analytics in (a) Blink,2012,14,24,19,0.926322,2105103640,Ronald J. Barber,0,0.3697721822253082,0.3526890015756634
+2182331413,Joins on encoded and partitioned data,2014,18,13,17,0.0,2134045017,Jae Gil Lee,0,0.5729530994866205,0.6338634694383753
+2212840494,Method for laying out fields in a database in a hybrid of row-wise and column-wise ordering,2008,41,37,3,0.0,1494782392,Frederick R. Reiss,0,0.09560153568394734,0.34384522677555335
+2244748657,Incremental maintenance of aggregated and join summary tables,2000,30,41,2,0.22928,2128176301,Mir Hamid Pirahesh,0,1.4376642421170052,0.7483114094377722
+2256833855,Query optimization by transparently altering properties of relational tables using materialized views,1998,20,80,4,1.0,1982477135,George Lapis,0,1.465750536726643,0.2807819283781253
+2292693431,Memory-efficient hash joins,2014,19,37,5,0.818554,2105103640,Ronald J. Barber,0,-0.0041099411153885,0.0447066884760059
+2299052634,QUERY HANDLING IN A COLUMNAR DATABASE,2015,10,7,4,0.0,2038748030,Adam J. Storm,0,0.6388590743055392,-0.07189760889139868
+2277699710,Intelligent compilation of materialized view maintenance for query processing systems,1999,23,36,2,0.146045,2128176301,Mir Hamid Pirahesh,0,1.945571616827872,1.0751706097094496
+2395643028,Evolutionary Integration of In-Memory Database Technology into IBMs Enterprise DB2 Database Systems,2013,6,0,4,0.0,2019833327,Knut Stolze,0,0.7111256641125056,-0.04837818126268367
+2428665651,Wildfire Concurrent Blazing Data Ingest and Analytics,2016,8,8,8,0.642302,2105103640,Ronald J. Barber,0,0.044859856903840555,0.012551371775477651
+2556858519,POOLING WORK ACROSS MULTIPLE TRANSACTIONS FOR REDUCING CONTENTION IN OPERATIONAL ANALYTICS SYSTEMS,2015,9,7,5,0.0,401236404,Guy M. Lohman,0,2.3757753103809724,2.277608381726941
+2584396730,Reducing the cost of update delete and append-only insert operations in a database,2016,19,8,5,0.0,401236404,Guy M. Lohman,0,0.33884975146430507,0.2678025587894068
+2584505023,Evolving Databases for New-Gen Big Data Applications,2017,11,4,6,0.601387,2105103640,Ronald J. Barber,0,0.06635930819191084,0.49152641060504293
+2518182978,Hardware for a bitmap data structure for efficient storage of heterogeneous lists,2016,21,6,5,0.0,337295000,Vincent Kulandaisamy,0,0.20165297242282254,-0.4396086974736948
+2610682858,Updating of in-memory synopsis metadata for inserts in database table,2016,9,4,4,0.0,240506892,Sam Lightstone,0,0.01337825333538809,0.11672088235102458
+2965024626,WiSer A Highly Available HTAP DBMS for IoT Applications,2019,24,0,9,0.53111,2105103640,Ronald J. Barber,0,0.7525368217049581,0.7966910560300162
+3008451085,WiSer A Highly Available HTAP DBMS for IoT Applications,2019,24,0,8,0.53111,2105103640,Ronald J. Barber,0,0.7525368217049581,0.7966910560300162

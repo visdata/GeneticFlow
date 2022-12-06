@@ -1,0 +1,169 @@
+35235785,Honeypots and Limitations of Deception,2005,6,4,2,0.0,323446951,Maximillian Dornseif,0,0.02080662431885795,0.3505429208334274
+18878510,Towards secure deletion on smartphones,2010,10,0,2,0.0,108968658,Michael Spreitzenbarth,0,0.0040557659796233,0.2757546058061082
+54163298,Preventing backdoors in server applications with a separated software architecture,2013,8,0,3,1.0,1964797733,Felix Schuster,0,-0.4806476430265563,1.2147271257980423
+173413620,Return-oriented rootkits bypassing kernel code integrity protection mechanisms,2009,18,196,2,1.0,2035582089,Ralf Hund,0,-1.182572077092047,1.0733732659025164
+39453821,Verfolgen und AbschwÃ¤chen von Malicious Remote Control Networks,2009,0,0,1,1.0,2568277420,Thorsten Holz,0,0.0040557659796233,0.2757546058061082
+22566950,Paint It Black Evaluating the Effectiveness of Malware Blacklists,2014,26,66,3,1.0,2032591291,Marc KÃ¼hrer,0,0.05940095047987125,0.6960502266457337
+126407768,Automated identification of cryptographic primitives in binary programs,2011,20,55,3,0.0,426884163,Felix GrÃ¶bert,0,-0.6001630056618938,-1.0762527346783102
+75380558,An offensive approach to teaching information security Aachen summer school applied IT security,2005,17,17,4,0.151082,201106088,Felix C. Freiling,0,-1.3958956246176497,2.2028427939492343
+112423623,A Small Leak will Sink a Great Ship An Empirical Study of DLP Solutions,2011,2,2,2,0.0,2336218328,Matthias Luft,0,0.44275174821495783,0.2122320060241901
+9904157,B@bel leveraging email delivery for spam mitigation,2012,42,23,4,0.6,1838332414,Gianluca Stringhini,0,-0.1998845188158672,-1.3060374615816834
+96820266,Learning More About Attack Patterns With Honeypots,2006,10,9,1,1.0,2568277420,Thorsten Holz,0,-0.3912470955305339,1.0242051737525826
+80155331,Measuring and Detecting Fast-Flux Service Networks,2008,23,314,1,1.0,2568277420,Thorsten Holz,0,0.0040557659796233,0.2757546058061082
+186100614,IceShield detection and mitigation of malicious websites with a frozen DOM,2011,21,47,3,0.7,1834983159,Mario Heiderich,0,-0.30849407735372797,0.25883959326142947
+15450598,SMARTPROXY secure smartphone-assisted login on compromised machines,2012,25,3,3,1.0,2125016764,Johannes Hoffmann,0,0.5607561558593884,0.08783587254599709
+136108055,CloudSylla Detecting Suspicious System Calls in the Cloud,2014,24,2,3,1.0,2032591291,Marc KÃ¼hrer,0,-0.291788403463891,0.3257350925324555
+170772673,Mobile Malware Detection Based on Energy Fingerprints -- A Dead End ,2013,19,28,3,1.0,2125016764,Johannes Hoffmann,0,-0.5028031078610354,1.0757388846166769
+769169318,Advanced honeypot-based intrusion detection,2006,0,10,3,0.666667,2127231621,Jan GÃ¶bel,0,0.10371539242929195,0.5918708737361019
+1531782611,JACKSTRAWS picking command and control connections from bot traffic,2011,48,117,4,0.0,2667161318,GrÃ©goire Jacob,0,0.11966052836682049,0.651869475920768
+1522996108,Collecting autonomous spreading malware using high-interaction honeypots,2007,12,46,2,0.0,2023117220,Jianwei Zhuge,0,0.10647307806699877,0.7229896171734163
+1488240540,Measurement and Analysis of Autonomous Spreading Malware in a University Environment,2007,20,21,2,0.0,2309065226,Jan Goebel,0,0.12004405143342779,0.7119349973292604
+1569672691,Towards Proactive Spam Filtering (Extended Abstract),2009,17,7,2,0.666667,2127231621,Jan GÃ¶bel,0,0.0040557659796233,0.2757546058061082
+1184927937,Scriptless attacks Stealing more pie without touching the sill,2014,37,4,4,0.5625,1834983159,Mario Heiderich,0,0.9147904711828664,-0.16771623953390893
+1561608006,BOTMAGNIFIER locating spambots on the internet,2011,30,34,2,0.6,1838332414,Gianluca Stringhini,0,0.0040557659796233,0.2757546058061082
+1516751376,08102 Working Group -- Requirements for Network Monitoring from an IDS Perspective,2008,0,0,3,0.0,1966909425,Lothar Braun,0,0.13679434731489165,0.6751406926737795
+1509260479,A short visit to the bot zoo [malicious bots software],2005,1,77,1,1.0,2568277420,Thorsten Holz,0,0.25433938054425664,0.4970086701128702
+1527502244,On the fragility and limitations of current browser-provided clickjacking protection schemes,2012,17,19,4,0.0,189999584,Sebastian Lekies,0,0.0040557659796233,0.2757546058061082
+1573594453,Virtual Honeypots From Botnet Tracking to Intrusion Detection,2007,0,243,2,0.0,2274458662,Niels Provos,0,0.15459100120848734,0.5803822128316928
+1538332098,Counterfeit Object-oriented Programming On the Difficulty of Preventing Code Reuse Attacks in C++ Applications,2015,50,172,6,0.846154,1964797733,Felix Schuster,0,-0.3298717486468034,1.2192927984572213
+1429964360,Static detection of second-order vulnerabilities in web applications,2014,31,34,2,1.0,24296711,Johannes Dahse,0,-1.4906487443016354,2.505157669622591
+1432036814,Tracking DDoS attacks insights into the business of disrupting the web,2012,22,21,2,0.0,2277945604,Armin BÃ¼scher,0,0.1682801125673144,0.5140717157963577
+1557006880,8102 Working Group -- Attack Taxonomy,2008,0,0,3,0.0,2291121611,Marc Dacier,0,0.8394129102049798,0.9239599357505993
+1548205909,Tracking and Mitigation of Malicious Remote Control Networks,2009,106,1,1,1.0,2568277420,Thorsten Holz,0,0.05211979453927836,0.605810563050738
+1512743466,Characterizing the IRC-based Botnet Phenomenon,2007,16,48,4,0.0,2023117220,Jianwei Zhuge,0,-0.10834452461262116,0.3483708982611873
+1558496543,NoSEBrEaK - attacking honeynets,2004,0,61,2,0.0,323446951,Maximillian Dornseif,0,0.034282383891659954,0.31499026979970596
+1461804874,Hell of a handshake abusing TCP for reflective amplification DDoS attacks,2014,10,28,4,1.0,2032591291,Marc KÃ¼hrer,0,-1.1728417193256522,-0.017084428456688394
+1903377156,Detecting honeypots and other suspicious environments,2005,5,130,1,1.0,2568277420,Thorsten Holz,0,-0.22605208948536043,1.0367855751997996
+1873122431,The nepenthes platform an efficient approach to collect malware,2006,20,363,3,0.0,73344460,Paul Baecher,0,0.10647307806699877,0.7229896171734163
+1630225947,Botnet tracking exploring a root-cause methodology to prevent distributed denial-of-service attacks,2005,32,269,2,0.151082,201106088,Felix C. Freiling,0,0.0040557659796233,0.2757546058061082
+1634470931,Learning more about the underground economy a case-study of keyloggers and dropzones,2009,27,174,1,1.0,2568277420,Thorsten Holz,0,-0.9687672988420163,-0.5740587130648372
+1605953723,An Offensive Approach to Teaching Information Security,2005,0,4,3,0.0,323446951,Maximillian Dornseif,0,-1.4622032383836296,2.578931899074636
+1962340579,Measurements and mitigation of peer-to-peer-based botnets a case study on storm worm,2008,20,329,1,1.0,2568277420,Thorsten Holz,0,0.0040557659796233,0.2757546058061082
+1762015219,Dynamic hooks hiding control flow changes within non-control data,2014,45,16,7,0.0,1974862469,Sebastian Vogl,0,0.0040557659796233,0.2757546058061082
+1581009051,Learning and Classification of Malware Behavior,2008,38,418,2,0.243243,1912135871,Konrad Rieck,0,-0.1475229663851997,0.9651195681359566
+1963605074,Das Internet-Malware-Analyse-System (InMAS),2011,16,0,8,0.115229,201106088,Felix C. Freiling,0,0.05940095047987125,0.6960502266457337
+1916198581,Automatically generating models for botnet detection,2009,40,145,3,0.0,2460907738,Peter Wurzinger,0,0.20203105126159626,0.7008900703780553
+1942295288,Cross-Architecture Bug Search in Binary Executables,2015,31,66,5,1.0,103840519,Jannik Pewny,0,0.0040557659796233,0.2757546058061082
+1963856035,Towards reducing the attack surface of software backdoors,2013,30,21,2,1.0,1964797733,Felix Schuster,0,-0.3857762024513458,0.3785705487687621
+1601913557,Advanced Attacker Detection and Understanding with Emerging Honeynet Technologies,2009,0,2,2,0.0,2277824716,Ronald Dodge,0,0.14646499173542601,0.6056661908184223
+1964281299,Practical Timing Side Channel Attacks against Kernel Space ASLR,2013,40,209,3,1.0,2035582089,Ralf Hund,0,-0.44052786439069624,-0.5228983784902765
+1968061803,Inspector Gadget Automated Extraction of Proprietary Gadgets from Malware Binaries,2010,39,82,2,0.0,2086515109,Clemens Kolbitsch,0,0.05940095047987125,0.6960502266457337
+1980534465,k-subscription privacy-preserving microblogging browsing through obfuscation,2013,21,10,5,0.0,2122697406,Panagiotis Papadopoulos,0,-0.28987603174959586,0.9535096807205767
+2004769014,Control-flow restrictor compiler-based CFI for iOS,2013,24,35,2,1.0,103840519,Jannik Pewny,0,0.1639362940477497,0.6530314529854678
+1996569340,An Empirical Analysis of Malware Blacklists,2012,11,11,2,1.0,2032591291,Marc KÃ¼hrer,0,0.11626002076036282,0.8374684374064709
+2003619630,You Can Run but You Cant Read Preventing Disclosure Exploits in Executable Code,2014,36,94,2,0.0,2045355816,Michael Backes,0,-1.1180566081538228,0.5596738011988476
+1989734217,PSiOS bring your own privacy &amp; security to iOS devices,2013,18,32,5,1.0,2035582089,Ralf Hund,0,-1.3721930698182816,1.7734739921660752
+1990360323,Down to the bare metal using processor features for binary analysis,2012,40,34,5,1.0,2112524672,Carsten Willems,0,-0.16690233262029402,0.534575203762412
+2022413220,Its a TRaP Table Randomization and Protection against Function-Reuse Attacks,2015,37,66,8,0.0,2137294177,Stephen Crane,0,0.1639362940477497,0.6530314529854678
+2020926403,Poster control-flow integrity for smartphones,2011,8,3,5,0.307692,2102726817,Lucas Davi,0,-1.3325026984974713,0.2029676555647352
+2028060714,Going Wild Large-Scale Classification of Open DNS Resolvers,2015,27,35,5,1.0,2032591291,Marc KÃ¼hrer,0,-2.6266618845093457,0.4380522477923272
+2012543144,Automated Generation of Models for Fast and Precise Detection of HTTP-Based Malware,2014,29,24,4,0.0,2342945648,Apostolis Zarras,0,0.7161354986322349,0.9600790623188239
+2012604743,Leveraging semantic signatures for bug search in binary programs,2014,28,39,4,1.0,103840519,Jannik Pewny,0,0.0040557659796233,0.2757546058061082
+2043520730,Crouching tiger - hidden payload security risks of scalable vectors graphics,2011,25,13,4,0.7,1834983159,Mario Heiderich,0,0.0040557659796233,0.2757546058061082
+2044798763,Quantifying the security of graphical passwords the case of android unlock patterns,2013,38,130,4,1.0,287787433,Sebastian Uellenbeck,0,-1.156954885534145,-0.6443315066838814
+2062098714,Systems Security Research at Ruhr-University Bochum,2011,29,0,1,1.0,2568277420,Thorsten Holz,0,0.18891437344513115,0.5188494375237843
+2071426633,Vulnerability Assessment using Honeypots,2004,0,15,3,0.0,323446951,Maximillian Dornseif,0,0.02080662431885795,0.3505429208334274
+2103262407,Scriptless attacks stealing the pie without touching the sill,2012,36,61,4,0.7,1834983159,Mario Heiderich,0,0.42972921454364443,-0.15731655672571063
+2095156129,Dont Trust Satellite Phones A Security Analysis of Two Satphone Standards,2012,19,32,5,0.444444,2251637688,Benedikt Driessen,0,0.6222620830796575,-1.3650723319211726
+2086631206,Simulation of Built-in PHP Features for Precise Static Code Analysis,2014,32,39,2,1.0,24296711,Johannes Dahse,0,-1.4906487443016354,2.505157669622591
+2111760587,Towards automated integrity protection of C++ virtual function tables in binary programs,2014,38,42,2,1.0,2050747024,Robert Gawlik,0,0.1639362940477497,0.6530314529854678
+2126881776,Botzilla detecting the &quot;phoning home&quot; of malicious software,2010,28,62,4,0.0,144221600,Tobias Limmer,0,0.1610139681286434,1.361021561803229
+2115734893,Walowdac - Analysis of a Peer-to-Peer Botnet,2009,10,67,5,0.151082,201106088,Felix C. Freiling,0,0.0040557659796233,0.2757546058061082
+2142881470,Using memory management to detect and extract illegitimate code for malware analysis,2012,21,9,3,1.0,2112524672,Carsten Willems,0,0.07417421749042216,0.9221363979358627
+2134127598,Using automatic speech recognition for attacking acoustic CAPTCHAs the trade-off between usability and security,2014,33,14,3,0.0,2228890280,Hendrik Meutzner,0,-0.16510453928910557,0.5598957468738169
+2119521622,TRUMANBOX improving dynamic malware analysis by emulating the internet,2011,8,9,4,0.0,2141004544,Christian Gorecki,0,-0.39385155031851715,1.635364817126827
+2116696275,Exit from hell reducing the impact of amplification DDoS attacks,2014,25,93,4,1.0,2032591291,Marc KÃ¼hrer,0,0.36544092170511777,0.5375067894756285
+2143445293,A Practical Attack to De-anonymize Social Network Users,2010,22,260,2,0.0,320465456,Gilbert Wondracek,0,0.1639362940477497,0.6530314529854678
+2134385885,The underground economy of spam a botmasters perspective of coordinating large-scale spam campaigns,2011,16,126,2,0.0,2035971785,Brett Stone Gross,0,0.13870273495305885,0.26600641527016206
+2122750868,Abusing social networks for automated user profiling,2010,33,113,3,0.0,2029117953,Marco Balduzzi,0,-0.3009155440821479,0.6615570798828401
+2111038628,Toward Automated Dynamic Malware Analysis Using CWSandbox,2007,7,594,2,0.837838,2112524672,Carsten Willems,0,-0.999715586632387,1.6721718379922825
+2150401611,An experimental security analysis of two satphone standards,2013,13,5,5,0.444444,2251637688,Benedikt Driessen,0,0.366608479292472,-0.35356276653452207
+2144728197,New threats and attacks on the World Wide Web,2006,0,37,1,1.0,2568277420,Thorsten Holz,0,-0.1112880672739179,0.3275403405410478
+2151152024,Code Reuse Attacks in PHP Automated POP Chain Generation,2014,39,17,3,1.0,24296711,Johannes Dahse,0,0.3745712991117348,0.6188296036517971
+2169810866,A pointillist approach for comparing honeypots,2005,38,38,2,0.0,2076871579,Fabien Pouget,0,0.10098147737354768,0.5202877292437778
+2161022104,Towards Next-Generation Botnets,2008,25,33,2,1.0,2035582089,Ralf Hund,0,0.2944223450481091,-0.9383771726735471
+2152224400,The InMAS Approach,2010,11,9,8,0.132233,201106088,Felix C. Freiling,0,-0.19618953037212103,1.0656928583930994
+2167464078,ADSandbox sandboxing JavaScript to fight malicious websites,2010,9,44,2,0.0,2080195965,Andreas Dewald,0,0.05940095047987125,0.6960502266457337
+2158389625,Evaluating the Effectiveness of Current Anti-ROP Defenses,2014,15,49,7,1.0,1964797733,Felix Schuster,0,0.0040557659796233,0.2757546058061082
+2149701633,As the net churns Fast-flux botnet observations,2008,6,141,2,0.0,2225914434,Jose Nazario,0,0.0040557659796233,0.2757546058061082
+2167956239,Mobile Security Catching Up Revealing the Nuts and Bolts of the Security of Mobile Devices,2011,66,173,4,0.0,2122310290,Michael Becher,0,-0.25726232239641234,1.311734200400081
+2229154734,Tactile One-Time Pad Leakage-Resilient Authentication for Smartphones,2015,24,1,4,1.0,287787433,Sebastian Uellenbeck,0,-0.5384897335296244,-0.21005952517638288
+2197053955,On the Robustness of Mobile Device Fingerprinting Can Mobile Users Escape Modern Web-Tracking Mechanisms ,2015,13,25,5,1.0,221862189,Thomas Hupperich,0,0.0040557659796233,0.2757546058061082
+2275434060,SDN Rootkits Subverting Network Operating Systems of Software-Defined Networks,2015,25,22,2,0.75,2075029540,Christian RÃ¶pke,0,-0.6537736244944359,1.188263400557981
+2277168792,Spying with bots,2005,2,4,1,1.0,2568277420,Thorsten Holz,0,-0.0006839813647407008,0.38267404865632887
+2300394474,Evaluating Analysis Tools for Android Apps Status Quo and Robustness Against Obfuscation,2016,12,11,6,0.946183,2125016764,Johannes Hoffmann,0,0.0012354626038761252,1.081669417516944
+2295827614,How Secure is TextSecure,2016,38,33,6,1.0,2097058463,Tilman Frosch,0,0.05011685467027963,-1.830478273281747
+2336034876,On Locational Privacy in the Absence of Anonymous Payments,2016,42,0,4,0.0,665923922,Sven SchÃ¤ge,0,-0.5201933013454221,0.30226725541946864
+2336291507,No Honor Among Thieves A Large-Scale Analysis of Malicious Web Shells,2016,12,17,4,0.0,237926303,Oleksii Starov,0,-0.3047545252885912,0.26741539059796465
+2406797542,GraphNeighbors Hampering Shoulder-Surfing Attacks on Smartphones,2014,16,2,3,0.0,2399204054,Irfan Altiok,0,-0.8169263053233793,0.09955110181948253
+2402967204,SkypeLine Robust Hidden Data Transmission for VoIP,2016,37,6,2,0.666667,1967960884,Katharina Kohls,0,-2.6266618845093457,0.4380522477923272
+2395048784,Security Analysis of PHP Bytecode Protection Mechanisms,2015,20,0,2,1.0,24296711,Johannes Dahse,0,-0.03712140755378516,0.326057001508267
+2409015667,Subversive-C abusing and protecting dynamic message dispatch,2016,40,8,8,0.0,2505956772,Julian Lettner,0,0.1639362940477497,0.6530314529854678
+2397986719,MoCFI A Framework to Mitigate Control-Flow Attacks on Smartphones,2012,28,115,5,0.363636,2102726817,Lucas Davi,0,0.0040557659796233,0.2757546058061082
+2400761862,Practical Timing Side Channel Attacks Against Kernel Space ASLR,2013,0,0,3,1.0,2035582089,Ralf Hund,0,0.9753907213017128,-0.24445946668398916
+2418883100,Use the force Evaluating force-sensitive authentication for mobile devices,2016,22,15,3,0.342857,2058848821,Katharina Krombholz,0,-1.4513271221966626,-0.67612069874817
+2476401816,Leveraging Sensor Fingerprinting for Mobile Device Authentication,2016,30,5,3,1.0,221862189,Thomas Hupperich,0,-0.5530861437885858,-0.004176666300269333
+2469912118,Id Like to Pay with Your Visa Card An Illustration of Illicit Online Trading Activity in the Underground Economy Technical Report,2010,15,0,2,0.132233,201106088,Felix C. Freiling,0,0.0040557659796233,0.2757546058061082
+2461899906,On network operating system security,2016,23,5,2,0.75,2075029540,Christian RÃ¶pke,0,0.0040557659796233,0.2757546058061082
+2495773464,The nepenthes platform An efficient approach to collect malware,2006,0,5,3,0.0,73344460,Paul Baecher,0,0.10647307806699877,0.7229896171734163
+2515017176,On the Feasibility of TTL-Based Filtering for DRDoS Mitigation,2016,17,6,2,0.0,2045355816,Michael Backes,0,-0.8491899784845632,0.4556527836630183
+2572561587,Enabling Client-Side Crash-Resistance to Overcome Diversification and Information Hiding,2016,0,28,5,0.891304,2050747024,Robert Gawlik,0,0.0040557659796233,0.2757546058061082
+2516933175,A Tough Call Mitigating Advanced Code-Reuse Attacks at the Binary Level,2016,28,65,8,0.0,2109265691,Victor van der Veen,0,0.1639362940477497,0.6530314529854678
+2506380823,Detection of Intrusions and Malware and Vulnerability Assessment,2011,0,1,2,0.380119,2269201832,Herbert Bos,0,0.05940095047987125,0.6960502266457337
+2506852773,Detile Fine-Grained Information Leak Detection in Script Engines,2016,46,3,6,0.891304,2050747024,Robert Gawlik,0,-0.6567160340281432,1.3137850476034183
+2560041978,EvilCoder automated bug insertion,2016,31,14,2,1.0,103840519,Jannik Pewny,0,0.0040557659796233,0.2757546058061082
+2564248111,Visual Analysis of Malware Behavior (Short paper),2009,0,0,4,0.151082,201106088,Felix C. Freiling,0,0.05940095047987125,0.6960502266457337
+2508513398,An Offensive Approach to Teaching Information Security The RWTH Summmer school on Applied IT Security 2004,2004,7,0,3,0.0,323446951,Maximillian Dornseif,0,-0.1773385929008878,0.7069782294431272
+2519413564,Automated Multi-architectural Discovery of CFI-Resistant Code Gadgets,2016,25,3,5,0.0,2558084424,Patrick Wollgast,0,-0.6567160340281432,1.3137850476034183
+2613309747,On network operating system security,2016,21,0,2,0.75,2075029540,Christian RÃ¶pke,0,0.0040557659796233,0.2757546058061082
+2623390737,Effektives Sammeln von Malware mit Honeypots,2006,3,0,2,0.0,251628,Georg Wicherski,0,0.05211979453927836,0.605810563050738
+2678414931,How They Did It An Analysis of Emission Defeat Devices in Modern Automobiles,2017,4,12,6,1.0,2480419218,Moritz Contag,0,-1.9987055636867457,3.2166939449735437
+2703005719,Detection of Intrusions and Malware and Vulnerability Assessment - 8th International Conference; DIMVA 2011,2012,0,0,2,0.380119,2269201832,Herbert Bos,0,0.05940095047987125,0.6960502266457337
+2612138144,MARX Uncovering Class Hierarchies in C++ Programs,2017,16,16,5,1.0,2231181720,Andre Pawlowski,0,0.0040557659796233,0.2757546058061082
+2616345926,May the Force Be with You The Future of Force-Sensitive Authentication,2017,10,3,3,0.342857,2058848821,Katharina Krombholz,0,-0.5530861437885858,-0.004176666300269333
+2765261175,On Security Research Towards Future Mobile Network Generations,2017,44,4,3,1.0,2501051892,David Rupprecht,0,0.2162467462595006,0.10262772096607041
+2771494169,ECFI Asynchronous Control Flow Integrity for Programmable Logic Controllers,2017,42,7,2,0.714286,2181564330,Ali Abbasi,0,-0.6567160340281432,1.3137850476034183
+2771712331,An Empirical Study on Price Differentiation Based on System Fingerprints,2017,18,0,4,1.0,221862189,Thomas Hupperich,0,-0.34824093440265547,0.5453774352720739
+2774731144,Breaking and Fixing Destructive Code Read Defenses,2017,41,2,4,1.0,103840519,Jannik Pewny,0,-0.6567160340281432,1.3137850476034183
+2784632333,CFI Goes Mobile Control-Flow Integrity for Smartphones,2011,0,0,8,0.256289,1922185186,Manuel Egele,0,0.0040557659796233,0.2757546058061082
+2806594193,Threat modeling for mobile health systems,2018,19,2,3,0.0,2650906858,Matteo Cagnazzo,0,-0.1268089715617238,-0.003638148937709751
+2807308036,On the Weaknesses of Function Table Randomization,2018,24,0,4,1.0,2480419218,Moritz Contag,0,0.0040557659796233,0.2757546058061082
+2789940211,RAPTOR Ransomware Attack PredicTOR,2018,18,2,2,1.0,2771313852,Florian Quinkert,0,-0.9804221206632375,1.028178036045461
+2791099280,An Empirical Study on Online Price Differentiation,2018,13,3,4,1.0,221862189,Thomas Hupperich,0,-0.34824093440265547,0.5453774352720739
+2886750927,Towards Understanding Privacy Implications of Adware and Potentially Unwanted Programs,2018,20,5,3,0.923077,2885232933,Tobias Urban,0,0.7113787978911551,0.9534874277012158
+2889351621,SoK Make JIT-Spray Great Again,2018,0,0,2,1.0,2050747024,Robert Gawlik,0,0.0040557659796233,0.2757546058061082
+2889624678,An Exploratory Analysis of Microcode as a Building Block for System Defenses,2018,48,3,6,0.875,2483976977,Benjamin Kollenda,0,-1.6341546348979454,-0.4020107981483716
+2902040535,Towards Automated Generation of Exploitation Primitives for Web Browsers,2018,31,1,6,1.0,268918824,Behrad Garmany,0,-0.0075554174688383284,0.782614210932782
+2928989072,A Study of Newly Observed Hostnames and DNS Tunneling in the Wild,2019,16,0,4,1.0,2772568907,Dennis Tatang,0,-1.0170184012626615,1.7709690868084185
+2899781671,NAUTILUS Fishing for Deep Bugs with Grammars,2019,0,9,3,1.0,2753077874,Cornelius Aschermann,0,0.0040557659796233,0.2757546058061082
+2913860593,Proceedings of the 7th International Conference on Trust and Trustworthy Computing - Volume 8564,2014,0,0,2,0.0,2024597755,Sotiris Ioannidis,0,-1.1455337880870722,0.8817502850780771
+2903816962,PSiOS Bring Your Own Privacy &amp; Security to iOS Devices (Distinguished Paper Award),2013,0,1,5,1.0,2035582089,Ralf Hund,0,0.0040557659796233,0.2757546058061082
+2911528774,Proceedings of the 8th international conference on Detection of intrusions and malware and vulnerability assessment,2011,0,0,2,0.380119,2269201832,Herbert Bos,0,0.05940095047987125,0.6960502266457337
+2901195475,The Unwanted Sharing Economy An Analysis of Cookie Syncing and User Transparency under GDPR,2018,12,4,4,0.923077,2885232933,Tobias Urban,0,-1.0081576399683816,1.6518748765299445
+2946618605,Lost traffic encryption fingerprinting LTE/4G traffic on layer two,2019,39,1,3,1.0,1967960884,Katharina Kohls,0,0.07125470662280943,0.3374270437981972
+2949982610,Analyzing leakage of personal information by malware,2019,20,0,3,0.923077,2885232933,Tobias Urban,0,-0.0059970915791324,0.8180901069873207
+2947182139,REDQUEEN Fuzzing with Input-to-State Correspondence,2019,0,10,5,1.0,2753077874,Cornelius Aschermann,0,0.0040557659796233,0.2757546058061082
+2955176328,Towards Automated Application-Specific Software Stacks,2019,22,0,3,0.0,2955502153,Nicolai Davidsson,0,0.0040557659796233,0.2757546058061082
+2947761127,On the Challenges of Geographical Avoidance for Tor,2019,0,0,4,1.0,1967960884,Katharina Kohls,0,0.0040557659796233,0.2757546058061082
+2963058500,Adversarial Attacks Against Automatic Speech Recognition Systems via Psychoacoustic Hiding,2018,0,12,4,0.0,2626441943,Lea SchÃ¶nherr,0,0.0040557659796233,0.2757546058061082
+2952662837,How Secure is TextSecure,2014,0,5,6,1.0,2097058463,Tilman Frosch,0,0.0040557659796233,0.2757546058061082
+2963139382,On Security Research Towards Future Mobile Network Generations,2018,99,18,3,1.0,2501051892,David Rupprecht,0,-0.2259115203459312,-0.02628416549150202
+2952847657,Amplification DDoS Attacks,2014,0,0,4,1.0,221862189,Thomas Hupperich,0,0.0040557659796233,0.2757546058061082
+2963326879,AntiFuzz Impeding Fuzzing Audits of Binary Executables,2019,0,1,4,0.0,2963456401,Emre GÃ¼ler,0,0.0040557659796233,0.2757546058061082
+2948569047,Large-Scale Analysis of Infrastructure-Leaking DNS Servers,2019,19,2,3,1.0,2772568907,Dennis Tatang,0,-0.119684377247022,0.31078956952483483
+2945154566,LTE security disabled misconfiguration in commercial networks,2019,17,2,3,0.0,2946737897,Merlin Chlosta,0,-0.395968484329745,-0.18391060794689348
+2932741641,Breaking LTE on Layer Two,2019,37,26,3,1.0,2501051892,David Rupprecht,0,-0.9619072830162912,0.21207901183528524
+2963611340,We Value Your Privacy Now Take Some Cookies Measuring the GDPRâ€™s Impact on Web Privacy,2019,0,14,4,1.0,792072727,Martin Degeling,0,0.9532031733680882,2.101856534832201
+2972410186,GDPiRated â€“ Stealing Personal Information On- and Offline,2019,27,3,1,1.0,2568277420,Thorsten Holz,0,-1.434895566331129,0.6732908512306086
+2972616440,Static Detection of Uninitialized Stack Variables in Binary Code,2019,37,0,4,1.0,268918824,Behrad Garmany,0,-0.6567160340281432,1.3137850476034183
+2990480735,&quot; Your hashed IP address Ubuntu &quot; perspectives on transparency tools for online advertising,2019,24,0,2,1.0,792072727,Martin Degeling,0,-0.34824093440265547,0.5453774352720739
+2969671680,Its Not what It Looks Like Measuring Attacks and Defensive Registrations of Homograph Domains,2019,13,4,5,1.0,2771313852,Florian Quinkert,0,0.0040557659796233,0.2757546058061082
+3003683799,Beyond the Front Page Measuring Third Party Dynamics in the Field,2020,33,0,3,0.923077,2885232933,Tobias Urban,0,0.09396337613498706,0.5634162127208787
+3019893162,{ETHBMC} A Bounded Model Checker for Smart Contracts,2020,0,0,3,0.0,2772735536,Joel Frank,0,0.0040557659796233,0.2757546058061082
+3007857627,Study of DNS Rebinding Attacks on Smart Home Devices,2019,11,0,3,1.0,2772568907,Dennis Tatang,0,0.14936408378902535,0.8198747654921906
+3007904168,On Using Application-Layer Middlebox Protocols for Peeking Behind NAT Gateways,2020,0,0,2,1.0,2343376072,Teemu Rytilahti,0,0.0040557659796233,0.2757546058061082
+3020109690,Call Me Maybe Eavesdropping Encrypted {LTE} Calls With ReVoLTE,2020,0,0,3,1.0,2501051892,David Rupprecht,0,0.1796426362382635,-0.2896474800164377
+3008726973,HYPER-CUBE High-Dimensional Hypervisor Fuzzing,2020,0,1,5,1.0,2752736247,Sergej Schumilo,0,0.0040557659796233,0.2757546058061082
+3008993478,IMP4GT IMPersonation Attacks in 4G NeTworks,2020,0,0,3,1.0,2501051892,David Rupprecht,0,-1.3812354026451008,-0.8402820808783191
+3026664326,{AURORA} Statistical Crash Analysis for Automated Root Cause Explanation,2020,0,0,7,1.0,2751713351,Tim Blazytko,0,0.0040557659796233,0.2757546058061082
+2964788914,GRIMOIRE Synthesizing Structure while Fuzzing,2019,0,4,8,1.0,2751713351,Tim Blazytko,0,0.0040557659796233,0.2757546058061082

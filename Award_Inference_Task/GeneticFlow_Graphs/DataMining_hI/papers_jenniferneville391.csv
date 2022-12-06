@@ -1,0 +1,80 @@
+178555045,A Statistical Method for Integrated Data Cleaning and Imputation,2009,21,7,2,0.0,2119765128,Sunil Prabhakar,0,-0.1771375768504295,0.003135601164374232
+287282549,Spectral Clustering with Links and Attributes,2004,19,9,2,0.38896,2124028641,David Jensen,0,-0.6096965454922504,1.6170286484927463
+1504882789,Modeling Temporal Behavior in Large Networks A Dynamic Mixed-Membership Model,2011,0,3,2,1.0,2060818872,Ryan A. Rossi,0,0.003708468606338,0.082832279151172
+1524037464,Bias/variance analysis for relational domains,2007,13,8,1,1.0,2124572662,Jennifer Neville,0,0.003708468606338,0.082832279151172
+1563576199,Structured comparative analysis of systems logs to diagnose performance problems,2012,33,143,3,0.0,2087565707,Karthik Nagaraj,0,0.003708468606338,0.082832279151172
+1513096004,Statistical models and analysis techniques for learning in relational data,2006,82,15,2,0.296995,2124028641,David Jensen,0,-1.4303322368638973,1.1192405141368793
+1666347389,Linkage and Autocorrelation Cause Feature Selection Bias in Relational Learning,2002,14,161,2,0.0,2124028641,David Jensen,0,-0.9052481377084955,0.4158909474825715
+1586314716,Statistical inference and data cleaning in relational database systems,2011,0,0,2,0.0,2119765128,Sunil Prabhakar,0,0.020964475246335545,0.4145644177070857
+1874144543,Representations and Ensemble Methods for Dynamic Relational Classification,2011,11,3,2,1.0,2060818872,Ryan A. Rossi,0,-0.5409129382841276,0.2873200104248703
+1805785060,Correcting bias in statistical tests for network classifier evaluation,2011,20,8,2,0.0,2244818045,Tao Wang,0,0.17639051859258975,-0.12449546721396594
+1579165553,Dynamic Behavioral Mixed-Membership Model for Large Evolving Networks,2012,24,0,3,0.8,2060818872,Ryan A. Rossi,0,0.003708468606338,0.082832279151172
+1606392798,Autocorrelation and linkage cause bias in evaluation of relational learners,2002,18,23,2,0.0,2124028641,David Jensen,0,-1.2281989170994323,1.2582994116471202
+1763086816,Methods to Determine Node Centrality and Clustering in Graphs with Uncertain Structure,2011,12,16,2,0.9375,2135459169,Joseph J. Pfeiffer,0,-0.21934185016841626,0.6056873083074126
+1919565961,Learning the Latent State Space of Time-Varying Graphs,2014,6,1,3,0.9,2119838086,Nesreen K. Ahmed,0,0.003708468606338,0.082832279151172
+1967994378,An analysis of how ensembles of collective classifiers improve predictions in graphs,2012,21,6,2,0.75,2199665227,Hoda Eldardiry,0,-0.4498161844939175,0.04227037731455017
+1982469530,Modeling dynamic behavior in large evolving graphs,2013,32,100,3,0.8,2060818872,Ryan A. Rossi,0,0.003708468606338,0.082832279151172
+1999986766,Network Sampling From Static to Streaming Graphs,2012,88,19,2,1.0,2119838086,Nesreen K. Ahmed,0,0.003708468606338,0.082832279151172
+1998724781,Network Hypothesis Testing Using Mixed Kronecker Product Graph Models,2013,10,29,2,1.0,2104332529,SebastiÃ¡n Moreno,0,0.003708468606338,0.082832279151172
+2026140005,GDR a system for guided data repair,2010,12,25,3,0.666667,2039740737,Mohamed Yakout,0,0.34402371984857977,0.18048399119476494
+2028137574,Learning relational probability trees,2003,13,209,1,1.0,2124572662,Jennifer Neville,0,-1.0389353821203686,0.49521389949039496
+2016210071,Time-based sampling of social network activity graphs,2010,26,43,3,1.0,2119838086,Nesreen K. Ahmed,0,0.01081499603401945,-0.22829683392880562
+2025266141,Attributed graph models modeling network structure with correlated attributes,2014,27,55,4,0.9375,2135459169,Joseph J. Pfeiffer,0,-0.9212087842563842,0.958496385210485
+2032835264,Multi-network fusion for collective inference,2010,19,2,2,0.75,2199665227,Hoda Eldardiry,0,-1.1054758504610245,0.5357703789240624
+2045012549,Understanding Propagation Error and Its Effect on Collective Classification,2011,22,8,2,1.0,2122756025,Rongjing Xiang,0,-1.1054758504610245,0.5357703789240624
+2063066574,Modeling the evolution of discussion topics and communication to improve relational classification,2010,16,13,2,1.0,2060818872,Ryan A. Rossi,0,-0.4835846770147462,0.49524180079295127
+2063103859,Guided data repair,2011,24,137,3,0.666667,2039740737,Mohamed Yakout,0,0.30880415686501056,0.34042552965593575
+2076019109,Role-dynamics fast mining of large dynamic networks,2012,27,26,3,0.8,2060818872,Ryan A. Rossi,0,0.003708468606338,0.082832279151172
+2074932875,Space-efficient sampling from social activity streams,2012,42,14,2,1.0,2119838086,Nesreen K. Ahmed,0,0.21438872843298346,-0.1353423822296997
+2099594809,Ranking for data repairs,2010,17,9,3,0.666667,2039740737,Mohamed Yakout,0,0.3887179662587992,0.33030131807930774
+2087743293,Composite Likelihood Data Augmentation for Within-Network Statistical Relational Learning,2014,20,4,2,0.9375,2135459169,Joseph J. Pfeiffer,0,-1.0389353821203686,0.49521389949039496
+2101705355,Relational Dependency Networks,2007,48,250,1,1.0,2124572662,Jennifer Neville,0,-0.9637411685534009,0.422693215687891
+2080072192,Collective inference for network data with copula latent markov networks,2013,41,13,2,0.931234,2122756025,Rongjing Xiang,0,-1.31439514512652,0.5958934431970767
+2117780085,A Shrinkage Approach for Modeling Non-stationary Relational Autocorrelation,2008,26,14,2,0.0,2041095650,Pelin Angin,0,-0.7217665761943252,0.36761173917545265
+2108960538,Exploiting time-varying relationships in statistical relational models,2007,18,30,2,1.0,2109261809,Umang Sharan,0,-0.9158586928061125,1.2584148377178392
+2123827533,Why collective inference improves relational classification,2004,16,223,2,0.38896,2124028641,David Jensen,0,-1.0389353821203686,0.49521389949039496
+2135863341,Simple estimators for relational Bayesian classifiers,2003,16,82,1,1.0,2124572662,Jennifer Neville,0,-0.4227461224572734,0.33923160151956894
+2129955956,Database Support for Probabilistic Attributes and Tuples,2008,19,100,6,0.0,2166632766,Sarvjeet Singh,0,-1.3033839591566716,0.37153935555008544
+2133254907,Time-Evolving relational classification and ensemble methods,2012,20,17,2,0.8,2060818872,Ryan A. Rossi,0,-0.7428606597974154,0.3623864708833499
+2118930608,Correcting evaluation bias of relational classifiers with network cross validation,2012,38,16,1,1.0,2124572662,Jennifer Neville,0,-1.0389353821203686,0.49521389949039496
+2118932399,Pseudolikelihood EM for Within-network Relational Learning,2008,26,35,2,0.857143,2122756025,Rongjing Xiang,0,-0.660403953112748,0.35211533869291683
+2136693028,Leveraging relational autocorrelation with latent group models,2005,25,1,1,1.0,2124572662,Jennifer Neville,0,-1.0389353821203686,0.49521389949039496
+2124965089,Dependency networks for relational data,2004,14,92,1,1.0,2124572662,Jennifer Neville,0,-1.5777552183710024,0.6160957280261914
+2110319799,Evaluating Statistical Tests for Within-Network Classifiers of Relational Data,2009,24,16,1,1.0,2124572662,Jennifer Neville,0,-0.2241353784163045,0.16057949266828594
+2140127353,Avoiding bias when aggregating relational data with degree disparity,2003,18,34,2,0.0,2124028641,David Jensen,0,-1.0389353821203686,0.49521389949039496
+2134092622,Active Exploration in Networks Using Probabilistic Relationships for Learning and Inference,2014,15,13,2,0.9375,2135459169,Joseph J. Pfeiffer,0,-1.1054758504610245,0.5357703789240624
+2119828730,Exploiting relational structure to understand publication patterns in high-energy physics,2003,15,48,6,0.0,2110730349,Amy McGovern,0,-1.1054758504610245,0.5357703789240624
+2186092502,Across-model collective ensemble classification,2011,21,23,2,0.75,2199665227,Hoda Eldardiry,0,-0.4498161844939175,0.04227037731455017
+2153387921,Using relational knowledge discovery to prevent securities fraud,2005,18,122,1,1.0,2124572662,Jennifer Neville,0,-0.9292560158849804,0.3281466613944433
+2163032501,Temporal-Relational Classifiers for Prediction in Evolving Domains,2008,24,57,2,1.0,2109261809,Umang Sharan,0,-0.953223337923624,0.45895557324569486
+2166293769,Modeling relationship strength in online social networks,2010,20,529,2,1.0,2122756025,Rongjing Xiang,0,0.003708468606338,0.082832279151172
+2187121555,Network Sampling Methods and Applications,2013,18,7,2,1.0,2119838086,Nesreen K. Ahmed,0,0.003708468606338,0.082832279151172
+2184806580,Network Sampling Designs for Relational Classification,2012,12,14,2,1.0,2119838086,Nesreen K. Ahmed,0,-1.1054758504610245,0.5357703789240624
+2164187405,ERACER a database approach for statistical inference and data cleaning,2010,24,111,2,0.45,2227100931,Chris Mayfield,0,-0.2277948537307607,0.3384711537449258
+2170413097,Randomization tests for distinguishing social influence and homophily effects,2010,23,171,2,1.0,2027351983,Timothy La Fond,0,-0.3011331851164172,-0.15588985616037465
+2149668059,Using Transactional Information to Predict Link Strength in Online Social Networks,2009,24,177,2,0.0,9557414,Indika Kahanda,0,0.003708468606338,0.082832279151172
+2159078175,A Resampling Technique for Relational Data Graphs,2008,12,14,1,1.0,2124572662,Jennifer Neville,0,-0.4498161844939175,0.04227037731455017
+2200666419,Using Bayesian Network Representations for Effective Sampling from Generative Network Models,2015,10,1,3,0.0,2668887286,Pablo Robles Granda,0,-0.38922405870829174,0.33813053058507664
+2273805756,Graphlet Decomposition Framework Algorithms and Applications,2015,38,14,2,0.826239,2119838086,Nesreen K. Ahmed,0,0.003708468606338,0.082832279151172
+2216964862,Overcoming Relational Learning Biases to Accurately Predict Preferences in Large Scale Networks,2015,20,14,2,0.829787,2135459169,Joseph J. Pfeiffer,0,-1.1054758504610245,0.5357703789240624
+2241571695,Efficient Graphlet Counting for Large Networks,2015,36,79,2,0.826239,2119838086,Nesreen K. Ahmed,0,0.003708468606338,0.082832279151172
+2283687004,Analyzing the Transferability of Collective Inference Models Across Networks,2015,19,0,3,0.0,2277398112,Ransen Niu,0,0.11672415509507165,0.0338187686908989
+2281309761,Anomaly Detection in Dynamic Networks of Varying Size,2014,13,5,2,1.0,2027351983,Timothy La Fond,0,-0.05469064241561857,-0.09618001462016768
+2371420023,Sampling of Attributed Networks from Hierarchical Generative Models,2016,21,8,3,0.0,2480430435,Pablo Robles,0,-0.3541870000285079,0.21014078170827516
+2502001552,Size-Consistent Statistics for Anomaly Detection in Dynamic Networks,2016,6,0,2,1.0,2027351983,Timothy La Fond,0,-0.01186519897042417,0.18865555224569971
+2516178786,Attributed Graph Models Towards the Sharing of Relational Network Data,2014,8,0,2,1.0,2104332529,SebastiÃ¡n Moreno,0,-1.0389353821203686,0.49521389949039496
+2605441573,Leveraging relational autocorrelation with latent group models,2005,24,111,1,1.0,2124572662,Jennifer Neville,0,-0.10804647700586952,0.35365552417048773
+2598514480,Identifying User Survival Types via Clustering of Censored Social Network Data,2017,23,1,4,0.0,2600563877,S. Chandra Mouli,0,-0.02767373209159633,0.6598318591114519
+2802022101,Designing Size Consistent Statistics for Accurate Anomaly Detection in Dynamic Networks,2018,50,1,2,0.896552,2027351983,Timothy La Fond,0,-0.01186519897042417,0.18865555224569971
+2802870214,Scalable and exact sampling method for probabilistic generative graph models,2018,60,1,3,0.859462,2104332529,SebastiÃ¡n Moreno,0,0.003708468606338,0.082832279151172
+2792749098,Tied Kronecker Product Graph Models to Capture Variance in Network Populations,2018,28,3,2,0.859462,2104332529,SebastiÃ¡n Moreno,0,0.003708468606338,0.082832279151172
+2890965819,Multi-level Hypothesis Testing for Populations of Heterogeneous Networks,2018,0,1,3,1.0,2503112593,Guilherme Gomes,0,0.20279561436658805,0.0753070172078775
+2914104258,Proceedings of the Ninth ACM International Conference on Web Search and Data Mining,2016,0,0,3,0.0,344688379,Vanja Josifovski,0,0.003708468606338,0.082832279151172
+2914896913,Proceedings of the 5th ACM SIGSPATIAL International Workshop on Location-Based Social Networks,2012,0,0,2,0.0,141097756,Gabriel Ghinita,0,0.003708468606338,0.082832279151172
+2949917957,Space-Efficient Sampling from Social Activity Streams,2012,34,2,2,1.0,2119838086,Nesreen K. Ahmed,0,0.21438872843298346,-0.1353423822296997
+2940413910,Community detection over a heterogeneous population of non-aligned networks,2019,35,0,3,1.0,2503112593,Guilherme Gomes,0,-0.4408097375184461,1.718319485675415
+2950550864,Graph Sample and Hold A Framework for Big-Graph Analytics,2014,43,20,3,0.9,2119838086,Nesreen K. Ahmed,0,0.247057159400659,0.0008718596446388033
+2950622432,Guided Data Repair,2011,18,80,3,0.666667,2039740737,Mohamed Yakout,0,0.34402371984857977,0.18048399119476494
+2963316155,Network Sampling From Static to Streaming Graphs,2014,105,117,2,0.9,2119838086,Nesreen K. Ahmed,0,0.003708468606338,0.082832279151172
+2951069220,Role-Dynamics Fast Mining of Large Dynamic Networks,2012,25,4,3,0.8,2060818872,Ryan A. Rossi,0,0.003708468606338,0.082832279151172
+2964058346,Methods to Determine Node Centrality and Clustering in Graphs with Uncertain Structure,2011,17,6,2,0.9375,2135459169,Joseph J. Pfeiffer,0,-0.21934185016841626,0.6056873083074126

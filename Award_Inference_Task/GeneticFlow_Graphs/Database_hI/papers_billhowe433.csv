@@ -1,0 +1,59 @@
+168378137,Logical and Physical Data Independence for Native Scientific Data Repositories,2004,6,0,1,1.0,2095906382,Bill Howe,0,1.3007212797904417,0.40459289508503005
+136280059,Proceedings of the first annual workshop on High performance computing meets databases,2011,0,1,1,1.0,2095906382,Bill Howe,0,-0.16455332802893685,0.07849582991561364
+1514391626,Database-as-a-service for long-tail science,2011,29,44,1,1.0,2095906382,Bill Howe,0,0.5325669973310596,0.09709227568458595
+1498520423,Scientific Mashups Runtime-Configurable Data Product Ensembles,2009,8,5,2,0.0,308960180,Harrison Green Fishback,0,-0.43080966412876043,-0.47740807321134926
+1504375824,Emergent Semantics Towards Self-Organizing Scientific Metadata,2004,23,6,1,1.0,2095906382,Bill Howe,0,-0.6083563396962036,0.27205179952344055
+1579568638,Client + cloud evaluating seamless architectures for visual data analytics in the ocean sciences,2010,17,9,2,0.0,352259224,Keith Grochow,0,0.2946713761785912,0.4027268098681643
+1603574374,Retrofitting a data model to existing environmental data,2005,9,1,1,1.0,2095906382,Bill Howe,0,-0.4237990414399768,0.6381926026873624
+1985620471,VizDeck self-organizing dashboards for visual analytics,2012,14,66,2,0.0,1979724703,Alicia Key,0,0.5325669973310596,0.09709227568458595
+1966833945,Towards automated prediction of relationships among scientific datasets,2015,12,1,4,1.0,69314847,Abdussalam Alawini,0,0.11164124832701479,-0.9820314030404909
+1977714272,Helping scientists reconnect their datasets,2014,17,7,4,1.0,69314847,Abdussalam Alawini,0,-0.0041099411153885,0.0447066884760059
+1974695870,Demonstration of the Myria big data management service,2014,9,66,13,1.0,2010099130,Daniel Halperin,0,0.3052146704152564,0.15577542945642583
+1974864470,Gaussian Mixture Models Use-Case In-Memory Analysis with Myria,2015,16,7,6,0.0,2211745466,Ryan Maas,0,0.5809443045768151,0.2535424191619556
+2005659410,The Ocean Appliance Complete Platform Provisioning for Low-Cost Data Sharing,2007,11,2,3,0.0,2064546257,David Maier,0,-1.304554424181071,-1.4514225102972218
+2017214154,Should we all be teaching &quot;intro to data science&quot; instead of &quot;intro to databases&quot; ,2014,0,6,2,0.0,2078839115,Tim Kraska,0,0.298476055439941,-0.24502805778454745
+2020758731,Real-time collaborative analysis with (almost) pure SQL a case study in biogeochemical oceanography,2013,7,3,5,1.0,2010099130,Daniel Halperin,0,-0.09571493590273879,-0.047254454166931574
+2013344760,HaLoop efficient iterative data processing on large clusters,2010,12,629,2,0.666667,2107421971,Yingyi Bu,0,-0.20133665475165913,-0.19110780330684465
+2043691406,The database group at the University of Washington,2014,16,0,2,0.0,2345141441,Magdalena Balazinska,0,0.18601297105691045,-0.0008472885667257998
+2049400253,Hadoops adolescence an analysis of Hadoop usage in scientific workloads,2013,21,80,1,1.0,2095906382,Bill Howe,0,-0.0041099411153885,0.0447066884760059
+2077496619,The power of data use management in action,2013,11,2,3,0.666667,2135060379,Prasang Upadhyaya,0,-0.0041099411153885,0.0447066884760059
+2065504152,QueryMarket demonstration pricing for online data markets,2012,1,28,4,1.0,36008294,Paraschos Koutris,0,-0.0041099411153885,0.0447066884760059
+2101601633,Querying and visualizing gridded datasets for e-science,2005,9,0,1,1.0,2095906382,Bill Howe,0,-0.3050159820590067,-0.22080358967498928
+2080217302,Toward practical query pricing with QueryMarket,2013,10,43,4,1.0,36008294,Paraschos Koutris,0,0.2610789772569602,0.1722739232277762
+2109115793,Perfopticon Visual Query Analysis for Distributed Databases,2015,31,8,3,1.0,2127175817,Dominik Moritz,0,0.06673308052212697,0.04008110223990727
+2139205321,The HaLoop approach to large-scale iterative data analysis,2012,37,103,2,0.666667,2107421971,Yingyi Bu,0,-0.3035819933247609,0.043422005419894806
+2128379730,Algebraic manipulation of scientific datasets,2004,28,34,1,1.0,2095906382,Bill Howe,0,0.1688701099145306,0.640432244492396
+2113671562,Scalable clustering algorithm for N-body simulations in a shared-nothing cluster,2010,41,49,5,0.571429,2148249088,YongChul Kwon,0,-0.0041099411153885,0.0447066884760059
+2140509629,SkewTune mitigating skew in mapreduce applications,2012,31,333,3,0.571429,2148249088,YongChul Kwon,0,-0.0041099411153885,0.0447066884760059
+2140598099,Automatic example queries for ad hoc databases,2011,10,6,1,1.0,2095906382,Bill Howe,0,0.4532323471813233,-0.16429378214672885
+2152323874,Analyzing massive astrophysical datasets Can Pig/Hadoop or a relational DBMS help ,2009,29,49,2,0.0,1995641954,Sarah Loebman,0,0.8457652626170443,0.08583418855451523
+2185403818,Stop That Query The Need for Managing Data Use,2013,17,3,3,0.666667,2135060379,Prasang Upadhyaya,0,-0.0041099411153885,0.0447066884760059
+2147025414,Quarrying dataspaces Schemaless profiling of unfamiliar information sources,2008,14,22,1,1.0,2095906382,Bill Howe,0,-0.028278127660854423,-0.754463095804113
+2171157889,Managing the Forecast Factory,2006,18,3,3,0.0,2983991063,Laura Bright,0,0.5966947499248558,1.072890593566734
+2260616469,The BigDAWG Polystore System,2015,22,116,5,0.0,2094668902,Aaron J. Elmore,0,-0.027298124390412692,0.25211669724065855
+2292449291,A demonstration of the BigDAWG polystore system,2015,14,68,8,0.0,2094668902,Aaron J. Elmore,0,-1.1827367149308514,-0.8784169284375828
+2294768397,Data Markets in the Cloud An Opportunity for the Database Community,2011,8,89,2,0.0,2345141441,Magdalena Balazinska,0,0.18601297105691045,-0.0008472885667257998
+2339462788,Lara A Key-Value Algebra underlying Arrays and Relations,2016,3,3,2,0.9,2227146251,Dylan Hutchison,0,-0.4451776223536524,0.2066623061730615
+2397633480,Big Data Science Needs Big Data Middleware,2015,0,0,1,1.0,2095906382,Bill Howe,0,0.4601744025550715,0.371328047200172
+2428096022,Towards a general-purpose query language for visualization recommendation,2016,23,21,5,0.0,2223705264,Kanit Wongsuphasawat,0,0.119739122485096,0.4583397011045227
+2467744109,From NoSQL Accumulo to NewSQL Graphulo Design and utility of graph algorithms inside a BigTable database,2016,31,10,4,0.9,2227146251,Dylan Hutchison,0,-0.09876735796250122,0.5515681199952307
+2435931733,SQLShare Results from a Multi-Year SQL-as-a-Service Experiment,2016,27,29,4,0.9375,2438195517,Shrainik Jain,0,1.4051970017331683,0.19010120261417152
+2423846857,High variety cloud databases,2016,28,3,3,0.9375,2438195517,Shrainik Jain,0,0.2299821500288414,0.17887097860886775
+2622479609,Fides Towards a Platform for Responsible Data Science,2017,30,14,2,0.0,29980631,Julia Stoyanovich,0,-0.026043388670241648,-0.1514020116204905
+2622579191,DataSynthesizer Privacy-Preserving Synthetic Datasets,2017,6,13,3,0.0,2482403742,Haoyue Ping,0,-0.00492109496191035,-0.1728987636093571
+2613173571,SQL is Dead; Long-live SQL Relational Database Technology in Science Contexts,2014,0,0,1,1.0,2095906382,Bill Howe,0,1.192460507958208,0.2539838332432119
+2610510332,2009 IEEE International Conference on Cluster Computing and Workshops,2009,0,0,2,0.0,1995641954,Sarah Loebman,0,0.76992103580811,0.07993972111936477
+2615212359,Data Science Education Were Missing the Boat Again,2017,0,3,1,1.0,2095906382,Bill Howe,0,-0.04810387213498217,-0.07556603723650233
+2611786849,Profiling a GPU database implementation a holistic view of GPU resource utilization on TPC-H queries,2017,11,0,3,0.0,2573256936,Emily Furst,0,-0.0041099411153885,0.0447066884760059
+2604255113,LaraDB A Minimalist Kernel for Linear and Relational Algebra Computation,2017,29,24,2,0.9,2227146251,Dylan Hutchison,0,0.6948611241417206,0.3646581688528408
+2764889580,Hadoops adolescence,2013,0,10,4,0.0,2129330820,Kai Ren,0,-0.0041099411153885,0.0447066884760059
+2803413209,Special Session A Technical Research Agenda in Data Ethics and Responsible Data Management,2018,2,0,2,0.0,29980631,Julia Stoyanovich,0,0.7215749867899389,0.41693912304030545
+2783470385,Query2Vec NLP Meets Databases for Generalized Workload Analytics,2018,38,3,2,0.9375,2438195517,Shrainik Jain,0,0.044859856903840555,0.012551371775477651
+2888251853,MobilityMirror Bias-Adjusted Transportation Datasets,2018,41,1,5,1.0,2231996890,Luke Rodriguez,0,-0.0041099411153885,0.0447066884760059
+2888281506,Database-Agnostic Workload Management,2018,0,2,4,0.9375,2438195517,Shrainik Jain,0,-0.0041099411153885,0.0447066884760059
+2889165464,Panel a debate on data and algorithmic ethics,2018,22,1,2,0.0,29980631,Julia Stoyanovich,0,0.18601297105691045,-0.0008472885667257998
+2916122323,Capuchin Causal Database Repair for Algorithmic Fairness,2019,48,3,3,1.0,2949144384,Babak Salimi,0,-0.0041099411153885,0.0447066884760059
+2914991415,Proceedings of the EDBT/ICDT 2011 Workshop on Array Databases,2011,0,0,2,0.0,2051184385,Silvia Stefanova,0,0.19808263003005722,1.0489270289973438
+2935230324,The Glass Half Full Using Programmable Hardware Accelerators in Analytics,2019,0,1,1,1.0,2095906382,Bill Howe,0,-0.0041099411153885,0.0447066884760059
+2950525546,Database-Agnostic Workload Management,2018,29,3,4,0.9375,2438195517,Shrainik Jain,0,-0.07335957175812056,0.12220347089569511
+2948130259,Interventional Fairness Causal Database Repair for Algorithmic Fairness,2019,46,13,3,1.0,2949144384,Babak Salimi,0,-0.0041099411153885,0.0447066884760059

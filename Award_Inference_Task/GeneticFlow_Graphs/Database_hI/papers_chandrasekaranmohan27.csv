@@ -1,0 +1,107 @@
+120125564,Page transfer in a data sharing environment with record locking,1992,4,18,2,0.769231,2311819533,Inderpal S. Narang,0,-0.0041099411153885,0.0447066884760059
+171368772,Concurrent record access database system using an index tree structure and method therefor,1988,1,2,2,0.0,2016392128,Frank Eliot Levine,0,-0.0041099411153885,0.0447066884760059
+53283472,Adaptive Database Caching with DBCache,2004,4,62,3,0.714286,1266459441,Christof BornhÃ¶vd,0,-0.0041099411153885,0.0447066884760059
+53379818,Recent Work on Distributed Commit Protocolls and Recoverable Messaging and Queuing,1994,0,22,1,1.0,2411984561,Chandrasekaran Mohan,0,-0.25142422156114436,0.21929531271583175
+58464962,Coordinated Backup and Recovery between Database Management Systems and File Systems,2001,8,2,4,0.0,1981467130,Karen W. Brannon,0,0.9408859741126442,0.6349081676493287
+195438148,Exotica A Research Perspective ob Workflow Management Systems,1995,10,49,1,1.0,2411984561,Chandrasekaran Mohan,0,0.7927688318161586,1.4210782737554233
+42477760,Commit Coordination Deadlock Detection &amp; Concurrency Control in DBMS,1985,0,0,1,1.0,2411984561,Chandrasekaran Mohan,0,2.376031815465849,3.2190297341409675
+63365308,Research Direction in Query Optimization at the University of Maryland,1982,0,20,9,0.0,401236404,Guy M. Lohman,0,0.014532710543751099,0.030944858938630852
+977330692,Computer program product and program storage device for database access using a shared electronic store in a multi-system environment having shared disks,1996,20,46,5,0.0,1980948203,Tina L. Masatani,0,0.2610214358225607,0.2057523253512879
+944656979,BUFFERING INSERTS INTO A COLUMN STORE DATABASE,2014,10,4,8,0.0,240506892,Sam Lightstone,0,0.04950169860597583,0.2024605638798553
+293581350,Bi-temporal key value cache system,2012,8,5,3,0.0,2222719672,Rene Mueller,0,-0.0041099411153885,0.0447066884760059
+1513841824,An efficient method for performing record deletions and updates using index scans,2002,21,16,1,1.0,2411984561,Chandrasekaran Mohan,0,0.18601297105691045,-0.0008472885667257998
+1497257515,Providing High Availability in Very Large Worklflow Management Systems,1996,14,58,4,0.0,2780509901,Mohan Kamath,0,1.2496255147678774,1.0491740457922183
+1524011117,Alert An Architecture for Transforming a Passive DBMS into an Active DBMS,1991,21,133,4,0.0,2400185113,Ulf Schreier,0,0.044859856903840555,0.012551371775477651
+1489028199,Method and means for archiving modifiable pages in a log based transaction management system,1993,8,104,2,0.769231,2311819533,Inderpal S. Narang,0,0.5501948465355991,1.264186489552431
+1569583874,ARIES/KVL A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes,1990,20,207,1,1.0,2411984561,Chandrasekaran Mohan,0,2.452306793682924,3.14790245514689
+1560647005,System and method for adaptive database caching,2004,17,157,5,0.0,1980638931,Berthold Reinwald,0,1.3346603508343653,0.46699184909556307
+1516311197,Partial page write detection for a shared cache using a bit pattern written at the beginning and end of each page,1992,14,33,3,1.0,2139556000,James Zu chia Teng,0,-0.0041099411153885,0.0447066884760059
+1561717309,SCM-CONSCIOUS TRANSACTIONAL KEY-VALUE STORE,2012,11,7,2,1.0,2228457637,Ru Fang,0,2.385269464166521,2.399516708942308
+1526124194,Single table access using multiple indexes optimization execution and concurrency control techniques,1990,17,88,1,1.0,2411984561,Chandrasekaran Mohan,0,2.1157144317699643,2.863268989169888
+1553541524,Efficient Locking and Caching of Data in the Multisystem Shard Disks Transaction Environment,1992,28,57,1,1.0,2411984561,Chandrasekaran Mohan,0,-0.0041099411153885,0.0447066884760059
+1571880665,Evolution of Groupware for Business Applications A Database Perspective on Lotus Domino/Notes,2000,13,9,1,1.0,2411984561,Chandrasekaran Mohan,0,0.16782124802273696,0.2536234597393226
+1491743220,Functionality and Limitations of Current Workflow Management Systems,1997,0,176,4,0.538462,2122271048,Gustavo Alonso,0,0.6847670430111485,1.6725503866550526
+1484543646,Method and apparatus for concurrent modification of an index tree in a transaction processing system utilizing selective indication of structural modification operations,1988,15,63,2,0.0,2016392128,Frank Eliot Levine,0,1.2012961102138755,1.2432302977202927
+1574944490,Recovery and Coherency-Control Protocols for Fast Intersystem Page Transfer and Fine-Granularity Locking in a Shared Disks Transaction Environment,1991,22,116,1,1.0,2411984561,Chandrasekaran Mohan,0,0.38009049917121435,0.45246057348231067
+1485782945,Cache tables paving the way for an adaptive database cache,2003,18,124,4,0.857143,2199071208,Mehmet Altinel,0,-0.0041099411153885,0.0447066884760059
+1512285215,Algorithms for flexible space management in transaction systems supporting fine-granularity locking,1994,8,29,1,1.0,2411984561,Chandrasekaran Mohan,0,1.2413017468436247,1.4651952546567482
+1495707728,TRANSACTION PROCESSING SYSTEM AND METHOD WITH REDUCED LOCKING,1990,9,80,1,1.0,2411984561,Chandrasekaran Mohan,0,1.0714244436714062,1.0551473305659216
+1577823629,Reweaving the tapestry integrating database and messaging systems in the wake of new middleware technologies,2005,6,6,7,0.0,2312112742,Sangeeta T. Doraiswamy,0,0.02101159557448447,-0.05885578832554892
+1910073463,CONCURRENTLY APPLYING REDO RECORDS TO BACKUP DATABASE IN A LOG SEQUENCE USING SINGLE QUEUE SERVER PER QUEUE AT A TIME,1989,22,265,2,0.666667,2150837257,Richard Kent Treiber,0,0.8300597902069252,0.910572336533508
+1911170630,Query Processing in R,1985,42,126,2,0.0,401236404,Guy M. Lohman,0,0.758305804539028,0.17628893004298987
+1760240308,Method to off-load host-based DBMS predicate evaluation to a disk controller,1992,9,20,3,0.7,2309647949,Balakrishna R. Iyer,0,-0.25142422156114436,0.21929531271583175
+1914809896,Method and means for backup and restoration of a database system linked to a system for filing data,1997,28,166,3,0.0,2304912769,Luis Felipe Cabrera,0,-0.3328897507023883,2.335087289576752
+1767688654,System and method for performing record deletions using index scans,1996,34,41,1,1.0,2411984561,Chandrasekaran Mohan,0,1.2077601170994672,0.9940880610031435
+1705155330,Repeating History Beyond ARIES,1999,71,46,1,1.0,2411984561,Chandrasekaran Mohan,0,2.0597271949675613,2.4223092595955094
+1970542753,A database perspective on Lotus Domino/Notes,1999,0,14,1,1.0,2411984561,Chandrasekaran Mohan,0,1.1956174600382263,-0.23249154205730205
+1974021718,Concurrency and recovery in generalized search trees,1997,26,144,2,0.0,2278979797,Marcel Kornacker,0,1.2620142872344853,1.9242894696018087
+1970677834,Application servers (panel session) born-again TP monitors for the Web,2001,0,10,3,0.0,2014082263,Matthieu Devin,0,-0.0041099411153885,0.0447066884760059
+1978293800,An efficient and flexible method for archiving a data base,1993,6,33,1,1.0,2411984561,Chandrasekaran Mohan,0,0.38009049917121435,0.45246057348231067
+1997033370,DB2s use of the coupling facility for data sharing,1997,18,48,2,1.0,2105359700,Jeffrey William Josten,0,1.15941583720679,0.24889372652238476
+2017566675,History repeats itself sensible and NonsenSQL aspects of the NoSQL hoopla,2013,7,70,1,1.0,2411984561,Chandrasekaran Mohan,0,1.0724256655268092,-0.05369345920521219
+2021591567,Coordinating backup/recovery and data consistency between database and file systems,2002,10,102,2,0.0,2310806638,Suparna Bhattacharya,0,-0.8909371551532096,2.475117757204832
+2028800250,DBCache database caching for web application servers,2002,2,24,4,0.857143,2199071208,Mehmet Altinel,0,2.2565439175514648,0.42128423456691166
+2048942975,A survey and critique of advanced transaction models,1994,1,26,1,1.0,2411984561,Chandrasekaran Mohan,0,1.806711478514251,1.9629003782007861
+2054644843,Efficient and flexible methods for transient versioning of records to avoid locking by read-only transactions,1992,14,146,1,1.0,2411984561,Chandrasekaran Mohan,0,-0.25142422156114436,0.21929531271583175
+2047908203,ARIES/IM an efficient and high concurrency index management method using write-ahead logging,1992,16,225,1,1.0,2411984561,Chandrasekaran Mohan,0,1.5201718177114523,1.9567784362792797
+2039168526,State of the art in workflow management research and products,1996,0,16,1,1.0,2411984561,Chandrasekaran Mohan,0,1.1503358080356858,0.6874449715763069
+2077515046,DBCache middle-tier database caching for highly scalable e-business architectures,2003,0,35,4,0.714286,1266459441,Christof BornhÃ¶vd,0,-0.06235356923406975,-0.223505170783772
+2063899160,Globalization challenges to database community,2006,0,0,4,0.0,2119709268,Sang Kyun Cha,0,-0.40975864434508047,0.2110873139452707
+2071395959,A snapshot differential refresh algorithm,1986,1,138,3,0.0,2020635548,Bruce G. Lindsay,0,-1.1166515425214711,-0.8397334965117197
+2097035957,Algorithms for the management of remote backup data bases for disaster recovery,1993,25,51,1,1.0,2411984561,Chandrasekaran Mohan,0,1.1810338984326003,1.262243035769836
+2102959957,Algorithms for creating indexes for very large tables without quiescing updates,1992,13,77,1,1.0,2411984561,Chandrasekaran Mohan,0,-0.0041099411153885,0.0447066884760059
+2100305431,Are we experiencing a big data bubble,2014,4,14,5,0.0,2026396360,Fatma Ozcan,0,-0.10734367370741837,0.7715662559681357
+2103709927,An efficient hybrid join algorithm a DB2 prototype,1991,8,61,5,0.0,2146753901,Josephine M. Cheng,0,0.6150442146109433,-0.007120393241287103
+2104027502,Extensibility in the Starburst database system,1986,15,97,6,0.0,2135035649,Peter Schwarz,0,2.189261719656693,0.4375117721641403
+2101283866,ARIES/LHS A concurrency control and recovery method using write-ahead logging for linear hashing with separators,1993,18,34,1,1.0,2411984561,Chandrasekaran Mohan,0,1.2621389148106723,1.5385457807696448
+2104954161,ARIES a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging,1992,77,935,1,1.0,2411984561,Chandrasekaran Mohan,0,1.0379580384326323,0.5893068493718912
+2141326125,IBMs relational DBMS products features and technologies,1993,18,16,1,1.0,2411984561,Chandrasekaran Mohan,0,1.3130542611395672,1.4964484061976926
+2129674434,Advanced transaction models in workflow contexts,1996,21,250,6,0.538462,2122271048,Gustavo Alonso,0,1.9540558844535296,2.2367939988423235
+2118138066,ARIES-RRH restricted repeating of history in the ARIES transaction recovery method,1991,24,61,1,1.0,2411984561,Chandrasekaran Mohan,0,1.3442433985933468,1.0363002277139004
+2118173195,Middle-tier database caching for e-business,2002,15,185,3,0.0,2119307789,Qiong Luo,0,-0.5062890218132238,-0.5706392211752012
+2109291294,Disk read-write optimizations and data integrity in transaction systems using write-ahead logging,1995,11,35,1,1.0,2411984561,Chandrasekaran Mohan,0,-0.0041099411153885,0.0447066884760059
+2133014505,Multiple version database concurrency control system,1991,8,202,3,1.0,2128176301,Mir Hamid Pirahesh,0,1.6115573713593236,0.5362355093675826
+2112491581,Compiled Query Execution Engine using JVM,2006,22,88,3,0.0,2166272846,Jun Rao,0,0.8754333171113846,0.10998082045402051
+2130542946,Enhancing the fault tolerance of workflow management systems,2000,10,51,5,0.359501,2122271048,Gustavo Alonso,0,1.2269493304548167,1.1510686447766632
+2143380456,Method for providing data availability in a transaction-oriented system during restart after a failure,1991,18,63,1,1.0,2411984561,Chandrasekaran Mohan,0,-0.04507155628101621,0.18847147980642434
+2116929859,Starburst II the extender strikes back ,1991,0,1,9,0.197001,401236404,Guy M. Lohman,0,-0.0041099411153885,0.0447066884760059
+2150424096,ARIES/CSA a method for database recovery in client-server architectures,1994,24,59,1,1.0,2411984561,Chandrasekaran Mohan,0,-2.0972444828031533,-1.4440068337629972
+2168968494,High performance database logging using storage class memory,2011,11,103,4,1.0,2228457637,Ru Fang,0,0.5635404624128066,0.9162082425934764
+2169379483,Transaction management in the R* distributed database management system,1986,30,282,1,1.0,2411984561,Chandrasekaran Mohan,0,2.4760788831185634,1.708770196983374
+2149001708,Method for managing database recovery from failure of a shared store in a system including a plurality of transaction-based systems of the write-ahead logging type,1991,6,140,3,1.0,2139556000,James Zu chia Teng,0,0.8300597902069252,0.910572336533508
+2149934115,Two-phase commit optimizations and tradeoffs in the commercial environment,1993,11,58,4,0.0,2070643244,George Samaras,0,1.0016762521488671,1.1405754846880933
+2183200033,Industrial Track Panel Globalization Challenges to Database Community,2006,0,0,3,0.0,2113738083,Vishal Sikka,0,-0.40975864434508047,0.2110873139452707
+2158983889,Distributed data management in workflow environments,1997,17,31,3,0.538462,2122271048,Gustavo Alonso,0,0.8312837253158689,1.2827948460078349
+2219518514,Data recovery in a transactional database using write-ahead logging and file caching,1998,28,53,4,0.0,1965815696,Markos Zaharioudakis,0,1.761162977658154,2.4747583346172113
+2212749357,An in-depth look at modern database systems,2013,0,0,1,1.0,2411984561,Chandrasekaran Mohan,0,-0.18873441744296118,0.7159729637128209
+2241066421,Method and means for archiving in a transaction management system,1994,0,6,2,0.75,2311819533,Inderpal S. Narang,0,0.5501948465355991,1.264186489552431
+2225160702,Tree structure database system,1988,0,1,2,0.0,2016392128,Frank Eliot Levine,0,0.11797670951183034,-0.24219977622393202
+2299052634,QUERY HANDLING IN A COLUMNAR DATABASE,2015,10,7,7,0.0,2038748030,Adam J. Storm,0,0.6388590743055392,-0.07189760889139868
+2277699710,Intelligent compilation of materialized view maintenance for query processing systems,1999,23,36,5,0.34145,2128176301,Mir Hamid Pirahesh,0,1.945571616827872,1.0751706097094496
+2290915499,Method for managing logging and locking of page free space information in a transaction processing system,1993,9,72,2,0.0,2228853458,Donald J. Haderle,0,0.003928515926071796,0.08757312274260487
+2278542775,Systems methods and computer program products memory space management for storage class memory,2012,34,9,2,1.0,2228457637,Ru Fang,0,-0.0041099411153885,0.0447066884760059
+2343521277,Database management system and method of operation,2016,16,6,5,0.0,69727675,Namik Hrle,0,1.9782249816255892,0.5420388395489641
+2394777452,Computer program product for off-loading host-based DBMS predicate evaluation to a disk controller,1995,9,33,3,0.7,2309647949,Balakrishna R. Iyer,0,-0.25142422156114436,0.21929531271583175
+2397577998,Managing database recovery from failure,1992,6,3,3,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2400436330,Improved multiple version database concurrency control system,1992,3,1,2,1.0,2128176301,Mir Hamid Pirahesh,0,1.6115573713593236,0.5362355093675826
+2406217447,Tutorial An In-Depth Look at Modern Database Systems,2014,0,1,1,1.0,2411984561,Chandrasekaran Mohan,0,-0.1983521991249454,0.39749775805046494
+2400984373,Method for managing subpage concurrency control and partial transaction rollback in a transaction-oriented system of the write-ahead logging type,1988,3,19,5,0.0,2020635548,Bruce G. Lindsay,0,0.5592498063423432,0.6367478097404928
+2488876639,Data replication in a database management system,2016,16,6,5,0.0,69727675,Namik Hrle,0,0.35939103147449303,-0.2535574075598059
+2428665651,Wildfire Concurrent Blazing Data Ingest and Analytics,2016,8,8,4,0.26486,2105103640,Ronald J. Barber,0,0.044859856903840555,0.012551371775477651
+2415333164,Accessing data in a transaction-oriented system,1992,4,5,1,1.0,2411984561,Chandrasekaran Mohan,0,0.6007598130140148,0.7657727481361537
+2417464336,Assigning recoverable unique sequence numbers in a transaction processing system,1999,22,13,3,1.0,2105359700,Jeffrey William Josten,0,2.3950401091317826,2.3462302162379283
+2556858519,POOLING WORK ACROSS MULTIPLE TRANSACTIONS FOR REDUCING CONTENTION IN OPERATIONAL ANALYTICS SYSTEMS,2015,9,7,8,0.0,401236404,Guy M. Lohman,0,2.3757753103809724,2.277608381726941
+2584396730,Reducing the cost of update delete and append-only insert operations in a database,2016,19,8,8,0.0,401236404,Guy M. Lohman,0,0.33884975146430507,0.2678025587894068
+2584505023,Evolving Databases for New-Gen Big Data Applications,2017,11,4,14,0.26486,2105103640,Ronald J. Barber,0,0.06635930819191084,0.49152641060504293
+2726128274,Verwaltung von Datenbankwiederherstellung nach Fehler Managing database recovery error,1992,0,0,3,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2602865775,Datenbanksystem und Verfahren fÃ¼r den gleichzeitigen Satzzugriff mit Hilfe eines Baumstrukturindexes Database system and method for the simultaneous record access using a tree structure index,1988,0,0,2,0.0,2016392128,Frank Eliot Levine,0,-0.0041099411153885,0.0447066884760059
+2604991193,Method for concurrent record access using an index tree,1988,0,0,2,0.0,2016392128,Frank Eliot Levine,0,-0.0041099411153885,0.0447066884760059
+2757582440,System and method for updating data base,1990,0,0,2,0.666667,2150837257,Richard Kent Treiber,0,0.8300597902069252,0.910572336533508
+2752755019,Tutorial blockchains and databases,2017,5,5,1,1.0,2411984561,Chandrasekaran Mohan,0,-0.0041099411153885,0.0447066884760059
+2801966670,Managing database recovery error,1992,0,0,3,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2797288035,Verwaltung von Datenbankwiederherstellung nach Fehler Managing database Failure Recovery,1992,0,0,3,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2922697271,Database system and method for the simultaneous record access by means of a tree structure index,1988,0,0,2,0.0,2016392128,Frank Eliot Levine,0,-0.0041099411153885,0.0447066884760059
+2953300513,State of Public and Private Blockchains Myths and Reality,2019,22,1,1,1.0,2411984561,Chandrasekaran Mohan,0,0.05630140873372169,0.07111317640605327
+2965024626,WiSer A Highly Available HTAP DBMS for IoT Applications,2019,24,0,5,0.26486,2105103640,Ronald J. Barber,0,0.7525368217049581,0.7966910560300162
+3008451085,WiSer A Highly Available HTAP DBMS for IoT Applications,2019,24,0,5,0.26486,2105103640,Ronald J. Barber,0,0.7525368217049581,0.7966910560300162
+3007024586,The Seattle Report on Database Research,2020,1,0,23,0.0,2170206103,Daniel J. Abadi,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,70 @@
+23646767,Proceedings of the Second Workshop on Data Analytics in the Cloud,2013,0,0,2,0.0,2061716913,Kostas Tzoumas,0,-0.01749192527261101,0.19120504231412566
+161273498,Content-Based Routing for Continuous Query-Optimization,2004,37,1,4,0.0,671527850,Jennifer Widom,0,-0.0395804122397981,0.0068802457672825015
+183144613,DIADS addressing the my-problem-or-yours syndrome with integrated SAN and database diagnosis,2009,28,7,1,1.0,2272704701,Shivnath Babu,0,-0.32260732681635446,-0.08717462455109708
+101403392, Using Constrained Models for Guaranteed-Error Semantic Compression,2002,20,1,2,0.101124,2089290244,Minos Garofalakis,0,0.9416428081470772,-2.2617577116507217
+1563265404,Content-based routing different plans for different data,2005,29,58,2,0.0,1993580219,Pedro Bizarro,0,-0.7115739254660983,0.16717641040082076
+1500915726,Why Did My Query Slow Down,2009,13,3,2,0.928571,2108048847,Nedyalko Borisov,0,-2.668876984695751,0.853595627400896
+1646696449,Query Processing Approximation and Resource Management in a Data Stream Management System,2003,20,441,5,0.0,2034912444,Rajeev Motwani,0,-0.5411156586531299,0.8930215809596097
+1834532152,Starfish A Self-tuning System for Big Data Analytics,2011,11,472,7,1.0,260911237,Herodotos Herodotou,0,0.24675092212343117,0.12906443586095184
+1978531585,Workload management for Big Data analytics,2013,0,6,2,0.0,2066833720,Ashraf Aboulnaga,0,0.24675092212343117,0.12906443586095184
+1986186842,SPARTAN using constrained models for guaranteed-error semantic compression,2002,20,4,1,1.0,2272704701,Shivnath Babu,0,0.45600720410569817,-0.1929530001390749
+1986319134,STREAM the stanford stream data manager (demonstration description),2003,3,190,6,0.0,671527850,Jennifer Widom,0,-0.3234807852817447,0.2556672981683869
+1967155813,Execution and optimization of continuous queries with cyclops,2013,10,10,2,1.0,2129983115,Harold Lim,0,-0.14385584987008945,0.6299364534300126
+1965809814,Large-scale uncertainty management systems learning and exploiting your data,2009,39,0,1,1.0,2272704701,Shivnath Babu,0,0.20924180022937144,0.3321062175369784
+1987362912,QShuffler Getting the Query Mix Right,2008,3,16,3,1.0,2267564358,Mumtaz Ahmad,0,-0.7115739254660983,0.16717641040082076
+2004261580,Workload management for big data analytics,2013,35,7,2,0.0,2066833720,Ashraf Aboulnaga,0,0.24675092212343117,0.12906443586095184
+2027720485,Stubby a transformation-based optimizer for MapReduce workflows,2012,21,58,3,1.0,2129983115,Harold Lim,0,-0.5067379151354785,-0.17674313045711912
+2019087599,Warding off the dangers of data corruption with amulet,2011,11,4,2,1.0,2108048847,Nedyalko Borisov,0,0.003708468606338,0.082832279151172
+2015180052,Characterizing memory requirements for queries over continuous data streams,2004,31,55,3,0.4,2288886406,Arvind Arasu,0,-0.7162072122191351,-0.012130305256546653
+2052310746,Finding Good Configurations in High-Dimensional Spaces Doing More with Less,2008,8,20,3,0.714286,2087025963,Risi Thonangi,0,-1.890082795979147,0.7345686724941604
+2040428289,Query optimization techniques for partitioned tables,2011,24,46,3,1.0,260911237,Herodotos Herodotou,0,-0.5207388606918844,0.13779230513221863
+2045769029,Rapid experimentation for testing and tuning a production database deployment,2013,13,2,2,1.0,2108048847,Nedyalko Borisov,0,-1.8468948092212125,0.8100532867877941
+2037759385,Automated and on-demand provisioning of virtual machines for database applications,2007,4,36,7,1.0,2141384123,Piyush Shivam,0,-0.1315126631797651,-0.12718391849841423
+2055581337,Processing Diagnosis Queries A Principled and Scalable Approach,2008,6,2,1,1.0,2272704701,Shivnath Babu,0,-0.18150250894800737,0.034603158647080155
+2062076732,Execution and optimization of continuous windowed aggregation queries,2014,23,1,2,1.0,2129983115,Harold Lim,0,-0.5038095390968627,-0.32923903516864644
+2064171564,Proactive identification of performance problems,2006,3,14,2,0.803571,2243565981,Songyun Duan,0,0.08082858340252937,1.0057525831288032
+2064366207,Cumulon optimizing statistical data analysis in the cloud,2013,26,56,2,1.0,2222018359,Botong Huang,0,0.003708468606338,0.082832279151172
+2086395677,Interaction-aware scheduling of report-generation workloads,2011,53,37,3,1.0,2267564358,Mumtaz Ahmad,0,-1.0972073230413566,0.3962517635028177
+2088266288,Predicting completion times of batch query workloads using interaction-aware models and simulation,2011,30,48,4,1.0,2267564358,Mumtaz Ahmad,0,-0.07079699063122363,0.4506528588941239
+2101207848,Adaptive ordering of pipelined stream filters,2004,33,201,1,1.0,2272704701,Shivnath Babu,0,-0.4169131078858436,0.3289357584687276
+2104565706,Dealing proactively with data corruption Challenges and opportunities,2011,11,4,2,1.0,2108048847,Nedyalko Borisov,0,0.1210367497521051,0.3715704428647246
+2105551310,Interaction-aware prediction of business intelligence workload completion times,2010,10,16,4,1.0,2267564358,Mumtaz Ahmad,0,0.17512254752163456,0.21733595333074174
+2129147157,Automated Diagnosis of System Failures with Fa,2009,6,5,2,0.942857,2243565981,Songyun Duan,0,-0.23738930023818222,0.443887756587936
+2132145609,Modeling and exploiting query interactions in database systems,2008,32,51,3,1.0,2267564358,Mumtaz Ahmad,0,-0.5207388606918844,0.13779230513221863
+2105802284,A practical concurrent index for solid-state drives,2012,21,9,2,0.714286,2087025963,Risi Thonangi,0,0.7046445413333788,0.8491647793868737
+2132520482,Continuous queries over data streams,2001,62,717,1,1.0,2272704701,Shivnath Babu,0,-1.1337070194546806,0.30350894357407576
+2121097969,DIADS a problem diagnosis tool for databases and storage area networks,2009,2,1,2,0.928571,2108048847,Nedyalko Borisov,0,0.14150125331234784,0.5227794884789415
+2132837277,Characterizing memory requirements for queries over continuous data streams,2002,47,106,3,0.4,2288886406,Arvind Arasu,0,-0.7872090256919765,0.14100040975160935
+2115459551,On Suspending and Resuming Dataflows,2007,10,5,3,0.0,2105061512,Badrish Chandramouli,0,0.003708468606338,0.082832279151172
+2112474496,Tuning database configuration parameters with iTuned,2009,21,114,3,0.942857,2243565981,Songyun Duan,0,-1.7394638732915508,0.6705056134741817
+2124298185,Chain operator scheduling for memory minimization in data stream systems,2003,30,236,4,0.0,2034912444,Rajeev Motwani,0,0.003708468606338,0.082832279151172
+2121324617,Query interactions in database workloads,2009,16,26,3,1.0,2267564358,Mumtaz Ahmad,0,-1.6814363196879667,0.5815693880045862
+2115613157,StreaMon an adaptive engine for stream query processing,2004,5,62,1,1.0,2272704701,Shivnath Babu,0,-0.5283571677011782,0.20681431310455672
+2116023662,Xplus a SQL-tuning-aware query optimizer,2010,20,18,2,1.0,260911237,Herodotos Herodotou,0,-0.24708821823000746,-0.11438040177564447
+2136734486,Toward Self-Healing Multitier Services,2007,21,19,2,0.0,2104996227,B. Cook,0,0.003708468606338,0.082832279151172
+2143452574,Proactive re-optimization,2005,29,129,1,1.0,2272704701,Shivnath Babu,0,0.003708468606338,0.082832279151172
+2162060957,Query suspend and resume,2007,16,36,3,0.0,2105061512,Badrish Chandramouli,0,-0.872190281467382,0.18705434119417633
+2168426912,Simplifying system management through automated forecasting diagnosis and configuration tuning,2010,75,0,2,0.942857,2243565981,Songyun Duan,0,-0.21934185016841626,0.6056873083074126
+2156720172,Adaptive Query Processing in the Looking Glass,2005,40,78,1,1.0,2272704701,Shivnath Babu,0,-0.01657107088421793,0.035389748403282274
+2165844343,Active and accelerated learning of cost models for optimizing scientific applications,2006,30,46,2,1.0,2141384123,Piyush Shivam,0,0.003708468606338,0.082832279151172
+2145020294,iTuned a tool for configuring and visualizing database parameters,2010,3,9,2,1.0,1581053495,Vamsidhar Thummala,0,-1.0131581982498115,0.50513638024124
+2154090497,Guided Problem Diagnosis through Active Learning,2008,18,41,2,0.909091,2243565981,Songyun Duan,0,0.003708468606338,0.082832279151172
+2151178505,Shaman A Self-Healing Database System,2009,4,2,5,0.942857,2243565981,Songyun Duan,0,-0.4510729884163594,0.24846660988711605
+2148646461,Proactive re-optimization with Rio,2005,5,13,1,1.0,2272704701,Shivnath Babu,0,-0.5951710996417344,-0.47483291956511325
+2187571556, A Model-Based Semantic Compression System for Massive Data Tables,2001,18,2,2,0.0,2089290244,Minos Garofalakis,0,0.351632532635354,-0.7389621131138848
+2166859998,Fa A System for Automating Failure Diagnosis,2009,24,40,2,0.942857,2243565981,Songyun Duan,0,-0.21934185016841626,0.6056873083074126
+2154900736,SPARTAN a model-based semantic compression system for massive data tables,2001,16,63,1,1.0,2272704701,Shivnath Babu,0,0.23700626957832877,-0.8084418179603864
+2155006296,Thoth towards managing a multi-system cluster,2014,7,11,3,1.0,800701078,Mayuresh Kunjir,0,-0.08216369031341794,0.1395680461546204
+2188062232,Tempo robust and self-tuning resource management in multi-tenant parallel databases,2016,49,10,2,0.0,2647282031,Zilong Tan,0,0.003708468606338,0.082832279151172
+2188553346,Finding GoodConfiguratlions in High-Dimensional Spaces Doinlg MorewithLess,2008,0,0,3,1.0,1581053495,Vamsidhar Thummala,0,0.003708468606338,0.082832279151172
+2189084380,Proactive Detection and Repair of Data Corruption Towards a Hassle-free Declarative Approach with Amulet,2011,4,1,2,1.0,2108048847,Nedyalko Borisov,0,0.003708468606338,0.082832279151172
+2231325826,Proactive experiment-driven learning for system management,2007,0,3,3,1.0,2141384123,Piyush Shivam,0,0.12547852292097073,-0.23909463223915198
+2265110944,SQL-on-hadoop systems tutorial,2015,12,8,3,0.0,2026396360,Fatma Ozcan,0,-0.7794450414856797,-0.0887281468548342
+2276150460,COST-BASED OPTIMIZATION OF CONFIGURATION PARAMETERS AND CLUSTER SIZING FOR HADOOP,2013,11,68,2,1.0,260911237,Herodotos Herodotou,0,0.003708468606338,0.082832279151172
+2294316975,Profiling What-if Analysis and Cost-based Optimization of MapReduce Programs,2011,19,268,2,1.0,260911237,Herodotos Herodotou,0,0.12492345808765674,0.23414093372237493
+2295114861,MapReduce Programming and Cost-based Optimization Crossing this Chasm with Starfish,2011,7,43,3,1.0,260911237,Herodotos Herodotou,0,0.12492345808765674,0.23414093372237493
+2406516981,CÃ¼mÃ¼lÃ¶n matrix-based data analytics in the cloud with spot instances,2015,22,13,3,0.0,2146664798,Sayan Mukherjee,0,-0.2840980895242797,0.3294430450515855
+2751839338,Thoth in action memory management in modern data analytics,2017,5,4,2,1.0,800701078,Mayuresh Kunjir,0,-0.2840980895242797,0.3294430450515855
+2952611119,Stubby A Transformation-based Optimizer for MapReduce Workflows,2012,6,1,3,1.0,2129983115,Harold Lim,0,-0.5067379151354785,-0.17674313045711912
+2970836712,Speedup Your Analytics Automatic Parameter Tuning for Databases and Big Data Systems,2019,0,2,4,0.0,2108677686,Jiaheng Lu,0,0.24675092212343117,0.12906443586095184
+2182901768,PStorM Profile storage and matching for feedback-based tuning of MapReduce jobs,2014,33,6,6,0.0,2395138300,Mostafa Ead,0,0.24675092212343117,0.12906443586095184

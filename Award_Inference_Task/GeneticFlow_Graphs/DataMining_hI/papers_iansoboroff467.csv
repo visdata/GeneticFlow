@@ -1,0 +1,49 @@
+38512715,Overview of the TREC 2004 Novelty Track,2004,2,96,1,1.0,2031005049,Ian Soboroff,0,0.11800721140297014,-0.20383634040213405
+38978401,Overview of the TREC 2006 Enterprise Track,2006,4,134,1,1.0,2031005049,Ian Soboroff,0,1.116060298488493,-0.2793644663048043
+216536535,Building an Entity-Centric Stream Filtering Test Collection for TREC 2012,2012,0,57,7,1.0,2128211263,John R. Frank,0,0.22634389122649645,-0.1273762847622864
+93734767,Overview of the TREC 2007 Enterprise Track,2007,2,82,4,0.59865,2295915320,Peter Bailey,0,-0.24402219075768336,0.10419810321463124
+94637519,Overview of the TREC 2009 Web Track,2009,5,240,3,0.0927651,2098618034,Charles L. A. Clarke,0,-0.21934185016841626,0.6056873083074126
+11620817,Overview of the TREC-2005 Enterprise Track,2005,8,272,2,0.219166,2009495402,Nick Craswell,0,0.003708468606338,0.082832279151172
+1481997832,Overview of the TREC 2003 Novelty Track,2003,13,133,1,1.0,2031005049,Ian Soboroff,0,0.003708468606338,0.082832279151172
+1500054898,Collaborative Filtering and the Generalized Vector Space Model,2000,5,27,1,1.0,2031005049,Ian Soboroff,0,0.06542219051074363,-0.0966020147220797
+1503333931,Overview of the TREC 2006 Blog Track,2006,2,230,5,0.0,336997814,Iadh Ounis,0,1.1771194931155815,-0.022296127687094144
+1557356614,Related but not Relevant Content-Based Collaborative Filtering in TREC-8,2002,27,10,1,1.0,2031005049,Ian Soboroff,0,0.7039870159377298,0.15716903716384162
+1577070617,TREC-8 Experiments at Maryland CLIR QA and Routing,2000,0,16,4,0.0,7916806,Douglas W. Oard,0,0.2498322222619546,-0.08429750795312325
+1982173305,SIGIR workshop report predicting query difficulty - methods and applications,2005,2,19,3,0.0,2088014474,David Carmel,0,-0.01657107088421793,0.035389748403282274
+1984103665,A comparison of pooled and sampled relevance judgments,2007,3,14,1,1.0,2031005049,Ian Soboroff,0,0.0597908726731833,-0.2449448024264691
+1986991761,Do TREC web collections look like the web,2002,4,23,1,1.0,2031005049,Ian Soboroff,0,-0.028412151321675523,-3.1435368359717932
+1983595289,Ranking retrieval systems without relevance judgments,2001,10,195,1,1.0,2031005049,Ian Soboroff,0,0.5488030391691611,-0.31883148703206216
+1999593459,Limits of opinion-finding baseline systems,2008,5,9,4,0.103448,2148910894,Craig Macdonald,0,0.003708468606338,0.082832279151172
+1999991474,Summary of the SIGIR 2003 workshop on defining evaluation methodologies for terabyte-scale test collections,2003,0,10,1,1.0,2031005049,Ian Soboroff,0,0.0597908726731833,-0.2449448024264691
+1995173295,Does WT10g look like the web,2002,3,35,1,1.0,2031005049,Ian Soboroff,0,-0.04446060833002811,-2.541363570398886
+2000817690,A guide to the RIA workshop data archive,2009,4,4,1,1.0,2031005049,Ian Soboroff,0,-0.29552546464972146,0.20926573635132967
+2008102370,Building test collections an interactive tutorial for students and others without their own evaluation conference series,2013,41,1,1,1.0,2031005049,Ian Soboroff,0,0.003708468606338,0.082832279151172
+2008285050,Relevance assessment are judges exchangeable and does it matter,2008,23,140,3,0.59865,2295915320,Peter Bailey,0,0.003708468606338,0.082832279151172
+2027827699,Building a filtering test collection for TREC 2002,2003,14,61,1,1.0,2031005049,Ian Soboroff,0,0.08655504232397777,0.08109214821775419
+2026430213,A comparative analysis of cascade measures for novelty and diversity,2011,25,104,3,0.0777565,2098618034,Charles L. A. Clarke,0,0.003708468606338,0.082832279151172
+2023772410,On evaluating web search with very few relevant documents,2004,2,21,1,1.0,2031005049,Ian Soboroff,0,-0.26136719935288516,-2.3247060589799062
+2036448375,Bias and the limits of pooling,2006,4,50,3,0.0,2304167133,Chris Buckley,0,0.003708468606338,0.082832279151172
+2046020226,The TREC 2001 filtering track report,2001,0,73,2,0.0,2129454193,Stephen Robertson,0,1.2350652037173413,0.39061007574644036
+2053100920,Reliable information retrieval evaluation with incomplete and biased judgements,2007,16,89,4,0.0,148423141,Stefan BÃ¼ttcher,0,0.003708468606338,0.082832279151172
+2034500013,Collaborative filtering and the generalized vector space model (poster session),2000,5,26,1,1.0,2031005049,Ian Soboroff,0,0.06542219051074363,-0.0966020147220797
+2066682493,On building a reusable Twitter corpus,2012,2,57,2,0.0,2078704756,Richard McCreadie,0,0.1432347758310154,-0.28772400242322466
+2066862335,Privacy-Preserving IR 2015 When Information Retrieval Meets Privacy and Security,2014,6,7,2,0.0,2237013446,Hui Yang,0,-0.07177732132280387,0.44440383359137026
+2062236692,The effect of assessor error on IR system evaluation,2010,16,77,2,0.0,2645247999,Ben Carterette,0,0.23447002456144056,0.35297506154309793
+2067472300,Automatic evaluation of world wide web search services,2002,6,68,2,0.0,2499585358,Abdur Chowdhury,0,0.2947477499638471,-2.7960764278388974
+2102698119,Bias and the limits of pooling for large collections,2007,26,89,3,0.0,2304167133,Chris Buckley,0,0.003708468606338,0.082832279151172
+2093156799,Dynamic test collections measuring search effectiveness on the live web,2006,18,20,1,1.0,2031005049,Ian Soboroff,0,0.6066616852252525,-1.6834346658492574
+2104382147,Overview of the TREC 2008 Enterprise Track,2008,18,60,2,0.0,2100338238,Krisztian Balog,0,0.003708468606338,0.082832279151172
+2155611014,The CSIRO enterprise search test collection,2007,3,39,3,0.59865,2295915320,Peter Bailey,0,0.003708468606338,0.082832279151172
+2158915197,The TREC terabyte retrieval track,2005,1,16,3,0.0927651,2098618034,Charles L. A. Clarke,0,0.020668326261506192,-0.30162165509289457
+2394797107,Evaluating Stream Filtering for Entity Profile Updates in TREC 2012 2013 and 2014,2014,0,12,5,1.0,2128211263,John R. Frank,0,0.003708468606338,0.082832279151172
+2395265779,Evaluating Stream Filtering for Entity Profile Updates for TREC 2013,2013,0,13,9,1.0,2128211263,John R. Frank,0,0.003708468606338,0.082832279151172
+2460680144,Privacy-Preserving IR 2016 Differential Privacy Search and Social Media,2016,7,7,2,0.0,2237013446,Hui Yang,0,-0.14057456089647813,0.307384220129981
+2527144209,Financial Entity Identification and Information Integration (FEIII) 2017 Challenge The Report of the Organizing Committee,2016,13,2,5,0.0,285822418,Louiqa Raschid,0,-0.37052366159055394,0.12096423772496125
+2643544958,The TREC 2002 Filtering Track Report,2002,9,150,2,0.0,2129454193,Stephen Robertson,0,0.003708468606338,0.082832279151172
+2604591312,TREC 2016 Dynamic Domain Track Overview,2016,3,7,2,1.0,2344021636,Grace Hui Yang,0,0.003708468606338,0.082832279151172
+2750746504,Using Replicates in Information Retrieval Evaluation,2017,32,7,3,0.0,2047986224,Ellen M. Voorhees,0,0.3747079762880016,-0.0398129703935734
+2915429917,TREC 2017 Dynamic Domain Track Overview,2017,0,3,3,1.0,2344021636,Grace Hui Yang,0,0.003708468606338,0.082832279151172
+2905980815,Building a Filtering Test Collection for TREC 2002 | NIST,2003,0,9,1,1.0,2031005049,Ian Soboroff,0,0.003708468606338,0.082832279151172
+2922763596,On enhancing the robustness of timeline summarization test collections,2019,49,0,3,0.0,2078704756,Richard McCreadie,0,0.003708468606338,0.082832279151172
+2915170155,The TREC 2005 Terabyte Track,2005,4,45,3,0.0927651,2098618034,Charles L. A. Clarke,0,0.0597908726731833,-0.2449448024264691
+3013082604,TREC 2015 Dynamic Domain Track Overview,2015,2,4,3,0.0,2237013446,Hui Yang,0,0.003708468606338,0.082832279151172

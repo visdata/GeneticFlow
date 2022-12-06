@@ -1,0 +1,36 @@
+2012468,Group-by Query Verification by Untrusted Clients on Outsourced Data Streams,2011,27,0,1,1.0,2120595703,Suman Nath,0,-0.42845202490949574,0.1450203979855267
+174178615,Stored Procedures for Distributed XML Databases,2004,14,2,1,1.0,2120595703,Suman Nath,0,2.4742601867649086,-1.027550448768996
+1546097430,B-file abstraction for efficiently archiving self-expiring data,2014,69,5,1,1.0,2120595703,Suman Nath,0,-0.021360338499132214,0.0972564045253685
+1486557797,IrisNet an architecture for internet-scale sensing services,2003,8,27,1,1.0,2120595703,Suman Nath,0,-0.0041099411153885,0.0447066884760059
+1883096199,Deep application crawling,2012,105,41,3,0.0,2016432970,Jitendra Padhye,0,-0.0967320947323697,-0.21921267760698612
+1994493030,Scalable visibility color map construction in spatial databases,2014,38,8,4,0.857143,2138158025,Farhana Murtaza Choudhury,0,-0.3591586136546091,0.2412205287368428
+1991309516,IrisNet Internet-scale resource-intensive sensor services,2003,1,10,2,0.0,2002742946,Amol Deshpande,0,0.0012093293194426664,-0.32270967670218736
+1996748299,Mercury A memory-constrained spatio-temporal real-time search on microblogs,2014,41,40,4,0.0,2014272076,Amr Magdy,0,-0.0041099411153885,0.0447066884760059
+2005560699,COLR-Tree Communication-Efficient Spatio-Temporal Indexing for a Sensor Data Web Portal,2008,17,25,2,0.0,2699773473,Yanif Ahmad,0,-0.7624884172739942,-0.9565952951234111
+1990379658,Supporting distributed feed-following apps over edge devices,2013,34,6,2,0.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2023966441,Mars Real-time spatio-temporal queries on microblogs,2014,12,11,6,0.0,2014272076,Amr Magdy,0,0.3820908385543769,0.2117467783858426
+2066346207,Publicly verifiable grouped aggregation queries on outsourced data streams,2013,33,11,1,1.0,2120595703,Suman Nath,0,-0.25435813163197396,0.09014561701533426
+2077894236,RACE real-time applications over cloud-edge,2012,3,16,3,0.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2096472608,Managing massive time series streams with multi-scale compressed trickles,2009,25,62,3,0.0,2117749829,Galen Reeves,0,-0.0041099411153885,0.0447066884760059
+2103894743,DataGarage warehousing massive performance data on commodity servers,2010,13,23,3,0.0,2015247891,Charles Z. Loboz,0,0.11627582886789564,0.3621724021946999
+2104803737,Differentially private aggregation of distributed time-series with transformation and encryption,2010,32,341,2,0.0,2184633580,Vibhor Rastogi,0,-0.0041099411153885,0.0447066884760059
+2099351934,Tributaries and deltas efficient and robust aggregation in sensor network streams,2005,25,212,2,0.0,2098120398,Amit Manjhi,0,-0.34857978327751216,-0.2513987233039086
+2129086931,Sharing and exploring sensor streams over geocentric interfaces,2008,16,26,3,0.0,2671745553,Liqian Luo,0,-0.42845202490949574,0.1450203979855267
+2117417568,MaskIt privately releasing user context streams for personalized mobile applications,2012,35,78,2,0.0,2950681149,Michaela GÃ¶tz,0,-0.0041099411153885,0.0447066884760059
+2111976819,GAMPS compressing multi sensor data by grouping and amplitude scaling,2009,35,59,2,0.0,2279915126,Sorabh Gandhi,0,-0.0041099411153885,0.0447066884760059
+2120985155,Environmental Monitoring 20,2009,5,14,10,0.0,2130571926,Sebastian Michel,0,-0.10283226324839849,0.14718529002097702
+2124062450,Secure outsourced aggregation via one-way chains,2009,95,57,1,1.0,2120595703,Suman Nath,0,-0.0041099411153885,0.0447066884760059
+2112479717,FlashDB dynamic self-tuning database for NAND flash,2007,18,200,1,1.0,2120595703,Suman Nath,0,0.07990222934621705,0.430503982801384
+2130301020,Rethinking Database Algorithms for Phase Change Memory,2011,26,205,3,0.512486,2161123335,Shimin Chen,0,-0.0041099411153885,0.0447066884760059
+2113689712,Online maintenance of very large random samples on flash storage,2008,28,78,1,1.0,2120595703,Suman Nath,0,0.9603015824900942,0.6086201788729984
+2131314897,Challenges in Building a Portal for Sensors World-Wide,2006,6,38,2,0.391304,1976415351,Feng Zhao,0,-0.0041099411153885,0.0447066884760059
+2120113238,PR-join a non-blocking join achieving higher early result rate with statistical guarantees,2010,24,18,3,0.512486,2161123335,Shimin Chen,0,-0.20674748365593723,0.32322630396148244
+2155846054,Cache-and-query for wide area sensor databases,2003,31,128,2,0.0,2002742946,Amol Deshpande,0,0.9213596166401758,-0.035801181983167354
+2258326840,Self-tuning index for flash-based databases,2007,13,12,2,0.875,1953626543,Aman Kansal,0,-0.0041099411153885,0.0447066884760059
+2255179545,Efficient access of flash databases,2007,16,29,2,0.875,1953626543,Aman Kansal,0,-0.0041099411153885,0.0447066884760059
+2336023016,Privacy-preserving cookies for personalization without user tracking,2015,47,12,1,1.0,2120595703,Suman Nath,0,-0.46893397788284524,0.07728939382804885
+2402193648,Efficient stream sharing for multi-user sensor data collection,2008,24,54,3,0.875,1953626543,Aman Kansal,0,-0.0041099411153885,0.0447066884760059
+2552585260,System and method for extracting and sharing application-related user data,2016,58,3,2,0.0,2097643792,Earlence Fernandes,0,-0.00492109496191035,-0.1728987636093571
+2570418739,System and method for using per-application profiles in a computing device,2016,37,7,2,0.0,2023338563,Franziska Roesner,0,-1.0381976055859152,-0.21300022606432745
+2800366959,Multi-signal based shopping cart content recognition in brick-and-mortar retail stores,2018,23,5,6,0.0,213523633,Marcel Gavriliu,0,-0.0041099411153885,0.0447066884760059
+2950767189,Scalable Visibility Color Map Construction in Spatial Databases,2013,17,0,4,0.857143,2138158025,Farhana Murtaza Choudhury,0,-0.3591586136546091,0.2412205287368428

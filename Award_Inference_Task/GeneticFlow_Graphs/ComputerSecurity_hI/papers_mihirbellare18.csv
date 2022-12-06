@@ -1,0 +1,148 @@
+55117594,Provably Fixing the SSH Binary Packet Protocol,2002,23,3,2,0.0,88663857,Chanathip Namprempre,0,-0.62867400345489,-1.029835958992933
+180983570,Security of Symmetric Encryption against Mass Surveillance,2014,49,71,1,1.0,2052950829,Mihir Bellare,0,-0.011672352217339017,-0.2744689364040448
+182801106,Semantic Security for the Wiretap Channel,2012,39,149,1,1.0,2052950829,Mihir Bellare,0,0.24723124898037413,-1.0201659521092568
+65874733,Identity-based encryption secure against selective opening attack,2011,31,70,1,1.0,2052950829,Mihir Bellare,0,0.40831317683572266,-0.7246908164480377
+117229448,Encapsulated Key Escrow,1996,0,48,2,0.0,1728759264,Shafi Goldwasser,0,0.12306131141600529,-1.438248771229886
+236943133,Protocols and security proofs for data authentication,2006,0,0,2,0.0,2273862292,Anton Mityagin,0,-1.8012749134575925,-1.874736227099568
+238618422,On identification zero-knowledge and plaintext-aware-encryption,2006,0,0,1,1.0,2052950829,Mihir Bellare,0,0.5988973482554376,-1.969788889300109
+1542059364,Entity authentication and key distribution,1993,24,1412,1,1.0,2052950829,Mihir Bellare,0,-1.811979458495208,-2.134432364841303
+1498063506,A Forward-Secure Digital Signature Scheme,1999,19,463,1,1.0,2052950829,Mihir Bellare,0,-0.3763664421706885,-1.953099637674104
+1551624398,On the Structure of Secret Key Exchange Protocols,1989,0,7,1,1.0,2052950829,Mihir Bellare,0,-0.3204284349389639,-2.365735239273588
+1499016375,System and method for variable length encryption,2011,18,62,3,0.0,1969320343,Patrick K. Hazel,0,-0.36015798214253647,-0.03978959967482021
+1213870461,VarietyCash a multi-purpose electronic payment system,1998,18,27,1,1.0,2052950829,Mihir Bellare,0,-0.20849172639321703,0.604274447928322
+1545950900,Identity-Based multi-signatures from RSA,2007,31,56,1,1.0,2052950829,Mihir Bellare,0,-0.27344392386404026,-1.2202882910411894
+1519809459,DupLESS server-aided encryption for deduplicated storage,2013,60,215,1,1.0,2052950829,Mihir Bellare,0,0.2868158210847777,-1.63036598006862
+1574314127,Randomness Re-use in Multi-recipient Encryption Schemeas,2003,30,104,1,1.0,2052950829,Mihir Bellare,0,0.1661303775922682,-1.6505846385694964
+1494038444,iKP a family of secure electronic payment protocols,1995,11,193,4,0.0,465425324,Gene Tsudik,0,0.5686099410913271,-0.5891360513564278
+1495769523,Method for electronic payment system with issuer control,1997,1,83,1,1.0,2052950829,Mihir Bellare,0,0.3171484069971384,-0.13992525839030945
+1549438532,The Security of Chaffing and Winnowing,2000,9,24,1,1.0,2052950829,Mihir Bellare,0,0.11636896656948077,-0.9936961656128436
+1738597741,Polynomial-Time Semantically-Secure Encryption Achieving the Secrecy Capacity,2012,26,24,1,1.0,2052950829,Mihir Bellare,0,0.12691234825896877,-0.8518172848492178
+1754688259,Time delayed key escrow,1996,35,41,2,0.0,1728759264,Shafi Goldwasser,0,0.28439989420432565,-0.9873689374067361
+1937880336,Practice-Oriented Provable Security,1999,33,32,1,1.0,2052950829,Mihir Bellare,0,-0.17328248866778617,-1.0753332984389468
+1775738675,Semantically-Secure Functional Encryption Possibility Results Impossibility Results and the Quest for a General Definition,2013,40,47,1,1.0,2052950829,Mihir Bellare,0,0.4486651433958475,-2.582851095398377
+1656028867,Authenticated Encryption Relations among Notions and Analysis of the Generic Composition Paradigm,2000,31,379,1,1.0,2052950829,Mihir Bellare,0,0.31415636446625805,-2.1326692900755213
+1901278359,Public-key encryption in a multi-user setting security proofs and improvements,2000,14,363,1,1.0,2052950829,Mihir Bellare,0,-0.2899029296253611,-0.11096355125003661
+1990817838,Translucent Cryptography -- An Alternative to Key Escrow and its Implementation via Fractional Oblivious Transfer,1999,22,16,1,1.0,2052950829,Mihir Bellare,0,0.4483697144764463,-0.8011993606007016
+1990395488,OCB A block-cipher mode of operation for efficient authenticated encryption,2003,29,251,2,0.0,2106597688,Phillip Rogaway,0,1.4025373872007831,-1.7205118345722827
+2017779503,Mass-surveillance without the State Strongly Undetectable Algorithm-Substitution Attacks,2015,24,35,1,1.0,2052950829,Mihir Bellare,0,0.7458787543618713,-0.5057124604758688
+2047241038,Provably secure session key distribution the three party case,1995,19,544,1,1.0,2052950829,Mihir Bellare,0,-0.9060573318299423,-2.621864964857263
+2047323326,Subtleties in the Definition of IND-CCA When and How Should Challenge Decryption Be Disallowed ,2015,41,20,1,1.0,2052950829,Mihir Bellare,0,0.4030964374224348,-1.428899812473449
+2033838428,Robust computational secret sharing and a unified account of classical secret-sharing goals,2007,49,70,1,1.0,2052950829,Mihir Bellare,0,0.5192628582366751,-0.5658655498497381
+2035985018,Ciphers that securely encipher their own keys,2011,14,6,1,1.0,2052950829,Mihir Bellare,0,0.11900556928227714,-1.0916777087590548
+2043210833,Verifiable partial key escrow,1997,36,117,1,1.0,2052950829,Mihir Bellare,0,0.2766381659731833,-0.9837804306737956
+2101022010,Hedged Public-Key Encryption How to Protect against Bad Randomness,2009,38,105,1,1.0,2052950829,Mihir Bellare,0,0.10171954438266667,-2.0075492000156885
+2131882761,Stateful public-key cryptosystems how to encrypt with one 160-bit exponentiation,2006,44,46,1,1.0,2052950829,Mihir Bellare,0,0.8306999456115942,-0.9975176197607105
+2126417912,Authenticated and misuse-resistant encryption of key-dependent data,2011,45,14,1,1.0,2052950829,Mihir Bellare,0,-0.5482150159526066,-0.623060963585035
+2108855216,Breaking and provably repairing the SSH authenticated encryption scheme A case study of the Encode-then-Encrypt-and-MAC paradigm,2004,32,86,1,1.0,2052950829,Mihir Bellare,0,-0.259886425904327,-0.7948885348332149
+2129876196,Forward-security in private-key cryptography,2003,26,218,1,1.0,2052950829,Mihir Bellare,0,-0.44825949491894035,-1.6368696631050559
+2130056156,Foundations of group signatures the case of dynamic groups,2005,33,385,1,1.0,2052950829,Mihir Bellare,0,-0.09510068532067664,-0.7076377517269479
+2118385436,Encryption Schemes Secure under Selective Opening Attack,2009,30,24,1,1.0,2052950829,Mihir Bellare,0,0.504884751094337,-2.3701977296407803
+2139172211,A concrete security treatment of symmetric encryption,1997,14,703,1,1.0,2052950829,Mihir Bellare,0,0.7106980967454801,-2.085841988970937
+2106847401,Authenticated encryption in SSH provably fixing the SSH binary packet protocol,2002,25,80,1,1.0,2052950829,Mihir Bellare,0,-0.04322691002339372,-0.5708912009340582
+2139585798,A Cryptographic Treatment of the Wiretap Channel,2012,36,47,1,1.0,2052950829,Mihir Bellare,0,0.32383320878723004,-0.9272537862047509
+2124926080,Authenticated key exchange secure against dictionary attacks,2000,19,1104,1,1.0,2052950829,Mihir Bellare,0,-1.1989265030810596,-2.7519401906109997
+2119563114,Rekeyed Digital Signature Schemes Damage-containment in the face of key exposure,2001,20,1,1,1.0,2052950829,Mihir Bellare,0,-0.6557630892234663,-1.1265944397394225
+2110740499,Key-Privacy in Public-Key Encryption,2001,39,316,1,1.0,2052950829,Mihir Bellare,0,0.17785427136739196,-2.238435278280102
+2134340933,Efficient Garbling from a Fixed-Key Blockcipher,2013,35,170,1,1.0,2052950829,Mihir Bellare,0,0.3171484069971384,-0.13992525839030945
+2137502482,Interactive Message-Locked Encryption and Secure Deduplication,2015,41,52,1,1.0,2052950829,Mihir Bellare,0,0.15122833626170443,-1.2660385388363407
+2114010645,Standard security does not imply security against selective-opening,2012,39,46,1,1.0,2052950829,Mihir Bellare,0,0.3890158995862822,-0.4046174078133747
+2117056197,Policy-Based Signatures,2014,41,47,1,1.0,2052950829,Mihir Bellare,0,-0.32270244590162495,-1.3252736007582153
+2111276172,Adaptively secure garbling with applications to one-time programs and secure outsourcing,2012,24,67,1,1.0,2052950829,Mihir Bellare,0,-0.13980336961290424,-1.352832909361239
+2165214731,Authenticated Encryption Relations among Notions and Analysis of the Generic Composition Paradigm,2008,53,453,1,1.0,2052950829,Mihir Bellare,0,0.5219605515692303,-2.1045311997824445
+2165257856,Message-Locked Encryption and Secure Deduplication,2013,38,288,1,1.0,2052950829,Mihir Bellare,0,-0.24117173122068916,-1.5542618897600877
+2186223146,The Secure Shell (SSH) Transport Layer Encryption Modes,2006,9,26,1,1.0,2052950829,Mihir Bellare,0,-0.07119978567637418,-1.3911099440882857
+2156439207,Pseudorandom functions and permutations provably secure against related-key attacks,2010,63,91,1,1.0,2052950829,Mihir Bellare,0,0.45680980788616515,-1.1992230390147436
+2144562951,DHIES An encryption scheme based on the Diffie-Hellman Problem,2001,28,99,1,1.0,2052950829,Mihir Bellare,0,0.3216772846177813,-2.3198329004469196
+2145227448,OCB a block-cipher mode of operation for efficient authenticated encryption,2001,29,315,2,0.0,2106597688,Phillip Rogaway,0,1.5133572359499008,-1.8143612737450776
+2169290761,A theoretical treatment of related-key attacks RKA-PRPS RKA-PRFs and applications,2003,20,24,1,1.0,2052950829,Mihir Bellare,0,1.496960475550295,-1.5164240680358172
+2157332203,Cryptographic agility and its relation to circular encryption,2010,29,56,3,0.0,2154224518,Tolga Acar,0,-0.11754360724289697,-1.5359528406240044
+2163423973,Possibility and Impossibility Results for Encryption and Commitment Secure under Selective Opening,2009,63,161,1,1.0,2052950829,Mihir Bellare,0,0.49530258846630076,-1.9868952740730506
+2163552131,Identification Protocols Secure against Reset Attacks,2001,35,85,1,1.0,2052950829,Mihir Bellare,0,-0.0826692972343699,-0.23080053123325228
+2160655967,Method and apparatus for three-party entity authentication and key distribution using message authentication codes,1993,15,137,1,1.0,2052950829,Mihir Bellare,0,-0.4872973077049644,-0.8943402738845183
+2148848042,Design implementation and deployment of the iKP secure electronic payment system,2000,22,148,1,1.0,2052950829,Mihir Bellare,0,-0.08538177169983789,-0.5974143824350476
+2148865534,The Power of RSA Inversion Oracles and the Security of Chaums RSA-Based Blind Signature Scheme,2002,29,77,1,1.0,2052950829,Mihir Bellare,0,-0.2661356983595395,-1.556162168868027
+2160879729,Multi-instance Security and Its Application to Password-Based Cryptography,2012,64,37,1,1.0,2052950829,Mihir Bellare,0,-0.597893969729894,-1.41446739571213
+2157980705,Cryptography secure against related-key attacks and tampering,2011,36,79,1,1.0,2052950829,Mihir Bellare,0,0.43726256706162275,-1.2633990655288456
+2149093588,The Oracle Diffie-Hellman Assumptions and an Analysis of DHIES,2001,30,304,2,0.782609,2143328931,Michel Abdalla,0,-0.17615312604927524,-1.700132936200979
+2149220756,Does Encryption with Redundancy Provide Authenticity,2001,34,39,2,1.0,2780628958,Jee Hea An,0,-0.1191492449716635,0.09564268871979438
+2152377620,Incremental cryptography and application to virus protection,1995,15,116,1,1.0,2052950829,Mihir Bellare,0,-0.11557537940996336,-0.7236818571081115
+2167496998,GQ and Schnorr Identification Schemes Proofs of Security against Impersonation under Active and Concurrent Attacks,2002,33,247,1,1.0,2052950829,Mihir Bellare,0,0.4155194407586908,-1.1586483294872465
+2161517081,Key Insulation and Intrusion Resilience over a Public Channel,2009,19,9,1,1.0,2052950829,Mihir Bellare,0,-0.3449252307530775,-0.672409039117886
+2170696315,Foundations of garbled circuits,2012,59,254,1,1.0,2052950829,Mihir Bellare,0,1.407467624347036,-0.5717981087905389
+2164736940,Multi-signatures in the plain public-Key model and a general forking lemma,2006,39,262,1,1.0,2052950829,Mihir Bellare,0,-0.46265081238076117,-2.349651968456404
+2149847764,Increasing the Lifetime of a Key A Comparative Analysis of the Security of Re-keying Techniques,2000,26,72,2,0.782609,2143328931,Michel Abdalla,0,-0.4393751907763132,0.44301410664287044
+2257742115,Simultaneously ensuring privacy and authenticity in digital communication,2002,0,2,2,0.0,88663857,Chanathip Namprempre,0,0.3113776468419055,-1.8519986946954279
+2407647184,UCE+LTDFs Efficient Subversion-Resistant PKE in the Standard Model,2014,0,2,1,1.0,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2400051369,A tool for obtaining tighter security analyses of pseudorandom function based constructions with applications to PRP to PRF conversion,1999,0,47,1,1.0,2052950829,Mihir Bellare,0,0.4446951535187998,-0.6585957779006529
+2408708247,Double-Authentication-Preventing Signatures from Trapdoor Identification,2015,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.5530861437885858,-0.004176666300269333
+2497610130,The Multi-user Security of Authenticated Encryption AES-GCM in TLS 13,2016,33,27,1,1.0,2052950829,Mihir Bellare,0,-0.14446691875738243,-0.9800633487303276
+2417253018,Nonce-Based Cryptography Retaining Security When Randomness Fails,2016,32,11,1,1.0,2052950829,Mihir Bellare,0,-0.2538207817144803,-0.6161083865438822
+2473621136,Encryption schemes security notions designs and analyses,2000,0,0,1,1.0,2052950829,Mihir Bellare,0,0.155870422438688,-0.3611899258997246
+2487384095,Big-Key Symmetric Encryption Resisting Key Exfiltration,2016,33,13,1,1.0,2052950829,Mihir Bellare,0,0.0939204943203828,-2.2338247405314986
+2470451304,New Negative Results on Differing-Inputs Obfuscation,2016,45,12,1,1.0,2052950829,Mihir Bellare,0,-0.255481096177426,0.4843741529378961
+2538419163,Message-Recovery Attacks on Feistel-Based Format Preserving Encryption,2016,8,13,1,1.0,2052950829,Mihir Bellare,0,0.8645649728673771,-0.9971282168544077
+2583373422,Identity-based multi-signatures from RSA,2006,0,3,1,1.0,2052950829,Mihir Bellare,0,-0.27344392386404026,-1.2202882910411894
+2551644914,NIZKs with an Untrusted CRS Security in the Face of Parameter Subversion,2016,62,26,1,1.0,2052950829,Mihir Bellare,0,0.6225675638185036,-0.5738813886047684
+2585819574,Key-Versatile Signatures and Applications RKA KDM and Joint Enc/Sig,2014,70,11,1,1.0,2052950829,Mihir Bellare,0,0.25886854846786506,-1.5698967308480172
+2613229040,A forward-secure digital signature scheme,1999,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.3803014760383646,-2.2553934241776212
+2610931382,Foundations of group signatures Formal definitions simplified requirements and a construction based on general assumptions,2003,0,12,1,1.0,2052950829,Mihir Bellare,0,-0.09510068532067664,-0.7076377517269479
+2735804230,A theoretical treatment of related-key attacks,2003,0,4,1,1.0,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2611751279,A theoretical treatment of related-key attacks RKA-PRPs RKA-PRFs and applications,2003,0,194,1,1.0,2052950829,Mihir Bellare,0,1.5274691223006451,-1.4332609948847668
+2592624259,Deterring Certificate Subversion Efficient Double-Authentication-Preventing Signatures,2017,14,7,1,1.0,2052950829,Mihir Bellare,0,-0.4403470417734328,-1.1096163108849122
+2612470875,GQ and Schnorr identification schemes Proofs of security against impersonation under active and concurrent attacks,2002,0,10,1,1.0,2052950829,Mihir Bellare,0,0.4155194407586908,-1.1586483294872465
+2765530207,Defending Against Key Exfiltration Efficiency Improvements for Big-Key Cryptography via Large-Alphabet Subkey Prediction,2017,11,3,1,1.0,2052950829,Mihir Bellare,0,0.2448972321892414,-1.0762166988830828
+2766223441,Identity-Based Format-Preserving Encryption,2017,23,8,1,1.0,2052950829,Mihir Bellare,0,0.49131443180372986,-1.812986961280453
+2766600850,Better Than Advertised Improved Collision-Resistance Guarantees for MD-Based Hash Functions,2017,27,3,1,1.0,2052950829,Mihir Bellare,0,-1.14056331914984,-1.3905388250454773
+2757978461,Authenticated encryption in SSH,2002,0,1,2,0.0,88663857,Chanathip Namprempre,0,-0.043007939153861106,-1.6027809933318322
+2752104494,Method and device for data authentication in data communication environment,1994,0,0,2,0.0,1992892501,Roch Guerin,0,-0.15864374652083932,-0.1879861517290886
+2752328771,Ratcheted Encryption and Key Exchange The Security of Messaging,2017,19,21,1,1.0,2052950829,Mihir Bellare,0,0.35283481882656426,-1.9334573669392339
+2900269725,Forward-Security Under Continual Leakage,2017,38,2,1,1.0,2052950829,Mihir Bellare,0,0.10563926579571906,-1.7656422615528755
+2914521574,Public-key encryption in the multi-user setting privacy anonymity and efficiency,2004,0,0,2,0.0,2033462817,Alexandra Boldyreva,0,-0.034412965636455656,-0.9860597193442802
+2951494894,Robust Computational Secret Sharing and a Unified Account of Classical Secret-Sharing Goals,2006,0,1,1,1.0,2052950829,Mihir Bellare,0,1.0112234854538964,-0.18024267455669074
+2949479950,Deterring Certificate Subversion Efficient Double-Authentication-Preventing Signatures,2016,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.2548058081651406,0.06334333473161845
+2949612899,Authenticated Key Exchange Secure Against Dictionary Attacks,2000,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.9434049586962431,-1.6857900807020434
+2949618082,Semantically-Secure Functional Encryption Possibility Results Impossibility Results and the Quest for a General Definition,2012,0,0,1,1.0,2052950829,Mihir Bellare,0,0.5217472201297174,-2.383534932622053
+2949778071,Key Insulation and Intrusion Resilience Over a Public Channel,2009,0,0,1,1.0,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2951821654,Standard Security Does Not Imply Security Against Selective-Opening,2011,0,0,1,1.0,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2951823680,Stateful Public-Key Cryptosystems How to Encrypt with One 160-bit Exponentiation,2006,0,0,1,1.0,2052950829,Mihir Bellare,0,1.0234977874426157,-0.7111133471055375
+2949860368,Nonce-Based Cryptography Retaining Security when Randomness Fails,2016,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.5560076260888182,-0.20360849448221643
+2951904864,Hash Function Balance and its Impact on Birthday Attacks,2003,0,0,1,1.0,2052950829,Mihir Bellare,0,-1.6857222286629183,-0.5663557750651872
+2949960822,Many-to-one Trapdoor Functions and their Relation to Public-key Cryptosystems,1998,0,0,1,1.0,2052950829,Mihir Bellare,0,0.24387117991741236,-1.3811580487801542
+2952030260,Cryptographic Agility and its Relation to Circular Encryption,2010,0,0,3,0.0,2154224518,Tolga Acar,0,0.3139939642973432,-0.4259949914620587
+2950063647,Identity-Based Encryption Secure against Selective Opening Attack,2010,0,1,1,1.0,2052950829,Mihir Bellare,0,0.155870422438688,-0.3611899258997246
+2952144363,Security of Symmetric Encryption against Mass Surveillance,2014,0,0,1,1.0,2052950829,Mihir Bellare,0,0.09600385778172879,-1.4268577496161945
+2950179274,The Fiat-Shamir Zoo Relating the Security of Different Signature Variants,2018,0,1,2,0.0,2903082455,Matilda Backendal,0,0.0040557659796233,0.2757546058061082
+2952373612,Hedged Public-key Encryption How to Protect against Bad Randomness,2012,0,0,1,1.0,2052950829,Mihir Bellare,0,0.03910652856792115,-0.9542749174440527
+2950371274,Public-Key Encryption Resistant to Parameter Subversion and its Realization from Efficiently-Embeddable Groups,2018,0,0,2,0.0,2740667377,Benedikt Auerbach,0,0.03910652856792115,-0.9542749174440527
+2952416128,RKA Security beyond the Linear Barrier IBE Encryption and Signatures,2012,0,0,1,1.0,2052950829,Mihir Bellare,0,0.155870422438688,-0.3611899258997246
+2950466763,Protecting against Key Exposure Strongly Key-Insulated Encryption with Optimal Threshold,2002,0,5,1,1.0,2052950829,Mihir Bellare,0,0.155870422438688,-0.3611899258997246
+2955609830,Practice-Oriented Provable-Security,1997,36,83,1,1.0,2052950829,Mihir Bellare,0,0.3786354185495622,-1.142323778245945
+2950603704,Adaptively Secure Garbling with Applications to One-Time Programs and Secure Outsourcing,2012,0,1,1,1.0,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2952750061,Contention in Cryptoland Obfuscation Leakage and UCE,2015,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.255481096177426,0.4843741529378961
+2952774838,Towards Plaintext-Aware Public-Key Encryption without Random Oracles,2004,0,0,1,1.0,2052950829,Mihir Bellare,0,0.37198459923973565,-1.1483331284041831
+2952814694,Verifiable Partial Key Escrow,1996,0,4,1,1.0,2052950829,Mihir Bellare,0,0.2766381659731833,-0.9837804306737956
+2950850173,Ratcheted Encryption and Key Exchange The Security of Messaging,2016,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.058733515060274154,-1.2611757396814893
+2950853358,Multi-Instance Security and its Application to Password-Based Cryptography,2012,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.05073807199023517,-0.1361757471960077
+2952895522,Defending Against Key Exfiltration Efficiency Improvements for Big-Key Cryptography via Large-Alphabet Subkey Prediction,2018,0,0,1,1.0,2052950829,Mihir Bellare,0,0.16625186412845705,-0.7405372439782839
+2950870464,Subtleties in the Definition of IND-CCA When and How Should Challenge-Decryption be Disallowed ,2009,0,0,1,1.0,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2952962564,Authenticated Encryption Relations among notions and analysis of the generic composition paradigm,2000,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.2133971482398226,-0.6747789786693421
+2952981178,The Security of Chaffing and Winnowing,2000,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.22080850804072913,-0.6574050060014864
+2953113108,Authenticated and Misuse-Resistant Encryption of Key-Dependent Data,2011,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.2661624028931396,-0.33549593006869866
+2953136316,Cryptography Secure Against Related-Key Attacks and Tampering,2011,0,0,1,1.0,2052950829,Mihir Bellare,0,0.3171484069971384,-0.13992525839030945
+2951173514,Ciphers that Securely Encipher their own Keys,2011,0,0,1,1.0,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2951185712,NIZKs with an Untrusted CRS Security in the Face of Parameter Subversion,2016,0,0,1,1.0,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2949139766,Forward-Security under Continual Leakage,2017,0,0,1,1.0,2052950829,Mihir Bellare,0,-0.0046135669892357995,-1.4365766121306316
+2951263070,Forward-Security in Private-Key Cryptography,2001,0,3,1,1.0,2052950829,Mihir Bellare,0,0.1737928012981002,-1.4032656968855508
+2949320853,Identification Protocols Secure Against Reset Attacks,2000,0,0,1,1.0,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2951418302,Big-Key Symmetric Encryption Resisting Key Exfiltration,2016,0,0,1,1.0,2052950829,Mihir Bellare,0,0.09600385778172879,-1.4268577496161945
+2949381697,From Identification to Signatures via the Fiat-Shamir Transform Minimizing Assumptions for Security and Forward-Security,2002,0,0,3,0.782609,2143328931,Michel Abdalla,0,-0.0046135669892357995,-1.4365766121306316
+3023904122,Practice-Oriented Provable-Security,1998,14,18,1,1.0,2052950829,Mihir Bellare,0,0.550291188860024,-0.60455665988381
+3021467221,Hash function balance and its impact on birthday attacks,2004,0,0,1,1.0,2052950829,Mihir Bellare,0,-1.6857222286629183,-0.5663557750651872
+3013962188,Security under Message-Derived Keys Signcryption in iMessage,2020,29,0,1,1.0,2052950829,Mihir Bellare,0,-0.33525092682259583,-1.3234580641533142
+1516512945,Relations Among Notions of Security for Public-Key Encryption Schemes,1998,24,529,1,1.0,2052950829,Mihir Bellare,0,0.9735950937510647,-3.012899181277771
+2119929951,Adaptive Witness Encryption and Asymmetric Password-Based Cryptography,2015,31,16,1,1.0,2052950829,Mihir Bellare,0,-0.11762147780312186,-1.7646699505147474
+2155303329,How Secure is Deterministic Encryption,2015,41,5,1,1.0,2052950829,Mihir Bellare,0,0.4119688883528833,-1.8511626636985083
+2182584071,Resisting Randomness Subversion Fast Deterministic and Hedged Public-Key Encryption in the Standard Model,2015,55,34,1,1.0,2052950829,Mihir Bellare,0,0.16065379976233346,-1.8433907962519018
+2613409654,Relations among notions of security for public-key encryption schemes,1998,0,341,1,1.0,2052950829,Mihir Bellare,0,0.5241979694165741,-2.548143773428668
+2952055197,Adaptive Witness Encryption and Asymmetric Password-based Cryptography,2013,0,0,1,1.0,2052950829,Mihir Bellare,0,0.038867715731761815,-0.3516654247983951
+2952970680,Relations among Notions of Security for Public-Key Encryption Schemes,1998,0,0,1,1.0,2052950829,Mihir Bellare,0,0.03910652856792115,-0.9542749174440527

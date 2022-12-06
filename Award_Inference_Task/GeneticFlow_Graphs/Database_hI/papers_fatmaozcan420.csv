@@ -1,0 +1,56 @@
+44110639,XQuery Rewrite Optimization in IBM DB2 pureXML,2008,12,9,1,1.0,2026396360,Fatma Ozcan,0,1.7996228171490978,-0.5882287245449953
+197502064,A Region Based Query Optimizer Through Cascades Query Optimizer Framework,1995,0,6,1,1.0,2026396360,Fatma Ozcan,0,0.095246281495889,0.008328281137673135
+14900795,XQery for Analytics Challenges and Requirements,2004,0,10,4,0.0,2952954738,Kevin S. Beyer,0,-0.0041099411153885,0.0447066884760059
+242910889,EDBT 2010 13th International Conference on Extending Database Technology Lausanne Switzerland March 22-26 2010 Proceedings,2010,0,0,4,0.0,254676824,Stefano Spaccapietra,0,-0.0041099411153885,0.0447066884760059
+1544987692,Foundations of Automated Database Tuning,2005,0,6,5,0.0,2163909284,Surajit Chaudhuri,0,-0.3584145241730215,-0.07336224267815496
+1519752265,Cost Models DO Matter Providing Cost Information for Diverse Data Sources in a Federated System,1999,28,98,2,0.0,2475917068,Mary Tork Roth,0,0.31439024290951245,-0.41275332916462865
+1547831574,A framework for using materialized XPath views in XML query processing,2004,17,144,2,0.296372,1208114522,Andrey Balmin,0,3.150617341146724,-1.1683440960242408
+1575324001,Jaql A Scripting Language for Large Scale Semistructured Data Analysis,2011,30,182,7,0.487106,2273214336,Kevin Scott Beyer,0,0.13120897851039373,0.41538048798475946
+1522542599,On the effectiveness of flexible querying heuristics for XML data,2007,21,13,3,0.0,313600265,Zografoula Vagena,0,1.1139944577434615,-0.43372331920654217
+1587367341,Immortal DB Transaction Time Support for SQL Server,2005,0,1,9,0.0,1983664831,David B. Lomet,0,0.47609573756399265,0.4489370890171192
+2006543022,Proceedings of the 13th International Conference on Extending Database Technology,2010,0,0,5,0.0,254676824,Stefano Spaccapietra,0,0.29491070306462674,0.17377275083293692
+2028226582,Eagle-eyed elephant split-oriented indexing in Hadoop,2013,29,32,2,0.0,2034638176,Mohamed Y. Eltabakh,0,1.280998861166585,1.2724092752974203
+2026772575,Dynamic query optimization on a distributed object management platform,1996,13,18,1,1.0,2026396360,Fatma Ozcan,0,0.281258721132417,0.6875746704990872
+2021640262,Extending XQuery for analytics,2005,13,89,4,0.913043,2273214336,Kevin Scott Beyer,0,2.01077727628526,-0.5264748832630791
+2021724486,Emerging trends in the enterprise data analytics connecting Hadoop and DB2 warehouse,2011,5,19,1,1.0,2026396360,Fatma Ozcan,0,0.6898127201704192,0.40336967407684815
+2048082530,Grouping and Optimization of XPath Expressions in System RX,2008,8,1,2,0.404196,1208114522,Andrey Balmin,0,2.1444050684627887,-0.649061254572299
+2066375217,Next generation data analytics at IBM research,2013,23,0,5,0.0,2090809909,Oktie Hassanzadeh,0,0.15646563257913904,0.13131280629356248
+2071762336,Data for All A Systems Approach to Accelerate the Path from Data to Insight,2013,2,9,4,0.0,130548059,Eser Kandogan,0,-0.07651193843430196,-0.3720833388711318
+2067384618,DB2/XML designing for evolution,2005,3,28,2,0.913043,2273214336,Kevin Scott Beyer,0,2.4975001524534153,-0.9809524940126653
+2070895734,System RX one part relational one part XML,2005,33,131,7,0.913043,2273214336,Kevin Scott Beyer,0,2.3485049625640406,-0.9375414068725034
+2073024456,Grouping and optimization of XPath expressions in DB2 Â® pureXML,2008,31,9,2,0.404196,1208114522,Andrey Balmin,0,2.723176830396227,-0.9822545849183456
+2079015028,Integration of SQL and XQuery in IBM DB2,2006,4,10,1,1.0,2026396360,Fatma Ozcan,0,1.6674962537238038,-0.33055267504654895
+2087909221,Dynamically optimizing queries over large scale data platforms,2014,40,21,4,0.0,1014424442,Konstantinos Karanasos,0,0.0908845357243609,0.31128747720343375
+2100305431,Are we experiencing a big data bubble,2014,4,14,1,1.0,2026396360,Fatma Ozcan,0,-0.10734367370741837,0.7715662559681357
+2104141322,A multidatabase system implementation on CORBA,1996,13,20,5,0.0,582313750,Asuman Dogac,0,0.3850186714716211,0.5466742514536723
+2102294813,CoHadoop flexible data placement and its exploitation in Hadoop,2011,15,179,3,0.0,2034638176,Mohamed Y. Eltabakh,0,0.14116457449602104,0.23683455003232648
+2129835604,On the path to efficient XML queries,2006,12,17,3,0.347094,1208114522,Andrey Balmin,0,2.354408613125232,-0.9250628387762876
+2112438927,SEDA a system for search exploration discovery and analysis of XML Data,2008,5,3,5,0.404196,1208114522,Andrey Balmin,0,2.0843891720973184,-0.8346621835725978
+2106625078,SQL-on-Hadoop full circle back to shared-nothing database architectures,2014,14,106,3,0.419241,66563207,Avrilia Floratou,0,0.07884961805528465,0.042171323878679765
+2183669956,A Generic Solution to Integrate SQL and Analytics for Big Data,2015,10,2,3,0.0,2693528575,Nick R. Katsipoulakis,0,0.044859856903840555,0.012551371775477651
+2151979016,DB2 goes hybrid integratng native XML and XQuery with relational data and SQL,2006,31,38,5,0.0,344688379,Vanja Josifovski,0,2.3485049625640406,-0.9375414068725034
+2182304357,Joins for Hybrid Warehouses Exploiting Massive Parallelism in Hadoop and Enterprise Data Warehouses,2015,29,10,3,0.315396,2129760627,Yuanyuan Tian,0,0.07551609043563044,0.3211496254283451
+2164437271,METU interoperable database system,1995,6,32,5,0.0,582313750,Asuman Dogac,0,0.736233477734996,0.5725285153224818
+2190012392,Clash of the titans MapReduce vs Spark for large scale data analytics,2015,12,116,6,0.0,2286496932,Yunjie Qiu,0,-0.0041099411153885,0.0447066884760059
+2268691172,Optimization of extensible markup language path language (XPATH) expressions in a database management system configured to accept extensible markup language (XML) queries,2008,85,24,2,0.404196,1208114522,Andrey Balmin,0,2.289419997318421,-0.7452316502554606
+2265110944,SQL-on-hadoop systems tutorial,2015,12,8,1,1.0,2026396360,Fatma Ozcan,0,0.6063547341761553,-0.41937135287201366
+2261074416,ADAPTIVE FRAGMENT ASSIGNMENT FOR PROCESSING FILE DATA IN A DATABASE,2014,8,7,2,0.194668,1208114522,Andrey Balmin,0,-0.45908526316821546,0.6525773003303847
+2289885247,SPLIT ELIMINATION IN MAPREDUCE SYSTEMS,2014,30,20,3,0.0,180453028,John Sismanis,0,-0.0041099411153885,0.0447066884760059
+2428665651,Wildfire Concurrent Blazing Data Ingest and Analytics,2016,8,8,5,0.0,2105103640,Ronald J. Barber,0,0.044859856903840555,0.012551371775477651
+2548933032,Building a Hybrid Warehouse Efficient Joins between Data Stored in HDFS and Enterprise Warehouse,2016,44,7,2,0.315396,2129760627,Yuanyuan Tian,0,0.403611240874249,-0.08060717609719073
+2584505023,Evolving Databases for New-Gen Big Data Applications,2017,11,4,15,0.0,2105103640,Ronald J. Barber,0,0.06635930819191084,0.49152641060504293
+2522680599,Adaptive Caching in Big SQL using the HDFS Cache,2016,24,19,4,0.419241,66563207,Avrilia Floratou,0,0.006373147408505553,0.20268963818891872
+2536574992,ATHENA an ontology-driven system for natural language querying over relational data stores,2016,31,37,6,0.0,2149787958,Diptikalyan Saha,0,0.35063795891769234,0.2616383300442902
+2612704407,Hybrid Transactional/Analytical Processing A Survey,2017,26,12,1,1.0,2026396360,Fatma Ozcan,0,0.6062521976607904,0.6101287645072595
+2753417733,Creation and interaction with large-scale domain-specific knowledge bases,2017,9,6,18,0.0,2753825712,S. Bharadwaj,0,0.0539836830748696,-0.3306808548043243
+2757919840,No data left behind real-time insights from a complex data ecosystem,2017,49,2,3,0.0,1515916726,Manos Karpathiotakis,0,0.47243749883699476,-0.21054690609009494
+2893905611,Ontology-Based Natural Language Query Interfaces for Data Exploration,2018,0,2,2,0.81498,2109712595,Chuan Lei,0,-0.0041099411153885,0.0447066884760059
+2924482967,SIGMOD officers committees and awardees,2018,1103,0,2,0.0,1982738670,Ihab F. Ilyas,0,-0.0041099411153885,0.0447066884760059
+2912642413,Session details Web data integration,2010,0,0,1,1.0,2026396360,Fatma Ozcan,0,0.2807600744873719,-0.0746967125258062
+2913555551,Proceedings of the 2016 International Conference on Management of Data,2016,0,0,1,1.0,2026396360,Fatma Ozcan,0,0.18601297105691045,-0.0008472885667257998
+2912021678,Session details Industry session 2 query optimization,2014,0,0,1,1.0,2026396360,Fatma Ozcan,0,0.014532710543751099,0.030944858938630852
+2943759162,Discovery and Creation of Rich Entities for Knowledge Bases,2018,10,1,2,0.0,2291462728,Abdul Quamar,0,0.11546437906928197,-0.003934043637762333
+2948195291,Natural Language Querying of Complex Business Intelligence Queries,2019,8,2,2,0.0,2507945058,Jaydeep Sen,0,0.11110263329775387,0.29902515242799826
+2951392021,Search Driven Analysis of Heterogenous XML Data,2009,20,2,5,0.404196,1208114522,Andrey Balmin,0,0.3528414534506594,0.20543923853134746
+3012955422,Expanding Query Answers on Medical Knowledge Bases,2020,0,0,4,0.81498,2109712595,Chuan Lei,0,-0.0041099411153885,0.0447066884760059
+3007024586,The Seattle Report on Database Research,2020,1,0,26,0.0,2170206103,Daniel J. Abadi,0,-0.0041099411153885,0.0447066884760059

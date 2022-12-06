@@ -1,0 +1,62 @@
+154519549,A Window Retrieval Algorithm for Spatial Databases Using Quadtrees,1995,0,4,2,0.5,220758600,Walid G. Aref,0,-0.0041099411153885,0.0447066884760059
+191222204,Optimizing client-server communication for remote spatial database access,2005,0,1,2,0.692308,1165832765,Frantisek Brabec,0,0.18601297105691045,-0.0008472885667257998
+118410400,Bibliography on quadtrees and related hierarchical data structures,1986,250,12,1,1.0,89934235,Hanan Samet,0,-0.1465074771935338,-0.3290449123705981
+136372607,Pictorial Query Specification for Browsing Through Image Databases,2007,8,0,1,1.0,89934235,Hanan Samet,0,0.7660287930071575,0.01280964099318114
+1505084004,Demo accessing diverse geo-referenced data sources with the SAND spatial DBMS,2003,3,0,2,1.0,66485931,Egemen Tanin,0,0.10265927272561164,0.2920494184535762
+1496970916,Optimization for Spatial Query Processing,1991,11,48,2,0.75,220758600,Walid G. Aref,0,0.0908845357243609,0.31128747720343375
+1516936742,Continuous K-nearest neighbor queries for continuously moving points with updates,2003,16,156,2,1.0,2309973268,Glenn S. Iwerks,0,-0.0041099411153885,0.0447066884760059
+1499645194,Adding an Interoperable Server Interface to a Spatial Database Implementation Experiences with OpenMapTM*,1999,9,6,5,0.0,1991458254,Charles B. Cranston,0,1.076964966225016,0.19361814148930265
+1511170346,Performance of Data-Parallel Spatial Operations,1994,22,26,2,1.0,2762706314,Erik G. Hoel,0,-0.24724314848530438,-0.11316891622295562
+1520283191,Maintenance of spatial semijoin queries on moving points,2004,20,27,2,1.0,2309973268,Glenn S. Iwerks,0,2.0398519029162054,0.5409302061593403
+1565863247,Georgraphic Information Systems A Challenge for the 90s (Panel),1992,0,0,5,0.0,1159640156,Ekow Otoo,0,-0.0041099411153885,0.0447066884760059
+1566110908,Benchmarking Spatial Join Operations with Spatial Output,1995,28,66,2,1.0,2762706314,Erik G. Hoel,0,-0.4819802087455516,0.22235347017649046
+1539415901,Extending a DBMS with Spatial Operations,1991,38,54,2,0.75,220758600,Walid G. Aref,0,1.7894228979148008,0.3249438652341951
+1495618538,Importing abstract spatial data into the SAND database system,2004,3,0,1,1.0,89934235,Hanan Samet,0,-1.483648301863235,-1.3971950927522885
+1531046708,The ATREE A Data Structure to Support Very Large Scientific Databases,1999,14,3,2,1.0,2111185302,P. Bogdanovich,0,-0.2070516517048539,-0.15507998068592532
+1931818007,Efficient Processing of Spatial Queries in Line Segment Databases,1991,28,62,2,1.0,2762706314,Erik G. Hoel,0,-0.0041099411153885,0.0447066884760059
+1587688492,Experience with SAND-Tcl a scripting tool for spatial databases,2000,28,10,2,0.0,2052494029,Claudio EsperanÃ§a,0,-1.3820069348050381,-1.0562747761426763
+1597494089,Efficient Window Block Retrieval in Quadtree-Based Spatial Databases,1997,24,25,2,0.5,220758600,Walid G. Aref,0,-0.0565254458471827,0.17778855198392565
+1608699453,Remote thin-client access to spatial database systems,2002,14,4,1,1.0,89934235,Hanan Samet,0,0.2823045430669023,0.2044552601800427
+1820714556,Pictorial query trees for query specification in image databases,1998,7,5,2,0.0,2190921344,Aya Soffer,0,-0.2004414312584904,0.2577022737873177
+1582113689,Database and Representation Issues in Geographic Information Systems (GIS),2009,37,1,1,1.0,89934235,Hanan Samet,0,-0.0041099411153885,0.0447066884760059
+1723433588,Ranking in Spatial Databases,1995,13,341,2,1.0,299309139,GÃ­sli R. Hjaltason,0,0.9594127385811438,1.0519945730543203
+1973301025,Speeding up construction of PMR quadtree-based spatial indexes,2002,55,70,2,0.8125,299309139,GÃ­sli R. Hjaltason,0,-0.2579845186526226,0.32362668826095325
+1975880767,Hashing by proximity to process duplicates in spatial databases,1994,15,29,2,0.75,220758600,Walid G. Aref,0,-0.0825127448723389,-0.0016295548434248769
+1976022204,Schema extraction for tabular data on the web,2013,26,81,2,0.0,1798774585,Marco D. Adelfio,0,1.1616406247465787,-0.08359439031189038
+2008305564,Iterative spatial join,2003,38,27,2,1.0,421161533,Edwin H. Jacox,0,1.509620127787651,-1.1446280267800495
+2009036829,A Fast Similarity Join Algorithm Using Graphics Processing Units,2008,28,108,3,1.0,2141097271,Michael D. Lieberman,0,-0.46893397788284524,0.07728939382804885
+1990111898,Distance browsing in spatial databases,1999,53,838,2,1.0,299309139,GÃ­sli R. Hjaltason,0,-0.0041099411153885,0.0447066884760059
+1993997820,Spatial join techniques,2007,145,157,2,1.0,421161533,Edwin H. Jacox,0,-0.0041099411153885,0.0447066884760059
+2023309578,Techniques for similarity searching in multimedia databases,2010,8,5,1,1.0,89934235,Hanan Samet,0,-0.0041099411153885,0.0447066884760059
+2019966092,Sorting in Space Multidimensional spatial and metric data structures for applications in spatial databases geographic information systems (GIS) and location-based services,2013,96,3,1,1.0,89934235,Hanan Samet,0,-0.0041099411153885,0.0447066884760059
+2030747010,A new database for medical images and information,2007,12,21,1,1.0,89934235,Hanan Samet,0,0.206539966098803,-0.23015581410374408
+2032745789,An efficient layout method for a large collection of geographic data entries,2013,20,4,3,0.0,1833031066,Sarana Nutanong,0,-0.0041099411153885,0.0447066884760059
+2036085124,Issues developments and challenges in spatial databases and geographic information systems (GIS) (Invited Talk),2001,0,2,1,1.0,89934235,Hanan Samet,0,-0.0041099411153885,0.0447066884760059
+2065528935,Index-driven similarity search in metric spaces (Survey Article),2003,93,394,1,1.0,89934235,Hanan Samet,0,-0.0041099411153885,0.0447066884760059
+2067278345,Integrating symbolic images into a multimedia database system using classification and abstraction approaches,1998,38,15,2,0.0,2190921344,Aya Soffer,0,0.0988095090229358,0.30390097849787195
+2062184932,A qualitative comparison study of data structures for large line segment databases,1992,21,64,2,0.0,1985580024,Erik Hoel,0,-0.46893397788284524,0.07728939382804885
+2102842495,Path oracles for spatial networks,2009,18,108,2,0.888889,1997756302,Jagan Sankaranarayanan,0,0.3305710305133726,-0.023414203767349862
+2097678013,Remote access to large spatial databases,2002,15,9,3,1.0,66485931,Egemen Tanin,0,0.18601297105691045,-0.0008472885667257998
+2093729646,Memory-efficient algorithms for spatial network queries,2013,37,20,2,0.0,1833031066,Sarana Nutanong,0,-0.0041099411153885,0.0447066884760059
+2085010747,Supporting rapid processing and interactive map-based exploration of streaming news,2012,23,27,2,1.0,2141097271,Michael D. Lieberman,0,1.1591474818925829,-0.07583531101788715
+2111406286,Indexing methods for moving object databases games and other applications,2013,55,13,1,1.0,89934235,Hanan Samet,0,-0.0041099411153885,0.0447066884760059
+2108746909,The internet spatial spreadsheet enabling remote visualization of dynamic spatial data and ongoing query results over a network,2003,9,6,2,1.0,2309973268,Glenn S. Iwerks,0,2.138890178506595,0.47051306972965357
+2123795321,Enabling Query Processing on Spatial Networks,2006,2,5,3,0.888889,1997756302,Jagan Sankaranarayanan,0,-0.0041099411153885,0.0447066884760059
+2141835599,Geotagging with local lexicons to build indexes for textually-specified spatial data,2010,23,94,2,1.0,2141097271,Michael D. Lieberman,0,0.803315857687538,0.6395954087514271
+2132809168,A distributed quadtree index for peer-to-peer settings,2005,4,57,3,1.0,66485931,Egemen Tanin,0,0.05376387685168601,-0.09581464612541803
+2127151074,Distance Oracles for Spatial Networks,2009,29,51,2,0.888889,1997756302,Jagan Sankaranarayanan,0,0.6724585555989124,0.33084197268057125
+2115500858,Metric space similarity joins,2008,68,106,2,1.0,421161533,Edwin H. Jacox,0,0.3820908385543769,0.2117467783858426
+2127255002,Visualizing and Animating R-trees and Spatial Operations in Spatial Databases on the Worldwide Web,1998,26,20,2,1.0,1165832765,Frantisek Brabec,0,0.3820908385543769,0.2117467783858426
+2112690629,Pictorial Query Specification for Browsing Through Spatially Referenced Image Databases,1998,29,10,2,0.0,2190921344,Aya Soffer,0,0.7215975991611812,0.3052417628859806
+2110059191,Maintenance of K -nn and spatial join queries on continuously moving points,2006,52,37,1,1.0,89934235,Hanan Samet,0,0.8553187074900009,0.5233890059995392
+2113186222,A Database Management System for the Federal Courts,1984,14,5,3,0.0,2096572648,Jack R. Buchanan,0,2.7318884177427805,0.8318653348704462
+2122110860,Using a distributed quadtree index in peer-to-peer networks,2007,40,135,3,0.75874,66485931,Egemen Tanin,0,0.10015471122472856,-0.06918077270460529
+2140130703,PhotoStand a map query interface for a database of news photos,2013,31,11,1,1.0,89934235,Hanan Samet,0,-0.0041099411153885,0.0447066884760059
+2123060058,Incremental distance join algorithms for spatial databases,1998,36,226,2,1.0,299309139,GÃ­sli R. Hjaltason,0,0.43739842239757626,0.009947045888208002
+2171901130,Scalable network distance browsing in spatial databases,2008,31,240,1,1.0,89934235,Hanan Samet,0,-0.0041099411153885,0.0447066884760059
+2159994629,High-Dimensional Similarity Retrieval Using Dimensional Choice,2008,33,2,2,0.0,1763981264,Dave Tahmoush,0,-0.0041099411153885,0.0447066884760059
+2167276918,Augmenting spatio-textual search with an infectious disease ontology,2008,3,9,3,1.0,2141097271,Michael D. Lieberman,0,-0.0041099411153885,0.0447066884760059
+2267544904,The ATree A data structure to support very large scientific databases,1995,0,0,2,1.0,2111185302,P. Bogdanovich,0,-0.44547710805120677,-0.09078116914453249
+2302586452,Location Specification and Representation in Multimedia Databases,2015,96,1,1,1.0,89934235,Hanan Samet,0,-0.0041099411153885,0.0447066884760059
+2437437591,SPDO High-throughput road distance computations on Spark using Distance Oracles,2016,39,6,3,0.0,2231301849,Shangfu Peng,0,0.05640315281478835,-0.022715007301229845
+2912929939,Spatial Databases,1992,0,3,1,1.0,89934235,Hanan Samet,0,-0.0041099411153885,0.0447066884760059

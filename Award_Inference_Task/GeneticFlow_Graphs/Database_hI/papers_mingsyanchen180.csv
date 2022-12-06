@@ -1,0 +1,53 @@
+315506506,On Workload Characterization of Relational Database Environments,1990,0,0,2,0.0,2125104194,Philip S. Yu,0,1.1846467986224667,0.13009145292916863
+960506691,Efficient incremental method for data mining of a database,2002,4,39,1,1.0,2122365371,Ming Syan Chen,0,0.541048792242954,0.14109191976847427
+1542205510,Mining Web Transaction Patterns in an Electronic Commerce Environment,2000,4,19,2,1.0,2096220589,Ching Huang Yun,0,1.418478073390029,1.3713246150688148
+1571758209,Parallel Query Processing,1993,0,24,2,0.157281,2125104194,Philip S. Yu,0,0.0908845357243609,0.31128747720343375
+1572028365,Database mining using multi-predicate classifiers,1995,8,50,1,1.0,2122365371,Ming Syan Chen,0,0.43739842239757626,0.009947045888208002
+1483448279,Mining Sequential Alarm Patterns in a Telecommunication Database,2001,17,28,3,0.0,2627929347,Pei Hsin Wu,0,-0.0041099411153885,0.0447066884760059
+1567049949,VIPAS virtual link powered authority search in the web,2003,20,4,2,0.0,2786373562,Chi Chun Lin,0,-2.7130781306146248,-2.0329821109166355
+1953461739,On Index Selection Schemes for Nested Object Hierarchies,1994,17,16,2,0.0,376007138,Sudarshan S. Chawathe,0,-0.0041099411153885,0.0447066884760059
+1586477140,Mining frequent spatial patterns in image databases,2006,10,1,3,0.0,2171672311,Wei Ta Chen,0,0.18601297105691045,-0.0008472885667257998
+1587322954,A regression-based temporal pattern mining scheme for data streams,2003,27,132,2,1.0,1985097037,Wei Guang Teng,0,-0.42845202490949574,0.1450203979855267
+1806803408,Self-Tuning Clustering An Adaptive Clustering Method for Transaction Data,2002,11,3,3,1.0,2096220589,Ching Huang Yun,0,-0.0041099411153885,0.0447066884760059
+1885423377,Building a Collaborative Client-Server Application,2003,8,0,2,1.0,1985097037,Wei Guang Teng,0,-0.0041099411153885,0.0447066884760059
+1895735149,Scheduling and processor allocation for parallel execution of multijoin queries,1992,22,60,1,1.0,2122365371,Ming Syan Chen,0,1.162642504050577,0.22654127197208643
+1602953677,Progressive method and system for CPU and I/O cost reduction for mining association rules,1997,6,11,1,1.0,2122365371,Ming Syan Chen,0,0.38009049917121435,0.45246057348231067
+1977881389,Distributed data mining in a chain store database of short transactions,2002,20,8,3,1.0,2128335390,Cheng Ru Lin,0,-0.22859007644670426,0.11613146160450451
+2007501064,DAWN an efficient framework of DCT for data with error estimation,2008,24,0,3,0.0,2119755336,Ming Jyh Hsieh,0,0.06961281924608344,0.8364652666563405
+2009733225,Efficient algorithms for incremental Web log mining with dynamic thresholds,2008,41,17,3,0.0,2114777507,Jian Chih Ou,0,-0.4197151661071337,-0.42589767901227754
+2030969394,An effective hash-based algorithm for mining association rules,1995,11,1372,1,1.0,2122365371,Ming Syan Chen,0,0.38009049917121435,0.45246057348231067
+2039886920,Highly Scalable Sequential Pattern Mining Based on MapReduce Model on the Cloud,2013,15,23,3,0.0,2488244446,Chun Chieh Chen,0,0.06635930819191084,0.49152641060504293
+2068088848,On parallel execution of multiple pipelined hash joins,1994,28,31,2,0.666667,2886951045,Hui I Hsiao,0,-0.0041099411153885,0.0447066884760059
+2069944651,On applying hash filters to improving the execution of multi-join queries,1997,33,14,1,1.0,2122365371,Ming Syan Chen,0,-0.0041099411153885,0.0447066884760059
+2065238781,Sliding window filtering an efficient method for incremental mining on a time-variant database,2005,41,56,3,1.0,2145410290,Chang Hung Lee,0,0.38009049917121435,0.45246057348231067
+2074860524,Query scheduling and implementation for multiple join operations in network databases,1998,2,0,1,1.0,2122365371,Ming Syan Chen,0,1.3582148012184427,0.5295921149655599
+2099485005,Using remote joins for the processing of distributed mobile queries,2001,17,4,2,1.0,2145410290,Chang Hung Lee,0,0.0835119396817451,0.051530138659233005
+2092824714,A General Model for Sequential Pattern Mining with a Progressive Database,2008,39,56,4,0.0,2104987549,Jen Wei Huang,0,1.2093417881871118,0.26507297651154665
+2091421113,Privacy-preserving outsourcing support vector machines with random transformation,2010,31,36,2,0.0,2170960541,Keng Pei Lin,0,-0.0041099411153885,0.0447066884760059
+2094102131,Adherence clustering an efficient method for mining market-basket clusters,2006,57,12,3,1.0,2096220589,Ching Huang Yun,0,-0.0041099411153885,0.0447066884760059
+2096097888,Energy-efficient caching for wireless mobile computing,1996,12,149,3,0.0,2974392176,Kung Lung Wu,0,-0.0041099411153885,0.0447066884760059
+2102303750,On workload characterization of relational database environments,1992,12,90,2,0.181064,2125104194,Philip S. Yu,0,1.4051970017331683,0.19010120261417152
+2111393216,BIO101 - EST sequence management and annotation system,2005,20,0,1,1.0,2122365371,Ming Syan Chen,0,0.1423926077010078,-0.004877496429063547
+2117526032,LeeWave level-wise distribution of wavelet coefficients for processing k NN queries over distributed streams,2008,34,8,3,0.0,2095612124,Kun Lung Wu,0,-0.0041099411153885,0.0447066884760059
+2135480529,DIKNN An Itinerary-based KNN Query Processing Algorithm for Mobile Sensor Networks,2007,25,46,4,0.0,2152688896,Shan Hung Wu,0,0.014532710543751099,0.030944858938630852
+2129836922,Mining top-k frequent patterns in the presence of the memory constraint,2008,29,47,3,1.0,2124692862,Kun Ta Chuang,0,0.16782124802273696,0.2536234597393226
+2138984534,On mining general temporal association rules in a publication database,2001,19,73,3,1.0,2145410290,Chang Hung Lee,0,0.8819964512398518,0.8953778822058752
+2127222997,Using pattern-join and purchase-combination for mining Web transaction patterns in an electronic commerce environment,2000,9,31,2,1.0,2096220589,Ching Huang Yun,0,2.0289602488540854,1.8869905875657311
+2118496503,Dynamic finite versioning for concurrent transaction and query processing,1991,25,165,2,0.0,2095612124,Kun Lung Wu,0,0.7215975991611812,0.3052417628859806
+2118827590,Capturing user access patterns in the Web for data mining,1999,17,37,3,0.0,2231344930,I Yuan Lin,0,-1.9384332484145723,-1.8647369063177193
+2119005434,Combining joint and semi-join operations for distributed query processing,1993,25,35,1,1.0,2122365371,Ming Syan Chen,0,0.48735032154437546,-0.7664654310241498
+2131055986,Parallel execution of hash joins in parallel databases,1997,40,17,2,0.666667,2886951045,Hui I Hsiao,0,-0.0041099411153885,0.0447066884760059
+2108127784,Using Segmented Right-Deep Trees for the Execution of Pipelined Hash Joins,1992,26,78,1,1.0,2122365371,Ming Syan Chen,0,-0.8111052405828644,0.8913388803529055
+2153180387,Dynamic finite versioning an effective versioning approach to concurrent transaction and query processing,1993,25,16,3,0.0,2974470786,Kim Lung Wu,0,0.7131934760462597,0.5897315307259846
+2162253283,On social-temporal group query with acquaintance constraint,2011,12,32,4,0.0,2096343151,De Nian Yang,0,-0.0041099411153885,0.0447066884760059
+2168689656,Broadcasting dependent data for ordered queries without replication in a multi-channel mobile environment,2003,3,40,2,1.0,2148510829,Jiun Long Huang,0,-0.0041099411153885,0.0447066884760059
+2168983136,On exploring the power-law relationship in the itemset support distribution,2006,21,2,3,1.0,2124692862,Kun Ta Chuang,0,-0.0041099411153885,0.0447066884760059
+2148562629,Determining beneficial semijoins for a join sequence in distributed query processing,1991,21,10,1,1.0,2122365371,Ming Syan Chen,0,1.062244469740587,-0.12655472334758627
+2166668946,Exploring aggregate effect with weighted transcoding graphs for efficient cache replacement in transcoding proxies,2002,15,24,2,1.0,2099195650,Cheng Yue Chang,0,-0.8718857566529793,-0.8171105151000119
+2160670001,Integrating Web caching and Web prefetching in client-side proxies,2005,38,103,3,1.0,1985097037,Wei Guang Teng,0,-0.0041099411153885,0.0447066884760059
+2153028052,Data mining an overview from a database perspective,1996,76,1634,1,1.0,2122365371,Ming Syan Chen,0,-0.12157696910142385,-0.19400264073256615
+2394738964,CPU and I/O cost reduction for mining association rules,1997,2,0,1,1.0,2122365371,Ming Syan Chen,0,0.38009049917121435,0.45246057348231067
+2562245997,Mining frequent spatial patterns in image databases,2006,0,0,3,0.0,2171672311,Wei Ta Chen,0,0.18601297105691045,-0.0008472885667257998
+2521971991,Data Mining An Overview from Database Perspective,1996,72,328,2,0.0,2121939561,Jiawei Han,0,1.4838239115003526,0.49066703843083176
+2604623575,Task-Optimized Group Search for Social Internet of Things,2017,17,0,4,0.0,2122520210,Chih Ya Shen,0,-0.0041099411153885,0.0447066884760059
+2962993327,Data mining An overview from a database perspective Special section on mining of databases,1996,0,0,2,0.0,2121939561,Jiawei Han,0,-0.00692330779523679,-0.11953800671413879

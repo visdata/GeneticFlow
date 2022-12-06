@@ -1,0 +1,95 @@
+125979907,n-gram/2L a space and time efficient two-level n-gram inverted index structure,2005,21,74,2,1.0,2956024223,Min Soo Kim,0,0.43197981126618956,1.8866671779376936
+224136310,A Multimedia Information System Integrating Hypermedia Information Retrieval and DBMS Technologies,1996,0,0,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+13443704,New join processing using a multidimensional dynamic file organization,2001,0,0,2,0.241935,2114304489,Sang Wook Kim,0,0.8771113148730372,-0.6694805488481194
+186347073,Odysseus/DFS Integration of DBMS and Distributed File System for Transaction Processing of Big Data,2014,28,1,2,1.0,2127301300,Jun Sung Kim,0,1.0797621249946598,0.5913064799882679
+16340118,Transformation-based temporal aggregation using order-based buffer replacement strategy,2004,26,0,5,0.0,2100104018,Joon Ho Woo,0,0.43739842239757626,0.009947045888208002
+1558961979,The Multilevel Grid File - A Dynamic Hierarchical Multidimensional File Structure,1991,40,59,1,1.0,1933211966,Kyu Young Whang,0,-0.09866178051475763,0.43954825271787756
+1541458109,Foundations of Automated Database Tuning (Tutorial),2006,0,1,2,0.0,514836396,Gerhard Weikum,0,-0.3584145241730215,-0.07336224267815496
+1516030214,The ubiquitous DBMS,2010,0,0,1,1.0,1933211966,Kyu Young Whang,0,0.5733698207253666,0.2307464676601778
+1543310567,Efficient evaluation of partial match queries for XML documents using information retrieval techniques,2005,23,11,2,0.0,3027430499,Young Ho Park,0,1.1378508440508772,-0.36940038635499856
+1500026132,ODYS A Massively-Parallel Search Engine Using a DB-IR Tightly-Integrated Parallel DBMS,2012,27,0,1,1.0,1933211966,Kyu Young Whang,0,-0.15439584752321023,0.46142759199380223
+1517870510,Transaction Time Support Inside a Database Engine,2006,0,60,7,0.0,1983664831,David B. Lomet,0,1.922670575534753,1.9564410976742148
+1492100919,Database publication practices,2005,2,5,9,0.0,2304774990,Philip A. Bernstein,0,-0.25609130579317646,0.2785941556746898
+1492319324,Type-Level access pattern view a technique for enhancing prefetching performance,2006,13,4,3,0.72,2307556295,Wook Shin Han,0,1.901466873024071,0.5622172946276698
+1045331817,SHADOW-PAGE DEFERRED-UPDATE RECOVERY TECHNIQUE INTEGRATING SHADOW PAGE AND DEFERRED UPDATE TECHNIQUES IN A STORAGE SYSTEM,2008,24,7,1,1.0,1933211966,Kyu Young Whang,0,0.38009049917121435,0.45246057348231067
+1539088081,Performance Evaluation of Replica Control Algorithms in a Locally Distributed Database System,1995,4,6,5,0.0,2412729235,Chang S. Keum,0,1.317978412296864,0.40568415708411965
+1504621172,The Property of Separability And Its Application to Physical Database Design,1985,30,4,1,1.0,1933211966,Kyu Young Whang,0,0.8149372317766623,0.6233684504191833
+1521947672,A new DBMS architecture for DB-IR integration,2007,3,1,1,1.0,1933211966,Kyu Young Whang,0,-0.03842580963837938,-0.023224365628585902
+1929328240,Constructing Cost Formulas for Relational Database Query Optimizers A Tutorial,1987,0,1,1,1.0,1933211966,Kyu Young Whang,0,0.36610311895500325,0.07045586025680924
+1587706082,Proceedings of the 26th International Conference on Very Large Data Bases,2000,0,0,3,0.0,689294964,Umeshwar Dayal,0,-0.0041099411153885,0.0447066884760059
+1580149603,A Region Splitting Strategy for Physical Database Design of Multidimensional File Organizations,1997,16,19,3,0.0,2151801410,Jong Hak Lee,0,2.114811188881847,0.5946548408479898
+1912888353,A framework for optimization in expert system-DBMS interface,1988,22,1,1,1.0,1933211966,Kyu Young Whang,0,0.29803475294701987,0.04794090896134427
+1644194110,Physical Design of Network Model Databases Using the Property of Separability,1982,14,11,1,1.0,1933211966,Kyu Young Whang,0,1.7376239114896213,0.6068808633211369
+1942235752,An efficient algorithm for computing range-groupby queries,2006,13,0,4,0.882353,2780896708,Young Koo Lee,0,-0.08919342256369395,0.5598251639055682
+1925857413,Inverted index storage structure using subindexes and large objects for tight coupling of information retrieval with database management systems,1999,20,130,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+1603474531,A New Algorithm for Processing Joins Using the Multilevel Grid File,1995,16,6,4,0.6,2114304489,Sang Wook Kim,0,-0.26064923455455846,0.4315435219240117
+1973191237,Type-level access pattern view Enhancing prefetching performance using the iterative and recursive patterns,2010,32,6,3,0.304196,2307556295,Wook Shin Han,0,1.3251319967172182,0.1590893037275094
+1985828665,Office-by-example an integrated office system and database manager,1987,27,38,1,1.0,1933211966,Kyu Young Whang,0,0.06899310371302751,-0.06974288671007853
+1970130561,The Hybrid-Layer Index A synergic approach to answering top-k queries in arbitrary subspaces,2010,22,19,3,1.0,2135582107,Jun Seok Heo,0,1.060044488247187,0.19872321182685962
+1971890972,PARADISE Big data analytics using the DBMS tightly integrated with the distributed file system,2016,27,5,2,1.0,2127301300,Jun Sung Kim,0,0.09584135421554574,0.38838447963636613
+1972074692,Approximating the number of unique values of an attribute without sorting,1987,5,37,3,0.0,2468889424,Morton M. Astrahan,0,0.37175764889626617,0.09978895631273477
+1986471814,Horizontal Reduction Instance-Level Dimensionality Reduction for Similarity Search in Large Document Databases,2012,28,8,2,1.0,2956024223,Min Soo Kim,0,-0.0041099411153885,0.0447066884760059
+1979648938,Query optimization in a memory-resident domain relational calculus database system,1990,42,64,1,1.0,1933211966,Kyu Young Whang,0,1.7486683105532832,0.5172004452331473
+1972634640,Global lock escalation in database management systems,2002,5,5,3,1.0,2099069951,Ji Woong Chang,0,0.8286466699603369,1.0027583038282522
+2008365755,A linear-time probabilistic counting algorithm for database applications,1990,20,305,1,1.0,1933211966,Kyu Young Whang,0,0.5325669973310596,0.09709227568458595
+2000107648,Query Optimization Techniques Utilizing Path Indexes in Object-Oriented Database Systems,1997,19,4,3,1.0,2145892791,Wan Sup Cho,0,1.8433055655464243,0.5571609158291767
+1998929076,Integration of expert systems and database management systems an extended disjunctive normal form approach,1992,15,2,1,1.0,1933211966,Kyu Young Whang,0,1.1272519857875312,0.23084686019728437
+1992071907,PrefetchGuide capturing navigational access patterns for prefetching in client/server object-oriented/object-relational DBMSs,2003,17,21,3,0.857143,2307556295,Wook Shin Han,0,-0.46893397788284524,0.07728939382804885
+2009914158,DB-IR integration using tight-coupling in the Odysseus DBMS,2015,41,7,1,1.0,1933211966,Kyu Young Whang,0,0.08227707782544803,-0.12756746722765216
+2010142086,General match a subsequence matching method in time-series databases based on generalized windows,2002,17,133,2,0.794118,2307192335,Yang Sae Moon,0,-0.0041099411153885,0.0447066884760059
+2021125030,Dynamic maintenance of data distribution for selectivity estimation,1994,24,52,1,1.0,1933211966,Kyu Young Whang,0,0.12078929429085944,0.33547553188895146
+2012636810,ODYS an approach to building a massively-parallel search engine using a DB-IR tightly-integrated parallel DBMS for higher-level functionality,2013,17,5,1,1.0,1933211966,Kyu Young Whang,0,-0.38137069538176643,0.00878437916234783
+2016876497,Index interpolation an approach to subsequence matching supporting normalization transform in time-series databases,2000,17,32,3,0.6,2122055598,Woong Kee Loh,0,-0.0681371106864691,0.37370442032925993
+2054318131,Estimating block accesses in database organizations a closed noniterative formula,1983,15,59,1,1.0,1933211966,Kyu Young Whang,0,1.5753692050347436,0.36777920284009225
+2035333697,A Subsequence Matching Algorithm that Supports Normalization Transform in Time-Series Databases,2004,41,38,3,1.0,2122055598,Woong Kee Loh,0,-0.0681371106864691,0.37370442032925993
+2034290763,Wavelet transformation-based management of integrated summary data for distributed query processing,2001,24,4,2,0.0,2580452734,Moon Jeung Joe,0,-0.0041099411153885,0.0447066884760059
+2043398685,The ubiquitous DBMS,2010,36,9,1,1.0,1933211966,Kyu Young Whang,0,1.3441595343546446,0.42332268460306516
+2059444570,A formal approach to lock escalation,2005,10,2,2,1.0,2099069951,Ji Woong Chang,0,0.8286466699603369,1.0027583038282522
+2075576338,Secure query processing against encrypted XML data using Query-Aware Decryption,2006,15,23,2,0.777778,2134045017,Jae Gil Lee,0,2.642087231380251,-1.0176621614641508
+2063990320,Tightly-coupled spatial database features in the Odysseus/OpenGIS DBMS for high-performance,2010,24,9,1,1.0,1933211966,Kyu Young Whang,0,0.3132494306810779,0.2970225242180222
+2067551857,A new method for estimating the number of objects satisfying an object-oriented query involving partial participation of classes,1996,27,14,3,1.0,2145892791,Wan Sup Cho,0,-0.15920861304977532,0.009184461394527233
+2074972795,Subspace top-k query processing using the hybrid-layer index with a tight bound,2013,40,8,3,1.0,2135582107,Jun Seok Heo,0,0.21078788016213287,0.13382582602759288
+2099464320,An apples-to-apples comparison of two database journals,2005,1,6,8,0.0,2304774990,Philip A. Bernstein,0,0.1913416380049812,0.2648884874701074
+2082747269,GRAQULA a graphical query language for entity-relationship or relational databases,1993,28,24,4,0.0,2342932155,Gary H. Sockut,0,1.2561284214254556,0.35206876578345314
+2086545762,A recovery method supporting user-interactive undo in database management systems,1999,16,3,2,0.0,2103073732,Won Young Kim,0,0.3715208509719942,0.15038891830252638
+2093672485,Property of separability in physical design of network model databases,1985,14,5,1,1.0,1933211966,Kyu Young Whang,0,0.1438665230641129,0.2373920754813933
+2108441106,A one-pass aggregation algorithm with the optimal buffer size in multidimensional OLAP,2002,24,3,2,0.882353,2780896708,Young Koo Lee,0,0.08457899475751711,2.0764680319679445
+2135716865,A formal framework for prefetching based on the type-level access pattern in object-relational DBMSs,2005,21,20,2,0.857143,2307556295,Wook Shin Han,0,0.6315861973536258,0.05376216840899167
+2109355547,Duality-based subsequence matching in time-series databases,2001,15,109,2,0.794118,2307192335,Yang Sae Moon,0,-0.241250245220175,-0.17693373480736696
+2115533988,Efficient time-series subsequence matching using duality in constructing windows,2001,13,16,2,0.794118,2307192335,Yang Sae Moon,0,-0.0041099411153885,0.0447066884760059
+2130608682,Structural consistency enabling XML keyword search to eliminate spurious results consistently,2010,42,11,2,0.0,2164598183,Ki Hoon Lee,0,0.06119680060861036,-0.09569910702658228
+2140259667,Odysseus a High-Performance ORDBMS Tightly-Coupled with Spatial Database Features,2007,21,4,1,1.0,1933211966,Kyu Young Whang,0,0.6802012567224373,0.4411225637137376
+2119584606,Prefetching based on the type-level access pattern in object-relational DBMSs,2001,13,11,1,1.0,1933211966,Kyu Young Whang,0,0.46829547727432724,0.21890826079060374
+2143749491,An update-risk based approach to TTL estimation in Web caching,2002,11,21,2,0.0,2203241996,Jeong Joon Lee,0,-0.12148523988669345,0.1572088724734156
+2153214875,Continuous query processing in data streams using duality of data and queries,2006,23,45,4,0.0,2158570941,Hyo Sang Lim,0,-0.17022677757374974,-0.43914711460203376
+2165719528,A seamless integration in object-oriented database systems,1989,11,4,1,1.0,1933211966,Kyu Young Whang,0,1.9981991909643013,0.32635260701875346
+2157365498,Supporting universal quantification in a two-dimensional database query language,1990,12,10,1,1.0,1933211966,Kyu Young Whang,0,0.8579907000468351,0.4458710152414793
+2166756008,Odysseus a high-performance ORDBMS tightly-coupled with IR features,2005,8,30,1,1.0,1933211966,Kyu Young Whang,0,-0.37690408208994525,-0.35384698361128514
+2160761840,Page-differential logging an efficient and DBMS-independent approach for storing data into flash memory,2010,21,32,2,0.0,2154637002,Yi Reun Kim,0,-0.0041099411153885,0.0447066884760059
+2152431134,High-performance expert system-DBMS interface for network management and control,1989,21,1,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+2155417005,Structural optimization of a full-text n-gram index using relational normalization,2008,38,9,1,1.0,1933211966,Kyu Young Whang,0,-0.36345744074295655,1.6770791386701058
+2167621905,Database Design for Real-World E-Commerce Systems,2000,7,7,2,0.0,2148782644,Il Yeol Song,0,2.63344054147481,0.6137866847654112
+2149986723,The dynamic predicate integrating access control with query processing in XML databases,2007,35,20,2,0.777778,2134045017,Jae Gil Lee,0,0.6317085533308089,-0.016420370295339437
+2257965536,Issues in Object-Oriented Database Systems Research,1991,3,1,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+2243439514,Method for recovering data in a storage system,2008,21,3,1,1.0,1933211966,Kyu Young Whang,0,0.38009049917121435,0.45246057348231067
+2244483101,Duality-based subsequence matching in time-series databases,2001,0,0,2,0.794118,2307192335,Yang Sae Moon,0,-0.0041099411153885,0.0447066884760059
+2287821765,Subsequence matching method using duality in constructing windows in time-series databases,2000,25,39,1,1.0,1933211966,Kyu Young Whang,0,0.1936726118231771,0.32070924132986206
+2370738924,Adaptive Lock Escalation in Database Management Systems,2001,0,0,1,1.0,1933211966,Kyu Young Whang,0,0.08714749877850951,0.4329350279734263
+2401477183,METHOD OF STORING DATA INTO FLASH MEMORY IN A DBMS-INDEPENDENT MANNER USING THE PAGE-DIFFERENTIAL,2009,16,23,1,1.0,1933211966,Kyu Young Whang,0,-1.036272139734633,2.5078147583247365
+2407137829,Special issue Hippocratic XML databases a model and an access control mechanism,2006,0,0,2,0.777778,2134045017,Jae Gil Lee,0,1.4696512588664188,-0.7012448137129518
+2407238855,Odysseus/Parallel-OOSQL A Parallel Search Engine using the Odysseus DBMS Tightly-Coupled with IR Capability,2008,0,0,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+2407521379,Prefetching based on the Type-Level Access Pattern in Object-Relational DBMSs,2001,0,0,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+2396461391,ODYSSEUS/DM Design and Implementation of a Data Mining System Tightly-Coupled with the Odysseus Object-Relational DBMS,2012,0,0,1,1.0,1933211966,Kyu Young Whang,0,1.3594718004181872,-0.12067364239359529
+2396554059,Efficient Buffer Coherency Management for a Shared-Disk based Multiple-Server DBMS,2009,0,0,1,1.0,1933211966,Kyu Young Whang,0,0.38009049917121435,0.45246057348231067
+2408095055,Letter from the New TCDE Chair,2012,0,0,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+2474091319,Off ice-by-Example An Integrated Off ice System and Database Manager,1987,26,0,2,0.0,198969157,Vance E. Waddle,0,0.06899310371302751,-0.06974288671007853
+2516399355,Database Systems for Advances Applications,2004,0,1,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+2577739732,Call for Nominations for TCDE Chair,2016,0,0,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+2647982597,Maximal object+ An acyclic semantic structure on the universal relation model,2017,24,0,2,0.0,2170508958,In Joong Kim,0,1.179958871186385,0.7026827481893813
+2599681005,Moving metadata from ad hoc files to database tables for robust highly available and scalable HDFS,2017,25,4,5,0.0,2141299407,Hee Sun Won,0,0.11899271864905726,0.0589179020486954
+2616105174,Letter from the TCDE Chair,2013,0,0,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059
+2790077808,Query Optimization in a Main-Memory-Resident Database System,1989,0,0,1,1.0,1933211966,Kyu Young Whang,0,0.014532710543751099,0.030944858938630852
+2893083185,Recent Trends of Big Data Platforms and Applications,2018,0,0,1,1.0,1933211966,Kyu Young Whang,0,-0.13167518268572373,1.0829062090043997
+2950718800,Page-Differential Logging An Efficient and DBMS-independent Approach for Storing Data into Flash Memory,2010,13,0,2,0.0,2154637002,Yi Reun Kim,0,-0.0041099411153885,0.0447066884760059
+2982339301,Building social networking services systems using the relational shared-nothing parallel DBMS,2020,10,0,1,1.0,1933211966,Kyu Young Whang,0,0.792755641543528,0.5297033245707087
+3026995795,ODYS è¹‚ë¬ì ¹ DBMS/å¯ƒ ë±ë¿ï§žê¾©ì“£ ê¾ªë¸³ ë‹¿í€¬ Î¼ê½¦ è«› éº ì„í‡ ï§â‘¤ë±¢ ã…ºí€Ž è«› æ´Ñ‹ì½,2013,0,0,1,1.0,1933211966,Kyu Young Whang,0,-0.0041099411153885,0.0447066884760059

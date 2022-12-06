@@ -1,0 +1,28 @@
+1035856500,SHARED LIBRARY IN A DATA STORAGE SYSTEM,2013,108,19,2,0.128976,155138609,Rajiv Kottomtharayil,0,-0.0041099411153885,0.0447066884760059
+1630609198,Information management of data associated with multiple cloud services,2015,262,56,1,1.0,2006218036,Manoj Kumar Vijayan,0,-0.40975864434508047,0.2110873139452707
+1877461462,Data object store and server for a cloud storage environment including data deduplication and data management across multiple cloud storage sites,2010,244,481,2,0.296296,155138609,Rajiv Kottomtharayil,0,-0.2577355748348513,0.5122408196632936
+1906957602,Systems and methods for managing single instancing data,2009,284,156,2,0.0,155138609,Rajiv Kottomtharayil,0,-0.16728218469058034,0.04672877282242786
+1911635971,Data transfer techniques within data storage devices such as network attached storage performing data migration,2009,410,94,2,0.0,155138609,Rajiv Kottomtharayil,0,-0.028652425078279354,0.07466824008298116
+1941002719,Cloud gateway system for managing data storage to cloud storage sites,2010,101,478,2,0.296296,155138609,Rajiv Kottomtharayil,0,-0.2577355748348513,0.5122408196632936
+1825651452,Performing data storage operations in a cloud storage environment including searching encryption and indexing,2010,162,150,2,0.296296,155138609,Rajiv Kottomtharayil,0,-0.2577355748348513,0.5122408196632936
+1783793609,Cloud storage and networking agents including agents for utilizing multiple different cloud storage sites,2010,163,252,2,0.296296,155138609,Rajiv Kottomtharayil,0,-0.2577355748348513,0.5122408196632936
+1603421532,EXTENSIBLE DATA DEDUPLICATION SYSTEM AND METHOD,2010,8,60,1,1.0,2006218036,Manoj Kumar Vijayan,0,-0.10181520141965575,0.4407775044453373
+2097946932,Storing a variable number of instances of data objects,2009,277,111,1,1.0,2006218036,Manoj Kumar Vijayan,0,0.09560153568394734,0.34384522677555335
+2101008724,De-duplication systems and methods for application-specific data,2010,299,92,2,0.296296,155138609,Rajiv Kottomtharayil,0,-0.4799225015551029,0.373705192789363
+2098562945,Performing data storage operations with a cloud environment including containerized deduplication data pruning and data transfer,2010,194,269,2,0.296296,155138609,Rajiv Kottomtharayil,0,-0.2577355748348513,0.5122408196632936
+2096057498,Systems and methods for retaining and using data block signatures in data protection operations,2010,442,68,1,1.0,2006218036,Manoj Kumar Vijayan,0,-0.0041099411153885,0.0447066884760059
+2187803560,Snapshot readiness checking and reporting,2014,538,57,2,0.0973018,155138609,Rajiv Kottomtharayil,0,-0.26111576430640643,-0.19302535071852145
+2199619383,Managing deletions from a deduplication database,2019,518,32,1,1.0,2006218036,Manoj Kumar Vijayan,0,0.13453501374110818,0.5126176152729536
+2303799582,USE OF TEMPORARY SECONDARY COPIES IN FAILOVER OPERATIONS,2014,169,28,2,0.0973018,155138609,Rajiv Kottomtharayil,0,-0.4870525199547389,0.3128312422061163
+2304933320,Synchronization of local secondary copies with a remote storage management component,2014,167,26,2,0.0973018,155138609,Rajiv Kottomtharayil,0,-0.15992161717643283,0.29490495296439356
+2276620180,High availability distributed deduplicated storage system,2014,501,71,1,1.0,2006218036,Manoj Kumar Vijayan,0,-0.10181520141965575,0.4407775044453373
+2288848344,Use of auxiliary data protection software in failover operations,2014,187,14,2,0.0973018,155138609,Rajiv Kottomtharayil,0,-0.4870525199547389,0.3128312422061163
+2294251206,Information management cell with failover management capability,2014,175,11,2,0.0973018,155138609,Rajiv Kottomtharayil,0,-0.40975864434508047,0.2110873139452707
+2310548745,Sharing of secondary storage data,2014,123,19,1,1.0,2006218036,Manoj Kumar Vijayan,0,-0.34857978327751216,-0.2513987233039086
+2279025161,MAINTAINING A DEDUPLICATION DATABASE,2014,299,35,1,1.0,2006218036,Manoj Kumar Vijayan,0,1.6486713392327963,0.6012526611479934
+2398696382,Fast deduplication data verification,2016,67,28,1,1.0,2006218036,Manoj Kumar Vijayan,0,-0.35164825595291177,0.25612462945142606
+2514724268,Scalable auxiliary copy processing using media agent resources,2018,383,4,1,1.0,2006218036,Manoj Kumar Vijayan,0,-0.3025503095244412,0.051269222972467395
+2510051752,Scalable auxiliary copy processing in a data storage management system using media agent resources,2019,383,4,1,1.0,2006218036,Manoj Kumar Vijayan,0,-0.5166512250862091,-0.08582111303758992
+2557511927,Efficient deduplication database validation,2015,66,21,1,1.0,2006218036,Manoj Kumar Vijayan,0,-0.10181520141965575,0.4407775044453373
+2531966551,Highly reusable deduplication database after disaster recovery,2016,508,16,1,1.0,2006218036,Manoj Kumar Vijayan,0,0.016940358221529478,0.5576292323275888
+2735470190,Distributed file system in a distributed deduplication data storage system,2017,512,12,1,1.0,2006218036,Manoj Kumar Vijayan,0,0.14467194379482634,0.23362529123557685

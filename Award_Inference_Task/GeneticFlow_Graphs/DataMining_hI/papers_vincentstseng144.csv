@@ -1,0 +1,200 @@
+17956733,Mining sequential rules common to several sequences with the window size constraint,2012,10,18,3,0.8125,2776237762,Philippe Fournier Viger,0,0.003708468606338,0.082832279151172
+190049315,Mining top-k association rules,2012,15,34,3,0.8125,2776237762,Philippe Fournier Viger,0,-0.34841194659538965,-0.10142585373365
+140189195,TripCloud An Intelligent Cloud-Based Trip Recommendation System,2013,4,4,4,0.818182,2159909716,Josh Jia Ching Ying,0,0.15959524434075065,0.5672434792527444
+40547947,A one-phase method for mining high utility mobile sequential patterns in mobile commerce environments,2012,12,18,4,1.0,2575054689,Bai En Shie,0,-0.058301978929843866,0.44549354178256717
+63131150,Mining top-k sequential rules,2011,21,22,2,0.8125,2776237762,Philippe Fournier Viger,0,-0.34841194659538965,-0.10142585373365
+114461282,Compact Prediction Tree A Lossless Model for Accurate Sequence Prediction,2013,13,25,3,0.789474,112779420,Ted Gueniche,0,0.003708468606338,0.082832279151172
+50012472,Mining maximal sequential patterns without candidate maintenance,2013,17,33,3,0.72,2776237762,Philippe Fournier Viger,0,-0.313250122242983,0.3019422694332269
+101214207,Mining Fuzzy Association Patterns in Gene Expression Databases,2006,24,1,1,1.0,2023431847,Vincent S. Tseng,0,-0.34841194659538965,-0.10142585373365
+153355562,Novel Concise Representations of High Utility Itemsets Using Generator Patterns,2014,18,27,3,0.569444,2776237762,Philippe Fournier Viger,0,0.003708468606338,0.082832279151172
+600165676,Reliable Early Classification on Multivariate Time Series with Numerical and Categorical Attributes,2015,17,23,3,1.0,2652518183,Yu Feng Lin,0,0.43162625009792,0.20195636031746017
+625314000,9P-E-6 Query-based Weighted Fuzzy Biclustering for Microarray Data Analysis(Room E International session),2010,0,0,1,1.0,2023431847,Vincent S. Tseng,0,-0.7505723722475113,2.623123907163482
+802853441,MINING TEMPORAL RARE UTILITY ITEMSETS IN LARGE DATABASES USING RELATIVE UTILITY THRESHOLDS,2008,0,23,1,1.0,2023431847,Vincent S. Tseng,0,-0.4367939423668805,0.030536103247662937
+1490827151,A cluster-based genetic-fuzzy mining approach for items with multiple minimum supports `,2008,12,4,1,1.0,2023431847,Vincent S. Tseng,0,-0.4360259069610095,1.240360158421115
+1203759442,Weighted frequent itemset mining over uncertain databases,2016,29,26,5,0.103933,2187636103,Jerry Chun Wei Lin,0,-0.2887870047435127,-0.09145010706416894
+1245331335,Advances in Knowledge Discovery and Data Mining 17th Pacific-Asia Conference PAKDD 2013 Gold Coast Australia April 14-17 2013 Proceedings Part II,2013,0,0,2,0.0,447472268,æµ© å…ƒç”°,0,0.11020957836365575,0.7016632351512385
+1567108690,Fining Active Membership Functions in Fuzzy Data Mining,2008,9,5,4,0.0,2123991549,Tzung Pei Hong,0,-0.34841194659538965,-0.10142585373365
+1595626366,Mining Linguistic Trends from Time Series,2008,12,1,3,0.833333,2148205043,Chun Hao Chen,0,-0.0769353016057025,-0.2600287055078183
+1842433003,Mining high utility mobile sequential patterns in mobile commerce environments,2011,16,57,3,1.0,2575054689,Bai En Shie,0,0.003708468606338,0.082832279151172
+1885324322,Mining top-K non-redundant association rules,2012,13,33,2,0.8125,2776237762,Philippe Fournier Viger,0,-0.34841194659538965,-0.10142585373365
+1943890761,Design of an Integrated and Effective Platform for Gene Expression Data Mining,2004,21,1,1,1.0,2023431847,Vincent S. Tseng,0,-0.0421600837397371,0.7517471605365825
+1655510541,Mining temporal and spatial object relations in multimedia contents,2005,8,0,1,1.0,2023431847,Vincent S. Tseng,0,0.5607569215510375,0.4788423126697654
+1584979523,A Novel Parameter-Less Clustering Method for Mining Gene Expression Data,2004,10,1,1,1.0,2023431847,Vincent S. Tseng,0,-0.6083145285418416,2.585647396661628
+1603578324,Constrained clustering for gene expression data mining,2008,11,1,1,1.0,2023431847,Vincent S. Tseng,0,-0.8837660796070181,2.98044225129745
+1983765024,Mining High Utility Sequential Patterns from Evolving Data Streams,2015,9,14,2,0.4,155399095,Morteza Zihayat,0,-0.16284876468291543,0.2372142023012828
+1971697515,Mining high utility episodes in complex event sequences,2013,35,69,4,0.951219,2111809384,Cheng Wei Wu,0,0.08509740621672969,-0.14294008941508957
+1984488826,An efficient algorithm for mining temporal high utility itemsets from data streams,2008,22,66,2,0.666667,2166987447,Chun Jung Chu,0,-0.30497288708886067,0.12095343664968461
+1972365455,Analyzing time-series data by fuzzy data-mining technique,2005,28,4,3,0.818182,2148205043,Chun Hao Chen,0,-0.4367939423668805,0.030536103247662937
+1984707343,Classify By Representative Or Associations (CBROA) a hybrid approach for image classification,2005,27,11,1,1.0,2023431847,Vincent S. Tseng,0,0.08482361304464368,-0.10239929416184818
+1967457756,Reducing Database Scans for On-shelf Utility Mining,2011,16,1,1,1.0,2023431847,Vincent S. Tseng,0,-0.1071931497347323,0.3242721482837629
+2003018564,Discovery of high utility itemsets from on-shelf time periods of products,2011,18,65,3,0.533333,2150324475,Guo Cheng Lan,0,-0.0769353016057025,-0.2600287055078183
+1987548073,Mining Cluster-Based Mobile Sequential Patterns in Location-Based Service Environments,2009,42,39,2,0.923077,2005838078,Eric Hsueh Chan Lu,0,-0.1987542573848585,0.20282830881600553
+1996571564,RETRACTED Efficient mining of temporal emerging itemsets from data streams,2009,28,8,1,1.0,2023431847,Vincent S. Tseng,0,-0.30497288708886067,0.12095343664968461
+1989683298,Towards Parameter-less and Similarity-based Fuzzy Clustering based on PCM Method,2006,22,0,1,1.0,2023431847,Vincent S. Tseng,0,-0.9487142537414304,3.2903384563134876
+1996825547,A Summary of Genetic-Fuzzy Data Mining Techniques,2010,9,3,3,0.0,2123991549,Tzung Pei Hong,0,0.9968647524245552,-0.33985852591407717
+1989867878,Preference-oriented mining techniques for location-based store search,2013,28,8,3,0.0,2119571821,Jess Soo Fong Tan,0,0.7085921382736772,0.3480740321406557
+1995152885,Effective content-based video retrieval using pattern-indexing and matching techniques,2010,20,29,4,0.8,2149494671,Ja Hwung Su,0,-0.13275296294680305,-0.071629888206014
+1995161416,Personalized Music Recommendation by Mining Social Media Tags,2013,14,18,3,0.0,2802566320,Ja Hwung Su,0,0.4727513962832003,0.12278927121225484
+1991704213,Efficient algorithms for mining maximal high utility itemsets from data streams with different models,2012,33,54,3,1.0,2575054689,Bai En Shie,0,-0.1071931497347323,0.3242721482837629
+1991725500,Fuzzy data mining for time-series data,2012,31,34,3,0.427867,2148205043,Chun Hao Chen,0,-0.30497288708886067,0.12095343664968461
+1991850212,A two-phase clustering approach for peak alignment in mining mass spectrometry data,2009,15,2,1,1.0,2023431847,Vincent S. Tseng,0,-0.49680371111629457,1.1825094605693118
+1990142825,Mining Partially-Ordered Sequential Rules Common to Multiple Sequences,2015,35,27,3,0.426282,2776237762,Philippe Fournier Viger,0,-0.7808277189222126,0.10997207871835261
+2002422448,Efficient Algorithms for Mining the Concise and Lossless Representation of High Utility Itemsets,2015,31,56,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+1990224274,Data mining for biomarker discovery The time is ripe,2009,0,0,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2001103600,CTGR-Span Efficient mining of cross-timepoint gene regulation sequential patterns from microarray datasets,2012,13,2,3,1.0,2154141014,Chun Pei Cheng,0,0.017985198940448182,-0.12366063034438994
+2006400338,A novel prediction-based strategy for object tracking in sensor networks by mining seamless temporal movement patterns,2010,25,26,3,0.0,2121275728,Kawuu W. Lin,0,-0.2983293989047047,-0.1727161943749555
+2011809582,Mining fastest path from trajectories with multiple destinations in road networks,2011,44,16,3,1.0,2005838078,Eric Hsueh Chan Lu,0,0.003708468606338,0.082832279151172
+2010213220,A hybrid scheme for energy-efficient object tracking in sensor networks,2013,34,4,3,1.0,2167380234,Ming Hua Hsieh,0,-0.0769353016057025,-0.2600287055078183
+2024632033,Mining Potential High-Utility Itemsets over Uncertain Databases,2015,19,4,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2012392778,Time series pattern discovery by a PIP-based evolutionary approach,2013,39,8,2,0.367307,2148205043,Chun Hao Chen,0,-0.21934185016841626,0.6056873083074126
+2028623526,Efficient mining of multilevel gene association rules from microarray and gene ontology,2009,35,11,1,1.0,2023431847,Vincent S. Tseng,0,-0.3797386873779833,0.3085635433321177
+2023774365,An improved approach for sequential utility pattern mining,2012,7,4,3,0.533333,2150324475,Guo Cheng Lan,0,0.003708468606338,0.082832279151172
+2018823235,Mining fuzzy frequent trends from time series,2009,31,7,3,0.760818,2148205043,Chun Hao Chen,0,-0.0632253446896156,-0.4113309839681853
+2041884065,Efficient Mining of a Concise and Lossless Representation of High Utility Itemsets,2011,27,36,4,1.0,2111809384,Cheng Wei Wu,0,0.003708468606338,0.082832279151172
+2045567918,Hybrid data mining approaches for prevention of drug dispensing errors,2011,26,4,4,0.760953,2158063107,Lien Chin Chen,0,-0.006754886017256323,0.6246045445529198
+2049392413,Prediction of user navigation patterns by mining the temporal web usage evolution,2008,20,18,1,1.0,2023431847,Vincent S. Tseng,0,0.009758066417528466,-2.5758724669891975
+2035349694,Personalized trip recommendation with multiple constraints by mining user check-in behaviors,2012,16,73,3,1.0,2005838078,Eric Hsueh Chan Lu,0,0.08329114195231535,0.32893178638165566
+2051234849,Mining User Check-In Behavior with a Random Walk for Urban Point-of-Interest Recommendations,2014,38,43,3,1.0,2159909716,Josh Jia Ching Ying,0,0.2856280625866171,-0.0299032071043782
+2033673837,An improved approach to find membership functions and multiple minimum supports in fuzzy data mining,2009,30,23,3,0.760818,2148205043,Chun Hao Chen,0,0.003708468606338,0.082832279151172
+2033727591,Discovering utility-based episode rules in complex event sequences,2015,31,14,4,1.0,2652518183,Yu Feng Lin,0,-0.7847977613221921,-0.7200786647069364
+2049785083,Efficient Algorithms for Mining High Utility Itemsets from Transactional Databases,2013,39,286,1,1.0,2023431847,Vincent S. Tseng,0,-0.5406273508343923,-0.1092707619320612
+2053309697,An efficient projection-based indexing approach for mining high utility itemsets,2014,30,76,3,0.272194,2150324475,Guo Cheng Lan,0,-0.7228028456951604,-0.37485068941286387
+2053729424,A Comparison of Different Fitness Functions for Extracting Membership Functions Used in Fuzzy Data Mining,2007,12,7,3,0.833333,2148205043,Chun Hao Chen,0,0.003708468606338,0.082832279151172
+2043229934,A multi-objective genetic-fuzzy mining algorithm,2008,15,9,3,0.833333,2148205043,Chun Hao Chen,0,-0.2848009883361741,-0.2685804658780362
+2039675281,Location semantics prediction for living analytics by mining smartphone data,2014,16,7,3,0.0,2991791853,Chi Min Huang,0,0.24013395157502399,-0.0997437791874282
+2070154563,A Novel Similarity-Based Fuzzy Clustering Algorithm by Integrating PCM and Mountain Method,2007,22,37,1,1.0,2023431847,Vincent S. Tseng,0,-0.8264873338099699,3.000219814068836
+2077451659,Semantic trajectory mining for location prediction,2011,18,191,4,1.0,2159909716,Josh Jia Ching Ying,0,-0.2983293989047047,-0.1727161943749555
+2056661435,Energy-efficient real-time object tracking in multi-level sensor networks by mining and predicting movement patterns,2009,35,25,1,1.0,2023431847,Vincent S. Tseng,0,-0.13612404440249937,0.9368788581015002
+2065497562,Genetic-fuzzy mining with multiple minimum supports based on fuzzy clustering,2011,38,7,3,0.544143,2148205043,Chun Hao Chen,0,-0.430650964839125,1.286669198562323
+2069133019,A modified approach to speed up genetic-fuzzy data mining with divide-and-conquer strategy,2007,17,5,3,0.833333,2148205043,Chun Hao Chen,0,-0.3797386873779833,0.3085635433321177
+2071038113,Efficient vertical mining of high utility quantitative itemsets,2014,21,3,3,0.0,2551213982,Chia Hua Li,0,0.003708468606338,0.082832279151172
+2074611291,On Genetic-Fuzzy Data Mining Techniques,2007,40,3,2,0.0,2123991549,Tzung Pei Hong,0,-0.32506151505756703,0.27519590333328947
+2071242348,Efficient algorithms for discovering high utility user behavior patterns in mobile commerce environments,2013,29,31,3,0.916667,2575054689,Bai En Shie,0,-0.313250122242983,0.3019422694332269
+2099398039,FHM Faster High-Utility Itemset Mining using Estimated Utility Co-occurrence Pruning,2014,13,174,4,0.569444,2776237762,Philippe Fournier Viger,0,0.003708468606338,0.082832279151172
+2091047274,On-shelf utility mining with negative item values,2014,23,26,4,0.272194,2150324475,Guo Cheng Lan,0,-0.3049247326517621,0.1886461481807304
+2099776062,Efficiently Mining Gene Expression Data via Integrated Clustering and Validation Techniques,2002,13,1,1,1.0,2023431847,Vincent S. Tseng,0,0.1503543346847443,0.23285140643248486
+2103398794,An energy-efficient approach for real-time tracking of moving object in multi-level sensor networks,2005,14,5,1,1.0,2023431847,Vincent S. Tseng,0,-0.14148780125631027,0.551936721034423
+2100435722,Mining Region-Based Movement Patterns for Energy-Efficient Object Tracking in Sensor Networks,2008,17,4,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2079450376,FrauDetector A Graph-Mining-based Framework for Fraudulent Phone Call Detection,2015,31,17,1,1.0,2023431847,Vincent S. Tseng,0,0.16137570083884492,-1.5378947747421983
+2098184792,WF-MSB A weighted fuzzy-based biclustering method for gene expression data,2011,38,13,3,0.760953,2158063107,Lien Chin Chen,0,-0.7505723722475113,2.623123907163482
+2101204485,Cluster-Based Evaluation in Fuzzy-Genetic Data Mining,2008,26,43,2,0.833333,2148205043,Chun Hao Chen,0,-0.5037440861655766,0.8308946669218528
+2104333461,A New Method for Image Classification by Using Multilevel Association Rules,2005,20,31,1,1.0,2023431847,Vincent S. Tseng,0,0.5250596471032448,0.24302654394178322
+2101414633,Energy Efficient Object Tracking in Sensor Networks by Mining Temporal Moving Patterns,2008,17,9,1,1.0,2023431847,Vincent S. Tseng,0,-0.3049247326517621,0.1886461481807304
+2079817859,A framework for cloud-based POI search and trip planning systems,2013,6,0,2,0.798674,2005838078,Eric Hsueh Chan Lu,0,0.08329114195231535,0.32893178638165566
+2087053754,Effective peak alignment for mass spectrometry data analysis using two-phase clustering approach,2014,23,2,4,1.0,2282402066,Yu Cheng Liu,0,-0.49680371111629457,1.1825094605693118
+2094084410,A novel data mining mechanism considering bio-signal and environmental data with applications on asthma monitoring,2011,33,37,3,0.8,2341290231,Chao Hui Lee,0,-0.09027924680797415,0.4573351665286616
+2101906654,Mining the Shortest Path within a Travel Time Constraint in Road Network Environments,2008,18,8,3,0.923077,2005838078,Eric Hsueh Chan Lu,0,0.003708468606338,0.082832279151172
+2090714402,Mining web navigation patterns with dynamic thresholds for navigation prediction,2012,17,4,3,1.0,2168039920,Jia Ching Ying,0,0.03516060586539063,-2.08929736827046
+2141138172,Semantic trajectory-based high utility item recommendation system,2014,22,18,5,1.0,2168039920,Jia Ching Ying,0,-0.47108033172670616,-0.2958411922058386
+2123488392,RuleGrowth mining sequential rules common to several sequences by pattern-growth,2011,15,60,3,0.8125,2776237762,Philippe Fournier Viger,0,-0.7373463175343423,0.2640590605837154
+2114797768,Mining user similarity from semantic trajectories,2010,11,134,5,1.0,2159909716,Josh Jia Ching Ying,0,-0.4987262043841383,0.08049389513225608
+2109026104,Projection-Based Utility Mining with an Efficient Indexing Mechanism,2010,12,2,1,1.0,2023431847,Vincent S. Tseng,0,-0.13275296294680305,-0.071629888206014
+2112177610,Energy efficient strategies for object tracking in sensor networks A data mining approach,2007,35,38,1,1.0,2023431847,Vincent S. Tseng,0,-0.25141262320905083,-0.3161073596389065
+2118150351,A divide-and-conquer genetic-fuzzy mining approach for items with multiple minimum supports,2008,18,2,3,0.833333,2148205043,Chun Hao Chen,0,0.003708468606338,0.082832279151172
+2132818402,Efficient Incremental Mining of Qualified Web Traversal Patterns without Scanning Original Databases,2009,11,3,2,1.0,2168039920,Jia Ching Ying,0,-0.06569952491522366,-1.577633918367797
+2129936293,Efficiently Mining Gene Expression Data via a Novel Parameterless Clustering Method,2005,19,118,1,1.0,2023431847,Vincent S. Tseng,0,-0.6585454789770376,2.5235688156386953
+2121161839,Mining geographic-temporal-semantic patterns in trajectories for location prediction,2013,39,72,3,0.818182,2159909716,Josh Jia Ching Ying,0,-0.2983293989047047,-0.1727161943749555
+2127125676,TNS mining top-k non-redundant sequential rules,2013,21,19,2,0.72,2776237762,Philippe Fournier Viger,0,0.003708468606338,0.082832279151172
+2124318236,Effective Ranking and Recommendation on Web Page Retrieval by Integrating Association Mining and PageRank,2008,8,10,3,0.0,2952321225,Ja Hwung Su,0,0.965312416521899,-3.530211506945629
+2121536640,Discovering relational-based association rules with multiple minimum supports on microarray datasets,2011,36,22,3,1.0,2282402066,Yu Cheng Liu,0,-0.34841194659538965,-0.10142585373365
+2124552104,PTCR-Miner Progressive Temporal Class Rule Mining for Multivariate Temporal Data Classification,2010,26,2,2,0.8,2341290231,Chao Hui Lee,0,-0.3884071435037334,0.2114477877254637
+2133620064,A Cluster-Based Fuzzy-Genetic Mining Approach for Association Rules and Membership Functions,2006,24,14,3,0.818182,2148205043,Chun Hao Chen,0,-0.381135865274409,0.4159034833451143
+2139741811,Analysis and Prevention of Dispension Errors by Using Data Mining Techniques,2007,17,2,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2139750713,An Efficient Approach to Identifying and Validating Clusters in Multivariate Datasets with Applications in Gene Expression Analysis,2004,27,3,1,1.0,2023431847,Vincent S. Tseng,0,-0.21934185016841626,0.6056873083074126
+2139872359,Urban point-of-interest recommendation by mining user check-in behaviors,2012,21,72,4,0.818182,2159909716,Josh Jia Ching Ying,0,0.2856280625866171,-0.0299032071043782
+2113349736,Development of a Vital Sign Data Mining System for Chronic Patient Monitoring,2008,11,15,1,1.0,2023431847,Vincent S. Tseng,0,0.9484472051186577,0.9164309077041961
+2137002658,Agent-based optimization of biological response networks,2010,28,0,1,1.0,2023431847,Vincent S. Tseng,0,0.0102516156092046,0.44857966801068383
+2140132029,Mining High Transaction-Weighted Utility Itemsets,2010,17,5,1,1.0,2023431847,Vincent S. Tseng,0,-0.2848009883361741,-0.2685804658780362
+2134159367,Prediction of regulatory gene pairs using dynamic time warping and gene ontology,2014,40,3,4,0.0,2119192690,Andy C. Yang,0,0.3311084524049866,0.26300344268183734
+2122468393,Using Partially-Ordered Sequential Rules to Generate More Accurate Sequence Prediction,2012,17,17,3,0.8125,2776237762,Philippe Fournier Viger,0,0.003708468606338,0.082832279151172
+2143428105,UP-Growth an efficient algorithm for high utility itemset mining,2010,11,227,1,1.0,2023431847,Vincent S. Tseng,0,-0.899618303124234,-0.4499953961371552
+2131292638,Speeding up genetic-fuzzy mining by fuzzy clustering,2009,18,6,3,0.760818,2148205043,Chun Hao Chen,0,-0.430650964839125,1.286669198562323
+2107807603,A novel two-level clustering method for time series data analysis,2010,22,35,3,0.0,2171714530,Cheng Ping Lai,0,-0.8264873338099699,3.000219814068836
+2113822500,Intelligent Concept-Oriented and Content-Based Image Retrieval by using data mining and query decomposition techniques,2008,9,4,1,1.0,2023431847,Vincent S. Tseng,0,-0.1282068146910527,0.2803383858425407
+2107934556,Efficient Mining of Temporal High Utility Itemsets from Data streams,2006,18,61,1,1.0,2023431847,Vincent S. Tseng,0,-0.30497288708886067,0.12095343664968461
+2143981222,Discovering Gene Clusters via Integrated Analysis on Time-Series and Group-Comparative Microarray Datasets,2006,15,0,1,1.0,2023431847,Vincent S. Tseng,0,-0.539708095344538,1.1191691876648882
+2140914274,Online mining of temporal maximal utility itemsets from data streams,2010,18,50,2,0.942857,2575054689,Bai En Shie,0,-0.1071931497347323,0.3242721482837629
+2183367390,Mining high-utility itemsets with various discount strategies,2015,21,2,5,0.103933,2187636103,Jerry Chun Wei Lin,0,-0.8332563226818618,-0.39522492629759415
+2165245740,Mining temporal moving patterns in object tracking sensor networks,2005,20,24,1,1.0,2023431847,Vincent S. Tseng,0,-0.05754412141947964,0.3747844159756932
+2144277033,Gene Relation Discovery by Mining Similar Subsequences in Time-Series Microarray Data,2007,3,7,1,1.0,2023431847,Vincent S. Tseng,0,0.08553625135692525,-0.2938368925070275
+2162214498,Mining top-K high utility itemsets,2012,24,81,3,1.0,2111809384,Cheng Wei Wu,0,0.003708468606338,0.082832279151172
+2153487450,An efficient method for mining cross-timepoint gene regulation sequential patterns from time course gene expression datasets,2013,44,4,4,1.0,2154141014,Chun Pei Cheng,0,0.003708468606338,0.082832279151172
+2165636861,An Integrated Data Mining System for Patient Monitoring with Applications on Asthma Care,2008,6,13,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2168664605,A SPEA2-based genetic-fuzzy mining algorithm,2010,25,8,3,0.661273,2148205043,Chun Hao Chen,0,-0.34841194659538965,-0.10142585373365
+2147669889,A Genetic-Fuzzy Mining Approach for Items with Multiple Minimum Supports,2007,28,5,3,0.833333,2148205043,Chun Hao Chen,0,-0.575997348589379,1.162816957132177
+2183819092,Efficient Algorithms for Mining Top-K High Utility Itemsets,2016,37,105,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2162660293,An energy saving strategy for object tracking in sensor networks by mining seamless temporal moving patterns,2008,17,0,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2165788291,A three-scan algorithm to mine high on-shelf utility itemsets,2010,13,4,3,0.508475,2150324475,Guo Cheng Lan,0,0.003708468606338,0.082832279151172
+2181297934,Mining Users Behaviors and Environments for Semantic Place Prediction,2012,11,15,1,1.0,2023431847,Vincent S. Tseng,0,1.123043582728811,-0.7829239971861154
+2160034670,Mining temporal mobile sequential patterns in location-based service environments,2007,16,29,1,1.0,2023431847,Vincent S. Tseng,0,-0.25141262320905083,-0.3161073596389065
+2169389908,Using pruning and filtering strategies to speed-up projection-based utility mining,2011,11,1,1,1.0,2023431847,Vincent S. Tseng,0,-0.0769353016057025,-0.2600287055078183
+2166481266,An efficient algorithm for mining high utility itemsets with negative item values in large databases,2009,22,47,2,0.666667,2166987447,Chun Jung Chu,0,-0.34841194659538965,-0.10142585373365
+2154484565,A Less Domain-dependent Fuzzy Mining Algorithm for Frequent Trends,2006,29,1,3,0.818182,2148205043,Chun Hao Chen,0,-0.0632253446896156,-0.4113309839681853
+2151607268,A fast algorithm for mining frequent closed itemsets over stream sliding window,2011,25,24,4,0.0,2171860369,Show Jane Yen,0,0.003708468606338,0.082832279151172
+2169611660,A novel method for mining temporally dependent association rules in three-dimensional microarray datasets,2010,11,9,1,1.0,2023431847,Vincent S. Tseng,0,-0.5799141619576829,0.7679558940940482
+2160550980,Efficient Relevance Feedback for Content-Based Image Retrieval by Mining User Navigation Patterns,2011,26,143,4,0.8,2149494671,Ja Hwung Su,0,0.028729020087237305,0.4114139207222827
+2149108106,Updating high average-utility itemsets in dynamic databases,2011,13,4,1,1.0,2023431847,Vincent S. Tseng,0,-0.3291687920599855,-0.0263937726674236
+2164030206,A Cluster-Based Divide-and-Conquer Genetic-Fuzzy Mining Approach for Items with Multiple Minimum Supports,2010,12,0,1,1.0,2023431847,Vincent S. Tseng,0,-0.3797386873779833,0.3085635433321177
+2149167871,Feature Selection for Medical Data Mining Comparisons of Expert Judgment and Automatic Approaches,2006,13,63,3,0.0,2150381315,Tsang Hsiang Cheng,0,0.5220327949309697,0.44064405333509243
+2188078393,Hewin High expected weighted itemset mining in uncertain databases,2015,13,1,4,0.103933,2187636103,Jerry Chun Wei Lin,0,-0.899618303124234,-0.4499953961371552
+2182753015,Demographic Prediction Based on Users Mobile Behaviors,2012,9,10,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2152671886,Effective temporal data classification by integrating sequential pattern mining and probabilistic induction,2009,36,43,1,1.0,2023431847,Vincent S. Tseng,0,-0.12901502904300854,0.31523562690644386
+2167800198,Mining Cluster-Based Temporal Mobile Sequential Patterns in Location-Based Service Environments,2011,35,80,2,1.0,2005838078,Eric Hsueh Chan Lu,0,0.09894671261016653,0.4063152618660422
+2146821198,Efficient mining and prediction of user behavior patterns in mobile web systems,2006,32,96,1,1.0,2023431847,Vincent S. Tseng,0,-0.0510576789504258,-0.5123664307612064
+2177640251,Efficient Mining of High-Utility Sequential Rules,2015,15,30,5,0.896552,2030554102,Souleymane Zida,0,-0.8895298115571334,0.20844521652409065
+2200022554,Mining High Utility Itemsets in Big Data,2015,12,33,3,0.0,2219802574,Ying Chun Lin,0,-0.5829691431541372,0.06871389269169706
+2189159161,Data Mining for Biomarker Discovery The Time is Ripe The First International Workshop of Data Mining for Biomarker Discovery at 2009 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) Washington DC USA,2009,0,0,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2229420030,Efficient algorithms for mining high-utility itemsets in uncertain databases,2016,39,55,5,0.103933,2187636103,Jerry Chun Wei Lin,0,0.057874946134340265,0.06603081127532384
+2240058522,Trends and Applications in Knowledge Discovery and Data Mining PAKDD 2013 Workshops DMApps DANTH QIMIE BDM CDA CloudSD Golden Coast QLD,2013,0,0,1,1.0,2023431847,Vincent S. Tseng,0,0.055775886372924265,0.22215241969549082
+2260598198,Discovering valuable user behavior patterns in mobile commerce environments,2011,19,7,4,1.0,2575054689,Bai En Shie,0,-0.313250122242983,0.3019422694332269
+2256348575,A Novel Algorithm for Mining High Utility Itemsets,2010,0,0,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2251030740,Efficient algorithms for mining up-to-date high-utility patterns,2015,29,46,4,0.103933,2187636103,Jerry Chun Wei Lin,0,0.003708468606338,0.082832279151172
+2292130485,A Brief Survey of Genetic-Fuzzy Data Mining Techniques,2008,25,1,1,1.0,2023431847,Vincent S. Tseng,0,-0.1071931497347323,0.3242721482837629
+2287478636,An Intelligent Recommender System Based on Short-Term Risk Prediction for Heart Disease Patients,2015,23,9,5,1.0,2277508999,Raid Lafta,0,0.19556086580772883,0.35651209632956726
+2279739458,A Projection-Based Approach for Discovering High Average-Utility Itemsets,2012,17,27,3,0.533333,2150324475,Guo Cheng Lan,0,-0.2683424255168538,-0.09322428715619095
+2300124069,AN EFFICIENT GRADUAL PRUNING TECHNIQUE FOR UTILITY MINING,2012,12,5,1,1.0,2023431847,Vincent S. Tseng,0,0.36961615338683507,0.04520172406723675
+2281867290,WBPL An Open-Source Library for Predicting Web Surfing Behaviors,2014,9,1,4,0.789474,112779420,Ted Gueniche,0,-0.02982925155893055,-0.0135024676312933
+2282622981,UP-Miner A Utility Pattern Mining Toolbox,2015,23,2,1,1.0,2023431847,Vincent S. Tseng,0,0.09026870864055143,0.15450616469095926
+2331975185,PTCR-MINER AN EFFECTIVE RULE-BASED CLASSIFIER ON MULTIVARIATE TEMPORAL DATA CLASSIFICATION,2011,25,2,1,1.0,2023431847,Vincent S. Tseng,0,0.17747221356799003,0.3658641085334156
+2347204429,Efficiently mining uncertain high-utility itemsets,2017,43,20,5,0.0749734,2187636103,Jerry Chun Wei Lin,0,0.1821228022142213,0.22120613202096825
+2406806423,EFIM A Highly Efficient Algorithm for High-Utility Itemset Mining,2015,16,57,5,0.896552,2030554102,Souleymane Zida,0,-2.393442809599302,1.2562272291121956
+2398852778,Genetic-Fuzzy Data Mining Techniques,2009,0,2,3,0.0,2123991549,Tzung Pei Hong,0,0.003708468606338,0.082832279151172
+2399436387,A Novel Complex-Events Analytical System Using Episode Pattern Mining Techniques,2015,14,3,5,0.0,2974913590,Jerry C. Tseng,0,0.4397175286510162,-0.046334239351570515
+2397829822,CPT+ Decreasing the Time/Space Complexity of the Compact Prediction Tree,2015,13,22,4,0.677419,112779420,Ted Gueniche,0,0.13064526819285777,0.23519705040622033
+2471112219,Integrating tourist packages and tourist attractions for personalized trip planning based on travel constraints,2016,23,11,3,0.591426,2005838078,Eric Hsueh Chan Lu,0,0.003708468606338,0.082832279151172
+2478908476,EFIM-Closed Fast and Memory Efficient Discovery of Closed High-Utility Itemsets,2016,16,18,5,0.289638,2776237762,Philippe Fournier Viger,0,0.003708468606338,0.082832279151172
+2500152818,Efficient closed high-utility itemset mining,2016,9,3,5,0.289638,2776237762,Philippe Fournier Viger,0,-2.393442809599302,1.2562272291121956
+2418391945,Advances in Knowledge Discovery and Data Mining 17th Pacific-Asia Conference PAKDD 2013 Gold Coast Australia April 14-17 2013 Proceedings Part / Lecture Notes in Artificial Intelligence),2013,0,0,2,0.0,323689644,Hiroshi Motoda,0,-0.1299041077790363,0.24561046693005192
+2537347163,Mining closed+ high utility itemsets without candidate generation,2015,30,14,4,0.795347,2111809384,Cheng Wei Wu,0,0.003708468606338,0.082832279151172
+2503187410,MINING MULTILEVEL ASSOCIATION RULES FROM GENE ONTOLOGY AND MICROARRAY DATA,2006,0,0,1,1.0,2023431847,Vincent S. Tseng,0,-0.34841194659538965,-0.10142585373365
+2520543032,A GA-based approach for finding appropriate granularity levels of patterns from time series,2016,38,0,2,0.275825,2148205043,Chun Hao Chen,0,-0.6575050269531357,1.4388179003466932
+2504094598,Mining Minimal High-Utility Itemsets,2016,23,5,4,0.289638,2776237762,Philippe Fournier Viger,0,0.2353162648138094,0.228350730718198
+2550372819,IRS-HD An Intelligent Personalized Recommender System for Heart Disease Patients in a Tele-Health Environment,2016,7,0,5,1.0,2277508999,Raid Lafta,0,-0.08652729931962262,0.26364914851306304
+2557108370,An intelligent recommender system based on predictive analysis in telehealthcare environment,2016,26,11,5,1.0,2277508999,Raid Lafta,0,0.08329114195231535,0.32893178638165566
+2575217469,PFrauDetector A Parallelized Graph Mining Approach for Efficient Fraudulent Phone Call Detection,2016,14,2,5,1.0,2159909716,Josh Jia Ching Ying,0,0.18256638752137755,-1.0570586839832543
+2557741071,A scalable complex event analytical system with incremental episode mining over data streams,2016,24,4,6,0.0,2291375696,Jerry C. C. Tseng,0,0.48165523677964,0.3931012989246069
+2513061279,EFIM a fast and memory efficient algorithm for high-utility itemset mining,2017,35,57,5,1.0,2030554102,Souleymane Zida,0,-2.393442809599302,1.2562272291121956
+2590806298,Advances in Knowledge Discovery and Data Mining,2010,0,0,2,0.0,323689644,Hiroshi Motoda,0,-0.11611200409921124,0.12021833402965676
+2606382818,A fast Fourier transform-coupled machine learning-based ensemble model for disease risk prediction using a real-life dataset,2017,30,4,8,1.0,2277508999,Raid Lafta,0,0.24819627657324697,0.4072989751668475
+2604174796,Efficient mining of frequent target episodes from complex event sequences,2014,0,2,3,1.0,2652518183,Yu Feng Lin,0,0.142446965409217,-0.26980199737460225
+2604199453,Efficiently mining high utility sequential patterns in static and streaming data,2017,25,3,2,0.4,155399095,Morteza Zihayat,0,-0.29917783543354576,0.18780240697051775
+2740438124,A Novel Algorithm for Mining Fuzzy High Utility Itemsets,2009,9,4,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2761798503,Early Classification of Multivariate Time Series on Distributed and In-Memory Platforms,2017,25,0,1,1.0,2023431847,Vincent S. Tseng,0,0.003708468606338,0.082832279151172
+2762334571,Long-Term User Location Prediction Using Deep Learning and Periodic Pattern Mining,2017,13,3,2,0.0,2762225534,Mun Hou Wong,0,0.003708468606338,0.082832279151172
+2804685987,A Survey of Utility-Oriented Pattern Mining,2018,160,25,5,0.136318,2168090839,Wensheng Gan,0,0.247057159400659,0.0008718596446388033
+2885524215,Mining Trending High Utility Itemsets from Temporal Transaction Databases,2018,12,2,3,1.0,2887311502,Acquah Hackman,0,0.247057159400659,0.0008718596446388033
+2889403065,FrauDetector + An Incremental Graph-Mining Approach for Efficient Fraudulent Phone Call Detection,2018,22,1,1,1.0,2023431847,Vincent S. Tseng,0,0.18256638752137755,-1.0570586839832543
+2925324114,Mining high-utility itemsets in dynamic profit databases,2019,31,11,6,0.0,2697696771,Loan T. T. Nguyen,0,0.003708468606338,0.082832279151172
+2926389103,Parallel Mining of Top-k High Utility Itemsets in Spark In-Memory Computing Architecture,2019,11,0,4,0.0,2926048980,Chun Han Lin,0,-0.5829691431541372,0.06871389269169706
+2935044865,Multivariate Time Series Early Classification with Interpretability Using Deep Learning and Attention Mechanism,2019,18,2,3,0.0,2932872206,En Yu Hsu,0,0.0142878421214733,-0.1789215405855477
+2998927176,An Efficient Algorithm for Mining High Utility Quantitative Itemsets,2019,28,0,4,0.0,3000011251,Chia Hua Li,0,0.003708468606338,0.082832279151172
+2988193569,DeepIdentifier A Deep Learning-Based Lightweight Approach for User Identity Recognition,2019,15,0,5,0.0,2964808447,Meng Chieh Lee,0,0.003708468606338,0.082832279151172
+2984569114,Mining Emerging High Utility Itemsets over Streaming Database,2019,17,0,4,1.0,2887311502,Acquah Hackman,0,-0.6074793436460783,-0.24185426507342947
+2978350412,Efficient methods for mining weighted clickstream patterns,2020,44,2,5,0.0,2978806139,Huy M. Huynh,0,-0.3651490692927568,-1.4673546476895372
+1911575097,Finding Active Membership Functions for Genetic-Fuzzy Data Mining,2015,33,3,5,0.292521,2148205043,Chun Hao Chen,0,-0.34841194659538965,-0.10142585373365
+1974203200,Finding Pareto-front Membership Functions in Fuzzy Data Mining,2012,35,8,4,0.427867,2148205043,Chun Hao Chen,0,0.003708468606338,0.082832279151172
+1966125148,EFFICIENTLY MINING HIGH AVERAGE-UTILITY ITEMSETS WITH AN IMPROVED UPPER-BOUND STRATEGY,2012,22,31,4,0.533333,2150324475,Guo Cheng Lan,0,0.003708468606338,0.082832279151172
+2067403986,Applying the maximum utility measure in high utility sequential pattern mining,2014,21,57,4,0.272194,2150324475,Guo Cheng Lan,0,-0.2985715463286367,0.12593082776775125
+2288772698,Fast algorithms for mining high-utility itemsets with various discount strategies,2016,28,23,6,0.103933,2187636103,Jerry Chun Wei Lin,0,-0.899618303124234,-0.4499953961371552
+2482091691,Efficient mining of uncertain data for high-utility itemsets,2016,20,1,6,0.103933,2187636103,Jerry Chun Wei Lin,0,0.1821228022142213,0.22120613202096825
+2607325176,Mining High-Utility Itemsets with Both Positive and Negative Unit Profits from Uncertain Databases,2017,14,7,6,0.159793,2168090839,Wensheng Gan,0,0.003708468606338,0.082832279151172

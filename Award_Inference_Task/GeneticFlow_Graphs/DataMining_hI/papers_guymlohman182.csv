@@ -1,0 +1,64 @@
+23573746,Differential Files Their Application to the Maintenance of Large Data Bases (Abstract),1976,0,0,2,0.0,722123805,Dennis G. Severance,0,0.003708468606338,0.082832279151172
+63365308,Research Direction in Query Optimization at the University of Maryland,1982,0,20,1,1.0,401236404,Guy M. Lohman,0,-0.1029618939806145,0.040434369851773004
+1499807075,Progressive optimization in action,2004,1,6,4,0.244898,2112167796,Vijayshankar Raman,0,-0.0395804122397981,0.0068802457672825015
+1499812366,Do semantically equivalent SQL queries perform differently,1986,3,1,1,1.0,401236404,Guy M. Lohman,0,-1.759461719218667,0.029905466239363392
+1553825122,DB2 design advisor integrated automatic physical database design,2004,15,286,4,0.5,2103910039,Daniel C. Zilio,0,-1.310214321123862,0.641103979666243
+1544857801,On-the-fly encoding method for efficient grouping and aggregation,2013,103,12,3,0.144788,240506892,Sam Lightstone,0,0.003708468606338,0.082832279151172
+1518262731,Implementing an Interpreter for Functional Rules in a Query Optimizer,1988,17,36,3,0.0,2284348306,Mavis K. Lee,0,-0.5207388606918844,0.13779230513221863
+1484177956,Learning from empirical results in query optimization,2001,30,126,1,1.0,401236404,Guy M. Lohman,0,-0.7949212654219854,0.3229808421760159
+1519553099,Efficient sampling of a relational database,2002,20,20,1,1.0,401236404,Guy M. Lohman,0,-0.17898229511307986,1.0454327764141287
+1548098652,Method system and program for selection of database characteristics,2005,35,25,2,0.322564,240506892,Sam Lightstone,0,-2.466735595013735,1.0917584945204102
+1558023157,System for adapting query optimization effort to expected execution time,1992,8,94,1,1.0,401236404,Guy M. Lohman,0,-0.1029618939806145,0.040434369851773004
+1513436964,Discovering interestingness in faceted search,2007,5,51,1,1.0,401236404,Guy M. Lohman,0,0.6812667757573876,0.48416938530872305
+1902997235,Relational database query optimization to perform query evaluation plan pruning based on the partition properties,1997,11,173,1,1.0,401236404,Guy M. Lohman,0,-0.01657107088421793,0.035389748403282274
+1605774012,Estimation of column cardinality in a partitioned relational database,2001,14,26,2,0.0,294578043,Walid Rjaibi,0,0.06172450352220263,1.0525598564368428
+1596568456,Statistical learning techniques for costing XML queries,2005,22,64,4,0.0,3017915367,Ning Zhang,0,-0.8406757463305865,0.250366610777701
+1578663810,Intra-block partitioning for database management,2012,10,9,2,0.150262,240506892,Sam Lightstone,0,0.3517263042942214,1.6226017911921635
+1676000255,Self-managing technology in database management systems,2004,1,13,3,0.0,2163909284,Surajit Chaudhuri,0,-1.688509683563873,0.45989527938765346
+1808185412,Method and system for look ahead query evaluation planning based on interesting partition properties,2000,14,42,1,1.0,401236404,Guy M. Lohman,0,-0.1029618939806145,0.040434369851773004
+1579610233,Method for estimating the cost of query processing,2005,14,36,2,0.722222,344688379,Vanja Josifovski,0,-1.1800226010489792,0.3097737950317536
+1598467895,Impliance A Next Generation Information Management Appliance,2007,25,6,5,0.0,2290747941,Bishwaranjan Bhattacharjee,0,0.2411296976350509,0.19514062197806442
+1852059679,R* Optimizer Validation and Performance Evaluation for Distributed Queries,1994,34,218,2,1.0,1981390923,Lothar F. Mackert,0,-0.21716453156779086,0.015513765857463349
+1767678477,Automatically and adaptively determining execution plans for queries with parameter markers,2008,23,117,2,0.0,29980631,Julia Stoyanovich,0,-0.2802728617501201,0.3300728851571616
+1719639935,ROX relational over XML,2004,15,40,3,0.0,2040370899,Alan Halverson,0,-2.3874151792648473,-0.30720992532424657
+1975270911,Toward autonomic computing with DB2 universal database,2002,21,67,2,0.6,240506892,Sam Lightstone,0,-0.16768810345868967,1.076272330317097
+1975796366,Discovering and Exploiting Statistical Properties for Query Optimization in Relational Databases A Survey,2009,31,19,3,0.0,2118460571,Peter J. Haas,0,-0.9045107781737828,0.12832946349178356
+1967601791,DB2 with BLU acceleration so much more than just a column store,2013,22,178,10,0.244898,2112167796,Vijayshankar Raman,0,-0.6763416512017856,0.6131694191846484
+1998085622,Learning table access cardinalities with LEO,2002,0,21,2,0.651364,1963964406,Volker Markl,0,-0.5207388606918844,0.13779230513221863
+1994694191,On supporting containment queries in relational database management systems,2001,23,765,5,0.818182,2243929405,Chun Zhang,0,-0.5327320489132868,0.33566787600945197
+2027259333,Estimating compilation time of a query optimizer,2003,45,77,3,0.0,1982738670,Ihab F. Ilyas,0,-0.23090625279648613,0.10274016958161793
+2033368934,Grammar-like functional rules for representing query optimization alternatives,1988,25,176,1,1.0,401236404,Guy M. Lohman,0,0.1644115729987523,0.35406625332738495
+2040892657,Index scans using a finite LRU buffer a validated I/O model,1989,21,49,2,1.0,1981390923,Lothar F. Mackert,0,-0.41072179421610944,-0.007106484833990512
+2046269252,Starburst mid-flight as the dust clears (database project),1990,42,234,1,1.0,401236404,Guy M. Lohman,0,-1.069249649539693,0.48403841825590493
+2046628754,Self-managing technology in IBM DB2 universal database,2001,14,19,4,0.5,2103910039,Daniel C. Zilio,0,-0.28338090110411424,0.21908469333896416
+2044889021,WOW what the world of (data) warehousing can learn from the World of Warcraft,2013,6,2,2,0.0,1964002351,Tim Kaldewey,0,-0.07886641401216585,0.3211254714193168
+2041563709,Robust query processing through progressive optimization,2004,24,204,4,0.402775,1963964406,Volker Markl,0,0.4777880147980298,0.461318557264948
+2073893626,Dynamic faceted search for discovery-driven analysis,2008,19,77,5,0.0,2152164708,Debabrata Dash,0,0.7587374491311418,0.5514245056089336
+2077556543,SQAK doing more with keywords,2008,22,87,2,0.0,1980446767,Sandeep Tata,0,-2.013394400790004,0.4016469352604904
+2070895734,System RX one part relational one part XML,2005,33,131,6,0.0,2273214336,Kevin Scott Beyer,0,-2.5418642992734375,-0.31388984159898414
+2096674153,Recommending materialized views and indexes with the IBM DB2 design advisor,2004,29,82,2,0.345455,240506892,Sam Lightstone,0,-0.635007194094958,0.6531799212807079
+2103216163,Main-memory scan sharing for multi-core CPUs,2008,22,78,5,0.0,1919621074,Lin Qiao,0,0.003708468606338,0.082832279151172
+2103243319,On common tools for databases - The case for a client-based index advisor,2008,15,5,3,0.0,1980446767,Sandeep Tata,0,-0.3291976808020441,-0.13703470885516322
+2102116440,R* optimizer validation and performance evaluation for local queries,1986,23,139,2,1.0,1981390923,Lothar F. Mackert,0,-0.8754391349179873,0.07477181339543196
+2102166438,LEO - DB2s LEarning Optimizer,2001,15,326,2,0.0,2674265202,Michael Stillger,0,-0.0395804122397981,0.0068802457672825015
+2105252819,Automating physical database design in a parallel database,2002,22,189,4,0.632283,2166272846,Jun Rao,0,-1.8671030815208987,0.5500848985783041
+2112491581,Compiled Query Execution Engine using JVM,2006,22,88,4,0.435791,2166272846,Jun Rao,0,-0.6856160646909832,0.3863548250086275
+2121523964,Adaptively Reordering Joins during Query Execution,2007,37,82,6,0.0,2988557125,Quanzhong Li,0,-0.1029618939806145,0.040434369851773004
+2116560750,Remotely-sensed geophysical databases experience and implications for generalized DBMS,1983,26,32,1,1.0,401236404,Guy M. Lohman,0,-1.7735657520278751,0.6163548550479272
+2131413649,LEO An autonomic query optimizer for DB2,2003,19,100,2,0.651364,1963964406,Volker Markl,0,-0.5934923614992935,0.14535472691008477
+2113831242,Business Analytics in (a) Blink,2012,14,24,12,1.0,2105103640,Ronald J. Barber,0,-0.35731100366665985,0.43991844860686785
+2168503413,DB2 advisor an optimizer smart enough to recommend its own indexes,2000,14,234,4,0.0,2343379187,Gary Valentin,0,-0.5475786705513238,0.6874383844949492
+2145037882,Using EELs a practical approach to outerjoin and antijoin reordering,2001,11,37,3,0.0,3001885848,Jun Rao,0,-1.3260288131097426,0.5589815222911774
+2160149182,Automated statistics collection in DB2 UDB,2004,14,50,4,0.0,2066833720,Ashraf Aboulnaga,0,-0.7402012311476103,0.3661515915353499
+2169597130,Automatically Identifying Known Software Problems,2007,10,22,3,0.0,2763447002,N. Modani,0,-0.30470567631504725,-0.0062226515008856715
+2182331413,Joins on encoded and partitioned data,2014,18,13,10,0.0,2134045017,Jae Gil Lee,0,-2.5495785027550673,-0.22482481064480245
+2164645353,Parallelizing query optimization,2008,42,49,4,0.0,2307556295,Wook Shin Han,0,-0.0395804122397981,0.0068802457672825015
+2257923186,Computer automated discovery of interestingness in faceted search,2008,12,27,1,1.0,401236404,Guy M. Lohman,0,0.6812667757573876,0.48416938530872305
+2268084851,Finding structures in multi-dimensional spaces using image-guided clustering,2008,4,10,1,1.0,401236404,Guy M. Lohman,0,-0.49680371111629457,1.1825094605693118
+2260677452,METHOD FOR MONITORING DEPENDENT METRIC STREAMS FOR ANOMALIES,2008,14,21,1,1.0,401236404,Guy M. Lohman,0,0.003708468606338,0.082832279151172
+2302997920,Data encoding and processing columnar data,2013,14,3,2,0.144788,240506892,Sam Lightstone,0,0.003708468606338,0.082832279151172
+2403545153,Method and system for finding structures in multi-dimensional spaces using image-guided clustering,2008,4,14,1,1.0,401236404,Guy M. Lohman,0,-0.21934185016841626,0.6056873083074126
+2428665651,Wildfire Concurrent Blazing Data Ingest and Analytics,2016,8,8,3,0.88,2105103640,Ronald J. Barber,0,-0.05599650380303606,-0.11838599252407361
+2417855281,ACCURATE PARTITION SIZING FOR MEMORY EFFICIENT REDUCTION OPERATIONS,2014,7,1,3,0.141741,240506892,Sam Lightstone,0,-0.30490121032043166,0.2104408045860731
+2562505399,FAST MULTI-TIER INDEXING SUPPORTING DYNAMIC UPDATE,2016,10,7,1,1.0,401236404,Guy M. Lohman,0,-0.13275296294680305,-0.071629888206014
+2584505023,Evolving Databases for New-Gen Big Data Applications,2017,11,4,13,0.88,2105103640,Ronald J. Barber,0,0.12492345808765674,0.23414093372237493

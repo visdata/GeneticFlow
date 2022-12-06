@@ -1,0 +1,80 @@
+17533771,Remote Denial of Service Attacks and Countermeasures,2001,6,50,2,0.0,2308852573,David K. Karig,0,-0.17324153726119554,0.6587671663167594
+68902126,Hardware trust anchors in SP-enabled processors,2009,33,60,2,1.0,1979730897,Jeffrey S. Dwoskin,0,0.30832362755901355,-0.7944867561445215
+205280243,Securing the use of sensitive data on remote devices using a hardware-software architecture,2010,130,0,2,1.0,1979730897,Jeffrey S. Dwoskin,0,-0.7502432866135035,-0.34734390033939483
+138259686,Building technologies that help cyber-defense Hardware-enabled trust,2012,23,1,2,0.0,2069028549,Claire Vishik,0,-0.8028059244558275,-0.09767271469064336
+144183181,Taxonomies of Distributed Denial of Service Networks Attacks Tools and Countermeasures,2003,19,34,2,1.0,2315536443,Stephen M. Specht,0,0.0040557659796233,0.2757546058061082
+49265230,Proceedings of the 2nd International Workshop on Hardware and Architectural Support for Security and Privacy,2013,0,0,1,1.0,2331811076,Ruby B. Lee,0,1.0046458628771788,-0.1743665084829525
+1568035385,Enlisting Hardware Architecture to Thwart Malicious Code Injection,2004,16,13,1,1.0,2331811076,Ruby B. Lee,0,0.1639362940477497,0.6530314529854678
+1509428652,A traitor tracing scheme based on RSA for fast decryption,2005,52,7,3,0.75,1985628310,John P. McGregor,0,0.3842837971205048,-1.9107943070107944
+1501529020,SecureCore for Trustworthy Commodity Computing and Communications,2011,0,0,3,0.0,1896760054,Terry Benzel,0,-0.832272733566298,0.6951520075327415
+1574783292,Challenges in the design of security-aware processors,2003,0,2,1,1.0,2331811076,Ruby B. Lee,0,-1.3598694034348564,2.2786073214831783
+1521090371,Securing the Dissemination of Emergency Response Data with an Integrated Hardware-Software Architecture,2009,18,8,6,0.0,2101127076,Timothy E. Levin,0,0.03066788782390617,0.7432911364691269
+1603573844,Scalable security architecture for trusted software,2010,121,13,2,0.0,2123779495,David Champagne,0,-0.5530861437885858,-0.004176666300269333
+1969275903,A software-hardware architecture for self-protecting data,2012,32,48,3,1.0,2101525236,Yu Yuan Chen,0,0.08218233009988903,-0.41269679216101984
+1976567722,Security Basics for Computer Architects,2013,82,6,1,1.0,2331811076,Ruby B. Lee,0,-1.5192143660412893,2.4849216646364445
+1987459411,CloudMonatt an architecture for security health monitoring and attestation of virtual machines in cloud computing,2015,40,23,2,1.0,2232586224,Tianwei Zhang,0,0.3171484069971384,-0.13992525839030945
+1989786317,A framework for testing hardware-software security architectures,2010,39,8,4,1.0,1979730897,Jeffrey S. Dwoskin,0,-1.6573566661105559,2.1974251886560934
+1990678219,Hardware enhanced security,2012,0,5,1,1.0,2331811076,Ruby B. Lee,0,-1.1381294733409637,1.365658427176342
+2031318524,Hardware-enhanced access control for cloud computing,2012,5,6,1,1.0,2331811076,Ruby B. Lee,0,-2.057223867670904,2.6515790615548736
+2024438729,Can randomized mapping secure instruction caches from side-channel attacks ,2015,13,5,3,1.0,2154994469,Fangfei Liu,0,0.0040557659796233,0.2757546058061082
+2026975872,Rethinking Computers for Cybersecurity,2015,16,6,1,1.0,2331811076,Ruby B. Lee,0,-0.5978918191666985,1.319784903035451
+2027135600,Hardware-rooted trust for secure key management and transient trust,2007,9,85,2,1.0,1979730897,Jeffrey S. Dwoskin,0,0.17757627888156063,-1.1033425156981804
+2032627295,BitDeposit Deterring Attacks and Abuses of Cloud Computing Services through Economic Measures,2013,9,8,2,1.0,1970063313,Jakub Szefer,0,0.015245780877612549,0.7423220265691124
+2043918015,Security testing of a secure cache design,2013,17,20,2,0.833333,2154994469,Fangfei Liu,0,-0.5878327404517816,-0.21367394616012203
+2041103425,New models of cache architectures characterizing information leakage from cache side channels,2014,37,25,2,1.0,2232586224,Tianwei Zhang,0,-0.0704802660657359,0.09794035737183271
+2073472614,Aiding Side-Channel Attacks on Cryptographic Software With Satisfiability-Based Analysis,2007,25,18,5,0.0,1272703866,N.R. Potlapally,0,0.3464903135409754,-1.2893597553247367
+2072741153,A Framework for Realizing Security on Demand in Cloud Computing,2013,31,12,6,0.0,2079794863,Pramod A. Jamkhedkar,0,-0.27849728290875186,0.9374251868995428
+2096828726,Architectural support for hypervisor-secure virtualization,2012,32,94,2,1.0,1970063313,Jakub Szefer,0,0.0040557659796233,0.2757546058061082
+2101177960,Characterizing hypervisor vulnerabilities in cloud computing servers,2013,16,113,3,1.0,2228260605,Diego Perez Botero,0,0.0040557659796233,0.2757546058061082
+2104182023,Covert and Side Channels Due to Processor Architecture,2006,24,187,2,0.857143,2137931664,Zhenghong Wang,0,-0.4742891267979978,0.898741893145227
+2138331962,Mutual Anonymous Communications A New Covert Channel Based on Splitting Tree MAC,2007,7,16,3,0.857143,2137931664,Zhenghong Wang,0,-0.8926236823779231,1.3086718437990692
+2135359801,Eliminating the hypervisor attack surface for a more secure cloud,2011,25,227,3,1.0,1970063313,Jakub Szefer,0,0.1639362940477497,0.6530314529854678
+2124518285,Hardware-Assisted Application-Level Access Control,2009,19,12,2,1.0,2101525236,Yu Yuan Chen,0,0.009961352995186024,0.9800197637210977
+2137453738,Random Fill Cache Architecture,2014,28,95,2,0.833333,2154994469,Fangfei Liu,0,0.0040557659796233,0.2757546058061082
+2128686420,A Case for Hardware Protection of Guest VMs from Compromised Hypervisors in Cloud Computing,2011,15,31,2,1.0,1970063313,Jakub Szefer,0,1.0046458628771788,-0.1743665084829525
+2137650603,Cyber defenses for physical attacks and insider threats in cloud computing,2014,12,5,4,0.864407,1970063313,Jakub Szefer,0,-0.02541471382436477,0.2760926375719211
+2126034636,Accountability in hosted virtual networks,2009,20,38,2,1.0,2114156951,Eric Keller,0,0.628239371277555,1.8179769509403148
+2144087043,Side channel vulnerability metrics the promise and the pitfalls,2013,15,18,4,1.0,2232586224,Tianwei Zhang,0,0.14467490268851457,-0.22878319239163014
+2153553074,Architecture for Protecting Critical Secrets in Microprocessors,2005,26,169,1,1.0,2331811076,Ruby B. Lee,0,0.18474745298979833,-0.3386105443661892
+2182041552,Architectural techniques for enabling secure cryptographic processing,2005,135,0,2,0.75,1985628310,John P. McGregor,0,-1.181468650207341,-2.332006859944803
+2149209089,Security as a new dimension in embedded system design,2004,48,303,3,0.0,2778925386,Srivaths Ravi,0,-1.3598694034348564,2.2786073214831783
+2158673492,Distributed Denial of Service Taxonomies of Attacks Tools and Countermeasures,2004,14,238,2,1.0,2315536443,Stephen M. Specht,0,0.0040557659796233,0.2757546058061082
+2185823701,Virtualization of a Processor-based Crypto-Protection Mechanism and Integration within a Separation Kernel Architecture,2006,13,0,7,0.0,1506982183,Ganesha Bhaskara,0,-0.6189080260078813,0.38973163413179435
+2165026697,Physical attack protection with human-secure virtualization in data centers,2012,12,10,4,1.0,1970063313,Jakub Szefer,0,0.3139939642973432,-0.4259949914620587
+2293480925,Multi-sensor authentication to improve smartphone security,2015,15,47,2,1.0,2551419975,Wei Han Lee,0,-0.5221828525189298,-0.07163317422107086
+2295730974,Memory DoS Attacks in Multi-tenant Clouds Severity and Mitigation,2016,65,6,3,0.904762,2232586224,Tianwei Zhang,0,0.0040557659796233,0.2757546058061082
+2341270335,Implicit Authentication for Smartphone Security,2015,18,13,2,1.0,2551419975,Wei Han Lee,0,-0.630894439180718,-0.04567668580264762
+2496039043,Improving cyber security,2013,0,1,1,1.0,2331811076,Ruby B. Lee,0,0.2018268678365599,0.1425886522275585
+2464853626,HotChips security tutorial,2014,0,0,1,1.0,2331811076,Ruby B. Lee,0,-1.4838858645124557,2.3271869659524165
+2492950266,Implicit Sensor-based Authentication of Smartphone Users with Smartwatch,2016,25,25,2,1.0,2551419975,Wei Han Lee,0,-1.0934733653715167,-0.1959582560572485
+2486502170,Architecture for data-centric security,2012,76,3,2,1.0,2101525236,Yu Yuan Chen,0,0.09018041649320127,0.5627539220177
+2461758544,University research in hardware security,2014,10,1,1,1.0,2331811076,Ruby B. Lee,0,-1.4296014150429346,2.2274829099236855
+2494839352,Security basics,2014,2,1,1,1.0,2331811076,Ruby B. Lee,0,-1.19301332815928,2.0885397434160065
+2537352530,A processor architecture defense against buffer overflow attacks,2003,13,68,4,0.75,1985628310,John P. McGregor,0,-0.15112855507343256,1.871372882488069
+2540404521,Architecture for a Non-Copyable Disk (NCdisk) Using a Secret-Protection (SP) SoC Solution,2007,4,3,1,1.0,2331811076,Ruby B. Lee,0,0.05045145915639915,-0.9243625250142865
+2583777050,System and Method for Security Health Monitoring And Attestation Of Virtual Machines In Cloud Computing Systems,2016,2,7,2,0.904762,2232586224,Tianwei Zhang,0,-0.1287204139472504,-0.16593635626433872
+2544510561,Monitoring and Attestation of Virtual Machine Security Health in Cloud Computing,2016,17,7,2,0.904762,2232586224,Tianwei Zhang,0,0.0040557659796233,0.2757546058061082
+2547000898,Security verification of hardware-enabled attestation protocols,2012,28,16,3,1.0,2232586224,Tianwei Zhang,0,-0.9301804029596308,1.6824063373214893
+2634237701,Host-Based Dos Attacks and Defense in the Cloud,2017,16,3,2,0.904762,2232586224,Tianwei Zhang,0,0.1639362940477497,0.6530314529854678
+2616905612,Secure Pick Up Implicit Authentication When You Start Using the Smartphone,2017,36,12,5,1.0,2551419975,Wei Han Lee,0,-0.5530861437885858,-0.004176666300269333
+2600769197,DoS Attacks on Your Memory in Cloud,2017,33,13,3,0.904762,2232586224,Tianwei Zhang,0,0.0040557659796233,0.2757546058061082
+2766026515,How secure is your cache against side-channel attacks ,2017,35,21,1,1.0,2331811076,Ruby B. Lee,0,0.0040557659796233,0.2757546058061082
+2766421265,Blind De-anonymization Attacks using Social Networks,2018,11,0,5,0.979822,2551419975,Wei Han Lee,0,0.2064120727915359,0.11991941092756905
+2738679187,Machine Learning Based DDoS Attack Detection from Source Side in Cloud,2017,13,24,3,0.9,2738655305,Zecheng He,0,0.10647008332751562,0.506413275395175
+2751146630,Sensor-Based Implicit Authentication of Smartphone Users,2017,40,4,2,1.0,2551419975,Wei Han Lee,0,-1.4657751151367744,-0.8414578569305011
+2752850383,Implicit Smartphone User Authentication with Sensors and Contextual Machine Learning,2017,29,7,2,1.0,2551419975,Wei Han Lee,0,-1.6252607399932955,-0.6329324213951032
+2810278044,Privacy-preserving Machine Learning through Data Obfuscation,2018,30,17,3,0.887473,2232586224,Tianwei Zhang,0,-0.16926131835916433,0.5456820832504073
+2810382196,Practical and Scalable Security Verification of Secure Architectures,2018,18,0,3,0.598309,1970063313,Jakub Szefer,0,0.0040557659796233,0.2757546058061082
+2807551428,Leveraging Hardware Transactional Memory for Cache Side-Channel Defenses,2018,13,7,5,0.0,2734960670,Sanchuan Chen,0,0.42972921454364443,-0.15731655672571063
+2808303281,Detecting Zero-day Controller Hijacking Attacks on the Power-Grid with Enhanced Deep Learning,2018,47,2,4,1.0,2738655305,Zecheng He,0,0.0040557659796233,0.2757546058061082
+2886677293,VerIDeep Verifying Integrity of Deep Neural Networks through Sensitive-Sample Fingerprinting,2018,43,3,3,1.0,2738655305,Zecheng He,0,0.0040557659796233,0.2757546058061082
+2902247216,Analyzing Cache Side Channels Using Deep Neural Networks,2018,54,5,3,0.887473,2232586224,Tianwei Zhang,0,0.36380657599757904,0.11824672559924734
+2949464125,Multi-sensor authentication to improve smartphone security,2017,10,0,2,1.0,2551419975,Wei Han Lee,0,-0.5034881728629956,-0.08176395707958214
+2950468603,Implicit Sensor-based Authentication of Smartphone Users with Smartwatch,2017,20,0,2,1.0,2551419975,Wei Han Lee,0,-1.0934733653715167,-0.1959582560572485
+2963224817,Blind De-anonymization Attacks using Social Networks,2017,21,7,5,1.0,2551419975,Wei Han Lee,0,0.2064120727915359,0.11991941092756905
+2974881419,Data Center Protection with Cyber-Physical Defenses,2013,0,0,4,1.0,1970063313,Jakub Szefer,0,-0.184206408886177,0.24367358967849675
+2971386045,Enlisting Hardware Architecture to Thwart Malicious Code Injection,2003,14,91,1,1.0,2331811076,Ruby B. Lee,0,0.1639362940477497,0.6530314529854678
+2989885118,Model inversion attacks against collaborative inference,2019,45,2,3,1.0,2738655305,Zecheng He,0,-0.023638163671513186,0.8256312355998836
+1934458198,Last-Level Cache Side-Channel Attacks are Practical,2015,43,352,6,1.0,2154994469,Fangfei Liu,0,-0.19543817093304333,-0.9079727835757225
+2592611757,Quantification of De-anonymization Risks in Social Networks,2017,0,3,6,1.0,2551419975,Wei Han Lee,0,0.0040557659796233,0.2757546058061082
+2805176916,How to Quantify Graph De-anonymization Risks,2017,37,2,6,1.0,2551419975,Wei Han Lee,0,0.5358736551665638,1.4465374296006397

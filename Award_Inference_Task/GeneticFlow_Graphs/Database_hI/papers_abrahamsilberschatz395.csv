@@ -1,0 +1,40 @@
+53021552,PORTIA Privacy Obligations and Rights in Technologies of Information Assessment,2004,29,4,3,0.0,201828038,Dan Boneh,0,-0.0041099411153885,0.0447066884760059
+38634450,A theory of correct locking protocols for database systems,1981,10,10,3,1.0,2155823030,Donald S. Fussell,0,1.7783576749117065,1.0861650417955457
+110901978,Transcending the Serializability Requirement,1993,0,4,4,0.68,2651564987,Rajeev Rastogi,0,1.848620476145237,1.920417192917315
+130586110,Non-two-phase locking protocols with shared and exclusive locks,1980,12,31,2,0.0,2347053213,Zvi M. Kedem,0,1.8133368722983307,1.944543018312004
+113613521,Information Communication and Money For What Can We Charge and How Can We Meter It ,1998,0,0,2,0.131248,665840641,Henry F. Korth,0,0.8191700643455798,0.7182696117176645
+99343112,Performance Evaluation of Two Multidatabase Transaction Management Algorithms,1993,0,7,2,0.15771,1985207418,Yuri Breitbart,0,2.092327777226081,2.00827966933666
+201989770,Obtaining Progressive Protocols for a Simple Multiversion Database Model,1983,13,18,2,0.666667,2225113389,Gael N. Buckley,0,2.184264598690207,2.1046860363213122
+117293345,The MR diagram a model for conceptual database design,1985,10,1,2,0.0,2164040783,Raghu Ramakrishnan,0,2.1932513939400162,0.3635026713150107
+169727605,An Update Mechanism for Multidatabase Systems,1987,0,34,2,0.15771,1985207418,Yuri Breitbart,0,-1.1036205983390022,0.5937938286922697
+1542683901,Triggered Real-Time Databases with Consistency Constraints,1990,20,66,3,0.335538,665840641,Henry F. Korth,0,2.274970239058965,1.113472391602828
+1525343879,A formal approach to recovery by compensating transactions,1990,13,223,3,0.335538,665840641,Henry F. Korth,0,2.2812462773647795,2.1748008566855273
+1555402860,A Low-Cost Storage Server for Movie on Demand Databases,1994,7,136,4,0.5,1995894141,Banu Ozden,0,-0.12148523988669345,0.1572088724734156
+1564381193,Database Systems Concepts,1997,0,301,3,0.139938,665840641,Henry F. Korth,0,0.541048792242954,0.14109191976847427
+1538347133,Scientific Journals Extinction or Explosion (Panel),1995,0,0,4,0.0,2164040783,Raghu Ramakrishnan,0,-0.0041099411153885,0.0447066884760059
+1503036067,PANACE A System That Uses Database Technology to Manage Networks,1999,1,0,2,1.0,2870569947,S. Seshadri,0,0.5586742082380666,-0.1984847101299193
+1495363570,Logical and Physical Versioning in Main Memory Databases,1997,15,35,5,0.508772,2651564987,Rajeev Rastogi,0,0.8286466699603369,1.0027583038282522
+1566807217,ConTracts - A Low-Level Mechanism for Building General-Purpose Workflow Management-Systems,1995,7,75,2,0.5,1995894141,Banu Ozden,0,0.5966947499248558,1.072890593566734
+1512840853,Database System Concepts,1980,0,1171,2,0.0,665840641,Henry F. Korth,0,1.2372450162694706,0.17383909182035837
+1577090657,Challenges for Global Information Systems,1994,0,3,2,0.0,2308649827,Alon Y. Levy,0,-0.0041099411153885,0.0447066884760059
+1861465509,Cyclic association rules,1998,7,384,3,0.26264,1995894141,Banu Ozden,0,1.2093417881871118,0.26507297651154665
+1584140888,A Multi-Resolution Relational Data Model,1992,30,31,3,0.0,2110337216,Robert L. Read,0,1.5396150435672757,0.22593113703141363
+1972792146,A characterization of database graphs admitting a simple locking protocol,1981,8,16,2,1.0,2347053213,Zvi M. Kedem,0,2.2797275780047697,2.4894899262241554
+1969375478,Extended algebra and calculus for nested relational databases,1988,25,265,3,0.0,2291769272,Mark A. Roth,0,3.0153469679550406,0.11809133591774382
+1987404894,Garbage Collection in Object Oriented Databases Using Transactional Cyclic Reference Counting,1998,21,73,4,0.0,2665633752,S. Ashwin,0,0.9408492071308692,0.912959594064505
+1987524729,Eliminating Cascading Rollback in Structured Database,1984,12,1,2,0.666667,2225113389,Gael N. Buckley,0,0.3715208509719942,0.15038891830252638
+1987576733,Strict histories in object-based database systems,1993,12,15,3,0.68,2651564987,Rajeev Rastogi,0,2.6391864925324606,0.6220565941883286
+1987738185,On the accessâ€control mechanism of the program component manager,1981,4,2,1,1.0,2251809919,Abraham Silberschatz,0,-0.0041099411153885,0.0447066884760059
+1991723162,Efficient Global Transaction Management in Multidatabase Systems,1993,0,1,5,0.625,2201039448,Sharad Mehrotra,0,2.811596997913507,3.006555138847327
+1999123264,Deadlock removal using partial rollback in database systems,1981,9,10,3,1.0,2155823030,Donald S. Fussell,0,0.3715208509719942,0.15038891830252638
+2020592463,Using codewords to protect database data from a class of software errors,1999,21,11,4,0.215385,2003419062,Philip Bohannon,0,2.530068297408857,1.0572713422707447
+2047599644,Scheduling and data replication to improve tape jukebox performance,1999,12,9,3,0.0,2984066655,B.K. Hillyer,0,0.36136228813678184,-0.19873603871814904
+2064505593,Ensuring consistency in multidatabases by preserving two-level serializability,1998,33,9,4,0.625,2201039448,Sharad Mehrotra,0,3.1952627750687856,3.1937956931832283
+2089225035,An optimistic commit protocol for distributed transaction management,1991,15,97,3,1.0,2102486196,Eliezer Levy,0,2.5533225468460703,2.618320489083887
+2086124798,A Family of Locking Protocols for Database Systems that Are Modeled by Directed Graphs,1982,10,38,1,1.0,2251809919,Abraham Silberschatz,0,3.0633833669043966,1.6341183809793036
+2138254723,Resource Scheduling in Enhanced Pay-Per-View Continuous Media Databases,1997,24,17,3,0.0,2089290244,Minos Garofalakis,0,-0.0041099411153885,0.0447066884760059
+2118411843,DataBlitz A High Performance Main-Memory Storage Manager,1994,19,90,13,1.0,1239098065,Jerry Baulier,0,0.9531862003248694,0.5981179054026532
+2125183781,A Database System for Real-Time Event Aggregation in Telecommunication,1998,6,22,4,1.0,1239098065,Jerry Baulier,0,0.4169901767344631,-0.03181084648581779
+2171502401,Databases with deadline and contingency constraints,1995,12,10,3,0.375,2049737036,Nandit Soparkar,0,0.8273552254514603,0.8874860041707805
+2163041624,Detection and recovery techniques for database corruption,2003,26,22,4,0.106897,2003419062,Philip Bohannon,0,1.815486506996736,0.6765848234933176
+2157983163,Distributed multi-level recovery in main-memory databases,1996,18,37,4,0.638889,2651564987,Rajeev Rastogi,0,0.48443915237456986,0.8060135306772488

@@ -1,0 +1,28 @@
+1565336402,Cost-based query optimization for multi reachability joins,2007,13,8,3,1.0,2132028416,Jiefeng Cheng,0,-0.24921155514082186,0.05094653814423073
+1792735297,Finding patterns in a knowledge base using keywords to compose table answers,2014,38,25,2,0.0,2112980736,Mohan Yang,0,-0.0041099411153885,0.0447066884760059
+1932196479,Twiglist make twig pattern matching fast,2007,10,88,3,0.0,2119358208,Jeffrey Xu Yu,0,0.8655792438530753,-0.3220350372183908
+1968339675,TopCells Keyword-based search of top-k aggregated documents in text cube,2010,17,18,1,1.0,2642048689,Bolin Ding,0,0.2525706914805895,0.06981101346241844
+2007324466,S4 Top-k Spreadsheet-Style Search for Query Discovery,2015,21,31,2,0.0,316956843,Fotis Psallidas,0,0.43739842239757626,0.009947045888208002
+2010780779,Discovering Threshold-based Frequent Closed Itemsets over Probabilistic Data,2012,36,61,3,0.210526,2114386387,Yongxin Tong,0,1.0130313267035753,0.05162866819903059
+2030559796,Blowfish privacy tuning privacy-utility trade-offs using policies,2014,22,63,3,0.0,2160932865,Xi He,0,0.3417227996555052,0.09544743647993133
+2049599124,Differentially private data cubes optimizing noise sources and consistency,2011,42,115,1,1.0,2642048689,Bolin Ding,0,0.1878066461706768,-0.45186037243451455
+2057513751,Discovering queries based on example tuples,2014,24,50,4,0.0,2768357920,Yanyan Shen,0,0.30265740233268107,0.012359040392557268
+2056524360,Fast Graph Pattern Matching,2008,31,129,3,1.0,2132028416,Jiefeng Cheng,0,-0.0041099411153885,0.0447066884760059
+2135415639,Query translation from XPath to SQL in the presence of recursive DTDs,2009,65,52,4,0.0,2132396280,Wenfei Fan,0,1.8955571849118895,-0.639981880243822
+2141737314,TEXplorer keyword-based object search and exploration in multidimensional text databases,2011,22,16,3,0.0,2674375462,Bo Zhao,0,-0.1566095055636079,0.750177069317349
+2115511289,NUITS a novel user interface for efficient keyword search over databases,2006,6,23,7,0.0,2131088066,Shan Wang,0,0.13564313730626654,-0.0602562688584537
+2110723042,Efficient Mining of Closed Repetitive Gapped Subsequences from a Sequence Database,2009,22,80,1,1.0,2642048689,Bolin Ding,0,-0.4164353607007019,-0.10408138035894196
+2111119607,A statistical approach towards robust progress estimation,2011,17,16,2,0.0,2157050567,Arnd Christian KÃ¶nig,0,0.044859856903840555,0.012551371775477651
+2178940746,Design of Policy-Aware Differentially Private Algorithms,2014,23,1,3,0.0,2278431233,Samuel Haney,0,0.3820908385543769,0.2117467783858426
+2168608971,Optimizing index for taxonomy keyword search,2012,26,10,1,1.0,2642048689,Bolin Ding,0,0.2657856797705482,0.14689219539098033
+2153772697,Bidirectional mining of non-redundant recurrent rules from a sequence database,2011,26,6,2,0.0,2132927693,David Lo,0,-0.0041099411153885,0.0447066884760059
+2162833734,Finding Top-k Min-Cost Connected Trees in Databases,2007,24,259,1,1.0,2642048689,Bolin Ding,0,1.0682443271427804,0.1534874588672333
+2157405322,Fast set intersection in memory,2011,22,62,1,1.0,2642048689,Bolin Ding,0,-0.46893397788284524,0.07728939382804885
+2295965141,Answering Query Workloads with Optimal Error under Blowfish Privacy,2014,0,0,3,0.0,2278431233,Samuel Haney,0,-0.0041099411153885,0.0447066884760059
+2429510775,Quickr Lazily Approximating Complex AdHoc Queries in BigData Clusters,2016,38,53,7,0.0,2089120598,Srikanth Kandula,0,0.055297992862237466,0.3334119502037805
+2434702933,Operator and Query Progress Estimation in Microsoft SQL Server Live Query Statistics,2016,28,11,4,0.0,2486439614,Kukjin Lee,0,-0.009286205477240031,0.31884252518660783
+2436406362,Sample + Seek Approximating Aggregates with Distribution Precision Guarantee,2016,29,44,1,1.0,2642048689,Bolin Ding,0,-0.0041099411153885,0.0447066884760059
+2525830997,Online minimum matching in real-time spatial data experiments and analysis,2016,29,82,3,0.210526,2114386387,Yongxin Tong,0,-0.0041099411153885,0.0447066884760059
+2613577383,Approximate Query Processing No Silver Bullet,2017,77,40,2,0.0,2163909284,Surajit Chaudhuri,0,0.0908845357243609,0.31128747720343375
+2753855453,Collecting Telemetry Data Privately,2017,21,30,1,1.0,2642048689,Bolin Ding,0,-0.0041099411153885,0.0447066884760059
+2799108731,Columnstore and B+ tree - Are Hybrid Physical Designs Important ,2018,20,5,6,0.0,2057455714,Vivek Narasayya,0,1.1853297966155454,1.0497461938207067

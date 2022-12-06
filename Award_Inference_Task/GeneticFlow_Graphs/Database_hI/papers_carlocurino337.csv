@@ -1,0 +1,42 @@
+47136562,Relational Cloud a Database Service for the cloud,2011,0,166,1,1.0,2045003753,Carlo Curino,0,-0.0041099411153885,0.0447066884760059
+1544010666,Relational Cloud A Database-as-a-Service for the Cloud,2011,20,150,4,0.0,1150986126,Nickolai Zeldovich,0,-0.08368434078592991,-0.20988832860959752
+1230574503,Global analytics in the face of bandwidth and regulatory constraints,2015,38,95,2,0.0,706947940,Ashish Vulimiri,0,0.0649309083774455,0.24515797642157278
+1513236376,Managing the History of Metadata in Support for DB Archiving and Schema Evolution,2008,25,16,1,1.0,2045003753,Carlo Curino,0,2.58802538879726,-0.14033321344808364
+1596606284,Blind men and an elephant coalescing open-source academic and industrial perspectives on BigData,2015,42,1,2,0.0,2167862625,Chris Douglas,0,0.10128414562090012,0.3471354700175153
+1590757749,PoLiDBMS Design and Prototype Implementation of a DBMS for Portable Devices,2004,5,4,2,0.0,1906269025,Cristiana Bolchini,0,0.39197574646965916,0.0875266315372993
+1982726646,Towards database virtualization for database as a service,2013,6,5,2,0.0,2094668902,Aaron J. Elmore,0,2.502684540045739,0.8316484069833306
+2004255221,WANalytics Geo-Distributed Analytics for a Data Intensive World,2015,16,54,2,0.0,706947940,Ashish Vulimiri,0,0.03429028369929349,0.6959008623095162
+2006008271,Lookup Tables Fine-Grained Partitioning for Distributed Databases,2012,12,34,2,0.0,2232102094,Aubrey Tatarowicz,0,1.0712284894112305,0.7870107936796251
+2004281168,Graceful database schema evolution the PRISM workbench,2008,30,150,1,1.0,2045003753,Carlo Curino,0,3.3703832710590964,0.016756099849482668
+2013861609,Update rewriting and integrity constraint maintenance in a schema evolution support system PRISM++,2010,31,37,1,1.0,2045003753,Carlo Curino,0,2.3079092222023334,0.04727192127799303
+2014593189,Benchmarking OLTP/web databases in the cloud the OLTP-bench framework,2012,3,21,1,1.0,2045003753,Carlo Curino,0,1.0496910614021293,0.7170130735048186
+2020369684,REEF Retainable Evaluator Execution Framework,2015,42,13,3,1.0,2117666619,Byung Gon Chun,0,-0.08861491733470268,0.1853768420401302
+2040811166,Automating the database schema evolution process,2013,44,60,1,1.0,2045003753,Carlo Curino,0,3.028104706525335,0.06877160061048479
+2070317073,Performance and resource modeling in highly-concurrent OLTP workloads,2013,21,56,2,0.0,2002600875,Barzan Mozafari,0,0.9096620398213565,0.9877606602959665
+2091001077,PRIMA archiving and querying historical data with evolving schemas,2009,10,19,2,0.461538,2101858554,Hyun Jin Moon,0,2.834997035990817,0.05547552778930146
+2097484305,Apache Tez A Unifying Framework for Modeling and Building Data Processing Applications,2015,20,110,6,0.0,2698307795,Bikas Saha,0,-0.08861491733470268,0.1853768420401302
+2086689563,REEF retainable evaluator execution framework,2013,14,20,3,1.0,2117666619,Byung Gon Chun,0,0.18052881552435637,0.13872861792405503
+2104411079,X-SOM A Flexible Ontology Mapper,2007,15,23,1,1.0,2045003753,Carlo Curino,0,0.4337513914617648,-0.030940431688758745
+2132793058,Relational Cloud The Case for a Database Service,2010,23,41,1,1.0,2045003753,Carlo Curino,0,0.8554259057967212,-0.020021843863254406
+2121092231,BenchPress Dynamic Workload Control in the OLTP-Bench Testbed,2015,6,4,4,0.0,2230917152,Dana Van Aken,0,1.2180798559453594,0.9078666582833876
+2124350584,Ontology-Based Information Tailoring,2006,19,15,1,1.0,2045003753,Carlo Curino,0,-0.06181072378779355,-0.02957804351097018
+2133741724,Schism a workload-driven approach to database replication and partitioning,2010,22,407,1,1.0,2045003753,Carlo Curino,0,1.2302208598219697,0.8125149413911263
+2119418423,Scalable architecture and query optimization fortransaction-time DBs with evolving schemas,2010,43,16,2,0.428571,2101858554,Hyun Jin Moon,0,2.525286534619936,-0.02467458424467818
+2143397294,The PRISM Workwench Database Schema Evolution without Tears,2009,12,27,1,1.0,2045003753,Carlo Curino,0,2.7940978784007524,0.19662820840492404
+2128878106,WOO a scalable and multi-tenant platform for continuous knowledge base synthesis,2013,26,16,2,0.0,1829235141,Kedar Bellare,0,-0.25303068768727033,1.1451245875182055
+2150630976,Skew-aware automatic database partitioning in shared-nothing parallel OLTP systems,2012,38,203,2,0.652174,1916729783,Andrew Pavlo,0,1.592151879636971,1.2443855933103236
+2153737095,Managing and querying transaction-time databases under schema evolution,2008,27,61,2,0.461538,2101858554,Hyun Jin Moon,0,3.2683148527401733,-0.06047854369405606
+2151449617,Workload-aware database monitoring and consolidation,2011,22,139,1,1.0,2045003753,Carlo Curino,0,-0.17244133864042968,-0.305030520451871
+2185066740,Benchmarking OLTP/Web Databases in the Cloud The OLTP-Bench Framework (Extended Abstract),2012,3,0,2,0.652174,1916729783,Andrew Pavlo,0,1.0496910614021293,0.7170130735048186
+2240667924,OLTP-Bench an extensible testbed for benchmarking relational databases,2013,31,143,3,0.642857,2164740337,Djellel Eddine Difallah,0,1.2180798559453594,0.9078666582833876
+2293005924,No Bits Left Behind,2011,9,2,2,0.0,2151018753,Eugene Wu,0,0.43739842239757626,0.009947045888208002
+2284820605,Emergent semantics and cooperation in multi-knowledge environments The ESTEEM architecture,2007,29,8,11,0.0,186521263,Valeria De Antonellis,0,-0.0041099411153885,0.0447066884760059
+2295862636,WANalytics Analytics for a geo-distributed data-intensive world,2015,31,53,2,0.0,706947940,Ashish Vulimiri,0,0.06635930819191084,0.49152641060504293
+2296750577,DBSeer Resource and Performance Prediction for Building a Next Generation Database Cloud,2013,12,54,2,0.0,2002600875,Barzan Mozafari,0,1.6382720125550398,0.9836050213173967
+2395458596,Second International Workshop on Data Management in the Cloud,2013,5,0,2,0.0,2066833720,Ashraf Aboulnaga,0,0.18601297105691045,-0.0008472885667257998
+2598538467,Proceedings - International Conference on Data Engineering Preface,2011,0,0,2,0.0,1254989700,Paolo Papotti,0,-0.0041099411153885,0.0447066884760059
+2948983265,Peering through the Dark An Owls View of Inter-job Dependencies and Jobs Impact in Shared Clusters,2019,6,3,2,0.0,2605989135,Andrew Chung,0,0.2946713761785912,0.4027268098681643
+2972016218,Cloudy with high chance of DBMS A 10-year prediction for Enterprise-Grade ML,2019,31,0,3,0.0,2615189512,Ashvin Agrawal,0,0.003938931235182491,0.43015420561023576
+2970373351,SparkCruise handsfree computation reuse in Spark,2019,0,2,6,0.0,2641424092,Abhishek Roy,0,-0.0041099411153885,0.0447066884760059
+2989078842,Extending Relational Query Processing with ML Inference,2019,19,2,13,0.0,1014424442,Konstantinos Karanasos,0,0.9519871042508514,0.043627844201913034
+3013629321,Cloudy with high chance of DBMS A 10-year prediction for Enterprise-Grade ML,2019,0,4,3,0.0,2615189512,Ashvin Agrawal,0,-0.0041099411153885,0.0447066884760059

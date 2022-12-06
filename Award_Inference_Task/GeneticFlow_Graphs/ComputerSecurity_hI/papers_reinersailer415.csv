@@ -1,0 +1,34 @@
+154231405,Analyzing integrity protection in the SELinux example policy,2003,16,118,2,0.0,2181741781,Trent Jaeger,0,0.4059887754770509,1.4154806159643525
+155220850,Cloud Security Is Not (Just) Virtualization Security,2009,13,70,3,0.0,252575161,Daniele Sgandurra,0,0.0040557659796233,0.2757546058061082
+189585970,Shame on trust in distributed systems,2006,15,9,5,0.0,2181741781,Trent Jaeger,0,0.008136112031667952,1.9771449712379017
+1482169900,Authentication for Distributed Web Caches,2002,19,12,2,0.0,2185673591,James R. Giles,0,-0.3857762024513458,0.3785705487687621
+1504669610,Design and implementation of a TCG-based integrity measurement architecture,2004,11,924,1,1.0,2014533025,Reiner Sailer,0,-1.8514698034324175,0.20782706001668214
+1729172517,vTPM virtualizing the trusted platform module,2006,10,523,5,1.0,1979518407,Stefan Berger,0,-0.39479223896691157,-0.09075925281139476
+1966825932,Attestation-based policy enforcement for remote access,2004,16,176,1,1.0,2014533025,Reiner Sailer,0,-0.7942968774580346,0.6695357645116157
+1972093758,Stream computing for large-scale multi-channel cyber threat analytics,2014,26,4,6,0.0,1579722505,Douglas Lee Schales,0,0.6867448150043494,1.1361889504038583
+1988691348,Resolving constraint conflicts,2004,18,27,2,0.0,2181741781,Trent Jaeger,0,-0.09610484442561125,0.4460135013085606
+2013773577,A layered approach to simplified access control in virtualized systems,2007,33,34,2,0.0,2162975927,B.D. Payne,0,-0.18594591199211763,1.7258773747936118
+2026314983,MUSE asset risk scoring in enterprise network with mutually reinforced reputation propagation,2014,12,3,6,0.491077,2307873267,Xin Hu,0,0.08516401951175658,0.6305666464870867
+2044981101,A User-Focused Security Service Architecture for Communication Networks,2001,9,1,1,1.0,2014533025,Reiner Sailer,0,-1.5418533338727582,2.469563175878343
+2072736365,Asset Risk Scoring in Enterprise Network with Mutually Reinforced Reputation Propagation,2014,12,2,6,0.491077,2307873267,Xin Hu,0,0.13560162762707034,0.7385480502155787
+2097015782,Cloud security is not (just) virtualization security a short paper,2009,13,148,2,0.0,350660853,Mihai Christodorescu,0,0.0040557659796233,0.2757546058061082
+2109412974,Trusted virtual domains toward secure distributed services,2005,6,82,1,1.0,2014533025,Reiner Sailer,0,-0.3955968751418488,0.14917958692069197
+2132991249,Retrofitting the IBM POWER Hypervisor to Support Mandatory Access Control,2007,14,20,2,0.0,2162623859,Enriquillo Valdez,0,-0.5843226586881385,1.9095896294151582
+2124394873,Managing the risk of covert information flows in virtual machine systems,2007,26,30,2,0.0,2181741781,Trent Jaeger,0,-1.2318771127648322,1.8858221955781573
+2121422116,History based distributed filtering - a tagging approach to network-level access control,2000,17,13,1,1.0,2014533025,Reiner Sailer,0,0.508328020918195,0.5469459845526229
+2122122437,Building the IBM 4758 secure coprocessor,2001,4,254,4,0.0,2107289694,Joan G. Dyer,0,0.3171484069971384,-0.13992525839030945
+2107798990,Method and apparatus for single sign-on authentication,2002,6,65,1,1.0,2014533025,Reiner Sailer,0,-2.280831964698523,-1.78605927210657
+2140464265,Trustworthy and personalized computing on public kiosks,2008,32,84,4,0.0,211403037,Scott Garriss,0,-0.14604819835817845,0.09828107098979892
+2108165194,Method and apparatus for pervasive authentication domains,2007,18,75,1,1.0,2014533025,Reiner Sailer,0,-1.2356685655615844,-0.48182326348235716
+2140911579,PRIMA policy-reduced integrity measurement architecture,2006,18,248,2,0.0,2181741781,Trent Jaeger,0,-1.371663033458655,0.13358392574403274
+2150663003,Security for the cloud infrastructure trusted virtual data center implementation,2009,18,65,8,1.0,1979518407,Stefan Berger,0,0.0040557659796233,0.2757546058061082
+2169148949,Method and apparatus for serving content from a semi-trusted server,2001,10,87,1,1.0,2014533025,Reiner Sailer,0,-0.5943258979722017,-0.46407672142149625
+2160612883,Shamon A System for Distributed Mandatory Access Control,2006,32,77,5,0.0,2304896318,Jonathan M. McCune,0,-0.3249184540627141,1.8369033450324173
+2166924764,Synthesizing Near-Optimal Malware Specifications from Suspicious Behaviors,2010,28,143,4,0.571429,2076493382,Matt Fredrikson,0,-0.7861644907477299,1.3390718829717985
+2164490659,Linking remote attestation to secure tunnel endpoints,2006,9,105,3,1.0,2097292445,Kenneth Alan Goldman,0,-0.8189632693787167,-0.28934074419369976
+2177448797,Synthesizing near-optimal malware specifications from suspicious behaviors,2013,26,21,4,0.571429,2076493382,Matt Fredrikson,0,0.05940095047987125,0.6960502266457337
+2168084064,Building a MAC-based security architecture for the Xen open-source hypervisor,2005,24,267,1,1.0,2014533025,Reiner Sailer,0,-1.7041140234817638,2.3672245530412837
+2245822045,Method and apparatus to protect policy state information during the life-time of virtual machines,2006,29,18,2,1.0,1979518407,Stefan Berger,0,-0.5272981847062171,0.6761752422059946
+2302325356,Detecting Malicious Exploit Kits using Tree-based Similarity Searches,2016,34,13,7,0.0,2594525338,Teryl Taylor,0,0.07332061874789451,1.1290318595479152
+2497724396,Closing the loop Network and in-host monitoring tandem for comprehensive cloud security visibility,2016,12,2,6,0.823529,1979518407,Stefan Berger,0,-0.31953109041562194,1.1424302109946534
+2999906607,Session details Access control,2006,0,0,1,1.0,2014533025,Reiner Sailer,0,-0.08652866996205948,-0.5796221369983828

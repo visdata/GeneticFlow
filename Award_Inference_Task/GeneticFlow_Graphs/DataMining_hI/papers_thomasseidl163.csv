@@ -1,0 +1,221 @@
+188172877,A Framework for Evaluation and Exploration of Clustering Algorithms in Subspaces of High Dimensional Databases,2011,36,4,7,0.787036,2112493600,Emmanuel MÃ¼ller,0,-0.3353944798684634,2.2723406005357916
+103169788,Subspace MOA Subspace Stream Clustering Evaluation Using the MOA Framework,2013,7,6,2,1.0,2095728525,Yunsu Kim,0,-0.35970264238917515,1.5371654867820996
+189069159,Mining of temporal coherent subspace clusters in multivariate time series databases,2012,22,7,4,1.0,2130568417,Hardy Kremer,0,-0.4293967079210678,0.75310719794792
+206885600,DensEst Density Estimation for Data Mining in High Dimensional Spaces,2009,18,32,5,0.955224,2112493600,Emmanuel MÃ¼ller,0,-0.552161304310079,2.6185612374603404
+36838763,Efficient Mining of Combined Subspace and Subgraph Clusters in Graphs with Feature Vectors,2013,24,30,4,0.675206,316694267,Stephan GÃ¼nnemann,0,0.09894671261016653,0.4063152618660422
+173421291,DB-CSC a density-based approach for subspace clustering in graphs with feature vectors,2011,23,43,3,1.0,316694267,Stephan GÃ¼nnemann,0,-0.9615833624792955,3.438766244645126
+37489049,Density-Based projected clustering of data streams,2012,20,33,4,0.923077,2159472396,Marwan Hassani,0,-0.6734805128369885,2.3004901408034097
+55042894,SubRank Ranking Local Outliers in Projections of High-Dimensional Spaces,2009,4,0,3,1.0,2117421193,Matthias Schiffer,0,0.003708468606338,0.082832279151172
+38455360,Hinging hyperplane models for multiple predicted variables,2012,19,1,3,1.0,2031532958,Anca Maria Ivanescu,0,0.17968548633419076,0.4254766199353514
+191444387,KDD-SC Subspace Clustering Extensions for Knowledge Discovery Frameworks,2014,22,0,4,0.541757,316694267,Stephan GÃ¼nnemann,0,-0.07827686549569579,1.883119829807791
+56004048,Differential Private Trajectory Obfuscation,2012,14,1,3,1.0,71697769,Roland Assam,0,-0.6270487745786083,0.532874462660413
+175412352,Stream data mining using the MOA framework,2012,6,13,4,0.844538,2008431275,Philipp Kranen,0,-0.2627394811197351,0.6640919509983171
+160486752,Efficient knowledge discovery in subspaces of high dimensional databases,2010,55,1,2,0.90174,2112493600,Emmanuel MÃ¼ller,0,0.29330702877605025,1.4984543283608758
+194888264,Efficient Streaming Detection of Hidden Clusters in Big Data Using Subspace Stream Clustering,2014,15,0,2,0.923077,2159472396,Marwan Hassani,0,-0.48027389854114083,1.8619463333719009
+41957089,Using a Multitasking GPU Environment for Content-Based Similarity Measures of Big Data,2013,14,4,4,0.0,2088532884,Ayman Tarakji,0,0.12492345808765674,0.23414093372237493
+59549118,Subspace outlier mining in large multimedia databases,2007,31,5,4,1.0,145164693,Ira Assent,0,-1.000450365787675,3.592773121396067
+60432172,SubClass classification of multidimensional noisy data using subspace clusters,2008,22,4,5,0.979798,145164693,Ira Assent,0,0.05424004613290756,0.03940957800548278
+44607152,PA-Miner process analysis using retrieval modeling and prediction,2012,6,0,5,1.0,2031532958,Anca Maria Ivanescu,0,0.003708468606338,0.082832279151172
+95874385,Substructure clustering a novel mining paradigm for arbitrary data types,2012,29,2,3,0.7599,316694267,Stephan GÃ¼nnemann,0,-0.8668461210584227,3.1411752804880826
+62116395,Resource-Aware Distributed Clustering of Drifting Sensor Data Streams,2012,17,1,2,0.923077,2159472396,Marwan Hassani,0,-0.21892615613754504,0.5923622113437262
+45679362,BT* an advanced algorithm for anytime classification,2012,24,1,2,0.844538,2008431275,Philipp Kranen,0,0.46807110970312993,0.1051059572767277
+11501963,Hierarchical clustering for real-time stream data with noise,2011,2,5,4,1.0,2008431275,Philipp Kranen,0,-0.8105097641707358,2.7787373175626584
+47636343,The Normalized Freebase Distance,2014,9,4,7,1.0,1819234821,FrÃ©deric Godin,0,0.003708468606338,0.082832279151172
+150715854,AnyOut anytime outlier detection on streaming data,2012,48,52,4,0.530451,145164693,Ira Assent,0,-0.12976905043814538,0.41460114025970857
+295840244,Adaptable transformation based similarity search in multimedia databases,2010,0,0,2,1.0,121986162,Marc Wichterich,0,-0.1984714131877254,-0.08331523624254955
+812557219,Efficient indexing and view dependent ranking in CFD databases,2008,0,0,2,1.0,113534205,Christoph Brochhaus,0,-0.13275296294680305,-0.071629888206014
+821246160,Efficient density-based methods for knowledge discovery in databases,2008,0,0,2,1.0,2123847344,Ralph Krieger,0,-0.11379050107703725,1.7870658834675368
+778174971,Dagstuhl Manifesto Information Visualization Visual Data Mining and Machine Learning,2012,0,1,3,0.0,2101287777,Fabrice Rossi,0,0.3933924688512634,1.2729327466068268
+1497514057,Efficient index support for view-dependent queries on CFD data,2007,19,4,2,1.0,113534205,Christoph Brochhaus,0,0.5156011578063481,1.3124231979012049
+1020153513,Anytime algorithms for stream data mining,2011,159,3,2,1.0,2008431275,Philipp Kranen,0,-0.3761737938847157,0.1006449385444034
+1552498712,Efficiently processing queries on interval-and-value tuples in relational databases,2005,29,14,3,1.0,2104687515,Jost Enderle,0,-2.0351242543960506,0.5256001755222539
+1525754303,Object-Relational Indexing for General Interval Relationships,2001,19,20,3,0.0,1919135125,Hans Peter Kriegel,0,-0.49651098377122194,0.7141300041535275
+1571418258,Pleiades Subspace Clustering and Evaluation,2008,12,7,5,0.979798,145164693,Ira Assent,0,-0.46323799830557183,1.8558736230100488
+1517388762,Approximation techniques to enable dimensionality reduction for voronoi-based nearest neighbor search,2006,26,0,3,1.0,113534205,Christoph Brochhaus,0,0.7018752323639351,0.0968439833497368
+1508632717,Interval Sequences An Object-Relational Approach to Manage Spatial Data,2001,46,30,3,0.0,1919135125,Hans Peter Kriegel,0,-0.881037936861948,0.7211226131766292
+1483143865,Bulk loading hierarchical mixture models for efficient stream classification,2010,19,4,4,1.0,2008431275,Philipp Kranen,0,-0.09810895250753096,0.33275881181059797
+1483848537,Information Visualization Visual Data Mining and Machine Learning,2012,8,2,3,0.0,2101287777,Fabrice Rossi,0,0.3933924688512634,1.2729327466068268
+1547647895,Relevance feedback for the Earth Movers distance,2009,25,1,4,1.0,121986162,Marc Wichterich,0,0.003708468606338,0.082832279151172
+1547696260,HSM Heterogeneous Subspace Mining in High Dimensional Data,2009,20,13,3,0.955224,2112493600,Emmanuel MÃ¼ller,0,-0.2506683923107856,0.4389769410957188
+1557212751,Harnessing the Strengths of Anytime Algorithms for Constant Data Streams,2009,29,10,2,0.976744,2008431275,Philipp Kranen,0,0.17371251289928916,0.2187051551836091
+1557627740,IndeGSRI Efficient View-Dependent Ranking in CFD Post- processing Queries with RDBMS,2008,8,0,2,1.0,113534205,Christoph Brochhaus,0,-0.2906836181350236,0.4818151503779571
+1837018088,Data Mining For Robust Flight Scheduling,2009,32,0,5,0.750291,145164693,Ira Assent,0,0.003708468606338,0.082832279151172
+1794804208,A 3D Molecular Surface Representation Supporting Neighborhood Queries,1995,23,7,1,1.0,2140301036,Thomas Seidl,0,-1.0468147949334978,0.44987093854585697
+1875120328,Efficient Similarity Search for Hierarchical Data in Large Databases,2004,21,71,4,0.0,276841381,Karin Kailing,0,-0.7020205164071736,0.029332577613331818
+1803124022,Efficient processing of multiple DTW queries in time series databases,2011,34,10,5,1.0,2130568417,Hardy Kremer,0,0.13765557846368326,0.9156874896682209
+1958174753,MOA a real-time analytics open source framework,2011,5,36,8,0.0,307521372,Albert Bifet,0,0.2256852963697335,0.7721387675628859
+1578875845,On efficient content-based near-duplicate video detection,2015,33,8,3,1.0,1976045200,Merih Seran Uysal,0,-0.3473793728160243,0.24861357896709396
+1757200940,Adaptable Similarity Search Using Vector Quantization,2001,14,3,3,0.0,2771206607,Christian Bohm,0,-0.08652241107997102,0.21008126458083926
+1579856651,ClasSi measuring ranking quality in the presence of object classes with similarity information,2011,14,4,3,1.0,2031532958,Anca Maria Ivanescu,0,0.003708468606338,0.082832279151172
+1814869688,SOREX subspace outlier ranking exploration toolkit,2010,9,12,6,0.90174,2112493600,Emmanuel MÃ¼ller,0,0.3803716889668361,0.05272840113301883
+1891244760,Supporting data mining of large databases by visual feedback queries,1994,19,60,3,0.0,2147343253,Daniel A. Keim,0,-0.5207388606918844,0.13779230513221863
+1581897247,MC-tree Improving Bayesian anytime classification,2010,22,10,4,1.0,2008431275,Philipp Kranen,0,0.1656019551103819,0.40049106199639006
+1859302478,Adaptive stream clustering using incremental graph maintenance,2015,23,9,4,0.784021,2159472396,Marwan Hassani,0,-0.9437919613512054,3.292604130149804
+1775333591,Effective Evaluation Measures for Subspace Clustering of Data Streams,2013,33,1,4,0.923077,2159472396,Marwan Hassani,0,-0.8506757423325126,2.993886785734365
+1921514557,Spatiotemporal Similarity Search in 3D Motion Capture Gesture Streams,2015,55,10,7,0.880652,175699300,Christian Beecks,0,-0.20501253148375112,0.13302718164375157
+1593151701,3D Shape Histograms for Similarity Search and Classification in Spatial Databases,1999,37,480,4,0.5,1098725839,Mihael Ankerst,0,-0.6748225390445666,0.4337309053172882
+1898840949,Advances in spatial and temporal databases 11th International Symposium SSTD 2009 Aalborg Denmark July 8-10 2009 proceedings,2009,0,1,5,0.0,18851973,Nikos Mamoulis,0,-0.17112833128209173,-0.009500545368611168
+1663366120,UrbanHubble Location Prediction and Geo-Social Analytics in LBSN,2015,9,0,3,1.0,71697769,Roland Assam,0,0.229226151171276,-0.036919879424061754
+1983663192,Harnessing the strengths of anytime algorithms for constant data streams,2009,29,18,2,0.976744,2008431275,Philipp Kranen,0,-0.1071931497347323,0.3242721482837629
+1964582004,Modeling multimedia contents through probabilistic feature signatures,2011,24,5,4,1.0,175699300,Christian Beecks,0,0.003708468606338,0.082832279151172
+1971648542,Efficient Filter Approximation Using the Earth Movers Distance in Very Large Multimedia Databases with Feature Signatures,2014,23,16,4,1.0,1976045200,Merih Seran Uysal,0,-0.027822679369164938,-0.20583211436601936
+1980415191,A Subspace Clustering Extension for the KNIME Data Mining Framework,2012,17,4,5,0.7599,316694267,Stephan GÃ¼nnemann,0,-0.8434712681605337,3.0580138141569613
+1965028235,Precise anytime clustering of noisy sensor data with logarithmic complexity,2011,22,13,2,1.0,2008431275,Philipp Kranen,0,-0.609102956935941,2.1360660779171665
+1975576319,Applying similarity search for the investigation of the fuel injection process,2011,11,8,3,1.0,175699300,Christian Beecks,0,-0.027822679369164938,-0.20583211436601936
+1982633463,Gradient-based Signatures for Efficient Similarity Search in Large-scale Multimedia Databases,2015,66,3,4,0.880652,175699300,Christian Beecks,0,-0.1984714131877254,-0.08331523624254955
+1982685371,Morpheus interactive exploration of subspace clustering,2008,9,27,5,0.955224,2112493600,Emmanuel MÃ¼ller,0,0.23160307483104825,1.3445867262100124
+1975852288,The ClusTree indexing micro-clusters for anytime stream mining,2011,35,152,4,1.0,2008431275,Philipp Kranen,0,-0.462923606676714,1.3495636391209307
+1982952845,Differential private trajectory protection of moving objects,2012,34,8,3,1.0,71697769,Roland Assam,0,-0.12681076648878814,0.06540009977213765
+1976313496,Nearest neighbor search on multimedia indexing structures,2004,0,0,1,1.0,2140301036,Thomas Seidl,0,-0.5757925272998708,-0.16138003587326316
+1972866788,Detecting outliers on arbitrary data streams using anytime approaches,2010,27,6,4,0.636755,145164693,Ira Assent,0,-0.26132462825956965,0.8362044308777745
+1967789071,Tracing clusters in evolving graphs with node attributes,2012,14,7,3,1.0,2117690819,Brigitte Boden,0,-0.6605560933429092,2.0940539599401626
+1969650088,Discovering Multiple Clustering Solutions Grouping Objects in Different Views of the Data,2012,25,43,4,0.665774,2112493600,Emmanuel MÃ¼ller,0,-0.5796890412709694,1.773753075874527
+1997907874,Flexible Fault Tolerant Subspace Clustering for Data with Missing Values,2011,21,14,4,1.0,316694267,Stephan GÃ¼nnemann,0,0.07327491195560089,0.5515164076091094
+1989545013,Clustering multidimensional sequences in spatial and temporal databases,2008,20,14,4,0.979798,145164693,Ira Assent,0,-0.41294687483775255,0.6094411749975526
+1998263261,Indexing the signature quadratic form distance for efficient content-based multimedia retrieval,2011,31,25,3,1.0,175699300,Christian Beecks,0,-0.3213243800439976,0.09037836745699597
+2008844607,Inverse predictions on continuous models in scientific databases,2014,19,1,4,1.0,2138502116,Anca M. Zimmer,0,-0.14255436113902986,0.20337351355405242
+2005494065,Private Map Matching Realistic Private Route Cognition on Road Networks,2013,23,0,2,1.0,71697769,Roland Assam,0,0.08959252356587845,0.1369296930545041
+2002170431,Adaptive Model Tree for Streaming Data,2013,13,1,3,1.0,2138502116,Anca M. Zimmer,0,0.04140947246016491,0.9866120912854054
+2003972190,Towards a Mobile Health Context Prediction Sequential Pattern Mining in Multiple Streams,2011,17,24,2,0.916667,2159472396,Marwan Hassani,0,-0.313250122242983,0.3019422694332269
+2007549118,MCExplorer Interactive Exploration of Multiple (Subspace) Clustering Solutions,2010,14,6,4,1.0,316694267,Stephan GÃ¼nnemann,0,-0.8394052553879847,2.9970106914447947
+1990440989,On stability of signature-based similarity measures for content-based image retrieval,2014,27,22,3,0.960784,175699300,Christian Beecks,0,-0.3473793728160243,0.24861357896709396
+2008165818,Pattern detector fast detection of suspicious stream patterns for immediate reaction,2010,13,5,4,0.636755,145164693,Ira Assent,0,0.003708468606338,0.082832279151172
+1992510419,Efficient similarity search in scientific databases with feature signatures,2015,30,13,4,1.0,1976045200,Merih Seran Uysal,0,-0.1984714131877254,-0.08331523624254955
+2002989417,Preserving privacy of moving objects via temporal clustering of spatio-temporal data streams,2011,32,4,2,1.0,71697769,Roland Assam,0,-0.43227261488184776,0.8052001619688881
+1988991358,Joining interval data in relational databases,2004,40,49,3,1.0,2104687515,Jost Enderle,0,-1.6764962698201193,0.7390519154061765
+2024081861,The TS-tree efficient time series search and retrieval,2008,30,63,4,0.979798,145164693,Ira Assent,0,-0.37186074526341006,0.4807589440247403
+2030098182,Bone age assessment using support vector regression with smart class mapping,2013,0,2,5,0.0,2107624270,Daniel Haak,0,0.003708468606338,0.082832279151172
+2021481479,A classification framework for content-based extraction of biomedical objects from hierarchically decomposed images,2006,4,7,3,0.0,2032004513,Christian Thies,0,0.9193876597241513,0.510082299869211
+2026762640,EDISKCO energy efficient distributed in-sensor-network k-center clustering with outliers,2009,18,16,3,0.916667,2159472396,Marwan Hassani,0,-0.5841312985831835,1.912205535734766
+2028561556,GAMer a synthesis of subspace clustering and dense subgraph mining,2014,50,27,4,0.541757,316694267,Stephan GÃ¼nnemann,0,-0.54398514520736,1.9537572727538786
+2011058386,Effective and Robust Mining of Temporal Subspace Clusters,2012,26,6,4,1.0,2130568417,Hardy Kremer,0,-0.8377907469923253,2.9974380453731775
+2028678069,Subspace search and visualization to make sense of alternative clusterings in high-dimensional data,2012,34,62,6,0.0,2114725771,Andrada Tatu,0,0.05085528857239689,1.170386860502574
+2011396747,An effective evaluation measure for clustering on evolving data streams,2011,38,52,4,1.0,2130568417,Hardy Kremer,0,-0.6646760769495431,2.23096334177519
+2015188410,(k d)-core anonymity structural anonymization of massive networks,2014,22,6,4,1.0,71697769,Roland Assam,0,0.003708468606338,0.082832279151172
+2031063652,CoDA interactive cluster based concept discovery,2010,11,6,4,1.0,316694267,Stephan GÃ¼nnemann,0,-0.3142960722272553,1.4507178205953335
+2032881017,BodyGuards A Clairvoyant Location Predictor Using Frequent Neighbors and Markov Model,2013,15,4,2,1.0,71697769,Roland Assam,0,-0.8039231576666018,-0.7376540935567809
+2031079940,Discovering Multiple Clustering Solutions Grouping Objects in Different Views of the Data,2010,24,13,4,0.90174,2112493600,Emmanuel MÃ¼ller,0,-0.5796890412709694,1.773753075874527
+2038205067,Subspace correlation clustering finding locally correlated dimensions in subspace projections of the data,2012,22,12,4,0.7599,316694267,Stephan GÃ¼nnemann,0,0.15851969323904339,0.8484299148780032
+2054067669,Detecting and exploring clusters in attributed graphs a plugin for the gephi platform,2013,8,4,3,1.0,2117690819,Brigitte Boden,0,-0.9184520005061224,3.2753450081123408
+2040512550,Check-in Location Prediction Using Wavelets and Conditional Random Fields,2014,8,10,2,1.0,71697769,Roland Assam,0,0.003708468606338,0.082832279151172
+2045921448,Efficient EMD-based similarity search in multimedia databases via flexible dimensionality reduction,2008,18,46,4,1.0,121986162,Marc Wichterich,0,-0.3651366802046125,0.08258813543263895
+2052939876,Subspace clustering of data streams new algorithms and effective evaluation measures,2015,34,10,4,0.784021,2159472396,Marwan Hassani,0,-0.8506757423325126,2.993886785734365
+2054807817,Scalable density-based subspace clustering,2011,32,18,4,0.787036,2112493600,Emmanuel MÃ¼ller,0,-0.8415883870563021,3.0588234035369624
+2035573030,Extended query refinement for content-based access to large medical-image databases,2004,16,8,3,0.0,2074444090,Bartosz Plodowski,0,-0.16507692778528446,-0.011905719463757994
+2040900398,Subspace anytime stream clustering,2014,3,12,4,0.923077,2159472396,Marwan Hassani,0,-0.7787962278648696,2.780020774561351
+2039848804,An Index-Inspired Algorithm for Anytime Classification on Evolving Data Streams,2012,32,1,3,0.844538,2008431275,Philipp Kranen,0,-0.3234807852817447,0.2556672981683869
+2050519213,A multistep approach for shape similarity search in image databases,1998,29,36,3,0.5,1098725839,Mihael Ankerst,0,-0.1984714131877254,-0.08331523624254955
+2059355863,Multi-view clustering using mixture models in subspace projections,2012,23,19,3,0.7599,316694267,Stephan GÃ¼nnemann,0,-0.870074250575084,3.14034445431056
+2068318464,An extension of the PMML standard to subspace clustering models,2011,29,7,3,1.0,316694267,Stephan GÃ¼nnemann,0,-0.9534829247291311,3.2895932639803735
+2068665379,PHiDJ Parallel similarity self-join for high-dimensional vector data with MapReduce,2014,25,25,4,1.0,2142347288,Sergej Fries,0,-0.09973552776022251,0.3989452190970894
+2056888253,Exploring multimedia databases via optimization-based relevance feedback and the earth movers distance,2009,11,3,4,1.0,121986162,Marc Wichterich,0,-0.38445055238925196,0.3440766859403925
+2060615394,A tool for automated evaluation of algorithms,2012,4,0,5,0.844538,2008431275,Philipp Kranen,0,0.21438872843298346,-0.1353423822296997
+2067928868,Large-scale Efficient and Effective Video Similarity Search,2015,28,3,4,1.0,1976045200,Merih Seran Uysal,0,-0.3651366802046125,0.08258813543263895
+2096659092,Managing Intervals Efficiently in Object-Relational Databases,2000,30,102,3,0.0,1919135125,Hans Peter Kriegel,0,-1.593452865654649,0.7117794742706043
+2082244270,Indexing density models for incremental learning and anytime classification on data streams,2009,33,34,1,1.0,2140301036,Thomas Seidl,0,0.49228405652885626,0.3519762336238786
+2102880413,Clicks An effective algorithm for mining subspace clusters in categorical datasets,2007,21,64,4,0.0,2165917828,Mohammed J. Zaki,0,-0.21934185016841626,0.6056873083074126
+2097017789,Statistical selection of relevant subspace projections for outlier ranking,2011,25,83,3,0.787036,2112493600,Emmanuel MÃ¼ller,0,0.003708468606338,0.082832279151172
+2080746351,Nesting the earth movers distance for effective cluster tracing,2013,8,2,4,1.0,2130568417,Hardy Kremer,0,0.003708468606338,0.082832279151172
+2082737904,Efficient similarity search using the Earth Movers Distance for large multimedia databases,2008,15,33,4,0.979798,145164693,Ira Assent,0,-0.22205240695846498,-0.13090750934943304
+2097933912,OutRank ranking outliers in high dimensional data,2008,8,55,4,0.955224,2112493600,Emmanuel MÃ¼ller,0,0.19361653956619546,-0.051275674223734684
+2095486409,Detection of orthogonal concepts in subspaces of high dimensional data,2009,17,35,4,1.0,316694267,Stephan GÃ¼nnemann,0,-0.8749122440993683,3.138967865190811
+2101319014,Approximation Techniques for Indexing the Earth Mover&amp;#146;s Distance in Multimedia Databases,2006,29,55,2,1.0,145164693,Ira Assent,0,-0.13275296294680305,-0.071629888206014
+2095525828,Adaptive outlierness for subspace outlier ranking,2010,9,21,3,0.90174,2112493600,Emmanuel MÃ¼ller,0,0.003708468606338,0.082832279151172
+2090287317,VISA visual subspace clustering analysis,2007,26,43,4,1.0,145164693,Ira Assent,0,-0.8329502778820542,2.9986694125766715
+2088736951,TMC-pattern holistic trajectory extraction modeling and mining,2012,20,2,2,1.0,71697769,Roland Assam,0,-0.24518226583318445,0.14026736481473717
+2083451209,Context-based location clustering and prediction using conditional random fields,2014,18,5,2,1.0,71697769,Roland Assam,0,-0.7236320425330826,1.9652217830903638
+2094018360,Subspace clustering for indexing high dimensional data a main memory index based on local reductions and individual multi-representations,2011,31,16,4,1.0,316694267,Stephan GÃ¼nnemann,0,-0.465269920482394,1.4760257810363098
+2079946064,An Evaluation Framework for Temporal Subspace Clustering Approaches,2013,16,1,4,1.0,2130568417,Hardy Kremer,0,-0.8523194823469147,2.9932986823380308
+2083607096,External evaluation measures for subspace clustering,2011,21,40,5,1.0,316694267,Stephan GÃ¼nnemann,0,-0.23024001869072624,1.9658137203410804
+2117355841,Evaluating clustering in subspace projections of high dimensional data,2009,33,169,4,0.955224,2112493600,Emmanuel MÃ¼ller,0,-0.6621201839625493,2.525387253040436
+2111608261,Efficient multi-step query processing for EMD-based similarity,2006,16,0,2,1.0,145164693,Ira Assent,0,-0.027822679369164938,-0.20583211436601936
+2126611302,Self-Adaptive Anytime Stream Clustering,2009,27,56,4,0.976744,2008431275,Philipp Kranen,0,-0.18433056550625376,1.7264497699537296
+2120669055,Tracing Evolving Subspace Clusters in Temporal Climate Data,2012,37,16,4,0.7599,316694267,Stephan GÃ¼nnemann,0,-0.26955568178638384,-0.03684941487196358
+2123688648,Extended query refinement for medical image retrieval,2008,27,37,8,0.0,2011582729,Thomas M. Deserno,0,-0.01657107088421793,0.035389748403282274
+2123762540,Visual feedback in querying large databases,1993,20,29,3,0.0,2147343253,Daniel A. Keim,0,-0.5207388606918844,0.13779230513221863
+2109138500,Efficient similarity search in large databases of tree structured objects,2004,5,0,4,0.0,276841381,Karin Kailing,0,-0.588858626101123,1.1226502607797795
+2118183363,Processing the signature quadratic form distance on many-core GPU architectures,2011,7,9,5,0.0,729676228,Martin KruliÅ¡,0,-0.1957502742847153,-0.07085033952883042
+2138970174,Approximation-Based Similarity Search for 3-D Surface Segments,1998,36,44,2,0.0,1919135125,Hans Peter Kriegel,0,-0.6748225390445666,0.4337309053172882
+2121186986,Anticipatory DTW for efficient similarity search in time series databases,2009,31,46,5,0.750291,145164693,Ira Assent,0,-0.1984714131877254,-0.08331523624254955
+2109424811,Fast nearest neighbor search in high-dimensional space,1998,24,152,5,0.0,2810675295,Stefan Berchtold,0,-0.5481616817769454,1.3490730251270169
+2133173433,Image clustering and retrieval combining fixed/adaptive-binned histograms and various distance functions,2004,16,0,1,1.0,2140301036,Thomas Seidl,0,-0.8326602898602444,2.8224595037497338
+2130238741,Effective similarity search on voxelized CAD objects,2003,23,44,5,0.875,47138358,Marco PÃ¶tke,0,-0.4828900864625007,0.7231744308693372
+2109746343,INSCY Indexing Subspace Clusters with In-Process-Removal of Redundancy,2008,8,75,4,0.979798,145164693,Ira Assent,0,0.39473212729106383,1.017561454262338
+2121674418,Detecting Climate Change in Multivariate Time Series Data by Novel Clustering and Cluster Tracing Techniques,2010,9,9,3,1.0,2130568417,Hardy Kremer,0,-0.21934185016841626,0.6056873083074126
+2113049000,On Efficient Query Processing with the Earth Movers Distance,2014,29,4,3,1.0,1976045200,Merih Seran Uysal,0,-0.1984714131877254,-0.08331523624254955
+2125151038,SMVC semi-supervised multi-view clustering in subspace projections,2014,31,12,4,0.541757,316694267,Stephan GÃ¼nnemann,0,-0.8506757423325126,2.993886785734365
+2119309048,Type-based categorization of relational attributes,2009,24,12,3,0.0,2151199892,Babak Ahmadi,0,0.04327370545393118,0.4616493562959949
+2140439590,Relevant Subspace Clustering Mining the Most Interesting Non-redundant Concepts in High Dimensional Data,2009,21,71,5,0.955224,2112493600,Emmanuel MÃ¼ller,0,0.30800663604647693,1.178990875378663
+2116987348,Efficient k-nearest neighbor queries with the Signature Quadratic Form Distance,2010,15,12,3,1.0,175699300,Christian Beecks,0,-0.0395804122397981,0.0068802457672825015
+2134627110,Optimal multi-step k-nearest neighbor search,1998,34,421,1,1.0,2140301036,Thomas Seidl,0,0.5995878426521319,-0.06915688364643133
+2162149512,Density-Based Subspace Clustering in Heterogeneous Networks,2014,21,13,3,1.0,2117690819,Brigitte Boden,0,-0.8684493000272839,3.1405182666829745
+2179170820,Subspace clustering for complex data,2012,163,2,2,0.7599,316694267,Stephan GÃ¼nnemann,0,-0.7088263406892098,2.3649305276563193
+2144344912,Clustering Performance on Evolving Data Streams Assessing Algorithms and Evaluation Measures within MOA,2010,16,18,4,1.0,2008431275,Philipp Kranen,0,0.17370561514992974,0.9258434071098498
+2159374720,Ranking multimedia databases via relevance feedback with history and foresight support,2008,8,3,3,1.0,121986162,Marc Wichterich,0,0.003708468606338,0.082832279151172
+2159633885,Finding density-based subspace clusters in graphs with feature vectors,2012,31,16,3,0.7599,316694267,Stephan GÃ¼nnemann,0,-0.9713066837354436,3.4356260929205575
+2171729887,Improving Adaptable Similarity Query Processing by Using Approximations,1998,30,36,4,0.5,1098725839,Mihael Ankerst,0,-0.22858667241994954,0.05242809182394457
+2156668715,Using Index Structures for Anytime Stream Mining,2009,22,2,2,0.976744,2008431275,Philipp Kranen,0,-0.8670731428202569,0.7308973990831901
+2147845504,Subspace Clustering Meets Dense Subgraph Mining A Synthesis of Two Paradigms,2010,15,84,4,1.0,316694267,Stephan GÃ¼nnemann,0,-0.9211991615469002,3.298294457080068
+2171957117,Self-Organizing Energy Aware Clustering of Nodes in Sensor Networks Using Relevant Attributes,2010,24,13,4,1.0,294682269,Pascal Spaus,0,-0.5309732920220693,1.5544911448506813
+2166050755,Efficient User-Adaptable Similarity Search in Large Multimedia Databases,1997,25,150,1,1.0,2140301036,Thomas Seidl,0,-0.5268342275549085,0.3080302320838144
+2172088232,Tracing evolving clusters by subspace and value similarity,2011,18,12,4,1.0,316694267,Stephan GÃ¼nnemann,0,-0.09755455572464465,-0.20250413091308977
+2145898068,MOA Massive Online Analysis a framework for stream classification and clustering,2010,42,130,6,0.0,307521372,Albert Bifet,0,-0.21892615613754504,0.5923622113437262
+2174573294,Outlier Detection and Ranking Based on Subspace Clustering,2008,6,5,1,1.0,2140301036,Thomas Seidl,0,-0.06397360425488743,0.7953100262918549
+2167091752,DUSC Dimensionality Unbiased Subspace Clustering,2007,12,108,4,1.0,145164693,Ira Assent,0,-0.8329502778820542,2.9986694125766715
+2155354516,Indexing the solution space a new technique for nearest neighbor search in high-dimensional space,2000,34,63,4,0.0,2013057434,Stefan Berchtold,0,-0.8788743237409866,1.452608270957861
+2146442966,CLICKS an effective algorithm for mining subspace clusters in categorical datasets,2005,23,24,4,0.0,2165917828,Mohammed J. Zaki,0,-0.21934185016841626,0.6056873083074126
+2170581471,Spatial Multidimensional Sequence Clustering,2006,14,3,4,1.0,145164693,Ira Assent,0,-0.7297384591838179,2.0207140858702517
+2161879423,A cost model for interval intersection queries on RI-trees,2002,29,13,4,0.0,1919135125,Hans Peter Kriegel,0,-1.3891572432411388,0.7146681213544821
+2183321862,Subspace Nearest Neighbor Search - Problem Statement Approaches and Discussion,2015,14,2,5,0.5,1999354499,Michael Behrisch,0,0.39586947561035907,1.1075449032695344
+2247057194,Efficient Process Discovery From Event Streams Using Sequential Pattern Mining,2015,32,22,4,0.784021,2159472396,Marwan Hassani,0,-0.1071931497347323,0.3242721482837629
+2247322418,FELICITY A Flexible Video Similarity Search Framework Using the Earth Movers Distance,2015,7,4,4,1.0,1976045200,Merih Seran Uysal,0,-0.0282464590859432,0.29241213083660766
+2253411494,Advanced Data Mining Algorithms,2008,0,0,2,0.979798,145164693,Ira Assent,0,-0.0769353016057025,-0.2600287055078183
+2202506051,Incremental Learning of Medical Data for Multi-Step Patient Health Classification,2010,0,2,5,0.636755,145164693,Ira Assent,0,0.003708468606338,0.082832279151172
+2258752184,Improving Semantic Relatedness in Paths for Storytelling with Linked Data on the Web,2015,4,3,4,0.0,963470134,Laurens De Vocht,0,0.21893289544635566,-0.18054216931701328
+2249309390,Information Visualization Visual Data Mining and Machine Learning (Dagstuhl Seminar 12081),2012,0,4,3,0.0,2243091940,Danial A. Keim,0,0.36632946227338264,1.1965774527361919
+2198005414,Gradient-based signatures for big multimedia data,2015,10,2,3,0.880652,175699300,Christian Beecks,0,0.05259309081479367,0.05674876752804392
+2207734749,Mining and similarity search in temporal databases,2013,179,0,2,1.0,2130568417,Hardy Kremer,0,-0.4618398676731795,1.1928671528819361
+2293665361,Internal Clustering Evaluation of Data Streams,2015,25,3,2,0.784021,2159472396,Marwan Hassani,0,-0.8506757423325126,2.993886785734365
+2306896000,Effective Content-Based Near-Duplicate Video Detection,2015,15,2,4,1.0,1976045200,Merih Seran Uysal,0,-0.3473793728160243,0.24861357896709396
+2308896243,A Distance-Based Approach for Semantic Dissimilarity in Knowledge Graphs,2016,14,6,9,0.25,305430315,Tom De Nies,0,0.5280851341707624,-1.1598534887866576
+2295845202,Distributed weighted clustering of evolving sensor data streams with noise,2012,16,2,2,0.923077,2159472396,Marwan Hassani,0,-0.6962305647701684,2.4695528128688697
+2278248183,Efficient Distance-Based Gestural Pattern Mining in Spatiotemporal 3D Motion Capture Databases,2015,47,1,4,0.880652,175699300,Christian Beecks,0,0.003708468606338,0.082832279151172
+2406936372,Projected Clustering for Huge Data Sets in MapReduce,2014,14,5,3,1.0,2142347288,Sergej Fries,0,-0.533291030334458,1.9157496107441343
+2407941529,Efficient Query Processing using the Earths Mover Distance in Video Databases,2016,26,1,5,1.0,1976045200,Merih Seran Uysal,0,0.003708468606338,0.082832279151172
+2394758697,Sequential pattern mining of multimodal streams in the humanities,2015,5,11,9,0.784021,2159472396,Marwan Hassani,0,-0.3955569543025472,0.5845099507393616
+2397419812,Optimizing Sequential Pattern Mining Within Multiple Streams,2015,8,4,4,1.0,2403801649,Daniel TÃ¶ws,0,-0.21755096690182368,0.8215019641432926
+2408674640,Towards an Efficient Ranking of Interval-Based Patterns,2016,7,2,3,0.702757,2159472396,Marwan Hassani,0,-0.313250122242983,0.3019422694332269
+2403013889,Normalized Semantic Web Distance,2016,23,1,9,0.25,305430315,Tom De Nies,0,0.36314718253173756,-0.7969361151529658
+2395425816,Noise-aware Concise Clustering of Streaming Sensor Data in a Logarithmic Time,2011,18,0,3,0.916667,2159472396,Marwan Hassani,0,-0.609102956935941,2.1360660779171665
+2462970348,Clustering Big Data streams recent challenges and contributions,2016,0,1,2,0.702757,2159472396,Marwan Hassani,0,-0.2982487661696883,1.4866660849185789
+2413456554,Efficient Query Processing in 3D Motion Capture Gesture Databases,2016,28,4,7,0.773007,175699300,Christian Beecks,0,0.003708468606338,0.082832279151172
+2432267564,On Using Class-Labels in Evaluation of Clusterings,2010,63,71,7,0.0,242745652,Arthur Zimek,0,-0.8165452738232616,2.681211430874347
+2461324856,Benchmarking Stream Clustering Algorithms within the MOA Framework,2010,13,2,5,0.0,307521372,Albert Bifet,0,-0.34664003795320086,1.6035554232325548
+2501236167,Approximation-Based Efficient Query Processing with the Earth Movers Distance,2016,25,2,3,1.0,1976045200,Merih Seran Uysal,0,-0.09381147342089183,0.26990182330032064
+2537041094,Data Mining for Business Applications,2009,0,0,5,0.750291,145164693,Ira Assent,0,-0.03000163698107844,-0.5335651980545955
+2530551364,Using internal evaluation measures to validate the quality of diverse stream clustering algorithms,2017,34,15,2,0.647936,2159472396,Marwan Hassani,0,-0.8506757423325126,2.993886785734365
+2554254441,A geometric approach for mining sequential patterns in interval-based data streams,2016,28,4,4,0.702757,2159472396,Marwan Hassani,0,-0.20358938505759455,0.2935492359660926
+2622750247,OpenSubspace An Open Source Framework for Evaluation and Exploration of Subspace Clustering Algorithms in WEKA,2009,0,21,4,0.750291,145164693,Ira Assent,0,-0.538447670699222,2.6768132407096545
+2622752164,Evaluating Clustering in Subspace Projections of High Dimensional Data,2009,0,42,4,0.955224,2112493600,Emmanuel MÃ¼ller,0,-0.4596178353338706,1.5573789230977408
+2618113557,Supporting Data mining of large databases by visual feedback queries,1993,0,0,3,0.0,2147343253,Daniel A. Keim,0,0.003708468606338,0.082832279151172
+2623500474,Incremental Temporal Pattern Mining Using Efficient Batch-Free Stream Clustering,2017,28,3,3,1.0,2549491919,Yifeng Lu,0,-0.24413310415498693,0.299678674360933
+2735926977,Efficient Similarity Search in Large Multimedia Databases,2017,0,1,2,0.988744,1976045200,Merih Seran Uysal,0,-0.1984714131877254,-0.08331523624254955
+2620908792,Understanding the bigger picture batch-free exploration of streaming sequential patterns with accurate prediction,2017,11,3,3,0.647936,2159472396,Marwan Hassani,0,-0.34195422156236643,0.6768852294898616
+2607430131,Visual Quality Assessment of Subspace Clusterings,2016,28,2,5,0.5,1999354499,Michael Behrisch,0,0.003708468606338,0.082832279151172
+2596197203,Alternative clustering in subspace projections,2015,0,0,3,0.955793,2015027442,Ines FÃ¤rber,0,-0.6770038425946369,2.1715315384835607
+2741560259,multi-step query processing for EMD-based similarity,2006,14,0,2,1.0,145164693,Ira Assent,0,-0.16980408394460125,-0.17863322552842936
+2780037858,BFSPMiner an effective and efficient batch-free algorithm for mining sequential patterns over data streams,2019,31,6,4,0.545285,2159472396,Marwan Hassani,0,-0.2566559752451649,0.8673908057763201
+2773116863,Predictive analytics and protection of massive data,2015,0,0,3,1.0,71697769,Roland Assam,0,-0.35503000283669495,-0.1908630474581685
+2801762618,Efficient Infrequent Itemset Mining Using Depth-First and Top-Down Lattice Traversal,2018,11,4,3,0.833333,2549491919,Yifeng Lu,0,0.003708468606338,0.082832279151172
+2926563228,A Galaxy of Correlations,2019,0,0,4,0.818182,2655517884,Daniyal Kazempour,0,0.003708468606338,0.082832279151172
+2930989721,Detecting Change Processes in Dynamic Networks by Frequent Graph Evolution Rule Mining,2016,17,1,5,0.0,2716268158,Erik Scharwachter,0,-0.8087157163230292,-0.6375276567509433
+2900524620,Looking into the TESSERACT Time-drifts in event streams using series of evolving rolling averages of completion times,2019,38,0,2,1.0,2626652185,Florian Richter,0,0.1579559588619796,0.563349572073047
+2935321262,Insights into a running clockwork On interactive process-aware clustering,2019,0,1,2,0.818182,2655517884,Daniyal Kazempour,0,-0.21934185016841626,0.6056873083074126
+2972402651,Chain-detection Between Clusters,2019,11,0,3,0.0,2941957811,Janis Held,0,-0.8591382538530624,2.7850783887746897
+2979818218,Model-Aware Clustering of Non-conforming Traces,2019,9,0,4,1.0,2626652185,Florian Richter,0,-0.21934185016841626,0.6056873083074126
+3000223833,Efficient Infrequent Pattern Mining Using Negative Itemset Tree,2020,21,0,3,1.0,2549491919,Yifeng Lu,0,0.003708468606338,0.082832279151172
+2977274243,k-process Model-Conformance-based Clustering of Process Instances,2019,0,0,4,1.0,2538191751,Florian Richter,0,-0.21934185016841626,0.6056873083074126
+2966218872,Detecting Global Periodic Correlated Clusters in Event Series based on Parameter Space Transform,2019,5,0,4,0.818182,2655517884,Daniyal Kazempour,0,-0.36190166512015426,0.7909413561341329
+2966300242,On systematic hyperparameter analysis through the example of subspace clustering,2019,6,0,2,0.818182,2655517884,Daniyal Kazempour,0,-0.4471254762103896,1.5640191908299406
+2985307759,LSCMiner Efficient Low Support Closed Itemsets Mining,2019,21,0,3,1.0,2549491919,Yifeng Lu,0,-0.1542398206780481,-0.08082954592416726
+3023169296,Detecting Arbitrarily Oriented Subspace Clusters in Data Streams Using Hough Transform,2020,22,0,5,0.0,2222232782,Felix Borutta,0,-0.1071931497347323,0.3242721482837629

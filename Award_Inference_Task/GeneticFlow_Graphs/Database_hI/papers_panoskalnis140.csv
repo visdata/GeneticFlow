@@ -1,0 +1,60 @@
+1497060409,Efficient Processing of Distributed Iceberg Semi-joins,2004,11,0,3,0.0,2494466524,Mohammed Kasim Imthiyaz,0,0.6172567021300068,0.690244878734845
+1479782065,Olap Results Distributed Caching,2008,7,0,1,1.0,252562283,Panos Kalnis,0,-0.3632509700454942,1.1437180412081445
+1516374262,Real datasets for file-sharing peer-to-peer systems,2005,12,19,2,0.0,2516227126,Shen Tat Goh,0,0.14143293034549909,-0.3148245184478872
+1562879178,Privacy-Preserving Publication of User Locations in the Proximity of Sensitive Sites,2008,20,12,3,0.0,2418116135,Bharath Krishnamachari,0,-0.0041099411153885,0.0447066884760059
+1491949951,Tracking Moving Objects in Anonymized Trajectories,2008,16,11,3,0.0,73229004,Nikolay Vyahhi,0,-0.0041099411153885,0.0447066884760059
+1518033500,Distributed privacy preserving data collection,2011,19,11,4,0.0,2303542671,Mingqiang Xue,0,-0.0041099411153885,0.0447066884760059
+1502841054,Automatic tuning of bag-of-tasks applications,2015,40,5,4,0.75,2127994903,Majed Sahli,0,-0.0041099411153885,0.0447066884760059
+1574781601,POEMS Peer-Based Overload Management,2008,20,0,2,0.0,2136598690,Wee Siong Ng,0,0.0671042691779014,-0.36543392384012696
+1587425587,Processing Ad-Hoc Joins on Mobile Devices,2004,9,6,5,0.0,2098564095,Eric Lo,0,-0.0041099411153885,0.0447066884760059
+1636578950,MOBIHIDE a mobilea peer-to-peer system for anonymous location-based queries,2007,18,156,2,0.9,141097756,Gabriel Ghinita,0,-0.0041099411153885,0.0447066884760059
+1917396180,Distributed Privacy Preserving Data Collection using Cryptographic Techniques,2009,20,0,1,1.0,252562283,Panos Kalnis,0,-0.0041099411153885,0.0447066884760059
+1894699249,A Hybrid Technique for Private Location-Based Queries with Database Protection,2009,28,24,2,0.875,141097756,Gabriel Ghinita,0,-0.0041099411153885,0.0447066884760059
+2008459584,Multi-query optimization for on-line analytical processing,2003,21,34,1,1.0,252562283,Panos Kalnis,0,0.18251908047991128,1.225530484688088
+1993369312,Enabling search services on outsourced private spatial data,2010,36,97,4,0.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+1990588199,Personalized trajectory matching in spatial networks,2014,34,92,5,0.67937,2127782577,Shuo Shang,0,0.014532710543751099,0.030944858938630852
+2073216087,A framework for efficient data anonymization under privacy and accuracy constraints,2009,30,55,3,0.875,141097756,Gabriel Ghinita,0,-0.0041099411153885,0.0447066884760059
+2061567674,Generalized multidimensional data mapping and query processing,2005,32,27,2,0.0,3025133337,Rui Zhang,0,-0.5480488623846642,0.36430400208264047
+2062058474,ACME A scalable parallel system for extracting frequent patterns from a very long sequence,2014,33,11,3,0.75,2127994903,Majed Sahli,0,-0.3914535257925877,0.4149090567526454
+2057135445,User oriented trajectory search for trip recommendation,2012,46,116,6,0.628121,2127782577,Shuo Shang,0,0.014532710543751099,0.030944858938630852
+2090875625,ERA efficient serial and parallel suffix tree construction for very long strings,2011,19,27,4,1.0,2102281295,Essam Mansour,0,-0.9358387128846506,-0.19566228964654114
+2084012970,On the Anonymization of Sparse High-Dimensional Data,2008,25,174,3,0.9,141097756,Gabriel Ghinita,0,0.26041310439621507,0.7144088877851107
+2087869882,View selection using randomized search,2002,24,79,1,1.0,252562283,Panos Kalnis,0,-0.6742375225037845,1.3378475280025517
+2100410990,Local and global recoding methods for anonymizing set-valued data,2011,32,80,3,0.6,34369697,Manolis Terrovitis,0,-0.0041099411153885,0.0447066884760059
+2079353783,A reciprocal framework for spatial K-anonymity,2010,35,51,4,0.784615,141097756,Gabriel Ghinita,0,-0.46893397788284524,0.07728939382804885
+2098331493,Fast data anonymization with low information loss,2007,23,246,3,0.9,141097756,Gabriel Ghinita,0,-0.0041099411153885,0.0447066884760059
+2123383334,Active caching of on-line-analytical-processing queries in WWW proxies,2001,28,20,2,0.0,2196061450,Thanasis Loukopoulos,0,-0.051183359312235985,0.44401000294445747
+2123453946,Privacy-preserving anonymization of set-valued data,2008,23,247,3,0.6,34369697,Manolis Terrovitis,0,0.783815766636049,0.9814561149413875
+2127114249,Repeatability &amp; workability evaluation of SIGMOD 2009,2010,2,11,2,0.0,50097054,Marios Hadjieleftheriou,0,-0.0041099411153885,0.0447066884760059
+2109549608,Authenticated join processing in outsourced databases,2009,23,96,4,0.0,2280962535,Yin Yang,0,1.1089456672018625,0.1886170720027573
+2116148227,Proxy-server architectures for OLAP,2001,26,28,1,1.0,252562283,Panos Kalnis,0,-0.16328011374660287,0.9890247327765609
+2119149536,SABRE a Sensitive Attribute Bucketization and REdistribution framework for t-closeness,2011,34,55,3,0.0,2164916867,Jianneng Cao,0,0.43739842239757626,0.009947045888208002
+2107412086,Similarity evaluation on tree-structured data,2005,22,131,2,0.0,2709312246,Rui Yang,0,-0.42845202490949574,0.1450203979855267
+2107427524,Efficient and accurate nearest neighbor and closest pair search in high-dimensional space,2010,47,69,4,0.0,2131082813,Yufei Tao,0,-0.0041099411153885,0.0447066884760059
+2122255072,GraMi frequent subgraph and pattern mining in a single large graph,2014,33,124,4,0.0,1132419742,Mohammed Elseidy,0,-0.0041099411153885,0.0447066884760059
+2113808602,Approximate and exact hybrid algorithms for private nearest-neighbor queries with database protection,2011,30,34,2,0.702791,141097756,Gabriel Ghinita,0,-0.0041099411153885,0.0447066884760059
+2134577493,Optimization Algorithms for Simultaneous Multidimensional Queries in OLAP Environments,2001,14,6,1,1.0,252562283,Panos Kalnis,0,0.33982056117467624,1.1569546342677643
+2114074787,Hierarchical constraint satisfaction in spatial databases,1999,16,14,2,0.0,2243308922,Dimitris Papadias,0,-0.0041099411153885,0.0447066884760059
+2143921286,PHD-Store An Adaptive SPARQL Engine with Dynamic Partitioning for Distributed RDF Repositories,2014,0,4,3,1.0,2565254788,Razen Al Harbi,0,-0.39040501381267817,0.0678282925157182
+2114206928,RACE a scalable and elastic parallel system for discovering repeats in very long sequences,2013,21,0,3,1.0,2102281295,Essam Mansour,0,-0.0041099411153885,0.0447066884760059
+2144134823,Outsourced Similarity Search on Metric Data Assets,2012,31,80,4,0.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+2171645160,Answering similarity queries in peer-to-peer networks,2006,24,51,1,1.0,252562283,Panos Kalnis,0,-0.0041099411153885,0.0447066884760059
+2163511921,Outsourcing Search Services on Private Spatial Data,2009,13,42,4,0.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+2157855380,Private queries in location based services anonymizers are not necessary,2008,30,628,2,0.9,141097756,Gabriel Ghinita,0,-0.26111576430640643,-0.19302535071852145
+2167443373,An adaptive peer-to-peer network for distributed caching of OLAP results,2002,27,108,1,1.0,252562283,Panos Kalnis,0,-0.3632509700454942,1.1437180412081445
+2155502235,Quality and efficiency in high dimensional nearest neighbor search,2009,36,160,4,0.0,2131082813,Yufei Tao,0,-0.1232715727120712,0.2131450373911843
+2242646866,StarDB a large-scale DBMS for strings,2015,11,2,3,0.75,2127994903,Majed Sahli,0,0.13687068848302356,0.3250109970171685
+2247735372,Evaluating SPARQL queries on massive RDF datasets,2015,14,22,3,1.0,2282475530,Razen Harbi,0,-0.11128409690522129,-0.11022106634560426
+2279946013,SPARTex a vertex-centric framework for RDF data analytics,2015,13,15,4,1.0,2285488634,Ibrahim Abdelaziz,0,-0.39040501381267817,0.0678282925157182
+2288076324,Lightning fast and space efficient inequality joins,2015,23,14,8,0.625,2146365105,Zuhair Khayyat,0,1.1331143867863316,-1.2022534750670741
+2278210094,Adaptive Partitioning for Very Large RDF Data,2015,26,3,3,1.0,2565254788,Razen Al Harbi,0,-0.07516923212819328,-0.07837004240888926
+2296538037,Accelerating SPARQL queries by exploiting hash-based locality and adaptive partitioning,2016,40,36,3,1.0,2282475530,Razen Harbi,0,-0.07516923212819328,-0.07837004240888926
+2512795599,Fast and scalable inequality joins,2017,37,9,8,0.625,2146365105,Zuhair Khayyat,0,0.9368451040394636,-1.2009513121234394
+2613920817,A Demonstration of Lusail Querying Linked Data at Scale,2017,8,3,5,0.717045,2102281295,Essam Mansour,0,-0.39040501381267817,0.0678282925157182
+2620771968,Errata for Lightning Fast and Space Efficient Inequality Joins (PVLDB 8(13) 2074--2085),2017,3,0,8,0.625,2146365105,Zuhair Khayyat,0,-0.0041099411153885,0.0447066884760059
+2616071153,Collective Travel Planning in Spatial Networks,2017,8,3,6,0.95874,2127782577,Shuo Shang,0,-0.0041099411153885,0.0447066884760059
+2616683638,Query Optimizations over Decentralized RDF Graphs,2017,8,6,5,1.0,2285488634,Ibrahim Abdelaziz,0,0.0908845357243609,0.31128747720343375
+2765581018,A survey and experimental comparison of distributed SPARQL engines for very large RDF data,2017,41,32,4,1.0,2285488634,Ibrahim Abdelaziz,0,-0.3931244653377621,-0.0970885700194196
+2751694342,Trajectory similarity join in spatial networks,2017,21,62,6,0.95874,2127782577,Shuo Shang,0,0.18601297105691045,-0.0008472885667257998
+2794643080,Location-Aware Top-k Term Publish/Subscribe,2018,47,16,6,0.89685,2106043476,Lisi Chen,0,-0.0041099411153885,0.0447066884760059
+3012510853,Top- k term publish/subscribe for geo-textual data streams,2020,72,2,1,1.0,252562283,Panos Kalnis,0,-0.42845202490949574,0.1450203979855267

@@ -1,0 +1,95 @@
+58354739,Efficient Secure Two-Party Protocols Techniques and Constructions,2010,0,137,1,1.0,30238620,Yehuda Lindell,0,1.4960501686111125,-0.28563745385931716
+111135110,Secure Computation for Privacy Preserving Data Mining,2009,13,5,1,1.0,30238620,Yehuda Lindell,0,1.481236742415192,-0.09834171530796258
+128784951,Fair and Efficient Secure Multiparty Computation with Reputation Systems,2013,24,16,2,0.75,329093041,Gilad Asharov,0,1.9535715332977241,-0.2271149598262218
+939866213,The kth-Ranked Element,2010,3,0,1,1.0,30238620,Yehuda Lindell,0,0.3978023112053817,-0.1564435015146151
+1497828701,Secure Computation without Agreement,2002,28,96,2,0.0,1728759264,Shafi Goldwasser,0,1.3202863025890783,-0.3455014382852225
+1515945955,Security against covert adversaries efficient protocols for realistic adversaries,2007,28,82,2,1.0,361301894,Yonatan Aumann,0,0.24957608905739348,0.18007323265793676
+1552719996,On combining privacy with guaranteed output delivery in secure multiparty computation,2006,58,28,3,0.0,114908009,Yuval Ishai,0,0.6606987628376453,0.07786347105993556
+1544695791,Efficient protocols for set intersection and pattern matching with security against malicious and covert adversaries,2008,32,182,2,0.833333,2061601819,Carmit Hazay,0,0.7374679480812675,-0.8696603303610697
+1494138594,Implementing Two-Party Computation Efficiently with Security Against Malicious Adversaries,2008,31,112,1,1.0,30238620,Yehuda Lindell,0,1.624552402773447,-0.7279604727581814
+1666126665,Efficient Secure Two-Party Protocols,2010,0,95,1,1.0,30238620,Yehuda Lindell,0,0.0040557659796233,0.2757546058061082
+1875574498,Collusion-Free Multiparty Computation in the Mediated Model,2009,20,26,2,0.0,2237101560,Jonathan Katz,0,-1.3700498767959683,1.5592439022281461
+1759759811,Universally composable password-based key exchange,2005,32,182,4,0.0,687553606,Ran Canetti,0,-0.8222105661162326,-1.6697304949277494
+1775507803,A Proof of Yaos Protocol for Secure Two-Party Computation,2004,11,143,1,1.0,30238620,Yehuda Lindell,0,2.6125359646627255,-0.2774543214217347
+1583170144,Concurrently-secure blind signatures without random oracles or setup assumptions,2007,44,50,4,0.833333,2061601819,Carmit Hazay,0,0.41452463516943655,-1.4154767916987345
+1718722133,A simpler construction of CCA2-secure public-key encryption under general assumptions,2003,19,4,1,1.0,30238620,Yehuda Lindell,0,0.48667257298272887,-2.357988565471963
+1602159460,1/p-Secure multiparty computation without honest majority and the best of both worlds,2011,43,32,2,0.0,349121767,Amos Beimel,0,0.6227734277537725,-0.22786807643060725
+1970464137,On the composition of authenticated Byzantine Agreement,2006,33,16,1,1.0,30238620,Yehuda Lindell,0,-0.4406260288999169,-0.7507909772910588
+1977802313,Information-Theoretically Secure Protocols and Security under Composition,2010,0,24,2,0.681569,307687659,Eyal Kushilevitz,0,0.4081972967213953,-0.17796046871139448
+1983550066,Black-Box Constructions of Protocols for Secure Computation,2011,36,27,4,0.0,1252131916,Iftach Haitner,0,0.6144216588114586,-1.0614346150283513
+2019891719,More efficient oblivious transfer and extensions for faster secure computation,2013,57,166,2,0.75,329093041,Gilad Asharov,0,1.3289614678737067,-1.1261956331253626
+2057811891,Fast Garbling of Circuits Under Standard Assumptions,2015,23,29,2,0.164735,2719208086,Shay Gueron,0,0.9939092207760577,-0.9274321826426783
+2064829080,Secure Multi-Party Computation without Agreement,2005,38,65,2,0.0,1728759264,Shafi Goldwasser,0,1.0440734462541583,-0.19686611896824172
+2068441569,Adaptively Secure Computation with Partial Erasures,2015,33,4,2,0.451554,2061601819,Carmit Hazay,0,0.8749275366145369,-0.5059395723193612
+2078110310,Secure Computation Without Authentication,2011,29,11,3,0.467922,2199786071,Boaz Barak,0,-0.21477728077036407,-1.0133292730987127
+2099446123,On the Limitations of Universally Composable Two-Party Computation Without Set-Up Assumptions,2006,18,68,3,0.0,687553606,Ran Canetti,0,0.07649157540172406,-0.7740726752409152
+2093324650,GCM-SIV Full Nonce Misuse-Resistant Authenticated Encryption at Under One Cycle per Byte,2015,16,28,2,0.164735,2719208086,Shay Gueron,0,0.08981029370891436,-1.0400458065473384
+2084682902,Blazing Fast 2PC in the Offline/Online Setting with Security for Malicious Adversaries,2015,36,42,1,1.0,30238620,Yehuda Lindell,0,1.0148279357837102,-0.17555436131222457
+2093767941,On Achieving the â€œBest of Both Worldsâ€ in Secure Multiparty Computation,2011,21,19,1,1.0,30238620,Yehuda Lindell,0,0.8866323065273579,-0.3022379484037254
+2131921868,Utility Dependence in Correct and Fair Rational Secret Sharing,2009,20,31,2,1.0,329093041,Gilad Asharov,0,0.9414794044907308,-0.28280322598454805
+2126484007,Highly-efficient universally-composable commitments based on the DDH assumption,2011,26,57,1,1.0,30238620,Yehuda Lindell,0,0.4828998066033784,-0.79379881599855
+2106217851,A Proof of Security of Yaoâ€™s Protocol for Two-Party Computation,2009,16,389,1,1.0,30238620,Yehuda Lindell,0,2.5589600734154923,-0.4090108818314576
+2118179522,Security Against Covert Adversaries Efficient Protocols for Realistic Adversaries,2010,31,137,2,1.0,361301894,Yonatan Aumann,0,1.7067543021302995,-0.055526278085918764
+2112329914,Constructions of truly practical secure protocols using standardsmartcards,2008,26,58,1,1.0,30238620,Yehuda Lindell,0,0.7786398526811384,-0.3562004998102464
+2130211373,Private web search with malicious adversaries,2010,22,28,1,1.0,30238620,Yehuda Lindell,0,-0.17884484778502197,-0.7527660705831082
+2133314176,Efficient Protocols for Set Intersection and Pattern Matching with Security Against Malicious and Covert Adversaries,2010,25,63,2,0.684211,2061601819,Carmit Hazay,0,0.13434907921031294,0.547417091749077
+2130513648,Secure computation without authentication,2005,36,79,3,0.467922,2199786071,Boaz Barak,0,0.04775747989473801,-1.053948651749107
+2110804296,A framework for password-based authenticated key exchange 1,2006,34,71,1,1.0,30238620,Yehuda Lindell,0,-2.0482649724014474,-2.184169604752
+2134475940,Session-Key Generation Using Human Passwords Only,2001,51,184,2,0.0,65538393,Oded Goldreich,0,-0.7214460744329791,-0.49052217394262354
+2156867996,Information-theoretically secure protocols and security under composition,2006,29,46,2,0.57061,307687659,Eyal Kushilevitz,0,0.5889012270113873,-0.3728422289462052
+2154567403,Impossibility Results for Universal Composability in Public-Key Models and with Fixed Inputs,2011,34,13,2,1.0,2130204692,Dafna Kidron,0,-0.6425076167077522,-1.3821328812558633
+2161008709,Adaptive Zero-Knowledge Proofs and Adaptively Secure Oblivious Transfer,2009,35,13,1,1.0,30238620,Yehuda Lindell,0,1.2804200499584546,-0.6341701197952236
+2254427680,Utility Dependence in Correct and Fair Rational Secret Sharing,2011,17,26,2,1.0,329093041,Gilad Asharov,0,0.7246552642713175,-0.2139912054953462
+2230451675,Introduction to Modern Cryptography Second Edition,2014,0,40,2,0.0,2237101560,Jonathan Katz,0,-0.05729407688543295,-2.385351023666764
+2321484673,A method for providing security using secure computation,2014,19,16,1,1.0,30238620,Yehuda Lindell,0,0.8090587917552113,-1.4801095338517147
+2407185280,A Note on the Relation between the Definitions of Security for Semi-Honest and Malicious Adversaries,2010,4,8,2,0.684211,2061601819,Carmit Hazay,0,0.10407636550865003,0.37908832543945703
+2495276536,Composition Of Secure Multi-Party Protocols,2003,0,6,1,1.0,30238620,Yehuda Lindell,0,0.0040557659796233,0.2757546058061082
+2534079060,Attribute-based Key Exchange with General Policies,2016,33,9,3,0.0,2469209240,Vladimir Kolesnikov,0,-0.18893474713117347,-0.773850364131144
+2508004687,AES-GCM-SIV Nonce Misuse-Resistant Authenticated Encryption,2019,0,8,3,0.164735,2719208086,Shay Gueron,0,-0.9097046629134589,-0.5601776413349049
+2534976269,Optimizing Semi-Honest Secure Multiparty Computation for the Internet,2016,30,34,2,0.0,2409861296,Aner Ben Efraim,0,1.127710471547772,-0.4171920546879941
+2535321951,DEMO High-Throughput Secure Three-Party Computation of Kerberos Ticket Generation,2016,4,2,4,0.666667,2167599204,Toshinori Araki,0,0.13567622623803408,-0.7971324377123127
+2536058570,High-Throughput Semi-Honest Secure Three-Party Computation with an Honest Majority,2016,22,80,3,0.666667,2167599204,Toshinori Araki,0,0.6659075178997127,-0.9521402809399017
+2613776329,Session-key generation using human passwords only,2001,0,0,2,0.0,65538393,Oded Goldreich,0,-0.3201890594016325,-0.062262490546953826
+2610904339,A simpler construction of CCA2-secure public-key encryption under general assumptions,2003,0,57,1,1.0,30238620,Yehuda Lindell,0,0.48816833421483785,-2.425415785417792
+2611587517,Universally composable password-based key exchange,2005,0,0,4,0.0,687553606,Ran Canetti,0,-0.8222105661162326,-1.6697304949277494
+2704367133,Optimized Honest-Majority MPC for Malicious Adversaries â€” Breaking the 1 Billion-Gate Per Second Barrier,2017,23,44,1,1.0,30238620,Yehuda Lindell,0,1.6227389119769564,-0.30923750051634813
+2765632506,A Framework for Constructing Fast MPC over Arithmetic Circuits with Malicious Adversaries and an Honest-Majority,2017,34,21,1,1.0,30238620,Yehuda Lindell,0,0.41553847196878085,0.6234053458448676
+2766321958,Better Bounds for Block Cipher Modes of Operation via Nonce-Based Key Derivation,2017,18,7,2,0.164735,2719208086,Shay Gueron,0,0.965464256197103,-1.8648386302664197
+2884593066,Fast Distributed RSA Key Generation for Semi-honest and Malicious Adversaries,2018,25,7,2,0.0,2143648483,Tore Kasper Frederiksen,0,-0.04918655043731307,-1.6790640278429325
+2884909828,Fast Large-Scale Honest-Majority MPC for Malicious Adversaries,2018,25,22,6,0.0,2071097838,Koji Chida,0,-0.0402475395407492,0.46601502993625693
+2889894313,From Keys to Databasesâ€”Real-World Applications of Secure Multi-Party Computation,2018,8,18,1,1.0,30238620,Yehuda Lindell,0,0.8866323065273579,-0.3022379484037254
+2890748062,Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody,2018,28,12,1,1.0,30238620,Yehuda Lindell,0,-0.3072549364446314,-2.0080676142619103
+2918052119,Session-Key Generation Using Human Passwords Only,2006,42,39,2,0.220529,65538393,Oded Goldreich,0,0.30066347679741723,-0.7793769064628123
+2892164098,Generalizing the SPDZ Compiler For Other Protocols,2018,27,7,5,0.666667,2167599204,Toshinori Araki,0,1.3493490254985299,-0.3291162258479796
+2892199772,An End-to-End System for Large Scale P2P MPC-as-a-Service and Low-Bandwidth MPC for Weak Participants,2018,29,7,4,0.0,2705987184,Assi Barak,0,0.8866323065273579,-0.3022379484037254
+2949422779,Complete Fairness in Secure Two-Party Computation,2008,0,24,4,0.0,2135408682,S. Dov Gordon,0,1.9175572471526876,-0.027240775524054045
+2951593252,Hiding the Input-Size in Secure Two-Party Computation,2012,0,1,1,1.0,30238620,Yehuda Lindell,0,1.9175572471526876,-0.027240775524054045
+2951684487,Blazing Fast 2PC in the Offline/Online Setting with Security for Malicious Adversaries,2015,0,0,1,1.0,30238620,Yehuda Lindell,0,0.0040557659796233,0.2757546058061082
+2949716231,Fast Large-Scale Honest-Majority MPC for Malicious Adversaries,2018,0,1,6,0.0,2071097838,Koji Chida,0,0.0040557659796233,0.2757546058061082
+2949861400,A Proof of Yaos Protocol for Secure Two-Party Computation,2004,0,3,1,1.0,30238620,Yehuda Lindell,0,1.9175572471526876,-0.027240775524054045
+2951932002,Efficient Protocols for Set Intersection and Pattern Matching with Security Against Malicious and Covert Adversaries,2009,0,0,2,0.75,2061601819,Carmit Hazay,0,0.0040557659796233,0.2757546058061082
+2950042470,Secure Multiparty Computation for Privacy-Preserving Data Mining,2008,0,19,1,1.0,30238620,Yehuda Lindell,0,0.6979627471116719,-0.021043568125878005
+2952074772,Security Against Covert Adversaries Efficient Protocols for Realistic Adversaries,2007,0,0,2,1.0,361301894,Yonatan Aumann,0,0.0040557659796233,0.2757546058061082
+2950101161,Fast Cut-and-Choose Based Protocols for Malicious and Covert Adversaries,2013,0,2,1,1.0,30238620,Yehuda Lindell,0,2.6355139148636897,0.129534129483973
+2952135594,From Keys to Databases - Real-World Applications of Secure Multi-Party Computation,2018,0,2,3,0.0,2680644012,David W. Archer,0,1.0148279357837102,-0.17555436131222457
+2950423235,Fair and Efficient Secure Multiparty Computation with Reputation Systems,2013,0,0,2,0.75,329093041,Gilad Asharov,0,1.0148279357837102,-0.17555436131222457
+2950546514,An Efficient Protocol for Secure Two-Party Computation in the Presence of Malicious Adversaries,2008,0,0,1,1.0,30238620,Yehuda Lindell,0,1.9175572471526876,-0.027240775524054045
+2952630153,Utility Dependence in Correct and Fair Rational Secret Sharing,2009,0,1,2,1.0,329093041,Gilad Asharov,0,1.0112234854538964,-0.18024267455669074
+2952822694,More Efficient Oblivious Transfer Extensions with Security for Malicious Adversaries,2015,0,0,2,0.572546,329093041,Gilad Asharov,0,0.9275003662943186,-0.24314988386734587
+2956072516,Two-Thirds Honest-Majority MPC for Malicious Adversaries at Almost the Cost of Semi-Honest,2019,0,0,2,0.0,2774641301,Jun Furukawa,0,0.0040557659796233,0.2757546058061082
+2950874612,A Simpler Construction of CCA2-Secure Public-Key Encryption Under General Assumptions,2002,0,0,1,1.0,30238620,Yehuda Lindell,0,0.5873154256465867,-2.1044944081419423
+2950889105,A Framework for Password-Based Authenticated Key Exchange,2003,0,1,2,0.0,2108521744,Rosario Gennaro,0,-0.7551224147811132,-1.3649166616286006
+2953024208,Information-Theoretically Secure Protocols and Security Under Composition,2009,0,0,2,0.681569,307687659,Eyal Kushilevitz,0,0.0040557659796233,0.2757546058061082
+2953126035,High-Throughput Secure Three-Party Computation for Malicious Adversaries and an Honest Majority,2016,0,3,2,0.0,2774641301,Jun Furukawa,0,0.19173509209637535,0.07586792208368956
+2953228401,Session-Key Generation using Human Passwords Only,2000,0,1,2,0.0,65538393,Oded Goldreich,0,-0.4963305079896924,-0.48986846739417694
+2951228826,Constructions of Truly Practical Secure Protocols using Standard Smartcards,2009,0,0,2,0.75,2061601819,Carmit Hazay,0,0.036191276275480654,0.3679403960301915
+2953297982,Fast Secure Two-Party ECDSA Signing,2017,0,0,1,1.0,30238620,Yehuda Lindell,0,0.5965792211933824,-2.1325976502644233
+2949223077,Parallel Coin-Tossing and Constant-Round Secure Two-Party Computation,2001,0,0,1,1.0,30238620,Yehuda Lindell,0,1.9175572471526876,-0.027240775524054045
+2949230026,Fast Distributed RSA Key Generation for Semi-Honest and Malicious Adversaries,2018,0,0,2,0.0,2143648483,Tore Kasper Frederiksen,0,-0.1108584712340791,-1.4264438214172919
+2953389353,Universally Composable Two-Party and Multi-Party Secure Computation,2002,0,0,2,0.0,687553606,Ran Canetti,0,1.0148279357837102,-0.17555436131222457
+2949304148,Impossibility Results for Universal Composability in Public-Key Models and with Fixed Inputs,2007,0,0,2,1.0,2130204692,Dafna Kidron,0,-0.6425076167077522,-1.3821328812558633
+2949311747,Secure Two-Party Computation with Fairness - A Necessary Design Principle,2017,0,0,1,1.0,30238620,Yehuda Lindell,0,1.9175572471526876,-0.027240775524054045
+2949326481,Universally Composable Password-Based Key Exchange,2005,0,0,4,0.0,687553606,Ran Canetti,0,-0.42346555134785246,-0.9713564954154381
+2949341956,Fast Secure Multiparty ECDSA with Practical Distributed Key Generation and Applications to Cryptocurrency Custody,2018,0,11,1,1.0,30238620,Yehuda Lindell,0,-0.4969811677584988,-1.939693728864959
+3000181836,Perfectly Secret Encryption,2014,0,0,1,1.0,30238620,Yehuda Lindell,0,0.155870422438688,-0.3611899258997246
+2984654243,Two-Thirds Honest-Majority MPC for Malicious Adversaries at Almost the Cost of Semi-Honest,2019,24,1,2,0.0,2774641301,Jun Furukawa,0,0.606048634325083,-0.23518968520427608

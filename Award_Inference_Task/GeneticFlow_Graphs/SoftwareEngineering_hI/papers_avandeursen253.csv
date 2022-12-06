@@ -1,0 +1,51 @@
+207937088,Using MDE for Generic Comparison of Views,2007,7,4,1,1.0,1986602002,A. van Deursen,0,0.054206871020022494,-0.14864754259858318
+332533410,Visualizing Testsuites to Aid in Software Understanding,2006,0,0,2,1.0,1984857593,B. Cornelissen,0,0.0534980472725182,0.6444428004817006
+1504838769,An Industrial Case Study in Reconstructing Requirements Views,2008,0,8,2,0.333333,744437919,M. Lormans,0,-0.0291855379334779,0.0585196112869768
+1523907993,Dependency Profiles for Software Architecture Evaluations,2011,0,14,2,0.5,1969341377,Eric Bouwers,0,-0.307286268095344,-0.376006234166554
+1497777582,Detecting Code Smells in Spreadsheet Formulas,2011,0,0,3,0.6,2112506875,Felienne Hermans,0,0.16507363120930635,-0.2696288139740148
+1515127274,An evaluation of clone detection techniques for crosscutting concerns,2004,15,80,3,0.0,1439925882,Magiel Bruntink,0,0.16507363120930635,-0.2696288139740148
+1489277616,Splitting a Large Software Archive for Easing Future Software Evolution An Industrial Experience Report using Formal Concept Analysis,2008,0,0,1,1.0,1986602002,A. van Deursen,0,-0.0291855379334779,0.0585196112869768
+1481744445,A cognitive model for software architecture complexity,2010,0,0,4,0.5,1969341377,Eric Bouwers,0,-0.0291855379334779,0.0585196112869768
+1544044326,Execution Trace Analysis through Massive Sequence and Circular Bundle Views,2008,0,0,5,0.0,2423315594,S.G.M. Cornelissen,0,-0.0291855379334779,0.0585196112869768
+1526118661,Automated detection of test fixture strategies and smells,2013,0,29,2,0.0,2796510647,Greiler,0,-0.0291855379334779,0.0585196112869768
+1491958594,An Integrated Crosscutting Concern Migration Strategy and its Application to JHoTDraw,2007,0,0,3,0.333333,2109841295,Marius Marin,0,-0.0291855379334779,0.0585196112869768
+1527355805,Mining Software Repositories to Study Co-Evolution of Production &amp; Test Code,2008,0,29,1,1.0,1986602002,A. van Deursen,0,-0.0006260477612278006,-0.26942038845386046
+1501675650,Using Cluster Analysis to Improve the Design of Component Interfaces,2008,0,0,3,0.0,2406875518,R. Adnan,0,0.16507363120930635,-0.2696288139740148
+1501884980,Domain-Specific Languages in Practice A User Study on the Success Factors,2009,0,1,3,0.5,2112506875,Felienne Hermans,0,0.16507363120930635,-0.2696288139740148
+1573904598,Generating Version Convertors for Domain-Specific Languages,2008,0,0,3,0.0,2154209832,G. de Geest,0,-0.31691510084245617,0.01601714810313179
+1493687818,Comparing the co-evolution of production and test code in open source and industrial developer test processes through repository mining,2008,0,1,1,1.0,1986602002,A. van Deursen,0,-0.0291855379334779,0.0585196112869768
+1494112706,Supporting professional spreadsheet users by generating leveled dataflow diagrams,2010,0,0,3,0.6,2112506875,Felienne Hermans,0,-0.0291855379334779,0.0585196112869768
+1531418056,Detecting and Visualizing Inter-Worksheet Smells in Spreadsheets,2011,0,0,2,0.6,2112506875,Felienne Hermans,0,0.16507363120930635,-0.2696288139740148
+1522553799,Identifying Crosscutting Concerns Using Fan-in Analysis,2006,0,1,2,0.0,2950895948,Marius Marin,0,-0.5858771665552741,0.2641527235267396
+1747822886,Program plan recognition for Year 2000 tools,1997,27,15,1,1.0,1986602002,A. van Deursen,0,-0.0291855379334779,0.0585196112869768
+1578152216,Quantifying the Analyzability of Software Architectures,2011,0,0,3,0.5,1969341377,Eric Bouwers,0,-0.307286268095344,-0.376006234166554
+1607162334,Documenting Typical Crosscutting Concerns,2007,0,0,3,0.333333,2109841295,Marius Marin,0,-0.14130990982849,-0.2217319337914215
+1946178013,How should software evolution and maintenance be taught,2002,0,3,1,1.0,1986602002,A. van Deursen,0,-0.0291855379334779,0.0585196112869768
+1592792018,A Component- and Push-based Architectural Style for Ajax Applications,2008,0,16,2,0.0,2022381637,Ali Mesbah,0,-0.0291855379334779,0.0585196112869768
+1863566242,Type inference for COBOL systems,1998,20,43,1,1.0,1986602002,A. van Deursen,0,-0.771753809769316,0.2912173394571415
+1986951253,Detecting and refactoring code smells in spreadsheet formula,2013,0,2,2,0.0,335874646,Martin Pinzger,0,0.16507363120930635,-0.2696288139740148
+2103395411,Building program understanding tools using visitor combinators,2002,18,11,1,1.0,1986602002,A. van Deursen,0,-0.5863463170654387,0.20193309130246104
+2101778378,Measuring Spreadsheet Formula Understandability,2012,12,2,3,0.444444,2112506875,Felienne Hermans,0,-0.0291855379334779,0.0585196112869768
+2079970618,Guest Editors Introduction 10th Working Conference on Reverse Engineering,2005,1,0,1,1.0,1986602002,A. van Deursen,0,-0.5857137771225861,-0.09407554418886856
+2102318902,Visualizing Testsuites to Aid in Software Understanding,2007,28,49,2,1.0,1984857593,B. Cornelissen,0,0.0534980472725182,0.6444428004817006
+2120250853,On How Developers Test Open Source Software Systems,2007,24,3,4,0.342857,2291851674,Andy Zaidman,0,-0.0291855379334779,0.0585196112869768
+2132583473,Exploring legacy systems using types,2000,22,21,1,1.0,1986602002,A. van Deursen,0,-0.5863463170654387,0.20193309130246104
+2133142256,The Reengineering Wiki,2002,11,23,1,1.0,1986602002,A. van Deursen,0,-0.5858771665552741,0.2641527235267396
+2115919801,Mining Software Repositories to Study Co-Evolution of Production &amp; Test Code,2008,23,72,1,1.0,1986602002,A. van Deursen,0,-0.0291855379334779,0.0585196112869768
+2136531538,Identifying aspects using fan-in analysis,2004,14,152,2,0.333333,2109841295,Marius Marin,0,-0.14130990982849,-0.2217319337914215
+2136583449,Rapid system understanding Two COBOL case studies,1998,17,28,1,1.0,1986602002,A. van Deursen,0,-0.771753809769316,0.2912173394571415
+2119472370,Splitting a Large Software Archive for Easing Future Software Evolution - An Industrial Experience Report using Formal Concept Analysis,2008,15,7,4,0.0,2045471142,M. Glorie,0,-0.0291855379334779,0.0585196112869768
+2119542776,Generating Version Convertors for Domain-Specific Languages,2008,13,4,3,0.0,2154209832,G. de Geest,0,0.036042826400162244,0.1955779223716766
+2137619003,A Controlled Experiment for Program Comprehension through Trace Visualization,2011,55,90,3,0.666667,1984857593,B. Cornelissen,0,-0.0291855379334779,0.0585196112869768
+2168717198,From legacy to component Software renovation in three steps,2000,20,5,3,0.0,687203069,R. Tolido,0,-0.0291855379334779,0.0585196112869768
+2165904604,Asf+Sdf95 a workshop on Generating Tools from Algebraic Specifications,1995,0,0,2,0.0,1568313214,T. B. Dinesh,0,-0.0291855379334779,0.0585196112869768
+2166235954,Model-Driven Software Evolution A Research Agenda,2007,44,64,1,1.0,1986602002,A. van Deursen,0,0.5728184276098459,0.08725633671464494
+2151747011,Can LSI help reconstructing requirements traceability in design and test,2006,29,106,2,0.333333,744437919,M. Lormans,0,-0.6187099202079455,0.02124498680478165
+2157860988,Evaluating an embedded software reference architecture - industrial experience report,2005,17,32,3,0.705882,2053465270,B. Graaf,0,0.16507363120930635,-0.2696288139740148
+2157943826,A Systematic Survey of Program Comprehension through Dynamic Analysis,2009,155,288,3,0.666667,1984857593,B. Cornelissen,0,-0.5858771665552741,0.2641527235267396
+2152139381,An initial experiment in reverse engineering aspects,2004,3,13,2,0.0,1439925882,Magiel Bruntink,0,-0.0291855379334779,0.0585196112869768
+2176292497,Visualisation of Domain-Specific Modelling Languages Using UML,2006,0,0,2,0.705882,2053465270,B. Graaf,0,-0.0291855379334779,0.0585196112869768
+2155526946,Using Cluster Analysis to Improve the Design of Component Interfaces,2008,15,8,3,0.0,2406875518,R. Adnan,0,0.16507363120930635,-0.2696288139740148
+2170559015,Symphony view-driven software architecture reconstruction,2004,28,110,1,1.0,1986602002,A. van Deursen,0,-0.0291855379334779,0.0585196112869768
+2562097053,Software Technology &amp; Engineering,2007,0,0,2,0.0,1983299346,Paul Klint,0,-0.0291855379334779,0.0585196112869768
+2588314069,Reconstructie van software-architecturen voor systeem-evaluatiedoeleinden,2005,0,0,1,1.0,1986602002,A. van Deursen,0,-0.0291855379334779,0.0585196112869768

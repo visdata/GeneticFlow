@@ -1,0 +1,244 @@
+205715760,CloudFence Data Flow Tracking as a Cloud Service,2013,47,33,5,1.0,2140172537,Vasilis Pappas,0,0.06054255142169482,1.7737413043017747
+87092461,Characterizing Software Self-healing Systems,2007,49,27,1,1.0,299775663,Angelos D. Keromytis,0,-1.3721930698182816,1.7734739921660752
+70478248,Transparent ROP exploit mitigation using indirect branch tracing,2013,36,197,3,1.0,2140172537,Vasilis Pappas,0,-0.6374321313972565,0.7165519675208408
+70492804,Privacy-preserving social plugins,2012,22,26,2,0.659958,198647274,Michalis Polychronakis,0,0.03414406787360945,0.2818663120264617
+56123556,Network Bandwidth Denial of Service (DoS),2011,1,0,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+57429007,Integrity postures for software self-defense,2008,0,0,2,0.635514,177051771,Michael E. Locasto,0,0.028886202871969403,0.40809460839456135
+212684417,Proceedings of the 2009 ACM Conference on Computer and Communications Security CCS 2009 Chicago Illinois USA November 9-13 2009,2009,0,0,2,0.0,210080398,Ehab Al Shaer,0,0.0345193044346854,0.11711036493391322
+57571506,Insider Attack and Cyber Security Beyond the Hacker (Advances in Information Security),2008,7,4,1,1.0,299775663,Angelos D. Keromytis,0,-0.8862462558125559,0.8937520920876306
+40811774,Enhancing Security by Diversifying Instruction Sets,2014,31,1,1,1.0,299775663,Angelos D. Keromytis,0,0.1475395743585395,0.8074695844854315
+75589233,Dynamic Reconstruction of Relocation Information for Stripped Binaries,2014,27,6,3,0.91748,2140172537,Vasilis Pappas,0,0.0040557659796233,0.2757546058061082
+109745552,Survey of VoIP Security Research Literature,2011,0,1,1,1.0,299775663,Angelos D. Keromytis,0,-1.143110985684846,1.8380139274529625
+178189088,Implementing internet key exchange (IKE),2000,9,15,2,1.0,2304375447,Niklas Hallqvist,0,-1.679778985457242,-1.5134397824487849
+216290182,Secure Overlay Services (SOS),2004,0,1,1,1.0,299775663,Angelos D. Keromytis,0,-0.6991659014300655,0.5826649162513587
+127978132,Voice-over-IP Security,2011,0,5,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+196073467,Survey and Analysis of VoIP/IMS Vulnerabilities,2011,0,0,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+96292249,Applied Cryptography and Network Security,2008,0,0,1,1.0,299775663,Angelos D. Keromytis,0,-0.20264906550746375,-2.3112383661667986
+164621919,The KeyNote trust management system version2 IETF RFC 2704,1999,0,364,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+64136229,Cryptography in OpenBSD an overview,1999,16,47,4,0.0,284269125,Theo de Raadt,0,-0.6605384942180057,-0.7682983073136769
+67104385,Computational Decoys for Cloud Security,2014,28,6,3,0.8,2156318551,Georgios Kontaxis,0,-0.3287690164964345,0.14636193449847731
+231257848,A Secure PLAN,2002,61,2,2,0.714286,2130756752,Michael Hicks,0,-0.7173327764011975,1.4184619020953597
+50782955,Trust Management and Network Security Protocols,1999,0,3,1,1.0,299775663,Angelos D. Keromytis,0,-1.2126809214400045,2.3766009970286706
+16278051,Decentralized Access Control in Networked File Systems,2006,62,1,2,0.522592,282527274,Vassilis Prevelakis,0,-0.674533770360125,0.4135916628302727
+974002769,Detecting Traffic Snooping in Anonymity Networks Using Decoys,2011,17,2,3,0.659958,198647274,Michalis Polychronakis,0,-0.5109134733815648,0.0814819387805282
+245001556,Anomaly Detection at Multiple Scales (ADAMS),2011,1,5,1,1.0,299775663,Angelos D. Keromytis,0,-0.09291813995955463,0.8340437774834397
+245309746,KeyNote Trust Management for Public-Key Infrastructures (Position Paper),1999,0,64,3,0.5,2030167100,Matt Blaze,0,-0.032947868094949866,-1.6941688181447345
+1531756074,Taming the Devil Techniques for Evaluating Anonymized Network Data,2008,28,50,3,0.0,378166711,Scott E. Coull,0,-0.2263130908120603,0.5625424318017056
+1558616362,An adversarial evaluation of network signaling and control mechanisms,2010,37,0,4,1.0,2164788487,Kangkook Jee,0,-0.1029751972880995,0.5809551894980884
+1487878019,WebSOS protecting web servers from DDoS attacks,2003,19,28,3,1.0,2153477080,Debra L. Cook,0,0.0040557659796233,0.2757546058061082
+1488113008,Dealing with System Monocultures,2004,12,3,2,0.6,282527274,Vassilis Prevelakis,0,-0.010286787895299835,0.814754919683694
+1496748351,Secure and Flexible Global File Sharing,2003,27,29,5,1.0,2093144796,Stefan Miltchev,0,-1.4268705005478615,0.14590382386886547
+1496764396,Next Generation Attacks on the Internet,2006,26,0,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+1541310678,Return Value Predictability Profiles for Self---healing,2008,24,0,4,0.635514,177051771,Michael E. Locasto,0,0.0040557659796233,0.2757546058061082
+1488266988,Systems methods and media for enforcing a security policy in a network including a plurality of components,2009,38,90,1,1.0,299775663,Angelos D. Keromytis,0,-0.3383784544281044,0.15268826611744696
+1523618955,WAR wireless anonymous routing,2003,39,12,3,0.296596,2030167100,Matt Blaze,0,0.0040557659796233,0.2757546058061082
+1532683848,REASSURE a self-contained mechanism for healing software using rescue points,2011,25,24,2,0.952308,255162683,Georgios Portokalidis,0,0.0040557659796233,0.2757546058061082
+1479894439,Creating Efficient Fail-Stop Cryptographic Protocols,1996,9,12,1,1.0,299775663,Angelos D. Keromytis,0,-1.3813661206907168,-1.7664298950307489
+1541899491,Experience with the keynote trust management system applications and future directions,2003,36,62,3,0.296596,2030167100,Matt Blaze,0,-0.3615211150762344,0.45500927054902957
+1488841486,System and method for microbilling using a trust management system,1999,6,20,1,1.0,299775663,Angelos D. Keromytis,0,-0.4650443682604679,-1.5022888565318364
+1569442780,F3ildCrypt End-to-End Protection of Sensitive Information in Web Services,2009,22,5,2,0.794118,2138324157,Matthew Burnside,0,0.0040557659796233,0.2757546058061082
+1569482730,A Case for P2P Delivery of Paid Content,2006,6,0,1,1.0,299775663,Angelos D. Keromytis,0,-1.3810759222508078,-0.8294137185492026
+1560435913,Countering DDoS Attacks with Multi-Path Overlay Networks,2006,6,0,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+1489860278,CASPER Compiler-Assisted Securing of Programs at Runtime,2002,10,2,1,1.0,299775663,Angelos D. Keromytis,0,-1.723181928489746,0.35012118258773794
+1543460920,Methods media and systems for responding to a denial of service attack,2006,190,79,1,1.0,299775663,Angelos D. Keromytis,0,-0.5530861437885858,-0.004176666300269333
+1552798334,Proceedings of the 16th ACM conference on Computer and communications security,2009,0,0,2,0.0,210080398,Ehab Al Shaer,0,0.0345193044346854,0.11711036493391322
+1507856613,Remotely keyed cryptographics secure remote display access using (mostly) untrusted hardware,2005,37,15,3,1.0,2153477080,Debra L. Cook,0,0.4625743952219846,0.4739678563367479
+1507898794,A cooperative immunization system for an untrusting Internet,2003,14,61,4,1.0,143871111,Kostas G. Anagnostakis,0,0.01729573639416045,0.692733692908092
+1526098002,The role of trust management in distributed systems security,2001,23,487,3,0.419024,2030167100,Matt Blaze,0,-0.7584541566925759,1.2445735755596643
+1499649863,Defending Against Next Generation Through Network/Endpoint Collaboration and Interaction,2009,36,8,2,0.463439,177051771,Michael E. Locasto,0,0.12944494320330083,0.8222090776109727
+1535420575,Securing MANET multicast using DIPLOMA,2010,15,7,2,1.0,2043631046,Mansoor Alicherry,0,-0.6436756936579372,-2.0469987414571156
+1544783700,Bait and Snitch Defending Computer Systems with Decoys,2013,11,25,1,1.0,299775663,Angelos D. Keromytis,0,-0.09602735134178905,0.6849619620451437
+1535810264,kGuard lightweight kernel protection against return-to-user attacks,2012,39,62,3,0.727273,1189730027,Vasileios P. Kemerlis,0,0.1639362940477497,0.6530314529854678
+1554145974,Race to the Bottom Malicious Hardware,2008,0,0,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+1536341489,TAPI Transactions for Accessing Public Infrastructure,2003,17,14,4,0.296596,2030167100,Matt Blaze,0,-0.023550276898621297,0.7099097923564667
+1500954526,Computer security research with human subjects risks benefits and informed consent,2011,19,5,3,0.0,2618009234,Maritza Johnson,0,0.0040557659796233,0.2757546058061082
+1527520153,CamouflageFS Increasing the Effective Key Length in Cryptographic Filesystems on the Cheap,2004,18,0,2,1.0,177051771,Michael E. Locasto,0,-0.6815103932288816,-2.5714146041005317
+1536598138,Baiting Inside Attackers Using Decoy Documents,2009,22,131,3,1.0,2112282457,Brian M. Bowen,0,0.12716273418425725,1.1882107113620313
+1536666447,Insider Attack and Cyber Security Beyond the Hacker,2010,0,42,1,1.0,299775663,Angelos D. Keromytis,0,-1.0207432297077954,0.407935879784252
+1518483596,Security in active networks,2001,56,18,3,0.0,2101605615,D. Scott Alexander,0,-0.29093500046325804,0.051957964252851103
+1484158612,Path-Based Access Control for Enterprise Networks,2008,23,2,2,0.794118,2138324157,Matthew Burnside,0,-0.23863628229013345,0.4571918966044266
+1510388855,Deny-by-Default Distributed Security Policy Enforcement in Mobile Ad Hoc Networks,2009,11,26,2,0.909091,2043631046,Mansoor Alicherry,0,0.0040557659796233,0.2757546058061082
+1510508184,Detecting targeted attacks using shadow honeypots,2005,61,194,6,0.857143,143871111,Kostas G. Anagnostakis,0,0.02080662431885795,0.3505429208334274
+1537603447,Authentication on untrusted remote hosts with public-key sudo,2008,12,0,3,0.794118,2138324157,Matthew Burnside,0,-0.2214991738794549,-1.3350527982326827
+1565019088,An analysis of rogue AV campaigns,2010,28,54,4,0.0,2131175448,Marco Cova,0,0.1639362940477497,0.6530314529854678
+1485602485,Adding Trust to P2P Distribution of Paid Content,2009,16,9,4,0.0,2133225676,Alex Sherman,0,-1.3855403157114035,1.7581595242590635
+1494555491,A multilayer overlay network architecture for enhancing IP services availability against dos,2011,35,9,3,0.545852,2089888775,Dimitris Geneiatakis,0,-0.33532849831875633,0.04883437712091565
+1575123591,Pushback for overlay networks protecting against malicious insiders,2008,20,1,3,0.597561,2251358113,Angelos Stavrou,0,0.1639362940477497,0.6530314529854678
+1520959359,Distributed Firewall For MANETs,2008,32,2,1,1.0,299775663,Angelos D. Keromytis,0,1.099507799301075,-0.129581861822433
+1521175893,Global ISR Toward a Comprehensive Defense Against Unauthorized Code Execution,2011,35,26,2,0.952308,255162683,Georgios Portokalidis,0,0.1639362940477497,0.6530314529854678
+1447175589,ret2dir rethinking kernel isolation,2014,19,48,3,0.8,1189730027,Vasileios P. Kemerlis,0,0.0040557659796233,0.2757546058061082
+1567188009,Trust Management and Network Layer Security Protocols,1999,7,33,3,0.5,2030167100,Matt Blaze,0,-0.44616475492875207,0.09972737853388716
+1567657247,MOVE An End-to-End Solution To Network Denial of Service,2005,58,53,2,1.0,2251358113,Angelos Stavrou,0,-0.5530861437885858,-0.004176666300269333
+1585630533,Retrofitting Security in COTS Software with Binary Rewriting,2011,28,28,6,0.0,2973917298,PÃƒÂ¡draig OSullivan,0,-1.3721930698182816,1.7734739921660752
+1594551786,EasyVPN IPsec Remote Access Made Easy,2003,9,8,2,0.0,2323944159,Mark C. Benvenuto,0,-1.0836257993702838,-0.5091875710067988
+1666397912,BotSwindler tamper resistant injection of believable decoys in VM-based hosts for crimeware detection,2010,25,23,5,1.0,2112282457,Brian M. Bowen,0,-0.6465226674175717,0.25410874691333063
+1577425422,Worm propagation strategies in an IPv6 Internet,2006,2,47,3,0.0,687694072,Steven M. Bellovin,0,0.0040557659796233,0.2757546058061082
+1876033015,FLIPS hybrid adaptive intrusion prevention,2005,38,64,3,1.0,177051771,Michael E. Locasto,0,0.2657351771120321,0.45875258303008054
+1672495063,BARTER Profile Model Exchange for Behavior-Based Access Control and Communication Security in MANETs,2007,16,1,2,0.0,225175796,Vanessa Frias Martinez,0,-0.15330996297985805,0.22892270295683845
+1596630083,On Effectiveness of Traffic Analysis Against Anonymity Networks Using Netflow,2013,0,0,3,0.584412,198647274,Michalis Polychronakis,0,-0.12101623578201222,0.3928621751004999
+1579155438,Traffic analysis against low-latency anonymity networks using available bandwidth estimation,2010,24,35,3,1.0,2145971525,Sambuddho Chakravarty,0,-0.7971905167247131,0.22811801000521176
+1935966811,Privacy as an operating system service,2006,15,10,3,0.625,2024597755,Sotiris Ioannidis,0,0.92643109166634,1.3037313853922086
+1910254799,An overlay architecture for end-to-end service availability,2007,135,0,1,1.0,299775663,Angelos D. Keromytis,0,0.34953010695519654,-0.1286485121159285
+1579863784,A Study of the Relative Costs of Network Security Protocols,2002,8,63,3,1.0,2093144796,Stefan Miltchev,0,-0.1112958097454958,0.7892112262528381
+1811337449,The STRONGMAN architecture,2003,17,52,1,1.0,299775663,Angelos D. Keromytis,0,-2.001030669120113,-0.29150920904606803
+1962917261,Systems methods and media protecting a digital data processing device from attack,2006,354,75,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+1762641880,Systems and methods for detecting and inhibiting attacks using honeypots,2007,97,211,2,0.362596,143871111,Kostas G. Anagnostakis,0,0.7439262335644424,0.6865514109036815
+1886974479,Scalable Resource Control in Active Networks,2000,21,12,4,1.0,143871111,Kostas G. Anagnostakis,0,0.0040557659796233,0.2757546058061082
+1590597681,CloudFence Enabling Users to Audit the Use of their Cloud-Resident Data,2012,43,11,1,1.0,299775663,Angelos D. Keromytis,0,-0.006888252673880265,0.8762363440150166
+1648477960,SQLrand Preventing SQL Injection Attacks,2004,32,326,2,0.0,2105376736,Stephen W. Boyd,0,-2.625859315264572,0.47037818082736205
+1599829296,Robust reactions to potential day-zero worms through cooperation and validation,2006,23,9,3,0.380952,143871111,Kostas G. Anagnostakis,0,0.0040557659796233,0.2757546058061082
+1590991404,Online Network Forensics for Automatic Repair Validation,2008,30,0,3,0.635514,177051771,Michael E. Locasto,0,0.1639362940477497,0.6530314529854678
+1599890279,A Pay-per-Use DoS Protection Mechanism For the Web,2004,34,15,3,1.0,2251358113,Angelos Stavrou,0,-0.023550276898621297,0.7099097923564667
+1651936986,An email worm vaccine architecture,2005,16,31,3,1.0,2075452274,Stelios Sidiroglou,0,0.12944494320330083,0.8222090776109727
+1711031530,Transparent network security policy enforcement,2000,5,44,1,1.0,299775663,Angelos D. Keromytis,0,-1.1170869349393375,0.3047419445996109
+1826263366,Methods systems and media for baiting inside attackers,2009,242,186,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+1920445953,Evaluation of a spyware detection system using thin client computing,2010,11,5,3,0.8,2140172537,Vasilis Pappas,0,0.21922414405154497,1.3217528463711943
+1946650534,Misuse detection in consent-based networks,2011,17,1,2,1.0,2043631046,Mansoor Alicherry,0,0.39683148532695356,2.291064344707158
+1827183707,Fileteller paying and getting paid for file storage,2002,11,58,3,0.666667,2793014390,John Ioannidis,0,-0.713939697530408,0.2499897574159646
+1655440301,gore routing-assisted defense against DDoS attacks,2005,18,2,4,0.0,2140775076,Stephen Chou,0,-0.8429456422465684,0.6625452301619644
+1828069936,Taint-exchange a generic system for cross-process and cross-host taint tracking,2011,28,23,3,0.909091,2088360633,Angeliki Zavou,0,0.1475395743585395,0.8074695844854315
+1656529189,Software Self-Healing Using Collaborative Application Communities,2006,57,64,3,1.0,177051771,Michael E. Locasto,0,0.0040557659796233,0.2757546058061082
+1619649181,BARTER Behavior Profile Exchange for Behavior-Based Admission and Access Control in MANETs,2009,16,9,2,0.0,2021877992,Salvatore J. Stolfo,0,0.194380164739137,0.28807148737540206
+1593700268,A Secure Plan,1999,17,52,2,0.75,2130756752,Michael Hicks,0,-0.24705218177342791,1.0009314920253831
+1602628487,DHCP++ Applying an efficient implementation method for fail-stop cryptographic protocols,1998,0,6,1,1.0,299775663,Angelos D. Keromytis,0,0.00692469038959489,-0.7079639950308334
+1950882734,Detecting traffic snooping in tor using decoys,2011,26,20,4,1.0,2145971525,Sambuddho Chakravarty,0,-0.9019300921868718,-0.07052411153641111
+1975113377,A Comprehensive Survey of Voice over IP Security Research,2012,221,105,1,1.0,299775663,Angelos D. Keromytis,0,-0.5530861437885858,-0.004176666300269333
+1981205788,Ethics in security vulnerability research,2010,8,11,3,0.0,2973757077,A.M. Matwyshyn,0,0.1000910920831281,1.0975859639292582
+1974319290,Using graphic turing tests to counter automated DDoS attacks against web servers,2003,46,146,4,0.0,1739525602,William G. Morein,0,0.0040557659796233,0.2757546058061082
+1965911293,The MEERKATS Cloud Security Architecture,2012,13,23,1,1.0,299775663,Angelos D. Keromytis,0,-0.0075554174688383284,0.782614210932782
+2006758887,Using Execution Transactions To Recover From Buffer Overflow Attacks,2004,34,12,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+2001547489,Dynamic Trust Management,2009,12,62,6,0.0,2903854414,Matt Blaze,0,-0.023550276898621297,0.7099097923564667
+2008648042,SAuth protecting user accounts from password database leaks,2013,39,32,4,0.8,2156318551,Georgios Kontaxis,0,-2.299536298077948,-1.6097602162952205
+1996453724,Blind Seer A Scalable Private DBMS,2014,46,120,8,0.91748,2140172537,Vasilis Pappas,0,0.0040557659796233,0.2757546058061082
+1989574504,Randomized Instruction Sets and Runtime Environments Past Research and Future Directions,2009,17,19,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+1998410860,KeyNote Trust Management for Public-Key Infrastructures (Position Paper),1998,5,259,3,0.5,2030167100,Matt Blaze,0,0.03910652856792115,-0.9542749174440527
+1995211540,Voice-over-IP Security Research and Practice,2010,5,41,1,1.0,299775663,Angelos D. Keromytis,0,-0.06882682971652375,0.2835116913221821
+1991857880,Using overlays to improve network security,2002,0,14,1,1.0,299775663,Angelos D. Keromytis,0,0.5355279649777269,-0.2240832001992596
+2005856185,Gone Rogue An Analysis of Rogue Security Software Campaigns,2009,1,2,1,1.0,299775663,Angelos D. Keromytis,0,0.21922414405154497,1.3217528463711943
+2009801020,Smashing the Gadgets Hindering Return-Oriented Programming Using In-place Code Randomization,2012,35,241,3,1.0,2140172537,Vasilis Pappas,0,-1.1498496721988534,1.1861355474867998
+2026553318,Wheres Wally Precise User Discovery Attacks in Location Proximity Services,2015,35,38,5,0.56229,254472727,Iasonas Polakis,0,0.015245780877612549,0.7423220265691124
+2019641142,ShadowReplica efficient parallelization of dynamic data flow tracking,2013,32,37,3,1.0,2164788487,Kangkook Jee,0,0.0040557659796233,0.2757546058061082
+2016473027,COVERAGE detecting and reacting to worm epidemics using cooperation and validation,2007,89,5,4,0.362596,143871111,Kostas G. Anagnostakis,0,0.0040557659796233,0.2757546058061082
+2050925544,Mediated overlay services (MOSES) Network security as a composable service,2007,19,6,1,1.0,299775663,Angelos D. Keromytis,0,0.20023670937315688,0.7644039474402508
+2051994163,Asynchronous policy evaluation and enforcement,2008,20,2,2,0.794118,2138324157,Matthew Burnside,0,-0.32464863209127803,1.5327915105911905
+2061354941,The Spy in the Sandbox Practical Cache Attacks in JavaScript and their Implications,2015,24,115,4,0.0,2627822722,Yossef Oren,0,-0.9946414567447108,0.6391491026275149
+2073754090,Key note Trust management for public-key infrastructures,1999,0,223,1,1.0,299775663,Angelos D. Keromytis,0,-0.032947868094949866,-1.6941688181447345
+2065076683,Attacking the Internet Using Broadcast Digital Television,2015,17,3,2,0.0,2627822722,Yossef Oren,0,0.0040557659796233,0.2757546058061082
+2075893549,Detection and analysis of eavesdropping in anonymous communication networks,2015,28,9,4,0.857143,2145971525,Sambuddho Chakravarty,0,0.011788180634529855,-0.3417311002085374
+2068963333,All your face are belong to us breaking Facebooks social authentication,2012,24,25,6,0.666667,254472727,Iasonas Polakis,0,-0.4340734600369123,-0.05261865735895976
+2060276266,ROP payload detection using speculative code execution,2011,14,34,2,0.659958,198647274,Michalis Polychronakis,0,0.8770957777503273,0.7878042121150818
+2062293785,Automating the injection of believable decoys to detect snooping,2010,7,25,4,1.0,2112282457,Brian M. Bowen,0,0.11562141490851889,0.06459600877812216
+2074614677,A market-based bandwidth charging framework,2010,30,22,3,0.0,2471707147,David M. Turner,0,0.0040557659796233,0.2757546058061082
+2082386341,Trust Management for IPsec,2001,20,17,3,0.419024,2030167100,Matt Blaze,0,-0.3056943251936893,1.0349314824838771
+2097174997,Countering network worms through automatic patch generation,2005,95,123,2,1.0,2075452274,Stelios Sidiroglou,0,0.5612798915253077,0.2825024933725795
+2086033890,SecureGov secure data sharing for government services,2013,15,14,4,0.0,2237135878,John (Jong Uk) Choi,0,-0.2214377535476067,-0.43429194291057965
+2100100366,A Survey of Voice over IP Security Research,2009,52,28,1,1.0,299775663,Angelos D. Keromytis,0,0.13679434731489165,0.6751406926737795
+2103154003,Casting out Demons Sanitizing Training Data for Anomaly Sensors,2008,30,119,5,0.0,2078754467,Gabriela F. Cretu,0,0.10186196318124101,0.7002273840879868
+2101699859,Countering code-injection attacks with instruction-set randomization,2003,49,607,2,0.5,1974600515,Gaurav S. Kc,0,0.0040557659796233,0.2757546058061082
+2101923845,WebDAVA An administrator-free approach to Web file-sharing,2003,10,7,5,0.0,2423807283,A. Levine,0,0.0040557659796233,0.2757546058061082
+2099057867,Scalable Security Mechanisms for the Internet,2001,9,0,1,1.0,299775663,Angelos D. Keromytis,0,-0.49287081909395153,-0.25833173204099713
+2099193094,SSARES Secure Searchable Automated Remote Email Storage,2007,10,21,4,0.0,1989402555,Adam J. Aviv,0,-0.9206299731851614,-1.958519820421669
+2102308398,iLeak A Lightweight System for Detecting Inadvertent Information Leaks,2010,15,10,2,0.777221,255162683,Georgios Portokalidis,0,-0.4152643283264637,0.40987787239528517
+2131861239,Traffic analysis attacks and defenses in low latency anonymous communication,2014,62,3,1,1.0,299775663,Angelos D. Keromytis,0,-0.033965410877155544,0.258005984262909
+2131886737,A Network Access Control Mechanism Based on Behavior Profiles,2009,11,28,3,0.0,1989279698,Joseph Sherrick,0,0.21756076419240766,0.8419346554655507
+2138018097,A secure PLAN,2003,66,16,2,0.714286,2130756752,Michael Hicks,0,1.134911231378122,0.9894273771717288
+2131998781,Designing Host and Network Sensors to Mitigate the Insider Threat,2009,11,58,4,1.0,2112282457,Brian M. Bowen,0,0.0040557659796233,0.2757546058061082
+2120308327,Faces in the Distorting Mirror Revisiting Photo-based Social Authentication,2014,22,17,8,0.666667,254472727,Iasonas Polakis,0,-0.6431194978466626,0.12175700068332544
+2114672114,Safety and security of programmable network infrastructures,1998,25,52,1,1.0,299775663,Angelos D. Keromytis,0,-0.6794176461510978,1.229149094595554
+2117627353,Towards a Forensic Analysis for Multimedia Communication Services,2011,18,3,2,0.545852,2089888775,Dimitris Geneiatakis,0,-0.21635238585574376,0.16474548100155043
+2138820188,A Privacy-Preserving Entropy-Driven Framework for Tracing DoS Attacks in VoIP,2013,32,5,4,0.521739,334786632,Zisis Tsiatsikas,0,0.1487447083725996,0.6696498000879143
+2118147786,Capturing Information Flow with Concatenated Dynamic Taint Analysis,2009,27,18,2,0.0,2346919573,Hyung Chan Kim,0,-0.0704802660657359,0.09794035737183271
+2138930598,A secure active network environment architecture realization in SwitchWare,1998,38,102,1,1.0,299775663,Angelos D. Keromytis,0,-0.89706659374274,1.1762054363342695
+2127099505,Self-healing multitier architectures using cascading rescue points,2012,31,9,3,0.909091,2088360633,Angeliki Zavou,0,0.02628798490352915,0.2525820434058046
+2139153904,SOS secure overlay services,2002,30,442,1,1.0,299775663,Angelos D. Keromytis,0,-1.006670412602821,-0.18845084507651866
+2136400262,The price of safety in an active network,2001,49,39,3,0.0,2101605615,D. Scott Alexander,0,0.4421911254906452,0.14642581152089304
+2142684377,Systems methods and media for generating bait information for trap-based defenses,2007,226,87,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+2130549413,Speculative virtual verification policy-constrained speculative execution,2005,33,2,3,1.0,177051771,Michael E. Locasto,0,1.0046458628771788,-0.1743665084829525
+2133495192,DoubleCheck Multi-path verification against man-in-the-middle attacks,2009,9,38,2,0.909091,2043631046,Mansoor Alicherry,0,-0.27917767210207944,-0.7095986184676121
+2112968990,The Spy in the Sandbox - Practical Cache Attacks in Javascript,2015,19,20,4,0.0,2627822722,Yossef Oren,0,-1.6410534558826477,-0.1941948842996943
+2118898105,Design and implementation of virtual private services,2003,45,15,4,0.857143,2024597755,Sotiris Ioannidis,0,-0.5722052177964613,1.4932293704077713
+2142800880,Software self-healing using error virtualization,2008,108,1,1,1.0,299775663,Angelos D. Keromytis,0,0.02080662431885795,0.3505429208334274
+2127831620,Offline Micropayments without Trusted Hardware,2002,22,49,3,0.354249,2030167100,Matt Blaze,0,0.3171484069971384,-0.13992525839030945
+2121932235,Methods systems and media for detecting covert malware,2010,262,234,1,1.0,299775663,Angelos D. Keromytis,0,0.05940095047987125,0.6960502266457337
+2122213203,DIPLOMA Distributed Policy Enforcement Architecture for MANETs,2010,10,19,2,1.0,2043631046,Mansoor Alicherry,0,0.0040557659796233,0.2757546058061082
+2137038953,&quot;Patch on demand&quot; saves even more time [network security],2004,0,11,1,1.0,299775663,Angelos D. Keromytis,0,0.3259332239481683,0.5745734317069635
+2128370091,Conversion Functions for Symmetric Key Ciphers,2006,9,9,1,1.0,299775663,Angelos D. Keromytis,0,1.178445719693996,-2.2738801023328357
+2134175381,Automated Recovery in a Secure Bootstrap Process,1997,17,65,2,0.15,302569993,William A. Arbaugh,0,-0.7538700077155776,-0.2499826560541421
+2137430899,Towards collaborative security and P2P intrusion detection,2005,19,126,2,1.0,177051771,Michael E. Locasto,0,1.1759721760320334,0.9724126216856741
+2140595749,Microbilling using a trust management system,2009,16,0,1,1.0,299775663,Angelos D. Keromytis,0,-0.4650443682604679,-1.5022888565318364
+2122828687,A secure PLAN (extended version),2002,45,7,1,1.0,299775663,Angelos D. Keromytis,0,0.10606501676690976,1.3001027166410486
+2134671186,Secure quality of service handling SQoSH,2000,45,20,1,1.0,299775663,Angelos D. Keromytis,0,-0.26981302707592597,0.04967393275666633
+2143918801,Countering DoS attacks with stateless multipath overlays,2005,25,74,2,1.0,2251358113,Angelos Stavrou,0,-0.2120972008809192,-0.009077036518811622
+2111216264,A Study of Malcode-Bearing Documents,2007,24,66,5,0.0,2167867990,Wei Jen Li,0,0.12944494320330083,0.8222090776109727
+2123034525,Fast and practical instruction-set randomization for commodity systems,2010,29,52,2,0.777221,255162683,Georgios Portokalidis,0,0.46646853245840125,-0.06049824377257621
+2159264385,Design and analysis of decoy systems for computer security,2011,53,4,1,1.0,299775663,Angelos D. Keromytis,0,-0.07890120854383383,0.31562678205811245
+2144531184,Monitoring Technologies for Mitigating Insider Threats,2010,17,16,3,1.0,2112282457,Brian M. Bowen,0,-0.9358837157848754,0.2782568775887916
+2150803565,Anonymity in Wireless Broadcast Networks,2009,61,16,3,0.0,2903854414,Matt Blaze,0,-0.16420021596708323,0.32292378428885316
+2151188810,W3Bcrypt encryption as a stylesheet,2006,13,2,3,0.916667,2251358113,Angelos Stavrou,0,-0.6291220747284949,-1.4891003151094115
+2163085051,Dark application communities,2006,34,2,3,1.0,177051771,Michael E. Locasto,0,0.2952107584090067,0.7145741204173159
+2184334974,DSA and RSA Key and Signature Encoding for the KeyNote Trust Management System,2000,1,7,3,0.461538,2030167100,Matt Blaze,0,0.0040557659796233,0.2757546058061082
+2148365541,Systems and Methods for Correlating and Distributing Intrusion Alert Information Among Collaborating Computer Systems,2010,78,218,2,0.39681,177051771,Michael E. Locasto,0,0.0040557659796233,0.2757546058061082
+2148391042,The Efficient Dual Receiver Cryptosystem and Its Applications,2011,52,5,3,0.0,2550083459,Ted Diament,0,0.44142354535020806,-0.7406624084158081
+2151555965,A2M Access-Assured Mobile Desktop Computing,2009,31,4,3,0.541691,2251358113,Angelos Stavrou,0,0.30527249486493235,-0.05656054153409812
+2154572699,Elastic block ciphers method security and instantiations,2009,33,9,3,0.769231,2153477080,Debra L. Cook,0,1.9456510875307649,-1.8552288293499113
+2160506746,On the Deployment of Dynamic Taint Analysis for Application Communities,2009,12,5,2,0.0,2346919573,Hyung Chan Kim,0,-1.3721930698182816,1.7734739921660752
+2166601974,Exploiting split browsers for efficiently protecting user data,2012,22,10,4,0.909091,2088360633,Angeliki Zavou,0,0.0040557659796233,0.2757546058061082
+2163507572,A holistic approach to service survivability,2003,57,46,1,1.0,299775663,Angelos D. Keromytis,0,0.19913517224855312,0.7935298951707955
+2182190274,curity of etwork Infrastructures,1998,10,0,1,1.0,299775663,Angelos D. Keromytis,0,-0.24665772882069395,0.5741498405626646
+2148906386,Arachne Integrated Enterprise Security Management,2007,33,3,1,1.0,299775663,Angelos D. Keromytis,0,-0.18200697181753323,2.16150221978179
+2163795263,Just fast keying Key agreement in a hostile internet,2004,40,121,6,0.75,1971187209,William Aiello,0,-0.4358692802401256,-0.9299207587874927
+2154951939,Execution transactions for defending against software failures use and evaluation,2006,91,5,2,1.0,2075452274,Stelios Sidiroglou,0,0.3171484069971384,-0.13992525839030945
+2166975838,Implementing a distributed firewall,2000,19,466,2,0.875,2024597755,Sotiris Ioannidis,0,0.09778356263088482,0.43018584289242706
+2169974536,An efficient and easily deployable method for dealing with DoS in SIP services,2015,73,14,4,0.521739,334786632,Zisis Tsiatsikas,0,-0.10065487871952156,0.618245671969941
+2152091451,Efficient DoS-resistant secure key exchange for internet protocols,2002,33,96,7,0.9,1971187209,William Aiello,0,-0.5740037266565162,-1.8597772502031225
+2157959319,Evaluating a collaborative defense architecture for MANETs,2009,10,14,1,1.0,299775663,Angelos D. Keromytis,0,-0.2056178114880024,-0.05403708172565502
+2163994161,Using Rescue Points to Navigate Software Recovery,2007,22,25,3,0.0,2043266196,Stylianos Sidiroglou,0,0.0040557659796233,0.2757546058061082
+2167146581,On the infeasibility of modeling polymorphic shellcode,2007,42,106,4,0.0,2138308900,Yingbo Song,0,0.3384973613801249,0.1880240199043894
+2149305608,The dual receiver cryptosystem and its applications,2004,50,39,3,0.0,2003083778,Theodore Diament,0,0.5020330377970245,-1.9714407396830629
+2155306121,Adaptive defenses for commodity software through virtual application partitioning,2012,38,12,4,0.545852,2089888775,Dimitris Geneiatakis,0,-0.5530861437885858,-0.004176666300269333
+2167432494,e-NeXSh achieving an effectively non-executable stack and heap via system-call policing,2005,46,32,2,0.5,1974600515,Gaurav S. Kc,0,0.1639362940477497,0.6530314529854678
+2176320288,From the aether to the ethernet attacking the internet using broadcast digital television,2014,17,29,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+2167535607,Fog Computing Mitigating Insider Data Theft Attacks in the Cloud,2012,6,154,3,0.0,2021877992,Salvatore J. Stolfo,0,0.047406076117534626,0.252363152909923
+2146750633,Virtual Private Services Coordinated Policy Enforcement for Distributed Applications,2007,42,7,4,0.59927,2024597755,Sotiris Ioannidis,0,-1.3473476556909252,1.8284109398499968
+2164718735,Behavior-Profile Clustering for False Alert Reduction in Anomaly Detection Sensors,2008,12,14,2,0.0,2021877992,Salvatore J. Stolfo,0,0.0040557659796233,0.2757546058061082
+2171156397,IntFlow improving the accuracy of arithmetic error detection using information flow tracking,2014,18,10,5,0.0,2222467377,Marios Pomonis,0,0.0040557659796233,0.2757546058061082
+2183313193,Gone Rogue An Analysis of Rogue Security Software Campaigns (Invited Paper),2009,1,0,1,1.0,299775663,Angelos D. Keromytis,0,0.21922414405154497,1.3217528463711943
+2218921014,Designing Firewalls A Survey,2007,11,7,2,0.522592,282527274,Vassilis Prevelakis,0,-0.5722918954673915,-0.1211190976261276
+2254214089,A trusted p2p system for paid or other content delivery,2007,5,3,1,1.0,299775663,Angelos D. Keromytis,0,0.155870422438688,-0.3611899258997246
+2248297124,Transport Layer Security (TLS) Authorization Using KeyNote,2010,0,3,1,1.0,299775663,Angelos D. Keromytis,0,-0.23074821158711245,-0.07664606663108516
+2264081547,X509 Key and Signature Encoding for the KeyNote Trust Management System,2010,1,0,1,1.0,299775663,Angelos D. Keromytis,0,-1.4144619946753738,-2.7194327070758666
+2207780581,DynaGuard Armoring Canary-based Protections against Brute-force Attacks,2015,22,14,4,1.0,111108605,Theofilos Petsios,0,-0.00017242334600542364,0.5245213012456196
+2282142578,CryptoGraphics Exploiting Graphics Cards For Security (Advances in Information Security),2006,2,5,1,1.0,299775663,Angelos D. Keromytis,0,-0.1773385929008878,0.7069782294431272
+2380581874,I am Robot (Deep) Learning to Break Semantic Image CAPTCHAs,2016,43,39,3,1.0,2224279376,Suphannee Sivakorn,0,-0.4095652199915964,0.3246894702283116
+2396480315,Voice over IP Security A Comprehensive Survey of Vulnerabilities and Academic Research,2011,0,8,1,1.0,299775663,Angelos D. Keromytis,0,0.0040557659796233,0.2757546058061082
+2394543764,A General Approach for Efficiently Accelerating Software-based Dynamic Data Flow Tracking on Commodity Hardware,2012,45,32,6,1.0,2164788487,Kangkook Jee,0,0.0040557659796233,0.2757546058061082
+2482484368,Financial Cryptography and Data Security,2012,0,5,1,1.0,299775663,Angelos D. Keromytis,0,-0.7698484259458923,1.003728204703695
+2482718092,Security and Privacy in Communication Networks,2013,0,0,1,1.0,299775663,Angelos D. Keromytis,0,0.42724814973571873,0.6855312556942703
+2418758885,AS ecure Plan,1999,1,0,1,1.0,299775663,Angelos D. Keromytis,0,-0.1112880672739179,0.3275403405410478
+2483945477,Insider Attack and Cyber Security,2008,0,37,1,1.0,299775663,Angelos D. Keromytis,0,-1.9085098496280484,0.0940016851450281
+2468238611,Weak authentication How to authenticate unknown principals without trusted parties Discussion,2003,0,1,3,0.0,156238471,Jari Arkko,0,-0.8105347125109392,-0.6246351245229449
+2434584217,Applied Cryptography and Network Security Third International Conference ACNS 2005 New York NY USA June 7-10 2005 Proceedings (Lecture Notes in Computer Science),2005,0,2,1,1.0,299775663,Angelos D. Keromytis,0,0.42736916530366337,0.19784724694239997
+2461966230,Supporting imprecise delegation in KeyNote,2003,0,1,2,0.0,2132789672,Simon N. Foley,0,-0.6867090220018867,0.23853902445038144
+2474601827,Privacy Threats in E-Shopping Position Paper,2015,22,3,4,0.0,2551349121,Jesus Diaz,0,0.4732759143321257,1.868017460199419
+2519720814,Provable Network Activity for Protecting Users Against False Accusation,2016,6,0,5,0.0,2122697406,Panagiotis Papadopoulos,0,0.0040557659796233,0.2757546058061082
+2509369552,WAR Wireless Anonymous Routing Commentary Authors reply,2005,0,0,2,0.0,22890495,George Danezis,0,-0.21874684124243654,0.38453116398219406
+2509745758,The Cracked Cookie Jar HTTP Cookie Hijacking and the Exposure of Private Information,2016,56,24,3,1.0,2224279376,Suphannee Sivakorn,0,-0.5477501638160381,0.020836330988907036
+2550068562,Detecting return-oriented programming payloads by evaluating data for a gadget address space address and determining whether operations associated with instructions beginning at the address indicate a return-oriented programming payload,2012,383,2,2,0.659958,198647274,Michalis Polychronakis,0,-1.1180566081538228,0.5596738011988476
+2512416592,Back in Black Towards Formal Black Box Analysis of Sanitizers and Filters,2016,39,18,4,1.0,2232448341,George Argyros,0,0.0040557659796233,0.2757546058061082
+2533393700,SFADiff Automated Evasion Attacks and Fingerprinting Using Black-box Differential Automata Learning,2016,31,20,4,1.0,2232448341,George Argyros,0,0.0040557659796233,0.2757546058061082
+2586344326,Evaluating the Privacy Guarantees of Location Proximity Services,2017,43,6,4,1.0,2232448341,George Argyros,0,0.015245780877612549,0.7423220265691124
+2536255411,Thats the Way the Cookie Crumbles Evaluating HTTPS Enforcing Mechanisms,2016,13,6,2,1.0,2224279376,Suphannee Sivakorn,0,-0.008347901829072607,-0.3198039412143095
+2536565196,Protecting Insecure Communications with Topology-aware Network Tunnels,2016,10,0,2,0.698425,2156318551,Georgios Kontaxis,0,-0.2338468314918667,1.075183837395626
+2519693290,NaClDroid Native Code Isolation for Android Applications,2016,27,5,4,0.0,2198740901,Elias Athanasopoulos,0,-0.3287690164964345,0.14636193449847731
+2613655957,SPARCHS Symbiotic Polymorphic Automatic Resilient Clean-Slate Host Security,2016,0,0,1,1.0,299775663,Angelos D. Keromytis,0,-2.2645004657965595,2.9148778466104814
+2623575201,Applied Cryptography and Network Security Third International Conference ACNS 2005 New York NY USA June 7-10 2005 Proceedings,2005,0,0,1,1.0,299775663,Angelos D. Keromytis,0,0.42736916530366337,0.19784724694239997
+2591642604,Defending Against Web Application Attacks Approaches Challenges and Implications,2019,64,8,4,0.0,2131318614,Dimitris Mitropoulos,0,0.1639362940477497,0.6530314529854678
+2672575173,HVLearn Automated Black-Box Analysis of Hostname Verification in SSL/TLS Implementations,2017,22,28,4,1.0,2224279376,Suphannee Sivakorn,0,0.4537357398801613,-0.12217550920490683
+2611526060,Efficient DoS-resistant secure key exchange for Internet protocols,2002,0,2,7,0.9,1971187209,William Aiello,0,-0.13657611097411873,-1.6565657340443745
+2611775595,Efficient DoS-Resistant Secure Key Exchange for Internet Protocols,2001,11,7,7,0.9,1971187209,William Aiello,0,-0.46632095258439044,-2.4403367296166563
+2701082322,NEZHA Efficient Domain-Independent Differential Testing,2017,39,19,4,0.8125,111108605,Theofilos Petsios,0,-0.1619650957146651,0.9640654330417644
+2763752358,Approximating a Global Passive Adversary Against Tor,2008,14,4,1,1.0,299775663,Angelos D. Keromytis,0,-0.04249010622291574,1.153224630805144
+2752340395,SlowFuzz Automated Domain-Independent Detection of Algorithmic Complexity Vulnerabilities,2017,33,40,3,0.8125,111108605,Theofilos Petsios,0,-0.9211444849015388,-0.21090035597839518
+2971958255,Proceedings of the ACM Conference on Computer and Communications Security CCS 2010 program chairs welcome,2010,0,0,2,0.0,8790322,Vitaly Shmatikov,0,0.0345193044346854,0.11711036493391322
+3023429440,Trust Management for IPsec,2002,4,59,3,0.354249,2030167100,Matt Blaze,0,-1.1802176345085305,-0.007585041247936103
+3020890380,Weak authentication How to authenticate unknown principals without trusted parties Discussion,2003,0,0,3,0.0,156238471,Jari Arkko,0,-0.8105347125109392,-0.6246351245229449

@@ -1,0 +1,70 @@
+1488671050,Knowledge Agents on the Web,2000,7,25,2,0.0,152442579,Yariv Aridor,0,0.6119984954407243,-1.356362876585784
+1481007126,Temporal link analysis of linked entities,2002,55,23,2,1.0,1267639795,Michael Herscovici,0,0.01081499603401945,-0.22829683392880562
+1525414974,Predicting Query Performance by Query-Drift Estimation,2009,25,65,3,1.0,1260992435,Anna Shtok,0,-0.1029618939806145,0.040434369851773004
+1495750965,Prediction of query difficulty for a generic search engine,2004,12,19,2,0.909091,205587521,Elad Yom Tov,0,-0.01657107088421793,0.035389748403282274
+1522191571,Method and System for Maintaining Profiles of Information Channels,2011,9,5,3,0.335733,205587521,Elad Yom Tov,0,0.003708468606338,0.082832279151172
+1749480759,Conversation detection in email systems,2008,25,18,2,0.0,154755424,Shai Erera,0,0.003708468606338,0.082832279151172
+1606201797,Merging of results in distributed information retrieval,2005,37,35,2,0.909091,205587521,Elad Yom Tov,0,-0.11300819442795465,0.09518744858596301
+1960902247,Analyzing the Ability to Find Textual Content,2006,12,11,3,0.75,205587521,Elad Yom Tov,0,0.003708468606338,0.082832279151172
+1963113173,Lossy index compression,2001,18,36,4,0.0,262608878,Yoelle Maarek,0,-1.5316969836601801,-1.179298195651965
+1963658069,Learning to estimate query difficulty including applications to missing content detection and distributed information retrieval,2005,23,197,3,0.909091,205587521,Elad Yom Tov,0,-0.023444513279952645,0.12011715087808002
+1951538275,The Connectivity Sonar Detecting Site Functionality by Structural Patterns,2006,0,17,2,0.833333,2240467762,Einat Amitay,0,-0.21934185016841626,0.6056873083074126
+1982173305,SIGIR workshop report predicting query difficulty - methods and applications,2005,2,19,1,1.0,2088014474,David Carmel,0,-0.01657107088421793,0.035389748403282274
+1973775139,Improving Term Weighting for Community Question Answering Search Using Syntactic Analysis,2014,41,32,1,1.0,2088014474,David Carmel,0,-0.17768346192212375,0.0848641959637884
+1982829723,Extracting user profiles from large scale data,2010,15,31,3,0.0,251771576,Michal Shmueli Scheuer,0,-0.2909428398294992,0.04926704743332565
+1970990216,Knowledge encapsulation for focused search from pervasive devices,2002,17,20,2,1.0,152442579,Yariv Aridor,0,-0.38384640353808136,-0.5035024271037801
+1990791207,Predicting the performance of passage retrieval for question answering,2012,14,7,2,0.0,1910897387,Eyal Krikon,0,-0.17768346192212375,0.0848641959637884
+1990838106,Using statistical decision theory and relevance models for query-performance prediction,2010,35,33,3,1.0,1260992435,Anna Shtok,0,0.003708468606338,0.082832279151172
+1990898021,Who tags the tags a framework for bookmark weighting,2009,14,9,1,1.0,2088014474,David Carmel,0,0.003708468606338,0.082832279151172
+2006997130,Static index pruning for information retrieval systems,2001,14,184,2,0.0,2190921344,Aya Soffer,0,0.7137532398276553,0.01832052881732843
+2023182948,Searching XML documents via XML fragments,2003,11,239,1,1.0,2088014474,David Carmel,0,-2.399568558349525,-0.2761363466063392
+2026719486,User modeling for web applications,2011,0,2,1,1.0,2088014474,David Carmel,0,-0.1971083489457226,-1.7125712736072056
+2030266550,Social bookmark weighting for search and recommendation,2010,38,22,1,1.0,2088014474,David Carmel,0,0.20628220593144483,0.12882862742117143
+2028716813,Sampling search-engine results,2005,24,84,3,0.0,2136686850,Aris Anagnostopoulos,0,0.04718413635621834,-1.52155283012726
+2032718714,Folksonomy-based term extraction for word cloud generation,2011,42,5,1,1.0,2088014474,David Carmel,0,0.32132084692595037,0.7243455163917707
+2032750961,Back to the roots a probabilistic framework for query-performance prediction,2012,44,24,5,0.145081,2250933759,Oren Kurland,0,0.003708468606338,0.082832279151172
+2013382863,Automatic analysis of call-center conversations,2005,11,57,2,0.0,1970090479,Gilad Mishne,0,0.003708468606338,0.082832279151172
+2038324731,Predicting query performance for fusion-based retrieval,2012,42,11,4,0.0,2226390216,Gad Markovits,0,0.003708468606338,0.082832279151172
+2055152564,Trend detection through temporal link analysis,2004,23,52,2,1.0,2240467762,Einat Amitay,0,-0.18977296458960083,-0.1121742239822755
+2050028965,The connectivity sonar detecting site functionality by structural patterns,2003,37,113,2,1.0,2240467762,Einat Amitay,0,-0.1402540589583772,0.22398288986868065
+2034441832,Query performance prediction for IR,2012,35,16,1,1.0,2088014474,David Carmel,0,0.003708468606338,0.082832279151172
+2036244988,Towards expressive exploratory search over entity-relationship data,2012,29,21,3,0.0,2154470788,Sivan Yogev,0,-0.5057053350328953,0.22696049868599094
+2057577760,Automatic query wefinement using lexical affinities with maximal information gain,2002,19,84,3,0.0,249636705,Yael Petruschka,0,-0.1029618939806145,0.040434369851773004
+2061728930,Query performance prediction for entity retrieval,2014,17,2,3,0.75,2223725569,Hadas Raviv,0,-0.1453373776718104,0.42874053613083685
+2063774778,Rank by Time or by Relevance Revisiting Email Search,2015,23,29,1,1.0,2088014474,David Carmel,0,-0.3224513172225988,0.1037120505302715
+2062142366,Automatic word-cloud generation,2011,12,13,3,0.444444,1917779154,Haggai Roitman,0,0.32132084692595037,0.7243455163917707
+2060487963,Scaling IR-system evaluation using term relevance sets,2004,24,33,2,1.0,2240467762,Einat Amitay,0,0.003708468606338,0.082832279151172
+2078537247,Clarity re-visited,2012,7,5,5,0.0,2158418194,Shay Hummel,0,0.003708468606338,0.082832279151172
+2084580589,The cluster hypothesis for entity oriented search,2013,22,9,3,0.75,2223725569,Hadas Raviv,0,-1.1516293353123275,1.6153248464215597
+2088481255,A ranking framework for entity oriented search using Markov random fields,2012,21,17,1,1.0,2088014474,David Carmel,0,0.003708468606338,0.082832279151172
+2087131461,Predicting Query Performance by Query-Drift Estimation,2012,67,61,3,0.84375,1260992435,Anna Shtok,0,-0.1029618939806145,0.040434369851773004
+2094242017,Folksonomy-Based Term Extraction for Word Cloud Generation,2012,42,16,1,1.0,2088014474,David Carmel,0,0.28934471946127527,0.7044124927372903
+2105234020,System method and computer program product for performing unstructured information management and automatic text analysis including a search operator functioning as a weighted and (WAND),2003,50,206,3,0.652174,1267639795,Michael Herscovici,0,0.003708468606338,0.082832279151172
+2132255457,Mining expertise and interests from social media,2013,43,78,3,0.0,2163088907,Ido Guy,0,-0.24073521519632046,-2.0178448630593837
+2129415291,Juru at TREC 2003 - Topic Distillation using Query-Sensitive Tuning and Cohesiveness Filtering,2003,7,12,2,1.0,2240467762,Einat Amitay,0,0.003708468606338,0.082832279151172
+2123627907,Social search and discovery using a unified approach,2009,21,54,2,0.735595,2240467762,Einat Amitay,0,0.5684624055405896,-1.4824194541061515
+2112265212,Juru at TREC 2005 Query Prediction in the Terabyte and the Robust tracks,2005,7,6,2,0.909091,205587521,Elad Yom Tov,0,0.0597908726731833,-0.2449448024264691
+2135888785,Modeling the uniqueness of the user preferences for recommendation systems,2013,8,3,2,0.329018,1917779154,Haggai Roitman,0,0.08329114195231535,0.32893178638165566
+2109974859,Personalized social search based on the users social network,2009,37,228,1,1.0,2088014474,David Carmel,0,0.003708468606338,0.082832279151172
+2130900715,What makes a query difficult,2006,20,169,1,1.0,2088014474,David Carmel,0,-0.1029618939806145,0.040434369851773004
+2116429057,Enhancing cluster labeling using wikipedia,2009,19,117,1,1.0,2088014474,David Carmel,0,-0.599256442297554,1.1281961317795401
+2151312660,Maintaining dynamic channel profiles on the web,2008,29,15,2,0.4,1917779154,Haggai Roitman,0,0.003708468606338,0.082832279151172
+2160460392,Lucene and Juru at Trec 2007 1-Million Queries Track,2007,6,20,3,0.0,2131617382,Doron Cohen,0,0.003708468606338,0.082832279151172
+2154610494,Efficient query evaluation using a two-level retrieval process,2003,17,338,2,0.279228,1970098533,Andrei Z. Broder,0,-0.1029618939806145,0.040434369851773004
+2161066414,ERD14 entity recognition and disambiguation challenge,2014,26,81,1,1.0,2088014474,David Carmel,0,-0.0510576789504258,-0.5123664307612064
+2161270705,Juru at TREC 2004 Experiments with Prediction of Query Difficulty,2004,11,21,3,0.909091,205587521,Elad Yom Tov,0,-0.1029618939806145,0.040434369851773004
+2146554700,Juru at TREC 2006 TAAT versus DAAT in the Terabyte Track,2006,4,7,1,1.0,2088014474,David Carmel,0,0.19450813171462325,-0.32598514014497776
+2283844266,METHOD AND SYSTEM OF PRIORITISING OPERATIONS,2011,2,2,1,1.0,2088014474,David Carmel,0,0.003708468606338,0.082832279151172
+2291289455,Scoring of crowd-computing inputs,2011,2,7,3,0.0,97365951,Dafna Sheinwald,0,0.9675244513374306,0.8156769046156432
+2336127783,Method and system for improved query expansion in faceted search,2009,10,54,2,0.4,1917779154,Haggai Roitman,0,-0.1753747189727261,0.1970018965671856
+2340462169,Document Retrieval Using Entity-Based Language Models,2016,49,44,3,0.75,2223725569,Hadas Raviv,0,-0.08562259572538075,0.07438172350153523
+2340588069,Identifying Web Queries with Question Intent,2016,32,17,4,0.0,2746844527,Gilad Tsur,0,0.09020428326805567,0.20096111072588352
+2339630617,Novelty based Ranking of Human Answers for Community Questions,2016,45,16,2,0.0,2480507036,Adi Omari,0,-0.17768346192212375,0.0848641959637884
+2401383085,Blocking blog spam with language model disagreement,2005,12,208,2,0.0,1970090479,Gilad Mishne,0,0.6456241282746772,-1.636752275959185
+2396548884,Method and System of Prioritising Operations On Network Objects,2009,15,16,1,1.0,2088014474,David Carmel,0,0.003708468606338,0.082832279151172
+2418896762,Query Performance Prediction Using Reference Lists,2016,60,18,3,0.75,1260992435,Anna Shtok,0,0.003708468606338,0.082832279151172
+2421726825,Method and system for predicting search results quality in vertical ranking,2014,19,3,1,1.0,2088014474,David Carmel,0,0.003708468606338,0.082832279151172
+2605370675,The Demographics of Mail Search and their Application to Query Suggestion,2017,30,11,1,1.0,2088014474,David Carmel,0,0.005528336516354167,0.07021026040991203
+2604291988,Promoting Relevant Results in Time-Ranked Mail Search,2017,17,11,1,1.0,2088014474,David Carmel,0,0.003708468606338,0.082832279151172
+2612543731,Top-k Query Processing with Conditional Skips,2017,35,4,2,0.0,1251878739,Edward Bortnikov,0,0.003708468606338,0.082832279151172
+2738880649,Tail-Tolerant Distributed Search,2017,0,0,2,0.0,2227383585,Naama Kraus,0,0.003708468606338,0.082832279151172

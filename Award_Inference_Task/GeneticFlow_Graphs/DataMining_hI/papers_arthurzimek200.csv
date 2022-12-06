@@ -1,0 +1,82 @@
+122256684,Geodetic distance queries on r-trees for indexing geographic data,2013,22,17,2,0.833333,2011689237,Erich Schubert,0,-0.1552534586951666,0.6527950879208888
+20513064,Proceedings of the 4th MultiClust Workshop on Multiple Clusterings Multi-view Data and Multi-source Knowledge-driven Clustering,2013,0,1,3,0.0,45678088,Carlotta Domeniconi,0,-0.5153116727473608,2.414485719183636
+106621143,Detection and visualization of subspace cluster hierarchies,2007,17,62,6,0.379975,182894350,Elke Achtert,0,-0.0421600837397371,0.7517471605365825
+109218057,Spatial outlier detection data algorithms visualizations,2011,15,22,5,0.405259,182894350,Elke Achtert,0,-0.8093954104572862,0.09860329988103282
+6581905,Active Learning Strategies for Semi-Supervised DBSCAN,2014,23,7,4,0.0,2149809093,Jundong Li,0,-0.6288293952758378,1.4613401620546282
+164607750,Interpreting and Unifying Outlier Scores,2011,54,139,4,0.0,1919135125,Hans Peter Kriegel,0,0.18833994707375787,0.2928298541114057
+199035648,Outlier Detection in Axis-Parallel Subspaces of High Dimensional Data,2009,7,145,4,0.0,1919135125,Hans Peter Kriegel,0,-0.05799911426620571,0.8842237551258223
+560804666,Fast and Scalable Outlier Detection with Approximate Nearest Neighbor Ensembles,2015,52,19,2,0.647948,2011689237,Erich Schubert,0,0.5008902957707148,0.7108564125462367
+632121358,On strategies for building effective ensembles of relative clustering validity criteria,2016,63,13,5,0.0,2041850064,Pablo A. Jaskowiak,0,-0.5309732920220693,1.5544911448506813
+1497774109,Visual evaluation of outlier detection models,2010,16,23,6,0.428711,182894350,Elke Achtert,0,0.12045061784445509,0.67848276911338
+1481232215,ELKI A Software System for Evaluation of Subspace Clustering Algorithms,2008,37,66,3,0.379975,182894350,Elke Achtert,0,-0.3870045790145323,1.322297120503475
+1508889252,Subspace similarity search efficient k-NN queries in arbitrary subspaces,2010,29,11,8,0.3,1977319283,Thomas Bernecker,0,-0.01909081781182877,0.17213677012214143
+1554944210,ELKI in Time ELKI 02 for the Performance Evaluation of Distance Measures for Time Series,2009,19,14,5,0.397461,182894350,Elke Achtert,0,0.1579559588619796,0.563349572073047
+1573605934,Can shared-neighbor distances defeat the curse of dimensionality ,2010,40,167,1,1.0,242745652,Arthur Zimek,0,0.07974791871353007,0.0577746769739657
+1753951212,Finding hierarchies of subspace clusters,2006,9,46,6,0.389987,182894350,Elke Achtert,0,0.6367847384712583,0.5553693598840606
+1848471958,Quality of similarity rankings in time series,2011,37,11,7,0.260629,1977319283,Thomas Bernecker,0,-0.31592119183985923,0.6801974235303654
+1977171681,Detecting clusters in moderate-to-high dimensional data subspace clustering pattern-based clustering and correlation clustering,2008,57,8,3,0.0,1919135125,Hans Peter Kriegel,0,-0.8426096192915671,2.9960942010316365
+1986332411,Angle-based outlier detection in high-dimensional data,2008,34,305,3,0.0,1919135125,Hans Peter Kriegel,0,-0.00364218257762991,0.8451366983239822
+1977748107,Similarity Search in Time Series of Dynamical Model-based Systems,2010,23,1,5,0.0,2260690969,Kyoji Kawagoe,0,0.2117942345935273,-0.18421714446227155
+1987111416,Densityâ€based clustering,2011,47,332,1,1.0,242745652,Arthur Zimek,0,-0.908665943856102,3.0192908940059713
+1989822231,Data perturbation for outlier detection ensembles,2014,47,18,1,1.0,242745652,Arthur Zimek,0,-0.013903782638619263,-0.07316935113827552
+1990106316,Subsampling for efficient and effective unsupervised outlier detection ensembles,2013,47,85,1,1.0,242745652,Arthur Zimek,0,-0.013903782638619263,-0.07316935113827552
+1997299274,Towards subspace clustering on dynamic data an incremental version of PreDeCon,2010,20,8,1,1.0,242745652,Arthur Zimek,0,-0.9292757267399865,3.296340583338764
+1992276041,On the internal evaluation of unsupervised outlier detection,2015,44,10,3,0.0,2224465253,Henrique Marques,0,0.21366877108414206,0.16512386060353984
+2015887370,A survey on unsupervised outlier detection in high-dimensional numerical data,2012,150,300,1,1.0,242745652,Arthur Zimek,0,0.20279561436658805,0.0753070172078775
+2017841038,Representative clustering of uncertain data,2014,52,17,5,0.0,79808299,Andreas ZÃ¼fle,0,-0.955102775814739,3.2890994534448903
+2011191813,Subspace and projected clustering experimental evaluation and analysis,2009,45,59,2,0.0,2059192723,Gabriela Moise,0,-0.032844976451154737,2.2213007800908695
+2045765911,Outlier Detection in Arbitrarily Oriented Subspaces,2012,42,66,4,0.0,1919135125,Hans Peter Kriegel,0,-0.3110362875661692,1.2179848332181198
+2054655136,Deriving quantitative models for correlation clusters,2006,26,29,5,0.389987,182894350,Elke Achtert,0,-0.8571563289970692,3.1435535769346004
+2041184937,LoOP local outlier probabilities,2009,8,222,4,0.0,1919135125,Hans Peter Kriegel,0,-0.08489468197407501,0.7785346888922748
+2070333970,Global Correlation Clustering Based on the Hough Transform,2008,30,26,5,0.379975,182894350,Elke Achtert,0,-0.8452120954041047,2.871617082429034
+2067092965,Discriminative features for identifying and interpreting outliers,2014,39,48,4,0.0,1964285635,Xuan Hong Dang,0,0.20279561436658805,0.0753070172078775
+2075949491,Local outlier detection reconsidered a generalized view on locality with applications to spatial video and network outlier detection,2014,72,146,2,0.65874,2011689237,Erich Schubert,0,-0.14832352603509313,0.29574933875253695
+2067877017,Computing Clusters of Correlation Connected objects,2004,21,136,4,0.0,2771206607,Christian Bohm,0,-0.5281334462194783,1.5696100295226716
+2085843229,Interactive data mining with 3D-parallel-coordinate-trees,2013,29,55,4,0.363794,182894350,Elke Achtert,0,0.25757444707389154,1.3675401562402718
+2097703350,Frequent Pattern Mining Algorithms for Data Clustering,2014,85,6,1,1.0,242745652,Arthur Zimek,0,-0.557395181641072,2.6311716876359563
+2097804851,COSMIC Conceptually Specified Multi-Instance Clusters,2006,13,3,4,0.0,1919135125,Hans Peter Kriegel,0,0.03645347510272348,0.396433275230679
+2079361215,Clustering high-dimensional data A survey on subspace clustering pattern-based clustering and correlation clustering,2009,117,792,3,0.0,1919135125,Hans Peter Kriegel,0,-0.837769150181296,2.9973255682351305
+2101549186,Ensembles for unsupervised outlier detection challenges and research questions a position paper,2014,77,117,1,1.0,242745652,Arthur Zimek,0,-0.20582432466297393,0.1835277388025572
+2095985063,A Study of Hierarchical and Flat Classification of Proteins,2010,45,28,1,1.0,242745652,Arthur Zimek,0,0.9733661028717416,0.15137370014011373
+2135033814,Subspace similarity search using the ideas of ranking and top-k retrieval,2010,18,8,8,0.3,1977319283,Thomas Bernecker,0,0.04428402012064255,-0.0266049235845377
+2105481965,Density-Based Data Analysis and Similarity Search,2007,17,3,1,1.0,242745652,Arthur Zimek,0,-0.8033375575502424,-0.2600218240031756
+2108706544,On Exploring Complex Relationships of Correlation Clusters,2007,22,45,5,0.379975,182894350,Elke Achtert,0,-0.4596178353338706,1.5573789230977408
+2117769694,Future trends in data mining,2007,31,129,6,0.0,1919135125,Hans Peter Kriegel,0,0.36961615338683507,0.04520172406723675
+2116838486,A survey on enhanced subspace clustering,2013,109,107,3,0.0,2272606362,Kelvin Sim,0,-0.8264873338099699,3.000219814068836
+2162317335,Investigating a Correlation between Subcellular Localization and Fold of Proteins,2010,36,2,6,0.0,2001239146,Johannes AÃŸfalg,0,0.003708468606338,0.082832279151172
+2180566385,Hierarchical Density Estimates for Data Clustering Visualization and Outlier Detection,2015,123,153,3,0.0,2043417111,Ricardo J. G. B. Campello,0,-0.8837660796070181,2.98044225129745
+2154549366,Mining Hierarchies of Correlation Clusters,2006,16,34,4,0.389987,182894350,Elke Achtert,0,-0.940373701837459,3.2812191028631617
+2185160456,There and Back Again Outlier Detection between Statistical Reasoning and Efficient Database Methods,2012,31,0,1,1.0,242745652,Arthur Zimek,0,0.20279561436658805,0.0753070172078775
+2158170260,A General Framework for Increasing the Robustness of PCA-Based Correlation Clustering Algorithms,2008,17,80,4,0.0,1919135125,Hans Peter Kriegel,0,-0.13047387086696327,0.7484663601183424
+2146570986,Evaluation of Clusterings -- Metrics and Visual Support,2012,15,62,5,0.383679,182894350,Elke Achtert,0,-0.40841981264098376,2.233257199994626
+2168143534,Robust Complete and Efficient Correlation Clustering âˆ—,2007,14,44,2,0.379975,182894350,Elke Achtert,0,-0.8554342357691828,2.9919264872384264
+2232801052,Density based subspace clustering over dynamic data,2011,23,16,4,0.0,1919135125,Hans Peter Kriegel,0,-0.8765258652203701,3.1385643929416704
+2293385817,A framework for clustering uncertain data,2015,21,89,6,0.647948,2011689237,Erich Schubert,0,-0.019834631050360985,0.4448971909329405
+2295030075,Model selection for semi-supervised clustering,2014,41,9,4,0.0,2340861863,Mojgan Pourrajabi,0,-0.9244460407754101,3.297669831820736
+2282861635,On the evaluation of unsupervised outlier detection measures datasets and an empirical study,2016,65,170,2,1.0,2632658677,Guilherme Oliveira Campos,0,0.20279561436658805,0.0753070172078775
+2341465005,Correlation clustering,2009,11,24,1,1.0,242745652,Arthur Zimek,0,-0.026988920897728863,0.8688290976496332
+2341627671,Subspace clustering,2012,98,41,3,0.0,1919135125,Hans Peter Kriegel,0,-0.8991696434000542,3.131621893823994
+2404779194,Density-based Projected Clustering over High Dimensional Data Streams,2012,22,54,2,0.0,2011536077,Irene Ntoutsi,0,-0.3394240906228752,1.2378106158588456
+2402435489,When Pattern Met Subspace Cluster,2011,36,1,2,0.0,1971070670,Jilles Vreeken,0,0.003708468606338,0.082832279151172
+2405818311,Evaluation of multiple clustering solutions,2011,26,13,3,0.0,1919135125,Hans Peter Kriegel,0,-0.4345646995404735,1.2339602448627665
+2482293787,MultiClust 2013 Multiple Clusterings Multiview Data and Multisource Knowledgedriven Clustering [Workshop Report],2016,12,0,5,0.0,145164693,Ira Assent,0,-0.21934185016841626,0.6056873083074126
+2432267564,On Using Class-Labels in Evaluation of Clusterings,2010,63,71,1,1.0,242745652,Arthur Zimek,0,-0.8165452738232616,2.681211430874347
+2532189199,The (black) art of runtime evaluation Are we comparing algorithms or implementations ,2017,79,55,1,1.0,242745652,Arthur Zimek,0,0.05233437683974527,0.4161514900432465
+2519137675,On the Evaluation of Outlier Detection Measures Datasets and an Empirical Study Continued,2016,1,1,3,0.0,20146914,Barbora MicenkovÃ¡,0,0.20279561436658805,0.0753070172078775
+2536253352,Outlier Detection and Trend Detection Two Sides of the Same Coin,2015,84,5,3,0.647948,2011689237,Erich Schubert,0,0.44650650912874273,0.23645566404473883
+2735785486,When pattern met subspace cluster a relationship story,2011,50,3,1,1.0,242745652,Arthur Zimek,0,-0.538447670699222,2.6768132407096545
+2604733604,Dimensional testing for reverse k -nearest neighbor search,2017,49,11,1,1.0,242745652,Arthur Zimek,0,0.003708468606338,0.082832279151172
+2818588245,Outlier Detection in Graphs On the Impact of Multiple Graph Models,2018,39,2,3,1.0,2632658677,Guilherme Oliveira Campos,0,0.20279561436658805,0.0753070172078775
+2879929106,A unified framework of density-based clustering for semi-supervised classification,2018,33,2,2,0.8,1547586968,Jadson Castro Gertrudes,0,-0.13530573445825658,0.7378912230849564
+2868209013,Outlier Detection in Urban Traffic Data,2018,106,9,2,0.0,2308681171,Youcef Djenouri,0,0.20279561436658805,0.0753070172078775
+2888297916,There and back again Outlier detection between statistical reasoning and data mining algorithms,2018,181,9,1,1.0,242745652,Arthur Zimek,0,0.08267071897181104,-0.1507585519170179
+2904996768,Outlier Detection in Urban Traffic Flow Distributions,2018,18,3,2,0.0,2308681171,Youcef Djenouri,0,-0.16633578012813252,0.7954210758835458
+2913775009,Outlier Detection Based on Low Density Models,2018,49,1,3,0.0,2118901456,Felix Iglesias Vazquez,0,0.025951211932835963,0.3162692911489308
+2941167638,MDCGen multidimensional dataset generator for clustering,2019,14,2,4,0.0,2131245061,FÃ©lix Iglesias,0,-0.21934185016841626,0.6056873083074126
+2941323067,Absolute Cluster Validity,2019,0,2,3,0.0,2131245061,FÃ©lix Iglesias,0,0.09894671261016653,0.4063152618660422
+2953125635,Outlier detection in graphs A study on the impact of multiple graph models,2019,0,0,3,0.0,2953179858,Guilherme Campos Oliveira,0,0.20279561436658805,0.0753070172078775
+2969639627,A unified view of density-based methods for semi-supervised clustering and classification,2019,43,1,2,0.8,1547586968,Jadson Castro Gertrudes,0,-0.0766692195145415,1.087481736794695
+2994686100,Evaluation and experimental design in data mining and machine learning Motivation and summary of EDML 2019,2019,0,0,2,0.0,147176459,Eirini Ntoutsi,0,0.003708468606338,0.082832279151172
+2978552505,1st Workshop on Evaluation and Experimental Design in Data Mining and Machine Learning (EDML 2019),2019,0,1,3,0.0,147176459,Eirini Ntoutsi,0,0.003708468606338,0.082832279151172
+2079040080,A framework for semi-supervised and unsupervised optimal extraction of clusters from hierarchies,2013,51,35,4,0.0,2043417111,Ricardo J. G. B. Campello,0,-0.6186060851191174,2.2700777715388694
+2809161969,An Unsupervised Boosting Strategy for Outlier Detection Ensembles,2018,42,3,3,1.0,2632658677,Guilherme Oliveira Campos,0,0.8304924901042265,0.3382596117188689

@@ -1,0 +1,33 @@
+147860157,Scaling clustering algorithms to large databases,1998,26,664,2,0.857143,2190461302,Paul S. Bradley,0,-0.8506757423325126,2.993886785734365
+1568785044,Scalable system for expectation maximization clustering of large databases,1998,13,74,3,0.857143,2102107021,Cory Reina,0,-1.3275096125638277,0.672260059476504
+1551487324,Integration of Data Mining with Database Technology,2000,6,25,4,1.0,2988285397,Amir Netz,0,0.11298681992791311,-0.11332373194309997
+1551627557,Varying cluster number in a scalable clustering system for use with large databases,2000,23,101,2,0.891892,2190461302,Paul S. Bradley,0,-1.0713525008226525,1.1759892375961787
+1571534488,Scalable system for K-means clustering of large databases,1998,21,99,3,0.857143,2102107021,Cory Reina,0,-1.3164558825105321,1.7534385296545294
+1495441429,Initialization of iterative refinement clustering algorithms,1998,19,149,1,1.0,2762898291,Usama Fayyad,0,-1.0261964219054915,3.586089388689592
+1594731196,Method for refining the initial conditions for clustering with applications to small and large database clustering,1998,18,63,2,0.857143,2190461302,Paul S. Bradley,0,-0.9630526556573297,3.2865623477488928
+1631784759,Density-based indexing method for efficient execution of high dimensional nearest-neighbor queries on large databases,1998,26,163,3,0.0,1982493283,Dan Geiger,0,-0.404350063707127,1.4393491888321603
+1958091613,Multi-dimensional database and data cube compression for aggregate query support on numeric dimensions,1999,27,75,2,1.0,2675074678,Jayavel Shanmugasundaram,0,1.2182067606106117,0.3929018396063729
+1907522023,Cluster-and descriptor-based recommendations,2004,15,16,3,1.0,2078048487,Bassel Y. Ojjeh,0,0.08329114195231535,0.32893178638165566
+1619679373,Use of the UNPIVOT relational operator in the efficient gathering of sufficient statistics for data mining,1998,9,57,3,0.0,2163909284,Surajit Chaudhuri,0,-0.751825097862007,0.04915841235291518
+1734810151,Method for apparatus for efficient mining of classification models from databases,1997,5,80,2,0.0,2163909284,Surajit Chaudhuri,0,-2.2001641005459853,0.9159201882738789
+1973749285,Scalable system for clustering of large databases,1998,17,115,3,0.857143,2102107021,Cory Reina,0,-1.3275096125638277,0.672260059476504
+1965940778,Data mining and KDD promise and challenges,1997,18,133,1,1.0,2762898291,Usama Fayyad,0,0.3824966706387638,0.3604298194835881
+1969357402,Density-based indexing for approximate nearest-neighbor queries,1999,27,89,2,0.6,2096887853,Kristin P. Bennett,0,0.6260775143677056,0.6607502481471549
+2002681534,Image Retrieval by Content A Machine Learning Approach,1995,0,1,2,0.0,2137074633,Padhraic Smyth,0,-0.10084458109881032,-0.34760600776728207
+2035835052,KDD-99 the fifth ACM SIGKDD international conference on knowledge discovery and data mining,2000,0,3,3,0.0,2163909284,Surajit Chaudhuri,0,0.36961615338683507,0.04520172406723675
+2068289711,Compressed data cubes for OLAP aggregate query approximation on continuous dimensions,1999,29,150,2,0.0,1989847040,Jayavel Shanmugasundaram,0,0.4777880147980298,0.461318557264948
+2142043836,Integration of Data Mining and Relational Databases,2000,6,30,3,0.0,2102766443,Jeff Bernhardt,0,-1.7481511589423486,0.5813533907677018
+2130072301,Knowledge discovery and data mining towards a unifying framework,1996,23,557,1,1.0,2762898291,Usama Fayyad,0,0.16842187870877767,0.07213494803779509
+2115568737,Mathematical Programming for Data Mining Formulations and Challenges,1999,115,234,2,0.891892,2190461302,Paul S. Bradley,0,0.09894671261016653,0.4063152618660422
+2121412802,Multi-dimensional database record compression utilizing optimized cluster models,2000,25,100,2,1.0,2675074678,Jayavel Shanmugasundaram,0,-0.8112760011019303,2.8986218165931423
+2127811426,KDD for science data analysis issues and examples,1996,23,74,1,1.0,2762898291,Usama Fayyad,0,0.2411296976350509,0.19514062197806442
+2125547396,Scalable classification over SQL databases,1999,6,48,2,0.0,2163909284,Surajit Chaudhuri,0,-1.1524364964350426,0.45966057131048477
+2143979434,On the efficient gathering of sufficient statistics for classification from large SQL databases,1998,18,96,2,0.0,2284116839,Goetz Graefe,0,-0.4093528391947066,-0.23774116532886147
+2145829184,Integrating data mining with SQL databases OLE DB for data mining,2001,11,72,3,1.0,2988285397,Amir Netz,0,-0.2357918166323933,0.2529301590130907
+2152873891,Data mining for managing marketing resources,1999,28,127,2,1.0,2078048487,Bassel Y. Ojjeh,0,-0.1071931497347323,0.3242721482837629
+2200456434,Scalable system for clustering of large databases having mixed data attributes,1999,19,82,3,0.857143,2102107021,Cory Reina,0,-0.7066807878770724,0.5380857980621047
+2268412641,Retrofitting recommender system for achieving predetermined performance requirements,2000,8,19,3,1.0,2078048487,Bassel Y. Ojjeh,0,-0.2379293493315715,0.5197500364276608
+2240863057,A scalable system for clustering of large databases,1999,7,8,3,0.857143,2102107021,Cory Reina,0,-0.21934185016841626,0.6056873083074126
+2298341268,Data clustering using error-tolerant frequent item sets,2000,11,82,3,0.891892,2190461302,Paul S. Bradley,0,-0.09973552776022251,0.3989452190970894
+2300935518,Iterative validation and sampling-based clustering using error-tolerant frequent item sets,2000,16,37,3,0.891892,2190461302,Paul S. Bradley,0,-0.21934185016841626,0.6056873083074126
+2913254968,Proceedings of the fifth ACM SIGKDD international conference on Knowledge discovery and data mining,1999,0,0,3,0.0,2163909284,Surajit Chaudhuri,0,0.36961615338683507,0.04520172406723675

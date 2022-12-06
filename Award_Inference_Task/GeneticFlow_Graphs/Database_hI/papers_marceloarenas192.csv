@@ -1,0 +1,53 @@
+76603888,Data mapping in peer-to-peer systems Semantics and algorithmic issues,2003,0,57,1,1.0,2117861229,Marcelo Arenas,0,-0.3427654649547447,-0.0520795938087386
+198780392,Managing data mappings in the Hyperion Project In ICDE,2003,0,2,1,1.0,2117861229,Marcelo Arenas,0,-0.0041099411153885,0.0447066884760059
+273449305,OBDA Query Rewriting or Materialization In Practice Both ,2014,32,32,2,0.239708,2029019750,Juan F. Sequeda,0,0.29803475294701987,0.04794090896134427
+988338074,Foundations of Data Exchange The problem of relational data exchange,2014,0,0,4,1.0,1035630,Filip Murlak,0,0.5804053790452474,-0.0981935841369705
+1568007065,Locality of Queries and Transformations,2006,0,0,1,1.0,2117861229,Marcelo Arenas,0,0.33598610067911727,-0.22202930765203877
+1569137214,On Directly Mapping Relational Databases to RDF and OWL (Extended Version),2012,18,9,2,0.239708,2029019750,Juan F. Sequeda,0,0.04703611367908935,0.11703459707365096
+1560159331,Semantics and complexity of SPARQL,2006,10,179,2,1.0,2129336444,Jorge PÃ©rez,0,-0.0041099411153885,0.0447066884760059
+1496156099,Data sharing through query translation in autonomous sources,2004,16,37,2,0.5625,2295328501,Anastasios Kementsietsidis,0,0.014532710543751099,0.030944858938630852
+1957163984,Query evaluation in almost consistent databases using residues,1998,8,1,1,1.0,2117861229,Marcelo Arenas,0,1.4072406648214375,0.20867457889088645
+1582089387,nSPARQL A Navigational Language for RDF,2008,17,25,2,1.0,2129336444,Jorge PÃ©rez,0,-0.17907394717992528,0.335876432921492
+1965776893,The recovery of a schema mapping Bringing exchanged data back,2009,33,49,1,1.0,2117861229,Marcelo Arenas,0,0.43645675219564295,-0.2465337860354499
+1983304353,A normal form for XML documents,2004,31,269,1,1.0,2117861229,Marcelo Arenas,0,2.5036729328876826,-0.9369315367041852
+2018758714,The hyperion project from data integration to data coordination,2003,15,170,1,1.0,2117861229,Marcelo Arenas,0,-0.3839260709403512,0.8516617701114026
+2050876776,Editorial Information systems preface,2009,0,0,1,1.0,2117861229,Marcelo Arenas,0,-0.0041099411153885,0.0447066884760059
+2077518845,Consistent query answers in inconsistent databases,1999,20,706,1,1.0,2117861229,Marcelo Arenas,0,1.3454509909314194,0.21158661559128822
+2100170800,On blank nodes,2011,27,71,2,0.0,2163501105,Alejandro Mallea,0,0.5473278299547519,0.20703194985950793
+2105568982,Scalar Aggregation in FD-Inconsistent Databases,2001,35,41,1,1.0,2117861229,Marcelo Arenas,0,0.755586531810391,-0.08755315766531213
+2138204073,The Chilean Database Group,2013,44,0,1,1.0,2117861229,Marcelo Arenas,0,0.349369361529148,-0.16348662697117836
+2135511859,SCDBR An Automated Reasoner for Specifications of Database Updates,1998,33,11,2,0.0,1985569948,Leopoldo Bertossi,0,1.0651108691241127,0.2838631489016035
+2106170712,Efficient incremental validation of XML documents,2004,24,61,5,0.0,2117262728,Denilson Barbosa,0,2.342547355339659,-0.9541174378180458
+2106527193,Discovering XSD keys from XML data,2013,36,9,1,1.0,2117861229,Marcelo Arenas,0,2.2264543832113666,-0.864750789273662
+2118499545,A principled approach to bridging the gap between graph data and their schemas,2014,14,13,1,1.0,2117861229,Marcelo Arenas,0,-0.13489138146538232,0.029751773140659632
+2139714950,Hypothetical Temporal Reasoning in Databases,2002,32,3,1,1.0,2117861229,Marcelo Arenas,0,2.0208288344880487,0.3764344350615164
+2128114397,Normalization theory for XML,2006,28,36,1,1.0,2117861229,Marcelo Arenas,0,2.0583946971596414,0.23678428252748437
+2110610722,Mapping data in peer-to-peer systems semantics and algorithmic issues,2003,24,241,2,0.5625,2295328501,Anastasios Kementsietsidis,0,0.6784925973177597,-0.044545234958836756
+2122529902,Specifying and Querying Database Repairs using Logic Programs with Exceptions,2001,33,78,1,1.0,2117861229,Marcelo Arenas,0,1.3568638443614727,0.20632603126644358
+2125622661,Query language-based inverses of schema mappings semantics computation and closure properties,2012,31,5,1,1.0,2117861229,Marcelo Arenas,0,0.5243546023222554,0.2061009690329811
+2131785201,Semantics and complexity of SPARQL,2009,29,743,2,0.8,2129336444,Jorge PÃ©rez,0,0.44485003029017467,0.3764963319967893
+2178708778,Answer sets for consistent query answering in inconsistent databases,2003,44,187,1,1.0,2117861229,Marcelo Arenas,0,0.2981724957212681,-0.0051096645250165345
+2159792194,Coordinating Peer Databases Using ECA Rules,2003,8,25,5,0.8,1828710330,Vasiliki Kantere,0,0.33598610067911727,-0.22202930765203877
+2163668347,Inverting schema mappings bridging the gap between theory and practice,2009,27,28,1,1.0,2117861229,Marcelo Arenas,0,-0.48334960066046095,-0.20399238322972402
+2146067979,Composition and inversion of schema mappings,2010,39,33,1,1.0,2117861229,Marcelo Arenas,0,1.276218388335569,-0.22542477364433933
+2158176576,Whats Hard about XML Schema Constraints ,2002,13,3,2,0.0,1971151415,Leonid Libkin,0,2.6588125454269993,-0.9504181086881975
+2161784850,Managing data mappings in the Hyperion project,2003,7,25,2,0.5625,2295328501,Anastasios Kementsietsidis,0,-0.18820463949039273,0.1289377459669855
+2290159396,Foundations of Data Exchange XML data exchange via relations,2014,0,0,4,1.0,1035630,Filip Murlak,0,0.9680236859868486,-0.45207064739772257
+2347545322,The Exact Complexity of the First-Order Logic Definability Problem,2016,46,7,1,1.0,2117861229,Marcelo Arenas,0,1.1272519857875312,0.23084686019728437
+2403743370,SPARQL - Where are we Current state theory and practice,2007,7,4,1,1.0,2117861229,Marcelo Arenas,0,-0.0041099411153885,0.0447066884760059
+2498523297,A framework for annotating CSV-like data,2016,13,8,1,1.0,2117861229,Marcelo Arenas,0,-0.34857978327751216,-0.2513987233039086
+2509546510,Coordinating peer databases using ECA rules,2004,0,7,5,0.8,1828710330,Vasiliki Kantere,0,0.33598610067911727,-0.22202930765203877
+2504342250,The problem of XML data exchange,2013,0,0,4,1.0,1035630,Filip Murlak,0,2.3485049625640406,-0.9375414068725034
+2548125635,SPARQLByE querying RDF data by example,2016,8,19,2,0.0,2342039297,Gonzalo Diaz,0,-0.3414956554564478,0.18868996239264652
+2613423924,Research Directions for Principles of Data Management (Abridged),2017,83,12,2,0.0,172400696,Serge Abiteboul,0,0.18601297105691045,-0.0008472885667257998
+2616737215,Scalar aggregation in inconsistent databases,2003,33,125,1,1.0,2117861229,Marcelo Arenas,0,1.218688051464744,-0.02657296402585745
+2771362234,G-CORE A Core for Future Graph Query Languages,2018,23,35,2,0.89685,1970866537,Renzo Angles,0,0.119739122485096,0.4583397011045227
+2794490651,Scalar aggregation in FD-inconsistent databases,2001,0,2,1,1.0,2117861229,Marcelo Arenas,0,1.218688051464744,-0.02657296402585745
+2899566057,XML Data Exchange,2006,0,2,1,1.0,2117861229,Marcelo Arenas,0,1.1139944577434615,-0.43372331920654217
+2900751348,Expressive Languages for Querying the Semantic Web,2018,36,5,1,1.0,2117861229,Marcelo Arenas,0,-0.10496466844954137,0.37929534528808745
+2951895835,Answer Sets for Consistent Query Answering in Inconsistent Databases,2002,20,1,1,1.0,2117861229,Marcelo Arenas,0,0.2981724957212681,-0.0051096645250165345
+2952346503,G-CORE A Core for Future Graph Query Languages,2017,4,2,2,0.89685,1970866537,Renzo Angles,0,0.119739122485096,0.4583397011045227
+2950734068,Research Directions for Principles of Data Management (Dagstuhl Perspectives Workshop 16151),2017,36,1,2,0.0,172400696,Serge Abiteboul,0,0.9316064865344776,0.1612482291378786
+2949347961,Semantics and Complexity of SPARQL,2006,7,24,2,1.0,2129336444,Jorge PÃ©rez,0,-0.17907394717992528,0.335876432921492
+2998664584,Counting Problems over Incomplete Databases,2019,45,0,1,1.0,2117861229,Marcelo Arenas,0,0.9108040089795033,0.37177272715440096
+2144272839,Applications of Annotated Predicate Calculus to Querying Inconsistent Databases,2000,12,40,1,1.0,2117861229,Marcelo Arenas,0,0.7199224688522033,0.08537559568239232

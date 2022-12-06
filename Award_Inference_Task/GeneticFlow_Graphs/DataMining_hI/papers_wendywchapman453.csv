@@ -1,0 +1,56 @@
+70674440,Implementation and evaluation of a negation tagger in a pipeline-based system for information extract from pathology reports,2004,0,40,4,0.0,28184261,Elizabeth Legowski,0,0.016745951274676818,0.081923331210924
+75129460,Methodological Review Using chief complaints for syndromic surveillance A review of chief complaint based classifiers in North America,2013,0,12,2,0.54332,2152580976,John N. Dowling,0,-0.9676297450215435,0.6509318994763491
+26394298,The RODS Open Source Project removing a barrier to syndromic surveillance,2004,15,21,7,0.0,2111753153,Jeremy U. Espino,0,0.003708468606338,0.082832279151172
+183420734,Using Decision Tree Classifiers to Confirm Pneumonia Diagnosis,2000,0,1,3,0.0,2578651322,David D. Eardley,0,0.3718959829920319,0.3960721041588368
+1566678553,Syndrome and outbreak detection using chief-complaint data--experience of the Real-Time Outbreak and Disease Surveillance project,2004,15,56,8,0.0,581711191,Per H. Gesteland,0,0.2908575072107241,0.3234328159442016
+1963524534,Public sharing of research datasets a pilot study of associations,2010,49,68,2,0.0,1969205032,Heather A. Piwowar,0,-0.2619238829259522,0.2705786255531689
+1964625659,ConText An algorithm for determining negation experiencer and temporal status from clinical reports,2009,37,209,4,0.8,2925704345,Henk Harkema,0,0.003708468606338,0.082832279151172
+1977916692,C-C1-03 Identifying Respiratory-Related Clinical Conditions From ED Reports With Topaz,2010,0,3,1,1.0,2153584649,Wendy W. Chapman,0,0.003708468606338,0.082832279151172
+1972938566,Guest Editorial Current issues in biomedical text mining and natural language processing,2009,25,41,1,1.0,2153584649,Wendy W. Chapman,0,0.9173630870651177,0.22613320698435782
+1979972982,Generality and reuse in a common type system for clinical natural language processing,2011,10,3,5,0.0,120305507,Christopher G. Chute,0,0.49763856260785166,0.06870102230469519
+1992722532,Anaphoric reference in clinical reports,2012,45,16,5,0.636364,705491505,Guergana Savova,0,-0.0160484811255519,-0.31555163086887356
+2002108805,Evaluation of preprocessing techniques for chief complaint classification,2008,17,28,5,0.0,2461808875,Jagan Dara,0,0.9764452378185053,0.45291314085684015
+2002514548,Methodological Review What can natural language processing do for clinical decision support ,2009,129,339,2,0.0,58165029,Dina Demner Fushman,0,0.10721750555146199,0.7083150130562711
+1995972830,A Comparison of Classification Algorithms to Automatically Identify Chest X-Ray Reports That Support Pneumonia,2001,34,66,1,1.0,2153584649,Wendy W. Chapman,0,0.07734611786517542,0.5323544862856873
+2011628373,Formative evaluation of ontology learning methods for entity discovery by using existing ontologies as reference standards,2013,21,4,4,0.599121,705491505,Guergana Savova,0,2.4520467985566445,-2.2920557225463085
+2043768386,Document-level classification of CT pulmonary angiography reports based on an extension of the ConText algorithm,2011,39,52,4,0.0,2249999084,Brian E. Chapman,0,0.4725595899644013,0.1575903061741017
+2071890384,Inductive creation of an annotation schema for manually indexing clinical conditions from emergency department reports,2006,30,26,1,1.0,2153584649,Wendy W. Chapman,0,-1.8032571252458574,0.27525926598787237
+2073870855,Automated ancillary cancer history classification for mesothelioma patients from free-text clinical reports,2010,2,7,2,0.2,183972827,Michael J. Becich,0,0.8374400669568285,-0.08201662281134316
+2072544305,An approach to improve LOINC mapping through augmentation of local test names,2012,16,15,5,0.0,2108124899,Hyeoneui Kim,0,0.003708468606338,0.082832279151172
+2074734816,Evaluation of training with an annotation schema for manual annotation of clinical conditions from emergency department reports,2008,16,26,1,1.0,2153584649,Wendy W. Chapman,0,0.003708468606338,0.082832279151172
+2091398914,Building an automated SOAP classifier for emergency department reports,2012,42,19,5,1.0,2645491569,Danielle L. Mowery,0,0.49276151700400694,0.15915359112020205
+2089697781,Effectiveness of Lexico-syntactic Pattern Matching for Ontology Enrichment with Clinical Documents,2010,48,15,4,0.0,120305507,Christopher G. Chute,0,0.389372491121353,-0.7486914849796305
+2101289003,Heuristic sample selection to minimize reference standard training set for a part-of-speech tagger,2007,23,21,3,0.0,2109394996,Rebecca Hwa,0,0.003708468606338,0.082832279151172
+2111865815,Classifying free-text triage chief complaints into syndromic categories with natural languages processing,2005,41,112,6,0.0,2091502810,Peter J. Haug,0,0.43162625009792,0.20195636031746017
+2138595422,Methodological Review Coreference resolution A review of general methodologies and applications in the clinical domain,2011,106,50,4,0.692308,705491505,Guergana Savova,0,0.4330654535766098,-0.2728286993409219
+2135611962,Developing syndrome definitions based on consensus and current use,2010,14,21,1,1.0,2153584649,Wendy W. Chapman,0,0.003708468606338,0.082832279151172
+2120989936,iDASH integrating data for analysis anonymization and sharing,2012,44,84,5,0.0,2431810988,Lucila Ohno Machado,0,-0.13294273958683295,0.2899827369353255
+2109875934,Creating a Text Classifier to Detect Radiology Reports Describing Mediastinal Findings Associated with Inhalational Anthrax and Other Disorders,2003,37,43,5,0.0,1777780308,Paul Hanbury,0,0.43162625009792,0.20195636031746017
+2136552597,Developing a natural language processing application for measuring the quality of colonoscopy procedures,2011,75,46,2,0.8,2925704345,Henk Harkema,0,0.3093702597112594,0.0781901659384289
+2139865360,A simple algorithm for identifying negated findings and diseases in discharge summaries,2001,21,673,1,1.0,2153584649,Wendy W. Chapman,0,-0.2823970984960752,0.0861109704535431
+2125117006,Evaluating the state of the art in disorder recognition and normalization of the clinical narrative,2015,48,76,7,0.0,2160898209,Sameer Pradhan,0,0.016745951274676818,0.081923331210924
+2122210092,A common type system for clinical natural language processing,2013,22,33,7,0.0,2574316923,Stephen T. Wu,0,0.871202274070446,-0.15798810729370677
+2125726375,Automatic Detection of Acute Bacterial Pneumonia from Chest X-ray Reports,2000,34,173,5,0.0,287494891,Dominik Aronsky,0,0.003708468606338,0.082832279151172
+2162228163,Anaphoric relations in the clinical narrative corpus creation,2011,27,47,2,0.692308,705491505,Guergana Savova,0,0.003708468606338,0.082832279151172
+2153393891,A system for coreference resolution for the clinical narrative,2012,23,32,2,0.0,2143882854,Jiaping Zheng,0,0.24114809143580368,0.22199891060775823
+2171848392,Recall and bias of retrieving gene expression microarray datasets through PubMed identifiers,2010,20,13,2,0.0,1969205032,Heather A. Piwowar,0,0.003708468606338,0.082832279151172
+2169818249,Natural language processing an introduction,2011,73,649,3,0.0,2063928869,Prakash M. Nadkarni,0,0.003708468606338,0.082832279151172
+2324520722,Evaluating syndrome definitions in the extended syndromic surveillance ontology,2011,1,1,2,0.54332,2152580976,John N. Dowling,0,0.34208215495682426,-0.4460170753742258
+2318008066,A web-based platform to support text mining of clinical reports for public health surveillance,2011,0,0,1,1.0,2153584649,Wendy W. Chapman,0,0.3800127224570261,0.21004767587848977
+2321541820,Using cKASS to facilitate knowledge authoring and sharing for syndromic surveillance,2011,0,0,3,0.0,2091502810,Peter J. Haug,0,0.003708468606338,0.082832279151172
+2340510687,Extending an Uncertainty Taxonomy for Suspected Pneumonia Case Review,2016,3,0,2,0.890783,2041047319,Brett R. South,0,-0.3663144373380314,0.17476095385719992
+2332898307,Unstructured free-text data and Meaningful Use,2011,0,0,3,0.0,1976122271,Laura C. Streichert,0,0.003708468606338,0.082832279151172
+2333247500,Developing a web-based SKOS editor,2016,14,0,7,0.0,2156711264,Mike Conway,0,0.07908777013530773,-1.5007131794706814
+2350106363,Identifying respiratory findings in emergency department reports for biosurveillance using MetaMap,2004,15,50,1,1.0,2153584649,Wendy W. Chapman,0,0.016745951274676818,0.081923331210924
+2380567717,Extracting a stroke phenotype risk factor from Veteran Health Administration clinical reports an information content analysis,2016,26,14,7,1.0,2645491569,Danielle L. Mowery,0,0.003708468606338,0.082832279151172
+2399888144,A Preliminary Approach for Creating a Semi-synthetic Multimodal Clinical Data Set from a Publicly Available Image Repository,2012,0,0,3,0.0,2681852778,Shazia Ashfaq,0,0.003708468606338,0.082832279151172
+2400984763,Knowledge Representation for Topic Model Based Discharge Summary Clustering,2013,0,0,3,0.0,2504663811,Wei Wei,0,-0.41643826229788744,0.7244490375541107
+2414678712,Analysis of Web access logs for surveillance of influenza,2004,10,68,4,0.0,2485889932,Heather Johnson,0,-0.18575630928886194,0.19481404719908096
+2463981085,Normalizing acronyms and abbreviations to aid patient understanding of clinical texts ShARe/CLEF eHealth Challenge 2013 Task 2,2016,62,7,12,1.0,2645491569,Danielle L. Mowery,0,0.8232657126039825,-0.6995088182333692
+2415646068,Closing the gap between NLP research and clinical practice,2010,13,4,1,1.0,2153584649,Wendy W. Chapman,0,0.003708468606338,0.082832279151172
+2462398332,Knowledge Author facilitating user-driven domain content development to support clinical information extraction,2016,27,8,7,0.0,2340691357,William Scuba,0,0.2334063830789356,-0.47145528616498716
+2611454605,A comparison of classification algorithms to automatically identify chest X-ray reports that support pneumonia,2001,0,3,1,1.0,2153584649,Wendy W. Chapman,0,0.07734611786517542,0.5323544862856873
+2754980949,Extracting Intrauterine Device Usage from Clinical Texts Using Natural Language Processing,2017,11,2,5,0.0,2755195600,Jianlin Shi,0,-0.7755297182108806,0.8560111120356698
+2096252540,Overcoming barriers to NLP for clinical text the role of shared tasks and the need for additional creative solutions,2011,20,158,1,1.0,2153584649,Wendy W. Chapman,0,0.5738063144004295,0.4498146357422351
+1972477581,Evaluating the effects of machine pre-annotation and an interactive annotation interface on manual de-identification of clinical text,2014,31,28,8,0.890783,2041047319,Brett R. South,0,0.003708468606338,0.082832279151172
+2151532143,Improving performance of natural language processing part-of-speech tagging on clinical narratives through domain adaptation,2013,56,25,5,0.0,2337958025,Jeffrey P. Ferraro,0,0.003708468606338,0.082832279151172

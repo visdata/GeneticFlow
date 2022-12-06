@@ -1,0 +1,42 @@
+70096886,Outsourcing the decryption of ABE ciphertexts,2011,36,372,2,0.514961,2248595014,Matthew Green,0,0.07334671071440803,-1.5697089225228127
+2026351,Blind identity-based encryption and simulatable oblivious transfer,2007,51,113,2,0.65625,2248595014,Matthew Green,0,0.6001686955565493,-1.3803279445088839
+1541372240,Honest-verifier private disjointness testing without random oracles,2006,22,42,1,1.0,2244632657,Susan Hohenberger,0,0.29706187830776726,0.09542238993204832
+1517738348,Key-Private Proxy Re-encryption,2009,14,122,3,0.0,124599811,Giuseppe Ateniese,0,-0.26041204918465194,-1.2825789633319684
+1565871323,Lightweight encryption for email,2005,11,28,2,0.0,290449749,Ben Adida,0,-0.6031318276154823,-2.3811677526952204
+1540335293,Advances in signatures encryption and e-cash from bilinear groups,2006,164,34,1,1.0,2244632657,Susan Hohenberger,0,0.11964796840685632,-0.8914234439020712
+1567827377,Securely obfuscating re-encryption,2007,19,115,1,1.0,2244632657,Susan Hohenberger,0,0.11574034989019234,-0.758745006570504
+1877240378,Controlling Access to an Oblivious Database Using Stateful Anonymous Credentials,2009,65,67,3,0.461538,378166711,Scott E. Coull,0,-0.3038972448820476,0.6498257311466096
+1589625251,Improved Proxy Re-Encryption Schemes with Applications to Secure Distributed Storage,2005,33,186,4,0.0,124599811,Giuseppe Ateniese,0,0.17384194194749136,-1.4354898781853023
+1581663496,Balancing accountability and privacy using e-cash (extended abstract),2006,64,54,2,0.0,2001749418,Jan Camenisch,0,-0.002618109960855214,-1.4129177604537786
+1898753656,Online/Offline Attribute-Based Encryption,2014,22,116,1,1.0,2244632657,Susan Hohenberger,0,0.10082765344111677,-1.8784900796288697
+1724646375,Lightweight email signatures (extended abstract),2006,21,5,3,0.5,290449749,Ben Adida,0,-1.819801630675752,-2.3454463637711145
+1975542158,Access controls for oblivious and anonymous systems,2011,52,11,3,0.461538,378166711,Scott E. Coull,0,-0.7054058381374733,0.3545587230454428
+1981398410,Securely Obfuscating Re-Encryption,2011,19,53,1,1.0,2244632657,Susan Hohenberger,0,0.11574034989019234,-0.758745006570504
+2037836355,An Overview of ANONIZE A Large-Scale Anonymous Survey System,2015,13,3,1,1.0,2244632657,Susan Hohenberger,0,0.1006135386934957,0.0300808153303264
+2039683463,Using SMT solvers to automate design tasks for encryption and signature schemes,2013,54,17,3,1.0,2066099770,Joseph A. Akinyele,0,0.20385472805564311,-1.3156418503270686
+2060393385,Automating Fast and Secure Translations from Type-I to Type-III Pairing Schemes,2015,24,13,3,1.0,2066099770,Joseph A. Akinyele,0,0.23057791972786895,-0.9175602660266297
+2100516022,Synchronized aggregate signatures new definitions constructions and applications,2010,26,37,3,0.0,2126356630,Jae Hyun Ahn,0,-0.9463725654620875,-2.500918461891077
+2079406490,ANONIZE A Large-Scale Anonymous Survey System,2014,45,18,1,1.0,2244632657,Susan Hohenberger,0,0.5833080189794694,-1.4290531867615033
+2098147685,Machine-generated algorithms proofs and software for the batch verification of digital signature schemes,2012,64,17,3,0.75,2066099770,Joseph A. Akinyele,0,0.26968307687078147,-0.6008742223597335
+2096211577,Detecting dangerous queries a new approach for chosen ciphertext security,2012,32,31,1,1.0,2244632657,Susan Hohenberger,0,0.5606295548103077,-2.0375760889264924
+2114428623,Improved proxy re-encryption schemes with applications to secure distributed storage,2006,38,982,4,0.0,124599811,Giuseppe Ateniese,0,0.3058790428711025,-1.0074455183010165
+2133420971,How to win the clonewars efficient periodic n-times anonymous authentication,2006,50,188,2,0.0,2001749418,Jan Camenisch,0,-0.5442740688670517,-0.38205079844387413
+2159845428,Proxy re-signatures new definitions algorithms and applications,2005,24,117,2,0.0,124599811,Giuseppe Ateniese,0,-0.3840625897846506,-0.7162573549664757
+2164101323,Chosen-ciphertext secure proxy re-encryption,2007,23,391,2,0.0,687553606,Ran Canetti,0,0.713586127611201,-2.683626228762913
+2258161496,Cryptography for secure and private databases enabling practical data access without compromising privacy,2009,103,3,1,1.0,2244632657,Susan Hohenberger,0,-0.004853512866264057,-0.35529663024681696
+2243728503,Unidirectional proxy re-encryption,2006,6,78,2,0.461538,1964944407,Kevin Fu,0,0.4244773796008617,-1.987090960850481
+2296558336,Minimizing Overhead for Secure Computation and Fully Homomorphic Encryption Overhead,2015,0,0,4,0.0,2091057165,Rafael Pass,0,0.7481312700461908,-1.4348473816229659
+2464360680,Lightweight email signatures,2006,0,0,4,0.5,290449749,Ben Adida,0,-1.958309648123308,-2.272798708333468
+2480126680,Honest-verifier private disjointness testing without random oracles,2006,0,2,1,1.0,2244632657,Susan Hohenberger,0,0.29706187830776726,0.09542238993204832
+2487890036,Balancing accountability and privacy using E-cash,2006,0,0,3,0.0,204878165,Anna Lysyanskaya,0,0.2784543240075428,-0.3779752159836028
+2585889387,Compact E-cash,2005,0,0,2,0.0,2001749418,Jan Camenisch,0,0.45340854157348265,-0.8988710944291679
+2951826775,Detecting Dangerous Queries A New Approach for Chosen Ciphertext Security,2012,0,0,1,1.0,2244632657,Susan Hohenberger,0,0.0986883198035021,-0.7537098593031051
+2951885152,Key-Private Proxy Re-Encryption,2008,0,1,3,0.0,124599811,Giuseppe Ateniese,0,0.17384194194749136,-1.4354898781853023
+2952198897,CPA and CCA-Secure Encryption Systems that are not 2-Circular Secure,2010,17,5,2,0.75,2248595014,Matthew Green,0,0.155870422438688,-0.3611899258997246
+2950474738,Access Controls for Oblivious and Anonymous Systems,2008,0,0,3,0.461538,378166711,Scott E. Coull,0,0.0040557659796233,0.2757546058061082
+2951006120,How to Win the Clone Wars Efficient Periodic n-Times Anonymous Authentication,2006,0,9,2,0.0,2001749418,Jan Camenisch,0,-1.1544765374928523,-0.014507437839115983
+2951141839,Chosen-Ciphertext Secure Proxy Re-Encryption,2007,0,0,2,0.0,687553606,Ran Canetti,0,0.18033491917412123,-1.5513846935943076
+2949306594,Short and Stateless Signatures from the RSA Assumption,2009,0,10,1,1.0,2244632657,Susan Hohenberger,0,0.23696822545701865,0.128438414425106
+2985273010,Are These Pairing Elements Correct Automated Verification and Applications,2019,17,0,1,1.0,2244632657,Susan Hohenberger,0,0.0040557659796233,0.2757546058061082
+3022388184,Lightweight email signatures,2006,0,10,4,0.5,290449749,Ben Adida,0,-1.5811885528405154,-1.6605105602271757
+3022393425,Balancing accountability and privacy using E-cash,2006,0,36,3,0.0,204878165,Anna Lysyanskaya,0,0.2784543240075428,-0.3779752159836028

@@ -5,7 +5,7 @@ import time
 from dataset import MultiSessionsGraph
 import torch
 import pandas as pd
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score,f1_score
 import torch.nn.functional as F
 import sklearn.metrics as metrics
 from models import Model,Net,Net2,Net3
@@ -35,29 +35,39 @@ def print_to_file(filename, string_info, mode="a"):
 		f.write(str(string_info) + "\n")
 
 parser.add_argument('--seed', type=int, default=777, help='random seed')
-parser.add_argument('--batch_size', type=int, default=200, help='batch size')
-parser.add_argument('--lr', type=float, default=0.001, help='learning rate')
+parser.add_argument('--batch_size', type=int, default=100, help='batch size')
+parser.add_argument('--lr', type=float, default=0.002, help='learning rate')
 parser.add_argument('--weight_decay', type=float, default=0.001, help='weight decay')
-parser.add_argument('--nhid', type=int, default=128, help='hidden size')
+parser.add_argument('--nhid', type=int, default=256, help='hidden size')
+parser.add_argument('--average', type=bool, default=False)
+parser.add_argument('--num_layers', type=int, default=3)
 parser.add_argument('--sample_neighbor', type=bool, default=True, help='whether sample neighbors')
 parser.add_argument('--sparse_attention', type=bool, default=True, help='whether use sparse attention')
 parser.add_argument('--structure_learning', type=bool, default=True, help='whether perform structure learning')
 parser.add_argument('--pooling_ratio', type=float, default=0.5, help='pooling ratio')
-parser.add_argument('--dropout_ratio', type=float, default=0.5, help='dropout ratio')
+parser.add_argument('--dropout_ratio', type=float, default=0.6, help='dropout ratio')
 parser.add_argument('--lamb', type=float, default=1.0, help='trade-off parameter')
 parser.add_argument('--device', type=str, default='cuda:0', help='specify cuda devices')
 parser.add_argument('--epochs', type=int, default=50, help='maximum number of epochs')
 parser.add_argument('--patience', type=int, default=100, help='patience for early stopping')
-parser.add_argument('--conv_name', type=str, default='ChebConv', help='conv')
+parser.add_argument('--conv_name', type=str, default='ARMAConv', help='conv')
 parser.add_argument('--pool_name', type=str, default='EdgePooling', help='pooling')
 parser.add_argument('--PATH', type=str, default='./data/data_origin', help='dataset')
+parser.add_argument('--ignore_edge', type=bool, default=False, help='whether ignore edge')
+parser.add_argument('--ignore_node_attr', type=bool, default=False, help='whether ignore node attribute')
 
 args = parser.parse_args()
 torch.manual_seed(args.seed)
 if torch.cuda.is_available():
     torch.cuda.manual_seed(args.seed)
-
-dataset = MultiSessionsGraph('./data',PATH=args.PATH)
+end_path=os.path.basename(args.PATH)
+if end_path == 'data':
+    processed_path='./core'
+elif end_path == 'data_origin':
+    processed_path='./full'
+else:
+    processed_path='./data'
+dataset = MultiSessionsGraph(processed_path,PATH=args.PATH)
 
 dataset = dataset.shuffle()
 dataset = dataset.shuffle()
@@ -65,7 +75,12 @@ dataset = dataset.shuffle()
 
 args.num_classes = 2
 
-args.num_features = dataset.num_features
+if args.ignore_node_attr:
+    args.num_features=1
+elif args.ignore_edge:
+    args.num_features=2
+else:
+    args.num_features = dataset.num_features
 
 print(args)
 
@@ -95,6 +110,15 @@ def train(training_set,validation_set):
         loss_train = 0.0
         correct = 0
         for i, data in enumerate(train_loader):
+            if args.ignore_edge:
+                tmp = [[] for i in range(data.edge_index.shape[0])]
+                data.edge_index=torch.tensor(tmp,dtype=torch.long)
+                data.edge_attr=torch.tensor([[]],dtype=torch.long).t()
+                data.x=data.x[:,1:3]
+                if data.x.shape[1] !=2:
+                    raise 'x.shape != 2'
+            if args.ignore_node_attr:
+                data.x=torch.ones(data.x.shape[0],1,dtype=data.x.dtype)
             optimizer.zero_grad()
             y=[]
             graph_hindex=[]
@@ -115,9 +139,10 @@ def train(training_set,validation_set):
             data = data.to(args.device)
             
             out = model(data,paper_count,args.PATH)
+            # out = model(data,paper_count)
             # out = model(data)
             # out,loss_pool = model(data.x,data.edge_index,data.batch)
-            weights = np.array([1,2])
+            weights = np.array([1,1])
             weights = torch.FloatTensor(weights).to(args.device)
             loss = F.nll_loss(out, y, weight=weights)
             loss.backward()
@@ -129,9 +154,9 @@ def train(training_set,validation_set):
         acc_val, loss_val, preds, lables, y_proba = compute_test(val_loader,model,epoch)
         # acc_val, loss_val, preds, lables, y_proba = compute_test(val_loader,model)
 
-        print('Epoch: {:04d}'.format(epoch + 1), 'loss_train: {:.6f}'.format(loss_train),
-              'acc_train: {:.6f}'.format(acc_train), 'loss_val: {:.6f}'.format(loss_val),
-              'acc_val: {:.6f}'.format(acc_val), 'time: {:.6f}s'.format(time.time() - t))
+        # print('Epoch: {:04d}'.format(epoch + 1), 'loss_train: {:.6f}'.format(loss_train),
+        #       'acc_train: {:.6f}'.format(acc_train), 'loss_val: {:.6f}'.format(loss_val),
+        #       'acc_val: {:.6f}'.format(acc_val), 'time: {:.6f}s'.format(time.time() - t))
         
 
     print('Optimization Finished! Total time elapsed: {:.6f}'.format(time.time() - t))
@@ -145,7 +170,15 @@ def compute_test(loader,model,epoch):
     correct = 0.0
     loss_test = 0.0
     for data in loader:
-
+        if args.ignore_edge:
+            tmp = [[] for i in range(data.edge_index.shape[0])]
+            data.edge_index = torch.tensor(tmp, dtype=torch.long)
+            data.edge_attr = torch.tensor([[]], dtype=torch.long).t()
+            data.x=data.x[:,1:3]
+            if data.x.shape[1] !=2:
+                raise 'x.shape != 2'
+        if args.ignore_node_attr:
+            data.x = torch.ones(data.x.shape[0], 1, dtype=data.x.dtype)
         y=[]
         graph_hindex=[]
         temp = torch.reshape(data.y,(-1,1))
@@ -168,6 +201,7 @@ def compute_test(loader,model,epoch):
         data = data.to(args.device)
         
         out = model(data,paper_count,args.PATH)
+        # out = model(data,paper_count)
         # out = model(data)
         # out,loss_pool = model(data.x,data.edge_index,data.batch)
 
@@ -177,7 +211,7 @@ def compute_test(loader,model,epoch):
         preds=pred.cpu().long().numpy()
         labels=torch.squeeze(y).cpu()
         labels=labels.long().numpy()
-        y_proba=out.cpu().detach().numpy()
+        y_proba=F.softmax(out).cpu().detach().numpy()
         if epoch==(args.epochs-1):
             name=data.name.cpu().detach().numpy()
             for idx in range(name.shape[0]):
@@ -206,12 +240,14 @@ if __name__ == '__main__':
     ROC = []
     PRC = []
     F1_best = []
+    F1_05 = []
     F2 = []
     ACC = []
     F2_best = []
     cos_ave = []
     # torch.backends.cudnn.enabled=False
-    for r in range(10):
+    round=10
+    for r in range(round):
         y_pred = []
         y_real = []
         y_proba_minority = []
@@ -234,6 +270,7 @@ if __name__ == '__main__':
         # print(y_pred.shape)
         y_proba_minority = np.concatenate(y_proba_minority)
 
+        f1_05 = f1_score(y_real,y_proba_minority[:,1]>=0.5)
         roc = roc_auc_score(y_real, y_proba_minority[:,1])
         prc = average_precision_score(
             y_real,
@@ -256,7 +293,7 @@ if __name__ == '__main__':
                 Thresholds=thresholds[pre_i]
                 recall_=recall[pre_i]
                 precision_=precision[pre_i]
-
+        F1_05.append(f1_05)
         F1_best.append(f1_best)
         y_pred = (y_proba_minority[:,1] >= Thresholds).astype(int)
         acc=accuracy_score(y_real,y_pred)
@@ -269,6 +306,8 @@ if __name__ == '__main__':
                 precision_,
                 ", ",
                 recall_,
+                ", ",
+                f1_05,
                 ", ",
                 f1_best,
                 ", ",
@@ -294,5 +333,27 @@ if __name__ == '__main__':
             Stability.append(stability)
     Stability=np.array(Stability)
     print("Stability:",np.mean(Stability))
-    print_to_file("record.txt",args.PATH+' '+args.conv_name+" 10 cv Precision:%.3f Recall:%.3f F1_best:%.3f F1_best(std): %.3f ROC:%.3f ROC(std): %.3f PRC:%.3f ACC:%.3f for Class Fellow" % (np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC)))
-    print("10 cv Precision, Recall, F1_best, ROC, PRC, ACC for Class:",np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.mean(ROC),np.mean(PRC),np.mean(ACC))
+    print("ignore_edge:", args.ignore_edge)
+    print("PATH:", args.PATH)
+    comment=''
+    if args.ignore_node_attr:
+        comment+="ignore_node_attr "
+    if args.ignore_edge:
+        recordfile="Nedge_"
+        comment+="ignore_edge "
+    else:
+        recordfile="edge_"
+    
+    recordfile+="hI_"
+    if end_path == 'data':
+        recordfile+='core'
+    elif end_path == 'data_origin':
+        recordfile+='full'
+    else:
+        recordfile+=end_path
+    recordfile+='.txt'
+    # print_to_file("record.txt",comment+args.PATH+' '+args.conv_name+f"{round}*10-fold-cv Precision:%.3f Recall:%.3f F1_05:%.3f F1_05(std):%.3f F1_best:%.3f F1_best(std): %.3f ROC:%.3f ROC(std): %.3f PRC:%.3f ACC:%.3f for Class Fellow" % (np.mean(Precision),np.mean(Recall),np.mean(F1_05),np.std(F1_05),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC)))
+    # print(f"{round}*10-fold-cv Precision, Recall, F1_05, F1_05(std), F1_best, F1_best(std), ROC, ROC(std), PRC, ACC for Class:",np.mean(Precision),np.mean(Recall),np.mean(F1_05),np.std(F1_05),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC))
+    print_to_file(recordfile,f"--PATH {args.PATH} --lr {args.lr} --nhid {args.nhid} --dropout_ratio {args.dropout_ratio} --conv_name {args.conv_name} --num_layers {args.num_layers} --average({args.average}) {comment} "+f"{round}*10-fold-cv Precision:%.3f Recall:%.3f F1_best:%.3f F1_best(std): %.3f ROC:%.3f ROC(std): %.3f PRC:%.3f ACC:%.3f for Class Fellow" % (np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC)))
+    print(f"{round}*10-fold-cv Precision, Recall, F1_best, F1_best(std), ROC, ROC(std), PRC, ACC for Class:",np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC))
+

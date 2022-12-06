@@ -1,0 +1,34 @@
+1003423933,Fact Qualifiers in Security Scenarios,2006,80,10,1,1.0,2101841271,Andrew D. Gordon,0,-0.3190444769555518,0.5615419986564617
+1542335382,Secrecy despite compromise types cryptography and the pi-calculus,2005,26,37,1,1.0,2101841271,Andrew D. Gordon,0,-0.028401270256624034,-0.7191106353153166
+1570043269,Code-Carrying Authorization,2008,22,136,4,1.0,1938236120,Sergio Maffeis,0,0.01729573639416045,0.692733692908092
+1493106024,Checking the security of web services configurations,2005,4,40,3,1.0,392089535,Karthikeyan Bhargavan,0,-0.64380370370557,2.837283194704529
+1484927788,From typed process calculi to source-based security,2005,2,0,1,1.0,2101841271,Andrew D. Gordon,0,-0.6135923695251184,-0.1714455982913274
+1502610071,Verifying cryptographic code in c some experience and the csec challenge,2011,31,49,3,1.0,80220654,Mihhail Aizatulin,0,-1.0022847225002631,-1.835819987166397
+1585923090,Secrecy and group creation,2005,25,34,3,1.0,331751290,Luca Cardelli,0,-0.1751537443235147,0.04866599499852316
+1750903016,Security authorization queries,2006,142,44,2,0.857143,1819774294,CÃ©dric Fournet,0,0.01729573639416045,0.692733692908092
+1883741360,Authenticity Types for Cryptographic Protocols,2002,3,0,1,1.0,2101841271,Andrew D. Gordon,0,-0.755961505168975,-1.4756626492000273
+1917408349,Controlling the delegation of rights,2006,129,33,2,0.857143,1819774294,CÃ©dric Fournet,0,0.0040557659796233,0.2757546058061082
+1977417404,Computational verification of C protocol implementations by symbolic execution,2012,42,22,2,1.0,80220654,Mihhail Aizatulin,0,0.035863163648495705,-0.4457051121640335
+2007072126,Secure sessions for Web services,2007,44,51,4,1.0,392089535,Karthikeyan Bhargavan,0,-0.32409323540744556,1.1528106569199716
+2074071909,Secrecy and Group Creation,2001,2,2,3,0.0,331751290,Luca Cardelli,0,-0.1751537443235147,0.04866599499852316
+2104578611,Verified implementations of the information card federated identity-management protocol,2008,25,41,3,0.875,392089535,Karthikeyan Bhargavan,0,-1.442862766608417,-0.6881256431998828
+2081888787,Extracting and verifying cryptographic models from C protocol code by symbolic execution,2011,38,39,2,1.0,80220654,Mihhail Aizatulin,0,-0.3415933421640771,-0.5190877714279475
+2099361263,Types and effects for asymmetric cryptographic protocols,2002,38,50,1,1.0,2101841271,Andrew D. Gordon,0,-0.8775305787052811,-1.1899026900465013
+2126275975,A Type Discipline for Authorization in Distributed Systems,2007,47,74,3,0.680431,1819774294,CÃ©dric Fournet,0,-0.3117653177632344,-1.018211204269058
+2125515762,Verifying policy-based security for web services,2004,18,77,3,1.0,392089535,Karthikeyan Bhargavan,0,0.0040557659796233,0.2757546058061082
+2125607372,An advisor for web services security policies,2005,18,61,3,1.0,392089535,Karthikeyan Bhargavan,0,-0.32409323540744556,1.1528106569199716
+2151353792,Secure sessions for web services,2004,37,29,4,1.0,392089535,Karthikeyan Bhargavan,0,-0.4656804588290318,0.4865098350588477
+2151390416,Provable Implementations of Security Protocols,2006,13,11,1,1.0,2101841271,Andrew D. Gordon,0,-1.1751570000315743,-1.6080139111055785
+2182004989,Types and Effects for,2003,32,0,1,1.0,2101841271,Andrew D. Gordon,0,-0.29069197811499065,-0.5947906846463047
+2176696677,Types and effects for asymmetric cryptographic protocols,2004,32,86,1,1.0,2101841271,Andrew D. Gordon,0,-0.29069197811499065,-0.5947906846463047
+2210559677,Security assertion revocation,2006,111,8,3,0.857143,1819774294,CÃ©dric Fournet,0,0.019838728701529657,0.3823927778308614
+2211718439,Reviewing the security of trusted software components,2003,22,60,2,0.732143,1819774294,CÃ©dric Fournet,0,0.0040557659796233,0.2757546058061082
+2330767629,On Robust Malware Classifiers by Verifying Unwanted Behaviours,2016,33,2,3,0.0,2425323902,Wei Chen,0,0.05940095047987125,0.6960502266457337
+2321922770,A text-mining approach to explain unwanted behaviours,2016,23,3,3,0.0,2425323902,Wei Chen,0,-0.08398444675049266,1.4321386263870437
+2657786107,A type discipline for authorization policies,2005,33,50,2,0.857143,1819774294,CÃ©dric Fournet,0,-0.13158165377003772,-0.6676630602561207
+2775370490,SECURITY CHECK OF WEB SERVICE CONFIGURATION,2005,0,3,2,1.0,392089535,Karthikeyan Bhargavan,0,-0.4187989294775865,0.35596692829055865
+2797462666,Compact Explanations of Why Malware is Bad,2015,0,0,2,0.0,2043944749,David Aspinall,0,0.05940095047987125,0.6960502266457337
+2911339640,Proceedings of the fourth ACM workshop on Formal methods in security,2006,0,1,2,0.0,2078136799,Marianne Winslett,0,-0.6218199758181867,1.3023652064076194
+2914903755,Verifying Anti-Security Policies Learnt from Android Malware Families,2015,0,0,2,0.0,2043944749,David Aspinall,0,-0.5459011165012962,0.9182057820602619
+2952910150,23rd ACM Conference on Computer and Communications Security CCS 2016,2016,0,0,5,0.0,1820728581,Pierre Yves Strub,0,0.0345193044346854,0.11711036493391322
+1532236297,Towards a Verified Reference Implementation of a Trusted Platform Module,2009,19,14,3,0.0,2679881074,Aybek Mukhamedov,0,-0.6928432619040099,-0.5615388390418825

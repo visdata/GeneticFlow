@@ -1,0 +1,42 @@
+161296890,Ibis A Provenance Manager for Multi-Layer Systems,2011,10,7,1,1.0,2023450202,Christopher Olston,0,-0.31568529956691976,0.10594811437973542
+1568972313,Efficient Monitoring and Querying of Distributed Dynamic Data via Approximate Replication,2005,20,29,1,1.0,2023450202,Christopher Olston,0,-0.18179782589503335,-0.06810305083386425
+1548921135,METHOD AND SYSTEM FOR DATA PROVENANCE MANAGEMENT IN MULTI-LAYER SYSTEMS,2011,15,5,1,1.0,2023450202,Christopher Olston,0,0.19420768871546937,-1.5626024262012221
+1567628561,Virtual Environment Spanning Desktop and Cloud,2014,15,15,1,1.0,2023450202,Christopher Olston,0,-0.0041099411153885,0.0447066884760059
+1957451092,System and method for adaptively refreshing a web page,2006,41,22,1,1.0,2023450202,Christopher Olston,0,-1.2224140585399537,-1.1528508081563345
+1646696449,Query Processing Approximation and Resource Management in a Data Stream Management System,2003,20,441,10,0.0,2034912444,Rajeev Motwani,0,-0.03990874100610224,-0.19030993128025134
+1602423797,Offering a Precision-Performance Tradeoff for Aggregation Queries over Replicated Data,2000,31,143,2,0.0,671527850,Jennifer Widom,0,-0.10134712877997931,-0.21487711305997756
+1997168731,The Beckman Report on Database Research,2014,7,47,24,0.0,2170206103,Daniel J. Abadi,0,0.16961816653767703,0.31221718520020947
+2021932022,SpongeFiles mitigating data skew in mapreduce using distributed memory,2014,25,21,2,0.0,2781052171,Khaled Elmeleegy,0,-0.20133665475165913,-0.19110780330684465
+2099708664,Adaptive filters for continuous queries over distributed data streams,2003,38,430,3,0.0,2286546702,Jing Jiang,0,-0.42845202490949574,0.1450203979855267
+2098411332,Shuffling a stacked deck the case for partially randomized ranking of search engine results,2005,18,62,3,1.0,2137133237,Sandeep Pandey,0,-0.4197151661071337,-0.42589767901227754
+2098935637,Pig latin a not-so-foreign language for data processing,2008,11,1687,1,1.0,2023450202,Christopher Olston,0,0.05541249926930408,0.6086030893740271
+2129055634,Scheduling shared scans of large data files,2008,18,66,3,0.0,2186177736,Parag Agrawal,0,-0.239956508038312,0.2095291056901473
+2126354234,Generating example data for dataflow programs,2009,16,46,1,1.0,2023450202,Christopher Olston,0,-1.371874739873285,-2.074199432167601
+2135252439,Best-effort cache synchronization with source cooperation,2002,27,122,2,0.0,671527850,Jennifer Widom,0,-0.026043388670241648,-0.1514020116204905
+2142031898,Building a high-level dataflow system on top of Map-Reduce the Pig experience,2009,14,355,6,0.0,2115766557,Alan F. Gates,0,0.07601273109295748,-0.25015726420176815
+2121152256,Relaxation in text search using taxonomies,2008,38,16,4,0.0,2151979873,Marcus Fontoura,0,0.20358623503608736,-0.3358258922388893
+2106753423,Interactive Analysis of Web-Scale Data,2009,16,28,1,1.0,2023450202,Christopher Olston,0,-0.3632509700454942,1.1437180412081445
+2110772258,Simultaneous scalability and security for data-intensive web applications,2006,20,15,5,1.0,2098120398,Amit Manjhi,0,-0.09643955070014586,-0.2837431777135822
+2125596588,WIC a general-purpose algorithm for monitoring web information sources,2004,12,47,3,1.0,2137133237,Sandeep Pandey,0,-0.8731016442901395,-0.568155085222015
+2110849300,Adaptive precision setting for cached approximate values,2001,16,199,3,0.0,2143551710,Boon Thau Loo,0,1.2787030360836775,0.3805392062188651
+2143622298,A Scalability Service for Dynamic Web Applications,2005,25,37,1,1.0,2023450202,Christopher Olston,0,-0.9070641476920592,-0.8526623352160405
+2117189944,Scalable query result caching for web applications,2008,23,49,6,0.0,2161833160,Charles Garrod,0,-0.0041099411153885,0.0447066884760059
+2123107958,Parallel Evaluation of Composite Aggregate Queries,2008,9,7,2,0.0,2487018732,Lei Chen,0,0.03565810966282755,0.09825506972366725
+2156632255,Distributed top-k monitoring,2003,38,423,2,0.0,2116639004,Brian Babcock,0,-1.2238579501256976,-1.2844076874188963
+2151575925,Query Processing Resource Management and Approximation ina Data Stream Management System,2002,21,392,3,0.0,671527850,Jennifer Widom,0,-0.03990874100610224,-0.19030993128025134
+2166767032,Finding (recently) frequent items in distributed data streams,2005,24,181,4,0.666667,2098120398,Amit Manjhi,0,-0.4048820609976037,0.11456662099840133
+2157814900,Inspector gadget a framework for custom monitoring and debugging of distributed dataflows,2011,16,25,1,1.0,2023450202,Christopher Olston,0,-0.0041099411153885,0.0447066884760059
+2149083272,Invalidation Clues for Database Scalability Services,2007,27,12,7,1.0,2098120398,Amit Manjhi,0,-0.7728841216560136,-0.6290823633140098
+2155909634,Nova continuous Pig/Hadoop workflows,2011,18,113,1,1.0,2023450202,Christopher Olston,0,0.06359312798975086,0.12617710821554445
+2219171127,MODULAR WEB CRAWLING POLICIES AND METRICS,2008,2,8,1,1.0,2023450202,Christopher Olston,0,-2.3091183843575824,-2.056347674998088
+2211195198,System for Query Scheduling to Maximize Work Sharing,2008,5,27,1,1.0,2023450202,Christopher Olston,0,0.014532710543751099,0.030944858938630852
+2211615036,ADAPTIVE MATERIALIZED VIEW SELECTION FOR DATABASES,2008,14,7,2,0.0,1989847040,Jayavel Shanmugasundaram,0,1.901466873024071,0.5622172946276698
+2205736846,System and method for crawl ordering by search impact,2007,21,20,1,1.0,2023450202,Christopher Olston,0,-2.695548043404763,-2.0566361107353095
+2249238185,Generating Example Data for Testing Database Queries,2008,8,4,1,1.0,2023450202,Christopher Olston,0,-0.3652008450463068,0.3160971441695779
+2218458026,CONTROL continuous output and navigation technology with refinement on-line,1998,2,43,8,0.0,201926276,Ron Avnur,0,-0.0041099411153885,0.0447066884760059
+2278401749,System and method using a refresh policy for incremental updating of web pages,2008,19,10,1,1.0,2023450202,Christopher Olston,0,-2.3703456778357235,-1.9159925141555554
+2401123394,Method or system for spilling in query environments,2011,26,8,1,1.0,2023450202,Christopher Olston,0,-0.0041099411153885,0.0447066884760059
+2408275778,System and method for providing a change profile of a web page,2008,18,51,1,1.0,2023450202,Christopher Olston,0,-1.9340549818066668,-1.6371814243313703
+2438792749,Goods Organizing Googles Datasets,2016,19,67,4,0.0,2154833104,Alon Halevy,0,-0.3826816924943315,-0.17246930033106256
+2575168421,Managing Googleâ€™s data lake an overview of the Goods system,2016,1,17,2,0.0,339589296,Neoklis Polyzotis,0,-0.0041099411153885,0.0447066884760059
+2913191421,Session details Scalable data analytics,2010,0,0,1,1.0,2023450202,Christopher Olston,0,-0.0041099411153885,0.0447066884760059

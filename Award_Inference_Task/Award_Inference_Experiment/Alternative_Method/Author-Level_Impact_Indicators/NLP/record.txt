@@ -1,0 +1,1 @@
+svm 100 cv Precision:0.603 Recall:0.667 F1_best:0.632 F1_best(std): 0.012 ROC:0.802 ROC(std): 0.010 PRC:0.574 ACC:0.806 for Class Fellow

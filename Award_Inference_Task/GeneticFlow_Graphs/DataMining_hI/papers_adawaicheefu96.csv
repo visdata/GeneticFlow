@@ -1,0 +1,105 @@
+175790662,Mining Top-K Itemsets over a Sliding Window Based on Zipfian Distribution,2005,12,15,2,0.935897,2125027556,Raymond Chi Wing Wong,0,-0.1071931497347323,0.3242721482837629
+65885292,Publishing Skewed Sensitive Microdata,2010,21,2,3,0.672015,2147654607,Yabo Xu,0,0.003708468606338,0.082832279151172
+1524036919,On Complementarity of Cluster and Outlier Detection Schemes,2003,15,19,2,0.928571,2223943589,Zhixiang Chen,0,0.3803716889668361,0.05272840113301883
+1497687460,ISM Item Selection for Marketing with Cross-Selling Considerations,2004,17,9,2,1.0,2125027556,Raymond Chi Wing Wong,0,-0.02726394745819949,-0.04310121824720473
+1570170793,Mining N-most Interesting Itemsets,2000,6,75,1,1.0,2165551961,Ada Wai Chee Fu,0,0.012899981658850942,-0.0650935128279995
+1517035506,Randomization Resilient To Sensitive Reconstruction,2012,21,1,3,0.0,2626264286,Ke Wang,0,0.003708468606338,0.082832279151172
+1208197292,Mining frequent episodes for relating financial events and stock trends,2003,8,41,2,0.0,2545231928,Anny Ng,0,0.1218760780121912,-0.10712539197883438
+1526723749,(Î± k)-anonymity based privacy preservation by lossy join,2007,20,8,5,0.0,2119154050,Jian Yin,0,0.003708468606338,0.082832279151172
+1572909852,Small Count Privacy and Large Count Utility in Data Publishing,2012,35,5,1,1.0,2165551961,Ada Wai Chee Fu,0,-0.12681076648878814,0.06540009977213765
+1504644433,Clustering Massive Text Data Streams by Semantic Smoothing Model,2007,13,7,4,0.8,2307224481,Yubao Liu,0,-0.8621541188485654,2.6346529483060874
+1567248195,Optimal Algorithms for Finding User Access Sessions from Very Large Web Logs,2002,21,7,2,0.928571,2223943589,Zhixiang Chen,0,-0.8797338550617473,-0.7695424254010338
+1667460159,Preserving Individual Privacy in Serial Data Publishing,2009,33,1,2,0.720963,2125027556,Raymond Chi Wing Wong,0,-0.24974665159713627,-0.19434508556492136
+1669737603,Anonymization with Worst-Case Distribution-Based Background Knowledge,2009,20,0,2,0.720963,2125027556,Raymond Chi Wing Wong,0,0.05436725350296856,0.5307781949461493
+1906561224,A fast distributed algorithm for mining association rules,1996,13,394,4,0.0,1979772396,David W. Cheung,0,0.30402629548151244,0.426225947744119
+1932702314,Community Based Information Dissemination,2015,23,0,2,0.0,2709995599,Zhengwei Yang,0,0.003708468606338,0.082832279151172
+1851730370,Computing Join Aggregates over Private Tables,2007,21,0,3,1.0,2131266133,Rong She,0,-0.904188901891511,0.8106851630924806
+1828352807,Clustering Categorical Data,2000,1,59,1,1.0,2165551961,Ada Wai Chee Fu,0,-0.7780108324785558,2.720031506693309
+1584412742,Enhancing Effectiveness of Outlier Detections for Low Density Patterns,2002,15,232,3,0.0,2697867622,Jian Tang,0,-0.16633578012813252,0.7954210758835458
+1964444089,Anonymity for continuous data publishing,2008,18,95,3,0.0,2015549731,Benjamin C. M. Fung,0,0.003708468606338,0.082832279151172
+1977577158,Optimal proactive caching in peer-to-peer network analysis and application,2007,25,29,3,0.0,2108468406,Weixiong Rao,0,0.003708468606338,0.082832279151172
+1965427702,Fast graph query processing with a low-cost index,2011,23,27,3,0.0,2304873892,James Cheng,0,-0.01657107088421793,0.035389748403282274
+1970995121,Dynamic vp-tree indexing for n -nearest neighbor search given pair-wise distances,2000,37,113,1,1.0,2165551961,Ada Wai Chee Fu,0,1.0817157980888061,0.36845196212904885
+2008393584,Computing Join Aggregates Over Private Tables,2008,0,1,2,1.0,2131266133,Rong She,0,-1.6791772621754015,1.3523801948467018
+1991073076,FP-tree approach for mining N-most interesting itemsets,2002,0,9,1,1.0,2165551961,Ada Wai Chee Fu,0,-0.3314583488747817,1.450134645320521
+1991128947,Collective spatial keyword queries a distance owner-driven approach,2013,29,79,4,0.0,2121257162,Cheng Long,0,0.003708468606338,0.082832279151172
+1998341696,Finding maximal cliques in massive networks,2011,31,79,3,0.0,2304873892,James Cheng,0,0.003708468606338,0.082832279151172
+2009331946,(Î± k)-anonymity an enhanced k-anonymity model for privacy preserving data publishing,2006,15,499,3,0.263462,2095948822,Jiuyong Li,0,-0.08219684055276005,0.4370923699984199
+2000646855,Anonymizing transaction databases for publication,2008,22,167,3,0.770309,2147654607,Yabo Xu,0,-2.5072721634549833,1.0274928680668396
+2000846246,Mining frequent itemsets without support threshold with and without item constraints,2004,25,117,2,0.0,2657058974,Yin Ling Cheung,0,-0.08653559738189799,0.18140308136610628
+2010043894,Global privacy guarantee in serial data publishing,2010,11,23,2,0.637892,2125027556,Raymond Chi Wing Wong,0,-0.24974665159713627,-0.19434508556492136
+2013702744,Classification spanning correlated data streams,2006,29,6,3,0.67622,2147654607,Yabo Xu,0,0.616856355262448,0.5138547630925809
+2032186932,K-isomorphism privacy preserving network publication against structural attacks,2010,32,258,2,0.0,2304873892,James Cheng,0,0.003708468606338,0.082832279151172
+2011122269,Mining N-most interesting itemsets without support threshold by the COFI-tree,2005,6,24,4,0.0,2425223157,Sze Chung Ngan,0,0.3201758798130111,-0.05538473846799128
+2042035594,Entropy-based subspace clustering for mining numerical data,1999,25,448,2,0.0,2645957009,Chun Hung Cheng,0,-0.9085944050612677,3.1182180717909413
+2035576859,Algorithm for discovering multivalued dependencies,2001,6,12,2,0.0,2125577770,Men Hin Yan,0,-2.508787401321189,0.6550263344976825
+2046813095,Distributed Maximal Clique Computation,2014,20,17,3,0.0,2298383942,Yanyan Xu,0,0.003708468606338,0.082832279151172
+2055518297,Minimum Spanning Trees in Temporal Graphs,2015,29,27,2,0.0,2676906333,Silu Huang,0,0.003708468606338,0.082832279151172
+2069857456,Can the Utility of Anonymized Data be Used for Privacy Breaches,2011,38,55,2,0.560535,2125027556,Raymond Chi Wing Wong,0,0.003708468606338,0.082832279151172
+2070074980,Enhanced nearest neighbour search on the R-tree,1998,17,139,2,0.0,2425269811,King Lum Cheung,0,-0.8131717610069266,0.840375656430974
+2059900053,Utility-based anonymization using local recoding,2006,15,313,6,0.0,2570536613,Jian Xu,0,-0.4913750514419693,-0.4173256854286544
+2070593017,Finding maximal cliques in massive networks by H*-graph,2010,28,72,3,0.0,2304873892,James Cheng,0,0.003708468606338,0.082832279151172
+2062153469,Exact Top-k Nearest Keyword Search in Large Networks,2015,39,25,2,1.0,2142350544,Minhao Jiang,0,0.003708468606338,0.082832279151172
+2057194202,Mining favorable facets,2007,18,28,3,1.0,2125027556,Raymond Chi Wing Wong,0,0.18861072330691592,0.09314717660269374
+2073184692,Data Mining for Inventory Item Selection with Cross-Selling Considerations,2005,31,54,2,0.935897,2125027556,Raymond Chi Wing Wong,0,-0.2848009883361741,-0.2685804658780362
+2071416419,Clustering Text Data Streams,2008,32,53,4,0.8,2307224481,Yubao Liu,0,-0.8410271840686945,2.996559878557878
+2099564027,Online Skyline Analysis with Dynamic Preferences on Nominal Attributes,2009,26,23,3,0.720963,2125027556,Raymond Chi Wing Wong,0,-0.1305741876378449,0.4977821095856227
+2091178934,Efficient discovery of risk patterns in medical data,2009,37,37,2,0.138672,2095948822,Jiuyong Li,0,-0.05194242768925251,-0.3455713155707904
+2091298248,Ix-cubes iceberg cubes for data warehousing and olap on xml data,2007,12,21,3,0.0,2231158567,Fianny Ming fei Jiang,0,-1.6945326081680272,-0.16305938238041381
+2084335476,Efficient anomaly monitoring over moving object trajectory streams,2009,34,112,3,1.0,2107421971,Yingyi Bu,0,-0.15215450003961875,0.048902824997443174
+2086098962,Triple-node hierarchies for object-oriented database indexing,1998,22,4,2,0.0,2232572203,Frank Hing Wah Luk,0,-1.4368387891577443,0.3653414470437566
+2103392961,FF-Anonymity When Quasi-identifiers Are Missing,2009,5,16,3,0.0,2626264286,Ke Wang,0,0.003708468606338,0.082832279151172
+2104120015,Anonymization-based attacks in privacy-preserving data publishing,2009,39,19,2,0.720963,2125027556,Raymond Chi Wing Wong,0,-0.005430236092622868,0.5459301100176313
+2098268836,Mining association rules with weighted items,1998,5,366,2,0.0,2144449540,C.H. Cai,0,-1.037283645294524,-0.10465485044926588
+2104550444,Efficient skyline querying with variable user preferences on nominal attributes,2008,28,57,2,0.858945,2125027556,Raymond Chi Wing Wong,0,0.04058852858681295,-0.03346779459016044
+2105168028,Mining risk patterns in medical data,2005,19,64,2,0.263462,2095948822,Jiuyong Li,0,0.8919913453853215,-0.28226144606056985
+2105510466,HOT SAX efficiently finding the most unusual time series subsequence,2005,11,465,3,0.0,2170070822,Eamonn Keogh,0,-0.1950353898037072,0.9137844405623988
+2111680152,Integration and efficient lookup of compressed XML accessibility maps,2005,21,18,2,0.0,2629880758,Mingfei Jiang,0,-1.3353976410282553,-0.27203352180626345
+2129330015,Scaling and time warping in time series querying,2005,39,170,1,1.0,2165551961,Ada Wai Chee Fu,0,-0.27713734745464136,0.18395495235383852
+2120610831,MPIS maximal-profit item selection with cross-selling considerations,2003,25,38,2,1.0,2125027556,Raymond Chi Wing Wong,0,-0.34841194659538965,-0.10142585373365
+2129513032,Achieving k -anonymity by clustering in attribute hierarchical structures,2006,26,73,4,0.263462,2095948822,Jiuyong Li,0,-0.8837660796070181,2.98044225129745
+2126966660,Capabilities of outlier detection schemes in large datasets framework and methodologies,2006,35,58,3,0.54332,2619761154,Jian Tang,0,0.20279561436658805,0.0753070172078775
+2121512846,Privacy preserving serial data publishing by role composition,2008,23,62,2,1.0,2107421971,Yingyi Bu,0,-0.08219684055276005,0.4370923699984199
+2110039140,Efficient mining of association rules in distributed databases,1996,22,309,3,0.0,1979772396,David W. Cheung,0,-0.5694419594297246,0.17674000472187598
+2121885251,Linear and sublinear time algorithms for mining frequent traversal path patterns from very large Web logs,2003,17,8,3,0.928571,2223943589,Zhixiang Chen,0,0.003708468606338,0.082832279151172
+2116129845,Hierarchical Classification of Documents with Error Control,2001,21,17,3,0.0,2973762475,Chun Hung Cheng,0,1.3266155769130736,0.5511122502858545
+2139786672,Mining top-K frequent itemsets from data streams,2006,26,61,2,1.0,2125027556,Raymond Chi Wing Wong,0,-0.12398845709573587,0.01521820213357239
+2143085379,Efficiently answering top-k typicality queries on large databases,2007,38,34,3,0.0,1965087924,Ming Hua,0,-0.3228477940215465,-0.14852649638441862
+2116437000,Hop doubling label indexing for point-to-point distance querying on scale-free networks,2014,33,38,2,1.0,2142350544,Minhao Jiang,0,-0.13275296294680305,-0.071629888206014
+2140096141,Minimality attack in privacy preserving data publishing,2007,27,251,2,1.0,2125027556,Raymond Chi Wing Wong,0,-0.005430236092622868,0.5459301100176313
+2107457682,Efficient algorithm for projected clustering,2002,2,4,2,0.0,2227651781,E. Ng Ka Ka,0,-0.865307658870632,3.3061644839691993
+2110488294,Computing Compressed Multidimensional Skyline Cubes Efficiently,2007,14,59,2,0.0,2126330539,Jian Pei,0,-0.7450969085072751,0.2784349893970605
+2116492759,Publishing Sensitive Transactions for Itemset Utility,2008,13,55,4,0.770309,2147654607,Yabo Xu,0,0.003708468606338,0.082832279151172
+2122421112,Privacy-preserving frequent pattern mining across private databases,2005,6,30,1,1.0,2165551961,Ada Wai Chee Fu,0,0.15499170483931113,-0.13761740372304496
+2131328961,Finding Unusual Medical Time-Series Subsequences Algorithms and Applications,2006,18,51,3,0.0,2170070822,Eamonn Keogh,0,-0.16258971852996415,0.3934040972724242
+2134444677,Anonymizing Temporal Data,2010,14,11,4,0.0,2626264286,Ke Wang,0,-0.3049247326517621,0.1886461481807304
+2143810687,Optimal Algorithms for Finding User Access Sessions from Very Large Web Logs,2003,21,32,2,0.928571,2223943589,Zhixiang Chen,0,-0.3728948316549567,0.1499432162963294
+2153790277,Projective clustering by histograms,2005,29,56,2,0.0,2579383953,E.K.K. Ng,0,-0.9185625961181607,3.4434276263317134
+2153885578,Modeling and efficient mining of intentional knowledge of outliers,2003,15,9,3,0.928571,2223943589,Zhixiang Chen,0,0.2595880804900843,-0.20923377278225394
+2159826988,Small sum privacy and large sum utility in data publishing,2014,29,5,1,1.0,2165551961,Ada Wai Chee Fu,0,-0.08219684055276005,0.4370923699984199
+2160036998,Utility-based anonymization for privacy preservation with less information loss,2006,19,49,6,0.0,2570536613,Jian Xu,0,-0.3315055453745641,-0.12209286655747727
+2169146074,Probabilistic Inference Protection on Anonymized Data,2010,15,5,2,0.637892,2125027556,Raymond Chi Wing Wong,0,0.003708468606338,0.082832279151172
+2160152607,Efficient method for maximizing bichromatic reverse nearest neighbor,2009,19,91,4,0.720963,2125027556,Raymond Chi Wing Wong,0,-0.4026758152296301,2.020525365559603
+2157524070,Privacy-Preserving Data Stream Classification,2008,36,8,3,0.770309,2147654607,Yabo Xu,0,0.048879524158446874,0.5009825275376062
+2151700547,On efficient spatial matching,2007,25,56,3,1.0,2125027556,Raymond Chi Wing Wong,0,0.003708468606338,0.082832279151172
+2145764405,Rectangle Counting in Large Bipartite Graphs,2014,23,13,2,0.0,2427856141,Jia Wang,0,0.003708468606338,0.082832279151172
+2145957360,Maximizing bichromatic reverse nearest neighbor for Lp-norm in two- and three-dimensional spaces,2011,24,27,4,0.0,360895095,M. Tamer Ã–zsu,0,-0.21127245719628265,1.1177578011822922
+2149495447,Mining patterns that respond to actions,2005,9,11,4,0.0,2147150345,Yuelong Jiang,0,0.8467665556927857,-0.0757532731717774
+2149527700,Enhancements on local outlier detection,2003,22,63,2,0.0,2543467634,A.L.M. Chiu,0,-0.02242391638105448,0.767654476146001
+2212274538,KeyLabel algorithms for keyword search in large graphs,2015,26,3,3,0.0,2789361985,Yue Wang,0,0.003708468606338,0.082832279151172
+2278653422,Generalized bucketization scheme for flexible privacy settings,2016,23,7,3,0.0,2626264286,Ke Wang,0,0.19229347656453946,0.16430694186555153
+2404473641,Reconstruction Privacy Enabling Statistical Learning,2015,27,5,3,0.0,2626264286,Ke Wang,0,-0.12681076648878814,0.06540009977213765
+2402755659,Inferential or Differential Privacy Laws Dictate,2012,22,1,3,0.0,2626264286,Ke Wang,0,-0.12681076648878814,0.06540009977213765
+2413099435,Finding multiple new optimal locations in a road network,2016,29,5,2,0.0,2238309345,Ruifeng Liu,0,0.003708468606338,0.082832279151172
+2481209004,Efficient Web Mining for Traversal Path Patterns,2005,23,1,2,1.0,2132592458,Richard H. Fowler,0,-0.28833680027466346,-1.0142505022370134
+2619010033,READS a random walk approach for efficient and accurate dynamic SimRank,2017,32,17,2,1.0,2142350544,Minhao Jiang,0,-0.7762555520200626,0.16590008205864895
+2598533931,Anonymization for Global Privacy Guarantee in Serial Data Publishing,2010,0,3,3,0.637892,2125027556,Raymond Chi Wing Wong,0,0.003708468606338,0.082832279151172
+2612955113,Counting Edges and Triangles in Online Social Networks via Random Walk,2017,25,0,3,0.0,2723818909,Yang Wu,0,0.003708468606338,0.082832279151172
+2751100253,Achieving Îº-anonymity by clustering in attribute hierarchical structures,2006,0,0,4,0.263462,2095948822,Jiuyong Li,0,-0.8837660796070181,2.98044225129745
+2752753771,On complementarity of cluster and outlier detection schemes,2003,0,0,2,0.928571,2223943589,Zhixiang Chen,0,0.3803716889668361,0.05272840113301883
+2794771608,Association Rule Mining and Its Applications to MPIS,2005,0,4,2,0.935897,2125027556,Raymond Chi Wing Wong,0,-0.34841194659538965,-0.10142585373365
+2950064580,Efficient Skyline Querying with Variable User Preferences on Nominal Attributes,2007,21,0,2,1.0,2125027556,Raymond Chi Wing Wong,0,0.04058852858681295,-0.03346779459016044
+2952428599,Hop Doubling Label Indexing for Point-to-Point Distance Querying on Scale-Free Networks,2014,27,1,2,1.0,2142350544,Minhao Jiang,0,-0.13275296294680305,-0.071629888206014
+2950419332,Finding Multiple New Optimal Locations in a Road Network,2016,13,0,2,0.0,2238309345,Ruifeng Liu,0,0.003708468606338,0.082832279151172
+2962924640,IS-LABEL an Independent-Set based Labeling Scheme for Point-to-Point Distance Querying on Large Graphs,2012,33,8,1,1.0,2165551961,Ada Wai Chee Fu,0,0.003708468606338,0.082832279151172
+2952562471,Can the Utility of Anonymized Data be used for Privacy Breaches,2009,23,2,2,0.720963,2125027556,Raymond Chi Wing Wong,0,-0.08219684055276005,0.4370923699984199

@@ -1,0 +1,53 @@
+22566950,Paint It Black Evaluating the Effectiveness of Malware Blacklists,2014,26,66,2,0.771429,2032591291,Marc KÃ¼hrer,0,0.05940095047987125,0.6960502266457337
+85558978,On Botnets That Use DNS for Command and Control,2011,17,7,2,0.666667,2165087174,Christian Dietrich,0,0.27038685203235036,0.39722103912283685
+417364168,On the (In)Security of Mobile Two-Factor Authentication,2014,20,32,3,0.0,2234360275,Alexandra Dmitrienko,0,-2.3040519455803734,-2.0597064542172925
+1536589781,Empirical research of IP blacklists,2009,5,11,2,0.0,2165087174,Christian Dietrich,0,-0.14961960511810343,0.12722050712092697
+1461804874,Hell of a handshake abusing TCP for reflective amplification DDoS attacks,2014,10,28,3,0.771429,2032591291,Marc KÃ¼hrer,0,-1.1728417193256522,-0.017084428456688394
+1669806660,IoTPOT analysing the rise of IoT compromises,2015,3,100,6,1.0,2517833172,Yin Minn Pa Pa,0,0.12921245675555004,0.7388078435365255
+1891329316,Amplification and DRDoS Attack Defense - A Survey and New Perspectives,2015,143,26,4,0.0,2405105971,Fabrice J. Ryba,0,-1.1728417193256522,-0.017084428456688394
+1942295288,Cross-Architecture Bug Search in Binary Executables,2015,31,66,4,0.857143,103840519,Jannik Pewny,0,0.0040557659796233,0.2757546058061082
+1976866799,SoK P2PWNED - Modeling and Evaluating the Resilience of Peer-to-Peer Botnets,2013,21,123,1,1.0,2080016176,Christian Rossow,0,0.15814281163728464,0.7452689183512463
+1986297064,POSTER In the Net of the Spider Measuring the Anonymity-Impact of Network-level Adversaries Against Tor,2015,9,1,5,0.0,2045355816,Michael Backes,0,-0.16420021596708323,0.32292378428885316
+1989454965,Amplification Hell Revisiting Network Protocols for DDoS Abuse,2014,0,172,1,1.0,2080016176,Christian Rossow,0,0.0040557659796233,0.2757546058061082
+1987851356,Highly resilient peer-to-peer botnets are here An analysis of Gameover Zeus,2013,11,64,2,0.375,1985263506,Dennis Andriesse,0,-0.11789865406400801,0.4103502383308374
+2028060714,Going Wild Large-Scale Classification of Open DNS Resolvers,2015,27,35,4,0.771429,2032591291,Marc KÃ¼hrer,0,-2.6266618845093457,0.4380522477923272
+2012604743,Leveraging semantic signatures for bug search in binary programs,2014,28,39,5,0.857143,103840519,Jannik Pewny,0,0.0040557659796233,0.2757546058061082
+2018189853,Exploiting visual appearance to cluster and detect rogue software,2013,13,10,2,0.545455,2165087174,Christian Dietrich,0,-0.38421966925766154,0.9121582156643371
+2040920300,Reliable Recon in Adversarial Peer-to-Peer Botnets,2015,21,16,2,0.375,1985263506,Dennis Andriesse,0,-0.1279360968652073,0.038084196655618116
+2063104870,On measuring the impact of DDoS botnets,2014,4,22,2,0.0,2627815760,Arne Welzel,0,0.0040557659796233,0.2757546058061082
+2082180526,Manufacturing compromise the emergence of exploit-as-a-service,2012,34,157,14,0.0,2097669272,Chris Grier,0,-0.11935497451987655,1.2065680300345556
+2092756033,Sandnet network traffic analysis of malicious software,2011,11,59,1,1.0,2080016176,Christian Rossow,0,0.028051208515957434,0.6416131366717536
+2083183119,Prudent Practices for Designing Malware Experiments Status Quo and Outlook,2012,52,117,1,1.0,2080016176,Christian Rossow,0,0.05940095047987125,0.6960502266457337
+2116696275,Exit from hell reducing the impact of amplification DDoS attacks,2014,25,93,3,0.771429,2032591291,Marc KÃ¼hrer,0,0.36544092170511777,0.5375067894756285
+2186224748,Dynamic Analysis of Android Malware,2013,57,18,1,1.0,2080016176,Christian Rossow,0,-0.28071484656264584,1.2804470890791197
+2179740065,Cashing Out the Great Cannon On Browser-Based DDoS Attacks and Economics,2015,12,14,2,0.866667,2777018719,Giancarlo Pellegrino,0,-0.26026000194746457,0.5651531118972404
+2149193850,On advanced monitoring in resilient and unstructured P2P botnets,2014,13,14,3,0.0,184756154,Shankar Karuppayah,0,0.1682801125673144,0.5140717157963577
+2211880739,Large-Scale analysis of malware downloaders,2012,10,38,1,1.0,2080016176,Christian Rossow,0,-0.12865763131220598,0.7098264350265233
+2296241649,jÃ„k Using Dynamic Analysis to Crawl and Test Modern Web Applications,2015,8,10,4,0.866667,2777018719,Giancarlo Pellegrino,0,0.0040557659796233,0.2757546058061082
+2360903897,IoTPOT A Novel Honeypot for Revealing Current IoT Threats,2016,3,65,6,1.0,2517833172,Yin Minn Pa Pa,0,0.134034564014027,0.6129618422202475
+2402560368,AmpPot Monitoring and Defending Against Amplification DDoS Attacks,2015,17,38,7,0.0,2692229708,Lukas KrÃ¤mer,0,0.02080662431885795,0.3505429208334274
+2463495559,Hey You Have a Problem On the Feasibility of Large-Scale Web Vulnerability Notification,2016,10,20,3,0.0,2152824109,Ben Stock,0,0.0040557659796233,0.2757546058061082
+2491836893,What cannot be read cannot be leveraged revisiting assumptions of JIT-ROP defenses,2016,34,13,3,1.0,2505400287,Giorgi Maisuradze,0,-0.5546569695194336,1.223116607344749
+2537950665,POSTER Mapping the Landscape of Large-Scale Vulnerability Notifications,2016,6,1,3,0.0,2152824109,Ben Stock,0,-0.34824093440265547,0.5453774352720739
+2538104847,Identifying the Scan and Attack Infrastructures Behind Amplification DDoS Attacks,2016,33,15,3,1.0,2580840211,Johannes Krupp,0,-0.7693753186644039,0.13038745964912327
+2515017176,On the Feasibility of TTL-Based Filtering for DRDoS Mitigation,2016,17,6,3,0.0,2045355816,Michael Backes,0,-0.8491899784845632,0.4556527836630183
+2511418200,Uses and Abuses of Server-Side Requests,2016,7,5,4,1.0,2777018719,Giancarlo Pellegrino,0,-0.21159230140354307,0.34119083502266745
+2610772883,Detecting Gray in Black and White,2010,9,1,1,1.0,2080016176,Christian Rossow,0,0.0040557659796233,0.2757546058061082
+2612286231,Dachshund Digging for and Securing (Non-)Blinded Constants in JIT Code,2017,0,5,3,1.0,2505400287,Giorgi Maisuradze,0,1.1537352555675529,0.6665521680902089
+2604746202,Who Controls the Internet Analyzing Global Threats using Property Graph Traversals,2017,19,13,3,0.0,20623788,Milivoj Simeonovski,0,-0.26026000194746457,0.5651531118972404
+2768883253,Millions of targets under attack a macroscopic characterization of the DoS ecosystem,2017,21,25,4,0.0,2136652494,M. Jonker,0,0.02080662431885795,0.3505429208334274
+2762279010,Linking Amplification DDoS Attacks to Booter Services,2017,27,7,3,1.0,2580840211,Johannes Krupp,0,-1.7261795222196377,0.5364862708420965
+2779364375,eID Online Authentication Network Threat Model Attacks and Implications,2012,3,2,1,1.0,2080016176,Christian Rossow,0,-0.4340734600369123,-0.05261865735895976
+2752602409,Deemon Detecting CSRF with Dynamic Analysis and Property Graphs,2017,6,8,5,1.0,2777018719,Giancarlo Pellegrino,0,1.7029826062605458,-0.2600589908962866
+2784458746,Security Analysis of Mobile Two-Factor Authentication Schemes,2014,27,15,2,0.0,2070523640,Christopher Liebchen,0,-0.9557710219113105,-0.2241825303050166
+2807637148,Evasive Malware via Identifier Implanting,2018,39,1,8,1.0,2518018797,Rui Tanabe,0,0.05940095047987125,0.6960502266457337
+2794007494,Didnâ€™t You Hear Me â€” Towards More Successful Web Vulnerability Notifications,2018,0,8,2,0.0,2045355816,Michael Backes,0,0.0040557659796233,0.2757546058061082
+2787735108,The Rise of the Citizen Developer Assessing the Security Impact of Online App Generators,2018,33,6,6,0.0,2346842554,Marten Oltrogge,0,0.0040557659796233,0.2757546058061082
+2884163605,ret2spec Speculative Execution Using Return Stack Buffers,2018,32,43,2,1.0,2505400287,Giorgi Maisuradze,0,0.7923765931032943,-0.3105208202368489
+2888928288,teEther Gnawing at Ethereum to Automatically Exploit Smart Contracts,2018,0,61,2,1.0,2580840211,Johannes Krupp,0,-0.6086157723960125,0.766545417987786
+2889903231,Identifying Key Leakage of Bitcoin Users,2018,11,6,2,0.0,2479121383,Michael Brengel,0,-0.7129248038646041,-1.1495334089011842
+2890992331,DNS Unchained Amplified Application-Layer DoS Attacks Against DNS Authoritatives,2018,30,4,2,0.7,2222953075,Jonas Bushart,0,-1.6086390359956333,0.26473120637302416
+2954006659,Padding Aint Enough Assessing the Privacy Guarantees of Encrypted DNS,2019,37,1,2,0.7,2222953075,Jonas Bushart,0,-0.03598666232513789,0.18578834874372
+2950659118,Deemon Detecting CSRF with Dynamic Analysis and Property Graphs,2017,28,0,5,1.0,2777018719,Giancarlo Pellegrino,0,0.0040557659796233,0.2757546058061082
+2952847657,Amplification DDoS Attacks,2014,0,0,3,0.625,221862189,Thomas Hupperich,0,0.0040557659796233,0.2757546058061082
+2517430515,SandPrint Fingerprinting Malware Sandboxes to Provide Intelligence for Sandbox Evasion,2016,28,24,11,0.0,2560259338,Akira Yokoyama,0,0.05940095047987125,0.6960502266457337

@@ -1,0 +1,61 @@
+56741472,Design and implementation of an access processor for xml documents,2000,0,8,2,0.0,429778934,S. Paraboaschi,0,2.876413955471847,-1.1829281622926093
+145195122,On Using Materialization Strategies for a Temporal Authorization Model,1996,9,5,5,0.538462,2170777979,Elena Ferrari,0,0.1423926077010078,-0.004877496429063547
+50210207,A decentralized temporal authorization model,1996,6,5,3,0.0446442,717547165,Elisa Bertino,0,-0.0013456459469672333,-0.04147010408483833
+51654532,Security of Data and Transaction Processing - Guest Editors Introduction,2000,0,0,2,0.0,2100792061,Vijayalakshmi Atluri,0,2.411513802249899,2.2780866814479004
+309234441,Measuring Inference Exposure in Outsourced Encrypted Databases,2006,19,8,4,0.391486,2118802686,Ernesto Damiani,0,0.43739842239757626,0.009947045888208002
+1559140144,Supporting Periodic Authorizations and Temporal Reasoning in Database Access Control,1996,7,25,4,0.0446442,717547165,Elisa Bertino,0,0.2703126760541752,0.11901432312281428
+1489237929,A classification of update methods for replicated databases,1991,0,35,3,0.0,275404437,Maurice A. W. Houtsma,0,-0.0041099411153885,0.0447066884760059
+1560346232,An Experimental Evaluation of Multi-Key Strategies for Data Outsourcing,2007,15,26,6,0.37312,2118802686,Ernesto Damiani,0,0.1423926077010078,-0.004877496429063547
+1553146597,Keep a few outsourcing data while maintaining confidentiality,2009,16,79,6,0.0,155148139,Valentina Ciriani,0,1.1516526161055995,0.29992487097427956
+1528222021,Securing XML Documents,2000,12,239,3,0.0,43892785,Stefano Paraboschi,0,2.8586097467853406,-1.2340038928901629
+1573981434,Access Control in Object-Oriented Database Systems - Some Approaches and Issues,1993,0,18,3,0.105066,717547165,Elisa Bertino,0,1.6206594604815088,0.5055805016863776
+1547131737,Over-encryption management of access control evolution on outsourced data,2007,17,337,5,0.89685,1957144376,Sabrina De Capitani di Vimercati,0,0.1423926077010078,-0.004877496429063547
+1565094069,A new Authorization Model for Object-Oriented Databases,1994,0,14,3,0.105066,717547165,Elisa Bertino,0,1.8744133410812607,0.45137049592408457
+1519991165,A component-based architecture for secure data publication,2001,14,28,4,0.0,2079079844,Piero A. Bonatti,0,0.630722588657015,-0.2714037942104169
+1495843856,XML Access Control Systems A Component-Based Approach,2000,7,27,2,0.622642,2118802686,Ernesto Damiani,0,1.1817985620426574,-0.38712963255037175
+1736794346,Achieving Incremental Consistency among Autonomous Replicated Databases,1992,17,6,4,0.0,519054157,Stefano Ceri,0,0.19652149694803792,0.23180253400679995
+1881277822,Research Issues in Discretionary Authorizations for Object Bases,1994,26,8,2,0.105066,717547165,Elisa Bertino,0,0.12007045861435307,0.04734948603773384
+1940579172,Secure access wrapper mediating security between heterogeneous databases,2000,27,6,2,0.0,2019942005,Patrick Lincoln,0,-0.0041099411153885,0.0447066884760059
+1979143845,Maintaining replicated authorizations in distributed database systems,1996,15,19,1,1.0,2087987499,Pierangela Samarati,0,0.1519730119602981,0.01619953199477767
+1972753132,Design and implementation of an access control processor for XML documents,2000,12,180,4,0.622642,2118802686,Ernesto Damiani,0,2.617921405844809,-1.0552951288743972
+1978377530,An access control model for querying XML data,2005,9,15,3,0.89685,1957144376,Sabrina De Capitani di Vimercati,0,2.5959673058405155,-1.0909827089576518
+1992930477,Independent updates and incremental agreement in replicated databases,1995,31,22,4,0.0,519054157,Stefano Ceri,0,0.8280036965033077,-0.0343104028606361
+2004039463,On information leakage by indexes over data fragments,2013,17,11,5,0.880757,2778047571,S. De Capitani di Vimercati,0,-0.0041099411153885,0.0447066884760059
+2007924200,Database security research and practice,1995,39,55,3,0.0648576,717547165,Elisa Bertino,0,-0.1464660471791529,-0.034974315460191
+1999220550,Towards securing XML Web services,2002,9,43,3,0.666667,2118802686,Ernesto Damiani,0,-0.8983600591574599,-2.2765360217027064
+1997575000,Shuffle Index Efficient and Private Access to Outsourced Data,2015,50,16,5,0.462313,1957144376,Sabrina De Capitani di Vimercati,0,-0.0041099411153885,0.0447066884760059
+2012419258,Flexible support for multiple access control policies,2001,29,609,2,0.0,2056441798,Sushil Jajodia,0,0.05655226107543743,0.020825444800244064
+2012819114,Authorizations in relational database management systems,1993,10,47,2,0.105066,717547165,Elisa Bertino,0,0.899299577453422,0.18091387844661844
+2049040486,Analysis comparison and design of role-based security specifications,1996,27,3,3,0.0,2131050340,Silvana Castano,0,-0.6754477950843271,0.9223258243899309
+2040830570,A flexible authorization mechanism for relational data management systems,1999,14,127,3,0.0202504,717547165,Elisa Bertino,0,-0.011433837622810871,0.2762330716691904
+2035871140,Balancing confidentiality and efficiency in untrusted relational DBMSs,2003,16,315,5,0.666667,2118802686,Ernesto Damiani,0,-0.0041099411153885,0.0447066884760059
+2077097238,Modeling and assessing inference exposure in encrypted databases,2005,29,123,6,0.0,1658925,Alberto Ceselli,0,1.3048134241781268,0.16590565420481354
+2071940270,Encryption policies for regulating access to outsourced data,2010,38,117,5,0.60213,1957144376,Sabrina De Capitani di Vimercati,0,0.6420497684188057,-0.8310907498843734
+2063997960,An access control model supporting periodicity constraints and temporal reasoning,1998,20,226,4,0.0259106,717547165,Elisa Bertino,0,0.1423926077010078,-0.004877496429063547
+2069609883,Key management for multi-user encrypted databases,2005,23,85,6,0.471695,2118802686,Ernesto Damiani,0,-0.0041099411153885,0.0447066884760059
+2089542785,Fragments and loose associations respecting privacy in data publishing,2010,10,38,5,0.60213,1957144376,Sabrina De Capitani di Vimercati,0,-0.0041099411153885,0.0447066884760059
+2084621663,A unified framework for enforcing multiple access control policies,1997,19,293,2,0.0,2056441798,Sushil Jajodia,0,-0.6905234823655579,0.7715235342726938
+2101632507,Controlled Information Sharing in Collaborative Distributed Query Processing,2008,17,23,5,0.0,2492686720,Sabrina De Capitani di Vimercati,0,0.34621220113413614,-0.0011757581783524613
+2090447181,Decentralized administration for a temporal access control model,1997,15,7,4,0.0274428,717547165,Elisa Bertino,0,-0.012522621788233535,-0.00627070803908234
+2111869508,Advanced Metadata for Privacy-Aware Representation of Credentials,2005,6,6,5,0.0,1661797895,Paolo Ceravolo,0,-0.491286551021664,-0.1372825166841289
+2117923609,A discretionary access control model with temporal authorizations,1994,20,8,3,0.105066,717547165,Elisa Bertino,0,-0.5847991103508795,0.7725947836672168
+2129944822,Selective Data Encryption in Outsourced Dynamic Environments,2007,11,39,6,0.37312,2118802686,Ernesto Damiani,0,0.18601297105691045,-0.0008472885667257998
+2142265896,Authorization enforcement in distributed query evaluation,2011,26,18,5,0.511575,1957144376,Sabrina De Capitani di Vimercati,0,0.8809340701863815,0.11633144593696097
+2121468884,The case for independent updates,1992,8,7,4,0.0,519054157,Stefano Ceri,0,0.1081440792036018,0.33928966819068473
+2142709564,Supporting multiple access control policies in database systems,1996,20,116,3,0.0446442,717547165,Elisa Bertino,0,0.7844478242050398,-0.5042345456251937
+2107772336,Fragmentation Design for Efficient Query Execution over Sensitive Distributed Databases,2009,10,46,6,0.0,155148139,Valentina Ciriani,0,0.41208927171366594,0.084179380070544
+2131478050,An Extended Authorization Model for Object Databases,1995,20,1,3,0.0648576,717547165,Elisa Bertino,0,0.1423926077010078,-0.004877496429063547
+2144591754,Enforcing dynamic write privileges in data outsourcing,2013,30,30,6,0.487052,1957144376,Sabrina De Capitani di Vimercati,0,-0.0873632243068517,-0.0824034282341078
+2168649222,Metadata management in outsourced encrypted databases,2005,20,35,6,0.471695,2118802686,Ernesto Damiani,0,-0.9488923376595113,0.3015041370177748
+2171745828,A temporal access control mechanism for database systems,1996,11,101,4,0.0446442,717547165,Elisa Bertino,0,-0.2095873886880466,0.5930494304183263
+2148575440,Supporting location-based conditions in access control policies,2006,26,148,5,0.0,1999899624,Claudio Agostino Ardagna,0,0.6420497684188057,-0.8310907498843734
+2161414947,Private data indexes for selective access to outsourced data,2011,21,25,5,0.511575,1957144376,Sabrina De Capitani di Vimercati,0,0.1423926077010078,-0.004877496429063547
+2159081106,Assessing query privileges via safe and efficient permission composition,2008,19,17,5,0.824062,1957144376,Sabrina De Capitani di Vimercati,0,0.9714742265748398,0.0765261476886665
+2242527492,Over-Encryption Management of Access Control Evolution on Encrypted Data,2007,0,0,5,0.0,43892785,Stefano Paraboschi,0,-0.0041099411153885,0.0447066884760059
+2341583189,Efficient integrity checks for join queries in the cloud,2016,33,5,5,0.421605,1957144376,Sabrina De Capitani di Vimercati,0,0.221423897897152,-0.21080654779612165
+2343463680,Metadata management in encrypted outsourced databases,2005,0,0,3,1.0,1899658651,Sara Foresti,0,-1.063065472227503,-0.0616059229545443
+2533887018,Implementation of a Storage Mechanism for Untrusted DBMSs,2003,12,43,5,0.666667,2118802686,Ernesto Damiani,0,0.5325669973310596,0.09709227568458595
+2554076924,A consensus-based approach for selecting cloud plans,2016,21,5,4,0.0,2225575372,Ala Arman,0,-0.0041099411153885,0.0447066884760059
+2618765274,Confidentiality Protection in Large Databases,2018,27,1,5,0.380792,1957144376,Sabrina De Capitani di Vimercati,0,-0.0041099411153885,0.0447066884760059
+2736896831,Independent Updates and Incremental Agreement in Replicated Databases Technical Report STAN-CS-92-1446,1992,0,3,3,0.0,275404437,Maurice A. W. Houtsma,0,-0.0041099411153885,0.0447066884760059
+2771938060,An Authorization Model for Multi-Provider Queries,2017,20,3,6,0.400669,1957144376,Sabrina De Capitani di Vimercati,0,0.1423926077010078,-0.004877496429063547

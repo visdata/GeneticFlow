@@ -104,7 +104,7 @@ def f2(precision,recall):
     if(precision==0 or recall==0):
         return 0
     return (recall*precision*5)/(recall+4*precision)
-
+df_source = pd.read_csv('non_graph.csv')
 Precision = []
 Recall = []
 F_measure = []
@@ -118,8 +118,7 @@ F2_best = []
 Name=[[] for i in range(1201)]
 
 for r in range(100):
-    df = pd.read_csv('non_graph.csv')
-    df_copy = df.copy()
+    df = df_source.copy()
     y_pred = []
     y_real = []
     y_proba_minority = []
@@ -151,7 +150,7 @@ for r in range(100):
         train_dataset = cDataset(Xtrain, ytrain)
         test_dataset = cDataset(Xtest, ytest)
         train_loader = DataLoader(train_dataset, batch_size=20, shuffle=True)
-        test_loader = DataLoader(test_dataset, batch_size=100, shuffle=False)
+        test_loader = DataLoader(test_dataset, batch_size=NameXtest.shape[0], shuffle=False)
         model = MLP(3, 64, 2).to(device)
         
         optimizer = torch.optim.Adam(model.parameters(), lr=0.01, weight_decay=0.001) 
@@ -168,7 +167,7 @@ for r in range(100):
                 optimizer.zero_grad()               # Set gradient to zero.
                 x, y = x.to(device), y.to(device)   # Move your data to device. 
                 pred = model(x)       
-                weights = np.array([1,2])
+                weights = np.array([1,1])
                 weights = torch.FloatTensor(weights).to(device)
                 y=y.long()
                 loss = F.nll_loss(pred, y, weight=weights)
@@ -189,6 +188,7 @@ for r in range(100):
             labels=torch.squeeze(y).cpu()
             labels=labels.long().numpy()
             y_proba=out.cpu().detach().numpy()
+
 
         for idx in range(NameXtest.shape[0]):
             # print(name[idx],preds[idx])
@@ -265,7 +265,7 @@ print("Stability:",np.mean(Stability))
 def print_to_file(filename, string_info, mode="a"):
 	with open(filename, mode) as f:
 		f.write(str(string_info) + "\n")
-print_to_file("record.txt","mlp 10 cv Precision:%.3f Recall:%.3f F1_best:%.3f F1_best(std): %.3f ROC:%.3f ROC(std): %.3f PRC:%.3f ACC:%.3f for Class Fellow" % (np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC)))
+print_to_file("record.txt","mlp 100 cv Precision:%.3f Recall:%.3f F1_best:%.3f F1_best(std): %.3f ROC:%.3f ROC(std): %.3f PRC:%.3f ACC:%.3f for Class Fellow" % (np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC)))
     
 print("mlp 100 cv Precision, Recall, F1_best, ROC, PRC, ACC for Class:",np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.mean(ROC),np.mean(PRC),np.mean(ACC))
 

@@ -1,0 +1,48 @@
+48505893,Secure Computation on Outsourced Data A 10-year Retrospective,2014,28,2,3,0.0,2309647949,Balakrishna R. Iyer,0,0.044859856903840555,0.012551371775477651
+1497856011,BISON providing business information analysis as a service,2006,2,11,4,0.0,2312238768,James J. Rhodes,0,-0.20943321364689604,0.7458233806258001
+1570842386,Query optimization in encrypted database systems,2005,61,75,2,0.0,2201039448,Sharad Mehrotra,0,1.0364982197029953,0.1718941473294968
+1486522249,Ensuring the Integrity of Encrypted Databases in the Database-as-a-Service Model,2004,13,45,3,0.0,2309647949,Balakrishna R. Iyer,0,0.06713647820516866,-0.07040270735922437
+1495599387,Performance-Conscious Key Management in Encrypted Databases,2004,13,13,2,0.0,2201039448,Sharad Mehrotra,0,-0.18724402417882705,0.03605917401554673
+1909988457,Exploiting Opportunistic Physical Design in Large-scale Data Analytics,2013,21,6,5,0.625,2125908931,Jeff LeFevre,0,1.2787030360836775,0.3805392062188651
+1607140588,Efficient Execution of Aggregation Queries over Encrypted Relational Databases,2004,6,175,3,0.0,2309647949,Balakrishna R. Iyer,0,0.5325669973310596,0.09709227568458595
+1971550472,Cost exploration of data sharings in the cloud,2013,31,16,4,0.0,325046544,Samer Al Kiswany,0,1.901466873024071,0.5622172946276698
+1972075893,Automatic entity-grouping for OLTP workloads,2014,19,4,5,0.862467,2428181972,Bin Liu,0,1.5603784439991197,1.323595373465291
+1976598570,SAGE A logical and physical design tool for entity-group based new SQL systems,2014,12,1,4,0.862467,2428181972,Bin Liu,0,0.2846702177551661,0.29510573401319024
+1987461110,Packing light Portable workload performance prediction for the cloud,2013,24,19,5,0.0,2095556346,Jennie Duggan,0,-0.0041099411153885,0.0447066884760059
+1998934521,SLA-tree a framework for efficiently supporting SLA-based decisions in cloud computing,2011,22,42,4,1.0,2141133747,Yun Chi,0,-0.46893397788284524,0.07728939382804885
+1995953849,A software-defined networking based approach for performance management of analytical queries on distributed data stores,2014,20,23,3,0.461538,1990998134,Pengcheng Xiong,0,0.028183027239055632,0.18567154661373284
+2010052309,Towards principled design support for scalable OLTP workloads,2012,7,0,3,0.862467,2428181972,Bin Liu,0,1.5193922742730563,1.3108871558758848
+2022708256,&quot;Cut me some slack&quot; latency-aware live migration for databases,2012,23,50,5,0.345525,2101858554,Hyun Jin Moon,0,0.10936223934809694,-0.32707188763132755
+2012618942,Odyssey a multistore system for evolutionary analytics,2013,4,16,5,0.293206,1997756302,Jagan Sankaranarayanan,0,0.09217629488968404,0.9337960709888413
+2021785241,CloudOptimizer multi-tenancy for I/O-bound OLAP workloads,2013,20,14,6,0.0,2124017946,Hatem A. Mahmoud,0,0.49390495335126045,1.052433994078076
+2030580934,Re-evaluating designs for multi-tenant OLTP workloads on SSD-basedI/O subsystems,2014,11,7,4,0.0,2303706689,Ning Zhang,0,2.6827545232509933,1.4134548124141417
+2043508455,Executing SQL over encrypted data in the database-service-provider model,2002,12,1066,3,0.0,2589970869,Chen Li,0,0.044859856903840555,0.012551371775477651
+2041780659,MISO souping up big data query processing with a multistore system,2014,22,85,6,0.625,2125908931,Jeff LeFevre,0,0.8486107111140241,0.511849816469356
+2048659529,Distribution-based query scheduling,2013,36,10,4,0.88,2141133747,Yun Chi,0,0.014532710543751099,0.030944858938630852
+2059542827,Towards cost-effective storage provisioning for DBMSs,2011,24,21,4,0.0,2761237454,Ning Zhang,0,0.014532710543751099,0.030944858938630852
+2059726507,SLA-Aware Profit Optimization in Cloud Services via Resource Scheduling,2010,2,29,3,0.411765,2101858554,Hyun Jin Moon,0,-0.0041099411153885,0.0447066884760059
+2069512273,PMAX tenant placement in multitenant databases for profit maximization,2013,35,40,5,1.0,2689609265,Ziyang Liu,0,-0.0041099411153885,0.0447066884760059
+2087443900,Affordable Analytics on Expensive Data,2014,16,2,5,0.0,2135060379,Prasang Upadhyaya,0,-0.0041099411153885,0.0447066884760059
+2082867387,iCBS incremental cost-based scheduling under piecewise linear SLAs,2011,13,45,3,1.0,2141133747,Yun Chi,0,-0.0041099411153885,0.0447066884760059
+2093402788,Opportunistic physical design for big data analytics,2014,27,17,6,0.625,2125908931,Jeff LeFevre,0,1.3132541011824508,0.6875935739964731
+2103702871,Towards predicting query execution time for concurrent and dynamic database workloads,2013,32,48,4,0.833333,2119491994,Wentao Wu,0,0.014532710543751099,0.030944858938630852
+2086586571,CloudDB One Size Fits All Revived,2010,0,30,8,0.270499,391500506,Junichi Tatemura,0,0.1145580350631055,-0.1459495810878911
+2081576642,Online optimization and fair costing for dynamic data sharing in a cloud data market,2014,31,6,2,1.0,2689609265,Ziyang Liu,0,0.13019195296443722,0.10624198337944613
+2101629001,Intelligent management of virtualized resources for database systems in cloud environment,2011,25,129,6,0.461538,1990998134,Pengcheng Xiong,0,-0.0041099411153885,0.0447066884760059
+2105425905,Efficient key updates in encrypted database systems,2005,31,40,2,0.0,2201039448,Sharad Mehrotra,0,-0.18724402417882705,0.03605917401554673
+2106112436,Test Of Time Award Talk Executing SQL over Encrypted Data in the Database-Service-Provider Model,2012,0,0,1,1.0,2182302550,Hakan Hacigumus,0,0.044859856903840555,0.012551371775477651
+2136118237,Performance Evaluation of Range Queries in Key Value Stores,2012,27,16,4,1.0,1982172541,Pouria Pirzadeh,0,0.3661343291632086,0.16322696917552681
+2127488725,SWAT a lightweight load balancing method for multitenant databases,2013,20,15,4,0.345525,2101858554,Hyun Jin Moon,0,0.10936223934809694,-0.32707188763132755
+2109907545,Predicting query execution time Are optimizer cost models really unusable ,2013,31,80,4,0.47619,2096537073,Shenghuo Zhu,0,0.8809340701863815,0.11633144593696097
+2186269101,SMILE A Data Sharing Platform for Mobile Apps in the Cloud,2014,24,3,4,0.293206,1997756302,Jagan Sankaranarayanan,0,-0.0041099411153885,0.0447066884760059
+2150678734,Performance Evaluation of Range Queries in Key Value Stores,2011,27,12,3,1.0,1982172541,Pouria Pirzadeh,0,0.35953885616262204,0.23805528463230494
+2145676903,Uncertainty aware query execution time prediction,2014,44,13,4,0.833333,2119491994,Wentao Wu,0,0.014532710543751099,0.030944858938630852
+2187598211,Transactional Replication in Hybrid Data Store Architectures,2015,12,1,3,0.0,2684849567,Hojjat Jafarpour,0,1.9464283265681683,1.2095602019221523
+2149091168,SPIDER an autonomic computing approach to database security management,2006,18,0,1,1.0,2182302550,Hakan Hacigumus,0,-0.1464660471791529,-0.034974315460191
+2161319241,Partiqle an elastic SQL engine over key-value stores,2012,10,15,4,0.250458,391500506,Junichi Tatemura,0,0.9742262857317499,0.8655962063288336
+2171027248,Providing database as a service,2002,8,571,2,0.0,2201039448,Sharad Mehrotra,0,-0.15344373347936774,-0.1817010960536725
+2266830380,Pronto a software-defined networking based system for performance management of analytical queries on distributed data stores,2014,5,4,2,0.461538,1990998134,Pengcheng Xiong,0,0.06673308052212697,0.04008110223990727
+2234847149,ShuttleDB Database-Aware Elasticity in the Cloud,2014,23,18,5,0.0,2150146094,Sean Barker,0,0.4170158691156383,0.0370747845240022
+2395319319,Strudel A Framework for Transaction Performance Analyses on SQL/NoSQL Systems,2016,12,0,4,0.172068,391500506,Junichi Tatemura,0,0.6667456037450072,-0.043326931034148086
+2911410295,Session details Industry session 3 storage management,2014,0,0,1,1.0,2182302550,Hakan Hacigumus,0,0.16782124802273696,0.2536234597393226
+2949865865,Towards Cost-Effective Storage Provisioning for DBMSs,2011,12,0,4,0.0,2761237454,Ning Zhang,0,0.014532710543751099,0.030944858938630852

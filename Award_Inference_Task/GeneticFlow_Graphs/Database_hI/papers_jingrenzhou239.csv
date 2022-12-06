@@ -1,0 +1,34 @@
+206268357,Architecture Sensitive Database Design Examples from the Columbia Group,2005,12,5,4,0.0,2116418223,Kenneth A. Ross,0,1.6230029806710033,0.46539201115694717
+78548535,MTCache Mid-Tier Database Caching for SQL Server,2004,9,28,4,0.392719,2148643341,Per Ake Larson,0,1.2218146323114407,0.15479090184209374
+1571574477,SCOPE A STRUCTURED COMPUTATIONS OPTIMIZED FOR PARALLEL EXECUTION SCRIPT LANGUAGE,2009,17,30,8,1.0,1995270641,Ronnie I. Chaiken,0,-0.21219067838984798,0.20419678113803508
+1585730347,MTCache transparent mid-tier database caching in SQL server,2004,17,101,3,0.392719,2148643341,Per Ake Larson,0,1.1540536699608903,0.15655561995853054
+1996870946,Exploiting self-monitoring sample views for cardinality estimation,2007,2,0,3,0.314884,2148643341,Per Ake Larson,0,-0.06604670769446523,-0.16534604701978048
+1993433750,Incorporating partitioning and parallel plans into the SCOPE optimizer,2010,16,74,1,1.0,2702077502,Jingren Zhou,0,0.7062870323698546,0.11837994567418963
+2037826478,Recurring job optimization in scope,2012,3,22,6,0.0,2133606375,Nicolas Bruno,0,0.028183027239055632,0.18567154661373284
+2059581035,Transparent mid-tier database caching in SQL server,2003,4,25,3,0.392719,2148643341,Per Ake Larson,0,0.7196366293204383,0.009873587037786144
+2074877482,Efficient Maintenance of Materialized Outer-Join Views,2007,9,23,2,0.314884,2148643341,Per Ake Larson,0,1.554958098392497,0.3299002432733021
+2097125969,Buffering accesses to memory-resident index structures,2003,15,60,1,1.0,2702077502,Jingren Zhou,0,-0.0041099411153885,0.0447066884760059
+2090066046,Continuous cloud-scale query optimization and processing,2013,33,33,3,0.0,2133606375,Nicolas Bruno,0,0.0908845357243609,0.31128747720343375
+2104233490,Stacked indexed views in microsoft SQL server,2005,21,15,3,0.0,429046255,David DeHaan,0,1.5974263714791062,0.009375005186992547
+2104704499,Dynamic Materialized Views,2007,23,58,1,1.0,2702077502,Jingren Zhou,0,0.7123591132250048,0.28849858254547156
+2101970945,Partially materialized views,2004,32,76,3,0.392719,2148643341,Per Ake Larson,0,2.138890178506595,0.47051306972965357
+2090773975,Exploiting Common Subexpressions for Cloud Query Processing,2012,19,26,2,0.0,2170457501,Yasin N. Silva,0,-0.0041099411153885,0.0447066884760059
+2106105896,Efficient exploitation of similar subexpressions for query processing,2007,16,79,1,1.0,2702077502,Jingren Zhou,0,0.0908845357243609,0.31128747720343375
+2118385974,Lazy maintenance of materialized views,2007,20,64,1,1.0,2702077502,Jingren Zhou,0,1.8602442985344443,0.6602363640876656
+2130598739,A multi-resolution block storage model for database design,2003,14,37,1,1.0,2702077502,Jingren Zhou,0,0.31433863619703123,0.11086095511861431
+2113045536,Buffering databse operations for enhanced instruction cache performance,2004,29,68,2,0.0,2116418223,Kenneth A. Ross,0,-0.0041099411153885,0.0447066884760059
+2119400430,SCOPE easy and efficient parallel processing of massive data sets,2008,10,679,7,1.0,1995270641,Ronnie I. Chaiken,0,-0.42774784184414705,0.17738425173826872
+2169188831,Advanced partitioning techniques for massively distributed computation,2012,22,34,1,1.0,2702077502,Jingren Zhou,0,0.03999381053955262,0.17720452270313178
+2151251992,SCOPE parallel databases meet MapReduce,2012,31,103,1,1.0,2702077502,Jingren Zhou,0,-0.09123736825194827,-0.11540638756869638
+2182185637,Efficient Maintenance ofMaterialized Outer-Join Views,2007,0,0,1,1.0,2702077502,Jingren Zhou,0,-0.0041099411153885,0.0447066884760059
+2167764264,View matching for outer-join views,2007,19,28,2,0.314884,2148643341,Per Ake Larson,0,1.0302561193525257,0.32927103773372196
+2147076738,Implementing database operations using SIMD instructions,2002,21,198,1,1.0,2702077502,Jingren Zhou,0,0.4170158691156383,0.0370747845240022
+2153160273,Cardinality estimation using sample views with quality assurance,2007,28,42,3,0.314884,2148643341,Per Ake Larson,0,1.2787030360836775,0.3805392062188651
+2220273882,Transparent lazy maintenance of indexes and materialized views,2007,12,28,3,0.314884,2148643341,Per Ake Larson,0,1.5224082285019864,0.6615496825813184
+2244220615,Asynchronous Database Index Maintenance,2009,11,60,3,0.0,2134271654,Peter Carlin,0,0.8613490217438444,0.8083614979195084
+2204432465,JetScope reliable and interactive analytics at cloud scale,2015,21,4,9,0.0,2619227719,Eric Boutin,0,-0.0041099411153885,0.0447066884760059
+2335781761,Job scheduling using expected server performance information,2014,19,22,5,1.0,2229835253,Jaliya Ekanayake,0,-0.11970222904281211,0.18442329621316214
+2404556002,Recurring Job Optimization for Massively Distributed Query Processing,2013,20,1,3,0.0,2133606375,Nicolas Bruno,0,-0.09123736825194827,-0.11540638756869638
+2611927667,Processing requests for multi-versioned service,2017,31,1,11,1.0,2229835253,Jaliya Ekanayake,0,-0.0041099411153885,0.0447066884760059
+2953494115,Towards self-managing cloud-scale computing platforms Experiences and challenges,2019,0,0,1,1.0,2702077502,Jingren Zhou,0,-0.0041099411153885,0.0447066884760059
+2970978109,Yugong geo-distributed data and job placement at scale,2019,0,1,10,0.0,2295768303,Yuzhen Huang,0,-0.0041099411153885,0.0447066884760059

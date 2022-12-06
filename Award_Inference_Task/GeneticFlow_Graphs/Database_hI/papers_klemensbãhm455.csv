@@ -1,0 +1,54 @@
+108348137,Verteiltes Webcrawling in einer Peer-to-Peer-Umgebung,2005,0,0,2,0.0,2394747955,Holger Steinhaus,0,-0.0041099411153885,0.0447066884760059
+9866260,Ãœberlegungen zur Entwicklung komplexer Grid-Anwendungen mit Globus Toolkit,2007,8,0,2,0.0,1957359469,Andreas Walter,0,-0.0041099411153885,0.0447066884760059
+46384181,Extending the Scope of Document Handling The Design of an OODBMS Application Framework for SGML Document Storage,1993,0,7,3,0.0,150096297,Karl Aberer,0,0.781789822218714,-0.024609555237430268
+65334877,Efficient selectivity estimation by histogram construction based on subspace clustering,2011,29,6,3,1.0,1970497790,Andranik Khachatryan,0,0.014532710543751099,0.030944858938630852
+838007012,Individual privacy constraints on time-series data,2015,32,11,3,0.0,1275874989,Fabian Laforet,0,-0.0041099411153885,0.0447066884760059
+1513672167,An Object-Oriented Database Application for HyTime Document Storage,1994,0,4,1,1.0,2245547659,Klemens BÃ¶hm,0,1.5142867618723126,-0.09025704543787225
+1550128192,OLAP Query Routing and Physical Design in a Database Cluster,2000,15,39,2,0.857143,2140136442,Uwe RÃ¶hm,0,0.37524630049893504,1.310492911276647
+1497067417,Interactive-Time Similarity Search for Large Image Collections Using Parallel VA-Files,2000,22,27,2,0.0,2671815637,Roger Weber,0,-0.0041099411153885,0.0447066884760059
+1480643633,Sensitivity of self-tuning histograms query order affecting accuracy and robustness,2012,20,6,4,1.0,1970497790,Andranik Khachatryan,0,0.014532710543751099,0.030944858938630852
+1542810839,Trading Quality for Time with Nearest Neighbor Search,2000,25,78,2,0.0,2671815637,Roger Weber,0,-0.0041099411153885,0.0447066884760059
+1562612017,Evaluating the Coordination Overhead of Replica Maintenance in a Cluster of Databases,2000,9,12,1,1.0,2245547659,Klemens BÃ¶hm,0,0.2846702177551661,0.29510573401319024
+1482997398,OLAP Query Evaluation in a Database Cluster A Performance Study on Intra-Query Parallelism,2002,17,57,2,0.0,2065620912,Fuat Akal,0,-0.11243459795062931,0.794147956387646
+1531399031,An OODBMS-IRS Coupling for Structured Documents,1996,5,7,2,0.37411,150096297,Karl Aberer,0,2.055624936495889,-0.6295568056769815
+1648820737,FAS a freshness-sensitive coordination middleware for a cluster of OLAP components,2002,19,99,4,0.0,2029357687,Heiko Schuldt,0,-0.021072482170568386,0.8144668774867789
+1858618841,Deriving spatio-temporal query results in sensor networks,2010,17,5,2,0.0,2034498969,Markus Bestehorn,0,-0.0041099411153885,0.0447066884760059
+1966643943,Free riding-aware forwarding in Content-Addressable Networks,2007,33,16,1,1.0,2245547659,Klemens BÃ¶hm,0,-0.46893397788284524,0.07728939382804885
+1971135232,Finding misplaced items in retail by clustering RFID data,2010,29,18,3,1.0,2637497480,Leonardo Weiss Ferreira Chaves,0,-0.32198876610509086,-0.2038331671539402
+1980160594,Improved count suffix trees for natural language data,2008,23,0,3,0.0,1229057822,Guido Sautter,0,-0.7406856041993942,-0.3855602834342524
+1999929308,Allocative and strategic effects of privacy enhancement in smart grids,2015,45,7,3,0.0,2185747634,Stephan Kessler,0,-0.0041099411153885,0.0447066884760059
+2025954838,A new verification technique for large processes based on identification of relevant tasks,2015,54,8,3,1.0,2168514690,Richard Mrasek,0,-0.0041099411153885,0.0447066884760059
+2029593563,Metadata for multimedia documents,1994,10,76,1,1.0,2245547659,Klemens BÃ¶hm,0,0.8226629902082818,-1.4183104833898845
+2014822058,Structured document storage and refined declarative and navigational access mechanisms in HyperStorM,1997,21,43,1,1.0,2245547659,Klemens BÃ¶hm,0,1.3169888282806679,-0.20030250045407766
+2025578095,PowerDB-IR information retrieval on top of a database cluster,2001,14,35,2,0.0,2050071469,Hans JÃ¶rg Schek,0,1.2629700682501146,0.42389779028227315
+2033201837,A time-series compression technique and its application to the smart grid,2015,43,25,4,0.0,2060963310,Frank Eichinger,0,-0.0041099411153885,0.0447066884760059
+2036743471,Building conference proceedings requires adaptable workflow and content management,2006,21,4,2,1.0,2205662823,Jutta A. MÃ¼lle,0,0.5094404965313806,0.9201626488033479
+2054598151,Structured document handlingâ€”a case for integrating databases and information retrieval,1994,15,8,2,0.0,434753560,Erich J. Neuhold,0,1.8239963106900314,-0.16368220573189093
+2038115396,Storing HyTime documents in an object-oriented databases,1994,20,14,2,0.0,150096297,Karl Aberer,0,2.189617250782264,0.4084433867941303
+2065787044,Processing continuous join queries in sensor networks a filtering approach,2010,22,19,2,1.0,2223208101,Mirco Stern,0,0.43739842239757626,0.009947045888208002
+2087378618,Efficient and secure exact-match queries in outsourced databases,2015,36,1,2,0.0,2033956176,Clemens Heidinger,0,0.41697757600812063,-0.008835724611013833
+2096825461,A graphical audit facility for data processing and its evaluation with users,2012,5,0,3,0.0,2480920005,Jens MÃ¼ller,0,-0.20133665475165913,-0.19110780330684465
+2096833659,Scalable distributed query and update service implementations for XML document elements,2001,20,20,2,0.0,2289987644,Torsten Grabs,0,0.478180306987082,-0.03439098782459134
+2095096988,Estimating mutual information on data streams,2015,36,10,3,0.0,2685130036,Fabian Keller,0,-0.4054632534978899,0.036376001942439666
+2089935835,How to quantify the impact of lossy transformations on change detection,2015,41,2,4,0.0,1869783711,Pavel Efros,0,0.08336059470847734,0.49753496786598655
+2079874670,Detecting correlated columns in relational databases with mixed data types,2014,36,4,4,0.0,2150437310,Hoang Vu Nguyen,0,0.847084568463037,0.06206455411845074
+2085249022,PowerDB-IR â€“ Scalable Information Retrieval and Storage with a Cluster of Databases,2004,56,10,2,0.0,2050071469,Hans JÃ¶rg Schek,0,-0.014723504341792223,0.2507642166980806
+2098845641,XMLTM efficient transaction management for XML documents,2002,23,62,2,0.0,2570517193,Torsten Grabs,0,2.3485049625640406,-0.9375414068725034
+2128931995,Cache-aware query routing in a cluster of databases,2001,14,33,2,0.857143,2140136442,Uwe RÃ¶hm,0,0.0908845357243609,0.31128747720343375
+2117654209,Towards materialized view selection for distributed databases,2009,29,24,4,1.0,2637497480,Leonardo Weiss Ferreira Chaves,0,1.7660445719663262,0.4892516469849717
+2126673635,A wavelet transform for efficient consolidation of sensor relations with quality guarantees,2009,39,4,3,1.0,2223208101,Mirco Stern,0,0.39806840282248723,-0.09196310078845815
+2106512290,Strategic Properties of Peer-to-Peer Data Structures and Behaviour of Human Peers in Economic Experiments,2006,18,1,2,0.0,2949862335,Stephan Schosser,0,-0.46893397788284524,0.07728939382804885
+2113343270,Property specification process verification and reporting - A case study with vehicle-commissioning processes,2016,45,1,3,1.0,2168514690,Richard Mrasek,0,0.2946713761785912,0.4027268098681643
+2122671459,High-level parallelisation in a database cluster a feasibility study using document services,2001,22,16,2,0.0,2050071469,Hans JÃ¶rg Schek,0,2.051479984716638,1.9677461853292195
+2144053656,Applying a flexible OODBMS-IRS-coupling to structured document handling,1996,23,31,2,0.37411,150096297,Karl Aberer,0,0.14556637094639954,0.3738253880860077
+2147752879,HyperStorMâ€”administering structured documents using object-oriented database technology,1996,3,9,2,0.37411,150096297,Karl Aberer,0,2.880150213569363,0.885021629294668
+2169227676,Working together in Harmony-an implementation of the CORBA object query service and its evaluation,1999,16,11,2,0.782609,2140136442,Uwe RÃ¶hm,0,-0.2428464276212377,0.0587950998161305
+2148736981,The prospects of publishing using advanced database concepts,1993,11,33,2,0.0,150096297,Karl Aberer,0,2.719686645817074,0.24471396025471742
+2145789701,Fast Evaluation Techniques for Complex Similarity Queries,2001,27,35,1,1.0,2245547659,Klemens BÃ¶hm,0,-0.0041099411153885,0.0447066884760059
+2153004870,Database support for species extraction from the biosystematics literature a feasibility demonstration,2004,14,0,2,0.0,2712031511,Ralf Duckstein,0,1.4971354639924137,-0.5561793240621581
+2400869242,Identifying User Interests within the Data Space - a Case Study with SkyServer,2015,24,12,2,0.0,2976305594,Vu Nguyen,0,1.3048134241781268,0.16590565420481354
+2572041380,TEAL Transparent Encryption for the Database Abstraction Layer,2016,4,2,3,0.0,2630903117,Karl Lorey,0,-0.0041099411153885,0.0447066884760059
+2585489975,OLAP query evaluation in a database cluster A performance study on intra-query parallelism,2002,0,0,2,0.0,2065620912,Fuat Akal,0,-0.11243459795062931,0.794147956387646
+2805370801,Distance-Based Data Mining over Encrypted Data,2018,17,2,3,0.0,2623538307,Christine Tex,0,0.044859856903840555,0.012551371775477651
+2821473132,In-database analytics with ibmdbpy,2018,2,2,3,0.0,2816530816,Edouard FouchÃ©,0,0.020742504343926032,0.11327103066755946
+2898548722,Cleaning Antipatterns in an SQL Query Log,2018,0,0,3,0.0,2767401426,Natalia Arzamasova,0,0.044859856903840555,0.012551371775477651

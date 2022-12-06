@@ -1,0 +1,49 @@
+172136067,TRank Ranking Entity Types Using the Web of Data,2013,29,31,4,1.0,2120347288,Alberto Tonon,0,-0.0041099411153885,0.0447066884760059
+56080075,dipLODocus [RDF] short and long-tail RDF analytics for massive webs of data,2011,27,30,2,0.0,2104688724,Mariusz Wisniewski,0,-0.39040501381267817,0.0678282925157182
+45752121,Tag recommendation for large-scale ontology-based information systems,2012,18,8,6,0.0,38035707,Roman Prokofyev,0,-0.0041099411153885,0.0447066884760059
+298834322,Semantic Gossiping Fostering Semantic Interoperability in Peer Data Management Systems,2006,16,4,2,0.0,150096297,Karl Aberer,0,0.31255201073465105,-0.0652648968870233
+759728666,Adaptive RDF Query Processing Based on Provenance,2014,9,1,2,1.0,2695592491,Marcin Wylot,0,-0.13489138146538232,0.029751773140659632
+1496636779,GridVine building internet-scale semantic overlay networks,2004,24,208,2,0.0,150096297,Karl Aberer,0,-0.2261574385055695,-0.1352156013383793
+1569130045,Semantic overlay networks,2005,0,53,2,0.0,150096297,Karl Aberer,0,-0.0041099411153885,0.0447066884760059
+1551280176,Self-organizing schema mappings in the GridVine peer data management system,2007,8,11,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,0.31267432013637997,-0.10244243634615892
+1560913413,Emergent Semantics Principles and Issues,2004,64,109,2,0.0,150096297,Karl Aberer,0,-0.39040501381267817,0.0678282925157182
+1481598211,A low-latency big database system and browser for storage querying and visualization of 3D genomic data,2015,32,7,3,0.0,224337485,JÃ©rÃ´me WaldispÃ¼hl,0,-0.0041099411153885,0.0447066884760059
+1544422892,Analyzing Semantic Interoperability in Bioinformatic Database Networks,2005,6,0,4,0.0,150096297,Karl Aberer,0,-0.0041099411153885,0.0447066884760059
+1527452624,The Entity Registry System Implementing 5-Star Linked Data Without the Web,2013,3,5,2,0.0,1975711851,M. Charlaganov,0,0.16285556122741646,-0.3527629301630855
+1906114547,NoSQL Databases for RDF An Empirical Evaluation,2013,23,34,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,0.3004254544482906,-0.19779471033584695
+1835650337,Demonstrating the entity registry system implementing 5-star linked data without the web,2013,3,0,2,0.0,1975711851,M. Charlaganov,0,0.16285556122741646,-0.3527629301630855
+1965157152,PicShark mitigating metadata scarcity through large-scale P2P collaboration,2008,33,18,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,-0.09394865239239493,-0.9221477491718636
+2007774426,Will Graph Data Management Techniques Contribute to the Successful Large-Scale Deployment of Semantic Web Technologies ,2012,19,0,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,-1.4139656738403867,-1.4138307667121546
+2006211529,TripleProv efficient processing of lineage queries in a native RDF store,2014,25,25,2,1.0,2695592491,Marcin Wylot,0,-0.39040501381267817,0.0678282925157182
+2017369298,A demonstration of SciDB a science-oriented DBMS,2009,13,144,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,-0.09687631339961023,0.20814854511678701
+2014593189,Benchmarking OLTP/web databases in the cloud the OLTP-bench framework,2012,3,21,4,0.0,2045003753,Carlo Curino,0,1.0496910614021293,0.7170130735048186
+2013470226,A framework for semantic gossiping,2002,10,43,2,0.0,150096297,Karl Aberer,0,-0.39040501381267817,0.0678282925157182
+2040802983,To tag or not to tag - harvesting adjacent metadata in large-scale tagging systems,2008,6,13,3,0.642857,1276699941,Adriana Budura,0,-0.34857978327751216,-0.2513987233039086
+2039910065,HYRISE a main memory hybrid storage engine,2010,27,202,6,0.0,1991829994,Alexander Zeier,0,-0.3584145241730215,-0.07336224267815496
+2073688105,The Case for RodentStore an Adaptive Declarative Storage System,2009,23,12,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,2.391884010026911,0.5668633309463503
+2065663378,TrajStore An adaptive storage system for very large trajectory data sets,2010,26,132,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,0.09032608882414994,-0.19622013549386122
+2121092231,BenchPress Dynamic Workload Control in the OLTP-Bench Testbed,2015,6,4,5,0.0,2230917152,Dana Van Aken,0,1.2180798559453594,0.9078666582833876
+2133045267,Probabilistic Message Passing in Peer Data Management Systems,2006,22,36,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,0.31255201073465105,-0.0652648968870233
+2144019624,Efficient Versioning for Scientific Array Databases,2012,15,30,2,0.0,964890189,Adam Seering,0,0.25057570336137,-0.14940085706202869
+2171450492,Large-scale linked data integration using probabilistic reasoning and crowdsourcing,2013,53,62,3,0.0,1990425973,Gianluca Demartini,0,-0.0912667473747117,-0.34863182385072444
+2187014882,A Demonstration of HYRISEâ€” A Main Memory Hybrid Storage Engine,2011,6,18,3,0.315789,2038684037,Martin Grund,0,-0.3584145241730215,-0.07336224267815496
+2154314955,Demonstration of the TrajStore system,2009,8,4,2,0.0,2151018753,Eugene Wu,0,-0.0041099411153885,0.0447066884760059
+2185066740,Benchmarking OLTP/Web Databases in the Cloud The OLTP-Bench Framework (Extended Abstract),2012,3,0,4,0.478261,1916729783,Andrew Pavlo,0,1.0496910614021293,0.7170130735048186
+2149591580,Hybrid graph and relational query processing in main memory,2013,10,3,2,0.421886,2038684037,Martin Grund,0,1.6291862502418535,0.21548494936623053
+2272348617,Executing Provenance-Enabled Queries over Web Data,2015,35,16,2,1.0,2695592491,Marcin Wylot,0,-0.39040501381267817,0.0678282925157182
+2240667924,OLTP-Bench an extensible testbed for benchmarking relational databases,2013,31,143,4,1.0,2164740337,Djellel Eddine Difallah,0,1.2180798559453594,0.9078666582833876
+2293443250,A demonstration of TripleProv tracking and querying provenance over web data,2015,6,5,2,1.0,2695592491,Marcin Wylot,0,-0.39040501381267817,0.0678282925157182
+2296180639,TransactiveDB tapping into collective human memories,2014,6,0,6,1.0,2031671722,Michele Catasta,0,-0.0041099411153885,0.0447066884760059
+2399407902,LARGE-SCALE LINKED DATA PROCESSING - Cloud Computing to the Rescue ,2012,23,12,3,0.0,2095279874,Robert L. Grossman,0,0.9593685854588833,-0.2881467916023304
+2406267662,An overview of HYRISE - a Main Memory Hybrid Storage Engine,2012,12,19,2,0.421886,2038684037,Martin Grund,0,-0.09704933498526315,-0.37303494987465385
+2398180708,Graph Data Management Systems for New Application Domains,2011,1,18,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,0.13506710143890385,0.005162817422601401
+2511986927,Towards a semantic &amp; domain-agnostic scientific data management system,2010,0,0,4,0.0,2119270058,Yuan Fang Li,0,0.414546222050913,-0.03609404299565833
+2523692764,VoldemortKG Mapping schemaorg and Web Entities to Linked Open Data,2016,12,6,4,1.0,2120347288,Alberto Tonon,0,-0.0912667473747117,-0.34863182385072444
+2605047947,Storing Tracking and Querying Provenance in Linked Data,2017,44,12,2,1.0,2695592491,Marcin Wylot,0,-0.24921155514082186,0.05094653814423073
+2757276355,A demonstration of SciDB,2009,0,1,7,0.0,144586491,Pavel Velikhov,0,0.12628174114238816,0.0039009070058818006
+2803200182,Big Data Semantics,2018,162,15,5,0.0,1661797895,Paolo Ceravolo,0,-0.1660572365315715,0.051112190861566584
+2912504589,The Case for Network Accelerated Query Processing,2019,0,7,3,1.0,2912536470,Alberto Lerner,0,-0.0041099411153885,0.0447066884760059
+2914948517,NoSQL Databases for RDF An Empirical Evaluation,2013,0,32,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,0.3004254544482906,-0.19779471033584695
+2963434618,The Case for RodentStore an Adaptive Declarative Storage System,2009,25,17,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,0.22849199092487468,0.13041230638690088
+2988903344,Viewpoints on Emergent Semantics,2006,0,0,1,1.0,2308794080,Philippe CudrÃ© Mauroux,0,-0.0041099411153885,0.0447066884760059
+3013992670,It Takes Two Instrumenting the Interaction between In-Memory Databases and Solid-State Drives,2020,0,0,6,1.0,2912536470,Alberto Lerner,0,-0.0041099411153885,0.0447066884760059

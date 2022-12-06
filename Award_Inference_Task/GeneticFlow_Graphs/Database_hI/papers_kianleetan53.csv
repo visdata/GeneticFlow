@@ -1,0 +1,161 @@
+108698161,Batch Query Processing in Shared-Nothing Multiprocessors,1995,6,4,2,0.231884,2777656153,Hongjun Lu,0,0.014532710543751099,0.030944858938630852
+44736402,Query Allocation in Wireless Sensor Networks with Multiple Base Stations,2009,19,6,4,0.0,2082679073,Shili Xiang,0,-0.0041099411153885,0.0447066884760059
+182893819,Using Domain Knowledge in Querying Image Databases,1996,15,15,4,0.0,2160663097,Tat Seng Chua,0,0.2353888729857487,0.3298835230747928
+116763781,A Scalable XML Access Control System,2001,4,22,2,0.0,2657474682,Yue Wang,0,2.5945242131917743,-1.0942181211623456
+1568306531,MOSAIC A Multi-feature Access Method for Large Image Databases,1999,9,1,2,0.8,2129733692,Shen Tat Goh,0,0.17391615759999998,0.26835898102601596
+1514179276,Query assurance verification for outsourced multi-dimensional databases,2009,23,33,2,1.0,2126888159,Weiwei Cheng,0,0.3727950102935777,0.2972889351698185
+1488414089,A location-aware publish/subscribe framework for parameterized spatio-textual subscriptions,2015,26,38,5,0.0,2107881099,Huiqi Hu,0,-0.0041099411153885,0.0447066884760059
+1514425438,B-trees bearing fruits of all kinds,2002,23,20,2,0.189112,2037466936,Beng Chin Ooi,0,1.5930933350627152,0.506372377129763
+1515533380,A Performance Study of Declustering Strategies for Parallel Spatial Databases,1995,9,4,1,1.0,2142476784,Kian Lee Tan,0,-0.0041099411153885,0.0447066884760059
+1543322417,Distributed Database Design,2009,0,1,1,1.0,2142476784,Kian Lee Tan,0,1.5941363566824345,0.4510198894069331
+1516374262,Real datasets for file-sharing peer-to-peer systems,2005,12,19,4,0.0,2516227126,Shen Tat Goh,0,0.14143293034549909,-0.3148245184478872
+1517320208,ChronoStream Elastic stateful stream computation in the cloud,2015,32,57,2,0.8,2099674727,Yingjun Wu,0,-0.0041099411153885,0.0447066884760059
+1508736547,DB-enabled peers for managing distributed data,2003,14,6,3,0.15864,2037466936,Beng Chin Ooi,0,-0.0041099411153885,0.0447066884760059
+1545720031,Optimization of Multi-Way Join Queries for Parallel Execution,1991,23,70,3,0.0,2777656153,Hongjun Lu,0,1.0304729617798196,-0.2252111061948976
+1484405533,Temporal Spatial-Keyword Top-k publish/subscribe,2015,30,81,4,0.0,2106043476,Lisi Chen,0,0.014532710543751099,0.030944858938630852
+1494233100,Authenticating kNN query results in data publishing,2007,19,15,2,1.0,2126888159,Weiwei Cheng,0,-0.0041099411153885,0.0447066884760059
+1503719045,iDISQUE tuning high-dimensional similarity queries in DHT networks,2010,18,8,3,0.0,2424575037,Xiaolong Zhang,0,-0.0041099411153885,0.0447066884760059
+1566717980,Exploring bit-difference for approximate KNN search in high-dimensional databases,2005,20,24,4,0.627907,2070862325,Bin Cui,0,-0.0041099411153885,0.0447066884760059
+1513288538,Elaps An efficient location-aware pub/sub system,2015,8,10,5,1.0,2238646294,Long Guo,0,-0.0041099411153885,0.0447066884760059
+1487447048,Context mediation in the semantic web handling OWL ontology and data disparity through context interchange,2004,10,15,3,0.0,2694077143,Philip Tan,0,-0.0041099411153885,0.0447066884760059
+1586301419,On effective e-mail classification via neural networks,2005,12,20,5,0.627907,2070862325,Bin Cui,0,-0.0041099411153885,0.0447066884760059
+1595752182,Walking Through a Very Large Virtual Environment in Real-time,2001,9,28,5,1.0,2118321968,Lidan Shou,0,-0.0041099411153885,0.0447066884760059
+1876353827,Indexing Techniques for Advanced Database Systems,1997,0,106,4,0.0,717547165,Elisa Bertino,0,-0.37538904668272804,-0.1679513215203286
+1597017619,epiC an extensible and scalable system for processing big data,2014,36,51,4,1.0,2119308123,Dawei Jiang,0,0.278290843468795,0.4102321833471188
+1960895309,Cache-on-demand recycling with certainty,2001,7,13,1,1.0,2142476784,Kian Lee Tan,0,-0.0041099411153885,0.0447066884760059
+1588885340,Query Processing in Parallel Relational Database Systems,1994,0,57,2,0.425848,2037466936,Beng Chin Ooi,0,1.1973028659162717,0.42442587493451783
+1598185176,Hash-Based Join Algorithms for Multiprocessor Computers,1990,17,15,2,0.0,2777656153,Hongjun Lu,0,-0.0041099411153885,0.0447066884760059
+1938572101,Publishing Trajectory with Differential Privacy A Priori vs A Posteriori Sampling Mechanisms,2013,17,9,5,0.0,2149630703,Dongxu Shao,0,-0.0041099411153885,0.0447066884760059
+1814574107,Building CyberBroker in Digital Marketplaces Using Java and CORBA,1999,12,0,2,0.923077,2095645981,Pin Kwang Eng,0,-0.3062073443071298,0.13669738496848002
+1816580784,In-memory Databases Challenges and Opportunities From Software and Hardware Perspectives,2015,31,27,1,1.0,2142476784,Kian Lee Tan,0,-0.0041099411153885,0.0447066884760059
+1823773132,Sampling from databases using B$^+$-Trees,2002,14,0,2,1.0,298956006,Dimuthu Makawita,0,-0.0041099411153885,0.0447066884760059
+1601597564,Go green recycle and reuse frequent patterns,2004,21,8,3,0.0,2295915604,Gao Cong,0,-0.42845202490949574,0.1450203979855267
+1583700790,A hash-based collaborative transcoding proxy system,2003,14,1,2,1.0,2170831284,Xiu Wu,0,-0.0041099411153885,0.0447066884760059
+1583949997,Fast High-Dimensional Data Search in Incomplete Databases,1998,19,20,3,0.381394,2037466936,Beng Chin Ooi,0,0.41302312139854663,0.34618463814842165
+1731189906,XStorM A Scalable Storage Mapping Scheme for XML Data,2001,7,7,4,0.0,2146553279,Wen Qiang Wang,0,2.3485049625640406,-0.9375414068725034
+1964556313,Call to order a hierarchical browsing approach to eliciting users preference,2010,34,17,3,0.0,2666747689,Feng Zhao,0,0.25245882146783893,0.09919480006319664
+1964647853,An efficient and compact indexing scheme for large-scale data store,2013,22,18,4,0.0,2305343205,Peng Lu,0,0.5699502507992161,-0.4567815342529054
+1985957058,Indexing temporal data using existing B + -trees,1996,21,30,2,0.425848,2037466936,Beng Chin Ooi,0,0.14267304019497964,0.07306359187705211
+1972101987,Towards efficient automated singer identification in large music databases,2006,22,17,4,0.444444,2138889374,Jialie Shen,0,-0.0041099411153885,0.0447066884760059
+1979146493,Privacy Preservation in Streaming Data Collection,2012,12,6,5,0.702703,2136598690,Wee Siong Ng,0,-0.24002516410659377,0.4094623095683778
+1965245013,Relational data sharing in peer-based data management systems,2003,17,64,3,0.15864,2037466936,Beng Chin Ooi,0,0.48042329263044287,0.04926109525323813
+1965284036,Tuning integrated dissemination-based information systems,1999,0,15,2,1.0,2680630603,Jun Cai,0,-0.0041099411153885,0.0447066884760059
+1978073991,Location-Aware Pub/Sub System When Continuous Moving Queries Meet Dynamic Event Streams,2015,24,40,4,1.0,2238646294,Long Guo,0,-0.0041099411153885,0.0447066884760059
+1969310126,Sampling from databases using B+-trees,2000,15,4,2,1.0,298956006,Dimuthu Makawita,0,-0.0041099411153885,0.0447066884760059
+1994655805,iDistance An adaptive B + -tree based indexing method for nearest neighbor search,2005,37,470,4,0.0,360112113,Hosagrahar V. Jagadish,0,0.06432660696510827,0.29273033166800794
+1999894297,Database research at the National University of Singapore,2013,39,0,7,0.0,2159446685,StÃ©phane Bressan,0,0.2085742836384018,0.8428512062893235
+1992936368,BestPeer++ A Peer-to-Peer Based Large-Scale Data Processing Platform,2012,17,7,5,0.0,2125776506,Gang Chen,0,0.20402976741762335,-0.17693360601910715
+2005376369,Nearest group queries,2013,43,18,3,1.0,2145928807,Dongxiang Zhang,0,0.014532710543751099,0.030944858938630852
+1998406251,On resource scheduling of multi-join queries in parallel database systems,1993,8,18,1,1.0,2142476784,Kian Lee Tan,0,0.9763996725666754,0.24724731905079503
+2000336666,Towards Window Analytics over Large-scale Graphs,2015,8,1,2,0.8,2574686874,Qi Fan,0,-0.0041099411153885,0.0447066884760059
+1993541936,Towards integrated and efficient scientific sensor data processing a database approach,2009,18,16,4,1.0,2280920807,Ji Wu,0,-0.02820613097506569,-0.10048436291916894
+2000649160,CSV visualizing and mining cohesive subgraphs,2008,36,54,3,0.0,2600856056,Nan Wang,0,-0.0041099411153885,0.0447066884760059
+2005988094,Ï-uncertainty inference-proof transaction anonymization,2010,34,69,2,0.0,2065278996,Chedy RaÃ¯ssi,0,0.5403264913079001,0.6534032858567922
+1999119356,Efficient and accurate strategies for differentially-private sliding window queries,2013,30,17,6,0.625,2164916867,Jianneng Cao,0,0.10064988314788967,-0.46637949905878545
+2031748104,Progressive evaluation of nested aggregate queries,2000,17,2,1,1.0,2142476784,Kian Lee Tan,0,-0.0041099411153885,0.0447066884760059
+2014167660,Optimized query evaluation using cooperative sorts,2010,22,10,4,1.0,2706142007,Yu Cao,0,-0.0041099411153885,0.0447066884760059
+2012668444,iCrowd An Adaptive Crowdsourcing Framework,2015,34,96,4,0.0,2119191832,Ju Fan,0,-0.0041099411153885,0.0447066884760059
+2030433563,On optimizing relational self-joins,2012,14,0,4,1.0,2706142007,Yu Cao,0,0.9480864776497668,0.09277815406996216
+2032349608,A dynamic scheduler for the infinite air-cache,1997,13,5,1,1.0,2142476784,Kian Lee Tan,0,0.221423897897152,-0.21080654779612165
+2054028114,In-network execution of monitoring queries in sensor networks,2007,17,74,4,0.0,2805913498,Xiaoyan Yang,0,-0.0041099411153885,0.0447066884760059
+2052316414,Indexing for progressive skyline computation,2003,19,17,3,1.0,2095645981,Pin Kwang Eng,0,0.2229440142478335,0.33823029241771846
+2052388228,Verifying completeness of relational query results in data publishing,2005,19,226,4,0.783873,2095771566,HweeHwa Pang,0,1.2507170147922342,0.32696284555149707
+2035089573,Sort-sharing-aware query processing,2012,32,8,4,1.0,2706142007,Yu Cao,0,-0.0041099411153885,0.0447066884760059
+2043952269,Towards integrated geographical information processing,1998,3,57,3,0.0,2096247799,David J. Abel,0,0.15240594855895664,0.2784758880822662
+2035214972,PeerDB peering into personal databases,2003,2,24,2,0.15864,2037466936,Beng Chin Ooi,0,0.18601297105691045,-0.0008472885667257998
+2035264004,A framework to enforce access control over data streams,2010,34,43,4,0.0,103678462,Barbara Carminati,0,0.39021577128152063,-0.19325643915861285
+2042356313,A Break for Workaholics Energy-Efficient Selective Tuning Mechanisms for Demand-Driven-Based Wireless Environment,1997,15,1,1,1.0,2142476784,Kian Lee Tan,0,-0.0041099411153885,0.0447066884760059
+2035657239,Verifying Completeness of Relational Query Answers from Online Servers,2008,34,39,2,0.581899,2095771566,HweeHwa Pang,0,0.651786865585849,0.33869901878142344
+2033933009,Stratified computation of skylines with partially-ordered domains,2005,21,124,3,0.458764,2133793219,Chee Yong Chan,0,-0.1283590562572059,0.5324741309317754
+2035861682,On selective tuning in unreliable wireless channels,1998,20,17,1,1.0,2142476784,Kian Lee Tan,0,-0.0041099411153885,0.0447066884760059
+2037621036,On getting some answers quickly and perhaps more later,1999,2,11,1,1.0,2142476784,Kian Lee Tan,0,0.28789009827090595,0.22726245872767784
+2066293100,Continuous sampling for online aggregation over multiple queries,2010,19,55,3,0.461538,2117443739,Sai Wu,0,-0.0041099411153885,0.0447066884760059
+2075119184,QueST querying music databases by acoustic and textual features,2007,27,11,5,0.507692,2070862325,Bin Cui,0,0.10227752190890474,-0.3031280645150968
+2068177306,Publishing trajectories with differential privacy guarantees,2013,22,34,5,0.0,2720805588,Kaifeng Jiang,0,-0.0041099411153885,0.0447066884760059
+2073494180,Trajectory based optimal segment computation in road network databases,2013,10,5,4,0.0,2309355923,Xiaohui Li,0,-0.0041099411153885,0.0447066884760059
+2073593215,Scalable top-k spatial keyword search,2013,21,75,2,1.0,2145928807,Dongxiang Zhang,0,0.06635930819191084,0.49152641060504293
+2073719895,Masking page reference patterns in encryption databases on untrusted storage,2006,29,3,3,0.0,2667750680,Xi Ma,0,-0.12148523988669345,0.1572088724734156
+2077276091,Indexing bitemporal databases as points,1998,27,3,3,0.381394,2037466936,Beng Chin Ooi,0,0.1547291330741614,0.22581955557985883
+2066768226,A novel framework for efficient automated singer identification in large music databases,2009,37,35,4,0.444444,2138889374,Jialie Shen,0,0.059237243901636004,0.1632240854285962
+2073941454,Data-driven memory management for stream join,2009,21,2,2,1.0,2280920807,Ji Wu,0,-0.0041099411153885,0.0447066884760059
+2074623619,Effective Online Group Discovery in Trajectory Databases,2013,28,29,4,0.0,2309355923,Xiaohui Li,0,-0.0041099411153885,0.0447066884760059
+2071241093,An analysis of selective tuning schemes for nonuniform broadcast,1997,11,37,2,0.0,2119358208,Jeffrey Xu Yu,0,-0.0041099411153885,0.0447066884760059
+2080555007,Continuous online index tuning in moving object databases,2010,33,11,4,0.0,2133737253,Su Chen,0,-0.0041099411153885,0.0447066884760059
+2099849300,PeerDB a P2P-based system for distributed data sharing,2003,13,299,3,1.0,2136598690,Wee Siong Ng,0,0.18601297105691045,-0.0008472885667257998
+2082474940,TsingNUS a location-based service system towards live city,2013,8,4,7,0.0,2171804313,Guoliang Li,0,-0.0041099411153885,0.0447066884760059
+2097596817,WmXML a system for watermarking XML data,2005,9,15,3,1.0,2799219755,Xuan Zhou,0,2.3485049625640406,-0.9375414068725034
+2093490165,Optimizing complex queries with multiple relation instances,2008,16,16,4,1.0,2706142007,Yu Cao,0,0.615730503929508,0.19423142713640337
+2101012773,SaveRF Towards Efficient Relevance Feedback Search,2006,3,1,3,0.28125,2116772828,Heng Tao Shen,0,-0.0681371106864691,0.37370442032925993
+2079838402,Speed up interactive image retrieval,2009,39,13,3,0.181021,2116772828,Heng Tao Shen,0,-0.0681371106864691,0.37370442032925993
+2095860585,An empirical study of color-spatial retrieval techniques for large image databases,1998,6,10,2,0.0,2144428346,Chia Yeow Yee,0,0.6932435165270896,0.1633723201632808
+2083746613,A hash-based collaborative transcoding proxy system,2004,29,1,2,1.0,2170831284,Xiu Wu,0,-0.0041099411153885,0.0447066884760059
+2105247179,Just-in-time query retrieval over partially indexed data on structured P2P overlays,2008,34,23,4,0.5,2117443739,Sai Wu,0,0.43739842239757626,0.009947045888208002
+2117268753,Speeding up search in peer-to-peer networks with a multi-way tree structure,2006,22,86,3,0.0,360112113,Hosagrahar V. Jagadish,0,0.0637678156038693,-1.8680693426105834
+2108669353,Authenticating query results in edge computing,2004,13,192,2,0.87622,2095771566,HweeHwa Pang,0,0.7318465256902944,0.34821418187567293
+2109131669,R3 a real-time route recommendation system,2014,6,18,8,0.0,2660931261,Henan Wang,0,-0.0041099411153885,0.0447066884760059
+2124153111,Pagrol Parallel graph olap over large-scale attributed graphs,2014,26,32,4,0.75,2428395861,Zhengkui Wang,0,0.562203858955754,0.9466442368714238
+2115404550,Preference-driven query processing,2003,1,1,4,1.0,2095645981,Pin Kwang Eng,0,0.0908845357243609,0.31128747720343375
+2109758376,iSEE Efficient Continuous K-Nearest-Neighbor Monitoring over Moving Objects,2007,12,9,2,1.0,2705995519,Wei Wu,0,-0.241250245220175,-0.17693373480736696
+2110027693,A content-based resource location mechanism in PeerIS,2002,9,36,4,0.0,2710031249,Bo Ling,0,0.19782128607398822,0.1063373935543921
+2133660798,An adaptable distributed query processing architecture,2005,17,34,3,0.491803,2097638082,Yongluan Zhou,0,0.014532710543751099,0.030944858938630852
+2119149536,SABRE a Sensitive Attribute Bucketization and REdistribution framework for t-closeness,2011,34,55,4,0.875,2164916867,Jianneng Cao,0,0.43739842239757626,0.009947045888208002
+2139911711,Integrating replacement policies in StorM an extensible approach,2000,1,0,4,0.0,2206439843,Chong Leng Goh,0,0.059237243901636004,0.1632240854285962
+2113295349,Finding k-dominant skylines in high dimensional space,2006,17,367,3,0.458764,2133793219,Chee Yong Chan,0,-0.5087766424317517,0.8236970381013953
+2131068516,ACStream Enforcing Access Control over Data Streams,2009,6,22,4,0.875,2164916867,Jianneng Cao,0,0.046900716185551306,0.015537485044273472
+2107628111,Global optimization of histograms,2001,18,45,4,0.0,360112113,Hosagrahar V. Jagadish,0,-0.0041099411153885,0.0447066884760059
+2143421475,SPRITE A Learning-Based Text Retrieval System in DHT Networks,2007,17,8,3,0.0,2118242501,Ying Guang Li,0,-0.0041099411153885,0.0447066884760059
+2110730009,StegFS a steganographic file system,2003,9,59,2,0.87622,2095771566,HweeHwa Pang,0,0.46470220877914586,-0.6479479940151134
+2137376663,A Write Efficient PCM-Aware Sort,2012,10,7,3,0.0,1259517735,Meduri Venkata Vamsikrishna,0,-0.0041099411153885,0.0447066884760059
+2110839100,Optimization of analytic window functions,2012,15,17,4,1.0,2706142007,Yu Cao,0,0.06155862518565555,0.5607548851979121
+2125716662,Dynamic load management for distributed continuous query systems,2005,0,20,3,0.491803,2097638082,Yongluan Zhou,0,0.0835119396817451,0.051530138659233005
+2143837314,Adaptive Reorganization of Coherency-Preserving Dissemination Tree for Streaming Data,2006,19,13,3,0.491803,2097638082,Yongluan Zhou,0,0.5586742082380666,-0.1984847101299193
+2111105476,On incremental cache coherency schemes in mobile computing environments,1997,16,43,2,1.0,2680630603,Jun Cai,0,0.8286466699603369,1.0027583038282522
+2168202182,Rethinking the design of distributed stream processing systems,2008,18,7,4,0.705882,2097638082,Yongluan Zhou,0,0.0835119396817451,0.051530138659233005
+2153277113,Adaptive Multi-join Query Processing in PDBMS,2009,16,7,4,0.5,2117443739,Sai Wu,0,0.0908845357243609,0.31128747720343375
+2147393715,An efficient method for queries execution in a multi-user environment,2001,11,0,3,0.8,2129733692,Shen Tat Goh,0,-0.0041099411153885,0.0447066884760059
+2144453646,An efficient index-based protein structure database searching method,2003,18,27,3,0.0,2252271408,Zeyar Aung,0,-0.0041099411153885,0.0447066884760059
+2165647619,Approximate NN queries on streams with guaranteed error/performance bounds,2004,24,80,3,0.0,335443309,Nick Koudas,0,-0.42845202490949574,0.1450203979855267
+2171645160,Answering similarity queries in peer-to-peer networks,2006,24,51,4,0.393206,252562283,Panos Kalnis,0,-0.0041099411153885,0.0447066884760059
+2159693728,Efficient processing of skyline queries with partially-ordered domains,2005,4,25,3,0.458764,2133793219,Chee Yong Chan,0,0.25245882146783893,0.09919480006319664
+2147940772,String join using precedence count matrix,2004,10,2,4,0.0,2440461024,Xia Cao,0,-0.0041099411153885,0.0447066884760059
+2148258946,Towards self-tuning data placement in parallel database systems,2000,20,57,4,0.0,2159408573,Mong Li Lee,0,0.253202750105207,0.12815134630264885
+2148306163,FINCH evaluating reverse k-Nearest-Neighbor queries on location data,2008,22,80,4,1.0,2705995519,Wei Wu,0,-0.0041099411153885,0.0447066884760059
+2145320861,Separating Authentication from Query Execution in Outsourced Databases,2009,9,19,4,0.0,2119753300,Stavros Papadopoulos,0,-0.0041099411153885,0.0447066884760059
+2145676119,IMPACT a twin-index framework for efficient moving object query processing,2006,24,3,3,0.627907,2070862325,Bin Cui,0,0.3820908385543769,0.2117467783858426
+2157855380,Private queries in location based services anonymizers are not necessary,2008,30,628,5,0.0,141097756,Gabriel Ghinita,0,-0.26111576430640643,-0.19302535071852145
+2157925070,HDoV-tree the structure the storage the speed,2003,11,19,3,1.0,2118321968,Lidan Shou,0,-0.0041099411153885,0.0447066884760059
+2149036827,Window-Oblivious Join A Data-Driven Memory Management Scheme for Stream Join,2007,17,6,2,1.0,2280920807,Ji Wu,0,-0.0041099411153885,0.0447066884760059
+2155113758,Hiding data accesses in steganographic file system,2004,12,20,3,1.0,2799219755,Xuan Zhou,0,-0.0041099411153885,0.0447066884760059
+2158126850,Buffer and load balancing in locally distributed database systems,1990,14,9,2,0.0,2777656153,Hongjun Lu,0,0.0835119396817451,0.051530138659233005
+2152347003,Towards optimal utilization of main memory for moving object indexing,2005,11,8,3,0.627907,2070862325,Bin Cui,0,0.3820908385543769,0.2117467783858426
+2167443373,An adaptive peer-to-peer network for distributed caching of OLAP results,2002,27,108,5,0.393206,252562283,Panos Kalnis,0,-0.3632509700454942,1.1437180412081445
+2149586583,Distributed Processing of Moving K-Nearest-Neighbor Query on Moving Objects,2007,13,30,3,1.0,2705995519,Wei Wu,0,-0.07147114327055913,-0.2742835503468327
+2146894772,Exploiting spatial indexes for semijoin-based join processing in distributed spatial databases,2000,31,25,1,1.0,2142476784,Kian Lee Tan,0,1.2266098398883942,0.27171389277205865
+2150183367,BestPeer a self-configurable peer-to-peer system,2002,0,77,3,1.0,2136598690,Wee Siong Ng,0,-0.00492109496191035,-0.1728987636093571
+2202356046,An efficient publish/subscribe index for e-commerce databases,2014,29,37,3,1.0,2145928807,Dongxiang Zhang,0,-0.0041099411153885,0.0447066884760059
+2231162939,Cohort query processing,2016,14,9,5,1.0,2119308123,Dawei Jiang,0,0.38632121652839624,0.058193535481373765
+2269598166,CANDS continuous optimal navigation via distributed stream processing,2014,22,12,3,1.0,2122339606,Dingyu Yang,0,-0.0041099411153885,0.0447066884760059
+2427525016,Towards a Non-2PC Transaction Management in Distributed Database Systems,2016,34,16,5,0.0,2291095767,Qian Lin,0,2.866265358042471,2.7566127465700943
+2464900023,HaCube Extending MapReduce for Efficient OLAP Cube Materialization and View Maintenance,2016,20,4,3,0.75,2428395861,Zhengkui Wang,0,-0.3679864355918613,1.2492918706443725
+2433793808,Context-aware advertisement recommendation for high-speed social news feeding,2016,28,19,4,0.866667,2303117182,Yuchen Li,0,-0.0041099411153885,0.0447066884760059
+2493477719,Towards Neighborhood Window Analytics over Large-Scale Graphs,2016,18,0,4,1.0,2574686874,Qi Fan,0,-0.0041099411153885,0.0447066884760059
+2423206806,Transaction Healing Scaling Optimistic Concurrency Control on Multicores,2016,58,24,3,0.8,2099674727,Yingjun Wu,0,2.5917533867241858,2.5881968630709675
+2539377436,Influence Maximization in Trajectory Databases,2017,24,28,5,1.0,2238646294,Long Guo,0,-0.0041099411153885,0.0447066884760059
+2574848952,A general and parallel platform for mining co-movement patterns over large-scale trajectories,2016,26,22,4,1.0,2574686874,Qi Fan,0,-0.0041099411153885,0.0447066884760059
+2525739395,Database Meets Deep Learning Challenges and Opportunities,2016,73,39,6,0.0,2722498736,Wei Wang,0,-0.0041099411153885,0.0447066884760059
+2601436412,Fast Failure Recovery for Main-Memory DBMSs on Multicores,2017,47,6,4,0.8,2099674727,Yingjun Wu,0,0.4418028432108173,0.627595800505452
+2606883473,Posterior Snapshot Isolation,2017,26,3,4,0.299606,2799219755,Xuan Zhou,0,1.3498814541029789,1.4926311798868739
+2592120485,Real-time influence maximization on dynamic social streams,2017,38,24,4,0.0,2793847967,Yanhao Wang,0,-0.0041099411153885,0.0447066884760059
+2588514192,Distributed shortest path query processing on dynamic road networks,2017,40,17,4,0.697082,2145928807,Dongxiang Zhang,0,0.014532710543751099,0.030944858938630852
+2604122668,BLOCKBENCH A Framework for Analyzing Private Blockchains,2017,35,211,6,0.0,2099232142,Tien Tuan Anh Dinh,0,-0.20133665475165913,-0.19110780330684465
+2615963203,Influence Maximization in Trajectory Databases,2017,6,1,5,1.0,2238646294,Long Guo,0,-0.0041099411153885,0.0447066884760059
+2616537608,From Raw Footprints to Personal Interests Bridging the Semantic Gap via Trip Intention Aggregation,2017,3,1,5,1.0,2238646294,Long Guo,0,-0.0041099411153885,0.0447066884760059
+2889230848,Efficient distributed memory management with RDMA and caching,2018,44,12,7,0.666667,2129024836,Qingchao Cai,0,-0.0041099411153885,0.0447066884760059
+2898331500,OCTOPUS An Online Topic-Aware Influence Analysis System for Social Networks,2018,9,9,7,0.0,2119191832,Ju Fan,0,-0.0041099411153885,0.0447066884760059
+2910238169,River A Real-Time Influence Monitoring System on Social Media Streams,2018,21,0,5,0.0,2755808163,Mo Sha,0,-0.0041099411153885,0.0447066884760059
+2918225716,Distributed Database Design,2018,0,0,1,1.0,2142476784,Kian Lee Tan,0,0.0835119396817451,0.051530138659233005
+2951820891,Fast Failure Recovery for Main-Memory DBMSs on Multicores,2016,47,0,4,0.8,2099674727,Yingjun Wu,0,0.4418028432108173,0.627595800505452
+2952825891,Cohort Query Processing,2016,15,1,5,1.0,2119308123,Dawei Jiang,0,0.38632121652839624,0.058193535481373765
+2952888913,BLOCKBENCH A Framework for Analyzing Private Blockchains,2017,19,6,6,0.0,2099232142,Tien Tuan Anh Dinh,0,-0.20133665475165913,-0.19110780330684465
+2963959365,Posterior Snapshot Isolation,2017,36,0,4,0.299606,2799219755,Xuan Zhou,0,1.693985898561661,1.9731929565433433
+2951429637,Trajectory Based Optimal Segment Computation in Road Network Databases,2013,17,0,4,0.0,2309355923,Xiaohui Li,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,114 @@
+70064007,Community distribution outlier detection in heterogeneous information networks,2013,22,29,2,0.935275,2664163432,Manish Gupta,0,0.027531247093178408,-0.16084137180826508
+4333350,A Multi-graph Spectral Framework for Mining Multi-source Anomalies,2013,31,11,1,1.0,2096731881,Jing Gao,0,0.21833664421473187,0.04151084819688545
+192714392,Community trend outlier detection using soft temporal pattern mining,2012,24,57,2,0.935275,2664163432,Manish Gupta,0,0.3014579030342795,0.15479729816740873
+64908097,A general framework for mining concept-drifting data streams with skewed distributions,2007,16,159,1,1.0,2096731881,Jing Gao,0,-1.124351577557938,-0.5788435683692325
+341336861,Classifying Imbalanced Data Streams via Dynamic Feature Group Weighting with Importance Sampling,2014,14,10,4,0.0,2613615574,Ke Wu,0,0.2150525773733458,0.32320824601709136
+1541280084,A Survey on Truth Discovery,2016,71,149,2,0.9,2116094297,Yaliang Li,0,0.07144063082517366,-0.0621471133159297
+1488515281,Exploring the power of heterogeneous information sources,2011,166,0,1,1.0,2096731881,Jing Gao,0,-0.047593013858010555,0.25889677446848086
+1546438029,An incremental data stream clustering algorithm based on dense units detection,2005,8,11,1,1.0,2096731881,Jing Gao,0,-0.732824107046557,2.4779883550001394
+1521014365,Classification and novel class detection in data streams with active mining,2010,13,34,2,0.838482,2146873716,Mohammad M. Masud,0,0.20478095522742557,0.4296778212131112
+1548361610,Graph regularized transductive classification on heterogeneous information networks,2010,21,155,5,0.0,2060104901,Ming Ji,0,0.1387449397733431,-0.18091156723535892
+1599300385,Multistep-Ahead time series prediction,2006,7,15,3,0.0,2949170949,Haibin Cheng,0,0.003708468606338,0.082832279151172
+1591226255,Semi-Supervised Clustering with Partial Background Information,2006,8,0,1,1.0,2096731881,Jing Gao,0,-0.9477291922688761,3.4425115081563735
+1919803322,On handling negative transfer and imbalanced distributions in multiple source transfer learning,2014,43,34,2,1.0,2120511578,Liang Ge,0,0.4550478777926225,0.3445357429312541
+1655194356,Tracking Temporal Community Strength in Dynamic Networks,2015,34,12,3,0.334013,2224413342,Nan Du,0,0.003708468606338,0.082832279151172
+1927153363,Temporal Multi-View Inconsistency Detection for Network Traffic Analysis,2015,32,8,2,0.931035,2303863390,Houping Xiao,0,-0.06932223505889538,0.14835801720868125
+1977952460,An Ensemble Model for Mobile Device based Arrhythmia Detection,2013,18,1,3,1.0,2697100403,Kang Li,0,0.3710541681027684,-0.0011423823749497908
+1992766323,Truth Discovery on Crowd Sensing of Correlated Entities,2015,49,81,4,0.6,2116340933,Chuishi Meng,0,0.003708468606338,0.082832279151172
+1987722292,De-noise biological network from heterogeneous sources via link propagation,2012,16,1,2,0.416667,2224413342,Nan Du,0,0.34189213798870693,-0.0085938730499827
+1993521476,Detecting Recurring and Novel Classes in Concept-Drifting Data Streams,2011,11,44,5,0.66681,2146873716,Mohammad M. Masud,0,-0.7084314372375508,-0.37361081500540105
+2005811099,OMS-TL a framework of online multiple source transfer learning,2013,14,24,2,1.0,2120511578,Liang Ge,0,0.21438872843298346,-0.1353423822296997
+1991924052,Progression Analysis of Community Strengths in Dynamic Networks,2013,12,4,2,0.416667,2224413342,Nan Du,0,0.003708468606338,0.082832279151172
+2013976210,On the Discovery of Evolving Truth,2015,23,69,3,1.0,2116094297,Yaliang Li,0,0.07727698440113837,0.3802657412455471
+2012395755,Multilabel Consensus Classification,2013,13,1,3,0.72,2106011892,Sihong Xie,0,0.31139529575537833,0.24880585689436926
+2026493302,Outlier Detection for Temporal Data A Survey,2014,163,361,2,0.562659,2664163432,Manish Gupta,0,-0.08288841201807119,0.10128188274182288
+2020165008,Finding informative genes for prostate cancer a general framework of integrating heterogeneous sources,2012,27,1,2,0.625,2120511578,Liang Ge,0,-0.15964450942365144,-0.2751529353446891
+2020367605,Estimating Local Information Trustworthiness via Multi-source Joint Matrix Factorization,2012,18,13,2,0.625,2120511578,Liang Ge,0,0.14662402305761887,0.3450930601139493
+2023940283,Analysis on Community Variational Trend in Dynamic Networks,2014,28,4,3,1.0,2106755540,Xiaowei Jia,0,-0.4345646995404735,1.2339602448627665
+2034771068,FaitCrowd Fine Grained Truth Discovery for Crowdsourced Data Aggregation,2015,30,95,5,1.0,2227076362,Fenglong Ma,0,0.23447002456144056,0.35297506154309793
+2043748155,A multimodal framework for unsupervised feature fusion,2013,14,4,2,0.666667,2230170377,Xiaoyi Li,0,0.053187687455340936,-0.16559227334086646
+2048030021,A Spectral Framework for Detecting Inconsistency across Multi-source Object Relationships,2011,18,20,1,1.0,2096731881,Jing Gao,0,-0.12945133343205487,1.120031163973873
+2048586760,LRBM A Restricted Boltzmann Machine Based Approach for Representation Learning on Linked Data,2014,33,16,2,1.0,2697100403,Kang Li,0,0.15658020197298833,0.11374988779363206
+2055699991,Class-distribution regularized consensus maximization for alleviating overfitting in model combination,2014,39,11,2,0.72,2106011892,Sihong Xie,0,0.23447002456144056,0.35297506154309793
+2074050720,Cloud-Enabled Privacy-Preserving Truth Discovery in Crowd Sensing Systems,2015,52,56,8,1.0,2229046948,Chenglin Miao,0,0.003708468606338,0.082832279151172
+2062179223,Knowledge transfer via multiple model local structure mapping,2008,76,224,1,1.0,2096731881,Jing Gao,0,-0.13440228902469675,1.710989031909581
+2072918779,Multi-source deep learning for information trustworthiness estimation,2013,21,27,2,1.0,2120511578,Liang Ge,0,-0.15396601984399422,-0.09381634961614403
+2078187416,Outlier Detection for Temporal Data,2014,197,95,2,0.562659,2664163432,Manish Gupta,0,-0.04624790056198572,0.44681518204655324
+2071309374,Generalized Decision Aggregation in Distributed Sensing Systems,2014,27,33,5,1.0,2148733542,Lu Su,0,0.003708468606338,0.082832279151172
+2099505562,Cloud-based malware detection for evolving data streams,2011,35,43,4,0.66681,2146873716,Mohammad M. Masud,0,0.09583494457085429,0.42607960157545594
+2089492940,Modeling Truth Existence in Truth Discovery,2015,22,35,4,0.0,2150664895,Shi Zhi,0,0.3657638153620942,0.15460976556060488
+2094827065,Top-K interesting subgraph discovery in information networks,2014,32,44,2,0.562659,2664163432,Manish Gupta,0,0.22634389122649645,-0.1273762847622864
+2086370422,Learning Analyzing and Predicting Object Roles on Dynamic Networks,2013,17,8,4,1.0,2697100403,Kang Li,0,0.003708468606338,0.082832279151172
+2086413055,Resolving conflicts in heterogeneous data by truth discovery and source reliability estimation,2014,22,199,3,0.869565,2797002874,Qi Li,0,-0.1908094651786742,0.41037779126763796
+2085394315,Integrating community matching and outlier detection for mining evolutionary community outliers,2012,30,84,2,0.935275,2664163432,Manish Gupta,0,0.20279561436658805,0.0753070172078775
+2105126945,Modeling Probabilistic Measurement Correlations for Problem Determination in Large-Scale Distributed Systems,2009,10,32,1,1.0,2096731881,Jing Gao,0,0.11672415509507165,0.0338187686908989
+2126191191,Hierarchical aggregate classification with limited supervision for data reduction in wireless sensor networks,2011,39,16,2,1.0,2148733542,Lu Su,0,-0.33609952184070413,0.18771325731742527
+2124077530,Integrating novel class detection with classification for concept-drifting data streams,2009,15,70,2,0.838482,2146873716,Mohammad M. Masud,0,-0.42491410663079054,-0.4947457644632851
+2124288185,Classifying Data Streams with Skewed Class Distributions and Concept Drifts,2008,14,84,1,1.0,2096731881,Jing Gao,0,0.1232658649972613,0.17080384678501934
+2136246134,Facing the reality of data stream classification coping with scarcity of labeled data,2012,48,71,3,0.579528,2146873716,Mohammad M. Masud,0,-0.05910720768493891,1.2306716840095362
+2130416896,Classification and Novel Class Detection in Concept-Drifting Data Streams under Time Constraints,2011,31,234,2,0.66681,2146873716,Mohammad M. Masud,0,0.3884173505659425,0.26563341334219176
+2118778444,On Appropriate Assumptions to Mine Data Streams Analysis and Practice,2007,12,124,1,1.0,2096731881,Jing Gao,0,-0.3999442285108649,0.10752298545531169
+2107056945,A Practical Approach to Classify Evolving Data Streams Training with Limited Amount of Labeled Data,2008,9,107,2,0.580516,2146873716,Mohammad M. Masud,0,-0.10675965670720744,0.44047297306545113
+2133628070,Evolutionary analysis of functional modules in dynamic PPI networks,2012,27,10,4,0.416667,2224413342,Nan Du,0,0.003708468606338,0.082832279151172
+2122008844,Quality of Information Based Data Selection and Transmission in Wireless Sensor Networks,2012,28,15,5,1.0,2148733542,Lu Su,0,-0.21934185016841626,0.6056873083074126
+2116413397,Classification and novel class detection of data streams in a dynamic feature space,2010,13,48,3,0.838482,2146873716,Mohammad M. Masud,0,-0.5343371566468184,1.9484559712347334
+2122354813,On detecting association-based clique outliers in heterogeneous information networks,2013,11,25,2,0.935275,2664163432,Manish Gupta,0,-1.0717661545000636,-0.07135539408076284
+2110952388,Graph-based Consensus Maximization among Multiple Supervised and Unsupervised Models,2009,24,72,1,1.0,2096731881,Jing Gao,0,-0.4077810217165364,0.8317321585015213
+2122956714,A Graph-Based Consensus Maximization Approach for Combining Multiple Supervised and Unsupervised Models,2013,33,44,1,1.0,2096731881,Jing Gao,0,-0.23974801908479243,0.5457978886932645
+2168386304,Addressing Concept-Evolution in Concept-Drifting Data Streams,2010,9,83,5,0.838482,2146873716,Mohammad M. Masud,0,-0.3988979872198599,-0.35017350040289474
+2147620601,On community outliers and their efficient detection in information networks,2010,35,139,1,1.0,2096731881,Jing Gao,0,0.20279561436658805,0.0753070172078775
+2172013605,Heterogeneous source consensus learning via decision propagation and negotiation,2009,27,45,1,1.0,2096731881,Jing Gao,0,-0.16867905439510558,0.25451252767203764
+2154096079,Peer to peer botnet detection for cyber-security a data mining approach,2008,6,16,1,1.0,2096731881,Jing Gao,0,0.5414543810014343,-0.19669029957895834
+2154553070,Direct mining of discriminative and essential frequent patterns via model-based search tree,2008,27,96,4,0.0,2491264568,Wei Fan,0,-0.04827181060149819,0.3429584437766013
+2151856228,A Multi-partition Multi-chunk Ensemble Technique to Classify Concept-Drifting Data Streams,2009,12,36,2,0.838482,2146873716,Mohammad M. Masud,0,-0.5921626555466692,-0.3571144702909061
+2166914830,iTopicModel Information Network-Integrated Topic Modeling,2009,15,99,3,0.2,2131539564,Yizhou Sun,0,-0.29018898552323713,1.722604003517216
+2161835057,Classification and Adaptive Novel Class Detection of Feature-Evolving Data Streams,2013,21,74,5,0.538798,2146873716,Mohammad M. Masud,0,-0.10274551935342954,1.230250722683715
+2155987510,Consensus extraction from heterogeneous detectors to improve performance over network traffic anomaly detection,2011,20,11,1,1.0,2096731881,Jing Gao,0,0.11627254824300827,0.4772127200095625
+2243537967,Truth discovery and crowdsourcing aggregation a unified perspective,2015,35,22,1,1.0,2096731881,Jing Gao,0,0.08496435237694869,0.34954888165669096
+2212248191,Robust crowd bias correction via dual knowledge transfer from multiple overlapping sources,2015,21,6,4,0.529354,2106011892,Sihong Xie,0,-0.2664344922242221,0.00624225889375582
+2258849743,Crowdsourcing High Quality Labels with a Tight Budget,2016,42,19,3,0.8,2797002874,Qi Li,0,0.23447002456144056,0.35297506154309793
+2240474943,DRN Bringing Greedy Layer-Wise Training into Time Dimension,2015,25,3,5,0.666667,2230170377,Xiaoyi Li,0,0.11672415509507165,0.0338187686908989
+2274166809,Multi-source Information Trustworthiness Analysis,2015,4,1,2,0.931035,2303863390,Houping Xiao,0,0.13849912693728195,0.2301239433648543
+2218325929,Comprehensive cross-hierarchy cluster agreement evaluation,2013,7,2,3,0.0,2126929149,David M. Johnson,0,-0.892016243318081,2.9069851664309216
+2292299557,Significant Edge Detection in Target Network by Exploring Multiple Auxiliary Networks,2015,27,0,2,0.334013,2224413342,Nan Du,0,-0.24088401973739001,-0.00523242606390284
+2281453564,Probabilistic Models for Fine-Grained Truth Discovery from Crowdsourced Data,2015,5,2,2,1.0,2227076362,Fenglong Ma,0,0.11672415509507165,0.0338187686908989
+2290431464,A confidence-aware approach for truth discovery on long-tail data,2014,37,137,3,0.869565,2797002874,Qi Li,0,0.003708468606338,0.082832279151172
+2314839209,A Weighted Crowdsourcing Approach for Network Quality Measurement in Cellular Data Networks,2017,20,7,2,0.0,2792981211,Yaliang Li,0,0.23447002456144056,0.35297506154309793
+2345285933,Conflicts to Harmony A Framework for Resolving Conflicts in Heterogeneous Data by Truth Discovery,2016,32,21,3,0.9,2116094297,Yaliang Li,0,-0.05062636292451436,0.26852028025530056
+2368253142,Towards Confidence in the Truth A Bootstrapping based Truth Discovery Approach,2016,25,28,2,0.954545,2303863390,Houping Xiao,0,0.003708468606338,0.082832279151172
+2377151214,A Truth Discovery Approach with Theoretical Guarantee,2016,26,16,2,0.954545,2303863390,Houping Xiao,0,0.003708468606338,0.082832279151172
+2382845619,From Truth Discovery to Trustworthy Opinion Discovery An Uncertainty-Aware Quantitative Modeling Approach,2016,25,13,5,0.0,2294194149,Mengting Wan,0,0.1815880072590618,-0.018837490455758804
+2496336271,Research Challenges for Data Mining in Science and Engineering,2008,89,24,2,0.0,2121939561,Jiawei Han,0,-0.069127631361067,-0.03421730944217368
+2537388716,Influence-Aware Truth Discovery,2016,25,6,6,0.0,2578315135,Hengtong Zhang,0,-0.22015457316716303,0.9229703190126739
+2510343936,Multi-source Hierarchical Prediction Consolidation,2016,13,2,4,0.0,2558611428,Chenwei Zhang,0,0.11138324338990536,0.6001623967615968
+2516405782,Mining Reliable Information from Passively and Actively Crowdsourced Data,2016,0,6,1,1.0,2096731881,Jing Gao,0,0.13614316968055099,0.1547774631541803
+2575306178,Community Distribution Outliers in Heterogeneous Information Networks,2013,2,0,1,1.0,2096731881,Jing Gao,0,-0.15964450942365144,-0.2751529353446891
+2505897049,Finding global optimum for truth discovery Entropy based geometric variance,2016,0,9,2,0.0,2239603571,Hu Ding,0,-0.10735257715986128,0.34811189279891624
+2559191030,Risk Factor Analysis Based on Deep Learning Models,2016,18,11,3,0.0,2774331934,Qiuling Suo,0,0.003708468606338,0.082832279151172
+2584793944,Reliable Medical Diagnosis from Crowdsourcing Discover Trustworthy Answers from Non-Experts,2017,34,13,7,0.9,2116094297,Yaliang Li,0,0.01851480645371345,0.019727673743420396
+2523625823,Extracting Medical Knowledge from Crowdsourced Question Answering Website,2016,0,6,6,0.9,2116094297,Yaliang Li,0,-0.17768346192212375,0.0848641959637884
+2624200503,Towards Quality Aware Information Integration in Distributed Sensing Systems,2018,35,5,7,1.0,2245637756,Wenjun Jiang,0,-0.10135106285597136,0.013990027398200664
+2606450587,An incremental data stream clustering algorithm based on dense units detection,2005,0,26,1,1.0,2096731881,Jing Gao,0,-0.8130846756909976,3.0672329469411324
+2690721124,Dipole Diagnosis Prediction in Healthcare via Attention-based Bidirectional Recurrent Neural Networks,2017,30,116,6,1.0,2227076362,Fenglong Ma,0,0.003708468606338,0.082832279151172
+2744007523,Collaboratively Improving Topic Discovery and Word Embeddings by Coordinating Global and Local Contexts,2017,28,17,3,0.0,2223419831,Guangxu Xun,0,-0.2064661212002777,0.0513634574706795
+2761554372,Semi-supervised clustering with partial background information,2006,8,18,1,1.0,2096731881,Jing Gao,0,-0.34990035250754364,1.4577936390587876
+2745137980,Learning Temporal State of Diabetes Patients via Combining Behavioral and Demographic Data,2017,26,4,2,1.0,2303863390,Houping Xiao,0,0.003708468606338,0.082832279151172
+2763100273,City-wide Traffic Volume Inference with Loop Detector Data and Taxi Trajectories,2017,33,21,4,0.6,2116340933,Chuishi Meng,0,0.3321083711442877,-0.13777448593977593
+2775293231,Discovering Truths from Distributed Data,2017,25,4,4,1.0,2775727888,Yaqing Wang,0,0.12492345808765674,0.23414093372237493
+2743605915,Unsupervised Discovery of Drug Side-Effects from Heterogeneous Data Sources,2017,18,23,5,1.0,2227076362,Fenglong Ma,0,0.003708468606338,0.082832279151172
+2776694688,A deep learning approach for detecting traffic accidents from social media data,2018,0,0,3,0.0,2581030158,Zhenhua Zhang,0,-0.8684707031153677,-0.3685117494699995
+2808746993,TruePIE Discovering Reliable Patterns in Pattern-Based Information Extraction,2018,28,6,6,0.777821,2797002874,Qi Li,0,0.3154119870123149,0.2915100589061553
+2808769527,An Efficient Two-Layer Mechanism for Privacy-Preserving Truth Discovery,2018,36,5,4,0.716073,2116094297,Yaliang Li,0,-0.14057456089647813,0.307384220129981
+2804714470,Towards Confidence Interval Estimation in Truth Discovery,2019,29,2,2,1.0,2303863390,Houping Xiao,0,0.003708468606338,0.082832279151172
+2895944166,Towards Differentially Private Truth Discovery for Crowd Sensing Systems,2018,23,3,6,0.716073,2116094297,Yaliang Li,0,-0.12681076648878814,0.06540009977213765
+2896538705,KAME Knowledge-based Attention Model for Diagnosis Prediction in Healthcare,2018,41,15,6,1.0,2227076362,Fenglong Ma,0,0.003708468606338,0.082832279151172
+2907045597,eOTD An Efficient Online Tucker Decomposition for Higher Order Tensors,2018,22,0,4,1.0,2303863390,Houping Xiao,0,0.003708468606338,0.082832279151172
+2904119005,AutoRepair an automatic repairing approach over multi-source data,2019,38,3,5,0.0,2434424098,Chen Ye,0,-0.4416708675149828,0.12374980221890425
+2931245725,PatternFinder Pattern discovery for truth discovery,2019,21,1,4,0.0,2434424098,Chen Ye,0,0.003708468606338,0.082832279151172
+2952144734,Towards the Inference of Travel Purpose with Heterogeneous Urban Data,2019,0,1,1,1.0,2096731881,Jing Gao,0,-0.4892767317539324,-0.321288355679658
+2963486721,Multilabel Consensus Classification,2013,10,4,3,0.72,2106011892,Sihong Xie,0,0.29098143221248507,0.1828057072284334
+2951283029,Multi-source Hierarchical Prediction Consolidation,2016,0,1,4,0.0,2558611428,Chenwei Zhang,0,0.24709207049002063,0.3672038297395776
+2951361729,A Survey on Truth Discovery,2015,72,10,2,1.0,2116094297,Yaliang Li,0,0.07144063082517366,-0.0621471133159297
+3003224597,ACE Adaptively Similarity-Preserved Representation Learning for Individual Treatment Effect Estimation,2019,31,1,5,0.0,2800944540,Liuyi Yao,0,0.003708468606338,0.082832279151172
+2994923354,Incorporating medical code descriptions for diagnosis prediction in healthcare,2019,41,0,7,1.0,2227076362,Fenglong Ma,0,0.0142878421214733,-0.1789215405855477
+3008204052,IProWA A Novel Probabilistic Graphical Model for Crowdsourcing Aggregation,2019,17,0,4,0.0,2898557503,Tianqi Wang,0,0.3830052854979857,0.20197669927835282

@@ -1,0 +1,53 @@
+124941384,AndroidLeaks automatically detecting potential privacy leaks in android applications on a large scale,2012,7,436,4,1.0,2094851635,Clint Gibler,0,-0.3130215675298802,0.5474643266568006
+326768857,Helix A Self-Regenerative Architecture for the Incorruptible Enterprise,2012,0,0,9,0.0,81472127,Anh Nguyen Tuong,0,0.0040557659796233,0.2757546058061082
+1533974647,On the practicality of motion based keystroke inference attack,2012,26,75,2,1.0,2499423927,Liang Cai,0,1.0149259042554164,-0.04990809850904336
+1492437080,Noncespaces Using Randomization to Enforce Information Flow Tracking and Thwart Cross-Site Scripting Attacks,2009,10,132,2,1.0,2107420660,Matthew Van Gundy,0,0.0040557659796233,0.2757546058061082
+1509636246,iPhish phishing vulnerabilities on consumer electronics,2008,7,25,3,0.0,2096728983,Yuan Niu,0,0.0040557659796233,0.2757546058061082
+1446055483,A First Look at Firefox OS Security,2014,18,6,3,0.0,2788438749,Daniel DeFreez,0,-0.7242314995029994,1.828252750149243
+1795772363,WebCallerID Leveraging cellular networks for Web authentication,2011,26,4,2,1.0,2168849086,Francis Hsu,0,-2.485004685398136,-2.107985576514221
+1963892323,Asking for (and about) permissions used by Android apps,2013,11,48,5,1.0,2222788956,Ryan Stevens,0,-0.2154070673491704,0.47169643741498984
+1980941243,Privacy-preserving alibi systems,2012,18,16,2,0.0,2136563548,Benjamin B. Davis,0,1.0153869707544754,0.08407449368544057
+1989161925,OMash enabling secure web mashups via object abstractions,2008,8,53,3,0.0,2973450174,Steven Crites,0,-0.22684964772494434,0.5553590878829306
+2016763420,Exploiting MMS Vulnerabilities to Stealthily Exhaust Mobile Phones Battery,2006,16,106,3,0.0,1920772851,R. Racic,0,0.1639362940477497,0.6530314529854678
+2013383641,Multi-party off-the-record messaging,2009,20,31,4,0.0,2113410603,Ian Goldberg,0,0.2807134095939756,-0.8515031337396886
+2046312985,Noncespaces Using randomization to defeat cross-site scripting attacks,2012,30,40,2,1.0,2107420660,Matthew Van Gundy,0,0.0040557659796233,0.2757546058061082
+2036186500,Using build-integrated static checking to preserve correctness invariants,2004,29,9,1,1.0,2573883204,Hao Chen,0,-1.738805781744933,2.3197307635372026
+2120255160,FIREMAN a toolkit for firewall modeling and analysis,2006,29,346,4,0.0,2195736201,Lihua Yuan,0,1.282929776294752,0.37420329542083813
+2138357890,Back to the Future A Framework for Automatic Malware Removal and System Repair,2006,20,49,2,0.782609,2168849086,Francis Hsu,0,-0.031312508362371906,1.5152031969412032
+2126884772,Opaak using mobile phones to limit anonymous identities online,2012,28,14,3,0.0,1528502074,Gabriel Maganis,0,-0.10065487871952156,0.618245671969941
+2119736157,MOPS an infrastructure for examining security properties of software,2002,16,375,1,1.0,2573883204,Hao Chen,0,-0.22684964772494434,0.5553590878829306
+2131443541,Noise Injection for Search Privacy Protection,2009,26,43,4,0.0,2181482925,Shaozhi Ye,0,0.2057541951962623,1.0497506400632521
+2131522727,Defending against sensor-sniffing attacks on mobile phones,2009,16,76,3,1.0,2499423927,Liang Cai,0,0.0040557659796233,0.2757546058061082
+2134716394,Model checking an entire Linux distribution for security violations,2005,16,52,2,0.0,2487095620,B. Schwarz,0,-0.9620318550164114,1.2794055870568022
+2145352167,Feature Omission Vulnerabilities Thwarting Signature Generation for Polymorphic Worms,2007,13,13,2,0.0,2230299559,M. Van Gundy,0,-0.3801453066255604,-0.02886812022245692
+2294170611,TouchLogger inferring keystrokes on touch screen from smartphone motion,2011,8,283,2,1.0,2499423927,Liang Cai,0,1.4239529057702136,-0.06927359103906221
+2300716044,On the Origin of Mobile Apps Network Provenance for Android Applications,2016,21,2,3,1.0,2222788956,Ryan Stevens,0,-0.3857762024513458,0.3785705487687621
+2296416533,FineDroid Enforcing Permissions with System-Wide Application Execution Context,2015,32,7,4,1.0,2600652429,Yuan Zhang,0,-0.023550276898621297,0.7099097923564667
+2399629598,revDroid Code Analysis of the Side Effects after Dynamic Permission Revocation of Android Apps,2016,28,12,8,0.0,2711357973,Zheran Fang,0,0.27213568032514507,0.4720649298237094
+2463589026,Attack of the Clones Detecting Plagiarism on Android Markets,2011,0,0,3,1.0,206356507,Jonathan Crussell,0,0.0040557659796233,0.2757546058061082
+2444232594,Rethinking Permission Enforcement Mechanism on Mobile Systems,2016,36,11,4,1.0,2600652429,Yuan Zhang,0,-0.023550276898621297,0.7099097923564667
+2553549864,AppCracker Widespread Vulnerabilities in User and Session Authentication in Mobile Apps *,2014,21,8,2,0.0,2549077918,Fangda Cai,0,-0.318837112970254,0.009932993233299955
+2518772410,AndroidLeaks Detecting Privacy Leaks In Android Applications,2011,0,17,2,1.0,2094851635,Clint Gibler,0,0.0040557659796233,0.2757546058061082
+2519249189,Simple Encrypted Arithmetic Library - SEAL v21,2017,38,58,1,1.0,2573883204,Hao Chen,0,0.42206223790253167,-0.7409547711365306
+2618043096,MagNet A Two-Pronged Defense against Adversarial Examples,2017,29,258,2,0.0,2619710598,Dongyu Meng,0,0.3171484069971384,-0.13992525839030945
+2634104981,Camera-Recognizable and Human-Invisible Labelling for Privacy Protection,2016,7,2,4,0.0,2828984990,Dong Li,0,0.06355572761636841,1.3376872984880102
+2625870812,POSTER Security Analysis of Personal Unmanned Aerial Vehicles,2016,3,0,2,0.0,2626042836,Peng Chen,0,0.3446315945625911,-0.09014260604387003
+2766393794,Fast Private Set Intersection from Homomorphic Encryption,2017,46,39,1,1.0,2573883204,Hao Chen,0,0.4278790381486737,-0.2876164919685754
+2766623551,senDroid Auditing Sensor Access in Android System-Wide,2020,27,0,3,0.0,2673798158,Weili Han,0,0.25063412551518144,0.5200216967616379
+2776595268,Evaluating private modes in desktop and mobile browsers and their resistance to fingerprinting,2017,9,2,3,0.0,2777474100,Yuanyi Wu,0,-0.20849172639321703,0.604274447928322
+2794799060,Concretely efficient PIR with compressed queries and probabilistic codes,2018,0,0,4,0.0,2156420086,Sebastian Angel,0,0.0040557659796233,0.2757546058061082
+2883089683,PIR with Compressed Queries and Amortized Query Processing,2018,65,24,2,0.0,2156420086,Sebastian Angel,0,-0.04523746951155013,0.12229874979709954
+2889629344,Labeled PSI from Fully Homomorphic Encryption with Malicious Security,2018,48,10,1,1.0,2573883204,Hao Chen,0,0.09752258775606946,-0.19170531146469497
+2913502225,Setuid Demystified,2002,2,78,1,1.0,2573883204,Hao Chen,0,0.0040557659796233,0.2757546058061082
+2962867198,XONN XNOR-based oblivious deep neural network inference,2019,48,11,3,0.0,2427172160,M. Sadegh Riazi,0,0.0040557659796233,0.2757546058061082
+2945018059,Toward Scalable Fully Homomorphic Encryption Through Light Trusted Computing Assistance,2019,66,1,5,0.0,2664427349,Wenhao Wang,0,0.4004674895972226,-0.8222428762517541
+2952935827,Labeled PSI from Fully Homomorphic Encryption with Malicious Security,2018,0,0,1,1.0,2573883204,Hao Chen,0,0.3751614123488602,-0.705039752176919
+2949311987,MagNet a Two-Pronged Defense against Adversarial Examples,2017,22,102,2,0.0,2619710598,Dongyu Meng,0,0.3171484069971384,-0.13992525839030945
+2985716091,Onion Ring ORAM Efficient Constant Bandwidth Oblivious RAM from (Leveled) TFHE,2019,65,0,1,1.0,2573883204,Hao Chen,0,-0.00693888185748408,-1.2915998140164242
+2964097210,Angora Efficient Fuzzing by Principled Search,2018,25,57,2,1.0,2792702042,Peng Chen,0,0.0040557659796233,0.2757546058061082
+2985896598,Matryoshka Fuzzing deeply nested branches,2019,17,2,3,1.0,2792702042,Peng Chen,0,0.13981217474373742,0.7175569899861202
+2985027001,Informer irregular traffic detection for containerized microservices RPC in the real world,2019,10,1,3,1.0,2783013194,Jiyu Chen,0,0.09825991640281584,0.5269480470210567
+2985527074,Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference,2019,46,5,1,1.0,2573883204,Hao Chen,0,0.7814640595384146,-0.9439483899334018
+3011711787,Explore the Transformation Space for Adversarial Images,2020,17,0,3,1.0,2783013194,Jiyu Chen,0,0.0040557659796233,0.2757546058061082
+3019299620,SANNS Scaling Up Secure Approximate k-Nearest Neighbors Search,2019,0,0,1,1.0,2573883204,Hao Chen,0,0.0040557659796233,0.2757546058061082
+183494281,Attack of the Clones Detecting Cloned Applications on Android Markets,2012,29,197,4,1.0,206356507,Jonathan Crussell,0,0.05940095047987125,0.6960502266457337

@@ -1,0 +1,61 @@
+72059462,Whats Next Index Structures for Efficient Phrase Querying,1999,7,37,2,1.0,2148633737,Hugh E. Williams,0,-0.0041099411153885,0.0447066884760059
+76833607,An e cient indexing technique for full-text database systems,1992,0,67,2,0.0,298046604,Ron Sacks Davis,0,0.16782124802273696,0.2536234597393226
+150214345,Self-Indexing Inverted Files,1994,0,4,2,1.0,2155888323,Alistair Moffat,0,-0.0041099411153885,0.0447066884760059
+167066434,Improved Inverted File Processing for Large Text Databases,1995,0,10,2,1.0,2155888323,Alistair Moffat,0,-1.0199084770362854,2.513984845854494
+134633445,The NU-Prolog Deductive Database System,1987,0,12,7,0.0,123309386,Kotagiri Ramamohanarao,0,1.2093417881871118,0.26507297651154665
+84644106,Storage Management for Files of Dynamic Records,1993,11,19,1,1.0,2019828590,Justin Zobel,0,0.16782124802273696,0.2536234597393226
+1496881388,Space-Limited ranked query evaluation using adaptive pruning,2005,12,38,4,0.0,2113021300,Nicholas Lester,0,-0.0041099411153885,0.0447066884760059
+1514893825,What Does It Mean to &quot;Measure Performance&quot; ,2004,19,19,1,1.0,2019828590,Justin Zobel,0,-0.11322246029111264,0.022907981208262002
+1509167927,Questioning query expansion an examination of behaviour and parameters,2004,36,60,2,1.0,2076708895,Bodo Billerbeck,0,0.0908845357243609,0.31128747720343375
+1509335576,Efficiency of Nested Relational Document Database Systems,1991,19,15,1,1.0,2019828590,Justin Zobel,0,2.064741823803624,0.3644593557049074
+1501322403,Document Compaction for Efficient Query Biased Snippet Generation,2009,18,15,4,0.0,1969593810,Yohannes Tsegay,0,-0.4164353607007019,-0.10408138035894196
+1573431506,An Efficient Indexing Technique for Full Text Databases,1992,23,69,1,1.0,2019828590,Justin Zobel,0,-0.0041099411153885,0.0447066884760059
+1546274087,Compression and fast indexing for multi-gigabyte text databases,1994,0,20,2,1.0,2155888323,Alistair Moffat,0,0.4281021108240028,0.0700869544966745
+1557297797,Database Systems for Structured Documents,1995,0,55,3,0.0,298046604,Ron Sacks Davis,0,1.3384613710459803,-0.026715935299134113
+1521287888,Indexing Nucleotide Databases for Fast Query Evaluation,1996,22,21,2,1.0,2148633737,Hugh E. Williams,0,-0.0041099411153885,0.0447066884760059
+1595401826,A Formal Model for Databases of Structured Text,1995,0,13,2,0.0,2608374974,Brian Lowe,0,-0.0041099411153885,0.0447066884760059
+1876353827,Indexing Techniques for Advanced Database Systems,1997,0,106,5,0.0,717547165,Elisa Bertino,0,-0.37538904668272804,-0.1679513215203286
+1582018061,Querying in a Large Hyperbase,1991,6,16,6,0.0,2293984209,Michael Fuller,0,0.35854283616373017,0.40485630569581943
+1917780124,A comparison of techniques for selecting text collections,2000,11,15,2,0.0,2189720390,James A. Thom,0,-0.07876349969731297,-0.32054026317563195
+1601635497,Distributed text retrieval from overlapping collections,2007,52,7,2,1.0,2072421081,Milad Shokouhi,0,-0.0041099411153885,0.0447066884760059
+1869650270,Compact in-memory models for compression of large text databases,1999,16,3,1,1.0,2019828590,Justin Zobel,0,-0.0041099411153885,0.0447066884760059
+1585576015,Ecient Building and Querying of Asian Language Document Databases,1999,8,0,1,1.0,2019828590,Justin Zobel,0,-0.0041099411153885,0.0447066884760059
+1985274502,The role of compression in document databases,1995,9,0,2,1.0,2155888323,Alistair Moffat,0,-0.0041099411153885,0.0447066884760059
+2004767258,A general-purpose compression scheme for databases,1999,2,6,3,0.0,2617564443,A. Cannane,0,-2.464042042257066,1.0209909959415537
+2006670538,Using Inter-file Similarity to Improve Intra-file Compression,2014,18,2,3,0.0,2482329408,Angelos Molfetas,0,-0.0041099411153885,0.0447066884760059
+1998024002,Accurate discovery of co-derivative documents via duplicate text detection,2006,28,22,2,0.0,1864902963,Yaniv Bernstein,0,-0.03389069059005285,-0.3770141918612792
+1991386782,Guidelines for presentation and comparison of indexing techniques,1996,2,38,1,1.0,2019828590,Justin Zobel,0,-0.0041099411153885,0.0447066884760059
+1997365529,Term-ordered query evaluation versus document-ordered query evaluation for large document databases,1998,8,10,2,1.0,945070464,Marcin Kaszkiel,0,0.0908845357243609,0.31128747720343375
+2001072933,Conceptual schemas applied to deductive databases,1988,14,7,2,0.0,2170480965,Philip W. Dart,0,0.6949087325503537,0.47791768728600165
+2026095310,Efficient passage ranking for document databases,1999,37,85,2,1.0,945070464,Marcin Kaszkiel,0,-0.0041099411153885,0.0447066884760059
+2032351178,Efficient query expansion with auxiliary data structures,2006,42,17,2,1.0,2076708895,Bodo Billerbeck,0,0.0908845357243609,0.31128747720343375
+2054828365,Performance in Practice of String Hashing Functions,1997,5,66,2,0.0,2524782365,M. V. Ramakrishna,0,-0.0041099411153885,0.0447066884760059
+2075576453,Relative Lempel-Ziv factorization for efficient storage and retrieval of web collections,2011,37,28,3,0.0,229794527,Christopher Hoobin,0,-0.0041099411153885,0.0447066884760059
+2073809056,Data compression in full-text retrieval systems,1993,0,62,4,0.909091,2155888323,Alistair Moffat,0,-0.0041099411153885,0.0447066884760059
+2097021191,B-tries for disk-based string management,2009,102,19,2,0.0,292525664,Nikolas Askitis,0,-0.7011295887459091,0.5188583315118618
+2103046707,External sorting with on-the-fly compression,2003,29,3,2,1.0,237968436,John Yiannis,0,-0.0041099411153885,0.0447066884760059
+2090320152,Storing a Collection of Differentially Compressed Files Recursively,2014,8,0,3,0.0,2482329408,Angelos Molfetas,0,-0.42342585076283523,1.2207318465595431
+2092275652,Databases and the silification of health,2008,0,0,1,1.0,2019828590,Justin Zobel,0,-0.0041099411153885,0.0447066884760059
+2105365626,Compression of nucleotide databases for fast searching,1997,15,22,2,1.0,2148633737,Hugh E. Williams,0,0.019379635505639398,0.06872449657233361
+2141897300,Fast ranking in limited space,1994,11,26,1,1.0,2019828590,Justin Zobel,0,1.2093417881871118,0.26507297651154665
+2127400073,Optimised phrase querying and browsing of large text databases,2001,14,11,3,0.0,2973986685,D. Bahle,0,0.0908845357243609,0.31128747720343375
+2113304843,Collection selection for managed distributed document databases,2004,29,25,3,0.0,2146236348,Daryl DSouza,0,-0.11322246029111264,0.022907981208262002
+2140795521,Efficient single-pass index construction for text databases,2003,25,96,2,0.0,2188252209,Steffen Heinz,0,-0.0041099411153885,0.0447066884760059
+2168187352,The case of the duplicate documents measurement search and science,2006,19,11,1,1.0,2019828590,Justin Zobel,0,-0.0041099411153885,0.0447066884760059
+2157008678,Efficient online index construction for text databases,2008,35,41,3,0.0,2950527570,Nicholas Lester,0,-0.0041099411153885,0.0447066884760059
+2172096705,Text compression for dynamic document databases,1997,28,43,2,0.909091,2155888323,Alistair Moffat,0,0.13607381593865167,0.37050781325135307
+2163244343,Compression techniques for fast external sorting,2007,44,13,2,1.0,237968436,John Yiannis,0,0.1715895362437976,-0.23936692894151068
+2154438473,Sample sizes for query probing in uncooperative distributed information retrieval,2006,25,20,3,1.0,2072421081,Milad Shokouhi,0,0.0835119396817451,0.051530138659233005
+2181861110,Scalability in recursively stored delta compressed collections of files,2014,23,0,3,0.0,2482329408,Angelos Molfetas,0,-0.0041099411153885,0.0447066884760059
+2163652601,Inverted files versus signature files for text indexing,1998,38,296,1,1.0,2019828590,Justin Zobel,0,-0.0041099411153885,0.0447066884760059
+2493860774,Supervised Learning for Detection of Duplicates in Genomic Sequence Databases,2016,21,9,2,0.882353,717012417,Karin Verspoor,0,-0.2536103355399138,-0.4338441729354605
+2581240267,Automated Detection of Records in Biological Sequence Databases that are Inconsistent with the Literature,2017,61,1,3,0.0,161286830,Mohamed Reda Bouadjenek,0,-0.18920505731620788,-0.5093766019909381
+2546433077,Duplicates redundancies and inconsistencies in the primary nucleotide databases a descriptive study,2016,57,1,2,0.8,2565219535,Qingyu Chen,0,-0.03389069059005285,-0.3770141918612792
+2579441661,Evaluation of CD-HIT for constructing non-redundant databases,2016,12,7,4,0.8,2565219535,Qingyu Chen,0,-0.0041099411153885,0.0447066884760059
+2546947138,Benchmarks for Measurement of Duplicate Detection Methods in Nucleotide Databases,2016,38,1,2,0.882353,717012417,Karin Verspoor,0,-0.23588299075829963,-0.40213380216881495
+2580489895,Literature Consistency of Bioinformatics Sequence Databases is Effective for Assessing Record Quality,2017,27,0,3,0.0,161286830,Mohamed Reda Bouadjenek,0,-0.32198876610509086,-0.2038331671539402
+2906495448,Search Effectiveness in Nonredundant Sequence Databases Assessments and Solutions,2019,0,0,4,0.857143,2565219535,Qingyu Chen,0,-0.0041099411153885,0.0447066884760059
+2950687658,Automated detection of records in biological sequence databases that are inconsistent with the literature,2017,59,5,3,0.0,161286830,Mohamed Reda Bouadjenek,0,-0.18920505731620788,-0.5093766019909381
+2950859273,Literature Consistency of Bioinformatics Sequence Databases is Effective for Assessing Record Quality,2017,19,5,3,0.0,161286830,Mohamed Reda Bouadjenek,0,-0.32198876610509086,-0.2038331671539402
+2949155040,Duplicates redundancies and inconsistencies in the primary nucleotide databases a descriptive study,2017,62,15,2,0.857143,2565219535,Qingyu Chen,0,-0.03389069059005285,-0.3770141918612792
+2964648167,Benchmarks for measurement of duplicate detection methods in nucleotide databases,2017,32,5,2,0.882353,717012417,Karin Verspoor,0,-0.23588299075829963,-0.40213380216881495

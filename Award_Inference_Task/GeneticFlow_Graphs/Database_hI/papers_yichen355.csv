@@ -1,0 +1,56 @@
+71399738,Indexing Keys in Hierarchical Data,2001,11,5,3,0.0,2097328450,Susan B. Davidson,0,1.4679594549120205,0.12824350162427994
+6979975,Proceedings of the First International Workshop on Keyword Search on Structured Data,2009,0,1,3,0.0,360895095,M. Tamer Ã–zsu,0,0.5232149796678094,-0.042975715699275684
+195590999,Constraints preserving schema mapping from XML to relations,2002,12,15,1,1.0,2620155405,Yi Chen,0,2.8328270494058283,-0.8135759202215084
+145332093,QUIC A System for Handling Imprecision &amp; Incompleteness in Autonomous Databases (Demo),2007,0,9,4,0.67622,1354405940,Subbarao Kambhampati,0,-0.0041099411153885,0.0447066884760059
+27289577,Validating Constraints in XML,2002,15,11,3,0.0,2097328450,Susan B. Davidson,0,1.929586480874964,-0.7112145138580932
+165852420,Efficient xpath query processing on stored and streaming xml data,2005,0,0,2,0.0,2097328450,Susan B. Davidson,0,2.761704375762147,-1.1016043302489962
+774107361,BayesWipe A Scalable Probabilistic Framework for Cleaning BigData,2015,24,1,4,0.6,2119302833,Sushovan De,0,0.27948593901819013,0.21731427241798623
+1496968552,Searching analyzing and exploring databases,2011,1,0,1,1.0,2620155405,Yi Chen,0,0.119739122485096,0.4583397011045227
+1528262605,Scalable Query Optimization for Efficient Data Processing Using MapReduce,2015,13,0,2,1.0,2244059289,Yi Shan,0,0.0908845357243609,0.31128747720343375
+1502594043,Modeling and storing scientific protocols,2006,17,5,2,0.0,23800675,Natalia Kwasnikowska,0,-0.2554006006761083,0.005185177391162952
+1763983764,Bayesian Data Cleaning for Web Data,2012,13,2,3,1.0,2125957116,Yuheng Hu,0,1.5221104813334725,-1.138720529498475
+1865676108,Enabling Privacy in Provenance-Aware Workflow Systems,2011,9,23,5,0.0,2097328450,Susan B. Davidson,0,1.0681563209081988,2.00500913023351
+1970187983,GenerIE Information extraction using database queries,2010,6,0,4,0.0,2308764772,Luis Tari,0,0.119739122485096,0.4583397011045227
+1981339597,PEPX a query-friendly probabilistic XML database,2006,8,18,3,0.0,2158107333,Te Li,0,1.3990402360095846,-0.4996456926071889
+1997856496,A bi-labeling based XPath processing system,2010,39,6,1,1.0,2620155405,Yi Chen,0,1.6957146979735473,-0.6306344705489707
+2006638312,Generating sound workflow views for correct provenance analysis,2011,36,9,3,0.810254,2143636956,Ziyang Liu,0,0.2946713761785912,0.4027268098681643
+2008742021,Keyword search on structured and semi-structured data,2009,60,130,1,1.0,2620155405,Yi Chen,0,0.7215975991611812,0.3052417628859806
+2000125822,WISE A Workflow Information Search Engine,2009,1,42,3,1.0,2637199035,Qihong Shao,0,1.0682922727668624,1.773067721815967
+2001184714,EasyTicket a ticket routing recommendation engine for enterprise problem resolution,2008,5,31,2,1.0,2637199035,Qihong Shao,0,-0.0041099411153885,0.0447066884760059
+2015560174,Answering Keyword Queries on XML Using Materialized Views,2008,5,22,2,0.9,2143636956,Ziyang Liu,0,1.2996572754997309,-0.12086964086282563
+2030474609,Detecting and resolving unsound workflow views for correct provenance analysis,2009,32,19,4,0.928571,2096022707,Peng Sun,0,0.2946713761785912,0.4027268098681643
+2029077957,XSACT a comparison tool for structured search results,2010,5,1,7,0.96,2143636956,Ziyang Liu,0,-0.13521370015284775,-0.12238384797758979
+2048175506,Query processing over incomplete autonomous databases query rewriting using learned data dependencies,2009,47,29,7,1.0,2130177244,Garrett Wolf,0,0.0908845357243609,0.31128747720343375
+2044660360,Return specification inference and result clustering for keyword search on XML,2010,35,25,2,0.96,2143636956,Ziyang Liu,0,0.8061068326649992,-0.12725774898254075
+2056464377,Improving XML search by generating and utilizing informative result snippets,2010,51,11,3,0.96,2143636956,Ziyang Liu,0,1.6249709233520018,-0.6615837115353138
+2069038939,Searching workflows with hierarchical views,2010,34,10,3,0.96,2143636956,Ziyang Liu,0,0.3910261166690816,1.0986712615680383
+2058988540,Differentiating search results on structured data,2012,24,14,2,0.780718,2143636956,Ziyang Liu,0,0.22668162614082651,-0.36536180118113654
+2060779740,TargetSearch A ranking friendly XML keyword search engine,2010,8,7,3,0.96,2143636956,Ziyang Liu,0,0.5586742082380666,-0.1984847101299193
+2096474011,WOLVES achieving correct provenance analysis by detecting and resolving unsound workflow views,2009,4,4,5,0.928571,2096022707,Peng Sun,0,0.2946713761785912,0.4027268098681643
+2102618089,Query biased snippet generation in XML search,2008,19,88,3,1.0,2667749426,Yu Huang,0,2.2348664312990523,-0.8394205673337449
+2088499566,Identifying meaningful return information for XML keyword search,2007,22,251,2,0.9,2143636956,Ziyang Liu,0,1.7251053164788936,-0.7489622033737477
+2098506051,CODS evolving data efficiently and scalably in column oriented databases,2010,6,5,5,0.96,2143636956,Ziyang Liu,0,2.4386201338888593,0.2542531423409144
+2098617306,QPIAD Query Processing over Incomplete Autonomous Databases,2007,23,18,3,1.0,2097877069,Hemal Khatri,0,0.0908845357243609,0.31128747720343375
+2105192650,BLAS an efficient XPath processing system,2004,23,54,1,1.0,2620155405,Yi Chen,0,2.1302527813892462,-0.838173960518428
+2132701924,Keyword-based search and exploration on databases,2011,82,33,1,1.0,2620155405,Yi Chen,0,0.0908845357243609,0.31128747720343375
+2139114892,RRXS redundancy reducing XML storage in relations,2003,19,61,4,0.0,2097328450,Susan B. Davidson,0,1.1862781535070033,-0.16494067892918648
+2121592840,ViteX a streaming XPath processing system,2005,1,9,1,1.0,2620155405,Yi Chen,0,1.735215643419648,-0.5380772580724306
+2143197360,eXtract a snippet generation system for XML search,2008,7,17,3,1.0,2667749426,Yu Huang,0,0.5586742082380666,-0.1984847101299193
+2107628743,Structured search result differentiation,2009,24,71,3,0.96,2143636956,Ziyang Liu,0,0.1789543142832446,-0.20220691316715347
+2147368736,Designing and Evaluating an XPath Dialect for Linguistic Queries,2006,19,45,2,0.0,2120683996,Steven Bird,0,1.231697365091342,-0.2541629790871541
+2147565433,L-Tree a dynamic labeling structure for ordered XML data,2004,17,21,1,1.0,2620155405,Yi Chen,0,2.642087231380251,-1.0176621614641508
+2153948544,Storing and Discovering Critical Workflows from Log in Scientific Exploration,2007,6,1,3,1.0,2637199035,Qihong Shao,0,1.075465245164188,1.2147529989995303
+2172215021,Query expansion based on clustered results,2011,24,33,3,0.810254,2143636956,Ziyang Liu,0,0.0908845357243609,0.31128747720343375
+2169391242,XSeek a semantic XML search engine using keywords,2007,9,59,3,0.9,2143636956,Ziyang Liu,0,2.071639212423343,-0.777447191911913
+2160770893,Query processing over incomplete autonomous databases,2007,52,40,5,1.0,2130177244,Garrett Wolf,0,0.0908845357243609,0.31128747720343375
+2157843210,Content-aware resolution sequence mining for ticket routing,2010,27,20,5,0.928571,2096022707,Peng Sun,0,-0.0041099411153885,0.0447066884760059
+2164326160,Efficient and scalable data evolution with column oriented databases,2011,71,15,4,0.810254,2143636956,Ziyang Liu,0,2.7643726964916704,0.19100487925599768
+2152884923,Approximate Structural Matching over Ordered XML Documents,2007,15,10,3,0.0,2153957209,Nitin Agarwal,0,0.3835079262263412,-0.1265954636195276
+2171037641,An Efficient XPath Query Processor for XML Streams,2006,24,98,1,1.0,2620155405,Yi Chen,0,2.2282660666769463,-0.8396089509763667
+2265922065,Ranking Friendly Result Composition for XML Keyword Search,2015,13,4,4,0.0,2700641206,Ziyang Liu,0,0.014532710543751099,0.030944858938630852
+2403842872,On user views in scientific workflow systems,2009,13,2,2,0.0,2097328450,Susan B. Davidson,0,0.6665041731034329,1.4901896955761065
+2609262547,QUIC Handling query imprecision &amp; data incompleteness in autonomous databases,2007,17,11,7,0.333333,1241982450,Ullas Nambiar,0,0.43739842239757626,0.009947045888208002
+2594763491,Constructing target-aware results for keyword search on knowledge graphs,2017,44,1,3,1.0,2244059289,Yi Shan,0,0.014532710543751099,0.030944858938630852
+2615374738,Personalized Influential Topic Search via Social Network Summarization,2017,3,1,4,0.0,2608401020,Jianxin Li,0,-0.0041099411153885,0.0447066884760059
+2741030326,Handling Imprecision &amp; Incompleteness in Autonomous Databases (Technical Challenge),2006,11,0,6,0.333333,1241982450,Ullas Nambiar,0,0.28789009827090595,0.22726245872767784
+2796126483,Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data,2012,0,6,4,0.0,674992784,K. SelÃ§uk Candan,0,0.06635930819191084,0.49152641060504293

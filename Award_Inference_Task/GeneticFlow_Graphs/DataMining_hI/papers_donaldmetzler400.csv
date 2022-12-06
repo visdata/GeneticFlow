@@ -1,0 +1,50 @@
+58112741,Indri TREC Notebook 2006 Lessons Learned From Three Terabyte Tracks,2006,9,7,1,1.0,2151486164,Donald Metzler,0,0.0597908726731833,-0.2449448024264691
+224439989,Of Ivory and Smurfs Loxodontan MapReduce Experiments for Web Search,2009,17,48,4,0.0,2163619555,Jimmy Lin,0,-0.2539479710030578,-0.06427916846430556
+17373346,Query-Dependent Feature Weighting,2011,25,0,1,1.0,2151486164,Donald Metzler,0,0.003708468606338,0.082832279151172
+1484654248,An Inference Network Approach to Image Retrieval,2004,13,92,1,1.0,2151486164,Donald Metzler,0,-0.01657107088421793,0.035389748403282274
+1502817561,Semi-parametric and Non-parametric Term Weighting for Information Retrieval,2009,24,7,1,1.0,2151486164,Donald Metzler,0,0.003708468606338,0.082832279151172
+1646006088,Similarity measures for short segments of text,2007,31,277,1,1.0,2151486164,Donald Metzler,0,-0.41255149461932344,0.20374099049630157
+1985302498,Search result re-ranking by feedback control adjustment for time-sensitive query,2009,9,33,3,0.0,2089011938,Zhaohui Zheng,0,0.003708468606338,0.082832279151172
+2000431947,A cascade ranking model for efficient ranked retrieval,2011,30,97,3,0.88,2134583074,Lidan Wang,0,0.2353162648138094,0.228350730718198
+1990589796,Linear feature-based models for information retrieval,2007,35,279,1,1.0,2151486164,Donald Metzler,0,0.003708468606338,0.082832279151172
+2027714692,Estimation sensitivity and generalization in parameterized retrieval models,2006,11,10,1,1.0,2151486164,Donald Metzler,0,0.003708468606338,0.082832279151172
+2015441003,Parameterized concept weighting in verbose queries,2011,38,98,2,0.4,2112702096,Michael Bendersky,0,-0.1029618939806145,0.040434369851773004
+2030453903,Generalized inverse document frequency,2008,23,24,1,1.0,2151486164,Donald Metzler,0,-0.26696911874922685,0.05842691939063975
+2044434631,Similarity measures for tracking information flow,2005,19,144,1,1.0,2151486164,Donald Metzler,0,-0.7700663143320864,0.2716591963769157
+2039697429,Using gradient descent to optimize language modeling smoothing parameters,2007,3,15,1,1.0,2151486164,Donald Metzler,0,0.003708468606338,0.082832279151172
+2075501215,Ranking under temporal constraints,2010,26,34,2,1.0,2134583074,Lidan Wang,0,-0.25023896793326905,0.13037718530513653
+2059795946,Cross-corpus relevance projection,2011,3,0,2,0.833333,2103777546,Nima Asadi,0,0.23447002456144056,0.35297506154309793
+2070740689,A Markov random field model for term dependencies,2005,25,717,1,1.0,2151486164,Donald Metzler,0,0.0597908726731833,-0.2449448024264691
+2072609512,The recap system for identifying information flow,2005,1,7,1,1.0,2151486164,Donald Metzler,0,0.003708468606338,0.082832279151172
+2099435855,Indri at TREC 2004 Terabyte Track,2004,15,62,1,1.0,2151486164,Donald Metzler,0,-1.252672621672343,-0.2123608876613554
+2087663869,Combining the language model and inference network approaches to retrieval,2004,18,262,1,1.0,2151486164,Donald Metzler,0,0.2846495506900889,0.05824786423827673
+2099871636,Improving the estimation of relevance models using large external corpora,2006,21,176,2,0.167415,2159093489,Fernando Diaz,0,0.003708468606338,0.082832279151172
+2096346879,Relevance and ranking in online dating systems,2010,27,54,2,0.167415,2159093489,Fernando Diaz,0,0.6243484015088002,-0.15727760661106796
+2120264533,When close enough is good enough approximate positional indexes for efficient ranked retrieval,2011,12,13,3,0.576923,2169236097,Tamer Elsayed,0,0.003708468606338,0.082832279151172
+2117540369,Analysis of Statistical Question Classification for Fact-Based Questions,2005,36,109,1,1.0,2151486164,Donald Metzler,0,0.023234021471793802,-0.06126288389433152
+2109257704,CIIR Experiments for TREC Legal 2007,2007,8,1,2,0.0,2121719377,Howard R. Turtle,0,-0.570421638828266,-0.5224815710316054
+2124108136,Measuring the reusability of test collections,2010,17,19,4,0.0,2645247999,Ben Carterette,0,0.003708468606338,0.082832279151172
+2106421124,Automatic feature selection in the markov random field model for information retrieval,2007,26,52,1,1.0,2151486164,Donald Metzler,0,-0.25023896793326905,0.13037718530513653
+2139201316,Formal multiple-bernoulli models for language modeling,2004,4,47,1,1.0,2151486164,Donald Metzler,0,0.003708468606338,0.082832279151172
+2139273454,Online expansion of rare queries for sponsored search,2009,33,98,5,0.0,1970098533,Andrei Z. Broder,0,-0.11300819442795465,0.09518744858596301
+2124483996,Improved latent concept expansion using hierarchical markov random fields,2010,29,34,2,0.0,2120285716,Hao Lang,0,-0.6153844461595899,-0.038903127558637146
+2124525949,UMass Robust 2005 Using Mixtures of Relevance Models for Query Expansion,2005,2,13,1,1.0,2151486164,Donald Metzler,0,-0.11300819442795465,0.09518744858596301
+2113095271,The anatomy of an ad structured indexing and retrieval for sponsored search,2010,35,11,4,0.4,2112702096,Michael Bendersky,0,-0.13275296294680305,-0.071629888206014
+2116163449,To swing or not to swing learning when (not) to advertise,2008,31,51,6,0.0,1970098533,Andrei Z. Broder,0,0.003708468606338,0.082832279151172
+2119119231,Learning concept importance using a weighted dependence model,2010,34,151,2,0.4,2112702096,Michael Bendersky,0,0.003708468606338,0.082832279151172
+2107370612,Latent concept expansion using markov random fields,2007,28,207,1,1.0,2151486164,Donald Metzler,0,0.06635086646790654,-0.05438071547954846
+2134195052,Learning to efficiently rank,2010,25,67,3,1.0,2134583074,Lidan Wang,0,0.003708468606338,0.082832279151172
+2110837255,A statistical view of binned retrieval models,2008,26,4,1,1.0,2151486164,Donald Metzler,0,-0.1916888409096968,-0.26501256474732954
+2119953525,Beyond bags of words effectively modeling dependence and features in information retrieval,2008,118,25,1,1.0,2151486164,Donald Metzler,0,0.3128742612452231,-0.12100339249148293
+2111313623,Exploiting site-level information to improve web search,2010,16,14,5,0.0,1970098533,Andrei Z. Broder,0,-0.20024368154747138,-3.1757353404667974
+2168588781,Effective query formulation with multiple information sources,2012,45,65,2,0.395564,2112702096,Michael Bendersky,0,-0.01657107088421793,0.035389748403282274
+2159981039,Pseudo test collections for learning web search ranking functions,2011,39,24,2,0.833333,2103777546,Nima Asadi,0,0.003708468606338,0.082832279151172
+2181829939,USC/ISI at TREC 2011 Microblog Track,2011,12,61,1,1.0,2151486164,Donald Metzler,0,-0.16979022994613313,-0.04166869601220428
+2187488439,Using Mixtures of Relevance Models for Query Expansion,2005,2,5,2,0.0,309377350,Trevor Strohman,0,-0.11300819442795465,0.09518744858596301
+2147057843,Building enriched document representations using aggregated anchor text,2009,34,57,1,1.0,2151486164,Donald Metzler,0,-0.1917673211496891,-2.466193213825451
+2188942575,Indri at TREC 2005 Terabyte Track (Notebook Version),2005,16,8,2,0.0,309377350,Trevor Strohman,0,-0.480456776713324,0.030012782559740603
+2304123389,Systems and Methods for Building a Prediction Model to Predict a Degree of Relevance Between Digital Ads and a Search Query or Webpage Content,2008,0,4,6,0.0,344688379,Vanja Josifovski,0,0.003708468606338,0.082832279151172
+2281368814,System for determining and optimizing for relevance in match-making systems,2010,48,17,2,0.0,19633248,Sihem Amer Yahia,0,0.003708468606338,0.082832279151172
+2285738418,Systems and Methods for Predicting a Degree of Relevance Between Digital Ads and a Search Query,2008,5,1,6,0.0,344688379,Vanja Josifovski,0,0.003708468606338,0.082832279151172
+2295908047,UMD and USC/ISI TREC 2010 Web Track Experiments with Ivory,2010,26,7,5,1.0,2169236097,Tamer Elsayed,0,0.003708468606338,0.082832279151172
+2916723970,Indri at TREC 2005 Terabyte Track,2005,16,45,1,1.0,2151486164,Donald Metzler,0,-0.480456776713324,0.030012782559740603

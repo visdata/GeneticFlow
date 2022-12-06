@@ -1,0 +1,95 @@
+53184327,Query Containment Using a DLR ABox,1999,15,16,2,0.0,207588479,Stephan Tobies,0,-0.08250909713058803,0.3997323773182746
+192221291,HermiT A Highly-Efficient OWL Reasoner,2008,15,280,3,1.0,2166218736,Rob Shearer,0,0.6103093223973346,-0.5310451582008453
+125775717,The Energy Management Adviser at EDF,2013,8,10,3,0.0,2280094989,Pierre Chaussecourte,0,1.3524760139811205,-2.7406571730783895
+108693556,Adding Integrity Constraints to OWL,2007,10,52,2,0.75,1384229811,Boris Motik,0,-0.30648445067219304,0.0035704117584501685
+145964988,The ontology-based web inference layer OIL,2000,0,2,3,0.0,333553561,Frank van Harmelen,0,0.34208215495682426,-0.4460170753742258
+63061362,Modeling Ontologies Using OWLâ€š Description Graphs and Rules,2008,8,5,2,0.709011,1384229811,Boris Motik,0,0.1656019551103819,0.40049106199639006
+182170734,The Irresistible SRIQ,2005,15,32,1,1.0,2010142017,Ian Horrocks,0,0.34208215495682426,-0.4460170753742258
+12886010,Introducing Customised Datatypes and Datatype Predicates into OWL,2005,6,1,2,0.782609,2161654796,Jeff Z. Pan,0,0.503885828922096,-1.1039251381514597
+99994344,Conferences Report on the 1998 International Workshop on Description Logics (DL98),1999,0,0,4,0.0,64760803,Peter F. Patel Schneider,0,0.003708468606338,0.082832279151172
+134343336,A Logical Framework for Modular Integration of Ontologies,2006,7,21,1,1.0,2010142017,Ian Horrocks,0,2.5814651867201603,-2.560291417937915
+964687071,Ontology Based Access to Exploration Data at Statoil,2015,34,32,12,0.568464,2037532978,Evgeny Kharlamov,0,0.4230897298527443,-0.8771216209828961
+1497036643,Optimisation of Terminological Reasoning,2000,15,11,1,1.0,2010142017,Ian Horrocks,0,0.003708468606338,0.082832279151172
+1505705829,Deciding semantic matching of stateless services,2006,18,53,4,0.0,2134569599,Duncan Hull,0,0.6889763835563112,-1.658456179435468
+1483205977,BootOX Practical Mapping of RDBs to OWL 2,2015,47,51,4,0.390579,2129252886,Ernesto JimÃ©nez Ruiz,0,0.35093447070619127,-0.9757925462753431
+1501985518,Ontology Integration Using Mappings Towards Getting the Right Logical Consequences,2009,19,93,3,0.571429,2129252886,Ernesto JimÃ©nez Ruiz,0,1.598583492361545,-2.0291846215549154
+1502374275,A little semantic web goes a long way in biology,2005,33,60,3,0.0,1882554364,Katy Wolstencroft,0,0.6021394922594648,-1.3062692075154743
+1604475812,Fuzzy OWL Uncertainty and the Semantic Web,2005,24,161,5,0.260959,170620773,Giorgos Stoilos,0,0.8191122704686098,-2.7636342821325806
+1578109354,Framework for an automated comparison of description logic reasoners,2006,30,51,3,0.0,2333267465,Tom Gardiner,0,1.2860893211706177,-2.1536340092260375
+1756261662,Efficient Query Answering for OWL 2,2009,11,84,1,1.0,2010142017,Ian Horrocks,0,-0.12026301338924388,-0.5727030682540135
+1909618879,Pushing the Boundaries of Tractable Ontology Reasoning,2014,34,7,5,0.642857,2037002504,David Carral,0,1.6652206968191106,-1.8303664805529167
+1579458556,MORe modular combination of OWL reasoners for ontology classification,2012,31,54,3,1.0,2165778084,Ana Armas Romero,0,0.915591986219327,-1.0330227763936444
+1848552438,Metamodeling architecture of web ontology languages,2001,9,58,2,1.0,2161654796,Jeff Z. Pan,0,1.96347239634621,-2.548034631794951
+1849085107,Ontology languages and engineering,2010,0,0,1,1.0,2010142017,Ian Horrocks,0,2.611641800796258,-2.5277890836769683
+1911710854,Complete Query Answering over Horn Ontologies Using a Triple Store,2013,33,17,4,0.0,2293425282,Yujiao Zhou,0,0.5099579620864513,-1.0071250014806
+1591758264,Can OWL and logic programming live together happily ever after,2006,23,122,2,0.75,1384229811,Boris Motik,0,1.617745958204574,-3.489388337580775
+1600735852,Repairing ontologies for incomplete reasoners,2011,23,12,4,0.935275,170620773,Giorgos Stoilos,0,0.9303371867224149,-1.2426327395703856
+1717366613,Optimising ontology classification,2010,13,28,2,0.363636,386712030,Birte Glimm,0,0.11989646384749085,-0.06544948873965492
+1660202170,A semantic infosphere,2003,11,27,9,0.0,2212375566,Michael Uschold,0,0.372411235034899,-0.6707652690974879
+1870380066,Making the most of your triple store query answering in OWL 2 using an RL reasoner,2013,40,30,3,0.0,2293425282,Yujiao Zhou,0,0.6447268002137255,-0.6795763501444462
+1968566744,Scalable ontology-based information systems,2010,8,4,1,1.0,2010142017,Ian Horrocks,0,-0.7001599030378209,0.047108277191899584
+2007562156,Deciding SHOQ^cap Knowledge Base Consistency using Alternating Automata,2008,11,2,2,0.363636,386712030,Birte Glimm,0,0.2411296976350509,0.19514062197806442
+2009788656,Bridging the gap between OWL and relational databases,2009,47,138,2,0.587771,1384229811,Boris Motik,0,-1.6766369398248289,-0.10975215250045157
+2019730838,Delta-reasoner a semantic web reasoner for an intelligent mobile platform,2012,27,40,2,0.420477,1384229811,Boris Motik,0,1.141885369072193,-1.1594167624752307
+2043172605,OptiqueVQS towards an ontology-based visual query system for big data,2013,39,35,6,1.0,2135756881,Ahmet Soylu,0,-0.01657107088421793,0.035389748403282274
+2062828083,The semantic Web and its languages,2000,5,410,3,1.0,236860028,Deborah L. McGuinness,0,0.6731303028792346,-2.7596074171177083
+2103446159,Where Are the Rules,2003,17,18,1,1.0,2010142017,Ian Horrocks,0,1.2673719405971549,-3.299253735346025
+2100864493,Completeness guarantees for incomplete reasoners,2010,17,5,3,0.935275,170620773,Giorgos Stoilos,0,-0.1566582741229224,-0.6712361530660077
+2102308007,Description logic programs combining logic programs with description logic,2003,24,682,2,0.0,2226029092,Benjamin N. Grosof,0,0.3548238559698073,-1.8703714887198484
+2135436167,Publishing the Norwegian Petroleum Directorates FactPages as Semantic Web Data,2013,13,35,3,0.0,2027204202,Martin G. SkjÃ¦veland,0,-0.026631526360356244,-0.8294114335156643
+2139460891,An analysis of empirical testing for modal decision procedures,2000,36,41,1,1.0,2010142017,Ian Horrocks,0,0.003708468606338,0.082832279151172
+2142671985,Chemical knowledge representation with description graphs and logic programming,2011,4,1,3,0.857143,2024897828,Despoina Magka,0,0.9341785285706056,-1.6169880923083997
+2133821701,RDFS(FA) Connecting RDF(S) and OWL DL,2007,47,46,2,0.461538,2161654796,Jeff Z. Pan,0,1.9073402134410418,-3.3391342252149223
+2110782695,Building a bioinformatics ontology using OIL,2002,12,56,3,0.0,2515711392,Robert Stevens,0,2.401686577899719,-2.218239926077197
+2114063134,Enabling knowledge representation on the Web by extending RDF schema,2001,13,48,6,0.0,2105860987,Jeen Broekstra,0,1.8385435666236742,-2.235473422020298
+2143916531,A rule-based ontological framework for the classification of molecules,2014,50,6,3,0.857143,2024897828,Despoina Magka,0,0.9105036864453258,-1.4503347379009515
+2150451032,OIL an ontology infrastructure for the Semantic Web,2001,23,695,3,0.0,2303458062,Dieter Fensel,0,1.0430712691359905,-2.908039190973639
+2162341168,Extending Datatype Support in Web Ontology Reasoning,2002,10,18,2,1.0,2161654796,Jeff Z. Pan,0,1.1794045235760064,-2.549462594017497
+2172201672,Bridging the gap between OWL and relational databases,2007,42,83,2,0.75,1384229811,Boris Motik,0,-0.7290894968044276,-0.17172165744332646
+2163272338,A logical framework for modularity of ontologies,2007,7,130,2,0.807692,2117709049,Bernardo Cuenca Grau,0,2.6067956572248447,-2.5329873027126397
+2160522235,Just the right amount extracting modules from ontologies,2007,16,194,2,0.807692,2117709049,Bernardo Cuenca Grau,0,0.8404462464457156,-1.26342859430976
+2157867633,Supporting concurrent ontology development Framework algorithms and tool,2011,58,56,3,0.0,2282310640,E. JimÃ©nez Ruiz,0,2.5446939277756226,-2.729796354602767
+2167312525,Logicâˆ’based Assessment of the Compatibility of UMLS Ontology Sources,2011,46,53,2,0.0,1997356218,Rafael Berlanga,0,0.44730478273663,-0.6684105400072586
+2188062985,LogMap and LogMapLt results for OAEI 2012,2012,24,12,3,0.764567,2129252886,Ernesto JimÃ©nez Ruiz,0,1.8878094685979079,-1.6631301813808728
+2170610499,OBO and OWL leveraging semantic web technologies for the life sciences,2007,29,40,3,0.0,2917583165,Christine Golbreich,0,1.504678181992624,-2.9847754696648936
+2152888402,OILing the way to machine understandable bioinformatics resources,2002,20,26,3,0.0,2515711392,Robert Stevens,0,1.2782707048478257,-1.7390358189633357
+2164746077,Exploiting Partial Information in Taxonomy Construction,2009,10,15,2,1.0,2166218736,Rob Shearer,0,0.7859072655150028,-0.9210106072616496
+2168169810,A novel approach to ontology classification,2012,35,63,2,0.323244,386712030,Birte Glimm,0,0.9426480248179704,-0.23844985870214627
+2270009002,Answering Queries over OWL Ontologies with SPARQL,2011,7,3,3,0.0,1998821470,Ilianna Kollia,0,0.7472080634078225,-1.9280016668258906
+2233993919,Towards Exploiting Query History for Adaptive Ontology-Based Visual Query Formulation,2014,33,13,6,1.0,2135756881,Ahmet Soylu,0,0.8219164334288978,-1.2071440055177938
+2294131806,RDFox A Highly-Scalable RDF Store,2015,19,48,4,1.0,2093806661,Yavor Nenov,0,0.4088136849714225,-1.1651647040788469
+2278206731,The combined approach to query answering beyond the OWL 2 profiles,2015,18,6,5,1.0,1986491566,Cristina Feier,0,1.2713295322483313,-1.609699547016722
+2296201397,Optique 10 semantic access to big data the case of Norwegian petroleum directorates factpages,2013,3,21,10,0.513779,2037532978,Evgeny Kharlamov,0,0.6411348009355577,-0.4675719345305824
+2401750056,Practical aspects of query rewriting for OWL 2,2009,10,4,1,1.0,2010142017,Ian Horrocks,0,1.2713295322483313,-1.609699547016722
+2402026604,Towards Query Formulation Query-Driven Ontology Extensions in OBDA Systems,2013,11,12,3,0.502097,2117709049,Bernardo Cuenca Grau,0,-0.12739932404198404,-0.8889676549679368
+2405791534,BOOTOX Bootstrapping OWL 2 ontologies and R2RML mappings from Relational Databases,2015,9,7,4,0.390579,2129252886,Ernesto JimÃ©nez Ruiz,0,0.7177179985226496,-1.077972826065346
+2496623095,Towards Analytics Aware Ontology Based Access to Static and Streaming Data (Extended Version),2016,2,3,10,0.568464,2037532978,Evgeny Kharlamov,0,0.03888122064733899,0.02278321387813734
+2443486955,Ontology-Based Integration of Streaming and Static Relational Data with Optique,2016,20,31,12,0.568464,2037532978,Evgeny Kharlamov,0,0.40882574318544146,-1.0708873261720315
+2479998739,Capturing Industrial Information Models with Ontologies and Constraints,2016,35,22,10,0.568464,2037532978,Evgeny Kharlamov,0,0.9306537739518609,-1.551847758843365
+2568126238,Extracting Modules from Ontologies A Logic-based Approach,2007,7,12,2,0.807692,2117709049,Bernardo Cuenca Grau,0,0.8386329776188489,-0.8940826959426625
+2584349149,A semantic approach to polystores,2016,38,11,15,0.568464,2037532978,Evgeny Kharlamov,0,0.627833567648681,-0.812980335341763
+2512490571,Towards Analytics Aware Ontology Based Access to Static and Streaming Data,2016,42,18,10,0.568464,2037532978,Evgeny Kharlamov,0,0.03156613962675455,-0.7570492128179377
+2522602446,Distributed RDF Query Answering with Dynamic Data Exchange,2016,21,13,4,1.0,2399448099,Anthony Potter,0,1.3685818333748305,-2.3767240023899716
+2523288326,Semantic Technologies for Data Analysis in Health Care,2016,9,12,4,0.0,2950090103,Robert Piro,0,1.0910604714723953,-2.6405651477162393
+2619942151,The bag semantics of ontologyâˆ’based data access,2017,19,5,1,1.0,2010142017,Ian Horrocks,0,-0.9731276694643608,0.20438713194851355
+2620074062,Foundations of Declarative Data Analysis Using Limit Datalog Programs,2017,7,0,5,0.857143,2122475223,Mark Kaminski,0,-0.2309579116758897,0.315686825659763
+2768416248,Stream Reasoning in Temporal Datalog,2017,23,0,5,1.0,2770158005,Alessandro Ronca,0,0.8528386974701708,-1.5689660389822355
+2742945005,Entity Comparison in RDF Graphs,2017,24,1,4,1.0,2781802446,Alina Petrova,0,1.9158707999003028,-3.2254498723955116
+2767405066,Semantic Rules for Machine Diagnostics Execution and Management,2017,17,9,7,0.394899,2037532978,Evgeny Kharlamov,0,1.1515973067468908,-2.1468195927869007
+2767877278,SemFacet Making Hard Faceted Search Easier,2017,18,8,6,0.394899,2037532978,Evgeny Kharlamov,0,-0.25910320823797967,0.48299541955972297
+2768114171,Optimised Maintenance of Datalog Materialisations,2017,0,2,3,1.0,2768595599,Pan Hu,0,0.003708468606338,0.082832279151172
+2790705692,Dynamic Data Exchange in Distributed RDF Stores,2018,39,4,4,1.0,2399448099,Anthony Potter,0,0.003708468606338,0.082832279151172
+2912707270,Towards Simplification of Analytical Workflows With Semantics at Siemens (Extended Abstract),2018,30,1,6,0.372156,2037532978,Evgeny Kharlamov,0,0.719883315849191,-0.7741754587914891
+2899960748,Modular Materialisation of Datalog Programs,2018,12,0,3,1.0,2768595599,Pan Hu,0,0.003708468606338,0.082832279151172
+2897449172,Filling Gaps in Industrial Knowledge Graphs via Event-Enhanced Embedding,2018,0,1,7,0.0,2562966357,Martin Ringsquandl,0,0.003708468606338,0.082832279151172
+2951721119,Combining Rewriting and Incremental Materialisation Maintenance for Datalog Programs with Equality,2015,11,6,4,0.399821,1384229811,Boris Motik,0,-2.531391372340255,-0.8659533281866301
+2954683802,Datalog Materialisation in Distributed RDF Stores with Dynamic Data Exchange,2019,17,1,3,0.0,2954473879,Temitope Ajileye,0,0.003708468606338,0.082832279151172
+2948535859,An Efficient Index for RDF Query Containment,2019,74,1,5,0.684211,2952752694,Theofilos Mailis,0,-0.45478335956862603,-0.8239964861213871
+2953046890,The Window Validity Problem in Rule-Based Stream Reasoning,2018,33,1,4,1.0,2770158005,Alessandro Ronca,0,0.4384345540369182,-0.6382612856312272
+2949351135,Ontology Module Extraction via Datalog Reasoning,2014,20,0,4,1.0,2165778084,Ana Armas Romero,0,1.5602316273455812,-1.5135992145218462
+2980472118,Datalog Materialisation in Distributed RDF Stores with Dynamic Data Exchange,2019,22,0,3,0.0,2954473879,Temitope Ajileye,0,0.003708468606338,0.082832279151172
+2970576142,Datalog Reasoning over Compressed RDF Knowledge Bases,2019,16,0,4,1.0,2768595599,Pan Hu,0,0.003708468606338,0.082832279151172
+2980900822,Bag Semantics of DL-Lite with Functionality Axioms,2019,33,1,6,0.0,2737073866,Gianluca Cima,0,-0.6645430281104195,-0.26813245336724767
+2981043377,Query-Based Entity Comparison in Knowledge Graphs Revisited,2019,23,0,4,1.0,2781802446,Alina Petrova,0,-0.17247146562035484,-1.2942790187325894
+2948012237,Learning Semantic Annotations for Tabular Data,2019,19,0,4,0.0,2139881380,Jiaoyan Chen,0,0.2411296976350509,0.19514062197806442
+2982459960,Canonicalizing Knowledge Base Literals,2019,32,0,4,0.0,2139881380,Jiaoyan Chen,0,0.4537692615740389,-0.10782473987249112

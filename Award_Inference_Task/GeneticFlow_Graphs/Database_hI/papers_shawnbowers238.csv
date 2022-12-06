@@ -1,0 +1,48 @@
+154840681,Declarative rules for inferring fine-grained data provenance from scientific workflow execution traces,2012,19,18,1,1.0,2122508644,Shawn Bowers,0,0.43724108954215046,0.7901116284163048
+189207948,Approaches for semantically annotating and discovering scientific observational data,2011,18,4,2,1.0,2123416858,Huiping Cao,0,0.3584803406565204,0.26092204492651666
+22495568,Multi-lingual Semantic Matching with OrdPath in Relational Systems,2007,25,149,2,0.0,2116519607,Juliana Freire,0,1.176820644478128,0.051842402646047926
+79166173,Database support for enabling data-discovery queries over semantically-annotated observational data,2012,20,1,2,1.0,2123416858,Huiping Cao,0,-0.4104708794547513,0.41610975747842216
+80553187,Database support for exploring scientific workflow provenance graphs,2012,23,7,2,1.0,2615279273,Manish Kumar Anand,0,0.55286222937823,0.31831049420983154
+67041390,Incorporating semantics in scientific workflow authoring,2005,5,57,2,0.0,2026297592,Chad Berkley,0,0.6665041731034329,1.4901896955761065
+233048004,Computing Location-Based Lineage from Workflow Specifications to Optimize Provenance Queries,2014,16,1,3,0.314286,2114239043,Saumen Dey,0,0.6665041731034329,1.4901896955761065
+1514289971,Towards automatic generation of semantic types in scientific workflows,2005,14,12,1,1.0,2122508644,Shawn Bowers,0,0.4701680538946624,0.7526452175571507
+1526508038,Actor-oriented design of scientific workflows,2005,17,112,1,1.0,2122508644,Shawn Bowers,0,0.16794019297112284,-0.07550660573803132
+1483326864,The Open Provenance Model (v101),2008,5,38,14,0.0,23800675,Natalia Kwasnikowska,0,-0.0041099411153885,0.0447066884760059
+1518710924,A calculus for propagating semantic annotations through scientific workflow queries,2006,27,26,1,1.0,2122508644,Shawn Bowers,0,0.5086806428409748,0.22713255425500928
+1573128770,Kepler/pPOD Scientific Workflow and Provenance Support for Assembling the Tree of Life,2008,14,50,1,1.0,2122508644,Shawn Bowers,0,0.5114268048975001,1.398924112118133
+1485275407,Exploring Scientific Workflow Provenance Using Hybrid Queries over Nested Data and Lineage Graphs,2009,24,47,2,1.0,2615279273,Manish Kumar Anand,0,0.428637399338428,0.6043020126038704
+1556309875,An Ontology-Driven Framework for Data Transformation in Scientific Workflows,2004,22,120,1,1.0,2122508644,Shawn Bowers,0,0.5569311834746082,-0.0356598035674476
+1574664557,A Conceptual Modeling Framework for Expressing Observational Data Semantics,2008,21,27,1,1.0,2122508644,Shawn Bowers,0,0.22065592733739336,-0.024901037008100535
+1486153198,Superimposed Schematics Introducing E-R Structure for In-Situ Information Selections,2002,13,4,1,1.0,2122508644,Shawn Bowers,0,-0.10357266423002778,0.3992635563634991
+1575598478,Flexible Scientific Workflow Modeling Using Frames Templates and Dynamic Embedding,2008,17,27,2,0.0,2310841419,Anne H. H. Ngu,0,1.0647651815646997,2.007073076399188
+1504026549,Project histories managing data provenance across collection-oriented scientific workflow runs,2007,19,26,1,1.0,2122508644,Shawn Bowers,0,0.8679322465541894,1.1883056250617092
+1579538229,Data procurement for enabling scientific workflows on exploring inter-ant parasitism,2004,8,6,1,1.0,2122508644,Shawn Bowers,0,0.9746122025091651,0.4087957544172404
+1855254770,Collection-Oriented scientific workflows for integrating and analyzing biological data,2006,24,54,2,0.8,2720868360,Timothy M. McPhillips,0,0.4834916689206963,1.0535136235015616
+1592782488,Approaches for Exploring and Querying Scientific Workflow Provenance Graphs,2010,17,7,2,1.0,2615279273,Manish Kumar Anand,0,0.27764364614758763,0.5591421111564561
+1785355888,A model for user-oriented data provenance in pipelined scientific workflows,2006,24,90,1,1.0,2122508644,Shawn Bowers,0,0.22158963759940864,0.31908569023588573
+1983714155,An approach for pipelining nested collections in scientific workflows,2005,14,47,2,0.8,2720868360,Timothy M. McPhillips,0,0.7728500676256039,1.3861289013922649
+1972743486,Efficient provenance storage over nested data collections,2009,40,61,2,1.0,2615279273,Manish Kumar Anand,0,0.5296158672655169,0.9469518625182892
+1996599304,Scientific workflow design with data assembly lines,2009,34,21,2,0.8,2466730297,Daniel Zinn,0,1.4909944687835686,0.8874872245163676
+2016488143,Linking multiple workflow provenance traces for interoperable collaborative science,2010,16,27,5,0.0,1988531382,Ilkay Altintas,0,0.7851953996772681,1.1995393447365412
+2047088868,Scientific Workflow Provenance and Data Modeling Challenges and Approaches,2012,74,23,1,1.0,2122508644,Shawn Bowers,0,0.3010453572825758,0.042659125274330634
+2043871269,A navigation model for exploring scientific workflow provenance graphs,2009,31,14,2,1.0,2615279273,Manish Kumar Anand,0,0.229731451809878,0.8981906141501537
+2050483444,Techniques for efficiently querying scientific workflow provenance graphs,2010,29,63,2,1.0,2615279273,Manish Kumar Anand,0,-0.14214593158357536,0.4052088970922569
+2072243248,Using the uni-level description (ULD) to support data-model interoperability,2006,31,12,1,1.0,2122508644,Shawn Bowers,0,0.3245925698214637,-0.03596091483727291
+2072303404,XML-based computation for scientific workflows,2010,4,7,2,0.8,2466730297,Daniel Zinn,0,-0.01759707941373736,0.7988932106173781
+2090166250,Provenance browser Displaying and querying scientific workflow provenance graphs,2010,11,32,2,1.0,2615279273,Manish Kumar Anand,0,0.04065519914566912,0.23942870341150768
+2105660800,Approaches for Implementing Persistent Queues within Data-Intensive Scientific Workflows,2011,21,2,2,0.0,315846273,Michael Agun,0,0.7336274668824454,1.266737723462283
+2124367733,Superimposed applications using SPARCE,2004,1,8,3,0.0,2170605079,Sudarshan Murthy,0,-0.24803037608303913,0.19132602628729
+2124944069,X-CSR Dataflow Optimization for Distributed XML Process Pipelines,2009,35,8,2,0.8,2466730297,Daniel Zinn,0,1.6339273750574808,-0.6401504364249582
+2134441603,Towards best-effort merge of taxonomically organized data,2010,12,4,2,0.0,1961842650,David Thau,0,0.14451691760909147,0.03916598911296054
+2131780143,Scientific workflow design 20 Demonstrating streaming data collections in Kepler,2011,11,23,6,0.0,2125675828,Lei Dou,0,0.8676882033553999,1.5722180542379618
+2159394607,Parallelizing XML data-streaming workflows via MapReduce,2010,51,27,2,0.8,2466730297,Daniel Zinn,0,1.2542116886827501,-0.37417203869319876
+2147572964,Provenance in collection-oriented scientific workflows,2008,9,54,1,1.0,2122508644,Shawn Bowers,0,0.69707551933722,1.8297958138375416
+2150656025,Enabling ScientificWorkflow Reuse through Structured Composition of Dataflow and Control-Flow,2006,29,67,1,1.0,2122508644,Shawn Bowers,0,-0.11480508743103986,0.3051085729721401
+2172163190,Bundles in captivity an application of superimposed information,2001,18,47,3,0.0,169157075,Lois Delcambre,0,0.2520573881094081,-0.15163486341704896
+2145637347,On integrating scientific resources through semantic registration,2004,5,33,1,1.0,2122508644,Shawn Bowers,0,0.2209888645196941,0.19722902440435405
+2153115167,Towards a Generic Framework for Semantic Registration of Scientific Data,2003,5,10,1,1.0,2122508644,Shawn Bowers,0,-0.713508075138274,-0.9198118085477435
+2221828014,Improving Workflow Design Using Abstract Provenance Graphs,2014,10,0,3,0.0,2147980784,Tianhong Song,0,1.0171666831364772,1.7084010741382796
+2218044763,Provenance for Explaining Taxonomy Alignments,2014,9,5,5,0.0,2475642829,Mingmin Chen,0,-0.0041099411153885,0.0447066884760059
+2405574235,Protege Extensions for Scientist-Oriented Modeling of Observation and Measurement Semantics,2011,7,2,2,0.0,2704426013,Wesley Saunders,0,-0.9187474338397454,0.569988513948818
+2583126405,Actor-oriented design of scientific workflows,2005,0,7,1,1.0,2122508644,Shawn Bowers,0,0.16794019297112284,-0.07550660573803132
+2126778319,Understanding collaborative studies through interoperable workflow provenance,2010,30,20,5,0.0,1988531382,Ilkay Altintas,0,0.9022751261179203,1.376973950838649

@@ -1,0 +1,92 @@
+144321000,Flexible storage of XML collections within an object-relational database,2005,123,15,3,0.22672,202245023,Eric Sedlar,0,2.370448190624531,-0.03819082298276097
+965814633,Technique For Compressing XML Indexes,2010,62,12,1,1.0,2122783418,Nipun Agarwal,0,2.6276503351405465,-1.0183082581981682
+315314423,ESTIMATING A COST OF PERFORMING DATABASE OPERATIONS USING VECTORIZED INSTRUCTIONS,2013,15,3,1,1.0,2122783418,Nipun Agarwal,0,0.15593079335454127,0.341792436431354
+946528373,Client processing for binary XML in a database system,2006,40,8,2,0.135377,2096174866,Ravi Murthy,0,2.6421215374887588,-1.0106451381369506
+998171480,Mechanism for abridged indexes over XML document collections,2006,83,11,2,0.135377,2096174866,Ravi Murthy,0,1.8450482199660954,-0.7957330208592545
+1522916622,Efficient implementation of multiple work areas in a file system like repository that supports file versioning,2005,32,22,4,0.22672,202245023,Eric Sedlar,0,-0.5343739698986858,1.612739352177129
+1551086196,TECHNIQUES FOR FAST AND SCALABLE XML GENERATION AND AGGREGATION OVER BINARY XML,2010,14,16,1,1.0,2122783418,Nipun Agarwal,0,2.36137657396215,-0.9316838356491558
+1498541158,Efficient update of binary XML content in a database system,2007,46,22,2,1.0,1436066196,Vijay Medi,0,2.2264543832113666,-0.864750789273662
+1499444156,Operationally complete hierarchical repository in a relational database,2011,13,14,1,1.0,2122783418,Nipun Agarwal,0,-0.3272577125965312,0.8549260983457556
+1561911801,Mechanism for sharing ancillary data between a family of related functions,1999,13,6,2,0.0,2096174866,Ravi Murthy,0,-0.34857978327751216,-0.2513987233039086
+1526552786,Method and system for optimizing row level security in database systems,2008,5,9,4,1.0,1977314037,Vikram Kapoor,0,-0.0041099411153885,0.0447066884760059
+1483381490,Efficient migration of binary XML across databases,2006,139,22,3,1.0,198300332,Sabina Petride,0,2.2264543832113666,-0.864750789273662
+1573265350,Techniques For Efficient Queries On A File System-Like Repository,2009,7,2,2,0.853659,1584125594,Asha Tarachandani,0,0.3463365539122579,-0.09479800772669975
+1537564914,Efficient file access in a large repository using a two-level cache,2012,11,13,2,1.0,198300332,Sabina Petride,0,-0.0041099411153885,0.0447066884760059
+1502290580,Combining streaming and navigation for evaluating XML queries,2007,4,10,2,1.0,2105664545,Thomas Baby,0,2.2499305797205924,-0.844902428208157
+1575735641,Method and mechanism for supporting virtual content in performing file operations at a RDBMS,2005,101,9,4,1.0,1977314037,Vikram Kapoor,0,-0.5376830935688297,2.003154990489834
+1794308432,Techniques for transaction semantics for a database server performing file operations,2004,96,23,3,0.588925,202245023,Eric Sedlar,0,0.028681627061481474,0.282075478274118
+1794606452,Hybrid Binary XML Storage Model For Efficient XML Processing,2010,329,13,2,0.0,50281175,Balasubramanyam Sthanikam,0,2.3848527704713764,-0.911835474583651
+1795553865,High performance secure caching in the mid-tier,2008,118,5,8,0.268854,202245023,Eric Sedlar,0,-0.17244133864042968,-0.305030520451871
+1930476151,Generating a schema-specific load structure to load data into a relational database based on determining whether the schema-specific load structure already exists,2003,124,11,2,0.19046,2096174866,Ravi Murthy,0,1.9073761425005105,0.2680777657741253
+1577612389,Management of complex XML schemas in a database system,2006,6,3,3,0.135377,2096174866,Ravi Murthy,0,3.2068700183247794,-0.43908889994461764
+1749356136,Method and system for flexible sectioning of XML data in a database system,2005,94,62,5,1.0,186316197,Ashish Thusoo,0,1.8855985366475427,-0.13403974015189257
+1841517230,Isolation for applications working on shared XML data,2013,180,2,4,0.320123,202245023,Eric Sedlar,0,2.6652794127964015,-0.9810572393509988
+1879303575,Sharing state information among a plurality of file operation servers,2005,92,17,4,0.22672,202245023,Eric Sedlar,0,-1.4777831680881015,-0.8727675370183897
+1879889671,Efficient partitioning technique while managing large XML documents,2007,146,8,1,1.0,2122783418,Nipun Agarwal,0,2.0635627948944832,-0.7436477665020587
+1882203585,LEVERAGING XML CAPABILITIES OF A DATABASE TO ENHANCE HANDLING OF DOCUMENT DATA,2009,16,5,1,1.0,2122783418,Nipun Agarwal,0,3.3323250697196634,-1.2334849901927738
+1884466543,Efficient loading of data into a relational database,2003,22,13,2,0.19046,2096174866,Ravi Murthy,0,2.361202350380852,0.15018045556674336
+1813074572,Techniques for providing locks for file operations in a database management system,2004,79,15,4,0.588925,202245023,Eric Sedlar,0,-0.7128084325267358,2.306945158654144
+1938422805,Transactional framework for executing statements involving non-native code,1999,6,19,3,0.0,2059061867,Seema Sundara,0,0.8315666535521337,0.8995150721517136
+1580865266,Efficient Validation Of Binary XML Data,2010,129,6,2,1.0,1436066196,Vijay Medi,0,2.345611589239497,-0.9455255669044867
+1765996881,Efficient queriability of version histories in a repository,2006,160,37,3,0.159154,202245023,Eric Sedlar,0,-0.4164353607007019,-0.10408138035894196
+1817831659,Efficient extraction of XML content stored in a LOB,2005,89,61,5,1.0,186316197,Ashish Thusoo,0,2.7831829643936685,-1.0132844876806744
+1942430676,Mechanisms for storing content and properties of hierarchically organized resources,2002,62,68,3,0.874646,202245023,Eric Sedlar,0,0.5896739511924775,-0.33103679217485843
+1916873869,Mechanism for mapping XML schemas to object-relational database systems,2002,70,369,4,0.874646,202245023,Eric Sedlar,0,2.5046215027681518,-0.9515267357414251
+1918831814,Optimizing correlated XML extracts,2005,364,9,4,0.22672,202245023,Eric Sedlar,0,2.128401277888547,-0.7806084144180527
+1860254516,Supporting ancillary values from user defined functions in Oracle,2003,11,3,5,0.19046,2096174866,Ravi Murthy,0,0.3940167471356948,0.034682616096902104
+1946293477,Comprehensive framework to integrate business logic into a repository,2004,172,6,4,0.588925,202245023,Eric Sedlar,0,0.10365990635268832,0.24559955050121438
+1779208579,Techniques for scalably accessing data in an arbitrarily large document by a device with limited resources,2002,32,57,3,0.874646,202245023,Eric Sedlar,0,0.5586742082380666,-0.1984847101299193
+1896703187,Index maintenance for operations involving indexed xml data,2008,204,36,4,1.0,186316197,Ashish Thusoo,0,2.3719811590732665,-0.9176930458069982
+1948329976,Systems and methods for managing partitioned indexes that are created and maintained by user-defined indexing schemes,2002,46,42,2,1.0,2059061867,Seema Sundara,0,0.12446922487222774,0.4526346592524689
+1897975632,Direct loading of semistructured data,2003,81,48,2,0.19046,2096174866,Ravi Murthy,0,0.3668441227679524,-0.1834710224579062
+1865705435,Mechanism for uniform access control in a database system,2002,68,55,3,0.874646,202245023,Eric Sedlar,0,-0.10545622004566765,0.2301479468393619
+1866590543,Processing path-based database operations,2004,171,12,3,0.588925,202245023,Eric Sedlar,0,-0.4158634060287807,0.4835248812370578
+1924882904,Extensible indexing a framework for integrating domain-specific indexing schemes into Oracle8i,2000,5,51,4,0.0,2627290768,Jagannathan Srinivasan,0,0.7332210539155509,0.12545716698792225
+1869854669,Techniques for performing file operations involving a link at a database management system,2005,101,10,5,0.22672,202245023,Eric Sedlar,0,-0.8188026787132945,2.5022281251616065
+1981097903,Towards an enterprise XML architecture,2005,4,44,9,0.092366,2096174866,Ravi Murthy,0,2.3719811590732665,-0.9176930458069982
+2103486194,Flexible handling of datetime XML datatype in a database system,2005,119,10,3,0.22672,202245023,Eric Sedlar,0,2.391386134340213,-0.7870386408006073
+2096308935,Cost-based optimizer for an XML data repository within a database,2004,346,28,3,0.588925,202245023,Eric Sedlar,0,2.1349284696425577,-0.6751064239329508
+2117739350,Binary XML storage and query processing in Oracle 11g,2009,22,10,2,0.0,2763795170,Ning Zhang,0,2.2264543832113666,-0.864750789273662
+2113223230,Mechanism for computing structural summaries of XML document collections in a database system,2005,98,17,3,0.22672,202245023,Eric Sedlar,0,3.0425266661100707,-1.1502487511506514
+2110486662,Infrastructure for performing file operations by a database server,2004,99,21,3,0.588925,202245023,Eric Sedlar,0,-1.1407860531264196,3.3423595335927025
+2147787965,Technique to estimate the cost of streaming evaluation of XPaths,2007,352,12,2,0.123045,2096174866,Ravi Murthy,0,0.7667016152637368,-0.4667539040042576
+2159790971,Mechanism for efficient maintenance of XML index structures in a database system,2005,145,14,3,0.22672,202245023,Eric Sedlar,0,1.6249709233520018,-0.6615837115353138
+2151465180,Method and mechanism for loading XML documents into memory,2005,196,10,2,0.092366,2096174866,Ravi Murthy,0,1.5994187847074424,-0.4599717745020377
+2157603657,Efficient support for workspace-local queries in a repository that supports file versioning,2005,35,8,4,0.22672,202245023,Eric Sedlar,0,-0.6749106349140835,1.5158523869609797
+2151920798,Index for accessing xml data,2004,101,106,5,1.0,186316197,Ashish Thusoo,0,2.359604457566749,-0.8757711379854968
+2158273316,Developing an Indexing Scheme for XML Document Collection using the Oracle8i Extensibility Framework,2001,5,2,4,1.0,2059061867,Seema Sundara,0,2.695906120365007,-0.9062916071749169
+2219439767,Method and mechanism for efficient storage and query of xml documents based on paths,2004,43,79,3,0.588925,202245023,Eric Sedlar,0,2.5048349343683918,-0.9756256283167938
+2261966492,Indexing to efficiently manage versioned data in a database system,2002,78,28,3,0.874646,202245023,Eric Sedlar,0,-0.3652008450463068,0.3160971441695779
+2210552087,Method and mechanism for efficient access to nodes in XML data,2003,26,11,3,0.874646,202245023,Eric Sedlar,0,1.982148460669378,-0.654966695921843
+2211017102,Techniques for increasing efficiency while servicing requests for database services,2002,8,41,3,0.874646,202245023,Eric Sedlar,0,2.469421970066305,0.7212870056640169
+2220286166,Method and system of handling document operation requests on documents having large collections with constrained memory,2003,19,3,4,0.75,186316197,Ashish Thusoo,0,0.7039556332340853,-0.8990503297634455
+2211903376,Mechanism for improving performance on XML over XML data using path subsetting,2006,200,19,4,0.159154,202245023,Eric Sedlar,0,2.662071320147693,-0.984016222014174
+2221656032,Performing cost-based optimizations of authorization checks in database systems,2008,23,5,1,1.0,2122783418,Nipun Agarwal,0,0.7329243417691371,0.07363316411918748
+2204409509,ESTIMATING THE COST OF XML OPERATORS FOR BINARY XML STORAGE,2008,29,18,1,1.0,2122783418,Nipun Agarwal,0,1.8493769805388844,-0.6889862904443823
+2268491099,Efficient mechanism to support user defined resource metadata in a database repository,2004,41,8,3,0.588925,202245023,Eric Sedlar,0,0.664371664273959,-0.07005325095498706
+2259340185,Efficient pushdown of joins in a heterogeneous database system involving a large-scale low-power cluster,2014,60,7,2,0.305983,202245023,Eric Sedlar,0,2.061520160077649,0.4684573732242592
+2204627048,Techniques for maintaining consistency for different requestors of files in a database management system,2004,84,23,4,0.588925,202245023,Eric Sedlar,0,1.2094227353982505,0.35395328291823036
+2231285779,Method and mechanism for extending native optimization in a database system,2002,19,66,2,0.349177,2096174866,Ravi Murthy,0,2.3285692349710727,0.5147782564143359
+2215448634,Efficient mechanism for managing hierarchical relationships in a relational database system,2007,35,5,3,0.0,1971906594,Muralidhar Krishnaprasad,0,1.6532366659347706,0.2358376091579233
+2224337439,Method and mechanism for database statement optimization,1999,15,41,1,1.0,2122783418,Nipun Agarwal,0,-0.8111052405828644,0.8913388803529055
+2215876754,Technique For Using Occurrence Constraints To Optimize XML Index Access,2008,51,8,2,1.0,1584125594,Asha Tarachandani,0,2.2264543832113666,-0.864750789273662
+2260428002,Label-aware index for efficient queries in a versioning system,2005,34,8,3,0.22672,202245023,Eric Sedlar,0,-0.0041099411153885,0.0447066884760059
+2207719356,Query modes for translation-enabled XML documents,2007,9,5,2,0.123045,2096174866,Ravi Murthy,0,1.412640630852181,-0.41641332473243137
+2250130521,Document level indexes for efficient processing in multiple tiers of a computer system,2005,74,23,3,0.22672,202245023,Eric Sedlar,0,2.781259069169755,-1.055734927197198
+2285382915,Label-aware B-tree-like index for efficient queries in a versioning system,2005,32,7,3,0.22672,202245023,Eric Sedlar,0,0.07990222934621705,0.430503982801384
+2308663720,Efficient processing of path related operations on data organized hierarchically in an RDBMS,2006,139,12,1,1.0,2122783418,Nipun Agarwal,0,1.204501787921431,0.29860165833699415
+2300717089,Parallel population of an XML index,2006,5,20,2,0.135377,2096174866,Ravi Murthy,0,1.6131628058924097,-0.6315842857171129
+2282658442,Utilizing Path IDs For Name And Namespace Searches,2008,12,3,2,1.0,1584125594,Asha Tarachandani,0,1.3316378696622808,-0.39154118020365836
+2338390365,Managing and Processing Office Documents in Oracle XML Database,2011,5,2,2,0.846004,1584125594,Asha Tarachandani,0,2.3485049625640406,-0.9375414068725034
+2406627068,A method and system for compressing xml documents,2011,7,2,1,1.0,2122783418,Nipun Agarwal,0,2.2133626043176937,-0.8032512591340901
+2399295635,FAST PATH LOADING OF XML DATA,2007,11,6,3,1.0,198300332,Sabina Petride,0,2.6421215374887588,-1.0106451381369506
+2405493546,In-place evolution of xml schemas in databases,2004,6,1,2,0.0874095,2096174866,Ravi Murthy,0,2.6374380482510933,-1.0070949104699498
+2398224173,Scalable access to data in an arbitrarily large document,2003,4,2,3,0.874646,202245023,Eric Sedlar,0,0.5214353844619418,-0.2877630681093626
+2593936576,Handling document operation requests on documents having large collections with constrained memory,2004,0,0,4,1.0,186316197,Ashish Thusoo,0,0.7039556332340853,-0.8990503297634455
+2599112656,Skalierbarer datenzugang in einem beliebig grossen dokument Scalable data access in an arbitrarily large document,2003,0,0,3,0.874646,202245023,Eric Sedlar,0,0.221423897897152,-0.21080654779612165
+2771137999,PERFORMING DATABASE OPERATIONS USING A VECTORIZED APPROACH OR A NON-VECTORIZED APPROACH,2017,0,0,1,1.0,2122783418,Nipun Agarwal,0,0.15593079335454127,0.341792436431354
+2755802200,Big Data Processing Scalability with Extreme Single-Node Performance,2017,25,0,9,0.0,2116954331,Venkatraman Govindaraju,0,0.5621591217488041,0.31485981866509555
+2798629639,RAPID In-Memory Analytical Query Processing Engine with Extreme Performance per Watt,2018,37,1,14,0.0,1969408926,Cagri Balkesen,0,-0.017195073610299864,-0.23273144811565244
+2782416242,Method for extending native optimization in a database system,2000,7,2,2,0.428571,2096174866,Ravi Murthy,0,-0.0041099411153885,0.0447066884760059
+2849390911,Method for loading xml documents into memory,2011,0,0,2,0.206085,2096174866,Ravi Murthy,0,0.5586742082380666,-0.1984847101299193
+2866187052,In-place evolution of XML mode in database,2006,0,1,2,0.135377,2096174866,Ravi Murthy,0,0.6644345682845041,-0.3499393573214006

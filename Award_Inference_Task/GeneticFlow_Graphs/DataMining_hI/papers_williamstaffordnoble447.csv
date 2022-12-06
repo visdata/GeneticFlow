@@ -1,0 +1,62 @@
+206938082,A practically efficient graph-theoretic approach to protein identification in mass spectrometry,2011,0,0,1,1.0,2128170596,William Stafford Noble,0,0.003708468606338,0.082832279151172
+22864546,Learning peptide-spectrum alignment models for tandem mass spectrometry,2014,20,5,3,1.0,2109134754,John T. Halloran,0,-0.946449591760713,-0.3051740117142014
+8010423,Classification of genes using probabilistic models of microarray expression profiles,2001,20,6,3,0.0,2007165638,Paul Pavlidis,0,0.003708468606338,0.082832279151172
+1447495996,Improving the Comprehensiveness of Large-Scale Proteomics Experiments Using Advanced Computational Tools and Accurate Multiple Hypothesis Testing Statistics,2011,0,0,4,0.0,1905529643,Jarrett D. Egertson,0,0.003708468606338,0.082832279151172
+1670802104,Spectrum Identification using a Dynamic Bayesian Network Model of Tandem Mass Spectra,2012,21,2,5,0.0,2398784594,Ajit P. Singh,0,-0.946449591760713,-0.3051740117142014
+1973333402,Crux rapid open source protein tandem mass spectrometry analysis,2014,22,57,9,0.71748,225344218,Attila KertÃ©sz Farkas,0,0.21438872843298346,-0.1353423822296997
+1984450835,Improvements to the Percolator Algorithm for Peptide Identification from Shotgun Proteomics Data Sets,2009,27,157,3,0.0,712415982,LÃ©on Bottou,0,0.21438872843298346,-0.1353423822296997
+2031016692,Statistical Calibration of the SEQUEST XCorr Function,2009,24,46,2,1.0,1135552249,Aaron A. Klammer,0,0.003708468606338,0.082832279151172
+2102540368,Computing Exact p-values for a Cross-correlation Shotgun Proteomics Score Function,2014,24,32,2,1.0,2059625108,J. Jeffry Howbert,0,0.21438872843298346,-0.1353423822296997
+2096748155,RANKPROP a web server for protein remote homology detection,2009,4,21,4,0.0,1856923607,Iain Melvin,0,0.003708468606338,0.082832279151172
+2087801207,Constructing Structural Profiles for Protein Torsion Angle Prediction,2015,0,4,3,0.0,2739040474,Zafer Aydin,0,0.003708468606338,0.082832279151172
+2091582418,Ranking predicted protein structures with support vector regression,2007,37,74,2,0.0,2069261384,William Sheffler,0,0.21438872843298346,-0.1353423822296997
+2100768052,A review of statistical methods for protein identification using tandem mass spectrometry,2012,37,42,1,1.0,2128170596,William Stafford Noble,0,0.003708468606338,0.082832279151172
+2095791120,Epigenetic priors for identifying active transcription factor binding sites,2012,29,82,5,0.0,1986779323,Gabriel Cuellar Partida,0,-0.1908094651786742,0.41037779126763796
+2120401481,Identifying remote protein homologs by network propagation,2005,36,26,4,0.785714,2020289842,Christina S. Leslie,0,0.003708468606338,0.082832279151172
+2117730732,A structural alignment kernel for protein structures,2007,27,47,5,0.0,2301570787,Jian Qiu,0,0.43162625009792,0.20195636031746017
+2129922540,Support vector machine learning from heterogeneous data an empirical analysis using protein sequence and structure,2006,33,78,3,1.0,2169004664,Darrin P. Lewis,0,-0.19807226716437015,0.4297922701589884
+2133075481,Protein ranking from local to global structure in the protein similarity network,2004,23,113,4,0.0,301283286,AndrÃ© Elisseeff,0,0.003708468606338,0.082832279151172
+2109831613,Support vector machine classification on the web,2004,20,89,3,1.0,2007165638,Paul Pavlidis,0,0.5726030104492722,-0.5888520778559124
+2127637605,Learning to predict proteinâ€“protein interactions from protein sequences,2003,28,147,1,1.0,2128170596,William Stafford Noble,0,0.003708468606338,0.082832279151172
+2119190889,Modeling peptide fragmentation with dynamic Bayesian networks for peptide identification,2008,35,47,5,1.0,1135552249,Aaron A. Klammer,0,-0.946449591760713,-0.3051740117142014
+2110544411,Kernel hierarchical gene clustering from microarray expression data,2003,25,51,3,0.0,2672961907,Jie Qin,0,-0.7940923953435419,2.7027400316232653
+2140952049,FIMO scanning for occurrences of a given motif,2011,8,1547,3,1.0,2103997193,Charles E. Grant,0,0.003708468606338,0.082832279151172
+2171611704,Support vector machine software,2005,1,0,1,1.0,2128170596,William Stafford Noble,0,0.37474364481790495,1.6249876296017824
+2147698768,Assigning significance to peptides identified by tandem mass spectrometry using decoy databases,2008,34,397,3,1.0,2031682453,Lukas KÃ¤ll,0,0.003708468606338,0.082832279151172
+2162587106,Unsupervised segmentation of continuous genomic data,2007,7,83,5,0.0,2436793984,Nathan Day,0,0.003708468606338,0.082832279151172
+2144724079,Matrix2png a utility for visualizing matrix data,2003,5,294,2,0.0,2007165638,Paul Pavlidis,0,0.21438872843298346,-0.1353423822296997
+2148032724,Improved similarity scores for comparing motifs,2011,17,37,4,0.0,3020019456,Emi Tanaka,0,-0.06868386095689515,0.24205629126618533
+2157389086,Genomic data visualization on the Web,2004,3,12,2,0.0,2693425371,Wei Wu,0,0.2738392658714293,0.5638233317223077
+2164025376,Transmembrane topology and signal peptide prediction using dynamic bayesian networks,2008,42,171,5,0.0,2047213729,Sheila M. Reynolds,0,-0.946449591760713,-0.3051740117142014
+2161403045,The Genomedata format for storing large-scale functional genomics data,2010,8,15,3,0.0,2394605266,Michael M. Hoffman,0,-0.24402219075768336,0.10419810321463124
+2161444669,A statistical framework for genomic data fusion,2004,34,573,5,0.0,60139091,Gert R. G. Lanckriet,0,-0.1908094651786742,0.41037779126763796
+2206131058,MCAST scanning for cis-regulatory motif clusters,2016,6,4,4,1.0,2103997193,Charles E. Grant,0,0.003708468606338,0.082832279151172
+2320119651,On the importance of well-calibrated scores for identifying shotgun proteomics spectra,2015,32,13,2,0.441057,324180884,Uri Keich,0,0.003708468606338,0.082832279151172
+2337896928,Template Scoring Methods for Protein Torsion Angle Prediction,2015,28,2,3,0.0,2739040474,Zafer Aydin,0,-0.12019565152740119,1.3988618538440736
+2463916545,Dynamic Bayesian Network for Accurate Detection of Peptides from Tandem Mass Spectra,2016,23,6,3,1.0,2109134754,John T. Halloran,0,-0.7840657865297618,-0.005412665029907708
+2413747597,Improved False Discovery Rate Estimation Procedure for Shotgun Proteomics,2015,22,29,3,0.71748,225344218,Attila KertÃ©sz Farkas,0,0.003708468606338,0.082832279151172
+2424179494,Faster and more accurate graphical model identification of tandem mass spectra using trellises,2016,25,1,4,0.0,2243706485,Shengjie Wang,0,-0.946449591760713,-0.3051740117142014
+2510167837,Fast and Accurate Protein False Discovery Rates on Large-Scale Proteomics Data Sets with Percolator 30,2016,28,61,2,0.494338,2031682453,Lukas KÃ¤ll,0,0.21438872843298346,-0.1353423822296997
+2552594604,On the feasibility and utility of exploiting real time database search to improve adaptive peak selection,2012,15,0,2,0.0,2038831617,Benjamin J. Diament,0,-0.34509073813236113,-0.08425330238930705
+2623260072,Segway 20 Gaussian mixture models and minibatch training,2017,5,1,4,1.0,2533446366,Rachel C. W. Chan,0,0.003708468606338,0.082832279151172
+2588463038,Empirical comparison of web-based antimicrobial peptide prediction tools,2017,50,24,2,1.0,2681856976,Musa Nur Gabere,0,-0.06868386095689515,0.24205629126618533
+2604473186,PREDICTD PaRallel Epigenomics Data Imputation With Cloud-based Tensor Decomposition,2017,35,0,4,1.0,1970929646,Maxwell W. Libbrecht,0,-0.12952245268725304,-0.6567865728127722
+2592973894,Param-Medic A Tool for Improving MS/MS Database Search Yield by Optimizing Parameter Settings,2017,21,8,1,1.0,2128170596,William Stafford Noble,0,0.003708468606338,0.082832279151172
+2621706803,Segway 20 Application Note Datasets,2017,0,0,3,1.0,1970929646,Maxwell W. Libbrecht,0,0.003708468606338,0.082832279151172
+2759173300,Controlling the FDR in imperfect matches to an incomplete database,2018,21,3,2,0.441057,324180884,Uri Keich,0,0.003708468606338,0.082832279151172
+2753973403,Measuring the reproducibility and quality of Hi-C data,2017,52,11,6,1.0,48230482,Hakan Ozadam,0,0.003708468606338,0.082832279151172
+2789774764,Unsupervised embedding of single-cell Hi-C data (2),2018,25,16,1,1.0,2128170596,William Stafford Noble,0,0.003708468606338,0.082832279151172
+2905313602,Response to comments on Empirical comparison of web-based antimicrobial peptide prediction tools,2019,0,0,2,1.0,2681856976,Musa Nur Gabere,0,0.003708468606338,0.082832279151172
+2896734507,An averaging strategy to reduce variability in target-decoy estimates of false discovery rate,2018,24,1,2,0.441057,324180884,Uri Keich,0,0.003708468606338,0.082832279151172
+2904475255,Detecting Modifications in Proteomics Experiments with Param-Medic,2019,0,0,1,1.0,2128170596,William Stafford Noble,0,0.21438872843298346,-0.1353423822296997
+2951559295,GenomeDISCO a concordance score for chromosome conformation capture experiments using random walks on contact map graphs,2018,36,17,6,0.0,2209243640,Oana Ursu,0,0.34402371984857977,0.18048399119476494
+2949580145,Averaging Strategy To Reduce Variability in Target-Decoy Estimates of False Discovery Rate,2019,0,3,2,0.41304,324180884,Uri Keich,0,0.21438872843298346,-0.1353423822296997
+2951639615,Detecting modifications in proteomics experiments with Param-Medic,2018,2,0,1,1.0,2128170596,William Stafford Noble,0,0.21438872843298346,-0.1353423822296997
+2952481255,DNA sequence+shape kernel enables alignment-free modeling of transcription factor binding,2017,41,9,4,0.0,2104505621,Wenxiu Ma,0,0.003708468606338,0.082832279151172
+2950489610,PREDICTD PaRallel Epigenomics Data Imputation with Cloud-based Tensor Decomposition,2018,44,24,4,1.0,1970929646,Maxwell W. Libbrecht,0,-0.406818173160694,-0.8084213374138726
+2950941748,MoMo discovery of statistically significant post-translational modification motifs,2019,25,13,3,0.0,2724124712,Alice Cheng,0,-0.06868386095689515,0.24205629126618533
+2952979547,HiC-spector a matrix library for spectral and reproducibility analysis of Hi-C contact maps,2017,8,35,4,0.0,2157758047,Koon Kiu Yan,0,-0.06868386095689515,0.24205629126618533
+2964261490,Spectrum identification using a dynamic Bayesian network model of tandem mass spectra,2012,39,4,5,0.0,2398784594,Ajit P. Singh,0,-0.946449591760713,-0.3051740117142014
+2136957665,Choosing negative examples for the prediction of protein-protein interactions,2006,33,172,3,0.647059,257753334,Asa Ben Hur,0,0.003708468606338,0.082832279151172
+2952646324,Segway 20 Gaussian mixture models and minibatch training,2018,8,18,6,1.0,2533446366,Rachel C. W. Chan,0,-0.06868386095689515,0.24205629126618533
+2951050465,Measuring the reproducibility and quality of Hi-C data,2019,50,23,6,1.0,48230482,Hakan Ozadam,0,0.003708468606338,0.082832279151172

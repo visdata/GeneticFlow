@@ -1,0 +1,69 @@
+191965751,Extracting relations from large text collections,2005,75,23,1,1.0,2251396636,Luis Gravano,0,-0.51854426803508,-0.08109445527196793
+96282607,Event Identification in Social Media,2009,27,64,3,0.846154,2096763843,Hila Becker,0,-0.6579947033818252,1.0543330326077125
+1488719427,Evaluating Top-k Selection Queries,1999,16,279,2,0.0,2163909284,Surajit Chaudhuri,0,-0.01657107088421793,0.035389748403282274
+1534625513,Beyond Trending Topics Real-World Event Identification on Twitter,2011,24,482,3,1.0,2096763843,Hila Becker,0,0.003708468606338,0.082832279151172
+1564059483,Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies,1995,17,225,1,1.0,2251396636,Luis Gravano,0,-0.1916888409096968,-0.26501256474732954
+1539182761,Understanding Estimating and Incorporating Output Quality Into Join Algorithms For Information Extraction,2008,21,0,4,0.534573,94049422,Panagiotis G. Ipeirotis,0,0.3093702597112594,0.0781901659384289
+1521219253,Computing Geographical Scopes of Web Resources,2000,17,236,2,0.0,2638234501,Junyan Ding,0,0.11016147696583924,-2.6155115018563166
+1576295148,Performance of Multiattribute Top-K Queries on Relational Systems,2000,18,7,3,1.0,2133606375,Nicolas Bruno,0,-0.2419319400732006,0.41713757964544296
+1495898622,Merging Ranks from Heterogeneous Internet Sources,1997,10,69,1,1.0,2251396636,Luis Gravano,0,0.003708468606338,0.082832279151172
+1586176254,Modeling Query-Based Access to Text Databases,2003,11,32,3,0.666667,2283615530,Eugene Agichtein,0,0.003708468606338,0.082832279151172
+1667498960,QProber A System for Automatic Classification of Hidden-Web Resources,2001,39,8,3,0.888889,94049422,Panagiotis G. Ipeirotis,0,0.003708468606338,0.082832279151172
+1805908277,Automatic Classification of Text Databases Through Query Probing,2000,17,15,2,0.888889,94049422,Panagiotis G. Ipeirotis,0,0.43162625009792,0.20195636031746017
+1764664858,Text joins for data cleansing and integration in a relational database management system,2004,7,40,4,0.857143,94049422,Panagiotis G. Ipeirotis,0,-0.1503877281525277,0.1351109402576814
+1594249656,Proceedings of the 7th International Workshop on the Web and Databases colocated with ACM SIGMOD/PODS 2004,2004,0,0,1,1.0,2251396636,Luis Gravano,0,0.003708468606338,0.082832279151172
+1973897992,Learning similarity metrics for event identification in social media,2010,42,318,3,1.0,2096763843,Hila Becker,0,-0.460760490839161,0.6803828173678579
+1978185837,QXtract a building block for efficient information extraction from text databases,2003,1,4,1,1.0,2251396636,Luis Gravano,0,-2.5746234846884164,1.0101172112215997
+1985182453,Categorizing web queries according to geographical locality,2003,20,152,1,1.0,2251396636,Luis Gravano,0,-0.07812377775247532,-1.2026822926471101
+2004087619,When speed has a price fast information extraction using approximate algorithms,2013,22,5,3,1.0,2142921448,GonÃ§alo SimÃµes,0,-0.009956861209672244,0.0936573845954096
+2026469784,Building query optimizers for information extraction the SQoUT project,2009,22,14,3,0.526316,2099613708,Alpa Jain,0,0.10974955345586182,0.043021409267762975
+2016892599,GlOSS text-source discovery over the Internet,1999,34,315,1,1.0,2251396636,Luis Gravano,0,-0.217231262157466,-0.10327683382910843
+2045463753,Optimizing SQL Queries over Text Databases,2008,27,45,3,0.875,2099613708,Alpa Jain,0,-1.1524364964350426,0.45966057131048477
+2045732046,Answering General Time-Sensitive Queries,2012,28,92,2,0.6,293694482,Wisam Dakka,0,0.2886654499595526,-0.090972077398906
+2037537012,k-Shape Efficient and Accurate Clustering of Time Series,2015,87,146,2,0.666667,2412068506,John Paparrizos,0,-1.000375602795345,3.5932401802971228
+2037607644,Data structures for efficient broker implementation,1997,45,31,2,0.236842,1966690917,Anthony Tomasic,0,0.08980763160933745,0.3285095009443443
+2036074375,Modeling and managing changes in text databases,2007,33,14,4,0.623062,94049422,Panagiotis G. Ipeirotis,0,-0.8207293533107699,0.385473836627039
+2056076776,Hip and trendy Characterizing emerging trends on Twitter,2011,41,183,3,0.560275,1220470961,Mor Naaman,0,0.36961615338683507,0.04520172406723675
+2073788020,The effectiveness of GIOSS for the text database discovery problem,1994,15,186,3,0.0,237419955,Hector Garcia Molina,0,-2.2830672966907977,0.702173285606781
+2070633821,Answering general time sensitive queries,2008,27,43,2,0.6,293694482,Wisam Dakka,0,0.21438872843298346,-0.1353423822296997
+2096565380,Modeling and managing content changes in text databases,2005,31,31,4,0.857143,94049422,Panagiotis G. Ipeirotis,0,-0.5548966653818345,0.29416934848473175
+2078693345,An investigation of linguistic features and clustering algorithms for topical document clustering,2000,17,120,2,0.0,257910016,Vasileios Hatzivassiloglou,0,-0.8410271840686945,2.996559878557878
+2099797738,Evaluating top- k queries over web-accessible databases,2004,27,322,2,0.537619,2133606375,Nicolas Bruno,0,-0.01657107088421793,0.035389748403282274
+2096891167,Querying text databases for efficient information extraction,2003,31,95,2,0.666667,2283615530,Eugene Agichtein,0,-0.2344359351375429,-0.12337229342155127
+2103224511,To search or to crawl towards a query optimizer for text-centric tasks,2006,41,75,4,0.691142,94049422,Panagiotis G. Ipeirotis,0,0.2402350536490534,-0.06655212483758015
+2095007791,Ranking Deep Web Text Collections for Scalable Information Extraction,2015,36,3,2,1.0,2224102567,Pablo Barrio,0,-0.17378669123548657,-0.16251890887375392
+2098025050,Optimizing queries over multimedia repositories,1996,23,120,2,0.0,2163909284,Surajit Chaudhuri,0,0.003708468606338,0.082832279151172
+2079973394,Popularity-guided top- k extraction of entity attributes,2010,12,7,1,1.0,2251396636,Luis Gravano,0,-0.3840868059384496,-0.25197240975396035
+2112276485,When one sample is not enough improving text database selection using shrinkage,2004,35,51,2,0.857143,94049422,Panagiotis G. Ipeirotis,0,-2.305611994019869,0.6969163095324831
+2116341550,QProber A system for automatic classification of hidden-Web databases,2003,52,130,1,1.0,2251396636,Luis Gravano,0,0.23758152065625665,-1.7981563498395903
+2125121047,Classification-aware hidden-web text database selection,2008,82,15,2,0.534573,94049422,Panagiotis G. Ipeirotis,0,-2.6116776163429787,0.8421011747536497
+2140014286,Combining Strategies for Extracting Relations from Text Collections,2000,20,12,3,1.0,2283615530,Eugene Agichtein,0,-0.5995363063760628,0.5221697539617834
+2131006463,Distributed search over the hidden web hierarchical database sampling and selection,2002,37,188,2,0.888889,94049422,Panagiotis G. Ipeirotis,0,-0.45563530718352363,0.3870180099853338
+2116544254,Text joins in an RDBMS for web data integration,2003,25,174,1,1.0,2251396636,Luis Gravano,0,-0.4404588500372486,-0.22132391197242315
+2134145495,SQL Queries Over Unstructured Text Databases,2007,6,28,3,0.875,2099613708,Alpa Jain,0,-0.038580155983849986,0.11016852964884541
+2134195632,Top- k selection queries over relational databases Mapping strategies and performance evaluation,2002,39,264,3,0.6,2133606375,Nicolas Bruno,0,-0.5207388606918844,0.13779230513221863
+2128756912,Optimizing top-k selection queries over multimedia repositories,2004,47,131,2,0.0,2163909284,Surajit Chaudhuri,0,-0.4801661388915096,0.22322854485758653
+2120108467,STHoles a multidimensional workload-aware histogram,2001,30,279,3,1.0,2133606375,Nicolas Bruno,0,0.2520909661601309,0.14915502679406958
+2108324945,Automatic Identification and Presentation of Twitter Content for Planned Events,2011,5,31,5,1.0,2096763843,Hila Becker,0,0.003708468606338,0.082832279151172
+2153251667,Statistics on query expressions in relational database management systems,2003,80,4,2,0.565217,2133606375,Nicolas Bruno,0,-0.7949212654219854,0.3229808421760159
+2156368555,Learning to find answers to questions on the Web,2004,40,47,3,0.625,2283615530,Eugene Agichtein,0,0.44317549015372676,-2.1669993517385016
+2168561231,Join Optimization of Information Extraction Output Quality Matters ,2009,17,23,4,0.459539,94049422,Panagiotis G. Ipeirotis,0,-1.105624933927506,1.0326721593164478
+2156580346,Efficient Keyword Search Across Heterogeneous Relational Databases,2007,26,100,4,0.0,2039405111,Mayssam Sayyadian,0,0.2696056663732887,0.617823183791295
+2181430957,Effective Event Identification in Social Media,2013,10,16,4,0.0,316956843,Fotis Psallidas,0,0.003708468606338,0.082832279151172
+2151772234,Navigation- vs index-based XML multi-query processing,2003,21,76,2,0.565217,2133606375,Nicolas Bruno,0,-3.014737076795319,-0.28020605130098875
+2148942721,Efficient IR-style keyword search over relational databases,2003,19,483,2,0.0,238786035,Vagelis Hristidis,0,-0.678791704840416,0.506120188186021
+2152401660,Text joins for data cleansing and integration in an RDBMS,2003,13,53,1,1.0,2251396636,Luis Gravano,0,0.32889184840884256,-0.16096795190987967
+2161344493,Snowball a prototype system for extracting relations from large text collections,2001,3,50,2,1.0,2283615530,Eugene Agichtein,0,0.003708468606338,0.082832279151172
+2167439683,Selectivity estimation for string predicates overcoming the underestimation problem,2004,15,52,3,0.0,2163909284,Surajit Chaudhuri,0,-1.0933604916891588,0.23538041910394622
+2164520297,Evaluating top-k queries over Web-accessible databases,2002,26,262,3,0.0,2653530345,AmÃ©lie Marian,0,-0.4104086991305609,-1.5081422440146481
+2155737120,Towards a query optimizer for text-centric tasks,2007,59,28,4,0.623062,94049422,Panagiotis G. Ipeirotis,0,0.1786237421121949,0.029102848086750264
+2161936973,Approximate String Joins in a Database (Almost) for Free,2001,18,496,1,1.0,2251396636,Luis Gravano,0,0.003708468606338,0.082832279151172
+2221553715,Probe count and classify categorizing hidden web databases,2001,28,172,2,0.888889,94049422,Panagiotis G. Ipeirotis,0,0.8834349498239416,-1.9620320322962108
+2222139048,Selecting Quality Twitter Content for Events,2011,9,78,3,1.0,2096763843,Hila Becker,0,0.003708468606338,0.082832279151172
+2275613000,Method of building multidimensional workload-aware histograms,2001,19,27,3,1.0,2133606375,Nicolas Bruno,0,-0.11939805933677435,0.16936408913727036
+2294284203,Learning to Rank Adaptively for Scalable Information Extraction,2015,34,2,4,1.0,2224102567,Pablo Barrio,0,-0.3840868059384496,-0.25197240975396035
+2277214757,Query processing over relations extracted from text databases,2008,0,0,2,0.875,2099613708,Alpa Jain,0,0.1460405348156225,0.15554281519673718
+2479682262,Predicting the impact of scientific concepts using full-text features,2016,95,27,11,0.0,2684803346,Kathy McKeown,0,0.25620631316599046,0.003594713452532839
+2559989503,Sampling strategies for information extraction over the deep web,2017,58,6,2,1.0,2224102567,Pablo Barrio,0,-0.06658130756216446,-0.2577406019327041
+2622816133,Fast and Accurate Time-Series Clustering,2017,114,39,2,0.666667,2412068506,John Paparrizos,0,-0.3507472114155649,0.5019448779417046
+2783923625,Discovering foodborne illness in online restaurant reviews,2018,16,11,7,0.0,2783540250,Thomas Effland,0,0.5144427691889719,0.10129756512792765

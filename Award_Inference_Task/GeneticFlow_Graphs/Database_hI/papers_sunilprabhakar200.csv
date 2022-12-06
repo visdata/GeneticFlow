@@ -1,0 +1,67 @@
+204918861,The Orion Uncertain Data Management System,2008,6,7,4,1.0,2166632766,Sarvjeet Singh,0,1.216624978062502,0.0783660095632699
+71433386,Efficient subsequence search in databases,2013,12,0,3,1.0,2139008381,Rohit Jain,0,0.40736195279937876,-0.16784881819420375
+160797409,Access control and query verification for untrusted databases,2013,21,2,2,1.0,2139008381,Rohit Jain,0,0.46700526119419217,-0.5841060676157375
+181629171,Querying Private Data in Moving-Object Environments,2005,16,4,2,0.0,717547165,Elisa Bertino,0,0.3820908385543769,0.2117467783858426
+1550293580,Query Selectivity Estimation for Uncertain Data,2008,29,9,4,1.0,2166632766,Sarvjeet Singh,0,1.6286917280178186,0.17801077578146465
+1551528222,wmdb* rights protection for numeric relational data,2004,1,4,3,0.8,2071141648,Radu Sion,0,1.4922378006761778,0.28244915448812663
+1498542267,C-JDBC a Middleware Framework for Database Clustering,2004,30,31,2,0.8,2071141648,Radu Sion,0,-0.17479422132107136,-0.42622199308317965
+1544002045,Cyclic allocation of two-dimensional data,1998,8,70,1,1.0,2119765128,Sunil Prabhakar,0,-0.0041099411153885,0.0447066884760059
+1501686900,A Database-Centric Approach to Enabling End-to-End QoS for Multimedia Repositories,2005,26,0,2,0.0,2057816297,Ahmed K. Elmagarmid,0,0.6913466598694512,0.15768395504801735
+1573499603,QuaSAQ An Approach to Enabling End-to-End QoS for Multimedia Databases,2004,19,4,2,0.947368,2306077690,Yi Cheng Tu,0,-0.0911996640217357,0.1838753710154513
+1546941853,System and methods for ensuring integrity authenticity indemnity and assured provenance for untrusted outsourced or cloud databases,2012,10,12,1,1.0,2119765128,Sunil Prabhakar,0,-0.0041099411153885,0.0447066884760059
+1494233816,Identifying rare classes with sparse training data,2007,17,0,4,0.0,2311556573,Mingwu Zhang,0,-0.0041099411153885,0.0447066884760059
+1503410176,Database support for uncertain data,2009,49,0,1,1.0,2119765128,Sunil Prabhakar,0,1.949583171851893,0.2365654945017655
+1512485814,U-DBMS a database system for managing constantly-evolving data,2005,4,99,3,0.962264,2138267588,Reynold Cheng,0,2.6698240816481245,0.5101447839223259
+1603803609,Scheduling tertiary I/O in database applications,1997,6,15,1,1.0,2119765128,Sunil Prabhakar,0,-0.0041099411153885,0.0447066884760059
+1841643733,A distributed database server for continuous media,2002,0,9,9,0.0,220758600,Walid G. Aref,0,0.1949432610054743,0.08735260591309034
+1581905079,Control-based quality adaptation in data stream management systems,2005,17,18,4,0.947368,2306077690,Yi Cheng Tu,0,-0.007358837667769717,-0.8376539340400982
+1600151528,PLACE a query processor for handling real-time spatio-temporal data streams,2004,11,48,5,0.340909,696807755,Mohamed F. Mokbel,0,-0.419016833827356,-0.1908252728748586
+1663439106,Efficient Evaluation of Continuous Range Queries on Moving Objects,2002,33,6,2,0.9,21977915,Dmitri V. Kalashnikov,0,0.3820908385543769,0.2117467783858426
+1603320298,Quality-aware adaptation in database systems,2007,0,0,1,1.0,2119765128,Sunil Prabhakar,0,0.07830975123345311,-0.14415964366915676
+2000736347,An efficient location update mechanism for continuous queries over moving objects,2007,18,17,3,0.890065,2138267588,Reynold Cheng,0,0.014532710543751099,0.030944858938630852
+1990523543,Tracing Lineage in Multi-version Scientific Databases,2007,8,5,3,0.0,2311556573,Mingwu Zhang,0,0.044859856903840555,0.012551371775477651
+2043224356,Fast similarity join for multi-dimensional data,2007,28,15,2,0.519231,21977915,Dmitri V. Kalashnikov,0,0.38182989016775704,-0.6284262025604442
+2039801792,Trustworthy data from untrusted databases,2013,24,16,2,1.0,2139008381,Rohit Jain,0,1.5137862312976496,0.22459693282386117
+2058254784,Towards scalable location-aware services requirements and research issues,2003,37,39,4,0.340909,696807755,Mohamed F. Mokbel,0,0.0908845357243609,0.31128747720343375
+2065601626,Load shedding in stream databases a control-based approach,2006,32,86,3,0.947368,2306077690,Yi Cheng Tu,0,-0.008845808758036292,-0.14287229074104893
+2057006527,Managing uncertainty in sensor database,2003,12,60,2,1.0,2138267588,Reynold Cheng,0,0.02241102698995165,0.4480657702057998
+2065993338,Efficient query execution on broadcasted index tree structures,2007,24,10,4,1.0,2133492747,Susanne E. Hambrusch,0,0.2657856797705482,0.14689219539098033
+2089132321,Guaranteed authenticity and integrity of data from untrusted servers,2014,11,0,2,1.0,2139008381,Rohit Jain,0,1.9010737950308072,0.29660266850519923
+2096576767,Ensuring correctness over untrusted private database,2008,15,15,2,1.0,2166632766,Sarvjeet Singh,0,0.7215975991611812,0.3052417628859806
+2087796744,Rights protection for relational data,2003,17,85,3,0.8,2071141648,Radu Sion,0,1.497168989526506,0.29299137687965704
+2104240393,The Indiana Center for Database Systems at Purdue University,2005,26,4,9,0.0,1671481,Mourad Ouzzani,0,-0.0041099411153885,0.0447066884760059
+2104906863,Q+Rtree efficient indexing for moving object databases,2003,12,45,1,1.0,2119765128,Sunil Prabhakar,0,-0.0041099411153885,0.0447066884760059
+2099051676,Broadcasting and querying multi-dimensional index trees in a multi-channel environment,2006,16,13,3,1.0,2133492747,Susanne E. Hambrusch,0,0.014532710543751099,0.030944858938630852
+2129167530,Tracing lineage beyond relational operators,2007,29,29,4,0.0,2311556573,Mingwu Zhang,0,1.0874340893790313,0.14260427852746604
+2141538155,Resilient rights protection for sensor streams,2004,21,56,3,0.8,2071141648,Radu Sion,0,-0.0041099411153885,0.0447066884760059
+2112130143,Evaluation of probabilistic queries over imprecise data in constantly-evolving environments,2007,34,34,3,0.890065,2138267588,Reynold Cheng,0,-0.4164353607007019,-0.10408138035894196
+2112144328,VDBMS A testbed facility for research in video database benchmarking,2004,38,9,8,0.0,220758600,Walid G. Aref,0,-0.00492109496191035,-0.1728987636093571
+2142006107,Scalable spatio-temporal continuous query processing for location-aware services,2004,24,42,5,0.0,2104701359,Xiaopeng Xiong,0,0.793790052977456,-1.2956938654148615
+2129955956,Database Support for Probabilistic Attributes and Tuples,2008,19,100,4,1.0,2166632766,Sarvjeet Singh,0,1.5995006953094828,0.15212910694921075
+2121722315,Threshold query optimization for uncertain data,2010,28,25,4,0.0,2639633066,Yinian Qi,0,0.2602363063493063,0.3281623249764951
+2112929492,Control-Based Load Shedding in Data Stream Management Systems,2006,12,6,2,0.947368,2306077690,Yi Cheng Tu,0,-0.20133665475165913,-0.19110780330684465
+2139573884,Adaptive stream filters for entity-based queries with non-value tolerance,2005,19,40,3,0.962264,2138267588,Reynold Cheng,0,0.119739122485096,0.4583397011045227
+2110037957,Indexing Uncertain Categorical Data,2007,25,115,3,1.0,2166632766,Sarvjeet Singh,0,0.5435880282507505,2.814594718453245e-05
+2142909274,Efficient indexing methods for probabilistic threshold queries over uncertain data,2004,23,254,3,1.0,2138267588,Reynold Cheng,0,-0.0041099411153885,0.0447066884760059
+2110286878,Similarity join for low-and high-dimensional data,2003,17,15,2,0.9,21977915,Dmitri V. Kalashnikov,0,1.3569481974821829,-0.28020168949118585
+2119493805,Querying imprecise data in moving object environments,2003,33,394,3,1.0,2138267588,Reynold Cheng,0,0.09526370926126411,0.008306466226981798
+2131249111,Optimal Parallel I/O for Range Queries through Replication,2002,20,19,3,0.0,2951337581,Keith B. Frikken,0,0.3820908385543769,0.2117467783858426
+2128581929,Using Control Theory for Load Shedding in Data Stream Management,2007,4,3,3,0.90566,2306077690,Yi Cheng Tu,0,0.9412087111309483,-0.3497424020466004
+2108009586,Indexing multi-dimensional uncertain data with arbitrary probability density functions,2005,16,266,6,0.0,2131082813,Yufei Tao,0,-0.1232715727120712,0.2131450373911843
+2144158804,Change tolerant indexing for constantly evolving data,2005,15,26,3,0.962264,2138267588,Reynold Cheng,0,-0.241250245220175,-0.17693373480736696
+2165184718,Scalable access within the context of digital libraries,1997,50,21,4,0.0,2318648720,X. Cheng,0,1.6005465353084851,0.42493053588015284
+2144562386,Orion 20 native support for uncertain data,2008,6,98,4,1.0,2166632766,Sarvjeet Singh,0,1.515650711457476,0.1892170255452367
+2162614966,Multiquality Data Replication in Multimedia Databases,2007,36,5,4,0.90566,2306077690,Yi Cheng Tu,0,0.07531504691526195,-0.10195000579930755
+2171776999,Evaluating probabilistic queries over imprecise data,2003,17,552,3,1.0,2138267588,Reynold Cheng,0,1.351671019631371,0.3168031633717796
+2154711808,Entity identification in database integration,1993,11,124,4,0.0,2136050841,Ee Peng Lim,0,1.0793067194831087,0.045289035851770736
+2164187405,ERACER a database approach for statistical inference and data cleaning,2010,24,111,3,1.0,2227100931,Chris Mayfield,0,-0.0041099411153885,0.0447066884760059
+2149350968,Content-based three-dimensional engineering shape search,2004,31,28,2,0.0,2163313417,Kuiyang Lou,0,-0.0041099411153885,0.0447066884760059
+2164412406,Quality-aware replication of multimedia data,2005,31,0,3,0.947368,2306077690,Yi Cheng Tu,0,-0.0041099411153885,0.0447066884760059
+2483088531,Sequential pattern mining in databases with temporal uncertainty,2017,33,11,5,0.0,2107884066,Jiaqi Ge,0,-0.0041099411153885,0.0447066884760059
+2484419632,Trustworthy data from untrusted databases,2012,0,0,2,0.909091,2139008381,Rohit Jain,0,1.4633692924598316,0.17027245881670253
+2468345067,Preserving user location privacy in mobile data management infrastructures,2006,0,5,4,0.962264,2138267588,Reynold Cheng,0,0.12357814232500015,0.027963595037606336
+2514297331,Trustworthy data from untrusted servers,2011,0,0,1,1.0,2119765128,Sunil Prabhakar,0,1.9046842805625035,0.4284666451010916
+2612989134,Staging User Feedback toward Rapid Conflict Resolution in Data Fusion,2017,42,4,3,0.0,2108100863,Romila Pradhan,0,0.2807600744873719,-0.0746967125258062
+2788886450,QuaSAQ An approach to enabling end-to-end QoS for multimedia databases,2004,0,0,2,0.947368,2306077690,Yi Cheng Tu,0,-0.0911996640217357,0.1838753710154513
+2804165612,TrueWeb A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources,2018,48,0,3,0.0,2224150526,Amgad Madkour,0,-0.13489138146538232,0.029751773140659632
+2911674176,Session details Industrial session 3 advances in DBMSs,2010,0,0,1,1.0,2119765128,Sunil Prabhakar,0,-0.5102631692427059,1.0173691885574578

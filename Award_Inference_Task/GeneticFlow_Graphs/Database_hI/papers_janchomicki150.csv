@@ -1,0 +1,52 @@
+126340225,Valid Query Answers for XML,2007,2,0,1,1.0,1973119209,Jan Chomicki,0,0.0908845357243609,0.31128747720343375
+67115285,Declarative inconsistency handling in relational and semi-structured databases,2007,66,8,1,1.0,1973119209,Jan Chomicki,0,1.074178824009477,-0.07599122846345893
+186851202,A logic programming approach to conflict resolution in policy management,2000,0,85,1,1.0,1973119209,Jan Chomicki,0,-0.0041099411153885,0.0447066884760059
+604620276,Logics for Emerging Applications of Databases,2003,0,66,3,0.0,129750422,Gunter Saake,0,0.30310970071769544,-0.04423226922965504
+1532428688,Functional deductive databases query processing in the presence of limited function symbols,1990,0,14,1,1.0,1973119209,Jan Chomicki,0,0.0908845357243609,0.31128747720343375
+1527862858,Querying with Intrinsic Preferences,2002,23,166,1,1.0,1973119209,Jan Chomicki,0,0.2845264183123462,0.2141609300394975
+1487020114,Query Answering in Inconsistent Databases,2004,107,124,2,0.255755,1985569948,Leopoldo Bertossi,0,0.651786865585849,0.33869901878142344
+1957163984,Query evaluation in almost consistent databases using residues,1998,8,1,3,0.8,2117861229,Marcelo Arenas,0,1.4072406648214375,0.20867457889088645
+1882711135,Hippo A System for Computing Consistent Answers to a Class of SQL Queries,2004,10,281,1,1.0,1973119209,Jan Chomicki,0,0.5299466119886375,0.20848294879928667
+1811555181,Animating Spatiotemporal Constraint Databases,1999,29,13,1,1.0,1973119209,Jan Chomicki,0,1.1566339523533546,0.6061156719065877
+1764198480,Preference elicitation in prioritized skyline queries,2011,47,19,2,1.0,1550268712,Denis Mindolin,0,0.5247205262377285,0.11595582100651976
+1711108295,Logics for databases and information systems,1998,117,148,2,0.0,129750422,Gunter Saake,0,1.2093417881871118,0.26507297651154665
+1835623796,Querying TSQL2 Databases with Temporal Logic,1996,42,26,2,0.0,2300834035,Michael H. BÃ¶hlen,0,0.646764342349754,0.04385726497745116
+1971297231,Finite representation of infinite query answers,1993,49,62,1,1.0,1973119209,Jan Chomicki,0,0.048809529609704166,0.19048060008837853
+2004796840,Skyline queries front and back,2013,52,54,1,1.0,1973119209,Jan Chomicki,0,0.4612748096154063,0.057859001142267795
+1989462256,Output-sensitive Evaluation of Prioritized Skyline Queries,2015,36,3,4,0.0,2060407254,Niccolo Meneghetti,0,0.25245882146783893,0.09919480006319664
+2005440900,Implementing temporal integrity constraints using an active DBMS,1995,20,48,1,1.0,1973119209,Jan Chomicki,0,0.43796618565530565,0.12711146059194947
+1996945116,Discovering relative importance of skyline attributes,2009,21,50,2,1.0,1550268712,Denis Mindolin,0,0.25245882146783893,0.09919480006319664
+2002699418,Preference formulas in relational queries,2003,46,423,1,1.0,1973119209,Jan Chomicki,0,0.6098792596777616,0.13516045054372308
+2019002417,Semantic optimization techniques for preference queries,2007,36,25,1,1.0,1973119209,Jan Chomicki,0,0.7984704801668785,0.029780434857622867
+2013885128,Semantics and evaluation of top-k queries in probabilistic databases,2009,27,51,2,1.0,2311283025,Xi Zhang,0,0.8113183435485121,0.2729575340009046
+2028737227,Temporal deductive databases and infinite objects,1988,13,75,1,1.0,1973119209,Jan Chomicki,0,-0.0041099411153885,0.0447066884760059
+2025315843,Efficient checking of temporal integrity constraints using bounded history encoding,1995,68,151,1,1.0,1973119209,Jan Chomicki,0,0.5647994972975083,-0.07570852442686171
+2054655669,Querying ATSQL databases with temporal logic,2001,49,49,1,1.0,1973119209,Jan Chomicki,0,0.9001006351670634,0.3003801075776148
+2051867327,Disjunctive databases for representing repairs,2009,23,7,2,0.571429,2951886126,Cristian Molinaro,0,1.872451771185401,0.16790669310487477
+2046778764,Relational specifications of infinite query answers,1989,19,38,1,1.0,1973119209,Jan Chomicki,0,0.33072000417892095,0.17648205805476327
+2077518845,Consistent query answers in inconsistent databases,1999,20,706,3,0.8,2117861229,Marcelo Arenas,0,1.3454509909314194,0.21158661559128822
+2094817912,Exchange integration and consistency of data report on the ARISE/NISR workshop,2005,26,6,2,0.21108,1985569948,Leopoldo Bertossi,0,-0.0041099411153885,0.0447066884760059
+2100579822,Preference queries over sets,2011,12,22,2,1.0,2311283025,Xi Zhang,0,0.32287549990607406,9.671561712180111e-05
+2104145253,History-less checking of dynamic integrity constraints,1992,18,58,1,1.0,1973119209,Jan Chomicki,0,0.5201984271003984,-0.0037943774617223702
+2105568982,Scalar Aggregation in FD-Inconsistent Databases,2001,35,41,3,0.727273,2117861229,Marcelo Arenas,0,0.755586531810391,-0.08755315766531213
+2109865382,Preference-driven querying of inconsistent relational databases,2006,29,22,2,0.75,2974725742,Slawomir Staworko,0,0.9802603526848221,0.02375620607607381
+2121843890,Validity-sensitive querying of XML databases,2006,41,40,2,0.75,2974725742,Slawomir Staworko,0,2.2264543832113666,-0.864750789273662
+2122529902,Specifying and Querying Database Repairs using Logic Programs with Exceptions,2001,33,78,3,0.727273,2117861229,Marcelo Arenas,0,1.3568638443614727,0.20632603126644358
+2140466248,Consistent query answers in the presence of universal constraints,2010,42,39,2,0.75,2974725742,Slawomir Staworko,0,0.014532710543751099,0.030944858938630852
+2134644026,Skyline with presorting,2003,8,629,1,1.0,1973119209,Jan Chomicki,0,0.9751723764226679,0.16169882617341136
+2178708778,Answer sets for consistent query answering in inconsistent databases,2003,44,187,3,0.521739,2117861229,Marcelo Arenas,0,0.2981724957212681,-0.0051096645250165345
+2171560571,On the semantics and evaluation of top-k queries in probabilistic databases,2008,28,74,2,1.0,2311283025,Xi Zhang,0,1.9339273801983707,0.2038777268954908
+2144816421,A controllable Prolog database system,1986,18,1,3,0.0,6297940,Naftaly H. Minsky,0,2.6414130348002574,0.6161131214827426
+2159808530,Polynomial time query processing in temporal deductive databases,1990,17,35,1,1.0,1973119209,Jan Chomicki,0,0.014532710543751099,0.030944858938630852
+2148016353,Priority-Based Conflict Resolution in Inconsistent Relational Databases âˆ—,2005,24,9,1,1.0,1973119209,Jan Chomicki,0,0.36610311895500325,0.07045586025680924
+2183234201,Chapter 19 Time in Database Systems,2004,79,1,1,1.0,1973119209,Jan Chomicki,0,-0.0041099411153885,0.0447066884760059
+2158974548,Variable independence in constraint databases,2003,40,13,1,1.0,1973119209,Jan Chomicki,0,1.2663661690512507,0.3318017201774895
+2404499668,Logical Foundations of Preference Queries,2011,26,9,1,1.0,1973119209,Jan Chomicki,0,1.204501787921431,0.29860165833699415
+2616737215,Scalar aggregation in inconsistent databases,2003,33,125,3,0.521739,2117861229,Marcelo Arenas,0,1.218688051464744,-0.02657296402585745
+2720958050,Implementing temporal integrity constraints using an active DBMS,1994,14,11,1,1.0,1973119209,Jan Chomicki,0,0.04100071928844439,0.05544589980092189
+2600632761,International Workshop on Logic in Databases (LiD),2008,0,1,1,1.0,1973119209,Jan Chomicki,0,-0.0041099411153885,0.0447066884760059
+2794490651,Scalar aggregation in FD-inconsistent databases,2001,0,2,3,0.727273,2117861229,Marcelo Arenas,0,1.218688051464744,-0.02657296402585745
+2951895835,Answer Sets for Consistent Query Answering in Inconsistent Databases,2002,20,1,3,0.727273,2117861229,Marcelo Arenas,0,0.2981724957212681,-0.0051096645250165345
+2952347785,Prioritized Repairing and Consistent Query Answering in Relational Databases,2009,24,1,1,1.0,1973119209,Jan Chomicki,0,0.5325669973310596,0.09709227568458595
+2950443519,Semantics and Evaluation of Top-k Queries in Probabilistic Databases,2008,20,0,2,1.0,2311283025,Xi Zhang,0,0.43739842239757626,0.009947045888208002
+2949374760,Disjunctive Databases for Representing Repairs,2008,16,0,2,0.571429,2951886126,Cristian Molinaro,0,1.218688051464744,-0.02657296402585745

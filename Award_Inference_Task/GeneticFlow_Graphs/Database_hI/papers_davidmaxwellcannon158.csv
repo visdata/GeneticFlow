@@ -1,0 +1,61 @@
+61484431,Configurable reuse delay criterion for storage volumes,1997,14,28,1,1.0,2130998405,David Maxwell Cannon,0,0.01462933204769868,0.19913025848169816
+349726700,Method for protecting and managing retention of data on worm media,2004,33,21,3,1.0,2047175161,Toby Lyn Marek,0,-0.3265832010104367,-0.22450886265127115
+1504954748,Efficient transfer of deduplicated data,2008,33,48,2,0.570082,2126514813,Howard Newton Martin,0,-0.025573726265388435,0.3914388565466392
+1020147022,OPTIMIZING RESTORES OF DEDUPLICATED DATA,2013,24,5,3,0.811758,2113317664,Mark L. Yakushev,0,0.001689490568582367,-0.10275475452473477
+1499892088,Generating backup sets to a specific point in time,2006,19,59,1,1.0,2130998405,David Maxwell Cannon,0,0.09560153568394734,0.34384522677555335
+1562341583,Database reconstruction using embedded database backup codes,1997,6,18,2,0.0,2126514813,Howard Newton Martin,0,-0.4581113242364544,1.5767125479673907
+1536762669,Method and system for assuring integrity of deduplicated data,2008,23,128,1,1.0,2130998405,David Maxwell Cannon,0,-0.0027724634520094327,0.5081795913219251
+1573256852,On-site reclamation of off-site copy storage volumes using multiple parallel processes,2004,6,14,3,0.0,2124416023,Yu Mei U. Hsiao,0,0.09560153568394734,0.34384522677555335
+1573649434,Separating file data streams to enhance progressive incremental processing,2008,9,11,2,0.488562,2128679172,Avishai Haim Hochberg,0,-0.42845202490949574,0.1450203979855267
+1538512619,Migration of metadata and storage management of data in a first storage environment to a second storage environment,2012,19,24,1,1.0,2130998405,David Maxwell Cannon,0,-0.1526080796404499,0.2967681024658788
+1548163993,Copy process substituting compressible bit pattern for any unqualified data objects,2005,15,39,1,1.0,2130998405,David Maxwell Cannon,0,0.0477420783809333,0.11339324727803994
+1522083256,Restoring a restore set of files from backup objects stored in sequential backup devices,2010,7,15,4,0.705882,1955267462,David Gregory Van Hise,0,-0.0041099411153885,0.0447066884760059
+1576853947,Space recovery with storage management coupled with a deduplicating storage system,2008,8,51,2,0.0,2119518059,Mark A. Smith,0,-0.2887845726724917,1.1690713119827802
+1755866357,Maintaining active-only storage pools,2005,33,6,2,0.857143,2126514813,Howard Newton Martin,0,-0.0041099411153885,0.0447066884760059
+1581212425,Storage pool space allocation across multiple locations,2004,12,43,1,1.0,2130998405,David Maxwell Cannon,0,-0.15439584752321023,0.46142759199380223
+1891898409,Storage management system with file aggregation supporting multiple aggregated file counterparts,1999,31,120,1,1.0,2130998405,David Maxwell Cannon,0,-0.5639231840335123,1.9948626376845957
+1918224731,Encrypting data objects to back-up,2012,24,23,3,0.811758,2113317664,Mark L. Yakushev,0,0.09560153568394734,0.34384522677555335
+1945399902,Maintaining active-only copy storage pools,2005,35,14,2,0.857143,2126514813,Howard Newton Martin,0,-0.0041099411153885,0.0447066884760059
+1825397974,OPTIMIZED SIMULTANEOUS STORING OF DATA INTO DEDUPLICATED AND NON-DEDUPLICATED STORAGE POOLS,2009,38,39,2,0.552964,2126514813,Howard Newton Martin,0,0.08285876170120854,0.49676975124210365
+1921025464,Method system and program for retention management and protection of stored objects,2003,30,99,5,0.886364,2047175161,Toby Lyn Marek,0,-0.0041099411153885,0.0447066884760059
+1949509992,Restoring a file to its proper storage tier in an information lifecycle management environment,2007,23,97,3,1.0,2047175161,Toby Lyn Marek,0,-0.34857978327751216,-0.2513987233039086
+1830984028,Storage management system with file aggregation,1997,24,38,2,0.0,2117119506,Michael Allen Kaczmarski,0,-0.5639231840335123,1.9948626376845957
+1602477638,Data recovery in a hierarchical data storage system,2007,25,33,2,0.656456,2126514813,Howard Newton Martin,0,0.06062424423327276,-0.014343155689205486
+1727525047,Hierarchical storage management using dynamic tables of contents and sets of tables of contents,2008,29,88,3,0.617953,2117119506,Michael Allen Kaczmarski,0,-0.09019982603651154,-0.020013992749455832
+1624144460,Method system and program for storing data for retrieval and transfer,2004,41,39,2,0.857143,2126514813,Howard Newton Martin,0,-0.16065307786350314,0.5277548060800685
+2096134604,Availability and recovery of files using copy storage pools,1997,22,470,2,0.0,2117119506,Michael Allen Kaczmarski,0,-0.0976793506305715,-0.011596017273551095
+2105970721,Maintaining an aggregate including active files in a storage pool in a random access medium,2005,35,15,2,0.857143,2126514813,Howard Newton Martin,0,-0.0041099411153885,0.0447066884760059
+2140880334,Storage management system with file aggregation and space reclamation within aggregated files,1997,23,399,2,0.0,2126514813,Howard Newton Martin,0,-0.6389572617375882,2.073536845651948
+2237033044,Policy based tiered data deduplication strategy,2008,7,129,2,0.570082,2126514813,Howard Newton Martin,0,-0.0027724634520094327,0.5081795913219251
+2201931772,Apparatus and method for the availability and recovery of files using copy storage pools,1997,2,86,2,0.0,2117119506,Michael Allen Kaczmarski,0,-0.0976793506305715,-0.011596017273551095
+2271978036,System and program for storing data for retrieval and transfer,2008,27,12,2,0.570082,2126514813,Howard Newton Martin,0,-0.16065307786350314,0.5277548060800685
+2262758370,Hierarchical storage management of metadata,2006,10,15,1,1.0,2130998405,David Maxwell Cannon,0,-0.1966676560368412,0.8395640940665133
+2263458961,Maintaining an aggregate including active files in a storage pool,2005,34,13,2,0.857143,2126514813,Howard Newton Martin,0,-0.0041099411153885,0.0447066884760059
+2215479110,Method for storing data for retrieval and transfer,2008,27,1,2,0.570082,2126514813,Howard Newton Martin,0,-0.16065307786350314,0.5277548060800685
+2260021088,Policy-based sharing of redundant data across storage pools in a deduplicating system,2008,48,41,1,1.0,2130998405,David Maxwell Cannon,0,0.08285876170120854,0.49676975124210365
+2224278499,Article of manufacture and system for storage pool space allocation across multiple locations,2008,11,2,1,1.0,2130998405,David Maxwell Cannon,0,-0.15439584752321023,0.46142759199380223
+2255514887,SECURELY DELETING DATA IN A TRANSACTIONALLY CONSISTENT MANNER,2007,18,19,2,0.643472,2123863151,Mark Alan Haye,0,1.4763132903280793,1.6461993083475563
+2264942650,Approach for optimizing restores of deduplicated data,2010,20,51,3,1.0,2113317664,Mark L. Yakushev,0,-0.03774307254978674,0.22521779077417348
+2217716189,APPARATUS SYSTEM AND METHOD FOR CONCURRENT STORAGE POOL MIGRATION AND BACKUP,2006,8,15,2,0.7,2126514813,Howard Newton Martin,0,-0.16065307786350314,0.5277548060800685
+2226699556,Restoring deduplicated data objects from sequential backup devices,2012,8,1,3,0.811758,2113317664,Mark L. Yakushev,0,0.09560153568394734,0.34384522677555335
+2209503325,MANAGING ENCRYPTION FOR VOLUMES IN STORAGE POOLS,2006,14,36,2,1.0,2047175161,Toby Lyn Marek,0,-0.0041099411153885,0.0447066884760059
+2298987389,Approach for securing distributed deduplication software,2009,10,21,3,1.0,2113317664,Mark L. Yakushev,0,0.08110911135679368,0.13841174160747513
+2285177656,RESTORING DATA OBJECTS FROM SEQUENTIAL BACKUP DEVICES,2012,2,5,3,0.811758,2113317664,Mark L. Yakushev,0,0.09560153568394734,0.34384522677555335
+2307072714,Replication of data objects from a source server to a target server,2012,48,61,3,0.643472,2123863151,Mark Alan Haye,0,-0.16728218469058034,0.04672877282242786
+2285531750,System and method for relating files in a distributed data storage environment,2001,13,66,2,1.0,2123863151,Mark Alan Haye,0,-0.3693518413357622,1.303145817385597
+2300775738,Integrated Approach for Deduplicating Data in a Distributed Environment that Involves a Source and a Target,2009,17,92,4,0.705882,1955267462,David Gregory Van Hise,0,0.045374011440516976,0.4480317466311046
+2278402849,APPARATUS SYSTEM AND METHOD FOR CONCURRENT STORAGE TO AN ACTIVE DATA FILE STORAGE POOL COPY POOL AND NEXT POOL,2006,9,9,2,0.7,2126514813,Howard Newton Martin,0,-0.1333958882283398,0.0028027225168477943
+2278501261,Optimized selection and accessing of stored files to avoid mount and position thrashing,2000,20,11,2,1.0,2126514813,Howard Newton Martin,0,-0.1797839319302693,0.5205643293838275
+2396211086,System and method for transferring related data objects in a distributed data storage environment,2000,30,34,2,1.0,2123863151,Mark Alan Haye,0,0.18525579501892392,-0.6645552995772933
+2406347266,METHOD FOR MANAGING RETENTION OF DATA ON WORM DISK MEDIA BASED ON EVENT NOTIFICATION,2007,8,10,4,0.0,908631957,David Lebutsch,0,-0.32345420554416376,0.18726173279386296
+2414987907,Transferring related data objects in a distributed data storage environment,2001,4,0,2,1.0,2123863151,Mark Alan Haye,0,0.18525579501892392,-0.6645552995772933
+2585842539,Vorrichtung und Verfahren fÃ¼r die VerfÃ¼gbarkeit und Wiedergewinnung von Dateien unter Verwendung von Sammlungen von Kopierspeicher Device and method for the availability and recovery of files using collections of memory copy,1997,0,0,2,0.0,2117119506,Michael Allen Kaczmarski,0,-0.0976793506305715,-0.011596017273551095
+2593883661,Data selection for data storage backup,2012,9,1,1,1.0,2130998405,David Maxwell Cannon,0,0.09560153568394734,0.34384522677555335
+2623116052,VerschlÃ¼sseln von Datenobjekten zur Datensicherung Encrypt data objects for data backup,2012,0,0,3,0.811758,2113317664,Mark L. Yakushev,0,0.09560153568394734,0.34384522677555335
+2602002801,Secure deduplication storage management,2010,3,1,3,1.0,2113317664,Mark L. Yakushev,0,0.14576994280781086,0.2194438639562662
+2596075067,ZurÃ¼ckfÃ¼hren einer datei auf ihre richtige speicherstufe in einer informationslebenszyklus-verwaltungsumgebung Returning a file to its correct storage level in an information lifecycle-management environment,2007,0,0,3,1.0,2047175161,Toby Lyn Marek,0,-0.34857978327751216,-0.2513987233039086
+2756302093,Transmitting interconnected data items in a distributed data storage environment,2001,0,0,2,1.0,2123863151,Mark Alan Haye,0,0.0256868597571381,0.2699158052199714
+2761479056,System for transferring related data object in distributed data storage environment and method for the same,2001,0,2,1,1.0,2130998405,David Maxwell Cannon,0,0.18525579501892392,-0.6645552995772933
+2755134202,Returning a file to its correct storage level in an information lifecycle-management environment,2007,0,0,3,1.0,2047175161,Toby Lyn Marek,0,-0.34857978327751216,-0.2513987233039086
+2800335758,Device and method for the availability and recovery of files using collections of memory copy,1997,0,0,2,0.0,2117119506,Michael Allen Kaczmarski,0,-0.062384053623714776,-0.0819227857096452
+2887231271,Optimized selection and accessing of stored files,2001,0,0,2,1.0,2126514813,Howard Newton Martin,0,-0.0041099411153885,0.0447066884760059

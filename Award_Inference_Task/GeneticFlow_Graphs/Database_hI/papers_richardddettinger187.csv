@@ -1,0 +1,91 @@
+339786039,GUI component feedback for functional tasks that are qualified by performance or quality,2006,11,2,3,1.0,1896647882,Frederick A. Kulack,0,-0.2554006006761083,0.005185177391162952
+261593672,Method of establishing a data management fee structure based on fine grained data entities,2004,7,21,2,0.900433,2115920827,Richard J. Stevens,0,-0.18724402417882705,0.03605917401554673
+1008697507,User interface method for grouping conditions without editing,2004,8,8,3,1.0,2022001984,Daniel P. Kolz,0,0.014532710543751099,0.030944858938630852
+1488414958,Method of synchronizing distributed but interconnected data repositories,2003,8,8,2,0.0,2014434522,Cale T. Rath,0,0.8064302647783678,0.20157721648373914
+1514774640,Web service discovery via data abstraction model and condition creation,2012,43,7,4,0.671327,1896647882,Frederick A. Kulack,0,-0.833292811316689,0.3017674590183985
+1506444794,Access manager for databases,2001,22,17,2,0.0,2136734891,Brian E. Olson,0,0.36136228813678184,-0.19873603871814904
+1570095778,Displaying relevant abstract database elements,2007,4,10,3,1.0,1975588974,Janice R. Glowacki,0,1.3048134241781268,0.16590565420481354
+1561594899,Consolidation of computer documentation,2002,3,18,4,0.692308,2063751690,Eric L. Barsness,0,-0.42436748306339156,1.2656547619763021
+1543853744,Database staging area read-through or forced flush with dirty notification,2008,7,7,3,0.6895,2022001984,Daniel P. Kolz,0,-0.0041099411153885,0.0447066884760059
+1482464484,Database optimization apparatus and method,2002,14,52,4,0.692308,2063751690,Eric L. Barsness,0,2.5612961170845914,0.7273369822602332
+1517740476,Dynamic end user specific customization of an applications physical data layer through a data repository abstraction layer,2002,11,99,2,1.0,2115920827,Richard J. Stevens,0,0.07009236483633567,0.14840443816380924
+1536118648,Management of relationships between database tables,2004,19,17,4,1.0,1975588974,Janice R. Glowacki,0,1.5505676411449643,0.36910787595595385
+1038918446,Using database knowledge to optimize a computer program,2007,16,0,3,0.175458,2063751690,Eric L. Barsness,0,0.9340319160461951,-0.01259918946026184
+1510209053,Query interface configured to invoke an analysis routine on a parallel computing system as part of database query processing,2008,16,2,3,0.0,2163126117,Amanda Peters,0,0.7215975991611812,0.3052417628859806
+1556780406,Coverage analysis of program code that accesses a database,2002,6,41,3,0.692308,2063751690,Eric L. Barsness,0,0.5360834657488059,0.21632726725450613
+1556902627,Peer to peer (P2P) concept query notification of available query augmentation within query results,2008,37,5,2,0.81039,1896647882,Frederick A. Kulack,0,0.0908845357243609,0.31128747720343375
+1494818270,Autonomic logging support,2003,7,43,4,1.0,1896647882,Frederick A. Kulack,0,0.11797670951183034,-0.24219977622393202
+1540243056,Automated abstract database generation through existing application statement analysis,2003,14,4,4,1.0,1896647882,Frederick A. Kulack,0,1.1930577160661062,0.2937743100249808
+1902692702,Data model simplification through field fallout,2010,18,8,4,0.708077,1896647882,Frederick A. Kulack,0,0.12628174114238816,0.0039009070058818006
+1955380855,Techniques for sharing persistently stored query results between multiple users,2008,23,11,3,0.6895,2022001984,Daniel P. Kolz,0,0.7215975991611812,0.3052417628859806
+1800026830,Optimization of database network traffic based upon data-use analysis,2006,59,54,4,0.215413,2063751690,Eric L. Barsness,0,1.8433749970232927,0.4151022869037474
+1877624088,Timeline condition support for an abstract database,2008,37,32,2,0.6895,2022001984,Daniel P. Kolz,0,0.8809340701863815,0.11633144593696097
+1802199562,Methods systems and articles of manufacture for abstract query building with selectability of aggregation operations and grouping,2003,6,23,4,1.0,2022001984,Daniel P. Kolz,0,0.0908845357243609,0.31128747720343375
+1596603808,Intelligent query re-execution,2002,12,54,3,1.0,2038687912,Jeffrey W. Tenner,0,0.014532710543751099,0.030944858938630852
+1907798214,Dynamic optimization of prepared statements in a statement pool,2007,60,40,4,0.175458,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+1909553113,Query modification analysis,2002,15,17,2,1.0,2115920827,Richard J. Stevens,0,0.0908845357243609,0.31128747720343375
+1589180798,Extracting portions of an abstract database for problem determination,2010,3,13,2,0.708077,1896647882,Frederick A. Kulack,0,-0.0041099411153885,0.0447066884760059
+1812478595,Determining query entities for an abstract database from a physical database table,2007,13,10,2,0.935429,1896647882,Frederick A. Kulack,0,1.3386868167616508,0.4601389904646512
+1607596198,SQL query construction using durable query components,2002,8,44,3,1.0,2038687912,Jeffrey W. Tenner,0,0.0908845357243609,0.31128747720343375
+1580787143,Apparatus and method for using database knowledge to optimize a computer program,2002,15,47,3,0.692308,2063751690,Eric L. Barsness,0,1.7414432482213413,0.41402770866845734
+1590057056,Automatic lock management in an abstract database,2003,9,10,4,1.0,1896647882,Frederick A. Kulack,0,2.100433190996281,0.5178050009752245
+1914440906,Creating a logical table from multiple differently formatted physical tables having different access methods,2004,79,40,4,1.0,2022001984,Daniel P. Kolz,0,-0.1232715727120712,0.2131450373911843
+1581312624,Techniques for processing data from a multilingual database,2007,30,18,3,0.935429,1896647882,Frederick A. Kulack,0,-0.46893397788284524,0.07728939382804885
+1770944614,Secure database access through partial encryption,2008,16,130,4,0.81039,1896647882,Frederick A. Kulack,0,0.711859572881822,0.1808111999490129
+1856794491,Multiple accounts for health record bank,2005,32,31,3,0.946697,2022001984,Daniel P. Kolz,0,-0.0041099411153885,0.0447066884760059
+1823170373,Abstractly mapped physical data fields,2008,14,10,3,0.6895,2022001984,Daniel P. Kolz,0,0.8486849482290238,0.6393357985831435
+1944327488,Query conditions-based security,2004,27,43,2,1.0,2022001984,Daniel P. Kolz,0,0.0908845357243609,0.31128747720343375
+1826036856,Intelligent use of user data to pre-emptively prevent execution of a query violating access controls,2003,24,29,2,1.0,2115920827,Richard J. Stevens,0,-0.0041099411153885,0.0447066884760059
+1583174288,Fee-based model based on database federation and query support,2004,13,18,2,0.900433,2115920827,Richard J. Stevens,0,1.8609737454617588,0.09775352149088291
+1602547276,Optimization of portable operations in a client-server environment,2002,6,25,3,0.692308,2063751690,Eric L. Barsness,0,-0.0041099411153885,0.0447066884760059
+2103909563,Rule application management in an abstract database,2004,14,19,2,0.900433,2115920827,Richard J. Stevens,0,1.2319447913191832,0.18976281982352325
+2105482251,Partial data model exposure through client side caching,2003,47,39,4,1.0,1896647882,Frederick A. Kulack,0,0.12628174114238816,0.0039009070058818006
+2124177348,Well organized query result sets,2004,72,50,3,1.0,2022001984,Daniel P. Kolz,0,0.7215975991611812,0.3052417628859806
+2121494308,Optimized method of locating complete aggregation of patient health records in a global domain,2010,48,17,3,0.668131,2022001984,Daniel P. Kolz,0,-0.0041099411153885,0.0447066884760059
+2162228302,Computer apparatus and method for caching results of a database query,2002,4,77,4,0.692308,2063751690,Eric L. Barsness,0,0.0638002336161955,-0.143865751680776
+2147050298,System and method for identifying qualifying data records from underlying databases,2005,27,23,2,0.946697,2022001984,Daniel P. Kolz,0,0.29731169117209755,-0.12799883591198208
+2210458374,Abstract query plan,2004,35,63,2,1.0,2022001984,Daniel P. Kolz,0,0.0908845357243609,0.31128747720343375
+2219908780,Dynamic authorization based on focus data,2006,22,4,3,1.0,1975588974,Janice R. Glowacki,0,0.7215975991611812,0.3052417628859806
+2220409330,Graphical user interface to build event-based dynamic searches or queries using event profiles,2002,8,108,3,1.0,2038687912,Jeffrey W. Tenner,0,-0.0041099411153885,0.0447066884760059
+2263027273,Method and system for managing execution of data driven workflows,2004,32,15,4,1.0,2022001984,Daniel P. Kolz,0,-0.07980600930961097,0.18419472351414626
+2229859710,ALIASED KEYS FOR FEDERATED DATABASE QUERIES,2007,3,4,3,0.762552,2115920827,Richard J. Stevens,0,0.25274486174193894,-0.2764388518434622
+2191994386,DISABLING SUBSETS OF QUERY CONDITIONS IN AN ABSTRACT QUERY ENVIRONMENT,2009,27,9,2,0.782164,1896647882,Frederick A. Kulack,0,-0.0041099411153885,0.0447066884760059
+2272950838,DATABASE OPTIMIZATION THROUGH SCHEMA MODIFICATION,2008,8,3,4,0.142428,2063751690,Eric L. Barsness,0,2.3520624002191926,0.458101805662832
+2204038987,Simplified and optimized process for application user interface testing and validation,2004,2,15,4,1.0,1896647882,Frederick A. Kulack,0,-0.5392646366612164,0.07082667600748775
+2222998576,Natural language support for database applications,2003,13,15,3,1.0,1896647882,Frederick A. Kulack,0,1.2718501051706712,0.07561317587666563
+2240330477,Peer to peer (p2p) concept query abstraction model augmentation with federated access only elements,2008,28,5,2,0.81039,1896647882,Frederick A. Kulack,0,0.0908845357243609,0.31128747720343375
+2259457171,Security model using security domains in a security model applied to abstract database,2007,5,22,4,0.840341,2022001984,Daniel P. Kolz,0,0.17275798541178253,-0.08993654820697157
+2254974705,Usage-based optimization of network traffic and data warehouse size,2008,11,5,4,0.81039,1896647882,Frederick A. Kulack,0,-0.0036255816741072033,0.26527575294577715
+2204973212,Techniques for managing interdependent data objects,2008,6,19,3,0.6895,2022001984,Daniel P. Kolz,0,-0.10866181887527789,0.5020236029743748
+2214716560,Extensible framework supporting deposit of heterogenous data sources into a target data repository,2003,12,41,2,1.0,2115920827,Richard J. Stevens,0,-0.7567571342236958,0.882111642763749
+2214992236,Query rebinding for high-availability database systems,2005,5,8,3,0.946697,2022001984,Daniel P. Kolz,0,0.9964426452166774,-0.11750554461999764
+2259694280,Apparatus and method for using a predefined database operation as a data source for a different database operation,2003,10,14,2,0.0,2271637186,Jennifer Lynn La Rocca,0,2.3174839048394165,0.6239910470434608
+2215393361,Abstraction based audit and security log model for increased role and security enforcement,2007,23,6,4,0.935429,1896647882,Frederick A. Kulack,0,0.4720300006936386,0.7376700734160129
+2273864827,Establishing a data management fee structure based on fine grained data entities,2013,14,5,2,0.564703,2115920827,Richard J. Stevens,0,-0.18724402417882705,0.03605917401554673
+2206062615,Method of generating database transaction statements based on existing queries,2004,9,13,2,0.900433,2115920827,Richard J. Stevens,0,1.2639254684379722,1.1730582467438517
+2197069331,Editing multiple file versions,2004,8,47,2,1.0,1896647882,Frederick A. Kulack,0,-0.6975698694000383,2.337901042747473
+2232122786,Method for presenting database query result sets using polymorphic output formats,2005,12,2,2,0.946697,2022001984,Daniel P. Kolz,0,0.7215975991611812,0.3052417628859806
+2216848561,Modification of a saved database query based on a change in the meaning of a query value over time,2008,29,0,5,1.0,1909815025,Marie Renee Wilkening,0,0.0908845357243609,0.31128747720343375
+2207545537,Modeling and implementing complex data access operations based on lower level traditional operations,2008,21,9,2,0.688527,2115920827,Richard J. Stevens,0,-0.03235864679034459,-0.22353470453407587
+2270592977,Peer to peer (p2p) federated concept queries,2008,33,92,2,0.81039,1896647882,Frederick A. Kulack,0,0.0908845357243609,0.31128747720343375
+2199424180,Database breakpoint apparatus and method,2002,14,22,6,0.692308,2063751690,Eric L. Barsness,0,1.8177968211366533,0.37065122750823165
+2246294106,PROCESSING DATABASE QUERIES BY RETURNING RESULTS OF A FIRST QUERY TO SUBSEQUENT QUERIES,2009,11,11,4,0.138097,2063751690,Eric L. Barsness,0,0.0908845357243609,0.31128747720343375
+2226529762,Method for executing federated database queries using aliased keys,2007,4,9,3,0.762552,2115920827,Richard J. Stevens,0,0.25274486174193894,-0.2764388518434622
+2297266925,SYSTEM AND METHOD FOR CREATING AND POPULATING DYNAMIC JUST IN TIME DATABASE TABLES,2006,37,4,4,1.0,1896647882,Frederick A. Kulack,0,0.1253072255672687,0.615964569346585
+2288934824,Database enabled messaging facility,2002,4,38,4,0.692308,2063751690,Eric L. Barsness,0,2.186789402874493,0.532736365257446
+2306222360,Apparatus and method for processing database queries,2003,11,6,4,0.519231,2063751690,Eric L. Barsness,0,0.0908845357243609,0.31128747720343375
+2280897171,Data query system load balancing,2003,13,12,4,1.0,1896647882,Frederick A. Kulack,0,0.7215975991611812,0.3052417628859806
+2289688563,Polymorphic result sets,2005,10,10,2,0.946697,2022001984,Daniel P. Kolz,0,0.5788298090366257,-0.09678118259150513
+2277415595,Web service discovery via data abstraction model with input assistance,2010,42,6,4,0.708077,1896647882,Frederick A. Kulack,0,-0.6077308453762984,-0.18466961362747117
+2287052593,Sequence support operators for an abstract database,2005,102,21,2,0.946697,2022001984,Daniel P. Kolz,0,0.5340277375805791,0.07866450102930073
+2302180537,Apparatus and method for modification of a saved database query based on a change in the meaning of a query value over time,2006,13,13,5,1.0,1909815025,Marie Renee Wilkening,0,0.0908845357243609,0.31128747720343375
+2401037590,Intelligent condition pruning for size minimization of dynamic just in time tables,2006,18,8,2,1.0,1896647882,Frederick A. Kulack,0,-0.053417602161330624,0.42849087552543014
+2403969454,Techniques for managing access to physical data via a data abstraction model,2004,2,19,2,1.0,2022001984,Daniel P. Kolz,0,0.8633243400556561,0.9381826216334237
+2396208578,Extending data access and analysis capabilities via abstract polymorphic functions,2004,7,10,4,1.0,2022001984,Daniel P. Kolz,0,1.4776922347645451,0.1647645651841383
+2394595653,FILTERING QUERY RESULTS USING MODEL ENTITY LIMITATIONS,2008,19,6,3,0.6895,2022001984,Daniel P. Kolz,0,0.7215975991611812,0.3052417628859806
+2412230514,Method and process for co-existing versions of standards in an abstract and physical data environment,2005,3,10,2,1.0,2068041946,Judy I. Djugash,0,0.9607336488690934,0.08237841664529673
+2405927830,System and method for accessing unstructured data using a structured database query environment,2007,6,11,2,0.935429,1896647882,Frederick A. Kulack,0,0.21083636198344508,0.25527476479285294
+2406046982,Method for restricting queryable data in an abstract database,2003,6,17,2,1.0,2115920827,Richard J. Stevens,0,1.3048134241781268,0.16590565420481354
+2414945749,Rule application management in an abstract database abstract of the disclosure,2004,8,0,2,0.900433,2115920827,Richard J. Stevens,0,1.3048134241781268,0.16590565420481354
+2415018802,System and method for managing access to data in a database,2005,5,15,3,0.946697,2022001984,Daniel P. Kolz,0,0.6645053042195042,-0.14035769268707932
+2735520383,Optimized method for locating electronic patient records in a national health network,2006,5,0,3,0.881769,2022001984,Daniel P. Kolz,0,-0.0041099411153885,0.0447066884760059

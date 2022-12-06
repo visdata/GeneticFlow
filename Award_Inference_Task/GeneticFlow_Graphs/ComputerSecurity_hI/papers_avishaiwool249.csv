@@ -1,0 +1,59 @@
+214166028,Control variable classification modeling and anomaly detection in Modbus/TCP SCADA systems,2015,31,50,2,0.0,2988657993,Noam Erez,0,0.42684284174214643,0.41500649639246623
+25023164,Range Extension Attacks on Contactless Smart Cards,2013,18,7,3,0.75,2627822722,Yossef Oren,0,0.00707541092469847,0.6266485903224027
+1496849560,Install-Time Vaccination of Windows Executables to Defend Against Stack Smashing Attacks,2004,11,13,2,0.0,2973656732,Danny Nebenzahl,0,0.1639362940477497,0.6530314529854678
+1488608415,How to build a low-cost extended-range RFID skimmer,2006,12,85,2,0.0,2281370297,Ilan Kirschenbaum,0,-0.653831480462692,0.3730970539358575
+1508479043,Firewall Configuration Errors Revisited,2009,3,5,1,1.0,2064532066,Avishai Wool,0,-0.1112880672739179,0.3275403405410478
+1518070019,Picking Virtual Pockets using Relay Attacks on Contactless Smartcard,2005,13,137,2,0.0,1009455713,Z. Kfir,0,-0.4732919137041845,0.3948543370154618
+1493284097,Long-Lived Broadcast Encryption,2000,21,129,3,0.0,2163806572,Juan A. Garay,0,0.22254150967313135,-2.1801680950509503
+1511193443,Towards Making Broadcast Encryption Practical,1999,24,21,3,0.0,2143328931,Michel Abdalla,0,0.008898706870748396,-1.4326515690550123
+1751107543,Cryptographic method for restricting access to transmitted programming content using Æ’-redundant establishment key combinations,1999,1,18,1,1.0,2064532066,Avishai Wool,0,0.3139939642973432,-0.4259949914620587
+1933830016,Method and apparatus for managing a firewall,2000,16,106,2,1.0,1994825076,Yair Bartal,0,1.3585678300828796,0.16490528678793315
+1772426841,Cryptographic method and apparatus for restricting access to transmitted programming content using hash functions and program identifiers,1999,25,52,1,1.0,2064532066,Avishai Wool,0,-0.07200828843800809,-0.6996818717846486
+1860215963,Firmato a novel firewall management toolkit,1999,18,175,4,1.0,1994825076,Yair Bartal,0,1.4180701535587608,0.36811080769862714
+1923195206,Architecting the Lumeta firewall analyzer,2001,5,124,1,1.0,2064532066,Avishai Wool,0,1.622331285911387,0.3535734687706985
+1866299331,RFID Jamming and Attacks on Israeli e-Voting,2012,9,5,1,1.0,2064532066,Avishai Wool,0,0.0040557659796233,0.2757546058061082
+1978793129,A practical revocation scheme for broadcast encryption using smartcards,2006,21,18,3,0.857143,2033366826,Noam Kogan,0,0.3285942036340721,-1.0525347677159609
+1987366715,Lightweight key management for IEEE 80211 wireless LANs with key refresh and host revocation,2005,12,61,1,1.0,2064532066,Avishai Wool,0,-1.0277641487452003,-1.2577746305692532
+1988924930,Toward securing untrusted storage without public-key operations,2005,20,20,3,0.0,2202102189,Dalit Naor,0,-0.176019396467306,-1.5912989869281282
+2025371306,RFID-based electronic voting What could possibly go wrong ,2010,11,7,1,1.0,2064532066,Avishai Wool,0,-0.09271876265035102,0.5925535062959312
+2011376194,On location-restricted services,1999,8,29,2,0.5,223632183,Eran Gabber,0,0.0040557659796233,0.2757546058061082
+2032876011,Access control and signatures via quorum secret sharing,1996,48,20,2,0.0,1023361224,Moni Naor,0,-0.3614367622039335,0.19021867249922006
+2042448840,A quantitative study of firewall configuration errors,2004,8,343,1,1.0,2064532066,Avishai Wool,0,0.8094657368132705,0.11034120141223727
+2057879647,How to prove where you are tracking the location of customer equipment,1998,5,43,2,0.5,223632183,Eran Gabber,0,0.0040557659796233,0.2757546058061082
+2077583140,Key management for encrypted broadcast,1998,29,7,1,1.0,2064532066,Avishai Wool,0,0.19591103407159127,-0.8273198125909017
+2058780527,Implementing public-key cryptography on passive RFID tags is practical,2015,27,27,4,1.0,1966700464,Alex Arbit,0,0.25403479601206214,-0.8655723537700974
+2071047770,Key management for encrypted broadcast,2000,30,34,1,1.0,2064532066,Avishai Wool,0,0.42118516962114,-0.5394635531965413
+2080335657,Dictionary attacks using keyboard acoustic emanations,2006,7,109,2,0.0,2227894416,Yigael Berger,0,-1.4085726045122575,-0.9971900692780112
+2099863231,A practical revocation scheme for broadcast encryption using smart cards,2003,20,38,3,0.857143,2033366826,Noam Kogan,0,0.362110519676359,-0.9973203627016015
+2100655450,CRUST Cryptographic Remote Untrusted Storage without Public Keys,2007,32,5,2,1.0,2113735105,Erel Geron,0,-0.14828885047961868,-1.2814699842184671
+2089944128,Accurate modeling of Modbus/TCP for intrusion detection in SCADA systems,2013,18,151,2,0.0,2502049434,Niv Goldenberg,0,1.2405420802258973,0.9688677338585001
+2101341762,CRUST cryptographic remote untrusted storage without public keys,2009,32,13,2,1.0,2113735105,Erel Geron,0,0.0040557659796233,0.2757546058061082
+2099065842,The use and usability of direction-based filtering in firewalls,2004,15,42,1,1.0,2064532066,Avishai Wool,0,0.8915141729314211,0.17928539286787037
+2105322820,A note on the fragility of the &quot;Michael&quot; message integrity code,2004,9,25,1,1.0,2064532066,Avishai Wool,0,-1.4744822675915488,-1.7921364899112409
+2108474283,Access control and signatures via quorum secret sharing,1998,50,67,2,0.0,1023361224,Moni Naor,0,0.5264134811908556,0.26753745744335844
+2138623315,Fang a firewall analysis engine,2000,10,259,2,0.75,2611376370,Alain Mayer,0,0.6391109419592869,0.3665040265358274
+2107254640,Uniform Framework for Cryptanalysis of the Bluetooth E&amp;#8320; Cipher,2005,8,12,1,1.0,2064532066,Avishai Wool,0,1.0019710125658825,-1.1628582900316207
+2171898644,Offline firewall analysis,2006,26,61,2,0.75,2611376370,Alain Mayer,0,1.9665936314894812,0.14491536311988604
+2149165438,WDA A Web farm Distributed Denial Of Service attack attenuator,2011,37,13,2,0.0,2555052624,Ehud Doron,0,0.2952107584090067,0.7145741204173159
+2158258599,Picking Virtual Pockets using Relay Attacks on Contactless Smartcard Systems,2005,13,116,2,0.0,2973952510,Ziv Kfir,0,-0.4732919137041845,0.3948543370154618
+2155899207,A Secure Supply-Chain RFID System that Respects Your Privacy,2014,12,10,3,1.0,1966700464,Alex Arbit,0,0.4357715358479881,-0.17386615750467707
+2185946411,On (oca tion-Res tricted Services,1999,2,0,2,0.5,223632183,Eran Gabber,0,0.0040557659796233,0.2757546058061082
+2183353244,A Practical Revocation Scheme for Broadcast Encryption Using Smart Cards Extended Abstract,2003,0,1,2,0.857143,2033366826,Noam Kogan,0,0.5500422495580212,-0.8411705230492085
+2280352955,Method for providing long-lived broadcast encrypton,2000,14,23,1,1.0,2064532066,Avishai Wool,0,-0.1982154068438867,-1.7250003845444406
+2289910791,A Security Analysis and Revised Security Extension for the Precision Time Protocol,2016,17,0,2,1.0,2524281740,Eyal Itkin,0,-0.09213298114630612,-0.24708759839154631
+2404849642,Analyzing Unique-Bid Auction Sites for Fun and Profit,2013,22,0,3,0.0,2401532589,Ory Samorodnitzky,0,0.0040557659796233,0.2757546058061082
+2407672961,Attacks on RFID-Based Electronic Voting Systems,2009,9,18,2,0.6,2627822722,Yossef Oren,0,-0.11856668915356362,0.7179574592929931
+2400707318,Secure Containers in Android The Samsung KNOX Case Study,2016,8,12,2,0.0,2975596253,Uri Kanonov,0,0.384247405243404,0.21882542439432426
+2613172230,Long-lived broadcast encryption,2000,0,0,3,0.0,2163806572,Juan A. Garay,0,0.22254150967313135,-2.1801680950509503
+2590845164,Modeling Modbus TCP for intrusion detection,2016,8,6,3,0.0,2303643105,Mustafa Amir Faisal,0,0.37440620404481767,0.6348465907754611
+2676982324,Photonic side channel attacks against RSA,2017,14,5,3,0.0,2560655937,Elad Carmon,0,0.5933005802474812,-1.3021262116514785
+2732665834,Stealthy Deception Attacks Against SCADA Systems,2017,3,2,3,0.0,1971617947,Amit Kleinmann,0,-0.4276719405628437,0.2187165831768082
+2750292152,METHOD FOR TRANSMITTING PROGRAM TO LIMIT ACCESS TO END USER AND METHOD FOR DECODING ENCRYPTED PROGRAM,2000,0,37,1,1.0,2064532066,Avishai Wool,0,0.11272554688432594,0.1621698651775558
+2752040793,A Security Analysis and Revised Security Extension for the Precision Time Protocol,2020,23,3,2,1.0,2524281740,Eyal Itkin,0,-0.21946617276335836,-0.7441668945553807
+2740072498,METHOD AND SYSTEM TO MANAGE FIREWALL,2000,0,11,2,1.0,1994825076,Yair Bartal,0,0.763800949919825,0.408098638865346
+2887365130,Navigating the Samsung TrustZone and Cache-Attacks on the Keymaster Trustlet,2018,10,1,2,0.0,2885454458,Ben Lapid,0,0.16625186412845705,-0.7405372439782839
+2951566124,CRUST Cryptographic Remote Untrusted Storage without Public Keys,2007,0,0,2,1.0,2113735105,Erel Geron,0,0.2361513683834986,-0.8213849858249441
+2950444770,Access Control and Signatures via Quorum Secret Sharing,1996,0,0,2,0.0,1023361224,Moni Naor,0,0.6570968837103089,0.26119320993114786
+2963082174,Stealthy Deception Attacks Against SCADA Systems,2017,30,8,3,0.0,1971617947,Amit Kleinmann,0,-0.4946852872413052,0.16518008581041513
+2953084212,Secure Containers in Android the Samsung KNOX Case Study,2016,19,0,2,0.0,2975596253,Uri Kanonov,0,0.384247405243404,0.21882542439432426
+2991664938,Combating the perils of port 80 at the firewall,2002,0,1,1,1.0,2064532066,Avishai Wool,0,-0.1112880672739179,0.3275403405410478

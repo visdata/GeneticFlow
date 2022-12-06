@@ -1,0 +1,40 @@
+175735201,External Knowledge Sources for Question Answering,2005,15,35,11,0.0,2146601931,Boris Katz,0,-0.7002025936452952,-0.3885070512338605
+283797413,Annotating risk factors for heart disease in clinical narratives for diabetic patients,2015,14,42,2,0.0,2101099414,Amber Stubbs,0,-0.9634542336410225,-0.21701430272212024
+997324903,Ease of adoption of clinical natural language processing software,2015,21,12,2,0.0,362793051,V. G. Vinod Vydiswaran,0,0.003708468606338,0.082832279151172
+1019512417,Identifying risk factors for heart disease over time,2015,29,60,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+1034374084,Automated systems for the de-identification of longitudinal clinical narratives,2015,33,68,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+1081873870,A systematic comparison of feature space effects on disease classifier performance for phenotype identification of five diseases,2015,37,14,2,0.0,2174633225,Christopher Kotfila,0,0.43162625009792,0.20195636031746017
+1628282653,Temporal reasoning over clinical text the state of the art,2013,91,33,3,0.782609,2315497976,Weiyi Sun,0,-0.9676297450215435,0.6509318994763491
+1672757658,Evaluating the state of the art in coreference resolution for electronic medical records,2012,30,95,1,1.0,687469964,Ã–zlem Uzuner,0,-0.8975624487643943,-0.20785787517788346
+1907355364,Normalization of relative and incomplete temporal expressions in clinical narratives,2015,28,7,3,0.782609,2315497976,Weiyi Sun,0,0.43162625009792,0.20195636031746017
+1790969174,Practical applications for natural language processing in clinical research,2015,40,12,1,1.0,687469964,Ã–zlem Uzuner,0,0.3418379320710181,0.00840462367000535
+1984340934,Semantic relations for problem-oriented medical records,2010,34,36,1,1.0,687469964,Ã–zlem Uzuner,0,0.19801270189863196,0.05927355502390678
+2005430761,Methodological Review Annotating temporal information in clinical narratives,2013,35,39,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+2027353179,Can Linguistic Predictors Detect Fraudulent Financial Filings,2010,62,41,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+2033185676,Editorial Chronology of your health events Approaches to extracting temporal relations from medical narratives,2013,38,3,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+2055417936,Specializing for predicting obesity and its co-morbidities,2009,52,10,2,0.0,2128345483,Ira Goldstein,0,0.1626030846648488,0.31535583577759135
+2138482836,A cascade of classifiers for extracting medication information from discharge summaries,2011,18,19,5,0.0,2427002962,Scott Halgrim,0,0.43162625009792,0.20195636031746017
+2110120974,MCORES a system for noun phrase coreference resolution for clinical records,2012,37,10,3,0.0,1898409700,Andreea Bodnari,0,0.003708468606338,0.082832279151172
+2124996938,Subgraph augmented non-negative tensor factorization (SANTF) for modeling clinical narrative text,2015,59,38,5,0.35874,2678991133,Yuan Luo,0,-0.2897385736451258,0.8140938403785999
+2137407193,Evaluating temporal relations in clinical text 2012 i2b2 Challenge,2013,42,205,3,0.782609,2315497976,Weiyi Sun,0,0.14139998074162607,0.24033712775287008
+2114039834,Extracting medication information from clinical text,2010,22,287,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+2159426036,Word sense disambiguation in the clinical domain a comparison of knowledge-rich and knowledge-poor unsupervised methods,2014,32,22,2,0.0,29903417,Peter Szolovits,0,-0.3064091480233268,0.30612015375819707
+2145270227,Community annotation experiment for ground truth generation for the i2b2 medication challenge,2010,19,78,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+2160987310,Evaluating the State-of-the-Art in Automatic De-identification,2007,39,246,2,0.0,29903417,Peter Szolovits,0,0.21438872843298346,-0.1353423822296997
+2168041406,2010 i2b2/VA challenge on concepts assertions and relations in clinical text,2011,26,546,1,1.0,687469964,Ã–zlem Uzuner,0,1.7269113796077928,-0.12320847888487611
+2156061936,A de-identifier for medical discharge summaries,2008,30,67,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+2252979829,Bridging semantics and syntax with graph algorithmsâ€”state-of-the-art of extracting biomedical relations,2017,192,30,2,0.0,29903417,Peter Szolovits,0,0.2016949248014143,-0.3525965458501765
+2220957680,No Structure Before Its Time,2008,4,2,1,1.0,687469964,Ã–zlem Uzuner,0,-0.2549982742955442,0.2215840602359772
+2190333735,Annotating longitudinal clinical narratives for de-identification,2015,14,54,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+2490971013,Do Sentiments Matter in Fraud Detection Estimating Semantic Orientation of Annual Reports,2016,52,9,2,0.0,2099002403,Sunita Goel,0,0.003708468606338,0.082832279151172
+2548881486,Feature-Augmented Neural Networks for Patient Note De-identification,2016,16,4,3,0.0,2620003595,Ji Young Lee,0,0.003708468606338,0.082832279151172
+2624380710,De-identification of psychiatric intake records Overview of 2016 CEGS N-GRID shared tasks Track 1,2017,21,27,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+2608185370,Symptom severity prediction from neuropsychiatric clinical records Overview of 2016 CEGS N-GRID shared tasks Track 2,2017,23,15,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+2753068549,Segment convolutional neural networks (Seg-CNNs) for classifying relations in clinical notes,2018,36,34,3,0.35874,2678991133,Yuan Luo,0,0.003708468606338,0.082832279151172
+2963956191,De-identification of patient notes with recurrent neural networks,2016,57,87,3,0.0,2786623866,Franck Dernoncourt,0,0.003708468606338,0.082832279151172
+2990612605,An Empirical Test of GRUs and Deep Contextualized Word Representations on De-Identification,2019,0,0,3,0.0,2805660335,Kahyun Lee,0,0.003708468606338,0.082832279151172
+2981248722,An Exploratory Study on Pseudo-Data Generation in Prescription and Adverse Drug Reaction Extraction,2019,0,0,4,0.0,2747050862,Carson Tao,0,0.3657638153620942,0.15460976556060488
+2109206523,Identifying Patient Smoking Status from Medical Discharge Records,2008,47,243,1,1.0,687469964,Ã–zlem Uzuner,0,0.003708468606338,0.082832279151172
+1995151442,Machine Learning and Rule-based Approaches to Assertion Classification,2009,19,68,1,1.0,687469964,Ã–zlem Uzuner,0,0.22290397433273312,0.32284792400555756
+2096252540,Overcoming barriers to NLP for clinical text the role of shared tasks and the need for additional creative solutions,2011,20,158,7,0.0,2153584649,Wendy W. Chapman,0,0.5738063144004295,0.4498146357422351
+2979250794,2018 n2c2 shared task on adverse drug events and medication extraction in electronic health records,2020,25,8,5,0.0,2730423517,Kevin Buchan,0,0.30668914665374597,-0.7035527842493577

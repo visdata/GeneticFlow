@@ -1,0 +1,35 @@
+39374552,A practical congestion attack on tor using long paths,2009,29,146,2,0.0,2110048567,Nathan S. Evans,0,-0.16420021596708323,0.32292378428885316
+196561961,Tor and the censorship arms race lessons learned (abstract),2011,0,0,1,1.0,2046591593,Roger Dingledine,0,0.01377167274390649,0.28945306302761104
+180993580,Resisting Traffic Analysis on Unclassified Networks,2004,16,0,3,0.0,2010281829,Catherine Meadows,0,0.021721355898138874,-0.7282181492402999
+113480497,Challenges in deploying low-latency anonymity,2005,32,19,2,0.875,2018283104,Nick Mathewson,0,0.05217931828688649,-0.34164062428597397
+164989892,Reputation in P2P Anonymity Systems,2003,10,82,2,0.868421,2018283104,Nick Mathewson,0,-0.4779013561964336,0.3688910680589569
+1508725737,Blending different latency traffic with alpha-mixing,2006,17,12,1,1.0,2046591593,Roger Dingledine,0,0.18354136547339395,-0.08354630913004639
+1518119787,Reliable MIX cascade networks through reputation,2002,28,92,1,1.0,2046591593,Roger Dingledine,0,-0.3870212450689167,0.3785119502439498
+1509835774,Synchronous batching from cascades to free routes,2004,31,48,1,1.0,2046591593,Roger Dingledine,0,0.4890164680309871,0.11162981515495163
+1496211266,Privacy enhancing technologies Second International Workshop PET 2002 San Francisco CA USA April 14-15 2002 revised papers,2003,0,3,1,1.0,2046591593,Roger Dingledine,0,0.3323707990897526,1.7810391315248157
+1603816591,Mixminion Strong Anonymity for Financial Cryptography,2004,9,3,2,0.875,2018283104,Nick Mathewson,0,-0.036630008906178936,-0.20383216863426967
+1604746990,A Reputation System to Increase MIX-Net Reliability,2001,11,73,1,1.0,2046591593,Roger Dingledine,0,0.3139939642973432,-0.4259949914620587
+1805249784,On the Economics of Anonymity,2003,22,136,2,0.0,233060415,Alessandro Acquisti,0,-0.16420021596708323,0.32292378428885316
+1806207855,Financial Cryptography and Data Security 13th International Conference FC 2009 Accra Beach Barbados February 23-26 2009 Revised Selected Papers,2009,0,2,2,0.0,2014852109,Philippe Golle,0,0.010995846701403356,-0.4714075355808085
+1580004440,The free haven project distributed anonymous storage service,2001,25,282,1,1.0,2046591593,Roger Dingledine,0,-0.3661365514876979,0.4308647782498746
+1815005891,Evading censorship with browser-based proxies,2012,13,48,6,0.0,2809824824,David Fifield,0,-1.1051990978263064,0.8951119400738397
+1655958391,Tor the second-generation onion router,2004,46,2664,1,1.0,2046591593,Roger Dingledine,0,0.8466626798133975,-1.0833882757273006
+2002421583,Location diversity in anonymity networks,2004,28,100,2,0.0,1373210103,Nick Feamster,0,0.01197170124860783,0.6217215671375664
+2072774156,Reputation in privacy enhancing technologies,2002,4,14,2,0.868421,2018283104,Nick Mathewson,0,0.8760170781201997,2.854113032909605
+2099868491,A case study on measuring statistical data in the tor anonymity network,2010,9,61,3,0.0,2041290137,Karsten Loesing,0,-0.8317990999577579,0.5168026739324809
+2080977773,Changing of the guards a framework for understanding and improving entry guard selection in tor,2012,13,60,4,0.0,2072630886,Tariq Elahi,0,-0.16420021596708323,0.32292378428885316
+2103597742,Practical traffic analysis extending and resisting statistical disclosure,2004,33,136,2,0.875,2018283104,Nick Mathewson,0,0.3806664790730903,-0.22544293949717026
+2120564054,Deploying Low-Latency Anonymity Design Challenges and Social Factors,2007,16,40,1,1.0,2046591593,Roger Dingledine,0,-0.05054874923018485,0.028319995055556046
+2118451355,Building incentives into tor,2010,50,56,2,0.0,2214100618,Tsuen Wan â€œJohnnyâ€™â€˜ Ngan,0,0.0040557659796233,0.2757546058061082
+2128735745,From a Trickle to a Flood Active Attacks on Several Mix Types,2002,10,106,2,0.222222,303149343,Andrei Serjantov,0,0.5283205130065093,-0.04903145488846992
+2114016378,Survivable key compromise in software update systems,2010,20,48,4,0.0,2645333200,Justin Samuel,0,-0.41709520877959216,0.3598753489633
+2150248082,Mixminion design of a type III anonymous remailer protocol,2003,39,590,2,0.0,22890495,George Danezis,0,-0.03655986432719271,-0.6617494408557937
+2164414844,Trust-based anonymous communication adversary models and routing algorithms,2011,47,41,3,0.0,2261877457,Aaron Johnson,0,0.08805536508377704,0.4954516949193586
+2189469435,Performance Improvements on Tor or Why Tor is slow and what were going to do about it,2009,13,65,1,1.0,2046591593,Roger Dingledine,0,0.0040557659796233,0.2757546058061082
+2235280939,Tor and circumvention lessons learned,2011,3,16,1,1.0,2046591593,Roger Dingledine,0,1.209735946340979,-0.9433706410006292
+2371186109,Tor The Second-Generation Onion Router (2014 DRAFT v1),2012,39,12,2,0.795595,2018283104,Nick Mathewson,0,0.03581376372564114,-1.0434574257313232
+2398698140,Tor and Circumvention Lessons Learned - (Abstract to Go with Invited Talk),2011,2,3,1,1.0,2046591593,Roger Dingledine,0,-0.8317990999577579,0.5168026739324809
+2460119894,From a trickle to a flood Active attacks on several mix types,2003,0,67,2,0.222222,303149343,Andrei Serjantov,0,-0.16420021596708323,0.32292378428885316
+2526917861,Blending different latency traffic with alpha-mixing,2006,0,2,1,1.0,2046591593,Roger Dingledine,0,-0.28764808167763006,0.5245266195491751
+2612576114,Financial Cryptography and Data Security,2009,0,6,2,0.0,2014852109,Philippe Golle,0,-0.41470736414789633,-0.36822957963533653
+2999024666,Session details Privacy preserving services and human factors,2007,0,0,1,1.0,2046591593,Roger Dingledine,0,0.03414406787360945,0.2818663120264617

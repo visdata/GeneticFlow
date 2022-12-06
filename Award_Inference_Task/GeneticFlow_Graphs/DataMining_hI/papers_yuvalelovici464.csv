@@ -1,0 +1,104 @@
+173866368,Predicting student exams scores by analyzing social network data,2012,26,33,3,0.886364,1985502408,Michael Fire,0,0.003708468606338,0.082832279151172
+100426646,An Overview of IDS Using Anomaly Detection,2009,0,0,2,0.0,1979308116,Lior Rokach,0,-0.3358297025210291,0.45157216120970217
+50928538,Detecting anomalous behaviors using structural properties of social networks,2013,29,8,4,0.6,1719908009,Yaniv Altshuler,0,0.003708468606338,0.082832279151172
+935946738,METHOD AND SYSTEM FOR TRACKING THE WHEREABOUTS OF PEOPLE IN URBAN SETTINGS,2014,4,0,1,1.0,284313219,Yuval Elovici,0,-0.026455835395150396,0.355534568731001
+1550818101,Architecture for identifying electronic threat patterns,2007,10,34,1,1.0,284313219,Yuval Elovici,0,0.003708468606338,0.082832279151172
+1482612322,Unknown Malcode Detection Using OPCODE Representation,2008,17,121,7,0.705882,319285823,Robert Moskovitch,0,1.0381286948435444,0.6990767702794205
+1527686003,Terrorist detection system,2004,4,2,1,1.0,284313219,Yuval Elovici,0,0.4516076501797433,0.17228555285671684
+1265191870,XML-AD,2016,35,5,1,1.0,284313219,Yuval Elovici,0,-1.9677012835139724,-0.16449394434763193
+1492995925,Using the Information Structure Model to Compare Profile-Based Information Filtering Systems,2003,23,7,1,1.0,284313219,Yuval Elovici,0,-0.3110588633984039,-0.7006808297395347
+1511079641,Content-Based detection of terrorists browsing the web using an advanced terror detection system (ATDS),2005,22,12,1,1.0,284313219,Yuval Elovici,0,0.20279561436658805,0.0753070172078775
+1574820975,Unknown malcode detection using classifiers with optimal training sets,2009,13,53,1,1.0,284313219,Yuval Elovici,0,0.42944049615182295,0.016798559008116314
+1575078351,Malicious Code Detection Using Active Learning,2009,17,28,3,0.536073,319285823,Robert Moskovitch,0,0.3566007827504359,0.40434957908221225
+1748265123,Detecting spammers via aggregated historical data set,2012,23,4,2,1.0,2065121292,Eitan Menahem,0,0.003708468606338,0.082832279151172
+1957199477,How many makes a crowd on the evolution of learning as a factor of community coverage,2012,32,31,4,0.6,1719908009,Yaniv Altshuler,0,-0.1908094651786742,0.41037779126763796
+1589059893,Analyzing group E-mail exchange to detect data leakage,2013,14,5,4,1.0,1923800266,Polina Zilberman,0,0.003708468606338,0.082832279151172
+1761759185,Method and system for detecting malicious behavioral patterns in a computer using machine learning,2007,12,99,2,1.0,166570777,Dima Stopel,0,0.11951983560390811,0.5022741552366534
+1938811605,pcStream A Stream Clustering Algorithm for Dynamically Detecting and Managing Temporal Contexts,2015,27,8,4,0.875,1967002463,Yisroel Mirsky,0,-0.019360317587223008,1.396911600657832
+1890820876,A Chronological Evaluation of Unknown Malcode Detection,2009,12,11,3,0.536073,319285823,Robert Moskovitch,0,0.43162625009792,0.20195636031746017
+1825827175,Content-based methodology for anomaly detection on the web,2003,38,19,2,0.0,1966632966,Bracha Shapira,0,0.130099052872368,0.041862783482191475
+1964204142,A distributed architecture for efficient parallelization and computation of knowledge-based temporal abstractions,2012,36,5,3,0.923077,1514115001,Asaf Shabtai,0,-0.14227642197307927,-0.1700856792629208
+1964241047,Andromaly a behavioral malware detection framework for android devices,2012,60,515,3,0.923077,1514115001,Asaf Shabtai,0,-0.0328650585799,0.10951204195828534
+1593414618,kACTUS 2 Privacy Preserving in Classification Tasks Using k-Anonymity,2009,24,9,2,0.315789,2089069711,Slava Kisilevich,0,-0.08219684055276005,0.4370923699984199
+1727953485,PRAWâ€”A PRivAcy model for the Web Research Articles,2005,0,9,3,0.0,262624057,Tsvi Kuflik,0,-0.1026671960401724,-1.1294693490945402
+1788060160,Trade-Offs in social and behavioral modeling in mobile networks,2013,37,14,5,0.6,1719908009,Yaniv Altshuler,0,-0.1908094651786742,0.41037779126763796
+1969890816,Entity Matching in Online Social Networks,2013,8,63,4,1.0,1978856747,Olga Peled,0,0.23385493571042362,-0.15694410202047732
+1972225130,Clusterâ€analysis attack against a PRivAte Web solution (PRAW),2006,35,11,2,1.0,283050650,Adlay Meshiach,0,-0.1026671960401724,-1.1294693490945402
+1986394600,Evaluation of a temporal-abstraction knowledge acquisition tool in the network security domain,2007,13,4,4,1.0,1514115001,Asaf Shabtai,0,-0.18323650356262255,-0.0785038757869387
+1965630947,Poster applying unsupervised context-based analysis for detecting unauthorized data disclosure,2011,5,9,4,0.0,2227629518,Maayan Gafny,0,-0.2854698002563609,0.5726440181239862
+2004929791,IP2User -- Identifying the Username of an IP Address in Network-Related Events,2013,2,0,8,0.834585,1514115001,Asaf Shabtai,0,0.20279561436658805,0.0753070172078775
+1987684126,Detection of malicious code by applying machine learning classifiers on static features A state-of-the-art survey,2009,50,177,3,1.0,1514115001,Asaf Shabtai,0,-0.25023896793326905,0.13037718530513653
+1995257286,Analyzing users web surfing patterns to trace terrorists and criminals,2013,1,6,4,1.0,604132150,Gabi Kedma,0,0.06088699195556354,-0.20036437978412466
+2005926671,Eliciting domain expert misuseability conceptions,2011,6,3,4,1.0,2106809615,Amir Harel,0,-0.7231376848539771,-0.059377568773623914
+2004511978,Unknown malcode detection and the imbalance problem,2009,31,52,6,0.536073,319285823,Robert Moskovitch,0,0.5735070164738925,0.39753386247491057
+2018916405,CoBAn A context based model for data leakage prevention,2014,70,33,2,0.333333,2132343420,Gilad Katz,0,-0.15732612438816426,-0.0486651988975486
+2012309545,M-Score A Misuseability Weight Measure,2012,31,22,4,1.0,2106809615,Amir Harel,0,-0.9634542336410225,-0.21701430272212024
+2012370199,Detection of Unknown Computer Worms Activity Based on Computer Behavior using Data Mining,2007,28,8,8,0.705882,319285823,Robert Moskovitch,0,-0.25023896793326905,0.13037718530513653
+2017931641,Clustering di-graphs for continuously verifying users according to their typing patterns,2010,14,20,1,1.0,284313219,Yuval Elovici,0,-0.21934185016841626,0.6056873083074126
+2015137455,The CASH algorithm-cost-sensitive attribute selection using histograms,2013,47,26,2,0.0,2524528544,Yael Weiss,0,-0.3322627050670744,0.10955298361776944
+2029256027,A fast and scalable method for threat detection in large-scale DNS logs,2013,11,6,2,0.0,2007049433,Ron Begleiter,0,0.12492345808765674,0.23414093372237493
+2050692567,Combining one-class classifiers via meta learning,2013,30,19,3,0.9,2065121292,Eitan Menahem,0,1.419129942377152,0.5736127881287326
+2050855115,Novel active learning methods for enhanced PC malware detection in windows OS,2014,62,59,4,1.0,2306244810,Nir Nissim,0,0.003708468606338,0.082832279151172
+2049356654,A decision theoretic approach to combining information filters An analytical and empirical evaluation,2006,46,6,1,1.0,284313219,Yuval Elovici,0,0.003708468606338,0.082832279151172
+2040608723,Homing socialbots intrusion on a specific organizations employee using Socialbots,2013,16,33,4,0.0,253374208,Aviad Elyashar,0,0.08329114195231535,0.32893178638165566
+2037369246,An intelligent interactive tool for exploration and visualization of time-oriented security data,2006,26,22,4,1.0,1514115001,Asaf Shabtai,0,0.13082037533086938,0.26099989054062306
+2042742130,Improving malware detection by applying multi-inducer ensemble,2009,30,97,4,1.0,2065121292,Eitan Menahem,0,0.3124591728278306,0.47166219753597804
+2043231885,Resilience of Anti-malware Programs to NaÃ¯ve Modifications of Malicious Binaries,2014,5,1,4,0.0,1988294928,Mordechai Guri,0,0.003708468606338,0.082832279151172
+2057686088,Optimizing Data Misuse Detection,2014,19,4,4,0.757481,1514115001,Asaf Shabtai,0,1.4064837999549293,0.5483998506029845
+2068648115,Dynamic Sensitivity-Based Access Control,2011,7,4,4,1.0,2106809615,Amir Harel,0,-0.19155017840609767,0.40502768820528007
+2069186598,Computationally efficient link prediction in a variety of social networks,2013,36,45,6,0.931035,1985502408,Michael Fire,0,-0.6100654930858528,1.937752560024236
+2060514845,ALPD Active Learning Framework for Enhancing the Detection of Malicious PDF Files,2014,21,21,7,1.0,2306244810,Nir Nissim,0,0.003708468606338,0.082832279151172
+2100724082,Detection of Unknown Computer Worms Activity Based on Computer Behavior using Data Mining,2007,28,15,7,0.705882,319285823,Robert Moskovitch,0,-0.25023896793326905,0.13037718530513653
+2088201474,Organizational Intrusion Organization Mining Using Socialbots,2012,13,20,4,0.0,1234705719,Aviad Elishar,0,0.003708468606338,0.082832279151172
+2091963994,A decision theoretic approach to combining information filtering,2009,28,1,3,0.0,50560671,Alexander Binun,0,-0.26696911874922685,0.05842691939063975
+2132482339,Link Prediction in Highly Fractional Data Sets,2013,28,17,1,1.0,284313219,Yuval Elovici,0,0.21438872843298346,-0.1353423822296997
+2106177700,F-Sign Automatic Function-Based Signature Generation for Malware,2011,35,25,3,0.941176,1514115001,Asaf Shabtai,0,0.003708468606338,0.082832279151172
+2106214816,A decision-theoretic approach to data mining,2003,27,36,1,1.0,284313219,Yuval Elovici,0,1.4353862232956545,-0.22011451279935793
+2115470695,Unknown malcode detection â€” A chronological evaluation,2008,5,8,1,1.0,284313219,Yuval Elovici,0,0.40630500141929454,0.39067789378481704
+2121262522,Theory of actionable data mining with application to semiconductor manufacturing control,2007,48,16,2,0.0,22466721,Dan Braha,0,0.22818150440284193,0.13074233122818407
+2115638030,Malicious Code Detection and Acquisition Using Active Learning,2007,0,20,3,0.705882,319285823,Robert Moskovitch,0,-0.07247265751304165,0.3558770046961816
+2133437447,MarCol A Market-Based Recommender System,2007,9,14,3,0.0,2677621798,D. Melamed,0,0.26053811157360385,0.24380387516299903
+2133732756,Analyzing group communication for preventing data leakage via email,2011,6,22,4,1.0,1923800266,Polina Zilberman,0,0.003708468606338,0.082832279151172
+2136961462,M-score estimating the potential damage of data leakage incident by assigning misuseability weight,2010,26,17,1,1.0,284313219,Yuval Elovici,0,-0.0855042004924167,-0.06876255414858115
+2133981999,OCCT A One-Class Clustering Tree for Implementing One-to-Many Data Linkage,2014,44,10,4,0.0,2343076799,Maayan Dror,0,-0.08141122454553253,0.3159924743686146
+2128238405,Data Mining of Online Genealogy Datasets for Revealing Lifespan Patterns in Human Population,2013,1,0,2,0.931035,1985502408,Michael Fire,0,0.003708468606338,0.082832279151172
+2123105932,Using the KBTA method for inferring computer and network security alerts from time-stamped raw system metrics,2010,34,10,3,0.941176,1514115001,Asaf Shabtai,0,0.3284296725557024,-0.24154206780808382
+2156091798,Continuous Verification Using Keystroke Dynamics,2010,13,26,4,0.0,2225198461,Tomer Shimshon,0,0.003708468606338,0.082832279151172
+2165271954,Database encryption an overview of contemporary challenges and design considerations,2010,20,43,3,0.0,2154571594,Erez Shmueli,0,-0.13275296294680305,-0.071629888206014
+2154065761,A fuzzy-based algorithm for Web document clustering,2004,5,8,1,1.0,284313219,Yuval Elovici,0,-0.9163071449442873,2.640442276961474
+2162974319,Host Based Intrusion Detection using Machine Learning,2007,26,20,8,0.705882,319285823,Robert Moskovitch,0,0.25279980089418275,0.356263393655007
+2166101296,Securing Your Transactions Detecting Anomalous Patterns In XML Documents,2012,33,6,4,1.0,2065121292,Eitan Menahem,0,-2.5669843619469144,-0.24997415868201436
+2172259243,Efficient Multidimensional Suppression for K-Anonymity,2010,42,84,3,0.315789,2089069711,Slava Kisilevich,0,0.27643292731206615,0.016952452897387126
+2151461670,Applying Behavioral Detection on Android-Based Devices,2010,33,59,2,0.941176,1514115001,Asaf Shabtai,0,-0.36852658085362594,0.6908143102996832
+2161125296,HoneyGen An automated honeytokens generator,2011,19,43,6,1.0,2066432229,Maya Bercovitch,0,-0.5053486862257719,-0.05781496617999611
+2164463255,Unknown malcode detection via text categorization and the imbalance problem,2008,13,73,5,0.705882,319285823,Robert Moskovitch,0,1.0381286948435444,0.6990767702794205
+2150188172,Detecting unknown malicious code by applying classification techniques on OpCode patterns,2012,46,152,5,0.923077,1514115001,Asaf Shabtai,0,0.003708468606338,0.082832279151172
+2261775381,ALDROID efficient update of Android anti-virus software using designated active learning methods,2016,64,16,5,1.0,2306244810,Nir Nissim,0,0.003708468606338,0.082832279151172
+2280263187,Keeping pace with the creation of new malicious PDF files using an active-learning based detection framework,2016,34,19,7,1.0,2306244810,Nir Nissim,0,0.003708468606338,0.082832279151172
+2305913748,Improving condition severity classification with an efficient active learning based framework,2016,63,8,4,1.0,2306244810,Nir Nissim,0,0.2244573935645732,-0.04699279888239549
+2313768859,NewApproach for Detecting Unknown Malicious Executables,2010,17,2,2,0.0,195553551,Ehud Gudes,0,0.003708468606338,0.082832279151172
+2309432972,SYSTEM FOR CHARACTERIZING GEOGRAPHICAL LOCATIONS BASED ON MULTI SENSORS ANONYMOUS DATA SOURCES,2014,23,4,2,0.0,212754488,Moshe Bixenspaner,0,-0.11939805933677435,0.16936408913727036
+2339099243,Augmented Betweenness Centrality for Mobility Prediction in Transportation Networks,2011,25,17,1,1.0,284313219,Yuval Elovici,0,0.003708468606338,0.082832279151172
+2396138419,MINDDESKTOP - Computer Accessibility for Severely Handicapped,2011,16,5,6,0.0,826692699,Ori Ossmy,0,0.003708468606338,0.082832279151172
+2471456063,SFEM Structural feature extraction methodology for the detection of malicious office documents using machine learning methods,2016,44,25,4,1.0,2123870595,Aviad Cohen,0,-0.530898046227697,0.05828918829923876
+2530338491,Method for continuously verifying user identity via keystroke dynamics,2012,6,25,1,1.0,284313219,Yuval Elovici,0,0.003708468606338,0.082832279151172
+2557716486,ALDOCX Detection of Unknown Malicious Microsoft Office Documents Using Designated Active Learning Methods Based on New Structural Feature Extraction Methodology,2017,21,31,3,1.0,2306244810,Nir Nissim,0,0.003708468606338,0.082832279151172
+2519082534,Network Flow Watermarking A Survey,2017,112,12,2,1.0,2546579347,Alfonso Iacovazzi,0,0.25279980089418275,0.356263393655007
+2514072401,Anomaly detection for smartphone data streams,2017,48,10,4,1.0,1967002463,Yisroel Mirsky,0,0.0624988202191245,0.2387753506107029
+2735065902,Creation and Management of Social Network Honeypots for Detecting Targeted Cyber Attacks,2017,38,15,5,0.0,2227166025,Abigail Paradise,0,0.003708468606338,0.082832279151172
+2620827576,Enhanced situation space mining for data streams,2017,21,1,5,1.0,1967002463,Yisroel Mirsky,0,-0.21892615613754504,0.5923622113437262
+2621148797,ProfilIoT a machine learning approach for IoT device identification based on network traffic analysis,2017,6,72,7,0.0,1915059322,Yair Meidan,0,0.43162625009792,0.20195636031746017
+2754804809,Detection of Unauthorized IoT Devices Using Machine Learning Techniques,2017,6,39,7,0.0,1915059322,Yair Meidan,0,0.31484412112737625,0.2579936097006229
+2758551931,Quantifying the resilience of machine learning classifiers used for cyber security,2018,39,10,2,0.0,2760090036,Ziv Katzir,0,-0.25023896793326905,0.13037718530513653
+2800350246,Exploiting reshaping subgraphs from bilateral propagation graphs,2018,27,3,5,0.428571,2246406054,Saeid Hosseini,0,0.003708468606338,0.082832279151172
+2807759081,Introduction to the Special Issue on Data Mining for Cybersecurity,2018,0,2,2,0.0,2762802438,Nathalie Japkowicz,0,0.26095545250506924,0.40387546933304386
+2790697634,CIoTA Collaborative IoT Anomaly Detection via Blockchain,2018,0,10,3,0.0,2790014088,Tomer Golomb,0,0.20279561436658805,0.0753070172078775
+2801609661,Insight Into Insiders and IT A Survey of Insider Threat Taxonomies Analysis Modeling and Countermeasures,2019,218,23,4,0.0,113125259,Ivan Homoliak,0,0.09306936451958565,0.4540149294292737
+2888026659,DOPING Generative Data Augmentation for Unsupervised Anomaly Detection with GAN,2018,29,13,6,0.0,2888723933,Swee Kiat Lim,0,0.06892454955918294,-0.1124088355205322
+2909799481,Improving the effectiveness of intrusion detection systems for hierarchical data,2019,43,7,6,0.0,2526273800,Ran Yahalom,0,0.3817488109955269,0.36805910579007745
+2954099313,TEALS Time-aware Text Embedding Approach to Leverage Subgraphs,2019,43,1,6,0.428571,2246406054,Saeid Hosseini,0,0.003708468606338,0.082832279151172
+2950066059,Matching Entities Across Online Social Networks,2014,11,1,4,1.0,1978856747,Olga Peled,0,0.35574494103515925,0.11535012456367875
+2964182980,Data Mining of Online Genealogy Datasets for Revealing Lifespan Patterns in Human Population,2015,19,10,2,0.804878,1985502408,Michael Fire,0,0.003708468606338,0.082832279151172
+2972552958,Dynamic Malware Analysis in the Modern Eraâ€”A State of the Art Survey,2019,89,1,1,1.0,284313219,Yuval Elovici,0,0.003708468606338,0.082832279151172
+3006124438,A Neural Attention Model for Real-Time Network Intrusion Detection,2019,38,0,4,0.0,2782299596,Mengxuan Tan,0,0.25279980089418275,0.356263393655007
+2609889289,Inter-labeler and intra-labeler variability of condition severity classification models using active and passive learning methods,2017,67,7,3,1.0,2306244810,Nir Nissim,0,0.003708468606338,0.082832279151172

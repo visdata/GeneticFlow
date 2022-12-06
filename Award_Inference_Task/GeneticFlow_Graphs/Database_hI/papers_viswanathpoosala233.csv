@@ -1,0 +1,26 @@
+72853727,Histogram-based estimation techniques in database systems,1997,0,104,1,1.0,2277382647,Viswanath Poosala,0,0.014532710543751099,0.030944858938630852
+192214595,Histogram-Based Solutions to Diverse Database Estimation Problems,1995,13,32,2,0.0,435837623,Yannis E. Ioannidis,0,2.837755435912236,0.951013123108604
+308942908,Computer method apparatus and programmed medium for more efficient database management using histograms with a bounded error selectivity estimation,1998,9,24,3,0.0,702140476,Torsten Suel,0,-0.34702607863647544,0.1288092729830634
+948942333,Incremental maintenance of an approximate histogram in a database system,1997,11,55,4,0.545455,1874579918,Yossi Matias,0,2.51964223766412,0.8287233142250832
+1571066610,Aqua A Fast Decision Support Systems Using Approximate Query Answers,1999,9,67,3,0.0,2581701633,Swarup Acharya,0,0.562203858955754,0.9466442368714238
+1487093789,Estimation of Query-Result Distribution and its Application in Parallel-Join Load Balancing,1996,25,59,1,1.0,2277382647,Viswanath Poosala,0,-0.25609130579317646,0.2785941556746898
+1757653451,Computer method apparatus and programmed medium for approximating large databases and improving search efficiency,1998,5,24,3,0.0,702140476,Torsten Suel,0,0.12424614129589735,0.2013339979237733
+1815438453,Computer implemented method and apparatus for enhancing access to a file,1999,9,15,2,0.0,665840641,Henry F. Korth,0,-0.9215361270470863,2.7225279205404376
+1822348499,Optimal Histograms with Quality Guarantees,1998,14,367,4,0.0,360112113,Hosagrahar V. Jagadish,0,0.014532710543751099,0.030944858938630852
+1943898111,Maintaining a random sample of a relation in a database in the presence of updates to the relation,1997,14,29,3,0.545455,1874579918,Yossi Matias,0,0.43739842239757626,0.009947045888208002
+1784244685,Histogram-Based Approximation of Set-Valued Query-Answers,1999,22,239,2,0.0,435837623,Yannis E. Ioannidis,0,0.7231077302785509,0.06091555923724847
+2005188603,Balancing histogram optimality and practicality for query result size estimation,1995,21,265,2,0.0,435837623,Yannis E. Ioannidis,0,0.014532710543751099,0.030944858938630852
+1992023276,Fast incremental maintenance of approximate histograms,2002,34,121,3,0.661423,2144092273,Phillip B. Gibbons,0,1.487841655860418,0.4124542652879581
+2020584928,Join synopses for approximate query answering,1999,29,327,3,1.0,2987243480,Swarup Acharya,0,1.2438297776168852,-0.7319970613711922
+2091638028,Selectivity estimation in spatial databases,1999,39,199,2,0.0,2581701633,Swarup Acharya,0,0.2657856797705482,0.14689219539098033
+2114372843,Fast approximate answers to aggregate queries on a data cube,1999,22,85,1,1.0,2277382647,Viswanath Poosala,0,-0.46893397788284524,0.07728939382804885
+2139276812,The Aqua approximate query answering system,1999,4,173,3,1.0,2987243480,Swarup Acharya,0,1.6825014983277227,1.113168162647108
+2109852881,Systematic multiresolution and its application to the World Wide Web,1999,14,20,3,1.0,2987243480,Swarup Acharya,0,-1.0665864121310615,-0.26441268165457327
+2130817104,Computer implemented method and apparatus for fulfilling a request for information content with a user-selectable version of a file containing that information content,2004,21,69,2,0.0,665840641,Henry F. Korth,0,-0.10313325572746461,-0.0865908469764562
+2147232895,The New Jersey Data Reduction Report,1997,0,242,10,0.0,2144418927,Daniel BarbarÃ¡,0,-0.0041099411153885,0.0447066884760059
+2171903035,Improved histograms for selectivity estimation of range predicates,1996,26,531,1,1.0,2277382647,Viswanath Poosala,0,-0.0041099411153885,0.0447066884760059
+2161463763,Fast Incremental Maintenance of Approximate Histograms,1997,16,166,3,0.777778,2144092273,Phillip B. Gibbons,0,2.51964223766412,0.8287233142250832
+2152604168,Approximate querying method for databases with multiple grouping attributes,2000,8,74,2,1.0,2144092273,Phillip B. Gibbons,0,0.653668123465483,0.08579041427911954
+2253987329,Computer implemented method and apparatus for providing a logical point of access to one or more files,1999,17,6,2,0.0,665840641,Henry F. Korth,0,-0.0041099411153885,0.0447066884760059
+2199389590,Congressional samples for approximate answering of group-by queries,2000,13,211,3,1.0,2987243480,Swarup Acharya,0,0.3704861478821108,0.23317740256327
+2400758157,Method and system for generating a statistical summary of a database using a join synopsis,2000,6,45,2,1.0,2144092273,Phillip B. Gibbons,0,1.1331143867863316,-1.2022534750670741

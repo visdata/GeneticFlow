@@ -1,0 +1,48 @@
+68877885,Efficient similarity search in very large string sets,2012,28,12,5,0.0,2077942255,Dandy Fenz,0,0.1715895362437976,-0.23936692894151068
+158263462,QGramProjector Q-Gram Projection for Indexing Highly-Similar Strings,2013,22,2,2,1.0,2021368053,Sebastian Wandelt,0,-0.0041099411153885,0.0447066884760059
+41893858,Regular path queries on large graphs,2012,48,42,2,0.0,2035846435,AndrÃ© Koschmieder,0,1.2949857327074257,-0.33725356919973526
+7828331,Erkennen und Bereinigen von Datenfehlern in naturwissenschaftlichen Daten,2005,22,3,4,0.705882,2330876065,Heiko MÃ¼ller,0,-0.0041099411153885,0.0447066884760059
+9228701,Design Issues of Database Access in a CORBA Environment,1998,0,7,1,1.0,612013498,Ulf Leser,0,1.5585347141545707,0.5134570598328436
+146707988,Integration molekularbiologischer Daten,2003,33,4,1,1.0,612013498,Ulf Leser,0,-0.0041099411153885,0.0447066884760059
+1571338321,Prefix tree indexing for similarity search and similarity joins on genomic data,2010,22,10,4,0.914286,1964093882,Astrid RheinlÃ¤nder,0,0.5064680150469195,-0.6366459171272194
+1527669318,Whats new whats certain - scoring search results in the presence of overlapping data sources,2007,19,5,3,0.0,2065414425,Philipp Hussels,0,0.21844993463260445,-0.05633245665888767
+1555486317,Querying distributed RDF data sources with SPARQL,2008,15,375,2,0.0,1449464703,Bastian Quilitz,0,0.0908845357243609,0.31128747720343375
+1530530320,Columba - A Database of Annotations of Protein Structure,2003,3,0,1,1.0,612013498,Ulf Leser,0,0.5325669973310596,0.09709227568458595
+1549230034,Querying ontologies in relational database systems,2005,15,17,2,1.0,2326001079,Silke TriÃŸl,0,0.8930192916358598,0.18176930866052593
+1594937218,Columba Multidimensional Data Integration of Protein Annotations,2004,34,25,7,0.0,2007799274,Kristian Rother,0,-0.04525093829199234,-0.2518809165393281
+1579704920,Integrating and warehousing liver gene expression data and related biomedical resources in GEDAW,2005,22,11,6,0.0,2973830440,E. GuÃ©rin,0,0.5359854749009971,0.07904833681649581
+1599116307,Graph-Based Ontology Construction from Heterogenous Evidences,2009,25,2,3,0.0,2585410614,Christoph BÃ¶hm,0,-0.0041099411153885,0.0447066884760059
+1652673288,Quality-driven Integration of Heterogenous Information Systems,1999,25,192,2,0.218182,2099727678,Felix Naumann,0,0.0908845357243609,0.31128747720343375
+1657123160,Similarity search for scientific workflows,2014,37,25,4,1.0,1736712084,Johannes Starlinger,0,0.17522377076415507,0.0022395158459214137
+1987562803,State-of-the-art in string similarity search and join,2014,32,21,11,1.0,2021368053,Sebastian Wandelt,0,0.2807600744873719,-0.0746967125258062
+2007029334,SOA-Based Integration of Text Mining Services,2009,18,9,4,1.0,1736712084,Johannes Starlinger,0,-0.4952370533090319,-0.40710710999814825
+2002287579,Completeness of integrated information sources,2004,38,115,3,0.218182,2099727678,Felix Naumann,0,0.2520573881094081,-0.15163486341704896
+1993655163,Data Management Challenges in Next Generation Sequencing,2012,56,22,6,1.0,2021368053,Sebastian Wandelt,0,0.8446480381361605,0.3278872455812134
+2029272102,Search adapt and reuse the future of scientific workflows,2011,53,36,2,0.95874,99467868,Sarah Cohen Boulakia,0,0.6665041731034329,1.4901896955761065
+2076109400,Fast and practical indexing and querying of very large graphs,2007,25,196,2,1.0,2326001079,Silke TriÃŸl,0,1.204501787921431,0.29860165833699415
+2078017811,SOFA An extensible logical optimizer for UDF-heavy data flows,2015,30,19,4,1.0,1964093882,Astrid RheinlÃ¤nder,0,-0.0041099411153885,0.0447066884760059
+2093080729,RCSI scalable similarity search in thousand(s) of genomes,2013,48,33,4,1.0,2021368053,Sebastian Wandelt,0,-0.46893397788284524,0.07728939382804885
+2095218779,Versatile optimization of UDF-heavy data flows with sofa,2014,13,2,6,1.0,1964093882,Astrid RheinlÃ¤nder,0,0.7894538570495652,0.15400860346761094
+2111727122,High-performance information extraction with AliBaba,2009,14,24,3,0.0,268959548,Peter Palaga,0,-0.4197151661071337,-0.42589767901227754
+2111904946,Adapters shims and glue---service interoperability for in silico experiments,2006,21,38,2,0.0,223133272,Uwe Radetzki,0,0.018955660364514924,0.016998178005219862
+2115229350,CPU and cache efficient management of memory-resident databases,2013,32,23,5,0.0,2127496274,Holger Pirk,0,1.0720974619177126,0.6874845603077233
+2139259611,A hierarchical approach to model web query interfaces for web source integration,2009,24,71,4,0.0,2310700947,Thomas Kabisch,0,-0.7185602543513478,-0.6719384654908308
+2121810937,The Stratosphere platform for big data analytics,2014,64,304,9,0.0,2475077581,Alexander Alexandrov,0,0.20993213590767465,0.055753167789792224
+2139717579,Re)Use in public scientific workflow repositories,2012,25,16,3,1.0,1736712084,Johannes Starlinger,0,0.6665041731034329,1.4901896955761065
+2116573192,Implementing a linguistic query language for historic texts,2006,10,3,2,0.0,2561863526,Lukas C. Faulstich,0,0.8414779705344678,-0.06267530536876609
+2140313762,Efficiently Detecting Inclusion Dependencies,2007,6,40,2,1.0,26623042,Jana Bauckmann,0,2.2078601703933547,0.32498721939162767
+2116790080,Efficiently Computing Inclusion Dependencies for Schema Discovery,2006,15,24,2,1.0,26623042,Jana Bauckmann,0,0.5600801070390243,-0.020407626894661496
+2126077832,How well are protein structures annotated in secondary databases,2005,27,6,1,1.0,612013498,Ulf Leser,0,-0.0041099411153885,0.0447066884760059
+2184363889,(Almost) Hands-Off Information Integration for the Life Sciences,2005,37,28,1,1.0,612013498,Ulf Leser,0,0.33623939719931306,-0.6510202355188909
+2166481247,Next generation data integration for Life Sciences,2011,29,10,2,0.95874,99467868,Sarah Cohen Boulakia,0,0.2020200324736665,0.015190903690544075
+2169983186,Describing differences between databases,2006,25,10,3,0.705882,2330876065,Heiko MÃ¼ller,0,0.5325669973310596,0.09709227568458595
+2158320986,HUODINI - Flexible Information Integration for Disaster Management,2007,10,8,1,1.0,612013498,Ulf Leser,0,0.025887643234514437,-0.06468027397203123
+2170926208,DynamicCloudSim simulating heterogeneity in computational clouds,2013,38,11,2,1.0,2125333725,Marc Bux,0,1.1032024169184163,1.668763670843314
+2269030879,SAASFEE scalable scientific workflow execution engine,2015,13,12,6,1.0,2125333725,Marc Bux,0,0.44848009905718483,1.3278779294347232
+2425612555,Potential and Pitfalls of Domain-Specific Information Extraction at Web Scale,2016,29,2,5,1.0,1964093882,Astrid RheinlÃ¤nder,0,-1.5092780133747272,-0.944035089147681
+2474417011,PIEJoin Towards Parallel Set Containment Joins,2016,19,8,6,1.0,2293521041,Anja Kunkel,0,-0.0041099411153885,0.0447066884760059
+2503254445,BiobankCloud A Platform for the Secure Storage Sharing and Processing of Large Biomedical Data Sets,2015,32,14,12,0.0,2006342157,Alysson Bessani,0,0.2703025306290777,0.5938507796963266
+2526623204,On the Distance of Databases,2006,0,4,1,1.0,612013498,Ulf Leser,0,-0.0041099411153885,0.0447066884760059
+2602323920,Cache-Sensitive Skip List Efficient Range Queries on Modern CPUs,2016,17,4,3,1.0,2104965687,Stefan Sprenger,0,0.07570829884959629,-0.5289541240002601
+2604113114,Hi-WAY Execution of scientific workflows on hadoop YARN,2017,0,5,5,1.0,2125333725,Marc Bux,0,0.2946713761785912,0.4027268098681643
+2869069236,Exploiting Automatic Vectorization to Employ SPMD on SIMD Registers,2018,17,1,3,1.0,2104965687,Stefan Sprenger,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,47 @@
+74117568,The security of ciphertext stealing,2012,30,9,1,1.0,2106597688,Phillip Rogaway,0,0.9282098875521204,-2.0270811779303104
+180983570,Security of Symmetric Encryption against Mass Surveillance,2014,49,71,3,0.0670103,2052950829,Mihir Bellare,0,-0.011672352217339017,-0.2744689364040448
+1542059364,Entity authentication and key distribution,1993,24,1412,2,1.0,2052950829,Mihir Bellare,0,-1.811979458495208,-2.134432364841303
+1489286008,Secure Computation (Abstract),1991,43,160,2,0.0,699581604,Silvio Micali,0,1.3775439398477896,0.09010871183718627
+1481782694,Comments to NIST concerning AES Modes of Operations CTR-Mode Encryption,2000,8,136,2,0.0,15605393,Helger Lipmaa,0,0.155870422438688,-0.3611899258997246
+1902954786,Method and apparatus for entity authentication and key distribution secure against off-line adversarial attacks,1993,16,44,1,1.0,2106597688,Phillip Rogaway,0,-0.49868726742148484,-1.6703843208243156
+1585213850,A Critique of CCM,2003,13,28,1,1.0,2106597688,Phillip Rogaway,0,1.9733013167721798,-1.8433280117220434
+1996182770,Authenticated-encryption with associated-data,2002,23,234,1,1.0,2106597688,Phillip Rogaway,0,0.22868729067581717,-1.514076664285522
+1990395488,OCB A block-cipher mode of operation for efficient authenticated encryption,2003,29,251,1,1.0,2106597688,Phillip Rogaway,0,1.4025373872007831,-1.7205118345722827
+2047241038,Provably secure session key distribution the three party case,1995,19,544,2,0.777778,2052950829,Mihir Bellare,0,-0.9060573318299423,-2.621864964857263
+2033838428,Robust computational secret sharing and a unified account of classical secret-sharing goals,2007,49,70,2,0.107115,2052950829,Mihir Bellare,0,0.5192628582366751,-0.5658655498497381
+2039605106,The round complexity of secure protocols,1990,22,390,2,0.0,699581604,Silvio Micali,0,1.9471664738477183,-0.2617984945902163
+2139172211,A concrete security treatment of symmetric encryption,1997,14,703,4,0.428571,2052950829,Mihir Bellare,0,0.7106980967454801,-2.085841988970937
+2124926080,Authenticated key exchange secure against dictionary attacks,2000,19,1104,3,0.110991,2052950829,Mihir Bellare,0,-1.1989265030810596,-2.7519401906109997
+2125371067,Authentication without Elision Partially Specified Protocols Associated Data and Cryptographic Models Described by Code,2009,43,13,1,1.0,2106597688,Phillip Rogaway,0,-1.3395217936105335,-1.3802535988111972
+2134340933,Efficient Garbling from a Fixed-Key Blockcipher,2013,35,170,4,0.0703004,2052950829,Mihir Bellare,0,0.3171484069971384,-0.13992525839030945
+2111276172,Adaptively secure garbling with applications to one-time programs and secure outsourcing,2012,24,67,3,0.0739304,2052950829,Mihir Bellare,0,-0.13980336961290424,-1.352832909361239
+2144562951,DHIES An encryption scheme based on the Diffie-Hellman Problem,2001,28,99,2,0.0929519,2052950829,Mihir Bellare,0,0.3216772846177813,-2.3198329004469196
+2145227448,OCB a block-cipher mode of operation for efficient authenticated encryption,2001,29,315,1,1.0,2106597688,Phillip Rogaway,0,1.5133572359499008,-1.8143612737450776
+2154439527,A Synopsis of Format-Preserving Encryption,2010,50,20,1,1.0,2106597688,Phillip Rogaway,0,0.7942854086658193,-1.861512488360203
+2160655967,Method and apparatus for three-party entity authentication and key distribution using message authentication codes,1993,15,137,2,1.0,2052950829,Mihir Bellare,0,-0.4872973077049644,-0.8943402738845183
+2149093588,The Oracle Diffie-Hellman Assumptions and an Analysis of DHIES,2001,30,304,3,0.0,2143328931,Michel Abdalla,0,-0.17615312604927524,-1.700132936200979
+2170696315,Foundations of garbled circuits,2012,59,254,3,0.0739304,2052950829,Mihir Bellare,0,1.407467624347036,-0.5717981087905389
+2170822045,Reconsidering Generic Composition,2014,15,56,2,0.0,88663857,Chanathip Namprempre,0,-0.605357227460656,-0.669666845402568
+2257504697,The OCB Authenticated-Encryption Algorithm,2014,4,22,2,0.0,1822413104,Ted Krovetz,0,-0.07880492156127347,-0.3133807741650156
+2401040404,Augmented Secure Channels and the Goal of the TLS 13 Record Layer,2015,24,15,4,0.0,2399063743,Christian Badertscher,0,0.06781558384500279,-0.6350543599751372
+2408282941,Robust Authenticated Encryption and the Limits of Symmetric Cryptography,2015,13,4,4,0.0,2399063743,Christian Badertscher,0,0.5858769717642118,-2.9116620613860005
+2408335693,AE5 Security Notions Definitions Implicit in the CAESAR Call,2013,0,3,2,0.0,88663857,Chanathip Namprempre,0,0.0040557659796233,0.2757546058061082
+2416727604,Improvements to security in data processing systems,1994,3,11,1,1.0,2106597688,Phillip Rogaway,0,-0.33588925975064277,-1.1530854235570391
+2487384095,Big-Key Symmetric Encryption Resisting Key Exfiltration,2016,33,13,3,0.0568922,2052950829,Mihir Bellare,0,0.0939204943203828,-2.2338247405314986
+2562253758,Practice-Oriented Provable Security and the Social Construction of Cryptography,2016,13,4,1,1.0,2106597688,Phillip Rogaway,0,-0.17443698688172776,-1.1252317986681706
+2583344577,Encryption-scheme security in the presence of key-dependent messages,2003,0,122,2,0.857143,2126678344,John Black,0,0.26435118569414523,-1.1712315880976043
+2752104494,Method and device for data authentication in data communication environment,1994,0,0,3,0.0,1992892501,Roch Guerin,0,-0.15864374652083932,-0.1879861517290886
+2794894785,Constructing cryptographic definitions,2011,0,1,1,1.0,2106597688,Phillip Rogaway,0,0.3171484069971384,-0.13992525839030945
+2792845757,Onion-AE Foundations of Nested Encryption,2018,0,5,1,1.0,2106597688,Phillip Rogaway,0,0.155870422438688,-0.3611899258997246
+2951494894,Robust Computational Secret Sharing and a Unified Account of Classical Secret-Sharing Goals,2006,0,1,2,0.110413,2052950829,Mihir Bellare,0,1.0112234854538964,-0.18024267455669074
+2949612899,Authenticated Key Exchange Secure Against Dictionary Attacks,2000,0,0,3,0.110991,2052950829,Mihir Bellare,0,-0.9434049586962431,-1.6857900807020434
+2949860650,Formalizing Human Ignorance Collision-Resistant Hashing without the Keys,2006,0,0,1,1.0,2106597688,Phillip Rogaway,0,-0.23177312427972552,0.432799258759925
+2952144363,Security of Symmetric Encryption against Mass Surveillance,2014,0,0,3,0.0670103,2052950829,Mihir Bellare,0,0.09600385778172879,-1.4268577496161945
+2950603704,Adaptively Secure Garbling with Applications to One-Time Programs and Secure Outsourcing,2012,0,1,3,0.0739304,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2951418302,Big-Key Symmetric Encryption Resisting Key Exfiltration,2016,0,0,3,0.0568922,2052950829,Mihir Bellare,0,0.09600385778172879,-1.4268577496161945
+2949402152,Encryption-Scheme Security in the Presence of Key-Dependent Messages,2002,0,0,2,0.857143,2126678344,John Black,0,0.155870422438688,-0.3611899258997246
+1516512945,Relations Among Notions of Security for Public-Key Encryption Schemes,1998,24,529,5,0.328416,2052950829,Mihir Bellare,0,0.9735950937510647,-3.012899181277771
+2613409654,Relations among notions of security for public-key encryption schemes,1998,0,341,5,0.328416,2052950829,Mihir Bellare,0,0.5241979694165741,-2.548143773428668
+2952970680,Relations among Notions of Security for Public-Key Encryption Schemes,1998,0,0,5,0.328416,2052950829,Mihir Bellare,0,0.03910652856792115,-0.9542749174440527
+1485489906,Encryption-Scheme Security in the Presence of Key-Dependent Messages,2002,17,60,2,0.857143,2126678344,John Black,0,0.12438934536709512,-0.9594659916931888
+1897681009,Online Authenticated-Encryption and its Nonce-Reuse Misuse-Resistance,2015,30,23,4,0.466667,2158071189,Viet Tung Hoang,0,0.059281087565353455,-1.6334198113230012

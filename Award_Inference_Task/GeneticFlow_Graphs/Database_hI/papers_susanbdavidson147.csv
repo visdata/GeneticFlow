@@ -1,0 +1,90 @@
+120331223,Constraints for XML,2001,0,0,1,1.0,2097328450,Susan B. Davidson,0,2.3485049625640406,-0.9375414068725034
+154403928,On the updatability of XML views over relational databases,2003,21,49,2,1.0,2055859042,Vanessa Braganholo,0,2.7465732478377616,0.20873541614243668
+71399738,Indexing Keys in Hierarchical Data,2001,11,5,1,1.0,2097328450,Susan B. Davidson,0,1.4679594549120205,0.12824350162427994
+54565381,UXQuery Building Updatable XML Views over Relational Databases,2003,25,11,2,1.0,2055859042,Vanessa Braganholo,0,2.431968713945935,-0.15219763805405592
+191528258,Propagating XML View Updates to a Relational Database,2004,24,9,2,1.0,2055859042,Vanessa Braganholo,0,2.165972132460387,-0.014050139632615317
+215236041,Extending Database Integration Technology,1999,0,2,3,0.342857,599151389,Val Tannen,0,0.9657123673472702,0.1978977391632458
+42457604,Specifying Database Transformations in WOL,1999,7,5,1,1.0,2097328450,Susan B. Davidson,0,2.15397482455942,0.3905037412248244
+195590999,Constraints preserving schema mapping from XML to relations,2002,12,15,2,0.627907,2620155405,Yi Chen,0,2.8328270494058283,-0.8135759202215084
+27289577,Validating Constraints in XML,2002,15,11,1,1.0,2097328450,Susan B. Davidson,0,1.929586480874964,-0.7112145138580932
+165852420,Efficient xpath query processing on stored and streaming xml data,2005,0,0,1,1.0,2097328450,Susan B. Davidson,0,2.761704375762147,-1.1016043302489962
+166245157,Active XML and Data Activation,2005,5,0,2,0.0,172400696,Serge Abiteboul,0,0.5586742082380666,-0.1984847101299193
+1488439296,On Provenance and Privacy,2010,0,1,1,1.0,2097328450,Susan B. Davidson,0,0.2946713761785912,0.4027268098681643
+1489179195,From XML view updates to relational view updates old solutions to a new problem,2004,23,62,2,1.0,2055859042,Vanessa Braganholo,0,3.0910288427552786,-0.019233697358938165
+1482493827,Answering regular path queries on workflow provenance,2015,30,7,3,0.0,2644063082,Xiaocheng Huang,0,0.20750603818669103,0.2742122163791948
+1491409610,Semantics of Database Transformations,1998,41,29,2,0.0,2020138198,Peter Buneman,0,2.775676629050337,0.5405640729664053
+1562509307,View Maintenance for Hierarchical Semistructured Data,2000,17,38,2,0.6,1179716466,Hartmut Liefke,0,0.7787604634178784,0.08868193411628758
+1509552350,Partial Computation in Real-Time Database Systems,1988,0,26,1,1.0,2097328450,Susan B. Davidson,0,2.6403801210587052,0.6698969889713537
+1555191344,Database Transformations for Biological Applications,2001,0,4,3,0.342857,599151389,Val Tannen,0,1.3092612026163795,0.2737722115109798
+1549448161,Proceedings of the 1999 ACM SIGMOD international conference on Management of data,1999,0,27,1,1.0,2097328450,Susan B. Davidson,0,-0.0041099411153885,0.0447066884760059
+1837377163,Specifying updates in biomedical databases,1999,14,9,2,0.6,1179716466,Hartmut Liefke,0,-0.13405400873462134,0.477666166978951
+1821981979,Towards a model of provenance and user views in scientific workflows,2006,30,56,3,0.0,2121833631,Shirley Cohen,0,0.26155192161348856,0.4828124616038098
+1830081926,Biological data management research practice and opportunities,2004,0,20,2,0.0,59095477,Thodoros Topaloglou,0,0.9540544690590714,0.138987671249935
+1865676108,Enabling Privacy in Provenance-Aware Workflow Systems,2011,9,23,1,1.0,2097328450,Susan B. Davidson,0,1.0681563209081988,2.00500913023351
+1785355888,A model for user-oriented data provenance in pipelined scientific workflows,2006,24,90,5,0.0,2122508644,Shawn Bowers,0,0.22158963759940864,0.31908569023588573
+1968766436,K2/Kleisli and GUS experiments in integrated access to genomic data sources,2001,70,196,1,1.0,2097328450,Susan B. Davidson,0,0.9910445490705799,0.23580642847013075
+1971077223,Top-k and Clustering with Noisy Comparisons,2014,45,18,1,1.0,2097328450,Susan B. Davidson,0,0.05640315281478835,-0.022715007301229845
+1997856496,A bi-labeling based XPath processing system,2010,39,6,2,0.312565,2620155405,Yi Chen,0,1.6957146979735473,-0.6306344705489707
+2006638312,Generating sound workflow views for correct provenance analysis,2011,36,9,2,0.131196,2143636956,Ziyang Liu,0,0.2946713761785912,0.4027268098681643
+1994862698,OASSIS query driven crowd mining,2014,33,27,2,0.57411,234107462,Yael Amsterdamer,0,0.119739122485096,0.4583397011045227
+1988545508,Provenance and scientific workflows challenges and opportunities,2008,97,349,1,1.0,2097328450,Susan B. Davidson,0,0.2946713761785912,0.4027268098681643
+1990503241,Semi-materialization a technique for optimizing frequently executed queries,1991,17,4,1,1.0,2097328450,Susan B. Davidson,0,0.6009463227172864,0.145905575054946
+2030195504,Optimism and consistency in partitioned distributed database systems,1984,28,143,1,1.0,2097328450,Susan B. Davidson,0,1.607459406192956,1.508554778671173
+2030474609,Detecting and resolving unsound workflow views for correct provenance analysis,2009,32,19,3,0.0,2096022707,Peng Sun,0,0.2946713761785912,0.4027268098681643
+2048071586,Consistency in a partitioned network a survey,1985,46,523,2,0.8,237419955,Hector Garcia Molina,0,0.6842774115802057,0.6280909256571566
+2042842045,Learning to explore scientific workflow repositories,2013,6,0,3,0.335857,29980631,Julia Stoyanovich,0,0.2946713761785912,0.4027268098681643
+2053728555,Is byzantine agreement useful in a distributed database,1984,16,8,3,0.0,237419955,Hector Garcia Molina,0,1.8515769859055737,0.5045720722105425
+2068474900,Querying independent databases,1990,16,10,2,0.0,2520028885,O. P. Buneman,0,0.651363238200292,0.1692439052301081
+2096474011,WOLVES achieving correct provenance analysis by detecting and resolving unsound workflow views,2009,4,4,4,0.0,2096022707,Peng Sun,0,0.2946713761785912,0.4027268098681643
+2079436279,Applications of Byzantine agreement in database systems,1986,26,66,3,0.0,2666875713,Hector Garcia Molina,0,-0.07717982967481318,-0.10795400592374306
+2104483974,Querying and Managing Provenance through User Views in Scientific Workflows,2008,29,111,3,1.0,2013389922,Olivier Biton,0,0.2946713761785912,0.4027268098681643
+2104877771,PATAXÃ“ A framework to allow updates through XML views,2006,38,25,2,0.769231,2055859042,Vanessa Braganholo,0,2.431798562837983,-0.21939010680478416
+2105192650,BLAS an efficient XPath processing system,2004,23,54,2,0.627907,2620155405,Yi Chen,0,2.1302527813892462,-0.838173960518428
+2114414562,Preserving Module Privacy in Workflow Provenance,2010,29,9,1,1.0,2097328450,Susan B. Davidson,0,0.2946713761785912,0.4027268098681643
+2105541078,Deriving probabilistic databases with inference ensembles,2011,29,16,2,0.335857,29980631,Julia Stoyanovich,0,0.43739842239757626,0.009947045888208002
+2105584696,Reasoning About the Updatability of XML Views Over Relational Databases,2003,24,8,1,1.0,2097328450,Susan B. Davidson,0,1.0358592914855476,-0.04758016638481497
+2135729589,PDiffView viewing the difference in provenance of workflow results,2009,4,9,3,1.0,2144733928,Zhuowei Bao,0,0.6665041731034329,1.4901896955761065
+2139114892,RRXS redundancy reducing XML storage in relations,2003,19,61,1,1.0,2097328450,Susan B. Davidson,0,1.1862781535070033,-0.16494067892918648
+2121592840,ViteX a streaming XPath processing system,2005,1,9,2,0.652174,2620155405,Yi Chen,0,1.735215643419648,-0.5380772580724306
+2133594068,Theoretical Aspects of Schema Merging,1992,16,98,2,0.0,2020138198,Peter Buneman,0,2.1609842685109184,0.03596454820643297
+2121943587,Hiding data and structure in workflow provenance,2011,30,3,1,1.0,2097328450,Susan B. Davidson,0,0.7745010675604077,1.8773952757681807
+2124972946,Facilitating transformations in a human genome project database,1994,18,12,1,1.0,2097328450,Susan B. Davidson,0,2.2926339810537075,0.471192912686407
+2133986470,Putting lipstick on pig enabling database-style workflow provenance,2011,29,90,2,0.5,234107462,Yael Amsterdamer,0,0.7757533163981203,0.8466326247925053
+2122306341,Propagating XML constraints to relations,2003,24,56,1,1.0,2097328450,Susan B. Davidson,0,2.3485049625640406,-0.9375414068725034
+2110565838,Privacy issues in scientific workflow provenance,2010,28,15,2,0.0,104317848,Sarah Cohen Boulakia,0,0.2946713761785912,0.4027268098681643
+2134286919,Reasoning about keys for XML,2003,35,118,2,0.0,2020138198,Peter Buneman,0,2.9506433426961696,-1.062469590365045
+2116783139,Differencing Provenance in Scientific Workflows,2009,37,50,3,1.0,2144733928,Zhuowei Bao,0,0.5956140644407608,0.9688427061312636
+2140603303,WOL a language for database transformations and constraints,1997,23,42,1,1.0,2097328450,Susan B. Davidson,0,1.2747584282514406,0.3159051385932506
+2150269262,Labeling workflow views with fine-grained dependencies,2012,24,5,2,1.0,2144733928,Zhuowei Bao,0,0.2946713761785912,0.4027268098681643
+2153305525,Effecting Database Transformations Using Morphase,1996,14,1,1,1.0,2097328450,Susan B. Davidson,0,-0.0041099411153885,0.0447066884760059
+2147368736,Designing and Evaluating an XPath Dialect for Linguistic Queries,2006,19,45,3,0.0,2120683996,Steven Bird,0,1.231697365091342,-0.2541629790871541
+2183907052,Managing General and Individual Knowledge in Crowd Mining Applications,2015,21,8,2,0.57411,234107462,Yael Amsterdamer,0,-0.0041099411153885,0.0447066884760059
+2150865046,Labeling recursive workflow executions on-the-fly,2011,24,11,2,0.928571,2144733928,Zhuowei Bao,0,0.2946713761785912,0.4027268098681643
+2148075931,Search and result presentation in scientific workflow repositories,2013,35,2,1,1.0,2097328450,Susan B. Davidson,0,-0.02295394346204571,0.14350008726393185
+2169418560,Reasoning about Keys for XML,2001,34,71,2,0.0,2020138198,Peter Buneman,0,1.889093005262557,-0.6580807669999288
+2151650592,Partial Computation in Real-Time Database Systems A Research Plan,1988,23,0,1,1.0,2097328450,Susan B. Davidson,0,2.801537695397106,0.73022338040245
+2146015265,Zoom*UserViews querying relevant provenance in workflow systems,2007,4,43,3,1.0,2013389922,Olivier Biton,0,0.9615478814547832,0.444965108097847
+2149532506,A query language and optimization techniques for unstructured data,1996,13,538,2,0.0,2020138198,Peter Buneman,0,1.0195170371511102,0.10992367988146691
+2158915538,An optimal labeling scheme for workflow provenance using skeleton labels,2010,18,20,2,1.0,2144733928,Zhuowei Bao,0,0.2946713761785912,0.4027268098681643
+2171037641,An Efficient XPath Query Processor for XML Streams,2006,24,98,2,0.652174,2620155405,Yi Chen,0,2.2282660666769463,-0.8396089509763667
+2203093142,Ontology assisted crowd mining,2014,10,3,2,0.57411,234107462,Yael Amsterdamer,0,0.07791533205391993,0.17539172883810847
+2403842872,On user views in scientific workflow systems,2009,13,2,1,1.0,2097328450,Susan B. Davidson,0,0.6665041731034329,1.4901896955761065
+2406820922,A Fine-Grained Workflow Model with Provenance-Aware Security Views,2011,7,4,2,0.928571,2144733928,Zhuowei Bao,0,0.7844358355092823,1.8726009907809045
+2507345993,PROX Approximated Summarization of Data Provenance,2016,0,0,3,0.0,2232520687,Eleanor Ainy,0,-0.28287353227718043,-0.25033987171622984
+2611189815,Reasoning about keys for XML,2002,0,3,2,0.0,2020138198,Peter Buneman,0,2.36137657396215,-0.9316838356491558
+2604278943,Proc Heterogeneous Database Workshop,1989,0,0,2,0.0,2020138198,Peter Buneman,0,-0.0041099411153885,0.0447066884760059
+2751053821,Automating data citation in CiteDB,2017,6,3,2,1.0,69314847,Abdussalam Alawini,0,-0.0041099411153885,0.0447066884760059
+2751530248,View maintenance for hierarchical semistructured data,2000,0,2,2,0.6,1179716466,Hartmut Liefke,0,0.45133667177577097,0.09422289855118511
+2799141030,Data Citation Giving Credit Where Credit is Due,2018,35,8,3,0.857143,2223359417,Yinjun Wu,0,-0.0041099411153885,0.0447066884760059
+2790986560,Data Citation A New Provenance Challenge,2018,0,3,2,1.0,69314847,Abdussalam Alawini,0,-0.0041099411153885,0.0447066884760059
+2885454525,DBLP-NSF dataset SQL dump,2018,0,0,2,1.0,69314847,Abdussalam Alawini,0,0.044859856903840555,0.012551371775477651
+2912634135,Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data,2015,0,0,1,1.0,2097328450,Susan B. Davidson,0,0.3565816221029829,-0.16578994678723874
+2912662376,Automating Software Citation using GitCite,2019,8,0,2,1.0,2740146229,Leshang Chen,0,-0.0041099411153885,0.0447066884760059
+2891118750,Discovering Similar Workflows via Provenance Clustering A Case Study,2018,13,1,3,1.0,69314847,Abdussalam Alawini,0,0.5956140644407608,0.9688427061312636
+2911683303,Session details Social networks &amp; community data,2010,0,0,1,1.0,2097328450,Susan B. Davidson,0,-0.0041099411153885,0.0447066884760059
+2943537813,ProvCite provenance-based data citation,2019,0,2,5,0.857143,2223359417,Yinjun Wu,0,-0.0041099411153885,0.0447066884760059
+2949898732,Provenance Views for Module Privacy,2010,24,0,1,1.0,2097328450,Susan B. Davidson,0,0.2946713761785912,0.4027268098681643
+2951983716,Putting Lipstick on Pig Enabling Database-style Workflow Provenance,2011,14,7,2,0.5,234107462,Yael Amsterdamer,0,0.7776959699319063,-0.10375241184140487
+2949138580,A Propagation Model for Provenance Views of Public/Private Workflows,2012,22,3,1,1.0,2097328450,Susan B. Davidson,0,0.2946713761785912,0.4027268098681643
+2972151635,Putt ing Lipstick on Pig Enabling Database-Style Workflo w Provenance,2011,26,0,3,0.5,234107462,Yael Amsterdamer,0,-0.0041099411153885,0.0447066884760059
+2399616294,Understanding local structure in ranked datasets,2013,22,4,4,0.335857,29980631,Julia Stoyanovich,0,0.18601297105691045,-0.0008472885667257998

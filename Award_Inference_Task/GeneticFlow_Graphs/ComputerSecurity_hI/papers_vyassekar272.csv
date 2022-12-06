@@ -1,0 +1,49 @@
+95954701,Toward a Framework for Internet Forensic Analysis,2004,25,51,3,0.0,2063025135,David A. Maltz,0,-1.4378671217193235,-0.0066250810914841125
+14784157,Is Host-Based Anomaly Detection + Temporal Correlation = Worm Causality,2007,24,8,2,0.0,2260712038,Michael K. Reiter,0,-0.1263468363595049,0.2087157531210343
+812600222,Internet Outages the Eyewitness Accounts Analysis of the Outages Mailing List,2015,30,14,5,0.0,2134712558,Ritwik Banerjee,0,0.0040557659796233,0.2757546058061082
+1215234261,A New Approach to DDoS Defense using SDN and NFV,2015,28,0,3,0.0,3228210,Yoshiaki Tobioka,0,-0.6056493846248472,1.3236421426985006
+1486426806,Bohatei flexible and elastic DDoS defense,2015,35,112,3,1.0,2039923432,Seyed K. Fayaz,0,-0.6056493846248472,1.3236421426985006
+1540379871,Making Peer-Assisted Content Distribution Robust to Collusion Using Bandwidth Puzzles,2009,36,9,2,0.0,2260712038,Michael K. Reiter,0,-0.05926968850311532,-0.8889427580180799
+1878596512,CARE Content Aware Redundancy Elimination for Disaster Communications on Damaged Networks,2012,23,5,5,0.0,90917981,Udi Weinsberg,0,-0.018059540770669236,0.30729283481777714
+1664109705,Scalable Long-term Network Forensics for Epidemic Attacks,2009,15,1,3,0.0,2132221385,Yeali S. Sun,0,0.13679434731489165,0.6751406926737795
+1976944900,A Control-Theoretic Approach for Dynamic Adaptive Video Streaming over HTTP,2015,39,319,3,0.0,2174886020,Xiaoqi Yin,0,0.0040557659796233,0.2757546058061082
+1967074206,Verifiable network function outsourcing requirements challenges and roadmap,2013,27,26,3,0.0,2043843826,Seyed Kaveh Fayazbakhsh,0,0.12040524684656785,0.19341231050682683
+2018970006,Verifiable resource accounting for cloud computing services,2011,30,56,1,1.0,2293201185,Vyas Sekar,0,0.29392382053358135,0.10045542812224656
+2021124779,Measuring user confidence in smartphone security and privacy,2012,26,213,3,0.0,2171525095,Erika Chin,0,-0.00168197743547895,0.19811566372264167
+2018026534,Analyzing large DDoS attacks using multiple data sources,2006,10,54,4,0.0,2105454298,Jacobus Van der Merwe,0,0.0040557659796233,0.2757546058061082
+2035091681,Nomad Mitigating Arbitrary Cloud Side Channels via Provider-Assisted Migration,2015,40,53,2,0.0,2918219679,Soo Jin Moon,0,-0.0704802660657359,0.09794035737183271
+2055816813,The middlebox manifesto enabling innovation in middlebox deployment,2011,21,119,1,1.0,2293201185,Vyas Sekar,0,0.0040557659796233,0.2757546058061082
+2070153724,A case for a coordinated internet video control plane,2012,35,184,5,0.0,2488946670,Xi Liu,0,0.0040557659796233,0.2757546058061082
+2084200885,Shedding light on the structure of internet video quality problems in the wild,2013,26,29,2,0.0,2676234963,Junchen Jiang,0,0.0040557659796233,0.2757546058061082
+2100207371,Forensic Analysis for Epidemic Attacks in Federated Networks,2006,15,43,2,0.545455,2780105532,Yinglian Xie,0,0.7197712816117044,0.27790993721029206
+2103953076,SmartRE an architecture for coordinated network-wide redundancy elimination,2009,24,182,2,0.6,2017061156,Ashok Anand,0,0.0040557659796233,0.2757546058061082
+2138743329,FlowTags enforcing network-wide policies in the presence of dynamic middlebox actions,2013,16,169,2,0.0,2043843826,Seyed Kaveh Fayazbakhsh,0,-0.023550276898621297,0.7099097923564667
+2124700175,FireFly a reconfigurable wireless data center fabric using free-space optics,2015,39,125,4,0.0,161103116,Navid Hamedazimi,0,0.0040557659796233,0.2757546058061082
+2142972529,Making middleboxes someone elses problem network processing as a cloud service,2012,26,554,6,0.0,2115429334,Justine Sherry,0,-0.1263468363595049,0.2087157531210343
+2136930733,SIMPLE-fying middlebox policy enforcement using SDN,2013,39,487,5,0.529412,2060561799,Zafar Ayyub Qazi,0,-0.023550276898621297,0.7099097923564667
+2113551315,Multi-resource fair queueing for packet processing,2012,26,144,2,0.0,734473377,Ali Ghodsi,0,0.0040557659796233,0.2757546058061082
+2131431269,Towards verifiable resource accounting for outsourced computation,2013,41,36,5,0.0,2509234933,Chen Chen,0,0.4119935196530789,0.9543051557745983
+2137754263,Worm origin identification using random moonwalks,2005,25,87,2,0.545455,2780105532,Yinglian Xie,0,0.05014485837033889,0.7975742658702493
+2156104365,Less pain most of the gain incrementally deployable ICN,2013,38,397,8,0.0,2043843826,Seyed Kaveh Fayazbakhsh,0,0.015245780877612549,0.7423220265691124
+2147685728,Flexible multimedia content retrieval using InfoNames,2010,6,2,5,0.0,2424930959,Arun Kumar,0,-0.3433073201126619,0.03445260357195232
+2165723722,Developing a predictive model of quality of experience for internet video,2013,30,282,2,1.0,2151495010,Athula Balachandran,0,0.0040557659796233,0.2757546058061082
+2189351192,Forensic Analysis for Epidemic Attacks in,2006,16,0,2,0.0,2260712038,Michael K. Reiter,0,0.0040557659796233,0.2757546058061082
+2269205123,SNIPS A Software-Defined Approach for Scaling Intrusion Prevention Systems via Offloading,2014,32,6,4,0.0,65502744,Victor Heorhiadi,0,0.13679434731489165,0.6751406926737795
+2293605433,Handling a trillion (unfixable) flaws on a billion devices Rethinking network security for the Internet-of-Things,2015,18,129,2,1.0,2302471721,Tianlong Yu,0,-0.47749229311561714,0.9927165329544728
+2398484943,CICADAS Congesting the Internet with Coordinated and Decentralized Pulsating Attacks,2016,32,5,5,0.0,2505095192,Yu Ming Ke,0,0.0040557659796233,0.2757546058061082
+2548938560,Shedding Light on the Adoption of Lets Encrypt,2016,9,9,5,0.0,2515980522,Antonis Manousis,0,0.1802004197093113,-1.6655381952299315
+2573541888,SPIFFY Inducing Cost-Detectability Tradeoffs for Persistent Link-Flooding Attacks,2016,30,24,3,0.0,2893136464,Min Suk Kang,0,0.0040557659796233,0.2757546058061082
+2558291146,Enabling Software-Defined Network Security for Next-Generation Networks,2016,0,0,1,1.0,2293201185,Vyas Sekar,0,0.47227984280099017,0.5854126019567872
+2624359066,Rethinking Security in the Era of Cloud Computing,2017,18,17,7,0.0,2083607902,Jay Aikat,0,0.3171484069971384,-0.13992525839030945
+2612493356,PSI Precise Security Instrumentation for Enterprise Networks,2017,28,18,4,1.0,2302471721,Tianlong Yu,0,0.0040557659796233,0.2757546058061082
+2737349658,Defending Against Evolving DDoS Attacks A Case Study Using Link Flooding Incidents,2016,23,2,3,0.0,2893136464,Min Suk Kang,0,0.0040557659796233,0.2757546058061082
+2811184904,Oh What a Fragile Web We Weave Third-party Service Dependencies In Modern Webservices and Implications,2018,13,0,5,0.0,2809976477,Aqsa Kashaf,0,-0.056974124246951384,-0.10529196282937789
+2885875606,EZ-PC program committee selection made easy,2018,0,1,1,1.0,2293201185,Vyas Sekar,0,0.0040557659796233,0.2757546058061082
+2905132422,Vulnerabilities of Electric Vehicle Battery Packs to Cyberattacks,2017,1,2,2,0.0,2158336009,Vikram Pande,0,-0.09599616327697101,0.06312598316488381
+2908120394,Practical Verifiable In-network Filtering for DDoS defense,2019,54,0,5,0.0,2229304526,Deli Gong,0,0.3038881543943463,0.4104063854697735
+2982587079,Practical Verifiable In-network Filtering for DDoS defense,2019,0,0,5,0.0,2229304526,Deli Gong,0,0.29392382053358135,0.10045542812224656
+2965257942,CANvas Fast and Inexpensive Automotive Network Mapping,2019,0,2,4,0.0,2770385002,Sekar Kulandaivel,0,0.0040557659796233,0.2757546058061082
+2983593514,Programmable System Security in a Software-Defined World Research Challenges and Opportunities,2018,0,0,2,0.0,2091294463,Sandra Scott Hayward,0,0.0040557659796233,0.2757546058061082
+2988927110,Sandpaper mitigating performance interference in CDN edge proxies,2019,24,0,4,0.0,2920095060,Jeffrey Helt,0,0.0040557659796233,0.2757546058061082
+3008363321,Fighting Fire with Light A Case for Defending DDoS Attacks Using the Optical Layer,2020,23,0,3,0.0,3007514945,Matthew Hall,0,0.0040557659796233,0.2757546058061082
+3027859434,Learning Context-Aware Policies from Multiple Smart Homes via Federated Multi-Task Learning,2020,0,1,6,1.0,2302471721,Tianlong Yu,0,0.0040557659796233,0.2757546058061082

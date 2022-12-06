@@ -1,0 +1,43 @@
+58876005,Tracing Based Active Intrusion Response,2002,27,26,2,1.0,2112836700,Xinyuan Wang,0,0.7730344160272572,2.01325807586375
+82430309,Correlating Alerts Using Prerequisites of Intrusions,2001,15,39,3,0.5,1998006409,Peng Ning,0,1.7179594819008146,1.4250319359716759
+1488676795,Reasoning about complementary intrusion evidence,2004,24,50,4,0.0,2974666113,Y. Zhai,0,0.8132086575740218,0.9257086063639175
+1506219363,Inter-Packet Delay Based Correlation for Tracing Encrypted Connections through Stepping Stones,2002,14,135,2,1.0,2112836700,Xinyuan Wang,0,0.19375792450917864,0.11738230924733388
+1506298549,Certificate Recommendations to Improve the Robustness of Web of Trust,2004,27,3,2,0.0,2345090254,Qinglin Jiang,0,-0.02933240528715487,-1.5180462091000322
+1535235745,Improving Robustness of PGP Keyrings by Conflict Detection,2004,20,12,2,0.0,2345090254,Qinglin Jiang,0,-0.11323220301512156,-1.0371111601688079
+1501417185,Defending against Sybil nodes in BitTorrent,2011,28,4,2,1.0,2102488655,Jung Ki So,0,0.0040557659796233,0.2757546058061082
+1454815643,EASEAndroid automatic policy analysis and refinement for security enhanced android via large-scale semi-supervised learning,2015,32,30,3,0.0,2610543188,Ruowen Wang,0,0.7561332607704458,1.2075793026715669
+1905648346,Protecting Network Quality of Service Against Denial of Service Attacks,2003,32,1,1,1.0,2155754169,Douglas S. Reeves,0,0.04841774909296905,0.2906464507864569
+1594026167,Analyzing intensive intrusion alerts via correlation,2002,19,122,3,0.5,1998006409,Peng Ning,0,0.9708494183567112,1.6448019430591836
+2010440413,Analyzing network traffic to detect self-decrypting exploit code,2007,18,52,2,1.0,2311898773,Qinghua Zhang,0,0.14168921783052993,0.5751745812993051
+2054093027,Deriving common malware behavior through graph clustering,2013,43,54,2,0.666667,2954433496,Younghee Park,0,0.6044848561367162,0.9886909916244806
+2033857234,Deriving common malware behavior through graph clustering,2011,26,16,2,1.0,2954433496,Younghee Park,0,0.43347161404759316,0.672001915216242
+2071487767,User identification via process profiling extended abstract,2009,14,7,2,0.0,2673857038,Steve McKinney,0,-1.9085098496280484,0.0940016851450281
+2057789312,A k -anonymous communication protocol for overlay networks,2007,36,23,2,0.133837,1998006409,Peng Ning,0,-0.67116879492382,-0.137555378368592
+2058919211,Winnowing Protecting P2P systems against pollution through cooperative index filtering,2012,28,11,2,0.0,2097760468,Kyuyong Shin,0,0.0040557659796233,0.2757546058061082
+2078441062,AntiLiar Defending against cheating attacks in mesh based streaming,2012,34,1,2,1.0,2102488655,Jung Ki So,0,-0.5684889071573828,-0.39956391387314993
+2099566680,Secure address auto-configuration for mobile ad hoc networks,2005,6,30,2,0.17442,1998006409,Peng Ning,0,0.3259332239481683,0.5745734317069635
+2104495462,MetaAware Identifying Metamorphic Malware,2007,21,94,2,1.0,2311898773,Qinghua Zhang,0,-0.23768209143889585,1.4528101241265454
+2141200504,Constructing attack scenarios through correlation of intrusion alerts,2002,31,434,3,0.5,1998006409,Peng Ning,0,1.3823474979173807,1.571275104647528
+2111541427,AntiBot Clustering Common Semantic Patterns for Bot Detection,2010,30,13,3,1.0,2954433496,Younghee Park,0,-0.4661311413367283,0.17310672168071123
+2115149820,Techniques and tools for analyzing intrusion alerts,2004,33,232,3,0.232406,1998006409,Peng Ning,0,1.0343022598775697,1.7774365753828285
+2112248862,Preventing denial of service attacks on quality of service,2001,14,29,3,0.0,101557671,Errin W. Fulp,0,0.0040557659796233,0.2757546058061082
+2127264212,On the secrecy of timing-based active watermarking trace-back techniques,2006,33,121,3,0.0,2001459235,Pai Peng,0,0.3139939642973432,-0.4259949914620587
+2139978474,Robust correlation of encrypted attack traffic through stepping stones by manipulation of interpacket delays,2003,16,240,2,1.0,2112836700,Xinyuan Wang,0,0.155870422438688,-0.3611899258997246
+2119356608,Identification of Bot Commands by Run-Time Execution Monitoring,2009,25,12,2,1.0,2954433496,Younghee Park,0,-0.03167078218114319,0.7899052332256504
+2171602510,On the Suitability of Composable Services for the Assurable Future Internet,2007,24,5,3,0.0,79236072,Ilia Baldine,0,-0.09069091384299154,1.3567675998620488
+2158421323,Defending against Sybil attacks in sensor networks,2005,12,94,3,1.0,2311898773,Qinghua Zhang,0,-0.45071301596258123,-1.1458259178658394
+2168010029,Bluetooth Network-Based Misuse Detection,2008,23,20,1,1.0,2155754169,Douglas S. Reeves,0,0.3467531803549858,1.6717409422801484
+2262003696,Authorizing communication services,2000,4,17,2,0.0,2101475526,Samuel H. Christie,0,-0.26230019624821804,0.5775622236854134
+2266780177,Tracing intruders behind stepping stones,2004,67,3,2,1.0,2112836700,Xinyuan Wang,0,0.21785101874162105,0.08771443086449857
+2245157555,Defending against malicious behaviors in bittorrent systems,2012,60,2,2,1.0,2102488655,Jung Ki So,0,-0.17412680416321072,-0.027732360720717924
+2294623520,Traceback and Anonymity,2015,0,2,2,0.244278,2112836700,Xinyuan Wang,0,-1.8259217798485006,0.9324579408715459
+2285840316,Improving the robustness of webs of trust,2006,57,1,2,0.151216,1998006409,Peng Ning,0,-0.17346335895197895,-1.0336462112090914
+2460122212,Fundamental Limitations in Low-Latency Anonymity Systems,2015,47,0,2,0.244278,2112836700,Xinyuan Wang,0,-0.2263130908120603,0.5625424318017056
+2529158007,Robust network-based attack attribution through probabilistic watermarking of packet flows,2005,0,10,3,0.17442,1998006409,Peng Ning,0,0.0040557659796233,0.2757546058061082
+2525052892,Service integrity assurance in large-scale cloud systems,2011,57,0,1,1.0,2155754169,Douglas S. Reeves,0,0.2841909108688804,1.1764792917534819
+2526785255,Adaptive timing-based active watermarking for attack attribution through stepping stones,2007,14,0,1,1.0,2155754169,Douglas S. Reeves,0,0.0040557659796233,0.2757546058061082
+2774882848,Goalkeeper Comprehensive process enforcement from the hypervisor,2018,31,2,2,0.0,2607319524,Micah Bushouse,0,-0.023032522235418892,0.35071115069108927
+2791045298,Hyperagents Migrating Host Agents to the Hypervisor,2018,41,2,2,0.0,2607319524,Micah Bushouse,0,0.05940095047987125,0.6960502266457337
+2892217134,Furnace Self-service Tenant VMI for the Cloud,2018,25,4,2,0.0,2607319524,Micah Bushouse,0,0.0040557659796233,0.2757546058061082
+2985261000,AntiLiar Defending against cheating attacks in mesh based streaming,2012,0,0,2,1.0,2102488655,Jung Ki So,0,0.0040557659796233,0.2757546058061082
+1600930409,Sleepy watermark tracing an active network-based intrusion response framework,2001,9,120,2,1.0,2112836700,Xinyuan Wang,0,1.3852772726815832,1.1242898479614376

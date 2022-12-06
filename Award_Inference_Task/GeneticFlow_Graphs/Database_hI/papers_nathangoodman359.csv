@@ -1,0 +1,29 @@
+20850066,Hierarchies of Database State Reductions,1981,0,2,1,1.0,1992516074,Nathan Goodman,0,-0.0041099411153885,0.0447066884760059
+160787565,Timestamp-based algorithms for concurrency control in distributed database systems,1980,9,119,2,0.435686,2304774990,Philip A. Bernstein,0,2.376031815465849,3.2190297341409675
+164325459,Two Part Proof Schema for Database Concurrency Control,1981,0,22,2,0.435686,2304774990,Philip A. Bernstein,0,2.631025267012074,3.448444456413233
+12586210,A survey of research and development in distributed database management,1977,29,100,2,0.0,2257260452,James B. Rothnie,0,0.44152478485251584,0.37076977475758277
+68021608,Recovery Algorithms for Database Systems,1983,0,39,2,0.245208,2304774990,Philip A. Bernstein,0,2.2710664303540664,0.5521629453071827
+1545155892,Concurrency Control and Recovery in Database Systems,1987,0,3753,3,0.241974,2304774990,Philip A. Bernstein,0,2.7421671093153708,3.4929866391786906
+1566656512,A sophisticates introduction to database normalization theory,1978,29,206,3,0.0,345432764,Catriel Beeri,0,2.4728942685654305,0.7856666620159093
+1558131375,Building a Laboratory Information System Around a C++-Based Object-Oriented DBMS,1994,20,14,1,1.0,1992516074,Nathan Goodman,0,0.370690071179864,0.053830130291160606
+1576374061,An Overview of the Preliminary Design of SDD-1 A System for Distributed Databases,1977,0,35,2,0.0,2257260452,James B. Rothnie,0,0.8536608207176253,0.5292087684287896
+1755023245,Multirelations semantice and languages,1985,7,11,1,1.0,1992516074,Nathan Goodman,0,0.119739122485096,0.4583397011045227
+1858765771,Distributed database systems,1980,0,0,1,1.0,1992516074,Nathan Goodman,0,1.6820956240506675,0.36321705379741925
+1986089942,Query optimization for CODASYL database systems,1982,15,37,2,0.272727,689294964,Umeshwar Dayal,0,0.0908845357243609,0.31128747720343375
+1977735896,Tree queries a simple class of relational queries,1982,28,68,1,1.0,1992516074,Nathan Goodman,0,1.0441768503630076,0.32838013901186297
+1991541488,Rule-based transformation of relational queries into iterative programs,1986,12,23,1,1.0,1992516074,Nathan Goodman,0,0.43739842239757626,0.009947045888208002
+1993518363,Concurrency control algorithms for multiversion database systems,1982,18,25,2,0.282752,2304774990,Philip A. Bernstein,0,2.3635923836974047,3.027147564993192
+2004482302,On the translation of relational queries into iterative programs,1989,23,33,2,0.0,2243006145,Johann Christoph Freytag,0,0.18614757814176366,0.053282739225163966
+2027856270,Locking Performance in Centralized Databases,1987,35,195,2,0.0,2110494393,Y. C. Tay,0,0.38009049917121435,0.45246057348231067
+2023195086,Query processing in a system for distributed databases (SDD-1),1981,26,429,2,0.435686,2304774990,Philip A. Bernstein,0,1.3650772920854106,0.23461746568963876
+2028691503,A simple analytic model for performance of exclusive locking in database systems,1983,8,17,1,1.0,1992516074,Nathan Goodman,0,1.5656442805536568,2.1358252893197602
+2028781918,A proof technique for concurrency control and recovery algorithms for replicated databases,1987,19,15,2,0.241974,2304774990,Philip A. Bernstein,0,1.8050790964314645,1.5617005943822218
+2030620388,Errors in process synchronization in database systems,1981,7,2,3,0.435686,2304774990,Philip A. Bernstein,0,0.8071947597928303,0.95524368871504
+2033223918,An algorithm for concurrency control and recovery in replicated distributed databases,1984,30,282,2,0.270972,2304774990,Philip A. Bernstein,0,0.6094757201331841,0.6879567321663215
+2036122593,Concurrent search structure algorithms,1988,44,105,2,0.0,2082974086,Dennis Shasha,0,0.9407937067526672,1.629336991784843
+2048552999,Comments on â€œProcess synchronizaiton in databases systemsâ€,1979,2,3,1,1.0,1992516074,Nathan Goodman,0,-1.2055609120597954,3.2968521501332604
+2038023598,The power of inequality semijoins,1981,16,11,2,0.435686,2304774990,Philip A. Bernstein,0,1.2105109291841771,0.37554803281232435
+2073669509,The failure and recovery problem for replicated databases,1983,17,151,2,0.245208,2304774990,Philip A. Bernstein,0,0.7974441109885381,1.406621491566283
+2094711531,Introduction to a system for distributed databases (SDD-1),1980,23,215,4,0.0,2894670496,James B. Rothnie,0,1.3638135409808338,1.3069676276720756
+2122696933,Overview of an Ada compatible distributed database manager,1983,19,39,4,0.0,2157979715,Arvola Chan,0,1.6345075441722279,0.5102480839362935
+2435606122,Multiversion concurrency controlâ€”theory and algorithms,1983,20,338,1,1.0,1992516074,Nathan Goodman,0,2.204731518515938,2.759999119423109

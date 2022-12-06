@@ -1,0 +1,129 @@
+320896,Self-Tuning Technology in Microsoft SQL Server,1999,0,28,3,0.0,2163909284,Surajit Chaudhuri,0,0.64961922221683,-0.9086581615249159
+86688856,System for halloween protection in a database system,1998,3,24,2,0.0,2108125767,Rodger N. Kline,0,0.42750812422608964,0.0545813370620825
+104575299,Dynamic Query Evaluation Plans Some Course Corrections ,2000,0,28,1,1.0,2284116839,Goetz Graefe,0,0.014532710543751099,0.030944858938630852
+104773549,Proceedings of the Fourth International Workshop on Testing Database Systems,2011,0,0,2,0.0,2157592790,Kenneth Salem,0,-0.0041099411153885,0.0447066884760059
+53791456,Query optimization in revelation an overview,1991,0,18,2,0.0,2681904511,Scott Daniels,0,0.0908845357243609,0.31128747720343375
+105450126,Transaction support for indexed views,2004,0,13,1,1.0,2284116839,Goetz Graefe,0,0.38009049917121435,0.45246057348231067
+23794993,Dynamic Techniques for Very Complex Database Queries,1993,0,0,1,1.0,2284116839,Goetz Graefe,0,2.4644813395988856,0.6712176962416835
+42580803,Making Transaction Execution the Bottleneck,2013,32,1,2,0.0863155,2045202252,Harumi Kuno,0,1.8053481428864866,1.640763877118858
+9089673,Designing Database Operators for Flash-enabled Memory Hierarchies,2010,21,7,1,1.0,2284116839,Goetz Graefe,0,-0.46893397788284524,0.07728939382804885
+95231817,Query optimization in object-oriented database systems the REVELATION project,1988,0,8,2,0.0,2064546257,David Maier,0,1.2932515466288539,0.42873939942312633
+96240856,Microsoft SQL Server (Chapter 27),2001,0,1,6,0.0,2117901010,Sameet H. Agarwal,0,0.64961922221683,-0.9086581615249159
+98612755,Auto-parameterization of database queries,1999,4,87,7,0.461538,177590072,Cesar A. Galindo Legaria,0,-0.15920861304977532,0.009184461394527233
+135863099,The Cascades Framework for Query Optimization,1995,8,235,1,1.0,2284116839,Goetz Graefe,0,0.6370156616725524,0.3168834421150939
+962689715,Perspective transformations on relational database tables,1999,3,8,2,1.0,2159438309,Jeff Alger,0,0.4797969494881859,0.06019419250883945
+837473538,Database Workload Management (Dagstuhl Seminar 12282),2012,0,2,2,0.0,2681779508,Shivnath Babu,0,-0.0041099411153885,0.0447066884760059
+1534029260,The Value of Merge-Join and Hash-Join in SQL Server,1999,8,13,1,1.0,2284116839,Goetz Graefe,0,1.8462536505889622,0.7878631185716802
+1543503180,Determining whether change in workload of database system has occurred and/or whether executing current workload will likely result in problem developing with database system,2009,9,13,3,0.104358,2045202252,Harumi Kuno,0,2.540336534346024,0.6602994858420488
+1535502247,Computer indexes with multiple representations,2011,21,6,1,1.0,2284116839,Goetz Graefe,0,-0.46893397788284524,0.07728939382804885
+1563203725,Challenges for Query Processing in Object-Oriented Databases,1991,0,8,5,0.0,2064546257,David Maier,0,0.0908845357243609,0.31128747720343375
+1501424936,Combining nested aggregators,2005,8,18,3,0.0,2191054779,Oliver Nicholas Seeliger,0,-1.0858918545083966,0.4506448632682188
+1510186824,The Microsoft relational engine,1996,0,14,1,1.0,2284116839,Goetz Graefe,0,-0.0041099411153885,0.0447066884760059
+1564186900,Software transaction commit order and conflict management,2007,24,26,4,0.0,1967913477,Vinod Grover,0,2.5770883119137213,1.835362267877849
+1510308978,Write-optimized B-trees,2004,29,88,1,1.0,2284116839,Goetz Graefe,0,-0.049986861808530035,1.1644807336699385
+1564768453,Architecture of the EXODUS extensible DBMS a preliminary report,1986,0,2,4,0.0,364421747,M. Muralikrishna,0,0.279888126725718,0.2212557419477704
+1494471857,System and method for database change notification,2003,19,22,3,0.461538,177590072,Cesar A. Galindo Legaria,0,0.8809340701863815,0.11633144593696097
+1567277549,PIVOT and UNPIVOT optimization and execution strategies in an RDBMS,2004,8,97,2,0.0,2186100890,Conor Cunningham,0,0.8958216790073364,0.32087785511887223
+1513452153,Algebraic Optimization of Computations over Scientific Databases,1993,28,26,2,0.0,2706857911,Richard H. Wolniewicz,0,1.452070282980448,0.24356914414119935
+1577927098,Algebraic Optimization of Computations over Scientific Databases,1993,23,0,2,0.0,2706857911,Richard H. Wolniewicz,0,2.6391864925324606,0.6220565941883286
+1588352472,System and method for executing queries,2014,31,3,2,0.0,2148893700,David W. Birdsall,0,-0.06169581291249876,0.16311936866417331
+1580108468,Rule-based query optimization in extensible database systems,1987,0,34,1,1.0,2284116839,Goetz Graefe,0,1.062517830183512,0.17291721830892462
+1580242677,System for memory management during run formation for external sorting in database system,1998,15,29,2,0.0,2148643341,Per Ake Larson,0,-0.0041099411153885,0.0447066884760059
+1607703189,Data store page recovery,2011,12,8,2,0.104358,2045202252,Harumi Kuno,0,-0.9514807553916852,-0.7511164614186395
+1589679095,Fetching Optimization in Multi-way Pipelined Database Joins,2009,10,9,3,0.0,2140057800,Mehul A. Shah,0,1.1941091794462926,0.14107462292952677
+1694233656,The architecture of the EXODUS extensible DBMS,1986,57,193,4,0.0,2157114695,Michael J. Carey,0,2.5220678176271214,0.6708662729381849
+1916523342,System and method for optimizing database queries,1996,11,197,2,0.0,2092933503,Jay Vaishnav,0,-0.5102939904255323,0.17290649546379255
+1600423326,Letter from the Special Issue Editor,1993,0,0,1,1.0,2284116839,Goetz Graefe,0,-0.0041099411153885,0.0447066884760059
+1601880505,Hash Joins and Hash Teams in Microsoft SQL Server,1998,14,68,1,1.0,2284116839,Goetz Graefe,0,0.8809340701863815,0.11633144593696097
+1829550030,The new database imperatives,1998,0,7,1,1.0,2284116839,Goetz Graefe,0,1.1930577160661062,0.2937743100249808
+1785356562,In-memory performance for big data,2014,36,29,1,1.0,2284116839,Goetz Graefe,0,0.06635930819191084,0.49152641060504293
+1964297545,Dynamic resource brokering for multi-user query execution,1995,19,34,2,0.0,2101234321,Diane L. Davison,0,-0.0041099411153885,0.0447066884760059
+1585029481,Fast Loads and Fast Queries,2009,14,15,1,1.0,2284116839,Goetz Graefe,0,-0.3015641978542666,0.05725393901911783
+1968039508,Experiences building the open OODB query optimizer,1993,23,95,3,0.0,2651294325,JosÃ© A. Blakeley,0,0.5314738241210419,-0.10688868888416178
+1970298499,Self-selecting self-tuning incrementally optimized indexes,2010,22,77,1,1.0,2284116839,Goetz Graefe,0,0.928011536584163,0.12461805017601223
+1975863957,Instant Recovery with Write-Ahead Logging Page Repair System Restart and Media Restore,2014,13,14,1,1.0,2284116839,Goetz Graefe,0,0.1623667236524585,0.1764328097176812
+1981653822,Controlled lock violation,2013,19,10,1,1.0,2284116839,Goetz Graefe,0,2.4617405484844075,2.540709390532807
+1974637590,Elasticity in Cloud Databases and Their Query Processing,2013,34,5,1,1.0,2284116839,Goetz Graefe,0,1.6124614744306687,0.35718055964755413
+1974796034,Implementing sorting in database systems,2006,54,103,1,1.0,2284116839,Goetz Graefe,0,-0.0041099411153885,0.0447066884760059
+1994502095,Dynamic query evaluation plans,1989,26,156,1,1.0,2284116839,Goetz Graefe,0,0.7215975991611812,0.3052417628859806
+1996467498,Fast algorithms for universal quantification in large databases,1995,34,39,1,1.0,2284116839,Goetz Graefe,0,0.33296029633970825,0.13812248096627158
+2002452726,Database research at the Data-Intensive Systems Center,1993,2,1,4,0.0,2064546257,David Maier,0,1.0474255586496655,-0.2410912650305209
+1994073219,A survey of B-tree logging and recovery techniques,2012,38,54,1,1.0,2284116839,Goetz Graefe,0,1.6632205199198118,1.5242951328061798
+1992379444,Sorting in a Memory Hierarchy with Flash Memory,2011,24,2,1,1.0,2284116839,Goetz Graefe,0,-0.0041099411153885,0.0447066884760059
+2030059876,Transaction support for indexed summary views,2004,22,19,2,0.0,2227644323,Michael James Zwilling,0,2.4602378080098104,2.3199511205977648
+2021590156,Master-detail clustering using merged indexes,2007,46,10,1,1.0,2284116839,Goetz Graefe,0,0.6178311332604894,0.34756307791040003
+2038066488,Robust query processing,2011,0,13,1,1.0,2284116839,Goetz Graefe,0,0.18601297105691045,-0.0008472885667257998
+2075018787,Merging whats cracked cracking whats merged adaptive indexing in main-memory column-stores,2011,14,86,4,0.0,2188856032,Stratos Idreos,0,-0.0041099411153885,0.0447066884760059
+2075372521,A survey of B-tree locking techniques,2010,35,62,1,1.0,2284116839,Goetz Graefe,0,0.6070692465761655,0.9406059615944221
+2059877472,The five-minute rule ten years later and other computer storage rules of thumb,1997,0,103,2,0.0,2131537204,Jim Gray,0,-0.0041099411153885,0.0447066884760059
+2058178853,Query processing techniques for solid state drives,2009,28,124,5,0.0,2092695954,Dimitris Tsirogiannis,0,0.41277589474068377,-0.6248001051843898
+2074125039,Efficient columnar storage in B-trees,2007,15,23,1,1.0,2284116839,Goetz Graefe,0,0.11294741522829803,0.26055738374410725
+2091076568,Foster b-trees,2012,40,50,1,1.0,2284116839,Goetz Graefe,0,0.24117844175679057,0.705129568945532
+2085930856,Database servers tailored to improve energy efficiency,2008,18,40,1,1.0,2284116839,Goetz Graefe,0,2.0453327119853606,0.5062925316071456
+2103219135,Instant recovery with write-ahead logging,2015,19,4,1,1.0,2284116839,Goetz Graefe,0,-0.0041099411153885,0.0447066884760059
+2091620528,A hybrid page layout integrating PAX and NSM,2013,7,3,1,1.0,2284116839,Goetz Graefe,0,-0.0041099411153885,0.0447066884760059
+2097904740,B-tree indexes and CPU caches,2001,17,82,1,1.0,2284116839,Goetz Graefe,0,0.07990222934621705,0.430503982801384
+2079555167,XML data management (panel session) go native or spruce up relational systems ,2001,0,5,3,0.0,172573358,Guido Moerkotte,0,2.86591141791933,-1.1634890263100996
+2086696499,Transforming query results into hierarchical information,2004,16,34,5,0.0,65847960,Istvan Cseri,0,0.6884928870002195,-0.27161121536448124
+2079992169,Options in physical database design,1993,45,15,1,1.0,2284116839,Goetz Graefe,0,2.499426759284185,0.5964764943852917
+2126520469,Memory management during run generation in external sorting,1998,10,39,2,0.0,2628783441,Per Ã…ke Larson,0,-0.0041099411153885,0.0447066884760059
+2126583885,Encapsulation of parallelism in the Volcano query processing system,1990,34,328,1,1.0,2284116839,Goetz Graefe,0,0.253202750105207,0.12815134630264885
+2114968486,Electronic database operations for perspective transformations on relational tables using pivot and unpivot columns,1998,18,129,2,1.0,2159438309,Jeff Alger,0,0.5953061767195978,0.1588774390860714
+2127241402,Modern B-Tree Techniques,2011,124,75,1,1.0,2284116839,Goetz Graefe,0,0.5565414464146287,0.6024418843868635
+2136195851,The Volcano optimizer generator extensibility and efficient search,1993,20,330,1,1.0,2284116839,Goetz Graefe,0,-0.23344236191928341,-0.07666677852209447
+2112774785,Definition detection and recovery of single-page failures a fourth class of database failures,2012,21,16,1,1.0,2284116839,Goetz Graefe,0,0.7918713367722718,0.7886599557465486
+2142644005,B-tree indexes for high update rates,2006,18,54,1,1.0,2284116839,Goetz Graefe,0,0.07990222934621705,0.430503982801384
+2118995957,Sorting And Indexing With Partitioned B-Trees,2003,38,116,1,1.0,2284116839,Goetz Graefe,0,1.261668498038494,0.20997702271833857
+2142977627,System and method for segmented evaluation of database queries,2004,25,71,3,0.441111,177590072,Cesar A. Galindo Legaria,0,1.2178502537449285,-1.5947337678562354
+2130911657,Sort-merge-join an idea whose time has(h) passed ,1994,23,46,1,1.0,2284116839,Goetz Graefe,0,0.9289445935012374,-0.03254014692566444
+2137253043,Visualizing the robustness of query execution,2009,30,0,1,1.0,2284116839,Goetz Graefe,0,0.7215975991611812,0.3052417628859806
+2140646908,Multi-table joins through bitmapped join indices,1995,4,299,2,0.0,2136822424,Patrick ONeil,0,1.3432045276424425,-0.10537125280792813
+2143775511,â€˜Pause and resumeâ€™ functionality for index operations,2011,22,3,3,0.104358,2045202252,Harumi Kuno,0,-0.15695418509871564,0.19310717880606795
+2140678196,Efficient assembly for complex objects,1991,24,41,2,0.0,2064546257,David Maier,0,2.022476639161431,0.3845228178657179
+2119953502,Method to increase subscription scalability,2003,14,19,2,0.461538,177590072,Cesar A. Galindo Legaria,0,-0.0041099411153885,0.0447066884760059
+2125965251,Relational division four algorithms and their performance,1989,7,20,1,1.0,2284116839,Goetz Graefe,0,0.5325669973310596,0.09709227568458595
+2143979434,On the efficient gathering of sufficient statistics for classification from large SQL databases,1998,18,96,1,1.0,2284116839,Goetz Graefe,0,0.16583287092358182,0.2699846552095105
+2144148624,Deferred maintenance of indexes and of materialized views,2011,15,9,2,0.104358,2045202252,Harumi Kuno,0,0.7936708963564567,0.2360325614214361
+2153231238,Transactional support for adaptive indexing,2014,41,24,1,1.0,2284116839,Goetz Graefe,0,1.5656442805536568,2.1358252893197602
+2171438172,Optimization of dynamic query evaluation plans,1994,23,167,2,0.0,2290343576,Richard L. Cole,0,0.014532710543751099,0.030944858938630852
+2151181047,Concurrency control for adaptive indexing,2012,30,38,1,1.0,2284116839,Goetz Graefe,0,2.2270883553046015,3.0482320549035067
+2163864652,Adaptive indexing in modern database kernels,2012,21,10,3,0.0,2188856032,Stratos Idreos,0,1.6230029806710033,0.46539201115694717
+2158141386,The EXODUS optimizer generator,1987,32,252,1,1.0,2284116839,Goetz Graefe,0,-0.11998745400790396,0.2830119757003868
+2158237121,Query evaluation techniques for large databases,1993,419,1157,1,1.0,2284116839,Goetz Graefe,0,1.8611499867014882,0.3461791675131237
+2176873512,The EXODUS extensible DBMS project an overview,1989,56,122,4,0.0,1979791317,David J. DeWitt,0,1.0119071961820523,0.4437651911578874
+2161971058,A general and efficient algorithm for â€œtopâ€ queries,2008,8,0,1,1.0,2284116839,Goetz Graefe,0,-0.46893397788284524,0.07728939382804885
+2200275386,GAMMAâ€”a high performance dataflow database machine,1986,38,350,5,0.0,364421747,M. Muralikrishna,0,1.5231737855862195,0.25396168601854285
+2209945218,Efficient retry for transactional memory,2007,16,7,3,0.0,1967913477,Vinod Grover,0,1.3640839304512058,1.3537472202991383
+2210004108,Instant recovery for data center savings,2015,9,3,1,1.0,2284116839,Goetz Graefe,0,0.008476538444817142,0.32968084491416655
+2210559253,Characterizing Queries To Predict Execution In A Database,2008,5,14,2,0.104358,2045202252,Harumi Kuno,0,-0.0041099411153885,0.0447066884760059
+2243164226,Optimization of query processing with top operations,2009,8,7,1,1.0,2284116839,Goetz Graefe,0,-0.15920861304977532,0.009184461394527233
+2259407303,Transactional memory using buffered writes and enforced serialization order,2007,21,30,4,0.0,1967913477,Vinod Grover,0,2.1811436210167137,2.45657087123927
+2223333771,System and method for graceful degradation of a database query,2004,17,20,2,0.0,2122075870,Craig Steven Freedman,0,-0.30097939703163773,0.1537602460116829
+2273417578,DATABASE SYSTEM IMPLEMENTATION PRIORITIZATION USING ROBUSTNESS MAPS,2009,9,5,1,1.0,2284116839,Goetz Graefe,0,0.4170158691156383,0.0370747845240022
+2249321038,DATABASE JOIN OPTIMIZED FOR FLASH STORAGE,2009,6,35,2,0.0,2140057800,Mehul A. Shah,0,-0.3652008450463068,0.3160971441695779
+2298069920,Database segment searching,2009,15,10,1,1.0,2284116839,Goetz Graefe,0,-0.0041099411153885,0.0447066884760059
+2277052900,QUERY PROGRESS ESTIMATION BASED ON PROCESSED VALUE PACKETS,2009,25,6,2,0.104358,2045202252,Harumi Kuno,0,0.7207163926745485,-0.04502797577824676
+2327625429,Adaptive indexing for relational keys,2010,16,37,1,1.0,2284116839,Goetz Graefe,0,0.49933500317352103,0.34731817419790334
+2282129703,Controlled lock violation for data transactions,2012,68,13,2,0.0963829,2045202252,Harumi Kuno,0,2.5805685628544692,2.5417631636942093
+2310085004,Applying write elision,2013,31,2,2,0.0863155,2045202252,Harumi Kuno,0,-0.0041099411153885,0.0447066884760059
+2335835855,Recovering pages of a database,2013,13,8,2,0.0863155,2045202252,Harumi Kuno,0,0.38009049917121435,0.45246057348231067
+2336493585,Efficient assembly of complex objects,1990,26,71,2,0.0,2633831725,Thomas Keller,0,1.7954788679285227,0.3464623404681332
+2406680584,Facilitating stack read and write operations in a software transactional memory system,2006,47,6,2,0.714286,2031627435,Michael M. Magruder,0,1.271393949807177,1.748666567757323
+2406817766,DATABASE SYSTEM TESTING USING ROBUSTNESS MAPS,2009,17,8,2,0.104358,2045202252,Harumi Kuno,0,0.4170158691156383,0.0370747845240022
+2398632293,Making Transaction Execution the Bottleneck - (Instead of All the Overheads),2013,0,0,2,0.0863155,2045202252,Harumi Kuno,0,1.2639254684379722,1.1730582467438517
+2398820298,Efficient Locking Techniques for Databases on Modern Hardware,2012,23,19,2,0.0,2310691347,Hideaki Kimura,0,0.9408492071308692,0.912959594064505
+2397430977,BaSE (byte addressable storage engine) access method,2013,4,0,4,0.529412,2261730667,Krishnaprasad Shastry,0,0.06680486382851669,-0.013343236428626873
+2565729979,An empirical analysis of database recovery costs,2014,7,8,2,0.409948,2097695795,Caetano Sauer,0,-0.0041099411153885,0.0447066884760059
+2585223939,BaSE(Byte addressable Storage Engine) Transaction Manager,2016,4,0,6,0.0,2476290555,Sathyanarayanan Manamohan,0,1.5137427329280495,1.32948014087147
+2729417567,DATABASE TRANSACTION REPLAY,2014,16,0,1,1.0,2284116839,Goetz Graefe,0,1.0916595429331943,0.5130134474954207
+2604164630,Come and crash our database - Instant recovery in action,2017,5,0,3,0.612857,2097695795,Caetano Sauer,0,-0.0041099411153885,0.0447066884760059
+2741541360,PARTIALLY SORTED LOG ARCHIVE,2017,11,3,1,1.0,2284116839,Goetz Graefe,0,-0.0041099411153885,0.0447066884760059
+2757691233,The Five-minute Rule Thirty Years Later and its Impact on the Storage Hierarchy,2017,11,6,3,0.0,1827461646,Raja Appuswamy,0,-0.0041099411153885,0.0447066884760059
+2888971921,F1 query declarative querying at scale,2018,53,4,31,0.0,329386306,Bart Samwel,0,-0.20110620664418263,0.14684009203956735
+2896474038,FineLine log-structured transactional storage and recovery,2018,0,0,2,0.612857,2097695795,Caetano Sauer,0,-0.0041099411153885,0.0447066884760059
+2900790161,Instant restore after a media failure (extended version),2019,15,0,3,0.525787,2097695795,Caetano Sauer,0,0.38009049917121435,0.45246057348231067
+2949501583,Definition Detection and Recovery of Single-Page Failures a Fourth Class of Database Failures,2012,6,6,1,1.0,2284116839,Goetz Graefe,0,0.19103803292916358,0.2078743782358543
+2952397148,Instant restore after a media failure,2017,23,0,2,0.612857,2097695795,Caetano Sauer,0,0.38009049917121435,0.45246057348231067
+2959343884,Joins on high-bandwidth memory a new level in the memory hierarchy,2020,29,1,3,0.0,2741262106,Constantin Pohl,0,-0.0041099411153885,0.0447066884760059
+2950805198,The Five-Minute Rule Ten Years Later and Other Computer Storage Rules of Thumb,1998,0,0,2,0.0,2131537204,Jim Gray,0,-0.0041099411153885,0.0447066884760059
+3023647491,Modern B-Tree Techniques,2011,122,51,1,1.0,2284116839,Goetz Graefe,0,0.17864678064054784,0.27153556666443684

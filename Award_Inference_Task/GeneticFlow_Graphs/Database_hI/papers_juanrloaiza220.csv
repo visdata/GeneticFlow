@@ -1,0 +1,48 @@
+1513818121,Checkpointing in Oracle,1998,1,12,3,0.5,2711108061,Ashok Joshi,0,-0.24057339327412955,0.2916100192364876
+1550953906,Utilizing multiple storage devices to reduce write latency for database logging,2012,9,63,6,1.0,181759484,Kothanda Umamageswaran,0,-0.12148523988669345,0.1572088724734156
+1019185154,Automatic caching of scan and random access data in computing systems,2014,116,15,5,1.0,181759484,Kothanda Umamageswaran,0,1.656494703443853,0.4226289150318796
+1560560379,Database operation-aware striping technique,2010,7,18,4,0.0,2151268071,Kirk Bradley,0,-0.3652008450463068,0.3160971441695779
+1525036405,The Oracle Universal Server Buffer,1997,1,21,5,0.909091,2097582636,William Bridge,0,0.05640315281478835,-0.022715007301229845
+1034000868,Rapid recovery from loss of storage device cache,2012,38,11,7,1.0,181759484,Kothanda Umamageswaran,0,-0.0041099411153885,0.0447066884760059
+1500912026,Centralized storage and management of database parameters,2002,23,2,3,1.0,181759484,Kothanda Umamageswaran,0,-0.17244133864042968,-0.305030520451871
+1509841269,Oracle Database In-Memory A dual format in-memory database,2015,10,37,10,0.157915,2015326076,Tirthankar Lahiri,0,1.3451266151201602,0.586287710636794
+1564210954,Managing partitioned cache,1998,6,42,5,0.909091,2055169114,Gianfranco Putzolu,0,-0.0041099411153885,0.0447066884760059
+1511851711,Cost based analysis of direct I/O access,2006,21,14,8,0.0,1349031166,Sanjay Kaluskar,0,0.3368091261148171,-0.3400839430975051
+1928947374,System and method for providing highly available database performance,2011,68,4,3,0.2,2156323548,Namit Jain,0,1.2264140689549956,0.6627946476686839
+1954513312,Automatic database diagnostic monitor architecture,2004,50,39,6,0.0,2111272696,Venkateshwaran Venkataramani,0,1.6156351719955488,0.49252609352054116
+1908121265,Efficient locking of shared data that is accessed for reads in a cluster database,2006,113,27,2,0.0,2148029401,Sashikanth Chandrasekaran,0,-0.0041099411153885,0.0447066884760059
+1755897767,SYSTEM AND METHOD FOR PROVIDING FINE-GRAINED TEMPORAL DATABASE ACCESS,2001,18,120,3,0.149893,2170949439,Amit Ganesh,0,1.8241356903336627,1.8492508677687698
+1935526938,Pluggable resource scheduling policies,1998,8,45,3,0.0,2138758851,Sumanta K. Chatterjee,0,-0.0041099411153885,0.0447066884760059
+1597212932,Method for obtaining information regarding the current activity of a database management system from a viritual table in a memory of the database management system,1996,6,31,1,1.0,2617950832,Juan R. Loaiza,0,2.668740474464088,0.6324473535996994
+1677529510,Method and mechanism for efficient implementation of ordered records,2003,40,40,8,1.0,2051829458,Alok Pareek,0,2.285391042638651,1.199140333449011
+1758305394,System and method for pre-compiling a source cursor into a target library cache,2005,57,11,3,0.2,2156323548,Namit Jain,0,0.826716182422988,0.6449142648773089
+1597920383,Caching data between a database server and a storage system,2009,121,29,13,1.0,181759484,Kothanda Umamageswaran,0,-0.0041099411153885,0.0447066884760059
+1819414190,Method and apparatus for restoring a portion of a database,1997,8,62,5,0.0,2016023695,Gregory Pongracz,0,0.9529532348739472,0.6491238617385644
+1942150915,Method and apparatus for implementing segmented arrays in a database,1996,15,15,4,0.0,2055169114,Gianfranco Putzolu,0,-0.0041099411153885,0.0447066884760059
+1615295282,System for allocating resource using the weight that represents a limitation on number of allowance active sessions associated with each resource consumer group,2001,53,24,3,0.0,2145521270,Ann Rhee,0,-0.0041099411153885,0.0447066884760059
+1593699812,Capturing session activity as in-memory snapshots using a time-based sampling technique within a database for performance tuning and problem diagnosis,2004,31,31,4,0.0,2111272696,Venkateshwaran Venkataramani,0,-0.26111576430640643,-0.19302535071852145
+1899919937,Integrating tablespaces with different block sizes,2002,38,120,6,0.512486,2015326076,Tirthankar Lahiri,0,2.2437597871870736,0.30952485144024344
+2098693674,Cross-platform transportable database,2004,71,18,12,0.714286,2051829458,Alok Pareek,0,1.5144280234045282,0.44604423565443774
+2129311173,Storage-side storage request management,2009,95,54,8,0.6,1522904728,Margaret Susairaj,0,0.1597175407275976,-0.3215253974336437
+2141969764,Method and mechanism for relational access of recovery logs in a database system,2003,75,109,5,0.0,2030200641,Michael J. Cusson,0,2.2256429735326027,0.6534295360665603
+2139783895,Pluggable tablespaces for database systems,1997,8,169,6,0.909091,2055169114,Gianfranco Putzolu,0,0.27917336932206915,-0.6378132795388574
+2227955904,Methods for automatic group switching according to a resource plan,2001,72,14,3,0.0,2145521270,Ann Rhee,0,-0.0041099411153885,0.0447066884760059
+2247192278,Pluggable tablespaces on a transportable medium,1997,2,38,6,0.909091,2055169114,Gianfranco Putzolu,0,0.27917336932206915,-0.6378132795388574
+2253671903,Selectively reading data from cache and primary storage,2010,84,37,13,1.0,181759484,Kothanda Umamageswaran,0,-0.17244133864042968,-0.305030520451871
+2221306411,Tablespace-relative database pointers,1997,4,28,6,0.909091,2055169114,Gianfranco Putzolu,0,0.7271472922889985,-0.8202744189142434
+2202420420,Maintaining global state of distributed transaction managed by an external transaction manager for clustered database systems,2007,62,29,5,0.0,2161182939,Bipul Sinha,0,2.596729380504355,2.579784881557769
+2203248731,Techniques for improved read-write concurrency,2006,8,18,5,0.512486,2015326076,Tirthankar Lahiri,0,-0.0041099411153885,0.0447066884760059
+2264407706,Engineering database hardware and software together,2015,0,0,1,1.0,2617950832,Juan R. Loaiza,0,1.1899618510506489,0.9030385923617604
+2224234817,Fault-tolerant timestamp generation for multi-node parallel databases,1997,27,52,4,0.909091,2097582636,William Bridge,0,0.253202750105207,0.12815134630264885
+2255491979,Distributed architecture of Oracle database in-memory,2015,15,12,11,0.0,2114328943,Niloy Mukherjee,0,1.1325287934344797,0.6129060583892472
+2207347594,Method and apparatus for dynamically disabling and enabling table locking for a database,1996,13,19,1,1.0,2617950832,Juan R. Loaiza,0,1.204501787921431,0.29860165833699415
+2265462639,Using transportable tablespaces for hosting data of multiple users,2000,8,19,7,0.857143,2055169114,Gianfranco Putzolu,0,-0.0041099411153885,0.0447066884760059
+2280458186,Automated disk-oriented backups,2004,12,91,3,0.0,237182236,Muthu Olagappan,0,-0.5756256466627317,2.000705695515145
+2277619593,Determining a mapping of an object to storage layer components,2003,14,6,3,0.0,2234801693,Waleed Ojeil,0,-0.2636450439400235,-0.06780228621386357
+2309026600,Prioritizing repopulation of in-memory compression units,2015,5,7,9,0.157915,2015326076,Tirthankar Lahiri,0,0.13852143055043767,-0.2638676181293257
+2309238415,Method to accelerate queries using dynamically generated alternate data formats in flash cache,2014,54,16,7,0.0,1183682828,Roger MacNicol,0,-0.0041099411153885,0.0447066884760059
+2413787828,Memory-aware joins based in a database cluster,2015,91,25,5,0.0,165114485,Mohamed Zait,0,0.3426436269229498,-0.25049116594436294
+2435096764,Fault-tolerant real-time analytics with distributed Oracle Database In-memory,2016,9,1,9,0.0,2114328943,Niloy Mukherjee,0,0.5076843797326446,0.9012673088195872
+2518719283,Method and system for reducing write latency for database logging utilizing multiple storage devices,2012,6,2,6,1.0,181759484,Kothanda Umamageswaran,0,-0.12148523988669345,0.1572088724734156
+2596913048,System und verfahren fÃ¼r den feinkÃ¶rnigen zeitlichen zugriff auf eine datenbank System and method for fine-grained access time to a database,2001,0,0,3,0.149893,2170949439,Amit Ganesh,0,-0.0041099411153885,0.0447066884760059
+2881198160,Method for restoring storage database to the original state,2008,0,4,3,1.0,2097582636,William Bridge,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,74 @@
+177097556,Public Key Cryptography - PKC 2011,2011,0,116,2,0.0,2019133828,Nelly Fazio,0,-0.23600969876449543,-2.8610227671291284
+96292249,Applied Cryptography and Network Security,2008,0,0,4,0.0,299775663,Angelos D. Keromytis,0,-0.20264906550746375,-2.3112383661667986
+1550569922,Non-Interactive Hierarchical Identity-Based Key-Agreement,2008,12,16,3,0.0,1686185850,Shai Halevi,0,1.120750672373645,-0.5684112084175822
+1481319026,Undeniable certificates for digital signature verification,1997,9,99,2,0.0,2025616804,Hugo Krawczyk,0,-0.32156762050600085,-2.1476791342478676
+1552242122,Okamoto-Tanaka revisited fully authenticated diffie-hellman with minimal overhead,2010,37,35,1,1.0,2108521744,Rosario Gennaro,0,-1.4251902798605163,-2.567550089121517
+1543747668,Making the diffie-hellman protocol identity-based,2010,34,35,2,1.0,2098430168,Dario Fiore,0,-1.5561252057026689,-3.164924634764853
+1491272539,Constructing certificateless encryption and ID-based encryption from ID-based key agreement,2010,23,12,2,1.0,2098430168,Dario Fiore,0,-0.2540943843551092,-2.0822477959130463
+1517419031,Theory and practice of verifiable secret sharing,1996,0,30,1,1.0,2108521744,Rosario Gennaro,0,0.8711492488849867,-0.14198415739535475
+1563226694,RSA-Based Undeniable Signatures,1997,23,98,1,1.0,2108521744,Rosario Gennaro,0,0.334986667074639,-0.9833517234702525
+1572695506,Securing threshold cryptosystems against chosen ciphertext attack,1998,28,176,2,0.0,2294259183,Victor Shoup,0,0.6519452624810538,-2.0752215662406095
+1518949160,Secure applications of Pedersens distributed key generation protocol,2003,58,31,1,1.0,2108521744,Rosario Gennaro,0,0.09596086992598328,-1.5454274601122402
+1530270125,Verifiable secret sharing as secure computation,1995,10,34,1,1.0,2108521744,Rosario Gennaro,0,1.8526659936036252,-0.3769821243960345
+1486852732,Provably secure threshold password-authenticated key exchange,2003,26,59,2,0.95,2120875096,Mario Di Raimondo,0,-2.1517362206192585,-1.6743170139633432
+1513067149,Identity-based key exchange protocols without pairings,2010,58,7,2,1.0,2098430168,Dario Fiore,0,-1.4486946131909948,-3.2054197295921885
+1801138528,New Efficient and Secure Protocols for Verifiable Signature Sharing and Other Applications,1998,25,0,2,1.0,2289125662,Dario Catalano,0,-0.09086657770146096,-1.339154453850233
+1843079507,Method and apparatus for interoperable validation of key recovery information in a cryptographic system,1997,13,88,4,0.0,2004679713,Stephen M. Matyas,0,0.02601083879189814,-1.5876814476284165
+1597314204,Fully non-interactive onion routing with forward-secrecy,2011,31,6,4,0.375193,2289125662,Dario Catalano,0,0.07956265492931984,-0.6605124521997889
+1826814050,Secure electronic stocks and other titles and instruments,2000,12,1,2,0.0,2085908841,Charles Tresser,0,-0.7321263709962786,-0.5584563304160991
+1601946101,Strongly-Resilient and Non-interactive Hierarchical Key-Agreement in MANETs,2008,17,49,1,1.0,2108521744,Rosario Gennaro,0,-0.29230110803139064,-1.4943949072576637
+1831174262,Incoercible multiparty computation,1996,14,79,2,0.3,687553606,Ran Canetti,0,0.7263392520733455,-0.1280265373303642
+1584915320,Multi-trapdoor Commitments and Their Applications to Proofs of Knowledge Secure Under Concurrent Man-in-the-Middle Attacks,2004,40,80,1,1.0,2108521744,Rosario Gennaro,0,-0.29828878321468366,-1.5737505305871262
+1833123875,Method and apparatus for verifiably providing key recovery information in a cryptographic system,1997,8,130,5,0.0,202483415,Mohammad Peyravian,0,0.11306691470983583,-1.0171355442921954
+1983765476,New Approaches for Deniable Authentication,2009,43,36,2,1.0,2120875096,Mario Di Raimondo,0,-0.2968446543441731,-1.2547770158944844
+1980516015,Publicly verifiable delegation of large polynomials and matrix computations with applications,2012,25,159,2,0.931818,2098430168,Dario Fiore,0,-0.293486955635006,-0.3972521367979378
+1985310180,New Efficient and Secure Protocols for Verifiable Signature Sharing and Other Applications,2000,39,4,2,1.0,2289125662,Dario Catalano,0,-0.859687639533761,-3.029402310428267
+1991621171,Provably secure threshold password-authenticated key exchange,2006,25,20,2,1.0,2120875096,Mario Di Raimondo,0,-2.1517362206192585,-1.6743170139633432
+2020749853,Combating Insider Attacks in IEEE 80211 Wireless Networks with Broadcast Encryption,2014,27,1,5,0.0,168445923,Joseph Soryal,0,-0.1982154068438867,-1.7250003845444406
+2022995669,Special feature Two-phase cryptographic key recovery system,1997,24,230,5,0.0,202483415,Mohammad Peyravian,0,-0.4863940615467124,-2.6763352544281895
+2020071233,Deniable authentication and key exchange,2006,44,81,2,1.0,2120875096,Mario Di Raimondo,0,-0.42704865510210593,-1.6948667342467758
+2043529420,Secure off-the-record messaging,2005,26,41,2,1.0,2120875096,Mario Di Raimondo,0,0.1472464937348547,-1.4634347925798523
+2040341860,Relations between the security models for certificateless encryption and ID-based key agreement,2012,22,6,2,0.931818,2098430168,Dario Fiore,0,-0.046628090676084005,-1.0756889773396963
+2042226948,Pailliers cryptosystem revisited,2001,28,109,2,1.0,2289125662,Dario Catalano,0,0.8860768994641448,-1.871770591517693
+2054701830,RSA-Based Undeniable Signatures,2007,27,75,1,1.0,2108521744,Rosario Gennaro,0,0.26824413041153183,-1.5913816720000464
+2066460425,Randomness in cryptography,2006,4,14,1,1.0,2108521744,Rosario Gennaro,0,-0.16561368972205526,-0.29888279509576654
+2065733153,Secure distributed storage and retrieval,2000,29,100,2,0.0,2955442132,Juan A. Garay,0,0.5815978657807245,-0.7427879367088847
+2089573388,How to Sign Digital Streams,2001,25,214,1,1.0,2108521744,Rosario Gennaro,0,-0.48923516707070347,-0.39491722156685627
+2097651164,Algorithmic Tamper-Proof (ATP) Security Theoretical Foundations for Security Against Hardware Tampering,2004,31,163,1,1.0,2108521744,Rosario Gennaro,0,-0.5834101177579358,-0.968670937150463
+2101687784,Efficiently Verifiable Computation on Encrypted Data,2014,58,83,2,0.7,2098430168,Dario Fiore,0,-0.026516446846454916,-0.49566917476497685
+2105090406,Electronic cash controlled by non-homomorphic signatures,2000,30,14,2,0.0,2085908841,Charles Tresser,0,-0.4275955243548541,-1.4701625864455767
+2120785248,More on Key Wrapping,2009,24,8,1,1.0,2108521744,Rosario Gennaro,0,0.5050394040082241,-2.137143134176014
+2138784757,A secure and optimally efficient multi-authority election scheme,1997,51,664,2,0.0,2156861640,Ronald Cramer,0,0.02880751958980891,-1.7891875042073875
+2109360255,Certificateless onion routing,2009,33,25,3,0.435484,2289125662,Dario Catalano,0,0.326996887187718,-1.8108356466940432
+2124399488,Fully non-interactive onion routing with forward secrecy,2013,28,1,4,0.353887,2289125662,Dario Catalano,0,0.28272747594575215,-1.219532449177835
+2113029047,Biometric authentication system with encrypted models,1999,9,173,2,0.0,1686185850,Shai Halevi,0,-0.3575088421623343,-0.38279754871433447
+2110804296,A framework for password-based authenticated key exchange 1,2006,34,71,2,0.0,30238620,Yehuda Lindell,0,-2.0482649724014474,-2.184169604752
+2113929724,Secure distributed key generation for discrete-log based cryptosystems,1999,18,310,1,1.0,2108521744,Rosario Gennaro,0,0.024858736274085205,-1.8893461319180977
+2166706457,New approaches for deniable authentication,2005,48,47,2,1.0,2120875096,Mario Di Raimondo,0,-0.49242135714647794,-1.2006757926155067
+2298266023,Provably Secure Threshold Password-Authenticated Key Exchange Extended Abstract,2003,24,2,1,1.0,2108521744,Rosario Gennaro,0,-2.1517362206192585,-1.6743170139633432
+2398969741,Improved Publicly Verifiable Delegation of Large Polynomials and Matrix Computations,2012,0,4,2,0.931818,2098430168,Dario Fiore,0,0.29392382053358135,0.10045542812224656
+2400376265,Multi-Trapdoor Commitments and their Applications to Non-Malleable Protocols,2003,0,9,1,1.0,2108521744,Rosario Gennaro,0,0.0040557659796233,0.2757546058061082
+2428225571,A certificateless approach to onion routing,2017,33,4,3,0.326583,2289125662,Dario Catalano,0,0.326996887187718,-1.8108356466940432
+2468121714,Threshold-Optimal DSA/ECDSA Signatures and an Application to Bitcoin Wallet Security,2016,31,53,1,1.0,2108521744,Rosario Gennaro,0,0.16795793754400265,-2.394894246233123
+2613149404,Multi-trapdoor commitments and their applications to proofs of knowledge secure under concurrent man-in-the-middle attacks,2004,0,4,1,1.0,2108521744,Rosario Gennaro,0,-0.30318042480392043,-1.498794473060696
+2610545452,Provably secure threshold password-authenticated key exchange,2003,0,0,2,0.95,2120875096,Mario Di Raimondo,0,-2.1517362206192585,-1.6743170139633432
+2612087312,RSA-based undeniable signatures,1997,0,31,1,1.0,2108521744,Rosario Gennaro,0,0.19964378051406625,-1.3235510052051787
+2612466437,Adaptive security for threshold cryptosystems,1999,0,30,2,0.3,687553606,Ran Canetti,0,0.15101004970200183,-1.7263409401456105
+2612690875,New efficient and secure protocols for verifiable signature sharing and other applications,1998,0,21,2,1.0,2289125662,Dario Catalano,0,0.020789949868579294,-1.8129404110844654
+2765986519,Zero-Knowledge Contingent Payments Revisited Attacks and Payments for Services,2017,37,25,2,0.0,2488388946,Matteo Campanelli,0,0.6121618094554072,-0.1931082796406722
+2738898252,Verifiable Outsourced Computation A Survey,2017,0,1,1,1.0,2108521744,Rosario Gennaro,0,1.2088055368248611,-0.5145993259296854
+2779487288,Escrow Protocols for Cryptocurrencies How to Buy Physical Goods Using Bitcoin,2017,26,19,3,0.0,2397764847,Steven Goldfeder,0,-0.4079266977255857,0.5568463703912175
+2890168350,Lattice-Based zk-SNARKs from Square Span Programs,2018,49,4,1,1.0,2108521744,Rosario Gennaro,0,-0.08119822563974757,-0.05725829469468244
+2890219821,Fast Multiparty Threshold ECDSA with Fast Trustless Setup,2018,31,13,1,1.0,2108521744,Rosario Gennaro,0,-0.12523069350829932,-2.1966262039519613
+2898931715,Session details Session 5C Blockchain 2,2018,0,0,1,1.0,2108521744,Rosario Gennaro,0,0.03857885209080565,0.668590409100547
+2913356044,Proceedings of the 14th international conference on Practice and theory in public key cryptography conference on Public key cryptography,2011,0,0,2,0.0,2019133828,Nelly Fazio,0,0.03910652856792115,-0.9542749174440527
+2899353111,Session details Session 4C Blockchain 1,2018,0,0,1,1.0,2108521744,Rosario Gennaro,0,0.03857885209080565,0.668590409100547
+2911750095,Proceedings of the Third international conference on Applied Cryptography and Network Security,2005,0,0,3,0.0,687694072,Steven M. Bellovin,0,0.42736916530366337,0.19784724694239997
+2951470533,Threshold-optimal DSA/ECDSA signatures and an application to Bitcoin wallet security,2016,0,1,1,1.0,2108521744,Rosario Gennaro,0,0.5965792211933824,-2.1325976502644233
+2952392207,Deniable Authentication and Key Exchange,2006,0,1,2,1.0,2120875096,Mario Di Raimondo,0,-1.0889931090736982,-1.5676703214492147
+2950682193,Faster and Shorter Password-Authenticated Key Exchange,2007,0,2,1,1.0,2108521744,Rosario Gennaro,0,-0.7551224147811132,-1.3649166616286006
+2950889105,A Framework for Password-Based Authenticated Key Exchange,2003,0,1,1,1.0,2108521744,Rosario Gennaro,0,-0.7551224147811132,-1.3649166616286006
+2951079328,New Approaches for Deniable Authentication,2005,0,0,2,1.0,2120875096,Mario Di Raimondo,0,-1.3895189685814482,-0.820931798551313
+2953334014,Non-Interactive Verifiable Computing Outsourcing Computation to Untrusted Workers,2009,0,1,1,1.0,2108521744,Rosario Gennaro,0,1.6323564800848287,-0.7413061037284973
+3022237949,Verifiable Secret Sharing as Secure Computation,1994,0,0,1,1.0,2108521744,Rosario Gennaro,0,0.8711492488849867,-0.14198415739535475
+1546996295,Adaptive Security for Threshold Cryptosystems,1999,30,97,2,0.3,687553606,Ran Canetti,0,0.15101004970200183,-1.7263409401456105

@@ -1,0 +1,54 @@
+192301384,Information-Theoretic Metrics for Project-Level Scattering and Tangling,2010,0,0,4,1.0,1272400704,Erik Linstead,0,0.003708468606338,0.082832279151172
+1495202211,Bridging the Gap Between Neural Network and Kernel Methods Applications to Drug Discovery,2011,10,3,1,1.0,2060797211,Pierre Baldi,0,0.003708468606338,0.082832279151172
+1970642647,ReactionMap an efficient atom-mapping algorithm for chemical reactions,2013,14,11,3,0.0,2772305598,David Fooshee,0,0.003708468606338,0.082832279151172
+1985168592,SELECTpro effective protein model selection using a structure-based energy function resistant to BLUNDERs,2008,48,21,1,1.0,2060797211,Pierre Baldi,0,0.003708468606338,0.082832279151172
+2004106830,Tree and Hashing Data Structures to Speed up Chemical Searches Analysis and Experiments,2011,18,4,1,1.0,2060797211,Pierre Baldi,0,0.22046278482571166,0.4149466153583954
+2010700988,Influence relevance voting an accurate and interpretable virtual high throughput screening method,2009,49,30,6,1.0,2433277931,S. Joshua Swamidass,0,1.015006562403904,0.5681043076557386
+2022163189,Deep autoencoder neural networks for gene ontology annotation predictions,2014,24,68,3,0.0,2397237946,Davide Chicco,0,0.003708468606338,0.082832279151172
+2040010296,No electron left behind a rule-based expert system to predict chemical reactions and reaction mechanisms,2009,24,40,2,1.0,2300145783,Jonathan H. Chen,0,0.2971903567100938,0.35821197362983176
+2065014987,Mathematical correction for fingerprint similarity measures to improve chemical retrieval,2007,15,54,2,1.0,2433277931,S. Joshua Swamidass,0,-0.3473793728160243,0.24861357896709396
+2077776641,Mining concepts from code with probabilistic topic models,2007,10,76,5,1.0,1272400704,Erik Linstead,0,-0.17536238923574604,0.4144853997593385
+2095654971,A scalable reference-point based algorithm to efficiently search large chemical databases,2010,7,0,3,0.0,2703720492,Francesco Napolitano,0,-0.3473793728160243,0.24861357896709396
+2087134511,Speeding up chemical searches using the inverted index the convergence of chemoinformatics and text search methods,2012,28,17,4,0.666667,2082525242,Ramzi Nasr,0,-0.007961300997972742,0.33596075329275743
+2105099387,A machine learning information retrieval approach to protein fold recognition,2006,83,176,2,0.782609,2141057972,Jianlin Cheng,0,0.003708468606338,0.082832279151172
+2129075135,A CROC stronger than ROC,2010,17,63,2,0.0,1972503902,Kenny Daily,0,0.003708468606338,0.082832279151172
+2114604135,Accurate Prediction of Protein Disordered Regions by Mining Protein Structure Data,2005,17,169,3,0.782609,2141057972,Jianlin Cheng,0,0.003708468606338,0.082832279151172
+2114628337,Capturing Java naming conventions with first-order Markov models,2009,6,1,4,1.0,1272400704,Erik Linstead,0,-0.2241353784163045,0.16057949266828594
+2117524891,Largeâ€scale prediction of disulphide bridges using kernel methods twoâ€dimensional recursive neural networks and weighted graph matching,2005,52,110,2,0.0,1180009366,Hiroto Saigo,0,0.003708468606338,0.082832279151172
+2115052242,SourcererDB An aggregated repository of statically analyzed and cross-linked open source Java projects,2009,9,46,4,0.0,780102984,Joel Ossher,0,-0.4510729884163594,0.24846660988711605
+2106116715,Prediction of coordination number and relative solvent accessibility in proteins,2002,40,220,3,1.0,29782173,Gianluca Pollastri,0,0.003708468606338,0.082832279151172
+2129834345,DOMpro Protein Domain Prediction Using Profiles Secondary Structure Relative Solvent Accessibility and Recursive Neural Networks,2006,35,91,3,0.782609,2141057972,Jianlin Cheng,0,0.003708468606338,0.082832279151172
+2121226849,Cyber-T web server differential analysis of high-throughput data,2012,30,109,2,1.0,1895792819,Matthew A. Kayala,0,0.21438872843298346,-0.1353423822296997
+2139176775,BLASTing small moleculesâ€”statistics and extreme statistics of chemical similarity scores,2008,25,9,1,1.0,2060797211,Pierre Baldi,0,0.003708468606338,0.082832279151172
+2121519777,Prediction of protein stability changes for single-site mutations using support vector machines,2005,56,434,1,1.0,2060797211,Pierre Baldi,0,0.003708468606338,0.082832279151172
+2115904656,A Machine Learning Approach to Predict Chemical Reactions,2011,24,8,2,1.0,1895792819,Matthew A. Kayala,0,0.2065100717332588,0.38359347804226923
+2133458779,SOLpro accurate sequence-based prediction of protein solubility,2009,40,141,3,1.0,2943366227,Christophe N. Magnan,0,-0.06868386095689515,0.24205629126618533
+2110067623,Combining Protein Secondary Structure Prediction Models with Ensemble Methods of Optimal Complexity,2004,72,28,6,0.0,19794928,Yann Guermeur,0,-0.22179705402134794,-0.14364490433970478
+2127898555,Mining the coherence of GNOME bug reports with statistical topic models,2009,7,34,2,1.0,1272400704,Erik Linstead,0,-0.753104331542272,-0.024570913808007133
+2107432340,Assessing the accuracy of prediction algorithms for classification an overview,2000,20,1439,1,1.0,2060797211,Pierre Baldi,0,-0.1903446618531494,0.35206059539303214
+2110553099,Data structures and compression algorithms for genomic sequence data,2009,38,96,3,0.0,2164530837,Marty C. Brandon,0,0.003708468606338,0.082832279151172
+2137262074,Kernels for small molecules and the prediction of mutagenicity toxicity and anti-cancer activity,2005,39,153,6,1.0,2433277931,S. Joshua Swamidass,0,0.003708468606338,0.082832279151172
+2134299061,Exploiting the past and the future in protein secondary structure prediction,1999,30,383,1,1.0,2060797211,Pierre Baldi,0,0.003708468606338,0.082832279151172
+2125621954,Searching for exotic particles in high-energy physics with deep learning,2014,24,423,1,1.0,2060797211,Pierre Baldi,0,0.003708468606338,0.082832279151172
+2122653046,Web Structure Mining Analyse de Liens,2008,1,0,1,1.0,2060797211,Pierre Baldi,0,-0.3185048486972375,-0.5847826584379378
+2131474431,SSpro/ACCpro 5 almost perfect prediction of protein secondary structure and relative solvent accessibility using profiles machine learning and structural similarity,2014,14,166,2,1.0,2943366227,Christophe N. Magnan,0,0.003708468606338,0.082832279151172
+2108101947,Deep architectures for protein contact map prediction,2012,33,191,3,0.0,2128665976,Pietro Di Lena,0,-0.06868386095689515,0.24205629126618533
+2137818934,Modeling user reputation in wikis,2010,46,46,3,0.0,2027397304,Sara Javanmardi,0,0.25097538736370695,-0.6934450007352874
+2171273399,A machine learning strategy for protein analysis,2002,18,27,2,1.0,29782173,Gianluca Pollastri,0,0.003708468606338,0.082832279151172
+2168807719,From protein microarrays to diagnostic antigen discovery,2007,46,76,3,0.0,284800502,Philip L. Felgner,0,-0.19325329695232027,0.5375516399986746
+2173158844,Mining Eclipse Developer Contributions via Author-Topic Models,2007,5,51,5,1.0,1272400704,Erik Linstead,0,0.0842202378284963,0.4626260180850143
+2166845081,Large scale study of multiple-molecule queries,2009,29,19,3,0.666667,2082525242,Ramzi Nasr,0,0.06635086646790654,-0.05438071547954846
+2167187529,ChemDB updateâ€”full-text search and virtual chemical space,2007,12,73,2,1.0,1272400704,Erik Linstead,0,0.003708468606338,0.082832279151172
+2158899863,PEPITO improved discontinuous B-cell epitope prediction using multiple distance thresholds and half sphere exposure,2008,17,137,2,1.0,316194564,Michael J. Sweredoski,0,0.003708468606338,0.082832279151172
+2164961799,Sourcerer mining and searching internet-scale software repositories,2009,64,135,6,1.0,1272400704,Erik Linstead,0,0.0888533438115457,0.3873076627722567
+2150198686,MotifMap a human genome-wide map of candidate regulatory motif sites,2009,28,83,3,0.0,2107390275,Xiaohui Xie,0,0.003708468606338,0.082832279151172
+2232446838,Algorithms data structures and statistical analyses for improving chemical database searches,2011,0,0,1,1.0,2060797211,Pierre Baldi,0,0.003708468606338,0.082832279151172
+2274895615,Secure Informatics Infrastructure for Genomic-Enabled Medicine Social and Other Applications,2013,0,11,1,1.0,2060797211,Pierre Baldi,0,0.003708468606338,0.082832279151172
+2199485679,Accurate and efficient target prediction using a potency-sensitive influence-relevance voter,2015,55,15,5,0.0,2089666609,Alessandro Lusci,0,0.003708468606338,0.082832279151172
+2309012913,VIRALpro a tool to identify viral capsid and tail sequences,2016,12,7,4,0.0,1141017984,Clovis Galiez,0,0.003708468606338,0.082832279151172
+2328001321,Statistical machine learning and data mining for chemoinformatics and drug discovery,2010,0,2,2,1.0,2055376411,ChloÃ© Agathe Azencott,0,0.3918186497711537,0.48259319520994753
+2436099095,What time is it Deep learning approaches for circadian rhythms,2016,73,27,5,0.0,2708363928,Forest Agostinelli,0,0.003708468606338,0.082832279151172
+2424140203,ISMB 2016 Proceedings,2016,0,13,1,1.0,2060797211,Pierre Baldi,0,0.003708468606338,0.082832279151172
+2544899437,Probabilistic Graphical Models in Bioinformatics,2001,0,0,2,0.0,620960263,SÃ¸ren Brunak,0,0.003708468606338,0.082832279151172
+2507097109,Statistical analysis of array data Inferring changes,2002,0,0,1,1.0,2060797211,Pierre Baldi,0,0.003708468606338,0.082832279151172
+2737373109,The inner and outer approaches to the design of recursive neural architectures,2018,21,4,1,1.0,2060797211,Pierre Baldi,0,-0.2549982742955442,0.2215840602359772

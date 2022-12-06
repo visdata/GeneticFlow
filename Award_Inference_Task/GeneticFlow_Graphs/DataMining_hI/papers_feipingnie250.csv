@@ -1,0 +1,91 @@
+19235576,Unsupervised feature selection via unified trace ratio formulation and K -means clustering (TRACK),2014,28,56,3,0.227589,2137533801,Heng Huang,0,-0.4546575968345164,0.946796186441246
+37083855,Early active learning via robust representation and structured sparsity,2013,19,32,1,1.0,2245267964,Feiping Nie,0,0.003708468606338,0.082832279151172
+108615132,Convex Sparse PCA for Unsupervised Feature Learning,2016,50,56,2,0.5625,2145609423,Xiaojun Chang,0,-0.15853690674330984,-0.05997366323733144
+213042921,A closed form solution to multi-view low-rank regression,2015,19,35,4,1.0,2333063442,Shuai Zheng,0,0.003708468606338,0.082832279151172
+200673309,Multi-subspace representation and discovery,2011,17,40,2,0.0,2166799549,Dijun Luo,0,-0.39698385696216437,0.8185694423250698
+1575192016,Feature Selection via Global Redundancy Minimization,2015,37,56,2,1.0,2147695980,De Wang,0,-0.25023896793326905,0.13037718530513653
+1839676477,Balanced k-Means and Min-Cut Clustering,2014,27,7,2,0.5625,2145609423,Xiaojun Chang,0,-0.9211991615469002,3.298294457080068
+1805715811,Unsupervised feature analysis with class margin optimization,2015,33,9,2,0.0,2190973644,Sen Wang,0,-0.31429003493656954,0.46309890269130877
+1968178977,Web Image Annotation Via Subspace-Sparsity Collaborated Feature Selection,2012,32,130,2,0.0,2101061250,Zhigang Ma,0,-0.25023896793326905,0.13037718530513653
+1979089718,Clustering and projected clustering with adaptive neighbors,2014,23,241,1,1.0,2245267964,Feiping Nie,0,-0.9022445156591409,3.3006878899551646
+1972300965,Social trust prediction using heterogeneous networks,2013,44,18,2,0.857143,2142211628,Jin Huang,0,0.003708468606338,0.082832279151172
+1969257438,A generative probability model of joint label fusion for multi-atlas based brain segmentation,2014,41,86,4,0.0,2106769687,Guorong Wu,0,0.003708468606338,0.082832279151172
+1978054115,Learning a subspace for clustering via pattern shrinking,2013,30,9,2,1.0,2169743412,Chenping Hou,0,-0.8813672216052988,3.1373091440589342
+1972908405,Discriminative Embedded Clustering A Framework for Grouping High-Dimensional Data,2015,44,47,2,1.0,2169743412,Chenping Hou,0,-0.837769150181296,2.9973255682351305
+1988772631,Trust prediction via aggregating heterogeneous social networks,2012,17,25,2,0.857143,2142211628,Jin Huang,0,0.003708468606338,0.082832279151172
+2030055826,Nonnegative Matrix Tri-factorization Based High-Order Co-clustering and Its Fast Implementation,2011,23,25,2,0.13886,2306205450,Hua Wang,0,-0.6469437515681873,1.5053628791595561
+2023221658,Multi-Class L21-Norm Support Vector Machine,2011,30,43,3,0.0,2119616764,Chris Ding,0,-0.25023896793326905,0.13037718530513653
+2029046342,Efficient multi-class unlabeled constrained semi-supervised SVM,2009,8,6,2,0.0,2090068654,Mingjie Qian,0,0.003708468606338,0.082832279151172
+2044544672,Large-scale adaptive semi-supervised learning via unified inductive and transductive model,2014,17,11,2,1.0,2147695980,De Wang,0,0.04034607130059849,1.626883329848151
+2069222105,Optimal graph learning with partial tags and multiple features for image and video annotation,2015,35,57,3,1.0,2166790520,Lianli Gao,0,0.003708468606338,0.082832279151172
+2071018795,Cross-language web page classification via dual knowledge transfer using nonnegative matrix tri-factorization,2011,24,47,3,0.13886,2306205450,Hua Wang,0,0.6449681641771371,-1.7150998931364618
+2081028792,Efficient semi-supervised feature selection with noise insensitive trace ratio criterion,2013,25,50,2,1.0,2433016722,Yun Liu,0,-0.10019604941278179,-0.48764973456651584
+2128981757,Maximum Margin Multi-Instance Learning,2011,23,23,4,0.13886,2306205450,Hua Wang,0,0.003708468606338,0.082832279151172
+2105709960,Multi-View Clustering and Feature Learning via Structured Sparsity,2013,29,178,2,0.12165,2306205450,Hua Wang,0,-0.004538237359067869,0.2859525243347512
+2135496738,Semisupervised Dimensionality Reduction and Classification Through Virtual Label Regression,2011,39,80,1,1.0,2245267964,Feiping Nie,0,-0.06964795291767574,0.3987266249484836
+2115115103,Ranking with local regression and global alignment for cross media retrieval,2009,29,165,3,0.0,2430169722,Yi Yang,0,0.003708468606338,0.082832279151172
+2112229395,Web and Personal Image Annotation by Mining Label Correlation With Relaxed Visual Graph Embedding,2012,46,102,3,0.571429,2430169722,Yi Yang,0,0.1579559588619796,0.563349572073047
+2124421254,Probabilistic Labeled Semi-supervised SVM,2009,13,5,2,0.0,2090068654,Mingjie Qian,0,-0.2612522489372115,0.5552630547583604
+2165260680,Identifying disease sensitive and quantitative trait-relevant biomarkers from multidimensional heterogeneous imaging genetics data via sparse multimodal multitask learning,2012,44,94,2,0.13886,2306205450,Hua Wang,0,0.003708468606338,0.082832279151172
+2171837816,Efficient and Robust Feature Selection via Joint â„“21-Norms Minimization,2010,27,1000,3,0.0,2119616764,Chris Ding,0,-0.025136315868969732,-0.030920891000099444
+2154865814,Identifying quantitative trait loci via group-sparse multitask regression and feature selection,2012,28,96,6,0.0,290126976,Shannon L. Risacher,0,-0.25023896793326905,0.13037718530513653
+2152478904,Consensus spectral clustering in near-linear time,2011,30,17,4,0.0,2166799549,Dijun Luo,0,-0.7133507535694709,2.564886846576286
+2176433868,Multi-view K-means clustering on big data,2013,23,229,2,0.75,2671977003,Xiao Cai,0,-0.9099286746023724,3.3014183627904985
+2244035566,A convex formulation for semi-supervised multi-label feature selection,2014,38,132,2,0.5625,2145609423,Xiaojun Chang,0,-0.08477982943252087,0.21540131963461698
+2204517102,Large-Scale Cross-Language Web Page Classification via Dual Knowledge Transfer Using Fast Nonnegative Matrix Trifactorization,2015,31,24,2,0.10654,2306205450,Hua Wang,0,0.003708468606338,0.082832279151172
+2199534117,Multi-view Subspace Clustering,2015,26,109,2,0.0,2169884944,Hongchang Gao,0,-0.844190832748334,2.9956770384743527
+2279836676,Discriminative unsupervised dimensionality reduction,2015,23,15,3,0.8,2149602155,Xiaoqian Wang,0,-0.21934185016841626,0.6056873083074126
+2405750609,Identifying Connectome Module Patterns via New Balanced Multi-Graph Normalized Cut,2015,11,2,7,0.0,2169884944,Hongchang Gao,0,-0.37904624941689796,1.2539138889398045
+2422268042,Unsupervised feature selection with structured graph optimization,2016,28,105,1,1.0,2245267964,Feiping Nie,0,-0.44248780106671803,0.8485590416451299
+2514638911,Discriminatively Embedded K-Means for Multi-view Clustering,2016,29,42,3,1.0,2608144435,Jinglin Xu,0,-0.8394052553879847,2.9970106914447947
+2515212212,Structured Doubly Stochastic Matrix for Graph Based Clustering Structured Doubly Stochastic Matrix,2016,31,16,2,0.8,2149602155,Xiaoqian Wang,0,-0.9345282788413718,3.2919866968554703
+2515343214,A graph based multimodal geospatial interpolation framework,2016,18,8,3,0.9,2175924296,Mengfan Tang,0,0.13630829623852073,0.08622154811321132
+2525136786,Capped Lp-Norm Graph Embedding for Photo Clustering,2016,21,12,2,0.9,2175924296,Mengfan Tang,0,-0.35485614762003265,1.239587964976344
+2516027932,Learning from less for better semi-supervised activity recognition via shared structure discovery,2016,46,23,2,0.0,2223456168,Lina Yao,0,0.003708468606338,0.082832279151172
+2574833973,Robust and sparse fuzzy K-means clustering,2016,27,18,4,1.0,2608144435,Jinglin Xu,0,-0.906429981559227,3.0486130871775106
+2583201723,Learning Task Relational Structure for Multi-task Feature Learning,2016,11,0,2,1.0,2147695980,De Wang,0,-1.1054758504610245,0.5357703789240624
+2584571478,Semi-Supervised Multi-label Dimensionality Reduction,2016,15,11,3,0.0,2585723835,Baolin Guo,0,0.34189213798870693,-0.0085938730499827
+2533318895,Semi-supervised feature selection based on label propagation and subset selection,2010,16,19,1,1.0,2245267964,Feiping Nie,0,0.027867656739271142,0.5809758042813881
+2579597427,Parameter-free auto-weighted multiple graph learning a framework for multiview clustering and semi-supervised classification,2016,23,106,1,1.0,2245267964,Feiping Nie,0,-0.004538237359067869,0.2859525243347512
+2513281263,Optimized Graph Learning Using Partial Tags and Multiple Features for Image and Video Annotation,2016,57,87,3,0.692308,2127452354,Jingkuan Song,0,0.1579559588619796,0.563349572073047
+2593557978,Semi-supervised classification via both label and side information,2017,9,4,2,0.75,2596124022,Rui Zhang,0,0.003708468606338,0.082832279151172
+2605793178,Revisiting Co-Saliency Detection A Novel Approach Based on Two-Stage Multi-View Spectral Rotation Co-clustering,2017,50,112,4,0.0,2138836110,Xiwen Yao,0,-0.407833366080143,1.854664254196385
+2598052950,Fast Spectral Clustering with efficient large graph construction,2017,16,8,2,0.0,2561684712,Wei Zhu,0,-0.6393931214461072,2.3186170492752445
+2619420291,Multiview Feature Analysis via Structured Sparsity and Shared Subspace Discovery,2017,17,7,2,0.0,2666003995,Yan Shuo Chang,0,0.003708468606338,0.082832279151172
+2735033384,Unsupervised Single and Multiple Views Feature Extraction with Structured Graph,2017,47,15,2,1.0,2804067350,Wenzhang Zhuge,0,-0.21934185016841626,0.6056873083074126
+2603315474,Local PurTree Spectral Clustering for Massive Customer Transaction Data,2017,10,4,4,0.862467,2891911005,Xiaojun Chen,0,-0.8845616386826025,3.055365480080946
+2672266311,Scalable Multi-View Semi-Supervised Classification via Adaptive Regression,2017,40,15,3,0.0,2608870816,Hong Tao,0,0.21438872843298346,-0.1353423822296997
+2595272553,Multi-View Unsupervised Feature Selection with Adaptive Similarity and View Weight,2017,49,40,2,0.731707,2169743412,Chenping Hou,0,0.12295033015553974,0.30115030258851444
+2604578492,Balanced Clustering with Least Square Regression,2017,0,10,3,1.0,2626466417,Hanyang Liu,0,-0.21934185016841626,0.6056873083074126
+2608113074,Unsupervised automatic attribute discovery method via multi-graph clustering,2016,24,11,2,1.0,2249347887,Liangchen Liu,0,-0.22207030466483632,1.170059245084546
+2604723872,Multi-View Clustering and Semi-Supervised Classification with Adaptive Neighbours,2017,0,76,1,1.0,2245267964,Feiping Nie,0,-0.21934185016841626,0.6056873083074126
+2593122249,From Photo Streams to Evolving Situations,2017,10,0,2,0.9,2175924296,Mengfan Tang,0,0.003708468606338,0.082832279151172
+2608957300,Unsupervised feature extraction using a learned graph with clustering structure,2016,22,1,3,1.0,2804067350,Wenzhang Zhuge,0,-0.4196275899345631,1.2424861538097505
+2771156369,Ranking with adaptive neighbors,2017,13,0,3,0.0,2772221493,Muge Li,0,0.003708468606338,0.082832279151172
+2766555770,PurTreeClust A Clustering Algorithm for Customer Segmentation from Massive Customer Transaction Data,2018,23,10,4,0.862467,2891911005,Xiaojun Chen,0,0.09894671261016653,0.4063152618660422
+2739250163,Beyond Trace Ratio Weighted Harmonic Mean of Trace Ratios for Multiclass Discriminant Analysis,2017,47,95,2,0.0,2734522439,Zhihui Li,0,0.003708468606338,0.082832279151172
+2809506935,Multiview Clustering via Adaptively Weighted Procrustes,2018,19,26,1,1.0,2245267964,Feiping Nie,0,-0.4408097375184461,1.718319485675415
+2784922187,Joint Schatten $$$$-norm and $$ell _$$â„“-norm robust matrix comletion for missing value recovery,2013,17,0,3,0.0,2119616764,Chris Ding,0,1.2350652037173413,0.39061007574644036
+2782120943,Local Regression and Global Information-Embedded Dimension Reduction,2018,0,9,3,0.0,2782272239,Chao Yao,0,0.11672415509507165,0.0338187686908989
+2807548733,A New Formulation of Linear Discriminant Analysis for Robust Dimensionality Reduction,2019,30,10,3,0.0,2954510528,Haifeng Zhao,0,0.003708468606338,0.082832279151172
+2793189157,Semi-Supervised Feature Selection via Insensitive Sparse Regression with Application to Video Semantic Recognition,2018,0,3,3,0.0,2704173284,Tingjin Luo,0,-0.25023896793326905,0.13037718530513653
+2800761708,Multi-Modal Joint Clustering With Application for Unsupervised Attribute Discovery,2018,64,12,2,1.0,2249347887,Liangchen Liu,0,0.0746471842601044,0.47543110949979395
+2808858332,Spectral Clustering of Large-scale Data by Directly Solving Normalized Cut,2018,20,6,3,0.862467,2891911005,Xiaojun Chen,0,-0.22434005607392735,1.2003603533539184
+2915658286,Semi-Supervised Learning with Auto-Weighting Feature and Adaptive Graph,2020,28,0,1,1.0,2245267964,Feiping Nie,0,-0.09024603142757759,0.08185320961363296
+2898324183,Global Redundancy Minimization for Feature Ranking,2015,0,0,3,0.204599,2137533801,Heng Huang,0,-0.933122522562557,-0.39140989732388687
+2921677257,Multi-view Scaling Support Vector Machines for Classification and Feature Selection,2019,0,1,3,1.0,2608144435,Jinglin Xu,0,-0.25023896793326905,0.13037718530513653
+2899642931,Semi-Supervised Feature Selection via Sparse Rescaled Linear Square Regression,2020,24,2,3,0.61748,2891911005,Xiaojun Chen,0,-0.25023896793326905,0.13037718530513653
+2897091869,Embedding Fuzzy K-Means with Nonnegative Spectral Clustering via Incorporating Side Information,2018,19,1,3,0.0,2891997527,Muhan Guo,0,-0.4408097375184461,1.718319485675415
+2897689266,A Local and Global Discriminative Framework and Optimization for Balanced Clustering,2019,42,2,3,0.6083,2126187437,Junwei Han,0,-0.27317234274288327,1.2849409288142177
+2893652381,Graph Structure Fusion for Multiview Clustering,2019,51,11,4,0.0,2101115449,Kun Zhan,0,-0.21934185016841626,0.6056873083074126
+2943198703,Discrete Multi-Graph Clustering,2019,41,1,6,0.0,2409575688,Minnan Luo,0,-0.521057544998868,1.8949884889386706
+2940933409,Parameter-Free Weighted Multi-View Projected Clustering with Structured Graph Learning,2019,0,3,2,0.0,2660581146,Rong Wang,0,-0.21934185016841626,0.6056873083074126
+2932421136,Efficient Feature Selection via $ell _{20}$ â„“ 2 0 -norm Constrained Sparse Regression,2019,0,2,3,0.0,2107070739,Xuelong Li,0,-0.25023896793326905,0.13037718530513653
+2959613672,Harmonic Mean Linear Discriminant Analysis,2019,54,8,3,1.0,2333063442,Shuai Zheng,0,0.003708468606338,0.082832279151172
+2951019399,K-Multiple-Means A Multiple-Means Clustering Method with Specified K Clusters,2019,37,1,1,1.0,2245267964,Feiping Nie,0,-0.5915428539693102,1.4863541048497484
+2981794037,Structured Graph Reconstruction for Scalable Clustering,2019,0,0,3,0.0,2107070739,Xuelong Li,0,-0.21934185016841626,0.6056873083074126
+2982697608,Speed Up Similarity Search of Time Series Under Dynamic Time Warping,2019,0,0,6,0.0,2923153749,Zhengxin Li,0,-0.17880361428016403,0.46395846856862916
+2971182726,Structured Graph Optimization for Unsupervised Feature Selection,2019,0,1,1,1.0,2245267964,Feiping Nie,0,-0.25023896793326905,0.13037718530513653
+2971826129,Unsupervised Linear Discriminant Analysis for Jointly Clustering and Subspace Learning,2019,0,1,3,0.0,2465953593,Fei Wang,0,-0.21934185016841626,0.6056873083074126
+3016050434,Multi-view K-Means Clustering with Adaptive Sparse Memberships and Weight Allocation,2020,0,0,3,0.0,2107070739,Xuelong Li,0,-0.4360259069610095,1.240360158421115
+3026594100,Robust Subspace Clustering with Low-Rank Structure Constraint,2020,0,0,2,0.0,2107070739,Xuelong Li,0,-0.538447670699222,2.6768132407096545

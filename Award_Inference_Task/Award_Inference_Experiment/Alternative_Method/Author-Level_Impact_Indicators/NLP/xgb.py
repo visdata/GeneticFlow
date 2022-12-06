@@ -42,7 +42,7 @@ def f2(precision,recall):
     return (recall*precision*5)/(recall+4*precision)
 
 from sklearn.model_selection import GridSearchCV
-
+df_source = pd.read_csv('non_graph.csv')
 Precision = []
 Recall = []
 F_measure = []
@@ -56,8 +56,7 @@ ACC = []
 Name=[[] for i in range(1201)]
 
 for r in range(100):
-    df = pd.read_csv('non_graph.csv')
-    df_copy = df.copy()
+    df = df_source.copy()
     y_pred = []
     y_real = []
     y_proba_minority = []
@@ -191,7 +190,7 @@ print("Stability:",np.mean(Stability))
 def print_to_file(filename, string_info, mode="a"):
 	with open(filename, mode) as f:
 		f.write(str(string_info) + "\n")
-print_to_file("record.txt","xgb 10 cv Precision:%.3f Recall:%.3f F1_best:%.3f F1_best(std): %.3f ROC:%.3f ROC(std): %.3f PRC:%.3f ACC:%.3f for Class Fellow" % (np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC)))
+print_to_file("record.txt","xgb 100 cv Precision:%.3f Recall:%.3f F1_best:%.3f F1_best(std): %.3f ROC:%.3f ROC(std): %.3f PRC:%.3f ACC:%.3f for Class Fellow" % (np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.std(F1_best),np.mean(ROC),np.std(ROC),np.mean(PRC),np.mean(ACC)))
 
 print("100 cv Precision, Recall, F1_best, ROC, PRC, ACC for Class:",np.mean(Precision),np.mean(Recall),np.mean(F1_best),np.mean(ROC),np.mean(PRC),np.mean(ACC))
 

@@ -1,0 +1,55 @@
+57699484,Data Debugger An Operator-Centric Approach for Data Quality Solutions,2006,0,15,3,0.0,2163909284,Surajit Chaudhuri,0,-0.32198876610509086,-0.2038331671539402
+1543980078,Stop-and-restart style execution for long running decision support queries,2007,36,30,2,0.0,2163909284,Surajit Chaudhuri,0,0.11627582886789564,0.3621724021946999
+1491545690,On the integration of structure indexes and inverted lists,2004,1,19,1,1.0,2158829505,Raghav Kaushik,0,1.589136226925122,-0.5338290818056369
+1556873914,Transaction processing on confidential data using cipherbase,2015,32,26,4,0.272798,2288886406,Arvind Arasu,0,0.9066133645361344,0.6184540229003361
+1539863007,General Database Statistics Using Entropy Maximization,2009,17,12,1,1.0,2158829505,Raghav Kaushik,0,0.7829627236204895,0.21540255742208342
+1941968972,Optimizing fine grained access control using authorization indexes,2011,17,15,2,0.8,1979791860,Ravi Ramamurthy,0,1.2316139429705215,0.371415214294903
+1974149771,On relational support for XML publishing beyond sorting and tagging,2003,18,33,2,0.0,2163909284,Surajit Chaudhuri,0,1.5589510725315412,0.197822908535435
+1999925610,Secure database-as-a-service with Cipherbase,2013,9,31,5,0.3047,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2019742356,SELECT triggers for data auditing,2013,13,8,3,0.0,2229618786,Daniel Fabbri,0,1.0015952035331537,0.1866039554948838
+2023284301,Querying encrypted data,2014,19,25,3,0.284269,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2064525681,A secure coprocessor for database applications,2013,10,16,3,0.3047,2288886406,Arvind Arasu,0,2.202776059782102,0.5558106989668319
+2072173758,Transformation-based Framework for Record Matching,2008,36,115,3,0.547515,2288886406,Arvind Arasu,0,0.11627582886789564,0.3621724021946999
+2077496619,The power of data use management in action,2013,11,2,4,0.0,2135060379,Prasang Upadhyaya,0,-0.0041099411153885,0.0447066884760059
+2074409795,Incorporating string transformations in record matching,2008,5,14,4,0.547515,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2069555406,Efficient auditing for complex SQL queries,2011,16,19,1,1.0,2158829505,Raghav Kaushik,0,0.044859856903840555,0.012551371775477651
+2096598900,Efficient exact set-similarity joins,2006,24,402,3,0.547515,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2092088394,Querying encrypted data,2013,15,7,3,0.3047,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2135432866,On the integration of structure indexes and inverted lists,2004,39,150,1,1.0,2158829505,Raghav Kaushik,0,1.4169332845756961,-0.5269362679641636
+2124476970,Robust Cardinality and Cost Estimation for Skyline Operator,2006,21,135,3,0.0,2163909284,Surajit Chaudhuri,0,0.24950194300708614,0.3567874379531443
+2121516976,A Primitive Operator for Similarity Joins in Data Cleaning,2006,18,459,3,0.0,2163909284,Surajit Chaudhuri,0,0.3704861478821108,0.23317740256327
+2130510094,Recursive XML schemas recursive XML queries and relational storage XML-to-SQL query translation,2004,32,60,3,0.8,2150581792,Rajasekar Krishnamurthy,0,2.4975001524534153,-0.9809524940126653
+2136705710,Database Access Control and Privacy Is there a common ground ,2011,12,32,1,1.0,2158829505,Raghav Kaushik,0,1.9261787237040473,0.33475659178080536
+2133676910,Leveraging aggregate constraints for deduplication,2007,24,54,4,0.0,2163909284,Surajit Chaudhuri,0,0.04206355357696997,0.04377415336283256
+2128056631,On indexing error-tolerant set containment,2010,30,38,3,0.0,2186177736,Parag Agrawal,0,-0.0041099411153885,0.0447066884760059
+2143100570,Covering indexes for branching path queries,2002,17,298,1,1.0,2158829505,Raghav Kaushik,0,0.18341149365638526,-0.10367273279934497
+2143124645,Example-driven design of efficient record matching queries,2007,67,86,4,0.0,2163909284,Surajit Chaudhuri,0,-0.0041099411153885,0.0447066884760059
+2107907225,XML-to-SQL Query Translation Literature The State of the Art and Open Problems,2003,47,127,3,0.0,2075622585,Jeffrey F. Naughton,0,2.087678226600101,-0.8150750996661499
+2110970879,Unraveling the duplicate-elimination problem in XML-to-SQL query translation,2004,20,6,2,0.8,2150581792,Rajasekar Krishnamurthy,0,0.6306909558940288,-0.03977489347595848
+2111151458,A grammar-based entity representation framework for data cleaning,2009,22,17,2,0.454877,2288886406,Arvind Arasu,0,-0.17722234200264028,0.3963522186194852
+2144113062,XML views as integrity constraints and their use in query translation,2005,14,3,2,0.8,2150581792,Rajasekar Krishnamurthy,0,1.7643833837608238,-0.5219482616411734
+2156184447,Updates for structure indexes,2002,13,40,1,1.0,2158829505,Raghav Kaushik,0,0.43877088346148757,-0.2816550417118538
+2162592052,Extending autocompletion to tolerate errors,2009,21,120,2,0.0,2163909284,Surajit Chaudhuri,0,-0.0041099411153885,0.0447066884760059
+2151316814,Oblivious Query Processing,2013,18,17,2,0.3047,2288886406,Arvind Arasu,0,0.7215975991611812,0.3052417628859806
+2151454464,Synopses for query optimization a space-complexity perspective,2004,46,9,1,1.0,2158829505,Raghav Kaushik,0,0.014532710543751099,0.030944858938630852
+2151583733,Data generation using declarative constraints,2011,32,44,2,0.407279,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2148608412,Efficient XML-to-SQL query translation where to add the intelligence ,2004,23,47,3,0.0,2075622585,Jeffrey F. Naughton,0,0.8768455467689253,-0.2819512759975116
+2185403818,Stop That Query The Need for Managing Data Use,2013,17,3,4,0.0,2135060379,Prasang Upadhyaya,0,-0.0041099411153885,0.0447066884760059
+2149666876,When can we trust progress estimators for SQL queries,2005,15,58,2,0.0,2163909284,Surajit Chaudhuri,0,1.8616405483225917,0.21401859614333488
+2161728285,Exploiting local similarity for indexing paths in graph-structured data,2002,24,231,1,1.0,2158829505,Raghav Kaushik,0,0.5446765407175821,-0.025271269230372862
+2248361066,Integrated fuzzy joins in database management systems,2011,14,12,3,0.0,2057455714,Vivek Narasayya,0,-0.9290585067666344,-0.16566123267019195
+2252051444,On scaling up sensitive data auditing,2013,22,0,2,0.0,2099245535,Yupeng Fu,0,0.044859856903840555,0.012551371775477651
+2293020320,Whodunit An Auditing Tool for Detecting Data Breaches,2011,8,1,1,1.0,2158829505,Raghav Kaushik,0,0.044859856903840555,0.012551371775477651
+2293297573,DataSynth Generating Synthetic Data using Declarative Constraints,2011,8,2,2,0.407279,2288886406,Arvind Arasu,0,-0.37538904668272804,-0.1679513215203286
+2289716913,Orthogonal Security with Cipherbase,2013,19,116,4,0.3047,2288886406,Arvind Arasu,0,-0.1156577426431432,-0.2566105852302986
+2403931021,Raising Authorization Awareness in a DBMS,2015,13,0,3,0.0,2709756139,Abhijeet Mohapatra,0,0.511881909446107,-0.5922128141434139
+2395781810,Engineering Security and Performance with Cipherbase,2012,9,4,5,0.363755,2288886406,Arvind Arasu,0,0.6340094201298372,-0.02273475170159882
+2398657955,Experiences with using Data Cleaning Technology for Bing Services,2012,9,6,5,0.363755,2288886406,Arvind Arasu,0,0.16961816653767703,0.31221718520020947
+2406468860,Towards a Domain Independent Platform for Data Cleaning,2011,13,5,5,0.407279,2288886406,Arvind Arasu,0,-0.0041099411153885,0.0447066884760059
+2474347409,Querying Encrypted Data (Tutorial),2013,0,5,3,0.57061,1979791860,Ravi Ramamurthy,0,-0.0041099411153885,0.0447066884760059
+2474865884,On The Security Of Querying Encrypted Data,2012,10,2,2,0.8,1979791860,Ravi Ramamurthy,0,-0.0041099411153885,0.0447066884760059
+2613440485,When is an Encrypted Database Secure,2014,0,1,3,0.57061,1979791860,Ravi Ramamurthy,0,-0.0041099411153885,0.0447066884760059
+2612534859,Concerto A High Concurrency Key-Value Store with Integrity,2017,39,15,3,0.245606,2288886406,Arvind Arasu,0,0.1650556846327417,0.05544701961545055
+2892003115,Pushing the Limits of Encrypted Databases with Secure Hardware,2018,22,1,5,0.0,2346999076,Panagiotis Antonopoulos,0,-0.0041099411153885,0.0447066884760059
+2914764703,Veritas Shared Verifiable Databases and Tables in the Cloud,2019,0,6,7,0.0,2083845045,Johannes Gehrke,0,-0.0041099411153885,0.0447066884760059
+2968779442,Session details Research 2 Privacy/Blockchain,2019,0,0,1,1.0,2158829505,Raghav Kaushik,0,-0.0041099411153885,0.0447066884760059

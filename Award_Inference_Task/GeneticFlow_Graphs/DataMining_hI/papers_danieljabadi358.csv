@@ -1,0 +1,40 @@
+967912718,SYSTEMS AND METHODS FOR PROCESSING DATA,2011,12,160,3,1.0,943945542,Kamil Bajda Pawlikowski,0,0.003708468606338,0.082832279151172
+1004695024,Data loading systems and methods,2011,51,39,2,1.0,2097080516,Azza Abouzied,0,0.003708468606338,0.082832279151172
+1551118287,REED robust efficient filtering and event detection in sensor networks,2005,24,193,1,1.0,2170206103,Daniel J. Abadi,0,-0.02871123246106035,0.3603894383811772
+1261868982,Data Management in the Cloud Limitations and Opportunities,2009,13,379,1,1.0,2170206103,Daniel J. Abadi,0,0.003708468606338,0.082832279151172
+1577169013,The end of an architectural era (its time for a complete rewrite),2007,62,553,3,0.0,1998938290,Michael Stonebraker,0,-0.5452655034970345,0.5112622481430118
+1813630675,Tradeoffs between parallel database systems Hadoop and HadoopDB as platforms for petabyte-scale analysis,2010,3,7,1,1.0,2170206103,Daniel J. Abadi,0,-0.5891000743260801,0.2948157050021369
+1963537333,How best to build web-scale data managers ,2009,6,0,4,0.0,2893888,Michael Cafarella,0,-0.2566892008790817,0.2695408193238921
+1791587242,C-store a column-oriented DBMS,2005,64,911,2,0.0,1998938290,Michael Stonebraker,0,-0.25871129093424167,0.8539120728631905
+2005112390,Column-stores vs row-stores how different are they really ,2008,24,360,3,0.0,2038813504,Nabil I. Hachem,0,-0.23863938974395893,0.31015100078325536
+1997168731,The Beckman Report on Database Research,2014,7,47,1,1.0,2170206103,Daniel J. Abadi,0,-0.08216369031341794,0.1395680461546204
+2029432894,Cloud databases whats new ,2010,0,5,6,0.0,237419955,Hector Garcia Molina,0,-0.3849111162398852,-0.10788238223040504
+2010150096,Invisible loading access-driven data transfer from raw files into database systems,2013,15,42,2,0.888889,2097080516,Azza Abouzied,0,-1.9213006333112823,0.5403596120304446
+2016829627,Efficient processing of data warehousing queries in a split execution environment,2011,23,71,2,1.0,943945542,Kamil Bajda Pawlikowski,0,-0.06451528785511162,0.20612465332807992
+2011716962,Sinew a SQL system for multi-structured data,2014,17,38,3,0.0,2006666655,Daniel Tahara,0,-1.5220609880663083,0.4376624205680619
+2054075931,OLTP through the looking glass and what we found there,2008,40,251,2,0.0,2676701685,Stavros Harizopoulos,0,0.003708468606338,0.082832279151172
+2049160854,HadoopDB in action building real world applications,2010,7,56,4,1.0,2097080516,Azza Abouzied,0,0.20936674141360742,-0.8920065739413472
+2062735494,Aurora a data stream management system,2003,2,227,1,1.0,2170206103,Daniel J. Abadi,0,-0.500424061585821,0.42843764499006126
+2099427938,Column Stores For Wide and Sparse Data,2007,17,67,1,1.0,2170206103,Daniel J. Abadi,0,0.32859326192995564,-0.2658201872614585
+2100305431,Are we experiencing a big data bubble,2014,4,14,3,0.0,2026396360,Fatma Ozcan,0,-1.2796246712985109,-0.569540933191685
+2085601491,Column-oriented database systems,2009,10,180,2,0.0,2081047619,Peter Boncz,0,-0.26702486883758153,-0.14959654227512814
+2117546628,The Design and Implementation of Modern Column-Oriented Database Systems,2013,97,128,1,1.0,2170206103,Daniel J. Abadi,0,-2.6248258344457143,0.8596762436472218
+2123686039,Integrating compression and execution in column-oriented database systems,2006,33,480,1,1.0,2170206103,Daniel J. Abadi,0,-0.7354020365672621,0.4494615520135814
+2137152505,SW-Store a vertically partitioned DBMS for Semantic Web data management,2009,37,265,1,1.0,2170206103,Daniel J. Abadi,0,0.9342661066751038,-1.902035187600119
+2140613126,Scalable semantic web data management using vertical partitioning,2007,26,564,1,1.0,2170206103,Daniel J. Abadi,0,1.36681860649112,-2.962853391612679
+2125775320,HadoopDB an architectural hybrid of MapReduce and DBMS technologies for analytical workloads,2009,8,778,3,0.0,2700269239,Azza Abouzeid,0,0.46698338764624586,-0.123058550046868
+2114303224,A comparison of approaches to large-scale data analysis,2009,16,942,4,1.0,1916729783,Andrew Pavlo,0,0.26453932746379555,0.6766589335764451
+2144839430,Materialization Strategies in a Column-Oriented DBMS,2007,15,191,1,1.0,2170206103,Daniel J. Abadi,0,0.030798057173998507,0.5246527383538117
+2150971115,An integration framework for sensor networks and data stream management systems,2004,9,59,1,1.0,2170206103,Daniel J. Abadi,0,-1.0555484599409537,0.2149443588511415
+2155070484,H-store a high-performance distributed main memory transaction processing system,2008,11,390,11,0.0,2610280838,Robert Kallman,0,0.003708468606338,0.082832279151172
+2189498447,An evaluation of the advantages and disadvantages of deterministic database systems,2014,29,29,3,0.0,2507412436,Kun Ren,0,-2.5419814225942408,0.8599681801909664
+2265110944,SQL-on-hadoop systems tutorial,2015,12,8,2,0.0,2026396360,Fatma Ozcan,0,-0.7794450414856797,-0.0887281468548342
+2293919922,Scalable SPARQL Querying of Large RDF Graphs,2011,27,340,2,0.823529,2222359315,Jiewen Huang,0,0.7974673077183457,-1.6848933957357992
+2301743601,Leopard lightweight edge-oriented partitioning and replication for dynamic graphs,2016,42,34,2,0.823529,2222359315,Jiewen Huang,0,0.003708468606338,0.082832279151172
+2374597300,Scalable Pattern Matching over Compressed Graphs via Dedensification,2016,20,24,2,0.0,2096345549,Antonio Maccioni,0,0.003708468606338,0.082832279151172
+2338990447,MapReduce complements DBMSs since databases are not designed for extract- transform-load tasks a MapReduce specialty,2010,18,0,4,1.0,1916729783,Andrew Pavlo,0,1.2210201932294251,0.40213257665003466
+2399840233,FIT A Distributed Database Performance Tradeoff,2015,13,6,2,1.0,2146402283,Jose M. Faleiro,0,0.003708468606338,0.082832279151172
+2434390175,Automatic Generation of Normalized Relational Schemas from Nested Key-Value Data,2016,28,22,2,0.0,2493716702,Michael DiScala,0,-1.6083625145427742,0.24758355739552973
+2551460235,Processing of data using a database system in communication with a data processing framework,2011,47,16,3,1.0,943945542,Kamil Bajda Pawlikowski,0,-2.196588340802152,0.7378316007805666
+2584820231,Latch-free Synchronization in Database Systems Silver Bullet or Fools Gold ,2017,65,4,2,1.0,2146402283,Jose M. Faleiro,0,0.003708468606338,0.082832279151172
+2970456838,Integration of large-scale data processing systems and traditional parallel database technology,2019,0,0,2,0.382335,2097080516,Azza Abouzied,0,-0.2909428398294992,0.04926704743332565

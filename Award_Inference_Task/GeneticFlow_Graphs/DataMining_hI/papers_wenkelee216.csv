@@ -1,0 +1,45 @@
+173994131,Worm Detection Using Local Networks,2004,18,35,4,1.0,160465655,David Dagon,0,0.003708468606338,0.082832279151172
+60297231,Automated Intrusion Detection Methods Using NFR,1999,7,1,2,0.245754,2021877992,Salvatore J. Stolfo,0,1.240949170171389,0.403700071828479
+146971565,An Information-Theoretic Measure of Intrusion Detection Capability,2005,22,9,5,1.0,160465655,David Dagon,0,0.25279980089418275,0.356263393655007
+149175888,Combining Knowledge Discovery and Knowledge Engineering to Build IDSs,1999,9,17,1,1.0,2155626625,Wenke Lee,0,0.06406665972030047,0.002760143819160843
+135767600,Understanding precision in host based intrusion detection formal analysis and practical models,2007,30,14,3,0.0,233736013,Jonathon Giffin,0,0.3024941206384012,0.2601028475248656
+68163417,A data mining framework for constructing features and models for intrusion detection systems (computer security network security),1999,0,39,1,1.0,2155626625,Wenke Lee,0,-0.2541025055350821,0.35843718894570026
+256041050,Proactive Intrusion Detection,2002,33,0,4,0.0,2310347917,JoÃ£o B. D. Cabrera,0,0.25279980089418275,0.356263393655007
+1527992010,A Data Mining and CIDF Based Approach for Detecting Novel and Distributed Intrusions,2000,12,107,1,1.0,2155626625,Wenke Lee,0,-0.17592424560850992,0.5350561715409081
+1557330830,Automated Intrusion Detection Using NFR Methods and Experiences,1999,6,21,1,1.0,2155626625,Wenke Lee,0,1.236792202868564,0.639994210514406
+1627728918,Adaptive Intrusion Detection A Data Mining Approach,2000,31,292,1,1.0,2155626625,Wenke Lee,0,-0.4620597017661742,0.39293620714793576
+1837847590,Discovering Novel Attack Strategies from Infosec Alerts,2004,51,60,2,1.0,2115528181,Xinzhou Qin,0,0.15659805697697457,-0.00046958452630171027
+1955247880,Method and system for detecting malware,2011,433,59,2,1.0,140829034,Roberto Perdisci,0,0.003708468606338,0.082832279151172
+1800991598,Toward cost-sensitive modeling for intrusion detection and response,2002,17,257,1,1.0,2155626625,Wenke Lee,0,0.003096474151226806,0.2601437891843497
+1588116921,Algorithms for mining system audit data,2002,25,20,3,0.0,1968757248,Kui W. Mok,0,-0.17477979112040698,0.15119122303766078
+1884606608,A data mining framework for building intrusion detection models,1999,81,1062,1,1.0,2155626625,Wenke Lee,0,0.4373423784856249,0.4819124458882637
+1608697108,Proactive Intrusion Detection and Distributed Denial of Service Attacksâ€”A Case Study in Security Management,2002,35,40,1,1.0,2155626625,Wenke Lee,0,0.25279980089418275,0.356263393655007
+1651734357,Method and system for network-based detecting of malware from behavioral clustering,2011,429,88,2,1.0,140829034,Roberto Perdisci,0,-0.4911872422455861,1.1702225580596983
+1827212170,Behavioral clustering of HTTP-based malware and signature generation using malicious network traces,2010,23,349,2,1.0,140829034,Roberto Perdisci,0,-0.21934185016841626,0.6056873083074126
+1583975142,Data mining approaches for intrusion detection,1998,21,1075,1,1.0,2155626625,Wenke Lee,0,-0.4113129301081024,0.22696522426214502
+2002547931,Principled reasoning and practical applications of alert fusion in intrusion detection systems,2008,50,35,3,1.0,2150371625,Guofei Gu,0,1.2655127505412076,0.14646745065075314
+2012568697,Mining in a data-flow environment experience in network intrusion detection,1999,12,223,1,1.0,2155626625,Wenke Lee,0,0.15018456330604515,0.3502535852591882
+2033368661,Misleading worm signature generators using deliberate noise injection,2006,19,164,4,0.666667,140829034,Roberto Perdisci,0,0.4550478777926225,0.3445357429312541
+2043314203,Measuring intrusion detection capability an information-theoretic approach,2006,23,113,4,1.0,2150371625,Guofei Gu,0,0.31022286334933147,0.11966991456648086
+2066298612,Data mining-based intrusion detectors an overview of the columbia IDS project,2001,26,74,2,0.221546,2021877992,Salvatore J. Stolfo,0,0.25279980089418275,0.356263393655007
+2072695755,Applying data mining to intrusion detection the quest for automation efficiency and credibility,2002,20,39,1,1.0,2155626625,Wenke Lee,0,0.25279980089418275,0.356263393655007
+2096847629,Information-theoretic measures for anomaly detection,2001,24,493,1,1.0,2155626625,Wenke Lee,0,0.3024941206384012,0.2601028475248656
+2085305295,A framework for constructing features and models for intrusion detection systems,2000,24,855,1,1.0,2155626625,Wenke Lee,0,0.2470898652136005,0.3171217402570602
+2126220112,Mapping kernel objects to enable systematic integrity checking,2009,22,142,4,0.0,2157861493,Martim Carbone,0,-0.007153747182780199,0.3776738177215317
+2123573631,Proactive detection of distributed denial of service attacks using MIB traffic variables-a feasibility study,2001,13,150,3,0.0,2034412124,Ravi Prasanth,0,0.3024941206384012,0.2601028475248656
+2136561182,Statistical Causality Analysis of Infosec Alert Data,2003,22,197,2,1.0,2115528181,Xinzhou Qin,0,0.02106914428173166,0.613689708257889
+2107061999,q-gram matching using tree models,2006,25,8,2,1.0,765807516,Prahlad Fogla,0,-0.2059848899794475,1.916206193142171
+2131154421,JAM java agents for meta-learning over distributed databases,1997,18,260,4,0.0,2021877992,Salvatore J. Stolfo,0,0.4550478777926225,0.3445357429312541
+2165357553,McBoost Boosting Scalability in Malware Collection and Analysis Using Statistical Classification of Executables,2008,24,109,3,0.8,140829034,Roberto Perdisci,0,0.43162625009792,0.20195636031746017
+2162275200,Using an Ensemble of One-Class SVM Classifiers to Harden Payload-based Anomaly Detection Systems,2006,27,179,3,0.666667,140829034,Roberto Perdisci,0,-0.012266980069998138,0.42638545729313604
+2166353797,Real time data mining-based intrusion detection,2001,28,232,5,0.0,642640030,Eleazar Eskin,0,0.15314600879838108,0.7649783805065609
+2169959739,Mining system audit data opportunities and challenges,2001,16,20,1,1.0,2155626625,Wenke Lee,0,0.09583494457085429,0.42607960157545594
+2146082061,Using artificial anomalies to detect unknown and known network intrusions,2001,15,183,4,0.0,2491264568,Wei Fan,0,0.6705234672672624,0.5949432861805903
+2167287136,Cost-based modeling for fraud and intrusion detection results from the JAM project,2000,21,413,4,0.319149,222714987,Andreas L. Prodromidis,0,0.3024941206384012,0.2601028475248656
+2150147654,Mining audit data to build intrusion detection models,1998,18,251,1,1.0,2155626625,Wenke Lee,0,-0.17477979112040698,0.15119122303766078
+2245411264,Improving the efficiency and robustness of intrusion detection systems,2007,61,0,2,1.0,765807516,Prahlad Fogla,0,-0.17592424560850992,0.5350561715409081
+2245823075,Methods for cost-sensitive modeling for intrusion detection and response,2002,73,39,2,0.202399,2021877992,Salvatore J. Stolfo,0,0.003096474151226806,0.2601437891843497
+2265712536,Method and system for detecting dga-based malware,2013,115,147,3,0.518566,140829034,Roberto Perdisci,0,-0.5254077234812576,1.47854161236025
+2405680064,Credit Card Fraud Detection Using Meta-Learning Issues and Initial Results 1,1997,11,140,5,0.0,222714987,Andreas L. Prodromidis,0,0.43162625009792,0.20195636031746017
+2491836558,Towards an Information-Theoretic Framework for Analyzing Intrusion Detection Systems,2006,0,0,4,1.0,2150371625,Guofei Gu,0,0.217900858205339,0.49204412578868933
+2885930075,HoneyStat Local worm detection using honeypots,2004,0,1,4,1.0,160465655,David Dagon,0,0.25279980089418275,0.356263393655007

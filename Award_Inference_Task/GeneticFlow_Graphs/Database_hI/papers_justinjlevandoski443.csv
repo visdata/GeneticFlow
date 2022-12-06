@@ -1,0 +1,45 @@
+1963674762,The Bw-Tree A B-tree for new hardware platforms,2013,21,189,1,1.0,209651163,Justin J. Levandoski,0,0.23725945975822774,0.1536152179563959
+1790298588,Structuring storage based on latch-free b-trees,2012,134,57,1,1.0,209651163,Justin J. Levandoski,0,-0.0041099411153885,0.0447066884760059
+1973303098,Ranking and new database architectures,2013,15,7,1,1.0,209651163,Justin J. Levandoski,0,-0.4615688409447693,0.6374942414905852
+1977496449,Sindbad a location-based social networking system,2012,6,40,4,0.0,2099338096,Mohamed Sarwat,0,-0.0041099411153885,0.0447066884760059
+2005734204,Identifying hot and cold data in main-memory databases,2013,20,82,1,1.0,209651163,Justin J. Levandoski,0,1.1241450540611,1.042718303272967
+2019565841,FlexPref A framework for extensible preference evaluation in database systems,2010,41,39,1,1.0,209651163,Justin J. Levandoski,0,1.0395514774691066,0.16183140668667148
+2018470393,Indexing on modern hardware hekaton and beyond,2014,10,16,1,1.0,209651163,Justin J. Levandoski,0,0.9193514415422137,0.8720163781846092
+2054560962,LARS A Location-Aware Recommender System,2012,29,285,1,1.0,209651163,Justin J. Levandoski,0,-0.0041099411153885,0.0447066884760059
+2045988182,RDF Data-Centric Storage,2009,24,55,1,1.0,209651163,Justin J. Levandoski,0,-0.39040501381267817,0.0678282925157182
+2091307607,CareDB a context and preference-aware location-based database system,2010,9,16,1,1.0,209651163,Justin J. Levandoski,0,-0.0041099411153885,0.0447066884760059
+2091814660,Flexible and extensible preference evaluation in database systems,2013,85,5,1,1.0,209651163,Justin J. Levandoski,0,0.7979942947913752,0.10642402600665375
+2129339093,PermJoin An Efficient Algorithm for Producing Early Results in Multi-join Query Plans,2008,11,9,1,1.0,209651163,Justin J. Levandoski,0,-0.0041099411153885,0.0447066884760059
+2138571277,A demonstration of FlexPref extensible preference evaluation inside the DBMS engine,2010,6,1,1,1.0,209651163,Justin J. Levandoski,0,0.34405867112130845,0.0612538775249119
+2142154682,PrefJoin An efficient preference-aware join operator,2011,36,23,3,0.428571,2026145166,Mohamed E. Khalefa,0,0.3837047733300749,-0.1866371047484
+2118942653,Skyline Query Processing for Incomplete Data,2008,21,98,3,0.0,2026145166,Mohamed E. Khalefa,0,0.25245882146783893,0.09919480006319664
+2136813418,LLAMA a cache/storage subsystem for modern hardware,2013,26,30,1,1.0,209651163,Justin J. Levandoski,0,0.031069763912240006,0.2962767685950026
+2125391023,Deuteronomy Transaction support for cloud data,2011,29,80,1,1.0,209651163,Justin J. Levandoski,0,0.5865259663965073,0.6025043031169265
+2150713082,StreamRec a real-time recommender system,2011,7,51,2,0.0,2105061512,Badrish Chandramouli,0,0.18601297105691045,-0.0008472885667257998
+2168707264,RecStore an extensible and adaptive framework for online recommender queries inside the database engine,2012,25,13,1,1.0,209651163,Justin J. Levandoski,0,-0.001474155373988928,0.0411044308257614
+2181961186,High Performance Transactions in Deuteronomy,2015,28,36,1,1.0,209651163,Justin J. Levandoski,0,0.6188631720539706,0.5579867129410502
+2185195626,Personalization Socialization and Recommendations in Location-based Services 20,2011,16,19,2,0.318182,154112519,Ahmed Eldawy,0,-0.0041099411153885,0.0447066884760059
+2185580859,Recbench Benchmarks for evaluating performance of recommender system architectures,2011,20,8,1,1.0,209651163,Justin J. Levandoski,0,0.044859856903840555,0.012551371775477651
+2150175744,Preference query evaluation over expensive attributes,2010,24,21,1,1.0,209651163,Justin J. Levandoski,0,0.7215975991611812,0.3052417628859806
+2183342041,Trekking through Siberia managing cold data in a memory-optimized database,2014,21,42,2,0.318182,154112519,Ahmed Eldawy,0,1.169455658676622,0.8940693415254697
+2272669552,Multi-version range concurrency control in Deuteronomy,2015,35,13,1,1.0,209651163,Justin J. Levandoski,0,2.0372017937197913,2.0690639114999336
+2256384365,Schema-agnostic indexing with Azure DocumentDB,2015,8,17,16,0.0,2264646972,Dharma Shukla,0,0.2653674138155342,0.10775987979072968
+2287553709,To lock swap or elide on the interplay of hardware transactional memory and lock-free indexing,2015,33,18,2,0.0,337743030,Darko Makreshanski,0,0.8302246876877591,0.9702604147205017
+2276534156,Transaction support for distributed data,2011,23,28,1,1.0,209651163,Justin J. Levandoski,0,2.4551190879721627,2.4944358625612773
+2294724959,TRANSACTIONAL ACCESS TO RECORDS ON SECONDARY STORAGE IN AN IN-MEMORY DATABASE,2014,17,3,1,1.0,209651163,Justin J. Levandoski,0,2.153626783007214,0.7208060184364867
+2307582423,High throughput data modifications using blind update operations,2014,138,12,1,1.0,209651163,Justin J. Levandoski,0,-0.0041099411153885,0.0447066884760059
+2282872933,Classification of data in main memory database systems,2012,43,9,1,1.0,209651163,Justin J. Levandoski,0,-1.1555409817717397,-0.021511143930394248
+2328615033,CareDB A context and preference-aware location-based database system,2010,22,5,1,1.0,209651163,Justin J. Levandoski,0,-0.0041099411153885,0.0447066884760059
+2336086217,HIGH PERFORMANCE TRANSACTIONS IN DATABASE MANAGEMENT SYSTEMS,2014,57,32,1,1.0,209651163,Justin J. Levandoski,0,0.8071947597928303,0.95524368871504
+2401185983,An Overview of the CareDB Context and Preference-Aware Database System,2011,11,10,1,1.0,209651163,Justin J. Levandoski,0,1.204501787921431,0.29860165833699415
+2433796428,ICE Managing cold state for big data applications,2016,25,1,2,0.0,2105061512,Badrish Chandramouli,0,0.06635930819191084,0.49152641060504293
+2581526937,READY Completeness is in the Eye of the Beholder,2017,12,2,5,0.0,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2547410375,Modern main-memory database systems,2016,15,7,2,0.0,2148643341,Per Ake Larson,0,1.3418015416156708,0.6202242885428455
+2735021351,Log-structured storage for data access,2016,181,3,1,1.0,209651163,Justin J. Levandoski,0,0.06680486382851669,-0.013343236428626873
+2588092286,Controlling atomic updates of indexes using hardware transactional memory,2016,55,10,1,1.0,209651163,Justin J. Levandoski,0,0.24223045357507209,0.6834643095403651
+2588646319,The CareDB context and preference-aware database system,2011,20,1,1,1.0,209651163,Justin J. Levandoski,0,1.204501787921431,0.29860165833699415
+2743244324,Main Memory Database Systems,2017,0,15,4,0.0,2297792247,Franz Faerber,0,-0.0041099411153885,0.0447066884760059
+2791526170,Bztree a high-performance latch-free range index for non-volatile memory,2018,29,20,2,0.0,2223199900,Joy Arulraj,0,-0.4224861568841929,-0.45938721347776995
+2794717842,Easy Lock-Free Indexing in Non-Volatile Memory,2018,40,13,2,0.0,2227180136,Tianzheng Wang,0,-0.27058336083767676,-0.9828246201482299
+2795182149,FASTER A Concurrent Key-Value Store with In-Place Updates,2018,32,17,4,0.0,2105061512,Badrish Chandramouli,0,-0.2012155484616062,0.0735887128036643
+2887973316,FASTER an embedded concurrent key-value store for state management,2018,0,1,4,0.0,2105061512,Badrish Chandramouli,0,0.1650556846327417,0.05544701961545055

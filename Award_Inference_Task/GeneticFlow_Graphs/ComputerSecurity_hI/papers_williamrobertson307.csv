@@ -1,0 +1,28 @@
+87384950,Using Generalization and Characterization Techniques in the Anomaly-based Detection of Web Attacks,2006,22,119,1,1.0,2916257583,William Robertson,0,0.0040557659796233,0.2757546058061082
+126505109,Reverse Engineering of Network Signatures,2005,16,35,5,0.0,233538037,Richard A. Kemmerer,0,0.13679434731489165,0.6751406926737795
+150512592,Static enforcement of web application integrity through strong typing,2009,34,68,1,1.0,2916257583,William Robertson,0,0.0040557659796233,0.2757546058061082
+1508143096,Alert Verification Determining the Success of Intrusion Attempts,2004,7,78,2,0.302646,2001160045,Christopher Kruegel,0,0.8394129102049798,0.9239599357505993
+1562530803,Topology-Based Detection of Anomalous BGP Messages,2003,25,85,3,0.0,2001160045,Christopher Kruegel,0,0.3259332239481683,0.5745734317069635
+1545175007,Protecting a Moving Target Addressing Web Application Concept Drift,2009,23,51,2,0.0,2461149642,Federico Maggi,0,0.13679434731489165,0.6751406926737795
+1572900211,Exploiting execution context for the detection of anomalous system calls,2007,29,51,2,0.526316,2014304584,Darren Mutz,0,0.8132086575740218,0.9257086063639175
+1564075167,Static disassembly of obfuscated binaries,2004,15,259,2,0.302646,2001160045,Christopher Kruegel,0,-0.255481096177426,0.4843741529378961
+1903577715,Automating mimicry attacks using static binary analysis,2005,20,159,4,0.201764,2001160045,Christopher Kruegel,0,0.13679434731489165,0.6751406926737795
+1580559113,Polymorphic worm detection using structural information of executables,2005,21,205,4,0.201764,2001160045,Christopher Kruegel,0,0.8590011465950885,0.8025437052406229
+1990089904,Beehive large-scale log analysis for detecting suspicious activity in enterprise networks,2013,41,146,5,0.0,2928829527,Ting Fang Yen,0,-1.858276333699468,0.7741098099152297
+2034362794,Testing network-based intrusion detection signatures using mutant exploits,2004,15,167,2,0.209913,2192390985,Giovanni Vigna,0,0.7106099999024451,1.6227616405729575
+2070406344,Are your votes really counted testing the security of real-world electronic voting systems,2008,21,23,6,0.271536,342838144,Davide Balzarotti,0,0.0040557659796233,0.2757546058061082
+2104593144,Bayesian event classification for intrusion detection,2003,20,264,3,0.0,2001160045,Christopher Kruegel,0,0.29001294578400333,0.39333689127673516
+2114488082,Reducing errors in the anomaly-based detection of web-based attacks through the combined analysis of web requests and SQL queries,2009,20,42,4,0.115058,2192390985,Giovanni Vigna,0,0.0995284854721481,0.6513436612721515
+2117668559,A stateful intrusion detection system for World-Wide Web servers,2003,18,120,2,0.0,2192390985,Giovanni Vigna,0,1.3708461344663065,1.1070708494850587
+2114996745,Disclosure detecting botnet command and control servers through large-scale NetFlow analysis,2012,32,163,3,0.0,325038940,Leyla Bilge,0,-0.6970950842820023,0.05794081044208699
+2121378079,Using Alert Verification to Identify Successful Intrusion Attempts,2004,16,43,2,0.302646,2001160045,Christopher Kruegel,0,0.8394129102049798,0.9239599357505993
+2119359024,Cutting the Gordian Knot A Look Under the Hood of Ransomware Attacks,2015,19,166,2,0.857143,2275563875,Amin Kharraz,0,-0.13463079798198657,0.7143369509284987
+2108196245,Improving Signature Testing through Dynamic Data Flow Analysis,2007,18,7,3,0.0935847,2001160045,Christopher Kruegel,0,0.24282936618747125,0.3461146381133616
+2147566999,An Experience in Testing the Security of Real-World Electronic Voting Systems,2010,32,39,6,0.271536,342838144,Davide Balzarotti,0,-0.1720012033401713,0.6771396614260613
+2154933195,Detecting kernel-level rootkits through binary analysis,2004,2,177,2,0.302646,2001160045,Christopher Kruegel,0,-0.6537736244944359,1.188263400557981
+2285485618,Detecting and preventing attacks against web applications,2009,0,5,3,0.0,233538037,Richard A. Kemmerer,0,0.13679434731489165,0.6751406926737795
+2486891920,Tracing Information Flows Between Ad Exchanges Using Retargeted Ads,2018,49,2,3,1.0,2274185847,Muhammad Ahmad Bashir,0,0.0040557659796233,0.2757546058061082
+2461373307,UNVEIL a large-scale automated approach to detecting ransomware,2016,30,117,4,0.857143,2275563875,Amin Kharraz,0,-0.13463079798198657,0.7143369509284987
+2898326323,On the Effectiveness of Type-based Control Flow Integrity,2018,41,3,4,0.0,2898521686,Reza Mirzazade Farkhani,0,-0.3298717486468034,1.2192927984572213
+2963150549,Tracing Information Flows Between Ad Exchanges Using Retargeted Ads,2016,45,35,3,1.0,2274185847,Muhammad Ahmad Bashir,0,0.0040557659796233,0.2757546058061082
+2949277663,On the Effectiveness of Type-based Control Flow Integrity,2018,41,0,4,0.0,2898521686,Reza Mirzazade Farkhani,0,-0.3298717486468034,1.2192927984572213

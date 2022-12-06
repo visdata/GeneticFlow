@@ -1,0 +1,58 @@
+71993299,Tools for View Integration,1984,0,4,1,1.0,2079152302,Ramez Elmasri,0,1.9202655958341555,0.43479384036258645
+177854617,Fundamentals of Database Systems with Cdrom and Book,2001,0,12,2,0.0,2065325028,Shamkant B. Navathe,0,1.1232539622740314,0.2618741797606064
+67315738,A structural model for database systems,1979,9,20,2,0.0,1988326922,Gio Wiederhold,0,2.0008953524739472,0.19740876974883087
+1532064934,Fundamentals of Database Systems 5th Edition,2006,0,389,2,0.0,2065325028,Shamkant B. Navathe,0,-0.0041099411153885,0.0447066884760059
+1523887411,On the design use and integration of data models,1980,0,8,1,1.0,2079152302,Ramez Elmasri,0,2.186878444515976,0.5284856810471129
+1490690844,Fragmentation and query decomposition in the ECR model,1987,0,5,1,1.0,2079152302,Ramez Elmasri,0,0.13240103139753057,0.6198287348607284
+1562085135,Relationship Merging in Schema Integration,1984,23,45,3,0.0,2065325028,Shamkant B. Navathe,0,3.071043425546695,-0.10465706504535725
+1535905965,An EER-Based Conceptual Model and Query Language for Time-Series Data,1998,19,12,2,1.0,2147059044,Jae Young Lee,0,0.5413012100068999,0.03939450852153411
+1554228447,The Time Index An Access Structure for Temporal Data,1990,23,144,1,1.0,2079152302,Ramez Elmasri,0,-0.241250245220175,-0.17693373480736696
+1509226340,Archiving Techniques for Temporal Databases,1995,9,0,2,1.0,191112947,Vram Kouramajian,0,1.4609825411092794,0.517496657964437
+1545440609,A Graphical Query Facility for ER Databases,1985,0,67,1,1.0,2079152302,Ramez Elmasri,0,-0.0041099411153885,0.0447066884760059
+1509712321,Preface for SemWAT 2006,2006,0,0,2,0.692308,2159833969,Hyoil Han,0,-1.8425193511458822,-1.786798459023414
+1502318375,A temporal model and query language for ER databases,1990,18,106,1,1.0,2079152302,Ramez Elmasri,0,0.5556460610951169,0.22272008723426864
+1493931163,KSRQuerying XML Keyword with Recursive Querying,2009,18,1,2,0.8,2129123641,Kamal Taha,0,1.0156248522865994,-0.49827172894259203
+1595043033,Query Engines for Web-Accessible XML Data,2001,12,26,2,0.0,304304723,Leonidas Fegaras,0,2.4739389940180287,-1.0973104614996159
+1931283495,Specification of Calendars and Time Series for Temporal Databases,1996,18,7,2,1.0,2147059044,Jae Young Lee,0,1.5534181327916559,0.3110969706226847
+1818637573,Conceptual Modeling for Customized XML Schemas,2002,11,21,1,1.0,2079152302,Ramez Elmasri,0,2.508481066206951,-0.9517482952960535
+1820949069,Efficient implementation techniques for the time index,1991,19,27,1,1.0,2079152302,Ramez Elmasri,0,-0.0041099411153885,0.0447066884760059
+1699915561,OOXsearch a search engine for answering loosely structured XML queries using OO programming,2007,20,7,2,0.666667,2129123641,Kamal Taha,0,1.1164824243594815,-0.43637424904964295
+1584117873,Fundamentals of database systems (2nd ed),1994,0,116,2,0.0,2065325028,Shamkant B. Navathe,0,-0.0041099411153885,0.0447066884760059
+2004913232,Temporal database modeling an object-oriented approach,1993,19,16,1,1.0,2079152302,Ramez Elmasri,0,1.8451327017169032,0.36331730700311177
+1992801565,CXLEngine a comprehensive XML loosely structured search engine,2008,9,17,1,1.0,2079152302,Ramez Elmasri,0,2.40191219576896,-0.8351697547408313
+2003638360,SPGProfile Speak Group Profile,2010,25,10,2,0.8,2129123641,Kamal Taha,0,0.5586742082380666,-0.1984847101299193
+2031158656,Data model integration using the structural model,1979,15,49,1,1.0,2079152302,Ramez Elmasri,0,1.4317501217133244,0.25891043421432847
+2015516856,Towards an infrastructure for temporal databases report of an invitational ARPA/NSF workshop,1994,19,64,3,0.0,2221969279,Niki Pissinou,0,-0.241250245220175,-0.17693373480736696
+2022990074,Notes on DDTS an apparatus for experimental research in distributed database management systems,1981,30,5,2,0.666667,2000665025,Cory Devor,0,-1.0980565839844958,0.6085450277346532
+2014261452,An integrated temporal data model incorporating time series concept,1998,17,16,2,1.0,2147059044,Jae Young Lee,0,1.2086488984487413,0.06416419064166656
+2026908501,Conceptual modeling for customized XML schemas,2005,12,16,1,1.0,2079152302,Ramez Elmasri,0,2.508481066206951,-0.9517482952960535
+2042791307,The Structural Model for Database Design,1979,0,13,2,0.0,1988326922,Gio Wiederhold,0,0.541048792242954,0.14109191976847427
+2076865491,Database research at UT Arlington,2003,25,0,3,0.0,2207808857,Sharma Chakravarthy,0,-0.0041099411153885,0.0447066884760059
+2082112028,XPCache An Efficient Query Processor for Client-Server Architecture,2007,6,1,1,1.0,2079152302,Ramez Elmasri,0,0.3485279911911511,0.12304658071861418
+2084749812,Announcementâ€”the temporal query language TSQL2 final language definition,1994,0,4,9,0.0,19930516,Nikos A. Lorentzos,0,0.692005524422246,0.17098669940668532
+2088627600,The category concept an extension to the entity-relationship model,1985,42,244,1,1.0,2079152302,Ramez Elmasri,0,0.8466202840760134,0.2972772511869539
+2098706548,Using Smodels (declarative logic programming) to verify correctness of certain active rules,2002,3,0,2,0.0,2647988152,M. Nakamura,0,1.1715099655613452,0.08607173522631746
+2105497434,Query Classification and Storage Evaluation inWireless Sensor Networks,2006,13,6,2,0.0,2109595880,Kyungseo Park,0,0.16782124802273696,0.2536234597393226
+2132610455,A theory of attributed equivalence in databases with application to schema integration,1989,16,369,2,0.0,2065325028,Shamkant B. Navathe,0,0.6663108893235365,0.18507574820922051
+2136356210,IRTG A Grid Middleware for Bioinformatics,2011,13,1,2,0.666667,2129123641,Kamal Taha,0,-0.19196147509311953,0.14487620954580122
+2133541526,Efficient temporal join processing using time index,1996,13,23,2,0.0,2162285913,Daeweon Son,0,-0.241250245220175,-0.17693373480736696
+2139832525,A temporal algebra for an ER-based temporal data model,2001,13,3,2,1.0,2147059044,Jae Young Lee,0,0.09641662188616777,-0.04327196181449664
+2140105961,Web data cleansing and preparation for ontology extraction using WordNet,2000,5,11,3,0.0,2505100764,Keng Woei Tan,0,-1.5984879636234706,-1.6583844881627903
+2119763213,Declustering techniques for parallelizing temporal access structures,1994,17,11,2,1.0,191112947,Vram Kouramajian,0,-0.241250245220175,-0.17693373480736696
+2114103999,Towards a Query-by-Example System for Knowledge Graphs,2014,27,6,5,0.0,2150214299,Nandish Jayaram,0,0.032818030122018865,0.032006754433275574
+2111197836,Modelling concepts and database implementation techniques for complex biological data,2007,10,7,1,1.0,2079152302,Ramez Elmasri,0,1.8267738176552828,-0.06486968809174323
+2165400143,Object integration in logical database design,1984,0,34,1,1.0,2079152302,Ramez Elmasri,0,1.899397158473872,0.43810339119059055
+2171436207,GQBE Querying knowledge graphs by example entity tuples,2014,30,24,6,0.0,2150214299,Nandish Jayaram,0,0.28789009827090595,0.22726245872767784
+2150715636,ADTP a new protocol for data processing over the internet,2001,4,1,2,0.0,2974106820,J.D. Kwak,0,-0.19458107197961927,-0.11344999481097223
+2145873257,Senddata an agent for data processing systems using email,2000,4,6,1,1.0,2079152302,Ramez Elmasri,0,-0.029635516364840853,-0.41611681312247767
+2174627437,The Structural Model for Database Design,1980,0,55,2,0.391304,1988326922,Gio Wiederhold,0,0.541048792242954,0.14109191976847427
+2286065829,Enhancing personalized search and improving accuracy and performance for keyword-based xml queries,2010,0,0,1,1.0,2079152302,Ramez Elmasri,0,2.472923369275381,-1.0071342312778784
+2401519227,Conceptual Analysis of Big Data Using Ontologies and EER,2015,15,0,2,0.0,2806637943,Kulsawasd Jitkajornwanich,0,0.49309920582269207,-0.05560147234573739
+2527831946,Quantitative Analysis of Scalable NoSQL Databases,2016,14,8,2,0.0,2529291076,Surya Narayanan Swaminathan,0,0.5895530352044327,-0.04010176252830531
+2610119983,Database Systems -6/E Models Languages Design and Application Programming,2012,0,3,2,0.0,2065325028,Shamkant B. Navathe,0,2.499490569990324,0.4631381674832659
+2654708877,DESIGN OF DDTS A TESTBED FOR RELIABLE DISTRIBUTED DATABASE MANAGEMENT,1982,0,5,2,0.666667,2000665025,Cory Devor,0,0.0835119396817451,0.051530138659233005
+2624534378,Database Systems,2013,0,6,2,0.0,2065325028,Shamkant B. Navathe,0,2.080454196501998,0.5344549411701738
+2621571797,Modeling and retrieval techniques for generalized bitemporal databases,1997,0,0,1,1.0,2079152302,Ramez Elmasri,0,0.2540197174198902,0.18687859789823286
+2766118802,Proving completeness of OpenGIS SQL spatial relationships and operations,2017,5,0,1,1.0,2079152302,Ramez Elmasri,0,0.044859856903840555,0.012551371775477651
+2751199251,Fundamentals of Database Systems,1989,0,3217,1,1.0,2079152302,Ramez Elmasri,0,1.9929228640633536,0.3637344135751341
+2945961283,A Survey on Trajectory Data Warehouse,2020,43,1,1,1.0,2079152302,Ramez Elmasri,0,-0.18638294152354148,0.9738263338652021

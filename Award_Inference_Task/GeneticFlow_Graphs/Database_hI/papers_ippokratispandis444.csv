@@ -1,0 +1,39 @@
+1890220130,Blink Not Your Fatherâ€™s Database ,2011,16,9,19,0.0,69727675,Namik Hrle,0,-0.1378788631650658,0.5167878976552045
+1967601791,DB2 with BLU acceleration so much more than just a column store,2013,22,178,12,0.0,2112167796,Vijayshankar Raman,0,0.8842819824028589,-0.09411055655882236
+1998663979,Shore-MT a scalable storage manager for the multicore era,2009,30,182,2,0.857143,2250370833,Ryan Johnson,0,0.3879151261846808,0.07386293849873295
+2002220286,Eliminating unscalable communication in transaction processing,2014,74,23,2,0.493507,2250370833,Ryan Johnson,0,2.411513802249899,2.2780866814479004
+2033320920,A data-oriented transaction execution engine and supporting tools,2011,7,13,1,1.0,2948263148,Ippokratis Pandis,0,2.1761962504224592,2.0755335067394314
+2050078636,From A to E analyzing TPCs OLTP benchmarks the obsolete the ubiquitous the unexplored,2013,29,35,2,0.0,473787648,Pinar TÃ¶zÃ¼n,0,1.9942744507296304,1.9306295003550278
+2066375217,Next generation data analytics at IBM research,2013,23,0,6,0.0,2090809909,Oktie Hassanzadeh,0,0.15646563257913904,0.13131280629356248
+2087735340,TPC-E vs TPC-C characterizing the new TPC-E benchmark via an I/O comparison study,2011,5,39,6,0.0,2161123335,Shimin Chen,0,1.641530967974413,1.4676622704682576
+2078944907,OLTP on hardware islands,2012,33,47,2,0.375,2142076581,Danica Porobic,0,2.0234599851725332,1.7453426350062344
+2101995353,Data-oriented transaction execution,2010,28,166,1,1.0,2948263148,Ippokratis Pandis,0,2.1761962504224592,2.0755335067394314
+2141558360,Simultaneous Pipelining in QPipe Exploiting Work Sharing Opportunities Across Queries,2006,1,11,3,0.0,2434402586,Kun Gao,0,0.11627582886789564,0.3621724021946999
+2141833902,Scalable and dynamically balanced shared-everything OLTP with physiological partitioning,2013,51,23,2,0.0,473787648,Pinar TÃ¶zÃ¼n,0,1.9420750590556093,1.8069391394002574
+2118995439,Aether a scalable approach to logging,2010,22,101,2,0.857143,2250370833,Ryan Johnson,0,1.5193922742730563,1.3108871558758848
+2110607409,Semantic web technologies for ubiquitous computing resource management in smart spaces,2007,20,11,4,0.0,269519735,John Soldatos,0,-0.19196147509311953,0.14487620954580122
+2113831242,Business Analytics in (a) Blink,2012,14,24,16,0.516689,2105103640,Ronald J. Barber,0,0.3697721822253082,0.3526890015756634
+2128841495,PLP page latch-free shared-everything OLTP,2011,30,74,1,1.0,2948263148,Ippokratis Pandis,0,1.9608306269484368,1.8155146859826754
+2144430183,Improving OLTP scalability using speculative lock inheritance,2009,14,59,2,0.857143,2250370833,Ryan Johnson,0,2.050874423005501,1.8830259395762385
+2172197636,Scalability of write-ahead logging on multicore and multisocket hardware,2012,31,43,2,0.55814,2250370833,Ryan Johnson,0,1.5193922742730563,1.3108871558758848
+2160829658,To share or not to share,2007,26,69,3,0.75,2250370833,Ryan Johnson,0,-0.0041099411153885,0.0447066884760059
+2157981728,An Analysis of Database System Performance on Chip Multiprocessors,2007,37,1,6,0.0,117387042,Babak Falsafi,0,0.954541140868863,0.11438247185517338
+2150054597,Database Servers on Chip Multiprocessors Limitations and Opportunities,2007,31,137,2,0.0,1969377669,Nikos Hardavellas,0,0.954541140868863,0.11438247185517338
+2188889839,NUMA-aware algorithms the case of data shuffling,2013,24,66,2,0.0,2147969462,Yinan Li,0,0.18601297105691045,-0.0008472885667257998
+2242648545,The Bionic DBMS is Coming but What Will It Look Like ,2013,17,11,2,0.541957,2250370833,Ryan Johnson,0,0.9408492071308692,0.912959594064505
+2244331736,Toward scalable transaction processing evolution of shore-MT,2013,21,5,4,0.0,473787648,Pinar TÃ¶zÃ¼n,0,1.4150501221565601,1.3360504845034415
+2207894255,Characterization of the Impact of Hardware Islands on OLTP,2016,62,3,2,0.375,2142076581,Danica Porobic,0,2.2285218219541996,2.01519941280374
+2292693431,Memory-efficient hash joins,2014,19,37,3,0.516689,2105103640,Ronald J. Barber,0,-0.0041099411153885,0.0447066884760059
+2386452338,Efficiently making (almost) any concurrency control mechanism serializable,2017,48,8,4,0.5,2227180136,Tianzheng Wang,0,1.9123164794989167,2.11320839804918
+2394680079,Impala A Modern Open-Source SQL Engine for Hadoop,2015,10,223,16,0.0,2278979797,Marcel Kornacker,0,-0.10294788486008288,-0.1339398505129133
+2400133291,Robust concurrency control in main-memory DBMS What main memory giveth the application taketh away,2014,5,2,4,0.493507,2250370833,Ryan Johnson,0,0.8286466699603369,1.0027583038282522
+2426431376,[Workshop on cloud data management (CloudDM) - Front matter],2016,0,0,2,0.0,2002600875,Barzan Mozafari,0,-0.08253273574094945,1.213464257337616
+2417855281,ACCURATE PARTITION SIZING FOR MEMORY EFFICIENT REDUCTION OPERATIONS,2014,7,1,9,0.0,240506892,Sam Lightstone,0,-0.165796457764015,-0.34570618985044876
+2423891596,ERMIA Fast Memory-Optimized Database System for Heterogeneous Workloads,2016,46,44,4,1.0,2568869492,Kangnyeon Kim,0,2.5560215575204253,3.044412236407429
+2556858519,POOLING WORK ACROSS MULTIPLE TRANSACTIONS FOR REDUCING CONTENTION IN OPERATIONAL ANALYTICS SYSTEMS,2015,9,7,9,0.0,401236404,Guy M. Lohman,0,2.3757753103809724,2.277608381726941
+2632828877,Erratum to Efficiently making (almost) any concurrency control mechanism serializable,2018,0,0,4,0.5,2227180136,Tianzheng Wang,0,0.8286466699603369,1.0027583038282522
+2764518293,Toward Scalable Transaction Processing,2013,20,1,2,0.0,2765015436,Anastasia Ailamaki Ryan Johnson,0,0.9593294121158233,0.9926798515460119
+2809800674,Integrated Querying of SQL database data and S3 data in Amazon Redshift,2018,0,1,5,0.0,2810589568,Mengchu Cai,0,-0.5725682545659112,1.10468449910517
+2912248064,Proceedings of the 11th International Workshop on Data Management on New Hardware,2015,0,0,2,0.0,2117317669,Martin L. Kersten,0,1.386312433213641,0.37076587226681385
+2926642061,BionicDB Fast and Power-Efficient OLTP on FPGA,2019,0,0,3,1.0,2568869492,Kangnyeon Kim,0,1.5193922742730563,1.3108871558758848
+2913900860,DPI The Data Processing Interface for Modern Networks,2019,0,3,3,0.0,2122271048,Gustavo Alonso,0,-0.07717982967481318,-0.10795400592374306

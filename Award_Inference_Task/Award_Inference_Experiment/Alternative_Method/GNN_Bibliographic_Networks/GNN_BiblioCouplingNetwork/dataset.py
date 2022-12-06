@@ -10,7 +10,7 @@ import os
 import re
 import pandas as pd
 import scipy as sc
-
+import time
 def node_iter(G):
    return G.nodes
 
@@ -33,8 +33,6 @@ def read_graphfile(max_nodes=None):
     index_i = 1
     for_i = -1
     for root, dirs, files in os.walk("./data/csv", topdown=False):
-    # for root, dirs, files in os.walk("../GNN_NLP_data/data_with_feature", topdown=False):
-    # for root, dirs, files in os.walk("../GNN_NLP_data/data_with_proba", topdown=False):
         for name in files:
             if(name[0]!='l' and name[0]!='t'):
                 for_i += 1
@@ -54,7 +52,6 @@ def read_graphfile(max_nodes=None):
                 for j in range(edges_unordered.shape[0]):
                     if(edges_unordered[j][0]==edges_unordered[j][1]):
                         continue
-                    # if(edges_unordered[j][2].astype(np.float32)>0.5):
                     edgeset.add((edges_unordered[j][0],edges_unordered[j][1]))
                     edges_.append(edges_unordered[j])
 
@@ -68,13 +65,15 @@ def read_graphfile(max_nodes=None):
                 edge_w=edge_w.reshape(-1,1)
 
                 edges_unordered = edges_unordered[:,:2]
-                edges_unordered=edges_unordered.astype(int).astype(str)
+                try:
+                    tmp=edges_unordered.astype(int).astype(str)
+                except:
+                    tmp=edges_unordered.astype(str)
+                edges_unordered=tmp
                 edges = np.array(list(map(idx_map.get, edges_unordered.flatten())),
                                 dtype=np.int32).reshape(edges_unordered.shape)
                 
                 fea_labels=pd.DataFrame(idx_features_labels)
-                # print(fea_labels)
-                # s()
                 fea_labels=fea_labels[[0,1,2,3]]
                 fea_labels=fea_labels.replace(-1, np.nan)
                 fea_labels=fea_labels.fillna(fea_labels.mean())
@@ -88,24 +87,22 @@ def read_graphfile(max_nodes=None):
                     attrs = [float(attr) for attr in line]
                     node_attrs[index_i].append(np.array(attrs))
                 
-                # authors = pd.read_csv("./data/csv/top_field_authors.csv", header = None)
                 authors = pd.read_csv("./data/csv/top_field_authors.csv", header = None)
                 number=re.findall(r"\d+\d*", name)[0]
                 number=int(number)
-                
-                # if("1:" in authors[authors[10]==number][12].values[0] or "3:" in authors[authors[10]==number][12].values[0] or ("2:" in authors[authors[10]==number][12].values[0] and authors[authors[10]==number][5].values[0]>=3000)):
-                if(authors[authors[6]==number][9].values[0]!='\\N'):
-                    # templist=[float(attr) for attr in authors2.iloc[for_i][1:].values]
+                flag=authors.shape[1]
+                if flag==13 and ("1:" in authors[authors[10]==number][12].values[0] or "3:" in authors[authors[10]==number][12].values[0] or ("2:" in authors[authors[10]==number][12].values[0] and authors[authors[10]==number][5].values[0]>=3000)):
                     templist=[]
                     templist.append(1)
                     graph_labels.append(templist)
-                    # print(number,1)
+                elif flag==10 and (authors[authors[6]==number][9].values[0]!='\\N'):
+                    templist=[]
+                    templist.append(1)
+                    graph_labels.append(templist)
                 else:
-                    # templist=[float(attr) for attr in authors2.iloc[for_i][1:].values]
                     templist=[]
                     templist.append(0)
                     graph_labels.append(templist)
-                # print(name,templist,authors.iloc[number-1,12])
                 edge_weight.append(edge_w)
                 Name.append(name)
                 index_i+=1

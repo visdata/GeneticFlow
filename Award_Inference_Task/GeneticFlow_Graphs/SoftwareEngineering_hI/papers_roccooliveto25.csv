@@ -1,0 +1,65 @@
+36290627,Recommending Refactoring Operations in Large Software Systems,2014,71,22,4,0.923853,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+170380824,Search Based Software Maintenance Methods and Tools,2014,0,9,3,0.923853,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+1568824873,Adams re-trace traceability link recovery via latent semantic indexing,2008,15,46,2,0.172256,2128108671,Andrea De Lucia,0,-0.6187099202079455,0.02124498680478165
+1542917673,Improving Comprehensibility of Source Code via Traceability Information a Controlled Experiment,2006,28,39,2,0.0,2101400075,A. De Lucia,0,-0.5051639588102177,-0.02137535746473518
+1548703962,Putting the developer in-the-loop an interactive GA for software re-modularization,2012,20,45,5,0.904762,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+1902003010,A selection of distinguished papers from the 19th Working Conference on Reverse Engineering 2012,2014,5,0,1,1.0,248023835,Rocco Oliveto,0,-0.5858771665552741,0.2641527235267396
+1973410675,Extract package refactoring in ARIES,2015,6,3,4,0.527027,1987128262,Fabio Palomba,0,-0.0291855379334779,0.0585196112869768
+1975790660,Improving software modularization via automated analysis of latent topics and dependencies,2014,68,80,3,0.923853,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2003148182,An empirical analysis of the distribution of unit test smells and their impact on software maintenance,2012,22,51,3,0.904762,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+1989385531,How the Apache community upgrades dependencies an evolutionary study,2015,47,52,4,0.784862,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2005522109,SCOTCH Test-to-code traceability using slicing and conceptual coupling,2011,26,35,3,1.0,334584765,Abdallah Qusef,0,-0.6187099202079455,0.02124498680478165
+2004247102,Automatic query reformulations for text retrieval in software engineering,2013,26,125,4,0.666667,2060062056,Sonia Haiduc,0,-0.0291855379334779,0.0585196112869768
+1997322537,Automatic generation of release notes,2014,29,48,4,0.666667,2554045074,Laura Moreno,0,-0.0291855379334779,0.0585196112869768
+1988757916,Recovering traceability links between unit tests and classes under test An improved method,2010,49,31,2,0.833333,334584765,Abdallah Qusef,0,-0.6187099202079455,0.02124498680478165
+2014116953,How to effectively use topic models for software engineering tasks an approach based on genetic algorithms,2013,37,185,3,0.0,290562820,Annibale Panichella,0,-0.0291855379334779,0.0585196112869768
+2017974706,Query-based configuration of text retrieval solutions for software engineering tasks,2015,55,22,5,0.666667,2554045074,Laura Moreno,0,-0.0291855379334779,0.0585196112869768
+2014755981,Mining StackOverflow to turn the IDE into a self-confident programming prompter,2014,42,131,4,0.545455,261055005,Luca Ponzanelli,0,-0.0291855379334779,0.0585196112869768
+2027479172,Assessing IR-based traceability recovery tools through controlled experiments,2009,41,73,2,0.182686,2128108671,Andrea De Lucia,0,-0.6187099202079455,0.02124498680478165
+2051742379,TraceME Traceability Management in Eclipse,2012,13,17,5,0.904762,229858904,Gabriele Bavota,0,-0.6187099202079455,0.02124498680478165
+2068382122,An empirical study on the developers perception of software coupling,2013,39,76,3,0.923853,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2078410218,The Evolution of Project Inter-dependencies in a Software Ecosystem The Case of Apache,2013,29,46,4,0.923853,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2097465469,Supporting extract class refactoring in eclipse the ARIES project,2012,13,17,4,0.904762,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2097494663,Configuring topic models for software engineering tasks in TraceLab,2013,23,13,4,0.0,2101338685,Bogdan Dit,0,-0.6187099202079455,0.02124498680478165
+2111741432,Teaching software engineering and software project management an integrated and practical approach,2012,38,24,4,0.904762,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2120785548,The role of the coverage analysis during IR-based traceability recovery A controlled experiment,2009,21,10,2,0.182686,2128108671,Andrea De Lucia,0,-0.6187099202079455,0.02124498680478165
+2121230168,ADAMS Re-Trace a traceability recovery tool,2005,29,54,3,0.0,2101400075,A. De Lucia,0,-0.6187099202079455,0.02124498680478165
+2124412953,Traceability management for impact analysis,2008,119,41,1,1.0,248023835,Rocco Oliveto,0,-0.6187099202079455,0.02124498680478165
+2143569040,Evaluating the specificity of text retrieval queries to support software engineering tasks,2012,13,25,3,0.666667,2060062056,Sonia Haiduc,0,-0.0291855379334779,0.0585196112869768
+2134557343,Using structural and semantic metrics to improve class cohesion,2008,28,30,2,0.116512,2101400075,A. De Lucia,0,0.35931953284580015,-0.5674908185703834
+2154676026,Sixth international workshop on traceability in emerging forms of software engineering (TEFSE 2011),2009,18,3,2,0.292683,67342874,Denys Poshyvanyk,0,-0.6187099202079455,0.02124498680478165
+2145700761,Methodbook Recommending Move Method Refactorings via Relational Topic Models,2014,50,86,2,0.923853,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2154880989,CodeTopics which topic am I coding now ,2011,9,27,2,0.292683,67342874,Denys Poshyvanyk,0,-0.5858771665552741,0.2641527235267396
+2149072143,Enhancing an artefact management system with traceability recovery features,2004,27,94,3,0.0,2101400075,A. De Lucia,0,-0.6187099202079455,0.02124498680478165
+2152212880,1 st International workshop on natural language analysis in software engineering (NaturaLiSE 2013),2013,1,0,2,0.923853,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2158925837,Software Artefact Traceability the Never-Ending Challenge,2007,18,13,1,1.0,248023835,Rocco Oliveto,0,-0.0291855379334779,0.0585196112869768
+2147120745,On the role of developers scattered changes in bug prediction,2015,41,9,5,0.0,2171383664,Dario Di Nucci,0,-0.0291855379334779,0.0585196112869768
+2344720047,Guest editorial special section on software reverse engineering,2016,8,0,2,0.0,220312088,Romain Robbes,0,-0.5858771665552741,0.2641527235267396
+2466866282,ARENA An Approach for the Automated Generation of Release Notes,2017,39,29,4,0.666667,2554045074,Laura Moreno,0,-0.0291855379334779,0.0585196112869768
+2465318792,Using Cohesion and Coupling for Software Remodularization Is It Enough ,2016,63,29,2,0.719296,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2561301563,There and back again Can you compile that snapshot ,2017,29,28,3,0.166667,67342874,Denys Poshyvanyk,0,-0.0291855379334779,0.0585196112869768
+2517541169,Prompter Turning the IDE into a self-confident programming assistant,2016,58,8,2,0.719296,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2617733587,Supporting software developers with a holistic recommender system,2017,55,14,5,0.545455,261055005,Luca Ponzanelli,0,-0.0291855379334779,0.0585196112869768
+2725758135,An exploratory study on the relationship between changes and refactoring,2017,43,16,3,0.527027,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2618856907,Guest editorial Program comprehension,2017,0,0,1,1.0,248023835,Rocco Oliveto,0,-0.0291855379334779,0.0585196112869768
+2646484260,How open source projects use static code analysis tools in continuous integration pipelines,2017,32,36,3,0.6,2574696675,Fiorella Zampetti,0,-0.0291855379334779,0.0585196112869768
+2619825482,Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks,2017,97,12,4,0.0,2618740479,Chris Mills,0,-0.6187099202079455,0.02124498680478165
+2761320547,Requirements Engineering and Traceability in Agile Software Development,2010,0,0,1,1.0,248023835,Rocco Oliveto,0,-0.0291855379334779,0.0585196112869768
+2749460454,Automatically assessing code understandability how far are we ,2017,35,13,4,0.166667,67342874,Denys Poshyvanyk,0,-0.0291855379334779,0.0585196112869768
+2742512005,On the diffuseness and the impact on maintainability of code smells a large scale empirical investigation,2018,51,61,5,0.527027,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2756039569,The scent of a smell an extensive comparison between textual and structural smells,2018,104,29,4,0.527027,1987128262,Fabio Palomba,0,-0.0291855379334779,0.0585196112869768
+2788285389,On the Usability of Reverse Engineering Tools,2009,0,0,1,1.0,248023835,Rocco Oliveto,0,-0.5858771665552741,0.2641527235267396
+2794607770,Sentiment analysis for software engineering how far can we go ,2018,37,39,2,0.52946,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2789476037,A large-scale empirical study on the lifecycle of code smell co-occurrences,2018,47,19,5,0.527027,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2800568716,Improving Comprehensibility of Source Code via Traceability Information,2006,0,1,1,1.0,248023835,Rocco Oliveto,0,-0.6187099202079455,0.02124498680478165
+2786946663,Enhancing IBM Requisite Pro with IR-based traceability recovery features,2008,18,0,3,0.172256,2128108671,Andrea De Lucia,0,-0.6187099202079455,0.02124498680478165
+2809088578,How do community smells influence code smells,2018,16,9,6,0.527027,1987128262,Fabio Palomba,0,-0.0291855379334779,0.0585196112869768
+2882984136,An empirical investigation on the readability of manual and generated test cases,2018,21,9,4,0.0,2742157969,Giovanni Grano,0,-0.0291855379334779,0.0585196112869768
+2888320259,OCELOT a search-based test-data generation tool for C,2018,22,1,7,1.0,2480241491,Simone Scalabrino,0,0.5182367371860604,-0.0359660275119465
+2888852476,Poster How Do Community Smells Influence Code Smells ,2018,17,2,1,1.0,248023835,Rocco Oliveto,0,-0.0291855379334779,0.0585196112869768
+2889391561,A comprehensive model for code readability,2018,38,6,3,1.0,2480241491,Simone Scalabrino,0,1.323453435907609,0.34530968179285837
+2915605461,Automatically Assessing Code Understandability,2019,0,1,3,0.162703,67342874,Denys Poshyvanyk,0,1.323453435907609,0.34530968179285837
+2900734124,Two Datasets for Sentiment Analysis in Software Engineering,2018,4,5,3,0.0,2658917039,Bin Lin,0,-0.0291855379334779,0.0585196112869768
+2954492316,Data-driven solutions to detect API compatibility issues in Android an empirical study,2019,26,1,5,1.0,2480241491,Simone Scalabrino,0,-0.0291855379334779,0.0585196112869768
+2973518926,Fine-grained management of software artefacts the ADAMS system,2010,47,23,3,0.182686,2128108671,Andrea De Lucia,0,-0.6187099202079455,0.02124498680478165
+3013524257,Improving IR-based Traceability Recovery via Noun-based Indexing of Software Artifacts,2013,0,30,3,0.0,2123911264,Giovanni Capobianco,0,-0.6187099202079455,0.02124498680478165

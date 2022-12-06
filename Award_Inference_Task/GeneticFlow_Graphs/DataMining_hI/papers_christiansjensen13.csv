@@ -1,0 +1,264 @@
+41593,Towards Increasingly Update Efficient Moving-Object Indexing,2002,12,9,1,1.0,2159644763,Christian S. Jensen,0,-0.13275296294680305,-0.071629888206014
+188047557,R-Tree Based Indexing of General Spatio-Temporal Data,1999,22,18,1,1.0,2159644763,Christian S. Jensen,0,-0.4157940758674636,-0.37069757981787765
+120760773,Three Proposals for a Third-Generation Temporal Data Model,1993,12,1,2,0.0881737,699078101,Richard T. Snodgrass,0,0.23718097276165792,0.1331367055876189
+171785512,Spatio-temporal Models and Languages An Approach Based on Data Types,2003,23,26,4,0.302708,172506059,Ralf Hartmut GÃ¼ting,0,-0.11432495726407343,0.5321981702146233
+156162944,Review - R-Trees A Dynamic Index Structure for Spatial Searching,1999,0,1,1,1.0,2159644763,Christian S. Jensen,0,0.003708468606338,0.082832279151172
+23872072,Review - Multi-Step Processing of Spatial Joins,1999,0,1,1,1.0,2159644763,Christian S. Jensen,0,0.003708468606338,0.082832279151172
+78013289,Review the Logical Access Path Schema of a Database,2000,0,0,1,1.0,2159644763,Christian S. Jensen,0,-3.11385098556018,0.520985367576314
+79227567,Mapping Temporal ER Diagrams to Relational Schemas,1998,16,11,3,0.0,2107643231,Leo Mark,0,-1.157430118480339,0.502891460301374
+133259824,S-GRID a versatile approach to efficient query processing in spatial networks,2007,18,23,2,0.833333,2289678969,Xuegang Huang,0,0.003708468606338,0.082832279151172
+153119623,Lopez &quot;Indexing the Positions of Continuously Moving Objects,2000,0,95,2,0.0,227364057,Scott T. Leutenegger,0,0.44148585625188996,-0.3914018358062456
+1558794439,The TreeScape System Reuse of Pre-Computed Aggregates over Irregular OLAP Hierarchies,2000,2,14,2,0.8,2019462106,Torben Bach Pedersen,0,1.2182067606106117,0.3929018396063729
+1488899498,Capturing and Querying Multiple Aspects of Semistructured Data,1999,34,42,3,0.0,2811094840,Curtis E. Dyreson,0,-0.056797094063537334,-0.04350136649882097
+1525406938,Spatio-temporal database management International Workshop STDBM 99 Edinburgh Scotland September 10-11 1999 proceedings,1999,0,3,1,1.0,2159644763,Christian S. Jensen,0,-0.24894299312736828,0.38282318397874465
+1516869194,Editorial The Best of Two Worlds -- Present Your TODS Paper at SIGMOD,2015,0,0,1,1.0,2159644763,Christian S. Jensen,0,-0.006799453288761149,-0.20169485267385479
+1536209792,Elements of a spatial web,2010,0,0,1,1.0,2159644763,Christian S. Jensen,0,0.08333906567970972,-2.370119267507356
+1492100919,Database publication practices,2005,2,5,5,0.0,2304774990,Philip A. Bernstein,0,-0.3394380530009998,-0.0716407767871401
+1527321413,On the Ontological Expressiveness of Temporal Extensions to the Entity-Relationship Model,1999,28,14,2,1.0,2158934891,Heidi Gregersen,0,-0.8319987289855252,0.10325937907707793
+1518738965,Semantics of Time-Varying Attributes and their Use for Temporal Database Design,1995,16,13,1,1.0,2159644763,Christian S. Jensen,0,-1.003470583435488,0.33541172124792434
+1546227028,Notions of upward compatibility of temporal query languages,1997,29,36,3,0.0,2165266057,John Bair,0,-0.25733797427724464,0.010161620889443113
+1519764348,The islands approach to nearest neighbor querying in spatial networks,2005,31,71,2,1.0,2289678969,Xuegang Huang,0,-0.03576206552637079,0.05625899121409672
+1574212474,Spatial joins in main memory implementation matters ,2014,7,17,2,0.882353,2058785602,Darius Sidlauskas,0,0.003708468606338,0.082832279151172
+1556614247,Geo-Enabled mobile servicesâ€”a tale of routes detours and dead ends,2006,13,3,1,1.0,2159644763,Christian S. Jensen,0,-0.24631475925461466,0.01662727508514165
+1503388209,Proceedings of the 5th workshop on Data management for sensor networks,2008,0,0,1,1.0,2159644763,Christian S. Jensen,0,-0.01854512796534517,-0.055567947695012394
+1530466157,Incomplete information in multidimensional databases,2003,43,13,3,0.0,2811094840,Curtis E. Dyreson,0,0.8765414175192928,0.04204798214677282
+1486723877,Novel Approaches in Query Processing for Moving Object Trajectories,2000,21,436,2,0.0,31261168,Yannis Theodoridis,0,-0.11300819442795465,0.09518744858596301
+1567259126,Managing Aging Data Using Persistent Views (Extended Abstract),2000,0,3,2,1.0,283866605,Janne Skyt,0,0.003708468606338,0.082832279151172
+1487543781,The COST benchmarkâ€”comparison and evaluation of spatio-temporal indexes,2006,21,25,2,0.0,2069514046,Nerius Tradisauskas,0,0.18678166298219004,-0.35298047115512143
+1522504723,Conceptual Data Modeling for Spatiotemporal Applications,1999,25,112,2,0.433554,306216343,Nectaria Tryfona,0,-0.23129354125503068,0.16175261762708348
+1836786237,Modeling Topological Constraints in Spatial Part-Whole Relationships,2001,12,20,3,0.0,2949279540,Rosanne Price,0,0.003708468606338,0.082832279151172
+1796251476,Capturing the Uncertainty of Moving-Object Representations,1999,11,424,2,0.923077,2301663918,Dieter Pfoser,0,-0.6266471626404293,0.4047558573088061
+1875199223,Spatial keyword querying,2012,24,102,4,0.809524,2307703274,Xin Cao,0,-0.2604822364645423,0.11905643270907205
+1748990669,Capturing Temporal Constraints in Temporal ER Models,2008,14,164,3,0.0,1975160284,Carlo Combi,0,-0.966035797267125,0.4174555814743731
+1906171242,Indexing of moving objects for location-based services,2002,22,186,2,0.642857,2237193324,Simonas Å altenis,0,0.16784760558125078,0.1948521026652259
+1844322820,A Methodology and a Tool for Spatiotemporal Database Design,1999,7,1,3,0.433554,306216343,Nectaria Tryfona,0,-0.9344821340271202,0.5642417316719193
+1635361254,Using Cameras to Improve Wi-Fi Based Indoor Positioning,2014,22,10,3,1.0,2008861754,Laura Radaelli,0,0.003708468606338,0.082832279151172
+1935047544,Efficient Management of Short-Lived Data,2005,33,3,2,1.0,2475752808,Albrecht Schmidt,0,0.1656019551103819,0.40049106199639006
+1676365440,The Infati Data,2004,6,40,1,1.0,2159644763,Christian S. Jensen,0,0.003708468606338,0.082832279151172
+1909595960,Supporting imprecision in multidimensional databases using granularities,1999,22,47,2,1.0,2019462106,Torben Bach Pedersen,0,0.8887177876016762,0.2568696458144572
+1607709446,The From Clause,1995,2,2,2,0.0881737,699078101,Richard T. Snodgrass,0,-2.2046915690252695,0.7282428412993731
+1852053568,Indexing the Trajectories of Moving Objects in Symbolic Indoor Space,2009,25,57,1,1.0,2159644763,Christian S. Jensen,0,-0.1847743722593346,0.060218323848301614
+1691276035,Spatio-temporal Database Modeling with an Extended Entity-Relationship Model,2008,7,1,2,0.197557,306216343,Nectaria Tryfona,0,-0.9761393902901802,0.43341431260434565
+1941596665,Incremental join of time-oriented data,1999,22,11,2,0.923077,2301663918,Dieter Pfoser,0,-0.0021546577821810833,0.31206651703260885
+1600434233,R-Tree Based Indexing of Now-Relative Bitemporal Data,1998,28,51,2,0.0,2973379511,Rasa Bliujute,0,-0.24593081456338953,-0.21576344072550377
+1707426366,Point-versus interval-based temporal data models,1998,15,79,3,0.642857,2300834035,Michael H. BÃ¶hlen,0,-0.467356079360094,0.17443143205743375
+1780252867,Towards General Temporal Aggregation,2008,12,3,3,0.165525,2300834035,Michael H. BÃ¶hlen,0,-0.8198826529954021,0.5649523486460563
+1782046864,Multi-dimensional aggregation for temporal data,2006,10,45,3,0.207317,2300834035,Michael H. BÃ¶hlen,0,0.12152234379683659,0.20638783556571855
+1949832274,Trajectory Pattern Mining,2011,58,38,2,0.0,2081368286,Man Lung Yiu,0,-0.13275296294680305,-0.071629888206014
+1833098129,Conceptual Modeling of Time-Varying Information,1998,22,49,2,1.0,2158934891,Heidi Gregersen,0,-0.9591474789884314,0.36157848665993514
+1868775070,Query plans for conventional and temporal queries involving duplicates and ordering,2000,21,14,2,1.0,347472556,Giedrius Slivinskas,0,-0.1359684434893468,0.08720380216468357
+1731710124,Light-weight indexing of general bitemporal data,2000,28,25,2,1.0,2023367715,R. Bliujute,0,0.002295881700421657,0.3533254212314382
+1603429789,Efficient Vessel Tracking with Accuracy Guarantees,2008,16,11,3,0.0,214353918,Martin Redoutey,0,0.003708468606338,0.082832279151172
+1971509121,A foundation for capturing and querying complex multidimensional data,2001,49,224,2,0.738462,2019462106,Torben Bach Pedersen,0,0.18433967407398436,0.15392300892395322
+1976746127,Integrating non-spatial preferences into spatial location queries,2014,30,23,4,0.541957,2235441732,Qiang Qu,0,0.2353162648138094,0.228350730718198
+1973263126,EcoMark 20 empowering eco-routing with vehicular environmental models and actual vehicle fuel consumption data,2015,29,44,4,0.714286,2144338935,Chenjuan Guo,0,0.003708468606338,0.082832279151172
+1971602700,Effective timestamping in databases,2000,26,37,2,1.0,2104508450,Kristian Torp,0,0.1429959681500993,0.13994443975531567
+1977031348,Top-k point of interest retrieval using standard indexes,2014,23,7,2,1.0,2118852138,Anders Skovsgaard,0,-0.2539479710030578,-0.06427916846430556
+1968416537,Editorial Updates to the Editorial Board,2015,0,3,1,1.0,2159644763,Christian S. Jensen,0,0.08959252356587845,0.1369296930545041
+1973648822,Object-extended OLAP querying,2009,49,19,4,0.214104,2019462106,Torben Bach Pedersen,0,0.09369870630461523,0.18699317786871017
+1982404841,GroupFinder a new approach to top-k point-of-interest group retrieval,2013,4,9,3,0.0,2033707615,Kenneth S. BÃ¸gh,0,0.003708468606338,0.082832279151172
+1975809876,A generalized framework of exploring category information for question retrieval in community question answer archives,2010,20,86,4,1.0,2307703274,Xin Cao,0,-0.17768346192212375,0.0848641959637884
+1977684066,Indexing of network constrained moving objects,2003,26,101,2,0.532633,2301663918,Dieter Pfoser,0,-0.11767598963295055,-0.21471565738114373
+1972665999,Multidimensional data modeling for location-based services,2002,25,12,1,1.0,2159644763,Christian S. Jensen,0,-0.06607373265136486,0.016593339439860768
+1976137385,Multidimensional data modeling for location-based services,2004,26,111,1,1.0,2159644763,Christian S. Jensen,0,0.269858800138024,0.16170016904399342
+1986739594,Temporal statement modifiers,2000,51,52,2,0.642857,2300834035,Michael H. BÃ¶hlen,0,-0.12053786652442122,0.047981444280229164
+1965821909,Extended Spatiotemporal UML Motivations Requirements and Constructs,2000,0,36,3,0.0,2154387282,Rosanne Price,0,-0.6497063531435748,0.33773100503853903
+1979795383,Unifying temporal data models via a conceptual model,1994,26,87,1,1.0,2159644763,Christian S. Jensen,0,-0.13020865347867558,0.2533434234572168
+1976419037,Indeterminacy and Spatiotemporal Data Basic Definitions and Case Study,2005,40,29,3,0.0,3006896022,Dieter Pfoser,0,0.003708468606338,0.082832279151172
+1987022416,The relational model is dead SQL is dead and I dont feel so good myself,2013,6,43,2,0.0,2112271222,Paolo Atzeni,0,-0.9976472575082548,0.23350477098815905
+1969553592,Computational data modeling for network-constrained moving objects,2003,16,66,2,0.0,2228873600,Laurynas SpeiÄvcys,0,0.11672415509507165,0.0338187686908989
+2004851292,On the semantics of â€œnowâ€ in databases,1997,54,136,4,0.0881737,699078101,Richard T. Snodgrass,0,-0.9650748892164164,0.35373863997655536
+1992732065,Semantics of time-varying information,1996,83,93,1,1.0,2159644763,Christian S. Jensen,0,-0.3296291904115372,0.15243802031905637
+2003645866,Joint Top-K Spatial Keyword Query Processing,2012,33,83,4,0.888889,2118818107,Dingming Wu,0,-0.23903648387182755,0.3043485770088436
+1993369312,Enabling search services on outsourced private spatial data,2010,36,97,3,0.0,2081368286,Man Lung Yiu,0,0.003708468606338,0.082832279151172
+2005854848,Stochastic skyline route planning under time-varying uncertainty,2014,29,75,3,0.939394,2699882373,Bin Yang,0,0.04058852858681295,-0.03346779459016044
+2000616942,A glossary of temporal database concepts,1992,2,159,1,1.0,2159644763,Christian S. Jensen,0,-0.4239844318379835,0.006796866499987453
+2002471647,Nearest neighbor queries in road networks,2003,15,168,1,1.0,2159644763,Christian S. Jensen,0,-0.8510939278830219,0.911650442725236
+1990335280,Highlights from ACM SIGSPATIAL GIS 2011 the 19th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (Chicago Illinois - November 1 - 4 2011),2012,0,0,1,1.0,2159644763,Christian S. Jensen,0,0.7699047827475531,1.239428187949096
+2008003976,Toward personalized context-aware routing,2015,27,47,4,0.939394,2699882373,Bin Yang,0,0.003708468606338,0.082832279151172
+1990588199,Personalized trajectory matching in spatial networks,2014,34,92,4,0.286932,2127782577,Shuo Shang,0,-0.1773842442309081,-0.032039910520238024
+2013568876,Modeling part-whole relationships for spatial data,2000,8,7,3,0.0,2154387282,Rosanne Price,0,-1.0658114233284075,0.9593147025457469
+2017350707,A moving-object index for efficient query processing with peer-wise location privacy,2011,33,5,2,0.141736,2238753429,Dan Lin,0,0.003708468606338,0.082832279151172
+2010961808,Scalable continuous range monitoring of moving objects in symbolic indoor space,2009,19,34,3,0.778268,2699882373,Bin Yang,0,-0.14255436113902986,0.20337351355405242
+2018385279,Developing a DataBlade for a new index,1999,21,34,4,1.0,2023367715,R. Bliujute,0,0.1709626458994229,0.5748226843089701
+2032521898,A foundation for representing and querying moving objects,2000,34,658,4,0.302708,172506059,Ralf Hartmut GÃ¼ting,0,-0.2629652758720459,0.16888912221047397
+2030738730,An extensible notation for spatiotemporal index queries,1998,24,33,2,0.0,8132329,Vassilis J. Tsotras,0,0.003708468606338,0.082832279151172
+2016768375,Specification-based data reduction in dimensional data warehouses,2008,20,21,2,1.0,283866605,Janne Skyt,0,0.16784664894918136,0.19772595120863387
+2032724558,A foundation for vacuuming temporal databases,2003,24,34,2,1.0,283866605,Janne Skyt,0,-0.15911561534962415,0.04286403121401772
+2029209936,Indexing of now-relative spatio-bitemporal data,2002,30,12,2,0.642857,2237193324,Simonas Å altenis,0,-0.4542175764290728,-0.0025237707761214486
+2045420057,Upgrading Uncompetitive Products Economically,2012,18,10,2,0.289671,2131547583,Hua Lu,0,0.04058852858681295,-0.03346779459016044
+2043707684,Layered Temporal DBMS Concepts and Techniques,1997,16,19,2,1.0,2104508450,Kristian Torp,0,-0.9889922743601703,0.18747314858649036
+2043112128,Data management on the spatial web,2012,0,1,1,1.0,2159644763,Christian S. Jensen,0,0.026928652652054363,-2.3646314417261367
+2041387176,Using differential techniques to efficiently support transaction time,1993,61,16,1,1.0,2159644763,Christian S. Jensen,0,-0.7652445304050755,0.35768176891853587
+2036089660,The use of categorization information in language models for question retrieval,2009,24,91,4,1.0,2307703274,Xin Cao,0,-0.17768346192212375,0.0848641959637884
+2048724530,Identifying Typical Movements among Indoor Objects -- Concepts and Empirical Study,2013,19,7,4,1.0,2008861754,Laura Radaelli,0,-0.313250122242983,0.3019422694332269
+2073494180,Trajectory based optimal segment computation in road network databases,2013,10,5,3,0.0,2309355923,Xiaohui Li,0,0.21438872843298346,-0.1353423822296997
+2071898519,A framework for efficient spatial web object retrieval,2012,43,77,3,0.888889,2118818107,Dingming Wu,0,0.04259762386698039,-0.015376635798235982
+2070138514,Enabling Routes of Road Network Constrained Movements as Mobile Service Context,2007,22,14,1,1.0,2159644763,Christian S. Jensen,0,0.003708468606338,0.082832279151172
+2067193733,Mining significant semantic locations from GPS data,2010,24,239,3,1.0,2307703274,Xin Cao,0,0.003708468606338,0.082832279151172
+2069069662,Travel cost inference from sparse spatio temporally correlated time series using Markov models,2013,16,82,2,0.655206,2144338935,Chenjuan Guo,0,0.003708468606338,0.082832279151172
+2071043480,Scalable top-k spatio-temporal term querying,2014,36,43,3,1.0,2118852138,Anders Skovsgaard,0,-0.02393867373550007,-0.19958636762581128
+2074623619,Effective Online Group Discovery in Trajectory Databases,2013,28,29,3,0.0,2309355923,Xiaohui Li,0,-0.6765548305973264,2.115837301902431
+2071155420,SWORS a system for the efficient retrieval of relevant spatial web objects,2012,5,10,3,0.809524,2307703274,Xin Cao,0,-0.3433527215432752,0.11417776579862302
+2099382853,Guest editorial Special section on the international conference on data engineering,2015,0,0,3,0.0,281056960,Chris Jermaine,0,0.003708468606338,0.082832279151172
+2102375805,Workload-aware indexing of continuously moving objects,2009,31,27,3,1.0,2061716913,Kostas Tzoumas,0,-0.9340104189179619,-0.6892392232264224
+2099464320,An apples-to-apples comparison of two database journals,2005,1,6,4,0.0,2304774990,Philip A. Bernstein,0,-0.5382003747333197,0.07543261150339188
+2092704925,Extending OLAP querying to external object databases,2000,24,35,4,0.8,2019462106,Torben Bach Pedersen,0,0.22795622917882494,0.26525860729097345
+2083998252,Querying the trajectories of on-line mobile objects,2001,17,47,2,0.923077,2301663918,Dieter Pfoser,0,-0.14255436113902986,0.20337351355405242
+2085967996,A Clustering Approach to the Discovery of Points of Interest from Geo-Tagged Microblog Posts,2014,22,5,3,1.0,2118852138,Anders Skovsgaard,0,-0.08166459854990887,0.25195843004980645
+2103064203,Adaptable query optimization and evaluation in temporal middleware,2001,51,106,2,1.0,347472556,Giedrius Slivinskas,0,-0.11252933999612166,0.08211909820066597
+2100156887,Retrieving top-k prestige-based relevant spatial web objects,2010,24,131,3,1.0,2307703274,Xin Cao,0,-0.01657107088421793,0.035389748403282274
+2093189534,Google fusion tables web-centered data management and collaboration,2010,6,145,3,1.0,2952313629,Hector Gonzalez,0,-0.43591270043761937,-0.5733276759170812
+2097597750,Novel Approaches to the Indexing of Moving Object Trajectories,2000,21,314,2,0.923077,2301663918,Dieter Pfoser,0,-0.2169444416190975,0.19822117565735864
+2095234602,A Foundation for Efficient Indoor Distance-Aware Query Processing,2012,18,35,3,0.289671,2131547583,Hua Lu,0,-0.2539479710030578,-0.06427916846430556
+2093526414,Main-memory operation buffering for efficient R-tree update,2007,25,37,3,0.0,313954749,Laurynas Biveinis,0,-0.42910212977147827,-0.6420139005593621
+2095486388,Chorochronos a research network for spatiotemporal database systems,1999,48,38,4,0.0,2095605808,Andrew U. Frank,0,-2.4975001877704277,1.046957414825245
+2101429492,Indexing the positions of continuously moving objects,2000,25,854,4,0.642857,2237193324,Simonas Å altenis,0,-0.24152661586846053,0.07578543678860279
+2079891094,Sharing-aware horizontal partitioning for exploiting correlations during query processing,2010,18,8,3,1.0,2061716913,Kostas Tzoumas,0,-0.0395804122397981,0.0068802457672825015
+2101903378,Efficient Processing of Spatial Group Keyword Queries,2015,38,39,4,0.676201,2307703274,Xin Cao,0,-0.0395804122397981,0.0068802457672825015
+2088920665,Parallel main-memory indexing for moving-object query and update workloads,2012,29,44,3,0.882353,2058785602,Darius Sidlauskas,0,-0.13275296294680305,-0.071629888206014
+2102023823,Efficient evaluation of the valid-time natural join,1994,25,73,3,0.0,2077624740,Michael D. Soo,0,-0.7671038222366763,0.5571096673610175
+2094198961,Report on the 1995 international workshop on temporal databases,1995,0,8,2,0.0,2986326717,Arie Segev,0,-0.8198826529954021,0.5649523486460563
+2102192674,Hyper-local directions-based ranking of places,2011,25,40,3,0.0,1989096520,Petros Venetis,0,0.003708468606338,0.082832279151172
+2089059416,Efficiently adapting graphical models for selectivity estimation,2013,39,19,3,0.5,2061716913,Kostas Tzoumas,0,-0.7115739254660983,0.16717641040082076
+2141136363,Discovery of convoys in trajectory databases,2008,23,322,4,0.5,2200425846,Hoyoung Jeung,0,-0.24631475925461466,0.01662727508514165
+2120284981,Approaches to Exploring Category Information for Question Retrieval in Community Question-Answer Archives,2012,38,30,4,0.809524,2307703274,Xin Cao,0,-0.17768346192212375,0.0848641959637884
+2114608211,Path prediction and predictive range querying in road network databases,2010,31,124,4,0.5,2200425846,Hoyoung Jeung,0,-0.5454619768840632,0.41211953999546713
+2123412709,Towards location-based access control in healthcare emergency response,2009,8,4,5,0.75,2469251682,Carmen Ruiz Vicente,0,0.003708468606338,0.082832279151172
+2132224358,Extending Practical Pre-Aggregation in On-Line Analytical Processing,1999,21,73,2,1.0,2019462106,Torben Bach Pedersen,0,1.963819771070142,1.017580655796884
+2123512454,Spatio-temporal joins on symbolic indoor tracking data,2011,26,26,3,0.315294,2131547583,Hua Lu,0,-0.24631475925461466,0.01662727508514165
+2123588622,Temporal entity-relationship models-a survey,1999,35,178,2,1.0,2158934891,Heidi Gregersen,0,-0.8511037053309459,0.31299563562236765
+2126571825,Answering why-not questions on spatial keyword top-k queries,2015,28,32,4,1.0,2623672631,Lei Chen,0,-0.01657107088421793,0.035389748403282274
+2105945128,A Conceptual Schema Language for the Management of Multiple Representations of Geographic Entities,2005,19,15,2,1.0,2062388290,Anders Friis Christensen,0,-0.5602447111227961,0.340576060416353
+2106039348,Efficient Top-k Spatial Locality Search for Co-located Spatial Web Objects,2014,17,18,4,0.541957,2235441732,Qiang Qu,0,0.8804307039779677,0.25490980853198614
+2106125778,A foundation for conventional and temporal query optimization addressing duplicates and ordering,2001,40,20,2,1.0,347472556,Giedrius Slivinskas,0,-0.1359684434893468,0.08720380216468357
+2129741585,A benchmark for evaluating moving object indexes,2008,23,74,2,0.642857,2133737253,Su Chen,0,-0.13275296294680305,-0.071629888206014
+2141937379,Specification-based data reduction in dimensional data warehouses,2002,14,10,2,1.0,283866605,Janne Skyt,0,-0.02293785057480909,0.31144458979040546
+2112238703,Research issues in clinical data warehousing,1998,12,67,2,1.0,2019462106,Torben Bach Pedersen,0,-0.05132038835054264,0.11208975253011877
+2132810275,Effectively indexing uncertain moving objects for predictive queries,2009,23,63,3,0.0,2150446338,Meihui Zhang,0,-0.13275296294680305,-0.071629888206014
+2132870420,Probabilistic threshold k nearest neighbor queries over moving objects in symbolic indoor space,2010,27,67,3,0.782235,2699882373,Bin Yang,0,-0.13275296294680305,-0.071629888206014
+2135916570,Effective Density Queries on ContinuouslyMoving Objects,2006,17,74,1,1.0,2159644763,Christian S. Jensen,0,0.003708468606338,0.082832279151172
+2142285783,Enabling Scalable Geographic Service Sharing with Weighted Imprecise Voronoi Cells,2016,32,6,6,0.55434,2137671219,Xike Xie,0,0.003708468606338,0.082832279151172
+2142532714,Enabling Italian e-government through a cooperative architecture,2001,17,256,2,0.738462,2019462106,Torben Bach Pedersen,0,0.3297261683932111,0.413590072697817
+2139540256,Nearest neighbor and reverse nearest neighbor queries for moving objects,2002,25,256,2,0.0,2276749104,R. Benetis,0,0.11935209218849636,0.25360714770006126
+2112935723,Management of multiply represented geographic entities,2002,23,10,3,1.0,2062388290,Anders Friis Christensen,0,0.5765622873750413,0.060681427149682624
+2130647711,Expiration Times for Data Management,2006,28,9,2,1.0,2475752808,Albrecht Schmidt,0,-0.4744154919219184,0.17220812814844733
+2116132637,Temporal specialization and generalization,1994,71,62,1,1.0,2159644763,Christian S. Jensen,0,-0.5553855724995141,0.3551552967905961
+2142920883,Requirements and research issues in geographic data modeling,2001,17,66,3,1.0,2062388290,Anders Friis Christensen,0,-0.08429325747331588,0.534591744254117
+2143056612,How Would You Like to Aggregate Your Temporal Data,2006,40,11,3,0.207317,2300834035,Michael H. BÃ¶hlen,0,-0.049367847066019856,0.37656819707441386
+2107391785,Routing Questions to the Right Users in Online Communities,2009,17,99,4,0.0,2312166528,Yanhong Zhou,0,-0.04187569408681407,0.051511216719400864
+2140048308,Efficient retrieval of the top-k most relevant spatial web objects,2009,34,421,2,0.0,2295915604,Gao Cong,0,0.2073967866920161,0.4056035643344491
+2131098795,Spatio-Temporal Databases The CHOROCHRONOS Approach,2003,0,131,12,0.0,19930516,Nikos A. Lorentzos,0,-0.014423924910985653,0.03212101078075025
+2122323423,Extending existing dependency theory to temporal databases,1996,58,63,1,1.0,2159644763,Christian S. Jensen,0,-1.0547751860460348,0.3516514541148367
+2137092658,Indexing Metric Uncertain Data for Range Queries,2015,49,5,4,0.954545,2657531523,Lu Chen,0,0.17161493125882057,0.3522367466190697
+2107551853,Supporting frequent updates in R-trees a bottom-up approach,2003,40,166,3,0.0,2159408573,Mong Li Lee,0,-0.24631475925461466,0.01662727508514165
+2134155667,Using the lock manager to choose timestamps,2005,16,16,3,0.0,1983664831,David B. Lomet,0,-2.5072721634549833,1.0274928680668396
+2131322424,Incremental implementation model for relational databases with transaction time,1991,39,76,1,1.0,2159644763,Christian S. Jensen,0,-1.195055131818329,0.364165817874326
+2140521683,Towards context-aware search and analysis on social media data,2013,19,38,3,0.0,2003830579,Leon Derczynski,0,-0.042684940910344,0.30693136819946676
+2128800833,SpaceTwist Managing the Trade-Offs Among Location Privacy Query Performance and Query Accuracy in Mobile Services,2008,22,287,2,0.0,2081368286,Man Lung Yiu,0,-0.01657107088421793,0.035389748403282274
+2122868005,Efficient continuously moving top-k spatial keyword query processing,2011,22,109,3,0.888889,2118818107,Dingming Wu,0,0.003708468606338,0.082832279151172
+2122872794,Moving spatial keyword queries Formulation methods and analysis,2013,40,19,3,0.888889,2118818107,Dingming Wu,0,0.003708468606338,0.082832279151172
+2111216087,Unification of temporal data models,1993,26,23,1,1.0,2159644763,Christian S. Jensen,0,-0.9211943684657964,0.7734164592297512
+2114292336,Efficient indexing of the historical present and future positions of moving objects,2005,16,70,2,0.141736,2238753429,Dan Lin,0,-0.26587543087016996,-0.10101410174499403
+2144134823,Outsourced Similarity Search on Metric Data Assets,2012,31,80,3,0.0,2081368286,Man Lung Yiu,0,-0.1984714131877254,-0.08331523624254955
+2156301108,Enabling Time-Dependent Uncertain Eco-Weights For Road Networks,2014,25,4,2,0.939394,2699882373,Bin Yang,0,0.003708468606338,0.082832279151172
+2156404870,Continuous Clustering of Moving Objects,2007,30,115,1,1.0,2159644763,Christian S. Jensen,0,-0.9536371935537054,3.2064488463684175
+2162457335,Efficient differential timeslice computation,1998,29,11,3,1.0,2104508450,Kristian Torp,0,0.10174035700436017,0.36835091852779056
+2147596559,Retrieving regions of interest for user exploration,2014,21,33,3,0.721392,2307703274,Xin Cao,0,0.003708468606338,0.082832279151172
+2159599286,Preserving location and absence privacy in geo-social networks,2010,8,64,5,0.0,2093531430,Dario Freni,0,0.003708468606338,0.082832279151172
+2165735734,Collective spatial keyword querying,2011,16,224,3,1.0,2307703274,Xin Cao,0,-0.01657107088421793,0.035389748403282274
+2171740677,The Surrogate Data Type,1995,0,8,1,1.0,2159644763,Christian S. Jensen,0,0.003708468606338,0.082832279151172
+2153802694,Indoorâ€”A New Data Management Frontier,2010,15,38,2,0.315294,2131547583,Hua Lu,0,-0.2539479710030578,-0.06427916846430556
+2156703312,Techniques for efficient road-network-based tracking of moving objects,2005,20,176,2,0.0,2460854745,Alminas ÄŒivilis,0,-0.3049247326517621,0.1886461481807304
+2162882408,Object-relational management of multiply represented geographic entities,2003,11,14,2,1.0,2062388290,Anders Friis Christensen,0,-0.37962164753684924,0.08874567345767605
+2148007729,Multidimensional data modeling for complex data,1999,25,183,2,1.0,2019462106,Torben Bach Pedersen,0,0.16318426054348106,0.022439610457637878
+2169057819,Temporal data management,1999,24,249,1,1.0,2159644763,Christian S. Jensen,0,-0.44691715017696954,0.14473000748841708
+2166093864,Stratum approaches to temporal DBMS implementation,1998,20,27,2,1.0,2104508450,Kristian Torp,0,-1.8733925783138738,0.7852490211715072
+2160128361,Finding top-k relevant groups of spatial web objects,2015,30,15,2,1.0,2118852138,Anders Skovsgaard,0,-0.07637362924213521,-0.5310476841407231
+2151295706,Discovery of Path Nearby Clusters in Spatial Networks,2015,46,47,3,0.286932,2127782577,Shuo Shang,0,-0.06833903640708949,0.4838360420499713
+2163240626,I2RS a distributed geo-textual image retrieval and recommendation system,2015,7,6,4,0.954545,2657531523,Lu Chen,0,0.08329114195231535,0.32893178638165566
+2169481698,Similarity-based prediction of travel times for vehicles traveling on known routes,2008,23,49,2,1.0,2073314587,Dalia Tiesyte,0,-0.1984714131877254,-0.08331523624254955
+2160512268,Enhancing an Extensible Query Optimizer with Support for Multiple Equivalence Types,2001,16,2,2,1.0,347472556,Giedrius Slivinskas,0,-0.9037099314668305,0.4060961390351115
+2166597993,TRAX real-world tracking of moving objects,2007,18,24,2,0.0,2024213975,Stardas Pakalnis,0,0.003708468606338,0.082832279151172
+2163511921,Outsourcing Search Services on Private Spatial Data,2009,13,42,3,0.0,2081368286,Man Lung Yiu,0,0.12595265820037338,0.43793680917641964
+2166636216,Design and analysis of a ranking approach to private location-based services,2011,54,38,2,0.0,2081368286,Man Lung Yiu,0,-0.3291976808020441,-0.13703470885516322
+2154644815,Modification semantics in now-relative databases,2004,30,11,2,0.767442,2104508450,Kristian Torp,0,-0.25131521816270536,0.20909292218401396
+2166741129,Efficient metric indexing for similarity search,2015,41,27,4,0.954545,2657531523,Lu Chen,0,-0.2628711549597703,0.08630019383395121
+2166793129,Authentication of Moving Top-k Spatial Keyword Queries,2015,41,26,4,0.553119,2118818107,Dingming Wu,0,-0.01657107088421793,0.035389748403282274
+2169824816,Queries on change in an extended relational model,1992,34,18,1,1.0,2159644763,Christian S. Jensen,0,-1.0924319711389314,0.5260434497005649
+2163820446,Multiple k nearest neighbor query processing in spatial network databases,2006,13,4,2,1.0,2289678969,Xuegang Huang,0,-0.19968406973555036,1.3865277725313905
+2155044259,Using Incomplete Information for Complete Weight Annotation of Road Networks,2014,26,53,3,0.939394,2699882373,Bin Yang,0,0.003708468606338,0.082832279151172
+2146206161,Efficient Similarity Retrieval in Music Databases,2006,26,5,2,0.0,2309005975,Maria M. Ruxanda,0,-0.3188698585152058,0.025842993751094168
+2167275936,Spatial keyword query processing an experimental evaluation,2013,26,193,3,0.37937,2106043476,Lisi Chen,0,-0.23849954887946326,-0.20847270551916916
+2149332744,Flexible and Efficient Resolution of Skyline Query Size Constraints,2011,30,28,2,0.315294,2131547583,Hua Lu,0,-0.0005640786374360995,-0.045335792265642626
+2155713641,Query and update efficient B + -tree based indexing of moving objects,2004,26,274,2,0.0,2037466936,Beng Chin Ooi,0,-0.3234910699315193,-0.0881550085539677
+2168170711,Robust B+-Tree-Based Indexing of Moving Objects,2006,14,24,1,1.0,2159644763,Christian S. Jensen,0,-0.220123896424111,-0.09302852321289727
+2238295868,Synthesis of partial rankings of points of interest using crowdsourcing,2015,21,5,3,1.0,2344666809,Ilkcan Keles,0,0.23447002456144056,0.35297506154309793
+2192817357,A Foundation for Vacuuming Temporal Databases,2003,0,0,2,1.0,283866605,Janne Skyt,0,-0.3049247326517621,0.1886461481807304
+2263820108,Interestingness-driven diffusion process summarization in dynamic networks,2014,29,34,3,0.541957,2235441732,Qiang Qu,0,0.003708468606338,0.082832279151172
+2218440399,Supporting Temporal Data Management Applications via Stratum Approaches,1998,0,1,3,0.0881737,699078101,Richard T. Snodgrass,0,-0.9230450125381722,0.70019851436394
+2313076811,Collective Travel Planning in Spatial Networks,2016,21,59,4,0.23587,2127782577,Shuo Shang,0,0.12595265820037338,0.43793680917641964
+2294541523,Temporal specialization,1992,18,35,1,1.0,2159644763,Christian S. Jensen,0,-0.8080296644619912,0.2854412054391656
+2281672452,Data Representation and Indexing in Location-Enabled M-Services,2002,10,0,1,1.0,2159644763,Christian S. Jensen,0,-0.2783896939578793,-0.194137951562762
+2286094079,A Foundation for Conventional and Temporal Query Optimization,2000,0,0,3,1.0,347472556,Giedrius Slivinskas,0,-0.1029618939806145,0.040434369851773004
+2345132233,Efficient Metric Indexing for Similarity Search and Similarity Joins,2017,48,14,4,0.954545,2657531523,Lu Chen,0,-0.13431105104107433,0.10717228323200671
+2337280815,Elite an elastic infrastructure for big spatiotemporal trajectories,2016,41,15,5,0.55434,2137671219,Xike Xie,0,-0.7174379938864476,0.4908877747384261
+2396635388,Lightweight graphical models for selectivity estimation without independence assumptions,2011,17,26,3,0.857143,2061716913,Kostas Tzoumas,0,-0.0395804122397981,0.0068802457672825015
+2402702568,Finding Frequently Visited Indoor POIs Using Symbolic Indoor Tracking Data,2016,28,9,4,0.151034,2131547583,Hua Lu,0,0.003708468606338,0.082832279151172
+2438910195,Answering why-not spatial keyword top-k queries via keyword adaption,2016,33,18,4,1.0,2623672631,Lei Chen,0,-0.01657107088421793,0.035389748403282274
+2440199141,Querying Geo-Textual Data Spatial Keyword Queries and Beyond,2016,66,17,2,0.0,2295915604,Gao Cong,0,0.003708468606338,0.082832279151172
+2426860188,Answering why-not questions on metric probabilistic range queries,2016,39,8,4,0.954545,2657531523,Lu Chen,0,-0.07102029488425389,0.09309474831401238
+2483845706,CrowdRankEval A Ranking Function Evaluation Framework for Spatial Keyword Queries,2016,5,0,2,1.0,2344666809,Ilkcan Keles,0,0.003708468606338,0.082832279151172
+2481245777,A Density-Based Approach to the Retrieval of Top-K Spatial Textual Clusters,2016,23,5,2,0.497558,2118818107,Dingming Wu,0,-0.01657107088421793,0.035389748403282274
+2525908418,Enabling time-dependent uncertain eco-weights for road networks,2017,28,21,3,1.0,2510121455,Jilin Hu,0,0.003708468606338,0.082832279151172
+2505600421,The COST benchmark Comparison and evaluation of spatio-temporal indexes,2006,0,9,3,0.0,2069514046,Nerius Tradisauskas,0,0.18678166298219004,-0.35298047115512143
+2505634814,Effective Similarity Search on Indoor Moving-Object Trajectories,2016,26,5,4,0.0,2163694057,Peiquan Jin,0,0.05032137405439746,-0.19665778173700396
+2516984398,Efficient Online Summarization of Large-Scale Dynamic Networks,2016,41,24,4,0.541957,2235441732,Qiang Qu,0,0.003708468606338,0.082832279151172
+2584879728,Clue-based spatio-textual query,2017,21,7,6,0.0,2652584723,Junling Liu,0,0.37103880931892946,0.002483646259652842
+2546460896,Extending the Kernel of a Relational DBMS with Comprehensive Support for Sequenced Temporal Queries,2016,51,15,4,0.0,1683888383,Anton DignÃ¶s,0,-0.5194716275181903,0.02058666509799324
+2546571155,YASK a why-not question answering engine for spatial keyword query services,2016,8,7,3,1.0,2623672631,Lei Chen,0,-0.17768346192212375,0.0848641959637884
+2585750584,Multiple k nearest neighbor query processing in spatial network databases,2006,0,14,2,1.0,2289678969,Xuegang Huang,0,-0.19968406973555036,1.3865277725313905
+2565033257,Efficient in-memory indexing of network-constrained trajectories,2016,25,11,2,0.0,2033103239,Benjamin Bjerre Krogh,0,-0.13275296294680305,-0.071629888206014
+2734243786,Database Systems for Advanced Applications 19th International Conference DASFAA 2014 Bali Indonesia April 21-24 2014 Proceedings Part II,2014,0,0,1,1.0,2159644763,Christian S. Jensen,0,0.23549242817594399,0.2645274914255366
+2619058717,Indexing metric uncertain data for range queries and range joins,2017,48,9,4,0.954545,2657531523,Lu Chen,0,0.5615977222263321,0.4824590630476102
+2614175038,Extracting visited points of interest from vehicle trajectories,2017,15,2,5,1.0,2344666809,Ilkcan Keles,0,0.07482869996985149,0.19230742741290474
+2603192734,Searching Trajectories by Regions of Interest,2017,24,54,3,0.220294,2127782577,Shuo Shang,0,-0.1029618939806145,0.040434369851773004
+2729562300,Assessing the Accuracy Benefits of On-the-Fly Trajectory Selection in Fine-Grained Travel-Time Estimation,2017,12,2,4,0.857143,2732160709,Robert Waury,0,0.003708468606338,0.082832279151172
+2615650274,Reverse Top-k Geo-Social Keyword Queries in Road Networks,2017,34,8,4,0.0,2495572906,Jingwen Zhao,0,-0.01657107088421793,0.035389748403282274
+2615890657,Reverse Keyword-Based Location Search,2017,21,5,4,0.55434,2137671219,Xike Xie,0,-0.01657107088421793,0.035389748403282274
+2616071153,Collective Travel Planning in Spatial Networks,2017,8,3,4,0.220294,2127782577,Shuo Shang,0,0.003708468606338,0.082832279151172
+2706582989,Skyline Ordering A Flexible Framework for Efficient Resolution of Size Constraints on Skyline Queries,2010,31,1,2,0.315294,2131547583,Hua Lu,0,0.04058852858681295,-0.03346779459016044
+2612154380,S-GRID A Versatile Approach to Efficient Query Processing in Spatial Networks,2007,15,6,2,0.833333,2289678969,Xuegang Huang,0,-0.1029618939806145,0.040434369851773004
+2593436472,Semantics Knowledge and Grid 2009 SKG 2009 Fifth International Conference,2009,0,0,1,1.0,2159644763,Christian S. Jensen,0,0.003708468606338,0.082832279151172
+2724806710,Pivot-based metric indexing,2017,31,11,4,0.954545,2657531523,Lu Chen,0,-0.12289809704517748,0.02904847641609687
+2768361919,PACE a PAth-CEntric paradigm for stochastic path finding,2018,42,25,4,0.635841,2699882373,Bin Yang,0,0.003708468606338,0.082832279151172
+2775487533,Towards Why-Not Spatial Keyword Top-$k$ Queries A Direction-Aware Approach,2018,35,7,4,0.9375,2623672631,Lei Chen,0,0.08156854054721775,0.4053539035348171
+2751694342,Trajectory similarity join in spatial networks,2017,21,62,4,0.220294,2127782577,Shuo Shang,0,-0.24631475925461466,0.01662727508514165
+2776226533,Interactive Intersection Analysis using Trajectory Data,2017,5,1,3,0.0,2483247765,Johannes L. Borresen,0,0.003708468606338,0.082832279151172
+2767936261,SWOOP Top-k Similarity Joins over Set Streams,2017,23,1,3,0.0,2781644915,Mann Willi,0,-0.13275296294680305,-0.071629888206014
+2795016801,Deep Representation Learning for Trajectory Similarity Computation,2018,40,17,4,0.0,2794465506,Xiucheng Li,0,0.2313655515637084,-0.09464674924252621
+2795142517,Learning to Route with Sparse Trajectory Sets,2018,35,19,4,0.724213,2144338935,Chenjuan Guo,0,-0.004538237359067869,0.2859525243347512
+2785409760,Risk-aware path selection with time-varying uncertain travel costs a time series approach,2018,42,22,4,1.0,2510121455,Jilin Hu,0,0.003708468606338,0.082832279151172
+2795402696,Parallel trajectory similarity joins in spatial networks,2018,28,31,4,0.162484,2127782577,Shuo Shang,0,-0.24631475925461466,0.01662727508514165
+2804311930,Continuous Spatial Query Processing A Survey of Safe Region Based Techniques,2018,113,5,3,0.0,2152307702,Jianzhong Qi,0,0.08156854054721775,0.4053539035348171
+2841091033,Parallel Trajectory-to-Location Join,2019,25,21,4,0.136148,2127782577,Shuo Shang,0,-0.0225201767498668,-0.10675416448009602
+2898205800,Searching Trajectories by Regions of Interest,2018,4,1,3,0.162484,2127782577,Shuo Shang,0,0.12595265820037338,0.43793680917641964
+2913551170,On Network Embedding for Machine Learning on Road Networks A Case Study on the Danish Road Network,2018,18,2,2,0.0,2611322515,Tobias Skovgaard Jepsen,0,0.003708468606338,0.082832279151172
+2897668826,Distinguishing Trajectories from Different Drivers using Incompletely Labeled Trajectories,2018,48,8,4,0.0,2874043141,Tung Kieu,0,0.003708468606338,0.082832279151172
+2935036255,Indexing Trajectories for Travel-Time Histogram Retrieval,2019,0,0,2,0.857143,2732160709,Robert Waury,0,-0.13275296294680305,-0.071629888206014
+2950019211,Stochastic Weight Completion for Road Networks Using Graph Convolutional Networks,2019,28,8,4,1.0,2510121455,Jilin Hu,0,0.003708468606338,0.082832279151172
+2952501509,A Density-Based Approach to the Retrieval of Top-K Spatial Textual Clusters,2016,34,0,2,0.497558,2118818107,Dingming Wu,0,-0.2425002970737434,0.5117631215239193
+2963632362,Statistical Inference of Diffusion Networks,2019,0,0,5,0.0,2587592628,Hao Huang,0,0.003708468606338,0.082832279151172
+2951288575,Discovery of Convoys in Trajectory Databases,2010,17,4,4,0.5,2200425846,Hoyoung Jeung,0,-0.24631475925461466,0.01662727508514165
+2951429637,Trajectory Based Optimal Segment Computation in Road Network Databases,2013,17,0,3,0.0,2309355923,Xiaohui Li,0,0.21438872843298346,-0.1353423822296997
+2976035277,Efficient distributed reachability querying of massive temporal graphs,2019,48,0,7,0.0,2921162305,Tianming Zhang,0,0.003708468606338,0.082832279151172
+2966886861,Analyzing Trajectories Using a Path-based API,2019,5,0,3,0.857143,2732160709,Robert Waury,0,0.053187687455340936,-0.16559227334086646
+2987715998,Fast stochastic routing under time-varying uncertainty,2019,50,1,3,0.0,2987551635,Simon Aagaard Pedersen,0,0.003708468606338,0.082832279151172
+2970604792,Finding attribute-aware similar regions for data analysis,2019,25,1,2,0.0,2096398238,Kaiyu Feng,0,0.003708468606338,0.082832279151172
+3002964390,Introduction to Spatio-temporal data management and analytics for Smart City research,2020,0,0,3,0.0,2951497056,Shuo Shang,0,-0.4518947249604548,0.4397694896219952
+2965977697,Real-time distributed co-movement pattern detection on streaming trajectories,2019,0,0,5,0.768262,2657531523,Lu Chen,0,0.003708468606338,0.082832279151172
+3011820231,Context-aware preference-based vehicle routing,2020,45,0,4,0.705362,2144338935,Chenjuan Guo,0,0.003708468606338,0.082832279151172
+3020847968,Indexing Metric Spaces for Exact Similarity Search,2020,119,0,6,0.704829,2657531523,Lu Chen,0,-0.10500469332660486,-0.001818234938680302
+3013931120,Compression of uncertain trajectories in road networks,2020,0,0,4,0.0,3012985507,Tianyi Li,0,0.003708468606338,0.082832279151172
+3010662151,Efficient targeted influence minimization in big social networks,2020,18,0,5,0.0,2614303458,Xinjue Wang,0,0.003708468606338,0.082832279151172
+2616309894,Direction-Aware Why-Not Spatial Keyword Top-k Queries,2017,4,4,5,0.9375,2623672631,Lei Chen,0,-0.01657107088421793,0.035389748403282274

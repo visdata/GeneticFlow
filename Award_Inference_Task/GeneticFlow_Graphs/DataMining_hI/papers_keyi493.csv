@@ -1,0 +1,57 @@
+3487859,An Information-Theoretic Approach to Detecting Changes in Multi-Dimensional Data Streams,2006,34,142,3,0.224213,425249397,Tamraparni Dasu,0,0.0839878064226997,0.2895306589033055
+101418091,I/o-efficient algorithms for processing massive spatial data,2006,0,1,1,1.0,2115752352,Ke Yi,0,0.04515907938620209,0.11819471144034478
+1563234575,Change (Detection) You Can Believe in Finding Distributional Shifts in Data Streams,2009,25,27,5,0.224213,425249397,Tamraparni Dasu,0,-0.1071931497347323,0.3242721482837629
+1510763264,Piecewise linear approximation of streaming time series data with max-error guarantees,2015,24,23,2,1.0,2230405244,Ge Luo,0,0.21438872843298346,-0.1353423822296997
+1521917342,Tracking distributed aggregates over time-based sliding windows,2012,21,14,2,0.0,2190072679,Graham Cormode,0,0.003708468606338,0.082832279151172
+1686241726,Verifying computations with streaming interactive proofs,2011,27,37,3,0.0,2190072679,Graham Cormode,0,0.003708468606338,0.082832279151172
+1964376941,Small synopses for group-by query verification on outsourced data streams,2009,55,24,1,1.0,2115752352,Ke Yi,0,0.0051178473714469,0.21111651826605052
+1971731845,Persistent Data Sketching,2015,33,19,3,0.857143,2171059981,Zhewei Wei,0,0.0035905354950830984,0.3903799150559162
+1970603510,TerraStream from elevation data to watershed hierarchies,2007,31,67,3,0.0,2006346578,Andrew Danner,0,0.21438872843298346,-0.1353423822296997
+1968868556,The hardness and approximation algorithms for l-diversity,2010,49,47,2,0.188922,2157867657,Xiaokui Xiao,0,-0.06840517746544572,0.4214395626114993
+1981634604,Flexible aggregate similarity search,2011,22,39,3,0.0,2716030107,Yang Li,0,-0.1984714131877254,-0.08331523624254955
+1991249762,Sliding-window top-k queries on uncertain streams,2008,36,128,2,0.0,2127683674,Cheqing Jin,0,-0.3696443923757426,0.3057032228243983
+2002298107,Finding frequent items in probabilistic data,2008,40,164,3,0.0,2284008174,Qin Zhang,0,-1.1407167835700949,0.5573254425276039
+1995748274,STORM Spatio-Temporal Online Reasoning and Management of Large Spatio-Temporal Data,2015,23,7,4,1.0,2951548368,Robert Christensen,0,-0.03981453836951474,0.09873457883318881
+2026325114,Robust set reconciliation,2014,21,10,3,0.0,2549737308,Di Chen,0,0.21438872843298346,-0.1353423822296997
+2052482648,The World in a Nutshell Concise Range Queries,2011,32,6,1,1.0,2115752352,Ke Yi,0,-0.5887564204948698,0.7507781382521804
+2054693333,Probabilistic string similarity joins,2010,27,40,4,1.0,330615815,Jeffrey Jestes,0,-1.8593359205888174,0.7383198994823282
+2041193957,Top-k queries on temporal data,2010,45,24,2,0.298808,2472728339,Feifei Li,0,-0.5172200209538196,-0.08621258994023422
+2056006495,Beyond simple aggregates indexing for summary queries,2011,30,11,2,0.857143,2171059981,Zhewei Wei,0,0.07372092123749517,0.09484854463273751
+2063512404,Building wavelet histograms on large data in MapReduce,2011,37,34,2,1.0,330615815,Jeffrey Jestes,0,-0.24402219075768336,0.10419810321463124
+2056789511,Correlation hiding by independence masking,2010,6,9,5,0.0,2131082813,Yufei Tao,0,-0.34841194659538965,-0.10142585373365
+2103112899,Indexing for summary queries Theory and practice,2014,39,5,1,1.0,2115752352,Ke Yi,0,0.07372092123749517,0.09484854463273751
+2094835873,Quantiles over data streams an experimental study,2013,25,25,3,0.857143,2684877588,Lu Wang,0,-0.236908095528344,0.199655522528879
+2093584660,Ranking distributed probabilistic data,2009,37,56,2,0.310448,2472728339,Feifei Li,0,0.2520909661601309,0.14915502679406958
+2081861467,The priority R-tree,2012,13,2,1,1.0,2115752352,Ke Yi,0,0.003708468606338,0.082832279151172
+2127003315,Efficient maintenance of materialized top-k views,2003,25,83,1,1.0,2115752352,Ke Yi,0,-1.3957018242202996,0.549189502125899
+2106608157,BOXes efficient maintenance of order-based labeling for dynamic XML data,2005,19,51,3,0.0,2692598934,Adam Silberstein,0,-1.6449183367555946,-0.06798449790493728
+2107427524,Efficient and accurate nearest neighbor and closest pair search in high-dimensional space,2010,47,69,2,0.0,2131082813,Yufei Tao,0,-0.232558821802808,0.9013555289688178
+2143250283,Logging every footstep quantile summaries for the entire history,2010,19,7,2,0.0,2131082813,Yufei Tao,0,-0.23090625279648613,0.10274016958161793
+2140237757,Semantics of Ranking Queries for Probabilistic Data and Expected Ranks,2009,39,175,3,0.0,2190072679,Graham Cormode,0,0.21436631056797992,0.24528097771039023
+2125402103,Efficient Processing of Top-k Queries in Uncertain Databases,2008,26,98,1,1.0,2115752352,Ke Yi,0,-0.7227795794784362,0.5293309054968357
+2131383217,The Priority R-tree a practically efficient and worst-case optimal R-tree,2004,23,97,4,0.0,2170557315,Lars Arge,0,-0.3669870959668083,-0.5896738112438311
+2122956021,Incremental maintenance of XML structural indexes,2004,16,41,1,1.0,2115752352,Ke Yi,0,-1.7973939060526292,-0.18168232418927385
+2165542331,Proof-infused streams enabling authentication of sliding window queries on streams,2007,32,63,2,0.333333,2472728339,Feifei Li,0,0.003708468606338,0.082832279151172
+2168638620,Semantics of Ranking Queries for Probabilistic Data,2011,49,39,4,1.0,330615815,Jeffrey Jestes,0,0.1766566002191646,0.08765802199998424
+2171688288,Efficient Processing of Top-k Queries in Uncertain Databases with x-Relations,2008,27,96,1,1.0,2115752352,Ke Yi,0,-0.2561271423664895,0.3138935421861843
+2171852828,A Concise Representation of Range Queries,2009,13,2,1,1.0,2115752352,Ke Yi,0,-0.5887564204948698,0.7507781382521804
+2155502235,Quality and efficiency in high dimensional nearest neighbor search,2009,36,160,2,0.0,2131082813,Yufei Tao,0,0.15727611052012425,1.3662039185549975
+2165062838,Randomized Synopses for Query Assurance on Data Streams,2008,44,19,1,1.0,2115752352,Ke Yi,0,-0.7763972293192366,0.33186691170621224
+2267977268,Exact and approximate flexible aggregate similarity search,2016,22,5,2,0.143098,2472728339,Feifei Li,0,-0.1984714131877254,-0.08331523624254955
+2293308125,Spatial online sampling and aggregation,2015,36,29,4,1.0,2684877588,Lu Wang,0,-0.24395297611956349,0.35281754152320627
+2299041621,Quantiles over data streams experimental comparisons new analyses and further improvements,2016,29,20,3,1.0,2230405244,Ge Luo,0,-0.236908095528344,0.199655522528879
+2294895103,Mergeable summaries,2013,38,48,6,0.0,2128565744,Pankaj K. Agarwal,0,0.003708468606338,0.082832279151172
+2338645642,Counting Triangles in Large Graphs by Random Sampling,2016,37,17,2,1.0,2629713714,Bin Wu,0,0.003708468606338,0.082832279151172
+2426819612,Wander Join Online Aggregation for Joins,2016,17,5,3,0.143098,2472728339,Feifei Li,0,-0.9585811275995425,0.9412437283530213
+2531454488,Nearest-Neighbor Searching Under Uncertainty II,2016,29,10,5,0.0,2128565744,Pankaj K. Agarwal,0,-0.9235639282870058,1.5249934385870723
+2624446541,Change (detection) you can believe in Finding distributional shifts in data streams,2009,0,0,5,0.224213,425249397,Tamraparni Dasu,0,-0.1071931497347323,0.3242721482837629
+2614565221,Wander Join and XDB Online Aggregation via Random Walks,2017,58,8,3,0.128792,2472728339,Feifei Li,0,-1.1775090862279447,1.1938226073454286
+2612048434,Two-Level Sampling for Join Size Estimation,2017,24,16,2,0.0,2653328131,Yu Chen,0,-0.0395804122397981,0.0068802457672825015
+2798499404,Random Sampling over Joins Revisited,2018,43,8,5,0.0,2485659166,Zhuoyue Zhao,0,0.003708468606338,0.082832279151172
+2949876127,Building Wavelet Histograms on Large Data in MapReduce,2011,17,0,2,1.0,330615815,Jeffrey Jestes,0,-0.24402219075768336,0.10419810321463124
+2950165082,The Hardness and Approximation Algorithms for L-Diversity,2009,35,1,2,0.188922,2157867657,Xiaokui Xiao,0,-0.005430236092622868,0.5459301100176313
+2952389922,Verifying Computations with Streaming Interactive Proofs,2011,22,14,3,0.0,2190072679,Graham Cormode,0,0.003708468606338,0.082832279151172
+2952602432,Instance and Output Optimal Parallel Algorithms for Acyclic Joins,2019,33,0,2,0.0,2420320480,Xiao Hu,0,0.003708468606338,0.082832279151172
+2934540250,Streaming HyperCube A Massively Parallel Stream Join Algorithm,2019,0,1,3,0.0,2926664317,Yuan Qiu,0,0.003708468606338,0.082832279151172
+2938070826,Output-Optimal Massively Parallel Algorithms for Similarity Joins,2019,31,4,2,0.0,2420320480,Xiao Hu,0,-1.1563796570445568,0.4925364182613372
+2988666511,Technical Perspective Online Model Management via Temporally Biased Sampling,2019,1,0,1,1.0,2115752352,Ke Yi,0,0.003708468606338,0.082832279151172

@@ -1,0 +1,62 @@
+140433705,Query Processing on Encrypted Data in the Cloud by,2011,31,19,1,1.0,228175360,Carsten Binnig,0,-0.0041099411153885,0.0447066884760059
+11145103,Towards Automatic Test Database Generation,2008,12,14,1,1.0,228175360,Carsten Binnig,0,0.00147433663869615,-0.1283904639608274
+1497100682,The end of slow networks its time for a redesign,2016,53,60,1,1.0,228175360,Carsten Binnig,0,0.7721308498568376,1.6215012352306841
+1536331441,Spotgres - parallel data analytics on Spot Instances,2015,16,7,1,1.0,228175360,Carsten Binnig,0,-0.0041099411153885,0.0447066884760059
+1583749664,Generating Meaningful Test Databases,2008,0,2,1,1.0,228175360,Carsten Binnig,0,1.8803489951926753,0.6200505647503405
+1971885140,Locality-aware Partitioning in Parallel Database Systems,2015,20,34,2,0.923077,2043372754,Erfan Zamanian,0,0.5988306039090305,0.006361791795097357
+1967769085,Multi-RQP generating test databases for the functional testing of OLTP applications,2008,10,23,1,1.0,228175360,Carsten Binnig,0,2.262175673321506,0.5185747746322662
+1992717942,XDB - A Novel Database Architecture for Data Analytics as a Service,2014,16,3,1,1.0,228175360,Carsten Binnig,0,0.621621815671392,0.13498804114024532
+2009584448,Cost-based Fault-tolerance for Parallel Data Processing,2015,18,14,2,0.705882,2128996123,Abdallah Salama,0,-0.20133665475165913,-0.19110780330684465
+2022431239,QAGen generating query-aware test databases,2007,21,92,1,1.0,228175360,Carsten Binnig,0,1.8372718861660253,0.5736847072927969
+2028383826,How is the weather tomorrow towards a benchmark for the cloud,2009,9,158,1,1.0,228175360,Carsten Binnig,0,0.38009049917121435,0.45246057348231067
+2017912523,Testing database applications,2006,10,19,1,1.0,228175360,Carsten Binnig,0,2.086335425358164,0.36250362094622457
+2021817268,DoomDB kill the query,2014,7,1,1,1.0,228175360,Carsten Binnig,0,0.3837626117288372,-0.15155472052497848
+2054046497,Dictionary-based order-preserving string compression for main memory column stores,2009,34,129,1,1.0,228175360,Carsten Binnig,0,-0.20729880931373978,0.26448565734759993
+2043698545,XDB a novel database architecture for data analytics as a service,2013,3,6,1,1.0,228175360,Carsten Binnig,0,0.253202750105207,0.12815134630264885
+2034173754,Distributed snapshot isolation global transactions pay globally local transactions pay locally,2014,32,18,1,1.0,228175360,Carsten Binnig,0,1.1489634556744108,1.7151276401588265
+2065453939,The ETH Zurich systems group and enterprise computing center,2009,13,0,6,0.0,2122271048,Gustavo Alonso,0,0.18601297105691045,-0.0008472885667257998
+2099525917,A framework for testing DBMS features,2010,35,22,2,0.0,2098564095,Eric Lo,0,2.8858219570958847,1.0206184155719835
+2087252704,Automatic Result Verification for the Functional Testing of a Query Language,2008,18,2,1,1.0,228175360,Carsten Binnig,0,0.7215975991611812,0.3052417628859806
+2183841619,Motivation and Scope,2009,0,0,1,1.0,228175360,Carsten Binnig,0,-0.0041099411153885,0.0447066884760059
+2164636932,Reverse Query Processing,2007,24,96,1,1.0,228175360,Carsten Binnig,0,1.7430403358848323,0.5826815655579884
+2266823300,An architecture for compiling UDF-centric workflows,2015,37,42,5,0.724138,2002386429,Andrew Crotty,0,0.227724135760084,0.2619498916037593
+2294212155,Vizdom interactive analytics through pen and touch,2015,10,42,4,0.724138,2002386429,Andrew Crotty,0,0.2946713761785912,0.4027268098681643
+2399653841,SQLScript Efficiently Analyzing Big Enterprise Data in SAP HANA,2013,10,18,1,1.0,228175360,Carsten Binnig,0,0.3339758592766285,0.3721634891476919
+2408193953,Pay-as-you-go matching of relational schemata to OWL ontologies with IncMap,2013,3,7,1,1.0,228175360,Carsten Binnig,0,1.3512327136715516,0.02792132150726867
+2400340233,IncMap pay as you go matching of relational schemata to OWL ontologies,2013,21,18,2,0.0,2242116462,Christoph Pinkel,0,1.3512327136715516,0.02792132150726867
+2425879071,Making the Case for Query-by-Voice with EchoQuery,2016,5,13,3,0.0,2506012285,Gabriel Lyons,0,-0.0041099411153885,0.0447066884760059
+2443229613,The case for interactive data exploration accelerators (IDEAs),2016,15,20,4,0.75,2002386429,Andrew Crotty,0,0.3263468948856137,0.0524309651663167
+2429397718,VisTrees fast indexes for interactive data exploration,2016,11,14,3,0.857143,2229084398,Muhammad El Hindi,0,-0.0041099411153885,0.0447066884760059
+2466166243,The End of a Myth Distributed Transactions Can Scale,2016,31,2,2,1.0,2043372754,Erfan Zamanian,0,1.6924294855868351,1.6559920984084828
+2578258840,Towards a Benchmark for Interactive Data Exploration,2016,34,15,4,0.882353,2227199679,Philipp Eichmann,0,-0.0041099411153885,0.0447066884760059
+2507304688,Revisiting Reuse in Main Memory Database Systems,2017,32,7,2,1.0,2288464246,Kayhan Dursun,0,-0.3015641978542666,0.05725393901911783
+2585857961,Toward Sustainable Insights or Why Polygamy is Bad for You,2017,26,15,1,1.0,228175360,Carsten Binnig,0,-0.0041099411153885,0.0447066884760059
+2613752415,What you see is not what you get Detecting Simpsons Paradoxes during Data Exploration,2017,12,7,2,0.0,2612867380,Yue Guo,0,-0.0041099411153885,0.0447066884760059
+2621361798,Rethinking Distributed Query Execution on High-Speed Networks,2017,0,6,2,0.705882,2128996123,Abdallah Salama,0,0.0908845357243609,0.31128747720343375
+2732582420,Revisiting reuse for approximate query processing,2017,32,34,4,0.846154,2106276678,Alex Galakatos,0,0.014532710543751099,0.030944858938630852
+2799042489,DBPal A Learned NL-Interface for Databases,2018,12,6,8,0.0,2552456735,Fuat Basik,0,0.9471502784769231,0.10347851059206198
+2795622940,An End-to-end Neural Natural Language Interface for Databases,2018,22,6,4,0.0,2796212455,Prasetya Utama,0,0.9064523927100616,0.08814539315836063
+2795759856,IDEBench A Benchmark for Interactive Data Exploration,2018,25,12,2,1.0,2227199679,Philipp Eichmann,0,0.044859856903840555,0.012551371775477651
+2800402475,QAGen Generating query-aware test databases,2011,0,0,1,1.0,228175360,Carsten Binnig,0,-0.0041099411153885,0.0447066884760059
+2888850136,OLTPshare the case for sharing in OLTP workloads,2018,20,1,2,0.0,2229508930,Robin Rehrmann,0,0.6969484748236763,1.3262299463716523
+2889212186,Sherlock a system for interactive summarization of large text collections,2018,0,1,2,0.0,2752585285,P V S Avinesh,0,-0.0041099411153885,0.0447066884760059
+2902247260,Chiller Contention-centric Transaction Execution and Data Partitioning for Fast Networks,2018,46,0,3,1.0,2043372754,Erfan Zamanian,0,1.1697437162339843,1.071748165745404
+2913399169,Session details Research session 19 storage and indexing,2014,0,0,1,1.0,228175360,Carsten Binnig,0,-0.0041099411153885,0.0447066884760059
+2895797765,Scalable Data Management on Modern Networks,2018,36,1,1,1.0,228175360,Carsten Binnig,0,0.05338148346623508,-0.2394307782867542
+2913900860,DPI The Data Processing Interface for Modern Networks,2019,0,3,2,0.0,2122271048,Gustavo Alonso,0,-0.07717982967481318,-0.10795400592374306
+2911411187,Proceedings of the 2009 ACM SIGMOD International Conference on Management of data,2009,0,0,2,0.0,11059210,Ugur Cetintemel,0,0.18601297105691045,-0.0008472885667257998
+2914947086,Proceedings of the Workshop on Human-In-the-Loop Data Analytics,2016,0,0,1,1.0,228175360,Carsten Binnig,0,0.18601297105691045,-0.0008472885667257998
+2933318708,Learning a Partitioning Advisor with Deep Reinforcement Learning,2019,22,0,2,0.0,2900812532,Benjamin Hilprecht,0,0.0041457208942045215,0.2615621321501198
+2952290948,The End of Slow Networks Its Time for a Redesign,2015,54,1,1,1.0,228175360,Carsten Binnig,0,0.6218815925123479,1.2307143236336282
+2948781980,BlockchainDB - Towards a Shared Database on Blockchains,2019,8,4,3,0.857143,2229084398,Muhammad El Hindi,0,-0.15802972719544298,0.04599796492976669
+2948862017,Designing Distributed Tree-based Index Structures for Fast RDMA-capable Networks,2019,42,2,3,0.0,2653089536,Tobias Ziegler,0,-0.025136441648421232,0.1615478878749429
+2953167292,Revisiting Reuse in Main Memory Database Systems,2016,26,1,2,1.0,2288464246,Kayhan Dursun,0,-0.01965372328504981,0.0432553969855026
+2964109949,The end of a myth distributed transactions can scale,2017,37,38,2,1.0,2043372754,Erfan Zamanian,0,1.6924294855868351,1.6559920984084828
+2972542101,DBPal Weak Supervision for Learning a Natural Language Interface to Databases,2019,18,0,12,0.6,2795808064,Nathaniel Weir,0,0.9064523927100616,0.08814539315836063
+2982413358,Towards Interactive Data Exploration,2018,0,0,1,1.0,228175360,Carsten Binnig,0,-0.0041099411153885,0.0447066884760059
+2970021455,ProgressiveDB progressive data analytics as a middleware,2019,0,0,1,1.0,228175360,Carsten Binnig,0,-0.19196147509311953,0.14487620954580122
+2970229914,A Morsel-Driven Query Execution Engine for Heterogeneous Multi-Cores,2019,0,1,2,1.0,2288464246,Kayhan Dursun,0,-0.0041099411153885,0.0447066884760059
+2971147021,BlockchainDB a shared database on blockchains,2019,0,8,1,1.0,228175360,Carsten Binnig,0,-0.42511253240776914,0.09219758019937879
+3022878348,Database Benchmarking for Supporting Real-Time Interactive Querying of Large Data,2020,0,0,7,0.0,1975774854,Leilani Battle,0,0.044859856903840555,0.012551371775477651
+3013555795,DeepDB learn from data not from queries ,2020,0,0,1,1.0,228175360,Carsten Binnig,0,-0.0041099411153885,0.0447066884760059
+3013877795,DBMS Fitting Why should we learn what we already know ,2020,0,0,1,1.0,228175360,Carsten Binnig,0,-0.0041099411153885,0.0447066884760059

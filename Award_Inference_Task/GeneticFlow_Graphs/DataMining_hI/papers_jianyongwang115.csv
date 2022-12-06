@@ -1,0 +1,106 @@
+222676513,Sequential Pattern Mining,2014,69,9,1,1.0,2105625159,Jianyong Wang,0,0.3845913258927797,-0.014490210801952638
+82830760,Multi-Dimensional Analysis of Data Streams Using Stream Cubes,2007,31,4,6,0.0,2121939561,Jiawei Han,0,0.3659788948761839,0.42699107955454385
+1514461580,STREAMCUBE Hierarchical spatio-temporal hashtag clustering for event exploration over the Twitter stream,2015,33,77,5,1.0,2647481813,Wei Feng,0,-0.21934185016841626,0.6056873083074126
+1570407447,SUMMARY efficiently summarizing transactions for clustering,2004,34,20,1,1.0,2105625159,Jianyong Wang,0,-0.4323611064472562,0.5626614115606037
+1556873876,Exploit sequencing to accelerate XML twig query answering,2006,24,2,3,0.75,2479756709,Qian Qian,0,-0.5442538671051075,-0.0015272632806924008
+1531439523,BAMBOO Accelerating Closed Itemset Mining by Deeply Pushing the Length-Decreasing Support Constraint,2004,31,16,1,1.0,2105625159,Jianyong Wang,0,0.10435115260329193,-0.04872940957680422
+1631295847,Multi-dimensional regression analysis of time-series data streams,2002,28,271,5,0.0,2295009377,Yixin Chen,0,-0.5343371566468184,1.9484559712347334
+1577956469,Efficiently mining frequent closed partial orders,2005,9,18,6,0.0,2126330539,Jian Pei,0,-0.2815316708539229,0.3898655187609359
+1855183001,Efficient incremental mining of frequent sequence generators,2011,24,1,2,0.0,2103709954,Yukai He,0,-0.12398845709573587,0.01521820213357239
+1592508003,High confidence fragment-based classification rule mining for imbalanced HIV data,2008,10,0,2,0.0,2968959197,Bing Lv,0,-1.090841114357978,-0.26631151052323365
+1964189668,Entity Linking with a Knowledge Base Issues Techniques and Solutions,2015,147,297,2,0.964286,2667078396,Wei Shen,0,0.3818728985044527,0.025540198628178246
+1594098942,Efficient mining of minimal distinguishing subgraph patterns from graph databases,2008,7,6,2,1.0,2426963205,Zhiping Zeng,0,1.3512023319753825,-2.1012532844874694
+1982023510,A Collective Bayesian Poisson Factorization Model for Cold-start Local Event Recommendation,2015,29,46,2,1.0,2723820743,Wei Zhang,0,0.003708468606338,0.082832279151172
+1974000287,Efficient closed pattern mining in the presence of tough block constraints,2004,34,40,2,0.0,2775891736,Krishna Gade,0,-0.4884219815801763,1.4251514662090308
+1981113794,Sailer an effective search engine for unified retrieval of heterogeneous xml and web documents,2008,8,14,3,0.433735,2171804313,Guoliang Li,0,-2.14885900826464,-0.29386647175050573
+1977615307,CONTOUR an efficient algorithm for discovering discriminating subsequences,2009,38,11,1,1.0,2105625159,Jianyong Wang,0,-0.39326970447550313,0.477587241947302
+1984629433,Retweet or not personalized tweet re-ranking,2013,14,68,2,0.9375,2647481813,Wei Feng,0,0.08329114195231535,0.32893178638165566
+1985019655,GRIAS An Entity-Relation Graph Based Framework for Discovering Entity Aliases,2013,29,5,3,0.733333,2144920549,Lili Jiang,0,0.5267719473833705,0.14448331150722465
+1989341178,Combining latent factor model with location features for event-based group recommendation,2013,29,101,2,1.0,2723820743,Wei Zhang,0,0.21438872843298346,-0.1353423822296997
+2005508116,LIEGE link entities in web lists with knowledge base,2012,25,35,1,1.0,2105625159,Jianyong Wang,0,0.38493344995228673,-1.8053345884427672
+2002426632,Efficient mining of frequent closed XML query pattern,2007,27,4,3,0.472727,1995232797,Jianhua Feng,0,-0.793432311182085,-0.08201861104616236
+1993715838,LINDEN linking named entities with knowledge base via semantic knowledge,2012,32,139,2,1.0,2667078396,Wei Shen,0,0.18626953451291692,0.015527257143967984
+2008254093,Parallel Frequent Pattern Discovery Challenges and Methodology,2007,23,6,1,1.0,2105625159,Jianyong Wang,0,-0.09755455572464465,-0.20250413091308977
+2022798908,Efficient Mining of Gap-Constrained Subsequences and Its Various Applications,2012,45,39,3,0.0,2642537015,Chun Li,0,-0.39326970447550313,0.477587241947302
+2010749868,Toward detection of aliases without string similarity,2014,28,4,3,0.0,2115812999,Ning An,0,0.3033927747922414,0.24213753140379826
+2019801416,Finding and ranking compact connected trees for effective keyword proximity search in XML documents,2010,38,24,3,0.365498,1995232797,Jianhua Feng,0,-1.170672100984724,-0.06112788928013833
+2018169898,Efficient Mining of Closed Sequential Patterns on Stream Sliding Window,2011,22,6,2,1.0,2230681577,Chuancong Gao,0,-0.20169794912826036,0.44309947305214537
+2032338144,Comparing stars on approximating graph edit distance,2009,38,232,3,1.0,2426963205,Zhiping Zeng,0,0.003708468606338,0.082832279151172
+2052296830,Frequent pattern mining with uncertain data,2009,14,254,3,0.0,2146335907,Charu C. Aggarwal,0,-0.5342242173727288,-0.23437449468574556
+2047260621,Xproj a framework for projected structural clustering of xml documents,2007,21,109,3,0.0,2146335907,Charu C. Aggarwal,0,-2.394648255565787,-0.2492918076512083
+2046136038,AWETO efficient incremental update and querying in rdf storage system,2011,11,7,2,0.0,2109453883,Xu Pu,0,1.5265647145065842,-2.451997533052389
+2035814200,Effective keyword search for valuable lcas over xml documents,2007,34,181,3,0.433735,2171804313,Guoliang Li,0,-2.162913174053964,-0.19857438928896776
+2041176772,Exploit sequencing to accelerate hot XML query pattern mining,2006,28,11,3,0.472727,1995232797,Jianhua Feng,0,-0.23795248014222814,-0.028403311277104618
+2034151228,APOLLO a general framework for populating ontology with named entities via random walks on graphs,2012,3,1,2,1.0,2667078396,Wei Shen,0,-0.06841371053155088,-0.4964000743074952
+2050099642,We can learn your #hashtags Connecting tweets to explicit topics,2014,29,19,2,1.0,2647481813,Wei Feng,0,-0.13090974406383618,0.17576290371519546
+2059512502,Location and Time Aware Social Collaborative Retrieval for New Successive Point-of-Interest Recommendation,2015,28,45,2,1.0,2723820743,Wei Zhang,0,0.003708468606338,0.082832279151172
+2063014845,Towards alias detection without string similarity an active learning based approach,2012,7,9,2,1.0,2144920549,Lili Jiang,0,0.3033927747922414,0.24213753140379826
+2075457099,On demand classification of data streams,2004,7,233,3,0.0,2146335907,Charu C. Aggarwal,0,0.9189060879726868,0.4027739958248668
+2070220605,SEQUEL query completion via pattern mining on multi-column structural data,2010,8,0,3,1.0,2230681577,Chuancong Gao,0,0.6048062856561235,-0.12955656959210743
+2061922307,A dirichlet multinomial mixture model-based approach for short text clustering,2014,30,161,2,1.0,2145412373,Jianhua Yin,0,-0.8410271840686945,2.996559878557878
+2070677076,HeterRank addressing information heterogeneity for personalized recommendation in social tagging systems,2012,1,0,2,0.9375,2647481813,Wei Feng,0,1.2349342047385619,0.9461360458505744
+2057047055,Linking named entities in Tweets with knowledge base via user interest modeling,2013,25,88,2,1.0,2667078396,Wei Shen,0,-0.061891622197426076,0.1585382635476583
+2078842512,Stream Cube An Architecture for Multi-Dimensional Analysis of Data Streams,2005,31,138,6,0.0,2121939561,Jiawei Han,0,-0.5343371566468184,1.9484559712347334
+2084273580,On High Dimensional Projected Clustering of Data Streams,2005,17,38,3,0.0,2146335907,Charu C. Aggarwal,0,-0.44266119573354723,1.4703277339186889
+2103260151,Finding Top-k Answers in Keyword Search over Relational Databases Using Tuple Units,2011,49,27,3,0.33558,1995232797,Jianhua Feng,0,0.11234313686843651,0.5208976577350432
+2098376057,Regression Cubes with Lossless Compression and Aggregation,2006,36,49,6,1.0,2295009377,Yixin Chen,0,0.9346817662774972,0.48359526080624354
+2085136567,CubeExplorer online exploration of data cubes,2002,2,2,2,0.0,2121939561,Jiawei Han,0,0.6336677618024259,-0.4765578028393928
+2083381833,Incorporating heterogeneous information for personalized tag recommendation in social tagging systems,2012,17,85,2,0.9375,2647481813,Wei Feng,0,0.8454512816905112,0.5513174969277932
+2096076988,EASE an effective 3-in-1 keyword search method for unstructured semi-structured and structured data,2008,32,345,4,0.433735,2171804313,Guoliang Li,0,0.1364017467582213,0.4688018701594562
+2096139125,Incremental Mining of Frequent Query Patterns from XML Queries for Caching,2006,29,9,3,0.433735,2171804313,Guoliang Li,0,-0.6738230542620091,-0.10208176010898688
+2135127625,A graph-based approach for ontology population with named entities,2012,29,20,2,1.0,2667078396,Wei Shen,0,2.2905404507178377,-2.149358497218092
+2117487426,A framework for projected clustering of high dimensional data streams,2004,19,416,3,0.0,2146335907,Charu C. Aggarwal,0,-0.7157979364338053,2.4806626745514255
+2132219058,On Mining Instance-Centric Classification Rules,2006,33,39,1,1.0,2105625159,Jianyong Wang,0,0.4593674018581268,0.05357694594213716
+2132313482,A probabilistic model for linking named entities in web text with heterogeneous information networks,2014,32,34,3,0.964286,2667078396,Wei Shen,0,0.003708468606338,0.082832279151172
+2120623936,On Graph-Based Name Disambiguation,2011,35,81,2,1.0,2222601610,Xiaoming Fan,0,-0.7114450240792398,1.4805849877038628
+2129418437,On Clustering Massive Data Streams A Summarization Paradigm,2007,24,27,3,0.0,2146335907,Charu C. Aggarwal,0,-0.21892615613754504,0.5923622113437262
+2111856117,GRAPE a system for disambiguating and tagging people names in web search,2010,6,0,3,1.0,2144920549,Lili Jiang,0,-0.5197577288446591,1.1277105177343119
+2111906243,Personalizing Web Page Recommendation via Collaborative Filtering and Topic-Aware Markov Model,2010,11,27,3,0.857143,2713568517,Qingyan Yang,0,-0.12922582630308857,-2.4923291224053887
+2108923196,HARMONY Efficiently Mining the Best Rules for Classification,2005,25,122,1,1.0,2105625159,Jianyong Wang,0,-0.0954160542956513,0.3237316652664622
+2105936915,Keyword-propagation-based information enriching and noise removal for web news videos,2012,26,2,3,0.0,2664544038,Jun Zhang,0,0.29914326050481854,0.14719658463028115
+2117950196,Model Video Semantics with Constraints Considering Temporal Structure and Typed Events,2006,10,2,3,0.0,2559461216,Yu Wang,0,0.11672415509507165,0.0338187686908989
+2120904649,Coherent closed quasi-clique discovery from large dense graph databases,2006,5,115,2,0.888889,2426963205,Zhiping Zeng,0,-0.0769353016057025,-0.2600287055078183
+2124060239,An effective 3-in-1 keyword search method over heterogeneous data sources,2011,42,11,4,0.223764,2171804313,Guoliang Li,0,-0.005304213743848892,0.27006043525837803
+2112307926,Mining top-k frequent closed patterns without minimum support,2002,8,226,2,0.0,2121939561,Jiawei Han,0,-0.35670680608898275,-0.300625874684137
+2127327945,Two birds with one stone a graph-based framework for disambiguating and tagging people names in web search,2009,3,6,2,1.0,2144920549,Lili Jiang,0,0.6657555879872736,-2.6363883923136315
+2113101421,Closed constrained gradient mining in retail databases,2006,11,10,1,1.0,2105625159,Jianyong Wang,0,-0.34841194659538965,-0.10142585373365
+2121907031,Structure-aware indexing for keyword search in databases,2009,8,7,3,0.357696,2171804313,Guoliang Li,0,-0.21096623242955928,0.24724775226316004
+2139877708,KEMB A Keyword-Based XML Message Broker,2011,42,4,3,0.223764,2171804313,Guoliang Li,0,-2.24150156631438,-0.26186686686478067
+2122167597,GRAPE A Graph-Based Framework for Disambiguating People Appearances in Web Search,2009,21,22,2,1.0,2144920549,Lili Jiang,0,-0.21934185016841626,0.6056873083074126
+2122182354,BIDE efficient mining of frequent closed sequences,2004,28,524,1,1.0,2105625159,Jianyong Wang,0,0.13102264824995982,-0.2390406084364985
+2137012502,TFP an efficient algorithm for mining top-k frequent closed itemsets,2005,29,186,1,1.0,2105625159,Jianyong Wang,0,0.08885631466762171,0.15443932420600115
+2110510808,Race finding and ranking compact connected trees for keyword proximity search over xml documents,2008,7,22,3,0.433735,2171804313,Guoliang Li,0,-1.170672100984724,-0.06112788928013833
+2119625792,Parallel community detection on large networks with propinquity dynamics,2009,19,93,2,0.0,2479340321,Yuzhou Zhang,0,0.003708468606338,0.082832279151172
+2122634693,CLAN An Algorithm for Mining Closed Cliques from Large Dense Graph Databases,2006,24,56,1,1.0,2105625159,Jianyong Wang,0,0.003708468606338,0.082832279151172
+2122699404,An effective and versatile keyword search engine on heterogenous data sources,2008,13,10,3,0.433735,2171804313,Guoliang Li,0,-1.262784022036061,0.10954642131686888
+2128750409,A framework for on-demand classification of evolving data streams,2006,27,94,3,0.0,2146335907,Charu C. Aggarwal,0,0.4038330837976722,0.5740743424551171
+2134548141,REACTOR a framework for semantic relation extraction and tagging over enterprise data,2011,1,9,2,1.0,2667078396,Wei Shen,0,-0.8188371286862764,-0.7208867665311548
+2119995149,Out-of-core coherent closed quasi-clique mining from large dense graph databases,2007,52,85,2,1.0,2426963205,Zhiping Zeng,0,-0.8488466168163088,-1.323858797618363
+2140740533,On efficiently summarizing categorical databases,2006,36,32,1,1.0,2105625159,Jianyong Wang,0,-0.4118968842252825,0.5901726327860702
+2168196587,Mining sequential patterns by pattern-growth the PrefixSpan approach,2004,34,943,4,0.0,2126330539,Jian Pei,0,-0.9802479431203188,1.3675214689386617
+2147701033,Efficient mining of frequent sequence generators,2008,8,35,2,1.0,2230681577,Chuancong Gao,0,0.12623683732964674,0.1345116287114271
+2168781105,Mining Complex Time-Series Data by Learning Markovian Models,2006,14,21,4,0.0,2653914441,Yi Wang,0,0.003708468606338,0.082832279151172
+2154131897,Providing built-in keyword search capabilities in RDBMS,2011,70,29,4,0.223764,2171804313,Guoliang Li,0,-0.8278134346658899,0.17382430046860325
+2154161546,Progressive Keyword Search in Relational Databases,2009,8,42,4,0.357696,2171804313,Guoliang Li,0,-0.4142765458117207,0.568304095765418
+2160234432,Efficient itemset generator discovery over a stream sliding window,2009,29,11,2,1.0,2230681577,Chuancong Gao,0,-0.2012349211364683,0.2779520137572889
+2154921200,Direct mining of discriminative patterns for classifying uncertain data,2010,21,30,2,1.0,2230681577,Chuancong Gao,0,0.2022500180504716,0.30905846028634143
+2157908628,Incremental sequence-based frequent query pattern mining from XML queries,2009,44,3,3,0.357696,2171804313,Guoliang Li,0,-0.5998066881287155,-0.06714436375403006
+2155361330,Knowledge and Information Systems RESEARCH A RTICLE,2005,33,0,1,1.0,2105625159,Jianyong Wang,0,-0.5664191087520672,0.4548850842075713
+2167917691,Frequent Closed Sequence Mining without Candidate Maintenance,2007,36,153,1,1.0,2105625159,Jianyong Wang,0,0.09628305466167059,0.06114138188590244
+2170936641,A framework for clustering evolving data streams,2003,16,1362,3,0.0,2146335907,Charu C. Aggarwal,0,-0.8105097641707358,2.7787373175626584
+2162034534,CLOSET+ searching for the best strategies for mining frequent closed itemsets,2003,20,548,1,1.0,2105625159,Jianyong Wang,0,-0.09058496831038347,-0.18545625035929048
+2273640063,Editorial Efficient incremental update and querying in AWETO RDF storage system,2014,34,2,1,1.0,2105625159,Jianyong Wang,0,1.5265647145065842,-2.451997533052389
+2245248321,Domain-Specific Knowledge Base Enrichment Using Wikipedia Tables,2015,22,7,3,0.0,2246597494,Chenwei Ran,0,-0.06941005685456161,-0.29409057435965524
+2306220742,A Hybrid Framework for Semantic Relation Extraction over Enterprise Data,2015,28,2,2,0.964286,2667078396,Wei Shen,0,-0.36625859387488563,-0.059920785718242664
+2380042537,A Text Clustering Algorithm Using an Online Clustering Scheme for Initialization,2016,28,14,2,1.0,2145412373,Jianhua Yin,0,-0.9338342653251104,2.917452535896116
+2442340835,A model-based approach for text clustering with outlier detection,2016,29,15,2,1.0,2145412373,Jianhua Yin,0,-0.8410271840686945,2.996559878557878
+2514530580,Integrating Topic and Latent Factors for Scalable Personalized Review-based Rating Prediction,2016,41,18,2,1.0,2723820743,Wei Zhang,0,-0.040745936884147696,0.24083168320213724
+2537248456,Guest editorial WWWJ special issue of the 16th International Conference on Web Information Systems Engineering (WISE 2015),2017,0,8,3,0.0,1234576613,Wojciech Cellary,0,-0.43996748099041727,0.8021868112262522
+2508083587,Exploit sequencing to accelerate XML twig query answering,2006,0,0,3,0.75,2479756709,Qian Qian,0,-0.5442538671051075,-0.0015272632806924008
+2593729854,Proceedings - Fourth IEEE International Conference on Data Mining ICDM 2004,2004,0,0,2,0.0,219814910,George Karypis,0,0.003708468606338,0.082832279151172
+2736776866,SHINE+ A General Framework for Domain-Specific Entity Linking with Heterogeneous Information Networks,2018,39,6,3,0.867036,2667078396,Wei Shen,0,-0.05833861018649885,0.18945735664010638
+2794727736,Predicting Named Entity Location Using Twitter,2018,35,0,3,0.867036,2667078396,Wei Shen,0,-0.1965105332520064,0.011837530685472983
+2808998506,Model-based Clustering of Short Text Streams,2018,31,7,6,1.0,2145412373,Jianhua Yin,0,-0.16397112070337796,0.9986911669017872
+2949638244,Knowledge-Aware Deep Dual Networks for Text-Based Mortality Prediction,2019,43,2,4,0.0,2950641872,Ning Liu,0,-0.08075187365579407,0.47216470592594295
+2970049696,The Poisson multi-media knowledge construction System for TAC KBP 2018,2018,0,0,14,0.0,2970952918,Zhicheng Sheng,0,0.003708468606338,0.082832279151172
+3005564270,Named Entity Location Prediction Combining Twitter and Web,2020,0,0,1,1.0,2105625159,Jianyong Wang,0,-0.42153101989059644,-0.08669961402102162

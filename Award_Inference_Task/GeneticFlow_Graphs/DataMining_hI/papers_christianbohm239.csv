@@ -1,0 +1,94 @@
+106621143,Detection and visualization of subspace cluster hierarchies,2007,17,62,2,0.690712,182894350,Elke Achtert,0,-0.0421600837397371,0.7517471605365825
+196887329,Model-based Classification of Data with Time Series-valued Attributes,2009,0,5,1,1.0,2771206607,Christian Bohm,0,0.003708468606338,0.082832279151172
+96643876,Genetic algorithm for finding cluster hierarchies,2011,25,1,1,1.0,2771206607,Christian Bohm,0,-0.8537997329951155,2.7230675704359775
+96772584,Optimal Dimension Order A Generic Technique for the Similarity Join,2002,18,8,1,1.0,2771206607,Christian Bohm,0,-1.3305736091067124,0.5057076254655898
+148581103,Effective and Efficient Indexing for Large Video Databases,2007,13,2,1,1.0,2771206607,Christian Bohm,0,-0.13275296294680305,-0.071629888206014
+166674593,Robust Synchronization-Based Graph Clustering,2013,20,10,5,0.465116,2109747452,Junming Shao,0,-0.6196652323545735,2.0147635283335004
+1568450000,The Pruning Power Theory and Heuristics for Mining Databases with Multiple k-Nearest-Neighbor Queries,2000,15,6,1,1.0,2771206607,Christian Bohm,0,-0.1936001386827436,-0.36567505319229926
+1541974765,Dynamically Optimizing High-Dimensional Index Structures,2000,35,31,1,1.0,2771206607,Christian Bohm,0,0.2443471545504928,0.12747552257928796
+1515330496,DeLi-Clu boosting robustness completeness usability and efficiency of hierarchical clustering by a closest pair ranking,2006,11,36,2,0.690712,182894350,Elke Achtert,0,-0.9678201442474003,3.2741203848514377
+1507175305,Multidimensional Index Structures in Relational Databases,2000,30,44,1,1.0,2771206607,Christian Bohm,0,-0.11053003989325105,0.7005598853318588
+1525670367,Selectivity estimation of high dimensional window queries via clustering,2005,25,3,1,1.0,2771206607,Christian Bohm,0,-0.146763556188043,0.3736119163343515
+1571764429,Querying objects modeled by arbitrary probability distributions,2007,34,8,1,1.0,2771206607,Christian Bohm,0,-0.22205240695846498,-0.13090750934943304
+1527298686,Implementation of Multidimensional Index Structures for Knowledge Discovery in Relational Databases,1999,28,8,2,0.4,2013057434,Stefan Berchtold,0,-0.3799713386921922,0.37728408117770673
+1545785301,XZ-Ordering A Space-Filling Curve for Objects with Spatial Extension,1999,23,37,1,1.0,2771206607,Christian Bohm,0,-0.923204066143447,0.7464762956175334
+1485654915,Improving the Query Performance of High-Dimensional Index Structures by Bulk-Load Operations,1998,17,45,2,0.0,2013057434,Stefan Berchtold,0,-0.2425002970737434,0.5117631215239193
+1557081533,Combining Approximation Techniques and Vector Quantization for Adaptable Similarity Search,2002,21,1,1,1.0,2771206607,Christian Bohm,0,-0.01909081781182877,0.17213677012214143
+1487180234,Optimal Multidimensional Query Processing Using Tree Striping,2000,19,23,2,0.5,2013057434,Stefan Berchtold,0,-0.0697632715049112,-0.029986421579663202
+1837402592,Synchronization based outlier detection,2010,23,11,2,0.6,2109747452,Junming Shao,0,0.09155056529141158,0.09766225533921641
+1604861835,Efficient Bulk Loading of Large High-Dimensional Indexes,1999,15,15,1,1.0,2771206607,Christian Bohm,0,0.15667263742457535,-0.045229535809575505
+1753951212,Finding hierarchies of subspace clusters,2006,9,46,2,0.690712,182894350,Elke Achtert,0,0.6367847384712583,0.5553693598840606
+1757200940,Adaptable Similarity Search Using Vector Quantization,2001,14,3,1,1.0,2771206607,Christian Bohm,0,-0.08652241107997102,0.21008126458083926
+1608568320,Integrative parameter-free clustering of data with mixed type attributes,2010,17,12,1,1.0,2771206607,Christian Bohm,0,-0.8506757423325126,2.993886785734365
+1590918896,Supporting KDD Applications by the k -Nearest Neighbor Join,2003,23,19,2,1.0,2078393825,Florian Krebs,0,-0.38275943278404906,0.6955376201514673
+1592616853,ITCH information-theoretic cluster hierarchies,2010,22,8,1,1.0,2771206607,Christian Bohm,0,-0.9420948493095678,3.2796314744818944
+1660876363,Data Mining Using Graphics Processing Units,2009,29,18,1,1.0,2771206607,Christian Bohm,0,-0.21934185016841626,0.6056873083074126
+1972626687,CoCo coding cost for parameter-free outlier detection,2009,19,21,1,1.0,2771206607,Christian Bohm,0,0.07923879994884464,0.0393582080314915
+1978411192,HISSCLU a hierarchical density-based method for semi-supervised clustering,2008,27,34,1,1.0,2771206607,Christian Bohm,0,-1.0104726156982067,3.5644326766464527
+1987483188,Detection of Arbitrarily Oriented Synchronized Clusters in High-Dimensional Data,2011,20,15,4,0.6,2109747452,Junming Shao,0,-0.4596178353338706,1.5573789230977408
+1991415536,Compression-Based Graph Mining Exploiting Structure Primitives,2013,22,7,4,1.0,2302555519,Jing Feng,0,-0.37904624941689796,1.2539138889398045
+1988157641,Robust information-theoretic clustering,2006,22,45,1,1.0,2771206607,Christian Bohm,0,-0.9470492844347577,3.4429720642873742
+1998901634,Outlier-robust clustering using independent components,2008,19,50,1,1.0,2771206607,Christian Bohm,0,-0.8668715347423652,3.140691601633893
+1990702478,Active Density-Based Clustering,2013,22,24,5,1.0,2650155944,Son T. Mai,0,-0.9238208590674694,3.275939520368384
+1990764944,JGrid/FCC A Tool for Efficient Knowledge Extraction from MRI Scans,2011,5,0,1,1.0,2771206607,Christian Bohm,0,-0.05183656666059412,0.34921696926430695
+2022945230,Searching Uncertain Data Represented by Non-axis Parallel Gaussian Mixture Models,2012,15,2,3,0.0,1840203357,Katrin Haegler,0,-0.03347377863603344,0.009568685377685265
+2021467155,Probabilistic skyline queries,2009,20,29,1,1.0,2771206607,Christian Bohm,0,0.003708468606338,0.082832279151172
+2049040861,Efficiently Processing Continuous k-NN Queries on Data Streams,2007,18,48,1,1.0,2771206607,Christian Bohm,0,0.3692956508360421,0.17899948124335127
+2054655136,Deriving quantitative models for correlation clusters,2006,26,29,2,0.690712,182894350,Elke Achtert,0,-0.8571563289970692,3.1435535769346004
+2064681502,Anytime density-based clustering of complex data,2015,48,22,5,1.0,2650155944,Son T. Mai,0,-0.9313391193514637,3.287845804747586
+2070270996,Clustering by synchronization,2010,30,50,1,1.0,2771206607,Christian Bohm,0,-0.21934185016841626,0.6056873083074126
+2070333970,Global Correlation Clustering Based on the Hough Transform,2008,30,26,2,0.627636,182894350,Elke Achtert,0,-0.8452120954041047,2.871617082429034
+2077695545,Efficient reverse k-nearest neighbor search in arbitrary metric spaces,2006,12,113,2,0.690712,182894350,Elke Achtert,0,-0.2796799815138438,0.5664216547002762
+2058458206,The k -Nearest Neighbour Join Turbo Charging the KDD Process,2004,32,110,2,1.0,2078393825,Florian Krebs,0,0.012454827618045172,0.8467239786720758
+2067877017,Computing Clusters of Correlation Connected objects,2004,21,136,1,1.0,2771206607,Christian Bohm,0,-0.5281334462194783,1.5696100295226716
+2102351748,Parallel EM-Clustering Fast Convergence by Asynchronous Model Updates,2010,24,8,2,0.505512,2122910652,Claudia Plant,0,-0.06964795291767574,0.3987266249484836
+2087619740,High performance clustering based on the similarity join,2000,48,52,1,1.0,2771206607,Christian Bohm,0,-0.43911421292018266,1.5025252646234397
+2097042476,Independent quantization an index compression technique for high-dimensional data spaces,2000,20,265,2,0.5,2013057434,Stefan Berchtold,0,-0.22612037590731188,1.3745344124332788
+2097056866,Frequent subgraph discovery in dynamic networks,2010,21,42,4,1.0,160997069,Bianca Wackersreuther,0,-1.5807859506325537,-2.022562222790387
+2103452682,RIC Parameter-free noise-robust clustering,2007,24,15,1,1.0,2771206607,Christian Bohm,0,-0.9470492844347577,3.4429720642873742
+2097743039,Density connected clustering with local subspace preferences,2004,12,132,1,1.0,2771206607,Christian Bohm,0,-0.8684493000272839,3.1405182666829745
+2100783210,Modelling of classification rules on metabolic patterns including machine learning and expert knowledge,2005,25,33,2,0.666667,2244343177,Christian Baumgartner,0,0.7508523047664529,0.8669942587093077
+2104128006,A cost model for nearest neighbor search in high-dimensional data space,1997,27,317,2,0.0,2013057434,Stefan Berchtold,0,-0.5481616817769454,1.3490730251270169
+2081584164,INCONCO interpretable clustering of numerical and categorical objects,2011,33,18,2,0.505512,2122910652,Claudia Plant,0,-0.9276621056189845,3.2967440555879044
+2117416418,Enhancing instance-based classification with local density a new algorithm for classifying unbalanced biomedical data,2006,26,13,2,0.330057,2122910652,Claudia Plant,0,0.5286892694446145,0.4165539563400827
+2132082507,On Optimizing Nearest Neighbor Queries in High-Dimensional Data Spaces,2001,26,18,2,0.464529,2013057434,Stefan Berchtold,0,-0.26741172356801984,2.665120816237924
+2108706544,On Exploring Complex Relationships of Correlation Clusters,2007,22,45,2,0.690712,182894350,Elke Achtert,0,-0.4596178353338706,1.5573789230977408
+2124222502,Searching in high-dimensional spaces Index structures for improving the performance of multimedia databases,2001,133,746,1,1.0,2771206607,Christian Bohm,0,-0.36721794653005774,0.8039046112996662
+2118462151,The Gauss-Tree Efficient Object Identification in Databases of Probabilistic Feature Vectors,2006,14,98,1,1.0,2771206607,Christian Bohm,0,-0.1984714131877254,-0.08331523624254955
+2118539426,Efficient similarity search in digital libraries,2000,32,24,1,1.0,2771206607,Christian Bohm,0,-0.006017598927857702,0.08275641203516064
+2130258443,High performance data mining using the nearest neighbor join,2002,25,34,1,1.0,2771206607,Christian Bohm,0,-0.5533502915533599,-0.10858341239079967
+2142669732,A cost model and index architecture for the similarity join,2001,37,52,1,1.0,2771206607,Christian Bohm,0,-0.15730449464084634,0.9207761474052603
+2133542527,The pyramid-technique towards breaking the curse of dimensionality,1998,24,372,2,0.0,2810675295,Stefan Berchtold,0,-0.2608108544850426,0.7353296715959389
+2122346601,Measuring non-gaussianity by phi-transformed and fuzzy histograms,2012,22,0,6,0.412758,2122910652,Claudia Plant,0,0.003708468606338,0.082832279151172
+2137565219,A cost model for query processing in high dimensional data spaces,2000,71,103,1,1.0,2771206607,Christian Bohm,0,-0.16805592010640258,0.4611648925645948
+2122964930,Probabilistic Ranking Queries on Gaussians,2006,9,28,1,1.0,2771206607,Christian Bohm,0,0.5686035243780361,0.6312220291306342
+2117196912,Online hierarchical clustering in a data warehouse environment,2005,16,18,2,0.666667,182894350,Elke Achtert,0,-0.3929336131841895,1.6055598635908226
+2180976102,Efficient Comparison of Encrypted Biometric Templates,2012,13,2,3,0.0,2647076200,Michael Dorn,0,0.003708468606338,0.082832279151172
+2154549366,Mining Hierarchies of Correlation Clusters,2006,16,34,2,0.690712,182894350,Elke Achtert,0,-0.940373701837459,3.2812191028631617
+2169559860,Supervised machine learning techniques for the classification of metabolic disorders in newborns,2004,28,38,2,0.666667,2244343177,Christian Baumgartner,0,0.003708468606338,0.082832279151172
+2169706457,SkyDist data mining on skyline objects,2010,11,4,1,1.0,2771206607,Christian Bohm,0,0.2180309438501814,0.6405917876939522
+2169737330,Determining the Convex Hull in Large Multidimensional Databases,2001,29,52,1,1.0,2771206607,Christian Bohm,0,0.003708468606338,0.082832279151172
+2158181513,Approximate reverse k-nearest neighbor queries in general metric spaces,2006,3,11,2,0.690712,182894350,Elke Achtert,0,-0.3478762025086244,1.250022203891204
+2146723843,Summarization-based mining bipartite graphs,2012,22,11,4,1.0,2302555519,Jing Feng,0,-0.7235804078507831,2.5601504943765385
+2168143534,Robust Complete and Efficient Correlation Clustering âˆ—,2007,14,44,5,0.690712,182894350,Elke Achtert,0,-0.8554342357691828,2.9919264872384264
+2205071250,Epsilon grid order an algorithm for the similarity join on massive high-dimensional data,2001,30,91,1,1.0,2771206607,Christian Bohm,0,0.036812285703943404,0.39789617676986855
+2404095990,Immer grÃ¶ÃŸere und komplexere Datenmengen Herausforderungen fÃ¼r Clustering-Algorithmen,2004,0,1,1,1.0,2771206607,Christian Bohm,0,-0.21934185016841626,0.6056873083074126
+2583225437,Gaussian Component Based Index for GMMs,2016,13,3,5,1.0,2565336067,Linfei Zhou,0,0.08116191308788215,-0.0812027468693789
+2559420313,Synchronization-based scalable subspace clustering of high-dimensional data,2017,37,14,5,0.226024,2109747452,Junming Shao,0,-0.3394240906228752,1.2378106158588456
+2563762303,DeLiClu Boosting robustness completeness usability and efficiency of hierarchical clustering by a closest pair ranking,2006,0,3,2,0.690712,182894350,Elke Achtert,0,-0.9678201442474003,3.2741203848514377
+2585062736,MeGS Partitioning Meaningful Subgraph Structures Using Minimum Description Length,2016,18,6,3,0.0,119557107,Sebastian Goebl,0,0.003708468606338,0.082832279151172
+2585165456,Subspace Clustering Ensembles through Tensor Decomposition,2016,28,0,2,1.0,2667898261,Dominik Mautz,0,-0.8749122440993683,3.138967865190811
+2615088552,Joint Gaussian Based Measures for Multiple-Instance Learning,2017,24,1,3,1.0,2565336067,Linfei Zhou,0,-0.21934185016841626,0.6056873083074126
+2593062772,Supporting KDD aplications by the k-nearest neighbor join,2003,0,0,2,1.0,2078393825,Florian Krebs,0,-0.38275943278404906,0.6955376201514673
+2740816993,Novel Indexing Strategy and Similarity Measures for Gaussian Mixture Models,2017,19,0,5,1.0,2565336067,Linfei Zhou,0,-0.27713734745464136,0.18395495235383852
+2744619601,Learning from Labeled and Unlabeled Vertices in Networks,2017,30,4,5,0.777778,2299720385,Wei Ye,0,0.003708468606338,0.082832279151172
+2753535641,Optimal multidimensional query processing using tree striping,2000,0,0,2,0.5,2013057434,Stefan Berchtold,0,0.14188464089040462,0.009434800544510477
+2741665188,Indexing Multiple-Instance Objects,2017,30,0,5,1.0,2565336067,Linfei Zhou,0,-0.13472603796809096,-0.02059548530989587
+2739573680,Knowledge Discovery of Complex Data Using Gaussian Mixture Models,2017,34,1,4,1.0,2565336067,Linfei Zhou,0,0.10461830920690023,0.07551764020204074
+2752149858,The pruning power Theory and heuristics for mining databases with multiple k-nearest-neighbor queries,2000,0,1,1,1.0,2771206607,Christian Bohm,0,-0.21161067211524384,-0.24706773470504456
+2743644771,Towards an Optimal Subspace for K-Means,2017,31,8,4,1.0,2667898261,Dominik Mautz,0,-0.4381479942883965,1.2030875514352943
+2809541107,Discovering Non-Redundant K-means Clusterings in Optimal Subspaces,2018,23,6,4,1.0,2667898261,Dominik Mautz,0,-0.4381479942883965,1.2030875514352943
+2799446878,A Novel Hilbert Curve for Cache-locality Preserving Loops,2018,0,2,3,0.153378,2122910652,Claudia Plant,0,0.003708468606338,0.082832279151172
+2927768435,Clustering of Mixed-Type Data Considering Concept Hierarchies,2019,13,3,4,0.0,2773439747,Sahar Behzadi,0,-0.21934185016841626,0.6056873083074126
+2948969539,Cache-oblivious High-performance Similarity Join,2019,54,2,3,1.0,2585354441,Martin Perdacher,0,0.003708468606338,0.082832279151172
+3003813325,Deep Embedded Cluster Tree,2019,13,1,3,1.0,2667898261,Dominik Mautz,0,-0.49680371111629457,1.1825094605693118

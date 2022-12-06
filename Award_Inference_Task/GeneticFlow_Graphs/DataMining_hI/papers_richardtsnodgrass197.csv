@@ -1,0 +1,100 @@
+120760773,Three Proposals for a Third-Generation Temporal Data Model,1993,12,1,1,1.0,699078101,Richard T. Snodgrass,0,0.23718097276165792,0.1331367055876189
+188724223,Accessibility of the Database Literature,2001,0,0,1,1.0,699078101,Richard T. Snodgrass,0,0.003708468606338,0.082832279151172
+1328411,Review - Implementation of Two Semantic Query Optimization Techniques in DB2 Universal Database,2000,0,0,1,1.0,699078101,Richard T. Snodgrass,0,-0.23309359166818477,-0.4625325338954005
+56249703,Guest Editors Introduction to Special Section On Temporal and Real-Time Databases,1995,0,3,2,0.0,2012318693,Gultekin Ozsoyoglu,0,0.003708468606338,0.082832279151172
+93454400,Review - Schema Versioning for Multitemporal Relational Databases,2000,0,0,1,1.0,699078101,Richard T. Snodgrass,0,-2.7518042669137013,0.5127785639441338
+130134734,Review - Temporal Data Management Systems A Comparative View,2000,0,0,1,1.0,699078101,Richard T. Snodgrass,0,-0.9230450125381722,0.70019851436394
+182171805,Letter (on SQL support of time),1989,0,0,1,1.0,699078101,Richard T. Snodgrass,0,-0.3291976808020441,-0.13703470885516322
+132565862,Efficient Sequenced Integrity Constraint Checking,2001,0,3,2,0.0,2668169528,Wei Li,0,-0.006799453288761149,-0.20169485267385479
+149631410,Review - Using Lifetime Predictors to Improve Memory Allocation Performance,1999,0,0,1,1.0,699078101,Richard T. Snodgrass,0,0.003708468606338,0.082832279151172
+102536876,A Bibliography on Temporal Databases,1988,60,54,2,0.0,2650484615,Robert B. Stam,0,-0.7201522582455129,0.20160978202609675
+339373418,The TempIS Project Performance Analysis of Temporal Queries,1987,0,0,1,1.0,699078101,Richard T. Snodgrass,0,-0.9754390826663254,0.42651095124432103
+1524188218,Extending temporal databases to deal with telic/atelic medical data,2005,35,2,2,0.8,2964242414,Paolo Terenziani,0,-0.9827152497600739,0.3324972807012192
+1492100919,Database publication practices,2005,2,5,8,0.0,2304774990,Philip A. Bernstein,0,-0.3394380530009998,-0.0716407767871401
+1518738965,Semantics of Time-Varying Attributes and their Use for Temporal Database Design,1995,16,13,2,0.84375,2159644763,Christian S. Jensen,0,-1.003470583435488,0.33541172124792434
+1546227028,Notions of upward compatibility of temporal query languages,1997,29,36,4,0.0,2165266057,John Bair,0,-0.25733797427724464,0.010161620889443113
+1538380742,Aggregation in temporal databases,1999,0,5,1,1.0,699078101,Richard T. Snodgrass,0,-0.4435825736064338,0.6581198032947405
+1504193486,Coalescing in Temporal Databases,1996,47,119,2,0.882353,2300834035,Michael H. BÃ¶hlen,0,-0.32540848570157244,0.10248532232322365
+1539870105,DISTIL A Design Support Environment for Conceptual Modeling of Spatio-temporal Requirements,2001,16,9,2,0.0,2000652461,Sudha Ram,0,-0.3463604919045107,0.10443282827736822
+1558518539,Temporal object-oriented databases a critical comparison,1995,0,74,1,1.0,699078101,Richard T. Snodgrass,0,-1.0585316427590434,0.7473767380009431
+1589080315,Schema-mediated exchange of temporal XML data,2006,32,9,2,0.152353,2811094840,Curtis E. Dyreson,0,-1.032357941254242,-0.07241916625464029
+1589223644,Temporal Databases Theory Design and Implementation,1993,0,529,2,0.0,102673266,Shashi K. Gadia,0,-1.9812565230365424,0.8226538510580702
+1607709446,The From Clause,1995,2,2,1,1.0,699078101,Richard T. Snodgrass,0,-2.2046915690252695,0.7282428412993731
+1590026725,A Tale of Two Schemas Creating a Temporal XML Schema from a Snapshot Schema with Ï„XSchema,2004,30,30,1,1.0,699078101,Richard T. Snodgrass,0,-2.844946438548826,-0.34152050050573046
+1603549363,Schema-Less Semantics-Based Change Detection for XML Documents,2004,25,7,3,0.0,2127292447,Shuohao Zhang,0,-1.0906640130405392,0.0747337817132502
+1835623796,Querying TSQL2 Databases with Temporal Logic,1996,42,26,3,0.882353,2300834035,Michael H. BÃ¶hlen,0,-0.9754390826663254,0.42651095124432103
+1926970341,Supporting User-Defined Granularities in a Spatiotemporal Conceptual Model,2002,60,28,3,1.0,1858752543,Vijay Khatri,0,-0.21627966054854336,-0.056998686363426726
+1971602700,Effective timestamping in databases,2000,26,37,3,0.571429,2104508450,Kristian Torp,0,0.1429959681500993,0.13994443975531567
+1971864291,A consensus glossary of temporal database concepts,1994,0,450,6,0.0,19930516,Nikos A. Lorentzos,0,-0.26265184047218176,0.05179536057995667
+1964930029,On augmenting database design-support environments to capture the geo-spatio-temporal data semantics,2006,154,23,3,0.5625,1858752543,Vijay Khatri,0,-1.085007598366752,0.228902390520172
+1973602210,DRAGOON An Information Accountability System for High-Performance Databases,2012,10,3,2,1.0,2034043277,Kyriacos E. Pavlou,0,0.003708468606338,0.082832279151172
+1965135806,Frequently-asked questions about double-blind reviewing,2007,2,7,1,1.0,699078101,Richard T. Snodgrass,0,0.003708468606338,0.082832279151172
+1986739594,Temporal statement modifiers,2000,51,52,3,0.466667,2300834035,Michael H. BÃ¶hlen,0,-0.12053786652442122,0.047981444280229164
+1979795383,Unifying temporal data models via a conceptual model,1994,26,87,3,0.84375,2159644763,Christian S. Jensen,0,-0.13020865347867558,0.2533434234572168
+2004851292,On the semantics of â€œnowâ€ in databases,1997,54,136,1,1.0,699078101,Richard T. Snodgrass,0,-0.9650748892164164,0.35373863997655536
+1990891840,Generalizing database forensics,2013,20,10,2,1.0,2034043277,Kyriacos E. Pavlou,0,-2.5158746737932023,1.0026088137254616
+1992732065,Semantics of time-varying information,1996,83,93,2,0.820325,2159644763,Christian S. Jensen,0,-0.3296291904115372,0.15243802031905637
+1992752048,Schema evolution and the relational algebra,1990,56,63,2,0.0,2171475509,Edwin McKenzie,0,-3.7068354547116216,0.6714244387193331
+1994878915,Weaving temporal and reliability aspects into a schema tapestry,2007,41,7,2,0.152353,2811094840,Curtis E. Dyreson,0,-3.4466045479844447,0.5568668363083841
+1989703244,Parallel algorithms for computing temporal aggregates,1999,8,27,5,0.0,2005660740,J.A.G. Gendrano,0,-0.21213496913654628,0.3542368708526895
+2000290232,Supporting valid-time indeterminacy,1998,58,138,2,0.444444,2811094840,Curtis E. Dyreson,0,-0.14631086582095978,-0.02176310812044982
+2004136730,Temporal Support for Persistent Stored Modules,2012,15,2,1,1.0,699078101,Richard T. Snodgrass,0,-0.8951336892475934,0.21421986574243998
+2000616942,A glossary of temporal database concepts,1992,2,159,5,0.624601,2159644763,Christian S. Jensen,0,-0.4239844318379835,0.006796866499987453
+2007793108,Bibliography on spatiotemporal databases,1994,61,34,2,1.0,2701766809,Khaled K. Al Taha,0,-1.6941741395153669,0.5310092113063621
+2004368965,Achieving Database Information Accountability in the Cloud,2012,7,4,2,1.0,2034043277,Kyriacos E. Pavlou,0,-0.521416602347715,0.04667717430424454
+2022469268,Optimal block size for set-valued attributes,1993,12,2,2,0.0,2436359586,Suchen H. Hsu,0,-0.6987622881829031,0.4929450233639224
+2015516856,Towards an infrastructure for temporal databases report of an invitational ARPA/NSF workshop,1994,19,64,2,0.0,2221969279,Niki Pissinou,0,-0.3049247326517621,0.1886461481807304
+2015787982,Application of Micro-specialization to Query Evaluation Operators,2012,10,8,2,0.0,2291342075,Rui Zhang,0,-0.5207388606918844,0.13779230513221863
+2023578311,Spatiotemporal aggregate computation a survey,2005,90,135,1,1.0,699078101,Richard T. Snodgrass,0,-0.36440380343545997,0.29103997172198737
+2014846787,Performance evaluation of a temporal database management system,1986,13,56,2,0.571429,2117723368,Ilsoo Ahn,0,-0.6709289623985009,0.3249471844476933
+2011375057,Forensic analysis of database tampering,2006,19,27,2,1.0,2034043277,Kyriacos E. Pavlou,0,-2.5158746737932023,1.0026088137254616
+2032513332,Valid-Time Indeterminacy in Temporal Relational Databases Semantics and Representations,2013,21,18,3,0.40749,102584586,Luca Anselma,0,-0.669602825440017,0.2630729733674556
+2030738730,An extensible notation for spatiotemporal index queries,1998,24,33,3,0.0,8132329,Vassilis J. Tsotras,0,0.003708468606338,0.082832279151172
+2033323770,Performance analysis of temporal queries,1989,28,18,2,0.0,2949770976,Ilsoo Ahn,0,-0.9382760925918332,0.16391547508258925
+2049202698,Bibliography on spatiotemporal databases,1993,0,50,2,1.0,2701766809,Khaled K. Al Taha,0,-1.089576700932311,0.5361057980662085
+2054736275,Partitioned storage for temporal databases,1988,30,64,2,0.571429,2117723368,Ilsoo Ahn,0,-0.3049247326517621,0.1886461481807304
+2035786766,Validating quicksand Temporal schema versioning in Ï„XSchema,2008,19,30,1,1.0,699078101,Richard T. Snodgrass,0,-3.2998536529356657,-0.25893505413860995
+2057647741,A taxonomy of time databases,1985,11,161,1,1.0,699078101,Richard T. Snodgrass,0,-0.3770915695870368,0.0311897442088592
+2059471791,Adding Temporal Constraints to XML Schema,2012,32,13,4,0.0,2082868880,Faiz Currim,0,-3.1488966590248757,-0.23959272100957907
+2099464320,An apples-to-apples comparison of two database journals,2005,1,6,7,0.0,2304774990,Philip A. Bernstein,0,-0.5382003747333197,0.07543261150339188
+2103064203,Adaptable query optimization and evaluation in temporal middleware,2001,51,106,3,0.6,347472556,Giedrius Slivinskas,0,-0.11252933999612166,0.08211909820066597
+2097506587,The Tiled Bitmap Forensic Analysis Algorithm,2010,7,26,2,1.0,2034043277,Kyriacos E. Pavlou,0,0.003708468606338,0.082832279151172
+2095171371,Temporal databases status and research directions,1990,13,84,1,1.0,699078101,Richard T. Snodgrass,0,-0.3049247326517621,0.1886461481807304
+2095303876,Valid-time indeterminacy,1993,21,50,1,1.0,699078101,Richard T. Snodgrass,0,-1.168195051796498,0.5490154922309717
+2091953868,Valid-Time Indeterminacy in Temporal Relational Databases A Family of Data Models,2010,9,7,3,0.40749,102584586,Luca Anselma,0,-0.3296291904115372,0.15243802031905637
+2094104648,The inefficiency of misalignment,1996,0,0,1,1.0,699078101,Richard T. Snodgrass,0,0.003708468606338,0.082832279151172
+2081832566,Timestamp semantics and representation,1993,33,28,2,0.444444,2811094840,Curtis E. Dyreson,0,-0.3049247326517621,0.1886461481807304
+2102023823,Efficient evaluation of the valid-time natural join,1994,25,73,2,0.0,2077624740,Michael D. Soo,0,-0.7671038222366763,0.5571096673610175
+2094198961,Report on the 1995 international workshop on temporal databases,1995,0,8,3,0.0,2986326717,Arie Segev,0,-0.8198826529954021,0.5649523486460563
+2087221713,DBMS metrology measuring query time,2013,14,5,2,1.0,1985114594,Sabah Currim,0,-0.0395804122397981,0.0068802457672825015
+2123124331,Capturing Telic/Atelic Temporal Data Semantics Generalizing Conventional Conceptual Models,2014,65,11,3,0.435595,1858752543,Vijay Khatri,0,-0.12670320790657297,0.12069918486402886
+2132496728,An Architecture for Regulatory Compliant Database Management,2009,29,11,3,0.0,2151738296,Soumyadeb Mitra,0,-0.4719503313433817,0.28575635369833813
+2129688845,Efficient sequenced temporal integrity checking,2001,17,2,2,0.0,218334890,A. Kasthurirangan,0,-0.3340236692148618,0.41222748504783724
+2106125778,A foundation for conventional and temporal query optimization addressing duplicates and ordering,2001,40,20,3,0.6,347472556,Giedrius Slivinskas,0,-0.1359684434893468,0.08720380216468357
+2113056857,Temporal and real-time databases a survey,1995,221,422,2,0.0,2012318693,Gultekin Ozsoyoglu,0,-0.20357812114447082,0.09575802744189432
+2130654008,Reconciling point-based and interval-based semantics in temporal relational databases a treatment of the Telic/Atelic distinction,2004,97,50,2,0.0,79826314,Paolo Terenziani,0,-1.9967465097476416,0.6247433376745238
+2116094274,Micro-Specialization in DBMSes,2012,23,11,2,0.0,2291342075,Rui Zhang,0,-0.9674631947073763,0.2738033894765541
+2116132637,Temporal specialization and generalization,1994,71,62,2,0.84375,2159644763,Christian S. Jensen,0,-0.5553855724995141,0.3551552967905961
+2107289309,Extending temporal databases to deal with telic/atelic medical data,2007,60,21,2,0.8,2964242414,Paolo Terenziani,0,-0.7755710280509922,0.2648186437189698
+2122323423,Extending existing dependency theory to temporal databases,1996,58,63,2,0.820325,2159644763,Christian S. Jensen,0,-1.0547751860460348,0.3516514541148367
+2125317812,Computing temporal aggregates,1995,16,84,2,0.0,2974140159,N. Kline,0,-0.1891214141446367,0.3059597931767878
+2134155667,Using the lock manager to choose timestamps,2005,16,16,2,0.0,1983664831,David B. Lomet,0,-2.5072721634549833,1.0274928680668396
+2140422321,Sequenced subset operators definition and implementation,2002,17,13,4,0.0,2618676973,J. Dunn,0,-1.0964324203637972,0.4133904382734465
+2140431256,Validating Quicksand Schema Versioning in 	auXSchema,2006,17,19,2,0.152353,2811094840,Curtis E. Dyreson,0,-3.2998536529356657,-0.25893505413860995
+2125902693,Augmenting a conceptual model with geospatiotemporal annotations,2004,160,46,3,1.0,1858752543,Vijay Khatri,0,-0.3289586604794197,0.18291923566913562
+2111216087,Unification of temporal data models,1993,26,23,3,0.713463,2159644763,Christian S. Jensen,0,-0.9211943684657964,0.7734164592297512
+2140880712,Temporal Implications of Database Information Accountability,2012,14,2,2,1.0,2034043277,Kyriacos E. Pavlou,0,-1.0385846944315325,0.4421882913075476
+2153471319,Temporal slicing in the evaluation of XML queries,2003,18,70,2,0.0,2692231798,Dengfeng Gao,0,-2.5417860762245867,-0.31719561715663896
+2171740677,The Surrogate Data Type,1995,0,8,2,0.84375,2159644763,Christian S. Jensen,0,0.003708468606338,0.082832279151172
+2169057819,Temporal data management,1999,24,249,2,0.33108,2159644763,Christian S. Jensen,0,-0.44691715017696954,0.14473000748841708
+2166093864,Stratum approaches to temporal DBMS implementation,1998,20,27,3,0.571429,2104508450,Kristian Torp,0,-1.8733925783138738,0.7852490211715072
+2154644815,Modification semantics in now-relative databases,2004,30,11,3,0.545455,2104508450,Kristian Torp,0,-0.25131521816270536,0.20909292218401396
+2155643890,Efficiently supporting temporal granularities,2000,33,58,1,1.0,699078101,Richard T. Snodgrass,0,-0.4239844318379835,0.006796866499987453
+2158678189,Towards a Science of Temporal Databases,2007,12,3,1,1.0,699078101,Richard T. Snodgrass,0,-0.9754390826663254,0.42651095124432103
+2185821303,AZDBLab a laboratory information system for large-scale empirical DBMS studies,2014,9,7,2,0.545455,2602653982,Young Kyoon Suh,0,0.003708468606338,0.082832279151172
+2159036867,Aggregates in the temporal query language TQuel,1993,54,71,1,1.0,699078101,Richard T. Snodgrass,0,-1.0421745013536108,0.49910549792459613
+2218440399,Supporting Temporal Data Management Applications via Stratum Approaches,1998,0,1,1,1.0,699078101,Richard T. Snodgrass,0,-0.9230450125381722,0.70019851436394
+2286094079,A Foundation for Conventional and Temporal Query Optimization,2000,0,0,2,0.6,347472556,Giedrius Slivinskas,0,-0.1029618939806145,0.040434369851773004
+2467846928,Schema-less semantics-based change detection for XML documents,2004,0,0,3,0.0,2127292447,Shuohao Zhang,0,-2.0191958671190036,-0.07640934208325924
+2567721618,An empirical study of transaction throughput thrashing across multiple relational DBMSes,2017,57,1,2,0.545455,2602653982,Young Kyoon Suh,0,0.1210367497521051,0.3715704428647246
+2553994547,DBMS Metrology Measuring Query Time,2017,17,7,2,0.652174,1985114594,Sabah Currim,0,-0.0395804122397981,0.0068802457672825015

@@ -1,0 +1,117 @@
+74024549,Making DB2Products Self-Managing Strategies and Experiences,2006,14,12,4,0.0,240506892,Sam Lightstone,0,-0.0041099411153885,0.0447066884760059
+130646193,Proceedings of the 11th international conference on Extending database technology Advances in database technology,2008,0,0,3,0.0,159460538,Noureddine Mouaddib,0,0.18601297105691045,-0.0008472885667257998
+135704271,Handling of Uncertainty and Temporal Indeterminacy for What-if Analysis,2010,18,2,3,1.0,2143485303,Katrin Eisenreich,0,-0.0041099411153885,0.0447066884760059
+964279055,QUERY FEEDBACK-BASED CONFIGURATION OF DATABASE STATISTICS,2006,4,6,1,1.0,1963964406,Volker Markl,0,2.6743266187700288,0.6886064846962098
+1559681537,ReoptSMART A Learning Query Plan Cache,2008,16,3,3,0.0,29980631,Julia Stoyanovich,0,0.0908845357243609,0.31128747720343375
+1506217276,Damia a data mashup fabric for intranet applications,2007,1,92,1,1.0,1963964406,Volker Markl,0,-0.7876687232155336,-1.1247368357661462
+1560709097,SQL query problem determination tool,2005,23,10,1,1.0,1963964406,Volker Markl,0,0.0908845357243609,0.31128747720343375
+1182426426,VDDA automatic visualization-driven data aggregation in relational databases,2016,40,20,4,1.0,2585713541,Uwe Jugel,0,1.448717368580211,0.3112593021974589
+1515739837,Progressive query optimization for federated queries,2006,25,11,3,0.0,2118023846,Stephan Eberhard Ewen,0,0.36610311895500325,0.07045586025680924
+1535035109,CORDS automatic generation of correlation statistics in DB2,2004,1,13,2,0.318455,1982738670,Ihab F. Ilyas,0,0.7091925579491484,0.0961205803614717
+1499807075,Progressive optimization in action,2004,1,6,2,0.0,2112167796,Vijayshankar Raman,0,0.014532710543751099,0.030944858938630852
+1571912949,Method system and program for prioritizing maintenance of database tables,2008,11,14,2,0.0,240506892,Sam Lightstone,0,0.32066835392501103,-0.2818999174788965
+1517546976,Integrating a maximum-entropy cardinality estimator into DB2 UDB,2006,2,5,3,0.0,2086802575,Marcel Kutsch,0,0.8140596460152509,0.20479544869174804
+1493098199,Consistently estimating the selectivity of conjuncts of predicates,2005,31,51,1,1.0,1963964406,Volker Markl,0,0.014532710543751099,0.030944858938630852
+1574566141,System and method for updating database statistics according to query feedback,2004,27,43,1,1.0,1963964406,Volker Markl,0,0.014532710543751099,0.030944858938630852
+1485587488,Efficient sample generation for scalable meta learning,2015,28,7,3,0.6,2226370207,Sebastian Schelter,0,-0.0041099411153885,0.0447066884760059
+1538818174,Progressive refinement of a federated query plan during query execution,2006,15,93,2,0.0,1186758707,Holger Kache,0,0.0908845357243609,0.31128747720343375
+1486098759,Management of statistical views in a database system,2006,22,4,1,1.0,1963964406,Volker Markl,0,2.022476639161431,0.3845228178657179
+1445821577,Situational Business Intelligence,2008,24,38,3,1.0,2196246240,Alexander LÃ¶ser,0,-0.08154556660970409,0.26622696733492324
+1576446635,Challenges and Trends in Information Management,2006,24,3,3,0.0,276841381,Karin Kailing,0,-0.40975864434508047,0.2110873139452707
+1835980735,Processing star queries on hierarchically-clustered fact tables,2002,30,42,5,0.0,1897716579,Nikos Karayannidis,0,1.6991715529235287,0.20642021710913697
+1598467895,Impliance A Next Generation Information Management Appliance,2007,25,6,6,0.705882,2290747941,Bishwaranjan Bhattacharjee,0,-0.40975864434508047,0.2110873139452707
+1614330000,Breaking the chains on declarative data analysis and data independence in the big data era,2014,8,30,1,1.0,1963964406,Volker Markl,0,-0.024790895417796277,0.036558183283816284
+1952220400,Improving OLAP performance by multidimensional hierarchical clustering,1999,34,81,1,1.0,1963964406,Volker Markl,0,1.1792699979698071,0.07534754745599868
+1980565479,Proceedings of the 15th International Conference on Extending Database Technology,2012,0,10,2,0.0,740816581,Ioana Manolescu,0,0.9316064865344776,0.1612482291378786
+1970372442,Implicit Parallelism through Deep Language Embedding,2015,42,39,8,1.0,2475077581,Alexander Alexandrov,0,-0.37538904668272804,-0.1679513215203286
+1980971633,MAXENT consistent cardinality estimation in action,2006,2,4,1,1.0,1963964406,Volker Markl,0,0.8140596460152509,0.20479544869174804
+1990785501,Special issue best papers of VLDB 2008,2010,0,0,2,0.0,2020138198,Peter Buneman,0,-0.25609130579317646,0.2785941556746898
+1998085622,Learning table access cardinalities with LEO,2002,0,21,1,1.0,1963964406,Volker Markl,0,0.7215975991611812,0.3052417628859806
+1997168731,The Beckman Report on Database Research,2014,7,47,23,0.0,2170206103,Daniel J. Abadi,0,0.16961816653767703,0.31221718520020947
+1988408820,Demonstrating efficient query processing in heterogeneous environments,2014,7,6,7,0.0,307135438,Tomas Karnagel,0,1.895196177528836,0.5928190882089575
+2002430341,Peeking into the optimization of data flow programs with MapReduce-style UDFs,2013,16,16,6,0.75,2082351141,Fabian Hueske,0,1.4543859154203909,0.28670431802318136
+1999394006,Das Fachgebiet â€žDatenbanksysteme und Informationsmanagementâ€œ (DIMA) an der Technischen UniversitÃ¤t Berlin stellt sich vor,2011,0,0,1,1.0,1963964406,Volker Markl,0,-0.0041099411153885,0.0447066884760059
+2026766678,A learning optimizer for a federated database management system,2005,23,10,3,1.0,2693687635,Stephan Ewen,0,-0.2554006006761083,0.005185177391162952
+2030528599,Automated statistics collection in action,2005,2,3,4,0.15554,2118460571,Peter J. Haas,0,-0.0041099411153885,0.0447066884760059
+2016901333,Issues in big data testing and benchmarking,2013,28,18,3,1.0,2475077581,Alexander Alexandrov,0,0.1467548350383203,0.09225535823811573
+2049112760,Cloudy skies for data management,2010,0,0,5,0.0,2121888616,David G. Campbell,0,-0.0041099411153885,0.0447066884760059
+2040585856,Correlation Support for Risk Evaluation in Databases,2012,20,1,4,1.0,2143485303,Katrin Eisenreich,0,0.16477033626089935,0.2755436432715686
+2035367810,Massively parallel data analysis with PACTs on Nephele,2010,5,43,7,1.0,2475077581,Alexander Alexandrov,0,0.3283008513272994,0.2895446514403333
+2037279835,Tractor pulling on data warehouses,2011,0,4,3,0.0,2117317669,Martin L. Kersten,0,-0.016423041802404552,0.23247970041337768
+2044792119,Processing operations with restrictions in RDBMS without external sorting the Tetris algorithm,1999,25,23,1,1.0,1963964406,Volker Markl,0,0.7951286639712832,0.20678850655710837
+2041563709,Robust query processing through progressive optimization,2004,24,204,1,1.0,1963964406,Volker Markl,0,-0.23110885929603256,0.7682063706058481
+2075712468,Self-Tuning GPU-Accelerated Kernel Density Models for Multidimensional Selectivity Estimation,2015,42,18,3,0.677419,2083567564,Max Heimel,0,0.014532710543751099,0.030944858938630852
+2074013691,Progressive optimization in a shared-nothing parallel database,2007,22,23,3,0.33947,2307556295,Wook Shin Han,0,0.6434823582420691,0.7125968554399273
+2102489964,CORDS automatic discovery of correlations and soft functional dependencies,2004,21,248,2,0.318455,1982738670,Ihab F. Ilyas,0,0.8849488502274716,0.02837874106067673
+2082323325,Myriad scalable and expressive data generation,2012,6,15,3,1.0,2475077581,Alexander Alexandrov,0,0.22674329328343565,0.4817944917341091
+2085400819,Myriad parallel data generation on shared-nothing architectures,2011,8,4,1,1.0,1963964406,Volker Markl,0,0.12426065884095695,0.15131552676207197
+2096193885,Asymmetry in Large-Scale Graph Analysis Explained,2014,11,3,5,0.0,170583068,Vasiliki Kalavri,0,-0.0041099411153885,0.0447066884760059
+2102166438,LEO - DB2s LEarning Optimizer,2001,15,326,3,0.0,2674265202,Michael Stillger,0,-0.23240877596324094,0.21645910591347053
+2141236452,Interactive ROLAP on large datasets a case study with UB-trees,2001,18,11,2,1.0,311686939,Frank Ramsak,0,0.8857392820305222,1.3025119231406523
+2133206852,An inside analysis of a genetic-programming based optimizer,2006,18,4,5,0.0,269041426,Victor MuntÃ©s Mulero,0,0.36610311895500325,0.07045586025680924
+2121523964,Adaptively Reordering Joins during Query Execution,2007,37,82,3,0.0,2988557125,Quanzhong Li,0,0.014532710543751099,0.030944858938630852
+2139534868,Combining hierarchy encoding and pre-grouping intelligent grouping in star join processing,2003,14,9,4,0.0,2018121047,Roland Pieringer,0,1.6453681724430835,-0.46495875725141483
+2121755841,POP/FED progressive query optimization for federated queries in DB2,2006,4,17,3,0.0,1186758707,Holger Kache,0,0.014532710543751099,0.030944858938630852
+2127736915,Bulk loading a data warehouse built upon a UB-Tree,2000,19,11,3,0.75,2156381974,Robert Fenk,0,0.3709837984091096,-0.0024132713646244732
+2121810937,The Stratosphere platform for big data analytics,2014,64,304,10,1.0,2475077581,Alexander Alexandrov,0,0.20993213590767465,0.055753167789792224
+2116292745,Interval processing with the UB-Tree,2002,25,13,2,0.75,2156381974,Robert Fenk,0,0.4931063446557398,-0.16019639888269768
+2125480047,An approach to optimize data processing in business processes,2007,19,49,5,0.0,1170551802,Marko Vrhovnik,0,-0.0041099411153885,0.0447066884760059
+2131413649,LEO An autonomic query optimizer for DB2,2003,19,100,1,1.0,1963964406,Volker Markl,0,0.7215975991611812,0.3052417628859806
+2114065407,Exploitation of pre-sortedness for sorting in query processing the TempTris-algorithm for UB-trees,2001,14,2,2,0.0,1228635466,M. Zirkel,0,0.0972666111676831,0.7355654004075232
+2122990007,Integrating the UB-Tree into a Database System Kernel,2000,19,141,2,1.0,311686939,Frank Ramsak,0,0.10229173315568328,-0.04526194557340427
+2125973265,Databases and Web 20 panel at VLDB 2007,2008,8,18,2,0.0,19633248,Sihem Amer Yahia,0,-1.5744116404932662,-1.5003728858307481
+2159287299,Hardware-oblivious parallelism for in-memory column-stores,2013,28,74,5,0.627907,2083567564,Max Heimel,0,0.253202750105207,0.12815134630264885
+2165438843,Faster visual analytics through pixel-perfect aggregation,2014,12,11,4,1.0,2585713541,Uwe Jugel,0,0.06635930819191084,0.49152641060504293
+2150779766,ISOMER Consistent Histogram Construction Using Query Feedback,2006,18,83,3,0.0,2274204266,Utkarsh Srivastava,0,-0.0041099411153885,0.0447066884760059
+2160149182,Automated statistics collection in DB2 UDB,2004,14,50,5,0.0,2066833720,Ashraf Aboulnaga,0,0.8316175807534888,0.35249522481300577
+2166285648,Detecting attribute dependencies from query feedback,2007,24,11,3,0.15554,2118460571,Peter J. Haas,0,-0.0497626170498374,-1.0511115255950298
+2151873965,Collecting and Maintaining Just-in-Time Statistics,2007,16,18,4,0.0,2617910739,Amr El Helw,0,0.014532710543751099,0.030944858938630852
+2157938327,Damia data mashups for intranet applications,2008,4,97,3,0.0,2005619919,David E. Simmen,0,-0.34727323887890166,-0.837868074761538
+2146466202,Autonomic features of the IBM DB2 universal database for linux UNIX and windows,2006,10,16,3,0.0,240506892,Sam Lightstone,0,0.529549800599907,0.12887452311225772
+2161483952,Iterative parallel data processing with stratosphere an inside look,2013,7,24,5,1.0,2693687635,Stephan Ewen,0,-0.12316598243347586,-0.12167752573747782
+2146620757,Spinning fast iterative data flows,2012,33,94,4,1.0,2693687635,Stephan Ewen,0,0.06635930819191084,0.49152641060504293
+2164645353,Parallelizing query optimization,2008,42,49,5,0.33947,2307556295,Wook Shin Han,0,-0.3015641978542666,0.05725393901911783
+2168172602,Automatic relationship discovery in self-managing database systems,2004,2,9,2,0.318455,1982738670,Ihab F. Ilyas,0,1.9192975376230113,0.061856247136532407
+2262100274,Ocelot/HyPE optimized data processing on heterogeneous hardware,2014,14,11,5,0.179874,2302676805,Sebastian BreÃŸ,0,-0.12316598243347586,-0.12167752573747782
+2267615427,Method and system for providing a learning optimizer for federated database systems,2005,31,32,2,0.0,1130278,Michael Ortega Binderberger,0,0.7215975991611812,0.3052417628859806
+2241439599,Integrating Data Resources by Generic Feed Augmentation,2008,2,5,1,1.0,1963964406,Volker Markl,0,-0.2692737732429376,-0.8013634004006072
+2294510862,M4 a visualization-oriented time series data aggregation,2014,27,48,4,1.0,2585713541,Uwe Jugel,0,0.5325669973310596,0.09709227568458595
+2282154118,Management of interesting database statistics,2007,21,25,1,1.0,1963964406,Volker Markl,0,0.7215975991611812,0.3052417628859806
+2278442298,Predictable query execution through early materialization,2006,31,31,3,0.0,401236404,Guy M. Lohman,0,-0.5296783729876128,0.5999535967023556
+2279214754,Information management in the cloud parallel dataflow programming beyond map/reduce,2011,0,0,1,1.0,1963964406,Volker Markl,0,0.20402976741762335,-0.17693360601910715
+2411006959,Bridging the gap towards optimization across linear and relational algebra,2016,15,15,4,1.0,2223132275,Andreas Kunft,0,0.4595846689782614,0.21764493895959294
+2401617952,Method system and program for storing sensor data in autonomic systems,2004,10,1,1,1.0,1963964406,Volker Markl,0,-0.0041099411153885,0.0447066884760059
+2397410198,Demonstrating Self-Learning Algorithm Adaptivity in a Hardware-Oblivious Database Engine,2014,9,2,6,0.677419,2083567564,Max Heimel,0,0.4170158691156383,0.0370747845240022
+2406545470,Demonstrating Transfer-Efficient Sample Maintenance on Graphics Cards,2015,17,1,3,0.677419,2083567564,Max Heimel,0,-0.0041099411153885,0.0447066884760059
+2431765573,Emma in Action Declarative Dataflows for Scalable Data Analysis,2016,7,4,5,0.952392,2475077581,Alexander Alexandrov,0,0.044859856903840555,0.012551371775477651
+2435174210,Efficient fault-tolerance for iterative graph processing on distributed dataflow systems,2016,27,12,4,0.0,2131747569,Chen Xu,0,0.24205710328546418,0.5812665841568029
+2520921502,A Learning Optimizer for a Federated Database Management System,2005,0,1,3,1.0,2693687635,Stephan Ewen,0,-0.0041099411153885,0.0447066884760059
+2566901168,Special issue on best papers of VLDB 2015,2017,0,3,2,0.0,2589970869,Chen Li,0,-0.25609130579317646,0.2785941556746898
+2566979091,Apache flink Stream and batch processing in a single engine,2015,31,424,2,0.0,678106963,Seif Haridi,0,1.3003220333161616,1.6214116687203073
+2575488787,Informationsintegration im Web 20,2008,0,0,1,1.0,1963964406,Volker Markl,0,-0.9841238153284008,-0.8876601391747736
+2534428167,Cutty Aggregate Sharing for User-Defined Windows,2016,22,17,5,0.0,2930491861,Paris Carbone,0,-0.5831428572732925,-0.02024141903029155
+2626931021,Efficiently Storing and Analyzing Genome Data in Database Systems,2017,35,2,6,0.0,2055337736,Sebastian Dorok,0,2.013963387830914,0.5676759353039235
+2586950140,Erratum to Special issue on best papers of VLDB 2015,2017,0,0,2,0.0,2589970869,Chen Li,0,-0.25609130579317646,0.2785941556746898
+2613873989,Benchmarking Data Flow Systems for Scalable Machine Learning,2017,23,5,4,0.0,2231871680,Christoph Boden,0,-0.0041099411153885,0.0447066884760059
+2615875423,Mosaics Stratosphere Flink and Beyond,2017,0,1,1,1.0,1963964406,Volker Markl,0,0.10128414562090012,0.3471354700175153
+2798422034,Pipelined Query Processing in Coprocessor Environments,2018,34,13,4,0.0,2476548176,Henning Funke,0,-0.3632509700454942,1.1437180412081445
+2788975424,Benchmarking Distributed Stream Processing Engines,2018,18,15,6,1.0,2745373229,Jeyhun Karimov,0,-0.0041099411153885,0.0447066884760059
+2912256776,Representations and Optimizations for Embedded Parallel Dataflow Languages,2019,63,0,3,0.909402,2475077581,Alexander Alexandrov,0,1.2310250964070883,-0.3986871313383471
+2898352726,Benchmarking Distributed Stream Data Processing Systems,2018,19,18,6,1.0,2745373229,Jeyhun Karimov,0,-0.0041099411153885,0.0447066884760059
+2915924782,Special issue best papers of VLDB 2009,2011,0,0,2,0.0,2494172793,Serge Abiteboul,0,1.1199273633085924,0.30674569222145176
+2914186888,Session details Industrial session 4 advances in query optimization,2009,0,0,1,1.0,1963964406,Volker Markl,0,0.014532710543751099,0.030944858938630852
+2928069584,Continuous Deployment of Machine Learning Pipelines,2019,0,0,4,0.0,2934357096,Behrouz Derakhshan,0,-0.0041099411153885,0.0447066884760059
+2951602731,Impliance A Next Generation Information Management Appliance,2006,0,0,6,0.705882,2290747941,Bishwaranjan Bhattacharjee,0,-0.40975864434508047,0.2110873139452707
+2954268562,Benchmarking Distributed Stream Data Processing Systems,2019,19,0,6,1.0,2745373229,Jeyhun Karimov,0,-0.0041099411153885,0.0447066884760059
+2952020281,A Survey of State Management in Big Data Processing Systems,2017,112,1,3,0.0,2663361102,Quoc Cuong To,0,-0.2659270527781907,1.1551862471395598
+2948046125,AStream Ad-hoc Shared Stream Processing,2019,51,2,3,1.0,2745373229,Jeyhun Karimov,0,-0.42845202490949574,0.1450203979855267
+2945775211,Data Management Systems Research at TU Berlin,2019,37,0,3,0.0,239574797,Ziawasch Abedjan,0,0.18601297105691045,-0.0008472885667257998
+2934774858,Resense Transparent Record and Replay of Sensor Data in the Internet of Things,2019,0,2,9,0.0,2935213071,Dimitrios Giouroukis,0,-0.0041099411153885,0.0447066884760059
+3000677617,AJoin ad-hoc stream joins at scale,2019,0,0,3,1.0,2745373229,Jeyhun Karimov,0,-0.0041099411153885,0.0447066884760059
+3003653151,The NebulaStream Platform Data and Application Management for the Internet of Things,2019,0,1,9,0.0,3003275522,Steffen Zeuch,0,0.8962159682714318,0.16555381736307653
+3023210142,Advances in Database Technology - EDBT 2017 20th International Conference on Extending Database Technology Venice Italy March 21â€“24 2017 proceedings,2017,0,0,3,0.0,10227546,Periklis Andritsos,0,-0.0041099411153885,0.0447066884760059
+3013008659,Scaling a Public Transport Monitoring System to Internet of Things Infrastructures,2020,0,0,5,0.0,2981075739,Haralampos Gavriilidis,0,-0.0041099411153885,0.0447066884760059
+3013086147,The NebulaStream Platform for Data and Application Management in the Internet of Things,2020,0,0,9,0.0,2225168296,Steffen Zeuch,0,-0.0041099411153885,0.0447066884760059
+3013389236,Disco Efficient Distributed Window Aggregation,2020,0,0,4,0.0,3013814209,Lawrence Benson,0,-0.0041099411153885,0.0447066884760059
+3013992681,Governor Operator Placement for a Unified Fog-Cloud Environment,2020,0,0,3,1.0,2980820138,Ankit Chaudhary,0,-0.0041099411153885,0.0447066884760059
+3007024586,The Seattle Report on Database Research,2020,1,0,20,0.0,2170206103,Daniel J. Abadi,0,-0.0041099411153885,0.0447066884760059

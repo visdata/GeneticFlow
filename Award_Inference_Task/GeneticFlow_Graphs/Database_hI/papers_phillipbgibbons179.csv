@@ -1,0 +1,34 @@
+948942333,Incremental maintenance of an approximate histogram in a database system,1997,11,55,3,0.782609,1874579918,Yossi Matias,0,2.51964223766412,0.8287233142250832
+1568945110,Improving hash join performance through prefetching,2004,32,69,3,0.75,2161123335,Shimin Chen,0,-0.0041099411153885,0.0447066884760059
+1571066610,Aqua A Fast Decision Support Systems Using Approximate Query Answers,1999,9,67,2,0.0,2581701633,Swarup Acharya,0,0.562203858955754,0.9466442368714238
+1544653352,Flash in a DBMS Where and How ,2010,22,25,3,1.0,1824192596,Manos Athanassoulis,0,0.5239598828647113,0.703564574438732
+1486557797,IrisNet an architecture for internet-scale sensing services,2003,8,27,4,0.714286,2120595703,Suman Nath,0,-0.0041099411153885,0.0447066884760059
+1943898111,Maintaining a random sample of a relation in a database in the presence of updates to the relation,1997,14,29,2,0.782609,1874579918,Yossi Matias,0,0.43739842239757626,0.009947045888208002
+1868718949,Method for maintaining information in a database used to generate high biased histograms using a probability function counter and threshold values,1995,25,25,3,0.0,1874579918,Yossi Matias,0,-0.0041099411153885,0.0447066884760059
+1991309516,IrisNet Internet-scale resource-intensive sensor services,2003,1,10,3,0.0,2002742946,Amol Deshpande,0,0.0012093293194426664,-0.32270967670218736
+1993482412,New sampling-based summary statistics for improving approximate query answers,1998,27,447,1,1.0,2144092273,Phillip B. Gibbons,0,1.8001647950687492,0.8774046034083878
+1992023276,Fast incremental maintenance of approximate histograms,2002,34,121,1,1.0,2144092273,Phillip B. Gibbons,0,1.487841655860418,0.4124542652879581
+2019998825,MaSM efficient online updates in data warehouses,2011,21,35,4,1.0,1824192596,Manos Athanassoulis,0,0.11627582886789564,0.3621724021946999
+2020584928,Join synopses for approximate query answering,1999,29,327,2,0.75,2987243480,Swarup Acharya,0,1.2438297776168852,-0.7319970613711922
+2099580433,Improving hash join performance through prefetching,2007,33,68,3,0.857143,2161123335,Shimin Chen,0,-0.0041099411153885,0.0447066884760059
+2087735340,TPC-E vs TPC-C characterizing the new TPC-E benchmark via an I/O comparison study,2011,5,39,4,0.852643,2161123335,Shimin Chen,0,1.641530967974413,1.4676622704682576
+2090403603,Bifocal sampling for skew-resistant join size estimation,1996,14,93,2,0.0,2552475381,Sumit Ganguly,0,0.43739842239757626,0.009947045888208002
+2105220449,Improving index performance through prefetching,2001,23,132,2,0.75,2161123335,Shimin Chen,0,-0.0041099411153885,0.0447066884760059
+2099351934,Tributaries and deltas efficient and robust aggregation in sensor network streams,2005,25,212,3,0.444444,2098120398,Amit Manjhi,0,-0.34857978327751216,-0.2513987233039086
+2139276812,The Aqua approximate query answering system,1999,4,173,2,0.75,2987243480,Swarup Acharya,0,1.6825014983277227,1.113168162647108
+2130301020,Rethinking Database Algorithms for Phase Change Memory,2011,26,205,2,0.852643,2161123335,Shimin Chen,0,-0.0041099411153885,0.0447066884760059
+2113689712,Online maintenance of very large random samples on flash storage,2008,28,78,2,0.428571,2120595703,Suman Nath,0,0.9603015824900942,0.6086201788729984
+2122731071,Wavelet synopses with error guarantees,2002,14,160,2,0.0,2089290244,Minos Garofalakis,0,-0.0041099411153885,0.0447066884760059
+2120113238,PR-join a non-blocking join achieving higher early result rate with statistical guarantees,2010,24,18,2,0.852643,2161123335,Shimin Chen,0,-0.20674748365593723,0.32322630396148244
+2134786002,Distinct Sampling for Highly-Accurate Answers to Distinct Values Queries and Event Reports,2001,34,236,1,1.0,2144092273,Phillip B. Gibbons,0,-0.0041099411153885,0.0447066884760059
+2149083272,Invalidation Clues for Database Scalability Services,2007,27,12,2,0.444444,2098120398,Amit Manjhi,0,-0.7728841216560136,-0.6290823633140098
+2164363676,Probabilistic wavelet synopses,2004,19,73,2,0.0,2089290244,Minos Garofalakis,0,-0.0041099411153885,0.0447066884760059
+2161463763,Fast Incremental Maintenance of Approximate Histograms,1997,16,166,1,1.0,2144092273,Phillip B. Gibbons,0,2.51964223766412,0.8287233142250832
+2152604168,Approximate querying method for databases with multiple grouping attributes,2000,8,74,1,1.0,2144092273,Phillip B. Gibbons,0,0.653668123465483,0.08579041427911954
+2155846054,Cache-and-query for wide area sensor databases,2003,31,128,3,0.0,2002742946,Amol Deshpande,0,0.9213596166401758,-0.035801181983167354
+2199389590,Congressional samples for approximate answering of group-by queries,2000,13,211,2,0.75,2987243480,Swarup Acharya,0,0.3704861478821108,0.23317740256327
+2218436609,System and method for providing anonymous personalized browsing in a network,1998,5,161,3,0.0,223632183,Eran Gabber,0,-0.0041099411153885,0.0447066884760059
+2307098877,Distinct sampling system and a method of distinct sampling for a database,2004,14,13,1,1.0,2144092273,Phillip B. Gibbons,0,-0.0041099411153885,0.0447066884760059
+2400758157,Method and system for generating a statistical summary of a database using a join synopsis,2000,6,45,1,1.0,2144092273,Phillip B. Gibbons,0,1.1331143867863316,-1.2022534750670741
+2736886810,Method for reading server site anonymously,1998,0,16,3,0.0,223632183,Eran Gabber,0,-0.0041099411153885,0.0447066884760059
+2914512445,Inspector joins,2005,14,18,3,0.857143,2161123335,Shimin Chen,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,46 @@
+70584117,ExecScent mining for new C&amp;C domains in live networks with adaptive control protocol templates,2013,25,61,1,1.0,140829034,Roberto Perdisci,0,-0.07675743758439237,0.44829883413721916
+155384935,Building a dynamic reputation system for DNS,2010,22,298,2,0.875,321442596,Manos Antonakakis,0,-1.3643835773950794,0.5457238917575578
+173629715,Notos Building a Dynamic Reputation System for DNS,2010,0,15,1,1.0,140829034,Roberto Perdisci,0,0.3259332239481683,0.5745734317069635
+1561983441,From throw-away traffic to bots detecting the rise of DGA-based malware,2012,29,291,2,0.875,321442596,Manos Antonakakis,0,0.047074420308525065,0.7731884831536854
+1528365302,A centralized monitoring infrastructure for improving DNS security,2010,21,33,4,0.875,321442596,Manos Antonakakis,0,-2.608048024658503,0.5920637883327715
+1697490417,Method and system for detecting malicious domain names at an upper DNS hierarchy,2012,399,74,1,1.0,140829034,Roberto Perdisci,0,-2.8427757286357624,0.6646898759019378
+1651734357,Method and system for network-based detecting of malware from behavioral clustering,2011,429,88,1,1.0,140829034,Roberto Perdisci,0,0.05940095047987125,0.6960502266457337
+1775772884,BotMiner clustering analysis of network traffic for protocol- and structure-independent botnet detection,2008,36,936,2,0.0,2150371625,Guofei Gu,0,0.0040557659796233,0.2757546058061082
+1827212170,Behavioral clustering of HTTP-based malware and signature generation using malicious network traces,2010,23,349,1,1.0,140829034,Roberto Perdisci,0,0.05940095047987125,0.6960502266457337
+1975745448,Understanding the prevalence and use of alternative plans in malware with network games,2011,22,8,3,0.692308,307609487,Yacin Nadji,0,-0.6954734986230432,1.5243745912008198
+1984918390,ASwatch An AS Reputation System to Expose Bulletproof Hosting ASes,2015,20,37,2,0.0,2125625780,Maria Konte,0,0.3259332239481683,0.5745734317069635
+1992110042,Scalable fine-grained behavioral clustering of HTTP-based malware,2013,35,42,1,1.0,140829034,Roberto Perdisci,0,0.05940095047987125,0.6960502266457337
+2027585446,PeerRush Mining for unwanted P2P traffic,2014,19,19,2,1.0,262353201,Babak Rahbarinia,0,0.155870422438688,-0.3611899258997246
+2033368661,Misleading worm signature generators using deliberate noise injection,2006,19,164,1,1.0,140829034,Roberto Perdisci,0,0.10371539242929195,0.5918708737361019
+2034297286,Exposing invisible timing-based traffic watermarks with BACKLIT,2011,32,26,4,0.884615,2139554617,Xiapu Luo,0,0.3259332239481683,0.5745734317069635
+2061221009,WebCapsule Towards a Lightweight Forensic Engine for Web Browsers,2015,13,12,3,1.0,2225251121,Christopher Neasbitt,0,0.0040557659796233,0.2757546058061082
+2075986968,Beheading hydras performing effective botnet takedowns,2013,8,43,3,0.692308,307609487,Yacin Nadji,0,0.15043545337158268,0.7148297596926915
+2057079516,VAMO towards a fully automated malware clustering validity analysis,2012,18,46,1,1.0,140829034,Roberto Perdisci,0,-0.13207201912491093,0.695031384453717
+2062533261,SURF detecting and measuring search poisoning,2011,14,65,2,0.0,2116820571,Long Lu,0,0.0040557659796233,0.2757546058061082
+2082456656,Boosting the scalability of botnet detection using adaptive traffic sampling,2011,23,28,3,0.73913,2421950894,Junjie Zhang,0,0.3071331255154989,0.7412245476517926
+2097101695,PeerRush mining for unwanted p2p traffic,2013,21,32,2,1.0,262353201,Babak Rahbarinia,0,0.155870422438688,-0.3611899258997246
+2101737524,Detecting Malicious Flux Service Networks through Passive Analysis of Recursive DNS Traces,2009,11,130,1,1.0,140829034,Roberto Perdisci,0,0.0040557659796233,0.2757546058061082
+2136433906,ClickMiner Towards Forensic Reconstruction of User-Browser Interactions from Network Traces,2014,13,42,2,1.0,2225251121,Christopher Neasbitt,0,-0.007253844157883216,0.7154494288013075
+2137803891,On the secrecy of spread-spectrum flow watermarks,2010,27,22,3,0.884615,2139554617,Xiapu Luo,0,0.09916773108989464,0.32357474920162166
+2165357553,McBoost Boosting Scalability in Malware Collection and Analysis Using Statistical Classification of Executables,2008,24,109,1,1.0,140829034,Roberto Perdisci,0,-0.44983553567081264,-0.0001889377822796856
+2182421051,WebWitness investigating categorizing and mitigating malware download paths,2015,36,42,2,1.0,2305829380,Terry Nelms,0,0.20989671203457722,0.6910457199396322
+2170214103,Detecting stealthy P2P botnets using statistical traffic fingerprints,2011,18,86,2,0.73913,2421950894,Junjie Zhang,0,0.3071331255154989,0.7412245476517926
+2146211060,Polymorphic blending attacks,2006,28,211,3,0.0,765807516,Prahlad Fogla,0,0.13679434731489165,0.6751406926737795
+2167370920,WSEC DNS Protecting recursive DNS resolvers from poisoning attacks,2009,14,40,1,1.0,140829034,Roberto Perdisci,0,-1.3552681102913873,0.8121967873501414
+2258082031,Understanding Malvertising Through Ad-Injecting Browser Extensions,2015,12,40,6,0.0,2282059511,Xinyu Xing,0,0.7113787978911551,0.9534874277012158
+2215644347,SinkMiner Mining Botnet Sinkholes for Fun and Profit,2013,2,6,2,1.0,262353201,Babak Rahbarinia,0,0.7166906037314893,0.449279146360687
+2288791011,Connected Colors Unveiling the Structure of Criminal Networks,2013,22,19,3,0.692308,307609487,Yacin Nadji,0,0.0040557659796233,0.2757546058061082
+2342718701,Still Beheading Hydras Botnet Takedowns Then and Now,2017,8,10,2,0.419055,307609487,Yacin Nadji,0,0.06846708678256631,0.8077872926794716
+2401054255,Detecting malware domains at the upper DNS hierarchy,2011,21,198,2,0.875,321442596,Manos Antonakakis,0,-1.2015182937208917,0.6862097922141552
+2396034850,Real-Time Detection of Malware Downloads via Large-Scale URL-&gt;File-&gt;Machine Graph Mining,2016,22,12,1,1.0,140829034,Roberto Perdisci,0,0.1133087117042677,0.5917662484147627
+2396066572,HTTPOS Sealing Information Leaks with Browser-side Obfuscation of Encrypted Flows,2011,30,87,6,0.884615,2139554617,Xiapu Luo,0,-0.05948134721724237,0.12583820124850706
+2396876049,MAXS Scaling Malware Execution with Sequential Multi-Hypothesis Testing,2016,22,10,2,1.0,2496216601,Phani Vadrevu,0,-0.39385155031851715,1.635364817126827
+2412827343,Dynamic IP Reputation from DNS,2009,0,0,1,1.0,140829034,Roberto Perdisci,0,-0.6171381074924076,0.026743969328657673
+2474411373,Towards Measuring and Mitigating Social Engineering Software Download Attacks,2016,31,15,2,1.0,2305829380,Terry Nelms,0,-0.22560868618274874,0.6628018191991369
+2530409042,Detecting and Tracking the Rise of DGA-Based Malware,2012,0,1,2,0.875,321442596,Manos Antonakakis,0,0.15043545337158268,0.7148297596926915
+2597324766,Enabling Reconstruction of Attacks on Users via Efficient Browsing Snapshots,2017,0,4,6,1.0,2496216601,Phani Vadrevu,0,0.8701124176710343,0.025395674171123466
+2752586018,Practical Attacks Against Graph-based Clustering,2017,49,20,5,0.0,2126127195,Yizheng Chen,0,-0.5214588037023881,0.829994023416452
+2805556544,Augmenting Telephone Spam Blacklists by Mining Large CDR Datasets,2018,19,1,3,1.0,2787509887,Jienan Liu,0,0.013238562972728001,0.6016098009878486
+2793337260,JSgraph Enabling Reconstruction of Web Attacks via Efficient Tracking of Live In-Browser JavaScript Executions,2018,25,7,4,1.0,2305881005,Bo Li,0,0.0040557659796233,0.2757546058061082
+2794215546,Towards Measuring the Effectiveness of Telephony Blacklists,2018,0,1,2,0.0,2792930419,Sharbani Pandit,0,0.0040557659796233,0.2757546058061082
+2228075399,Measuring and Detecting Malware Downloads in Live Network Traffic,2013,16,31,3,1.0,2496216601,Phani Vadrevu,0,-0.38091786766455654,1.1783044921541437

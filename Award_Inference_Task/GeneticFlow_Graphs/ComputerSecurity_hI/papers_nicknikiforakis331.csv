@@ -1,0 +1,54 @@
+104428423,There is safety in numbers preventing control-flow hijacking by duplication,2012,29,2,2,0.0,1807812793,Job Noorman,0,0.0040557659796233,0.2757546058061082
+141003461,Recent developments in low-level software security,2012,36,2,2,0.0,1988296717,Pieter Agten,0,-0.8068564391735623,1.5257520948323258
+57130263,Soundsquatting Uncovering the Use of Homophones in Domain Squatting,2014,14,28,1,1.0,2223183145,Nick Nikiforakis,0,0.0040557659796233,0.2757546058061082
+219436511,Serene self-reliant client-side protection against session fixation,2012,12,22,2,0.571429,1411939152,Philippe De Ryck,0,-0.28057180395894155,0.12672934158264598
+27867186,DEMACRO defense against malicious cross-domain requests,2012,16,6,2,0.0,189999584,Sebastian Lekies,0,-1.1668428896142926,-0.02935906477378944
+181628467,Large-Scale Security Analysis of the Web Challenges and Findings,2014,18,33,3,1.0,2059812420,Tom Van Goethem,0,0.052222536754136975,0.9157998499034995
+167216241,HeapSentry kernel-assisted protection against heap overflows,2013,29,14,1,1.0,2223183145,Nick Nikiforakis,0,-0.6567160340281432,1.3137850476034183
+204642155,Exploring the ecosystem of referrer-anonymizing services,2012,13,6,1,1.0,2223183145,Nick Nikiforakis,0,-0.38297672827465196,0.46125068598901287
+1236479421,Secure multi-execution of web scripts Theory and practice,2014,55,14,3,0.333333,106016043,Willem De Groef,0,1.7029826062605458,-0.2600589908962866
+1546563748,Bitsquatting exploiting bit-flips for fun or profit ,2013,11,30,6,0.0,233250515,Frank Piessens,0,0.05940095047987125,0.6960502266457337
+1588234377,HProxy client-side detection of SSL stripping attacks,2010,13,27,1,1.0,2223183145,Nick Nikiforakis,0,0.0040557659796233,0.2757546058061082
+1888717584,SessionShield lightweight protection against session hijacking,2011,32,63,1,1.0,2223183145,Nick Nikiforakis,0,-1.1668428896142926,-0.02935906477378944
+1591370639,ValueGuard protection of native applications against data-only buffer overflows,2010,33,15,2,0.0,2038516990,Steven Van Acker,0,0.1639362940477497,0.6530314529854678
+1786282155,Exposing the lack of privacy in file hosting services,2011,14,23,1,1.0,2223183145,Nick Nikiforakis,0,-0.003181023713049999,0.61505027352456
+1927921928,Are You Sure You Want to Contact Us Quantifying the Leakage of PII via Website Contact Forms,2016,19,14,3,0.818182,237926303,Oleksii Starov,0,0.2592494969742524,0.6331155965106835
+1965209910,The Clock is Still Ticking Timing Attacks in the Modern Web,2015,20,34,3,1.0,2059812420,Tom Van Goethem,0,-0.36178312187424855,0.10705089180541508
+1966175380,FPDetective dusting the web for fingerprinters,2013,13,159,3,0.0,2149911756,Gunes Acar,0,0.6883462310583599,0.3815053943570277
+1995290095,FlowFox a web browser with flexible and precise information flow control,2012,42,108,3,0.333333,106016043,Willem De Groef,0,0.0040557659796233,0.2757546058061082
+1998843210,Parking sensors Analyzing and detecting parked domains,2015,17,47,3,0.75,2295395117,Thomas Vissers,0,0.05940095047987125,0.6960502266457337
+2014005029,Drops for Stuff An Analysis of Reshipping Mule Scams,2015,20,8,3,0.0,2514357051,Shuang Hao,0,0.0040557659796233,0.2757546058061082
+2020208333,RIPE runtime intrusion prevention evaluator,2011,37,59,2,0.0,2030617692,John Wilander,0,1.1243529009823896,0.8486765138551735
+2045726900,Cookieless Monster Exploring the Ecosystem of Web-Based Device Fingerprinting,2013,18,231,1,1.0,2223183145,Nick Nikiforakis,0,-0.14030442843248647,0.7500380815700933
+2071800216,Protected Web Components Hiding Sensitive Information in the Shadows,2015,7,3,2,0.263158,1411939152,Philippe De Ryck,0,-0.6385692791286616,-0.030015198554274113
+2070112613,Maneuvering Around Clouds Bypassing Cloud-based Security Providers,2015,18,27,4,0.75,2295395117,Thomas Vissers,0,-0.34824093440265547,0.5453774352720739
+2077204203,FlashOver automated discovery of cross-site scripting vulnerabilities in rich internet applications,2012,17,30,2,0.666667,2038516990,Steven Van Acker,0,1.7029826062605458,-0.2600589908962866
+2065255030,TabShots client-side detection of tabnabbing attacks,2013,12,14,2,0.571429,1411939152,Philippe De Ryck,0,0.1639362940477497,0.6530314529854678
+2067488563,On the Workings and Current Practices of Web-Based Device Fingerprinting,2014,5,11,1,1.0,2223183145,Nick Nikiforakis,0,0.3192085515801053,1.087983398285203
+2071005228,Clubbing Seals Exploring the Ecosystem of Third-party Security Seals,2014,18,5,4,1.0,2059812420,Tom Van Goethem,0,-0.13325950327090183,1.246604749428507
+2101678831,You are what you include large-scale evaluation of remote javascript inclusions,2012,20,190,1,1.0,2223183145,Nick Nikiforakis,0,0.0040557659796233,0.2757546058061082
+2126709396,Monkey-in-the-browser malware and vulnerabilities in augmented browsing script markets,2014,16,12,2,0.666667,2038516990,Steven Van Acker,0,0.9611320424042716,0.40663404146440335
+2144154820,Abusing locality in shared web hosting,2011,7,13,1,1.0,2223183145,Nick Nikiforakis,0,0.0040557659796233,0.2757546058061082
+2256284630,PriVaricator Deceiving Fingerprinters with Little White Lies,2015,11,73,1,1.0,2223183145,Nick Nikiforakis,0,-0.2558656733054443,0.6298621486781488
+2286680562,On the effectiveness of virtualization-based security,2012,14,3,3,0.0,2138604314,Francesco Gadaleta,0,0.12340015586982621,0.5325683461052929
+2336291507,No Honor Among Thieves A Large-Scale Analysis of Malicious Web Shells,2016,12,17,5,0.818182,237926303,Oleksii Starov,0,-0.3047545252885912,0.26741539059796465
+2334956882,Why allowing profile name reuse is a bad idea,2016,34,4,6,0.0,2343079182,Enrico Mariconti,0,-1.5165611834410564,-0.62437501687407
+2400264373,A Dangerous Mix Large-Scale Analysis of Mixed-Content Websites,2013,9,20,2,0.818182,2584470686,Ping Chen,0,-1.0947450544688027,-0.12853668076344332
+2475947966,Dial One for Scam Analyzing and Detecting Technical Support Scams,2016,16,4,3,1.0,2479344290,Najmeh Miramirkhani,0,0.0040557659796233,0.2757546058061082
+2467763829,Its free for a reason Exploring the ecosystem of free live streaming services,2016,30,15,5,0.0,1982609905,M. Zubair Rafique,0,0.05940095047987125,0.6960502266457337
+2521340632,Crying wolf On the price discrimination of online airline tickets,2014,8,24,2,0.0,1969876091,Wouter Joosen,0,0.0040557659796233,0.2757546058061082
+2614012654,Dial One for Scam A Large-Scale Analysis of Technical Support Scams,2017,23,28,3,1.0,2479344290,Najmeh Miramirkhani,0,-0.22560868618274874,0.6628018191991369
+2712617220,Spotless Sandboxes Evading Malware Analysis Systems Using Wear-and-Tear Artifacts,2017,28,25,3,1.0,2479344290,Najmeh Miramirkhani,0,0.30622116258125237,1.2711770463082963
+2723746209,XHOUND Quantifying the Fingerprintability of Browser Extensions,2017,21,24,2,0.818182,237926303,Oleksii Starov,0,-0.2558656733054443,0.6298621486781488
+2753871665,Hiding in Plain Sight A Longitudinal Study of Combosquatting Abuse,2017,35,30,7,0.0,2486198997,Panagiotis Kintis,0,-0.09590364642982285,0.5725994346438593
+2766742916,The Wolf of Name Street Hijacking Domains Through Their Nameservers,2017,18,7,5,0.75,2295395117,Thomas Vissers,0,0.0040557659796233,0.2757546058061082
+2767115056,Hindsight Understanding the Evolution of UI Vulnerabilities in Mobile Browsers,2017,19,7,4,1.0,2767077712,Meng Luo,0,0.0040557659796233,0.2757546058061082
+2758431229,By Hook or by Crook Exposing the Diverse Abuse Tactics of Technical Support Scammers,2017,15,0,5,0.0,2166612400,Bharat Srinivasan,0,-0.161298346099243,0.7472569504791728
+2773671833,Picky Attackers Quantifying the Role of System Properties on Intruder Behavior,2017,21,5,2,0.857143,2766783857,Timothy Barron,0,0.195550915690186,0.47000409876036975
+2960248881,Purchased Fame Exploring the Ecosystem of Private Blog Networks,2019,24,0,4,0.450704,2059812420,Tom Van Goethem,0,0.0040557659796233,0.2757546058061082
+2948008293,Time Does Not Heal All Wounds A Longitudinal Analysis of Security-Mechanism Support in Mobile Browsers,2019,0,1,4,1.0,2767077712,Meng Luo,0,0.0040557659796233,0.2757546058061082
+2965462472,Everyone is different Client-side diversification for defending against extension fingerprinting,2019,0,3,4,0.0,2604904542,Erik Trickel,0,0.0040557659796233,0.2757546058061082
+2974492900,Now You See It Now You Donâ€™t A Large-scale Analysis of Early Domain Deletions,2019,0,1,1,1.0,2223183145,Nick Nikiforakis,0,0.0040557659796233,0.2757546058061082
+2966437945,Less is More Quantifying the Security Benefits of Debloating Web Applications,2019,0,3,3,0.0,2966707506,Babak Amin Azad,0,0.0040557659796233,0.2757546058061082
+3015762016,Meddling Middlemen Empirical Analysis of the Risks of Data-Saving Mobile Browsers,2020,0,0,5,0.0,3016133750,Brian Kondracki,0,-0.7375509850793613,-1.083054901785394
+3007024382,Complex Security Policy A Longitudinal Analysis of Deployed Content Security Policies,2020,0,0,4,0.0,2945079890,Sebastian Roth,0,-0.17171594710597857,0.16540393438417608

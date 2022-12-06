@@ -1,0 +1,42 @@
+1560301721,A Transaction Replication Scheme for a Replicated Database with Node Autonomy,1994,18,24,2,0.0,2165551961,Ada Wai Chee Fu,0,1.8689014033249447,2.2510524450195444
+1542474184,Exploiting the Duality of Maximal Frequent Itemsets and Minimal Infrequent Itemsets for I/O Efficient Association Rule Mining,2000,8,3,4,0.0,2105588709,K. K. Loo,0,-0.0041099411153885,0.0447066884760059
+1481937891,Privacy-Preserving Clustering with High Accuracy and Low Time Complexity,2009,17,5,3,0.0,2517519525,Yingjie Cui,0,-0.0041099411153885,0.0447066884760059
+1553219970,XML Data Integration Using Fragment Join,2009,4,0,2,1.0,2573062225,Jian Gong,0,2.2264543832113666,-0.864750789273662
+1556107440,Parallel Mining of Outliers in Large Database,2002,16,35,2,0.0,2929493077,Edward Hung,0,-0.2571876882309151,0.040510523461494335
+1538472414,Automatic Construction of Online Catalog Topologies,2001,7,1,4,0.0,2156230967,Wing Kin Sung,0,-0.0041099411153885,0.0447066884760059
+1745169521,SF-Tree An efficient and flexible structure for estimating selectivity of simple path expressions with statistical accuracy guarantee,2004,16,1,3,0.0,2164666481,Wai Shing Ho,0,0.726715317978951,-0.2856343731896689
+1587425587,Processing Ad-Hoc Joins on Mobile Devices,2004,9,6,3,0.75,2098564095,Eric Lo,0,-0.0041099411153885,0.0447066884760059
+1933907254,Lightweight privacy-preserving peer-to-peer data integration,2013,28,7,5,0.0,2892644241,Ye Zhang,0,0.31255201073465105,-0.0652648968870233
+1808014452,DROLAP - A Dense-Region Based Approach to On-Line Analytical Processing,1999,15,16,1,1.0,1979772396,David W. Cheung,0,0.4749764847799586,1.9493846182726877
+1827686453,Discovering Minimal Infrequent Structures from XML Documents,2004,13,1,3,1.0,2123222515,Wang Lian,0,1.664459549076852,-0.5926588282950298
+1783744706,A Fast Algorithm for Density-Based Clustering in Large Database,1999,9,15,2,0.0,2628999232,Bo Zhou,0,-0.0041099411153885,0.0447066884760059
+1970854797,Progressive skylining over web-accessible databases,2006,21,48,4,0.75,2098564095,Eric Lo,0,0.004803920465759948,0.4164781288618021
+1989800045,Efficient top- k aggregation of ranked inputs,2007,32,90,2,0.247102,18851973,Nikos Mamoulis,0,0.3799054506293388,-0.15396955400937015
+2004443904,Cleaning uncertain data for top-k queries,2013,34,21,4,0.818182,2099125123,Luyi Mo,0,1.351671019631371,0.3168031633717796
+2000960318,S-OLAP an OLAP system for analyzing sequence data,2010,2,18,4,0.0,2151865322,Chun Kit Chui,0,-0.14759648524916008,0.3831949646457924
+2010173932,OLAP on sequence data,2008,21,75,6,0.529412,2098564095,Eric Lo,0,-0.3632509700454942,1.1437180412081445
+2016621069,Secure query processing with data interoperability in a cloud database environment,2014,36,48,3,1.0,2298896485,Wai Kit Wong,0,0.947416007220155,0.13742112863637979
+2018455501,Security on cloud computing query computation and data mining on encrypted database,2011,0,3,1,1.0,1979772396,David W. Cheung,0,1.1324594174860683,0.34462805954839926
+2042300585,Towards the building of a dense-region-based OLAP system,2001,15,34,1,1.0,1979772396,David W. Cheung,0,0.9300166031178091,1.726082424715093
+2041480327,Secure kNN computation on encrypted databases,2009,22,437,2,1.0,2298896485,Wai Kit Wong,0,-0.0041099411153885,0.0447066884760059
+2048589614,Evaluating Probabilistic Queries over Uncertain Matching,2012,23,3,3,0.0,2138267588,Reynold Cheng,0,1.0136137108616516,-0.6598685588358805
+2043375640,Non-homogeneous generalization in privacy preserving data publishing,2010,27,58,3,1.0,2298896485,Wai Kit Wong,0,0.43739842239757626,0.009947045888208002
+2063551752,Managing uncertainty of XML schema matching,2010,24,18,3,0.0,2138267588,Reynold Cheng,0,1.1782744272123915,-0.5164861327339997
+2067494201,Maintenance of maximal frequent itemsets in large databases,2007,15,11,2,1.0,2123222515,Wang Lian,0,-0.0041099411153885,0.0447066884760059
+2096337497,Security in outsourcing of association rule mining,2007,21,75,2,1.0,2298896485,Wai Kit Wong,0,-0.0041099411153885,0.0447066884760059
+2114462835,An audit environment for outsourcing of frequent itemset mining,2009,17,28,2,1.0,2298896485,Wai Kit Wong,0,1.9238525143984029,0.37239058427302907
+2141196435,Similarity search in sets and categorical data using the signature tree,2003,22,27,2,0.375,18851973,Nikos Mamoulis,0,-0.08409179807752487,0.011928619695882825
+2114624736,Maintenance of discovered association rules in large databases an incremental updating technique,1996,9,702,1,1.0,1979772396,David W. Cheung,0,1.852225048910134,1.243415825599711
+2129351753,Density-based place clustering in geo-social networks,2014,41,46,4,0.0,2231141570,Jieming Shi,0,-0.0041099411153885,0.0447066884760059
+2106211610,Efficient management of uncertainty in XML schema matching,2012,25,12,3,1.0,2573062225,Jian Gong,0,1.244078643840341,-0.5278495888952256
+2124852384,Approximate string matching in DNA sequences,2003,25,30,2,0.0,2439791521,Lok Lam Cheng,0,-1.3190954229062979,0.15215070957355736
+2122092158,A semantic similarity approach to electronic document modeling and integration,2000,10,20,1,1.0,1979772396,David W. Cheung,0,-0.9604584513503367,-1.9163747665698025
+2168960477,Efficient Aggregation of Ranked Inputs,2006,15,30,4,0.297731,18851973,Nikos Mamoulis,0,0.3799054506293388,-0.15396955400937015
+2155406434,Discovering and reconciling value conflicts for numerical data integration,2001,35,68,4,0.0,2674246165,Weiguo Fan,0,0.03157673031801105,0.05646485059988407
+2147035797,Scalable skyline computation using object-based space partitioning,2009,31,114,3,0.0,2099294320,Shiming Zhang,0,0.25245882146783893,0.09919480006319664
+2236012408,Knowledge discovery in databases A rule-based attribute-oriented approach,1994,7,27,1,1.0,1979772396,David W. Cheung,0,0.3827040968138439,-0.0302926472305973
+2243165325,SDB a secure query processing system with data interoperability,2015,9,5,4,0.0,2149279740,Zhian He,0,-0.0041099411153885,0.0447066884760059
+2245008112,CLUDE An Efficient Algorithm for LU Decomposition Over a Sequence of Evolving Graphs,2014,27,1,5,1.0,2230218292,Chenghui Ren,0,-0.4197151661071337,-0.42589767901227754
+2622672763,Efficient processing of shortest path queries in evolving graph sequences,2017,28,2,6,1.0,2230218292,Chenghui Ren,0,-0.0041099411153885,0.0447066884760059
+2740360858,Non-order-preserving Index for Encrypted Database Management System,2017,22,0,4,0.972493,2298896485,Wai Kit Wong,0,-0.0041099411153885,0.0447066884760059
+2794165871,Investment recommendation by discovering high-quality opinions in investor based social networks,2018,35,3,3,0.0,2466722531,Wenting Tu,0,-0.0041099411153885,0.0447066884760059

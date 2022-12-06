@@ -1,0 +1,60 @@
+986455944,DATABASE MANAGEMENT SYSTEM FOR CONTROLLING SETTING OF CACHE PARTITION AREA IN STORAGE SYSTEM,2008,5,22,1,1.0,2147854764,Nobuo Kawamura,0,-0.0041099411153885,0.0447066884760059
+319446536,DATA ARRANGEMENT METHOD AND DATA MANAGEMENT SYSTEM,2010,8,5,3,0.0,2006205435,Shinji Fujiwara,0,0.18601297105691045,-0.0008472885667257998
+1559042928,Method and system for high-availability database,2008,9,11,1,1.0,2147854764,Nobuo Kawamura,0,0.8629442155814793,0.9357512755559544
+1479702949,Database recovery method applying update journal and database log,2008,10,35,2,0.359719,2094499170,Takashi Oeda,0,0.4025889478885114,0.48024838706628664
+1533837296,Database processing method apparatus for carrying out the same and medium storing processing program,2002,8,24,2,1.0,2096882591,Tomohiro Nakayama,0,1.3048134241781268,0.16590565420481354
+1481640249,Method and system for managing multiple database storage units,2001,10,68,1,1.0,2147854764,Nobuo Kawamura,0,1.0467133613127804,0.26981149932241577
+1490792880,Method and system for resolving disarrangement in database,2003,10,6,3,0.0,2110029903,Yuki Sugimoto,0,0.37468440789870566,-0.09504312419542195
+1511190631,Method program and apparatus for document retrieval system,2007,5,1,2,0.0,2123373434,Jugo Noda,0,0.45800727995876594,-0.14462476490802698
+1566051420,Database management methods and equipment and database management program storage media,2003,11,29,1,1.0,2147854764,Nobuo Kawamura,0,-0.0041099411153885,0.0447066884760059
+1575972588,Method of processing a synchronization point in a database management system to assure a database version using update logs from accumulated transactions,1995,13,100,1,1.0,2147854764,Nobuo Kawamura,0,2.2376753089903483,0.8388947028088174
+1548969625,Method and system for data processing with database reorganization for the same,2005,6,7,2,0.0,390930505,Masaru Kitsuregawa,0,0.12053920998483299,0.15933295062497538
+1549643011,Disaster recovery system suitable for database system,2004,5,33,1,1.0,2147854764,Nobuo Kawamura,0,-0.0041099411153885,0.0447066884760059
+1604505672,Data processing method and system program for realizing the method and computer readable storage medium storing the program,2003,35,23,3,0.5,2108757246,Susumu Kobayashi,0,0.04115983441906388,-0.0051392147957064665
+1933027518,Disaster recovery processing method and apparatus and storage unit for the same,2003,78,163,2,0.484732,2094499170,Takashi Oeda,0,-0.0041099411153885,0.0447066884760059
+1843440526,System executing log data transfer synchronously and database data transfer asynchronously,2004,69,55,2,0.484732,2094499170,Takashi Oeda,0,0.6934233285788375,0.4725827196849555
+1809563860,Database management system with rebalance architectures,2006,14,68,2,0.158172,2122117426,Yukio Nakano,0,-0.0041099411153885,0.0447066884760059
+1591285971,Database management method database management apparatus and database management program,2009,6,4,1,1.0,2147854764,Nobuo Kawamura,0,1.8914007082058568,0.5793494412049495
+1858226515,Disaster recovery method disaster recovery system remote copy method and storage system,2005,21,14,2,0.0,2110430859,Kota Yamaguchi,0,-0.0041099411153885,0.0447066884760059
+1866028366,High concurrency and recoverable B-tree index management method and system,1995,23,88,2,0.0,936470365,Junichiro Soshiki,0,0.3196192381809513,0.3168670080085853
+1593513352,Reorganization method of database and a database reorganization system,2005,10,19,2,0.0,390930505,Masaru Kitsuregawa,0,0.38009049917121435,0.45246057348231067
+2133950900,Database management system and method for query process for the same,2001,17,158,3,1.0,2117083895,Kazuyoshi Negishi,0,0.8809340701863815,0.11633144593696097
+2145146688,System and method for implementing parallel operations in a database management system,1998,9,97,3,1.0,2117083895,Kazuyoshi Negishi,0,0.8809340701863815,0.11633144593696097
+2246610243,Database management system for controlling power consumption of storage system,2008,16,7,1,1.0,2147854764,Nobuo Kawamura,0,-0.0041099411153885,0.0447066884760059
+2257178371,Method and system of database management with shared area,2005,0,6,1,1.0,2147854764,Nobuo Kawamura,0,2.397768303170411,0.7531178230389023
+2242652767,Database management system and query operation therefor including processing plural database operation requests based on key range of hash code,1999,14,54,3,1.0,2117083895,Kazuyoshi Negishi,0,1.6074283920215615,0.36574663293619397
+2220722900,Index managing method in database managing system,1996,16,40,1,1.0,2147854764,Nobuo Kawamura,0,-0.019932896829291186,0.3016474931589282
+2202019598,Exclusive control method for database and program,2007,9,7,1,1.0,2147854764,Nobuo Kawamura,0,1.4753307458730858,1.7291708060425517
+2262819764,System and method for implementing hash-based load-balancing query processing in a multiprocessor database system,2000,12,54,3,1.0,2117083895,Kazuyoshi Negishi,0,0.8809340701863815,0.11633144593696097
+2243574666,Method and computer system for allocating database data based on access frequency,2005,6,6,1,1.0,2147854764,Nobuo Kawamura,0,-0.0041099411153885,0.0447066884760059
+2259231970,Method and system for data processing with data backup,2006,11,22,1,1.0,2147854764,Nobuo Kawamura,0,-0.20133665475165913,-0.19110780330684465
+2204874904,Data allocation setting in computer system,2005,3,14,2,0.0,2022460007,Kazuhiko Mogi,0,-0.0041099411153885,0.0447066884760059
+2206690241,Storage control method for database recovery in logless mode,2006,2,56,1,1.0,2147854764,Nobuo Kawamura,0,0.38009049917121435,0.45246057348231067
+2216555680,DATABASE PROCESSING METHOD AND DATABASE PROCESSING SYSTEM,2010,11,4,2,1.0,2139800053,Seisuke Tokuda,0,-0.0041099411153885,0.0447066884760059
+2216912877,Method of exclusive control of areas in page for tuple-oriented file system,1995,24,2,2,0.0,2144987547,Satoshi Wakayama,0,0.33360150758048446,0.4395642614441575
+2261128745,Database processing system and method,2009,4,15,2,1.0,2139800053,Seisuke Tokuda,0,-0.0041099411153885,0.0447066884760059
+2274935695,Database processing method and system,2004,43,9,2,0.375,220109775,Yoshito Kamegi,0,1.039673196429526,0.013799372848206468
+2256975889,Database management method of invoking a function retrieving index type definition cataloging particular index which has not yet been supported by a database system,2001,30,27,2,0.4,220109775,Yoshito Kamegi,0,1.5847001434437686,0.2501183864835002
+2302858186,Computer system data retrieval method and database management computer,2011,10,4,2,1.0,2139800053,Seisuke Tokuda,0,0.2353888729857487,0.3298835230747928
+2284309006,System and method for highly available data processing in cluster system,2004,9,3,1,1.0,2147854764,Nobuo Kawamura,0,1.475594086445172,0.35153583657945725
+2305448773,Storage control method for storage system having database,2007,6,16,1,1.0,2147854764,Nobuo Kawamura,0,0.38009049917121435,0.45246057348231067
+2300312142,Database processing method database processing system and database server,2011,13,6,2,1.0,2139800053,Seisuke Tokuda,0,0.16268839303511062,0.35375366281492104
+2308393929,Text data registering and retrieving system including a database storing a plurality of document files therin and a plural-character occurrence table for a text index and an update text buffer to retrieve a target document in cooperation with the database,1997,11,23,2,0.0,1641374054,Yasushi Kawashimo,0,0.9408492071308692,0.912959594064505
+2407970440,Method and system for database processing by invoking a function related to index type definition generating an execution plan based on index type name,2000,24,10,2,0.4,220109775,Yoshito Kamegi,0,-0.022261304663684964,0.3884587819246262
+2394788093,Data arrangement method and data management system for improving performance using a logical storage volume,2010,12,0,2,1.0,2139800053,Seisuke Tokuda,0,0.18601297105691045,-0.0008472885667257998
+2405807325,A replicated database system executing log data transfer synchronously and database data transfer asynchronously,2005,7,14,3,0.484732,2094499170,Takashi Oeda,0,-0.0041099411153885,0.0447066884760059
+2416889321,SYSTEM AND METHOD FOR DATA BACKUP USING LOG RECORDS,2008,12,16,1,1.0,2147854764,Nobuo Kawamura,0,-0.0041099411153885,0.0447066884760059
+2724678422,DATABASE PROCESSING METHOD AND IMPLEMENTATION DEVICE AND MEDIUM STORED WITH THE PROCESSING PROGRAM,1999,0,3,3,1.0,2096882591,Tomohiro Nakayama,0,-0.00492109496191035,-0.1728987636093571
+2777165565,Tuple unit exclusive control system,1994,0,0,3,0.0,1993682459,Norifumi Nishikawa,0,0.5463625947509899,0.2933695167550105
+2774164951,DATABASE MANAGEMENT METHOD DATABASE MANAGEMENT DEVICE AND DATABASE MANAGEMENT PROGRAM,2008,4,3,1,1.0,2147854764,Nobuo Kawamura,0,-0.0041099411153885,0.0447066884760059
+2756756324,Method and device for data base management and storage medium with recorded database managing program,1999,0,7,1,1.0,2147854764,Nobuo Kawamura,0,0.37468440789870566,-0.09504312419542195
+2745812653,Method and system for processing data device for executing the same and recording medium recording processing program therefor,2002,0,4,3,0.5,2108757246,Susumu Kobayashi,0,0.6256110239689242,0.2894256229180897
+2757651004,Analysis system computer system and analysis method for analyzing behavior of database management system,2012,13,0,5,0.0,1993682459,Norifumi Nishikawa,0,-0.23240877596324094,0.21645910591347053
+2775315658,METHOD FOR REORGANIZING DATABASE STORAGE DEVICE AND STORAGE SYSTEM,2004,9,2,2,0.666667,385176617,å„ª å–œé€£å·,0,0.5045532517517429,0.22337607003259052
+2760558939,METHOD AND DEVICE FOR PROCESSING DATABASE ITS PROCESSING PROGRAM AND METHOD AND SYSTEM FOR DISASTER RECOVERY,2002,0,5,2,0.666667,385176617,å„ª å–œé€£å·,0,-0.0041099411153885,0.0447066884760059
+2747717750,DATABASE MANAGEMENT METHOD AND SYSTEM PROCESSING PROGRAM THEREFOR AND RECORDING MEDIUM STORED WITH THE PROGRAM,2001,0,6,2,0.0,2133993144,æ­£å£« åœŸç”°,0,2.87660303231533,0.8954750987661836
+2755697434,Database managing method,1999,0,15,1,1.0,2147854764,Nobuo Kawamura,0,1.512093391108171,0.30796864851434974
+2819937643,METHOD FOR MANAGING INDEX IN DATA BASE MANAGEMENT SYSTEM,1995,0,2,1,1.0,2147854764,Nobuo Kawamura,0,0.22758185000451395,0.39878881404710037
+2823481683,METHOD AND SYSTEM FOR MANAGING DATA BASE,1992,0,6,2,0.0,2102469217,å­ å°å¯º,0,-0.0041099411153885,0.0447066884760059
+2835912785,DATA PROCESSING METHOD SYSTEM STORAGE DEVICE METHOD AND ITS PROCESSING PROGRAM,2004,2,3,1,1.0,2147854764,Nobuo Kawamura,0,-0.05420331645475635,-0.30377394917918643
+2850970599,Access control method access control device and access control program,2006,6,8,2,0.0,2115392140,è‰¯æ–‡ ä¸­è¥¿,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,52 @@
+58852127,ZOZZLE fast and precise in-browser JavaScript malware detection,2011,23,202,2,0.0,2056298812,Charlie Curtsinger,0,0.05940095047987125,0.6960502266457337
+25266476,End-to-end web application security,2007,14,51,2,0.0,691809822,Ãšlfar Erlingsson,0,-0.32409323540744556,1.1528106569199716
+178807871,Towards Security by Construction for Web 20 Applications,2007,6,0,2,0.0,691809822,Ãšlfar Erlingsson,0,-0.9301804029596308,1.6824063373214893
+128969878,Finding malware on a web scale,2012,4,2,1,1.0,2170552450,Benjamin Livshits,0,0.4989289355956827,0.9676020966581778
+977461327,Managing Access by Applications to Perceptual Information,2013,117,6,10,0.0,130871852,Margus Veanes,0,-0.38297672827465196,0.46125068598901287
+1004818022,Security by construction for web applications,2008,17,30,3,0.0,2128473890,Jeffrey van Gogh,0,-1.0979650329953827,-0.13964311682971586
+1041036805,Cryptographic mechanisms to provide information privacy and integrity,2014,23,1,2,0.631579,2076493382,Matt Fredrikson,0,-0.459266313908714,0.9971331611742617
+1520941164,NOZZLE a defense against heap-spraying code injection attacks,2009,23,193,2,0.0,149693732,Paruj Ratanaworabhan,0,-0.3298717486468034,1.2192927984572213
+1599156909,SurroundWeb Mitigating Privacy Concerns in a 3D Web Browser,2015,24,20,3,0.0,2677815522,John Vilk,0,-0.49551509751858536,1.3395583570401146
+1917555234,Fast and precise sanitizer analysis with BEK,2011,29,115,2,0.0,60101718,Pieter Hooimeijer,0,0.0040557659796233,0.2757546058061082
+2103989381,SCRIPTGARD Preventing Script Injection Attacks in Legacy Web Applications with Automatic Sanitization,2010,25,16,3,0.0,2001305480,David Molnar,0,0.0040557659796233,0.2757546058061082
+2095450067,Rozzle De-cloaking Internet Malware,2012,60,135,2,0.0,2086515109,Clemens Kolbitsch,0,0.7161354986322349,0.9600790623188239
+2102336548,Using web application construction frameworks to protect against code injection attacks,2007,20,62,1,1.0,2170552450,Benjamin Livshits,0,-1.3721930698182816,1.7734739921660752
+2123582298,ConScript Specifying and Enforcing Fine-Grained Security Policies for JavaScript in the Browser,2010,31,167,2,0.0,223813437,Leo A. Meyerovich,0,-0.3383784544281044,0.15268826611744696
+2118067797,MoRePriv mobile OS support for application personalization and privacy,2014,51,27,3,0.0,2282451864,Drew Davidson,0,0.35568159814285355,1.5735485276561527
+2132733485,GATEKEEPER mostly static enforcement of security and reliability policies for javascript code,2009,53,186,2,0.0,1997475852,Salvatore A. Guarnieri,0,-0.3383784544281044,0.15268826611744696
+2128008767,Towards ensuring client-side computational integrity,2011,16,29,2,0.0,22890495,George Danezis,0,0.05553628924300256,-0.738554236908925
+2131141188,Saving Money While Polling with InterPoll Using Power Analysis,2014,49,7,1,1.0,2170552450,Benjamin Livshits,0,-0.0018490536516566995,0.2861222163971103
+2143603206,Detecting JavaScript races that matter,2015,19,20,3,0.0,2095998418,Erdal Mutlu,0,0.0040557659796233,0.2757546058061082
+2120109169,Towards fully automatic placement of security sanitizers and declassifiers,2013,40,54,1,1.0,2170552450,Benjamin Livshits,0,0.2018268678365599,0.1425886522275585
+2171239146,Private client-side profiling with random forests and hidden markov models,2012,51,5,3,0.0,22890495,George Danezis,0,0.08663682498315435,-0.5653851768630418
+2150332791,Automatic mediation of privacy-sensitive resource access in smartphone applications,2013,32,23,1,1.0,2170552450,Benjamin Livshits,0,-0.3287690164964345,0.14636193449847731
+2144621365,Ripley automatically securing web 20 applications through replicated execution,2009,44,72,3,0.0,2175309971,K. Vikram,0,0.0040557659796233,0.2757546058061082
+2165698272,Defining a Set of Common Benchmarks for Web Application Security,2005,0,10,1,1.0,2170552450,Benjamin Livshits,0,-1.8332675387245472,3.3403118823638027
+2151619740,SCRIPTGARD automatic context-sensitive sanitization for large-scale legacy web applications,2011,23,80,3,0.310345,2126798037,Prateek Saxena,0,0.0040557659796233,0.2757546058061082
+2169771430,Verified Security for Browser Extensions,2011,30,85,3,0.0,2204222078,Arjun Guha,0,-0.24263774287769158,0.48314717038057303
+2157800990,RePriv Re-imagining Content Personalization and In-browser Privacy,2011,20,52,2,0.631579,2076493382,Matt Fredrikson,0,0.48078094822638895,1.3426908691764148
+2165120273,Enabling fine-grained permissions for augmented reality applications with recognizers,2013,21,57,5,0.0,2154388805,Suman Jana,0,-0.3287690164964345,0.14636193449847731
+2243259856,InterPoll Crowd-Sourced Internet Polls,2015,97,0,1,1.0,2170552450,Benjamin Livshits,0,-0.06882820587844,0.22982190965035054
+2212762918,ZÃ˜ an optimizing distributing zero-knowledge compiler,2014,42,15,2,0.631579,2076493382,Matt Fredrikson,0,0.4198164267471149,-0.1522996453780212
+2258626838,Security by construction for distributed applications,2008,38,8,3,0.0,2128473890,Jeffrey van Gogh,0,-1.0979650329953827,-0.13964311682971586
+2256284630,PriVaricator Deceiving Fingerprinters with Little White Lies,2015,11,73,3,0.0,2223183145,Nick Nikiforakis,0,-0.2558656733054443,0.6298621486781488
+2487708929,Prepose Privacy Security and Reliability for Gesture-Based Programming,2016,33,6,4,0.0,2144015330,Lucas Silva Figueiredo,0,0.0040557659796233,0.2757546058061082
+2519105753,Improving software security with precise static and runtime analysis,2006,138,28,2,0.0,2136170053,Monica S. Lam,0,-1.9099131314064859,2.7605029059237416
+2591538843,Toward an Evidence-based Design for Reactive Security Policies and Mechanisms,2018,36,3,2,0.0,2591298059,Omer Katz,0,-0.05954848794005338,0.6130076699712701
+2591793539,SYNODE Understanding and Automatically Preventing Injection Attacks on NODEJS,2018,42,20,3,0.0,2482633074,Cristian Alexandru Staicu,0,0.09213588834667,0.385594277368354
+2765202860,Using web application construction frameworks to protect against code injection attacks,2007,12,2,1,1.0,2170552450,Benjamin Livshits,0,-1.3721930698182816,1.7734739921660752
+2887952551,Security Doing Whatever is Needed and Not a Thing More ,2018,0,0,1,1.0,2170552450,Benjamin Livshits,0,-0.05530259374175377,0.7655955052944937
+2896791402,Who Filters the Filters Understanding the Growth Usefulness and Efficiency of Crowdsourced Ad Blocking,2018,19,16,3,0.0,2896205471,Antoine Vastel,0,0.0040557659796233,0.2757546058061082
+2914811077,Smart Contract Vulnerabilities Does Anyone Care ,2019,27,8,1,1.0,2170552450,Benjamin Livshits,0,0.7100519011056311,0.7891553277891176
+2963490108,Blender enabling local search with a hybrid differential privacy model,2017,29,24,5,0.0,2611044872,Brendan Avent,0,0.9353235852139825,1.4818581352377451
+2966841017,The Anatomy of a Cryptocurrency Pump-and-Dump Scheme,2019,0,5,2,1.0,2901045450,Jiahua Xu,0,-1.0748320696519569,0.6346639768992652
+2973083675,Broken Metre Attacking Resource Metering in EVM,2019,24,6,1,1.0,2170552450,Benjamin Livshits,0,0.9223685554068455,0.6983983662538282
+2987746627,ZKSENSE a Privacy-Preserving Mechanism for Bot Detection in Mobile Devices,2019,34,0,6,0.0,2122697406,Panagiotis Papadopoulos,0,0.10252341744347775,0.14454580460398195
+2966023840,When the Signal is in the Noise Exploiting Diffixs Sticky Noise,2019,0,2,4,0.0,2798169678,Andrea Gadotti,0,0.0040557659796233,0.2757546058061082
+2981241721,Filter List Generation for Underserved Regions,2019,17,1,5,0.0,2104802408,Alexander SjÃ¶sten,0,0.0680825083907666,0.33723871784836895
+3007951509,Broken Metre Attacking Resource Metering in EVM,2020,0,0,1,1.0,2170552450,Benjamin Livshits,0,0.0040557659796233,0.2757546058061082
+3008256642,The Decentralized Financial Crisis Attacking DeFi,2020,18,2,4,0.0,2940888579,Lewis Gudgeon,0,0.0040557659796233,0.2757546058061082
+3015975623,AdGraph A Graph-Based Approach to Ad and Tracker Blocking,2020,0,6,4,0.0,2920809925,Umar Iqbal,0,0.0040557659796233,0.2757546058061082
+3009501047,Attacking the DeFi Ecosystem with Flash Loans for Fun and Profit,2020,21,1,3,0.0,2965644289,Kaihua Qin,0,0.0040557659796233,0.2757546058061082
+3010360485,We Know What Theyve Been Put Through Revisiting High-scalability Blockchain Transactions,2020,10,0,2,1.0,2901045450,Jiahua Xu,0,-0.1883290052363719,0.7281700699026364
+3013885628,A Puff of Steem Security Analysis of Decentralized Content Curation,2018,0,0,2,0.0,81359666,Aggelos Kiayias,0,0.15891855795836926,0.4488678389500343

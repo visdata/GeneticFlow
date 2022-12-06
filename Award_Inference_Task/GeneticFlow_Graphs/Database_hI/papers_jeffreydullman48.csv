@@ -1,0 +1,92 @@
+174822317,Query Processing in Universal Relation Systems,1982,0,1,1,1.0,2289364316,Jeffrey D. Ullman,0,0.0908845357243609,0.31128747720343375
+144096106,Principles of Database and Knowledge-Base Systems Volume II The New Technologies,1989,0,364,1,1.0,2289364316,Jeffrey D. Ullman,0,-0.0041099411153885,0.0447066884760059
+45000526,A Survey of Research in Deductive Database Systems,1995,0,11,1,1.0,2289364316,Jeffrey D. Ullman,0,1.8086467655984904,0.7463311299224231
+184825043,Mining of Massive Datasets Large-Scale File Systems and Map-Reduce,2011,0,0,2,0.210797,2001295541,Anand Rajaraman,0,0.8847983936062906,-0.6311535024713856
+150735332,Corrigendum The Theory of Joins in Relational Databases,1983,0,0,1,1.0,2289364316,Jeffrey D. Ullman,0,1.8065394131336525,0.31641584711521725
+659360794,Classical database systems,1988,0,2,1,1.0,2289364316,Jeffrey D. Ullman,0,1.6827736802322424,0.2564931296490733
+1569301450,Argument reduction by factoring,1989,11,39,3,0.0,2075622585,Jeffrey F. Naughton,0,-0.25609130579317646,0.2785941556746898
+1569403765,Database Systems The Complete Book,2001,0,956,3,0.0,237419955,Hector Garcia Molina,0,1.9383805145742752,0.25614272668820137
+1506918847,A View of Directions in Relational Database Theory,1981,33,1,1,1.0,2289364316,Jeffrey D. Ullman,0,2.0847205560934565,0.26815833463974
+1506952729,Updating Logical Databases,1984,7,126,3,0.358506,2103086064,Ronald Fagin,0,1.2093417881871118,0.26507297651154665
+1501721535,Efficient implementation of data cubes via materialized views,1996,0,19,1,1.0,2289364316,Jeffrey D. Ullman,0,1.0268472490241807,1.1223879943985409
+1547338888,New Frontiers in Database System Research,1992,39,6,1,1.0,2289364316,Jeffrey D. Ullman,0,1.003582494775514,0.4106833093734575
+1565494300,Database System Implementation,2009,0,355,2,0.0,237419955,Hector Garcia Molina,0,1.9471990807277384,0.7307721486050793
+1530637755,Schema Design for Uncertain Databases,2007,44,22,2,0.183673,2103056292,Anish Das Sarma,0,2.089080939202846,0.2800099319464784
+1567446667,Handling Skew in Multiway Joins in Parallel Processing,2015,9,2,2,0.195572,2022488008,Foto N. Afrati,0,-0.0041099411153885,0.0447066884760059
+1638026557,The TSIMMIS Approach to Mediation Data Models and Languages,1997,31,793,6,0.0,237419955,Hector Garcia Molina,0,0.13549693032757354,0.6889475030609643
+1607154789,Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems,1982,0,0,1,1.0,2289364316,Jeffrey D. Ullman,0,-0.0041099411153885,0.0447066884760059
+1885032915,GYM A Multiround Join Algorithm In MapReduce,2014,38,29,5,0.254233,2022488008,Foto N. Afrati,0,-0.0041099411153885,0.0447066884760059
+1962875200,Dynamic miss-counting algorithms finding implication and similarity rules with confidence pruning,2000,15,13,2,0.0,2718326652,S. Fujiwara,0,-0.3652008450463068,0.3160971441695779
+1590221136,Assigning an Appropriate Meaning to Database Logic With Negation,1994,0,16,1,1.0,2289364316,Jeffrey D. Ullman,0,1.5709188086930435,0.7125185595312433
+1590459781,Constructing virtual databases on the world-wide web,2001,0,2,2,0.585953,2001295541,Anand Rajaraman,0,1.1733967243011674,0.04451323494398658
+1927619407,Logic and database systems,1986,0,1,1,1.0,2289364316,Jeffrey D. Ullman,0,2.0847809330085965,0.36827547387143583
+1967992696,Efficient optimization of a class of relational expressions,1979,23,177,3,1.0,2380581373,Alfred V. Aho,0,2.4415083095541856,0.03708856100582026
+1984089690,On Kents â€œConsequences of assuming a universal relationâ€ (Technical correspondance),1983,24,16,1,1.0,2289364316,Jeffrey D. Ullman,0,1.947897199286016,0.31474449204560073
+1984288101,Database systems achievements and opportunities,1990,0,51,2,0.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+1967270315,Mediator languagesâ€”a proposal for a standard report of an I 3 /POB working group held at the University of Maryland April 12 and 13 1996,1997,1,34,3,0.0,285822418,Louiqa Raschid,0,0.4542367245204761,0.1795452124480269
+1985156474,A survey of new directions in database systems,2003,0,0,1,1.0,2289364316,Jeffrey D. Ullman,0,2.6491414826887443,0.5617591549440438
+1983428002,On the foundations of the universal relation model,1984,45,262,2,0.161839,2064546257,David Maier,0,1.1688733462356653,0.032110644947150366
+1967806879,Improving the efficiency of database-system teaching,2003,0,10,1,1.0,2289364316,Jeffrey D. Ullman,0,0.044859856903840555,0.012551371775477651
+2003262311,Computing Iceberg Queries Efficiently,1998,14,400,5,0.0,2303985118,Min Fang,0,0.3642886068330618,0.27327067496891433
+2006772093,Properties of acyclic database schemes,1981,25,121,5,0.6,345432764,Catriel Beeri,0,1.6324925588494217,-0.5594077017986635
+2002653658,A model of statistical database their security,1977,2,73,2,0.0,2185371805,John B. Kam,0,0.12843839037118665,-0.04622227942794266
+2027763082,Generating efficient plans for queries using views,2001,30,60,3,0.174401,2022488008,Foto N. Afrati,0,0.0621125926555395,-0.23820600003150616
+2032386524,The theory of joins in relational databases,1979,17,360,3,1.0,2380581373,Alfred V. Aho,0,1.8673090357710318,0.2228706921952507
+2027276583,Implementation of logical query languages for databases,1985,15,356,1,1.0,2289364316,Jeffrey D. Ullman,0,0.9063360358620436,0.3911283235812231
+2032660825,The interaction between functional dependencies and template dependencies,1980,11,10,2,0.0,2083522615,Fereidoon Sadri,0,2.5231889005910784,-1.1015376462637272
+2034956514,Database systems achievements and opportunities,1991,0,197,2,0.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2033258621,Map-reduce extensions and recursive queries,2011,27,78,5,0.254468,2022488008,Foto N. Afrati,0,-0.1089887271720968,0.9347067937608937
+2051228475,Capability based mediation in TSIMMIS,1998,12,105,6,1.0,2589970869,Chen Li,0,-0.0041099411153885,0.0447066884760059
+2039610696,A simplied universal relation assumption and its properties,1982,24,277,2,0.358506,2103086064,Ronald Fagin,0,2.5159634649748184,-0.63860159670265
+2075035440,Efficient optimization of a class of relational expressions,1978,0,5,3,1.0,2380581373,Alfred V. Aho,0,1.1978470324438857,0.1757953211109024
+2055958975,The Asilomar report on database research,1998,0,207,13,0.0,2131060504,Michael L. Brodie,0,-0.0041099411153885,0.0447066884760059
+2075476359,Information translation mediation and mosaic-based browsing in the TSIMMIS system,1995,2,72,5,0.0,2124682942,Joachim Hammer,0,0.059334646286801504,-0.38217928034100956
+2075620950,Optimizing joins in a map-reduce environment,2010,24,297,2,0.254468,2022488008,Foto N. Afrati,0,0.4311248288139148,-0.3433153743811538
+2066954445,Maximal objects and the semantics of universal relation databases,1983,17,140,2,0.161839,2064546257,David Maier,0,0.5325669973310596,0.09709227568458595
+2070911018,Database research achievements and opportunities into the 1st century,1996,1,96,2,0.0,1998938290,Michael Stonebraker,0,0.2946713761785912,0.4027268098681643
+2060579849,Computing capabilities of mediators,1999,10,66,4,0.310345,2506869490,Ramana Yerneni,0,-0.0041099411153885,0.0447066884760059
+2084119909,A First Course in Database Systems,1997,0,258,1,1.0,2289364316,Jeffrey D. Ullman,0,2.6515219804645227,0.5283975894759622
+2091467328,Optimal partial-match retrieval when fields are independently specified,1979,14,109,2,1.0,2380581373,Alfred V. Aho,0,-0.2565396593076222,-0.2836430688295882
+2086397699,On complementary and independent mappings on databases,1984,10,19,2,0.375,2097278321,Arthur M. Keller,0,1.162642504050577,0.22654127197208643
+2090022091,Selected database research at Stanford,1990,0,1,3,0.375,2097278321,Arthur M. Keller,0,-0.0041099411153885,0.0447066884760059
+2104468493,Deductive databases achievements and future directions,1990,30,33,1,1.0,2289364316,Jeffrey D. Ullman,0,1.2093417881871118,0.26507297651154665
+2083851557,Moving database theory into database practice,1996,0,0,1,1.0,2289364316,Jeffrey D. Ullman,0,1.7496530711539333,0.25881223198835673
+2126256482,Query flocks a generalization of association-rule mining,1998,17,158,1,1.0,2289364316,Jeffrey D. Ullman,0,-0.7652815408912793,-0.12855322226124516
+2123858323,Principles of Database Systems,1983,0,1989,1,1.0,2289364316,Jeffrey D. Ullman,0,2.5311248665578923,-0.009264002131513373
+2124299249,On the semantics of updates in databases,1983,16,323,2,0.358506,2103086064,Ronald Fagin,0,0.19652149694803792,0.23180253400679995
+2124391840,Representative objects concise representations of semistructured hierarchical data,1997,7,161,3,0.0,376007138,Sudarshan S. Chawathe,0,1.140785408610524,0.02462922114639653
+2112719612,MedMaker a mediation system based on declarative specifications,1996,27,195,3,0.0,2776939782,Yannis Papakonstantinou,0,0.22533185832917546,0.38975701809367047
+2139447646,A version numbering scheme with a useful lexicographical order,1995,10,13,2,0.174419,2097278321,Arthur M. Keller,0,0.7621641155180695,0.8424000122284374
+2107420726,On the equivalence of logical databases,1984,9,22,2,0.0,2892643554,Gabriel M. Kuper,0,1.2093417881871118,0.26507297651154665
+2140129471,Finding interesting associations without support pruning,2000,17,95,7,0.0,2167811012,Edith Cohen,0,-0.42845202490949574,0.1450203979855267
+2140136514,SYSTEM/U a database system based on the universal relation assumption,1984,20,98,5,0.0,665840641,Henry F. Korth,0,1.4493426773655773,-0.18337098948523786
+2143401113,Implementing data cubes efficiently,1996,9,1246,3,0.75,2324343394,Venky Harinarayan,0,1.204087008153643,1.2708964080360348
+2113888164,Index selection for OLAP,1997,3,457,4,0.0,2426384081,Himanshu Gupta,0,1.0706236040774073,1.921959813745254
+2125994153,Implementation of logiclal query languages for databases (abstract only),1985,0,23,1,1.0,2289364316,Jeffrey D. Ullman,0,0.0908845357243609,0.31128747720343375
+2126004201,Information integration using logical views,1997,30,815,1,1.0,2289364316,Jeffrey D. Ullman,0,0.9141120232411367,0.5876358000341576
+2162621793,Principles Of Database And Knowledge-Base Systems,1979,0,2321,1,1.0,2289364316,Jeffrey D. Ullman,0,1.1224984194180172,-0.08592733215234316
+2169028468,LORE a Lightweight Object REpository for semistructured data,1996,3,46,11,0.28125,2308003564,Dallan Quass,0,0.296397124806043,0.7128436140546136
+2169387919,Fuzzy Joins Using MapReduce,2012,24,83,5,0.254468,2022488008,Foto N. Afrati,0,-0.0041099411153885,0.0447066884760059
+2154550764,The database approach to knowledge representation,1996,15,11,1,1.0,2289364316,Jeffrey D. Ullman,0,1.2093417881871118,0.26507297651154665
+2155094138,Foundations of uncertain-data integration,2010,33,34,3,0.0,2186177736,Parag Agrawal,0,1.4778282834956247,0.07121844675445443
+2149244699,The MIDAS data-mining project at Stanford,1999,2,5,1,1.0,2289364316,Jeffrey D. Ullman,0,0.8778557184558151,0.19096605224210253
+2220640651,Vision Paper Towards an Understanding of the Limits of Map-Reduce Computation,2012,10,21,4,0.254468,2022488008,Foto N. Afrati,0,-0.022731155342897102,0.7493890110951167
+2255110496,SharesSkew An Algorithm to Handle Skew for Joins in MapReduce,2015,25,6,3,0.195572,2022488008,Foto N. Afrati,0,-0.0041099411153885,0.0447066884760059
+2259941770,Meta-MapReduce A Technique for Reducing Communication in MapReduce Computations,2015,13,6,4,0.195572,2022488008,Foto N. Afrati,0,-0.08437414731105793,-0.06582544440309954
+2252077026,Storing and querying tree-structured records in Dremel,2014,16,8,4,0.254233,2022488008,Foto N. Afrati,0,0.14749533082335659,0.21504264570493814
+2396147240,Efficient and Private Approximations of Distributed Databases Calculations,2016,34,1,4,0.0,2747883536,Philip Derbeko,0,0.0835119396817451,0.051530138659233005
+2481295227,Mining of Massive Datasets MapReduce and the New Software Stack,2014,0,14,3,0.0,1878631932,Jure Leskovec,0,0.8847983936062906,-0.6311535024713856
+2437511805,Shasta Interactive Reporting At Scale,2016,17,3,17,0.0,2411062016,Gokul Nath Babu Manoharan,0,0.6662000294728535,0.4835812007653866
+2520030006,Computing Marginals Using MapReduce Keynote talk paper,2016,30,0,3,0.190815,2022488008,Foto N. Afrati,0,-0.0041099411153885,0.0447066884760059
+2585144597,Concise essence-preserving big data representation,2016,30,1,4,0.0,2747883536,Philip Derbeko,0,0.06635930819191084,0.49152641060504293
+2518845274,Panel The State of Data Invited Paper from panelists,2016,3,1,6,0.0,1960940100,Maude Bonenfant,0,-0.0041099411153885,0.0447066884760059
+2570907937,Logic and Database Systems,1985,0,0,1,1.0,2289364316,Jeffrey D. Ullman,0,2.642666466658474,0.6126562246002424
+2652392491,Querying websites using compact skeletons,2003,31,10,2,0.585953,2001295541,Anand Rajaraman,0,0.27614780106815134,-0.3665886444923469
+2615212359,Data Science Education Were Missing the Boat Again,2017,0,3,5,0.0,2095906382,Bill Howe,0,-0.04810387213498217,-0.07556603723650233
+2753173766,Report from the third workshop on Algorithms and Systems for MapReduce and Beyond (BeyondMR16),2017,34,0,5,0.185636,2022488008,Foto N. Afrati,0,0.2946713761785912,0.4027268098681643
+2763569821,Adequacy of Decompositions of Relational Databases,1979,0,8,4,0.161839,2064546257,David Maier,0,1.9934036657192356,0.3004901151653405
+2905972276,Partitioned Data Security on Outsourced Sensitive and Non-sensitive Data,2018,78,0,3,0.0,2201039448,Sharad Mehrotra,0,-0.20133665475165913,-0.19110780330684465
+2903669537,Brief Announcement Assignment of Different-Sized Inputs in MapReduce,2014,0,0,5,0.428571,684420109,Shlomi Dolev,0,-0.0041099411153885,0.0447066884760059
+2952591299,The Lowell Database Research Self Assessment,2003,5,5,25,0.0,172400696,Serge Abiteboul,0,-0.40975864434508047,0.2110873139452707
+2963452187,Partitioned Data Security on Outsourced Sensitive and Non-Sensitive Data,2019,33,5,3,0.0,2201039448,Sharad Mehrotra,0,-0.20133665475165913,-0.19110780330684465
+2949146102,The Asilomar Report on Database Research,1998,0,5,13,0.0,2131060504,Michael L. Brodie,0,-0.0041099411153885,0.0447066884760059

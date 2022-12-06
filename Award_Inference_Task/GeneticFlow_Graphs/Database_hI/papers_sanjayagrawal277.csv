@@ -1,0 +1,26 @@
+5013789,Merging materialized view pairs for database workload materialized view selection,2000,13,37,3,0.0,2057455714,Vivek Narasayya,0,1.1540536699608903,0.15655561995853054
+131703560,Automating Physical Database Design Workload as a Sequence,2006,0,1,2,0.192587,2057455714,Vivek Narasayya,0,2.669477783720415,0.6304270487093365
+1006168843,Index tuner for given workload,2000,8,58,4,0.0,2022497718,Atul Adya,0,0.014532710543751099,0.030944858938630852
+1020852985,Allocation of tenants to database services,2010,17,21,2,0.0,2154379914,Guozhang Wang,0,-0.13835889848422178,0.12168013402996519
+1509175288,Database tuning advisor,2004,9,39,9,0.0,226061296,Maciej Sarnowicz,0,1.4976168249011328,0.23862498118374925
+1529226136,Compressing database workloads,2004,27,27,3,0.217261,2057455714,Vivek Narasayya,0,0.38632121652839624,0.058193535481373765
+1576035775,Database Tuning Advisor for Microsoft SQL Server 2005,2004,5,185,1,1.0,2167721083,Sanjay Agrawal,0,1.803003617713881,0.3565093185573232
+1746171598,Index and materialized view selection for a given workload,2000,16,96,3,0.0,2057455714,Vivek Narasayya,0,1.1540536699608903,0.15655561995853054
+1596880543,Integrating vertical partitioning into physical database design,2005,24,28,2,0.203526,2057455714,Vivek Narasayya,0,0.541048792242954,0.14109191976847427
+1638540206,Identifying indexes on materialized views for database workload,2000,13,51,3,0.0,2057455714,Vivek Narasayya,0,1.1540536699608903,0.15655561995853054
+1600880963,AutoAdmin Self-Tuning Database SystemsTechnology,2006,23,36,1,1.0,2167721083,Sanjay Agrawal,0,2.446497974000459,0.6128651431118237
+1971684273,DBXplorer enabling keyword search over relational databases,2002,3,129,1,1.0,2167721083,Sanjay Agrawal,0,0.3402603812889857,-0.0089736584161448
+1997375126,Integrating vertical and horizontal partitioning into automated physical database design,2004,18,356,1,1.0,2167721083,Sanjay Agrawal,0,2.0710826596037513,0.6256749153741262
+2099918651,Automatic physical design tuning workload as a sequence,2006,15,89,1,1.0,2167721083,Sanjay Agrawal,0,1.4751904227788661,0.3858137433487547
+2096410630,Query portals dynamically generating portals for entity-oriented web queries,2010,9,1,1,1.0,2167721083,Sanjay Agrawal,0,-0.9685638802893648,-0.5143019196029497
+2132707431,Persistent Client-Server Database Sessions,2000,21,90,4,0.0,1271007067,Roger Barga,0,1.5122436332641072,0.24911424039955676
+2139086573,Materialized view and index selection tool for Microsoft SQL server 2000,2001,3,46,1,1.0,2167721083,Sanjay Agrawal,0,1.191909400625748,0.18883557677291216
+2121350579,DBXplorer a system for keyword-based search over relational databases,2002,15,711,1,1.0,2167721083,Sanjay Agrawal,0,0.02722072548787986,0.2891480841506257
+2113618143,Scalable ad-hoc entity extraction from text collections,2008,20,42,1,1.0,2167721083,Sanjay Agrawal,0,-0.0041099411153885,0.0447066884760059
+2122816893,Automated Selection of Materialized Views and Indexes in SQL Databases,2000,19,520,1,1.0,2167721083,Sanjay Agrawal,0,0.5894331715649427,0.5579264358667937
+2108094106,Database tuning advisor for microsoft SQL server 2005 demo,2005,11,56,1,1.0,2167721083,Sanjay Agrawal,0,1.1473428934154142,0.16797705101005034
+2151406030,Automated Ranking of Database Query Results,2003,29,243,1,1.0,2167721083,Sanjay Agrawal,0,0.0908845357243609,0.31128747720343375
+2167136297,Exploiting web search engines to search structured databases,2009,22,48,1,1.0,2167721083,Sanjay Agrawal,0,-0.0041099411153885,0.0447066884760059
+2167942260,Automating layout of relational databases,2003,17,47,4,0.0,2163909284,Surajit Chaudhuri,0,0.7286695726396049,-0.31407747594338975
+2244987098,Interesting table-subset selection for database workload materialized view selection,2000,8,55,3,0.0,2057455714,Vivek Narasayya,0,1.1540536699608903,0.15655561995853054
+2409074239,Database tuning advisor graphical tool,2004,12,13,6,0.0,226061296,Maciej Sarnowicz,0,1.0233607697270197,0.32242256952586107

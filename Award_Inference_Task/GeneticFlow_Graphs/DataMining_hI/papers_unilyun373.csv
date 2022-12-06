@@ -1,0 +1,95 @@
+137224418,WIP mining Weighted Interesting Patterns with a strong weight and/or support affinity,2006,9,23,1,1.0,2025687059,Unil Yun,0,0.003708468606338,0.082832279151172
+213093895,Improved approach of calculating the same shape in graph mining,2009,0,0,1,1.0,2025687059,Unil Yun,0,0.003708468606338,0.082832279151172
+147003396,Mining Weighted Support Affinity Patterns,2005,0,2,1,1.0,2025687059,Unil Yun,0,0.003708468606338,0.082832279151172
+96696301,Mining Weighted Frequent Sub-graphs with Weight and Support Affinities *,2012,15,2,1,1.0,2025687059,Unil Yun,0,0.003708468606338,0.082832279151172
+147961764,On pushing weight constraints deeply into frequent itemset mining,2009,35,20,1,1.0,2025687059,Unil Yun,0,-0.5500959382829702,0.9612281283245192
+80478193,Analyzing Efficient Algorithms of Frequent Pattern Mining,2013,7,3,1,1.0,2025687059,Unil Yun,0,0.8063056241208273,0.7821809149254144
+184936025,Vehicle Data Generating Technique Considering Vehicles with Incrementally Changing States Based on Growth and Decline Functions,2015,11,0,2,0.782609,1986327082,Heungmo Ryang,0,-0.21934185016841626,0.6056873083074126
+202330906,WFIM Weighted Frequent Itemset Mining with a weight range and a minimum weight,2005,12,113,1,1.0,2025687059,Unil Yun,0,-0.22271654710256722,0.07396369295171862
+202841102,Mining Frequent Graph Patterns Considering Both Different Importance and Rarity of Graph Elements,2015,9,0,1,1.0,2025687059,Unil Yun,0,0.848275197377674,-1.6017987530472493
+186751029,Frequent Graph Mining Based on Multiple Minimum Support Constraints,2014,7,3,2,0.657534,2171785599,Gangin Lee,0,0.848275197377674,-1.6017987530472493
+329651861,An Efficient Approach for Mining Frequent Sub-graphs with Support Affinities,2012,14,4,2,0.613636,2171785599,Gangin Lee,0,0.003708468606338,0.082832279151172
+1506319158,Mining weighted sequential patterns based on length-decreasing support constraints,2006,4,3,1,1.0,2025687059,Unil Yun,0,-0.313250122242983,0.3019422694332269
+1034329337,Enumeration tree based emerging patterns mining by using two different supports,2011,14,2,4,0.0,2287835879,Minghao Piao,0,0.21438872843298346,-0.1353423822296997
+1491984295,WLPMiner weighted frequent pattern mining with length-decreasing support constraints,2005,14,30,1,1.0,2025687059,Unil Yun,0,-0.029719781710297544,-0.19954255716270178
+1518187805,Mining weighted erasable patterns by using underestimated constraint-based pruning technique,2015,26,31,2,0.657534,2171785599,Gangin Lee,0,0.003708468606338,0.082832279151172
+1554468224,A pruning technique to discover correlated sequential patterns in retail databases,2006,14,0,1,1.0,2025687059,Unil Yun,0,-0.26135977210123634,0.0003316162332150559
+1957689366,Multiple Minimum Support-Based Rare Graph Pattern Mining Considering Symmetry Feature-Based Growth Technique and the Differing Importance of Graph Elements,2015,24,11,2,0.657534,2171785599,Gangin Lee,0,0.003708468606338,0.082832279151172
+1893898367,An uncertainty-based approach,2015,47,29,2,0.782609,1986327082,Heungmo Ryang,0,-0.0769353016057025,-0.2600287055078183
+1601825143,APPARATUS AND METHOD FOR PREDICTING MIXED PROBLEMS WITH VEHICLE,2011,19,13,3,0.923077,1903845507,Gwangbum Pyun,0,-0.15534841338967004,0.27000000120883716
+1785066415,Discovering high utility itemsets with multiple minimum supports,2014,31,39,2,0.8,1986327082,Heungmo Ryang,0,0.3409182985352429,0.5028184824284011
+1975746167,Mining lossless closed frequent patterns with weight constraints,2007,21,47,1,1.0,2025687059,Unil Yun,0,0.45578365046010527,-0.371067836629231
+1986355755,Analysis and Evaluation of Frequent Pattern Mining Technique based on Landmark Window,2014,15,0,2,0.923077,1903845507,Gwangbum Pyun,0,0.003708468606338,0.082832279151172
+1986572138,Top- k high utility pattern mining with effective threshold raising strategies,2015,39,53,2,0.782609,1986327082,Heungmo Ryang,0,0.003708468606338,0.082832279151172
+1985044677,An efficient mining algorithm for maximal weighted frequent patterns in transactional databases,2012,43,32,1,1.0,2025687059,Unil Yun,0,-0.25363388184810265,-0.5049691151389
+1976511615,A Weighted Frequent Graph Pattern Mining Approach considering Length-Decreasing Support Constraints,2014,13,2,1,1.0,2025687059,Unil Yun,0,-0.15511369443460588,-2.2333382459684237
+1983595396,Mining maximal frequent patterns by considering weight conditions over data streams,2014,46,51,1,1.0,2025687059,Unil Yun,0,0.17371251289928916,0.2187051551836091
+2008342858,On Identifying Useful Patterns to Analyze Products in Retail Transaction Databases,2009,12,2,1,1.0,2025687059,Unil Yun,0,-0.0769353016057025,-0.2600287055078183
+2003209042,Mining top-k frequent patterns with combination reducing techniques,2014,48,39,2,0.923077,1903845507,Gwangbum Pyun,0,-0.0769353016057025,-0.2600287055078183
+2024134537,A fast perturbation algorithm using tree structure for privacy preserving utility mining,2015,47,42,1,1.0,2025687059,Unil Yun,0,0.6429340413511176,0.2610836478275235
+2017169032,IMTAR Incremental Mining of General Temporal Association Rules,2010,11,10,5,0.0,2062515341,Anour F. A. Dafa Alla,0,-0.34841194659538965,-0.10142585373365
+2011833972,Efficient mining of weighted interesting patterns with a strong weight and/or support affinity,2007,43,76,1,1.0,2025687059,Unil Yun,0,0.36961615338683507,0.04520172406723675
+2023090481,Approximate weighted frequent pattern mining with/without noisy environments,2011,32,41,1,1.0,2025687059,Unil Yun,0,0.012899981658850942,-0.0650935128279995
+2014811513,An efficient mining of weighted frequent patterns with length decreasing support constraints,2008,36,24,1,1.0,2025687059,Unil Yun,0,0.6843490350802449,-1.1201548466525273
+2038972361,Performance analysis of Frequent Itemset Mining Technique based on Transaction Weight Constraints,2015,12,0,2,0.888889,1903845507,Gwangbum Pyun,0,0.003708468606338,0.082832279151172
+2039022735,Performance evaluation of approximate frequent pattern mining based on probabilistic technique,2013,5,2,2,0.923077,1903845507,Gwangbum Pyun,0,-0.2634511137808938,-0.03096797088951368
+2051999173,An Active Co-Training Algorithm for Biomedical Named-Entity Recognition,2012,1,8,3,0.0,2776544520,Tsendsuren Munkhdalai,0,0.9254237211025136,0.29476751748151653
+2034589438,Efficient frequent pattern mining based on Linear Prefix tree,2014,46,62,2,0.923077,1903845507,Gwangbum Pyun,0,0.39694220482336817,0.27433317820524034
+2041650550,High utility itemset mining with techniques for reducing overestimated utilities and pruning candidates,2014,39,87,1,1.0,2025687059,Unil Yun,0,0.2276513881513862,0.4077141828162098
+2066784532,DISCOVERING IMPORTANT SEQUENTIAL PATTERNS WITH LENGTH-DECREASING WEIGHTED SUPPORT CONSTRAINTS,2010,27,22,1,1.0,2025687059,Unil Yun,0,0.03634119789378872,0.20381856928325173
+2071323385,Sliding window based weighted maximal frequent pattern mining over data streams,2014,44,67,2,0.657534,2171785599,Gangin Lee,0,-0.1071931497347323,0.3242721482837629
+2091113720,WIS Weighted Interesting Sequential Pattern Mining with a Similar Level of Support and/or Weight,2007,27,27,1,1.0,2025687059,Unil Yun,0,-0.313250122242983,0.3019422694332269
+2129590329,Efficient Mining of Robust Closed Weighted Sequential Patterns Without Information Loss,2015,27,21,1,1.0,2025687059,Unil Yun,0,-0.15946575721943815,0.4558300429741693
+2132626548,Mining sequential support affinity patterns with weight constraints,2006,15,0,1,1.0,2025687059,Unil Yun,0,-0.313250122242983,0.3019422694332269
+2139158206,Analyzing sequential patterns in retail databases,2007,25,6,1,1.0,2025687059,Unil Yun,0,-0.26135977210123634,0.0003316162332150559
+2121970358,Incremental high utility pattern mining with static and dynamic databases,2015,49,51,1,1.0,2025687059,Unil Yun,0,0.0790693360756566,0.46038012768292447
+2148187800,A new framework for detecting weighted sequential patterns in large sequence databases,2008,30,57,1,1.0,2025687059,Unil Yun,0,-0.4157259134803706,-0.09266993371479988
+2148403968,Weighted approximate sequential pattern mining within tolerance factors,2011,0,6,1,1.0,2025687059,Unil Yun,0,-0.4423442020943611,0.10606685074932727
+2187228123,Mining Strongly Correlated Sub-graph Patterns by Considering Weight and Support Constraints,2013,22,1,1,1.0,2025687059,Unil Yun,0,1.3512023319753825,-2.1012532844874694
+2169679229,Efficient mining of maximal correlated weight frequent patterns,2013,37,26,1,1.0,2025687059,Unil Yun,0,0.14521718655597587,-0.07228588286747599
+2165139896,An Efficient Approach for Mining Weighted Approximate Closed Frequent Patterns Considering Noise Constraints,2014,29,18,1,1.0,2025687059,Unil Yun,0,-0.0769353016057025,-0.2600287055078183
+2238462954,Performance Evaluation of Approximate Pattern Mining Based on Probabilistic and Statistical Techniques,2013,10,0,1,1.0,2025687059,Unil Yun,0,-0.3163871347624692,0.2549928887491338
+2254242365,Efficient mining of high utility pattern with considering of rarity and length,2016,37,20,2,0.666667,2137730038,Donggyu Kim,0,-0.34841194659538965,-0.10142585373365
+2229874122,Sliding window based weighted erasable stream pattern mining for stream data applications,2016,37,30,1,1.0,2025687059,Unil Yun,0,0.054798011313767846,0.5134139348351662
+2297331769,APPARATUS AND METHOD FOR MONITORING ABNORMAL STATE OF VEHICLE USING CLUSTERING TECHNIQUE,2013,12,9,3,0.923077,1903845507,Gwangbum Pyun,0,-0.21934185016841626,0.6056873083074126
+2318974702,Fast algorithm for high utility pattern mining with the sum of item quantities,2016,37,32,2,0.776471,1986327082,Heungmo Ryang,0,-0.8857199544245485,1.12722101189938
+2313140552,High utility pattern mining over data streams with sliding window technique,2016,66,44,2,0.776471,1986327082,Heungmo Ryang,0,-0.1071931497347323,0.3242721482837629
+2316464975,Performance Analysis of Top-K High Utility Pattern Mining Methods,2015,10,1,2,0.782609,1986327082,Heungmo Ryang,0,-0.0160484811255519,-0.31555163086887356
+2281574807,New approaches to weighted frequent pattern mining,2005,79,0,1,1.0,2025687059,Unil Yun,0,0.003708468606338,0.082832279151172
+2330823436,Mining recent high average utility patterns based on sliding window from stream data,2016,32,17,1,1.0,2025687059,Unil Yun,0,-0.3234807852817447,0.2556672981683869
+2320617691,Incremental mining of weighted maximal frequent itemsets from dynamic databases,2016,52,35,1,1.0,2025687059,Unil Yun,0,-0.12398845709573587,0.01521820213357239
+2278789863,Approximate Maximal Frequent Pattern Mining with Weight Conditions and Error Tolerance,2016,42,14,2,0.657534,2171785599,Gangin Lee,0,0.003708468606338,0.082832279151172
+2302155887,Analysis and Performance Evaluation of Pattern Condensing Techniques used in Representative Pattern Mining,2015,12,3,1,1.0,2025687059,Unil Yun,0,-0.321642828869554,-0.11066087113828381
+2346980129,Erasable itemset mining over incremental databases with weight conditions,2016,40,16,2,0.657534,2171785599,Gangin Lee,0,-0.0769353016057025,-0.2600287055078183
+2464615420,Efficient representative pattern mining based on weight and maximality conditions,2016,51,13,1,1.0,2025687059,Unil Yun,0,-0.899618303124234,-0.4499953961371552
+2514829721,Indexed list-based high utility pattern mining with utility upper-bound reduction and pattern combination techniques,2017,36,14,2,0.734043,1986327082,Heungmo Ryang,0,0.003708468606338,0.082832279151172
+2538303219,WSpan Weighted Sequential pattern mining in large sequence databases,2006,18,48,1,1.0,2025687059,Unil Yun,0,-1.050343141735905,-0.34026849381699587
+2520365440,Monitoring vehicle outliers based on clustering technique,2016,34,9,1,1.0,2025687059,Unil Yun,0,-0.46542512776712686,1.164249756738262
+2521728485,A new efficient approach for mining uncertain frequent patterns using minimum data structure without false positives,2017,55,37,2,0.586957,2171785599,Gangin Lee,0,0.2972603419538021,0.4394564614540483
+2584025545,Mining sequential support affinity patterns with weight constraints,2006,0,0,1,1.0,2025687059,Unil Yun,0,-0.313250122242983,0.3019422694332269
+2552617282,Mining of high average-utility itemsets using novel list structure and pruning strategy,2017,45,29,1,1.0,2025687059,Unil Yun,0,-0.34841194659538965,-0.10142585373365
+2523204442,Mining high utility itemsets based on the time decaying model,2016,33,16,2,0.666667,2137730038,Donggyu Kim,0,0.003708468606338,0.082832279151172
+2513562466,Analysis of tree-based uncertain frequent pattern mining techniques without pattern losses,2016,37,0,2,0.657534,2171785599,Gangin Lee,0,1.000236978553845,0.018732978353280843
+2594674768,Performance Analysis of Tree-Based Algorithms for Incremental High Utility Pattern Mining,2016,6,0,2,0.776471,1986327082,Heungmo Ryang,0,0.003708468606338,0.082832279151172
+2587969590,Efficient algorithm for mining high average-utility itemsets in incremental transaction databases,2017,42,12,2,0.666667,2137730038,Donggyu Kim,0,-0.08174319516478164,0.1765814596713159
+2604029285,An efficient algorithm for mining high utility patterns from incremental databases with one database scan,2017,44,35,1,1.0,2025687059,Unil Yun,0,-0.10673670865888474,-0.15300694803535297
+2592605997,Mining Frequent Weighted Itemsets without Storing Transaction IDs and Generating Candidates,2017,30,15,2,0.586957,2171785599,Gangin Lee,0,0.003708468606338,0.082832279151172
+2731036759,Analysis of Recent Maximal Frequent Pattern Mining Approaches,2016,12,1,2,0.657534,2171785599,Gangin Lee,0,0.36961615338683507,0.04520172406723675
+2604482255,Performance Analysis of Siding Window based Stream High Utility Pattern Mining Methods,2016,7,0,2,0.776471,1986327082,Heungmo Ryang,0,0.003708468606338,0.082832279151172
+2617075350,Analysis of Methods for High Utility Pattern Mining without any Threshold Setting,2016,0,0,2,0.776471,1986327082,Heungmo Ryang,0,0.003708468606338,0.082832279151172
+2612816143,Mining weighted sequential patterns based on length-decreasing support constraints,2006,0,0,1,1.0,2025687059,Unil Yun,0,-0.313250122242983,0.3019422694332269
+2596993382,Efficient High Utility Pattern Mining for Establishing Manufacturing Plans With Sliding Window Control,2017,20,16,1,1.0,2025687059,Unil Yun,0,-0.3234807852817447,0.2556672981683869
+2758877401,Performance and characteristic analysis of maximal frequent pattern mining methods using additional factors,2018,21,2,2,0.557293,2171785599,Gangin Lee,0,0.8398355096459916,-0.18565057437927943
+2740622613,Single-pass based efficient erasable pattern mining using list data structure on dynamic incremental databases,2018,36,9,2,0.557293,2171785599,Gangin Lee,0,-0.12398845709573587,0.01521820213357239
+2777804614,Damped window based high average utility pattern mining over data streams,2017,57,37,1,1.0,2025687059,Unil Yun,0,-0.3234807852817447,0.2556672981683869
+2753693858,Analyzing of incremental high utility pattern mining based on tree structures,2017,13,1,2,0.0,2625637268,Judae Lee,0,0.2276513881513862,0.4077141828162098
+2909756225,Efficient approach for incremental high utility pattern mining with indexed list structure,2019,46,5,1,1.0,2025687059,Unil Yun,0,0.003708468606338,0.082832279151172
+2961743923,Efficient high average-utility itemset mining using novel vertical weak upper-bounds,2019,20,1,5,0.0,2801315945,Tin C. Truong,0,0.003708468606338,0.082832279151172
+2988005020,HUE-Span Fast High Utility Episode Mining,2019,16,2,4,0.0,2776237762,Philippe Fournier Viger,0,0.142446965409217,-0.26980199737460225
+2984681103,Efficient approach for incremental weighted erasable pattern mining with list structure,2020,62,0,2,0.0,2909512088,Hyoju Nam,0,-0.3291687920599855,-0.0263937726674236
+3023761310,A Pre-large Weighted-Fusion System of Sensed High-Utility Patterns,2020,0,0,1,1.0,2025687059,Unil Yun,0,0.003708468606338,0.082832279151172
+3006136924,Efficient Algorithm for Mining Non-Redundant High-Utility Association Rules,2020,31,0,4,0.0,2592852162,Thang Mai,0,-0.34841194659538965,-0.10142585373365
+3027705221,A survey of pattern mining in dynamic graphs,2020,103,0,7,0.0,2776237762,Philippe Fournier Viger,0,0.003708468606338,0.082832279151172
+3001340981,Efficient algorithms for mining clickstream patterns using pseudo-IDLists,2020,31,1,5,0.0,2978806139,Huy M. Huynh,0,-0.3651490692927568,-1.4673546476895372
+1978702499,A SOM clustering pattern sequence-based next symbol prediction method for day-ahead direct electricity load and price forecasting,2015,53,31,3,0.0,1224232545,Gouchol Pok,0,-0.450700528201803,1.206030558436351
+2996693990,TKG Efficient Mining of Top-K Frequent Subgraphs,2019,0,1,4,0.0,2776237762,Philippe Fournier Viger,0,0.003708468606338,0.082832279151172

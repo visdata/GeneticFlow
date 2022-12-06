@@ -1,0 +1,111 @@
+47071692,A Multiple Feature Integration Model to Infer Occupation from Social Media Records,2013,22,3,4,0.0,2620998319,Xiang Wang,0,-0.10226267705981074,-0.06491498528504425
+166865822,bCATE a balanced contention-aware transaction execution model for highly concurrent OLTP systems,2013,25,0,4,1.0,2810030986,Xiaogang Shi,0,0.003708468606338,0.082832279151172
+1513580948,Temporal and social context based burst detection from folksonomies,2010,13,33,2,1.0,2502161765,Junjie Yao,0,0.003708468606338,0.082832279151172
+1542475545,CLAIM an efficient method for relaxed frequent closed itemsets mining over stream data,2007,14,12,3,0.5,2101713283,Guojie Song,0,-0.3234807852817447,0.2556672981683869
+1509329557,LINP supporting similarity search in unstructured peer-to-peer networks,2007,12,2,1,1.0,2070862325,Bin Cui,0,-0.4962359210977746,-0.28339562890502457
+1536339510,Squeezing long sequence data for efficient similarity search,2008,14,2,2,0.5,2101713283,Guojie Song,0,-0.1984714131877254,-0.08331523624254955
+1500864743,ISIS a new approach for efficient similarity search in sparse databases,2010,17,3,1,1.0,2070862325,Bin Cui,0,-0.2879525775466918,-0.22371844638426985
+1545799319,Distributed cache indexing for efficient subspace skyline computation in p2p networks,2010,14,5,2,1.0,2304647583,Lijiang Chen,0,-0.11921363205267899,0.0077217758033529815
+1511297515,Log-compact R-tree an efficient spatial index for SSD,2011,21,14,3,1.0,2105975762,Yanfei Lv,0,-0.8818722618575799,-0.07737548589264091
+1538726130,Evaluating MAX and MIN over sliding windows with various size using the exemplary sketch,2007,11,1,3,0.45,2124827339,Jiakui Zhao,0,-0.11029997332988746,0.14802680904376056
+1494552168,Indexing text and visual features for WWW images,2005,25,8,3,0.382979,2116772828,Heng Tao Shen,0,0.024721482348786128,0.17992700214649845
+1485793379,An optimized process neural network model,2007,7,0,4,0.5,2101713283,Guojie Song,0,0.003708468606338,0.082832279151172
+1566717980,Exploring bit-difference for approximate KNN search in high-dimensional databases,2005,20,24,1,1.0,2070862325,Bin Cui,0,-0.21934185016841626,0.6056873083074126
+1603863883,Evolutionary taxonomy construction from dynamic tag space,2010,26,9,2,1.0,2502161765,Junjie Yao,0,0.003708468606338,0.082832279151172
+1929227401,A Revisit of Query Expansion with Different Semantic Levels,2009,20,2,2,1.0,2776066402,Ce Zhang,0,0.22776969398268823,-0.6645195470840735
+1586301419,On effective e-mail classification via neural networks,2005,12,20,1,1.0,2070862325,Bin Cui,0,0.34996064240862745,-0.03203147674345121
+1577670380,Effective Skyline Cardinality Estimation on Data Streams,2008,13,8,4,0.0,2683504829,Yang Lu,0,-0.05494675099702773,0.10742616015485648
+1605012312,Achieving Effective Multi-term Queries for Fast DHT Information Retrieval,2008,22,4,4,0.0,2115247828,Quanqing Xu,0,-0.01657107088421793,0.035389748403282274
+1588029399,Diagonal Ordering a new approach to high-dimensional KNN processing,2004,17,2,2,0.0,2495258161,Jing Hu,0,-0.21934185016841626,0.6056873083074126
+1580831259,Summarizing frequent patterns using profiles,2006,23,6,2,0.20181,2295915604,Gao Cong,0,0.3093702597112594,0.0781901659384289
+1963573220,A multi-source integration framework for user occupation inference in social media systems,2015,29,19,4,1.0,2104136503,Yanxiang Huang,0,-0.25023896793326905,0.13037718530513653
+1889516133,Range Top/Bottom k Queries in OLAP Sparse Data Cubes,2001,10,14,5,0.0,2973875846,ZhongWei Luo,0,1.0132663377260682,0.44823697798303724
+1601446593,Modeling user expertise in folksonomies by fusing multi-type features,2011,15,3,2,1.0,2502161765,Junjie Yao,0,0.01613500408305795,-0.09061692597150116
+1964973838,Efficient information retrieval in mobile peer-to-peer networks,2009,24,6,2,1.0,2304647583,Lijiang Chen,0,0.003708468606338,0.082832279151172
+1975410766,Efficient similarity matching of Time Series Cliques with natural relations,2010,6,4,2,0.0,2547704451,Zhe Zhao,0,0.04746205244938678,0.025152324200331328
+1986018209,Efficient approximation of the maximal preference scores by lightweight cubic views,2012,19,1,2,0.0,2133275895,Yueguo Chen,0,-0.7775439168700656,0.3577317485869749
+1982597263,Keyword Query Reformulation on Structured Data,2012,30,23,2,1.0,2502161765,Junjie Yao,0,-0.11599786014685964,0.10037896698678231
+1975809876,A generalized framework of exploring category information for question retrieval in community question answer archives,2010,20,86,3,0.5,2307703274,Xin Cao,0,-0.17768346192212375,0.0848641959637884
+1965404622,Constrained Skyline Query Processing against Distributed Data Sites,2011,20,40,2,1.0,2304647583,Lijiang Chen,0,0.04058852858681295,-0.03346779459016044
+1971432354,Community Level Diffusion Extraction,2015,39,35,3,1.0,2156033562,Zhiting Hu,0,0.003708468606338,0.082832279151172
+1989910872,A unified model for stable and temporal topic detection from social media data,2013,27,51,2,1.0,2145818752,Hongzhi Yin,0,0.12595265820037338,0.43793680917641964
+2004091643,Multiple feature fusion for social media applications,2010,28,34,1,1.0,2070862325,Bin Cui,0,-0.3473793728160243,0.24861357896709396
+1998907350,Detecting bursty events in collaborative tagging systems,2010,5,8,2,1.0,2502161765,Junjie Yao,0,-0.37904624941689796,1.2539138889398045
+2010486392,A temporal context-aware model for user behavior modeling in social media systems,2014,33,89,2,1.0,2145818752,Hongzhi Yin,0,0.003708468606338,0.082832279151172
+2028207262,A Framework for Similarity Search of Time Series Cliques with Natural Relations,2012,24,8,1,1.0,2070862325,Bin Cui,0,-0.3651366802046125,0.08258813543263895
+2032611833,Modeling Location-Based User Rating Profiles for Personalized Recommendation,2015,70,80,2,0.728571,2145818752,Hongzhi Yin,0,0.1793536524728745,0.22956759436010996
+2016854254,Efficient index-based KNN join processing for high-dimensional data,2007,27,68,2,0.0,2106874567,Cui Yu,0,-0.2332365292169134,1.3617516848932272
+2034688657,LCARS A Spatial Item Recommender System,2014,70,96,2,1.0,2145818752,Hongzhi Yin,0,0.664467859592396,0.22889402119568816
+2043804078,PAGE a partition aware graph computation engine,2013,15,6,3,0.809524,2122925794,Yingxia Shao,0,0.003708468606338,0.082832279151172
+2046133993,Temporal provenance discovery in micro-blog message streams (abstract only),2012,0,1,3,0.0,2309929800,Zijun Xue,0,0.027653559806583267,0.05660961920748539
+2036089660,The use of categorization information in language models for question retrieval,2009,24,91,3,0.5,2307703274,Xin Cao,0,-0.17768346192212375,0.0848641959637884
+2034466462,TencentRec Real-time Stream Recommendation in Practice,2015,34,54,2,1.0,2104136503,Yanxiang Huang,0,0.5322095804452295,0.46148261016299036
+2066365352,Dynamic User Modeling in Social Media Systems,2015,53,87,2,0.728571,2145818752,Hongzhi Yin,0,0.08329114195231535,0.32893178638165566
+2061737399,TeRec a temporal recommender system over tweet stream,2013,8,39,4,0.0,2591563278,Chen Chen,0,-0.19649125749037957,0.25877372356698203
+2065426594,Effective variation management for pseudo periodical streams,2007,35,24,2,0.0,2101206646,Lv an Tang,0,-0.24057221644119622,0.10955244097269116
+2065729655,Indexing and Integrating Multiple Features for WWW Images,2006,27,10,3,0.382979,2116772828,Heng Tao Shen,0,-0.11460358785341687,0.4346006922713128
+2067718935,Parallel Distributed Processing of Constrained Skyline Queries by Filtering,2008,17,70,1,1.0,2070862325,Bin Cui,0,0.04058852858681295,-0.03346779459016044
+2093249938,Compacting music signatures for efficient music retrieval,2008,32,7,1,1.0,2070862325,Bin Cui,0,0.003708468606338,0.082832279151172
+2104918168,Community Specific Temporal Topic Discovery from Social Media,2013,30,2,6,1.0,2156033562,Zhiting Hu,0,0.09869918664672195,-0.18633352365711692
+2120284981,Approaches to Exploring Category Information for Question Retrieval in Community Question-Answer Archives,2012,38,30,3,0.285714,2307703274,Xin Cao,0,-0.17768346192212375,0.0848641959637884
+2123851418,Exploring Correlated Subspaces for Efficient Query Processing in Sparse Databases,2010,28,4,1,1.0,2070862325,Bin Cui,0,0.08808865519591903,0.06477568382144588
+2138802492,Accelerating sequence searching dimensionality reduction method,2009,34,10,2,0.444444,2101713283,Guojie Song,0,-0.27713097247553564,0.06692936233322198
+2121086382,Finding top-k local users in geo-tagged social media data,2015,24,28,4,0.0,2657045345,Jinling Jiang,0,0.053187687455340936,-0.16559227334086646
+2106318383,Indexing high-dimensional data for efficient in-memory similarity search,2005,20,23,1,1.0,2070862325,Bin Cui,0,0.022094250536449485,0.80006218165218
+2107391785,Routing Questions to the Right Users in Online Communities,2009,17,99,3,0.0,2312166528,Yanhong Zhou,0,-0.04187569408681407,0.051511216719400864
+2119325941,HSI A Novel Framework for Efficient Automated Singer Identification in Large Music Database,2006,1,3,3,0.0,2138889374,Jialie Shen,0,-0.034210703531771136,0.14392383906670378
+2134048458,Bursty event detection from collaborative tags,2012,31,28,2,1.0,2502161765,Junjie Yao,0,-0.37904624941689796,1.2539138889398045
+2107551853,Supporting frequent updates in R-trees a bottom-up approach,2003,40,166,4,0.0,2159408573,Mong Li Lee,0,-0.24631475925461466,0.01662727508514165
+2122371763,Provenance-based Indexing Support in Micro-blog Platforms,2012,22,26,2,1.0,2502161765,Junjie Yao,0,0.027653559806583267,0.05660961920748539
+2134420649,Linking identical neighborly partitions for efficient high-dimensional similarity search in unstructured peer-to-peer systems,2009,38,2,1,1.0,2070862325,Bin Cui,0,-0.31143644810179705,0.5273336757283531
+2119978768,Classifying e-mails via support vector machine,2006,13,0,2,0.0,2118321968,Lidan Shou,0,1.135775393273307,0.5317992110635019
+2140942692,Challenging the long tail recommendation,2012,30,120,2,1.0,2145818752,Hongzhi Yin,0,0.8776680742443249,0.45208381503500666
+2150708135,Towards unified ad-hoc data processing,2014,34,7,2,1.0,2810030986,Xiaogang Shi,0,0.003708468606338,0.082832279151172
+2171744805,Contorting high dimensional data for efficient main memory KNN processing,2003,16,42,2,0.0,2037466936,Beng Chin Ooi,0,-0.2879400514627276,1.292444755056442
+2145676119,IMPACT a twin-index framework for efficient moving object query processing,2006,24,3,1,1.0,2070862325,Bin Cui,0,-0.1847743722593346,0.060218323848301614
+2154909235,Optimizing moving queries over moving object data streams,2007,19,10,2,0.0,2238753429,Dan Lin,0,-0.1071931497347323,0.3242721482837629
+2164505628,iSky Efficient and Progressive Skyline Computing in a Structured P2P Network,2008,18,37,2,1.0,2304647583,Lijiang Chen,0,0.6981240951557095,0.6478053163220281
+2170651244,ICICLE A semantic-based retrieval system for WWW images,2006,50,2,4,0.382979,2116772828,Heng Tao Shen,0,-0.362431601129456,0.44532214617473204
+2164576613,Towards Efficient and Flexible KNN Query Processing in Real-Life Road Networks,2008,16,0,2,0.0,2683504829,Yang Lu,0,-0.3258627981856533,0.06472983595111677
+2149814409,LCARS a location-content-aware recommender system,2013,33,232,3,1.0,2145818752,Hongzhi Yin,0,0.8776680742443249,0.45208381503500666
+2149836423,A Probabilistic Data Replacement Strategy for Flash-Based Hybrid Storage System,2013,16,4,4,1.0,2105975762,Yanfei Lv,0,0.003708468606338,0.082832279151172
+2164877079,Semantic similarity based on compact concept ontology,2008,5,8,3,1.0,2776066402,Ce Zhang,0,1.1062721091899315,-1.5750519490495496
+2198304614,Distinguishing re-sharing behaviors from re-creating behaviors in information diffusion,2016,50,0,3,0.0,2341236235,Yiran Xie,0,0.003708468606338,0.082832279151172
+2321079442,POS A High-Level System to Simplify Real-Time Stream Application Development on Storm,2016,9,4,1,1.0,2070862325,Bin Cui,0,0.003708468606338,0.082832279151172
+2488647447,Fast online recommendation,2016,9,0,1,1.0,2070862325,Bin Cui,0,1.0229976027372207,0.9706793044242259
+2444485119,Adapting to User Interest Drift for POI Recommendation,2016,40,99,3,0.572182,2145818752,Hongzhi Yin,0,2.064658559097834,0.1861285596559451
+2429966330,Tornado A System For Real-Time Iterative Analysis Over Evolving Data,2016,46,30,2,1.0,2810030986,Xiaogang Shi,0,0.003708468606338,0.082832279151172
+2433963325,Real-time Video Recommendation Exploration,2016,34,19,2,1.0,2104136503,Yanxiang Huang,0,0.7197856675754876,0.4354252583496495
+2501882640,Contortin gHig hDimensiona lDat afo rEfficien tMain Memory KNN Processing,2003,16,0,1,1.0,2070862325,Bin Cui,0,-0.2409723103525171,-0.20965948916880417
+2531384334,Joint Modeling of User Check-in Behaviors for Real-time Point-of-Interest Recommendation,2016,83,84,2,0.572182,2145818752,Hongzhi Yin,0,-0.21934185016841626,0.6056873083074126
+2517512964,Summarizing frequent patterns using profiles,2006,0,0,2,0.20181,2295915604,Gao Cong,0,0.3093702597112594,0.0781901659384289
+2584506624,An experimental evaluation of simrank-based similarity search algorithms,2017,28,11,3,1.0,2585656967,Zhipeng Zhang,0,-0.8200678521806775,0.15810985003429193
+2633320030,Fast Parallel Path Concatenation for Graph Extraction,2017,27,6,5,0.882353,2122925794,Yingxia Shao,0,-0.2549982742955442,0.2215840602359772
+2594018207,On effective e-mail classification via neural networks,2005,0,0,1,1.0,2070862325,Bin Cui,0,0.34996064240862745,-0.03203147674345121
+2614375709,TencentBoost A Gradient Boosting Tree System with Parameter Server,2017,9,12,3,1.0,2608589378,Jiawei Jiang,0,-1.0199471023480065,0.14363448009526403
+2612026221,Heterogeneity-aware Distributed Parameter Servers,2017,47,68,2,1.0,2608589378,Jiawei Jiang,0,0.003708468606338,0.082832279151172
+2616537608,From Raw Footprints to Personal Interests Bridging the Semantic Gap via Trip Intention Aggregation,2017,3,1,4,0.444444,2238646294,Long Guo,0,0.003708468606338,0.082832279151172
+2616732338,SF-sketch A Fast Accurate and Memory Efficient Data Structure to Store Frequencies of Data Items,2017,10,13,7,0.375,2170020785,Tong Yang,0,0.762617572908197,-0.332146715670695
+2740481423,Evolutionary taxonomy construction from dynamic tag space,2012,25,9,2,1.0,2502161765,Junjie Yao,0,-0.0769353016057025,-0.2600287055078183
+2751219672,LDA* a robust and large-scale topic modeling system,2017,29,13,2,0.0,2753545069,Lele Yut,0,-0.17536238923574604,0.4144853997593385
+2751532144,MLog towards declarative in-database machine learning,2017,10,14,2,0.0,2752738833,Xupeng Li,0,-0.5796603030867189,0.20802780558786205
+2805583691,SSS An Accurate and Fast Algorithm for Finding Top-k Hot Items in Data Streams,2018,27,1,6,1.0,2740995344,Junzhi Gong,0,0.010584049366503626,0.34466462828703454
+2798945787,Cold Filter A Meta-Framework for Faster and More Accurate Stream Processing,2018,51,16,4,1.0,2750732658,Yang Zhou,0,-0.1071931497347323,0.3242721482837629
+2799138232,DimBoost Boosting Gradient Boosting Decision Tree to Higher Dimensions,2018,36,8,2,1.0,2608589378,Jiawei Jiang,0,0.003708468606338,0.082832279151172
+2799723114,Fine-grained probability counting for cardinality estimation of data streams,2019,33,1,6,0.0,2919851658,Lun Wang,0,0.0624988202191245,0.2387753506107029
+2783425165,ABC A practicable sketch framework for non-uniform multisets,2017,30,2,6,1.0,2740995344,Junzhi Gong,0,-0.1071931497347323,0.3242721482837629
+2898060526,Geo-Edge Geographical Resource Allocation on Edge Caches for Video-on-Demand Streaming,2018,18,0,4,0.0,2718246026,Yuanxing Zhang,0,0.003708468606338,0.082832279151172
+2898534001,Fast Parallel Path Concatenation for Graph Extraction,2018,4,0,5,0.882353,2122925794,Yingxia Shao,0,0.003708468606338,0.082832279151172
+2924996063,Fast De-anonymization of Social Networks with Structural Information,2019,22,1,5,0.684211,2122925794,Yingxia Shao,0,-0.43357786149040695,0.0342050554874222
+2893235790,CRAN A Hybrid CNN-RNN Attention-Based Model for Text Classification,2018,24,5,5,0.444444,2238646294,Long Guo,0,0.003708468606338,0.082832279151172
+2949637668,Challenging the Long Tail Recommendation,2012,21,0,2,1.0,2145818752,Hongzhi Yin,0,0.8776680742443249,0.45208381503500666
+2954558120,An experimental evaluation of large scale GBDT systems,2019,35,2,4,0.0,2798938318,Fangcheng Fu,0,-0.3959284059949726,-0.43354644989470736
+2950147551,Coloring Embedder A Memory Efficient Data Structure for Answering Multi-set Query,2019,41,2,5,0.0,2953121718,Yang Tong,0,0.003708468606338,0.082832279151172
+2950662731,Multi-copy Cuckoo Hashing,2019,0,1,5,0.0,2895917491,Dagang Li,0,0.003708468606338,0.082832279151172
+2948349252,PS2 Parameter Server on Spark,2019,33,1,2,1.0,2585656967,Zhipeng Zhang,0,0.003708468606338,0.082832279151172
+2945003059,MLlib* Fast Training of GLMs Using Spark MLlib,2019,26,2,6,1.0,2585656967,Zhipeng Zhang,0,0.11672415509507165,0.0338187686908989
+2941460469,Sparse Gradient Compression for Distributed SGD,2019,29,2,4,0.0,2942293805,Haobo Sun,0,0.07590572071699475,0.423218934603613
+2967633154,Fast and accurate stream processing by filtering the cold,2019,67,0,6,0.375,2170020785,Tong Yang,0,-0.1071931497347323,0.3242721482837629
+2967777465,Exploring bit-difference for approximate KNN searching in high-dimensional databases,2005,0,0,1,1.0,2070862325,Bin Cui,0,0.003708468606338,0.082832279151172
+3007198914,Hunting multiple bumps in graphs,2020,0,0,5,0.0,2561879360,Yahui Sun,0,0.003708468606338,0.082832279151172
+2964273902,FeatureBand A Feature Selection Method by Combining Early Stopping and Genetic Local Search,2019,26,0,5,0.0,2963895073,Huanran Xue,0,-0.25023896793326905,0.13037718530513653

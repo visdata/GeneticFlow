@@ -1,0 +1,42 @@
+145450961,Toward scalable learning with non-uniform class and cost distributions a case study in credit card fraud detection,1998,14,362,1,1.0,2098876098,Philip K. Chan,0,0.003708468606338,0.082832279151172
+197787436,Learning arbiter and combiner trees from partitioned data for scaling machine learning,1995,10,50,1,1.0,2098876098,Philip K. Chan,0,0.021108264828641293,0.127665894539384
+46508367,Identifying outliers via clustering for anomaly detection,2003,13,19,1,1.0,2098876098,Philip K. Chan,0,-0.04636368096060392,0.4770195255301498
+133743037,A Machine Learning Approach to Anomaly Detection,2003,23,69,1,1.0,2098876098,Philip K. Chan,0,0.13960855707012607,0.6899457275944467
+1523472376,An extensible meta-learning approach for scalable and accurate inductive learning,1996,0,71,2,0.714286,2021877992,Salvatore J. Stolfo,0,-0.39803450912536875,3.532376979793604
+1509096724,Proceedings of the 2004 ACM workshop on Visualization and data mining for computer security,2004,0,29,3,0.0,1923078717,Richard Lippman,0,0.36632946227338264,1.1965774527361919
+1492088121,A comparative evaluation of voting and meta-learning on partitioned data,1995,21,133,1,1.0,2098876098,Philip K. Chan,0,-0.6157517366543732,3.2599300396045297
+1567125377,On the Accuracy of Meta-learning for Scalable Data Mining,1997,21,135,1,1.0,2098876098,Philip K. Chan,0,-0.7026214106720404,3.3360361540749253
+1587493479,Data Cleaning and Enriched Representations for Anomaly Detection in System Calls,2006,40,4,3,1.0,1877757884,Gaurav Tandon,0,0.3024941206384012,0.2601028475248656
+1600927428,Motif-oriented representation of sequences for a host-based intrusion detection system,2004,12,2,3,1.0,1877757884,Gaurav Tandon,0,1.1343662118002384,0.2997324284240012
+1622515047,The Distributed Data-Mining Worksho,1999,0,2,2,0.444444,539587773,Hillol Kargupta,0,0.36961615338683507,0.04520172406723675
+1973841765,ON THE LEARNING OF SYSTEM CALL ATTRIBUTES FOR HOST-BASED ANOMALY DETECTION,2006,13,28,2,1.0,1877757884,Gaurav Tandon,0,-0.40186270520535566,0.5035100593349302
+1967889539,Estimating Hospital Admissions with a Randomized Regression Approach,2012,8,2,2,0.0,2560892768,Kleber A. Garcia,0,0.003708468606338,0.082832279151172
+1990228419,Distributed and parallel knowledge discovery (workshop session) (title only),2000,0,22,3,0.444444,539587773,Hillol Kargupta,0,0.36961615338683507,0.04520172406723675
+2022833861,Data mining methods for anomaly detection KDD-2005 workshop report,2005,0,12,3,0.0,2734407117,Dragos Margineantu,0,0.6302198903576537,-0.38845660084355066
+2066298612,Data mining-based intrusion detectors an overview of the columbia IDS project,2001,26,74,3,0.21367,2021877992,Salvatore J. Stolfo,0,0.25279980089418275,0.356263393655007
+2100284713,Learning States and Rules for Time Series Anomaly Detection,2004,16,67,2,1.0,2149340224,Stan Salvador,0,-0.17382743099304485,0.2702119306352129
+2084763720,Learning States and Rules for Detecting Anomalies in Time Series,2005,27,77,2,1.0,2149340224,Stan Salvador,0,-0.17382743099304485,0.2702119306352129
+2101103738,Systems for knowledge discovery in databases,1993,42,224,2,0.0,2973662565,C.J. Matheus,0,0.11140000982768399,-0.12328401377870019
+2098515641,Determining the number of clusters/segments in hierarchical clustering/segmentation algorithms,2004,25,473,2,1.0,2149340224,Stan Salvador,0,-0.9597294985857524,3.428029218153495
+2108601876,Learning nonstationary models of normal network traffic for detecting novel attacks,2002,16,281,2,0.521739,2163244902,Matthew V. Mahoney,0,-0.6090350953060734,1.821321775088933
+2132918769,Weighting versus pruning in rule validation for detecting network and host anomalies,2007,32,26,2,1.0,1877757884,Gaurav Tandon,0,0.3024941206384012,0.2601028475248656
+2113271473,Modeling multiple time series for anomaly detection,2005,7,93,1,1.0,2098876098,Philip K. Chan,0,0.20279561436658805,0.0753070172078775
+2131154421,JAM java agents for meta-learning over distributed databases,1997,18,260,6,0.714286,2021877992,Salvatore J. Stolfo,0,0.4550478777926225,0.3445357429312541
+2143918517,MORPHEUS motif oriented representations to purge hostile events from unlabeled sequences,2004,35,11,2,1.0,1877757884,Gaurav Tandon,0,0.2768867389976017,-0.06763433639827213
+2147191819,Learning rules for anomaly detection of hostile network traffic,2003,20,148,2,0.521739,2163244902,Matthew V. Mahoney,0,1.243904560697569,0.4113893436895201
+2153711228,Sharing learned models among remote database partitions by local meta-learning,1996,10,34,1,1.0,2098876098,Philip K. Chan,0,0.003708468606338,0.082832279151172
+2183982463,Machine learning for host-based anomaly detection,2008,95,7,2,1.0,1877757884,Gaurav Tandon,0,-0.05572559883488215,0.35734152851061224
+2160150610,Distributed data mining in credit card fraud detection,1999,9,365,1,1.0,2098876098,Philip K. Chan,0,0.2672966273634978,-0.14833271954898275
+2166353797,Real time data mining-based intrusion detection,2001,28,232,4,0.0,642640030,Eleazar Eskin,0,0.15314600879838108,0.7649783805065609
+2148635136,Increasing coverage to improve detection of network and host anomalies,2010,39,4,2,1.0,1877757884,Gaurav Tandon,0,0.3331378375437081,0.1066978747410064
+2146082061,Using artificial anomalies to detect unknown and known network intrusions,2001,15,183,5,0.0,2491264568,Wei Fan,0,0.6705234672672624,0.5949432861805903
+2187867856,Learning Models of Network Traffic for Detecting Novel Attacks,2002,14,59,1,1.0,2098876098,Philip K. Chan,0,-0.17592424560850992,0.5350561715409081
+2167287136,Cost-based modeling for fraud and intrusion detection results from the JAM project,2000,21,413,3,0.4,222714987,Andreas L. Prodromidis,0,0.3024941206384012,0.2601028475248656
+2161390635,Meta-learning in distributed data mining systems Issues and approaches,2007,61,158,2,0.4,222714987,Andreas L. Prodromidis,0,0.7231624454598289,-0.5698782143331511
+2274521195,Detecting anomalies by weighted rules,2007,0,0,2,1.0,1877757884,Gaurav Tandon,0,0.003708468606338,0.082832279151172
+2405680064,Credit Card Fraud Detection Using Meta-Learning Issues and Initial Results 1,1997,11,140,3,0.323077,222714987,Andreas L. Prodromidis,0,0.43162625009792,0.20195636031746017
+2550859505,Estimating effectiveness of twitter messages with a personalized machine learning approach,2018,18,1,2,0.0,2795485007,Xunhu Sun,0,0.003708468606338,0.082832279151172
+2585671755,Improving efficiency of maximizing spread in the flow authority model for large sparse networks,2016,11,0,1,1.0,2098876098,Philip K. Chan,0,0.003708468606338,0.082832279151172
+2601305972,Scalable Function Call Graph-based Malware Classification,2017,15,13,2,0.0,2788712561,Mehadi Hassen,0,-0.21934185016841626,0.6056873083074126
+2792467959,Learning rules for time series anomaly detection,2005,8,4,1,1.0,2098876098,Philip K. Chan,0,0.20279561436658805,0.0753070172078775
+2914015785,Proceedings of the 2004 ACM workshop on Visualization and data mining for computer security,2004,0,0,3,0.0,1923078717,Richard Lippman,0,0.1579559588619796,0.563349572073047

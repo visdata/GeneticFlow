@@ -1,0 +1,44 @@
+172538875,Rethinking Query Processing for Energy Efficiency Slowing Down to Win the Race,2011,51,47,3,0,2057455714,Vivek Narasayya,0,0.7215975991611812,0.3052417628859806
+942232368,Answering top-K selection queries in a relational engine,2005,12,33,1,1,2133606375,Nicolas Bruno,0,-0.2425681617249933,0.280366903583282
+1582154870,Physical design refinement the merge-reduce approach,2006,25,20,1,1,2133606375,Nicolas Bruno,0,1.6297137572164795,0.4539705801054274
+1600880963,AutoAdmin Self-Tuning Database SystemsTechnology,2006,23,36,2,0,2167721083,Sanjay Agrawal,0,2.446497974000459,0.6128651431118237
+1964576356,Mini-Me A min-repro system for database software,2010,4,5,1,1,2133606375,Nicolas Bruno,0,-0.0041099411153885,0.0447066884760059
+1982094224,A critical look at the TAB benchmark for physical design tools,2007,14,6,1,1,2133606375,Nicolas Bruno,0,-0.7090657143755633,-0.9393593573412935
+2000942961,Finding min-repros in database software,2009,7,5,1,1,2133606375,Nicolas Bruno,0,0.059952830688884254,-0.011962732531563623
+2020208577,Towards Declarative Queries on Adaptive Data Structures,2008,7,5,1,1,2133606375,Nicolas Bruno,0,-0.6414107070894552,-0.2347807069387349
+2020272913,Interactive physical design tuning,2010,28,16,1,1,2133606375,Nicolas Bruno,0,0.9496811339204706,0.42285699386333025
+2032636723,FlexMin a flexible tool for automatic bug isolation in DBMS software,2011,6,2,2,0,2199007836,Kristi Morton,0,0.4170158691156383,0.0370747845240022
+2054889329,Slicing long-running queries,2010,15,1,1,1,2133606375,Nicolas Bruno,0,0.014532710543751099,0.030944858938630852
+2037826478,Recurring job optimization in scope,2012,3,22,1,1,2133606375,Nicolas Bruno,0,0.028183027239055632,0.18567154661373284
+2073760168,Online autoadmin (physical design tuning),2007,5,6,1,1,2133606375,Nicolas Bruno,0,-0.1156577426431432,-0.2566105852302986
+2060091058,Exploiting statistics on query expressions for optimization,2002,22,125,1,1,2133606375,Nicolas Bruno,0,-0.49306079699462524,-0.5372325099828383
+2061884758,Holistic twig joins optimal XML pattern matching,2002,24,885,1,1,2133606375,Nicolas Bruno,0,0.9070506115066127,-0.35835455187893495
+2099797738,Evaluating top- k queries over web-accessible databases,2004,27,322,1,1,2133606375,Nicolas Bruno,0,0.0908845357243609,0.31128747720343375
+2097710895,Conditional selectivity for statistics on query expressions,2004,27,20,1,1,2133606375,Nicolas Bruno,0,0.30265740233268107,0.012359040392557268
+2090066046,Continuous cloud-scale query optimization and processing,2013,33,33,1,1,2133606375,Nicolas Bruno,0,0.0908845357243609,0.31128747720343375
+2108490710,An Online Approach to Physical Design Tuning,2007,12,137,1,1,2133606375,Nicolas Bruno,0,-0.0041099411153885,0.0447066884760059
+2105749831,Flexible database generators,2005,17,117,1,1,2133606375,Nicolas Bruno,0,-0.1232715727120712,0.2131450373911843
+2108883953,Automatic physical database tuning a relaxation-based approach,2005,12,116,1,1,2133606375,Nicolas Bruno,0,1.0299172636573592,0.20373158244202527
+2112100340,Generating Queries with Cardinality Constraints for DBMS Testing,2006,8,54,1,1,2133606375,Nicolas Bruno,0,0.5129580186751627,0.6931354438297079
+2133475758,Power Hints for Query Optimization,2009,7,25,1,1,2133606375,Nicolas Bruno,0,0.5549419286141328,-0.0575771319913542
+2110488358,Polynomial heuristics for query optimization,2010,20,23,1,1,2133606375,Nicolas Bruno,0,0.014532710543751099,0.030944858938630852
+2116616082,To tune or not to tune a lightweight physical design alerter,2006,14,75,1,1,2133606375,Nicolas Bruno,0,-0.0041099411153885,0.0447066884760059
+2134195632,Top- k selection queries over relational databases Mapping strategies and performance evaluation,2002,39,264,1,1,2133606375,Nicolas Bruno,0,0.7215975991611812,0.3052417628859806
+2140342613,Automated partitioning design in parallel database systems,2011,28,74,2,0,2302367558,Rimma V. Nehme,0,0.6877307316110336,0.1589744805164881
+2119946100,Physical design refinement The â€˜merge-reduceâ€™ approach,2007,29,23,1,1,2133606375,Nicolas Bruno,0,1.6297137572164795,0.4539705801054274
+2120108467,STHoles a multidimensional workload-aware histogram,2001,30,279,1,1,2133606375,Nicolas Bruno,0,0.33437732374054,-0.16707486558753407
+2126013973,Efficient creation of statistics over query expressions,2003,19,28,1,1,2133606375,Nicolas Bruno,0,0.7215975991611812,0.3052417628859806
+2168362821,Configuration-parametric query optimization for physical design tuning,2008,14,33,1,1,2133606375,Nicolas Bruno,0,1.2719922595382014,0.39196063727038494
+2165530417,Minimizing database repros using language grammars,2010,24,15,1,1,2133606375,Nicolas Bruno,0,1.1700645201862194,0.4524508206646078
+2169188831,Advanced partitioning techniques for massively distributed computation,2012,22,34,2,0,2702077502,Jingren Zhou,0,0.03999381053955262,0.17720452270313178
+2151251992,SCOPE parallel databases meet MapReduce,2012,31,103,2,0,2702077502,Jingren Zhou,0,-0.09123736825194827,-0.11540638756869638
+2151772234,Navigation- vs index-based XML multi-query processing,2003,21,76,1,1,2133606375,Nicolas Bruno,0,2.8032131691740485,-1.0200473471139435
+2148941801,Interactive plan hints for query optimization,2009,2,4,1,1,2133606375,Nicolas Bruno,0,0.7215975991611812,0.3052417628859806
+2146043654,Teaching an Old Elephant New Tricks,2009,8,0,1,1,2133606375,Nicolas Bruno,0,0.8215501714460341,-0.06260284083323013
+2164520297,Evaluating top-k queries over Web-accessible databases,2002,26,262,2,0,2653530345,AmÃ©lie Marian,0,-0.8176360734883313,-0.8522696506390246
+2204891826,Database physical design refinement using a merge-reduce approach,2006,57,16,1,1,2133606375,Nicolas Bruno,0,1.3048134241781268,0.16590565420481354
+2275613000,Method of building multidimensional workload-aware histograms,2001,19,27,1,1,2133606375,Nicolas Bruno,0,-0.165796457764015,-0.34570618985044876
+2277471751,Advanced join strategies for large-scale distributed computation,2014,21,33,1,1,2133606375,Nicolas Bruno,0,-0.15344373347936774,-0.1817010960536725
+2404556002,Recurring Job Optimization for Massively Distributed Query Processing,2013,20,1,1,1,2133606375,Nicolas Bruno,0,-0.09123736825194827,-0.11540638756869638
+2522093625,Physical Design Refiner The Merge-Reduce Approacii,2007,0,0,1,1,2133606375,Nicolas Bruno,0,1.6297137572164795,0.4539705801054274
+2964070196,Teaching an Old Elephant New Tricks,2009,9,24,1,1,2133606375,Nicolas Bruno,0,0.8215501714460341,-0.06260284083323013

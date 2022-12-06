@@ -1,0 +1,60 @@
+35034951,A Formal Definition of Protocol Indistinguishability and Its Verification Using Maude-NPA,2014,22,26,3,1.0,2133491280,Sonia Santiago,0,0.6391209785866995,-1.5738908082946537
+138258214,Proceedings of the 5th European Symposium on Research in Computer Security,1998,0,0,2,0.0,207670028,Yves Deswarte,0,0.0040557659796233,0.2757546058061082
+36934040,A System for the Specification and Verification of Key Management Protocols,1991,0,14,1,1.0,2010281829,Catherine Meadows,0,0.5377943876296638,-0.605901515741278
+207689688,Formalizing Physical Security Procedures,2012,28,8,1,1.0,2010281829,Catherine Meadows,0,-1.1822272452330969,2.112581858977106
+39370884,Analysis of the IBM CCA Security API Protocols in Maude-NPA,2014,33,7,4,1.0,2560795782,Antonio GonzÃ¡lez BurgueÃ±o,0,0.1929144374396082,-1.7538413912576658
+158754850,Computer Security â€” ESORICS 98,1998,0,68,2,0.0,207670028,Yves Deswarte,0,-0.018033775252130735,0.3733802914716234
+143805731,New Approaches to Database Security Report on Discussion,1992,9,0,1,1.0,2010281829,Catherine Meadows,0,-0.2276162895326988,0.30250554011486536
+43945400,Experiences in the Formal Analysis of the Group Domain of Interpretation Protocol (GDOI),2001,4,0,1,1.0,2010281829,Catherine Meadows,0,-0.8037955169824704,-2.5840847548252053
+180993580,Resisting Traffic Analysis on Unclassified Networks,2004,16,0,1,1.0,2010281829,Catherine Meadows,0,0.021721355898138874,-0.7282181492402999
+1559824347,Distance Bounding Protocols Authentication Logic Analysis and Collusion Attacks,2007,15,81,1,1.0,2010281829,Catherine Meadows,0,-0.4333578347663555,-0.3059040010610152
+1491994446,Environmental requirements for authentication protocols,2002,25,8,2,0.0,687553606,Ran Canetti,0,-1.2284317798005056,-1.9395089480806955
+1555520839,Integrity Versus Security in Multi-Level Secure Databases,1987,0,1,1,1.0,2010281829,Catherine Meadows,0,-0.9626779521676468,1.6253983086840935
+1502051745,Formal Verification of Cryptographic Protocols A Survey,1994,47,163,1,1.0,2010281829,Catherine Meadows,0,-0.6469154119349153,-0.7415792721403996
+1566084892,Deriving Attacking and Defending the GDOI Protocol,2004,23,38,1,1.0,2010281829,Catherine Meadows,0,-1.1538556471044565,-0.8372170629508846
+1539388770,Dolev-Yao is no better than Machiavelli,2000,0,48,1,1.0,2010281829,Catherine Meadows,0,-0.5671998743494335,0.7111708813415453
+1512521648,Actor-network Procedures Modeling Multi-factor Authentication Device Pairing Social Interactions,2011,64,10,2,0.255891,2133253165,Dusko Pavlovic,0,-0.3613117592367522,0.03752197288850183
+1955938853,The Role of Trust in Information Integrity Protocols,1995,5,30,2,0.0,2973879984,G. J. Simmons,0,0.12275042200559669,0.157729784476054
+1635800776,Formal requirements for key distribution protocols,1994,12,32,2,0.0,2051205022,Paul Syverson,0,-0.42252398568555954,-0.8703594636522661
+1606324768,Invited Address Applying Formal Methods to Cryptographic Protocol Analysis,2000,0,1,1,1.0,2010281829,Catherine Meadows,0,-0.8586693415242816,-1.9787993796812784
+1757521842,The Need for a Failure Model for Security,1995,2,7,1,1.0,2010281829,Catherine Meadows,0,-0.1773385929008878,0.7069782294431272
+1770463336,Formal specification and analysis of the group domain of interpretation protocol using NPATRL and the NRL protocol analyzer,2004,21,41,1,1.0,2010281829,Catherine Meadows,0,-0.7465430138528854,-1.8298414393868896
+1591274089,Deriving secrecy in key establishment protocols,2006,23,22,2,0.299325,2133253165,Dusko Pavlovic,0,-0.5877444178244037,-0.42479214473353116
+1829701666,A Formal Specification of Requirements for Payment Transactions in the SET Protocol,1998,6,57,1,1.0,2010281829,Catherine Meadows,0,-0.8887912945651703,-1.1888841747431138
+1727096726,Analyzing the Needham-Schroeder Public-Key Protocol A Comparison of Two Approaches,1996,11,102,1,1.0,2010281829,Catherine Meadows,0,-0.10814419514493871,-0.5676691469838421
+1985229708,Bayesian Authentication Quantifying Security of the Hancke-Kuhn Protocol,2010,36,11,2,0.277594,2133253165,Dusko Pavlovic,0,-1.2649806781853474,-1.2103847416828093
+1973045663,Ordering from Satans menu a survey of requirements specification for formal analysis of cryptographic protocols,2004,45,11,1,1.0,2010281829,Catherine Meadows,0,-0.3978390977263307,-1.2717663835335982
+1997596059,Formalizing GDOI group key management requirements in NPATRL,2001,15,31,1,1.0,2010281829,Catherine Meadows,0,0.30568083318061984,-1.1894710916910998
+2026179596,A More Efficient Cryptographic Matchmaking Protocol for Use in the Absence of a Continuously Available Third Party,1986,0,45,1,1.0,2010281829,Catherine Meadows,0,-0.1872155899735478,-0.20374673306090374
+2028826664,Three paradigms in computer security,1998,8,3,1,1.0,2010281829,Catherine Meadows,0,-1.6868269799286069,2.1711691621460685
+2029272944,Introduction to ACM TISSEC special issue on CCS 2005,2009,0,33,1,1.0,2010281829,Catherine Meadows,0,0.0040557659796233,0.2757546058061082
+2065721262,An outline of a taxonomy of computer security research and development,1993,0,15,1,1.0,2010281829,Catherine Meadows,0,-0.18618689656946605,0.637946401295037
+2103313298,A cost-based framework for analysis of denial of service in networks,2001,0,128,1,1.0,2010281829,Catherine Meadows,0,-0.9848473360347345,-1.0623005001239358
+2101879500,Invariant generation techniques in cryptographic protocol analysis,2000,14,21,1,1.0,2010281829,Catherine Meadows,0,-1.4886189557546678,-1.4155179292917406
+2135089787,A procedure for verifying security against type confusion attacks,2003,15,23,1,1.0,2010281829,Catherine Meadows,0,-0.09242719802098096,-0.08106734914982472
+2135547262,Applying the dependability paradigm to computer security,1995,12,25,1,1.0,2010281829,Catherine Meadows,0,0.11035776720118505,0.28887080974111556
+2139596501,Analysis of the Internet Key Exchange protocol using the NRL Protocol Analyzer,1999,12,141,1,1.0,2010281829,Catherine Meadows,0,-0.35890333886350634,-1.9763556908007487
+2128380870,The NRL protocol analysis tool a position paper,1991,0,4,1,1.0,2010281829,Catherine Meadows,0,-1.0008400706397378,-0.9810471015366883
+2143770156,Maintaining correctness availability and unambiguity in trusted database management systems,1988,8,2,1,1.0,2010281829,Catherine Meadows,0,-0.10851987714587294,0.5300757743350907
+2125894704,Formal methods for cryptographic protocol analysis emerging issues and trends,2003,77,190,1,1.0,2010281829,Catherine Meadows,0,1.3294339020540453,-1.091567271321882
+2144220824,Using traces based on procedure calls to reason about composability,1992,16,14,1,1.0,2010281829,Catherine Meadows,0,0.0040557659796233,0.2757546058061082
+2153612840,The Integrity Lock Architecture and Its Application to Message Systems Reducing Covert Channels,1987,9,3,1,1.0,2010281829,Catherine Meadows,0,-0.2737482654868929,0.8798005810959706
+2162686919,A formal framework and evaluation method for network denial of service,1999,20,164,1,1.0,2010281829,Catherine Meadows,0,-0.13177188983484595,0.14502663092988982
+2157295888,Using narrowing in the analysis of key management protocols,1989,21,56,1,1.0,2010281829,Catherine Meadows,0,-0.19222306857813387,-1.1285341313442239
+2160450576,What makes a cryptographic protocol secure the evolution of requirements specification in formal cryptographic protocol analysis,2003,30,21,1,1.0,2010281829,Catherine Meadows,0,-1.2471979747793946,-1.9978993739993958
+2175429362,Protocol analysis modulo combination of theories a case study in Maude-NPA,2010,46,18,3,0.0,2305980318,Ralf Sasse,0,-0.08538177169983789,-0.5974143824350476
+2158475553,Extending the Brewer-Nash model to a multilevel context,1990,7,28,1,1.0,2010281829,Catherine Meadows,0,-0.33831649078833886,0.8584513240558088
+2176812557,Integrity versus security in multi-level secure databases,1988,0,20,1,1.0,2010281829,Catherine Meadows,0,-0.9626779521676468,1.6253983086840935
+2267962597,State Space Reduction in the Maude-NRL Protocol Analyzer,2008,16,21,2,1.0,2116214711,Santiago Escobar,0,-0.020891358201788186,-0.9737675613318241
+2276185234,Deriving Ephemeral Authentication Using Channel Axioms,2009,36,10,2,0.299325,2133253165,Dusko Pavlovic,0,-0.718729406261169,-0.39389068073089134
+2296571727,Analysis of the PKCS#11 API Using the Maude-NPA Tool,2015,27,3,4,1.0,2560795782,Antonio GonzÃ¡lez BurgueÃ±o,0,0.20810064402831868,-2.2383852537025986
+2403610009,Emerging Issues and Trends in Formal Methods in Cryptographic Protocol Analysis Twelve Years Later,2015,81,6,1,1.0,2010281829,Catherine Meadows,0,0.6659074986195489,-1.6018766337609769
+2501099726,Security and Privacy in Ad-Hoc and Sensor Networks,2008,0,0,2,0.0,724390122,Frank Stajano,0,0.21606461679962244,1.738809009452389
+2481123542,Security and Trust Management,2012,0,0,2,0.0,1982269704,Carmen Fernandez Gago,0,-1.6154772769510721,3.2094865859997252
+2564278573,Stealthy Protocols Metrics and Open Problems,2017,46,3,2,0.0,2564730150,Olga Chen,0,-1.849432942852349,2.2197575014087185
+2523872500,Deriving Secrecy in Key Establishment Protocols,2006,0,0,2,0.299325,2133253165,Dusko Pavlovic,0,-0.4868451807346081,-0.06225864946986686
+2804181233,ALGSICS - Combining physics and cryptography to enhance security and privacy in RFID systems,2007,0,0,11,0.0,2141436225,Neil C. Bird,0,-0.016134865782620873,-0.6341257724322554
+2912831931,Proceedings of the 4th European conference on Security and privacy in ad-hoc and sensor networks,2007,0,0,2,0.0,724390122,Frank Stajano,0,0.0040557659796233,0.2757546058061082
+2895042723,Modular Verification of Sequential Composition for Private Channels in Maude-NPA,2018,15,1,3,0.0,2491562491,Fan Yang,0,0.8178139367424121,-1.129234136722833
+2914285192,Session details Applied cryptography 1,2008,0,0,1,1.0,2010281829,Catherine Meadows,0,0.3171484069971384,-0.13992525839030945
+2914444421,Proceedings of the 12th ACM conference on Computer and communications security,2005,0,0,2,0.0,46726047,Ari Juels,0,0.0345193044346854,0.11711036493391322

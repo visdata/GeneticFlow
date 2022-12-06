@@ -1,0 +1,57 @@
+190324853,Privacy-breaching Behavior Analysis,2013,14,7,2,0.0,2131252044,Dawn Song,0,-0.471528686263877,0.5566920312149545
+123981973,Transparent and precise malware analysis using virtualization from theory to practice,2013,99,3,1,1.0,2214002380,Heng Yin,0,-0.6123817071723564,1.4181390995675536
+59584387,Building an application-aware IPsec policy system,2005,25,8,1,1.0,2214002380,Heng Yin,0,-1.8998303185021423,-1.0858118492024953
+101671200,Identifying and Analyzing Pointer Misuses for Sophisticated Memory-corruption Exploit Diagnosis,2012,32,21,5,0.0,2918286003,Mingwei Zhang,0,-0.09978773846384253,0.9050903526293893
+1587989469,Malware detection and analysis via layered annotative execution,2009,41,1,1,1.0,2214002380,Heng Yin,0,-0.27410520138219224,1.2791467325705501
+1943233084,DroidAPIMiner Mining API-Level Features for Robust Malware Detection in Android,2013,23,296,3,0.8,50856585,Yousra Aafer,0,-0.28071484656264584,1.2804470890791197
+1865564993,DroidScope seamlessly reconstructing the OS and Dalvik semantic views for dynamic Android malware analysis,2012,31,518,2,0.0,2150123698,Lok Kwong Yan,0,0.3018222476975964,1.3313942328441637
+1982292992,A Software Environment for Confining Malicious Android Applications via Resource Virtualization,2013,13,2,4,0.7,2282449208,Xiaolei Li,0,0.05940095047987125,0.6960502266457337
+2006790656,vfGuard Strict Protection for Virtual Function Calls in COTS C++ Binaries,2015,27,59,3,0.833333,2158430196,Aravind Prakash,0,0.0040557659796233,0.2757546058061082
+2014589236,Dynamic spyware analysis,2007,26,214,4,0.0,1922185186,Manuel Egele,0,-0.9119080757758813,0.2833676514400835
+2049867480,Polyglot automatic extraction of protocol message format using dynamic binary analysis,2007,28,276,2,0.0,2118632750,Juan Caballero,0,-1.0008400706397378,-0.9810471015366883
+2048134700,MACE high-coverage and robust memory analysis for commodity operating systems,2014,26,13,3,1.0,2222358784,Qian Feng,0,-0.3976003713362508,1.164290882867107
+2057669375,Building an application-aware IPsec policy system,2007,26,20,1,1.0,2214002380,Heng Yin,0,-1.2847214765723813,-0.609199744509486
+2059610428,AppSealer Automatic Generation of Vulnerability-Specific Patches for Preventing Component Hijacking Attacks in Android Applications,2014,38,91,2,1.0,2098261215,Mu Zhang,0,-0.2995840041574867,0.0703149294032343
+2068894463,Towards Automatic Generation of Security-Centric Descriptions for Android Apps,2015,39,37,4,1.0,2098261215,Mu Zhang,0,-0.1090751720107929,1.2946245388916946
+2067512661,Efficient context-aware privacy leakage confinement for android applications without firmware modding,2014,33,34,2,1.0,2098261215,Mu Zhang,0,-0.4822553771283786,0.31737443280227046
+2069536078,Enforcing system-wide control flow integrity for exploit detection and diagnosis,2013,36,25,2,1.0,2158430196,Aravind Prakash,0,-0.3462872381084528,1.1219856326782098
+2067825984,A Light-Weight Software Environment for Confining Android Malware,2014,21,2,5,0.7,2282449208,Xiaolei Li,0,-0.47844533733402833,1.362497709876
+2094462980,Thwarting E-mail Spam Laundering,2008,31,9,2,0.571429,2648104878,Mengjun Xie,0,-0.29209959300344945,0.6063321769975045
+2089560940,HookFinder Identifying and Understanding Malware Hooking Behaviors,2008,18,120,1,1.0,2214002380,Heng Yin,0,-0.5334796547787679,1.484553098255376
+2120286042,On the Trustworthiness of Memory Analysisâ€”An Empirical Study from the Perspective of Binary Execution,2015,32,11,3,0.0,2136751487,Zhiqiang Lin,0,-0.3976003713362508,1.164290882867107
+2141971016,An effective defense against email spam laundering,2006,18,39,2,0.571429,2648104878,Mengjun Xie,0,-0.29209959300344945,0.6063321769975045
+2136245903,Emulating emulation-resistant malware,2009,29,88,4,0.0,2131252044,Dawn Song,0,0.3018222476975964,1.3313942328441637
+2119251836,BitBlaze A New Approach to Computer Security via Binary Analysis,2008,29,546,3,0.0,2131252044,Dawn Song,0,-0.9907348076734198,2.0404461612040294
+2148009765,Code Injection Attacks on HTML5-based Mobile Apps Characterization Detection and Mitigation,2014,35,91,5,0.0,2061496032,Xing Jin,0,0.0040557659796233,0.2757546058061082
+2151135920,Panorama capturing system-wide information flow for malware detection and analysis,2007,24,624,1,1.0,2214002380,Heng Yin,0,-0.13631057111251949,1.057472198597474
+2167661907,Attacks on WebView in the Android system,2011,15,130,5,0.0,2129415083,Tongbo Luo,0,1.085097682730419,1.950487146920374
+2168103835,Semantics-Aware Android Malware Classification Using Weighted Contextual API Dependency Graphs,2014,31,225,3,1.0,2098261215,Mu Zhang,0,0.3018222476975964,1.3313942328441637
+2210012086,Hooking Behavior Analysis,2013,10,1,2,0.0,2131252044,Dawn Song,0,-0.5334796547787679,1.484553098255376
+2205902796,Defeating ROP Through Denial of Stack Pivot,2015,37,10,2,0.833333,2158430196,Aravind Prakash,0,0.0040557659796233,0.2757546058061082
+2217242100,Binary Code Continent Finer-Grained Control Flow Integrity for Stripped Binaries,2015,25,16,2,1.0,2105592602,Minghua Wang,0,-0.08743986464758112,0.649894604323323
+2398994170,Hubble Transparent and Extensible Malware Analysis by Combining Hardware Virtualization and Software Emulation,2012,3,7,4,0.0,2108997328,Lok Kwong Yan,0,-0.27410520138219224,1.2791467325705501
+2397240470,Automatic Malware Analysis An Emulator Based Approach,2012,0,8,2,0.0,2131252044,Dawn Song,0,-0.39385155031851715,1.635364817126827
+2403072371,DroidAPIMiner Mining API-Level Features for Robust Malware Detection in Android,2014,0,44,3,0.8,50856585,Yousra Aafer,0,0.05940095047987125,0.6960502266457337
+2403740588,ORIGEN Automatic Extraction of Offset-Revealing Instructions for Cross-Version Memory Analysis,2016,31,1,5,1.0,2222358784,Qian Feng,0,0.155870422438688,-0.3611899258997246
+2556923057,Automatic Generation of Vulnerability-Specific Patches for Preventing Component Hijacking Attacks,2016,15,0,2,1.0,2098261215,Mu Zhang,0,-0.2995840041574867,0.0703149294032343
+2575541032,Extract Me If You Can Abusing PDF Parsers in Malware Detectors,2016,16,17,3,0.0,2163970107,Curtis Carmony,0,0.05940095047987125,0.6960502266457337
+2505418096,Automatic Malware Analysis,2013,0,3,2,0.0,2131252044,Dawn Song,0,-0.46853086956334794,1.3605471751131457
+2551832731,Efficient and Context-Aware Privacy Leakage Confinement,2016,26,0,2,1.0,2098261215,Mu Zhang,0,-0.4822553771283786,0.31737443280227046
+2584011092,JSForce A Forced Execution Engine for Malicious JavaScript Detection,2017,15,1,5,1.0,2129808943,Xunchao Hu,0,-0.255481096177426,0.4843741529378961
+2532962075,Scalable Graph-based Bug Search for Firmware Images,2016,51,58,6,1.0,2222358784,Qian Feng,0,-0.3433073201126619,0.03445260357195232
+2613948935,Dark Hazard Learning-based Large-Scale Discovery of Hidden Sensitive Operations in Android Apps,2017,0,26,5,0.0,2135787577,Xiaorui Pan,0,0.0040557659796233,0.2757546058061082
+2602815560,Extracting Conditional Formulas for Cross-Platform Bug Search,2017,37,9,6,1.0,2222358784,Qian Feng,0,0.1822731046919942,0.706777145399998
+2749008552,Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection,2017,46,68,4,0.0,2747775172,Xiaojun Xu,0,0.05940095047987125,0.6960502266457337
+2765653036,Capturing Malware Propagations with Code Injections and Code-Reuse Attacks,2017,29,8,2,0.0,2601583666,David Korczynski,0,-0.25703506162156664,1.4328710853034878
+2792393499,Things You May Not Know About Android (Un)Packers A Systematic Study based on Whole-System Emulation,2018,18,18,4,1.0,2139726406,Yue Duan,0,0.0040557659796233,0.2757546058061082
+2790562154,Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis,2018,15,12,5,0.0,2794188138,Shitong Zhu,0,0.0040557659796233,0.2757546058061082
+2913130202,Session details Memory Corruption Att &amp; Def,2017,0,0,1,1.0,2214002380,Heng Yin,0,-0.6567160340281432,1.3137850476034183
+2891621711,DeepMem Learning Graph Neural Network Models for Fast and Robust Memory Forensic Analysis,2018,38,11,2,0.0,2971836264,Wei Song,0,0.0040557659796233,0.2757546058061082
+2914331679,Android Application Security A Semantics and Context-Aware Approach,2016,0,1,2,1.0,2098261215,Mu Zhang,0,-0.0020836371354980656,0.7143340062953621
+2947265301,Send Hardest Problems My Way Probabilistic Path Prioritization for Hybrid Fuzzing,2019,0,11,3,0.0,2673867783,Lei Zhao,0,0.0040557659796233,0.2757546058061082
+2949337025,JSForce A Forced Execution Engine for Malicious JavaScript Detection,2017,23,3,5,1.0,2129808943,Xunchao Hu,0,-0.255481096177426,0.4843741529378961
+2965717902,FIRM-AFL High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation,2019,0,4,3,0.0,2443452340,Yaowen Zheng,0,0.1822731046919942,0.706777145399998
+2971648419,Be Sensitive and Collaborative Analyzing Impact of Coverage Metrics in Greybox Fuzzing,2019,0,0,4,0.0,2552083413,Jinghan Wang,0,0.0040557659796233,0.2757546058061082
+2971715451,Automatic Generation of Non-intrusive Updates for Third-Party Libraries in Android Applications,2019,0,0,4,0.857143,2139726406,Yue Duan,0,0.1277271663146797,0.24067959541525985
+3007413911,DeepBinDiff Learning Program-Wide Code Representations for Binary Diffing,2020,0,0,4,0.857143,2139726406,Yue Duan,0,0.0040557659796233,0.2757546058061082
+3009299257,Automatic Generation of Adversarial Examples for Interpreting Malware Classifiers,2020,48,1,6,0.0,3010371365,Wei Song,0,0.05940095047987125,0.6960502266457337

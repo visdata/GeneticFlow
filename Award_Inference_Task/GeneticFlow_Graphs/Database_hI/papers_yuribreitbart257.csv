@@ -1,0 +1,38 @@
+30448194,Issues in Multiple Database Environmemnts (Panel),1983,0,0,1,1.0,1985207418,Yuri Breitbart,0,-0.0041099411153885,0.0447066884760059
+99343112,Performance Evaluation of Two Multidatabase Transaction Management Algorithms,1993,0,7,1,1.0,1985207418,Yuri Breitbart,0,2.092327777226081,2.00827966933666
+31118102,Transaction management in multidatabase systems,1995,0,7,1,1.0,1985207418,Yuri Breitbart,0,0.5929764521517725,1.445610486529953
+169727605,An Update Mechanism for Multidatabase Systems,1987,0,34,1,1.0,1985207418,Yuri Breitbart,0,-1.1036205983390022,0.5937938286922697
+1513560100,Concurrency control protocols for management of replicated data items in a distributed database system,1997,22,72,2,0.0,665840641,Henry F. Korth,0,2.563018941127919,2.6544162566501206
+1542607456,Web++ architecture design and performance,2000,25,3,3,0.0,2950743996,Radek Vingralek,0,-1.835451793578714,-1.7975605740750389
+1515793046,An Optimistic Concurrency Control Protocol for Replicated Databases,2009,30,0,1,1.0,1985207418,Yuri Breitbart,0,2.7100301739155683,3.3029181428868286
+1673045556,Interoperability In Multidatabases Semantic and System Issues (Panel),1991,0,2,1,1.0,1985207418,Yuri Breitbart,0,0.4337513914617648,-0.030940431688758745
+1934165661,Method and system for managing replicated data with enhanced consistency and concurrency,1997,20,74,2,0.0,665840641,Henry F. Korth,0,1.8869564495956475,1.8649580029133848
+1599541780,ADDS Transaction Management System,1995,14,0,1,1.0,1985207418,Yuri Breitbart,0,1.800119577203133,0.8749131592990753
+1592007658,Fine-grained replication and scheduling with freshness and correctness guarantees,2005,21,44,4,0.0,2065620912,Fuat Akal,0,1.9273644304419568,1.7837041015594302
+1592572943,Method for consistent multidatabase transaction processing,1987,2,74,1,1.0,1985207418,Yuri Breitbart,0,1.5953713486544587,1.5908061055650264
+1991723162,Efficient Global Transaction Management in Multidatabase Systems,1993,0,1,3,0.0,2201039448,Sharad Mehrotra,0,2.811596997913507,3.006555138847327
+2031862949,Selection algorithms for replicated Web servers,1998,8,159,2,1.0,2131501168,Mehmet Sayal,0,-0.4952370533090319,-0.40710710999814825
+2016790168,Flexible Data Access in a Cloud Based on Freshness Requirements,2010,25,7,3,0.0,2117992962,Laura Cristiana Voicu,0,0.23690805747759247,0.03578027282933703
+2041766784,Replicated data management in the grid the Re GRIDiT approach,2009,10,11,1,1.0,1985207418,Yuri Breitbart,0,0.8031554569319046,0.5932575026936514
+2050398833,Merging application-centric and data-centric approaches to support transaction-oriented multi-system workflows,1993,21,92,1,1.0,1985207418,Yuri Breitbart,0,0.6828019674958302,1.3851938227281912
+2066292115,Transaction management issues in a failure-prone multidatabase system environment,1992,22,31,1,1.0,1985207418,Yuri Breitbart,0,2.2126974668425863,2.3080910856065326
+2070668231,Unifying concurrency control and recovery of transactions,1994,26,32,4,0.0,2122271048,Gustavo Alonso,0,2.802339741918344,3.2341104766721753
+2077967283,Estimating the number of frequent itemsets in a large database,2009,22,10,3,0.0,2119237514,Ruoming Jin,0,-0.0041099411153885,0.0447066884760059
+2058844561,Personalizing the Web using site descriptions,1999,10,62,2,0.0,2776661146,Vinod Anupam,0,-1.6499616914306277,-1.6483215926831096
+2080653282,Update propagation protocols for replicated databates,1999,11,142,1,1.0,1985207418,Yuri Breitbart,0,1.1745483726498678,1.3451717400591598
+2083822024,Multidatabase update issues,1988,7,118,1,1.0,1985207418,Yuri Breitbart,0,2.5655230829485234,3.260858980828145
+2126488419,Database integration in a distributed heterogeneous database system,1986,5,130,1,1.0,1985207418,Yuri Breitbart,0,2.6370572869483064,0.6281077489191307
+2142679785,A transparent replication of HTTP service,1999,1,6,2,0.0,2974439737,R. Vingralek,0,-1.7242076959078618,-1.2529236204732255
+2113030723,Method and apparatus for retrieving a network file using a logical reference,1999,35,125,2,0.636364,74710547,Radek Vingralek,0,-0.45963615415259446,-0.8824559497809347
+2168550698,Distributed file organization with scalable cost/performance,1994,19,51,2,0.636364,74710547,Radek Vingralek,0,-0.23479603366062093,0.24714098110858715
+2160069339,Strong recoverability in multidatabase systems,1992,7,29,1,1.0,1985207418,Yuri Breitbart,0,3.023785372910874,3.2227600948326636
+2148199530,Reliable transaction management in a multidatabase system,1990,8,117,1,1.0,1985207418,Yuri Breitbart,0,2.594829732664601,2.3123440417902783
+2145843267,Overview of multidatabase transaction management,2010,63,5,1,1.0,1985207418,Yuri Breitbart,0,1.6581824556394178,1.625524047025002
+2155193801,A dynamic migration algorithm for a distributed memory-based file management system,1997,22,2,1,1.0,1985207418,Yuri Breitbart,0,-0.0041099411153885,0.0447066884760059
+2170536525,DERBY a memory management system for distributed main memory databases,1996,25,11,4,0.0,2974302711,J. Griffioen,0,-0.0041099411153885,0.0447066884760059
+2156003868,The concurrency control problem in multidatabases characteristics and solutions,1992,11,64,3,0.0,2573499485,Sharad Mehrotra,0,2.844884400336666,3.395293331692969
+2211352702,Replication consistency and practicality are these mutually exclusive ,1998,14,106,2,0.0,665840641,Henry F. Korth,0,1.5537253331093577,1.7888620687687649
+2244584995,Real-time event processing system with service authoring environment,1999,16,101,3,0.0,253981215,Frank Frastaci,0,0.4045604802542349,-0.24931654508041853
+2336159763,Multidatabase Interoperability,1990,0,67,1,1.0,1985207418,Yuri Breitbart,0,0.4337513914617648,-0.030940431688758745
+2613214602,Overview of multidatabase transaction management,1992,69,525,1,1.0,1985207418,Yuri Breitbart,0,1.6693990293864085,1.6145427898472886
+2737079710,Unified transaction model for semantically rich operations,1994,0,1,3,0.636364,74710547,Radek Vingralek,0,1.806711478514251,1.9629003782007861

@@ -1,0 +1,62 @@
+205715760,CloudFence Data Flow Tracking as a Cloud Service,2013,47,33,4,1.0,2140172537,Vasilis Pappas,0,0.06054255142169482,1.7737413043017747
+70478248,Transparent ROP exploit mitigation using indirect branch tracing,2013,36,197,2,1.0,2140172537,Vasilis Pappas,0,-0.6374321313972565,0.7165519675208408
+70492804,Privacy-preserving social plugins,2012,22,26,1,1.0,198647274,Michalis Polychronakis,0,0.03414406787360945,0.2818663120264617
+74995240,An empirical study of real-world polymorphic code injection attacks,2009,13,30,1,1.0,198647274,Michalis Polychronakis,0,0.021563355090972004,0.7221672804913157
+75589233,Dynamic Reconstruction of Relocation Information for Stripped Binaries,2014,27,6,2,0.75874,2140172537,Vasilis Pappas,0,0.0040557659796233,0.2757546058061082
+67104385,Computational Decoys for Cloud Security,2014,28,6,2,0.521739,2156318551,Georgios Kontaxis,0,-0.3287690164964345,0.14636193449847731
+974002769,Detecting Traffic Snooping in Anonymity Networks Using Decoys,2011,17,2,1,1.0,198647274,Michalis Polychronakis,0,-0.5109134733815648,0.0814819387805282
+1544471297,Size does matter why using gadget-chain length to prevent code-reuse attacks is hard,2014,28,87,3,0.0,2041487606,Enes Goktas,0,-1.1180566081538228,0.5596738011988476
+1447175589,ret2dir rethinking kernel isolation,2014,19,48,2,0.6,1189730027,Vasileios P. Kemerlis,0,0.0040557659796233,0.2757546058061082
+1594832641,Server-Side Code Injection Attacks A Historical Perspective,2013,48,4,3,0.0,2516930573,Jakob Fritz,0,0.10647307806699877,0.7229896171734163
+1596630083,On Effectiveness of Traffic Analysis Against Anonymity Networks Using Netflow,2013,0,0,1,1.0,198647274,Michalis Polychronakis,0,-0.12101623578201222,0.3928621751004999
+1769672943,Ghost turns zombie exploring the life cycle of web-based malware,2008,14,66,1,1.0,198647274,Michalis Polychronakis,0,-0.25703506162156664,1.4328710853034878
+1591237315,Emulation-based detection of non-self-contained polymorphic shellcode,2007,24,90,1,1.0,198647274,Michalis Polychronakis,0,1.1537352555675529,0.6665521680902089
+1950882734,Detecting traffic snooping in tor using decoys,2011,26,20,3,0.8,2145971525,Sambuddho Chakravarty,0,-0.9019300921868718,-0.07052411153641111
+1980534465,k-subscription privacy-preserving microblogging browsing through obfuscation,2013,21,10,3,0.346154,2122697406,Panagiotis Papadopoulos,0,-0.28987603174959586,0.9535096807205767
+1967216565,The Devil is in the Constants Bypassing Defenses in Browser JIT Engines,2015,37,20,3,0.0,2413605681,Michalis Athanasakis,0,0.8770957777503273,0.7878042121150818
+1980144133,deaddrop URL-Based Stealthy Messaging,2011,7,2,3,0.339623,2156318551,Georgios Kontaxis,0,-1.849432942852349,2.2197575014087185
+1993651556,Combining static and dynamic analysis for the detection of malicious documents,2011,9,76,3,0.0,2711953051,Zacharias Tzermias,0,-0.334333390620263,1.1326084744453335
+2009801020,Smashing the Gadgets Hindering Return-Oriented Programming Using In-place Code Randomization,2012,35,241,2,1.0,2140172537,Vasilis Pappas,0,-1.1498496721988534,1.1861355474867998
+1988937253,GPU-assisted malware,2010,14,23,2,0.75,1964648611,Giorgos Vasiliadis,0,0.40834713439055736,0.8933077217565389
+2012126173,LOBSTER a European platform for passive network traffic monitoring,2008,18,9,3,0.0,2577056099,Demetris Antoniades,0,0.0040557659796233,0.2757546058061082
+2044093876,Real-world polymorphic attack detection using network-level emulation,2008,5,5,2,0.0,143871111,Kostas G. Anagnostakis,0,0.13944740435109365,0.881472575491496
+2053390533,RAPID Traffic-agnostic intrusion detection for resource-constrained wireless mesh networks,2014,44,4,3,0.521739,2088521291,Amin Hassanzadeh,0,0.13679434731489165,0.6751406926737795
+2034346354,Network-level polymorphic shellcode detection using emulation,2007,44,71,1,1.0,198647274,Michalis Polychronakis,0,0.5974841842668769,0.6753660120833672
+2037838598,Deep packet anonymization,2009,12,12,3,0.0,2974593865,Michael Foukarakis,0,0.3752151035128795,0.31754992707720536
+2068061330,Improving the accuracy of network intrusion detection systems under load using selective packet discarding,2010,23,42,2,0.6,53470668,Antonis Papadogiannakis,0,-0.2869596526404163,1.2621019338260189
+2075893549,Detection and analysis of eavesdropping in anonymous communication networks,2015,28,9,3,0.8,2145971525,Sambuddho Chakravarty,0,0.011788180634529855,-0.3417311002085374
+2067243446,GPU-assisted malware,2015,20,9,2,0.75,1964648611,Giorgos Vasiliadis,0,0.3018222476975964,1.3313942328441637
+2060276266,ROP payload detection using speculative code execution,2011,14,34,1,1.0,198647274,Michalis Polychronakis,0,0.8770957777503273,0.7878042121150818
+2105112969,PixelVault Using GPUs for Securing Cryptographic Operations,2014,40,39,3,1.0,1964648611,Giorgos Vasiliadis,0,-0.18941007102948534,-1.4669438877445693
+2105765748,Minimizing information disclosure to third parties in social login platforms,2012,8,21,2,0.521739,2156318551,Georgios Kontaxis,0,-0.1531811038149144,0.12455285312080716
+2110153733,MIDeA a multi-parallel intrusion detection architecture,2011,41,94,2,1.0,1964648611,Giorgos Vasiliadis,0,0.13679434731489165,0.6751406926737795
+2169231127,ARC protecting against HTTP parameter pollution attacks using application request caches,2012,31,0,3,0.408877,2198740901,Elias Athanasopoulos,0,0.0040557659796233,0.2757546058061082
+2158302406,Comprehensive shellcode detection using runtime heuristics,2010,20,61,1,1.0,198647274,Michalis Polychronakis,0,0.5724261096989544,0.6589084143931503
+2158874007,Rage against the virtual machine hindering dynamic analysis of Android malware,2014,16,126,4,0.0,2129120213,Thanasis Petsas,0,-0.08795023385876481,1.4329188402921855
+2171156397,IntFlow improving the accuracy of arithmetic error detection using information flow tracking,2014,18,10,4,0.0,2222467377,Marios Pomonis,0,0.0040557659796233,0.2757546058061082
+2207780581,DynaGuard Armoring Canary-based Protections against Brute-force Attacks,2015,22,14,3,0.818182,111108605,Theofilos Petsios,0,-0.00017242334600542364,0.5245213012456196
+2404678703,No-Execute-After-Read Preventing Code Disclosure in Commodity Software,2016,29,30,7,1.0,2489402135,Jan Werner,0,-0.6046900171546454,1.357406822934406
+2394950416,Juggling the Gadgets Binary-level Code Randomization using Instruction Displacement,2016,36,10,2,0.833333,2224951912,Hyungjoon Koo,0,-0.9421017994486295,0.5876561697989094
+2466399651,PRIDE A practical intrusion detection system for resource constrained wireless mesh networks,2016,43,8,5,0.521739,2088521291,Amin Hassanzadeh,0,0.13679434731489165,0.6751406926737795
+2490566030,Applied Cryptography and Network Security,2015,0,0,1,1.0,198647274,Michalis Polychronakis,0,0.061941820468865594,-3.100017078784339
+2550068562,Detecting return-oriented programming payloads by evaluating data for a gadget address space address and determining whether operations associated with instructions beginning at the address indicate a return-oriented programming payload,2012,383,2,1,1.0,198647274,Michalis Polychronakis,0,-1.1180566081538228,0.5596738011988476
+2510394756,Return to the Zombie Gadgets Undermining Destructive Code Reads via Code Inference Attacks,2016,40,25,6,0.0,2159745255,Kevin Z. Snow,0,-1.2762892960950076,1.7929369092678331
+2726232829,Revisiting Browser Security in the Modern Era New Data-Only Attacks and Defenses,2017,55,10,6,1.0,2514576305,Roman Rogowski,0,0.1639362940477497,0.6530314529854678
+2654722385,Defeating Zombie Gadgets by Re-randomizing Code upon Disclosure,2017,29,3,5,0.0,2629562491,Micah Morton,0,-0.037572415730569235,0.7707032768238465
+2591642604,Defending Against Web Application Attacks Approaches Challenges and Implications,2019,64,8,3,0.0,2131318614,Dimitris Mitropoulos,0,0.1639362940477497,0.6530314529854678
+2712617220,Spotless Sandboxes Evading Malware Analysis Systems Using Wear-and-Tear Artifacts,2017,28,25,4,0.0,2479344290,Najmeh Miramirkhani,0,0.30622116258125237,1.2711770463082963
+2794691759,Compiler-Assisted Code Randomization,2018,78,11,5,1.0,2224951912,Hyungjoon Koo,0,0.0040557659796233,0.2757546058061082
+2793272611,A Large-scale Analysis of Content Modification by Open HTTP Proxies,2018,14,9,5,0.0,2228715579,Giorgos Tsirantonakis,0,0.0040557659796233,0.2757546058061082
+2893936826,Master of Web Puppets Abusing Web Browsers for Persistent and Stealthy Computation,2018,21,3,3,0.346154,2122697406,Panagiotis Papadopoulos,0,-1.0748320696519569,0.6346639768992652
+2921761518,Is Privacy possible without Anonymity The case for microblogging services,2019,19,0,3,0.335244,2122697406,Panagiotis Papadopoulos,0,-0.2811394634228806,0.44628042288246345
+2903017094,Shredder Breaking Exploits through API Specialization,2018,59,7,2,0.0,2902515225,Shachee Mishra,0,-0.029288643091301192,1.4086515037178218
+2911820601,Proceedings of the Eighth European Workshop on System Security,2015,0,0,1,1.0,198647274,Michalis Polychronakis,0,0.0040557659796233,0.2757546058061082
+2962776979,Master of Web Puppets Abusing Web Browsers for Persistent and Stealthy Computation,2018,0,1,3,0.346154,2122697406,Panagiotis Papadopoulos,0,0.0040557659796233,0.2757546058061082
+2944412604,Research in attacks intrusions and defenses 20th international symposium RAID 2017 Atlanta GA USA September 18-20 2017 proceedings,2017,0,0,1,1.0,198647274,Michalis Polychronakis,0,-0.1632814783637774,0.6425686731612386
+2959284240,The SEVerESt Of Them All Inference Attacks Against Secure Virtual Enclaves,2019,26,2,4,1.0,2489402135,Jan Werner,0,0.155870422438688,-0.3611899258997246
+2932551155,SoK The Challenges Pitfalls and Perils of Using Hardware Performance Counters for Security,2019,56,11,4,0.0,2224737654,Sanjeev Das,0,0.02301997064340104,0.8660471200709263
+2961732833,Measuring I2P Censorship at a Global Scale,2019,57,0,3,0.0,2228679502,Nguyen Phong Hoang,0,-0.16420021596708323,0.32292378428885316
+2972333030,Measuring I2P Censorship at a Global Scale,2019,0,3,3,0.0,2228679502,Nguyen Phong Hoang,0,0.0040557659796233,0.2757546058061082
+2986494052,Assessing the Privacy Benefits of Domain Name Encryption,2019,74,2,5,0.0,2669937009,Nguyen Phong Hoang,0,0.2913265615198715,0.3573931492108621
+2990523227,Mitigating data leakage by protecting memory-resident sensitive data,2019,32,0,3,0.0,2223955269,Tapti Palit,0,-0.35027553676293793,1.3592181813152333
+3015513242,xMP Selective Memory Protection for Kernel and User Space,2020,0,0,5,0.0,2642388070,Sergej Proskurin,0,-0.6567160340281432,1.3137850476034183

@@ -1,0 +1,91 @@
+200129097,Towards an information theoretic framework for location-based data linkage,2005,31,0,2,0.5,242635728,Edoardo M. Airoldi,0,-1.019517835582043,0.1831135104469761
+132217605,Private medical record linkage with approximate matching,2010,0,25,4,0.128705,332400322,Murat Kantarcioglu,0,-0.34541882287244086,0.22973343911712746
+151855835,A practical approach to achieve private medical record linkage in light of public resources,2013,58,39,5,0.642857,2305825700,Mehmet Kuzu,0,0.247057159400659,0.0008718596446388033
+204159636,Data Mining Challenges for Electronic Safety The Case of Fraudulent Intent Detection in E-Mails,2004,9,17,2,0.0,242635728,Edoardo M. Airoldi,0,0.003708468606338,0.082832279151172
+1537286396,Guest editorial Recent advances in preserving privacy when mining data,2008,9,9,2,0.0,1576981941,YÃ¼cel Saygin,0,0.003708468606338,0.082832279151172
+1557271804,Towards Utility-driven Anonymization of Transactions,2009,23,2,3,0.0,57288862,Aris Gkoulalas Divanis,0,0.003708468606338,0.082832279151172
+1928359578,Design and implementation of a privacy preserving electronic health record linkage tool in Chicago,2015,40,49,11,0.0,2423943427,Abel N. Kho,0,0.003708468606338,0.082832279151172
+1916258859,A constraint satisfaction cryptanalysis of bloom filters in private record linkage,2011,37,70,4,0.642857,2305825700,Mehmet Kuzu,0,0.003708468606338,0.082832279151172
+1781484368,Confidentiality Preserving Audits of Electronic Medical Record Access,2007,13,16,1,1.0,2145238237,Bradley A. Malin,0,0.003708468606338,0.082832279151172
+1788063258,Protecting Genomic Sequence Anonymity with Generalization Lattices,2005,25,40,1,1.0,2145238237,Bradley A. Malin,0,0.003708468606338,0.082832279151172
+1585030920,Privacy-aware dynamic feature selection,2015,44,11,4,0.75,291334762,Erman Pattuk,0,0.025330753941120228,0.3535812299058454
+1976801265,Rubik Knowledge Guided Tensor Factorization and Completion for Health Data Analytics,2015,32,93,7,0.0,2272469598,Yichen Wang,0,0.3842075850016511,0.14830610850059345
+1980474382,COAT COnstraint-based anonymization of transactions,2011,70,49,3,0.441623,68021724,Grigorios Loukides,0,0.003708468606338,0.082832279151172
+1975431506,Efficient privacy-aware record integration,2013,27,37,6,0.642857,2305825700,Mehmet Kuzu,0,-0.12681076648878814,0.06540009977213765
+1975549305,Quantifying the correctness computational complexity and security of privacy-preserving string comparators for record linkage,2012,60,50,4,1.0,2022549882,Elizabeth Durham,0,0.25794817819319404,0.10561298289613552
+1982538504,Scalable load balancing for mapreduce-based record linkage,2013,21,15,3,0.0,2281384182,Wei Yan,0,0.3227021468631927,-0.009532439791102095
+1976088676,Learning relational policies from electronic health record access logs,2011,53,37,1,1.0,2145238237,Bradley A. Malin,0,0.36961615338683507,0.04520172406723675
+1972756559,Process-Driven Data Privacy,2015,28,2,6,1.0,2121210855,Weiyi Xia,0,0.003708468606338,0.082832279151172
+1971309010,First ACM SIGKDD International Workshop on Privacy Security and Trust in KDD,2007,0,1,2,0.0,1576981941,YÃ¼cel Saygin,0,0.003708468606338,0.082832279151172
+2008565899,Formal anonymity models for efficient privacy-preserving joins,2009,53,16,4,0.160569,332400322,Murat Kantarcioglu,0,0.01845840141861514,0.20693239642665182
+1989299447,Evolving role definitions through permission invocation patterns,2013,27,18,5,1.0,2218798115,Wen Zhang,0,-0.09762532850173684,0.1883363043995903
+1987521207,Privacy in the Genomic Era,2015,131,96,7,0.0,2113987192,Muhammad Naveed,0,-0.1908094651786742,0.41037779126763796
+2007781025,A computational model to protect patient data from location-based re-identification,2007,28,24,1,1.0,2145238237,Bradley A. Malin,0,0.003708468606338,0.082832279151172
+2010293151,Model-based design of clinical information systems,2008,20,8,3,0.0,1445172636,Akos Ledeczi,0,-0.3776975107516547,-0.8857900072633755
+2026709769,De-identification of clinical narratives through writing complexity measures,2014,51,12,5,1.0,2235749073,Muqun Li,0,-1.9834034143309696,0.0579473239782817
+2023840804,Mining Deviations from Patient Care Pathways via Electronic Medical Record System Audits,2013,68,16,5,0.0,2311508554,He Zhang,0,0.19600716305533647,0.32527053804104344
+2043787647,Anonymization of Longitudinal Electronic Medical Records,2012,58,42,5,0.6,187710220,Acar Tamersoy,0,-0.46704906905840676,0.9224594834879611
+2051035340,A probabilistic approach to mitigate composition attacks on privacy in non-coordinated environments,2014,34,8,5,0.0,2127201758,A.H.M. Sarowar Sattar,0,-0.015895066793590817,0.2148022731823349
+2045970339,Secure Management of Biomedical Data With Cryptographic Hardware,2012,35,47,3,0.0,2266279181,Mustafa Canim,0,0.013185844233841199,0.06747152203690077
+2040807773,A community assessment of privacy preserving techniques for human genomes,2014,31,37,4,0.0,2132814769,Xiaoqian Jiang,0,-0.12681076648878814,0.06540009977213765
+2056765730,Modeling and detecting anomalous topic access,2013,11,12,6,0.0,2151203220,Siddharth Gupta,0,-0.3301416817473286,0.018282018295107984
+2060271504,k-Unlinkability A privacy protection model for distributed data,2008,36,20,1,1.0,2145238237,Bradley A. Malin,0,0.36961615338683507,0.04520172406723675
+2064070881,Size matters,2014,55,82,3,1.0,1982805049,Raymond Heatherly,0,0.21438872843298346,-0.1353423822296997
+2089214538,Secure construction of k-unlinkable patient records from distributed providers,2010,50,6,1,1.0,2145238237,Bradley A. Malin,0,0.003708468606338,0.082832279151172
+2086375647,PinKDD07 privacy security and trust in KDD post-workshop report,2007,5,0,3,0.0,2176652147,Francesco Bonchi,0,0.08043101322907448,-0.36147463546964653
+2091679618,Detecting Anomalous User Behaviors in Workflow-Driven Web Applications,2012,21,10,3,0.0,2295810932,Xiaowei Li,0,0.12123176996967014,-2.7097710828433654
+2103958416,Preserving privacy by de-identifying face images,2005,20,314,3,0.0,2571606700,E.M. Newton,0,0.003708468606338,0.082832279151172
+2101797610,Anonymization of Administrative Billing Codes with Repeated Diagnoses Through Censoring,2010,15,7,4,0.625,68021724,Grigorios Loukides,0,0.003708468606338,0.082832279151172
+2080291321,Composite Bloom Filters for Secure Record Linkage,2014,44,44,6,1.0,2022549882,Elizabeth Durham,0,0.11672415509507165,0.0338187686908989
+2141640676,The disclosure of diagnosis codes can breach research participants privacy,2010,22,84,3,0.625,68021724,Grigorios Loukides,0,0.003708468606338,0.082832279151172
+2117818136,Specializing network analysis to detect anomalous insider actions,2012,48,28,4,1.0,2142542144,You Chen,0,0.20279561436658805,0.0753070172078775
+2135496322,Limestone High-throughput candidate phenotype generation via tensor factorization,2014,76,85,6,0.428571,2616953138,Joyce C. Ho,0,0.003708468606338,0.082832279151172
+2124398102,A Cryptographic Approach to Securely Share and Query Genomic Sequences,2008,41,97,4,0.160569,332400322,Murat Kantarcioglu,0,0.003708468606338,0.082832279151172
+2140106134,Composition and Disclosure of Unlinkable Distributed Databases,2006,5,5,1,1.0,2145238237,Bradley A. Malin,0,0.003708468606338,0.082832279151172
+2119675572,A Privacy-Preserving Framework for Integrating Person-Specific Databases,2008,26,24,3,0.160569,332400322,Murat Kantarcioglu,0,-0.08219684055276005,0.4370923699984199
+2134760558,SecureMA protecting participant privacy in genetic association meta-analysis,2014,33,29,7,0.0,2675743167,Wei Xie,0,0.0447527817443803,0.01935162272502435
+2114323543,Building bridges across electronic health record systems through inferred phenotypic topics,2015,51,28,10,0.864803,2142542144,You Chen,0,-0.567309517391466,-0.1938113241532027
+2171231355,Predicting changes in hypertension control using electronic health records from a chronic disease management program,2014,57,42,10,0.0,2915641976,Jimeng Sun,0,0.31484412112737625,0.2579936097006229
+2168836773,R-U policy frontiers for health data de-identification,2015,52,9,5,1.0,2121210855,Weiyi Xia,0,0.003708468606338,0.082832279151172
+2147938200,An entropy approach to disclosure risk assessment Lessons from real applications and simulated domains,2011,66,16,3,0.135492,242635728,Edoardo M. Airoldi,0,0.003708468606338,0.082832279151172
+2169150110,Never too old for anonymity a statistical standard for demographic data sharing via the HIPAA Privacy Rule,2011,35,61,1,1.0,2145238237,Bradley A. Malin,0,0.003708468606338,0.082832279151172
+2166443682,Hiding in plain sight use of realistic surrogates to reduce exposure of protected health information in clinical text,2013,27,27,2,1.0,2950222141,David S. Carrell,0,0.003708468606338,0.082832279151172
+2154543747,Leveraging social networks to detect anomalous insider actions in collaborative environments,2011,29,16,4,1.0,2142542144,You Chen,0,0.3024941206384012,0.2601028475248656
+2170383904,Reducing patient re-identification risk for laboratory results within research datasets,2013,53,12,4,0.0,2035423228,Ravi V. Atreya,0,0.003708468606338,0.082832279151172
+2167529199,A longitudinal social network analysis of the editorial boards of medical informatics and bioinformatics journals,2007,15,26,2,0.0,2098520675,Kathleen M. Carley,0,0.003708468606338,0.082832279151172
+2146875405,Evaluating re-identification risks with respect to the HIPAA privacy rule,2010,22,136,2,0.0,2108404976,Kathleen Benitez,0,0.003708468606338,0.082832279151172
+2146919633,An evaluation of the current state of genomic data privacy protection technology and a roadmap for the future,2004,24,106,1,1.0,2145238237,Bradley A. Malin,0,0.003708468606338,0.082832279151172
+2161880183,The MITRE Identification Scrubber Toolkit Design training and assessment,2010,24,86,7,0.0,2992461026,John S. Aberdeen,0,0.003708468606338,0.082832279151172
+2165067028,How (not) to protect genomic data privacy in a distributed network using trail re-identification to evaluate and design anonymity protection systems,2004,23,182,1,1.0,2145238237,Bradley A. Malin,0,0.003708468606338,0.082832279151172
+2244344401,Iterative Classification for Sanitizing Large-Scale Datasets,2015,19,4,4,0.6,2646002477,Bo Li,0,0.11672415509507165,0.0338187686908989
+2241733288,A multi-institution evaluation of clinical profile anonymization,2016,28,5,7,0.833333,1982805049,Raymond Heatherly,0,0.003708468606338,0.082832279151172
+2305590176,Optimizing annotation resources for natural language de-identification via a game theoretic framework,2016,44,6,8,1.0,2235749073,Muqun Li,0,0.003708468606338,0.082832279151172
+2296458716,Methods to Mitigate Risk of Composition Attack in Independent Data Publications,2015,41,2,7,0.0,2095948822,Jiuyong Li,0,-0.08219684055276005,0.4370923699984199
+2310459082,Preserving temporal relations in clinical data while maintaining privacy,2016,15,6,4,0.0,2087940392,George Hripcsak,0,0.21438872843298346,-0.1353423822296997
+2344593540,Patient Stratification Using Electronic Health Records from a Chronic Disease Management Program,2016,0,6,4,0.818182,2005316832,Candace D. McNaughton,0,0.10587775865696057,0.5162125630735442
+2460740206,Is the Juice Worth the Squeeze Costs and Benefits of Multiple Human Annotators for Clinical Text De-identification,2016,24,7,2,0.769231,2120280844,John Aberdeen,0,0.003708468606338,0.082832279151172
+2422454030,Optimizing secure classification performance with privacy-aware feature selection,2016,37,2,4,0.75,291334762,Erman Pattuk,0,-0.25023896793326905,0.13037718530513653
+2555737796,Scalable Iterative Classification for Sanitizing Large-Scale Datasets,2017,59,3,4,0.6,2646002477,Bo Li,0,0.2195057661499241,-0.09529316874292454
+2556399337,Phenotyping using Structured Collective Matrix Factorization of Multi--source EHR Data,2016,26,3,4,0.0,2092639762,Suriya Gunasekar,0,0.01458179373266192,-0.12363367351613337
+2561893687,Towards a privacy preserving cohort discovery framework for clinical research networks,2017,28,6,2,0.0,2136120113,Jiawei Yuan,0,-0.13275296294680305,-0.071629888206014
+2516936793,Identifying collaborative care teams through electronic medical record utilization patterns,2016,40,14,5,0.686693,2142542144,You Chen,0,-0.17536238923574604,0.4144853997593385
+2577307791,#PrayForDad Learning the Semantics Behind Why Social Media Users Disclose Health Information,2016,0,3,5,1.0,2531913834,Zhijun Yin,0,0.003708468606338,0.082832279151172
+2527393584,The effects of location access behavior on re-identification risk in a distributed environment,2006,0,11,1,1.0,2145238237,Bradley A. Malin,0,-0.8119081610759554,0.7753277337940678
+2667789163,Preface to the fourth IEEE workshop on privacy aspects of data mining,2013,0,0,18,0.0,34369697,Manolis Terrovitis,0,0.003708468606338,0.082832279151172
+2621312988,Learning bundled care opportunities from electronic medical records,2018,59,9,7,0.642102,2142542144,You Chen,0,-0.05609817267955292,0.5513894597420175
+2768223998,Reciprocity and its Association with Treatment Adherence in an Online Breast Cancer Forum,2017,25,1,3,0.0,2163471192,Zhijun Yin,0,0.003708468606338,0.082832279151172
+2754794949,Granite Diversified Sparse Tensor Factorization for Electronic Health Record-Based Phenotyping,2017,31,9,5,0.0,2399307391,Jette Henderson,0,0.24128472012837443,-0.0044836741600321976
+2768087169,Building a Dossier on the Cheap Integrating Distributed Personal Data Resources Under Cost Constraints,2017,21,0,4,1.0,2767950956,Imrul Chowdhury Anindya,0,0.2203513016097659,-0.05856305705207425
+2917169847,PinKDD08 privacy security and trust in KDD post workshop report,2008,4,1,4,0.0,2176652147,Francesco Bonchi,0,0.36961615338683507,0.04520172406723675
+2925590689,Determining the Impact of Missing Values on Blocking in Record Linkage,2019,12,2,3,1.0,2767950956,Imrul Chowdhury Anindya,0,0.28384428710420007,0.10276207926911156
+2911601815,Proceedings of the 1st ACM SIGKDD international conference on Privacy security and trust in KDD,2007,0,0,2,0.0,1576981941,YÃ¼cel Saygin,0,0.003708468606338,0.082832279151172
+2901180442,Mining the Best Observational Window to Model Social Phenomena,2018,34,0,9,1.0,2650581224,Chao Yan,0,0.19600716305533647,0.32527053804104344
+2140055604,A secure protocol for protecting the identity of providers when disclosing data for disease surveillance,2011,56,34,7,0.0,2519158968,Khaled El Emam,0,0.003708468606338,0.082832279151172
+2758976505,Its all in the timing calibrating temporal penalties for biomedical data sharing,2018,18,3,13,1.0,2121210855,Weiyi Xia,0,-0.2603613110186321,0.22532733704052654
+2980100290,Ensuring electronic medical record simulation through better training modeling and evaluation,2020,38,4,5,0.0,2980219867,Ziqi Zhang,0,0.003708468606338,0.082832279151172
+2120448874,PARAMO A PARAllel predictive MOdeling platform for healthcare analytic research using electronic health records,2014,51,65,6,0.0,2109016606,Kenney Ng,0,-0.10601589181123494,0.3619839834392162
+2115883395,Biomedical data privacy problems perspectives and recent advances,2013,67,81,1,1.0,2145238237,Bradley A. Malin,0,0.003708468606338,0.082832279151172
+2137377614,Effects of personal identifier resynthesis on clinical text de-identification,2010,21,30,7,0.0,665239631,Reyyan Yeniterzi,0,0.003708468606338,0.082832279151172
+2965865809,The machine giveth and the machine taketh away a parrot attack on clinical text deidentified with hiding in plain sight,2019,25,0,5,1.0,2950222141,David S. Carrell,0,-0.0323433191096334,-0.2850616803877427
+2984738305,Deep Learning Predicts Extreme Preterm Birth from Electronic Health Records,2019,49,1,6,0.0,2786536146,Cheng Gao,0,-0.900765643645761,0.718371679829481
+3011443750,Modeling Care Team Structures in the Neonatal Intensive Care Unit through Network Analysis of EHR Audit Logs,2019,42,0,3,0.639825,2142542144,You Chen,0,0.003708468606338,0.082832279151172

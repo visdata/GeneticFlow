@@ -1,0 +1,83 @@
+86184234,Performance and security evaluation of AES s-box-based glitch PUFs on FPGAs,2012,23,8,4,0.0,2318625332,Dai Yamamoto,0,-0.5893054126365339,-0.4253613351775625
+104720657,Reverse Fuzzy Extractors Enabling Lightweight Mutual Authentication for PUF-Enabled RFIDs,2012,39,94,6,1.0,22011657,Anthony Van Herrewege,0,-0.9333589487205401,-1.0107394529725648
+19910538,LiBrA-CAN A Lightweight Broadcast Authentication Protocol for Controller Area Networks,2012,14,86,4,0.0,1253982445,Bogdan Groza,0,-0.7359684586340626,-0.9112976763309334
+22946653,Generic DPA Attacks Curse or Blessing ,2014,19,3,2,1.0,1889903544,Oscar Reparaz,0,-0.1970694756216843,-1.1282800568292994
+127464279,Public-Key Cryptography for RFID Tags and Applications,2008,92,8,2,0.0,2010563759,Pim Theo Tuyls,0,0.0632172828316044,-1.060980949213868
+60689211,An updated survey on secure ECC implementations attacks countermeasures and cost,2012,72,69,2,0.823529,2139747348,Junfeng Fan,0,0.18166935427428166,-1.5912808806381369
+198928148,Sancus low-cost trustworthy extensible networked devices with a zero-software trusted computing base,2013,43,119,8,0.5,1807812793,Job Noorman,0,-0.1927488467184495,2.3907225574555966
+131335036,A Security Protocol for Biometric Smart Cards,2002,0,0,4,0.0,2917769369,David Hwang,0,-1.228198590539987,0.1609537891478419
+84081056,Efficient and secure hardware,2012,11,1,1,1.0,2044881251,Ingrid Verbauwhede,0,0.5418564187615271,0.6194098253137506
+34425159,A new model for error-tolerant side-channel cube attacks,2013,31,5,4,0.0,2950084148,Zhenqi Li,0,1.2239846959244094,-1.6990265438551861
+824951967,Security of countermeasures against state-of-the-art differential scan attacks,2013,14,2,1,1.0,2044881251,Ingrid Verbauwhede,0,-0.18618689656946605,0.637946401295037
+1522953023,Place and Route for Secure Standard Cell Design,2004,7,88,2,0.7,2583218792,Kris Tiri,0,0.6030230882889741,-0.10167657329112849
+1551926972,Secure Integrated Circuits and Systems,2010,0,58,1,1.0,2044881251,Ingrid Verbauwhede,0,-0.6841328127086882,1.5132476212606247
+1739186551,Privacy-preserving ECC-based grouping proofs for RFID,2010,6,14,5,0.566142,2090677550,Lejla Batina,0,-0.08623138824572966,-0.6007724052955432
+1929168187,PrETP privacy-preserving electronic toll pricing,2010,31,95,5,0.545455,2113151182,Josep Balasch,0,-0.19892954939274243,0.06505736021512895
+1878339160,Theory and practice of a leakage resilient masking scheme,2012,27,23,4,0.545455,2113151182,Josep Balasch,0,1.2564956306248234,-0.9425461231825846
+1597065861,Anti-counterfeiting Untraceability and Other Security Challenges for RFID Systems Public-Key-Based Protocols and Hardware,2010,45,14,5,1.0,2106716874,Yong Ki Lee,0,-0.7558342886317676,-0.5198200068615099
+1966117405,A Survey on Lightweight Entity Authentication with Strong PUFs,2015,61,64,4,0.818182,2133363934,Jeroen Delvaux,0,-0.7746181195803475,0.15497606393202706
+1994429123,State-of-the-art of secure ECC implementations a survey on known side-channel attacks and countermeasures,2010,41,99,6,0.571429,2139747348,Junfeng Fan,0,-0.012518673719973625,-1.2004927469874118
+1987607312,DEMO Inherent PUFs and secure PRNGs on commercial off-the-shelf microcontrollers,2013,7,5,3,1.0,22011657,Anthony Van Herrewege,0,-0.7716641094502313,-1.1849529750138297
+1998466624,A Practical Attack on KeeLoq,2012,20,26,10,0.0,2144432332,Wim Aerts,0,0.4985235262336148,-1.377779146294114
+2007459082,Key-recovery attacks on various RO PUF constructions via helper data manipulation,2014,10,39,2,0.818182,2133363934,Jeroen Delvaux,0,-0.26591386688478547,-0.16578697951937083
+1993649027,The cost of cryptography Is low budget possible ,2011,0,0,1,1.0,2044881251,Ingrid Verbauwhede,0,-0.549684782307138,-0.9211172798083099
+2022955104,Untraceable RFID authentication protocols Revision of EC-RAC,2009,21,69,1,1.0,2044881251,Ingrid Verbauwhede,0,-0.6416767208120904,-0.6226418620042643
+2050140004,Guest Editorial - Integrated Circuit and System Security,2012,0,2,1,1.0,2044881251,Ingrid Verbauwhede,0,1.0046458628771788,-0.1743665084829525
+2055377709,Scan attacks on side-channel and fault attack resistant public-key implementations,2012,33,3,7,0.0,2171269599,Jean Da Rolt,0,0.47288073769227856,-0.33577183049824977
+2072402822,Hardware Designers Guide to Fault Attacks,2013,97,69,3,0.0,2232236903,Dusko Karaklajic,0,0.06852911991833915,-0.1340458684314154
+2057358220,The Fault Attack Jungle - A Classification Model to Guide You,2011,46,35,1,1.0,2044881251,Ingrid Verbauwhede,0,0.6462354311460047,-1.0461999159355726
+2085751410,Anonymous Split E-Cashâ€”Toward Mobile Anonymous Payments,2015,26,5,1,1.0,2044881251,Ingrid Verbauwhede,0,-0.16452876939614375,1.229884754393923
+2103468612,Test Versus Security Past and Present,2014,43,48,6,0.0,2952684508,Jean da Rolt,0,0.38015409545630313,-0.9607315124008775
+2098590781,Practical DPA attacks on MDPL,2009,22,14,4,0.0,2146124171,Elke De Mulder,0,0.3171484069971384,-0.13992525839030945
+2131921444,Side-Channel Leakage Tolerant Architectures,2006,20,4,3,0.7,2583218792,Kris Tiri,0,0.7262098281834889,-0.0035539389474694705
+2114980291,Low-energy encryption for medical devices security adds an extra design dimension,2013,19,8,4,0.823529,2139747348,Junfeng Fan,0,-0.08079921158579334,-0.7776333188402617
+2109187446,Extending ECC-based RFID authentication protocols to privacy-preserving multi-party grouping proofs,2012,34,36,5,0.482421,2090677550,Lejla Batina,0,-0.12384732774906101,-0.8229600111811327
+2109431310,Side-channel issues for designing secure hardware implementations,2005,16,18,3,0.391304,2090677550,Lejla Batina,0,0.4798571729113968,-0.2568886981909647
+2133198962,Prototype IC with WDDL and differential routing â€“ DPA resistance assessment,2005,13,110,2,0.0,65846449,A. Hodjat,0,0.7215311156043612,-0.4856059992067493
+2139371379,Securing embedded systems,2006,9,72,4,0.0,2805892999,D.D. Hwang,0,-0.27849728290875186,0.9374251868995428
+2122062557,Revisiting a combinatorial approach toward measuring anonymity,2008,19,47,5,1.0,2048388829,Benedikt Gierlichs,0,-0.16420021596708323,0.32292378428885316
+2128255161,Practical Mitigations for Timing-Based Side-Channel Attacks on Modern x86 Processors,2009,29,114,2,0.0,2106656331,Bart Coppens,0,0.8603408302060265,-0.3481746853182351
+2147174456,Secure PRNG seeding on commercial off-the-shelf microcontrollers,2013,15,14,5,1.0,22011657,Anthony Van Herrewege,0,-0.6396162518400612,-0.5308045284927934
+2163313580,Design of portable biometric authenticators - energy performance and security tradeoffs,2004,8,31,2,0.0,2974594743,D.D. Hwang,0,-0.395500919477919,0.4382092298101461
+2157454914,A secure fingerprint matching technique,2003,15,42,1,1.0,2044881251,Ingrid Verbauwhede,0,-0.032842995134296005,1.140666060485271
+2169807258,Domain-specific codesign for embedded security,2003,6,51,2,0.857143,2102130231,Patrick Schaumont,0,0.03544641471777058,-0.2255201359005553
+2155301500,Perfect Matching Disclosure Attacks,2008,20,46,4,0.261905,2124936434,Carmela Troncoso,0,-0.12101623578201222,0.3928621751004999
+2170346894,The communication and computation cost of wireless security extended abstract,2011,11,16,4,0.0,2123648069,Dave SingelÃ©e,0,-0.15864374652083932,-0.1879861517290886
+2146348539,Low-cost untraceable authentication protocols for RFID,2010,29,78,4,1.0,2106716874,Yong Ki Lee,0,-0.9445604743182768,-1.1715973432132885
+2188484915,Secure Lightweight Entity Authentication with Strong PUFs Mission Impossible ,2014,26,7,1,1.0,2044881251,Ingrid Verbauwhede,0,-0.49364628606134736,0.012859826628276205
+2325537724,On the Feasibility of Cryptography for a Wireless Insulin Pump System,2016,10,19,4,0.0,2342484563,Eduard Marin,0,0.27150427490266454,0.07186114404999362
+2276799569,Protected Software Module Architectures,2013,10,14,3,0.0,2087126534,Raoul Strackx,0,-0.6701990811083275,1.4518397026810836
+2290803433,Soteria Offline Software Protection within Low-cost Embedded Devices,2015,32,8,6,0.24,1447320070,Johannes GÃ¶tzfried,0,-0.13366624779070269,0.11107242378566293
+2345657725,Software security Vulnerabilities and countermeasures for two attacker models,2016,36,4,2,0.0,233250515,Frank Piessens,0,0.3542701860501153,2.1607306123977352
+2401040455,Power analysis of atmel cryptomemory --- recovering keys from secure EEPROMs,2012,19,44,5,0.545455,2113151182,Josep Balasch,0,-0.2003274801402396,-0.13171649495572774
+2398803596,The Energy Budget for Wireless Security Extended Version,2015,32,1,4,0.0,2123648069,Dave SingelÃ©e,0,-0.5631085691583445,-0.7317070818286444
+2401686580,Single-Cycle Implementations of Block Ciphers,2015,33,7,2,1.0,2292012254,Pieter Maene,0,1.3725305265240935,-1.7161832119018863
+2394648910,PUFs Myth Fact or Busted A Security Evaluation of Physically Unclonable Functions (PUFs) Cast in Silicon (Extended Version),2012,0,3,4,0.0,744403649,Stefan Katzenbeisser,0,0.0040557659796233,0.2757546058061082
+2497712353,Smart Grid Security and EDA,2010,2,2,1,1.0,2044881251,Ingrid Verbauwhede,0,0.0040557659796233,0.2757546058061082
+2492337228,IoT Source of test challenges,2016,25,10,11,0.0,2229496639,Erik Jan Marinissen,0,0.1822731046919942,0.706777145399998
+2479702946,Radio Frequency Identification Security and Privacy Issues,2013,0,0,2,0.0,2034730381,Jaap Henk Hoepman,0,0.32515835481662403,1.0798353460918753
+2524002942,Providing security on demand using invasive computing,2016,0,3,8,0.0,2103637579,Gabor Drescher,0,0.0040557659796233,0.2757546058061082
+2525204045,Security and Reliability Properties of Syndrome Coding Techniques Used in PUF Key Generation,2013,16,12,2,0.0,855547412,Srinivas Devadas,0,-0.8459446517760844,-1.0849794515569215
+2504293345,Side channel attacks and fault attacks on cryptographic algorithms,2004,0,5,3,0.0,590882515,Guy A. E. Vandenbosch,0,0.8427944396870521,-1.2224424286953022
+2525969469,Challenge-response based secure test wrapper for testing cryptographic circuits,2010,29,9,2,0.743496,2018948162,Stefaan Seys,0,0.3171484069971384,-0.13992525839030945
+2526048143,Unlocking the design secrets of a 229 Gb/s Rijndael encryption processor,2002,0,0,1,1.0,2044881251,Ingrid Verbauwhede,0,0.45670112688228626,-0.7539435640597986
+2526182106,Reverse Fuzzy Extractors Enabling Lightweight Mutual Authentication for PUF-enabled RFIDs,2012,0,16,6,1.0,22011657,Anthony Van Herrewege,0,-1.1479372177912124,-0.0781126381193695
+2526554120,Short Paper Privacy-preserving ECC-based grouping proofs for RFID,2010,5,7,2,0.743496,2018948162,Stefaan Seys,0,0.1697677780820366,-0.6799385220177672
+2521991313,Public Key Cryptography for RFID-Tags,2012,0,10,3,0.666667,1386430577,Nele Mentens,0,-0.38907346302086776,-2.871733045165294
+2527117306,Generic DPA attacks curse or blessing ,2014,0,2,2,1.0,1889903544,Oscar Reparaz,0,0.0040557659796233,0.2757546058061082
+2532743791,Efficient implementation of anonymous credentials on Java Card smart cards,2009,7,43,4,0.0,2225022536,Michael Sterckx,0,-0.2905760700282629,-0.23665431598681025
+2522659117,A New Scan Attack on RSA in Presence of Industrial Countermeasures,2012,0,2,6,0.0,2171269599,Jean Da Rolt,0,0.0040557659796233,0.2757546058061082
+2570150511,Hardware-Based Trusted Computing Architectures for Isolation and Attestation,2018,29,46,6,1.0,2292012254,Pieter Maene,0,-1.5592156021251373,-0.14182637051940442
+2601739888,SCM Secure Code Memory Architecture,2017,18,1,6,1.0,2132061588,Ruan de Clercq,0,0.0040557659796233,0.2757546058061082
+2714546933,A survey of Hardware-based Control Flow Integrity (CFI),2017,46,15,2,1.0,2132061588,Ruan de Clercq,0,-0.3383784544281044,0.15268826611744696
+2605329792,SOFIA Software and control flow integrity architecture,2017,48,8,5,1.0,2132061588,Ruan de Clercq,0,0.0040557659796233,0.2757546058061082
+2750970729,Private Mobile Pay-TV From Priced Oblivious Transfer,2018,38,5,5,0.0,2231259155,Wouter Biesmans,0,0.7933607433353754,-0.24328206862441878
+2739746516,Sancus 20 A Low-Cost Security Architecture for IoT Devices,2017,67,15,7,0.5,1807812793,Job Noorman,0,-1.3721930698182816,1.7734739921660752
+2770486545,Security Adds an Extra Dimension to IC Design Future IC Design Must Focus on Security in Addition to Low Power and Energy,2017,9,3,1,1.0,2044881251,Ingrid Verbauwhede,0,-0.15864374652083932,-0.1879861517290886
+2785519497,Secure Lightweight Entity Authentication with Strong PUFs Mission Impossible ,2014,0,25,1,1.0,2044881251,Ingrid Verbauwhede,0,-0.5530861437885858,-0.004176666300269333
+2787231538,PUFs Myth Fact or Busted A Security Evaluation of Physically Unclonable Functions (PUFs) Cast in Silicon,2012,0,14,4,0.0,744403649,Stefan Katzenbeisser,0,0.0040557659796233,0.2757546058061082
+2951808299,Secure Lightweight Entity Authentication with Strong PUFs Mission Impossible II,2014,0,1,4,0.818182,2133363934,Jeroen Delvaux,0,-0.5530861437885858,-0.004176666300269333
+2945639287,Tiny Public-Key Security Processor,2009,0,0,2,0.0,974346993,Vladimir RoÅ¾iÄ‡,0,0.03910652856792115,-0.9542749174440527
+3003287778,The Need for Hardware Roots of Trust,2019,0,0,1,1.0,2044881251,Ingrid Verbauwhede,0,0.0040557659796233,0.2757546058061082
+3006645127,Security and reliability â€“ friend or foe,2019,0,0,1,1.0,2044881251,Ingrid Verbauwhede,0,0.0040557659796233,0.2757546058061082
+1547844457,Privacy Challenges in RFID Systems,2010,21,10,1,1.0,2044881251,Ingrid Verbauwhede,0,-0.6633287329303307,-0.2521830022058202

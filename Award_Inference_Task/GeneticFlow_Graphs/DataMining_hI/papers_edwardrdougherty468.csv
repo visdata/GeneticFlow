@@ -1,0 +1,83 @@
+1538045477,Probabilistic Boolean Networks as Models for Gene Regulation,2008,0,0,1,1.0,1982848548,Edward R. Dougherty,0,0.003708468606338,0.082832279151172
+1590399505,New challenges in non-linear signal and image processing,2004,12,0,2,0.0,2126076311,Stephen Marshall,0,0.003708468606338,0.082832279151172
+1975557788,Normalization benefits microarray-based classification,2006,22,21,8,0.875,1985089984,Jianping Hua,0,0.003708468606338,0.082832279151172
+1972507480,Designing enhanced classifiers using prior process knowledge Regularized maximum-likelihood,2011,11,0,4,0.0,2590186934,Mohammad Shahrokh Esfahani,0,0.24762227040550144,0.2333317182546537
+1983035640,Spectral preprocessing for clustering time-series gene expressions,2009,31,8,3,1.0,2113898059,Wentao Zhao,0,-0.540696347924014,1.7440043620728876
+1984832953,Recovering Genetic Regulatory Networks from Chromatin Immunoprecipitation and Steady-State Microarray Data,2008,36,9,3,1.0,2113898059,Wentao Zhao,0,0.21438872843298346,-0.1353423822296997
+1985434154,Validation of gene regulatory network inference based on controllability,2013,42,10,1,1.0,1982848548,Edward R. Dougherty,0,-0.3541870000285079,0.21014078170827516
+1995064550,Reconstruction of Genetic Regulatory Networks Based on the Posterior Probabilities of Gene Regulations,2007,12,2,4,0.8,2113898059,Wentao Zhao,0,0.003708468606338,0.082832279151172
+1996883082,Clustering granulometric features,2002,0,0,4,0.642857,2100595462,Marcel Brun,0,-0.020831518305051658,0.4275942873894186
+2009638457,Quality-based distance measures and applications to clustering,2006,4,0,1,1.0,1982848548,Edward R. Dougherty,0,-0.9419061956417125,3.116328327118718
+2019521455,On the Comparison of Classifiers for Microarray Data,2010,23,16,2,0.545455,508826120,Blaise Hanczar,0,0.003708468606338,0.082832279151172
+2021783296,Estimating Conditional Probabilities for the Detection of Unfavorable Copy Number Alterations in a Targeted Therapy,2013,34,1,2,0.0,2567470180,Fang Han Hsu,0,-0.2277948537307607,0.3384711537449258
+2011286385,Multiscale Denoising of Biological Data A Comparative Analysis,2012,46,20,5,0.0,1819397389,Mohamed Nounou,0,-0.012048545863286861,0.1882569107004256
+2051031825,Granulometric classifiers from small samples,2002,0,0,5,1.0,2465433453,Yoganand Balagurunathan,0,0.8698899295743049,0.6178282979362727
+2040575507,Inferring gene regulatory networks from time series data using the minimum description length principle,2006,21,133,3,0.789474,2113898059,Wentao Zhao,0,-0.946449591760713,-0.3051740117142014
+2046143776,Impact of missing value imputation on classification for DNA microarray gene expression data a model-based study,2009,36,15,2,0.642857,736826888,Ulisses Braga Neto,0,0.0452120503772119,-0.16794088772930754
+2049855932,Computationally efficient experimental design strategy for reducing gene network uncertainty,2014,5,0,3,1.0,151126987,Roozbeh Dehghannasiri,0,0.003708468606338,0.082832279151172
+2037935179,Evolving feature selection,2005,29,173,2,0.0,2122391114,Huan Liu,0,-0.41848321784031295,0.17717186823060765
+2058183309,Fuzzification of Set Inclusion,1992,14,22,1,1.0,1982848548,Edward R. Dougherty,0,0.003708468606338,0.082832279151172
+2057126589,Finding robust linear expression-based classifiers,2001,9,0,1,1.0,1982848548,Edward R. Dougherty,0,1.0874577207811398,0.4757186101835101
+2062420272,A random signal model for cDNA microarrays,2001,0,1,2,0.0,1955771990,Jeffrey M. Trent,0,0.003708468606338,0.082832279151172
+2104092906,Reporting bias when using real data sets to analyze classification performance,2010,20,31,4,0.923077,2132811426,Mohammadmahdi R. Yousefi,0,0.004441626188459491,0.02226830490624543
+2081535641,Inference from clustering with application to gene-expression microarrays,2002,16,144,1,1.0,1982848548,Edward R. Dougherty,0,-0.8852911295131879,3.28664844679094
+2104575089,How many samples are needed to build a classifier a general sequential approach,2005,14,26,2,0.0,2675274717,Wenjiang J. Fu,0,0.1494398411980747,0.09616467656108706
+2085538190,Performance reproducibility index for classification,2012,36,8,2,0.923077,2132811426,Mohammadmahdi R. Yousefi,0,0.1196886985743213,0.1939449373646738
+2109205571,Missing-value estimation using linear and non-linear regression with Bayesian gene selection,2003,11,62,3,1.0,2110129558,Xiaobo Zhou,0,0.07327491195560089,0.5515164076091094
+2142222456,Time series inference from clustering,2001,5,2,1,1.0,1982848548,Edward R. Dougherty,0,-0.8652579136213635,3.1410950738830334
+2112534534,Characterization of the effectiveness of reporting lists of small feature sets relative to the accuracy of the prior biological knowledge,2010,26,6,2,1.0,268512107,Robert S. Chapkin,0,0.003708468606338,0.082832279151172
+2118467699,Intervention in context-sensitive probabilistic Boolean networks,2005,16,161,4,0.9,2287863194,Ranadip Pal,0,0.003708468606338,0.082832279151172
+2142320625,Superior feature-set ranking for small samples using bolstered error estimation,2005,15,47,3,1.0,2171103829,Chao Sima,0,0.003708468606338,0.082832279151172
+2106872958,Effects of partial reporting of classification results,2010,6,0,4,0.923077,2132811426,Mohammadmahdi R. Yousefi,0,0.15539219112830704,-0.010507679255542107
+2116012423,Classification with reject option in gene expression data,2008,13,41,2,0.545455,508826120,Blaise Hanczar,0,1.7009550735280083,0.4880970512307393
+2107040525,A CoD-based reduction algorithm for designing stationary control policies on Boolean networks,2010,50,26,4,0.0,1996740783,Noushin Ghaffari,0,-0.2831500635257147,0.27385395559924963
+2110266641,Optimal experimental design for gene regulatory networks in the presence of uncertainty,2015,39,37,3,1.0,151126987,Roozbeh Dehghannasiri,0,-0.3541870000285079,0.21014078170827516
+2110298216,Is cross-validation valid for small-sample microarray classification ,2004,12,469,2,1.0,736826888,Ulisses Braga Neto,0,0.40630500141929454,0.39067789378481704
+2133984660,Validation of inference procedures for gene regulatory networks,2007,20,42,1,1.0,1982848548,Edward R. Dougherty,0,-0.0674366587454784,0.14596407133924827
+2137324353,Generating Boolean networks with a prescribed attractor structure,2005,14,139,5,0.9,2287863194,Ranadip Pal,0,-0.3541870000285079,0.21014078170827516
+2113802086,Quantification of data extraction noise in probabilistic Boolean Network modeling,2009,11,0,3,0.9,2287863194,Ranadip Pal,0,0.003708468606338,0.082832279151172
+2116882627,Is cross-validation better than resubstitution for ranking genes ,2004,6,63,2,1.0,736826888,Ulisses Braga Neto,0,0.367315256421725,0.06891220492841571
+2117135012,Gene selection a Bayesian variable selection approach,2003,23,316,3,0.0,2106178016,Kyeong Eun Lee,0,-0.25023896793326905,0.13037718530513653
+2120072408,Intervention in a family of Boolean networks,2006,16,25,4,1.0,2120034525,Ashish Choudhary,0,0.003708468606338,0.082832279151172
+2131754626,External control in Markovian genetic regulatory networks the imperfect information case,2004,10,138,4,1.0,2139797693,Aniruddha Datta,0,0.003708468606338,0.082832279151172
+2153282226,Information theoretic inference of direct gene regulation from time series data,2006,5,0,2,1.0,323870348,Erchin Serpedin,0,0.003708468606338,0.082832279151172
+2147298104,SNiPer-HD improved genotype calling accuracy by an expectation-maximization algorithm for high-density SNP arrays,2007,13,50,9,0.875,1985089984,Jianping Hua,0,0.003708468606338,0.082832279151172
+2153513366,Feature selection algorithms to find strong genes,2005,22,24,7,0.0,3020139376,Paulo J. S. Silva,0,-0.25023896793326905,0.13037718530513653
+2162698597,Performance of feature selection methods,2009,28,20,1,1.0,1982848548,Edward R. Dougherty,0,0.1196886985743213,0.1939449373646738
+2165875224,Multiple-rule bias in the comparison of classification rules,2011,27,12,3,0.923077,2132811426,Mohammadmahdi R. Yousefi,0,-0.08726155559906772,0.021192754920199952
+2145236186,Performance of Error Estimators for Classification,2010,34,39,3,0.545455,508826120,Blaise Hanczar,0,1.563549629451166,0.5797635107497056
+2154454113,Inferring Connectivity of Genetic Regulatory Networks Using Information-Theoretic Criteria,2008,44,76,3,1.0,2113898059,Wentao Zhao,0,0.21438872843298346,-0.1353423822296997
+2160533336,Probabilistic Boolean networks a rule-based uncertainty model for gene regulatory networks,2002,38,1204,2,0.0,2982769061,Ilya Shmulevich,0,-0.21671009488638734,0.41385778629053466
+2166688730,Feature selection in the classification of high-dimension data,2008,5,17,2,0.0,206500451,Waibhav Tembe,0,0.20277498511327963,0.04262460534281517
+2163883927,What should be expected from feature selection in small-sample settings,2006,15,68,2,1.0,2171103829,Chao Sima,0,-0.25023896793326905,0.13037718530513653
+2163915562,Genetic test bed for feature selection,2006,27,19,5,1.0,2120034525,Ashish Choudhary,0,-0.08726155559906772,0.021192754920199952
+2158111773,Application of the Bayesian MMSE estimator for classification error to gene expression microarray data,2011,24,30,2,0.0,2107976642,Lori A. Dalton,0,0.003708468606338,0.082832279151172
+2167239434,Evaluating gene set enrichment analysis via a hybrid data model,2014,32,8,1,1.0,1982848548,Edward R. Dougherty,0,-0.10642553598526128,0.027410245491538365
+2146310109,High-dimensional bolstered error estimation,2011,31,3,3,0.0,2998369343,Chao Sima,0,-0.08726155559906772,0.021192754920199952
+2189537327,Robust Intervention in Probabilistic,2008,23,0,1,1.0,1982848548,Edward R. Dougherty,0,0.003708468606338,0.082832279151172
+2262948589,Simulating microarrays using a parameterized model,2003,15,2,1,1.0,1982848548,Edward R. Dougherty,0,0.003708468606338,0.082832279151172
+2289417031,Small data is the problem,2015,22,2,1,1.0,1982848548,Edward R. Dougherty,0,-0.10688017130837235,0.2517773578190978
+2287242746,Error Estimation for Pattern Recognition,2015,0,16,1,1.0,1982848548,Edward R. Dougherty,0,0.003708468606338,0.082832279151172
+2483325529,Inference of gene regulatory networks validation and uncertainty,2016,0,0,3,0.0,2120003736,Xiaoning Qian,0,0.003708468606338,0.082832279151172
+2436940381,Detecting Multivariate Gene Interactions in RNA-Seq Data Using Optimal Bayesian Classification,2018,28,2,5,1.0,2096752612,Jason Knight,0,0.2908575072107241,0.3234328159442016
+2557519703,Model-based study of the Effectiveness of Reporting Lists of Small Feature Sets using RNA-Seq Data,2016,4,0,5,0.0,2600298015,Eunji Kim,0,0.003708468606338,0.082832279151172
+2527889223,Big data need big theory too,2016,47,65,1,1.0,1982848548,Edward R. Dougherty,0,-0.10735257715986128,0.34811189279891624
+2507800839,Feature selection Weve barely scratched the surface,2005,3,15,3,0.0,90354697,Kari Torkkola,0,-0.25023896793326905,0.13037718530513653
+2604715900,Detecting Multivariate Gene Interactions in RNA-Seq Data Using Optimal Bayesian Classification,2015,0,2,4,1.0,2096752612,Jason Knight,0,0.2908575072107241,0.3234328159442016
+2626441715,The Model-Based Study of the Effectiveness of Reporting Lists of Small Feature Sets Using RNA-Seq Data ,2017,34,1,2,1.0,268512107,Robert S. Chapkin,0,-0.25023896793326905,0.13037718530513653
+2801005454,Phenotype Classification Using Moment Features of Single-Cell Data,2018,22,1,1,1.0,1982848548,Edward R. Dougherty,0,-0.25023896793326905,0.13037718530513653
+2794234023,Guest Editorial-Special Collection Topic Statistical Systems Theory in Cancer Modeling Diagnosis and Therapy,2018,0,0,1,1.0,1982848548,Edward R. Dougherty,0,0.21438872843298346,-0.1353423822296997
+2883173750,Quantifying the notions of canalizing and master genes in a gene regulatory network-a Boolean network modeling perspective,2019,18,1,1,1.0,1982848548,Edward R. Dougherty,0,0.003708468606338,0.082832279151172
+2888540180,Scalable Optimal Bayesian Classification of Single-Cell Trajectories under Regulatory Model Uncertainty,2018,9,1,5,1.0,2574467524,Ehsan Hajiramezanali,0,0.2908575072107241,0.3234328159442016
+2949661718,Scalable optimal Bayesian classification of single-cell trajectories under regulatory model uncertainty,2019,27,5,5,1.0,2574467524,Ehsan Hajiramezanali,0,0.2908575072107241,0.3234328159442016
+2949991725,Additional file 1 of Optimal clustering with missing values,2019,0,0,1,1.0,1982848548,Edward R. Dougherty,0,0.07327491195560089,0.5515164076091094
+2950069687,Optimal clustering with missing values,2019,39,1,4,0.0,2775309510,Shahin Boluki,0,-0.14938001976523085,-0.011281432787897283
+2952658475,Optimal Clustering with Missing Values,2019,38,0,4,0.0,2775309510,Shahin Boluki,0,-0.14938001976523085,-0.011281432787897283
+2951030872,Scalable optimal Bayesian classification of single-cell trajectories under regulatory model uncertainty,2019,19,0,5,1.0,2574467524,Ehsan Hajiramezanali,0,0.2908575072107241,0.3234328159442016
+2963722917,Sequential Experimental Design for Optimal Structural Intervention in Gene Regulatory Networks Based on the Mean Objective Cost of Uncertainty,2018,28,4,4,0.833333,2290611871,Mahdi Imani,0,0.3800127224570261,0.21004767587848977
+2098202930,THE EFFECT OF POPULATION CONTEXTS ON CLASSIFIER PERFORMANCE,2008,25,1,1,1.0,1982848548,Edward R. Dougherty,0,1.0114864910505939,0.42417255395025616
+2087126293,Gene clustering based on clusterwide mutual information,2004,38,67,3,1.0,2110129558,Xiaobo Zhou,0,-0.8149043747579452,2.827045215493523
+2137980695,PATHWAY REGULATORY ANALYSIS IN THE CONTEXT OF BAYESIAN NETWORKS USING THE COEFFICIENT OF DETERMINATION,2011,28,4,1,1.0,1982848548,Edward R. Dougherty,0,0.08669358929585286,0.7452808943800847
+2115041568,Scientific knowledge is possible with small-sample classification,2013,36,10,1,1.0,1982848548,Edward R. Dougherty,0,0.367315256421725,0.06891220492841571
+2158644557,Effect of normalization on microarray-based classification,2006,6,0,1,1.0,1982848548,Edward R. Dougherty,0,0.003708468606338,0.082832279151172
+2192916710,Erratum to Efficient experimental design for uncertainty reduction in gene regulatory networks,2015,1,2,4,1.0,151126987,Roozbeh Dehghannasiri,0,0.3800127224570261,0.21004767587848977

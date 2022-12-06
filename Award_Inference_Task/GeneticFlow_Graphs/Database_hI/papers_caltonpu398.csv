@@ -1,0 +1,66 @@
+102861029,Distributed Data Integration Infrastructure,2003,0,0,4,0.666667,22582878,Terence Critchlow,0,0.6763204478271271,1.2832414118751936
+3830736,Using Domain Ontologies to Help Track Data Provenance,2003,18,9,4,0.555556,344405325,Renato Fileto,0,-0.0041099411153885,0.0447066884760059
+191755750,Panel on &quot;Issues on Concurrent Transaction and Query Processing&quot;,1992,0,0,3,0.0,434753560,Erich J. Neuhold,0,1.3408439640851515,1.352818716789221
+22429435,Design and Implementation of Nested Transactions in Eden,1987,0,10,1,1.0,2117427889,Calton Pu,0,1.8902141904527119,1.8736285709436427
+194665592,ACID Properties Need Fast Relief Relaxing Consistency Using Epsilon Serializability,1993,0,5,1,1.0,2117427889,Calton Pu,0,1.848620476145237,1.920417192917315
+195419082,Letter Calling for TCDE Chair Nominations,2010,0,0,2,0.0,434753560,Erich J. Neuhold,0,-0.0041099411153885,0.0447066884760059
+44373791,The Reflective Transaction Framework,1997,0,3,2,0.8,2798271053,Roger S. Barga,0,0.38009049917121435,0.45246057348231067
+146917638,Letter from the Incoming ICDE Steering Committee Chair,2007,0,1,1,1.0,2117427889,Calton Pu,0,-0.0041099411153885,0.0447066884760059
+62183796,Connecting Programs and Data Using Object Databases,1993,0,2,4,0.0,2125262956,Judith Bayard Cushing,0,2.2806221828628863,0.27721272530779273
+182030926,Work in Progress Automating Proportion/Period Scheduling,1999,5,0,2,0.0,2062312280,Jonathan Walpole,0,-0.4571133499288504,-0.5019283722027162
+46556314,Accessing Imprecise Data An Approach Based on Intervals,1993,5,19,2,0.8,2798271053,Roger S. Barga,0,-0.0041099411153885,0.0447066884760059
+168472008,Reflection on a legacy transaction processing monitor,1996,0,21,1,1.0,2117427889,Calton Pu,0,2.411513802249899,2.2780866814479004
+66944296,Superdatabases Transactions Across Database Boundaries,1987,0,25,1,1.0,2117427889,Calton Pu,0,-0.0041099411153885,0.0447066884760059
+1549747403,DSL weaving for distributed information flow systems,2005,18,3,1,1.0,2117427889,Calton Pu,0,1.1247216019075097,-0.41527580313622164
+1559982824,ActivityFlow Towards Incremental Specification and Flexible Coordination of Workflow Activities,1997,10,10,2,0.6,2125988131,Ling Liu,0,1.2269493304548167,1.1510686447766632
+1525098045,A Practical and Modular Implementation of Extended Transaction Models,1995,15,19,2,0.0,1271007067,Roger Barga,0,1.806711478514251,1.9629003782007861
+1543673780,Split-Transactions for Open-Ended Activities,1988,14,188,1,1.0,2117427889,Calton Pu,0,0.4989903646623751,0.7731072883526996
+1517985378,Dynamic Query Processing in DIOM,1997,6,16,2,0.6,2125988131,Ling Liu,0,0.0908845357243609,0.31128747720343375
+1501794452,Whats in a WWW Link - Panel,1996,0,0,4,0.0,2295682018,Amit P. Sheth,0,-0.0041099411153885,0.0447066884760059
+1556970308,Message from the ICWS 2011 general chairs,2011,0,0,3,0.0,227748416,Andrzej Goscinski,0,-0.4952370533090319,-0.40710710999814825
+1503962796,Nimbus Tuning Filters Service on Tweet Streams,2015,17,5,4,0.0,2158392532,Chien An Lai,0,-0.0041099411153885,0.0447066884760059
+1927338256,XWRAP an XML-enabled wrapper construction system for Web information sources,2000,12,445,2,0.405405,2125988131,Ling Liu,0,-0.10275540001559541,-0.4602439004610557
+1978513951,Towards interoperable heterogeneous information systems an experiment using the DIOM approach,1997,4,4,3,0.0,2973633698,Yooshin Lee,0,0.9177703794335521,0.5731105454251623
+1964818736,Landslide Detection Service Based on Composition of Physical and Social Information Services,2014,24,11,4,0.0,2025853817,Aibek Musaev,0,-0.4952370533090319,-0.40710710999814825
+1984302374,SmartSLA Cost-Sensitive Management of Virtualized Resources for CPU-Bound Database Services,2015,34,22,5,0.328671,1990998134,Pengcheng Xiong,0,-0.0041099411153885,0.0447066884760059
+1968936237,RoadAlarm A spatial alarm system on road networks,2013,2,1,6,0.0,2128745891,Kisung Lee,0,-0.0041099411153885,0.0447066884760059
+1967557374,TOCTTOU vulnerabilities in UNIX-style file systems an anatomical study,2005,13,36,2,0.8,2146727454,Jinpeng Wei,0,-0.752275938137369,1.9825732236892513
+1979863998,Towards Flexible Event-Handling in Workflows through Data States,2010,18,9,4,0.705882,2163181840,JoÃ£o Eduardo Ferreira,0,0.6434659676769524,1.121285813500003
+1991470108,Code generation for WSLAs using AXpect,2004,13,6,2,0.0,2079667395,Galen Swint,0,-0.4952370533090319,-0.40710710999814825
+2004204190,Categorization and Optimization of Synchronization Dependencies in Business Processes,2007,22,32,2,1.0,2132972510,Qinyi Wu,0,1.9008074754880728,-0.3143262759756848
+2002452726,Database research at the Data-Intensive Systems Center,1993,2,1,3,0.0,2064546257,David Maier,0,1.0474255586496655,-0.2410912650305209
+2023306830,A partial persistent data structure to support consistency in real-time collaborative editing,2010,11,18,2,1.0,2132972510,Qinyi Wu,0,-0.03323409914428581,0.04969692097415447
+2020059659,The distributed interoperable object model and its application to large-scale interoperable database systems,1995,13,29,2,0.6,2125988131,Ling Liu,0,-0.027516874642138985,0.37865139804474734
+2023673418,Wrapping web data into XML,2001,7,48,3,0.63916,2617182372,Wei Han,0,0.13140405286570866,-0.10537468825684002
+2025556179,DSCWeaver Synchronization-Constraint Aspect Extension to Procedural Process Specification Languages,2006,20,7,2,1.0,2132972510,Qinyi Wu,0,-1.4509743345774224,-0.824346769964722
+2034860480,A Systematic Approach to Flexible Specifications Composition and Restructuring of Workflow Activities,2004,16,17,1,1.0,2117427889,Calton Pu,0,1.2269493304548167,1.1510686447766632
+2049279872,A Dynamic Two-Phase Commit Protocol for Adaptive Composite Services,2007,0,9,2,0.0,2665623475,Weihai Yu,0,1.8466978878114382,1.89597605404079
+2037314246,Profit-Based Experimental Analysis of IaaS Cloud Performance Impact of Software Resource Allocation,2012,9,21,6,1.0,2597456057,Jack Li,0,-0.0041099411153885,0.0447066884760059
+2050490959,Querying multiple bioinformatics information sources can semantic web research help ,2002,13,53,5,0.666667,22582878,Terence Critchlow,0,-2.036178008117564,-2.0269618291605407
+2075119184,QueST querying music databases by acoustic and textual features,2007,27,11,3,0.0,2070862325,Bin Cui,0,0.10227752190890474,-0.3031280645150968
+2058342152,Performance Overhead among Three Hypervisors An Experimental Study Using Hadoop Benchmarks,2013,11,42,6,1.0,2597456057,Jack Li,0,-0.0041099411153885,0.0447066884760059
+2056716940,Transactional Recovery Support for Robust Exception Handling in Business Process Services,2012,17,11,4,0.705882,2163181840,JoÃ£o Eduardo Ferreira,0,-1.0123986956863986,-0.72565164386261
+2079314082,Modeling and implementing collaborative editing systems with transactional techniques,2010,25,4,2,1.0,2132972510,Qinyi Wu,0,0.532366430020427,0.3343198578230151
+2103793665,An XJML-based wrapper generator for Web information extraction,1999,6,31,2,1.0,2057999953,David Buttler,0,-0.6667520637685487,-0.9649568823905472
+2090089304,Infosphere project system support for information flow applications,2001,11,33,1,1.0,2117427889,Calton Pu,0,0.6584204909723896,-0.4809546612582002
+2101629001,Intelligent management of virtualized resources for database systems in cloud environment,2011,25,129,5,0.8,1990998134,Pengcheng Xiong,0,-0.0041099411153885,0.0447066884760059
+2090446134,Health-connect An ontology-based model-driven information integration framework and its application to integrating clinical databases,2012,8,0,6,0.0,2293247044,Junhee Park,0,0.6893242764676438,0.036995877207046134
+2129066902,POESIA An ontological workflow approach for composing Web services in agriculture,2003,20,50,3,0.555556,344405325,Renato Fileto,0,-1.582733728243517,-1.9160243455977801
+2126269809,A General Proximity Privacy Principle,2009,23,9,5,0.0,2568094062,Ting Wang,0,0.03565810966282755,0.09825506972366725
+2123483233,A Petri Net Siphon Based Solution to Protocol-Level Service Composition Mismatches,2009,17,15,3,0.8,1990998134,Pengcheng Xiong,0,-1.0092386572456133,-0.7319522234163621
+2123547679,Message from the SERVICES 2011 general chairs,2011,0,0,2,0.0,1964376641,Ephraim Feig,0,-0.0041099411153885,0.0447066884760059
+2123576887,A modeling and execution environment for distributed scientific workflows,2003,3,24,12,0.0,1988531382,Ilkay Altintas,0,0.09245345964671092,0.007491185684228065
+2120918984,Guarding Sensitive Information Streams through the Jungle of Composite Web Services,2007,14,8,3,0.8,2146727454,Jinpeng Wei,0,-1.7932933459097424,-2.298238791056038
+2138980747,XWRAPComposer A multi-page data extraction service,2006,25,0,4,0.247524,2125988131,Ling Liu,0,-0.6960404060718468,-0.6929069583193403
+2127686907,Fine-Grain End-to-End Security for Web Service Compositions,2007,12,12,2,0.0,2973494425,Lenin Singaravelu,0,-1.0119602137591521,-1.3303729051006152
+2130798709,A new perspective on experimental analysis of N-tier systems Evaluating database scalability multi-bottlenecks and economical operation,2009,17,6,6,0.0,1758392388,Simon Malkowski,0,1.0503685388312727,0.08835160802712294
+2168573064,An XML-enabled data extraction toolkit for web sources,2001,28,14,2,0.402534,2125988131,Ling Liu,0,-0.6896443784848918,-0.9150986353037038
+2148230860,Superdatabases for composition of heterogeneous databases,1988,19,109,1,1.0,2117427889,Calton Pu,0,2.256702373415669,1.9288636132222718
+2157489352,XWRAPComposer a multi-page data extraction service for bio-computing applications,2005,15,1,4,0.285179,2125988131,Ling Liu,0,-0.3050159820590067,-0.22080358967498928
+2160606042,OminiSearch a method for searching dynamic content on the Web,2001,0,7,3,1.0,2057999953,David Buttler,0,-0.8891065030052469,-0.8040926051980031
+2160866269,DsCWeaver Synchronization-Constraint Aspect Extension to Procedural Process Specification Languages,2008,0,0,2,1.0,2132972510,Qinyi Wu,0,-1.683279419114796,-0.8070597007109318
+2158015048,Optimization of adaptive data-flows for competing multimedia presentational database sessions,1997,20,9,5,0.0,2016675516,Heiko Thimm,0,0.0965361027607169,0.1282672532332175
+2198176844,CQ a personalized update monitoring toolkit,1998,3,38,2,0.6,2125988131,Ling Liu,0,-0.0041099411153885,0.0447066884760059
+2488677189,A Secure Middleware Architecture for Web Services,2007,21,2,1,1.0,2117427889,Calton Pu,0,-0.8688466109438109,-1.0468130055670164
+2585010783,ActivityFlow Towards incremental specification and flexible coordination of workflow activities,1997,0,2,2,0.6,2125988131,Ling Liu,0,1.2269493304548167,1.1510686447766632
+2809592759,WED-SQL An Intermediate Declarative Language for PAIS Execution,2018,29,1,4,0.0,2666545340,Bruno Padilha,0,0.42907305159092707,0.7087257474028058

@@ -1,0 +1,48 @@
+201367383,Proceedings of the 2nd SIGMOD PhD workshop on Innovative database research,2008,0,1,1,1.0,2133793219,Chee Yong Chan,0,-0.0041099411153885,0.0447066884760059
+1505224032,Efficient skyline maintenance for streaming data with partially-ordered domains,2010,12,5,2,0.0,2323377214,Yuan Fang,0,0.11251660354897924,0.07086227565172379
+1498071178,PathStack Â¬ a holistic path join algorithm for path query with not-predicates on XML data,2005,11,23,2,0.0,2101052892,Tok Wang Ling,0,2.355220602627527,-0.882059048603272
+1963445704,Multi-query optimization in MapReduce framework,2013,19,44,2,1.0,2892638964,Guoping Wang,0,0.014532710543751099,0.030944858938630852
+1777218188,Efficient processing of enumerative set-based queries,2016,30,0,2,1.0,2892638964,Guoping Wang,0,0.8930192916358598,0.18176930866052593
+1788319165,Prefix Path Streaming A New Clustering Method for Optimal Holistic XML Twig Pattern Matching,2004,5,16,3,0.0,2440496856,Ting Chen,0,0.20355238541310164,-0.14376858465117287
+1927508818,Indexing OODB instances based on access proximity,1997,9,11,1,1.0,2133793219,Chee Yong Chan,0,1.2093417881871118,0.26507297651154665
+1982945449,Bitmap index design and evaluation,1998,9,324,1,1.0,2133793219,Chee Yong Chan,0,0.9099792297091915,0.6864522498221068
+1999894297,Database research at the National University of Singapore,2013,39,0,2,0.0,2159446685,StÃ©phane Bressan,0,0.2085742836384018,0.8428512062893235
+2005376369,Nearest group queries,2013,43,18,2,0.571429,2145928807,Dongxiang Zhang,0,0.014532710543751099,0.030944858938630852
+2014167660,Optimized query evaluation using cooperative sorts,2010,22,10,3,1.0,2706142007,Yu Cao,0,-0.0041099411153885,0.0447066884760059
+2024958874,Query reverse engineering,2014,33,26,2,0.62069,2145857504,Quoc Trung Tran,0,-0.11014009652905866,-0.03967435742215757
+2030433563,On optimizing relational self-joins,2012,14,0,3,1.0,2706142007,Yu Cao,0,0.9480864776497668,0.09277815406996216
+2013167115,Query by output,2009,24,97,2,1.0,2145857504,Quoc Trung Tran,0,0.7880798417791492,0.2924530911033048
+2022171653,How to ConQueR why-not questions,2010,13,117,2,1.0,2145857504,Quoc Trung Tran,0,0.7530594365110531,0.23923089096886652
+2043656053,Efficient indexing for diverse query results,2013,10,5,2,0.0,2663386595,Lu Li,0,-0.0041099411153885,0.0447066884760059
+2035089573,Sort-sharing-aware query processing,2012,32,8,3,1.0,2706142007,Yu Cao,0,-0.0041099411153885,0.0447066884760059
+2033933009,Stratified computation of skylines with partially-ordered domains,2005,21,124,1,1.0,2133793219,Chee Yong Chan,0,-0.1283590562572059,0.5324741309317754
+2088101829,ZINC efficient indexing for skyline computation,2010,10,23,2,0.0,2666454113,Bin Liu,0,0.05987113347027075,0.8924668862703083
+2093490165,Optimizing complex queries with multiple relation instances,2008,16,16,3,1.0,2706142007,Yu Cao,0,0.615730503929508,0.19423142713640337
+2104236910,DTD-directed publishing with attribute translation grammars,2002,20,54,2,0.857143,2016987025,Michael Benedikt,0,1.1296104103440439,-0.3318059449279227
+2098611943,Efficient xml data dissemination with piggybacking,2007,20,12,1,1.0,2133793219,Chee Yong Chan,0,1.718322431899327,-0.7882500918286192
+2132271524,Content-based Dissemination of Fragmented XML Data,2006,21,6,1,1.0,2133793219,Chee Yong Chan,0,2.777771527275533,-1.064290681051953
+2126632912,RE-Tree an efficient index structure for regular expressions,2003,21,48,1,1.0,2133793219,Chee Yong Chan,0,0.04941534788803445,-0.3635662823791845
+2129524385,Tree pattern aggregation for scalable XML data dissemination,2002,15,65,1,1.0,2133793219,Chee Yong Chan,0,1.4199066700937752,-0.5625169716143628
+2132598136,ViewJoin Efficient view-based evaluation of tree pattern queries,2010,24,15,2,1.0,2892622098,Ding Chen,0,1.7927491104674593,-0.0491035479615404
+2109066816,Piggyback Optimization of XML Data Dissemination,2007,2,1,1,1.0,2133793219,Chee Yong Chan,0,1.1164824243594815,-0.43637424904964295
+2142876691,From region encoding to extended dewey on efficient processing of XML twig pattern matching,2005,23,262,3,0.0,2108677686,Jiaheng Lu,0,0.6532148337852286,-0.24449848716558856
+2113295349,Finding k-dominant skylines in high dimensional space,2006,17,367,1,1.0,2133793219,Chee Yong Chan,0,-0.5087766424317517,0.8236970381013953
+2134170665,Secure XML querying with security views,2004,28,231,2,0.0,2132396280,Wenfei Fan,0,2.6748445273269947,-0.9671165462918501
+2107683037,Efficient filtering of XML documents with XPath expressions,2002,16,416,1,1.0,2133793219,Chee Yong Chan,0,2.1537522774215585,-0.8958161223546167
+2110839100,Optimization of analytic window functions,2012,15,17,2,1.0,2706142007,Yu Cao,0,0.06155862518565555,0.5607548851979121
+2140539965,Capturing both types and constraints in data integration,2003,27,51,2,0.857143,2016987025,Michael Benedikt,0,2.529103166032161,-0.9124375132884993
+2125864420,Minimization of tree pattern queries with constraints,2008,16,21,2,1.0,2892622098,Ding Chen,0,1.4985479936023267,-0.6482440290467707
+2117156932,An efficient bitmap encoding scheme for selection queries,1999,8,135,1,1.0,2133793219,Chee Yong Chan,0,0.8618958609116518,-1.1946647881574393
+2117194933,Taming XPath queries by minimizing wildcard steps,2004,16,30,1,1.0,2133793219,Chee Yong Chan,0,1.931280591096859,-0.7863672827449673
+2159693728,Efficient processing of skyline queries with partially-ordered domains,2005,4,25,1,1.0,2133793219,Chee Yong Chan,0,0.25245882146783893,0.09919480006319664
+2148306163,FINCH evaluating reverse k-Nearest-Neighbor queries on location data,2008,22,80,3,0.0,2705995519,Wei Wu,0,-0.0041099411153885,0.0447066884760059
+2235731852,Supporting Window Analytics over Large-scale Dynamic Graphs,2015,19,0,3,0.5,2574686874,Qi Fan,0,1.204501787921431,0.29860165833699415
+2202356046,An efficient publish/subscribe index for e-commerce databases,2014,29,37,2,0.571429,2145928807,Dongxiang Zhang,0,-0.0041099411153885,0.0447066884760059
+2275996142,Query from examples an iterative data-driven approach to query construction,2015,22,33,2,0.0,2712715516,Hao Li,0,0.6841579663705535,0.08234759822145807
+2341551889,Parallel Database Recovery for Multicore Main-Memory Databases,2016,35,2,3,1.0,2099674727,Yingjun Wu,0,1.2398798569413718,1.094959454804536
+2493477719,Towards Neighborhood Window Analytics over Large-Scale Graphs,2016,18,0,3,0.5,2574686874,Qi Fan,0,-0.0041099411153885,0.0447066884760059
+2423206806,Transaction Healing Scaling Optimistic Concurrency Control on Multicores,2016,58,24,2,1.0,2099674727,Yingjun Wu,0,2.5917533867241858,2.5881968630709675
+2601436412,Fast Failure Recovery for Main-Memory DBMSs on Multicores,2017,47,6,3,1.0,2099674727,Yingjun Wu,0,0.4418028432108173,0.627595800505452
+2951820891,Fast Failure Recovery for Main-Memory DBMSs on Multicores,2016,47,0,3,1.0,2099674727,Yingjun Wu,0,0.4418028432108173,0.627595800505452
+3021423196,Chapter 23 â€“ RE-Tree An Efficient Index Structure for Regular Expressions,2002,19,3,2,0.0,2089290244,Minos Garofalakis,0,1.5610670914265958,-0.6295415433605519
+3021853921,Report on the 10th international workshop on web information and data management (WIDM),2009,0,0,1,1.0,2133793219,Chee Yong Chan,0,-0.3191227481026293,-0.6587716767968507

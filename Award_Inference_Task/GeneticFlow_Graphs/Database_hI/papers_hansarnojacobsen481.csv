@@ -1,0 +1,51 @@
+206771271,Big Data Generation,2012,27,9,2,0.769231,2005408220,Tilmann Rabl,0,0.06635930819191084,0.49152641060504293
+175358687,View Maintenance in Web Data Platforms,2009,21,0,1,1.0,1963506564,Hans Arno Jacobsen,0,2.4785462051108857,0.9595836600534909
+22394099,A BigBench Implementation in the Hadoop Ecosystem,2013,19,11,5,0.0,2492198635,Badrul Chowdhury,0,0.22170556094880117,0.5166553847681042
+112461364,BigBench Specification V01,2012,6,6,3,0.0,172598808,Meikel Poess,0,-0.028139848618791416,0.7979226083265621
+305481191,CONTROLLED PARALLEL PROPAGATION OF VIEW TABLE UPDATES IN DISTRIBUTED DATABASE SYSTEMS,2008,26,35,1,1.0,1963506564,Hans Arno Jacobsen,0,0.8319868024539838,0.18254605270593904
+433641300,Orchestrating SOA Using Requirement Specifications and Domain Ontologies,2014,16,2,3,0.0,2291069663,Manoj Bhat,0,-1.0092386572456133,-0.7319522234163621
+1474354901,The FQP Vision Flexible Query Processing on a Reconfigurable Computing Fabric,2015,7,8,3,1.0,2283407389,Mohammadreza Najafi,0,0.007334245363849856,0.0884093997571545
+1507246359,Efficient constraint processing for highly personalized location based services,2004,11,10,2,1.0,2171423658,Zhengdao Xu,0,-0.0041099411153885,0.0447066884760059
+1508670223,A-ToPSS a publish/subscribe system supporting imperfect information processing,2004,4,9,2,0.0,2157173648,Haifeng Liu,0,0.056071418977794774,0.30039696083824646
+1492139710,S-ToPSS semantic Toronto publish/subscribe system,2003,7,98,3,0.0,2140652423,Milenko Petrovic,0,-0.19196147509311953,0.14487620954580122
+1608148813,WebFilter A High-throughput XML-based Publish and Subscribe System,2001,4,58,3,0.0,2109439358,JoÃ£o D. Pereira,0,0.5586742082380666,-0.1984847101299193
+1664839614,I know what you mean semantic issues in Internet-scale publish/subscribe systems,2003,16,9,3,1.0,2078816297,Ioana Burcea,0,-0.0041099411153885,0.0447066884760059
+2008632807,Relevance Matters Capitalizing on Less (Top-k Matching in Publish/Subscribe),2012,14,23,2,0.857143,2013660797,Mohammad Sadoghi,0,-0.46893397788284524,0.07728939382804885
+2003561941,Efficient event-based resource discovery,2009,26,30,4,0.0,2281384182,Wei Yan,0,-0.988140644542608,-0.7132238884726516
+1990240966,Adaptive parallel compressed event matching,2014,22,4,2,0.746479,2013660797,Mohammad Sadoghi,0,0.4169901767344631,-0.03181084648581779
+2022462411,Demo a framework for location information processing,2005,4,3,2,1.0,2171423658,Zhengdao Xu,0,-0.0041099411153885,0.0447066884760059
+2021445484,The Vision of BigBench 20,2015,15,4,4,0.697396,2005408220,Tilmann Rabl,0,-0.08861491733470268,0.1853768420401302
+2017988065,GPX-matcher a generic boolean predicate-based XPath expression matcher,2011,25,11,3,1.0,2013660797,Mohammad Sadoghi,0,1.3803228922160256,-0.4992382528823243
+2020493833,BE-tree an index structure to efficiently match boolean expressions over high-dimensional discrete space,2011,26,69,2,1.0,2013660797,Mohammad Sadoghi,0,-0.0041099411153885,0.0447066884760059
+2052312648,BigBench towards an industry standard benchmark for big data analytics,2013,24,247,7,0.0,2119192386,Ahmad Ghazal,0,0.14955095365764567,0.6574315307647183
+2051680663,D2WORM A Management Infrastructure for Distributed Data-centric Workflows,2015,19,7,3,0.0,27757012,Martin Jergler,0,0.9667209587196945,1.7497698796462908
+2053495332,Analysis and optimization for boolean expression indexing,2013,45,20,2,0.789474,2013660797,Mohammad Sadoghi,0,-0.0041099411153885,0.0447066884760059
+2068346480,Multi-query Stream Processing on FPGAs,2012,9,33,6,0.857143,2013660797,Mohammad Sadoghi,0,0.5086171457413515,-0.7560171664306833
+2062482216,Efficient event processing through reconfigurable hardware for algorithmic trading,2010,9,63,2,1.0,2013660797,Mohammad Sadoghi,0,0.4169901767344631,-0.03181084648581779
+2085892029,MMM-towards an infrastructure for emerging electronic commerce applications,1999,5,2,1,1.0,1963506564,Hans Arno Jacobsen,0,-0.0041099411153885,0.0447066884760059
+2089906307,Processing proximity relations in road networks,2010,25,29,2,1.0,2171423658,Zhengdao Xu,0,-0.0041099411153885,0.0447066884760059
+2083708758,CaSSanDra An SSD boosted key-value store,2014,17,15,4,0.0,2195792725,Prashanth Menon,0,0.1973324905532821,-0.11636231076807971
+2138167749,Flexible query processor on FPGAs,2013,8,25,3,1.0,2283407389,Mohammadreza Najafi,0,0.014532710543751099,0.030944858938630852
+2138607828,Just cant get enough Synthesizing Big Data,2015,23,8,5,0.697396,2005408220,Tilmann Rabl,0,0.06635930819191084,0.49152641060504293
+2131027594,DGFIndex for smart grid enhancing hive with a cost-effective multidimensional range index,2014,17,17,5,1.0,2712432974,Yue Liu,0,0.3820908385543769,0.2117467783858426
+2131164945,Solving big data challenges for enterprise application performance management,2012,15,165,3,0.769231,2005408220,Tilmann Rabl,0,-0.019090037490438704,0.06409207766159075
+2140346433,Predicate-based Filtering of XPath Expressions,2006,14,36,2,1.0,2154657852,Shuang Hou,0,1.3905270150475821,-0.47835930669531146
+2150949003,Expressive Location-Based Continuous Query Evaluation with Binary Decision Diagrams,2009,31,6,2,1.0,2171423658,Zhengdao Xu,0,0.0908845357243609,0.31128747720343375
+2184516195,Towards a Complete BigBench Implementation,2014,13,3,5,0.785714,2005408220,Tilmann Rabl,0,0.06635930819191084,0.49152641060504293
+2152170845,Modeling uncertainties in publish/subscribe systems,2004,23,48,2,0.0,2157173648,Haifeng Liu,0,-0.04422958323339025,0.46904787848949087
+2149498440,XML Routing in Data Dissemination Networks,2007,16,7,3,0.0,2158881100,Guoli Li,0,2.894179270860564,-1.1202858606394115
+2150013559,PNUTS Yahoo s hosted data serving platform,2008,26,932,1,1.0,1963506564,Hans Arno Jacobsen,0,-0.741320753682336,0.5359721595022867
+2241022039,LIGHT-WEIGHT CONCURRENCY CONTROL IN PARALLELIZED VIEW MAINTENANCE,2008,3,4,1,1.0,1963506564,Hans Arno Jacobsen,0,2.2000639057719082,1.7242571531403326
+2296703446,TPC-DI the first industry benchmark for data integration,2014,7,30,3,0.0,172598808,Meikel Poess,0,-0.17463615975984026,0.27640784340734487
+2400388471,BigBench Specification V01 - BigBench An Industry Standard Benchmark for Big Data Analytics,2012,4,3,7,0.769231,2005408220,Tilmann Rabl,0,-0.028139848618791416,0.7979226083265621
+2439110316,Safe distribution and parallel execution of data-centric workflows over the publish/subscribe abstraction,2016,6,4,3,0.622728,2013660797,Mohammad Sadoghi,0,0.6346094307341544,1.539625598821627
+2426048753,A Hybrid B+-tree as Solution for In-Memory Indexing on CPU-GPU Heterogeneous Computing Platforms,2016,51,18,2,0.0,2477549344,Amirhesam Shahvarani,0,-0.03860737493763699,0.039556701713576246
+2484289073,Performance Evaluation and Optimization of Multi-Dimensional Indexes in Hive,2018,17,6,5,1.0,2712432974,Yue Liu,0,0.5941017060014501,-0.18557515928937893
+2484460155,Content-Based XML Data Dissemination,2010,42,0,1,1.0,1963506564,Hans Arno Jacobsen,0,2.319642445888122,-0.968102128252913
+2506272472,Object-Oriented Publish/Subscribe for Modeling and Processing Imperfect Information,2005,0,0,1,1.0,1963506564,Hans Arno Jacobsen,0,-0.0041099411153885,0.0447066884760059
+2613136061,Query Centric Partitioning and Allocation for Partially Replicated Database Systems,2017,59,10,2,0.662159,2005408220,Tilmann Rabl,0,1.526868994728525,0.19485979535217623
+2756536429,Analysis of TPC-DS the first standard benchmark for SQL-based big data systems,2017,18,7,3,0.0,172598808,Meikel Poess,0,0.5810854803522122,0.37324662311268486
+2898587907,Analysis of TPCx-IoT The First Industry Standard Benchmark for IoT Gateway Systems,2018,10,3,6,0.0,172598808,Meikel Poess,0,0.7526114324969826,0.5931726408398509
+2950506233,Solving Big Data Challenges for Enterprise Application Performance Management,2012,15,82,3,0.769231,2005408220,Tilmann Rabl,0,-0.019090037490438704,0.06409207766159075
+2951057438,DGFIndex for Smart Grid Enhancing Hive with a Cost-Effective Multidimensional Range Index,2014,12,0,5,1.0,2712432974,Yue Liu,0,0.3820908385543769,0.2117467783858426
+2970882829,PNUTS to Sherpa lessons from Yahoo s cloud database,2019,0,0,1,1.0,1963506564,Hans Arno Jacobsen,0,-0.0041099411153885,0.0447066884760059

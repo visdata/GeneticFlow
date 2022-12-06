@@ -1,0 +1,63 @@
+136211262,A Quantitative Evaluation of Privilege Separation in Web Browser Designs,2013,27,7,3,0.708333,2127974394,Xinshu Dong,0,1.5733736148726598,1.6269740916327833
+755860182,A look at targeted attacks through the lense of an NGO,2014,8,37,5,0.0,2559524632,Stevens Le Blond,0,-0.22560868618274874,0.6628018191991369
+261986249,Systematic techniques for finding and preventing script injection vulnerabilities,2012,71,0,1,1.0,2126798037,Prateek Saxena,0,0.1402039859793991,1.4048142505488332
+1515790419,On the Limits of Information Flow Techniques for Malware Analysis and Containment,2008,39,116,2,0.0,1967828555,Lorenzo Cavallaro,0,-0.3082305829651602,1.7193540619805394
+1543478129,Document Structure Integrity A Robust Basis for Cross-site Scripting Defense,2009,23,172,2,0.0,307609487,Yacin Nadji,0,0.0040557659796233,0.2757546058061082
+1075951497,Man-in-the-browser-cache,2015,38,23,4,0.0,2096909092,Jian Mao,0,-1.0019331194231915,-0.03614324456653334
+1459231281,Automatic generation of data-oriented exploits,2015,32,66,4,1.0,2134111701,Hong Hu,0,-0.1625094323888445,0.039244197349764094
+1598325486,Protecting Browsers from Extension Vulnerabilities,2010,14,133,3,0.0,2478475868,Adam Barth,0,0.6188695227111004,1.6719046479261288
+1693301795,Privilege separation in HTML5 applications,2012,29,45,2,0.0,43593122,Devdatta Akhawe,0,1.5733736148726598,1.6269740916327833
+1941558319,Preventing Your Faults From Telling Your Secrets Defenses Against Pigeonhole Attacks,2015,43,9,4,1.0,2141373263,Shweta Shinde,0,0.3139939642973432,-0.4259949914620587
+1917555234,Fast and precise sanitizer analysis with BEK,2011,29,115,4,0.0,60101718,Pieter Hooimeijer,0,0.0040557659796233,0.2757546058061082
+1997546092,I Know Where Youve Been Geo-Inference Attacks via the Browser Cache,2015,21,24,4,1.0,2115391026,Yaoqi Jia,0,0.0040557659796233,0.2757546058061082
+2075144441,Demystifying Incentives in the Consensus Computer,2015,29,103,4,1.0,2223306271,Loi Luu,0,-1.0748320696519569,0.6346639768992652
+2056511696,Auto-patching DOM-based XSS at scale,2015,40,13,6,0.0,2230240332,Inian Parameshwaran,0,0.0040557659796233,0.2757546058061082
+2067261705,POSTER CRYPTSERVER strong data protection in commodity LAMP servers,2013,9,0,2,0.0,2112237930,Zhenkai Liang,0,0.9180611262831727,0.08462517103740128
+2094415856,Context-sensitive auto-sanitization in web templating languages using type qualifiers,2011,29,55,2,0.0,2123758338,Mike Samuel,0,0.0040557659796233,0.2757546058061082
+2094568767,A Symbolic Execution Framework for JavaScript,2010,25,347,1,1.0,2126798037,Prateek Saxena,0,0.0040557659796233,0.2757546058061082
+2102749424,AUTOCRYPT enabling homomorphic computation on servers to protect sensitive web content,2013,49,18,4,0.705882,2232393541,Shruti Tople,0,-1.1845671437267984,-0.1759019309145149
+2091747079,The SICILIAN Defense Signature-based Whitelisting of Web JavaScript,2015,44,10,3,0.0,2223485828,Pratik Soni,0,0.4396033869313446,0.5102124360986429
+2103989381,SCRIPTGARD Preventing Script Injection Attacks in Legacy Web Applications with Automatic Sanitization,2010,25,16,2,0.0,2001305480,David Molnar,0,0.0040557659796233,0.2757546058061082
+2129763443,On Power Splitting Games in Distributed Computation The Case of Bitcoin Pooled Mining,2015,21,75,4,1.0,2223306271,Loi Luu,0,-0.6024663050957627,-0.1996674498281802
+2119251836,BitBlaze A New Approach to Computer Security via Binary Analysis,2008,29,546,10,0.0,2131252044,Dawn Song,0,-0.9907348076734198,2.0404461612040294
+2107466081,Protecting sensitive web content from client-side vulnerabilities with CRYPTONS,2013,52,19,5,0.708333,2127974394,Xinshu Dong,0,1.7029826062605458,-0.2600589908962866
+2178828050,M 2 R enabling stronger privacy in mapreduce computation,2015,62,41,3,0.0,2037466936,Beng Chin Ooi,0,-0.15713124237426002,-0.19491229370665408
+2151619740,SCRIPTGARD automatic context-sensitive sanitization for large-scale legacy web applications,2011,23,80,1,1.0,2126798037,Prateek Saxena,0,0.0040557659796233,0.2757546058061082
+2169868363,A systematic analysis of XSS sanitization in web application frameworks,2011,36,86,2,0.0,2105073308,Joel Weinberger,0,0.0040557659796233,0.2757546058061082
+2174441577,You Cant Be Me Enabling Trusted Paths and User Sub-origins in Web Browsers,2014,41,8,4,1.0,2132251284,Enrico Budianto,0,0.0040557659796233,0.2757546058061082
+2296324027,Web-to-Application Injection Attacks on Android Characterization and Detection,2015,36,17,4,0.0,2227127082,Behnaz Hassanshahi,0,0.09213588834667,0.385594277368354
+2296478376,Identifying Arbitrary Memory Access Vulnerabilities in Privilege-Separated Software,2015,43,1,4,1.0,2134111701,Hong Hu,0,0.12130269931957537,2.2547043042173667
+2401178212,PRAMOD A Privacy-Preserving Framework for Supporting Efficient and Secure Database-as-a-Service,2015,0,0,3,0.0,2037466936,Beng Chin Ooi,0,0.2228006673310314,-0.3811194958441835
+2401211838,CRYPTSERVER strong data protection in commodity LAMP servers,2013,0,0,3,0.0,2548437445,Zhaofeng Chen,0,0.27844714193038306,0.5934123001132089
+2399231848,AUTHSCAN Automatic Extraction of Web Authentication Protocols from Implementations,2013,30,73,5,0.230769,2103170607,Guangdong Bai,0,-1.1239011260830494,-0.8098768948172249
+2405282478,FLAX Systematic Discovery of Client-side Validation Vulnerabilities in Rich Web Applications,2010,36,98,1,1.0,2126798037,Prateek Saxena,0,0.0040557659796233,0.2757546058061082
+2402811135,Preventing Page Faults from Telling Your Secrets,2016,48,86,4,1.0,2141373263,Shweta Shinde,0,0.9787887058581133,-0.5334292272664551
+2484028540,Anonymity in Peer-assisted CDNs Inference Attacks and Mitigation,2016,44,2,3,1.0,2115391026,Yaoqi Jia,0,-0.16420021596708323,0.32292378428885316
+2468087739,OblivP2P An Oblivious Peer-to-Peer Content Sharing System,2016,60,4,4,1.0,2115391026,Yaoqi Jia,0,-0.015296254716123447,0.40424678126495084
+2539190473,Making Smart Contracts Smarter,2016,17,463,4,1.0,2223306271,Loi Luu,0,-0.01524247542022282,0.7750599683541224
+2511446761,On Scaling Decentralized Blockchains,2016,28,389,8,0.0,46726047,Ari Juels,0,-0.7517949523265022,0.8256759897880013
+2511463445,The Web/Local Boundary Is Fuzzy A Security Study of Chromes Process-based Sandboxing,2016,38,8,5,1.0,2115391026,Yaoqi Jia,0,0.0040557659796233,0.2757546058061082
+2559840118,A uror defending against poisoning attacks in collaborative deep learning systems,2016,35,47,1,1.0,2126798037,Prateek Saxena,0,0.0040557659796233,0.2757546058061082
+2512784977,Data-Oriented Programming On the Expressiveness of Non-control Data Attacks,2016,39,108,5,1.0,2134111701,Hong Hu,0,0.06095209666146809,0.4087296716361643
+2535104337,A Secure Sharding Protocol For Open Blockchains,2016,41,279,6,1.0,2223306271,Loi Luu,0,-0.9581910491808289,1.085828431943407
+2615794775,When Cryptocurrencies Mine Their Own Business,2016,11,22,3,1.0,2019900796,Jason Teutsch,0,-0.6921874003673086,0.7769180553978389
+2620870214,A Traceability Analysis of Moneroâ€™s Blockchain,2017,13,42,2,0.0,2099155014,Amrit Kumar,0,-0.6022545997539289,0.6752117822412786
+2612012086,Panoply Low-TCB Linux Applications With SGX Enclaves,2017,9,90,4,1.0,2141373263,Shweta Shinde,0,0.0040557659796233,0.2757546058061082
+2753395445,Neural Nets Can Learn Function Type Signatures From Binaries,2017,39,32,3,1.0,2030162137,Zheng Leong Chua,0,0.0040557659796233,0.2757546058061082
+2751130135,SMARTPOOL practical decentralized pooled mining,2017,14,33,4,0.866667,2223306271,Loi Luu,0,-0.6219614864462832,0.6422427175151296
+2794929715,Obscuro A Bitcoin Mixer using Trusted Execution Environments,2018,30,4,5,0.666667,2794574047,Muoi Tran,0,-0.08499463332395561,0.8020665093177974
+2810212256,BesFS Mechanized Proof of an Iago-Safe Filesystem for Enclaves,2018,20,2,6,0.863636,2141373263,Shweta Shinde,0,-0.3955968751418488,0.14917958692069197
+2787648539,Finding The Greedy Prodigal and Suicidal Contracts at Scale,2018,0,66,4,0.95874,2157574998,Ivica Nikolic,0,0.1639362940477497,0.6530314529854678
+2902739156,Invited Paper) on the Security of Blockchain Consensus Protocols,2018,57,2,3,0.0,2109538583,Sourav Das,0,0.03857885209080565,0.668590409100547
+2908120394,Practical Verifiable In-network Filtering for DDoS defense,2019,54,0,6,0.0,2229304526,Deli Gong,0,0.3038881543943463,0.4104063854697735
+2951548499,Making Smart Contracts Smarter,2016,0,3,4,1.0,2223306271,Loi Luu,0,0.0040557659796233,0.2757546058061082
+2946864865,One Engine To Serve em All Inferring Taint Rules Without Architectural Semantics,2019,0,1,4,1.0,2030162137,Zheng Leong Chua,0,0.0040557659796233,0.2757546058061082
+2950000937,A Traceability Analysis of Moneros Blockchain,2017,0,4,4,0.0,2099155014,Amrit Kumar,0,0.03857885209080565,0.668590409100547
+2947081899,Neuro-Symbolic Execution Augmenting Symbolic Execution with Neural Constraints,2019,0,1,5,1.0,2679426989,Shiqi Shen,0,0.0040557659796233,0.2757546058061082
+2963610883,Finding The Greedy Prodigal and Suicidal Contracts at Scale,2018,20,50,4,0.95874,2157574998,Ivica Nikolic,0,0.1639362940477497,0.6530314529854678
+2982587079,Practical Verifiable In-network Filtering for DDoS defense,2019,0,0,6,0.0,2229304526,Deli Gong,0,0.29392382053358135,0.10045542812224656
+2974198428,BesFS A POSIX Filesystem for Enclaves with a Mechanized Safety Proof,2018,2,1,6,0.863636,2141373263,Shweta Shinde,0,-0.3955968751418488,0.14917958692069197
+2989358546,Quantitative Verification of Neural Networks And its Security Applications,2019,48,6,5,0.0,2947049742,Teodora Baluta,0,0.0040557659796233,0.2757546058061082
+2971973711,PRO-ORAM Practical Read-Only Oblivious {RAM},2019,0,0,3,0.666667,2232393541,Shruti Tople,0,0.343928245083795,-0.7055803150946522
+3015450389,OHIE Blockchain Scaling Made Simple,2020,0,2,4,0.0,2138265396,Haifeng Yu,0,0.03857885209080565,0.668590409100547
+3023633122,Epione Lightweight Contact Tracing with Strong Privacy,2020,35,2,3,0.0,3022270162,Ni Trieu,0,-0.0026159686321500417,0.1891596249087321

@@ -1,0 +1,63 @@
+189529320,A Cluster Based Schema Design for Multi-tenant Database,2014,4,0,2,1.0,2701117138,Jiacai Ni,0,2.8899435246828578,0.29430134731783875
+164122882,DBease Making Databases User-Friendly and Easily Accessible,2011,22,13,5,0.556946,2171804313,Guoliang Li,0,0.07354344912469715,0.07040355837990073
+284823514,The Expected Optimal Labeling Order Problem for Crowdsourced Joins and Entity Resolution,2014,2,2,5,0.666667,2103786759,Jiannan Wang,0,-0.060787182672043825,-0.06434807915093244
+1488414089,A location-aware publish/subscribe framework for parameterized spatio-textual subscriptions,2015,26,38,4,1.0,2107881099,Huiqi Hu,0,-0.0041099411153885,0.0447066884760059
+1551804366,An efficient parallel pathstack algorithm for processing XML twig queries on multi-core systems,2010,26,8,1,1.0,1995232797,Jianhua Feng,0,1.5610670914265958,-0.6295415433605519
+1561199506,Page-level log mapping from many-to-many mapping to one-to-one mapping,2011,15,0,3,0.0,2675653871,Jing Xu,0,-0.0041099411153885,0.0447066884760059
+1553222399,A New Query Processing Scheme in a Web Data Engine,2002,17,5,4,0.0,2619885739,Zhiqiang Zhang,0,-0.3633742239238693,-0.8370512121568903
+1573417306,2D/3D web visualization on mobile devices,2006,13,6,3,0.0,2653914441,Yi Wang,0,-0.0041099411153885,0.0447066884760059
+1565127476,A Highly Adaptable Web Information Extractor Using Graph Data Model,2004,7,5,4,0.666667,2282650421,Qi Guo,0,0.6237492629029793,-0.07089688431858818
+1547325940,SCEND an efficient semantic cache to adequately explore answerability of views,2006,14,2,2,0.769231,2171804313,Guoliang Li,0,1.780871458344133,-0.7234742606729057
+1556873876,Exploit sequencing to accelerate XML twig query answering,2006,24,2,2,0.0,2479756709,Qian Qian,0,0.5586742082380666,-0.1984847101299193
+1529972408,Efficient holistic twig joins in leaf-to-root combining with root-to-leaf way,2007,22,13,2,0.769231,2171804313,Guoliang Li,0,0.5586742082380666,-0.1984847101299193
+1487608725,Hidden conditioned homomorphism for XPath fragment containment,2006,19,3,2,0.0,2168874226,Yuguo Liao,0,1.083768938008385,-0.02953314807401337
+1841317170,Decomposition Privacy Preservation for Multiple Sensitive Attributes,2009,20,20,5,0.0,2619278828,Yang Ye,0,0.43739842239757626,0.009947045888208002
+1911240102,Schema driven and topic specific web crawling,2005,16,6,5,0.666667,2282650421,Qi Guo,0,-1.8621420934553692,-1.6966807034939777
+1581680754,Progressive Ranking for Efficient Keyword Search over Relational Databases,2008,10,13,2,0.90566,2171804313,Guoliang Li,0,0.32145904945733517,-0.05139535081873775
+1784195856,A semantic information loss metric for privacy preserving publication,2010,19,2,3,1.0,2719640664,Yu Liu,0,-0.32198876610509086,-0.2038331671539402
+1982301454,Adaptive Database Schema Design for Multi-Tenant Data Management,2014,26,3,4,1.0,2107653980,Jiacai Ni,0,1.7391869600530172,0.9273401746295191
+1965570055,Efficient Algorithms for Top-k Keyword Queries on Spatial Databases,2011,2,10,3,0.0,2568094062,Ting Wang,0,0.0908845357243609,0.31128747720343375
+2001700730,MassJoin A mapreduce-based method for scalable string similarity joins,2014,24,66,5,0.710526,2135275180,Dong Deng,0,0.23278290215798467,0.26298423589415587
+1992278628,Keyword-based k-nearest neighbor search in spatial databases,2012,10,8,3,0.351693,2171804313,Guoliang Li,0,0.014532710543751099,0.030944858938630852
+2028327419,DESKS Direction-Aware Spatial Keyword Search,2012,25,88,2,0.351693,2171804313,Guoliang Li,0,-0.0041099411153885,0.0447066884760059
+2012668444,iCrowd An Adaptive Crowdsourcing Framework,2015,34,96,5,0.0,2119191832,Ju Fan,0,-0.0041099411153885,0.0447066884760059
+2019801416,Finding and ranking compact connected trees for effective keyword proximity search in XML documents,2010,38,24,1,1.0,1995232797,Jianhua Feng,0,1.1017657382063792,-0.47988470056478355
+2018312189,Supporting Search-As-You-Type Using SQL in Databases,2013,51,23,2,0.289688,2171804313,Guoliang Li,0,0.8872972557081974,0.17935563450451925
+2016699179,A semantic cache framework for secure XML queries,2008,15,3,1,1.0,1995232797,Jianhua Feng,0,2.3394384485594557,-0.9699754374493135
+2055261195,An Efficient Trie-based Method for Approximate Entity Extraction with Edit-Distance Constraints,2012,29,17,3,1.0,2135275180,Dong Deng,0,0.1715895362437976,-0.23936692894151068
+2034447143,A framework of semantic cache for secure XML query answering an interesting joint and novel perspective,2007,15,1,1,1.0,1995232797,Jianhua Feng,0,2.3394384485594557,-0.9699754374493135
+2073329022,Top-k string similarity search with edit-distance constraints,2013,21,50,3,0.714286,2135275180,Dong Deng,0,-0.0041099411153885,0.0447066884760059
+2073540046,Efficient type-ahead search on relational data a TASTIER approach,2009,36,99,4,0.90566,2171804313,Guoliang Li,0,0.8809340701863815,0.11633144593696097
+2056748234,CrowdER crowdsourcing entity resolution,2012,26,345,4,0.857143,2103786759,Jiannan Wang,0,0.2971137375149884,-0.29987532461792976
+2073068515,QASCA A Quality-Aware Task Assignment System for Crowdsourcing Applications,2015,64,88,5,0.428571,2105493843,Yudian Zheng,0,-0.0041099411153885,0.0447066884760059
+2082474940,TsingNUS a location-based service system towards live city,2013,8,4,9,0.289688,2171804313,Guoliang Li,0,-0.0041099411153885,0.0447066884760059
+2084851769,Adapt adaptive database schema design for multi-tenant applications,2012,8,9,5,1.0,2107653980,Jiacai Ni,0,1.0005544688121082,0.079212952930225
+2098656774,Interactive search in XML data,2009,9,18,2,0.90566,2171804313,Guoliang Li,0,2.3848527704713764,-0.911835474583651
+2101850236,A unified framework for approximate dictionary-based entity extraction,2015,34,16,3,0.710526,2135275180,Dong Deng,0,-0.42845202490949574,0.1450203979855267
+2096076988,EASE an effective 3-in-1 keyword search method for unstructured semi-structured and structured data,2008,32,345,3,0.90566,2171804313,Guoliang Li,0,-0.13521370015284775,-0.12238384797758979
+2129750215,Efficient fuzzy full-text type-ahead search,2011,67,41,4,0.556946,2171804313,Guoliang Li,0,-0.06857588116688601,0.2985486159379606
+2115214414,Trie-join efficient trie-based string similarity joins with edit-distance constraints,2010,20,111,3,0.727273,2103786759,Jiannan Wang,0,0.3029363875259092,-0.22427799047021324
+2132745220,Retune Retrieving and Materializing Tuple Units for Effective Keyword Search over Relational Databases,2008,27,18,2,0.90566,2171804313,Guoliang Li,0,0.6615601498653323,0.05096488008142562
+2124060239,An effective 3-in-1 keyword search method over heterogeneous data sources,2011,42,11,2,0.556946,2171804313,Guoliang Li,0,0.2975504652948292,0.27374023400740505
+2115405571,Efficient fuzzy type-ahead search in TASTIER,2010,8,10,5,0.63803,2171804313,Guoliang Li,0,-0.3931676839508122,0.1627112286344968
+2121269638,Can we beat the prefix filtering an adaptive framework for similarity join and search,2012,29,140,3,0.857143,2103786759,Jiannan Wang,0,-0.0041099411153885,0.0447066884760059
+2139660688,Faerie efficient filtering algorithms for approximate dictionary-based entity extraction,2011,25,35,3,0.556946,2171804313,Guoliang Li,0,-0.0041099411153885,0.0447066884760059
+2121907031,Structure-aware indexing for keyword search in databases,2009,8,7,2,0.90566,2171804313,Guoliang Li,0,0.32145904945733517,-0.05139535081873775
+2139877708,KEMB A Keyword-Based XML Message Broker,2011,42,4,2,0.556946,2171804313,Guoliang Li,0,2.116552193073974,-0.7642041012905618
+2122699404,An effective and versatile keyword search engine on heterogenous data sources,2008,13,10,2,0.90566,2171804313,Guoliang Li,0,1.1428994979469609,-0.5165958060409389
+2154131897,Providing built-in keyword search capabilities in RDBMS,2011,70,29,2,0.556946,2171804313,Guoliang Li,0,0.582774516760024,0.07042477533951415
+2154161546,Progressive Keyword Search in Relational Databases,2009,8,42,3,0.90566,2171804313,Guoliang Li,0,1.15941583720679,0.24889372652238476
+2163051926,Leveraging transitive relations for crowdsourced joins,2013,26,138,5,0.857143,2103786759,Jiannan Wang,0,0.16285556122741646,-0.3527629301630855
+2154249029,LazyFTL a page-level flash translation layer optimized for NAND flash memory,2011,24,61,2,0.0,2107639828,Dongzhe Ma,0,-0.0041099411153885,0.0447066884760059
+2166400748,String similarity joins an experimental evaluation,2014,27,99,3,0.0,2704481967,Yu Jiang,0,0.2807600744873719,-0.0746967125258062
+2167331726,Trie-join a trie-based method for efficient string similarity joins,2012,55,49,1,1.0,1995232797,Jianhua Feng,0,0.3029363875259092,-0.22427799047021324
+2170478076,Extending string similarity join to tolerant fuzzy token matching,2014,40,34,3,0.666667,2103786759,Jiannan Wang,0,-0.0041099411153885,0.0447066884760059
+2177583636,Group-Based Personalized Location Recommendation on Social Networks,2014,18,11,3,0.0,2660931261,Henan Wang,0,-0.0041099411153885,0.0447066884760059
+2323862048,Database Physical Structure Optimization Technology Database Physical Structure Optimization Technology,2014,0,0,1,1.0,1995232797,Jianhua Feng,0,-0.0041099411153885,0.0447066884760059
+2401833396,A Customized Schema Design Framework for Multi-tenant Database,2015,4,0,2,1.0,2701117138,Jiacai Ni,0,2.78411363812232,0.10987584942823939
+2489320908,META an efficient matching-based method for error-tolerant autocompletion,2016,32,7,5,0.705882,2135275180,Dong Deng,0,0.1715895362437976,-0.23936692894151068
+2443200919,Crowdsourced POI labelling Location-aware result inference and Task Assignment,2016,26,54,5,1.0,2107881099,Huiqi Hu,0,-0.0041099411153885,0.0447066884760059
+2433401686,Top-k spatio-textual similarity join,2016,7,2,4,1.0,2107881099,Huiqi Hu,0,0.2807600744873719,-0.0746967125258062
+2614224126,K-Join Knowledge-Aware Similarity Join,2017,7,2,4,0.0,2553414421,Zeyuan Shang,0,-0.0041099411153885,0.0447066884760059
+2614688170,A Novel Cost-Based Model for Data Repairing,2017,4,2,6,0.7,2718182604,Shuang Hao,0,0.060276048053390034,0.1677450520797142
+2898216318,Cleaning Your Wrong Google Scholar Entries,2018,7,1,5,0.7,2718182604,Shuang Hao,0,-0.0348087340108871,0.4761631643743138

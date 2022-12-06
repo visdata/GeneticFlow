@@ -1,0 +1,49 @@
+190228621,Efficient secure computation with garbled circuits,2011,68,130,3,0.923077,2651080460,Yan Huang,0,1.5082128209915828,-0.42679923748198195
+41015297,Effectiveness of Moving Target Defenses,2011,24,89,1,1.0,2612706959,David Evans,0,-0.32012964533967664,-0.01620240269034645
+114088334,Private Set Intersection Are Garbled Circuits Better than Custom Protocols ,2012,40,174,2,0.0,2237101560,Jonathan Katz,0,-0.04670643479869004,-0.9741573782927874
+82932228,What Biology Can (and Cant) Teach Us About Security,2004,0,1,1,1.0,2612706959,David Evans,0,0.0040557659796233,0.2757546058061082
+326768857,Helix A Self-Regenerative Architecture for the Incorruptible Enterprise,2012,0,0,10,0.299325,81472127,Anh Nguyen Tuong,0,0.0040557659796233,0.2757546058061082
+1552618981,Policy-directed code safety,2000,45,43,1,1.0,2612706959,David Evans,0,0.0040557659796233,0.2757546058061082
+1554293762,Understanding and Monitoring Embedded Web Scripts,2015,23,5,2,1.0,2306419354,Yuchen Zhou,0,-0.13372944178278576,0.4882453021336753
+1511560695,Automatically Hardening Web Applications Using Precise Tainting,2005,18,362,5,0.705882,81472127,Anh Nguyen Tuong,0,1.7029826062605458,-0.2600589908962866
+1549189039,Protecting private web content from embedded scripts,2011,11,18,2,1.0,2306419354,Yuchen Zhou,0,-0.27118336151778283,0.45584879996846284
+1761148889,Hiding in Groups On the Expressiveness of Privacy Distributions,2008,14,2,2,0.714286,168794112,Karsten Nohl,0,0.13189440149722817,0.09387931699066347
+1583345160,Using Directional Antennas to Prevent Wormhole Attacks,2004,26,500,2,0.0,2106146585,Lingxuan Hu,0,0.3171484069971384,-0.13992525839030945
+1986960937,Quid-Pro-Quo-tocols Strengthening Semi-honest Protocols with Dual Execution,2012,38,74,3,0.923077,2651080460,Yan Huang,0,0.10869765771937323,-0.35479783089309713
+2027943104,Security through redundant data diversity,2008,40,58,2,0.705882,81472127,Anh Nguyen Tuong,0,-0.06882682971652375,0.2835116913221821
+2102902405,Wheres the FEEB the effectiveness of instruction set randomization,2005,9,151,2,0.0,1819132002,Ana Nora Sovarel,0,0.0040557659796233,0.2757546058061082
+2082501931,Comparing Java and NET security Lessons learned and missed,2006,21,9,2,0.521739,2229823760,Nathanael Paul,0,0.0040557659796233,0.2757546058061082
+2083512412,A biological programming model for self-healing,2003,29,46,3,0.0,2147851696,Selvin George,0,0.24510871159804148,0.06297594514804139
+2081844467,Guest Editors Introduction The Science of Security,2011,0,11,1,1.0,2612706959,David Evans,0,1.0554079744724287,1.7983807992183407
+2120138937,Statically detecting likely buffer overflow vulnerabilities,2001,36,289,2,0.0,2104228806,David Larochelle,0,0.1639362940477497,0.6530314529854678
+2137974280,The user is not the enemy fighting malware by tracking user intentions,2009,34,18,2,0.0,2632408163,Jeffrey Shirley,0,-0.19274118683099398,0.7215134170908979
+2126123233,Explicating SDKs uncovering assumptions underlying secure authentication and authorization,2013,23,67,5,0.0,2585799294,Rui Wang,0,-0.9747863905617229,-0.01875365657461751
+2112243402,Secure and practical defense against code-injection attacks using software dynamic translation,2006,24,96,6,0.0,2115453146,Wei Hu,0,0.7145224689538687,-0.8625887554863103
+2142351551,Reverse-engineering a cryptographic RFID tag,2008,11,191,2,0.714286,168794112,Karsten Nohl,0,0.24678794580915156,-1.7096166975110756
+2112764082,GuardRails a data-centric web application security framework,2011,26,20,5,0.0,2599436697,Jonathan Burket,0,-0.24263774287769158,0.48314717038057303
+2136542414,Privacy through Noise A Design Space for Private Identification,2009,26,2,2,0.714286,168794112,Karsten Nohl,0,0.02100073918579924,-0.41307572453153407
+2119055825,N-variant systems a secretless framework for security through diversity,2006,56,240,2,0.0,2636377030,Benjamin Cox,0,-1.157560915554388,-0.022590971900344037
+2119948977,Faster secure two-party computation using garbled circuits,2011,36,420,2,0.923077,2651080460,Yan Huang,0,2.6125359646627255,-0.2774543214217347
+2137689716,Flexible policy-directed code safety,1999,20,217,1,1.0,2612706959,David Evans,0,0.0040557659796233,0.2757546058061082
+2165633818,Privacy-preserving applications on smartphones,2011,17,60,3,0.923077,2651080460,Yan Huang,0,0.10242553902134255,-0.03384057222995251
+2151481990,Automated black-box detection of side-channel vulnerabilities in web applications,2011,23,36,2,0.0,2113235413,Peter Chapman,0,0.7528221738337261,-0.49568446365784524
+2163472941,NET security lessons learned and missed from Java,2004,17,11,2,0.521739,2229823760,Nathanael Paul,0,0.0040557659796233,0.2757546058061082
+2146455667,Improving security using extensible lightweight static analysis,2002,18,407,1,1.0,2612706959,David Evans,0,-0.03061746574110109,2.8012263568099294
+2165016424,Election security Perception and reality,2004,4,47,1,1.0,2612706959,David Evans,0,-0.18618689656946605,0.637946401295037
+2229488960,Implementable privacy for rfid systems,2009,51,0,2,0.714286,168794112,Karsten Nohl,0,-0.29673103127443884,-0.09011984973662945
+2217843339,SSOScan automated testing of web applications for single sign-on vulnerabilities,2014,28,45,2,1.0,2306419354,Yuchen Zhou,0,-1.4537264585107619,0.15268279591016212
+2295299152,Measuring Security,2011,9,43,2,0.0,2069503602,Steve Bellovin,0,-1.3598694034348564,2.2786073214831783
+2574797807,Automatically Evading Classifiers A Case Study on PDF Malware Classifiers,2016,0,96,3,0.0,2600168176,Weilin Xu,0,0.05940095047987125,0.6960502266457337
+2510843581,Revisiting Square-Root ORAM Efficient Random Access in Multi-party Computation,2016,38,33,6,0.0,2041638204,Samee Zahur,0,-0.9652798719297551,-1.5396248259177603
+2532823156,Secure Stable Matching at Scale,2016,54,14,2,0.0,2511773642,Jack Doerner,0,1.3551763445476523,0.18348027179473647
+2585544036,Quantifying information leakage in tree-based hash protocols (short paper),2006,0,1,2,0.714286,168794112,Karsten Nohl,0,0.14820595363410757,0.017864631709612434
+2627063197,Decentralized Certificate Authorities,2017,0,2,3,1.0,2626496622,Bargav Jayaraman,0,0.5564519121519401,-2.0972814956440238
+2625557480,Horcrux A Password Manager for Paranoids,2017,26,0,2,0.0,2625491010,Hannah Li,0,-1.7181788982311275,-1.1866334030265169
+2761324066,Efficient Dynamic Searchable Encryption with Forward Privacy,2017,18,0,4,0.666667,2166850450,Mohammad Etemad,0,0.3111830075540715,-1.5083088685375956
+2766831133,Privacy-Preserving Distributed Linear Regression on High-Dimensional Data,2017,63,39,7,0.0,2133387751,AdriÃ  GascÃ³n,0,0.0040557659796233,0.2757546058061082
+2773615984,Misery Digraphs Delaying Intrusion Attacks in Obscure Clouds,2018,32,5,3,0.0,1967223241,Hussain M. J. Almohri,0,-0.1112880672739179,0.3275403405410478
+2793146918,Fidelius Charm Isolating Unsafe Rust Code,2018,31,2,2,0.0,1967223241,Hussain M. J. Almohri,0,0.0040557659796233,0.2757546058061082
+2905736972,Teaching Computer Security Thoughts from the Field,2016,0,0,4,0.0,1966884382,Zachary N. J. Peterson,0,0.0040557659796233,0.2757546058061082
+2903850320,A Pragmatic Introduction to Secure Multi-Party Computation,2018,0,12,1,1.0,2612706959,David Evans,0,1.0148279357837102,-0.17555436131222457
+2963873050,Efficient Dynamic Searchable Encryption with Forward Privacy,2018,0,17,4,0.666667,2166850450,Mohammad Etemad,0,0.689997871201153,-1.637024274846137
+2967985550,Evaluating differentially private machine learning in practice,2019,64,29,2,1.0,2626496622,Bargav Jayaraman,0,0.18024655990534766,0.4248442162106032

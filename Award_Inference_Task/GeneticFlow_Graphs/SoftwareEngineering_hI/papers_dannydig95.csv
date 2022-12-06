@@ -1,0 +1,52 @@
+78665,Refactoring tools report on the 1st workshop WRT at ECOOP 2007,2007,7,0,2,0.0,48553147,Oege de Moor,0,-0.0291855379334779,0.0585196112869768
+6806504,Is it dangerous to use version control histories to study source code evolution,2012,52,60,5,0.666667,2109431236,Stas Negara,0,-0.0291855379334779,0.0585196112869768
+623714281,Mining Continuous Code Changes to Detect Frequent Program Transformations,2013,43,5,2,1.0,40961488,Mihai Codoban,0,-0.0291855379334779,0.0585196112869768
+1563923074,Using Continuous Code Change Analysis to Understand the Practice of Refactoring,2012,28,4,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+1548426638,Refactoring-aware Software Configuration Management,2006,24,8,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+1737238207,How do APIs evolveq A story of refactoring Research Articles,2006,24,65,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+1956215572,Refactoring for Asynchronous Execution on Mobile Devices,2015,20,7,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+1943932403,A study and toolkit of CHECK-THEN-ACT idioms of Java concurrent collections,2015,38,4,2,0.833333,2619458377,Yu Lin,0,-0.0291855379334779,0.0585196112869768
+2004771867,LAMBDAFICATOR from imperative to functional programming through automated refactoring,2013,10,24,4,0.0,2222654901,Lyle Franklin,0,0.24819789591689984,0.1130514014089873
+2008512073,How do developers use parallel libraries,2012,21,60,2,1.0,2095944012,Semih Okur,0,-0.0291855379334779,0.0585196112869768
+1987734202,A practical tutorial on refactoring for parallelism,2010,4,3,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2026539153,Refactoring meets spreadsheet formulas,2012,21,48,2,0.0,2224887552,Sandro Badame,0,-0.0291855379334779,0.0585196112869768
+2016376650,1st ACM workshop on hot topics in software upgrades (HotSWUp 2008),2008,0,0,2,0.0,1980488834,Tudor Dumitras,0,-0.0291855379334779,0.0585196112869768
+2029055005,CHECK-THEN-ACT Misuse of Java Concurrent Collections,2013,22,30,2,1.0,2619458377,Yu Lin,0,-0.0291855379334779,0.0585196112869768
+2027302613,Automated GUI refactoring and test script repair,2011,17,36,2,0.0,283954995,Mehdi Mirzaaghaei,0,-0.0291855379334779,0.0585196112869768
+2050853996,Finding bugs in dynamic web applications,2008,33,145,5,0.571429,1517157260,Shay Artzi,0,-0.0291855379334779,0.0585196112869768
+2052612052,Refactoring -aware software merging and configuration management,2006,7,5,1,1.0,602257659,Danny Dig,0,0.28311905927957226,0.5129225129243453
+2073236004,Improving responsiveness in mobile apps via refactoring for asynchrony (invited talk),2014,8,1,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2062973095,Mining fine-grained code changes to detect unknown change patterns,2014,40,58,3,0.666667,2109431236,Stas Negara,0,-0.0291855379334779,0.0585196112869768
+2072025944,ReBA re factoring-aware b inary a daptation of evolving libraries,2008,20,63,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2056659466,A study and toolkit for asynchronous programming in c,2014,15,35,3,1.0,2095944012,Semih Okur,0,-0.0291855379334779,0.0585196112869768
+2072518957,MolhadoRef a refactoring-aware infrastructure for OO programs,2006,20,3,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2081757705,How do APIs evolve A story of refactoring,2006,26,158,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2132231921,Retrofitting concurrency for Android applications through refactoring,2014,41,44,3,1.0,2619458377,Yu Lin,0,-0.0291855379334779,0.0585196112869768
+2130191210,The role of refactorings in API evolution,2005,23,117,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2106839115,Scripting parametric refactorings in Java to retrofit design patterns,2015,51,14,3,1.0,2135104826,Jongwook Kim,0,0.5902651718813627,-0.8678514244318432
+2136579066,Finding Bugs in Web Applications Using Dynamic Test Generation and Explicit-State Model Checking,2010,49,127,5,0.571429,1517157260,Shay Artzi,0,-0.0291855379334779,0.0585196112869768
+2119493660,Refactoring-Aware Configuration Management for Object-Oriented Programs,2007,37,96,1,1.0,602257659,Danny Dig,0,0.4380209073947409,-0.055885407526350996
+2162144045,Concurrencer A tool for retrofitting concurrency into sequential java applications via concurrent libraries,2009,2,3,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2165538743,Fourth workshop on refactoring tools (WRT 2011),2011,0,0,1,1.0,602257659,Danny Dig,0,0.35242629218900273,-0.0448081401576209
+2151333541,Automated detection of api refactorings in libraries,2007,11,37,2,0.0,2155005636,Kunal Taneja,0,-0.0291855379334779,0.0585196112869768
+2148576927,Effective Software Merging in the Presence of Object-Oriented Refactorings,2008,33,54,1,1.0,602257659,Danny Dig,0,0.042873481751788095,0.0755324032968624
+2154563336,Refactoring sequential Java code for concurrency via concurrent libraries,2009,17,120,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2154705416,A Refactoring Approach to Parallelism,2011,13,55,1,1.0,602257659,Danny Dig,0,0.24819789591689984,0.1130514014089873
+2151867683,BumbleBee a refactoring environment for spreadsheet formulas,2014,23,21,2,0.0,2112506875,Felienne Hermans,0,-0.0291855379334779,0.0585196112869768
+2158082837,ReAssert Suggesting Repairs for Broken Unit Tests,2009,48,72,3,0.0,2151780935,Brett Daniel,0,-0.0006260477612278006,-0.26942038845386046
+2164660463,ReBA a tool for generating binary adapters for evolving java libraries,2008,10,8,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2186002004,The Future of Refactoring,2014,0,0,1,1.0,602257659,Danny Dig,0,-0.5858771665552741,0.2641527235267396
+2243423430,Study and Refactoring of Android Asynchronous Programming (T),2015,34,37,3,0.833333,2619458377,Yu Lin,0,-0.0291855379334779,0.0585196112869768
+2248031061,Refactorings for Android asynchronous programming,2015,24,6,2,0.833333,2619458377,Yu Lin,0,-0.0291855379334779,0.0585196112869768
+2279491003,Proceedings of the Second ACM International Conference on Mobile Software Engineering and Systems,2015,0,0,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2280397671,The Future of Refactoring (Dagstuhl Seminar 14211),2014,0,1,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2342578859,Refactoring for Asynchronous Execution on Mobile,2015,18,0,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2367248328,Improving refactoring speed by 10X,2016,41,17,3,1.0,2135104826,Jongwook Kim,0,-0.0291855379334779,0.0585196112869768
+2407618208,COPE vision for a change-oriented programming environment,2016,18,1,1,1.0,602257659,Danny Dig,0,0.7884908095431125,0.8637787205775268
+2487871493,Understanding code smells in Android applications,2016,39,19,4,0.0,1857164691,Umme Ayda Mannan,0,-0.22904658565735211,0.1858179394995296
+2546999186,Interactive and guided architectural refactoring with search-based recommendation,2016,43,19,4,0.0,2144095093,Yun Lin,0,-1.101864762129031,-0.7594407930141692
+2534445724,Continuous Integration (CI) Needs and Wishes for Developers of Proprietary Code,2016,19,3,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2751150715,X15 A Tool For Refactoring Java Software Product Lines,2017,16,1,3,0.75,2135104826,Jongwook Kim,0,-0.0291855379334779,0.0585196112869768
+2912755029,Proceedings of the 4th International Workshop on Hot Topics in Software Upgrades,2012,0,0,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2913844049,Proceedings of the 4th Workshop on Refactoring Tools,2011,0,0,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768
+2981893529,Proceedings - International Conference on Software Engineering Foreword,2011,0,0,1,1.0,602257659,Danny Dig,0,-0.0291855379334779,0.0585196112869768

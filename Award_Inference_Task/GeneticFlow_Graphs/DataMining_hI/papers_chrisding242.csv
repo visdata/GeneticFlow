@@ -1,0 +1,86 @@
+37083855,Early active learning via robust representation and structured sparsity,2013,19,32,4,0.28,2245267964,Feiping Nie,0,0.003708468606338,0.082832279151172
+213042921,A closed form solution to multi-view low-rank regression,2015,19,35,3,1.0,2333063442,Shuai Zheng,0,0.003708468606338,0.082832279151172
+126924136,A probabilistic model for Latent Semantic Indexing Research Articles,2005,43,19,1,1.0,2119616764,Chris Ding,0,0.999077509759164,-1.5029954836486459
+62664711,A MinMaxCut Spectral Method for Data Clustering and Graph Partitioning,2003,31,18,2,1.0,2118805955,Horst D. Simon,0,-0.9022445156591409,3.3006878899551646
+200673309,Multi-subspace representation and discovery,2011,17,40,3,0.896552,2166799549,Dijun Luo,0,-0.39698385696216437,0.8185694423250698
+333587792,Integrated KL (K-means - Laplacian) clustering A new clustering approach by combining attribute data and pairwise relations,2009,35,32,2,0.229286,2465953593,Fei Wang,0,-0.7703895940041382,2.8609709499882516
+937687500,Gaussian process for recommender systems,2011,23,2,4,1.0,2420624292,Qi Liu,0,-0.4374529162434836,-0.44665504711448667
+1522927312,Dynamic cluster formation using level set methods,2005,33,0,2,0.0,2171023569,Andy M. Yip,0,-0.8219014648368612,2.8947139858470656
+1490636636,Multi-label classification inconsistency and class balanced K -nearest neighbor,2010,7,22,1,1.0,2119616764,Chris Ding,0,0.8949040930186669,0.31844102020688586
+1507958910,Self-aggregation in scaled principal component space,2001,0,3,4,0.777778,2005481251,Xiaofeng He,0,-0.21934185016841626,0.6056873083074126
+1529557697,Cluster aggregate inequality and multi-level hierarchical clustering,2005,12,17,1,1.0,2119616764,Chris Ding,0,-0.9765367734615045,3.4226325503329673
+1576998661,Adaptive dimension reduction for clustering high dimensional data,2002,0,45,1,1.0,2119616764,Chris Ding,0,-0.3394240906228752,1.2378106158588456
+1878377492,On the use of the singular value decomposition for text retrieval,2001,7,48,3,0.5,1977730440,Parry Husbands,0,0.18285215430478918,-0.30853901128292904
+1964563026,A similarity-based probability model for latent semantic indexing,1999,13,130,1,1.0,2119616764,Chris Ding,0,0.04806589776984088,-0.5786859024098154
+1973714356,Consensus group stable feature selection,2009,26,98,3,0.0,1534484550,Steven Loscalzo,0,-0.1637493797846756,0.6023236394903534
+1975930001,Parallelization with Multiplicative Algorithms for Big Data Mining,2012,21,17,2,0.744186,2166799549,Dijun Luo,0,0.35084218871905654,1.620297144374528
+1989174562,Binary matrix factorization for analyzing gene expression data,2010,47,69,3,0.0,2807366552,Zhong Yuan Zhang,0,-0.647845637812731,2.1249300505968725
+2024111953,Posterior probabilistic clustering using NMF,2008,6,10,1,1.0,2119616764,Chris Ding,0,-0.5547644234126003,1.1259713045685482
+2031372241,Probabilistic solutions of influence propagation on social networks,2013,12,10,3,1.0,2298492283,Miao Zhang,0,-0.18850356968855525,-0.04411052139576105
+2027940250,Network community discovery solving modularity clustering via normalized cut,2010,5,15,2,0.0,2161837407,Linbin Yu,0,-0.9309143672921962,3.295432481779361
+2030055826,Nonnegative Matrix Tri-factorization Based High-Order Co-clustering and Its Fast Implementation,2011,23,25,4,0.179956,2306205450,Hua Wang,0,-0.6469437515681873,1.5053628791595561
+2030103537,Simultaneous clustering of multi-type relational data via symmetric nonnegative matrix tri-factorization,2011,16,38,3,0.179956,2306205450,Hua Wang,0,-0.7740494769781715,2.248437842230428
+2023211294,Feature subset non-negative matrix factorization and its applications to document understanding,2010,38,1,2,0.276923,2097650207,Dingding Wang,0,-0.4064628306948947,1.0261078751181352
+2023221658,Multi-Class L21-Norm Support Vector Machine,2011,30,43,1,1.0,2119616764,Chris Ding,0,-0.25023896793326905,0.13037718530513653
+2028672257,Weighted Feature Subset Non-negative Matrix Factorization and Its Applications to Document Understanding,2010,31,18,3,0.276923,2097650207,Dingding Wang,0,-0.6446616648997262,1.1653194589008158
+2032909675,Stable feature selection via dense feature groups,2008,30,130,2,0.391304,2310240688,Lei Yu,0,-0.0861356673077498,0.6925956926388216
+2045316077,An NMF-framework for Unifying Posterior Probabilistic Clustering and Probabilistic Latent Semantic Indexing,2014,16,2,1,1.0,2119616764,Chris Ding,0,-0.7318387155793842,1.6339178121222075
+2043545458,Orthogonal nonnegative matrix t-factorizations for clustering,2006,32,769,1,1.0,2119616764,Chris Ding,0,0.09894671261016653,0.4063152618660422
+2040376173,KDD2008 workshop report DMMT08 data mining using matrices and tensors,2008,2,1,1,1.0,2119616764,Chris Ding,0,0.9655583361760037,1.1922329900707616
+2052819443,Bipartite graph partitioning and data clustering,2001,14,273,3,0.0,2099091510,Hongyuan Zha,0,-0.5051709343109558,1.538113490039422
+2042297463,Tensor Fold-in Algorithms for Social Tagging Prediction,2011,14,6,2,1.0,2298492283,Miao Zhang,0,0.08329114195231535,0.32893178638165566
+2046025323,Solving Consensus and Semi-supervised Clustering Problems Using Nonnegative Matrix Factorization,2007,19,162,2,0.0,2472069284,Tao Li,0,-0.9082925693956836,3.3017332395808343
+2034055859,Guest editorial special issue on data mining with matrices graphs and tensors,2011,0,3,2,0.0,2472069284,Tao Li,0,-0.4408097375184461,1.718319485675415
+2037935179,Evolving feature selection,2005,29,173,7,0.0,2122391114,Huan Liu,0,-0.41848321784031295,0.17717186823060765
+2038004502,Closed form solution of similarity algorithms,2010,4,8,3,0.666667,2153170976,Yuanzhe Cai,0,-1.0619140754405176,0.992596115458181
+2057506443,A probabilistic model for Latent Semantic Indexing,2005,53,49,1,1.0,2119616764,Chris Ding,0,0.8137657341818011,-1.3409496494910593
+2068599126,Knowledge transformation for cross-domain sentiment classification,2009,5,44,3,0.0,2472069284,Tao Li,0,0.3519317286583251,0.19465203886557153
+2063687840,PCA-guided search for K-means,2015,19,15,2,0.0,2632674006,Qin Xu,0,-0.4381479942883965,1.2030875514352943
+2071018795,Cross-language web page classification via dual knowledge transfer using nonnegative matrix tri-factorization,2011,24,47,4,0.179956,2306205450,Hua Wang,0,0.6449681641771371,-1.7150998931364618
+2064210461,Adaptive dimension reduction using discriminant analysis and K -means clustering,2007,24,206,1,1.0,2119616764,Chris Ding,0,-0.4381479942883965,1.2030875514352943
+2089391273,Multi-document summarization via sentence-level semantic analysis and symmetric matrix factorization,2008,35,228,4,0.276923,2097650207,Dingding Wang,0,0.23979885382424795,-0.25178205121656977
+2100453679,Non-negative Laplacian Embedding,2009,26,22,2,1.0,2166799549,Dijun Luo,0,-0.5356570705055488,1.9177605754601679
+2093953080,Low-order tensor decompositions for social tagging recommendation,2011,15,30,4,0.666667,2153170976,Yuanzhe Cai,0,0.08329114195231535,0.32893178638165566
+2141087758,Adaptive dimension reduction for clustering high dimensional data,2002,29,109,1,1.0,2119616764,Chris Ding,0,-0.3394240906228752,1.2378106158588456
+2128981757,Maximum Margin Multi-Instance Learning,2011,23,23,5,0.179956,2306205450,Hua Wang,0,0.003708468606338,0.082832279151172
+2108740562,PSoL a positive sample only learning algorithm for finding non-coding RNA genes,2006,49,70,2,0.0,2723561799,Chunlin Wang,0,-0.06868386095689515,0.24205629126618533
+2141659418,Biclustering Protein Complex Interactions with a Biclique Finding Algorithm,2006,27,27,1,1.0,2119616764,Chris Ding,0,-0.6566972359624423,0.08009977746396639
+2121236959,Hierarchical Ensemble Clustering,2010,24,36,3,0.20339,2112178922,Li Zheng,0,-0.9377265338472913,3.2685703498610756
+2124261054,Integrating Symmetric Nonnegative Matrix Factorization and Normalized Cut Spectral Clustering,2010,19,0,2,0.0,2226969133,Zhichen Xia,0,-0.44001852180608386,2.0132080597812956
+2112670995,Exploiting user interests for collaborative filtering interests expansion via personalized ranking,2010,10,13,4,1.0,2420624292,Qi Liu,0,0.5696427439137862,0.5255974913681313
+2130496177,Unsupervised feature selection via two-way ordering in gene expression analysis,2003,20,54,1,1.0,2119616764,Chris Ding,0,-0.25023896793326905,0.13037718530513653
+2124890708,The Relationships Among Various Nonnegative Matrix Factorization Methods for Clustering,2006,35,216,2,0.0,2472069284,Tao Li,0,-0.539708095344538,1.1191691876648882
+2116298811,Infobox suggestion for Wikipedia entities,2012,12,10,6,0.0,2163337180,Afroza Sultana,0,0.01683961449654025,0.3889889639932392
+2140147287,Finding Hotspots in Document Collection,2007,29,3,2,0.0,2110579051,Wei Peng,0,-0.5434411605659133,1.0613801152931317
+2134138888,Structure search and stability enhancement of Bayesian networks,2003,20,22,2,0.75,2117688606,Hanchuan Peng,0,-0.010173573067297492,0.10780842129309343
+2119571791,Community discovery using nonnegative matrix factorization,2011,44,248,5,0.229286,2465953593,Fei Wang,0,-0.13793882823340797,0.25689975209751925
+2114254223,Automatic topic identification using webpage clustering,2001,18,75,2,0.777778,2005481251,Xiaofeng He,0,-0.4196275899345631,1.2424861538097505
+2171837816,Efficient and Robust Feature Selection via Joint â„“21-Norms Minimization,2010,27,1000,1,1.0,2119616764,Chris Ding,0,-0.025136315868969732,-0.030920891000099444
+2181134833,On the use of the singular value decomposition for text retrieval,2000,0,19,3,1.0,1977730440,Parry Husbands,0,-0.27260925762351657,-0.05420219000329799
+2150969552,A Framework for Hierarchical Ensemble Clustering,2014,49,21,3,0.20339,2112178922,Li Zheng,0,-0.9927203256827796,3.56974402120872
+2154053567,Feature selection based on mutual information criteria of max-dependency max-relevance and min-redundancy,2005,29,5514,3,0.75,2117688606,Hanchuan Peng,0,0.02584286998285738,0.2749292411158348
+2184542614,Solving Consensus and Semi-supervised Clustering Problems Using Nonnegative,2007,19,0,1,1.0,2119616764,Chris Ding,0,-0.9228324196544082,3.2980733040698764
+2157682389,K-nearest-neighbor consistency in data clustering incorporating local information into global optimization,2004,11,87,1,1.0,2119616764,Chris Ding,0,-0.6187727476789536,2.1339626491051633
+2160732687,Towards Structural Sparsity An Explicit l2/l0 Approach,2010,48,22,2,1.0,2166799549,Dijun Luo,0,0.11672415509507165,0.0338187686908989
+2167403283,Web document clustering using hyperlink structures,2002,31,112,3,0.777778,2005481251,Xiaofeng He,0,-0.6579947033818252,1.0543330326077125
+2152478904,Consensus spectral clustering in near-linear time,2011,30,17,2,0.896552,2166799549,Dijun Luo,0,-0.7133507535694709,2.564886846576286
+2170877117,Simultaneous tensor subspace selection and clustering the equivalence of high order svd and k-means clustering,2008,22,46,2,0.818182,2137533801,Heng Huang,0,-0.5148954481863672,1.5237346898819313
+2249173825,Feature selection based on mutual information criteria ofmax-dependency max-relevance and min-redundancy,2003,0,5,2,0.75,2117688606,Hanchuan Peng,0,-0.25023896793326905,0.13037718530513653
+2494256607,Function-Function correlated multi-label protein function prediction over interaction networks,2012,28,3,3,0.179956,2306205450,Hua Wang,0,0.20367740504052664,0.23801579762430253
+2539511637,Image annotation using multi-label correlated Greens function,2009,18,89,3,0.178321,2306205450,Hua Wang,0,0.4074877835405571,-0.7007133948115875
+2574608776,Robust out-of-sample data recovery,2016,25,0,2,0.0,2302961247,Bo Jiang,0,0.003708468606338,0.082832279151172
+2507800839,Feature selection Weve barely scratched the surface,2005,3,15,5,0.0,90354697,Kari Torkkola,0,-0.25023896793326905,0.13037718530513653
+2528658158,Chapter 7 Gene Function Prediction and Functional Network The Role of Gene Ontology,2011,44,0,3,0.0,156135162,Lisa Schneper,0,1.1896344603479594,-0.9124828512382722
+2674650355,A new integrative data mining framework for analyzing the cancer genome atlas data,2012,0,0,1,1.0,2119616764,Chris Ding,0,0.1135930444535226,0.22867459460794223
+2607433578,Data mining with graphs and matrices,2009,0,0,1,1.0,2119616764,Chris Ding,0,0.003708468606338,0.082832279151172
+2736881874,Image annotation and feature engineering via structural sparsity and low-rank approximation,2013,0,0,1,1.0,2119616764,Chris Ding,0,-0.07109041715151834,0.4581178285716072
+2752985199,Active Learning for Classification with Maximum Model Change,2017,54,10,7,0.0,2114430331,Wenbin Cai,0,0.003708468606338,0.082832279151172
+2767149104,On the use of the singular value decomposition for text retrieval - eScholarship,2000,0,0,2,1.0,1977730440,Parry Husbands,0,-0.21537081122240906,0.22512541931796853
+2776449696,Stable solution to l 21-based robust inductive matrix completion and its application in linking long noncoding RNAs to human diseases,2017,21,0,3,0.0,2097943093,Ashis Kumer Biswas,0,0.003708468606338,0.082832279151172
+2784922187,Joint Schatten $$$$-norm and $$ell _$$â„“-norm robust matrix comletion for missing value recovery,2013,17,0,1,1.0,2119616764,Chris Ding,0,1.2350652037173413,0.39061007574644036
+2912254832,Proceedings of the 2nd Workshop on Data Mining using Matrices and Tensors,2009,0,0,1,1.0,2119616764,Chris Ding,0,-0.4408097375184461,1.718319485675415
+2916602686,Data Mining using Matrices and Tensors (DMMT09),2009,79,0,1,1.0,2119616764,Chris Ding,0,0.003708468606338,0.082832279151172
+2951635111,Bipartite graph partitioning and data clustering,2001,5,1,3,0.0,2099091510,Hongyuan Zha,0,-0.6340815708799399,0.5169744338385943
+2959613672,Harmonic Mean Linear Discriminant Analysis,2019,54,8,2,1.0,2333063442,Shuai Zheng,0,0.003708468606338,0.082832279151172
+2590681262,Preface the eighth workshop on optimization based techniques for emerging data mining problems (OEDM),2013,0,0,8,0.0,423679732,Wanpracha Art Chaovalitwongse,0,0.003708468606338,0.082832279151172
+2917300136,Extended adaptive Lasso for multi-class and multi-label feature selection,2019,41,3,4,0.0,2936683051,Si Bao Chen,0,-0.17044362571448782,-0.10049076629472949

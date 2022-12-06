@@ -1,0 +1,40 @@
+56918557,Requirements for Science Data Bases and SciDB,2009,19,156,4,0.0,1998938290,Michael Stonebraker,0,-0.27365118179949777,0.33067525490730165
+1510252230,Load shedding in a data stream manager,2003,16,534,5,0.666667,679539391,Nesime Tatbul,0,0.4184645470983872,-0.7036173679100631
+1791587242,C-store a column-oriented DBMS,2005,64,911,13,0.0,1998938290,Michael Stonebraker,0,1.8807322762223457,0.7576132399113342
+2009088535,Interactive data exploration using semantic windows,2014,21,43,3,1.0,2778237602,Alexander Kalinin,0,0.06635930819191084,0.49152641060504293
+1997332627,Retrospective on Aurora,2004,16,142,11,1.0,1998464616,Hari Balakrishnan,0,0.16782124802273696,0.2536234597393226
+1995773107,Borealis-R a replication-transparent stream processing system for wide-area monitoring applications,2008,6,14,4,0.333333,2760905887,Jeong Hyon Hwang,0,-0.42845202490949574,0.1450203979855267
+2026388869,Strategic directions in database systemsâ€”breaking out of the box,1996,2,68,1,1.0,2008359759,Stan Zdonik,0,0.19668698716957,0.23215793136051202
+2045947098,A*-tree a structure for storage and modeling of uncertain multidimensional arrays,2010,27,4,2,0.857143,2185270649,Tingjian Ge,0,-0.49368679274976585,0.2570742029982317
+2071847723,Database systemsâ€”breaking out of the box,1997,0,30,1,1.0,2008359759,Stan Zdonik,0,-0.22190091655789118,-0.3209118067960634
+2135032661,Answering aggregation queries in a secure system model,2007,23,93,2,0.631579,2185270649,Tingjian Ge,0,-0.0041099411153885,0.0447066884760059
+2115503987,The Design of the Borealis Stream Processing Engine,2005,49,1213,12,0.454545,2170206103,Daniel J. Abadi,0,-0.2604779221923832,-0.8100599136881583
+2118828104,Monitoring streams a new class of data management applications,2002,29,794,5,0.666667,679539391,Nesime Tatbul,0,0.25087424620461,-0.7108135908800189
+2112932438,DBIS-toolkit adaptable middleware for large scale data delivery,1999,6,38,6,0.0,2199071208,Mehmet Altinel,0,-0.4571133499288504,-0.5019283722027162
+2124988342,Distributed operation in the Borealis stream processing engine,2005,12,71,13,0.204035,2699773473,Yanif Ahmad,0,-0.768518592518131,-0.29443816332643097
+2128362607,The 8 requirements of real-time stream processing,2005,10,438,3,0.0,1998938290,Michael Stonebraker,0,-0.20133665475165913,-0.19110780330684465
+2107823752,Changing the rules transformations for rule-based optimizers,1998,16,28,2,0.296296,2003519162,Mitch Cherniack,0,-0.0041099411153885,0.0447066884760059
+2114258210,Top- k queries on uncertain data on score distribution and typical answers,2009,22,81,1,1.0,2008359759,Stan Zdonik,0,0.48014231162842824,-0.05806867391706744
+2147349901,A skip-list approach for efficiently processing forecasting queries,2008,27,23,2,0.692308,2185270649,Tingjian Ge,0,-0.49164157877521847,-0.6185923803721226
+2150397765,Window-aware load shedding for aggregation queries over data streams,2006,30,144,2,0.605915,679539391,Nesime Tatbul,0,0.007334245363849856,0.0884093997571545
+2171551987,Light-Weight Runtime Verification of Query Sources,2009,34,2,2,0.857143,2185270649,Tingjian Ge,0,0.7562847040635942,-0.10765214032337361
+2162553498,Operator scheduling in a data stream manager,2003,23,237,6,0.647059,2974690091,Don Carney,0,0.007334245363849856,0.0884093997571545
+2157022252,Towards a streaming SQL standard,2008,16,138,10,0.0,2775528291,Namit Jain,0,0.23219378138084618,0.012391378948845686
+2160068753,An automatic physical design tool for clustered column-stores,2013,21,12,2,0.0,1979136062,Alexander Rasin,0,1.0416873181684596,0.9011602835641412
+2163231231,Anti-caching a new approach to database management system architecture,2013,28,62,5,0.0,2038319145,Justin DeBrabant,0,-0.0041099411153885,0.0447066884760059
+2187405563,One Size Fits All - Part 2 Benchmarking Results,2007,17,53,4,0.0,1227713778,John Lifter,0,0.8818883915646806,0.42561381086246075
+2164128653,Scalable Distributed Stream Processing,2003,17,489,6,0.296296,2003519162,Mitch Cherniack,0,-0.0041099411153885,0.0447066884760059
+2146407113,â€œData in your faceâ€ push technology in perspective,1998,13,226,1,1.0,2008359759,Stan Zdonik,0,-0.0041099411153885,0.0447066884760059
+2158460713,Providing resiliency to load variations in distributed stream processing,2006,20,108,4,0.0,2167499646,Ying Xing,0,-0.0041099411153885,0.0447066884760059
+2149576945,Aurora a new model and architecture for data stream management,2003,31,1378,9,0.454545,2170206103,Daniel J. Abadi,0,-0.10022027321948469,-0.42222548714105584
+2171145370,Staying FIT efficient load shedding techniques for distributed stream processing,2007,21,120,3,0.605915,679539391,Nesime Tatbul,0,-0.0041099411153885,0.0447066884760059
+2266823300,An architecture for compiling UDF-centric workflows,2015,37,42,7,0.0,2002386429,Andrew Crotty,0,0.227724135760084,0.2619498916037593
+2250335649,Searchlight enabling integrated search and exploration over large multidimensional data,2015,25,23,3,1.0,2778237602,Alexander Kalinin,0,-0.057055493456595364,0.20498308140171528
+2406661182,DATA CURATION SYSTEM WITH VERSION CONTROL FOR WORKFLOW STATES AND PROVENANCE,2015,8,5,4,0.0,974729037,George Beskales,0,-0.03456895769415114,0.08598316155083514
+2425982943,Interactive Search and Exploration of Waveform Data with Searchlight,2016,7,0,3,1.0,2778237602,Alexander Kalinin,0,-0.27365118179949777,0.33067525490730165
+2485234578,The Aurora and Borealis Stream Processing Engines,2016,13,17,15,0.0,11059210,Ugur Cetintemel,0,0.5098799609193442,0.42767421287971297
+2620512317,Message from the general chairs and program chairs,2004,0,0,3,0.0,1964963541,Betty Salzberg,0,-0.0041099411153885,0.0447066884760059
+2754950504,Towards Dynamic Data Placement for Polystore Ingestion,2017,23,0,4,0.0,2307212879,Jiang Du,0,0.07717978834452721,0.00031769680775239895
+2902138558,Databases meet the stream processing era,2019,0,0,2,0.0,2345141441,Magdalena Balazinska,0,-0.0041099411153885,0.0447066884760059
+2918038731,FastDAWG Improving Data Migration in the BigDAWG Polystore System,2018,17,0,3,0.0,2128284562,Xiangyao Yu,0,0.26145152292877544,-0.28274796293009113
+2911411187,Proceedings of the 2009 ACM SIGMOD International Conference on Management of data,2009,0,0,3,0.0,11059210,Ugur Cetintemel,0,0.18601297105691045,-0.0008472885667257998

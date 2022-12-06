@@ -1,0 +1,75 @@
+188172877,A Framework for Evaluation and Exploration of Clustering Algorithms in Subspaces of High Dimensional Databases,2011,36,4,2,0.444294,2112493600,Emmanuel MÃ¼ller,0,-0.3353944798684634,2.2723406005357916
+206885600,DensEst Density Estimation for Data Mining in High Dimensional Spaces,2009,18,32,2,0.737705,2112493600,Emmanuel MÃ¼ller,0,-0.552161304310079,2.6185612374603404
+20513064,Proceedings of the 4th MultiClust Workshop on Multiple Clusterings Multi-view Data and Multi-source Knowledge-driven Clustering,2013,0,1,2,0.0,45678088,Carlotta Domeniconi,0,-0.5153116727473608,2.414485719183636
+59549118,Subspace outlier mining in large multimedia databases,2007,31,5,1,1.0,145164693,Ira Assent,0,-1.000450365787675,3.592773121396067
+60432172,SubClass classification of multidimensional noisy data using subspace clusters,2008,22,4,1,1.0,145164693,Ira Assent,0,0.05424004613290756,0.03940957800548278
+112228497,Local outlier detection with interpretation,2013,31,30,3,0.389591,1964285635,Xuan Hong Dang,0,0.20279561436658805,0.0753070172078775
+150715854,AnyOut anytime outlier detection on streaming data,2012,48,52,1,1.0,145164693,Ira Assent,0,-0.12976905043814538,0.41460114025970857
+1571418258,Pleiades Subspace Clustering and Evaluation,2008,12,7,1,1.0,145164693,Ira Assent,0,-0.46323799830557183,1.8558736230100488
+1547696260,HSM Heterogeneous Subspace Mining in High Dimensional Data,2009,20,13,2,0.737705,2112493600,Emmanuel MÃ¼ller,0,-0.2506683923107856,0.4389769410957188
+1837018088,Data Mining For Robust Flight Scheduling,2009,32,0,1,1.0,145164693,Ira Assent,0,0.003708468606338,0.082832279151172
+1803124022,Efficient processing of multiple DTW queries in time series databases,2011,34,10,4,0.0,2130568417,Hardy Kremer,0,0.13765557846368326,0.9156874896682209
+1599605815,An unbiased distance-based outlier detection approach for high-dimensional data,2011,15,25,3,0.0,2150437310,Hoang Vu Nguyen,0,-0.05799911426620571,0.8842237551258223
+1898840949,Advances in spatial and temporal databases 11th International Symposium SSTD 2009 Aalborg Denmark July 8-10 2009 proceedings,2009,0,1,2,0.0,18851973,Nikos Mamoulis,0,-0.17112833128209173,-0.009500545368611168
+1982099263,From stars to galaxies skyline queries on aggregate data,2013,22,18,2,0.0,2776191424,Matteo Magnani,0,-0.19364225767893342,-0.14127909534727312
+1966836840,Explaining Outliers by Subspace Separability,2013,28,47,4,0.714286,20146914,Barbora MicenkovÃ¡,0,0.41769031840138576,0.8808778443208866
+1982685371,Morpheus interactive exploration of subspace clustering,2008,9,27,2,0.737705,2112493600,Emmanuel MÃ¼ller,0,0.23160307483104825,1.3445867262100124
+1975852288,The ClusTree indexing micro-clusters for anytime stream mining,2011,35,152,2,0.142857,2008431275,Philipp Kranen,0,-0.462923606676714,1.3495636391209307
+1972866788,Detecting outliers on arbitrary data streams using anytime approaches,2010,27,6,1,1.0,145164693,Ira Assent,0,-0.26132462825956965,0.8362044308777745
+1989545013,Clustering multidimensional sequences in spatial and temporal databases,2008,20,14,1,1.0,145164693,Ira Assent,0,-0.41294687483775255,0.6094411749975526
+2005546755,Taking the Big Picture representative skylines based on significance and diversity,2014,58,21,2,0.0,2776191424,Matteo Magnani,0,0.04058852858681295,-0.03346779459016044
+2002075846,Outlier Ranking via Subspace Analysis in Multiple Views of the Data,2012,29,48,2,0.376976,2112493600,Emmanuel MÃ¼ller,0,0.003708468606338,0.082832279151172
+2008165818,Pattern detector fast detection of suspicious stream patterns for immediate reaction,2010,13,5,1,1.0,145164693,Ira Assent,0,0.003708468606338,0.082832279151172
+2024081861,The TS-tree efficient time series search and retrieval,2008,30,63,1,1.0,145164693,Ira Assent,0,-0.37186074526341006,0.4807589440247403
+2021217378,Hashcube A Data Structure for Space- and Query-Efficient Skycube Compression,2014,12,6,4,0.0,2033707615,Kenneth S. BÃ¸gh,0,0.04058852858681295,-0.03346779459016044
+2016441722,Clustering high dimensional data,2012,53,55,1,1.0,145164693,Ira Assent,0,-0.8991696434000542,3.131621893823994
+2045921448,Efficient EMD-based similarity search in multimedia databases via flexible dimensionality reduction,2008,18,46,2,0.0,121986162,Marc Wichterich,0,-0.3651366802046125,0.08258813543263895
+2054807817,Scalable density-based subspace clustering,2011,32,18,2,0.444294,2112493600,Emmanuel MÃ¼ller,0,-0.8415883870563021,3.0588234035369624
+2049825428,SkyView a user evaluation of the skyline operator,2013,28,10,2,0.0,2776191424,Matteo Magnani,0,-0.007183745587887619,0.10600071434142327
+2039848804,An Index-Inspired Algorithm for Anytime Classification on Evolving Data Streams,2012,32,1,2,0.142857,2008431275,Philipp Kranen,0,-0.3234807852817447,0.2556672981683869
+2067092965,Discriminative features for identifying and interpreting outliers,2014,39,48,2,0.389591,1964285635,Xuan Hong Dang,0,0.20279561436658805,0.0753070172078775
+2102587180,Efficient caching for constrained skyline queries,2015,22,3,3,0.818182,2294063344,Michael Lind Mortensen,0,0.04058852858681295,-0.03346779459016044
+2082244270,Indexing density models for incremental learning and anytime classification on data streams,2009,33,34,2,0.0,2140301036,Thomas Seidl,0,0.49228405652885626,0.3519762336238786
+2102880413,Clicks An effective algorithm for mining subspace clusters in categorical datasets,2007,21,64,3,0.0,2165917828,Mohammed J. Zaki,0,-0.21934185016841626,0.6056873083074126
+2082737904,Efficient similarity search using the Earth Movers Distance for large multimedia databases,2008,15,33,1,1.0,145164693,Ira Assent,0,-0.22205240695846498,-0.13090750934943304
+2097703350,Frequent Pattern Mining Algorithms for Data Clustering,2014,85,6,2,0.0,242745652,Arthur Zimek,0,-0.557395181641072,2.6311716876359563
+2097933912,OutRank ranking outliers in high dimensional data,2008,8,55,2,0.737705,2112493600,Emmanuel MÃ¼ller,0,0.19361653956619546,-0.051275674223734684
+2101319014,Approximation Techniques for Indexing the Earth Mover&amp;#146;s Distance in Multimedia Databases,2006,29,55,1,1.0,145164693,Ira Assent,0,-0.13275296294680305,-0.071629888206014
+2090287317,VISA visual subspace clustering analysis,2007,26,43,1,1.0,145164693,Ira Assent,0,-0.8329502778820542,2.9986694125766715
+2083607096,External evaluation measures for subspace clustering,2011,21,40,4,0.163043,316694267,Stephan GÃ¼nnemann,0,-0.23024001869072624,1.9658137203410804
+2117355841,Evaluating clustering in subspace projections of high dimensional data,2009,33,169,3,0.737705,2112493600,Emmanuel MÃ¼ller,0,-0.6621201839625493,2.525387253040436
+2117357454,Actively Building Private Recommender Networks for Evolving Reliable Relationships,2009,19,6,1,1.0,145164693,Ira Assent,0,0.08329114195231535,0.32893178638165566
+2111608261,Efficient multi-step query processing for EMD-based similarity,2006,16,0,1,1.0,145164693,Ira Assent,0,-0.027822679369164938,-0.20583211436601936
+2126611302,Self-Adaptive Anytime Stream Clustering,2009,27,56,2,0.142857,2008431275,Philipp Kranen,0,-0.18433056550625376,1.7264497699537296
+2106261787,On the Suitability of Skyline Queries for Data Exploration,2014,11,8,3,0.818182,2167628457,Sean Chester,0,0.35940507675437694,-0.06455151534138777
+2121186986,Anticipatory DTW for efficient similarity search in time series databases,2009,31,46,1,1.0,145164693,Ira Assent,0,-0.1984714131877254,-0.08331523624254955
+2136115924,Mining and representing recommendations in actively evolving recommender systems,2010,27,0,1,1.0,145164693,Ira Assent,0,-0.24408556170891427,0.37518048090212314
+2109746343,INSCY Indexing Subspace Clusters with In-Process-Removal of Redundancy,2008,8,75,1,1.0,145164693,Ira Assent,0,0.39473212729106383,1.017561454262338
+2140439590,Relevant Subspace Clustering Mining the Most Interesting Non-redundant Concepts in High Dimensional Data,2009,21,71,2,0.737705,2112493600,Emmanuel MÃ¼ller,0,0.30800663604647693,1.178990875378663
+2144134823,Outsourced Similarity Search on Metric Data Assets,2012,31,80,2,0.0,2081368286,Man Lung Yiu,0,-0.1984714131877254,-0.08331523624254955
+2180809530,Effiziente Ã¤hnlichkeitssuche und Data Mining in groÃŸen Multimediadatenbanken,2010,0,0,1,1.0,145164693,Ira Assent,0,-0.33968858983083244,-0.2999862223367913
+2174573294,Outlier Detection and Ranking Based on Subspace Clustering,2008,6,5,3,0.0,2140301036,Thomas Seidl,0,-0.06397360425488743,0.7953100262918549
+2167091752,DUSC Dimensionality Unbiased Subspace Clustering,2007,12,108,1,1.0,145164693,Ira Assent,0,-0.8329502778820542,2.9986694125766715
+2185135628,Learning Outlier Ensembles The Best of Both Worlds - Supervised and Unsupervised,2014,14,17,2,0.714286,20146914,Barbora MicenkovÃ¡,0,0.20103367994820723,0.6742736891773426
+2146442966,CLICKS an effective algorithm for mining subspace clusters in categorical datasets,2005,23,24,3,0.0,2165917828,Mohammed J. Zaki,0,-0.21934185016841626,0.6056873083074126
+2170581471,Spatial Multidimensional Sequence Clustering,2006,14,3,1,1.0,145164693,Ira Assent,0,-0.7297384591838179,2.0207140858702517
+2253411494,Advanced Data Mining Algorithms,2008,0,0,1,1.0,145164693,Ira Assent,0,-0.0769353016057025,-0.2600287055078183
+2202506051,Incremental Learning of Medical Data for Multi-Step Patient Health Classification,2010,0,2,1,1.0,145164693,Ira Assent,0,0.003708468606338,0.082832279151172
+2296041163,Explanations for Skyline Query Results,2015,27,5,2,0.818182,2167628457,Sean Chester,0,-0.11683081699020399,-0.028264369414178796
+2282861635,On the evaluation of unsupervised outlier detection measures datasets and an empirical study,2016,65,170,7,0.0,2632658677,Guilherme Oliveira Campos,0,0.20279561436658805,0.0753070172078775
+2411003377,Efficient Density-Based Subspace Clustering in High Dimensions,2012,19,2,1,1.0,145164693,Ira Assent,0,-0.9267081520893901,3.4404608095580627
+2380172038,AnyDBC An Efficient Anytime Density-based Clustering Algorithm for Very Large Complex Datasets,2016,20,24,2,1.0,2650155944,Son T. Mai,0,-1.2917702480809838,2.2062492906449425
+2402711162,Maximum Coverage Representative Skyline,2016,7,5,3,0.0,2407768363,Malene SÃ¸holm,0,0.04058852858681295,-0.03346779459016044
+2482293787,MultiClust 2013 Multiple Clusterings Multiview Data and Multisource Knowledgedriven Clustering [Workshop Report],2016,12,0,1,1.0,145164693,Ira Assent,0,-0.21934185016841626,0.6056873083074126
+2537041094,Data Mining for Business Applications,2009,0,0,1,1.0,145164693,Ira Assent,0,-0.03000163698107844,-0.5335651980545955
+2519137675,On the Evaluation of Outlier Detection Measures Datasets and an Empirical Study Continued,2016,1,1,2,0.538462,20146914,Barbora MicenkovÃ¡,0,0.20279561436658805,0.0753070172078775
+2622750247,OpenSubspace An Open Source Framework for Evaluation and Exploration of Subspace Clustering Algorithms in WEKA,2009,0,21,1,1.0,145164693,Ira Assent,0,-0.538447670699222,2.6768132407096545
+2622752164,Evaluating Clustering in Subspace Projections of High Dimensional Data,2009,0,42,3,0.737705,2112493600,Emmanuel MÃ¼ller,0,-0.4596178353338706,1.5573789230977408
+2596197203,Alternative clustering in subspace projections,2015,0,0,2,0.0,2015027442,Ines FÃ¤rber,0,-0.6770038425946369,2.1715315384835607
+2740552106,Interactive Exploration of Subspace Clusters for High Dimensional Data,2017,20,1,3,0.0,2481664813,Jesper Torp Kristensen,0,-0.3394240906228752,1.2378106158588456
+2741560259,multi-step query processing for EMD-based similarity,2006,14,0,1,1.0,145164693,Ira Assent,0,-0.16980408394460125,-0.17863322552842936
+2800142148,Scalable Interactive Dynamic Graph Clustering on Multicore CPUs,2019,27,6,3,0.506723,2650155944,Son T. Mai,0,-0.4001615559256555,1.2121233717810873
+2797642099,Anytime parallel density-based clustering,2018,54,5,2,0.506723,2650155944,Son T. Mai,0,-0.5796204206690942,1.6678566634160565
+2891221453,Synchronization-based clustering on evolving data stream,2019,40,9,6,0.0,2109747452,Junming Shao,0,-0.21892615613754504,0.5923622113437262
+2906808194,Using Balancing Terms to Avoid Discrimination in Classification,2018,32,0,2,0.0,2908227666,Simon Enni,0,0.36433078059321505,0.12957265962184872
+3005969452,TextBenDS a Generic Textual Data Benchmark for Distributed Systems,2020,51,0,5,0.0,3012496573,Ciprian Octavian TruicÄƒ,0,-0.24152537719123385,0.17382560741880643

@@ -1,0 +1,74 @@
+171019474,Extracting Relations from XML Documents,2003,15,6,3,0.0,2283615530,Eugene Agichtein,0,-2.8371965121361162,-0.3274230491792143
+967523937,Query classification and selection of associated advertising information,2007,2,9,1,1.0,344688379,Vanja Josifovski,0,-0.01657107088421793,0.035389748403282274
+1553083514,Query evaluation using ancestor information,2011,36,10,1,1.0,344688379,Vanja Josifovski,0,0.1656019551103819,0.40049106199639006
+1537378447,Integrating Heterogenous Overlapping Databases through Object-Oriented Transformations,1999,17,40,1,1.0,344688379,Vanja Josifovski,0,-0.0395804122397981,0.0068802457672825015
+1537857163,System and method of feature selection for text classification using subspace sampling,2007,6,4,1,1.0,344688379,Vanja Josifovski,0,0.1196886985743213,0.1939449373646738
+1504528360,A Compression Framework for Generating User Profiles,2010,4,5,1,1.0,344688379,Vanja Josifovski,0,-0.31429003493656954,0.46309890269130877
+1596568456,Statistical learning techniques for costing XML queries,2005,22,64,3,0.0,3017915367,Ning Zhang,0,-0.8406757463305865,0.250366610777701
+1846473809,System and method to facilitate classification and storage of events in a network,2007,51,10,1,1.0,344688379,Vanja Josifovski,0,0.003708468606338,0.082832279151172
+1579610233,Method for estimating the cost of query processing,2005,14,36,1,1.0,344688379,Vanja Josifovski,0,-1.1800226010489792,0.3097737950317536
+1719639935,ROX relational over XML,2004,15,40,2,0.0,2040370899,Alan Halverson,0,-2.3874151792648473,-0.30720992532424657
+1970972959,Taxonomy discovery for personalized recommendation,2014,17,35,3,0.0,2462785460,Yuchen Zhang,0,0.08329114195231535,0.32893178638165566
+1971389588,Supercharging recommender systems using taxonomies for learning user purchase behavior,2012,27,56,4,1.0,311418139,Bhargav Kanagal,0,0.8156026113181287,0.991737618753844
+1980176056,Annotating Needles in the Haystack without Looking Product Information Extraction from Emails,2015,49,16,4,0.0,2527611484,Weinan Zhang,0,0.14792604795779601,0.23613039587697016
+1998201371,Finding the right consumer optimizing for conversion in display advertising campaigns,2012,20,16,4,0.0,2309858515,Yandong Liu,0,0.003708468606338,0.082832279151172
+1991898874,Translating relevance scores to probabilities for contextual advertising,2009,15,11,3,0.294118,2591515730,Deepak Agarwal,0,0.6150114821837516,-0.3905287804184799
+1990590523,Retrieval models for audience selection in display advertising,2011,18,18,4,0.0,2153562969,Sarah K. Tyler,0,-0.2087388146698831,-2.466918258932542
+2026719486,User modeling for web applications,2011,0,2,2,0.0,2088014474,David Carmel,0,-0.1971083489457226,-1.7125712736072056
+2028961124,Supporting sub-document updates and queries in an inverted index,2008,26,46,2,0.0,293843641,Vuk Ercegovac,0,0.3531040014101039,0.5049572131056808
+2011384577,Bid generation for advanced match in sponsored search,2011,13,18,3,0.108805,1970098533,Andrei Z. Broder,0,0.003708468606338,0.082832279151172
+2014930052,Report on the EDBT02 panel on scientific data integration,2002,9,14,4,0.0,2304910789,Omar Boucelma,0,0.5776024019645791,-1.2436462673831359
+2029036662,Garlic a new flavor of federated query processing for DB2,2002,8,120,1,1.0,344688379,Vanja Josifovski,0,-1.1707283634889871,0.43623547024338116
+2020559184,SQL and management of external data,2001,0,67,3,0.0,2157948640,Jim Melton,0,-0.9889922743601703,0.18747314858649036
+2047119090,Focused matrix factorization for audience selection in display advertising,2013,26,20,4,1.0,311418139,Bhargav Kanagal,0,0.8488349018469125,0.2680636413774314
+2053135957,Automatic generation of bid phrases for online advertising,2010,35,66,4,0.0,2590734359,Sujith Ravi,0,-0.1626858259763129,-2.469263836333502
+2042748373,Competing for users attention on the interplay between organic and sponsored search results,2010,17,29,4,0.0,160157097,Cristian Danescu Niculescu Mizil,0,0.003708468606338,0.082832279151172
+2062723323,Scalable K-Means by ranked retrieval,2014,33,31,3,0.105562,1970098533,Andrei Z. Broder,0,0.0025934868146820778,1.3168485175087383
+2071488943,Estimating rates of rare events at multiple resolutions,2007,14,49,5,0.294118,2591515730,Deepak Agarwal,0,-0.406818173160694,-0.8084213374138726
+2077179418,SQL/MED a status report,2002,1,20,1,1.0,344688379,Vanja Josifovski,0,-0.8305138529066574,0.2743491781389302
+2061760029,Learning to Extract Local Events from the Web,2015,38,20,3,0.0,2893264048,John Foley,0,0.5409345695534576,-0.7114340745257445
+2056705371,Optimizing relevance and revenue in ad search a query substitution approach,2008,23,103,5,0.0,2072292845,Filip Radlinski,0,0.003708468606338,0.082832279151172
+2070895734,System RX one part relational one part XML,2005,33,131,3,0.0,2273214336,Kevin Scott Beyer,0,-2.5418642992734375,-0.31388984159898414
+2074460539,Information retrieval challenges in computational advertising,2010,0,3,3,0.115383,1970098533,Andrei Z. Broder,0,-0.16507692778528446,-0.011905719463757994
+2076499875,A note on search based forecasting of ad volume in contextual advertising,2008,1,1,4,0.8,2152778655,Xuerui Wang,0,0.003708468606338,0.082832279151172
+2096495424,Super-fast XML wrapper generation in DB2 a demonstration,2003,3,11,1,1.0,344688379,Vanja Josifovski,0,-2.5413699657462443,-0.3028331092951599
+2099422090,Latent factor models with additive and hierarchically-smoothed user preferences,2013,20,27,4,0.154012,2259645355,Amr Ahmed,0,1.5428061382610074,0.8841990024733579
+2099678653,Optimizing cursor movement in holistic twig joins,2005,22,44,2,0.617647,2151979873,Marcus Fontoura,0,-1.5202563800792344,-0.1796821885709709
+2094036699,Efficiently evaluating graph constraints in content-based publish/subscribe,2011,22,3,5,0.108805,1970098533,Andrei Z. Broder,0,-0.13275296294680305,-0.071629888206014
+2098876286,Robust classification of rare queries using web knowledge,2007,23,170,5,0.147019,1970098533,Andrei Z. Broder,0,-0.07907288081916711,-0.9759601916410094
+2087084609,Cross-language query classification using web search for exogenous knowledge,2009,23,7,4,0.8,2152778655,Xuerui Wang,0,0.2650216709970439,0.038825274807547924
+2123198781,Search advertising using web relevance feedback,2008,51,103,5,0.147019,1970098533,Andrei Z. Broder,0,0.6066616852252525,-1.6834346658492574
+2117423367,Contextual advertising by combining relevance with click feedback,2008,22,133,3,0.0,2189524569,Deepayan Chakrabarti,0,-0.0031083031663548004,-0.30935013801880873
+2132245354,Generalized link suggestions via web site clustering,2011,27,6,4,0.0,2100904463,Jangwon Seo,0,-0.264536483461632,-2.234316683176246
+2129467756,An evaluation of binary xml encoding optimizations for fast stream based xml processing,2004,19,83,3,0.0,2101064966,Roberto J. Bayardo,0,-2.850871207316258,-0.29839270436325965
+2124108136,Measuring the reusability of test collections,2010,17,19,3,0.0,2645247999,Ben Carterette,0,0.003708468606338,0.082832279151172
+2121152256,Relaxation in text search using taxonomies,2008,38,16,2,0.789474,2151979873,Marcus Fontoura,0,-0.16507692778528446,-0.011905719463757994
+2139273454,Online expansion of rare queries for sponsored search,2009,33,98,4,0.132906,1970098533,Andrei Z. Broder,0,-0.11300819442795465,0.09518744858596301
+2142534468,Scalable distributed inference of dynamic user interests for behavioral targeting,2011,31,137,4,0.154012,2259645355,Amr Ahmed,0,-0.17536238923574604,0.4144853997593385
+2118965172,Feature selection methods for text classification,2007,41,124,4,0.0,2955993420,Anirban Dasgupta,0,-0.025136315868969732,-0.030920891000099444
+2113095271,The anatomy of an ad structured indexing and retrieval for sponsored search,2010,35,11,3,0.133667,2112702096,Michael Bendersky,0,-0.13275296294680305,-0.071629888206014
+2116163449,To swing or not to swing learning when (not) to advertise,2008,31,51,5,0.147019,1970098533,Andrei Z. Broder,0,0.003708468606338,0.082832279151172
+2133960921,What happens after an ad click quantifying the impact of landing pages in web advertising,2009,19,22,4,0.0,2096763843,Hila Becker,0,0.8999699695142227,-3.5526832383169658
+2107610599,Querying XML data sources in DB2 the XML wrapper,2003,7,3,1,1.0,344688379,Vanja Josifovski,0,-2.399568558349525,-0.2761363466063392
+2117071212,Top-k publish-subscribe for social annotation of news,2013,22,37,4,0.0,301948353,Alexander Shraer,0,-0.22889734127990344,-1.7199761911427611
+2137865506,Estimating advertisability of tail queries for sponsored search,2010,25,21,4,0.768729,2137133237,Sandeep Pandey,0,0.003708468606338,0.082832279151172
+2111313623,Exploiting site-level information to improve web search,2010,16,14,3,0.115383,1970098533,Andrei Z. Broder,0,-0.20024368154747138,-3.1757353404667974
+2168467811,Nearest-neighbor caching for content-match applications,2009,22,52,4,0.768729,2137133237,Sandeep Pandey,0,-0.1984714131877254,-0.08331523624254955
+2147896987,Just-in-time contextual advertising,2007,28,67,4,0.0,2136686850,Aris Anagnostopoulos,0,-0.1399825362700103,-2.8794956276487027
+2145431474,Scalable view expansion in a peer mediator system,2003,23,13,2,0.0,268494036,Timour Katchaounov,0,0.11672415509507165,0.0338187686908989
+2154707336,Estimating corpus size via queries,2006,14,60,3,0.145979,1970098533,Andrei Z. Broder,0,0.003708468606338,0.082832279151172
+2164295002,Using landing pages for sponsored search ad selection,2010,30,40,4,0.0,2133417374,Yejin Choi,0,0.003708468606338,0.082832279151172
+2158801982,Classifying search queries using the Web as a source of knowledge,2009,38,50,5,0.578947,1804802447,Evgeniy Gabrilovich,0,-0.07907288081916711,-0.9759601916410094
+2158911502,Efficiently encoding term co-occurrences in inverted indexes,2011,28,10,3,0.682806,2151979873,Marcus Fontoura,0,0.27758728671572724,0.784519714190172
+2243483484,Identification of related bid phrases and categories using co-bidding information,2009,2,6,1,1.0,344688379,Vanja Josifovski,0,-0.5612407480774857,1.1684141618932842
+2255862008,Hierarchical Label Propagation and Discovery for Machine Generated Email,2016,23,21,4,0.0,1978345989,James B. Wendt,0,-0.6890007256720837,-0.060340109123813455
+2304123389,Systems and Methods for Building a Prediction Model to Predict a Degree of Relevance Between Digital Ads and a Search Query or Webpage Content,2008,0,4,1,1.0,344688379,Vanja Josifovski,0,0.003708468606338,0.082832279151172
+2304874906,Using External Sources for Sponsored Search AD Selection,2010,31,1,1,1.0,344688379,Vanja Josifovski,0,-0.13275296294680305,-0.071629888206014
+2285738418,Systems and Methods for Predicting a Degree of Relevance Between Digital Ads and a Search Query,2008,5,1,1,1.0,344688379,Vanja Josifovski,0,0.003708468606338,0.082832279151172
+2295820528,Evaluation Strategies for Top-k Queries over Memory-Resident Inverted Indexes,2011,23,45,2,0.682806,2151979873,Marcus Fontoura,0,0.003708468606338,0.082832279151172
+2404571203,System and Method for Estimating an Amount of Traffic Associated with a Digital Advertisement,2007,4,6,1,1.0,344688379,Vanja Josifovski,0,0.137894550983587,-0.09646013434435859
+2562816073,CLASSIFYING DOCUMENTS BY CLUSTER,2016,32,7,2,0.0,259240390,Ivo Krka,0,0.003708468606338,0.082832279151172
+2615625296,Generating and applying event data extraction templates,2014,57,6,1,1.0,344688379,Vanja Josifovski,0,0.2120537183900477,-0.07168370588315305
+2612270749,Generating and applying data extraction templates,2014,58,7,1,1.0,344688379,Vanja Josifovski,0,0.003708468606338,0.082832279151172
+2914104258,Proceedings of the Ninth ACM International Conference on Web Search and Data Mining,2016,0,0,1,1.0,344688379,Vanja Josifovski,0,0.003708468606338,0.082832279151172
+2950549866,Factorization-based Lossless Compression of Inverted Indices,2011,23,1,5,0.0,974729037,George Beskales,0,0.6642631993651279,0.8704818474401211

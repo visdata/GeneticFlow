@@ -1,0 +1,65 @@
+88849960,Check My Profile Leveraging Static Analysis for Fast and Accurate Detection of ROP Gadgets,2013,44,11,5,0.0,2537982966,Blaine Stancill,0,-1.0590769071379882,1.1882291156059595
+1538332098,Counterfeit Object-oriented Programming On the Difficulty of Preventing Code Reuse Attacks in C++ Applications,2015,50,172,4,0.0,1964797733,Felix Schuster,0,-0.3298717486468034,1.2192927984572213
+1631846088,Stitching the gadgets on the ineffectiveness of coarse-grained control-flow integrity protection,2014,29,174,1,1.0,2102726817,Lucas Davi,0,-0.3781746061245683,0.5397696503028828
+1605557845,Readactor Practical Code Randomization Resilient to Memory Disclosure,2015,53,131,4,0.0,2137294177,Stephen Crane,0,0.0040557659796233,0.2757546058061082
+1844720873,Code-Reuse Attacks and Defenses,2015,0,7,1,1.0,2102726817,Lucas Davi,0,-0.36184257684248056,1.1232104913328542
+1963947298,Just-In-Time Code Reuse On the Effectiveness of Fine-Grained Address Space Layout Randomization,2013,46,290,3,0.0,2159745255,Kevin Z. Snow,0,-0.6930973221018842,0.8934852992714646
+1976883562,Mobile Platform Security,2014,62,13,2,0.0,2383048336,Nadarajah Asokan,0,-0.32409323540744556,1.1528106569199716
+1982829328,ROPdefender a detection tool to defend against return-oriented programming attacks,2011,43,195,1,1.0,2102726817,Lucas Davi,0,-1.1180566081538228,0.5596738011988476
+2004877887,Gadge me if you can secure and efficient ad-hoc instruction-level randomization for x86 and ARM,2013,22,50,1,1.0,2102726817,Lucas Davi,0,-1.7098076498529065,-0.20586510068998562
+1989255032,Practical and lightweight domain isolation on Android,2011,26,161,2,0.625,1964698894,Sven Bugiel,0,-0.8050188282019902,1.6581817531682113
+1989734217,PSiOS bring your own privacy &amp; security to iOS devices,2013,18,32,2,0.357143,2035582089,Ralf Hund,0,-1.3721930698182816,1.7734739921660752
+2001978806,Losing Control On the Effectiveness of Control-Flow Integrity under Stack Attacks,2015,49,63,3,0.0,2172290114,Mauro Conti,0,-0.5507627615573311,1.524234358858592
+1996931407,Return-oriented programming without returns,2010,28,339,2,0.0,2639473500,Stephen Checkoway,0,-1.1845336834478517,1.1570543639328077
+2000553066,Beasty Memories The Quest for Practical Defense against Code Reuse Attacks,2014,5,0,2,0.0,2120420677,Ahmad Reza Sadeghi,0,-0.6374321313972565,0.7165519675208408
+2022413220,Its a TRaP Table Randomization and Protection against Function-Reuse Attacks,2015,37,66,6,0.0,2137294177,Stephen Crane,0,0.1639362940477497,0.6530314529854678
+2020926403,Poster control-flow integrity for smartphones,2011,8,3,1,1.0,2102726817,Lucas Davi,0,-1.3325026984974713,0.2029676555647352
+2014100320,Trusted virtual domains on OKL4 secure information sharing on smartphones,2011,17,6,1,1.0,2102726817,Lucas Davi,0,-0.32409323540744556,1.1528106569199716
+2033593513,Isomeron Code Randomization Resilient to (Just-In-Time) Return-Oriented Programming,2015,42,101,1,1.0,2102726817,Lucas Davi,0,-0.612171748871383,0.37625676701556804
+2048714945,XiOS Extended Application Sandboxing on iOS,2015,28,9,2,0.0,2422467118,Mihai Bucicoiu,0,0.1753952374271787,0.3328402554058554
+2062706277,Scalable trust establishment with software reputation,2011,17,5,2,0.625,1964698894,Sven Bugiel,0,-1.3721930698182816,1.7734739921660752
+2076895302,Securing Legacy Software against Real-World Code-Reuse Exploits Utopia Alchemy or Possible Future ,2015,50,9,1,1.0,2102726817,Lucas Davi,0,0.1639362940477497,0.6530314529854678
+2067673420,Poster the quest for security against privilege escalation attacks on android,2011,7,6,2,0.625,1964698894,Sven Bugiel,0,-0.4434031743531846,2.079300200039864
+2128171167,Hardware-Assisted Fine-Grained Control-Flow Integrity Towards Efficient Protection of Embedded Systems Against Software Exploitation,2014,20,69,1,1.0,2102726817,Lucas Davi,0,-0.17324153726119554,0.6587671663167594
+2153497135,Privilege escalation attacks on android,2010,23,349,1,1.0,2102726817,Lucas Davi,0,-0.6767272728196244,1.4454474245107303
+2303343386,Background and Evolution of Code-Reuse Attacks,2015,24,0,1,1.0,2102726817,Lucas Davi,0,-0.07997109784246925,0.6584313744421257
+2330650066,The Cybersecurity Landscape in Industrial Control Systems,2016,91,98,4,0.0,2606029679,Stephen E. Mclaughlin,0,-0.7111506847288263,1.3769312499728839
+2301356482,Leakage-Resilient Layout Randomization for Mobile Devices,2016,49,45,2,0.0,2661035126,Kjell Braden,0,-0.08743986464758112,0.649894604323323
+2401503174,Invited - Things trouble trust on building trust in IoT systems,2016,21,39,3,0.0,2490395676,Tigist Abera,0,-0.009822016602085093,1.2194034833198522
+2399034518,Towards Taming Privilege-Escalation Attacks on Android,2012,24,299,2,0.625,1964698894,Sven Bugiel,0,-0.38225726944572624,2.213966180067558
+2400364905,Building Secure Defenses Against Code-Reuse Attacks,2015,65,3,1,1.0,2102726817,Lucas Davi,0,0.0040557659796233,0.2757546058061082
+2409015667,Subversive-C abusing and protecting dynamic message dispatch,2016,40,8,6,0.0,2505956772,Julian Lettner,0,0.1639362940477497,0.6530314529854678
+2397986719,MoCFI A Framework to Mitigate Control-Flow Attacks on Smartphones,2012,28,115,1,1.0,2102726817,Lucas Davi,0,0.0040557659796233,0.2757546058061082
+2406423978,Strategy without tactics policy-agnostic hardware-enhanced control-flow integrity,2016,23,13,3,0.705882,2223172322,Dean Sullivan,0,0.1639362940477497,0.6530314529854678
+2516747684,SandBlaster Reversing the Apple Sandbox,2016,2,4,5,0.0,1609685955,Razvan Deaconescu,0,-0.7230602281471613,0.31981772154236066
+2559093667,CAnt Touch This Practical and Generic Software-only Defenses Against Rowhammer Attacks,2016,14,15,2,0.0,2227685748,Franz Ferdinand Brasser,0,0.1639362940477497,0.6530314529854678
+2532435403,SandScout Automatic Detection of Flaws in iOS Sandbox Profiles,2016,25,6,4,0.0,2396757799,Luke Deshotels,0,-0.8519278585719062,-0.09505515404874489
+2686866989,CFI CaRE Hardware-Supported Call and Return Enforcement for Commercial Microcontrollers,2017,34,15,3,0.0,2098955483,Thomas Nyman,0,-0.6567160340281432,1.3137850476034183
+2604546184,Execution Integrity with In-Place Encryption,2017,18,1,4,0.705882,2223172322,Dean Sullivan,0,0.155870422438688,-0.3611899258997246
+2612397603,PT-Rand Practical Mitigation of Data-only Attacks against Page Tables,2017,28,12,1,1.0,2102726817,Lucas Davi,0,0.0040557659796233,0.2757546058061082
+2612403404,Address Oblivious Code Reuse On the Effectiveness of Leakage Resilient Diversity,2017,42,24,9,0.0,2228794516,Robert Rudd,0,0.0040557659796233,0.2757546058061082
+2774731144,Breaking and Fixing Destructive Code Read Defenses,2017,41,2,3,0.0,103840519,Jannik Pewny,0,-0.6567160340281432,1.3137850476034183
+2751092112,CAnâ€™t Touch This Software-only Mitigation against Rowhammer Attacks targeting Kernel Memory,2017,0,27,2,0.75,2070523640,Christopher Liebchen,0,0.0040557659796233,0.2757546058061082
+2752493903,C-FLAT Control-Flow Attestation for Embedded Systems Software,2016,41,64,3,0.0,2490395676,Tigist Abera,0,-0.2049593192241892,0.40248983378817016
+2770897960,Hide and Seek Exploiting and Hardening Leakage-Resilient Code Randomization,2016,0,0,3,0.75,2070523640,Christopher Liebchen,0,0.20592142531282162,0.1314658803669279
+2784632333,CFI Goes Mobile Control-Flow Integrity for Smartphones,2011,0,0,3,0.0,1922185186,Manuel Egele,0,0.0040557659796233,0.2757546058061082
+2802174154,Over-the-air Cross-Platform Infection for Breaking mTAN-based Online Banking Authentication,2012,5,2,2,1.0,2070523640,Christopher Liebchen,0,-0.5530861437885858,-0.004176666300269333
+2784734199,Just-In-Time Code Reuse The More Things Change the More They Stay the Same,2013,0,0,3,0.0,126037460,Fabian Monrose,0,0.030723401937919226,0.42400600345500256
+2784849271,XManDroid A New Android Evolution to Mitigate Privilege Escalation Attacks,2011,23,208,2,0.625,1964698894,Sven Bugiel,0,-1.1250163545296072,1.8232744343274216
+2784920613,Over-the-air Cross-Platform Infection for Breaking mTAN-based Online Banking Authentication (White Paper),2012,0,0,2,1.0,2070523640,Christopher Liebchen,0,-0.5530861437885858,-0.004176666300269333
+2784933428,Just-In-Time Code Reuse On the Effectiveness of Fine-Grained Address Space Layout Randomization (best student paper award),2013,0,11,3,0.0,126037460,Fabian Monrose,0,0.030723401937919226,0.42400600345500256
+2792181598,K-Miner Uncovering Memory Corruption in Linux,2018,28,6,3,0.0,2559202375,David Gens,0,-0.6567160340281432,1.3137850476034183
+2801628249,The Beast is in Your Memory Return-Oriented Programming Attacks Against Modern Control-Flow Integrity Protection Techniques,2014,0,0,1,1.0,2102726817,Lucas Davi,0,-1.1180566081538228,0.5596738011988476
+2889224812,The guards dilemma efficient code-reuse attacks against intel SGX,2018,21,14,3,0.0,2790727157,Andrea Biondo,0,-0.6567160340281432,1.3137850476034183
+2901844028,CATT Practical and Generic Software-only Defenses Against Rowhammer Attacks,2016,0,0,2,0.75,2070523640,Christopher Liebchen,0,0.0040557659796233,0.2757546058061082
+2901926589,Things Trouble Trust On Building Trust in IoT Systems,2016,0,12,3,0.0,270906047,Farinaz Koushanfar,0,0.1822731046919942,0.706777145399998
+2905447857,Sereum Protecting Existing Smart Contracts Against Re-Entrancy Attacks,2018,19,7,4,0.0,2224235161,Michael Rodler,0,0.7100519011056311,0.7891553277891176
+2898907321,Special Session Advances and Throwbacks in Hardware-Assisted Security,2018,105,5,4,0.0,15962025,Setareh Rafatirad,0,-0.04756670155752207,-0.11183851768920303
+2903816962,PSiOS Bring Your Own Privacy &amp; Security to iOS Devices (Distinguished Paper Award),2013,0,1,2,0.357143,2035582089,Ralf Hund,0,0.0040557659796233,0.2757546058061082
+2903880611,Control Behavior Integrity for Distributed Cyber-Physical Systems,2018,0,0,5,0.352941,2293456673,Sridhar Adepu,0,-0.12394297335291972,0.5478323664716485
+2897417741,Advances and throwbacks in hardware-assisted security special session,2018,107,9,2,0.331761,2578938733,Ferdinand Brasser,0,-0.04756670155752207,-0.11183851768920303
+2949554525,CFI CaRE Hardware-supported Call and Return Enforcement for Commercial Microcontrollers,2017,8,0,3,0.0,2098955483,Thomas Nyman,0,-0.6567160340281432,1.3137850476034183
+2963465913,Sereum Protecting Existing Smart Contracts Against Re-Entrancy Attacks,2018,0,5,4,0.0,2224235161,Michael Rodler,0,0.0040557659796233,0.2757546058061082
+2970192082,Combining Safety and Security in Autonomous Cars Using Blockchain Technologies,2019,7,2,1,1.0,2102726817,Lucas Davi,0,0.1336581754324958,0.7891630394553072
+3026309498,Control Behavior Integrity for Distributed Cyber-Physical Systems,2020,0,0,5,0.352941,2293456673,Sridhar Adepu,0,-0.20545490062293015,0.2198759960986171
+3018869576,TeeRex Discovery and Exploitation of Memory Corruption Vulnerabilities in {SGX} Enclaves,2020,0,0,3,0.0,3018443877,Tobias Cloosters,0,-0.6567160340281432,1.3137850476034183

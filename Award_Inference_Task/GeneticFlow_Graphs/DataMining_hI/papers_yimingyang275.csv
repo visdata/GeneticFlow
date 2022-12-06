@@ -1,0 +1,64 @@
+136777956,TREC-3 Retrieval Evaluation Using Expert Network,1994,0,1,1,1.0,2159253281,Yiming Yang,0,0.5425788846098064,-0.3112104538651991
+162256,Von Mises-Fisher Clustering Models,2014,24,47,2,1.0,2128212913,Siddharth Gopal,0,-0.7402074626005046,0.15078777322060388
+4049984,An evaluation of computer assisted clinical classification algorithms,1994,2,10,3,0.333333,120305507,Christopher G. Chute,0,0.0479352496555245,0.18036496684044614
+49205724,An evaluation of statistical approaches to MEDLINE indexing,1996,0,42,1,1.0,2159253281,Yiming Yang,0,-0.13275296294680305,-0.071629888206014
+607194823,Regularization Framework for Large Scale Hierarchical Classification,2012,21,6,2,0.0,346128263,Alexandru Niculescu Mizil,0,0.003708468606338,0.082832279151172
+631972256,Transformation-based probabilistic clustering with supervision,2014,35,0,2,1.0,2128212913,Siddharth Gopal,0,-0.845788434997221,2.9354569554823784
+1523437227,Applying CLIR techniques to event tracking,2004,10,5,2,0.0,2327287336,Nianli Ma,0,-0.22018222138035248,-0.1453406575670998
+1482260847,A Study of Approaches to Hypertext Categorization,2002,25,301,1,1.0,2159253281,Yiming Yang,0,-0.09647754140998323,-1.6199215896347177
+1567441725,Information Filtering in TREC-9 and TDT-3 A Comparative Analysis,2002,15,12,1,1.0,2159253281,Yiming Yang,0,-0.008682300767978083,0.028725119875107338
+1603920809,The enron corpus a new dataset for email classification research,2004,10,644,2,0.0,2743352140,Bryan Klimt,0,0.9053730686405287,0.34784789680883876
+1604317414,Modeling Expected Utility of Multi-session Information Distillation,2009,12,31,1,1.0,2159253281,Yiming Yang,0,0.003708468606338,0.082832279151172
+1805475080,An application of least squares fit mapping to clinical classification,1992,0,17,2,0.0,120305507,Christopher G. Chute,0,-0.3727650314537153,-0.00664995884509325
+1590686500,kNN Rocchio and metrics for information filtering at TREC-10,2001,0,28,2,0.0,2809698780,Tom Ault,0,0.003708468606338,0.082832279151172
+1978985458,Corpus microsurgery criteria optimization for medical cross-language ir,2008,3,0,2,0.857143,268895093,Monica Rogati,0,-0.9611814023265808,0.702922419988586
+1979495886,A study of thresholding strategies for text categorization,2001,16,311,1,1.0,2159253281,Yiming Yang,0,0.6666467566941617,0.3732854816198473
+1968949570,Stochastic link and group detection,2002,8,71,4,0.0,2163222741,Jeremy Kubica,0,0.003708468606338,0.082832279151172
+1986913017,An example-based mapping method for text categorization and retrieval,1994,19,391,1,1.0,2159253281,Yiming Yang,0,0.4049909427709465,0.3385532541867873
+1972907467,Boosting to correct inductive bias in text classification,2002,24,41,2,0.0,2240541904,Yan Liu,0,1.8176468403062052,0.6686059078271699
+1978217401,Protein identification as an information retrieval problem,2009,6,0,1,1.0,2159253281,Yiming Yang,0,0.003708468606338,0.082832279151172
+1998224037,A study of retrospective and on-line event detection,1998,7,639,1,1.0,2159253281,Yiming Yang,0,-0.5703677331102005,0.7185060882309298
+2005422315,A re-examination of text categorization methods,1999,26,2265,1,1.0,2159253281,Yiming Yang,0,-0.18780225633167888,-0.3861444377258984
+1997530783,Hierarchical Bayesian Inference and Recursive Regularization for Large-Scale Classification,2015,37,7,2,1.0,2128212913,Siddharth Gopal,0,0.003708468606338,0.082832279151172
+2001071536,A unified optimization framework for auction and guaranteed delivery in online advertising,2012,7,13,3,0.0,344271865,Konstantin Salomatin,0,0.003708468606338,0.082832279151172
+2017109066,CiteData a new multi-faceted dataset for evaluating personalized search performance,2010,25,11,2,0.705882,1967260281,Abhay Harpale,0,0.8293506436321278,0.08059806816136583
+2025992023,Generalizing from relevance feedback using named entity wildcards,2007,12,5,2,0.666667,2128536523,Abhimanyu Lad,0,-0.332112896628021,0.08408291291900905
+2012102139,Improving text categorization methods for event tracking,2000,24,144,1,1.0,2159253281,Yiming Yang,0,0.4771566559868787,0.4426495227691018
+2025047573,Support vector machines classification with a very large-scale taxonomy,2005,19,208,2,0.0539358,2108341226,Tie Yan Liu,0,1.0381286948435444,0.6990767702794205
+2023607075,An experimental study on large-scale web categorization,2005,6,21,2,0.0539358,2108341226,Tie Yan Liu,0,0.8847546451673997,0.6540622977653574
+2029106006,Intelligent information retrieval,1999,0,21,1,1.0,2159253281,Yiming Yang,0,0.521654350891383,-0.3827840672925396
+2029296527,A scalability analysis of classifiers in text categorization,2003,18,164,1,1.0,2159253281,Yiming Yang,0,0.003708468606338,0.082832279151172
+2011727889,An evaluation of adaptive filtering in the context of realistic task-based information exploration,2008,37,28,7,0.0,2669503914,Daqing He,0,-0.019708968834437297,-0.2152767432223239
+2040241219,High-performing feature selection for text classification,2002,9,251,2,0.857143,268895093,Monica Rogati,0,0.6216559228988031,0.4028946212094201
+2049335773,Analysis of recursive feature elimination methods,2005,3,7,2,0.857143,2187357847,Fan Li,0,0.524023661738071,0.5253585440059807
+2044067411,Statistical Learning for File-Type Identification,2011,20,15,2,1.0,2128212913,Siddharth Gopal,0,0.19404960335233812,0.1229424382619297
+2049415635,Modeling personalized email prioritization classification-based and regression-based approaches,2011,22,10,2,0.571429,2132315744,Shinjae Yoo,0,0.42944049615182295,0.016798559008116314
+2049931505,Concept Graph Learning from Educational Data,2015,20,25,1,1.0,2159253281,Yiming Yang,0,-0.3022713245551363,0.22659840927251082
+2063198646,Expert network effective and efficient learning from human decisions in text categorization and retrieval,1994,15,385,1,1.0,2159253281,Yiming Yang,0,-0.4104618791544622,0.20888892225733252
+2065663334,Personalized active learning for collaborative filtering,2008,15,93,2,0.705882,1967260281,Abhay Harpale,0,0.023127181265850894,1.8698147835504013
+2058678235,Utility-based information distillation over temporally sequenced documents,2007,23,22,1,1.0,2159253281,Yiming Yang,0,0.003708468606338,0.082832279151172
+2079234336,Learning approaches for detecting and tracking news events,1999,22,318,1,1.0,2159253281,Yiming Yang,0,-0.5883660585452218,1.1144826127655059
+2103716650,Combining Multiple Learning Strategies for Effective Cross Validation,2000,0,51,1,1.0,2159253281,Yiming Yang,0,0.003708468606338,0.082832279151172
+2098766443,Robustness of adaptive filtering methods in a cross-benchmark evaluation,2005,11,47,1,1.0,2159253281,Yiming Yang,0,-0.21537081122240906,0.22512541931796853
+2092308481,Margin-based local regression for adaptive filtering,2003,14,9,1,1.0,2159253281,Yiming Yang,0,0.43162625009792,0.20195636031746017
+2099064293,A Probabilistic Model for Online Document Clustering with Application to Novelty Detection,2004,9,115,3,0.0,2569629010,Jian Zhang,0,-0.8291638474491466,0.6708484759055231
+2090756040,An application of least squares fit mapping to text information retrieval,1993,10,49,1,1.0,2159253281,Yiming Yang,0,0.18041493337420808,0.03164845023704741
+2131911893,Personalized Email Prioritization Based on Content and Social Network Analysis,2010,11,20,1,1.0,2159253281,Yiming Yang,0,-0.39460717007237056,1.2323502406122222
+2129049059,Recovering Genetic Regulatory Networks from Micro-Array Data and Location Analysis Data,2004,14,15,1,1.0,2159253281,Yiming Yang,0,0.5760962425526371,0.2829751339450473
+2114535528,An Evaluation of Statistical Approaches to Text Categorization,1999,19,1717,1,1.0,2159253281,Yiming Yang,0,0.0927158181333457,-0.18639696182324178
+2112521411,Protein Identification from Tandem Mass Spectra with Probabilistic Language Modeling,2009,19,2,1,1.0,2159253281,Yiming Yang,0,0.003708468606338,0.082832279151172
+2109679423,A loss function analysis for classification methods in text categorization,2003,8,65,2,0.857143,2187357847,Fan Li,0,0.4804196820036501,0.32264869112405054
+2143085547,Mining social networks for personalized email prioritization,2009,27,99,2,0.571429,2132315744,Shinjae Yoo,0,0.003708468606338,0.082832279151172
+2137165876,Recursive regularization for large-scale classification with hierarchical and graphical dependencies,2013,38,45,2,1.0,2128212913,Siddharth Gopal,0,0.0597908726731833,-0.2449448024264691
+2144398596,Bayesian models for Large-scale Hierarchical Classification,2012,20,36,2,1.0,2128212913,Siddharth Gopal,0,0.003708468606338,0.082832279151172
+2165416472,Analysis of recursive gene selection approaches from microarray data,2005,16,84,2,0.857143,2187357847,Fan Li,0,0.1196886985743213,0.1939449373646738
+2165820599,Learning to rank relevant and novel documents through user feedback,2010,36,5,2,0.666667,2128536523,Abhimanyu Lad,0,0.003708468606338,0.082832279151172
+2145241906,Multilabel classification with meta-level features,2010,24,47,2,0.954545,2128212913,Siddharth Gopal,0,0.20367740504052664,0.23801579762430253
+2416742428,Hierarchical distribution analysis for computer-assisted classifications of patient records,1991,4,1,2,0.0,120305507,Christopher G. Chute,0,0.003708468606338,0.082832279151172
+2419659167,Sampling strategies in a statistical approach to clinical classification,1995,8,1,2,0.615385,120305507,Christopher G. Chute,0,0.2065100717332588,0.38359347804226923
+2538986668,Cross-lingual Text Classification via Model Translation with Limited Dictionaries,2016,27,4,2,0.0,2532904197,Ruochen Xu,0,0.003708468606338,0.082832279151172
+2604847698,Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks,2018,33,61,3,0.0,2629320882,Guokun Lai,0,-0.3049247326517621,0.1886461481807304
+2743276272,The enron corpus A new dataset for email classification research,2004,0,3,2,0.0,2743352140,Bryan Klimt,0,0.9053730686405287,0.34784789680883876
+2739996966,Deep Learning for Extreme Multi-label Text Classification,2017,47,90,4,0.0,2476085583,Jingzhou Liu,0,0.003708468606338,0.082832279151172
+2798329844,Deep Learning for Epidemiological Predictions,2018,8,7,2,1.0,2604274263,Yuexin Wu,0,0.003708468606338,0.082832279151172
+2893671662,Graph Convolutional Matrix Completion for Bipartite Edge Prediction,2018,0,11,3,1.0,2604274263,Yuexin Wu,0,0.003708468606338,0.082832279151172

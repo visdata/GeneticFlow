@@ -1,0 +1,35 @@
+1513623122,Ostra leveraging trust to thwart unwanted communication,2008,18,156,1,1.0,2015972736,Alan Mislove,0,0.0040557659796233,0.2757546058061082
+1844788239,Meddle Enabling Transparency and Control for Mobile Internet Traffic,2015,35,6,4,0.0,76453617,Abbas Razaghpanah,0,0.06176136545508341,0.35808363337508664
+1601702328,Providing administrative control and autonomy in structured peer-to-peer overlays,2004,30,78,1,1.0,2015972736,Alan Mislove,0,-1.1051990978263064,0.8951119400738397
+1964235853,Strength in Numbers Robust Tamper Detection in Crowd Computations,2015,30,30,8,1.0,2151819869,Bimal Viswanath,0,0.0040557659796233,0.2757546058061082
+1997601204,AP3 cooperative decentralized anonymous communication,2004,22,101,1,1.0,2015972736,Alan Mislove,0,-0.16420021596708323,0.32292378428885316
+2006375909,Exploring the design space of social network-based Sybil defenses,2012,30,42,6,0.921053,2151819869,Bimal Viswanath,0,0.0040557659796233,0.2757546058061082
+2019016802,An End-to-End Measurement of Certificate Revocation in the Webs PKI,2015,24,46,7,1.0,2142028206,Yabing Liu,0,0.2078910969401114,-2.3602973873178112
+2027293237,Identifying Traffic Differentiation in Mobile Networks,2015,22,30,8,0.0,2096335172,Arash Molavi Kakhki,0,0.155870422438688,-0.3611899258997246
+2013477342,Experiences in building and operating ePOST a reliable peer-to-peer application,2006,48,49,1,1.0,2015972736,Alan Mislove,0,-0.09602735134178905,0.6849619620451437
+2077128025,Detecting bittorrent blocking,2008,0,89,2,0.0,1904062435,Marcel Dischinger,0,0.0040557659796233,0.2757546058061082
+2094006385,Beyond Access Control Managing Online Privacy via Exposure,2014,15,17,3,0.0,62967857,Peter Druschel,0,0.07615600990353631,0.8597263196263553
+2126162706,Identifying traffic differentiation on cellular data networks,2015,3,1,6,0.0,2096335172,Arash Molavi Kakhki,0,0.0040557659796233,0.2757546058061082
+2111578828,Understanding and Specifying Social Access Control Lists,2014,28,17,5,1.0,2104875264,Mainack Mondal,0,0.6724390248646076,2.2461220393923473
+2127808812,Limiting large-scale crawls of social networking sites,2011,2,12,6,1.0,2104875264,Mainack Mondal,0,0.0040557659796233,0.2757546058061082
+2137351625,Canal scaling social network-based Sybil tolerance schemes,2012,43,45,4,0.921053,2151819869,Bimal Viswanath,0,0.0040557659796233,0.2757546058061082
+2153644028,An analysis of social network-based Sybil defenses,2010,32,278,4,1.0,2151819869,Bimal Viswanath,0,0.0040557659796233,0.2757546058061082
+2151269705,Analysis of SSL certificate reissues and revocations in the wake of heartbleed,2014,21,37,5,0.875,2289157023,Liang Zhang,0,-0.023618308488423622,-1.2612077449527763
+2262526645,Bazaar strengthening user reputations in online marketplaces,2011,24,51,3,0.529412,2142181756,Ansley Post,0,-0.2612191792740464,0.5047031688190253
+2218242280,Towards detecting anomalous user behavior in online social networks,2014,41,140,7,1.0,2151819869,Bimal Viswanath,0,-0.20361398935179198,0.2569856548365551
+2538863639,Measurement and Analysis of Private Key Sharing in the HTTPS Ecosystem,2016,22,22,6,0.0,2226644554,Frank Cangialosi,0,0.058958359370097066,-1.2209056722941216
+2550748725,Measuring and Applying Invalid SSL Certificates The Silent Majority,2016,35,21,6,1.0,1980137816,Taejoong Chung,0,-0.08650044772053431,-1.449101006869995
+2551436658,Tunneling for Transparency A Large-Scale Analysis of End-to-End Violations in the Internet,2016,21,24,3,1.0,1980137816,Taejoong Chung,0,0.0040557659796233,0.2757546058061082
+2634547503,CRLite A Scalable System for Pushing All TLS Revocations to All Browsers,2017,56,19,5,0.0,2722205372,James Larisch,0,0.2578096960150294,-1.7767950030088875
+2746912253,The Root Canary Monitoring and Measuring the DNSSEC Root Key Rollover,2017,1,1,3,0.0,2747151112,R. van Rijswijk Deij,0,-1.7251747988474018,-0.9282643660321627
+2752610700,A longitudinal end-to-end view of the DNSSEC ecosystem,2017,22,19,7,1.0,1980137816,Taejoong Chung,0,-0.08650044772053431,-1.449101006869995
+2770959194,Understanding the role of registrars in DNSSEC deployment,2017,24,7,6,1.0,1980137816,Taejoong Chung,0,-1.810796895805809,-0.7734633991634481
+2788566041,Analysis of SSL certificate reissues and revocations in the wake of heartbleed,2018,10,1,5,0.875,2289157023,Liang Zhang,0,-0.04415127062920471,-0.935187011533993
+2800412265,A First Look at Certification Authority Authorization (CAA),2018,25,14,9,0.0,2293495777,Quirin Scheitle,0,0.13584781392938333,-0.9911352523789869
+2887708157,Measuring Adoption of Security Additions to the HTTPS Ecosystem,2018,0,1,12,0.0,2293495777,Quirin Scheitle,0,0.7325017998758748,-1.106868142450202
+2889233068,Automated Attack Discovery in TCP Congestion Control Using a Model-guided Approach,2018,0,4,4,0.0,2229913516,Samuel Jero,0,0.0040557659796233,0.2757546058061082
+2986338082,You Are Who You Appear to Be A Longitudinal Study of Domain Impersonation in TLS Certificates,2019,11,1,5,0.0,2101085353,Richard M. Roberts,0,0.0040557659796233,0.2757546058061082
+3000030548,An Empirical Evaluation of Deployed DPI Middleboxes and Their Implications for Policymakers,2017,0,3,2,0.247991,1972518527,David Choffnes,0,0.0040557659796233,0.2757546058061082
+2980910426,RPKI is Coming of Age A Longitudinal Study of RPKI Deployment and Invalid Route Origins,2019,14,2,8,0.882353,1980137816,Taejoong Chung,0,0.01729573639416045,0.692733692908092
+3003475571,Investigating End-to-End Integrity Violations in Internet Traffic,2017,0,0,3,0.247991,1972518527,David Choffnes,0,0.0040557659796233,0.2757546058061082
+2901858989,Data Hemorrhage Inequality and You How Technology and Data Flows are Changing the Civil Liberties Game,2017,0,0,5,0.0,62967857,Peter Druschel,0,0.0040557659796233,0.2757546058061082

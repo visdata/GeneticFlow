@@ -1,0 +1,45 @@
+52769613,Eliminating Cache-Based Timing Attacks with Instruction-Based Scheduling,2013,73,50,7,1.0,2126836863,Deian Stefan,0,-2.323743640493404,1.1199129335715285
+34768628,Network Security Via Explicit Consent,2009,38,0,2,0.0,116485086,Jad Naous,0,-0.308075090354107,1.554826190018563
+277286801,Asbestos Securing Untrusted Software with Interposition,2005,50,1,1,1.0,292459508,David MaziÃ¨res,0,-1.8894917681486323,1.6685395853344478
+1536141561,Riposte An Anonymous Messaging System Handling Millions of Users,2015,79,69,3,0.0,253729515,Henry Corrigan Gibbs,0,0.016933982286540528,0.32961184131664123
+1518326911,Secure and robust censorship-resistant publishing systems,2003,0,1,1,1.0,292459508,David MaziÃ¨res,0,-0.17324153726119554,0.6587671663167594
+1501583684,Secure acknowledgment of multicast messages in open peer-to-peer networks,2004,15,16,2,1.0,2119032707,Antonio Nicolosi,0,0.0040557659796233,0.2757546058061082
+1666539389,On-the-fly verification of rateless erasure codes for efficient content distribution,2004,38,302,3,0.692308,2626412071,Maxwell Krohn,0,0.1724733666268567,-0.5431335064006922
+1604658764,The case for ubiquitous transport-level encryption,2010,16,53,4,1.0,10873397,Andrea Bittau,0,-0.2661624028931396,-0.33549593006869866
+1587010340,Make least privilege a right (not a privilege),2005,26,45,6,0.692308,2626412071,Maxwell Krohn,0,0.612462324403411,1.6070859110107132
+1963556993,The design implementation and operation of an email pseudonym server,1998,13,61,1,1.0,292459508,David MaziÃ¨res,0,-0.16420021596708323,0.32292378428885316
+1580900067,Proactive Two-Party Signatures for User Authentication,2003,29,50,4,1.0,2119032707,Antonio Nicolosi,0,-1.8755026988029866,-1.8361834203495893
+1767239911,Democratizing content distribution,2007,155,3,1,1.0,292459508,David MaziÃ¨res,0,-0.5530861437885858,-0.004176666300269333
+1591302859,A future-adaptive password scheme,1999,12,164,1,1.0,292459508,David MaziÃ¨res,0,-2.300109769793811,-1.6089782662189096
+2033594994,A brief overview of the NEBULA future internet architecture,2014,20,13,12,0.0,2148869393,Thomas Anderson,0,0.0040557659796233,0.2757546058061082
+2042856445,CCFI Cryptographically Enforced Control Flow Integrity,2015,13,80,4,1.0,2251601281,Ali Mashtizadeh,0,-0.7213615894697611,-0.16000894354346099
+2099878912,Addressing covert termination and timing channels in concurrent information flow systems,2012,59,50,6,0.793103,2126836863,Deian Stefan,0,-1.2812940612719312,1.4532137039183315
+2103208011,Self-certifying file system,2000,25,46,1,1.0,292459508,David MaziÃ¨res,0,0.0040557659796233,0.2757546058061082
+2086234010,Making information flow explicit in HiStar,2006,16,430,4,0.0,1150986126,Nickolai Zeldovich,0,-0.15151102532787278,0.38573927321940094
+2104112849,Separating key management from file system security,1999,31,333,1,1.0,292459508,David MaziÃ¨res,0,0.0040557659796233,0.2757546058061082
+2083228150,Labels and event processes in the Asbestos operating system,2007,41,106,9,0.0,914404890,Steve VanDeBogart,0,-0.8050188282019902,1.6581817531682113
+2114349788,Secure untrusted data repository (SUNDR),2004,40,348,3,0.0,2559538997,Jinyuan Li,0,0.0040557659796233,0.2757546058061082
+2117442303,Building secure file systems out of byzantine storage,2002,16,119,1,1.0,292459508,David MaziÃ¨res,0,0.0040557659796233,0.2757546058061082
+2129780932,Secure applications need flexible operating systems,1997,7,40,1,1.0,292459508,David MaziÃ¨res,0,-0.7656375207749422,0.6185652056577354
+2136023977,Apprehending joule thieves with cinder,2009,8,19,4,1.0,2173961503,Stephen M. Rumble,0,0.0040557659796233,0.2757546058061082
+2121474533,Decentralized user authentication in a global file system,2003,33,48,3,1.0,2151237659,Michael Kaminsky,0,-1.955116016081767,-0.8748543984387283
+2113093733,Millions of little minions using packets for low latency network programming and visibility,2015,30,44,5,0.0,2056491872,Vimalkumar Jeyakumar,0,0.0040557659796233,0.2757546058061082
+2122167991,Hails protecting data privacy in untrusted web applications,2012,35,91,5,1.0,2303746664,Daniel B. Giffin,0,-0.6091474853882128,1.9567141490162714
+2143448712,Delegating network security with more information,2009,12,28,3,0.0,116485086,Jad Naous,0,-0.4820627208560196,1.2541807474716806
+2144404337,Toward Secure Services from Untrusted Developers,2007,23,4,2,1.0,158949662,Petros Efstathopoulos,0,-0.3474632788160651,0.3162889423764946
+2147587452,Tangler a censorship-resistant publishing system based on document entanglements,2001,19,113,2,0.0,2103728401,Marc Waldman,0,0.0040557659796233,0.2757546058061082
+2166748118,RE reliable email,2006,18,134,5,0.0,211403037,Scott Garriss,0,-1.4548816563059963,-2.581640750948583
+2160804322,Toward principled browser security,2013,28,11,4,1.0,2158633819,Edward Z. Yang,0,-0.09602735134178905,0.6849619620451437
+2262357347,Building trustworthy storage services out of untrusted infrastructure,2006,69,0,1,1.0,292459508,David MaziÃ¨res,0,-0.18618689656946605,0.637946401295037
+2268137291,Is achieving security a hopeless quest,2015,0,0,3,0.0,2337629383,Margo Seltzer,0,0.18888834589675388,0.5384844267126572
+2223370306,Protecting users by confining JavaScript with COWL,2014,34,38,7,1.0,2126836863,Deian Stefan,0,-1.1819500824145523,1.9152401402989043
+2279324394,Authentication mechanisms for open distributed systems,2007,72,0,1,1.0,292459508,David MaziÃ¨res,0,-0.9225354090480113,-0.5164653787505014
+2293825325,Hacking Blind,2014,16,187,4,1.0,10873397,Andrea Bittau,0,-0.4548791654963637,0.613798549582332
+2411690666,TCP-ENO Encryption Negotiation Option,2019,0,1,4,0.732808,10873397,Andrea Bittau,0,0.1887187026762261,-1.6156451688198814
+2613571451,Apprehending joule thieves with cinder,2010,9,10,4,1.0,2173961503,Stephen M. Rumble,0,0.0040557659796233,0.2757546058061082
+2625599531,Hails Protecting data privacy in untrusted web applications,2017,61,3,5,1.0,2303746664,Daniel B. Giffin,0,-0.6091474853882128,1.9567141490162714
+2744200811,Simple Opportunistic Encryption,2014,4,1,3,1.0,10873397,Andrea Bittau,0,-0.9125863809687469,-0.6921721336862922
+2896153685,True2F Backdoor-Resistant Authentication Tokens,2019,103,1,3,1.0,2897648671,Emma Dauterman,0,-0.2389765343103323,-0.483718692983498
+2949469630,True2F Backdoor-resistant authentication tokens,2018,0,0,3,1.0,2897648671,Emma Dauterman,0,-0.05315230343517855,-0.8764929372569551
+2949967155,Cryptographically Enforced Control Flow Integrity,2014,7,10,3,1.0,2251601281,Ali Mashtizadeh,0,-0.21509245853059178,-0.494542923588477
+2981755312,Fast and secure global payments with Stellar,2019,39,9,3,0.0,2982047721,Marta Lokhava,0,0.0040557659796233,0.2757546058061082

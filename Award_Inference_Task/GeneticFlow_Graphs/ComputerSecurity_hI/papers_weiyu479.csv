@@ -1,0 +1,105 @@
+115853712,On countermeasures of worm attacks over the internet,2008,0,0,3,0.0,210103816,Riccardo Bettati,0,0.3259332239481683,0.5745734317069635
+609003459,On a simulation study of cyber attacks on vehicle-to-infrastructure communication (V2I) in Intelligent Transportation System (ITS),2015,26,7,3,0.0,2057412837,Nnanna Ekedebe,0,-1.0435515547325895,0.9258382959857321
+309278810,Secured network sensor-based defense system,2015,18,3,7,0.209185,1989825510,Erik Blasch,0,-0.2925598517210284,0.6361629678704075
+631965290,Towards an integrated defense system for cyber security situation awareness experiment,2015,25,5,8,0.209185,1989825510,Erik Blasch,0,0.0333757292554824,0.4699514877845159
+1479797449,Self-adaptive worms and countermeasures,2006,15,4,1,1.0,2503200132,Wei Yu,0,0.0040557659796233,0.2757546058061082
+1562562800,Analyzing the performance of Internet worm attack approaches,2004,11,8,1,1.0,2503200132,Wei Yu,0,0.0040557659796233,0.2757546058061082
+1596812272,gPath a game-theoretic path selection algorithm to protect Tors anonymity,2010,32,18,2,0.576923,2166589344,Nan Zhang,0,-0.22866041367948065,0.4133955999497972
+1963539842,On effective sampling techniques for host-based intrusion detection in MANET,2012,11,4,4,0.90625,2120893532,Linqiang Ge,0,-0.14170494178856752,0.608832452867017
+1896721535,Tor Bridge Discovery Extensive Analysis and Large-scale Empirical Evaluation,2015,34,4,3,0.646111,2304122853,Zhen Ling,0,0.0040557659796233,0.2757546058061082
+1621730125,TorWard Discovery Blocking and Traceback of Malicious Traffic Over Tor,2015,16,16,4,0.646111,2304122853,Zhen Ling,0,0.12944494320330083,0.8222090776109727
+1926306387,On effectiveness of game theoretic modeling and analysis against cyber threats for avionic systems,2015,40,15,8,0.209185,1989825510,Erik Blasch,0,-0.0626029131838918,0.6129085475452396
+1971985207,Effective Detection of Active Worms with Varying Scan Rate,2006,19,14,1,1.0,2503200132,Wei Yu,0,0.0040557659796233,0.2757546058061082
+1973941703,Toward effectiveness and agility of network security situational awareness using moving target defense (MTD),2014,26,13,7,0.224768,1989825510,Erik Blasch,0,-0.09534210648137105,0.6756059759325581
+1979654427,A novel architecture against false data injection attacks in smart grid,2012,8,18,3,1.0,2015065937,Sulabh Bhattarai,0,-0.055422354602891466,0.6043227605213728
+1985062260,How privacy leaks from bluetooth mouse,2012,1,11,4,1.0,2162537366,Xian Pan,0,-0.9110087237320601,-0.09774842381899737
+1974540873,A threat monitoring system for smart mobiles in enterprise networks,2013,4,8,1,1.0,2503200132,Wei Yu,0,-0.0459825125796302,0.5112591179091426
+2008363911,On effectiveness of network sensor-based defense framework,2012,0,0,7,0.90625,2120893532,Linqiang Ge,0,0.2909968940164657,0.5107817184555826
+2001343458,On Detection and Visualization Techniques for Cyber Security Situation Awareness,2013,27,7,9,0.315789,1989825510,Erik Blasch,0,0.8670211041612834,0.6953740008899185
+1995057273,A cloud computing based architecture for cyber security situation awareness,2013,14,24,1,1.0,2503200132,Wei Yu,0,0.11259000006634194,0.3294764488794644
+2020880787,Detecting worms via mining dynamic program execution,2007,42,46,2,0.705882,2110100846,Xun Wang,0,0.0040557659796233,0.2757546058061082
+2017414051,On simulation studies of cyber attacks against LTE networks,2014,18,13,5,1.0,2015065937,Sulabh Bhattarai,0,0.0040557659796233,0.2757546058061082
+2021039270,A cloud computing based system for cyber security management,2015,33,14,2,1.0,2124547711,Guobin Xu,0,0.0040557659796233,0.2757546058061082
+2012574038,A new cell counter based attack against tor,2009,44,76,3,0.794872,2304122853,Zhen Ling,0,-0.16420021596708323,0.32292378428885316
+2023908773,Towards effective defense against pollution attacks on network coding,2012,18,4,3,0.0,2138228809,Donghai Zhu,0,0.3259332239481683,0.5745734317069635
+2054298841,On localization attacks against cloud infrastructure,2013,21,0,3,0.90625,2120893532,Linqiang Ge,0,-0.13092060100235578,0.6622746541449668
+2054710647,A study of malware detection on smart mobile devices,2013,0,7,3,0.83871,2124547711,Guobin Xu,0,-0.5028031078610354,1.0757388846166769
+2058503397,An effective online scheme for detecting Android malware,2014,11,3,4,0.0,2305426393,Shuang Liang,0,-0.47844533733402833,1.362497709876
+2062173166,TorWard Discovery of malicious traffic over Tor,2014,12,25,4,0.687839,2304122853,Zhen Ling,0,1.1243529009823896,0.8486765138551735
+2072669749,A context-aware scheme for privacy-preserving location-based services,2012,42,24,2,1.0,899435912,Aniket Pingley,0,-0.23581849438002636,0.07320357805482858
+2099890503,Peer-to-peer system-based active worm attacks Modeling analysis and defense,2008,50,27,1,1.0,2503200132,Wei Yu,0,1.1524210578846492,0.026854089934834107
+2103008471,On localization attacks to Internet Threat Monitors An information-theoretic framework,2008,18,3,1,1.0,2503200132,Wei Yu,0,0.0040557659796233,0.2757546058061082
+2084330204,A new cell-counting-based attack against Tor,2012,35,31,3,0.909091,2304122853,Zhen Ling,0,-0.16420021596708323,0.32292378428885316
+2103851297,Cyber Crime Scene Investigations (CÂ²SI) through Cloud Computing,2010,7,10,3,0.257363,2135546068,Xinwen Fu,0,-0.0866911235024297,0.6812072487229601
+2095274118,Towards verifiable file search on the cloud,2014,18,2,4,0.0,2632228241,Fei Chen,0,0.29392382053358135,0.10045542812224656
+2101649797,A New Replay Attack Against Anonymous Communication Networks,2008,17,61,2,0.0,2248466210,R. Pries,0,-0.3145009847695898,-0.4582564534629291
+2098897917,On False Data-Injection Attacks against Power System State Estimation Modeling and Countermeasures,2014,30,187,3,1.0,2160419506,Qingyu Yang,0,-0.1453081577585395,0.49424141698881113
+2129830620,On defending peer-to-peer system-based active worm attacks,2005,10,15,1,1.0,2503200132,Wei Yu,0,0.941872630663631,-0.162814781267628
+2106267320,An integrated detection system against false data injection attacks in the Smart Grid,2015,41,42,1,1.0,2503200132,Wei Yu,0,0.0276768635562398,0.43821742870159186
+2115322091,An Invisible Localization Attack to Internet Threat Monitors,2009,35,14,1,1.0,2503200132,Wei Yu,0,0.16907754649329115,0.3749617594650438
+2127069184,Protocol-level attacks against Tor,2013,26,13,3,0.909091,2304122853,Zhen Ling,0,-0.16420021596708323,0.32292378428885316
+2121233699,Localization Attacks to Internet Threat Monitors Modeling and Countermeasures,2010,30,13,1,1.0,2503200132,Wei Yu,0,0.0040557659796233,0.2757546058061082
+2118365066,De-anonymizing and countermeasures in anonymous communication networks,2015,9,9,5,0.0,2589240195,Ming Yang,0,0.08621417744495048,0.6622696997185702
+2124861999,On false data injection attacks against Kalman filtering in power system dynamic state estimation,2016,32,23,3,1.0,2160419506,Qingyu Yang,0,0.09213588834667,0.385594277368354
+2127841321,Generic network forensic data acquisition from household and small business wireless routers,2010,3,4,3,0.0,2299040758,Zhongli Liu,0,0.0040557659796233,0.2757546058061082
+2113484497,Maintaining Defenders Reputation in Anomaly Detection Against Insider Attacks,2010,32,24,2,0.576923,2166589344,Nan Zhang,0,-1.182495590201979,0.420843383277169
+2134306616,CAP A Context-Aware Privacy Protection System for Location-Based Services,2009,42,70,2,1.0,899435912,Aniket Pingley,0,0.13462961307572482,0.5934112202578397
+2131510858,iLOC An invisible LOCalization Attack to Internet Threat Monitoring Systems,2008,23,14,2,0.705882,2110100846,Xun Wang,0,0.941872630663631,-0.162814781267628
+2108077210,Blind detection of spread spectrum flow watermarks,2013,17,9,6,0.272727,2137511552,Weijia Jia,0,0.0040557659796233,0.2757546058061082
+2117227183,Novel Anti-forensics Approaches for Smart Phones,2012,18,18,2,0.520146,409739888,Shiva Azadegan,0,0.0040557659796233,0.2757546058061082
+2150688983,On effective data aggregation techniques in host-based intrusion detection in MANET,2013,26,5,3,0.0,2141312567,Difan Zhang,0,0.3071331255154989,0.7412245476517926
+2147780605,Towards Effective Defense Against Insider Attacks The Establishment of Defenders Reputation,2008,17,5,2,0.512195,2166589344,Nan Zhang,0,0.13679434731489165,0.6751406926737795
+2154161193,On Scaling Perturbation Based Privacy-Preserving Schemes in Smart Metering Systems,2013,19,7,5,0.0,2147432721,Xuebin Ren,0,0.11461890641835681,0.5743639994063519
+2145494802,The Digital Marauders Map A New Threat to Location Privacy,2009,14,14,4,0.257363,2135546068,Xinwen Fu,0,0.0040557659796233,0.2757546058061082
+2169612502,On effective sampling techniques in host-based intrusion detection in tactical MANET,2013,30,4,1,1.0,2503200132,Wei Yu,0,-0.19391341646692922,0.7170692713571154
+2174837112,On Effectiveness of Hopping-Based Spread Spectrum Techniques for Network Forensic Traceback,2013,0,11,1,1.0,2503200132,Wei Yu,0,-0.1751537443235147,0.04866599499852316
+2174904793,A Cloud Computing Based Network Monitoring and Threat Detection System for Critical Infrastructures,2016,39,40,6,0.0,2130655575,Zhijiang Chen,0,-0.09777623058315725,0.4554931160050544
+2146148058,DSSS-Based Flow Marking Technique for Invisible Traceback,2007,27,150,1,1.0,2503200132,Wei Yu,0,-0.0866911235024297,0.6812072487229601
+2146350924,On Recognizing Virtual Honeypots and Countermeasures,2006,13,41,2,0.243118,2135546068,Xinwen Fu,0,-0.158057954650932,0.5616851777390147
+2152587968,Policy-driven physical attacks in sensor networks modeling and measurement,2006,22,3,4,0.666667,2110100846,Xun Wang,0,0.0040557659796233,0.2757546058061082
+2146532434,On Detecting Camouflaging Worm,2006,15,15,1,1.0,2503200132,Wei Yu,0,0.0040557659796233,0.2757546058061082
+2152678763,A Dynamic Trust Management Scheme to Mitigate Malware Proliferation in P2P Networks,2008,9,17,2,0.0,2673231772,Xuhua Ding,0,0.05940095047987125,0.6960502266457337
+2167901844,Blind Detection of Spread Spectrum Flow Watermarks,2009,19,25,6,0.272727,2137511552,Weijia Jia,0,0.0040557659796233,0.2757546058061082
+2146910660,Self-Disciplinary Worms and Countermeasures Modeling and Analysis,2010,53,36,1,1.0,2503200132,Wei Yu,0,0.0040557659796233,0.2757546058061082
+2188917737,An Invisible Localization Attack to,2009,33,0,4,0.692308,2110100846,Xun Wang,0,-0.29753077915617077,0.7283080629427756
+2249811774,Are We Relying Too Much on Forensics Tools,2012,8,6,3,0.0,2619605847,Hui Liu,0,-0.0866911235024297,0.6812072487229601
+2318819906,A threat monitoring system in enterprise networks with smart mobiles,2016,54,0,4,0.0,2130655575,Zhijiang Chen,0,0.25553752762548526,0.7551642369664288
+2290307867,Defending against Energy Dispatching Data integrity attacks in smart grid,2015,25,4,6,1.0,2227152716,Xiaofei He,0,-0.1018702608220664,0.4327973001942167
+2324437139,On Data Integrity Attacks Against Real-Time Pricing in Energy-Based Cyber-Physical Systems,2017,60,17,5,1.0,2229724704,Xialei Zhang,0,-0.21737459357515052,0.1193243038033275
+2338306900,Game theory for infrastructure security,2012,14,0,5,0.0,2101367683,Sajal K. Das,0,-1.11822058498245,2.0409161639901363
+2396819354,On resilience studies of system detection and recovery techniques against stealthy insider attacks,2016,25,2,8,0.171791,1989825510,Erik Blasch,0,0.0040557659796233,0.2757546058061082
+2397747937,How Privacy Leaks From Bluetooth Mouse,2013,0,1,4,1.0,2162537366,Xian Pan,0,0.0040557659796233,0.2757546058061082
+2477526173,A novel microgrid based resilient Demand Response scheme in smart grid,2016,14,2,5,1.0,2144672251,Xinyu Yang,0,-0.19863038842712225,0.4440591260330009
+2500655794,A Unified Framework for Secured Energy Resource Management in Smart Grid,2016,0,8,4,1.0,1251590985,Paul Moulema,0,0.0040557659796233,0.2757546058061082
+2480222367,On Situational Aware En-Route Filtering against Injected False Data in Cyber Physical Systems,2012,14,0,4,0.315789,1989825510,Erik Blasch,0,-0.20545490062293015,0.2198759960986171
+2503167960,Securing Transportation Cyber-Physical Systems,2015,36,9,3,0.0,2057412837,Nnanna Ekedebe,0,-0.20545490062293015,0.2198759960986171
+2503573054,Cyber security in cyber-physical systems on false data injection attacks in the smart grid,2016,0,0,3,1.0,2124547711,Guobin Xu,0,-0.07689793017738121,0.31172864704261133
+2550184406,Challenges lessons learned and results from establishing a CyberCorps Scholarship for Service program targeting undergraduate students,2016,0,0,5,0.520146,409739888,Shiva Azadegan,0,0.0040557659796233,0.2757546058061082
+2574429479,Cheating-Resilient Incentive Scheme for Mobile Crowdsensing Systems,2017,12,0,3,0.0,2289383168,Cong Zhao,0,0.0040557659796233,0.2757546058061082
+2575501069,Data integrity attacks against the distributed real-time pricing in the smart grid,2016,29,4,4,1.0,2144672251,Xinyu Yang,0,-0.11857910674998395,0.09698776250942825
+2577481213,Game Theory for Infrastructure Security The Power of Intent-Based Adversary Models11Part of the results included in this chapter was presented in [1] and [2],2012,14,0,5,0.0,2101367683,Sajal K. Das,0,-0.10569866289515091,1.0187942698468244
+2587385118,A Game-Theoretic Model on Coalitional Attacks in Smart Grid,2016,18,6,5,1.0,2144672251,Xinyu Yang,0,0.0040557659796233,0.2757546058061082
+2610554459,Panel summary of cyber-physical systems (CPS) and Internet of Things (IoT) opportunities with information fusion,2017,31,4,6,0.0,188193405,Lynne L. Grewe,0,0.04267621907789135,0.4901874922859857
+2588059142,Game theory for infrastructure security The power of intent-based adversary models,2012,0,0,5,0.0,2101367683,Sajal K. Das,0,0.060378977013293186,1.1118061457655513
+2611427814,Canoe An Autonomous Infrastructure-Free Indoor Navigation System,2017,6,5,6,0.0,2145499390,Kai Dong,0,0.1822731046919942,0.706777145399998
+2596636257,A Survey on Internet of Things Architecture Enabling Technologies Security and Privacy and Applications,2017,153,642,2,1.0,2619523000,Jie Lin,0,0.7748226960971913,1.5145991122271192
+2737897682,On data integrity attacks against route guidance in transportation-based cyber-physical systems,2017,13,6,2,1.0,2619523000,Jie Lin,0,-0.15692775339416665,0.3568347626854332
+2754034830,Evolution of Widely Spreading Worms and Countermeasures,2012,33,0,3,0.257363,2135546068,Xinwen Fu,0,0.0040557659796233,0.2757546058061082
+2741575716,3D vision attack against authentication,2017,7,3,4,0.0,2520220426,Zupei Li,0,-0.630894439180718,-0.04567668580264762
+2754466910,Evolution of Widely Spreading Worms and Countermeasures Epidemic Theory and Application,2012,29,0,3,0.257363,2135546068,Xinwen Fu,0,0.0040557659796233,0.2757546058061082
+2772304541,Guest Editorial Special Issue on Security and Privacy in Cyber-Physical Systems,2017,0,2,1,1.0,2503200132,Wei Yu,0,-0.15771241253572998,1.009042869237308
+2767558849,Privacy Enhancing Keyboard Design Implementation and Usability Testing,2017,3,2,7,0.516074,2304122853,Zhen Ling,0,0.042512024325592056,0.7671980944610347
+2760852418,Detecting Data Integrity Attacks in Smart Grid,2017,52,0,6,0.0,738709879,Nada Golmie,0,-0.14440210201117773,0.014824295180838642
+2792773219,Towards an Iterated Game Model with Multiple Adversaries in Smart-World Systems,2018,65,1,4,1.0,2227152716,Xiaofei He,0,0.0040557659796233,0.2757546058061082
+2790400697,A Survey on Big Data Market Pricing Trading and Protection,2018,134,49,2,0.0,2758513693,Fan Liang,0,0.09992681023245878,0.2900767558417935
+2808540773,Privacy-Preserving Auction for Big Data Trading Using Homomorphic Encryption,2018,0,5,2,0.0,2513266641,Weichao Gao,0,0.2715183981551053,-0.374033828702341
+2885783705,A Framework for Detecting and Countering Android UI Attacks via Inspection of IPC Traffic,2018,11,0,3,0.0,256226516,Joshua Kraunelis,0,0.11498414906101644,0.5371973550967502
+2897996256,A Survey of Blockchain Techniques Applications and Challenges,2018,59,6,3,0.0,2513266641,Weichao Gao,0,0.13914570626708944,0.1668297262354297
+2900155720,Survey of Public Safety Communications User-Side and Network-Side Solutions and Future Directions,2018,147,9,1,1.0,2503200132,Wei Yu,0,0.2888690947874276,0.5707276237016948
+2893452981,On Location Privacy-Preserving Online Double Auction for Electric Vehicles in Microgrids,2019,39,2,5,1.0,2783949514,Donghe Li,0,-0.16420021596708323,0.32292378428885316
+2948502305,Secure Internet of Things (IoT)-Based Smart-World Critical Infrastructures Survey Case Study and Research Opportunities,2019,0,3,6,0.0,2998588864,Xing Liu,0,-0.09777623058315725,0.4554931160050544
+2945988977,Towards Incentive Mechanism for Taxi Services Allocation with Privacy Guarantee,2018,0,0,3,1.0,2783949514,Donghe Li,0,0.0040557659796233,0.2757546058061082
+2964899773,Towards Differential Privacy-Based Online Double Auction for Smart Grid,2020,42,2,3,1.0,2783949514,Donghe Li,0,-0.10036689305393232,0.28888589853735097
+3022475563,Chapter 4 â€“ Evolution of Widely Spreading Worms and Countermeasures Epidemic Theory and Application,2012,28,0,3,0.257363,2135546068,Xinwen Fu,0,0.0040557659796233,0.2757546058061082
+3021123720,Chapter 2 â€“ Game Theory for Infrastructure Security The Power of Intent-Based Adversary Models1,2012,0,0,5,0.0,2101367683,Sajal K. Das,0,-0.13092060100235578,0.6622746541449668
+3007044245,Towards Incentive for Electrical Vehicles Demand Response with Location Privacy Guaranteeing in Microgrids,2020,0,0,5,0.0,2135195058,Dou An,0,0.3751614123488602,-0.705039752176919

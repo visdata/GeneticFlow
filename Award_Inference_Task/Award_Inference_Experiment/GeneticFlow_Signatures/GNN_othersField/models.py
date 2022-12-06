@@ -1,3 +1,16 @@
+
+# full->sh
+# core->sh
+
+# --num_layers 2-6
+# --dropout_ratio 0.2
+# --conv_name GCNConv ARMAConv
+# --average True False
+# --lr 0.0005-0.003
+# --nhid 128 256
+
+
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -82,13 +95,16 @@ class Model(torch.nn.Module):
         self.args = args
         self.num_features = args.num_features
         self.nhid = args.nhid
+        self.average = args.average
         self.num_classes = args.num_classes
         self.pooling_ratio = args.pooling_ratio
         self.dropout_ratio = args.dropout_ratio
+        self.num_layers = args.num_layers
         self.sample = args.sample_neighbor
         self.sparse = args.sparse_attention
         self.sl = args.structure_learning
         self.lamb = args.lamb
+        self.residual = False
         self.edgeconv = MLP(10, 64, 1).to('cuda:0')
         self.conv_name = args.conv_name
         self.pool_name = args.pool_name
@@ -108,62 +124,70 @@ class Model(torch.nn.Module):
         #         GCN2Conv(self.nhid, alpha, theta, layer + 1,
         #                  shared_weights, normalize=False))
 
-        if self.conv_name == 'ChebConv':
-            self.conv1 = ChebConv(self.num_features, self.nhid, 1)
-            self.conv2 = ChebConv(self.nhid, self.nhid, 1)
-            self.conv3 = ChebConv(self.nhid, self.nhid, 1)
-        elif self.conv_name == 'GINConv':
-            hidden_channels=self.nhid
-            nn1 = Sequential(
-                Linear(6, hidden_channels),
-                BatchNorm(hidden_channels),
-                ReLU(),
-                Linear(hidden_channels, hidden_channels),
-                BatchNorm(hidden_channels),
-                ReLU(),
-            )
-            self.conv1=GINConv(nn1, train_eps=True)
-            nn2 = Sequential(
-                Linear(hidden_channels, hidden_channels),
-                BatchNorm(hidden_channels),
-                ReLU(),
-                Linear(hidden_channels, hidden_channels),
-                BatchNorm(hidden_channels),
-                ReLU(),
-            )
-            self.conv2=GINConv(nn2, train_eps=True)
-            nn3 = Sequential(
-                Linear(hidden_channels, hidden_channels),
-                BatchNorm(hidden_channels),
-                ReLU(),
-                Linear(hidden_channels, hidden_channels),
-                BatchNorm(hidden_channels),
-                ReLU(),
-            )
-            self.conv3=GINConv(nn3, train_eps=True)
-        else:
-            self.conv1 = Conv(self.num_features, self.nhid)
-            self.conv2 = Conv(self.nhid, self.nhid)
-            self.conv3 = Conv(self.nhid, self.nhid)
+        # if self.conv_name == 'ChebConv':
+        #     self.conv1 = ChebConv(self.num_features, self.nhid, 1)
+        #     self.conv2 = ChebConv(self.nhid, self.nhid, 1)
+        #     self.conv3 = ChebConv(self.nhid, self.nhid, 1)
+        # elif self.conv_name == 'GINConv':
+        #     hidden_channels=self.nhid
+        #     nn1 = Sequential(
+        #         Linear(6, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #         Linear(hidden_channels, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #     )
+        #     self.conv1=GINConv(nn1, train_eps=True)
+        #     nn2 = Sequential(
+        #         Linear(hidden_channels, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #         Linear(hidden_channels, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #     )
+        #     self.conv2=GINConv(nn2, train_eps=True)
+        #     nn3 = Sequential(
+        #         Linear(hidden_channels, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #         Linear(hidden_channels, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #     )
+        #     self.conv3=GINConv(nn3, train_eps=True)
+        # else:
+        #     self.conv1 = Conv(self.num_features, self.nhid)
+        #     self.conv2 = Conv(self.nhid, self.nhid)
+        #     self.conv3 = Conv(self.nhid, self.nhid)
+        #     self.conv4 = Conv(self.nhid, self.nhid)
+            
+        self.convs = torch.nn.ModuleList()
+        self.batch_norms = torch.nn.ModuleList()
+        self.convs.append(Conv(self.num_features, self.nhid))
+        self.batch_norms.append(torch.nn.BatchNorm1d(self.nhid))
+        for layer in range(self.num_layers - 1):
+            self.convs.append(Conv(self.nhid, self.nhid))
+            self.batch_norms.append(torch.nn.BatchNorm1d(self.nhid))
 
-
-        if self.pool_name == 'SAGPooling':
-            self.pool1 = SAGPooling(self.nhid, ratio=self.pooling_ratio, GNN=GCNConv)
-            self.pool2 = SAGPooling(self.nhid, ratio=self.pooling_ratio, GNN=GCNConv)
-        elif self.pool_name == 'TopKPooling':
-            self.pool1 = TopKPooling(self.nhid, ratio=self.pooling_ratio)
-            self.pool2 = TopKPooling(self.nhid, ratio=self.pooling_ratio)
-        elif self.pool_name == 'ASAPooling':
-            self.pool1 = ASAPooling(self.nhid, ratio=self.pooling_ratio, dropout=0.5, GNN=GCNConv,
-                                add_self_loops=False)
-            self.pool2 = ASAPooling(self.nhid, ratio=self.pooling_ratio, dropout=0.5, GNN=GCNConv,
-                                add_self_loops=False)
-        elif self.pool_name == 'EdgePooling':
-            self.pool1 = EdgePooling(self.nhid, edge_score_method=EdgePooling.compute_edge_score_softmax, dropout=self.pooling_ratio, add_to_edge_score=1)
-            self.pool2 = EdgePooling(self.nhid, edge_score_method=EdgePooling.compute_edge_score_softmax, dropout=self.pooling_ratio, add_to_edge_score=1)
-        elif self.pool_name == 'HGPSLPool':
-            self.pool1 = HGPSLPool(self.nhid, self.pooling_ratio, self.sample, self.sparse, self.sl, self.lamb)
-            self.pool2 = HGPSLPool(self.nhid, self.pooling_ratio, self.sample, self.sparse, self.sl, self.lamb)
+        # if self.pool_name == 'SAGPooling':
+        #     self.pool1 = SAGPooling(self.nhid, ratio=self.pooling_ratio, GNN=GCNConv)
+        #     self.pool2 = SAGPooling(self.nhid, ratio=self.pooling_ratio, GNN=GCNConv)
+        # elif self.pool_name == 'TopKPooling':
+        #     self.pool1 = TopKPooling(self.nhid, ratio=self.pooling_ratio)
+        #     self.pool2 = TopKPooling(self.nhid, ratio=self.pooling_ratio)
+        # elif self.pool_name == 'ASAPooling':
+        #     self.pool1 = ASAPooling(self.nhid, ratio=self.pooling_ratio, dropout=0.5, GNN=GCNConv,
+        #                         add_self_loops=False)
+        #     self.pool2 = ASAPooling(self.nhid, ratio=self.pooling_ratio, dropout=0.5, GNN=GCNConv,
+        #                         add_self_loops=False)
+        # elif self.pool_name == 'EdgePooling':
+        #     self.pool1 = EdgePooling(self.nhid, edge_score_method=EdgePooling.compute_edge_score_softmax, dropout=self.pooling_ratio, add_to_edge_score=1)
+        #     self.pool2 = EdgePooling(self.nhid, edge_score_method=EdgePooling.compute_edge_score_softmax, dropout=self.pooling_ratio, add_to_edge_score=1)
+        # elif self.pool_name == 'HGPSLPool':
+        #     self.pool1 = HGPSLPool(self.nhid, self.pooling_ratio, self.sample, self.sparse, self.sl, self.lamb)
+        #     self.pool2 = HGPSLPool(self.nhid, self.pooling_ratio, self.sample, self.sparse, self.sl, self.lamb)
 
         self.lin1 = torch.nn.Linear(self.nhid, self.nhid // 2)
         self.lin2 = torch.nn.Linear(self.nhid // 2 + 1, self.nhid // 4)
@@ -180,6 +204,8 @@ class Model(torch.nn.Module):
         # data = gdc(data)
 
         x, edge_index, batch = data.x.to('cuda:0'), data.edge_index.to('cuda:0'), data.batch.to('cuda:0')
+        if self.args.ignore_edge and edge_index.shape[1]:
+            raise f'ignore_edge error, edge_index.shape:{edge_index.shape}'
         edge_attr = None
         
         if(flag=='./data/data_with_proba'):
@@ -225,11 +251,35 @@ class Model(torch.nn.Module):
         # print(torch.mean(proba1),torch.mean(proba2))
         # norm = torch.norm(proba_distance, p=1, dim=0)
         # norm = norm/proba1.shape[0]
-        if self.conv_name == 'ChebConv':
-            x = F.relu(self.conv1(x.float(), edge_index, edge_attr, batch))
-        else:
-            x = F.relu(self.conv1(x.float(), edge_index, edge_attr))
-        x = F.dropout(x, p=self.dropout_ratio, training=self.training)
+
+        h_list = [x]
+        for layer in range(self.num_layers):
+            h = self.convs[layer](h_list[layer], edge_index, edge_attr)
+            h = self.batch_norms[layer](h)
+            if layer == self.num_layers - 1:
+                #remove relu for the last layer
+                h = F.dropout(h, self.dropout_ratio, training = self.training)
+            else:
+                h = F.dropout(F.relu(h), self.dropout_ratio, training = self.training)
+
+            if self.residual:
+                h += h_list[layer]
+
+            h_list.append(h)
+
+        node_representation = 0
+        for layer in range(self.num_layers):
+            if(self.average):
+                node_representation += F.relu(gap(h_list[layer + 1], batch))
+            else:
+                node_representation += F.relu(gmp(h_list[layer + 1], batch))
+
+        x = node_representation
+        # if self.conv_name == 'ChebConv':
+        #     x = F.relu(self.conv1(x.float(), edge_index, edge_attr, batch))
+        # else:
+        #     x = F.relu(self.conv1(x.float(), edge_index, edge_attr))
+        # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
         # if self.pool_name == 'SAGPooling':
         #     x, edge_index, edge_attr, batch, _, _ = self.pool1(x, edge_index, edge_attr, batch)
         # elif self.pool_name == 'TopKPooling':
@@ -240,15 +290,15 @@ class Model(torch.nn.Module):
         #     x, edge_index, batch, _ = self.pool1(x, edge_index, batch)
         # elif self.pool_name == 'HGPSLPool':
         #     x, edge_index, edge_attr, batch = self.pool1(x, edge_index, edge_attr, batch)
-        x1 = gap(x, batch)
+        # x1 = gap(x, batch)
         # x1 = torch.cat([gmp(x, batch), gap(x, batch)], dim=1)
 
-        edge_attr=None
-        if self.conv_name == 'ChebConv':
-            x = F.relu(self.conv2(x, edge_index, edge_attr, batch))
-        else:
-            x = F.relu(self.conv2(x, edge_index, edge_attr))
-        x = F.dropout(x, p=self.dropout_ratio, training=self.training)
+        # edge_attr=None
+        # if self.conv_name == 'ChebConv':
+        #     x = F.relu(self.conv2(x, edge_index, edge_attr, batch))
+        # else:
+        #     x = F.relu(self.conv2(x, edge_index, edge_attr))
+        # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
         # if self.pool_name == 'SAGPooling':
         #     x, edge_index, edge_attr, batch, _, _ = self.pool2(x, edge_index, edge_attr, batch)
         # elif self.pool_name == 'TopKPooling':
@@ -259,18 +309,27 @@ class Model(torch.nn.Module):
         #     x, edge_index, batch, _ = self.pool2(x, edge_index, batch)
         # elif self.pool_name == 'HGPSLPool':
         #     x, edge_index, edge_attr, batch = self.pool2(x, edge_index, edge_attr, batch)
-        x2 = gap(x, batch)
+        # x2 = gap(x, batch)
 
-        edge_attr=None
-        if self.conv_name == 'ChebConv':
-            x = F.relu(self.conv3(x, edge_index, edge_attr, batch))
-        else:
-            x = F.relu(self.conv3(x, edge_index, edge_attr))
-        x = F.dropout(x, p=self.dropout_ratio, training=self.training)
-        x3 = gap(x, batch)
+        # edge_attr=None
+        # if self.conv_name == 'ChebConv':
+        #     x = F.relu(self.conv3(x, edge_index, edge_attr, batch))
+        # else:
+        #     x = F.relu(self.conv3(x, edge_index, edge_attr))
+        # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
+        # x3 = gap(x, batch)
+        
+        # edge_attr=None
+        # if self.conv_name == 'ChebConv':
+        #     x = F.relu(self.conv4(x, edge_index, edge_attr, batch))
+        # else:
+        #     x = F.relu(self.conv4(x, edge_index, edge_attr))
+        # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
+        # x4 = gap(x, batch)
+
 
         # x = F.relu(x1)
-        x = F.relu(x1)+F.relu(x2)+F.relu(x3)
+        # x = F.relu(x1)+F.relu(x2)+F.relu(x3)+F.relu(x4)
 
         # GCN2 forword
         # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
@@ -535,3 +594,4 @@ class Net3(nn.Module):
         out = self.fc2(out)
 
         return torch.log_softmax(out, dim=-1), loss1 + loss2
+

@@ -1,0 +1,50 @@
+44787795,Approximation and learning techniques in database systems,1999,0,8,2,0.52185,118037170,Jeffrey Scott Vitter,0,-0.3632509700454942,1.1437180412081445
+119813091,XPathLearner an on-line self-tuning Markov histogram for XML path selectivity estimation,2002,15,79,2,1.0,2149519810,Lipyeow Lim,0,2.499290808805226,-0.950573800067439
+1496310013,Modeling and Querying E-Commerce Data in Hybrid Relational-XML DBMSs,2008,17,1,3,0.685714,2149519810,Lipyeow Lim,0,2.2264543832113666,-0.864750789273662
+1514541416,Relational database management encryption system,2001,2,69,2,0.0,2200939589,Sriram Padmanabhan,0,1.15941583720679,0.24889372652238476
+1525091459,Advances and Challenges for Scalable Provenance in Stream Processing Systems,2008,18,24,5,0.0,2163103209,Archan Misra,0,0.6135640309143683,-0.6076542838450061
+1481774002,Querying Data and an Associated Ontology in a Database Management System,2008,15,57,2,0.685714,2149519810,Lipyeow Lim,0,0.7215975991611812,0.3052417628859806
+1572990282,Unifying data and domain knowledge using virtual views,2007,16,17,3,0.734694,2149519810,Lipyeow Lim,0,0.826086565560803,0.11733827133293284
+1586832667,Towards efficient join processing over large RDF graph using mapreduce,2012,17,7,3,1.0,2102579599,Xiaofei Zhang,0,0.7192126686812044,-1.1733128517533191
+1583433099,Supporting Efficient Parametric Search of E-Commerce Data A Loosely-Coupled Solution,2002,21,0,1,1.0,2421291724,Min Wang,0,0.915915673079355,0.08400192524852808
+1864010644,LinkedCT A Linked Data Space for Clinical Trials,2009,3,51,5,0.0,2090809909,Oktie Hassanzadeh,0,-1.4872462629339107,-1.1608823404971327
+1979110895,gSketch on query estimation in graph streams,2011,30,52,3,0.0,2169163720,Peixiang Zhao,0,-0.42845202490949574,0.1450203979855267
+1982845811,Boolean + ranking querying a database by k-constrained optimization,2006,19,45,4,0.0,2429181981,Zhen Zhang,0,0.4498948439606795,0.21165148314999857
+1981634604,Flexible aggregate similarity search,2011,22,39,5,0.0,2716030107,Yang Li,0,-0.0041099411153885,0.0447066884760059
+1998244781,Approximate computation of multidimensional aggregates of sparse data using wavelets,1999,22,351,2,0.52185,118037170,Jeffrey Scott Vitter,0,-0.16328011374660287,0.9890247327765609
+2002757262,Locality-aware allocation of multi-dimensional correlated files on the cloud platform,2015,28,1,4,0.75,2102579599,Xiaofei Zhang,0,-0.17593512422605498,0.5928086131476403
+2011078029,Efficient multi-way theta-join processing using MapReduce,2012,28,75,3,1.0,2102579599,Xiaofei Zhang,0,0.2777682180676544,0.2877803205576738
+2021850646,Wavelet-based histograms for selectivity estimation,1998,31,390,3,0.0,1874579918,Yossi Matias,0,0.3698448211487513,0.5206031569939813
+2036959307,EAGRE Towards scalable I/O efficient SPARQL query evaluation on the cloud,2013,36,48,4,1.0,2102579599,Xiaofei Zhang,0,-0.12601161983422127,0.25620308204143294
+2046136038,AWETO efficient incremental update and querying in rdf storage system,2011,11,7,4,0.0,2109453883,Xu Pu,0,-0.39040501381267817,0.0678282925157182
+2040921254,A time-and-value centric provenance model and architecture for medical event streams,2007,10,25,1,1.0,2421291724,Min Wang,0,-0.42845202490949574,0.1450203979855267
+2074836925,Supporting ranking and clustering as generalized order-by and group-by,2007,31,40,2,0.0,2145831560,Chengkai Li,0,0.0908845357243609,0.31128747720343375
+2082718569,A learning-based approach to estimate statistics of operators in continuous queries a case study,2003,27,7,2,1.0,2634089884,Like Gao,0,-0.2745762292053669,0.10240794179076973
+2100901653,Scalable mining for classification rules in relational databases,1998,21,41,1,1.0,2421291724,Min Wang,0,1.2623564135648486,0.2567207708935015
+2103993576,Modeling Autonomous Catalog for Electronic Commerce,2004,3,0,3,0.0,2716469377,Yuan Chi Chang,0,0.9774111169752454,0.07122141286290462
+2093808275,Optimizing Statistical Information Extraction Programs over Evolving Text,2012,26,21,4,0.0,2663443569,Fei Chen,0,-0.26111576430640643,-0.19302535071852145
+2102243112,Profile-based Retrieval of Records in Medical Databases,2009,5,3,3,0.465497,2295328501,Anastasios Kementsietsidis,0,-0.0041099411153885,0.0447066884760059
+2105971467,Cryptography and relational database management systems,2001,13,62,2,0.0,2564022943,J. He,0,0.797356339594363,0.1580064650426916
+2138752345,CXHist an on-line classification-based histogram for XML string selectivity estimation,2005,31,15,3,0.219131,118037170,Jeffrey Scott Vitter,0,1.4797613048137608,-0.5617953072625481
+2135857164,Expressing and Optimizing Similarity-Based Queries in SQL,2004,12,10,2,1.0,2634089884,Like Gao,0,0.09162081552403807,0.22856462167131267
+2121604804,Selectivity estimation in the presence of alphanumeric correlations,1997,11,20,1,1.0,2421291724,Min Wang,0,0.8809340701863815,0.11633144593696097
+2131266930,Efficient Update of Indexes for Dynamically Changing Web Documents,2007,30,11,2,0.734694,2149519810,Lipyeow Lim,0,0.09743772735931339,-0.03547766744737883
+2131702534,Semantic queries by example,2013,19,17,3,0.569048,2149519810,Lipyeow Lim,0,0.651786865585849,0.33869901878142344
+2131760692,On the Efficiency of Provenance Queries,2009,19,6,2,0.465497,2295328501,Anastasios Kementsietsidis,0,0.03483052717618193,0.07123105628286343
+2153230306,SASH a self-adaptive histogram set for dynamically changing workloads,2003,16,38,2,1.0,2149519810,Lipyeow Lim,0,0.014532710543751099,0.030944858938630852
+2153257312,Linkage Query Writer,2009,5,20,6,0.0,2090809909,Oktie Hassanzadeh,0,0.3846661842197418,-0.12743683395637467
+2156998544,Optimizing content freshness of relations extracted from the web using keyword search,2010,18,11,4,0.0,2112980736,Mohan Yang,0,-1.960890998009963,-2.117215726665855
+2163101220,Semantic queries in databases problems and challenges,2009,13,13,3,0.661778,2149519810,Lipyeow Lim,0,1.616702805813725,0.4303583911131475
+2169458905,Supporting ontology-based keyword search over medical databases,2008,4,10,3,0.465497,2295328501,Anastasios Kementsietsidis,0,-0.331157261929354,-0.16512333473426355
+2160582691,Semantic Data Management Towards Querying Data with their Meaning,2007,7,15,3,0.734694,2149519810,Lipyeow Lim,0,1.0706352983548066,0.0756698945400679
+2167010214,Persisting and querying biometric event streams with hybrid relational-XML DBMS,2007,15,3,3,1.0,2102328917,Daby Sow,0,0.7561706617094889,-0.08895498470357852
+2235478132,Towards efficient join processing over large RDF graph using mapreduce,2012,0,19,3,1.0,2102579599,Xiaofei Zhang,0,-0.0041099411153885,0.0447066884760059
+2267977268,Exact and approximate flexible aggregate similarity search,2016,22,5,7,0.0,2472728339,Feifei Li,0,-0.0041099411153885,0.0447066884760059
+2248182989,Ontology-based searching in database systems,2009,26,23,3,0.661778,2149519810,Lipyeow Lim,0,0.6292252105929688,0.22413740815888325
+2273640063,Editorial Efficient incremental update and querying in AWETO RDF storage system,2014,34,2,5,0.0,2105625159,Jianyong Wang,0,-0.39040501381267817,0.0678282925157182
+2293244088,Efficient and Flexible Index Access in MapReduce,2014,20,1,5,0.0,2798482480,Zhao Cao,0,0.17080656789253337,0.09957495964682195
+2281769266,PERFORMING AN INDEX OPERATION IN A MAPREDUCE ENVIRONMENT,2013,5,5,4,0.0,2161123335,Shimin Chen,0,-0.8111052405828644,0.8913388803529055
+2401109493,LogKV Exploiting Key-Value Stores for Log Processing,2013,9,6,4,0.0,2262947736,Zhao Cao,0,-0.0041099411153885,0.0447066884760059
+2396993518,Method and apparatus for maintaining and processing provenance data in data stream processing system,2008,33,6,4,1.0,2102328917,Daby Sow,0,-1.057189784512335,0.5474681735371929
+2422455892,Understanding short texts through semantic enrichment and hashing,2016,10,0,4,0.0,2190595604,Zheng Yu,0,-0.0041099411153885,0.0447066884760059
+2950250233,Efficient Multi-way Theta-Join Processing Using MapReduce,2012,20,2,3,1.0,2102579599,Xiaofei Zhang,0,0.2777682180676544,0.2877803205576738

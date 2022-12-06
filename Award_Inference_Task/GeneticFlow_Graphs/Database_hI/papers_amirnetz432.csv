@@ -1,0 +1,35 @@
+34429863,Aggregations design in database services,2002,3,33,1,1.0,2269285343,Amir Netz,0,-0.13835889848422178,0.12168013402996519
+962486531,Proactive caching in olap databases,2006,10,10,3,0.756815,490566965,Cristian Petculescu,0,0.7325811257243561,2.2810899510447955
+1569012992,Multi-dimensional data structure caching,1999,16,81,2,0.0,490566965,Cristian Petculescu,0,-0.25176355243725357,0.1162665052735905
+1526730780,Systems and methods for proactive caching utilizing OLAP variants,2006,24,42,3,0.756815,490566965,Cristian Petculescu,0,0.7325811257243561,2.2810899510447955
+1493622312,Centralized KPI framework systems and methods,2005,22,117,5,0.0,88383797,Thierry DHers,0,-0.23989334940303242,-0.0646988176317644
+1511563195,Database generation systems and methods,2005,22,55,4,1.0,2110214823,Paul J. Sanders,0,2.717724239696415,0.05720358751685419
+1931122984,Reporting aggregate results from database queries,1999,6,41,2,0.0,490566965,Cristian Petculescu,0,1.846080062311735,0.3912962683964949
+1931720633,Extensions for adding and removing calculated members in a multidimensional database,2003,19,20,2,1.0,490566965,Cristian Petculescu,0,-0.16097125133513598,1.0531362653831093
+1760176499,Disk optimized paging for column oriented databases,2013,50,3,2,0.570615,490566965,Cristian Petculescu,0,-0.0041099411153885,0.0447066884760059
+1582891157,Systems and methods for generating prediction queries,2005,7,38,2,0.0,1570363787,Scott Conrad Oveson,0,0.0908845357243609,0.31128747720343375
+1925486482,Fact dimensions in multidimensional databases,2005,31,12,7,0.8,161635888,Edward Melomed,0,-0.0041099411153885,0.0447066884760059
+2005918597,Data mining platform for database developers,2001,0,0,1,1.0,2269285343,Amir Netz,0,-1.4513327091425177,-1.4413804801334305
+2081953635,Method system and apparatus for exposing workbook ranges as data sources,2004,82,59,5,0.428571,113919074,Eran Megiddo,0,0.09560153568394734,0.34384522677555335
+2118641512,Write-back to cells,2004,25,23,1,1.0,2269285343,Amir Netz,0,-0.0041099411153885,0.0447066884760059
+2201644241,Utilizing spreadsheet references with grouped aggregate views,2008,16,8,4,0.643341,490566965,Cristian Petculescu,0,-0.0041099411153885,0.0447066884760059
+2244888675,Adaptive query execution in a distributed database system,1999,3,72,3,0.0,490566965,Cristian Petculescu,0,2.117596015500315,0.4167228325588191
+2196584093,Aggregations performance estimation in database systems,1999,6,34,1,1.0,2269285343,Amir Netz,0,0.1142473318955064,0.812304648436485
+2265071449,Adaptive database caching and data retrieval mechanism,1999,5,35,3,0.0,490566965,Cristian Petculescu,0,0.30405313385183075,0.06061911695769507
+2216727568,Virtual dimensions in databases and method therefor,1999,3,26,2,0.0,490566965,Cristian Petculescu,0,-0.3632509700454942,1.1437180412081445
+2216951034,Record for multidimensional databases,1999,10,55,2,0.0,2214442392,Alexander Berger,0,-0.3513283048345433,0.5171056714131285
+2217745242,Key performance indicator system and method,2004,14,93,2,0.0,2243588605,Grzegorz Guzik,0,-0.0041099411153885,0.0447066884760059
+2246048132,Systems and methods for caching utilizing MOLAP and ROLAP variants,2004,4,3,3,0.882353,2211267816,Thomas P. Conlon,0,0.7325811257243561,2.2810899510447955
+2208453265,System that facilitates database querying,2005,10,12,5,1.0,490566965,Cristian Petculescu,0,0.2825252129602031,0.32580694526215126
+2280199275,Multilingual database interaction system and method,2004,23,32,3,0.8,161635888,Edward Melomed,0,-0.01331521138473075,0.17670384109426496
+2299573759,Hierarchical organization for scale-out cluster,2013,52,3,2,0.570615,490566965,Cristian Petculescu,0,-0.006141135400785165,-0.1838300893343523
+2320562018,System and method for maintaining data for performing â€œwhat ifâ€ analysis,1999,12,34,1,1.0,2269285343,Amir Netz,0,-0.0041099411153885,0.0447066884760059
+2344721682,Job authoring with data preview,2015,12,3,4,1.0,737747564,Michael J. Flasko,0,0.187795573089195,-0.31981062689680706
+2345150148,JOB CREATION AND REUSE,2016,4,2,5,1.0,737747564,Michael J. Flasko,0,0.187795573089195,-0.31981062689680706
+2337033908,Automated supplementation of data model,2014,51,12,5,1.0,1987829844,Pedram Faghihi Rezaei,0,0.016802303981745193,-0.07002885613905158
+2403904634,Security trimming of search suggestions,2015,9,2,5,0.538461,490566965,Cristian Petculescu,0,0.014532710543751099,0.030944858938630852
+2406786195,Systems and methods to facilitate utilization of database modeling,2005,10,43,5,1.0,490566965,Cristian Petculescu,0,0.32007574465398575,-0.09376948966243698
+2396506267,Methodsystem and apparatus for making available workbook ranges as data sources,2005,8,4,4,0.428571,113919074,Eran Megiddo,0,0.09560153568394734,0.34384522677555335
+2437463070,Job scheduling and monitoring,2017,34,8,5,1.0,737747564,Michael J. Flasko,0,-0.0041099411153885,0.0447066884760059
+2773949520,System and method for proactive caching using modified olap to generate query sources for data source computer-readable recording medium and device using system,2004,0,1,3,0.833333,490566965,Cristian Petculescu,0,-0.3201397168618779,0.42824505983169014
+2753647929,METHOD SYSTEM AND APPARATUS FOR DISCLOSING WORKBOOK RANGE AS DATA SOURCE,2005,6,0,5,0.428571,113919074,Eran Megiddo,0,0.187795573089195,-0.31981062689680706

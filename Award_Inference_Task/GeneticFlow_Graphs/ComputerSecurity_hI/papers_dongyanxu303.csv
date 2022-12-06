@@ -1,0 +1,48 @@
+103986934,Guest-Transparent Prevention of Kernel Rootkits with VMM-Based Memory Shadowing,2008,32,276,3,1.0,2396163602,Ryan Riley,0,-0.3364530733679178,1.0491867178730423
+198543417,Collapsar a VM-based architecture for network attack detention center,2004,16,114,2,0.0,2101920419,Xuxian Jiang,0,0.2298079768514764,0.5248260330915578
+1558684431,Improved kernel security through code validation diversification and minimization,2013,49,0,1,1.0,2133101947,Dongyan Xu,0,0.6457823823315189,1.4470883734573181
+1548740378,Virtual playgrounds for worm behavior investigation,2005,32,39,2,0.0,2101920419,Xuxian Jiang,0,0.13679434731489165,0.6751406926737795
+1954816054,X-force force-executing binary programs for security applications,2014,41,35,4,0.0,2338851147,Fei Peng,0,-0.13207201912491093,0.695031384453717
+1674910155,DSCRETE automatic rendering of forensic information from memory images via application logic reuse,2014,26,18,4,1.0,2022929576,Brendan Saltaformaggio,0,-0.3912276319926795,0.07353894049935202
+1963581527,Process out-grafting an efficient &quot;out-of-VM&quot; approach for fine-grained process execution monitoring,2011,32,73,2,0.172251,2101920419,Xuxian Jiang,0,0.05940095047987125,0.6960502266457337
+1981984793,Characterizing kernel malware behavior with kernel data access patterns,2011,25,13,3,1.0,2153089702,Junghwan Rhee,0,-0.3976003713362508,1.164290882867107
+1977634174,iRiS Vetting Private API Abuse in iOS Applications,2015,25,24,4,1.0,2138273451,Zhui Deng,0,-0.15780235040444368,0.5443637062108035
+1968937181,CAFE A Virtualization-Based Approach to Protecting Sensitive Cloud Application Logic Confidentiality,2015,17,3,6,0.857143,2130793408,Sungjin Park,0,0.155870422438688,-0.3611899258997246
+1974316340,Profiling self-propagating worms via behavioral footprinting,2006,23,26,2,0.0,2101920419,Xuxian Jiang,0,0.0040557659796233,0.2757546058061082
+1991563835,VCR App-Agnostic Recovery of Photographic Evidence from Android Device Memory Images,2015,29,17,5,1.0,2022929576,Brendan Saltaformaggio,0,0.0040557659796233,0.2757546058061082
+2009346622,Data-Centric OS Kernel Malware Characterization,2014,39,8,5,1.0,2153089702,Junghwan Rhee,0,-0.07571021086022159,1.4705078123714437
+2031508806,AutoPaG towards automated software patch generation with source code root cause identification and repair,2007,36,32,4,0.162712,2101920419,Xuxian Jiang,0,-0.8068564391735623,1.5257520948323258
+2048997531,DKSM Subverting Virtual Machine Introspection for Fun and Profit,2010,27,141,7,0.0,2149203222,Sina Bahram,0,0.1475395743585395,0.8074695844854315
+2047581594,CloudER a framework for automatic software vulnerability location and patching in the cloud,2012,14,5,2,0.3986,2141957575,Ping Chen,0,0.1639362940477497,0.6530314529854678
+2036965957,Collapsar a VM-based honeyfarm and reverse honeyfarm architecture for network attack capture and detention,2006,20,38,2,0.0,2101920419,Xuxian Jiang,0,0.02080662431885795,0.3505429208334274
+2049722158,GUITAR Piecing Together Android App GUIs from Memory Images,2015,29,19,5,1.0,2022929576,Brendan Saltaformaggio,0,0.0040557659796233,0.2757546058061082
+2070041400,SPIDER stealthy binary program instrumentation and debugging via hardware virtualization,2013,30,59,3,1.0,2138273451,Zhui Deng,0,-0.6824299308944969,0.8123288039398816
+2091618476,Stealthy malware detection and monitoring through VMM-based â€œout-of-the-boxâ€ semantic view reconstruction,2010,30,77,3,0.197701,2101920419,Xuxian Jiang,0,0.08445668824437555,0.9577559712349644
+2085416455,Obfuscation resilient binary code reuse through trace-oriented programming,2013,47,36,6,0.0,2140883059,Junyuan Zeng,0,-1.0468816597574564,1.2301726039323584
+2102166619,Reuse-oriented camouflaging trojan Vulnerability detection and attack construction,2010,31,17,3,1.0,2136751487,Zhiqiang Lin,0,0.06887957182581145,0.6233534058225634
+2096347345,LogGC garbage collecting audit log,2013,25,37,3,1.0,2158358121,Kyu Hyung Lee,0,0.0040557659796233,0.2757546058061082
+2114792143,RandSys Thwarting Code Injection Attacks with System Service Interface Randomization,2007,25,45,3,0.162712,2101920419,Xuxian Jiang,0,0.0040557659796233,0.2757546058061082
+2132983733,Protection mechanisms for application service hosting platforms,2004,21,24,2,0.0,2101920419,Xuxian Jiang,0,0.05650780479712854,1.5100909004443728
+2112731379,Stealthy malware detection through vmm-based &quot;out-of-the-box&quot; semantic view reconstruction,2007,26,478,3,0.162712,2101920419,Xuxian Jiang,0,0.08445668824437555,0.9577559712349644
+2139949621,Defeating Dynamic Data Kernel Rootkit Attacks via VMM-Based Guest-Transparent Monitoring,2009,12,76,3,1.0,2153089702,Junghwan Rhee,0,-0.6537736244944359,1.188263400557981
+2122366494,IntroLib Efficient and transparent library call introspection for malware forensics,2012,16,13,1,1.0,2133101947,Dongyan Xu,0,-0.39385155031851715,1.635364817126827
+2148488259,Convicting exploitable software vulnerabilities An efficient input provenance based approach,2008,25,27,3,1.0,2136751487,Zhiqiang Lin,0,-0.8858268888291315,2.0135412131366697
+2163825542,Trust-based privacy preservation for peer-to-peer data sharing,2006,32,49,4,0.0,2601017638,Yi Lu,0,0.5963944102088171,1.6748757156973622
+2213728018,Accurate Low Cost and Instrumentation-Free Security Audit Logging for Windows,2015,28,20,6,1.0,2256244641,Shiqing Ma,0,-0.34732387700793127,0.37598528952980015
+2295441334,A Practical Approach for Adaptive Data Structure Layout Randomization,2015,33,20,4,0.3986,2141957575,Ping Chen,0,0.0040557659796233,0.2757546058061082
+2397699236,High Accuracy Attack Provenance via Binary-based Execution Partition,2013,23,64,3,1.0,2158358121,Kyu Hyung Lee,0,-0.34732387700793127,0.37598528952980015
+2529516815,StorM Enabling Tenant-Defined Cloud Storage Middle-Box Services,2016,21,2,4,0.0,2124714362,Hui Lu,0,0.16419579619386868,0.003806086685879062
+2579106964,ProTracer Towards Practical Provenance Tracing by Alternating Between Logging and Tainting,2016,27,59,3,1.0,2256244641,Shiqing Ma,0,0.0040557659796233,0.2757546058061082
+2560810941,HERCULE attack story reconstruction via community discovery on correlated log graph,2016,46,32,9,0.0,2615179897,Kexin Pei,0,-0.29582731571127274,1.2258641951872764
+2604507227,J-Force Forced Execution on JavaScript,2017,29,20,7,0.0,2305748334,Kyungtae Kim,0,-0.32906366963246436,1.12223938001077
+2754545654,Live acquisition of main memory data from Android smartphones and smartwatches,2017,15,7,6,0.0,2527370526,Seung Jei Yang,0,0.0040557659796233,0.2757546058061082
+2770445302,Toward a more dependable hybrid analysis of android malware using aspect-oriented programming,2018,31,6,4,0.0,2343906105,Aisha Ali Gombe,0,0.05940095047987125,0.6960502266457337
+2792591096,MCI Modeling-based Causality Inference in Audit Logging for Attack Investigation,2018,25,10,3,0.0,239661466,Vinod Yegneswaran,0,0.0040557659796233,0.2757546058061082
+2793458540,CAFE A Virtualization-Based Approach to Protecting Sensitive Cloud Application Logic Confidentiality,2018,0,2,6,0.857143,2130793408,Sungjin Park,0,0.155870422438688,-0.3611899258997246
+2790853175,Tipped Off by Your Memory Allocator Device-Wide User Activity Sequencing from Android Memory Images,2018,0,1,6,1.0,2482548365,Rohit Bhatia,0,0.0040557659796233,0.2757546058061082
+2794073659,Securing Real-Time Microcontroller Systems through Customized Memory View Switching,2018,22,16,7,1.0,2150966487,Chung Hwan Kim,0,0.0040557659796233,0.2757546058061082
+2794362011,Gemini Guest-transparent honey files via hypervisor-level access redirection,2018,21,0,4,0.727273,2135724973,Zhongshu Gu,0,-0.33602562449829443,0.44483453194145506
+2889890187,Cross-Layer Retrofitting of UAVs Against Cyber-Physical Attacks,2018,0,6,6,0.0,2738312765,Fan Fei,0,-0.20545490062293015,0.2198759960986171
+2891240227,Detecting Attacks Against Robotic Vehicles A Control Invariant Approach,2018,58,15,7,0.0,2673107962,Hongjun Choi,0,0.0040557659796233,0.2757546058061082
+2907338990,Lprov Practical Library-aware Provenance Tracing,2018,52,0,5,0.0,2440221089,Fei Wang,0,0.0040557659796233,0.2757546058061082
+2965126789,RVFuzzer Finding Input Validation Bugs in Robotic Vehicles through Control-Guided Testing,2019,0,0,9,1.0,2771083992,Taegyu Kim,0,0.0040557659796233,0.2757546058061082

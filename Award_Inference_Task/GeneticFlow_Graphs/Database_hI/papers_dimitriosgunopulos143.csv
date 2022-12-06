@@ -1,0 +1,57 @@
+10239605,Rank-Aware Crawling of Hidden Web sites,2011,19,3,3,1.0,2032326962,George Valkanas,0,-0.0041099411153885,0.0447066884760059
+47851050,A Faceted Crawler for the Twitter Service,2014,23,4,3,1.0,2032326962,George Valkanas,0,0.12309163601050414,0.12930578147617974
+99053925,Architecture and Implementation of an XQuery-based Information Integration Platform,2002,67,32,2,0.0,8132329,Vassilis J. Tsotras,0,0.7525180197175323,-0.388204805915279
+1542392755,Towards in-situ data storage in sensor databases,2005,18,14,3,0.625,1507330797,Demetrios Zeinalipour Yazti,0,0.07198529148626066,0.3181617097513532
+1489548117,Indexing large human-motion databases,2004,37,185,3,0.0,2170070822,Eamonn Keogh,0,-0.0041099411153885,0.0447066884760059
+1508806467,Mining Process Models from Workflow Logs,1998,18,690,2,0.0,2138427228,Rakesh Agrawal,0,0.4195189196570654,1.3047360695491779
+1483146256,Temporal Aggregation over Data Streams Using Multiple Granularities,2002,28,51,2,0.0,2950269934,Donghui Zhang,0,-0.27465825007319333,0.14277618844842688
+1884080078,Elastic Processing of Analytical Query Workloads on IaaS Clouds,2015,37,8,4,0.0,272057914,Herald Kllapi,0,-0.0041099411153885,0.0447066884760059
+1939649909,Efficient Indexing of Spatiotemporal Objects,2002,43,148,4,0.4,50097054,Marios Hadjieleftheriou,0,0.010839480868759611,0.10162569624682702
+1599696396,Anytime measures for top-k algorithms,2007,27,44,3,1.0,2011266887,Benjamin Arai,0,-0.0041099411153885,0.0447066884760059
+1784787645,Efficiently computing and querying multidimensional OLAP data cubes over probabilistic relational data,2010,37,6,2,0.0,294375193,Alfredo Cuzzocrea,0,0.9000313647892977,0.44562187703943595
+1986041862,An access cost-aware approach for object retrieval over multiple sources,2010,30,2,3,1.0,2011266887,Benjamin Arai,0,0.1822416555524229,-0.19375588831705134
+1977496278,Automatic subspace clustering of high dimensional data for data mining applications,1998,57,2209,3,0.0,2138427228,Rakesh Agrawal,0,-0.0041099411153885,0.0447066884760059
+1977949265,Indexing spatiotemporal archives,2006,59,64,4,0.4,50097054,Marios Hadjieleftheriou,0,-0.241250245220175,-0.17693373480736696
+2001670934,Time series similarity measures and time series indexing (abstract only),2001,0,44,1,1.0,1656275121,Dimitrios Gunopulos,0,0.43739842239757626,0.009947045888208002
+2007159951,On the spatiotemporal burstiness of terms,2012,36,62,3,0.0,2028397797,Theodoros Lappas,0,-0.0041099411153885,0.0447066884760059
+1992169991,Supporting historic queries in sensor networks with flash storage,2014,37,9,4,0.0,2122211485,Adam Dou,0,-0.0041099411153885,0.0447066884760059
+2022734059,On computing temporal aggregates with range predicates,2008,19,26,4,1.0,2776245557,Donghui Zhang,0,0.13061318165874305,0.1761393786485848
+2019916408,Clustering gene expression data in SQL using locally adaptive metrics,2003,18,8,3,1.0,2167006157,Dimitris Papadopoulos,0,0.8342777435886438,0.19253312391631258
+2023565681,Improving process models by discovering decision points,2007,26,16,3,0.0,2156205825,Sharmila Subramaniam,0,0.7844358355092823,1.8726009907809045
+2011557772,Exploiting locality for scalable information retrieval in peer-to-peer networks,2005,30,51,3,0.625,1507330797,Demetrios Zeinalipour Yazti,0,-0.19196147509311953,0.14487620954580122
+2022210287,SkyDiver a framework for skyline diversification,2013,39,13,3,1.0,2032326962,George Valkanas,0,0.25245882146783893,0.09919480006319664
+2011679994,Approximating multi-dimensional aggregate range queries over real attributes,2000,37,169,1,1.0,1656275121,Dimitrios Gunopulos,0,0.8527734571958216,0.18194530152664057
+2049120089,Embedding-based subsequence matching in time-series databases,2011,68,53,5,0.8125,2000108749,Panagiotis Papapetrou,0,-0.0041099411153885,0.0447066884760059
+2034497960,Temporal and spatio-temporal aggregations over data streams using multiple time granularities,2003,31,55,2,1.0,2776245557,Donghui Zhang,0,-0.27465825007319333,0.14277618844842688
+2057714964,Identifying similarities periodicities and bursts for online search queries,2004,17,246,4,0.0,2146138755,Michail Vlachos,0,0.1709840045901615,0.054375989664129175
+2099328971,Ad-hoc top-k query answering for data streams,2007,23,84,2,0.328537,2112689123,Gautam Das,0,-0.14812429161597473,0.08669077745880308
+2108510889,Indexing mobile objects using dual transformations,2005,58,38,3,0.428571,2217777545,George Kollios,0,0.17391615759999998,0.26835898102601596
+2126400629,Constraint-based rule mining in large dense databases,1999,29,306,3,0.0,2101064966,Roberto J. Bayardo,0,0.5325669973310596,0.09709227568458595
+2115191498,SensorBench benchmarking approaches to processing wireless sensor network data,2014,42,3,8,0.0,2065987616,Ixent Galpin,0,-0.0041099411153885,0.0447066884760059
+2121110504,Indexing mobile objects on the plane,2002,21,36,3,0.882353,2167006157,Dimitris Papadopoulos,0,0.09526370926126411,0.008306466226981798
+2115366404,Online amnesic approximation of streaming time series,2004,29,149,3,0.0,2146138755,Michail Vlachos,0,-0.0041099411153885,0.0447066884760059
+2139273822,Answering top-k queries using views,2006,24,153,2,0.328537,2112689123,Gautam Das,0,-0.0041099411153885,0.0447066884760059
+2107103196,Embedding-based subsequence matching with gaps---range---tolerances a Query-By-Humming application,2015,49,3,5,1.0,1923472341,Alexios Kotsifakos,0,0.8809340701863815,0.11633144593696097
+2107199788,Model-based search in large time series databases,2011,15,4,5,0.75,1923472341,Alexios Kotsifakos,0,-0.0041099411153885,0.0447066884760059
+2143182259,Discovering all most specific sentences,2003,39,187,1,1.0,1656275121,Dimitrios Gunopulos,0,-0.0041099411153885,0.0447066884760059
+2137178896,Parsimonious Explanations of Change in Hierarchical Data,2007,1,7,4,0.0,2797169465,Dhiman Barman,0,-0.19468633862787194,0.5660694212781201
+2119788913,Hum-a-song a subsequence matching with gaps-range-tolerances query-by-humming system,2012,11,7,4,1.0,1923472341,Alexios Kotsifakos,0,-0.0041099411153885,0.0447066884760059
+2117197113,Approximating Aggregation Queries in Peer-to-Peer Networks,2006,27,39,3,1.0,2011266887,Benjamin Arai,0,0.0835119396817451,0.051530138659233005
+2144661390,Selectivity estimators for multidimensional range queries over real attributes,2005,38,78,1,1.0,1656275121,Dimitrios Gunopulos,0,0.07974162249667077,0.010525607020550304
+2144990395,Reference-based alignment in large sequence databases,2009,44,17,4,0.678571,2000108749,Panagiotis Papapetrou,0,-0.0041099411153885,0.0447066884760059
+2157325945,SmartTrace Finding similar trajectories in smartphone networks without disclosing the traces,2011,11,25,4,0.0,2974088602,Costandinos Costa,0,-0.0041099411153885,0.0447066884760059
+2169844574,Efficient and tumble similar set retrieval,2001,17,40,3,0.0,335443309,Nick Koudas,0,-0.5615120360052527,-0.07534351462018847
+2148858739,Anytime measures for top-k algorithms on exact and fuzzy data sets,2009,37,16,3,1.0,2011266887,Benjamin Arai,0,-0.2554006006761083,0.005185177391162952
+2170078865,Data Acquisition in Sensor Networks with Large Memories,2005,10,27,3,0.625,1507330797,Demetrios Zeinalipour Yazti,0,-0.241250245220175,-0.17693373480736696
+2241261888,Machine Learning and Knowledge Discovery in Databases Part III European Conference ECML PKDD 2010 Athens Greece September 5-9 2011 / Lecture Notes in Artificial Intelligence),2011,0,3,1,1.0,1656275121,Dimitrios Gunopulos,0,-0.0041099411153885,0.0447066884760059
+2293058503,Insights on a Scalable and Dynamic Traffic Management System,2015,25,23,5,0.0,2399422378,Nikolaos Zygouras,0,0.36234291477625674,0.2656469790190988
+2317824144,Processing Top-k Dominating Queries in Metric Spaces,2016,40,8,5,0.71748,2128047336,Eleftherios Tiakas,0,0.09560153568394734,0.34384522677555335
+2296436419,Metric-Based Top-k Dominating Queries,2014,26,11,5,0.71748,2128047336,Eleftherios Tiakas,0,0.09560153568394734,0.34384522677555335
+2398670371,Event Detection from Social Media Data,2013,19,9,2,1.0,2032326962,George Valkanas,0,-0.0041099411153885,0.0447066884760059
+2401447850,Heterogeneous Stream Processing and Crowdsourcing for Urban Traffic Management,2014,26,61,13,0.0,2780205613,Alexander Artikis,0,-0.0041099411153885,0.0447066884760059
+2486754047,Data Mining Techniques for Improving Workflow Models,2008,49,0,1,1.0,1656275121,Dimitrios Gunopulos,0,0.5337553561380163,1.3374684948057676
+2461591203,Home is where your friends are,2016,36,9,1,1.0,1656275121,Dimitrios Gunopulos,0,-0.0041099411153885,0.0447066884760059
+2623116958,REMI Reusable Elements for Multi-Level Information Availability Demo,2017,12,0,4,0.0,2116861371,Avigdor Gal,0,-0.0342318789230663,0.20568307763191515
+2963303973,Social Event Scheduling,2018,16,1,3,0.0,1141791694,Nikos Bikakis,0,-0.0041099411153885,0.0447066884760059
+2964150907,Attendance Maximization for Successful Social Event Planning,2018,0,0,3,0.0,1141791694,Nikos Bikakis,0,-0.0041099411153885,0.0447066884760059
+3023079907,EditorialMining Urban Data (Part B),2016,0,3,3,0.0,237265413,Gennady Andrienko,0,0.18601297105691045,-0.0008472885667257998

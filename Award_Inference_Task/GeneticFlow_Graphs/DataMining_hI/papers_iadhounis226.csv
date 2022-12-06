@@ -1,0 +1,173 @@
+19293941,University of Glasgow at TREC 2004 Experiments in Web Robust and Terabyte Tracks with Terrier,2004,23,77,3,1.0,2045932773,Vassilis Plachouras,0,-0.03671437070529356,-0.12744899561072806
+36864989,Ranking digital images using combination if evidences,2000,9,0,1,1.0,336997814,Iadh Ounis,0,0.003708468606338,0.082832279151172
+58594626,Aggregating evidence from hospital departments to improve medical records search,2013,33,10,3,0.9,184570117,Nut Limsopatham,0,0.003708468606338,0.082832279151172
+24701829,University of Glasgow at TREC 2009 Experiments with Terrier,2009,34,38,3,0.839286,2078704756,Richard McCreadie,0,-0.13275296294680305,-0.071629888206014
+161058706,Detecting Missing Content Queries in an SMS-Based HIV/AIDS FAQ Retrieval System,2014,31,2,3,1.0,2614660080,Edwin Thuma,0,0.43162625009792,0.20195636031746017
+9073465,Exploiting Query Logs and Field-Based Models to Address Term Mismatch in an HIV/AIDS FAQ Retrieval System,2013,25,1,3,1.0,2614660080,Edwin Thuma,0,0.12981392026006314,-0.26602515408115723
+9861414,Evaluating Real-Time Search over Tweets,2012,8,33,4,0.0,2021418772,Dean McCullough,0,0.07993365250262863,-0.021239978045460933
+96949676,Selecting effective expansion terms for diversity,2013,38,11,4,0.714286,2149080843,SaÃºl Vargas,0,-0.01657107088421793,0.035389748403282274
+183365352,University of Glasgow at the Robust Track- A Query-based Model Selection Approach for the Poorly-Performing Queries,2003,10,7,2,1.0,2107993732,Ben He,0,-0.1029618939806145,0.040434369851773004
+186077783,Aggregated search result diversification,2011,36,17,3,0.883117,2138048039,Rodrygo L. T. Santos,0,0.003708468606338,0.082832279151172
+169877547,Tackling Biased Baselines in the Risk-Sensitive Evaluation of Retrieval Systems,2014,18,8,2,1.0,1978918089,B. Taner DinÃ§er,0,-0.11300819442795465,0.09518744858596301
+296548042,University of Glasgow at TREC 2012 Experiments with Terrier in Medical Records Microblog and Web Tracks,2012,34,21,6,1.0,184570117,Nut Limsopatham,0,0.09869918664672195,-0.18633352365711692
+968552848,Towards a Classifier for Digital Sensitivity Review,2014,12,15,3,1.0,2311684217,Graham McDonald,0,0.5211358296353841,0.23679483973829715
+243667097,Selective combination of evidence for topic distillation using document and aggregate-level information,2004,22,4,2,1.0,2045932773,Vassilis Plachouras,0,0.19037596959721967,-0.19299089681772044
+1532409436,Learning to select a ranking function,2010,21,28,3,1.0,2042576784,Jie Peng,0,-0.2032680216036799,0.07480630025360502
+1532482135,A weighting scheme for star-graphs,2003,13,2,2,0.0,1938169193,Jean Martinet,0,-0.3446971198803777,-0.6489568749060189
+1498324828,Performance Analysis of Distributed Architectures to Index One Terabyte of Text,2004,13,22,3,0.529412,135441323,Fidel Cacheda,0,0.4814665584900948,0.3894139369587107
+1506855607,Toward a User-Centered Image Retrieval System,2000,7,0,1,1.0,336997814,Iadh Ounis,0,-0.13275296294680305,-0.071629888206014
+1498699279,Construction of Query Concepts in a Document Space Based on Data Mining Techniques,2004,14,6,3,0.857143,2154592699,Youjin Chang,0,-0.01657107088421793,0.035389748403282274
+1543805048,Analysis of link graph compression techniques,2008,4,5,3,0.0,2153905267,David Hannah,0,0.01081499603401945,-0.22829683392880562
+1494468215,High quality expertise evidence for expert search,2008,21,41,3,1.0,2148910894,Craig Macdonald,0,-0.21934185016841626,0.6056873083074126
+1503333931,Overview of the TREC 2006 Blog Track,2006,2,230,1,1.0,336997814,Iadh Ounis,0,1.1771194931155815,-0.022296127687094144
+1547995888,Modeling Indexing and Retrieving Images Using Conceptual Graphs,1998,13,14,1,1.0,336997814,Iadh Ounis,0,-0.3446971198803777,-0.6489568749060189
+1504025620,Finding Data Resources in a Virtual Observatory Using SKOS Vocabularies,2008,5,2,3,0.857143,2126464511,Alasdair J. G. Gray,0,1.0737460418833344,-1.3052279181805408
+1576022151,Multinomial randomness models for retrieval with document fields,2007,19,17,2,0.842857,2045932773,Vassilis Plachouras,0,0.003708468606338,0.082832279151172
+1576064612,A query-based pre-retrieval model selection approach to information retrieval,2004,17,12,2,1.0,2107993732,Ben He,0,-0.17399295809189377,-0.12288857477262802
+1586274592,University of Glasgow at TREC 2008 Experiments in Blog Enterprise and Relevance Feedback Tracks with Terrier,2008,34,21,3,0.961592,2107993732,Ben He,0,-0.11300819442795465,0.09518744858596301
+1577798322,Inferring Query Performance Using Pre-retrieval Predictors,2004,17,197,2,1.0,2107993732,Ben He,0,-0.26778243522760636,-0.0157804933432743
+1877588126,A Flexible Weighting Scheme for Multimedia Documents,1999,23,9,1,1.0,336997814,Iadh Ounis,0,0.1614469236607566,-0.6402578490249337
+1845198550,Terrier information retrieval platform,2005,0,220,1,1.0,336997814,Iadh Ounis,0,0.1567321424516692,0.014493221511283868
+1821283806,Learning models for ranking aggregates,2011,24,28,2,0.542137,2148910894,Craig Macdonald,0,0.003708468606338,0.082832279151172
+1823171916,The static absorbing model for the web,2005,33,9,2,0.962264,2045932773,Vassilis Plachouras,0,0.003708468606338,0.082832279151172
+1708482005,Sparse spatial selection for novelty-based search result diversification,2011,26,6,4,0.0,2989965853,Veronica Gil Costa,0,-0.1984714131877254,-0.08331523624254955
+1894902829,On Inverted Index Compression for Search Engine Efficiency,2014,26,17,3,0.0,2799000736,Matteo Catena,0,0.6642631993651279,0.8704818474401211
+1866171394,Performance comparison of clustered and replicated information retrieval systems,2007,24,6,4,0.319149,135441323,Fidel Cacheda,0,-0.11300819442795465,0.09518744858596301
+1971447826,A decision mechanism for the selective combination of evidence in topic distillation,2006,37,2,3,0.962264,2045932773,Vassilis Plachouras,0,0.003708468606338,0.082832279151172
+1969949308,Finding good feedback documents,2009,11,35,2,0.833472,2107993732,Ben He,0,-0.11300819442795465,0.09518744858596301
+1965075883,SmartVenues Recommending Popular and Personalised Venues in a City,2014,11,4,5,1.0,314381667,Romain Deveaud,0,0.003708468606338,0.082832279151172
+1968518318,Selectively diversifying web search results,2010,40,65,3,0.883117,2138048039,Rodrygo L. T. Santos,0,-0.25023896793326905,0.13037718530513653
+1970461679,Voting for candidates adapting data fusion techniques for an expert search task,2006,35,210,2,0.967742,2148910894,Craig Macdonald,0,0.12981392026006314,-0.26602515408115723
+1969062559,Searching and exploring controlled vocabularies,2009,10,5,1,1.0,336997814,Iadh Ounis,0,0.6063643784589839,-1.1489958432415124
+1983250710,Searching for expertise using the terrier platform,2006,2,5,2,0.967742,2148910894,Craig Macdonald,0,0.003708468606338,0.082832279151172
+1978449334,On the suitability of diversity metrics for learning-to-rank for diversity,2011,6,5,3,0.883117,2138048039,Rodrygo L. T. Santos,0,0.003708468606338,0.082832279151172
+1999593459,Limits of opinion-finding baseline systems,2008,5,9,3,1.0,2148910894,Craig Macdonald,0,0.003708468606338,0.082832279151172
+1997983566,Intent models for contextualising and diversifying query suggestions,2013,16,13,4,0.615385,2115606974,Eugene Kharitonov,0,0.005528336516354167,0.07021026040991203
+2001615126,Report on the 1st International Workshop on Information Access in Smart Cities (i-ASC 2014),2014,11,0,3,0.921053,209705036,M Dyaa Albakour,0,0.16992010198897345,0.18260933248841404
+2008656009,The influence of the document ranking in expert search,2009,10,4,2,0.769318,2148910894,Craig Macdonald,0,-0.6002687785674165,0.6027882349320947
+1994915827,Efficient and effective retrieval using selective pruning,2013,37,41,3,1.0,1923078747,Nicola Tonellotto,0,0.003708468606338,0.082832279151172
+1988036041,User model-based metrics for offline query suggestion evaluation,2013,23,17,4,0.615385,2115606974,Eugene Kharitonov,0,-0.01657107088421793,0.035389748403282274
+2005589065,Incremental Update Summarization Adaptive Sentence Selection based on Prevalence and Novelty,2014,34,28,3,0.795255,2078704756,Richard McCreadie,0,0.003708468606338,0.082832279151172
+1988144039,On the Importance of Venue-Dependent Features for Learning to Rank Contextual Suggestions,2014,19,14,4,1.0,314381667,Romain Deveaud,0,0.003708468606338,0.082832279151172
+2007529991,Generalized Team Draft Interleaving,2015,20,7,4,0.615385,2115606974,Eugene Kharitonov,0,0.003708468606338,0.082832279151172
+1997214779,Upper-bound approximations for dynamic pruning,2011,34,30,2,0.542137,2148910894,Craig Macdonald,0,-0.13275296294680305,-0.071629888206014
+2009607991,Retrieval sensitivity under training using different measures,2008,28,11,3,0.961592,2107993732,Ben He,0,0.003708468606338,0.082832279151172
+2007810306,Voting techniques for expert search,2008,39,61,2,1.0,2148910894,Craig Macdonald,0,-0.5407947513035296,0.03621208482937145
+2006124775,Effectiveness beyond the first crawl tier,2011,6,5,3,0.883117,2138048039,Rodrygo L. T. Santos,0,-0.2736875709399853,-2.459804255352056
+2004570439,A self-adapting latency/power tradeoff model for replicated search engines,2014,26,13,4,1.0,2268382527,Ana Freire,0,0.003708468606338,0.082832279151172
+1997632490,Exploiting term dependence while handling negation in medical search,2012,6,21,4,1.0,184570117,Nut Limsopatham,0,0.003708468606338,0.082832279151172
+2024100438,How diverse are web search results,2011,4,6,3,0.883117,2138048039,Rodrygo L. T. Santos,0,0.6066616852252525,-1.6834346658492574
+2011857863,Finding the right term Retrieving and exploring semantic concepts in astronomical vocabularies,2010,17,4,4,0.642857,2126464511,Alasdair J. G. Gray,0,0.6611239344237465,-1.1343116339451604
+2020917186,Dempster-Shafer Theory for a Query-Biased Combination of Evidence on the Web,2005,43,18,2,0.962264,2045932773,Vassilis Plachouras,0,-0.09915087517008297,0.01731145599999031
+2028089238,Parameter sensitivity in the probabilistic model for ad-hoc retrieval,2007,25,2,2,1.0,2107993732,Ben He,0,0.11800721140297014,-0.20383634040213405
+2021203590,Disambiguating biomedical acronyms using EMIM,2011,6,9,4,1.0,184570117,Nut Limsopatham,0,0.003708468606338,0.082832279151172
+2026439336,Intent-aware search result diversification,2011,44,79,3,0.883117,2138048039,Rodrygo L. T. Santos,0,0.6674652465049129,-0.15039543819628487
+2023188792,Exploiting query reformulations for web search result diversification,2010,33,336,3,0.883117,2138048039,Rodrygo L. T. Santos,0,-0.01657107088421793,0.035389748403282274
+2016196749,Identifying top news using crowdsourcing,2013,22,18,3,0.87234,2078704756,Richard McCreadie,0,0.23374866777416115,0.0718150543769186
+2012652795,Modelling Relevance towards Multiple Inclusion Criteria when Ranking Patients,2014,35,6,3,0.897323,184570117,Nut Limsopatham,0,0.003708468606338,0.082832279151172
+2026893190,On the role of novelty for search result diversification,2012,32,31,3,0.87802,2138048039,Rodrygo L. T. Santos,0,0.003708468606338,0.082832279151172
+2023985699,An effective statistical approach to blog post opinion retrieval,2008,30,74,4,0.961592,2107993732,Ben He,0,0.003708468606338,0.082832279151172
+2048955106,Load-sensitive selective pruning for distributed search,2013,20,14,4,0.0,346081099,Daniele Broccolo,0,-0.1029618939806145,0.040434369851773004
+2034885893,Automatic document prior feature selection for web retrieval,2008,7,1,3,1.0,2042576784,Jie Peng,0,-0.5216791571345182,0.667851403148964
+2034936743,An examination of content farms in web search using crowdsourcing,2012,6,1,3,0.87234,2078704756,Richard McCreadie,0,0.9113844378877074,-1.2646729649478168
+2047442842,Discovery of aggregate usage profiles based on clustering information needs,2004,2,4,2,0.0,2169687331,Azreen Azman,0,-0.21934185016841626,0.6056873083074126
+2045815158,Using Sensor Metadata Streams to Identify Topics of Local Events in the City,2015,12,1,3,0.921053,209705036,M Dyaa Albakour,0,0.176624534004933,-0.017323516673158297
+2047570875,UCUI15 The 1st International Workshop on Understanding the City with Urban Informatics,2015,0,0,2,0.301344,92283206,Yashar Moshfeghi,0,0.12492345808765674,0.23414093372237493
+2035370633,Experiments with a Venue-Centric Model for Personalisedand Time-Aware Venue Suggestion,2015,42,15,4,1.0,314381667,Romain Deveaud,0,1.6532238422246073,0.40254179258491013
+2038889057,Topic-centric Classification of Twitter Users Political Orientation,2015,6,24,2,1.0,2224954495,Anjie Fang,0,0.27170644973328006,0.4285211484349142
+2034076209,Query reformulation using automatically generated query concepts from a document space,2006,31,41,2,0.857143,2154592699,Youjin Chang,0,-0.01657107088421793,0.035389748403282274
+2053448995,The whens and hows of learning to rank for web search,2013,58,84,3,0.326959,2148910894,Craig Macdonald,0,0.01081499603401945,-0.22829683392880562
+2043257601,Learning to rank query suggestions for adhoc and diversity search,2013,51,32,3,0.71685,2138048039,Rodrygo L. T. Santos,0,-0.01657107088421793,0.035389748403282274
+2047021305,Semi-Automated Text Classification for Sensitivity Identification,2015,10,7,4,0.0,2162836066,Giacomo Berardi,0,0.003708468606338,0.082832279151172
+2066230871,CrowdTerrier automatic crowdsourced relevance assessments with terrier,2012,1,3,3,0.87234,2078704756,Richard McCreadie,0,-0.510401591537466,-0.020890304141598093
+2061261643,A study of parameter tuning for term frequency normalization,2003,9,56,2,0.0,2313133579,Ben He,0,0.003708468606338,0.082832279151172
+2056214029,Key blog distillation ranking aggregates,2008,22,42,2,1.0,2148910894,Craig Macdonald,0,-0.4525740429033864,-0.07638219404152827
+2066682493,On building a reusable Twitter corpus,2012,2,57,5,0.87234,2078704756,Richard McCreadie,0,0.1432347758310154,-0.28772400242322466
+2063337789,RELIEF combining expressiveness and rapidity into a single system,1998,21,64,1,1.0,336997814,Iadh Ounis,0,-0.21410786333127066,-0.15598169679157406
+2077501222,Learning to handle negated language in medical records search,2013,39,1,3,0.9,184570117,Nut Limsopatham,0,-0.16507692778528446,-0.011905719463757994
+2072427611,Usefulness of hyperlink structure for query-biased topic distillation,2004,22,12,2,1.0,2045932773,Vassilis Plachouras,0,0.01081499603401945,-0.22829683392880562
+2077789969,About learning models with multiple query-dependent features,2013,59,34,3,0.326959,2148910894,Craig Macdonald,0,0.003708468606338,0.082832279151172
+2062088920,Scalable distributed event detection for Twitter,2013,12,54,3,0.87234,2078704756,Richard McCreadie,0,0.03452684058154445,0.38161437663138903
+2062163414,MapReduce indexing strategies Studying scalability and efficiency,2012,30,51,3,0.87234,2078704756,Richard McCreadie,0,-0.13275296294680305,-0.071629888206014
+2077916364,On sparsity and drift for effective real-time filtering in microblogs,2013,28,23,3,0.780488,209705036,M Dyaa Albakour,0,0.20680438685517466,0.013989003047567134
+2076185289,Comparing Approaches for Query Autocompletion,2015,12,13,4,0.0,2231286984,Giovanni Di Santo,0,-0.01657107088421793,0.035389748403282274
+2072852944,Modelling the Usefulness of Document Collections for Query Expansion in Patient Search,2015,21,3,3,0.759172,184570117,Nut Limsopatham,0,-0.11300819442795465,0.09518744858596301
+2064392127,Effect of dynamic pruning safety on learning to rank effectiveness,2012,4,5,3,0.435116,2148910894,Craig Macdonald,0,0.003708468606338,0.082832279151172
+2082146655,On the usefulness of query features for learning to rank,2012,22,26,3,0.435116,2148910894,Craig Macdonald,0,-0.01657107088421793,0.035389748403282274
+2096679307,On single-pass indexing with MapReduce,2009,4,29,3,0.839286,2078704756,Richard McCreadie,0,-0.13275296294680305,-0.071629888206014
+2082380127,Scheduling queries across replicas,2012,6,5,4,1.0,2268382527,Ana Freire,0,-0.1029618939806145,0.040434369851773004
+2085912806,Learning to combine representations for medical records search,2013,19,19,3,0.9,184570117,Nut Limsopatham,0,-0.05507493959050245,0.41235145314116894
+2086236887,Combining fields in known-item email search,2006,2,13,2,0.967742,2148910894,Craig Macdonald,0,-0.02361490712827675,0.2709295199642215
+2097561692,Comparing Distributed Indexing To MapReduce or Not ,2009,20,23,1,1.0,336997814,Iadh Ounis,0,-0.13275296294680305,-0.071629888206014
+2084546599,On choosing an effective automatic evaluation metric for microblog summarisation,2014,33,8,4,1.0,2000773189,Stuart Mackie,0,0.09869918664672195,-0.18633352365711692
+2095124420,Multimedia search over integrated social and sensor networks,2012,14,10,4,0.0,269519735,John Soldatos,0,0.003708468606338,0.082832279151172
+2088189834,Ranking opinionated blog posts using OpinionFinder,2008,7,38,3,0.961592,2107993732,Ben He,0,0.3702476896459831,-0.09545368671974097
+2088545360,Ranking digital images using combination of evidences (poster session),2000,11,0,1,1.0,336997814,Iadh Ounis,0,0.003708468606338,0.082832279151172
+2088589638,On perfect document rankings for expert search,2009,4,3,2,0.769318,2148910894,Craig Macdonald,0,0.3365115018269857,-1.227310859085055
+2087051999,Hypothesis testing for the risk-sensitive evaluation of retrieval systems,2014,30,19,3,1.0,1978918089,B. Taner DinÃ§er,0,0.003708468606338,0.082832279151172
+2102137667,University of Glasgow at the Web track of TREC 2002,2002,5,9,2,1.0,2045932773,Vassilis Plachouras,0,0.5375491630393378,-2.236198536644743
+2114374682,University of Glasgow at TREC 2005 Experiments in Terabyte and Enterprise Tracks with Terrier,2005,37,99,3,0.967742,2148910894,Craig Macdonald,0,0.0597908726731833,-0.2449448024264691
+2131885311,Setting per-field normalisation hyper-parameters for the named-page finding search task,2007,18,1,2,1.0,2107993732,Ben He,0,0.003708468606338,0.082832279151172
+2105380208,Term frequency normalisation tuning for BM25 and DFR models,2005,10,43,2,1.0,2107993732,Ben He,0,0.003708468606338,0.082832279151172
+2114566577,Expertise drift and query expansion in expert search,2007,18,58,2,1.0,2148910894,Craig Macdonald,0,-0.01657107088421793,0.035389748403282274
+2126485285,Studying Query Expansion Effectiveness,2009,14,30,2,0.833472,2107993732,Ben He,0,-0.1029618939806145,0.040434369851773004
+2112021481,Query performance prediction,2006,21,124,2,1.0,2107993732,Ben He,0,0.0020965217812309958,-0.10004335426117138
+2132577486,Modelling efficient novelty-based search result diversification in metric spaces,2013,66,6,4,0.0,1847038018,Veronica Gil Costa,0,-0.27977833177287376,0.3206372883261847
+2118146863,Expert search evaluation by supporting documents,2008,13,4,2,1.0,2148910894,Craig Macdonald,0,0.003708468606338,0.082832279151172
+2106258822,On setting the hyper-parameters of term frequency normalization for information retrieval,2007,11,13,2,1.0,2107993732,Ben He,0,-0.09519914627050965,-0.22824686785733628
+2139230733,Learning to predict response times for online query scheduling,2012,28,53,3,0.435116,2148910894,Craig Macdonald,0,-0.1029618939806145,0.040434369851773004
+2109706235,Integrating Proximity to Subjective Sentences for Blog Opinion Retrieval,2009,24,41,4,0.883117,2138048039,Rodrygo L. T. Santos,0,1.1771194931155815,-0.022296127687094144
+2136311679,An extended inverted file approach for information retrieval,1997,13,8,1,1.0,336997814,Iadh Ounis,0,-0.12805472238771656,0.35841260838771105
+2106855578,University of Glasgow at TREC 2014 Experiments with Terrier in Contextual Suggestion Temporal Summarisation and Web Tracks,2014,25,8,7,0.795255,2078704756,Richard McCreadie,0,0.003708468606338,0.082832279151172
+2109993347,A task-specific query and document representation for medical records search,2013,12,24,3,0.9,184570117,Nut Limsopatham,0,0.12981392026006314,-0.26602515408115723
+2139739078,Learning to selectively rank patients medical history,2013,19,7,3,0.9,184570117,Nut Limsopatham,0,0.43162625009792,0.20195636031746017
+2119023202,Can RDB2RDF Tools Feasibily Expose Large Science Archives for Data Integration,2009,19,20,3,0.857143,2126464511,Alasdair J. G. Gray,0,0.2269530415610399,-0.545261694241879
+2133777313,Diversifying contextual suggestions from location-based social networks,2014,31,7,4,0.921053,209705036,M Dyaa Albakour,0,-0.30026170136961045,-0.23400081836323083
+2119210561,Using Hierarchical Clustering and Summarisation Approaches for Web Retrieval Glasgow at the TREC 2002 Interactive Track,2002,2,13,2,0.0,2312915787,Richard Osdin,0,-0.10418896913300046,1.6063685977265596
+2113304784,Using historical click data to increase interleaving sensitivity,2013,20,5,4,0.615385,2115606974,Eugene Kharitonov,0,0.003708468606338,0.082832279151172
+2128142398,A promising retrieval algorithm for systems based on the conceptual graphs formalism,1998,14,13,1,1.0,336997814,Iadh Ounis,0,0.3465751834751705,0.29633626819761477
+2122437698,Information Access in Smart Cities i-ASC,2014,9,2,3,0.921053,209705036,M Dyaa Albakour,0,0.07291638447277944,0.278385003720399
+2108296762,Fitting score distribution for blog opinion retrieval,2009,3,4,3,0.833472,2107993732,Ben He,0,0.003708468606338,0.082832279151172
+2150331627,Distribution of relevant documents in domain-level aggregates for topic distillation,2004,6,1,2,1.0,2045932773,Vassilis Plachouras,0,0.003708468606338,0.082832279151172
+2165386252,Query efficiency prediction for dynamic pruning,2011,20,5,1,1.0,336997814,Iadh Ounis,0,-0.1029618939806145,0.040434369851773004
+2150662514,Explicit search result diversification through sub-queries,2010,26,72,4,0.883117,2138048039,Rodrygo L. T. Santos,0,0.003708468606338,0.082832279151172
+2165718308,Incorporating term dependency in the dfr framework,2007,3,54,5,1.0,2042576784,Jie Peng,0,0.1263366722565723,-0.09092147933097883
+2156722791,Selective Application of Query-Independent Features in Web Information Retrieval,2009,20,4,2,1.0,2042576784,Jie Peng,0,-0.11300819442795465,0.09518744858596301
+2148213263,Mimicking Web search engines for expert search,2011,39,7,3,0.883117,2138048039,Rodrygo L. T. Santos,0,0.003708468606338,0.082832279151172
+2148473175,Using relevance feedback in expert search,2007,8,24,2,1.0,2148910894,Craig Macdonald,0,-0.01657107088421793,0.035389748403282274
+2169855462,Effect of different docid orderings on dynamic pruning retrieval strategies,2011,6,10,3,0.717949,1923078747,Nicola Tonellotto,0,0.003708468606338,0.082832279151172
+2187652355,University of Glasgow at TREC 2011 Experiments with Terrier in Crowdsourcing Microblog and Web Tracks,2011,25,13,4,0.853659,2078704756,Richard McCreadie,0,0.22087665126999567,0.08348359887359669
+2155030693,Combining fields for query expansion and adaptive query expansion,2007,28,53,2,1.0,2107993732,Ben He,0,-0.01657107088421793,0.035389748403282274
+2161558875,Combination of document priors in web information retrieval,2007,19,13,4,1.0,2042576784,Jie Peng,0,0.003708468606338,0.082832279151172
+2146987563,A study of selective collection enrichment for enterprise search,2009,12,5,4,1.0,2042576784,Jie Peng,0,-0.11300819442795465,0.09518744858596301
+2250581616,Proceedings of the ACM First International Workshop on Understanding the City with Urban Informatics,2015,0,0,3,0.301344,92283206,Yashar Moshfeghi,0,-0.08216369031341794,0.1395680461546204
+2261427507,Analysing Compression Techniques for In-Memory Collaborative Filtering,2015,12,1,3,0.714286,2149080843,SaÃºl Vargas,0,0.8776680742443249,0.45208381503500666
+2293485751,Tweet Enrichment for Effective Dimensions Classification in Online Reputation Management,2015,12,8,5,1.0,2311684217,Graham McDonald,0,-0.11300819442795465,0.09518744858596301
+2294880871,University of Glasgow at Medical Records Track Experiments with Terrier,2011,20,22,3,1.0,184570117,Nut Limsopatham,0,0.8386329776188489,-0.8940826959426625
+2309222574,Topics in Tweets A User Study of Topic Coherence Metrics for Twitter Data,2016,21,15,3,1.0,2224954495,Anjie Fang,0,-0.24923489311432592,0.025212445957017937
+2314828943,Experiments in Newswire Summarisation,2016,19,1,4,1.0,2000773189,Stuart Mackie,0,-0.21700134268638757,-0.22963508276305108
+2340394573,Risk-Sensitive Evaluation and Learning to Rank using Multiple Baselines,2016,26,8,3,1.0,1978918089,B. Taner DinÃ§er,0,0.003708468606338,0.082832279151172
+2372596980,Examining the Coherence of the Top Ranked Tweet Topics,2016,11,2,3,1.0,2224954495,Anjie Fang,0,-0.753104331542272,-0.024570913808007133
+2339332119,Global Statistics in Proximity Weighting Models,2010,28,11,1,1.0,336997814,Iadh Ounis,0,-0.26771754399946596,-0.036412738927306836
+2404506086,Using Word Embedding to Evaluate the Coherence of Topics from Twitter Data,2016,15,18,3,1.0,2224954495,Anjie Fang,0,-0.17536238923574604,0.4144853997593385
+2400737117,On Using Information Retrieval for the Selection and Sensitivity Review of Digital Public Records,2014,14,5,4,0.0,2002369568,Timothy Gollins,0,0.003708468606338,0.082832279151172
+2470894439,EAIMS Emergency Analysis Identification and Management System,2016,17,10,3,0.674175,2078704756,Richard McCreadie,0,0.003708468606338,0.082832279151172
+2460272942,Modelling User Preferences using Word Embeddings for Context-Aware Venue Recommendation,2016,10,12,3,0.8,2232580914,Jarana Manotumruksa,0,0.003708468606338,0.082832279151172
+2550271127,Efficient Dynamic Pruning with Proximity Support,2010,21,8,3,0.717949,1923078747,Nicola Tonellotto,0,0.003708468606338,0.082832279151172
+2577928639,University of Glasgow at TREC 2015 Experiments with Terrier in Contextual Suggestion Temporal Summarisation and Dynamic Domain Tracks,2015,17,5,4,0.742458,2078704756,Richard McCreadie,0,0.003708468606338,0.082832279151172
+2533870691,Regularising Factorised Models for Venue Recommendation using Friends and their Comments,2016,14,12,3,0.8,2232580914,Jarana Manotumruksa,0,1.0060124519911087,0.11929242625565596
+2590274409,Exploring Time-Sensitive Variational Bayesian Inference LDA for Social Media Data,2017,25,8,3,0.857143,2224954495,Anjie Fang,0,-0.753104331542272,-0.024570913808007133
+2587156889,Inferring Conceptual Relationships When Ranking Patients,2017,9,0,3,0.717962,184570117,Nut Limsopatham,0,0.003708468606338,0.082832279151172
+2594487909,Toward a user-centered image retrieval system,2000,0,0,1,1.0,336997814,Iadh Ounis,0,-0.13275296294680305,-0.071629888206014
+2598372120,Matrix Factorisation with Word Embeddings for Rating Prediction on Location-Based Social Networks,2017,11,10,3,0.8,2232580914,Jarana Manotumruksa,0,1.2350652037173413,0.39061007574644036
+2588301606,Enhancing Sensitivity Classification with Semantic Features Using Word Embeddings,2017,24,7,3,1.0,2311684217,Graham McDonald,0,0.003708468606338,0.082832279151172
+2740540059,A Study of SVM Kernel Functions for Sensitivity Classification Ensembles with POS Sequences,2017,17,5,4,1.0,2311684217,Graham McDonald,0,0.6719881895118299,0.24143049302424707
+2761753121,Transfer Learning for Multi-language Twitter Election Classification,2017,24,4,4,1.0,2681566599,Xiao Yang,0,0.5211358296353841,0.23679483973829715
+2762735242,A Deep Recurrent Collaborative Filtering Framework for Venue Recommendation,2017,31,21,3,0.8,2232580914,Jarana Manotumruksa,0,1.2350652037173413,0.39061007574644036
+2740342782,Efficient &amp; Effective Selective Query Rewriting with Efficiency Predictions,2017,38,7,1,1.0,336997814,Iadh Ounis,0,-0.1029618939806145,0.040434369851773004
+2798839717,Automatic Ground Truth Expansion for Timeline Evaluation,2018,31,2,3,0.614914,2078704756,Richard McCreadie,0,0.003708468606338,0.082832279151172
+2791356554,On the Reproducibility and Generalisation of the Linear Transformation of Word Embeddings,2018,16,1,2,1.0,2681566599,Xiao Yang,0,0.43162625009792,0.20195636031746017
+2896076957,Learning to Geolocalise Tweets at a Fine-Grained Level,2018,17,2,4,0.0,2635382153,Jorge David Gonzalez Paule,0,0.003708468606338,0.082832279151172
+2922763596,On enhancing the robustness of timeline summarization test collections,2019,49,0,5,0.586965,2078704756,Richard McCreadie,0,0.003708468606338,0.082832279151172
+2896622935,An Effective Approach for Modelling Time Features for Classifying Bursty Topics on Twitter,2018,15,1,2,0.857143,2224954495,Anjie Fang,0,0.43162625009792,0.20195636031746017
+2969870141,Variational Bayesian Context-aware Representation for Grocery Recommendation,2019,16,0,4,0.0,2982884694,Zaiqiao Meng,0,0.003708468606338,0.082832279151172

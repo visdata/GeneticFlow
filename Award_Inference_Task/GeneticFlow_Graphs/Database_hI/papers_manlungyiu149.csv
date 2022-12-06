@@ -1,0 +1,60 @@
+73316464,Proceedings of the Eleventh ACM International Workshop on Data Engineering for Wireless and Mobile Access,2012,0,0,2,0.0,2038300322,Mohamed A. Sharaf,0,0.18601297105691045,-0.0008472885667257998
+1560020178,Diversified caching for replicated web search engines,2015,38,0,3,0.0,2346504818,Chuanfei Xu,0,-0.0041099411153885,0.0447066884760059
+1544455437,Group-by skyline query processing in relational engines,2009,15,285,2,0.0,2798687945,Ming Hay Luk,0,0.09801242257261801,0.5222263004180534
+1520237532,Efficient quantile retrieval on multi-dimensional data,2006,24,13,1,1.0,2081368286,Man Lung Yiu,0,-0.07112259440708389,0.14782436806120813
+1875199223,Spatial keyword querying,2012,24,102,8,0.375,2307703274,Xin Cao,0,-0.07064716220579907,-0.37680950360231624
+1881734169,Evaluating trajectory queries over imprecise location data,2012,16,5,3,1.0,2137671219,Xike Xie,0,-0.0041099411153885,0.0447066884760059
+1597805093,Non-contiguous Sequence Pattern Queries,2004,13,22,2,0.0,18851973,Nikos Mamoulis,0,0.840838082656739,-0.32005807646685314
+1856343956,Identifying the Most Endangered Objects from Spatial Datasets,2009,20,2,2,0.0,2131547583,Hua Lu,0,0.25245882146783893,0.09919480006319664
+1602142193,Quick-motif An efficient and scalable framework for exact motif discovery,2015,24,25,3,0.75,2301627832,Yuhong Li,0,-0.0041099411153885,0.0447066884760059
+1979490954,Discovering longest-lasting correlation in sequence databases,2013,38,20,3,0.75,2301627832,Yuhong Li,0,-0.0041099411153885,0.0447066884760059
+1972547541,A safe-exit approach for efficient network-based moving range queries,2012,32,19,2,0.0,2158158954,Duncan Yung,0,0.09526370926126411,0.008306466226981798
+2008942115,Efficient verification of shortest path search via authenticated hints,2010,32,45,1,1.0,2081368286,Man Lung Yiu,0,0.20358623503608736,-0.3358258922388893
+1989800045,Efficient top- k aggregation of ranked inputs,2007,32,90,3,0.403891,18851973,Nikos Mamoulis,0,0.3799054506293388,-0.15396955400937015
+1993369312,Enabling search services on outsourced private spatial data,2010,36,97,1,1.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+1996954560,Managing Evolving Uncertainty in Trajectory Databases,2014,40,12,4,0.382979,2200425846,Hoyoung Jeung,0,0.3820908385543769,0.2117467783858426
+2005947646,Efficient notification of meeting points for moving groups via independent safe regions,2013,29,6,2,0.0,2228306758,Jing Li,0,-0.0041099411153885,0.0447066884760059
+1999178951,Route-Saver Leveraging Route APIs for Accurate and Efficient Query Processing at Location-Based Services,2015,22,24,2,0.0,2690682408,Yu Li,0,0.014532710543751099,0.030944858938630852
+1994152623,UV-diagram a voronoi diagram for uncertain spatial databases,2013,48,15,3,0.833333,2137671219,Xike Xie,0,0.34196206284285613,0.0265954508907917
+2028596773,Authentication of moving range queries,2012,33,6,3,0.0,2158158954,Duncan Yung,0,0.3820908385543769,0.2117467783858426
+2030619821,Extracting k most important groups from data efficiently,2008,21,4,1,1.0,2081368286,Man Lung Yiu,0,0.11627582886789564,0.3621724021946999
+2034518740,UV-diagram A Voronoi diagram for uncertain data,2010,37,42,3,0.0,2138267588,Reynold Cheng,0,0.34196206284285613,0.0265954508907917
+2068094808,Preference queries in large multi-cost transportation networks,2010,31,34,3,0.189098,2085710142,Kyriakos Mouratidis,0,0.25245882146783893,0.09919480006319664
+2057976248,Multi-dimensional top-k dominating queries,2009,32,87,1,1.0,2081368286,Man Lung Yiu,0,0.24950194300708614,0.3567874379531443
+2065962568,Effective caching of shortest paths for location-based services,2012,24,40,2,0.0,2107085441,Jeppe Rishede Thomsen,0,-0.0041099411153885,0.0447066884760059
+2102375805,Workload-aware indexing of continuously moving objects,2009,31,27,2,0.0,2061716913,Kostas Tzoumas,0,0.18601297105691045,-0.0008472885667257998
+2103218221,Authentication of moving kNN queries,2011,26,49,1,1.0,2081368286,Man Lung Yiu,0,0.014532710543751099,0.030944858938630852
+2141136363,Discovery of convoys in trajectory databases,2008,23,322,2,0.5,2200425846,Hoyoung Jeung,0,0.18601297105691045,-0.0008472885667257998
+2114608211,Path prediction and predictive range querying in road network databases,2010,31,124,2,0.5,2200425846,Hoyoung Jeung,0,0.3820908385543769,0.2117467783858426
+2126425936,Shortest path computation with no information leakage,2012,38,47,2,0.189098,2085710142,Kyriakos Mouratidis,0,-0.0041099411153885,0.0447066884760059
+2123627620,Common Influence Join A Natural Join Operation for Spatial Pointsets,2008,19,11,1,1.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+2132510297,RPJ producing fast join results on streams through rate-based optimization,2005,18,65,2,0.0,2131082813,Yufei Tao,0,0.06058240645183891,-0.17587001443580239
+2135669960,Ring-constrained join deriving fair middleman locations from pointsets via a geometric constraint,2008,20,3,1,1.0,2081368286,Man Lung Yiu,0,0.12683905315864627,-0.7420034833159516
+2118223655,The impact of solid state drive on search engine cache management,2013,65,19,3,0.0,2413029743,Jianguo Wang,0,-0.21019296394209724,-0.32724702920580645
+2130007260,Reverse Nearest Neighbors Search in Ad-hoc Subspaces,2006,29,6,1,1.0,2081368286,Man Lung Yiu,0,0.0835119396817451,0.051530138659233005
+2142285783,Enabling Scalable Geographic Service Sharing with Weighted Imprecise Voronoi Cells,2016,32,6,3,0.420472,2137671219,Xike Xie,0,-0.0041099411153885,0.0447066884760059
+2128800833,SpaceTwist Managing the Trade-Offs Among Location Privacy Query Performance and Query Accuracy in Mobile Services,2008,22,287,1,1.0,2081368286,Man Lung Yiu,0,0.0908845357243609,0.31128747720343375
+2122868005,Efficient continuously moving top-k spatial keyword query processing,2011,22,109,2,0.666667,2118818107,Dingming Wu,0,-0.713508075138274,-0.9198118085477435
+2122872794,Moving spatial keyword queries Formulation methods and analysis,2013,40,19,2,0.666667,2118818107,Dingming Wu,0,-0.0041099411153885,0.0447066884760059
+2134780295,Continuous nearest neighbor monitoring in road networks,2006,30,192,2,0.189098,2085710142,Kyriakos Mouratidis,0,0.0747928111902618,0.23495782765078752
+2144134823,Outsourced Similarity Search on Metric Data Assets,2012,31,80,1,1.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+2147596559,Retrieving regions of interest for user exploration,2014,21,33,4,0.375,2307703274,Xin Cao,0,-0.0041099411153885,0.0447066884760059
+2168790351,Efficient processing of top- k dominating queries on multi-dimensional data,2007,28,166,2,0.403891,18851973,Nikos Mamoulis,0,0.022874424044039485,0.07376396380409997
+2168960477,Efficient Aggregation of Ranked Inputs,2006,15,30,3,0.403891,18851973,Nikos Mamoulis,0,0.3799054506293388,-0.15396955400937015
+2151489238,Capacity constrained assignment in spatial databases,2008,16,51,2,0.38874,2164563249,Leong Hou U,0,-0.0041099411153885,0.0447066884760059
+2163511921,Outsourcing Search Services on Private Spatial Data,2009,13,42,1,1.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+2166636216,Design and analysis of a ranking approach to private location-based services,2011,54,38,1,1.0,2081368286,Man Lung Yiu,0,0.044859856903840555,0.012551371775477651
+2154648702,Clustering objects on a spatial network,2004,20,96,1,1.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+2151707151,Retrieval of Spatial Join Pattern Instances from Sensor Networks,2007,28,7,1,1.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+2169900236,Top-k Spatial Preference Queries,2007,20,81,1,1.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+2396752296,Query optimization over cloud data market,2015,33,5,3,0.0,2690682408,Yu Li,0,0.3282715052303535,0.2714864566493787
+2434240543,Beyond millisecond latency kNN search on commodity machine,2016,8,0,3,0.0,2229740048,Bailong Liao,0,-0.0041099411153885,0.0447066884760059
+2466187631,Efficient discovery of longest-lasting correlation in sequence databases,2016,48,5,3,0.75,2301627832,Yuhong Li,0,-0.0041099411153885,0.0447066884760059
+2525609995,Proceedings of the 19th International Conference on Scientific and Statistical Database Management (SSDBM),2007,0,2,2,0.403891,18851973,Nikos Mamoulis,0,0.12843839037118665,-0.04622227942794266
+2545307730,Proceedings of the 22nd International Conference on Data Engineering ICDE 2006,2006,0,14,2,0.403891,18851973,Nikos Mamoulis,0,-0.0041099411153885,0.0447066884760059
+2613531879,Determining the Impact Regions of Competing Options in Preference Space,2017,34,7,3,0.913043,2340968329,Bo Tang,0,0.07413250541158214,-0.37946541532238676
+2614681923,Exploit every bit Effective caching for high-dimensional nearest neighbor search (extended abstract),2017,4,0,1,1.0,2081368286,Man Lung Yiu,0,-0.0041099411153885,0.0447066884760059
+2592469568,Extracting Top-K Insights from Multi-dimensional Data,2017,33,23,3,0.913043,2340968329,Bo Tang,0,-0.44507829977793056,0.5803728574770649
+2612493630,FEXIPRO Fast and Exact Inner Product Retrieval in Recommender Systems,2017,43,22,3,0.0,2713981202,Hui Li,0,-0.0681371106864691,0.37370442032925993
+2951288575,Discovery of Convoys in Trajectory Databases,2010,17,4,2,0.5,2200425846,Hoyoung Jeung,0,0.18601297105691045,-0.0008472885667257998
+2965126402,Creating top ranking options in the continuous option and preference space,2019,0,1,3,0.913043,2340968329,Bo Tang,0,-0.0041099411153885,0.0447066884760059

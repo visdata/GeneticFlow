@@ -1,0 +1,51 @@
+217055208,EXECUTING WORKFLOWS BASED ON SERVICE LEVEL AGREEMENTS,2011,8,31,2,1.0,2098780944,William Craig Rapp,0,0.6665041731034329,1.4901896955761065
+261593672,Method of establishing a data management fee structure based on fine grained data entities,2004,7,21,1,1.0,2115920827,Richard J. Stevens,0,-0.18724402417882705,0.03605917401554673
+1551559393,Determining costs for workflows,2012,13,3,2,1.0,2098780944,William Craig Rapp,0,0.6828019674958302,1.3851938227281912
+1027664137,Processing system using metadata for administering a business transaction,2011,74,15,4,1.0,215386393,Joel C. Dubbels,0,2.478170326238462,2.4111595104381816
+1543853744,Database staging area read-through or forced flush with dirty notification,2008,7,7,2,0.280942,2022001984,Daniel P. Kolz,0,-0.0041099411153885,0.0447066884760059
+1517740476,Dynamic end user specific customization of an applications physical data layer through a data repository abstraction layer,2002,11,99,1,1.0,2115920827,Richard J. Stevens,0,0.07009236483633567,0.14840443816380924
+1036473588,DYNAMICALLY DISPATCHING WORKFLOWS IN RESPONSE TO WORKFLOW RULES,2009,2,21,1,1.0,2115920827,Richard J. Stevens,0,0.3910261166690816,1.0986712615680383
+1563938894,Managing Failover Operations On A Cluster Of Computers,2011,7,13,4,1.0,215386393,Joel C. Dubbels,0,-0.0041099411153885,0.0447066884760059
+1546323728,Dynamically Allocating Business Workflows,2013,79,16,2,1.0,215386393,Joel C. Dubbels,0,0.5361882415965307,1.2980558707895733
+1485953646,Administering Medical Digital Images In A Distributed Medical Digital Image Computing Environment,2011,9,13,5,1.0,215386393,Joel C. Dubbels,0,0.16514601659384096,0.2795409857852802
+1494818270,Autonomic logging support,2003,7,43,2,0.343528,1896647882,Frederick A. Kulack,0,0.11797670951183034,-0.24219977622393202
+1540243056,Automated abstract database generation through existing application statement analysis,2003,14,4,2,0.343528,1896647882,Frederick A. Kulack,0,1.1930577160661062,0.2937743100249808
+1902692702,Data model simplification through field fallout,2010,18,8,2,0.294167,1896647882,Frederick A. Kulack,0,0.12628174114238816,0.0039009070058818006
+1957179744,Process for data driven application integration for B2B,2008,25,121,2,1.0,2098780944,William Craig Rapp,0,2.3941554059975148,-0.8689073892585882
+1802199562,Methods systems and articles of manufacture for abstract query building with selectability of aggregation operations and grouping,2003,6,23,3,0.5,2022001984,Daniel P. Kolz,0,0.0908845357243609,0.31128747720343375
+1596603808,Intelligent query re-execution,2002,12,54,2,0.0,2038687912,Jeffrey W. Tenner,0,0.014532710543751099,0.030944858938630852
+1909553113,Query modification analysis,2002,15,17,1,1.0,2115920827,Richard J. Stevens,0,0.0908845357243609,0.31128747720343375
+1881895860,Administering medical digital images with intelligent analytic execution of workflows,2011,76,10,2,1.0,215386393,Joel C. Dubbels,0,0.16514601659384096,0.2795409857852802
+1607596198,SQL query construction using durable query components,2002,8,44,2,0.0,2038687912,Jeffrey W. Tenner,0,0.0908845357243609,0.31128747720343375
+1590057056,Automatic lock management in an abstract database,2003,9,10,2,0.343528,1896647882,Frederick A. Kulack,0,2.100433190996281,0.5178050009752245
+1914440906,Creating a logical table from multiple differently formatted physical tables having different access methods,2004,79,40,3,0.5,2022001984,Daniel P. Kolz,0,-0.1232715727120712,0.2131450373911843
+1770944614,Secure database access through partial encryption,2008,16,130,2,0.343528,1896647882,Frederick A. Kulack,0,0.711859572881822,0.1808111999490129
+1856794491,Multiple accounts for health record bank,2005,32,31,2,0.396535,2022001984,Daniel P. Kolz,0,-0.0041099411153885,0.0447066884760059
+1826036856,Intelligent use of user data to pre-emptively prevent execution of a query violating access controls,2003,24,29,1,1.0,2115920827,Richard J. Stevens,0,-0.0041099411153885,0.0447066884760059
+1583174288,Fee-based model based on database federation and query support,2004,13,18,1,1.0,2115920827,Richard J. Stevens,0,1.8609737454617588,0.09775352149088291
+1602850397,Auditing database access in a distributed medical computing environment,2012,97,42,3,1.0,215386393,Joel C. Dubbels,0,0.2610214358225607,0.2057523253512879
+2103909563,Rule application management in an abstract database,2004,14,19,1,1.0,2115920827,Richard J. Stevens,0,1.2319447913191832,0.18976281982352325
+2105482251,Partial data model exposure through client side caching,2003,47,39,2,0.343528,1896647882,Frederick A. Kulack,0,0.12628174114238816,0.0039009070058818006
+2124177348,Well organized query result sets,2004,72,50,2,0.5,2022001984,Daniel P. Kolz,0,0.7215975991611812,0.3052417628859806
+2121494308,Optimized method of locating complete aggregation of patient health records in a global domain,2010,48,17,2,0.274252,2022001984,Daniel P. Kolz,0,-0.0041099411153885,0.0447066884760059
+2270967776,Policy-driven relocation of electronic healthcare records in a network environment,2006,14,8,2,0.0,1990616801,Karen Witting,0,-0.025499183214711917,0.034153424963604684
+2263027273,Method and system for managing execution of data driven workflows,2004,32,15,2,0.5,2022001984,Daniel P. Kolz,0,-0.07980600930961097,0.18419472351414626
+2229859710,ALIASED KEYS FOR FEDERATED DATABASE QUERIES,2007,3,4,1,1.0,2115920827,Richard J. Stevens,0,0.25274486174193894,-0.2764388518434622
+2222998576,Natural language support for database applications,2003,13,15,2,0.343528,1896647882,Frederick A. Kulack,0,1.2718501051706712,0.07561317587666563
+2259457171,Security model using security domains in a security model applied to abstract database,2007,5,22,3,0.360048,2022001984,Daniel P. Kolz,0,0.17275798541178253,-0.08993654820697157
+2254946339,Method and apparatus for access to health data with portable media,2006,5,18,1,1.0,2115920827,Richard J. Stevens,0,-0.0041099411153885,0.0447066884760059
+2254974705,Usage-based optimization of network traffic and data warehouse size,2008,11,5,2,0.343528,1896647882,Frederick A. Kulack,0,-0.0036255816741072033,0.26527575294577715
+2214716560,Extensible framework supporting deposit of heterogenous data sources into a target data repository,2003,12,41,1,1.0,2115920827,Richard J. Stevens,0,-0.7567571342236958,0.882111642763749
+2273864827,Establishing a data management fee structure based on fine grained data entities,2013,14,5,1,1.0,2115920827,Richard J. Stevens,0,-0.18724402417882705,0.03605917401554673
+2206062615,Method of generating database transaction statements based on existing queries,2004,9,13,1,1.0,2115920827,Richard J. Stevens,0,1.2639254684379722,1.1730582467438517
+2207545537,Modeling and implementing complex data access operations based on lower level traditional operations,2008,21,9,1,1.0,2115920827,Richard J. Stevens,0,-0.03235864679034459,-0.22353470453407587
+2226529762,Method for executing federated database queries using aliased keys,2007,4,9,1,1.0,2115920827,Richard J. Stevens,0,0.25274486174193894,-0.2764388518434622
+2298090975,System and method for creating test data for data driven software systems,2005,6,7,2,0.0,1953043155,Paul William Wertzler,0,2.550134959864938,0.022348114728039103
+2280897171,Data query system load balancing,2003,13,12,2,0.343528,1896647882,Frederick A. Kulack,0,0.7215975991611812,0.3052417628859806
+2396208578,Extending data access and analysis capabilities via abstract polymorphic functions,2004,7,10,3,0.5,2022001984,Daniel P. Kolz,0,1.4776922347645451,0.1647645651841383
+2406046982,Method for restricting queryable data in an abstract database,2003,6,17,1,1.0,2115920827,Richard J. Stevens,0,1.3048134241781268,0.16590565420481354
+2414945749,Rule application management in an abstract database abstract of the disclosure,2004,8,0,1,1.0,2115920827,Richard J. Stevens,0,1.3048134241781268,0.16590565420481354
+2415018802,System and method for managing access to data in a database,2005,5,15,2,0.396535,2022001984,Daniel P. Kolz,0,0.6645053042195042,-0.14035769268707932
+2414367929,Method for data driven application integration for B2B,2004,20,4,2,1.0,2098780944,William Craig Rapp,0,2.3941554059975148,-0.8689073892585882
+2735520383,Optimized method for locating electronic patient records in a national health network,2006,5,0,2,0.372157,2022001984,Daniel P. Kolz,0,-0.0041099411153885,0.0447066884760059
+2747880124,Dynamically allocating data processing components,2013,79,0,2,1.0,215386393,Joel C. Dubbels,0,0.4026522973130363,1.0516304185211063

@@ -1,0 +1,82 @@
+70001371,SMOTE for Regression,2013,15,46,3,0.0,1973271071,LuÃ­s Torgo,0,1.1123537269472767,0.5073397479828153
+53100034,High density-focused uncertainty sampling for active learning over evolving stream data,2014,26,11,2,0.470437,2288551980,Dino Ienco,0,-0.18855785045586063,2.510669104967411
+54977417,Data mining challenge problems any lessons learned ,2002,0,1,1,1.0,1991131908,Bernhard Pfahringer,0,0.003708468606338,0.082832279151172
+106837221,Propositionalisation of Multiple Sequence Alignments using Probabilistic Models,2008,8,0,1,1.0,1991131908,Bernhard Pfahringer,0,0.36961615338683507,0.04520172406723675
+175412352,Stream data mining using the MOA framework,2012,6,13,7,0.131868,2008431275,Philipp Kranen,0,-0.2627394811197351,0.6640919509983171
+4702817,Mining for causes of cancer machine learning experiments at various levels of detail,1997,8,9,2,1.0,2283720790,Stefan Kramer,0,0.003708468606338,0.082832279151172
+109131977,CD-MOA Change Detection Framework for Massive Online Analysis,2013,16,23,3,0.238661,307521372,Albert Bifet,0,-0.3071707790168831,0.5882851112457945
+26701258,Efficient search for strong partial determinations,1996,10,20,2,1.0,2283720790,Stefan Kramer,0,-1.2168575329834463,0.3515427450680703
+164124199,Pitfalls in benchmarking data stream classification and how to avoid them,2013,27,46,3,0.238661,307521372,Albert Bifet,0,-0.18586685958773827,1.541612088796987
+130542203,Discovery Science 13th International Conference Ds 2010 Canberra Australia October 6-8 2010 Proceedings,2010,0,0,1,1.0,1991131908,Bernhard Pfahringer,0,0.19661357678561195,0.7762559961221536
+148859753,Algorithm selection on data streams,2014,23,23,3,0.6,1997815817,Jan N. van Rijn,0,-0.037623070367504854,1.1637158832525853
+82314600,Data Quality Issues in Toxicological Knowledge Discovery,1999,5,2,1,1.0,1991131908,Bernhard Pfahringer,0,0.4745237592881639,0.1228463837909438
+34738725,Batch-incremental versus instance-incremental learning in dynamic and evolving data,2012,30,60,3,1.0,2292299320,Jesse Read,0,0.5118271003298221,-0.05733584485088209
+402399454,Efficient multi-label classification for evolving data streams,2010,20,16,2,0.366377,307521372,Albert Bifet,0,0.3867188002095276,0.13432444227392634
+1524416683,Classifier Chains for Multi-label Classification,2009,18,193,2,0.8,2292299320,Jesse Read,0,0.8226096399075592,0.48632950906287764
+1533477412,Random Relational Rules,2006,17,3,1,1.0,1991131908,Bernhard Pfahringer,0,-1.9330507975159024,0.6646032036837992
+1562693942,Clustering Based Active Learning for Evolving Data Streams,2013,27,23,3,0.470437,2288551980,Dino Ienco,0,0.18032110350743952,0.048953106691315695
+1536910695,Text Categorisation Using Document Profiling,2003,25,9,2,0.0,275998547,Maximilien Sauban,0,0.00035643010555741483,0.30667522294279786
+1518747216,Improving on bagging with input smearing,2006,18,22,2,0.304559,2165714491,Eibe Frank,0,0.16189805854666994,0.1221005802558557
+1555243480,Weka-A Machine Learning Workbench for Data Mining,2009,13,225,5,0.304559,2165714491,Eibe Frank,0,0.04964826244483226,0.8138454995359234
+1511034208,Mining data streams using option trees,2003,1,5,1,1.0,1991131908,Bernhard Pfahringer,0,-0.22056295870616616,0.09280740291231472
+1538672191,Exploiting propositionalization based on random relational rules for semi-supervised learning,2008,23,3,2,1.0,2164137551,Grant Anderson,0,0.34189213798870693,-0.0085938730499827
+1577823635,Fast perceptron decision tree learning from evolving data streams,2010,28,63,2,0.366377,307521372,Albert Bifet,0,0.5224937384077333,0.7461456292563017
+1577892110,Optimizing the Induction of Alternating Decision Trees,2001,11,46,1,1.0,1991131908,Bernhard Pfahringer,0,-0.26148765676305497,-0.12362737394852505
+1578276759,Stress-testing hoeffding trees,2005,5,31,3,0.175159,2189262995,Geoffrey Holmes,0,0.6449973268627115,0.3984521800905293
+1958174753,MOA a real-time analytics open source framework,2011,5,36,3,0.33132,307521372,Albert Bifet,0,0.2256852963697335,0.7721387675628859
+1606774037,Scaling up semi-supervised learning an efficient and effective LLGC variant,2007,39,8,1,1.0,1991131908,Bernhard Pfahringer,0,-0.5612407480774857,1.1684141618932842
+1597610884,Clustering large datasets using cobweb and k-means in tandem,2004,14,13,3,0.0,2420022661,Mi Li,0,-0.21930672045502606,1.0890809014678755
+1856012183,Handling numeric attributes in hoeffding trees,2008,16,29,1,1.0,1991131908,Bernhard Pfahringer,0,0.9932035957598307,1.5512344570575007
+1599914172,Data mining bread quality and process data in a plant bakery,2005,3,2,1,1.0,1991131908,Bernhard Pfahringer,0,0.21438872843298346,-0.1353423822296997
+1651580134,Improving Adaptive Bagging Methods for Evolving Data Streams,2009,24,41,2,0.366377,307521372,Albert Bifet,0,0.2150525773733458,0.32320824601709136
+1585159768,Prediction of Ordinal Classes Using Regression Trees,2001,18,100,3,0.75,2283720790,Stefan Kramer,0,0.17968548633419076,0.4254766199353514
+1986929000,Full model selection in the space of data mining operators,2012,2,9,2,1.0,2051609905,Quan Sun,0,1.2347219257009132,0.0039021404303268004
+1999954155,Classifier chains for multi-label classification,2011,40,972,2,1.0,2292299320,Jesse Read,0,0.5051315857684109,0.27221660983951285
+1995126785,Winning the KDD99 classification cup bagged boosting,2000,1,179,1,1.0,1991131908,Bernhard Pfahringer,0,-0.24630085536417354,0.0753684296971036
+1992019053,Efficient Online Evaluation of Big Data Stream Classifiers,2015,23,57,5,0.182309,307521372,Albert Bifet,0,-0.18107597706906464,0.2881128706996846
+1993972757,Guest editorial First-order knowledge discovery in databases,1998,0,0,2,0.0,52482323,Johannes FÃ¼rnkranz,0,0.36961615338683507,0.04520172406723675
+2016159616,New ensemble methods for evolving data streams,2009,28,395,2,0.366377,307521372,Albert Bifet,0,0.6931055918187734,0.31175455237936417
+2018061754,Resampling strategies for regression,2015,15,38,4,0.0,1973271071,LuÃ­s Torgo,0,1.1123537269472767,0.5073397479828153
+2032196926,Ensembles of Restricted Hoeffding Trees,2012,24,18,4,0.278956,307521372,Albert Bifet,0,0.1885873675580262,0.3219428272795758
+2023586479,Change detection in categorical evolving data streams,2014,19,8,3,0.470437,2288551980,Dino Ienco,0,-0.1071931497347323,0.3242721482837629
+2011396747,An effective evaluation measure for clustering on evolving data streams,2011,38,52,7,0.236842,2130568417,Hardy Kremer,0,-0.6646760769495431,2.23096334177519
+2038624061,Scalable and efficient multi-label classification for evolving data streams,2012,38,76,4,1.0,2292299320,Jesse Read,0,0.48478191061604536,0.0552979453861967
+2070635990,The Weka solution to the 2004 KDD Cup,2004,3,6,1,1.0,1991131908,Bernhard Pfahringer,0,0.003708468606338,0.082832279151172
+2070845802,Efficient data stream classification via probabilistic adaptive windows,2013,22,31,2,0.238661,307521372,Albert Bifet,0,0.37747157087316596,0.19202155109367497
+2102387656,Evaluation methods and decision theory for classification of streaming data with temporal dependence,2015,43,56,3,0.182309,307521372,Albert Bifet,0,-0.29917783543354576,0.18780240697051775
+2085668204,Mining frequent closed graphs on evolving data streams,2011,32,54,3,0.33132,307521372,Albert Bifet,0,0.4115238163164932,-1.023337625911905
+2103934988,Mining Arbitrarily Large Datasets Using Heuristic k-Nearest Neighbour Search,2008,5,2,3,0.0,2321675238,Xing Wu,0,0.17968548633419076,0.4254766199353514
+2081771622,Clustering for classification,2011,25,10,1,1.0,1991131908,Bernhard Pfahringer,0,-0.7352063193284859,2.5484126245766663
+2123217057,Multi-label Classification Using Ensembles of Pruned Sets,2008,8,248,2,0.72,2292299320,Jesse Read,0,0.5672528349167626,0.24278699655282035
+2135335717,MOA Massive Online Analysis,2010,6,853,4,0.366377,307521372,Albert Bifet,0,0.5283719617011442,0.09800645454614623
+2136139971,Towards a Framework for Designing Full Model Selection and Optimization Systems,2013,13,6,2,1.0,2051609905,Quan Sun,0,0.003708468606338,0.082832279151172
+2133990480,The WEKA data mining software an update,2009,33,14220,4,0.0,2126237948,Mark A. Hall,0,1.5562100508077112,0.7776625162924412
+2134125037,Leveraging bagging for evolving data streams,2010,30,146,2,0.366377,307521372,Albert Bifet,0,-0.008927275617521005,0.17789428724675455
+2117038810,Compression-based evaluation of partial determinations,1995,14,28,1,1.0,1991131908,Bernhard Pfahringer,0,-1.0447491425880033,0.13913383450588956
+2144344912,Clustering Performance on Evolving Data Streams Assessing Algorithms and Evaluation Measures within MOA,2010,16,18,7,0.155172,2008431275,Philipp Kranen,0,0.17370561514992974,0.9258434071098498
+2163731957,MOA-TweetReader real-time analysis in Twitter streaming data,2011,28,33,3,0.33132,307521372,Albert Bifet,0,0.10762906411540143,0.17549003769496518
+2145898068,MOA Massive Online Analysis a framework for stream classification and clustering,2010,42,130,2,0.366377,307521372,Albert Bifet,0,-0.21892615613754504,0.5923622113437262
+2145955992,Pairwise meta-rules for better meta-learning-based algorithm ranking,2013,43,45,2,1.0,2051609905,Quan Sun,0,-0.22179705402134794,-0.14364490433970478
+2188089796,Accurate Ensembles for Data Streams Combining,2010,1,0,2,0.366377,307521372,Albert Bifet,0,0.12120674878188187,0.40419254976825236
+2188182443,Clustering for Classification Subtitle as neede,2011,24,0,1,1.0,1991131908,Bernhard Pfahringer,0,-0.46179469692879416,2.03398940985498
+2152646512,Bagging ensemble selection for regression,2012,21,7,2,1.0,2051609905,Quan Sun,0,-0.40571352257303533,0.3749440530196136
+2164920772,Clustering relational data based on randomized propositionalization,2007,19,4,2,1.0,2164137551,Grant Anderson,0,-0.9211991615469002,3.298294457080068
+2210945197,Case study on bagging stable classifiers for data streams,2015,23,2,2,0.0,1983999465,Joaquin Vanschoren,0,0.9886600817014213,0.6968940213874799
+2245178135,Having a Blast Meta-Learning and Heterogeneous Ensembles for Data Streams,2015,28,15,3,0.6,1997815817,Jan N. van Rijn,0,0.7465139742083542,0.37856960598737616
+2368278370,Building a Twitter opinion lexicon from automatically-annotated tweets,2016,45,25,3,0.0,100894541,Felipe Bravo Marquez,0,0.3519317286583251,0.19465203886557153
+2395711820,Accurate Ensembles for Data Streams Combining Restricted Hoeffding Trees using Stacking,2010,0,32,4,0.366377,307521372,Albert Bifet,0,-0.1071931497347323,0.3242721482837629
+2401680277,Towards Meta-learning over data streams (Abstract),2014,11,0,2,0.0,1983999465,Joaquin Vanschoren,0,0.7998447356530569,0.5869291189305634
+2467405173,A survey on feature drift adaptation,2017,66,25,4,0.571429,1993498403,Jean Paul Barddal,0,-0.4235574006361794,0.5049645485391302
+2467829798,The Application of Machine Learning Algorithms to Detect Chemical Properties Responsible for Carcinogenicity,2000,2,1,1,1.0,1991131908,Bernhard Pfahringer,0,0.003708468606338,0.082832279151172
+2461324856,Benchmarking Stream Clustering Algorithms within the MOA Framework,2010,13,2,2,0.366377,307521372,Albert Bifet,0,-0.34664003795320086,1.6035554232325548
+2557816620,Determining Word-Emotion Associations from Tweets by Multi-label Classification,2016,15,17,4,0.0,100894541,Felipe Bravo Marquez,0,0.20367740504052664,0.23801579762430253
+2558388832,From Opinion Lexicons to Sentiment Classification of Tweets and Vice Versa A Transfer Learning Approach,2016,29,3,3,0.0,100894541,Felipe Bravo Marquez,0,0.44828683262248936,0.1737974443613793
+2517845378,On dynamic feature weighting for feature drifting data streams,2016,38,15,4,0.571429,1993498403,Jean Paul Barddal,0,0.5946063756788157,0.14262125193366665
+2560860974,Improving on bagging with input smearing,2006,0,0,2,0.304559,2165714491,Eibe Frank,0,0.16189805854666994,0.1221005802558557
+2620098425,CACHE HIERARCHY INSPIRED COMPRESSION A NOVEL ARCHITECTURE FOR DATA STREAMS,2016,0,0,2,0.165185,2189262995,Geoffrey Holmes,0,-0.1071931497347323,0.3242721482837629
+2742642850,Extremely Fast Decision Tree Mining for Evolving Data Streams,2017,21,28,8,0.163433,307521372,Albert Bifet,0,0.3174319139149045,0.559314541142739
+2949906273,Use of Ensembles of Fourier Spectra in Capturing Recurrent Concepts in Data Streams,2015,8,3,4,0.0,613243371,Sripirakas Sakthithasan,0,0.04709206819752631,0.47222175242901887
+2937537137,Addressing feature drift in data streams using iterative subset selection,2019,27,0,1,1.0,1991131908,Bernhard Pfahringer,0,0.4114742456535338,0.14850472518790572
+2964050266,Towards Automated Configuration of Stream Clustering Algorithms,2019,13,0,4,0.0,2222814544,Matthias Carnein,0,-0.02535659547480161,0.35730442377653937
+3007647684,Feature Scoring using Tree-Based Ensembles for Evolving Data Streams,2019,30,0,3,0.0,2995873663,Heitor Murilo Gomes,0,-0.103400757320397,0.17817056426176334
+1594145284,Using Weighted Nearest Neighbor to Benefit from Unlabeled Data,2006,18,34,4,0.0,1982051687,Kurt Driessens,0,0.5384718631686234,0.1584961814297729

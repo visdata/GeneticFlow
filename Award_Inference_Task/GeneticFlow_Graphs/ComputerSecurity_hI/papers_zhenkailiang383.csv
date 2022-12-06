@@ -1,0 +1,46 @@
+182375779,One-Way Isolation An Effective Approach for Realizing Safe Execution Environments,2005,25,63,2,0.4,2120000022,Weiqing Sun,0,0.0040557659796233,0.2757546058061082
+165420698,TrustFound Towards a Formal Foundation for Model Checking Trusted Computing Platforms,2014,31,7,5,0.5,2103170607,Guangdong Bai,0,-0.6987801806718262,0.17080088195475088
+101671200,Identifying and Analyzing Pointer Misuses for Sophisticated Memory-corruption Exploit Diagnosis,2012,32,21,4,0.0,2918286003,Mingwei Zhang,0,-0.09978773846384253,0.9050903526293893
+136211262,A Quantitative Evaluation of Privilege Separation in Web Browser Designs,2013,27,7,4,0.923077,2127974394,Xinshu Dong,0,1.5733736148726598,1.6269740916327833
+204860813,A Usage-Pattern Perspective for Privacy Ranking of Android Apps,2014,18,1,3,1.0,2282449208,Xiaolei Li,0,-0.38297672827465196,0.46125068598901287
+1075951497,Man-in-the-browser-cache,2015,38,23,2,0.666667,2096909092,Jian Mao,0,-1.0019331194231915,-0.03614324456653334
+1459231281,Automatic generation of data-oriented exploits,2015,32,66,5,1.0,2134111701,Hong Hu,0,-0.1625094323888445,0.039244197349764094
+1797591744,Towards Generating High Coverage Vulnerability-Based Signatures with Protocol-Level Constraint-Guided Exploration,2009,37,24,2,0.333333,2118632750,Juan Caballero,0,0.1639362940477497,0.6530314529854678
+1676940139,Expanding Malware Defense by Securing Software Installations,2008,30,13,3,0.4,2120000022,Weiqing Sun,0,1.0096951293466732,0.8720582178091442
+1612893162,Tracking the trackers fast and scalable dynamic analysis of web content for privacy violations,2012,19,17,3,0.6,2040086302,Minh Tran,0,1.5228945692375946,0.6909468819214771
+1982292992,A Software Environment for Confining Malicious Android Applications via Resource Virtualization,2013,13,2,3,1.0,2282449208,Xiaolei Li,0,0.05940095047987125,0.6960502266457337
+1974649417,AirBag Boosting Smartphone Resistance to Malware Infection,2014,32,57,4,0.0,2429607387,Chiachih Wu,0,-0.5028031078610354,1.0757388846166769
+1969501726,Jump-oriented programming a new class of code-reuse attack,2011,31,301,3,0.0,2063641608,Tyler Bletsch,0,0.022433842949278898,0.7255657775906683
+1997546092,I Know Where Youve Been Geo-Inference Attacks via the Browser Cache,2015,21,24,3,0.857143,2115391026,Yaoqi Jia,0,0.0040557659796233,0.2757546058061082
+2031965919,Alcatraz An Isolated Environment for Experimenting with Untrusted Software,2009,37,23,1,1.0,2112237930,Zhenkai Liang,0,0.0040557659796233,0.2757546058061082
+2049867480,Polyglot automatic extraction of protocol message format using dynamic binary analysis,2007,28,276,3,0.333333,2118632750,Juan Caballero,0,-1.0008400706397378,-0.9810471015366883
+2067261705,POSTER CRYPTSERVER strong data protection in commodity LAMP servers,2013,9,0,1,1.0,2112237930,Zhenkai Liang,0,0.9180611262831727,0.08462517103740128
+2069536078,Enforcing system-wide control flow integrity for exploit detection and diagnosis,2013,36,25,3,1.0,2158430196,Aravind Prakash,0,-0.3462872381084528,1.1219856326782098
+2067825984,A Light-Weight Software Environment for Confining Android Malware,2014,21,2,4,1.0,2282449208,Xiaolei Li,0,-0.47844533733402833,1.362497709876
+2092670271,A Framework to Eliminate Backdoors from Response-Computable Authentication,2012,32,7,6,0.0,2171032660,Shuaifu Dai,0,-2.139131078516978,-1.9749473871398382
+2089560940,HookFinder Identifying and Understanding Malware Hooking Behaviors,2008,18,120,2,0.423077,2214002380,Heng Yin,0,-0.5334796547787679,1.484553098255376
+2114604089,Heap Taichi exploiting memory allocation granularity in heap-spraying attacks,2010,27,32,4,0.0,2649823642,Yu Ding,0,0.8770957777503273,0.7878042121150818
+2119251836,BitBlaze A New Approach to Computer Security via Binary Analysis,2008,29,546,7,0.0,2131252044,Dawn Song,0,-0.9907348076734198,2.0404461612040294
+2107466081,Protecting sensitive web content from client-side vulnerabilities with CRYPTONS,2013,52,19,6,0.923077,2127974394,Xinshu Dong,0,1.7029826062605458,-0.2600589908962866
+2154022444,Isolated program execution an application transparent approach for executing untrusted programs,2003,19,104,1,1.0,2112237930,Zhenkai Liang,0,0.0040557659796233,0.2757546058061082
+2166406630,AdSentry comprehensive and flexible confinement of JavaScript-based advertisements,2011,30,29,3,1.0,2127974394,Xinshu Dong,0,-0.6127148865968736,1.8866964350111297
+2151996777,Fast and automated generation of attack signatures a basis for building self-protecting servers,2005,39,187,1,1.0,2112237930,Zhenkai Liang,0,0.18721280514206096,0.7668794679363188
+2174441577,You Cant Be Me Enabling Trusted Paths and User Sub-origins in Web Browsers,2014,41,8,5,0.0,2132251284,Enrico Budianto,0,0.0040557659796233,0.2757546058061082
+2153164877,Automatic generation of buffer overflow attack signatures an approach based on program behavior models,2005,35,51,1,1.0,2112237930,Zhenkai Liang,0,0.0040557659796233,0.2757546058061082
+2304020471,Automatic permission inference for hybrid mobile apps,2016,7,4,5,0.666667,2096909092,Jian Mao,0,1.0098435912875139,0.8589439898037241
+2296324027,Web-to-Application Injection Attacks on Android Characterization and Detection,2015,36,17,5,0.0,2227127082,Behnaz Hassanshahi,0,0.09213588834667,0.385594277368354
+2296478376,Identifying Arbitrary Memory Access Vulnerabilities in Privilege-Separated Software,2015,43,1,3,1.0,2134111701,Hong Hu,0,0.12130269931957537,2.2547043042173667
+2401211838,CRYPTSERVER strong data protection in commodity LAMP servers,2013,0,0,4,0.0,2548437445,Zhaofeng Chen,0,0.27844714193038306,0.5934123001132089
+2484028540,Anonymity in Peer-assisted CDNs Inference Attacks and Mitigation,2016,44,2,4,0.75,2115391026,Yaoqi Jia,0,-0.16420021596708323,0.32292378428885316
+2511463445,The Web/Local Boundary Is Fuzzy A Security Study of Chromes Process-based Sandboxing,2016,38,8,6,0.75,2115391026,Yaoqi Jia,0,0.0040557659796233,0.2757546058061082
+2563273224,Monet A User-Oriented Behavior-Based Malware Variants Detection System for Android,2017,41,33,5,0.8,2102972712,Mingshen Sun,0,-0.30863164096414836,1.2848956082567269
+2512784977,Data-Oriented Programming On the Expressiveness of Non-control Data Attacks,2016,39,108,6,1.0,2134111701,Hong Hu,0,0.06095209666146809,0.4087296716361643
+2607336868,RoppDroid Robust permission re-delegation prevention in Android inter-component communication,2017,41,2,5,0.0,2306963279,Ting Dai,0,0.0040557659796233,0.2757546058061082
+2771255642,Privilege Leakage and Information Stealing through the Android Task Mechanism,2017,14,2,4,0.0,2772167766,Yinhao Xiao,0,-0.11124040362566429,0.44101072305392736
+2753395445,Neural Nets Can Learn Function Type Signatures From Binaries,2017,39,32,4,1.0,2030162137,Zheng Leong Chua,0,0.0040557659796233,0.2757546058061082
+2766127069,Enabling practical experimentation in cyber-security training,2017,1,0,3,0.0,2765940760,Jian Mao,0,0.0040557659796233,0.2757546058061082
+2910373195,Understanding Rowhammer Attacks through the Lens of a Unified Reference Framework,2019,48,2,4,0.0,2909425338,Xiaoxuan Lou,0,0.1639362940477497,0.6530314529854678
+2908004760,HOMESCAN Scrutinizing Implementations of Smart Home Integrations,2018,25,0,6,0.0,2907013780,Kulani Tharaka Mahadewa,0,-0.4444081422602853,0.16299488514284696
+2946864865,One Engine To Serve em All Inferring Taint Rules Without Architectural Semantics,2019,0,1,5,1.0,2030162137,Zheng Leong Chua,0,0.0040557659796233,0.2757546058061082
+2952970502,Monet A User-oriented Behavior-based Malware Variants Detection System for Android,2016,0,0,5,0.8,2102972712,Mingshen Sun,0,-0.13207201912491093,0.695031384453717
+2985580374,Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment,2019,61,6,4,0.0,2956429420,Ziqi Yang,0,-0.17324153726119554,0.6587671663167594

@@ -1,0 +1,77 @@
+36190597,Securing network input via a trusted input proxy,2007,6,22,2,1.0,2116502629,Kevin Borders,0,0.08898229829886711,0.29317270828781394
+2995805,Towards quantification of network-based information leaks via HTTP,2008,3,7,2,0.947368,2116502629,Kevin Borders,0,-0.0704802660657359,0.09794035737183271
+39546561,Content-based publish subscribe systems scalability and security,2004,0,4,1,1.0,2222476460,Atul Prakash,0,-0.16828520507558486,0.7515943848908955
+78126060,Policy management in secure group communication,2001,0,7,2,0.580645,2056207806,Patrick McDaniel,0,-0.5983300841897745,0.9864263940824027
+45055422,SPAN a unified framework and toolkit for querying heterogeneous access policies,2009,10,5,2,0.0,2197775253,Kristen LeFevre,0,-0.3383784544281044,0.15268826611744696
+46338816,Let the Right One in Discovering and Mitigating Permission Gaps,2013,9,0,2,1.0,2130076257,Beng Heng Ng,0,0.1954260966631127,0.09836639979555051
+66333431,Protecting confidential data on personal computers with storage capsules,2009,20,51,4,0.829404,2116502629,Kevin Borders,0,-0.3949096891153995,0.970638888211936
+119894610,WSF An HTTP-Level Firewall for Hardening Web Servers,2005,10,4,2,1.0,2557945013,Xin Zhao,0,2.548241342421157,-0.07425538574092139
+804398172,The Data Capsule for Non-Consumptive Research Final Report,2015,1,1,2,0.0,718373947,Beth Plale,0,1.085097682730419,1.950487146920374
+1506441556,Methods and limitations of security policy reconciliation,2002,39,88,1,1.0,2222476460,Atul Prakash,0,0.07333135689691668,0.9968317174091387
+1525243471,Antigone Implementing Policy in Secure Group Communication,2000,43,4,2,0.580645,2056207806,Patrick McDaniel,0,-1.0118170275188536,2.0561047341798226
+1570879214,Secure distribution of events in content-based publish subscribe systems,2001,32,71,2,0.0,2905912520,Lukasz Opyrchal,0,0.4713774909355583,-0.5144771350492254
+1507739880,Antigone a flexible framework for secure group communication,1999,26,105,2,0.580645,2056207806,Patrick McDaniel,0,-0.39270351314976754,2.6371489936366332
+1483177141,FACE a firewall analysis and configuration engine,2005,5,14,2,0.0,2116135247,Pavan Verma,0,0.3249950294639525,-0.1470130082409515
+1502167006,Building systems that flexibly control downloaded executable context,1996,26,45,3,0.0,2112283555,Aviel D. Rubin,0,-0.5530861437885858,-0.004176666300269333
+1565224912,Security in practice - security-usability chasm,2007,8,0,1,1.0,2222476460,Atul Prakash,0,-1.04102498767886,2.011262696274836
+1495866883,Decomposable Trust for Android Applications,2015,29,1,4,1.0,2097643792,Earlence Fernandes,0,0.1475395743585395,0.8074695844854315
+1604521952,Ensemble Community-Based Anomaly Detection for Popular Applications,2009,24,2,4,0.0,2117235360,Feng Qian,0,0.13679434731489165,0.6751406926737795
+1599405170,Ismene Provisioning and Policy Reconciliation in Secure Group Communication,2000,32,9,2,0.580645,2056207806,Patrick McDaniel,0,-0.0055216156628483315,0.8431774549076696
+1582075201,Enforcing provisioning and authorization policy in the Antigone system,2006,47,6,2,0.272374,2056207806,Patrick McDaniel,0,-0.680304170308967,0.5178808451632195
+1823230217,Method and system for determining and enforcing security policy in a communication session,2001,15,201,2,0.580645,2056207806,Patrick McDaniel,0,-0.5033316839429036,1.0134709008678666
+1658255356,Anception Application Virtualization For Android,2014,20,3,4,0.923077,2097643792,Earlence Fernandes,0,0.05940095047987125,0.6960502266457337
+1992644805,Siren catching evasive malware,2006,22,67,2,1.0,2116502629,Kevin Borders,0,0.0074004694571258925,0.901207271478266
+1993252585,Analyzing websites for user-visible security design flaws,2008,14,37,2,1.0,2125543370,Laura Falk,0,-1.336521015657162,2.6111342185891138
+1997322704,Distilling critical attack graph surface iteratively through minimum-cost SAT solving,2011,36,46,4,0.0,2111453272,Heqing Huang,0,-0.4424632667644519,-0.23836591721702813
+1995734718,The confinement problem 40 years later,2013,44,6,4,1.0,2225388637,Alexander Crowell,0,-1.849432942852349,2.2197575014087185
+2024706419,Adaptive semi-private email aliases,2012,2,2,3,1.0,2130076257,Beng Heng Ng,0,-0.4560817399599038,-2.159726249494657
+2054534800,Supporting privacy policies in a publish-subscribe substrate for pervasive environments,2007,22,23,2,0.75,2973021519,Lukasz Opyrchal,0,0.4540444660747154,2.010698620309421
+2044207150,Fighting Phishing with Trusted Email,2010,5,7,3,0.0,2230628032,Jordan Crain,0,-0.44645319470545086,0.6356622815656702
+2068133666,OASIS Operational Access Sandboxes for Information Security,2014,14,7,4,0.0,2172290114,Mauro Conti,0,-0.183595884821659,0.8360419257234778
+2055961820,OpenFire Using deception to reduce network attacks,2007,17,7,3,1.0,2116502629,Kevin Borders,0,0.15153941321534867,0.6684372112703307
+2069242349,Methods and limitations of security policy reconciliation,2006,45,60,2,0.272374,2056207806,Patrick McDaniel,0,-0.8586871884469306,1.381110244092968
+2057108693,Flexible control of downloaded executable content,1999,47,61,2,0.254717,2181741781,Trent Jaeger,0,-0.5309329587717687,0.6883071482243798
+2079580988,SVGrid a secure virtual environment for untrusted grid applications,2005,12,22,3,1.0,2557945013,Xin Zhao,0,-0.4076213878543841,0.19038915075515908
+2099206289,Spector Automatically Analyzing Shell Code,2007,21,17,2,1.0,2116502629,Kevin Borders,0,-0.255481096177426,0.4843741529378961
+2120161113,Antigone policy-based secure group communication system and AMirD Antigone-based secure file mirroring system,2003,0,1,2,0.0,2974412341,J. Irrer,0,-0.4155168830912724,0.02611958060529761
+2106011196,A Study on Latent Vulnerabilities,2010,8,6,3,1.0,2130076257,Beng Heng Ng,0,-1.4906487443016354,2.505157669622591
+2138798600,CPOL high-performance policy evaluation,2005,16,54,3,0.888889,2116502629,Kevin Borders,0,-0.3352654644081557,1.043246936766033
+2124303468,A flexible architecture for security policy enforcement,2003,12,11,2,0.490754,2056207806,Patrick McDaniel,0,-1.3399234783563851,2.1800875334126695
+2139272743,Source authentication in group communication systems,2003,5,0,2,1.0,2557945013,Xin Zhao,0,-1.8562195098390855,-1.6360925526261907
+2139645586,Support for the file system security requirements of computational E-mail systems,1994,11,22,2,1.0,2181741781,Trent Jaeger,0,-1.1688003394766644,1.905548091942811
+2124892101,Tolerating client and communication failures in distributed groupware systems,1998,13,7,2,0.0,2262113984,Hyong Sop Shim,0,0.784039392901613,0.7781291624743449
+2124929753,Web tap detecting covert web traffic,2004,22,124,2,0.888889,2116502629,Kevin Borders,0,0.3259332239481683,0.5745734317069635
+2131052160,Stateful group communication services,1999,14,1,2,0.0,225680937,Radu Litiu,0,1.1628411914646186,0.562749020045459
+2131758172,Flexibly constructing secure groups in Antigone 20,2001,36,9,2,0.580645,2056207806,Patrick McDaniel,0,-0.7104794075085502,1.465201619446542
+2134751267,Securing sensitive content in a view-only file system,2006,10,14,3,1.0,2116502629,Kevin Borders,0,-0.25726720704867145,0.4612896022021228
+2144144806,Social networks and context-aware spam,2008,15,127,4,0.0,2720964004,Garrett Brown,0,-0.834348972121215,0.29325813133787076
+2155152748,Requirements of role-based access control for collaborative systems,1996,15,42,2,0.388889,2181741781,Trent Jaeger,0,-1.0322437345245459,0.919381583612317
+2150115633,Quantifying Information Leaks in Outbound Web Traffic,2009,14,59,2,0.829404,2116502629,Kevin Borders,0,0.13679434731489165,0.6751406926737795
+2295406288,Group Security of V2Vusing Cloud Computing Processing and 4G Wireless Services,2014,13,0,5,0.0,2229260735,Biswajit Panja,0,-0.0580329039602663,0.019825664430349794
+2310011385,Supporting Privacy Policies in a Publish-Subscribe Substrate for Pervasive,2007,22,0,1,1.0,2222476460,Atul Prakash,0,-0.17210129712598743,1.5563857735536266
+2291964206,Designing a Publish-Substrate for Privacy/Security in Pervasive Environments,2006,18,0,1,1.0,2222476460,Atul Prakash,0,0.0040557659796233,0.2757546058061082
+2474516640,FlowFence practical data protection for emerging IoT application frameworks,2016,46,83,6,1.0,2097643792,Earlence Fernandes,0,0.16857932136130005,0.7769631930444142
+2584257946,Applying the Opacified Computation Model to Enforce Information Flow Policies in IoT Applications,2016,21,2,3,1.0,2046483865,Amir Rahmati,0,0.1822731046919942,0.706777145399998
+2535134046,Towards protecting sensitive files in a compromised system,2005,24,54,3,1.0,2557945013,Xin Zhao,0,-0.25872168666246537,1.1377250200469038
+2508433864,Security Analysis of Emerging Smart Home Applications,2016,15,216,3,1.0,2097643792,Earlence Fernandes,0,0.5936594884898823,0.8652820301563995
+2613352518,ContexIoT Towards Providing Contextual Integrity to Appified IoT Platforms,2017,0,81,6,1.0,2046483865,Amir Rahmati,0,0.4699643415368057,1.3468011623603688
+2610617064,Information Systems Security 10th International Conference ICISS 2014 Hyderabad India December 16-20 2014 Proceedings,2014,0,0,2,0.0,2169216096,Rudrapatna K. Shyamasundar,0,0.0040557659796233,0.2757546058061082
+2735440384,Implementation of a discretionary access control model for script-based systems,1995,0,1,2,1.0,2181741781,Trent Jaeger,0,-1.0223515874669262,1.0806065856086027
+2620370356,Internet of Things Security Research A Rehash of Old Ideas or New Intellectual Challenges ,2017,13,34,3,1.0,2046483865,Amir Rahmati,0,-0.06023678095285978,0.6713696564603895
+2729585734,Decoupled-IFTTT Constraining Privilege in Trigger-Action Platforms for the Internet of Things,2017,5,6,4,0.808127,2097643792,Earlence Fernandes,0,0.13169397206422867,0.8410890236033572
+2731370141,NETWORK EVENT MANAGER,1986,0,3,2,0.0,429548451,C. V. Ramamoorthy,0,0.0040557659796233,0.2757546058061082
+2616594753,Android UI Deception Revisited Attacks and Defenses,2016,15,23,7,1.0,2097643792,Earlence Fernandes,0,0.3197541369046406,0.12468754732749415
+2604699954,Security Implications of Permission Models in Smart-Home Application Frameworks,2017,4,27,4,0.808127,2097643792,Earlence Fernandes,0,0.09923398289755254,0.9009223188458493
+2759471388,Robust Physical-World Attacks on Deep Learning Models,2017,37,297,3,0.0,2131252044,Dawn Song,0,0.0040557659796233,0.2757546058061082
+2741933435,Robust Physical-World Attacks on Machine Learning Models,2017,10,94,6,1.0,2741546476,Ivan Evtimov,0,0.0040557659796233,0.2757546058061082
+2751576534,Ensuring Authorized Updates in Multi-user Database-Backed Applications,2017,8,3,2,1.0,2618900947,Kevin Eykholt,0,0.0040557659796233,0.2757546058061082
+2791710451,Decentralized Action Integrity for Trigger-Action IoT Platforms,2018,14,24,4,0.669849,2097643792,Earlence Fernandes,0,0.1822731046919942,0.706777145399998
+2783116947,Tyche Risk-Based Permissions for Smart Home Platforms,2018,9,1,4,1.0,2046483865,Amir Rahmati,0,0.0438009039813555,0.660912305741342
+2901665206,Tyche A Risk-Based Permission Model for Smart Homes,2018,12,8,4,1.0,2046483865,Amir Rahmati,0,0.14936408378902535,0.8198747654921906
+2898735506,Securing IoT Apps with Fine-grained Control of Information Flows,2018,7,0,3,0.9,2898980774,Davino Mauro Junior,0,-0.14065494019366465,0.42829252199753065
+2913506789,Beware of the App On the Vulnerability Surface of Smart Devices through their Companion Apps,2019,18,1,5,0.9,2898980774,Davino Mauro Junior,0,-0.23109661227987494,0.010688487277503423
+2946413635,Open Source Vulnerability Notification,2019,11,2,5,0.0,2945447500,Brandon Carlson,0,0.0040557659796233,0.2757546058061082
+2949194650,Internet of Things Security Research A Rehash of Old Ideas or New Intellectual Challenges ,2017,12,0,3,1.0,2046483865,Amir Rahmati,0,0.05497932741268354,0.6829286390013323
+2964175514,Physical Adversarial Examples for Object Detectors,2018,0,33,7,1.0,2618900947,Kevin Eykholt,0,0.0040557659796233,0.2757546058061082
+2974058390,A Study of Vulnerability Analysis of Popular Smart Devices Through Their Companion Apps,2019,9,0,5,0.9,2898980774,Davino Mauro Junior,0,0.8444666212789178,-0.2521483880475374
+2888814950,Tools for Active and Passive Network Side-Channel Detection for Web Applications,2018,0,2,7,0.0,2344049843,Michael Lescisin,0,0.9753907213017128,-0.24445946668398916

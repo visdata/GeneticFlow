@@ -1,0 +1,37 @@
+105872544,Asgard Software guards for system address spaces,2006,0,1,2,0.0,281330718,George C. Necula,0,0.0040557659796233,0.2757546058061082
+25266476,End-to-end web application security,2007,14,51,1,1.0,691809822,Ãšlfar Erlingsson,0,-0.32409323540744556,1.1528106569199716
+178807871,Towards Security by Construction for Web 20 Applications,2007,6,0,1,1.0,691809822,Ãšlfar Erlingsson,0,-0.9301804029596308,1.6824063373214893
+332253968,Control-Flow Integrity - Principles Implementations and Applications,2005,52,139,1,1.0,691809822,Ãšlfar Erlingsson,0,-0.24263774287769158,0.48314717038057303
+1507248102,Operating system protection against side-channel attacks on secrecy,2006,15,21,1,1.0,691809822,Ãšlfar Erlingsson,0,0.3114698368686896,0.09360954441259256
+1502612012,Low-level software security attacks and defenses,2007,36,46,1,1.0,691809822,Ãšlfar Erlingsson,0,-1.3721930698182816,1.7734739921660752
+1939482001,Systems and methods for transparent configuration authentication of networked devices,2003,12,52,2,1.0,320422649,Xavier Boyen,0,0.7809766721901215,-1.0228502344092423
+1816718056,Enforcing forward-edge control-flow integrity in GCC &amp; LLVM,2014,26,170,1,1.0,691809822,Ãšlfar Erlingsson,0,0.0040557659796233,0.2757546058061082
+1590050693,A theory of secure control flow,2005,20,53,3,0.0,2162106674,MartÃ­n Abadi,0,0.09595105462870959,0.5756748062129428
+1828301922,Packet validation using watermarks,2013,14,11,2,1.0,320422649,Xavier Boyen,0,1.2537778536268505,-1.207535808409891
+1971471415,Programming languages and program analysis for security a three-year retrospective,2009,50,5,2,0.0,2063507398,Marco Pistoia,0,-1.0716513239735899,1.6864514776724484
+1981029888,RAPPOR Randomized Aggregatable Privacy-Preserving Ordinal Response,2014,28,455,1,1.0,691809822,Ãšlfar Erlingsson,0,0.13726369364785054,0.48345622800609395
+2006611045,SASI enforcement of security policies a retrospective,1999,15,235,1,1.0,691809822,Ãšlfar Erlingsson,0,0.2562542871095373,-0.43444655691012435
+2051713970,Ad hoc extensibility and access control,2006,37,2,1,1.0,691809822,Ãšlfar Erlingsson,0,-0.023550276898621297,0.7099097923564667
+2061197573,Macaroons Cookies with Contextual Caveats for Decentralized Authorization in the Cloud,2014,47,46,3,0.210526,2074210144,Arnar Birgisson,0,-0.4940648834516576,0.49457793339769174
+2102336548,Using web application construction frameworks to protect against code injection attacks,2007,20,62,2,0.0,2170552450,Benjamin Livshits,0,-1.3721930698182816,1.7734739921660752
+2112022457,Low-Level Software Security by Example,2010,31,26,1,1.0,691809822,Ãšlfar Erlingsson,0,-1.257524340384283,2.6887672183748994
+2109219878,Control-flow integrity,2005,60,691,3,0.0,2162106674,MartÃ­n Abadi,0,-0.7821193806127023,0.9062186636784073
+2141988808,IRM enforcement of Java stack inspection,2000,17,305,1,1.0,691809822,Ãšlfar Erlingsson,0,-0.320150318779021,1.1038572227082406
+2118410985,The inlined reference monitor approach to security policy enforcement,2004,134,181,1,1.0,691809822,Ãšlfar Erlingsson,0,0.413063654193009,1.4345960219502143
+2106933078,SASI enforcement of security policies a retrospective,2000,11,121,1,1.0,691809822,Ãšlfar Erlingsson,0,-0.3781706567619069,0.3801133673982157
+2121780525,Automated Analysis of Security-Critical JavaScript APIs,2011,34,84,2,0.0,2130033434,Ankur Taly,0,-0.19992953342675066,1.4619356548013922
+2125615781,Engineering Secure Software and Systems,2011,0,117,1,1.0,691809822,Ãšlfar Erlingsson,0,-1.3721930698182816,1.7734739921660752
+2131821445,Strato a retargetable framework for low-level inlined-reference monitors,2013,34,34,3,0.0,2306368710,Bin Zeng,0,0.0040557659796233,0.2757546058061082
+2140973326,Enforcing authorization policies using transactional memory introspection,2008,50,38,3,0.210526,2074210144,Arnar Birgisson,0,0.5188732038745871,1.341587462663946
+2149465763,Believably trustworthy enforcement of privacy enhancing technologies in data processing,2004,14,17,1,1.0,691809822,Ãšlfar Erlingsson,0,0.9169834857886978,2.1599960231791546
+2159059513,Control-flow integrity principles implementations and applications,2009,74,348,3,0.0,2162106674,MartÃ­n Abadi,0,-0.5288530777608935,0.6646685615796267
+2222338129,Watermarking at the packet level,2003,0,14,2,1.0,320422649,Xavier Boyen,0,1.2537778536268505,-1.207535808409891
+2283699826,Transparent configuration authentication of networked devices,2003,3,8,2,1.0,320422649,Xavier Boyen,0,0.7809766721901215,-1.0228502344092423
+2284691406,Lets parse to prevent pwnage invited position paper,2012,10,7,1,1.0,691809822,Ãšlfar Erlingsson,0,0.0040557659796233,0.2757546058061082
+2414972958,Data-Driven Software Security Models and Methods,2016,26,2,1,1.0,691809822,Ãšlfar Erlingsson,0,-1.3721930698182816,1.7734739921660752
+2491965800,Methods and systems of generating and using authentication credentials for decentralized authorization in the cloud,2013,58,11,1,1.0,691809822,Ãšlfar Erlingsson,0,-0.5837913105825437,0.12742274399378178
+2585354435,A theory of secure control flow,2005,0,0,3,0.0,2162106674,MartÃ­n Abadi,0,0.09595105462870959,0.5756748062129428
+2766717474,Data-driven Software Security and its Hardware Support,2017,0,0,1,1.0,691809822,Ãšlfar Erlingsson,0,-2.096517619428305,2.616571026208174
+2765202860,Using web application construction frameworks to protect against code injection attacks,2007,12,2,2,0.0,2170552450,Benjamin Livshits,0,-1.3721930698182816,1.7734739921660752
+2761138375,Prochlo Strong Privacy for Analytics in the Crowd,2017,69,68,2,0.0,10873397,Andrea Bittau,0,0.8343687735890419,0.4501603964943988
+2946930197,The Secret Sharer Evaluating and Testing Unintended Memorization in Neural Networks,2019,0,34,3,0.0,1606335232,Nicholas Carlini,0,0.0040557659796233,0.2757546058061082

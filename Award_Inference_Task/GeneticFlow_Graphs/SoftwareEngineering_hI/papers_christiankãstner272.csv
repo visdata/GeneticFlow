@@ -1,0 +1,48 @@
+193554238,CIDE Decomposing Legacy Applications into Features,2007,5,14,1,1.0,2036720062,Christian KÃ¤stner,0,-0.0291855379334779,0.0585196112869768
+177465909,Semistructured Merge in Revision Control Systems,2010,22,7,4,0.369456,2170711779,Sven Apel,0,-0.0291855379334779,0.0585196112869768
+58726672,Implementing Bounded Aspect Quantification in AspectJ,2006,17,5,1,1.0,2036720062,Christian KÃ¤stner,0,-0.0291855379334779,0.0585196112869768
+93175257,Basic Concepts Classification and Quality Criteria,2013,0,0,3,0.0,129750422,Gunter Saake,0,-0.0291855379334779,0.0585196112869768
+146423961,Advanced Language-Based Variability Mechanisms,2013,0,1,3,0.0,129750422,Gunter Saake,0,-0.40513008910696857,0.34387134788142026
+131324552,Classic Language-Based Variability Mechanisms,2013,0,0,3,0.0,129750422,Gunter Saake,0,-0.5935003310770833,-0.03514960312909599
+117002097,Automating Feature-Oriented Refactoring of Legacy Applications,2007,12,17,1,1.0,2036720062,Christian KÃ¤stner,0,-0.45852030700223123,0.22333703537111385
+1500581803,On the impact of the optional feature problem analysis and case studies,2009,36,82,1,1.0,2036720062,Christian KÃ¤stner,0,-0.40513008910696857,0.34387134788142026
+1040204547,Advanced Tool-Driven Variability Mechanisms,2013,0,0,3,0.0,129750422,Gunter Saake,0,-0.0291855379334779,0.0585196112869768
+1495498564,Analysis Strategies for Software Product Lines,2012,65,52,3,0.0,129750422,Gunter Saake,0,-0.40513008910696857,0.34387134788142026
+1451201927,Feature-Oriented Software Development,2011,103,6,1,1.0,2036720062,Christian KÃ¤stner,0,-0.0291855379334779,0.0585196112869768
+1605235205,Proceedings of the First International Workshop on Feature-Oriented Software Development,2009,0,2,2,0.0,1971965784,Krzysztof Czarnecki,0,-0.325336468980016,-0.2866502174424865
+1979836908,Exploring Software Measures to Assess Program Comprehension,2011,37,18,4,1.0,90956602,Janet Feigenspan,0,-0.0291855379334779,0.0585196112869768
+1981801194,Cross-language program slicing for dynamic web applications,2015,48,18,2,0.0,2174358203,Hung Viet Nguyen,0,-0.0291855379334779,0.0585196112869768
+1987225105,Visual Support for Understanding Product Lines,2010,7,14,2,1.0,90956602,Janet Feigenspan,0,-0.0291855379334779,0.0585196112869768
+2003113483,Analyzing the discipline of preprocessor annotations in 30 million lines of C code,2011,39,77,2,1.0,2104626127,JÃ¶rg Liebig,0,-0.0291855379334779,0.0585196112869768
+1999026709,Varis IDE support for embedded client code in PHP web applications,2015,9,4,2,0.0,2174358203,Hung Viet Nguyen,0,-0.0291855379334779,0.0585196112869768
+2026710643,Third International Workshop on Feature-Oriented Software Development (FOSD 2011),2011,0,0,3,0.251635,2170711779,Sven Apel,0,-0.0291855379334779,0.0585196112869768
+2051163260,FeatureCommander colorful #ifdef world,2011,5,6,3,1.0,90956602,Janet Feigenspan,0,-0.0291855379334779,0.0585196112869768
+2053327450,Do background colors improve program comprehension in the #ifdef hell ,2013,95,49,4,0.8,90956602,Janet Feigenspan,0,-0.45852030700223123,0.22333703537111385
+2048580982,Language-independent reference checking in software product lines,2010,28,16,4,0.369456,2170711779,Sven Apel,0,-0.0291855379334779,0.0585196112869768
+2072325005,An Overview of Feature-Oriented Software Development,2009,121,299,2,0.369456,2170711779,Sven Apel,0,-0.0291855379334779,0.0585196112869768
+2109692881,A Case Study Implementing Features Using AspectJ,2007,49,156,1,1.0,2036720062,Christian KÃ¤stner,0,0.3593239553478969,-0.5775862921252578
+2121771606,Virtual Separation of Concerns { A Second Chance for Preprocessors,2009,38,70,2,0.369456,2170711779,Sven Apel,0,0.16507363120930635,-0.2696288139740148
+2116121076,A Development Process for Feature-Oriented Product Lines,2013,0,0,3,0.0,129750422,Gunter Saake,0,-0.40513008910696857,0.34387134788142026
+2125934571,How to compare program comprehension in FOSD empirically an experience report,2009,39,16,2,0.8,90956602,Janet Feigenspan,0,0.16507363120930635,-0.2696288139740148
+2153690411,FeatureIDE A tool framework for feature-oriented software development,2009,17,150,1,1.0,2036720062,Christian KÃ¤stner,0,-0.0291855379334779,0.0585196112869768
+2165745955,JavAdaptor unrestricted dynamic software updates for Java,2011,10,24,4,0.363636,154735665,Mario Pukall,0,-0.0291855379334779,0.0585196112869768
+2146146776,An analysis of the variability in forty preprocessor-based software product lines,2010,36,207,4,1.0,2104626127,JÃ¶rg Liebig,0,0.5597269077758154,0.2093708217632397
+2155357376,Flexible Runtime Program Adaptations in Java - A Comparison,2009,28,6,4,0.363636,154735665,Mario Pukall,0,-0.0291855379334779,0.0585196112869768
+2171002355,Granularity in software product lines,2008,50,360,1,1.0,2036720062,Christian KÃ¤stner,0,-0.45852030700223123,0.22333703537111385
+2221933483,Intelligently Transparent Software Ecosystems,2016,13,4,2,0.0,202682525,James D. Herbsleb,0,0.25631760331876086,0.5469451896967593
+2327442852,Seminal Papers in Software Engineering The Carnegie Mellon Canonical Collection,2015,0,1,2,0.0,4823187,William L. Scherlis,0,-0.0291855379334779,0.0585196112869768
+2341001244,Visualizing the variational callgraph of the Linux kernel an approach for reasoning about dependencies [poster],2016,12,0,4,0.0,2121098392,Momin M. Malik,0,-0.0291855379334779,0.0585196112869768
+2402856556,Analysis Strategies for Software Product Lines A Classification and Survey,2015,8,2,3,0.0,2502682550,Thomas ThÃ¼m,0,-0.0291855379334779,0.0585196112869768
+2495617574,Feature-Oriented Software Product Lines,2013,0,334,3,0.0,129750422,Gunter Saake,0,-0.0291855379334779,0.0585196112869768
+2546509033,Escaping AutoHell a vision for automated analysis and migration of autotools build systems,2016,12,2,2,0.0,1239314518,Jafar M. Al Kofahi,0,-0.0291855379334779,0.0585196112869768
+2597891906,Discipline Matters Refactoring of Preprocessor Directives in the #ifdef Hell,2018,46,10,5,0.857143,2131371396,FlÃ¡vio Medeiros,0,0.16507363120930635,-0.2696288139740148
+2794957215,Identifying features in forks,2018,73,13,6,0.571429,2222325893,Shurui Zhou,0,-0.0291855379334779,0.0585196112869768
+2809217055,Forks insight providing an overview of GitHub forks,2018,7,1,3,0.857143,2809494200,Luyao Ren,0,-0.0291855379334779,0.0585196112869768
+2889033447,Poster Forks Insight Providing an Overview of GitHub Forks,2018,10,1,1,1.0,2036720062,Christian KÃ¤stner,0,-0.0291855379334779,0.0585196112869768
+2901317285,An investigation of misunderstanding code patterns in C open-source software projects,2019,44,1,5,0.857143,2131371396,FlÃ¡vio Medeiros,0,-0.0291855379334779,0.0585196112869768
+2894732341,Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering (ASE 2018),2018,0,2,1,1.0,2036720062,Christian KÃ¤stner,0,-0.0291855379334779,0.0585196112869768
+2896868971,Investigating Misunderstanding Code Patterns in C Open-Source Software Projects (Replication Package),2018,0,1,2,0.0,165833010,Rohit Gheyi,0,-0.0291855379334779,0.0585196112869768
+2920924032,Identifying Redundancies in Fork-based Development,2019,43,3,3,0.857143,2809494200,Luyao Ren,0,-0.0291855379334779,0.0585196112869768
+2981952245,How Do Code Changes Evolve in Different Platforms A Mining-based Investigation,2019,19,0,5,0.0,2883743109,Markos Viggiato,0,-0.0291855379334779,0.0585196112869768
+3002419844,Teaching Software Engineering for AI-Enabled Systems,2020,0,1,1,1.0,2036720062,Christian KÃ¤stner,0,-0.0291855379334779,0.0585196112869768
+2992723486,How Do Code Changes Evolve in Different Platforms A Mining-Based Investigation,2019,18,1,5,0.0,2883743109,Markos Viggiato,0,-0.0291855379334779,0.0585196112869768

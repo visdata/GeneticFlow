@@ -1,0 +1,100 @@
+1822962,Efficient frequent pattern mining,2002,0,38,1,1.0,1992071743,Bart Goethals,0,0.003708468606338,0.082832279151172
+23641749,A new constraint for mining sets in sequences,2009,10,21,2,0.8,2158578835,Boris Cule,0,0.003708468606338,0.082832279151172
+60273108,Mining Cohesive Itemsets in Graphs,2014,25,2,3,1.0,2488101457,Tayena Hendrickx,0,0.003708468606338,0.082832279151172
+165831877,Mining interesting itemsets in graph datasets,2013,22,3,2,1.0,2158578835,Boris Cule,0,0.003708468606338,0.082832279151172
+132885894,ClaSP An Efficient Algorithm for Mining Frequent Closed Sequences,2013,11,71,4,0.0,2097123842,Antonio Gomariz,0,-0.313250122242983,0.3019422694332269
+13476507,Mining Non-Derivable Association Rules,2005,13,31,1,1.0,1992071743,Bart Goethals,0,-0.34841194659538965,-0.10142585373365
+150485655,Cartification from similarities to itemset frequencies,2012,0,0,1,1.0,1992071743,Bart Goethals,0,-0.538447670699222,2.6768132407096545
+1487976951,A new support measure for items in streams,2007,9,0,3,0.561384,2064105222,Toon Calders,0,0.003708468606338,0.082832279151172
+1532985120,Discovery and application of functional dependencies in conjunctive query mining,2010,23,6,1,1.0,1992071743,Bart Goethals,0,-1.5409785338752198,0.09492806349106983
+1480714486,Efficient pattern mining of uncertain data with sampling,2010,11,61,3,0.320128,2064105222,Toon Calders,0,0.15011497953684425,0.13908440388466345
+1498470348,Frequent Set Mining,2005,52,68,1,1.0,1992071743,Bart Goethals,0,0.50695480735822,0.005686596358647345
+1570748171,Depth-first non-derivable itemset mining,2005,19,43,2,0.718776,2064105222,Toon Calders,0,0.003708468606338,0.082832279151172
+1555689524,A priori versus a posteriori filtering of association rules,1999,0,18,1,1.0,1992071743,Bart Goethals,0,-0.34841194659538965,-0.10142585373365
+1539647167,Apriori Property and Breadth-First Search Algorithms,2009,0,1,1,1.0,1992071743,Bart Goethals,0,0.8063056241208273,0.7821809149254144
+1576533511,Mining frequent items in a stream using flexible windows,2008,13,21,3,0.444721,2064105222,Toon Calders,0,0.12982562293834501,0.11282764609340179
+1871114411,On private scalar product computation for privacy-preserving data mining,2004,27,321,1,1.0,1992071743,Bart Goethals,0,0.15021278990355358,0.3159109309075085
+1632815424,Interactive Constrained Association Rule Mining,2001,22,5,1,1.0,1992071743,Bart Goethals,0,0.9968647524245552,-0.33985852591407717
+1635398439,MIME a framework for interactive visual pattern mining,2011,10,8,1,1.0,1992071743,Bart Goethals,0,-0.21582450602042874,-0.42979074410795537
+1879968191,Quick inclusion-exclusion,2005,18,9,2,0.718776,2064105222,Toon Calders,0,0.32608119367550864,-0.3055373564961085
+1854918676,On Supporting Interactive Association Rule Mining,2000,14,46,1,1.0,1992071743,Bart Goethals,0,-0.15295039165088764,-0.19637137839407462
+1824634186,Survey on Frequent Pattern Mining,2003,38,220,1,1.0,1992071743,Bart Goethals,0,-0.34841194659538965,-0.10142585373365
+1779881208,FP-Bonsai The Art of Growing and Pruning Small FP-Trees,2004,7,42,2,0.0,2176652147,Francesco Bonchi,0,-0.27659270516638373,-0.07582105851065268
+1780225521,A pattern based predictor for event streams,2015,28,7,3,1.0,2307039946,Cheng Zhou,0,-0.24269710555563037,0.3362933792961027
+1868494834,Mining association rules in long sequences,2010,11,12,2,0.8,2158578835,Boris Cule,0,0.36115010965784194,-0.2834022929132039
+2003087619,Open source data mining workshop report,2005,0,9,1,1.0,1992071743,Bart Goethals,0,-0.05299495766038218,0.09634128610398784
+1997883239,Useful patterns (UP10) ACM SIGKDD workshop report,2011,0,2,3,0.0,1971070670,Jilles Vreeken,0,0.036682636729709076,0.13207579404245848
+2000202634,Machine learning and knowledge discovery in databases European conference ECML PKDD 2008 Antwerp Belgium September 15-19 2008 proceedings,2008,0,6,2,0.0,1227245067,Ecml,0,-0.406101282503231,2.098659330785092
+2003992573,Mining frequent conjunctive queries in relational databases through dependency discovery,2012,35,4,1,1.0,1992071743,Bart Goethals,0,-2.1082273549744905,0.6754136924173895
+1997168556,Discovery of spatially cohesive itemsets in three-dimensional protein structures,2014,28,3,5,1.0,2307039946,Cheng Zhou,0,0.08156854054721775,0.4053539035348171
+2027829212,Unifying nearest neighbors collaborative filtering,2014,17,41,2,1.0,2225046177,Koen Verstrepen,0,0.8776680742443249,0.45208381503500666
+2020106928,Cartification A Neighborhood Preserving Transformation for Mining High Dimensional Data,2013,25,8,2,1.0,2060793642,Emin Aksehirli,0,-0.6059206883424929,2.3857594392283286
+2049175337,An inductive database prototype based on virtual mining views,2008,10,12,4,0.0,2049189351,Hendrik Blockeel,0,0.19352661209629674,0.37265860709791165
+2049438778,BioGraph Knowledge Discovery and Exploration in the Biomedical Domain,2011,7,0,6,1.0,1963880061,Jeroen De Knijf,0,0.05055019714604705,-0.3474464951715892
+2042998450,Top-N Recommendation for Shared Accounts,2015,15,15,2,1.0,2225046177,Koen Verstrepen,0,0.7579841806743506,0.49876637024837417
+2053727994,Memory issues in frequent itemset mining,2004,10,41,1,1.0,1992071743,Bart Goethals,0,0.003708468606338,0.082832279151172
+2073981175,A tight upper bound on the number of candidate patterns,2001,24,35,2,0.428571,1971263028,Floris Geerts,0,-1.1563796570445568,0.4925364182613372
+2061779725,Advances in frequent itemset mining implementations report on FIMI03,2004,35,186,1,1.0,1992071743,Bart Goethals,0,0.27531639963953747,0.0571813255414686
+2068986562,A data mining framework for optimal product selection in retail supermarket data the generalized PROFSET model,2000,14,74,2,0.857143,2254849676,Tom Brijs,0,-0.34841194659538965,-0.10142585373365
+2097807244,TOP-10 DATA MINING CASE STUDIES,2012,0,5,10,0.0,1997038375,Gabor Melli,0,0.12133302696010642,-0.014455018834522965
+2104264891,Mining itemsets in the presence of missing values,2007,7,21,2,0.561384,2064105222,Toon Calders,0,-0.2473793703691068,0.01148597813480151
+2095675311,Searching for patterns in long sequences,2012,35,0,1,1.0,1992071743,Bart Goethals,0,-0.1385461436595611,-0.2750959937892255
+2098682382,Tight upper bounds on the number of candidate patterns,2005,34,29,2,0.428571,1971263028,Floris Geerts,0,-0.18323650356262255,-0.0785038757869387
+2079931838,Frequent Itemset Mining for Big Data,2013,27,128,3,0.928571,1982900222,Sandy Moens,0,0.010584049366503626,0.34466462828703454
+2083524178,MIME a framework for interactive visual pattern mining,2011,12,34,1,1.0,1992071743,Bart Goethals,0,-0.1246851152366197,-0.009405109228644432
+2101921506,Inductive Querying with Virtual Mining Views,2010,31,3,5,0.0,2049189351,Hendrik Blockeel,0,0.03177478462934502,-0.007791754356257859
+2099019567,Non-derivable itemset mining,2007,45,117,2,0.561384,2064105222,Toon Calders,0,0.003708468606338,0.082832279151172
+2102193394,Predicting the severity of a reported bug,2010,17,186,4,0.0,2223711089,Ahmed Lamkanfi,0,-0.3224513172225988,0.1037120505302715
+2135114214,Mining Frequent Itemsets in a Stream,2007,20,64,3,0.561384,2064105222,Toon Calders,0,0.30378581844541885,-0.1136145395680742
+2138312296,Sequence Mining Automata A New Technique for Mining Frequent Sequences under Regular Expressions,2008,9,14,3,0.0,2193623800,Roberto Trasarti,0,-0.313250122242983,0.3019422694332269
+2127034059,Minimal k-Free Representations of Frequent Sets,2003,21,49,2,0.0,2973318213,Tgk Toon Calders,0,0.003708468606338,0.082832279151172
+2118804864,Approximation of Frequentness Probability of Itemsets in Uncertain Data,2010,8,64,3,0.320128,2064105222,Toon Calders,0,0.15011497953684425,0.13908440388466345
+2107005225,A primer to frequent itemset mining for bioinformatics,2015,111,57,6,0.0,2078029844,Stefan Naulaerts,0,-0.8158645571081828,0.8167179861280314
+2137191075,Tell me more finding related items from user provided feedback,2011,27,1,3,1.0,1963880061,Jeroen De Knijf,0,-0.37474975127917537,0.36640438197133013
+2159197595,Mining Views Database Views for Data Mining,2008,18,14,4,0.0,2049189351,Hendrik Blockeel,0,-1.6863875932281516,0.27383668908714637
+2179651566,Mining Views Database Views for Data Mining,2007,0,10,4,0.0,2049189351,Hendrik Blockeel,0,-1.0380278734906256,-0.49369949080868764
+2171479472,Mining All Non-derivable Frequent Itemsets,2002,14,249,2,0.484926,2064105222,Toon Calders,0,0.003708468606338,0.082832279151172
+2162454879,OSDM 2005 Proceedings of the First International Workshop on Open Source Data Mining,2005,44,0,1,1.0,1992071743,Bart Goethals,0,0.003708468606338,0.082832279151172
+2156735593,Inductive databases and constraint-based data mining,2011,58,19,2,0.0,1880876268,PanÄe Panov,0,0.5688813683631236,-0.3351712666141826
+2168911445,Mining frequent itemsets in a stream,2014,23,39,4,0.226318,2064105222,Toon Calders,0,0.27240796438133685,0.16123868421504411
+2168932442,Identifying and characterising anomalies in data,2012,81,0,1,1.0,1992071743,Bart Goethals,0,-0.1908094651786742,0.41037779126763796
+2163223408,Mining spatially cohesive itemsets in protein molecular structures,2013,20,4,5,1.0,2307039946,Cheng Zhou,0,-0.0895108090166008,0.26428342933580623
+2157243294,A Practical Comparative Study Of Data Mining Query Languages,2010,16,5,4,0.0,2049189351,Hendrik Blockeel,0,0.18255898939857804,0.05506784246362687
+2173353301,Mining frequent items in a stream using flexible windows,2006,0,2,3,0.718776,2064105222,Toon Calders,0,0.003708468606338,0.082832279151172
+2145631985,Mining tree queries in a graph,2005,27,25,1,1.0,1992071743,Bart Goethals,0,-1.0717661545000636,-0.07135539408076284
+2160672469,Mining the entire Protein DataBank for frequent spatially cohesive amino acid patterns,2015,58,11,4,1.0,1903954269,Pieter Meysman,0,0.003708468606338,0.082832279151172
+2155709245,An inductive database system based on virtual mining views,2012,46,18,4,0.0,2049189351,Hendrik Blockeel,0,-0.7539446195486575,0.18789893123614587
+2170742693,Mining interesting sets and rules in relational databases,2010,14,39,1,1.0,1992071743,Bart Goethals,0,-1.4779601125977029,0.9375932911523667
+2149731317,Randomly sampling maximal itemsets,2013,22,17,2,0.928571,1982900222,Sandy Moens,0,0.003708468606338,0.082832279151172
+2158721538,Mining rank-correlated sets of numerical attributes,2006,17,38,2,0.718776,2064105222,Toon Calders,0,0.003708468606338,0.082832279151172
+2185835357,Cohesion based co-location pattern mining,2015,13,1,3,1.0,2307039946,Cheng Zhou,0,0.003708468606338,0.082832279151172
+2165048316,Integrating pattern mining in relational databases,2006,15,32,2,0.718776,2064105222,Toon Calders,0,-0.4580576976399036,0.09231276005502889
+2250938636,Proceedings of the 1st international workshop on open source data mining frequent pattern mining implementations,2005,0,7,1,1.0,1992071743,Bart Goethals,0,0.10028425360438345,0.4364262923803139
+2307131914,Method and system for using an information system,2011,15,11,2,1.0,1963880061,Jeroen De Knijf,0,0.003708468606338,0.082832279151172
+2282681467,Finding Subspace Clusters Using Ranked Neighborhoods,2015,8,0,4,1.0,2060793642,Emin Aksehirli,0,-0.955171766592882,3.288086510412544
+2332955060,Pattern Based Sequence Classification,2016,39,19,3,1.0,2307039946,Cheng Zhou,0,0.4278773068314047,0.3102929453228098
+2402170706,Cartification turning similarities into itemset frequencies,2011,0,0,1,1.0,1992071743,Bart Goethals,0,0.003708468606338,0.082832279151172
+2400601678,Mining Association Rules in Graphs Based on Frequent Cohesive Itemsets,2015,19,1,6,1.0,2488101457,Tayena Hendrickx,0,-0.34841194659538965,-0.10142585373365
+2488527103,Discovering Overlapping Quantitative Associations by Density-Based Mining of Relevant Attributes,2016,26,0,3,0.0,2505858855,Thomas Brussel,0,-0.18290697345437593,0.18691796086291798
+2520379610,Summarizing Data with Informative Patterns,2011,72,0,1,1.0,1992071743,Bart Goethals,0,-0.21934185016841626,0.6056873083074126
+2510416511,Efficient Discovery of Sets of Co-occurring Items in Event Sequences,2016,13,2,3,0.795246,2158578835,Boris Cule,0,0.003708468606338,0.082832279151172
+2614592379,Cleaning Data with Forbidden Itemsets,2017,31,7,3,0.0,2615327908,Joeri Rammelaere,0,1.088871744348261,0.8246620847209822
+2605191883,Assigning clinical codes with data-driven concept representation on Dutch clinical free text,2017,27,3,4,0.0,2173443085,Elyne Scheurwegs,0,0.09090636993973256,0.19672509377310776
+2754521252,Proceedings of the ECML PKDD workshop on instant interactive data mining,2012,0,0,3,0.0,1367500519,Nikolaj Tatti,0,0.003708468606338,0.082832279151172
+2751873120,Collaborative Filtering for Binary Positiveonly Data,2017,74,10,4,1.0,2225046177,Koen Verstrepen,0,1.2350652037173413,0.39061007574644036
+2795710279,Providing concise database covers using recursive tile sampling,2014,0,0,2,0.928571,1982900222,Sandy Moens,0,0.003708468606338,0.082832279151172
+2796428471,Levelwise cluster mining under a maximum SSE constraint,2009,17,0,2,1.0,1963880061,Jeroen De Knijf,0,0.003708468606338,0.082832279151172
+2888791883,Proximity forest an effective and scalable distance-based classifier for time series,2019,47,16,6,0.0,2889212151,Benjamin Lucas,0,0.40630500141929454,0.39067789378481704
+2890016719,Quick inclusion-exclusion,2006,0,5,2,0.718776,2064105222,Toon Calders,0,0.5314039047700339,-0.3095080304716359
+2919122047,Apriori Property and Breadth-First Search Algorithms,2018,0,0,1,1.0,1992071743,Bart Goethals,0,0.003708468606338,0.082832279151172
+2952669245,Mining All Non-Derivable Frequent Itemsets,2002,12,21,2,0.484926,2064105222,Toon Calders,0,0.003708468606338,0.082832279151172
+2949074981,A Tight Upper Bound on the Number of Candidate Patterns,2001,16,34,2,0.428571,1971263028,Floris Geerts,0,0.003708468606338,0.082832279151172
+2953301406,A Data Mining Framework for Optimal Product Selection in Retail Supermarket Data The Generalized PROFSET Model,2001,12,2,2,0.857143,2254849676,Tom Brijs,0,-0.34841194659538965,-0.10142585373365
+2951290357,Relational Association Rules getting WARMeR,2002,12,7,1,1.0,1992071743,Bart Goethals,0,-0.9374797790590753,-0.0035734585392344018
+2972798034,Efficient similarity computation for collaborative filtering in dynamic environments,2019,28,0,3,0.0,2907396352,Olivier Jeunen,0,0.8253932074762159,0.0454373071252574
+84222935,Providing Concise Database Covers Instantly by Recursive Tile Sampling,2014,19,2,4,0.928571,1982900222,Sandy Moens,0,0.003708468606338,0.082832279151172
+1557446688,Efficient Cluster Detection by Ordered Neighborhoods,2015,21,11,2,1.0,2060793642,Emin Aksehirli,0,-0.2125004267974866,0.2411780252124912
+2041665683,MARBLES Mining association rules buried in long event sequences,2014,28,11,4,1.0,2158578835,Boris Cule,0,-0.4152687044828827,0.13239233142464163
+2791425844,Analyzing concept drift and shift from sample data,2018,29,13,3,0.0,2126304162,Geoffrey I. Webb,0,0.68859317272763,0.102049104341974
+2935741862,Efficiently mining cohesion-based patterns and rules in event sequences,2019,29,1,3,0.741851,2158578835,Boris Cule,0,-0.1385461436595611,-0.2750959937892255
+2980453681,A Sampling-Based Approach for Discovering Subspace Clusters,2019,17,0,3,0.928571,1982900222,Sandy Moens,0,-0.538447670699222,2.6768132407096545

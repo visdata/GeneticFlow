@@ -1,0 +1,64 @@
+54817376,Software support for software-independent auditing,2009,6,1,4,0.0,2682164874,Gabrielle A. Gianelli,0,0.0040557659796233,0.2757546058061082
+160001453,Java security hostile applets holes&amp;antidotes,1997,0,73,1,1.0,234653941,Edward W. Felten,0,0.0040557659796233,0.2757546058061082
+24868454,Access control for ad-hoc collaboration,2001,0,34,1,1.0,234653941,Edward W. Felten,0,-0.16828520507558486,0.7515943848908955
+13198473,Privacy and Integrity are Possible in the Untrusted Cloud,2012,27,4,4,0.7,2168143672,Ariel J. Feldman,0,0.01611851410932718,0.3789636113478888
+1505072957,System and method for machine-assisted election auditing,2007,5,15,1,1.0,234653941,Edward W. Felten,0,0.0040557659796233,0.2757546058061082
+1488471373,Attacking an Obfuscated Cipher by Injecting Faults,2002,22,39,3,0.857143,2135364900,Matthias Jacob,0,1.3033986608962331,-0.8501742053995388
+1556296739,Lessons from the Sony CD DRM episode,2006,10,34,2,1.0,1518619805,J. Alex Halderman,0,-0.23355647665223325,0.5974391191359961
+1485909464,Coping with Outside-the-Box Attacks,2008,11,0,1,1.0,234653941,Edward W. Felten,0,-0.4535889833181087,-0.7610728445401316
+1575543897,Hand-held computers can be better smart cards,1999,10,75,2,0.0,2250908404,Dirk Balfanz,0,0.036191276275480654,0.3679403960301915
+1835817557,Bubble trouble off-line de-anonymization of bubble forms,2011,13,4,3,1.0,2040499364,Joseph A. Calandrino,0,-0.1751537443235147,0.04866599499852316
+1745162118,Reading between the lines lessons from the SDMI challenge,2001,3,72,8,0.0,112142349,Scott Craver,0,0.0040557659796233,0.2757546058061082
+1589281343,Securing Java getting down to business with mobile code,1999,0,127,1,1.0,234653941,Edward W. Felten,0,0.0040557659796233,0.2757546058061082
+1589846406,Mixcoin Anonymity for Bitcoin with Accountable Mixes,2014,26,161,6,0.0,2151386950,Joseph Bonneau,0,-0.8273734457392345,0.5464736388567095
+1600928673,Control of sensitive data in systems with novel functionality,2012,77,0,1,1.0,234653941,Edward W. Felten,0,0.0040557659796233,0.2757546058061082
+1592300071,Can DREs provide long-lasting security the case of return-oriented programming and the AVC advantage,2009,13,74,5,0.0,2639473500,Stephen Checkoway,0,-0.6374321313972565,0.7165519675208408
+1714870142,Computer Security Competing Concepts,2001,0,5,3,0.0,2051211206,Helen Nissenbaum,0,-0.9695805617398879,3.2272493428977067
+1625130424,A General and Flexible Access-Control System for the Web,2002,18,86,3,0.0,2151574249,Lujo Bauer,0,-0.49776014017506093,0.8605262335405736
+1975307600,Secrecy flagging and paranoia adoption criteria in encrypted email,2006,25,59,2,0.0,2169249850,Shirley Gaw,0,-0.24100535630791287,-1.166201685189653
+2007411331,Understanding trusted computing will its benefits outweigh its drawbacks ,2003,0,64,1,1.0,234653941,Edward W. Felten,0,-0.5413124686727548,0.661476243151481
+2030993695,A convenient method for securely managing passwords,2005,13,189,3,1.0,1518619805,J. Alex Halderman,0,-2.30145558031474,-1.6069661581111137
+2040210405,Timing attacks on Web privacy,2000,4,252,1,1.0,234653941,Edward W. Felten,0,-0.764950031935666,-0.07980453658799051
+2044639210,Statically Scanning Java Code Finding Security Vulnerabilities,2000,13,36,4,0.0,947821699,John Viega,0,-0.4821339486541515,2.938977735571848
+2073808537,Fingerprinting Blank Paper Using Commodity Scanners,2009,13,73,6,1.0,2018259511,William Clarkson,0,-0.452577257791436,0.2265718617106858
+2056447219,A skeptical view of DRM and fair use,2003,0,76,1,1.0,234653941,Edward W. Felten,0,0.0040557659796233,0.2757546058061082
+2096867800,Web Spoofing An Internet Con Game,1997,5,147,1,1.0,234653941,Edward W. Felten,0,0.0040557659796233,0.2757546058061082
+2079606209,Digital rights management spyware and security,2006,1,27,1,1.0,234653941,Edward W. Felten,0,-0.2435457162160688,0.7339503318964707
+2095629885,Java security from HotJava to Netscape and beyond,1996,23,287,2,0.0,2101006341,Drew Dean,0,0.0040557659796233,0.2757546058061082
+2104773223,Password management strategies for online accounts,2006,23,287,2,0.0,2169249850,Shirley Gaw,0,-2.155885287241274,-1.3143234158520174
+2092425809,New client puzzle outsourcing techniques for DoS resistance,2004,32,181,4,0.724138,2131229705,Brent Waters,0,0.3171484069971384,-0.13992525839030945
+2123147099,&quot;You Might Also Like &quot; Privacy Risks of Collaborative Filtering,2011,28,176,2,0.0,8790322,Vitaly Shmatikov,0,0.13981217474373742,0.7175569899861202
+2105875764,In defense of pseudorandom sample selection,2008,4,12,3,1.0,2040499364,Joseph A. Calandrino,0,0.29392382053358135,0.10045542812224656
+2120946007,Receiver anonymity via incomparable public keys,2003,20,48,2,0.724138,2131229705,Brent Waters,0,-0.3094119167987213,-1.3878794895220472
+2112852558,Machine-assisted election auditing,2007,6,38,2,0.923077,2040499364,Joseph A. Calandrino,0,0.0040557659796233,0.2757546058061082
+2142762102,A distributed reputation approach to cooperative Internet routing protection,2005,12,30,1,1.0,234653941,Edward W. Felten,0,0.36544092170511777,0.5375067894756285
+2142835102,Privacy management for portable recording devices,2004,14,28,3,1.0,1518619805,J. Alex Halderman,0,0.0040557659796233,0.2757546058061082
+2116428199,CONIKS bringing key transparency to end users,2015,36,95,4,1.0,2168840837,Marcela S. Melara,0,0.155870422438688,-0.3611899258997246
+2116949144,Security analysis of the diebold AccuVote-TS voting machine,2007,13,123,3,0.7,2168143672,Ariel J. Feldman,0,-0.24125022034901553,1.119658934944349
+2140655729,Defeating Vanish with Low-Cost Sybil Attacks Against Large DHTs,2010,39,95,4,0.0,2325175894,Scott Wolchoky,0,0.23711293819029086,-0.23765238438348013
+2128779749,Analysis of attacks on SDMI audio watermarks,2001,2,23,3,0.0,2562898025,Min Wu,0,0.0040557659796233,0.2757546058061082
+2108064234,Social networking with frientegrity privacy and integrity with an untrusted provider,2012,45,49,4,0.7,2168143672,Ariel J. Feldman,0,0.13141916537143386,0.45813970481722216
+2148127931,Understanding Java stack inspection,1998,18,166,2,0.0,2149726944,Dan S. Wallach,0,0.0040557659796233,0.2757546058061082
+2163636817,A new approach to mobile code security,1999,101,47,1,1.0,234653941,Edward W. Felten,0,-1.4847286527045687,2.178677149259457
+2169957344,Privacy and integrity in the untrusted cloud,2012,86,3,1,1.0,234653941,Edward W. Felten,0,0.10993245104716491,0.4866558475590681
+2175377689,Lest we remember cold-boot attacks on encryption keys,2009,26,642,9,0.634921,1518619805,J. Alex Halderman,0,0.5625155679249134,-1.7668737858808614
+2188530018,The Economics of Bitcoin Mining or Bitcoin in the Presence of Adversaries,2013,14,208,1,1.0,234653941,Edward W. Felten,0,0.09458599116408749,0.2539764033489305
+2170961388,Lest we remember cold boot attacks on encryption keys,2008,23,291,9,0.634921,1518619805,J. Alex Halderman,0,0.6128959601128036,-1.7601748853232144
+2220218222,Some consequences of paper fingerprinting for elections,2009,13,8,3,1.0,2040499364,Joseph A. Calandrino,0,-0.28869820041251376,0.3604338938490786
+2268157125,Cookies That Give You Away The Surveillance Implications of Web Tracking,2015,29,100,7,0.0,2252378312,Steven Englehardt,0,-0.17324153726119554,0.6587671663167594
+2223469651,Security Audit of Safeplug &quot;Tor in a Box&quot;,2014,13,2,1,1.0,234653941,Edward W. Felten,0,-0.2263130908120603,0.5625424318017056
+2303276850,A Precautionary Approach to Big Data Privacy,2016,44,27,1,1.0,234653941,Edward W. Felten,0,0.30816463804640887,-1.2560977541623641
+2277162357,Ideals and reality adopting secure technologies and developing secure habits to prevent message disclosure,2009,0,0,1,1.0,234653941,Edward W. Felten,0,-0.3962495596611003,-0.28379112875337503
+2346759024,Breaking assumptions distinguishing between seemingly identical items using cheap sensors,2012,0,7,1,1.0,234653941,Edward W. Felten,0,-0.5530861437885858,-0.004176666300269333
+2405176734,CONIKS A Privacy-Preserving Consistent Key Service for Secure End-to-End Communication,2014,14,15,5,1.0,2168840837,Marcela S. Melara,0,-1.0527974717018782,-0.6438564754638468
+2503435478,Avoiding hostile applets,1997,0,0,1,1.0,234653941,Edward W. Felten,0,0.0040557659796233,0.2757546058061082
+2557220780,Privacy concerns of implicit secondary factors for web authentication,2014,8,6,1,1.0,234653941,Edward W. Felten,0,-0.22381650257491761,0.701749376800894
+2588230987,New client puzzle outsourcing techniques for DoS resistance,2004,0,0,4,0.724138,2131229705,Brent Waters,0,0.0040557659796233,0.2757546058061082
+2740076354,Design and implementation of secure trusted overlay networks,2009,0,1,1,1.0,234653941,Edward W. Felten,0,-1.9804125034471567,-0.018496541934914783
+2888947553,Arbitrum Scalable private smart contracts,2018,0,29,5,0.0,2186750142,Harry A. Kalodner,0,0.0040557659796233,0.2757546058061082
+2891614186,A Cryptographic Escrow for Treaty Declarations and Step-by-Step Verification,2019,0,1,3,1.0,2602188591,Sebastien Philippe,0,-0.060441709788488535,-0.003752038212903196
+2986967943,Watching You Watch The Tracking Ecosystem of Over-the-Top TV Streaming Devices,2019,38,3,7,0.0,2983844710,Hooman Mohajeri Moghaddam,0,0.0040557659796233,0.2757546058061082
+2996455354,A Cryptographic Escrow for Treaty Declarations and Step-by-Step Verification,2018,0,0,3,1.0,2602188591,Sebastien Philippe,0,-0.060441709788488535,-0.003752038212903196
+2983400177,Attacking an obfuscated cipher by injecting faults,2003,0,35,3,0.857143,2135364900,Matthias Jacob,0,0.3371004903296015,-0.23417281748734875
+1907293129,SoK Research Perspectives and Challenges for Bitcoin and Cryptocurrencies,2015,78,427,8,0.0,2151386950,Joseph Bonneau,0,-0.08412961606924903,0.1259362551434782
+1916032354,Government Data and the Invisible Hand,2009,0,121,1,1.0,234653941,Edward W. Felten,0,0.0040557659796233,0.2757546058061082

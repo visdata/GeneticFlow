@@ -1,0 +1,52 @@
+171587855,Moving Object Database Engines,2014,18,0,1,1.0,31261168,Yannis Theodoridis,0,0.21477125012075762,0.03149602960146975
+175374228,An Efficient Cost Model for Spatial Joins Using R-trees,1997,32,2,1,1.0,31261168,Yannis Theodoridis,0,0.3820908385543769,0.2117467783858426
+99235262,Semantic Aspects on Mobility Data,2014,27,1,1,1.0,31261168,Yannis Theodoridis,0,0.12312673841166716,0.5542303123744933
+202290506,Beyond Current Technology The Perspective of Three EC GIS Projects,1999,0,0,3,0.0,1205765909,Fosca Giannotti,0,-0.0041099411153885,0.0447066884760059
+1004373468,The Baquara2 knowledge-based framework for semantic enrichment and analysis of movement data,2015,62,33,6,0.0,344405325,Renato Fileto,0,-0.0041099411153885,0.0447066884760059
+1515010801,NEFOS rapid cache-aware range query processing with probabilistic guarantees,2011,29,0,5,0.0,2116472282,Spyros Sioutas,0,-0.0565254458471827,0.17778855198392565
+1553206285,Towards Trajectory Data Warehouses,2008,31,14,8,1.0,2020175353,Nikos Pelekis,0,0.5074911787796034,-0.9728907984434776
+1527435746,On the effect of trajectory compression in spatiotemporal querying,2007,22,15,2,1.0,2698289080,Elias Frentzos,0,-0.0041099411153885,0.0447066884760059
+1509772091,Advanced Database Indexing,1999,0,85,2,0.0,276012958,Yannis Manolopoulos,0,-0.10636642148602338,0.08165063453508396
+1492921812,Hermes â€“ a framework for location-based data management,2006,6,59,1,1.0,31261168,Yannis Theodoridis,0,0.21671619492916952,0.10026298274616059
+1548214008,Access Structures for Moving Points,2003,20,17,1,1.0,31261168,Yannis Theodoridis,0,-0.0041099411153885,0.0447066884760059
+1486723877,Novel Approaches in Query Processing for Moving Object Trajectories,2000,21,436,1,1.0,31261168,Yannis Theodoridis,0,-0.0041099411153885,0.0447066884760059
+1633222579,R-Trees Theory and Applications,2005,0,183,4,0.0,276012958,Yannis Manolopoulos,0,0.12027553024040444,0.6242430232857397
+1817785624,Towards a taxonomy of location based services,2005,17,9,4,1.0,281431722,Kostas Gratsias,0,-0.02276224191182235,-0.05124231021614943
+1963940475,On the Support of Mobility in ORDBMS,2014,28,0,4,0.679663,2020175353,Nikos Pelekis,0,0.7934610611079268,0.06568146811841381
+1734314076,Revisiting R-Tree Construction Principles,2002,24,49,3,0.0,239727978,Sotiris Brakatsoulas,0,0.17391615759999998,0.26835898102601596
+1980156141,The Panda framework for comparing patterns,2009,30,12,5,0.0,1984523449,Ilaria Bartolini,0,0.03565810966282755,0.09825506972366725
+1991031935,Pattern-Miner integrated management and mining over data mining models,2008,8,3,4,1.0,329981208,Evangelos E. Kotsifakos,0,-0.42845202490949574,0.1450203979855267
+2012490709,HERMES aggregative LBS via a trajectory DB engine,2008,13,53,4,1.0,2020175353,Nikos Pelekis,0,0.119739122485096,0.4583397011045227
+2026730210,Generating spatiotemporal datasets on the WWW,2000,14,49,1,1.0,31261168,Yannis Theodoridis,0,2.4306690863263998,0.9755320659920255
+2023612204,Multi-Way Distance Join Queries in Spatial Databases,2004,36,13,3,0.857143,2632256067,Antonio Corral,0,0.12735220965252836,-0.09746129347800585
+2032540983,HERMES A Trajectory DB Engine for Mobility-Centric Applications,2015,23,20,4,0.650902,2020175353,Nikos Pelekis,0,0.8765678727392644,0.4865071112610004
+2013505445,Direction relations and two-dimensional range queries optimisation techniques,1998,42,17,1,1.0,31261168,Yannis Theodoridis,0,0.07859526759982631,0.1297014370302526
+2033175785,Algorithms for processing K -closest-pair queries in spatial databases,2004,33,71,1,1.0,31261168,Yannis Theodoridis,0,-0.0041099411153885,0.0447066884760059
+2059378307,Closest pair queries in spatial databases,2000,28,200,3,0.62069,2632256067,Antonio Corral,0,-0.0041099411153885,0.0447066884760059
+2090964461,In-network approximate computation of outliers with quality guarantees,2013,64,13,5,0.599213,2024018132,Nikos Giatrakos,0,-0.0041099411153885,0.0447066884760059
+2100315210,Specifications for efficient indexing in spatiotemporal databases,1998,28,130,1,1.0,31261168,Yannis Theodoridis,0,1.035128604754771,0.48351834004991845
+2104031512,T-Warehouse Visual OLAP analysis on trajectory data,2010,8,27,10,0.0,2665590817,Luca Leonardi,0,-0.028426114502649813,0.7301682331800563
+2123271553,Cost models for join queries in spatial databases,1998,25,53,1,1.0,31261168,Yannis Theodoridis,0,0.014532710543751099,0.030944858938630852
+2105941252,Mobility Data Warehousing and Mining,2009,22,9,2,0.85,345624022,Gerasimos Marketos,0,0.11627582886789564,0.3621724021946999
+2139078693,Report on the International Workshop on Pattern Representation and Management (PaRMa04),2005,9,0,1,1.0,31261168,Yannis Theodoridis,0,-0.20133665475165913,-0.19110780330684465
+2112877387,Index-based Most Similar Trajectory Search,2007,21,155,3,1.0,2698289080,Elias Frentzos,0,2.4306690863263998,0.9755320659920255
+2133427041,Database support for data mining patterns,2005,4,9,3,1.0,329981208,Evangelos E. Kotsifakos,0,0.609798643990206,0.02761743750121702
+2119958089,seismological Data Warehousing and Mining,2008,16,1,2,0.85,345624022,Gerasimos Marketos,0,-0.028426114502649813,0.7301682331800563
+2114122827,Geographic privacy-aware knowledge discovery and delivery,2009,0,15,3,0.0,1205765909,Fosca Giannotti,0,-0.0041099411153885,0.0447066884760059
+2156222274,Distance Join Queries of Multiple Inputs in Spatial Databases,2003,14,3,3,0.857143,2632256067,Antonio Corral,0,0.30265740233268107,0.012359040392557268
+2183806954,A Framework for Mobility Pattern Mining and Privacy- Aware Querying of Trajectory Data,2012,29,2,1,1.0,31261168,Yannis Theodoridis,0,-0.0041099411153885,0.0447066884760059
+2166243334,Baquara A Holistic Ontological Framework for Movement Analysis Using Linked Data,2013,14,26,4,0.0,344405325,Renato Fileto,0,0.18601297105691045,-0.0008472885667257998
+2157401121,Cost models for distance joins queries using R-trees,2006,36,9,3,0.523819,2632256067,Antonio Corral,0,0.014532710543751099,0.030944858938630852
+2151573792,Similarity Search in Trajectory Databases,2007,31,107,6,1.0,2020175353,Nikos Pelekis,0,-0.241250245220175,-0.17693373480736696
+2145747124,State-of-the-art in privacy preserving data mining,2004,106,692,6,0.0,77221159,Vassilios S. Verykios,0,-0.0041099411153885,0.0447066884760059
+2160704049,Private-HERMES a benchmark framework for privacy-preserving mobility data querying and mining methods,2012,17,9,6,0.882283,2020175353,Nikos Pelekis,0,-0.16025605552992736,0.08121317678719864
+2167436631,Mining Trajectory Databases via a Suite of Distance Operators,2007,30,25,5,1.0,2020175353,Nikos Pelekis,0,-0.16274424641626073,-0.24812389510315133
+2161515875,MetaOn - Ontology Driven Metadata Construction and Management for Intelligent Search in Text and Image Collections,2006,13,3,6,0.0,2216370748,Haralampos Karanikas,0,-0.9488923376595113,0.3015041370177748
+2188527096,A TOOL FOR COLLECTING QUERYING AND MINING MACROSEISMIC DATA,2004,5,5,1,1.0,31261168,Yannis Theodoridis,0,0.549423223861141,-0.32366123795329343
+2253556635,A Framework for Trajectory Data Warehousing,2008,19,4,1,1.0,31261168,Yannis Theodoridis,0,-0.028426114502649813,0.7301682331800563
+2233414530,Mobility Database Management,2014,62,0,1,1.0,31261168,Yannis Theodoridis,0,1.4059743855171274,0.4848366961462526
+2296556163,Event Recognition for Maritime Surveillance,2015,29,13,5,0.0,2002062156,Kostas Patroumpas,0,-0.0041099411153885,0.0447066884760059
+2398406843,Who Cares about Others Privacy Personalized Anonymization of Moving Object Trajectories,2016,14,3,5,0.0,2085509054,Despina Kopanaki,0,-0.0041099411153885,0.0447066884760059
+2604206263,In-DBMS Sampling-based Sub-trajectory Clustering,2017,38,7,5,0.555249,2020175353,Nikos Pelekis,0,-0.0041099411153885,0.0447066884760059
+2792227230,Big Data Analytics for Time Critical Mobility Forecasting Recent Progress and Research Challenges,2018,0,8,7,0.0,80530004,George A. Vouros,0,0.06635930819191084,0.49152641060504293
+2924947888,GeoPKDD Deliverable D11Privacy-aware Trajectory Warehouse Alignment Report,2006,0,0,1,1.0,31261168,Yannis Theodoridis,0,-0.0041099411153885,0.0447066884760059

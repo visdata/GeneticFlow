@@ -1,0 +1,44 @@
+109740741,A sequence-oriented stream warehouse paradigm for network monitoring applications,2012,18,10,1,1.0,2618045780,Lukasz Golab,0,0.5567986114153419,-0.0018651151225434297
+111885355,Consistency in a Stream Warehouse,2011,24,43,1,1.0,2618045780,Lukasz Golab,0,0.5539949383229359,-0.0016428213991487677
+50520852,Distributed Data Placement via Graph Partitioning,2013,14,4,1,1.0,2618045780,Lukasz Golab,0,1.901466873024071,0.5622172946276698
+760598031,Profiling relational data a survey,2015,140,101,2,0.0,239574797,Ziawasch Abedjan,0,0.43983532211150067,-0.29889600842654634
+1559339903,Cache-oblivious scheduling of shared workloads,2015,25,2,2,1.0,2160660165,Arian BÃ¤r,0,-0.0041099411153885,0.0447066884760059
+1567278459,METHOD FOR SCHEDULING UPDATES IN A STREAMING DATA WAREHOUSE,2010,26,7,3,0.0,2168523976,Theodore Johnson,0,0.36097085081799196,-0.1582967557564097
+1605830380,Minimizing staleness in real-time data warehouses,2009,19,12,3,0.0,1978978852,MohammadHossein Bateni,0,0.11627582886789564,0.3621724021946999
+1608132282,SMAS A smart meter data analytics system,2015,5,21,2,0.279874,2469693970,Xiufeng Liu,0,0.8683806953842131,0.03437259344967456
+1972149001,Data stream warehousing,2013,30,4,1,1.0,2618045780,Lukasz Golab,0,0.27359319551264977,-0.054740515049670146
+2015508567,Indexing bi-temporal windows,2015,29,1,3,0.666667,2117483870,Chang Ge,0,0.29251472202801304,0.47149107645083177
+2023052779,Data Auditor exploring data quality and semantics using pattern tableaux,2010,9,25,1,1.0,2618045780,Lukasz Golab,0,-0.27153134656949884,-0.2057266264173673
+2012837162,Discovering Conservation Rules,2012,15,8,1,1.0,2618045780,Lukasz Golab,0,-0.10344230619099819,0.03290475458641697
+2016536803,Towards benchmarking stream data warehouses,2012,27,5,2,1.0,2160660165,Arian BÃ¤r,0,0.4871782547216892,0.2584387540450729
+2027420911,Enabling real time data analysis,2010,4,17,2,0.0,2196778472,Divesh Srivastava,0,0.10759445102900125,-0.39307832236763074
+2041442195,On the relative trust between inconsistent data and inaccurate constraints,2013,15,56,3,0.333333,974729037,George Beskales,0,0.8049356754437537,-0.2577837654412189
+2075069743,Data stream warehousing,2014,33,13,1,1.0,2618045780,Lukasz Golab,0,0.06334640247449788,-0.055915972583096
+2063388849,Data Stream Management,2010,184,58,1,1.0,2618045780,Lukasz Golab,0,0.2310865782665011,0.614271752942441
+2060161902,Stream warehousing with DataDepot,2009,12,94,1,1.0,2618045780,Lukasz Golab,0,0.7122743318022271,0.562851310171598
+2079251873,Distributed data placement to minimize communication costs via graph partitioning,2014,18,23,1,1.0,2618045780,Lukasz Golab,0,-0.0041099411153885,0.0447066884760059
+2090057889,Lazy data structure maintenance for main-memory analytics over sliding windows,2013,9,2,2,0.666667,2117483870,Chang Ge,0,-0.23373545230483692,0.27807230118983056
+2120220749,Estimating the confidence of conditional functional dependencies,2009,27,36,2,0.0,2190072679,Graham Cormode,0,1.2114598539042571,-0.7069166745771394
+2138531903,On Indexing Sliding Windows over Online Data Streams,2004,21,48,1,1.0,2618045780,Lukasz Golab,0,-0.2279388196396881,0.09377507461288882
+2132851185,Issues in data stream management,2003,68,861,1,1.0,2618045780,Lukasz Golab,0,-0.03145858135847165,-0.16338584696623676
+2132976321,On concurrency control in sliding window queries over data streams,2006,22,11,1,1.0,2618045780,Lukasz Golab,0,1.4897591815269697,1.8220483821721418
+2112840274,Sampling the repairs of functional dependency violations under hard constraints,2010,15,85,3,0.333333,974729037,George Beskales,0,0.7080974213803264,-0.11418989663088869
+2133409729,On generating near-optimal tableaux for conditional functional dependencies,2008,22,149,1,1.0,2618045780,Lukasz Golab,0,1.2387994570248095,-0.5219239634336965
+2107343618,Processing sliding window multi-joins in continuous queries over data streams,2003,37,245,1,1.0,2618045780,Lukasz Golab,0,0.007334245363849856,0.0884093997571545
+2119584748,Scheduling Updates in a Real-Time Stream Warehouse,2009,10,70,1,1.0,2618045780,Lukasz Golab,0,0.7040903699665813,0.5111574821461825
+2107954196,Finding frequent items in sliding windows with multinomially-distributed item frequencies,2004,14,20,1,1.0,2618045780,Lukasz Golab,0,0.43739842239757626,0.009947045888208002
+2156475752,Querying sliding windows over online data streams,2004,40,14,1,1.0,2618045780,Lukasz Golab,0,0.5929669584681039,0.413052928809951
+2165691328,Indexing Time-Evolving Data With Variable Lifetimes,2006,22,10,1,1.0,2618045780,Lukasz Golab,0,0.4259521078032808,0.21137373526171394
+2157469509,Update-pattern-aware modeling and processing of continuous queries,2005,23,65,1,1.0,2618045780,Lukasz Golab,0,0.2657856797705482,0.14689219539098033
+2279804989,Methods Systems and Products for Maintaining Data Consistency in a Stream Warehouse,2011,26,12,2,0.0,2168523976,Theodore Johnson,0,0.1681472696354157,0.36434515114587485
+2294876144,Benchmarking Smart Meter Data Analytics,2015,26,24,2,0.279874,2469693970,Xiufeng Liu,0,1.204501787921431,0.29860165833699415
+2402668406,Interpretable and informative explanations of outcomes,2014,15,29,3,0.0,304385559,Kareem El Gebaly,0,-0.0041099411153885,0.0447066884760059
+2397809811,Effective Keyword Search in Graphs,2015,5,1,2,0.0,2126665663,Mehdi Kargar,0,0.7255727678738966,0.29329896688360696
+2511697190,Scalable Informative Rule Mining,2017,30,1,2,0.0,2645466901,Guoyao Feng,0,-0.15761457057710102,-0.11643758182180676
+2512595308,Effective and Complete Discovery of Order Dependencies via Set-based Axiomatization,2016,18,2,3,0.0,2308200152,Jaroslaw Szlichta,0,0.7864165953354285,-0.07186801742388157
+2553567329,Smart Meter Data Analytics Systems Algorithms and Benchmarking,2017,36,25,2,0.279874,2469693970,Xiufeng Liu,0,1.204501787921431,0.29860165833699415
+2623365550,Managing Sensor Data Streams Lessons Learned from the WeBike Project,2017,21,0,2,0.0,2623748130,Christian Gorenflo,0,0.3820975757860689,-0.2566769345206331
+2734568115,ViewDF Declarative incremental view maintenance for streaming data,2017,39,1,2,0.0,2734879842,Yuke Yang,0,3.133393421773738,0.642081654084788
+2614699712,Graph Mining to Characterize Competition for Employment,2017,9,0,2,0.0,2231457415,Andrew Toulis,0,-0.0041099411153885,0.0447066884760059
+2745913367,Social Media Mining to Understand Public Mental Health,2017,15,0,2,0.0,2231457415,Andrew Toulis,0,-0.0041099411153885,0.0447066884760059
+2784165346,Stream WatDiv A Streaming RDF Benchmark,2018,16,3,2,0.0,2784090531,Libo Gao,0,-0.31436706327493746,0.08364735672925659

@@ -1,0 +1,50 @@
+40917490,Semantic Caching of XML Databases,2002,0,30,1,1.0,238786035,Vagelis Hristidis,0,2.3485049625640406,-0.9375414068725034
+126394981,Experiences on Processing Spatial Data with MapReduce,2009,16,140,3,0.0,2138914471,Ariel Cary,0,-0.0041099411153885,0.0447066884760059
+1539585011,Objectrank authority-based keyword search in databases,2004,26,458,2,0.461538,1208114522,Andrey Balmin,0,-0.331157261929354,-0.16512333473426355
+1964013940,2LP A double-lazy XML parser,2009,29,11,2,1.0,2170029373,Fernando FarfÃ¡n,0,1.4484317108272022,-1.0000287569931627
+1601749143,Beyond lazy XML parsing,2007,22,12,2,1.0,2170029373,Fernando FarfÃ¡n,0,2.816596834303149,-0.9930570146577335
+1971640526,Branch-and-bound processing of ranked queries,2007,30,60,2,0.0,2131082813,Yufei Tao,0,0.21078788016213287,0.13382582602759288
+1971676915,Explaining and Reformulating Authority Flow Queries,2008,37,28,2,1.0,2021633858,Ramakrishna Varadarajan,0,0.5586742082380666,-0.1984847101299193
+1986029135,ObjectRank a system for authority-based search on databases,2006,4,42,2,0.0,2167199655,Heasoo Hwang,0,-0.331157261929354,-0.16512333473426355
+1986041862,An access cost-aware approach for object retrieval over multiple sources,2010,30,2,4,0.0,2011266887,Benjamin Arai,0,0.1822416555524229,-0.19375588831705134
+1968843209,Predicting the effectiveness of keyword queries on databases,2012,42,9,3,1.0,2157777549,Shiwen Cheng,0,0.0908845357243609,0.31128747720343375
+1981128563,Exploring biomedical databases with BioNav,2009,5,0,2,0.769231,2036986288,Abhijith Kashyap,0,-0.0041099411153885,0.0447066884760059
+1981387614,Storing semi-structured data on disk drives,2009,61,10,3,0.0,1769089667,Medha Bhadkamkar,0,0.49886465623299864,0.6266269815345752
+2006307108,Keyword Search on Spatial Databases,2008,29,355,2,0.0,2495677260,I. De Felipe,0,-0.46893397788284524,0.07728939382804885
+2001098927,Comparing top-k XML lists,2013,34,2,3,0.545455,2021633858,Ramakrishna Varadarajan,0,0.09400934179241804,-0.43115715558679985
+2026495853,Flexible and efficient querying and ranking on hyperlinked data sources,2009,26,16,2,1.0,2021633858,Ramakrishna Varadarajan,0,0.1653838894567856,0.29325817591493436
+2030619821,Extracting k most important groups from data efficiently,2008,21,4,3,0.0,2081368286,Man Lung Yiu,0,0.11627582886789564,0.3621724021946999
+2023790387,XOntoRank Ontology-Aware Search of Electronic Medical Records,2009,38,26,2,1.0,2170029373,Fernando FarfÃ¡n,0,1.4148470605067056,-0.6217524736186137
+2018598050,Ranked queries over sources with Boolean query interfaces without ranking support,2010,15,10,1,1.0,238786035,Vagelis Hristidis,0,0.0908845357243609,0.31128747720343375
+2051400856,STAR A System for Tuple and Attribute Ranking of Query Answers,2007,2,12,3,0.0,2129781425,N. Kapoor,0,0.64801359352422,0.056457318223194
+2070032453,Authority-based keyword search in databases,2008,44,124,1,1.0,238786035,Vagelis Hristidis,0,0.5639231695189378,0.13130407452674142
+2096898303,Ordering the attributes of query results,2006,22,63,2,0.349769,2112689123,Gautam Das,0,-0.0041099411153885,0.0447066884760059
+2098388305,Discover keyword search in relational databases,2002,17,770,1,1.0,238786035,Vagelis Hristidis,0,1.5113228782447423,0.34511641576425506
+2108572131,Keyword proximity search on XML graphs,2003,24,262,1,1.0,238786035,Vagelis Hristidis,0,0.7215975991611812,0.3052417628859806
+2118302148,Keyword proximity search in XML trees,2006,20,164,1,1.0,238786035,Vagelis Hristidis,0,2.2283778768526874,-0.8691611993712816
+2136121557,Probabilistic information retrieval approach for ranking of database query results,2006,60,107,3,0.0,2163909284,Surajit Chaudhuri,0,0.884918578291348,0.1914000377432003
+2106889129,Efficient Prediction of Difficult Keyword Queries over Databases,2014,30,12,3,1.0,2157777549,Shiwen Cheng,0,0.5040305771906038,-0.09071174423302576
+2107194065,Message from the DBRANK08 program co-chairs,2008,0,0,1,1.0,238786035,Vagelis Hristidis,0,0.03565810966282755,0.09825506972366725
+2131083144,Efcient Native Storage Systems for Semi-structured Data,2006,30,2,1,1.0,238786035,Vagelis Hristidis,0,1.1956174600382263,-0.23249154205730205
+2110918591,Ontology-Aware Search on XML-based Electronic Medical Records,2008,9,6,2,1.0,2170029373,Fernando FarfÃ¡n,0,1.4148470605067056,-0.6217524736186137
+2116936708,Algorithms and applications for answering ranked queries using ranked views,2004,30,98,1,1.0,238786035,Vagelis Hristidis,0,1.098747495270438,0.36336608518721986
+2128763366,Relevance-Based Retrieval on Hidden-Web Text Databases without Ranking Support,2011,26,8,1,1.0,238786035,Vagelis Hristidis,0,0.0908845357243609,0.31128747720343375
+2153487405,Standing Out in a Crowd Selecting Attributes for Maximum Visibility,2008,21,58,3,0.0,2105570716,Muhammed Miah,0,0.43739842239757626,0.009947045888208002
+2186447827,A Syntactic Rule Based Approach to Web Service Composition,2006,20,18,1,1.0,238786035,Vagelis Hristidis,0,-1.4147887349212371,-1.6682992817224052
+2145343070,BioNav Effective Navigation on Query Results of Biomedical Databases,2009,15,14,2,0.769231,2036986288,Abhijith Kashyap,0,-0.0041099411153885,0.0447066884760059
+2148792468,Probabilistic ranking of database query results,2004,33,145,3,0.0,2163909284,Surajit Chaudhuri,0,0.9554334239188061,0.0983021446484616
+2154794267,A system for keyword proximity search on XML databases,2003,10,32,2,0.461538,1208114522,Andrey Balmin,0,2.1982902428391884,-0.8880501764275741
+2148942721,Efficient IR-style keyword search over relational databases,2003,19,483,1,1.0,238786035,Vagelis Hristidis,0,0.922765544186215,0.13699274168066441
+2221389368,PREFER a system for the efficient execution of multi-parametric ranked queries,2001,17,259,1,1.0,238786035,Vagelis Hristidis,0,1.5606135106528942,0.36654066418524994
+2401687514,Multi-Query Diversification in Microblogging Posts,2014,26,10,4,1.0,2157777549,Shiwen Cheng,0,-0.0041099411153885,0.0447066884760059
+2399548505,LogRank Summarizing Social Activity Logs,2012,20,3,2,0.769231,2036986288,Abhijith Kashyap,0,-0.0041099411153885,0.0447066884760059
+2408102637,Slowing the Firehose Multi-Dimensional Diversity on Social Post Streams,2016,21,1,3,1.0,2157777549,Shiwen Cheng,0,-0.0041099411153885,0.0447066884760059
+2402569267,Scalable Link-based Personalization for Ranking in Entity-Relationship Graphs,2011,20,4,1,1.0,238786035,Vagelis Hristidis,0,1.2120043167957657,0.28082032694940884
+2566419395,OSNI Searching for Needles in a Haystack of Social Network Data,2016,8,0,3,1.0,2157777549,Shiwen Cheng,0,-0.0041099411153885,0.0447066884760059
+2615767332,IRanker Query-Specific Ranking of Reviewed Items,2017,13,0,3,0.0,2226206461,Moloud Shahbazi,0,-0.9841238153284008,-0.8876601391747736
+2612205558,Efficient Computation of Top-k Frequent Terms over Spatio-temporal Ranges,2017,8,10,4,0.0,2622090380,Pritom Ahmed,0,0.035325698121811445,0.016180066275717404
+2622176595,DualDB An Efficient LSM-based Publish/Subscribe Storage System,2017,9,5,2,1.0,2684370078,Mohiuddin Abdul Qader,0,-0.09904781878353353,0.7769499185925443
+2752302728,A BAD demonstration towards B ig A ctive D ata,2017,17,3,2,0.0,8132329,Vassilis J. Tsotras,0,0.006014922467298363,0.12624752891294624
+2764414857,A BAD Demonstration Towards Big Active Data,2017,15,3,4,0.0,2501992388,Steven Jacobs,0,-0.05939189504865755,-0.2798017729976206
+2798536345,A Comparative Study of Secondary Indexing Techniques in LSM-based NoSQL Databases,2018,19,9,3,1.0,2684370078,Mohiuddin Abdul Qader,0,0.0672323534394502,-0.08592541257365431
+2885396593,High-throughput publish/subscribe on top of LSM-based storage,2019,27,0,2,0.9,2684370078,Mohiuddin Abdul Qader,0,0.25298309086201254,0.008574998553503632

@@ -1,0 +1,32 @@
+37446553,Transaction Processing at Microsoft Present and Future,1994,0,2,1,1.0,2136822424,Patrick ONeil,0,2.5467907270779055,2.4183078481408837
+144888112,Database systems principles programming performance,1994,0,19,1,1.0,2136822424,Patrick ONeil,0,2.1004147457194557,0.6473443053248263
+150331453,Escrow Transactions Permitting Concurrent Record Updates,1985,0,2,1,1.0,2136822424,Patrick ONeil,0,-0.0041099411153885,0.0447066884760059
+67201326,Data Warehousing Lessons From Experience (Panel),1998,0,0,1,1.0,2136822424,Patrick ONeil,0,0.11627582886789564,0.3621724021946999
+1562976741,A Log-Structured History Data Access Method (LHAM),1993,14,7,1,1.0,2136822424,Patrick ONeil,0,0.221423897897152,-0.21080654779612165
+1501548698,Model 204 Architecture and Performance,1987,2,185,1,1.0,2136822424,Patrick ONeil,0,1.2481881900976823,-1.1544247223442101
+1521479407,Database--Principles Programming and Performance,1994,0,87,1,1.0,2136822424,Patrick ONeil,0,1.025371447745963,0.17444646489195761
+1665789430,Design Implementation and Performance of the LHAM Log-Structured History Data Access Method,1998,23,35,2,0.0,2229377704,Peter Muth,0,0.7398795642362742,0.9853910693685882
+1877718705,System and method for efficiently indexing and storing a large database with high data insertion frequency,1991,8,159,2,0.0,345041231,Dieter Gawlick,0,-0.42436748306339156,1.2656547619763021
+1791587242,C-store a column-oriented DBMS,2005,64,911,11,0.0,1998938290,Michael Stonebraker,0,1.8807322762223457,0.7576132399113342
+1967983783,Bit-sliced index arithmetic,2001,17,44,2,0.0,2084192680,Denis Rinfret,0,-0.30758881272495303,0.501076556719665
+1980717199,Improving MMDB distributed transactional concurrency,2014,17,0,2,0.0,2504739616,Weiwei Gong,0,1.8526577975011367,1.9286585169199963
+1975637639,The Escrow transactional method,1986,7,214,1,1.0,2136822424,Patrick ONeil,0,1.464059640638708,1.5876912810254187
+1968658954,A read-only transaction anomaly under snapshot isolation,2004,5,51,3,0.8,2154123352,Alan Fekete,0,2.901017161242375,3.1199610545291456
+1986770446,Guest editorial Real-time database systems,1996,0,4,1,1.0,2136822424,Patrick ONeil,0,1.8712426537223195,1.8965057792010314
+1996406244,Adjoined Dimension Column Clustering to Improve Data Warehouse Query Performance,2008,1,23,2,0.0,2283538061,Xuedong Chen,0,1.5886508025947965,-0.31036797492349555
+1996952974,Making snapshot isolation serializable,2005,18,236,4,0.8,2154123352,Alan Fekete,0,2.092772258209517,2.444628838608931
+1999277765,Designing computer networks to avoid partitioning,1993,7,0,1,1.0,2136822424,Patrick ONeil,0,-0.0041099411153885,0.0447066884760059
+1997721055,Deadlock prediction for Escrow transactions,1991,8,3,1,1.0,2136822424,Patrick ONeil,0,0.8071947597928303,0.95524368871504
+2054308357,The LRU-K page replacement algorithm for database disk buffering,1993,25,797,2,0.630488,2154033516,Elizabeth ONeil,0,0.12628174114238816,0.0039009070058818006
+2097597441,Precisely Serializable Snapshot Isolation (PSSI),2011,12,39,2,0.0,2303247494,Stephen Revilak,0,2.0923208713801333,2.2728083831733965
+2111586962,The dangers of replication and a solution,1996,8,1061,3,0.0,2131537204,Jim Gray,0,1.3171915942385866,1.221458675627551
+2111967617,Improved query performance with variant indexes,1997,12,478,1,1.0,2136822424,Patrick ONeil,0,0.22936323734348382,0.29481307466548995
+2117917070,A critique of ANSI SQL isolation levels,1995,12,795,5,1.0,1993489269,Hal Berenson,0,1.5519287447454504,1.7589641618672895
+2119887456,Generalized isolation level definitions,2000,23,115,3,0.0,2022497718,Atul Adya,0,1.5209344195192958,1.7613513933260971
+2140646908,Multi-table joins through bitmapped join indices,1995,4,299,1,1.0,2136822424,Patrick ONeil,0,1.3432045276424425,-0.10537125280792813
+2111087864,ORDPATHs insert-friendly XML node labels,2004,10,363,1,1.0,2136822424,Patrick ONeil,0,1.0245753389482366,-0.4733072861705544
+2156448604,The LHAM log-structured history data access method,2000,29,58,2,0.0,2229377704,Peter Muth,0,0.2700148203413051,0.36697402795287865
+2155928473,Bitmap Index Design Choices and Their Performance Implications,2007,13,56,2,0.6973,2154033516,Elizabeth ONeil,0,0.3536402880350391,0.4077270190305949
+2912648541,Session details Industrial Session 4 Data and Application Integration Spatial Data,2008,0,0,1,1.0,2136822424,Patrick ONeil,0,-0.0041099411153885,0.0447066884760059
+2919129196,HISTEX (HISTory EXerciser) A tool for testing the implementation of Isolation Levels of Relational Database Management Systems,2019,7,0,1,1.0,2136822424,Patrick ONeil,0,1.6519667283348731,1.2337675658478868
+2949646942,A Critique of ANSI SQL Isolation Levels,2007,6,2,5,1.0,1993489269,Hal Berenson,0,1.5519287447454504,1.7589641618672895

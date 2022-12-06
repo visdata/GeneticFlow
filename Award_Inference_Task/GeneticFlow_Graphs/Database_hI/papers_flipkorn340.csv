@@ -1,0 +1,32 @@
+162964049,Reverse nearest neighbor aggregates over data streams,2002,31,88,1,1.0,2238237585,Flip Korn,0,-0.42845202490949574,0.1450203979855267
+1497638173,Summarizing Two-Dimensional Data with Skyline-Based Statistical Descriptors,2008,28,7,2,0.21694,2190072679,Graham Cormode,0,0.2471930805956192,0.29267590534659577
+1492403551,Fine-grained controversy detection in Wikipedia,2015,23,9,2,0.0,146341373,Siarhei Bykau,0,-0.32198876610509086,-0.2038331671539402
+1487524542,Checks and balances monitoring data quality problems in network traffic databases,2003,11,24,1,1.0,2238237585,Flip Korn,0,-0.09846766847675584,-0.20900084554529325
+1893622764,Fast nearest neighbor search in medical image databases,1996,56,290,1,1.0,2238237585,Flip Korn,0,0.17391615759999998,0.26835898102601596
+1985722290,Index structures for matching XML twigs using relational query processors,2007,24,32,3,0.292813,2199548342,Zhiyuan Chen,0,1.546511116479098,-0.2245616542275435
+2023027635,Modeling skew in data streams,2006,36,21,1,1.0,2238237585,Flip Korn,0,-0.15876908443966078,-0.6135684665118507
+2023052779,Data Auditor exploring data quality and semantics using pattern tableaux,2010,9,25,3,0.251123,2618045780,Lukasz Golab,0,-0.27153134656949884,-0.2057266264173673
+2012837162,Discovering Conservation Rules,2012,15,8,3,0.194253,2618045780,Lukasz Golab,0,-0.10344230619099819,0.03290475458641697
+2018592576,Identifying the Extent of Completeness of Query Answers over Partially Complete Databases,2015,27,23,2,0.0,314715041,Simon Razniewski,0,0.771639292019028,-0.10117201475879216
+2043795882,On repairing structural problems in semi-structured data,2013,32,20,1,1.0,2238237585,Flip Korn,0,1.1708977592226582,-0.30221973095014953
+2076287166,Influence sets based on reverse nearest neighbor queries,2000,17,423,1,1.0,2238237585,Flip Korn,0,-0.0041099411153885,0.0447066884760059
+2071237681,IPSOFACTO a visual correlation tool for aggregate network traffic data,2003,0,2,1,1.0,2238237585,Flip Korn,0,-0.0041099411153885,0.0447066884760059
+2095088658,On Signatures for Communication Graphs,2008,25,8,2,0.21694,2190072679,Graham Cormode,0,-0.0041099411153885,0.0447066884760059
+2081189989,On computing correlated aggregates over continual data streams,2001,23,285,2,0.109572,2083845045,Johannes Gehrke,0,0.007334245363849856,0.0884093997571545
+2105326258,Query optimization in compressed database systems,2001,30,116,3,0.336319,2199548342,Zhiyuan Chen,0,0.7215975991611812,0.3052417628859806
+2141441292,Finding hierarchical heavy hitters in data streams,2003,26,166,2,0.75,2190072679,Graham Cormode,0,-0.38193635436355683,-0.13758523908204956
+2114867662,Effective computation of biased quantiles over data streams,2005,17,42,2,0.5,2190072679,Graham Cormode,0,-0.15876908443966078,-0.6135684665118507
+2142099410,Diamond in the rough finding Hierarchical Heavy Hitters in multi-dimensional data,2004,13,107,2,0.75,2190072679,Graham Cormode,0,-0.30724385255265374,0.10584035047483828
+2133409729,On generating near-optimal tableaux for conditional functional dependencies,2008,22,149,3,0.251123,2618045780,Lukasz Golab,0,1.2387994570248095,-0.5219239634336965
+2122529145,Exponentially Decayed Aggregates on Data Streams,2008,7,44,2,0.21694,2190072679,Graham Cormode,0,-0.2279388196396881,0.09377507461288882
+2125978661,Fractal Modeling of IP Network Traffic at Streaming Speeds,2006,14,1,1,1.0,2238237585,Flip Korn,0,-0.15876908443966078,-0.6135684665118507
+2150569458,Holistic UDAFs at streaming speeds,2004,36,99,3,0.75,2190072679,Graham Cormode,0,-0.15876908443966078,-0.6135684665118507
+2148039410,Efficiently supporting ad hoc queries in large datasets of time sequences,1997,28,396,1,1.0,2238237585,Flip Korn,0,-0.0041099411153885,0.0447066884760059
+2166103489,Space-efficient Relative Error Order Sketch over Data Streams,2006,28,16,4,0.0,2604265191,Ying Zhang,0,-0.42845202490949574,0.1450203979855267
+2152304884,Index Structures for Matching XML Twigs Using Relational Query Processors,2005,29,11,3,0.336319,2199548342,Zhiyuan Chen,0,0.9452769308031439,-0.017350116487758017
+2223583458,TreeScope finding structural anomalies in semi-structured data,2015,11,1,2,0.0,2192180766,Shanshan Ying,0,0.7047366552772493,-0.38060513750458436
+2402668406,Interpretable and informative explanations of outcomes,2014,15,29,4,0.0,304385559,Kareem El Gebaly,0,-0.0041099411153885,0.0447066884760059
+2438792749,Goods Organizing Googles Datasets,2016,19,67,2,0.0,2154833104,Alon Halevy,0,-0.3826816924943315,-0.17246930033106256
+2575118467,Knowledge exploration using tables on the web,2016,24,17,3,0.0,2034529969,Fernando Chirigati,0,-0.0041099411153885,0.0447066884760059
+2575168421,Managing Googleâ€™s data lake an overview of the Goods system,2016,1,17,5,0.0,339589296,Neoklis Polyzotis,0,-0.0041099411153885,0.0447066884760059
+2922428744,Automatically Generating Interesting Facts from Wikipedia Tables,2019,24,0,1,1.0,2238237585,Flip Korn,0,-0.3652008450463068,0.3160971441695779

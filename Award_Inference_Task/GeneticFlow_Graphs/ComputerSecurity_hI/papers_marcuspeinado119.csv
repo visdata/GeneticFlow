@@ -1,0 +1,46 @@
+5790907,Tracking rootkit footprints with a practical memory analysis system,2012,20,27,2,0.573304,2107517118,Weidong Cui,0,-0.3976003713362508,1.164290882867107
+1010991095,Securing A Computing Environment Against Malicious Entities,2012,33,23,1,1.0,2123463638,Marcus Peinado,0,-0.3383784544281044,0.15268826611744696
+1568372283,Multiplexing a secure counter to implement second level secure counters,2002,18,17,2,1.0,2107405182,Paul England,0,0.0040557659796233,0.2757546058061082
+1569778844,VC3 Trustworthy Data Analytics in the Cloud Using SGX,2015,61,302,5,0.0,1964797733,Felix Schuster,0,-0.18118066271638403,-0.1953885911378563
+1571867944,Authenticated Operation of Open Computing Devices,2002,14,36,2,1.0,2107405182,Paul England,0,-0.20722016126918666,-0.1552793618640974
+1511063173,Generating migrating or exporting bound keys,2006,127,2,2,0.436275,2107405182,Paul England,0,0.144804752415244,-1.1724646542264954
+1549493189,Verifying human interaction to a computer entity by way of a trusted component on a computing device or the like,2005,9,31,4,0.0,2005317408,Joshua T. Goodman,0,-0.4942006155652423,0.33059495472780903
+1952821614,Protection of content stored on portable memory from unauthorized usage,2005,14,36,1,1.0,2123463638,Marcus Peinado,0,0.0040557659796233,0.2757546058061082
+1840751233,NGSCB A Trusted Open System,2004,24,79,1,1.0,2123463638,Marcus Peinado,0,1.5248829472979344,2.1436734177140173
+1634188203,Method for obtaining a black box for performing decryption and encryption functions in a digital rights management (DRM) system,2000,37,57,5,0.0,1894739760,Arnold N. Blinn,0,-0.01974349644877217,-0.4837668529368373
+1804148262,Digital rights management system operating on computing device and having black box tied to computing device,2000,54,377,2,0.0,2034645194,Krishnamurthy Ganesan,0,-0.01974349644877217,-0.4837668529368373
+1849908010,The Darknet and the Future of Content Protection,2003,20,61,3,0.0,1981606656,Peter Biddle,0,-0.27787052792074163,0.43038095330184306
+1852007091,Shielding applications from an untrusted cloud with Haven,2014,49,267,2,1.0,2150586784,Andrew Baumann,0,-0.09602735134178905,0.6849619620451437
+1942739572,Transferring application secrets in a trusted operating system environment,2005,92,72,3,0.0,2071505877,Josh D. Benaloh,0,0.003955709124004628,0.38756405542880573
+1895456786,Structural of digital rights management (DRM) system,2000,53,249,2,0.0,2035985658,Rajasekhar Abburi,0,-0.2304081779245302,0.6236857432762108
+1830004738,Access Unit Switching Through Physical Mediation,2005,28,12,1,1.0,2123463638,Marcus Peinado,0,-0.8486003440684792,0.783071168727811
+1584476834,STEALTHMEM system-level protection against cache-based side channel attacks in the cloud,2012,32,191,2,0.0,2135529837,Taesoo Kim,0,0.9753907213017128,-0.24445946668398916
+1990421186,deDacota toward preventing server-side XSS via automatic code and data separation,2013,37,39,4,0.0,2093562960,Adam DoupÃ©,0,0.0040557659796233,0.2757546058061082
+2028578657,Digital rights management for digital cinema,2003,42,29,1,1.0,2123463638,Marcus Peinado,0,-0.2304081779245302,0.6236857432762108
+2061643296,Shielding Applications from an Untrusted Cloud with Haven,2015,56,155,2,1.0,2150586784,Andrew Baumann,0,-0.329101406315633,0.4641761640418544
+2082314930,Digital rights management for digital cinema,2001,0,42,1,1.0,2123463638,Marcus Peinado,0,0.056474897388531044,0.23058878798856486
+2100047006,Binding content to a portable storage device or the like in a digital rights management (DRM) system,2006,56,135,3,0.195652,2083385318,Clifford P. Strom,0,-0.05104375898376923,0.08307900964895476
+2126220112,Mapping kernel objects to enable systematic integrity checking,2009,22,142,5,0.0,2157861493,Martim Carbone,0,0.05940095047987125,0.6960502266457337
+2120509504,Binding a digital license to a portable device or the like in a digital rights management (DRM) system and checking out/checking in the digital license to/from the portable device or the like,2001,116,451,1,1.0,2123463638,Marcus Peinado,0,-0.01974349644877217,-0.4837668529368373
+2138478302,Manifest-based trusted agent management in a trusted operating system environment,2005,136,123,3,0.0,2071505877,Josh D. Benaloh,0,-0.7232315876379429,-0.014836000989540818
+2139014499,Saving and retrieving data based on public key encryption,2011,255,76,2,0.361154,2107405182,Paul England,0,0.014762118668571848,-1.7126025387521264
+2136337200,ShieldGen Automatic Data Patch Generation for Unknown Vulnerabilities with Informed Probing,2007,21,93,2,0.652174,2107517118,Weidong Cui,0,-0.32053633632233797,0.05116610404272133
+2116549318,Protecting decrypted compressed content and decrypted decompressed content at a digital rights management client,2005,70,116,3,0.0,236707708,Mukund Sankaranarayan,0,-0.2304081779245302,0.6236857432762108
+2131347770,Secure processor architecture for use with a digital rights management (DRM) system on a computing device,2001,20,307,2,1.0,2107405182,Paul England,0,-0.64361911720375,0.5900956139954874
+2140839850,Tupni automatic reverse engineering of input formats,2008,33,148,2,0.652174,2107517118,Weidong Cui,0,-1.9568047722923327,0.7433319519222306
+2150620897,Controlled-Channel Attacks Deterministic Side Channels for Untrusted Operating Systems,2015,44,326,3,0.0,2577716877,Yuanzhong Xu,0,0.5483864624772467,0.4367115772176761
+2152559762,Specifying security for an element by assigning a scaled value representative of the relative security thereof,2004,154,79,2,1.0,2035985658,Rajasekhar Abburi,0,0.0040557659796233,0.2757546058061082
+2209550027,Malware detection with taint tracking,2008,26,27,1,1.0,2123463638,Marcus Peinado,0,0.05940095047987125,0.6960502266457337
+2201006229,Automatic data patch generation for unknown vulnerabilities,2007,29,48,3,0.0,177051771,Michael E. Locasto,0,0.1639362940477497,0.6530314529854678
+2242210949,Methods and systems for cryptographically protecting secure content in video memory,2002,8,2,2,1.0,2107405182,Paul England,0,0.03854345873805821,0.12392982216157666
+2279949631,Creating and verifying a sequence of consecutive data,2002,23,21,2,1.0,2107405182,Paul England,0,0.03910652856792115,-0.9542749174440527
+2329817183,Digital Rights Management and Windows Media Player,2001,8,0,1,1.0,2123463638,Marcus Peinado,0,-0.2304081779245302,0.6236857432762108
+2411214597,Digital rights management on device without interactive authentication,2003,4,4,3,0.0,2061768242,Jonas Fredrik Helin,0,-0.3158398326270256,-0.008717727364945665
+2404868278,Verifying human interaction to a computer entity by way of a trusted component on a computing device,2005,13,3,4,0.0,2005317408,Joshua T. Goodman,0,-0.4942006155652423,0.33059495472780903
+2550858797,Inferring fine-grained control flow inside SGX enclaves with branch shadowing,2017,46,121,6,0.0,3009804477,Sangho Lee,0,0.6749795779198816,-0.8910744580207307
+2612997195,T-SGX Eradicating Controlled-Channel Attacks Against Enclave Programs,2017,49,135,4,0.521739,2227870902,Ming Wei Shih,0,0.0040557659796233,0.2757546058061082
+2727025244,Hacking in Darkness Return-oriented Programming against Secure Enclaves,2017,24,40,8,0.0,2561103275,Jaehyuk Lee,0,-0.7144444947004436,0.4749619660548336
+2804093830,2015 IEEE Symposium on Security and Privacy SP 2015,2015,1,0,15,0.0,117801055,Christos Gkantsidis,0,0.0040557659796233,0.2757546058061082
+2920921666,Dominance as a New Trusted Computing Primitive for the Internet of Things,2019,47,1,5,0.0,2440222960,Meng Xu,0,-0.14356776895977752,0.4787196196117573
+2950168363,Inferring Fine-grained Control Flow Inside SGX Enclaves with Branch Shadowing,2016,40,16,6,0.0,3009804477,Sangho Lee,0,0.9753907213017128,-0.24445946668398916
+3021704956,The Lazarus Effect Healing Compromised Devices in the Internet of Small Things,2020,22,0,5,0.0,2126195780,Manuel Huber,0,1.085097682730419,1.950487146920374

@@ -1,22 +1,66 @@
+
+# full->sh
+# core->sh
+
+# --num_layers 2-6
+# --dropout_ratio 0.2
+# --conv_name GCNConv ARMAConv
+# --average True False
+# --lr 0.0005-0.003
+# --nhid 128 256
+
+
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import numpy as np
 from torch_geometric.nn import global_mean_pool as gap, global_max_pool as gmp, GlobalAttention, GraphMultisetTransformer, Set2Set, GlobalAttention
 from torch_geometric.nn import ResGatedGraphConv,ChebConv,SAGEConv,GCNConv,GATConv,TransformerConv,AGNNConv,EdgePooling,GraphConv,GCN2Conv,TopKPooling,SAGPooling
-from torch_geometric.nn import GINConv,GATv2Conv,ARMAConv
+from torch_geometric.nn import GINConv,GATv2Conv,ASAPooling,LEConv,MFConv,SGConv,ARMAConv,TAGConv
 from torch_geometric.utils import get_laplacian
 from layers import GCN, HGPSLPool
+from torch.nn import Linear, ReLU, Sequential
+from torch.nn import BatchNorm1d as BatchNorm
+from torch_geometric.data import Data
+import networkx as nx
+from torch_geometric.utils.convert import to_networkx
+import torch_geometric.transforms as T
+
+
+import matplotlib.pyplot as plt
+
+def get_conv(conv_name):
+    if conv_name == 'GCNConv':
+        return GCNConv
+    elif conv_name == 'ChebConv':
+        return ChebConv
+    elif conv_name == 'SAGEConv':
+        return SAGEConv
+    elif conv_name == 'GraphConv':
+        return GraphConv
+    elif conv_name == 'GATConv':
+        return GATConv
+    elif conv_name == 'TAGConv':
+        return TAGConv
+    elif conv_name == 'ARMAConv':
+        return ARMAConv
+    elif conv_name == 'SGConv':
+        return SGConv
+    elif conv_name == 'MFConv':
+        return MFConv
+    elif conv_name == 'LEconv':
+        return LEConv
+    elif conv_name == 'GINConv':
+        return GINConv
 
 class MLP(nn.Module):
     def __init__(self, input_dim, hidden_dim, output_dim, enhance=False):
         super(MLP, self).__init__()
-
         self.enhance = enhance
-
         self.fc1 = nn.Linear(in_features=input_dim, out_features=hidden_dim)
         self.fc2 = nn.Linear(in_features=hidden_dim, out_features=hidden_dim)
         self.fc3 = nn.Linear(in_features=hidden_dim, out_features=output_dim)
-
         if enhance:
             self.bn1 = nn.BatchNorm1d(hidden_dim)
             self.bn2 = nn.BatchNorm1d(hidden_dim)
@@ -28,23 +72,22 @@ class MLP(nn.Module):
             nn.init.constant_(p,1)
 
     def forward(self, x):
-        x = self.fc1(x.to('cuda:1'))
+        x = self.fc1(x.to('cuda:0'))
         if self.enhance:
             x = self.bn1(x)
         x = torch.relu(x)
         if self.enhance:
             x = self.dropout(x)
-
         x = self.fc2(x)
         if self.enhance:
             x = self.bn2(x)
         x = torch.relu(x)
         if self.enhance:
             x = self.dropout(x)
-        
         x = F.relu(self.fc3(x))
         # x = F.log_softmax(self.fc3(x), dim=-1)
         return x
+
 
 class Model(torch.nn.Module):
     def __init__(self, args):
@@ -52,117 +95,265 @@ class Model(torch.nn.Module):
         self.args = args
         self.num_features = args.num_features
         self.nhid = args.nhid
+        self.average = args.average
         self.num_classes = args.num_classes
         self.pooling_ratio = args.pooling_ratio
         self.dropout_ratio = args.dropout_ratio
+        self.num_layers = args.num_layers
         self.sample = args.sample_neighbor
         self.sparse = args.sparse_attention
         self.sl = args.structure_learning
         self.lamb = args.lamb
+        self.residual = False
+        self.edgeconv = MLP(10, 64, 1).to('cuda:0')
+        self.conv_name = args.conv_name
+        self.pool_name = args.pool_name
+        # self.feature_mlp = MLP(6, 32, 32).to('cuda:0')
+        Conv = get_conv(self.conv_name)
 
-        self.edgeconv = MLP(10, 64, 1).to('cuda:1')
-        self.feature_mlp = MLP(6, 32, 32).to('cuda:1')
-        
-        # checkpoint=torch.load('mlp.pkl')
-        # self.edgeconv.load_state_dict(checkpoint)
+        # GCN2
+        # alpha=0.1
+        # theta=0.5
+        # shared_weights=False
+        # self.lins = torch.nn.ModuleList()
+        # self.lins.append(Linear(self.num_features, self.nhid))
+        # self.lins.append(Linear(self.nhid, self.nhid))
+        # self.convs = torch.nn.ModuleList()
+        # for layer in range(64):
+        #     self.convs.append(
+        #         GCN2Conv(self.nhid, alpha, theta, layer + 1,
+        #                  shared_weights, normalize=False))
 
-        # self.conv1 = ChebConv(self.num_features, self.nhid,1)
-        # self.conv2 = ChebConv(self.nhid, self.nhid,1)
-        # self.conv3 = ChebConv(self.nhid, self.nhid,1)
-        self.conv1 = ARMAConv(self.num_features, self.nhid)
-        self.conv2 = ARMAConv(self.nhid, self.nhid)
-        self.conv3 = ARMAConv(self.nhid, self.nhid)
-        # self.conv4 = GATv2Conv(self.nhid, self.nhid)
-        # self.conv5 = GATv2Conv(self.nhid, self.nhid)
+        # if self.conv_name == 'ChebConv':
+        #     self.conv1 = ChebConv(self.num_features, self.nhid, 1)
+        #     self.conv2 = ChebConv(self.nhid, self.nhid, 1)
+        #     self.conv3 = ChebConv(self.nhid, self.nhid, 1)
+        # elif self.conv_name == 'GINConv':
+        #     hidden_channels=self.nhid
+        #     nn1 = Sequential(
+        #         Linear(6, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #         Linear(hidden_channels, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #     )
+        #     self.conv1=GINConv(nn1, train_eps=True)
+        #     nn2 = Sequential(
+        #         Linear(hidden_channels, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #         Linear(hidden_channels, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #     )
+        #     self.conv2=GINConv(nn2, train_eps=True)
+        #     nn3 = Sequential(
+        #         Linear(hidden_channels, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #         Linear(hidden_channels, hidden_channels),
+        #         BatchNorm(hidden_channels),
+        #         ReLU(),
+        #     )
+        #     self.conv3=GINConv(nn3, train_eps=True)
+        # else:
+        #     self.conv1 = Conv(self.num_features, self.nhid)
+        #     self.conv2 = Conv(self.nhid, self.nhid)
+        #     self.conv3 = Conv(self.nhid, self.nhid)
+        #     self.conv4 = Conv(self.nhid, self.nhid)
+            
+        self.convs = torch.nn.ModuleList()
+        self.batch_norms = torch.nn.ModuleList()
+        self.convs.append(Conv(self.num_features, self.nhid))
+        self.batch_norms.append(torch.nn.BatchNorm1d(self.nhid))
+        for layer in range(self.num_layers - 1):
+            self.convs.append(Conv(self.nhid, self.nhid))
+            self.batch_norms.append(torch.nn.BatchNorm1d(self.nhid))
 
-        # self.pool1 = SAGPooling(self.nhid, ratio=0.5, GNN=GATv2Conv)
-        # self.pool2 = SAGPooling(self.nhid, ratio=0.5, GNN=GATv2Conv)
-        # self.pool1 = TopKPooling(self.nhid, ratio=0.5)
-        # self.pool2 = TopKPooling(self.nhid, ratio=0.5)
-        # self.pool1 = EdgePooling(self.nhid, dropout=0.5, add_to_edge_score=0.5)
-        # self.pool2 = EdgePooling(self.nhid, dropout=0.5, add_to_edge_score=0.5)
-
-        # self.pool1 = HGPSLPool(self.nhid, self.pooling_ratio, self.sample, self.sparse, self.sl, self.lamb)
-        # self.pool2 = HGPSLPool(self.nhid, self.pooling_ratio, self.sample, self.sparse, self.sl, self.lamb)
-        # self.pool3 = HGPSLPool(self.nhid, self.pooling_ratio, self.sample, self.sparse, self.sl, self.lamb)
-        # self.pool4 = HGPSLPool(self.nhid, self.pooling_ratio, self.sample, self.sparse, self.sl, self.lamb)
-
-        # self.globalpool = GlobalAttention(self.nhid, 10)
+        # if self.pool_name == 'SAGPooling':
+        #     self.pool1 = SAGPooling(self.nhid, ratio=self.pooling_ratio, GNN=GCNConv)
+        #     self.pool2 = SAGPooling(self.nhid, ratio=self.pooling_ratio, GNN=GCNConv)
+        # elif self.pool_name == 'TopKPooling':
+        #     self.pool1 = TopKPooling(self.nhid, ratio=self.pooling_ratio)
+        #     self.pool2 = TopKPooling(self.nhid, ratio=self.pooling_ratio)
+        # elif self.pool_name == 'ASAPooling':
+        #     self.pool1 = ASAPooling(self.nhid, ratio=self.pooling_ratio, dropout=0.5, GNN=GCNConv,
+        #                         add_self_loops=False)
+        #     self.pool2 = ASAPooling(self.nhid, ratio=self.pooling_ratio, dropout=0.5, GNN=GCNConv,
+        #                         add_self_loops=False)
+        # elif self.pool_name == 'EdgePooling':
+        #     self.pool1 = EdgePooling(self.nhid, edge_score_method=EdgePooling.compute_edge_score_softmax, dropout=self.pooling_ratio, add_to_edge_score=1)
+        #     self.pool2 = EdgePooling(self.nhid, edge_score_method=EdgePooling.compute_edge_score_softmax, dropout=self.pooling_ratio, add_to_edge_score=1)
+        # elif self.pool_name == 'HGPSLPool':
+        #     self.pool1 = HGPSLPool(self.nhid, self.pooling_ratio, self.sample, self.sparse, self.sl, self.lamb)
+        #     self.pool2 = HGPSLPool(self.nhid, self.pooling_ratio, self.sample, self.sparse, self.sl, self.lamb)
 
         self.lin1 = torch.nn.Linear(self.nhid, self.nhid // 2)
         self.lin2 = torch.nn.Linear(self.nhid // 2 + 1, self.nhid // 4)
         self.lin3 = torch.nn.Linear(self.nhid // 4, self.num_classes)
 
-    def forward(self, data, paper_count):
+    def forward(self, data, paper_count,flag):
 
-        x, edge_index, batch= data.x.to('cuda:1'), data.edge_index.to('cuda:1'), data.batch.to('cuda:1')
-        graph_ave_feature = gap(x, batch)
-        edge_attr = data.edge_attr
+        # gdc
+        # gdc = T.GDC(self_loop_weight=1, normalization_in='sym',
+        #         normalization_out='col',
+        #         diffusion_kwargs=dict(method='ppr', alpha=0.05),
+        #         sparsification_kwargs=dict(method='topk', k=128,
+        #                                    dim=0), exact=True)
+        # data = gdc(data)
 
+        x, edge_index, batch = data.x.to('cuda:0'), data.edge_index.to('cuda:0'), data.batch.to('cuda:0')
+        if self.args.ignore_edge and edge_index.shape[1]:
+            raise f'ignore_edge error, edge_index.shape:{edge_index.shape}'
+        edge_attr = None
+        
+        if(flag=='./data/data_with_proba'):
+            edge_attr = data.edge_attr
+        # print(x,data.edge_attr)
+        if(flag=='./data/data_with_feature'):
+            edge_attr = self.edgeconv(data.edge_attr)
+        x_reverse, edge_index_reverse, batch_reverse = x, edge_index, batch
 
-        # cos1=torch.flatten(edge_attr).to('cuda:1')
-        # norm = torch.mean(cos1)
-        # cos2=torch.flatten(edge_proba).to('cuda:1')
-        # cos=cos1-cos2
-        # print(torch.mean(cos1),torch.mean(cos2))
-        # norm = torch.norm(cos, p=1, dim=0)
-        # norm = norm/cos1.shape[0]
+        # draw graph
+        # x_cpu=x.cpu().detach().numpy()
+        # edge_index_cpu=edge_index.cpu().detach().numpy()
+        # batch_cpu=batch.cpu().detach().numpy()
+        # X=[[] for i in range(batch_cpu[batch_cpu.shape[0]-1]+1)]
+        # Edge_index=[[[],[]] for i in range(batch_cpu[batch_cpu.shape[0]-1]+1)]
+        # count=0
+        # for i in range(x_cpu.shape[0]):
+        #     X[batch_cpu[i]].append(x_cpu[i])
+        # for i in range(edge_index_cpu.shape[1]):
+        #     Edge_index[batch_cpu[edge_index_cpu[0][i]]][0].append(edge_index_cpu[0][i])
+        #     Edge_index[batch_cpu[edge_index_cpu[0][i]]][1].append(edge_index_cpu[1][i])
+        # Edge_index[1]=np.array(Edge_index[1])
+        # idx = np.array(np.unique(Edge_index[1].reshape(-1)), dtype=np.dtype(int))
+        # idx_map = {j: i for i, j in enumerate(idx)}
+        # Edge_index[1]=np.array(list(map(idx_map.get, Edge_index[1].flatten())),
+        #                             dtype=np.int32).reshape(Edge_index[1].shape)
+        # G = Data(x=torch.from_numpy(np.array(X[1])), edge_index=torch.from_numpy(np.array(Edge_index[1])))
+        # print(G.num_nodes)
+        # print(np.array(X[1]).shape)
+        # G = to_networkx(G)
+        # print(G.nodes(),Edge_index[1])
+        # nx.draw(G,node_size=20)
+        # plt.savefig("origin.png")
+        # plt.clf()    
 
-        x = F.relu(self.conv1(x.float(), edge_index, edge_attr))
-        x = F.dropout(x, p=self.dropout_ratio, training=self.training)
-        # x = F.relu(self.conv1(x.float(), edge_index, edge_attr))
-        # x, edge_index, batch, _ = self.pool1(x, edge_index, batch)
-        # x, edge_index, edge_attr, batch, _, _ = self.pool1(x, edge_index, edge_attr, batch)
-        # x, edge_index, edge_attr, batch = self.pool1(x, edge_index, None, batch)
+        # edge_attr = data.edge_attr
+        # edge_attr = self.edgeconv(data.edge_attr)
 
+        # compute proba
+        # proba1=torch.flatten(edge_attr).to('cuda:0')
+        # proba2=torch.flatten(edge_proba).to('cuda:0')
+        # proba_distance=proba1-proba2
+        # print(torch.mean(proba1),torch.mean(proba2))
+        # norm = torch.norm(proba_distance, p=1, dim=0)
+        # norm = norm/proba1.shape[0]
+
+        h_list = [x]
+        for layer in range(self.num_layers):
+            h = self.convs[layer](h_list[layer], edge_index, edge_attr)
+            h = self.batch_norms[layer](h)
+            if layer == self.num_layers - 1:
+                #remove relu for the last layer
+                h = F.dropout(h, self.dropout_ratio, training = self.training)
+            else:
+                h = F.dropout(F.relu(h), self.dropout_ratio, training = self.training)
+
+            if self.residual:
+                h += h_list[layer]
+
+            h_list.append(h)
+
+        node_representation = 0
+        for layer in range(self.num_layers):
+            if(self.average):
+                node_representation += F.relu(gap(h_list[layer + 1], batch))
+            else:
+                node_representation += F.relu(gmp(h_list[layer + 1], batch))
+
+        x = node_representation
+        # if self.conv_name == 'ChebConv':
+        #     x = F.relu(self.conv1(x.float(), edge_index, edge_attr, batch))
+        # else:
+        #     x = F.relu(self.conv1(x.float(), edge_index, edge_attr))
+        # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
+        # if self.pool_name == 'SAGPooling':
+        #     x, edge_index, edge_attr, batch, _, _ = self.pool1(x, edge_index, edge_attr, batch)
+        # elif self.pool_name == 'TopKPooling':
+        #     x, edge_index, edge_attr, batch, _, _ = self.pool1(x, edge_index, edge_attr, batch)
+        # elif self.pool_name == 'ASAPooling':
+        #     x, edge_index, edge_attr, batch, _ = self.pool1(x, edge_index, edge_attr, batch)
+        # elif self.pool_name == 'EdgePooling':
+        #     x, edge_index, batch, _ = self.pool1(x, edge_index, batch)
+        # elif self.pool_name == 'HGPSLPool':
+        #     x, edge_index, edge_attr, batch = self.pool1(x, edge_index, edge_attr, batch)
+        # x1 = gap(x, batch)
         # x1 = torch.cat([gmp(x, batch), gap(x, batch)], dim=1)
-        x1 = gap(x, batch)
 
-        x = F.relu(self.conv2(x, edge_index, edge_attr))
-        x = F.dropout(x, p=self.dropout_ratio, training=self.training)
-        # x, edge_index, batch, _ = self.pool2(x, edge_index, batch)
-        # x, edge_index, edge_attr, batch, _, _ = self.pool2(x, edge_index, edge_attr, batch)
-        # x, edge_index, edge_attr, batch = self.pool2(x, edge_index, edge_attr, batch)
-        x2 = gap(x, batch)
+        # edge_attr=None
+        # if self.conv_name == 'ChebConv':
+        #     x = F.relu(self.conv2(x, edge_index, edge_attr, batch))
+        # else:
+        #     x = F.relu(self.conv2(x, edge_index, edge_attr))
+        # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
+        # if self.pool_name == 'SAGPooling':
+        #     x, edge_index, edge_attr, batch, _, _ = self.pool2(x, edge_index, edge_attr, batch)
+        # elif self.pool_name == 'TopKPooling':
+        #     x, edge_index, edge_attr, batch, _, _ = self.pool2(x, edge_index, edge_attr, batch)
+        # elif self.pool_name == 'ASAPooling':
+        #     x, edge_index, edge_attr, batch, _ = self.pool2(x, edge_index, edge_attr, batch)
+        # elif self.pool_name == 'EdgePooling':
+        #     x, edge_index, batch, _ = self.pool2(x, edge_index, batch)
+        # elif self.pool_name == 'HGPSLPool':
+        #     x, edge_index, edge_attr, batch = self.pool2(x, edge_index, edge_attr, batch)
+        # x2 = gap(x, batch)
 
-        x = F.relu(self.conv3(x, edge_index, edge_attr))
-        x = F.dropout(x, p=self.dropout_ratio, training=self.training)
-        # x, edge_index, edge_attr, batch = self.pool3(x, edge_index, edge_attr, batch)
-        x3 = gap(x, batch)
+        # edge_attr=None
+        # if self.conv_name == 'ChebConv':
+        #     x = F.relu(self.conv3(x, edge_index, edge_attr, batch))
+        # else:
+        #     x = F.relu(self.conv3(x, edge_index, edge_attr))
+        # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
+        # x3 = gap(x, batch)
         
-        # x = F.relu(self.conv4(x, edge_index))
-        # x, edge_index, edge_attr, batch = self.pool4(x, edge_index, edge_attr, batch)
+        # edge_attr=None
+        # if self.conv_name == 'ChebConv':
+        #     x = F.relu(self.conv4(x, edge_index, edge_attr, batch))
+        # else:
+        #     x = F.relu(self.conv4(x, edge_index, edge_attr))
+        # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
         # x4 = gap(x, batch)
-        
-        # x = F.relu(self.conv5(x, edge_index))
-        # x5 = gap(x, batch)
 
-        x = F.relu(x1) + F.relu(x3) + F.relu(x2)
-        # x = F.relu(x1) + F.relu(x3) + F.relu(x2) + F.relu(x4) + F.relu(x5)
-        # x = torch.cat((F.relu(x1), F.relu(x3)),1)
 
-        # paper_count = (paper_count-torch.min(paper_count))/(torch.max(paper_count)-torch.min(paper_count))
-        paper_count = torch.unsqueeze(paper_count,1)
+        # x = F.relu(x1)
+        # x = F.relu(x1)+F.relu(x2)+F.relu(x3)+F.relu(x4)
 
-        graph_ave_feature = torch.cat((graph_ave_feature, paper_count),1)
-        # print(graph_ave_feature)
-        # graph_ave_feature = self.feature_mlp(graph_ave_feature)
+        # GCN2 forword
+        # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
+        # x = x_0 = self.lins[0](x).relu()
+        # for conv in self.convs:
+        #     x = F.dropout(x, p=self.dropout_ratio, training=self.training)
+        #     x = conv(x, x_0, edge_index, None)
+        #     x = x.relu()
+        # x = F.dropout(x, p=self.dropout_ratio, training=self.training)
+        # x = self.lins[1](x)
+        # x = gap(x, batch)
 
-        # x = torch.cat((x, graph_ave_feature),1)
         x = F.relu(self.lin1(x))
-        x = F.dropout(x, p=self.dropout_ratio, training=self.training)
-        
+        x = F.dropout(x, p=self.dropout_ratio, training=self.training)   
+        paper_count = torch.unsqueeze(paper_count,1)    
         x = torch.cat((x, paper_count),1)
-        x = F.relu(self.lin2(x))
-        
+        x = F.relu(self.lin2(x))    
         x = F.dropout(x, p=self.dropout_ratio, training=self.training)
-        # x = torch.cat((x, graph_ave_feature),1)
         x = F.log_softmax(self.lin3(x), dim=-1)
 
         return x
 
 
-
+# MEWISPool
 class MEWISPool(nn.Module):
     def __init__(self, hidden_dim):
         super(MEWISPool, self).__init__()
@@ -182,7 +373,7 @@ class MEWISPool(nn.Module):
             # entropy computation
             entropies = self.compute_entropy(x, L, A, batch)  # Eq. (8)
         else:
-            A = torch.zeros([batch_nodes, batch_nodes]).to('cuda:1')
+            A = torch.zeros([batch_nodes, batch_nodes]).to('cuda:0')
             norm = torch.norm(x, dim=1).unsqueeze(-1)
             entropies = norm / norm
 
@@ -269,8 +460,8 @@ class MEWISPool(nn.Module):
         A2 = A2[mewis][:, mewis]
         A3 = A3[mewis][:, mewis]
 
-        I = torch.eye(len(mewis)).to('cuda:1')
-        one = torch.ones([len(mewis), len(mewis)]).to('cuda:1')
+        I = torch.eye(len(mewis)).to('cuda:0')
+        one = torch.ones([len(mewis), len(mewis)]).to('cuda:0')
 
         adj_pooled = (one - I) * torch.clamp(A2 + A3, min=0, max=1)
 
@@ -375,7 +566,7 @@ class Net3(nn.Module):
         self.fc2 = nn.Linear(in_features=hidden_dim, out_features=num_classes)
 
     def forward(self, x, edge_index, batch):
-        x = self.gc1(x, edge_index).to('cuda:1')
+        x = self.gc1(x, edge_index).to('cuda:0')
         x = torch.relu(x)
 
         x = self.gc2(x, edge_index)
@@ -403,3 +594,4 @@ class Net3(nn.Module):
         out = self.fc2(out)
 
         return torch.log_softmax(out, dim=-1), loss1 + loss2
+

@@ -1,0 +1,39 @@
+79589210,ON THE DISTRIBUTION OF SOURCE CODE FILE SIZES,2011,19,12,3,0.0,1999395216,Israel Herraiz,0,-0.0041099411153885,0.0447066884760059
+982742101,Identifying and understanding header file hotspots in C/C++ build processes,2016,35,2,4,0.7,2097950673,Shane McIntosh,0,-0.0041099411153885,0.0447066884760059
+1929161383,An empirical study of the effect of file editing patterns on software quality,2014,33,8,4,1.0,2310189995,Feng Zhang,0,0.0007462889478591453,0.12258404293894791
+1983866039,A dataset of the activity of the git super-repository of Linux in 2012,2015,3,4,3,0.123551,2115813666,Daniel M. German,0,-0.34857978327751216,-0.2513987233039086
+1981075560,Studying the relationship between logging characteristics and the code quality of platform software,2015,60,40,3,1.0,2118619547,Weiyi Shang,0,-0.0041099411153885,0.0447066884760059
+1972786057,An empirical study of the copy and paste behavior during development,2015,26,5,3,0.0,2303442124,Tarek M. Ahmed,0,-0.22771620305198464,-0.14703622806478475
+1974648336,Assisting developers of big data analytics applications when deploying on hadoop clouds,2013,20,87,5,1.0,2118619547,Weiyi Shang,0,0.15545641000700294,0.4964778064257391
+2020712120,An Industrial Case Study on Speeding Up User Acceptance Testing by Mining Execution Logs,2010,27,10,4,1.0,2112274628,Zhen Ming Jiang,0,-0.0041099411153885,0.0447066884760059
+2011459220,Predicting Re-opened Bugs A Case Study on the Eclipse Project,2010,36,71,7,0.857143,2308275510,Emad Shihab,0,-0.0041099411153885,0.0447066884760059
+2042600809,Investigating code review practices in defective files an empirical study of the Qt system,2015,39,33,3,0.0,952338112,Patanamon Thongtanunam,0,-0.0041099411153885,0.0447066884760059
+2066331871,Mining Co-change Information to Understand When Build Changes Are Necessary,2014,29,20,4,0.625,2097950673,Shane McIntosh,0,-0.0041099411153885,0.0447066884760059
+2067652224,A Large Scale Empirical Study on User-Centric Performance Analysis,2012,16,1,3,0.0,2490088440,Shahed Zaman,0,-0.0041099411153885,0.0447066884760059
+2069495730,Clustering WSDL Documents to Bootstrap the Discovery of Web Services,2010,22,190,2,0.0,118097491,Khalid Elgazzar,0,-1.6773168553223503,-2.019389629430652
+2062666593,Detecting performance anti-patterns for applications developed using object-relational mapping,2014,41,66,4,1.0,2146002305,Tse Hsun Chen,0,1.7796959800733316,0.2505931792526144
+2087515886,A qualitative study on performance bugs,2012,24,72,3,0.0,2490088440,Shahed Zaman,0,-0.0041099411153885,0.0447066884760059
+2102772625,Replaying development history to assess the effectiveness of change propagation tools,2006,51,43,1,1.0,2110155496,Ahmed E. Hassan,0,0.39737499404995635,-0.013633571474521999
+2081326554,Change impact graphs Determining the impact of prior codechanges,2009,31,30,2,0.123551,2115813666,Daniel M. German,0,-0.0041099411153885,0.0447066884760059
+2101341488,MapReduce as a general framework to support research in Mining Software Repositories (MSR),2009,19,48,4,1.0,2118619547,Weiyi Shang,0,-0.0041099411153885,0.0447066884760059
+2109548412,An Empirical Study of the Effect of File Editing Patterns on Software Quality,2012,31,16,4,1.0,2310189995,Feng Zhang,0,0.0007462889478591453,0.12258404293894791
+2115591574,System and method for searching a remote database,2004,22,98,1,1.0,2110155496,Ahmed E. Hassan,0,2.1952042803338094,0.6349081330732044
+2133464983,TA-RE an exchange language for mining software repositories,2006,23,25,4,0.0,2164738181,Sunghun Kim,0,-0.0041099411153885,0.0447066884760059
+2134091519,Measuring the progress of projects using the time dependence of code changes,2009,29,11,3,0.0,2011845727,Omar Alam,0,-0.0041099411153885,0.0447066884760059
+2159294330,Should I contribute to this discussion,2010,30,25,5,0.0,2294634453,Walid M. Ibrahim,0,-0.2019770043962722,0.34455384290104385
+2150733339,An empirical study of dormant bugs,2014,35,33,4,1.0,2146002305,Tse Hsun Chen,0,-0.25142422156114436,0.21929531271583175
+2150786161,The top ten list dynamic fault prediction,2005,15,160,1,1.0,2110155496,Ahmed E. Hassan,0,-0.0041099411153885,0.0447066884760059
+2154071459,Explaining software defects using topic models,2012,37,47,4,1.0,2146002305,Tse Hsun Chen,0,-0.0041099411153885,0.0447066884760059
+2149488143,An automated approach for abstracting execution logs to execution events,2008,24,70,2,1.0,2112274628,Zhen Ming Jiang,0,-2.0972444828031533,-1.4440068337629972
+2146503100,What Can OSS Mailing Lists Tell Us A Preliminary Psychometric Text Analysis of the Apache Developer Mailing List,2007,17,79,2,0.0,2113253570,Peter C. Rigby,0,-0.2019770043962722,0.34455384290104385
+2333603634,Magnet or Sticky Measuring Project Characteristics from the Perspective of Developer Attraction and Retention,2016,39,10,4,0.0,2100582294,Kazuhiro Yamashita,0,-0.0041099411153885,0.0447066884760059
+2404555615,An empirical study on the practice of maintaining object-relational mapping code in Java systems,2016,45,8,4,0.75,2146002305,Tse Hsun Chen,0,1.4825780628872318,0.5218514522880842
+2398995299,Examining the Stability of Logging Statements,2016,30,18,4,1.0,2405195653,Suhas Kabinna,0,-0.0041099411153885,0.0447066884760059
+2397554829,Detecting problems in the database access code of large scale systems an industrial experience report,2016,16,12,3,0.75,2146002305,Tse Hsun Chen,0,0.7187402815786187,0.029402611537861473
+2400577739,Logging library migrations a case study for the apache software foundation projects,2016,14,28,4,1.0,2405195653,Suhas Kabinna,0,-0.0041099411153885,0.0447066884760059
+2531425405,Which log level should developers choose for a new logging statement,2017,38,26,3,0.857143,2257893379,Heng Li,0,-0.5719432721457858,1.2218260143545892
+2546913659,CacheOptimizer helping developers configure caching frameworks for hibernate-based database-centric web applications,2016,48,21,3,0.75,2146002305,Tse Hsun Chen,0,-0.14335414999407356,-0.437408708734982
+2514099307,What Do Client Developers Concern When Using Web APIs An Empirical Study on Developer Forums and Stack Overflow,2016,25,15,5,0.0,2679490748,Pradeep K. Venkatesh,0,-1.636247032459737,-1.711711822210547
+2604153767,An empirical study of unspecified dependencies in make-based build systems,2017,20,8,5,1.0,2345126096,Cor Paul Bezemer,0,0.23010602463502755,-0.3264267451252703
+2626180518,Examining the stability of logging statements,2018,44,6,5,1.0,2405195653,Suhas Kabinna,0,-0.0041099411153885,0.0447066884760059
+2795723669,Which log level should developers choose for a new logging statement (journal-first abstract),2018,1,1,3,0.857143,2257893379,Heng Li,0,-0.5719432721457858,1.2218260143545892

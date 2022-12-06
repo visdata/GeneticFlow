@@ -1,0 +1,107 @@
+206977409,Fast Incremental Index-ing for Full-Text IR,1994,0,1,2,0.0,2127889770,W. Bruce Croft,0,0.796835981627807,-0.4740567259277684
+2808882,Combination of Evidence for Effective Web Search,2010,14,9,2,0.0,2112184148,Dong Nguyen,0,0.003708468606338,0.082832279151172
+233242456,Meeting of the MINDS,2007,0,0,5,0.0,676500258,Susan T. Dumais,0,-0.02361490712827675,0.2709295199642215
+331574839,Entity List Completion Using Set Expansion Techniques,2010,4,12,2,0.75,2081006310,Bhavana Dalvi,0,-0.381524806053741,0.07328584815286965
+267875035,Towards a Simple and Efficient Web Search Framework,2014,22,1,2,0.0,2722755032,Di Xu,0,-0.08703592043353428,0.11150211439599773
+311242828,Modelling Psychological Needs for User-dependent Contextual Suggestion,2014,10,2,2,0.0,2722755032,Di Xu,0,0.32500644686719404,-0.16792736918858178
+322337409,Collectively Representing Semi-Structured Data from the Web,2012,11,1,3,0.75,2081006310,Bhavana Dalvi,0,-1.0780205210171425,0.09805234250968997
+1489635598,Extending Relevance Model for Relevance Feedback,2008,6,5,3,0.833333,2128023902,Le Zhao,0,1.116060298488493,-0.2793644663048043
+1230283387,Information Filtering Novelty Detection and Named-Page Finding,2002,17,56,4,1.0,2088682983,Kevyn Collins Thompson,0,0.003708468606338,0.082832279151172
+1501491257,Distributed information retrieval with skewed database size distributions,2003,7,8,2,0.625,2127260490,Luo Si,0,0.003708468606338,0.082832279151172
+1565905204,Parameter estimation for a simple hierarchical generative model for XML retrieval,2005,5,8,2,0.771429,2343510206,Paul Ogilvie,0,-0.5442538671051075,-0.0015272632806924008
+1566102133,Combining Structural Information and the Use of Priors in Mixed Named-Page and Homepage Finding,2003,6,15,2,0.913043,2343510206,Paul Ogilvie,0,0.003708468606338,0.082832279151172
+1557207628,Retrieval and Feedback Models for Blog Distillation,2007,8,33,3,0.807692,2132217740,Jonathan L. Elsas,0,-0.11300819442795465,0.09518744858596301
+1795627003,The Effects of Query-Based Sampling on Automatic Database Selection Algorithms,2000,0,26,4,0.5,2104166606,Allison L. Powell,0,-0.3604817651449393,0.20792011353135684
+1604381474,Pairwise Document Classification for Relevance Feedback,2009,12,3,3,0.807692,2132217740,Jonathan L. Elsas,0,0.2864498752537495,0.2638276749807396
+1586685689,A methodology for evaluating aggregated search results,2011,18,58,3,0.75,2128535409,Jaime Arguello,0,0.003708468606338,0.082832279151172
+1605303400,Effective and Efficient Automatic Database Selection,1999,0,11,1,1.0,2148123616,Jamie Callan,0,0.4199534456078538,0.6232260773773967
+1596258944,Document representation and query expansion models for blog recommendation,2008,22,100,3,1.0,2128535409,Jaime Arguello,0,0.2760686914920045,0.010352981646055665
+1645278095,Query Transformations for Result Merging,2014,19,5,2,0.0,2695434873,Shriphani Palakodety,0,0.04332856803469206,-0.11199624232893013
+1599462034,Federated search of text-based digital libraries in hierarchical peer-to-peer networks,2005,25,82,2,1.0,2779490663,Jie Lu,0,0.22046278482571166,0.4149466153583954
+1862957262,The Effect of Database Size Distribution on Resource Selection Algorithms,2003,9,11,2,0.625,2127260490,Luo Si,0,0.08329114195231535,0.32893178638165566
+1968067123,Knowledge-based extraction of named entities,2002,8,31,2,0.0,2122875534,Teruko Mitamura,0,-0.30071680640174026,-0.47806745469300266
+1982643343,Predicting reading difficulty with statistical language models,2005,28,123,2,1.0,2088682983,Kevyn Collins Thompson,0,0.43162625009792,0.20195636031746017
+1975727675,Constructing effective and efficient topic-specific authority networks for expert finding in social media,2014,12,11,2,1.0,665239631,Reyyan Yeniterzi,0,0.003708468606338,0.082832279151172
+1976044263,Pruning long documents for distributed information retrieval,2002,12,23,2,0.913043,2779490663,Jie Lu,0,-0.12514837823303518,0.12057452351012286
+1986715529,A generative retrieval model for structured documents,2008,17,12,2,0.833333,2128023902,Le Zhao,0,-0.2518018174873231,-0.06891435212514435
+1984918470,Selective Search Efficient and Effective Search of Large Textual Collections,2015,60,20,2,0.533333,2187942432,Anagha Kulkarni,0,0.6066616852252525,-1.6834346658492574
+1986828474,Query-based sampling of text databases,2001,39,353,2,0.863636,2121111690,Margaret E. Connell,0,-0.08261553148044999,0.10039300136693537
+1971099709,The impact of history length on personalized search,2008,4,8,2,0.0,2149995750,Yangbo Zhu,0,0.6066616852252525,-1.6834346658492574
+1965893683,Automatically labeling hierarchical clusters,2006,11,94,2,0.0,2308333858,Pucktada Treeratpituk,0,-0.6141483255037321,1.3442907255026189
+1981825277,Novelty and redundancy detection in adaptive filtering,2002,14,382,3,1.0,2671671868,Yi Zhang,0,0.23025472340027311,0.1246786604207476
+1987283909,Search engine support for software applications,2010,0,3,1,1.0,2148123616,Jamie Callan,0,0.24235527281679764,-0.12158136048843278
+2005045763,Analyzing bias in CQA-based expert finding test sets,2014,4,7,2,1.0,665239631,Reyyan Yeniterzi,0,-0.17768346192212375,0.0848641959637884
+2005066702,Classification-based resource selection,2009,25,53,2,0.8,2128535409,Jaime Arguello,0,-0.11300819442795465,0.09518744858596301
+2009018050,Unified utility maximization framework for resource selection,2004,21,61,2,0.567568,2127260490,Luo Si,0,0.44852404092209075,-0.17813989511954217
+1995304354,How Random Decisions Affect Selective Distributed Search,2015,5,3,3,1.0,2398480995,Zhuyun Dai,0,0.0511360199132844,0.32692302325556677
+1992053235,Comparing the performance of database selection algorithms,1999,24,142,7,0.467922,2106057372,James C. French,0,0.23292969589986307,-0.4010153221270767
+2002682102,Relevant document distribution estimation method for resource selection,2003,14,230,2,0.625,2127260490,Luo Si,0,-0.04920892429907685,0.06491516537118175
+2022377611,Document filtering with inference networks,1996,12,100,1,1.0,2148123616,Jamie Callan,0,-0.6395593638760122,0.4738664505712176
+2025910815,Structured retrieval for question answering,2007,19,77,3,0.0,88228259,Matthew W. Bilotti,0,-0.20710517383748414,0.018956683563984902
+2015770094,Panel on use of proprietary data,2012,5,11,1,1.0,2148123616,Jamie Callan,0,0.003708468606338,0.082832279151172
+2014064503,An effective and efficient results merging strategy for multilingual information retrieval in federated search environments,2008,22,15,2,0.408652,2127260490,Luo Si,0,0.003708468606338,0.082832279151172
+2029911720,Using sampled data and regression to merge search engine results,2002,24,74,2,0.625,2127260490,Luo Si,0,0.003708468606338,0.082832279151172
+2012426233,Effective retrieval with distributed collections,1998,23,155,2,0.0,2139528224,Jinxi Xu,0,-0.10570194695329775,0.17354967657976622
+2024791376,WebSets extracting sets of entities from the web using unsupervised information extraction,2012,27,75,3,0.75,2081006310,Bhavana Dalvi,0,-0.10100842966907915,-0.20660265357117202
+2028709054,Query expansion using random walk models,2005,30,162,2,1.0,2088682983,Kevyn Collins Thompson,0,-0.11300819442795465,0.09518744858596301
+2026968007,Near-duplicate detection by instance-level constrained clustering,2006,15,86,2,0.9,2237013446,Hui Yang,0,-0.7344185025229686,1.699576229378802
+2019973434,Retrieval and feedback models for blog feed search,2008,20,152,3,0.807692,2132217740,Jonathan L. Elsas,0,-0.11300819442795465,0.09518744858596301
+2011516515,Maximum likelihood estimation for filtering thresholds,2001,17,108,2,0.869565,2671671868,Yi Zhang,0,0.003708468606338,0.082832279151172
+2034673321,A language modeling approach to entity recognition and disambiguation for search queries,2014,14,8,3,0.75,2081006310,Bhavana Dalvi,0,0.2411296976350509,0.19514062197806442
+2035127985,Modeling search engine effectiveness for federated search,2005,20,70,2,0.553717,2127260490,Luo Si,0,0.8087313054130023,-2.0197004368110454
+2037320173,The impact of database selection on distributed searching,2000,25,137,5,0.5,2104166606,Allison L. Powell,0,-1.504317753627748,0.42799138391181274
+2039346806,Incremental hierarchical clustering of text documents,2006,33,106,2,0.0,2303536370,Nachiketa Sahoo,0,-0.8667525577959383,2.976567647477731
+2053564603,The CIKM 2005 workshop on information retrieval in peer-to-peer networks,2006,0,4,3,0.0,2242618625,Henrik Nottelmann,0,0.984781936104207,-0.28272964416512464
+2036181041,Estimation and use of uncertainty in pseudo-relevance feedback,2007,19,85,2,1.0,2088682983,Kevyn Collins Thompson,0,-0.11300819442795465,0.09518744858596301
+2036295879,Document allocation policies for selective searching of distributed indexes,2010,22,42,2,0.75,2187942432,Anagha Kulkarni,0,-0.11300819442795465,0.09518744858596301
+2055629782,EsdRank Connecting Query and Documents through External Semi-Structured Data,2015,27,48,2,1.0,2226924701,Chenyan Xiong,0,-0.5256527258652967,0.3199343005776563
+2061069349,Creating and evaluating multi-document sentence extract summaries,2000,23,74,4,0.0,2304141704,Jade Goldstein,0,-0.2642059490552829,-0.03847512483589105
+2061089812,Effective and efficient structured retrieval,2009,13,9,2,0.833333,2128023902,Le Zhao,0,-0.08562259572538075,0.07438172350153523
+2055859287,The effectiveness of query expansion for distributed information retrieval,2001,16,32,2,0.913043,2343510206,Paul Ogilvie,0,-0.01657107088421793,0.035389748403282274
+2068377783,An annotation similarity model in passage ranking for historical fact validation,2014,20,7,2,0.0,2250352642,Jun Araki,0,-0.013964045192097171,-0.09371249289512741
+2059762315,Feature selection for automatic taxonomy induction,2009,8,6,2,0.9,2237013446,Hui Yang,0,1.1550973592488816,-0.978199327955286
+2060030398,Automatic term mismatch diagnosis for selective query expansion,2012,32,22,2,1.0,2128023902,Le Zhao,0,-0.01657107088421793,0.035389748403282274
+2074100742,Language model for IR using collection information,2002,3,3,4,0.571429,2142724104,Rong Jin,0,0.08655504232397777,0.08109214821775419
+2077948748,Term necessity prediction,2010,25,53,2,1.0,2128023902,Le Zhao,0,-0.30700812930806176,-0.16533452328818385
+2097674647,Collaborative filtering with decoupled models for preferences and ratings,2003,11,83,4,0.571429,2142724104,Rong Jin,0,0.9650664652314371,0.14256770262743643
+2083745421,Combining document representations for known-item search,2003,18,217,2,0.913043,2343510206,Paul Ogilvie,0,-1.2329866896936603,-0.14212565142270417
+2112492518,Collection selection and results merging with topically organized US patents and TREC data,2000,19,86,3,0.0,1222741431,Leah S. Larkey,0,-0.04920892429907685,0.06491516537118175
+2113381424,Knowledge Transfer and Opinion Detection in the TREC2006 Blog Track,2006,0,53,2,0.523274,2127260490,Luo Si,0,0.6977312699472681,0.21057477318911547
+2108172824,Combining Multiple Resources Evidences and Criteria for Genomic Information Retrieval,2006,2,11,3,0.523274,2127260490,Luo Si,0,0.4878643641629618,0.0019601115471040986
+2137845970,Automatic discovery of language models for text databases,1999,14,141,3,0.863636,2121111690,Margaret E. Connell,0,-1.9947947429708037,0.6363323774720252
+2134842174,Sources of evidence for vertical selection,2009,18,155,3,0.8,2128535409,Jaime Arguello,0,0.003708468606338,0.082832279151172
+2165341192,Exploration and exploitation in adaptive filtering based on Bayesian active learning,2003,16,32,3,1.0,2671671868,Yi Zhang,0,0.8776680742443249,0.45208381503500666
+2150585057,Learning to aggregate vertical results into web search results,2011,17,58,3,0.75,2128535409,Jaime Arguello,0,0.003708468606338,0.082832279151172
+2171546502,On the number of terms used in automatic query expansion,2009,24,36,3,0.691549,2343510206,Paul Ogilvie,0,-0.11300819442795465,0.09518744858596301
+2161185282,An experimental study on automatically labeling hierarchical clusters using statistical features,2006,4,9,2,0.0,2308333858,Pucktada Treeratpituk,0,-0.999709568096225,2.99774528844187
+2152830316,User modeling for full-text federated search in peer-to-peer networks,2006,20,53,2,1.0,2779490663,Jie Lu,0,0.003708468606338,0.082832279151172
+2171144050,Shard ranking and cutoff estimation for topically partitioned collections,2012,33,27,4,0.75,2187942432,Anagha Kulkarni,0,0.2276513881513862,0.4077141828162098
+2244033198,Should We Use the Sample Analyzing Datasets Sampled from Twitterâ€™s Stream API,2015,35,22,2,0.0,2095619260,Yazhe Wang,0,0.09869918664672195,-0.18633352365711692
+2255505270,Barbara Made the News Mining the Behavior of Crowds for Time-Aware Learning to Rank,2016,32,11,3,1.0,2296538460,FlÃ¡vio Martins,0,0.09869918664672195,-0.18633352365711692
+2224858928,Moving from Static to Dynamic Modeling of Expertise for Question Routing in CQA Sites,2015,7,8,2,1.0,665239631,Reyyan Yeniterzi,0,0.1593803777294989,0.2946126764763919
+2283472011,Robust model estimation methods for information retrieval,2008,70,15,2,1.0,2088682983,Kevyn Collins Thompson,0,0.43881177101136376,0.0056192660492452974
+2307814545,Toward Reproducible Baselines The Open-Source IR Reproducibility Challenge,2016,16,46,4,0.0,2163619555,Jimmy Lin,0,0.003708468606338,0.082832279151172
+2412124276,Does Selective Search Benefit from WAND Optimization,2016,24,8,2,0.9375,2108249293,Yubin Kim,0,0.0511360199132844,0.32692302325556677
+2467890656,Load-Balancing in Distributed Selective Search,2016,9,12,2,0.9375,2108249293,Yubin Kim,0,0.003708468606338,0.082832279151172
+2500704217,Parameter estimation for a simple hierarchical generative model for XML retrieval,2006,0,18,2,0.721868,2343510206,Paul Ogilvie,0,-0.5442538671051075,-0.0015272632806924008
+2461925906,An Empirical Study of Learning to Rank for Entity Search,2016,6,17,3,0.0,2485642368,Jing Chen,0,0.2411296976350509,0.19514062197806442
+2537986768,Query-Biased Partitioning for Selective Search,2016,22,8,3,1.0,2398480995,Zhuyun Dai,0,-0.14364487563625908,0.28059113160457755
+2556771250,Efficient distributed selective search,2017,65,13,2,1.0,2108249293,Yubin Kim,0,0.003708468606338,0.082832279151172
+2551583912,Topic-based Index Partitions for Efficient and Effective Selective Search,2010,16,12,2,0.75,2187942432,Anagha Kulkarni,0,-0.4302433191740202,1.0578077533517538
+2583846922,Near-duplicate detection for eRulemaking,2005,13,10,2,0.9,2237013446,Hui Yang,0,-0.5992351075025019,0.7282032637891832
+2648699835,End-to-End Neural Ad-hoc Ranking with Kernel Pooling,2017,24,133,3,0.753025,2226924701,Chenyan Xiong,0,0.003708468606338,0.082832279151172
+2604165577,Explicit Semantic Ranking for Academic Search via Knowledge Graph Embedding,2017,28,82,3,0.753025,2226924701,Chenyan Xiong,0,0.003708468606338,0.082832279151172
+2736085271,Scientific Table Search Using Keyword Queries,2017,4,3,2,0.0,2735332881,Kyle Yingkai Gao,0,0.8386329776188489,-0.8940826959426625
+2740492458,DBpedia-Entity v2 A Test Collection for Entity Search,2017,25,21,7,0.0,2052423717,Faegheh Hasibi,0,0.35233513911677605,-0.7424608858316728
+2767334383,JointSem Combining Query Entity Linking and Entity based Document Ranking,2017,9,5,3,0.753025,2226924701,Chenyan Xiong,0,0.003708468606338,0.082832279151172
+2740167245,De-duping URLs with Sequence-to-Sequence Neural Networks,2017,12,1,3,1.0,2739615700,Keyang Xu,0,-0.3874438168439694,-2.914945677058822
+2740256306,Learning To Rank Resources,2017,16,9,3,1.0,2398480995,Zhuyun Dai,0,0.003708468606338,0.082832279151172
+2798984085,Consistency and Variation in Kernel Neural Ranking Model,2018,11,3,6,0.0,2798457573,Mary Arpita Pyreddy,0,0.003708468606338,0.082832279151172
+2798995557,Dynamic Shard Cutoff Prediction for Selective Search,2018,44,3,3,0.0,2799009035,Hafeezul Rahman Mohammad,0,0.003708468606338,0.082832279151172
+2793352379,Inverted List Caching for Topical Index Shards,2018,8,1,2,1.0,2398480995,Zhuyun Dai,0,0.4756966566501622,0.770659154080068
+2783640434,Convolutional Neural Networks for Soft-Matching N-Grams in Ad-hoc Search,2018,31,65,3,1.0,2398480995,Zhuyun Dai,0,0.003708468606338,0.082832279151172
+2905375078,Modeling Temporal Evidence from External Collections,2019,39,0,3,1.0,2296538460,FlÃ¡vio Martins,0,-0.010775494722934468,-0.08837480976449329
+2891508689,Measuring the Effectiveness of Selective Search Index Partitions without Supervision,2018,19,0,2,1.0,2108249293,Yubin Kim,0,-0.23596603161225885,0.32842752035054174
+2914091119,Local Matching Networks for Engineering Diagram Search,2019,26,1,4,1.0,2398480995,Zhuyun Dai,0,0.003708468606338,0.082832279151172
+2891958762,A Vertical PRF Architecture for Microblog Search,2018,32,1,3,1.0,2296538460,FlÃ¡vio Martins,0,-0.010775494722934468,-0.08837480976449329
+2989254660,The effect of database size Distribution on resource selection algorithms,2004,0,10,2,0.567568,2127260490,Luo Si,0,0.08329114195231535,0.32893178638165566

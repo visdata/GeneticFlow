@@ -1,0 +1,47 @@
+6804174,REDACT a framework for sanitizing RDF data,2013,1,4,3,1.0,210637256,Jyothsna Rachapalli,0,-0.39040501381267817,0.0678282925157182
+1541018965,Managing risks in RBAC employed distributed environments,2007,15,4,2,0.0,954241898,Ebru Celikel,0,-0.3540001445504167,0.5967299891485763
+1514496236,Secure Data Processing in a Hybrid Cloud,2011,17,6,2,0.708333,2061582783,Vaibhav Khadilkar,0,-0.20133665475165913,-0.19110780330684465
+1524294845,A hybrid private record linkage scheme Separating differentially private synopses from matching records,2015,27,11,4,0.0,2164916867,Jianneng Cao,0,-0.0041099411153885,0.0447066884760059
+1552283367,Query Optimization in Encrypted Relational Databases by Vertical Schema Partitioning,2009,20,10,2,0.571429,2266279181,Mustafa Canim,0,0.7911268664844464,0.2740889828874177
+1508926539,An Approach to Evaluate Data Trustworthiness Based on Data Provenance,2008,15,105,4,0.625,2142270514,Chenyun Dai,0,-0.18191538844973745,0.2151961216616199
+1540362173,Query Processing Techniques for Compliance with Data Confidence Policies,2009,18,9,3,0.625,2142270514,Chenyun Dai,0,-0.0873632243068517,-0.0824034282341078
+1589144695,Design and analysis of querying encrypted data in relational databases,2007,16,15,2,0.571429,2266279181,Mustafa Canim,0,0.5325669973310596,0.09709227568458595
+1819533518,Honeypot based unauthorized data access detection in MapReduce systems,2015,25,6,2,0.9,2136053255,Huseyin Ulusoy,0,0.16377562843363944,0.1671341220282913
+1894699249,A Hybrid Technique for Private Location-Based Queries with Database Protection,2009,28,24,3,0.224466,141097756,Gabriel Ghinita,0,-0.0041099411153885,0.0447066884760059
+1585030920,Privacy-aware dynamic feature selection,2015,44,11,2,1.0,291334762,Erman Pattuk,0,0.06635930819191084,0.49152641060504293
+1975431506,Efficient privacy-aware record integration,2013,27,37,2,1.0,2305825700,Mehmet Kuzu,0,-0.0041099411153885,0.0447066884760059
+1968606833,A Hybrid Approach to Private Record Linkage,2008,27,80,2,0.705882,2138288751,Ali Inan,0,-0.0041099411153885,0.0447066884760059
+2008565899,Formal anonymity models for efficient privacy-preserving joins,2009,53,16,1,1.0,332400322,Murat Kantarcioglu,0,0.18526263338877055,-0.1799658802487775
+2003500686,Secure multidimensional range queries over outsourced data,2012,74,163,4,0.0,2672405706,Bijit Hore,0,0.3820908385543769,0.2117467783858426
+2002352982,Tools for privacy preserving distributed data mining,2002,16,753,1,1.0,332400322,Murat Kantarcioglu,0,-0.0041099411153885,0.0447066884760059
+2026480431,Extended RBAC-based design and implementation for a secure data warehouse,2007,15,18,2,0.0,2298201484,Bhavani Thuraisingham,0,-0.18452452702206623,0.6194721247709496
+2031854876,A Practical and Secure Multi-keyword Search Method over Encrypted Cloud Data,2013,19,44,2,0.0,202441871,Cengiz Ã–rencik,0,-0.0041099411153885,0.0447066884760059
+2032127253,Efficient Similarity Search over Encrypted Data,2012,22,158,3,0.875,2305825700,Mehmet Kuzu,0,-0.0041099411153885,0.0447066884760059
+2054514509,Private record matching using differential privacy,2010,26,112,2,0.692308,2138288751,Ali Inan,0,-0.0041099411153885,0.0447066884760059
+2044407219,SEMROD Secure and Efficient MapReduce Over HybriD Clouds,2015,20,13,4,0.666667,2052481239,Kerim Yasin Oktay,0,0.134657695340971,-0.0201095870691837
+2034159377,Transforming semi-honest protocols to ensure accountability,2008,28,40,3,0.0,2675954469,Wei Jiang,0,-0.0041099411153885,0.0447066884760059
+2091095338,The applicability of the perturbation based privacy preserving data mining for real-world data,2008,22,77,2,0.0,2723019785,Li Liu,0,-0.0041099411153885,0.0447066884760059
+2100095839,Inference attack against encrypted range queries on outsourced databases,2014,24,26,3,1.0,2289131950,Mohammad Saiful Islam,0,0.2657856797705482,0.14689219539098033
+2087822702,Vigiles Fine-Grained Access Control for MapReduce Systems,2014,23,31,2,0.9,2136053255,Huseyin Ulusoy,0,-0.08236479756234295,0.4093661839418941
+2088914994,Redaction based RDF access control language,2014,4,0,3,1.0,210637256,Jyothsna Rachapalli,0,-0.17907394717992528,0.335876432921492
+2137972841,The Challenge of Assuring Data Trustworthiness,2009,24,16,3,0.0,717547165,Elisa Bertino,0,-0.2704928630327898,0.6422793697232282
+2108563232,Privacy-preserving distributed data mining and processing on horizontally partitioned data,2005,65,3,1,1.0,332400322,Murat Kantarcioglu,0,-0.31502751051565125,0.12932647227514027
+2112022568,Privacy-preserving distributed mining of association rules on horizontally partitioned data,2004,22,755,1,1.0,332400322,Murat Kantarcioglu,0,-1.0447779286643335,-0.0035319965167910175
+2135845664,Building disclosure risk aware query optimizers for relational databases,2010,14,19,2,0.5,2266279181,Mustafa Canim,0,0.8778557184558151,0.19096605224210253
+2133389305,Efficient privacy-aware search over encrypted databases,2014,14,7,3,1.0,2305825700,Mehmet Kuzu,0,0.2729945596745045,-0.1560047870672336
+2125129370,GuardMR Fine-grained Security Policy Enforcement for MapReduce Systems,2015,23,27,4,0.9,2136053255,Huseyin Ulusoy,0,0.06635930819191084,0.49152641060504293
+2119675572,A Privacy-Preserving Framework for Integrating Person-Specific Databases,2008,26,24,1,1.0,332400322,Murat Kantarcioglu,0,-0.0041099411153885,0.0447066884760059
+2113808602,Approximate and exact hybrid algorithms for private nearest-neighbor queries with database protection,2011,30,34,3,0.224466,141097756,Gabriel Ghinita,0,-0.0041099411153885,0.0447066884760059
+2114330123,Data Intensive Query Processing for Large RDF Graphs Using Cloud Computing Tools,2010,21,64,3,0.0,2110466588,Mohammad Farhan Husain,0,-0.39040501381267817,0.0678282925157182
+2148130403,Using Anonymized Data for Classification,2009,32,66,2,0.705882,2138288751,Ali Inan,0,0.13498894432094743,0.23429691250482196
+2154821520,Toward a Real-Time Cloud Auditing Paradigm,2013,8,0,2,0.0,2147135101,Robert Nix,0,-0.0041099411153885,0.0447066884760059
+2272656217,RDF-X a language for sanitizing RDF graphs,2014,2,0,3,1.0,210637256,Jyothsna Rachapalli,0,-0.39040501381267817,0.0678282925157182
+2295033107,Jena-HBase a distributed scalable and efficient RDF triple store,2012,4,55,1,1.0,332400322,Murat Kantarcioglu,0,-0.39040501381267817,0.0678282925157182
+2296458221,Sovereign Joins,2006,27,55,3,0.0,2138427228,Rakesh Agrawal,0,-0.0041099411153885,0.0447066884760059
+2484536203,Secure Data Provenance,2014,0,0,1,1.0,332400322,Murat Kantarcioglu,0,-0.0041099411153885,0.0447066884760059
+2422454030,Optimizing secure classification performance with privacy-aware feature selection,2016,37,2,2,1.0,291334762,Erman Pattuk,0,-0.0041099411153885,0.0447066884760059
+2505196047,A Practical Framework for Executing Complex Queries over Encrypted Multimedia Data,2016,25,0,2,0.0,2560262949,Fahad Shaon,0,0.3198315631973457,0.3554924406155953
+2727806322,RETRO A framework for semantics preserving SQL-to-SPARQL translation,2011,11,7,2,1.0,210637256,Jyothsna Rachapalli,0,0.21471672359124058,0.23194268432398743
+2615336406,Secure and Efficient Query Processing over Hybrid Clouds,2017,32,7,2,0.666667,2052481239,Kerim Yasin Oktay,0,0.012222183541733683,-0.06920335531295455
+3003012301,Leveraging Blockchain for Immutable Logging and Querying Across Multiple Sites,2020,4,0,2,0.0,3002421440,Mustafa Safa Ã–zdayi,0,0.22491689955898989,0.17071087971123575
+3010347024,Securing Big Data in the Age of AI,2019,2,0,1,1.0,332400322,Murat Kantarcioglu,0,0.2352345030531128,0.5810813348239592

@@ -1,0 +1,77 @@
+206350225,Mining databases with different schemas integrating incompatible classifers,1998,9,18,2,1.0,222714987,Andreas L. Prodromidis,0,0.21438872843298346,-0.1353423822296997
+156266736,Minimal cost complexity pruning of meta-classifiers,1999,8,2,2,1.0,222714987,Andreas L. Prodromidis,0,0.11828697288617515,0.29611841944504114
+60297231,Automated Intrusion Detection Methods Using NFR,1999,7,1,1,1.0,2021877992,Salvatore J. Stolfo,0,1.240949170171389,0.403700071828479
+145450961,Toward scalable learning with non-uniform class and cost distributions a case study in credit card fraud detection,1998,14,362,2,0.857143,2098876098,Philip K. Chan,0,0.003708468606338,0.082832279151172
+197787436,Learning arbiter and combiner trees from partitioned data for scaling machine learning,1995,10,50,2,0.857143,2098876098,Philip K. Chan,0,0.021108264828641293,0.127665894539384
+148963669,Synthetic Data Generation and Defense in Depth Measurement of Web Applications,2014,20,6,4,1.0,2007844790,Nathaniel Boggs,0,0.06418897881344064,-1.31228364415969
+149175888,Combining Knowledge Discovery and Knowledge Engineering to Build IDSs,1999,9,17,2,0.857143,2155626625,Wenke Lee,0,0.06406665972030047,0.002760143819160843
+1011453836,Adaptive Model Generation,2002,18,6,4,0.0,2143722315,Andrew Honig,0,1.0552000259606353,0.5317334304617677
+1505413782,Markov Models for Network-Behavior Modeling and Anonymization,2011,19,4,1,1.0,2021877992,Salvatore J. Stolfo,0,0.003708468606338,0.082832279151172
+1523472376,An extensible meta-learning approach for scalable and accurate inductive learning,1996,0,71,1,1.0,2021877992,Salvatore J. Stolfo,0,-0.39803450912536875,3.532376979793604
+1524929535,Online Training and Sanitization of AD Systems,2007,10,0,2,0.6,177051771,Michael E. Locasto,0,-0.06692477550595533,-0.05286211925428821
+1499330367,Detecting probes and scans over high-bandwidth long-term incomplete network traffic information using limited memory,2003,19,39,1,1.0,2021877992,Salvatore J. Stolfo,0,0.25279980089418275,0.356263393655007
+1535668279,One Class Support Vector Machines for Detecting Anomalous Windows Registry Accesses,2003,14,126,3,0.9,299775663,Angelos D. Keromytis,0,0.003708468606338,0.082832279151172
+1492088121,A comparative evaluation of voting and meta-learning on partitioned data,1995,21,133,2,0.857143,2098876098,Philip K. Chan,0,-0.6157517366543732,3.2599300396045297
+1527992010,A Data Mining and CIDF Based Approach for Detecting Novel and Distributed Intrusions,2000,12,107,7,0.857143,2155626625,Wenke Lee,0,-0.17592424560850992,0.5350561715409081
+1546570283,Adaptive Model Generation for Intrusion Detection Systems,2000,16,61,2,0.54717,642640030,Eleazar Eskin,0,1.243904560697569,0.4113893436895201
+1502234097,A coding approach to event correlation,1995,6,208,5,0.0,2652822084,S. Klinger,0,0.003708468606338,0.082832279151172
+1556876446,Systems methods and media for generating sanitized data sanitizing anomaly detection models and/or generating sanitized anomaly detection models,2013,58,24,3,1.0,177051771,Michael E. Locasto,0,0.20279561436658805,0.0753070172078775
+1557330830,Automated Intrusion Detection Using NFR Methods and Experiences,1999,6,21,3,0.857143,2155626625,Wenke Lee,0,1.236792202868564,0.639994210514406
+1504199874,Methods media and systems for detecting an anomalous sequence of function calls,2007,322,81,2,0.9,299775663,Angelos D. Keromytis,0,0.003708468606338,0.082832279151172
+1567125377,On the Accuracy of Meta-learning for Scalable Data Mining,1997,21,135,2,0.857143,2098876098,Philip K. Chan,0,-0.7026214106720404,3.3360361540749253
+1792904922,A comparative evaluation of two algorithms for Windows Registry Anomaly Detection,2005,27,61,1,1.0,2021877992,Salvatore J. Stolfo,0,-0.17592424560850992,0.5350561715409081
+1627728918,Adaptive Intrusion Detection A Data Mining Approach,2000,31,292,2,0.857143,2155626625,Wenke Lee,0,-0.4620597017661742,0.39293620714793576
+1747767590,Adaptive Anomaly Detection via Self-calibration and Dynamic Updating,2009,36,26,4,0.0,261482566,Gabriela F. Cretu Ciocarlie,0,0.20279561436658805,0.0753070172078775
+1800991598,Toward cost-sensitive modeling for intrusion detection and response,2002,17,257,4,0.557729,2155626625,Wenke Lee,0,0.003096474151226806,0.2601437891843497
+1933336717,System and methods for intrusion detection with dynamic window sizes,2002,11,82,2,0.605263,642640030,Eleazar Eskin,0,0.25279980089418275,0.356263393655007
+1805969819,Data sanitization improving the forensic utility of anomaly detection systems,2007,15,14,2,0.9,299775663,Angelos D. Keromytis,0,0.3024941206384012,0.2601028475248656
+1588116921,Algorithms for mining system audit data,2002,25,20,2,0.0,1968757248,Kui W. Mok,0,-0.17477979112040698,0.15119122303766078
+1884606608,A data mining framework for building intrusion detection models,1999,81,1062,2,0.857143,2155626625,Wenke Lee,0,0.4373423784856249,0.4819124458882637
+1911916860,Methods of unsupervised anomaly detection using a geometric framework,2013,312,59,3,0.22959,642640030,Eleazar Eskin,0,0.19960065335661023,-0.16968189945222414
+1912977036,Method of merging large databases in parallel,1994,12,150,2,0.0,247249255,ndez,0,0.44194667836928886,-1.1483228081457568
+1939160802,Systems methods and media for outputting data based upon anomaly detection,2007,55,206,1,1.0,2021877992,Salvatore J. Stolfo,0,0.20279561436658805,0.0753070172078775
+1822636944,Apparatus method and medium for identifying files using n-gram distribution of data,2004,42,53,1,1.0,2021877992,Salvatore J. Stolfo,0,0.003708468606338,0.082832279151172
+1612155886,Real-world Data is Dirty Data Cleansing and The Merge/Purge Problem,1998,20,719,2,1.0,2778563124,Mauricio Hernandez,0,1.0898057289944574,-0.9498163469436474
+1583975142,Data mining approaches for intrusion detection,1998,21,1075,2,0.857143,2155626625,Wenke Lee,0,-0.4113129301081024,0.22696522426214502
+1785289945,System and methods for anomaly detection and adaptive learning,2002,10,44,1,1.0,2021877992,Salvatore J. Stolfo,0,0.20279561436658805,0.0753070172078775
+1622683356,Masquerade Detection Using a Taxonomy-Based Multinomial Modeling Approach in UNIX Systems,2008,15,6,1,1.0,2021877992,Salvatore J. Stolfo,0,0.003708468606338,0.082832279151172
+1980193254,Management of intelligent learning agents in distributed data mining systems,1999,89,9,2,1.0,222714987,Andreas L. Prodromidis,0,0.26755668009491657,0.15402692361017567
+1980273653,The application of AdaBoost for distributed scalable and on-line learning,1999,16,101,2,0.625,2491264568,Wei Fan,0,0.8875539437335391,0.27021848395126474
+1979910324,Cost Complexity-Based Pruning of Ensemble Classifiers,2001,33,49,2,1.0,222714987,Andreas L. Prodromidis,0,1.4237642853099186,0.5567984255057314
+1995919426,System Level User Behavior Biometrics using Fisher Features and Gaussian Mixture Models,2013,14,25,4,0.0,2138308900,Yingbo Song,0,-0.25023896793326905,0.13037718530513653
+2024770506,The merge/purge problem for large databases,1995,13,786,2,1.0,2778563124,Mauricio Hernandez,0,-0.008202427149883876,0.23529029690302547
+2012568697,Mining in a data-flow environment experience in network intrusion detection,1999,12,223,2,0.857143,2155626625,Wenke Lee,0,0.15018456330604515,0.3502535852591882
+2037002680,Incremental database rule processing in PARADISER,1992,21,17,3,0.0,2024352466,Hasanat M. Dewan,0,0.5654437650926589,0.2948938812984293
+2066298612,Data mining-based intrusion detectors an overview of the columbia IDS project,2001,26,74,1,1.0,2021877992,Salvatore J. Stolfo,0,0.25279980089418275,0.356263393655007
+2056122369,Experimental results of cross-site exchange of web content Anomaly Detector alerts,2010,19,5,3,0.0,30705740,Sharath Hiremagalore,0,0.21177702343899382,0.04513976421546027
+2066647546,Behavior-based network traffic synthesis,2011,4,5,1,1.0,2021877992,Salvatore J. Stolfo,0,0.003708468606338,0.082832279151172
+2103154003,Casting out Demons Sanitizing Training Data for Anomaly Sensors,2008,30,119,4,0.0,2078754467,Gabriela F. Cretu,0,0.3331378375437081,0.1066978747410064
+2103527066,Automated social hierarchy detection through email network analysis,2007,29,116,2,0.869565,1481904776,Shlomo Hershkop,0,0.003708468606338,0.082832279151172
+2085305295,A framework for constructing features and models for intrusion detection systems,2000,24,855,2,0.857143,2155626625,Wenke Lee,0,0.2470898652136005,0.3171217402570602
+2108572630,A fully distributed framework for cost-sensitive data mining,2002,8,10,4,0.571429,2491264568,Wei Fan,0,-0.04564640222210118,0.3062859400379127
+2142262896,Model Aggregation for Distributed Content Anomaly Detection,2014,21,5,3,0.0,2152635024,Sean Whalen,0,0.20279561436658805,0.0753070172078775
+2125219633,Performance of incremental update in database rule processing,1994,5,7,3,0.0,2322576847,D. Ohsie,0,-1.4223140766590723,0.3958394871385654
+2140146498,Keep your friends close the necessity for updating an anomaly sensor with legitimate environment changes,2009,10,15,4,1.0,2251358113,Angelos Stavrou,0,0.6643374905935336,-0.010060822136393775
+2131154421,JAM java agents for meta-learning over distributed databases,1997,18,260,1,1.0,2021877992,Salvatore J. Stolfo,0,0.4550478777926225,0.3445357429312541
+2125532767,Email archive analysis through graphical visualization,2004,4,20,3,0.0,2167867990,Wei Jen Li,0,0.4032009894852866,1.1445403013882876
+2144112223,Data mining methods for detection of new malicious executables,2001,17,750,4,0.0,2187565692,Matthew G. Schultz,0,0.003708468606338,0.082832279151172
+2162429001,Distributed Data Mining The JAM system architecture,2001,0,4,2,1.0,222714987,Andreas L. Prodromidis,0,0.003708468606338,0.082832279151172
+2153711228,Sharing learned models among remote database partitions by local meta-learning,1996,10,34,2,0.857143,2098876098,Philip K. Chan,0,0.003708468606338,0.082832279151172
+2150973844,Combining email models for false positive reduction,2005,35,51,2,1.0,1481904776,Shlomo Hershkop,0,0.43162625009792,0.20195636031746017
+2160150610,Distributed data mining in credit card fraud detection,1999,9,365,4,0.818182,2098876098,Philip K. Chan,0,0.2672966273634978,-0.14833271954898275
+2169300738,Behavior-based modeling and its application to Email analysis,2006,39,84,1,1.0,2021877992,Salvatore J. Stolfo,0,0.20279561436658805,0.0753070172078775
+2166353797,Real time data mining-based intrusion detection,2001,28,232,3,0.605263,642640030,Eleazar Eskin,0,0.15314600879838108,0.7649783805065609
+2148546318,A behavior-based approach towards statistics-preserving network trace anonymization,2012,61,0,1,1.0,2021877992,Salvatore J. Stolfo,0,0.1579559588619796,0.563349572073047
+2146082061,Using artificial anomalies to detect unknown and known network intrusions,2001,15,183,3,0.625,2491264568,Wei Fan,0,0.6705234672672624,0.5949432861805903
+2167287136,Cost-based modeling for fraud and intrusion detection results from the JAM project,2000,21,413,2,1.0,222714987,Andreas L. Prodromidis,0,0.3024941206384012,0.2601028475248656
+2167475202,A Genre-based Clustering Approach to Content Extraction,2005,16,2,1,1.0,2021877992,Salvatore J. Stolfo,0,-0.3472551286370444,0.5425738699367492
+2161939165,STAND Sanitization Tool for ANomaly Detection,2007,22,0,2,0.9,299775663,Angelos D. Keromytis,0,0.2768867389976017,-0.06763433639827213
+2150147654,Mining audit data to build intrusion detection models,1998,18,251,2,0.857143,2155626625,Wenke Lee,0,-0.17477979112040698,0.15119122303766078
+2189571976,Mining databases with dierent schemas Integrating incompatible classifers,1998,3,0,2,1.0,222714987,Andreas L. Prodromidis,0,0.21438872843298346,-0.1353423822296997
+2203388234,Towards Stealthy Malware Detection,2007,20,55,1,1.0,2021877992,Salvatore J. Stolfo,0,0.25279980089418275,0.356263393655007
+2245823075,Methods for cost-sensitive modeling for intrusion detection and response,2002,73,39,1,1.0,2021877992,Salvatore J. Stolfo,0,0.003096474151226806,0.2601437891843497
+2287789909,Sparse a hybrid system for malcode-bearing document detection,2008,0,0,1,1.0,2021877992,Salvatore J. Stolfo,0,0.003708468606338,0.082832279151172
+2405680064,Credit Card Fraud Detection Using Meta-Learning Issues and Initial Results 1,1997,11,140,2,0.949153,222714987,Andreas L. Prodromidis,0,0.43162625009792,0.20195636031746017
+2397522630,Sparse sequence modeling with applications to computational biology and intrusion detection,2002,121,7,2,0.605263,642640030,Eleazar Eskin,0,0.3024941206384012,0.2601028475248656
+2462762598,System level user behavior biometrics using feature extraction and modeling,2016,5,10,1,1.0,2021877992,Salvatore J. Stolfo,0,0.003708468606338,0.082832279151172
+2597286379,Cost Complexity Pruning of Ensemble Classifiers,2000,31,0,2,1.0,222714987,Andreas L. Prodromidis,0,1.2433054138658102,0.5363134465985978

@@ -1,0 +1,61 @@
+53649117,STARTS Stanford Proposal for Internet Meta-Searching (Experience Paper),1997,0,3,1,1.0,2251396636,Luis Gravano,0,-0.0041099411153885,0.0447066884760059
+2428298,Mediating and Metasearching on the Internet,1998,29,31,1,1.0,2251396636,Luis Gravano,0,0.12628174114238816,0.0039009070058818006
+109105922,Query- vs Crawling-based Classification of Searchable Web Databases,2002,9,13,1,1.0,2251396636,Luis Gravano,0,-1.331800567525596,-1.411692309880388
+47292847,Using q-grams in a DBMS for Approximate String Processing,2001,6,113,1,1.0,2251396636,Luis Gravano,0,-0.0041099411153885,0.0447066884760059
+1541251836,Letter from the Special Issue Editor,2000,0,2,1,1.0,2251396636,Luis Gravano,0,-0.0041099411153885,0.0447066884760059
+1488719427,Evaluating Top-k Selection Queries,1999,16,279,2,0.0,2163909284,Surajit Chaudhuri,0,0.0908845357243609,0.31128747720343375
+1482991935,Approximate String Joins in a Database (Almost) for Free -- Erratum,2003,2,7,3,0.772727,94049422,Panagiotis G. Ipeirotis,0,-0.0041099411153885,0.0447066884760059
+1564059483,Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies,1995,17,225,1,1.0,2251396636,Luis Gravano,0,-0.0041099411153885,0.0447066884760059
+1521219253,Computing Geographical Scopes of Web Resources,2000,17,236,2,0.0,2638234501,Junyan Ding,0,-1.901991104481626,-1.9012409564709967
+1495898622,Merging Ranks from Heterogeneous Internet Sources,1997,10,69,1,1.0,2251396636,Luis Gravano,0,-0.0041099411153885,0.0447066884760059
+1586176254,Modeling Query-Based Access to Text Databases,2003,11,32,3,0.8,2283615530,Eugene Agichtein,0,-0.0041099411153885,0.0447066884760059
+1876061170,Parallel Probing of Web Databases for Top-k Query Processing,2003,10,0,1,1.0,2251396636,Luis Gravano,0,0.119739122485096,0.4583397011045227
+1805908277,Automatic Classification of Text Databases Through Query Probing,2000,17,15,2,0.823529,94049422,Panagiotis G. Ipeirotis,0,-0.0041099411153885,0.0447066884760059
+1908963334,Precision and recall of GlOSS estimators for database discovery,1994,3,43,1,1.0,2251396636,Luis Gravano,0,0.13687068848302356,0.3250109970171685
+1594249656,Proceedings of the 7th International Workshop on the Web and Databases colocated with ACM SIGMOD/PODS 2004,2004,0,0,1,1.0,2251396636,Luis Gravano,0,-0.0041099411153885,0.0447066884760059
+1978185837,QXtract a building block for efficient information extraction from text databases,2003,1,4,1,1.0,2251396636,Luis Gravano,0,3.0906292860123874,0.9153443148182271
+2004087619,When speed has a price fast information extraction using approximate algorithms,2013,22,5,3,1.0,2142921448,GonÃ§alo SimÃµes,0,-0.0041099411153885,0.0447066884760059
+2026469784,Building query optimizers for information extraction the SQoUT project,2009,22,14,3,0.75,2099613708,Alpa Jain,0,0.0908845357243609,0.31128747720343375
+2023657004,STARTS Stanford proposal for Internet meta-searching,1997,14,215,3,0.0,220422686,Andreas Paepcke,0,-0.34857978327751216,-0.2513987233039086
+2016892599,GlOSS text-source discovery over the Internet,1999,34,315,1,1.0,2251396636,Luis Gravano,0,0.2353888729857487,0.3298835230747928
+2045463753,Optimizing SQL Queries over Text Databases,2008,27,45,3,1.0,2099613708,Alpa Jain,0,1.1930577160661062,0.2937743100249808
+2037607644,Data structures for efficient broker implementation,1997,45,31,2,0.236842,1966690917,Anthony Tomasic,0,-0.46893397788284524,0.07728939382804885
+2036074375,Modeling and managing changes in text databases,2007,33,14,4,0.664479,94049422,Panagiotis G. Ipeirotis,0,0.641355406004533,-0.054035041659423966
+2059653319,Querying text databases and the web beyond traditional keyword search,2009,0,1,1,1.0,2251396636,Luis Gravano,0,0.0908845357243609,0.31128747720343375
+2073788020,The effectiveness of GIOSS for the text database discovery problem,1994,15,186,3,0.0,237419955,Hector Garcia Molina,0,2.3285692349710727,0.5147782564143359
+2076299018,Database research at Columbia University,1998,33,1,2,0.0,2149341496,Shih Fu Chang,0,-0.0041099411153885,0.0447066884760059
+2096565380,Modeling and managing content changes in text databases,2005,31,31,4,0.756433,94049422,Panagiotis G. Ipeirotis,0,0.6255531597288398,-0.016063606655256923
+2099797738,Evaluating top- k queries over web-accessible databases,2004,27,322,2,0.578947,2133606375,Nicolas Bruno,0,0.0908845357243609,0.31128747720343375
+2096891167,Querying text databases for efficient information extraction,2003,31,95,2,0.8,2283615530,Eugene Agichtein,0,0.5325669973310596,0.09709227568458595
+2103224511,To search or to crawl towards a query optimizer for text-centric tasks,2006,41,75,4,0.739338,94049422,Panagiotis G. Ipeirotis,0,0.014532710543751099,0.030944858938630852
+2098025050,Optimizing queries over multimedia repositories,1996,23,120,2,0.0,2163909284,Surajit Chaudhuri,0,-0.0041099411153885,0.0447066884760059
+2079973394,Popularity-guided top- k extraction of entity attributes,2010,12,7,1,1.0,2251396636,Luis Gravano,0,0.12628174114238816,0.0039009070058818006
+2141359307,dSCAM finding document copies across multiple databases,1996,16,43,2,0.0,237419955,Hector Garcia Molina,0,0.2880243735527742,0.2802545886585318
+2105995744,Classifying and searching hidden-web text databases,2004,132,6,2,0.77044,94049422,Panagiotis G. Ipeirotis,0,1.8803489951926753,0.6200505647503405
+2112276485,When one sample is not enough improving text database selection using shrinkage,2004,35,51,2,0.77044,94049422,Panagiotis G. Ipeirotis,0,2.371535457876123,0.3676510594459993
+2119070977,Extending SDARTS extracting metadata from web databases and interfacing with the open archives initiative,2002,18,11,3,0.823529,94049422,Panagiotis G. Ipeirotis,0,0.05815105249463126,-0.20312833282044687
+2116341550,QProber A system for automatic classification of hidden-Web databases,2003,52,130,1,1.0,2251396636,Luis Gravano,0,-1.331800567525596,-1.411692309880388
+2140014286,Combining Strategies for Extracting Relations from Text Collections,2000,20,12,3,1.0,2283615530,Eugene Agichtein,0,0.8597213603804762,0.13453306769618173
+2131006463,Distributed search over the hidden web hierarchical database sampling and selection,2002,37,188,2,0.823529,94049422,Panagiotis G. Ipeirotis,0,0.5263456975668935,-0.2443225671743395
+2134145495,SQL Queries Over Unstructured Text Databases,2007,6,28,3,1.0,2099613708,Alpa Jain,0,0.38632121652839624,0.058193535481373765
+2134195632,Top- k selection queries over relational databases Mapping strategies and performance evaluation,2002,39,264,3,0.636364,2133606375,Nicolas Bruno,0,0.7215975991611812,0.3052417628859806
+2120108467,STHoles a multidimensional workload-aware histogram,2001,30,279,3,0.636364,2133606375,Nicolas Bruno,0,0.33437732374054,-0.16707486558753407
+2168561231,Join Optimization of Information Extraction Output Quality Matters ,2009,17,23,4,0.546092,94049422,Panagiotis G. Ipeirotis,0,1.2178502537449285,-1.5947337678562354
+2156580346,Efficient Keyword Search Across Heterogeneous Relational Databases,2007,26,100,4,0.0,2039405111,Mayssam Sayyadian,0,0.4623460660858265,-0.19399125727711541
+2151772234,Navigation- vs index-based XML multi-query processing,2003,21,76,2,0.6,2133606375,Nicolas Bruno,0,2.8032131691740485,-1.0200473471139435
+2148942721,Efficient IR-style keyword search over relational databases,2003,19,483,2,0.0,238786035,Vagelis Hristidis,0,0.922765544186215,0.13699274168066441
+2152401660,Text joins for data cleansing and integration in an RDBMS,2003,13,53,1,1.0,2251396636,Luis Gravano,0,0.4147193258353023,-0.485351356124338
+2161344493,Snowball a prototype system for extracting relations from large text collections,2001,3,50,2,1.0,2283615530,Eugene Agichtein,0,-0.0041099411153885,0.0447066884760059
+2167439683,Selectivity estimation for string predicates overcoming the underestimation problem,2004,15,52,3,0.0,2163909284,Surajit Chaudhuri,0,1.179538825597683,0.22593251703876374
+2164520297,Evaluating top-k queries over Web-accessible databases,2002,26,262,3,0.0,2653530345,AmÃ©lie Marian,0,-0.8176360734883313,-0.8522696506390246
+2155737120,Towards a query optimizer for text-centric tasks,2007,59,28,4,0.664479,94049422,Panagiotis G. Ipeirotis,0,0.014532710543751099,0.030944858938630852
+2161936973,Approximate String Joins in a Database (Almost) for Free,2001,18,496,1,1.0,2251396636,Luis Gravano,0,0.27692454341243516,0.10626936558355415
+2221553715,Probe count and classify categorizing hidden web databases,2001,28,172,2,0.823529,94049422,Panagiotis G. Ipeirotis,0,-1.7225195040739916,-1.0934377572537197
+2275613000,Method of building multidimensional workload-aware histograms,2001,19,27,3,0.636364,2133606375,Nicolas Bruno,0,-0.165796457764015,-0.34570618985044876
+2294284203,Learning to Rank Adaptively for Scalable Information Extraction,2015,34,2,4,1.0,2224102567,Pablo Barrio,0,0.12628174114238816,0.0039009070058818006
+2277214757,Query processing over relations extracted from text databases,2008,0,0,2,1.0,2099613708,Alpa Jain,0,0.28789009827090595,0.22726245872767784
+2512287559,Automatic classification of text databases through query probing,2001,0,7,2,0.823529,94049422,Panagiotis G. Ipeirotis,0,-0.2554006006761083,0.005185177391162952
+2559989503,Sampling strategies for information extraction over the deep web,2017,58,6,2,1.0,2224102567,Pablo Barrio,0,-0.0041099411153885,0.0447066884760059
+2796126483,Proceedings of the 2012 ACM SIGMOD International Conference on Management of Data,2012,0,6,3,0.0,674992784,K. SelÃ§uk Candan,0,0.06635930819191084,0.49152641060504293
+2950754341,Automatic Classification of Text Databases through Query Probing,2000,12,0,2,0.823529,94049422,Panagiotis G. Ipeirotis,0,-0.0041099411153885,0.0447066884760059
+3021013053,Chapter 35 â€“ Distributed Search over the Hidden Web Hierarchical Database Sampling and Selection,2002,31,0,2,0.823529,94049422,Panagiotis G. Ipeirotis,0,-0.1465074771935338,-0.3290449123705981

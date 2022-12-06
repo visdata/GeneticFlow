@@ -1,0 +1,44 @@
+20290297,Instance-Based matching of large ontologies using locality-sensitive hashing,2012,35,35,4,0.512486,2243565981,Songyun Duan,0,0.2056018341312255,-1.1094695562158838
+76603888,Data mapping in peer-to-peer systems Semantics and algorithmic issues,2003,0,57,3,0.132494,2117861229,Marcelo Arenas,0,-0.3427654649547447,-0.0520795938087386
+198780392,Managing data mappings in the Hyperion Project In ICDE,2003,0,2,3,0.132494,2117861229,Marcelo Arenas,0,-0.0041099411153885,0.0447066884760059
+325915808,An Offline Optimal SPARQL Query Planning Approach to Evaluate Online Heuristic Planners,2014,23,0,4,0.606662,77696115,Achille Fokoue,0,-0.24921155514082186,0.05094653814423073
+1525091459,Advances and Challenges for Scalable Provenance in Stream Processing Systems,2008,18,24,3,0.0,2163103209,Archan Misra,0,0.6135640309143683,-0.6076542838450061
+1575097497,Data Management for Peer-to-Peer Computing A Vision,2002,15,362,5,0.0,164943294,Fausto Giunchiglia,0,0.9456389526889711,0.16522226125818223
+1496156099,Data sharing through query translation in autonomous sources,2004,16,37,1,1.0,2295328501,Anastasios Kementsietsidis,0,0.014532710543751099,0.030944858938630852
+1767402579,Data sharing in the Hyperion peer database system,2005,12,74,4,0.0,1238701709,Patricia Rodriguez Gianolli,0,0.48348907598467894,0.1888278340743523
+1864010644,LinkedCT A Linked Data Space for Clinical Trials,2009,3,51,2,0.526316,2090809909,Oktie Hassanzadeh,0,-1.4872462629339107,-1.1608823404971327
+1966540900,Partial Evaluation for Distributed XPath Query Processing and Beyond,2012,55,26,3,0.151899,2295915604,Gao Cong,0,2.751919884877482,-1.0465692027517683
+1983094331,Apples and oranges a comparison of RDF benchmarks and real RDF datasets,2011,21,132,2,0.512486,2243565981,Songyun Duan,0,-0.13489138146538232,0.029751773140659632
+1989215876,Exploring Big Data with Helix Finding Needles in a Big Haystack,2015,27,8,4,0.0,2134949281,Jason B. Ellis,0,0.2976201037307944,-0.041129494226630724
+2003535362,BioScout a life-science query monitoring system,2008,30,2,1,1.0,2295328501,Anastasios Kementsietsidis,0,0.0908845357243609,0.31128747720343375
+2026102093,Scalable Multi-query Optimization for SPARQL,2012,60,90,2,0.0,2120460824,Wangchao Le,0,-0.04947461118734405,0.1975814907402979
+2028716971,Building an efficient RDF store over a relational database,2013,18,133,3,1.0,1965548580,Mihaela Ancuta Bornea,0,-0.39040501381267817,0.0678282925157182
+2018758714,The hyperion project from data integration to data coordination,2003,15,170,3,0.132494,2117861229,Marcelo Arenas,0,-0.3839260709403512,0.8516617701114026
+2033523472,SQLGraph An Efficient Relational-Based Property Graph Store,2015,35,39,4,0.0,2619752913,Wen Sun,0,1.3605333026683015,-0.035264165163401244
+2039712094,Data Management Issues on the Semantic Web,2012,25,14,2,0.7,2090809909,Oktie Hassanzadeh,0,-2.1148432987425227,-2.1472294087612034
+2066375217,Next generation data analytics at IBM research,2013,23,0,2,0.7,2090809909,Oktie Hassanzadeh,0,0.15646563257913904,0.13131280629356248
+2066407644,Kanata adaptation and evolution in data sharing systems,2004,24,10,3,0.0,10227546,Periklis Andritsos,0,-0.34857978327751216,-0.2513987233039086
+2105113802,Distributed query evaluation with performance guarantees,2007,27,50,3,0.333333,2295915604,Gao Cong,0,1.0643188437970184,-0.2521015313994481
+2102243112,Profile-based Retrieval of Records in Medical Databases,2009,5,3,1,1.0,2295328501,Anastasios Kementsietsidis,0,-0.0041099411153885,0.0447066884760059
+2114584188,SMOQE a system for providing secure access to XML,2006,8,23,4,0.0,2132396280,Wenfei Fan,0,2.393919284475961,-0.8794014440068407
+2118499545,A principled approach to bridging the gap between graph data and their schemas,2014,14,13,4,0.132494,2117861229,Marcelo Arenas,0,-0.13489138146538232,0.029751773140659632
+2107342726,i MONDRIAN a visual tool to annotate and query scientific databases,2006,7,14,3,0.351453,1971263028,Floris Geerts,0,-0.0041099411153885,0.0447066884760059
+2110610722,Mapping data in peer-to-peer systems semantics and algorithmic issues,2003,24,241,1,1.0,2295328501,Anastasios Kementsietsidis,0,0.6784925973177597,-0.044545234958836756
+2131760692,On the Efficiency of Provenance Queries,2009,19,6,1,1.0,2295328501,Anastasios Kementsietsidis,0,0.03483052717618193,0.07123105628286343
+2153257312,Linkage Query Writer,2009,5,20,4,0.526316,2090809909,Oktie Hassanzadeh,0,0.3846661842197418,-0.12743683395637467
+2159255950,MONDRIAN Annotating and Querying Databases through Colors and Blocks,2006,22,110,2,0.351453,1971263028,Floris Geerts,0,0.1428944572028501,0.2578944946790329
+2153531471,Conditional Functional Dependencies for Data Cleaning,2007,18,255,5,0.0,2003419062,Philip Bohannon,0,1.243590799035957,-0.557527025287951
+2159792194,Coordinating Peer Databases Using ECA Rules,2003,8,25,4,1.0,1828710330,Vasiliki Kantere,0,0.33598610067911727,-0.22202930765203877
+2145067130,Using partial evaluation in distributed query evaluation,2006,24,57,4,0.0,2020138198,Peter Buneman,0,1.1983060929637188,-0.4765884973148518
+2163093260,Data sharing and querying for peer-to-peer data management systems,2004,24,7,1,1.0,2295328501,Anastasios Kementsietsidis,0,0.18601297105691045,-0.0008472885667257998
+2169458905,Supporting ontology-based keyword search over medical databases,2008,4,10,1,1.0,2295328501,Anastasios Kementsietsidis,0,-0.331157261929354,-0.16512333473426355
+2151912509,Scalable multi-query optimization for exploratory queries over federated scientific databases,2008,35,38,1,1.0,2295328501,Anastasios Kementsietsidis,0,0.014532710543751099,0.030944858938630852
+2160918318,Rewriting Regular XPath Queries on XML Views,2007,20,64,4,0.0,2132396280,Wenfei Fan,0,1.93807638781959,-0.5657631851561608
+2161784850,Managing data mappings in the Hyperion project,2003,7,25,1,1.0,2295328501,Anastasios Kementsietsidis,0,-0.18820463949039273,0.1289377459669855
+2149945082,Statistics-based parallelization of XPath queries in shared memory systems,2010,27,19,3,0.0,397773802,Rajesh Bordawekar,0,2.3786452572617294,-0.8574336613120696
+2248182989,Ontology-based searching in database systems,2009,26,23,2,0.0,2149519810,Lipyeow Lim,0,0.6292252105929688,0.22413740815888325
+2396088894,Coordinating social care and healthcare using semanticweb technologies,2013,4,4,13,0.0,47380812,Marco Luca Sbodio,0,-0.0041099411153885,0.0447066884760059
+2509546510,Coordinating peer databases using ECA rules,2004,0,7,4,1.0,1828710330,Vasiliki Kantere,0,0.33598610067911727,-0.22202930765203877
+2562667657,Systems and methods for query evaluation over distributed linked data stores,2016,16,17,2,0.0,2064916976,Achille B. Fokoue Nkoutche,0,0.7556258244632307,-0.08383340111468428
+2564010096,An Executable Specification for SPARQL,2016,5,1,4,1.0,1965548580,Mihaela Ancuta Bornea,0,-0.0041099411153885,0.0447066884760059
+2790634852,Proceedings of the 2011 ACM SIGMOD International Conference on Management of data,2011,0,1,4,0.0,90690466,Yannis Velegrakis,0,-0.0041099411153885,0.0447066884760059

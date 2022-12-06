@@ -1,0 +1,94 @@
+172538875,Rethinking Query Processing for Energy Efficiency Slowing Down to Win the Race,2011,51,47,1,1.0,2057455714,Vivek Narasayya,0,-0.5207388606918844,0.13779230513221863
+214347325,HIGH PRECISION SET EXPANSION FOR LARGE CONCEPTS,2011,11,3,1,1.0,2057455714,Vivek Narasayya,0,-0.5803623333327916,0.22746099670676814
+114529131,Evaluation of OO7 as a system and an application benchmark,1995,3,10,2,0.0,737098973,Henry M. Levy,0,0.003708468606338,0.082832279151172
+82387787,Estimating Progress of Long Running SQL Queries,2004,0,29,2,0.0,2163909284,Surajit Chaudhuri,0,-0.3291976808020441,-0.13703470885516322
+965234318,DATA PROFILE COMPUTATION,2007,4,6,1,1.0,2057455714,Vivek Narasayya,0,0.003708468606338,0.082832279151172
+976026051,Database system multi-column index selection for a workload,1997,22,23,1,1.0,2057455714,Vivek Narasayya,0,0.07613250605059312,0.35193897574038696
+942791280,Database system index selection using index configuration enumeration for a workload,1997,18,35,1,1.0,2057455714,Vivek Narasayya,0,0.28424674339614725,0.5696377157385009
+954710592,RETRIEVAL OF ATTRIBUTE VALUES BASED UPON IDENTIFIED ENTITIES,2014,13,6,2,0.0,1945906534,James P. Finnigan,0,1.8829538780377566,0.8259589408465661
+1006168843,Index tuner for given workload,2000,8,58,2,0.0,2022497718,Atul Adya,0,0.44213992986027445,0.5430859237190468
+1541483377,Time-bound database tuning,2002,21,37,1,1.0,2057455714,Vivek Narasayya,0,-1.890082795979147,0.7345686724941604
+1559729415,What-if index analysis utility for database systems,1998,29,208,1,1.0,2057455714,Vivek Narasayya,0,-1.9659847834600217,0.7377661395247619
+1560083562,Transformation rule profiling for a query optimizer,2010,43,18,3,0.0,225567610,Leo Giakoumakis,0,-0.7115739254660983,0.16717641040082076
+1497844094,Constructing database object workload summaries,2004,24,12,2,0.625,1997590645,Prasanna Ganesan,0,0.024349199102486636,0.511062865931334
+1551461997,Linear programming approach to assigning benefit to database physical design structures,2002,13,33,1,1.0,2057455714,Vivek Narasayya,0,-1.5406526231604398,1.6080399858163115
+1021150220,Approximate query processing using multiple samples,2002,5,13,1,1.0,2057455714,Vivek Narasayya,0,-0.872190281467382,0.18705434119417633
+1569801209,Automatic assignment for document reviewing,2007,13,12,1,1.0,2057455714,Vivek Narasayya,0,0.003708468606338,0.082832279151172
+1524858387,Foreign-Key Detection,2010,9,8,1,1.0,2057455714,Vivek Narasayya,0,-1.1038197327924912,0.5199038325347272
+1560862172,Database system index selection using candidate index selection for a workload,1997,21,88,1,1.0,2057455714,Vivek Narasayya,0,0.28424674339614725,0.5696377157385009
+1507781291,QUERY PROGRESS ESTIMATION,2004,13,55,1,1.0,2057455714,Vivek Narasayya,0,-0.1029618939806145,0.040434369851773004
+1571053829,Sampling for queries,2005,41,22,2,0.131069,2034912444,Rajeev Motwani,0,-0.08204233553538198,0.18775524893034376
+1529226136,Compressing database workloads,2004,27,27,1,1.0,2057455714,Vivek Narasayya,0,-0.5035606319469822,-0.08553170430818645
+1556530724,Self-tuning database systems a decade of progress,2007,73,211,2,0.0,2163909284,Surajit Chaudhuri,0,-1.7615498433685883,0.6314242186377002
+1576035775,Database Tuning Advisor for Microsoft SQL Server 2005,2004,5,185,5,0.782609,2167721083,Sanjay Agrawal,0,-1.8196663070344308,0.566986137360563
+1929129593,Primitives for workload summarization and implications for SQL,2003,31,18,3,0.0,2163909284,Surajit Chaudhuri,0,-0.3291976808020441,-0.13703470885516322
+1794871838,Integrating horizontal partitioning into physical database design,2003,29,59,1,1.0,2057455714,Vivek Narasayya,0,-0.4660082747958108,0.22620583361781393
+1596880543,Integrating vertical partitioning into physical database design,2005,24,28,1,1.0,2057455714,Vivek Narasayya,0,-0.4660082747958108,0.22620583361781393
+1844949470,Database system index selection using cost evaluation of a workload for multiple candidate index configurations,1997,23,50,1,1.0,2057455714,Vivek Narasayya,0,0.28424674339614725,0.5696377157385009
+1851390469,An Efficient Cost-Driven Index Selection Tool for Microsoft SQL Server,1997,12,330,2,0.0,2163909284,Surajit Chaudhuri,0,-0.0395804122397981,0.0068802457672825015
+1583904554,Database monitoring system,2004,13,128,1,1.0,2057455714,Vivek Narasayya,0,-2.157266440528363,0.9549440339997322
+1585382094,Optimization based method for estimating the results of aggregate queries,2004,31,17,1,1.0,2057455714,Vivek Narasayya,0,-0.11939805933677435,0.16936408913727036
+1926949488,Dynamic physical database design,2004,49,38,1,1.0,2057455714,Vivek Narasayya,0,-0.4660082747958108,0.22620583361781393
+1964857063,On random sampling over joins,1999,13,286,3,0.0,2163909284,Surajit Chaudhuri,0,0.003708468606338,0.082832279151172
+1982407890,Rule profiling for query optimizers and their implications,2010,24,3,3,0.0,2163909284,Surajit Chaudhuri,0,-0.23395130797191574,0.05537246151370474
+1974671283,Estimating the compression fraction of an index using sampling,2010,8,14,3,0.0,2188856032,Stratos Idreos,0,0.003708468606338,0.082832279151172
+1994341124,Variance aware optimization of parameterized queries,2010,17,48,3,0.0,2163909284,Surajit Chaudhuri,0,-0.2427473780380674,-0.05889964682654486
+1997375126,Integrating vertical and horizontal partitioning into automated physical database design,2004,18,356,2,0.782609,2167721083,Sanjay Agrawal,0,-2.055958512107982,0.8050707909148889
+2032327675,Data cleaning in microsoft SQL server 2005,2005,2,34,4,0.0,2163909284,Surajit Chaudhuri,0,0.5413559396739102,0.008645371162107235
+2043885422,Automating statistics management for query optimizers,2001,14,170,2,0.0,2163909284,Surajit Chaudhuri,0,-0.5207388606918844,0.13779230513221863
+2035486345,A pay-as-you-go framework for query execution feedback,2008,20,32,2,0.0,2163909284,Surajit Chaudhuri,0,-0.1029618939806145,0.040434369851773004
+2054889329,Slicing long-running queries,2010,15,1,2,0.0,2133606375,Nicolas Bruno,0,-0.1029618939806145,0.040434369851773004
+2071508218,Workload driven index defragmentation,2010,12,7,1,1.0,2057455714,Vivek Narasayya,0,-0.26631509979742185,0.10385535647089292
+2078199441,A demonstration of SQLVM performance isolation in multi-tenant relational database-as-a-service,2013,5,15,1,1.0,2057455714,Vivek Narasayya,0,-0.9674631947073763,0.2738033894765541
+2099918651,Automatic physical design tuning workload as a sequence,2006,15,89,3,0.734265,2167721083,Sanjay Agrawal,0,-1.5367194824306079,0.4873994142409521
+2078907037,A robust optimization-based approach for approximate answering of aggregate queries,2001,19,107,3,0.0,2163909284,Surajit Chaudhuri,0,0.0644818988688213,0.4660528257840121
+2086529872,Compression aware physical database design,2011,24,13,2,0.0,2310691347,Hideaki Kimura,0,-0.30906293216644865,0.47591775690807064
+2098129634,A Static Analysis Framework for Database Applications,2009,44,48,2,0.0,2229050745,Arjun Dasgupta,0,-0.5923333242819331,0.2459107881928146
+2083658889,Compressing SQL workloads,2002,22,60,3,0.0,2163909284,Surajit Chaudhuri,0,-0.5035606319469822,-0.08553170430818645
+2081959494,Bridging the application and DBMS divide using static analysis and dynamic profiling,2009,2,6,2,0.0,2163909284,Surajit Chaudhuri,0,-1.3854013492122876,0.5750617465887433
+2082002584,Extracting predicates from mining models for efficient query evaluation,2004,31,7,2,0.0,2163909284,Surajit Chaudhuri,0,-0.6948161207559372,0.5267526911964903
+2118017131,Efficient evaluation of queries with mining predicates,2002,33,73,2,0.0,2163909284,Surajit Chaudhuri,0,-0.6231873298431023,0.36236615043303627
+2118229812,Random sampling for histogram construction how much is enough ,1998,29,233,2,0.45,2034912444,Rajeev Motwani,0,-0.17385099780758892,0.38076760966607276
+2129917572,Efficient computation of multiple group by queries,2005,27,38,2,0.5,2098594414,Zhimin Chen,0,0.07584579222514773,0.2450070963924885
+2139086573,Materialized view and index selection tool for Microsoft SQL server 2000,2001,3,46,3,0.666667,2167721083,Sanjay Agrawal,0,-1.4375776060330336,0.19471195099046112
+2133052202,SQLCM a continuous monitoring framework for relational database engines,2004,9,32,3,0.0,2163909284,Surajit Chaudhuri,0,-2.2198158611806464,0.6993772921410638
+2142550009,Automating statistics management for query optimizers,2000,19,40,2,0.0,2163909284,Surajit Chaudhuri,0,-1.078357144903346,0.2787372399377973
+2107102574,Diagnosing Estimation Errors in Page Counts Using Execution Feedback,2008,21,15,2,0.0,2163909284,Surajit Chaudhuri,0,0.1210367497521051,0.3715704428647246
+2119414841,Estimating progress of execution for SQL queries,2004,11,107,1,1.0,2057455714,Vivek Narasayya,0,-0.0395804122397981,0.0068802457672825015
+2122816893,Automated Selection of Materialized Views and Indexes in SQL Databases,2000,19,520,3,0.666667,2167721083,Sanjay Agrawal,0,-0.5230347187374645,0.35309097407923457
+2108094106,Database tuning advisor for microsoft SQL server 2005 demo,2005,11,56,4,0.782609,2167721083,Sanjay Agrawal,0,-1.890082795979147,0.7345686724941604
+2111119607,A statistical approach towards robust progress estimation,2011,17,16,4,0.0,2157050567,Arnd Christian KÃ¶nig,0,-0.17771334415759452,0.19173465156884192
+2165481122,Index selection for databases a hardness study and a principled heuristic solution,2004,23,79,3,0.0,2163909284,Surajit Chaudhuri,0,0.24906175081877716,0.44714262063741633
+2150669190,A framework for testing query transformation rules,2009,36,18,2,0.0,2291918941,Hicham G. Elmongui,0,-1.0298700193754162,0.4222896846252241
+2154267020,Data services for E-tailers leveraging web search engine assets,2013,12,4,4,0.0,2285779824,Tao Cheng,0,-0.1626858259763129,-2.469263836333502
+2148291485,AutoAdmin â€œwhat-ifâ€ index analysis utility,1998,10,236,1,1.0,2057455714,Vivek Narasayya,0,-2.4082536630244213,0.8127679660206089
+2169982181,Overcoming limitations of sampling for aggregation queries,2001,17,148,5,0.0,2163909284,Surajit Chaudhuri,0,-0.08557671749653388,0.3058873493944218
+2152029707,Optimized stratified sampling for approximate query processing,2007,49,154,3,0.0,2163909284,Surajit Chaudhuri,0,0.020473004585849316,0.16218800185805288
+2149093850,Database aggregation query result estimator,2005,49,27,2,0.131069,2034912444,Rajeev Motwani,0,0.003708468606338,0.082832279151172
+2170741459,Exact cardinality query optimization for optimizer testing,2009,23,13,2,0.0,2163909284,Surajit Chaudhuri,0,-0.5951710996417344,-0.47483291956511325
+2167942260,Automating layout of relational databases,2003,17,47,3,0.0,2163909284,Surajit Chaudhuri,0,-0.3404654775031832,0.537330694040646
+2167978511,Robust estimation of resource consumption for SQL queries using statistical techniques,2012,18,61,3,0.0,2096227755,Jiexing Li,0,-0.7016799064149639,0.06236078894835691
+2229227208,AUTOMATED LOGICAL DATABASE DESIGN TUNING,2006,39,34,1,1.0,2057455714,Vivek Narasayya,0,-3.4947859069244713,0.6753580119553504
+2248361066,Integrated fuzzy joins in database management systems,2011,14,12,1,1.0,2057455714,Vivek Narasayya,0,-0.3124211109706451,0.2510410190191856
+2269642658,Key profile computation and data pattern profile computation,2007,18,3,1,1.0,2057455714,Vivek Narasayya,0,0.003708468606338,0.082832279151172
+2251340133,Proceedings of the Sixth International Workshop on Testing Database Systems,2013,0,0,2,0.0,339589296,Neoklis Polyzotis,0,-1.446136064777886,0.38134058191828735
+2274957122,Dictionary for hierarchical attributes from catalog items,2011,11,5,1,1.0,2057455714,Vivek Narasayya,0,0.003708468606338,0.082832279151172
+2296408038,Index merging,1999,17,50,2,0.0,2163909284,Surajit Chaudhuri,0,0.026759541612721965,0.5124771587914608
+2398657955,Experiences with using Data Cleaning Technology for Bing Services,2012,9,6,6,0.0,2288886406,Arvind Arasu,0,-0.23525929632286838,0.19883468438673602
+2407187628,Index merging for database systems,1998,28,34,1,1.0,2057455714,Vivek Narasayya,0,-0.5151683046447476,-0.06329859526218784
+2411457633,Identifying essential statistics for query optimization for databases,1999,15,61,1,1.0,2057455714,Vivek Narasayya,0,-0.5951710996417344,-0.47483291956511325
+2411895888,Primitives for workload summarization,2004,0,11,2,0.625,1997590645,Prasanna Ganesan,0,0.024349199102486636,0.511062865931334
+2394595640,Fast foreign-key detection in Microsoft SQL server PowerPivot for Excel,2014,13,13,2,0.6875,2098594414,Zhimin Chen,0,-0.3023260027362562,0.3257821875600647
+2406121888,Automated filtered index recommendations,2009,11,5,1,1.0,2057455714,Vivek Narasayya,0,0.003708468606338,0.082832279151172
+2429298957,Automated Demand-driven Resource Scaling in Relational Database-as-a-Service,2016,146,18,3,0.632283,2097994246,Sudipto Das,0,-0.8598686574069966,0.33943990917720374
+2434702933,Operator and Query Progress Estimation in Microsoft SQL Server Live Query Statistics,2016,28,11,3,0.0,2486439614,Kukjin Lee,0,0.0344161494722001,0.16037352003828126
+2607970166,Leveraging Re-costing for Online Optimization of Parameterized Queries with Guarantees,2017,19,3,2,1.0,2225499372,Anshuman Dutt,0,-0.0395804122397981,0.0068802457672825015
+2883510886,Plan stitch harnessing the best of many plans,2018,29,6,5,0.6,2007579070,Bailu Ding,0,-0.5951710996417344,-0.47483291956511325
+2883658522,Efficient estimation of inclusion coefficient using hyperloglog sketches,2018,0,1,3,0.0,2092367672,Azade Nazi,0,0.003708468606338,0.082832279151172
+2944240329,AI Meets AI Leveraging Query Executions to Improve Index Recommendations,2019,64,8,6,0.6,2007579070,Bailu Ding,0,0.12779220315249043,0.02718721936377834
+2955798121,Selectivity estimation for range predicates using lightweight models,2019,31,12,5,1.0,2225499372,Anshuman Dutt,0,-0.8513220029196344,-0.6777134855393664
+2953193493,Compression Aware Physical Database Design,2011,11,25,2,0.0,2310691347,Hideaki Kimura,0,-0.30906293216644865,0.47591775690807064
+2949177968,Robust Estimation of Resource Consumption for SQL Queries using Statistical Techniques,2012,16,2,3,0.0,2096227755,Jiexing Li,0,-0.24708821823000746,-0.11438040177564447
+2953330644,A Statistical Approach Towards Robust Progress Estimation,2011,14,0,4,0.0,2157050567,Arnd Christian KÃ¶nig,0,-0.17771334415759452,0.19173465156884192
+2970204018,Customizable and scalable fuzzy join for big data,2019,0,0,3,0.6875,2098594414,Zhimin Chen,0,0.12492345808765674,0.23414093372237493
+3022560095,Bitvector-aware Query Optimization for Decision Support Queries (extended version),2020,31,0,3,0.6,2007579070,Bailu Ding,0,0.0153648348839028,0.2876779546504724

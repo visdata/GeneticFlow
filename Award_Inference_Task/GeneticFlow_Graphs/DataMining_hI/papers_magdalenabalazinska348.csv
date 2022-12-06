@@ -1,0 +1,80 @@
+4352161,Moirae History-Enhanced Monitoring,2007,49,47,1,1.0,2345141441,Magdalena Balazinska,0,0.003708468606338,0.082832279151172
+1503388209,Proceedings of the 5th workshop on Data management for sensor networks,2008,0,0,3,0.0,2159644763,Christian S. Jensen,0,-0.01854512796534517,-0.055567947695012394
+1587614485,Specification and verification of complex location events with panoramic,2010,37,11,2,0.857143,1987634024,Evan Welbourne,0,0.003708468606338,0.082832279151172
+1597974923,On-demand view materialization and indexing for network forensic analysis,2007,16,8,4,0.0,2343219299,Roxana Geambasu,0,-0.02715787493742261,0.2213398113625668
+1974695870,Demonstration of the Myria big data management service,2014,9,66,12,0.0,2010099130,Daniel Halperin,0,0.018038535230099767,0.0708556130440372
+1974864470,Gaussian Mixture Models Use-Case In-Memory Analysis with Myria,2015,16,7,4,0.0,2211745466,Ryan Maas,0,-0.2759227225326901,0.27606322721399734
+1997759202,Efficient iterative processing in the SciDB parallel array engine,2015,15,11,2,1.0,1991034528,Emad Soroush,0,-1.4137135309398179,1.4381729615208692
+2003251288,SnipSuggest context-aware autocompletion for SQL,2010,17,111,3,0.882353,12376233,Nodira Khoussainova,0,-0.3291976808020441,-0.13703470885516322
+1991586057,Approximation trade-offs in Markovian stream processing An empirical study,2010,13,14,3,1.0,1657358450,Julie Letchner,0,0.2575924313045848,0.1032416608226303
+1997168731,The Beckman Report on Database Research,2014,7,47,4,0.0,2170206103,Daniel J. Abadi,0,-0.08216369031341794,0.1395680461546204
+1995467874,A demonstration of Cascadia through a digital diary application,2008,7,4,3,1.0,12376233,Nodira Khoussainova,0,0.1231549335056549,0.051544081604491046
+2017194553,Estimating the progress of MapReduce pipelines,2010,12,113,3,0.896552,2199007836,Kristi Morton,0,-0.12466581407126265,-0.08072133031728083
+2017369298,A demonstration of SciDB a science-oriented DBMS,2009,13,144,9,0.0,2308794080,Philippe CudrÃ© Mauroux,0,-0.3913489528855849,0.25537854383647085
+2018004164,Lahar demonstration warehousing Markovian streams,2009,3,7,3,1.0,1657358450,Julie Letchner,0,-0.13275296294680305,-0.071629888206014
+2032281855,Lineage for Markovian stream event queries,2011,21,2,2,1.0,1657358450,Julie Letchner,0,-0.040068254463967334,0.10978131242727517
+2011318210,Machine Learning and Databases The Sound of Things to Come or a Cacophony of Hype ,2015,0,10,5,0.0,2893888,Michael Cafarella,0,0.003708468606338,0.082832279151172
+2022063165,Automatic Enforcement of Data Use Policies with DataLawyer,2015,26,11,2,1.0,2135060379,Prasang Upadhyaya,0,-1.150947251590011,0.5190071570723274
+2013344760,HaLoop efficient iterative data processing on large clusters,2010,12,629,3,0.5979,2107421971,Yingyi Bu,0,0.003708468606338,0.082832279151172
+2035137574,Approximation trade-offs in a Markovian stream warehouse An empirical study,2014,39,3,2,1.0,1657358450,Julie Letchner,0,0.003708468606338,0.082832279151172
+2054503142,A vision for personalized service level agreements in the cloud,2013,19,17,3,1.0,2154290939,Jennifer Ortiz,0,-0.24402219075768336,0.10419810321463124
+2054577069,Probabilistic Event Extraction from RFID Data,2008,15,54,2,1.0,12376233,Nodira Khoussainova,0,0.003708468606338,0.082832279151172
+2049400253,Hadoops adolescence an analysis of Hadoop usage in scientific workloads,2013,21,80,4,0.231153,2095906382,Bill Howe,0,0.003708468606338,0.082832279151172
+2043167376,Time travel in a scientific array database,2013,29,21,2,1.0,1991034528,Emad Soroush,0,-0.3301709207296641,0.2028998950943151
+2064709627,Education and career paths for data scientists,2013,0,0,1,1.0,2345141441,Magdalena Balazinska,0,-0.7176327681231287,-0.3355099077271815
+2068410942,ArrayStore a storage manager for complex parallel array processing,2011,35,97,2,1.0,1991034528,Emad Soroush,0,-0.36400378320118865,0.12931409037547156
+2077496619,The power of data use management in action,2013,11,2,2,1.0,2135060379,Prasang Upadhyaya,0,0.003708468606338,0.082832279151172
+2065504152,QueryMarket demonstration pricing for online data markets,2012,1,28,3,0.571429,36008294,Paraschos Koutris,0,0.003708468606338,0.082832279151172
+2074663022,PerfXplain debugging MapReduce job performance,2012,37,41,2,0.724138,12376233,Nodira Khoussainova,0,-0.11309476041800887,0.03959665964148713
+2087443900,Affordable Analytics on Expensive Data,2014,16,2,3,1.0,2135060379,Prasang Upadhyaya,0,0.247057159400659,0.0008718596446388033
+2097877602,Clustering Events on Streams Using Complex Context Information,2008,29,11,3,1.0,2148249088,YongChul Kwon,0,-0.21741911872391223,0.4605483404363856
+2104106703,How to price shared optimizations in the cloud,2012,29,29,2,1.0,2135060379,Prasang Upadhyaya,0,-1.3773181639514203,0.28006737918455427
+2090673017,A latency and fault-tolerance optimizer for online parallel query plans,2011,38,48,3,1.0,2135060379,Prasang Upadhyaya,0,-0.1029618939806145,0.040434369851773004
+2080217302,Toward practical query pricing with QueryMarket,2013,10,43,3,0.571429,36008294,Paraschos Koutris,0,-0.18187229707680064,-0.02189046515987023
+2141267666,Skew-resistant parallel processing of feature-extracting scientific user-defined functions,2010,35,112,2,1.0,2148249088,YongChul Kwon,0,0.247057159400659,0.0008718596446388033
+2126630402,Report on the Fourth International Workshop on Data Management for Sensor Networks (DMSN 2007),2007,0,0,1,1.0,2345141441,Magdalena Balazinska,0,-0.0672179845049367,-0.5524158318025136
+2112013978,ParaTimer a progress indicator for MapReduce DAGs,2010,19,163,2,0.896552,2199007836,Kristi Morton,0,0.003708468606338,0.082832279151172
+2138729760,Towards correcting input data errors probabilistically using integrity constraints,2006,28,103,2,0.0,12376233,Nodira Khoussainova,0,0.1046321783456345,0.10492004649796617
+2123931689,Challenges for Event Queries over Markovian Streams,2008,12,9,3,0.923077,1657358450,Julie Letchner,0,0.15468475851783042,0.29806420238362935
+2139205321,The HaLoop approach to large-scale iterative data analysis,2012,37,103,3,0.5979,2107421971,Yingyi Bu,0,-0.3394380530009998,-0.0716407767871401
+2112630366,Access Methods for Markovian Streams,2009,41,50,3,1.0,1657358450,Julie Letchner,0,-0.13275296294680305,-0.071629888206014
+2128160835,Systems aspects of probabilistic data management,2008,31,0,1,1.0,2345141441,Magdalena Balazinska,0,-0.9623536891893757,0.3501113694467751
+2113671562,Scalable clustering algorithm for N-body simulations in a shared-nothing cluster,2010,41,49,4,1.0,2148249088,YongChul Kwon,0,-0.7918577241090416,2.8503209719593725
+2140509629,SkewTune mitigating skew in mapreduce applications,2012,31,333,2,1.0,2148249088,YongChul Kwon,0,0.003708468606338,0.082832279151172
+2131827765,Public Data and Visualizations How are Many Eyes and Tableau Public Used for Collaborative Analytics ,2014,14,16,5,0.0,327243226,Robert Kosara,0,1.0111310406853757,2.2155741834587617
+2150883821,Homeviews peer-to-peer middleware for personal data sharing applications,2007,26,56,2,0.0,2343219299,Roxana Geambasu,0,-0.24631475925461466,0.01662727508514165
+2171844899,A Case for A Collaborative Query Management System,2009,24,66,2,0.882353,12376233,Nodira Khoussainova,0,-0.5740614866225483,0.10636823573189007
+2145515910,Believe it or not adding belief annotations to databases,2009,46,41,2,0.0,2776145993,Wolfgang Gatterbauer,0,-0.8672176863952838,0.4576121627571017
+2185403818,Stop That Query The Need for Managing Data Use,2013,17,3,2,1.0,2135060379,Prasang Upadhyaya,0,0.003708468606338,0.082832279151172
+2230486215,Big data research will industry solve all the problems ,2015,19,1,1,1.0,2345141441,Magdalena Balazinska,0,0.06365851769787492,0.1337744080939453
+2215524946,Asynchronous and fault-tolerant recursive datalog evaluation in shared-nothing engines,2015,41,31,2,0.0,2103527529,Jingjing Wang,0,-0.16460612327130364,0.3300475173236436
+2260326197,Towards efficient and precise queries over ten million asteroid trajectory models,2011,4,1,5,0.0,1264386097,Yusra AlSayyad,0,0.003708468606338,0.082832279151172
+2297274452,Lahar warehousing markovian streams,2010,115,2,1,1.0,2345141441,Magdalena Balazinska,0,0.003708468606338,0.082832279151172
+2292449291,A demonstration of the BigDAWG polystore system,2015,14,68,4,0.0,2094668902,Aaron J. Elmore,0,0.5710263754250182,-0.22890936352743607
+2294064450,Changing the Face of Database Cloud Services with Personalized Service Level Agreements,2015,25,19,3,1.0,2154290939,Jennifer Ortiz,0,0.003708468606338,0.082832279151172
+2294768397,Data Markets in the Cloud An Opportunity for the Database Community,2011,8,89,1,1.0,2345141441,Magdalena Balazinska,0,-0.24631475925461466,0.01662727508514165
+2296144800,Support the data enthusiast challenges for next-generation data-analysis systems,2014,23,41,2,1.0,2199007836,Kristi Morton,0,1.3303667951924874,2.6438396089985434
+2397246664,Managing Skew in Hadoop,2013,27,33,3,0.956569,2148249088,YongChul Kwon,0,-0.045160160929457634,0.40206839027628466
+2496289916,Automated Analysis of Muscle X-ray Diffraction Imaging with MCMC,2015,9,2,2,0.0,2655198157,C. David Williams,0,0.003708468606338,0.082832279151172
+2444249869,PerfEnforce Demonstration Data Analytics with Performance Guarantees,2016,11,18,3,1.0,2154290939,Jennifer Ortiz,0,-0.02593010961785978,0.19259917674709218
+2467989791,View-Driven Deduplication with Active Learning,2016,36,1,3,1.0,2199007836,Kristi Morton,0,0.295081567358857,0.8660946630792852
+2418343266,PerfEnforce A Dynamic Scaling Engine for Analytics with Performance Guarantees,2016,23,4,3,1.0,2154290939,Jennifer Ortiz,0,-0.02593010961785978,0.19259917674709218
+2567162135,Comparative evaluation of big-data systems on scientific image analytics workloads,2017,27,28,6,0.0,2565737542,Parmita Mehta,0,0.21490879307930974,0.1595991798942215
+2546440696,Price-optimal querying with data APIs,2016,13,8,2,1.0,2135060379,Prasang Upadhyaya,0,0.003708468606338,0.082832279151172
+2507932434,Enabling end-user specification and debugging of complex events for location systems,2010,0,0,3,0.0,141796421,Gaetano Borriello,0,-0.7579956338910794,0.45450310674979066
+2613496308,A Demonstration of Interactive Analysis of Performance Measurements with Viska,2017,17,3,3,0.0,2626834575,Helga Gudmundsdottir,0,0.20316556903727548,0.6910533234163518
+2594974439,Probabilistic database summarization for interactive data exploration,2017,22,12,2,0.75,2078453004,Laurel Jeffers Orr,0,-0.9687198952575976,1.2877267194474167
+2788511578,Cuttlefish A Lightweight Primitive for Adaptive Query Processing,2018,59,7,2,0.0,2690737160,Tomer Kaftan,0,-0.7076533395827938,0.07552125834354588
+2795239330,Learning State Representations for Query Optimization with Deep Reinforcement Learning,2018,15,4,2,0.931234,2154290939,Jennifer Ortiz,0,-0.0395804122397981,0.0068802457672825015
+2946246678,An Empirical Analysis of Deep Learning for Cardinality Estimation,2019,61,4,2,0.931234,2154290939,Jennifer Ortiz,0,0.003708468606338,0.082832279151172
+2949588900,PerfXplain Debugging MapReduce Job Performance,2012,26,1,2,0.724138,12376233,Nodira Khoussainova,0,-0.11309476041800887,0.03959665964148713
+2951813563,Probabilistic Database Summarization for Interactive Data Exploration,2017,20,0,2,0.75,2078453004,Laurel Jeffers Orr,0,-0.9687198952575976,1.2877267194474167
+2952455122,How to Price Shared Optimizations in the Cloud,2012,22,1,2,1.0,2135060379,Prasang Upadhyaya,0,-1.3773181639514203,0.28006737918455427
+2948443995,Visual Road A Video Data Management Benchmark,2019,47,2,3,1.0,2524255947,Brandon Haynes,0,-0.060142023130536036,0.3590404717217351
+2950833175,Pessimistic Cardinality Estimation Tighter Upper Bounds for Intermediate Join Cardinalities,2019,19,5,2,0.0,2803499193,Walter Cai,0,-0.7635029195569721,0.3235786258176158
+2951014931,PipeGen Data Pipe Generator for Hybrid Analytics,2016,29,0,3,1.0,2524255947,Brandon Haynes,0,-0.08759599107940134,0.27577194445891584
+2948931795,Pessimistic Cardinality Estimation,2019,0,0,2,0.0,1986159374,Dan Suciu,0,0.003708468606338,0.082832279151172
+2963853546,Learning State Representations for Query Optimization with Deep Reinforcement Learning,2018,12,33,2,0.931234,2154290939,Jennifer Ortiz,0,0.20954019632812812,0.05387615383691683
+2949305199,Efficient Iterative Processing in the SciDB Parallel Array Engine,2015,15,2,2,1.0,1991034528,Emad Soroush,0,0.003708468606338,0.082832279151172
+2988882822,EntropyDB A Probabilistic Approach to Approximate Query Processing,2019,48,0,2,0.75,2078453004,Laurel Jeffers Orr,0,0.40811031200558984,1.234686319264383
+2984925741,EntropyDB a probabilistic approach to approximate query processing,2020,42,1,2,0.666667,2078453004,Laurel Jeffers Orr,0,0.40811031200558984,1.234686319264383

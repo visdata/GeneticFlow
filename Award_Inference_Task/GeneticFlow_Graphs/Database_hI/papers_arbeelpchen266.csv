@@ -1,0 +1,67 @@
+138822618,Entity Join Optimization in Mutidatabase Systems,1994,0,0,2,1.0,2308955951,Pauray S. M. Tsai,0,0.8771113148730372,-0.6694805488481194
+175253081,Efficient Graph-Based Algorithm for Discovering and Maintaining Knowledge in Large Databases,1999,9,3,3,1.0,2114215785,Guanling Lee,0,-0.0041099411153885,0.0447066884760059
+93020633,Improving Distributed Query Processing by Hash-Semijoins,1992,0,7,2,0.0,2502460526,Judy C. R. Tseng,0,0.0908845357243609,0.31128747720343375
+180816519,Implementing the Division Operation on a Database Containing Uncertain Data,1996,0,2,2,0.0,2786738580,Frank Shou Cheng Tseng,0,1.582253848769094,0.1276476190304639
+31980588,Concept Hierarchies for Database Integration in a Multidatabase System,1994,0,4,2,1.0,2308955951,Pauray S. M. Tsai,0,-0.5472037021959574,0.33116251461897367
+1570117747,Dynamic skylines considering range queries,2011,18,10,3,0.0,2098682322,Wen Chi Wang,0,-0.4935005922029218,0.7244108785596045
+1481349141,A Query Language and Interface for Integrated Media and Alphanumeric Database Systems,1997,17,0,2,1.0,2156594445,Jia Ling Koh,0,-0.654551003530808,0.6865201237058596
+1561406992,Similarity search in transaction databases with a two-level bounding mechanism,2006,13,3,3,0.0,2429265376,Jo Chun Chuang,0,0.7223943849512839,0.8895265900876663
+1499820067,A Localized Approach to Query Optimization in Heterogeneous Database Systems,1993,0,3,2,1.0,2308955951,Pauray S. M. Tsai,0,0.014532710543751099,0.030944858938630852
+1554175657,Continuous probabilistic skyline queries over uncertain data streams,2010,14,14,3,0.0,2113337867,Hui Zhu Su,0,-0.32040862010455673,0.13839895170038313
+1549203980,Monitoring heterogeneous nearest neighbors for moving objects considering location-independent attributes,2007,9,4,3,0.0,2516637772,Yu Chi Su,0,0.014532710543751099,0.030944858938630852
+1589440274,Optimizing Star Queries in a Distributed Database System,1984,13,23,1,1.0,2211440602,Arbee L. P. Chen,0,1.4925872559963,0.3879937773720778
+1851217218,Prediction of Web Page Accesses by Proxy Server Log,2002,30,45,2,1.0,2138890247,Yi Hung Wu,0,-2.153457009124557,-1.7217705726108814
+1719101982,Effective database transformation and efficient support computation for mining sequential patterns,2005,9,4,3,1.0,2107894239,Chung Wen Cho,0,0.8819964512398518,0.8953778822058752
+1897708694,A localized approach to distributed query processing,1990,41,19,1,1.0,2211440602,Arbee L. P. Chen,0,0.6115048434247207,0.2558641280772765
+1866970898,Optimal index and data allocation in multiple broadcast channels,2000,21,81,2,1.0,2139922323,Shou Chih Lo,0,0.221423897897152,-0.21080654779612165
+1867761973,An Approach to Querying Multiple Object Databases,2002,25,1,2,0.833333,2156594445,Jia Ling Koh,0,1.3724567044918938,0.41374393602730514
+1791890740,Schema integration and query processing for multiple object databases,1995,23,12,2,1.0,2156594445,Jia Ling Koh,0,1.7700801903208585,0.24802881969468304
+1971995517,Efficient kNN search in polyphonic music databases using a lower bounding mechanism,2005,34,8,3,1.0,2160925369,Ning Han Liu,0,0.119739122485096,0.4583397011045227
+1992854895,Database research at NTHU and ITRI,1994,18,2,1,1.0,2211440602,Arbee L. P. Chen,0,-0.0041099411153885,0.0447066884760059
+2007555409,Refining imprecise data by integrity constraints,1993,20,15,2,0.0,2308306880,Frank S. C. Tseng,0,1.089658018809441,0.8011430651904081
+1994277736,Distributed query processing a multiple database system,1989,27,26,1,1.0,2211440602,Arbee L. P. Chen,0,1.4419933890644931,0.18956647902386187
+2021208207,Motion event derivation and query language for video databases,2001,0,7,2,0.0,2937541156,Chia Han Lin,0,0.13233175764331187,0.22423938928651474
+2018611784,On mapping natural language constructs into relational algebra through E-R representation,1992,21,21,1,1.0,2211440602,Arbee L. P. Chen,0,1.573536429100842,0.3361607545217847
+2054135657,Efficient index and data allocation for wireless broadcast services,2007,32,11,2,1.0,2139922323,Shou Chih Lo,0,0.3898941043944187,-0.28793062050151574
+2052871060,Processing probabilistic spatio-temporal range queries over moving objects with uncertainty,2009,19,29,3,0.0,2481970628,Bruce S. E. Chung,0,0.3916183415125165,0.22725788978936518
+2046005538,Answering heterogeneous database queries with degrees of uncertainty,1993,25,65,2,0.0,2308306880,Frank S. C. Tseng,0,1.600303302222687,0.24642882283504727
+2050185799,Finding $$k$$k most favorite products based on reverse top-$$t$$t queries,2014,24,23,3,0.0,2122781395,Chen Yi Lin,0,0.4612748096154063,0.057859001142267795
+2072392424,Searching a minimal semantically-equivalent subset of a set of partial values,1993,35,8,2,0.0,2308306880,Frank S. C. Tseng,0,-1.1036205983390022,0.5937938286922697
+2099626280,Adaptive techniques for distributed query optimization,1986,1,22,6,0.0,2102819664,Clement Yu,0,0.0908845357243609,0.31128747720343375
+2098015297,Processing concept queries with object motions in video databases,2001,8,2,2,0.0,2160397300,Chia Han Lin,0,0.10496813513707853,0.3561609510601247
+2101293206,Optimizing entity join queries by extended semijoins in a wide area multidatabase environment,1994,5,3,2,0.0,2974190354,P.S.M. Tsai,0,1.0076269560753672,-0.6050173218288427
+2101543814,A content-based query language for video databases,1996,12,35,2,0.0,2973387060,T.C.T. Kuo,0,0.0908845357243609,0.31128747720343375
+2104669433,A strategy for efficient access of multiple data items in mobile environments,2002,13,40,4,1.0,2114215785,Guanling Lee,0,-0.0041099411153885,0.0447066884760059
+2083532657,The analysis of relationships in databases for rule derivation,1996,25,12,2,1.0,2670891532,Show Jane Yen,0,-0.0041099411153885,0.0447066884760059
+2087360095,Top-n query processing in spatial databases considering bi-chromatic reverse k-nearest neighbors,2014,30,7,4,0.0,2651816961,Cha Lun Li,0,0.2602363063493063,0.3281623249764951
+2135055451,An efficient approach to discovering knowledge from large databases,1996,21,66,2,1.0,2670891532,Show Jane Yen,0,0.9408492071308692,0.912959594064505
+2135110507,Manipulation of exclusive disjunctive data in relational databases,1997,42,0,2,0.0,2171997269,Jui Shang Chiu,0,2.0589441752106206,0.441978438579921
+2105692504,Optimizing entity join queries when data transmission cost dominates,1997,25,3,2,1.0,2308955951,Pauray S. M. Tsai,0,1.147042478674782,-0.7155791402740599
+2121094089,Mermaid&amp;#8212;A front-end to distributed heterogeneous databases,1987,9,162,3,0.5,2098786613,E. Lund,0,0.2678101697254231,0.18701498973681283
+2109575570,Hiding sensitive patterns in association rules mining,2004,9,38,3,1.0,2114215785,Guanling Lee,0,-0.47017914507004216,-0.12489449393829039
+2127369027,Mermaid â€” Experiences with network operation,1986,10,42,4,0.0,1993407165,Marjorie Templeton,0,0.6125227697226817,0.28440374775444444
+2121544039,An efficient algorithm for mining frequent sequences by a new strategy without support counting,2004,17,66,3,0.0,2280207616,Ding Ying Chiu,0,-0.0041099411153885,0.0447066884760059
+2133512882,A probabilistic approach to query processing in heterogeneous database systems,1992,19,22,2,0.0,2230685552,F. Shou Cheng Tseng,0,0.610331727270616,0.22792325271312375
+2116013547,Content-based query processing for video databases,2000,20,46,2,0.0,2973565836,T.C.T. Kuo,0,0.0908845357243609,0.31128747720343375
+2143141490,Efficient Graph-Based Algorithms for Discovering and Maintaining Association Rules in Large Databases,2001,31,20,3,1.0,2114215785,Guanling Lee,0,-0.0041099411153885,0.0447066884760059
+2143436607,An Approximation Algorithm for Optimizing Multiple Path Tracking Queries over Sensor Data Streams,2009,19,0,2,1.0,2147711999,Yao Chung Fan,0,-0.2745762292053669,0.10240794179076973
+2114003856,Querying uncertain data in heterogeneous databases,1993,15,24,2,0.0,2974364226,P.S.M. Tsai,0,0.47029374505309923,0.20358466041822965
+2143952351,Music databases indexing techniques and implementation,1996,16,68,2,0.0,2657648250,Ta Chun Chou,0,-0.46893397788284524,0.07728939382804885
+2156442327,Distributed query optimization by one-shot fixed-precision semi-join execution,1991,16,12,3,0.0,2974547430,C. Wang,0,0.7172130280088727,0.1536154397671138
+2171939774,A mapping strategy for querying multiple object databases with a global object schema,1995,20,12,2,1.0,2156594445,Jia Ling Koh,0,0.8727860188791208,0.2902777695791408
+2166111158,Query by rhythm an approach for song retrieval in music databases,1998,9,65,2,0.0,2973646064,J.C.C. Chen,0,-0.46893397788284524,0.07728939382804885
+2154188303,Efficient K-NN search in polyphonic music databases using a lower bounding mechanism,2003,35,11,3,1.0,2160925369,Ning Han Liu,0,-0.0041099411153885,0.0447066884760059
+2172207598,An efficient approach to extracting approximate repeating patterns in music databases,2005,12,11,3,1.0,2160925369,Ning Han Liu,0,-0.0041099411153885,0.0447066884760059
+2145285302,Enabling personalized recommendation on the Web based on user interests and behaviors,2001,26,68,3,1.0,2138890247,Yi Hung Wu,0,-0.6085981659056475,-0.5702387554989525
+2166419819,Query execution strategies for missing data in distributed heterogeneous object databases,1996,17,3,2,1.0,2156594445,Jia Ling Koh,0,0.13687068848302356,0.3250109970171685
+2157770679,An efficient data mining technique for discovering interesting association rules,1997,3,21,2,1.0,2670891532,Show Jane Yen,0,0.12291432521074584,0.5606250970237473
+2160986866,Mining Serial Episode Rules with Time Lags over Multiple Data Streams,2008,15,3,3,0.0,2636279085,Tung Ying Lee,0,-0.16987167873866924,-0.07779991679599128
+2152358851,Efficient theme and non-trivial repeating pattern discovering in music databases,1999,23,64,3,0.75,2306880507,Chih Chin Liu,0,0.49497518724130724,0.21333935073439503
+2170898544,Improving execution concurrency for long-duration database transactions,1994,9,1,2,0.0,2444275152,A.N.J. Wu,0,1.6362109607987547,1.6277481656785666
+2156037929,Parallel query processing in distributed object database systems by query packets,1995,14,2,2,0.75,2306880507,Chih Chin Liu,0,0.0908845357243609,0.31128747720343375
+2225135583,On Continuous Top-k Similarity Joins,2010,0,0,4,0.0,2700266901,Da Jun Li,0,-0.1240792885585194,-0.013173775290506867
+2261555467,A Framework for Enabling User Preference Profiling through Wi-Fi Logs,2016,20,10,5,1.0,2147711999,Yao Chung Fan,0,-0.0041099411153885,0.0447066884760059
+2293450524,Determining Top-K Candidates by Reverse Constrained Skyline Queries,2015,0,2,3,0.0,2536646866,Ruei Sian Jheng,0,0.4244030870532734,0.19239215614069086
+2430628567,A framework for enabling user preference profiling through Wi-Fi logs,2016,1,1,5,1.0,2147711999,Yao Chung Fan,0,-0.0041099411153885,0.0447066884760059
+2764765703,Motion Event Derivation and Query Language for Video Databases,2001,0,0,2,0.0,2937541156,Chia Han Lin,0,0.119739122485096,0.4583397011045227
+2764923330,Motion event derivation and query language for video databases,2001,0,0,2,0.0,2937541156,Chia Han Lin,0,0.1653838894567856,0.29325817591493436

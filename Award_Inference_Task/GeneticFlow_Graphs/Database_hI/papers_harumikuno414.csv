@@ -1,0 +1,57 @@
+178251994,Supporting Scalable Persistent Semantic Web Applications,2003,13,12,3,0.777778,2347878689,Kevin Wilkinson,0,-2.103222246749452,-2.0297075811790024
+42580803,Making Transaction Execution the Bottleneck,2013,32,1,1,1.0,2045202252,Harumi Kuno,0,1.8053481428864866,1.640763877118858
+43013837,Application-Specific Schema Design for Storing Large RDF Datasets,2003,12,18,4,0.0,2305966669,Luping Ding,0,-1.0453965150977906,-1.4082226323468205
+9089673,Designing Database Operators for Flash-enabled Memory Hierarchies,2010,21,7,3,0.0,2284116839,Goetz Graefe,0,-0.46893397788284524,0.07728939382804885
+221416579,Execution of query plans for database query within environments of databases,2009,15,1,3,0.0,689294964,Umeshwar Dayal,0,0.7215975991611812,0.3052417628859806
+29172951,Efficient RDF storage and retrieval in Jena2,2003,3,359,3,0.777778,2347878689,Kevin Wilkinson,0,-2.3599733177671633,-2.4571321647378865
+102675253,Quality of Service-enabled Management of Database Workloads,2008,16,26,4,0.923077,70944793,Stefan Krompass,0,0.9096620398213565,0.9877606602959665
+986219019,Managing Execution Of Database Queries,2008,60,18,3,0.0,688737622,Raja R. Sambasivan,0,1.4022473488977558,0.43505539037382496
+837473538,Database Workload Management (Dagstuhl Seminar 12282),2012,0,2,3,0.0,2681779508,Shivnath Babu,0,-0.0041099411153885,0.0447066884760059
+350000418,Incremental Maintenance of Materialized Path Query OODB Views,1996,0,0,1,1.0,2045202252,Harumi Kuno,0,2.51964223766412,0.8287233142250832
+1523227732,Dynamic workload management for very large data warehouses juggling feathers and bowling balls,2007,20,45,3,0.789474,70944793,Stefan Krompass,0,1.0918153824657642,1.100470809221721
+1506038113,PERFORMING DATABASE JOINS,2010,13,4,2,0.6,1965779163,Murali Mallela Krishna,0,1.5145142090824464,0.003373642619730334
+1525006726,Enabling outsourced service providers to think globally while acting locally,2006,2,2,2,0.777778,2347878689,Kevin Wilkinson,0,0.27571744643512125,-0.1716566607469979
+1560995443,Letter from the Special Issue Editors,2002,0,0,2,0.0,689294964,Umeshwar Dayal,0,-0.0041099411153885,0.0447066884760059
+1026062496,Predicting Performance Of Executing A Query In Isolation In A Database,2008,19,13,2,0.0,689294964,Umeshwar Dayal,0,0.8809340701863815,0.11633144593696097
+1543503180,Determining whether change in workload of database system has occurred and/or whether executing current workload will likely result in problem developing with database system,2009,9,13,1,1.0,2045202252,Harumi Kuno,0,2.540336534346024,0.6602994858420488
+1534728502,PRODUCING A REPRESENTATION OF PROGRESS OF A DATABASE PROCESS,2010,24,5,2,0.0,689294964,Umeshwar Dayal,0,0.11797670951183034,-0.24219977622393202
+1553935483,Reverse Mapping Of Feature Space To Predict Execution In A Database,2008,28,13,1,1.0,2045202252,Harumi Kuno,0,0.8809340701863815,0.11633144593696097
+1484667479,Developing an object-oriented view management system,1993,13,9,1,1.0,2045202252,Harumi Kuno,0,0.18586792520624273,0.13495413975738155
+1607703189,Data store page recovery,2011,12,8,1,1.0,2045202252,Harumi Kuno,0,-0.9514807553916852,-0.7511164614186395
+1947667608,Method and system of valuing transformation between extensible markup language (XML) documents,2002,12,107,2,0.0,689294964,Umeshwar Dayal,0,1.6287168631661553,-0.4885018525739013
+1785356562,In-memory performance for big data,2014,36,29,4,0.0,2284116839,Goetz Graefe,0,0.06635930819191084,0.49152641060504293
+1970298499,Self-selecting self-tuning incrementally optimized indexes,2010,22,77,2,0.0,2284116839,Goetz Graefe,0,0.928011536584163,0.12461805017601223
+1981653822,Controlled lock violation,2013,19,10,3,0.0,2284116839,Goetz Graefe,0,2.4617405484844075,2.540709390532807
+2011382740,Adaptive query scheduling for mixed database workloads with multiple objectives,2010,13,5,2,0.923077,70944793,Stefan Krompass,0,0.11627582886789564,0.3621724021946999
+2049472658,Sangam - a solution to support multiple data models their mappings and maintenance,2001,1,16,2,0.0,302143126,Kajal T. Claypool,0,-0.0041099411153885,0.0447066884760059
+2075018787,Merging whats cracked cracking whats merged adaptive indexing in main-memory column-stores,2011,14,86,3,0.0,2188856032,Stratos Idreos,0,-0.0041099411153885,0.0447066884760059
+2068245803,The mixed workload CH-benCHmark,2011,4,66,7,0.0,2435431502,Richard Cole,0,0.5293767606689525,1.104907575336079
+2091076568,Foster b-trees,2012,40,50,3,0.0,2284116839,Goetz Graefe,0,0.24117844175679057,0.705129568945532
+2100773341,Predicting Multiple Metrics for Queries Better Decisions Enabled by Machine Learning,2009,22,226,2,0.0,2101558141,Archana Ganapathi,0,0.11627582886789564,0.3621724021946999
+2129084533,Network service system and mechanism for searching service registries,2002,12,63,1,1.0,2045202252,Harumi Kuno,0,-1.7559849713678841,0.8770187711467625
+2135960402,Augmented inherited multi-index structure for maintenance of materialized path query views,1996,17,31,1,1.0,2045202252,Harumi Kuno,0,1.3267045365735626,0.4695731117116561
+2127241402,Modern B-Tree Techniques,2011,124,75,2,0.0,2284116839,Goetz Graefe,0,0.5565414464146287,0.6024418843868635
+2133052691,Materialized object-oriented views in MultiView,1995,13,27,1,1.0,2045202252,Harumi Kuno,0,1.9715928135164478,0.35019703361426646
+2113458201,Managing dynamic mixed workloads for operational business intelligence,2010,30,11,1,1.0,2045202252,Harumi Kuno,0,0.088575673312894,0.24717594459688522
+2140545413,Using object-oriented principles to optimize update propagation to materialized views,1996,11,40,1,1.0,2045202252,Harumi Kuno,0,2.483204011407959,0.7040289579940117
+2143775511,â€˜Pause and resumeâ€™ functionality for index operations,2011,22,3,1,1.0,2045202252,Harumi Kuno,0,-0.15695418509871564,0.19310717880606795
+2131687207,A testbed for managing dynamic mixed workloads,2009,5,7,2,0.923077,70944793,Stefan Krompass,0,1.5193922742730563,1.3108871558758848
+2144148624,Deferred maintenance of indexes and of materialized views,2011,15,9,1,1.0,2045202252,Harumi Kuno,0,0.7936708963564567,0.2360325614214361
+2153231238,Transactional support for adaptive indexing,2014,41,24,4,0.0,2284116839,Goetz Graefe,0,1.5656442805536568,2.1358252893197602
+2166239554,Managing long-running queries,2009,12,25,2,0.923077,70944793,Stefan Krompass,0,0.26606058260864124,0.1767482302872605
+2170535487,The MultiView project object-oriented view technology and applications,1996,5,14,2,0.0,2289414603,Elke A. Rundensteiner,0,-0.0041099411153885,0.0447066884760059
+2210559253,Characterizing Queries To Predict Execution In A Database,2008,5,14,1,1.0,2045202252,Harumi Kuno,0,-0.0041099411153885,0.0447066884760059
+2254515711,Managing performance of a database query,2007,17,13,2,0.0,689294964,Umeshwar Dayal,0,1.3346603508343653,0.46699184909556307
+2287397536,Providing a functionality by loading logic into a document,2006,8,3,1,1.0,2045202252,Harumi Kuno,0,-0.0041099411153885,0.0447066884760059
+2277052900,QUERY PROGRESS ESTIMATION BASED ON PROCESSED VALUE PACKETS,2009,25,6,1,1.0,2045202252,Harumi Kuno,0,0.7207163926745485,-0.04502797577824676
+2327625429,Adaptive indexing for relational keys,2010,16,37,2,0.0,2284116839,Goetz Graefe,0,0.49933500317352103,0.34731817419790334
+2282129703,Controlled lock violation for data transactions,2012,68,13,1,1.0,2045202252,Harumi Kuno,0,2.5805685628544692,2.5417631636942093
+2309972334,Progress analyzer for database queries,2009,11,16,2,0.0,689294964,Umeshwar Dayal,0,0.7215975991611812,0.3052417628859806
+2310085004,Applying write elision,2013,31,2,1,1.0,2045202252,Harumi Kuno,0,-0.0041099411153885,0.0447066884760059
+2335835855,Recovering pages of a database,2013,13,8,1,1.0,2045202252,Harumi Kuno,0,0.38009049917121435,0.45246057348231067
+2406817766,DATABASE SYSTEM TESTING USING ROBUSTNESS MAPS,2009,17,8,1,1.0,2045202252,Harumi Kuno,0,0.4170158691156383,0.0370747845240022
+2398632293,Making Transaction Execution the Bottleneck - (Instead of All the Overheads),2013,0,0,1,1.0,2045202252,Harumi Kuno,0,1.2639254684379722,1.1730582467438517
+2398820298,Efficient Locking Techniques for Databases on Modern Hardware,2012,23,19,3,0.504162,2310691347,Hideaki Kimura,0,0.9408492071308692,0.912959594064505
+2396789957,Generation of cost or price quotations,2006,13,0,1,1.0,2045202252,Harumi Kuno,0,-0.0041099411153885,0.0447066884760059
+2394630916,Method and system for tracking identification devices,2005,5,21,1,1.0,2045202252,Harumi Kuno,0,-0.10313325572746461,-0.0865908469764562
+2397965596,Predicting Performance Of Multiple Queries Executing In A Database,2008,13,16,2,0.0,689294964,Umeshwar Dayal,0,0.8809340701863815,0.11633144593696097

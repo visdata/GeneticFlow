@@ -1,0 +1,62 @@
+126138400,Towards a Unified Declarative and Imperative XQuery Processor,2008,15,3,1,1.0,2761330671,Zhen Hua Liu,0,1.4775275866769828,0.05232718529358127
+112302662,Imperative Programming Languages with Database Optimizers,2006,0,1,2,0.0,2713164337,Daniela Florescu,0,-0.0041099411153885,0.0447066884760059
+180495029,XIPE - An XML Integrated Processing Environment,2009,0,2,2,0.0,2632049534,Anguel Novoselsky,0,2.180189913026854,-0.8800209038262807
+969258522,Providing XML node identity based operations in a value based SQL system,2005,44,33,4,0.580645,337223780,Anand Manikutty,0,2.3485049625640406,-0.9375414068725034
+303164608,Generic Indexing for Efficiently Supporting Ad-Hoc Query Over Hierarchically Marked-Up Data,2014,9,14,3,1.0,2058068508,Douglas Mcmahon,0,0.36982524825437996,-0.41093985134140687
+275283261,Technique and Framework to Provide Diagnosability for XML Query/DML Rewrite and XML Index Selection,2011,20,5,4,0.91748,2105664545,Thomas Baby,0,0.7215975991611812,0.3052417628859806
+316675935,A generic sql enhancement to query any semi-structured data and techniques to efficiently support such enhancements,2014,10,12,2,1.0,2686680940,Beda Hammerschmidt,0,0.5961830299484004,-0.30884703050115375
+1523899591,Efficient XML Tree Indexing Structure Over XML Content,2009,31,23,3,1.0,2105664545,Thomas Baby,0,2.48387148703217,-0.9968662499569115
+1526791297,Using Node Identifiers In Materialized XML Views And Indexes To Directly Navigate To And Within XML Fragments,2010,42,14,4,1.0,2105664545,Thomas Baby,0,2.516383654552049,-0.9536399307623967
+1039867722,Techniques for automatically exposing as web services procedures and functions stored in a database,2004,16,29,6,0.0,337223780,Anand Manikutty,0,1.524050704098384,0.6341210068689029
+1546540585,Techniques of efficient XML meta-data query using XML table index,2006,28,58,4,1.0,1213283326,Susan Kotsovolos,0,2.2264543832113666,-0.864750789273662
+1546563846,Efficient replication of XML data in a relational database management system,2006,46,60,9,0.159164,1971906594,Muralidhar Krishnaprasad,0,2.2518540733619137,-0.8493128383057765
+1574370827,Techniques for efficient integration of text searching with queries over XML data,2005,28,40,8,0.580645,337223780,Anand Manikutty,0,2.3485049625640406,-0.9375414068725034
+1906010788,Mastering Situation Awareness in Healtcare Database Systems,2015,17,2,4,0.0,2107487933,Andreas Behrend,0,-0.0041099411153885,0.0447066884760059
+1843537511,Indexing mechanism for efficient node-aware full-text search over XML,2008,126,22,3,0.923077,2105664545,Thomas Baby,0,1.1415878632675736,0.052724544404238204
+1910446335,Processing XML data stream(s) using continuous queries in a data stream management system,2006,63,139,3,0.159164,1971906594,Muralidhar Krishnaprasad,0,0.8090350363064481,-0.44562756135387444
+1918676892,Techniques for serialization of instances of the XQuery data model,2005,233,30,3,0.0,1971906594,Muralidhar Krishnaprasad,0,1.4418952543784385,-0.5134383518358335
+1977205144,Efficient support of XQuery Full Text in SQL/XML enabled RDBMS,2014,15,4,1,1.0,2761330671,Zhen Hua Liu,0,2.591268270128537,-1.097575146121943
+1986275041,Native Xquery processing in oracle XMLDB,2005,14,64,1,1.0,2761330671,Zhen Hua Liu,0,1.1976050832846508,-0.454569686436835
+1981097903,Towards an enterprise XML architecture,2005,4,44,2,0.0,2096174866,Ravi Murthy,0,2.3719811590732665,-0.9176930458069982
+2003055168,XQJ XQuery Java API is completed,2010,10,2,2,0.0,2644992692,Marc Van Cappellen,0,1.0350082565327394,-0.4155952945208226
+1987748328,JSON data management supporting schema-less development in RDBMS,2014,23,41,1,1.0,2761330671,Zhen Hua Liu,0,1.7749530626325982,-0.38057825619531793
+2009332535,Pay-as-you-go an adaptive approach to provide full context-aware text search over document content,2010,28,1,1,1.0,2761330671,Zhen Hua Liu,0,2.2214099160157694,-0.8625402024984133
+1999185682,Efficient Support of XQuery Update Facility in XML Enabled RDBMS,2012,21,5,1,1.0,2761330671,Zhen Hua Liu,0,2.3485049625640406,-0.9375414068725034
+2014794636,Using the oracle database as a declarative RSS hub,2006,0,9,3,0.0,345041231,Dieter Gawlick,0,1.498148294222054,-0.0017144677045425963
+2056733581,XBRL repository - an industrial approach of management of XBRL documents,2010,15,1,1,1.0,2761330671,Zhen Hua Liu,0,0.7241735100724348,-0.04422714398552364
+2120451270,Effective and efficient update of xml in RDBMS,2007,16,4,1,1.0,2761330671,Zhen Hua Liu,0,2.606084750152869,-1.035810094591363
+2129566748,XMLTable Index - An Efficient Way of Indexing and Querying XML Property Data,2007,10,15,3,0.108252,1971906594,Muralidhar Krishnaprasad,0,2.2264543832113666,-0.864750789273662
+2135705763,Towards an industrial strength SQL/XML infrastructure,2005,11,19,2,0.0,1971906594,Muralidhar Krishnaprasad,0,2.456918401026374,-1.0746779007094598
+2135797505,Interoperability for provenance-aware databases using PROV and JSON,2015,13,7,4,1.0,2279934981,Xing Niu,0,0.5362867926874346,-0.09520008345959778
+2116794167,A Decade of XML Data Management An Industrial Experience Report from Oracle,2009,38,17,1,1.0,2761330671,Zhen Hua Liu,0,2.452322061362214,-1.0658420505691535
+2140544742,Query rewrite for XML in Oracle XML DB,2004,11,47,2,0.0,1971906594,Muralidhar Krishnaprasad,0,2.3485049625640406,-0.9375414068725034
+2157243284,Towards a physical XML independent XQuery/SQL/XML engine,2008,59,15,1,1.0,2761330671,Zhen Hua Liu,0,2.5843003092916192,-1.0909541492490749
+2169421069,Efficient XSLT processing in relational database system,2006,15,24,1,1.0,2761330671,Zhen Hua Liu,0,2.8878530920382826,-1.1038145174309568
+2160636718,Optimization of queries on a repository based on constraints on how the data is stored in the repository,2005,140,47,2,0.0,1971906594,Muralidhar Krishnaprasad,0,0.8809340701863815,0.11633144593696097
+2209858638,Techniques of using a relational caching framework for efficiently handling XML queries in the mid-tier data caching,2006,217,63,2,0.159164,1971906594,Muralidhar Krishnaprasad,0,0.7429134892954129,0.013530270397540595
+2258542867,Techniques of XML query optimization over static and dynamic heterogeneous XML containers,2006,41,6,2,0.159164,1971906594,Muralidhar Krishnaprasad,0,2.49429079312788,-0.9874524585881217
+2204002598,Techniques for query and DML over relational tables using spreadsheet applications,2007,15,17,3,0.0,2000727853,Rohan Angrish,0,0.5673467437835472,0.4325245173730954
+2223682077,Mimir Bringing CTables into Practice,2016,40,6,6,0.0,2618070987,Arindam Nandi,0,0.4170158691156383,0.0370747845240022
+2240679042,Mastering Situation Awareness The Next Big Challenge ,2015,16,5,4,0.0,345041231,Dieter Gawlick,0,-0.0041099411153885,0.0447066884760059
+2197720751,Indexing Strategy With Improved DML Performance and Space Usage for Node-Aware Full-Text Search Over XML,2008,121,14,3,0.923077,2105664545,Thomas Baby,0,1.1415878632675736,0.052724544404238204
+2217354139,Techniques of XML query optimization over static heterogeneous XML containers,2006,37,13,2,0.0,2638427079,Muralidhar Krishnaprasad,0,2.49429079312788,-0.9874524585881217
+2217711413,CREATING STORAGE FOR XML SCHEMAS WITH LIMITED NUMBERS OF COLUMNS PER TABLE,2008,4,5,3,0.923077,2105664545,Thomas Baby,0,1.219869322401961,-0.5935690287692804
+2246237208,Techniques of efficient XML query using combination of XML table index and path/value index,2006,52,67,3,0.159164,1971906594,Muralidhar Krishnaprasad,0,2.497055576358426,-0.9968418473150159
+2208712517,Techniques of efficient query over text image audio video and other domain specific data in XML using XML table index with integration of text index and other domain specific indexes,2006,32,10,3,0.159164,1971906594,Muralidhar Krishnaprasad,0,2.2349007921672253,-0.8292324858299694
+2279508419,***WITHDRAWN PATENT AS PER THE LATEST USPTO WITHDRAWN LIST***Optimization of queries on a repository based on constraints on how the data is stored in the repository,2013,28,0,2,0.302408,1971906594,Muralidhar Krishnaprasad,0,0.8809340701863815,0.11633144593696097
+2293962327,Management of Flexible Schema Data in RDBMSs - Opportunities and Limitations for NoSQL -,2015,32,19,1,1.0,2761330671,Zhen Hua Liu,0,1.5943472769973148,0.3299939573211387
+2306118603,Method and system for implementing efficient updatable relational views over XML data,2011,52,4,3,0.91748,2105664545,Thomas Baby,0,2.3485049625640406,-0.9375414068725034
+2285838339,Leveraging structured XML index data for evaluating database queries,2009,19,9,3,1.0,2105664545,Thomas Baby,0,1.8671813381785065,-0.6218402246175245
+2404934450,KIDS - A Model for Developing Evolutionary Database Applications,2012,0,12,1,1.0,2761330671,Zhen Hua Liu,0,-0.0041099411153885,0.0447066884760059
+2438877200,Closing the functional and Performance Gap between SQL and NoSQL,2016,18,20,1,1.0,2761330671,Zhen Hua Liu,0,1.4978934369403605,-0.5057343191566732
+2484302193,XML Data Management in Object Relational Database Systems,2010,13,3,2,0.0,2057375053,Anguel Novoselsky,0,2.1676671798042673,-0.04647514285012349
+2583864825,Adaptive Schema Databases,2017,34,12,10,1.0,2585997438,William Spoth,0,2.574379848206039,-0.08540197141300843
+2547306460,Accelerating analytics with dynamic in-memory expressions,2016,10,3,5,0.0,2762913358,Aurosish Mishra,0,1.7395505866319245,-0.1902979763313135
+2547898616,Dynamically Updating Data Guide For Hierarchical Data Objects,2015,55,4,4,1.0,2058068508,Douglas Mcmahon,0,0.16294105028580516,-0.2518455466227652
+2620537310,Efficient in-memory DB query processing over any semi-structured data formats,2017,20,4,2,0.75,2131242180,Shasank K. Chavan,0,1.1956174600382263,-0.23249154205730205
+2604108381,Provenance-aware versioned dataworkspaces,2016,12,3,4,1.0,2279934981,Xing Niu,0,0.46861602678410996,0.12338998864545991
+2600741786,Provenance-Aware Query Optimization,2017,22,15,5,0.857143,2279934981,Xing Niu,0,0.055297992862237466,0.3334119502037805
+2806779957,SchemaDrill Interactive Semi-Structured Schema Design,2018,15,1,6,1.0,2585997438,William Spoth,0,0.7367329416761971,-0.04244284110734872
+2917947446,Multi-model Database Management Systems - A Look Forward,2018,23,3,1,1.0,2761330671,Zhen Hua Liu,0,1.344583735244122,0.35265430932200664
+2904500626,The New and Improved SQL 2016 Standard,2018,2,0,5,0.0,2903784812,Jan Eike Michels,0,0.044859856903840555,0.012551371775477651
+2961458922,HANDLING SEMI-STRUCTURED AND UNSTRUCTURED DATA IN A SHARDED DATABASE ENVIRONMENT,2019,5,0,5,1.0,2058068508,Douglas Mcmahon,0,0.08910777475691212,0.656056146533936

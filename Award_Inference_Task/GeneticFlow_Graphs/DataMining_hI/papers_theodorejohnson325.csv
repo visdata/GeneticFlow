@@ -1,0 +1,56 @@
+171635350,Update propagation in a streaming warehouse,2011,49,5,1,1.0,2168523976,Theodore Johnson,0,-1.9313700486771586,0.5331470965584314
+194960720,Database Exploration and Bellman,2003,6,6,1,1.0,2168523976,Theodore Johnson,0,0.003708468606338,0.082832279151172
+195528277,Method and system for squashing a large data set,1999,12,30,2,0.0,2134830209,Corinna Cortes,0,0.26546974482574487,0.1314324462488618
+111885355,Consistency in a Stream Warehouse,2011,24,43,2,0.353527,2618045780,Lukasz Golab,0,-0.9281222857153043,0.41225846009546413
+198599650,Towards a Toolkit for Data Analysis and Mining,1999,0,2,1,1.0,2168523976,Theodore Johnson,0,0.2789446007157081,0.20884826403938786
+204779855,Fast computation of 2-dimensional depth contours,1998,12,170,1,1.0,2168523976,Theodore Johnson,0,0.36961615338683507,0.04520172406723675
+170589218,Database Exploration Using Database Dynamics,2006,0,7,2,0.378644,425249397,Tamraparni Dasu,0,-1.9769084645796051,0.8211647392449818
+958807442,METHOD AND APPARATUS FOR PROVIDING A FILTER JOIN ON DATA STREAMS,2009,1,22,1,1.0,2168523976,Theodore Johnson,0,0.037703047381653726,0.4555647138030447
+1561200998,Optimizing Queries on Compressed Bitmaps,2000,21,53,2,0.0,19633248,Sihem Amer Yahia,0,0.7647345494918176,0.8032770917980444
+1516469158,The generalized MDL approach for summarization,2002,13,53,5,0.0,2289816208,Laks V. S. Lakshmanan,0,0.6502534773032839,0.09455080724132185
+1574305441,Performance Measurements of Tertiary Storage Devices,1998,34,56,1,1.0,2168523976,Theodore Johnson,0,-0.25280390806074454,0.19630127231163536
+1576757369,Performance Measurements of Compressed Bitmap Indices,1999,9,114,1,1.0,2168523976,Theodore Johnson,0,0.7647345494918176,0.8032770917980444
+1673516604,Method and apparatus for loading data into a cube forest data structure,1998,10,45,2,0.0,2082974086,Dennis Shasha,0,0.003708468606338,0.082832279151172
+1578853940,Comparing massive high-dimensional data sets,1998,8,25,1,1.0,2168523976,Theodore Johnson,0,-0.011662653582440933,0.5888263776938639
+1854757958,The 3W Model and Algebra for Unified Data Mining,2000,34,52,1,1.0,2168523976,Theodore Johnson,0,0.38810043167776637,-0.08770453182536597
+1944502597,Coarse indices for a tape-based data warehouse,1998,23,7,1,1.0,2168523976,Theodore Johnson,0,0.24098907910111586,0.023005883294475876
+1947403449,Range selectivity estimation for continuous attributes,1999,17,32,2,0.0,2949800953,Flip Korn,0,-0.12265933845466465,0.1125584131638326
+1620392872,Method and apparatus for optimizing and structuring data by designing a cube forest data structure for hierarchically split cube forest template,1997,8,154,2,0.0,2082974086,Dennis Shasha,0,1.28502689456685,1.0627947487934712
+1899956758,Coarse indexes for a data warehouse,1998,15,45,1,1.0,2168523976,Theodore Johnson,0,0.308401166339089,0.41028554905199216
+1972149001,Data stream warehousing,2013,30,4,2,0.282412,2618045780,Lukasz Golab,0,0.48712971159477136,0.6297299968810641
+1977548957,Bistro data feed management system,2011,18,9,2,0.0,2303257373,Vladislav Shkapenyuk,0,0.5738516383155838,-0.06858516616241686
+1984566373,Mining database structure; or how to build a data quality browser,2002,40,183,2,0.378644,425249397,Tamraparni Dasu,0,-1.3047726288419328,0.4943315982019237
+1968931419,A Review of â€œReview of Exploratory Data Mining and Data Cleaningâ€,2006,0,0,2,0.378644,425249397,Tamraparni Dasu,0,-0.5334172610699274,1.1553176671840404
+1997200791,Squashing flat files flatter,1999,5,115,3,0.0,2272274628,William DuMouchel,0,0.003708468606338,0.082832279151172
+2014196286,Data quality and data cleaning an overview,2003,1,29,1,1.0,2168523976,Theodore Johnson,0,-0.6174772507319216,0.31800447983306174
+2028859573,Gigascope high performance network monitoring with an SQL interface,2002,0,116,3,1.0,2798650010,Charles D. Cranor,0,-0.3291976808020441,-0.13703470885516322
+2027420911,Enabling real time data analysis,2010,4,17,4,0.0,2196778472,Divesh Srivastava,0,-0.28660791690698023,0.12390084867017259
+2049127440,Sampling algorithms in a stream operator,2005,22,81,1,1.0,2168523976,Theodore Johnson,0,-0.929454214607175,1.5481060880638278
+2075069743,Data stream warehousing,2014,33,13,2,0.245531,2618045780,Lukasz Golab,0,-0.32992379745188744,0.25419769082198734
+2056617836,Prefilter predicate pushdown at streaming speeds,2008,23,6,2,0.486486,2618045780,Lukasz Golab,0,-0.4666176928383539,0.26974169373182105
+2060161902,Stream warehousing with DataDepot,2009,12,94,2,0.486486,2618045780,Lukasz Golab,0,-0.6625223384404956,0.3187752664126268
+2074709190,Query-aware partitioning for monitoring massive network data streams,2008,21,29,1,1.0,2168523976,Theodore Johnson,0,-0.09908519751846627,0.19315750298363962
+2078451216,Decision support queries on a tape-resident data warehouse,2005,26,6,2,0.448425,106204968,Damianos Chatziantoniou,0,-0.03446979068326034,0.0539415123523581
+2091255896,Extending complex ad-hoc OLAP,1999,26,27,1,1.0,2168523976,Theodore Johnson,0,0.37794837389319086,0.005014339201736218
+2100702488,Query-Aware Partitioning for Monitoring Massive Network Data Streams,2008,20,8,1,1.0,2168523976,Theodore Johnson,0,-0.37341358163617383,0.3542150790635286
+2138557608,Incorporating load factor into the scheduling of soft real-time transactions for main memory databases,2000,22,0,3,0.0,2145480920,Dong Kweon Hong,0,0.003708468606338,0.082832279151172
+2126915543,Scalable Scheduling of Updates in Streaming Data Warehouses,2012,37,35,2,0.304372,2618045780,Lukasz Golab,0,0.15468475851783042,0.29806420238362935
+2140120963,Efficient OLAP query processing in distributed data warehouses,2002,19,3,3,1.0,2974711557,Michael O. Akinde,0,1.0132663377260682,0.44823697798303724
+2119584748,Scheduling Updates in a Real-Time Stream Warehouse,2009,10,70,2,0.486486,2618045780,Lukasz Golab,0,-0.5876240779499055,0.4866001820711351
+2144261930,Gigascope a stream database for network applications,2003,6,715,2,1.0,2798650010,Charles D. Cranor,0,-0.341651097073727,0.26995977747973376
+2150569458,Holistic UDAFs at streaming speeds,2004,36,99,2,0.0,2190072679,Graham Cormode,0,-0.7763972293192366,0.33186691170621224
+2149133292,The MD-join an operator for complex OLAP,2001,21,62,3,0.448425,106204968,Damianos Chatziantoniou,0,-0.6097718692527248,0.7250820229721153
+2150106885,Query-Aware Sampling for Data Streams,2007,37,115,1,1.0,2168523976,Theodore Johnson,0,-0.500424061585821,0.42843764499006126
+2229968570,Optimized field unpacking for a data stream management system,2008,5,0,1,1.0,2168523976,Theodore Johnson,0,-1.0555484599409537,0.2149443588511415
+2198755618,COMPLEX DEPENDENCIES FOR EFFICIENT DATA WAREHOUSE UPDATES,2008,5,74,1,1.0,2168523976,Theodore Johnson,0,-1.759838713534799,0.96350247208093
+2279804989,Methods Systems and Products for Maintaining Data Consistency in a Stream Warehouse,2011,26,12,1,1.0,2168523976,Theodore Johnson,0,0.003708468606338,0.082832279151172
+2284585236,Method and apparatus for querying a cube forest data structure,1998,14,44,2,0.0,2082974086,Dennis Shasha,0,0.003708468606338,0.082832279151172
+2299464733,Method and apparatus for data stream sampling,2006,11,54,1,1.0,2168523976,Theodore Johnson,0,0.1656019551103819,0.40049106199639006
+2295398559,Data Stream Warehousing In Tidalrace,2015,35,14,1,1.0,2168523976,Theodore Johnson,0,-0.09997199039055772,0.2150124930473275
+2286420773,Generating And Using Temporal Data Partition Revisions,2012,10,5,1,1.0,2168523976,Theodore Johnson,0,-0.32691045021186027,0.08699938867340483
+2412028766,Methods and apparatus for querying multiple data streams,2005,14,10,1,1.0,2168523976,Theodore Johnson,0,-0.24974665159713627,-0.19434508556492136
+2513449443,Nepal a path query language for communication networks,2016,22,3,1,1.0,2168523976,Theodore Johnson,0,0.05448019130845853,0.011338791864125031
+2631772412,Efficient OLAP query processing in distributed data warehouses,2003,23,54,3,1.0,2974711557,Michael O. Akinde,0,1.0132663377260682,0.44823697798303724
+2614390575,Enabling Change Exploration Vision Paper,2017,13,0,2,0.0,2533241308,Tobias BleifuÃŸ,0,0.19375008610869382,-0.024177203156191873
+2612873006,Virtualized Network Service Topology Exploration Using Nepal,2017,15,2,2,0.0,2626459752,Pramod Jamkhedkar,0,0.003708468606338,0.082832279151172
+2760685924,A Tool for Statistical Analysis on Network Big Data,2017,10,0,2,0.0,2165938062,Carlos Ordonez,0,-0.9889922743601703,0.18747314858649036

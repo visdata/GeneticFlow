@@ -1,0 +1,100 @@
+18921415,Database Performance in the Real World - TPC-D and SAP R/3 (Experience Paper),1997,0,1,4,0.0,2405331826,Jochen Doppelhammer,0,-1.9773732815964398,0.6980959237337054
+81924951,SAP R/3 A Database Application System (Tutorial),1998,0,7,2,0.141483,2244150349,Alfons Kemper,0,0.3006759972795584,0.2520279930814796
+1185726409,Shared workload optimization,2014,28,33,4,1.0,2052023403,Georgios Giannikis,0,-1.960414232413838,0.21241863108026937
+1552413113,An Optimizer for Heterogeneous Systems with NonStandard Data and Search Capabilities,1996,0,16,2,0.672638,2304639312,Laura M. Haas,0,-0.15146063722121936,0.10685210226051832
+1534469055,Probabilistic Ranking of Database Query Results,2004,0,2,8,0.0,2163909284,Surajit Chaudhuri,0,-1.2695467548842534,0.48347023734806116
+1217199245,iMeMex escapes from the personal information jungle,2005,5,26,3,0.0,2666274870,Jens Peter Dittrich,0,0.003708468606338,0.082832279151172
+1517375317,Finding Data in the Neighborhood,1997,16,12,3,1.0,2477451140,AndrÃ© Eickler,0,0.003708468606338,0.082832279151172
+1484772825,Generalised Hash Teams for Join and Group-by,1999,26,21,2,0.141483,2244150349,Alfons Kemper,0,-2.2097907627610094,-1.555122345144776
+1574235692,A publish and subscribe architecture for distributed metadata management,2002,25,34,2,1.0,81115600,Markus Keidl,0,-0.4510729884163594,0.24846660988711605
+1529638954,A Performance Evaluation of OID Mapping Techniques,1995,30,32,3,0.0,2477451140,AndrÃ© Eickler,0,-0.21934185016841626,0.6056873083074126
+1556873914,Transaction processing on confidential data using cipherbase,2015,32,26,5,0.0,2288886406,Arvind Arasu,0,-0.21289101979956976,0.34240913356548724
+1567711236,ObjectGlobe Open Distributed Query Processing Services on the Internet,2001,13,12,4,1.0,178501627,Reinhard Braumandl,0,-0.5207388606918844,0.13779230513221863
+1578930331,Adaptive XML Storage or The Importance of Being Lazy,2005,13,1,2,1.0,2010316361,Cristian Duda,0,-1.70918667906123,-0.15551905836011895
+1589399220,Agora Living with XML and Relational,2000,9,73,3,0.0,740816581,Ioana Manolescu,0,-2.14885900826464,-0.29386647175050573
+1963537333,How best to build web-scale data managers ,2009,6,0,5,0.0,2893888,Michael Cafarella,0,-0.2566892008790817,0.2695408193238921
+1862168009,ADAPTIVE RANGE FILTERS FOR RANGE AND POINT QUERIES,2013,14,8,2,0.0,2148643341,Per Ake Larson,0,0.003708468606338,0.082832279151172
+1592532873,Bi-temporal Timeline Index A data structure for Processing Queries on bi-temporal data,2015,25,12,6,0.9375,2165435275,Martin Kaufmann,0,-1.0216259758943114,0.5052467107201022
+1602283513,Performance Tuning for SAP R/3,1999,3,113,2,0.141483,2244150349,Alfons Kemper,0,0.003708468606338,0.082832279151172
+1625144041,Implementing Memoization in a Streaming XQuery Processor,2004,16,12,3,0.0,2245676595,Yanlei Diao,0,-1.833016876474057,-0.16807972182291364
+1982384140,How new is the cloud,2010,0,5,1,1.0,2242617642,Donald Kossmann,0,-1.2738914077663708,-0.6642361941457577
+1979152732,Discovering Valuable items from Massive Data,2015,43,7,4,0.0,1586316923,Hastagiri P. Vanchinathan,0,0.08329114195231535,0.32893178638165566
+1997912086,Time travel in column stores,2013,17,2,4,1.0,2165435275,Martin Kaufmann,0,-0.21934185016841626,0.6056873083074126
+1991636631,StoryPivot Comparing and Contrasting Story Evolution,2015,18,1,2,0.777778,157414336,Anja Gruenheid,0,0.03452684058154445,0.38161437663138903
+2004145258,Quality of service in an information economy,2003,31,31,3,1.0,178501627,Reinhard Braumandl,0,-0.5207388606918844,0.13779230513221863
+1997168731,The Beckman Report on Database Research,2014,7,47,17,0.0,2170206103,Daniel J. Abadi,0,-0.08216369031341794,0.1395680461546204
+2007693284,Towards indexing functions answering scalar product queries,2014,32,3,4,0.146449,2164403858,Arijit Khan,0,-0.3092032520346774,-0.16672049109117548
+1993813873,On the Design and Scalability of Distributed Shared-Data Databases,2015,51,32,4,0.0,1269316665,Simon Loesing,0,-1.1563796570445568,0.4925364182613372
+1993819379,The implementation and performance of compressed databases,2000,24,153,2,0.0,1273790750,Till Westmann,0,-1.8219863078468954,0.8163387848587553
+2022431239,QAGen generating query-aware test databases,2007,21,92,2,1.0,228175360,Carsten Binnig,0,-1.7600128521545264,0.5686759609190812
+2010250346,Analytics in Motion High Performance Event-Processing AND Real-Time Analytics in the Same Database,2015,30,24,5,1.0,2634532463,Lucas Braun,0,0.7480411459932387,0.3462778983656144
+2031427342,Data-thirsty business analysts need SODA search over data warehouse,2011,8,7,3,0.625872,2135217904,Lukas Blunschi,0,-0.5350578365311183,0.15263371629147926
+2012558145,A web of data new architectures for new technology ,2005,0,2,1,1.0,2242617642,Donald Kossmann,0,-0.014972023683650207,-2.4905644185424025
+2017912523,Testing database applications,2006,10,19,2,1.0,228175360,Carsten Binnig,0,-1.9214170196330351,0.680206149655919
+2032299694,SODA generating SQL for business users,2012,21,35,3,0.625872,2135217904,Lukas Blunschi,0,-0.1759052431746607,0.1023574147338526
+2011300314,Workload optimization using SharedDB,2013,4,5,4,1.0,2052023403,Georgios Giannikis,0,-0.9879994444634828,0.2270375390943854
+2042296533,A generic database benchmarking service,2013,6,5,3,1.0,2165435275,Martin Kaufmann,0,-2.1756274137352265,0.7703448972057716
+2054647594,Data management for a smart earth the Swiss NCCR-MICS initiative,2006,3,5,3,0.0,150096297,Karl Aberer,0,0.07456305121593465,-0.0403706168503739
+2053129230,Database performance in the real world TPC-D and SAP R/3,1997,6,39,3,0.0,209176929,Thomas HÃ¶ppler,0,-2.232031813978512,0.7595468311144833
+2037289266,The Claremont report on database research,2008,6,119,18,0.0,2537924216,Rakesh Agrawal,0,0.4892658806162758,0.09412935560669573
+2035808430,Functional-join processing,2000,39,17,3,1.0,178501627,Reinhard Braumandl,0,-0.2589635492338047,0.4487355307303614
+2046739135,XL a platform for web services,2002,13,20,3,0.376383,2061024894,Daniela Florescu,0,-0.15160885715108263,-2.8286213846700354
+2059678295,Exploiting early sorting and early partitioning for decision support query processing,2000,32,28,3,0.0,2137524500,Christian Wiesner,0,0.1521530797840228,0.5500851654698774
+2074460589,Building web applications without a database system,2008,0,4,1,1.0,2242617642,Donald Kossmann,0,-2.225041882661915,0.4483895955021708
+2087378048,Storing and processing temporal data in a main memory column store,2013,56,9,2,1.0,2165435275,Martin Kaufmann,0,-0.13073675641143268,0.293549280125493
+2099525917,A framework for testing DBMS features,2010,35,22,3,0.0,2098564095,Eric Lo,0,-2.950799492285396,1.0573514139629372
+2089347259,SharedDB killing one thousand queries with one stone,2012,29,84,3,1.0,2052023403,Georgios Giannikis,0,0.003708468606338,0.082832279151172
+2085906314,Programming for XML,2006,0,1,2,0.376383,2061024894,Daniela Florescu,0,-2.240805191902222,-0.26775203377377504
+2092954093,Timeline index a unified data structure for processing queries on temporal data in SAP HANA,2013,29,51,5,1.0,2165435275,Martin Kaufmann,0,-0.13073675641143268,0.293549280125493
+2100542992,Constant-Time Query Processing,2008,14,120,6,0.0,2112167796,Vijayshankar Raman,0,-0.6556887151771722,0.47968260663867746
+2101192785,AJAXSearch crawling indexing and searching web 20 applications,2008,6,39,3,1.0,2010316361,Cristian Duda,0,0.5686020567666673,-3.5628461219850442
+2079731068,Comprehensive and interactive temporal query processing with SAP HANA,2013,8,13,4,1.0,2165435275,Martin Kaufmann,0,-0.1259594418479982,0.22985520027401116
+2114461860,Predicate-based indexing for desktop search,2010,40,2,2,1.0,2010316361,Cristian Duda,0,0.003976576688284587,-0.47470404865689364
+2126274497,Data Management in the Cloud Promises State-of-the-art and Open Questions,2010,19,25,1,1.0,2242617642,Donald Kossmann,0,-0.24631475925461466,0.01662727508514165
+2135315786,Consistency rationing in the cloud pay only when it matters,2009,34,190,4,0.0,2078839115,Tim Kraska,0,-2.5072721634549833,1.0274928680668396
+2132497824,An evaluation of alternative architectures for transaction processing in the cloud,2010,23,230,1,1.0,2242617642,Donald Kossmann,0,0.9756064571387345,0.23490503978361713
+2111973721,The Credit Suisse Meta-data Warehouse,2012,3,5,4,1.0,2043121753,Claudio Jossen,0,0.2240536479216578,0.12833435577814936
+2132938172,Bridging the gap between OLAP and SQL,2005,21,24,2,0.0,2666274870,Jens Peter Dittrich,0,-0.35728020769286084,0.4442148332815016
+2142243881,AGILE adaptive indexing for context-aware information filters,2005,23,43,3,0.0,2666274870,Jens Peter Dittrich,0,0.003708468606338,0.082832279151172
+2124346586,Integrating semi-join-reducers into state-of-the-art query processors,2001,29,45,1,1.0,2242617642,Donald Kossmann,0,-0.5207388606918844,0.13779230513221863
+2127444871,Predicate-based Indexing of Enterprise Web Applications,2007,2,8,3,1.0,2010316361,Cristian Duda,0,-0.16590167885746515,-2.583698232384104
+2121612399,Shooting stars in the sky an online algorithm for skyline queries,2002,16,796,1,1.0,2242617642,Donald Kossmann,0,0.6600341014381859,-0.3150814337159664
+2124722556,AJAX Crawl Making AJAX Applications Searchable,2009,32,81,3,1.0,2010316361,Cristian Duda,0,-0.21829003905112773,-1.538961166488166
+2133900260,Reducing the Braking Distance of an SQL Query Engine,1998,21,119,2,0.0,2157114695,Michael J. Carey,0,-0.01657107088421793,0.035389748403282274
+2134101869,Ecient Regression Tests for Database Applications,2005,8,25,2,1.0,322421229,Florian Haftmann,0,-1.0450379248658177,0.49610064245799845
+2140344011,SwissQM Next Generation Data Processing in Sensor Networks,2007,15,82,3,0.0,2633999632,RenÃ© MÃ¼ller,0,-0.33535782172068257,0.017442658691781576
+2140487524,Database patchwork on the Internet,1999,5,5,3,1.0,178501627,Reinhard Braumandl,0,-0.8880739656500264,0.23268560291674623
+2134876510,Optimizing Queries Across Diverse Data Sources,1997,26,443,2,0.672638,2304639312,Laura M. Haas,0,-0.15146063722121936,0.10685210226051832
+2159221989,A framework for efficient regression tests on database applications,2007,20,52,2,1.0,322421229,Florian Haftmann,0,-3.19438736378253,0.87599624735567
+2150606131,Predictable performance for unpredictable workloads,2009,23,86,5,0.0,2316066711,Philipp Unterbrunner,0,-1.1059678249606253,0.5050966648423716
+2171707251,Building a database on S3,2008,19,249,4,0.0,1978465897,Matthias Brantner,0,0.003708468606338,0.082832279151172
+2154031271,Performance tradeoffs for client-server query processing,1996,23,148,2,0.0,2523407221,Michael J. Franklin,0,-0.5207388606918844,0.13779230513221863
+2145269645,Adaptive range filters for cold data avoiding trips to Siberia,2013,16,34,2,0.0,2506814957,Karolina Alexiou,0,-0.14255436113902986,0.20337351355405242
+2148322068,On saying â€œEnough already â€ in SQL,1997,17,257,2,0.0,2157114695,Michael J. Carey,0,0.05448019130845853,0.011338791864125031
+2166519306,Rethinking cost and performance of database systems,2009,18,74,2,0.347822,2061024894,Daniela Florescu,0,0.003708468606338,0.082832279151172
+2152030485,Efficient bulk deletes in relational databases,2001,26,27,2,0.141483,2244150349,Alfons Kemper,0,-1.71336123971484,0.7724792970521597
+2170188482,The Skyline operator,2001,19,1937,1,1.0,2242617642,Donald Kossmann,0,0.23081012369086895,0.08140452187819663
+2164160537,Schema AND Data A Holistic Approach to Mapping Resolution and Fusion in Information Integration,2009,24,18,3,0.1387,2304639312,Laura M. Haas,0,-0.3907776543559145,-0.27310679911519486
+2158238403,Flexible and scalable storage management for data-intensive stream processing,2009,16,33,4,0.0,1922738813,Irina Botan,0,-0.7949212654219854,0.3229808421760159
+2164636932,Reverse Query Processing,2007,24,96,2,1.0,228175360,Carsten Binnig,0,-1.681032781297043,0.4459413361984348
+2158917799,SAP R/3 (tutorial) a database application system,1998,0,8,2,0.0,2030828791,Florian Matthes,0,-1.8087574650458633,0.6448310138338105
+2168144930,CrowdDB answering queries with crowdsourcing,2011,34,536,2,0.0,2523407221,Michael J. Franklin,0,-0.6826434502525237,0.22411273956816535
+2258399114,Fault-Tolerant Entity Resolution with the Crowd,2015,38,12,5,0.777778,157414336,Anja Gruenheid,0,0.4652651084194208,0.28298844907518483
+2260392665,Indexing and selecting hierarchical business logic,2015,21,4,3,0.0,2583075551,Alessandra Loro,0,-0.3171854155484702,-0.010591447039171198
+2312426467,A first step towards integration independence,2010,20,5,3,0.128996,2304639312,Laura M. Haas,0,-0.32348363556851245,0.0995322787058647
+2404645918,Using the Crowd to Solve Database Problems,2012,0,0,1,1.0,2242617642,Donald Kossmann,0,0.003708468606338,0.082832279151172
+2399183044,Benchmarking Bitemporal Database Systems Ready for the Future or Stuck in the Past ,2014,17,12,2,1.0,2165435275,Martin Kaufmann,0,-0.4239844318379835,0.006796866499987453
+2405228446,Cost and Quality Trade-Offs in Crowdsourcing,2013,14,2,2,0.692308,157414336,Anja Gruenheid,0,0.39224048752895385,0.2846060310207938
+2405501298,Analytics for the Real-Time Web,2011,10,9,4,0.0,2122247940,Maxim Grinev,0,0.18865376239692275,-1.6300739387103604
+2424898826,Revenue maximization by viral marketing A social network hosts perspective,2016,23,17,3,0.146449,2164403858,Arijit Khan,0,0.003708468606338,0.082832279151172
+2432995321,ParTime Parallel Temporal Aggregation,2016,27,1,4,1.0,2001134381,Markus Pilman,0,-0.3481922192502237,0.12788402052976078
+2540114004,Online Event Integration with StoryPivot,2016,28,0,2,0.777778,157414336,Anja Gruenheid,0,0.5910405228129657,-0.5189042339368067
+2518295070,Multi-query Optimization in a Scan-based Relational Main-memory Table,2010,24,0,1,1.0,2242617642,Donald Kossmann,0,-0.0395804122397981,0.0068802457672825015
+2597241293,Learning and Feature Selection under Budget Constraints in Crowdsourcing,2016,35,2,4,0.75,1761687205,Besmira Nushi,0,0.16120736300527022,0.1959630473235399
+2619959750,Mison a fast JSON parser for data analytics,2017,25,20,5,0.0,2147969462,Yinan Li,0,-0.2840980895242797,0.3294430450515855
+2753046585,Fast scans on key-value stores,2017,41,12,5,1.0,2001134381,Markus Pilman,0,0.003708468606338,0.082832279151172
+2947571256,Speculative Distributed CSV Data Parsing for Big Data Analytics,2019,21,3,5,0.0,2117483870,Chang Ge,0,0.24675092212343117,0.12906443586095184
+2945486614,ALEX An Updatable Adaptive Learned Index,2019,26,5,8,0.0,2945151971,Jialin Ding,0,-0.13275296294680305,-0.071629888206014
+3020084632,Qd-tree Learning Data Layouts for Big Data Analytics,2020,46,0,8,0.0,3020579227,Zongheng Yang,0,0.12492345808765674,0.23414093372237493
+3022869270,Chapter 25 â€“ Shooting Stars in the Sky An Online Algorithm for Skyline Queries,2002,16,1,3,0.0,311686939,Frank Ramsak,0,0.13065216355882459,0.604978906029433
+2595476217,MTBase Optimizing Cross-Tenant Database Queries,2017,15,0,4,1.0,2634532463,Lucas Braun,0,-0.17943480352661542,-0.13090138498663392

@@ -1,0 +1,80 @@
+153608977,Program analysis for web security,2011,0,0,1,1.0,2125383417,John C. Mitchell,0,1.7029826062605458,-0.2600589908962866
+171293817,The Impossibility of Realizable Ideal Functionality,2005,26,2,1,1.0,2125383417,John C. Mitchell,0,-0.38073540769219444,-0.8809067963026437
+70080257,Reclaiming the blogosphere talkback a secure linkback protocol for weblogs,2011,11,2,3,0.353667,102775300,Elie Bursztein,0,-0.15864374652083932,-0.1879861517290886
+192036632,Client-Side Defense Against Web-Based Identity Theft,2004,4,395,4,0.0,2401115001,Neil Chou,0,-0.606828963442947,0.0621756832603683
+73999322,Homogeneity as an advantage it takes a community to protect an application,2010,19,1,9,0.0,2190938742,Linda Briesemeister,0,0.0040557659796233,0.2757546058061082
+198145552,Analysis of Security Protocols for Wireless Networks,2005,0,12,1,1.0,2125383417,John C. Mitchell,0,-0.6929533950419071,-0.8285063133431437
+340917026,Authenticated Address Notification for Mobile Communication,2001,0,0,1,1.0,2125383417,John C. Mitchell,0,-0.5189922993587469,-0.5439138796603755
+1498469271,Formal proofs of cryptographic security of Diffie-Hellman-based protocols,2007,58,23,3,0.0,2142789200,Arnab Roy,0,-1.2142175551124805,-1.7341791261386912
+1554312721,Security Analysis and Improvements for IEEE 80211i,2005,22,203,2,0.857143,2129494550,Changhua He,0,-1.2530314835082499,1.3155583614612316
+1527646163,Towards systematic evaluation of the evadability of bot/botnet detection methods,2008,11,66,2,0.0,2150534758,Elizabeth Stinson,0,0.0040557659796233,0.2757546058061082
+1501568500,Securing Java RMI-based distributed applications,2004,7,9,2,0.243243,2165412067,Ninghui Li,0,-0.5530861437885858,-0.004176666300269333
+1519558950,Using strategy objectives for network security analysis,2009,43,12,2,0.318238,102775300,Elie Bursztein,0,0.3259332239481683,0.5745734317069635
+1528878926,Analysis of a Fair Exchange Protocol,2000,22,59,2,0.5,8790322,Vitaly Shmatikov,0,-0.5802392354868331,0.33813396623017145
+1520257951,Analysis of EAP-GPSK authentication protocol,2008,50,9,1,1.0,2125383417,John C. Mitchell,0,-1.9671593536292444,-2.2912465381006974
+1603876738,Inductive proofs of computational secrecy,2007,44,16,4,0.0,2142789200,Arnab Roy,0,-0.9400379509569671,-0.13786160017634858
+1579453661,Isolating JavaScript with filters rewriting and wrappers,2009,20,63,2,1.0,1938236120,Sergio Maffeis,0,-1.157560915554388,-0.022590971900344037
+1588982178,Transaction generators root kits for web,2007,6,23,3,0.555556,2135217518,Collin Jackson,0,-1.3977102306679257,-0.48666527736506754
+1607915502,Stronger password authentication using browser extensions,2005,12,359,5,0.0,2695872278,Blake Ross,0,-2.299536298077948,-1.6097602162952205
+1652603594,A learning-based approach to reactive security,2010,23,22,4,0.403619,2478475868,Adam Barth,0,0.0040557659796233,0.2757546058061082
+1831288070,Analysis of Abuse-Free Contract Signing,2000,30,32,2,0.5,8790322,Vitaly Shmatikov,0,0.28226821111952455,0.34993237637268004
+1965550487,Programming language methods in computer security,2001,13,7,1,1.0,2125383417,John C. Mitchell,0,0.0040557659796233,0.2757546058061082
+1976371754,Towards a Formal Foundation of Web Security,2010,26,148,4,0.0,43593122,Devdatta Akhawe,0,0.0040557659796233,0.2757546058061082
+1979931683,State of the Art Automated Black-Box Web Application Vulnerability Testing,2010,12,213,4,0.888889,2161651684,Jason Bau,0,-1.4906487443016354,2.505157669622591
+1973042703,Contract signing optimism and advantageâ˜†,2005,26,15,2,0.259163,8790322,Vitaly Shmatikov,0,-0.19440854302312424,0.13978191786142882
+1999808081,Privacy and Cybersecurity The Next 100 Years,2012,41,23,3,0.0,2079317943,Carl E. Landwehr,0,0.053411726011239447,1.952777055149421
+1991660936,Declarative privacy policy finite models and attribute-based encryption,2012,25,9,2,1.0,2163132489,Peifung E. Lam,0,0.1619449052756829,0.1466302240755008
+1997423921,Finite-state analysis of two contract signing protocols,2002,35,98,2,0.5,8790322,Vitaly Shmatikov,0,-0.5348599217538504,0.0963839015426962
+2030123881,Conflict and combination in privacy policy languages,2004,3,37,2,0.857143,2478475868,Adam Barth,0,0.14541438885380967,2.293507733493969
+2049224403,Finite-state analysis of SSL 30,1998,9,155,1,1.0,2125383417,John C. Mitchell,0,-0.36139017078501745,-0.6698254899516656
+2037671236,Object Capabilities and Isolation of Untrusted Web Applications,2010,15,94,2,1.0,1938236120,Sergio Maffeis,0,-0.8167396210249015,0.9891933224411966
+2043144080,Beyond proof-of-compliance security analysis in trust management,2005,36,140,2,0.205882,2165412067,Ninghui Li,0,-0.02631441138331453,0.5660514633304238
+2066266646,Privacy and contextual integrity framework and applications,2006,37,325,3,0.5625,2478475868,Adam Barth,0,-0.014250080041493788,2.238266009381183
+2072978486,Robust defenses for cross-site request forgery,2008,19,347,3,0.535714,2478475868,Adam Barth,0,2.548241342421157,-0.07425538574092139
+2084062832,How Good Are Humans at Solving CAPTCHAs A Large Scale Evaluation,2010,21,187,4,0.318238,102775300,Elie Bursztein,0,-0.4095652199915964,0.3246894702283116
+2099878912,Addressing covert termination and timing channels in concurrent information flow systems,2012,59,50,5,0.478261,2126836863,Deian Stefan,0,-1.2812940612719312,1.4532137039183315
+2088846575,A Learning-Based Approach to Reactive Security,2012,25,18,4,0.341353,2478475868,Adam Barth,0,0.0040557659796233,0.2757546058061082
+2105486904,A state-transition model of trust management and access control,2001,24,72,2,0.0,2263464302,Ajay Chander,0,-0.8991125128977958,1.1361722739562032
+2105523261,Text-based CAPTCHA strengths and weaknesses,2011,21,189,3,0.353667,102775300,Elie Bursztein,0,-0.24211690259229268,0.3183057454078096
+2123479684,Design of a role-based trust-management framework,2002,26,717,2,0.4,2165412067,Ninghui Li,0,-0.727831055819206,0.6111586734127012
+2126461222,Securing frame communication in browsers,2008,10,66,3,0.535714,2478475868,Adam Barth,0,-0.49577385776905125,0.27885947802810657
+2139026102,SessionJuggler secure web login from an untrusted terminal using session hijacking,2012,25,12,4,0.353667,102775300,Elie Bursztein,0,-1.0784145457606118,0.09694435136818517
+2133113868,Protecting browser state from web privacy attacks,2006,3,182,4,1.0,2135217518,Collin Jackson,0,0.9532031733680882,2.101856534832201
+2115962125,Securing frame communication in browsers,2009,12,96,3,0.439024,2478475868,Adam Barth,0,-0.6525339241324515,-0.017668068374477163
+2121780525,Automated Analysis of Security-Critical JavaScript APIs,2011,34,84,3,0.0,2130033434,Ankur Taly,0,-0.19992953342675066,1.4619356548013922
+2136644046,A Security Evaluation of DNSSEC with NSEC3,2010,3,42,2,0.888889,2161651684,Jason Bau,0,-2.1014403913761126,0.15573362915776262
+2122167991,Hails protecting data privacy in untrusted web applications,2012,35,91,6,1.0,2303746664,Daniel B. Giffin,0,-0.6091474853882128,1.9567141490162714
+2128755207,A Formalization of HIPAA for a Medical Messaging System,2009,22,52,2,1.0,2163132489,Peifung E. Lam,0,0.25682035935019354,1.5536240615678387
+2108262017,Enterprise privacy promises and enforcement,2005,19,31,2,0.857143,2478475868,Adam Barth,0,0.5550846232450317,2.1840253485899397
+2144238966,Security Decision-Making among Interdependent Organizations,2008,16,44,3,0.0,2229117223,R. Ann Miura Ko,0,-0.603460894802433,1.2245839211196958
+2165477067,A modular correctness proof of IEEE 80211i and TLS,2005,30,101,5,0.857143,2129494550,Changhua He,0,-1.0392010346618874,-0.8492134804394759
+2168519318,A Layered Architecture for Detecting Malicious Behaviors,2008,25,111,5,0.0,1251691842,Lorenzo Martignoni,0,-0.023154757892430766,0.45036248453214345
+2186406890,Conflict and Combination in Privacy Policy Languages (Summary),2004,2,0,1,1.0,2125383417,John C. Mitchell,0,0.14541438885380967,2.293507733493969
+2150682469,Automated analysis of cryptographic protocols using Mur/spl phi/,1997,18,468,2,0.0,2103634389,Ulrich Stern,0,-0.9511494817387893,-0.5423908878132954
+2168727550,The Failure of Noise-Based Non-continuous Audio Captchas,2011,21,65,6,0.353667,102775300,Elie Bursztein,0,-0.24211690259229268,0.3183057454078096
+2150847510,Distributed credential chain discovery in trust management extended abstract,2001,16,97,3,0.4,2165412067,Ninghui Li,0,-1.604251420227665,-0.7836711506548381
+2159764755,Third-Party Web Tracking Policy and Technology,2012,41,291,2,0.0,2276390081,Jonathan Mayer,0,0.0040557659796233,0.2757546058061082
+2181415290,Securing Frame Communication,2009,5,2,1,1.0,2125383417,John C. Mitchell,0,-0.49577385776905125,0.27885947802810657
+2151141190,Finite-State Analysis of Security Protocols,1998,17,27,1,1.0,2125383417,John C. Mitchell,0,-0.34930386415873055,-1.0165983348508778
+2160773001,Specifying and verifying hardware for tamper-resistant software,2003,25,94,2,0.0,2096695634,David Lie,0,-0.2052321368633543,0.04176253985730222
+2160804322,Toward principled browser security,2013,28,11,3,0.0,2158633819,Edward Z. Yang,0,-0.09602735134178905,0.6849619620451437
+2145994227,Analysis of the 80211i 4-way handshake,2004,13,152,2,0.857143,2129494550,Changhua He,0,-0.8341046796077191,-0.7041615069020564
+2182566237,Privacy and Cybersecurity The Next 100 Years This paper discusses the interrelationship of privacy and cybersecurity and provides brief retrospectives and speculative views of how the future may look for theory and algorithms technology policy and economics from the point of view of five different researchers,2012,40,0,5,0.0,201828038,Dan Boneh,0,0.0040557659796233,0.2757546058061082
+2152415989,Security Modeling and Analysis,2011,15,66,2,0.888889,2161651684,Jason Bau,0,-1.4847286527045687,2.178677149259457
+2189341249,Analysing Object-Capability Patterns With Mur,2011,22,0,1,1.0,2125383417,John C. Mitchell,0,0.0040557659796233,0.2757546058061082
+2237491325,Privacy-Preserving Shortest Path Computation,2016,62,18,4,0.0,2143646801,David J. Wu,0,-0.033095429911263255,-0.05907513634524224
+2229481135,Understanding the challenges with medical data segmentation for privacy,2013,37,8,3,0.0,2126393858,Ellick M. Chan,0,0.2191867210051753,1.32111020575321
+2256575985,Combining Cryptography and Game Theory in Distributed Algorithms,2004,0,0,2,0.0,2053036353,Vanessa Teague,0,0.1703000578287332,-0.8740665715046234
+2283653096,Detection of malicious programs,2007,13,64,1,1.0,2125383417,John C. Mitchell,0,0.0040557659796233,0.2757546058061082
+2411056792,A constructive design methodology for trust management systems,2003,0,1,1,1.0,2125383417,John C. Mitchell,0,0.1813707472396476,1.4549986960208716
+2399996762,Key Exchange Protocols Security Definition Proof Method and Applications,2006,40,4,3,1.0,2147094257,Anupam Datta,0,-0.9343544070556581,-1.0354431036819023
+2476244469,Principles of Security and Trust,2013,0,0,1,1.0,2125383417,John C. Mitchell,0,-0.49855030693715435,1.3743771681663757
+2537905549,Security investment games of interdependent organizations,2008,11,41,4,0.0,2020621672,Nicholas Bambos,0,-0.3997358192990675,0.5300608260096508
+2504627788,Target Fragmentation in Android Apps,2016,19,21,4,0.0,2405253463,Patrick Mutchler,0,1.0098435912875139,0.8589439898037241
+2576850142,A Fuzzy-Logic Approach for Evaluating a Cloud Service Provider,2015,16,4,1,1.0,2125383417,John C. Mitchell,0,-0.09602735134178905,0.6849619620451437
+2523312366,Finite-state analysis of security protocols,1998,0,0,1,1.0,2125383417,John C. Mitchell,0,0.4386481458296199,-1.09114003265595
+2625599531,Hails Protecting data privacy in untrusted web applications,2017,61,3,6,1.0,2303746664,Daniel B. Giffin,0,-0.6091474853882128,1.9567141490162714
+2780951094,Privacy for targeted advertising,2017,26,0,2,0.0,2140637626,Avradip Mandal,0,-0.15521844782022146,0.7006247928532142
+2911777990,Proceedings of the 2005 ACM workshop on Formal methods in security engineering,2005,0,1,3,0.0,2087987499,Pierangela Samarati,0,-1.7925625683788486,0.5638398605504841
+2950677178,A Security Evaluation of DNSSEC with NSEC3,2010,0,2,2,0.888889,2161651684,Jason Bau,0,0.0040557659796233,0.2757546058061082
+1522177810,Contract Signing Optimism and Advantage,2003,32,30,3,0.0,2194631612,Rohit Chadha,0,-0.19440854302312424,0.13978191786142882

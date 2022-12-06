@@ -1,0 +1,77 @@
+110977595,Regularized Mapping to Latent Structures and Its Application to Web Search,2012,27,2,1,1.0,2128739099,Hang Li,0,0.003708468606338,0.082832279151172
+322218143,MINING INTENT OF QUERIES FROM SEARCH LOG DATA,2011,13,17,3,0.75,2110062735,Yunhua Hu,0,-0.10173529049600845,0.25402026621535645
+1541635575,Text mining apparatus and associated methods,2005,16,53,2,0.434211,2110085972,Yunbo Cao,0,0.3800127224570261,0.21004767587848977
+1524137633,OPTIMIZING RANKING OF DOCUMENTS USING CONTINUOUS CONDITIONAL RANDOM FIELDS,2008,42,10,2,0.425813,2108341226,Tie Yan Liu,0,0.003708468606338,0.082832279151172
+1538004541,Electronic mail data cleaning,2005,24,8,2,0.434211,2110085972,Yunbo Cao,0,0.003708468606338,0.082832279151172
+1595500906,A supervised learning approach to entity search,2006,23,21,3,0.0,2676946541,Guoping Hu,0,0.9008421332863259,-1.5886340512770902
+1910054324,Adapting document ranking to usersâ€™ preferences using click-through data,2006,24,21,1,1.0,2128739099,Hang Li,0,0.15601769758000922,0.11966392551731701
+1940242918,Question Classification by Approximating Semantics,2015,34,4,6,0.0,2275089249,Guangyu Feng,0,-0.03683716294039695,-0.12732119436964612
+1918171854,Ranking documents based on a series of document graphs,2007,48,34,2,0.425813,2108341226,Tie Yan Liu,0,0.003708468606338,0.082832279151172
+1774032564,Query Segmentation for Relevance Ranking in Web Search,2013,1,2,3,0.5,2131380619,Haocheng Wu,0,-0.01657107088421793,0.035389748403282274
+1964105265,A conversation with MSRA researchers,2012,0,0,7,0.0,2134693834,Wei Ying Ma,0,0.003708468606338,0.082832279151172
+1976758266,Extracting search-focused key n-grams for relevance ranking in web search,2012,34,9,4,0.0,2672058280,Chen Wang,0,0.003708468606338,0.082832279151172
+1984342665,Enhancing web search by mining search and browse logs,2011,90,1,3,0.391826,2123654898,Daxin Jiang,0,-0.2900269203802278,-2.2191257089288743
+1965416263,Mining from open answers in questionnaire data,2001,14,39,1,1.0,2128739099,Hang Li,0,0.01983102770564497,0.0448037883795025
+1974490937,Regularized latent semantic indexing,2011,37,59,3,1.0,2713436602,Quan Wang,0,-0.17536238923574604,0.4144853997593385
+1967675625,Query representation and understanding workshop,2011,0,18,3,0.0,2127889770,W. Bruce Croft,0,0.003708468606338,0.082832279151172
+2001832483,A general approximation framework for direct optimization of information retrieval measures,2010,39,74,3,0.509143,2229075028,Tao Qin,0,0.003708468606338,0.082832279151172
+2005760119,Selecting optimal training data for learning to rank,2011,29,16,5,0.666667,2167037537,Xiubo Geng,0,-0.1626858259763129,-2.469263836333502
+2007815473,LETOR A benchmark collection for research on learning to rank for information retrieval,2010,50,287,4,0.509143,2229075028,Tao Qin,0,0.3093702597112594,0.0781901659384289
+2008037086,SIGIR 2014 workshop on semantic matching in information retrieval,2014,3,2,2,0.0,2250691864,Julio Gonzalo,0,0.7070857131320607,-2.053203062053005
+1997689387,Search and browse log mining for web information retrieval challenges methods and applications,2010,90,1,3,0.514532,2123654898,Daxin Jiang,0,-0.6649373759363265,-1.9114817334486713
+2027271985,A Probabilistic Approach to String Transformation,2014,30,17,3,0.0,2159797654,Ziqi Wang,0,0.003708468606338,0.082832279151172
+2054655579,Ranking Optimization with Constraints,2014,37,3,3,0.0,2142281011,Fangzhao Wu,0,0.003708468606338,0.082832279151172
+2035849021,A Ranking Approach on Large-Scale Graph With Multidimensional Heterogeneous Information,2016,51,10,6,0.0,2723902225,Wei Wei,0,-0.15964450942365144,-0.2751529353446891
+2073529288,A new approach to intranet search based on information extraction,2005,29,21,1,1.0,2128739099,Hang Li,0,0.3093702597112594,0.0781901659384289
+2056767790,Mining search and browse logs for web search A Survey,2013,125,44,3,0.370552,2123654898,Daxin Jiang,0,0.1475589000549284,-3.3533869786861277
+2056769738,A vlHMM approach to context-aware search,2013,50,6,7,0.857143,2150519155,Zhen Liao,0,0.003708468606338,0.082832279151172
+2063784997,Web search/browse log mining challenges methods and applications,2010,82,7,3,0.514532,2123654898,Daxin Jiang,0,-0.7885806180244929,-0.873536100855622
+2096961418,A unified and discriminative model for query refinement,2008,28,108,3,0.631579,2581340266,Jiafeng Guo,0,-0.1029618939806145,0.040434369851773004
+2097116485,Statistical Consistency of Top-k Ranking,2009,17,28,3,0.0,2147779796,Fen Xia,0,0.003708468606338,0.082832279151172
+2103179193,Query-level loss functions for information retrieval,2008,30,104,5,0.6,2229075028,Tao Qin,0,-0.0031083031663548004,-0.30935013801880873
+2103235295,Feature selection for ranking,2007,50,214,4,1.0,2167037537,Xiubo Geng,0,-0.25023896793326905,0.13037718530513653
+2097385711,A ranking approach to keyphrase extraction,2009,35,90,3,1.0,2625105592,Xin Jiang,0,0.2908575072107241,0.3234328159442016
+2097478551,A Unified Tagging Approach to Text Normalization,2007,14,14,3,0.0,2658184291,Conghui Zhu,0,0.003708468606338,0.082832279151172
+2100507040,Improving quality of training data for learning to rank using click-through data,2010,22,37,4,0.0,2257428657,Jingfang Xu,0,0.137894550983587,-0.09646013434435859
+2103971611,Relevance Ranking Using Kernels,2010,35,18,2,1.0,2598177019,Jun Xu,0,0.003708468606338,0.082832279151172
+2093907838,A new approach to query segmentation for relevance ranking in web search,2015,32,4,3,0.5,2131380619,Haocheng Wu,0,-0.01657107088421793,0.035389748403282274
+2101589718,Ranking with multiple hyperplanes,2007,34,97,5,0.6,2229075028,Tao Qin,0,0.003708468606338,0.082832279151172
+2098700435,Named entity recognition in query,2009,51,296,4,0.631579,2581340266,Jiafeng Guo,0,-0.7344770132738951,0.49945938209693325
+2096252296,Page importance computation based on Markov processes,2011,29,8,6,0.554714,2616890138,Bin Gao,0,0.003708468606338,0.082832279151172
+2105151169,Machine learning for query-document matching in search,2012,76,3,1,1.0,2128739099,Hang Li,0,-0.01657107088421793,0.035389748403282274
+2114596616,Web Query Recommendation via Sequential Query Prediction,2009,38,95,7,0.0,2309017108,Qi He,0,-0.01657107088421793,0.035389748403282274
+2132300069,Supervised rank aggregation,2007,28,148,5,1.0,2127214430,Yuting Liu,0,-0.3707146706369706,1.284254192186507
+2141535120,A kernel approach to addressing term mismatch,2011,4,7,3,1.0,2598177019,Jun Xu,0,-0.11300819442795465,0.09518744858596301
+2126586599,A framework to compute page importance based on user behaviors,2010,33,23,5,1.0,2127214430,Yuting Liu,0,-0.28833680027466346,-1.0142505022370134
+2109042199,Learning to rank relational objects and its application to web search,2008,40,76,5,0.6,2229075028,Tao Qin,0,-0.5916676712806993,2.6216816217792327
+2115346359,Named entity mining from click-through data using weakly supervised latent dirichlet allocation,2009,23,42,3,0.0,2666090239,Gu Xu,0,-0.425219374693087,-0.8527242105510375
+2142345475,Learning a Robust Relevance Model for Search Using Kernel Methods,2011,52,7,3,0.875,2590381716,Wei Wu,0,-0.1916888409096968,-0.26501256474732954
+2142537246,AdaRank a boosting algorithm for information retrieval,2007,32,626,2,1.0,2598177019,Jun Xu,0,0.003708468606338,0.082832279151172
+2127539404,Towards context-aware search by learning a very large variable length hidden markov model from search logs,2009,25,108,5,0.444444,2101313578,Huanhuan Cao,0,0.003708468606338,0.082832279151172
+2127564752,Learning bilinear model for matching queries and documents,2013,54,20,3,0.875,2590381716,Wei Wu,0,1.2350652037173413,0.39061007574644036
+2139450192,Context-aware ranking in web search,2010,19,129,6,0.0,2099862789,Biao Xiang,0,0.003708468606338,0.082832279151172
+2109932952,Email data cleaning,2005,32,56,2,0.113924,2158012360,Jie Tang,0,0.3800127224570261,0.21004767587848977
+2115957413,BrowseRank letting web users vote for page importance,2008,24,161,7,1.0,2127214430,Yuting Liu,0,-0.28956091966779457,-2.384680665133525
+2142697503,Ranking Measures and Loss Functions in Learning to Rank,2009,18,74,5,0.0,2786945354,Wei Chen,0,0.003708468606338,0.082832279151172
+2116584611,Ranking definitions with supervised learning methods,2005,24,52,3,0.956522,2598177019,Jun Xu,0,0.003708468606338,0.082832279151172
+2110683310,Uncertainty Reduction in Collaborative Bootstrapping Measure and Algorithm,2003,12,8,2,1.0,2110085972,Yunbo Cao,0,0.003708468606338,0.082832279151172
+2131343135,Semi-supervised document retrieval,2009,58,39,2,0.0,2252453783,Ming Li,0,-0.4493006663413203,2.9507892137113236
+2110822809,Query dependent ranking using K-nearest neighbor,2008,41,145,5,1.0,2167037537,Xiubo Geng,0,0.003708468606338,0.082832279151172
+2122901787,Learning query and document similarities from click-through bipartite graph with metadata,2013,39,46,2,0.875,2590381716,Wei Wu,0,0.19152519477480154,0.17448811480700588
+2147293034,Mining query subtopics from search log data,2012,29,57,3,0.75,2110062735,Yunhua Hu,0,0.6145318331314635,-1.0930462512509738
+2153398472,Searching documents based on relevance and type,2007,17,5,3,1.0,2598177019,Jun Xu,0,-1.5099384861438434,0.5253851721987457
+2144609465,A general markov framework for page importance computation,2009,6,14,5,1.0,2616890138,Bin Gao,0,0.003708468606338,0.082832279151172
+2171743956,Context-aware query suggestion by mining click-through and session data,2008,21,413,7,0.444444,2101313578,Huanhuan Cao,0,-0.01657107088421793,0.035389748403282274
+2171749496,Directly optimizing evaluation measures in learning to rank,2008,46,107,4,1.0,2598177019,Jun Xu,0,0.003708468606338,0.082832279151172
+2151350269,Research on Expert Search at Enterprise Track of TREC 2005,2005,0,94,4,0.434211,2110085972,Yunbo Cao,0,0.003708468606338,0.082832279151172
+2154334393,Ranking refinement and its application to information retrieval,2008,19,31,3,0.0,2142724104,Rong Jin,0,0.003708468606338,0.082832279151172
+2160341176,Direct Optimization of Evaluation Measures in Learning to Rank,2010,32,3,2,0.270125,2108341226,Tie Yan Liu,0,0.003708468606338,0.082832279151172
+2169681319,Regularized Latent Semantic Indexing A New Approach to Large-Scale Topic Modeling,2013,60,36,3,1.0,2713436602,Quan Wang,0,-0.17536238923574604,0.4144853997593385
+2153007951,Semi-supervised ranking on very large graphs with rich metadata,2011,24,48,5,0.554714,2616890138,Bin Gao,0,0.003708468606338,0.082832279151172
+2153068592,Group matrix factorization for scalable topic modeling,2012,29,23,4,1.0,2713436602,Quan Wang,0,0.12826635323194668,0.27884732283399283
+2171045163,Mining Concept Sequences from Large-Scale Search Logs for Context-Aware Query Suggestion,2011,46,39,6,0.857143,2150519155,Zhen Liao,0,-0.01657107088421793,0.035389748403282274
+2212253978,Ranking search results using author extraction,2008,16,35,3,0.0,163359911,Yauhen Shnitko,0,0.003708468606338,0.082832279151172
+2309921966,APPROXIMATION FRAMEWORK FOR DIRECT OPTIMIZATION OF INFORMATION RETRIEVAL MEASURES,2010,5,7,2,0.270125,2108341226,Tie Yan Liu,0,-0.13275296294680305,-0.071629888206014
+2278681661,Text mining method,2004,8,14,2,1.0,2110085972,Yunbo Cao,0,0.12826811924333012,0.24229705566798984
+2336509759,Incorporating Semantic Knowledge into Latent Matching Model in Search,2016,13,0,3,0.0,2630153416,Shuxin Wang,0,0.9375856585118055,-2.7162105349702714
+2746562412,Search Mining and Their Applications on Mobile Devices Introduction to the Special Issue,2017,68,0,4,0.0,2157880984,Hongning Wang,0,0.003708468606338,0.082832279151172

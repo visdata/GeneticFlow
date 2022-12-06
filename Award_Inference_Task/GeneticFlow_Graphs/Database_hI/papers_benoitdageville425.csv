@@ -1,0 +1,34 @@
+81500907,Incremental refresh of materialized views with joins and aggregates after arbitrary DML operations to multiple tables,2002,7,62,1,1.0,787883347,Benoit Dageville,0,1.0255473323569724,0.5706407297061632
+344134587,Techniques for recommending alternative sql execution plans,2010,6,8,2,1.0,275085680,Khaled Yagoub,0,-0.5094602754142198,0.5876912719269202
+1569299958,TRANSACTIONALLY CONSISTENT REPLAY OF APPLICATION WORKLOADS,2011,13,10,4,0.0,205565102,Mehmet Fidanboylu,0,1.562749413607142,0.3418414686314315
+1570958519,UNIFIED TRACING SERVICE,2008,9,37,1,1.0,787883347,Benoit Dageville,0,-0.05896113317471152,0.06631094317044801
+1031381193,Composite active reports,2013,14,5,2,1.0,275085680,Khaled Yagoub,0,-0.0041099411153885,0.0447066884760059
+1509435470,Method and mechanism for out-of-the-box real-time SQL monitoring,2008,25,8,1,1.0,787883347,Benoit Dageville,0,0.0908845357243609,0.31128747720343375
+1563531997,SQL tuning base,2004,157,32,1,1.0,787883347,Benoit Dageville,0,0.7227055994367071,0.3953462635048416
+1564127313,Hybrid optimization strategies in automatic SQL tuning,2008,1,13,3,0.888889,99402411,Thierry Cruanes,0,0.6282801123145432,0.1462819261315417
+1484527064,Self-managing performance statistics repository for databases,2004,9,42,1,1.0,787883347,Benoit Dageville,0,-0.28766808825942786,-0.3469394769389303
+1529796374,Database workload capture and replay architecture,2007,28,31,1,1.0,787883347,Benoit Dageville,0,2.0077461295714096,0.5007761480699834
+1839642835,Automatic prevention of run-away query execution,2004,92,54,3,0.555556,165114485,Mohamed Zait,0,0.014532710543751099,0.030944858938630852
+1917618233,Method and mechanism for database partitioning,2004,12,91,2,0.555556,165114485,Mohamed Zait,0,0.0685453554984727,0.13553432686587424
+1892816536,SQL execution plan verification,2008,202,28,3,0.533686,165114485,Mohamed Zait,0,1.1851860737273363,0.529256763041886
+1600940964,Intelligent collection of diagnostic data for communication to diagnosis site,2008,109,32,2,0.0,227407905,Ajith Kumar Mysorenagarajarao,0,-0.0041099411153885,0.0447066884760059
+1654140112,Dynamic performance views with a parallel single cursor model,2004,7,7,2,1.0,99402411,Thierry Cruanes,0,0.7215975991611812,0.3052417628859806
+1722987163,Compilation and processing a parallel single cursor model,2004,38,15,2,1.0,99402411,Thierry Cruanes,0,0.044859856903840555,0.012551371775477651
+2032733706,Performing recursive database operations,2004,28,8,2,1.0,99402411,Thierry Cruanes,0,-0.17244133864042968,-0.305030520451871
+2118679582,SQL structure analyzer,2004,153,35,3,0.555556,165114485,Mohamed Zait,0,0.10197334419917421,0.3388375219036596
+2134036940,Automatic workload repository battery of performance statistics,2004,74,22,1,1.0,787883347,Benoit Dageville,0,0.04349420240291613,-0.23876909909011368
+2219727108,SQL performance analyzer,2008,155,27,2,0.916667,275085680,Khaled Yagoub,0,2.3641617435857287,0.47055487064009643
+2220036237,Approximating a database statistic,2007,14,18,4,0.888889,99402411,Thierry Cruanes,0,-0.0041099411153885,0.0447066884760059
+2262414797,Parallel transfer of data from one or more external sources into a database system,2002,49,9,1,1.0,787883347,Benoit Dageville,0,-0.0041099411153885,0.0447066884760059
+2254075049,Methods systems and software for identifying and managing database work,2007,161,14,1,1.0,787883347,Benoit Dageville,0,1.7521122277959738,0.581267341316395
+2213750354,Automatic Recognition and Capture of SQL Execution Plans,2008,171,12,1,1.0,787883347,Benoit Dageville,0,1.652400509356949,0.3278043781772328
+2274003824,REAL-TIME AUTOMATIC DATABASE DIAGNOSTIC MONITOR,2012,2,3,1,1.0,787883347,Benoit Dageville,0,-0.0041099411153885,0.0447066884760059
+2216607184,Maintaining and utilizing SQL execution plan histories,2008,167,68,1,1.0,787883347,Benoit Dageville,0,0.1489166454127024,0.27908214126692676
+2217180016,Query processing in a parallel single cursor model on multi-instance configurations using hints,2005,44,21,2,1.0,99402411,Thierry Cruanes,0,-0.6543277391103999,0.375970010442021
+2199569911,Diagnostic data repository,2008,112,53,1,1.0,787883347,Benoit Dageville,0,-0.5092289153288759,1.0425342498179324
+2226597951,Scrubbing and editing of diagnostic data,2008,126,37,2,0.0,227407905,Ajith Kumar Mysorenagarajarao,0,-0.0041099411153885,0.0447066884760059
+2270783848,Fine grain synchronization for database replay,2010,27,20,2,0.6,225912712,Efstratios Papadomanolakis,0,-0.0041099411153885,0.0447066884760059
+2209495425,Parallel single cursor model on multiple-server configurations,2004,36,35,2,1.0,99402411,Thierry Cruanes,0,-0.0041099411153885,0.0447066884760059
+2283551452,Method and system for implementing a SQL profile,2004,154,13,3,0.555556,165114485,Mohamed Zait,0,0.09293275030256486,-0.17487631361588646
+2311173566,Embedded Performance Monitoring of a DBMS,2014,13,1,2,0.722222,275085680,Khaled Yagoub,0,2.4463289698934574,0.9332304028456377
+2396501540,Merging synopses to determine number of distinct values in large databases,2007,14,19,4,0.888889,99402411,Thierry Cruanes,0,2.51964223766412,0.8287233142250832

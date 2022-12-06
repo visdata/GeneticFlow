@@ -1,0 +1,64 @@
+204909595,Physical Database Design The Database Professionals Guide to Exploiting Indexes Views Storage and More,2007,187,54,1,1.0,240506892,Sam Lightstone,0,2.189917105662316,0.4357159455949289
+138530489,Letter from Chair of the Working Group on Self-Managing Database Systems,2006,0,0,1,1.0,240506892,Sam Lightstone,0,-0.0041099411153885,0.0447066884760059
+73261028,Method for identifying a workload type for a given workload of database requests,2003,24,17,1,1.0,240506892,Sam Lightstone,0,0.9096620398213565,0.9877606602959665
+74024549,Making DB2Products Self-Managing Strategies and Experiences,2006,14,12,1,1.0,240506892,Sam Lightstone,0,-0.0041099411153885,0.0447066884760059
+196112555,Database Modeling and Design,1998,0,86,1,1.0,240506892,Sam Lightstone,0,1.6954170286637733,0.5482361344541268
+976492188,Parallel load in a column-store database,2014,8,6,1,1.0,240506892,Sam Lightstone,0,-0.0041099411153885,0.0447066884760059
+979175841,Introduction to physical database design,2007,9,5,1,1.0,240506892,Sam Lightstone,0,2.6420684208058813,0.6143172949135312
+944656979,BUFFERING INSERTS INTO A COLUMN STORE DATABASE,2014,10,4,1,1.0,240506892,Sam Lightstone,0,0.04950169860597583,0.2024605638798553
+998514401,Object-Relational Design,2011,0,0,1,1.0,240506892,Sam Lightstone,0,2.059001533651995,0.2963688990195815
+1001123789,Automated physical database design,2007,18,2,1,1.0,240506892,Sam Lightstone,0,1.1038095707650826,0.22724614782888605
+958584199,16 â€“ Distributed data allocation,2007,8,0,1,1.0,240506892,Sam Lightstone,0,1.8355611622635197,0.5014695817420451
+1009888250,Query execution plans and physical design,2007,2,0,1,1.0,240506892,Sam Lightstone,0,1.2932515466288539,0.42873939942312633
+1568542230,Database diagnostic system and method,2002,26,56,1,1.0,240506892,Sam Lightstone,0,1.3048134241781268,0.16590565420481354
+1533695319,Report on the Second International Workshop on Self-Managing Database Systems (SMDB 2007),2007,51,0,3,0.0,2798299887,Anastassia Ailamaki,0,-0.15695418509871564,0.19310717880606795
+1571912949,Method system and program for prioritizing maintenance of database tables,2008,11,14,1,1.0,240506892,Sam Lightstone,0,0.32066835392501103,-0.2818999174788965
+1553825122,DB2 design advisor integrated automatic physical database design,2004,15,286,3,0.342857,2103910039,Daniel C. Zilio,0,1.6297137572164795,0.4539705801054274
+1415753652,XML and Web Databases,2011,0,0,1,1.0,240506892,Sam Lightstone,0,2.5407133024943622,-0.9059348456709431
+1419090240,8 â€“ Multidimensional clustering,2007,1,0,1,1.0,240506892,Sam Lightstone,0,0.37629519212945,0.5337814329812122
+1424464724,Physical design for decision support warehousing and OLAP,2007,3,0,1,1.0,240506892,Sam Lightstone,0,0.5811904417633076,1.4495799511833267
+1548098652,Method system and program for selection of database characteristics,2005,35,25,1,1.0,240506892,Sam Lightstone,0,2.942489919961268,0.8295014015565443
+1521464082,Automated design of multidimensional clustering tables for relational databases,2004,17,15,1,1.0,240506892,Sam Lightstone,0,0.11214419359338546,0.5176190736388007
+1486928986,An Example of Logical Database Design,2006,0,1,1,1.0,240506892,Sam Lightstone,0,2.5064692045385897,0.38759065081365573
+1496207446,Data loading from a remote data source,2002,11,25,1,1.0,240506892,Sam Lightstone,0,0.28982767730130715,-0.0020719233053625497
+1578663810,Intra-block partitioning for database management,2012,10,9,1,1.0,240506892,Sam Lightstone,0,0.04950169860597583,0.2024605638798553
+1606739206,System and method for selective incremental deferred constraint processing after bulk loading data,1999,22,111,1,1.0,240506892,Sam Lightstone,0,3.0105463211226136,0.8955803386806126
+1813513524,Method and apparatus for loading data into a database in a multiprocessor environment,1998,8,32,1,1.0,240506892,Sam Lightstone,0,-0.165796457764015,-0.34570618985044876
+1589595987,Randomized page weights for optimizing buffer pool page reuse,2013,13,3,1,1.0,240506892,Sam Lightstone,0,0.36097085081799196,-0.1582967557564097
+1608791393,Method system and article of manufacture for improving execution efficiency of a database workload,2005,24,23,1,1.0,240506892,Sam Lightstone,0,2.9477888937232746,0.8483300673862401
+1772713605,Transforming the Conceptual Data Model to SQL,2006,0,0,1,1.0,240506892,Sam Lightstone,0,1.4460739739770454,0.29540109093561967
+1601629924,Automatic Database Configuration for DB2 Universal Database Compressing Years of Performance Expertise into Seconds of Execution,2003,5,32,2,0.0,2679831949,Eva Kwan,0,2.059641953591903,0.3449379487175621
+1584770030,In-memory BLU acceleration in IBMs DB2 and dashDB Optimized for modern workloads and hardware architectures,2015,12,19,5,0.418569,2105103640,Ronald J. Barber,0,1.0442047344897274,0.867390122275573
+1975270911,Toward autonomic computing with DB2 universal database,2002,21,67,1,1.0,240506892,Sam Lightstone,0,-0.15695418509871564,0.19310717880606795
+1967601791,DB2 with BLU acceleration so much more than just a column store,2013,22,178,8,0.0,2112167796,Vijayshankar Raman,0,0.8842819824028589,-0.09411055655882236
+2002963734,Is it DSS or OLTP automatically identifying DBMS workloads,2008,18,11,4,0.0,2321913377,Said Elnaffar,0,0.9096620398213565,0.9877606602959665
+2046628754,Self-managing technology in IBM DB2 universal database,2001,14,19,2,0.342857,2103910039,Daniel C. Zilio,0,0.10693424458080991,0.04739599487297197
+2056191114,MEET DB2 automated database migration evaluation,2010,9,1,3,0.0,2059277171,Reynold Xin,0,1.691700141929887,-0.1573002047315
+2105301439,Control Theory a Foundational Technique for Self Managing Databases,2007,30,21,1,1.0,240506892,Sam Lightstone,0,-0.15695418509871564,0.19310717880606795
+2117406969,Adaptive self-tuning memory in DB2,2006,22,92,3,0.0,2038748030,Adam J. Storm,0,-0.0041099411153885,0.0447066884760059
+2117419094,Poster Session Problem definition for effective workload management,2007,9,1,1,1.0,240506892,Sam Lightstone,0,1.8914007082058568,0.5793494412049495
+2132227772,Poster session Simplifying business intelligence with a hybrid appliance the IBM balanced warehouse,2008,9,2,3,0.0,2055184604,Haider Rizvi,0,0.433931864504433,0.29127422242752193
+2112184526,SMART making DB2 (more) autonomic,2002,9,40,2,0.0,401236404,Guy M. Lohman,0,0.541048792242954,0.14109191976847427
+2183947203,Simplifying business intelligence with a hybrid appliance the IBM Balanced Warehouse,2008,13,0,1,1.0,240506892,Sam Lightstone,0,0.433931864504433,0.29127422242752193
+2160149182,Automated statistics collection in DB2 UDB,2004,14,50,3,0.0,2066833720,Ashraf Aboulnaga,0,0.8316175807534888,0.35249522481300577
+2182331413,Joins on encoded and partitioned data,2014,18,13,9,0.0,2134045017,Jae Gil Lee,0,0.5729530994866205,0.6338634694383753
+2146466202,Autonomic features of the IBM DB2 universal database for linux UNIX and windows,2006,10,16,1,1.0,240506892,Sam Lightstone,0,0.529549800599907,0.12887452311225772
+2210548247,Method system and program for collecting statistics of data stored in a database,2004,17,27,1,1.0,240506892,Sam Lightstone,0,-0.0041099411153885,0.0447066884760059
+2228950546,System and computer program product for automated design of range partitioned tables for relational databases,2007,13,10,1,1.0,240506892,Sam Lightstone,0,1.636365714401498,0.4968023916764517
+2222109321,Data loading from a remote data source record by record,2001,15,2,1,1.0,240506892,Sam Lightstone,0,0.1869425686823157,-0.12441311411728602
+2248317161,METHOD AND SYSTEM FOR PROVIDING COST MODEL DATA FOR TUNING OF QUERY CACHE MEMORY IN DATABASES,2006,19,4,1,1.0,240506892,Sam Lightstone,0,0.014532710543751099,0.030944858938630852
+2248655621,Data leak protection system method and apparatus,2005,26,12,1,1.0,240506892,Sam Lightstone,0,-0.2554006006761083,0.005185177391162952
+2241511838,Methods for dynamically resizing memory pools,2006,9,8,1,1.0,240506892,Sam Lightstone,0,-0.0041099411153885,0.0447066884760059
+2250015074,Systems and methods for dynamically resizing memory pools,2006,9,14,1,1.0,240506892,Sam Lightstone,0,-1.036272139734633,2.5078147583247365
+2199201860,Method system and program for optimizing compression of a workload processed by a database management system,2004,13,35,1,1.0,240506892,Sam Lightstone,0,-0.0041099411153885,0.0447066884760059
+2292693431,Memory-efficient hash joins,2014,19,37,8,0.418569,2105103640,Ronald J. Barber,0,-0.0041099411153885,0.0447066884760059
+2308553642,System and method for identifying a workload type for a given workload of database requests,2003,19,33,1,1.0,240506892,Sam Lightstone,0,0.9096620398213565,0.9877606602959665
+2395864116,Systems for dynamically resizing memory pools,2008,9,8,1,1.0,240506892,Sam Lightstone,0,-1.036272139734633,2.5078147583247365
+2396079635,Method system and program for enabling non-self actuated database transactions to lock onto a database component,2004,18,2,1,1.0,240506892,Sam Lightstone,0,0.33341478616049264,0.12527163534691713
+2410475300,Providing cost model data for tuning of query cache memory in databases,2006,19,3,1,1.0,240506892,Sam Lightstone,0,0.014532710543751099,0.030944858938630852
+2417855281,ACCURATE PARTITION SIZING FOR MEMORY EFFICIENT REDUCTION OPERATIONS,2014,7,1,1,1.0,240506892,Sam Lightstone,0,-0.165796457764015,-0.34570618985044876
+2538512639,Trends in automating physical database design,2003,21,5,1,1.0,240506892,Sam Lightstone,0,2.484164590071233,0.6450399893738362
+2610682858,Updating of in-memory synopsis metadata for inserts in database table,2016,9,4,1,1.0,240506892,Sam Lightstone,0,0.01337825333538809,0.11672088235102458
+2594600287,Identifying a workload type for a given workload of database requests,2003,0,0,1,1.0,240506892,Sam Lightstone,0,0.9096620398213565,0.9877606602959665
+2615736885,Making Big Data Simple with dashDB Local,2017,16,1,1,1.0,240506892,Sam Lightstone,0,0.11580246753951777,0.4107717480496073
+3021256273,8 â€“ Business Intelligence,2006,0,1,1,1.0,240506892,Sam Lightstone,0,0.14909179609037196,0.8011378373476563

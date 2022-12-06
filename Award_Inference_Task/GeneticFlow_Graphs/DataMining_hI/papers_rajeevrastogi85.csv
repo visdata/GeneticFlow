@@ -1,0 +1,82 @@
+136981043,Data Mining Meets Network Management The NEMESIS Project,2001,19,18,2,0.931035,2089290244,Minos Garofalakis,0,0.8288903694170452,-1.3215360561883591
+24263816,Network Data Mining and Analysis The NEMESIS Project,2002,11,2,2,0.729927,2089290244,Minos Garofalakis,0,0.7754257897668291,-0.972765028959848
+117851752,Model-Based Semantic Compression for Network-Data Tables,2001,17,2,4,0.931035,2089290244,Minos Garofalakis,0,0.23700626957832877,-0.8084418179603864
+101403392, Using Constrained Models for Guaranteed-Error Semantic Compression,2002,20,1,3,0.729927,2089290244,Minos Garofalakis,0,0.9416428081470772,-2.2617577116507217
+187547654,Network Data Mining and Analysis The ( mathcal{N}mathcal{E}mathcal{M}mathcal{E}mathcal{S}mathcal{I}mathcal{S} ) Project,2002,14,1,2,0.729927,2089290244,Minos Garofalakis,0,0.47660708724906387,-0.5204754359013735
+937250701,Method and system for web information extraction,2010,17,2,5,0.0,1823577077,Srinivasan H. Sengamedu,0,0.003708468606338,0.082832279151172
+279841946,Optimal Schemes for Robust Web Extraction,2011,19,17,4,0.0,2077695977,Aditya Parameswaran,0,1.8422458016811665,-0.49566487050947716
+957006375,Method for mining association rules in data,1998,13,31,2,0.461059,2161168953,Kyuseok Shim,0,-0.34841194659538965,-0.10142585373365
+1505018402,Document descriptor extraction method,2000,45,30,4,1.0,2089290244,Minos Garofalakis,0,0.003708468606338,0.082832279151172
+1523625678,Method and apparatus for efficient aggregate computation over data streams,2007,54,68,4,0.0,242385703,Scott Satkin,0,-0.1071931497347323,0.3242721482837629
+1570329253,PUBLIC A Decision Tree Classifier that Integrates Building and Pruning,2000,29,88,1,1.0,2651564987,Rajeev Rastogi,0,1.7804884530897547,1.413216351287987
+1482220696,XTRACT Learning Document Type Descriptors from XML Document Collections,2003,28,67,3,0.624842,2089290244,Minos Garofalakis,0,-3.1497266661552854,-0.3314225782585132
+1491964404,Building Decision Trees with Constraints,2003,31,36,3,0.624842,2089290244,Minos Garofalakis,0,0.4796243390644822,1.5176899504218468
+1501937934,METHOD FOR IDENTIFYING OUTLIERS IN LARGE DATA SETS,1999,4,17,2,0.370804,2161168953,Kyuseok Shim,0,0.21438872843298346,-0.1353423822296997
+1546570674,Techniques for Clustering Massive Data Sets,2004,77,1,2,0.24525,2135063632,Sudipto Guha,0,0.18047728152253212,0.21635718549688882
+1548986531,SPIRIT Sequential Pattern Mining with Regular Expression Constraints,1999,13,437,2,1.0,2089290244,Minos Garofalakis,0,0.653578425232461,-0.00012887152053906448
+1540340974,Distributed set-expression cardinality estimation,2004,23,70,4,0.508388,2089290244,Minos Garofalakis,0,-0.9495970712927685,-0.44923000633769583
+1807313772,System and method for filtering XML documents with XPath expressions,2002,1,192,3,0.729927,2089290244,Minos Garofalakis,0,-2.4645302964372746,-0.2646523724990743
+1939783570,Technique for effectively instantiating attributes in association rules,1997,24,13,2,0.461059,2161168953,Kyuseok Shim,0,-0.34841194659538965,-0.10142585373365
+1647965853,Mining optimized association rules with categorical and numeric attributes,1998,8,75,1,1.0,2651564987,Rajeev Rastogi,0,-0.054881410612845294,0.5123319400886388
+1775398603,Method apparatus and programmed medium for clustering databases with categorical attributes,1998,16,123,2,0.461059,2161168953,Kyuseok Shim,0,-0.8501869934328109,2.780196590443301
+1985494569,Scalable algorithms for mining large databases,1999,94,9,1,1.0,2651564987,Rajeev Rastogi,0,0.003708468606338,0.082832279151172
+1978557400,Guest editor introduction special section on online analysis and querying of continuous data streams,2003,0,3,1,1.0,2651564987,Rajeev Rastogi,0,-0.21892615613754504,0.5923622113437262
+1969842215,Mining optimized association rules with categorical and numeric attributes,2002,13,64,1,1.0,2651564987,Rajeev Rastogi,0,0.11594223330904543,-0.13719939552364246
+1972013372,Mining (Social) Network Graphs to Detect Random Link Attacks,2008,29,73,3,0.0,2086917255,Nisheeth Shrivastava,0,0.003708468606338,0.082832279151172
+1986186842,SPARTAN using constrained models for guaranteed-error semantic compression,2002,20,4,3,0.692308,2272704701,Shivnath Babu,0,0.45600720410569817,-0.1929530001390749
+1979533020,On the storage and retrieval of continuous media data,1994,11,4,2,0.0,1995894141,Banu Ozden,0,-0.24813659263467383,0.30788987606919804
+1981331015,Scalable data mining with model constraints,2000,21,12,2,1.0,2089290244,Minos Garofalakis,0,0.056680712477542916,0.2487211685340416
+1984911948,Exploiting content redundancy for web information extraction,2010,25,19,2,1.0,1268514819,Pankaj Gulhane,0,-0.2549982742955442,0.2215840602359772
+1971415141,Exploiting content redundancy for web information extraction,2010,24,25,2,1.0,1268514819,Pankaj Gulhane,0,0.0350118340750308,0.1722387243992134
+1996130971,Scalable regular expression matching on data streams,2008,15,35,2,0.0,2042129406,Anirban Majumder,0,-0.1071931497347323,0.3242721482837629
+1996510517,Cure an efficient clustering algorithm for large databases,2001,15,470,2,0.8,2135063632,Sudipto Guha,0,-0.9728763335095102,3.4357309343935007
+1995437102,Tracking set-expression cardinalities over continuous update streams,2004,35,37,3,1.0,2552475381,Sumit Ganguly,0,-0.1071931497347323,0.3242721482837629
+1999101712,Recommendations to boost content spread in social networks,2012,21,87,3,0.0,2344125319,Vineet Chaoji,0,0.003708468606338,0.082832279151172
+1990435265,Mining optimized support rules for numeric attributes,2001,15,20,1,1.0,2651564987,Rajeev Rastogi,0,0.11594223330904543,-0.13719939552364246
+2011829091,Mining optimized support rules for numeric attributes,1999,9,34,1,1.0,2651564987,Rajeev Rastogi,0,-0.34841194659538965,-0.10142585373365
+2022551085,Mining sequential patterns with regular expression constraints,2002,14,111,2,0.729927,2089290244,Minos Garofalakis,0,-0.313250122242983,0.3019422694332269
+2017616492,Multi-query optimization for sketch-based estimation,2009,27,8,4,0.195676,2074162063,Alin Dobra,0,0.004652439918145568,0.2098632385992318
+2020592463,Using codewords to protect database data from a class of software errors,1999,21,11,2,0.571429,2003419062,Philip Bohannon,0,-2.9416834911459078,1.017094132439951
+2054340289,Data mining and the Web past present and future,1999,28,106,2,1.0,2089290244,Minos Garofalakis,0,-0.009612848079353836,-0.2813814786129664
+2046508109,Mining optimized gain rules for numeric attributes,1999,19,14,2,0.5,2974285896,Sergey Brin,0,0.003708468606338,0.082832279151172
+2057712948,ROCK a robust clustering algorithm for categorical attributes,2000,14,1138,2,0.8,2135063632,Sudipto Guha,0,-0.945435663313756,3.443375536536515
+2070090726,Web information extraction using markov logic networks,2011,18,3,4,0.0,2973782730,Sandeepkumar Satpal,0,0.0350118340750308,0.1722387243992134
+2067292826,Entity disambiguation with hierarchical topic models,2011,24,79,3,0.0,2122910368,Saurabh Kataria,0,0.3951678284844107,0.9249910215309718
+2099581008,ROCK a robust clustering algorithm for categorical attributes,1999,12,318,2,1.0,2135063632,Sudipto Guha,0,-0.9211991615469002,3.298294457080068
+2089511437,Efficient Aggregate Computation over Data Streams,2008,18,5,3,0.0,2227622878,Kanthi Nagaraj,0,-0.1071931497347323,0.3242721482837629
+2103285706,Mining optimized gain rules for numeric attributes,2003,19,31,2,0.5,2974285896,Sergey Brin,0,-0.6307943240285013,-0.3819608679545221
+2084496385,Workshop report 2000 ACM SIGMOD workshop on research issues in data mining and knowledge discovery,2000,0,27,2,0.0,1656275121,Dimitrios Gunopulos,0,-0.23334149129963694,-0.5267041603008207
+2088163015,Efficient algorithms for constructing decision trees with constraints,2000,9,29,3,1.0,2089290244,Minos Garofalakis,0,1.616605556843101,1.0758187521844844
+2104213207,Of crawlers portals mice and men is there more to mining the Web ,1999,0,5,3,1.0,2089290244,Minos Garofalakis,0,0.01823760828928586,-2.4671512244260665
+2104236910,DTD-directed publishing with attribute translation grammars,2002,20,54,4,1.0,2016987025,Michael Benedikt,0,-1.3126637550424876,-0.029069014885978267
+2081988714,Semi-supervised correction of biased comment ratings,2012,26,4,2,0.0,2312178361,Abhinav Mishra,0,-0.0106786212781008,2.75227273993042
+2129281431,Efficient algorithms for mining outliers from large data sets,2000,19,1322,2,0.0,2998806000,Sridhar Ramaswamy,0,-0.15860703741720225,0.654988142925161
+2108781142,Graph summarization with bounded error,2008,31,235,2,0.0,2059206925,Saket Navlakha,0,0.003708468606338,0.082832279151172
+2129524385,Tree pattern aggregation for scalable XML data dissemination,2002,15,65,5,0.981507,2133793219,Chee Yong Chan,0,-1.5211486978649937,-0.18904604078607673
+2112056262,Independence is good dependency-based histogram synopses for high-dimensional data,2001,18,131,3,0.0,2002742946,Amol Deshpande,0,-0.058420101937940117,0.5405751697214264
+2130756530,Efficient Constraint Monitoring Using Adaptive Thresholds,2008,40,48,3,0.0,2108833852,Srinivas Kashyap,0,-0.006799453288761149,-0.20169485267385479
+2116493296,XTRACT a system for extracting document type descriptors from XML documents,2000,23,227,3,1.0,2089290244,Minos Garofalakis,0,-3.1497266661552854,-0.3314225782585132
+2110557355,Approximate Query Processing Using Wavelets,2001,49,465,3,0.0,2124676925,Kaushik Chakrabarti,0,0.004652439918145568,0.2098632385992318
+2137216273,Web information extraction using Markov logic networks,2011,19,20,4,0.0,2973782730,Sandeepkumar Satpal,0,0.0350118340750308,0.1722387243992134
+2107683037,Efficient filtering of XML documents with XPath expressions,2002,16,416,4,0.981507,2133793219,Chee Yong Chan,0,-1.5994209214633635,-0.05810393036508926
+2140430731,Processing set expressions over continuous update streams,2003,23,91,3,1.0,2552475381,Sumit Ganguly,0,0.003708468606338,0.082832279151172
+2140539965,Capturing both types and constraints in data integration,2003,27,51,5,1.0,2016987025,Michael Benedikt,0,-2.708820035486448,-0.2732322328334709
+2131687179,CURE an efficient clustering algorithm for large databases,1998,14,1759,2,1.0,2135063632,Sudipto Guha,0,-0.9226973688766911,3.320906181929318
+2134743705,Holistic aggregates in a networked world distributed tracking of approximate quantiles,2005,20,200,4,0.0,2190072679,Graham Cormode,0,-0.02982925155893055,-0.0135024676312933
+2163041624,Detection and recovery techniques for database corruption,2003,26,22,2,0.319611,2003419062,Philip Bohannon,0,-2.5263696302718284,0.8260822675314395
+2163072729,Web-scale information extraction with vertex,2011,16,59,5,1.0,1268514819,Pankaj Gulhane,0,-0.6728582208214577,-0.8625369402628857
+2166549373,Memory-constrained aggregate computation over data streams,2011,13,13,2,0.0,2872059588,K.V.M. Naidu,0,-0.01687893774289837,0.14106944179538616
+2148706674,Processing complex aggregate queries over data streams,2002,25,308,4,0.195676,2074162063,Alin Dobra,0,-0.2921633765599636,0.09721419990200912
+2187571556, A Model-Based Semantic Compression System for Massive Data Tables,2001,18,2,3,0.931035,2089290244,Minos Garofalakis,0,0.351632532635354,-0.7389621131138848
+2154900736,SPARTAN a model-based semantic compression system for massive data tables,2001,16,63,3,0.692308,2272704701,Shivnath Babu,0,0.23700626957832877,-0.8084418179603864
+2167333415,A cost-based model and effective heuristic for repairing constraints by value modification,2005,24,297,4,0.319611,2003419062,Philip Bohannon,0,0.1046321783456345,0.10492004649796617
+2183338418,High-Precision Web Extraction Using Site Knowledge,2009,25,17,2,0.0,2004269926,Meghana Kshirsagar,0,1.8422458016811665,-0.49566487050947716
+2246669663,Programmed medium for clustering large databases,1998,21,64,2,0.461059,2161168953,Kyuseok Shim,0,-0.7277311030883951,2.92111123184221
+2219873312,WALRUS a similarity retrieval algorithm for image databases,1999,11,186,2,0.0,1992897095,Apostol Natsev,0,-0.08989658579080657,0.04790337144120551
+2214651254,Method and apparatus for detecting and recovering from data corruption of a database via read prechecking and deferred maintenance of codewords,1998,2,71,5,0.571429,2003419062,Philip Bohannon,0,0.7046445413333788,0.8491647793868737
+2215614516,System and method for compressing a data table using models,2001,14,60,2,0.931035,2089290244,Minos Garofalakis,0,-0.014262569861527815,0.09821346669505597
+2290268061,Method for distinct count estimation over joins of continuous update stream,2004,23,66,4,0.508388,2089290244,Minos Garofalakis,0,0.003708468606338,0.082832279151172
+2398768377,System and method for constraint based sequential pattern mining,2000,6,59,3,1.0,2089290244,Minos Garofalakis,0,-0.313250122242983,0.3019422694332269
+2399250805,Efficient Detection of Distributed Constraint Violations,2006,0,1,4,0.0,2442316571,Shipra Agrawal,0,0.003708468606338,0.082832279151172
+2397888185,Method and system for processing and learning rules for extracting information from incoming web pages,2010,17,2,5,0.0,1823577077,Srinivasan H. Sengamedu,0,0.003708468606338,0.082832279151172
+3022098046,PUBLIC A Decision Tree Classifier that Integrates Building and Pruning,1998,18,89,1,1.0,2651564987,Rajeev Rastogi,0,0.9484472051186577,0.9164309077041961

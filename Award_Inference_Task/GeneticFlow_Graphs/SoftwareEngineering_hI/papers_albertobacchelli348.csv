@@ -1,0 +1,40 @@
+1542582976,Are popular classes more defect prone,2010,36,45,1,1.0,329100065,Alberto Bacchelli,0,0.28311905927957226,0.5129225129243453
+1970859802,Will they like this evaluating code contributions with language models,2015,33,33,3,0.0,2022283126,Vincent J. Hellendoorn,0,-0.0291855379334779,0.0585196112869768
+1967782643,Quantitatively Exploring Non-code Software Artifacts,2014,34,3,3,0.0,2227977118,Luca Bigliardi,0,-0.0291855379334779,0.0585196112869768
+1987438174,On the Impact of Design Flaws on Software Defects,2010,31,78,2,0.0,2051372983,Marco DAmbros,0,-0.0291855379334779,0.0585196112869768
+1998753103,Seahawk stack overflow in the IDE,2013,11,79,2,0.0,261055005,Luca Ponzanelli,0,-0.5232362786620735,0.5776155288667976
+1997548934,Modern code reviews in open-source projects which problems do they fix ,2014,46,95,1,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2070660695,Manhattan Supporting real-time visual team activity awareness,2013,13,4,3,0.0,2099306614,Michele Lanza,0,-0.0291855379334779,0.0585196112869768
+2068964333,On the Effectiveness of Manual and Automatic Unit Test Generation,2008,9,15,1,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2072653937,Supporting Developers Coordination in the IDE,2015,66,16,2,0.0,2000554713,Anja Guzzi,0,-0.5461132154686984,0.0965069146713281
+2105400090,Linking e-mails and source code artifacts,2010,23,126,1,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2114739320,Leveraging Crowd Knowledge for Software Comprehension and Development,2013,30,48,2,0.0,261055005,Luca Ponzanelli,0,-0.0291855379334779,0.0585196112869768
+2122170423,Erase and rewind â€” Learning by replaying examples,2011,1,0,1,1.0,329100065,Alberto Bacchelli,0,0.24819789591689984,0.1130514014089873
+2165668386,Exploring exposing and exploiting emails to include human factors in software engineering,2011,46,2,1,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2152212880,1 st International workshop on natural language analysis in software engineering (NaturaLiSE 2013),2013,1,0,3,0.0,229858904,Gabriele Bavota,0,-0.0291855379334779,0.0585196112869768
+2170592526,Benchmarking Lightweight Techniques to Link E-Mails and Source Code,2009,22,35,1,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2274981030,Double Blind Reviews in Software Engineering Venues Practicability Promises and Perils,2016,43,0,2,0.0,2148263294,Moritz Beller,0,-0.0291855379334779,0.0585196112869768
+2574490029,On the Reaction to Deprecation of 25357 Clients of 4+1 Popular Java APIs,2016,36,22,2,0.0,220312088,Romain Robbes,0,0.19162845194432374,-0.8524567227290701
+2518004408,Double-blind review in software engineering venues,2016,34,0,1,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2547102260,Visualizing code and coverage changes for code review,2016,12,5,5,0.0,2690560019,Sebastiaan Oosterwaal,0,-0.0291855379334779,0.0585196112869768
+2621393763,Double-blind review in software engineering venues the communitys perspective,2017,48,4,1,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2724503592,Classifying code comments in Java open-source software systems,2017,26,26,2,0.75,2732165272,Luca Pascarella,0,-0.0291855379334779,0.0585196112869768
+2767705198,On the Optimal Order of Reading Source Code Changes for Review,2017,68,13,3,0.7,2181741858,Tobias Baum,0,-0.0291855379334779,0.0585196112869768
+2794494697,When testing meets code review why and how developers review tests,2018,41,12,4,0.727273,2630675625,Davide Spadini,0,-0.0006260477612278006,-0.26942038845386046
+2811301137,Code review for newcomers is it different ,2018,15,4,1,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2803847797,The effects of change-decomposition on code review - A Controlled Experiment,2018,20,1,4,0.0,2563453666,Marco di Biase,0,-0.0291855379334779,0.0585196112869768
+2808429234,Modern code review a case study at google,2017,40,21,5,0.0,2165696351,Caitlin Sadowski,0,-0.0291855379334779,0.0585196112869768
+2884854827,How is video game development different from software development in open source,2018,46,6,4,0.75,2732165272,Luca Pascarella,0,-0.0291855379334779,0.0585196112869768
+2888448570,Continuous code quality are we (really) doing that ,2018,32,6,1,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2899274966,What makes a code change easier to review an empirical investigation on code change reviewability,2018,39,13,4,0.0,2805694107,Achyudh Ram,0,-0.0291855379334779,0.0585196112869768
+2899407111,PyDriller Python framework for mining software repositories,2018,18,12,2,0.727273,2630675625,Davide Spadini,0,-0.0291855379334779,0.0585196112869768
+2900136781,Mock objects for testing java systems Why and how developers use them and how they evolve,2019,50,1,1,1.0,329100065,Alberto Bacchelli,0,-0.0006260477612278006,-0.26942038845386046
+2907904533,Associating working memory capacity and code change ordering with code review performance,2019,85,1,3,0.7,2181741858,Tobias Baum,0,-0.0291855379334779,0.0585196112869768
+2900961173,On the Relation of Test Smells to Software Code Quality,2018,74,26,5,0.727273,2630675625,Davide Spadini,0,-0.0006260477612278006,-0.26942038845386046
+2949483870,Untangling Fine-Grained Code Changes,2015,20,0,2,0.0,2150741581,MartÃ­n Dias,0,-0.0291855379334779,0.0585196112869768
+2954272926,Test-driven code review an empirical study,2019,51,3,6,0.727273,2630675625,Davide Spadini,0,0.11936023494321167,-0.37887267204757574
+2954451301,When code completion fails a case study on real-world completions,2019,17,4,4,0.0,2948201198,Vincent J. Hellendoorn,0,-0.0291855379334779,0.0585196112869768
+2944080842,A large-scale empirical exploration on refactoring activities in open source software projects,2019,65,3,5,0.0,2227074202,Carmine Vassallo,0,-0.0291855379334779,0.0585196112869768
+2941068928,Classifying code comments in Java software systems,2019,34,5,3,0.75,2732165272,Luca Pascarella,0,-0.0291855379334779,0.0585196112869768
+2955940099,Understanding flaky tests the developerâ€™s perspective,2019,29,2,1,1.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+3003634130,Authorship Attribution of Source Code A Language-Agnostic Approach and Applicability in Software Engineering,2020,48,0,3,0.0,2953505776,Egor Bogomolov,0,-0.0291855379334779,0.0585196112869768

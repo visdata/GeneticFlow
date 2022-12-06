@@ -1,0 +1,95 @@
+139582188,Telex anticensorship in the network infrastructure,2011,23,110,3,0.0,85478087,Eric Wustrow,0,-0.35711077292944543,0.542607498322048
+24839522,A secure environment for untrusted helper applications confining the Wily Hacker,1996,10,419,3,0.0,1975802069,Eric Brewer,0,-0.08456778077202542,0.5410242094667748
+68391253,Privacy Tradeoffs Myth or Reality Panel,2002,0,0,3,0.0,2142274643,Rebecca N. Wright,0,0.0040557659796233,0.2757546058061082
+1550634273,Privacy enhancing technologies 9th International Symposium PETS 2009 Seattle WA USA August 5-7 2009 proceedings,2009,0,0,1,1.0,2113410603,Ian Goldberg,0,0.5715730074052306,1.966127406062789
+1515386533,Making a nymbler nymble using VERBS,2010,52,37,3,0.75,2113672218,Ryan Henry,0,-0.20811988867276834,-0.18101732337233145
+1481202711,Improving tor using a TCP-over-DTLS tunnel,2009,29,75,2,0.0,2111500736,Joel Reardon,0,-0.16420021596708323,0.32292378428885316
+1544435806,SoK Secure Messaging,2015,99,67,6,1.0,2231694798,Nik Unger,0,0.3180721527762866,-0.5249372569694924
+1219810240,Making a Nymbler Nymble using VERBS (Extended Version),2010,20,5,2,0.0,2104193604,Kevin Henry,0,-0.322417052424298,0.7654742659566379
+1528143466,The Path Less Travelled Overcoming Torâ€™s Bottlenecks with Traffic Splitting,2013,54,30,3,0.8125,1610089968,Mashael AlSabah,0,-0.16420021596708323,0.32292378428885316
+1423610363,Privacy tradeoffs myth or reality ,2002,1,4,2,0.0,695545146,Ronald L. Rivest,0,0.0040557659796233,0.2757546058061082
+1801457577,Revisiting the computational practicality of private information retrieval,2011,41,88,2,1.0,2142199477,Femi Olumofin,0,0.4201889544175347,-0.03668991660025576
+1804630428,Distributed private-key generators for identity-based cryptography,2010,83,54,2,0.857143,2105472947,Aniket Kate,0,0.5231328663164627,-1.2848774705036452
+1769920533,PIR-Tor scalable anonymous communication using private information retrieval,2011,36,45,5,0.0,2122368622,Prateek Mittal,0,-0.3661365514876979,0.4308647782498746
+1611563112,Reaction Attacks against several Public-Key Cryptosystems,1999,23,66,2,0.0,2625580935,Chris Hall,0,0.6683703756561136,-2.384756499199994
+1777764582,Pairing-based onion routing,2007,37,69,3,0.833333,2105472947,Aniket Kate,0,-0.07440680343794215,-1.4069362143613793
+1779054061,DefenestraTor throwing out windows in Tor,2011,34,57,3,1.0,1610089968,Mashael AlSabah,0,0.47319265277553657,2.026106342863603
+1583821184,Louis Lester and Pierre three protocols for location privacy,2007,23,161,2,0.0,2171792295,Ge Zhong,0,0.3918485336698854,-0.2140165994992644
+1659864390,TAZ servers and the rewebber network,1998,0,1,2,0.2,2109123731,David Wagner,0,0.0040557659796233,0.2757546058061082
+1603430026,A Framework for the Game-theoretic Analysis of Censorship Resistance,2016,34,3,5,1.0,2072630886,Tariq Elahi,0,-0.850786683401495,1.0917138087764355
+1980499647,Anonymity and one-way authentication in key exchange protocols,2013,33,41,1,1.0,2113410603,Ian Goldberg,0,-1.5506497854536176,-1.3933711598571876
+1992562179,Enhancing Tors performance using real-time traffic classification,2012,33,38,3,1.0,1610089968,Mashael AlSabah,0,-0.006905117678804584,-0.1174289630092837
+2004941559,SPEcTRe spot-checked private ecash tolling at roadside,2011,17,12,4,0.0,2403659802,Jeremy Day,0,-0.0866911235024297,0.6812072487229601
+1989839627,Adding query privacy to robust DHTs,2012,50,5,2,0.0,2045355816,Michael Backes,0,0.615621849086723,-0.3219269420649347
+1991706615,PCTCP per-circuit TCP-over-IPsec transport for anonymous communication overlay networks,2013,31,24,2,0.8125,1610089968,Mashael AlSabah,0,-0.8976304889769503,0.1183076267585753
+2012210084,A Systematic Approach to Developing and Evaluating Website Fingerprinting Defenses,2014,14,77,5,0.0,2148244339,Xiang Cai,0,-0.006905117678804584,-0.1174289630092837
+2013383641,Multi-party off-the-record messaging,2009,20,31,1,1.0,2113410603,Ian Goldberg,0,0.2807134095939756,-0.8515031337396886
+2033974828,PrivEx Private Collection of Traffic Statistics for Anonymous Communication Networks,2014,25,26,3,1.0,2072630886,Tariq Elahi,0,0.4932411098345346,0.19944538639027534
+2053599246,Thinking inside the BLAC box smarter protocols for faster anonymous blacklisting,2013,35,12,2,0.731707,2113672218,Ryan Henry,0,0.11033394592614888,-0.10038803611495772
+2038094103,On message recognition protocols recoverability and explicit confirmation,2010,11,4,1,1.0,2113410603,Ian Goldberg,0,-0.42235788795388873,-0.7345944074806928
+2063578896,Deniable Key Exchanges for Secure Messaging,2015,136,12,2,1.0,2231694798,Nik Unger,0,-0.21138240374949474,-1.4800513551238907
+2094522125,SkypeMorph protocol obfuscation for Tor bridges,2012,28,124,4,0.0,2226848872,Hooman Mohajeri Moghaddam,0,-0.6417825414098699,0.9795502611124914
+2080977773,Changing of the guards a framework for understanding and improving entry guard selection in tor,2012,13,60,5,1.0,2072630886,Tariq Elahi,0,-0.16420021596708323,0.32292378428885316
+2104278952,Plinko polling with a physical implementation of a noisy channel,2009,10,0,3,1.0,2609263836,Chris Alexander,0,0.3171484069971384,-0.13992525839030945
+2105037262,Improving the Robustness of Private Information Retrieval,2007,15,124,1,1.0,2113410603,Ian Goldberg,0,-0.2122794562057128,0.8050156498060759
+2126193037,Off-the-record communication or why not to use PGP,2004,23,192,2,0.375,2156971739,Nikita Borisov,0,0.10290995754494234,-1.2706751788125765
+2114566185,Intercepting mobile communications the insecurity of 80211,2001,16,805,2,0.375,2156971739,Nikita Borisov,0,-1.8602434438785385,-1.5952389255363744
+2111586182,Sphinx A Compact and Provably Secure Mix Format,2009,23,53,2,0.0,22890495,George Danezis,0,0.47453118319474247,-0.6027801983620351
+2141762990,A pseudonymous communications infrastructure for the internet,2000,30,79,2,0.6,1975802069,Eric Brewer,0,0.4848491374713683,1.2819024745135639
+2115256097,Practical PIR for electronic commerce,2011,47,35,3,0.75,2113672218,Ryan Henry,0,0.15906639114778312,1.302852254273114
+2127052221,Extending Nymble-like Systems,2011,29,9,2,0.75,2113672218,Ryan Henry,0,0.028466121149080304,0.6072522984378942
+2136631923,The Best of Both Worlds Combining Information-Theoretic and Computational PIR for Communication Efficiency,2014,29,23,2,1.0,1182507365,Casey Devet,0,0.3273416445704907,2.118324277330376
+2131033000,BridgeSPA improving Tor bridges with single packet authorization,2011,11,29,4,0.0,2114616645,Rob Smits,0,-0.5669142387166461,0.022784845545107624
+2116832576,A Cryptanalysis of the High-Bandwidth Digital Content Protection System,2001,7,13,2,1.0,2661997973,Scott Crosby,0,1.0926327798590407,-1.4174990824437301
+2137515077,Using sphinx to improve onion routing circuit construction,2010,36,18,2,0.857143,2105472947,Aniket Kate,0,-0.5055805848282166,-1.2109545481696682
+2125744175,Outsourced private information retrieval,2013,20,14,2,1.0,2136806087,Yizhou Huang,0,0.32293386762451465,1.1624245149805081
+2153340200,A New Message Recognition Protocol with Self-recoverability for Ad Hoc Pervasive Networks,2009,15,5,1,1.0,2113410603,Ian Goldberg,0,-0.8779550658453962,-1.820725514347383
+2150494876,Pairing-Based Onion Routing with Improved Forward Secrecy,2010,35,30,3,0.857143,2105472947,Aniket Kate,0,0.1576285004677999,-0.8648194578919913
+2147800847,A user study of off-the-record messaging,2008,7,48,3,0.0,2224615288,Ryan Stedman,0,0.7300727262478334,-1.946790446537126
+2159777963,Achieving efficient query privacy for location based services,2010,43,85,3,1.0,2142199477,Femi Olumofin,0,-0.3956642251051204,0.6184318873428538
+2157279580,Improved user authentication in off-the-record messaging,2007,13,55,2,1.0,2609263836,Chris Alexander,0,0.4285753884290435,-0.4280670653021244
+2158022141,On the security of the tor authentication protocol,2006,12,45,1,1.0,2113410603,Ian Goldberg,0,-0.3599834717769798,-0.9186596927162421
+2167200286,An improved algorithm for tor circuit scheduling,2010,27,73,2,0.0,2425498076,Can Tang,0,0.24449707638722462,-0.69750741781476
+2149250358,Formalizing Anonymous Blacklisting Systems,2011,35,27,2,0.75,2113672218,Ryan Henry,0,0.3849356125685002,1.0914774270542087
+2149280729,Effective attacks and provable defenses for website fingerprinting,2014,18,125,5,1.0,2251070621,Tao Wang,0,0.5246500496074623,1.524602010812
+2158474152,Optimally robust private information retrieval,2012,35,73,2,1.0,1182507365,Casey Devet,0,-0.38297672827465196,0.46125068598901287
+2146941523,Generalizing cryptosystems based on the subset sum problem,2011,32,16,2,0.857143,2105472947,Aniket Kate,0,0.43016833315994035,-1.7202734221780454
+2178173146,Leading Johnny to Water Designing for Usability and Trust,2015,10,19,4,0.8,2178998861,Erinn Atwater,0,0.4033544182767959,-1.9705584213863674
+2185939662,Asynchronous Distributed Private-Key Generators for Identity-Based Cryptography,2010,64,12,2,0.857143,2105472947,Aniket Kate,0,0.2491116194484973,-1.3286177997615478
+2242794960,DP5 A Private Presence Service,2015,35,36,3,0.0497685,2156971739,Nikita Borisov,0,0.10868378901561886,-0.9102975737880482
+2221045997,Congestion-Aware Path Selection for Tor,2012,26,53,4,1.0,2251070621,Tao Wang,0,-0.16420021596708323,0.32292378428885316
+2247616096,A New Message Recognition Protocol with Self-recoverability for A New Message Recognition Protocol with Self-recoverability for Ad Hoc Pervasive Networks,2009,0,1,3,0.0,113235389,Atefeh Mashatan,0,-0.8779550658453962,-1.820725514347383
+2292779005,All-but-k Mercurial Commitments and their Applications â€ ,2012,15,4,1,1.0,2113410603,Ian Goldberg,0,0.3171484069971384,-0.13992525839030945
+2291345654,Security of the WEP algorithm (Wired Equivalent Privacy),2002,1,5,2,0.100971,2109123731,David Wagner,0,-2.583967082053082,-1.8222540557682319
+2402789968,A Secure Environment for Untrusted Helper Applications,1996,0,284,1,1.0,2113410603,Ian Goldberg,0,0.0040557659796233,0.2757546058061082
+2490879758,On Realistically Attacking Tor with Website Fingerprinting,2016,20,44,2,0.742857,2251070621,Tao Wang,0,0.0040557659796233,0.2757546058061082
+2477562448,SoK Making Sense of Censorship Resistance Systems,2016,63,11,6,0.0,2145845464,Sheharbano Khattak,0,-0.04689812180702857,0.24231073930894773
+2492380440,On the security of the tor authentication protocol,2006,0,0,1,1.0,2113410603,Ian Goldberg,0,-0.34484661532329813,-0.8012049237721843
+2486128846,Low-Cost Mitigation Against Cold Boot Attacks for an Authentication Token,2016,27,1,1,1.0,2113410603,Ian Goldberg,0,1.0404175484868212,-0.7187897128046425
+2494741943,Privacy-enhancing technologies for the Internet II Five years later,2003,0,44,1,1.0,2113410603,Ian Goldberg,0,0.5279636302010672,1.6993617449835265
+2480713486,A cryptanalysis of the high-bandwidth Digital content Protection system,2002,0,5,2,1.0,2661997973,Scott Crosby,0,0.5401023317599057,-1.1432429540651046
+2539957464,Privacy-enhancing technologies for the Internet,1997,7,169,1,1.0,2113410603,Ian Goldberg,0,1.1623965910802656,1.96883979167621
+2521935971,Performance and Security Improvements for Tor A Survey,2016,102,26,2,0.716981,1610089968,Mashael AlSabah,0,0.47319265277553657,2.026106342863603
+2532745482,Slitheen Perfectly Imitated Decoy Routing through Traffic Replacement,2016,22,11,2,1.0,274745885,Cecylia Bocovich,0,-0.850786683401495,1.0917138087764355
+2536913845,Elxa Scalable Privacy-Preserving Plagiarism Detection,2016,43,0,3,1.0,2231694798,Nik Unger,0,0.4870728844710845,0.4648516107862723
+2736648315,Red Button and Yellow Button Usable Security for Lost Security Tokens,2016,2,0,1,1.0,2113410603,Ian Goldberg,0,-0.3190444769555518,0.5615419986564617
+2752949934,Walkie-talkie an efficient defense against passive website fingerprinting attacks,2017,28,31,2,0.742857,2251070621,Tao Wang,0,-0.12704378331142044,0.616757763119104
+2737623669,Walkie-Talkie An Effective and Efficient Defense against Website Fingerprinting,2015,17,7,1,1.0,2113410603,Ian Goldberg,0,-0.015296254716123447,0.40424678126495084
+2753458568,Live Lesson Netsim Network simulation and hacking for high schoolers,2017,0,2,4,1.0,2178998861,Erinn Atwater,0,0.04841774909296905,0.2906464507864569
+2779697237,Lavinia An Audit-Payment Protocol for Censorship-Resistant Storage,2017,26,2,3,1.0,274745885,Cecylia Bocovich,0,0.0040557659796233,0.2757546058061082
+2751845759,Anonymity and one-way authentication in key exchange protocols,2012,0,3,1,1.0,2113410603,Ian Goldberg,0,-1.5506497854536176,-1.3933711598571876
+2755456050,Settling Payments Fast and Private Efficient Decentralized Routing for Path-Based Transactions,2017,19,12,4,0.666667,2153212144,Stefanie Roos,0,-1.0748320696519569,0.6346639768992652
+2802626720,Secure asymmetry and deployability for decoy routing systems,2018,32,4,2,1.0,274745885,Cecylia Bocovich,0,0.0040557659796233,0.2757546058061082
+2800652629,Privacy Pass Bypassing Internet Challenges Anonymously,2018,18,5,2,0.0,2770253003,Alex Davidson,0,0.0040557659796233,0.2757546058061082
+2783446016,Improved Strongly Deniable Authenticated Key Exchanges for Secure Messaging,2018,6,5,2,1.0,2231694798,Nik Unger,0,-0.20729577825985723,-0.5742591497906265
+2783493875,Style Counsel Seeing the (Random) Forest for the Trees in Adversarial Code Stylometry,2018,9,0,2,0.0,2782704480,Christopher McKnight,0,-0.729970686262077,0.6646594764963705
+2888794105,High Performance Tor Experimentation from the Magic of Dynamic ELFs,2018,0,0,3,0.0,2889113929,Justin Tracey,0,0.0040557659796233,0.2757546058061082
+2901576450,Shatter Secrets Using Secret Sharing to Cross Borders with Encrypted Devices (Transcript of Discussion),2018,0,0,2,1.0,2178998861,Erinn Atwater,0,0.7767106832685151,-0.4528732689063129
+2901658348,Shatter Secrets Using Secret Sharing to Cross Borders with Encrypted Devices,2018,5,0,2,1.0,2178998861,Erinn Atwater,0,0.273236601371216,-0.08012732797730622
+2912792263,Proceedings of the 9th International Symposium on Privacy Enhancing Technologies,2009,0,0,2,0.0,1984264859,Mikhail J. Atallah,0,0.8760170781201997,2.854113032909605
+2911281300,Proceedings of the 19th USENIX conference on Security,2010,0,3,1,1.0,2113410603,Ian Goldberg,0,0.0040557659796233,0.2757546058061082
+2950244776,Performance and Security Improvements for Tor A Survey,2015,0,1,2,0.780488,1610089968,Mashael AlSabah,0,0.0040557659796233,0.2757546058061082
+2962829246,ConsenSGX Scaling Anonymous Communications Networks with Trusted Execution Environments,2019,61,0,2,0.0,2963028993,Sajin Sasy,0,0.0040557659796233,0.2757546058061082
+2952691467,Adding Query Privacy to Robust DHTs,2011,40,0,2,0.0,2045355816,Michael Backes,0,-0.08095005027696334,-0.20344053068149806
+2963978499,Settling Payments Fast and Private Efficient Decentralized Routing for Path-Based Transactions,2018,11,41,4,0.666667,2153212144,Stefanie Roos,0,0.0040557659796233,0.2757546058061082
+2969385932,Augmented Unlocking Techniques for Smartphones Using Pre-Touch Information,2019,25,0,4,0.0,2969464416,Matthew Lakier,0,-1.0042433498509937,0.03227850529247733

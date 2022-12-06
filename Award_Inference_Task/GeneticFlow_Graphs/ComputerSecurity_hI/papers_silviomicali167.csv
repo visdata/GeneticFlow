@@ -1,0 +1,52 @@
+120930527,Verifiable Secret Sharing and Achieving Simultaneity in the Presence of Faults (Extended Abstract),1985,0,102,3,0.0,1995245898,Benny Chor,0,2.042682290190275,-0.2951685819649505
+6809324,Why and How to Establish a Private Code on a Public Network (Extended Abstract),1982,0,8,2,0.0,1728759264,Shafi Goldwasser,0,0.2492098717483493,0.45891670112873356
+161466369,A Digital Signature Scheme Secure Against Adaptive Chosen Message Attack* Extended Abstract,1987,24,5,2,0.666667,695545146,Ronald L. Rivest,0,-0.3447716699737904,-2.0843050108024133
+111085860,Physically Observable Cryptography (Extended Abstract),2004,23,250,1,1.0,699581604,Silvio Micali,0,0.09251169949940868,0.34247272382983523
+236432643,Physically observable cryptography,2004,29,292,1,1.0,699581604,Silvio Micali,0,0.01043446096666334,0.6825589221976283
+1497619716,Fair Public-Key Cryptosystems,1992,16,136,1,1.0,699581604,Silvio Micali,0,0.7261484112150934,-1.027641212581983
+1489286008,Secure Computation (Abstract),1991,43,160,1,1.0,699581604,Silvio Micali,0,1.3775439398477896,0.09010871183718627
+1562067942,Amortized E-Cash,2002,31,4,2,1.0,2807452620,Moses Liskov,0,-0.0762296862902042,-1.1997262108419633
+1482673219,Secret-Key Agreement without Public-Key Cryptography,1993,7,116,2,0.0,2178157365,Frank Thomson Leighton,0,0.06893390898582116,-2.32810685141094
+1554709663,The notion of security for probabilistic cryptosystems,1987,8,10,1,1.0,699581604,Silvio Micali,0,0.7443644676996367,-2.1328094905640587
+1572902683,Improving the Exact Security of Fiat-Shamir Signature Schemes,1999,29,5,1,1.0,699581604,Silvio Micali,0,0.0490698704616339,-0.8215355453750283
+1519462968,Resilient Knowledge-Based Mechanisms For Truly Combinatorial Auctions (And Implementation in Surviving Strategies),2008,19,2,1,1.0,699581604,Silvio Micali,0,-0.20361398935179198,0.2569856548365551
+1555780274,Minimum resource zero-knowledge proofs (extended abstracts),1989,0,18,1,1.0,699581604,Silvio Micali,0,0.011129248561557836,-0.9909382825903552
+1573958126,Collective Coin Tossing Without Assumptions nor Broadcasting,1990,10,13,1,1.0,699581604,Silvio Micali,0,0.4631806436460231,-0.8912216054891566
+1485212211,A &quot;Paradoxical&quot; Solution To The Signature Problem,1984,15,31,2,0.666667,695545146,Ronald L. Rivest,0,-0.09516356116396296,-0.8841206097338373
+1520268216,Mutually Independent Commitments,2001,33,13,3,1.0,2807452620,Moses Liskov,0,0.7310938642723402,-1.1485931637435165
+1530270125,Verifiable secret sharing as secure computation,1995,10,34,2,1.0,2108521744,Rosario Gennaro,0,1.8526659936036252,-0.3769821243960345
+1557288322,Proving security against chosen cyphertext attacks,1988,18,23,3,0.0,2163096604,Manuel Blum,0,0.828296125246814,-2.654601273925399
+1521288801,Steganography and collusion in cryptographic protocols,2006,20,1,2,0.0,2637283435,Matthew Lepinski,0,-0.4887864193707162,-0.7833792631130907
+1578120563,A Fair Protocol for Signing Contracts (Extended Abstract),1985,11,15,3,0.0,2221798127,Michael Ben Or,0,0.0040557659796233,0.2757546058061082
+1959449166,Fair-zero knowledge,2005,20,17,2,0.692308,129556236,Matt Lepinski,0,0.1874779054316226,-0.9234298592418947
+1945350148,Method and system for micropayment transactions,2002,75,33,2,0.0795848,695545146,Ronald L. Rivest,0,0.0040557659796233,0.2757546058061082
+1922720366,Purely Rational Secret Sharing (Extended Abstract),2009,16,37,1,1.0,699581604,Silvio Micali,0,1.0887631263065627,-0.5328671474061888
+1901278359,Public-key encryption in a multi-user setting security proofs and improvements,2000,14,363,3,0.0,2052950829,Mihir Bellare,0,-0.2899029296253611,-0.11096355125003661
+1997820219,Verifiable secret sharing and achieving simultaneity in the presence of faults,1985,8,564,2,0.0,74094003,Baruch Awerbuch,0,-0.10425989283216307,-1.4230907167473974
+2024987955,Cryptography miracles secure auctions matching problem verification,2014,11,8,1,1.0,699581604,Silvio Micali,0,0.3171484069971384,-0.13992525839030945
+2029093196,Simple and fast optimistic protocols for fair electronic exchange,2003,15,148,1,1.0,699581604,Silvio Micali,0,-0.7680430830670201,-0.2953189892671832
+2043944888,Probabilistic encryption &amp; how to play mental poker keeping secret all partial information,1982,9,604,1,1.0,699581604,Silvio Micali,0,0.3656313580622659,-2.1656180069200586
+2039605106,The round complexity of secure protocols,1990,22,390,1,1.0,699581604,Silvio Micali,0,1.9471664738477183,-0.2617984945902163
+2055993618,The notion of security for probabilistic cryptosystems,1988,0,135,1,1.0,699581604,Silvio Micali,0,0.5571339306332349,-2.0802661294690328
+2090927751,Improving the exact security of digital signature schemes,2002,26,63,1,1.0,699581604,Silvio Micali,0,-0.17369483377523612,-0.8808337458414085
+2078907844,Collusion-free protocols,2005,15,77,2,0.0,2226932713,Matt Lepinksi,0,-0.44568070948700733,-0.5698706554482754
+2080947580,An Optimal Probabilistic Protocol for Synchronous Byzantine Agreement,1997,0,146,2,0.0,2282664156,Pesech Feldman,0,0.4060295630272721,-0.118231422114078
+2097651164,Algorithmic Tamper-Proof (ATP) Security Theoretical Foundations for Security Against Hardware Tampering,2004,31,163,4,0.102273,2108521744,Rosario Gennaro,0,-0.5834101177579358,-0.968670937150463
+2095077828,Completely fair SFE and coalition-safe cheap talk,2004,30,77,2,0.692308,129556236,Matt Lepinski,0,0.2977030333544188,0.42209627204681427
+2093817325,Rational and resilient protocols,2014,0,1,1,1.0,699581604,Silvio Micali,0,0.07433768977035653,-0.013877937637872298
+2119050411,Plaintext Awareness via Key Registration,2003,20,67,3,0.0,2031879288,Jonathan Herzog,0,0.45261577902581185,-1.786319176860565
+2128531813,Why and how to establish a private code on a public network,1982,10,65,1,1.0,699581604,Silvio Micali,0,0.4057591819471085,-1.4263872421301542
+2134651419,Accountable-subgroup multisignatures extended abstract,2001,30,129,1,1.0,699581604,Silvio Micali,0,-0.5700557769601255,-2.503195009057632
+2143929067,Rational secure computation and ideal mechanism design,2005,16,121,2,0.75,144899972,Sergei Izmalkov,0,1.6227389119769564,-0.30923750051634813
+2161852855,Online-untransferable signatures,2008,37,7,2,0.857143,2205954118,Moses Liskov,0,-0.7282463869330799,-2.090174614104322
+2232281146,Perfect Implementation of Normal-Form Mechanisms,2007,37,9,3,0.692308,129556236,Matt Lepinski,0,0.0040557659796233,0.2757546058061082
+2284031981,Secret key exchange,1994,7,55,1,1.0,699581604,Silvio Micali,0,-0.08881933946386145,-1.832176943782852
+2461458535,Signing with Partially Adversarial Hashing,1998,0,1,2,0.0,236344266,Leonid Reyzin,0,-0.3712519087570937,-1.3103744092841578
+2564646676,Verifying electronic transactions,2016,11,4,1,1.0,699581604,Silvio Micali,0,-0.5530861437885858,-0.004176666300269333
+2612263229,Plaintext awareness via key registration,2003,0,4,3,0.0,2031879288,Jonathan Herzog,0,0.5719211960661139,-1.0080858686312326
+2612720194,Soundness in the public-key model,2001,0,80,1,1.0,699581604,Silvio Micali,0,0.648962780699834,-0.8037030180542292
+2914554654,Algorand A secure and efficient distributed ledger,2019,29,10,2,0.0,2526329946,Jing Chen,0,0.6335341437022706,0.9171687012931361
+2952901250,Improving the Exact Security of Digital Signature Schemes,1999,0,1,1,1.0,699581604,Silvio Micali,0,-0.17369483377523612,-0.8808337458414085
+2949148318,Democoin A Publicly Verifiable and Jointly Serviced Cryptocurrency,2015,2,4,2,0.0,2068706694,Sergey Gorbunov,0,-0.5219574214054581,0.39816140141230516
+2991580995,Probabilistic encryption &amp; how to play mental poker keeping secret all partial information,2019,0,0,1,1.0,699581604,Silvio Micali,0,-0.08282188544078466,-1.434908483869987
+3022237949,Verifiable Secret Sharing as Secure Computation,1994,0,0,2,1.0,2108521744,Rosario Gennaro,0,0.8711492488849867,-0.14198415739535475

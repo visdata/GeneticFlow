@@ -1,0 +1,95 @@
+29050389,A Case-Based Approach to Spam Filtering that Can Track Concept Drift,2003,10,117,3,0.0,630380764,Niamh C. Nowlan,0,0.8767880345326344,-0.36885977598450004
+51587299,Using Case Differences for Regression in CBR Systems,2005,9,2,2,1.0,1932265870,Neil McDonnell,0,0.003708468606338,0.082832279151172
+562550776,Spectral co-clustering for dynamic bipartite graphs,2010,19,9,2,0.735429,2131371111,Derek Greene,0,-0.24104718002047543,1.4769137161376633
+819311234,Dynamic Integration of Classifiers for Tracking Concept Drift in Antibiotic Resistance Data,2005,15,6,2,0.49457,2062554273,Alexey Tsymbal,0,0.2005217719858397,-0.23247988708512013
+757031997,Using Early-Stopping to Avoid Overfitting in Wrapper-Based Feature Selection Employing Stochastic Search,2005,12,19,2,0.0,2006259831,John Loughrey,0,-0.25023896793326905,0.13037718530513653
+248422196,ARTIFICIAL DATA GENERATION FOR ONE-CLASS CLASSIFICATION - A Case Study of Dimensionality Reduction for Text and Biological Data,2009,0,0,2,1.0,2156785172,Santiago D. Villalba,0,0.6687057851089494,0.5039656043877668
+1550614472,A Matrix Factorization Approach for Integrating Multiple Data Views,2009,15,136,2,0.735429,2131371111,Derek Greene,0,-0.4439582498145533,0.2650315633046747
+1489542789,Comparison of the evaluations of a case-based reasoning decision support tool by specialist expert reviewers with those of end users,2008,7,1,1,1.0,2120527611,PÃ¡draig Cunningham,0,0.09018986229807129,0.5723252139581939
+1481689911,Constraint Selection by Committee An Ensemble Approach to Identifying Informative Constraints for Semi-supervised Clustering,2007,13,36,2,0.769231,2131371111,Derek Greene,0,-0.8506757423325126,2.993886785734365
+1534784399,Producing accurate interpretable clusters from high-dimensional data,2005,17,33,2,1.0,2131371111,Derek Greene,0,0.21140967560962384,1.049411312073214
+1561917990,Systems Tasks and Adaptation Knowledge Revealing Some Revealing Dependencies,1995,51,23,4,0.0,2065577228,Kathleen Hanney,0,0.003708468606338,0.082832279151172
+1516833345,Mining dense structures to uncover anomalous behaviour in financial network data,2011,24,5,3,1.0,2150415884,Ursula Redmond,0,-0.3011331851164172,-0.15588985616037465
+1554183079,The best way to instil confidence is by being right,2005,11,5,2,0.782609,2125407793,Conor Nugent,0,0.4074877835405571,-0.7007133948115875
+1509741866,Efficient prediction-based validation for document clustering,2006,21,0,2,0.888889,2131371111,Derek Greene,0,-2.105884197052026,0.038315488844640866
+1509790617,A knowledge-light approach to regression using case-based reasoning,2006,14,17,2,1.0,1932265870,Neil McDonnell,0,0.03650294230182247,0.05125557618960349
+1554864804,An evaluation of the usefulness of case-based explanation,2003,10,84,1,1.0,2120527611,PÃ¡draig Cunningham,0,0.25829421482171316,0.4648764777990132
+1501626351,Solutions to Instability Problems with Sequential Wrapper-based Approaches to Feature Selection,2002,5,97,1,1.0,2120527611,PÃ¡draig Cunningham,0,-0.10059554234639127,0.2109504598401236
+1518937830,Generating estimates of classification confidence for a case-based spam filter,2005,24,77,2,0.363395,2126512156,Sarah Jane Delany,0,0.6665464871252905,0.1864528465117074
+1519136899,Concept Discovery in Collaborative Recommender Systems,2003,111,3,3,1.0,1997615397,Patrick Clerkin,0,0.5476530134474511,0.6211984456421683
+1528583450,TwitterCrowds Techniques for Exploring Topic and Sentiment in Microblogging Data,2013,37,10,3,0.0,2017897688,Daniel Archambault,0,0.50569548915927,1.0721312784557124
+1575188618,Identifying Topical Twitter Communities via User List Aggregation,2012,15,15,3,0.599581,2131371111,Derek Greene,0,0.22087665126999567,0.08348359887359669
+1548163913,Incorporating biological domain knowledge into cluster validity assessment,2006,20,6,3,0.791667,1983459086,Nadia Bolshakova,0,0.2866806242597607,0.2886789982490549
+1876300865,A Scalable Noise Reduction Technique for Large Case-Based Systems,2009,38,20,3,0.857143,160904506,Nicola Segata,0,-0.897900637580985,-0.6603253230921371
+1940432702,Supporting the Curation of Twitter User Lists,2011,10,13,4,0.65524,2131371111,Derek Greene,0,0.003708468606338,0.082832279151172
+1699642013,Imputing and Predicting Quantitative Genetic Interactions in Epistatic MAPs,2011,19,4,3,0.0,621040965,Gerard Cagney,0,-0.18175813944316255,-0.14940356441581082
+1918137459,An Approach to Aggregating Ensembles of Lazy Learners That Supports Explanation,2002,14,10,2,0.0,1965551664,Gabriele Zenobi,0,0.049842141832369236,0.10436496521310039
+1825336071,Using tf-idf as an edge weighting scheme in user-object bipartite networks,2013,25,1,2,0.0,2723033011,Sorin Alupoaie,0,-0.26696911874922685,0.05842691939063975
+1714295336,Adaptive Representations for Tracking Breaking News on Twitter,2014,21,4,3,1.0,258442675,Igor Brigadir,0,0.003708468606338,0.082832279151172
+1601799850,Explaining Predictions from a Neural Network Ensemble One at a Time,2002,14,5,2,1.0,2303097437,Robert Wall,0,0.003708468606338,0.082832279151172
+1657199692,A Latent Space Analysis of Editor Lifecycles in Wikipedia,2015,18,1,3,1.0,2119758739,Xiangju Qin,0,-0.36869828092002566,0.08205872494509575
+1949012851,Case Representation Issues for Case-Based Reasoning from Ensemble Research,2001,19,23,1,1.0,2120527611,PÃ¡draig Cunningham,0,1.5378531731048235,0.7505228955467194
+1724358049,ECUE A Spam Filter that Uses Machine Learning to Track Concept Drift,2006,16,21,1,1.0,2120527611,PÃ¡draig Cunningham,0,0.8323596932029511,-0.1427513778016642
+1660427993,Benchmarking community detection methods on social media data,2013,15,7,2,0.0,2139875645,Conrad Lee,0,-0.3011331851164172,-0.15588985616037465
+1980447946,A system for twitter user list curation,2012,1,2,3,1.0,258442675,Igor Brigadir,0,-0.007766011865829897,0.037657485160401495
+1978981734,The problem of bias in training data in regression problems in medical decision support,2002,17,38,1,1.0,2120527611,PÃ¡draig Cunningham,0,0.0644818988688213,0.4660528257840121
+1965061252,An integrated tool for microarray data clustering and cluster validity assessment,2005,13,52,3,0.928571,1983459086,Nadia Bolshakova,0,0.09894671261016653,0.4063152618660422
+1965169635,Noise reduction for instance-based learning with a local maximal margin approach,2010,81,38,4,0.857143,160904506,Nicola Segata,0,0.6126840736820964,1.3262174667896114
+1986344118,Parallel integration of heterogeneous genome-wide data sources,2008,25,2,3,0.736842,2131371111,Derek Greene,0,-0.21934185016841626,0.6056873083074126
+1987233071,cluML A markup language for clustering and cluster validity assessment of microarray data,2005,12,2,2,0.928571,1983459086,Nadia Bolshakova,0,-1.101086992849681,1.184363952816296
+1989149221,Stability problems with artificial neural networks and the ensemble solution,2000,23,123,1,1.0,2120527611,PÃ¡draig Cunningham,0,-0.09906679470861866,0.3550631747813006
+2005064532,Context boosting collaborative recommendations,2004,19,48,2,1.0,2099954206,Conor Hayes,0,0.8776680742443249,0.45208381503500666
+1993066733,Explaining the output of ensembles in medical decision support on a case by case basis,2003,21,28,2,1.0,2303097437,Robert Wall,0,0.0644818988688213,0.4660528257840121
+1992018127,Diversity in search strategies for ensemble feature selection,2005,28,245,3,0.49457,2062554273,Alexey Tsymbal,0,0.7838827993423605,0.17386362465739943
+2029551688,An Assessment of Case-Based Reasoning for Spam Filtering,2005,23,61,2,0.363395,2126512156,Sarah Jane Delany,0,0.8775099837072077,-0.019134505159859306
+2035330483,An incremental retrieval mechanism for case-based electronic fault diagnosis,1998,8,23,1,1.0,2120527611,PÃ¡draig Cunningham,0,0.0726571288814546,0.4338511347288648
+2058627365,An integrated tool for microarray data clustering and cluster validity assessment,2004,18,5,3,0.928571,1983459086,Nadia Bolshakova,0,0.09894671261016653,0.4063152618660422
+2076153621,Using Storm to Perform Dynamic Egocentric Network Motif Analysis,2012,18,0,2,0.75,2169890160,Martin Harrigan,0,-0.0510576789504258,-0.5123664307612064
+2069226532,A temporal network analysis reveals the unprofitability of arbitrage in The Prosper Marketplace,2013,18,8,2,1.0,2150415884,Ursula Redmond,0,-0.3011331851164172,-0.15588985616037465
+2084250224,Partitioning large networks without breaking communities,2010,30,15,4,0.0,2690513299,Anand Narasimhamurthy,0,0.003708468606338,0.082832279151172
+2097629604,Diversity in random subspacing ensembles,2004,19,4,3,0.49457,2062554273,Alexey Tsymbal,0,0.32256937685957116,-0.00013006264077132976
+2098926173,Multi-view clustering for mining heterogeneous social network data,2009,13,15,1,1.0,2120527611,PÃ¡draig Cunningham,0,-0.322079978265025,0.5565665295233303
+2104939439,MetaFIND A feature analysis tool for metabolomics data,2008,23,33,3,1.0,2138115647,Kenneth Bryan,0,-0.02110148386045607,0.1585994288143994
+2096150327,A knowledge-driven approach to cluster validity assessment,2005,6,58,3,0.928571,1983459086,Nadia Bolshakova,0,0.34208215495682426,-0.4460170753742258
+2088987104,A Case-Based Explanation System for Black-Box Systems,2005,14,37,2,0.782609,2125407793,Conor Nugent,0,0.0726571288814546,0.4338511347288648
+2102282134,Assessing the Quality of Wikipedia Pages Using Edit Longevity and Contributor Centrality,2012,19,4,2,0.75,2119758739,Xiangju Qin,0,0.1579559588619796,0.563349572073047
+2117247456,Automated Case Generation for Recommender Systems Using Knowledge Discovery Techniques,2001,12,6,3,1.0,1997615397,Patrick Clerkin,0,0.49183385126562423,0.34194826520495125
+2132145314,Sequential genetic search for ensemble feature selection,2005,20,28,3,0.49457,2062554273,Alexey Tsymbal,0,0.08925396936015388,0.03838211492716099
+2117592999,An evaluation of dimension reduction techniques for one-class classification,2007,37,31,2,1.0,2156785172,Santiago D. Villalba,0,0.6395188123419275,0.9093933512681225
+2141475405,Integration of multiple network views in Wikipedia,2015,31,3,2,1.0,2155536304,Guangyu Wu,0,0.02735753361932906,-0.011214669694130467
+2109084784,Handling Local Concept Drift with Dynamic Integration of Classifiers Domain of Antibiotic Resistance in Nosocomial Infections,2006,14,32,3,0.40684,2062554273,Alexey Tsymbal,0,0.4354244974720783,-0.36928054659986054
+2118105720,Temporal subgraph isomorphism,2013,8,14,2,1.0,2150415884,Ursula Redmond,0,-0.027201791320523805,0.022687061537921372
+2132763547,Ensemble clustering in medical diagnostics,2004,14,82,4,1.0,2131371111,Derek Greene,0,-0.516606715670662,0.7468463687910207
+2109501217,Application of Simulated Annealing to the Biclustering of Gene Expression Data,2006,27,79,2,1.0,2138115647,Kenneth Bryan,0,-0.7505723722475113,2.623123907163482
+2133099110,Missing value imputation for epistatic MAPs,2010,33,19,4,0.0,2312920851,Colm J. Ryan,0,-0.18175813944316255,-0.14940356441581082
+2139636855,Aggregating content and network information to curate twitter user lists,2012,10,11,4,0.599581,2131371111,Derek Greene,0,0.11048338622976336,0.1840225748540571
+2125164620,Biclustering of expression data using simulated annealing,2005,27,81,2,1.0,2138115647,Kenneth Bryan,0,-0.7505723722475113,2.623123907163482
+2131069748,Comparison of the Data-based and Gene Ontology-Based Approaches to Cluster Validation Methods for Gene Microarrays,2006,24,6,3,0.791667,1983459086,Nadia Bolshakova,0,0.2548862462134593,0.05022146487618325
+2128628279,Hierarchical case-based reasoning integrating case-based and decompositional problem-solving techniques for plant-control software design,2001,36,73,3,0.0,2133336528,Barry Smyth,0,0.0726571288814546,0.4338511347288648
+2137452788,A Taxonomy of Similarity Mechanisms for Case-Based Reasoning,2009,57,117,1,1.0,2120527611,PÃ¡draig Cunningham,0,0.16435394386102764,-0.0673940360392756
+2110884135,Gaining insight through case-based explanation,2009,29,18,3,0.782609,2125407793,Conor Nugent,0,0.10785518060364657,0.045672566327261244
+2125680069,Search strategies for ensemble feature selection in medical diagnostics,2003,15,22,2,0.471198,2062554273,Alexey Tsymbal,0,-0.5035356986387931,-0.4710591328439169
+2131795306,Distortion as a validation criterion in the identification of suspicious reviews,2010,19,84,4,1.0,2155536304,Guangyu Wu,0,0.003708468606338,0.082832279151172
+2126006587,Merging multiple criteria to identify suspicious reviews,2010,8,49,3,1.0,2155536304,Guangyu Wu,0,0.003708468606338,0.082832279151172
+2150280432,Unsupervised retrieval of attack profiles in collaborative recommender systems,2008,18,58,3,1.0,2138115647,Kenneth Bryan,0,0.08329114195231535,0.32893178638165566
+2144355569,An Analysis of Research Themes in the CBR Conference Literature,2008,98,26,4,0.736842,2131371111,Derek Greene,0,-0.33188432951264774,1.0306399188300188
+2147895072,Shaping a CBR View with XML,1999,7,24,2,1.0,2099954206,Conor Hayes,0,-2.6757159103777672,-0.29778756656293937
+2169608593,Link prediction with social vector clocks,2013,35,18,4,0.0,2139875645,Conrad Lee,0,0.08329114195231535,0.32893178638165566
+2157527579,Discovering Latent Patterns from the Analysis of User-Curated Movie Lists,2013,11,0,2,1.0,2894012644,Derek Greene,0,0.23447002456144056,0.35297506154309793
+2166781513,A case-based technique for tracking concept drift in spam filtering,2005,28,157,2,0.363395,2126512156,Sarah Jane Delany,0,0.2687795698071208,0.020044573401317618
+2148798622,Dynamic integration of classifiers for handling concept drift,2008,32,139,3,0.317601,2062554273,Alexey Tsymbal,0,0.05258298256277244,-0.35361069802847933
+2145977038,Tracking the Evolution of Communities in Dynamic Social Networks,2010,23,327,3,0.735429,2131371111,Derek Greene,0,0.003708468606338,0.082832279151172
+2164740164,A Comparison of Model-Based and Incremental Case-Based Approaches to Electronic Fault Diagnosis,1994,7,27,1,1.0,2120527611,PÃ¡draig Cunningham,0,0.003708468606338,0.082832279151172
+2247535085,TextLuas Tracking and Visualizing Document and Term Clusters in Dynamic Text Data,2015,33,3,4,1.0,2894012644,Derek Greene,0,0.2421033414940673,0.8491463086016665
+2233254990,Efficient Ensemble Methods for Document Clustering,2006,19,12,1,1.0,2120527611,PÃ¡draig Cunningham,0,-0.8373855277613278,2.2055823065154674
+2311916375,Data quality system,2004,11,27,1,1.0,2120527611,PÃ¡draig Cunningham,0,0.14851428413909096,0.20562129383763286
+2354521511,Subgraph Isomorphism in Temporal Networks,2016,43,7,2,1.0,2150415884,Ursula Redmond,0,0.003708468606338,0.082832279151172
+2409621265,A system and method for case-based reasoning,2000,8,1,1,1.0,2120527611,PÃ¡draig Cunningham,0,0.8373722559031921,0.1650761636781188
+2396915202,Identifying over-represented temporal processes in complex networks,2014,23,1,2,1.0,2150415884,Ursula Redmond,0,0.003708468606338,0.082832279151172
+2557240187,Online trans-dimensional von Mises-Fisher mixture models for user profiles,2016,50,1,2,1.0,2119758739,Xiangju Qin,0,-0.08013525283696847,2.1891186134810043
+2575432809,Dimensionality Reduction and Visualisation Tools for Voting Records,2016,16,1,4,1.0,258442675,Igor Brigadir,0,0.1579559588619796,0.563349572073047
+2604412094,A case base system,1995,3,0,1,1.0,2120527611,PÃ¡draig Cunningham,0,1.1852554892765026,-0.14482074963610053
+2762385624,System and method for event-based Schliemann en,1995,0,0,1,1.0,2120527611,PÃ¡draig Cunningham,0,0.003708468606338,0.082832279151172
+2751615789,Diversity in random subspacing ensembles,2004,0,0,3,0.49457,2062554273,Alexey Tsymbal,0,0.32256937685957116,-0.00013006264077132976
+2742860547,Efficient prediction-based validation for document clustering,2006,0,7,2,0.888889,2131371111,Derek Greene,0,-2.105884197052026,0.038315488844640866
+2951438956,Link Prediction with Social Vector Clocks,2013,25,1,4,0.0,2139875645,Conrad Lee,0,0.003708468606338,0.082832279151172

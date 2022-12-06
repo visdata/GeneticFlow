@@ -1,0 +1,59 @@
+1596170674,Estimating Software Development Effort using Tabu Search,2010,18,3,3,0.0,2568273866,Filomena Ferrucci,0,0.003708468606338,0.082832279151172
+1818085238,Using Tabu Search to Estimate Software Development Effort,2009,38,18,3,0.0,2568273866,Filomena Ferrucci,0,0.003708468606338,0.082832279151172
+1973328636,Using structural and semantic measures to improve software modularization,2013,47,47,4,1.0,229858904,Gabriele Bavota,0,0.003708468606338,0.082832279151172
+1986536877,Query quality prediction and reformulation for source code search the refoqus tool,2013,11,13,4,1.0,2060062056,Sonia Haiduc,0,-0.11300819442795465,0.09518744858596301
+2007022086,Using IR methods for labeling source code artifacts Is it worthwhile ,2012,42,62,2,1.0,152228149,Sebastiano Panichella,0,-0.19950888160061253,-0.19071459986242384
+2005316082,The role of artefact corpus in LSI-based traceability recovery,2013,20,13,3,1.0,229858904,Gabriele Bavota,0,0.1882471344352705,0.2148450236411791
+1989735066,Using code ownership to improve IR-based Traceability Link Recovery,2013,40,18,4,0.0,2160187646,Diana Diaz,0,0.13181092919897244,0.08118920458583215
+1998519879,When and How Using Structural Information to Improve IR-Based Traceability Recovery,2013,36,39,5,0.84,290562820,Annibale Panichella,0,0.003708468606338,0.082832279151172
+2009130747,In medio stat virtus Extract class refactoring through nash equilibria,2014,28,4,2,1.0,229858904,Gabriele Bavota,0,0.003708468606338,0.082832279151172
+1989962588,Applying a smoothing filter to improve IR-based traceability recovery processes,2013,46,13,2,1.0,152228149,Sebastiano Panichella,0,0.003708468606338,0.082832279151172
+1990537706,Investigating Tabu Search for Web Effort Estimation,2010,18,17,3,0.0,2568273866,Filomena Ferrucci,0,-0.3480221505407363,-1.3205617733677912
+1988757916,Recovering traceability links between unit tests and classes under test An improved method,2010,49,31,2,1.0,334584765,Abdallah Qusef,0,0.003708468606338,0.082832279151172
+1992345889,Cross-project defect prediction models LUnion fait la force,2014,35,92,2,0.84,290562820,Annibale Panichella,0,-0.02982925155893055,-0.0135024676312933
+1997650168,On the Equivalence of Information Retrieval Methods for Automated Traceability Link Recovery,2010,29,139,1,1.0,248023835,Rocco Oliveto,0,-0.7639886326582391,-0.4775695568124525
+2010398592,Multi-objective Cross-Project Defect Prediction,2013,21,91,4,0.0,2022884359,Gerardo Canfora,0,0.056693779488648066,-0.0140665590106536
+2014116953,How to effectively use topic models for software engineering tasks an approach based on genetic algorithms,2013,37,185,3,0.84,290562820,Annibale Panichella,0,-0.753104331542272,-0.024570913808007133
+2010887646,An exploratory study of identifier renamings,2011,26,14,4,0.0,2003897136,Laleh Eshkevari,0,0.003708468606338,0.082832279151172
+2017974706,Query-based configuration of text retrieval solutions for software engineering tasks,2015,55,22,5,0.0,2554045074,Laura Moreno,0,-0.2123648689508625,0.4116225706647409
+2021680759,Identifying Extract Class refactoring opportunities using structural and semantic cohesion measures,2011,71,71,3,1.0,229858904,Gabriele Bavota,0,0.003708468606338,0.082832279151172
+2014755981,Mining StackOverflow to turn the IDE into a self-confident programming prompter,2014,42,131,4,0.0,261055005,Luca Ponzanelli,0,-0.0023586490397665694,0.4485857882191558
+2030623303,Enhancing software artefact traceability recovery processes with link count information,2014,48,8,3,1.0,229858904,Gabriele Bavota,0,0.003708468606338,0.082832279151172
+2027479172,Assessing IR-based traceability recovery tools through controlled experiments,2009,41,73,2,0.375732,2128108671,Andrea De Lucia,0,0.7764724293480222,-0.4943585979853251
+2036665412,Which Feature Location Technique is Better,2013,11,5,6,0.0,2191889675,Emily Hill,0,0.003708468606338,0.082832279151172
+2042124591,Recovering test-to-code traceability using slicing and textual analysis,2014,93,29,3,1.0,334584765,Abdallah Qusef,0,0.003708468606338,0.082832279151172
+2047573930,Automatic query performance assessment during the retrieval of software artifacts,2012,34,32,3,1.0,2060062056,Sonia Haiduc,0,-0.023444513279952645,0.12011715087808002
+2046263206,Automating extract class refactoring an improved method and its evaluation,2014,66,56,4,1.0,229858904,Gabriele Bavota,0,0.003708468606338,0.082832279151172
+2077919660,Landfill an open dataset of code smells with public evaluation,2015,12,20,5,0.823529,1987128262,Fabio Palomba,0,-0.29062382704821604,-0.15082005619688255
+2056952837,Are test smells really harmful An empirical study,2015,48,49,3,1.0,229858904,Gabriele Bavota,0,0.003708468606338,0.082832279151172
+2097494663,Configuring topic models for software engineering tasks in TraceLab,2013,23,13,4,0.25,2101338685,Bogdan Dit,0,-0.753104331542272,-0.024570913808007133
+2126399635,Mining energy-greedy API usage patterns in Android apps an empirical study,2014,34,131,4,0.173077,185311061,Mario Linares Vasquez,0,0.003708468606338,0.082832279151172
+2117577756,Improving IR-based Traceability Recovery Using Smoothing Filters,2011,31,39,3,0.375732,2128108671,Andrea De Lucia,0,-0.2175306921064459,-0.252039061685953
+2120785548,The role of the coverage analysis during IR-based traceability recovery A controlled experiment,2009,21,10,2,0.375732,2128108671,Andrea De Lucia,0,0.01081499603401945,-0.22829683392880562
+2138824333,Labeling source code with information retrieval methods an empirical study,2014,59,28,3,0.328286,2128108671,Andrea De Lucia,0,-0.952439873774493,-0.4099256308957632
+2118114837,IR-Based Traceability Recovery Processes An Empirical Comparison of &quot;One-Shot&quot; and Incremental Processes,2008,27,38,1,1.0,248023835,Rocco Oliveto,0,0.003708468606338,0.082832279151172
+2138877737,Traceability Recovery Using Numerical Analysis,2009,28,28,3,0.0,2123911264,Giovanni Capobianco,0,-0.2175306921064459,-0.252039061685953
+2121230168,ADAMS Re-Trace a traceability recovery tool,2005,29,54,3,0.0,2101400075,A. De Lucia,0,0.003708468606338,0.082832279151172
+2119811370,Numerical Signatures of Antipatterns An Approach Based on B-Splines,2010,23,49,1,1.0,248023835,Rocco Oliveto,0,0.003708468606338,0.082832279151172
+2107912893,On the role of the nouns in IR-based traceability recovery,2009,24,50,3,0.0,2123911264,Giovanni Capobianco,0,-0.13275296294680305,-0.071629888206014
+2134557343,Using structural and semantic metrics to improve class cohesion,2008,28,30,2,0.0,2101400075,A. De Lucia,0,0.003708468606338,0.082832279151172
+2162493549,Can Information Retrieval Techniques Effectively Support Traceability Link Recovery,2006,16,34,3,0.0,2101400075,A. De Lucia,0,0.003708468606338,0.082832279151172
+2159827217,Improving IRâ€based traceability recovery via nounâ€based indexing of software artifacts,2013,67,16,2,1.0,152228149,Sebastiano Panichella,0,-0.2175306921064459,-0.252039061685953
+2145700761,Methodbook Recommending Move Method Refactorings via Relational Topic Models,2014,50,86,2,1.0,229858904,Gabriele Bavota,0,-0.17536238923574604,0.4144853997593385
+2157949509,Incremental Approach and User Feedbacks a Silver Bullet for Traceability Recovery,2006,20,71,2,0.0,2101400075,A. De Lucia,0,0.003708468606338,0.082832279151172
+2158641656,Traceability Management meets Information Retrieval Methods - Strengths and Limitations,2008,46,13,1,1.0,248023835,Rocco Oliveto,0,0.003708468606338,0.082832279151172
+2146781646,On integrating orthogonal information retrieval methods to improve traceability recovery,2011,34,98,2,0.0,2104440431,Malcom Gethers,0,-0.24593697629907454,0.07203779695761532
+2238078713,A textual-based technique for Smell Detection,2016,59,52,4,0.823529,1987128262,Fabio Palomba,0,0.003708468606338,0.082832279151172
+2407167388,Parameterizing and Assembling IR-Based Solutions for SE Tasks Using Genetic Algorithms,2016,53,19,3,0.521591,290562820,Annibale Panichella,0,-0.30470567631504725,-0.0062226515008856715
+2395052532,On the diffusion of test smells in automatically generated test code an empirical study,2016,54,25,4,0.823529,1987128262,Fabio Palomba,0,0.003708468606338,0.082832279151172
+2463537704,Improving code readability models with textual features,2016,38,31,4,1.0,2480241491,Simone Scalabrino,0,0.003708468606338,0.082832279151172
+2548549162,Dynamic Selection of Classifiers in Bug Prediction An Adaptive Method,2017,37,29,3,1.0,2171383664,Dario Di Nucci,0,0.8730625909271374,1.1916884852500695
+2580969380,A Developer Centered Bug Prediction Model,2018,51,36,5,1.0,2171383664,Dario Di Nucci,0,-0.02982925155893055,-0.0135024676312933
+2561301563,There and back again Can you compile that snapshot ,2017,29,28,3,0.0,67342874,Denys Poshyvanyk,0,0.003708468606338,0.082832279151172
+2577322449,Smells Like Teen Spirit Improving Bug Prediction Performance Using the Intensity of Code Smells,2016,70,19,5,0.823529,1987128262,Fabio Palomba,0,-0.02982925155893055,-0.0135024676312933
+2646484260,How open source projects use static code analysis tools in continuous integration pipelines,2017,32,36,3,0.0,2574696675,Fiorella Zampetti,0,0.003708468606338,0.082832279151172
+2598631485,Investigating code smell co-occurrences using association rule learning A replicated study,2017,38,7,2,0.857143,1987128262,Fabio Palomba,0,-0.48065390102368616,0.7609414659181805
+2619825482,Predicting Query Quality for Applications of Text Retrieval to Software Engineering Tasks,2017,97,12,4,0.0,2618740479,Chris Mills,0,-0.021047524519205534,0.2551353969280218
+2789476037,A large-scale empirical study on the lifecycle of code smell co-occurrences,2018,47,19,5,0.857143,1987128262,Fabio Palomba,0,0.003708468606338,0.082832279151172
+2882984136,An empirical investigation on the readability of manual and generated test cases,2018,21,9,4,0.0,2742157969,Giovanni Grano,0,0.003708468606338,0.082832279151172
+3011602271,Combining Rhythmic and Morphological ECG Features for Automatic Detection of Atrial Fibrillation,2020,0,0,8,0.0,2955484930,Gennaro Laudato,0,0.003708468606338,0.082832279151172

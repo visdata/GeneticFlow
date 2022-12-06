@@ -1,0 +1,70 @@
+171019474,Extracting Relations from XML Documents,2003,15,6,1,1.0,2283615530,Eugene Agichtein,0,-2.8371965121361162,-0.3274230491792143
+190821954,Web Information Extraction and User Modeling Towards Closing the Gap,2006,37,8,1,1.0,2283615530,Eugene Agichtein,0,-0.08920818755480314,-2.2074028731943267
+57058802,Scaling Information Extraction to Large Document Collections,2005,31,36,1,1.0,2283615530,Eugene Agichtein,0,0.17989802336450392,0.21043364445555013
+198451594,THE SOCIAL FUTURE OF WEB SEARCH MODELING EXPLOITING AND SEARCHING COLLABORATIVELY GENERATED CONTENT,2009,33,8,1,1.0,2283615530,Eugene Agichtein,0,0.23795556456604092,-2.276702160165875
+29350917,Leveraging geographical metadata to improve search over social media,2013,7,11,3,0.0,2123127453,Alexander Kotov,0,-0.19348321197791316,0.3121711391798104
+118553856,Confidence Estimation Methods for Partially Supervised Information Extraction,2006,14,20,1,1.0,2283615530,Eugene Agichtein,0,-0.17378669123548657,-0.16251890887375392
+1517137109,Modeling answerer behavior in collaborative question answering systems,2011,25,36,2,1.0,2192738642,Qiaoling Liu,0,-0.06416436951531827,0.2482532285132387
+1484330506,Classifying and Characterizing Query Intent,2009,7,71,3,0.0,2075598693,Azin Ashkan,0,-0.01657107088421793,0.035389748403282274
+1586176254,Modeling Query-Based Access to Text Databases,2003,11,32,1,1.0,2283615530,Eugene Agichtein,0,0.003708468606338,0.082832279151172
+1976187638,Predicting web search success with fine-grained interaction data,2012,14,30,3,0.8,2142973983,Qi Guo,0,-0.1626858259763129,-2.469263836333502
+1978185837,QXtract a building block for efficient information extraction from text databases,2003,1,4,2,0.0,2251396636,Luis Gravano,0,-2.5746234846884164,1.0101172112215997
+1976495436,Temporal latent semantic analysis for collaboratively generated content preliminary results,2011,4,7,2,1.0,2595793754,Yu Wang,0,0.5214267064908863,-0.23603886066697152
+1981793043,Discovering semantic biomedical relations utilizing the Web,2008,17,17,3,0.0,2146750153,Saurav Sahay,0,0.6436356825522417,-2.781241121198796
+1999969345,Predicting web searcher satisfaction with existing community-based answers,2011,39,54,2,1.0,2192738642,Qiaoling Liu,0,-0.22814901480107044,-1.6172105199635334
+1997209190,Unsupervised query segmentation using click data preliminary results,2010,3,10,3,0.666667,2165175320,Julia Kiseleva,0,-0.01657107088421793,0.035389748403282274
+2006150671,Modeling information-seeker satisfaction in community question answering,2009,33,46,1,1.0,2283615530,Eugene Agichtein,0,-0.17768346192212375,0.0848641959637884
+2008251177,Find it if you can a game for modeling different types of web search success using interaction data,2011,28,102,4,1.0,2030298875,Mikhail Ageev,0,0.5595183169890161,-0.914583829254497
+2025895610,Discovering authorities in question answer communities by using link analysis,2007,10,325,2,0.0,1994397895,Pawel Jurczyk,0,-0.11248180012751553,-0.12323251836040212
+2015465704,Ready to buy or just browsing detecting web searcher goals from interaction data,2010,33,110,2,0.846154,2142973983,Qi Guo,0,1.1652008567272427,-2.61912756735542
+2029755234,Workshop on health search and discovery helping users and advancing medicine,2013,4,2,4,0.0,2096583854,Ryen W. White,0,0.003708468606338,0.082832279151172
+2019432678,When web search fails searchers become askers understanding the transition,2012,26,38,2,1.0,2192738642,Qiaoling Liu,0,-0.08876490160409542,-1.3408068198310357
+2030868605,Improving entity search over linked data by modeling latent semantics,2013,8,13,2,0.0,2025579346,Nikita Zhiltsov,0,0.46660339704580855,-0.9978320297001817
+2038385982,Beyond dwell time estimating document relevance from cursor movements and other post-click searcher behavior,2012,35,113,2,0.8,2142973983,Qi Guo,0,0.003708468606338,0.082832279151172
+2043758184,Report on the SIGIR 2013 workshop on health search and discovery,2013,7,3,4,0.0,2096583854,Ryen W. White,0,0.003708468606338,0.082832279151172
+2050914789,On the evolution of the yahoo answers QA community,2008,4,39,2,0.916667,2309858515,Yandong Liu,0,-0.7002025936452952,-0.3885070512338605
+2036823777,Improving search result summaries by using searcher behavior data,2013,40,19,3,1.0,2030298875,Mikhail Ageev,0,-0.3663144373380314,0.17476095385719992
+2044461694,Analysis of factoid questions for effective relation extraction,2005,8,10,1,1.0,2283615530,Eugene Agichtein,0,-0.9354976267286941,-0.6725317414787657
+2039129639,Is this urgent exploring time-sensitive information needs in collaborative question answering,2009,4,10,4,0.916667,2309858515,Yandong Liu,0,-0.17768346192212375,0.0848641959637884
+2037526640,Using the past to score the present extending term weighting models through revision history analysis,2010,33,24,3,0.0,2565763678,Ablimit Aji,0,0.21129921115395164,0.0345528650760128
+2044710740,Information organization and retrieval with collaboratively generated content,2011,0,2,1,1.0,2283615530,Eugene Agichtein,0,0.8380662504081625,-1.4811805113403873
+2046677795,TM-LDA efficient online modeling of latent topic transitions in social media,2012,21,127,2,1.0,2595793754,Yu Wang,0,-0.5016030517765762,0.1198660539148452
+2066191229,Exploring question subjectivity prediction in community QA,2008,4,51,5,0.0,2948614418,Baoli Li,0,-0.7262953260391224,-0.2526685281905148
+2058289602,Beyond session segmentation predicting changes in search intent with client-side user interactions,2009,3,5,2,1.0,2142973983,Qi Guo,0,1.4423378782936846,-3.088150022859533
+2099391294,Learning user interaction models for predicting web search result preferences,2006,22,474,1,1.0,2283615530,Eugene Agichtein,0,0.003708468606338,0.082832279151172
+2099620277,In the Mood to Click Towards Inferring Receptiveness to Search Advertising,2009,23,12,2,1.0,2142973983,Qi Guo,0,-0.08272345130364393,0.07409296963824304
+2096891167,Querying text databases for efficient information extraction,2003,31,95,1,1.0,2283615530,Eugene Agichtein,0,-0.2344359351375429,-0.12337229342155127
+2103224511,To search or to crawl towards a query optimizer for text-centric tasks,2006,41,75,2,0.0,94049422,Panagiotis G. Ipeirotis,0,0.2402350536490534,-0.06655212483758015
+2097623161,Trust but verify predicting contribution quality for knowledge base construction and curation,2014,36,19,2,0.0,2139746272,Chun How Tan,0,0.315830325262215,0.33779969596371756
+2081064603,Mining query structure from click data a case study of product queries,2011,7,2,2,0.666667,2165175320,Julia Kiseleva,0,-0.01657107088421793,0.035389748403282274
+2098079710,Identifying &quot;best bet&quot; web search results by mining past user behavior,2006,24,65,2,0.0,2096053174,Zijian Zheng,0,-0.04255747073523965,-1.7605724468272257
+2083093545,Mining searching and exploiting collaboratively generated content on the web,2012,0,0,1,1.0,2283615530,Eugene Agichtein,0,0.8380662504081625,-1.4811805113403873
+2086742730,Re-examining search result snippet examination time for relevance estimation,2012,5,1,2,1.0,826397576,Dmitry Lagun,0,-0.3663144373380314,0.17476095385719992
+2105892820,Extracting synonymous gene and protein terms from biological literature,2003,40,92,2,0.0,2618403744,Hong Yu,0,-0.0521043287541932,0.17550507187652437
+2126776599,Finding the right facts in the crowd factoid question answering over social media,2008,24,248,3,0.807692,2609123459,Jiang Bian,0,-0.7002025936452952,-0.3885070512338605
+2124410446,Mining reference tables for automatic text segmentation,2004,25,134,1,1.0,2283615530,Eugene Agichtein,0,0.21451770844963142,0.2933303199684182
+2140014286,Combining Strategies for Extracting Relations from Text Collections,2000,20,12,1,1.0,2283615530,Eugene Agichtein,0,-0.5995363063760628,0.5221697539617834
+2134099522,Exploring mouse movements for inferring query intent,2008,4,72,2,1.0,2142973983,Qi Guo,0,0.003708468606338,0.082832279151172
+2140387367,Search interrupted understanding and predicting search task continuation,2012,43,55,1,1.0,2283615530,Eugene Agichtein,0,0.8632656740143426,-2.9325631814057047
+2125771191,Improving web search ranking by incorporating user behavior information,2006,27,993,1,1.0,2283615530,Eugene Agichtein,0,0.2947477499638471,-2.7960764278388974
+2128759659,Exploring web browsing context for collaborative question answering,2010,11,6,3,1.0,2192738642,Qiaoling Liu,0,-0.18813659484364342,-0.7240141951375586
+2159133636,Learning to recognize reliable users and content in social media with coupled mutual reinforcement,2009,20,157,4,0.807692,2609123459,Jiang Bian,0,0.10823629450894279,0.0232361222254798
+2171265848,A few bad votes too many towards robust ranking in social media,2008,19,57,3,0.807692,2609123459,Jiang Bian,0,-0.17768346192212375,0.0848641959637884
+2156368555,Learning to find answers to questions on the Web,2004,40,47,1,1.0,2283615530,Eugene Agichtein,0,0.44317549015372676,-2.1669993517385016
+2151172507,Estimating Ad Clickthrough Rate through Query Intent Analysis,2009,22,17,3,0.0,2075598693,Azin Ashkan,0,0.003708468606338,0.082832279151172
+2148803052,Hits on question answer portals exploration of link analysis for author ranking,2007,2,65,2,0.0,1994397895,Pawel Jurczyk,0,0.01081499603401945,-0.22829683392880562
+2170171322,Exploring searcher interactions for distinguishing types of commercial intent,2010,7,2,2,0.846154,2142973983,Qi Guo,0,1.1652008567272427,-2.61912756735542
+2161152375,Predicting information seeker satisfaction in community question answering,2008,34,216,3,0.916667,2309858515,Yandong Liu,0,-0.17768346192212375,0.0848641959637884
+2155341658,Predicting accuracy of extracting information from unstructured text collections,2005,33,22,1,1.0,2283615530,Eugene Agichtein,0,-0.2318249254378452,-0.1857770003796945
+2161344493,Snowball a prototype system for extracting relations from large text collections,2001,3,50,1,1.0,2283615530,Eugene Agichtein,0,0.003708468606338,0.082832279151172
+2155737120,Towards a query optimizer for text-centric tasks,2007,59,28,2,0.0,94049422,Panagiotis G. Ipeirotis,0,0.1786237421121949,0.029102848086750264
+2158894970,Finding similar questions in collaborative question answering archives toward bootstrapping-based equivalent pattern learning,2012,20,20,2,0.0,2126225177,Tianyong Hao,0,-0.17768346192212375,0.0848641959637884
+2153082595,Discovering common motifs in cursor movement data for improving web search,2014,47,28,4,0.526316,826397576,Dmitry Lagun,0,0.1579559588619796,0.563349572073047
+2200643282,Touch Screens for Touchy Issues Analysis of Accessing Sensitive Information from Mobile Devices,2013,22,7,3,0.0,1551887306,Dan Pelleg,0,-0.17768346192212375,0.0848641959637884
+2341824259,When a Knowledge Base Is Not Enough Question Answering over Knowledge Bases with External Text Data,2016,29,31,2,1.0,2074277926,Denis Savenkov,0,0.011770278323293457,0.21977263128905516
+2405060708,SEEFT Planned Social Event Discovery and Attribute Extraction by Fusing Twitter and Web Content,2015,20,10,3,0.818182,2595793754,Yu Wang,0,0.03452684058154445,0.38161437663138903
+2394682549,A Comparative Study of Demographic Attribute Inference in Twitter,2015,7,34,3,0.0,2692580726,Xin Chen,0,-0.8147813887098188,-0.5986371038396274
+2464868641,SIGIR 2016 Workshop WebQA II Web Question Answering Beyond Factoids,2016,24,3,4,0.0,48142092,Alessandro Moschitti,0,-0.4844334914093983,-0.14762246502236054
+2593527188,What Do You Mean Exactly Analyzing Clarification Questions in CQA,2017,11,10,3,0.0,2025620057,Pavel Braslavski,0,-0.17768346192212375,0.0848641959637884
+2604645185,Emory University at TREC LiveQA 2016 Combining Crowdsourcing and Learning-To-Rank Approaches for Real-Time Complex Question Answering,2016,7,0,2,1.0,2074277926,Denis Savenkov,0,0.23447002456144056,0.35297506154309793
+2914633690,Proceedings of the fifth ACM international conference on Web search and data mining,2012,0,0,3,0.0,262608878,Yoelle Maarek,0,0.003708468606338,0.082832279151172

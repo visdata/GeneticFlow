@@ -1,0 +1,34 @@
+142220909,Jeffrey D Ullman Speaks Out on the Future of Higher Education Startups Database Theory and More,2001,0,0,1,1,177590072,Cesar A. Galindo Legaria,0,0.5641306091323329,0.3725445176287477
+96240856,Microsoft SQL Server (Chapter 27),2001,0,1,5,0,2117901010,Sameet H. Agarwal,0,0.64961922221683,-0.9086581615249159
+98612755,Auto-parameterization of database queries,1999,4,87,1,1,177590072,Cesar A. Galindo Legaria,0,-0.15920861304977532,0.009184461394527233
+1568213895,Partial pre-aggregation in relational database queries,2005,27,29,1,1,177590072,Cesar A. Galindo Legaria,0,1.6909264263350077,0.3232995197883075
+1569148339,Statistics on views,2003,9,23,1,1,177590072,Cesar A. Galindo Legaria,0,-0.026077617040081526,-0.128910521496098
+1494471857,System and method for database change notification,2003,19,22,1,1,177590072,Cesar A. Galindo Legaria,0,0.8809340701863815,0.11633144593696097
+1504218467,Testing SQL Servers Query Optimizer Challenges Techniques and Experiences,2008,11,20,2,0,225567610,Leo Giakoumakis,0,0.0908845357243609,0.31128747720343375
+1567277549,PIVOT and UNPIVOT optimization and execution strategies in an RDBMS,2004,8,97,3,0,2186100890,Conor Cunningham,0,0.8958216790073364,0.32087785511887223
+1956339190,Validating multiple execution plans for database queries,2005,37,60,1,1,177590072,Cesar A. Galindo Legaria,0,-0.49043693599906174,0.2346557023336088
+1748455132,Query plan selection control using run-time association mechanism,2005,16,40,1,1,177590072,Cesar A. Galindo Legaria,0,-0.061698582759784765,-0.24765818347251387
+1598205229,PARAMETER-SENSITIVE PLANS,2010,14,12,1,1,177590072,Cesar A. Galindo Legaria,0,0.8809340701863815,0.11633144593696097
+2028703162,Query processing for SQL updates,2004,3,7,1,1,177590072,Cesar A. Galindo Legaria,0,0.0908845357243609,0.31128747720343375
+2075827270,Orthogonal optimization of subqueries and aggregation,2001,15,90,1,1,177590072,Cesar A. Galindo Legaria,0,-0.1156577426431432,-0.2566105852302986
+2083878854,Duplicate-Free Generation of Alternatives in Transformation-Based Optimizers,1997,0,4,2,0,2257247302,Arjan Pellenkoft,0,-0.0041099411153885,0.0447066884760059
+2079112936,Execution strategies for SQL subqueries,2007,15,39,2,0,273791572,Mostafa Elhemali,0,0.6340021482422056,0.14869560028754839
+2093596628,Optimizing Star Join Queries for Data Warehousing in Microsoft SQL Server,2008,13,12,1,1,177590072,Cesar A. Galindo Legaria,0,0.0898891687154379,0.18048097221640128
+2079557302,Filtered Indices and Their Use in Flexible Schema Scenarios,2008,11,2,2,0,2125326776,Srini Acharya,0,0.3983167450838516,0.18292941888092457
+2117480765,Counting enumerating and sampling of execution plans in a cost-based query optimizer,2000,11,33,2,0,2303804806,Florian Waas,0,0.6841579663705535,0.08234759822145807
+2108940005,Outerjoins as disjunctions,1994,24,93,1,1,177590072,Cesar A. Galindo Legaria,0,0.8587517483953019,0.3475557086830342
+2135779119,Relational support for flexible schema scenarios,2008,20,13,3,0,2125326776,Srini Acharya,0,1.2025148896569742,-0.15596088466100388
+2133672720,Optimizing Similar Scalar Subqueries for XML Processing in Microsoft SQL Server,2007,10,2,2,0,2136042735,Adrian Sorin Baras,0,1.5889339942452032,-0.608295858332479
+2142977627,System and method for segmented evaluation of database queries,2004,25,71,1,1,177590072,Cesar A. Galindo Legaria,0,1.2178502537449285,-1.5947337678562354
+2110488358,Polynomial heuristics for query optimization,2010,20,23,2,0,2133606375,Nicolas Bruno,0,0.014532710543751099,0.030944858938630852
+2140591926,Microsoft SQL Server Parallel Data Warehouse Architecture Overview,2011,3,5,3,0,2651294325,JosÃ© A. Blakeley,0,-0.0041099411153885,0.0447066884760059
+2119953502,Method to increase subscription scalability,2003,14,19,1,1,177590072,Cesar A. Galindo Legaria,0,-0.0041099411153885,0.0447066884760059
+2156873116,Database change notifications primitives for efficient database query result caching,2005,3,6,1,1,177590072,Cesar A. Galindo Legaria,0,1.718723495910512,0.3007409811963294
+2160963784,Query optimization in microsoft SQL server PDW,2012,7,26,10,0,2155586260,Srinath Shankar,0,0.7215975991611812,0.3052417628859806
+2182704612,Optimizing Star JoinQueriesforDataWarehousing,2008,1,0,1,1,177590072,Cesar A. Galindo Legaria,0,0.34200604221369374,-1.3903830075207013
+2237576228,System and method for providing user defined aggregates in a database system,2004,56,72,1,1,177590072,Cesar A. Galindo Legaria,0,-0.1480370585650601,0.11925506114037154
+2197955382,Query Execution Plans by Compilation-Time Execution,2008,18,19,1,1,177590072,Cesar A. Galindo Legaria,0,-0.5296783729876128,0.5999535967023556
+2311134077,DATABASE SYSTEM FOR EXECUTING PARAMETER-SENSITIVE QUERY,2014,14,1,1,1,177590072,Cesar A. Galindo Legaria,0,0.8809340701863815,0.11633144593696097
+2772835696,Optimization of Imperative Programs in a Relational Database,2017,20,3,5,0,1993980636,Karthik Ramachandra,0,0.19010007029931475,-0.06308542216139347
+2963741525,Froid optimization of imperative programs in a relational database,2017,19,13,5,0,1993980636,Karthik Ramachandra,0,0.19010007029931475,-0.06308542216139347
+3014602588,Session details Surveys,2010,0,0,1,1,177590072,Cesar A. Galindo Legaria,0,-0.0041099411153885,0.0447066884760059

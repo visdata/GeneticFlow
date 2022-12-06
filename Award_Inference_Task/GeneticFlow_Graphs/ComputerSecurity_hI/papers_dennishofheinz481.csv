@@ -1,0 +1,49 @@
+199951655,Non-Interactive Key Exchange,2013,37,44,2,1.0,2155010393,Eduarda S. V. Freire,0,-0.4262116179030664,-2.0400403158370506
+15825508,On Modeling IND-CCA Security in Cryptographic Protocols,2003,9,19,1,1.0,2311125173,Dennis Hofheinz,0,-0.856667729424814,-2.952164800252314
+578595047,Identity-Based Encryption with (Almost) Tight Security in the Multi-instance Multi-ciphertext Setting,2015,22,36,1,1.0,2311125173,Dennis Hofheinz,0,0.458264058393685,-2.038628819992395
+1481638950,Comparing two notions of simulatability,2005,10,21,1,1.0,2311125173,Dennis Hofheinz,0,-0.45250279488222067,-1.2963849844760356
+1490484183,Initiator-Resilient Universally Composable Key Exchange,2003,21,28,1,1.0,2311125173,Dennis Hofheinz,0,-0.20952639181266025,-1.2526387976120454
+1490687381,Conditional reactive simulatability,2006,33,5,3,0.0,2045355816,Michael Backes,0,-0.5081620880425934,-1.0387782548581137
+1554072239,Encryption Schemes Secure under Related-Key and Key-Dependent Message Attacks,2014,55,21,3,0.545455,2118046578,Florian BÃ¶hl,0,-0.3152924233732316,-0.682287627891548
+1513245683,Conditional Reactive Simulatability in Computer Security,2006,0,1,4,0.5,347251619,Markus DÃ¼rmuth,0,0.0040557659796233,0.2757546058061082
+1540681221,An attack on a group-based cryptographic scheme,2006,3,0,1,1.0,2311125173,Dennis Hofheinz,0,-0.20003083699307245,-1.600563615624203
+1807462631,Encryption schemes secure against chosen-ciphertext selective opening attacks,2010,42,55,2,0.0,2169794331,Serge Fehr,0,0.00704815607950901,-0.7209431563567984
+1593454879,Practical Chosen Ciphertext Secure Encryption from Factoring,2009,38,103,1,1.0,2311125173,Dennis Hofheinz,0,0.5477740632224515,-2.5782422936144402
+1585474545,Bounded CCA2-secure encryption,2007,36,60,3,0.0,2156861640,Ronald Cramer,0,0.3656313580622659,-2.1656180069200586
+1964621149,Software Security in Virtualized Infrastructures The Smart Meter Example,2011,25,1,5,0.0,135566254,JÃ¶rn MÃ¼ller Quade,0,-0.6660396936394887,0.6203712913907347
+1988512541,Possibility and Impossibility Results for Selective Decommitments,2011,49,28,1,1.0,2311125173,Dennis Hofheinz,0,0.6834417609008422,-0.5546832106052955
+2020887999,Conditional reactive simulatability,2008,38,8,3,0.0,2045355816,Michael Backes,0,-0.449103707481391,-1.981955517122315
+2047323326,Subtleties in the Definition of IND-CCA When and How Should Challenge Decryption Be Disallowed ,2015,41,20,3,0.0,2052950829,Mihir Bellare,0,0.4030964374224348,-1.428899812473449
+2097215149,Circular Chosen-Ciphertext Security with Compact Ciphertexts,2013,32,40,1,1.0,2311125173,Dennis Hofheinz,0,0.14315353619560248,-0.7006140021108829
+2098259215,On definitions of selective opening security,2012,17,40,2,1.0,2118046578,Florian BÃ¶hl,0,0.41762196799166595,-1.324052252582624
+2117333741,Universally Composable Non-Interactive Key Exchange,2014,29,5,3,1.0,2155010393,Eduarda S. V. Freire,0,-0.6038660600453638,-1.801886502753152
+2142085225,A Generic View on Trace-and-Revoke Broadcast Encryption Schemes,2014,53,1,1,1.0,2311125173,Dennis Hofheinz,0,0.21883561754570793,-2.156603264150941
+2139440619,Towards key-dependent message security in the standard model,2008,21,47,1,1.0,2311125173,Dennis Hofheinz,0,0.4852984729737625,-1.9939084464530454
+2165549155,Tightly-Secure Authenticated Key Exchange,2015,35,28,2,0.521739,2108082560,Christoph Bader,0,-0.6658618458393818,-1.1866288189570209
+2159493100,Universally composable zero-knowledge arguments and commitments from signature cards,2007,12,45,2,0.0,135566254,JÃ¶rn MÃ¼ller Quade,0,-0.03258993290185952,-0.9853041771689373
+2166348500,Simulatable security and polynomially bounded concurrent composability,2006,41,12,1,1.0,2311125173,Dennis Hofheinz,0,-0.5241228348280023,-0.5783780206208963
+2163423973,Possibility and Impossibility Results for Encryption and Commitment Secure under Selective Opening,2009,63,161,2,0.0,2052950829,Mihir Bellare,0,0.49530258846630076,-1.9868952740730506
+2167595647,Practical Chosen Ciphertext Secure Encryption from Factoring,2013,45,40,1,1.0,2311125173,Dennis Hofheinz,0,0.5656914344068851,-2.573860788877167
+2149674197,The Kurosawa--Desmedt key encapsulation is not chosen-ciphertext secure,2009,15,21,2,0.285714,2155854707,Javier Herranz,0,0.02173504504193874,-2.3606432054683593
+2146907493,Secure hybrid encryption from weakened key encapsulation,2007,38,229,1,1.0,2311125173,Dennis Hofheinz,0,0.46770168404384144,-2.127833960169368
+2404532714,Idealizing Identity-Based Encryption,2015,23,4,1,1.0,2311125173,Dennis Hofheinz,0,0.24404282074591022,-1.051174113991878
+2402377178,Standard Security Does Not Imply Indistinguishability Under Selective Opening,2016,29,17,1,1.0,2311125173,Dennis Hofheinz,0,-0.12559152102331408,-0.44925923401750295
+2394717347,Adaptively Secure Constrained Pseudorandom Functions,2019,30,12,1,1.0,2311125173,Dennis Hofheinz,0,-0.4191416654384554,-0.2147979980736241
+2611712944,On the (im-)possibility of extending coin toss,2006,0,0,1,1.0,2311125173,Dennis Hofheinz,0,-0.12964021815216942,-1.0259328416796296
+2951507798,Towards Key-Dependent Message Security in the Standard Model,2007,0,0,1,1.0,2311125173,Dennis Hofheinz,0,0.0040557659796233,0.2757546058061082
+2949537638,Identity-based Encryption Tightly Secure under Chosen-ciphertext Attacks,2018,0,0,1,1.0,2311125173,Dennis Hofheinz,0,0.1683539061682523,-0.8351847254039225
+2951553483,Identity-based encryption with (almost) tight security in the multi-instance multi-ciphertext setting,2015,0,0,1,1.0,2311125173,Dennis Hofheinz,0,0.1683539061682523,-0.8351847254039225
+2952136241,Obfuscation for Cryptographic Purposes,2006,0,0,1,1.0,2311125173,Dennis Hofheinz,0,0.039759618553267186,0.13771439442968836
+2952510219,Tightly Secure Signatures and Public-Key Encryption,2012,0,0,1,1.0,2311125173,Dennis Hofheinz,0,0.03910652856792115,-0.9542749174440527
+2952613324,On the (Im-)Possibility of Extending Coin Toss,2006,0,0,1,1.0,2311125173,Dennis Hofheinz,0,0.0040557659796233,0.2757546058061082
+2950648727,Initiator-Resilient Universally Composable Key Exchange,2003,0,0,1,1.0,2311125173,Dennis Hofheinz,0,-0.24194281203928758,-1.392696380719455
+2950870464,Subtleties in the Definition of IND-CCA When and How Should Challenge-Decryption be Disallowed ,2009,0,0,3,0.0,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2951083427,The Kurosawa-Desmedt Key Encapsulation is not Chosen-Ciphertext Secure,2006,0,25,2,0.285714,2155854707,Javier Herranz,0,-0.2859357192522202,-1.917492601451405
+2953123917,Interactively Secure Groups from Obfuscation,2018,0,0,2,0.0,2790251243,Thomas Agrikola,0,-0.255481096177426,0.4843741529378961
+2953171156,On Fairness in Simulatability-based Cryptographic Systems,2005,0,0,2,0.0,2045355816,Michael Backes,0,0.3171484069971384,-0.13992525839030945
+2949172320,Public-Key Encryption with Simulation-Based Selective-Opening Security and Compact Ciphertexts,2016,0,0,1,1.0,2311125173,Dennis Hofheinz,0,0.03910652856792115,-0.9542749174440527
+2953353431,Idealizing Identity-Based Encryption,2015,0,0,1,1.0,2311125173,Dennis Hofheinz,0,0.155870422438688,-0.3611899258997246
+2951405697,Standard Security Does Not Imply Indistinguishability Under Selective Opening,2015,0,1,1,1.0,2311125173,Dennis Hofheinz,0,0.0040557659796233,0.2757546058061082
+2951419951,Tightly-Secure Authenticated Key Exchange,2014,0,0,2,0.521739,2108082560,Christoph Bader,0,-0.7394281071891786,-1.9830366300391988
+2949399334,On definitions of selective opening security,2011,0,1,2,1.0,2118046578,Florian BÃ¶hl,0,0.0040557659796233,0.2757546058061082
+2978647405,Kurosawa-Desmedt Meets Tight Security,2017,0,0,1,1.0,2311125173,Dennis Hofheinz,0,0.0040557659796233,0.2757546058061082

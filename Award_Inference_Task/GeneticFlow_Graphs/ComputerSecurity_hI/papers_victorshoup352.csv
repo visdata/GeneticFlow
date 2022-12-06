@@ -1,0 +1,41 @@
+140743382,On Formal Models for Secure Key Exchange,1999,0,318,1,1.0,2294259183,Victor Shoup,0,-0.5970906459151344,-2.5408556987896667
+6211292,Universal Hash Proofs and and a Paradigm for Adaptive Chosen Ciphertext Secure Public-Key Encryption,2001,0,4,2,0.621645,2156861640,Ronald Cramer,0,0.7368254242134771,-3.194999187468005
+149792716,ACE Encrypt The Advanced Cryptographic Engines Public Key Encryption Scheme,2000,39,2,2,0.0,1997795221,Thomas Schweinberger,0,-0.161338788286853,-2.1885290872373355
+1572695506,Securing threshold cryptosystems against chosen ciphertext attack,1998,28,176,1,1.0,2294259183,Victor Shoup,0,0.6519452624810538,-2.0752215662406095
+1501760004,On the security of a practical identification scheme,1996,11,22,1,1.0,2294259183,Victor Shoup,0,0.3549799507312031,-0.24960003481064832
+1513535488,A secure signature scheme from bilinear maps,2003,38,64,3,0.0,201828038,Dan Boneh,0,-0.46887113895269716,-1.224455471819239
+1752677809,Asynchronous protocols for optimistic fair exchange,1998,7,287,2,0.0,2383048336,Nadarajah Asokan,0,-0.7507034837654843,-0.027647116996128096
+1580733778,Session key distribution using smart cards,1996,7,110,1,1.0,2294259183,Victor Shoup,0,0.2700896606190648,-0.3980855429113737
+1865528730,Advanced Homomorphic Encryption its Applications and Derivatives (AHEAD),2013,0,0,7,0.0,83353782,Daniele Micciancio,0,0.7427698114395846,-0.718136482595336
+1974232544,Signature schemes based on the strong RSA assumption,2000,29,277,2,0.650839,2156861640,Ronald Cramer,0,-1.044087792927937,-2.9318388254014702
+2018752427,On the Security of a Practical Identification Scheme,1999,16,42,1,1.0,2294259183,Victor Shoup,0,0.228870319643014,-0.9957558103839599
+2100460660,Practical Verifiable Encryption and Decryption of Discrete Logarithms,2003,53,419,2,0.0,2001749418,Jan Camenisch,0,0.2597473218282979,-1.5756780512654502
+2101803085,A Practical Public Key Cryptosystem Provably Secure Against Adaptive Chosen Ciphertext Attack,1998,22,1140,2,0.898819,2156861640,Ronald Cramer,0,1.1389731461602135,-3.2747851370051504
+2131882761,Stateful public-key cryptosystems how to encrypt with one 160-bit exponentiation,2006,44,46,3,0.0,2052950829,Mihir Bellare,0,0.8306999456115942,-0.9975176197607105
+2117966590,Credential authenticated identification and key exchange,2010,20,31,4,0.0,2001749418,Jan Camenisch,0,-0.8798650625685699,-1.539796012708473
+2112240651,Optimistic fair exchange of digital signatures,2000,40,431,2,1.0,2616513845,N. Asokan,0,-0.0502062932586919,-0.7829707589455565
+2127382327,Building Dependable Trusted Services,2003,5,0,4,0.0,30684206,Klaus Kursawe,0,-1.5491069974272522,-0.13184871839673964
+2144370861,Anonymous credentials on a standard java card,2009,21,137,4,0.0,2136603996,Patrik Bichsel,0,0.036191276275480654,0.3679403960301915
+2169265599,A Public Key Encryption Scheme Secure against Key Dependent Chosen Plaintext and Adaptive Chosen Ciphertext Attacks,2009,40,129,3,0.0,2001749418,Jan Camenisch,0,0.8181500770223386,-2.657004854066063
+2148509425,Signature schemes based on the strong RSA assumption,1999,29,146,2,0.898819,2156861640,Ronald Cramer,0,-1.0417470057178972,-2.629641246667018
+2157679418,Design and Analysis of Practical Public-Key Encryption Schemes Secure against Adaptive Chosen Ciphertext Attack,2004,50,724,2,0.60181,2156861640,Ronald Cramer,0,0.7262061103661817,-2.9199331689394845
+2167595647,Practical Chosen Ciphertext Secure Encryption from Factoring,2013,45,40,3,0.0,2311125173,Dennis Hofheinz,0,0.5656914344068851,-2.573860788877167
+2210874835,Optimistic fair exchange of digital signatures,1998,23,185,2,1.0,2616513845,N. Asokan,0,-0.1387210109645018,-0.6529466688339748
+2211800372,Practical non-malleable public-key cryptosystem,2003,8,28,1,1.0,2294259183,Victor Shoup,0,1.1013571328868277,-2.8904650993742376
+2241131553,New privacy-preserving architectures for identity-/attribute-based encryption,2010,125,17,3,0.0,1259442811,Yevgeniy Dodis,0,0.018398886987539897,-2.288140684430208
+2279324394,Authentication mechanisms for open distributed systems,2007,72,0,3,0.0,292459508,David MaziÃ¨res,0,-0.9225354090480113,-0.5164653787505014
+2407578319,OPTIMISTIC FAIR EXCHANGE PROTOCOLS,1998,0,16,2,0.0,2004230566,Michael Waidner,0,-0.8813603277601795,-0.41626344035488616
+2405015683,A Proposal for an ISO Standard for Public Key Encryption,2001,20,220,1,1.0,2294259183,Victor Shoup,0,0.12863271201119833,-0.9688947641645543
+2584802705,A Practical Public Key Cryptosystem Provably Secure against Adaptive Chosen Cipher Attack,1998,0,8,2,0.898819,2156861640,Ronald Cramer,0,0.440355219619642,-1.0310854953945545
+2613185318,A practical public key cryptosystem provably secure against adaptive chosen ciphertext attack,1998,0,20,2,0.898819,2156861640,Ronald Cramer,0,1.1389731461602135,-3.2747851370051504
+2613804763,Practical verifiable encryption and decryption of discrete logarithms,2003,0,4,2,0.0,2001749418,Jan Camenisch,0,0.26951934771333375,-1.5658787739393094
+2765638539,Implementing BP-Obfuscation Using Graph-Induced Encoding,2017,19,14,3,0.0,1686185850,Shai Halevi,0,-0.521076096121468,0.3456416612149622
+2915981297,A Proposal for an ISO Standard for Public Key Encryption (version 21),2001,23,82,1,1.0,2294259183,Victor Shoup,0,0.12863271201119833,-0.9688947641645543
+2951823680,Stateful Public-Key Cryptosystems How to Encrypt with One 160-bit Exponentiation,2006,0,0,3,0.0,2052950829,Mihir Bellare,0,1.0234977874426157,-0.7111133471055375
+2950247866,A public key encryption scheme secure against key dependent chosen plaintext and adaptive chosen ciphertext attacks,2008,0,0,3,0.0,2001749418,Jan Camenisch,0,0.3273186678366469,-1.3070434274062168
+2952483205,Optimistic fair Exchange of Digital Signatures,1997,0,9,2,1.0,2616513845,N. Asokan,0,-1.4545960193008185,-0.9490207242424589
+2950576867,A Practical Public Key Cryptosystem Provably Secure against Adaptive Chosen Ciphertext Attack,1998,0,0,2,0.898819,2156861640,Ronald Cramer,0,0.7238251932129142,-2.3890831623660103
+2953124804,Design and Analysis of Practical Public-Key Encryption Schemes Secure against Adaptive Chosen Ciphertext Attack,2001,0,14,2,0.621645,2156861640,Ronald Cramer,0,0.5873154256465867,-2.1044944081419423
+2949167359,Credential Authenticated Identification and Key Exchange,2010,0,0,4,0.0,2001749418,Jan Camenisch,0,-0.9222080541073379,-0.9348377530776492
+3013709103,Security analysis of SPAKE2,2020,0,0,1,1.0,2294259183,Victor Shoup,0,0.2018268678365599,0.1425886522275585
+2166120083,Practical and Employable Protocols for UC-Secure Circuit Evaluation over â„¤n,2013,49,2,4,0.0,2001749418,Jan Camenisch,0,0.8951053281234733,-0.6997732950485615

@@ -1,0 +1,64 @@
+104312805,Evaluating the security of machine learning algorithms,2008,43,5,2,1.0,2136339769,Marco Barreno,0,0.0040557659796233,0.2757546058061082
+54747119,Privacy and Security in the Location-enhanced World Wide Web,2003,9,44,6,0.0,29409133,James A. Landay,0,-0.12068279326511751,0.8867380293981713
+39790823,Token and notational money in electronic commerce,1995,14,56,3,0.666667,2113696107,L. Jean Camp,0,-0.3190444769555518,0.5615419986564617
+144258053,SWOON a testbed for secure wireless overlay networks,2008,7,11,2,0.571429,2170444000,Yu Lun Huang,0,0.0040557659796233,0.2757546058061082
+144663293,Evading Anomaly Detection through Variance Injection Attacks on PCA (Extended Abstract),2008,1,1,5,1.0,617941202,Benjamin I. P. Rubinstein,0,0.09213588834667,0.385594277368354
+197026479,I Know Why You Went to the Clinic Risks and Realization of HTTPS Traffic Analysis,2014,16,45,4,1.0,2164491012,Brad Miller,0,0.2256695345913385,0.3123372787480694
+197958514,Distillation Codes and Applications to DoS Resistant Multicast Authentication,2004,33,95,5,0.428571,1984874970,Chris Karlof,0,-0.5530861437885858,-0.004176666300269333
+14745630,Strongbox A System for Self-Securing Programs,2004,34,20,2,0.251619,2108834582,Bennet Yee,0,0.13243095191414855,0.6444907988351548
+753250110,Strongbox a self-securing protection system for distributed programs,1988,24,3,2,0.0,2105930983,Alfred Z. Spector,0,0.0040557659796233,0.2757546058061082
+823792198,Constraining Pictures with Pictures,1989,6,8,3,0.0,1097896306,Allan Heydon,0,-0.041306130325021985,0.40548217555173444
+1531789296,Secure Broadcast Communication In Wired and Wireless Networks,2002,0,117,2,0.5625,2213385919,Adrian Perrig,0,-0.023550276898621297,0.7099097923564667
+1507912691,A user study design for comparing the security of registration protocols,2008,16,7,2,0.666667,1984874970,Chris Karlof,0,-0.743027700839048,-0.5784049303419901
+1535343243,Collaborative filtering CAPTCHAs,2005,17,24,2,0.75,2107824883,Monica Chew,0,-0.6431194978466626,0.12175700068332544
+1544402772,Phish and HIPs human interactive proofs to detect phishing attacks,2005,10,75,2,0.8,2155815415,Rachna Dhamija,0,-1.1010989808646159,-0.17506165662658363
+1484422715,How to Make Replicated Data Secure,1987,21,81,2,0.0,2068258939,Maurice Herlihy,0,0.5561866620717303,0.39809109303358464
+1485200701,Why Johnny cant encrypt a usability evaluation of PGP 50,1999,14,890,2,1.0,2144309274,Alma Whitten,0,1.7917034543243457,2.2798737432463985
+1494338009,Coexistence Proof Using Chain of Timestamps for Multiple RFID Tags,2007,6,48,3,0.0,2918918443,Chih Chung Lin,0,-1.028790731694852,-0.5972262880613186
+1556735804,Usability of Security A Case Study,1998,10,88,2,1.0,2144309274,Alma Whitten,0,-0.6335913554090717,2.593733905854193
+1495110216,Building blocks for atomicity in electronic commerce,1996,14,14,1,1.0,2237110490,J. D. Tygar,0,0.155870422438688,-0.3611899258997246
+1486403556,Anonymous Atomic Transactions,1996,15,51,3,1.0,2091931506,Michael Harkavy,0,-0.1060612737333862,-0.7093127578007199
+1512391900,WWW electronic commerce and java trojan horses,1996,13,49,2,1.0,2144309274,Alma Whitten,0,0.058105616558927486,0.552345798015105
+1566496285,Electronic auctions with private bids,1998,11,118,2,1.0,2091931506,Michael Harkavy,0,0.0040557659796233,0.2757546058061082
+1558452102,Side effects are not sufficient to authenticate software,2004,11,67,3,0.0,2590735698,Umesh Shankar,0,0.292865804124337,-0.2174462984581477
+1750553315,Expander graphs for digital stream authentication and robust overlay networks,2002,39,61,2,0.25,2131252044,Dawn Song,0,-0.7952488257210746,-0.40404386219511695
+1879313991,Back to the Future Malware Detection with Temporally Consistent Labels,2015,32,4,12,1.0,2164491012,Brad Miller,0,0.05940095047987125,0.6960502266457337
+1588183204,Security and Privacy for Partial Order Time,1994,28,25,2,0.125074,2121197119,Sean W. Smith,0,-0.25726232239641234,1.311734200400081
+1850351066,NetBill security and transaction protocol,1995,10,346,2,0.0,2108919087,Benjamin T. H. Cox,0,-0.713939697530408,0.2499897574159646
+1609582386,Anonymous certified delivery,1997,20,116,2,1.0,2091931506,Michael Harkavy,0,0.006395513963132843,0.018233072919124904
+1591883051,Authentication for humans the design and evaluation of usable security systems,2005,0,1,2,0.8,2155815415,Rachna Dhamija,0,-0.9435771771712739,-0.23098651815755936
+1615207448,Evading Anomaly Detection through Variance Injection Attacks on PCA,2008,3,9,7,1.0,617941202,Benjamin I. P. Rubinstein,0,0.09213588834667,0.385594277368354
+1592791679,Cryptographic Postage Indicia,1996,15,19,1,1.0,2237110490,J. D. Tygar,0,0.23420786685520492,0.06009188982455197
+1593657937,Characterizing botnets from email spam records,2008,19,136,5,0.0,2600766506,Li Zhuang,0,-1.0282617339458586,-2.2566157946093663
+1868886551,Cryptography Its Not Just For Electronic Mail Anymore,1993,16,37,2,0.666667,2108834582,Bennet Yee,0,-0.06612216309276897,0.06994592179117476
+1974314988,Adversarial Machine Learning,2011,0,413,1,1.0,2237110490,J. D. Tygar,0,-0.6475513881245724,0.897038864060996
+1994874591,Providing auditing while protecting privacy,1994,15,2,2,0.666667,2113696107,L. Jean Camp,0,0.31339554553610954,-0.10991551242875326
+1987917857,Smart cards in hostile environments,1996,8,120,4,0.0,265468987,Howard Gobioff,0,0.26436676177368384,-0.31870921675277936
+2010608681,The battle against phishing Dynamic Security Skins,2005,20,476,2,0.8,2155815415,Rachna Dhamija,0,-0.5328678077422243,0.09469028651854798
+2041454996,OSNP Secure wireless authentication protocol using one-time key,2009,17,10,3,0.571429,2170444000,Yu Lun Huang,0,-2.454610664005218,-1.917772088965045
+2099817583,Efficient and Secure Source Authentication for Multicast,2001,22,594,4,0.5625,2213385919,Adrian Perrig,0,-0.5530861437885858,-0.004176666300269333
+2088307662,Cyber defense technology networking and evaluation,2004,7,59,21,0.0,1601293841,Ruzena Bajcsy,0,-0.13788107435609084,0.393791324816765
+2099140842,Open problems in the security of learning,2008,27,28,8,1.0,2136339769,Marco Barreno,0,0.0040557659796233,0.2757546058061082
+2131906261,Why phishing works,2006,15,967,2,0.8,2155815415,Rachna Dhamija,0,0.1954260966631127,0.09836639979555051
+2138246606,Method and apparatus for purchasing and delivering digital goods over a network,1995,5,524,2,0.0,2108919087,Benjamin T. H. Cox,0,-0.0019030051726453973,-0.1736837046962646
+2120428245,Atomicity in electronic commerce,1996,24,152,1,1.0,2237110490,J. D. Tygar,0,0.3171484069971384,-0.13992525839030945
+2106457028,Safe Staging for Computer Security,2003,4,28,2,1.0,2144309274,Alma Whitten,0,-0.6144228646363011,2.5527305540441696
+2124335908,Atomicity versus Anonymity Distributed Transactions for Electronic Commerce,1998,28,45,1,1.0,2237110490,J. D. Tygar,0,-0.16420021596708323,0.32292378428885316
+2113247363,Dynamic pharming attacks and locked same-origin policies for web browsers,2007,46,119,3,0.666667,1984874970,Chris Karlof,0,-0.18986357315150149,-0.22329039519717112
+2143541350,SAM a flexible and secure auction architecture using trusted hardware,2001,24,28,4,0.5625,2213385919,Adrian Perrig,0,-0.17227127073499815,0.1122585866263884
+2125908420,The security of machine learning,2010,43,376,4,1.0,2136339769,Marco Barreno,0,-0.6294567569693338,0.8822993709354549
+2162552722,Exploiting machine learning to subvert your spam filter,2008,16,159,8,1.0,2111611200,Blaine Nelson,0,-0.0075554174688383284,0.782614210932782
+2162886964,The problem with privacy,2003,3,0,1,1.0,2237110490,J. D. Tygar,0,0.5973776601519234,1.8290559338638097
+2160170538,Secure coprocessors in electronic commerce applications,1995,36,196,2,0.8,2108834582,Bennet Yee,0,0.16625186412845705,-0.7405372439782839
+2151298633,Can machine learning be secure,2006,37,447,5,1.0,2136339769,Marco Barreno,0,-1.1060935465119386,0.8082949063207686
+2148279836,Conditioned-safe ceremonies and a user study of an application to web authentication,2009,39,45,2,0.465617,1984874970,Chris Karlof,0,-0.8191088952285872,0.14135163956147276
+2187366271,Timed Efficient Stream Loss-Tolerant Authentication (TESLA) Multicast Source Authentication Transform Introduction,2005,20,113,4,0.184993,2213385919,Adrian Perrig,0,-1.104198903918153,-0.15812758475548838
+2167529272,Misleading Learners Co-opting Your Spam Filter,2009,22,55,9,1.0,617941202,Benjamin I. P. Rubinstein,0,-0.2208983970933454,0.4662144860624129
+2150111038,Atomicity in electronic commerce,1998,26,55,1,1.0,2237110490,J. D. Tygar,0,0.0040557659796233,0.2757546058061082
+2399659670,Atomicity in electronic commerce,1997,0,1,1,1.0,2237110490,J. D. Tygar,0,0.0040557659796233,0.2757546058061082
+2547832943,Flexible and Scalable Credential Structures NetBill Implementation and Experience,1999,9,5,2,0.0,1118245705,Yasushi Kawakura,0,-0.8993023483383803,-0.3529109596742516
+2744595269,Privacy in sensor webs and distributed information systems,2003,0,3,1,1.0,2237110490,J. D. Tygar,0,-0.09602735134178905,0.6849619620451437
+2766996328,Why Phishing Works - eScholarship,2006,0,0,1,1.0,2237110490,J. D. Tygar,0,0.1954260966631127,0.09836639979555051
+2949635430,Reviewer Integration and Performance Measurement for Malware Detection,2015,0,0,12,1.0,2164491012,Brad Miller,0,-0.19062283508173486,0.39508368487642126
+2952752967,I Know Why You Went to the Clinic Risks and Realization of HTTPS Traffic Analysis,2014,5,2,4,1.0,2164491012,Brad Miller,0,0.2256695345913385,0.3123372787480694
+3011313503,Adversarial Machine Learning Challenges,2019,184,0,3,0.223968,617941202,Benjamin I. P. Rubinstein,0,-0.8534163573455774,0.7322280771715042

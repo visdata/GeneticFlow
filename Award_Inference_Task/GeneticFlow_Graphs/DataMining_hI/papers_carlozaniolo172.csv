@@ -1,0 +1,139 @@
+137420848,Improving Data Quality Via LDL,1993,0,4,7,0.0,2403701202,Shawn Shaw,0,0.34402371984857977,0.18048399119476494
+158544713,Representing and Querying the Evolution of Databases and their Schemas in XML,2003,25,14,2,1.0,2894136648,Fusheng Wang,0,-2.0002251132859943,0.2865828913734656
+23456425,A Discussion on the Biological Relevance of Clustering Results,2014,51,4,4,0.0,2053499123,Pietro Hiram Guzzi,0,-0.3200455739429334,0.5711404055715759
+178615078,The Dynamics of Active Database Rules Models and Refinements,1995,10,1,1,1.0,2028117853,Carlo Zaniolo,0,-1.0872152001744129,0.4871860659275007
+94632805,Incompleteness of Database Languages for Data Streams and Data Mining the Problem and the Cure,2003,0,1,1,1.0,2028117853,Carlo Zaniolo,0,0.009405032978502398,0.22293339354177863
+129862386,A new Users Impressions on LDL++ and CORAL,1993,0,1,2,0.0,2102555095,Ping Yu Hsu,0,0.003708468606338,0.082832279151172
+147733779,Extending SQL for Decision Support Applications,2002,15,5,2,1.0,2809749288,Haixun Wang,0,-0.30841809856747526,0.07237999202201345
+166430344,Optimization of Nonrecursive Queries,1986,12,210,3,1.0,2202388955,Ravi Krishnamurthy,0,-1.485541378738473,0.27156202146839215
+226306790,Support for scalable analytics over databases and data-streams,2012,99,0,1,1.0,2028117853,Carlo Zaniolo,0,0.13053949957362274,0.23822633124980233
+84486621,Database System Extensions for Decision Support the AXL Approach,2000,0,5,2,1.0,2809749288,Haixun Wang,0,-0.26892040682010565,0.4338950132174933
+1488406733,User-Defined Aggregates for Datamining,1999,0,4,2,0.218182,2777339002,Haixun Wang,0,0.003708468606338,0.082832279151172
+1560191101,The ATLaS system and its powerful database language based on simple extensions of SQL,2002,7,0,2,0.218182,2777339002,Haixun Wang,0,-0.8056948217646729,0.25201342578426594
+1480446764,Using SQL to Build New Aggregates and Extenders for Object- Relational Systems,2000,17,54,2,1.0,2809749288,Haixun Wang,0,-1.948547714338556,0.6765054630752619
+1542652451,ATLaS A Native Extension of SQL for Data Mining,2003,16,44,2,0.2,2777339002,Haixun Wang,0,0.37687627133486856,0.29738471617370343
+1482271032,Optimization in a Logic Based Language for Knowledge and Data Intensive Applications,1988,27,34,2,1.0,2202388955,Ravi Krishnamurthy,0,0.14811804880775536,-0.7298116519084673
+1526286424,Time Versus Standards A Tale of Temporal Databases,2008,0,0,1,1.0,2028117853,Carlo Zaniolo,0,-0.47949752111375005,0.10108785140519173
+1536228795,Fast and Light Boosting for Adaptive Mining of Data Streams,2004,19,100,2,1.0,2109734022,Fang Chu,0,0.3847843788576782,-0.054767448340901304
+1546125000,Formal Semantics for Composite Temporal Events in Active Database Rules,1997,28,35,2,0.0,2086315844,Iakovos Motakis,0,-0.24412394823116984,0.2045965136470203
+1511011071,Optimizing recursive queries with monotonic aggregates in DeALS,2015,32,15,3,1.0,2346894778,Alexander Shkapsky,0,0.247057159400659,0.0008718596446388033
+1574723316,Deductive Databases Challenges opportunities and future directions,1996,0,1,2,0.0,2006188539,Laurent Vieille,0,0.0699045758789529,-0.006551439708665348
+1548053241,A Sequential Pattern Query Language for Supporting Instant Data Mining for e-Services,2001,4,32,2,1.0,2063483803,Reza Sadri,0,-0.01657107088421793,0.035389748403282274
+1444171038,Trajectory data pattern mining,2013,36,2,3,0.0,238197960,Elio Masciari,0,0.003708468606338,0.082832279151172
+1486741950,XBiT An XML-Based Bitemporal Data Model,2004,40,43,2,1.0,2894136648,Fusheng Wang,0,-2.5441738351417853,-0.3206290823096154
+1513236376,Managing the History of Metadata in Support for DB Archiving and Schema Evolution,2008,25,16,3,0.923077,2045003753,Carlo Curino,0,-3.114449934962298,0.4163265290626517
+1749462640,Improving mining quality by exploiting data dependency,2005,23,1,3,1.0,2109734022,Fang Chu,0,0.22275511347273685,0.17574383077967687
+1579812256,An adaptive learning approach for noisy data streams,2004,20,41,3,0.8,2953380767,Fang Chu,0,0.49013757231227384,-0.1313811445408044
+1913091358,LDL A Logic-Based Data Language,1986,23,133,2,0.0,2290410448,Shalom Tsur,0,-1.1157596201224413,0.3230401041551281
+1819534248,Using LDL++ for Spatio-Temporal Reasoning in Atmospheric Science Databases,1995,20,3,3,0.0,2033368653,Richard R. Muntz,0,0.2469936353278627,0.2577273668451742
+1823692244,Metaqueries for data mining,1996,0,90,4,0.0,2254167782,Wei Min Shen,0,-0.28833680027466346,-1.0142505022370134
+1918398775,User defined aggregates in object-relational systems,2000,17,25,2,1.0,2809749288,Haixun Wang,0,-1.5657930227134826,0.5598345090118542
+1591650667,Supporting database provenance under schema evolution,2012,15,0,2,1.0,2106037920,Shi Gao,0,-2.3157790503267153,0.41550715791065357
+1591654209,A Deductive Database Approach to AI Planning,2003,40,0,3,0.0,437610672,Antonio Brogi,0,-0.9349052263859304,0.43714452822184774
+1861141368,SQL ST a spatio-temporal data model and query language,2000,28,50,1,1.0,2028117853,Carlo Zaniolo,0,-0.6436042699789035,0.22065549438835516
+1777669349,Temporal Information Management Using XML,2004,11,3,3,1.0,2894136648,Fusheng Wang,0,-1.9171908106722653,-0.26076758571716774
+1920048001,CMP a fast decision tree classifier using multivariate predictions,2000,17,25,2,1.0,2809749288,Haixun Wang,0,0.6331117846401704,1.2290946920956194
+1830557409,Using metaqueries to integrate inductive learning and deductive database technology,1994,8,8,1,1.0,2028117853,Carlo Zaniolo,0,0.4953256014496774,0.43196652967996074
+1602871442,Efficient temporal coalescing query support in relational database systems,2006,13,2,3,0.818182,2949643484,Xin Zhou,0,-0.3543137383328513,0.3849472804511259
+1977636676,The logic of query languages for data streams,2011,11,4,1,1.0,2028117853,Carlo Zaniolo,0,-0.9042420447207278,0.07117516806552829
+1976241222,Optimal load shedding with aggregates and mining queries,2010,26,27,2,1.0,2002600875,Barzan Mozafari,0,-0.1200973188510583,0.6911945866874987
+1996794063,K*SQL a unifying engine for sequence patterns and XML,2010,9,11,3,1.0,2002600875,Barzan Mozafari,0,-0.9889922743601703,0.18747314858649036
+2004281168,Graceful database schema evolution the PRISM workbench,2008,30,150,3,0.923077,2045003753,Carlo Curino,0,-3.399415572365493,0.543066574176136
+1999323799,Bridging relational database history and the web the XML approach,2006,26,6,3,0.84,2894136648,Fusheng Wang,0,-2.399568558349525,-0.2761363466063392
+2001176284,Efficient schemes for managing multiversionXML documents,2002,39,112,3,1.0,2124541377,Shu Yao Chien,0,-1.1501740540190462,0.07473117018640207
+2010081016,Text-Mining Structured Queries and Knowledge Management on Web Document Corpora,2014,15,9,4,0.909091,2104650676,Hamid Mousavi,0,0.3467557424962203,0.4091615618664533
+2013861609,Update rewriting and integrity constraint maintenance in a schema evolution support system PRISM++,2010,31,37,4,0.804878,2045003753,Carlo Curino,0,-2.360043114354093,0.32533470576233964
+2024434210,Improving the accuracy of continuous aggregates and mining queries on data streams under load shedding,2008,24,8,2,1.0,2764647993,Yan Nei Law,0,0.019033080731803247,0.5087934994968283
+2021611189,Design of relational views over network schemas,1979,5,61,1,1.0,2028117853,Carlo Zaniolo,0,-1.4662196561427703,0.27659412569079667
+2025190917,A data stream language and system designed for power and extensibility,2006,32,127,5,0.571429,2131243498,Yijian Bai,0,-0.7488146575100411,0.1543699242554743
+2038597881,Temporal queries and version management in XML-based document archives,2008,49,36,2,0.798572,2894136648,Fusheng Wang,0,-3.3115448312360107,-0.24534880253731986
+2049273188,From regular expressions to nested words unifying languages and query execution for relational and XML sequences,2010,34,16,3,1.0,2002600875,Barzan Mozafari,0,-0.9889922743601703,0.18747314858649036
+2040811166,Automating the database schema evolution process,2013,44,60,4,0.48,2045003753,Carlo Curino,0,-3.0690051962582157,0.4813476215882637
+2052160115,Intelligent databases Old challenges and new opportunities,1992,29,14,1,1.0,2028117853,Carlo Zaniolo,0,-1.721208302858155,1.0426966690693447
+2075268020,Data cleaning using belief propagation,2005,12,17,4,0.8,2953380767,Fang Chu,0,0.39407392937115004,0.1972369617081646
+2069293831,Complex pattern matching in complex structures The XSeq approach,2013,8,2,4,0.875,2157610843,Kai Zeng,0,-0.8665944847484784,0.08949445505295323
+2099601885,Early accurate results for advanced analytics on MapReduce,2012,28,97,3,0.875,2098657411,Nikolay Laptev,0,0.2913304386574806,0.008419065993071032
+2091001077,PRIMA archiving and querying historical data with evolving schemas,2009,10,19,4,1.0,2101858554,Hyun Jin Moon,0,-3.4396216662051877,0.6383072009852161
+2082491156,Fast and accurate computation of equi-depth histograms over data streams,2011,18,18,2,0.863636,2104650676,Hamid Mousavi,0,-0.09908519751846627,0.19315750298363962
+2082945266,Very fast estimation for result and accuracy of big data analytics The EARL system,2013,15,25,3,0.875,2098657411,Nikolay Laptev,0,0.2249719681449808,0.038254941278059486
+2084846987,Analysing microarray expression data through effective clustering,2014,47,20,3,0.0,238197960,Elio Masciari,0,-0.871422079524453,2.9767365243032136
+2101310065,Graph queries in a next-generation Datalog system,2013,18,24,3,1.0,2346894778,Alexander Shkapsky,0,-1.7137796721375271,1.0632381736726946
+2104468493,Deductive databases achievements and future directions,1990,30,33,2,0.0,2289364316,Jeffrey D. Ullman,0,-0.7811834447026933,0.10153843403472022
+2081721653,High-performance complex event processing over hierarchical data,2013,41,21,4,0.671769,2002600875,Barzan Mozafari,0,-0.6688029280936573,0.13623776981196142
+2104923072,Relational languages and data models for continuous queries on sequences and data streams,2011,54,28,3,1.0,2764647993,Yan Nei Law,0,-0.8482851617263011,0.1538073799868229
+2081821924,RFID Data Processing with a Data Stream Query Language,2007,19,86,4,0.571429,2131243498,Yijian Bai,0,-0.5216475723881845,0.2539641547941117
+2102008855,Fast computation of approximate biased histograms on sliding windows over data streams,2013,22,7,2,0.909091,2104650676,Hamid Mousavi,0,0.03195334892605753,0.05648886633508686
+2105091027,Temporal XML SQL strikes back ,2005,38,12,1,1.0,2028117853,Carlo Zaniolo,0,-1.0102226337847502,-0.061664039792435066
+2105155294,A formal approach to the definition and the design of conceptual schemata for databased systems,1982,28,23,1,1.0,2028117853,Carlo Zaniolo,0,-2.1996433496671504,0.7390672570730445
+2138101384,Load Shedding for Window Joins on Multiple Data Streams,2007,18,9,2,1.0,2764647993,Yan Nei Law,0,-0.057332620526615585,0.10981989123725515
+2123458705,High-performance complex event processing over XML streams,2012,33,41,3,0.811278,2002600875,Barzan Mozafari,0,-1.2246507118322836,0.010081625129493121
+2117630035,Sequential pattern mining from trajectory data,2013,16,8,3,0.0,238197960,Elio Masciari,0,-2.088980482006184,-0.12080869314296483
+2105905502,The LDL system prototype,1990,57,173,6,0.0,2049431695,Danette Chimenti,0,-0.27519892285469,0.0510779157500024
+2109006742,Preserving and Querying Histories of XML-Published Relational Databases,2002,32,17,2,1.0,2894136648,Fusheng Wang,0,-2.362857904847829,-0.2500778988985912
+2115221160,Efficient structural joins on indexed XML documents,2002,36,272,5,1.0,2124541377,Shu Yao Chien,0,-2.069539687679322,-0.23647519591901564
+2115386467,Storing and querying multiversion XML documents using durable node numbers,2001,23,95,3,1.0,2124541377,Shu Yao Chien,0,-3.014753290875708,-0.2606056232603915
+2135952507,Design and implementation of a temporal extension of SQL,2003,6,23,3,0.857143,2108286876,Cindy X. Chen,0,-1.145555106919368,0.12626727913141245
+2132960472,Unifying the Processing of XML Streams and Relational Data Streams,2006,26,13,3,0.818182,2949643484,Xin Zhou,0,-1.5471779674501538,-0.06474636035281393
+2118355694,Temporal queries in XML document archives and web warehouses,2003,38,46,2,1.0,2894136648,Fusheng Wang,0,-3.3246575037854553,-0.22315141989437334
+2106900093,Mining Semantics Structures from Syntactic Structures in Web Document Corpora,2014,34,2,5,0.909091,2104650676,Hamid Mousavi,0,0.5540813726072502,-1.0261430011801593
+2119011418,Pushing extrema aggregates to optimize logic queries,2002,40,10,4,0.0,1972243421,Filippo Furfaro,0,-0.0395804122397981,0.0068802457672825015
+2139783012,ABS a system for scalable approximate queries with accuracy guarantees,2014,21,27,5,0.875,2157610843,Kai Zeng,0,-0.42249751036260735,0.21204789998892792
+2110363867,The analytical bootstrap a new method for fast error estimation in approximate query processing,2014,40,68,4,0.875,2157610843,Kai Zeng,0,0.01953723403996683,0.0075729026803392635
+2122174571,Query languages and data models for database sequences and data streams,2004,30,122,3,1.0,2764647993,Yan Nei Law,0,-1.0437589153964235,0.2986981480498894
+2113480381,Mining Noisy Data Streams via a Discriminative Model,2004,18,5,3,1.0,2109734022,Fang Chu,0,0.5151164680130551,-0.09039530508750636
+2119418423,Scalable architecture and query optimization fortransaction-time DBs with evolving schemas,2010,43,16,3,0.9375,2101858554,Hyun Jin Moon,0,-2.657051614980558,0.4571101977213278
+2143397294,The PRISM Workwench Database Schema Evolution without Tears,2009,12,27,4,0.923077,2045003753,Carlo Curino,0,-2.8958828156679233,0.521822754340072
+2128440972,Designing an inductive data stream management system the stream mill experience,2008,38,15,3,0.724138,2100667251,Hetal Thakkar,0,-0.5057964916991817,0.42887979132802007
+2110768293,Publishing and querying the histories of archived relational databases in XML,2003,33,31,2,1.0,2894136648,Fusheng Wang,0,-2.5449675821511075,-0.3191434550186337
+2134350535,The database language GEM,1983,13,193,1,1.0,2028117853,Carlo Zaniolo,0,-0.2549982742955442,0.2215840602359772
+2111091497,Verifying and Mining Frequent Patterns from Large Windows over Data Streams,2008,25,80,3,0.947368,2002600875,Barzan Mozafari,0,-0.24401239869876015,0.25020172689005904
+2171195384,Expert database systems (workshop review),1985,0,5,3,0.0,332443050,Larry Kerschberg,0,-0.6126236650102261,0.288837535952896
+2150346598,Temporal aggregation in active database rules,1997,27,55,2,0.0,2755623831,Iakovos Motakis,0,-0.09157049805121745,0.17780605337190775
+2144606308,Efficient Complex Query Support for Multiversion XML Documents,2002,26,47,3,0.0,2949953700,Shu Yao Chien,0,-2.704473765050243,-0.2956609266514964
+2153737095,Managing and querying transaction-time databases under schema evolution,2008,27,61,5,1.0,2101858554,Hyun Jin Moon,0,-3.3077053639901663,0.473773573772858
+2153924090,SMM A data stream management system for knowledge discovery,2011,39,18,6,0.724138,2100667251,Hetal Thakkar,0,-0.29943422495453803,0.08535061481166328
+2169009028,An XML-Based Approach to Publishing and Querying the History of Databases,2005,43,18,2,0.888889,2894136648,Fusheng Wang,0,-2.542499212606636,-0.2945138041710568
+2160009115,Discovering attribute and entity synonyms for knowledge integration and semantic web search,2013,16,10,3,0.909091,2104650676,Hamid Mousavi,0,0.7076701494211828,-1.062743763441714
+2145117618,A Data Stream Mining System,2008,13,6,3,0.724138,2100667251,Hetal Thakkar,0,0.40364287693766726,-0.4300652642867418
+2166253827,Universal temporal extensions for database languages,1999,13,25,2,0.857143,2108286876,Cindy X. Chen,0,-0.6691639359608861,0.18857740818585497
+2157211810,Database Relations with Null Values (Extended Abstract),1982,10,2,1,1.0,2028117853,Carlo Zaniolo,0,0.003708468606338,0.082832279151172
+2145508907,Copy-based versus edit-based version management schemes for structured documents,2001,7,29,3,1.0,2124541377,Shu Yao Chien,0,-0.5442538671051075,-0.0015272632806924008
+2151661475,Publishing naive Bayesian classifiers privacy without accuracy loss,2009,34,7,2,0.947368,2002600875,Barzan Mozafari,0,0.8882219121471817,0.4623613264855435
+2151793071,ArchIS an XML-based approach to transaction-time temporal database systems,2008,57,31,2,0.798572,2894136648,Fusheng Wang,0,-1.8224170553891033,0.1893288159007489
+2151831402,Mining frequent itemsets over tuple-evolving data streams,2013,19,2,4,0.0,2138080413,Chongsheng Zhang,0,0.037703047381653726,0.4555647138030447
+2166811997,An implementation of GEM supporting a semantic data model on a relational back-end,1984,18,74,1,1.0,2028117853,Carlo Zaniolo,0,-1.935504290921698,0.8440593451292274
+2154882603,Event-Oriented Data Models and Temporal Queries in Transaction-Time Databases,2009,39,9,1,1.0,2028117853,Carlo Zaniolo,0,-0.315304709723621,-0.010072510654026425
+2170011643,Using XML to Build Efficient Transaction-Time Temporal Database Systems on Relational Databases,2006,38,16,3,0.84,2894136648,Fusheng Wang,0,-1.7923104990006362,0.27041187320933885
+2161114624,Version management and historical queries in digital libraries,2005,10,1,2,0.888889,2894136648,Fusheng Wang,0,-2.3618159008292228,-0.3357434027394166
+2149233085,Expressing and optimizing sequence queries in database systems,2004,35,117,2,1.0,2063483803,Reza Sadri,0,-0.12466581407126265,-0.08072133031728083
+2146391794,XML version detection,2007,32,8,4,0.0,1972067849,Deise de Brum Saccol,0,-0.7436076855599578,0.08989644107301484
+2149468406,IBminer a text mining tool for constructing and populating InfoBox databases and knowledge bases,2013,8,18,3,0.909091,2104650676,Hamid Mousavi,0,0.5060545252802976,-0.6913960460530574
+2152592483,ATLAS a small but complete SQL extension for data mining and data streams,2003,5,66,2,1.0,2809749288,Haixun Wang,0,-0.8056948217646729,0.25201342578426594
+2185705173,Enhanced Data Models - Client/Server Model - Data Warehousing and Data Mining - Web Databases - Mobile Databases,2004,9,0,2,0.0,519054157,Stefano Ceri,0,-0.40854453719920536,0.19353253083537356
+2161789205,Supporting complex queries on multiversion XML documents,2006,61,19,3,1.0,2124541377,Shu Yao Chien,0,-2.704473765050243,-0.2956609266514964
+2242409048,Max-Intensity Detecting Competitive Advertiser Communities in Sponsored Search Market,2015,29,1,5,0.0,2656167906,Wenchao Yu,0,0.11672415509507165,0.0338187686908989
+2304602773,Mining techniques for data streams and sequences,2005,0,4,1,1.0,2028117853,Carlo Zaniolo,0,0.6855224068945569,-0.09410398125468089
+2396090814,RDF-TX A Fast User-Friendly System for Querying the History of RDF Knowledge Bases,2016,39,10,3,0.863636,2106037920,Shi Gao,0,1.220243348922986,-1.9293618411908169
+2408059206,Hierarchical Big Data Clustering (Discussion Paper),2015,0,0,5,1.0,2222158225,Michele Ianni,0,-0.8408081675944815,3.0921044741325376
+2402978962,SPARQLT and its User-Friendly Interface for Managing and Querying the History of RDF Knowledge Bases,2015,6,4,5,1.0,2106037920,Shi Gao,0,1.7972225948919665,-2.916799956823694
+2491208020,Continuous Post-Mining of Association Rules in a Data Stream Management System,2009,40,2,2,0.947368,2002600875,Barzan Mozafari,0,-0.6582605702913235,0.12250012278593761
+2444540282,Ranking support for matched patterns over complex event streams The CEPR system,2016,7,3,3,1.0,2225788554,Jiaqi Gu,0,0.1231549335056549,0.051544081604491046
+2433992225,Big Data Analytics with Datalog Queries on Spark,2016,52,44,6,1.0,2346894778,Alexander Shkapsky,0,0.01953723403996683,0.0075729026803392635
+2524350157,High-performance pattern detection and discovery for databases and data streams,2011,0,0,2,1.0,2002600875,Barzan Mozafari,0,0.009405032978502398,0.22293339354177863
+2575695977,Answering end-user questions queries and searches on Wikipedia and its history,2016,18,5,4,0.0,2585926875,Maurizio Atzori,0,0.003708468606338,0.082832279151172
+2584800792,SQLST A spatio-temporal data model and query language,2000,0,7,2,0.857143,2108286876,Cindy X. Chen,0,-0.6810685807589254,0.24829055813617013
+2560465250,Answering Controlled Natural Language Questions on RDF Knowledge Bases,2016,7,21,2,0.615228,2306940198,Giuseppe M. Mazzeo,0,0.41192745933518166,-0.8274232979477498
+2508566506,Fast Lossless Frequent Itemset Mining in Data Streams using Crucial Patterns,2016,16,4,2,1.0,2541905005,Ariyam Das,0,-0.1071931497347323,0.3242721482837629
+2605638231,Publishing naive Bayesian classifiers Privacy without accuracy loss,2009,0,0,2,0.947368,2002600875,Barzan Mozafari,0,0.2908575072107241,0.3234328159442016
+2610165725,Mining noisy data streams via a discriminative model,2004,0,0,3,1.0,2109734022,Fang Chu,0,0.5151164680130551,-0.09039530508750636
+2612412407,Models and operators for continuous queries on data streams,2006,0,0,1,1.0,2028117853,Carlo Zaniolo,0,-0.14600940760675415,0.09848237505486461
+2869113556,Efficient Big Data Clustering,2018,5,0,4,1.0,2222158225,Michele Ianni,0,-0.1587807359400926,0.5606748115270446
+2887700685,Clustering Big Data,2018,0,0,4,1.0,2222158225,Michele Ianni,0,-0.064181750922619,0.5322747349694676
+2929139284,An Efficient Sliding Window Approach for Approximate Entity Extraction with Synonyms,2019,0,7,4,0.625,2669831802,Jin Wang,0,0.003708468606338,0.082832279151172
+2951438725,MF-Join Efficient Fuzzy String Similarity Join with Multi-level Filtering,2019,35,3,3,0.625,2669831802,Jin Wang,0,0.003708468606338,0.082832279151172
+2951918923,Early Accurate Results for Advanced Analytics on MapReduce,2012,14,5,3,0.875,2098657411,Nikolay Laptev,0,0.3063944356869823,-0.1172577747737646
+2957436444,Multifaceted protein-protein interaction prediction based on Siamese residual RCNN,2019,49,10,7,0.6,2656641051,Muhao Chen,0,-0.06868386095689515,0.24205629126618533
+2948906765,RaSQL Greater Power and Performance for Big Data Analytics with Recursive-aggregate-SQL on Spark,2019,51,6,7,0.894737,2225788554,Jiaqi Gu,0,-0.08446977620011606,0.11065915811275283
+2953221658,Scaling-Up Reasoning and Advanced Analytics on BigData,2018,84,0,6,0.0,2042584619,Tyson Condie,0,-0.13724670887924625,0.1386148866374459
+2951259771,Greedy Algorithms in Datalog,2003,20,0,2,0.0,2919664443,Sergio Greco,0,0.003708468606338,0.082832279151172
+2980569716,Monotonic Properties of Completed Aggregates in Recursive Queries,2019,22,0,1,1.0,2028117853,Carlo Zaniolo,0,-0.3291976808020441,-0.13703470885516322

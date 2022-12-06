@@ -1,0 +1,81 @@
+204918861,The Orion Uncertain Data Management System,2008,6,7,4,1.0,2166632766,Sarvjeet Singh,0,-0.7272655141233766,0.5236132644792915
+19971480,Indexing Probabilistic Nearest-Neighbor Threshold Queries,2008,15,8,4,1.0,2639633066,Yinian Qi,0,-1.3361018720106888,-0.12701159745010224
+71433386,Efficient subsequence search in databases,2013,12,0,3,1.0,2139008381,Rohit Jain,0,0.1656019551103819,0.40049106199639006
+89861162,SUPPORTING EFFECTIVE AND EFFICIENT THREE-DIMENSIONAL SHAPE RETRIEVAL,2004,32,4,3,0.666667,290822562,Yagnanarayanan Kalyanaraman,0,-0.3224513172225988,0.1037120505302715
+178555045,A Statistical Method for Integrated Data Cleaning and Imputation,2009,21,7,1,1.0,2119765128,Sunil Prabhakar,0,-0.1771375768504295,0.003135601164374232
+1550293580,Query Selectivity Estimation for Uncertain Data,2008,29,9,4,1.0,2166632766,Sarvjeet Singh,0,-1.0453590868635025,0.37630828167248714
+1551528222,wmdb* rights protection for numeric relational data,2004,1,4,3,0.818182,2071141648,Radu Sion,0,-1.5317064705832737,0.48366304146510364
+1525092603,Query Processing in Broadcasted Spatial Index Trees,2001,11,60,4,0.781758,2133492747,Susanne E. Hambrusch,0,-0.533326866455655,0.06696456519210892
+1544002045,Cyclic allocation of two-dimensional data,1998,8,70,1,1.0,2119765128,Sunil Prabhakar,0,0.003708468606338,0.082832279151172
+1535525206,Sensors Uncertainty Models and Probabilistic Queries,2005,15,3,2,0.830769,2138267588,Reynold Cheng,0,-0.0395804122397981,0.0068802457672825015
+1032067220,Pay-as-you-go Feedback in Data Quality Systems,2015,30,0,3,0.489094,146341373,Siarhei Bykau,0,0.23532298771962015,-0.05948598820641778
+1501678767,Disk Allocation for Fast Range and Nearest-Neighbor Queries,2003,30,1,1,1.0,2119765128,Sunil Prabhakar,0,-0.22858667241994954,0.05242809182394457
+1528583162,Efficient Join Processing over Uncertain Data Technical Report,2005,9,0,2,0.0,118037170,Jeffrey Scott Vitter,0,-0.39090013933452067,0.5174778524749327
+1538248289,Adaptive Stream Filters for Entity-based Queries with Non-Value Tolerance Technical Report,2005,27,1,2,0.0,1911907851,Ben Kao,0,1.2531384960367973,0.26999735084274074
+1494233816,Identifying rare classes with sparse training data,2007,17,0,4,0.0,2311556573,Mingwu Zhang,0,0.037816595868166394,0.507397063204513
+1503410176,Database support for uncertain data,2009,49,0,1,1.0,2119765128,Sunil Prabhakar,0,-1.5803157803836663,0.569739346093232
+1512485814,U-DBMS a database system for managing constantly-evolving data,2005,4,99,3,0.830769,2138267588,Reynold Cheng,0,-2.611285158645204,0.8311183521116245
+1495710108,Efficient indexing techniques for the update intensive environment,2005,0,0,1,1.0,2119765128,Sunil Prabhakar,0,0.3800248960556045,0.4907458344035158
+1586314716,Statistical inference and data cleaning in relational database systems,2011,0,0,1,1.0,2119765128,Sunil Prabhakar,0,0.020964475246335545,0.4145644177070857
+1841643733,A distributed database server for continuous media,2002,0,9,9,0.0,220758600,Walid G. Aref,0,-0.34258566722058487,0.29144618388543225
+1605860016,Indexing and querying constantly evolving data using time series analysis,2005,12,7,2,0.857143,2334154954,Yuni Xia,0,0.2945714957832715,-0.020645961579237017
+1663439106,Efficient Evaluation of Continuous Range Queries on Moving Objects,2002,33,6,2,0.9375,21977915,Dmitri V. Kalashnikov,0,0.2974469371135413,-0.023538934596111272
+1968568562,Efficient disk allocation for fast similarity searching,1998,22,22,1,1.0,2119765128,Sunil Prabhakar,0,-0.27686161247268176,-0.17963900394805066
+1968728075,Entity identification in database integration,1996,16,33,4,0.0,2136050841,Ee Peng Lim,0,-0.4173063724348182,0.30531923543060707
+2000736347,An efficient location update mechanism for continuous queries over moving objects,2007,18,17,3,0.664756,2138267588,Reynold Cheng,0,0.1153027212600109,-0.11325218402533548
+2026550695,Effectiveness and efficiency of three-dimensional shape retrieval,2005,41,4,3,0.6,290822562,Yagnanarayanan Kalyanaraman,0,0.25355932653840735,0.6076404602277061
+2011080525,Main Memory Evaluation of Monitoring Queries Over Moving Objects,2004,30,90,2,1.0,21977915,Dmitri V. Kalashnikov,0,-0.1847743722593346,0.060218323848301614
+2030568463,Indexing continuously changing data with mean-variance tree,2005,9,12,3,0.857143,2334154954,Yuni Xia,0,-0.13275296294680305,-0.071629888206014
+2052920167,Data declustering for efficient range and similarity searching,1998,9,5,1,1.0,2119765128,Sunil Prabhakar,0,0.003708468606338,0.082832279151172
+2043224356,Fast similarity join for multi-dimensional data,2007,28,15,2,0.4875,21977915,Dmitri V. Kalashnikov,0,-0.5480368865146535,0.7058664549468001
+2039801792,Trustworthy data from untrusted databases,2013,24,16,2,1.0,2139008381,Rohit Jain,0,-2.1267377719581133,0.49031844223319143
+2058254784,Towards scalable location-aware services requirements and research issues,2003,37,39,4,0.25,696807755,Mohamed F. Mokbel,0,0.05448019130845853,0.011338791864125031
+2057006527,Managing uncertainty in sensor database,2003,12,60,2,0.888889,2138267588,Reynold Cheng,0,0.2259700045206411,-0.041396269314434755
+2065993338,Efficient query execution on broadcasted index tree structures,2007,24,10,4,0.89685,2133492747,Susanne E. Hambrusch,0,0.02090407308311011,0.26756783149318636
+2064437573,Position transformation a location privacy protection method for moving objects,2008,19,13,4,0.0,2238753429,Dan Lin,0,0.003708468606338,0.082832279151172
+2089132321,Guaranteed authenticity and integrity of data from untrusted servers,2014,11,0,2,1.0,2139008381,Rohit Jain,0,-2.5423661503410333,0.7160013461379284
+2082141961,A Reconfigurable 3D Engineering Shape Search System Part II â€” Database Indexing Retrieval and Clustering,2003,13,32,3,0.666667,290822562,Yagnanarayanan Kalyanaraman,0,0.17442062980591078,0.6501949601685502
+2096576767,Ensuring correctness over untrusted private database,2008,15,15,2,1.0,2166632766,Sarvjeet Singh,0,-0.5934923614992935,0.14535472691008477
+2080545174,Indexing continuously changing data with mean-variance tree,2008,9,2,3,0.541957,2334154954,Yuni Xia,0,0.07566427633371031,-0.7392468581711988
+2087796744,Rights protection for relational data,2003,17,85,3,0.818182,2071141648,Radu Sion,0,-1.3994017824958063,0.5425531403991672
+2100913369,Rights protection for relational data,2004,20,183,3,0.818182,2071141648,Radu Sion,0,-0.4510729884163594,0.24846660988711605
+2104600163,Filtering Data Streams for Entity-Based Continuous Queries,2010,31,11,3,0.375788,2138267588,Reynold Cheng,0,-0.4362179344050234,0.09772308643284802
+2104906863,Q+Rtree efficient indexing for moving object databases,2003,12,45,1,1.0,2119765128,Sunil Prabhakar,0,-0.08863416532439206,0.37670511491833125
+2099051676,Broadcasting and querying multi-dimensional index trees in a multi-channel environment,2006,16,13,3,0.89685,2133492747,Susanne E. Hambrusch,0,-0.0395804122397981,0.0068802457672825015
+2102157664,Rule induction for uncertain data,2011,37,17,3,0.857143,2797462947,Biao Qin,0,-0.13768482300465795,0.15990371745823806
+2129167530,Tracing lineage beyond relational operators,2007,29,29,4,0.0,2311556573,Mingwu Zhang,0,-1.4977401537354063,0.7038690238111501
+2141538155,Resilient rights protection for sensor streams,2004,21,56,3,0.818182,2071141648,Radu Sion,0,0.25279980089418275,0.356263393655007
+2112130143,Evaluation of probabilistic queries over imprecise data in constantly-evolving environments,2007,34,34,3,0.664756,2138267588,Reynold Cheng,0,0.1244849063987563,0.10648648362283772
+2142006107,Scalable spatio-temporal continuous query processing for location-aware services,2004,24,42,5,0.0,2104701359,Xiaopeng Xiong,0,-1.4127724301090168,1.0879001504375987
+2129955956,Database Support for Probabilistic Attributes and Tuples,2008,19,100,4,1.0,2166632766,Sarvjeet Singh,0,-1.3033839591566716,0.37153935555008544
+2118375353,Rights protection for categorical data,2005,28,46,3,0.647059,2071141648,Radu Sion,0,0.34402371984857977,0.18048399119476494
+2121722315,Threshold query optimization for uncertain data,2010,28,25,4,1.0,2639633066,Yinian Qi,0,-0.031344154239755534,0.08948278088732697
+2139573884,Adaptive stream filters for entity-based queries with non-value tolerance,2005,19,40,3,0.830769,2138267588,Reynold Cheng,0,0.1231549335056549,0.051544081604491046
+2115986770,Efficient join processing over uncertain data,2006,14,92,3,0.769134,2138267588,Reynold Cheng,0,-1.308559155774911,0.8026285936541502
+2110037957,Indexing Uncertain Categorical Data,2007,25,115,3,1.0,2166632766,Sarvjeet Singh,0,0.1391759777205771,0.22310422014875697
+2116136273,A Rule-Based Classification Algorithm for Uncertain Data,2009,29,99,3,0.818182,2797462947,Biao Qin,0,0.0455596475361742,0.12477509665671359
+2142909274,Efficient indexing methods for probabilistic threshold queries over uncertain data,2004,23,254,3,0.888889,2138267588,Reynold Cheng,0,-0.10284415109235653,0.29515477241744503
+2136793462,Query indexing and velocity constrained indexing scalable techniques for continuous queries on moving objects,2002,35,326,1,1.0,2119765128,Sunil Prabhakar,0,0.34566902164294633,0.3731233468170894
+2110286878,Similarity join for low-and high-dimensional data,2003,17,15,2,1.0,21977915,Dmitri V. Kalashnikov,0,-1.14465071582193,1.288343861592489
+2143106812,Coalescing executions for fast uncertainty analysis,2011,32,5,4,0.0,1263873108,William N. Sumner,0,0.2798529809324332,0.17341875095180667
+2119493805,Querying imprecise data in moving object environments,2003,33,394,3,0.888889,2138267588,Reynold Cheng,0,-0.2995555520626407,0.23373568143946455
+2131249111,Optimal Parallel I/O for Range Queries through Replication,2002,20,19,3,0.0,2951337581,Keith B. Frikken,0,-0.14255436113902986,0.20337351355405242
+2128711351,uRule A Rule-Based Classification System for Uncertain Data,2010,8,8,4,0.857143,2797462947,Biao Qin,0,0.0455596475361742,0.12477509665671359
+2108009586,Indexing multi-dimensional uncertain data with arbitrary probability density functions,2005,16,266,6,0.0,2131082813,Yufei Tao,0,-0.11365938118440695,-0.11251862632066337
+2144158804,Change tolerant indexing for constantly evolving data,2005,15,26,3,0.830769,2138267588,Reynold Cheng,0,0.04676444141181069,0.4047702327217471
+2144562386,Orion 20 native support for uncertain data,2008,6,98,4,1.0,2166632766,Sarvjeet Singh,0,-0.764728722748889,0.5883883390090854
+2162614966,Multiquality Data Replication in Multimedia Databases,2007,36,5,4,0.0,2306077690,Yi Cheng Tu,0,0.34402371984857977,0.18048399119476494
+2171776999,Evaluating probabilistic queries over imprecise data,2003,17,552,3,0.888889,2138267588,Reynold Cheng,0,-0.966638044218966,0.36176049267866306
+2154711808,Entity identification in database integration,1993,11,124,4,0.0,2136050841,Ee Peng Lim,0,-0.7971386544869449,0.42470349981878613
+2164187405,ERACER a database approach for statistical inference and data cleaning,2010,24,111,3,0.913043,2227100931,Chris Mayfield,0,-0.2277948537307607,0.3384711537449258
+2149350968,Content-based three-dimensional engineering shape search,2004,31,28,2,0.0,2163313417,Kuiyang Lou,0,0.1415614046854496,0.6443522861502824
+2158795092,Efficient Evaluation of Continous Range Queries on Movng Objects,2002,4,0,3,0.9375,21977915,Dmitri V. Kalashnikov,0,-0.1847743722593346,0.060218323848301614
+2223188579,Method and system for rights assessment over digital data through watermarking,2004,2,12,3,0.6,1984264859,Mikhail J. Atallah,0,-0.4510729884163594,0.24846660988711605
+2483088531,Sequential pattern mining in databases with temporal uncertainty,2017,33,11,5,0.0,2107884066,Jiaqi Ge,0,0.15011497953684425,0.13908440388466345
+2527370487,Mining Statistically Significant Attribute Associations in Attributed Graphs,2016,8,2,3,0.0,2560207967,Jihwan Lee,0,0.003708468606338,0.082832279151172
+2612989134,Staging User Feedback toward Rapid Conflict Resolution in Data Fusion,2017,42,4,3,1.0,2108100863,Romila Pradhan,0,0.2203513016097659,-0.05856305705207425
+2887232036,Leveraging Data Relationships to Resolve Conflicts from Disparate Data Sources,2018,19,0,3,1.0,2108100863,Romila Pradhan,0,0.0447527817443803,0.01935162272502435
+2898433994,A Framework to Integrate User Feedback for Rapid Conflict Resolution,2018,8,0,3,1.0,2108100863,Romila Pradhan,0,0.2203513016097659,-0.05856305705207425
+2962776949,Adaptive processing of spatial-keyword data over a distributed streaming cluster,2018,17,2,7,0.0,2129876561,Ahmed R. Mahmood,0,-0.16120023132313624,0.1408174136681086
+2950625826,Mining Statistically Significant Attribute Associations in Attributed Graphs,2016,13,0,3,0.0,2560207967,Jihwan Lee,0,0.003708468606338,0.082832279151172
+209629806,ProbKS Keyword Search on Probabilistic Spatial Data,2014,19,0,4,0.0,2439722069,Feng Gao,0,0.1931335860050575,0.5313411543981491

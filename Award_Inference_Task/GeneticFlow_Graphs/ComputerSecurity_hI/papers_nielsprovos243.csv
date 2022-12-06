@@ -1,0 +1,32 @@
+6385438,Preventing privilege escalation,2003,21,261,1,1.0,2274458662,Niels Provos,0,1.1387600527984931,1.4428249876023391
+64136229,Cryptography in OpenBSD an overview,1999,16,47,5,0.0,284269125,Theo de Raadt,0,-0.6605384942180057,-0.7682983073136769
+132710837,To catch a predator a natural language approach for eliciting malicious payloads,2008,23,18,4,0.0,2120111586,Sam Small,0,0.12181002358453068,0.5771313806105608
+102746433,SHELLOS enabling fast detection and forensic analysis of code injection attacks,2011,35,49,4,0.0,2159745255,Kevin Z. Snow,0,0.8770957777503273,0.7878042121150818
+1514368868,A virtual honeypot framework,2004,20,562,1,1.0,2274458662,Niels Provos,0,0.7439262335644424,0.6865514109036815
+1532906507,Detecting Steganographic Content on the Internet,2002,13,227,1,1.0,2274458662,Niels Provos,0,-0.6736514478653743,-0.40777118811081214
+1516211918,Improving host security with system call policies,2003,36,454,1,1.0,2274458662,Niels Provos,0,0.17045697125104634,1.1224050237750074
+1552464730,ScanSSH - Scanning the Internet for SSH Servers,2001,4,27,2,0.0,2236861272,Peter Honeyman,0,-0.09002107534729537,-0.9162704046719969
+1491237615,The ghost in the browser analysis of web-based malware,2007,6,424,1,1.0,2274458662,Niels Provos,0,1.040935247152607,1.0871497541921629
+1573594453,Virtual Honeypots From Botnet Tracking to Intrusion Detection,2007,0,243,1,1.0,2274458662,Niels Provos,0,0.15459100120848734,0.5803822128316928
+1486318496,Peeking through the cloud DNS-based estimation and its applications,2008,28,23,4,0.782609,2167647949,Moheeb Abu Rajab,0,0.3259332239481683,0.5745734317069635
+1806317803,Defending against statistical steganalysis,2001,12,532,1,1.0,2274458662,Niels Provos,0,0.0040557659796233,0.2757546058061082
+1581184532,Corrupted DNS Resolution Paths The Rise of a Malicious Resolution Authority,2008,16,99,2,0.0,160465655,David Dagon,0,-0.040350391049298946,0.6456821080490113
+1599281790,Encrypting virtual memory,2000,18,97,1,1.0,2274458662,Niels Provos,0,0.2176733177796285,-2.085211608112781
+1769672943,Ghost turns zombie exploring the life cycle of web-based malware,2008,14,66,2,0.0,198647274,Michalis Polychronakis,0,-0.25703506162156664,1.4328710853034878
+1591302859,A future-adaptive password scheme,1999,12,164,2,0.0,292459508,David MaziÃ¨res,0,-2.300109769793811,-1.6089782662189096
+1585435904,Cookies along trust-boundaries (CAT) accurate and deployable flood protection,2006,19,14,4,0.0,2153903143,Martin Casado,0,-0.5493594328785373,-0.003358173577905299
+2043573545,Cybercrime 20 when the cloud turns dark,2009,6,56,1,1.0,2274458662,Niels Provos,0,0.0040557659796233,0.2757546058061082
+2053774863,A framework for detection and measurement of phishing attacks,2007,19,298,4,0.0,1054528606,Sujata Garera,0,-0.08879188173530073,0.36425183893551116
+2082180526,Manufacturing compromise the emergence of exploit-as-a-service,2012,34,157,11,0.0,2097669272,Chris Grier,0,-0.11935497451987655,1.2065680300345556
+2103228545,Hide and seek an introduction to steganography,2003,21,854,1,1.0,2274458662,Niels Provos,0,0.39811679553504414,0.13493973814934734
+2091675753,Peeking Through the Cloud Client Density Estimation via DNS Cache Probing,2010,29,8,3,0.876653,2167647949,Moheeb Abu Rajab,0,0.3259332239481683,0.5745734317069635
+2095610745,All your iFRAMEs point to Us,2008,21,447,1,1.0,2274458662,Niels Provos,0,-0.11935497451987655,1.2065680300345556
+2130550456,Data reduction for the scalable automated analysis of distributed darknet traffic,2005,33,48,4,0.0,2300615266,Michael Bailey,0,0.02080662431885795,0.3505429208334274
+2128596399,Flow-Cookies Using Bandwidth Amplification to Defend Against DDoS Flooding Attacks,2006,15,24,4,0.0,2153903143,Martin Casado,0,0.0040557659796233,0.2757546058061082
+2257610725,The nocebo effect on the web an analysis of fake anti-virus distribution,2010,3,48,4,0.876653,2167647949,Moheeb Abu Rajab,0,0.05940095047987125,0.6960502266457337
+2189652372,Trends and lessons from three years fighting malicious extensions,2015,30,38,5,0.0,2074077603,Nav Jagpal,0,0.05940095047987125,0.6960502266457337
+2296437506,Search worms,2006,12,36,1,1.0,2274458662,Niels Provos,0,0.0040557659796233,0.2757546058061082
+2400462880,CAMP Content-Agnostic Malware Protection,2013,24,53,5,0.876653,2167647949,Moheeb Abu Rajab,0,-0.39796787815993695,0.8727571270306693
+2460170719,Investigating Commercial Pay-Per-Install and the Distribution of Unwanted Software,2016,10,22,16,0.512486,2318083524,Kurt Thomas,0,0.05940095047987125,0.6960502266457337
+2914280573,Proceedings of 16th USENIX Security Symposium on USENIX Security Symposium,2007,0,4,1,1.0,2274458662,Niels Provos,0,0.0040557659796233,0.2757546058061082
+1480813933,Ad Injection at Scale Assessing Deceptive Advertisement Modifications,2015,23,47,12,0.512486,2318083524,Kurt Thomas,0,1.7029826062605458,-0.2600589908962866

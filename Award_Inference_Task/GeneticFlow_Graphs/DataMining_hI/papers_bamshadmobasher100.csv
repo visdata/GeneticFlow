@@ -1,0 +1,82 @@
+37246338,Discovery of Aggregate Usage Profiles for Web Personalization,2000,20,147,1,1.0,1892801027,Bamshad Mobasher,0,0.19881140354686783,-1.3031310679371286
+37421488,Differential Context Modeling in Collaborative Filtering,2013,18,13,1,1.0,1892801027,Bamshad Mobasher,0,0.6517096022335924,0.728869557660575
+207882028,Hypergraph Based Clustering in High-Dimensional Data Sets A Summary of Results,1998,9,132,4,0.666667,2150989112,Eui Hong Han,0,-0.0659153443116732,1.2144925972577896
+21431789,Adapting K-nearest neighbor for tag recommendation in Folksonomies,2009,17,41,4,1.0,2012517146,Jonathan Gemmell,0,0.0167305105426056,-0.24021993298392852
+141513725,A Survey of Collaborative Recommendation and the Robustness of Model-Based Algorithms,2008,10,55,2,0.0,2973812133,Jeff J. Sandvig,0,0.5164970786046673,0.6134398911083098
+193584899,A Recommendation Model Based on Latent Principal Factors in Web Navigation Data,2004,21,13,3,0.857143,2161916619,Yanzan Zhou,0,-0.5984292468967704,-0.8695289640150479
+60856054,Clustering Based On Association Rule Hypergraphs,1997,0,160,4,0.0,2150989112,Eui Hong Han,0,-0.3797386873779833,0.3085635433321177
+61758119,Model-based collaborative filtering as a defense against profile injection attacks,2006,11,108,1,1.0,1892801027,Bamshad Mobasher,0,0.5476530134474511,0.6211984456421683
+166522738,A Hybrid Web Personalization Model Based on Site Connectivity,2003,15,92,1,1.0,1892801027,Bamshad Mobasher,0,0.09681955250778315,-2.3220697092203073
+151997209,Optimal Feature Selection for Context-Aware Recommendation using Differential Relaxation,2012,17,28,1,1.0,1892801027,Bamshad Mobasher,0,-0.1125347068560818,0.2785952214074708
+1507051419,Document Categorization and Query Generation on the World Wide WebUsing WebACE,1999,30,161,2,0.157895,219814910,George Karypis,0,-0.6579947033818252,1.0543330326077125
+1546447935,Recommendation with Differential Context Weighting,2013,33,44,3,0.631579,2467968861,Yong Zheng,0,0.8776680742443249,0.45208381503500666
+1520100043,Proceedings of the 9th WebKDD and 1st SNA-KDD 2007 workshop on Web mining and social network analysis,2007,0,63,2,0.0530958,260981774,Olfa Nasraoui,0,0.14712035956052122,-2.3782815564329014
+1566159240,Clustering In A High-Dimensional Space Using Hypergraph Models,2004,34,40,2,0.0580409,219814910,George Karypis,0,-0.004538237359067869,0.2859525243347512
+1576240472,Differential Context Relaxation for Context-Aware Travel Recommendation,2012,17,42,3,0.631579,2467968861,Yong Zheng,0,1.2350652037173413,0.39061007574644036
+1487388135,Detecting profile injection attacks in collaborative filtering a classification-based approach,2006,17,34,2,0.857143,2098702816,Chad Williams,0,0.2829216464882124,0.392444080287717
+1558568167,Impact of relevance measures on the robustness and accuracy of collaborative filtering,2007,10,4,2,0.0,2009247427,J. J. Sandvig,0,0.8776680742443249,0.45208381503500666
+1581292574,Integrating Web Usage and Content Mining for More Effective Personalization,2000,17,247,1,1.0,1892801027,Bamshad Mobasher,0,0.025427316779512377,-0.43068179758681235
+1583639061,Personalizing Navigation in Folksonomies Using Hierarchical Tag Clustering,2008,17,53,3,1.0,2012517146,Jonathan Gemmell,0,-0.49680371111629457,1.1825094605693118
+1593088422,Discovery and Evaluation of Aggregate Usage Profiles for Web Personalization,2002,28,368,1,1.0,1892801027,Bamshad Mobasher,0,0.07231402104767254,-1.2679963954139915
+1971994493,Modeling topic trends on the social web using temporal signatures,2012,28,8,4,0.0,2229245456,Laura Christiansen,0,-0.38309278739144287,0.8180569140553182
+1969347587,Defending recommender systems detection of profile injection attacks,2007,24,89,2,0.857143,2098702816,Chad Williams,0,0.8731370635806193,0.4193329716471921
+1980122825,Robustness of collaborative recommendation based on association rule mining,2007,14,97,2,0.0,2009247427,J. J. Sandvig,0,0.7082749281142349,0.510419401837241
+1989534515,A maximum entropy web recommendation system combining collaborative and content features,2005,18,88,3,1.0,2307784601,Xin Jin,0,0.03432657022843592,-1.8188702139644077
+1996552124,Query-driven context aware recommendation,2013,24,26,2,0.896552,2058044039,Negar Hariri,0,0.2765848885562572,0.17934850207496486
+1993344876,Supporting Domain Analysis through Mining and Recommending Features from Online Product Listings,2013,40,67,5,0.896552,2058044039,Negar Hariri,0,-0.17798335929749554,0.12405986204827978
+1996869586,Data Preparation for Mining World Wide Web Browsing Patterns,1999,26,1405,2,0.0,2117479945,Robert Cooley,0,-0.15518221169800636,-1.9453153688050324
+2009385725,Deviation-Based Contextual SLIM Recommenders,2014,28,17,2,0.626866,2467968861,Yong Zheng,0,0.19721709072141988,0.1014488430509133
+1988835235,A Web recommendation system based on maximum entropy,2005,25,16,2,1.0,2307784601,Xin Jin,0,-0.23377608281041776,-1.7359396301161674
+2017107296,Adapting Recommendations to Contextual Changes Using Hierarchical Hidden Markov Models,2015,12,17,3,0.0,2117398977,Mehdi Hosseinzadeh Aghdam,0,0.08329114195231535,0.32893178638165566
+2020701179,Attacks and Remedies in Collaborative Recommendation,2007,19,63,1,1.0,1892801027,Bamshad Mobasher,0,0.8776680742443249,0.45208381503500666
+2029424893,Classification features for attack detection in collaborative recommender systems,2006,13,152,2,0.705882,2122091461,Robin Burke,0,0.8776680742443249,0.45208381503500666
+2010422928,Using social tags to infer context in hybrid music recommendation,2012,10,10,2,0.896552,2058044039,Negar Hariri,0,0.5696427439137862,0.5255974913681313
+2028334327,The recommender problem revisited morning tutorial,2014,0,3,2,0.0,2570462777,Xavier Amatriain,0,-0.6322261487539836,0.4329411984504287
+2014351296,Partitioning-based clustering for Web document categorization,1999,26,232,8,0.0,2022814076,Daniel Boley,0,-0.8947850269187051,2.6005970271317054
+2016506327,Splitting approaches for context-aware recommendation an empirical study,2014,17,40,3,0.626866,2467968861,Yong Zheng,0,0.6556428785446906,0.103232567070622
+2045450443,Context adaptation in interactive recommender systems,2014,14,29,2,0.896552,2058044039,Negar Hariri,0,0.8776680742443249,0.45208381503500666
+2048976003,WebKDD 2008 10 years of knowledge discovery on the web post-workshop report,2008,7,3,5,0.0457865,260981774,Olfa Nasraoui,0,0.07871420426114963,-1.267572815459789
+2044469339,The Joint Ninth WEBKDD and 1st SNA-KDD Workshop on Web Mining and Social Network Analysis,2007,0,1,2,0.0530958,260981774,Olfa Nasraoui,0,-0.28833680027466346,-1.0142505022370134
+2049961680,A consensus based approach to constrained clustering of software requirements,2008,24,25,3,0.0,2098832249,Chuan Duan,0,-0.9843689466408245,3.5963840916592655
+2075756051,Web usage mining based on probabilistic latent semantic analysis,2004,31,141,3,1.0,2307784601,Xin Jin,0,0.0063473835274161505,-1.396303282980549
+2058284460,Preface to the special issue on data mining for personalization,2009,0,7,1,1.0,1892801027,Bamshad Mobasher,0,-0.3531148910424003,-1.4934298778577249
+2070714069,The impact of ambiguity and redundancy on tag recommendation in folksonomies,2009,18,31,5,1.0,2012517146,Jonathan Gemmell,0,0.662731436548669,0.2042063745240592
+2064173066,Personalized recommendation in social tagging systems using hierarchical clustering,2008,17,423,3,0.0,258628500,Andriy Shepitsen,0,-0.25979515569816264,0.7716987088451802
+2092654700,Using data mining and recommender systems to scale up the requirements process,2008,22,38,2,0.0,231137837,Jane Cleland Huang,0,-0.09193662834617994,0.5954686367423215
+2078663894,Effective personalization based on association rule discovery from web usage data,2001,19,383,1,1.0,1892801027,Bamshad Mobasher,0,0.16966155647481646,-1.8196313577702306
+2083153244,CSLIM contextual SLIM recommendation algorithms,2014,11,54,2,0.626866,2467968861,Yong Zheng,0,0.19721709072141988,0.1014488430509133
+2086762211,Magma an agent based virtual market for electronic commerce,1997,13,178,3,0.0,2059984918,Maksim Tsvetovatyy,0,0.003708468606338,0.082832279151172
+2131869937,Ontological User Profiles for Representing Context in Web Search,2007,11,53,2,0.0,2168277392,Ahu Sieg,0,0.6312597372526052,-1.447245253866046
+2135002650,The fifth ACM RecSys workshop on recommender systems and the social web,2012,0,3,1,1.0,1892801027,Bamshad Mobasher,0,0.6197213205593479,-1.6447712579239373
+2115398528,Hybrid tag recommendation for social annotation systems,2010,17,34,3,1.0,2012517146,Jonathan Gemmell,0,0.08329114195231535,0.32893178638165566
+2106700114,Guest editorial special issue on a decade of mining the Web,2012,27,4,2,0.0,2672394148,Myra Spiliopoulou,0,0.08728803384013267,-2.9082331295734516
+2110788923,WebKDD 2005 web mining and web usage analysis post-workshop report,2005,7,5,4,0.0530958,260981774,Olfa Nasraoui,0,0.07147976841195522,-1.2673536394776248
+2116907335,On-demand feature recommendations derived from mining public product descriptions,2011,30,111,5,0.0,2498412313,Horatiu Dumitru,0,-0.24408556170891427,0.37518048090212314
+2111049356,Web user segmentation based on a mixture of factor analyzers,2006,11,13,2,0.0,2516916038,Yanzan Kevin Zhou,0,-0.34841194659538965,-0.10142585373365
+2117111450,Using sequential and non-sequential patterns in predictive Web usage mining tasks,2002,9,126,1,1.0,1892801027,Bamshad Mobasher,0,-0.25118338039250043,-0.4467936161568892
+2140929211,A Framework for the Evaluation of Session Reconstruction Heuristics in Web-Usage Analysis,2003,11,294,2,0.0,2672394148,Myra Spiliopoulou,0,-0.07664933359492589,-1.8538627382117976
+2134834365,Data mining for web personalization,2007,145,226,1,1.0,1892801027,Bamshad Mobasher,0,-0.23789163475726793,-0.19936725685192036
+2144194596,Segment-based injection attacks against collaborative filtering recommender systems,2005,6,46,2,0.705882,2122091461,Robin Burke,0,1.5428061382610074,0.8841990024733579
+2171887695,Using Data Mining and Recommender Systems to Facilitate Large-Scale Open and Inclusive Requirements Elicitation Processes,2008,10,48,4,1.0,1240528779,Carlos Castro Herrera,0,0.08329114195231535,0.32893178638165566
+2145413874,Web search personalization with ontological user profiles,2007,33,273,2,0.0,2168277392,Ahu Sieg,0,0.34208215495682426,-0.4460170753742258
+2169606818,Creating adaptive Web sites through usage-based clustering of URLs,1999,18,262,1,1.0,1892801027,Bamshad Mobasher,0,-0.12054584831858055,-2.0613413672703147
+2274674922,CARSKit A Java-Based Context-Aware Recommendation Engine,2015,15,45,2,0.626866,2467968861,Yong Zheng,0,-0.07260516946933537,0.4263841614660679
+2296684318,Similarity-Based Context-Aware Recommendation,2015,24,24,2,0.626866,2467968861,Yong Zheng,0,0.08329114195231535,0.32893178638165566
+2397423854,Network-Based Extension of Multi-Relational Factorization Models,2015,7,6,3,1.0,81489777,Fatemeh Vahedian,0,-0.3011331851164172,-0.15588985616037465
+2481489599,Mining web navigation patterns based on a mixture of latent variable models,2006,0,0,1,1.0,1892801027,Bamshad Mobasher,0,-0.1342425362492011,-2.528130170709131
+2572120446,A fast effective multi-channeled tag recommender,2009,14,16,5,1.0,2012517146,Jonathan Gemmell,0,0.8328973156648201,0.17238467346623546
+2576312337,Weighted Random Walks for Meta-Path Expansion in Heterogeneous Networks,2016,9,4,3,1.0,81489777,Fatemeh Vahedian,0,0.003708468606338,0.082832279151172
+2593555287,Weighted meta-path generation Multi-relational recommender system Heterogeneous information network Weighted random walk sampling,2017,18,0,2,1.0,81489777,Fatemeh Vahedian,0,0.08329114195231535,0.32893178638165566
+2684996256,Multirelational Recommendation in Heterogeneous Networks,2017,60,5,3,1.0,81489777,Fatemeh Vahedian,0,-0.9188488355703639,-0.040790772027871236
+2605148104,Weighted Random Walk Sampling for Multi-Relational Recommendation,2017,18,1,3,1.0,81489777,Fatemeh Vahedian,0,0.08329114195231535,0.32893178638165566
+2779333246,Web user segmentation based on a mixture of factor analyzers,2006,0,0,2,0.0,2516916038,Yanzan Kevin Zhou,0,0.003708468606338,0.082832279151172
+2748058847,Controlling Popularity Bias in Learning-to-Rank Recommendation,2017,18,46,3,0.75,2723149869,Himan Abdollahpouri,0,0.19721709072141988,0.1014488430509133
+2916630768,WebKDD 2006 web mining and web usage analysis post-workshop report,2006,17,1,4,0.0530958,260981774,Olfa Nasraoui,0,0.41366682132536725,-1.5043351229238249
+2916743498,WebKDD 2004 web mining and web usage analysis post-workshop report,2004,12,3,2,0.0530958,260981774,Olfa Nasraoui,0,-0.032843286064859166,-0.9721425663266648
+2892406399,Detecting Changes in User Preferences using Hidden Markov Models for Sequential Recommendation Tasks,2018,16,2,2,1.0,2577882975,Farzad Eskandanian,0,0.08329114195231535,0.32893178638165566
+2946468722,Data Science Summer Academy for Chicago Public School Students,2019,0,0,1,1.0,1892801027,Bamshad Mobasher,0,0.003708468606338,0.082832279151172
+2959180423,Flatter is better Percentile Transformations for Recommender Systems,2019,27,0,3,1.0,2767443041,Masoud Mansoury,0,0.19721709072141988,0.1014488430509133
+2950709880,Modeling the Dynamics of User Preferences for Sequence-Aware Recommendation Using Hidden Markov Models,2019,17,0,2,1.0,2577882975,Farzad Eskandanian,0,0.08329114195231535,0.32893178638165566
+2963457076,Weighted Random Walk Sampling for Multi-Relational Recommendation,2017,0,3,3,1.0,81489777,Fatemeh Vahedian,0,0.08329114195231535,0.32893178638165566
+2977948424,Crank up the Volume Preference Bias Amplification in Collaborative Recommendation,2019,0,0,3,0.0,2972700235,Kun Lin,0,0.003708468606338,0.082832279151172
+3021068736,FairMatch A Graph-based Approach for Improving Aggregate Diversity in Recommender Systems,2020,26,0,4,1.0,2767443041,Masoud Mansoury,0,0.08329114195231535,0.32893178638165566

@@ -1,0 +1,82 @@
+39467176,The Computationel Complexity of Alternative Updating Approaches for an SVD-Encoded Indexing Scheme,1995,0,4,2,0.0,2138044776,Michael W. Berry,0,0.4279101547320334,-0.4049364171779501
+25640818,Ranking documents for retrieval by bayesian modeling of a relevance distribution,1989,0,2,1,1.0,676500258,Susan T. Dumais,0,0.003708468606338,0.082832279151172
+60041143,Automatically Generating Adhoc and Routing Queries,1992,0,0,1,1.0,676500258,Susan T. Dumais,0,0.003708468606338,0.082832279151172
+43328970,Using LSI for information filtering TREC-3 experiments,1995,0,79,1,1.0,676500258,Susan T. Dumais,0,0.003708468606338,0.082832279151172
+112686118,Indexing by Latent Structure Analysis,1990,0,11,2,0.0,428293613,G. W. Fumas,0,0.44148585625188996,-0.3914018358062456
+233242456,Meeting of the MINDS,2007,0,0,1,1.0,676500258,Susan T. Dumais,0,-0.02361490712827675,0.2709295199642215
+1960621937,Probablistic models and methods for combining multiple content classifiers,2001,47,49,1,1.0,676500258,Susan T. Dumais,0,1.0378504387501246,0.46881479152434524
+1936525042,Utilizing information redundancy to improve text searches,2006,28,62,1,1.0,676500258,Susan T. Dumais,0,-0.18575630928886194,0.19481404719908096
+1646006088,Similarity measures for short segments of text,2007,31,277,2,0.0,2151486164,Donald Metzler,0,-0.41255149461932344,0.20374099049630157
+1590698834,Predicting query performance using query result and user interaction features,2010,12,34,3,0.4,2142973983,Qi Guo,0,-0.1029618939806145,0.040434369851773004
+1968528267,Characterizing the value of personalizing search,2007,5,48,2,0.5,1982462162,Jaime Teevan,0,0.6066616852252525,-1.6834346658492574
+1974122568,How medical expertise influences web search interaction,2008,7,28,2,0.0,2096583854,Ryen W. White,0,-0.6542379660464955,-0.3826547154443865
+1973103963,Analysis of topic dynamics in web search,2005,34,73,2,0.0,2893504832,Xuehua Shen,0,-0.36869828092002566,0.08205872494509575
+1992719695,SIGIR 2003 workshop report implicit measures of user interests and preferences,2003,0,49,1,1.0,676500258,Susan T. Dumais,0,0.137894550983587,-0.09646013434435859
+1991792647,SIGIR 2013 workshop on time aware information access (#TAIA2013),2013,68,9,2,0.0,2159093489,Fernando Diaz,0,0.1593803777294989,0.2946126764763919
+1997211290,Challenges in information retrieval and language modeling report of a workshop held at the center for intelligent information retrieval University of Massachusetts Amherst September 2002,2003,0,184,6,0.0,2097030689,James Allan,0,0.4874277944959379,0.012148398733950605
+2011772930,Learned vector-space models for document retrieval,1995,17,44,2,0.0,2282683574,William R. Caid,0,-0.5368745122991717,-0.2182424617458208
+2012354735,Modeling and predicting behavioral dynamics on the web,2012,23,104,3,0.375,1780829609,Kira Radinsky,0,0.1593803777294989,0.2946126764763919
+2022038667,Temporal dynamics and information retrieval,2010,0,1,1,1.0,676500258,Susan T. Dumais,0,0.9108319590466017,-0.21147410478696252
+2023991263,The Combination of Text Classifiers Using Reliability Indicators,2005,48,56,2,0.666667,2137013502,Paul N. Bennett,0,1.0353784492812144,0.5080906380470909
+2016970903,Proceedings of the 29th annual international ACM SIGIR conference on Research and development in information retrieval,2006,0,0,3,0.0,37244654,David Hawking,0,0.07632106413939177,-0.10318224327666266
+2035654521,Putting context into search and search into context,2012,9,1,1,1.0,676500258,Susan T. Dumais,0,-0.1950305937688316,0.09242366998277694
+2069916456,Struggling and Success in Web Search,2015,46,36,4,0.0,1988427373,Daan Odijk,0,-0.1626858259763129,-2.469263836333502
+2063862666,Hierarchical classification of Web content,2000,29,736,1,1.0,676500258,Susan T. Dumais,0,-0.738783343519383,1.7829239516432667
+2057034832,Understanding temporal query dynamics,2011,27,122,4,0.0,2187942432,Anagha Kulkarni,0,-0.01657107088421793,0.035389748403282274
+2099391294,Learning user interaction models for predicting web search result preferences,2006,22,474,3,0.0700372,2283615530,Eugene Agichtein,0,0.003708468606338,0.082832279151172
+2099685860,Web question answering is more always better ,2002,15,297,1,1.0,676500258,Susan T. Dumais,0,-0.17768346192212375,0.0848641959637884
+2099708568,Automating the assignment of submitted manuscripts to reviewers,1992,16,160,1,1.0,676500258,Susan T. Dumais,0,0.7764724293480222,-0.4943585979853251
+2087573683,Heads and tails studies of web search with common and rare queries,2007,4,43,2,1.0,2098223845,Doug Downey,0,0.6066616852252525,-1.6834346658492574
+2085922448,Keeping found things found on the web,2001,18,162,3,0.0,2223144080,William E. Jones,0,-0.1153895314867519,-2.347054373349568
+2100419635,Improving personalized web search using result diversification,2006,8,194,2,0.0,2072292845,Filip Radlinski,0,0.6066616852252525,-1.6834346658492574
+2103399427,Examining repetition in user search behavior,2007,8,37,2,0.0,2168614097,Mark Sanderson,0,0.003708468606338,0.082832279151172
+2088018590,Personalizing atypical web search sessions,2013,36,19,4,0.0,1992666041,Carsten Eickhoff,0,-0.23909785514595927,-1.2945767387646425
+2104255729,Modeling and analysis of cross-session search tasks,2011,36,115,4,0.0,2123127453,Alexander Kotov,0,0.6066616852252525,-1.6834346658492574
+2086818314,Current trends in the integration of searching and browsing,2005,0,2,3,0.0,1970098533,Andrei Z. Broder,0,-0.36928752393188474,0.23815200429125008
+2095627566,Predicting short-term interests using activity-based search context,2010,35,147,3,0.0,2096583854,Ryen W. White,0,0.057638703702839224,0.27639631102013423
+2104677329,Probabilistic models for personalizing web search,2012,23,87,5,0.0,2138531792,David Sontag,0,0.2947477499638471,-2.7960764278388974
+2081798681,Newsjunkie providing personalized newsfeeds via analysis of information novelty,2004,28,211,2,0.0,1804802447,Evgeniy Gabrilovich,0,0.003708468606338,0.082832279151172
+2094255877,Report on the workshop on Operational Text Classification Systems (OTC-02),2002,0,9,1,1.0,676500258,Susan T. Dumais,0,0.09306936451958565,0.4540149294292737
+2137958601,Characterizing Microblogs with Topic Models,2010,11,590,2,0.8,2087112254,Daniel Ramage,0,-0.05234495792812873,0.12449049101775707
+2114519518,Probabilistic combination of content and links,2001,6,17,1,1.0,676500258,Susan T. Dumais,0,0.003708468606338,0.082832279151172
+2120660108,Understanding web browsing behaviors through Weibull analysis of dwell time,2010,24,172,3,0.0,2691417229,Chao Liu,0,-0.1026671960401724,-1.1294693490945402
+2111896270,Actions answers and uncertainty a decision-making perspective on Web-based question answering,2004,15,15,3,0.0,2080113011,David Azari,0,-0.11475064896251584,0.38298984524644686
+2135500808,Modeling the impact of short- and long-term behavior on search personalization,2012,37,188,4,0.208274,2137013502,Paul N. Bennett,0,0.003708468606338,0.082832279151172
+2126778213,Improved string matching under noisy channel conditions,2001,13,9,3,0.0972222,2088682983,Kevyn Collins Thompson,0,0.003708468606338,0.082832279151172
+2123937625,Evaluating implicit measures to improve web search,2005,16,479,4,0.0,2484546202,Steve C. Fox,0,0.17968548633419076,0.4254766199353514
+2124063543,Struggling or exploring disambiguating long search sessions,2014,36,53,3,0.0,2957215686,Ahmed Hassan,0,-0.029973087026685497,-0.23755425439642736
+2142076420,Behavioral dynamics on the web Learning modeling and prediction,2013,56,49,3,0.375,1780829609,Kira Radinsky,0,0.1593803777294989,0.2946126764763919
+2133002765,Probabilistic combination of text classifiers using reliability indicators models and results,2002,28,67,2,0.666667,2137013502,Paul N. Bennett,0,1.7924164461823888,0.7623597633205955
+2139873966,To personalize or not to personalize modeling queries with variation in user intent,2008,26,222,2,0.439024,1982462162,Jaime Teevan,0,0.003708468606338,0.082832279151172
+2113347069,Lessons from the journey a query log analysis of within-session learning,2014,38,74,4,0.0,1992666041,Carsten Eickhoff,0,0.3912464085733363,-2.0935608966654184
+2116435975,Leaving so soon understanding and predicting web search abandonment rationales,2012,32,52,4,0.0,2247617665,Abdigani Diriye,0,0.003708468606338,0.082832279151172
+2140387367,Search interrupted understanding and predicting search task continuation,2012,43,55,3,0.0700372,2283615530,Eugene Agichtein,0,0.8632656740143426,-2.9325631814057047
+2137366811,Characterizing and predicting search engine switching behavior,2009,22,80,2,0.0,2096583854,Ryen W. White,0,0.42405754981221955,-2.412615022053168
+2116938310,Supporting Complex Search Tasks,2014,46,42,4,0.0,2094223786,Ahmed Hassan Awadallah,0,0.38322290926359875,-1.3082700398808471
+2140619391,Characterizing the influence of domain expertise on web search behavior,2009,26,216,2,0.0,2096583854,Ryen W. White,0,-0.1882747490738299,-1.1494164392957116
+2125771191,Improving web search ranking by incorporating user behavior information,2006,27,993,3,0.0700372,2283615530,Eugene Agichtein,0,0.2947477499638471,-2.7960764278388974
+2122841972,Personalizing search via automated analysis of interests and activities,2005,23,768,2,0.5,1982462162,Jaime Teevan,0,0.21860092480334714,-2.100493799789723
+2122874169,Temporal web dynamics and its application to information retrieval,2013,25,11,3,0.375,1780829609,Kira Radinsky,0,0.20334463378503512,-2.865073741061138
+2108280221,Leveraging temporal dynamics of document content in relevance ranking,2010,21,84,2,0.0,2132217740,Jonathan L. Elsas,0,0.003708468606338,0.082832279151172
+2168225578,Why searchers switch understanding and predicting engine switching rationales,2011,25,33,5,0.4,2142973983,Qi Guo,0,0.003708468606338,0.082832279151172
+2156693754,Partially labeled topic models for interpretable text mining,2011,34,167,3,0.8,2087112254,Daniel Ramage,0,-0.2140103116186464,0.9309895741623375
+2171806843,Classification-enhanced ranking,2010,27,88,3,0.259848,2137013502,Paul N. Bennett,0,-0.01657107088421793,0.035389748403282274
+2153828680,Understanding the relationship between searchers queries and information goals,2008,31,131,2,1.0,2098223845,Doug Downey,0,0.003708468606338,0.082832279151172
+2171820060,Creating temporally dynamic web search snippets,2012,6,4,3,0.221831,1996400553,Krysta M. Svore,0,-0.2658508836038039,-1.066322404289876
+2169901824,Latent semantic indexing (LSI) TREC-3 report,1994,20,134,1,1.0,676500258,Susan T. Dumais,0,-0.15246718480503926,-0.3482564943463953
+2148931201,The web changes everything understanding the dynamics of web content,2009,19,121,3,0.0,2305277957,Eytan Adar,0,-0.07885676791059862,-2.8393077951231636
+2152171734,Web projections learning from contextual subgraphs of the web,2007,27,35,2,0.0,1878631932,Jure Leskovec,0,0.5481718857151618,-2.5646562508100654
+2155424651,Characterizing web content user interests and search behavior by reading level and topic,2012,20,63,3,0.0972222,2088682983,Kevyn Collins Thompson,0,-0.7376807108969317,-0.8847695210760413
+2147152072,Indexing by Latent Semantic Analysis,1990,26,9999,2,0.0,2344158152,Scott Deerwester,0,0.22023354839126488,-1.993552311134703
+2240360677,A technique which utilizes a probabilistic classifier to detect &quot;junk&quot; e-mail,1999,10,90,2,0.0,112933558,Mehran Sahami,0,0.9764452378185053,0.45291314085684015
+2399800252,System and method for authority value obtained by defining ranking functions related to weight and confidence value,2010,30,5,1,1.0,676500258,Susan T. Dumais,0,-0.2929484409290143,0.26007657041674864
+2400410906,Towards Supporting Search over Trending Events with Social Media,2013,28,35,5,0.0,2212067359,Sanjay Kairam,0,0.003708468606338,0.082832279151172
+2465153757,Automatic Identification and Contextual Reformulation of Implicit System-Related Queries,2016,22,4,2,0.0,2050267600,Adam Fourney,0,0.6066616852252525,-1.6834346658492574
+2531954545,Personalized Search Potential and Pitfalls,2016,6,5,1,1.0,676500258,Susan T. Dumais,0,0.003708468606338,0.082832279151172
+2568693246,Temporal Dynamics and Information Systems,2016,0,0,1,1.0,676500258,Susan T. Dumais,0,0.003708468606338,0.082832279151172
+2547752648,Why users switch Understanding and predicting search engine switching rationales,2011,0,1,1,1.0,676500258,Susan T. Dumais,0,0.003708468606338,0.082832279151172
+2571191656,Data Mining and the Web,2016,0,1,1,1.0,676500258,Susan T. Dumais,0,-0.00948648112823349,-2.286693841757441
+2614403482,Characterizing and Predicting Enterprise Email Reply Behavior,2017,25,23,2,0.0,2654709152,Liu Yang,0,-0.20072174732932027,0.40100140615092306
+2605337575,Characterizing Email Search using Large-scale Behavioral Logs and Surveys,2017,34,23,2,0.0,2223502885,Qingyao Ai,0,1.2846437251150054,-3.1597686530748437
+2765925652,Learning Predictive Models of Memory Landmarks,2004,21,44,1,1.0,676500258,Susan T. Dumais,0,0.003708468606338,0.082832279151172
+2739640577,Understanding and Modeling Success in Email Search,2017,10,7,2,0.0,2009495402,Nick Craswell,0,0.003708468606338,0.082832279151172

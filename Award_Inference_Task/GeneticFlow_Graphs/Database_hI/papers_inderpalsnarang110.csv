@@ -1,0 +1,56 @@
+120125564,Page transfer in a data sharing environment with record locking,1992,4,18,1,1.0,2311819533,Inderpal S. Narang,0,-0.0041099411153885,0.0447066884760059
+58464962,Coordinated Backup and Recovery between Database Management Systems and File Systems,2001,8,2,3,1.0,1981467130,Karen W. Brannon,0,0.9408859741126442,0.6349081676493287
+95466099,Data Access and Management Services on Grid,2002,27,30,3,0.520833,2112167796,Vijayshankar Raman,0,-0.30693457535440466,-0.4576887681983086
+182726565,QoS-based Data Access and Placement for Federated Information Systems,2005,1,4,5,0.0,2251660241,Wen Syan Li,0,0.5770190912491012,-0.7095004279456654
+166140930,Grid Database Access and Integration Requirements and Functionalities,2003,7,34,2,0.0,2205161287,Dave Pearson,0,0.16090831243653164,-0.2476997100210568
+977330692,Computer program product and program storage device for database access using a shared electronic store in a multi-system environment having shared disks,1996,20,46,4,0.0,1980948203,Tina L. Masatani,0,0.2610214358225607,0.2057523253512879
+939695092,System and method for updating external file referenced by database with transactional consistency using SQL,2002,20,20,1,1.0,2311819533,Inderpal S. Narang,0,-0.5764588693515744,1.8557941905924844
+1010337604,Hybrid push-down/pull-up of unions with expensive operations in a federated query processor,2005,5,35,2,0.573713,2112167796,Vijayshankar Raman,0,0.0908845357243609,0.31128747720343375
+1487666889,XG a data-driven computation grid for enterprise-scale mining,2005,2,2,3,0.5,2071141648,Radu Sion,0,-0.15044935541260482,-0.28926610459264096
+1489028199,Method and means for archiving modifiable pages in a log based transaction management system,1993,8,104,1,1.0,2311819533,Inderpal S. Narang,0,0.5501948465355991,1.264186489552431
+1516311197,Partial page write detection for a shared cache using a bit pattern written at the beginning and end of each page,1992,14,33,2,1.0,2139556000,James Zu chia Teng,0,-0.0041099411153885,0.0447066884760059
+1553541524,Efficient Locking and Caching of Data in the Multisystem Shard Disks Transaction Environment,1992,28,57,2,0.153347,2411984561,Chandrasekaran Mohan,0,-0.0041099411153885,0.0447066884760059
+1536903906,Deadline and QoS aware data warehouse,2007,6,2,4,0.0,2983029524,Wen Syan Li,0,0.11627582886789564,0.3621724021946999
+1554989761,Method and device for establishing synchronized recovery log points,2002,5,11,3,0.0,69727675,Namik Hrle,0,-0.8214968644426531,-0.3537392682966973
+1492920349,OFF-LOADING STAR JOIN OPERATIONS TO A STORAGE SERVER,2007,17,5,5,0.586207,1919621074,Lin Qiao,0,1.3555492472136115,0.3705368350677893
+1574944490,Recovery and Coherency-Control Protocols for Fast Intersystem Page Transfer and Fine-Granularity Locking in a Shared Disks Transaction Environment,1991,22,116,2,0.0,2411984561,Chandrasekaran Mohan,0,0.38009049917121435,0.45246057348231067
+1512165165,Query routing of federated information systems for fast response time load balance availability and reliability,2005,16,96,1,1.0,2311819533,Inderpal S. Narang,0,0.8809340701863815,0.11633144593696097
+1904053785,Page refreshing procedure using two locking granularities to ensure cache coherency in a multisystem database processing environment having a high-speed shared electronic store,1994,11,47,4,0.0,2049000395,Tina Louise Mukai,0,0.4806634807954758,0.46527319202247636
+1595441669,QoS-based data access and placement for federated systems,2005,2,12,3,0.727273,2095616635,Vishal S. Batra,0,0.08196802511116741,0.1565757763525419
+1578005944,Efficient destaging of updated local cache pages for a transaction in a multisystem and multiprocess database management system with a high-speed shared electronic store,1994,12,51,4,0.0,2049000395,Tina Louise Mukai,0,0.08714749877850951,0.4329350279734263
+1578495525,Parallel querying with non-dedicated computers,2005,21,24,3,0.573713,2112167796,Vijayshankar Raman,0,0.43739842239757626,0.009947045888208002
+1933688581,System for managing and controlling storage access requirements,2003,6,165,6,0.0,2122726738,Prashant Pandey,0,-0.002595688985676562,0.08111705116071498
+1935292416,Computer program product for continuous destaging of changed data from a shared cache in a multisystem shared disk environment wherein castout interest is established in a hierarchical fashion,1995,20,25,3,0.733807,2139556000,James Zu chia Teng,0,-0.0041099411153885,0.0447066884760059
+1606415356,XG a grid-enabled query processing engine,2006,3,0,3,0.5,2071141648,Radu Sion,0,-0.15044935541260482,-0.28926610459264096
+1639923576,Method for database assisted file system restore,1999,14,98,2,0.0,2256764586,Kiran Mehta,0,-0.7713821937424827,1.9340516671314805
+1760240308,Method to off-load host-based DBMS predicate evaluation to a disk controller,1992,9,20,2,0.666667,2309647949,Balakrishna R. Iyer,0,-0.25142422156114436,0.21929531271583175
+1914809896,Method and means for backup and restoration of a database system linked to a system for filing data,1997,28,166,2,0.0,2304912769,Luis Felipe Cabrera,0,-0.3328897507023883,2.335087289576752
+1919688820,System and method for replicating external files and database metadata pertaining thereto,2000,13,47,1,1.0,2311819533,Inderpal S. Narang,0,-0.7861788858094391,2.258240491357849
+1899591672,Update support in database content management,1999,6,141,1,1.0,2311819533,Inderpal S. Narang,0,0.8825793938037482,0.07404865843884308
+1969837095,Towards an information infrastructure for the grid,2004,9,22,6,0.0,2973955941,S. Bourbonnais,0,-0.0041099411153885,0.0447066884760059
+1982558719,Lazy adaptive rid-list intersection and its application to index anding,2007,14,32,4,0.573713,2112167796,Vijayshankar Raman,0,-0.3652008450463068,0.3160971441695779
+1975677592,Integration of Server Storage and Database Stack Moving Processing Towards Data,2008,8,3,3,0.586207,1919621074,Lin Qiao,0,0.20578122766333573,0.13662832182139142
+1978293800,An efficient and flexible method for archiving a data base,1993,6,33,2,0.119283,2411984561,Chandrasekaran Mohan,0,0.38009049917121435,0.45246057348231067
+1997033370,DB2s use of the coupling facility for data sharing,1997,18,48,3,1.0,2105359700,Jeffrey William Josten,0,1.15941583720679,0.24889372652238476
+2021591567,Coordinating backup/recovery and data consistency between database and file systems,2002,10,102,4,1.0,2310806638,Suparna Bhattacharya,0,-0.8909371551532096,2.475117757204832
+2078466495,Autonomic query parallelization using non-dedicated computers an evaluation of adaptivity options,2009,42,35,6,0.0,2070167002,Norman W. Paton,0,-0.0041099411153885,0.0447066884760059
+2102959957,Algorithms for creating indexes for very large tables without quiescing updates,1992,13,77,2,0.153347,2411984561,Chandrasekaran Mohan,0,-0.0041099411153885,0.0447066884760059
+2100542992,Constant-Time Query Processing,2008,14,120,7,0.46301,2112167796,Vijayshankar Raman,0,0.9165703227808046,0.3639014348279039
+2079690139,Load balancing and data placement for multi-tiered database systems,2007,37,6,5,0.0,2983029524,Wen Syan Li,0,1.5234028596509692,0.6855821779472314
+2138380515,Method of maintaining data consistency in a loose transaction model,2001,10,152,3,1.0,1981467130,Karen W. Brannon,0,-0.0657313578114337,0.040395555570719
+2132918730,DLFM a transactional resource manager,2000,5,60,2,0.0,2886951045,Hui I Hsiao,0,-0.5429380998940969,1.7769431099819701
+2134740279,Load Balancing for Multi-tiered Database Systems through Autonomic Placement of Materialized Views,2006,14,21,6,0.0,2251660241,Wen Syan Li,0,1.3941657331455601,0.27297218038097054
+2144300354,Continuous availability and efficient backup for externally referenced objects,1998,4,284,2,0.0,2114772878,Randal Burns,0,-0.7243677231905004,2.3030260468250283
+2150424096,ARIES/CSA a method for database recovery in client-server architectures,1994,24,59,2,0.0987883,2411984561,Chandrasekaran Mohan,0,-2.0972444828031533,-1.4440068337629972
+2159366271,Method and means for linking a database system with a system for filing data,1997,29,116,3,0.0,2103540886,Robert M. Rees,0,1.8762870148379698,0.4067332824541538
+2151037077,Load and network aware query routing for information integration,2005,22,14,5,0.0,2251660241,Wen Syan Li,0,0.1771059897251464,-0.0569332771475955
+2149001708,Method for managing database recovery from failure of a shared store in a system including a plurality of transaction-based systems of the write-ahead logging type,1991,6,140,2,0.0,2139556000,James Zu chia Teng,0,0.8300597902069252,0.910572336533508
+2213922960,Castout processing for duplexed cache structures,1999,20,26,8,0.0,226731872,Kelly B. Pushong,0,-0.46893397788284524,0.07728939382804885
+2241066421,Method and means for archiving in a transaction management system,1994,0,6,1,1.0,2311819533,Inderpal S. Narang,0,0.5501948465355991,1.264186489552431
+2394777452,Computer program product for off-loading host-based DBMS predicate evaluation to a disk controller,1995,9,33,2,0.666667,2309647949,Balakrishna R. Iyer,0,-0.25142422156114436,0.21929531271583175
+2397577998,Managing database recovery from failure,1992,6,3,2,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2417464336,Assigning recoverable unique sequence numbers in a transaction processing system,1999,22,13,2,1.0,2105359700,Jeffrey William Josten,0,2.3950401091317826,2.3462302162379283
+2487281675,Data Access Integration and Management,2004,0,23,7,0.0,279674722,Peter Kunszt,0,0.2331737397314896,-0.15283932335216185
+2726128274,Verwaltung von Datenbankwiederherstellung nach Fehler Managing database recovery error,1992,0,0,2,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2801966670,Managing database recovery error,1992,0,0,2,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544
+2797288035,Verwaltung von Datenbankwiederherstellung nach Fehler Managing database Failure Recovery,1992,0,0,2,1.0,2139556000,James Zu chia Teng,0,0.8629442155814793,0.9357512755559544

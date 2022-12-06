@@ -1,0 +1,256 @@
+630400,Rule indexing implementations in database systems,1986,0,10,1,1.0,1998938290,Michael Stonebraker,0,2.3609037898779945,0.461518988023364
+104037047,Open enterprise data integration,1999,0,11,1,1.0,1998938290,Michael Stonebraker,0,-0.0873632243068517,-0.0824034282341078
+104115952,Content Integration for E-Commerce,2001,0,7,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+104553448,On XML and Databases Wheres the Beef (Panel Abstract),2000,0,0,4,0.0324506,2157114695,Michael J. Carey,0,0.5586742082380666,-0.1984847101299193
+87905120,The Aurora and Medusa Projects,2003,12,139,2,0.0,431165649,Stanley B. Zdonik,0,-0.0041099411153885,0.0447066884760059
+138816814,On rules procedures caching and views in database systems,1994,9,229,1,1.0,1998938290,Michael Stonebraker,0,0.7922515116942576,0.135943379506858
+54536475,In Memory of Kevin Whitney,1981,0,0,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+89535345,Query Processing in a Parallel Object-Relational Database System,1996,0,15,4,0.0,2642293104,Michael A. Olson,0,1.6062060220877272,0.20537944773432923
+174806611,Extendability in POSTGRES,1987,0,19,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+192026941,THE POSTGRES NEXT GENERATION DBMS,1997,20,2,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+56918557,Requirements for Science Data Bases and SciDB,2009,19,156,1,1.0,1998938290,Michael Stonebraker,0,-0.27365118179949777,0.33067525490730165
+176570551,HighLight Using a Log-structured File System for Tertiary Storage Management,1993,14,41,3,0.0,2671877047,John T. Kohl,0,-0.9009622922797199,2.6302295427833573
+125742862,Using a Relational Database Management System for Computer Aided Design Data,1982,0,33,2,0.0,2074457532,Antonin Guttman,0,1.8166211747184724,0.38564502692728325
+160024753,A Study of the Effects of Locking Granularity in a Data Base Management System (Abstract),1977,0,0,2,1.0,1740826834,Daniel R. Ries,0,-0.0041099411153885,0.0447066884760059
+41447156,An Approach to Implementing a Geo-Data System,1975,0,18,2,0.0,2400723010,Angela Go,0,-0.0041099411153885,0.0447066884760059
+58755014,Storage Structures and Access Methods in the Relational Data Base Management System INGRES,1975,0,13,2,0.857143,2146937873,Gerald Held,0,0.784567465158634,0.6530145312389397
+160895294,Using a Relational Database Management System for Computer Aided Design Data - An Update,1984,0,6,1,1.0,1998938290,Michael Stonebraker,0,1.3913407363712729,0.19983655422482735
+178725421,&quot;The Committee for Advanced DBMS Function&quot; Third Generation Data Base System Manifesto,1990,0,20,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+26664938,An Analysis of Rule Indexing Implementations in Data Base Systems In Expert Database Conf,1986,0,16,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+222837614,Performance Analysis of Distributed Data Base Systems,1982,0,14,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+64167821,Visionary A Next Generation Visualization System for Databases,2003,0,3,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+115674618,The Postgres DBMS,1990,0,11,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+64866299,Database Research Lead Follow or Get Out of the Way - Panel Abstract,1996,0,0,5,0.0,2163909284,Surajit Chaudhuri,0,-0.0041099411153885,0.0447066884760059
+149880823,The Sequoia 2000 Benchmark,1993,0,58,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+31385409,The Impact of Database Research on Industrial Products (Panel Summary),1994,0,0,5,0.0,2144418927,Daniel BarbarÃ¡,0,-0.0041099411153885,0.0447066884760059
+31634058,The architecture of SciDB,2011,11,119,1,1.0,1998938290,Michael Stonebraker,0,0.0603784152198083,0.2445333521458665
+100082076,&quot;One Size Fits All&quot; An Idea Whose Time Has Come and Gone (Abstract),2005,17,26,2,0.123276,11059210,Ugur Cetintemel,0,-0.0041099411153885,0.0447066884760059
+169373469,Letter to Peter Denning (Two VLDB Conferences),1982,0,1,1,1.0,1998938290,Michael Stonebraker,0,-0.25609130579317646,0.2785941556746898
+118941773,Operating System Support for Data Management,1986,0,4,1,1.0,1998938290,Michael Stonebraker,0,0.18601297105691045,-0.0008472885667257998
+169739290,Implementation of Rules in Relational Data Base Systems,1983,0,8,1,1.0,1998938290,Michael Stonebraker,0,0.3531339152845623,-0.06543988810851607
+119147573,The Data Base Management System INGRES,1976,0,2,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+85239337,Benchmarking database systems,1998,0,1,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+153393921,One Size Fits All Part 2 Benchmarking Studies,2007,0,45,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+384365429,A Project on High Performance I/O Subsystems,1988,9,11,4,0.0,2246122413,Randy H. Katz,0,-0.0041099411153885,0.0447066884760059
+302582241,Data Base Support for Complex Objects and Expert Systems,1991,0,0,1,1.0,1998938290,Michael Stonebraker,0,0.21807188789989154,0.20834331553383642
+1541070926,Reordering Query Execution in Tertiary Memory Databases,1996,33,28,2,0.6,156875573,Sunita Sarawagi,0,0.7215975991611812,0.3052417628859806
+1541079607,Interoperability Distributed Applications and Distributed Databases The Virtual Table Interface,1998,1,9,1,1.0,1998938290,Michael Stonebraker,0,0.25927630482404496,0.7022149183405877
+1505177095,Third-generation database system manifesto,1990,0,154,1,1.0,1998938290,Michael Stonebraker,0,2.4948183747466173,0.5104761905054425
+1161092233,Vertexica your relational friend for graph analytics ,2014,5,29,1,1.0,1998938290,Michael Stonebraker,0,0.38632121652839624,0.058193535481373765
+1568731394,Performance Evaluation of an Operating System Transaction Manager,1987,23,9,2,0.666667,2101253922,Akhil Kumar,0,2.22870960745776,2.3014249872817274
+1542571610,Analysis of distributed data base processing strategies,1980,12,37,2,1.0,2276506317,Robert Epstein,0,0.18601297105691045,-0.0008472885667257998
+1507322601,Metrics for Accessing Heterogeneous Data Is There Any Hope (Panel),1995,0,1,4,0.0,928896572,Leonard J. Seligman,0,0.12628174114238816,0.0039009070058818006
+1552497468,An Implementation of Hypothetical Relations,1983,7,39,2,0.0,2778402758,John Woodfill,0,-0.0041099411153885,0.0447066884760059
+1507849339,The semantic web as Perfection seeking a view from drug terminology,2001,22,7,8,0.0,2531173054,Mark S. Tuttle,0,-0.0041099411153885,0.0447066884760059
+1499512641,A measure of transaction processing power,1985,0,205,6,0.0,231205469,Omri Serlin,0,1.9420750590556093,1.8069391394002574
+1499820551,Database Portals A New Application Program Interface,1984,17,24,1,1.0,1998938290,Michael Stonebraker,0,0.6966233347419029,0.548652221358317
+1536603646,Independent Open Enterprise Data Integration,1999,6,53,2,0.0,2063640528,Joseph M. Hellerstein,0,1.8803489951926753,0.6200505647503405
+1483819513,Readings in Database Systems,1988,26,162,1,1.0,1998938290,Michael Stonebraker,0,2.3712661367703887,0.5872394433678911
+1518578660,TIMBER A Sophisticated Relation Browser (Invited Paper),1982,13,41,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+1509857430,Observations on data manipulation languages and their embedding in general purpose programming languages,1977,19,29,1,1.0,1998938290,Michael Stonebraker,0,0.119739122485096,0.4583397011045227
+1573399142,Using Write Protected Data Structures To Improve Software Fault Tolerance in Highly Available Database Management Systems,1991,20,33,2,0.0,2298903756,Mark Sullivan,0,-0.0041099411153885,0.0447066884760059
+1510252230,Load shedding in a data stream manager,2003,16,534,4,0.666667,679539391,Nesime Tatbul,0,0.4184645470983872,-0.7036173679100631
+1537448616,Extended User-Defined Indexing with Application to Textual Databases,1988,19,59,2,0.0,2645955135,Clifford A. Lynch,0,0.12446922487222774,0.4526346592524689
+1573833643,The POSTGRES data model,1987,28,207,2,0.0,2242628833,Lawrence A. Rowe,0,1.4051061582220221,0.48323254907951513
+1574590769,Tioga Providing Data Management Support for Scientific Visualization Applications,1993,18,57,1,1.0,1998938290,Michael Stonebraker,0,0.18601297105691045,-0.0008472885667257998
+1539153042,S-Store streaming meets transaction processing,2015,36,40,10,0.0,2103918798,John Meehan,0,2.411513802249899,2.2780866814479004
+1530586715,Object management in POSTGRES using procedures,1986,34,50,1,1.0,1998938290,Michael Stonebraker,0,0.4343214700975547,0.29971478070690927
+1792955578,Future Directions in DBMS Research - The Laguna Beach Participants,1989,0,40,16,0.0,2304774990,Philip A. Bernstein,0,-0.0041099411153885,0.0447066884760059
+1577169013,The end of an architectural era (its time for a complete rewrite),2007,62,553,1,1.0,1998938290,Michael Stonebraker,0,1.087196949808787,0.6859136057165826
+1577423215,Data lineage and information density in database visualization,1998,0,8,1,1.0,1998938290,Michael Stonebraker,0,-0.026043388670241648,-0.1514020116204905
+1749996530,Transaction support in read optimized and write optimized file systems,1990,14,77,1,1.0,1998938290,Michael Stonebraker,0,2.159455442766235,2.25020367570928
+1596506289,Readings in Database Systems Fourth Edition,2005,0,13,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+1754222265,HighLight a file system for tertiary storage,1993,9,11,2,0.0,2671877047,John T. Kohl,0,-0.15439584752321023,0.46142759199380223
+1935605393,Read optimized file system designs a performance evaluation,1991,13,13,2,0.0,2983631945,M. Seltzer,0,-0.46190293030527263,0.7350128104144246
+1756966989,Sequoia 2000 a next-generation information system for the study of global change,1994,16,14,2,0.0,2985374685,Jeff Dozier,0,0.6742454131263231,0.2789468385755684
+1916593361,The Performance of Concurrency Control Algorithms for Database Management Systems,1984,39,89,2,0.184615,2157114695,Michael J. Carey,0,2.523289490792517,3.2831517300540405
+1856478510,Are We Polishing a Round Ball (Panel Abstract),1993,0,2,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+1599985012,Database portals a new application program interface,1986,0,0,1,1.0,1998938290,Michael Stonebraker,0,0.20332239842374814,0.020152448809448064
+1833658036,Future trends in data base systems,1988,23,18,1,1.0,1998938290,Michael Stonebraker,0,-0.14631909474842558,0.20062285229775031
+1624355900,Tioga Providing Data Management Support for,1992,0,3,1,1.0,1998938290,Michael Stonebraker,0,0.18601297105691045,-0.0008472885667257998
+1791587242,C-store a column-oriented DBMS,2005,64,911,1,1.0,1998938290,Michael Stonebraker,0,1.8807322762223457,0.7576132399113342
+1980536491,Sequoia 2000 metadata schema for satellite images,1994,8,28,2,0.0,2286667684,Jean T. Anderson,0,-0.18072730998034697,0.17311316675021193
+1973635708,Managing persistent objects in a multi-level store,1991,20,64,1,1.0,1998938290,Michael Stonebraker,0,0.014532710543751099,0.030944858938630852
+1984288101,Database systems achievements and opportunities,1990,0,51,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+1969092646,DataXFormer An Interactive Data Transformation Tool,2015,9,15,6,0.529412,2021873301,John Morcos,0,-1.2105481183936178,-1.3000623501830535
+1976384294,Data base research at Berkeley,1990,0,5,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+1978309035,Hypothetical data bases as views,1981,7,41,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2008333370,Fault-tolerance in the borealis distributed stream processing system,2008,42,133,4,0.352941,2345141441,Magdalena Balazinska,0,-0.0041099411153885,0.0447066884760059
+1997837472,Embedding expert knowledge and hypothetical data bases into a data base system,1980,14,40,1,1.0,1998938290,Michael Stonebraker,0,1.148299725299794,0.13326708712716992
+1998014869,Of XML and databases (panel session) wheres the beef ,2000,0,1,3,0.0,671527850,Jennifer Widom,0,2.728443196742032,-1.2292042031126393
+2008633193,Operating system support for database management,1981,10,373,1,1.0,1998938290,Michael Stonebraker,0,-0.13365637155489235,0.612848481200161
+2005430558,GEO-OUEL a system for the manipulation and display of geographic data,1977,8,34,2,0.0,2230606778,Richard R. Berman,0,0.3953402102441047,0.2899666923959069
+2007254420,A Distributed Data Base Version of INGRES,1976,0,114,1,1.0,1998938290,Michael Stonebraker,0,0.25684515259110763,0.23676978283285882
+1996859889,B-trees re-examined,1978,7,32,2,0.857143,2146937873,Gerald Held,0,-0.7880648691241777,1.7679005260381517
+1995404885,Incremental elasticity for array databases,2014,26,13,2,0.555556,2095556346,Jennie Duggan,0,0.08937489881478582,-0.03456665708021271
+1997168731,The Beckman Report on Database Research,2014,7,47,28,0.0893802,2170206103,Daniel J. Abadi,0,0.16961816653767703,0.31221718520020947
+1997332627,Retrospective on Aurora,2004,16,142,8,1.0,1998464616,Hari Balakrishnan,0,0.16782124802273696,0.2536234597393226
+1992169319,DBMS Research at a Crossroads The Vienna Update,1993,3,60,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+1999170075,In search of database consistency,2010,2,21,1,1.0,1998938290,Michael Stonebraker,0,2.6968956250087763,0.8761567710289709
+2017369298,A demonstration of SciDB a science-oriented DBMS,2009,13,144,16,0.0,2308794080,Philippe CudrÃ© Mauroux,0,-0.09687631339961023,0.20814854511678701
+2024607104,Tioga A database-oriented visualization tool,1993,13,25,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2028511104,Effects of locking granularity in a database management system,1977,12,102,2,1.0,1740826834,Daniel R. Ries,0,1.9363059820683013,0.39619158639376684
+2016231742,Performance analysis of a relational data base management system,1979,16,30,2,0.0,2505857019,Paula Hawthorn,0,0.7194061175867876,1.1690492620667057
+2011129635,Skew-Aware Join Optimization for Array Databases,2015,37,15,4,0.555556,2095556346,Jennie Duggan,0,0.46268990104857305,-0.11113127681264387
+2028848636,Data integration through transform reuse in the Morpheus project,2006,6,6,5,0.0,2303076654,Tiffany Dohzen,0,0.3565816221029829,-0.16578994678723874
+2054075931,OLTP through the looking glass and what we found there,2008,40,251,4,0.0,2676701685,Stavros Harizopoulos,0,2.11184712924916,2.0611930582945646
+2034956514,Database systems achievements and opportunities,1991,0,197,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2043934800,Implementation techniques for main memory database systems,1984,11,744,5,0.0,1979791317,David J. DeWitt,0,-0.0041099411153885,0.0447066884760059
+2054565845,Proceedings of the 1992 ACM SIGMOD international conference on Management of data,1992,0,11,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2037200004,Why did Jim Gray win the Turing Award,2008,0,0,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2054905474,GenBase a complex analytics genomics benchmark,2014,10,29,6,0.677419,2212953717,Rebecca Taft,0,-0.7277015047502419,-0.8945390771515155
+2037289266,The Claremont report on database research,2008,6,119,25,0.0,2537924216,Rakesh Agrawal,0,0.11069343465737484,0.7732306852028031
+2044547639,SubZero A fine-grained lineage system for scientific databases,2013,21,23,3,0.0,2151018753,Eugene Wu,0,0.2946713761785912,0.4027268098681643
+2042907902,Problems in supporting data base transactions in an operating system transaction manager,1985,8,20,1,1.0,1998938290,Michael Stonebraker,0,2.6283643632663183,2.549061685921139
+2039515069,In memory of Bob Kooi (1951â€“1993),1994,0,1,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2041414515,The case for partial indexes,1989,9,141,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2038012689,The impact of database research on industrial products (panel),1994,1,2,2,0.0,1983664831,David B. Lomet,0,-0.0041099411153885,0.0447066884760059
+2062735494,Aurora a data stream management system,2003,2,227,11,0.192886,2170206103,Daniel J. Abadi,0,0.10064988314788967,-0.46637949905878545
+2062851028,On rules procedure caching and views in data base systems,1990,11,153,1,1.0,1998938290,Michael Stonebraker,0,-0.00492109496191035,-0.1728987636093571
+2055958975,The Asilomar report on database research,1998,0,207,12,0.0,2131060504,Michael L. Brodie,0,-0.0041099411153885,0.0447066884760059
+2064808338,A study of the effects of locking granularity in a data base management system,1977,0,1,2,1.0,1740826834,Daniel R. Ries,0,0.9951418793284702,0.2362375851022653
+2077196104,Readings in database systems (3rd ed),1998,0,22,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2061587502,Implementation of data abstraction in the relational database system INGRES,1983,9,52,3,0.0,2096856503,James Ong,0,0.7450621777368143,0.23551132977937866
+2070511907,Enterprise Database Applications and the Cloud A Difficult Road Ahead,2014,16,5,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2065419751,Extending a database system with procedures,1987,31,133,1,1.0,1998938290,Michael Stonebraker,0,2.1790689765199938,0.5380491459398837
+2072627547,The design of POSTGRES,1986,39,642,1,1.0,1998938290,Michael Stonebraker,0,1.5623911911660686,0.2553246307582987
+2070911018,Database research achievements and opportunities into the 1st century,1996,1,96,1,1.0,1998938290,Michael Stonebraker,0,0.2946713761785912,0.4027268098681643
+2060482168,The INGRES protection system,1976,10,27,1,1.0,1998938290,Michael Stonebraker,0,0.48829541830651196,1.521450658497902
+2062294298,Too much middleware,2002,2,103,1,1.0,1998938290,Michael Stonebraker,0,-0.15897326225653222,-0.27451745189632415
+2064102738,The effect of join selectives on optimal nesting order,1987,8,12,1,1.0,1998938290,Michael Stonebraker,0,0.13506710143890385,0.005162817422601401
+2067782832,A functional view of data independence,1974,9,13,1,1.0,1998938290,Michael Stonebraker,0,0.00147433663869615,-0.1283904639608274
+2071414195,Rethinking main memory OLTP recovery,2014,25,87,4,0.0,2161007831,Nirmesh Malviya,0,1.906610753546473,1.777020632947305
+2096527593,Indexing techniques for historical databases,1989,11,93,2,0.0,2681992550,C. Kolovson,0,-0.0041099411153885,0.0447066884760059
+2085772207,Access control in a relational data base management system by query modification,1974,13,130,1,1.0,1998938290,Michael Stonebraker,0,0.5147115044549062,1.1106761987359675
+2102848234,Alternatives in complex object representation a performance perspective,1990,21,8,2,0.0,2674500666,A. Jhingran,0,-0.46893397788284524,0.07728939382804885
+2097005074,A Generalized DBMS to Support Diversified Data,1985,0,0,1,1.0,1998938290,Michael Stonebraker,0,-0.023728765249622967,-0.03836446017698854
+2103455512,Are we working on the right problems (panel),1998,0,6,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2103920867,Implementation of integrity constraints and views by query modification,1975,16,406,1,1.0,1998938290,Michael Stonebraker,0,-0.04702279820879337,0.3998947410928609
+2098190709,Future trends in database systems,1989,24,45,1,1.0,1998938290,Michael Stonebraker,0,0.11110263329775387,0.29902515242799826
+2085046343,Implementation of a time expert in a data base system,1982,4,22,2,0.0,2276402975,Ricky Overmyer,0,0.3281125341783827,0.1660607414258459
+2086906616,The POSTGRES next generation database management system,1991,20,386,1,1.0,1998938290,Michael Stonebraker,0,0.5325669973310596,0.09709227568458595
+2079908845,We are drowning in a sea of least publishable units (LPUs),2013,0,0,4,0.0,1979791317,David J. DeWitt,0,-0.0041099411153885,0.0447066884760059
+2114806071,Tioga-2 a direct manipulation database visualization environment,1996,14,72,2,1.0,2116683379,Jolly Chen,0,0.10892078927671055,0.13192252461061646
+2111952456,Embedding a relational data sublanguage in a general purpose programming language,1976,13,32,2,0.0,2147521177,Eric Allman,0,1.3529950538096966,0.019300904536410146
+2141742398,Fault-tolerance in the Borealis distributed stream processing system,2005,51,171,4,0.857143,2345141441,Magdalena Balazinska,0,-0.0041099411153885,0.0447066884760059
+2112215401,Linear road a stream data management benchmark,2004,7,287,7,0.0,2288886406,Arvind Arasu,0,0.7171138400878053,0.1438872341433715
+2115320410,The integration of rule systems and database systems,1992,30,110,1,1.0,1998938290,Michael Stonebraker,0,2.2926339810537075,0.471192912686407
+2139086035,Architecture of a Database System,2007,96,149,2,0.0,2063640528,Joseph M. Hellerstein,0,1.908706548389923,0.545272921596214
+2130384953,Architecture of future data base systems,1981,6,12,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2133384222,The design and implementation of INGRES,1976,20,784,1,1.0,1998938290,Michael Stonebraker,0,-0.09857869347954906,0.13627236017458916
+2118797423,SEQUOIA 2000-a reflection on the first three years,1994,13,31,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2118828104,Monitoring streams a new class of data management applications,2002,29,794,3,0.666667,679539391,Nesime Tatbul,0,0.25087424620461,-0.7108135908800189
+2139601028,DBMS and AI is there any common point of view ,1983,0,1,2,0.0,208997634,Daniel Sagalowicz,0,-0.0041099411153885,0.0447066884760059
+2116223225,Performance considerations for an operating system transaction manager,1989,25,14,2,0.666667,2101253922,Akhil Kumar,0,2.26541339184107,2.2619842809742994
+2143110746,Efficient and Flexible Information Retrieval using MonetDB/X100,2007,14,5,6,0.0,2075443108,SÃ¡ndor HÃ©man,0,-0.0041099411153885,0.0447066884760059
+2107388383,Retrospection on a database system,1980,22,48,1,1.0,1998938290,Michael Stonebraker,0,2.9157010293268533,0.7662536198702736
+2134109073,EarthDB scalable analysis of MODIS data using SciDB,2012,6,38,2,0.0,2229584998,Gary Planthaber,0,-0.06297553783020013,0.39390822507807977
+2128362607,The 8 requirements of real-time stream processing,2005,10,438,1,1.0,1998938290,Michael Stonebraker,0,-0.20133665475165913,-0.19110780330684465
+2143377704,Distributed query processing in a relational data base system,1978,14,186,2,1.0,2276506317,Robert Epstein,0,0.9160131034009265,0.1450173808840081
+2113640782,&quot;One size fits all&quot; an idea whose time has come and gone,2005,25,295,2,0.123276,11059210,Ugur Cetintemel,0,0.056844065326563664,0.24269233270538387
+2134204499,Intel &quot;big data&quot; science and technology center vision and execution plan,2013,20,27,1,1.0,1998938290,Michael Stonebraker,0,-0.4951273078888396,0.9070079644799637
+2131300191,QUEL as a data type,1984,20,62,1,1.0,1998938290,Michael Stonebraker,0,0.6065350793761163,0.19304263709039104
+2143513211,The Sequoia 2000 object browser,1992,11,9,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2143522680,The VoltDB Main Memory DBMS,2013,11,142,1,1.0,1998938290,Michael Stonebraker,0,1.401396649694144,1.7032053295087255
+2125581798,Semantics based transaction management techniques for replicated data,1988,17,52,2,0.666667,2101253922,Akhil Kumar,0,1.4011609430908591,1.230919190469956
+2117034946,The design of the POSTGRES storage system,1988,16,243,1,1.0,1998938290,Michael Stonebraker,0,0.6324564739481532,0.43778785602981696
+2143828465,A demonstration of DBWipes clean as you query,2012,8,10,3,0.0,2151018753,Eugene Wu,0,0.2946713761785912,0.4027268098681643
+2131743814,The Future of Scientific Data Bases,2012,5,2,1,1.0,1998938290,Michael Stonebraker,0,0.00147433663869615,-0.1283904639608274
+2128912667,The Case for Shared Nothing,1986,0,446,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2137774239,An economic paradigm for query processing and data migration in Mariposa,1994,24,184,1,1.0,1998938290,Michael Stonebraker,0,0.18240268408398375,-0.03331248885438892
+2144019624,Efficient Versioning for Scientific Array Databases,2012,15,30,4,0.0,964890189,Adam Seering,0,0.25057570336137,-0.14940085706202869
+2114270519,Segment indexes dynamic indexing techniques for multi-dimensional interval data,1991,17,112,2,0.0,2567291243,Curtis P. Kolovson,0,-0.0041099411153885,0.0447066884760059
+2114303224,A comparison of approaches to large-scale data analysis,2009,16,942,7,1.0,1916729783,Andrew Pavlo,0,-0.21154035593534,0.8069883341132106
+2162064942,The implementation of POSTGRES,1990,30,359,1,1.0,1998938290,Michael Stonebraker,0,0.21807188789989154,0.20834331553383642
+2150227404,Performance enhancements to a relational database system,1983,11,31,1,1.0,1998938290,Michael Stonebraker,0,1.6044559055436862,1.1492152519310752
+2153399951,High-availability algorithms for distributed stream processing,2005,16,253,4,0.0,2760905887,Jeong Hyon Hwang,0,-0.22859007644670426,0.11613146160450451
+2165442822,Query Processing in Tertiary Memory Databases,1995,21,45,2,0.666667,156875573,Sunita Sarawagi,0,1.3346603508343653,0.46699184909556307
+2171588311,Supporting fine-grained data lineage in a database visualization environment,1997,12,181,2,0.0,2141509576,Allison Woodruff,0,0.08844197107796248,0.21705834839034543
+2162553498,Operator scheduling in a data stream manager,2003,23,237,4,0.823529,2974690091,Don Carney,0,0.007334245363849856,0.0884093997571545
+2144973160,S-Store a streaming NewSQL system for big velocity applications,2014,7,51,8,0.123276,11059210,Ugur Cetintemel,0,0.8908893349317512,1.4955192263223913
+2159927064,Locking granularity revisited,1979,13,101,2,1.0,1740826834,Daniel R. Ries,0,0.6370630872939169,2.4543642493786715
+2172153030,THALIA Test Harness for the Assessment of Legacy Information Integration Approaches,2005,20,44,2,0.0,2124682942,Joachim Hammer,0,0.5418577112701125,-0.24831527852331414
+2169251528,SciDB A Database Management System for Applications with Complex Analytics,2013,11,104,1,1.0,1998938290,Michael Stonebraker,0,-0.05707200426809285,0.42128166862974287
+2166325312,The Miro DBMS,1993,0,12,1,1.0,1998938290,Michael Stonebraker,0,1.7164437877290266,0.6098519770756777
+2157219191,Efficient organization of large multidimensional arrays,1994,15,239,2,0.666667,156875573,Sunita Sarawagi,0,0.6378761383782687,1.1190276771832732
+2163231231,Anti-caching a new approach to database management system architecture,2013,28,62,4,0.857143,2038319145,Justin DeBrabant,0,-0.0041099411153885,0.0447066884760059
+2187405563,One Size Fits All - Part 2 Benchmarking Results,2007,17,53,2,0.0,1227713778,John Lifter,0,0.8818883915646806,0.42561381086246075
+2163765478,Inclusion of new types in relational data base systems,1986,22,160,1,1.0,1998938290,Michael Stonebraker,0,-0.013935685150413027,0.05205314176036035
+2166955001,Data replication in Mariposa,1996,17,78,5,0.0,2344024563,Jeff Sidell,0,0.8028676527324735,0.5594171107717011
+2145943173,Mariposa a wide-area distributed database system,1996,28,349,1,1.0,1998938290,Michael Stonebraker,0,0.19175158644315318,0.11799070990272342
+2167024438,Content integration for e-business,2001,12,75,1,1.0,1998938290,Michael Stonebraker,0,0.888967026302165,0.2768246472427167
+2160967997,Predicate migration optimizing queries with expensive predicates,1993,33,263,2,0.0,2063640528,Joseph M. Hellerstein,0,0.7215975991611812,0.3052417628859806
+2155070484,H-store a high-performance distributed main memory transaction processing system,2008,11,390,8,0.0,2610280838,Robert Kallman,0,1.9608306269484368,1.8155146859826754
+2155356570,The SEQUOIA 2000 storage benchmark,1993,17,198,2,0.0,1207758054,Kenn Gardels,0,-0.0041099411153885,0.0447066884760059
+2149576945,Aurora a new model and architecture for data stream management,2003,31,1378,7,0.192886,2170206103,Daniel J. Abadi,0,-0.10022027321948469,-0.42222548714105584
+2152686036,Mariposa a new architecture for distributed data,1994,18,85,1,1.0,1998938290,Michael Stonebraker,0,0.1440837811988976,0.018460510277566074
+2164749306,The design of the POSTGRES rules system,1987,3,60,1,1.0,1998938290,Michael Stonebraker,0,0.18601297105691045,-0.0008472885667257998
+2147003605,Large object support in POSTGRES,1993,16,27,1,1.0,1998938290,Michael Stonebraker,0,1.1234648107228877,0.6665618058604605
+2178497290,Operating system support for database management,1986,0,5,1,1.0,1998938290,Michael Stonebraker,0,1.9261787237040473,0.33475659178080536
+2271870283,E-store fine-grained elastic partitioning for distributed transaction processing systems,2014,30,77,2,0.575632,1916729783,Andrew Pavlo,0,1.8898919034763508,1.6459287072410789
+2262540946,Distributed database systems,1998,0,1,1,1.0,1998938290,Michael Stonebraker,0,1.6957221228986619,0.49372843707613123
+2213275763,Temporal rules discovery for web data cleaning,2015,32,26,5,0.586284,239574797,Ziawasch Abedjan,0,1.218688051464744,-0.02657296402585745
+2260616469,The BigDAWG Polystore System,2015,22,116,2,0.573044,2094668902,Aaron J. Elmore,0,-0.027298124390412692,0.25211669724065855
+2252079059,Future directions in DBMS research,1994,0,23,5,0.0,251194211,Matthias Jarke,0,-0.0041099411153885,0.0447066884760059
+2292449291,A demonstration of the BigDAWG polystore system,2015,14,68,3,0.573044,2094668902,Aaron J. Elmore,0,-1.1827367149308514,-0.8784169284375828
+2288244345,Data Curation at Scale The Data Tamer System,2013,10,122,1,1.0,1998938290,Michael Stonebraker,0,0.18542519363614984,0.0007817382733590617
+2294626234,Integrating DB and IR Technologies What is the Sound of One Hand Clapping ,2005,68,82,3,0.0,514836396,Gerhard Weikum,0,0.7500064159454073,-0.4358913822747161
+2324655550,An Economic Paradigm for Query Processing and,1994,0,6,2,0.0,1969171325,Witold Litwin,0,0.16782124802273696,0.2536234597393226
+2282766459,The performance of concurrency control algorithms for database management systems,1986,0,0,2,0.184615,2157114695,Michael J. Carey,0,2.523289490792517,3.2831517300540405
+2311401345,Parallel database systems,1998,0,1,1,1.0,1998938290,Michael Stonebraker,0,1.1161126695540986,0.3571621188454127
+2291793535,The BigDAWG Architecture,2016,10,2,6,0.387994,2056870915,Vijay Gadepally,0,-0.10283226324839849,0.14718529002097702
+2287207825,Dynamic Prefetching of Data Tiles for Interactive Visualization,2016,23,66,3,0.0,1975774854,Leilani Battle,0,-0.19196147509311953,0.14487620954580122
+2338990447,MapReduce complements DBMSs since databases are not designed for extract- transform-load tasks a MapReduce specialty,2010,18,0,3,1.0,1916729783,Andrew Pavlo,0,-0.39288935711135586,1.1301248039046916
+2406661182,DATA CURATION SYSTEM WITH VERSION CONTROL FOR WORKFLOW STATES AND PROVENANCE,2015,8,5,3,0.0,974729037,George Beskales,0,-0.03456895769415114,0.08598316155083514
+2398564056,A Prolegomenon on OLTP Database Systems for Non-Volatile Memory,2014,28,33,4,0.857143,2038319145,Justin DeBrabant,0,1.6464990462398255,1.5909491826463178
+2401408574,Object Management in Postgres using Procedures,1991,0,1,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2396255249,Chaimans Column,1981,0,1,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2407398379,We are Under Attack; by the least publishable unit,2013,0,0,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2394555589,Staring into the abyss an evaluation of concurrency control with one thousand cores,2014,40,114,5,0.5,2128284562,Xiangyao Yu,0,1.6464990462398255,1.5909491826463178
+2400105477,Third-Generation Database System Manifesto - The Committee for Advanced DBMS Function,1990,0,10,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2410745628,Index support for next-generation database applications,1999,0,0,1,1.0,1998938290,Michael Stonebraker,0,1.2932515466288539,0.42873939942312633
+2400757866,Architectures for expert-DBMS (Panel),1985,0,0,4,0.0,1821184369,B. Muthuswamy,0,-0.0041099411153885,0.0447066884760059
+2400847108,Large-scale Semantic Profile Extraction,2014,11,10,2,0.0,208931610,Michael N. Gubanov,0,-0.4981566638422697,0.009426457584621906
+2413129376,Pricing policies and query processing in the mariposa agoric distributed database management system,1997,0,0,1,1.0,1998938290,Michael Stonebraker,0,-0.03514337364977249,-0.13363110566500652
+2427822648,DataXFormer A robust transformation discovery system,2016,31,21,6,0.91748,239574797,Ziawasch Abedjan,0,-0.2713454487944406,-0.6915648836487556
+2485234578,The Aurora and Borealis Stream Processing Engines,2016,13,17,12,0.109768,11059210,Ugur Cetintemel,0,0.5098799609193442,0.42767421287971297
+2558046195,Data transformation and migration in polystores,2016,9,18,3,0.0,2946500339,Adam Dziedzic,0,0.859780096363288,0.21057347838665164
+2558678786,The BigDawg monitoring framework,2016,13,12,3,0.0,2637066310,Peinan Chen,0,-0.8111052405828644,0.8913388803529055
+2559513690,Cross-engine query execution in federated database systems,2016,17,13,3,0.0,2476624766,Ankush M. Gupta,0,0.06938159227495509,0.37828542406047144
+2522505491,STeP Scalable Tenant Placement for Managing Database-as-a-Service Deployments,2016,29,11,5,1.0,2212953717,Rebecca Taft,0,-0.0041099411153885,0.0447066884760059
+2585020226,Database decay and how to avoid it,2016,9,8,1,1.0,1998938290,Michael Stonebraker,0,3.3059139637880612,0.11205114653177269
+2585130803,An evaluation of distributed concurrency control,2017,59,32,4,0.0,2225875350,Rachael Harding,0,2.367045803543807,2.5324442939738407
+2579029018,Clay fine-grained adaptive partitioning for general database schemas,2016,29,24,6,0.0,2310895133,Marco Serafini,0,1.4607749199251785,0.7522299435938634
+2585438896,The Data Civilizer System,2017,18,43,5,0.67402,2135275180,Dong Deng,0,-0.0041099411153885,0.0447066884760059
+2580400709,BigDAWG Polystore Release and Demonstration,2017,3,2,9,0.0,2629008387,Kyle OBrien,0,0.06635930819191084,0.49152641060504293
+2523955029,The BigDAWG polystore system and architecture,2016,25,47,8,0.387994,2056870915,Vijay Gadepally,0,0.21228526446012197,0.24716310001345324
+2613536717,A Demo of the Data Civilizer System,2017,5,16,11,0.733333,2182211708,Raul Fernandez,0,-0.11982675687125922,-0.2490051613940225
+2620512317,Message from the general chairs and program chairs,2004,0,0,2,0.0,1964963541,Betty Salzberg,0,-0.0041099411153885,0.0447066884760059
+2731310883,Version 01 of the BigDAWG Polystore System,2017,16,5,9,0.387994,2056870915,Vijay Gadepally,0,0.06635930819191084,0.49152641060504293
+2753622858,Exploring big volume sensor data with vroom,2017,11,3,5,0.0,2337267737,Oscar Moll,0,0.27170066117554836,0.25351867123412375
+2765978806,Database engine integration and performance analysis of the BigDAWG polystore system,2017,15,4,3,0.0,2766397507,Katherine Yu,0,0.6015128818587064,0.27961208352996064
+2757276355,A demonstration of SciDB,2009,0,1,3,0.0,144586491,Pavel Velikhov,0,0.12628174114238816,0.0039009070058818006
+2766530067,Approximate string joins with abbreviations,2017,28,14,3,0.833333,2100259695,Wenbo Tao,0,0.38499094748243823,0.2037845020695701
+2757562428,Entity Consolidation The Golden Record Problem,2017,46,4,8,0.67402,2135275180,Dong Deng,0,-0.27529732947590096,0.6088417614542732
+2766842049,BigDAWG version 01,2017,18,22,9,0.387994,2056870915,Vijay Gadepally,0,-0.08236479756234295,0.4093661839418941
+2798600397,P-Store An Elastic Database System with Predictive Provisioning,2018,9,3,6,1.0,2212953717,Rebecca Taft,0,1.5193922742730563,1.3108871558758848
+2883078343,S-Store streaming meets transaction processing,2015,0,0,10,0.0,2103918798,John Meehan,0,0.9408492071308692,0.912959594064505
+2912291639,Kyrix Interactive Visual Data Exploration at Scale,2019,0,2,5,0.833333,2100259695,Wenbo Tao,0,-0.0041099411153885,0.0447066884760059
+2898269683,Building Data Civilizer Pipelines with an Advanced Workflow Engine,2018,8,3,11,0.0,2102281295,Essam Mansour,0,0.12612142656726757,0.6503260228414357
+2898290851,My Top Ten Fears about the DBMS Field,2018,0,1,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2912938669,Tioga-2 A Direct Manipulation Database Visualization Environment,1995,0,0,2,1.0,2116683379,Jolly Chen,0,-0.0041099411153885,0.0447066884760059
+2918038731,FastDAWG Improving Data Migration in the BigDAWG Polystore System,2018,17,0,5,0.5,2128284562,Xiangyao Yu,0,0.26145152292877544,-0.28274796293009113
+2951455322,S-Store Streaming Meets Transaction Processing,2015,21,5,10,0.0,2103918798,John Meehan,0,1.641530967974413,1.4676622704682576
+2952591299,The Lowell Database Research Self Assessment,2003,5,5,23,0.0,172400696,Serge Abiteboul,0,-0.40975864434508047,0.2110873139452707
+2949146102,The Asilomar Report on Database Research,1998,0,5,12,0.0,2131060504,Michael L. Brodie,0,-0.0041099411153885,0.0447066884760059
+2991534516,Dataset-On-Demand Automatic View Search and Presentation for Data Discovery,2019,28,0,4,0.566667,2182211708,Raul Fernandez,0,-0.9187474338397454,0.569988513948818
+2970228335,Data Civilizer 20 a holistic framework for data preparation and analytics,2019,11,2,3,0.0,2971031355,El Kindi Rezig,0,0.3987858316334008,0.3214803641229101
+2970432078,Choosing a cloud DBMS architectures and tradeoffs,2019,20,2,5,0.0,2970500589,Junjay Tan,0,-0.3632509700454942,1.1437180412081445
+2989167576,Performance enhancements to a relational database system,1986,0,0,1,1.0,1998938290,Michael Stonebraker,0,1.204501787921431,0.29860165833699415
+2971307483,Rethinking database high availability with RDMA networks,2019,0,3,3,0.0,2043372754,Erfan Zamanian,0,-0.0041099411153885,0.0447066884760059
+2985052685,Retrospection on a database system,1986,0,1,1,1.0,1998938290,Michael Stonebraker,0,-0.0041099411153885,0.0447066884760059
+2981417205,WIP - SKOD A Framework for Situational Knowledge on Demand,2019,21,0,8,0.0,2908328943,Servio Palacios,0,-0.6342943649477568,-0.3456137619565023
+2981442692,SchengenDB A Data Protection Database Proposal,2019,7,0,2,0.0,2078839115,Tim Kraska,0,-0.0041099411153885,0.0447066884760059
+3013864782,Dagger A Data (not code) Debugger,2020,0,1,8,0.0,274930548,El Kindi Rezig,0,-0.0041099411153885,0.0447066884760059
+3006662907,PushdownDB Accelerating a DBMS using S3 Computation,2020,26,0,7,0.0,2973816486,Xiangyao Yu,0,-0.0041099411153885,0.0447066884760059
+3007024586,The Seattle Report on Database Research,2020,1,0,32,0.067603,2170206103,Daniel J. Abadi,0,-0.0041099411153885,0.0447066884760059

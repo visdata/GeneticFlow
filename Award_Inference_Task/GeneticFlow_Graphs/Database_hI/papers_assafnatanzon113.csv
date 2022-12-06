@@ -1,0 +1,39 @@
+1853407077,Methods and apparatus for point in time data access and recovery,2006,38,86,9,0.0,103086007,Evgeny Drukh,0,-0.057859005435957754,0.33826441538157104
+1855145818,Methods and apparatus for dynamic journal expansion,2007,71,104,2,0.0,1979529738,Shlomo Ahal,0,-0.42845202490949574,0.1450203979855267
+1821621555,Method and apparatus to recover data in a continuous data protection environment using a journal,2007,66,100,3,0.0,103086007,Evgeny Drukh,0,-0.34857978327751216,-0.2513987233039086
+1582976942,Methods and apparatus for optimal journaling for continuous data replication,2006,48,163,4,0.0,103086007,Evgeny Drukh,0,-0.041068475870823594,1.1506093675611193
+2097901815,Accessing an image in a continuous data protection using deduplication-based storage,2013,97,70,2,1.0,2160575566,Jehuda Shemer,0,-0.4138775012467594,0.1401674295394294
+2242536349,Leveraging array snapshots for immediate continuous data protection,2011,4,99,1,1.0,2318752249,Assaf Natanzon,0,-0.26111576430640643,-0.19302535071852145
+2242546181,Associating network and storage activities for forensic analysis,2011,22,85,1,1.0,2318752249,Assaf Natanzon,0,-0.0041099411153885,0.0447066884760059
+2219762053,Mirroring metadata in a continuous data protection environment,2012,35,93,4,1.0,2165748857,Saar Cohen,0,-0.5578494490994759,0.4579783608187313
+2239288557,Continuous data protection using deduplication-based storage,2013,141,69,2,1.0,2160575566,Jehuda Shemer,0,-0.2988933427596491,0.1113502912689505
+2263472637,Replicating selected snapshots from one storage array to another with minimal data transmission,2011,11,92,1,1.0,2318752249,Assaf Natanzon,0,-0.4050937180174829,-0.31118494550695536
+2248498768,Extent commands in replication,2011,8,75,5,0.0,1960942082,David Meiri,0,-0.0041099411153885,0.0447066884760059
+2248793690,Methods and apparatus for continuous data protection system having journal compression,2007,7,41,2,0.0,1979529738,Shlomo Ahal,0,-0.34857978327751216,-0.2513987233039086
+2242109770,Accessing a volume in a distributed environment,2010,69,88,3,0.0,2110798250,Yuval Aharoni,0,-0.0041099411153885,0.0447066884760059
+2297358885,Replication optimizated IO,2011,9,63,1,1.0,2318752249,Assaf Natanzon,0,0.009891650277975969,-0.3149920708400404
+2290436839,Sharing encryption-related metadata between a host and an external intermediate device,2013,5,63,6,0.666667,2067534200,Michael E. Bappe,0,0.006458007362284635,-0.21300204419876242
+2301506552,Replication of a virtual distributed volume with virtual machine granualarity,2014,159,60,3,0.0,363229859,Bradford B. Glade,0,-0.34857978327751216,-0.2513987233039086
+2401056441,Multi source wire deduplication,2010,9,93,1,1.0,2318752249,Assaf Natanzon,0,-0.10181520141965575,0.4407775044453373
+2411175221,Synchronous replication of virtualized storage processors,2013,19,70,3,0.0,2167618561,Jean Pierre Bono,0,0.09560153568394734,0.34384522677555335
+2397704354,Read signature command,2011,3,71,4,1.0,2100624541,Leehod Baruch,0,-0.0041099411153885,0.0447066884760059
+2406264540,Testing integrity of replicated storage,2013,144,65,1,1.0,2318752249,Assaf Natanzon,0,-0.26111576430640643,-0.19302535071852145
+2398066456,Reading and writing to an unexposed device,2011,142,59,1,1.0,2318752249,Assaf Natanzon,0,-0.0041099411153885,0.0447066884760059
+2415286764,Replicating key-value pairs in a continuous data protection system,2012,2,74,4,1.0,2160575566,Jehuda Shemer,0,-0.5047296150441434,-0.12781701427400052
+2413551948,Securing data replication backup and mobility in cloud storage,2013,19,72,1,1.0,2318752249,Assaf Natanzon,0,0.495671838577127,0.15424746035077244
+2419281242,Sharing encryption-related metadata between multiple layers in a storage I/O stack,2010,3,92,6,0.666667,2067534200,Michael E. Bappe,0,-0.0041099411153885,0.0447066884760059
+2481350634,Scaleout replication of an application,2012,95,57,2,1.0,2165748857,Saar Cohen,0,-0.0041099411153885,0.0447066884760059
+2509296908,Journal tiering in a continuous data protection system using deduplication-based storage,2013,187,54,2,1.0,2160575566,Jehuda Shemer,0,-0.10181520141965575,0.4407775044453373
+2529522011,Virtual point in time access between snapshots,2016,13,29,1,1.0,2318752249,Assaf Natanzon,0,-0.025091263901040124,-0.28412349516843066
+2626874174,Providing data protection using point-in-time images from multiple types of storage devices,2014,191,48,3,1.0,2165748857,Saar Cohen,0,-0.26111576430640643,-0.19302535071852145
+2590692807,Xcopy in journal based replication,2011,3,50,1,1.0,2318752249,Assaf Natanzon,0,0.009891650277975969,-0.3149920708400404
+2625341165,Tiering data between two deduplication devices,2015,127,47,2,1.0,2293372617,Anestis Panidis,0,-0.2988933427596491,0.1113502912689505
+2625761796,Maintaining stored data consistency of a plurality of related virtual machines across a plurality of sites during migration,2017,13,10,4,0.0,2060024879,Mark J. Halstead,0,-0.060609016075530965,0.0993109707929003
+2589555191,Techniques for data relocation based on access patterns,2013,10,50,2,0.0,2122592117,Arieh Don,0,0.221423897897152,-0.21080654779612165
+2754113003,Replicating data using deduplication-based arrays using network-based replication,2013,198,13,1,1.0,2318752249,Assaf Natanzon,0,-0.24058399677891196,0.15026587299254193
+2845096050,Method and apparatus for managing a dynamic journal using the punch command,2011,11,2,1,1.0,2318752249,Assaf Natanzon,0,-0.0041099411153885,0.0447066884760059
+2923086135,Determining data to store in retention storage,2016,133,7,1,1.0,2318752249,Assaf Natanzon,0,-0.25660843606694195,0.3322365286223061
+2935356445,GUI-based application template for containerized application software development,2016,25,17,3,1.0,2160575566,Jehuda Shemer,0,-0.0041099411153885,0.0447066884760059
+2941949912,Independent parallel on demand recovery of data replicas in a storage system,2016,146,4,4,1.0,2100624541,Leehod Baruch,0,-0.1605085566598685,0.14930924450955077
+2959973728,Distributing journal data over multiple journals,2016,263,4,4,1.0,2100624541,Leehod Baruch,0,-0.0041099411153885,0.0447066884760059
+3003222234,METHODS AND SYSTEMS FOR SERVERLESS DATA DEDUPLICATION,2020,0,0,2,1.0,2165748857,Saar Cohen,0,-0.2921197147289372,0.21393076295607338

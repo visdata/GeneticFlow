@@ -1,0 +1,64 @@
+45165203,ORACLE SECUREILES - A Filesystem Architecture in Oracle Database Server,2008,0,0,2,1.0,2114328943,Niloy Mukherjee,0,0.5095081064924027,-0.5802528442839133
+330734379,Reducing sequence cache latch contention in a database system,2011,23,2,3,1.0,2114365877,Vineet Marwah,0,-0.0041099411153885,0.0447066884760059
+304770141,Database-driven distributed recovery,2005,7,12,2,0.886792,2161182939,Bipul Sinha,0,2.124224780114538,2.087772805395463
+976209640,HIERARCHICAL TABLESPACE SPACE MANAGEMENT,2013,10,9,2,1.0,2168109308,Sujatha Muthulingam,0,0.2709531305038886,0.1368291963637267
+977562327,Core in-memory space and object management architecture in a traditional rdbms supporting dw and oltp applications,2014,47,46,4,1.0,2095689551,Jesse Kamp,0,1.277781332334723,0.6298758026425009
+244212268,Framework to optimize delete all rows operations on database objects,2006,31,9,3,1.0,2114328943,Niloy Mukherjee,0,-0.2675153623621311,0.3084176500499475
+979414822,AUTOMATED INFORMATION LIFECYCLE MANAGEMENT USING LOW ACCESS PATTERNS,2013,70,14,5,0.0,1198357446,Prashant Gaharwar,0,2.6912936858072642,0.6898821928717367
+617430532,Mechanism to run OLTP workload on in-memory database under memory pressure,2014,37,34,5,0.9,2104232836,Sanket Hase,0,-0.11439915095041042,1.0291949161910936
+643870177,PREDICATE OFFLOAD OF LARGE OBJECTS,2013,36,0,3,1.0,2114365877,Vineet Marwah,0,-0.5185969663967471,-0.16458940506366102
+953043151,System and method for data de-duplication,2006,33,102,5,0.0,61862889,Bharath Aleti,0,-0.7274547205805867,2.326907122745528
+1540940336,Delta operations on a large object in a database,2007,8,24,1,1.0,2170949439,Amit Ganesh,0,-0.34857978327751216,-0.2513987233039086
+1516040265,Policy driven data placement and information lifecycle management,2013,63,20,5,0.0,1198357446,Prashant Gaharwar,0,2.4192235714529238,0.5042664525545777
+1027426036,***WITHDRAWN PATENT AS PER THE LATEST USPTO WITHDRAWN LIST***DDL and DML support for hybrid columnar compressed tables,2013,20,0,7,1.0,1183682828,Roger MacNicol,0,-0.0041099411153885,0.0447066884760059
+1527153993,Techniques for automatically tracking and archiving transactional data changes,2007,34,38,3,1.0,2134583005,Liang Guo,0,0.17486836032132194,0.3283190989346553
+1509841269,Oracle Database In-Memory A dual format in-memory database,2015,10,37,5,0.0,2015326076,Tirthankar Lahiri,0,1.3451266151201602,0.586287710636794
+1528880676,On-line transaction processing (OLTP) compression and re-compression of database data,2007,13,32,2,1.0,2114365877,Vineet Marwah,0,1.641530967974413,1.4676622704682576
+1565481220,Method and mechanism for rolling back a transaction on a row of data,2003,75,52,4,1.0,2084030175,Kenneth R. Jacobs,0,1.6911453315434588,1.5548301801491347
+1494502356,Method and mechanism for implementing in-memory transaction logging records,2002,26,74,4,0.0,2102726445,S. Vemuri,0,1.4284396881385157,1.6582755073092672
+1566975286,System and method for data encryption,2006,33,93,3,0.0,61862889,Bharath Aleti,0,-0.0041099411153885,0.0447066884760059
+1558107303,Techniques for time-based retention of a reusable resource,2001,4,47,1,1.0,2170949439,Amit Ganesh,0,-0.0041099411153885,0.0447066884760059
+1903547172,Concurrency control for transactions that update base tables of a materialized view using different types of locks,1999,14,55,2,0.0,2148799853,Andrew Witkowski,0,1.8214456756947346,1.0284148361452792
+1630886745,Method and apparatus for determing whether a transaction can use a version of a data item,1998,11,48,2,0.0,1553927293,Gary C. Ngai,0,1.9942942237562822,2.0975805224032196
+1956543619,Guaranteed undo retention,2004,16,14,3,0.0,2141325682,Wanli Yang,0,-0.17244133864042968,-0.305030520451871
+1755897767,SYSTEM AND METHOD FOR PROVIDING FINE-GRAINED TEMPORAL DATABASE ACCESS,2001,18,120,1,1.0,2170949439,Amit Ganesh,0,1.8241356903336627,1.8492508677687698
+1936054286,Method and mechanism for identifying transaction on a row of data,2006,79,28,4,1.0,2084030175,Kenneth R. Jacobs,0,2.0773158987563054,2.0110561225760057
+1771214705,Techniques For Automatic Data Placement With Compression And Columnar Storage,2012,12,50,3,1.0,1977314037,Vikram Kapoor,0,-0.35705814208602815,-0.0075244803468640375
+1948077794,Online recovery of user tables using flashback table,2009,83,23,1,1.0,2170949439,Amit Ganesh,0,-0.2602077881279772,0.383951590293224
+1965282686,Oracle database filesystem,2011,2,11,3,0.0,2760833066,Krishna Kunchithapadam,0,0.5162391153093584,1.0334157568935523
+2027592928,Logging last resource optimization for distributed transactions in Oracle WebLogic server,2010,7,8,3,0.0,1911906271,Adam Messinger,0,0.9410470103375492,1.037948611835676
+2035090900,Oracle SecureFiles System,2008,9,9,3,1.0,2114328943,Niloy Mukherjee,0,0.7117196223335912,0.49643909692512345
+2045001722,Oracle SecureFiles prepared for the digital deluge,2009,6,1,2,1.0,2114328943,Niloy Mukherjee,0,0.31533860018115334,0.5364482429033073
+2098693674,Cross-platform transportable database,2004,71,18,7,0.0,2051829458,Alok Pareek,0,1.5144280234045282,0.44604423565443774
+2126483090,Method and apparatus for making available data that was locked by a dead transaction before rolling back the entire dead transaction,2003,44,74,2,0.0,1592102153,Dieter Gawlick,0,0.7773074909099718,0.9410422294571301
+2157422963,Fast-Start quick fault recovery in oracle,2001,9,35,2,0.0,2015326076,Tirthankar Lahiri,0,0.30786969991523694,0.09025751295727838
+2152460571,Method and mechanism for batch processing transaction logging records,2002,50,75,4,0.0,2102726445,S. Vemuri,0,0.6079284603456682,1.0062388940778315
+2219721935,Proactive space allocation in a database system,2007,5,14,3,0.96,2114328943,Niloy Mukherjee,0,-0.17244133864042968,-0.305030520451871
+2271960239,Method and system for log structured relational database objects,2005,43,26,2,1.0,2114328943,Niloy Mukherjee,0,0.20200668047571568,0.3255452408608126
+2272130897,Dynamic partitioning of a reusable resource,2001,13,40,4,0.0,2044772478,Gary Ngai,0,-0.0041099411153885,0.0447066884760059
+2202420420,Maintaining global state of distributed transaction managed by an external transaction manager for clustered database systems,2007,62,29,2,1.0,2161182939,Bipul Sinha,0,2.596729380504355,2.579784881557769
+2190726046,Online index builds and rebuilds without blocking locks,2007,12,18,5,1.0,287107558,Krishna Kunchithapadam,0,0.08068647028166813,0.15805458568385752
+2214046847,Framework to optimize delete all row operations on database objects to improve throughput query ability and flashback,2006,31,1,3,1.0,2114328943,Niloy Mukherjee,0,-0.2675153623621311,0.3084176500499475
+2215286817,Apparatus to selectively remove the effects of transactions in online database and enable logical recovery,2007,10,18,2,1.0,2161182939,Bipul Sinha,0,1.355493114638145,1.162191092042462
+2241481597,Performing 2-phase commit with presumed prepare,1998,14,35,1,1.0,2170949439,Amit Ganesh,0,2.176330794642251,2.3032999386981796
+2274995479,Multi-version concurrency control on in-memory snapshot store of oracle in-memory database,2014,34,40,5,0.9,2104232836,Sanket Hase,0,-1.0903483640371676,1.264999044947113
+2261320803,Querying past versions of data in a distributed database,2004,65,46,2,1.0,2161182939,Bipul Sinha,0,2.0603713295755366,0.47151234627798533
+2199753472,Method and mechanism of accessing segments in data storage systems,2003,48,9,2,1.0,2145821870,Jonathan Klein,0,-0.0041099411153885,0.0447066884760059
+2279839132,Automatic tuning of undo retention,2004,42,11,1,1.0,2170949439,Amit Ganesh,0,-0.0041099411153885,0.0447066884760059
+2280006628,Providing the timing of the last committed change to a row in a database table,2004,24,25,2,1.0,2161182939,Bipul Sinha,0,0.23166294633758416,0.5251175888972973
+2298649252,Mirroring in memory data from disk to improve query performance,2014,52,50,10,1.0,287107558,Krishna Kunchithapadam,0,-1.1885457487077562,0.5424273908569676
+2280856101,Asynchronously storing transaction information from memory to a persistent storage,2003,15,26,3,0.0,2130498528,Lakshminarayanan Chidambaran,0,2.600996434348069,2.5777993915212623
+2277483488,FAILOVER AND RESUME WHEN USING ORDERED SEQUENCES IN A MULTI-INSTANCE DATABASE ENVIRONMENT,2011,28,3,4,1.0,2114365877,Vineet Marwah,0,-0.16631702982264118,-0.2768617612801479
+2289820032,Tracking row and object database activity into block level heatmaps,2013,22,17,3,1.0,2114365877,Vineet Marwah,0,-0.26111576430640643,-0.19302535071852145
+2317744964,Techniques for lifecycle state management and in-database archiving,2013,61,6,2,1.0,2134583005,Liang Guo,0,-0.0041099411153885,0.0447066884760059
+2309238415,Method to accelerate queries using dynamically generated alternate data formats in flash cache,2014,54,16,5,1.0,1183682828,Roger MacNicol,0,-0.0041099411153885,0.0447066884760059
+2311206944,Techniques for activity tracking data classification and in database archiving,2013,64,21,2,1.0,2134583005,Liang Guo,0,0.541048792242954,0.14109191976847427
+2399016588,In-memory space management for database systems,2007,12,17,3,0.96,2114328943,Niloy Mukherjee,0,1.7032272332573242,1.4928291449042725
+2402202033,Providing a useable version of a data item,2002,16,23,2,0.0,2102726445,S. Vemuri,0,0.7773074909099718,0.9410422294571301
+2412787953,Coordinating a distributed transaction between participants unable to follow a two-phase commit,2000,16,5,2,0.0,1990711281,Debashis Saha,0,2.574133484089512,2.6139371866675583
+2559157827,LOADING AND RELOADING AN IN-MEMORY COPY OF A DATABASE OBJECT WITHOUT BLOCKING CONCURRENT UPDATES TO THE DATABASE OBJECT,2016,63,5,4,0.9,2104232836,Sanket Hase,0,-0.06371578470125933,0.5055003940076803
+2609832104,SCAN SERVER FOR DUAL-FORMAT DATABASE,2017,4,0,3,0.890891,2114365877,Vineet Marwah,0,-0.0041099411153885,0.0447066884760059
+2613654440,Selective data compression for in-memory databases,2018,172,5,2,0.84308,2114365877,Vineet Marwah,0,-0.17244133864042968,-0.305030520451871
+2621348804,Konsistente lesevorgÃ¤nge in einer verteilten datenbankumgebung Consistent read operations in a distributed database environment,2002,0,0,2,0.0,2016451413,Roger J. Bamford,0,0.0835119396817451,0.051530138659233005
+2596913048,System und verfahren fÃ¼r den feinkÃ¶rnigen zeitlichen zugriff auf eine datenbank System and method for fine-grained access time to a database,2001,0,0,1,1.0,2170949439,Amit Ganesh,0,-0.0041099411153885,0.0447066884760059
+2923771205,Consistent read operations in a distributed database environment,2002,0,0,1,1.0,2170949439,Amit Ganesh,0,0.0835119396817451,0.051530138659233005

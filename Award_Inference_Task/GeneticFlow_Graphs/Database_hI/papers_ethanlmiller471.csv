@@ -1,0 +1,34 @@
+159945204,LiFS An Attribute-Rich File System for Storage Class Memories,2006,23,31,5,0.666667,251667281,Kevin M. Greenan,0,-0.170162741969766,0.418846739741021
+131145011,Long-term unix file system activity and the efficacy of automatic file migration,1998,0,7,2,0.0,2165845073,Timothy J. Gibson,0,-0.6629045633799768,2.308591212208578
+148271226,Spyglass fast scalable metadata search for large-scale storage systems,2009,44,118,5,1.0,2148491509,Andrew W. Leung,0,-0.2250774890375518,-0.5875529415402286
+97853359,Intra-file Security for a Distributed File System,2002,12,10,3,0.0,1242059559,Scott A. Banachowski,0,-0.8492562181823897,2.510762303438818
+1540891191,METHOD FOR REMOVING DUPLICATE DATA FROM A STORAGE ARRAY,2011,25,121,4,1.0,2036165481,John Hayes,0,-0.10181520141965575,0.4407775044453373
+1526843360,Pergamum replacing tape with energy efficient reliable disk-based archival storage,2008,40,167,3,1.0,2036152269,Mark W. Storer,0,-0.5161579771914827,-0.2053261890480712
+1574305441,Performance Measurements of Tertiary Storage Devices,1998,34,56,2,0.0,2168523976,Theodore Johnson,0,0.31253927691362554,0.2188832637862273
+1521927623,Benchmarking Tape System Performance,1998,26,14,1,1.0,2168190067,Ethan L. Miller,0,0.517692263759773,0.14548367401444068
+1591049255,Percival A searchable secret-split datastore,2015,39,2,5,0.0,2223325660,Joel C. Frank,0,-0.0041099411153885,0.0447066884760059
+1869691305,Method for maintaining multiple fingerprint tables in a deduplicating storage system,2013,205,81,4,1.0,2036165481,John Hayes,0,-0.0041099411153885,0.0447066884760059
+1972234887,Dynamic Metadata Management for Petabyte-Scale File Systems,2004,25,199,4,0.0,2101223998,Sage A. Weil,0,-0.04007825023860484,-0.4632312038091704
+1999778483,Semantic data placement for power management in archival storage,2010,21,21,2,1.0,1988229724,Avani Wildani,0,-0.6991028342817436,1.0748888250911148
+2009191935,Secure data deduplication,2008,36,292,4,1.0,2036152269,Mark W. Storer,0,-0.0493822474032156,0.45889331028487046
+1995735274,Purity Building Fast Highly-Available Enterprise Flash Storage from Commodity Components,2015,52,27,4,0.0,2282793750,John Colgrove,0,-0.028904718698115426,0.263806101937403
+2029433591,HANDS A heuristically arranged non-backup in-line deduplication system,2013,28,39,2,0.818182,1988229724,Avani Wildani,0,-0.10181520141965575,0.4407775044453373
+2035933850,An Economic Perspective of Disk vs Flash Media in Archival Storage,2014,12,10,3,0.0,2479221768,Preeti Gupta,0,0.3824181033984316,-0.19164309016985745
+2068227173,Understanding data survivability in archival storage systems,2012,27,8,2,0.0,2584028162,Yan Li,0,0.050099120602309706,0.056537064345260436
+2071804293,Single-Snapshot File System Analysis,2013,8,2,3,0.818182,1988229724,Avani Wildani,0,-0.41710559369717704,0.20209154801731968
+2061819761,High-performance metadata indexing and search in petascale data storage systems,2008,9,12,4,0.0,2094263872,Shankar Pasupathy,0,-0.2309181773496233,-0.14725569338674155
+2099459635,Efficiently identifying working sets in block I/O streams,2011,30,11,2,1.0,1988229724,Avani Wildani,0,-0.0041099411153885,0.0447066884760059
+2117339850,File System Workload Analysis For Large Scale Scientific Com puting Applications,2004,10,143,1,1.0,2168190067,Ethan L. Miller,0,-0.8189270373622618,2.820552852550228
+2118078700,Garbage collection in a storage system,2013,67,268,4,1.0,2036165481,John Hayes,0,-0.0041099411153885,0.0447066884760059
+2118285022,Toward Scalable Benchmarks for Mass Storage Systems,1996,7,2,1,1.0,2168190067,Ethan L. Miller,0,-0.029324448480630455,0.3140891281664162
+2136290892,Managing databases with binary large objects,1999,11,36,2,0.0,2567401134,M. Shapiro,0,1.2774835185469011,0.603154547998136
+2116079991,Richer file system metadata using links and attributes,2005,26,60,4,0.0,2153862593,A. Ames,0,-0.6210384942200476,1.4579791362120271
+2134181838,Security Aware Partitioning for efficient file system search,2010,21,15,3,0.0,2294825112,Aleatha Parker Wood,0,-0.3339471068286854,0.12511701630126046
+2125788329,Measurement and analysis of large-scale network file system workloads,2008,26,211,4,1.0,2148491509,Andrew W. Leung,0,-0.9215361270470863,2.7225279205404376
+2162329894,Using content-derived names for configuration management,1997,7,33,2,0.0,347047298,Jeffrey K. Hollingsworth,0,-0.26897702070362733,-0.05781000084597745
+2164448967,Efficient metadata management in large distributed storage systems,2003,15,136,2,0.0,2581968944,Scott A. Brandt,0,-0.5866243293194506,0.15208339213564467
+2405774495,Tracking Emigrant Data via Transient Provenance,2011,15,14,3,0.0,2489887056,Stephanie N. Jones,0,-0.0041099411153885,0.0447066884760059
+2406011500,Secure data replication in a storage grid,2015,71,1,2,1.0,2036165481,John Hayes,0,0.36136228813678184,-0.19873603871814904
+2480206627,Replication to the cloud,2014,137,10,1,1.0,2168190067,Ethan L. Miller,0,-0.0041099411153885,0.0447066884760059
+2461942135,Dynamic Non-Hierarchical File Systems for Exascale Storage,2015,0,0,1,1.0,2168190067,Ethan L. Miller,0,-0.5491686964187291,1.5856402308696596
+2598781435,Preventing duplicate entries of identical data in a storage device,2015,112,0,2,0.0,2095589799,Ronald S. Karr,0,-0.0041099411153885,0.0447066884760059

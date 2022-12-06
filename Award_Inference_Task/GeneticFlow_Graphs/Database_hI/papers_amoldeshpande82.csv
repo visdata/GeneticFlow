@@ -1,0 +1,92 @@
+144595735,Proceedings of the 4th workshop on Data management for sensor networks in conjunction with 33rd International Conference on Very Large Data Bases,2007,0,0,1,1.0,2002742946,Amol Deshpande,0,0.16284343990055242,0.0030600174998074354
+297231882,Principles of dataset versioning exploring the recreation/storage tradeoff,2015,27,40,4,1.0,1983813650,Souvik Bhattacherjee,0,0.3832384073378745,-0.1281915975279837
+1161092233,Vertexica your relational friend for graph analytics ,2014,5,29,2,0.0,1998938290,Michael Stonebraker,0,0.38632121652839624,0.058193535481373765
+1546425802,CrowdGather Entity Extraction over Structured Domains,2015,36,3,2,0.545455,2039245452,Theodoros Rekatsinas,0,0.12424614129589735,0.2013339979237733
+1486557797,IrisNet an architecture for internet-scale sensing services,2003,8,27,2,0.0,2120595703,Suman Nath,0,-0.0041099411153885,0.0447066884760059
+1557964602,PrDB Managing Large-Scale Correlated Probabilistic Databases (Abstract),2009,4,4,1,1.0,2002742946,Amol Deshpande,0,1.582253848769094,0.1276476190304639
+1684311429,Adaptive Query Processing Technology in Evolution,2000,40,215,4,0.0,2063640528,Joseph M. Hellerstein,0,0.014532710543751099,0.030944858938630852
+1963853643,PrDB managing and exploiting rich correlations in probabilistic databases,2009,50,106,2,1.0,2109537329,Prithviraj Sen,0,1.314426973612595,0.18651963492077006
+1658167903,Adaptive query processing why how when what next ,2007,1,12,2,0.0,53579654,Zachary G. Ives,0,0.0908845357243609,0.31128747720343375
+1950783232,Data Placement and Replica Selection for Improving Co-location in Distributed Environments,2013,47,31,2,0.875,2116522345,K. Ashwin Kumar,0,0.3686113100235548,0.04124157879024255
+1900092470,On Sharing Private Data with Multiple Non-Colluding Adversaries,2013,22,0,2,0.8,2039245452,Theodoros Rekatsinas,0,0.34615462734845065,0.09958495372641375
+1980307891,PStore an efficient storage framework for managing scientific data,2014,25,6,2,1.0,1983813650,Souvik Bhattacherjee,0,0.3939926916637398,-0.04126723396310704
+1977138429,Increasing representational power and scaling reasoning in probabilistic databases,2010,13,0,1,1.0,2002742946,Amol Deshpande,0,1.9339273801983707,0.2038777268954908
+1984922849,SPARSI partitioning sensitive data amongst multiple adversaries,2013,28,11,1,1.0,2002742946,Amol Deshpande,0,0.34615462734845065,0.09958495372641375
+2005142245,Adaptive query processing why how when what next,2006,1,9,1,1.0,2002742946,Amol Deshpande,0,0.0908845357243609,0.31128747720343375
+1991309516,IrisNet Internet-scale resource-intensive sensor services,2003,1,10,1,1.0,2002742946,Amol Deshpande,0,0.0012093293194426664,-0.32270967670218736
+2000081322,Flow Algorithms for Parallel Query Optimization,2008,30,28,1,1.0,2002742946,Amol Deshpande,0,0.17986028747110158,0.09116190733551784
+2001112169,GRDB a system for declarative and interactive analysis of noisy information networks,2013,12,3,3,1.0,2226147846,Walaa Eldin Moustafa,0,0.056626613313110905,0.2771293854319399
+2010801412,TelegraphCQ continuous dataflow processing,2003,2,600,3,0.459459,2505260344,Sirish Chandrasekaran,0,0.08529655267728986,-0.8592521790247165
+2042042812,Subgraph pattern matching over uncertain graphs with identity linkage uncertainty,2014,36,25,3,1.0,2226147846,Walaa Eldin Moustafa,0,-0.0041099411153885,0.0447066884760059
+2041358936,Ef cient Query Evaluation over Temporally Correlated Probabilistic Streams,2009,25,33,2,1.0,311418139,Bhargav Kanagal,0,1.3003433741998773,0.14164616106407915
+2046697115,Hone Scaling down Hadoop on shared-memory systems,2013,13,13,3,0.875,2116522345,K. Ashwin Kumar,0,-0.0041099411153885,0.0447066884760059
+2064787378,HiNGE enabling temporal network analytics at scale,2013,7,4,2,0.777778,1634039761,Udayan Khurana,0,-0.0041099411153885,0.0447066884760059
+2078210269,Efficient snapshot retrieval over historical graph data,2013,28,97,2,0.777778,1634039761,Udayan Khurana,0,-0.321213930696059,-0.05445625335362275
+2089526311,EAGr supporting continuous ego-centric aggregate queries over large dynamic graphs,2014,35,23,2,1.0,1823350408,Jayanta Mondal,0,-0.5968873548230978,0.13330429838371508
+2097995023,Model-driven data acquisition in sensor networks,2004,24,993,1,1.0,2002742946,Amol Deshpande,0,-0.0041099411153885,0.0447066884760059
+2079891094,Sharing-aware horizontal partitioning for exploiting correlations during query processing,2010,18,8,2,0.3,2061716913,Kostas Tzoumas,0,0.014532710543751099,0.030944858938630852
+2089059416,Efficiently adapting graphical models for selectivity estimation,2013,39,19,2,0.3,2061716913,Kostas Tzoumas,0,0.8809340701863815,0.11633144593696097
+2120342618,A unified approach to ranking in probabilistic databases,2009,60,140,3,1.0,2967322607,Jian Li,0,-0.0041099411153885,0.0447066884760059
+2126333155,Exploiting correlated attributes in acquisitional query processing,2005,20,117,1,1.0,2002742946,Amol Deshpande,0,0.014532710543751099,0.030944858938630852
+2120415542,Lifting the burden of history from adaptive query processing,2004,19,81,1,1.0,2002742946,Amol Deshpande,0,0.014532710543751099,0.030944858938630852
+2126422268,An initial study of overheads of eddies,2004,12,44,1,1.0,2002742946,Amol Deshpande,0,0.5337829775532166,0.1139031697212681
+2126630402,Report on the Fourth International Workshop on Data Management for Sensor Networks (DMSN 2007),2007,0,0,2,0.0,2345141441,Magdalena Balazinska,0,-0.4377653149743701,-0.7161198344083345
+2120825705,Representing and Querying Correlated Tuples in Probabilistic Databases,2007,39,228,2,1.0,2109537329,Prithviraj Sen,0,1.2475874330982157,0.3137288927061078
+2120858255,Declarative analysis of noisy information networks,2011,36,16,3,1.0,2226147846,Walaa Eldin Moustafa,0,0.16312970328514373,0.16928583508480743
+2112056262,Independence is good dependency-based histogram synopses for high-dimensional data,2001,18,131,1,1.0,2002742946,Amol Deshpande,0,0.014532710543751099,0.030944858938630852
+2109067452,Using Probabilistic Models for Data Management in Acquisitional Environments,2005,55,103,1,1.0,2002742946,Amol Deshpande,0,0.18601297105691045,-0.0008472885667257998
+2112070477,Indexing correlated probabilistic databases,2009,36,37,2,1.0,311418139,Bhargav Kanagal,0,0.6612979331186901,-0.04629224006153215
+2118178019,Online Filtering Smoothing and Probabilistic Modeling of Streaming data,2008,44,129,2,1.0,311418139,Bhargav Kanagal,0,1.253244671416102,0.20698824182140133
+2118370002,Sensitivity analysis and explanations for robust query evaluation in probabilistic databases,2011,40,48,3,1.0,311418139,Bhargav Kanagal,0,1.2263364916276778,0.28217204062351325
+2130204178,DataHub Collaborative Data Science &amp; Dataset Version Management at Scale,2015,21,63,2,1.0,1983813650,Souvik Bhattacherjee,0,0.5506564067727144,0.002893951659756998
+2124647958,Read-once functions and query evaluation in probabilistic databases,2010,27,49,2,0.833333,2109537329,Prithviraj Sen,0,0.651786865585849,0.33869901878142344
+2109912197,Local structure and determinism in probabilistic databases,2012,43,8,2,0.8,2039245452,Theodoros Rekatsinas,0,0.2807600744873719,-0.0746967125258062
+2130617154,SWORD scalable workload-aware data placement for transactional workloads,2013,23,81,3,0.931035,2291462728,Abdul Quamar,0,1.7849059728237768,1.3463764419779674
+2119095788,Representing Tuple and Attribute Uncertainty in Probabilistic Databases,2007,25,26,2,1.0,2109537329,Prithviraj Sen,0,1.582253848769094,0.1276476190304639
+2128230033,Consensus answers for queries over probabilistic databases,2009,45,37,2,1.0,2967322607,Jian Li,0,1.9339273801983707,0.2038777268954908
+2137070017,Network-Aware Join Processing in Global-Scale Database Federations,2008,40,15,4,0.0,2307136029,Xiaodan Wang,0,0.8771113148730372,-0.6694805488481194
+2107617638,Minimizing Communication Cost in Distributed Multi-query Processing,2009,37,29,2,1.0,2967322607,Jian Li,0,0.06673308052212697,0.04008110223990727
+2116832440,MauveDB supporting model-based user views in database systems,2006,33,186,1,1.0,2002742946,Amol Deshpande,0,0.9227706397058422,0.06981492262939241
+2140749167,Decoupled query optimization for federated database systems,2002,51,38,1,1.0,2002742946,Amol Deshpande,0,0.9380750371735017,0.2860338651420589
+2114242687,Exploiting shared correlations in probabilistic databases,2008,27,79,2,1.0,2109537329,Prithviraj Sen,0,0.9780322485821465,0.17254251765702447
+2162228985,TelegraphCQ An Architectural Status Report,2003,10,84,4,0.0,2134726333,Sailesh Krishnamurthy,0,0.5187364890464197,0.28084580805634524
+2168389951,SWORD workload-aware data placement and replica selection for cloud data management systems,2014,43,41,3,0.875,2116522345,K. Ashwin Kumar,0,1.7086677237438543,1.5240605908768297
+2165607011,Ego-centric Graph Pattern Census,2012,45,7,2,1.0,2226147846,Walaa Eldin Moustafa,0,0.044859856903840555,0.012551371775477651
+2168720188,Approximate Data Collection in Sensor Networks using Probabilistic Models,2006,29,421,2,0.0,2118489930,David Chu,0,-0.0041099411153885,0.0447066884760059
+2160276892,Managing large dynamic graphs efficiently,2012,40,74,2,1.0,1823350408,Jayanta Mondal,0,-0.002595688985676562,0.08111705116071498
+2161123625,Lineage processing over correlated probabilistic databases,2010,31,28,2,1.0,311418139,Bhargav Kanagal,0,1.2294994773654588,0.18274971995737524
+2164331768,Probabilistic graphical models and their role in databases,2007,24,13,1,1.0,2002742946,Amol Deshpande,0,0.7613715174607089,0.6910664383660438
+2161569281,TelegraphCQ Continuous Dataflow Processing for an Uncertain World,2003,44,1065,3,0.459459,2505260344,Sirish Chandrasekaran,0,-0.03990874100610224,-0.19030993128025134
+2155846054,Cache-and-query for wide area sensor databases,2003,31,128,1,1.0,2002742946,Amol Deshpande,0,0.9213596166401758,-0.035801181983167354
+2146838049,NScale neighborhood-centric large-scale graph analytics in the cloud,2016,47,32,2,1.0,2291462728,Abdul Quamar,0,-0.0041099411153885,0.0447066884760059
+2171147420,Using state modules for adaptive query processing,2003,42,116,2,0.0,2112167796,Vijayshankar Raman,0,-0.3015641978542666,0.05725393901911783
+2262682425,GraphGen exploring interesting graphs in relational data,2015,9,15,3,1.0,2443182633,Konstantinos Xirogiannopoulos,0,0.5325669973310596,0.09709227568458595
+2260378577,Collaborative data analytics with DataHub,2015,10,26,2,0.0,2158820271,Anant Bhardwaj,0,-0.01331521138473075,0.17670384109426496
+2265090272,NScale neighborhood-centric analytics on large graphs,2014,6,19,2,1.0,2291462728,Abdul Quamar,0,-0.0041099411153885,0.0447066884760059
+2293237761,Optimization Techniques for &quot;Scaling Down&quot; Hadoop on Multi-Core Shared-Memory Systems,2014,23,6,1,1.0,2002742946,Amol Deshpande,0,-0.0041099411153885,0.0447066884760059
+2290003527,Storing and Analyzing Historical Graph Data at Scale,2015,35,11,2,0.777778,1634039761,Udayan Khurana,0,-0.04869854846120116,-0.1441506556821668
+2395358760,Decibel the relational dataset branching system,2016,32,21,6,0.0,2639710956,Michael Maddox,0,0.18601297105691045,-0.0008472885667257998
+2434302234,Big Graph Analytics Systems,2016,12,19,4,0.0,2146437384,Da Yan,0,-0.0041099411153885,0.0447066884760059
+2509555177,NScaleSpark subgraph-centric graph analytics on Apache Spark,2016,22,2,2,1.0,2291462728,Abdul Quamar,0,-0.0041099411153885,0.0447066884760059
+2538578671,ProvDB A System for Lifecycle Management of Collaborative Analysis Workflows,2016,29,3,3,1.0,2225773943,Hui Miao,0,-0.5108927503274784,0.21251169511707801
+2556607581,ModelHub Towards Unified Data and Lifecycle Management for Deep Learning,2016,21,7,4,1.0,2225773943,Hui Miao,0,0.15528519901229684,-0.007099507352834066
+2580647187,Extracting and Analyzing Hidden Graphs from Relational Databases,2017,57,12,2,1.0,2443182633,Konstantinos Xirogiannopoulos,0,-0.0041099411153885,0.0447066884760059
+2613577915,DEX Query Execution in a Delta-based Storage System,2017,48,6,2,1.0,2142060324,Amit Chavan,0,0.014532710543751099,0.030944858938630852
+2614986686,Towards Unified Data and Lifecycle Management for Deep Learning,2017,33,33,4,1.0,2225773943,Hui Miao,0,0.13532043936948351,0.0326262322282066
+2616121800,ModelHub Deep Learning Lifecycle Management,2017,10,13,4,1.0,2225773943,Hui Miao,0,-0.34857978327751216,-0.2513987233039086
+2616738830,Parallel SPARQL Query Optimization,2017,40,2,4,0.0,2096452023,Buwen Wu,0,-0.1680521262453555,0.0761607663510052
+2621934124,GraphGen Adaptive Graph Processing using Relational Databases,2017,18,9,3,1.0,2443182633,Konstantinos Xirogiannopoulos,0,0.3941657208012432,0.23457887791901524
+2612758631,ProvDB Lifecycle Management of Collaborative Analysis Workflows,2017,24,10,3,1.0,2225773943,Hui Miao,0,-0.5108927503274784,0.21251169511707801
+2757201586,RStore efficient multiversion document management in the cloud,2017,5,1,2,0.833333,1983813650,Souvik Bhattacherjee,0,0.640571419082799,-0.20431125931436261
+2794554366,RStore A Distributed Multi-version Document Store,2018,0,1,2,0.833333,1983813650,Souvik Bhattacherjee,0,-0.26111576430640643,-0.19302535071852145
+2788663974,Managing and Querying Multi-versioned Documents using a Distributed Key-Value Store,2018,32,0,2,0.833333,1983813650,Souvik Bhattacherjee,0,-0.0626700727439803,-0.10662111689404923
+2806002160,In situ graph querying and analytics with graphgen extended abstract,2018,4,0,1,1.0,2002742946,Amol Deshpande,0,-1.019962986368436,-0.004446582242998931
+2795247714,Storing and Querying Versioned Documents in the Cloud,2018,0,0,2,0.833333,1983813650,Souvik Bhattacherjee,0,-0.0041099411153885,0.0447066884760059
+2929793114,ProvDB Provenance-enabled Lifecycle Management of Collaborative Data Analysis Workflows,2018,0,2,2,1.0,2225773943,Hui Miao,0,0.2946713761785912,0.4027268098681643
+2951968982,Towards a unified query language for provenance and versioning,2015,15,6,3,1.0,2142060324,Amit Chavan,0,0.5876723081467652,0.9783565114464191
+2952121399,A Unified Approach to Ranking in Probabilistic Databases,2009,54,8,3,1.0,2967322607,Jian Li,0,-0.0041099411153885,0.0447066884760059
+2950274370,Consensus Answers for Queries over Probabilistic Databases,2008,24,0,2,1.0,2967322607,Jian Li,0,1.9339273801983707,0.2038777268954908
+2950879962,Principles of Dataset Versioning Exploring the Recreation/Storage Tradeoff,2015,20,0,4,1.0,1983813650,Souvik Bhattacherjee,0,0.3832384073378745,-0.1281915975279837
+2963960638,RStore A Distributed Multi-Version Document Store,2018,17,1,2,0.833333,1983813650,Souvik Bhattacherjee,0,-0.0626700727439803,-0.10662111689404923
+2996071144,The SIGMOD 2019 Research Track Reviewing System,2019,1,0,3,0.0,2024002627,Anastasia Ailamaki,0,-0.0041099411153885,0.0447066884760059
+1978933387,Model-based approximate querying in sensor networks,2005,49,118,1,1.0,2002742946,Amol Deshpande,0,0.03565810966282755,0.09825506972366725

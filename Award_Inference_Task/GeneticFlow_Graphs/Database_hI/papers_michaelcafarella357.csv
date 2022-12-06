@@ -1,0 +1,43 @@
+122707235,Structured Querying of Web Text Data A Technical Challenge,2007,0,55,1,1.0,2893888,Michael Cafarella,0,-0.0041099411153885,0.0447066884760059
+129956923,Extracting and Querying a Comprehensive Web Database,2009,22,46,1,1.0,2893888,Michael Cafarella,0,-1.7611186974896982,-1.5119579113440789
+147286453,Navigating Extracted Data with Schema Discovery,2007,19,27,1,1.0,2893888,Michael Cafarella,0,-0.15790942223081625,0.19842980462497117
+1963537333,How best to build web-scale data managers ,2009,6,0,1,1.0,2893888,Michael Cafarella,0,0.31735423203403873,0.41281574692576345
+1943691658,Ontology-driven information extraction with ontosyphon,2006,36,70,2,0.0,1899107019,Luke K. McDowell,0,-0.0041099411153885,0.0447066884760059
+2022865143,Manimal relational optimization for data-intensive programs,2010,12,48,1,1.0,2893888,Michael Cafarella,0,0.5297310884057089,0.1274009967227311
+2011318210,Machine Learning and Databases The Sound of Things to Come or a Cacophony of Hype ,2015,0,10,1,1.0,2893888,Michael Cafarella,0,-0.0041099411153885,0.0447066884760059
+2048282669,Automatic web spreadsheet data extraction,2013,22,53,2,0.0,2302085265,Zhe Chen,0,0.526425978627709,0.39986642939343353
+2039943839,BE a search engine for NLP research,2006,3,0,1,1.0,2893888,Michael Cafarella,0,-1.9837337352295394,-1.5375075039682153
+2057822303,Web data management,2011,14,3,1,1.0,2893888,Michael Cafarella,0,-1.8700620698565875,-1.9193934735182003
+2098516643,Senbazuru a prototype spreadsheet database management system,2013,10,25,5,0.0,2302085265,Zhe Chen,0,0.9194158743664864,0.16252905159434872
+2101610060,Data management projects at Google,2006,9,49,3,0.0,2136379990,Wilson C. Hsieh,0,0.4375394307763768,-0.1200688900833846
+2096454106,Sample-driven schema mapping,2012,28,53,2,0.0,2911526527,Li Qian,0,2.4325617472072842,-0.034722162778614986
+2132176208,An integrated development environment for faster feature engineering,2014,8,10,2,1.0,2414588085,Michael R. Anderson,0,-0.4197151661071337,-0.42589767901227754
+2140116426,Data integration for the relational web,2009,18,149,1,1.0,2893888,Michael Cafarella,0,-1.9623811138051908,-1.8224163118685748
+2140602286,Uncovering the Relational Web,2008,15,112,1,1.0,2893888,Michael Cafarella,0,-1.9661164893535326,-1.825834316999979
+2108223890,WebTables exploring the power of tables on the web,2008,36,469,1,1.0,2893888,Michael Cafarella,0,2.5699802533318326,-0.222719504044434
+2153889808,Automatic optimization for MapReduce programs,2011,21,162,2,0.0,2614248117,Eaman Jahani,0,0.18537278750661454,0.0493687658977161
+2166983036,Web-scale extraction of structured data,2009,22,62,1,1.0,2893888,Michael Cafarella,0,-1.0517774619734286,-1.1316121461458926
+2149420958,Structured querying of web text,2007,39,29,1,1.0,2893888,Michael Cafarella,0,-0.0014499414721988318,0.781329253576302
+2268628077,Mindtagger a demonstration of data labeling in knowledge base construction,2015,3,7,3,0.529412,2204681860,Jaeho Shin,0,-0.25303068768727033,1.1451245875182055
+2204875540,Visualization-aware sampling for very large databases,2016,42,44,2,1.0,2191808246,Yongjoo Park,0,0.43739842239757626,0.009947045888208002
+2395612565,Synthesizing Data Programs,2015,4,0,1,1.0,2893888,Michael Cafarella,0,0.17522486156015846,0.5576338870423264
+2406996511,Brainwash A Data System for Feature Engineering,2013,3,73,5,1.0,2414588085,Michael R. Anderson,0,0.11797670951183034,-0.24219977622393202
+2397139541,DBExplorer Exploratory search in databases,2016,23,6,2,0.0,2430702103,Manish Singh,0,0.5325669973310596,0.09709227568458595
+2397173492,Neighbor-sensitive hashing,2015,57,15,2,1.0,2191808246,Yongjoo Park,0,-0.0041099411153885,0.0447066884760059
+2438952228,HAWK Hardware support for unstructured log processing,2016,26,12,3,0.0,2673734754,Prateek Tandon,0,-0.0041099411153885,0.0447066884760059
+2440094130,Extracting Databases from Dark Data with DeepDive,2016,56,22,4,0.0,2776066402,Ce Zhang,0,0.4418981605628654,0.2346076426439084
+2430871355,A query system for social media signals,2016,11,2,4,1.0,2103214971,Dolan Antenucci,0,-0.8891065030052469,-0.8040926051980031
+2423993090,Input selection for fast feature engineering,2016,44,18,2,1.0,2414588085,Michael R. Anderson,0,-0.0041099411153885,0.0447066884760059
+2438459259,Dark Data Are we solving the right problems ,2016,0,4,1,1.0,2893888,Michael Cafarella,0,0.15931092164676272,0.8038216531517461
+2575233461,A declarative query processing system for nowcasting,2016,33,3,3,1.0,2103214971,Dolan Antenucci,0,0.24966349944732064,0.19405884588203173
+2613176450,Foofah A Programming-By-Example System for Synthesizing Data Transformation Programs,2017,12,6,3,0.0,2223525898,Zhongjun Jin,0,-1.6124322549788987,1.1410249509753254
+2604536700,Database Learning Toward a Database that Becomes Smarter Every Time,2017,88,27,3,0.8,2191808246,Yongjoo Park,0,0.7215975991611812,0.3052417628859806
+2612824201,Foofah Transforming Data By Example,2017,44,25,3,0.0,2223525898,Zhongjun Jin,0,-0.0041099411153885,0.0447066884760059
+2808184646,Physical Representation-Based Predicate Optimization for a Visual Analytics Database,2019,50,1,2,1.0,2414588085,Michael R. Anderson,0,0.11210363955329597,0.15828549885087784
+2889133671,Ten years of webtables,2018,0,11,1,1.0,2893888,Michael Cafarella,0,-0.0041099411153885,0.0447066884760059
+2897015042,CLX Towards verifiable PBE data transformation,2019,0,0,2,1.0,2792365483,Zhongjun Jin,0,-0.0041099411153885,0.0447066884760059
+2951904379,Automatic Optimization for MapReduce Programs,2011,18,0,2,0.0,2614248117,Eaman Jahani,0,0.18537278750661454,0.0493687658977161
+2950976821,Visualization-Aware Sampling for Very Large Databases,2015,37,4,2,1.0,2191808246,Yongjoo Park,0,0.43739842239757626,0.009947045888208002
+2970047034,Knowledge Graph Programming with a Human-in-the-Loop Preliminary Results,2019,21,0,4,0.0,2904885563,Yuze Lou,0,0.27273119079163616,-0.06209943317195157
+3011387886,Duoquest A Dual-Specification System for Expressive SQL Queries,2020,27,0,3,0.0,2807561208,Christopher Baik,0,0.5094676088739325,0.037442002436132854
+3013544688,Constructing Expressive Relational Queries with Dual-Specification Synthesis,2020,0,1,3,0.0,2807561208,Christopher Baik,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,64 @@
+192080404,A Status Report on XXL - a Software Infrastructure for Efficient Query Processing,2003,12,11,5,1.0,145325676,Michael Cammert,0,0.0908845357243609,0.31128747720343375
+170120046,A Probabilistic Index Structure for Querying Future Positions of Moving Objects,2013,26,1,3,0.666667,306167720,Philip Schmiegelt,0,0.3820908385543769,0.2117467783858426
+390566907,International Conference on Semantics of a Networked World Semantics of Sequence and Time Dependent Data (ICSNW06)-Dynamic Plan Migration for Snapshot-Equivalent Continuous Queries in Data Stream,2006,0,1,2,1.0,145325676,Michael Cammert,0,-0.26111576430640643,-0.19302535071852145
+1515641291,Techniques for Design and Implementation of Efficient Spatial Access Methods,1988,26,95,1,1.0,2151325580,Bernhard Seeger,0,-0.1232715727120712,0.2131450373911843
+1483146256,Temporal Aggregation over Data Streams Using Multiple Granularities,2002,28,51,4,0.0,2950269934,Donghui Zhang,0,-0.27465825007319333,0.14277618844842688
+1537514737,Reading a Set of Disk Pages,1993,8,31,1,1.0,2151325580,Bernhard Seeger,0,-0.0041099411153885,0.0447066884760059
+1530899458,Plug&amp;Join An easy-to-use Generic Algorithm for Efficiently Processing Equi and Non-Equi Joins,2000,32,8,2,1.0,2001811642,Jochen Van den Bercken,0,1.4464489500644004,-0.2990794745029313
+1844522501,Query Processing Techniques for Multiversion Access Methods,1996,19,34,2,1.0,2001811642,Jochen Van den Bercken,0,0.28503319628094487,0.2854037561717295
+1959750938,VAT A System for Visualizing Analyzing and Transforming Spatial Data in Science,2015,22,7,5,0.0,1914364076,Christian Authmann,0,0.24205710328546418,0.5812665841568029
+1607635451,XXL - A Library Approach to Supporting Efficient Implementations of Advanced Database Queries,2001,25,81,7,1.0,2001811642,Jochen Van den Bercken,0,2.132179401961119,0.48193450078117334
+1612034488,Dynamic plan migration for snapshot-equivalent continuous queries in data stream systems,2006,31,17,4,0.925926,2202402696,JÃ¼rgen KrÃ¤mer,0,-0.02711484247747825,-0.6249034668855982
+1858414509,Progressive merge join a generic and non-blocking sort-based join algorithm,2002,28,79,2,1.0,2943202708,Jens Peter Dittrich,0,1.2178502537449285,-1.5947337678562354
+1951249654,Die Arbeitsgruppe Datenbanksysteme an der Philipps-UniversitÃ¤t Marburg,2015,28,0,1,1.0,2151325580,Bernhard Seeger,0,-0.0041099411153885,0.0447066884760059
+1978515200,Reaktives Cloud Monitoring mit Complex Event Processing,2012,9,6,3,1.0,1902141551,Bastian HoÃŸbach,0,0.4169901767344631,-0.03181084648581779
+1974690209,Toward Simulation-Based Optimization in Data Stream Management Systems,2008,13,5,4,1.0,1967333186,Christoph Heinz,0,0.03565810966282755,0.09825506972366725
+1983465444,A concurrently updatable index structure for predicted paths of moving objects,2014,33,2,3,0.666667,306167720,Philip Schmiegelt,0,-0.0041099411153885,0.0447066884760059
+2007283689,Multi-disk B-trees,1991,19,47,1,1.0,2151325580,Bernhard Seeger,0,-0.0041099411153885,0.0447066884760059
+1991602848,A comparison of selectivity estimators for range queries on metric attributes,1999,13,48,3,1.0,2328601452,BjÃ¶rn Blohsfeld,0,-0.0041099411153885,0.0447066884760059
+1990080043,The bulk index join a generic approach to processing non-equijoins,1999,18,19,2,0.0,2573135758,J. van den Bercken,0,1.5599573828951723,-0.3539328500635996
+2004330545,An analysis of schedules for performing multi-page requests,1996,22,17,1,1.0,2151325580,Bernhard Seeger,0,0.014532710543751099,0.030944858938630852
+2022734059,On computing temporal aggregates with range predicates,2008,19,26,5,1.0,2776245557,Donghui Zhang,0,0.13061318165874305,0.1761393786485848
+2023538275,A class of R-tree histograms for spatial databases,2012,21,4,2,1.0,238619017,Daniar Achakeev,0,-0.0041099411153885,0.0447066884760059
+2016884906,Continuous queries on trajectories of moving objects,2012,27,8,2,0.6,306167720,Philip Schmiegelt,0,-0.0041099411153885,0.0447066884760059
+2049410874,Semantics and implementation of continuous sliding window queries over data streams,2009,61,139,2,0.86558,2202402696,JÃ¼rgen KrÃ¤mer,0,0.0017854808203376187,0.1550167073179625
+2047984902,The Buddy-Tree An Efficient and Robust Access Method for Spatial Data Base Systems,1990,23,172,1,1.0,2151325580,Bernhard Seeger,0,-0.2545772244726236,0.41489014338479535
+2055385473,An asymptotically optimal multiversion B-tree,1996,28,347,4,0.0,2104798602,Bruno Becker,0,0.17141571815195564,0.40534455505120254
+2034497960,Temporal and spatio-temporal aggregations over data streams using multiple time granularities,2003,31,55,4,1.0,2776245557,Donghui Zhang,0,-0.27465825007319333,0.14277618844842688
+2063114706,Anomaly management using complex event processing extending data base technology paper,2013,23,18,2,1.0,1902141551,Bastian HoÃŸbach,0,0.4169901767344631,-0.03181084648581779
+2063296107,Multi-step processing of spatial joins,1994,25,203,4,0.75,658694092,Thomas Brinkhoff,0,-0.0041099411153885,0.0447066884760059
+2056812173,JEPC The Java Event Processing Connectivity,2013,19,10,5,1.0,1902141551,Bastian HoÃŸbach,0,0.17443888262091403,0.2633491878442501
+2058903936,Efficient processing of spatial joins using R-trees,1993,22,516,3,0.533333,658694092,Thomas Brinkhoff,0,-0.0041099411153885,0.0447066884760059
+2076536594,Transactions on the multiversion B + -tree,2009,20,27,4,0.0,290249703,Eljas Soisalon Soininen,0,1.5313654570283608,1.700490076597891
+2094361339,The buddy tree an efficient and robust access method for spatial data base,1990,0,46,2,0.388889,1919135125,Hans Peter Kriegel,0,-0.1232715727120712,0.2131450373911843
+2096547754,An optimal and progressive algorithm for skyline queries,2003,21,690,4,0.0,2243308922,Dimitris Papadias,0,-0.4704605568677249,0.8611182152179424
+2097155602,PIPES a public infrastructure for processing and exploring streams,2004,14,80,1,1.0,2151325580,Bernhard Seeger,0,0.1882434276923103,-1.0430197535152996
+2086346822,Efficient bulk updates on multiversion B-trees,2013,28,8,2,1.0,238619017,Daniar Achakeev,0,-0.0041099411153885,0.0447066884760059
+2098374903,javaxXXL a prototype for a library of query processing algorithms,2000,8,19,3,1.0,2001811642,Jochen Van den Bercken,0,0.25842529556171256,-0.16767734769745427
+2088521060,Spatial join selectivity using power laws,2000,34,70,2,0.0,2198983026,Christos Faloutsos,0,-0.0041099411153885,0.0447066884760059
+2104349760,PLOP-hashing A grid file without directory,1988,22,54,2,0.0,1919135125,Hans Peter Kriegel,0,-0.26064923455455846,0.4315435219240117
+2138652362,Nearest neighbor search on vertically partitioned high-dimensional data,2005,28,9,2,1.0,2033092916,Evangelos Dellis,0,-0.0041099411153885,0.0447066884760059
+2118021173,Parallel processing of spatial joins using R-trees,1996,16,102,3,0.75,658694092,Thomas Brinkhoff,0,1.156256010792543,0.27153135884934354
+2118319913,Dynamic Metadata Management for Scalable Stream Processing Systems,2007,28,22,2,0.943736,2202402696,JÃ¼rgen KrÃ¤mer,0,-0.029456800247438353,-0.2464131282643754
+2118521368,Stream Mining via Density Estimators A concrete Application,2006,8,1,2,1.0,1967333186,Christoph Heinz,0,-0.42845202490949574,0.1450203979855267
+2136317993,An Approach to Adaptive Memory Management in Data Stream Systems,2006,34,17,3,1.0,145325676,Michael Cammert,0,-0.0041099411153885,0.0447066884760059
+2136337586,Multidimensional dynamic quantile hashing is very efficient for non-uniform record distributions,1987,1,17,2,0.0,1919135125,Hans Peter Kriegel,0,-0.0041099411153885,0.0447066884760059
+2139450737,A Temporal Foundation for Continuous Queries over Data Streams,2005,44,57,2,0.925926,2202402696,JÃ¼rgen KrÃ¤mer,0,0.0908845357243609,0.31128747720343375
+2130795633,Efficient computation of reverse skyline queries,2007,24,214,2,1.0,2033092916,Evangelos Dellis,0,0.25245882146783893,0.09919480006319664
+2119168079,GENESYS a system for efficient spatial query processing,1994,8,12,4,0.75,658694092,Thomas Brinkhoff,0,0.014532710543751099,0.030944858938630852
+2116396741,Progressive skyline computation in database systems,2005,34,703,4,0.0,2243308922,Dimitris Papadias,0,-0.32543758305522186,0.9810685797324826
+2123029420,Flexible Multi-Threaded Scheduling for Continuous Queries over Data Streams,2007,17,11,4,1.0,145325676,Michael Cammert,0,-0.03990874100610224,-0.19030993128025134
+2153231238,Transactional support for adaptive indexing,2014,41,24,6,0.0,2284116839,Goetz Graefe,0,1.5656442805536568,2.1358252893197602
+2172031037,Efficient temporal join processing using indices,2002,26,55,3,0.9,2776245557,Donghui Zhang,0,0.6113738240867082,0.04816285320264909
+2151135734,The R*-tree an efficient and robust access method for points and rectangles,1990,7,3751,4,0.0,2161521750,Norbert Beckmann,0,0.016658130304974723,0.28707597525645495
+2151179595,Data redundancy and duplicate detection in spatial join processing,2000,32,76,2,0.0,2149801571,Jens Dittrich,0,-0.0041099411153885,0.0447066884760059
+2163490027,Stream Processing in Production-to-Business Software,2006,4,18,6,1.0,145325676,Michael Cammert,0,-0.9890578925760911,0.4467568181898111
+2146399237,An Evaluation of Generic Bulk Loading Techniques,2001,33,68,2,1.0,2001811642,Jochen Van den Bercken,0,-0.0041099411153885,0.0447066884760059
+2396502174,Event processing on your own database,2013,2,4,5,1.0,244644892,Nikolaus Glombiewski,0,0.4169901767344631,-0.03181084648581779
+2403334844,DatenstrÃ¶me - Kurz erklÃ¤rt,2004,0,0,1,1.0,2151325580,Bernhard Seeger,0,-0.0041099411153885,0.0447066884760059
+2571949887,Anfrageverarbeitung auf DatenstrÃ¶men,2004,0,0,4,1.0,145325676,Michael Cammert,0,-0.0041099411153885,0.0447066884760059
+2604602237,ChronicleDB A High-Performance Event Store,2017,0,7,2,1.0,2225131539,Marc Seidemann,0,-0.0041099411153885,0.0447066884760059
+2604978446,VAT A System for Data-Driven Biodiversity Research,2017,5,3,4,1.0,2149079787,Christian Beilschmidt,0,-0.0041099411153885,0.0447066884760059
+2758226378,VAT A Scientific Toolbox for Interactive Geodata Exploration,2017,18,3,8,1.0,2149079787,Christian Beilschmidt,0,-0.0041099411153885,0.0447066884760059
+2980657213,ChronicleDB A High-Performance Event Store,2019,33,1,4,1.0,2225131539,Marc Seidemann,0,0.1644025391011518,-0.2394631407837945
+2119159732,Design and Implementation of a Geographic Search Engine,2005,19,104,6,0.529412,2924671803,Alexander Markowetz,0,-0.4197151661071337,-0.42589767901227754

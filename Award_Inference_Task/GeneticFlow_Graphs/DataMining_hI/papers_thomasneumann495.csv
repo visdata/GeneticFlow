@@ -1,0 +1,87 @@
+55656182,Benchmarking Hybrid OLTP&amp;OLAP Database Systems,2011,12,16,3,0.0,2148016965,Florian Funke,0,1.2182067606106117,0.3929018396063729
+125975561,First International Workshop on Graph Data Management Experiences and Systems,2013,0,2,2,0.0,2081047619,Peter Boncz,0,-0.24631475925461466,0.01662727508514165
+30166824,One Size Fits all Again The Architecture of the Hybrid OLTP&amp;OLAP Database Management System HyPer,2010,24,5,2,0.0,2244150349,Alfons Kemper,0,1.0132663377260682,0.44823697798303724
+1549939222,Supporting hierarchical data in SAP HANA,2015,16,9,6,0.7,2139730469,Robert Brunel,0,-1.2633098708169457,0.4455953413006723
+1505016874,Search for the Best but Expect the Worst - Distributed Top-k Queries over Decreasing Aggregated Scores,2007,35,0,2,0.355677,2130571926,Sebastian Michel,0,-1.1658122293829987,-1.033530712689105
+1016442203,Engineering high-performance database engines,2014,45,8,1,1.0,2344506219,Thomas Neumann,0,-0.4538356859323664,0.35146588507181015
+1498203057,Consistency and Transactions in CAD Database,1982,3,27,1,1.0,2344506219,Thomas Neumann,0,-2.5072721634549833,1.0274928680668396
+1561478962,Optimizing Distributed Top-k Queries,2008,24,5,1,1.0,2344506219,Thomas Neumann,0,-0.4170165660476115,-0.20761029486582838
+1513057195,FluxCapacitor efficient time-travel text search,2007,8,17,3,0.0,2064029816,Klaus Berberich,0,0.003708468606338,0.082832279151172
+1852662819,Get tracked a triple store for RFID traceability data,2012,14,1,4,0.0,2021256103,Veneta Dobreva,0,-0.06672023777895174,0.17904556589985934
+1964338930,A time machine for text search,2007,32,83,3,0.0,2064029816,Klaus Berberich,0,0.45352575874547657,0.64620253144258
+1972305796,One DBMS for all the brawny few and the wimpy crowd,2014,13,10,6,1.0,1897030782,Tobias MÃ¼hlbauer,0,0.5914365636702659,0.14296732745041582
+1974637590,Elasticity in Cloud Databases and Their Query Processing,2013,34,5,4,0.0,2284116839,Goetz Graefe,0,-1.3425488535650096,0.3304335111137947
+2003515726,Massively parallel sort-merge joins in main memory multi-core database systems,2012,23,138,3,0.0,2008908578,Martina Cezara Albutiu,0,0.003708468606338,0.082832279151172
+1991665234,DeltaNI an efficient labeling scheme for versioned hierarchical data,2013,34,12,4,0.560976,2086697679,Jan Finis,0,0.22091023027040105,0.501764176729179
+2000656232,The RDF-3X engine for scalable management of RDF data,2010,55,442,1,1.0,2344506219,Thomas Neumann,0,0.33746618086974955,-0.1895466783132799
+1993786250,Scalable join processing on very large RDF graphs,2009,31,197,1,1.0,2344506219,Thomas Neumann,0,1.4019371609792992,-2.540921036447082
+2002597960,On-the-fly token similarity joins in relational databases,2014,28,7,3,0.0,113607873,Nikolaus Augsten,0,-0.7940853069862125,0.3753635473616052
+2027748129,Instant loading for main memory databases,2013,25,50,6,1.0,1897030782,Tobias MÃ¼hlbauer,0,0.12492345808765674,0.23414093372237493
+2011912678,Distributed top-k aggregation queries at large,2009,46,16,1,1.0,2344506219,Thomas Neumann,0,-0.13335524055555464,0.29011437965971815
+2031130839,Fast approximation of steiner trees in large graphs,2012,16,7,2,1.0,1395633217,Andrey Gubichev,0,0.22046278482571166,0.4149466153583954
+2089247435,RDF-3X a RISC-style engine for RDF,2008,41,424,1,1.0,2344506219,Thomas Neumann,0,1.0272419763533158,-1.7234971488954784
+2102729946,HyPer A hybrid OLTP&amp;OLAP main memory database system based on virtual memory snapshots,2011,34,390,2,0.0,2244150349,Alfons Kemper,0,1.0132663377260682,0.44823697798303724
+2100387739,Characteristic sets Accurate cardinality estimation for RDF queries with multiple joins,2011,8,116,1,1.0,2344506219,Thomas Neumann,0,1.3685818333748305,-2.3767240023899716
+2097608897,The Linked Data Benchmark Council Project,2013,29,11,5,0.0,2081047619,Peter Boncz,0,0.0544458689002119,-0.059141817612563555
+2098117079,On the optimal ordering of maps selections and joins under factorization,2006,19,2,1,1.0,2344506219,Thomas Neumann,0,-0.28681122411028587,-0.07744204902528845
+2101161250,Locality-sensitive operators for parallel main-memory database clusters,2014,36,41,6,1.0,2084982392,Wolf RÃ¶diger,0,0.003708468606338,0.082832279151172
+2099035968,Morsel-driven parallelism a NUMA-aware query evaluation framework for the many-core age,2014,33,102,4,1.0,2069156272,Viktor Leis,0,0.003708468606338,0.082832279151172
+2141465732,A Reproducible Benchmark for P2P Retrieval,2006,26,27,1,1.0,2344506219,Thomas Neumann,0,-0.21934185016841626,0.6056873083074126
+2109158422,Generating optimal DAG-structured query evaluation plans,2009,28,9,1,1.0,2344506219,Thomas Neumann,0,-0.32833842330621765,0.14262047738587502
+2132823934,Preventing bad plans by bounding the impact of cardinality estimation errors,2009,19,54,2,0.0,172573358,Guido Moerkotte,0,-0.0395804122397981,0.0068802457672825015
+2129908242,The linked data benchmark council a graph and RDF industry benchmarking effort,2014,6,52,5,0.0,1970866537,Renzo Angles,0,-0.1291487497717145,-0.055953788068671934
+2106771621,Efficiently compiling efficient query plans for modern hardware,2011,15,242,1,1.0,2344506219,Thomas Neumann,0,0.052242231615510816,0.17194176769094746
+2109906716,Smooth Interpolating Histograms with Error Guarantees,2008,19,8,1,1.0,2344506219,Thomas Neumann,0,-0.12265933845466465,0.1125584131638326
+2113569768,Search for the Best but Expect the Worst - Distributed Top-k Queries over Decreasing Aggregated Scores,2007,29,2,2,0.355677,2130571926,Sebastian Michel,0,0.003708468606338,0.082832279151172
+2110898590,Making SENSE socially enhanced search and exploration,2008,14,7,4,0.0,1212716344,Tom Crecelius,0,-0.3186155419203889,0.12152162252032815
+2120061223,Efficient top-k querying over social-tagging networks,2008,36,138,5,0.0,2023575604,Ralf Schenkel,0,-0.2521229114153627,0.06379358847506773
+2147344977,x-RDF-3X fast querying high update rates and consistency for RDF databases,2010,27,106,1,1.0,2344506219,Thomas Neumann,0,-0.2549982742955442,0.2215840602359772
+2168931213,ANGIE active knowledge for interactive exploration,2009,24,12,4,1.0,1989473477,Nicoleta Preda,0,0.12547852292097073,-0.23909463223915198
+2145015575,Optimizing ranked retrieval,2007,11,1,1,1.0,2344506219,Thomas Neumann,0,-1.4129904662214647,-0.11025921118241222
+2160214263,On the optimal ordering of maps and selections under factorization,2005,15,9,1,1.0,2344506219,Thomas Neumann,0,-0.5207388606918844,0.13779230513221863
+2145335345,An efficient framework for order optimization,2004,6,21,1,1.0,2344506219,Thomas Neumann,0,-0.6304156989563188,0.5174328461894514
+2163763098,Active knowledge dynamically enriching RDF knowledge bases by web services,2010,40,39,4,1.0,1989473477,Nicoleta Preda,0,0.22977800416876323,-2.495500876943444
+2158050820,A combined framework for grouping and order optimization,2004,6,32,1,1.0,2344506219,Thomas Neumann,0,-0.6434579178693235,0.33154617646072554
+2167258506,Indexing set-valued attributes with a multi-level extendible hashing scheme,2007,25,5,3,0.0,2147421714,Sven Helmer,0,0.003708468606338,0.082832279151172
+2146238719,Estimating the output cardinality of partial preaggregation with a measure of clusteredness,2003,34,4,2,0.0,2147421714,Sven Helmer,0,-0.0395804122397981,0.0068802457672825015
+2161371090,Exploiting social relations for query expansion and result ranking,2008,16,75,5,0.0,2108261624,Matthias Bender,0,0.23522538125194195,0.84821509943008
+2188262136,HyPer-sonic Combined Transaction AND Query Processing,2011,6,9,3,0.0,2148016965,Florian Funke,0,1.2182067606106117,0.3929018396063729
+2245240469,Indexing highly dynamic hierarchical data,2015,23,8,4,0.73913,2086697679,Jan Finis,0,-0.3343097353380289,0.256623783732433
+2260671045,Efficient processing of window functions in analytical SQL queries,2015,19,19,4,1.0,2069156272,Viktor Leis,0,0.5914365636702659,0.14296732745041582
+2251728956,Metrics for measuring the performance of the mixed workload CH-benCHmark,2011,7,8,6,0.0,2148016965,Florian Funke,0,-0.5616187803104004,0.6442148213114339
+2296279039,Path Query Processing on Very Large RDF Graphs,2011,17,18,2,1.0,1395633217,Andrey Gubichev,0,0.8871785001424433,-2.4199691619144055
+2398254416,Taking the edge off cardinality estimation errors using incremental execution,2013,24,25,1,1.0,2344506219,Thomas Neumann,0,0.003708468606338,0.082832279151172
+2396012111,Exploiting the query structure for efficient join ordering in SPARQL queries,2014,15,32,2,0.591748,1395633217,Andrey Gubichev,0,0.8663254960625479,-1.5233600158324623
+2396309311,How good are query optimizers really ,2015,41,105,5,0.95874,1395633217,Andrey Gubichev,0,-0.0395804122397981,0.0068802457672825015
+2394534308,The more the merrier efficient multi-source graph traversal,2014,29,32,7,0.857143,2162212153,Manuel Then,0,0.13849912693728195,0.2301239433648543
+2397360326,Processing in the Hybrid OLTP &amp; OLAP Main-Memory Database System HyPer,2013,9,22,8,1.0,1897030782,Tobias MÃ¼hlbauer,0,1.2182067606106117,0.3929018396063729
+2430414709,High-Performance Geospatial Analytics in HyPerSpace,2016,3,9,5,1.0,2497556565,Varun Pandey,0,0.007820703442466326,0.8676179477498122
+2435648513,Flow-Join Adaptive skew handling for distributed joins over high-speed networks,2016,33,27,4,1.0,2084982392,Wolf RÃ¶diger,0,0.003708468606338,0.082832279151172
+2481035216,Early Grouping Gets the Skew,2002,16,2,3,0.0,172573358,Guido Moerkotte,0,0.08980763160933745,0.3285095009443443
+2509839597,Order Indexes supporting highly dynamic hierarchical data in relational main-memory database systems,2017,30,1,4,0.73913,2086697679,Jan Finis,0,-0.3343097353380289,0.256623783732433
+2585664214,Cardinality Estimation Done Right Index-Based Join Sampling,2017,24,24,5,1.0,2069156272,Viktor Leis,0,0.003708468606338,0.082832279151172
+2613261966,Automatic algorithm transformation for efficient multi-snapshot analytics on temporal graphs,2017,22,9,5,0.857143,2162212153,Manuel Then,0,0.247057159400659,0.0008718596446388033
+2604270491,Parallel Array-Based Single- and Multi-Source Breadth First Searches on Large Dense Graphs,2017,0,1,4,1.0,2275718234,Moritz Kaufmann,0,0.13849912693728195,0.2301239433648543
+2604523703,SQL- and Operator-centric Data Analytics in Relational Main-Memory Databases,2017,0,12,8,0.0,2274529977,Linnea Passing,0,-0.6764850836649176,0.17908636530412736
+2604894088,Analytics on Fast Data Main-Memory Database Systems versus Modern Streaming Systems,2017,0,9,5,1.0,2224833225,Andreas Kipf,0,0.247057159400659,0.0008718596446388033
+2753588408,Monopedia staying single is good enough -- the hyper way for web scale applications,2017,6,0,8,0.0,2751294178,Maximilian E. SchÃ¼le,0,-1.2953298061551612,0.12052406810491201
+2755385361,Query optimization through the looking glass and what we found running the Join Order Benchmark,2018,51,21,7,0.941176,2069156272,Viktor Leis,0,-0.24708821823000746,-0.11438040177564447
+2743244324,Main Memory Database Systems,2017,0,15,5,0.0,2297792247,Franz Faerber,0,0.003708468606338,0.082832279151172
+2767766062,HyPerInsight Data Exploration Deep Inside HyPer,2017,11,0,6,0.0,2229410474,Nina Hubig,0,-0.586455307289941,1.2396922219329316
+2794632349,Adaptive Execution of Compiled Queries,2018,30,5,3,1.0,2794865242,Andre Kohn,0,-0.7724107134428325,-0.7227735480090876
+2798325362,Adaptive Optimization of Very Large Join Queries,2018,27,11,1,1.0,2344506219,Thomas Neumann,0,0.13583595504216514,0.1471886339482685
+2806056912,Get Real How Benchmarks Fail to Represent the Real World,2018,11,5,7,0.0,2807444516,Adrian Vogelsgesang,0,-0.5817016102036425,0.5699494820294124
+2795124437,Approximate Geospatial Joins with Precision Guarantees,2018,8,5,6,0.818182,2224833225,Andreas Kipf,0,0.08959252356587845,0.1369296930545041
+2898303870,Reasoning in the Presence of NULLs,2018,4,0,1,1.0,2344506219,Thomas Neumann,0,-0.24708821823000746,-0.11438040177564447
+2916238833,Performance-optimal filtering Bloom overtakes Cuckoo at high throughput,2019,29,6,4,0.0,2081047619,Peter Boncz,0,0.13181092919897244,0.08118920458583215
+2921740354,Making Compiling Query Engines Practical,2019,0,0,3,1.0,2794865242,Andre Kohn,0,-0.7724107134428325,-0.7227735480090876
+2925562138,Optimistic Lock Coupling A Scalable and Efficient General-Purpose Synchronization Method,2019,0,1,3,0.911111,2069156272,Viktor Leis,0,0.003708468606338,0.082832279151172
+2911324315,Every Row Counts Combining Sketches and Sampling for Accurate Group-By Result Estimates,2019,0,2,2,0.0,2913925439,Michael J. Freitag,0,0.003708468606338,0.082832279151172
+2939293933,Estimating Cardinalities with Deep Sketches,2019,19,3,8,1.0,2224833225,Andreas Kipf,0,-0.3291976808020441,-0.13703470885516322
+2950405263,Estimating Cardinalities with Deep Sketches,2019,20,0,8,1.0,2224833225,Andreas Kipf,0,-0.3291976808020441,-0.13703470885516322
+2989593421,SOSD A Benchmark for Learned Indexes,2019,14,2,7,1.0,2224833225,Andreas Kipf,0,-0.24631475925461466,0.01662727508514165
+3025772098,START â€” Self-Tuning Adaptive Radix Tree,2020,17,0,2,1.0,2224833225,Andreas Kipf,0,0.003708468606338,0.082832279151172
+3023346860,RadixSpline A Single-Pass Learned Index,2020,29,0,7,1.0,2224833225,Andreas Kipf,0,0.003708468606338,0.082832279151172
+3013082922,The Case for Hybrid Succinct Data Structures,2020,0,1,4,0.0,3013440938,Christoph Anneser,0,0.003708468606338,0.082832279151172
+3013316555,Umbra A Disk-Based System with In-Memory Performance,2020,0,0,1,1.0,2344506219,Thomas Neumann,0,0.003708468606338,0.082832279151172
+3013630895,Adaptive Main-Memory Indexing for High-Performance Point-Polygon Joins,2020,0,1,9,1.0,2224833225,Andreas Kipf,0,-0.030009782456062405,0.0159224435152694

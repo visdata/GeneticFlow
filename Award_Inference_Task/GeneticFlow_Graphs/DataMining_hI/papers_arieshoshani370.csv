@@ -1,0 +1,67 @@
+136908855,SUBJECT a directory driven system for organizing and accessing large statistical databases,1981,4,72,2,0.0,2477026723,Paul Chan,0,0.003708468606338,0.082832279151172
+172974961,Research topics in statistical database management,1983,3,8,4,0.0,2357457453,Dorothy E. Denning,0,-1.2033621304526203,0.3538719913490269
+39704205,Functionality of Temporal Data Models and Physical Design Implications,1988,0,5,2,0.5,1993571414,Arie Segev,0,0.5989170985067852,0.9859665041900002
+161117074,A MODEL FOR REPRESENTING STATISTICAL OBJECTS,2007,8,5,2,0.0,664900163,Maurizio Rafanelli,0,0.003708468606338,0.082832279151172
+27596749,Scientific and statistical data management research at LBL,1986,0,7,3,0.5,274756387,Frank Olken,0,-0.15529088197463273,0.10184662355134155
+199686152,A compression technique for large statistical data-bases,1981,8,53,3,1.0,2629520774,Susan J. Eggers,0,0.003708468606338,0.082832279151172
+13798402,Minimizing index size by reordering rows and columns,2012,36,4,2,0.426949,3256131,Elaheh Pourabbas,0,0.7647345494918176,0.8032770917980444
+1497030060,Efficient access of compressed data,1980,8,41,2,1.0,2629520774,Susan J. Eggers,0,0.003708468606338,0.082832279151172
+1569878055,Breaking the Curse of Cardinality on Bitmap Indexes,2008,27,53,3,0.238288,2152841419,Kesheng Wu,0,0.2803290462226097,0.7235837047506081
+1553457043,Evaluation strategies for bitmap indices with binning,2004,8,52,3,0.307692,2463969832,Kurt Stockinger,0,0.6462602579479383,0.7636362868431518
+1517332488,Temporal Data Management,1986,11,71,1,1.0,742538449,Arie Shoshani,0,-0.8198826529954021,0.5649523486460563
+1527137792,On the performance of bitmap indices for high cardinality attributes,2004,20,151,3,0.537313,2152841419,Kesheng Wu,0,0.7647345494918176,0.8032770917980444
+1519656996,OLAP++ Powerful and Easy-to-Use Federations of OLAP and Object Databases,2000,2,12,3,0.857143,2797964178,Junmin Gu,0,1.2182067606106117,0.3929018396063729
+1529265758,Using Bitmap Indexing Technology for Combined Numerical and TextQueries,2006,34,1,1,1.0,742538449,Arie Shoshani,0,-0.4429558815639155,1.077096320801902
+1594970871,The Scientific Data Management Center Providing Technologies for Large Scale Scientific Exploration,2009,0,3,1,1.0,742538449,Arie Shoshani,0,0.20121084109253531,0.28005005768050134
+1595088417,Efficient Analysis of Live and Historical Streaming Data and its Application to Cybersecurity,2007,27,5,1,1.0,742538449,Arie Shoshani,0,-0.4345476794101454,0.7042897970811521
+1745343377,Word aligned bitmap compression method data structure and apparatus,2003,4,20,1,1.0,742538449,Arie Shoshani,0,1.2024134695173754,1.2003862705511419
+1906576752,Object queries over relational databases Language implementation and applications,1993,9,36,2,0.0,2974868197,V.M. Markowitz,0,-1.647345373833497,0.5871535716371727
+1806858515,Compressed bitmap indices for efficient query processing,2001,15,18,1,1.0,742538449,Arie Shoshani,0,-1.0322138187931933,0.8834179558261793
+1846875827,STORM a statistical object representation model,1990,9,108,2,0.0,664900163,Maurizio Rafanelli,0,0.1630365232402688,-0.13502745916228914
+1607204998,Answering Joint Queries from Multiple Aggregate OLAP Databases,2003,4,7,2,0.491518,3256131,Elaheh Pourabbas,0,0.9195926996984745,0.14430549391233186
+1850977149,DataMover robust terabyte-scale multi-file replication over wide-area networks,2004,4,20,3,0.0,2160918950,Alex Sim,0,0.21963690968999258,-0.0826007199222817
+1592056534,Characteristics of Scientific Databases,1984,9,47,1,1.0,742538449,Arie Shoshani,0,-2.197713537142784,0.6410348990239132
+1919896700,Coordinating simultaneous caching of file bundles from tertiary storage,2000,3,12,1,1.0,742538449,Arie Shoshani,0,0.0597908726731833,-0.2449448024264691
+1723787988,Multidimensional indexing and query coordination for tertiary storage management,1999,4,63,1,1.0,742538449,Arie Shoshani,0,0.018649098260104097,0.17510217584949186
+1969866326,Efficient Operational Profiling of Systems Using Suffix Arrays on Execution Logs,2008,7,2,5,0.0,1961699915,Meiyappan Nagappan,0,0.12758458561293645,1.0984376164919443
+1973648822,Object-extended OLAP querying,2009,49,19,3,0.0438432,2019462106,Torben Bach Pedersen,0,0.09369870630461523,0.18699317786871017
+1970529751,Improving estimation accuracy of aggregate queries on data cubes,2008,14,1,2,0.605915,3256131,Elaheh Pourabbas,0,-1.5584081273406594,0.7449733375861184
+1967291753,Representing extended entity-relationship structures in relational databases a modular approach,1992,23,94,2,0.571429,674651725,Victor Markowitz,0,-2.273721248272234,0.6975768295559627
+2003421875,Optimizing bitmap indices with efficient compression,2006,34,259,3,0.256617,2152841419,Kesheng Wu,0,0.17713288534558344,0.4426716006825169
+2028461844,On the implementation of a logical data base converter,1975,1,5,1,1.0,742538449,Arie Shoshani,0,0.30689028071587343,-0.20865012815542014
+2028710687,Parallel index and query for large scale data analysis,2011,26,65,7,0.0,2575409897,Jerry Chou,0,-0.33685951531862746,-0.04428392241935935
+2018596944,An efficient compression scheme for bitmap indices,2004,0,34,1,1.0,742538449,Arie Shoshani,0,0.24285937839982336,0.4260942189974554
+2047991626,The Composite Data Model A Unified Approach for Combining and Querying Multiple Data Models,2015,21,2,2,0.343075,3256131,Elaheh Pourabbas,0,-0.37935602137653124,-0.41549638287037055
+2042772299,A logical-level approach to data base conversion,1975,10,28,1,1.0,742538449,Arie Shoshani,0,0.43969602464497237,0.12990031156771106
+2053562648,A performance comparison of bitmap indexes,2001,4,60,3,0.882353,2152841419,Kesheng Wu,0,0.7647345494918176,0.8032770917980444
+2050347474,Logical modeling of temporal data,1987,14,159,2,0.5,1993571414,Arie Segev,0,0.21911807899110433,0.01613407773682104
+2048626356,On the correctness of representing extended entity-relationship structures in the relational model,1989,17,49,2,0.571429,674651725,Victor Markowitz,0,-2.3280270707784254,1.0316851505897704
+2071774356,Analyses of multi-level and multi-component compressed bitmap indexes,2010,41,49,2,0.222057,2152841419,Kesheng Wu,0,0.3306783485702766,0.07261912796356067
+2072014498,Data management for high energy physics experiments â€” Preliminary proposalsâ˜†,1987,3,0,3,0.5,274756387,Frank Olken,0,-0.30105902048808597,0.2339262080176841
+2078278619,Efficient estimation of joint queries from multiple OLAP databases,2007,16,7,2,0.605915,3256131,Elaheh Pourabbas,0,0.6196942014647714,0.182695767336999
+2092704925,Extending OLAP querying to external object databases,2000,24,35,2,0.0438432,2019462106,Torben Bach Pedersen,0,0.22795622917882494,0.26525860729097345
+2103830868,The representation of a temporal data model in the relational environment,1988,24,49,2,0.0,2809778671,Arie Segev,0,-1.2350046480344214,0.39636391305918617
+2098474948,On the semantic completeness of macro-data operators for statistical aggregation,1992,0,12,3,0.0,2016228744,Leonardo Meo Evoli,0,0.003708468606338,0.082832279151172
+2101566835,Compressing bitmap indexes for faster search operations,2002,30,118,3,0.882353,2152841419,Kesheng Wu,0,0.4659100491101681,0.4848423456923136
+2088873730,Accelerating gene context analysis using bitmaps,2013,12,13,1,1.0,742538449,Arie Shoshani,0,-0.32569219101870145,0.8987152432912416
+2087242306,Adaptive Bitmap Indexes for Space-Constrained Systems,2008,2,9,5,0.0,2567822504,Rishi Rakesh Sinha,0,0.9783499043480184,1.0740171544062214
+2105358002,Joint queries estimation from multiple OLAP databases,2002,1,1,2,0.0,2973950156,E. Pourabbas,0,0.03998191284192402,0.5626814121947494
+2123576887,A modeling and execution environment for distributed scientific workflows,2003,3,24,14,0.0,1988531382,Ilkay Altintas,0,0.15491097156389821,0.010638040817763941
+2113526877,Clustering high dimensional massive scientific datasets,2001,23,8,2,0.857143,1159640156,Ekow Otoo,0,-0.8908606065258969,2.9707343972779374
+2107694471,Enabling Real-Time Querying of Live and Historical Stream Data,2007,34,58,4,0.0,2973541017,F. Reiss,0,0.2819474156820898,0.6133548371682421
+2168247528,Statistical Databases Characteristics Problems and some Solutions,1982,37,198,1,1.0,742538449,Arie Shoshani,0,0.1630365232402688,-0.13502745916228914
+2162299020,Characterization of temporal sequences in geophysical databases,1996,3,3,1,1.0,742538449,Arie Shoshani,0,-0.12241602229951748,0.13251606013975695
+2154462487,Using bitmap index for interactive exploration of large datasets,2003,19,64,4,0.875,2152841419,Kesheng Wu,0,0.6584220243433628,1.0391733096279978
+2163576449,The Composite OLAP-Object Data Model Removing an Unnecessary Barrier,2006,13,7,2,0.605915,3256131,Elaheh Pourabbas,0,0.2595758254325382,0.32741745321880195
+2146365100,Strategies for processing ad hoc queries on large data warehouses,2002,21,33,3,0.307692,2463969832,Kurt Stockinger,0,0.4610093500140547,0.6223440465723468
+2155577319,Determining the optimal file size on tertiary storage systems based on the distribution of query sizes,1998,9,8,4,0.0,2719878194,Luis M. Bernardo,0,-0.0395804122397981,0.0068802457672825015
+2146581901,Summarizability in OLAP and statistical data bases,1997,6,286,2,0.0,2973319720,H. J. Lenz,0,0.110577579099993,0.3337892597771245
+2161692763,Parallel data analysis directly on scientific file formats,2014,39,52,5,0.0,1548171544,Spyros Blanas,0,-0.32691241011405997,0.5675217693475677
+2333854589,Adaptive Transfer Adjustment in Efficient Bulk Data Transfer Management for Climate Datasets,2010,22,9,2,0.0,363344492,Mehmet Balman,0,0.003708468606338,0.082832279151172
+2483290436,MPO A System to Document and Analyze Distributed Heterogeneous Workflows,2016,11,1,7,0.164525,2152841419,Kesheng Wu,0,0.2888648567821606,-0.02227885701369207
+2515032555,Clustering High Dimensional Massive Scientific Datasets,2001,23,10,2,0.857143,1159640156,Ekow Otoo,0,-0.8472336710019103,2.9830695526376845
+2568259728,An Ecien t Compression Scheme For Bitmap Indices,2006,25,20,1,1.0,742538449,Arie Shoshani,0,0.19845212436460696,-0.11714557469889138
+2752967527,Answering joint queries from multiple aggregate OLAP databases,2003,0,24,2,0.491518,3256131,Elaheh Pourabbas,0,1.2182067606106117,0.3929018396063729
+2743390305,Using bitmap index for interactive exploration of large datasets,2003,0,1,4,0.875,2152841419,Kesheng Wu,0,0.42008490149456373,0.4601540426776296
+2887082968,Improving estimation accuracy of aggregate queries on data cubes,2010,15,3,2,0.45644,3256131,Elaheh Pourabbas,0,0.003708468606338,0.082832279151172
+2887578825,Improving Estimation Accuracy of Aggregate Queries on Data Cubes,2008,0,0,2,0.605915,3256131,Elaheh Pourabbas,0,1.963819771070142,1.017580655796884

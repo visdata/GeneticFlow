@@ -1,0 +1,46 @@
+111985306,Mining Frequent Rooted Trees and Free Trees Using Canonical Forms,2003,25,11,3,0.0,2033368653,Richard R. Muntz,0,0.7432161939215393,2.0777672815037356
+97594948,Incremental spectral clustering with application to monitoring of evolving blog communities,2007,21,92,3,0.666667,2120068663,Huazhong Ning,0,-0.8978331343878002,3.233780473172394
+169395954,The Splog Detection Task and A Solution Based on Temporal and Link Properties,2006,5,14,6,1.0,2155397203,Yu Ru Lin,0,0.641828681892772,-1.4161664529343607
+1569347009,Moment maintaining closed frequent itemsets over a stream sliding window,2004,20,270,1,1.0,2141133747,Yun Chi,0,0.003708468606338,0.082832279151172
+1605062704,Loadstar load shedding in data stream mining,2005,5,49,1,1.0,2141133747,Yun Chi,0,-0.23919602375669172,0.05900728209550369
+1817525120,Loadstar A load shedding scheme for classifying data streams,2005,14,55,1,1.0,2141133747,Yun Chi,0,-0.3501838195253119,0.022971192657634643
+1602595918,CMTreeMiner Mining Both Closed and Maximal Frequent Subtrees,2004,24,107,1,1.0,2141133747,Yun Chi,0,1.163986364420182,1.3349785678414376
+1973498652,Probabilistic polyadic factorization and its application to personalized recommendation,2008,14,25,1,1.0,2141133747,Yun Chi,0,0.003708468606338,0.082832279151172
+1979584682,Combining content and link for classification using matrix factorization,2007,24,197,3,0.0845362,2096537073,Shenghuo Zhu,0,-0.02410106426047325,-2.983384969252836
+1976446088,Splog Detection using Content Time and Link Structures,2007,7,15,3,1.0,2155397203,Yu Ru Lin,0,0.003708468606338,0.082832279151172
+1987461110,Packing light Portable workload performance prediction for the cloud,2013,24,19,2,0.0,2095556346,Jennie Duggan,0,1.2350652037173413,0.39061007574644036
+2007516075,Analyzing communities and their evolutions in dynamic social networks,2009,28,215,2,0.724138,2155397203,Yu Ru Lin,0,0.003708468606338,0.082832279151172
+1998819761,On evolutionary spectral clustering,2009,31,100,1,1.0,2141133747,Yun Chi,0,-0.9211991615469002,3.298294457080068
+1998934521,SLA-tree a framework for efficiently supporting SLA-based decisions in cloud computing,2011,22,42,1,1.0,2141133747,Yun Chi,0,0.003708468606338,0.082832279151172
+2029778779,Identifying opinion leaders in the blogosphere,2007,18,165,2,0.0,2113869885,Xiaodan Song,0,0.003708468606338,0.082832279151172
+2025180955,Mining association rules with non-uniform privacy concerns,2004,11,19,3,0.0,2580191068,Yi Xia,0,-0.2883086809675458,0.19616691779278925
+2035621475,Detecting splogs via temporal dynamics using self-similarity analysis,2008,30,45,3,0.947368,2155397203,Yu Ru Lin,0,-0.3473793728160243,0.24861357896709396
+2044541009,Catch the moment maintaining closed frequent itemsets over a data stream sliding window,2006,23,152,1,1.0,2141133747,Yun Chi,0,-0.1071931497347323,0.3242721482837629
+2041140023,Canonical forms for labelled trees and their applications in frequent subtree mining,2005,37,73,1,1.0,2141133747,Yun Chi,0,-1.0900852778778833,0.040062294020648814
+2048659529,Distribution-based query scheduling,2013,36,10,1,1.0,2141133747,Yun Chi,0,-0.0395804122397981,0.0068802457672825015
+2078221620,Correction to &quot;Mining Closed and Maximal Frequent Subtrees from Databases of Labeled Rooted Trees&quot;,2005,0,2,3,0.0,2033368653,Richard R. Muntz,0,2.6447554788918826,2.0533521111836017
+2072982557,A latent topic model for linked documents,2009,7,16,3,0.857143,2310098717,Zhen Guo,0,-0.628675062760045,0.926865093575663
+2099962227,Frequent Subtree Mining - An Overview,2004,53,256,1,1.0,2141133747,Yun Chi,0,-0.4445928191174981,-0.6780745713579808
+2097099231,iOLAP A Framework for Analyzing the Internet Social Networks and Other Networked Data,2009,26,13,1,1.0,2141133747,Yun Chi,0,0.07465631220894901,-0.4342527215788029
+2100588761,HybridTreeMiner an efficient algorithm for mining frequent rooted trees and free trees using canonical forms,2004,23,106,3,0.0,2033368653,Richard R. Muntz,0,0.9175330867291539,2.003298637620122
+2082867387,iCBS incremental cost-based scheduling under piecewise linear SLAs,2011,13,45,1,1.0,2141133747,Yun Chi,0,0.003708468606338,0.082832279151172
+2103702871,Towards predicting query execution time for concurrent and dynamic database workloads,2013,32,48,2,0.0,2119491994,Wentao Wu,0,-0.1029618939806145,0.040434369851773004
+2086586571,CloudDB One Size Fits All Revived,2010,0,30,6,0.0,391500506,Junichi Tatemura,0,-0.2842140847413619,-0.1459364065714398
+2101629001,Intelligent management of virtualized resources for database systems in cloud environment,2011,25,129,2,0.0,1990998134,Pengcheng Xiong,0,0.003708468606338,0.082832279151172
+2105033546,A Two-Level Topic Model Towards Knowledge Discovery from Citation Networks,2014,25,16,4,0.857143,2310098717,Zhen Guo,0,-0.37912783199861644,1.0547685109864264
+2141973671,Efficient computation of personal aggregate queries on blogs,2008,20,7,3,0.0,1220778494,Ka Cheung Sia,0,-0.28833680027466346,-1.0142505022370134
+2130024982,Blog Community Discovery and Evolution Based on Mutual Awareness Expansion,2007,22,71,3,1.0,2155397203,Yu Ru Lin,0,0.003708468606338,0.082832279151172
+2136004837,Integrating clustering and multi-document summarization to improve document understanding,2008,6,36,4,0.148551,2097650207,Dingding Wang,0,-0.6579947033818252,1.0543330326077125
+2142260418,Knowledge Discovery from Citation Networks,2009,24,45,4,0.857143,2310098717,Zhen Guo,0,-0.09008468754610979,0.8305545184309551
+2106545428,Combining link and content for community detection a discriminative approach,2009,36,251,3,0.324324,2151859571,Tianbao Yang,0,0.01081499603401945,-0.22829683392880562
+2109907545,Predicting query execution time Are optimizer cost models really unusable ,2013,31,80,3,0.0717889,2096537073,Shenghuo Zhu,0,-0.7115739254660983,0.16717641040082076
+2110727491,Eigen-trend trend analysis in the blogosphere based on singular value decompositions,2006,20,51,1,1.0,2141133747,Yun Chi,0,-0.9495970712927685,-0.44923000633769583
+2119706777,Integrating Document Clustering and Multidocument Summarization,2011,56,52,4,0.148551,2097650207,Dingding Wang,0,-0.48727922362721676,0.6805809343752174
+2159293599,Mining closed and maximal frequent subtrees from databases of labeled rooted trees,2005,38,122,1,1.0,2141133747,Yun Chi,0,1.042858153857666,1.2369922984621344
+2183607464,Combining Link and Content for Community Detection,2014,46,6,3,0.324324,2151859571,Tianbao Yang,0,0.003708468606338,0.082832279151172
+2171577813,Information flow modeling based on diffusion rate for prediction and ranking,2007,31,107,2,0.0,2113869885,Xiaodan Song,0,1.2350652037173413,0.39061007574644036
+2147924997,Indexing and mining free trees,2003,23,95,1,1.0,2141133747,Yun Chi,0,-0.057381203924739145,0.48020047031092467
+2166563561,Facetnet a framework for analyzing communities and their evolutions in dynamic networks,2008,25,304,2,0.947368,2155397203,Yu Ru Lin,0,0.003708468606338,0.082832279151172
+2163927416,Incremental spectral clustering by efficiently updating the eigen-system,2010,34,91,3,0.666667,2120068663,Huazhong Ning,0,-0.8844709579643696,3.1540564090065546
+2170337404,Evolutionary spectral clustering by incorporating temporal smoothness,2007,23,295,1,1.0,2141133747,Yun Chi,0,-0.9211991615469002,3.298294457080068
+2146859361,Splog detection using self-similarity analysis on blog temporal dynamics,2007,10,55,3,1.0,2155397203,Yu Ru Lin,0,-0.12751843217147582,0.5136980076430366

@@ -1,0 +1,70 @@
+26732533,Authenticated Index Structures for Outsourced Databases,2008,35,8,1,1.0,2472728339,Feifei Li,0,0.3820908385543769,0.2117467783858426
+1504804216,Unloading unwanted information From physical websites to personalized web views,2004,15,1,5,0.857143,2166322827,Zehua Liu,0,0.03565810966282755,0.09825506972366725
+1523625782,Wiccap Data Model Mapping Physical Websites to Logical Views,2002,17,16,2,0.857143,2166322827,Zehua Liu,0,0.7363093713839306,-0.23884483412836852
+1519440323,Proceedings of the 26th International Conference on Data Engineering ICDE 2010,2010,0,2,12,0.0,8132329,Vassilis J. Tsotras,0,-0.0041099411153885,0.0447066884760059
+1964376941,Small synopses for group-by query verification on outsourced data streams,2009,55,24,2,0.697674,2115752352,Ke Yi,0,-0.2604926297926493,0.14728141564746067
+1603054560,Approximate aggregation techniques for sensor databases,2004,24,520,2,0.0,2132851987,Jeffrey Considine,0,0.0835119396817451,0.051530138659233005
+1981634604,Flexible aggregate similarity search,2011,22,39,2,0.0,2716030107,Yang Li,0,-0.0041099411153885,0.0447066884760059
+2002298107,Finding frequent items in probabilistic data,2008,40,164,2,0.0,2284008174,Qin Zhang,0,1.9339273801983707,0.2038777268954908
+1995748274,STORM Spatio-Temporal Online Reasoning and Management of Large Spatio-Temporal Data,2015,23,7,3,0.0,2951548368,Robert Christensen,0,-0.241250245220175,-0.17693373480736696
+2026102093,Scalable Multi-query Optimization for SPARQL,2012,60,90,4,1.0,2120460824,Wangchao Le,0,-0.04947461118734405,0.1975814907402979
+2024921361,Efficient Threshold Monitoring for Distributed Probabilistic Data,2012,35,17,2,0.0,2170236580,Mingwang Tang,0,0.277197463170708,-0.03436027545465245
+2050940312,Dynamic monitoring of optimal locations in road network databases,2014,29,14,3,1.0,2668351771,Bin Yao,0,-0.0041099411153885,0.0447066884760059
+2054693333,Probabilistic string similarity joins,2010,27,40,2,1.0,330615815,Jeffrey Jestes,0,1.9339273801983707,0.2038777268954908
+2041193957,Top-k queries on temporal data,2010,45,24,1,1.0,2472728339,Feifei Li,0,-0.241250245220175,-0.17693373480736696
+2034211653,Query Access Assurance in Outsourced Databases,2012,41,5,2,1.0,2120460824,Wangchao Le,0,-0.022155727919134102,0.0013969968308334725
+2059261900,Towards building logical views of websites,2004,27,8,4,0.857143,2166322827,Zehua Liu,0,-0.40334701514101245,0.1965239631068047
+2063512404,Building wavelet histograms on large data in MapReduce,2011,37,34,3,1.0,330615815,Jeffrey Jestes,0,0.4281021108240028,0.0700869544966745
+2063695313,Secure nearest neighbor revisited,2013,22,137,2,1.0,2668351771,Bin Yao,0,-0.0041099411153885,0.0447066884760059
+2097309979,Reverse Furthest Neighbors in Spatial Databases,2009,38,46,2,1.0,2668351771,Bin Yao,0,-0.0041099411153885,0.0447066884760059
+2079245459,ColumbuScout towards building local search engines over large databases,2012,9,1,2,0.0,2228983084,Cody Hansen,0,-0.0041099411153885,0.0447066884760059
+2103733531,Characterizing and Exploiting Reference Locality in Data Stream Applications,2006,32,24,1,1.0,2472728339,Feifei Li,0,-0.42845202490949574,0.1450203979855267
+2093584660,Ranking distributed probabilistic data,2009,37,56,1,1.0,2472728339,Feifei Li,0,0.43739842239757626,0.009947045888208002
+2104148061,Optimal splitters for temporal and multi-version databases,2013,23,12,2,1.0,2120460824,Wangchao Le,0,-0.241250245220175,-0.17693373480736696
+2098489450,Improving Transaction-Time DBMS Performance and Functionality,2009,33,32,2,0.0,1983664831,David B. Lomet,0,1.208169214524546,1.1352408850786924
+2106011067,Dynamic authenticated index structures for outsourced databases,2006,27,321,1,1.0,2472728339,Feifei Li,0,0.9382963669300013,-0.26574700545019436
+2126840151,Optimal location queries in road network databases,2011,22,83,3,0.0,2157867657,Xiaokui Xiao,0,-0.0041099411153885,0.0447066884760059
+2112128729,Spatio-temporal aggregation using sketches,2004,24,140,4,0.0,2131082813,Yufei Tao,0,0.0908845357243609,0.31128747720343375
+2130651051,Ranking large temporal data,2012,23,12,3,0.9,330615815,Jeffrey Jestes,0,-0.14977504274581976,-0.11222814673782604
+2143250283,Logging every footstep quantile summaries for the entire history,2010,19,7,5,0.0,2131082813,Yufei Tao,0,-0.2418616789337209,-0.19186045753163172
+2140237757,Semantics of Ranking Queries for Probabilistic Data and Expected Ranks,2009,39,175,2,0.0,2190072679,Graham Cormode,0,0.3167410017453987,0.05723251424924821
+2125402103,Efficient Processing of Top-k Queries in Uncertain Databases,2008,26,98,2,0.697674,2115752352,Ke Yi,0,1.0917085745155681,0.16370280480416735
+2165542331,Proof-infused streams enabling authentication of sliding window queries on streams,2007,32,63,1,1.0,2472728339,Feifei Li,0,-0.46893397788284524,0.07728939382804885
+2171688288,Efficient Processing of Top-k Queries in Uncertain Databases with x-Relations,2008,27,96,2,0.697674,2115752352,Ke Yi,0,0.6211348933230001,0.11173051134037064
+2171852828,A Concise Representation of Range Queries,2009,13,2,3,0.697674,2115752352,Ke Yi,0,0.3820908385543769,0.2117467783858426
+2163104215,An information concierge for the Web,2001,13,7,1,1.0,2472728339,Feifei Li,0,-0.04365384838602862,0.5529233164797382
+2157234796,K nearest neighbor queries and kNN-Joins in large relational databases (almost) for free,2010,33,62,2,1.0,2668351771,Bin Yao,0,0.7215975991611812,0.3052417628859806
+2145685121,Hiding in the Crowd Privacy Preservation on Evolving Streams through Correlation Tracking,2007,35,63,1,1.0,2472728339,Feifei Li,0,0.034644713238784555,-0.23836262133861197
+2154879298,Efficient parallel kNN joins for large data in MapReduce,2012,26,178,2,0.0,2615239912,Chi Zhang,0,-0.20133665475165913,-0.19110780330684465
+2185274938,Continuous matrix approximation on distributed data,2014,44,5,3,0.0,2010898942,Mina Ghashami,0,-0.0041099411153885,0.0447066884760059
+2155801378,Approximate string search in spatial databases,2010,36,64,2,1.0,2668351771,Bin Yao,0,0.2890407713334038,-0.11611523215422988
+2165062838,Randomized Synopses for Query Assurance on Data Streams,2008,44,19,2,0.697674,2115752352,Ke Yi,0,-0.15876908443966078,-0.6135684665118507
+2267977268,Exact and approximate flexible aggregate similarity search,2016,22,5,1,1.0,2472728339,Feifei Li,0,-0.0041099411153885,0.0447066884760059
+2273656000,Supporting scalable data analytics on large linked data,2013,0,0,2,1.0,2120460824,Wangchao Le,0,-0.04550114383308332,-0.010315124773731525
+2218143625,Verification of outsourced data streams,2008,48,23,4,0.0,2190072679,Graham Cormode,0,-0.2745762292053669,0.10240794179076973
+2293308125,Spatial online sampling and aggregation,2015,36,29,3,0.0,2684877588,Lu Wang,0,-0.0041099411153885,0.0447066884760059
+2294199357,Authenticated Index Structures for AggregationQueries in Outsourced Databases,2006,27,14,4,0.0,50097054,Marios Hadjieleftheriou,0,-0.0041099411153885,0.0447066884760059
+2336516818,Generating and implementing local search engines over large databases,2014,8,2,1,1.0,2472728339,Feifei Li,0,-0.5676162945288955,1.9544345196920714
+2401109493,LogKV Exploiting Key-Value Stores for Log Processing,2013,9,6,3,0.0,2262947736,Zhao Cao,0,-0.0041099411153885,0.0447066884760059
+2401875400,Query and data security in the data outsourcing model,2008,86,0,2,0.301323,2217777545,George Kollios,0,0.4332287970169502,0.1095854359392946
+2426819612,Wander Join Online Aggregation for Joins,2016,17,5,1,1.0,2472728339,Feifei Li,0,0.9131265818696435,-0.9583661741734082
+2429503397,Graph Analytics Through Fine-Grained Parallelism,2016,64,7,2,0.0,1990809771,Zechao Shang,0,1.6514880785204218,2.0436014558734863
+2420927655,Privacy Preserving Subgraph Matching on Large Graphs in Cloud,2016,24,9,3,0.0,2487769564,Zhao Chang,0,-0.0041099411153885,0.0447066884760059
+2421547754,Wander Join Online Aggregation via Random Walks,2016,51,38,1,1.0,2472728339,Feifei Li,0,1.1331143867863316,-1.2022534750670741
+2480547928,Authenticated Index Structures for Outsourced Database Systems,2006,21,2,4,0.0,50097054,Marios Hadjieleftheriou,0,-0.0041099411153885,0.0447066884760059
+2436533802,Simba Efficient In-Memory Spatial Analytics,2016,32,89,2,0.777778,2708512051,Dong Xie,0,0.0649309083774455,0.24515797642157278
+2540100037,Oblivious RAM a dissection and experimental evaluation,2016,38,15,3,0.0,2487769564,Zhao Chang,0,0.221423897897152,-0.21080654779612165
+2567630118,Simba spatial in-memory big data analysis,2016,12,6,2,0.777778,2708512051,Dong Xie,0,0.0649309083774455,0.24515797642157278
+2614565221,Wander Join and XDB Online Aggregation via Random Walks,2017,58,8,1,1.0,2472728339,Feifei Li,0,1.1331143867863316,-1.2022534750670741
+2751600782,Distributed trajectory similarity search,2017,46,30,2,0.777778,2708512051,Dong Xie,0,-0.20133665475165913,-0.19110780330684465
+2886184382,Solar towards a shared-everything database on distributed log-structured storage,2018,31,4,3,0.666667,2900915399,Tao Zhu,0,1.5724613926895386,1.0811932574510292
+2913176703,Proceedings of the 12th International ACM Workshop on Data Engineering for Wireless and Mobile Acess,2013,0,0,4,0.0,2038300322,Mohamed A. Sharaf,0,-0.0041099411153885,0.0447066884760059
+2913631344,Proceedings of the 2014 ACM SIGMOD International Conference on Management of Data,2014,0,2,2,0.0,360895095,M. Tamer Ã–zsu,0,0.06635930819191084,0.49152641060504293
+2911262214,Session details Research session 12 potpouri,2014,0,0,1,1.0,2472728339,Feifei Li,0,0.06635930819191084,0.49152641060504293
+2951751390,AI Pro Data Processing Framework for AI Models,2019,7,0,3,0.0,2742180428,Richie Frost,0,-0.10908238302075822,-0.0768040518807869
+2954857688,SolarDB Toward a Shared-Everything Database on Distributed Log-Structured Storage,2019,38,0,3,0.666667,2900915399,Tao Zhu,0,1.5724613926895386,1.0811932574510292
+2948051378,X-Engine An Optimized Storage Engine for Large-scale E-commerce Transaction Processing,2019,24,3,7,0.0,2948435145,Gui Huang,0,1.46253230233968,1.4256855204977161
+2970918514,Cloud-native database systems at Alibaba opportunities and challenges,2019,0,1,1,1.0,2472728339,Feifei Li,0,-0.0041099411153885,0.0447066884760059
+2971076479,AnalyticDB real-time OLAP database system at Alibaba cloud,2019,0,0,8,0.0,2971151302,Chaoqun Zhan,0,-0.3632509700454942,1.1437180412081445
+2966185412,iBTune individualized buffer tuning for large-scale cloud databases,2019,0,3,3,0.0,2262193105,Jian Tan,0,-0.0041099411153885,0.0447066884760059
+3022261462,Diagnosing root causes of intermittent slow queries in cloud databases,2020,0,0,2,0.0,2103499243,Dan Pei,0,-0.0041099411153885,0.0447066884760059

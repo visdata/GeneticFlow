@@ -1,0 +1,39 @@
+191489030,TIE Principled Reverse Engineering of Types in Binary Programs,2011,15,108,3,0.0,2806177195,JongHyup Lee,0,0.0040557659796233,0.2757546058061082
+216996474,TACHYON tandem execution for efficient live patch testing,2012,17,25,2,0.0,2608998553,Matthew Maurer,0,0.1639362940477497,0.6530314529854678
+43386570,Towards attack-agnostic defenses,2006,11,5,1,1.0,2157466369,David Brumley,0,0.0040557659796233,0.2757546058061082
+224410497,Towards automatic software lineage inference,2013,43,35,3,1.0,2133540336,Jiyong Jang,0,0.05940095047987125,0.6960502266457337
+563526954,Automatically Inferring the Evolution of Malicious Activity on the Internet,2013,30,7,2,0.0,2163807661,Shobha Venkataraman,0,-0.34824093440265547,0.5453774352720739
+614438062,Optimizing seed selection for fuzzing,2014,18,82,7,0.0,1981989542,Alexandre Rebert,0,0.0040557659796233,0.2757546058061082
+596492259,Blanket execution dynamic similarity testing for program binaries and components,2014,28,72,4,0.0,1922185186,Manuel Egele,0,-0.46853086956334794,1.3605471751131457
+1560720671,Remote timing attacks are practical,2003,13,328,1,1.0,2157466369,David Brumley,0,-1.0666608277415175,-0.11463180334748946
+1482382132,Generic Application-Level Protocol Analyzer and its Language,2007,45,109,2,0.0,2156971739,Nikita Borisov,0,0.9850475990842942,0.9140800360886351
+1536898727,RICH Automatically Protecting Against Integer-Based Vulnerabilities,2007,23,90,1,1.0,2157466369,David Brumley,0,-1.4906487443016354,2.505157669622591
+1275275757,Automatic Problem Generation for Capture-the-Flag Competitions,2015,14,9,3,0.0,2064696292,Christopher Ganas,0,0.04841774909296905,0.2906464507864569
+1412317863,PicoCTF A Game-Based Computer Security Competition for High School Students,2014,13,31,3,1.0,2113235413,Peter Chapman,0,0.0040557659796233,0.2757546058061082
+1546956568,Program-Adaptive Mutational Fuzzing,2015,45,80,3,1.0,2282250597,Sang Kil Cha,0,0.0040557659796233,0.2757546058061082
+1549352151,SplitScreen enabling efficient distributed malware detection,2010,18,38,5,1.0,2282250597,Sang Kil Cha,0,0.05940095047987125,0.6960502266457337
+1496222301,AEG Automatic Exploit Generation,2011,22,148,4,1.0,2164280241,Thanassis Avgerinos,0,0.1639362940477497,0.6530314529854678
+1809664600,Privtrans automatically partitioning programs for privilege separation,2004,32,180,1,1.0,2157466369,David Brumley,0,0.7172204229095085,1.8857700971798959
+1829301546,Sting An End-to-End Self-Healing System for Defending against Internet Worms,2007,53,16,1,1.0,2157466369,David Brumley,0,0.0040557659796233,0.2757546058061082
+2008810193,An empirical study of cryptographic misuse in android applications,2013,23,210,2,0.0,1922185186,Manuel Egele,0,-0.9042144049786085,-0.5653816002922785
+1990762361,ReDeBug Finding Unpatched Code Clones in Entire OS Distributions,2012,15,77,2,1.0,2133540336,Jiyong Jang,0,0.0040557659796233,0.2757546058061082
+2100583963,Towards automatic generation of vulnerability-based signatures,2006,46,274,1,1.0,2157466369,David Brumley,0,0.06205438756094287,0.5324438942697306
+2098786456,A Contractual Anonymity System,2010,28,12,2,0.769231,2148833029,Edward J. Schwartz,0,-0.5544512960627005,0.547596775513061
+2131875129,Replayer automatic protocol replay by binary analysis,2006,24,81,2,0.0,2342680259,James Newsome,0,-0.36720081940496896,-0.1918250796097643
+2123365370,Design space and analysis of worm defense strategies,2006,28,28,1,1.0,2157466369,David Brumley,0,-0.14961960511810343,0.12722050712092697
+2123436168,Q exploit hardening made easy,2011,31,141,3,0.769231,2148833029,Edward J. Schwartz,0,0.09777958774092821,0.8017514082342081
+2108767597,Sting An End-to-End Self-healing System for Defending against Zero-day Worm Attacks on Commodity Software,2006,48,6,2,0.0,2131252044,Dawn Song,0,0.0040557659796233,0.2757546058061082
+2138788987,All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask),2010,64,471,3,0.769231,2148833029,Edward J. Schwartz,0,-0.4183137750007487,1.02699574173218
+2121315148,GPS software attacks,2012,13,61,5,0.0,2224758387,Tyler Nighswander,0,0.0040557659796233,0.2757546058061082
+2119251836,BitBlaze A New Approach to Computer Security via Binary Analysis,2008,29,546,2,0.0,2131252044,Dawn Song,0,-0.9907348076734198,2.0404461612040294
+2107691219,Remote timing attacks are practical,2005,12,338,1,1.0,2157466369,David Brumley,0,-0.7814562980170834,-0.6320499626841705
+2113864883,Unleashing Mayhem on Binary Code,2012,23,253,4,1.0,2282250597,Sang Kil Cha,0,0.1639362940477497,0.6530314529854678
+2165597437,Automatic Patch-Based Exploit Generation is Possible Techniques and Implications,2008,26,174,1,1.0,2157466369,David Brumley,0,0.1639362940477497,0.6530314529854678
+2165952552,Vulnerability-Specific Execution Filtering for Exploit Prevention on Commodity Software,2006,32,111,2,0.0,2342680259,James Newsome,0,0.1639362940477497,0.6530314529854678
+2152697258,Platform-independent programs,2010,15,10,3,1.0,2282250597,Sang Kil Cha,0,0.05940095047987125,0.6960502266457337
+2147118954,Native Ã—86 decompilation using semantics-preserving structural analysis and iterative control-flow structuring,2013,39,60,4,0.0,2133575924,JongHyup Lee,0,0.2018268678365599,0.1425886522275585
+2297061837,Invisible intruders rootkits in practice,1999,0,19,1,1.0,2157466369,David Brumley,0,-0.6537736244944359,1.188263400557981
+2642053679,Your Exploit is Mine Automatic Shellcode Transplant for Remote Exploits,2017,22,11,4,0.0,2560207070,Tiffany Bao,0,0.8770957777503273,0.7878042121150818
+2758899136,How Shall We Play a Game A Game-theoretical Model for Cyber-warfare Games,2017,28,6,6,0.0,2560207070,Tiffany Bao,0,-0.0108485846731903,0.09144199390076926
+2795212651,The Mayhem Cyber Reasoning System,2018,7,7,2,1.0,2164280241,Thanassis Avgerinos,0,0.0040557659796233,0.2757546058061082
+2912159038,Proceedings of the 5th USENIX conference on Offensive technologies,2011,0,2,1,1.0,2157466369,David Brumley,0,0.0040557659796233,0.2757546058061082

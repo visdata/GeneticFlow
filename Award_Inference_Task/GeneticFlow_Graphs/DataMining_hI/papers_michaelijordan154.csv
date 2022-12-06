@@ -1,0 +1,61 @@
+41532645,Modeling events in time using cascades of poisson processes,2010,33,8,2,0.0,2224754536,Aleksandr Simma,0,0.003708468606338,0.082832279151172
+164902916,Mining console logs for large-scale system problem detection,2008,15,93,5,1.0,2610295154,Wei Xu,0,0.2537512442650732,0.3062449983784286
+1490883626,Link analysis eigenvectors and stability,2001,13,199,3,1.0,2104401652,Andrew Y. Ng,0,0.01081499603401945,-0.22829683392880562
+1546421159,Active Learning for Crowd-Sourced Databases,2012,63,30,4,0.0,2002600875,Barzan Mozafari,0,0.3696177547456809,-0.1235682632368456
+1874755017,TuPAQ An Efficient Planner for Large-scale Predictive Analytic Queries,2015,33,17,4,0.0,2095953017,Evan R. Sparks,0,0.0597908726731833,-0.2449448024264691
+1880262756,Latent dirichlet allocation,2003,27,20318,3,0.0,2289542319,David M. Blei,0,0.8172507251574027,1.9008391535328142
+1859707960,Asynchronous Complex Analytics in a Distributed Dataflow Architecture,2015,77,8,3,0.0,2252171364,Joseph E. Gonzalez,0,0.003708468606338,0.082832279151172
+1966705109,A general bootstrap performance diagnostic,2013,18,18,5,1.0,2098834125,Ariel Kleiner,0,0.003708468606338,0.082832279151172
+1994911035,Divide-and-conquer and statistical inference for big data,2012,0,10,1,1.0,2435751034,Michael I. Jordan,0,0.12492345808765674,0.23414093372237493
+2002791618,Knowing when youre wrong building fast and reliable approximate query processing systems,2014,31,117,5,0.538462,2644412219,Sameer Agarwal,0,-0.2201975823991852,0.1743392301268295
+2020842694,Modeling annotated data,2003,17,985,2,0.0,2289542319,David M. Blei,0,-0.952439873774493,-0.4099256308957632
+2030115031,Learning Low-Dimensional Signal Models,2011,47,19,5,0.0,657437189,Lawrence Carin,0,0.8287255749586672,0.20989336561229807
+2011318210,Machine Learning and Databases The Sound of Things to Come or a Cacophony of Hype ,2015,0,10,6,0.0,2893888,Michael Cafarella,0,0.003708468606338,0.082832279151172
+2046025323,Solving Consensus and Semi-supervised Clustering Problems Using Nonnegative Matrix Factorization,2007,19,162,3,0.0,2472069284,Tao Li,0,-0.9082925693956836,3.3017332395808343
+2039157918,Detecting large-scale system problems by mining console logs,2009,41,481,5,1.0,2610295154,Wei Xu,0,0.17968548633419076,0.4254766199353514
+2061287082,Panel on Mining the Big Data,2012,0,0,5,0.0,2096053174,Zijian Zheng,0,0.12492345808765674,0.23414093372237493
+2074702228,Automating model search for large scale machine learning,2015,40,73,5,0.0,2095953017,Evan R. Sparks,0,0.0597908726731833,-0.2449448024264691
+2102524821,Active site prediction using evolutionary and structural information,2010,73,56,4,0.0,2054595216,Sriram Sankararaman,0,-0.06868386095689515,0.24205629126618533
+2100773341,Predicting Multiple Metrics for Queries Better Decisions Enabled by Machine Learning,2009,22,226,6,0.0,2101558141,Archana Ganapathi,0,0.3035469802816595,0.3208697669437689
+2105454049,Failure diagnosis using decision trees,2004,17,239,4,0.0,2147201649,Mike Y. Chen,0,0.7508523047664529,0.8669942587093077
+2132001804,Computational and statistical tradeoffs via convex relaxation,2013,55,148,2,0.0,2163953988,Venkat Chandrasekaran,0,0.003708468606338,0.082832279151172
+2114554028,Online System Problem Detection by Mining Patterns of Console Logs,2009,29,97,5,1.0,2610295154,Wei Xu,0,0.21177702343899382,0.04513976421546027
+2135745352,THE ASYMPTOTICS OF RANKING ALGORITHMS,2013,52,16,3,1.0,2524462901,John C. Duchi,0,-0.0106786212781008,2.75227273993042
+2118127869,Sharing Features among Dynamical Systems with Beta Processes,2009,25,113,3,0.0,2130148372,Emily B. Fox,0,0.003708468606338,0.082832279151172
+2132827946,Hierarchical Topic Models and the Nested Chinese Restaurant Process,2003,12,704,3,0.0,2289542319,David M. Blei,0,0.5783870466609858,1.6188663472879454
+2143144851,Learning from Dyadic Data,1998,8,115,3,0.0,2240984066,Thomas Hofmann,0,0.21438872843298346,-0.1353423822296997
+2134232723,Feature Selection Methods for Improving Protein Structure Prediction with Rosetta,2007,5,13,2,0.0,2168995828,Ben Blum,0,-0.25023896793326905,0.13037718530513653
+2131365923,Active spectral clustering via iterative uncertainty reduction,2012,24,39,3,1.0,1762337056,Fabian L. Wauthier,0,-0.821451681401042,2.8987105079902893
+2131400476,The Missing Piece in Complex Analytics Low Latency Scalable Model Management and Serving with Velox,2014,22,53,8,0.0,2485898939,Daniel Crankshaw,0,0.06097869481368154,0.08440389465049171
+2137401344,Simultaneous Relevant Feature Identification and Classification in High-Dimensional Spaces,2002,31,15,3,0.0,2845679322,L. R. Grate,0,-0.9634542336410225,-0.21701430272212024
+2134370969,Fast approximate spectral clustering,2009,39,336,3,0.0,2110658715,Donghui Yan,0,-0.8506757423325126,2.993886785734365
+2110877857,Multiple Non-Redundant Spectral Clustering Views,2010,14,100,3,0.0,2112318893,Donglin Niu,0,-0.9211991615469002,3.298294457080068
+2140565974,The Big Data Bootstrap,2012,9,44,4,1.0,2098834125,Ariel Kleiner,0,0.12492345808765674,0.23414093372237493
+2114028889,On the Consistency of Ranking Algorithms,2010,14,96,3,1.0,2524462901,John C. Duchi,0,1.2350652037173413,0.39061007574644036
+2141075029,Stable algorithms for link analysis,2001,15,265,3,1.0,2005707679,Alice X. Zheng,0,0.01081499603401945,-0.22829683392880562
+2171353991,A latent variable model for chemogenomic profiling,2005,46,51,4,0.0,2308618899,Patrick Flaherty,0,-0.21934185016841626,0.6056873083074126
+2168396085,Bayesian Bias Mitigation for Crowdsourcing,2011,19,94,2,1.0,1762337056,Fabian L. Wauthier,0,0.09301990987358692,0.053686335268029683
+2162376048,Scalable statistical bug isolation,2005,14,657,4,1.0,1209908214,Ben Liblit,0,-0.25023896793326905,0.13037718530513653
+2171604933,In-Network PCA and Anomaly Detection,2006,25,142,3,0.884615,2302984154,Ling Huang,0,0.20279561436658805,0.0753070172078775
+2184542614,Solving Consensus and Semi-supervised Clustering Problems Using Nonnegative,2007,19,0,2,0.0,2119616764,Chris Ding,0,-0.9228324196544082,3.2980733040698764
+2184623761,MLbase A Distributed Machine-learning System,2013,22,218,6,0.0,2078839115,Tim Kraska,0,0.12492345808765674,0.23414093372237493
+2155306111,SMaSH a benchmarking toolkit for human genome variant calling,2014,31,37,9,0.913043,2042309534,Ameet Talwalkar,0,-0.06868386095689515,0.24205629126618533
+2155479707,Bug isolation via remote program sampling,2003,23,516,3,1.0,1209908214,Ben Liblit,0,-0.25023896793326905,0.13037718530513653
+2161444669,A statistical framework for genomic data fusion,2004,34,573,4,0.0,60139091,Gert R. G. Lanckriet,0,-0.1908094651786742,0.41037779126763796
+2158535911,Nonparametric Latent Feature Models for Link Prediction,2009,24,324,3,0.0,2282881260,Kurt T. Miller,0,0.003708468606338,0.082832279151172
+2152798551,Spectral Methods meet EM A Provably Optimal Algorithm for Crowdsourcing,2014,32,28,4,0.666667,2462785460,Yuchen Zhang,0,0.23447002456144056,0.35297506154309793
+2146774335,A scalable bootstrap for massive data,2014,24,184,4,0.913043,2042309534,Ameet Talwalkar,0,0.21438872843298346,-0.1353423822296997
+2200506655,Joint Modeling of Multiple Related Time Series via the Beta Process,2011,40,20,4,0.272727,198699297,Erik B. Sudderth,0,0.003708468606338,0.082832279151172
+2232142723,Detecting Large-Scale System Problems by Mining Console Logs,2010,27,24,5,0.888889,2610295154,Wei Xu,0,0.04709206819752631,0.47222175242901887
+2260305637,Knowing when youre wrong Building fast and reliable approximate query processing systems,2014,0,0,5,0.538462,2644412219,Sameer Agarwal,0,0.003708468606338,0.082832279151172
+2246538444,A Unified Probabilistic Model for Global and Local Unsupervised Feature Selection,2011,26,24,3,0.0,2221510475,Yue Guan,0,-0.31429003493656954,0.46309890269130877
+2292361954,Scaling up crowd-sourcing to very large datasets a case for active learning,2014,40,100,3,0.0,2002600875,Barzan Mozafari,0,-0.458774449104246,2.3937619349828494
+2295264566,Neural networks,1996,2,0,1,1.0,2435751034,Michael I. Jordan,0,0.003708468606338,0.082832279151172
+2433423327,Large-Scale System Problems Detection by Mining Console Logs,2009,29,9,4,0.0,2098984663,David A. Patterson,0,0.17968548633419076,0.4254766199353514
+2521090760,A Framework for Genomic Data Fusion and its Application to Membrane Protein Prediction,2004,9,3,3,0.0,60139091,Gert R. G. Lanckriet,0,-0.1908094651786742,0.41037779126763796
+2511082080,Spectral methods meet EM a provably optimal algorithm for crowdsourcing,2016,26,37,4,0.666667,2462785460,Yuchen Zhang,0,0.23447002456144056,0.35297506154309793
+2794644743,Bayesian Inference for a Generative Model of Transcriptome Profiles from Single-cell RNA Sequencing,2018,56,22,3,0.512195,2075024356,Nir Yosef,0,0.07327491195560089,0.5515164076091094
+2952398054,Efficient Stepwise Selection in Decomposable Models,2013,5,3,3,0.0,2002742946,Amol Deshpande,0,0.003708468606338,0.082832279151172
+2953128868,Computing Upper and Lower Bounds on Likelihoods in Intractable Networks,2013,9,0,2,0.0,340253981,Tommi S. Jaakkola,0,0.003708468606338,0.082832279151172
+2901677030,Deep generative modeling for single-cell transcriptomics,2018,44,170,4,0.512195,2075024356,Nir Yosef,0,-0.0421600837397371,0.7517471605365825
+2911551350,Probabilistic Harmonization and Annotation of Single-cell Transcriptomics Data with Deep Generative Models,2019,101,9,3,0.512195,2075024356,Nir Yosef,0,0.3865568581966178,-0.36137739690358583

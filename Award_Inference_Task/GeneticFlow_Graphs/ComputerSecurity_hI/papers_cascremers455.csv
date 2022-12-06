@@ -1,0 +1,64 @@
+157178500,Key exchange in IPsec revisited formal analysis of IKEv1 and IKEv2,2011,38,39,1,1.0,2146164808,Cas Cremers,0,-1.1201457559306947,-1.887039727285438
+110317680,One-round strongly secure key exchange with perfect forward secrecy and deniability,2011,27,43,1,1.0,2146164808,Cas Cremers,0,-0.6685668003644443,-2.142072536914302
+647742179,Operational Semantics and Verification of Security Protocols,2012,0,49,1,1.0,2146164808,Cas Cremers,0,-0.21076668584421945,-0.08178387039598743
+1487877514,Session-state Reveal Is Stronger Than Ephemeral Key Reveal Attacking the NAXOS Authenticated Key Exchange Protocol,2009,15,52,1,1.0,2146164808,Cas Cremers,0,-0.48033549222420757,-0.6944367174292595
+1533573933,Evaluation of ISO/IEC 9798 Protocols,2011,11,3,1,1.0,2146164808,Cas Cremers,0,-0.7848430879690894,0.1758780166704572
+1489972580,Degrees of security protocol guarantees in the face of compromising adversaries,2010,30,12,2,0.0,2203547071,David Basin,0,-0.251741768795749,-0.5431200717207302
+1554945394,Provably repairing the ISO/IEC 9798 standard for entity authentication,2012,24,16,2,0.0,2203547071,David Basin,0,-0.7951210805525405,-0.512629798979295
+1603878273,The Scyther Tool Verification Falsification and Analysis of Security Protocols,2008,12,288,1,1.0,2146164808,Cas Cremers,0,-0.05522287678135899,-0.976215489012379
+1673390222,Provably repairing the ISO/IEC 9798 standard for entity authentication,2013,20,31,2,0.0,2203547071,David Basin,0,-1.1596929825631197,-1.0590096768445463
+1975306232,Improving the Security of Cryptographic Protocol Standards,2015,15,20,2,0.0,2203547071,David Basin,0,-0.9349729350053706,-0.6762507202474816
+1992600346,A Syntactic Criterion for Injectivity of Authentication Protocols,2005,17,4,1,1.0,2146164808,Cas Cremers,0,-1.331505184759967,-0.6398877059577869
+2002084641,Compositionality of Security Protocols A Research Agenda,2006,14,23,1,1.0,2146164808,Cas Cremers,0,-0.7833632668819805,-0.0338538415690407
+2013879772,Examining indistinguishability-based security models for key exchange protocols the case of CK CK-HMQV and eCK,2011,25,51,1,1.0,2146164808,Cas Cremers,0,-0.42412616880022097,-1.3928846435783901
+2024761866,Automated Verification of Group Key Agreement Protocols,2014,30,22,3,0.0,2469218488,Benedikt Schmidt,0,0.3977985008752805,-1.1358635759629536
+2010910824,Session-StateReveal is stronger than eCKs EphemeralKeyReveal using automatic analysis to attack the NAXOS protocol,2010,18,6,1,1.0,2146164808,Cas Cremers,0,-0.16118195796680476,-1.0342717022848276
+2101743706,Actor Key Compromise Consequences and Countermeasures,2014,26,8,2,0.0,2203547071,David Basin,0,-0.19014759657982352,-0.17157207342430267
+2099175354,ARPKI Attack Resilient Public-Key Infrastructure,2014,15,69,2,0.0,2203547071,David Basin,0,0.20563489260103776,-1.4544441710994835
+2122190611,Improving the ISO/IEC 11770 standard for key management techniques,2016,23,10,1,1.0,2146164808,Cas Cremers,0,-0.6058511927564297,-0.125199567086999
+2116683577,Know Your Enemy Compromising Adversaries in Protocol Analysis,2014,50,18,2,0.0,2203547071,David Basin,0,-0.5952387986491321,-0.25430520421587244
+2134703462,ASICS Authenticated Key Exchange Security Incorporating Certification Systems,2013,28,14,2,0.0,2142756370,Colin Boyd,0,-0.30653902932173543,-0.708383837911848
+2157301192,Modeling and analyzing security in the presence of compromising adversaries,2010,45,39,2,0.0,2203547071,David Basin,0,-0.44500414860130205,-0.4997790092352777
+2166863759,Feasibility of multi-protocol attacks,2006,21,44,1,1.0,2146164808,Cas Cremers,0,-0.615615274109089,0.8635138039652567
+2170071570,Keeping data secret under full compromise using porter devices,2010,27,12,4,0.0,2920293191,Christina PÃ¶pper,0,-0.22436251682281538,-0.3801545181561413
+2174925257,Beyond eCK Perfect Forward Secrecy under Actor Compromise and Ephemeral-Key Reveal,2012,18,30,1,1.0,2146164808,Cas Cremers,0,-0.5635037715886241,-0.7394027575321048
+2155481610,Distance Hijacking Attacks on Distance Bounding Protocols,2012,28,121,1,1.0,2146164808,Cas Cremers,0,0.3171484069971384,-0.13992525839030945
+2150187928,Checking secrecy by means of partial order reduction,2004,10,26,1,1.0,2146164808,Cas Cremers,0,-0.41358320591360664,-0.4716868801758259
+2221997848,ASICS authenticated key exchange security incorporating certification systems,2017,40,2,2,0.0,2142756370,Colin Boyd,0,-0.17325622366705634,-0.9974830962004892
+2398247868,Formally and Practically Relating the CK CK-HMQV and eCK Security Models for Authenticated Key Exchange,2009,24,24,1,1.0,2146164808,Cas Cremers,0,-0.42412616880022097,-1.3928846435783901
+2405022369,Distance Hijacking Attacks on Distance Bounding Protocols,2012,0,2,1,1.0,2146164808,Cas Cremers,0,0.0040557659796233,0.2757546058061082
+2515148583,On Post-compromise Security,2016,22,29,2,1.0,2509890261,Katriel Cohn Gordon,0,-1.5734043204799522,2.4417622364221345
+2520539619,On Bitcoin Security in the Presence of Broken Cryptographic Primitives,2016,39,17,2,0.857143,2556530791,Ilias Giechaskiel,0,-0.3853697539095005,-0.7531256230861032
+2530329771,Distance Hijacking Attacks on Distance Bounding Protocols - Abstract,2010,4,0,2,0.0,2126629358,Kasper Bonne Rasmussen,0,0.0276768635562398,0.43821742870159186
+2566711147,A Formal Security Analysis of the Signal Messaging Protocol,2017,28,69,2,1.0,2509890261,Katriel Cohn Gordon,0,-0.33403010927185195,-0.9493499154598097
+2511395838,Design Analysis and Implementation of ARPKI an Attack-Resilient Public-Key Infrastructure,2016,11,13,2,0.0,2203547071,David Basin,0,-0.014996956487872793,-1.1039690201941896
+2513374167,Automated Analysis and Verification of TLS 13 0-RTT Resumption and Delayed Authentication,2016,43,27,1,1.0,2146164808,Cas Cremers,0,-0.948475245462008,-1.1689604714473187
+2593701052,Examining Indistinguishability-Based Security Models for Key Exchange Protocols,2011,0,0,1,1.0,2146164808,Cas Cremers,0,-0.31388022850269576,-0.6501430638263855
+2588528865,Strengthening the security of authenticated key exchange against bad randomness,2018,23,2,2,0.857143,2099823268,Michele Feltz,0,0.11078625810906395,-0.29919860859885855
+2744478552,DECIM Detecting Endpoint Compromise In Messaging,2018,21,10,3,0.228983,2461895243,Jiangshan Yu,0,0.3400398650295564,-0.5660016998433545
+2765700031,A Comprehensive Symbolic Analysis of TLS 13,2017,38,27,1,1.0,2146164808,Cas Cremers,0,-1.4150212749531985,-1.9668851009943038
+2741014554,On Ends-to-Ends Encryption Asynchronous Group Messaging with Strong Security Guarantees,2018,40,13,2,0.857143,2509890261,Katriel Cohn Gordon,0,0.48044344002853173,-1.9308354102285734
+2759481512,Automatically Detecting the Misuse of Secrets Foundations Design Principles and Applications,2017,21,4,2,0.0,3014801419,Kevin Milner,0,-0.2017185604566445,-0.19437550864922493
+2751115096,Improving Automated Symbolic Analysis for E-voting Protocols A Method Based on Sufficient Conditions for Ballot Secrecy,2017,18,0,1,1.0,2146164808,Cas Cremers,0,-0.18211852706019824,-0.017390216493098094
+2742647072,Secure Authentication in the Grid A Formal Analysis of DNP3 SAv5,2017,14,3,1,1.0,2146164808,Cas Cremers,0,-1.5122216148413228,-1.4442836765015776
+2773344899,Symbolically analyzing security protocols using tamarin,2017,29,5,2,0.0,2203547071,David Basin,0,-0.4431931815570836,-0.6183190123592079
+2795123040,Mind the Gap Where Provable Security and Real-World Messaging Dont Quite Meet,2017,0,2,2,1.0,2509890261,Katriel Cohn Gordon,0,0.5103162592827093,-0.6290324285323514
+2807853195,Operational semantics of security protocols,2004,0,0,1,1.0,2146164808,Cas Cremers,0,-0.4431931815570836,-0.6183190123592079
+2887566755,When the Crypto in Cryptocurrencies Breaks Bitcoin Security under Broken Primitives,2018,11,7,2,0.857143,2556530791,Ilias Giechaskiel,0,0.10475288616472578,-1.24077882369611
+2885085113,Randomness Improvements for Security Protocols,2020,0,0,1,1.0,2146164808,Cas Cremers,0,-0.32484460498059076,-0.34559756902293043
+2902206636,Security Analysis for Randomness Improvements for Security Protocols,2018,0,0,2,0.0,2789407912,L R Akhmetzyanova,0,-0.16226279780689024,-0.409071775356469
+2899046497,Session details Session 2C Crypto Attacks,2018,0,0,1,1.0,2146164808,Cas Cremers,0,0.0040557659796233,0.2757546058061082
+2900297088,How to detect unauthorised usage of a key,2015,0,2,3,0.228983,2461895243,Jiangshan Yu,0,0.0040557659796233,0.2757546058061082
+2949496161,ASICS Authenticated Key Exchange Security Incorporating Certification Systems,2013,0,0,2,0.0,2142756370,Colin Boyd,0,-0.7394281071891786,-1.9830366300391988
+2946869648,Component-Based Formal Analysis of 5G-AKA Channel Assumptions and Session Confusion,2019,0,8,1,1.0,2146164808,Cas Cremers,0,0.0040557659796233,0.2757546058061082
+2947023307,Revisiting Post-Compromise Security Guarantees in Group Messaging,2019,0,0,1,1.0,2146164808,Cas Cremers,0,0.0040557659796233,0.2757546058061082
+2950047157,On Post-Compromise Security,2016,0,0,2,1.0,2509890261,Katriel Cohn Gordon,0,0.0040557659796233,0.2757546058061082
+2952462933,Session-state Reveal is stronger than Ephemeral Key Reveal Attacking the NAXOS Authenticated Key Exchange protocol,2008,0,0,1,1.0,2146164808,Cas Cremers,0,-0.5285925537851736,-0.9940720780392343
+2952579983,Beyond eCK Perfect Forward Secrecy under Actor Compromise and Ephemeral-Key Reveal,2012,0,0,1,1.0,2146164808,Cas Cremers,0,-0.03871619365187837,-0.6297653994335227
+2950744594,On Bitcoin Security in the Presence of Broken Crypto Primitives,2016,33,8,2,0.857143,2556530791,Ilias Giechaskiel,0,0.0040557659796233,0.2757546058061082
+2953127120,Distance Hijacking Attacks on Distance Bounding Protocols,2011,0,13,1,1.0,2146164808,Cas Cremers,0,0.0040557659796233,0.2757546058061082
+2953227860,A Formal Security Analysis of the Signal Messaging Protocol,2016,0,3,2,1.0,2509890261,Katriel Cohn Gordon,0,0.2018268678365599,0.1425886522275585
+2953283975,On the Limits of Authenticated Key Exchange Security with an Application to Bad Randomness,2014,27,5,2,0.857143,2099823268,Michele Feltz,0,0.08405953092902407,-0.2097440509937201
+2987645728,Seems Legit Automated Analysis of Subtle Attacks on Protocols that Use Signatures,2019,27,2,2,0.0,2954524208,Dennis Jackson,0,0.0040557659796233,0.2757546058061082
+2965692037,Seems Legit Automated Analysis of Subtle Attacks on Protocols that Use Signatures,2019,0,1,2,0.0,2954524208,Dennis Jackson,0,0.0040557659796233,0.2757546058061082
+3020872719,A Spectral Analysis of Noise A Comprehensive Automated Formal Analysis of Diffie-Hellman Protocols,2020,0,0,5,0.0,3022618000,Guillaume Girol,0,-0.6827503027756272,-1.9877830307704296

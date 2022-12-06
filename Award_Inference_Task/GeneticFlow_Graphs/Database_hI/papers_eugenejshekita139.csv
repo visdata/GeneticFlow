@@ -1,0 +1,40 @@
+1568958955,Storage management for objects in EXODUS,1989,39,84,4,0.0,1979791317,David J. DeWitt,0,1.5354926890350802,0.246495124860745
+1480461337,Efficient partitioned joins in a database with column-major layout,2012,24,18,7,0.0,401236404,Guy M. Lohman,0,-0.044960371866018124,-0.1330539129963641
+1508355855,Object and File Management in the EXODUS Extensible Database System,1986,30,252,4,0.0,2157114695,Michael J. Carey,0,-0.06333366285832284,0.4409571020949417
+1564768453,Architecture of the EXODUS extensible DBMS a preliminary report,1986,0,2,6,0.0,364421747,M. Muralikrishna,0,0.279888126725718,0.2212557419477704
+1556744446,Indexing shared content in information retrieval systems,2006,22,34,8,0.0,1970098533,Andrei Z. Broder,0,1.2817510338281937,-0.2904654312781163
+1575324001,Jaql A Scripting Language for Large Scale Semistructured Data Analysis,2011,30,182,8,0.0,2273214336,Kevin Scott Beyer,0,0.13120897851039373,0.41538048798475946
+1540408937,XPERANTO Middleware for Publishing Object-Relational Data as XML Documents,2000,9,149,4,0.0,2798526318,Michael J. Carey,0,2.4723366931235873,-1.0231400386713763
+1585853635,An Incremental Join Attachment for Starburst,1990,17,43,2,0.0258689,2157114695,Michael J. Carey,0,-0.0041099411153885,0.0447066884760059
+1904098013,System method and computer program product for querying XML documents using a relational database system,2002,1,56,2,1.0,1989847040,Jayavel Shanmugasundaram,0,2.2264543832113666,-0.864750789273662
+1578663810,Intra-block partitioning for database management,2012,10,9,7,0.0,240506892,Sam Lightstone,0,0.04950169860597583,0.2024605638798553
+1598467895,Impliance A Next Generation Information Management Appliance,2007,25,6,11,0.705882,2290747941,Bishwaranjan Bhattacharjee,0,-0.40975864434508047,0.2110873139452707
+1694233656,The architecture of the EXODUS extensible DBMS,1986,57,193,6,0.0,2157114695,Michael J. Carey,0,2.5220678176271214,0.6708662729381849
+1916576906,Efficiently Publishing Relational Data as XML Documents,2001,24,324,2,1.0,1989847040,Jayavel Shanmugasundaram,0,2.383330673966443,-0.8959962555659011
+1781113593,XPERANTO Publishing Object-Relational Data as XML,2000,7,144,6,0.0,2798526318,Michael J. Carey,0,2.1915258683922056,-0.9343196709149998
+1973440079,A general technique for querying XML documents using a relational database system,2001,14,145,7,0.0,219131493,Efstratios Viglas,0,1.9339240277568177,-0.5603150191587928
+1975511167,Technical note-- XTABLES Bridging relational technology and XML,2003,1,3,4,1.0,1989847040,Jayavel Shanmugasundaram,0,1.8642671871092675,-0.1256169735786502
+2021641175,E = MC 3 managing uncertain enterprise data in a cluster-computing environment,2009,27,17,5,0.769464,293843641,Vuk Ercegovac,0,0.16540389557962842,0.7392025671974257
+2028961124,Supporting sub-document updates and queries in an inverted index,2008,26,46,4,0.769464,293843641,Vuk Ercegovac,0,0.36901190230350345,-0.5674841783521675
+2038685484,Clydesdale structured data processing on MapReduce,2012,34,43,2,0.0,1964002351,Tim Kaldewey,0,0.9303178439476889,-0.17066521170589824
+2046269252,Starburst mid-flight as the dust clears (database project),1990,42,234,9,0.0,401236404,Guy M. Lohman,0,1.15941583720679,0.24889372652238476
+2043099794,A comparison of join algorithms for log processing in MaPreduce,2010,12,362,5,0.0,1548171544,Spyros Blanas,0,-0.0041099411153885,0.0447066884760059
+2084060979,Performance enhancement through replication in an object-oriented DBMS,1989,17,40,1,1.0,2309335715,Eugene J. Shekita,0,0.12628174114238816,0.0039009070058818006
+2089706179,Data caching tradeoffs in client-server DBMS architectures,1991,19,199,4,0.0585618,2157114695,Michael J. Carey,0,-0.0041099411153885,0.0447066884760059
+2114854276,Column-oriented storage techniques for MapReduce,2011,23,97,3,0.0,66563207,Avrilia Floratou,0,-0.27058336083767676,-0.9828246201482299
+2141788659,Leveraging a scalable row store to build a distributed text index,2009,14,18,3,0.0,2431793061,Ning Li,0,-0.0041099411153885,0.0447066884760059
+2121008273,Querying XML Views of Relational Data,2001,14,255,3,1.0,1989847040,Jayavel Shanmugasundaram,0,2.2264543832113666,-0.864750789273662
+2135934107,Using Paxos to build a scalable consistent and highly available datastore,2011,24,119,2,0.0,2166272846,Jun Rao,0,-0.0041099411153885,0.0447066884760059
+2109464129,Storing and querying ordered XML using a relational database system,2002,21,1769,5,0.6,1933908129,Igor Tatarinov,0,2.47099987563406,-1.0027238211802587
+2113496787,An evaluation of Starbursts memory resident storage component,1992,27,65,2,0.0,2973520135,T.J. Lehman,0,0.41007193951836696,0.42049043592070473
+2147722789,Fundamental techniques for order optimization,1996,17,106,2,0.5,2005619919,David E. Simmen,0,0.6410952800138621,-0.013891710893877425
+2171903035,Improved histograms for selectivity estimation of range predicates,1996,26,531,4,0.0,2277382647,Viswanath Poosala,0,-0.0041099411153885,0.0447066884760059
+2154613491,Efficient inverted lists and query algorithms for structured value ranking in update-intensive relational databases,2005,30,12,4,0.0,2781050065,G. Guo,0,1.4025656245756026,0.03521926016362837
+2176873512,The EXODUS extensible DBMS project an overview,1989,56,122,6,0.0,1979791317,David J. DeWitt,0,1.0119071961820523,0.4437651911578874
+2164688050,XTABLES Bridging relational technology and XML,2002,22,65,4,0.0,2275563305,J. E. Funderburk,0,2.3394384485594557,-0.9699754374493135
+2146884585,A performance evaluation of pointer-based joins,1990,16,95,1,1.0,2309335715,Eugene J. Shekita,0,1.1941091794462926,0.14107462292952677
+2214161157,System and method for identifying and constructing star joins for execution by bitmap ANDing,1999,22,35,4,0.5,2005619919,David E. Simmen,0,1.18961923525789,-0.3142766353123401
+2285936191,Method for processing XML queries over relational data and meta-data using a relational database system,2002,24,14,2,1.0,1989847040,Jayavel Shanmugasundaram,0,1.764641805939944,0.265103284449368
+2951602731,Impliance A Next Generation Information Management Appliance,2006,0,0,11,0.705882,2290747941,Bishwaranjan Bhattacharjee,0,-0.40975864434508047,0.2110873139452707
+2950250321,Using Paxos to Build a Scalable Consistent and Highly Available Datastore,2011,20,17,2,0.0,2166272846,Jun Rao,0,-0.0041099411153885,0.0447066884760059
+2950590364,Column-Oriented Storage Techniques for MapReduce,2011,15,7,3,0.0,66563207,Avrilia Floratou,0,-0.27058336083767676,-0.9828246201482299

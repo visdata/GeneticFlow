@@ -1,0 +1,28 @@
+197709981,Challenges Techniques and Directions in Building XSeek an XML Search Engine,2009,17,47,3,0.0,2164040783,Raghu Ramakrishnan,0,0.5586742082380666,-0.1984847101299193
+99915623,Monitoring Stream Properties for Continuous Query Processing,2003,11,6,3,0.0,671527850,Jennifer Widom,0,-0.11078297277902291,-0.45588059253357405
+1493098199,Consistently estimating the selectivity of conjuncts of predicates,2005,31,51,6,0.0,1963964406,Volker Markl,0,0.014532710543751099,0.030944858938630852
+1484898602,Efficient online computation of diverse query results,2007,15,18,4,0.647059,1975209745,Sihem Amer Yahia,0,0.7215975991611812,0.3052417628859806
+1512675310,Memory-limited execution of windowed stream joins,2004,23,174,1,1.0,2274204266,Utkarsh Srivastava,0,0.007334245363849856,0.0884093997571545
+1831560769,STREAM The Stanford Data Stream Management System,2016,23,391,8,0.0,2288886406,Arvind Arasu,0,-0.02504284252244325,-0.47177666628625237
+2023977759,Exploiting k -constraints to reduce memory overhead in continuous queries over data streams,2004,48,163,3,0.0,671527850,Jennifer Widom,0,-0.42845202490949574,0.1450203979855267
+2102959828,Vision paper enabling privacy for the paranoids,2004,53,49,8,0.5,2140110832,Gagan Aggarwal,0,0.18601297105691045,-0.0008472885667257998
+2100575384,Efficient top-k processing over query-dependent functions,2008,24,3,5,0.0,2428563880,Lin Guo,0,-0.0041099411153885,0.0447066884760059
+2098935637,Pig latin a not-so-foreign language for data processing,2008,11,1687,3,0.0,2023450202,Christopher Olston,0,0.05541249926930408,0.6086030893740271
+2126354234,Generating example data for dataflow programs,2009,16,46,3,0.0,2023450202,Christopher Olston,0,-1.371874739873285,-2.074199432167601
+2142031898,Building a high-level dataflow system on top of Map-Reduce the Pig experience,2009,14,355,9,0.0,2115766557,Alan F. Gates,0,0.07601273109295748,-0.25015726420176815
+2115572419,Approximating StreamingWindow Joins Under CPU Limitations,2006,6,17,4,0.0,2974823423,A. Ayad,0,-0.01965372328504981,0.0432553969855026
+2124711321,Asynchronous view maintenance for VLSD databases,2009,23,66,4,0.0,2186177736,Parag Agrawal,0,0.6479978771375573,-0.05550703666277078
+2119956568,Two Can Keep a Secret A Distributed Architecture for Secure Database Services,2005,27,229,7,0.5,2140110832,Gagan Aggarwal,0,1.4038500489769918,0.13118586968107404
+2159115664,Efficient bulk insertion into a distributed ordered table,2008,23,38,3,0.642857,2692598934,Adam Silberstein,0,-0.0041099411153885,0.0447066884760059
+2150779766,ISOMER Consistent Histogram Construction Using Query Feedback,2006,18,83,1,1.0,2274204266,Utkarsh Srivastava,0,-0.0041099411153885,0.0447066884760059
+2161547991,Efficient Computation of Diverse Query Results,2008,11,146,4,0.823529,2134018118,Erik Vee,0,-0.0373231766471574,-0.37220024965682885
+2168009816,Query optimization over web services,2006,26,186,1,1.0,2274204266,Utkarsh Srivastava,0,-1.4996882579462965,-1.9922081524459931
+2150013559,PNUTS Yahoo s hosted data serving platform,2008,26,932,5,0.0,1963506564,Hans Arno Jacobsen,0,-0.741320753682336,0.5359721595022867
+2243370247,Dynamic data reorganization to accommodate growth across replicated databases,2007,5,21,7,0.0,2003419062,Philip Bohannon,0,-0.2303595420675694,-0.2907750566148773
+2253585716,Decentralized record expiry,2007,4,12,4,0.0,2003419062,Philip Bohannon,0,0.0835119396817451,0.051530138659233005
+2249238185,Generating Example Data for Testing Database Queries,2008,8,4,2,0.0,2023450202,Christopher Olston,0,-0.3652008450463068,0.3160971441695779
+2270920949,System and method for writing data dependent upon multiple reads in a distributed database,2008,28,10,2,0.684211,2222074182,Ramana Yerneni,0,0.7136135210814629,0.6237864609292966
+2277154395,System and/or method for bulk loading of records into an ordered distributed database,2008,42,16,4,0.823529,2134018118,Erik Vee,0,0.17311357004082725,0.3082464480694767
+2398660820,STREAM The Stanford Stream Data Manager,2003,0,402,8,0.0,2288886406,Arvind Arasu,0,0.1882434276923103,-1.0430197535152996
+2414854274,System and method for asynchronous update of indexes in a distributed database,2008,3,26,3,0.0,2164040783,Raghu Ramakrishnan,0,1.088737650835673,0.1847392195969521
+2970882829,PNUTS to Sherpa lessons from Yahoo s cloud database,2019,0,0,4,0.0,1963506564,Hans Arno Jacobsen,0,-0.0041099411153885,0.0447066884760059

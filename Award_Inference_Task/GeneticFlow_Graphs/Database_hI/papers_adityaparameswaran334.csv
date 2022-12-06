@@ -1,0 +1,49 @@
+97526424,Query Processing over Crowdsourced Data,2012,20,8,2,0.0,671527850,Jennifer Widom,0,0.13233175764331187,0.22423938928651474
+297231882,Principles of dataset versioning exploring the recreation/storage tradeoff,2015,27,40,5,0.0,1983813650,Souvik Bhattacherjee,0,0.3832384073378745,-0.1281915975279837
+335227069,Interactive data exploration with smart drill-down,2016,33,13,3,1.0,2246810848,Manas Joglekar,0,0.6552947832081275,0.27917345421204043
+279841946,Optimal Schemes for Robust Web Extraction,2011,19,17,1,1.0,2077695977,Aditya Parameswaran,0,-1.4895292879286195,-1.3027094852312457
+1546425802,CrowdGather Entity Extraction over Structured Domains,2015,36,3,3,0.666667,2039245452,Theodoros Rekatsinas,0,0.12424614129589735,0.2013339979237733
+1583345983,Answering Queries using Humans Algorithms and Databases,2011,28,107,1,1.0,2077695977,Aditya Parameswaran,0,0.6861243635944763,0.10390613619834382
+1656389077,Rapid sampling for visualizations with ordering guarantees,2015,53,59,3,1.0,2254893019,Albert Kim,0,-0.0041099411153885,0.0447066884760059
+1584070893,Optimal crowd-powered rating and filtering algorithms,2014,41,28,1,1.0,2077695977,Aditya Parameswaran,0,-0.0041099411153885,0.0447066884760059
+1966267272,Exploiting Correlations for Expensive Predicate Evaluation,2015,31,7,3,0.6,2246810848,Manas Joglekar,0,0.3727950102935777,0.2972889351698185
+1974554406,So who won dynamic max discovery with the crowd,2012,32,149,2,0.0,2171350264,Stephen Guo,0,0.33770510808878124,-0.25189348145994794
+1996376794,An overview of the deco system data model and query language; query processing and optimization,2013,14,24,3,0.5,2106674318,Hyunjung Park,0,0.0908845357243609,0.31128747720343375
+1988059434,Towards the web of concepts extracting concepts from large datasets,2010,31,53,1,1.0,2077695977,Aditya Parameswaran,0,-0.0041099411153885,0.0447066884760059
+2019028871,SIGMOD Jim Gray Doctoral Dissertation Award Talk,2014,0,0,1,1.0,2077695977,Aditya Parameswaran,0,-0.0041099411153885,0.0447066884760059
+2013922699,Crowd-powered find algorithms,2014,30,33,2,0.0,2103056292,Anish Das Sarma,0,0.03545142484924937,-0.0761775649877673
+2028818097,CrowdScreen algorithms for filtering data with humans,2012,21,167,1,1.0,2077695977,Aditya Parameswaran,0,-0.0041099411153885,0.0447066884760059
+2025721839,Deco a system for declarative crowdsourcing,2012,5,64,3,0.5,2106674318,Hyunjung Park,0,0.3539092682463384,0.03441893299496975
+2064142830,Recsplorer recommendation algorithms based on precedence mining,2010,27,25,1,1.0,2077695977,Aditya Parameswaran,0,-0.0041099411153885,0.0447066884760059
+2090111889,DataSift a crowd-powered search toolkit,2014,9,9,1,1.0,2077695977,Aditya Parameswaran,0,-0.331157261929354,-0.16512333473426355
+2101620066,Human-assisted graph search its okay to ask questions,2011,25,110,1,1.0,2077695977,Aditya Parameswaran,0,-0.0041099411153885,0.0447066884760059
+2130204178,DataHub Collaborative Data Science &amp; Dataset Version Management at Scale,2015,21,63,3,0.0,1983813650,Souvik Bhattacherjee,0,0.5506564067727144,0.002893951659756998
+2147931936,SeeDB automatically generating query visualizations,2014,9,47,3,0.571429,2438739819,Manasi Vartak,0,-0.0041099411153885,0.0447066884760059
+2169387919,Fuzzy Joins Using MapReduce,2012,24,83,4,0.0,2022488008,Foto N. Afrati,0,-0.0041099411153885,0.0447066884760059
+2271163001,Smart drill-down a new data exploration operator,2015,5,15,3,0.6,2246810848,Manas Joglekar,0,0.6552947832081275,0.27917345421204043
+2242977838,SeeDB visualizing database queries efficiently,2013,19,21,2,0.0,237419955,Hector Garcia Molina,0,-0.8111052405828644,0.8913388803529055
+2257756289,S ee DB efficient data-driven visualization recommendations to support visual analytics,2015,36,102,1,1.0,2077695977,Aditya Parameswaran,0,0.0698432477621106,0.35016645011730835
+2239494976,Its just a matter of perspective(s) Crowd-Powered Consensus Organization of Corpora,2016,27,1,5,0.0,2550401633,Ayush Jain,0,0.2946713761785912,0.4027268098681643
+2260378577,Collaborative data analytics with DataHub,2015,10,26,6,0.0,2158820271,Anant Bhardwaj,0,-0.01331521138473075,0.17670384109426496
+2288912372,DataSpread unifying databases and spreadsheets,2015,4,8,6,1.0,2527125659,Mangesh Bendre,0,1.240512460600953,0.1829528382026659
+2281341896,Squish Near-Optimal Compression for Archival of Relational Datasets,2016,21,4,2,0.0,2171035091,Yihan Gao,0,-0.00492109496191035,-0.1728987636093571
+2337337754,zenvisage Effortless Visual Data Exploration,2016,32,5,5,1.0,2508159517,Tarique Siddiqui,0,-0.0041099411153885,0.0447066884760059
+2404544029,SLiMFast Guaranteed Results for Data Fusion and Source Reliability,2017,37,26,4,0.666667,2039245452,Theodoros Rekatsinas,0,-0.026115814040016467,-0.20058881594516623
+2395358760,Decibel the relational dataset branching system,2016,32,21,5,0.0,2639710956,Michael Maddox,0,0.18601297105691045,-0.0008472885667257998
+2414312413,Effortless Data Exploration with zenvisage An Expressive and Interactive Visual Analytics System,2016,48,6,5,1.0,2508159517,Tarique Siddiqui,0,-0.0041099411153885,0.0447066884760059
+2538816180,Optimizing Open-Ended Crowdsourcing The Next Frontier in Crowdsourced Data Management,2016,0,3,1,1.0,2077695977,Aditya Parameswaran,0,0.18601297105691045,-0.0008472885667257998
+2550966576,Speedy Browsing and Sampling with NeedleTail,2016,36,2,6,1.0,2254893019,Albert Kim,0,-0.4164353607007019,-0.10408138035894196
+2584744402,Fast-Forwarding to Desired Visualizations with Zenvisage,2017,34,7,11,1.0,2508159517,Tarique Siddiqui,0,-0.0041099411153885,0.0447066884760059
+2611990000,Towards Visualization Recommendation Systems,2017,42,24,5,0.571429,2438739819,Manasi Vartak,0,-0.0041099411153885,0.0447066884760059
+2612677505,OrpheusDB A Lightweight Approach to Relational Dataset Versioning,2017,7,9,5,1.0,2719791091,Liqi Xu,0,0.3539092682463384,0.03441893299496975
+2605067812,O rpheus DB bolt-on versioning for relational databases,2017,31,12,1,1.0,2077695977,Aditya Parameswaran,0,1.15941583720679,0.24889372652238476
+2746134640,Towards a Holistic Integration of Spreadsheets with Databases A Scalable Storage Engine for Presentational Data Management,2017,5,0,5,1.0,2527125659,Mangesh Bendre,0,0.18601297105691045,-0.0008472885667257998
+2783072955,Letter from the 2017 IEEE TCDE Early Career Award Winner,2017,0,0,1,1.0,2077695977,Aditya Parameswaran,0,-0.0041099411153885,0.0447066884760059
+2893642772,The Case for a Visual Discovery Assistant A Holistic Solution for Accelerating Visual Data Exploration,2018,0,2,2,1.0,2760900249,Doris Jung Lin Lee,0,-0.0041099411153885,0.0447066884760059
+2951655625,OrpheusDB Bolt-on Versioning for Relational Databases,2017,33,3,5,0.863636,2676906333,Silu Huang,0,1.15941583720679,0.24889372652238476
+2951968982,Towards a unified query language for provenance and versioning,2015,15,6,6,0.0,2142060324,Amit Chavan,0,0.5876723081467652,0.9783565114464191
+2952447489,Faster Higher Stronger Redesigning Spreadsheets for Scale,2019,4,1,12,1.0,2527125659,Mangesh Bendre,0,0.18601297105691045,-0.0008472885667257998
+2963157242,Towards a Holistic Integration of Spreadsheets with Databases A Scalable Storage Engine for Presentational Data Management,2018,28,6,5,1.0,2527125659,Mangesh Bendre,0,0.48042329263044287,0.04926109525323813
+2950879962,Principles of Dataset Versioning Exploring the Recreation/Storage Tradeoff,2015,20,0,5,0.0,1983813650,Souvik Bhattacherjee,0,0.3832384073378745,-0.1281915975279837
+2997686802,A Human-in-the-loop Perspective on AutoML Milestones and the Road Ahead,2019,0,3,6,1.0,2760900249,Doris Jung Lin Lee,0,-0.0041099411153885,0.0447066884760059
+2998286700,Towards Scalable Dataframe Systems,2020,48,1,10,0.0,2663823018,Devin Petersohn,0,-0.0041099411153885,0.0447066884760059

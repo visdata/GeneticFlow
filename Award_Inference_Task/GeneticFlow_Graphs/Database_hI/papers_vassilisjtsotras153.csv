@@ -1,0 +1,72 @@
+37716794,A Comparison of Top-k Temporal Keyword Querying over Versioned Text Collections,2012,12,5,2,0.0,2922453272,Wenyu Huo,0,-0.0041099411153885,0.0447066884760059
+6307799,Revisiting Aggregation for Data Intensive Applications A Performance Study,2013,16,1,4,0.0,2310867535,Jian Wen,0,0.40065418405377645,0.3775102280344173
+75097824,Experimental Evaluation of Query Processing Techniques over Multiversion XML Documents,2009,17,1,2,0.0,2704784320,Adam Woss,0,2.8032131691740485,-1.0200473471139435
+41810505,Indexing Schemes for Efficient Aggregate Computation over Structural Joins,2005,6,3,2,0.0,2395089055,Priya Mandawat,0,-0.0041099411153885,0.0447066884760059
+92980254,Efficient and Scalable Sequence-Based XML Filtering,2009,9,6,2,1.0,2008964238,Mariam Salloum,0,2.3827843550157177,-0.9028350107179526
+198528920,Efficient Management of Multiversion Documents by Object Referencing,2001,18,140,2,0.909091,2124541377,Shu Yao Chien,0,2.7901066710564812,-1.055426667892977
+198800675,Querying Transactionâ€“Time Databases under Branched Schema Evolution,2012,13,1,1,1.0,8132329,Vassilis J. Tsotras,0,1.318155797665463,0.32606574965090296
+99053925,Architecture and Implementation of an XQuery-based Information Integration Platform,2002,67,32,1,1.0,8132329,Vassilis J. Tsotras,0,0.7525180197175323,-0.388204805915279
+997805339,Pattern Queries for Mobile Phone-Call Databases,2013,23,0,1,1.0,8132329,Vassilis J. Tsotras,0,0.119739122485096,0.4583397011045227
+1483146256,Temporal Aggregation over Data Streams Using Multiple Granularities,2002,28,51,3,0.0,2950269934,Donghui Zhang,0,-0.27465825007319333,0.14277618844842688
+1509772091,Advanced Database Indexing,1999,0,85,3,0.0,276012958,Yannis Manolopoulos,0,-0.10636642148602338,0.08165063453508396
+1509814260,Tree-pattern queries on a lightweight XML processor,2005,27,54,3,0.666667,2161679172,Mirella M. Moro,0,1.581745027283864,-0.7113768651112209
+1519440323,Proceedings of the 26th International Conference on Data Engineering ICDE 2010,2010,0,2,1,1.0,8132329,Vassilis J. Tsotras,0,-0.0041099411153885,0.0447066884760059
+1548247814,Transaction-Time Indexing,2009,0,2,2,0.557604,2161679172,Mirella M. Moro,0,0.827746378431438,0.9523695629939803
+1512847838,Efficient handling of positional predicates within XML query processing,2005,11,4,4,0.9375,313600265,Zografoula Vagena,0,1.1667992410358166,-0.43091723154530276
+1504384772,Version Management of XML Documents,2000,11,33,2,1.0,2949953700,Shu Yao Chien,0,3.0338261194399543,-1.188247168585056
+1939649909,Efficient Indexing of Spatiotemporal Objects,2002,43,148,3,0.0,50097054,Marios Hadjieleftheriou,0,0.010839480868759611,0.10162569624682702
+1982504065,Historical queries along multiple lines of time evolution,1995,27,22,3,0.0,2136913910,Gad M. Landau,0,-0.1040025551541568,0.34909415811276895
+1967384790,Querying Spatio-temporal Patterns in Mobile Phone-Call Databases,2010,26,23,3,1.0,2140211975,Marcos R. Vieira,0,0.1910429528691264,0.47435333342539227
+1983315663,XML document versioning,2001,12,106,2,0.0,2703975312,Shu Yao Chien,0,2.2264543832113666,-0.864750789273662
+2004788871,The snapshot index an I/O-optimal access method for timeslice queries,1995,30,73,1,1.0,8132329,Vassilis J. Tsotras,0,-0.4246056868929672,0.02635119601235289
+2007159951,On the spatiotemporal burstiness of terms,2012,36,62,4,0.0,2028397797,Theodoros Lappas,0,-0.0041099411153885,0.0447066884760059
+2001176284,Efficient schemes for managing multiversionXML documents,2002,39,112,2,0.909091,2124541377,Shu Yao Chien,0,1.4847852578495155,-0.505537721020934
+2022734059,On computing temporal aggregates with range predicates,2008,19,26,3,1.0,2776245557,Donghui Zhang,0,0.13061318165874305,0.1761393786485848
+2026327374,Letter from the Special Issue Editors,2008,0,0,1,1.0,8132329,Vassilis J. Tsotras,0,-0.0041099411153885,0.0447066884760059
+2030738730,An extensible notation for spatiotemporal index queries,1998,24,33,1,1.0,8132329,Vassilis J. Tsotras,0,-0.1232715727120712,0.2131450373911843
+2023843551,Querying trajectories using flexible patterns,2010,23,32,3,1.0,2140211975,Marcos R. Vieira,0,-0.0041099411153885,0.0447066884760059
+2032735238,A Spatial Caching Framework for Map Operations in Geographical Information Systems,2012,16,1,4,1.0,2140211975,Marcos R. Vieira,0,0.5040305771906038,-0.09071174423302576
+2011679994,Approximating multi-dimensional aggregate range queries over real attributes,2000,37,169,3,0.5,1656275121,Dimitrios Gunopulos,0,0.8527734571958216,0.18194530152664057
+2035057445,Efficient temporal shortest path queries on evolving social graphs,2014,11,25,2,0.0,2115627516,Wenyu Huo,0,-0.0041099411153885,0.0447066884760059
+2034497960,Temporal and spatio-temporal aggregations over data streams using multiple time granularities,2003,31,55,3,1.0,2776245557,Donghui Zhang,0,-0.27465825007319333,0.14277618844842688
+2060399391,Revisiting aggregation techniques for big data,2013,2,1,1,1.0,8132329,Vassilis J. Tsotras,0,0.11148944078313282,0.5281261698625301
+2092966207,Editing and versioning dynamic network models,2008,5,1,4,1.0,2046059875,Petko Bakalov,0,0.1438665230641129,0.2373920754813933
+2100163223,Complex spatio-temporal pattern queries,2005,24,93,4,0.857143,2951526001,Marios Hadjieleftheriou,0,-0.0041099411153885,0.0447066884760059
+2123159390,Twig query processing over graph-structured XML data,2004,29,32,3,0.9375,313600265,Zografoula Vagena,0,0.014532710543751099,0.030944858938630852
+2126443246,Boosting XML Filtering with a Scalable FPGA-based Architecture,2009,21,31,5,0.0,2243536718,Abhishek Mitra,0,1.852208987492422,-0.8162902746793013
+2105719539,Maintaining Connectivity in Dynamic Multimodal Network Models,2008,20,6,4,1.0,2046059875,Petko Bakalov,0,0.7691033318610054,0.26571241860505274
+2115221160,Efficient structural joins on indexed XML documents,2002,36,272,4,0.909091,2124541377,Shu Yao Chien,0,1.9392589132717177,-0.7591299287054109
+2121110504,Indexing mobile objects on the plane,2002,21,36,4,0.0,2167006157,Dimitris Papadopoulos,0,0.09526370926126411,0.008306466226981798
+2115386467,Storing and querying multiversion XML documents using durable node numbers,2001,23,95,2,0.909091,2124541377,Shu Yao Chien,0,2.7852624913574258,-1.0615893750022107
+2133353243,RoXSum Leveraging Data Aggregation and Batch Processing for XML Routing,2007,19,21,3,0.682786,313600265,Zografoula Vagena,0,0.5586742082380666,-0.1984847101299193
+2121800881,Efficient processing of XML containment queries using partition-based schemes,2004,21,13,3,0.9375,313600265,Zografoula Vagena,0,0.45364553418723785,0.15833443115773363
+2110504184,XML Structural Summaries,2008,17,9,3,0.622715,2161679172,Mirella M. Moro,0,2.125566018101642,-0.8750057739658311
+2128317658,Efficient management of time-evolving databases,1995,32,26,1,1.0,8132329,Vassilis J. Tsotras,0,0.8477533581592809,0.3334812845199709
+2134383913,A Generic Framework for Continuous Motion Pattern Query Evaluation,2008,28,4,2,1.0,2046059875,Petko Bakalov,0,0.16477033626089935,0.2755436432715686
+2108220022,Massively parallel XML twig filtering using dynamic programming on FPGAs,2011,33,19,4,0.0,2000388426,Roger Moussalli,0,0.45364553418723785,0.15833443115773363
+2144606308,Efficient Complex Query Support for Multiversion XML Documents,2002,26,47,2,1.0,2949953700,Shu Yao Chien,0,2.5058255870364627,-0.9611786698736565
+2168718343,Path-expression Queries over Multiversion XML Documents,2003,22,9,2,1.0,313600265,Zografoula Vagena,0,2.2264543832113666,-0.864750789273662
+2172031037,Efficient temporal join processing using indices,2002,26,55,2,1.0,2776245557,Donghui Zhang,0,0.6113738240867082,0.04816285320264909
+2163010693,SaIL a library for efficient application integration of spatial indices,2004,8,3,3,0.857143,2951526001,Marios Hadjieleftheriou,0,0.08106873364534109,0.17158836760340587
+2145508907,Copy-based versus edit-based version management schemes for structured documents,2001,7,29,2,0.909091,2124541377,Shu Yao Chien,0,0.31847080288917007,-0.07600073772564496
+2155322254,Designing access methods for bitemporal databases,1998,39,129,2,0.0,2286211982,Anil Kumar,0,0.3112483681944311,0.4850496044026256
+2158390185,Value-Aware RoXSum Effective Message Aggregation for XML-Aware Information Dissemination,2007,22,6,3,0.682786,313600265,Zografoula Vagena,0,0.5586742082380666,-0.1984847101299193
+2158477395,Early profile pruning on XML-aware publish-subscribe systems,2007,35,33,3,0.622715,2161679172,Mirella M. Moro,0,2.6305316455596257,-1.0245389128948947
+2167952001,Efficient support of historical queries for multiple lines of evolution,1993,15,2,3,0.0,2136913910,Gad M. Landau,0,-0.051434235537969705,0.13382206837989036
+2147064097,Spatio-temporal data services in a shared-nothing environment,2004,22,8,6,0.857143,2951526001,Marios Hadjieleftheriou,0,-0.26003065546536064,-0.0725991590110249
+2271831620,Online ordering of overlapping data sources,2013,13,12,4,1.0,2008964238,Mariam Salloum,0,0.23278290215798467,0.26298423589415587
+2238970349,Apache VXQuery A Scalable XQuery Implementation,2015,16,9,5,1.0,2225322540,E. Preston Carman,0,1.3249439455733338,-0.47583924581255294
+2265297126,AsterixDB a scalable open source BDMS,2014,13,108,20,0.0,1273370749,Sattam Alsubaiee,0,0.6486945947895747,0.2465033166861307
+2295615355,FPGA-based Multithreading for In-Memory Hash Joins,2015,23,19,4,1.0,2160499414,Robert J. Halstead,0,0.43739842239757626,0.009947045888208002
+2408305648,Efficient XML Path Filtering Using GPUs,2011,24,17,5,0.0,2000388426,Roger Moussalli,0,1.5610670914265958,-0.6295415433605519
+2475021177,Version management of XML documents,2001,0,14,2,1.0,2949953700,Shu Yao Chien,0,1.1138867952597615,-0.3309242137060126
+2566419395,OSNI Searching for Needles in a Haystack of Social Network Data,2016,8,0,9,0.0,2157777549,Shiwen Cheng,0,-0.0041099411153885,0.0447066884760059
+2612205558,Efficient Computation of Top-k Frequent Terms over Spatio-temporal Ranges,2017,8,10,5,0.0,2622090380,Pritom Ahmed,0,0.035325698121811445,0.016180066275717404
+2752302728,A BAD demonstration towards B ig A ctive D ata,2017,17,3,1,1.0,8132329,Vassilis J. Tsotras,0,0.006014922467298363,0.12624752891294624
+2764414857,A BAD Demonstration Towards Big Active Data,2017,15,3,5,1.0,2501992388,Steven Jacobs,0,-0.05939189504865755,-0.2798017729976206
+2790011209,A Parallel and Scalable Processor for JSON Data,2018,0,4,5,0.0,2789320581,Christina Pavlopoulou,0,0.3233738243488387,-0.24964339170629046
+2919856421,Transaction-Time Indexing,2018,0,0,2,0.235874,2161679172,Mirella M. Moro,0,0.827746378431438,0.9523695629939803
+2952834697,AsterixDB A Scalable Open Source BDMS,2014,16,0,20,0.0,1273370749,Sattam Alsubaiee,0,0.6486945947895747,0.2465033166861307
+2982446375,Efficient Main-Memory Top-K Selection For Multicore Architectures,2019,0,0,2,0.0,2224773234,Vasileios Zois,0,-0.0041099411153885,0.0447066884760059
+3008827208,BAD to the Bone Big Active Data at its Core,2020,65,0,4,1.0,2501992388,Steven Jacobs,0,-0.1946303646151612,0.6574483515573528
+3027990517,BAD to the bone Big Active Data at its core,2020,58,0,4,1.0,2501992388,Steven Jacobs,0,-0.05939189504865755,-0.2798017729976206

@@ -1,0 +1,67 @@
+652172809,Cost-Sensitive Double Updating Online Learning and Its Application to Online Anomaly Detection,2013,27,7,1,1.0,108406206,Steven C. H. Hoi,0,-0.030239650200502993,0.07283953821959673
+1505772296,Satrap data and network heterogeneity aware P2P data-mining,2010,13,0,5,0.923077,2158062023,Hock Hee Ang,0,0.448622338369596,-0.02339483279941995
+1524005847,Cascade RSVM in Peer-to-Peer Networks,2008,23,24,3,0.923077,2158062023,Hock Hee Ang,0,0.003708468606338,0.082832279151172
+1494552028,Classification in P2P Networks by Bagging Cascade RSVMs,2008,17,6,3,0.923077,2158062023,Hock Hee Ang,0,0.003708468606338,0.082832279151172
+1549457267,Adaptive ensemble classification in p2p networks,2010,18,5,3,0.923077,2158062023,Hock Hee Ang,0,0.43162625009792,0.20195636031746017
+1848761947,An adaptive gradient method for online AUC maximization,2015,29,16,3,1.0,2648906814,Yi Ding,0,-0.247242874453241,1.3206595003646997
+1589729077,Fast Object Retrieval Using Direct Spatial Matching,2015,28,19,3,0.0,2227553644,Zhiyuan Zhong,0,-0.09524712990134832,0.30329839266098224
+1601146544,Massive-scale Online Feature Selection for Sparse Ultra-high Dimensional Data,2014,0,7,2,0.0,2671963505,Yue Wu,0,-0.39624958238445096,1.3919251313087813
+1980473701,Mining weakly labeled web facial images for search-based face annotation,2011,62,17,2,1.0,2715453789,Dayong Wang,0,0.5373768652368787,0.7438762448639452
+1977193486,Semi-supervised distance metric learning for collaborative image retrieval and clustering,2010,41,98,1,1.0,108406206,Steven C. H. Hoi,0,-0.21934185016841626,0.6056873083074126
+1968772851,Collaborative Online Multitask Learning,2014,37,23,2,1.0,2156542736,Guangxia Li,0,-0.4157775183541311,0.9457174518046959
+1969157788,SimApp A Framework for Detecting Similar Mobile Applications by Online Kernel Learning,2015,26,42,2,1.0,2719510244,Ning Chen,0,-0.19039484823014519,-0.2378449955256634
+1993202648,Large-scale text categorization by batch mode active learning,2006,40,192,1,1.0,108406206,Steven C. H. Hoi,0,0.9441914553316012,0.5784722043882162
+2000956535,Representative entry selection for profiling blogs,2008,3,2,2,1.0,2763322014,Jinfeng Zhuang,0,0.003708468606338,0.082832279151172
+2010211461,Classification in P2P networks with cascade support vector machines,2013,26,5,3,0.923077,2158062023,Hock Hee Ang,0,0.08329114195231535,0.32893178638165566
+2026261766,High-Dimensional Data Stream Classification via Sparse Online Learning,2014,17,14,6,1.0,2715453789,Dayong Wang,0,-0.5139635743326952,2.090706533272972
+2014583745,Online portfolio selection A survey,2014,180,101,2,0.0,2640472960,Bin Li,0,-0.5718056917432806,1.9470983729147582
+2016405781,Semisupervised SVM batch mode active learning with applications to image retrieval,2009,52,108,1,1.0,108406206,Steven C. H. Hoi,0,0.003708468606338,0.082832279151172
+2029171653,Online multiple kernel regression,2014,38,25,2,0.857143,2160809552,Doyen Sahoo,0,0.003708468606338,0.082832279151172
+2029276735,Software process evaluation a machine learning framework with application to defect management process,2014,62,13,2,1.0,2719510244,Ning Chen,0,0.003708468606338,0.082832279151172
+2055943509,P2PDocTagger content management through automated P2P collaborative tagging,2010,6,2,4,0.923077,2158062023,Hock Hee Ang,0,-0.0769353016057025,-0.2600287055078183
+2059819120,Learning Relative Similarity from Data Streams Active Online Learning Approaches,2015,35,7,3,0.857143,2223900961,Shuji Hao,0,-0.4790924668773759,2.897580346908644
+2074095141,Collaborative online learning of user generated content,2011,14,9,3,1.0,2156542736,Guangxia Li,0,1.137855651553426,0.5073818092219108
+2074435087,Multiview Semi-Supervised Learning with Consensus,2012,35,42,3,1.0,2156542736,Guangxia Li,0,-0.18753172675515586,2.4248474592658082
+2102663010,Boosting multi-kernel locality-sensitive hashing for scalable image retrieval,2012,41,38,3,1.0,2306943459,Hao Xia,0,-0.1984714131877254,-0.08331523624254955
+2100476178,Mining social images with distance metric learning for automated image tagging,2011,32,60,2,1.0,2108925152,Pengcheng Wu,0,0.003708468606338,0.082832279151172
+2104848109,Batch mode active learning and its application to medical image classification,2006,20,274,1,1.0,108406206,Steven C. H. Hoi,0,0.003708468606338,0.082832279151172
+2105010330,Micro-blogging Sentiment Detection by Collaborative Online Learning,2010,14,44,2,1.0,2156542736,Guangxia Li,0,0.09869918664672195,-0.18633352365711692
+2114453181,Cost-Sensitive Online Classification,2014,48,46,3,1.0,2112374662,Jialei Wang,0,0.5453209709747512,0.2876124884878599
+2114596616,Web Query Recommendation via Sequential Query Prediction,2009,38,95,4,0.0,2309017108,Qi He,0,-0.01657107088421793,0.035389748403282274
+2141697695,A two-view learning approach for image tag ranking,2011,28,58,2,1.0,2763322014,Jinfeng Zhuang,0,0.003708468606338,0.082832279151172
+2121038136,Online AUC Maximization,2011,20,112,2,0.71875,2096910461,Peilin Zhao,0,0.07470960358042207,0.084883566433728
+2136051823,Online Feature Selection and Its Applications,2014,54,144,3,1.0,2112374662,Jialei Wang,0,-0.5225474892256519,1.3001652936880677
+2119114217,Semi-supervised ensemble ranking,2008,28,34,1,1.0,108406206,Steven C. H. Hoi,0,0.19293804624678115,0.03034717086333595
+2140524605,Batch Mode Active Learning with Applications to Text Categorization and Image Retrieval,2009,46,56,1,1.0,108406206,Steven C. H. Hoi,0,-0.4968892909292366,0.8241253958438851
+2108031208,Predictive Handling of Asynchronous Concept Drifts in Distributed Environments,2013,42,18,5,0.923077,2158062023,Hock Hee Ang,0,-0.29144149726210333,0.44149847301270545
+2137736727,Learning Distance Metrics with Contextual Constraints for Image Retrieval,2006,23,266,1,1.0,108406206,Steven C. H. Hoi,0,-0.21934185016841626,0.6056873083074126
+2165299010,Time-dependent semantic similarity measure of queries using historical click-through data,2006,21,54,2,0.0,2256818293,Qiankun Zhao,0,-0.11882504869763306,-0.511596265751632
+2179489622,Large-Scale Online Feature Selection for Ultra-High Dimensional Sparse Data,2017,50,13,2,0.0,2952451652,Yue Wu,0,-0.08477982943252087,0.21540131963461698
+2144679311,MKBoost A Framework of Multiple Kernel Boosting,2013,43,45,2,1.0,2306943459,Hao Xia,0,0.003708468606338,0.082832279151172
+2162657934,A unified log-based relevance feedback scheme for image retrieval,2006,47,137,1,1.0,108406206,Steven C. H. Hoi,0,0.0726571288814546,0.4338511347288648
+2145511633,Online feature selection for mining big data,2012,42,65,1,1.0,108406206,Steven C. H. Hoi,0,0.15130113582298485,0.24182110009689983
+2167208093,Cost-Sensitive Online Classification,2012,28,15,3,0.888889,2112374662,Jialei Wang,0,0.5571108013164202,1.3857727097886159
+2170246189,A unified learning framework for auto face annotation by mining web facial images,2012,57,20,2,1.0,2715453789,Dayong Wang,0,0.003708468606338,0.082832279151172
+2152929147,Cost-sensitive online active learning with application to malicious URL detection,2013,39,60,2,0.736842,2096910461,Peilin Zhao,0,0.06249136554757626,0.016905611381023266
+2170944079,Online multi-task collaborative filtering for on-the-fly recommender systems,2013,30,26,2,1.0,2112374662,Jialei Wang,0,0.8776680742443249,0.45208381503500666
+2168009256,On classifying drifting concepts in P2P networks,2010,20,11,4,0.923077,2158062023,Hock Hee Ang,0,0.8296999690775336,-0.24338279432856616
+2150109364,Mining Weakly Labeled Web Facial Images for Search-Based Face Annotation,2014,58,46,2,1.0,2715453789,Dayong Wang,0,-0.21934185016841626,0.6056873083074126
+2266540192,Budget Online Multiple Kernel Learning,2015,14,1,2,0.0,2668328581,Jing Lu,0,0.43162625009792,0.20195636031746017
+2211041058,HDIdx High-Dimensional Indexing for Efficient Approximate Nearest Neighbor Search,2015,9,2,6,0.0,2151001937,Ji Wan,0,0.45910282564796534,0.0161099736215026
+2262925392,Adaptive Subgradient Methods for Online AUC Maximization,2016,32,5,3,1.0,2648906814,Yi Ding,0,-0.5718056917432806,1.9470983729147582
+2240204456,Online Multi-Modal Distance Metric Learning with Application to Image Retrieval,2016,61,35,2,0.0,2950293168,Pengcheng Wu,0,-0.032718781339406734,0.18325138020821194
+2245751573,Cost-Sensitive Online Classification with Adaptive Regularization and Its Applications,2015,44,8,5,0.578125,2096910461,Peilin Zhao,0,0.29778379208959266,2.0630380679178533
+2198868857,A Framework of Sparse Online Learning and Its Applications,2015,17,7,4,1.0,2715453789,Dayong Wang,0,-0.14273698877331004,0.9826280213608062
+2250337831,SOLAR Scalable Online Learning Algorithms for Ranking,2015,43,9,4,0.909091,2112374662,Jialei Wang,0,0.003708468606338,0.082832279151172
+2280446378,Active Crowdsourcing for Annotation,2015,28,4,2,0.857143,2223900961,Shuji Hao,0,0.23447002456144056,0.35297506154309793
+2415917651,Online Bayesian Collaborative Topic Regression,2016,18,0,3,1.0,2416298036,Chenghao Liu,0,-0.031961456736005305,0.47103273976814963
+2575524451,Collaborative topic regression for online recommender systems an online and Bayesian approach,2017,45,15,3,1.0,2416298036,Chenghao Liu,0,0.38443577585805294,0.5089252618637428
+2521689864,Soft Confidence-Weighted Learning,2016,39,16,3,0.909091,2112374662,Jialei Wang,0,0.6328995364622048,-0.5472787497258628
+2583759716,SOAL Second-Order Online Active Learning,2016,25,7,4,0.857143,2223900961,Shuji Hao,0,-0.8168410698955337,3.623310613657991
+2532959109,Online Adaptive Passive-Aggressive Methods for Non-Negative Matrix Factorization and Its Applications,2016,25,5,2,1.0,2416298036,Chenghao Liu,0,0.37142109266001894,1.291903977945841
+2604175478,Learning Personalized Preference of Strong and Weak Ties for Social Recommendation,2017,47,31,2,0.833333,2635426062,Xin Wang,0,0.3536731693401487,1.5787290274139314
+2772118439,Large Scale Kernel Methods for Online AUC Maximization,2017,36,9,4,1.0,2648906814,Yi Ding,0,0.003708468606338,0.082832279151172
+2796157539,Adaptive Cost-Sensitive Online Classification,2019,56,8,4,0.0,3011314106,Peilin Zhao,0,-0.11877918572853643,0.20995188157342062
+2913100396,Large Scale Online Multiple Kernel Regression with Application to Time-Series Prediction,2019,67,5,2,0.857143,2160809552,Doyen Sahoo,0,0.003708468606338,0.082832279151172
+2954746356,Compositional Coding for Collaborative Filtering,2019,34,0,6,0.868421,2416298036,Chenghao Liu,0,0.8776680742443249,0.45208381503500666
+2944708094,Compositional Coding for Collaborative Filtering,2019,26,1,6,0.868421,2416298036,Chenghao Liu,0,0.8776680742443249,0.45208381503500666

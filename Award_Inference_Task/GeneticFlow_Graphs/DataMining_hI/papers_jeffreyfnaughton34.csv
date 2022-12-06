@@ -1,0 +1,135 @@
+17866890,YAWN (Yet Another Window on NAIL ),1987,0,39,1,1.0,2075622585,Jeffrey F. Naughton,0,0.003708468606338,0.082832279151172
+54838500,The oo7 Benchmark,1993,0,268,3,0.0,2157114695,Michael J. Carey,0,0.003708468606338,0.082832279151172
+38346608,Materialized View Selection for Multidimensional Datasets,1998,13,241,3,1.0,2896753584,Amit Shukla,0,-0.7256654510730125,0.5900667355110134
+125925666,Generalized Search Trees for Database Systems,1995,24,432,2,0.571429,2063640528,Joseph M. Hellerstein,0,0.9194130715734454,1.2042972879364822
+94825731,Cubing Algorithms Storage Estimation and Storage and Processing Alternatives for OLAP,1997,0,23,2,1.0,2304487933,Prasad M. Deshpande,0,1.2182067606106117,0.3929018396063729
+197068462,The BUCKY Object-Relational Benchmark (Experience Paper),1997,0,12,3,0.0,2157114695,Michael J. Carey,0,0.003708468606338,0.082832279151172
+133624275,Relational database management system support for sparse data sets,2006,0,0,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.7971172229418655,0.06313369773025854
+67558203,Generating Synthetic Complex-Structured XML Data,2001,9,43,2,0.714286,2066833720,Ashraf Aboulnaga,0,-2.5357397315081234,-0.3103714790519195
+1000601834,System and methods for Predicting Query Execution Time for Concurrent and Dynamic Database Workloads,2013,4,16,1,1.0,2075622585,Jeffrey F. Naughton,0,-0.7115739254660983,0.16717641040082076
+1568232141,Sampling Issues in Parallel Database Systems,1992,11,34,2,0.0,2707131050,S. Seshadri,0,0.003708468606338,0.082832279151172
+1532740559,Incremental Loading of Object Databases,1996,0,1,1,1.0,2075622585,Jeffrey F. Naughton,0,-1.016462251479728,0.0904633841538448
+1559749472,OODB Bulk Loading Revisited The Partitioned-List Approach,1995,21,27,2,1.0,2665851981,Janet L. Wiener,0,-0.1705913123909532,-0.06074835611247179
+1508574118,Bulk Loading into an OODB A Performance Study,1994,13,21,2,1.0,2665851981,Janet L. Wiener,0,-0.7772515218628658,0.14839258787560558
+1491545690,On the integration of structure indexes and inverted lists,2004,1,19,3,0.8,2158829505,Raghav Kaushik,0,-1.479678259655654,-0.1153754353753967
+1482980260,Materialized View Selection for Multi-Cube Data Models,2000,13,46,3,1.0,2896753584,Amit Shukla,0,0.44741155223449597,0.8097986297658455
+1522055873,Storage Estimation for Multidimensional Aggregates in the Presence of Hierarchies,1996,8,164,3,1.0,2896753584,Amit Shukla,0,-0.7192920791569077,0.25944663270058743
+1596823748,Aggregate Aware Caching for Multi-Dimensional Queries,2000,12,21,2,0.763158,2304487933,Prasad M. Deshpande,0,0.003708468606338,0.082832279151172
+1768336749,Set Containment Joins The Good The Bad and The Ugly,2000,15,71,3,0.0,2175047829,Karthikeyan Ramasamy,0,0.21438872843298346,-0.1353423822296997
+1601435884,Sampling-Based Estimation of the Number of Distinct Values of an Attribute,1995,27,250,2,0.0,2118460571,Peter J. Haas,0,0.003708468606338,0.082832279151172
+1659797312,Accurate estimation of the cost of spatial selections,2000,21,56,2,0.714286,2066833720,Ashraf Aboulnaga,0,-0.3646221918608591,0.568656254793299
+1964345410,Simultaneous optimization and evaluation of multiple dimensional queries,1998,12,93,3,0.6,2228469517,Yihong Zhao,0,0.08311460679203941,0.46737920595912125
+1622528090,The Case for a Structured Approach to Managing Unstructured Data,2009,0,16,2,0.0,2169716560,AnHai Doan,0,0.29983178134750693,-0.449151452994327
+1594135699,Transaction reordering and grouping for continuous data loading,2006,25,15,2,0.711864,2104365585,Gang Luo,0,-1.2454122814788247,0.4446963571970426
+1973440079,A general technique for querying XML documents using a relational database system,2001,14,145,5,0.0,219131493,Efstratios Viglas,0,-2.0198044504231976,-0.1914651157263002
+1982431534,The 007 Benchmark,1993,11,254,2,0.0,1979791317,David J. DeWitt,0,-1.2811077598152805,0.2994591301609085
+1975502783,DBMS Lessons from the first 50 years speculations for the next 50,2010,0,0,1,1.0,2075622585,Jeffrey F. Naughton,0,0.003708468606338,0.082832279151172
+1968829657,Practical selectivity estimation through adaptive sampling,1990,18,239,2,1.0,2984027855,Richard J. Lipton,0,-0.3560706904767617,0.11137199579190965
+1974149771,On relational support for XML publishing beyond sorting and tagging,2003,18,33,3,0.0,2163909284,Surajit Chaudhuri,0,-1.5479852795004578,0.36174730683205036
+1983058606,Approximate String Membership Checking A Multiple Filter Optimization-Based Approach,2012,28,3,2,0.0,2675101731,Chong Sun,0,0.003708468606338,0.082832279151172
+1973056687,On differentially private frequent itemset mining,2012,22,62,2,0.0,2238885276,Chen Zeng,0,0.003708468606338,0.082832279151172
+1967831627,K-Anonymization as Spatial Indexing Toward Scalable and Incremental Anonymization,2007,30,75,4,0.0,2280176947,Tochukwu Iwuchukwu,0,0.3800248960556045,0.4907458344035158
+1994694191,On supporting containment queries in relational database management systems,2001,23,765,2,0.0,2243929405,Chun Zhang,0,-0.5327320489132868,0.33566787600945197
+2000154402,Efficient sampling strategies for relational database operations,1993,31,84,2,1.0,2984027855,Richard J. Lipton,0,-0.8216187249179905,0.17814838393156335
+1997168731,The Beckman Report on Database Research,2014,7,47,21,0.0,2170206103,Daniel J. Abadi,0,-0.08216369031341794,0.1395680461546204
+2006346002,Partial results in database systems,2014,38,17,4,0.0,2102229717,Willis Lang,0,0.003708468606338,0.082832279151172
+2001119367,Issues in applying data mining to grid job failure detection and diagnosis,2008,3,6,2,1.0,112234878,Lakshmikant Shrinivas,0,0.23522447612603234,-0.06632565651062944
+1995953849,A software-defined networking based approach for performance management of analytical queries on distributed data stores,2014,20,23,2,0.0,1990998134,Pengcheng Xiong,0,-0.21702182404483117,0.19660476749552133
+2024680396,Adaptive parallel aggregation algorithms,1995,8,120,2,0.0,1265035209,Ambuj Shatdal,0,-0.07777545778148642,-0.20919548710696598
+2010640875,The BUCKY object-relational benchmark,1997,6,68,3,0.0,156508372,Mohammad Asgarian,0,-1.1929349726082874,-0.06816410858651675
+2021249047,Toward industrial-strength keyword search systems over relational data,2010,31,5,4,1.0,2139126271,Akanksha Baid,0,-0.7200633767511633,0.5425662749023307
+2026965159,GSLPI A Cost-Based Query Progress Indicator,2012,15,31,3,0.5,2096227755,Jiexing Li,0,-0.7905444143830879,0.2052283540579219
+2013214811,Modeling entity evolution for temporal record matching,2014,15,23,3,1.0,2149638310,Yueh Hsuan Chiang,0,0.38282800556117075,0.010247285290679004
+2032775418,Learning Generalized Linear Models Over Normalized Data,2015,33,74,2,0.742857,2424930959,Arun Kumar,0,-0.5718056917432806,1.9470983729147582
+2041770008,Query execution techniques for caching expensive methods,1996,22,98,2,0.571429,2063640528,Joseph M. Hellerstein,0,0.003708468606338,0.082832279151172
+2036686107,Efficient storage and query processing of set-valued attributes,2001,0,8,1,1.0,2075622585,Jeffrey F. Naughton,0,-1.9979589196060328,0.42566094774593866
+2035015991,Information extraction challenges in managing unstructured data,2009,17,68,2,0.0,2169716560,AnHai Doan,0,0.49965379591826475,0.028571493221688227
+2042389627,On schema matching with opaque column names and data values,2003,20,194,2,0.346154,2596592397,Jaewoo Kang,0,0.3567426677920802,0.743689755548095
+2044240774,An array-based algorithm for simultaneous multidimensional aggregates,1997,5,374,3,0.6,2228469517,Yihong Zhao,0,0.48252005250519214,1.1504838669127029
+2048659529,Distribution-based query scheduling,2013,36,10,3,0.0,2141133747,Yun Chi,0,-0.0395804122397981,0.0068802457672825015
+2055958975,The Asilomar report on database research,1998,0,207,10,0.0,2131060504,Michael L. Brodie,0,0.003708468606338,0.082832279151172
+2075542854,Space optimization in the bottom-up evaluation of logic programs,1991,6,8,4,0.0,2115611082,Sundararajarao Sudarshan,0,0.003708468606338,0.082832279151172
+2069260454,Impact of disk corruption on open-source DBMS,2010,25,23,7,0.0,2304364831,Sriram Subramanian,0,0.003708468606338,0.082832279151172
+2078461299,A stochastic approach for clustering in object bases,1991,13,74,2,1.0,318328696,Manolis M. Tsangaris,0,-0.7055038878946623,2.5782455358075698
+2082611830,Combining keyword search and forms for ad hoc querying of databases,2009,15,82,5,0.857143,2241027455,Eric Chu,0,-0.01657107088421793,0.035389748403282274
+2084434991,Instrumenting a logic programming language to gather provenance from an information extraction application,2012,6,2,3,0.0,2252304899,Christine F. Reilly,0,0.3093702597112594,0.0781901659384289
+2103701698,Rate-based query optimization for streaming information sources,2002,24,222,2,0.6,335360864,Stratis D. Viglas,0,-0.5207388606918844,0.13779230513221863
+2103702871,Towards predicting query execution time for concurrent and dynamic database workloads,2013,32,48,3,0.75,2119491994,Wentao Wu,0,-0.1029618939806145,0.040434369851773004
+2089950969,On the performance of object clustering techniques,1992,14,92,2,1.0,318328696,Manolis M. Tsangaris,0,-0.955102775814739,3.2890994534448903
+2089967388,Compiling separable recursions,1988,9,34,1,1.0,2075622585,Jeffrey F. Naughton,0,0.003708468606338,0.082832279151172
+2093766169,Building a scaleable geo-spatial DBMS technology implementation and evaluation,1997,20,107,14,0.75,2155925739,Jignesh M. Patel,0,-2.373374300307925,0.8475334346707117
+2093821541,In-RDBMS inverted indexes revisited,2014,32,1,3,1.0,2471628422,Ian Rae,0,-0.6032540649650934,0.5664979712679645
+2095733021,A relational approach to incrementally extracting and querying structure in unstructured data,2007,33,61,5,0.857143,2241027455,Eric Chu,0,-0.6371547551872424,0.31041920605876017
+2085247543,On the complexity of privacy-preserving complex event processing,2011,21,21,4,0.6,2170951142,Yeye He,0,-0.03301615618292307,0.5181937380361487
+2098812463,Database Support for Weighted Match Joins,2007,13,2,2,1.0,2169239594,Ameet Kini,0,-0.6731158873884411,0.2939642789611559
+2099021858,Schema Matching Using Interattribute Dependencies,2008,60,17,2,0.346154,2596592397,Jaewoo Kang,0,0.31301004849955233,0.6985684819109156
+2099085751,TRAC toward recency and consistency reporting in a database with distributed data sources,2006,12,3,2,1.0,2671999676,Jiansheng Huang,0,0.09306936451958565,0.4540149294292737
+2094206427,Utility-maximizing event stream suppression,2013,31,15,4,0.0,2465444189,Di Wang,0,0.03452684058154445,0.38161437663138903
+2120451551,Multi-query SQL progress indicators,2006,24,51,2,0.711864,2104365585,Gang Luo,0,-0.4119087594769993,-0.1705952649706918
+2132223977,Anonymization of set-valued data via top-down local generalization,2009,40,177,2,0.6,2170951142,Yeye He,0,0.14153177972612332,-0.03300960448135685
+2132244350,Maximizing the output rate of multi-way join queries over streaming information sources,2003,29,245,2,0.6,335360864,Stratis D. Viglas,0,-0.8513220029196344,-0.6777134855393664
+2135432866,On the integration of structure indexes and inverted lists,2004,39,150,3,0.8,2158829505,Raghav Kaushik,0,-0.4866750622827864,-0.14893660810296164
+2129554248,Mixed mode XML query processing,2003,23,92,10,0.6,2040370899,Alan Halverson,0,-2.5677781089562366,-0.24848853139103275
+2132560950,Estimating the Selectivity of XML Path Expressions for Internet Scale Applications,2001,24,186,3,0.714286,2066833720,Ashraf Aboulnaga,0,-2.202517820314847,-0.2956650634688799
+2129622458,Building XML statistics for the hidden web,2003,19,10,2,1.0,2066833720,Ashraf Aboulnaga,0,-2.83451208530146,-0.3834431146309288
+2118173195,Middle-tier database caching for e-business,2002,15,185,7,0.0,2119307789,Qiong Luo,0,-0.39793519913934466,-0.8298488351470835
+2132808937,A scalable hash ripple join algorithm,2002,15,79,4,1.0,2104365585,Gang Luo,0,0.1656019551103819,0.40049106199639006
+2112847223,Increasing the accuracy and coverage of SQL progress indicators,2005,16,48,2,0.9375,2104365585,Gang Luo,0,-1.1524364964350426,0.45966057131048477
+2121740667,K-anonymization as spatial indexing toward scalable and incremental anonymization,2007,31,55,2,0.0,2280176947,Tochukwu Iwuchukwu,0,-0.012476222866361275,0.5173087296073879
+2130527449,The case for a wide-table approach to manage sparse relational data sets,2007,17,53,3,0.857143,2241027455,Eric Chu,0,-1.6124072765097377,0.13657306291735316
+2143100570,Covering indexes for branching path queries,2002,17,298,3,0.75,2158829505,Raghav Kaushik,0,-0.3161582662464376,-0.3469441421109881
+2116469285,Efficiently incorporating user feedback into information extraction and integration programs,2009,35,44,4,0.0,2162618513,Xiaoyong Chai,0,0.4418911022707599,-0.021738418033819748
+2107907225,XML-to-SQL Query Translation Literature The State of the Art and Open Problems,2003,47,127,1,1.0,2075622585,Jeffrey F. Naughton,0,-2.2398458984374554,-0.2588758376988143
+2107928811,Transaction reordering with application to synchronized scans,2008,21,5,2,0.42473,2104365585,Gang Luo,0,0.3035469802816595,0.3208697669437689
+2110970879,Unraveling the duplicate-elimination problem in XML-to-SQL query translation,2004,20,6,3,0.666667,2150581792,Rajasekar Krishnamurthy,0,-0.6634096454874194,-0.10465543721764763
+2107966677,Corleone hands-off crowdsourcing for entity matching,2014,32,115,4,0.0,2309805466,Chaitanya Gokhale,0,-0.730875497193185,0.3435417404552127
+2143852486,Toward scalable keyword search over relational data,2010,26,44,5,1.0,2139126271,Akanksha Baid,0,-0.4510729884163594,0.24846660988711605
+2140894225,Evaluating window joins over unbounded streams,2003,43,345,2,0.346154,2596592397,Jaewoo Kang,0,-1.8266652678080273,0.3164426919881979
+2144113062,XML views as integrity constraints and their use in query translation,2005,14,3,3,0.666667,2150581792,Rajasekar Krishnamurthy,0,-1.8643644073795982,-0.218477549918952
+2153231596,Toward a progress indicator for database queries,2004,16,103,2,0.9375,2104365585,Gang Luo,0,-0.7671691647418826,-0.32288043182914883
+2165286227,Relational Databases for Querying XML Documents Limitations and Opportunities,1999,18,965,6,0.0,1989847040,Jayavel Shanmugasundaram,0,-2.399568558349525,-0.2761363466063392
+2156184447,Updates for structure indexes,2002,13,40,3,0.75,2158829505,Raghav Kaushik,0,-0.9019485227708248,-0.2005993822789269
+2159240999,K-relevance a spectrum of relevance for data sources impacting a query,2007,19,2,2,1.0,2671999676,Jiansheng Huang,0,-1.1562008160814057,0.18479210122918294
+2153406069,End-biased Samples for Join Cardinality Estimation,2006,29,38,2,0.0,2000183772,Cristian Estan,0,0.21438872843298346,-0.1353423822296997
+2144416276,Declarative information extraction using datalog with embedded extraction predicates,2007,27,170,3,0.0,2469451223,Warren Shen,0,0.2402350536490534,-0.06655212483758015
+2150528099,Integrating databases and workflow systems,2005,22,41,4,1.0,2762206094,Srinath Shankar,0,0.26684944019167883,0.8882062383482163
+2171668176,Clustera an integrated computation and data management system,2008,16,100,4,0.0,1979791317,David J. DeWitt,0,-0.8792122677407951,0.20022285527734468
+2150950420,On the Computation of Multidimensional Aggregates,1996,15,491,5,0.0,2681948797,Sameet Agarwal,0,1.546193589104074,0.9553951581722802
+2145055832,Extending RDBMSs To Support Sparse Datasets Using An Interpreted Attribute Storage Format,2006,16,85,4,0.0,2973540195,Jennifer L. Beckmann,0,-1.6060089094119683,0.6211017761456137
+2160091496,Design and evaluation of alternative selection placement strategies in optimizing continuous queries,2002,25,103,3,0.0,2670883443,Jianjun Chen,0,0.003708468606338,0.082832279151172
+2151454464,Synopses for query optimization a space-complexity perspective,2004,46,9,2,0.8,2158829505,Raghav Kaushik,0,-0.0395804122397981,0.0068802457672825015
+2148608412,Efficient XML-to-SQL query translation where to add the intelligence ,2004,23,47,1,1.0,2075622585,Jeffrey F. Naughton,0,-1.0350474945608885,-0.1447791799367722
+2151663987,A non-blocking parallel spatial join algorithm,2002,21,47,2,1.0,2104365585,Gang Luo,0,-1.5166445287580146,0.25122828905175726
+2145676903,Uncertainty aware query execution time prediction,2014,44,13,3,0.75,2119491994,Wentao Wu,0,-0.0395804122397981,0.0068802457672825015
+2166709576,On the provenance of non-answers to queries over extracted data,2008,28,129,4,1.0,2671999676,Jiansheng Huang,0,0.3154119870123149,0.2915100589061553
+2154729038,Preventing equivalence attacks in updated anonymized data,2011,28,32,3,0.6,2170951142,Yeye He,0,0.003708468606338,0.082832279151172
+2163834250,Static optimization of conjunctive queries with sliding windows over infinite streams,2004,33,103,2,0.0,1996234780,Ahmed M. Ayad,0,-0.4747265401179089,0.12659181726586888
+2149728808,A comparison of three methods for join view maintenance in parallel RDBMS,2003,3,18,2,1.0,2104365585,Gang Luo,0,-0.8442052347603889,0.7683302838487246
+2146750584,Database support for matching limitations and opportunities,2006,20,9,3,1.0,2169239594,Ameet Kini,0,-0.6581330205218655,0.585388052995421
+2185719260,Cost estimation techniques for database systems,2002,64,0,2,1.0,2066833720,Ashraf Aboulnaga,0,-0.7599104912437501,0.026334447607963784
+2215987640,Resource bricolage for parallel database systems,2014,33,10,2,0.5,2096227755,Jiexing Li,0,-2.5419814225942408,0.8599681801909664
+2256424113,Tracking entities in the dynamic world a fast algorithm for matching temporal records,2014,11,15,3,1.0,2149638310,Yueh Hsuan Chiang,0,0.05237835277341889,0.14390510995925548
+2292590056,Demonstration of Santoku optimizing machine learning over normalized data,2015,4,10,4,0.742857,2424930959,Arun Kumar,0,-0.12660251819678137,0.032522020441872496
+2293133410,On Debugging Non-Answers in Keyword Search Systems,2015,19,9,5,1.0,2139126271,Akanksha Baid,0,-0.3291976808020441,-0.13703470885516322
+2424452828,Sampling-Based Query Re-Optimization,2016,37,13,2,0.743164,2119491994,Wentao Wu,0,-0.1029618939806145,0.040434369851773004
+2444650685,To Join or Not to Join Thinking Twice about Joins before Feature Selection,2016,43,41,2,0.742857,2424930959,Arun Kumar,0,-0.4207165609334775,0.08066551923097469
+2432192764,Differentially Private Stochastic Gradient Descent for in-RDBMS Analytics,2016,19,10,5,1.0,2953866209,Xi Wu,0,-0.5281446604447708,0.3161894971255725
+2434702933,Operator and Query Progress Estimation in Microsoft SQL Server Live Query Statistics,2016,28,11,13,0.0,2486439614,Kukjin Lee,0,0.0344161494722001,0.16037352003828126
+2502537832,Anonymization techniques for large and dynamic data sets,2007,0,1,2,0.0,1979791317,David J. DeWitt,0,0.30942554269090883,0.3582471631783735
+2542998387,Magellan toward building entity matching management systems,2016,23,46,10,0.0,2478650365,Pradap Konda,0,0.016428094544341854,0.3656427508646958
+2563724055,Towards linear algebra over normalized data,2017,31,23,3,0.6,2795024169,Lingjiao Chen,0,0.12883860284626272,0.10780600587436683
+2546672044,Magellan toward building entity matching management systems over data science stacks,2016,6,8,10,0.0,2478650365,Pradap Konda,0,-0.060142023130536036,0.3590404717217351
+2519289116,Sparse relational data sets issues and an application,2008,0,1,1,1.0,2075622585,Jeffrey F. Naughton,0,-1.4760996625154368,0.3387003815221893
+2616245901,Technical Perspective Optimized Wandering for Online Aggregation,2017,2,0,1,1.0,2075622585,Jeffrey F. Naughton,0,0.003708468606338,0.082832279151172
+2612526608,Falcon Scaling Up Hands-Off Crowdsourced Entity Matching to Build Cloud Services,2017,50,27,4,1.0,2145507332,Sanjib Das,0,0.24471643779253505,0.5623243869087948
+2601012348,Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-based Analytics,2016,0,3,6,1.0,2953866209,Xi Wu,0,-0.5172046636422392,0.2512234186689659
+2740480782,Applications of data mining to cluster scheduling and failure diagnosis,2009,0,0,2,1.0,112234878,Lakshmikant Shrinivas,0,0.488879330717607,0.3209399917904287
+2804328743,Exploiting Data Partitioning To Provide Approximate Results,2018,11,1,3,0.8,2227960989,Bruhathi Sundarmurthy,0,-0.09887293991100575,0.0515576332321096
+2917161856,DIFF a relational interface for large-scale data explanation,2018,0,1,11,0.0,2225244938,Firas Abuzaid,0,-0.2909428398294992,0.04926704743332565
+2914529374,Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent,2019,63,0,6,1.0,2594260293,Fengan Li,0,-0.22514076899242355,0.001231587213755922
+2949742316,Towards Linear Algebra over Normalized Data,2016,33,5,3,0.6,2795024169,Lingjiao Chen,0,0.12883860284626272,0.10780600587436683
+2952069069,Uncertainty Aware Query Execution Time Prediction,2014,37,1,3,0.75,2119491994,Wentao Wu,0,-0.0395804122397981,0.0068802457672825015
+2952219792,Sampling-Based Query Re-Optimization,2016,32,7,2,0.743164,2119491994,Wentao Wu,0,-0.0395804122397981,0.0068802457672825015
+2950364610,On Load Shedding in Complex Event Processing,2013,28,1,3,0.6,2170951142,Yeye He,0,-0.2290007917375602,0.29389545040013765
+2963999993,Bolt-on Differential Privacy for Scalable Stochastic Gradient Descent-based Analytics,2017,30,47,6,1.0,2953866209,Xi Wu,0,-0.5172046636422392,0.2512234186689659
+3004534299,Providing Insights for Queries affected by Failures and Stragglers,2020,33,0,4,0.8,2227960989,Bruhathi Sundarmurthy,0,0.247057159400659,0.0008718596446388033

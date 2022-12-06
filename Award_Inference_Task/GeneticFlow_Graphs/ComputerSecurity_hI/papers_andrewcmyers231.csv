@@ -1,0 +1,59 @@
+89229122,07091 Executive Summary - Mobility Ubiquity and Security,2007,0,0,4,0.159574,313407794,Andrei Sabelfeld,0,0.0040557659796233,0.2757546058061082
+113731474,Defining and Enforcing Referential Security,2014,22,6,2,1.0,2141013874,Jed Liu,0,-0.3307046366810878,1.1250529243968315
+149806678,Toward securely programming the internet,2010,1,0,1,1.0,2141746463,Andrew C. Myers,0,-0.09602735134178905,0.6849619620451437
+226572598,Containment and Integrity for Mobile Code,2004,0,0,2,0.0,2106636992,Fred B. Schneider,0,-0.0034787336884873434,1.3708225627332267
+1488890761,SIF enforcing confidentiality and integrity in web applications,2007,38,138,3,1.0,2105167831,Stephen Chong,0,-0.22563417661284008,2.4564610051240297
+1497651746,Dynamic Security Labels and Noninterference,2004,33,71,1,1.0,2141746463,Andrew C. Myers,0,-0.9253540835676152,1.4576639354140346
+1497744324,A semantic framework for declassification and endorsement,2010,24,37,2,0.578361,2017925049,Aslan Askarov,0,-0.035006822793123275,1.5500604213081386
+1534212008,Enforcing robust declassification and qualified robustness,2006,50,85,1,1.0,2141746463,Andrew C. Myers,0,-0.4222010161064445,0.3343917467498294
+1527045966,Confidentiality and Integrity with Untrusted Hosts,2000,28,3,2,1.0,1994212081,Steve Zdancewic,0,-0.8370774332573259,0.34966245816116376
+1528226162,Programming with explicit security policies,2005,9,3,1,1.0,2141746463,Andrew C. Myers,0,-0.3014798695046594,1.410377769780745
+1510692643,Mostly-Static Decentralized Information Flow Control,1999,77,86,1,1.0,2141746463,Andrew C. Myers,0,-0.29286825773820563,0.47203593376894726
+1538511530,Dynamic Security Labels and Noninterference (Extended Abstract),2004,27,17,2,0.9,2158099478,Lantian Zheng,0,0.10485375905062033,-0.1374831031806686
+1575159010,Guiding Distributed Systems Synthesis with Language-Based Security Policies,2008,0,0,1,1.0,2141746463,Andrew C. Myers,0,-0.20696827941462742,1.6385117103469933
+1522388518,Civitas A Secure Voting System,2007,0,24,2,1.0,2105167831,Stephen Chong,0,0.0040557659796233,0.2757546058061082
+1957951093,Enforcing robust declassification,2004,53,95,1,1.0,2141746463,Andrew C. Myers,0,-0.44930476329281066,0.34173050254915727
+1580059626,Protecting privacy in a decentralized environment,2000,28,2,2,0.0,2084056563,Barbara Liskov,0,-0.2943932242861668,0.9969100666968239
+1589806443,Secure Information Flow and CPS,2001,38,62,2,1.0,1994212081,Steve Zdancewic,0,-1.0260963650270543,1.3512893414788
+1819958245,A Model for Delimited Information Release,2004,55,167,2,0.571429,313407794,Andrei Sabelfeld,0,-0.6181185793124427,0.2628430939249927
+1771153709,Flow-Limited Authorization,2015,68,16,3,1.0,2020080286,Owen Arden,0,-0.36257835409218026,0.0786579530262504
+1775920529,Confidentiality and Integrity with Untrusted Hosts Technical Report,2000,0,0,2,1.0,1994212081,Steve Zdancewic,0,-0.8370774332573259,0.34966245816116376
+1582983062,Programming languages for information security,2002,0,90,2,1.0,1994212081,Steve Zdancewic,0,-0.9067502703241416,2.4827324702318974
+2100857937,Untrusted hosts and confidentiality secure program partitioning,2003,41,1,4,0.8,1994212081,Steve Zdancewic,0,-0.1404135059002921,0.7220495796819318
+2088923183,Dynamic security labels and static information flow control,2007,44,76,2,0.846154,2158099478,Lantian Zheng,0,0.10949800078168663,1.7257496160545045
+2123858370,Observational determinism for concurrent program security,2003,52,178,2,0.8,1994212081,Steve Zdancewic,0,-1.3057050123729508,0.8972806118782094
+2136025860,Using replication and partitioning to build secure distributed systems,2003,66,89,3,0.9,2158099478,Lantian Zheng,0,-0.19127930724074566,0.5580852534023365
+2130207003,Language-based information erasure,2005,47,57,2,1.0,2105167831,Stephen Chong,0,-0.3831022701708223,0.4787617892983331
+2133448626,Sharing Mobile Code Securely with Information Flow Control,2012,33,42,6,1.0,2020080286,Owen Arden,0,-0.3955968751418488,0.14917958692069197
+2106969392,Belief in information flow,2005,38,112,2,0.857143,2320088296,Michael R. Clarkson,0,-0.0704802660657359,0.09794035737183271
+2110012131,Complete safe information flow with decentralized labels,1998,21,168,1,1.0,2141746463,Andrew C. Myers,0,-0.2080674614515877,0.4820764529348718
+2121988324,Security policies for downgrading,2004,34,119,2,0.894737,2105167831,Stephen Chong,0,-0.4535080844026684,2.3095599026265794
+2122049982,Language-based information-flow security,2003,143,1517,2,0.571429,313407794,Andrei Sabelfeld,0,-0.08184646585703217,2.0603516385840046
+2116807588,Predictive black-box mitigation of timing channels,2010,33,134,3,0.578361,2017925049,Aslan Askarov,0,-1.6341546348979454,-0.4020107981483716
+2140772060,Securing nonintrusive web encryption through information flow,2008,33,6,2,0.0,2780525257,Lantian Zheng,0,0.050092914921877715,-1.9699713298474961
+2159436061,End-to-End Enforcement of Erasure and Declassification,2008,25,36,2,1.0,2105167831,Stephen Chong,0,-0.3106215947274851,-0.05343199351464744
+2171690178,Predictive mitigation of timing channels in interactive systems,2011,27,89,3,1.0,2099242823,Danfeng Zhang,0,-0.1773385929008878,0.7069782294431272
+2171829095,Protecting privacy using the decentralized label model,2003,46,24,1,1.0,2141746463,Andrew C. Myers,0,-0.38602364373467307,0.8601373935651115
+2186841663,Expressive and enforceable information security policies,2008,148,5,2,1.0,2105167831,Stephen Chong,0,0.019534337048846016,-0.5896313279495982
+2154564703,Protecting privacy using the decentralized label model,2000,47,480,1,1.0,2141746463,Andrew C. Myers,0,-0.5436369149534954,0.8706145036851858
+2148791173,Civitas Toward a Secure Voting System,2008,70,263,3,0.789474,2320088296,Michael R. Clarkson,0,0.14544890593630444,-0.3715328396435499
+2157828581,End-to-end availability policies and noninterference,2005,36,27,2,0.9,2158099478,Lantian Zheng,0,-0.29456286175608004,0.4911937245623935
+2170048817,Civitas A Secure Remote Voting System,2007,53,15,3,0.857143,2320088296,Michael R. Clarkson,0,0.0040557659796233,0.2757546058061082
+2155317744,Attacker Control and Impact for Confidentiality and Integrity,2011,30,21,2,0.578361,2017925049,Aslan Askarov,0,0.0941543476154185,1.8541481202840093
+2182664258,Making distributed computation secure by construction,2007,101,2,1,1.0,2141746463,Andrew C. Myers,0,-0.09602735134178905,0.6849619620451437
+2164875857,Making distributed systems secure with program analysis and transformation,2005,0,0,1,1.0,2141746463,Andrew C. Myers,0,-0.3019309957179176,-0.24274553488273262
+2228110606,JRIF Reactive Information Flow Control for Java,2016,40,5,3,0.0,2279806125,Elisavet Kozyri,0,-0.6098632369043347,1.0241853210555243
+2262688675,A Calculus for Flow-Limited Authorization Technical Report,2016,9,2,2,1.0,2020080286,Owen Arden,0,-0.5343145117470351,1.0293664749641562
+2295903522,Robust declassification,2001,23,170,2,1.0,1994212081,Steve Zdancewic,0,-0.38188472868893797,1.0081065061278114
+2509702867,Safe Serializable Secure Scheduling Transactions and the Trade-Off Between Security and Consistency,2016,32,5,4,0.0,2517575700,Isaac C. Sheff,0,-0.8167396210249015,0.9891933224411966
+2513506956,Report on the NSF Workshop on Formal Methods for Security,2016,89,10,4,0.45205,2105167831,Stephen Chong,0,0.0040557659796233,0.2757546058061082
+2508356508,A Calculus for Flow-Limited Authorization,2016,45,9,2,1.0,2020080286,Owen Arden,0,-0.26004749919849995,-0.06122012140363596
+2766853406,Nonmalleable Information Flow Control,2017,22,13,2,0.0,2538452155,Ethan Cecchetti,0,-0.05611912071720297,-0.24406469174364936
+2752155394,Nonmalleable Information Flow Technical Report,2017,27,1,2,0.0,2538452155,Ethan Cecchetti,0,0.019534337048846016,-0.5896313279495982
+2810373184,Dynamic Security Labels and Noninterference (Extended Abstract),2004,25,10,2,0.9,2158099478,Lantian Zheng,0,0.0040557659796233,0.2757546058061082
+2891527070,HyperFlow A High-Assurance Processor Architecture for Practical Timing-Safe Information Flow Security,2018,0,0,3,0.0,2010613650,Andrew Ferraiuolo,0,0.0040557659796233,0.2757546058061082
+2896496024,HyperFlow A Processor Architecture for Nonmalleable Timing-Safe Information Flow Security,2018,60,15,3,0.0,2010613650,Andrew Ferraiuolo,0,-0.24638339328727632,0.974153453853379
+2896746715,Secure Autonomous Cyber-Physical Systems Through Verifiable Information Flow Control,2018,51,2,7,1.0,2141013874,Jed Liu,0,-0.37464840512521824,0.6503305374787832
+2949292834,Safe Serializable Secure Scheduling Transactions and the Trade-off Between Security and Consistency,2016,36,0,4,0.0,2517575700,Isaac C. Sheff,0,-0.09602735134178905,0.6849619620451437
+2984560659,Civitas A Secure Remote Voting System,2008,59,4,3,0.789474,2320088296,Michael R. Clarkson,0,-0.24585179071561494,-0.32046496196281127
+3022632758,Civitas A Secure Remote Voting System,2008,0,1,3,0.789474,2320088296,Michael R. Clarkson,0,-0.24585179071561494,-0.32046496196281127

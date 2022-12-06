@@ -1,0 +1,103 @@
+36361912,Overview of the TREC 2013 contextual suggestion track,2013,1,40,2,1.0,295111803,Adriel Dean Hall,0,-0.2077587178978906,0.2066877724578797
+7157229,Efficiency vs Effectiveness in Terabyte-Scale Information Retrieval,2005,9,40,2,1.0,148423141,Stefan BÃ¼ttcher,0,-0.08916813502645499,-0.36758233783292305
+94637519,Overview of the TREC 2009 Web Track,2009,5,240,1,1.0,2098618034,Charles L. A. Clarke,0,-0.21934185016841626,0.6056873083074126
+134101225,Deriving Very Short Queries for High Precision and Recall (MultiText Experiments for TREC-7),1998,0,13,4,0.5,2100357054,Gordon V. Cormack,0,-0.3224513172225988,0.1037120505302715
+233242456,Meeting of the MINDS,2007,0,0,3,0.0,676500258,Susan T. Dumais,0,-0.02361490712827675,0.2709295199642215
+299870200,Overview of the TREC 2012 Web Track,2012,10,61,1,1.0,2098618034,Charles L. A. Clarke,0,0.003708468606338,0.082832279151172
+923756419,University of Waterloo at TREC 2014 Contextual Suggestion Experiments with suggestion clustering,2014,2,2,4,1.0,2095969387,Luchen Tan,0,-0.21934185016841626,0.6056873083074126
+413120383,Frequent Itemset Mining for Query Expansion in Microblog Ad-hoc Search,2012,8,6,2,0.0,432039081,Younos Aboulnaga,0,-0.0626053130611515,0.07514689703071849
+1570431431,A hybrid approach to index maintenance in dynamic text retrieval systems,2006,14,20,2,1.0,148423141,Stefan BÃ¼ttcher,0,0.6623188747198969,0.12098147707758339
+1516347616,Interactive Substring Retrieval (MultiText Experiments for TREC-5),1996,0,12,1,1.0,2098618034,Charles L. A. Clarke,0,-0.8047601723435897,0.03687259980435963
+1484330506,Classifying and Characterizing Query Intent,2009,7,71,2,0.954545,2075598693,Azin Ashkan,0,-0.01657107088421793,0.035389748403282274
+1547627874,Passage-based query refinement (MultiText experiments for TREC-6),2000,12,12,2,0.5,2100357054,Gordon V. Cormack,0,0.31608047153940405,-0.44064599485125155
+1878790362,Overview of the TREC 2014 Contextual Suggestion Track,2014,2,23,2,1.0,295111803,Adriel Dean Hall,0,0.003708468606338,0.082832279151172
+1912275919,A Bayesian approach for learning document type relevance,2007,3,7,3,0.0,2164988263,Peter C. K. Yeung,0,-1.9834034143309696,0.0579473239782817
+1685426458,Efficient and effective spam filtering and re-ranking for large web datasets,2011,30,214,3,0.127744,2100357054,Gordon V. Cormack,0,1.0513562486324293,-1.360642546449182
+1767221188,Experiments with ClueWeb09 Relevance Feedback and Web Tracks,2009,8,9,2,0.377357,1959697873,Mark D. Smucker,0,0.003708468606338,0.082832279151172
+1616993132,A Family of Rank Similarity Measures Based on Maximized Effectiveness Difference,2015,42,14,2,1.0,2095969387,Luchen Tan,0,-0.3473793728160243,0.24861357896709396
+1593107030,Topical and Structural Linkage in Wikipedia,2011,15,7,2,1.0,2080084843,Kelly Y. Itakura,0,0.003708468606338,0.082832279151172
+1984070542,Effective measures for inter-document similarity,2013,24,17,2,1.0,1858841557,John S. Whissell,0,-0.30961570939778055,0.4680648643686066
+1965231990,Clustering for semi-supervised spam filtering,2011,27,10,2,1.0,1858841557,John S. Whissell,0,-0.45506907768306387,1.1862636338343509
+1965372953,Evaluating Streams of Evolving News Events,2015,12,4,3,0.0,2222791787,Gaurav Baruah,0,-0.1923482153824391,0.3911408909828727
+1970977883,Modeling user variance in time-biased gain,2012,29,25,2,0.396225,1959697873,Mark D. Smucker,0,0.003708468606338,0.082832279151172
+1967676648,The impact of intent selection on diversified search evaluation,2013,11,10,3,0.0,2233707155,Tetsuya Sakai,0,-0.21934185016841626,0.6056873083074126
+2006616981,A framework for BM25F-based XML retrieval,2010,15,9,2,1.0,2080084843,Kelly Y. Itakura,0,-2.0853967784288643,-0.2521959214240766
+1996246161,Improving retrieval accuracy by weighting document types with clickthrough data,2007,4,5,2,0.0,2164988263,Peter C. K. Yeung,0,-1.9834034143309696,0.0579473239782817
+2001615126,Report on the 1st International Workshop on Information Access in Smart Cities (i-ASC 2014),2014,11,0,4,0.0,209705036,M Dyaa Albakour,0,0.16992010198897345,0.18260933248841404
+1993343070,Classification-Based Clustering Evaluation,2013,15,0,2,1.0,1858841557,John S. Whissell,0,-0.5315175964028787,2.271913762851835
+2002157036,A multi-system analysis of document and term selection for blind feedback,2004,26,24,3,0.0,2053552764,Thomas R. Lynam,0,0.003708468606338,0.082832279151172
+2000545282,Exploiting redundancy in question answering,2001,22,232,1,1.0,2098618034,Charles L. A. Clarke,0,-0.17768346192212375,0.0848641959637884
+2004312966,Modeling task-genre relationships for IR in the workplace,2005,25,50,3,0.75,2058146465,Luanne Freund,0,-1.3882613803333683,0.6316364724855366
+1999039029,Report on the SIGIR workshop on &quot;entertain me&quot; supporting complex search tasks,2012,0,14,4,0.0,682752941,Nicholas J. Belkin,0,0.2013204842853825,0.3608231575198243
+1988613011,Time well spent,2014,30,23,1,1.0,2098618034,Charles L. A. Clarke,0,0.003708468606338,0.082832279151172
+1988720020,An overview of multitext,1998,2,12,1,1.0,2098618034,Charles L. A. Clarke,0,0.003708468606338,0.082832279151172
+2022516827,Search and exploration of X-Rated information (SEXI 2013),2013,1,3,2,0.0,1858435594,Vanessa Murdock,0,0.003708468606338,0.082832279151172
+2012214630,2nd international workshop on diversity in document retrieval (DDR 2012),2012,10,0,3,0.0,2148910894,Craig Macdonald,0,-0.09231822390626693,0.216467219316399
+2019406253,Faster and smaller inverted indices with treaps,2013,43,24,3,0.666667,1266371698,Roberto Konow,0,1.953477907267599,1.650413473408607
+2026430213,A comparative analysis of cascade measures for novelty and diversity,2011,25,104,1,1.0,2098618034,Charles L. A. Clarke,0,0.003708468606338,0.082832279151172
+2028279014,Lightweight contrastive summarization for news comment mining,2012,5,5,2,0.0,2612204932,Gobaan Raveendran,0,-0.17536238923574604,0.4144853997593385
+2021608999,Modeling browsing behavior for click analysis in sponsored search,2012,17,10,2,1.0,2075598693,Azin Ashkan,0,0.003708468606338,0.082832279151172
+2019942346,Impact of query intent and search context on clickthrough behavior in sponsored search,2013,49,13,2,1.0,2075598693,Azin Ashkan,0,0.1514798174838004,-0.2614971775758992
+2014637920,Searching program source code with a structured text retrieval system (poster abstract),1999,4,5,1,1.0,2098618034,Charles L. A. Clarke,0,-0.1564484342997837,-0.003689792840155063
+2014849898,SIGIR 2013 workshop on modeling user behavior for information retrieval evaluation,2013,3,0,1,1.0,2098618034,Charles L. A. Clarke,0,0.984781936104207,-0.28272964416512464
+2022006917,Clustering web queries,2009,34,5,2,1.0,1858841557,John S. Whissell,0,-0.955102775814739,3.2890994534448903
+2029009258,Time-based calibration of effectiveness measures,2012,41,136,2,0.396225,1959697873,Mark D. Smucker,0,0.003708468606338,0.082832279151172
+2020313144,On the informativeness of cascade and intent-aware effectiveness measures,2011,21,12,2,1.0,2075598693,Azin Ashkan,0,0.003708468606338,0.082832279151172
+2042030928,Comparing query logs and pseudo-relevance feedbackfor web-search query refinement,2007,6,18,2,0.0,2096583854,Ryen W. White,0,-0.01657107088421793,0.035389748403282274
+2051101123,Scoring missing terms in information retrieval tasks,2004,25,27,2,0.0,2006329252,Egidio Terra,0,-0.01657107088421793,0.035389748403282274
+2054676729,Characterizing commercial intent,2009,27,14,2,0.954545,2075598693,Azin Ashkan,0,0.1514798174838004,-0.2614971775758992
+2033681837,Improving document clustering using Okapi BM25 feature weighting,2011,27,31,2,1.0,1858841557,John S. Whissell,0,-0.7318387155793842,1.6339178121222075
+2053100920,Reliable information retrieval evaluation with incomplete and biased judgements,2007,16,89,2,0.969231,148423141,Stefan BÃ¼ttcher,0,0.003708468606338,0.082832279151172
+2035512259,Shortest-substring retrieval and ranking,2000,55,47,1,1.0,2098618034,Charles L. A. Clarke,0,-0.1916888409096968,-0.26501256474732954
+2039447541,The impact of corpus size on question answering performance,2002,8,29,1,1.0,2098618034,Charles L. A. Clarke,0,-0.1828116243064809,-0.06935739119961072
+2056081579,Hybrid index maintenance for contiguous inverted lists,2008,29,14,2,0.969231,148423141,Stefan BÃ¼ttcher,0,0.2980254358930332,0.7027940847883358
+2073887333,On the Reusability of Open Test Collections,2015,7,7,2,0.0,2292142044,Seyyed Hadi Hashemi,0,0.003708468606338,0.082832279151172
+2059984218,Topic-oriented collaborative crawling,2002,35,27,2,0.0,2224400909,Chiasen Chung,0,-0.0036011344271887256,-3.247322760776049
+2070507812,Term proximity scoring for ad-hoc retrieval on very large text collections,2006,3,146,2,1.0,148423141,Stefan BÃ¼ttcher,0,0.003708468606338,0.082832279151172
+2062626555,Swapping documents and terms,2009,15,4,1,1.0,2098618034,Charles L. A. Clarke,0,-0.11300819442795465,0.09518744858596301
+2099620277,In the Mood to Click Towards Inferring Receptiveness to Search Advertising,2009,23,12,3,0.0,2142973983,Qi Guo,0,-0.08272345130364393,0.07409296963824304
+2082840541,X-Site a workplace search tool for software engineers,2007,2,11,3,0.0,2164988263,Peter C. K. Yeung,0,0.6066616852252525,-1.6834346658492574
+2081401338,Using dynamic markov compression to detect vandalism in the wikipedia,2009,3,24,2,1.0,2080084843,Kelly Y. Itakura,0,0.003708468606338,0.082832279151172
+2093990026,Term-based commercial intent analysis,2009,6,11,2,0.954545,2075598693,Azin Ashkan,0,-0.1029618939806145,0.040434369851773004
+2094144755,Impact of Surrogate Assessments on High-Recall Retrieval,2015,42,6,3,0.428571,226093892,Adam Roegiest,0,0.43162625009792,0.20195636031746017
+2094190061,Location- and Query-Aware Modeling of Browsing and Click Behavior in Sponsored Search,2015,38,0,2,0.817496,2075598693,Azin Ashkan,0,0.003708468606338,0.082832279151172
+2094256961,Succinct Queries for Linking and Tracking News in Social Media,2014,18,4,2,1.0,2095969387,Luchen Tan,0,0.09869918664672195,-0.18633352365711692
+2082055394,Increasing evaluation sensitivity to diversity,2013,43,14,3,0.0,1912732802,Peter B. Golbus,0,0.003708468606338,0.082832279151172
+2135290016,A document-centric approach to static index pruning in text retrieval systems,2006,14,81,2,1.0,148423141,Stefan BÃ¼ttcher,0,0.3138134161015081,0.3760354287448037
+2132314908,Novelty and diversity in information retrieval evaluation,2008,35,681,1,1.0,2098618034,Charles L. A. Clarke,0,0.6243484015088002,-0.15727760661106796
+2141999856,Approximating the top-m passages in a parallel question answering system,2004,22,5,1,1.0,2098618034,Charles L. A. Clarke,0,-0.17768346192212375,0.0848641959637884
+2106532293,Stochastic simulation of time-biased gain,2012,12,14,2,0.396225,1959697873,Mark D. Smucker,0,0.003708468606338,0.082832279151172
+2121854496,Indexing time vs query time trade-offs in dynamic information retrieval systems,2005,14,60,2,1.0,148423141,Stefan BÃ¼ttcher,0,-0.01657107088421793,0.035389748403282274
+2116566885,Index Pruning and Result Reranking Effects on Ad-Hoc Retrieval and Named Page Finding,2006,14,9,2,1.0,148423141,Stefan BÃ¼ttcher,0,0.0597908726731833,-0.2449448024264691
+2122437698,Information Access in Smart Cities i-ASC,2014,9,2,4,0.0,209705036,M Dyaa Albakour,0,0.07291638447277944,0.278385003720399
+2137339254,Index compression is good especially for random access,2007,24,45,2,0.969231,148423141,Stefan BÃ¼ttcher,0,-1.165948019457172,-0.6637259439397217
+2114006712,Relevance ranking for one to three term queries,2000,31,146,1,1.0,2098618034,Charles L. A. Clarke,0,1.116060298488493,-0.2793644663048043
+2147671191,Hybrid index maintenance for growing text collections,2006,16,48,2,1.0,148423141,Stefan BÃ¼ttcher,0,-0.13275296294680305,-0.071629888206014
+2151172507,Estimating Ad Clickthrough Rate through Query Intent Analysis,2009,22,17,2,0.954545,2075598693,Azin Ashkan,0,0.003708468606338,0.082832279151172
+2145276519,Report on the workshop on search and exploration of x-rated information (SEXI 2013),2013,5,2,2,0.0,1858435594,Vanessa Murdock,0,0.003708468606338,0.082832279151172
+2148972377,Reciprocal rank fusion outperforms condorcet and individual rank learning methods,2009,6,180,2,0.131068,2100357054,Gordon V. Cormack,0,0.003708468606338,0.082832279151172
+2167260896,Controlling overlap in content-oriented XML retrieval,2005,21,61,1,1.0,2098618034,Charles L. A. Clarke,0,-2.399568558349525,-0.2761363466063392
+2158255858,Towards a collection-based results diversification,2010,15,0,2,0.0,2038203689,John A. Akinyemi,0,-0.0031083031663548004,-0.30935013801880873
+2152646153,The 1st international workshop on diversity in document retrieval,2012,13,1,2,0.0,2148910894,Craig Macdonald,0,-0.02361490712827675,0.2709295199642215
+2185885129,Evaluating Contextual Suggestion,2013,10,18,2,1.0,295111803,Adriel Dean Hall,0,0.003708468606338,0.082832279151172
+2158915197,The TREC terabyte retrieval track,2005,1,16,1,1.0,2098618034,Charles L. A. Clarke,0,0.020668326261506192,-0.30162165509289457
+2254748067,Second Workshop on Search and Exploration of X-Rated Information (SEXI16) WSDM Workshop Summary,2016,4,2,2,0.0,1858435594,Vanessa Murdock,0,0.003708468606338,0.082832279151172
+2329317691,Modeling Optimal Switching Behavior,2016,15,7,2,0.252013,1959697873,Mark D. Smucker,0,-0.11300819442795465,0.09518744858596301
+2342707026,Assessing efficiency---effectiveness tradeoffs in multi-stage retrieval systems without using relevance judgments,2016,32,15,1,1.0,2098618034,Charles L. A. Clarke,0,0.003708468606338,0.082832279151172
+2395887233,University of Waterloo at TREC 2015 Microblog Track,2015,4,15,3,1.0,2095969387,Luchen Tan,0,-0.010775494722934468,-0.08837480976449329
+2463112553,Simple Dynamic Emission Strategies for Microblog Filtering,2016,12,12,3,1.0,2095969387,Luchen Tan,0,0.09869918664672195,-0.18633352365711692
+2467224519,An Exploration of Evaluation Metrics for Mobile Push Notifications,2016,4,14,4,1.0,2095969387,Luchen Tan,0,-0.05721343177867544,-0.07271944176200716
+2460680144,Privacy-Preserving IR 2016 Differential Privacy Search and Social Media,2016,7,7,4,0.0,2237013446,Hui Yang,0,-0.14057456089647813,0.307384220129981
+2464868641,SIGIR 2016 Workshop WebQA II Web Question Answering Beyond Factoids,2016,24,3,5,0.0,48142092,Alessandro Moschitti,0,-0.4844334914093983,-0.14762246502236054
+2572043595,WaterlooClarke TREC 2015 Total Recall Track,2015,15,4,4,0.0,2716993343,Haotian Zhang,0,-0.22280285259969326,0.43963907821185977
+2576107865,WaterlooClarke TREC 2015 LiveQA Track,2015,3,0,4,0.0,2344768457,Alexandra Vtyurina,0,-0.7002025936452952,-0.3885070512338605
+2531355666,Dynamic Cutoff Prediction in Multi-Stage Retrieval Systems,2016,33,13,2,0.0785667,1944334593,J. Shane Culpepper,0,0.2353162648138094,0.228350730718198
+2546705495,WaterlooClarke TREC 2015 Clinical Decision Support Track,2015,6,1,4,0.0,2641404433,Amira Ghenai,0,-0.29254250951815963,0.3689397161939103
+2585936885,Inverted Treaps,2017,60,1,3,0.666667,1266371698,Roberto Konow,0,1.953477907267599,1.650413473408607
+2580079839,Match-Tensor a Deep Relevance Model for Search,2017,37,10,4,0.0,1228126434,Aaron Jaech,0,0.003708468606338,0.082832279151172
+2766449686,A Location-Query-Browse Graph for Contextual Recommendation,2018,59,9,5,0.0,2893804399,Yongli Ren,0,-0.03403043374157009,-0.0056722847811090755
+2782730635,Query Driven Algorithm Selection in Early Stage Retrieval,2018,60,11,5,0.0,2343398192,Joel Mackenzie,0,0.27953027755988336,-0.1325183298869247
+2915170155,The TREC 2005 Terabyte Track,2005,4,45,1,1.0,2098618034,Charles L. A. Clarke,0,0.0597908726731833,-0.2449448024264691
+2950171659,Dynamic Trade-Off Prediction in Multi-Stage Retrieval Systems,2016,9,1,2,0.0785667,1944334593,J. Shane Culpepper,0,0.43162625009792,0.20195636031746017
+2953140273,A Family of Rank Similarity Measures based on Maximized Effectiveness Difference,2014,32,1,2,1.0,2095969387,Luchen Tan,0,-0.3473793728160243,0.24861357896709396
+2949286092,Assessing Efficiency-Effectiveness Tradeoffs in Multi-Stage Retrieval Systems Without Using Relevance Judgments,2015,22,0,1,1.0,2098618034,Charles L. A. Clarke,0,0.003708468606338,0.082832279151172

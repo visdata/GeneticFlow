@@ -1,0 +1,76 @@
+39167138,Tag size does matter attacks and proofs for the TLS record protocol,2011,35,82,2,0.0,2101835147,Kenneth G. Paterson,0,-0.11769713601800955,-1.6800978363378403
+193421409,Proceedings of the 3rd ACM workshop on Cloud computing security workshop,2011,0,3,1,1.0,197246800,Thomas Ristenpart,0,-0.1441150575582966,0.26210579898660075
+125660632,Privacy-preserving location tracking of lost or stolen devices cryptographic techniques and replacing trusted third parties with DHTs,2008,22,45,1,1.0,197246800,Thomas Ristenpart,0,0.30825561022816456,0.1564340049556256
+1467126665,A placement vulnerability study in multi-tenant public clouds,2015,22,44,3,1.0,1988491809,Venkatanathan Varadarajan,0,0.0040557659796233,0.2757546058061082
+1473189865,Privacy in pharmacogenetics an end-to-end case study of personalized warfarin dosing,2014,42,200,6,0.428571,2076493382,Matt Fredrikson,0,0.18024655990534766,0.4248442162106032
+1501932514,Cracking-Resistant Password Vaults Using Natural Language Encoders,2015,36,26,4,1.0,2231427661,Rahul Chatterjee,0,-2.3881387249017036,-1.7190039236984724
+1519809459,DupLESS server-aided encryption for deduplicated storage,2013,60,215,3,0.0,2052950829,Mihir Bellare,0,0.2868158210847777,-1.63036598006862
+1873601359,On the practical exploitability of dual EC in TLS implementations,2014,15,56,6,0.0,2639473500,Stephen Checkoway,0,0.5689374602355609,-0.25033720289927963
+1694077306,FIE on firmware finding vulnerabilities in embedded systems using symbolic execution,2013,32,63,3,0.0,2282451864,Drew Davidson,0,0.0040557659796233,0.2757546058061082
+1892454167,Honey Encryption Security Beyond the Brute-Force Bound,2014,37,43,2,0.0,46726047,Ari Juels,0,0.4783670244615816,-1.2378573931631769
+1716219110,Scheduler-based defenses against cross-VM side-channels,2014,37,90,2,1.0,1988491809,Venkatanathan Varadarajan,0,0.3171484069971384,-0.13992525839030945
+1985776777,Protocol misidentification made easy with format-transforming encryption,2013,46,59,3,1.0,2107988936,Kevin P. Dyer,0,-0.21835354491828804,-1.2697613463502648
+1979341085,Formatted Encryption Beyond Regular Languages,2014,14,6,3,0.0,44943649,Daniel Luchaup,0,0.3413755826236695,-1.445646399571216
+2001759130,Cross-Tenant Side-Channel Attacks in PaaS Clouds,2014,31,160,4,0.768729,2158166610,Yinqian Zhang,0,0.9753907213017128,-0.24445946668398916
+1992291252,Cross-VM side channels and their use to extract private keys,2012,37,541,4,0.666667,2158166610,Yinqian Zhang,0,-0.12301185170248632,-1.0546338091665874
+2021949962,Peek-a-Boo I Still See You Why Efficient Traffic Analysis Countermeasures Fail,2012,21,196,3,1.0,2107988936,Kevin P. Dyer,0,-0.18889009923344147,-0.0009770676332559829
+2033165262,Leakage-Abuse Attacks Against Searchable Encryption,2015,15,171,4,0.571429,2806670307,David Cash,0,0.4202970791197027,-0.8739716674283949
+2052565897,Seeing through Network-Protocol Obfuscation,2015,38,29,4,1.0,2423542020,Liang Wang,0,-1.1050436413207847,0.9614611947983347
+2051267297,Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures,2015,25,360,3,0.428571,2076493382,Matt Fredrikson,0,0.1639362940477497,0.6530314529854678
+2076745395,Not-So-Random Numbers in Virtualized Linux and the Whirlwind RNG,2014,19,12,4,1.0,367512726,Adam Everspaugh,0,0.3171484069971384,-0.13992525839030945
+2060783077,Honey Encryption Encryption beyond the Brute-Force Barrier,2014,6,18,2,0.0,46726047,Ari Juels,0,-0.23043549676731137,-1.7745458721914789
+2101022010,Hedged Public-Key Encryption How to Protect against Bad Randomness,2009,38,105,4,0.0,2052950829,Mihir Bellare,0,0.10171954438266667,-2.0075492000156885
+2138357890,Back to the Future A Framework for Automatic Malware Removal and System Repair,2006,20,49,3,0.0,2168849086,Francis Hsu,0,-0.031312508362371906,1.5152031969412032
+2119028650,Hey you get off of my cloud exploring information leakage in third-party compute clouds,2009,20,1641,1,1.0,197246800,Thomas Ristenpart,0,0.03681267817275477,0.13382843325602564
+2183421554,Careful with Composition Limitations of Indifferentiability and Universal Composability,2011,54,3,1,1.0,197246800,Thomas Ristenpart,0,-0.811218610331604,-1.1568867164659182
+2165257856,Message-Locked Encryption and Secure Deduplication,2013,38,288,3,0.0,2052950829,Mihir Bellare,0,-0.24117173122068916,-1.5542618897600877
+2180738388,LibFTE a toolkit for constructing practical format-abiding encryption schemes,2014,14,15,4,0.0,44943649,Daniel Luchaup,0,0.3413000920526115,-1.876345092584088
+2148828749,The Power of Proofs-of-Possession Securing Multiparty Signatures against Rogue-Key Attacks,2007,38,63,1,1.0,197246800,Thomas Ristenpart,0,-0.05700665056911569,-1.4031574956912587
+2160879729,Multi-instance Security and Its Application to Password-Based Cryptography,2012,64,37,3,0.0,2052950829,Mihir Bellare,0,-0.597893969729894,-1.41446739571213
+2167088175,Resource-freeing attacks improve your cloud performance (at your neighbors expense),2012,31,123,4,1.0,1988491809,Venkatanathan Varadarajan,0,0.0040557659796233,0.2757546058061082
+2164373098,WhoWas A Platform for Measuring Web Deployments on IaaS Clouds,2014,25,13,4,1.0,2423542020,Liang Wang,0,0.0040557659796233,0.2757546058061082
+2185483300,The pythia PRF service,2015,37,26,5,1.0,367512726,Adam Everspaugh,0,-0.3842662693651363,-0.8786930486468416
+2218639287,A day late and a dollar short the case for research on cloud billing systems,2014,19,10,3,0.0,1946719083,Robert Jellinek,0,0.0040557659796233,0.2757546058061082
+2407063206,When Good Randomness Goes Bad Virtual Machine Reset Vulnerabilities and Hedging Deployed Cryptography,2010,30,86,1,1.0,197246800,Thomas Ristenpart,0,0.3139939642973432,-0.4259949914620587
+2377521539,Network Traffic Obfuscation and Automated Internet Censorship,2016,13,0,2,0.0,2145003792,Lucas Dixon,0,0.039759618553267186,0.13771439442968836
+2479395339,Honey Encryption Beyond Message Recovery Security,2016,29,2,2,0.0,2228352594,Joseph Jaeger,0,0.21990694304378267,-1.352770312450047
+2461943168,Stealing Machine Learning Models via Prediction APIs,2016,39,168,5,0.0,2122808249,Florian TramÃ¨r,0,-0.1808645143951975,0.8039012169725659
+2537304608,Breaking Web Applications Built On Top of Encrypted Data,2016,38,36,4,1.0,2230538608,Paul Grubbs,0,-0.29754688252679984,0.6886052482939915
+2521114648,CQSTR Securing Cross-Tenant Applications with Cloud Containers,2016,35,13,4,1.0,2697851862,Yan Zhai,0,0.01729573639416045,0.692733692908092
+2575956808,Secure Channel Injection and Anonymous Proofs of Account Ownership,2016,16,4,4,1.0,2423542020,Liang Wang,0,-0.3449252307530775,-0.672409039117886
+2513151097,pASSWORD tYPOS and How to Correct Them Securely,2016,33,13,5,1.0,2231427661,Rahul Chatterjee,0,-2.1515779663099206,-1.4272692808646261
+2733529322,Key Rotation for Authenticated Encryption,2017,23,11,3,1.0,367512726,Adam Everspaugh,0,0.11947099567128999,-2.121591177731432
+2639926268,Leakage-Abuse Attacks against Order-Revealing Encryption,2017,37,69,5,0.9,2230538608,Paul Grubbs,0,-0.01293266520821279,0.10646662500932043
+2624359066,Rethinking Security in the Era of Cloud Computing,2017,18,17,6,0.0,2083607902,Jay Aikat,0,0.3171484069971384,-0.13992525839030945
+2598865842,Using Program Analysis to Synthesize Sensor Spoofing Attacks,2017,22,4,2,0.0,2610332638,Ivan Pustogarov,0,-0.8987407597177729,0.3358702899713446
+2678698279,Side-Channel Attacks on Shared Search Indexes,2017,18,2,6,0.8,2423542020,Liang Wang,0,0.7581994215731006,0.18046312226561637
+2740612841,Message Franking via Committing Authenticated Encryption,2017,55,11,3,0.9,2230538608,Paul Grubbs,0,-0.037538313542418045,-1.2817069485838388
+2765986046,The TypTop System Personalized Typo-Tolerant Password Checking,2017,24,2,5,1.0,2231427661,Rahul Chatterjee,0,-2.300109769793811,-1.6089782662189096
+2757528734,Machine Learning Models that Remember Too Much,2017,58,63,2,0.0,2727759672,Congzheng Song,0,0.3259332239481683,0.5745734317069635
+2739132638,Why Your Encrypted Database Is Not Secure,2017,34,21,2,0.9,2230538608,Paul Grubbs,0,0.2830673762324015,-0.6014254885366502
+2786903184,When Textbook RSA is Used to Protect the Privacy of Hundreds of Millions of Users,2018,12,0,2,0.0,2031316637,Jeffrey Knockel,0,0.1460829071535705,-0.14311771875231982
+2883822506,Fast Message Franking From Invisible Salamanders to Encryptment,2018,30,3,3,0.0,1259442811,Yevgeniy Dodis,0,0.11617066437641173,-0.6056340411264641
+2889239789,BurnBox Self-Revocable Encryption in a World Of Compelled Access,2018,0,0,3,1.0,2888811110,Nirvan Tyagi,0,0.155870422438688,-0.3611899258997246
+2931153881,Beyond Credential Stuffing Password Similarity Models Using Neural Networks,2019,40,3,4,0.0,2934801925,Bijeeta Pal,0,-1.2900804300701358,-0.6031717485681632
+2951460153,Honey Encryption Beyond Message Recovery Security,2016,0,1,2,0.0,2228352594,Joseph Jaeger,0,1.4631441555075502,-0.6681796342132159
+2949504534,Leakage-Abuse Attacks against Order-Revealing Encryption,2016,0,0,5,1.0,2230538608,Paul Grubbs,0,0.155870422438688,-0.3611899258997246
+2951832794,Message Franking via Committing Authenticated Encryption,2017,0,0,3,0.9,2230538608,Paul Grubbs,0,-0.2133971482398226,-0.6747789786693421
+2951968273,Honey Encryption Security Beyond the Brute-Force Bound,2014,0,1,2,0.0,46726047,Ari Juels,0,1.4631441555075502,-0.6681796342132159
+2947157608,Protocols for Checking Compromised Credentials,2019,22,0,6,0.0,2947479139,Lucy Li,0,-0.47417894654310266,-0.13104308283456592
+2952203331,A Placement Vulnerability Study in Multi-tenant Public Clouds,2015,17,35,3,1.0,1988491809,Venkatanathan Varadarajan,0,0.0040557659796233,0.2757546058061082
+2952373612,Hedged Public-key Encryption How to Protect against Bad Randomness,2012,0,0,4,0.0,2052950829,Mihir Bellare,0,0.03910652856792115,-0.9542749174440527
+2952502304,Blind Certificate Authorities,2019,46,2,4,0.769231,2423542020,Liang Wang,0,0.06159937054566512,-1.0376995399072306
+2950577241,Leakage-Abuse Attacks Against Searchable Encryption,2016,0,1,4,0.571429,2806670307,David Cash,0,0.155870422438688,-0.3611899258997246
+2963058004,Network Traffic Obfuscation and Automated Internet Censorship,2016,18,7,2,0.0,2145003792,Lucas Dixon,0,0.10674098363938858,-0.14624781857912306
+2950689653,A New Distribution Sensitive Secure Sketch and a Comparison Between Approaches to Typo-Tolerant Authentication,2017,0,0,5,0.0,2733850341,Joanne Woodage,0,-0.5530861437885858,-0.004176666300269333
+2950849431,The Power of Proofs-of-Possession Securing Multiparty Signatures against Rogue-Key Attacks,2007,0,0,1,1.0,197246800,Thomas Ristenpart,0,0.0040557659796233,0.2757546058061082
+2950853358,Multi-Instance Security and its Application to Password-Based Cryptography,2012,0,0,3,0.0,2052950829,Mihir Bellare,0,-0.05073807199023517,-0.1361757471960077
+2951036087,The TypTop System Personalized Typo-Tolerant Password Checking,2017,0,0,5,1.0,2231427661,Rahul Chatterjee,0,-0.3912276319926795,0.07353894049935202
+2949224125,Surreptitiously Weakening Cryptographic Systems,2015,57,20,4,0.0,605106185,Bruce Schneier,0,0.3171484069971384,-0.13992525839030945
+2968816448,Clinical computer security for victims of intimate partner violence,2019,0,2,6,0.0,2794886168,Sam Havron,0,0.0040557659796233,0.2757546058061082
+2986955649,Traceback for End-to-End Encrypted Messaging,2019,23,0,3,1.0,2888811110,Nirvan Tyagi,0,0.280274246879697,-0.11248391040571279
+2987263720,Protocols for Checking Compromised Credentials,2019,21,2,6,0.0,2947479139,Lucy Li,0,0.0040557659796233,0.2757546058061082
+3015248122,The Many Kinds of Creepware Used for Interpersonal Attacks,2020,0,0,6,0.0,2260592415,Kevin Roundy,0,0.0040557659796233,0.2757546058061082
+3013517799,BurnBox Self-Revocable Encryption in a World Of Compelled Access,2018,0,0,3,1.0,2888811110,Nirvan Tyagi,0,0.155870422438688,-0.3611899258997246
+2955861595,Asymmetric Message Franking Content Moderation for Metadata-Private End-to-End Encryption,2019,0,1,6,1.0,2888811110,Nirvan Tyagi,0,0.19813839944470946,-0.7235126977859884
+2968257562,Asymmetric Message Franking Content Moderation for Metadata-Private End-to-End Encryption,2019,58,0,6,1.0,2888811110,Nirvan Tyagi,0,0.33355073145045633,-0.7501912439410653

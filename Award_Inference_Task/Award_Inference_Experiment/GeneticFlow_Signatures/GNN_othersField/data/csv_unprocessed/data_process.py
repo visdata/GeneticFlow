@@ -21,6 +21,11 @@ def uniform_sample(all_items, sample_num):
         
     return sampled_items
 
+try:
+    arcmatched = np.load('../arc2mag_nlp.npz')
+    match_flag = True
+except:
+    match_flag = False
 
 authors = pd.read_csv("top_field_authors.csv", header = None)
 fellow=[]
@@ -32,7 +37,8 @@ for root, dirs, files in os.walk(".", topdown=False):
         if(name[0]=='p'):
             number=re.findall(r"\d+\d*", name)[0]
             number=int(number)
-            total.append(number)
+            if number<=220 or not match_flag:
+                total.append(number)
 print("total:",len(total))
 
 fellow_count=0
@@ -90,6 +96,43 @@ print(fellow,len(fellow))
 non_fellow=uniform_sample(non_fellow,non_fellow_number)
 fellow=uniform_sample(fellow,fellow_number)
 
+
+if match_flag:
+    print('find ../arc2mag_nlp.npz, start mapping sampling')
+    matched_fellow = list(arcmatched['matched_magfellow'])
+    matched_nonfellow = list(arcmatched['matched_magnonfellow'])
+    Topmatched_author = list(arcmatched['Topmatched_mag'])
+    topmatched_rest=set(Topmatched_author)-set(matched_nonfellow)-set(matched_fellow)
+    lack_fellow=len(fellow)-len(matched_fellow)
+    for ele in topmatched_rest:
+        if lack_fellow <= 0:
+            break
+        if ele not in matched_fellow and ele not in matched_nonfellow and ele in fellow:
+            matched_fellow.append(ele)
+            lack_fellow-=1
+    for add_f in fellow:
+        if lack_fellow <= 0:
+            break
+        if add_f not in matched_fellow and add_f not in matched_nonfellow:
+            matched_fellow.append(add_f)
+            lack_fellow-=1
+    lack_nonfellow=len(non_fellow)-len(matched_nonfellow)
+    for ele in topmatched_rest:
+        if lack_nonfellow <= 0:
+            break
+        if ele not in matched_fellow and ele not in matched_nonfellow and ele in non_fellow:
+            matched_nonfellow.append(ele)
+            lack_nonfellow-=1
+    for add_nf in non_fellow:
+        if lack_nonfellow <= 0:
+            break
+        if add_nf not in matched_fellow and add_nf not in matched_nonfellow:
+            matched_nonfellow.append(add_nf)
+            lack_nonfellow-=1
+    fellow=matched_fellow
+    non_fellow=matched_nonfellow
+print()
+print('after sampling...')
 print(non_fellow,len(non_fellow))
 print(fellow,len(fellow))
 

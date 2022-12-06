@@ -1,0 +1,56 @@
+120268299,Density-connected sets and their application for trend detection in spatial databases,1997,17,42,3,0.0,2067196623,Martin Ester,0,-0.5953587571174542,1.102180080610678
+6581905,Active Learning Strategies for Semi-Supervised DBSCAN,2014,23,7,2,0.0,2149809093,Jundong Li,0,-0.6288293952758378,1.4613401620546282
+200532039,ONDOCS Ordering Nodes to Detect Overlapping Community Structure,2010,31,3,3,0.0,2100594616,Jiyang Chen,0,-0.11065927141030281,1.58022178144544
+82889883,SSCP mining statistically significant co-location patterns,2011,19,18,2,1.0,2499732832,Sajib Barua,0,-0.0769353016057025,-0.2600287055078183
+101003662,Detecting Statistically Significant Temporal Associations from Multiple Event Sequences,2013,16,0,2,0.0,2659502053,Han Liang,0,0.21438872843298346,-0.1353423822296997
+50951307,Clustering for Mining in Large Spatial Databases,1998,19,49,3,0.0,2067196623,Martin Ester,0,-1.657600486296187,1.376262635454491
+632121358,On strategies for building effective ensembles of relative clustering validity criteria,2016,63,13,6,0.0,2041850064,Pablo A. Jaskowiak,0,-0.5309732920220693,1.5544911448506813
+1559971515,Data bubbles for non-vector data speeding-up hierarchical clustering in arbitrary metric spaces,2003,13,20,2,1.0,2715072097,Jianjun Zhou,0,-0.8733737819115777,3.3039570686719277
+1497909917,Efficient Indexing of High Dimensional Normalized Histograms,2003,12,1,2,0.375,1955552452,Alexandru Coman,0,-0.17215306937990155,-0.4469101267357911
+1498047526,OPTICS-OF Identifying Local Outliers,1999,14,133,4,0.913043,411702990,Markus M. Breunig,0,-0.23534987733189203,0.8787013912785726
+1527659376,Knowledge Discovery in Spatial Databases,1999,15,48,3,0.0899547,2067196623,Martin Ester,0,-1.1998265081266692,0.7305539525163187
+1494154769,Fast Hierarchical Clustering Based on Compressed Data and OPTICS,2000,13,23,3,0.913043,411702990,Markus M. Breunig,0,-0.925833655409384,3.2855233502420833
+1530595269,Incremental Clustering for Mining in a Data Warehousing Environment,1998,22,429,3,0.0,2067196623,Martin Ester,0,-1.364329031419199,2.7935742678870383
+1604390995,Database Primitives for Spatial Data Mining,1999,14,16,4,0.0899547,2067196623,Martin Ester,0,-2.510579257546945,0.9443701365746495
+1673310716,A density-based algorithm for discovering clusters in large spatial Databases with Noise,1996,10,9981,3,0.0,2067196623,Martin Ester,0,-1.460702573521444,3.2426595464400476
+1578711506,Automatic extraction of clusters from hierarchical clustering representations,2003,12,89,1,1.0,2118842476,JÃ¶rg Sander,0,-0.9943339468037815,3.5693405489595795
+1590225777,Algorithms and Applications for Spatial Data Mining,2001,24,67,3,0.0,1919135125,Hans Peter Kriegel,0,0.3088920437306954,0.04116318140356369
+1890828259,A trajectory splitting model for efficient spatio-temporal indexing,2005,21,49,2,0.0,2277023430,Slobodan Rasetic,0,-0.1847743722593346,0.060218323848301614
+1591450657,Spatial Data Mining A Database Approach,1997,21,222,3,0.0,2067196623,Martin Ester,0,0.020254606060026752,0.6040562302404314
+1969806156,A methodology for analyzing SAGE libraries for cancer profiling,2005,38,14,1,1.0,2118842476,JÃ¶rg Sander,0,-0.406818173160694,-0.8084213374138726
+1980652169,Hierarchical Cluster analysis of SAGE data for cancer profiling,2001,17,29,2,0.0,2109621001,Raymond T. Ng,0,-0.6247534179066997,2.45204435955267
+1987111416,Densityâ€based clustering,2011,47,332,4,0.18102,242745652,Arthur Zimek,0,-0.908665943856102,3.0192908940059713
+1989822231,Data perturbation for outlier detection ensembles,2014,47,18,3,0.189907,242745652,Arthur Zimek,0,-0.013903782638619263,-0.07316935113827552
+1990106316,Subsampling for efficient and effective unsupervised outlier detection ensembles,2013,47,85,4,0.189907,242745652,Arthur Zimek,0,-0.013903782638619263,-0.07316935113827552
+1992276041,On the internal evaluation of unsupervised outlier detection,2015,44,10,4,0.0,2224465253,Henrique Marques,0,0.21366877108414206,0.16512386060353984
+2022902860,Incremental and effective data summarization for dynamic hierarchical clustering,2004,21,34,2,0.0,2294656859,Samer Nassar,0,-0.7913357456697837,2.5331431360708843
+2011191813,Subspace and projected clustering experimental evaluation and analysis,2009,45,59,5,0.8,2059192723,Gabriela Moise,0,-0.032844976451154737,2.2213007800908695
+2054773288,Mining statistically sound co-location patterns at multiple distances,2014,27,7,2,1.0,2499732832,Sajib Barua,0,-0.12970585413895236,0.34847881701609057
+2050194666,Exploiting redundancy in sensor networks for energy efficient processing of spatiotemporal region queries,2005,19,18,3,0.375,1955552452,Alexandru Coman,0,0.003708468606338,0.082832279151172
+2073825221,Robust projected clustering,2008,28,55,2,0.8,2059192723,Gabriela Moise,0,-0.6668989488332994,2.6587722558241085
+2059054797,Mining Statistically Significant Co-location and Segregation Patterns,2014,27,37,2,1.0,2499732832,Sajib Barua,0,0.12984880821065817,-0.02013327885613518
+2097042476,Independent quantization an index compression technique for high-dimensional data spaces,2000,20,265,5,0.0,2013057434,Stefan Berchtold,0,-0.22612037590731188,1.3745344124332788
+2101549186,Ensembles for unsupervised outlier detection challenges and research questions a position paper,2014,77,117,3,0.189907,242745652,Arthur Zimek,0,-0.20582432466297393,0.1835277388025572
+2101649702,Finding the Nearest Neighbors in Biological Databases Using Less Distance Computations,2010,24,9,2,1.0,2715072097,Jianjun Zhou,0,-0.5180708290081524,-0.5187891392256876
+2089055054,Finding non-redundant statistically significant regions in high dimensional data a novel approach to projected and subspace clustering,2008,25,95,2,0.8,2059192723,Gabriela Moise,0,-0.9971625805256347,3.7458814239361127
+2102286993,P3C A Robust Projected Clustering Algorithm,2006,15,75,2,0.8,2059192723,Gabriela Moise,0,-0.8781926542108195,3.3026132243303867
+2114826097,Decomposing object-oriented class modules using an agglomerative clustering technique,2009,24,36,4,0.0,104167720,Marios Fokaefs,0,-0.2945519210578156,1.1478488116757144
+2126751256,Density-Based Clustering in Spatial Databases The Algorithm GDBSCAN and Its Applications,1998,29,872,1,1.0,2118842476,JÃ¶rg Sander,0,-1.4330944881852186,2.9344182901191336
+2115057574,Multiple similarity queries a basic DBMS operation for mining in metric databases,2001,27,35,4,0.444444,1136592811,Bernhard BraunmÃ¼ller,0,-0.19746979706682036,0.2612490619732536
+2144182447,LOF identifying density-based local outliers,2000,23,2981,4,0.913043,411702990,Markus M. Breunig,0,-0.5920177429627944,0.3017794741800888
+2180566385,Hierarchical Density Estimates for Data Clustering Visualization and Outlier Detection,2015,123,153,4,0.0,2043417111,Ricardo J. G. B. Campello,0,-0.8837660796070181,2.98044225129745
+2166205117,PIST An Efficient and Practical Indexing Technique for Historical Spatio-Temporal Point Data,2008,21,56,4,0.0,2285355379,Viorica Botea,0,-0.7943686132327521,0.12568046660070875
+2169344281,Efficiently supporting multiple similarity queries for mining in metric databases,2000,21,40,4,0.444444,1136592811,Bernhard BraunmÃ¼ller,0,-0.52316978173614,0.2160611856617326
+2166368653,Algorithms for characterization and trend detection in spatial databases,1998,8,110,4,0.0,2067196623,Martin Ester,0,-1.604420186566351,0.9377665504575132
+2160642098,OPTICS ordering points to identify the clustering structure,1999,31,2354,4,0.0,1098725839,Mihael Ankerst,0,-0.9211991615469002,3.298294457080068
+2166933393,A distribution-based clustering algorithm for mining in large spatial databases,1998,12,224,4,0.0,2647886517,Xiaowei Xu,0,-1.397544117854318,2.9447995717375757
+2170896428,Semi-supervised Density-Based Clustering,2009,9,62,2,0.0,2798120714,Levi H. S. Lelis,0,-1.0100080945370804,3.5892866593196393
+2295030075,Model selection for semi-supervised clustering,2014,41,9,5,0.0,2340861863,Mojgan Pourrajabi,0,-0.9244460407754101,3.297669831820736
+2282861635,On the evaluation of unsupervised outlier detection measures datasets and an empirical study,2016,65,170,3,0.0,2632658677,Guilherme Oliveira Campos,0,0.20279561436658805,0.0753070172078775
+2562836854,A density-based algorithm for discovering clusters a density-based algorithm for discovering clusters in large spatial databases with noise,1996,9,794,3,0.0,1919135125,Hans Peter Kriegel,0,-1.4204497145284476,2.657683734070642
+2740924709,DBSCAN Revisited Revisited Why and How You Should (Still) Use DBSCAN,2017,41,159,2,0.0,2011689237,Erich Schubert,0,-1.7546599399570335,2.0219689539300703
+2879929106,A unified framework of density-based clustering for semi-supervised classification,2018,33,2,3,1.0,1547586968,Jadson Castro Gertrudes,0,-0.13530573445825658,0.7378912230849564
+2923023146,Hierarchical Density-Based Clustering using MapReduce,2019,0,0,3,0.0,2043417111,Ricardo J. G. B. Campello,0,-0.3078626049010453,0.7611800812120414
+2914381873,A Modularity-Based Measure for Cluster Selection from Clustering Hierarchies,2018,26,1,3,0.0,2912031303,Francisco de Assis Rodrigues dos Anjos,0,-0.49680371111629457,1.1825094605693118
+2969639627,A unified view of density-based methods for semi-supervised clustering and classification,2019,43,1,3,1.0,1547586968,Jadson Castro Gertrudes,0,-0.0766692195145415,1.087481736794695
+2998391271,Efficient Computation and Visualization of Multiple Density-Based Clustering Hierarchies,2020,0,0,3,0.0,2043417111,Ricardo J. G. B. Campello,0,-0.2827157697235142,1.1064503599712034

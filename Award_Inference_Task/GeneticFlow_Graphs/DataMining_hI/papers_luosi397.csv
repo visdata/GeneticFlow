@@ -1,0 +1,79 @@
+215081581,Strategies for Effective Chemical Information Retrieval,2009,7,6,2,1.0,2050174705,Suleyman Cetintas,0,-0.11300819442795465,0.09518744858596301
+220637603,Learning to Hash with Partial Tags Exploring Correlation between Tags and Hashing Bits for Large Scale Image Retrieval,2014,34,29,2,1.0,2168727712,Qifan Wang,0,0.003708468606338,0.082832279151172
+319892727,Entity Retrieval with Hierarchical Relevance Model Exploiting the Structure of Tables and Learning Homepage Classifiers,2009,2,29,2,0.833333,2158128598,Yi Fang,0,-0.32181896469462046,0.21640429570821296
+959487582,BIT and Purdue at TREC-KBA-CCR Track 2014,2014,6,1,5,1.0,2308694372,Jingang Wang,0,0.07487803331484862,-0.12272735600701094
+1508853058,Using Past Queries for Resource Selection in Distributed Information Retrieval,2011,36,4,1,1.0,2127260490,Luo Si,0,0.7270607713713648,-0.03323405727744588
+1501491257,Distributed information retrieval with skewed database size distributions,2003,7,8,1,1.0,2127260490,Luo Si,0,0.003708468606338,0.082832279151172
+1585799956,LEAPS Detecting Camouflaged Attacks with Statistical Learning Guided by Program Analysis,2015,36,29,4,0.0,2135724973,Zhongshu Gu,0,0.11672415509507165,0.0338187686908989
+1955285503,Detecting temporal patterns of user queries,2017,47,3,5,0.0,2428878147,Pengjie Ren,0,0.159538607070304,-0.12913893224881934
+1964031635,Mixture model with multiple centralized retrieval algorithms for result merging in federated search,2012,29,17,2,1.0,2156122524,Dzung Hong,0,-0.15964450942365144,-0.2751529353446891
+1862957262,The Effect of Database Size Distribution on Resource Selection Algorithms,2003,9,11,1,1.0,2127260490,Luo Si,0,0.08329114195231535,0.32893178638165566
+1926369758,A Bayesian approach toward active learning for collaborative filtering,2004,16,98,2,0.588235,2142724104,Rong Jin,0,1.2350652037173413,0.39061007574644036
+1982141198,Protecting source privacy in federated search,2007,4,9,2,0.404571,2675954469,Wei Jiang,0,0.003708468606338,0.082832279151172
+1977309386,Cross-domain and cross-category emotion tagging for comments of online news,2014,36,21,3,0.0,2517346099,Ying Zhang,0,0.34189213798870693,-0.0085938730499827
+1972208442,Sparse Semantic Hashing for Efficient Large Scale Similarity Search,2014,13,2,4,1.0,2168727712,Qifan Wang,0,-0.004925067496075501,-0.06292280330319973
+1971187657,Preference preserving hashing for efficient recommendation,2014,38,30,4,0.882353,2232150411,Zhiwei Zhang,0,-0.1984714131877254,-0.08331523624254955
+1996017156,Analysis of an expert search query log,2011,7,8,3,0.89685,2158128598,Yi Fang,0,0.699989770877248,-1.5468576437983645
+1999529867,Semantic hashing using tags and topic modeling,2013,39,34,3,1.0,2168727712,Qifan Wang,0,-0.09453670388291636,-0.013985376081341377
+1991024205,A Bayesian framework for knowledge driven regression model in micro-array data analysis,2008,22,4,2,0.332405,2142724104,Rong Jin,0,0.003708468606338,0.082832279151172
+2009018050,Unified utility maximization framework for resource selection,2004,21,61,1,1.0,2127260490,Luo Si,0,0.44852404092209075,-0.17813989511954217
+2000231972,An Entity Class-Dependent Discriminative Mixture Model for Cumulative Citation Recommendation,2015,37,9,5,1.0,2308694372,Jingang Wang,0,0.003708468606338,0.082832279151172
+2003975698,A joint probabilistic classification model for resource selection,2010,27,22,2,1.0,2156122524,Dzung Hong,0,1.034895840933007,0.5188294905433861
+2000625227,Learning compact hashing codes for efficient tag completion and prediction,2013,27,14,4,1.0,2168727712,Qifan Wang,0,-0.2749942912007745,0.13856906812417702
+2002682102,Relevant document distribution estimation method for resource selection,2003,14,230,1,1.0,2127260490,Luo Si,0,-0.04920892429907685,0.06491516537118175
+2014064503,An effective and efficient results merging strategy for multilingual information retrieval in federated search environments,2008,22,15,1,1.0,2127260490,Luo Si,0,0.003708468606338,0.082832279151172
+2029911720,Using sampled data and regression to merge search engine results,2002,24,74,1,1.0,2127260490,Luo Si,0,0.003708468606338,0.082832279151172
+2021593257,Exploration of the tradeoff between effectiveness and efficiency for results merging in federated search,2007,3,8,2,0.857143,2050174705,Suleyman Cetintas,0,0.003708468606338,0.082832279151172
+2021986193,A language modeling framework for resource selection and results merging,2002,19,156,1,1.0,2127260490,Luo Si,0,0.33791005589889855,-0.10061531303082828
+2014959234,A study of mixture models for collaborative filtering,2006,19,87,2,0.414128,2142724104,Rong Jin,0,1.2350652037173413,0.39061007574644036
+2023907142,Mining contrastive opinions on political texts using cross-perspective topic model,2012,38,83,2,0.89685,2158128598,Yi Fang,0,0.11647673674627339,0.3784808660328827
+2054149018,Serendipitous learning learning beyond the predefined label space,2011,25,7,3,0.95,2585585268,Dan Zhang,0,-0.4479189668616904,2.5863398384617895
+2054160068,Learning from past queries for resource selection,2009,8,17,2,1.0,2050174705,Suleyman Cetintas,0,0.003708468606338,0.082832279151172
+2043904092,Effective query generation and postprocessing strategies for prior art patent search,2012,27,16,2,1.0,2050174705,Suleyman Cetintas,0,-0.1029618939806145,0.040434369851773004
+2042186555,Federated search of text search engines in uncooperative environments,2007,74,12,1,1.0,2127260490,Luo Si,0,0.49237701355447844,-1.2520387280743595
+2035127985,Modeling search engine effectiveness for federated search,2005,20,70,1,1.0,2127260490,Luo Si,0,0.8087313054130023,-2.0197004368110454
+2053102541,A latent pairwise preference learning approach for recommendation from implicit feedback,2012,9,7,2,0.89685,2158128598,Yi Fang,0,-0.059257236236340195,0.3069551725641326
+2033912027,Machine learning for information retrieval,2011,0,1,1,1.0,2127260490,Luo Si,0,-0.44193551362633965,2.0629023154906547
+2049822665,Discriminative graphical models for faculty homepage discovery,2010,27,9,2,0.833333,2158128598,Yi Fang,0,0.49862510684380795,-0.23772658102211933
+2039371384,A probabilistic graphical model for joint answer ranking in question answering,2007,27,65,3,0.75,1980340107,Jeongwoo Ko,0,-0.17768346192212375,0.0848641959637884
+2073260117,Discriminative probabilistic models for expert search in heterogeneous information sources,2011,42,21,2,0.89685,2158128598,Yi Fang,0,-0.7078465699796809,-0.42016213795250973
+2066695216,Related entity finding by unified probabilistic models,2015,53,3,2,0.582021,2158128598,Yi Fang,0,-0.3244444788076491,0.0290497873903455
+2058196845,Weighted hashing for fast large scale similarity search,2013,12,17,3,1.0,2168727712,Qifan Wang,0,0.003708468606338,0.082832279151172
+2074100742,Language model for IR using collection information,2002,3,3,2,0.0,2142724104,Rong Jin,0,0.08655504232397777,0.08109214821775419
+2072669000,Author disambiguation by hierarchical agglomerative clustering with adaptive stopping criterion,2013,18,21,3,0.0,2792809399,Lei Cen,0,-0.21005836596009614,0.8838626873948047
+2062631921,Identifying similar people in professional social networks with discriminative probabilistic models,2011,4,20,3,1.0,2050174705,Suleyman Cetintas,0,0.003708468606338,0.082832279151172
+2096562762,Discriminative probabilistic models for passage based retrieval,2008,26,27,2,0.0,2097891908,Mengqiu Wang,0,-0.6395593638760122,0.4738664505712176
+2080747411,Efficient privacy-preserving similar document detection,2010,31,67,4,0.818182,2031098998,Mummoorthy Murugesan,0,-0.2867689973785667,0.2310592350522629
+2103310608,Combining gene sequence similarity and textual information for gene function annotation in the literature,2008,32,6,1,1.0,2127260490,Luo Si,0,0.45835249857674437,0.16454780149422177
+2097674647,Collaborative filtering with decoupled models for preferences and ratings,2003,11,83,2,0.588235,2142724104,Rong Jin,0,0.9650664652314371,0.14256770262743643
+2096309302,Search result diversification in resource selection for federated search,2013,41,12,2,1.0,2156122524,Dzung Hong,0,0.003708468606338,0.082832279151172
+2105238500,A robust one-class bayesian approach for masquerade detection,2011,0,2,2,0.953125,2168727712,Qifan Wang,0,0.003708468606338,0.082832279151172
+2141686296,A study of methods for normalizing user ratings in collaborative filtering,2004,5,44,2,0.588235,2142724104,Rong Jin,0,1.2350652037173413,0.39061007574644036
+2124090777,t-Plausibility Generalizing Words to Desensitize Text,2012,23,25,6,0.0,2045858498,Balamurugan Anandan,0,-0.2549982742955442,0.2215840602359772
+2118295805,A semisupervised learning method to merge search engine results,2003,31,136,1,1.0,2127260490,Luo Si,0,0.003708468606338,0.082832279151172
+2109520089,Sentiment detection with auxiliary data,2012,50,12,2,0.95,2585585268,Dan Zhang,0,0.23448515074309043,1.3385154139184723
+2127300005,An automatic weighting scheme for collaborative filtering,2004,17,252,3,0.588235,2142724104,Rong Jin,0,1.2350652037173413,0.39061007574644036
+2118752767,Unified filtering by combining collaborative filtering and content-based filtering via mixture model and exponential model,2004,4,23,1,1.0,2127260490,Luo Si,0,1.2350652037173413,0.39061007574644036
+2121745949,A weighted curve fitting method for result merging in federated search,2011,5,6,3,0.0,2304946011,Chuan He,0,0.003708468606338,0.082832279151172
+2107021927,Multi-view transfer learning with a large margin approach,2011,48,57,4,0.95,2585585268,Dan Zhang,0,-0.15647773603214493,-0.7397214483171259
+2110045159,Multiple Instance Learning on Structured Data,2011,22,27,3,0.95,2585585268,Dan Zhang,0,-0.3804627263155418,1.471338746660045
+2121881251,Active hashing with joint data example and tag selection,2014,44,13,2,1.0,2168727712,Qifan Wang,0,-0.1984714131877254,-0.08331523624254955
+2113381424,Knowledge Transfer and Opinion Detection in the TREC2006 Blog Track,2006,0,53,1,1.0,2127260490,Luo Si,0,0.6977312699472681,0.21057477318911547
+2116796547,Thresholding Strategies for Text Classifiers TREC-2005 Biomedical Triage Task Experiments,2005,9,6,2,0.0,1248537349,Tapas Kanungo,0,0.003708468606338,0.082832279151172
+2131604898,Document clustering with universum,2011,34,30,3,0.95,2585585268,Dan Zhang,0,-1.0043634567536848,3.22240609137311
+2108172824,Combining Multiple Resources Evidences and Criteria for Genomic Information Retrieval,2006,2,11,1,1.0,2127260490,Luo Si,0,0.4878643641629618,0.0019601115471040986
+2162670057,Composite hashing with multiple information sources,2011,56,166,3,0.95,2585585268,Dan Zhang,0,0.003708468606338,0.082832279151172
+2171862218,Modeling search response time,2009,7,2,2,0.862069,2585585268,Dan Zhang,0,0.003708468606338,0.082832279151172
+2145215439,A knowledge driven regression model for gene expression and microarray analysis,2006,7,4,2,0.0,2125978934,Shireesh Srivastava,0,0.003708468606338,0.082832279151172
+2157700224,Combining evidence with a probabilistic framework for answer ranking and answer merging in question answering,2010,42,17,2,0.75,1980340107,Jeongwoo Ko,0,-0.7002025936452952,-0.3885070512338605
+2152074578,Similar Document Detection with Limited Information Disclosure,2008,19,50,4,0.404571,2675954469,Wei Jiang,0,0.2204636808095145,0.0403004057069267
+2170304975,Flexible mixture model for collaborative filtering,2003,7,242,1,1.0,2127260490,Luo Si,0,0.5476530134474511,0.6211984456421683
+2167308999,Multiple Instance Transfer Learning,2009,16,9,2,0.862069,2585585268,Dan Zhang,0,-0.12393734819475857,3.7243053267153607
+2152367169,Probabilistic models for answer-ranking in multilingual question-answering,2010,54,17,2,0.75,1980340107,Jeongwoo Ko,0,-1.3592490778760735,0.5211786372470204
+2167406831,Purdue at TREC 2010 Entity Track a Probabilistic Framework for Matching Types between Candidate and Target Entities,2010,9,11,2,0.833333,2158128598,Yi Fang,0,-1.7532541233128622,0.7453126660896467
+2253231004,Learning to hash on structured data,2015,33,4,2,1.0,2168727712,Qifan Wang,0,0.003708468606338,0.082832279151172
+2296541110,Query Expansion and Message-passing Algorithms for TREC Microblog Track,2011,2,7,4,1.0,2156122524,Dzung Hong,0,-0.2912215770074681,0.902069833995983
+2337859200,Learning for Efficient Supervised Query Expansion via Two-stage Feature Selection,2016,38,12,3,0.677419,2232150411,Zhiwei Zhang,0,-0.24340093110959513,0.12276566287700902
+2410431670,A robust one class Bayesian approach for masquerade detection,2012,0,0,1,1.0,2127260490,Luo Si,0,0.003708468606338,0.082832279151172
+2403689645,Ranking preserving hashing for fast similarity search,2015,38,36,3,1.0,2168727712,Qifan Wang,0,-0.1984714131877254,-0.08331523624254955
+2989254660,The effect of database size Distribution on resource selection algorithms,2004,0,10,1,1.0,2127260490,Luo Si,0,0.08329114195231535,0.32893178638165566

@@ -1,0 +1,59 @@
+144321000,Flexible storage of XML collections within an object-relational database,2005,123,15,1,1.0,202245023,Eric Sedlar,0,2.370448190624531,-0.03819082298276097
+1522916622,Efficient implementation of multiple work areas in a file system like repository that supports file versioning,2005,32,22,1,1.0,202245023,Eric Sedlar,0,-0.5343739698986858,1.612739352177129
+1794308432,Techniques for transaction semantics for a database server performing file operations,2004,96,23,1,1.0,202245023,Eric Sedlar,0,0.028681627061481474,0.282075478274118
+1795553865,High performance secure caching in the mid-tier,2008,118,5,1,1.0,202245023,Eric Sedlar,0,-0.17244133864042968,-0.305030520451871
+1749356136,Method and system for flexible sectioning of XML data in a database system,2005,94,62,2,1.0,186316197,Ashish Thusoo,0,1.8855985366475427,-0.13403974015189257
+1841517230,Isolation for applications working on shared XML data,2013,180,2,1,1.0,202245023,Eric Sedlar,0,2.6652794127964015,-0.9810572393509988
+1879303575,Sharing state information among a plurality of file operation servers,2005,92,17,1,1.0,202245023,Eric Sedlar,0,-1.4777831680881015,-0.8727675370183897
+1844278661,Database-managed file system,2004,37,70,1,1.0,202245023,Eric Sedlar,0,-0.5639231840335123,1.9948626376845957
+1935096412,Managing relationships between resources stored within a repository,2005,188,19,1,1.0,202245023,Eric Sedlar,0,-0.0041099411153885,0.0447066884760059
+1813074572,Techniques for providing locks for file operations in a database management system,2004,79,15,1,1.0,202245023,Eric Sedlar,0,-0.7128084325267358,2.306945158654144
+1765996881,Efficient queriability of version histories in a repository,2006,160,37,1,1.0,202245023,Eric Sedlar,0,-0.4164353607007019,-0.10408138035894196
+1888683582,File system that supports transactions,2000,71,84,1,1.0,202245023,Eric Sedlar,0,-0.5639231840335123,1.9948626376845957
+1817831659,Efficient extraction of XML content stored in a LOB,2005,89,61,2,1.0,186316197,Ashish Thusoo,0,2.7831829643936685,-1.0132844876806744
+1820199188,Basing directory contents on a query that is associated with a file identifier,2000,68,18,1,1.0,202245023,Eric Sedlar,0,-0.5536370572543712,1.9983480042237907
+1942430676,Mechanisms for storing content and properties of hierarchically organized resources,2002,62,68,1,1.0,202245023,Eric Sedlar,0,0.5896739511924775,-0.33103679217485843
+1916873869,Mechanism for mapping XML schemas to object-relational database systems,2002,70,369,1,1.0,202245023,Eric Sedlar,0,2.5046215027681518,-0.9515267357414251
+1944344266,Multi-model access to data,2000,97,43,1,1.0,202245023,Eric Sedlar,0,1.2196343602497253,1.5875783674666317
+1918691961,Versioning in internet file system,2000,123,12,1,1.0,202245023,Eric Sedlar,0,0.012068444942113435,0.36029749481682477
+1918831814,Optimizing correlated XML extracts,2005,364,9,1,1.0,202245023,Eric Sedlar,0,2.128401277888547,-0.7806084144180527
+1946293477,Comprehensive framework to integrate business logic into a repository,2004,172,6,1,1.0,202245023,Eric Sedlar,0,0.10365990635268832,0.24559955050121438
+1920394932,Encoding of hierarchically organized data for efficient storage and processing,2005,87,23,1,1.0,202245023,Eric Sedlar,0,1.5947593518752248,-0.6557857254348491
+1920450345,Techniques for changing XML content in a relational database,2004,60,181,1,1.0,202245023,Eric Sedlar,0,2.3485049625640406,-0.9375414068725034
+1779208579,Techniques for scalably accessing data in an arbitrarily large document by a device with limited resources,2002,32,57,1,1.0,202245023,Eric Sedlar,0,0.5586742082380666,-0.1984847101299193
+1896703187,Index maintenance for operations involving indexed xml data,2008,204,36,2,1.0,186316197,Ashish Thusoo,0,2.3719811590732665,-0.9176930458069982
+1865705435,Mechanism for uniform access control in a database system,2002,68,55,1,1.0,202245023,Eric Sedlar,0,-0.10545622004566765,0.2301479468393619
+1866590543,Processing path-based database operations,2004,171,12,1,1.0,202245023,Eric Sedlar,0,-0.4158634060287807,0.4835248812370578
+1869854669,Techniques for performing file operations involving a link at a database management system,2005,101,10,1,1.0,202245023,Eric Sedlar,0,-0.8188026787132945,2.5022281251616065
+1981097903,Towards an enterprise XML architecture,2005,4,44,6,0.0,2096174866,Ravi Murthy,0,2.3719811590732665,-0.9176930458069982
+1994985619,Flexible and efficient access control in oracle,2007,9,6,2,0.0,2096174866,Ravi Murthy,0,0.10023757428780067,-0.08373860532232111
+2017573662,How I learned to stop worrying and love compilers,2014,0,0,1,1.0,202245023,Eric Sedlar,0,0.3014309429340598,-0.3859549555178181
+2054816578,Designing fast architecture-sensitive tree search on modern multicore/many-core processors,2011,40,10,4,0.461538,2107543706,Changkyu Kim,0,-0.0041099411153885,0.0447066884760059
+2045186046,Managing structure in bits &amp; pieces the killer use case for XML,2005,0,12,1,1.0,202245023,Eric Sedlar,0,0.6321326015602556,0.17028250206129014
+2103486194,Flexible handling of datetime XML datatype in a database system,2005,119,10,1,1.0,202245023,Eric Sedlar,0,2.391386134340213,-0.7870386408006073
+2096308935,Cost-based optimizer for an XML data repository within a database,2004,346,28,1,1.0,202245023,Eric Sedlar,0,2.1349284696425577,-0.6751064239329508
+2114556412,On-the-fly format conversion,2000,86,20,1,1.0,202245023,Eric Sedlar,0,-0.2665168139398351,1.2553943484542858
+2113223230,Mechanism for computing structural summaries of XML document collections in a database system,2005,98,17,1,1.0,202245023,Eric Sedlar,0,3.0425266661100707,-1.1502487511506514
+2110486662,Infrastructure for performing file operations by a database server,2004,99,21,1,1.0,202245023,Eric Sedlar,0,-1.1407860531264196,3.3423595335927025
+2125529470,Sort vs Hash revisited fast join implementation on modern multi-core CPUs,2009,35,207,2,0.461538,2107543706,Changkyu Kim,0,0.43739842239757626,0.009947045888208002
+2159790971,Mechanism for efficient maintenance of XML index structures in a database system,2005,145,14,1,1.0,202245023,Eric Sedlar,0,1.6249709233520018,-0.6615837115353138
+2157603657,Efficient support for workspace-local queries in a repository that supports file versioning,2005,35,8,1,1.0,202245023,Eric Sedlar,0,-0.6749106349140835,1.5158523869609797
+2151920798,Index for accessing xml data,2004,101,106,2,1.0,186316197,Ashish Thusoo,0,2.359604457566749,-0.8757711379854968
+2219439767,Method and mechanism for efficient storage and query of xml documents based on paths,2004,43,79,1,1.0,202245023,Eric Sedlar,0,2.5048349343683918,-0.9756256283167938
+2261966492,Indexing to efficiently manage versioned data in a database system,2002,78,28,1,1.0,202245023,Eric Sedlar,0,-0.3652008450463068,0.3160971441695779
+2210552087,Method and mechanism for efficient access to nodes in XML data,2003,26,11,1,1.0,202245023,Eric Sedlar,0,1.982148460669378,-0.654966695921843
+2210870843,Internet file system,2000,30,34,1,1.0,202245023,Eric Sedlar,0,-0.3130069632132305,1.5280263569519048
+2211017102,Techniques for increasing efficiency while servicing requests for database services,2002,8,41,1,1.0,202245023,Eric Sedlar,0,2.469421970066305,0.7212870056640169
+2220286166,Method and system of handling document operation requests on documents having large collections with constrained memory,2003,19,3,2,0.75,186316197,Ashish Thusoo,0,0.7039556332340853,-0.8990503297634455
+2211903376,Mechanism for improving performance on XML over XML data using path subsetting,2006,200,19,1,1.0,202245023,Eric Sedlar,0,2.662071320147693,-0.984016222014174
+2268491099,Efficient mechanism to support user defined resource metadata in a database repository,2004,41,8,1,1.0,202245023,Eric Sedlar,0,0.664371664273959,-0.07005325095498706
+2259340185,Efficient pushdown of joins in a heterogeneous database system involving a large-scale low-power cluster,2014,60,7,1,1.0,202245023,Eric Sedlar,0,2.061520160077649,0.4684573732242592
+2204627048,Techniques for maintaining consistency for different requestors of files in a database management system,2004,84,23,1,1.0,202245023,Eric Sedlar,0,1.2094227353982505,0.35395328291823036
+2260428002,Label-aware index for efficient queries in a versioning system,2005,34,8,1,1.0,202245023,Eric Sedlar,0,-0.0041099411153885,0.0447066884760059
+2250130521,Document level indexes for efficient processing in multiple tiers of a computer system,2005,74,23,1,1.0,202245023,Eric Sedlar,0,2.781259069169755,-1.055734927197198
+2285382915,Label-aware B-tree-like index for efficient queries in a versioning system,2005,32,7,1,1.0,202245023,Eric Sedlar,0,0.07990222934621705,0.430503982801384
+2398224173,Scalable access to data in an arbitrarily large document,2003,4,2,1,1.0,202245023,Eric Sedlar,0,0.5214353844619418,-0.2877630681093626
+2593936576,Handling document operation requests on documents having large collections with constrained memory,2004,0,0,2,1.0,186316197,Ashish Thusoo,0,0.7039556332340853,-0.8990503297634455
+2599112656,Skalierbarer datenzugang in einem beliebig grossen dokument Scalable data access in an arbitrarily large document,2003,0,0,1,1.0,202245023,Eric Sedlar,0,0.221423897897152,-0.21080654779612165
+2755802200,Big Data Processing Scalability with Extreme Single-Node Performance,2017,25,0,10,0.0,2116954331,Venkatraman Govindaraju,0,0.5621591217488041,0.31485981866509555
+2798629639,RAPID In-Memory Analytical Query Processing Engine with Extreme Performance per Watt,2018,37,1,15,0.0,1969408926,Cagri Balkesen,0,-0.017195073610299864,-0.23273144811565244

@@ -1,0 +1,43 @@
+1558940048,Enhancing P2P file-sharing with an internet-scale query processor,2004,23,118,5,0.625265,2143551710,Boon Thau Loo,0,-0.331157261929354,-0.16512333473426355
+1523194426,Coordination Avoidance in Database Systems (Extended Version),2014,77,2,5,1.0,734473377,Ali Ghodsi,0,-0.0873632243068517,-0.0824034282341078
+1505183255,GraphX Unifying Data-Parallel and Graph-Parallel Analytics,2014,22,44,6,0.705882,2059277171,Reynold Xin,0,0.7818957945959922,0.18674858236664763
+1503091156,Highly Available Transactions Virtues and Limitations (Extended Version),2013,52,7,5,1.0,734473377,Ali Ghodsi,0,0.13059273330016538,0.40793840808522885
+1701068577,Complex Queries in DHT-based Peer-to-Peer Networks,2002,21,307,6,0.0,1963810295,Matthew Harren,0,-0.0041099411153885,0.0447066884760059
+1859707960,Asynchronous Complex Analytics in a Distributed Dataflow Architecture,2015,77,8,7,0.0,2252171364,Joseph E. Gonzalez,0,-0.0041099411153885,0.0447066884760059
+1601925768,Highly available transactions virtues and limitations,2013,56,124,6,0.818182,2049394146,Peter Bailis,0,0.13059273330016538,0.40793840808522885
+1995339490,Scalable atomic visibility with RAMP transactions,2014,44,73,5,0.818182,2049394146,Peter Bailis,0,1.3553236123019152,0.7694558224982472
+2002791618,Knowing when youre wrong building fast and reliable approximate query processing systems,2014,31,117,8,1.0,2644412219,Sameer Agarwal,0,0.014532710543751099,0.030944858938630852
+2018030107,G-OLA Generalized On-Line Aggregation for Interactive Analysis on Big Data,2015,24,47,5,0.75,2157610843,Kai Zeng,0,-0.1965577941972594,1.0752607383834563
+2041757497,PBS at work advancing data management with consistency metrics,2013,8,8,5,0.818182,2049394146,Peter Bailis,0,0.44312075102650567,-0.0069656440715481814
+2052987550,Feral Concurrency Control An Empirical Investigation of Modern Application Integrity,2015,51,32,6,0.750873,2049394146,Peter Bailis,0,1.341345420873168,0.5356692881308837
+2037119414,2007 Dissertation Award â€œDeclarative Networkingâ€,2007,0,0,3,0.0,2063640528,Joseph M. Hellerstein,0,-0.8082186883788627,0.9642377322381291
+2044490262,Querying at Internet scale,2004,7,5,8,0.0,719828399,Scott Shenker,0,-0.0041099411153885,0.0447066884760059
+2043097023,Blink and its done interactive queries on very large data,2012,8,78,6,0.875,2644412219,Sameer Agarwal,0,0.772696891198326,0.5920194979262733
+2094469165,Scarlett coping with skewed content popularity in mapreduce clusters,2011,25,219,5,0.0,2108780062,Ganesh Ananthanarayanan,0,-0.0041099411153885,0.0447066884760059
+2084640755,Quantifying eventual consistency with PBS,2014,54,31,5,0.818182,2049394146,Peter Bailis,0,0.10459135253891948,0.3457970986680912
+2098618284,Bolt-on causal consistency,2013,43,141,4,0.818182,2049394146,Peter Bailis,0,-0.0041099411153885,0.0447066884760059
+2141192422,Sharing aggregate computation for distributed queries,2007,21,43,4,0.5,2308727354,Ryan Huebsch,0,-0.0041099411153885,0.0447066884760059
+2105521338,Conquering big data with spark and BDAS,2014,0,7,1,1.0,2161479384,Ion Stoica,0,-0.08861491733470268,0.1853768420401302
+2121053357,Probabilistically bounded staleness for practical partial quorums,2012,45,145,5,0.818182,2049394146,Peter Bailis,0,0.10459135253891948,0.3457970986680912
+2139072600,Shark SQL and rich analytics at scale,2013,35,309,6,0.705882,2059277171,Reynold Xin,0,0.10879377088628696,0.23491361982144976
+2136575791,Declarative networking language execution and optimization,2006,36,233,8,0.625265,2143551710,Boon Thau Loo,0,-0.3664747117033061,0.613802644066347
+2107800601,The Architecture of PIER an Internet-Scale Query Processor,2005,74,190,8,0.333333,2308727354,Ryan Huebsch,0,0.0908845357243609,0.31128747720343375
+2144461192,Shark fast data analysis using coarse-grained distributed memory,2012,26,112,7,0.0,2231707933,Cliff Engle,0,0.01322728474842449,-0.09955119435632115
+2153752068,Querying the internet with PIER,2003,32,503,6,0.0,2308727354,Ryan Huebsch,0,1.3270177513086874,0.36021308084939857
+2209943643,Coordination avoidance in database systems,2014,60,103,6,0.818182,2049394146,Peter Bailis,0,-0.0873632243068517,-0.0824034282341078
+2256629785,Scaling spark in the real world performance and usability,2015,11,63,7,0.512486,2039995418,Michael Armbrust,0,0.06635930819191084,0.49152641060504293
+2399459188,Coordination-Avoiding Database Systems,2014,67,10,6,0.818182,2049394146,Peter Bailis,0,2.8495535689538323,0.8830617574423426
+2497521232,Scalable Atomic Visibility with RAMP Transactions,2016,64,8,5,0.612065,2049394146,Peter Bailis,0,1.7563939137763094,0.8420878856392621
+2443893970,SparkR Scaling R Programs with Spark,2016,20,29,10,1.0,2232375382,Shivaram Venkataraman,0,-0.20133665475165913,-0.19110780330684465
+2438261314,iOLAP Managing Uncertainty for Efficient Incremental OLAP,2016,34,14,3,0.75,2157610843,Kai Zeng,0,-0.23110885929603256,0.7682063706058481
+2542459869,Apache Spark a unified engine for big data processing,2016,23,689,14,0.333333,2009645378,Matei Zaharia,0,-0.13167518268572373,1.0829062090043997
+2547063557,Trends and challenges in big data processing,2016,0,6,1,1.0,2161479384,Ion Stoica,0,-0.13167518268572373,1.0829062090043997
+2613361247,ZipG A Memory-efficient Graph Store for Interactive Queries,2017,36,11,5,0.0,2285854387,Anurag Khandelwal,0,-0.0041099411153885,0.0447066884760059
+2605719376,MiniCrypt Reconciling Encryption and Compression for Big Data Stores,2017,21,6,4,0.0,2119408661,Wenting Zheng,0,0.0627340923378288,0.4927259143913409
+2617533627,Independent data processing environments within a big data cluster system,2017,5,0,2,1.0,734473377,Ali Ghodsi,0,0.06635930819191084,0.49152641060504293
+2757665213,Cluster instance management system,2017,26,1,3,1.0,734473377,Ali Ghodsi,0,-0.0041099411153885,0.0447066884760059
+2776052285,System for exploring data in a database,2017,5,0,3,1.0,734473377,Ali Ghodsi,0,-0.5392646366612164,0.07082667600748775
+2771028262,Dynamic client logging and reporting,2017,194,8,3,0.0,281330718,George C. Necula,0,-0.0041099411153885,0.0447066884760059
+2798434712,Structured Streaming A Declarative API for Real-Time Applications in Apache Spark,2018,3,25,8,0.512486,2039995418,Michael Armbrust,0,0.044859856903840555,0.012551371775477651
+2952652959,Shark SQL and Rich Analytics at Scale,2012,0,5,6,0.540541,2059277171,Reynold Xin,0,0.121654275619631,-0.2439784569998011
+2997666247,Harmonia Near-Linear Scalability for Replicated Storage with In-Network Conflict Detection,2019,0,0,6,0.0,2927912594,Hang Zhu,0,-0.0041099411153885,0.0447066884760059

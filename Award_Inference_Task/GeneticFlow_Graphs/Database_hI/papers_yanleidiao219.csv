@@ -1,0 +1,46 @@
+24659197,High-Performance XML Filtering An Overview of YFilter,2003,12,73,1,1.0,2245676595,Yanlei Diao,0,2.6492667101104184,-1.010102692961444
+146287252,SASE Complex Event Processing over Streams (Demo),2007,6,26,4,1.0,303931304,Daniel Gyllstrom,0,0.4169901767344631,-0.03181084648581779
+29556861,Rethinking Data Management for Storage-centric Sensor Networks,2007,47,138,1,1.0,2245676595,Yanlei Diao,0,0.18601297105691045,-0.0008472885667257998
+1503388209,Proceedings of the 5th workshop on Data management for sensor networks,2008,0,0,2,0.0,2159644763,Christian S. Jensen,0,0.31255201073465105,-0.0652648968870233
+1920575537,AIDE An Automated Sample-based Approach for Interactive Data Exploration,2015,23,1,3,0.666667,725955994,Kyriaki Dimitriadou,0,0.7108370886958362,0.33939629977900526
+1625144041,Implementing Memoization in a Streaming XQuery Processor,2004,16,12,1,1.0,2245676595,Yanlei Diao,0,0.7882691193351838,0.03853813174668867
+1973405623,Recognizing patterns in streams with imprecise timestamps,2013,24,6,2,0.8,2129343070,Haopeng Zhang,0,-0.006271251744892255,0.060570804841137305
+1979578660,CLARO modeling and processing uncertain data streams,2012,32,34,3,1.0,2103733490,Thanh T. L. Tran,0,0.36289833681668204,0.16101509300074218
+1978455388,Interactive data exploration based on user relevance feedback,2014,15,0,3,0.666667,725955994,Kyriaki Dimitriadou,0,0.41302312139854663,0.34618463814842165
+2009602724,On complexity and optimization of expensive queries in complex event processing,2014,29,75,2,0.8,2129343070,Haopeng Zhang,0,0.289051905223939,-0.01547955452345993
+2011272419,Supporting Data Uncertainty in Array Databases,2015,44,4,2,0.888889,2158653501,Liping Peng,0,0.15874449213574093,-0.13567606777109306
+2078483122,Explore-By-Example A New Database Service for Interactive Data Exploration,2015,0,0,1,1.0,2245676595,Yanlei Diao,0,0.06635930819191084,0.49152641060504293
+2078961846,Recognizing patterns in streams with imprecise timestamps,2010,21,74,2,0.8,2129343070,Haopeng Zhang,0,-0.0041099411153885,0.0447066884760059
+2100852567,Explore-by-example an automatic query steering framework for interactive data exploration,2014,32,75,3,0.666667,725955994,Kyriaki Dimitriadou,0,0.21828371768000798,0.37862735145089277
+2108783070,Lazy-Adaptive Tree an optimized index structure for flash devices,2009,20,127,4,0.0,2141650307,Devesh Agrawal,0,-0.0041099411153885,0.0447066884760059
+2111853361,FACT a learning based Web query processing system,2000,2,1,2,0.0,2098944881,Songting Chen,0,-2.2876200170490213,-1.703092517486916
+2141700159,PODS a new model and processing algorithms for uncertain data streams,2010,37,50,4,1.0,2103733490,Thanh T. L. Tran,0,-0.13120111649444577,0.10123484311953493
+2111995392,Towards an internet-scale XML dissemination service,2004,37,166,1,1.0,2245676595,Yanlei Diao,0,1.9843301849023314,-0.8556726367219084
+2135611729,Path sharing and predicate evaluation for high-performance XML filtering,2003,41,367,1,1.0,2245676595,Yanlei Diao,0,0.40589161411802194,-0.1898594622633938
+2126880644,Distributed inference and query processing for RFID tracking and monitoring,2011,19,36,3,0.0,2120439325,Zhao Cao,0,0.014532710543751099,0.030944858938630852
+2121142115,A platform for scalable one-pass analytics using MapReduce,2011,23,145,3,1.0,2146434088,Boduo Li,0,-0.0041099411153885,0.0447066884760059
+2127092527,Efficient Data Interpretation and Compression over RFID Streams,2008,26,30,3,0.0,1985385301,R. Cocci,0,-0.0041099411153885,0.0447066884760059
+2124428116,On Supporting Kleene Closure over Event Streams,2008,9,87,3,0.923077,303931304,Daniel Gyllstrom,0,-0.0041099411153885,0.0447066884760059
+2121904574,Capturing Data Uncertainty in High-Volume Stream Processing,2009,62,43,1,1.0,2245676595,Yanlei Diao,0,-0.42845202490949574,0.1450203979855267
+2134113644,SCALLA A Platform for Scalable One-Pass Analytics Using MapReduce,2012,40,21,3,1.0,2146434088,Boduo Li,0,-0.0041099411153885,0.0447066884760059
+2119500933,Conditioning and aggregating uncertain data streams going beyond expectations,2010,20,17,3,1.0,2103733490,Thanh T. L. Tran,0,0.34095518454877516,-0.5518902008524372
+2117242430,Query processing for high-volume XML message brokering,2003,24,140,1,1.0,2245676595,Yanlei Diao,0,2.1990245423949224,-0.8646788498473067
+2140928415,Towards Scalable One-Pass Analytics Using MapReduce,2011,35,14,3,1.0,2231293472,Edward Mazur,0,-0.0041099411153885,0.0447066884760059
+2171177618,YFilter efficient and scalable filtering of XML documents,2002,3,259,1,1.0,2245676595,Yanlei Diao,0,2.1617526958724453,-0.7915785854224731
+2153753043,SASE Complex Event Processing over Streams,2007,9,124,4,1.0,303931304,Daniel Gyllstrom,0,0.09078107667665129,-0.20300270829336706
+2153836901,Efficient pattern matching over event streams,2008,32,318,2,0.0,2974677082,Jagrati Agrawal,0,0.0908845357243609,0.31128747720343375
+2145021682,Massive genomic data processing and deep analysis,2012,12,6,2,0.8,2641424092,Abhishek Roy,0,0.12424660618221864,0.203852812736171
+2166419939,Toward Learning Based Web Query Processing,2000,20,24,1,1.0,2245676595,Yanlei Diao,0,-1.3506825427766902,-0.9188987926550128
+2151530857,Probabilistic Inference over RFID Streams in Mobile Environments,2009,39,109,5,1.0,2103733490,Thanh T. L. Tran,0,0.03565810966282755,0.09825506972366725
+2166604013,High-performance complex event processing over streams,2006,29,709,2,1.0,2151018753,Eugene Wu,0,0.38975669985673633,-0.5627171174726985
+2189285799,Query processing for large-scale xml message brokering,2005,84,49,1,1.0,2245676595,Yanlei Diao,0,2.3485049625640406,-0.9375414068725034
+2197636328,AIDE an automatic user navigation system for interactive data exploration,2015,6,3,1,1.0,2245676595,Yanlei Diao,0,-0.0041099411153885,0.0447066884760059
+2293983046,Supporting scalable analytics with latency constraints,2015,38,18,2,0.741935,2146434088,Boduo Li,0,0.06635930819191084,0.49152641060504293
+2294071733,Optimizing Probabilistic Query Processing on Continuous Uncertain Data,2011,20,19,2,1.0,2158653501,Liping Peng,0,0.014532710543751099,0.030944858938630852
+2294895571,Query Steering for Interactive Data Exploration,2013,11,49,4,0.0,11059210,Ugur Cetintemel,0,0.016997322759668834,0.10102740428338382
+2408045830,Building Highly-Optimized Low-Latency Pipelines for Genomic Data Analysis,2015,37,13,1,1.0,2245676595,Yanlei Diao,0,0.06635930819191084,0.49152641060504293
+2613297071,Massively Parallel Processing of Whole Genome Sequence Data An In-Depth Performance Study,2017,29,7,2,0.8,2641424092,Abhishek Roy,0,0.16961816653767703,0.31221718520020947
+2950855758,SASE Complex Event Processing over Streams,2006,9,13,4,1.0,303931304,Daniel Gyllstrom,0,0.09078107667665129,-0.20300270829336706
+2971285141,UDAO A Next-Generation Unified Data Analytics Optimizer,2019,0,0,5,0.0,2970018271,Khaled Zaouk,0,0.06635930819191084,0.49152641060504293
+2753781016,Dagger Digging for Interesting Aggregates in RDF Graphs,2017,4,1,1,1.0,2245676595,Yanlei Diao,0,-0.39040501381267817,0.0678282925157182
+2895159315,Optimization for active learning-based interactive database exploration,2018,0,1,6,0.0,2895242835,Enhui Huang,0,0.18601297105691045,-0.0008472885667257998

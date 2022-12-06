@@ -1,0 +1,58 @@
+74024549,Making DB2Products Self-Managing Strategies and Experiences,2006,14,12,3,0.0,240506892,Sam Lightstone,0,-0.0041099411153885,0.0447066884760059
+30636452,Online Query Processing,2001,55,12,1,1.0,2118460571,Peter J. Haas,0,0.0908845357243609,0.31128747720343375
+964279055,QUERY FEEDBACK-BASED CONFIGURATION OF DATABASE STATISTICS,2006,4,6,2,0.304133,1963964406,Volker Markl,0,2.6743266187700288,0.6886064846962098
+1523529535,EFFICIENT DISCOVERY OF KEYS IN A DATABASE,2006,11,14,3,1.0,180453028,John Sismanis,0,1.9652773795784126,0.7047040327462456
+1551463489,08421 Working Group Report of the Probabilistic Databases Benchmarking,2009,0,0,2,0.0,2131931065,Christoph Koch,0,1.9339273801983707,0.2038777268954908
+1535035109,CORDS automatic generation of correlation statistics in DB2,2004,1,13,3,0.0,1982738670,Ihab F. Ilyas,0,0.7091925579491484,0.0961205803614717
+1571912949,Method system and program for prioritizing maintenance of database tables,2008,11,14,6,0.0,240506892,Sam Lightstone,0,0.32066835392501103,-0.2818999174788965
+1517546976,Integrating a maximum-entropy cardinality estimator into DB2 UDB,2006,2,5,2,1.0,2086802575,Marcel Kutsch,0,0.8140596460152509,0.20479544869174804
+1493098199,Consistently estimating the selectivity of conjuncts of predicates,2005,31,51,5,0.398921,1963964406,Volker Markl,0,0.014532710543751099,0.030944858938630852
+1485084946,Groupwise analytics via adaptive MapReduce,2015,23,1,4,0.0,2158653501,Liping Peng,0,-0.46893397788284524,0.07728939382804885
+1574566141,System and method for updating database statistics according to query feedback,2004,27,43,3,0.398921,1963964406,Volker Markl,0,0.014532710543751099,0.030944858938630852
+1503954191,Dynamic interaction graphs with probabilistic edge decay,2015,49,17,5,0.0,2115459999,Wenlei Xie,0,-0.0041099411153885,0.0447066884760059
+1596568456,Statistical learning techniques for costing XML queries,2005,22,64,2,0.0,3017915367,Ning Zhang,0,0.8724549821850542,0.005087425416747074
+1606001448,Method for discovering undeclared and fuzzy rules in databases,2007,22,29,1,1.0,2118460571,Peter J. Haas,0,0.5325669973310596,0.09709227568458595
+1578918886,System method and apparatus for scan-sharing for business intelligence queries in an in-memory database,2009,11,15,4,0.0,1494782392,Frederick R. Reiss,0,-0.13986826231036678,-0.3488155859930167
+1910721179,FAST a new sampling-based algorithm for discovering association rules,2002,0,3,2,0.0,2310214881,Bin Chen,0,0.9408492071308692,0.912959594064505
+1786192348,Techniques for online exploration of large object-relational datasets,1999,26,14,1,1.0,2118460571,Peter J. Haas,0,0.0908845357243609,0.31128747720343375
+1980971633,MAXENT consistent cardinality estimation in action,2006,2,4,4,0.304133,1963964406,Volker Markl,0,0.8140596460152509,0.20479544869174804
+1992583823,Online query processing a tutorial,2001,0,11,2,0.0,2063640528,Joseph M. Hellerstein,0,0.0908845357243609,0.31128747720343375
+1993332882,A system for watermarking relational databases,2003,2,27,2,0.0,2138427228,Rakesh Agrawal,0,2.474425162064631,0.6035098394840134
+2006180057,2007 Test-of-time Award â€œOnline Aggregationâ€,2007,0,1,2,0.0,2063640528,Joseph M. Hellerstein,0,-0.0041099411153885,0.0447066884760059
+1992363839,On synopses for distinct-value estimation under multiset operations,2007,30,138,2,0.0,2273214336,Kevin Scott Beyer,0,-0.0041099411153885,0.0447066884760059
+2028226582,Eagle-eyed elephant split-oriented indexing in Hadoop,2013,29,32,4,0.0,2034638176,Mohamed Y. Eltabakh,0,1.280998861166585,1.2724092752974203
+2021641175,E = MC 3 managing uncertain enterprise data in a cluster-computing environment,2009,27,17,2,0.0,293843641,Vuk Ercegovac,0,0.16540389557962842,0.7392025671974257
+2030528599,Automated statistics collection in action,2005,2,3,1,1.0,2118460571,Peter J. Haas,0,-0.0041099411153885,0.0447066884760059
+2020147322,Ripple joins for online aggregation,1999,22,339,1,1.0,2118460571,Peter J. Haas,0,1.3891120489014417,-0.26215482316608546
+2013373704,Ricardo integrating R and Hadoop,2010,18,152,5,0.0,2097994246,Sudipto Das,0,0.6735566392060468,0.43241430704234063
+2041912938,A bi-level Bernoulli scheme for database sampling,2004,11,60,1,1.0,2118460571,Peter J. Haas,0,0.04096502533685727,0.014095257650737034
+2039690308,Watermarking relational data framework algorithms and analysis,2003,14,188,2,0.0,2138427228,Rakesh Agrawal,0,0.3863693530461826,-0.0643875851050283
+2055532588,Special issue on uncertain and probabilistic databases,2009,0,10,1,1.0,2118460571,Peter J. Haas,0,2.096882759295451,0.29773157277935636
+2102489964,CORDS automatic discovery of correlations and soft functional dependencies,2004,21,248,3,0.0,1982738670,Ihab F. Ilyas,0,0.8849488502274716,0.02837874106067673
+2099655235,Simulation of database-valued markov chains using SimSQL,2013,37,49,5,0.0,2131577716,Zhuhua Cai,0,-0.0041099411153885,0.0447066884760059
+2103216163,Main-memory scan sharing for multi-core CPUs,2008,22,78,4,0.0,1919621074,Lin Qiao,0,-0.0041099411153885,0.0447066884760059
+2086128349,The monte carlo database system Stochastic analysis close to the data,2011,58,29,6,0.833333,1983018918,Ravi Jampani,0,0.767115830214016,0.09587481455532984
+2132808937,A scalable hash ripple join algorithm,2002,15,79,3,0.0,2104365585,Gang Luo,0,0.43739842239757626,0.009947045888208002
+2119050385,A dip in the reservoir maintaining sample synopses of evolving datasets,2006,26,39,3,0.4,344318172,Rainer Gemulla,0,0.615500811129321,0.22161174295928718
+2142930296,MCDB-R risk analysis in the database,2010,20,19,5,0.0,2034121792,Subi Arumugam,0,-0.0041099411153885,0.0447066884760059
+2107418220,Maintaining bounded-size sample synopses of evolving datasets,2008,42,31,3,0.4,344318172,Rainer Gemulla,0,0.6512595090610264,0.4114744623824175
+2137516889,Sampling-based selectivity estimation for joins using augmented frequent value statistics,1995,9,48,1,1.0,2118460571,Peter J. Haas,0,1.644135085518676,-0.023118604792163173
+2120074607,Techniques for Warehousing of Sample Data,2006,16,43,2,0.0,2121359515,Paul Brown,0,-0.02657300950165198,-0.3377756202071836
+2131775419,DATABASE MEETS SIMULATION TOOLS AND TECHNIQUES,2009,8,3,2,0.0,281056960,Chris Jermaine,0,1.6556115185912244,0.28856393430959976
+2147232895,The New Jersey Data Reduction Report,1997,0,242,4,0.0,2144418927,Daniel BarbarÃ¡,0,-0.0041099411153885,0.0447066884760059
+2171248253,Non-uniformity issues and workarounds in bounded-size sampling,2013,19,2,2,0.33574,344318172,Rainer Gemulla,0,0.9603015824900942,0.6086201788729984
+2150779766,ISOMER Consistent Histogram Construction Using Query Feedback,2006,18,83,2,0.0,2274204266,Utkarsh Srivastava,0,-0.0041099411153885,0.0447066884760059
+2144810465,MCDB a monte carlo approach to managing uncertain data,2008,37,245,5,0.833333,1983018918,Ravi Jampani,0,1.210147800307588,0.09083472804158528
+2168846860,GORDIAN efficient and scalable discovery of composite keys,2006,32,88,3,0.402849,212794494,Yannis Sismanis,0,0.35258358177089916,0.020444942100780086
+2171903035,Improved histograms for selectivity estimation of range predicates,1996,26,531,3,0.0,2277382647,Viswanath Poosala,0,-0.0041099411153885,0.0447066884760059
+2160149182,Automated statistics collection in DB2 UDB,2004,14,50,2,0.0,2066833720,Ashraf Aboulnaga,0,0.8316175807534888,0.35249522481300577
+2166285648,Detecting attribute dependencies from query feedback,2007,24,11,1,1.0,2118460571,Peter J. Haas,0,-0.0497626170498374,-1.0511115255950298
+2158510734,Resolution-Aware Query Answering for Business Intelligence,2009,24,15,4,0.402849,212794494,Yannis Sismanis,0,0.4451103079475829,0.7050821914223051
+2167811976,Large-sample and deterministic confidence intervals for online aggregation,1997,9,100,1,1.0,2118460571,Peter J. Haas,0,-0.0041099411153885,0.0447066884760059
+2168172602,Automatic relationship discovery in self-managing database systems,2004,2,9,3,0.0,1982738670,Ihab F. Ilyas,0,1.9192975376230113,0.061856247136532407
+2292438761,Data is Deadâ€¦ Without What-If Models,2011,16,45,2,0.0,2045132998,Patricia G. Selinger,0,0.7902103482422239,0.3621252206240276
+2289885247,SPLIT ELIMINATION IN MAPREDUCE SYSTEMS,2014,30,20,5,1.0,180453028,John Sismanis,0,-0.0041099411153885,0.0447066884760059
+2296677182,Online aggregation,1997,28,873,2,0.0,2063640528,Joseph M. Hellerstein,0,-0.2920409615237598,-0.012631153090564552
+2535724050,Compressed linear algebra for large-scale machine learning,2016,84,42,3,1.0,2164540290,Ahmed Elgohary,0,0.221423897897152,-0.21080654779612165
+2735080104,Foresight recommending visual insights,2017,9,19,2,0.0,2000216820,Ã‡agatay Demiralp,0,-0.37538904668272804,-0.1679513215203286
+2615000921,Scaling Machine Learning via Compressed Linear Algebra,2017,19,3,3,1.0,2164540290,Ahmed Elgohary,0,0.221423897897152,-0.21080654779612165

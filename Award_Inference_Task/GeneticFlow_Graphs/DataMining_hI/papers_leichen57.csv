@@ -1,0 +1,303 @@
+18090245,Using multi-scale histograms to answer pattern existence and shape match queries,2005,0,17,1,1.0,2318776917,Lei Chen,0,0.003708468606338,0.082832279151172
+140843294,Subscription Privacy Protection in Topic-Based Pub/Sub,2013,23,2,2,0.9375,2108468406,Weixiong Rao,0,0.003708468606338,0.082832279151172
+73913042,Data management challenges and opportunities in cloud computing,2012,0,1,3,0.0,2161168953,Kyuseok Shim,0,-0.8272185421452084,0.10999648253056517
+91766825,TOMOHA TOpic model-based HAshtag recommendation on twitter,2014,4,60,2,1.0,2099086137,Jieying She,0,-0.17536238923574604,0.4144853997593385
+125898969,A Multi-Level Index Structure for Video Databases,2002,25,3,1,1.0,2318776917,Lei Chen,0,0.32226296145352923,0.374919224386917
+6979975,Proceedings of the First International Workshop on Keyword Search on Structured Data,2009,0,1,2,0.0,360895095,M. Tamer Ã–zsu,0,-0.7148290976782908,0.0988791260701024
+113257341,On the Marriage of Edit Distance and Lp Norms,2004,0,39,1,1.0,2318776917,Lei Chen,0,0.003708468606338,0.082832279151172
+30174891,Modeling Video Data for Content Based Queries Extending the DISIMA Image Data Model,2003,27,13,1,1.0,2318776917,Lei Chen,0,0.6960715663546266,-0.2902854384202042
+757727815,Fast Similarity Search of Multi-Dimensional Time Series via Segment Rotation,2015,25,6,4,0.0,2160243967,Xudong Gong,0,-0.050268126268825104,0.07293970526949294
+344363268,Tracking frequent items over distributed probabilistic data,2016,47,16,3,0.689229,2114386387,Yongxin Tong,0,0.009172932972441247,-0.0518683930261164
+1568607842,Cleaning uncertain data with a noisy crowd,2015,38,19,2,1.0,2136657330,Chen Jason Zhang,0,0.3624501276702633,0.2948555887356772
+1523574531,A Modular System for the Classification of Time Series Data,2004,20,5,1,1.0,2318776917,Lei Chen,0,0.003708468606338,0.082832279151172
+1550550276,Semi-Edge anonymity graph publication when the protection algorithm is available,2012,22,2,2,1.0,2305706855,Mingxuan Yuan,0,-0.004538237359067869,0.2859525243347512
+1560943167,Data-driven crowdsourcing Management mining and applications,2015,34,6,1,1.0,2318776917,Lei Chen,0,-0.06773405814330274,0.03556629340833313
+1490413238,Dynamic skyline queries in large graphs,2010,19,30,2,1.0,2334791189,Lei Zou,0,0.10888121628319425,0.15276339369217273
+1534573227,Approximate similarity search over multiple stream time series,2007,9,9,2,0.8,2081778406,Xiang Lian,0,-0.3843329609170734,-0.016057624849154767
+1570856340,Efficient Subgraph Search over Large Uncertain Graphs,2011,37,70,4,0.6,2104055677,Ye Yuan,0,0.003708468606338,0.082832279151172
+1510148020,Efficiently answering probability threshold-based shortest path queries over uncertain graphs,2010,24,43,2,0.6,2104055677,Ye Yuan,0,0.15011497953684425,0.13908440388466345
+1484537074,In-network Outlier Cleaning for Data Collection in Sensor Networks,2006,21,51,2,1.0,2117966797,Yongzhen Zhuang,0,0.003708468606338,0.082832279151172
+1510851260,A graph-based RDF triple store,2015,8,2,4,0.0,2167582790,Xuchuan Shen,0,1.30809021219928,-2.2153249841898295
+1485141878,Node protection in weighted social networks,2011,16,12,2,0.957447,2305706855,Mingxuan Yuan,0,1.2350652037173413,0.39061007574644036
+1521628290,Top-K Correlation Sub-graph Search in Graph Databases,2009,23,2,2,1.0,2334791189,Lei Zou,0,0.003708468606338,0.082832279151172
+1586832667,Towards efficient join processing over large RDF graph using mapreduce,2012,17,7,2,1.0,2102579599,Xiaofei Zhang,0,-0.8863962014295828,0.17622656217889832
+1876081586,Query processing over uncertain and probabilistic databases,2012,0,0,1,1.0,2318776917,Lei Chen,0,-0.6065963793276763,0.47693142274637984
+1605636819,Answering constrained k-NN queries in unstructured P2P systems,2005,18,0,4,0.0,2643561327,Bin Wang,0,0.003708468606338,0.082832279151172
+1587988690,Conflict-aware event-participant arrangement,2015,22,39,3,0.777778,2099086137,Jieying She,0,-0.05330893474919055,-1.200707721844805
+1908699674,Subgraph search over massive disk resident graphs,2011,18,6,3,1.0,2951450540,Peng Peng,0,0.7647345494918176,0.8032770917980444
+1597504361,On the marriage of Lp-norms and edit distance,2004,33,508,1,1.0,2318776917,Lei Chen,0,-0.4945237232212416,-0.7997899862705136
+1580047887,Removing uncertainties from overlay network,2011,22,1,4,0.6,2104055677,Ye Yuan,0,-0.14255436113902986,0.20337351355405242
+1643569732,Probabilistic nearest neighbor queries on uncertain moving object trajectories,2013,32,38,6,0.0,2040021649,Johannes Niedermayer,0,0.7018752323639351,0.0968439833497368
+1686568283,Energy-Efficient Evaluation of Multiple Skyline Queries over a Wireless Sensor Network,2009,15,6,3,0.666667,2092902373,Junchang Xin,0,0.04058852858681295,-0.03346779459016044
+1914199066,Bonding vertex sets over distributed graph a betweenness aware approach,2015,48,1,3,1.0,2102579599,Xiaofei Zhang,0,0.003708468606338,0.082832279151172
+1817956424,Processing SPARQL Queries Over Linked Data-A Distributed Graph-based Approach,2014,36,6,4,1.0,2951450540,Peng Peng,0,1.0787267193020758,-1.936145877539139
+1861421402,Continuously maintaining sliding window skylines in a sensor network,2007,26,42,3,0.666667,2092902373,Junchang Xin,0,0.04058852858681295,-0.03346779459016044
+1593010265,Detecting leaders from correlated time series,2010,21,23,5,0.857143,2793117238,Di Wu,0,0.003708468606338,0.082832279151172
+1658081615,Probabilistic time consistent queries over moving objects,2011,27,3,2,0.507815,2081778406,Xiang Lian,0,-0.1029618939806145,0.040434369851773004
+1584327673,Summarization graph indexing beyond frequent structure-based approach,2008,20,16,2,1.0,2334791189,Lei Zou,0,0.003708468606338,0.082832279151172
+1594296362,Probabilistic Inverse Ranking Queries over Uncertain Data,2009,30,25,2,0.725949,2081778406,Xiang Lian,0,-0.7469489002516932,0.34208943159739164
+1973236871,Dynamic skyline queries in metric spaces,2008,29,57,1,1.0,2318776917,Lei Chen,0,0.044868684033316175,0.32472163408733096
+1982177147,gStore answering SPARQL queries via subgraph matching,2011,27,175,3,0.966102,2334791189,Lei Zou,0,1.0208512139525192,-1.9335938663477485
+1971806600,Efficient processing of probabilistic group subspace skyline queries in uncertain databases,2013,44,17,2,0.418661,2081778406,Xiang Lian,0,0.05128429924962779,0.031187942316631852
+1980649419,Probabilistic ranked queries in uncertain databases,2008,43,86,2,0.8,2081778406,Xiang Lian,0,-0.8762549109490547,0.4007261349915511
+1980683432,Personalized privacy protection in social networks,2010,18,89,2,0.957447,2305706855,Mingxuan Yuan,0,-0.08219684055276005,0.4370923699984199
+1982486932,Probabilistic correlation-based similarity measure of unstructured records,2007,8,4,2,1.0,2169520429,Shaoxu Song,0,-0.11313066838576115,0.21281519663820958
+1977577158,Optimal proactive caching in peer-to-peer network analysis and application,2007,25,29,2,1.0,2108468406,Weixiong Rao,0,0.003708468606338,0.082832279151172
+1982856917,TCS efficient topic discovery over crowd-oriented service data,2014,31,32,3,0.928571,2114386387,Yongxin Tong,0,0.03816893401501701,0.48402954781790025
+1972578597,Bitlist new full-text index for low space cost and efficient keyword search,2013,21,4,2,0.9375,2108468406,Weixiong Rao,0,0.6642631993651279,0.8704818474401211
+1983009321,Similarity Match Over High Speed Time-Series Streams,2007,25,30,2,0.8,2081778406,Xiang Lian,0,-0.1071931497347323,0.3242721482837629
+1977848225,Monochromatic and bichromatic reverse skyline search over uncertain databases,2008,31,186,2,0.8,2081778406,Xiang Lian,0,0.12589951588032547,0.04280031314594467
+1986789518,Query Processing over Uncertain Databases,2012,79,3,1,1.0,2318776917,Lei Chen,0,-0.5899618221443015,0.3354074939742494
+1979990434,Utility-Aware Social Event-Participant Planning,2015,37,61,3,0.777778,2099086137,Jieying She,0,0.003708468606338,0.082832279151172
+1974757950,C-DMr Crowd-powered Decision Maker for real world Knapsack Problems,2014,9,0,3,0.0,2103006124,Leihao Xia,0,0.003708468606338,0.082832279151172
+1994290541,Probabilistic top-k dominating queries in uncertain databases,2013,50,30,2,0.418661,2081778406,Xiang Lian,0,-0.003091047868623256,0.07915990954336848
+2006539007,CrowdMatcher crowd-assisted schema matching,2014,11,13,3,1.0,2136657330,Chen Jason Zhang,0,0.6465029131039599,0.5899421750284249
+1992611613,A distributed full-text top-k document dissemination system in distributed hash tables,2011,33,7,2,1.0,2108468406,Weixiong Rao,0,0.003708468606338,0.082832279151172
+1997919781,Shooting top-k stars in uncertain databases,2011,46,13,2,0.507815,2081778406,Xiang Lian,0,0.046047441386095754,0.0673791044462568
+2005044405,Efficient join processing on uncertain data streams,2009,35,12,2,0.725949,2081778406,Xiang Lian,0,-0.3510475627476395,0.14311120043014203
+2008659157,Evaluating continuous top-k queries over document streams,2014,26,12,2,0.79005,2108468406,Weixiong Rao,0,0.3808136635069537,0.2567014559337618
+1999945180,Indexing dataspaces with partitions,2013,40,6,2,0.861321,2169520429,Shaoxu Song,0,0.6060010039323583,0.15106835367266436
+1991249762,Sliding-window top-k queries on uncertain streams,2008,36,128,3,0.0,2127683674,Cheqing Jin,0,-0.3696443923757426,0.3057032228243983
+2001743633,Efficient query answering in probabilistic RDF graphs,2011,33,36,2,0.507815,2081778406,Xiang Lian,0,1.3286420040738824,-2.1149344292465675
+1991584419,Efficient subsequence matching over large video databases,2012,48,12,3,0.855915,2754526981,Xiangmin Zhou,0,0.003708468606338,0.082832279151172
+2002195527,Towards interactive indexing for large Chinese calligraphic character databases,2006,3,3,4,0.857143,2238339724,Yi Zhuang,0,-0.13275296294680305,-0.071629888206014
+2009291263,Guest Editorial Web-based services and information systems,2012,0,0,1,1.0,2318776917,Lei Chen,0,-0.08020117325447798,-0.36498781424370547
+1993527211,MaC A Probabilistic Framework for Query Answering with Machine-Crowd Collaboration,2014,19,5,2,1.0,2136657330,Chen Jason Zhang,0,0.3613240333130207,0.25983272527062723
+1993562282,Graph publication when the protection algorithm is available,2013,23,0,2,1.0,2305706855,Mingxuan Yuan,0,-0.004538237359067869,0.2859525243347512
+1995374568,WiseMarket a new paradigm for managing wisdom of online social users,2013,22,27,3,1.0,2136041333,Caleb Chen Cao,0,0.23447002456144056,0.35297506154309793
+1993685897,CrowdCleaner Data cleaning for multi-version data on the web via crowdsourcing,2014,11,40,5,0.928571,2114386387,Yongxin Tong,0,0.35161594432805743,0.01267670608949173
+2005943181,Continuous monitoring of skylines over uncertain data streams,2012,32,48,3,0.0,2119214317,Xiaofeng Ding,0,0.08719591895109162,0.12409174574324844
+1991966965,CIM categorical influence maximization,2011,19,4,2,0.444444,2151890734,Siyuan Liu,0,0.07665329227011321,-0.252841768478917
+1992112216,Pattern Match Query in a Large Uncertain Graph,2014,39,5,3,0.362993,2104055677,Ye Yuan,0,0.15011497953684425,0.13908440388466345
+2006241077,Towards effective and efficient mining of arbitrary shaped clusters,2014,23,14,4,0.0,2230010131,Hao Huang,0,-1.0116966585701723,3.741675604293864
+1995988147,Nonthreshold-Based Event Detection for 3D Environment Monitoring in Sensor Networks,2008,25,82,3,0.0,2111754996,Mo Li,0,0.14221968050893263,-0.19734073179687653
+2022501110,Evaluating probability threshold k-nearest-neighbor queries over uncertain data,2009,33,69,2,0.0,2138267588,Reynold Cheng,0,-0.35254103119262364,0.41923005214742093
+2017508768,Parameter-Free Determination of Distance Thresholds for Metric Distance Constraints,2012,30,9,2,0.95874,2169520429,Shaoxu Song,0,-0.0041616406999859246,0.0250946652570193
+2015828157,Discovering areas of interest with geo-tagged images and check-ins,2012,20,35,3,0.0,2118917275,Jiajun Liu,0,-0.21934185016841626,0.6056873083074126
+2010701456,Online Video Recommendation in Sharing Community,2015,39,23,2,0.720085,2754526981,Xiangmin Zhou,0,0.003708468606338,0.082832279151172
+2014211872,Anomaly Detection from Incomplete Data,2014,42,12,2,0.315789,2151890734,Siyuan Liu,0,0.17468072448933442,0.3216818852156774
+2026553931,Efficient Probabilistic Supergraph Search Over Large Uncertain Graphs,2014,28,7,4,0.928571,2114386387,Yongxin Tong,0,0.6642631993651279,0.8704818474401211
+2010780779,Discovering Threshold-based Frequent Closed Itemsets over Probabilistic Data,2012,36,61,2,0.939394,2114386387,Yongxin Tong,0,-0.2692647020107374,0.7054750121135384
+2011078029,Efficient multi-way theta-join processing using MapReduce,2012,28,75,2,1.0,2102579599,Xiaofei Zhang,0,-0.049353160759023795,0.2086543161939848
+2011130689,Top-k dominating queries in uncertain databases,2009,34,64,2,0.725949,2081778406,Xiang Lian,0,0.046047441386095754,0.0673791044462568
+2014871820,Answering pattern match queries in large graph databases via graph embedding,2012,36,22,2,0.908268,2334791189,Lei Zou,0,0.003708468606338,0.082832279151172
+2011545750,Efficient Similarity Search in Nonmetric Spaces with Local Constant Embedding,2008,36,19,1,1.0,2318776917,Lei Chen,0,-0.1936666726520228,-0.4438736678629031
+2013412026,Toward Efficient Filter Privacy-Aware Content-Based Pub/Sub Systems,2013,32,20,2,0.9375,2108468406,Weixiong Rao,0,0.003708468606338,0.082832279151172
+2038326601,Cost-efficient repair in inconsistent probabilistic databases,2011,21,2,3,0.507815,2081778406,Xiang Lian,0,-1.3339481476100585,0.31221865929397097
+2043690486,Top-k subgraph matching query in a large graph,2007,26,36,2,1.0,2334791189,Lei Zou,0,0.003708468606338,0.082832279151172
+2052482648,The World in a Nutshell Concise Range Queries,2011,32,6,4,0.13623,2115752352,Ke Yi,0,-0.5887564204948698,0.7507781382521804
+2041984268,Reverse skyline search in uncertain databases,2010,53,50,2,0.624726,2081778406,Xiang Lian,0,-0.04990809229648334,-0.02732885944097873
+2040240412,CrowdLink An Error-Tolerant Model for Linking Complex Records,2015,13,1,3,0.0,2802467275,Chen Zhang,0,0.42715073484257426,1.0308301608212633
+2047328790,CrowdPlanner A crowd-based route recommendation system,2014,24,45,5,0.0,2143371847,Han Su,0,0.020252819132480365,-0.1499005226367578
+2036698797,GeoTruCrowd trustworthy query answering with spatial crowdsourcing,2013,26,103,3,0.0,1870077263,Leyla Kazemi,0,0.23447002456144056,0.35297506154309793
+2049138048,"Subspace Similarity Search under { m L}_p-Norm^^<http://www.w3.org/2001/XMLSchema#string> .\
+",2012,44,2,2,0.467908,2081778406,Xiang Lian,0,-0.09730963169812451,0.08815520102249716
+2036959307,EAGRE Towards scalable I/O efficient SPARQL query evaluation on the cloud,2013,36,48,2,1.0,2102579599,Xiaofei Zhang,0,0.8663254960625479,-1.5233600158324623
+2045928315,Efficient processing of probabilistic reverse nearest neighbor queries over uncertain data,2009,44,70,2,0.725949,2081778406,Xiang Lian,0,0.029412884202720903,0.2089030332183872
+2044220375,Efficient set-correlation operator inside databases,2010,44,2,2,0.964286,2169520429,Shaoxu Song,0,-0.6536221634320509,0.26912128613720043
+2044345952,Optimizing Multi-Top-k Queries over Uncertain Data Streams,2013,28,13,2,0.0,2671072779,Tao Chen,0,-0.1071931497347323,0.3242721482837629
+2037368549,Managing uncertain spatio-temporal data,2011,18,0,5,0.0,1977319283,Thomas Bernecker,0,-1.0089270711550367,0.49160908619827504
+2034018567,A generalized adaptive ensemble generation and aggregation approach for multiple classifier systems,2009,40,28,1,1.0,2318776917,Lei Chen,0,1.5287385583351873,0.160023397603281
+2041361017,Mining frequent itemsets over uncertain databases,2012,31,141,2,0.939394,2114386387,Yongxin Tong,0,0.15011497953684425,0.13908440388466345
+2037984112,Progressive Batch Medical Image Retrieval Processing in Mobile Wireless Networks,2015,31,2,4,0.512195,2238339724,Yi Zhuang,0,0.003708468606338,0.082832279151172
+2043354831,Efficient subgraph similarity search on large probabilistic graph databases,2012,44,59,3,0.421053,2104055677,Ye Yuan,0,0.013350436079247666,-0.12219628858013987
+2066223862,Graph similarity search on large uncertain graph databases,2015,63,20,3,0.277325,2104055677,Ye Yuan,0,0.003708468606338,0.082832279151172
+2059269285,Trip Planner Over Probabilistic Time-Dependent Road Networks,2014,28,9,2,0.390703,2081778406,Xiang Lian,0,-0.06651550448631063,0.10328097522120193
+2064714439,Automatically weighting tags in XML collection,2010,5,7,3,0.0,2118642400,Dexi Liu,0,-1.4601988326680027,-0.28458287882747224
+2075259377,Interval reverse nearest neighbor queries on uncertain data with Markov correlations,2013,28,14,3,0.0,2106701036,Chuanfei Xu,0,0.3266207509546451,0.223531358785161
+2073568854,Speed up semantic search in p2p networks,2008,2,3,3,0.0,2582625827,Qiang Wang,0,0.46071023222373103,-0.9706772502052169
+2066598390,Probabilistic Web Data Management,2013,3,0,1,1.0,2318776917,Lei Chen,0,-0.9358888138967567,-0.5630207272116462
+2064926388,Set similarity join on probabilistic data,2010,23,20,2,0.624726,2081778406,Xiang Lian,0,-1.0938925688548136,0.42556046856977864
+2068447118,Probabilistic inverse ranking queries in uncertain databases,2011,63,15,2,0.507815,2081778406,Xiang Lian,0,-0.003091047868623256,0.07915990954336848
+2072171339,Efficient multi-keyword search over p2p web,2008,36,22,4,0.666667,2156309545,Hanhua Chen,0,0.003708468606338,0.082832279151172
+2068719613,Causality and responsibility probabilistic queries revisited in uncertain databases,2013,31,6,2,0.418661,2081778406,Xiang Lian,0,-0.4296798790500709,0.3168826878770621
+2074006950,Continuous Answering Holistic Queries over Sensor Networks,2016,40,0,2,0.0,2102566352,Kebin Liu,0,0.003708468606338,0.082832279151172
+2072474075,UFIMT an uncertain frequent itemset mining toolbox,2012,9,17,2,0.939394,2114386387,Yongxin Tong,0,0.15011497953684425,0.13908440388466345
+2058817992,A generic framework for handling uncertain data with local correlations,2010,31,19,2,0.624726,2081778406,Xiang Lian,0,0.15011497953684425,0.13908440388466345
+2069358736,LINQ A Framework for Location-Aware Indexing and Query Processing,2015,24,9,2,1.0,2408373034,Xiping Liu,0,0.02221047051638625,0.13368234688424596
+2058880662,Answering subgraph queries over massive disk resident graphs,2016,43,8,3,1.0,2951450540,Peng Peng,0,0.7647345494918176,0.8032770917980444
+2057169561,Efficient simrank-based similarity join over large graphs,2013,33,43,4,0.342857,2110660074,Weiguo Zheng,0,-0.5735438181183281,-0.11949594503178093
+2067743085,Protecting Sensitive Labels in Social Network Data Anonymization,2013,34,73,2,1.0,2305706855,Mingxuan Yuan,0,0.003708468606338,0.082832279151172
+2074805078,Effective XML content and structure retrieval with relevance ranking,2009,23,8,3,1.0,2408373034,Xiping Liu,0,-1.307549822413538,-0.024814143011335436
+2064363399,Energy-Efficient Reverse Skyline Query Processing over Wireless Sensor Networks,2012,21,40,3,0.0,2166985210,Guoren Wang,0,0.04058852858681295,-0.03346779459016044
+2066157452,Monitoring near duplicates over video streams,2010,21,22,2,0.931234,2754526981,Xiangmin Zhou,0,-0.44747438392085376,0.17360348854422913
+2078446440,Efficient Keyword Search on Uncertain Graph Data,2013,33,32,3,0.405879,2104055677,Ye Yuan,0,0.20598928446852213,-0.10962650444028188
+2080372015,Localized routing trees for query processing in sensor networks,2005,0,6,2,0.0,2617368099,Jie Lian,0,0.003708468606338,0.082832279151172
+2091012239,Finding the least influenced set in uncertain databases,2011,43,3,2,0.507815,2081778406,Xiang Lian,0,-0.0395804122397981,0.0068802457672825015
+2082273595,A General Framework for Publishing Privacy Protected and Utility Preserved Graph,2012,14,2,2,1.0,2305706855,Mingxuan Yuan,0,-0.08219684055276005,0.4370923699984199
+2078797675,MULTI-VERSION MUSIC SEARCH USING ACOUSTIC FEATURE UNION AND EXACT SOFT MAPPING,2009,25,8,6,0.0,2101881628,Yi Yu,0,-0.13275296294680305,-0.071629888206014
+2084335476,Efficient anomaly monitoring over moving object trajectory streams,2009,34,112,2,1.0,2107421971,Yingyi Bu,0,-0.15215450003961875,0.048902824997443174
+2089549346,Privacy preserving graph publication in a distributed environment,2015,30,3,2,0.866667,2305706855,Mingxuan Yuan,0,-0.08219684055276005,0.4370923699984199
+2093221301,How to Conduct Distributed IncompletePattern Matching,2014,29,4,3,0.315789,2151890734,Siyuan Liu,0,0.003708468606338,0.082832279151172
+2079223746,Efficient Determination of Distance Thresholds for Differential Dependencies,2014,39,15,2,0.724247,2169520429,Shaoxu Song,0,-0.7756568575722071,0.22668811371878025
+2100986433,Editorial Efficient discovery of similarity constraints for matching dependencies,2013,48,25,1,1.0,2318776917,Lei Chen,0,-0.8778487652588862,0.11841326334854212
+2104001127,Efficient Similarity Search over Future Stream Time Series,2008,51,31,2,0.8,2081778406,Xiang Lian,0,-0.05328870858110382,0.11671582504895942
+2101988652,Answering Frequent Probabilistic Inference Queries in Databases,2011,34,2,2,0.964286,2169520429,Shaoxu Song,0,-1.1314982860971006,0.37516275444943326
+2081904236,KLEAP an efficient cleaning method to remove cross-reads in RFID streams,2011,4,12,3,0.0,2101619003,Guoqiong Liao,0,-0.1071931497347323,0.3242721482837629
+2111561237,Efficient Processing of Metric Skyline Queries,2009,41,35,1,1.0,2318776917,Lei Chen,0,0.08020188988724114,0.22031331291271375
+2111607365,Distance-join pattern match query in a large graph database,2009,28,174,2,1.0,2334791189,Lei Zou,0,-0.1029618939806145,0.040434369851773004
+2129553531,Similarity Join Processing on Uncertain Data Streams,2011,57,24,2,0.507815,2081778406,Xiang Lian,0,0.15011497953684425,0.13908440388466345
+2111971349,Dominant Graph An Efficient Indexing Structure to Answer Top-K Queries,2008,25,43,2,1.0,2334791189,Lei Zou,0,-0.1445250191104469,-0.02619723650197025
+2117894485,Leadership discovery when data correlatively evolve,2011,37,12,5,0.857143,2793117238,Di Wu,0,0.003708468606338,0.082832279151172
+2106010611,Multiscale Representations for Fast Pattern Matching in Stream Time Series,2009,38,22,2,0.725949,2081778406,Xiang Lian,0,-0.2759814111264423,0.3143347712592715
+2138646997,Efficient Similarity Join over Multiple Stream Time Series,2009,37,6,2,0.725949,2081778406,Xiang Lian,0,-0.11981955309269962,0.13266435515788078
+2126777999,Similarity Search in Arbitrary Subspaces Under L p -Norm,2008,31,20,2,0.8,2081778406,Xiang Lian,0,-0.05573432826388183,-0.060608404751491096
+2123885506,Reducing uncertainty of schema matching via crowdsourcing,2013,27,67,2,1.0,2136657330,Chen Jason Zhang,0,0.6465029131039599,0.5899421750284249
+2121041488,gStore a graph-based SPARQL query engine,2014,35,105,3,0.669732,2334791189,Lei Zou,0,1.9279693237120186,-3.217722752688034
+2129872268,Structure tensor series-based matching for near-duplicate video retrieval,2011,13,4,2,0.931234,2754526981,Xiangmin Zhou,0,-0.3473793728160243,0.24861357896709396
+2121117737,Whom to ask jury selection for decision making tasks on micro-blog services,2012,29,115,4,1.0,2136041333,Caleb Chen Cao,0,0.23447002456144056,0.35297506154309793
+2127080177,Keyword Search Over Probabilistic RDF Graphs,2015,48,9,2,0.368945,2081778406,Xiang Lian,0,1.1934595510385024,-2.1797912352688367
+2121246530,Maximal Subspace Coregulated Gene Clustering,2008,29,34,4,0.0,2764761011,Yuhai Zhao,0,-0.21934185016841626,0.6056873083074126
+2112560981,General Cost Models for Evaluating Dimensionality Reduction in High-Dimensional Spaces,2009,29,8,2,0.725949,2081778406,Xiang Lian,0,-0.11746852682970499,0.11923486462292372
+2121512846,Privacy preserving serial data publishing by role composition,2008,23,62,4,1.0,2107421971,Yingyi Bu,0,-0.08219684055276005,0.4370923699984199
+2127765405,Spotting Significant Changing Subgraphs in Evolving Graphs,2008,9,24,5,0.197622,2639834283,Zheng Liu,0,0.003708468606338,0.082832279151172
+2113326328,Optimizing Bloom Filter Settings in Peer-to-Peer Multikeyword Searching,2012,30,23,3,0.666667,2156309545,Hanhua Chen,0,-0.1981953488175233,-1.721539909410068
+2133976977,Similarity Search on Uncertain Spatio-temporal Data,2013,9,4,6,0.0,2040021649,Johannes Niedermayer,0,-0.46066563834244334,0.6114604732478173
+2119367950,Comparable dependencies over heterogeneous data,2013,56,14,2,0.861321,2169520429,Shaoxu Song,0,-1.1367471831459222,0.036357484023751
+2128248866,k-automorphism a general framework for privacy preserving network publication,2009,25,313,2,1.0,2334791189,Lei Zou,0,-0.22024388940702913,0.2748690036719837
+2140215983,Consistent query answers in inconsistent probabilistic databases,2010,42,23,2,0.624726,2081778406,Xiang Lian,0,-1.3358296773540108,0.6001848489738631
+2113613324,Local summarization and multi-level LSH for retrieving multi-variant audio tracks,2009,20,16,4,0.0,2101881628,Yi Yu,0,0.003708468606338,0.082832279151172
+2110676972,Event detection over twitter social media streams,2014,38,147,2,0.784732,2754526981,Xiangmin Zhou,0,0.09869918664672195,-0.18633352365711692
+2131295945,A General Cost Model for Dimensionality Reduction in High Dimensional Spaces,2007,30,4,2,0.8,2081778406,Xiang Lian,0,-0.22858667241994954,0.05242809182394457
+2113786286,Reliable diversity-based spatial crowdsourcing by moving workers,2015,15,77,4,0.954545,2442891548,Peng Cheng,0,0.23447002456144056,0.35297506154309793
+2111043320,On data dependencies in dataspaces,2011,36,15,2,0.964286,2169520429,Shaoxu Song,0,-0.8015319497720155,0.0775034762362194
+2114054421,Continuous Subgraph Pattern Search over Graph Streams,2009,27,30,2,0.0,2099758093,Changliang Wang,0,0.003708468606338,0.082832279151172
+2108132403,Differential dependencies Reasoning and discovery,2011,55,65,2,0.964286,2169520429,Shaoxu Song,0,-1.2857900558845468,0.5149194805665618
+2114169362,Boosting Mobile Apps under Imbalanced Sensing Data,2015,38,7,5,0.0,2512925905,Xinglin Zhang,0,0.002476548849559168,-0.04032192107985065
+2123009991,A new design of multiple classifier system and its application to the classification of time series data,2007,23,5,1,1.0,2318776917,Lei Chen,0,1.89662841502704,0.33120354467456514
+2134887736,Continuous Subgraph Pattern Search over Certain and Uncertain Graph Streams,2010,46,46,1,1.0,2318776917,Lei Chen,0,0.003708468606338,0.082832279151172
+2165263560,A Weighted Moving Average-based Approach for Cleaning Sensor Data,2007,21,71,2,0.0,2230760970,Yongzhen Zhuangt,0,0.2715187261649746,0.16245986211863256
+2159261254,Similarity joins of text with incomplete information formats,2007,11,2,2,1.0,2169520429,Shaoxu Song,0,-0.1774800390779637,0.14448944494139374
+2144354472,Adaptive Subspace Symbolization for Content-Based Video Detection,2010,42,20,3,0.931234,2754526981,Xiangmin Zhou,0,-0.35159132726879083,0.3499193599586603
+2144391216,Max Regional Aggregate over Sensor Networks,2009,13,4,2,1.0,2117966797,Yongzhen Zhuang,0,0.11672415509507165,0.0338187686908989
+2171419153,Returning Clustered Results for Keyword Search on XML Documents,2011,27,25,3,1.0,2408373034,Xiping Liu,0,-2.7297531466945317,-0.2678789967454399
+2186349203,On concise set of relative candidate keys,2014,19,5,2,0.724247,2169520429,Shaoxu Song,0,-0.8368523316213327,1.5703086844731946
+2183774130,Repairing vertex labels under neighborhood constraints,2014,30,26,4,0.724247,2169520429,Shaoxu Song,0,0.09306936451958565,0.4540149294292737
+2153750692,Pareto-Based Dominant Graph An Efficient Indexing Structure to Answer Top-K Queries,2011,25,23,2,0.966102,2334791189,Lei Zou,0,-0.1426597598710846,0.15328858102070506
+2168820551,Distributed Incomplete Pattern Matching via a Novel Weighted Bloom Filter,2012,26,7,3,0.444444,2151890734,Siyuan Liu,0,0.003708468606338,0.082832279151172
+2171852828,A Concise Representation of Range Queries,2009,13,2,4,0.13623,2115752352,Ke Yi,0,-0.5887564204948698,0.7507781382521804
+2166065574,Efficient Methods on Predictions for Similarity Search over Stream Time Series,2006,37,0,2,0.8,2081778406,Xiang Lian,0,0.11593995898955796,0.43364287454941586
+2157222403,Multi-query Optimization for Distributed Similarity Query Processing,2008,18,11,3,0.857143,2238339724,Yi Zhuang,0,-0.17338345346523706,0.04382516038981036
+2145346822,Discovering matching dependencies,2009,22,31,2,1.0,2169520429,Shaoxu Song,0,-0.8166657978983203,0.07254619059040113
+2160370399,From labor to trader opinion elicitation via online crowds as a market,2014,32,7,2,1.0,2136041333,Caleb Chen Cao,0,0.23447002456144056,0.35297506154309793
+2145499969,Multi-scale histograms for answering queries over time series data,2004,1,11,1,1.0,2318776917,Lei Chen,0,-0.3049247326517621,0.1886461481807304
+2166624324,Pattern Matching over Cloaked Time Series,2008,36,22,2,0.8,2081778406,Xiang Lian,0,0.06484981404280005,0.3381836525740295
+2149254771,Materialization and Decomposition of Dataspaces for Efficient Search,2011,55,8,2,0.964286,2169520429,Shaoxu Song,0,0.3749528187558499,0.01838599500410537
+2146770454,Indexing high-dimensional data in dual distance spaces a symmetrical encoding approach,2008,19,12,4,0.857143,2238339724,Yi Zhuang,0,-0.3253693379476993,1.206003614050106
+2158701000,Continually answering constraint k-NN queries in unstructured P2P systems,2008,38,0,5,0.0,2109336725,Xiaochun Yang,0,0.003708468606338,0.082832279151172
+2188497921,SMC A Practical Schema for Privacy-Preserved Data Sharing over Distributed Data Streams,2015,49,18,3,0.261295,2151890734,Siyuan Liu,0,0.15878441001412297,0.39822528489936737
+2167956717,Probabilistic Group Nearest Neighbor Queries in Uncertain Databases,2008,27,74,2,0.8,2081778406,Xiang Lian,0,-0.1494257182065603,0.11130446437806295
+2168089575,Contour map matching for event detection in sensor networks,2006,25,204,3,0.0,2308619585,Wenwei Xue,0,-0.3291976808020441,-0.13703470885516322
+2159085496,Ranked Query Processing in Uncertain Databases,2010,41,11,2,0.624726,2081778406,Xiang Lian,0,0.30508733662995646,0.11723895349833757
+2227052561,Processing SPARQL queries over distributed RDF graphs,2016,53,56,4,0.75,2130340110,Peng Peng,0,2.0085441952524055,-3.370221997360265
+2210284195,Where to crowd-aided path selection,2014,35,18,3,1.0,2136657330,Chen Jason Zhang,0,0.23447002456144056,0.35297506154309793
+2272113230,Differential privacy in telco big data platform,2015,37,42,5,0.0,2535923449,Xueyang Hu,0,-0.04126553930658595,-0.02165997558223886
+2272252781,Task Assignment on Multi-Skill Oriented Spatial Crowdsourcing,2016,26,68,3,0.954545,2442891548,Peng Cheng,0,0.11618478671451514,0.3340108524050789
+2243633279,CrowdTC Crowdsourced Taxonomy Construction,2015,38,10,3,0.857143,2426029836,Rui Meng,0,0.7525332382143937,0.7877628018141319
+2221663082,Prediction-Based Task Assignment in Spatial Crowdsourcing,2017,20,23,3,1.0,2442891548,Peng Cheng,0,0.23447002456144056,0.35297506154309793
+2239411052,Mining Frequent Itemsets in Correlated Uncertain Databases,2015,36,11,2,0.814425,2114386387,Yongxin Tong,0,-1.1407167835700949,0.5573254425276039
+2240173141,Hear the whole story towards the diversity of opinion in crowdsourcing markets,2015,29,25,2,1.0,2422161195,Ting Wu,0,0.23447002456144056,0.35297506154309793
+2204453953,On uncertain graphs modeling and queries,2015,21,13,2,0.0,2164403858,Arijit Khan,0,0.0544458689002119,-0.059141817612563555
+2269287978,Query Workload-based RDF Graph Fragmentation and Allocation,2015,32,5,2,0.75,2130340110,Peng Peng,0,0.49278269141011705,-1.2518746803907408
+2270455647,gMission a general spatial crowdsourcing platform,2014,6,74,6,0.909091,2433190879,Zhao Chen,0,0.4633585022310037,0.3226394062261312
+2234590865,Efficient pattern matching on big uncertain graphs,2016,73,5,3,0.256404,2104055677,Ye Yuan,0,0.15011497953684425,0.13908440388466345
+2304524576,A probabilistic ranking framework for web-based relational data imputation,2016,32,2,5,0.0,2527897803,Zhaoqiang Chen,0,-0.033178876906659646,-0.353230154619605
+2282784388,Enriching data imputation with extensive similarity neighbors,2015,18,16,3,0.631515,2169520429,Shaoxu Song,0,0.40979580999688503,-0.2414918552637245
+2340432473,A Survey of General-Purpose Crowdsourcing Techniques,2016,96,39,2,0.0,2509427566,Anand Inasu Chittilappilly,0,0.23447002456144056,0.35297506154309793
+2359496781,Conflict-Aware Event-Participant Arrangement and Its Variant for Online Setting,2016,30,56,3,0.806452,2099086137,Jieying She,0,-0.05330893474919055,-1.200707721844805
+2362851600,Quality-Aware Subgraph Matching Over Inconsistent Probabilistic Graph Databases,2016,31,3,2,0.340405,2081778406,Xiang Lian,0,1.2280038611412276,-2.1688107984110307
+2343900247,RS k NN k NN Search on Road Networks by Incorporating Social Influence,2016,24,13,5,0.340405,2081778406,Xiang Lian,0,-0.13275296294680305,-0.071629888206014
+2409467540,Semantic-Aware Location Privacy Preservation on Road Networks,2016,30,6,4,0.0,2564241871,Yanhui Li,0,0.003708468606338,0.082832279151172
+2408825337,Task Assignment on Spatial Crowdsourcing (Technical Report),2016,22,3,3,0.954545,2442891548,Peng Cheng,0,0.29800301246083666,0.1174776931585415
+2424681074,Mutual benefit aware task assignment in a bipartite labor market,2016,30,8,2,0.0,2485577502,Liu Zheng,0,0.23447002456144056,0.35297506154309793
+2430704425,Online mobile Micro-Task Allocation in spatial crowdsourcing,2016,35,121,5,0.689229,2114386387,Yongxin Tong,0,0.23447002456144056,0.35297506154309793
+2473504043,Efficient Set-Correlation Operator Inside Databases,2016,47,1,2,0.518092,2169520429,Shaoxu Song,0,-0.01657107088421793,0.035389748403282274
+2473515811,Top-k Team Recommendation in Spatial Crowdsourcing,2016,18,22,5,1.0,2528877805,Dawei Gao,0,0.23447002456144056,0.35297506154309793
+2500666914,Adjustable Time-Window-Based Event Detection on Twitter,2016,19,2,5,0.0,2485343094,Qinyi Wang,0,1.580958428375455,1.4251351376693222
+2556083537,Probabilistic inverse ranking queries over uncertain data,2009,0,0,2,0.725949,2081778406,Xiang Lian,0,-1.1407167835700949,0.5573254425276039
+2525757790,A Survey on Accessing Dataspaces,2016,32,0,3,1.0,2535677458,Yihan Wang,0,0.35156906119058245,-0.16630706497979275
+2525830997,Online minimum matching in real-time spatial data experiments and analysis,2016,29,82,4,0.689229,2114386387,Yongxin Tong,0,0.12595265820037338,0.43793680917641964
+2576210995,Keyword Search over Distributed Graphs with Compressed Signature,2017,22,14,3,0.247723,2104055677,Ye Yuan,0,0.003708468606338,0.082832279151172
+2543835491,FROG A Fast and Reliable Crowdsourcing Framework (Technical Report),2016,41,0,4,0.954545,2442891548,Peng Cheng,0,0.38969834594439784,0.3374739738887223
+2577737453,Knowledge Base Semantic Integration Using Crowdsourcing,2017,41,7,2,1.0,2426029836,Rui Meng,0,1.380672577279436,-1.7008703571345338
+2584484117,TrendTracker Modelling the Motion of Trends in Space and Time,2016,17,2,6,0.0,2191395951,Klaus Arthur Schmid,0,0.09869918664672195,-0.18633352365711692
+2585302264,Object identification with Pay-As-You-Go crowdsourcing,2016,24,0,3,1.0,2422161195,Ting Wu,0,0.23447002456144056,0.35297506154309793
+2535231809,Tuning Crowdsourced Human Computation,2017,30,2,3,0.0,2719484820,Chen Cao,0,0.7525332382143937,0.7877628018141319
+2586614409,CrowdFusion A Crowdsourced Approach on Data Fusion Refinement,2017,5,3,2,0.0,2687367945,Yunfan Chen,0,0.13865637127534194,0.3238678651050309
+2633320030,Fast Parallel Path Concatenation for Graph Extraction,2017,27,6,3,0.823529,2122925794,Yingxia Shao,0,-0.2549982742955442,0.2215840602359772
+2613582265,Feedback-Aware Social Event-Participant Arrangement,2017,56,12,3,0.806452,2099086137,Jieying She,0,0.003708468606338,0.082832279151172
+2613597768,Utility-Aware Ridesharing on Road Networks,2017,26,19,3,1.0,2442891548,Peng Cheng,0,0.003708468606338,0.082832279151172
+2602918972,Top-k Team Recommendation and Its Variants in Spatial Crowdsourcing,2017,33,24,5,1.0,2528877805,Dawei Gao,0,0.23447002456144056,0.35297506154309793
+2614479671,Complex Event-Participant Planning and Its Incremental Variant,2017,23,16,3,0.0,2128669861,Yurong Cheng,0,0.003708468606338,0.082832279151172
+2666247594,An Efficient Probabilistic Approach for Graph Similarity Search,2017,16,1,4,1.0,2697328933,Zijian Li,0,0.0142878421214733,-0.1789215405855477
+2614598347,Trichromatic Online Matching in Real-Time Spatial Crowdsourcing,2017,32,33,6,0.0,2470356112,Tianshu Song,0,0.23447002456144056,0.35297506154309793
+2614919369,Subjective Knowledge Acquisition and Enrichment Powered By Crowdsourcing,2017,27,3,3,1.0,2426029836,Rui Meng,0,0.14432737501376547,0.19338976429152582
+2735739238,Maximizing Acceptance in Rejection-Aware Spatial Crowdsourcing,2017,23,14,2,1.0,2735312892,Libin Zheng,0,0.23447002456144056,0.35297506154309793
+2616246244,Maximizing Acceptance in Rejection-aware Spatial Crowdsourcing,2017,3,0,2,1.0,2735312892,Libin Zheng,0,0.23447002456144056,0.35297506154309793
+2616903276,Graph repairing under neighborhood constraints,2017,38,7,5,0.46825,2169520429,Shaoxu Song,0,0.29015923337666427,0.39538852069896846
+2732517469,Discovering Conditional Matching Rules,2017,60,5,3,1.0,2535677458,Yihan Wang,0,-0.19936233300040324,0.26917079892110707
+2753741836,Flexible online task assignment in real-time spatial data,2017,26,46,5,0.582324,2114386387,Yongxin Tong,0,0.12595265820037338,0.43793680917641964
+2775705004,Worker recommendation for crowdsourced Q&amp;A services a triple-factor aware approach,2017,34,2,1,1.0,2318776917,Lei Chen,0,0.003708468606338,0.082832279151172
+2751927106,Spatial crowdsourcing challenges techniques and applications,2017,39,34,2,0.582324,2114386387,Yongxin Tong,0,0.23904563230576328,0.4996638207626211
+2743316574,The Simpler The Better A Unified Approach to Predicting Original Taxi Demands based on Large-Scale Online Platforms,2017,27,82,4,0.582324,2114386387,Yongxin Tong,0,0.003708468606338,0.082832279151172
+2740100068,Efficient SimRank-Based Similarity Join,2017,49,6,3,0.342857,2110660074,Weiguo Zheng,0,-0.5735438181183281,-0.11949594503178093
+2748514664,Time-Aware Boolean Spatial Keyword Queries,2017,38,9,4,0.0,2125776506,Gang Chen,0,-0.1013222579007157,0.4337245762547287
+2794598252,Efficient SimRank Tracking in Dynamic Graphs,2018,0,5,3,0.882353,2794658441,Yue Wang,0,-1.0297761307801219,0.36189615086957344
+2794638415,Multi-Campaign Oriented Spatial Crowdsourcing,2018,8,0,2,1.0,2735312892,Libin Zheng,0,0.23447002456144056,0.35297506154309793
+2798728990,Dynamic Pricing in Spatial Crowdsourcing A Matching-Based Approach,2018,39,18,4,0.519862,2114386387,Yongxin Tong,0,0.23447002456144056,0.35297506154309793
+2794765870,Latency-Oriented Task Completion via Spatial Crowdsourcing,2018,19,20,3,1.0,2794847352,Yuxiang Zeng,0,0.23447002456144056,0.35297506154309793
+2794767117,Realtime Traffic Speed Estimation with Sparse Crowdsourced Data,2018,31,1,2,0.197622,2639834283,Zheng Liu,0,0.34549590189659246,0.18777047657542248
+2794894279,Knowledge Base Enhancement via Data Facts and Crowdsourcing,2018,0,1,2,0.0,2795258781,Linnan Jiang,0,0.315830325262215,0.33779969596371756
+2799154098,Subjective Knowledge Base Construction Powered By Crowdsourcing and Knowledge Base,2018,37,4,3,1.0,2641311359,Hao Xin,0,0.539276469407703,-0.6090756307396336
+2795176596,Rule-Based Graph Repairing Semantic and Efficient Repairing Methods,2018,39,5,2,0.0,2794712923,Yurong Cheng,0,-0.3655621846767865,0.3538547570519948
+2799611686,Incremental and Adaptive Topic Detection over Social Media,2018,13,1,2,0.0,2800531560,Konstantinos Giannakopoulos,0,-0.17536238923574604,0.4144853997593385
+2806657501,Adaptive Distributed RDF Graph Fragmentation and Allocation based on Query Workload,2019,26,5,3,0.357143,2130340110,Peng Peng,0,0.49278269141011705,-1.2518746803907408
+2806755384,Quality-Assured Synchronized Task Assignment in Crowdsourcing,2018,27,1,3,0.0,2807699894,Jiayang Tu,0,0.23447002456144056,0.35297506154309793
+2792429417,Reasoning About Attribute Value Equivalence in Relational Data,2018,56,2,4,0.0,2762414846,Fengfeng Fan,0,-0.13414768571403524,1.0454835829008016
+2792939464,Domain-aware multi-truth discovery from conflicting sources,2018,13,6,2,0.0,2789971152,Xueling Lin,0,0.003708468606338,0.082832279151172
+2783329104,On Efficiently Detecting Overlapping Communities over Distributed Dynamic Graphs,2018,20,2,3,0.695652,2665511432,Xun Jian,0,0.003708468606338,0.082832279151172
+2804658790,Task Assignment on Spatial Crowdsourcing [Experiments and Analyses] (Technical Report),2016,26,0,1,1.0,2318776917,Lei Chen,0,0.29800301246083666,0.1174776931585415
+2888948932,An experimental evaluation of task assignment in spatial crowdsourcing,2018,23,7,3,1.0,2442891548,Peng Cheng,0,0.29800301246083666,0.1174776931585415
+2889125237,A unified approach to route planning for shared mobility,2018,36,19,4,0.519862,2114386387,Yongxin Tong,0,0.003708468606338,0.082832279151172
+2898490255,Real-time context-aware social media recommendation,2019,37,5,3,0.487946,2754526981,Xiangmin Zhou,0,-0.25023896793326905,0.13037718530513653
+2898534001,Fast Parallel Path Concatenation for Graph Extraction,2018,4,0,3,0.823529,2122925794,Yingxia Shao,0,0.003708468606338,0.082832279151172
+2898545117,Time-Aware Boolean Spatial Keyword Queries (Extended Abstract),2018,3,0,4,0.0,2125776506,Gang Chen,0,-0.1013222579007157,0.4337245762547287
+2905267911,NSCaching Simple and Efficient Negative Sampling for Knowledge Graph Embedding,2019,35,7,4,1.0,2903967962,Yongqi Zhang,0,0.003708468606338,0.082832279151172
+2916542109,Online Adaptive Approximate Stream Processing With Customized Error Control,2019,31,0,5,0.0,2681217068,Xiaohui Wei,0,-0.3761737938847157,0.1006449385444034
+2891726376,Accelerating pairwise SimRank estimation over static and dynamic graphs,2019,37,3,2,0.882353,2794658441,Yue Wang,0,-1.0297761307801219,0.36189615086957344
+2896577326,A Comparative Study of Consistent Snapshot Algorithms for Main-Memory Database Systems,2018,27,1,5,0.857143,2794943222,Liang Li,0,0.12492345808765674,0.23414093372237493
+2891767593,Reducing Uncertainty of Schema Matching via Crowdsourcing with Accuracy Rates,2018,37,1,2,0.911111,2136657330,Chen Jason Zhang,0,0.6465029131039599,0.5899421750284249
+2896898453,DDSL Efficient Subgraph Listing on Distributed and Dynamic Graphs,2018,0,0,4,0.695652,2665511432,Xun Jian,0,0.003708468606338,0.082832279151172
+2901288224,Enriching Data Imputation under Similarity Rule Constraints,2020,24,6,4,0.387466,2169520429,Shaoxu Song,0,0.40979580999688503,-0.2414918552637245
+2949529345,A Data-Driven Approach for Multi-level Packing Problems in Manufacturing Industry,2019,19,0,1,1.0,2318776917,Lei Chen,0,0.6642631993651279,0.8704818474401211
+2951549320,CrowdFusion A Crowdsourced Approach on Data Fusion Refinement,2017,36,0,2,0.0,2687367945,Yunfan Chen,0,0.23447002456144056,0.35297506154309793
+2949688431,Mining Frequent Itemsets over Uncertain Databases,2012,29,0,2,0.939394,2114386387,Yongxin Tong,0,0.15011497953684425,0.13908440388466345
+2950002429,Probabilistic Maximum Range-Sum Queries on Spatial Database (technical report),2019,0,1,1,1.0,2318776917,Lei Chen,0,-0.8119081610759554,0.7753277337940678
+2950014839,Minimizing Maximum Delay of Task Assignment in Spatial Crowdsourcing,2019,33,3,4,0.909091,2433190879,Zhao Chen,0,0.23447002456144056,0.35297506154309793
+2952232066,Canonicalization of Open Knowledge Bases with Side Information from the Source Text,2019,40,1,2,0.0,2953119403,Xueling Lin,0,0.14490898960154983,0.06342898039681621
+2950352605,NSCaching Simple and Efficient Negative Sampling for Knowledge Graph Embedding,2018,46,2,4,1.0,2903967962,Yongqi Zhang,0,0.003708468606338,0.082832279151172
+2962755600,Query Workload-based RDF Graph Fragmentation and Allocation,2016,31,7,2,0.75,2130340110,Peng Peng,0,0.7478277247071058,-1.63470102833667
+2950407481,Whom to Ask Jury Selection for Decision Making Tasks on Micro-blog Services,2012,24,6,4,1.0,2136041333,Caleb Chen Cao,0,0.23447002456144056,0.35297506154309793
+2952474210,Social-Aware Optimal Electric Vehicle Charger Deployment on Road Network,2019,23,0,3,0.0,2950387320,Qiyu Liu,0,0.003708468606338,0.082832279151172
+2962995265,An Efficient Probabilistic Approach for Graph Similarity Search,2018,25,3,4,1.0,2697328933,Zijian Li,0,0.0142878421214733,-0.1789215405855477
+2950629078,Cohesive Group Nearest Neighbor Queries Over Road-Social Networks,2019,29,1,4,0.0,2750309541,Fangda Guo,0,0.003708468606338,0.082832279151172
+2950647374,Discovering Matching Dependencies,2009,27,0,2,1.0,2169520429,Shaoxu Song,0,-0.5831253649586903,0.32707373112483284
+2963163921,On Efficiently Detecting Overlapping Communities over Distributed Dynamic Graphs,2018,10,0,3,0.695652,2665511432,Xun Jian,0,0.003708468606338,0.082832279151172
+2952813787,Prediction-Based Task Assignment on Spatial Crowdsourcing,2015,20,1,3,0.954545,2442891548,Peng Cheng,0,0.23447002456144056,0.35297506154309793
+2950811110,SLADE A Smart Large-Scale Task Decomposer in Crowdsourcing,2019,3,6,2,0.485554,2114386387,Yongxin Tong,0,0.23447002456144056,0.35297506154309793
+2936749635,LERI Local Exploration for Rare-Category Identification,2020,0,0,6,0.0,2587592628,Hao Huang,0,0.49209932395663614,-0.012406087056697115
+2952940422,Weight-Constrained Route Planning Over Time-Dependent Graphs,2019,28,0,4,0.0,2950448693,Ye Yuan,0,0.003708468606338,0.082832279151172
+2950957243,Probabilistic Nearest Neighbor Queries on Uncertain Moving Object Trajectories,2013,26,1,6,0.0,2040021649,Johannes Niedermayer,0,0.003708468606338,0.082832279151172
+2951038848,Cooperation-Aware Task Assignment in Spatial Crowdsourcing,2019,18,0,2,1.0,2442891548,Peng Cheng,0,0.23447002456144056,0.35297506154309793
+2963604523,Online Social Media Recommendation Over Streams,2019,32,0,4,0.487946,2754526981,Xiangmin Zhou,0,1.4307303111646534,0.31576280430800985
+2953172117,Processing SPARQL Queries Over Distributed RDF Graphs,2014,45,0,4,0.666667,2130340110,Peng Peng,0,0.9501476930606567,-1.9254253069560479
+2949128058,G*-Tree An Efficient Spatial Index on Road Networks,2019,17,0,2,1.0,2697328933,Zijian Li,0,-0.5454619768840632,0.41211953999546713
+2949189491,Procrastination-Aware Scheduling A Bipartite Graph Perspective,2019,12,0,4,1.0,2443113841,Libin Wang,0,0.003708468606338,0.082832279151172
+2964108026,A Comparative Study of Consistent Snapshot Algorithms for Main-Memory Database Systems,2019,0,1,5,0.857143,2794943222,Liang Li,0,0.003708468606338,0.082832279151172
+2986725445,Two-sided Online Micro-Task Assignment in Spatial Crowdsourcing,2020,0,1,2,0.431911,2114386387,Yongxin Tong,0,0.23447002456144056,0.35297506154309793
+2988710580,Probabilistic Maximum Range-Sum Queries on Spatial Database,2019,28,0,3,0.0,2950387320,Qiyu Liu,0,-0.8119081610759554,0.7753277337940678
+3003997347,Revisiting Graph based Collaborative Filtering A Linear Residual Graph Convolutional Network Approach,2020,34,3,1,1.0,2318776917,Lei Chen,0,0.8776680742443249,0.45208381503500666
+3007662311,Cohesive Group Nearest Neighbor Queries on Road-Social Networks under Multi-Criteria,2020,0,0,3,0.168619,2104055677,Ye Yuan,0,0.003708468606338,0.082832279151172
+3026963709,Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation,2020,47,0,3,0.0,2181678313,Le Wu,0,0.003708468606338,0.082832279151172
+1481914250,Privacy Preserving Graph Publication in a Distributed Environment,2013,13,1,3,1.0,2305706855,Mingxuan Yuan,0,-0.08219684055276005,0.4370923699984199
+2800069258,Effective Solution for Labeling Candidates with a Proper Ration for Efficient Crowdsourcing,2018,25,0,5,0.909091,2433190879,Zhao Chen,0,0.23447002456144056,0.35297506154309793

@@ -1,0 +1,41 @@
+NLP_ARC_hI
+BC --lr 0.001 --nhid 256 --dropout_ratio 0.2 --num_layers 2 --average True 10 cv Precision:0.481 Recall:0.743 F1_best:0.578 F1_best(std): 0.021 ROC:0.783 ROC(std): 0.013 PRC:0.471 ACC:0.750 for Class Fellow
+CA --lr 0.001 --nhid 256 --dropout_ratio 0.2 --num_layers 4 --average True 10 cv Precision:0.394 Recall:0.641 F1_best:0.473 F1_best(std): 0.034 ROC:0.666 ROC(std): 0.034 PRC:0.396 ACC:0.665 for Class Fellow
+CC --lr 0.001 --nhid 256 --dropout_ratio 0.2 --num_layers 3 --average True 10 cv Precision:0.455 Recall:0.659 F1_best:0.531 F1_best(std): 0.030 ROC:0.735 ROC(std): 0.025 PRC:0.427 ACC:0.730 for Class Fellow
+GNN-use-full-graph --PATH ../GNN_NLP_data/data_origin --lr 0.003 --nhid 256 --dropout_ratio 0.2 --conv_name ARMAConv --num_layers 2 --average(False)  10*10-fold-cv Precision:0.776 Recall:0.748 F1_best:0.761 F1_best(std): 0.018 ROC:0.888 ROC(std): 0.008 PRC:0.772 ACC:0.883 for Class Fellow
+GNN-use-core-graph --PATH ../GNN_NLP_data/data --lr 0.003 --nhid 256 --dropout_ratio 0.2 --conv_name ARMAConv --num_layers 1 --average(False)  10*10-fold-cv Precision:0.692 Recall:0.756 F1_best:0.720 F1_best(std): 0.018 ROC:0.855 ROC(std): 0.009 PRC:0.680 ACC:0.853 for Class Fellow
+
+Database_hI
+BC --lr 0.001 --nhid 256 --dropout_ratio 0.2 --num_layers 2 --average True 10 cv Precision:0.598 Recall:0.660 F1_best:0.622 F1_best(std): 0.026 ROC:0.809 ROC(std): 0.011 PRC:0.642 ACC:0.797 for Class Fellow
+CA --lr 0.001 --nhid 256 --dropout_ratio 0.1 --num_layers 2 --average True 10 cv Precision:0.503 Recall:0.596 F1_best:0.501 F1_best(std): 0.035 ROC:0.690 ROC(std): 0.029 PRC:0.498 ACC:0.693 for Class Fellow
+CC --lr 0.001 --nhid 128 --dropout_ratio 0.2 --num_layers 4 --average True 10 cv Precision:0.471 Recall:0.688 F1_best:0.550 F1_best(std): 0.021 ROC:0.772 ROC(std): 0.019 PRC:0.577 ACC:0.720 for Class Fellow
+GNN-use-full-graph --PATH ./data/data_origin --lr 0.001 --nhid 128 --dropout_ratio 0.3 --conv_name ARMAConv --num_layers 2 --average(True)  10*10-fold-cv Precision:0.600 Recall:0.680 F1_best:0.634 F1_best(std): 0.018 ROC:0.830 ROC(std): 0.004 PRC:0.676 ACC:0.803 for Class Fellow
+GNN-use-core-graph --PATH ./data/data --lr 0.0005 --nhid 256 --dropout_ratio 0.0 --conv_name ARMAConv --num_layers 1 --average(True)  10*10-fold-cv Precision:0.654 Recall:0.634 F1_best:0.638 F1_best(std): 0.016 ROC:0.806 ROC(std): 0.006 PRC:0.643 ACC:0.819 for Class Fellow
+
+HCI_hI
+BC --lr 0.001 --nhid 256 --dropout_ratio 0.1 --num_layers 2 --average True 10 cv Precision:0.539 Recall:0.528 F1_best:0.527 F1_best(std): 0.022 ROC:0.700 ROC(std): 0.014 PRC:0.515 ACC:0.763 for Class Fellow
+CA --lr 0.001 --nhid 256 --dropout_ratio 0.5 --num_layers 2 --average True 10 cv Precision:0.366 Recall:0.672 F1_best:0.466 F1_best(std): 0.029 ROC:0.633 ROC(std): 0.037 PRC:0.380 ACC:0.611 for Class Fellow
+GNN-use-full-graph --PATH ./data/data_origin --lr 0.003 --nhid 256 --dropout_ratio 0.4 --conv_name ARMAConv --num_layers 1 --average(True)  10*10-fold-cv Precision:0.635 Recall:0.666 F1_best:0.644 F1_best(std): 0.018 ROC:0.833 ROC(std): 0.006 PRC:0.658 ACC:0.816 for Class Fellow
+GNN-use-core-graph --PATH ./data/data --lr 0.001 --nhid 256 --dropout_ratio 0.1 --conv_name ARMAConv --num_layers 2 --average(True)  10*10-fold-cv Precision:0.558 Recall:0.720 F1_best:0.625 F1_best(std): 0.016 ROC:0.833 ROC(std): 0.014 PRC:0.642 ACC:0.784 for Class Fellow
+
+ComputerSecurity_hI
+BC --lr 0.001 --nhid 256 --dropout_ratio 0.5 --num_layers 3 --average True 10 cv Precision:0.485 Recall:0.704 F1_best:0.572 F1_best(std): 0.018 ROC:0.742 ROC(std): 0.019 PRC:0.541 ACC:0.737 for Class Fellow
+CA --lr 0.001 --nhid 256 --dropout_ratio 0.5 --num_layers 2 --average True 10 cv Precision:0.446 Recall:0.680 F1_best:0.528 F1_best(std): 0.021 ROC:0.722 ROC(std): 0.012 PRC:0.448 ACC:0.696 for Class Fellow
+CC --lr 0.001 --nhid 256 --dropout_ratio 0.5 --num_layers 3 --average True 10 cv Precision:0.536 Recall:0.662 F1_best:0.576 F1_best(std): 0.017 ROC:0.762 ROC(std): 0.012 PRC:0.582 ACC:0.756 for Class Fellow
+GNN-use-full-graph --PATH ./data/data_origin --lr 0.002 --nhid 256 --dropout_ratio 0.5 --conv_name ARMAConv --num_layers 1 --average(True)  10*10-fold-cv Precision:0.537 Recall:0.720 F1_best:0.606 F1_best(std): 0.020 ROC:0.799 ROC(std): 0.010 PRC:0.617 ACC:0.766 for Class Fellow
+GNN-use-core-graph --PATH ./data/data --lr 0.003 --nhid 128 --dropout_ratio 0.3 --conv_name ARMAConv --num_layers 1 --average(True)  10*10-fold-cv Precision:0.478 Recall:0.658 F1_best:0.545 F1_best(std): 0.021 ROC:0.737 ROC(std): 0.013 PRC:0.512 ACC:0.726 for Class Fellow
+
+DataMining_hI
+BC --lr 0.001 --nhid 256 --dropout_ratio 0.1 --num_layers 2 --average True 10 cv Precision:0.565 Recall:0.596 F1_best:0.569 F1_best(std): 0.019 ROC:0.771 ROC(std): 0.014 PRC:0.594 ACC:0.775 for Class Fellow
+CA --lr 0.001 --nhid 256 --dropout_ratio 0.1 --num_layers 3 --average True 10 cv Precision:0.447 Recall:0.538 F1_best:0.476 F1_best(std): 0.020 ROC:0.643 ROC(std): 0.019 PRC:0.433 ACC:0.700 for Class Fellow
+CC --lr 0.001 --nhid 256 --dropout_ratio 0.1 --num_layers 3 --average True 10 cv Precision:0.494 Recall:0.668 F1_best:0.563 F1_best(std): 0.022 ROC:0.750 ROC(std): 0.020 PRC:0.562 ACC:0.741 for Class Fellow
+GNN-use-full-graph --PATH ./data/data_origin --lr 0.004 --nhid 256 --dropout_ratio 0.1 --conv_name ARMAConv --num_layers 2 --average(True)  10*10-fold-cv Precision:0.528 Recall:0.850 F1_best:0.650 F1_best(std): 0.016 ROC:0.832 ROC(std): 0.014 PRC:0.661 ACC:0.772 for Class Fellow
+GNN-use-core-graph --PATH ./data/data --lr 0.003 --nhid 256 --dropout_ratio 0.3 --conv_name ARMAConv --num_layers 1 --average(True)  10*10-fold-cv Precision:0.500 Recall:0.846 F1_best:0.627 F1_best(std): 0.014 ROC:0.823 ROC(std): 0.013 PRC:0.612 ACC:0.748 for Class Fellow
+
+
+SoftwareEngineering_hI
+BC --lr 0.001 --nhid 256 --dropout_ratio 0.1 --num_layers 2 --average True 10 cv Precision:0.539 Recall:0.672 F1_best:0.595 F1_best(std): 0.019 ROC:0.786 ROC(std): 0.008 PRC:0.564 ACC:0.771 for Class Fellow
+CA --lr 0.001 --nhid 256 --dropout_ratio 0.1 --num_layers 3 --average True 10 cv Precision:0.437 Recall:0.690 F1_best:0.523 F1_best(std): 0.028 ROC:0.705 ROC(std): 0.024 PRC:0.459 ACC:0.683 for Class Fellow
+CC --lr 0.001 --nhid 256 --dropout_ratio 0.1 --num_layers 4 --average True 10 cv Precision:0.515 Recall:0.742 F1_best:0.607 F1_best(std): 0.023 ROC:0.794 ROC(std): 0.016 PRC:0.589 ACC:0.759 for Class Fellow
+GNN-use-full-graph --PATH ./data/data_origin --lr 0.001 --nhid 256 --dropout_ratio 0.5 --conv_name ARMAConv --num_layers 1 --average(True)  10*10-fold-cv Precision:0.596 Recall:0.758 F1_best:0.665 F1_best(std): 0.012 ROC:0.843 ROC(std): 0.008 PRC:0.644 ACC:0.808 for Class Fellow
+GNN-use-core-graph --PATH ./data/data --lr 0.001 --nhid 256 --dropout_ratio 0.1 --conv_name ARMAConv --num_layers 1 --average(True)  10*10-fold-cv Precision:0.557 Recall:0.842 F1_best:0.668 F1_best(std): 0.009 ROC:0.849 ROC(std): 0.009 PRC:0.602 ACC:0.791 for Class Fellow

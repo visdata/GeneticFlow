@@ -1,0 +1,41 @@
+77528907,A Framework for Efficient Storage Security in RDBMS,2004,9,66,1,1.0,2309647949,Balakrishna R. Iyer,0,-0.1464660471791529,-0.034974315460191
+115647704,Automated Storage Management with QoS Guarantee in Large-scale Virtualized Storage Systems,2006,11,6,2,1.0,1919621074,Lin Qiao,0,0.16782124802273696,0.2536234597393226
+48505893,Secure Computation on Outsourced Data A 10-year Retrospective,2014,28,2,1,1.0,2309647949,Balakrishna R. Iyer,0,0.044859856903840555,0.012551371775477651
+169022302,A Survey on Online Reorganization in IBM Products and Research,1996,0,24,2,0.6,2342932155,Gary H. Sockut,0,-0.0041099411153885,0.0447066884760059
+971301212,System and method for implementing multi-temporal database functionality,2011,7,3,4,0.0,1241982450,Ullas Nambiar,0,0.615478679186037,0.030236803728205752
+1487797305,FACILITATING FIELD PROGRAMMABLE GATE ARRAY ACCELERATIONS OF DATABASE FUNCTIONS,2012,12,7,7,0.375,1608827034,Bharat Sukhwani,0,-0.0041099411153885,0.0447066884760059
+1487801850,An Interval Classifier for Database Mining Applications,1992,15,269,4,0.0,2138427228,Rakesh Agrawal,0,-0.25609130579317646,0.2785941556746898
+1496787654,Encrypted Database Integrity in Database Service Provider Model,2002,5,13,2,0.0,2916323327,Hakan HacigÃ¼mÃ¼s,0,2.097441563974301,0.47184787687633023
+1550387043,TECHNIQUE TO INTRODUCE ADVANCED FUNCTIONAL BEHAVIORS IN A DATABASE MANAGEMENT SYSTEM WITHOUT INTRODUCING NEW DATA TYPES,2010,17,1,3,0.0,2203190902,Curt L. Cotner,0,0.4192448945143012,0.19854667521060454
+1523762614,Encoded-vector indices for decision support and warehousing,1996,7,181,4,0.714286,1994140748,Atul Chadha,0,0.5691570835132429,0.2629129669010507
+1515228303,Method and system for utilizing a database as a service,2001,49,6,3,0.888889,2077807406,Vahit Hakan Hacigumus,0,2.469421970066305,0.7212870056640169
+1572852795,Implementing storage management functions using a data store system,2005,45,5,2,0.0,1982966240,Aamer Sachedina,0,0.17231447440515257,0.19238666189542794
+1484440854,Method and system for providing access to a database,2007,25,14,2,1.0,2077807406,Vahit Hakan Hacigumus,0,2.0800525562252052,0.5941443015884023
+1486522249,Ensuring the Integrity of Encrypted Databases in the Database-as-a-Service Model,2004,13,45,1,1.0,2309647949,Balakrishna R. Iyer,0,0.06713647820516866,-0.07040270735922437
+1839160380,Selection of a set of optimal n-grams for indexing string data in a DBMS system under space constraints introduced by the system,2008,28,23,2,1.0,2077807406,Vahit Hakan Hacigumus,0,0.060773786547042706,-0.3026259949548151
+1905091680,STORAGEDB enhancing the storage sub-system with DBMS functionalities,2005,6,0,2,1.0,1919621074,Lin Qiao,0,2.479877061554202,0.6765155134557197
+1802876994,Interface to support state-dependent web applications accessing a relational database,1996,9,76,5,0.714286,1994140748,Atul Chadha,0,1.7665132263411485,0.6262283317007602
+1606103980,Design and Analysis of Integrated Concurrency-Coherence Controls,1987,10,13,2,0.0,2152742674,Daniel M. Dias,0,2.2300141751367484,2.7605691686542637
+1607140588,Efficient Execution of Aggregation Queries over Encrypted Relational Databases,2004,6,175,1,1.0,2309647949,Balakrishna R. Iyer,0,0.5325669973310596,0.09709227568458595
+1760240308,Method to off-load host-based DBMS predicate evaluation to a disk controller,1992,9,20,1,1.0,2309647949,Balakrishna R. Iyer,0,-0.25142422156114436,0.21929531271583175
+1600355623,Data Compression Support in Databases,1994,25,92,1,1.0,2309647949,Balakrishna R. Iyer,0,-0.0041099411153885,0.0447066884760059
+1951422561,Efficient mining for association rules with relational database systems,1999,20,28,3,0.0,1986942229,Karthick Rajamani,0,0.7472039823898657,0.1570545754435267
+2038523137,Online reorganization of databases,2009,312,48,2,0.6,2342932155,Gary H. Sockut,0,2.2887486897512432,0.6550841010752442
+2103709927,An efficient hybrid join algorithm a DB2 prototype,1991,8,61,3,0.0,2146753901,Josephine M. Cheng,0,0.6150442146109433,-0.007120393241287103
+2101459470,Dimension reduction for data mining application,1998,15,53,4,0.0,338021644,Hammou Messatfa,0,-0.2931415104910215,0.19958059656119245
+2098730617,Database analytics acceleration using FPGAs,2012,11,58,5,0.375,1608827034,Bharat Sukhwani,0,0.5325669973310596,0.09709227568458595
+2101998198,Methods for in-place online reorganization of a database,1998,35,80,1,1.0,2309647949,Balakrishna R. Iyer,0,1.51569745195651,0.6729711136328381
+2106112436,Test Of Time Award Talk Executing SQL over Encrypted Data in the Database-Service-Provider Model,2012,0,0,3,0.0,2182302550,Hakan Hacigumus,0,0.044859856903840555,0.012551371775477651
+2129711407,A hybrid data sharing-data partitioning architecture for transaction processing,1988,10,11,4,0.0,2125104194,Philip S. Yu,0,0.6842774115802057,0.6280909256571566
+2112425188,Automated Storage Management with QoS Guarantees,2006,12,4,2,1.0,1919621074,Lin Qiao,0,0.1861589719523521,-0.06386784808667194
+2121294425,Querying encrypted data in a relational database system,2008,64,76,2,1.0,2077807406,Vahit Hakan Hacigumus,0,1.204501787921431,0.29860165833699415
+2142379249,SVL storage virtualization engine leveraging DBMS technology,2005,23,7,2,1.0,1919621074,Lin Qiao,0,-0.0041099411153885,0.0447066884760059
+2140965646,PULSATINGSTORE An Analytic Framework for Automated Storage Management,2005,20,6,4,1.0,1919621074,Lin Qiao,0,-0.0041099411153885,0.0447066884760059
+2145309412,Encoding method of members related by multiple concept or group hierarchies and identification of members in a corpus or a database that are descendants of one or more selected concepts or groups from the encoding,1997,11,34,2,0.0,2228853458,Donald J. Haderle,0,-0.0041099411153885,0.0447066884760059
+2211785669,Apparatus system and method for database provisioning,2004,28,839,5,0.0,74107547,Enzo Cialini,0,3.1039337265695317,0.9559966168001388
+2276854249,Managing a temporal key property in a database management system,2011,13,6,2,0.0,2307452696,Robert W. Lyle,0,1.5382169059250157,0.3803328956386055
+2394777452,Computer program product for off-loading host-based DBMS predicate evaluation to a disk controller,1995,9,33,1,1.0,2309647949,Balakrishna R. Iyer,0,-0.25142422156114436,0.21929531271583175
+2441771557,Mapping query operations in database systems to hardware based query accelerators,2016,13,9,6,0.375,1608827034,Bharat Sukhwani,0,0.014532710543751099,0.030944858938630852
+2591226237,Management of storage resource capacity,2006,2,0,4,0.0,2134209983,John T. Robinson,0,0.22758185000451395,0.39878881404710037
+2594733850,Advanced functional behaviors in a database management system,2011,4,0,3,0.0,2203190902,Curt L. Cotner,0,0.4192448945143012,0.19854667521060454
+2791519613,Advanced functional behavior in a database management system,2011,1,0,3,0.0,2203190902,Curt L. Cotner,0,0.5492447027669425,0.18873291274711682

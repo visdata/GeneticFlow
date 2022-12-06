@@ -1,0 +1,91 @@
+109628918,Analyzing the Impact of Attribute Noise on Software Quality Classification,2008,0,1,2,0.666667,2115802102,Andres Folleco,0,0.003708468606338,0.082832279151172
+264762791,Identifying Learners Robust to Low Quality Data,2009,32,20,2,0.666667,2115802102,Andres Folleco,0,0.003708468606338,0.082832279151172
+1497968089,Fault Prediction Modeling for Software Quality Estimation Comparing Commonly Used Techniques,2003,33,112,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,-0.02982925155893055,-0.0135024676312933
+1484310925,Determining noisy instances relative to attributes of interest,2006,20,3,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.038714264014087396,0.31234059778050965
+1485751654,Analogy-Based Practical Classification Rules for Software Quality Estimation,2003,32,74,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.0726571288814546,0.4338511347288648
+1928220963,Using Ensemble Learners to Improve Classifier Performance on Tweet Sentiment Data,2015,13,12,2,0.72,2015110724,Joseph D. Prusa,0,0.36008877666958794,0.12367962692453353
+1959220275,Using Random Undersampling to Alleviate Class Imbalance on Tweet Sentiment Data,2015,13,17,2,0.72,2015110724,Joseph D. Prusa,0,0.946101618548592,0.41055793400733753
+1936399835,The Effect of Data Sampling When Using Random Forest on Imbalanced Bioinformatics Data,2015,29,10,2,0.399585,2101661854,David J. Dittman,0,0.25433390775580517,0.09035016625700766
+1937348540,A Multi-dimensional Comparison of Toolkits for Machine Learning with Big Data,2015,33,23,2,0.857143,2145912961,Aaron N. Richter,0,0.08096527328544319,0.44932231326900285
+1851422430,Survey of review spam detection using machine learning techniques,2015,43,116,2,0.666667,2216403338,Michael Crawford,0,0.0924049589324902,-0.3341449044001195
+1592660978,Data Mining of Software Development Databases,2001,25,10,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.003708468606338,0.082832279151172
+1657138101,Using classification trees for software quality models lessons learned,1998,3,12,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.003708468606338,0.082832279151172
+1981971511,Simplifying the Utilization of Machine Learning Techniques for Bioinformatics,2013,19,12,2,0.510638,2101661854,David J. Dittman,0,0.5569096790298012,0.37645310394204046
+1983855464,The pairwise attribute noise detection algorithm,2007,29,61,2,0.31484,2166804830,Jason Van Hulse,0,0.34894780593348634,0.012007590454833456
+1970025708,USING CLASSIFICATION TREES FOR SOFTWARE QUALITY MODELS LESSONS LEARNED,1999,9,20,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.003708468606338,0.082832279151172
+1984026144,Impact of noise and data sampling on stability of feature ranking techniques for biological datasets,2012,27,17,2,0.5,2099012378,Ahmad Abu Shanab,0,0.012950349285691018,0.16761393856545537
+1984111870,A comparative study of iterative and non-iterative feature selection techniques for software defect prediction,2014,32,41,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.5735070164738925,0.39753386247491057
+1972225389,Mean Aggregation versus Robust Rank Aggregation for Ensemble Gene Selection,2012,13,16,2,0.283465,2166374335,Randall Wald,0,0.028104756048228485,-0.018849989211678454
+1984459577,A Review of Ensemble Classification for DNA Microarrays Data,2013,47,10,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,-0.22179705402134794,-0.14364490433970478
+1965902027,CLUSTERING-BASED NETWORK INTRUSION DETECTION,2007,30,95,3,0.210943,2143603016,Shi Zhong,0,-0.31520449354291497,0.959073854808188
+1992795012,Knowledge discovery from imbalanced and noisy data,2009,52,133,2,0.31484,2166804830,Jason Van Hulse,0,0.4858046565592987,0.2718979352804446
+1991557405,Imputation techniques for multivariate missingness in software measurement data,2008,29,22,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.13230276524326717,-0.22388309134422113
+1997051603,Hidden dependencies between class imbalance and difficulty of learning for bioinformatics datasets,2013,9,9,2,0.283465,2166374335,Randall Wald,0,1.1123537269472767,0.5073397479828153
+2013734030,Predicting susceptibility to social bots on Twitter,2013,35,30,2,0.283465,2166374335,Randall Wald,0,0.2462614673428446,0.2537474380860238
+2019215397,Selecting the Appropriate Data Sampling Approach for Imbalanced and High-Dimensional Bioinformatics Datasets,2014,24,8,2,0.510638,2101661854,David J. Dittman,0,0.48756522275137065,0.29435171141383937
+2017605669,Stability Analysis of Feature Ranking Techniques on Biological Datasets,2011,13,20,2,0.493151,2101661854,David J. Dittman,0,0.0779793038827673,0.11380739174237582
+2014082967,Evaluating the impact of data quality on sampling,2010,19,4,2,0.244391,2166804830,Jason Van Hulse,0,0.784696566642295,0.3194051143586536
+2028531651,Random Forest with 200 Selected Features An Optimal Model for Bioinformatics Research,2013,15,7,2,0.283465,2166374335,Randall Wald,0,-0.4361129189873939,-0.0429356907346497
+2032070217,An extensive comparison of feature ranking aggregation techniques in bioinformatics,2012,28,20,2,0.283465,2166374335,Randall Wald,0,-0.933122522562557,-0.39140989732388687
+2012878626,Regression modelling of software quality empirical investigationâ˜†,1990,10,74,2,0.0,2131780793,John C. Munson,0,0.003708468606338,0.082832279151172
+2025205361,Software metric-based neural network classification models of a very large telecommunications system,1996,0,6,4,0.0,1250229194,John P. Hudepohl,0,0.003708468606338,0.082832279151172
+2023924316,A review of the stability of feature selection techniques for bioinformatics data,2012,40,66,2,0.0,1998413377,Wael Awada,0,-0.7901438165326633,-0.20163256772955754
+2040466324,Random forest A reliable tool for patient response prediction,2011,23,39,2,0.493151,2101661854,David J. Dittman,0,0.041833945927292136,0.23130310362011564
+2040892106,Gene selection stabilitys dependence on dataset difficulty,2013,12,9,2,0.510638,2101661854,David J. Dittman,0,0.012950349285691018,0.16761393856545537
+2039081830,Comparative Assessment of Software Quality Classification Techniques An Empirical Case Study,2004,38,141,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.16699225394165093,0.5452744100590868
+2080521990,Choosing software metrics for defect prediction an investigation on feature selection techniques,2011,46,141,2,0.0,2035149003,Kehan Gao,0,-0.25023896793326905,0.13037718530513653
+2096945460,RUSBoost A Hybrid Approach to Alleviating Class Imbalance,2010,38,634,2,0.0,1972520777,C. Seiffert,0,1.2279176821582176,0.4229101777839423
+2088464845,Machine prediction of personality from Facebook profiles,2012,18,36,2,0.283465,2166374335,Randall Wald,0,0.003708468606338,0.082832279151172
+2092285654,Threshold-based feature selection techniques for high-dimensional bioinformatics data,2012,53,31,2,0.211073,2166804830,Jason Van Hulse,0,0.02584286998285738,0.2749292411158348
+2123127356,The detection of fault-prone programs,1992,20,408,2,0.666667,2131780793,John C. Munson,0,0.21438872843298346,-0.1353423822296997
+2135366128,Classification tree models of software quality over multiple releases,1999,39,31,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.003708468606338,0.082832279151172
+2126623642,A survey of open source tools for machine learning with big data in the Hadoop ecosystem,2015,89,186,2,0.0,1904230452,Sara Landset,0,0.12492345808765674,0.23414093372237493
+2118023920,Deep learning applications and challenges in big data analytics,2015,59,598,3,0.0,1970183292,Maryam M. Najafabadi,0,0.19154141229528818,0.11778133246597919
+2106423417,Modeling software quality the Software Measurement Analysis and Reliability Toolkit,2000,14,17,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.003708468606338,0.082832279151172
+2121784101,A review of data mining using big data in health informatics,2014,61,133,2,1.0,2034709932,Matthew Herland,0,0.003708468606338,0.082832279151172
+2119168155,Experimental perspectives on learning from imbalanced data,2007,18,416,2,0.31484,2166804830,Jason Van Hulse,0,1.0078473421085408,0.4788217263196328
+2143189463,Tree-based software quality estimation models for fault prediction,2002,29,98,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.7590775009573123,1.0247821324581405
+2110644663,Identifying learners robust to low quality data,2008,33,26,2,0.666667,2115802102,Andres Folleco,0,0.31484412112737625,0.2579936097006229
+2131391419,Feature Selection with High-Dimensional Imbalanced Data,2009,26,80,2,0.31484,2166804830,Jason Van Hulse,0,0.6298389054631865,0.4035968176044999
+2108142795,Intrusion detection and Big Heterogeneous Data a Survey,2015,65,131,2,0.0,2071463781,Richard Zuech,0,0.25057934978578034,0.3659921252011973
+2144129629,Analyzing software measurement data with clustering techniques,2004,11,141,2,0.210943,2143603016,Shi Zhong,0,0.003708468606338,0.082832279151172
+2165669526,An Empirical Study of Learning from Imbalanced Data Using Random Forest,2007,21,189,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.9299925894615116,0.5161798925750746
+2150963875,A comparative study of pattern recognition techniques for quality evaluation of telecommunications software,1994,23,64,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.003708468606338,0.082832279151172
+2159964852,Classification-tree models of software-quality over multiple releases,2000,38,70,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.9484472051186577,0.9164309077041961
+2172032660,Cost-sensitive boosting in software quality modeling,2002,24,30,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.003708468606338,0.082832279151172
+2145063468,A practical classification-rule for software-quality models,2000,26,45,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.1212008688378365,-0.057171913349250605
+2145091807,Predicting fault-prone modules with case-based reasoning,1997,16,53,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.0726571288814546,0.4338511347288648
+2172226568,Software Quality Imputation in the Presence of Noisy Data,2006,13,9,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,-0.08617140728224924,0.7130602023224938
+2166256608,Software quality classification modeling using the SPRINT decision tree algorithm,2002,12,36,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,1.7686836379563449,1.3389679549415008
+2160877908,An application of a rule-based model in software quality classification,2007,27,8,2,0.0,2153187212,Lofton A. Bullard,0,-0.09659815508321637,0.049476459890253
+2146252726,Software Quality Classification Modeling Using the SPRINT Decision Tree Algorithm,2003,12,17,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,2.239690682587779,1.529250286348824
+2170413589,Comparing Boosting and Bagging Techniques With Noisy and Imbalanced Data,2011,46,155,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,1.4616656600081122,0.6824106514298696
+2149493527,LOGISTIC REGRESSION MODELING OF SOFTWARE QUALITY,1999,11,110,2,0.147541,2128400726,Edward B. Allen,0,0.1212008688378365,-0.057171913349250605
+2170555940,Predicting software development errors using software complexity metrics,1990,11,214,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,0.0103630089100458,0.17297362725121812
+2155604267,Comparison of approaches to alleviate problems with high-dimensional and class-imbalanced data,2011,15,17,2,0.5,2099012378,Ahmad Abu Shanab,0,0.970202643887865,0.5562885114371774
+2149963614,A survey of stability analysis of feature subset selection techniques,2013,28,14,1,1.0,2943380717,Taghi M. Khoshgoftaar,0,-0.08477982943252087,0.21540131963461698
+2242675906,Using Feature Selection in Combination with Ensemble Learning Techniques to Improve Tweet Sentiment Classification Performance,2015,16,7,2,0.72,2015110724,Joseph D. Prusa,0,0.21604291314584398,0.1327200376802948
+2190423096,Comparison of Data Sampling Approaches for Imbalanced Bioinformatics Data,2014,10,19,2,0.510638,2101661854,David J. Dittman,0,-0.25023896793326905,0.13037718530513653
+2294345429,The Effect of Dataset Size on Training Tweet Sentiment Classifiers,2015,12,2,2,0.72,2015110724,Joseph D. Prusa,0,0.49941530775666115,0.4085077665343307
+2395579298,A survey of transfer learning,2016,128,589,2,0.0,2475751630,Karl R. Weiss,0,-0.45094705738041063,2.96546818749138
+2461949443,Reducing Feature Set Explosion to Facilitate Real-World Review Spam Detection,2016,0,12,2,0.666667,2216403338,Michael Crawford,0,0.1196886985743213,0.1939449373646738
+2561300216,Designing a Better Data Representation for Deep Neural Networks and Text Classification,2016,15,8,2,0.72,2015110724,Joseph D. Prusa,0,0.003708468606338,0.082832279151172
+2565799927,Cross-Domain Sentiment Analysis An Empirical Investigation,2016,18,7,2,0.0,2226440000,Brian Heredia,0,0.7833609072434845,0.30618043295527586
+2562250581,Designing a Testing Framework for Transfer Learning Algorithms (Application Paper),2016,22,5,2,0.0,2475751630,Karl R. Weiss,0,0.011299089272220252,4.087379222256666
+2575456820,An Investigation of Transfer Learning and Traditional Machine Learning Algorithms,2016,32,6,2,0.0,2475751630,Karl R. Weiss,0,-0.608738958416477,3.261112969208462
+2584158425,A Probabilistic Programming Approach for Outlier Detection in Healthcare Claims,2016,17,11,2,1.0,2560250299,Richard A. Bauder,0,0.21177702343899382,0.04513976421546027
+2569755920,Integrating Multiple Data Sources to Enhance Sentiment Prediction,2016,16,5,2,0.0,2226440000,Brian Heredia,0,0.2650514292763854,0.05971551723346917
+2564603294,Investigating the Variation of Ensemble Size on Bagging-Based Classifier Performance in Imbalanced Bioinformatics Datasets,2016,13,2,2,0.0,2230277838,Alireza Fazelpour,0,1.0280838284946852,0.44525331248312633
+2535198221,Utilizing Ensemble Data Sampling and Feature Selection Techniques for Improving Classification Performance on Tweet Sentiment Data,2015,21,3,2,0.72,2015110724,Joseph D. Prusa,0,0.26480527110831903,0.22207665266849813
+2564754306,A Novel Method for Fraudulent Medicare Claims Detection from Expected Payment Deviations (Application Paper),2016,14,12,2,1.0,2560250299,Richard A. Bauder,0,0.11672415509507165,0.0338187686908989
+2603666613,Improving deep neural network design with new text data representations,2017,23,11,2,0.677419,2015110724,Joseph D. Prusa,0,0.3353879641610092,0.2685149800168525
+2730093722,Multivariate Anomaly Detection in Medicare using Model Residuals and Probabilistic Programming,2017,0,4,2,1.0,2560250299,Richard A. Bauder,0,0.20279561436658805,0.0753070172078775
+2768495044,Medical Provider Specialty Predictions for the Detection of Anomalous Medicare Insurance Claims,2017,13,6,3,1.0,2034709932,Matthew Herland,0,0.032786166461026334,0.07833534602637046
+2770019765,Modernizing Analytics for Melanoma with a Large-Scale Research Dataset,2017,28,7,2,0.857143,2145912961,Aaron N. Richter,0,0.12391509054761995,0.7518194290767396
+2887974490,Medicare Fraud Detection Using Random Forest with Class Imbalanced Big Data,2018,28,8,2,0.529412,2787417991,Richard A. Bauder,0,0.2597554525488376,0.04531646663060442
+2899434936,A survey on addressing high-class imbalance in big data,2018,71,34,2,0.0,2899140431,Joffrey L. Leevy,0,0.9451242171478867,0.47091503625508063
+2919984788,The effects of class rarity on the evaluation of supervised healthcare fraud detection models,2019,53,2,3,0.857143,2034709932,Matthew Herland,0,0.8236153004878429,0.46670969475306956
+2964551072,Examining characteristics of predictive models with imbalanced big data,2019,53,3,2,0.0,2034424307,Tawfiq Hasanin,0,0.09291007133771298,0.2698397247884812
+2990580840,Severely imbalanced Big Data challenges investigating data sampling approaches,2019,42,0,2,0.0,2034424307,Tawfiq Hasanin,0,0.2919422299412427,0.30047893589827457
+2974631082,A Comparison of Performance Metrics with Severely Imbalanced Network Security Big Data,2019,41,0,2,0.0,2034424307,Tawfiq Hasanin,0,0.12492345808765674,0.23414093372237493
+2975040691,Investigating Random Undersampling and Feature Selection on Bioinformatics Big Data,2019,45,0,2,0.0,2034424307,Tawfiq Hasanin,0,-0.04005287246080909,0.3310825420211848

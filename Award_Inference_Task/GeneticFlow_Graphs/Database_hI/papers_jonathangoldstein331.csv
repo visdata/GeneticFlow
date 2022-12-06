@@ -1,0 +1,35 @@
+78548535,MTCache Mid-Tier Database Caching for SQL Server,2004,9,28,2,0.531003,2148643341,Per Ake Larson,0,1.2218146323114407,0.15479090184209374
+1550239967,Enforcing currency and consistency constraints in database query processing,2004,24,36,2,0.0,2164040783,Raghu Ramakrishnan,0,0.8809340701863815,0.11633144593696097
+1026847062,Flexible and safe monitoring of computers,2010,22,26,4,0.0,2015247891,Charles Z. Loboz,0,-0.0041099411153885,0.0447066884760059
+1536502000,EXTENSIBILITY MODEL FOR STREAM-BASED OPERATORS AND AGGREGATES,2010,14,6,6,0.0,178086930,Roman Schindlauer,0,0.1185299347146549,-0.15406528368745845
+1503514136,Asynchronous transfer of state information between continuous query plans,2010,13,61,3,0.0,2064546257,David Maier,0,0.014532710543751099,0.030944858938630852
+1585730347,MTCache transparent mid-tier database caching in SQL server,2004,17,101,2,0.531003,2148643341,Per Ake Larson,0,1.1540536699608903,0.15655561995853054
+1854770132,Squeezing the Most Out of Relational Database Systems,2000,0,3,1,1.0,2166693565,Jonathan Goldstein,0,1.2604309569396002,0.3030046809534216
+2003281274,Stat an interactive analytics environment for big data,2013,9,31,6,0.0,2236272296,Mike Barnett,0,0.02757278280627533,0.1274323151277333
+1993755553,Temporal Analytics on Big Data for Web Advertising,2012,36,89,2,0.53212,2105061512,Badrish Chandramouli,0,-0.8653185868510176,-0.5668914061226745
+2031051127,Data Stream Management Systems for Computational Finance,2010,9,16,3,0.818182,2105061512,Badrish Chandramouli,0,-0.02504284252244325,-0.47177666628625237
+2059377739,DiAl distributed streaming analytics anywhere anytime,2013,4,11,4,0.0,2167600407,Ivo Jose Garcia Dos Santos,0,-0.6327319548474915,-0.8450736427259431
+2059581035,Transparent mid-tier database caching in SQL server,2003,4,25,2,0.531003,2148643341,Per Ake Larson,0,0.7196366293204383,0.009873587037786144
+2056361805,Support for relaxed currency and consistency constraints in MTCache,2004,3,6,4,0.0,2250183532,Hongfei Guo,0,-0.0041099411153885,0.0447066884760059
+2102654168,High-performance dynamic pattern matching over disordered streams,2010,28,79,2,0.818182,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2081628764,Relaxed currency and consistency how to say &quot;good enough&quot; in SQL,2004,26,87,3,0.531003,2148643341,Per Ake Larson,0,0.5942689205401812,-0.23931453495986196
+2104704499,Dynamic Materialized Views,2007,23,58,3,0.0,2702077502,Jingren Zhou,0,0.7123591132250048,0.28849858254547156
+2101970945,Partially materialized views,2004,32,76,2,0.531003,2148643341,Per Ake Larson,0,2.138890178506595,0.47051306972965357
+2128981355,Accurate latency estimation in a distributed event processing system,2011,31,32,2,0.630768,2105061512,Badrish Chandramouli,0,0.4169901767344631,-0.03181084648581779
+2135038323,The extensibility framework in Microsoft StreamInsight,2011,20,45,3,0.287967,2150778444,Mohamed Ali,0,-0.04971360828343909,0.09827126667392688
+2115721220,Real-time-ready behavioral targeting in a large-scale advertisement system,2010,41,70,2,0.818182,2105061512,Badrish Chandramouli,0,0.1882434276923103,-1.0430197535152996
+2107469542,Physically Independent Stream Merging,2012,25,3,3,0.53212,2105061512,Badrish Chandramouli,0,-0.0356641599204488,-0.33358120036710515
+2140811298,Scalable progressive analytics on big data in the cloud,2013,33,35,2,0.45891,2105061512,Badrish Chandramouli,0,0.20500024119486554,0.4310489518863395
+2165506510,On-the-fly progress detection in iterative stream queries,2009,27,26,2,0.818182,2105061512,Badrish Chandramouli,0,0.056626613313110905,0.2771293854319399
+2171492933,Optimizing queries using materialized views a practical scalable solution,2001,19,257,1,1.0,2166693565,Jonathan Goldstein,0,1.2445280707103552,0.1741588759307227
+2171828861,Microsoft CEP server and online behavioral targeting,2009,4,90,18,0.287967,2150778444,Mohamed Ali,0,0.4423599058274088,-0.34901969638975255
+2167274498,Consistent Streaming Through Time A Vision for Event Stream Processing,2007,13,216,2,0.0,1271007067,Roger Barga,0,0.18332910292120647,-0.23014893561279254
+2244876453,Trill a high-performance incremental query processor for diverse analytics,2014,29,98,2,0.388999,2105061512,Badrish Chandramouli,0,0.18016583844896203,0.589301347762554
+2469579467,Shrink prescribing resiliency solutions for streaming,2017,20,2,2,0.308617,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2581526937,READY Completeness is in the Eye of the Beholder,2017,12,2,3,0.308617,2105061512,Badrish Chandramouli,0,-0.0041099411153885,0.0447066884760059
+2512317875,Trill Engineering a Library for Diverse Analytics,2015,12,2,2,0.373717,2105061512,Badrish Chandramouli,0,0.19602142535811662,0.6599691892551753
+2547804802,Quill efficient transferable and rich analytics at scale,2016,23,4,3,0.341617,2105061512,Badrish Chandramouli,0,0.39692279087320786,0.21959075872103936
+2613811373,Enabling Signal Processing over Data Streams,2017,27,7,3,0.0,2033524472,Milos Nikolic,0,0.15887778272949188,0.3206456297420236
+2619959750,Mison a fast JSON parser for data analytics,2017,25,20,4,0.0,2147969462,Yinan Li,0,-0.04690208084257943,-0.2328615901993703
+2953310312,Consistent Streaming Through Time A Vision for Event Stream Processing,2006,11,7,2,0.0,1271007067,Roger Barga,0,0.18332910292120647,-0.23014893561279254
+3000568387,Session details Research 6 Streams,2019,0,0,1,1.0,2166693565,Jonathan Goldstein,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,44 @@
+53283472,Adaptive Database Caching with DBCache,2004,4,62,5,0.714286,1266459441,Christof BornhÃ¶vd,0,-0.0041099411153885,0.0447066884760059
+206690009,Data Access Interoperability in the IBM Database Family,1998,7,17,4,0.0,2157114695,Michael J. Carey,0,1.4599212926588638,0.7049333383154448
+1523529535,EFFICIENT DISCOVERY OF KEYS IN A DATABASE,2006,11,14,2,0.0,180453028,John Sismanis,0,1.9652773795784126,0.7047040327462456
+1560647005,System and method for adaptive database caching,2004,17,157,1,1.0,1980638931,Berthold Reinwald,0,1.3346603508343653,0.46699184909556307
+1507035330,Document-centric OLAP in the schema-chaos world,2006,16,6,2,1.0,212794494,Yannis Sismanis,0,2.790607019602564,-0.9809886347580942
+1561140418,Controlling the use of computing resources in a database as a service,2012,17,19,1,1.0,1980638931,Berthold Reinwald,0,-0.0041099411153885,0.0447066884760059
+1485587488,Efficient sample generation for scalable meta learning,2015,28,7,5,0.0,2226370207,Sebastian Schelter,0,-0.0041099411153885,0.0447066884760059
+1485782945,Cache tables paving the way for an adaptive database cache,2003,18,124,6,0.8,2199071208,Mehmet Altinel,0,-0.0041099411153885,0.0447066884760059
+1577823629,Reweaving the tapestry integrating database and messaging systems in the wake of new middleware technologies,2005,6,6,6,0.0,2312112742,Sangeeta T. Doraiswamy,0,0.02101159557448447,-0.05885578832554892
+1916576906,Efficiently Publishing Relational Data as XML Documents,2001,24,324,7,0.0,1989847040,Jayavel Shanmugasundaram,0,2.383330673966443,-0.8959962555659011
+1893509485,Automatic generation of database invocation mechanism for external web services,2001,59,53,1,1.0,1980638931,Berthold Reinwald,0,-0.041838890217448466,-0.2815228869393791
+1986351313,XML programming with SQL/XML and XQuery,2002,4,58,3,0.0,2275563305,J. E. Funderburk,0,2.5843003092916192,-1.0909541492490749
+1979567624,Resource Elasticity for Large-Scale Machine Learning,2015,57,27,4,0.0,2222018359,Botong Huang,0,-0.0041099411153885,0.0447066884760059
+1991341498,Storing and using objects in a relational database,1996,29,30,1,1.0,1980638931,Berthold Reinwald,0,1.5173174821289,0.25844422766505204
+2001829999,Implementing a scalable XML publish/subscribe system using relational database systems,2004,19,67,1,1.0,1980638931,Berthold Reinwald,0,1.643706694109571,-0.27838812867446056
+2006076242,Intelligent Database Placement in Cloud Environment,2012,10,20,3,0.0,2562857956,Tao Yu,0,1.318836323338358,0.31426900068439384
+1997556310,Discovering topical structures of databases,2008,36,32,2,0.0,2893910555,Wensheng Wu,0,1.9512825983810103,0.3692252662072713
+1992363839,On synopses for distinct-value estimation under multiset operations,2007,30,138,3,0.0,2273214336,Kevin Scott Beyer,0,-0.0041099411153885,0.0447066884760059
+2009896441,Information discovery in loosely integrated data,2007,3,7,4,0.823529,2167199655,Heasoo Hwang,0,0.4375538096531388,0.0820047816050874
+2036385401,Towards keyword-driven analytical processing,2007,19,78,3,0.0,2683528791,Ping Wu,0,-0.06156303878855704,0.9597617280156805
+2077515046,DBCache middle-tier database caching for highly scalable e-business architectures,2003,0,35,6,0.714286,1266459441,Christof BornhÃ¶vd,0,-0.06235356923406975,-0.223505170783772
+2062156243,Heterogeneous query processing through SQL table functions,1999,15,46,1,1.0,1980638931,Berthold Reinwald,0,0.8266483623517606,0.18931489170830365
+2071263634,Relational extensions for OLAP,2002,1,36,3,0.0,2973438892,N. Colossi,0,0.7634606817704149,0.6128350376475854
+2102458936,SystemML Declarative machine learning on MapReduce,2011,19,241,4,0.0,2102101334,Amol Ghoting,0,-0.0041099411153885,0.0447066884760059
+2085541091,BinRank Scaling Dynamic Authority-Based Search Using Materialized SubGraphs,2009,17,7,3,0.823529,2167199655,Heasoo Hwang,0,1.901466873024071,0.5622172946276698
+2141459354,DBPubs multidimensional exploration of database publications,2008,6,9,6,0.0,2139126271,Akanksha Baid,0,-0.5194390370684859,0.3412446473469831
+2132575840,Invocation of web services from a database,2001,59,49,1,1.0,1980638931,Berthold Reinwald,0,-0.041838890217448466,-0.2815228869393791
+2120908895,CRSI a compact randomized similarity index for set-valued features,2012,26,1,3,0.0,1989096520,Petros Venetis,0,0.16174674189777907,-0.29218284058043903
+2123061032,Multidimensional content eXploration,2008,28,43,4,0.0,24841185,Alkis Simitsis,0,-0.48731034385907773,0.6963379513806118
+2108294512,SQL open heterogeneous data access,1998,0,22,1,1.0,1980638931,Berthold Reinwald,0,0.8266483623517606,0.18931489170830365
+2183669956,A Generic Solution to Integrate SQL and Analytics for Big Data,2015,10,2,5,0.0,2693528575,Nick R. Katsipoulakis,0,0.044859856903840555,0.012551371775477651
+2168846860,GORDIAN efficient and scalable discovery of composite keys,2006,32,88,4,1.0,212794494,Yannis Sismanis,0,0.35258358177089916,0.020444942100780086
+2153884194,Scalable and Numerically Stable Descriptive Statistics in SystemML,2012,14,18,3,0.351915,2129760627,Yuanyuan Tian,0,-0.0041099411153885,0.0447066884760059
+2158510734,Resolution-Aware Query Answering for Business Intelligence,2009,24,15,5,0.814687,212794494,Yannis Sismanis,0,0.4451103079475829,0.7050821914223051
+2185864411,Hybrid parallelization strategies for large-scale machine learning in SystemML,2014,35,51,3,0.685789,2942221819,Matthias Boehm,0,-0.0041099411153885,0.0447066884760059
+2190012392,Clash of the titans MapReduce vs Spark for large scale data analytics,2015,12,116,5,0.0,2286496932,Yunjie Qiu,0,-0.0041099411153885,0.0447066884760059
+2302942567,PLACING A DATABASE,2013,23,9,1,1.0,1980638931,Berthold Reinwald,0,2.3253822312495034,0.4560098709563036
+2394571627,Declarative Machine Learning - A Classification of Basic Properties and Types,2016,29,11,4,0.685789,2942221819,Matthias Boehm,0,-0.0041099411153885,0.0447066884760059
+2547190417,SystemML declarative machine learning on spark,2016,32,77,7,0.685789,2942221819,Matthias Boehm,0,-0.0041099411153885,0.0447066884760059
+2535724050,Compressed linear algebra for large-scale machine learning,2016,84,42,5,1.0,2164540290,Ahmed Elgohary,0,0.221423897897152,-0.21080654779612165
+2615000921,Scaling Machine Learning via Compressed Linear Algebra,2017,19,3,5,1.0,2164540290,Ahmed Elgohary,0,0.221423897897152,-0.21080654779612165
+2913219103,Session details Research Session 19 Keywords on Structure,2008,0,0,1,1.0,1980638931,Berthold Reinwald,0,-0.3632509700454942,1.1437180412081445
+2914755254,Session details Industrial session 2 advanced analytics,2010,0,0,1,1.0,1980638931,Berthold Reinwald,0,-0.0041099411153885,0.0447066884760059
+3013722608,SystemDS A Declarative Machine Learning System for the End-to-End Data Science Lifecycle,2019,0,1,10,0.493446,2942221819,Matthias Boehm,0,-0.0041099411153885,0.0447066884760059

@@ -1,0 +1,48 @@
+105408422,Incremental maintenance for non-distributive aggregate functions,2002,23,99,4,0.0,2086321988,Themistoklis Palpanas,0,0.44806577280155685,0.233305624500063
+1507035330,Document-centric OLAP in the schema-chaos world,2006,16,6,3,0.0,212794494,Yannis Sismanis,0,-2.9877134098129114,-0.3269413176178762
+1499807075,Progressive optimization in action,2004,1,6,5,0.0,2112167796,Vijayshankar Raman,0,-0.0395804122397981,0.0068802457672825015
+1555331700,Integrating Triggers and Declarative Constraints in SQL Database Sytems,1996,28,58,1,1.0,2213038480,Hamid Pirahesh,0,-0.9889922743601703,0.18747314858649036
+1519885749,Composite-object views in relational DBMS an implementation perspective,1994,39,12,1,1.0,2213038480,Hamid Pirahesh,0,-1.4794015908257734,0.5915224849169243
+1547831574,A framework for using materialized XPath views in XML query processing,2004,17,144,5,0.25,1208114522,Andrey Balmin,0,-3.386912272613028,-0.4553007591018935
+1846087057,The Magic of Duplicates and Aggregates,1990,20,155,2,0.0,112579409,Inderpal Singh Mumick,0,-1.4370343645579229,0.4702061538229984
+1598467895,Impliance A Next Generation Information Management Appliance,2007,25,6,7,0.0,2290747941,Bishwaranjan Bhattacharjee,0,0.2411296976350509,0.19514062197806442
+1916576906,Efficiently Publishing Relational Data as XML Documents,2001,24,324,6,0.0,1989847040,Jayavel Shanmugasundaram,0,-2.5663366038982387,-0.2621045075291119
+1719639935,ROX relational over XML,2004,15,40,4,0.0,2040370899,Alan Halverson,0,-2.3874151792648473,-0.30720992532424657
+1973656812,IBM UFO repository object-oriented data integration,2009,23,17,3,0.0,2137878772,Howard Ho,0,0.02160654962755071,0.24277131378377403
+1974809924,Using the co-existence approach to achieve combined functionality of object-oriented and relational systems,1993,17,14,4,0.0,2139475575,Rajagopal Ananthanarayanan,0,-0.9883673427344608,0.3868763536654395
+2001829999,Implementing a scalable XML publish/subscribe system using relational database systems,2004,19,67,3,1.0,1980638931,Berthold Reinwald,0,-1.650210019675447,0.0914648599546589
+2009896441,Information discovery in loosely integrated data,2007,3,7,3,0.0,2167199655,Heasoo Hwang,0,-0.1935922321607946,0.11794404662301897
+2026344425,Canonical abstraction for outerjoin optimization,2004,34,83,2,0.0,2166272846,Jun Rao,0,-0.09603375006434664,0.6191964733697379
+2028226582,Eagle-eyed elephant split-oriented indexing in Hadoop,2013,29,32,5,0.0,2034638176,Mohamed Y. Eltabakh,0,-0.25355371004653066,0.0636423331963158
+2021640262,Extending XQuery for analytics,2005,13,89,5,0.823529,2273214336,Kevin Scott Beyer,0,-1.6748684390879467,-0.23527898511082643
+2038692154,WinMagic subquery elimination using window aggregation,2003,11,32,3,0.0,2118700654,Linqi Liu,0,-0.8027742942209957,-0.2696394613411367
+2046269252,Starburst mid-flight as the dust clears (database project),1990,42,234,7,0.0,401236404,Guy M. Lohman,0,-1.069249649539693,0.48403841825590493
+2041563709,Robust query processing through progressive optimization,2004,24,204,5,0.0,1963964406,Volker Markl,0,0.4777880147980298,0.461318557264948
+2055958975,The Asilomar report on database research,1998,0,207,11,0.0,2131060504,Michael L. Brodie,0,0.003708468606338,0.082832279151172
+2068901259,Answering complex SQL queries using automatic summary tables,2000,12,137,4,0.0,1965815696,Markos Zaharioudakis,0,-1.0307402918594764,0.19429356287998684
+2070822026,A function-based access control model for XML databases,2005,25,32,4,0.0,2937953352,Naizhen Qi,0,-3.4517810920918675,-0.31646836367528874
+2062156243,Heterogeneous query processing through SQL table functions,1999,15,46,2,1.0,1980638931,Berthold Reinwald,0,-0.9889922743601703,0.18747314858649036
+2070895734,System RX one part relational one part XML,2005,33,131,8,0.823529,2273214336,Kevin Scott Beyer,0,-2.5418642992734375,-0.31388984159898414
+2057354799,A data management extension architecture,1987,8,89,3,0.0,2020635548,Bruce G. Lindsay,0,-0.9718255216500549,0.29390998038277216
+2071395959,A snapshot differential refresh algorithm,1986,1,138,4,0.0,2020635548,Bruce G. Lindsay,0,-0.17524098558757875,-2.4680388061378116
+2096674153,Recommending materialized views and indexes with the IBM DB2 design advisor,2004,29,82,6,0.0,240506892,Sam Lightstone,0,-0.635007194094958,0.6531799212807079
+2087796842,Implementation of magic-sets in a relational database system,1994,25,67,2,0.0,2920145097,Inderpal Singh Mumick,0,-1.7734471270591647,0.5588267459815879
+2103201239,Data cube a relational aggregation operator generalizing GROUP-BY CROSS-TAB and SUB-TOTALS,1996,9,2036,3,0.0,2131537204,Jim Gray,0,1.2700069216626153,0.8936892855974043
+2079555167,XML data management (panel session) go native or spruce up relational systems ,2001,0,5,2,0.0,172573358,Guido Moerkotte,0,-3.113765822013055,-0.4391804569934017
+2104945737,Maintenance of cube automatic summary tables,2000,4,24,3,0.40566,2119605707,Wolfgang Lehner,0,-1.9313700486771586,0.5331470965584314
+2112100026,fAST refresh using mass query optimization,2001,13,44,3,0.40566,2119605707,Wolfgang Lehner,0,-1.078357144903346,0.2787372399377973
+2118138066,ARIES-RRH restricted repeating of history in the ARIES transaction recovery method,1991,24,61,2,0.264706,2411984561,Chandrasekaran Mohan,0,-1.1563545377131441,0.48138875559711564
+2118173195,Middle-tier database caching for e-business,2002,15,185,4,0.0,2119307789,Qiong Luo,0,-0.39793519913934466,-0.8298488351470835
+2112491581,Compiled Query Execution Engine using JVM,2006,22,88,2,0.0,2166272846,Jun Rao,0,-0.6856160646909832,0.3863548250086275
+2133232641,SQL/XNF-Processing composite objects as abstractions over relational data,1993,28,25,2,0.5,2020635548,Bruce G. Lindsay,0,-1.2795499789247193,0.32582708188371856
+2139551853,A rule engine for query transformation in Starburst and IBM DB2 C/S DBMS,1997,20,54,1,1.0,2213038480,Hamid Pirahesh,0,-0.5762678880028148,0.08753946235915137
+2134179408,Complex query decorrelation,1996,10,131,2,0.0,2133257660,Praveen Seshadri,0,-0.8253707631535261,0.3325254973822819
+2108294512,SQL open heterogeneous data access,1998,0,22,2,1.0,1980638931,Berthold Reinwald,0,-0.9889922743601703,0.18747314858649036
+2183669956,A Generic Solution to Integrate SQL and Analytics for Big Data,2015,10,2,4,0.0,2693528575,Nick R. Katsipoulakis,0,-0.3291976808020441,-0.13703470885516322
+2144829796,Magic is relevant,1990,17,108,3,0.0,112579409,Inderpal Singh Mumick,0,0.003708468606338,0.082832279151172
+2145037882,Using EELs a practical approach to outerjoin and antijoin reordering,2001,11,37,4,0.0,3001885848,Jun Rao,0,-1.3260288131097426,0.5589815222911774
+2182304357,Joins for Hybrid Warehouses Exploiting Massive Parallelism in Hadoop and Enterprise Data Warehouses,2015,29,10,5,0.0,2129760627,Yuanyuan Tian,0,-0.13741897134503755,0.03712672352775048
+2428665651,Wildfire Concurrent Blazing Data Ingest and Analytics,2016,8,8,6,0.8,2105103640,Ronald J. Barber,0,-0.05599650380303606,-0.11838599252407361
+2548933032,Building a Hybrid Warehouse Efficient Joins between Data Stored in HDFS and Enterprise Warehouse,2016,44,7,5,0.0,2129760627,Yuanyuan Tian,0,-0.46144249590208136,0.31616928600008676
+2584505023,Evolving Databases for New-Gen Big Data Applications,2017,11,4,16,0.8,2105103640,Ronald J. Barber,0,0.12492345808765674,0.23414093372237493
+2950416404,Data Cube A Relational Aggregation Operator Generalizing Group-By Cross-Tab and Sub-Totals,2007,4,48,8,0.0,2131537204,Jim Gray,0,-0.3291976808020441,-0.13703470885516322

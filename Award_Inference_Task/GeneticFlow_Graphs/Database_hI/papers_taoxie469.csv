@@ -1,0 +1,39 @@
+90447038,MAPO Mining and Recommending API Usage Patterns,2009,37,274,2,0.0,2425534787,Hao Zhong,0,0.04961591565031305,-0.1828601221778059
+1649405193,Want a Good Answer Ask a Good Question First ,2013,24,17,1,1.0,1920070090,Tao Xie,0,-0.0041099411153885,0.0447066884760059
+1985786621,Making exceptions on exception handling,2012,9,4,1,1.0,1920070090,Tao Xie,0,-0.0041099411153885,0.0447066884760059
+1974157571,Generating program inputs for database application testing,2011,30,39,3,0.833333,2134880248,Kai Pan,0,2.0420544286601268,0.3732843162385385
+1994243132,Understanding software application interfaces via string analysis,2006,21,11,2,0.0,2170512707,Evan Martin,0,0.19999380119163016,-0.2687800912749305
+2026675907,Iterative mining of resource-releasing specifications,2011,19,17,4,0.0,2717478275,Qian Wu,0,-0.0041099411153885,0.0447066884760059
+2014577207,Mining succinct and high-coverage API usage patterns from source code,2013,18,106,5,0.0,2636106369,Jue Wang,0,0.12309163601050414,0.12930578147617974
+2039114257,Contextual analysis of program logs for understanding system behaviors,2013,4,13,6,0.0,2526604622,Qiang Fu,0,-0.0041099411153885,0.0447066884760059
+2070560901,Program-input generation for testing database applications using existing database states,2015,43,7,3,1.0,2134880248,Kai Pan,0,1.8196001979938923,0.2715179720930122
+2103211721,MODA automated test generation for database applications via mock objects,2010,12,62,3,0.0,2155005636,Kunal Taneja,0,1.9096911139113824,0.34013710827769633
+2082678646,Automatic test generation for mutation testing on database applications,2013,21,16,3,1.0,2134880248,Kai Pan,0,1.431424761529058,0.16831441133733138
+2101726875,Identifying security bug reports via text mining An industrial case study,2010,16,103,3,1.0,1857042131,Michael Gegick,0,-0.0041099411153885,0.0447066884760059
+2114402335,Database state generation via dynamic symbolic execution for coverage criteria,2011,18,22,3,0.833333,2134880248,Kai Pan,0,-0.0041099411153885,0.0447066884760059
+2108505327,SpotWeb detecting framework hotspots via mining open source repositories on the web,2008,5,18,2,0.923077,242324359,Suresh Thummalapenta,0,-0.0041099411153885,0.0447066884760059
+2112239550,Dynamic Availability Estimation for Service Selection Based on Status Identification,2008,24,5,3,0.666667,2156466251,Lingshuang Shao,0,-1.265527313124069,-0.9031145810252079
+2115329088,User-Perceived Service Availability A Metric and an Estimation Approach,2009,18,10,3,0.666667,2156466251,Lingshuang Shao,0,0.1227061639772852,-0.37159371555626136
+2109612250,Inferring Resource Specifications from Natural Language API Documentation,2009,44,119,3,0.0,2425534787,Hao Zhong,0,0.12309163601050414,0.12930578147617974
+2124418290,On automated prepared statement generation to remove SQL injection vulnerabilities,2009,22,61,3,0.0,2140819528,Stephen Thomas,0,0.07381004071848686,-0.10244514942886752
+2118731196,Guided test generation for database applications via synthesized database interactions,2014,39,23,3,1.0,2134880248,Kai Pan,0,2.144935576926328,0.3541259541670464
+2121818394,Mining API patterns as partial orders from source code from usage scenarios to specifications,2007,26,206,2,0.0,2115612035,Mithun Acharya,0,-0.0041099411153885,0.0447066884760059
+2130780250,Improving software reliability and productivity via mining program source code,2008,21,10,1,1.0,1920070090,Tao Xie,0,-0.0041099411153885,0.0447066884760059
+2116249553,Designing Fast and Scalable XACML Policy Evaluation Engines,2011,27,44,4,0.8,2138817356,Alex X. Liu,0,0.4206551093518499,-0.4189570477724007
+2107376583,MAPO mining API usages from open source repositories,2006,15,169,1,1.0,1920070090,Tao Xie,0,0.12309163601050414,0.12930578147617974
+2156833313,An approach to detecting duplicate bug reports using natural language and execution information,2008,19,378,3,0.0,2144673113,Xiaoyin Wang,0,-0.0041099411153885,0.0447066884760059
+2146376107,Multiple-implementation testing for XACML implementations,2008,13,24,3,0.0,2232281947,Nuo Li,0,0.3003566391946442,-0.8077036465330748
+2146488404,Xengine a fast and scalable XACML policy evaluation engine,2008,11,99,4,0.8,2138817356,Alex X. Liu,0,-0.12279424919434008,-0.5410532069458462
+2221766821,Measurement and Analysis of Mobile Web Cache Performance,2015,16,23,6,1.0,2143380351,Yun Ma,0,-0.0041099411153885,0.0447066884760059
+2299400899,Improving software productivity and quality via mining source code,2011,0,1,2,0.923077,242324359,Suresh Thummalapenta,0,0.12309163601050414,0.12930578147617974
+2342153388,Demystifying the Imperfect Client-Side Cache Performance of Mobile Web Browsing,2016,31,19,4,0.0,2126677274,Xuanzhe Liu,0,-0.9484718631503384,-0.8153768527582178
+2487753208,Mining API Usage Specifications via Searching Source Code from the Web,2011,19,1,2,0.923077,242324359,Suresh Thummalapenta,0,-0.0041099411153885,0.0447066884760059
+2524929627,Identifying security fault reports via text mining,2009,18,1,2,1.0,1857042131,Michael Gegick,0,-0.0041099411153885,0.0447066884760059
+2521912944,SpotWeb Characterizing framework API usages through a code search engine,2007,9,0,1,1.0,1920070090,Tao Xie,0,-0.0041099411153885,0.0447066884760059
+2558961859,ReWAP Reducing Redundant Transfers for Mobile Web Browsing via App-Specific Resource Packaging,2017,26,5,5,0.0,2126677274,Xuanzhe Liu,0,-0.0041099411153885,0.0447066884760059
+2563396994,SWAROVsky Optimizing Resource Loading for Mobile Web Browsing,2017,32,6,5,0.0,2126677274,Xuanzhe Liu,0,-0.4197151661071337,-0.42589767901227754
+2527612534,NEGWeb Static defect detection via searching billions of lines of open source code,2007,16,2,2,0.923077,242324359,Suresh Thummalapenta,0,-0.0041099411153885,0.0447066884760059
+2514256789,Static detection of API error-handling bugs via mining source code,2007,23,1,1,1.0,1920070090,Tao Xie,0,-0.0041099411153885,0.0447066884760059
+2519596784,Quality assurance of database centric applications,2013,0,0,1,1.0,1920070090,Tao Xie,0,0.23075676847186216,-0.2837672103061575
+2752345956,CarStream an industrial system of big data processing for internet-of-vehicles,2017,27,15,4,0.0,2743713680,Mingming Zhang,0,-0.09747637513709581,0.6517352516443109
+2898719172,FACTS automated black-box testing of FinTech systems,2018,8,2,8,0.0,2899152271,Qingshun Wang,0,0.12053920998483299,0.15933295062497538

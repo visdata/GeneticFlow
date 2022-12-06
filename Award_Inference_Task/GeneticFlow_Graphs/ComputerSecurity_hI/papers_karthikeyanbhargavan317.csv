@@ -1,0 +1,44 @@
+75729132,Proving the TLS Handshake Secure (As It Is),2014,58,48,1,1.0,392089535,Karthikeyan Bhargavan,0,0.2310093647576035,-0.8572688913402173
+1563971619,Language-based defenses against untrusted browser origins,2013,36,23,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.08538177169983789,-0.5974143824350476
+1493106024,Checking the security of web services configurations,2005,4,40,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.64380370370557,2.837283194704529
+1044601173,Identifying Website Users by TLS Traffic Analysis New Attacks and Effective Countermeasures,2012,18,8,1,1.0,392089535,Karthikeyan Bhargavan,0,0.5381204757927666,0.6439461758007926
+1495444061,A Messy State of the Union Taming the Composite State Machines of TLS,2015,37,127,2,0.9,1044068175,Benjamin Beurdouche,0,-0.4447978403226499,-1.2229614100118928
+1449595027,FLEXTLS a tool for testing TLS implementations,2015,9,14,5,0.9,1044068175,Benjamin Beurdouche,0,-0.33238519335420785,-0.3103399804993069
+1840686199,A secure compiler for session abstractions,2008,36,20,4,0.0,2141857133,Ricardo Corin,0,0.3171484069971384,-0.13992525839030945
+1785797725,Discovering concrete attacks on website authorization by formal analysis,2014,41,45,2,1.0,2483521389,Chetan Bansal,0,-0.16544095899431482,-0.15841058320924417
+1975344666,Triple Handshakes and Cookie Cutters Breaking and Fixing Authentication over TLS,2014,52,106,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.20476540608132238,-0.3043552381164577
+2007072126,Secure sessions for Web services,2007,44,51,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.32409323540744556,1.1528106569199716
+2023040061,Discovering Concrete Attacks on Website Authorization by Formal Analysis,2012,48,80,2,1.0,2483521389,Chetan Bansal,0,-1.0794822931228776,-0.4736674298539316
+2016747171,Verified Contributive Channel Bindings for Compound Authentication,2015,0,9,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.5530861437885858,-0.004176666300269333
+2042923641,Imperfect Forward Secrecy How Diffie-Hellman Fails in Practice,2015,41,161,2,0.48,2228463061,David Adrian,0,-0.5328323141402539,-1.9706914495178316
+2064815039,Verified Cryptographic Implementations for TLS,2012,43,25,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.8332755736678834,-0.8211542680917178
+2072210640,Cryptographically verified implementations for TLS,2008,31,89,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.5159743374657743,-1.3773691725798176
+2070775894,Implementing TLS with Verified Cryptographic Security,2013,70,114,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.9504708958709861,-1.5191527996769685
+2104578611,Verified implementations of the information card federated identity-management protocol,2008,25,41,1,1.0,392089535,Karthikeyan Bhargavan,0,-1.442862766608417,-0.6881256431998828
+2118981284,Towards unified authorization for android,2013,25,4,2,0.0,2160400601,Michael J. May,0,0.049779202589480036,0.8339377444338476
+2125515762,Verifying policy-based security for web services,2004,18,77,1,1.0,392089535,Karthikeyan Bhargavan,0,0.0040557659796233,0.2757546058061082
+2125607372,An advisor for web services security policies,2005,18,61,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.32409323540744556,1.1528106569199716
+2150387335,Keys to the cloud formal analysis and concrete attacks on encrypted web storage,2013,23,38,2,1.0,2483521389,Chetan Bansal,0,0.9827367170305266,0.10494852938906
+2151353792,Secure sessions for web services,2004,37,29,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.4656804588290318,0.4865098350588477
+2221475113,Network-based Origin Confusion Attacks against HTTPS Virtual Hosting,2015,44,6,2,0.552632,27630912,Antoine Delignat Lavaud,0,0.019334587572072806,-0.1030295023882406
+2216958194,Web-based attacks on host-proof encrypted storage,2012,11,12,1,1.0,392089535,Karthikeyan Bhargavan,0,0.1491907060480245,-0.5846535534738795
+2296886798,Transport Layer Security (TLS) Session Hash and Extended Master Secret Extension,2015,15,16,1,1.0,392089535,Karthikeyan Bhargavan,0,0.2711794872317257,-0.3316374841425091
+2395368405,Downgrade Resilience in Key-Exchange Protocols,2016,47,15,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.5414811524531161,-0.7855603293046794
+2561521908,Transcript Collision Attacks Breaking Authentication in TLS IKE and SSH,2016,26,48,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.3877418139598,-1.419475051595791
+2538848838,Formal Verification of Smart Contracts Short Paper,2016,5,202,1,1.0,392089535,Karthikeyan Bhargavan,0,-1.0748320696519569,0.6346639768992652
+2580339477,A messy state of the union taming the composite state machines of TLS,2017,44,8,2,0.9,1044068175,Benjamin Beurdouche,0,-0.5102091754327447,-0.7528560560659388
+2564949988,miTLS Verifying Protocol Implementations against Real-World Attacks,2016,13,4,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.3449926546545242,-1.0306494954076024
+2536707834,On the Practical (In-)Security of 64-bit Block Ciphers Collision Attacks on HTTP over TLS and OpenVPN,2016,26,53,1,1.0,392089535,Karthikeyan Bhargavan,0,0.9816794984622695,-1.3549047077165417
+2618267215,Verified Models and Reference Implementations for the TLS 13 Standard Candidate,2017,61,36,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.40863323013704655,-1.1281088437912419
+2597779881,Content delivery over TLS a cryptographic analysis of keyless SSL,2017,13,9,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.3381417474340749,-1.0481022816283447
+2638827658,A Formal Model for ACME Analyzing Domain Validation over Insecure Channels,2016,3,0,2,0.552632,27630912,Antoine Delignat Lavaud,0,0.16087689658648116,-3.754859707839142
+2640092413,Implementing and Proving the TLS 13 Record Layer,2017,35,25,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.3852847149576867,-0.7859709228820732
+2652625053,Automated Verification for Secure Messaging Protocols and Their Implementations A Symbolic and Computational Approach,2017,29,41,2,0.0,2471162127,Nadim Kobeissi,0,-1.0750956031027472,-1.1509205710598784
+2717128466,Formal Modeling and Verification for Domain Validation and ACME,2017,8,5,1,1.0,392089535,Karthikeyan Bhargavan,0,0.05784597589762067,-1.2640257199930107
+2717927054,Embedding of Security Components in Untrusted Third-Party Websites,2013,0,1,2,0.5,27630912,Antoine Delignat Lavaud,0,0.5258216848870418,-0.6018130311575486
+2612866259,New Results - Attacks and Proofs for Transport Layer Security,2015,0,0,2,0.552632,27630912,Antoine Delignat Lavaud,0,-0.36139017078501745,-0.6698254899516656
+2775370490,SECURITY CHECK OF WEB SERVICE CONFIGURATION,2005,0,3,1,1.0,392089535,Karthikeyan Bhargavan,0,-0.4187989294775865,0.35596692829055865
+2767162229,HACL* A Verified Modern Cryptographic Library,2017,25,42,2,0.0,2343742392,Jean Karim Zinzindohoue,0,-0.8927596898426238,-1.1988254246752095
+2794657001,A Formal Treatment of Accountable Proxying Over TLS,2018,29,4,1,1.0,392089535,Karthikeyan Bhargavan,0,0.3649299365738792,-1.1474564325863055
+2926494289,Formally Verified Cryptographic Web Applications in WebAssembly,2019,34,1,4,0.0,1588287749,Jonathan Protzenko,0,0.3171484069971384,-0.13992525839030945
+2905954184,Imperfect forward secrecy how Diffie-Hellman fails in practice,2018,16,1,2,0.48,2228463061,David Adrian,0,-0.5328323141402539,-1.9706914495178316

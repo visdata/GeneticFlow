@@ -1,0 +1,87 @@
+20513060,Efficient index-based methods for processing large biological databases,2008,0,0,1,1.0,2155925739,Jignesh M. Patel,0,-0.17836662455787,0.11795780610248367
+217985499,Querying graph databases,2008,52,2,2,1.0,2129760627,Yuanyuan Tian,0,0.003708468606338,0.082832279151172
+129132856,Rethinking Choices for Multi-dimensional Point Indexing Making the Case for the Often Ignored Quadtree,2007,0,16,2,0.0,2480382987,You Jung Kim,0,0.003708468606338,0.082832279151172
+1479794690,Efficient database support for spatial applications,1998,0,5,2,0.0,1979791317,David J. DeWitt,0,-0.2410254018189751,0.3643529156731262
+1490848000,Replica Placement in Multi-tenant Database Environments,2015,20,6,2,0.714286,66563207,Avrilia Floratou,0,0.003708468606338,0.082832279151172
+1508070758,Efficient algorithms for similarity and skyline summary on multidimensional datasets,2007,80,1,2,0.0,191868304,William I. Grosky,0,0.26354855396127175,0.32463132248750337
+1553835593,Storing and Querying XML Data in Object-Relational DBMSs,2002,18,30,2,1.0,273764090,Kanda Runapongsa,0,-2.5418642992734375,-0.31388984159898414
+1537369822,Estimating Answer Sizes for XML Queries,2002,18,3,2,1.0,2168114394,Yuqing Wu,0,-0.501324785191148,-0.06339587536232472
+1842202032,Method of pattern searching,2008,12,19,3,0.0,360112113,Hosagrahar V. Jagadish,0,0.003708468606338,0.082832279151172
+1674493795,PiQA an algebra for querying protein data sets,2003,22,11,2,1.0,1980446767,Sandeep Tata,0,0.11672415509507165,0.0338187686908989
+1678315924,Towards Eco-friendly Database Management Systems,2009,4,31,2,1.0,2102229717,Willis Lang,0,0.003708468606338,0.082832279151172
+1768336749,Set Containment Joins The Good The Bad and The Ugly,2000,15,71,2,0.0,2175047829,Karthikeyan Ramasamy,0,0.21438872843298346,-0.1353423822296997
+1868377475,Towards building wind tunnels for data center design,2014,16,3,3,0.714286,66563207,Avrilia Floratou,0,0.003708468606338,0.082832279151172
+1972198386,Using histograms to estimate answer sizes for XML queries,2003,18,28,2,1.0,2168114394,Yuqing Wu,0,-0.5250420839780041,-0.018905889821402823
+1965370151,Efficient and generic evaluation of ranked queries,2011,28,10,2,0.0,2152882053,Wen Jin,0,-0.007153747182780199,0.3776738177215317
+1981606407,TIMBER a native system for querying XML,2003,8,44,7,0.444444,1981886794,Stelios Paparizos,0,-2.5418642992734375,-0.31388984159898414
+1978375645,Design and evaluation of trajectory join algorithms,2009,44,19,2,0.0,2306158819,Yun Chen,0,-0.904188901891511,0.8106851630924806
+1990856932,From Data to Insights @ Bare Metal Speed,2015,0,0,1,1.0,2155925739,Jignesh M. Patel,0,0.04208702967884904,0.2408117796337136
+1991223838,A Padded Encoding Scheme to Accelerate Scans by Leveraging Skew,2015,44,8,3,1.0,2147969462,Yinan Li,0,0.003708468606338,0.082832279151172
+1988823103,Evaluating skylines in the presence of equijoins,2010,20,25,3,0.0,2152882053,Wen Jin,0,0.15297151460245442,0.30831518225716625
+2029432894,Cloud databases whats new ,2010,0,5,2,0.0,237419955,Hector Garcia Molina,0,-0.3849111162398852,-0.10788238223040504
+2017369298,A demonstration of SciDB a science-oriented DBMS,2009,13,144,15,0.0,2308794080,Philippe CudrÃ© Mauroux,0,-0.3913489528855849,0.25537854383647085
+2012161479,FLAME Shedding Light on Hidden Frequent Patterns in Sequence Datasets,2008,12,1,2,0.693747,1980446767,Sandeep Tata,0,0.11672415509507165,0.0338187686908989
+2021634928,Towards Multi-tenant Performance SLOs,2012,32,61,3,0.888889,2102229717,Willis Lang,0,-0.4510729884163594,0.24846660988711605
+2032528887,The Michigan benchmark towards XML query performance diagnostics,2006,34,57,2,1.0,273764090,Kanda Runapongsa,0,-2.390596685191368,-0.3091577631862412
+2032775418,Learning Generalized Linear Models Over Normalized Data,2015,33,74,3,0.6,2424930959,Arun Kumar,0,-0.5718056917432806,1.9470983729147582
+2048971142,WHAM A High-Throughput Sequence Alignment Method,2012,34,18,2,1.0,2147969462,Yinan Li,0,-0.13275296294680305,-0.071629888206014
+2040374677,TIMBER A native XML database,2002,61,413,7,0.0,360112113,Hosagrahar V. Jagadish,0,-2.5418642992734375,-0.31388984159898414
+2043099794,A comparison of join algorithms for log processing in MaPreduce,2010,12,362,2,0.0,1548171544,Spyros Blanas,0,0.247057159400659,0.0008718596446388033
+2055774867,BitWeaving fast scans for main memory data processing,2013,19,78,2,1.0,2147969462,Yinan Li,0,0.1380988414789499,0.12345037714192142
+2071874129,Scalable Rule-Based Gene Expression Data Classification,2008,23,8,3,0.0,2191412850,Mark A. Iwen,0,-0.15621179406253732,0.11734551771136845
+2077501442,Periscope/GQ a graph querying toolkit,2008,12,10,2,1.0,2129760627,Yuanyuan Tian,0,-0.8570362992266555,0.2706407528604849
+2067080594,Towards Multi-Tenant Performance SLOs,2014,33,16,3,0.769231,2102229717,Willis Lang,0,-0.4510729884163594,0.24846660988711605
+2070593325,Design and evaluation of storage organizations for read-optimized main memory databases,2013,33,15,2,1.0,2035718625,Craig Chasseur,0,0.003708468606338,0.082832279151172
+2076424561,Efficient and Accurate Discovery of Patterns in Sequence Data Sets,2011,55,48,3,1.0,66563207,Avrilia Floratou,0,0.15667263742457535,-0.045229535809575505
+2082107247,Scientific Data Management An Orphan in the Database Community ,2008,0,4,4,0.0,228437624,Miron Livny,0,-0.2539479710030578,-0.06427916846430556
+2100946521,Indexing Large Trajectory Data Sets With SETI,2003,28,220,3,0.0,732514860,V. Prasad Chakka,0,0.053187687455340936,-0.16559227334086646
+2093766169,Building a scaleable geo-spatial DBMS technology implementation and evaluation,1997,20,107,1,1.0,2155925739,Jignesh M. Patel,0,-2.373374300307925,0.8475334346707117
+2101390300,Efficient skyline computation over low-cardinality domains,2007,24,120,2,0.942857,2163323927,Michael Morse,0,0.007127251708184262,0.678279587063308
+2117284930,"Performance Comparison of the { m R}^{ast}-Tree and the Quadtree for kNN and Distance Join Queries^^<http://www.w3.org/2001/XMLSchema#string> .\
+",2010,37,28,1,1.0,2155925739,Jignesh M. Patel,0,0.07566427633371031,-0.7392468581711988
+2141165530,Efficient Evaluation of Radial Queries using the Target Tree,2005,28,2,2,1.0,2163323927,Michael Morse,0,-0.30614574489302376,0.5869303570858684
+2108706843,Practical suffix tree construction,2004,27,68,3,1.0,1980446767,Sandeep Tata,0,0.003708468606338,0.082832279151172
+2114854276,Column-oriented storage techniques for MapReduce,2011,23,97,2,1.0,66563207,Avrilia Floratou,0,0.003708468606338,0.082832279151172
+2111998194,Estimating the selectivity of tf-idf based cosine similarity predicates,2007,8,110,2,0.888889,1980446767,Sandeep Tata,0,-0.06455395274215925,-0.5633354042650602
+2112099725,WHAM a high-throughput sequence alignment method,2011,22,31,2,1.0,2147969462,Yinan Li,0,-0.13275296294680305,-0.071629888206014
+2123970045,STRIPES an efficient index for predicted trajectories,2004,41,159,1,1.0,2155925739,Jignesh M. Patel,0,-0.23596603161225885,0.32842752035054174
+2112200469,SAGA a subgraph matching tool for biological graphs,2007,27,183,5,1.0,2129760627,Yuanyuan Tian,0,-0.13275296294680305,-0.071629888206014
+2121010092,Efficient Continuous Skyline Computation,2006,32,35,2,1.0,2163323927,Michael Morse,0,0.19751296232403126,0.20846757900135976
+2124070418,Searching on the secondary structure of protein sequences,2002,29,21,2,0.0,2710684571,Laurie Hammel,0,0.06378312288100012,0.03552650534025653
+2115321097,miBLAST scalable evaluation of a batch of nucleotide sequence queries with BLAST,2005,16,28,3,0.0,2074096056,Brian D. Athey,0,0.003708468606338,0.082832279151172
+2133919533,Discovery-driven graph summarization,2010,20,97,3,0.0,2303706689,Ning Zhang,0,0.16907734049083578,-0.12967193888388467
+2125233616,Partition based spatial-merge join,1996,37,319,1,1.0,2155925739,Jignesh M. Patel,0,-1.9806427899195467,0.3985211905126069
+2134155890,An efficient and accurate method for evaluating time series similarity,2007,32,137,2,0.942857,2163323927,Michael Morse,0,-0.21934185016841626,0.6056873083074126
+2125580539,Efficient aggregation for graph summarization,2008,21,332,3,1.0,2129760627,Yuanyuan Tian,0,-0.21934185016841626,0.6056873083074126
+2113836856,Structural joins a primitive for efficient XML query pattern matching,2002,26,787,3,0.5,2035323997,Shurug Al Khalifa,0,-1.9742898502828794,-0.04528844833871519
+2108235229,OASIS an online and accurate technique for local-alignment searches on biological sequences,2003,37,80,2,0.0,2128575971,Colin Meek,0,0.21438872843298346,-0.1353423822296997
+2156131541,Efficient and accurate discovery of patterns in sequence datasets,2010,56,8,3,1.0,66563207,Avrilia Floratou,0,0.15667263742457535,-0.045229535809575505
+2162325900,SigMatch fast and scalable multi-pattern matching,2010,24,19,3,0.0,164430187,Ramakrishnan Kandhan,0,-0.06537770139290056,0.150525637304572
+2168649524,Efficient Evaluation of All-Nearest-Neighbor Queries,2007,31,71,2,0.0,2973401606,Yun Chen,0,0.35102850369216815,0.8934832119507548
+2159594638,Dictionary-Based Compression for Long Time-Series Similarity,2010,54,23,3,1.0,2102229717,Willis Lang,0,-0.5736430997013774,0.8855905988740956
+2147913014,TALE A Tool for Approximate Large Graph Matching,2008,25,244,2,1.0,2129760627,Yuanyuan Tian,0,0.003708468606338,0.082832279151172
+2181714304,Enabling JSON Document Stores in Relational Systems,2013,22,38,3,1.0,2035718625,Craig Chasseur,0,-1.0714143600104138,0.035860411586902466
+2163453947,Structural join order selection for XML query optimization,2003,19,166,2,1.0,2168114394,Yuqing Wu,0,-1.9767776325104118,0.40134057570786036
+2163793079,XIST An XML Index Selection Tool,2004,26,17,2,0.0,3004141224,Kanda Runapongsa,0,-0.7525600218100941,-0.2791259304852688
+2146461854,WideTable an accelerator for analytical data processing,2014,38,30,2,1.0,2147969462,Yinan Li,0,-2.0764783867400207,0.36573239443309635
+2170702660,SIGOPT Using Schema to Optimize XML Query Processing,2007,11,8,2,0.444444,1981886794,Stelios Paparizos,0,-1.9037492047495492,-0.20786498842054882
+2146950071,Efficient evaluation of radial queries using the target tree,2007,24,0,2,0.942857,2163323927,Michael Morse,0,0.6006507918152955,2.422872589785972
+2150159606,Periscope/SQ interactive exploration of biological sequence databases,2007,6,4,3,0.888889,1980446767,Sandeep Tata,0,-0.0395804122397981,0.0068802457672825015
+2272315143,DAQ a new paradigm for approximate query processing,2015,15,29,2,0.0,2410182908,Navneet Potti,0,0.1313345911755203,-0.20998788885429914
+2267631676,QuickFOIL scalable inductive logic programming,2014,36,27,2,0.0,2677477948,Qiang Zeng,0,0.2520909661601309,0.14915502679406958
+2246319860,Profiling R on a contemporary processor,2014,15,9,2,0.0,2298894397,Shriram Sridharan,0,0.003708468606338,0.082832279151172
+2292590056,Demonstration of Santoku optimizing machine learning over normalized data,2015,4,10,5,0.6,2424930959,Arun Kumar,0,-0.12660251819678137,0.032522020441872496
+2295868080,Indexing HDFS data in PDW splitting the data from the index,2014,6,14,3,0.0,2761130755,Vinitha Reddy Gankidi,0,-0.8570362992266555,0.2706407528604849
+2399232213,The case against specialized graph analytics engines,2015,18,42,4,0.0,2489375477,Jing Fan,0,-0.6183981207988671,0.15000601435531546
+2439850722,Aggressive buffer pool warm-up after restart in SQL Server,2016,5,1,4,0.0,2224564248,Kwanghyun Park,0,0.05298660853864876,0.5441994412088708
+2444650685,To Join or Not to Join Thinking Twice about Joins before Feature Selection,2016,43,41,3,0.6,2424930959,Arun Kumar,0,-0.4207165609334775,0.08066551923097469
+2469302497,Towards a unified framework for efficient access methods and query operations in spatio-temporal databases,2008,108,2,1,1.0,2155925739,Jignesh M. Patel,0,-0.2930212866011561,0.05040008026608692
+2563724055,Towards linear algebra over normalized data,2017,31,23,4,0.6,2795024169,Lingjiao Chen,0,0.12883860284626272,0.10780600587436683
+2613226836,Looking ahead makes query plans robust making the initial case with in-memory star schema data warehouse workloads,2017,28,3,1,1.0,2155925739,Jignesh M. Patel,0,-0.7260074246837752,0.20444306946021032
+2614730818,Predictive Provisioning Efficiently Anticipating Usage in Azure SQL Database,2017,14,2,5,0.0,2614217062,Lalitha Viswanathan,0,0.6896060653283616,1.007137492506928
+2794677790,Estimating answer sizes for XML queries,2002,0,96,2,1.0,2168114394,Yuqing Wu,0,-0.9029291674287543,-0.13266617115068613
+2914529374,Tuple-oriented Compression for Large-scale Mini-batch Stochastic Gradient Descent,2019,63,0,7,0.0,2594260293,Fengan Li,0,-0.22514076899242355,0.001231587213755922
+2949742316,Towards Linear Algebra over Normalized Data,2016,33,5,4,0.6,2795024169,Lingjiao Chen,0,0.12883860284626272,0.10780600587436683
+2948936239,Efficiently Searching In-Memory Sorted Arrays Revenge of the Interpolation Search ,2019,32,2,1,1.0,2155925739,Jignesh M. Patel,0,0.003708468606338,0.082832279151172
+3000173466,Optimizing databases by learning hidden parameters of solid state drives,2019,0,0,2,0.0,2948446409,Aarati Kakaraparthy,0,0.003708468606338,0.082832279151172
+3004143201,To pipeline or not to pipeline that is the question,2020,38,0,3,0.0,2612174594,Harshad Deshmukh,0,0.003708468606338,0.082832279151172

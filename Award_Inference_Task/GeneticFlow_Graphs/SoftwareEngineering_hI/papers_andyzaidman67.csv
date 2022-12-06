@@ -1,0 +1,80 @@
+332533410,Visualizing Testsuites to Aid in Software Understanding,2006,0,0,4,1.0,1984857593,B. Cornelissen,0,0.0534980472725182,0.6444428004817006
+814172419,Analyzing the State of Static Analysis A Large-Scale Evaluation in Open Source Software,2016,67,59,4,0.790698,2148263294,Moritz Beller,0,-0.0291855379334779,0.0585196112869768
+798413334,Selective Introduction of Aspects for Program Comprehension,2004,13,0,3,0.0,2030505841,Serge Demeyer,0,-0.0291855379334779,0.0585196112869768
+1496446822,A Quality Framework for Agile Requirements A Practitionerâ€™s Perspective,2014,25,12,1,1.0,2291851674,Andy Zaidman,0,0.0534980472725182,0.6444428004817006
+1550966611,Evaluating the Lifespan of Code Smells using Software Repository Mining,2012,0,27,2,0.0,2640097312,Ralph J. M. Peters,0,-0.0291855379334779,0.0585196112869768
+1489277616,Splitting a Large Software Archive for Easing Future Software Evolution An Industrial Experience Report using Formal Concept Analysis,2008,0,0,4,0.142807,1986602002,A. van Deursen,0,-0.0291855379334779,0.0585196112869768
+1534202145,Aiding Software Developers to Maintain Developer Tests,2012,0,0,2,0.0,2663420987,Victor Hurdugaci,0,-0.0291855379334779,0.0585196112869768
+1481393681,Enabling multi-tenancy An industrial experience report,2010,0,28,2,1.0,2345126096,Cor Paul Bezemer,0,-0.0291855379334779,0.0585196112869768
+1544044326,Execution Trace Analysis through Massive Sequence and Circular Bundle Views,2008,0,0,2,0.0,2423315594,S.G.M. Cornelissen,0,-0.0291855379334779,0.0585196112869768
+1535646811,Maintenance Research in SOA Towards a Standard Case Study,2012,0,2,4,1.0,2053272354,Tiago Espinha,0,-0.0291855379334779,0.0585196112869768
+1527355805,Mining Software Repositories to Study Co-Evolution of Production &amp; Test Code,2008,0,29,4,0.142807,1986602002,A. van Deursen,0,-0.0006260477612278006,-0.26942038845386046
+1564176690,Locating Performance Improvement Opportunities in an Industrial Software-as-a-Service Application,2012,0,1,2,1.0,2345126096,Cor Paul Bezemer,0,-0.0291855379334779,0.0585196112869768
+1493687818,Comparing the co-evolution of production and test code in open source and industrial developer test processes through repository mining,2008,0,1,4,0.142807,1986602002,A. van Deursen,0,-0.0291855379334779,0.0585196112869768
+1586969422,Studying Co-evolution of Production and Test Code Using Association Rule Mining,2009,37,5,2,0.0,335874646,Martin Pinzger,0,-0.0291855379334779,0.0585196112869768
+1678497285,Workshop on Object-Oriented Reengineering Report of the Sixth International Workshop on Object-Oriented Reengineering,2006,0,0,7,0.0,1974294565,Yann GaÃ«l GuÃ©hÃ©neuc,0,0.35931953284580015,-0.5674908185703834
+1608256218,Using Aspect Orientation in Legacy Environments for Reverse Engineering using Dynamic Analysis An Industrial Experience Report,2008,0,0,4,0.0,2030505841,Serge Demeyer,0,-0.5858771665552741,0.2641527235267396
+1974412019,Introduction to the special issue on program comprehension through dynamic analysis (PCODA),2008,0,0,1,1.0,2291851674,Andy Zaidman,0,-0.5858771665552741,0.2641527235267396
+1997090065,When how and why developers (do not) test in their IDEs,2015,44,63,4,1.0,2148263294,Moritz Beller,0,-0.0291855379334779,0.0585196112869768
+1988643845,Splitting a large software repository for easing future software evolutionâ€”an industrial experience report,2009,30,26,3,0.818182,1989770596,Lennart Hofland,0,-0.0291855379334779,0.0585196112869768
+1997548934,Modern code reviews in open-source projects which problems do they fix ,2014,46,95,4,0.0,329100065,Alberto Bacchelli,0,-0.0291855379334779,0.0585196112869768
+2012659081,Spicy stonehenge proposing a SOA case study,2012,3,1,3,1.0,2053272354,Tiago Espinha,0,-0.0291855379334779,0.0585196112869768
+2016248153,Program COmprehension through Dynamic Analysis,2006,75,2,1,1.0,2291851674,Andy Zaidman,0,-0.0291855379334779,0.0585196112869768
+2020185504,Understanding Service-Oriented systems using dynamic analysis,2011,13,6,2,1.0,2053272354,Tiago Espinha,0,-0.0291855379334779,0.0585196112869768
+2032972824,Enabling multi-tenancy An industrial experience report,2010,16,69,2,1.0,2345126096,Cor Paul Bezemer,0,-0.0291855379334779,0.0585196112869768
+2035894543,Strategies for avoiding text fixture smells during software evolution,2013,26,24,2,0.0,2777050374,Michaela Greiler,0,-0.0291855379334779,0.0585196112869768
+2036044103,Managing code clones using dynamic change tracking and resolution,2009,26,51,2,0.0,2224068312,Michiel de Wit,0,0.16507363120930635,-0.2696288139740148
+2043271653,Locating performance improvement opportunities in an industrial software-as-a-service application,2012,25,2,2,1.0,2345126096,Cor Paul Bezemer,0,-0.0291855379334779,0.0585196112869768
+2061228025,Maintenance Research in SOA - Towards a Standard Case Study,2012,28,10,3,1.0,2053272354,Tiago Espinha,0,-0.0291855379334779,0.0585196112869768
+2073544895,Old habits die hard Why refactoring for understandability does not give immediate benefits,2015,13,6,3,0.0,2703803116,Erik Ammerlaan,0,-0.0291855379334779,0.0585196112869768
+2067020109,Identifying cross-cutting concerns using software repository mining,2010,54,9,2,0.0,2635664671,Frank Mulder,0,-0.0291855379334779,0.0585196112869768
+2058879750,How (much) do developers test,2015,15,29,3,1.0,2148263294,Moritz Beller,0,0.5182367371860604,-0.0359660275119465
+2094565226,An Assessment Methodology for Trace Reduction Techniques,2008,0,0,2,0.199499,2137467583,Leon Moonen,0,-0.0291855379334779,0.0585196112869768
+2098765895,Using association rules to study the co-evolution of production &amp; test code,2009,7,19,2,0.0,335874646,Martin Pinzger,0,-0.0291855379334779,0.0585196112869768
+2102318902,Visualizing Testsuites to Aid in Software Understanding,2007,28,49,4,1.0,1984857593,B. Cornelissen,0,0.0534980472725182,0.6444428004817006
+2123190302,Aiding Software Developers to Maintain Developer Tests,2012,25,19,2,0.0,2663420987,Victor Hurdugaci,0,-0.0291855379334779,0.0585196112869768
+2120250853,On How Developers Test Open Source Software Systems,2007,24,3,1,1.0,2291851674,Andy Zaidman,0,-0.0291855379334779,0.0585196112869768
+2123229837,Automatic identification of key classes in a software system using webmining techniques,2008,51,56,1,1.0,2291851674,Andy Zaidman,0,-0.0291855379334779,0.0585196112869768
+2129048557,Trace visualization for program comprehension A controlled experiment,2009,22,36,2,1.0,1984857593,B. Cornelissen,0,-0.5858771665552741,0.2641527235267396
+2132123694,Quality criteria for just-in-time requirements just enough just-in-time ,2015,13,5,1,1.0,2291851674,Andy Zaidman,0,-0.0291855379334779,0.0585196112869768
+2126472981,Scalability solutions for program comprehension through dynamic analysis,2006,82,28,1,1.0,2291851674,Andy Zaidman,0,-0.5858771665552741,0.2641527235267396
+2129728017,An assessmentmethodology for trace reduction techniques,2008,30,17,3,1.0,1984857593,B. Cornelissen,0,-0.0291855379334779,0.0585196112869768
+2115919801,Mining Software Repositories to Study Co-Evolution of Production &amp; Test Code,2008,23,72,4,0.142807,1986602002,A. van Deursen,0,-0.0291855379334779,0.0585196112869768
+2109938609,Regaining lost knowledge through dynamic analysis and aspect orientation $an industrial experience report,2006,23,23,5,0.0,2030505841,Serge Demeyer,0,-0.0291855379334779,0.0585196112869768
+2119033847,Applying Webmining techniques to execution traces to support the program comprehension process,2005,27,65,1,1.0,2291851674,Andy Zaidman,0,-0.14130990982849,-0.2217319337914215
+2127938826,Studying the co-evolution of production and test code in open source and industrial developer test processes through repository mining,2011,74,80,1,1.0,2291851674,Andy Zaidman,0,-0.0291855379334779,0.0585196112869768
+2119472370,Splitting a Large Software Archive for Easing Future Software Evolution - An Industrial Experience Report using Formal Concept Analysis,2008,15,7,2,0.0,2045471142,M. Glorie,0,-0.0291855379334779,0.0585196112869768
+2113677027,Using aspect orientation in legacy environments for reverse engineering using dynamic analysis-An industrial experience report,2009,91,9,4,0.0,93654309,Wolfgang De Meuter,0,-0.5858771665552741,0.2641527235267396
+2137619003,A Controlled Experiment for Program Comprehension through Trace Visualization,2011,55,90,2,1.0,1984857593,B. Cornelissen,0,-0.0291855379334779,0.0585196112869768
+2123087757,Workshop on Program Comprehension through Dynamic Analysis (PCODA &amp;#145;05),2005,3,8,4,0.0,236382134,Orla Greevy,0,-0.5858771665552741,0.2641527235267396
+2163335807,How Webmining and Coupling Metrics Improve Early Program Comprehension,2006,7,23,1,1.0,2291851674,Andy Zaidman,0,-0.5858771665552741,0.2641527235267396
+2157943826,A Systematic Survey of Program Comprehension through Dynamic Analysis,2009,155,288,2,1.0,1984857593,B. Cornelissen,0,-0.5858771665552741,0.2641527235267396
+2214958829,The impact of test case summaries on bug fixing performance an empirical investigation,2016,56,48,4,0.25,152228149,Sebastiano Panichella,0,-0.0291855379334779,0.0585196112869768
+2289888044,How to catch em all WatchDog a family of IDE plug-ins to assess testing,2016,12,8,5,0.790698,2148263294,Moritz Beller,0,-0.0291855379334779,0.0585196112869768
+2318546720,Identifying problems with legacy software; preliminary findings of the ARRIBA project,2003,10,7,1,1.0,2291851674,Andy Zaidman,0,-0.0291855379334779,0.0585196112869768
+2339061030,Oops my tests broke the build An analysis of Travis CI builds with GitHub,2016,25,20,3,0.790698,2148263294,Moritz Beller,0,-0.0291855379334779,0.0585196112869768
+2561923752,SATT Tailoring Code Metric Thresholds for Different Software Architectures,2016,42,13,3,0.20808,1742422144,Mauricio Aniche,0,-0.0291855379334779,0.0585196112869768
+2541789187,AOP for legacy environments a case study,2005,24,3,3,0.0,2015916988,Kris De Schutter,0,0.35931953284580015,-0.5674908185703834
+2575346968,Applying Dynamic Analysis in a Legacy Context An Industrial Experience Report,2005,12,7,3,0.0,2015916988,Kris De Schutter,0,-0.5858771665552741,0.2641527235267396
+2733244695,Oops my tests broke the build an explorative analysis of Travis CI with GitHub,2017,37,55,3,0.769231,2148263294,Moritz Beller,0,-0.0291855379334779,0.0585196112869768
+2725758135,An exploratory study on the relationship between changes and refactoring,2017,43,16,2,0.542373,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2601885821,UAV Warnings from multiple Automated Static Analysis Tools at a glance,2017,9,5,7,0.0,2598036534,Tim Buckers,0,-0.0291855379334779,0.0585196112869768
+2594575963,Lightweight detection of Android-specific code smells The aDoctor project,2017,18,22,4,0.542373,1987128262,Fabio Palomba,0,0.16507363120930635,-0.2696288139740148
+2770290320,Developer Testing in the IDE Patterns Beliefs and Behavior,2019,85,14,6,0.60925,2148263294,Moritz Beller,0,-0.0291855379334779,0.0585196112869768
+2756039569,The scent of a smell an extensive comparison between textual and structural smells,2018,104,29,3,0.542373,1987128262,Fabio Palomba,0,-0.0291855379334779,0.0585196112869768
+2794673032,On the dichotomy of debugging behavior among programmers,2018,55,15,4,0.657143,2148263294,Moritz Beller,0,-0.0291855379334779,0.0585196112869768
+2795566764,Context is king The developer perspective on the usage of static analysis tools,2018,39,20,5,0.0,2227074202,Carmine Vassallo,0,-0.5232362786620735,0.5776155288667976
+2809088578,How do community smells influence code smells,2018,16,9,4,0.542373,1987128262,Fabio Palomba,0,-0.0291855379334779,0.0585196112869768
+2888852476,Poster How Do Community Smells Influence Code Smells ,2018,17,2,5,0.0,248023835,Rocco Oliveto,0,-0.0291855379334779,0.0585196112869768
+2901847436,Workshop on Object-Oriented Reengineering,2006,9,2,7,0.0,1974294565,Yann GaÃ«l GuÃ©hÃ©neuc,0,0.35931953284580015,-0.5674908185703834
+2916504796,Delft Students on Software Architecture DESOSA 2017,2017,0,0,1,1.0,2291851674,Andy Zaidman,0,-0.0291855379334779,0.0585196112869768
+2895149850,What if a bug has a different origin making sense of bugs without an explicit bug introducing change,2018,19,7,2,1.0,2511354581,Gema RodrÃ­guez PÃ©rez,0,-0.0291855379334779,0.0585196112869768
+2922320079,Not All Bugs Are the Same Understanding Characterizing and Classifying Bug Types,2019,89,2,3,0.0,2724813498,Gemma Catolino,0,-0.0291855379334779,0.0585196112869768
+2918249627,The smell of fear On the relation between test smells and flaky tests,2019,87,14,2,0.424649,1987128262,Fabio Palomba,0,-0.0291855379334779,0.0585196112869768
+2900961173,On the Relation of Test Smells to Software Code Quality,2018,74,26,3,0.0,2630675625,Davide Spadini,0,-0.0006260477612278006,-0.26942038845386046
+2962862037,Not All Bugs Are the Same Understanding Characterizing and Classifying the Root Cause of Bugs,2019,91,0,3,0.0,2724813498,Gemma Catolino,0,-0.0291855379334779,0.0585196112869768
+2950477885,On How Developers Test Open Source Software Systems,2007,18,4,1,1.0,2291851674,Andy Zaidman,0,-0.0006260477612278006,-0.26942038845386046
+2950800443,A Quality Framework for Agile Requirements A Practitioners Perspective,2014,22,0,2,0.0,2593349141,Petra Heck,0,0.0534980472725182,0.6444428004817006
+3004570974,How bugs are born a model to identify how bugs are introduced in software components,2020,111,1,4,1.0,2511354581,Gema RodrÃ­guez PÃ©rez,0,-0.0291855379334779,0.0585196112869768
+3010977706,Delft Students on Software Architecture DESOSA 2018,2018,0,0,2,0.20808,1742422144,Mauricio Aniche,0,-0.0291855379334779,0.0585196112869768
+2152372482,On the Interplay Between Software Testing and Evolution and its Effect on Program Comprehension,2008,0,36,4,0.199499,2137467583,Leon Moonen,0,-0.0291855379334779,0.0585196112869768

@@ -42,7 +42,7 @@ def f2(precision,recall):
     return (recall*precision*5)/(recall+4*precision)
 
 from sklearn.model_selection import GridSearchCV
-
+df_source = pd.read_csv('non_graph.csv')
 Precision = []
 Recall = []
 F_measure = []
@@ -56,8 +56,7 @@ ACC = []
 Name=[[] for i in range(1201)]
 
 for r in range(100):
-    df = pd.read_csv('non_graph.csv')
-    df_copy = df.copy()
+    df = df_source.copy()
     y_pred = []
     y_real = []
     y_proba_minority = []
@@ -111,7 +110,8 @@ for r in range(100):
         pred = clf.predict(Xtest)
 
         for idx in range(NameXtest.shape[0]):
-            # print(name[idx],preds[idx])
+            print(name[idx],pred[idx])
+            print(NameXtest[idx],len(Name))
             Name[NameXtest[idx]].append(pred[idx])
         
         # pred_proba = grid_search.best_estimator_.predict_proba(Xtest)

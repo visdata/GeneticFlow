@@ -1,0 +1,43 @@
+80102684,Examining Overfitting in Relevance Feedback Sabir Research at TREC 2007,2007,7,3,1,1.0,2304167133,Chris Buckley,0,-0.1916888409096968,-0.26501256474732954
+97277479,Using Query Zoning and Correlation Within SMART TREC 5,1996,0,62,1,1.0,2304167133,Chris Buckley,0,-0.49844035089052485,0.0386446235403001
+187339237,Massive query expansion for relevance feedback,1996,0,2,1,1.0,2304167133,Chris Buckley,0,0.6674652465049129,-0.15039543819628487
+236988029,Relevance Feedback Track Overview TREC 2008,2008,0,32,1,1.0,2304167133,Chris Buckley,0,0.003708468606338,0.082832279151172
+1515778651,Automatic Retrieval With Locality Information Using SMART,1992,0,122,1,1.0,2304167133,Chris Buckley,0,-0.5914439967684072,-0.1545749892909346
+1525341925,Automatic Query expansion using SMART TREC 3,1994,0,441,1,1.0,2304167133,Chris Buckley,0,-0.06709973560736317,-0.016906612390014182
+1483301080,On the Use of Spreading Activation Methods in Automatic Information Retrieval,1988,10,116,2,0.0,2101230262,Gerard Salton,0,-0.13275296294680305,-0.071629888206014
+1554385128,New Retrieval Approaches Using SMART TREC 4,1995,0,316,1,1.0,2304167133,Chris Buckley,0,-0.8256812710016679,-0.4101365510129921
+1518844605,SMART High Precision TREC 7,1998,0,12,1,1.0,2304167133,Chris Buckley,0,0.003708468606338,0.082832279151172
+1555286071,A Generalized Term Dependence Model in Information Retrieval,1983,0,101,3,0.0,2101230262,Gerard Salton,0,-0.476941607179105,1.1821034663755665
+1530211485,Automatic routing and ad-hoc retrieval using SMART TREC 2,1993,0,55,1,1.0,2304167133,Chris Buckley,0,-0.01657107088421793,0.035389748403282274
+1487077715,Probabilistic learning approaches for indexing and retrieval with the TREC-2 collection,1993,0,19,3,0.218372,103064199,Norbert Fuhr,0,-0.2524195920051036,-0.005898616377979171
+1886681306,An evaluation of term dependence models in information retrieval,1982,14,60,2,0.0,2101230262,Gerard Salton,0,-0.1916888409096968,-0.26501256474732954
+1822645491,Query Expansion Seen Through Return Order of Relevant Documents,2000,6,4,2,0.0,2571636532,Walter Liggett,0,-0.1029618939806145,0.040434369851773004
+1970945111,The effect of adding relevance information in a relevance feedback environment,1994,12,292,1,1.0,2304167133,Chris Buckley,0,1.116060298488493,-0.2793644663048043
+1978394996,Term Weighting Approaches in Automatic Text Retrieval,1988,48,6919,2,0.0,2101230262,Gerard Salton,0,0.10376618546582606,0.2393719130754711
+1999817920,Improving automatic query expansion,1998,18,586,3,0.588235,2104374829,Mandar Mitra,0,-0.1029618939806145,0.040434369851773004
+1998074973,SIGIR 2004 workshop RIA and &quot;where can IR go from here &quot;,2004,2,17,2,0.0,2170802329,Donna Harman,0,-0.11300819442795465,0.09518744858596301
+1987690005,The effect of topic set size on retrieval experiment error,2002,11,205,2,0.0,2047986224,Ellen M. Voorhees,0,0.003708468606338,0.082832279151172
+2000569744,Pivoted document length normalization,1996,12,836,2,0.666667,2106879214,Amit Singhal,0,0.003708468606338,0.082832279151172
+2000672666,Improving Retrieval Performance by Relevance Feedback,1997,17,1378,2,0.0,2101230262,Gerard Salton,0,0.1828270559715573,-0.4915447968200507
+1997211290,Challenges in information retrieval and language modeling report of a workshop held at the center for intelligent information retrieval University of Massachusetts Amherst September 2002,2003,0,184,4,0.0,2097030689,James Allan,0,0.4874277944959379,0.012148398733950605
+1988711048,Document Length Normalization,1995,19,184,4,0.666667,2106879214,Amit Singhal,0,1.116060298488493,-0.2793644663048043
+2010652031,A probabilistic learning approach for document indexing,1991,29,198,2,0.218372,103064199,Norbert Fuhr,0,-0.26112233984863376,0.5364069443505228
+2030603245,Why current IR engines fail,2004,12,98,1,1.0,2304167133,Chris Buckley,0,-0.36869828092002566,0.08205872494509575
+2013104098,Why current IR engines fail,2009,11,19,1,1.0,2304167133,Chris Buckley,0,0.003708468606338,0.082832279151172
+2025486348,Overview of the Reliable Information Access Workshop,2009,25,55,2,0.0,2170802329,Donna Harman,0,1.116060298488493,-0.2793644663048043
+2025561764,Topic prediction based on comparative retrieval rankings,2004,1,18,1,1.0,2304167133,Chris Buckley,0,-0.7575656572162316,0.7052473103661678
+2036448375,Bias and the limits of pooling,2006,4,50,1,1.0,2304167133,Chris Buckley,0,0.003708468606338,0.082832279151172
+2055452728,Automatic text structuring and summarization,1997,19,409,4,0.0,2101230262,Gerard Salton,0,0.08554852316219219,0.2029022208682141
+2046983134,Approaches to passage retrieval in full text information systems,1993,16,361,3,0.0,2101230262,Gerard Salton,0,0.7034024511548059,-0.33676939902188135
+2071664212,OHSUMED an interactive retrieval evaluation and new large test collection for research,1994,14,720,2,0.0,407877175,William R. Hersh,0,-0.1916888409096968,-0.26501256474732954
+2066667100,Optimization of inverted vector searches,1985,11,210,1,1.0,2304167133,Chris Buckley,0,0.003708468606338,0.082832279151172
+2073722401,Evaluating Evaluation Measure Stability,2000,26,528,1,1.0,2304167133,Chris Buckley,0,0.003708468606338,0.082832279151172
+2062626555,Swapping documents and terms,2009,15,4,4,0.0,2098618034,Charles L. A. Clarke,0,-0.11300819442795465,0.09518744858596301
+2102698119,Bias and the limits of pooling for large collections,2007,26,89,1,1.0,2304167133,Chris Buckley,0,0.003708468606338,0.082832279151172
+2087710618,On the use of spreading activation methods in automatic information,1988,13,99,2,0.0,2101230262,Gerard Salton,0,-0.13275296294680305,-0.071629888206014
+2088004917,Automatic routing and retrieval using Smart TREC-2,1995,16,55,1,1.0,2304167133,Chris Buckley,0,-0.09067408679252066,-0.09425968300654039
+2108521387,Evaluation of an adaptive linear model,1991,0,19,4,0.0,2147688047,S. K. M. Wong,0,1.116060298488493,-0.2793644663048043
+2112118823,Optimizing document indexing and search term weighting based on probabilistic models,1992,0,16,2,0.218372,103064199,Norbert Fuhr,0,-0.7586174463349226,-0.06643735449352123
+2109244020,Retrieval evaluation with incomplete information,2004,18,560,1,1.0,2304167133,Chris Buckley,0,-0.1826651000115661,0.11867050058969215
+2150240006,The NRRC reliable information access (RIA) workshop,2004,2,107,2,0.0,2170802329,Donna Harman,0,0.003708468606338,0.082832279151172
+2161215989,Automatic Query Formulations in Information Retrieval,1982,11,64,2,0.0,2101230262,Gerard Salton,0,0.4878643641629618,0.0019601115471040986

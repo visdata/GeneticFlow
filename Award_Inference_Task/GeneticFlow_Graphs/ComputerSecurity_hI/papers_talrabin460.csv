@@ -1,0 +1,44 @@
+56672870,Theory of Cryptography,2006,0,2,2,0.102497,1686185850,Shai Halevi,0,0.03149052311918321,-2.1001118381520993
+111410157,Security for Signcryption The Two-User Model,2010,8,1,2,0.666667,2105877212,Jee Hea An,0,-0.6147930843677044,-1.1081858490589107
+1550569922,Non-Interactive Hierarchical Identity-Based Key-Agreement,2008,12,16,4,0.082565,1686185850,Shai Halevi,0,1.120750672373645,-0.5684112084175822
+1481319026,Undeniable certificates for digital signature verification,1997,9,99,3,0.631579,2025616804,Hugo Krawczyk,0,-0.32156762050600085,-2.1476791342478676
+1552242122,Okamoto-Tanaka revisited fully authenticated diffie-hellman with minimal overhead,2010,37,35,3,0.199163,2108521744,Rosario Gennaro,0,-1.4251902798605163,-2.567550089121517
+1563226694,RSA-Based Undeniable Signatures,1997,23,98,2,0.714286,2108521744,Rosario Gennaro,0,0.334986667074639,-0.9833517234702525
+1509780598,Fair e-Lotteries and e-Casinos,2001,9,17,2,0.402784,307687659,Eyal Kushilevitz,0,0.2977030333544188,0.42209627204681427
+1518949160,Secure applications of Pedersens distributed key generation protocol,2003,58,31,4,0.332887,2108521744,Rosario Gennaro,0,0.09596086992598328,-1.5454274601122402
+1573958126,Collective Coin Tossing Without Assumptions nor Broadcasting,1990,10,13,2,0.0,699581604,Silvio Micali,0,0.4631806436460231,-0.8912216054891566
+1625999058,REMOTE AUTHENTICATION BASED ON CHALLENGE-RESPONSE USING DIGITAL CERTIFICATES,2010,10,2,4,0.0,321560850,Firas Bouz,0,-0.9056655902054789,-1.0070077447939272
+1922219439,Chameleon hashing and signatures,1998,6,258,2,0.631579,2025616804,Hugo Krawczyk,0,-0.4803287619148211,-1.212417619661378
+1601946101,Strongly-Resilient and Non-interactive Hierarchical Key-Agreement in MANETs,2008,17,49,4,0.237649,2108521744,Rosario Gennaro,0,-0.29230110803139064,-1.4943949072576637
+1584110599,Designing a side channel resistant random number generator,2010,31,5,5,0.0,2319998151,Suresh Chari,0,-0.058387149709562845,-1.7992064387785258
+1865528730,Advanced Homomorphic Encryption its Applications and Derivatives (AHEAD),2013,0,0,6,0.0,83353782,Daniele Micciancio,0,0.7427698114395846,-0.718136482595336
+1970464137,On the composition of authenticated Byzantine Agreement,2006,33,16,3,0.0963366,30238620,Yehuda Lindell,0,-0.4406260288999169,-0.7507909772910588
+1965492831,Verifiable secret sharing and multiparty protocols with honest majority,1989,10,678,1,1.0,2131142900,Tal Rabin,0,0.801450887830274,-0.2534749008346738
+1977802313,Information-Theoretically Secure Protocols and Security under Composition,2010,0,24,3,0.403944,307687659,Eyal Kushilevitz,0,0.4081972967213953,-0.17796046871139448
+2054701830,RSA-Based Undeniable Signatures,2007,27,75,2,0.246378,2108521744,Rosario Gennaro,0,0.26824413041153183,-1.5913816720000464
+2066866752,Robust sharing of secrets when the dealer is honest or cheating,1994,13,80,1,1.0,2131142900,Tal Rabin,0,0.31584308015665996,-0.3110186311617659
+2065733153,Secure distributed storage and retrieval,2000,29,100,4,0.0,2955442132,Juan A. Garay,0,0.5815978657807245,-0.7427879367088847
+2078110310,Secure Computation Without Authentication,2011,29,11,5,0.467922,2199786071,Boaz Barak,0,-0.21477728077036407,-1.0133292730987127
+2097651164,Algorithmic Tamper-Proof (ATP) Security Theoretical Foundations for Security Against Hardware Tampering,2004,31,163,5,0.332262,2108521744,Rosario Gennaro,0,-0.5834101177579358,-0.968670937150463
+2103741267,Authenticating Mandatory Access Controls and Preserving Privacy for a High-Assurance Smart Card,2003,12,20,5,0.0,1434827990,Helmut Scherzer,0,-1.8834138947397607,-1.1077755765036557
+2130513648,Secure computation without authentication,2005,36,79,5,0.467922,2199786071,Boaz Barak,0,0.04775747989473801,-1.053948651749107
+2113029047,Biometric authentication system with encrypted models,1999,9,173,3,0.102497,1686185850,Shai Halevi,0,-0.3575088421623343,-0.38279754871433447
+2113929724,Secure distributed key generation for discrete-log based cryptosystems,1999,18,310,4,0.714286,2108521744,Rosario Gennaro,0,0.024858736274085205,-1.8893461319180977
+2156867996,Information-theoretically secure protocols and security under composition,2006,29,46,3,0.403944,307687659,Eyal Kushilevitz,0,0.5889012270113873,-0.3728422289462052
+2279503722,Efficient Multiparty Computations with Dishonest Minority,1998,20,23,2,0.0,2072459584,Stefan Dziembowski,0,1.352059806567811,-0.0584414761887266
+2464092583,Authenticating mandatory access controls and preserving privacy for a high-assurance smart card,2003,0,0,5,0.0,1434827990,Helmut Scherzer,0,-2.2305412650982785,-1.868973834601974
+2534079060,Attribute-based Key Exchange with General Policies,2016,33,9,5,0.0,2469209240,Vladimir Kolesnikov,0,-0.18893474713117347,-0.773850364131144
+2612087312,RSA-based undeniable signatures,1997,0,31,2,0.714286,2108521744,Rosario Gennaro,0,0.19964378051406625,-1.3235510052051787
+2612466437,Adaptive security for threshold cryptosystems,1999,0,30,5,0.0655242,687553606,Ran Canetti,0,0.15101004970200183,-1.7263409401456105
+2913488147,Proceedings of the Third conference on Theory of Cryptography,2006,0,1,2,0.102497,1686185850,Shai Halevi,0,0.3171484069971384,-0.13992525839030945
+2951476788,On the Security of Joint Signature and Encryption,2002,0,0,3,0.666667,2105877212,Jee Hea An,0,0.155870422438688,-0.3611899258997246
+2951833237,Efficient RSA Key Generation and Threshold Paillier in the Two-Party Setting,2011,0,1,3,0.0,2061601819,Carmit Hazay,0,-0.1108584712340791,-1.4264438214172919
+2954626013,On the Local Leakage Resilience of Linear Secret Sharing Schemes,2019,0,0,4,0.426169,2948587319,Fabrice Benhamouda,0,0.6560362883020502,-1.1687213931318021
+2950715934,The Round Complexity of Verifiable Secret Sharing Revisited,2008,0,1,3,0.0,2136263034,Arpita Patra,0,0.8250815529053342,-0.1832487528325303
+2953024208,Information-Theoretically Secure Protocols and Security Under Composition,2009,0,0,3,0.403944,307687659,Eyal Kushilevitz,0,0.0040557659796233,0.2757546058061082
+2963664972,Cryptography for #MeToo,2019,24,2,3,0.0,2964202986,Benjamin Kuykendall,0,0.3171484069971384,-0.13992525839030945
+2949311747,Secure Two-Party Computation with Fairness - A Necessary Design Principle,2017,0,0,2,0.0389912,30238620,Yehuda Lindell,0,1.9175572471526876,-0.027240775524054045
+2989946494,On Fully Secure MPC with Solitary Output,2019,33,0,5,0.0507787,1686185850,Shai Halevi,0,1.0148279357837102,-0.17555436131222457
+3021653443,Can a Blockchain Keep a Secret,2020,0,0,7,0.426169,2948587319,Fabrice Benhamouda,0,0.03857885209080565,0.668590409100547
+3014643566,FALCON Honest-Majority Maliciously Secure Framework for Private Deep Learning,2020,40,0,6,0.0,2651895313,Sameer Wagh,0,0.559705677021802,0.2302236680676538
+1546996295,Adaptive Security for Threshold Cryptosystems,1999,30,97,6,0.0655242,687553606,Ran Canetti,0,0.15101004970200183,-1.7263409401456105

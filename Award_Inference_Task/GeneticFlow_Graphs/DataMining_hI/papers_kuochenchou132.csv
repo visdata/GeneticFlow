@@ -1,0 +1,40 @@
+1807324513,iEnhancer-2L a two-layer predictor for identifying enhancers and their strength by pseudo k-tuple nucleotide composition,2016,78,202,5,0.913043,2682594595,Bin Liu,0,0.1656019551103819,0.40049106199639006
+1970399546,Cell-PLoc 20 an improved package of web-servers for predicting subcellular localization of proteins in various organisms,2010,111,180,1,1.0,2119095263,Kuo Chen Chou,0,0.003708468606338,0.082832279151172
+1991141438,iPPI-Esml An ensemble classifier for identifying the interactions of proteins by incorporating their physicochemical properties and wavelet transforms into PseAAC,2015,159,195,2,0.625,2113519905,Jianhua Jia,0,0.4964107579480848,0.27902255362833134
+2038210560,Predicting protein fold pattern with functional domain and sequential evolution information,2009,67,78,1,1.0,2119095263,Kuo Chen Chou,0,0.43162625009792,0.20195636031746017
+2043976158,Predicting eukaryotic protein subcellular location by fusing optimized evidence-theoretic K-Nearest Neighbor classifiers,2006,34,215,1,1.0,2119095263,Kuo Chen Chou,0,0.003708468606338,0.082832279151172
+2069866267,Quat-2L a web-server for predicting protein quaternary structural attributes,2011,57,47,1,1.0,2119095263,Kuo Chen Chou,0,0.003708468606338,0.082832279151172
+2065533582,Methodology development for predicting subcellular localization and other attributes of proteins,2007,134,26,1,1.0,2119095263,Kuo Chen Chou,0,0.43162625009792,0.20195636031746017
+2082247817,Prediction of protein signal sequences and their cleavage sites,2001,12,97,1,1.0,2119095263,Kuo Chen Chou,0,0.003708468606338,0.082832279151172
+2087548537,Gneg-mPLoc a top-down strategy to enhance the quality of predicting subcellular localization of Gram-negative bacterial proteins,2010,38,110,1,1.0,2119095263,Kuo Chen Chou,0,0.003708468606338,0.082832279151172
+2132866237,Recent advances in predicting protein classification and their applications to drug development,2013,152,17,1,1.0,2119095263,Kuo Chen Chou,0,0.003708468606338,0.082832279151172
+2124507004,A Novel Approach Predicting the Signal Peptides and Their Cleavage Sites,2007,6,1,1,1.0,2119095263,Kuo Chen Chou,0,-0.34559388053641205,0.2181468359787021
+2151180344,Ensemble classifier for protein fold pattern recognition,2006,36,282,2,0.0,2122707581,Hong Bin Shen,0,0.8305380207459715,-0.14560811233827017
+2146628513,Combining evolutionary information extracted from frequency profiles with sequence-based kernels for protein remote homology detection,2014,70,232,8,0.872727,2682594595,Bin Liu,0,0.003708468606338,0.082832279151172
+2289624545,Short Communication Prediction of protein structural classes by support vector machines,2002,4,1,1,1.0,2119095263,Kuo Chen Chou,0,0.003708468606338,0.082832279151172
+2321308395,iDHS-EL identifying DNase I hypersensitive sites by fusing three different modes of pseudo nucleotide composition into an ensemble learning framework,2016,73,130,3,0.913043,2682594595,Bin Liu,0,0.010327368771397574,0.13678635873796574
+2510820101,dRHP-PseRA detecting remote homology proteins using profile-based pseudo protein sequence and rank aggregation,2016,35,59,1,1.0,2119095263,Kuo Chen Chou,0,0.003708468606338,0.082832279151172
+2514430732,iRSpot-EL identify recombination spots with an ensemble learning approach,2017,46,196,4,1.0,2682594595,Bin Liu,0,-0.006610561349091104,0.290583242566998
+2642879556,iRNA-2methyl Identify RNA 2-O-methylation Sites by Incorporating Sequence-Coupled Effects into General PseKNC and Ensemble Classifier,2017,0,74,1,1.0,2119095263,Kuo Chen Chou,0,0.4964107579480848,0.27902255362833134
+2735158968,pLoc-mPlant predict subcellular localization of multi-location plant proteins by incorporating the optimal GO information into general PseAAC,2017,64,132,1,1.0,2119095263,Kuo Chen Chou,0,-0.2983293989047047,-0.1727161943749555
+2759893831,pLoc-mGpos Incorporate Key Gene Ontology Information into General PseAAC for Predicting Subcellular Localization of Gram-Positive Bacterial Proteins,2017,122,91,1,1.0,2119095263,Kuo Chen Chou,0,0.003708468606338,0.082832279151172
+2807186140,iEnhancer-EL identifying enhancers and their strength with ensemble learning approach,2018,88,62,4,1.0,2682594595,Bin Liu,0,-0.19489009952094138,0.03799683156726302
+2800333284,iProt-Sub a comprehensive package for accurately mapping and predicting protease-specific substrates and cleavage sites,2019,137,93,7,0.500202,2151785084,Jiangning Song,0,-0.25023896793326905,0.13037718530513653
+2793168264,iFeature a Python package and web server for features extraction and selection from protein and peptide sequences,2018,36,94,10,1.0,2675732366,Zhen Chen,0,-0.19325329695232027,0.5375516399986746
+2804489036,iRO-3wPseKNC identify DNA replication origins by three-window-based PseKNC,2018,83,67,4,1.0,2682594595,Bin Liu,0,-0.06868386095689515,0.24205629126618533
+2884869637,pLoc_bal-mAnimal predict subcellular localization of animal proteins by balancing training dataset and PseAAC,2019,105,58,4,1.0,2766295256,Xiang Cheng,0,-0.06868386095689515,0.24205629126618533
+2967960129,iLearn an integrated platform and meta-learner for feature engineering machine-learning analysis and modeling of DNA RNA and protein sequence data,2020,67,21,5,0.0,699492180,Tatsuya Akutsu,0,-0.3475431703646856,0.2547936550608362
+2278741011,pSuc-Lys Predict lysine succinylation sites in proteins with PseAAC and ensemble random forest approach,2016,108,186,3,0.625,2113519905,Jianhua Jia,0,0.31484412112737625,0.2579936097006229
+2472513547,iPTM-mLys identifying multiple lysine PTM sites and their different types,2016,79,169,6,0.0,2149645240,Wang Ren Qiu,0,0.1628706839115414,0.3057558409274815
+2530181556,iATC-mISF a multi-label classifier for predicting the classes of anatomical therapeutic chemicals,2016,49,155,5,1.0,2560334254,Xiang Cheng,0,0.24072543655857057,0.2683976746720396
+2736742854,pLoc-mAnimal predict subcellular localization of animal proteins with both single and multiple sites,2017,63,125,6,1.0,2560334254,Xiang Cheng,0,-0.06868386095689515,0.24205629126618533
+2612935389,POSSUM a bioinformatics toolkit for generating numerical sequence feature descriptors based on PSSM profiles,2017,26,59,9,1.0,2990883863,Jiawei Wang,0,-0.06868386095689515,0.24205629126618533
+2766389776,PROSPERous high-throughput prediction of substrate cleavage sites for 90 proteases with improved accuracy,2018,24,68,7,0.500202,2151785084,Jiangning Song,0,-0.06868386095689515,0.24205629126618533
+2754289562,iPromoter-2L a two-layer predictor for identifying promoters and their types by multi-window-based PseKNC,2018,103,158,4,1.0,2682594595,Bin Liu,0,0.003708468606338,0.082832279151172
+2767196078,pLoc-mHum predict subcellular localization of multi-location human proteins via general PseAAC to winnow out the crucial GO information,2018,108,103,3,1.0,2766295256,Xiang Cheng,0,-0.06868386095689515,0.24205629126618533
+2810225085,Quokka a comprehensive tool for rapid and accurate prediction of kinase family-specific phosphorylation sites in the human proteome,2018,56,61,13,0.884615,2773231074,Fuyi Li,0,0.003708468606338,0.082832279151172
+2808950870,iLoc-lncRNA predict the subcellular location of lncRNAs by incorporating octamer composition into general PseKNC,2018,148,90,9,0.0,2529709972,Zhen Dong Su,0,-0.06868386095689515,0.24205629126618533
+2888353590,Computational analysis and prediction of lysine malonylation sites by exploiting informative features in an integrative machine-learning framework,2019,77,25,8,0.0,2795306866,Yanju Zhang,0,-0.3372442124032681,0.2779877995329391
+2894836881,Large-scale comparative assessment of computational predictors for lysine post-translational modification sites,2019,154,27,14,1.0,2675732366,Zhen Chen,0,-0.25023896793326905,0.13037718530513653
+2909409778,MULTiPly a novel multi-layer predictor for discovering general and specific types of promoters,2019,81,22,8,0.0,2908784128,Meng Zhang,0,-0.25023896793326905,0.13037718530513653
+2899105530,Bastion3 A two-layer ensemble predictor of type III secreted effectors,2019,75,20,11,0.0,2540184320,Jiawei Wang,0,-0.597477513615171,0.3669753938023948

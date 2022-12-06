@@ -1,0 +1,44 @@
+20776297,Preface to the special issue on spatial database systems,1994,0,23,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,2.4306690863263998,0.9755320659920255
+174522719,Algebras for Moving Objects and Their Implementation,2004,13,0,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,-0.1547134023097666,0.2945887380901165
+62227241,SECONDO a platform for moving objects database research and for publishing and integrating research implementations,2010,18,70,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.049446523278535305,0.1306853129056801
+257129114,Mobility Data Trajectory Databases,2013,0,5,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.014532710543751099,0.030944858938630852
+1568752909,Architectures and implementations of spatio-temporal database management systems,2003,66,23,5,0.0,2616918894,Martin Breunig,0,1.7014352852043624,0.5094823096100995
+1488678234,Moving Objects Databases,2005,29,400,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,-0.46893397788284524,0.07728939382804885
+1169198338,The Constraint Database Approach,2005,0,0,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,1.156256010792543,0.27153135884934354
+1542046958,SECONDO/QP Implementation of a Generic Query Processor,1999,24,10,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.7215975991611812,0.3052417628859806
+1489285575,GraphDB Modeling and Querying Graphs in Databases,1994,30,148,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.119739122485096,0.4583397011045227
+1560538750,Gral an extensible relational database system for geometric applications,1989,28,111,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,1.6409085912615227,0.25632080636050475
+1562735428,Geo-Relational Algebra A Model and Query Language for Geometric Database Systems,1988,30,152,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.9333871313152606,0.1669012758565275
+1605723650,Advances in spatial databases 6th International Symposium SSD99 Hong Kong China July 20-23 1999 proceedings,1999,0,3,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,-0.5534199849137634,0.7991027271987935
+1680167204,Geo-Relational Algebra A Model and Query Language for Geometric Database Systems,1988,1,1,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,1.1555794493224445,0.2533971753562493
+1766171436,Spatio-Temporal Data Types An Approach to Modeling and Querying Moving Objects in Databases,1999,47,337,2,0.666667,229879565,Martin Erwig,0,-0.094630293518348,-0.024586302615796838
+1651273720,Realms A Foundation for Spatial Data Types in Database Systems,1993,21,72,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.6125884836829152,-0.13891488346972308
+1981930699,GMOBench Benchmarking generic moving objects,2015,62,1,2,0.333333,2124119034,Jianqiu Xu,0,-0.1232715727120712,0.2131450373911843
+1984525813,BerlinMOD a benchmark for moving object databases,2009,56,106,3,0.0,2068921369,Christian DÃ¼ntgen,0,0.09526370926126411,0.008306466226981798
+1967500877,Using Dijkstras algorithm to incrementally find the k-Nearest Neighbors in spatial network databases,2006,11,26,2,0.552632,2343837806,Victor Teixeira de Almeida,0,-0.0041099411153885,0.0447066884760059
+1994531896,A New Approach for Spatiotemporal Pattern Queries in Trajectory Databases,2010,6,3,2,1.0,2129924356,Mahmoud Sakr,0,0.04096502533685727,0.014095257650737034
+2015612071,Realm-based spatial data types the ROSE algebra,1995,26,175,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.06140752034071926,-0.18279384943180443
+2032521898,A foundation for representing and querying moving objects,2000,34,658,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.11684981489699883,0.09393327342500649
+2039975744,Representation of periodic moving objects in databases,2006,15,7,3,0.73913,2304815925,Thomas Behr,0,-0.00492109496191035,-0.1728987636093571
+2038230692,A data model and data structures for moving objects databases,2000,20,357,2,0.818182,2071995905,Luca Forlizzi,0,0.40963111945168673,0.22400118541580372
+2033819769,Simple and efficient coupling of Hadoop with a database engine,2013,30,0,2,1.0,2442344940,Jiamin Lu,0,0.3031526328907734,0.07531767333977767
+2041085661,How to Build Your Own Moving Objects Database System,2007,11,4,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,-0.00492109496191035,-0.1728987636093571
+2034235801,Exploring spatiotemporal patterns by integrating visual analytics with a moving objects database system,2011,6,13,5,1.0,2129924356,Mahmoud Sakr,0,-0.0041099411153885,0.0447066884760059
+2075440920,Modeling and querying moving objects in networks,2006,61,192,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.13139724585134352,0.23906316225027652
+2067309024,User defined topological predicates in database systems,2010,26,5,2,0.785714,2304815925,Thomas Behr,0,-0.053028374472579264,0.1632523690397834
+2076395037,Supporting uncertainty in moving objects in network databases,2005,30,43,2,0.705882,2343837806,Victor Teixeira de Almeida,0,-0.0041099411153885,0.0447066884760059
+2076587107,Efficient handling of tuples with embedded large objects,2000,14,13,2,0.0,141857038,Stefan Dieker,0,0.43739842239757626,0.009947045888208002
+2087341942,Parallel SECONDO A practical system for large-scale processing of moving objects,2014,11,8,2,1.0,2442344940,Jiamin Lu,0,0.05917944774902541,-0.03391012185123137
+2117750217,Plug and play with query algebras SECONDO a generic DBMS development environment,2000,21,46,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.10496813513707853,0.3561609510601247
+2124199440,An introduction to spatial database systems,1994,129,627,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,1.889251838332686,0.23046087820472394
+2127211454,Algorithms for Moving Objects Databases,2003,39,102,3,0.0,2628306669,Jose Antonio Cotelo Lema,0,0.10496813513707853,0.3561609510601247
+2113250622,Parallel Secondo Boosting Database Engines with Hadoop,2012,12,50,2,1.0,2442344940,Jiamin Lu,0,0.7000717675408292,0.09164218968422402
+2107624081,Indexing the Trajectories of Moving Objects in Networks (Extended Abstract),2004,14,15,2,0.705882,2343837806,Victor Teixeira de Almeida,0,-0.0041099411153885,0.0447066884760059
+2162074251,Explicit graphs in a functional model for spatial databases,1994,61,39,2,0.666667,229879565,Martin Erwig,0,0.49639630198993345,0.1180963009847711
+2168582580,SECONDO an extensible DBMS platform for research prototyping and teaching,2005,4,66,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.38018671836772094,0.11532933411350017
+2146168643,Rule-based optimization and query processing in an extensible geometric database system,1992,34,59,2,0.0,2139547607,Ludger Becker,0,1.059900782720595,0.35469273594838097
+2158688066,Second-order signature a tool for specifying data models query processing and optimization,1993,37,66,1,1.0,172506059,Ralf Hartmut GÃ¼ting,0,0.6286127640089779,0.236812435415936
+2707509097,Distributed secondo an extensible and scalable database management system,2017,40,7,2,0.0,2490758194,Jan Kristof Nidzwetzki,0,-0.1108958834693116,0.26061639204079323
+2799833251,A data model for moving regions of fixed shape in databases,2018,9,1,2,1.0,2617392722,Florian Heinz,0,0.20353116479069333,-0.035058413923002296
+2946410720,A polyhedra-based model for moving regions in databases,2020,13,0,2,1.0,2617392722,Florian Heinz,0,0.03565810966282755,0.09825506972366725
+2968086467,Understanding human mobility A multi-modal and intelligent moving objects database,2019,17,0,3,0.333333,2124119034,Jianqiu Xu,0,0.18601297105691045,-0.0008472885667257998

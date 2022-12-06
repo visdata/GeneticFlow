@@ -1,0 +1,103 @@
+193304321,Managing large multidimensional datasets inside a database system,2001,129,4,2,0.220339,2124676925,Kaushik Chakrabarti,0,-0.4513773460781397,-0.0335055837377601
+91933579,Towards a Risk-Based Approach to Achieving Data Confidentiality in Cloud Computing,2013,12,1,1,1.0,2201039448,Sharad Mehrotra,0,-0.24631475925461466,0.01662727508514165
+41961333,Indexing Encrypted Documents for Supporting Efficient Keyword Search,2012,16,15,4,1.0,2672405706,Bijit Hore,0,-0.1847743722593346,0.060218323848301614
+77528907,A Framework for Efficient Storage Security in RDBMS,2004,9,66,2,0.284141,2309647949,Balakrishna R. Iyer,0,-0.2939174383131052,0.31710518292112594
+130948412,Exploiting relationships for domain-independent data cleaning â€ ,2005,35,120,2,1.0,21977915,Dmitri V. Kalashnikov,0,0.003708468606338,0.082832279151172
+48505893,Secure Computation on Outsourced Data A 10-year Retrospective,2014,28,2,2,0.284141,2309647949,Balakrishna R. Iyer,0,-0.3291976808020441,-0.13703470885516322
+1497296019,Locally Dimensionality Reduction A New Approach to Indexing High Dimensional Spaces (Preprint),2000,0,0,2,0.195122,2124676925,Kaushik Chakrabarti,0,-0.33535812113524166,0.5773049313921987
+1523908049,Integrating similarity retrieval and skyline exploration via relevance feedback,2007,6,2,2,0.833333,2681055049,Yiming Ma,0,-0.40109933687180616,0.009444814034214877
+1499117135,Local Dimensionality Reduction A New Approach to Indexing High Dimensional Spaces,2000,41,218,2,0.195122,2124676925,Kaushik Chakrabarti,0,-0.3819197680084342,0.5331709054560578
+1570842386,Query optimization in encrypted database systems,2005,61,75,1,1.0,2201039448,Sharad Mehrotra,0,-1.081688681972998,0.2622573837229289
+1571181793,An Event Based Approach To Situational Representation,2009,21,0,3,0.0,2255431631,Naveen Ashish,0,0.003708468606338,0.082832279151172
+1518900854,Self-tuning in graph-based reference disambiguation,2007,34,19,3,1.0,246940995,Rabia Nuray Turan,0,0.003708468606338,0.082832279151172
+1555823345,Efficient relationship pattern mining using multi-relational iceberg-cubes,2004,11,4,2,0.6,2149932083,Dawit Yimam Seid,0,-0.6541980553567844,0.05756030601861917
+1566830189,Incorporating Integrity Constraints in Uncertain Databases,2009,20,2,2,0.0,2255431631,Naveen Ashish,0,0.32144302883237,-0.012926487345916476
+1605573958,Automated Filtering on Data Streaming for Intelligence Analysis,2008,15,0,3,0.0,2645847254,Yiming Ma,0,-0.2796197139311538,-0.18174228040311344
+1606175579,Capturing Uncertainty in Spatial Queries over Imprecise Data,2003,15,11,2,1.0,2116260647,Xingbo Yu,0,0.12588222672705446,0.4300878851680043
+1607140588,Efficient Execution of Aggregation Queries over Encrypted Relational Databases,2004,6,175,2,0.284141,2309647949,Balakrishna R. Iyer,0,-0.4510729884163594,0.24846660988711605
+1817771417,Dynamic Queries over Mobile Objects,2002,29,1,3,1.0,2027320564,Iosif Lazaridis,0,0.1579559588619796,0.563349572073047
+1768110720,RAF an activation framework for refining similarity queries using learning techniques,2006,20,8,2,0.833333,2681055049,Yiming Ma,0,-0.01657107088421793,0.035389748403282274
+1820998669,Dynamic granular locking approach to phantom protection in R-trees,1998,20,28,2,0.0,2124676925,Kaushik Chakrabarti,0,-0.4954704674189081,-0.469397423500014
+1600230180,Querying Mobile Objects in Spatio-Temporal Databases,2001,19,73,3,1.0,91300927,Kriengkrai Porkaew,0,-0.4254674071735238,0.3271990102083279
+1862871687,Spatial Collocation Rules are Often Useful for Describing,2004,0,0,2,0.6,2149932083,Dawit Yimam Seid,0,0.003708468606338,0.082832279151172
+1618644518,Database support for similarity retrieval and querying mobile objects,2000,0,7,2,1.0,91300927,Kriengkrai Porkaew,0,-0.3415566114233202,-0.08934756047663364
+1584583269,Flexible Anonymization For Privacy Preserving Data Publishing A Systematic Search Based Approach,2007,16,29,3,1.0,2672405706,Bijit Hore,0,0.10219456999544008,0.3210683216105806
+1984351882,Indexing text data under space constraints,2004,28,12,2,1.0,2672405706,Bijit Hore,0,-0.364932530705234,-0.16498600052412013
+1967208734,Supporting Efficient Record Linkage for Large Data Sets Using Mapping Techniques,2006,42,19,3,0.197909,2589970869,Chen Li,0,0.6234653861699165,-0.14879387859654725
+1966035012,AGGREGATE QUERY PROCESSING FOR SEMANTIC WEB DATABASES AN ALGEBRAIC APPROACH,2007,1,0,2,0.6,2149932083,Dawit Yimam Seid,0,0.4138468886833123,-0.8295544900580343
+1996191381,Adaptive Connection Strength Models for Relationship-Based Entity Resolution,2013,45,14,3,1.0,246940995,Rabia Nuray Turan,0,0.46527628438704666,0.16961198412190515
+1994541786,Exploiting Web querying for Web people search,2012,44,24,3,1.0,246940995,Rabia Nuray Turan,0,-0.27518509707010785,-0.6282825232699774
+1991254414,Exploiting relationships for object consolidation,2005,40,57,3,0.72,2442349223,Zhaoqi Chen,0,-0.34926746956824223,-0.025241499969567247
+2003500686,Secure multidimensional range queries over outsourced data,2012,74,163,2,1.0,2672405706,Bijit Hore,0,-0.1847743722593346,0.060218323848301614
+1998475090,Exploiting context analysis for combining multiple entity resolution systems,2009,43,67,3,0.8,2442349223,Zhaoqi Chen,0,0.08969923770904932,0.45308086219700355
+1995188932,A framework for refining similarity queries using learning techniques,2004,10,1,3,0.833333,2681055049,Yiming Ma,0,-0.01657107088421793,0.035389748403282274
+1997164082,On Summarization and Timeline Generation for Evolutionary Tweet Streams,2015,38,39,5,0.0,2621498574,Zhenhua Wang,0,-0.21934185016841626,0.6056873083074126
+1997168731,The Beckman Report on Database Research,2014,7,47,19,0.0,2170206103,Daniel J. Abadi,0,-0.08216369031341794,0.1395680461546204
+1988755505,Optimization of multi-version expensive predicates,2007,11,9,2,1.0,2027320564,Iosif Lazaridis,0,0.007559962264756741,0.3244055884481317
+2012026425,Query Aware Determinization of Uncertain Objects,2015,27,13,3,1.0,2439727996,Jie Xu,0,0.39990024524517276,0.15746314093334265
+2015916847,Efficient and scalable multi-geography route planning,2010,30,8,3,0.0,2164393189,Vidhya Balasubramanian,0,0.7046445413333788,0.8491647793868737
+2031763229,Semantically Ranked Graph Pattern Queries for Link Analysis,2007,10,2,2,0.6,2149932083,Dawit Yimam Seid,0,0.01081499603401945,-0.22829683392880562
+2020132945,QUASAR quality aware sensing architecture,2004,10,37,4,1.0,2027320564,Iosif Lazaridis,0,-0.236908095528344,0.199655522528879
+2043508455,Executing SQL over encrypted data in the database-service-provider model,2002,12,1066,2,0.310345,2589970869,Chen Li,0,-0.05724222399933219,0.05124533086663802
+2037168816,Query optimization for massively parallel data processing,2011,23,122,3,0.0,2117443739,Sai Wu,0,-0.01657107088421793,0.035389748403282274
+2044407219,SEMROD Secure and Efficient MapReduce Over HybriD Clouds,2015,20,13,2,1.0,2052481239,Kerim Yasin Oktay,0,0.003708468606338,0.082832279151172
+2043141497,Towards breaking the quality curse a web-querying approach to web people search,2008,25,31,3,0.76487,21977915,Dmitri V. Kalashnikov,0,-0.12040503725651487,0.3538689160944441
+2055535508,Efficient summarization framework for multi-attribute uncertain data,2014,32,11,3,1.0,2439727996,Jie Xu,0,0.15011497953684425,0.13908440388466345
+2061229960,Attribute and object selection queries on objects with probabilistic attributes,2012,51,18,3,1.0,246940995,Rabia Nuray Turan,0,0.4421739776288331,0.1014161006176811
+2066796814,Dimensionality reduction for fast similarity search in large time series databases,2001,32,1086,4,0.0,2170070822,Eamonn Keogh,0,-0.22205240695846498,-0.13090750934943304
+2072540320,Progressive approximate aggregate queries with a multi-resolution tree structure,2001,12,162,2,1.0,2027320564,Iosif Lazaridis,0,0.1975438298720789,0.1433841957448625
+2064127057,Context-assisted face clustering framework with human-in-the-loop,2014,28,9,3,1.0,2668003512,Liyan Zhang,0,-0.2261903996642484,1.085173692619194
+2074790801,Modeling and querying uncertain spatial information for situational awareness applications,2006,24,13,3,1.0,21977915,Dmitri V. Kalashnikov,0,0.12595265820037338,0.43793680917641964
+2074876483,Query-driven approach to entity resolution,2013,33,29,3,0.857143,2152934075,Hotham Altwaijry,0,0.35574494103515925,0.11535012456367875
+2091670002,Index for fast retrieval of uncertain spatial point data,2006,15,17,3,1.0,21977915,Dmitri V. Kalashnikov,0,-0.6310102388839517,0.4415211373416452
+2081809050,On-Demand Information Portals for Disaster Situations,2007,6,3,4,0.833333,2681055049,Yiming Ma,0,0.5623241787474222,1.277858261121561
+2080063578,MICS an efficient content space representation model for publish/subscribe systems,2009,24,26,2,0.0,2037874982,Hojjat Jafarpour,0,-0.449582003726352,-0.8149135070477694
+2101987718,Fault-Tolerant Queries over Sensor Data,2006,29,3,3,1.0,2027320564,Iosif Lazaridis,0,0.1656019551103819,0.40049106199639006
+2087183379,Domain-independent data cleaning via analysis of entity-relationship graph,2006,52,145,2,1.0,21977915,Dmitri V. Kalashnikov,0,-0.2955024588092672,0.20003346174209052
+2105394657,Approximate selection queries over imprecise data,2004,19,25,2,1.0,2027320564,Iosif Lazaridis,0,0.1231549335056549,0.051544081604491046
+2108416218,A privacy-preserving index for range queries,2004,31,375,2,1.0,2672405706,Bijit Hore,0,-0.2604822364645423,0.11905643270907205
+2129291408,Adaptive key frame extraction using unsupervised clustering,1998,10,450,4,0.0,2110072997,Yueting Zhuang,0,-0.3870199568303922,1.2104777228585009
+2117779515,Discovering gis sources on the web using summaries,2008,28,6,3,1.0,2133343013,Ramaswamy Hariharan,0,-0.8005007660249878,0.7734926278270656
+2135503940,Processing Spatial-Keyword (SK) Queries in Geographic Information Retrieval (GIR) Systems,2007,13,165,4,1.0,2133343013,Ramaswamy Hariharan,0,-0.2081449692037688,0.24603420592051212
+2106112436,Test Of Time Award Talk Executing SQL over Encrypted Data in the Database-Service-Provider Model,2012,0,0,2,0.0,2182302550,Hakan Hacigumus,0,-0.3291976808020441,-0.13703470885516322
+2135845664,Building disclosure risk aware query optimizers for relational databases,2010,14,19,4,0.0,2266279181,Mustafa Canim,0,-0.8226545604262533,0.34576086678777695
+2106602702,WEST Modern Technologies for Web People Search,2009,5,8,4,0.698951,21977915,Dmitri V. Kalashnikov,0,-0.014995601857953955,-0.9155293413067915
+2106626784,The hybrid tree an index structure for high dimensional feature spaces,1999,24,187,2,0.325203,2124676925,Kaushik Chakrabarti,0,-0.6958896177258729,1.2369606250807996
+2136371779,The software EBox Integrated information for situational awareness,2009,13,5,3,0.0,2255431631,Naveen Ashish,0,0.34237607451586144,-0.45725689721047375
+2112912553,Efficient record linkage in large data sets,2003,28,167,3,0.333333,2437892641,Liang Jin,0,0.9648376132204851,-0.11523758758330593
+2110019277,An Approach to Integrating Query Refinement in SQL,2002,30,48,3,1.0,1130278,Michael Ortega Binderberger,0,-0.01657107088421793,0.035389748403282274
+2136856075,XAR An Integrated Framework for Information Extraction,2009,14,12,2,0.0,2255431631,Naveen Ashish,0,0.26260311452132834,-0.16685662532444215
+2110414201,Capturing sensor-generated time series with quality guarantees,2003,29,153,2,1.0,2027320564,Iosif Lazaridis,0,-0.3049247326517621,0.1886461481807304
+2113586662,Disambiguation Algorithm for People Search on the Web,2007,5,36,2,0.8125,21977915,Dmitri V. Kalashnikov,0,-0.21934185016841626,0.6056873083074126
+2125464986,Evaluating refined queries in top-k retrieval systems,2004,30,41,3,0.753247,2124676925,Kaushik Chakrabarti,0,0.3370770401562333,0.53297689749725
+2171179180,Web People Search via Connection Analysis,2008,39,63,3,0.76487,21977915,Dmitri V. Kalashnikov,0,0.142463196229509,-1.439727853309373
+2147320921,Quality-driven approximate methods for integrating GIS data,2005,14,9,4,0.769231,2133343013,Ramaswamy Hariharan,0,-0.47517498450818557,0.5793374542039892
+2169328499,A unified framework for context assisted face clustering,2013,21,29,3,1.0,2668003512,Liyan Zhang,0,-0.2261903996642484,1.085173692619194
+2157241021,Using Semantics for Speech Annotation of Images,2009,15,5,3,0.0,1993315506,Chaitanya Desai,0,0.003708468606338,0.082832279151172
+2154449382,Supporting Approximate Similarity Queries with Quality Guarantees in P2P Systems,2006,21,0,5,0.818182,2305300706,Qi Zhong,0,-0.1984714131877254,-0.08331523624254955
+2145563338,Video entity resolution Applying ER techniques for Smart Video Surveillance,2011,10,7,3,1.0,2668003512,Liyan Zhang,0,-0.1923482153824391,0.3911408909828727
+2167788702,Efficient Query Refinement in Multimedia Databases,2000,28,38,3,0.195122,2124676925,Kaushik Chakrabarti,0,-0.0395804122397981,0.0068802457672825015
+2171027248,Providing database as a service,2002,8,571,1,1.0,2201039448,Sharad Mehrotra,0,0.003708468606338,0.082832279151172
+2257503646,High quality entity resolution with adaptive similarity functions,2011,0,0,1,1.0,2201039448,Sharad Mehrotra,0,0.27629982558587274,0.4526476903342329
+2220488081,QuERy a framework for integrating entity resolution with query processing,2015,26,15,2,0.857143,2152934075,Hotham Altwaijry,0,-0.01657107088421793,0.035389748403282274
+2243458913,Progressive approach to relational entity resolution,2014,22,43,3,0.842105,2285352575,Yasser Altowim,0,0.35574494103515925,0.11535012456367875
+2273805650,Quality-aware data management,2006,0,0,2,1.0,2027320564,Iosif Lazaridis,0,-0.17021516049370924,0.23525663548739154
+2215678182,Efficient concurrency control in multidimensional access methods,1999,18,38,2,0.325203,2124676925,Kaushik Chakrabarti,0,-0.15482940781442753,0.25056126497288966
+2225606021,Entity resolution based on graph analysis and multi-system ensembles,2008,0,0,1,1.0,2201039448,Sharad Mehrotra,0,-0.3803090360265517,0.35935311250817287
+2402760319,Building a Mobile Applications Knowledge Base for the Linked Data Cloud,2015,11,0,4,0.0,1991118538,Primal Pappachan,0,0.616690566901983,-1.0907503123397548
+2470063344,Efficient execution of aggregation queries over encrypted relational databases,2004,0,9,2,0.284141,2309647949,Balakrishna R. Iyer,0,-0.4931589645532095,0.08640561419082772
+2532268239,Online Adaptive Topic Focused Tweet Acquisition,2016,18,5,2,1.0,2560028920,Mehdi Sadri,0,-0.004731989348554307,0.07588423443307446
+2546466160,QDA A Query-Driven Approach to Entity Resolution,2017,34,3,3,0.8,2152934075,Hotham Altwaijry,0,-0.09825152927081957,0.2505852224323781
+2593902826,Capturing uncertainty in spatial queries over imprecise data,2003,0,0,2,1.0,2116260647,Xingbo Yu,0,0.12588222672705446,0.4300878851680043
+2615064252,Adaptive Topic Follow-Up on Twitter,2017,4,2,4,0.0,2616435514,Abdulrahman Alsaudi,0,0.003708468606338,0.082832279151172
+2615336406,Secure and Efficient Query Processing over Hybrid Clouds,2017,32,7,3,1.0,2052481239,Kerim Yasin Oktay,0,-0.08762989230847466,0.006019936133636367
+2615445186,Parallel Progressive Approach to Entity Resolution Using MapReduce,2017,20,10,2,1.0,2285352575,Yasser Altowim,0,0.46527628438704666,0.16961198412190515
+2806531241,Progressive Evaluation of Queries over Untagged Data,2018,39,0,4,0.0,2807357243,Dhrubajyoti Ghosh,0,0.003708468606338,0.082832279151172
+2790120012,ProgressER Adaptive Progressive Approach to Relational Entity Resolution,2018,41,5,3,0.0,2793268343,Yasser Altowim,0,0.35574494103515925,0.11535012456367875
+2905972276,Partitioned Data Security on Outsourced Sensitive and Non-sensitive Data,2018,78,0,1,1.0,2201039448,Sharad Mehrotra,0,0.003708468606338,0.082832279151172
+2955825299,Obscure information-theoretic oblivious and verifiable aggregation queries,2019,0,4,3,1.0,2953661690,Peeyush Gupta,0,0.003708468606338,0.082832279151172
+3000641390,Network2Vec Learning Node Representation Based on Space Mapping in Networks,2019,26,0,6,0.0,2964211094,Zhenhua Huang,0,0.28793962208753415,0.23445209047339377
+2981495861,Network2Vec Learning Node Representation Based on Space Mapping in Networks,2019,26,0,5,0.0,3000727485,Huang Zhenhua,0,0.28793962208753415,0.23445209047339377
+3018054827,LOCATER Cleaning WiFi Connectivity Datasets for Semantic Localization,2020,33,0,6,0.0,2999659439,Yiming Lin,0,0.35574494103515925,0.11535012456367875
+3014743554,Obscure Information-Theoretically Secure Oblivious and Verifiable Aggregation Queries on Secret-Shared Outsourced Data -- Full Version,2020,0,0,3,1.0,2953661690,Peeyush Gupta,0,0.003708468606338,0.082832279151172
+2162362064,Supporting ranked Boolean similarity queries in MARS,1998,48,170,5,0.0,2141369487,Michael Ortega,0,0.2743961350091131,-0.25309759978541535

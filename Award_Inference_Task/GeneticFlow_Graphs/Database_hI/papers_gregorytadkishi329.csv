@@ -1,0 +1,39 @@
+1558616704,Verification of a tape data storage cartridge,2008,8,12,2,0.0,2158652720,Duke Andy Lee,0,-0.0041099411153885,0.0447066884760059
+1532261488,Method for improving the recovery time from a lost database in a VTS automation system,2002,10,13,1,1.0,2223910784,Gregory Tad Kishi,0,-0.0041099411153885,0.0447066884760059
+1019765522,Method and article for apparatus for performing automated reconcile control in a virtual tape system,2000,20,55,1,1.0,2223910784,Gregory Tad Kishi,0,-0.0041099411153885,0.0447066884760059
+1021149336,Automated reclamation scheduling override in a virtual tape server,2001,16,150,1,1.0,2223910784,Gregory Tad Kishi,0,-0.0041099411153885,0.0447066884760059
+1552109558,Apparatus for performing automated reconcile control in a virtual tape system,1997,14,27,1,1.0,2223910784,Gregory Tad Kishi,0,-0.0041099411153885,0.0447066884760059
+1509894614,Disaster recovery method for a removable media library,1999,10,52,2,0.0,2095770756,Vickie Lynn Brewer,0,-0.0041099411153885,0.0447066884760059
+1519614479,Method system and program for managing storage units in storage pools,2002,25,24,3,0.923077,2061951520,Kevin Lee Gibble,0,-0.0041099411153885,0.0447066884760059
+1538333095,BACKUP OF DEDUPLICATED DATA,2012,16,46,1,1.0,2223910784,Gregory Tad Kishi,0,-0.10181520141965575,0.4407775044453373
+1548296090,Automated database back-up within a data storage system using removable media,1997,4,40,2,0.0,2003493832,Jonathan Wayne Peake,0,0.1680589903312107,0.07290260859235434
+1575567516,Reducing a Backup Time of a Backup of Data Files,2013,31,7,1,1.0,2223910784,Gregory Tad Kishi,0,-0.16065307786350314,0.5277548060800685
+1530852049,Data storage system with trained predictive cache management engine,1998,11,64,1,1.0,2223910784,Gregory Tad Kishi,0,0.221423897897152,-0.21080654779612165
+1487513322,Method and system for scrubbing data within a data storage subsystem,2014,28,47,1,1.0,2223910784,Gregory Tad Kishi,0,-0.34857978327751216,-0.2513987233039086
+1954743016,Method and apparatus for providing improved caching for a virtual tape server,1998,9,64,1,1.0,2223910784,Gregory Tad Kishi,0,-0.0041099411153885,0.0447066884760059
+1595488606,Method system and article of manufacture for managing storage pools,2002,41,42,3,0.923077,2061951520,Kevin Lee Gibble,0,-0.0041099411153885,0.0447066884760059
+1877202547,Method system and program for managing an out of available space condition,2002,21,29,2,0.923077,2061951520,Kevin Lee Gibble,0,-0.0041099411153885,0.0447066884760059
+1597556621,Method system and program for transferring data between storage devices,2001,21,83,4,0.666667,2003493832,Jonathan Wayne Peake,0,-0.0041099411153885,0.0447066884760059
+1777654122,Method and system utilizing data fragments for efficiently importing/exporting removable storage volumes,2000,15,42,3,0.666667,2003493832,Jonathan Wayne Peake,0,-0.22138290710481892,0.3737277372554228
+1781285069,Preferential caching of uncopied logical volumes in an IBM peer-to-peer virtual tape server,2001,27,60,4,0.666667,2003493832,Jonathan Wayne Peake,0,-0.0041099411153885,0.0447066884760059
+1583982407,Apparatus and method to write information to one or more information storage media,2003,18,8,3,0.525948,2003493832,Jonathan Wayne Peake,0,0.4003815646279436,0.19680031026251915
+1829887091,Method and system for efficiently importing/exporting removable storage volumes between virtual storage systems,2000,15,96,3,0.666667,2003493832,Jonathan Wayne Peake,0,-0.16065307786350314,0.5277548060800685
+2242740598,Creating a restore copy from a copy of source data in a repository having source data at different point-in-times,2015,108,3,2,0.172782,2130539765,Glen Alan Jaquette,0,-0.026043388670241648,-0.1514020116204905
+2228947153,Export of Logical Volumes By Pools,2007,5,4,4,0.0,1421772712,Laura Jean Ostasiewski,0,-0.0041099411153885,0.0447066884760059
+2212361443,Storing redundant segments and parity information for segmented logical volumes,2007,26,2,1,1.0,2223910784,Gregory Tad Kishi,0,-0.0041099411153885,0.0447066884760059
+2254384363,Method for borrowing and returning physical volumes,2005,32,3,5,0.522369,2003493832,Jonathan Wayne Peake,0,-0.0041099411153885,0.0447066884760059
+2244119826,Merging multiple point-in-time copies into a merged point-in-time copy,2015,108,4,3,0.0,2031128666,Alistair Leask Symon,0,-0.026043388670241648,-0.1514020116204905
+2248333389,Recalling logical volumes to cache from physical media volumes for redundant storage in automated data storage libraries,2000,5,45,3,0.666667,2003493832,Jonathan Wayne Peake,0,-0.0041099411153885,0.0447066884760059
+2248897284,MANAGING METADATA FOR DATA BLOCKS USED IN A DEDUPLICATION SYSTEM,2008,9,57,2,0.172782,2130539765,Glen Alan Jaquette,0,-0.3412405743854778,0.19296234046242491
+2205578148,Method and apparatus for handling multi-volume datasets in a tape storage system,2005,13,1,2,0.522369,2003493832,Jonathan Wayne Peake,0,-0.0041099411153885,0.0447066884760059
+2205582623,Creating a restore copy from a copy of a full copy of source data in a repository that is at a different point-in-time than a restore point-in-time of a restore request,2014,12,16,2,0.172782,2130539765,Glen Alan Jaquette,0,-0.026043388670241648,-0.1514020116204905
+2226234469,USING A REPOSITORY HAVING A FULL COPY OF SOURCE DATA AND POINT-IN-TIME INFORMATION FROM POINT-IN-TIME COPIES OF THE SOURCE DATA TO RESTORE THE SOURCE DATA AT DIFFERENT POINTS-IN-TIME,2014,9,4,2,0.172782,2130539765,Glen Alan Jaquette,0,-0.026043388670241648,-0.1514020116204905
+2199700441,Cache-failure-tolerant data storage system storing data objects with version code equipped metadata tokens,1999,4,56,3,0.0,2117991615,Douglas William Dewey,0,-0.34857978327751216,-0.2513987233039086
+2277054889,Creating a restore copy from a copy of source data in a repository having source data at different point-in-times and reading data from the repository for the restore copy,2014,86,3,2,0.172782,2130539765,Glen Alan Jaquette,0,-0.026043388670241648,-0.1514020116204905
+2296561266,Method and apparatus for recovery of the association of construct definitions with logical volumes in a virtual tape server,2002,16,2,3,0.545455,2003493832,Jonathan Wayne Peake,0,-0.24775547573251186,0.5862950302325296
+2402273848,Method system and program for accessing data from storage systems,1999,10,18,1,1.0,2223910784,Gregory Tad Kishi,0,-0.0041099411153885,0.0447066884760059
+2397355542,Cache management system utilizing cascading tokens,1999,7,34,1,1.0,2223910784,Gregory Tad Kishi,0,-0.0041099411153885,0.0447066884760059
+2419571152,Balanced access to data volumes with redundant copies stored in data storage libraries,1999,6,24,1,1.0,2223910784,Gregory Tad Kishi,0,0.221423897897152,-0.21080654779612165
+2753248837,Similarity based deduplication for secondary storage,2017,14,4,2,0.0,1923257638,Joseph W. Dain,0,-0.0041099411153885,0.0447066884760059
+2752642975,OFFLOADING DATA TO SECONDARY STORAGE,2017,0,2,2,0.0,1923257638,Joseph W. Dain,0,-0.0041099411153885,0.0447066884760059
+2816490771,APPLICATION AWARE EXPORT TO OBJECT STORAGE OF LOW-REFERENCE DATA IN DEDUPLICATION REPOSITORIES,2017,13,1,3,0.0,1923257638,Joseph W. Dain,0,-0.16159670378563762,0.1369889370708013

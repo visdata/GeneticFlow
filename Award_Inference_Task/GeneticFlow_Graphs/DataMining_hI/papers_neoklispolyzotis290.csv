@@ -1,0 +1,77 @@
+25295119,Proceedings of the 10th ACM workshop on Web information and data management,2008,0,0,1,1.0,339589296,Neoklis Polyzotis,0,-0.24631475925461466,0.01662727508514165
+782622320,Human-Powered Top-k Lists,2013,9,20,5,0.818182,2512625040,Vassilis Polychronopoulos,0,0.23447002456144056,0.35297506154309793
+1569144276,Data ring let us turn the net into a database ,2006,7,0,2,0.0,172400696,Serge Abiteboul,0,-1.171946192869805,0.3401976655097976
+1495889697,Searching Shared Content in Communities with the Data Ring,2009,28,43,2,0.0,172400696,Serge Abiteboul,0,-1.3544069890269625,0.34259495784388067
+1909988457,Exploiting Opportunistic Physical Design in Large-scale Data Analytics,2013,21,6,4,1.0,2125908931,Jeff LeFevre,0,-0.7687837226942508,0.2513149120509733
+1583345983,Answering Queries using Humans Algorithms and Databases,2011,28,107,2,0.727273,2077695977,Aditya Parameswaran,0,-0.1549768816056307,0.556326493869385
+1791611415,Scaling Datalog for Machine Learning on Big Data,2012,27,43,5,0.0,2107421971,Yingyi Bu,0,-0.29915764530586186,1.4265487780410313
+1975887898,Statistical synopses for graph-structured XML databases,2002,25,131,1,1.0,339589296,Neoklis Polyzotis,0,-1.8100359991745205,-0.225129146687561
+1977810318,Deco declarative crowdsourcing,2012,33,104,4,0.727273,2077695977,Aditya Parameswaran,0,0.07490944379510807,0.12739192061936788
+1996376794,An overview of the deco system data model and query language; query processing and optimization,2013,14,24,5,0.73913,2106674318,Hyunjung Park,0,-0.01657107088421793,0.035389748403282274
+1994898684,Top-k queries over web applications,2013,35,3,3,0.108434,2076066329,Daniel Deutch,0,0.003708468606338,0.082832279151172
+1995034419,TuG synopses for approximate query answering,2009,21,16,2,1.0,2590123444,Joshua Spiegel,0,-0.08622767340862192,0.2999720807116165
+2002131042,COLT continuous on-line tuning,2006,9,75,4,0.903226,217476589,Karl Schnaitter,0,-2.597301425505639,0.2490405291954776
+2002643280,Machine learning for big data,2013,12,35,3,0.0,2042584619,Tyson Condie,0,-0.9886830905056906,2.1813412122650044
+2015636116,Report on the 9th International Workshop on Web Information and Data Management (WIDM 2007),2008,0,1,2,0.0,2237026319,Irini Fundulaki,0,-0.24631475925461466,0.01662727508514165
+2019270771,Selectivity-based partitioning a divide-and-union paradigm for effective query optimization,2005,20,22,1,1.0,339589296,Neoklis Polyzotis,0,-0.3502754711895991,0.00885407596069055
+2029985800,Optimal algorithms for evaluating rank joins in database systems,2010,22,16,2,1.0,217476589,Karl Schnaitter,0,-1.1231466947216173,0.3575549594068655
+2012752477,Asking the Right Questions in Crowd Data Sourcing,2012,13,54,5,0.0,2225991654,Rubi Boim,0,0.003708468606338,0.082832279151172
+2028818097,CrowdScreen algorithms for filtering data with humans,2012,21,167,4,0.727273,2077695977,Aditya Parameswaran,0,0.7525332382143937,0.7877628018141319
+2025721839,Deco a system for declarative crowdsourcing,2012,5,64,5,0.73913,2106674318,Hyunjung Park,0,-0.3225446487448057,0.22469704163370796
+2041780659,MISO souping up big data query processing with a multistore system,2014,22,85,4,1.0,2125908931,Jeff LeFevre,0,-0.3913375513540167,0.3355938356440845
+2035488079,Machine learning on Big Data,2013,13,21,3,0.0,2042584619,Tyson Condie,0,-0.9886830905056906,2.1813412122650044
+2037828101,SQL QueRIE recommendations,2010,8,51,7,0.0,2282699157,Javad Akbarnejad,0,-0.24539401213984302,0.32680887015242427
+2066640191,Max algorithms in crowdsourcing environments,2012,18,87,4,0.0,1989096520,Petros Venetis,0,0.7525332382143937,0.7877628018141319
+2083901543,INUM+ A leaner more accurate and more efficient fast what-if optimizer,2013,9,1,4,0.0,2235458742,Rui Wang,0,-0.0395804122397981,0.0068802457672825015
+2096768150,Fractional XSketch Synopses for XML Databases,2004,16,16,2,0.0,293057384,Natasha Drukh,0,-1.479606447612999,-0.17018834832758575
+2103106131,Meshing Streaming Updates with Persistent Data in an Active Data Warehouse,2008,39,78,1,1.0,339589296,Neoklis Polyzotis,0,-1.0147542816516175,0.8459970711164255
+2080795333,QueRIE Collaborative Database Exploration,2014,28,53,3,0.234614,242208127,Magdalini Eirinaki,0,-1.368792414176174,0.3470217496150427
+2097695478,RITA an index-tuning advisor for replicated databases,2015,17,4,4,0.390488,2145857504,Quoc Trung Tran,0,0.1210367497521051,0.3715704428647246
+2093402788,Opportunistic physical design for big data analytics,2014,27,17,4,1.0,2125908931,Jeff LeFevre,0,-1.2055338832617806,0.4839145938034803
+2103711981,Index interactions in physical design tuning modeling analysis and applications,2009,18,25,2,1.0,217476589,Karl Schnaitter,0,-1.1806001870201406,0.709815317188866
+2100913274,Graph-based synopses for relational selectivity estimation,2006,17,40,2,0.875,2590123444,Joshua Spiegel,0,-1.0112875447490868,0.3928247455955892
+2098443134,CoPhy a scalable portable and interactive index advisor for large workloads,2011,20,31,2,0.6,2152164708,Debabrata Dash,0,0.003708468606338,0.082832279151172
+2101620066,Human-assisted graph search its okay to ask questions,2011,25,110,4,0.727273,2077695977,Aditya Parameswaran,0,0.003708468606338,0.082832279151172
+2099132625,Structure and value synopses for XML data graphs,2002,25,111,1,1.0,339589296,Neoklis Polyzotis,0,-1.38139970352732,-0.20516718618044522
+2087235445,Processing of Rank Joins in Highly Distributed Systems,2012,27,8,5,0.0,167530315,Christos Doulkeridis,0,0.2353162648138094,0.228350730718198
+2117538598,A scalable predictable join operator for highly concurrent data warehouses,2009,22,72,2,0.0,2013579417,George Candea,0,0.13058050580723665,0.1605954100270375
+2135279969,An automated yet interactive and portable DB designer,2010,10,11,5,0.0,246309531,Ioannis Alagiannis,0,0.1210367497521051,0.3715704428647246
+2120828587,Supporting Streaming Updates in an Active Data Warehouse,2007,21,90,1,1.0,339589296,Neoklis Polyzotis,0,-1.4576342218699305,1.1639517085641693
+2141931971,Social networking on top of the WebdamExchange system,2011,7,12,5,0.0,2106411427,Ã‰milien Antoine,0,0.007050584344827138,-0.1028239962555109
+2106207157,AQAX a system for approximate XML query answers,2006,5,7,4,0.875,2590123444,Joshua Spiegel,0,-1.677377813767911,-0.1820266210418478
+2127018826,Query Recommendations for Interactive Database Exploration,2009,16,112,3,1.0,2027319533,Gloria Chatzopoulou,0,0.009941788984229184,0.3595136771854752
+2118226259,A Benchmark for Online Index Selection,2009,15,15,2,1.0,217476589,Karl Schnaitter,0,-0.23849954887946326,-0.20847270551916916
+2106376606,Depth estimation for ranking query optimization,2007,22,35,3,1.0,217476589,Karl Schnaitter,0,-0.1643799570760568,0.2865028192498083
+2129982259,The Data Ring Community Content Sharing,2007,42,19,2,0.0,172400696,Serge Abiteboul,0,-0.13275296294680305,-0.071629888206014
+2107909062,Kaizen a semi-automatic index advisor,2012,14,3,4,1.0,2164380586,Ivo Jimenez,0,0.1210367497521051,0.3715704428647246
+2162153837,Speculative Query Processing,2003,11,19,1,1.0,339589296,Neoklis Polyzotis,0,-0.01657107088421793,0.035389748403282274
+2147419309,On-Line Index Selection for Shifting Workloads,2007,23,46,4,1.0,217476589,Karl Schnaitter,0,0.24906175081877716,0.44714262063741633
+2156664231,Approximate XML query answers,2004,24,115,1,1.0,339589296,Neoklis Polyzotis,0,-2.5546476560261704,-0.27731287210067435
+2153902607,XML processing in DHT networks,2008,40,55,3,0.0,172400696,Serge Abiteboul,0,-0.28199557178158846,-0.06108533097348975
+2147916722,The repeatability experiment of SIGMOD 2008,2008,1,31,6,0.0,740816581,Ioana Manolescu,0,-0.5442538671051075,-0.0015272632806924008
+2172007538,XSKETCH synopses for XML data graphs,2006,42,40,1,1.0,339589296,Neoklis Polyzotis,0,-2.6895548473852413,-0.24057187268262334
+2145277603,Skyline query processing over joins,2011,14,29,3,0.0,2022052041,Akrivi Vlachou,0,-0.3508534434003271,0.5474380756737691
+2151335566,XCluster Synopses for Structured XML Content,2006,27,45,1,1.0,339589296,Neoklis Polyzotis,0,-2.399568558349525,-0.2761363466063392
+2169353811,Sketch-Based Summarization of Ordered XML Streams,2009,21,7,2,0.0,2223669871,Veronica Mayorga,0,-2.5604656948805005,-0.28235115675798184
+2157454343,MatchUp Autocompletion for Mashups,2009,9,19,4,0.0,2631849462,Serge Abiteboul,0,-0.2944747595699656,-1.7782049508856403
+2160923181,Selectivity estimation for XML twigs,2004,16,60,1,1.0,339589296,Neoklis Polyzotis,0,-0.9808998466821907,-0.02712807551928969
+2160987984,Robust and efficient algorithms for rank join evaluation,2009,14,36,2,0.0,2522734777,Jonathan Finger,0,-0.11029997332988746,0.14802680904376056
+2167499652,Autocompletion for mashups,2009,23,84,3,0.333333,614416267,Ohad Greenshpan,0,-0.36755151211245257,-1.065358020150166
+2161713834,Optimal top-k query evaluation for weighted business processes,2010,18,13,3,0.108434,2076066329,Daniel Deutch,0,-0.0395804122397981,0.0068802457672825015
+2170870260,Semi-automatic index tuning keeping DBAs in the loop,2012,20,25,2,1.0,217476589,Karl Schnaitter,0,0.1210367497521051,0.3715704428647246
+2251340133,Proceedings of the Sixth International Workshop on Testing Database Systems,2013,0,0,1,1.0,339589296,Neoklis Polyzotis,0,-1.446136064777886,0.38134058191828735
+2295695364,Web information management with access control,2011,12,10,3,0.0,172400696,Serge Abiteboul,0,0.003708468606338,0.082832279151172
+2308867322,SQL QueRIE Recommendations a query fragment-based approach,2010,13,9,2,0.46748,242208127,Magdalini Eirinaki,0,-0.01657107088421793,0.035389748403282274
+2278672695,On-line index selection for physical database tuning,2010,0,8,2,1.0,217476589,Karl Schnaitter,0,-0.9855036600006329,0.4033733999011149
+2407107004,Benchmarking Online Index-Tuning Algorithms,2011,12,2,3,1.0,2164380586,Ivo Jimenez,0,0.003708468606338,0.082832279151172
+2474087959,Tuple Graph Synopses for Relational Data Sets,2006,18,0,1,1.0,339589296,Neoklis Polyzotis,0,-0.19155017840609767,0.40502768820528007
+2597963073,Efficient Techniques for Crowdsourced Top-k Lists,2016,0,2,3,0.428571,2129359981,Luca de Alfaro,0,0.23447002456144056,0.35297506154309793
+2773466258,The Case for Learned Index Structures,2017,58,20,5,0.0,2078839115,Tim Kraska,0,-0.0225201767498668,-0.10675416448009602
+2906955990,Automated Data Slicing for Model Validation A Big data - AI Integration Approach,2018,32,0,3,0.75,2114567168,Yeounoh Chung,0,-0.064181750922619,0.5322747349694676
+2951616908,Towards a Workload for Evolutionary Analytics,2013,8,1,4,1.0,2125908931,Jeff LeFevre,0,0.3063944356869823,-0.1172577747737646
+2949924328,Semi-Automatic Index Tuning Keeping DBAs in the Loop,2010,15,1,2,1.0,217476589,Karl Schnaitter,0,0.003708468606338,0.082832279151172
+2962771342,The Case for Learned Index Structures,2018,62,144,5,0.0,2078839115,Tim Kraska,0,-0.3415832950753777,-0.0421759928842236
+2950381950,Human-Assisted Graph Search Its Okay to Ask Questions,2011,18,7,4,0.727273,2077695977,Aditya Parameswaran,0,0.09306936451958565,0.4540149294292737
+2963198001,Automated Data Slicing for Model Validation A Big data - AI Integration Approach,2019,0,2,3,0.75,2114567168,Yeounoh Chung,0,-0.064181750922619,0.5322747349694676
+2949201629,CoPhy A Scalable Portable and Interactive Index Advisor for Large Workloads,2011,18,0,2,0.6,2152164708,Debabrata Dash,0,0.003708468606338,0.082832279151172
+2550197061,Very Large Databases,2008,5,0,3,0.0,2089290244,Minos Garofalakis,0,-0.49831286521076357,0.37073230152585257

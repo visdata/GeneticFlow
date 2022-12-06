@@ -1,0 +1,35 @@
+568329907,Compressed representation of a transaction token,2013,21,10,4,0.0,2104041996,Hyoungjun Na,0,-0.057859005435957754,0.33826441538157104
+941420817,Client-side partition-aware batching of records for insert operations,2014,11,25,4,0.0,2127360791,Myunggon Park,0,-0.34857978327751216,-0.2513987233039086
+947034474,Transaction commit operations with thread decoupling and grouping of I/O requests,2014,29,15,1,1.0,2425517354,Juchang Lee,0,1.6889099140973842,1.053258177635111
+1022392055,Version garbage collection using snapshot lists,2013,21,46,5,1.0,2004805294,Michael Muehle,0,0.2420277633990942,0.028215889265686814
+1516277048,A High-Performance Spatial Storage Based on Main-Memory Database Architecture,1999,15,2,6,0.0,2168548682,Jang Ho Park,0,0.3820908385543769,0.2117467783858426
+1517936130,Client-side statement routing for partitioned tables,2012,10,14,5,1.0,2004805294,Michael Muehle,0,2.2016754759540733,0.7477656330567009
+1037350830,Distributed Transaction Management Using Optimization Of Local Transactions,2010,11,27,2,1.0,2004805294,Michael Muehle,0,2.600996434348069,2.5777993915212623
+1037600939,UNIFIED TABLE QUERY PROCESSING,2013,35,32,2,1.0,985156470,Ivan Schreter,0,0.0908845357243609,0.31128747720343375
+1536735724,Client-side statement routing in distributed database,2014,22,12,6,1.0,2004805294,Michael Muehle,0,2.180669108405288,0.6048069272813984
+1502921123,Distributed Transaction Management Using Two-Phase Commit Optimization,2010,22,97,1,1.0,2425517354,Juchang Lee,0,2.4583900113962116,2.5278982650832535
+1140671588,Transaction private log buffering for high performance of transaction processing,2014,35,18,2,0.164723,2119709268,Sang Kyun Cha,0,1.1895458400770778,1.2862270101320594
+1902433648,UPDATE PROTOCOL FOR CLIENT-SIDE ROUTING INFORMATION,2012,4,26,5,1.0,2004805294,Michael Muehle,0,1.6074283920215615,0.36574663293619397
+1797376816,Hybrid database table stored as both row and column store,2011,43,96,3,0.0,2054502016,Chanho Jeong,0,-0.1356847384445335,0.09854353385210662
+1608571829,Deleting records in a multi-level storage architecture,2013,34,24,2,1.0,985156470,Ivan Schreter,0,-0.20141475899052388,0.504440225690196
+2034173754,Distributed snapshot isolation global transactions pay globally local transactions pay locally,2014,32,18,5,0.0,228175360,Carsten Binnig,0,1.1489634556744108,1.7151276401588265
+2086181186,SAP HANA distributed in-memory database system Transaction session and metadata management,2013,8,38,1,1.0,2425517354,Juchang Lee,0,0.9158918768366868,0.39795445928120565
+2150006707,Differential logging a commutative and associative logging scheme for highly parallel main memory database,2001,9,7,3,0.0,2119709268,Sang Kyun Cha,0,-0.0348087340108871,0.4761631643743138
+2254924611,Database table re-partitioning using trigger-based capture and replay,2014,52,21,6,0.0,1976556506,Christian Bensberg,0,0.36097085081799196,-0.1582967557564097
+2273894293,Deleting Records In A Multi-Level Storage Architecture Without Record Locks,2013,34,19,2,1.0,985156470,Ivan Schreter,0,-0.0041099411153885,0.0447066884760059
+2279390454,Client-side caching of database transaction token,2013,3,11,5,1.0,2004805294,Michael Muehle,0,2.2438516066588314,1.492802552878036
+2290249757,MULTI-VERSION CONCURRENCY CONTROL ACROSS ROW STORE AND COLUMN STORE,2014,9,29,5,0.0,1247491529,Ivan Schreter,0,1.1843114259335432,1.5113623518874006
+2282941477,Dml replication with logical log shipping,2014,6,13,3,0.164723,2119709268,Sang Kyun Cha,0,0.29949982593787333,0.043115536936120503
+2462435637,Database System With Transaction Control Block Index,2014,100,20,3,0.0,1247491529,Ivan Schreter,0,1.0028719361639769,1.1528002579411512
+2441046553,Hybrid Garbage Collection for Multi-Version Concurrency Control in SAP HANA,2016,18,8,1,1.0,2425517354,Juchang Lee,0,1.1687287923031398,1.9390120299788518
+2463083823,Delegation of Database Post-Commit Processing,2014,94,19,5,0.0,1247491529,Ivan Schreter,0,2.1356237635242494,2.1983098784909405
+2472166448,Supporting cursor snapshot semantics,2014,94,24,3,0.0,1247491529,Ivan Schreter,0,0.08068647028166813,0.15805458568385752
+2492230227,Client-side query statement routing in distributed database,2013,2,0,5,1.0,2004805294,Michael Muehle,0,1.765467008206557,0.38473482604395487
+2469074776,Differential logging A commutative and associative logging scheme for highly parallel main memory database,2001,0,35,3,0.0,2119709268,Sang Kyun Cha,0,0.2635655649138733,0.34926451642199025
+2664856190,TRANSACTIONAL CACHE INVALIDATION FOR INTER-NODE CACHING,2017,11,5,4,0.0,2163767061,Yongjae Chuh,0,0.6971684202862765,-0.03298202716780724
+2705221097,TABLE REPLICATION IN A DATABASE ENVIRONMENT,2017,18,10,2,0.888889,2168561222,Chang Gyoo Park,0,0.24687353477172524,0.23437622098286343
+2593316087,Distributed database transaction protocol,2016,108,13,2,0.888889,2168561222,Chang Gyoo Park,0,2.391565670913596,2.0627359103800575
+2753767407,Parallel replication across formats in SAP HANA for scaling out mixed OLTP/OLAP workloads,2017,20,4,1,1.0,2425517354,Juchang Lee,0,1.0088342932995495,1.2292519197725438
+2775411745,Multi-Level Storage Architecture,2017,0,4,2,1.0,985156470,Ivan Schreter,0,0.06102373600282666,0.46291653860371895
+2780175085,DELETION OF RECORD IN MULTI-LEVEL STORAGE ARCHITECTURE,2013,0,0,1,1.0,2425517354,Juchang Lee,0,-0.0041099411153885,0.0447066884760059
+2800321615,Parallel replication across formats for scaling out mixed OLTP/OLAP workloads in main-memory databases,2018,43,0,1,1.0,2425517354,Juchang Lee,0,0.9021160171239012,1.0602870711644587

@@ -1,0 +1,39 @@
+6340396,Para-Virtualized TPM Sharing,2008,6,55,1,1.0,2107405182,Paul England,0,-0.25924144176662695,-0.5883941421210716
+78987640,Trusted VM snapshots in untrusted cloud infrastructures,2012,33,26,4,0.0,2307775943,Abhinav Srivastava,0,-1.297793209423084,0.4525649273693192
+115240300,Improving Trusted Tickets with State-Bound Keys,2013,6,0,3,0.0,461610762,Jan Nordholz,0,-1.4620956854539493,-0.09337341896762848
+954744424,Secure Crypto-Processor Certification,2014,2,5,1,1.0,2107405182,Paul England,0,0.5476578014556815,-1.4173798332077532
+1568372283,Multiplexing a secure counter to implement second level secure counters,2002,18,17,1,1.0,2107405182,Paul England,0,0.0040557659796233,0.2757546058061082
+1571867944,Authenticated Operation of Open Computing Devices,2002,14,36,1,1.0,2107405182,Paul England,0,-0.20722016126918666,-0.1552793618640974
+1511063173,Generating migrating or exporting bound keys,2006,127,2,1,1.0,2107405182,Paul England,0,0.144804752415244,-1.1724646542264954
+1512271801,System and method for secure storage of data using public and private keys,2003,129,27,3,0.312936,1785551945,Butler W. Lampson,0,0.04003135689645338,-1.5088316352835887
+1522335866,Disposable red partitions,2005,9,10,2,0.0,2021305100,Michael David Marr,0,0.05940095047987125,0.6960502266457337
+1928245490,Digital rights management operating system,1999,27,482,3,0.0,1785551945,Butler W. Lampson,0,-0.2304081779245302,0.6236857432762108
+1902809167,Key-based secure storage,2005,113,73,3,0.262432,1785551945,Butler W. Lampson,0,-0.06865776365891445,0.18347844231628865
+1795223641,Local secure service partitions for operating system security,2005,17,97,1,1.0,2107405182,Paul England,0,-1.3738261650199022,0.4414362151732904
+1954775509,Controlling access to content based on certificates and access predicates,1999,65,131,3,0.0,1785551945,Butler W. Lampson,0,0.22512535469964612,0.19893648005539527
+1840751233,NGSCB A Trusted Open System,2004,24,79,3,0.0,2123463638,Marcus Peinado,0,1.5248829472979344,2.1436734177140173
+1933276262,Hierarchical trusted code for content protection in computers,2004,43,157,2,0.278392,1785551945,Butler W. Lampson,0,-0.12531114853215722,1.2581771446406202
+1634188203,Method for obtaining a black box for performing decryption and encryption functions in a digital rights management (DRM) system,2000,37,57,4,0.0,1894739760,Arnold N. Blinn,0,-0.01974349644877217,-0.4837668529368373
+1849908010,The Darknet and the Future of Content Protection,2003,20,61,2,1.0,1981606656,Peter Biddle,0,-0.27787052792074163,0.43038095330184306
+1851580776,Practical Techniques for Operating System Attestation,2008,19,32,1,1.0,2107405182,Paul England,0,-0.6099694542949903,0.12847308134645732
+1941471507,Secure execution of program code,2003,77,229,2,0.312936,1785551945,Butler W. Lampson,0,-0.1751537443235147,0.04866599499852316
+1942739572,Transferring application secrets in a trusted operating system environment,2005,92,72,2,0.0,2071505877,Josh D. Benaloh,0,0.003955709124004628,0.38756405542880573
+2087499441,Continuous Tamper-Proof Logging Using TPM 20,2014,30,13,3,0.0,2127031513,Arunesh Sinha,0,0.5712787638400855,0.5546664790351648
+2084616831,Virtual machines for enterprise desktop security,2006,4,13,1,1.0,2107405182,Paul England,0,0.0040557659796233,0.2757546058061082
+2105637410,Towards a Programmable TPM,2009,12,12,1,1.0,2107405182,Paul England,0,-1.0497901693685094,-0.011693491754867317
+2138478302,Manifest-based trusted agent management in a trusted operating system environment,2005,136,123,2,0.0,2071505877,Josh D. Benaloh,0,-0.7232315876379429,-0.014836000989540818
+2139014499,Saving and retrieving data based on public key encryption,2011,255,76,1,1.0,2107405182,Paul England,0,0.014762118668571848,-1.7126025387521264
+2113265605,System and method for flexible micropayment of low value electronic assets,2005,20,39,1,1.0,2107405182,Paul England,0,0.0040557659796233,0.2757546058061082
+2116549318,Protecting decrypted compressed content and decrypted decompressed content at a digital rights management client,2005,70,116,2,0.0,236707708,Mukund Sankaranarayan,0,-0.2304081779245302,0.6236857432762108
+2131347770,Secure processor architecture for use with a digital rights management (DRM) system on a computing device,2001,20,307,1,1.0,2107405182,Paul England,0,-0.64361911720375,0.5900956139954874
+2122992713,System and method for authenticating an operating system,2003,129,71,3,0.312936,1785551945,Butler W. Lampson,0,-0.17256503333480072,-0.4985686091248396
+2137902624,A trusted open platform,2003,9,182,1,1.0,2107405182,Paul England,0,0.45554956590265905,0.19388459526551083
+2156290783,Systems and methods for controlling access to data on a computer with a secure boot process,2005,39,34,2,0.212751,2098765449,Stefan Thom,0,0.155870422438688,-0.3611899258997246
+2169497146,Systems and methods for securely booting a computer with a trusted processing module,2005,26,129,2,0.212751,2098765449,Stefan Thom,0,-0.683109265852045,-0.3163548789759329
+2201842870,Enabling bits sealed to an enforceably-isolated environment,2005,6,14,2,1.0,1981606656,Peter Biddle,0,0.0040557659796233,0.2757546058061082
+2242210949,Methods and systems for cryptographically protecting secure content in video memory,2002,8,2,1,1.0,2107405182,Paul England,0,0.03854345873805821,0.12392982216157666
+2279949631,Creating and verifying a sequence of consecutive data,2002,23,21,1,1.0,2107405182,Paul England,0,0.03910652856792115,-0.9542749174440527
+2499097732,fTPM A Software-Only Implementation of a {TPM} Chip,2016,29,26,6,0.642857,2470933065,Himanshu Raj,0,-1.0482337507881023,-0.012610363866898289
+2786233562,Cyber-Resilient Platforms Overview,2017,0,0,3,0.0,1967030493,Andrey Marochko,0,0.0040557659796233,0.2757546058061082
+2920921666,Dominance as a New Trusted Computing Primitive for the Internet of Things,2019,47,1,4,0.0,2440222960,Meng Xu,0,-0.14356776895977752,0.4787196196117573
+3001275798,AMP Authentication of Media via Provenance,2020,16,0,1,1.0,2107405182,Paul England,0,-0.4340942520801243,0.3619386618945468

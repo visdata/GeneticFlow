@@ -1,0 +1,45 @@
+1505952289,The YCB object and Model set Towards common benchmarks for manipulation research,2015,29,143,5,0.0,2264323889,Berk Calli,0,0.016357069610664,0.0645642369777481
+2141841102,Combined task and motion planning through an extensible planner-independent interface layer,2014,19,193,6,0.0,2132327344,Siddharth Srivastava,0,0.016357069610664,0.0645642369777481
+2549809408,Spatial Formation Model for Initiating Conversation,2012,0,0,1,1.0,243981275,Pieter Abbeel,0,0.07922606475238164,0.40812735510984677
+2552239601,An Interaction Design Framework for Social Robots,2012,0,0,1,1.0,243981275,Pieter Abbeel,0,-0.4984557005660904,0.21611900430971676
+2523314097,Toward a Science of Autonomy for Physical Systems Paths,2016,0,0,1,1.0,243981275,Pieter Abbeel,0,0.016357069610664,0.0645642369777481
+2735025040,Imitation from Observation Learning to Imitate Behaviors from Raw Video via Context Translation,2017,43,11,3,1.0,2604642998,YuXuan Liu,0,0.016357069610664,0.0645642369777481
+2761060327,Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation,2017,0,22,6,1.0,2281383953,Tianhao Zhang,0,0.6985217038519957,0.133515875404254
+2794908222,An Algorithmic Perspective on Imitation Learning,2018,15,79,5,0.0,1933364184,Takayuki Osa,0,0.016357069610664,0.0645642369777481
+2796290181,DeepMimic Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills,2018,53,149,2,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481
+2804010078,Universal Planning Networks Learning Generalizable Representations for Visuomotor Control,2018,0,17,3,0.0,2795602926,Aravind Srinivas,0,0.016357069610664,0.0645642369777481
+2787053496,One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning,2018,55,53,6,1.0,2640756932,Tianhe Yu,0,0.016357069610664,0.0645642369777481
+2809134166,Enabling Robots to Communicate Their Objectives,2017,23,14,3,0.857143,2120919054,Sandy H. Huang,0,0.016357069610664,0.0645642369777481
+2797862905,The Limits and Potentials of Deep Learning for Robotics,2018,93,2,8,0.0,326608481,Niko SÃ¼nderhauf,0,0.016357069610664,0.0645642369777481
+2901509721,Guiding Policies with Language via Meta-Learning,2018,40,3,5,1.0,2604469950,John D. Co Reyes,0,0.016357069610664,0.0645642369777481
+2898525034,One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks,2018,29,19,2,1.0,2640756932,Tianhe Yu,0,0.016357069610664,0.0645642369777481
+2894766094,SFV reinforcement learning of physical skills from videos,2019,60,43,4,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481
+2896285993,Composable Action-Conditioned Predictors Flexible Off-Policy Learning for Robot Navigation,2018,0,3,3,1.0,2140368088,Gregory Kahn,0,0.016357069610664,0.0645642369777481
+2911940799,Preferences Implicit in the State of the World,2019,0,3,4,0.0,2226823154,Rohin Shah,0,0.016357069610664,0.0645642369777481
+2897798332,Establishing Appropriate Trust via Critical States,2018,21,16,3,0.857143,2120919054,Sandy H. Huang,0,0.21017423284136053,0.26559687106123664
+2949783499,Establishing Appropriate Trust via Critical States,2018,20,1,3,0.857143,2120919054,Sandy H. Huang,0,0.13070488739586264,0.1157291099140871
+2963026102,Guiding Policies with Language via Meta-Learning,2019,0,9,5,1.0,2604469950,John D. Co Reyes,0,0.016357069610664,0.0645642369777481
+2963170432,Learning dexterous manipulation for a soft robotic hand from human demonstrations,2016,33,28,4,1.0,2312135413,Abhishek Gupta,0,0.016357069610664,0.0645642369777481
+2963292213,Third Person Imitation Learning,2017,0,22,2,0.0,2559974142,Bradly C. Stadie,0,0.016357069610664,0.0645642369777481
+2952842465,Learning Contact-Rich Manipulation Skills with Guided Policy Search,2015,25,41,3,0.0,2140030024,Sergey Levine,0,0.016357069610664,0.0645642369777481
+2963403593,Composable Deep Reinforcement Learning for Robotic Manipulation,2018,0,29,5,0.0,2197904670,Tuomas Haarnoja,0,0.19273499667151017,0.3149483151666419
+2952991114,Goal-conditioned Imitation Learning,2019,38,4,4,0.0,2952717332,Yiming Ding,0,0.016357069610664,0.0645642369777481
+2963669336,Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation,2018,0,98,6,1.0,2281383953,Tianhao Zhang,0,0.5887187771454493,0.2774547147213479
+2963689319,Deep Object-Centric Representations for Generalizable Robot Learning,2018,0,26,2,1.0,2549226862,Coline Devin,0,0.19273499667151017,0.3149483151666419
+2953176712,Composable Action-Conditioned Predictors Flexible Off-Policy Learning for Robot Navigation,2018,14,2,3,1.0,2140368088,Gregory Kahn,0,0.016357069610664,0.0645642369777481
+2963703448,One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning,2018,0,30,6,1.0,2640756932,Tianhe Yu,0,0.016357069610664,0.0645642369777481
+2963802910,Imitation from Observation Learning to Imitate Behaviors from Raw Video via Context Translation,2018,0,77,3,1.0,2604642998,YuXuan Liu,0,0.19273499667151017,0.3149483151666419
+2964001908,Hindsight Experience Replay,2017,0,249,9,0.0,288136762,Marcin Andrychowicz,0,0.016357069610664,0.0645642369777481
+2951419397,SFV Reinforcement Learning of Physical Skills from Videos,2018,39,8,4,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481
+2946054758,MCP Learning Composable Hierarchical Control with Multiplicative Compositional Policies,2019,36,11,4,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481
+2964248288,The limits and potentials of deep learning for robotics,2018,50,100,8,0.0,326608481,Niko SÃ¼nderhauf,0,0.016357069610664,0.0645642369777481
+2964262254,Learning modular neural network policies for multi-task and multi-robot transfer,2017,34,90,4,1.0,2549226862,Coline Devin,0,0.016357069610664,0.0645642369777481
+2964333597,Learning Robotic Assembly from CAD,2018,0,28,5,0.0,2514302950,Garrett Thomas,0,0.19273499667151017,0.3149483151666419
+2996086858,AVID Learning Multi-Stage Tasks via Pixel-Level Translation of Human Videos,2019,61,2,4,0.0,2129679531,Laura M. Smith,0,0.016357069610664,0.0645642369777481
+2965293401,DoorGym A Scalable Door Opening Environment And Baseline Agent,2019,28,3,6,0.0,2966161429,Yusuke Urakami,0,0.016357069610664,0.0645642369777481
+2991934429,Adaptive Online Planning for Continual Lifelong Learning,2019,31,2,3,0.0,2992082946,Kevin Lu,0,0.016357069610664,0.0645642369777481
+2970990801,MCP Learning Composable Hierarchical Control with Multiplicative Compositional Policies,2019,0,6,4,1.0,2232383821,Xue Bin Peng,0,0.016357069610664,0.0645642369777481
+2966271811,Learning Robotic Manipulation through Visual Planning and Acting,2019,0,7,4,0.0,2768240658,Angelina Wang,0,0.016357069610664,0.0645642369777481
+3003820054,One-Shot Composition of Vision-Based Skills from Demonstration,2019,34,0,2,1.0,2640756932,Tianhe Yu,0,0.016357069610664,0.0645642369777481
+3006388420,BADGR An Autonomous Self-Supervised Learning-Based Navigation System,2020,39,3,2,1.0,2140368088,Gregory Kahn,0,0.0748210391128625,0.1923953045101454
+3022044590,Robotics Science and Systems VIII,2012,0,1,1,1.0,243981275,Pieter Abbeel,0,0.016357069610664,0.0645642369777481

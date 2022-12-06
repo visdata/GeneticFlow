@@ -1,0 +1,99 @@
+173185721,Reachable subwebs for traversal-based query execution,2014,12,5,2,0.121776,142736376,Olaf Hartig,0,0.3709849756794259,-0.8029887302264062
+5079485,Temporality in object database management systems,1998,0,3,1,1.0,360895095,M. Tamer Ã–zsu,0,-2.5828008786731957,0.5285979899331846
+125898969,A Multi-Level Index Structure for Video Databases,2002,25,3,3,1.0,2318776917,Lei Chen,0,0.32226296145352923,0.374919224386917
+142677711,Integrating the Results of Multimedia Sub-Queries Using Qualitative Preferences,2004,18,7,4,0.285714,1984523449,Ilaria Bartolini,0,0.2283467418193752,-0.12566564915588044
+6979975,Proceedings of the First International Workshop on Keyword Search on Structured Data,2009,0,1,1,1.0,360895095,M. Tamer Ã–zsu,0,-0.7148290976782908,0.0988791260701024
+41934993,Review - MOCHA A Self-Extensible Database Middleware System for Distributed Data Sources,2000,0,1,1,1.0,360895095,M. Tamer Ã–zsu,0,0.003708468606338,0.082832279151172
+145267788,Modeling and Querying Shapes in an Image Database System,1999,0,0,2,0.789474,2191831223,Vincent Oria,0,-1.9769084645796051,0.8211647392449818
+30174891,Modeling Video Data for Content Based Queries Extending the DISIMA Image Data Model,2003,27,13,2,1.0,2318776917,Lei Chen,0,0.6960715663546266,-0.2902854384202042
+1504914360,Managing Schema Evolution Using a Temporal Object Model,1997,36,12,3,0.857143,1233699610,Iqbal A. Goralwalla,0,-3.5049620278402656,0.6195718510292846
+1534469055,Probabilistic Ranking of Database Query Results,2004,0,2,5,0.0,2163909284,Surajit Chaudhuri,0,-1.2695467548842534,0.48347023734806116
+1507541621,An object-oriented framework for temporal data models,1998,45,25,2,0.7,1233699610,Iqbal A. Goralwalla,0,0.4121594185262329,0.9159239788295315
+1490413238,Dynamic skyline queries in large graphs,2010,19,30,3,0.75,2334791189,Lei Zou,0,0.10888121628319425,0.15276339369217273
+1553858877,Distributed Database Management Current State-of-the-Art Unsolved Problems New Issues (Abstract),1991,0,0,1,1.0,360895095,M. Tamer Ã–zsu,0,0.003708468606338,0.082832279151172
+1492100919,Database publication practices,2005,2,5,7,0.0,2304774990,Philip A. Bernstein,0,-0.3394380530009998,-0.0716407767871401
+1510826524,Materialized View Selection in XML Databases,2009,26,20,4,0.0,2607702498,Nan Tang,0,-2.215312834523706,-0.07398422817264064
+1510851260,A graph-based RDF triple store,2015,8,2,3,0.0,2167582790,Xuchuan Shen,0,1.30809021219928,-2.2153249841898295
+1557132264,Defining Views in an Image Database System,1999,16,2,2,0.789474,2191831223,Vincent Oria,0,-1.3657787404739294,0.7408669351342606
+1810256132,Diversified Stress Testing of RDF Data Management Systems,2014,23,125,3,0.913043,2084410744,GÃ¼neÅŸ AluÃ§,0,0.6705570092461989,-1.299736989150482
+1580524133,Executing queries over schemaless RDF databases,2015,36,5,2,0.913043,2084410744,GÃ¼neÅŸ AluÃ§,0,0.27134296136918234,-1.0386447802129495
+1817956424,Processing SPARQL Queries Over Linked Data-A Distributed Graph-based Approach,2014,36,6,3,0.0,2951450540,Peng Peng,0,1.0787267193020758,-1.936145877539139
+1599534523,Efficient decision tree re-alignment for clustering time-changing data streams,2010,27,0,2,1.0,2119832148,Yingying Tao,0,1.1358954305090914,1.4172249576805602
+1601677373,Internet-scale data distribution some research problems,2006,0,0,1,1.0,360895095,M. Tamer Ã–zsu,0,-0.24631475925461466,0.01662727508514165
+1717512635,Clustering RDF Databases Using Tunable-LSH,2015,46,4,2,0.913043,2084410744,GÃ¼neÅŸ AluÃ§,0,1.1842403774934653,-2.18144682949664
+1602598615,A framework for temporal data models exploiting object-oriented technology,1997,26,10,1,1.0,360895095,M. Tamer Ã–zsu,0,-1.4559348582915608,0.8859872206545182
+1585071718,Temporal Granularity Completing the Puzzle,2001,27,52,3,0.7,1233699610,Iqbal A. Goralwalla,0,-0.3049247326517621,0.1886461481807304
+1966256265,Efficient decision tree construction for mining time-varying data streams,2009,23,1,2,1.0,2119832148,Yingying Tao,0,1.223230221692092,1.5009954584449279
+1982177147,gStore answering SPARQL queries via subgraph matching,2011,27,175,4,0.585366,2334791189,Lei Zou,0,1.0208512139525192,-1.9335938663477485
+1970142246,A partial-order based active cache for recommender systems,2009,13,4,5,0.0,2227851461,Umar Qasim,0,-0.07617297713812993,0.3220603219903195
+1979610727,Mining data streams with periodically changing distributions,2009,25,7,2,1.0,2119832148,Yingying Tao,0,-0.07746742081378767,0.4403532176198057
+1987268029,Flexible integration of multimedia sub-queries with qualitative preferences,2007,25,15,4,0.285714,1984523449,Ilaria Bartolini,0,0.04058852858681295,-0.03346779459016044
+2005930142,XCube Processing XPath queries in a hypercube overlay network,2009,23,3,2,0.0,2118242501,Ying Guang Li,0,-2.54329344208755,-0.27949223058923794
+2004508591,Future of database systems changing applications and technological developments,1996,7,1,1,1.0,360895095,M. Tamer Ã–zsu,0,0.003708468606338,0.082832279151172
+2022431239,QAGen generating query-aware test databases,2007,21,92,4,0.428571,228175360,Carsten Binnig,0,-1.7600128521545264,0.5686759609190812
+2022740398,Generating efficient execution plans for vertically partitioned XML databases,2010,22,25,2,1.0,2063737772,Patrick Kling,0,-1.2611297152061316,0.23096117443906988
+2012977230,A temporal approach to managing schema evolution in object database systems,1998,44,15,3,0.7,1233699610,Iqbal A. Goralwalla,0,-3.2317447908396493,0.561327563804891
+2014871820,Answering pattern match queries in large graph databases via graph embedding,2012,36,22,3,0.575244,2334791189,Lei Zou,0,0.003708468606338,0.082832279151172
+2027285942,Experimenting with temporal relational databases,1995,25,16,3,0.857143,1233699610,Iqbal A. Goralwalla,0,-2.197172418215585,0.7841220502722233
+2034094825,R-Store A scalable distributed system for supporting real-time analytics,2014,24,13,2,0.0,2883443308,Feng Li,0,0.6805395321137968,0.21499399317501103
+2035927913,Temporal granularity for unanchored temporal data,1998,13,17,3,0.7,1233699610,Iqbal A. Goralwalla,0,-0.3049247326517621,0.1886461481807304
+2039722754,A Web page prediction model based on click-stream tree representation of user behavior,2003,11,138,2,0.0,2689179979,Åžule GÃ¼ndÃ¼z,0,-0.43602194454500454,-1.655013651906519
+2073568854,Speed up semantic search in p2p networks,2008,2,3,5,0.0,2582625827,Qiang Wang,0,0.46071023222373103,-0.9706772502052169
+2072466548,Incremental click-stream tree model Learning from new users for web page prediction,2006,43,16,1,1.0,360895095,M. Tamer Ã–zsu,0,0.2567857644420126,-1.4546636917654008
+2072659118,Join processing heuristics in relational databases systems,1990,16,6,1,1.0,360895095,M. Tamer Ã–zsu,0,-0.9702884294971179,-0.11209398731787863
+2087387838,Linked Data query processing,2014,29,8,2,0.121776,142736376,Olaf Hartig,0,0.21196922486604527,-1.0082733898509042
+2099464320,An apples-to-apples comparison of two database journals,2005,1,6,6,0.0,2304774990,Philip A. Bernstein,0,-0.5382003747333197,0.07543261150339188
+2080372015,Localized routing trees for query processing in sensor networks,2005,0,6,4,0.0,2617368099,Jie Lian,0,0.003708468606338,0.082832279151172
+2099525917,A framework for testing DBMS features,2010,35,22,4,0.0,2098564095,Eric Lo,0,-2.950799492285396,1.0573514139629372
+2097276452,An Extendible Hash for Multi-Precision Similarity Querying of Image Databases,2001,21,43,2,0.0,2620218611,Shu Lin,0,-0.13275296294680305,-0.071629888206014
+2091633850,Mining frequent itemsets in time-varying data streams,2009,25,6,2,1.0,2119832148,Yingying Tao,0,-0.1071931497347323,0.3242721482837629
+2095469982,Two-dimensional S-tree an index structure for content-based retrieval of images,1998,0,2,1,1.0,360895095,M. Tamer Ã–zsu,0,-0.1846399243498238,-0.0592903585209163
+2088579975,Modeling temporal primitives back to basics,1997,21,13,3,0.857143,1233699610,Iqbal A. Goralwalla,0,0.003708468606338,0.082832279151172
+2081725016,An axiomatic model of dynamic schema evolution in objectbase systems,1997,14,80,2,0.0,2433551050,Randel J. Peters,0,-3.3116893094025843,0.5776266317788975
+2080139625,Scaling XML query processing distribution localization and pruning,2011,45,5,2,1.0,2063737772,Patrick Kling,0,-1.0891291082389662,-0.11597567802428588
+2083854694,Distributed data management using MapReduce,2014,96,119,3,0.0,2883443308,Feng Li,0,-0.6499586439931924,0.6402332105826486
+2141289279,Alternative Architectures and Protocols for Providing Strong Consistency in Dynamic Web Applications,2006,30,8,2,0.0,2027786230,M. Hossein Sheikh Attar,0,-0.2658508836038039,-1.066322404289876
+2126315892,Performance comparison of resilient concurrency control algorithms for distributed databases,1986,5,4,1,1.0,360895095,M. Tamer Ã–zsu,0,0.003708468606338,0.082832279151172
+2111607365,Distance-join pattern match query in a large graph database,2009,28,174,3,0.75,2334791189,Lei Zou,0,-0.1029618939806145,0.040434369851773004
+2108630905,Data management issues in electronic commerce,1999,3,0,1,1.0,360895095,M. Tamer Ã–zsu,0,-0.24631475925461466,0.01662727508514165
+2138531903,On Indexing Sliding Windows over Online Data Streams,2004,21,48,3,0.8,2618045780,Lukasz Golab,0,0.2867716484588586,0.021931270967845064
+2121041488,gStore a graph-based SPARQL query engine,2014,35,105,2,0.404212,2334791189,Lei Zou,0,1.9279693237120186,-3.217722752688034
+2132851185,Issues in data stream management,2003,68,861,2,0.8,2618045780,Lukasz Golab,0,-0.37137008959378653,0.20013237548141452
+2136058416,Extending DBMSs with satellite databases,2008,27,42,3,0.0,2110697174,Christian Plattner,0,0.2259700045206411,-0.041396269314434755
+2142560248,FIX feature-based indexing technique for XML documents,2006,32,44,2,0.0,3017915367,Ning Zhang,0,-2.7046891273372338,-0.30904269606241475
+2142599626,Efficient core decomposition in massive networks,2011,31,143,4,0.0,2304873892,James Cheng,0,0.003708468606338,0.082832279151172
+2133491514,A comprehensive XQuery to SQL translation using dynamic interval encoding,2003,27,164,4,0.0,429046255,David DeHaan,0,-1.068935906498427,-0.14610279156169106
+2133623058,Creating competitive products,2009,21,55,4,0.0,2425003758,Qian Wan,0,0.04058852858681295,-0.03346779459016044
+2113393665,Distributed data management in 2020,2011,2,4,1,1.0,360895095,M. Tamer Ã–zsu,0,-0.9332575937172407,0.35548480536703675
+2128248866,k-automorphism a general framework for privacy preserving network publication,2009,25,313,3,0.75,2334791189,Lei Zou,0,-0.22024388940702913,0.2748690036719837
+2160152607,Efficient method for maximizing bichromatic reverse nearest neighbor,2009,19,91,2,0.0,2125027556,Raymond Chi Wing Wong,0,-0.4026758152296301,2.020525365559603
+2157469509,Update-pattern-aware modeling and processing of continuous queries,2005,23,65,2,0.8,2618045780,Lukasz Golab,0,-0.1494257182065603,0.11130446437806295
+2145957360,Maximizing bichromatic reverse nearest neighbor for Lp-norm in two- and three-dimensional spaces,2011,24,27,1,1.0,360895095,M. Tamer Ã–zsu,0,-0.21127245719628265,1.1177578011822922
+2167068797,Tigukat a uniform behavioral objectbase management system,1995,59,55,1,1.0,360895095,M. Tamer Ã–zsu,0,0.05448019130845853,0.011338791864125031
+2175919459,XBench - A Family of Benchmarks for XML DBMSs,2003,14,62,2,0.0,2692765981,Benjamin Bin Yao,0,-1.238294123075183,-0.19416650805909239
+2146496747,Workload matters why RDF databases need a new design,2014,24,26,1,1.0,360895095,M. Tamer Ã–zsu,0,1.6324931212991365,-2.7905244594386276
+2182859693,A Framework for Supporting DBMS-like Indexes in the Cloud,2011,22,44,4,0.0,2097686777,Hoang Tam Vo,0,-0.13275296294680305,-0.071629888206014
+2227052561,Processing SPARQL queries over distributed RDF graphs,2016,53,56,3,0.444444,2130340110,Peng Peng,0,2.0085441952524055,-3.370221997360265
+2266577329,A general-purpose query-centric framework for querying big graphs,2016,28,18,3,0.0,2146437384,Da Yan,0,0.003708468606338,0.082832279151172
+2293071772,Graph Search of Software Models Using Multidimensional Scaling,2015,18,4,3,0.0,336627262,Bojana Bislimovska,0,0.003708468606338,0.082832279151172
+2281494333,An experimental comparison of pregel-like graph processing systems,2014,29,126,4,0.0,2285632155,Minyang Han,0,0.003708468606338,0.082832279151172
+2460398959,Walking without a Map Optimizing Response Times of Traversal-Based Linked Data Queries (Extended Version),2016,26,1,2,0.121776,142736376,Olaf Hartig,0,-0.01657107088421793,0.035389748403282274
+2583231427,Graph-Based RDF Data Management,2017,38,10,2,0.251228,2334791189,Lei Zou,0,1.7624709709241995,-2.9466913652257145
+2522659461,Walking Without a Map Ranking-Based Traversal for Querying Linked Data,2016,16,6,2,0.121776,142736376,Olaf Hartig,0,0.1919385996072349,0.08519518235336561
+2518845274,Panel The State of Data Invited Paper from panelists,2016,3,1,5,0.0,1960940100,Maude Bonenfant,0,0.003708468606338,0.082832279151172
+2519679495,Web Data Management in the RDF Age Keynote talk abstract,2016,1,0,1,1.0,360895095,M. Tamer Ã–zsu,0,1.0486242051685535,-2.638978041190087
+2734568115,ViewDF Declarative incremental view maintenance for streaming data,2017,39,1,3,0.0,2734879842,Yuke Yang,0,-2.6709978807007695,0.021401027611355466
+2624082338,Do We Need Specialized Graph Databases Benchmarking Real-Time Social Networking Applications,2017,11,11,4,1.0,1902987072,Anil Pacaci,0,-0.9327441634318632,0.32947886172125534
+2803123410,Distribution-Aware Stream Partitioning for Distributed Stream Processing Systems,2018,14,3,2,1.0,1902987072,Anil Pacaci,0,0.003708468606338,0.082832279151172
+2800300897,Multi-query Optimization in Federated RDF Systems,2018,20,1,3,0.444444,2130340110,Peng Peng,0,-0.0395804122397981,0.0068802457672825015
+2786498279,Time Constrained Continuous Subgraph Search over Streaming Graphs,2018,13,1,3,0.857143,2227677248,Youhuan Li,0,0.003708468606338,0.082832279151172
+2784053634,The ubiquity of large graphs and surprising challenges of graph processing,2017,18,36,5,0.0,2613897873,Siddhartha Sahu,0,0.003708468606338,0.082832279151172
+2787936283,On indexing sliding windows over online data streams,2004,0,0,3,0.8,2618045780,Lukasz Golab,0,0.2867716484588586,0.021931270967845064
+2917106292,Correlation constraint shortest path over large multi-relation graphs,2019,43,0,2,0.0,2915346741,Xiaofei Zhang,0,0.003708468606338,0.082832279151172
+2962780468,Experimental analysis of distributed graph systems,2018,0,5,2,0.0,2476135429,Khaled Ammar,0,0.003708468606338,0.082832279151172
+2948167003,GSI GPU-friendly Subgraph Isomorphism,2019,41,1,3,0.0,2912039268,Li Zeng,0,0.003708468606338,0.082832279151172
+2948637333,Experimental Analysis of Streaming Algorithms for Graph Partitioning,2019,40,1,2,1.0,1902987072,Anil Pacaci,0,0.003708468606338,0.082832279151172
+2953172117,Processing SPARQL Queries Over Distributed RDF Graphs,2014,45,0,3,0.352941,2130340110,Peng Peng,0,0.9501476930606567,-1.9254253069560479
+2963904000,Time Constrained Continuous Subgraph Search Over Streaming Graphs,2019,13,5,3,0.857143,2227677248,Youhuan Li,0,0.12492345808765674,0.23414093372237493
+2981181577,Optimizing Multi-Query Evaluation in Federated RDF Systems,2019,0,0,1,1.0,360895095,M. Tamer Ã–zsu,0,0.003708468606338,0.082832279151172
+3014301104,Regular Path Query Evaluation on Streaming Graphs,2020,52,0,3,1.0,1902987072,Anil Pacaci,0,0.003708468606338,0.082832279151172

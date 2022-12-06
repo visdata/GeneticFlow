@@ -1,0 +1,30 @@
+120483394,LIBTP Portable Modular Transactions for UNIX,1992,18,18,1,1.0,2337629383,Margo Seltzer,0,2.5424850547859865,2.140513732270433
+114771800,File Layout and File System Performance,1994,5,25,2,1.0,2149125339,Keith A. Smith,0,-0.5639231840335123,1.9948626376845957
+149299412,VINO An Integrated Platform for Operating System and Database Research,1994,0,29,2,0.0,2165228636,Christopher Small,0,-0.0041099411153885,0.0447066884760059
+67597731,Attribute-Based Prediction of File Properties,2003,30,25,3,0.0,2791808,Gregory R. Ganger,0,-0.15439584752321023,0.46142759199380223
+1559528097,Provenance-aware storage systems,2006,28,433,4,0.651572,272990089,Kiran Kumar Muniswamy Reddy,0,-0.0041099411153885,0.0447066884760059
+1508502313,Collecting Provenance via the Xen Hypervisor,2011,8,39,3,1.0,1265675910,Peter Macko,0,-0.0041099411153885,0.0447066884760059
+1545590260,StarFlow A Script-Centric Data Analysis Environment,2010,14,21,3,0.0,1971334216,Elaine Angelino,0,0.2946713761785912,0.4027268098681643
+1547159097,The Utility of File Names,2003,18,21,3,0.714286,2070854328,Daniel Ellard,0,-0.1497651483738237,1.0663740662610097
+1577928699,A Self-Scaling and Self-Configuring Benchmark for Web Servers,1997,5,28,2,0.0,2120725800,Michael Courage,0,-1.659358384010499,-1.8813572374978509
+1749996530,Transaction support in read optimized and write optimized file systems,1990,14,77,2,0.0,1998938290,Michael Stonebraker,0,2.159455442766235,2.25020367570928
+1880832170,Choosing a Data Model and Query Language for Provenance,2008,11,60,5,0.8,272990089,Kiran Kumar Muniswamy Reddy,0,0.16818198789038213,0.10580966311287783
+1846570396,Making a cloud provenance-aware,2009,11,44,3,0.8,272990089,Kiran Kumar Muniswamy Reddy,0,-0.4952370533090319,-0.40710710999814825
+1883937078,Provenance for the cloud,2010,28,143,3,0.78796,272990089,Kiran Kumar Muniswamy Reddy,0,-0.43031227948470163,-0.5028731342528872
+1813893391,Issues in automatic provenance collection,2006,21,77,5,0.882353,2112625431,Uri Braun,0,0.09488699947538348,0.5612007050826424
+1916385248,LLAMA Efficient graph analytics using Large Multiversioned Arrays,2015,30,45,4,1.0,1265675910,Peter Macko,0,-0.26111576430640643,-0.19302535071852145
+1822146434,Benchmarking file system benchmarking it *IS* rocket science,2011,4,40,4,0.0,2171668805,Vasily Tarasov,0,-0.15439584752321023,0.46142759199380223
+1858703999,Layering in provenance systems,2009,27,120,7,0.8,272990089,Kiran Kumar Muniswamy Reddy,0,0.5904035272416879,1.0810801613044037
+1662927632,Building a reliable mutable file system on peer-to-peer storage,2002,15,15,3,0.0,2143681500,Christopher A. Stein,0,-0.6218235492583947,1.7277613612929827
+1979634606,PASSing the provenance challenge,2008,9,43,2,1.0,2097332691,David A. Holland,0,-0.15439584752321023,0.46142759199380223
+2067182386,File system agingâ€”increasing the relevance of file system benchmarks,1997,22,104,2,1.0,2149125339,Keith A. Smith,0,-0.8993678567667917,2.772905238458062
+2135428282,Trace-based analyses and optimizations for network storage servers,2004,81,11,2,0.714286,2070854328,Daniel Ellard,0,-0.25338633592237175,0.3775993667729496
+2131304484,Foundations for provenance-aware systems,2010,76,15,2,0.78796,272990089,Kiran Kumar Muniswamy Reddy,0,-0.24917402967305577,1.6997942111817879
+2169070268,Network-Aware Operator Placement for Stream-Processing Systems,2006,24,368,6,1.0,660469050,Peter Pietzuch,0,-0.2730096528696326,-0.21808594139815274
+2151843600,Transaction support in a log-structured file system,1993,14,60,1,1.0,2337629383,Margo Seltzer,0,0.7146697014956788,2.5743126895364936
+2170432965,Hierarchical file systems are dead,2009,14,76,1,1.0,2337629383,Margo Seltzer,0,-0.873641244357423,2.4753129318467053
+2167829336,A Cost-Space Approach to Distributed Query Optimization in Stream Based Overlays,2005,22,21,4,0.0,3023233019,Jeff Shneidman,0,0.0908845357243609,0.31128747720343375
+2200883250,Layering in Provenance-Aware Storage Systems,2008,14,7,7,0.8,272990089,Kiran Kumar Muniswamy Reddy,0,-0.0041099411153885,0.0447066884760059
+2747669027,Practical whole-system provenance capture,2017,74,16,6,1.0,2223752504,Thomas Pasquier,0,-0.0041099411153885,0.0447066884760059
+2898191556,An NVM Carol Visions of NVM Past Present and Future,2018,58,1,1,1.0,2337629383,Margo Seltzer,0,0.6788617528682425,0.6313731879438487
+2980560460,From Here to Provtopia,2019,60,1,3,1.0,2223752504,Thomas Pasquier,0,-0.0041099411153885,0.0447066884760059

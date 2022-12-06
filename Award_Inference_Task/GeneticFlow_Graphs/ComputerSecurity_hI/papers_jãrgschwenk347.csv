@@ -1,0 +1,128 @@
+36921382,Strongly authenticated key exchange protocol from bilinear groups without random oracles,2012,18,5,1,1.0,2145024463,JÃ¶rg Schwenk,0,-0.48918163398582,-1.063089474521481
+174528657,On breaking SAML be whoever you want to be,2012,31,77,3,0.741935,227543715,Juraj Somorovsky,0,-2.760467984895972,0.001137021373036029
+3952955,Securing Email Communication with XML Technology,2007,0,2,2,1.0,1984510252,Lijun Liao,0,-0.2268242158331473,0.8542245237054084
+56042411,SAMLizing the European Citizen Card,2009,19,8,3,0.0,2093680840,Jan Eichholz,0,-1.9317454571292114,0.432815822519093
+107413284,Modelling Time for Authenticated Key Exchange Protocols,2014,31,8,1,1.0,2145024463,JÃ¶rg Schwenk,0,-0.7304675705020793,-1.4753911611539052
+196589700,Towards Elimination of Cross-Site Scripting on Mobile Versions of Web Applications,2013,15,6,2,0.727273,2148291964,Ashar Javed,0,-0.1112880672739179,0.3275403405410478
+26429138,Risks of the CardSpace Protocol,2009,21,21,2,0.55498,224658985,Sebastian Gajek,0,-0.6202072145160692,0.26775338087632006
+182749047,TLS-Federation - a Secure and Relying-Party-Friendly Approach for Federated Identity Management,2008,9,13,3,0.0,2057285527,Bud P. Bruegger,0,-1.7406009924455312,-0.3750257572433264
+50556389,Code Voting with Linkable Group Signatures,2008,11,14,2,1.0,2631925496,JÃ¶rg Helbach,0,-1.157560915554388,-0.022590971900344037
+33829987,Security Analysis of OpenID,2010,7,17,3,0.0,2395578657,Pavol Sovis,0,-0.7590586357999777,-0.09016123011610279
+136549035,Malware und Kryptographie,2010,0,0,1,1.0,2145024463,JÃ¶rg Schwenk,0,-0.3976003713362508,1.164290882867107
+34367126,On the Security of the Pre-shared Key Ciphersuites of TLS,2014,36,16,5,0.0,2238726268,Yong Li,0,-0.6424607170362032,-1.4095453161282425
+343472081,SIACHEN A Fine-Grained Policy Language for the Mitigation of Cross-Site Scripting Attacks,2014,15,1,3,0.727273,2148291964,Ashar Javed,0,-0.3383784544281044,0.15268826611744696
+1477633168,The bug that made me president a browser- and web-security case study on helios voting,2011,31,10,4,0.599671,1834983159,Mario Heiderich,0,0.6518945594628649,0.1397552872671919
+1568884327,Secure XMaiL or how to get rid of legacy code in secure e-mail applications,2005,4,3,4,0.0,2502637960,Lars Ewers,0,-0.33939827555435353,-1.3070426585672126
+1184927937,Scriptless attacks Stealing more pie without touching the sill,2014,37,4,5,0.697064,1834983159,Mario Heiderich,0,0.9147904711828664,-0.16771623953390893
+1534035202,A Novel Solution for End-to-End Integrity Protection in Signed PGP Mail,2008,5,1,2,1.0,1984510252,Lijun Liao,0,-1.966954835071715,-1.1220165052213875
+1516017834,XML Signature Wrapping Angriffe,2009,17,2,4,0.0,398696196,Nils Gruschka,0,0.3171484069971384,-0.13992525839030945
+1481508603,Generic Compilers for Authenticated Key Exchange,2010,43,18,4,0.818182,2210952701,Tibor Jager,0,-0.7544925226746134,-2.6226178219933747
+1481906311,SSL-over-SOAP Towards a Token-based Key Establishment framework for Web services,2008,15,5,4,0.55498,224658985,Sebastian Gajek,0,-0.17901645364288465,-0.6354996997004525
+1561943362,Secure internet voting with code sheets,2007,14,22,2,1.0,2631925496,JÃ¶rg Helbach,0,-0.05192146009019821,-0.3814925813133456
+1509022060,Establishing a key hierarchy for conditional access without encryption,1997,1,2,1,1.0,2145024463,JÃ¶rg Schwenk,0,0.05702316584713792,-2.265181868729301
+1563413452,Method for generating an authentic electronic certificate,2002,4,1,2,0.0,2133741960,Ulrich Heister,0,-0.02815649551489192,-1.5410618811460055
+1501007756,End-to-end header protection in signed S/MIME,2007,8,3,2,1.0,1984510252,Lijun Liao,0,-1.3001657339177017,-1.4915306276680187
+1555318956,Sometimes its better to be STUCK SAML transportation unit for cryptographic keys,2012,8,0,3,1.0,2119313690,Christopher Meyer,0,-1.4204823459951392,-0.08387726044520663
+1519681818,A CDH-Based ring signature scheme with short signatures and public keys,2010,41,22,2,1.0,665923922,Sven SchÃ¤ge,0,-1.0213628757435314,-2.9968561395383384
+1556478859,Methods and arrangements for preventing unauthorised use of distribution networks,1997,1,6,1,1.0,2145024463,JÃ¶rg Schwenk,0,0.23796285681249385,-0.7425900701137622
+1548248652,Enforcing User-Aware Browser-Based Mutual Authentication with Strong Locked Same Origin Policy,2008,37,1,3,0.55498,224658985,Sebastian Gajek,0,-2.1953673419000257,-1.7462467501927668
+1452942402,SoK Lessons Learned from SSL/TLS Attacks,2013,39,31,2,1.0,2119313690,Christopher Meyer,0,-0.3809120836189041,-1.8432272506701302
+1929541515,Making XML Signatures Immune to XML Signature Wrapping Attacks,2012,17,8,4,1.0,1993005797,Christian Mainka,0,0.0040557659796233,0.2757546058061082
+1742473555,A Browser-Based Kerberos Authentication Scheme,2008,27,16,4,0.55498,224658985,Sebastian Gajek,0,-1.9712147715676855,-0.8059085654621608
+1673604584,Revisiting SSL/TLS implementations new Bleichenbacher side channels and attacks,2014,22,50,4,1.0,2119313690,Christopher Meyer,0,-0.11386645857804026,-1.0466649106618824
+1578972423,Do Not Trust Me Using Malicious IdPs for Analyzing and Attacking Single Sign-on,2016,25,8,3,1.0,1993005797,Christian Mainka,0,-2.2685994311193673,-0.15666865594623708
+1812945291,Owning Your Home Network Router Security Revisited,2015,12,5,2,1.0,1912962712,Marcus Niemietz,0,0.0040557659796233,0.2757546058061082
+1591109894,Attacking of smartcard-based banking applications with javascript-based rootkits,2010,6,1,3,0.0,2487565659,Daniel BuÃŸmeyer,0,-0.26410448399419595,0.7606992390758511
+1862604959,On security models and compilers for group key exchange protocols,2007,50,35,3,0.0,1781639045,Emmanuel Bresson,0,-0.5285645329037518,-0.8480888708610967
+1966278948,Signieren mit Chipkartensystemen in unsicheren Umgebungen Homebanking mit Secure HBCI/FinTS,2007,9,0,3,0.518519,224658985,Sebastian Gajek,0,0.0040557659796233,0.2757546058061082
+1982229506,On Cryptographically Strong Bindings of SAML Assertions to Transport Layer Security,2011,21,1,2,0.666667,166844205,Florian Kohlar,0,-0.5874903266438991,-0.9137612501815241
+1978027028,Your Software at my Service Security Analysis of SaaS Single Sign-On Solutions in the Cloud,2014,20,9,5,1.0,1993005797,Christian Mainka,0,-2.0676817347921808,0.012045251673813808
+1987683046,Secure Bindings of SAML Assertions to TLS Sessions,2010,16,11,2,0.666667,166844205,Florian Kohlar,0,-0.8534223466151322,-1.507358749659853
+2009118344,Stronger TLS bindings for SAML assertions and SAML artifacts,2008,17,13,3,0.55498,224658985,Sebastian Gajek,0,-0.5237012984518891,-1.5791687260175482
+2002447170,mXSS attacks attacking well-secured web-applications by using innerHTML mutations,2013,16,31,2,0.8,1834983159,Mario Heiderich,0,2.1919812650084856,0.03253585511523166
+2018888020,Penetration Testing Tool for Web Services Security,2012,16,48,3,1.0,1993005797,Christian Mainka,0,0.0040557659796233,0.2757546058061082
+2010474500,How Private is Your Private Cloud Security Analysis of Cloud Control Interfaces,2015,19,1,4,1.0,2343565423,Dennis Felsch,0,-0.0029570390478927677,0.4330589837107442
+2022828656,XML Signature Wrapping Angriffe wirksam unterbinden,2012,12,0,5,0.61753,2099544461,Meiko Jensen,0,0.0040557659796233,0.2757546058061082
+2011077557,Guardians of the Clouds When Identity Providers Fail,2014,30,5,4,1.0,2237776675,Andreas Mayer,0,-0.33775422629897256,0.35789493301009273
+2016853412,Technical Analysis of Countermeasures against Attack on XML Encryption -- or -- Just Another Motivation for Authenticated Encryption,2012,24,11,2,0.741935,227543715,Juraj Somorovsky,0,0.24265896949966265,-1.854189625024481
+2038478591,Combining digital watermarks and collusion secure fingerprints for digital images,2000,5,59,4,0.0,2622055178,Jana Dittmann,0,0.829081644762625,1.2244749650587847
+2036921005,A New Approach towards DoS Penetration Testing on Web Services,2013,11,15,4,0.0,2718002153,Andreas Falkenberg,0,0.3259332239481683,0.5745734317069635
+2040587574,Key-assignment strategies for CPPM,2004,9,2,2,0.243395,1270610900,AndrÃ© Adelsbach,0,0.7611448886468896,-0.2631105890437791
+2042849794,Studieren mit Sicherheit in Bochum Die StudiengÃ¤nge zum Thema IT-Sicherheit,2007,0,0,4,0.0,356053134,Christof Paar,0,0.0040557659796233,0.2757546058061082
+2055143365,The power of recognition secure single sign-on using TLS channel bindings,2011,26,7,1,1.0,2145024463,JÃ¶rg Schwenk,0,-2.0031555495788127,-1.398428640307672
+2037951205,Towards an Anonymous Access Control and Accountability Scheme for Cloud Computing,2010,2,24,3,0.55789,2099544461,Meiko Jensen,0,-0.17376323184530865,0.1781853287336068
+2066606468,User-aware provably secure protocols for browser-based mutual authentication,2009,35,5,3,0.55498,224658985,Sebastian Gajek,0,-1.673603373838929,-1.371286637972679
+2070396449,Secure Fallback Authentication and the Trusted Friend Attack,2014,16,9,5,0.727273,2148291964,Ashar Javed,0,-2.485004685398136,-2.107985576514221
+2060568421,Options for integrating eID and SAML,2013,27,3,2,0.181107,1229266741,Detlef HÃ¼hnlein,0,-0.006394399214062929,-0.29453741912247094
+2072992017,From pay-tv to pay-streaming similarities and differences,2001,4,0,1,1.0,2145024463,JÃ¶rg Schwenk,0,-0.245304295209901,-0.6252155443475235
+2103262407,Scriptless attacks stealing the pie without touching the sill,2012,36,61,5,0.8,1834983159,Mario Heiderich,0,0.42972921454364443,-0.15731655672571063
+2101183314,The Accountability Problem of Flooding Attacks in Service-Oriented Architectures,2009,22,24,2,0.55789,2099544461,Meiko Jensen,0,-0.023550276898621297,0.7099097923564667
+2104283247,Linkable democratic group signatures,2006,26,18,3,0.318388,1588396689,Mark Manulis,0,-0.26453467382559526,-1.1761087808789363
+2085179296,On the Security of TLS 13 and QUIC Against Weaknesses in PKCS#1 v15 Encryption,2015,27,29,2,0.464867,2210952701,Tibor Jager,0,-0.0845930240447161,-1.4261931505621241
+2099180072,Provably secure browser-based user-aware mutual authentication over TLS,2008,37,26,4,0.55498,224658985,Sebastian Gajek,0,-1.1355717825256164,-0.6451241755930133
+2114355433,One-Round Key Exchange with Strong Security An Efficient and Generic Construction in the Standard Model,2015,33,19,3,1.0,2114936406,Florian Bergsma,0,-0.2524828933762393,-1.1237032490456298
+2131900781,On Technical Security Issues in Cloud Computing,2009,17,550,2,0.55789,2099544461,Meiko Jensen,0,0.0040557659796233,0.2757546058061082
+2107506969,On the Security of TLS-DHE in the Standard Model,2012,63,130,4,0.6,2210952701,Tibor Jager,0,-0.19545452839743865,-1.4802351775234177
+2122346050,Visual spoofing of SSL protected web sites and effective countermeasures,2005,10,38,3,0.243395,1270610900,AndrÃ© Adelsbach,0,-1.0241731820669875,-0.5498581475409386
+2143332868,Systematically Breaking Online WYSIWYG Editors,2014,2,0,2,0.727273,2148291964,Ashar Javed,0,0.0040557659796233,0.2757546058061082
+2125984065,Secure Emails in XML Format Using Web Services,2007,25,30,2,1.0,1984510252,Lijun Liao,0,-1.2630653133978567,-2.2872622706418935
+2162840341,All your clouds are belong to us security analysis of cloud management interfaces,2011,21,131,4,0.692308,227543715,Juraj Somorovsky,0,0.2018268678365599,0.1425886522275585
+2160838772,Universally Composable Security Analysis of TLS,2008,41,58,5,0.55498,224658985,Sebastian Gajek,0,-0.29374991457009325,-1.0539079812198917
+2164428090,Multi-Ciphersuite Security of the Secure Shell (SSH) Protocol,2014,42,18,4,1.0,2114936406,Florian Bergsma,0,-0.9437102400264564,-0.8645026509406845
+2177679874,How to break XML encryption â€“ automatically,2015,29,4,3,0.672727,227543715,Juraj Somorovsky,0,0.0040557659796233,0.2757546058061082
+2171111883,Security Prospects through Cloud Computing by Adopting Multiple Clouds,2011,18,44,2,0.61753,2099544461,Meiko Jensen,0,-0.22684964772494434,0.5553590878829306
+2201035768,On the security of modern Single Sign-On Protocols OpenID Connect 10,2015,0,5,5,1.0,2042397238,Vladislav Mladenov,0,-1.4597905767019215,-0.11152508115654632
+2237651967,On the security of modern Single Sign-On Protocols Second-Order Vulnerabilities in OpenID Connect,2015,15,6,3,1.0,1993005797,Christian Mainka,0,-1.395070235449326,0.13680189994111247
+2292457072,Not so Smart On Smart TV Apps,2015,8,10,4,1.0,1912962712,Marcus Niemietz,0,-0.34332550568580744,0.39877188102564864
+2298331611,Digital rights management system where license key transmitted to user personal computer and stored in random access memory before being used to decrypt separately transmitted content,2002,0,5,1,1.0,2145024463,JÃ¶rg Schwenk,0,0.31070880864723543,0.6488872088452059
+2295827614,How Secure is TextSecure,2016,38,33,5,0.8,2097058463,Tilman Frosch,0,0.05011685467027963,-1.830478273281747
+2290753859,Waiting for CSP --- Securing Legacy Web Applications with JSAgents,2015,19,2,3,0.718617,1834983159,Mario Heiderich,0,-0.3383784544281044,0.15268826611744696
+2296163951,Practical Invalid Curve Attacks on TLS-ECDH,2015,19,21,2,0.464867,2210952701,Tibor Jager,0,0.3118314990305373,-1.4714925158628531
+2401044034,Speeding On Low-Latency Key Exchange,2015,21,2,4,0.631579,2659381260,Britta Hale,0,0.024143221641759877,-1.0659201544063392
+2407217052,Method for securing a system protected by key hierarchy,1997,6,4,1,1.0,2145024463,JÃ¶rg Schwenk,0,-0.09998418764458446,-1.028924802092238
+2409755758,Method for establishing a common cryptographic key for n subscribers,1999,5,0,1,1.0,2145024463,JÃ¶rg Schwenk,0,-0.09998418764458446,-1.028924802092238
+2399983672,On the Security of Holder-of-Key Single Sign-On,2014,17,2,3,1.0,2237776675,Andreas Mayer,0,-1.5570263497791228,1.0404797546364914
+2400288179,SeC2 SECURE MOBILE SOLUTION FOR DISTRIBUTED PUBLIC CLOUD STORAGES,2012,9,7,5,0.741935,227543715,Juraj Somorovsky,0,0.03854345873805821,0.12392982216157666
+2403415455,Method of establishing a common key for authorised users by means of a threshold scheme,1996,3,8,1,1.0,2145024463,JÃ¶rg Schwenk,0,-0.21871216660707848,-1.9333822321896037
+2400960502,Strengthening Web Authentication through TLS - Beyond TLS Client Certificates,2014,0,0,3,1.0,2237776675,Andreas Mayer,0,-1.057525603790344,-0.14727524112714357
+2471560141,XML Signature Wrapping Angriffe What you process is not always what you verify (AufsÃ¤tze),2009,0,0,4,0.0,398696196,Nils Gruschka,0,0.0040557659796233,0.2757546058061082
+2470098632,AdIDoS --- Adaptive and Intelligent Fully-Automatic Detection of Denial-of-Service Weaknesses in Web Services,2015,8,2,4,0.0,2530864581,Christian Altmeier,0,0.0040557659796233,0.2757546058061082
+2502544132,Linkable democratic group signatures,2006,0,0,3,0.318388,1588396689,Mark Manulis,0,-0.5134416080283517,-1.5866894170841301
+2571675338,Authenticated Confidential Channel Establishment and the Security of TLS-DHE,2017,73,3,4,0.400931,2210952701,Tibor Jager,0,-0.34389468719625127,-2.0147030355332918
+2503705346,Daten- und IdentitÃ¤tsschutz in Cloud Computing E-Government und E-Commerce,2012,0,5,2,0.0,2143648990,Georg Borges,0,0.0040557659796233,0.2757546058061082
+2504132569,How to break microsoft rights management services,2016,6,3,4,1.0,2494778177,Martin Grothe,0,0.06975834091081547,0.49214084135040825
+2543576891,Breaking PPTP VPNs via RADIUS Encryption,2016,12,2,4,0.0,2565721856,Matthias Horst,0,-0.06381687999419552,-0.8362033474422106
+2564198413,Your Cloud in My Company Modern Rights Management Services Revisited,2016,19,1,6,1.0,2494778177,Martin Grothe,0,-0.33002156461666915,-0.12125667195502701
+2725419186,SoK Single Sign-On Security â€” An Evaluation of OpenID Connect,2017,21,9,4,0.0,1992429476,Tobias Wich,0,-2.2499066637833276,-0.0964592220924363
+2645364470,SoK Exploiting Network Printers,2017,15,12,4,1.0,2970181701,Jens MÃ¼ller,0,-0.847264635771502,0.35333348712360085
+2735328166,Multi-ciphersuite security of the Secure Shell (SSH) protocol,2014,0,0,4,1.0,2114936406,Florian Bergsma,0,-1.1128042034816112,-0.8178436901161156
+2684257313,Simple Security Definitions for and Constructions of 0-RTT Key Exchange,2017,27,5,4,0.631579,2659381260,Britta Hale,0,-0.313453209890526,-1.6492793881580308
+2601382608,SECRET On the Feasibility of a Secure Efficient and Collaborative Real-Time Web Editor,2017,29,2,4,1.0,2343565423,Dennis Felsch,0,0.961089590368164,-1.02941186744377
+2743909715,DOMPurify Client-Side Protection Against XSS and Markup Injection,2017,18,6,3,0.718617,1834983159,Mario Heiderich,0,0.0986883198035021,-0.7537098593031051
+2784171270,On The (In-)Security Of JavaScript Object Signing And Encryption,2017,16,1,4,0.465347,227543715,Juraj Somorovsky,0,-1.6359737774949406,-0.7950014369279127
+2888937667,Efail Breaking S/MIME and OpenPGP Email Encryption using Exfiltration Channels,2018,0,14,8,1.0,2794766715,Damian Poddebniak,0,0.18192971070317596,-1.9100812844596897
+2889017602,Security Analysis of eIDAS - The Cross-Country Authentication Scheme in Europe,2018,0,1,6,1.0,2888860203,Nils Engelbertz,0,-0.5848420792253589,-0.04727778374442918
+2889321880,The Dangers of Key Reuse Practical Attacks on IPsec IKE,2018,0,9,3,1.0,2343565423,Dennis Felsch,0,-1.1802176345085305,-0.007585041247936103
+2902144471,Handbook of Research on Information Security and Assurance,2008,0,0,3,0.318388,1588396689,Mark Manulis,0,-0.1773385929008878,0.7069782294431272
+2890494467,PostScript Undead Pwning the Web with a 35 Years Old Language,2018,8,1,4,1.0,2970181701,Jens MÃ¼ller,0,-0.062381790079658626,0.6663522020135398
+2899764372,Out of the Dark UI Redressing and Trustworthy Events,2017,12,0,2,1.0,1912962712,Marcus Niemietz,0,-0.18618689656946605,0.637946401295037
+2946555604,Phishing - Die TÃ¤uschung des Benutzers zur Preisgabe geheimer Benutzerdaten,2005,0,0,3,0.485714,224658985,Sebastian Gajek,0,0.0040557659796233,0.2757546058061082
+2950003883,On the Security of the Pre-Shared Key Ciphersuites of TLS,2014,0,0,5,0.0,2238726268,Yong Li,0,-0.6543107698980362,-1.9905621006772947
+2952095578,On Security Models and Compilers for Group Key Exchange Protocols,2006,0,0,3,0.0,1781639045,Emmanuel Bresson,0,-0.6103858383591375,-1.046712543413397
+2940283628,Re Whats Up Johnny -- Covert Content Attacks on Email End-to-End Encryption,2019,4,1,5,1.0,2970181701,Jens MÃ¼ller,0,-0.25051815444541736,-1.289524423711266
+2952321600,Lessons Learned From Previous SSL/TLS Attacks - A Brief Chronology Of Attacks And Weaknesses,2013,29,31,2,1.0,2119313690,Christopher Meyer,0,0.06795016284344144,-1.6657931409856637
+2950381116,Do not trust me Using malicious IdPs for analyzing and attacking Single Sign-On,2014,6,2,3,1.0,1993005797,Christian Mainka,0,-2.055150120526842,-0.012012049167949568
+2962986238,Re Whats Up Johnny - Covert Content Attacks on Email End-to-End Encryption,2019,6,0,5,1.0,2970181701,Jens MÃ¼ller,0,-0.11511462968972795,-1.3462456537357244
+2952662837,How Secure is TextSecure,2014,0,5,5,0.8,2097058463,Tilman Frosch,0,0.0040557659796233,0.2757546058061082
+2952702303,Nonce-based Kerberos is a Secure Delegated AKE Protocol,2016,26,0,1,1.0,2145024463,JÃ¶rg Schwenk,0,-1.5326267293017173,-0.1399636043852386
+2963326879,AntiFuzz Impeding Fuzzing Audits of Binary Executables,2019,0,1,12,0.0,2963456401,Emre GÃ¼ler,0,0.0040557659796233,0.2757546058061082
+2969109447,Scalable Scanning and Automatic Classification of TLS Padding Oracle Vulnerabilities,2019,0,1,6,0.0,2967228742,Robert Merget,0,0.0040557659796233,0.2757546058061082
+2990823373,Security Analysis of XAdES Validation in the CEF Digital Signature Services (DSS),2019,0,0,6,1.0,2888860203,Nils Engelbertz,0,-0.061702357686513026,0.3651585773721658
+2965174894,A Reduction-Based Proof for Authentication and Session Key Security in 3-Party Kerberos,2019,0,1,1,1.0,2145024463,JÃ¶rg Schwenk,0,-1.0280812022962333,-0.49742676701939187
+2988188747,1 Trillion Dollar Refund How To Spoof PDF Signatures,2019,21,1,5,0.953688,2042397238,Vladislav Mladenov,0,-0.27800389799263453,-0.5575059278063085
+2984768292,Practical Decryption exFiltration Breaking PDF Encryption,2019,19,0,6,1.0,2970181701,Jens MÃ¼ller,0,0.37174329563982783,-0.21096866561212146
+2966107992,â€œJohnny you are fired â€ â€“ Spoofing OpenPGP and S/MIME Signatures in Emails,2019,0,0,3,0.404507,227543715,Juraj Somorovsky,0,-0.5494589732689653,-0.5735806302652838
+3023821516,Privacy-Preserving Authenticated Key Exchange and the Case of IKEv2,2020,39,0,2,0.350861,665923922,Sven SchÃ¤ge,0,-0.4715412815369205,-1.2260317472771942
+2964788914,GRIMOIRE Synthesizing Structure while Fuzzing,2019,0,4,14,0.0,2751713351,Tim Blazytko,0,0.0040557659796233,0.2757546058061082
+2888814950,Tools for Active and Passive Network Side-Channel Detection for Web Applications,2018,0,2,5,0.0,2344049843,Michael Lescisin,0,0.9753907213017128,-0.24445946668398916
+120532128,New Modular Compilers for Authenticated Key Exchange,2014,27,6,6,0.0,2238726268,Yong Li,0,-0.5550183012736164,-1.0300954661072503

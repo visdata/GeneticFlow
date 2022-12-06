@@ -1,0 +1,72 @@
+206776162,Quantitative Characterization of Denial of Service A Location Service Case Study,2000,14,0,3,0.0,1964853290,David Bindel,0,0.0040557659796233,0.2757546058061082
+23960604,Proceedings of the 4th ACM workshop on Security and artificial intelligence,2011,0,0,2,0.0,2037808344,Rachel Greenstadt,0,-0.6991469860145861,0.9109785533756322
+249422133,Intrusion Detection and Forensics for Self-Defending Wireless Networks,2012,0,0,1,1.0,2189746349,Yan Chen,0,0.1649043095942813,0.5778265591001266
+1505502356,IDGraphs intrusion detection and analysis using histographs,2005,26,39,4,0.0,2096651303,Pin Ren,0,0.8132086575740218,0.9257086063639175
+1544182726,Proceedings of the 10th annual ACM workshop on Privacy in the electronic society,2011,0,1,2,0.0,2164601541,Jaideep Vaidya,0,-0.10027255216447828,1.1605559710112459
+1517949462,Vetting SSL Usage in Applications with SSLINT,2015,27,25,4,0.0,2229852263,Boyuan He,0,-0.36139017078501745,-0.6698254899516656
+1527692754,Quantifying Network Denial of Service A Location Service Case Study,2001,35,19,1,1.0,2189746349,Yan Chen,0,0.0040557659796233,0.2757546058061082
+1485062015,Employing Honeynets For Network Situational Awareness,2010,26,18,2,0.0,2078767370,Paul Barford,0,0.22763704117687245,0.48941909780687354
+1547460932,OceanStore An Extremely Wide-Area Storage System,2002,0,57,9,0.0,186019731,Hakim Weatherspoon,0,0.3171484069971384,-0.13992525839030945
+1513323201,Honeynet-based botnet scan traffic analysis,2008,18,37,3,1.0,2162051124,Zhichun Li,0,1.1478408983930615,-0.03159558197727552
+1985752637,EdgeMiner Automatically Detecting Implicit Control Flow Transitions through the Android Framework,2015,25,99,7,0.957143,2122648457,Yinzhi Cao,0,0.0040557659796233,0.2757546058061082
+1965586806,Detecting and characterizing social spam campaigns,2010,28,259,5,1.0,2114036563,Hongyu Gao,0,0.05940095047987125,0.6960502266457337
+1999683085,Security Issues in Online Social Networks,2011,19,122,5,1.0,2114036563,Hongyu Gao,0,0.011310118078344372,0.787379584516007
+2005002286,Detecting and characterizing social spam campaigns,2010,28,128,5,1.0,2114036563,Hongyu Gao,0,0.05940095047987125,0.6960502266457337
+1998344004,Poster online spam filtering in social networks,2011,6,6,2,1.0,2114036563,Hongyu Gao,0,0.0040557659796233,0.2757546058061082
+1993243393,Measurement and diagnosis of address misconfigured P2P traffic,2011,9,3,3,1.0,2777641154,Zhichun Li,0,0.0375696793431291,0.4067036930510232
+2005476560,Redefining web browser principals with a Configurable Origin Policy,2013,43,9,4,1.0,2122648457,Yinzhi Cao,0,0.0040557659796233,0.2757546058061082
+1988111369,Virtual browser a virtualized browser to sandbox third-party JavaScripts with enhanced security,2012,21,13,4,1.0,2122648457,Yinzhi Cao,0,1.7029826062605458,-0.2600589908962866
+2019798206,AutoCog Measuring the Description-to-permission Fidelity in Android Applications,2014,31,93,4,1.0,2105361590,Zhengyang Qu,0,0.0040557659796233,0.2757546058061082
+2016334899,Towards a secure controller platform for openflow applications,2013,5,101,2,0.666667,2126217688,Xitao Wen,0,-0.023550276898621297,0.7099097923564667
+2023694289,Fighting Mallory the Insider Strong Write-Once Read-Many Storage Assurances,2012,44,4,2,0.0,2071141648,Radu Sion,0,-0.3159036517599459,0.5059944554094373
+2018585566,I Do Not Know What You Visited Last Summer Protecting users from stateful third-party web tracking with TrackingFree browser,2015,17,17,3,1.0,2280736944,Xiang Pan,0,0.8590269831929911,0.4437008750384431
+2039524325,JShield towards real-time and vulnerability-based detection of polluted drive-by download attacks,2014,37,17,3,1.0,2122648457,Yinzhi Cao,0,1.2432606782123226,0.1700634394574181
+2059254617,Evaluating Potential Routing Diversity for Internet Failure Recovery,2010,9,9,3,0.75,2123722083,Chengchen Hu,0,-0.09777623058315725,0.4554931160050544
+2070364554,Pollution attacks and defenses for Internet caching systems,2008,35,23,3,1.0,2105600989,Leiwen Deng,0,0.0040557659796233,0.2757546058061082
+2100396274,Automatic Vulnerability Checking of IEEE 80216 WiMAX Protocols through TLA,2006,14,17,4,0.0,2156741573,Zhi Fu,0,-0.5530861437885858,-0.004176666300269333
+2089735638,Catch Me If You Can Evaluating Android Anti-Malware Against Transformation Attacks,2014,25,110,2,1.0,2166760228,Vaibhav Rastogi,0,-0.5283949048939317,1.3765990403070332
+2097865740,Botnet Research Survey,2008,20,139,3,0.0,2307857825,Zhaosheng Zhu,0,0.0040557659796233,0.2757546058061082
+2104210894,OceanStore an architecture for global-scale persistent storage,2000,51,2903,3,0.0,695789049,John Kubiatowicz,0,0.3171484069971384,-0.13992525839030945
+2090595263,On the Eyeshots of BGP Vantage Points,2009,16,5,4,1.0,2662999483,Kai Chen,0,0.3259332239481683,0.5745734317069635
+2132122456,Virtual browser a web-level sandbox to secure third-party JavaScript without sacrificing functionality,2010,4,5,4,1.0,2122648457,Yinzhi Cao,0,0.0040557659796233,0.2757546058061082
+2132429838,Automating analysis of large-scale botnet probing events,2009,21,55,3,0.785714,2162051124,Zhichun Li,0,0.08757916093025882,0.36142804453989186
+2112878730,Internet Cache Pollution Attacks and Countermeasures,2006,25,22,4,1.0,2305047528,Yan Gao,0,0.0040557659796233,0.2757546058061082
+2140461879,Exception triggered DoS attacks on wireless networks,2009,24,8,4,0.0,2584676178,Yao Zhao,0,-0.8190471515642536,-0.6811310542774687
+2144801155,NetShield massive semantics-based vulnerability signature matching for high-speed networks,2010,24,41,5,0.755102,2162051124,Zhichun Li,0,0.13679434731489165,0.6751406926737795
+2157153057,Hamsa fast signature generation for zero-day polymorphic worms with provable attack resilience,2006,25,267,4,0.0,1778293119,Manan Sanghi,0,0.4486363095490058,0.4717747675215852
+2157679667,Spam aint as diverse as it seems throttling OSN spam with templates underneath,2014,32,19,4,1.0,2114036563,Hongyu Gao,0,0.0040557659796233,0.2757546058061082
+2169786565,Measurement and Diagnosis of Address Misconfigured P2P Traffic,2010,23,14,3,1.0,2777641154,Zhichun Li,0,0.02080662431885795,0.3505429208334274
+2184834070,SafePay Protecting against credit card forgery with existing magnetic card readers,2015,9,5,3,0.957143,2122648457,Yinzhi Cao,0,0.036191276275480654,0.3679403960301915
+2152149943,DroidChameleon evaluating Android anti-malware against transformation attacks,2013,17,231,2,1.0,2166760228,Vaibhav Rastogi,0,0.0012354626038761252,1.081669417516944
+2158204917,An empirical reexamination of global DNS behavior,2013,33,41,3,1.0,2114036563,Hongyu Gao,0,-0.023794059886415475,0.831370195609561
+2155372789,Towards Situational Awareness of Large-Scale Botnet Probing Events,2011,20,48,3,1.0,2777641154,Zhichun Li,0,0.22763704117687245,0.48941909780687354
+2164539435,AppsPlayground automatic security analysis of smartphone applications,2013,25,259,2,1.0,2166760228,Vaibhav Rastogi,0,0.172799956884413,0.46717438398015876
+2155886640,Poster a path-cutting approach to blocking XSS worms in social web networks,2011,3,2,4,1.0,2122648457,Yinzhi Cao,0,0.1639362940477497,0.6530314529854678
+2188710721,Protecting web-based single sign-on protocols against relying party impersonation attacks through a dedicated bi-directional authenticated secure channel,2014,23,7,6,1.0,2122648457,Yinzhi Cao,0,-1.8550457384054664,-0.4806385650060805
+2171089839,Generic and automatic address configuration for data center networks,2010,39,59,6,1.0,2662999483,Kai Chen,0,0.8150178044164603,0.9115000823931669
+2319607193,HogMap Using SDNs to Incentivize Collaborative Security Monitoring,2016,20,8,3,1.0,2280736944,Xiang Pan,0,-0.29907207341756664,0.39158245537990305
+2293735445,HPNAIDM The High-Performance Network Anomaly/Intrusion Detection and Mitigation System,2013,0,0,1,1.0,2189746349,Yan Chen,0,1.3708461344663065,1.1070708494850587
+2286416179,DroidNative Semantic-Based Detection of Android Native Code Malware,2016,36,4,4,0.8,2110087656,Shahid Alam,0,0.13029881783846398,1.1788383468787589
+2401831929,PathCutter Severing the Self-Propagation Path of XSS JavaScript Worms in Social Web Networks,2012,28,33,4,1.0,2122648457,Yinzhi Cao,0,0.1639362940477497,0.6530314529854678
+2407789839,Towards Online Spam Filtering in Social Networks,2012,30,148,2,1.0,2114036563,Hongyu Gao,0,0.0040557659796233,0.2757546058061082
+2405517096,Abusing browser address bar for fun and profit - an empirical investigation of add-on cross site scripting attacks,2014,23,0,4,1.0,2122648457,Yinzhi Cao,0,0.0040557659796233,0.2757546058061082
+2400162242,WebShield Enabling Various Web Defense Techniques without Client Side Modifications,2011,23,46,5,0.755102,2162051124,Zhichun Li,0,0.0040557659796233,0.2757546058061082
+2574401928,Are these Ads Safe Detecting Hidden Attacks through the Mobile App-Web Interfaces,2016,28,29,3,0.873021,2166760228,Vaibhav Rastogi,0,0.0040557659796233,0.2757546058061082
+2557385690,DroidNative Automating and optimizing detection of Android native code malware variants,2017,53,21,4,0.8,2110087656,Shahid Alam,0,-0.08398444675049266,1.4321386263870437
+2528154188,SDNShield Reconciliating Configurable Application Permissions for SDN App Markets,2016,30,20,3,0.666667,2126217688,Xitao Wen,0,-0.8690887835623153,1.1801587224169403
+2536013516,CSPAutoGen Black-box Enforcement of Content Security Policy upon Real-world Websites,2016,34,11,5,1.0,2280736944,Xiang Pan,0,1.268521060738196,-0.17023176104785478
+2617589261,Automatic Security Analysis of Android Applications,2013,0,0,3,0.0,1999189064,William Enck,0,0.2018268678365599,0.1425886522275585
+2734470502,Honeynet-based Botnet Scan Traffic Analysis Countering the Largest Security Threat,2008,0,3,2,1.0,2162051124,Zhichun Li,0,0.0023216577419485677,0.41127493279688276
+2734662457,Integrated Fault and Security Management Dependability and Security in Networked Systems,2008,0,0,1,1.0,2189746349,Yan Chen,0,-1.1202635278868107,2.342808310928649
+2625358610,STC 2011 chairs welcome,2011,0,0,4,0.0,2117662806,Xinwen Zhang,0,0.0040557659796233,0.2757546058061082
+2791657297,Understanding In-App Ads and Detecting Hidden Attacks through the Mobile App-Web Interface,2018,23,2,3,1.0,2671271102,Rui Shao,0,0.05940095047987125,0.6960502266457337
+2801093647,SESP 2013 - Proceedings of the 1st International Workshop on Security in Embedded Systems and Smartphones Preface,2013,0,1,1,1.0,2189746349,Yan Chen,0,0.0040557659796233,0.2757546058061082
+2888971993,FlowCog Context-aware Semantics Extraction and Analysis of Information Flow Leaks in Android Apps,2018,0,2,7,1.0,2280736944,Xiang Pan,0,0.0040557659796233,0.2757546058061082
+2898682179,Session details Session 1C Smart Contracts,2018,0,0,1,1.0,2189746349,Yan Chen,0,0.0040557659796233,0.2757546058061082
+2951384144,Understanding Fileless Attacks on Linux-based IoT Devices with HoneyCloud,2019,14,2,7,0.0,2222894718,Fan Dang,0,0.16813332982761525,0.7971079348621858
+2994099183,State of the Art and Research Challenges in the Security Technologies of Network Function Virtualization,2020,2,0,7,0.0,2994052655,Xiaochun Wu,0,0.0040557659796233,0.2757546058061082
+2968483187,Protecting Web Single Sign-on against Relying Party Impersonation Attacks through a Bi-directional Secure Channel with Authentication,2014,0,1,5,0.0,17507962,Yan Shoshitaishvili,0,-1.4804078596664187,-0.564330774840013
+2985244210,Effective and Light-Weight Deobfuscation and Semantic-Aware Attack Detection for PowerShell Scripts,2019,32,0,4,0.0,2983545864,Zhenyuan Li,0,0.0040557659796233,0.2757546058061082
+3007878096,UISCOPE Accurate Instrumentation-free and Visible Attack Investigation for GUI Applications,2020,0,0,5,0.0,3008405151,Runqing Yang,0,0.0040557659796233,0.2757546058061082
+2888974175,Dependence-Preserving Data Compaction for Scalable Forensic Analysis,2018,0,12,15,0.0,2629076799,Nahid Hossain,0,0.0040557659796233,0.2757546058061082
+2295135469,Uranine Real-time privacy leakage monitoring without system modification for android,2015,38,18,6,1.0,2166760228,Vaibhav Rastogi,0,0.0040557659796233,0.2757546058061082

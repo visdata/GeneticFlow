@@ -1,0 +1,42 @@
+126650072,Transaction management in database systems,1992,0,8,2,0.235294,2169544959,Divyakant Agrawal,0,2.0722738612598204,2.0166418296456143
+1499328747,Exploring spatial datasets with histograms,2002,21,35,3,0.0,2630137200,Chengyu Sun,0,-0.46893397788284524,0.07728939382804885
+1544002045,Cyclic allocation of two-dimensional data,1998,8,70,4,1.0,2119765128,Sunil Prabhakar,0,-0.0041099411153885,0.0447066884760059
+1603803609,Scheduling tertiary I/O in database applications,1997,6,15,3,1.0,2119765128,Sunil Prabhakar,0,-0.0041099411153885,0.0447066884760059
+1905091680,STORAGEDB enhancing the storage sub-system with DBMS functionalities,2005,6,0,4,0.5,1919621074,Lin Qiao,0,2.479877061554202,0.6765155134557197
+1841484225,NAPA Nearest Available Parking lot Application,2002,0,16,3,0.0,2106192711,Hae Don Chon,0,-0.7549869806243518,1.617045792719735
+1771608866,Performance characteristics of protocols with ordered shared locks,1991,4,19,2,0.470588,2169544959,Divyakant Agrawal,0,1.5707719997813954,1.963347840094957
+1978714879,Concentric hyperspaces and disk allocation for fast parallel range searching,1999,12,34,3,0.666667,217414012,Hakan Ferhatosmanoglu,0,0.0671000590895638,-0.16857198965660722
+1965442115,Pharos a scalable distributed architecture for locating heterogeneous information sources,1997,13,46,3,0.0,1763376926,Ron Dolin,0,-0.5578494490994759,0.4579783608187313
+1974392920,Privacy preserving decision tree learning over multiple parties,2007,34,86,4,0.0,304807066,Fatih Emekci,0,-0.31502751051565125,0.12932647227514027
+1985188419,Maintaining availability in partitioned replicated databases,1989,23,177,1,1.0,2055247794,A. El Abbadi,0,0.6094757201331841,0.6879567321663215
+1989976219,Towards a formal model for view maintenance in data warehouses,2002,3,1,5,0.0,2800647939,Achour Mostefaoui,0,1.7312513363576505,0.8662684786734586
+2006101861,The generalized tree quorum protocol an efficient approach for managing replicated data,1992,27,99,2,0.235294,2169544959,Divyakant Agrawal,0,0.8711677965065855,0.8492684906319365
+1999411327,Using broadcast primitives in replicated databases (abstract),1997,2,9,3,0.0,2779251282,Ioana Stanoi,0,-0.0041099411153885,0.0447066884760059
+2036560106,Relative prefix sums an efficient approach for querying dynamic OLAP data cubes,1999,4,83,3,0.0,2092029534,S. Geffner,0,-0.16328011374660287,0.9890247327765609
+2052689768,Constrained shared locks for increasing concurrency in databases,1995,0,10,1,1.0,2055247794,A. El Abbadi,0,1.5653058934580564,1.3461879665057248
+2035300188,Epidemic algorithms in replicated databases (extended abstract),1997,25,105,2,0.115696,2169544959,Divyakant Agrawal,0,-0.0041099411153885,0.0447066884760059
+2073824505,Efficient view maintenance at data warehouses,1997,17,231,2,0.0,2224446639,T. Yurek,0,2.563598093219785,1.0352522039619794
+2058192236,Multiple query optimization in middleware using query teamwork,2005,14,12,1,1.0,2055247794,A. El Abbadi,0,0.5013154775147748,0.29320255643190374
+2059137485,Using delayed commitment in locking protocols for real-time databases,1992,21,38,2,0.235294,2169544959,Divyakant Agrawal,0,1.8133368722983307,1.944543018312004
+2104319437,Using multicast communication to reduce deadlock in replicated databases,2000,7,21,3,0.666667,2037418851,JoAnne Holliday,0,1.7862147444421785,1.9338814350050428
+2120273955,Range cube efficient cube computation by exploiting data correlation,2004,20,31,3,0.0,2163608294,Ying Feng,0,0.07208196093695857,-0.09841858885062987
+2138368466,Epidemic algorithms for replicated databases,2003,32,85,4,0.666667,2037418851,JoAnne Holliday,0,1.9204304110824337,1.9709601898065015
+2108900410,Indexing non-uniform spatial data,1997,17,6,2,0.0,2425451986,K.V.R. Kanth,0,0.8713321962858355,0.3910432393660647
+2126652202,pCube Update-efficient online aggregation with progressive feedback and error bounds,2000,28,38,3,0.0,2128393815,Mirek Riedewald,0,-0.13106134753319365,0.6911466331610907
+2129532633,MOOLAP Towards Multi-Objective OLAP,2008,1,4,4,0.0,2191864772,Shyam Antony,0,-0.26155878408148436,0.5470623862181966
+2129674434,Advanced transaction models in workflow contexts,1996,21,250,3,0.138913,2122271048,Gustavo Alonso,0,1.9540558844535296,2.2367939988423235
+2112097167,Supporting sliding window queries for continuous data streams,2003,21,33,3,0.5,1919621074,Lin Qiao,0,0.11627582886789564,0.3621724021946999
+2106532810,A peer-to-peer framework for caching range queries,2004,17,125,4,0.5,2251591031,O. D. Sahin,0,0.08224488726229606,-0.07084431796772057
+2130542946,Enhancing the fault tolerance of workflow management systems,2000,10,51,4,0.138913,2122271048,Gustavo Alonso,0,1.2269493304548167,1.1510686447766632
+2107022098,Query estimation by adaptive sampling,2002,13,19,3,0.0,2165993987,Yi Leh Wu,0,0.0908845357243609,0.31128747720343375
+2116216495,Fast read-only transactions in replicated databases,1992,20,3,2,0.0,2229833332,P.C. Aristides,0,1.2196022922384226,1.0451997543232645
+2143003759,Multiple query optimization by cache-aware middleware using query teamwork,2002,2,24,2,0.0,2643439601,D. Agrawal,0,-0.1474020316603367,0.14416162624092088
+2113328862,TCAM-conscious Algorithms for Data Streams,2007,10,5,4,0.0,2062427261,Nagender Bandi,0,-0.5968873548230978,0.13330429838371508
+2125665091,Storage efficient replicated databases,1990,23,13,2,0.434783,2169544959,Divyakant Agrawal,0,-0.0041099411153885,0.0447066884760059
+2165184718,Scalable access within the context of digital libraries,1997,50,21,8,0.0,2318648720,X. Cheng,0,1.6005465353084851,0.42493053588015284
+2153888562,DeltaSky Optimal Maintenance of Skyline Deletions without Exclusive Dominance Region Generation,2007,29,41,3,1.0,2309194681,Ping Wu,0,0.2229440142478335,0.33823029241771846
+2148594490,Approximate nearest neighbor searching in multimedia databases,2001,16,107,4,0.666667,217414012,Hakan Ferhatosmanoglu,0,0.09560153568394734,0.34384522677555335
+2151893011,Planned disconnections for mobile databases,2000,9,17,3,0.666667,2037418851,JoAnne Holliday,0,0.0835119396817451,0.051530138659233005
+2170437213,Exploiting planned disconnections in mobile environments,2000,11,9,3,0.666667,2037418851,JoAnne Holliday,0,1.2894582575897842,1.2997293248923634
+2623437627,On the importance of tuning in incremental view maintenance an experience case study (Extended abstract),2000,0,3,1,1.0,2055247794,A. El Abbadi,0,2.5282642113453995,0.7934550341517735
+2753576707,On the importance of tuning in incremental view maintenance An experience case study,2000,0,0,3,0.0,2029822045,Kevin OGorman,0,2.372909630012035,0.8232353466742309

@@ -1,0 +1,38 @@
+70331077,Bootstrapping Trust in Modern Computers,2011,114,51,2,0.338052,1595681779,Bryan Parno,0,-1.094842316746975,1.3946163545845178
+19303356,Analysis and Recommendations,2014,0,4,2,1.0,2119280436,Amit Vasudevan,0,-1.157560915554388,-0.022590971900344037
+88813478,Safe Passage for Passwords and Other Sensitive Data,2009,27,62,1,1.0,2304896318,Jonathan M. McCune,0,0.2696415624561154,0.6415826598696847
+21905651,Roots of Trust,2011,0,0,3,0.338052,1595681779,Bryan Parno,0,-0.8129079876433628,-0.39418120695352526
+39265455,Trust and Trusted Computing Platforms,2011,14,14,2,0.0,2158651642,Archie D. Andrews,0,-1.6578228182101733,-0.7216609739195616
+151791734,What Do We Need to Know Techniques for Recording Platform State,2011,0,0,3,0.338052,1595681779,Bryan Parno,0,-0.8408355139019246,-0.3062939198098856
+1490125130,Methods and Apparatuses for User-Verifiable Trusted Path in the Presence of Malware,2010,16,46,4,0.0,2024395691,Ning Qu,0,-0.02838859579850797,0.3635624205716981
+1518891319,Requirements for an integrity-protected hypervisor on the x86 hardware virtualized architecture,2010,21,28,2,0.833333,2119280436,Amit Vasudevan,0,-0.1751537443235147,0.04866599499852316
+1522249641,SBAP software-based attestation for peripherals,2010,13,46,2,0.8,2165496492,Yanlin Li,0,-1.0338776203579194,-0.057952889536030755
+1902914144,Detection of denial-of-message attacks on sensor network broadcasts,2005,28,121,1,1.0,2304896318,Jonathan M. McCune,0,-0.5530861437885858,-0.004176666300269333
+1960818503,Trustworthy Execution on Mobile Devices,2013,0,6,2,1.0,2119280436,Amit Vasudevan,0,-0.17157885761314928,0.08261715755281612
+1704933903,Trustworthy execution on mobile devices what security properties can my mobile platform give me ,2012,27,52,4,0.833333,2119280436,Amit Vasudevan,0,-0.17157885761314928,0.08261715755281612
+1975077087,SafeSlinger easy-to-use and secure public-key exchange,2013,28,36,4,0.0,2144380328,Michael W. Farb,0,0.03915771009851688,-1.1856629489715182
+2021362805,VIPER verifying the integrity of PERipherals firmware,2011,21,103,2,0.8,2165496492,Yanlin Li,0,0.05940095047987125,0.6960502266457337
+2016143606,Seeing-Is-Believing using camera phones for human-verifiable authentication,2009,31,71,1,1.0,2304896318,Jonathan M. McCune,0,-0.6576048022628502,-0.9818471824211568
+2018045700,Building Verifiable Trusted Path on Commodity x86 Computers,2012,44,91,4,0.0,2138996993,Zongwei Zhou,0,-1.2429904976952137,0.10021147501067373
+2047998374,Turtles all the way down research challenges in user-based attestation,2008,9,14,1,1.0,2304896318,Jonathan M. McCune,0,-0.5730847742805454,0.7700883072491155
+2043366397,OASIS on achieving a sanctuary for integrity and secrecy on untrusted platforms,2013,41,54,3,0.0,2143245283,Emmanuel Owusu,0,0.5999059964804312,0.9119269821175178
+2103131117,Memoir Practical State Continuity for Protected Modules,2011,32,86,5,0.338052,1595681779,Bryan Parno,0,-0.9801655360999216,1.5470391008721098
+2098786456,A Contractual Anonymity System,2010,28,12,3,0.0,2148833029,Edward J. Schwartz,0,-0.5544512960627005,0.547596775513061
+2141547891,Minimal TCB Code Execution,2007,19,52,1,1.0,2304896318,Jonathan M. McCune,0,0.09185462073762597,0.2861171120998424
+2105816856,Can We Use Platform Information Remotely,2011,0,0,3,0.338052,1595681779,Bryan Parno,0,-1.1022627707589863,-0.6207331345812903
+2112454243,How low can you go recommendations for hardware-supported minimal TCB code execution,2008,16,62,1,1.0,2304896318,Jonathan M. McCune,0,0.458315283065839,1.3078596206253412
+2121926377,Reducing the trusted computing base for applications on commodity systems,2009,146,17,3,0.0,2213385919,Adrian Perrig,0,0.34806519941606345,0.6013972746988576
+2128159601,TrustVisor Efficient TCB Reduction and Attestation,2010,29,441,1,1.0,2304896318,Jonathan M. McCune,0,-0.057484109353703225,0.15546416359055287
+2116897550,Seeing-is-believing using camera phones for human-verifiable authentication,2005,46,438,1,1.0,2304896318,Jonathan M. McCune,0,-0.6991971375604031,-1.0551322500774343
+2160015516,GAnGS gather authenticate n group securely,2008,29,73,5,0.0,2108058773,Chia Hsin Owen Chen,0,-0.14767013319518937,-1.868379033472146
+2157010176,CLAMP Practical Prevention of Large-Scale Data Leaks,2009,19,73,2,0.26963,1595681779,Bryan Parno,0,-0.06882682971652375,0.2835116913221821
+2172358039,Turtles all the way down research challenges in user-based attestation,2007,9,48,1,1.0,2304896318,Jonathan M. McCune,0,-0.389207769800751,0.43283245687511657
+2160612883,Shamon A System for Distributed Mandatory Access Control,2006,32,77,1,1.0,2304896318,Jonathan M. McCune,0,-0.3249184540627141,1.8369033450324173
+2167153793,A study of mass-mailing worms,2004,13,52,3,0.0,2101903611,Cynthia Wong,0,0.09011718344645833,0.45589068014342016
+2146244799,Bootstrapping Trust in Commodity Computers,2010,79,143,2,0.338052,1595681779,Bryan Parno,0,-1.346575353813702,1.0484550305791984
+2149256534,CARMA a hardware tamper-resistant isolated execution environment on commodity x86 platforms,2012,21,37,2,0.833333,2119280436,Amit Vasudevan,0,0.9844347697227221,1.081603108043871
+2147055376,SPATE Small-Group PKI-Less Authenticated Trust Establishment,2010,42,25,6,0.571429,2102044833,Yue Hsun Lin,0,-0.3022679144604111,-1.3416535982102127
+2321197968,Device-Enabled Authorization in the Grey System (Extended Abstract),2005,23,0,6,0.0,211403037,Scott Garriss,0,-0.0055216156628483315,0.8431774549076696
+2406017529,Usability Testing a Malware-Resistant Input Mechanism,2011,26,9,2,0.0,2232417758,Alana Libonati,0,-0.22256970966841327,0.42114124282802107
+2589889346,SPATE small-group PKI-less authenticated trust establishment,2009,42,60,4,0.571429,2102044833,Yue Hsun Lin,0,-0.4427925847640155,-1.560864329847914
+2914880285,Proceedings of the 3rd international conference on Trust and trustworthy computing,2010,0,0,5,0.0,182130374,Boris Balacheff,0,-1.1455337880870722,0.8817502850780771

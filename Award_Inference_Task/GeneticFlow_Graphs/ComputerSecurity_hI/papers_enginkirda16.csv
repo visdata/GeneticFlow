@@ -1,0 +1,126 @@
+52626528,Efficient and stealthy instruction tracing and its applications in automated malware analysis open problems and challenges,2011,20,3,3,0.0,1810666452,Endre Bangerter,0,0.3018222476975964,1.3313942328441637
+103946897,Insights into current malware behavior,2009,0,18,1,1.0,59249629,Engin Kirda,0,0.05940095047987125,0.6960502266457337
+1527892,Securing legacy firefox extensions with SENTINEL,2013,22,12,4,0.952381,2055683646,Kaan Onarlioglu,0,-0.3912276319926795,0.07353894049935202
+143193064,Holiday Pictures or Blockbuster Movies Insights into Copyright Infringement in User Uploads to One-Click File Hosters,2013,17,3,4,1.0,2048330058,Tobias Lauinger,0,-0.0866911235024297,0.6812072487229601
+78162143,Detecting system emulators,2007,14,179,3,0.0,343779467,Thomas Raffetseder,0,0.010589235241609402,1.0383424529887566
+202635835,Cross Site Scripting Attacks,2011,0,9,1,1.0,59249629,Engin Kirda,0,0.0040557659796233,0.2757546058061082
+334550907,FORWARD Threat Report,2009,0,0,1,1.0,59249629,Engin Kirda,0,0.9979785762254678,1.1723912944516908
+755860182,A look at targeted attacks through the lense of an NGO,2014,8,37,6,0.0,2559524632,Stevens Le Blond,0,-0.22560868618274874,0.6628018191991369
+283225250,Anticipating Security Threats to a Future Internet,2009,13,4,1,1.0,59249629,Engin Kirda,0,-0.09602735134178905,0.6849619620451437
+1552906779,Behavior-based spyware detection,2006,12,227,1,1.0,59249629,Engin Kirda,0,0.2546467218049672,1.1314029975364008
+1516751376,08102 Working Group -- Requirements for Network Monitoring from an IDS Perspective,2008,0,0,4,0.0,1966909425,Lothar Braun,0,0.13679434731489165,0.6751406926737795
+1222699389,Cross Site Scripting Prevention with Dynamic Data Tainting and Static Analysis,2007,18,427,4,0.0,2281646841,Philipp Vogt,0,-0.3287690164964345,0.14636193449847731
+1500920619,PUBCRAWL protecting users and businesses from CRAWLers,2012,17,28,2,0.0,2667161318,GrÃ©goire Jacob,0,0.015245780877612549,0.7423220265691124
+1537370817,Extending NET security to unmanaged code,2006,16,2,2,1.0,2552458193,Patrick Klinkoff,0,-0.22684964772494434,0.5553590878829306
+1433255219,On the Security and Engineering Implications of Finer-Grained Access Controls for Android Developers and Users,2015,35,11,6,0.444444,162010076,Yanick Fratantonio,0,-0.24263774287769158,0.48314717038057303
+1557006880,8102 Working Group -- Attack Taxonomy,2008,0,0,4,0.0,2291121611,Marc Dacier,0,0.8394129102049798,0.9239599357505993
+1575696720,Future threats to future trust,2009,0,8,1,1.0,59249629,Engin Kirda,0,-0.026935442062065097,0.6757773598318226
+1903577715,Automating mimicry attacks using static binary analysis,2005,20,159,2,0.104196,2001160045,Christopher Kruegel,0,0.13679434731489165,0.6751406926737795
+1748316893,Achieving life-cycle compliance of service-oriented architectures open issues and challenges,2009,37,0,2,1.0,2024322222,Theodoor Scholte,0,0.2752392566018528,0.6800953618075614
+1956767865,Effective and efficient malware detection at the end host,2009,80,337,4,1.0,2086515109,Clemens Kolbitsch,0,-0.30863164096414836,1.2848956082567269
+1879023407,A summary of two practical attacks against social networks,2011,30,1,1,1.0,59249629,Engin Kirda,0,-1.1774933426063763,-0.34460579852824025
+1761672165,Defending Browsers against Drive-by Downloads Mitigating Heap-Spraying Code Injection Attacks,2009,22,187,4,1.0,1922185186,Manuel Egele,0,0.27618220301982876,1.2003164182666262
+1580559113,Polymorphic worm detection using structural information of executables,2005,21,205,2,0.104196,2001160045,Christopher Kruegel,0,0.8590011465950885,0.8025437052406229
+1916198581,Automatically generating models for botnet detection,2009,40,145,6,0.0,2460907738,Peter Wurzinger,0,0.20203105126159626,0.7008900703780553
+1601681104,Recent advances in intrusion detection 12th International Symposium RAID 2009 Saint-Malo France September 23-25 2009 proceedings,2009,0,0,1,1.0,59249629,Engin Kirda,0,1.2786643632942643,1.172880565936946
+1948712562,Quo vadis a study of the evolution of input validation vulnerabilities in web applications,2011,28,41,3,1.0,2024322222,Theodoor Scholte,0,0.0040557659796233,0.2757546058061082
+1922737625,Reverse social engineering attacks in online social networks,2011,18,87,4,0.0,2154426056,Danesh Irani,0,-0.3957860967641827,0.4360298050560259
+1593211785,On the Effectiveness of Techniques to Detect Phishing Sites,2007,13,143,3,0.0,2083019680,Christian Ludl,0,-0.6844370028818582,0.29365751039958027
+1951268159,Honeybot your man in the middle for automated social engineering,2010,7,22,4,1.0,2048330058,Tobias Lauinger,0,-0.8359627550567482,0.36935837396480076
+1968061803,Inspector Gadget Automated Extraction of Proprietary Gadgets from Malware Binaries,2010,39,82,4,1.0,2086515109,Clemens Kolbitsch,0,0.05940095047987125,0.6960502266457337
+1975479771,PrivExec Private Execution as an Operating System Service,2013,30,22,4,0.952381,2055683646,Kaan Onarlioglu,0,0.21662629391785518,-1.1562490858039913
+1986837679,A security analysis of Amazons Elastic Compute Cloud service,2012,0,2,1,1.0,59249629,Engin Kirda,0,-0.1941301185179551,0.6624650906600043
+1993426957,Service specific anomaly detection for network intrusion detection,2002,13,285,3,0.0,1968092662,Christopher KrÃ¼gel,0,0.9653197851428139,1.3429122759896144
+1990089904,Beehive large-scale log analysis for detecting suspicious activity in enterprise networks,2013,41,146,7,0.0,2928829527,Ting Fang Yen,0,-1.858276333699468,0.7741098099152297
+1997564913,Protecting Users against Phishing Attacks,2006,3,81,1,1.0,59249629,Engin Kirda,0,-0.9484470668971947,-0.03646907963248364
+2014589236,Dynamic spyware analysis,2007,26,214,3,1.0,1922185186,Manuel Egele,0,-0.9119080757758813,0.2833676514400835
+2051590127,SENTINEL Securing Legacy Firefox Extensions,2015,24,9,4,1.0,2055683646,Kaan Onarlioglu,0,-0.15287948062316098,0.39246206038784387
+2050119028,TrueClick automatically distinguishing trick banners from genuine download links,2014,34,6,5,1.0,2231190182,Sevtap Duman,0,0.6812708469983054,0.29813321749968236
+2066220442,A survey on automated dynamic malware-analysis techniques and tools,2012,64,481,3,0.575797,1922185186,Manuel Egele,0,-0.27410520138219224,1.2791467325705501
+2071740737,Privacy risks in named data networking what is the cost of performance ,2012,10,49,1,1.0,59249629,Engin Kirda,0,0.4968636944290638,1.2996738445093134
+2065339563,A view on current malware behaviors,2009,14,127,4,1.0,1918997049,Ulrich Bayer,0,-0.019304063330398663,1.010590782058189
+2059201166,A layout-similarity-based approach for detecting phishing pages,2007,15,79,2,0.0,2974531908,Angelo P. E. Rosiello,0,-1.047103799386431,0.18737871579752227
+2102457045,SWAP Mitigating XSS attacks using a reverse proxy,2009,15,82,4,0.0,2460907738,Peter Wurzinger,0,0.0040557659796233,0.2757546058061082
+2083940415,A solution for the automated detection of clickjacking attacks,2010,15,62,3,0.576923,2029117953,Marco Balduzzi,0,1.7029826062605458,-0.2600589908962866
+2082300114,PatchDroid scalable third-party security patches for Android devices,2013,11,30,4,0.512638,2486094313,Collin Mulliner,0,-0.5530861437885858,-0.004176666300269333
+2085925880,Pixy a static analysis tool for detecting Web application vulnerabilities,2006,17,548,1,1.0,59249629,Engin Kirda,0,-1.4906487443016354,2.505157669622591
+2082550445,Exposure A Passive DNS Analysis Service to Detect and Report Malicious Domains,2014,28,133,4,0.364213,325038940,Leyla Bilge,0,-1.7436341363509529,0.6011898305847477
+2100765095,FIRE FInding Rogue nEtworks,2009,4,96,5,0.0,2035971785,Brett Stone Gross,0,0.09131554898569975,0.7126101339680946
+2100995598,Building Anti-Phishing Browser Plug-Ins An Experience Report,2007,6,20,2,0.0,343779467,Thomas Raffetseder,0,-0.4506955036848126,0.32556224931742417
+2095851690,Preventing Input Validation Vulnerabilities in Web Applications through Automated Type Analysis,2012,33,37,4,1.0,2024322222,Theodoor Scholte,0,-1.4906487443016354,2.505157669622591
+2083794595,Hidden GEMs Automated Discovery of Access Control Vulnerabilities in Graphical User Interfaces,2014,13,5,3,0.512638,2486094313,Collin Mulliner,0,-0.023550276898621297,0.7099097923564667
+2117285489,Protecting users against phishing attacks with AntiPhish,2005,2,124,1,1.0,59249629,Engin Kirda,0,-0.4813496876526171,0.054682381396516815
+2114488082,Reducing errors in the anomaly-based detection of web-based attacks through the combined analysis of web requests and SQL queries,2009,20,42,6,0.0,2192390985,Giovanni Vigna,0,0.0995284854721481,0.6513436612721515
+2111487235,Saner Composing Static and Dynamic Analysis to Validate Sanitization in Web Applications,2008,33,322,5,0.4,342838144,Davide Balzarotti,0,0.04597164135826801,0.5754609189368322
+2114996745,Disclosure detecting botnet command and control servers through large-scale NetFlow analysis,2012,32,163,4,0.411765,325038940,Leyla Bilge,0,-0.6970950842820023,0.05794081044208699
+2132791332,SecuBat a web vulnerability scanner,2006,7,183,2,0.0,2222813239,Stefan Kals,0,0.0040557659796233,0.2757546058061082
+2132874238,Limits of Static Analysis for Malware Detection,2007,18,507,3,1.0,2583252642,Andreas Moser,0,-0.30863164096414836,1.2848956082567269
+2115392339,Improving the efficiency of dynamic malware analysis,2010,14,55,2,1.0,1918997049,Ulrich Bayer,0,-0.27410520138219224,1.2791467325705501
+2115675703,Prospex Protocol Specification Extraction,2009,51,165,4,1.0,348062083,Paolo Milani Comparetti,0,-1.9981081483345937,-1.5626743445905598
+2121468041,G-Free defeating return-oriented programming through gadget-less binaries,2010,25,175,5,0.851852,2055683646,Kaan Onarlioglu,0,-1.1845336834478517,1.1570543639328077
+2109860693,Mitigating Drive-By Download Attacks Challenges and Open Problems,2009,19,33,2,1.0,1922185186,Manuel Egele,0,0.14216232661916506,0.13132199856197
+2109921293,A security analysis of amazons elastic compute cloud service,2012,6,104,1,1.0,59249629,Engin Kirda,0,-0.40846837629870725,0.8688503084876904
+2119085032,Preventing Cross Site Request Forgery Attacks,2006,16,146,2,0.0,2096629812,Nenad Jovanovic,0,-0.5530861437885858,-0.004176666300269333
+2143170946,Client-side cross-site scripting protection,2009,8,51,1,1.0,59249629,Engin Kirda,0,0.0040557659796233,0.2757546058061082
+2119359024,Cutting the Gordian Knot A Look Under the Hood of Ransomware Attacks,2015,19,166,5,1.0,2275563875,Amin Kharraz,0,-0.13463079798198657,0.7143369509284987
+2116669623,VirtualSwindle an automated attack against in-app billing on android,2014,12,18,3,0.512638,2486094313,Collin Mulliner,0,0.0040557659796233,0.2757546058061082
+2143445293,A Practical Attack to De-anonymize Social Network Users,2010,22,260,3,0.6,320465456,Gilbert Wondracek,0,0.1639362940477497,0.6530314529854678
+2137365926,A quantitative study of accuracy in system call-based malware detection,2012,19,87,6,0.0,2141533352,Davide Canali,0,0.05940095047987125,0.6960502266457337
+2122750868,Abusing social networks for automated user profiling,2010,33,113,4,0.576923,2029117953,Marco Balduzzi,0,-0.3009155440821479,0.6615570798828401
+2125743503,AccessMiner using system-centric models for malware protection,2010,28,132,5,0.785714,2306773459,Andrea Lanzi,0,0.4484333211476457,1.0215228742615958
+2117030266,Exploring Multiple Execution Paths for Malware Analysis,2007,24,418,3,1.0,2583252642,Andreas Moser,0,0.3217086850817882,0.9887958870763812
+2120111750,All your contacts are belong to us automated identity theft attacks on social networks,2009,12,445,4,1.0,325038940,Leyla Bilge,0,0.13081971286831562,0.5195401267236948
+2108290480,CAPTCHA smuggling hijacking web browsing sessions to create CAPTCHA farms,2010,18,30,3,1.0,1922185186,Manuel Egele,0,-0.4095652199915964,0.3246894702283116
+2156262402,PoX Protecting users from malicious Facebook applications,2012,10,25,4,0.575797,1922185186,Manuel Egele,0,0.06809933761749783,0.5418080565791149
+2162316255,Noxes a client-side solution for mitigating cross-site scripting attacks,2006,5,279,1,1.0,59249629,Engin Kirda,0,0.0040557659796233,0.2757546058061082
+2150795982,Dynamic analysis of malicious code,2006,13,292,4,1.0,1918997049,Ulrich Bayer,0,0.41439230718068,1.1283013091240062
+2162765234,The power of procrastination detection and mitigation of execution-stalling malicious code,2011,20,70,2,0.75,2086515109,Clemens Kolbitsch,0,0.3018222476975964,1.3313942328441637
+2151135920,Panorama capturing system-wide information flow for malware detection and analysis,2007,24,624,5,0.0,2214002380,Heng Yin,0,-0.13631057111251949,1.057472198597474
+2163049969,Have things changed now An empirical study on input validation vulnerabilities in web applications,2012,25,46,3,1.0,2024322222,Theodoor Scholte,0,0.0040557659796233,0.2757546058061082
+2160106378,Overbot a botnet protocol based on Kademlia,2008,7,56,3,0.0,181270769,Guenther Starnberger,0,0.25553752762548526,0.7551642369664288
+2160637255,Identifying Dormant Functionality in Malware Programs,2010,34,86,3,1.0,348062083,Paolo Milani Comparetti,0,-0.1992588498710576,1.2590000785894877
+2166731089,Visual-similarity-based phishing detection,2008,14,93,2,0.0,1054743262,Eric Medvet,0,-0.4813496876526171,0.054682381396516815
+2152060369,Optical Delusions A Study of Malicious QR Codes in the Wild,2014,15,22,2,1.0,2275563875,Amin Kharraz,0,0.05940095047987125,0.6960502266457337
+2149084825,Paying for piracy an analysis of one-click hosters controversial reward schemes,2012,7,7,2,1.0,2048330058,Tobias Lauinger,0,0.0040557659796233,0.2757546058061082
+2170197386,Hypervisor-based malware protection with AccessMiner,2015,40,15,4,0.0,2297907573,Aristide Fattori,0,0.05940095047987125,0.6960502266457337
+2164195897,Using static program analysis to aid intrusion detection,2006,26,15,3,1.0,1922185186,Manuel Egele,0,0.13679434731489165,0.6751406926737795
+2158326123,Leveraging User Interactions for In-Depth Testing of Web Applications,2008,21,54,2,1.0,2665534022,Sean Mcallister,0,0.0040557659796233,0.2757546058061082
+2146871983,Server-Side Bot Detection in Massively Multiplayer Online Games,2009,7,58,3,0.0,2436162347,S. Mitterhofer,0,0.0040557659796233,0.2757546058061082
+2165089674,Secure Input for Web Applications,2007,15,22,3,0.0,2951459531,Martin Szydlowski,0,0.0040557659796233,0.2757546058061082
+2210686847,ZigZag automatically hardening web applications against client-side validation vulnerabilities,2015,21,12,3,0.666667,271478369,Michael Weissbacher,0,0.0040557659796233,0.2757546058061082
+2245468020,Using static program analysis to aid intrusion detection,2006,0,0,3,1.0,1922185186,Manuel Egele,0,0.13679434731489165,0.6751406926737795
+2294242399,Clickonomics Determining the Effect of Anti-Piracy Measures for One-Click Hosting,2013,23,15,5,1.0,2048330058,Tobias Lauinger,0,0.0040557659796233,0.2757546058061082
+2404356415,A Practical Targeted and Stealthy Attack Against WPA Enterprise Authentication,2013,34,35,3,0.0,2762426400,Aldo Cassola,0,-0.9987987759908911,-0.06501077814116098
+2461373307,UNVEIL a large-scale automated approach to detecting ransomware,2016,30,117,5,0.9,2275563875,Amin Kharraz,0,-0.13463079798198657,0.7143369509284987
+2514696089,EmailProfiler Spearphishing Filtering with Header and Stylometric Features of Emails,2016,26,14,5,1.0,2231190182,Sevtap Duman,0,-0.5718141302122169,-0.19659132650003464
+2515236103,LAVA Large-Scale Automated Vulnerability Addition,2016,17,75,3,0.0,2009152752,Brendan Dolan Gavitt,0,0.0040557659796233,0.2757546058061082
+2578355414,CrossFire An Analysis of Firefox Extension-Reuse Vulnerabilities,2016,22,3,4,1.0,2327675651,Ahmet Salih Buyukkayhan,0,0.0040557659796233,0.2757546058061082
+2518060702,TriggerScope Towards Detecting Logic Bombs in Android Applications,2016,34,56,4,0.444444,162010076,Yanick Fratantonio,0,0.7161354986322349,0.9600790623188239
+2528183044,Overhaul Input-Driven Access Control for Better Privacy on Traditional Operating Systems,2016,19,4,3,1.0,2055683646,Kaan Onarlioglu,0,-0.6876828916205099,0.519329260626922
+2508824203,Trellis Privilege Separation for Multi-user Applications Made Easy,2016,26,4,5,0.913043,2509059244,Andrea Mambretti,0,0.39140463474062187,1.0525197317121862
+2613366045,DARKDROID Exposing the Dark Side of Android Marketplaces,2016,0,0,1,1.0,59249629,Engin Kirda,0,0.25553752762548526,0.7551642369664288
+2631389871,Extending NET security to unmanaged code,2007,16,14,2,1.0,2552458193,Patrick Klinkoff,0,-0.22684964772494434,0.5553590878829306
+2734542274,Semi-automated discovery of server-based information oversharing vulnerabilities in Android applications,2017,36,2,5,0.0,2561590268,William Koch,0,-0.9469768964217147,1.2368526778433964
+2602517145,UNVEIL A large-scale automated approach to detecting ransomware (keynote),2017,0,11,1,1.0,59249629,Engin Kirda,0,-0.13463079798198657,0.7143369509284987
+2592895554,Extending NET Security to Unmanaged Code,2006,0,1,2,1.0,2552458193,Patrick Klinkoff,0,-0.22684964772494434,0.5553590878829306
+2771281827,Ex-Ray Detection of History-Leaking Browser Extensions,2017,25,7,6,0.666667,271478369,Michael Weissbacher,0,-0.9414922213435392,0.597374927800977
+2764249719,Redemption Real-Time Protection Against Ransomware at End-Hosts,2017,7,32,2,0.697674,2275563875,Amin Kharraz,0,-0.48047720290290913,1.3695682069170965
+2809780217,Protecting against Ransomware A New Line of Research or Restating Classic Ideas ,2018,8,6,1,1.0,59249629,Engin Kirda,0,-0.05399180570276138,0.8249692846832062
+2788782991,Large-Scale Analysis of Style Injection by Relative Path Overwrite,2018,26,4,5,0.65,2135713608,Sajjad Arshad,0,0.1639362940477497,0.6530314529854678
+2898326323,On the Effectiveness of Type-based Control Flow Integrity,2018,41,3,5,0.0,2898521686,Reza Mirzazade Farkhani,0,-0.3298717486468034,1.2192927984572213
+2914349003,Proceedings of the 5th USENIX conference on Large-Scale Exploits and Emergent Threats,2012,0,1,1,1.0,59249629,Engin Kirda,0,0.1639362940477497,0.6530314529854678
+2948548878,Root Cause Analysis for Cybersecurity,2017,0,0,1,1.0,59249629,Engin Kirda,0,0.0040557659796233,0.2757546058061082
+2949277663,On the Effectiveness of Type-based Control Flow Integrity,2018,41,0,5,0.0,2898521686,Reza Mirzazade Farkhani,0,-0.3298717486468034,1.2192927984572213
+2990167208,Multi-User Multi-Device-Aware Access Control System for Smart Home,2019,31,2,7,0.0,2726931165,Amit Kumar Sikder,0,0.012148496061948367,0.821963196796503
+2990246449,Speculator a tool to analyze speculative execution attacks and mitigations,2019,23,3,4,0.913043,2509059244,Andrea Mambretti,0,0.7777028492900779,0.22719176106630748
+2969671680,Its Not what It Looks Like Measuring Attacks and Defensive Registrations of Homograph Domains,2019,13,4,4,0.0,2771313852,Florian Quinkert,0,0.0040557659796233,0.2757546058061082
+2996478686,Cached and Confused Web Cache Deception in the Wild,2019,19,0,5,0.75,2086383268,Seyed Ali Mirheidari,0,-0.38809117199755566,0.41717543343405156
+2970465829,Getting Under Alexaâ€™s Umbrella Infiltration Attacks Against Internet Top Domain Lists,2019,17,0,1,1.0,59249629,Engin Kirda,0,0.0040557659796233,0.2757546058061082
+2970545278,An Analysis of Malware Trends in Enterprise Networks,2019,11,0,4,0.0,2594772656,Abbas Acar,0,0.1475395743585395,0.8074695844854315
+2975251719,Session details Sandboxing,2010,0,0,1,1.0,59249629,Engin Kirda,0,0.0040557659796233,0.2757546058061082
+2977936392,An Analysis of Malware Trends in Enterprise Networks,2019,11,0,4,0.0,2594772656,Abbas Acar,0,0.1475395743585395,0.8074695844854315
+2971420815,USBESAFE An End-Point Solution to Protect Against USB-Based Attacks,2019,0,0,5,0.697674,2275563875,Amin Kharraz,0,0.0040557659796233,0.2757546058061082
+2985186596,4 8102 Working Group -- Attack Taxonomy,2008,0,0,1,1.0,59249629,Engin Kirda,0,-0.17306912860721702,0.6429326548014207
+3012480215,Bypassing memory safety mechanisms through speculative control flow hijacks,2020,15,0,5,0.913043,2509059244,Andrea Mambretti,0,0.21109786952250534,0.6209655186775832
+3005362731,HotFuzz Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing,2020,45,1,6,0.0,3004841116,William Blair,0,-0.6567160340281432,1.3137850476034183
+2508667123,Runtime Integrity Checking for Exploit Mitigation on Lightweight Embedded Devices,2016,19,1,5,0.22105,57987472,Matthias Neugschwandtner,0,0.1639362940477497,0.6530314529854678

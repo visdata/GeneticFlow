@@ -1,0 +1,42 @@
+103357421,Accelerating spatial join operations using bit-indices,2011,21,1,4,1.0,2485243948,Elizabeth Antoine,0,-0.0041099411153885,0.0447066884760059
+144095889,Feel Free to Check-in Privacy Alert against Hidden Location Inference Attacks in GeoSNs,2013,9,17,3,0.0,2149696887,Zheng Huo,0,-0.0041099411153885,0.0447066884760059
+1560082344,Load balancing for moving object management in a P2P network,2008,26,5,3,1.0,2160137718,Mohammed Eunus Ali,0,-0.0041099411153885,0.0447066884760059
+1764479988,Recursive partitioning method for trajectory indexing,2010,24,3,4,1.0,2485243948,Elizabeth Antoine,0,-0.0041099411153885,0.0447066884760059
+1852209768,Privacy Preserving Moving KNN Queries,2011,41,1,3,0.571429,2015929307,Tanzima Hashem,0,0.09560153568394734,0.34384522677555335
+1964331783,Real-time continuous intersection joins over large sets of moving objects using graphic processing units,2014,27,15,3,0.0,2491945673,Phillip G. D. Ward,0,-0.0041099411153885,0.0447066884760059
+1969856465,Continuous visible k nearest neighbor query on moving objects,2014,36,19,2,0.0,2252171036,Yanqiu Wang,0,0.07444445029093576,0.045860387949783164
+1968104634,A motion-aware approach for efficient evaluation of continuous queries on 3D object databases,2010,38,16,3,1.0,2160137718,Mohammed Eunus Ali,0,-0.0041099411153885,0.0447066884760059
+1969084565,A highly optimized algorithm for continuous intersection join queries over moving objects,2012,45,29,1,1.0,3025133337,Rui Zhang,0,-0.0041099411153885,0.0447066884760059
+1994655805,iDistance An adaptive B + -tree based indexing method for nearest neighbor search,2005,37,470,5,0.0,360112113,Hosagrahar V. Jagadish,0,0.06432660696510827,0.29273033166800794
+1999968379,Streaming multiple aggregations using phantoms,2010,35,20,1,1.0,3025133337,Rui Zhang,0,0.32459552448122475,-0.14292106205624489
+1991911060,Spatio-temporal database research at the University of Melbourne,2010,16,2,2,0.0,66485931,Egemen Tanin,0,-0.241250245220175,-0.17693373480736696
+2017350707,A moving-object index for efficient query processing with peer-wise location privacy,2011,33,5,3,0.195547,2238753429,Dan Lin,0,-0.0041099411153885,0.0447066884760059
+2024993655,Boosting moving object indexing through velocity partitioning,2012,29,23,3,1.0,2893636152,Thi Nguyen,0,-0.0041099411153885,0.0447066884760059
+2033787075,Countering overlapping rectangle privacy attack for moving kNN queries,2013,45,28,3,0.571429,2015929307,Tanzima Hashem,0,0.09560153568394734,0.34384522677555335
+2051468257,A Motion-Aware Approach to Continuous Retrieval of 3D Objects,2008,21,14,2,0.0,2223875242,M. Eunus Ali,0,-0.0041099411153885,0.0447066884760059
+2051663596,Continuous Intersection Joins Over Moving Objects,2008,32,30,1,1.0,3025133337,Rui Zhang,0,0.03483052717618193,0.07123105628286343
+2055239866,MELODY-JOIN Efficient Earth Movers Distance similarity joins using MapReduce,2014,24,13,2,0.0,2192706955,Jin Huang,0,-0.0041099411153885,0.0447066884760059
+2062734663,The HV-tree a memory hierarchy aware version index,2010,19,14,1,1.0,3025133337,Rui Zhang,0,-0.0041099411153885,0.0447066884760059
+2077032037,ComMapReduce An improvement of MapReduce with lightweight communication mechanisms,2013,38,21,6,0.0,2682969252,Linlin Ding,0,0.10934387628903497,0.5420121954283955
+2061567674,Generalized multidimensional data mapping and query processing,2005,32,27,1,1.0,3025133337,Rui Zhang,0,-0.5480488623846642,0.36430400208264047
+2056521113,Towards a Painless Index for Spatial Objects,2014,30,12,1,1.0,3025133337,Rui Zhang,0,-0.0041099411153885,0.0447066884760059
+2070928147,Analysis and evaluation of V*-kNN an efficient algorithm for moving kNN queries,2010,35,33,2,1.0,1833031066,Sarana Nutanong,0,0.014532710543751099,0.030944858938630852
+2100247763,Similarity search a matching based approach,2006,22,35,2,0.0,121171588,Anthony K. H. Tung,0,0.014532710543751099,0.030944858938630852
+2126490564,Multiple aggregations over data streams,2005,27,99,1,1.0,3025133337,Rui Zhang,0,-0.5166512250862091,-0.08582111303758992
+2111876445,DesTeller a system for destination prediction based on trajectories with privacy protection,2013,6,24,2,0.0,2090919008,Andy Yuan Xue,0,-0.0041099411153885,0.0447066884760059
+2138835817,Optimized algorithms for predictive range and KNN queries on moving objects,2010,33,44,1,1.0,3025133337,Rui Zhang,0,0.016658130304974723,0.28707597525645495
+2135916570,Effective Density Queries on ContinuouslyMoving Objects,2006,17,74,4,0.0,2159644763,Christian S. Jensen,0,-0.0041099411153885,0.0447066884760059
+2121605000,Making the pyramid technique robust to query types and workloads,2004,20,56,1,1.0,3025133337,Rui Zhang,0,-0.0041099411153885,0.0447066884760059
+2116950833,Exploiting velocity distribution skew to speed up moving object indexing,2015,48,0,3,1.0,2893636152,Thi Nguyen,0,-0.0041099411153885,0.0447066884760059
+2131824717,The Min-dist Location Selection Query,2012,22,44,2,0.571429,2152307702,Jianzhong Qi,0,-0.0041099411153885,0.0447066884760059
+2165647619,Approximate NN queries on streams with guaranteed error/performance bounds,2004,24,80,4,0.0,335443309,Nick Koudas,0,-0.42845202490949574,0.1450203979855267
+2151369660,The V*-Diagram a query-dependent approach to moving KNN queries,2008,25,94,2,1.0,1833031066,Sarana Nutanong,0,0.2657856797705482,0.14689219539098033
+2167350691,Transaction time indexing with version compression,2008,67,93,4,0.0,1983664831,David B. Lomet,0,1.0186944673422138,0.7179645133839107
+2271512023,INSQ An influential neighbor set based moving kNN query processing system,2016,6,3,5,0.0,2322748572,Chuanwen Li,0,0.014532710543751099,0.030944858938630852
+2221000316,Processing spatio-temporal queries in a streaming fashion,2011,0,0,1,1.0,3025133337,Rui Zhang,0,-0.0041099411153885,0.0447066884760059
+2292981139,Processing moving k NN queries using influential neighbor sets,2014,28,27,6,0.571429,2152307702,Jianzhong Qi,0,-0.0041099411153885,0.0447066884760059
+2293827945,K-Nearest Neighbor Temporal Aggregate Queries,2015,32,9,4,0.0,2617049789,Yu Sun,0,0.014532710543751099,0.030944858938630852
+2591621978,A Technical Report Entity Extraction using Both Character-based and Token-based Similarity,2017,16,0,3,0.666667,2154047257,Zeyi Wen,0,-0.0041099411153885,0.0447066884760059
+2616811626,The Moving K Diversified Nearest Neighbor Query,2017,5,1,6,0.0,2306501471,Yu Gu,0,0.014532710543751099,0.030944858938630852
+2952724156,A MovingObject Index for Efficient Query Processing with Peer-Wise Location Privacy,2011,24,0,3,0.195547,2238753429,Dan Lin,0,-0.0041099411153885,0.0447066884760059
+2990343759,Entity Extraction with Knowledge from Web Scale Corpora,2020,18,0,3,0.666667,2154047257,Zeyi Wen,0,-0.0041099411153885,0.0447066884760059

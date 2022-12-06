@@ -1,0 +1,60 @@
+12918655,Integrating Distributed Data Sources Using Federated Objects,1992,10,6,2,0.0,2648232887,Henry R. Tirri,0,-0.0041099411153885,0.0447066884760059
+83839346,BitMat a main-memory bit matrix of RDF triples for conjunctive triple pattern queries,2008,1,29,2,0.428571,2067729839,Medha Atre,0,-0.536523602637124,-0.039070954720817806
+965270320,Method and system for presenting rdf data as a set of relational views,2011,12,19,3,0.0,2123783116,Yongmei Xie,0,0.0961446360507171,0.09504481597486747
+321286202,Supporting Bindexes on primary Bstructures with large primary keys,2004,9,2,4,0.820122,2097752854,Souripriya Das,0,-0.3652008450463068,0.3160971441695779
+1558727940,Database-based inference engine for RDFS/OWL constructs,2008,25,38,6,1.0,1975639602,George Eadon,0,0.9475399995230941,0.2535937194695328
+1524231245,SETH A Quorum-Based Replicated Database System for Experimentation with Failures,1988,4,3,3,0.0,2121378700,Bharat Bhargava,0,-0.0041099411153885,0.0447066884760059
+1561911801,Mechanism for sharing ancillary data between a family of related functions,1999,13,6,3,1.0,2096174866,Ravi Murthy,0,-0.34857978327751216,-0.2513987233039086
+1537043163,Database system having logical row identifiers,1999,4,29,4,1.0,2097752854,Souripriya Das,0,-0.46872409544780425,0.05608907708562324
+1504439773,An efficient SQL-based RDF querying scheme,2005,6,251,4,1.0,2006533407,Eugene Inseok Chong,0,1.901466873024071,0.5622172946276698
+1837432321,Managing and correlating historical events using an event timeline datatype,2008,4,2,3,1.0,2109003506,Abhishek Biswas,0,-0.0041099411153885,0.0447066884760059
+1804897121,Index with entries that store the key of a row and all non-key values of the row,1998,3,129,6,1.0,1582710214,Chuck Freiwald,0,-0.3652008450463068,0.3160971441695779
+1960248304,Method and system for processing queries in a database system using index structures that are not native to the database system,1996,8,60,5,1.0,1996978959,Samuel DeFazio,0,1.7535436523346943,0.5776937823820479
+1910339937,Building a user-interface for the O-Raid database system using the Suite system,1992,14,2,5,0.0,2121378700,Bharat Bhargava,0,0.30634458368849815,-0.09227566069137126
+1681646515,Oracle8i Index-Organized Table and Its Application to New Domains,2000,19,31,1,1.0,2627290768,Jagannathan Srinivasan,0,0.11082438985095652,0.15365103909647093
+1938422805,Transactional framework for executing statements involving non-native code,1999,6,19,4,0.928571,2059061867,Seema Sundara,0,0.8315666535521337,0.8995150721517136
+1855416215,Index-only tables with nested group keys,1996,6,79,5,1.0,1582710214,Chuck Freiwald,0,0.2353888729857487,0.3298835230747928
+1773251992,Managing expressions in a database system,2003,55,98,3,0.0,345041231,Dieter Gawlick,0,1.3048134241781268,0.16590565420481354
+1860254516,Supporting ancillary values from user defined functions in Oracle,2003,11,3,6,0.241022,2096174866,Ravi Murthy,0,0.3940167471356948,0.034682616096902104
+1964144121,Supporting table partitioning by reference in oracle,2008,8,50,5,1.0,1975639602,George Eadon,0,0.20055814262499577,-0.2883177332471475
+1948329976,Systems and methods for managing partitioned indexes that are created and maintained by user-defined indexing schemes,2002,46,42,4,1.0,2059061867,Seema Sundara,0,0.12446922487222774,0.4526346592524689
+1924882904,Extensible indexing a framework for integrating domain-specific indexing schemes into Oracle8i,2000,5,51,1,1.0,2627290768,Jagannathan Srinivasan,0,0.7332210539155509,0.12545716698792225
+1662296157,Database Technologies for RDF,2009,15,12,2,0.537526,2097752854,Souripriya Das,0,-1.3918970928783603,-1.220714330378465
+1730519770,Supporting RFID-based item tracking applications in Oracle DBMS using a bitmap datatype,2005,6,63,4,1.0,2303938556,Ying Hu,0,0.35880086778358555,-0.9125881983324725
+1988879967,Integrating IR and RDBMS using cooperative indexing,1995,12,53,4,1.0,1996978959,Samuel DeFazio,0,0.947065294397737,0.5831502081519243
+2015904297,Visualizing large-scale RDF data using Subsets Summaries and Sampling in Oracle,2010,18,11,7,0.693298,2059061867,Seema Sundara,0,-0.39040501381267817,0.0678282925157182
+2012726908,A mapping mechanism to support bitmap index and other auxiliary structures on tables stored as primary B + -trees,2003,10,8,8,1.0,1582710214,Chuck Freiwald,0,0.14042717710312239,-0.29785503075061903
+2011067751,Estimating aggregates in time-constrained approximate queries in Oracle,2009,4,9,3,0.961319,2303938556,Ying Hu,0,0.06887865351754878,-0.021677986509170095
+2034651153,A Scalable Scheme for Bulk Loading Large RDF Graphs into Oracle,2008,6,12,5,0.621978,2097752854,Souripriya Das,0,0.09615526306763203,0.06936023916349308
+2065194600,Implementing an Inference Engine for RDFS/OWL Constructs and User-Defined Rules in Oracle,2008,18,112,7,0.0,2113895046,Zhe Wu,0,-0.061675976891849144,-0.11487460868263082
+2058248895,An experimental study of time-constrained aggregate queries,2010,15,2,4,0.908999,2303938556,Ying Hu,0,0.5486698075969612,0.2575275571813884
+2103726789,B/sup +/-tree indexes with hybrid row identifiers in Oracle8i,2001,6,3,6,1.0,1582710214,Chuck Freiwald,0,-0.04842076186372459,0.4120753930406017
+2131923057,An application synopsis tool for database applications developed using oracle application express,2010,5,2,3,0.0,2228389705,Sadhwi Srinivas,0,0.05640315281478835,-0.022715007301229845
+2114576883,Supporting Keyword Columns with Ontology-based Referential Constraints in DBMS,2006,7,7,4,1.0,2006533407,Eugene Inseok Chong,0,-0.3652008450463068,0.3160971441695779
+2106044733,OdeView the graphical interface to Ode,1990,29,73,3,0.0,2537924216,Rakesh Agrawal,0,0.8420839907610584,-0.013175917684802797
+2112666706,Managing Expressions as Data in Relational Database Systems,2003,16,30,2,0.714286,2253005259,Aravind Yalamanchi,0,1.3765365342312552,0.2280143466519374
+2112885079,Making Unstructured Data SPARQL Using Semantic Indexing in Oracle Database,2012,14,10,4,0.509267,2097752854,Souripriya Das,0,-0.29146130378488583,0.572765592128344
+2127801226,Database extensions for complex domains,1996,2,7,2,0.75,2987287628,S. DeFazio,0,0.6214648899356374,0.6944503859502942
+2119788851,The importance of extensible database systems for e-commerce,2001,5,11,3,0.75,2987287628,S. DeFazio,0,2.3343501177274706,0.48942345549087196
+2143640089,Apparatus for and method of displaying a data item of a database using the display function of a selected data item,1993,27,79,2,0.256243,2006635972,Narain H. Gehani,0,0.31842691857092115,0.2553142983781029
+2131758366,PERFORMANCE STUDY ON SUPPORTING OBJECTS IN O-RAID DISTRIBUTED DATABASE SYSTEM,1993,0,1,4,0.0,2121378700,Bharat Bhargava,0,0.9889306909419382,-0.2552501829636823
+2162146864,OdeView a user-friendly graphical interface to Ode,1990,0,3,3,0.0,2138427228,Rakesh Agrawal,0,1.3127637616035577,0.14202006220006624
+2153858219,Supporting queries in the O-Raid object-oriented database system,1990,24,8,2,0.0,2114393250,J. G. Mullen,0,1.227286939411848,0.16122532946092738
+2144889412,Implementing object support in the RAID distributed database system,1990,13,6,4,0.0,2121378700,Bharat Bhargava,0,0.59371964980347,0.00796183263838452
+2163100433,Supporting time-constrained SQL queries in oracle,2007,24,30,3,1.0,2303938556,Ying Hu,0,0.7518370819912543,0.22218704236567638
+2160173281,SETH a quorum-based database system for experimentation with failures,1989,9,2,2,0.0,2989221975,A. Helal,0,1.3115885696151754,1.333970488469645
+2158273316,Developing an Indexing Scheme for XML Document Collection using the Oracle8i Extensibility Framework,2001,5,2,5,1.0,2059061867,Seema Sundara,0,2.695906120365007,-0.9062916071749169
+2210149334,Materialized views with user-defined aggregates,2007,9,16,3,0.935976,2059061867,Seema Sundara,0,1.3519940456359951,0.6616657397614238
+2262269749,Online tracking and fixing of invalid guess-DBAs in secondary indexes and mapping tables on primary B+tree structures,2001,8,5,3,1.0,2097752854,Souripriya Das,0,-0.17774838891573388,0.10450127683964831
+2267785123,Supporting math trails on property graphs,2014,3,0,4,0.0,2282511031,P Sai Sumana,0,-0.0041099411153885,0.0447066884760059
+2204296845,Method and system for speeding up rebuild of user-defined indexes during partition maintenance operations in the database systems,2008,8,18,3,0.754221,2059061867,Seema Sundara,0,0.06217458587965072,0.28286417959481563
+2231285779,Method and mechanism for extending native optimization in a database system,2002,19,66,5,0.328767,2096174866,Ravi Murthy,0,2.3285692349710727,0.5147782564143359
+2224337439,Method and mechanism for database statement optimization,1999,15,41,3,1.0,2122783418,Nipun Agarwal,0,-0.8111052405828644,0.8913388803529055
+2260619507,Information lifecycle management in evolving healthcare databases,2013,6,0,3,0.0,2264722369,Nitin Chandra Badam,0,1.204501787921431,0.29860165833699415
+2296712060,A Tale of Two Graphs Property Graphs as RDF in Oracle,2014,10,26,2,0.482207,2097752854,Souripriya Das,0,-0.22129792696013037,0.015173293984323604
+2279102108,Database management system with persistent user-accessible bitmap values,2005,15,16,5,1.0,2006533407,Eugene Inseok Chong,0,0.8512364644118232,0.8361106160758283
+2397401345,Analysis and Modeling of Evolving Database-centric Web Applications,2010,13,0,4,0.0,2401786118,S. V. Madhava Krishna,0,-0.46903624772450353,-0.5809455372160456
+2395056156,Exploring Large RDF Datasets using a Faceted Search,2015,2,0,3,0.0,2480468769,Juan Francisco Garcia Navarro,0,-0.39040501381267817,0.0678282925157182
+2495287614,The importance of extensible database systems for e-Commerce,2001,0,0,3,0.75,2987287628,S. DeFazio,0,2.3343501177274706,0.48942345549087196
+2774251991,Supporting queries in the O-raid object-oriented database system,1990,0,0,2,0.0,2114393250,J. G. Mullen,0,-0.0041099411153885,0.0447066884760059
+2782416242,Method for extending native optimization in a database system,2000,7,2,6,0.75,2096174866,Ravi Murthy,0,-0.0041099411153885,0.0447066884760059

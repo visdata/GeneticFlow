@@ -1,0 +1,58 @@
+71699235,Live Analytics Service Platform,2012,7,0,1,1.0,2164671343,Meichun Hsu,0,0.6485798450812055,1.2695285116921065
+21940605,A new paradigm for collaborating distributed query engines,2012,5,0,2,0.228919,2105637293,Qiming Chen,0,0.7215975991611812,0.3052417628859806
+176357181,Query engine grid for executing SQL streaming process,2011,15,0,2,0.285834,2105637293,Qiming Chen,0,-0.18247475817325778,0.07190497011181465
+6138692,Dynamic Data Warehousing,1999,0,5,3,0.0558946,689294964,Umeshwar Dayal,0,-0.09710842573285014,0.5176014383323866
+162474272,The fix-point method for discrete events simulation using SQL and UDF,2011,7,0,2,0.285834,2105637293,Qiming Chen,0,0.04096502533685727,0.014095257650737034
+221416579,Execution of query plans for database query within environments of databases,2009,15,1,4,0.0,689294964,Umeshwar Dayal,0,0.7215975991611812,0.3052417628859806
+115820032,Providing Database Management Capabilities for Mission Critical Applications,1985,0,2,3,0.0,2157979715,Arvola Chan,0,1.4094977768791013,0.20770397265071774
+306106854,In-database parallel analytics,2012,14,4,2,0.228919,2105637293,Qiming Chen,0,-0.0041099411153885,0.0447066884760059
+949894078,Map-reduce and parallel processing in databases,2009,11,38,4,0.0,2077773543,Andy Therber,0,-0.22216467462895034,1.1472841494474038
+1479639754,MemcacheSQL A Scale-Out SQL Cache Engine,2011,8,3,2,0.285834,2105637293,Qiming Chen,0,0.044859856903840555,0.012551371775477651
+1498771876,SQL TVF Controlling Forms - Express Structured Parallel Data Intensive Computing,2008,18,0,2,0.804935,2105637293,Qiming Chen,0,0.15528519901229684,-0.007099507352834066
+1498996801,Experience in extending query engine for continuous analytics,2010,20,20,2,0.392433,2105637293,Qiming Chen,0,0.7215975991611812,0.3052417628859806
+1535822977,Dynamic Data Warehousing (abstract),1999,0,2,3,0.0558946,689294964,Umeshwar Dayal,0,-0.2711156666961744,0.5305498277753874
+1544973146,An In-Database Streaming Solution to Multi-camera Fusion,2009,15,2,3,0.546378,2105637293,Qiming Chen,0,0.37691174243650843,-0.041096570237576846
+1545234381,An OLAP-based Scalable Web Access Analysis Engine,2000,9,19,3,0.0,2952672392,Qiming Chen,0,-0.16328011374660287,0.9890247327765609
+1510577454,Dynamic-Agents Workflow and XML for E-Commerce Automation,2000,9,32,3,1.0,2105637293,Qiming Chen,0,0.6179967695335458,0.10986139805063201
+1510619218,Spatial querying in a data warehouse,2008,11,14,2,0.804935,2105637293,Qiming Chen,0,0.7215975991611812,0.3052417628859806
+1521216374,Processing a data stream,2010,29,8,2,0.392433,2105637293,Qiming Chen,0,0.08697583711764378,-0.08038334271938015
+1576056738,SFL a structured dataflow language based on SQL and FP,2010,4,2,2,0.392433,2105637293,Qiming Chen,0,0.2775402042066938,0.02548841030936566
+1879230249,Parallel computing with distributed shared data,1989,0,0,1,1.0,2164671343,Meichun Hsu,0,0.0835119396817451,0.051530138659233005
+1848481073,User Defined Partitioning - Group Data Based on Computation Model,2008,21,2,2,0.804935,2105637293,Qiming Chen,0,0.0018171560686416185,0.32914802828700296
+1884699790,OLAP-Based Data Mining for Business Intelligence Applications in Telecommunications and E-commerce,2000,24,11,3,1.0,2105637293,Qiming Chen,0,0.007458046680431374,1.1457773908093984
+1598800977,Conceptual Modeling for Collaborative E-business Processes,2001,15,9,3,0.87411,2105637293,Qiming Chen,0,0.527223468953859,-0.36484319966212836
+1591392098,Distributed OLAP-based association rule generation method and system,2000,16,51,4,0.0372324,689294964,Umeshwar Dayal,0,0.27047528328691944,1.221319934934113
+1864378299,Customer profiling apparatus for conducting customer behavior pattern analysis and method for comparing customer behavior patterns,1999,15,41,3,0.0558946,689294964,Umeshwar Dayal,0,0.11627582886789564,0.3621724021946999
+1602670935,Extend UDF Technology for Integrated Analytics,2009,12,19,2,0.546378,2105637293,Qiming Chen,0,0.7286586852889497,0.08165609020781348
+1868768000,A data-warehouse/OLAP framework for scalable telecommunication tandem traffic analysis,2000,11,38,2,1.0,2105637293,Qiming Chen,0,-0.04717539999838234,0.11376674693338522
+1603747016,Scaling-Up and Speeding-Up Video Analytics Inside Database Engine,2009,10,6,2,0.546378,2105637293,Qiming Chen,0,0.507206428856144,-0.09267681546585844
+1985824086,Extend core UDF framework for GPU-enabled analytical query evaluation,2011,19,0,3,0.285834,2105637293,Qiming Chen,0,0.41697757600812063,-0.008835724611013833
+1990771597,Intention insider discovering peoples intentions in the social channel,2012,2,11,2,0.0,2148997595,Malu Castellanos,0,0.1630750270453187,0.22914664330838586
+2010053008,Organizing long-running activities with triggers and transactions,1990,19,287,2,0.134719,689294964,Umeshwar Dayal,0,1.2032706244690363,1.179247865647688
+2013664217,Extracting interesting related context-dependent concepts from social media streams using temporal distributions,2013,5,1,2,0.0,2974892703,C. P. Sayers,0,-0.0041099411153885,0.0447066884760059
+2029546090,A distributed OLAP infrastructure for e-commerce,1999,10,22,3,1.0,2105637293,Qiming Chen,0,0.27047528328691944,1.221319934934113
+2016580249,The HiPAC project combining active databases and timing constraints,1988,17,405,5,0.0,689294964,Umeshwar Dayal,0,0.6555151137388446,0.019801566814011053
+2020199039,Large-scale Predictive Analytics in Vertica Fast Data Transfer Distributed Model Creation and In-database Prediction,2015,14,10,7,0.0,2421998011,Shreya Prasad,0,0.4657264146437601,0.22662101843493626
+2027240475,The farm where pig scripts are bred and raised,2013,6,2,6,0.0,2120279081,Craig Peter Sayers,0,0.06635930819191084,0.49152641060504293
+2016788159,Aeolus An optimizer for distributed intra-node-parallel streaming systems,2013,3,10,4,0.0,2717001712,Matthias J. Sax,0,-0.0041099411153885,0.0447066884760059
+2042128496,Experience in Continuous analytics as a Service (CaaaS),2011,15,54,2,0.285834,2105637293,Qiming Chen,0,-0.02320361757653805,-0.077701346850894
+2037874195,Efficiently support MapReduce-like computation models inside parallel DBMS,2009,19,22,3,0.546378,2105637293,Qiming Chen,0,0.4706709639557895,0.1264468861687711
+2057818287,LCI a social channel analysis platform for live customer intelligence,2011,7,33,3,0.0,2148997595,Malu Castellanos,0,-0.0041099411153885,0.0447066884760059
+2084542795,Stream-join revisited in the context of epoch-based SQL continuous query,2012,9,2,2,0.228919,2105637293,Qiming Chen,0,0.04096502533685727,0.014095257650737034
+2101438435,Inter-enterprise collaborative business process management,2001,23,99,2,0.87411,2105637293,Qiming Chen,0,0.5914199159853155,0.9743024179563765
+2086851811,HFMS Managing the lifecycle and complexity of hybrid analytic data flows,2013,26,22,3,0.0,2347878689,Kevin Wilkinson,0,0.2946713761785912,0.4027268098681643
+2123449829,OLAP-based Scalable Profiling of Customer Behavior,1999,5,20,3,1.0,2105637293,Qiming Chen,0,0.281746511432166,1.4018805412743527
+2136491563,Update propagation in distributed memory hierarchy,1990,9,35,2,0.0,2611535919,M. Bellew,0,1.848620476145237,1.920417192917315
+2171166363,A Transactional Model for Long-Running Activities,1991,22,167,2,0.223114,689294964,Umeshwar Dayal,0,0.8652045105992918,0.9191653789832627
+2150581873,Implementing recoverable requests using queues,1990,11,109,2,0.0,2304774990,Philip A. Bernstein,0,1.7440958500705086,1.5754909726320645
+2152053450,Performance optimization for distributed intra-node-parallel streaming systems,2013,7,8,4,0.0,2717001712,Matthias J. Sax,0,-0.0041099411153885,0.0447066884760059
+2167587254,Building a scalable web query system,2007,13,5,1,1.0,2164671343,Meichun Hsu,0,-1.9228666880386183,-1.623156324969931
+2284195922,User Defined Functions Including Requests for Analytics by External Analytic Engines,2015,1,4,3,0.212425,2105637293,Qiming Chen,0,0.014532710543751099,0.030944858938630852
+2427099794,Building the Enterprise Fabric for Big Data with Vertica and Spark Integration,2016,7,3,7,0.0,2125908931,Jeff LeFevre,0,0.595954793274465,-0.002465364527452718
+2544512045,ABSTRACTION LAYER BETWEEN A DATABASE QUERY ENGINE AND A DISTRIBUTED FILE SYSTEM,2013,5,30,3,0.225728,2105637293,Qiming Chen,0,1.3346603508343653,0.46699184909556307
+2546533167,dmapply a functional primitive to express distributed machine learning algorithms in R,2016,23,1,3,0.0,2650806227,Edward Ma,0,0.38632121652839624,0.058193535481373765
+2602007726,Searching relational and graph databases,2014,8,3,3,0.231547,2105637293,Qiming Chen,0,1.0483546979320908,0.2985630929920801
+2598374684,BASE USER DEFINED FUNCTIONS,2015,5,0,3,0.212425,2105637293,Qiming Chen,0,0.7544004419212165,0.10761732311752932
+2596621961,DATABASE COMPARISON OPERATION TO IDENTIFY AN OBJECT,2015,5,0,1,1.0,2164671343,Meichun Hsu,0,-0.0041099411153885,0.0447066884760059
+2751367605,An OLAP-based scalable web access analysis engine,2000,0,0,3,0.0,2952672392,Qiming Chen,0,-0.16328011374660287,0.9890247327765609
+2992424701,A generalized transaction model for long-running activities and active databases,1991,0,2,2,0.223114,689294964,Umeshwar Dayal,0,1.4869666590440682,1.290435237634031

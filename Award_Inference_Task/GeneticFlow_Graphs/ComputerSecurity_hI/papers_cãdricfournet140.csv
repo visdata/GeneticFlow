@@ -1,0 +1,60 @@
+75729132,Proving the TLS Handshake Secure (As It Is),2014,58,48,2,0.550195,392089535,Karthikeyan Bhargavan,0,0.2310093647576035,-0.8572688913402173
+1550584233,Just Fast Keying in the Pi Calculus,2004,18,5,3,0.0,2162106674,MartÃ­n Abadi,0,-1.068521320067522,-0.5191915247750707
+1505834612,Automated Verification of Selected Equivalences for Security Protocols,2005,0,0,3,0.5,2311319369,Bruno Blanchet,0,-0.4431931815570836,-0.6183190123592079
+1569778844,VC3 Trustworthy Data Analytics in the Cloud Using SGX,2015,61,302,3,0.0,1964797733,Felix Schuster,0,-0.18118066271638403,-0.1953885911378563
+1570043269,Code-Carrying Authorization,2008,22,136,3,0.0,1938236120,Sergio Maffeis,0,0.01729573639416045,0.692733692908092
+1563556756,Geppetto Versatile Verifiable Computation,2015,53,86,2,0.0,2106128776,Craig Costello,0,-0.034391524424586525,-0.9802908542187406
+1492649894,Cryptographically sound implementations for communicating processes,2006,19,30,2,0.0,2915858522,Pedro AdÃ£o,0,-0.9847075730267821,0.19122948516383595
+1493106024,Checking the security of web services configurations,2005,4,40,2,0.875,392089535,Karthikeyan Bhargavan,0,-0.64380370370557,2.837283194704529
+1495444061,A Messy State of the Union Taming the Composite State Machines of TLS,2015,37,127,4,0.7,1044068175,Benjamin Beurdouche,0,-0.4447978403226499,-1.2229614100118928
+1840686199,A secure compiler for session abstractions,2008,36,20,3,0.45257,2141857133,Ricardo Corin,0,0.3171484069971384,-0.13992525839030945
+1750903016,Security authorization queries,2006,142,44,1,1.0,1819774294,CÃ©dric Fournet,0,0.01729573639416045,0.692733692908092
+1888344413,Access Control Based on Execution History,2003,15,200,2,0.0,2162106674,MartÃ­n Abadi,0,-0.023550276898621297,0.7099097923564667
+1917408349,Controlling the delegation of rights,2006,129,33,1,1.0,1819774294,CÃ©dric Fournet,0,0.0040557659796233,0.2757546058061082
+1975344666,Triple Handshakes and Cookie Cutters Breaking and Fixing Authentication over TLS,2014,52,106,3,0.550195,392089535,Karthikeyan Bhargavan,0,-0.20476540608132238,-0.3043552381164577
+1976320870,Smart meter aggregation via secret-sharing,2013,0,0,2,0.0,22890495,George Danezis,0,0.5676011855290044,-0.29925708124711714
+1966034442,Smart meter aggregation via secret-sharing,2013,21,44,2,0.0,22890495,George Danezis,0,0.5727049862337061,-0.29711680195419876
+1976646754,Pinocchio coin building zerocoin from a succinct pairing-based proof system,2013,5,56,2,0.0,22890495,George Danezis,0,-0.1083241085868621,-1.7442984824884284
+2007072126,Secure sessions for Web services,2007,44,51,3,1.0,392089535,Karthikeyan Bhargavan,0,-0.32409323540744556,1.1528106569199716
+2021135257,Pinocchio coin Building Zerocoin from a succinct pairing-based proof system,2013,0,0,2,0.0,22890495,George Danezis,0,-0.7830258437089852,-1.90468903222482
+2016142193,Just fast keying in the pi calculus,2007,34,103,3,0.0,2162106674,MartÃ­n Abadi,0,-0.700484383104369,-1.5601677027855623
+2044338429,Cryptographically sound implementations for typed information-flow security,2008,34,53,1,1.0,1819774294,CÃ©dric Fournet,0,-0.7850074220999668,-1.1052506668261766
+2066349785,A security-preserving compiler for distributed programs from information-flow policies to cryptographic mechanisms,2009,17,26,1,1.0,1819774294,CÃ©dric Fournet,0,-0.38073540769219444,-0.8809067963026437
+2064815039,Verified Cryptographic Implementations for TLS,2012,43,25,2,0.695652,392089535,Karthikeyan Bhargavan,0,-0.8332755736678834,-0.8211542680917178
+2073814996,Observing and Preventing Leakage in MapReduce,2015,27,23,3,0.190203,131194035,Olga Ohrimenko,0,0.08260989344031648,0.07028827411204142
+2072210640,Cryptographically verified implementations for TLS,2008,31,89,2,1.0,392089535,Karthikeyan Bhargavan,0,-0.5159743374657743,-1.3773691725798176
+2070775894,Implementing TLS with Verified Cryptographic Security,2013,70,114,2,0.583857,392089535,Karthikeyan Bhargavan,0,-0.9504708958709861,-1.5191527996769685
+2099537756,Modular code-based cryptographic verification,2011,61,55,1,1.0,1819774294,CÃ©dric Fournet,0,-1.0090412185860693,-1.4820469315507974
+2104578611,Verified implementations of the information card federated identity-management protocol,2008,25,41,2,1.0,392089535,Karthikeyan Bhargavan,0,-1.442862766608417,-0.6881256431998828
+2105075717,Compiling information-flow security to minimal trusted computing bases,2011,31,10,1,1.0,1819774294,CÃ©dric Fournet,0,-0.637113402224175,0.27544100942492844
+2126275975,A Type Discipline for Authorization in Distributed Systems,2007,47,74,1,1.0,1819774294,CÃ©dric Fournet,0,-0.3117653177632344,-1.018211204269058
+2129162180,Information-flow types for homomorphic encryptions,2011,23,17,1,1.0,1819774294,CÃ©dric Fournet,0,0.14707787220782642,-1.725354019387685
+2135493456,Secure Implementations for Typed Session Abstractions,2007,30,40,3,0.45257,2141857133,Ricardo Corin,0,-0.3415933421640771,-0.5190877714279475
+2125515762,Verifying policy-based security for web services,2004,18,77,2,0.875,392089535,Karthikeyan Bhargavan,0,0.0040557659796233,0.2757546058061082
+2125607372,An advisor for web services security policies,2005,18,61,2,0.875,392089535,Karthikeyan Bhargavan,0,-0.32409323540744556,1.1528106569199716
+2114330540,Secure Enforcement for Global Process Specifications,2009,9,11,3,0.0,2344680966,JÃ©rÃ©my Planul,0,0.3171484069971384,-0.13992525839030945
+2150735864,Secure communications processing for distributed languages,1999,30,28,1,1.0,1819774294,CÃ©dric Fournet,0,-0.6438307280469783,-0.5282949242279849
+2151353792,Secure sessions for web services,2004,37,29,3,0.875,392089535,Karthikeyan Bhargavan,0,-0.4656804588290318,0.4865098350588477
+2163902533,ZQL a compiler for privacy-preserving data processing,2013,66,27,1,1.0,1819774294,CÃ©dric Fournet,0,0.3171484069971384,-0.13992525839030945
+2155626861,Reliable evidence auditability by typing,2009,14,24,2,0.0,45076179,Nataliya Guts,0,0.0040557659796233,0.2757546058061082
+2210559677,Security assertion revocation,2006,111,8,1,1.0,1819774294,CÃ©dric Fournet,0,0.019838728701529657,0.3823927778308614
+2211718439,Reviewing the security of trusted software components,2003,22,60,1,1.0,1819774294,CÃ©dric Fournet,0,0.0040557659796233,0.2757546058061082
+2257003395,History based rights computation for managed code,2002,17,15,1,1.0,1819774294,CÃ©dric Fournet,0,0.6522230564036597,1.7439238660684098
+2395368405,Downgrade Resilience in Key-Exchange Protocols,2016,47,15,3,0.389877,392089535,Karthikeyan Bhargavan,0,-0.5414811524531161,-0.7855603293046794
+2470176151,Cinderella Turning Shabby X509 Certificates into Elegant Anonymous Credentials with the Magic of Verifiable Computation,2016,64,12,2,0.580554,27630912,Antoine Delignat Lavaud,0,0.0647442513993843,-1.018072674305677
+2495374357,Just fast keying in the Pi calculus,2004,0,0,3,0.0,2162106674,MartÃ­n Abadi,0,-1.068521320067522,-0.5191915247750707
+2538848838,Formal Verification of Smart Contracts Short Paper,2016,5,202,3,0.389877,392089535,Karthikeyan Bhargavan,0,-1.0748320696519569,0.6346639768992652
+2533649310,Verified Secure Implementations for the HTTPS Ecosystem Invited Talk,2016,0,0,1,1.0,1819774294,CÃ©dric Fournet,0,1.3454020868452483,-0.35857436812643345
+2535060913,Hash First Argue Later Adaptive Verifiable Computations on Outsourced Data,2016,46,16,2,0.0,2098430168,Dario Fiore,0,-0.4632093310218741,-1.0195297872754696
+2580339477,A messy state of the union taming the composite state machines of TLS,2017,44,8,4,0.7,1044068175,Benjamin Beurdouche,0,-0.5102091754327447,-0.7528560560659388
+2564949988,miTLS Verifying Protocol Implementations against Real-World Attacks,2016,13,4,2,0.389877,392089535,Karthikeyan Bhargavan,0,-0.3449926546545242,-1.0306494954076024
+2640092413,Implementing and Proving the TLS 13 Record Layer,2017,35,25,3,0.327704,392089535,Karthikeyan Bhargavan,0,-0.3852847149576867,-0.7859709228820732
+2657786107,A type discipline for authorization policies,2005,33,50,1,1.0,1819774294,CÃ©dric Fournet,0,-0.13158165377003772,-0.6676630602561207
+2589716972,Data center privacy,2017,37,2,4,0.8,117801055,Christos Gkantsidis,0,0.155870422438688,-0.3611899258997246
+2612866259,New Results - Attacks and Proofs for Transport Layer Security,2015,0,0,6,0.46419,27630912,Antoine Delignat Lavaud,0,-0.36139017078501745,-0.6698254899516656
+2804093830,2015 IEEE Symposium on Security and Privacy SP 2015,2015,1,0,7,0.8,117801055,Christos Gkantsidis,0,0.0040557659796233,0.2757546058061082
+2912873793,Proceedings of the 3rd conference on Trustworthy global computing,2007,0,0,1,1.0,1819774294,CÃ©dric Fournet,0,-0.18618689656946605,0.637946401295037
+2914971001,Private authentication,2004,32,114,2,0.0,2162106674,MartÃ­n Abadi,0,-0.5877444178244037,-0.42479214473353116
+2950551784,CCF A Framework for Building Confidential Verifiable Replicated Services,2019,0,3,4,0.0,75217033,Christoph M. Wintersteiger,0,0.13057905746798712,0.4316933915095575
+2949034369,EverParse Verified Secure Zero-Copy Parsers for Authenticated Message Formats,2019,0,2,3,0.0,2223501906,Tahina Ramananandro,0,-0.5530861437885858,-0.004176666300269333
+3001275798,AMP Authentication of Media via Provenance,2020,16,0,5,0.0,2107405182,Paul England,0,-0.4340942520801243,0.3619386618945468

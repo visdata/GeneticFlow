@@ -1,0 +1,42 @@
+9904157,B@bel leveraging email delivery for spam mitigation,2012,42,23,2,0.272727,1838332414,Gianluca Stringhini,0,-0.1998845188158672,-1.3060374615816834
+596492259,Blanket execution dynamic similarity testing for program binaries and components,2014,28,72,1,1.0,1922185186,Manuel Egele,0,-0.46853086956334794,1.3605471751131457
+1534295949,Challenges for dynamic analysis of iOS applications,2011,23,32,2,0.0,2951459531,Martin Szydlowski,0,-0.18093063267091658,0.4696899054941046
+1555215938,PiOS Detecting privacy leaks in iOS applications,2011,12,390,1,1.0,1922185186,Manuel Egele,0,-0.11830298931365961,0.017885543730280812
+1433255219,On the Security and Engineering Implications of Finer-Grained Access Controls for Android Developers and Users,2015,35,11,4,0.0,162010076,Yanick Fratantonio,0,-0.24263774287769158,0.48314717038057303
+1761672165,Defending Browsers against Drive-by Downloads Mitigating Heap-Spraying Code Injection Attacks,2009,22,187,1,1.0,1922185186,Manuel Egele,0,0.27618220301982876,1.2003164182666262
+1584091223,Organizing large scale hacking competitions,2010,4,39,6,0.0,2287061905,Nicholas Childers,0,-0.6978361188353889,0.056845468607254625
+1985752637,EdgeMiner Automatically Detecting Implicit Control Flow Transitions through the Android Framework,2015,25,99,4,0.0,2122648457,Yinzhi Cao,0,0.0040557659796233,0.2757546058061082
+2008810193,An empirical study of cryptographic misuse in android applications,2013,23,210,1,1.0,1922185186,Manuel Egele,0,-0.9042144049786085,-0.5653816002922785
+2020926403,Poster control-flow integrity for smartphones,2011,8,3,3,0.255319,2102726817,Lucas Davi,0,-1.3325026984974713,0.2029676555647352
+2014005029,Drops for Stuff An Analysis of Reshipping Mule Scams,2015,20,8,5,0.0,2514357051,Shuang Hao,0,0.0040557659796233,0.2757546058061082
+2014589236,Dynamic spyware analysis,2007,26,214,1,1.0,1922185186,Manuel Egele,0,-0.9119080757758813,0.2833676514400835
+2066220442,A survey on automated dynamic malware-analysis techniques and tools,2012,64,481,1,1.0,1922185186,Manuel Egele,0,-0.27410520138219224,1.2791467325705501
+2083940415,A solution for the automated detection of clickjacking attacks,2010,15,62,2,0.0,2029117953,Marco Balduzzi,0,1.7029826062605458,-0.2600589908962866
+2099151437,Hit em where it hurts a live security exercise on cyber situational awareness,2011,9,38,2,0.0,2093562960,Adam DoupÃ©,0,0.11259000006634194,0.3294764488794644
+2106444274,Removing web spam links from search engine results,2011,30,34,1,1.0,1922185186,Manuel Egele,0,0.0040557659796233,0.2757546058061082
+2109860693,Mitigating Drive-By Download Attacks Challenges and Open Problems,2009,19,33,1,1.0,1922185186,Manuel Egele,0,0.14216232661916506,0.13132199856197
+2108290480,CAPTCHA smuggling hijacking web browsing sessions to create CAPTCHA farms,2010,18,30,1,1.0,1922185186,Manuel Egele,0,-0.4095652199915964,0.3246894702283116
+2156262402,PoX Protecting users from malicious Facebook applications,2012,10,25,1,1.0,1922185186,Manuel Egele,0,0.06809933761749783,0.5418080565791149
+2151135920,Panorama capturing system-wide information flow for malware detection and analysis,2007,24,624,3,0.0,2214002380,Heng Yin,0,-0.13631057111251949,1.057472198597474
+2164195897,Using static program analysis to aid intrusion detection,2006,26,15,1,1.0,1922185186,Manuel Egele,0,0.13679434731489165,0.6751406926737795
+2159034832,Poultry markets on the underground economy of twitter followers,2012,23,66,2,0.272727,1838332414,Gianluca Stringhini,0,0.0040557659796233,0.2757546058061082
+2230089931,Towards Detecting Compromised Accounts on Social Networks,2017,24,60,1,1.0,1922185186,Manuel Egele,0,0.3259332239481683,0.5745734317069635
+2245468020,Using static program analysis to aid intrusion detection,2006,0,0,1,1.0,1922185186,Manuel Egele,0,0.13679434731489165,0.6751406926737795
+2233384038,EVILCOHORT detecting communities of malicious accounts on online services,2015,39,40,4,0.272727,1838332414,Gianluca Stringhini,0,-0.45269188925926773,0.3692413779116648
+2334956882,Why allowing profile name reuse is a bad idea,2016,34,4,5,0.0,2343079182,Enrico Mariconti,0,-1.5165611834410564,-0.62437501687407
+2397135192,COMPA Detecting Compromised Accounts on Social Networks,2013,16,184,1,1.0,1922185186,Manuel Egele,0,0.1475395743585395,0.8074695844854315
+2397986719,MoCFI A Framework to Mitigate Control-Flow Attacks on Smartphones,2012,28,115,3,0.255319,2102726817,Lucas Davi,0,0.0040557659796233,0.2757546058061082
+2514696089,EmailProfiler Spearphishing Filtering with Header and Stylometric Features of Emails,2016,26,14,3,0.0,2231190182,Sevtap Duman,0,-0.5718141302122169,-0.19659132650003464
+2538989657,CRiOS Toward Large-Scale iOS Application Analysis,2016,13,3,3,0.0,2533221406,Damilola Orikogbo,0,-1.2572246807953738,2.6431874568261673
+2601591992,PayBreak Defense Against Cryptographic Ransomware,2017,25,66,4,0.0,2597502639,Eugene Kolodenker,0,0.24781902420386798,-0.3327985879104365
+2734542274,Semi-automated discovery of server-based information oversharing vulnerabilities in Android applications,2017,36,2,3,0.0,2561590268,William Koch,0,-0.9469768964217147,1.2368526778433964
+2784632333,CFI Goes Mobile Control-Flow Integrity for Smartphones,2011,0,0,1,1.0,1922185186,Manuel Egele,0,0.0040557659796233,0.2757546058061082
+2889663978,Proteus Detecting Android Emulators from Instruction-Level Profiles,2018,18,1,3,0.0,2227735725,Onur Sahin,0,-0.4113006248200615,1.0723466303801312
+2928702109,The Art Science and Engineering of Fuzzing A Survey,2018,172,3,1,1.0,1922185186,Manuel Egele,0,0.0040557659796233,0.2757546058061082
+2914768792,Session details Vulnerability Analysis,2017,0,0,1,1.0,1922185186,Manuel Egele,0,0.0040557659796233,0.2757546058061082
+2950379400,Towards Detecting Compromised Accounts on Social Networks,2015,12,2,1,1.0,1922185186,Manuel Egele,0,0.0040557659796233,0.2757546058061082
+2948107995,On the Perils of Leaking Referrers in Online Collaboration Services,2019,25,0,2,0.0,2948395530,Beliz Kaleli,0,1.7029826062605458,-0.2600589908962866
+2969417419,BorderPatrol Securing BYOD using Fine-Grained Contextual Information,2019,25,0,4,0.0,2969444310,Onur Zungur,0,0.20023670937315688,0.7644039474402508
+3022734414,PHMon A Programmable Hardware Monitor and Its Security Use Cases,2020,0,0,6,0.0,2776554394,Leila Delshadtehrani,0,0.0040557659796233,0.2757546058061082
+3015762016,Meddling Middlemen Empirical Analysis of the Risks of Data-Saving Mobile Browsers,2020,0,0,3,0.0,3016133750,Brian Kondracki,0,-0.7375509850793613,-1.083054901785394
+3005362731,HotFuzz Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing,2020,45,1,7,0.0,3004841116,William Blair,0,-0.6567160340281432,1.3137850476034183

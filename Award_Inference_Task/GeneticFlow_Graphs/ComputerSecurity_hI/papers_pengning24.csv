@@ -1,0 +1,113 @@
+86001303,Decentralized Detection of Distributed Attacks,2004,0,0,1,1.0,1998006409,Peng Ning,0,0.13679434731489165,0.6751406926737795
+22955795,New system security mechanisms for the cloud computing infrastructure,2012,0,0,1,1.0,1998006409,Peng Ning,0,1.085097682730419,1.950487146920374
+60572026,MetaSymploit day-one defense against script-based attacks with security-enhanced symbolic analysis,2013,33,12,2,1.0,2610543188,Ruowen Wang,0,-0.436928142390463,1.546856766630404
+163339721,An Intrusion Alert Correlator Based on Prerequisites of Intrusions,2002,12,47,1,1.0,1998006409,Peng Ning,0,2.2317730865127725,1.5345742809533678
+82430309,Correlating Alerts Using Prerequisites of Intrusions,2001,15,39,1,1.0,1998006409,Peng Ning,0,1.7179594819008146,1.4250319359716759
+168271011,Mechanisms for protecting software integrity in networked systems,2008,29,3,1,1.0,1998006409,Peng Ning,0,0.5707510035463177,1.652864294878387
+134682210,iHTTP efficient authentication of non-confidential HTTP traffic,2012,16,2,2,1.0,331283479,Jason Gionta,0,-0.8872263302416005,-0.6733777041351767
+151955485,An Overview of Related Research,2004,0,0,1,1.0,1998006409,Peng Ning,0,0.09559580611705876,1.421569348846138
+343263918,Security for wireless sensor networks,2006,0,56,2,0.724138,2147782801,Donggang Liu,0,-0.6282835574731542,-2.0495390344081086
+313713733,Correlating Alerts Using Prerequisites of Intrusions Towards Reducing False Alerts and Uncovering High Level Attack Strategies,2005,0,0,1,1.0,1998006409,Peng Ning,0,-0.33229735921527176,1.218131116556422
+293279915,Efficient Distribution of Key Chain Commitments for Broadcast Authentication in Distributed Sensor Networks,2002,10,222,2,1.0,2147782801,Donggang Liu,0,-0.5530861437885858,-0.004176666300269333
+1549767874,Alert correlation through triggering events and common resources,2004,17,72,2,0.888889,1969346749,Dingbang Xu,0,-0.6332125031479877,1.2899332850639076
+1488676795,Reasoning about complementary intrusion evidence,2004,24,50,2,0.0,2974666113,Y. Zhai,0,0.8132086575740218,0.9257086063639175
+1506298549,Certificate Recommendations to Improve the Robustness of Web of Trust,2004,27,3,3,0.0,2345090254,Qinglin Jiang,0,-0.02933240528715487,-1.5180462091000322
+1535235745,Improving Robustness of PGP Keyrings by Conflict Detection,2004,20,12,3,0.0,2345090254,Qinglin Jiang,0,-0.11323220301512156,-1.0371111601688079
+1278625838,Building Attack Scenarios through Integration of Complementary Alert Correlation Method,2004,21,131,1,1.0,1998006409,Peng Ning,0,-0.33229735921527176,1.218131116556422
+1495630617,On the expressiveness of return-into-libc attacks,2011,25,85,6,0.0,2040086302,Minh Tran,0,-0.6374321313972565,0.7165519675208408
+1454815643,EASEAndroid automatic policy analysis and refinement for security enhanced android via large-scale semi-supervised learning,2015,32,30,5,1.0,2610543188,Ruowen Wang,0,0.7561332607704458,1.2075793026715669
+1567750136,Proceedings of the 3rd ACM workshop on Security of ad hoc and sensor networks,2005,0,0,1,1.0,1998006409,Peng Ning,0,0.06870855610376642,0.3457881399120502
+1596066912,Proceedings of the 2007 ACM workshop on Computer security architecture,2007,0,1,1,1.0,1998006409,Peng Ning,0,0.26105216445995494,-0.043408848381593056
+1638127916,Automated Software Vulnerability Analysis,2010,24,2,3,0.882353,2146216389,Emre C. Sezer,0,-0.3214318542561452,1.827701081469371
+1598666658,Toward Automated Intrusion Alert Analysis,2010,34,2,2,1.0,1969346749,Dingbang Xu,0,1.8496321204219,1.4241735574548167
+1913845021,Enhancing security of Hadoop in a public cloud,2015,8,9,2,0.0,130593666,Mladen A. Vouk,0,-0.3857762024513458,0.3785705487687621
+1590636230,Computer Security ESORICS 2009 14th European Symposium on Research in Computer Security Saint-Malo France September 21-23 2009 Proceedings,2009,0,0,1,1.0,1998006409,Peng Ning,0,0.15501522577634033,-0.17763554885153518
+1594026167,Analyzing intensive intrusion alerts via correlation,2002,19,122,1,1.0,1998006409,Peng Ning,0,0.9708494183567112,1.6448019430591836
+1971497680,Detecting repackaged smartphone applications in third-party android marketplaces,2012,22,442,4,0.705882,2170363358,Wu Zhou,0,0.004930862674138965,0.08045855749499103
+1985686072,Vetting undesirable behaviors in android apps with permission use analysis,2013,50,218,6,0.875,2600652429,Yuan Zhang,0,-0.024607701557182792,1.2744970039255954
+1968248541,Poster mimicry attacks against wireless link signature,2011,8,13,2,1.0,2107409051,Yao Liu,0,-0.5530861437885858,-0.004176666300269333
+1977593541,SEER practical memory virus scanning as a service,2014,13,6,4,1.0,331283479,Jason Gionta,0,0.02569587120845554,0.7263664946552415
+1981617128,Dynamic adaptive anti-jamming via controlled mobility,2013,35,3,3,0.923077,2137403408,Xiaofan He,0,0.0040557659796233,0.2757546058061082
+1966100128,A Byzantine Attack Defender in Cognitive Radio Networks The Conditional Frequency Check,2013,33,46,3,0.923077,2137403408,Xiaofan He,0,0.0040557659796233,0.2757546058061082
+1997892903,Abstraction-based intrusion detection in distributed environments,2001,46,99,1,1.0,1998006409,Peng Ning,0,0.8073082943490874,1.77087497567499
+2005028112,False data injection attacks against state estimation in electric power grids,2009,42,850,2,0.888889,2107409051,Yao Liu,0,0.1639362940477497,0.6530314529854678
+2002054891,Establishing pairwise keys in distributed sensor networks,2003,16,1253,2,1.0,2147782801,Donggang Liu,0,-0.0032076935447978732,-2.08348374121027
+2000698497,ShortPK A short-term public key scheme for broadcast authentication in sensor networks,2009,37,24,4,0.666667,2223550309,Ronghua Wang,0,-0.4618291933671597,-2.04227308284092
+1988785069,Securing network access in wireless sensor networks,2009,10,22,4,0.75,2124125583,Kun Sun,0,-0.3528516682619233,-1.488498777904183
+1988952855,A Byzantine attack defender The Conditional Frequency Check,2012,13,12,3,0.923077,2137403408,Xiaofan He,0,0.03910652856792115,-0.9542749174440527
+2010440413,Analyzing network traffic to detect self-decrypting exploit code,2007,18,52,3,0.666667,2311898773,Qinghua Zhang,0,0.14168921783052993,0.5751745812993051
+2010514245,Containing denial-of-service attacks in broadcast authentication in sensor networks,2007,14,38,3,0.666667,2223550309,Ronghua Wang,0,-0.09077526112205736,-0.28892336935356494
+2012559808,HideM Protecting the Contents of Userspace Memory in the Face of Disclosure Vulnerabilities,2015,29,54,3,1.0,331283479,Jason Gionta,0,-0.565708808673446,0.7978589073474833
+2023503742,Privacy-Preserving Detection of Sybil Attacks in Vehicular Ad Hoc Networks,2007,8,67,3,0.0,2304177035,Tong Zhou,0,0.13981217474373742,0.7175569899861202
+2011316231,Self-sustaining efficient and forward-secure cryptographic constructions for Unattended Wireless Sensor Networks,2012,43,14,2,0.888889,2098645130,Attila A. Yavuz,0,-0.19358614699317916,-1.4370769265943866
+2023750123,Attack-Resistant Location Estimation in Wireless Sensor Networks,2008,43,112,2,0.595375,2147782801,Donggang Liu,0,-0.5530861437885858,-0.004176666300269333
+2033031156,Permission Use Analysis for Vetting Undesirable Behaviors in Android Apps,2014,51,15,5,0.875,2600652429,Yuan Zhang,0,-0.5346674810953296,1.2325879114566591
+2038651258,False data injection attacks against state estimation in electric power grids,2011,44,741,2,1.0,2107409051,Yao Liu,0,0.0040557659796233,0.2757546058061082
+2053343312,SICE a hardware-level strongly isolated computing environment for x86 multi-core platforms,2011,16,112,2,1.0,2127219309,Ahmed M. Azab,0,0.458315283065839,1.3078596206253412
+2050072803,Ally Friendly Jamming How to Jam Your Enemy and Maintain Your Own Wireless Connectivity at the Same Time,2013,40,47,2,0.0,2162042097,Wenbo Shen,0,0.0040557659796233,0.2757546058061082
+2073276729,How to misuse AODV a case study of insider attacks against mobile ad-hoc routing protocols,2005,25,80,1,1.0,1998006409,Peng Ning,0,0.0040557659796233,0.2757546058061082
+2076919976,The security of link signature A view from channel models,2014,20,12,6,0.923077,2137403408,Xiaofan He,0,-1.3498015754022374,1.8270982432149492
+2057789312,A k -anonymous communication protocol for overlay networks,2007,36,23,1,1.0,1998006409,Peng Ning,0,-0.67116879492382,-0.137555378368592
+2064979035,Securing Hadoop in cloud,2014,2,1,2,0.0,2230269082,Xianqing Yu,0,-0.3857762024513458,0.3785705487687621
+2068916368,Guest Editorial Special Issue on Security for IoT The State of the Art,2014,0,4,4,0.0,2137211123,Kui Ren,0,-0.051344733796153195,1.2537560285980165
+2063863347,Hypothesizing and reasoning about attacks missed by intrusion detection systems,2004,34,41,1,1.0,1998006409,Peng Ning,0,0.6827590472863246,1.3005672410635396
+2072638710,Secure and DoS-Resistant Code Dissemination in Wireless Sensor Networks Using Seluge,2008,11,11,3,0.75,2608864511,An Liu,0,-0.5530861437885858,-0.004176666300269333
+2092667369,Mitigating DoS attacks against broadcast authentication in wireless sensor networks,2008,39,214,1,1.0,1998006409,Peng Ning,0,-0.8581602651831174,-0.46700686641294836
+2099566680,Secure address auto-configuration for mobile ad hoc networks,2005,6,30,1,1.0,1998006409,Peng Ning,0,0.3259332239481683,0.5745734317069635
+2099988907,Avoiding loss of fairness owing to process crashes in fair data exchange protocols,2000,18,19,2,0.0,2428201908,Peng Liu,0,0.8250318540188255,0.08093612525075478
+2084627699,Modeling requests among cooperating intrusion detection systems,2000,12,17,1,1.0,1998006409,Peng Ning,0,1.5521388203584403,1.746004914618636
+2093935141,Authenticating Primary Users Signals in Cognitive Radio Networks via Integrated Cryptographic and Wireless Link Signatures,2010,25,143,2,1.0,2107409051,Yao Liu,0,-0.15864374652083932,-0.1879861517290886
+2101889913,HyperSentry enabling stealthy in-context measurement of hypervisor integrity,2010,21,212,2,1.0,2127219309,Ahmed M. Azab,0,0.0040557659796233,0.2757546058061082
+2085577046,AppIntent analyzing sensitive data transmission in android for privacy leakage detection,2013,38,262,5,0.0,2169574056,Zhemin Yang,0,-0.0663687048587582,0.6689622367383014
+2131880356,Learning attack strategies from intrusion alerts,2003,31,147,1,1.0,1998006409,Peng Ning,0,0.47058675889003804,1.4160512223053545
+2138049420,Automated Security Debugging Using Program Structural Constraints,2007,14,6,3,0.857143,2050790207,Chongkyung Kil,0,1.3885075499388826,1.7905763570216326
+2141200504,Constructing attack scenarios through correlation of intrusion alerts,2002,31,434,1,1.0,1998006409,Peng Ning,0,1.3823474979173807,1.571275104647528
+2126790703,A Framework for Identifying Compromised Nodes in Wireless Sensor Networks,2008,48,63,3,0.0,2645588533,Qing Zhang,0,0.3080694262304319,-0.24053820775046103
+2115149820,Techniques and tools for analyzing intrusion alerts,2004,33,232,1,1.0,1998006409,Peng Ning,0,1.0343022598775697,1.7774365753828285
+2127182941,How to misuse AODV a case study of insider attacks against mobile ad-hoc routing protocols,2003,23,149,1,1.0,1998006409,Peng Ning,0,0.0040557659796233,0.2757546058061082
+2127264212,On the secrecy of timing-based active watermarking trace-back techniques,2006,33,121,2,0.0,2001459235,Pai Peng,0,0.3139939642973432,-0.4259949914620587
+2106806183,Efficient self-healing group key distribution with revocation capability,2003,39,193,2,1.0,2147782801,Donggang Liu,0,0.33429747959551703,-1.2160177620528168
+2124939873,Always up-to-date scalable offline patching of VM images in a compute cloud,2010,9,46,2,0.705882,2170363358,Wu Zhou,0,-0.25726232239641234,1.311734200400081
+2122053504,Establishing pairwise keys in distributed sensor networks,2005,34,745,2,0.782609,2147782801,Donggang Liu,0,0.06795010412685677,-1.908139194545563
+2140073981,Automatic diagnosis and response to memory corruption vulnerabilities,2005,33,97,2,0.0,2618953326,Jun Xu,0,-0.3298717486468034,1.2192927984572213
+2137096945,Avoiding loss of fairness owing to failures in fair data exchange systems,2001,17,12,2,0.255319,2428201908,Peng Liu,0,0.2977030333544188,0.42209627204681427
+2110756602,Countering kernel rootkits with lightweight hook protection,2009,23,187,4,0.0,2569141412,Zhi Wang,0,-0.6537736244944359,1.188263400557981
+2128585062,Pre-authentication filters providing dos resistance for signature-based broadcast authentication in sensor networks,2008,22,36,3,0.0,2130770473,Qi Dong,0,-0.11349662999522299,-1.4469800114757903
+2116998101,BAF An Efficient Publicly Verifiable Secure Audit Logging Scheme for Distributed Systems,2009,27,62,2,0.888889,2098645130,Attila A. Yavuz,0,0.31171889683485904,-0.8532447664693831
+2108073531,Cyber SA situational awareness for cyber defense,2010,5,76,10,0.0,2078767370,Paul Barford,0,0.5640713789741858,0.5816850578530104
+2147468904,Memsherlock an automated debugger for unknown memory corruption vulnerabilities,2007,28,24,2,0.882353,2146216389,Emre C. Sezer,0,-1.4329284408797267,2.4540436095486364
+2156482830,Privacy-preserving alert correlation a concept hierarchy based approach,2005,19,42,2,1.0,1969346749,Dingbang Xu,0,0.04597164135826801,0.5754609189368322
+2183816381,Efficient Compromise Resilient and Append-Only Cryptographic Schemes for Secure Audit Logging,2012,47,31,2,0.888889,2098645130,Attila A. Yavuz,0,0.255792616055988,-1.1375813074207637
+2144749388,P2DAP â€” Sybil Attacks Detection in Vehicular Ad Hoc Networks,2011,11,92,1,1.0,1998006409,Peng Ning,0,-0.14452186159940644,-0.6986306586237334
+2168872572,Hypervision Across Worlds Real-time Kernel Protection from the ARM TrustZone Secure World,2014,40,145,2,0.91748,2127219309,Ahmed M. Azab,0,1.085097682730419,1.950487146920374
+2171878643,Defending DSSS-based broadcast communication against insider jammers via delayed seed-disclosure,2010,21,35,2,1.0,2608864511,An Liu,0,0.0040557659796233,0.2757546058061082
+2151006143,HIMA A Hypervisor-Based Integrity Measurement Agent,2009,24,88,2,1.0,2127219309,Ahmed M. Azab,0,-1.9368875604481868,0.24126542900967496
+2151021082,Secure Distributed Cluster Formation in Wireless Sensor Networks,2006,29,95,3,0.75,2124125583,Kun Sun,0,0.0040557659796233,0.2757546058061082
+2156914580,Group-based key pre-distribution in wireless sensor networks,2005,37,164,2,0.782609,2147782801,Donggang Liu,0,-0.061678035222201354,-1.8622119020349606
+2154555738,Address Space Layout Permutation (ASLP) Towards Fine-Grained Randomization of Commodity Software,2006,14,188,5,0.857143,2050790207,Chongkyung Kil,0,-1.1845336834478517,1.1570543639328077
+2146021366,An interleaved hop-by-hop authentication scheme for filtering of injected false data in sensor networks,2004,21,518,4,0.0,2170715427,Sencun Zhu,0,-0.7952488257210746,-0.40404386219511695
+2158421323,Defending against Sybil attacks in sensor networks,2005,12,94,4,0.666667,2311898773,Qinghua Zhang,0,-0.45071301596258123,-1.1458259178658394
+2164425130,BAF and FI-BAF Efficient and Publicly Verifiable Cryptographic Schemes for Secure Logging in Resource-Constrained Systems,2012,40,24,2,0.888889,2098645130,Attila A. Yavuz,0,0.7920751603789424,-0.6723999645083041
+2170701348,Integrating IDS alert correlation and OS-Level dependency tracking,2006,15,27,2,0.0,2229313536,Yan Zhai,0,0.042863296873603685,0.5217495490239079
+2167806953,Managing security of virtual machine images in a cloud environment,2009,8,242,5,0.0,2146727454,Jinpeng Wei,0,0.0040557659796233,0.2757546058061082
+2165025360,TinySeRSync secure and resilient time synchronization in wireless sensor networks,2006,34,171,2,0.75,2124125583,Kun Sun,0,-0.3857762024513458,0.3785705487687621
+2312687397,Security mechanisms for wireless sensor networks,2005,0,2,1,1.0,1998006409,Peng Ning,0,0.14890044242929662,-0.5128790231189825
+2317127693,Mimicry Attacks Against Wireless Link Signature and New Defense Using Time-Synched Link Signature,2016,30,13,3,0.0,2096328966,Song Fang,0,-0.15864374652083932,-0.1879861517290886
+2285840316,Improving the robustness of webs of trust,2006,57,1,1,1.0,1998006409,Peng Ning,0,-0.17346335895197895,-1.0336462112090914
+2397690172,Active timing based techniques for attack attribution through stepping stones,2006,39,1,1,1.0,1998006409,Peng Ning,0,0.155870422438688,-0.3611899258997246
+2488833067,Correlation analysis of intrusion alerts,2006,73,28,2,1.0,1969346749,Dingbang Xu,0,0.18305242604587826,0.8365469198378971
+2529158007,Robust network-based attack attribution through probabilistic watermarking of packet flows,2005,0,10,1,1.0,1998006409,Peng Ning,0,0.0040557659796233,0.2757546058061082
+2539806049,System and method for fraud detection in a mobile device,2016,12,3,1,1.0,1998006409,Peng Ning,0,-0.27471427522741126,0.7697101394831749
+2518732488,TIAA A visual toolkit for intrusion alert analysis,2003,23,4,1,1.0,1998006409,Peng Ning,0,0.0040557659796233,0.2757546058061082
+2519091223,Efficient compromise resilient and compact cryptographic constructions for digital forensics,2011,0,0,1,1.0,1998006409,Peng Ning,0,0.15956144327687038,-1.3017511715298034
+2597442665,Efficient self-healing group key distribution with revocation capability,2003,0,0,2,1.0,2147782801,Donggang Liu,0,0.13016842824192648,-1.3901449791059184
+2603707637,SPOKE Scalable Knowledge Collection and Attack Surface Analysis of Access Control Policy for Security Enhanced Android,2017,33,7,5,1.0,2610543188,Ruowen Wang,0,-0.8050188282019902,1.6581817531682113
+2621021686,APPARATUS AND METHOD FOR FRAUD DETECTION IN A MOBILE DEVICE,2016,9,0,1,1.0,1998006409,Peng Ning,0,-0.09602735134178905,0.6849619620451437
+2732635930,Computer Security â€“ ESORICS 2009,2009,0,150,1,1.0,1998006409,Peng Ning,0,-0.0018049263855483347,0.40953738484292634
+2601109594,PrivWatcher Non-bypassable Monitoring and Protection of Process Credentials from Memory Corruption Attacks,2017,37,5,4,0.0,2135521854,Quan Chen,0,-0.11442234510863847,1.2194552625696387
+2773969515,Towards Privacy-Aware Collaborative Security A Game-Theoretic Approach,2017,33,2,5,0.0,2585022787,Richeng Jin,0,0.11788927844100434,0.28667690844404875
+2803860298,Computer Security - 2009 14th European Symposium on Research in Computer Security,2009,0,0,1,1.0,1998006409,Peng Ning,0,0.0040557659796233,0.2757546058061082
+2912292827,Proceedings of the 2007 ACM workshop on Formal methods in security engineering,2007,0,1,2,0.0,417821493,Virgil D. Gligor,0,-0.6790541966604678,0.9025374134878512
+2889797916,False data injection attacks against state estimation in electronic power grids,2009,0,2,1,1.0,1998006409,Peng Ning,0,0.09213588834667,0.385594277368354
+2914332337,Proceedings of the 14th European conference on Research in computer security,2009,0,0,1,1.0,1998006409,Peng Ning,0,0.0040557659796233,0.2757546058061082
+1557890966,Broadcast Authentication and Key Management for Secure Sensor Networks,2005,0,3,1,1.0,1998006409,Peng Ning,0,-0.900902897602706,-2.226686566612944

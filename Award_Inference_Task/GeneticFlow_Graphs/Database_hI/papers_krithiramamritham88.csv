@@ -1,0 +1,102 @@
+17829141,Design Implementation and Performance of a Real-Time Version of a Commercial RDBMS,1995,0,0,6,1.0,1237419022,Rohan F. M. Aranha,0,1.204501787921431,0.29860165833699415
+2999123,Delegation in ACTA to Control Sharing in Extended Transactions,1993,0,31,2,0.857143,2030977514,Panos K. Chrysanthis,0,-0.0041099411153885,0.0447066884760059
+92965978,Review - Multi-Level Multi-Channel Air Cache Designs for Broadcasting in a Mobile Environment,2000,0,1,1,1.0,323797451,Krithi Ramamritham,0,-0.0041099411153885,0.0447066884760059
+8182279,Review - DynaMat A Dynamic View Management System for Data Warehouses,2000,0,0,1,1.0,323797451,Krithi Ramamritham,0,0.2864836852600773,0.0745537192963072
+145218042,Autonomy Requirements in Heterogeneous Distributed Database Systems,1994,0,6,2,0.8,2030977514,Panos K. Chrysanthis,0,0.9071990678644691,1.0669199639046407
+166738207,Recovery Guarantees Essentials and Incidentals,2001,8,0,1,1.0,323797451,Krithi Ramamritham,0,0.7720381635322429,0.8648230369288659
+31089479,Review - View Indexing in Relational Databases,2000,0,0,1,1.0,323797451,Krithi Ramamritham,0,2.0607590936868276,0.294875456926605
+168362755,Efficient Locking for Shared Memory Database Systems,1994,0,16,1,1.0,323797451,Krithi Ramamritham,0,0.9408492071308692,0.912959594064505
+134894549,enTrans a system for flexible consistency maintenance in directory applications,2002,3,1,3,0.0,348910532,Anandi Herlekar,0,-1.0035128499125199,2.6337411599401537
+66902711,Indexing and Compression in Data Warehouses,1999,9,2,2,0.0,2501107236,Kiran B. Goyal,0,0.11627582886789564,0.3621724021946999
+170359012,On the Complexity of Multi-Query Optimization in Stream Grids,2009,31,0,3,0.0,2642022711,Saikat Mukherjee,0,-0.2745762292053669,0.10240794179076973
+1522931342,Data Placement Logging and Recovery in Real-Time Active Databases,1996,19,31,2,0.9,2054267733,Rajendran M. Sivasankaran,0,1.1370959747541536,1.1455471834930133
+1523236749,Dissemination of dynamic data semantics algorithms and performance,2006,0,0,1,1.0,323797451,Krithi Ramamritham,0,-0.7432547769460127,-0.6714000117600754
+1533274141,Processing of location-dependent continuous queries on real-time spatial data the view from RETINA,2003,4,6,4,0.0,2150646034,D. Hung,0,0.221423897897152,-0.21080654779612165
+1506769073,Taming the dynamics of distributed data,2007,0,1,1,1.0,323797451,Krithi Ramamritham,0,-0.19170041100842003,0.022764747865444787
+1569931149,Toward Formalizing Recovery of (Advanced) Transactions,1997,0,6,2,0.0,2311128460,Cris Pedregal Martin,0,2.382911301555798,2.2726267046201025
+1534544034,Real-Time Databases (Panel),1991,0,2,1,1.0,323797451,Krithi Ramamritham,0,-0.0041099411153885,0.0447066884760059
+1562597209,Enabling generic keyword search over raw XML data,2015,13,5,2,0.0,2944154864,Manoj K Agarwal,0,2.2499305797205924,-0.844902428208157
+1562621314,A Formalism for Extended Transaction Model,1991,26,59,2,1.0,2030977514,Panos K. Chrysanthis,0,1.4592379654954397,1.5953384049633959
+1572056544,Curio A Novel Solution for Efficient Storage and Indexing in Data Warehouses,1999,5,24,2,0.298953,2121308263,Anindya Datta,0,-0.16328011374660287,0.9890247327765609
+1573401580,A Comparative Study of Alternative Middle Tier Caching Solutions to Support Dynamic Web Content Acceleration,2001,2,60,5,0.345054,2121308263,Anindya Datta,0,-0.8891065030052469,-0.8040926051980031
+1510373519,Real-Time Database Systems in the New Millenium,2000,9,21,2,0.134725,44170712,Jayant R. Haritsa,0,1.63183897934879,1.034617441794536
+1484581076,RTMonitor real-time data monitoring using mobile agent technologies,2002,4,9,3,0.0,2167150226,Kam Yiu Lam,0,0.18601297105691045,-0.0008472885667257998
+1512793002,Real-time databases issues and applications,1995,0,33,1,1.0,323797451,Krithi Ramamritham,0,2.291546326840983,2.2266750900134533
+1487112387,Continuous Media Sharing in Multimedia Database Systems,1995,17,66,2,0.666667,2780509901,Mohan Kamath,0,0.059237243901636004,0.1632240854285962
+1736250841,An architecture to support scalable online personalization on the Web,2001,22,44,4,0.345054,2121308263,Anindya Datta,0,-0.0041099411153885,0.0447066884760059
+1632451432,Dont Trash your Intermediate Results Cache em,2000,15,20,2,0.666667,2251098478,Prasan Roy,0,-0.0041099411153885,0.0447066884760059
+1755884546,Maintaining temporal coherency of virtual data warehouses,1998,10,66,3,0.0,3009094789,R. Srinivasan,0,-0.08194629719639007,0.10859021543288667
+1588586607,Client assignment in content dissemination networks for dynamic data,2005,28,12,2,1.0,2188953803,Shetal Shah,0,-0.18179782589503335,-0.06810305083386425
+1847254111,Failure handling and coordinated execution of concurrent workflows,1998,15,88,1,1.0,323797451,Krithi Ramamritham,0,1.2269493304548167,1.1510686447766632
+1961232073,On using priority inheritance in real-time databases,1991,11,107,3,1.0,2937687869,Jiandong Huang,0,0.8286466699603369,1.0027583038282522
+1685119681,Recovery in coherent shared-memory database systems,1996,0,0,1,1.0,323797451,Krithi Ramamritham,0,0.38009049917121435,0.45246057348231067
+1598711931,Scheduling Access to Temporal Data in Real-Time Databases,1997,20,20,1,1.0,323797451,Krithi Ramamritham,0,1.2016157633070563,0.9628943197996206
+1590719362,Specification and Analysis of Transactions in Real-Time Active Databases,1997,17,4,2,1.0,2953225385,Ming Xiong,0,1.2199100525916233,0.7697548708169156
+1590824386,Maintaining coherency of dynamic data in cooperating repositories,2002,23,39,2,1.0,2188953803,Shetal Shah,0,-0.18179782589503335,-0.06810305083386425
+1585354096,Semantic characterization of real world events,2005,12,10,3,0.0,2637157163,A. Nagargadde,0,0.4169901767344631,-0.03181084648581779
+1980260819,Efficient transaction support for dynamic information retrieval systems,1996,21,10,2,0.6,2780509901,Mohan Kamath,0,0.38009049917121435,0.45246057348231067
+1968501499,DELite database support for embedded lightweight devices,2004,5,2,1,1.0,323797451,Krithi Ramamritham,0,0.1433571064972671,-0.18383960560561197
+1986925088,ACTA a framework for specifying and reasoning about transaction structure and behavior,1990,14,162,2,0.0,2466294139,Panayiotis K. Chrysanthis,0,1.4011375758805784,1.5344000809109333
+1991036250,Real-time databases,1993,47,526,1,1.0,323797451,Krithi Ramamritham,0,1.9251473976877986,1.7840553873059948
+1991051801,Ratio threshold queries over distributed data sources,2013,8,6,2,0.351373,2150427611,Rajeev Gupta,0,-0.18179782589503335,-0.06810305083386425
+1987691872,Recovery protocols for shared memory database systems,1995,22,12,2,0.0,1462886501,Lory D. Molesky,0,-0.0041099411153885,0.0447066884760059
+2003581449,Revisiting commit processing in distributed database systems,1997,24,53,3,0.0,2293804746,R. Gupta,0,2.5648904364656286,2.624334658217263
+1991718350,Report on DART 96 databases active and real-time (concepts meet practice),1997,0,9,1,1.0,323797451,Krithi Ramamritham,0,-0.0041099411153885,0.0447066884760059
+2013571142,Proxy-based acceleration of dynamically generated content on the world wide web an approach and implementation,2002,14,93,5,0.345054,2121308263,Anindya Datta,0,-0.8891065030052469,-0.8040926051980031
+2012076343,Application-oriented database support,1996,0,0,1,1.0,323797451,Krithi Ramamritham,0,0.24710828277347904,-0.12419462994759982
+2014416555,Developmental informatics at IIT Bombay,2007,4,3,5,0.0,264747341,Anil Bahuman,0,-0.0041099411153885,0.0447066884760059
+2020288117,Context-aware Timely Information Delivery in Mobile Environments,2007,14,12,4,0.0,2088204822,Amit Thawani,0,-0.0041099411153885,0.0447066884760059
+2030852464,Scalable Execution of Continuous Aggregation Queries over Web Data,2012,15,6,2,0.453033,2150427611,Rajeev Gupta,0,0.0835119396817451,0.051530138659233005
+2024059934,Distributed execution of continuous queries,2014,15,1,2,0.351373,2150427611,Rajeev Gupta,0,0.11094685691299035,0.24805400511319034
+2038176938,Materialized view selection and maintenance using multi-query optimization,2001,23,185,3,1.0,1963517307,Hoshi Mistry,0,1.0181926767755531,0.45531393364249734
+2052388228,Verifying completeness of relational query results in data publishing,2005,19,226,3,0.0,2095771566,HweeHwa Pang,0,1.2507170147922342,0.32696284555149707
+2054306043,Implementation of a real-time database system,1996,16,22,6,1.0,1237419022,Rohan F. M. Aranha,0,2.783650941894379,1.6775747339800537
+2049583853,Priority inheritance in soft real-time databases,1992,10,74,3,1.0,2937687869,Jiandong Huang,0,-0.0041099411153885,0.0447066884760059
+2034011219,Mutual Consistency in Real-Time Databases,2006,24,18,3,0.0,2977209744,A.K. Jha,0,1.1021675539877869,0.7043831748996464
+2043318789,Synthesis of extended transaction models using ACTA,1994,23,194,2,0.8,2030977514,Panos K. Chrysanthis,0,1.3362040543203222,1.5687369862157075
+2064733631,aAqua a database-backended multilingual multimedia community forum,2006,1,19,1,1.0,323797451,Krithi Ramamritham,0,-0.0041099411153885,0.0447066884760059
+2068269259,Web-CAM monitoring the dynamic Web to respond to continual queries,2004,1,8,2,0.0,2174808482,Shaveen Garg,0,-0.8711777990364574,-0.8348957522988557
+2065035950,MIRROR a state-conscious concurrency control protocol for replicated real-time databasesâ˜†,2002,25,45,2,0.134725,44170712,Jayant R. Haritsa,0,2.523289490792517,3.2831517300540405
+2058964979,Data-based research at IIT Bombay,2013,50,0,3,0.0,2103349674,Soumen Chakrabarti,0,0.18601297105691045,-0.0008472885667257998
+2096934584,Keyword Search over Dynamic Categorized Information,2009,14,5,3,0.0,2099452792,Manish A. Bhide,0,-0.42871246499325555,-0.2646658986740211
+2089624648,Integrating temporal real-time an active databases,1996,13,44,1,1.0,323797451,Krithi Ramamritham,0,2.0181172958979183,2.735658112558522
+2103354818,Scalable consistency maintenance in content distribution networks using cooperative leases,2003,26,27,4,0.0,2973921482,A.G. Ninan,0,-0.04845191972554042,0.08456599180094845
+2100824669,Proxy-based acceleration of dynamically generated content on the world wide web An approach and implementation,2004,25,53,5,0.291332,2121308263,Anindya Datta,0,-0.8891065030052469,-0.8040926051980031
+2095781407,Efficient data management on lightweight computing devices,2005,14,21,1,1.0,323797451,Krithi Ramamritham,0,0.06885775276484239,-0.1658103043171126
+2090516771,Query Planning for Continuous Aggregation Queries over a Network of Data Aggregators,2012,27,15,2,0.0,2974876603,R. Gupta,0,-0.018402234187495797,-0.14199535740236252
+2098907704,An efficient and resilient approach to filtering and disseminating streaming data,2003,27,35,3,1.0,2188953803,Shetal Shah,0,-0.4054632534978899,0.036376001942439666
+2111580856,Network Services Database-a distributed active real-time database (DARTDB) application,1993,3,15,1,1.0,323797451,Krithi Ramamritham,0,1.9196564408016599,0.6050866928210777
+2138536231,Automating the detection of snapshot isolation anomalies,2007,11,66,3,0.0,1425447557,Sudhir Jorwekar,0,0.9084051112045654,0.9403670044019272
+2109396167,Accessing extra-database information concurrency control and correctness,1998,11,2,2,0.0,2006635972,Narain H. Gehani,0,2.4856417212768402,2.9012233893883406
+2142338887,Efficiently maintaining stock portfolios up-to-date on the Web,2002,9,5,2,0.0,2974829123,M. Bhide,0,-0.0041099411153885,0.0447066884760059
+2130281490,Performance evaluation of semantics-based multilevel concurrency control protocols,1990,17,36,2,0.0,2252377584,B. R. Badrinath,0,2.376031815465849,3.2190297341409675
+2136504047,Dynamic content acceleration a caching solution to enable scalable dynamic Web page generation,2001,0,22,3,0.345054,2121308263,Anindya Datta,0,-1.816379010837973,-1.7707583962693092
+2133484231,ACTA a comprehensive transaction framework for extended transactions,1992,1,1,2,1.0,2030977514,Panos K. Chrysanthis,0,1.7440958500705086,1.5754909726320645
+2124782390,Performance characteristics of epsilon serializability with hierarchical inconsistency bounds,1993,15,19,2,0.666667,2780509901,Mohan Kamath,0,1.709145738054793,1.4294596056101663
+2107320858,A taxonomy of correctness criteria in database applications,1996,43,73,1,1.0,323797451,Krithi Ramamritham,0,2.045450645266878,1.7986099015813262
+2125209134,Guaranteeing recoverability in electronic commerce,2001,7,12,2,0.0,208633017,C. Pedregal Martin,0,0.9408492071308692,0.912959594064505
+2116686813,Dissemination of dynamic data,2001,6,7,4,0.0,1597159941,Pavan Deolasee,0,-0.18179782589503335,-0.06810305083386425
+2107818727,Summary of database research activities at the University of Massachusetts Amherst,1992,0,1,1,1.0,323797451,Krithi Ramamritham,0,2.5694208270651595,0.6950335454713313
+2140876280,Semantics-based concurrency control beyond commutativity,1992,32,159,2,0.857143,2252377584,B. R. Badrinath,0,2.5014583256326555,1.7485972235028702
+2131850594,MIRROR a state-conscious concurrency control protocol for replicated real-time databases,1999,29,11,2,1.0,2953225385,Ming Xiong,0,0.7831572300327297,1.0045284102863483
+2108305506,Semantics-based concurrency control Beyond commutativity,1987,16,26,2,0.0,2252377584,B. R. Badrinath,0,2.1182551106287364,1.399589144590847
+2159494725,Delegation efficiently rewriting history,1997,18,14,2,0.0,2311128460,Cris Pedregal Martin,0,1.6971158956710504,1.6809944842102194
+2162756068,See whats enBlogue real-time emergent topic identification in social media,2012,31,53,3,0.0,2081075523,Foteini Alvanaki,0,-0.0041099411153885,0.0447066884760059
+2162775252,Efficient concurrency control for broadcast environments,1999,21,123,4,0.0,2640699514,Jayavel Shanmugasundaram,0,1.7862147444421785,1.9338814350050428
+2154045335,ASSET a system for supporting extended transactions,1994,21,117,5,0.0,505529943,Alexandros Biliris,0,2.538647637163022,2.431507121152455
+2163148546,A proxy-based approach for dynamic content acceleration on the WWW,2002,6,5,5,0.345054,2121308263,Anindya Datta,0,-0.6723578482228306,-0.4461580513083936
+2160282746,Handling Non-linear Polynomial Queries over Dynamic Data,2008,15,14,2,1.0,2188953803,Shetal Shah,0,-0.18179782589503335,-0.06810305083386425
+2169450010,Priority assignment in real-time active databases,1994,15,32,4,0.9,2054267733,Rajendran M. Sivasankaran,0,1.8173613900457988,1.6554410773982262
+2163959670,PTC proxies that transcode and cache in heterogeneous web client environments,2002,8,51,3,0.0,2619282314,Aameek Singh,0,-0.0041099411153885,0.0447066884760059
+2146092371,Ratio threshold queries over distributed data sources,2010,10,10,2,0.453033,2150427611,Rajeev Gupta,0,0.0835119396817451,0.051530138659233005
+2158162158,Optimized query planning of continuous aggregation queries in dynamic data dissemination networks,2007,18,25,2,0.453033,2150427611,Rajeev Gupta,0,0.014532710543751099,0.030944858938630852
+2158322699,Extracting concurrency from objects a methodology,1991,17,35,3,1.0,2030977514,Panos K. Chrysanthis,0,2.38066677065114,3.233958539627134
+2149549600,Is e-commerce a new wzve for database research ,2000,0,0,1,1.0,323797451,Krithi Ramamritham,0,0.5586742082380666,-0.1984847101299193
+2164572993,TranSquid transcoding and caching proxy for heterogenous e-commerce environments,2002,10,66,1,1.0,323797451,Krithi Ramamritham,0,-0.34857978327751216,-0.2513987233039086
+2400908817,Generic Keyword Search over XML Data,2016,19,7,2,0.0,2942760739,Manoj K. Agarwal,0,2.2264543832113666,-0.864750789273662
+2476742446,Efficient Transaction Management and Query Processing in Massive Digital Databases,1995,0,1,1,1.0,323797451,Krithi Ramamritham,0,-0.3819521990521837,0.5974458095448206
+2492244320,MIRROR a state-conscious concurrency control protocol for replicated real-time databases,1999,22,2,2,1.0,2953225385,Ming Xiong,0,2.523289490792517,3.2831517300540405
+2605324157,Real Time Contextual Summarization of Highly Dynamic Data Streams,2017,0,1,2,0.0,2253842096,Manoj K. Agarwal,0,-0.18179782589503335,-0.06810305083386425
+2953224074,Materialized View Selection and Maintenance Using Multi-Query Optimization,2000,13,2,3,1.0,1963517307,Hoshi Mistry,0,1.8067946116878748,0.7391432732401931
+3014961667,Priority assignment in real-time active databases,1996,15,59,4,0.9,2054267733,Rajendran M. Sivasankaran,0,0.6001628289588868,0.29324848339830717
+1536073146,Dissemination of Dynamic Data on the Internet,2000,14,7,1,1.0,323797451,Krithi Ramamritham,0,-0.7125662388950573,-0.5963660001799135

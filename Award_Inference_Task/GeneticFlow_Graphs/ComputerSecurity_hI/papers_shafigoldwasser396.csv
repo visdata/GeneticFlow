@@ -1,0 +1,49 @@
+120930527,Verifiable Secret Sharing and Achieving Simultaneity in the Presence of Faults (Extended Abstract),1985,0,102,2,0.0,1995245898,Benny Chor,0,2.042682290190275,-0.2951685819649505
+6809324,Why and How to Establish a Private Code on a Public Network (Extended Abstract),1982,0,8,1,1.0,1728759264,Shafi Goldwasser,0,0.2492098717483493,0.45891670112873356
+161466369,A Digital Signature Scheme Secure Against Adaptive Chosen Message Attack* Extended Abstract,1987,24,5,3,0.666667,695545146,Ronald L. Rivest,0,-0.3447716699737904,-2.0843050108024133
+117229448,Encapsulated Key Escrow,1996,0,48,1,1.0,1728759264,Shafi Goldwasser,0,0.12306131141600529,-1.438248771229886
+1533139329,Circular and Leakage Resilient Public-Key Encryption under Subgroup Indistinguishability - (or Quadratic Residuosity Strikes Back),2010,20,58,2,0.0,2494492398,Zvika Brakerski,0,0.45150834223151115,-2.0997449729683955
+1497828701,Secure Computation without Agreement,2002,28,96,1,1.0,1728759264,Shafi Goldwasser,0,1.3202863025890783,-0.3455014382852225
+1551624398,On the Structure of Secret Key Exchange Protocols,1989,0,7,3,0.4,2052950829,Mihir Bellare,0,-0.3204284349389639,-2.365735239273588
+1508077776,Public-Key Encryption Schemes with Auxiliary Inputs,2010,38,149,2,0.0,1259442811,Yevgeniy Dodis,0,0.19630442649190571,-1.9275135621731796
+1553251265,Eliminating Decryption Errors in the Ajtai-Dwork Cryptosystem,1997,1,2,2,0.474559,65538393,Oded Goldreich,0,0.4671243768588495,-2.4053048819447906
+1485212211,A &quot;Paradoxical&quot; Solution To The Signature Problem,1984,15,31,3,0.666667,695545146,Ronald L. Rivest,0,-0.09516356116396296,-0.8841206097338373
+1530181486,How to Protect Yourself without Perfect Shredding,2008,63,13,3,0.0,687553606,Ran Canetti,0,1.054725859655923,-1.3293676977907223
+1576151945,Cryptography without (Hardly Any) Secrets,2009,15,4,1,1.0,1728759264,Shafi Goldwasser,0,-0.010583337702541218,-1.2904593175789179
+1805062869,An Efficient threshold Public Key Cryptosystem Secure Against Adaptive Chosen Ciphertext Attack (Extended Abstract),1999,36,77,2,0.0,687553606,Ran Canetti,0,0.8209052087720483,-2.7112962097156488
+1754688259,Time delayed key escrow,1996,35,41,1,1.0,1728759264,Shafi Goldwasser,0,0.28439989420432565,-0.9873689374067361
+1888689086,Leakage-resilient coin tossing,2011,44,10,2,1.0,2314592861,Elette Boyle,0,0.29093764577004344,-0.8750932741560646
+1973454358,Leakage-resilient coin tossing,2014,43,9,2,0.923077,2314592861,Elette Boyle,0,0.21593135861379087,-0.13327922053782398
+1997820219,Verifiable secret sharing and achieving simultaneity in the presence of faults,1985,8,564,3,0.0,74094003,Baruch Awerbuch,0,-0.10425989283216307,-1.4230907167473974
+2043944888,Probabilistic encryption &amp; how to play mental poker keeping secret all partial information,1982,9,604,2,0.0,699581604,Silvio Micali,0,0.3656313580622659,-2.1656180069200586
+2043210833,Verifiable partial key escrow,1997,36,117,2,0.375,2052950829,Mihir Bellare,0,0.2766381659731833,-0.9837804306737956
+2064829080,Secure Multi-Party Computation without Agreement,2005,38,65,1,1.0,1728759264,Shafi Goldwasser,0,1.0440734462541583,-0.19686611896824172
+2060624942,Multiparty computation secure against continual memory leakage,2012,57,39,2,1.0,2314592861,Elette Boyle,0,0.27393366336048663,-0.21005352496964969
+2120154759,On the (In)security of the Fiat-Shamir paradigm,2003,32,209,1,1.0,1728759264,Shafi Goldwasser,0,-0.28300974771040344,-2.202694389845851
+2116321697,Program obfuscation and one-time programs,2008,0,1,1,1.0,1728759264,Shafi Goldwasser,0,-0.6554414250735527,0.5609275158033453
+2128531813,Why and how to establish a private code on a public network,1982,10,65,2,0.0,699581604,Silvio Micali,0,0.4057591819471085,-1.4263872421301542
+2163552131,Identification Protocols Secure against Reset Attacks,2001,35,85,3,0.10635,2052950829,Mihir Bellare,0,-0.0826692972343699,-0.23080053123325228
+2152377620,Incremental cryptography and application to virus protection,1995,15,116,3,0.5,2052950829,Mihir Bellare,0,-0.11557537940996336,-0.7236818571081115
+2235738211,How to Incentivize Data-Driven Collaboration Among Competing Parties,2016,23,4,2,0.0,2165471558,Pablo Daniel Azar,0,0.8866323065273579,-0.3022379484037254
+2267208944,Public-Key Encryption Schemes with Auxiliary Inputs Theory of Cryptography,2010,20,0,2,0.0,1259442811,Yevgeniy Dodis,0,0.48595512226445736,-2.084729643589418
+2248402017,On Best-Possible Obfuscation,2013,11,0,1,1.0,1728759264,Shafi Goldwasser,0,-0.255481096177426,0.4843741529378961
+2233411229,The paradigm of partial erasures,2008,68,1,3,0.0,2274697921,Dah Yoh Lim,0,-0.3125520258935691,-0.8359415319895942
+2294626749,Cryptographic Assumptions A Position Paper,2016,57,20,1,1.0,1728759264,Shafi Goldwasser,0,-1.1397811381974592,-1.9443916752671802
+2422366712,The Cryptographic Lens,2007,0,0,1,1.0,1728759264,Shafi Goldwasser,0,0.3171484069971384,-0.13992525839030945
+2549917267,A note on the impossibility of obfuscation,2014,5,0,2,0.0,64276155,Yael Tauman Kalai,0,-0.255481096177426,0.4843741529378961
+2615588709,Public-Key Cryptosystems from Lattice Reduction Problems,1996,0,10,2,0.818182,65538393,Oded Goldreich,0,0.8061424645574797,-2.5510298906691533
+2765216278,Public Accountability vs Secret Laws Can They Coexist A Cryptographic Proposal,2017,12,4,1,1.0,1728759264,Shafi Goldwasser,0,0.3074256548644306,-0.44705419476026126
+2949637089,How to Incentivize Data-Driven Collaboration Among Competing Parties,2016,6,0,2,0.0,2165471558,Pablo Daniel Azar,0,0.8866323065273579,-0.3022379484037254
+2949672923,Practical Accountability of Secret Processes,2018,0,10,4,0.0,2792480058,Jonathan Frankle,0,0.0040557659796233,0.2757546058061082
+2952565340,Leakage-Resilient Coin Tossing,2011,0,0,2,1.0,2314592861,Elette Boyle,0,0.0040557659796233,0.2757546058061082
+2952814694,Verifiable Partial Key Escrow,1996,0,4,2,0.5,2052950829,Mihir Bellare,0,0.2766381659731833,-0.9837804306737956
+2952929321,On the (In) security of the Fiat-Shamir Paradigm,2003,0,8,1,1.0,1728759264,Shafi Goldwasser,0,0.0040557659796233,0.2757546058061082
+2952934297,Circular and Leakage Resilient Public-Key Encryption Under Subgroup Indistinguishability (or Quadratic Residuosity Strikes Back),2010,0,3,2,0.0,2494492398,Zvika Brakerski,0,0.03910652856792115,-0.9542749174440527
+2951215601,Cryptographic Assumptions A Position Paper,2015,0,0,1,1.0,1728759264,Shafi Goldwasser,0,0.3171484069971384,-0.13992525839030945
+2951343930,How to Protect Yourself without Perfect Shredding,2008,0,0,3,0.0,687553606,Ran Canetti,0,0.0040557659796233,0.2757546058061082
+2949320853,Identification Protocols Secure Against Reset Attacks,2000,0,0,3,0.12621,2052950829,Mihir Bellare,0,0.0040557659796233,0.2757546058061082
+2991580995,Probabilistic encryption &amp; how to play mental poker keeping secret all partial information,2019,0,0,2,0.0,699581604,Silvio Micali,0,-0.08282188544078466,-1.434908483869987
+3008825770,Formalizing Data Deletion in the Context of the Right to be Forgotten,2020,26,2,2,0.0,2111572205,Sanjam Garg,0,0.837266694952819,0.606486644701569
+823527867,Adaptively Secure Two-Party Computation from Indistinguishability Obfuscation,2015,29,29,3,0.0,687553606,Ran Canetti,0,0.6936307073957466,-0.5677422119789013
+2952840477,Adaptively Secure Two-party Computation From Indistinguishability Obfuscation,2014,0,0,3,0.0,687553606,Ran Canetti,0,1.1066988453236333,0.212837383007192
+45815075,Transformation of digital signature schemes into designated confirmer signature schemes,2004,30,42,1,1.0,1728759264,Shafi Goldwasser,0,-0.4321857010207789,-1.9693174488145417

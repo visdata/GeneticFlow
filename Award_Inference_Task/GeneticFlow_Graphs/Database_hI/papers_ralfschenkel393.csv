@@ -1,0 +1,47 @@
+71739758,FedX a federation layer for distributed query processing on linked open data,2011,13,61,4,0.75,1989949162,Andreas Schwarte,0,0.0908845357243609,0.31128747720343375
+783841094,Interactive Information Extraction based on Distributed Data Management for German Grid Projects,2012,10,1,2,0.0,1991198776,RenÃ© JÃ¤kel,0,0.18601297105691045,-0.0008472885667257998
+1504777188,Overview of the INEX 2009 efficiency track,2009,4,3,1,1.0,2023575604,Ralf Schenkel,0,1.7544237823625253,-0.3669227466415658
+1489552619,Structural Feedback for Keyword-Based XML Retrieval,2006,0,28,1,1.0,2023575604,Ralf Schenkel,0,2.7101641118986985,-0.9702361969425751
+1535129465,FliX a flexible framework for indexing complex XML document collections,2004,20,5,1,1.0,2023575604,Ralf Schenkel,0,1.0727965500746055,-0.4685421957157178
+1544142967,Taming the Tiger How to Cope with Real Database Products in Transactional Federations for Internet Applications,2000,22,3,1,1.0,2023575604,Ralf Schenkel,0,1.941007628249974,2.2747349235487033
+1535279741,Top-k query evaluation with probabilistic guarantees,2004,38,224,3,1.0,2159374572,Martin Theobald,0,0.12628174114238816,0.0039009070058818006
+1491206589,The SphereSearch engine for unified ranked retrieval of heterogeneous XML and web documents,2005,42,76,2,0.428571,1189187856,Jens Graupmann,0,-2.0456374390214824,-1.8306454888477397
+1553945535,HOPI An Efficient Connection Index for Complex XML Document Collections,2004,25,125,1,1.0,2023575604,Ralf Schenkel,0,1.0076079117306915,-0.3261650064134532
+1545131111,Partout A Distributed Approach Towards Scalable RDF Processing,2012,0,0,1,1.0,2023575604,Ralf Schenkel,0,-0.39040501381267817,0.0678282925157182
+1484056211,FedX optimization techniques for federated query processing on linked data,2011,31,230,4,0.75,1989949162,Andreas Schwarte,0,0.0908845357243609,0.31128747720343375
+1501559242,TopX 20 at the INEX 2008 Efficiency Track,2009,12,3,3,0.410939,2159374572,Martin Theobald,0,1.1139944577434615,-0.43372331920654217
+1414665395,Design and Implementation of a Transparent Cache Layer for RDF Database Systems,2012,0,0,1,1.0,2023575604,Ralf Schenkel,0,-0.39040501381267817,0.0678282925157182
+1126437246,Sequoia - Design and Implementation of a Declarative Information Retrieval System,2011,0,0,1,1.0,2023575604,Ralf Schenkel,0,-0.0041099411153885,0.0447066884760059
+1530834279,Intelligent Search on XML Data Applications Languages Models Implementations and Benchmarks,2003,0,27,3,0.0,514836396,Gerhard Weikum,0,2.36137657396215,-0.9316838356491558
+1566806312,Whats next in XML and databases ,2004,6,2,4,0.0,9723467,Marco Mesiti,0,2.594387272476262,-1.0959306562702176
+1549261876,Feedback-Driven Structural Query Expansion for Ranked Retrieval of XML Data,2006,0,0,1,1.0,2023575604,Ralf Schenkel,0,0.9517866139851094,-0.1955669616140896
+1604098248,Searching RDF Graphs with SPARQL and Keywords,2010,14,51,3,0.0,1022046990,Shady Elbassuoni,0,-0.07013710453490275,0.2426811060750584
+1595060970,Real-time Text Queries with Tunable Term Pair Indexes,2010,29,2,2,1.0,131365313,Andreas Broschart,0,0.43739842239757626,0.009947045888208002
+1935917119,Ranking under Tight Budgets,2012,14,0,2,0.0,2058554348,Christian PÃ¶litz,0,-0.5082010164870415,0.6391222234981969
+1937208048,Ranked XML Processing,2009,0,1,2,0.0,2653530345,AmÃ©lie Marian,0,2.3346780463695924,-0.9519283973395046
+1760905688,An Experience Report of Large Scale Federations,2012,6,5,5,0.75,1989949162,Andreas Schwarte,0,-0.39040501381267817,0.0678282925157182
+1832726879,Temporal Knowledge for Timely Intelligence,2010,32,5,3,0.0,514836396,Gerhard Weikum,0,-0.0041099411153885,0.0447066884760059
+2006628185,Database techniques for linked data management,2012,28,8,3,0.0,2141679287,Andreas Harth,0,-0.41455630093693624,-0.9383602363347878
+2004194663,ROXXI Reviving witness dOcuments to eXplore eXtracted Information,2010,9,13,4,0.0,1022046990,Shady Elbassuoni,0,-0.39040501381267817,0.0678282925157182
+2035181994,WARP Workload-aware replication and partitioning for RDF,2013,15,59,2,0.29371,2153737888,Katja Hose,0,0.0908845357243609,0.31128747720343375
+2068070248,Colledge a vision of collaborative knowledge networks,2012,27,1,3,0.0,2153388062,Steffen Metzger,0,-0.17907394717992528,0.335876432921492
+2101282805,Efficient creation and incremental maintenance of the HOPI index for complex XML document collections,2005,30,90,1,1.0,2023575604,Ralf Schenkel,0,0.6199486293755825,-0.24958226497122596
+2090682579,IO-Top-k index-access optimized top-k query processing,2006,29,129,2,0.0,2160498795,Debapriyo Majumdar,0,0.3696771374804097,0.1043124096468764
+2102314503,DIVERSUM Towards diversified summarisation of entities in knowledge graphs,2010,5,13,3,0.0,2146876913,Marcin Sydow,0,-0.44997983020354526,-0.09808009609540518
+2111339924,Query Refinement by Relevance Feedback in an XML Retrieval System,2004,5,9,3,0.0,2130272593,Hanglin Pan,0,0.0908845357243609,0.31128747720343375
+2141618242,TopX â€“ AdHoc Track and Feedback Task,2006,13,3,3,1.0,131365313,Andreas Broschart,0,1.1139944577434615,-0.43372331920654217
+2105904924,Database foundations for scalable RDF processing,2011,170,33,2,0.301905,2153737888,Katja Hose,0,-0.39040501381267817,0.0678282925157182
+2127646644,Partout a distributed engine for efficient RDF processing,2014,7,101,3,0.705882,2110653650,Luis GalÃ¡rraga,0,-0.24921155514082186,0.05094653814423073
+2128375099,The TopX DB&amp;IR engine,2007,10,5,2,0.0,514836396,Gerhard Weikum,0,0.45800727995876594,-0.14462476490802698
+2110898590,Making SENSE socially enhanced search and exploration,2008,14,7,6,0.0,1212716344,Tom Crecelius,0,-0.0041099411153885,0.0447066884760059
+2137523786,An efficient and versatile query engine for TopX search,2005,39,126,2,1.0,2159374572,Martin Theobald,0,1.0632656000591671,-0.5898933502855922
+2156741190,IO-Top-k at TREC 2006 Terabyte Track,2006,9,1,3,0.0,1884751247,Hannah Bast,0,0.27170066117554836,0.25351867123412375
+2168966806,Feedback-Driven structural query expansion for ranked retrieval of XML data,2006,25,24,1,1.0,2023575604,Ralf Schenkel,0,2.016795247551559,-0.7977092476113847
+2160305607,Best-Effort Top-k Query Processing Under Budgetary Constraints,2009,20,27,5,0.0,2970504320,Michal Shmueli Scheuer,0,-0.0041099411153885,0.0447066884760059
+2163360598,Exploiting Structure Annotation and Ontological Knowledge for Automatic Classification of XML Data,2003,14,69,2,0.75,2159374572,Martin Theobald,0,1.0706970965232254,-0.2979988579025784
+2151586109,Towards a Statistically Semantic Web,2004,66,11,3,0.0,514836396,Gerhard Weikum,0,-2.2183863317148593,-2.264792494958313
+2174692888,The TopX DB&amp;IR Engine (Demo),2007,0,0,2,0.0,514836396,Gerhard Weikum,0,0.45800727995876594,-0.14462476490802698
+2161371090,Exploiting social relations for query expansion and result ranking,2008,16,75,7,0.0,2108261624,Matthias Bender,0,-0.0041099411153885,0.0447066884760059
+2170766963,TopX efficient and versatile top-k query processing for semistructured data,2008,106,78,2,0.0,514836396,Gerhard Weikum,0,0.9596266162441842,-0.139448194552879
+2500125840,Centralized Query Processing,2014,0,0,1,1.0,2023575604,Ralf Schenkel,0,0.014532710543751099,0.030944858938630852
+2951697394,Partout A Distributed Engine for Efficient RDF Processing,2012,32,10,3,0.705882,2110653650,Luis GalÃ¡rraga,0,-0.24921155514082186,0.05094653814423073

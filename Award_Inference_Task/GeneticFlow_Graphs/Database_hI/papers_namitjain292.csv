@@ -1,0 +1,37 @@
+1015165624,Buffered message queue architecture for database management systems with transactional enqueue support,2003,39,41,5,0.0,120221814,Krishnan Meiyyappan,0,-0.0041099411153885,0.0447066884760059
+1543991793,Log visualization tool for a data stream processing server,2009,258,62,3,0.0,285371764,Rakesh Komuravelli,0,-0.9890578925760911,0.4467568181898111
+1556284805,Method and apparatus for automatic notification of database events,2001,9,31,3,0.0,2026364570,Rajit Kambo,0,0.4337513914617648,-0.030940431688758745
+1520903990,Adding new continuous queries to a data stream management system operating on existing queries,2007,59,94,2,0.902279,2106748302,Shailendra Mishra,0,-0.4138712282219066,-0.11602281160026477
+1575735641,Method and mechanism for supporting virtual content in performing file operations at a RDBMS,2005,101,9,5,0.0,1977314037,Vikram Kapoor,0,-0.5376830935688297,2.003154990489834
+1928947374,System and method for providing highly available database performance,2011,68,4,1,1.0,2156323548,Namit Jain,0,1.2264140689549956,0.6627946476686839
+1794308432,Techniques for transaction semantics for a database server performing file operations,2004,96,23,4,0.0836184,202245023,Eric Sedlar,0,0.028681627061481474,0.282075478274118
+1930476151,Generating a schema-specific load structure to load data into a relational database based on determining whether the schema-specific load structure already exists,2003,124,11,3,0.189244,2096174866,Ravi Murthy,0,1.9073761425005105,0.2680777657741253
+1876520455,Logging framework for a data stream processing server,2009,270,54,2,0.902279,2106748302,Shailendra Mishra,0,-0.9890578925760911,0.4467568181898111
+1879303575,Sharing state information among a plurality of file operation servers,2005,92,17,5,0.0836184,202245023,Eric Sedlar,0,-1.4777831680881015,-0.8727675370183897
+1758305394,System and method for pre-compiling a source cursor into a target library cache,2005,57,11,1,1.0,2156323548,Namit Jain,0,0.826716182422988,0.6449142648773089
+1884466543,Efficient loading of data into a relational database,2003,22,13,3,0.189244,2096174866,Ravi Murthy,0,2.361202350380852,0.15018045556674336
+1813074572,Techniques for providing locks for file operations in a database management system,2004,79,15,5,0.0836184,202245023,Eric Sedlar,0,-0.7128084325267358,2.306945158654144
+1887182460,Buffered message queue architecture for database management systems with unlimited buffered message queue with limited shared memory,2003,57,37,5,0.0,120221814,Krishnan Meiyyappan,0,-0.0041099411153885,0.0447066884760059
+1855378774,Buffered message queue architecture for database management systems,2003,57,42,6,0.0,120221814,Krishnan Meiyyappan,0,-0.0041099411153885,0.0447066884760059
+1946589444,Standardized database connectivity support for an event processing server in an embedded context,2009,225,66,3,0.902279,2106748302,Shailendra Mishra,0,1.3428472904895086,0.28856415774301863
+1601891386,Methods and systems for database statement execution plan optimization,2002,52,15,3,0.7,1349031166,Sanjay Kaluskar,0,-0.8988766044575911,0.6265414747482602
+1897975632,Direct loading of semistructured data,2003,81,48,3,0.189244,2096174866,Ravi Murthy,0,0.3668441227679524,-0.1834710224579062
+1949479954,Buffered message queue architecture for database management systems with guaranteed at least once delivery,2003,62,37,6,0.0,120221814,Krishnan Meiyyappan,0,-0.0041099411153885,0.0447066884760059
+1866590543,Processing path-based database operations,2004,171,12,4,0.0836184,202245023,Eric Sedlar,0,-0.4158634060287807,0.4835248812370578
+1950982770,Compile time opcodes for efficient runtime interpretation of variables for database queries and DML statements,2011,26,16,2,0.6,2150317213,Kumar Rajamani,0,-0.8111052405828644,0.8913388803529055
+1869854669,Techniques for performing file operations involving a link at a database management system,2005,101,10,6,0.0836184,202245023,Eric Sedlar,0,-0.8188026787132945,2.5022281251616065
+2005002734,Support for user defined aggregations in a data stream management system,2007,69,61,2,0.902279,2106748302,Shailendra Mishra,0,-0.015878594798792806,-0.4432452530213727
+2066477464,Support for user defined functions in a data stream management system,2007,79,70,2,0.902279,2106748302,Shailendra Mishra,0,-0.31258019617632926,-0.6309178857335827
+2135038098,Buffered message queue architecture for database management systems with memory optimizations and â€œzero copyâ€ buffered message queue,2003,52,66,5,0.0,120221814,Krishnan Meiyyappan,0,-0.0041099411153885,0.0447066884760059
+2110486662,Infrastructure for performing file operations by a database server,2004,99,21,4,0.0836184,202245023,Eric Sedlar,0,-1.1407860531264196,3.3423595335927025
+2151465180,Method and mechanism for loading XML documents into memory,2005,196,10,4,0.135422,2096174866,Ravi Murthy,0,1.5994187847074424,-0.4599717745020377
+2209814480,Systems and methods for sharing of execution plans for similar database statements,2002,53,131,2,0.7,1349031166,Sanjay Kaluskar,0,1.1930577160661062,0.2937743100249808
+2204627048,Techniques for maintaining consistency for different requestors of files in a database management system,2004,84,23,5,0.0836184,202245023,Eric Sedlar,0,1.2094227353982505,0.35395328291823036
+2197225075,Support for incrementally processing user defined aggregations in a data stream management system,2007,80,56,2,0.902279,2106748302,Shailendra Mishra,0,0.37711050803875146,-0.3125723684253144
+2217404323,Infrastructure for spilling pages to a persistent store,2009,157,53,2,0.902279,2106748302,Shailendra Mishra,0,0.30265740233268107,0.012359040392557268
+2199000587,Facilitating Flexible Windows In Data Stream Management Systems,2007,11,49,2,0.902279,2106748302,Shailendra Mishra,0,-0.0041099411153885,0.0447066884760059
+2226669316,Standardized database connectivity support for an event processing server,2009,257,71,3,0.902279,2106748302,Shailendra Mishra,0,1.3428472904895086,0.28856415774301863
+2226917666,Method and apparatus for efficient runtime memory access in a database,2004,2,3,2,0.6,2150317213,Kumar Rajamani,0,-0.0041099411153885,0.0447066884760059
+2308663720,Efficient processing of path related operations on data organized hierarchically in an RDBMS,2006,139,12,2,0.29804,2122783418,Nipun Agarwal,0,1.204501787921431,0.29860165833699415
+2282141039,Database management system for implementing independent database actions in response to events of interest,2002,5,6,3,0.0,2026364570,Rajit Kambo,0,2.5058746347569456,1.0258677790929263
+2849390911,Method for loading xml documents into memory,2011,0,0,4,0.0737309,2096174866,Ravi Murthy,0,0.5586742082380666,-0.1984847101299193

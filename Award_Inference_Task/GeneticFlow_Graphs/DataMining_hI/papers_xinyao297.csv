@@ -1,0 +1,73 @@
+207773463,A learning-to-rank algorithm for constructing defect prediction models,2012,20,8,3,1.0,2135262175,Xiaoxing Yang,0,0.12180349504725595,-0.12684065962438598
+229266235,Application of Genetic Algorithm and K-Nearest Neighbour Method in Real World Medical Fraud Detection Problem,2000,0,16,4,0.0,2101461566,Hongxing He,0,-0.6999921316151649,1.7949436817154505
+750165539,A clustering-ranking method for many-objective optimization,2015,50,26,4,0.0,2696255909,Lei Cai,0,-0.21934185016841626,0.6056873083074126
+1505910962,Non-uniform layered clustering for ensemble classifier generation and optimality,2010,16,10,3,0.0,2259086880,Ashfaqur Rahman,0,0.4442622545620462,1.779228835998997
+1562097319,Using a genetic algorithm for editing k-nearest neighbor classifiers,2007,12,12,2,0.6,98077954,Roberto Gil Pita,0,1.4950231383704484,0.3593061109193498
+1487126431,Application of Genetic Algorithm and k-Nearest Neighbour Method in Medical Fraud Detection,1998,5,27,3,0.0,2996856133,Hongxing He,0,0.2065100717332588,0.38359347804226923
+1513386654,Cost-sensitive classification with genetic programming,2005,34,34,3,0.818182,2646295874,Jin Li,0,0.6601440588043659,1.4651173912635744
+1850323027,Evolving materialized views in data warehouse,1999,15,30,1,1.0,2106268727,Xin Yao,0,-1.0864515351324453,0.5417338159510762
+1581567317,Profiling of Mass Spectrometry Data for Ovarian Cancer Detection Using Negative Correlation Learning,2009,23,0,4,0.75,2174338474,Shan He,0,0.07458425673643385,0.0675706246755661
+1970660793,Ensembles and locality,2013,59,81,2,1.0,1231678246,Leandro L. Minku,0,-0.025136315868969732,-0.030920891000099444
+1985442349,Relationships between Diversity of Classification Ensembles and Single-Class Performance Measures,2013,58,79,2,1.0,2592188597,Shuo Wang,0,-0.006175039927688993,-0.21360228409666035
+1994445591,Graph-Based Approaches for Over-Sampling in the Context of Ordinal Regression,2015,32,34,4,0.0,2048586200,MarÃ­a PÃ©rez Ortiz,0,0.003708468606338,0.082832279151172
+1996673440,Cooperative Co-evolution for large scale optimization through more frequent random grouping,2010,15,117,4,0.0,1898045809,Mohammad Nabi Omidvar,0,0.003708468606338,0.082832279151172
+2007797768,ONLINE CLASS IMBALANCE LEARNING AND ITS APPLICATIONS IN FAULT DETECTION,2013,47,38,3,1.0,2592188597,Shuo Wang,0,0.4467921966217981,0.3907407065281772
+1995920661,An effective evolutionary algorithm for discrete-valued data clustering,2008,19,0,3,0.0,2973513343,P.C.H. Ma,0,-0.903135615830319,2.9754530673045196
+2012663856,A learning framework for online class imbalance learning,2013,40,46,3,1.0,2592188597,Shuo Wang,0,0.2722367933815758,1.2042900976438342
+2027333824,An analysis of multi-objective evolutionary algorithms for training ensemble models based on different performance measures in software effort estimation,2013,30,25,2,1.0,1231678246,Leandro L. Minku,0,0.4704227532301462,-0.653390116101953
+2047338137,A Learning-to-Rank Approach to Software Defect Prediction,2015,29,51,3,1.0,2135262175,Xiaoxing Yang,0,0.003708468606338,0.082832279151172
+2037242621,Concept drift detection for online class imbalance learning,2013,33,32,6,1.0,2592188597,Shuo Wang,0,1.0606217404682612,0.36229740301724184
+2044467713,Can cross-company data improve performance in software effort estimation ,2012,22,33,2,1.0,1231678246,Leandro L. Minku,0,0.4581731126179849,-0.22005059429428114
+2055058987,The potential benefit of relevance vector machine to software effort estimation,2014,37,2,3,1.0,2223805645,Liyan Song,0,0.21438872843298346,-0.1353423822296997
+2037536778,Pipe failure prediction A data mining method,2013,37,8,5,0.0,2308559263,Rui Wang,0,0.2715187261649746,0.16245986211863256
+2062770324,A multi-objective ensemble method for online class imbalance learning,2014,27,11,3,1.0,2592188597,Shuo Wang,0,0.49714918071171316,0.563226717418469
+2068816944,The impact of parameter tuning on software effort estimation using learning machines,2013,30,44,3,1.0,2223805645,Liyan Song,0,-0.6184122787352695,3.361023539831128
+2078351124,Automatic feature-queried bird identification system based on entropy and fuzzy similarity,2008,4,3,3,0.0,2532330253,Xingqi Wang,0,0.003708468606338,0.082832279151172
+2071353971,Neural networks ensembles for short-term load forecasting,2011,15,8,2,0.0,2132384769,Matteo De Felice,0,0.11672415509507165,0.0338187686908989
+2100027731,Classification-assisted Differential Evolution for computationally expensive problems,2011,21,20,3,0.0,2297202352,Xiaofen Lu,0,0.003708468606338,0.082832279151172
+2103372737,Robust twin boosting for feature selection from high-dimensional omics data with label noise,2015,71,19,8,0.75,2174338474,Shan He,0,-0.3159268375051907,-0.036455905740102844
+2095961898,Dynamic adaptive search based software engineering,2012,69,66,4,0.0,2150723893,Mark Harman,0,0.003708468606338,0.082832279151172
+2087240369,MWMOTE--Majority Weighted Minority Oversampling Technique for Imbalanced Data Set Learning,2014,42,271,3,0.0,2115071381,Sukarna Barua,0,0.21148232987807458,0.29473450362200054
+2105254736,Evolving SQL Queries for Data Mining,2002,5,5,2,0.0,2556730287,Majid Salim,0,0.1730401318448562,-0.04823754900033478
+2111540240,Software Module Clustering as a Multi-Objective Search Problem,2011,31,220,3,0.0,3022373926,Kata Praditwong,0,-0.21934185016841626,0.6056873083074126
+2120457925,Using Class Imbalance Learning for Software Defect Prediction,2013,52,216,2,1.0,2592188597,Shuo Wang,0,-0.5856766181639851,2.7423651039171704
+2111759698,An evolutionary clustering algorithm for gene expression microarray data analysis,2006,72,92,3,0.0,2974139128,P.C.H. Ma,0,-0.8830581410641518,3.1358453881396713
+2138906630,A novel evolutionary data mining algorithm with applications to churn prediction,2003,40,271,3,0.0,2171556376,Wai Ho Au,0,0.21438872843298346,-0.1353423822296997
+2115618391,Using diversity to handle concept drift in on-line learning,2009,21,11,2,0.0,2306636391,Fernanda L. Minku,0,-0.16256033234579742,0.33403445104841156
+2136256517,Diversity analysis on imbalanced data sets by using ensemble models,2009,19,215,2,1.0,2592188597,Shuo Wang,0,0.1501087411048699,-0.08278282979465243
+2139327121,The Impact of Diversity on Online Ensemble Learning in the Presence of Concept Drift,2010,51,266,3,1.0,1231678246,Leandro L. Minku,0,0.4354244974720783,-0.36928054659986054
+2133671203,Gene selection algorithms for microarray data based on least squares support vector machine,2006,33,83,3,0.0,2905876866,E. Ke Tang,0,0.003708468606338,0.082832279151172
+2107327607,Resampling-Based Ensemble Methods for Online Class Imbalance Learning,2015,32,118,3,1.0,2592188597,Shuo Wang,0,0.06025254630254029,0.3037865863789618
+2113725030,Boosting Kernel Models for Regression,2006,23,6,2,0.0,2310894695,Ping Sun,0,-0.45882076634396435,0.36107543868279685
+2107725544,A principled evaluation of ensembles of learning machines for software effort estimation,2011,33,26,2,1.0,1231678246,Leandro L. Minku,0,-0.3159268375051907,-0.036455905740102844
+2143515359,An evolutionary approach to materialized views selection in a data warehouse environment,2001,24,111,2,0.0,2789788946,Chuan Zhang,0,-0.7835248190665078,0.6186187050675203
+2116796458,Theoretical Study of the Relationship between Diversity and Single-Class Measures for Class Imbalance Learning,2009,15,8,2,1.0,2592188597,Shuo Wang,0,0.9639801876898664,0.007839024892553536
+2116812331,A wavelet-based data pre-processing analysis approach in mass spectrometry,2007,22,18,3,0.3,2438073521,Xiaoli Li,0,0.2158404674125788,0.2705664483638917
+2122738917,Feature Selection for Microarray Data Using Least Squares SVM and Particle Swarm Optimization,2005,10,27,3,0.0,2936523531,E.K. Tang,0,-0.25023896793326905,0.13037718530513653
+2137890728,Profiling MS proteomics data using smoothed non-linear energy operator and Bayesian additive regression trees,2009,49,6,2,0.0,569975964,Mark R. Viant,0,0.21438872843298346,-0.1353423822296997
+2147234763,Neural-Based Learning Classifier Systems,2008,42,72,4,0.0,2144871212,Hai Huong Dam,0,0.5877807512276121,-0.14013156357838982
+2148669107,A Probabilistic Ensemble Pruning Algorithm,2006,13,12,3,1.0,2162722686,Huanhuan Chen,0,-0.22179705402134794,-0.14364490433970478
+2163787796,Predictive Ensemble Pruning by Expectation Propagation,2009,39,61,2,1.0,2162722686,Huanhuan Chen,0,-0.22179705402134794,-0.14364490433970478
+2312339748,Stochastic Ranking Algorithm for Many-Objective Optimization Based on Multiple Indicators,2016,49,64,4,0.0,2160803496,Bingdong Li,0,0.003708468606338,0.082832279151172
+2340364116,Semisupervised Classification With Cluster,2012,24,0,1,1.0,2106268727,Xin Yao,0,0.2752340346559363,0.35810875821185906
+2343420905,A Survey on Evolutionary Computation Approaches to Feature Selection,2016,247,429,4,0.0,2167531144,Bing Xue,0,0.5569096790298012,0.37645310394204046
+2343742239,Online Ensemble Learning of Data Streams with Gradually Evolved Classes,2016,44,58,5,0.0,2997268275,Yu Sun,0,-0.1079872586336733,0.0658068667418925
+2557362919,Search based recommender system using many-objective evolutionary algorithm,2016,45,3,5,0.0,2160803496,Bingdong Li,0,-0.10580674422818681,-0.28184001496195515
+2508196257,FEMOSAA Feature Guided and Knee Driven Multi-Objective Optimization for Self-Adaptive Software at Runtime,2016,41,2,4,1.0,2676550786,Tao Chen,0,-0.0160484811255519,-0.31555163086887356
+2564960719,Robust Online Time Series Prediction with Recurrent Neural Networks,2016,44,32,3,0.0,2166312522,Tian Guo,0,0.11672415509507165,0.0338187686908989
+2619178312,Predicting Car Park Occupancy Rates in Smart Cities,2017,10,13,3,0.0,1556156961,Daniel H. Stolfi,0,-0.4381479942883965,1.2030875514352943
+2756578209,R-Metric Evaluating the Performance of Preference-Based Evolutionary Multiobjective Optimization Using Reference Points,2018,54,31,3,1.0,2624367358,Ke Li,0,0.003708468606338,0.082832279151172
+2755782863,SaaS for Automated Job Performance Appraisals Using Service Technologies and Big Data Analytics,2017,9,2,5,0.0,2083279976,I Ling Yen,0,0.6374428360107792,-0.02346634854009383
+2752794725,Scalable Graph-Based Semi-Supervised Learning through Sparse Bayesian Model,2017,41,14,4,0.0,2601472133,Bingbing Jiang,0,0.11672415509507165,0.0338187686908989
+2795445515,A Survey and Taxonomy of Self-Aware and Self-Adaptive Cloud Autoscaling Systems,2018,135,18,3,1.0,2676550786,Tao Chen,0,0.003708468606338,0.082832279151172
+2885310037,A Stepwise Spatio-Temporal Flow Clustering Method for Discovering Mobility Trends,2018,35,4,1,1.0,2106268727,Xin Yao,0,0.09749198492487574,0.2778586483106771
+2921981915,Quality Evaluation of Solution Sets in Multiobjective Optimisation A Survey,2019,207,28,2,0.714286,2109593841,Miqing Li,0,0.003708468606338,0.082832279151172
+2913306795,Ensemble of Classifiers Based on Multiobjective Genetic Sampling for Imbalanced Data,2020,49,2,3,0.0,2223872012,Everlandio R. Q. Fernandes,0,0.5932000674744945,0.5788912163700141
+2910421826,Visualizing spatial interaction characteristics with direction-based pattern maps,2019,48,0,1,1.0,2106268727,Xin Yao,0,0.6071381802426528,1.2867648576818782
+2911455468,Learning Topological Representation for Networks via Hierarchical Sampling,2019,26,3,3,0.0,2911408120,Guoji Fu,0,0.003708468606338,0.082832279151172
+2990116723,Many-objective test suite generation for software product lines,2020,45,1,6,0.0,689791922,Robert M. Hierons,0,-0.0160484811255519,-0.31555163086887356
+2988172132,Optimal Evolutionary Optimization Hyper-parameters to Mimic Human User Behavior,2019,13,0,4,0.0,2987226325,Sneha Saha,0,-0.3790503048584064,0.5419231651326136
+3000426947,Learning Time-Series Data of Industrial Design Optimization using Recurrent Neural Networks,2019,26,0,6,0.0,2987226325,Sneha Saha,0,0.21438872843298346,-0.1353423822296997
+3007071044,DIDD Identifying and Learning New Conceptual Data with Lower Diversity,2019,15,0,2,0.0,3007808584,Chao Pan,0,0.3026495425200123,-0.17912933319875984
+1997638116,EVOLVING EDITED k-NEAREST NEIGHBOR CLASSIFIERS,2008,14,29,2,0.6,98077954,Roberto Gil Pita,0,1.0212691137528933,0.4883177496902797
+2948130749,Standing on the Shoulders of Giants Seeding Search-based Multi-Objective Optimization with Prior Knowledge for Software Service Composition,2019,35,5,3,1.0,2676550786,Tao Chen,0,-0.0160484811255519,-0.31555163086887356
