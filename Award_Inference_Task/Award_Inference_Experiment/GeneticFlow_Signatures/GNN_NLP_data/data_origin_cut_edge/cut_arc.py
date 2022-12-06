@@ -72,7 +72,7 @@ for root, dirs, files in os.walk("../data_origin_cut_edge", topdown=False):
             y_pred = (result > float(Ratio)).astype(int)
             Edge=[]
             df_paper=pd.read_csv("../csv/papers"+name[9:], header = None)
-            df_paper=df_paper[df_paper[6].astype(float) >= 0.5]
+            df_paper=df_paper[df_paper[6].astype(float) >= 0]
             vertex=df_paper.iloc[:,0].values
             # print(vertex)
             for i in range(y_pred.shape[0]):

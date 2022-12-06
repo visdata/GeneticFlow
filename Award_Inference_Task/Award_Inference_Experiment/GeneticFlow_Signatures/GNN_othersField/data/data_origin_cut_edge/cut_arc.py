@@ -34,7 +34,7 @@ for root, dirs, files in os.walk("../data_origin_cut_edge", topdown=False):
             Edge=[]
             print(name)
             df_paper=pd.read_csv("../data_origin_cut_edge/papers"+name[5:], header = None, sep='\t')
-            df_paper=df_paper[df_paper[5].astype(float) >= 0.5]
+            df_paper=df_paper[df_paper[5].astype(float) >= 0]
             vertex=df_paper.iloc[:,0].values
             # print(vertex)
             for i in range(y_pred.shape[0]):
