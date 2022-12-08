@@ -2,11 +2,11 @@
 
 [Advisor-advisee_Relationship_Detection] :
 
-We provide an experiment, which introduces our algorithm for advisor-advisee detection task.
+We provide the data and code, which implements our algorithm for advisor-advisee detection task.
 
 [Alphabetically_Ordered_Paper_Detection] :
 
-We provide a python file, which introduces our method for alphabetically ordered paper detection.
+We provide a python file, which implements our method for alphabetically ordered paper detection.
 
 [Inference_of_Extend-type_Citations] :
 
