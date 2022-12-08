@@ -61,8 +61,8 @@ for root, dirs, files in os.walk("./graph", topdown=False):
             Advisor_advisee_ratio=df.values
             # print(Advisor_advisee_ratio[:,0])
             
-            print_to_file("positive_samples.txt",name.split(".")[0]+":")
-            print_to_file("negative_samples.txt",name.split(".")[0]+":")
+            print_to_file("positive_labels.txt",name.split(".")[0]+":")
+            print_to_file("negative_labels.txt",name.split(".")[0]+":")
             students_pd=pd.read_csv("../Openreview_advisee-advisee_crawler_"+field+"/student/"+str(number)+".txt",header=None)
             students=students_pd.iloc[1:,0].values
             min_year=students_pd.iloc[1:,1].values

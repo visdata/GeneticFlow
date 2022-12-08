@@ -2,12 +2,16 @@
 
 [Openreview_advisee-advisee_crawler_DataMining] :
 
+This folder contains the Data Mining datasets crawled from Openreview.
+
 ```
 cd Openreview_advisee-advisee_crawler_DataMining
 python author-main.py 0
 ```
 
 [Openreview_advisee-advisee_crawler_NLP] :
+
+This folder contains the NLP datasets crawled from Openreview.
 
 ```
 cd Openreview_advisee-advisee_crawler_NLP
